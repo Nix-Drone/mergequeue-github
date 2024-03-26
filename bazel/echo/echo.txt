@@ -72,7 +72,6 @@ erase
 erode
 erosion
 error
-escape
 escort
 especially
 essay
@@ -107,6 +106,7 @@ expect
 expensive
 experience
 expert
+escape
 expire
 explain
 explode

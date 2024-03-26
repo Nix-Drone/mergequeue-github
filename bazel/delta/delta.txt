@@ -40,7 +40,6 @@ defibrinogenzes
 defibrinogenzing
 defibrinogenzings
 defibrinolyses
-defibrinolysis
 defibrinolytic
 defibrinolyze
 defibrinolyzed
@@ -126,6 +125,7 @@ defleaing
 defleas
 deflect
 deflected
+defibrinolysis
 deflecting
 deflection
 deflections
