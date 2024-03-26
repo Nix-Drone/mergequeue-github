@@ -2,7 +2,6 @@ use rand::Rng;
 use std::fs::OpenOptions;
 use std::io::{BufRead, Write};
 use std::io::{BufReader, BufWriter};
-use walkdir::WalkDir;
 
 pub fn change_file(filenames: &[String]) -> std::io::Result<()> {
     let mut rng = rand::thread_rng();

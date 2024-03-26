@@ -11,10 +11,20 @@ pub enum Mode {
     ParallelQueue,
 }
 
-#[derive(Config)]
+#[derive(Serialize, Deserialize, Debug)]
+#[serde(rename_all = "lowercase")]
+pub enum Build {
+    None,
+    Bazel,
+}
+
+#[derive(Config, Serialize)]
 pub struct Conf {
     #[config(default = "singlequeue")]
     pub mode: Mode,
+
+    #[config(default = "none")]
+    pub build: Build,
 
     #[config(default = 0.1)]
     pub flake_rate: f32,

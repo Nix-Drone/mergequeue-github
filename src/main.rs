@@ -3,10 +3,9 @@ use confique::Config;
 use gen::cli::{Cli, Subcommands};
 use gen::config::Conf;
 use gen::edit::change_file;
+use serde_json::to_string_pretty;
 use std::path::PathBuf;
 use walkdir::WalkDir;
-
-use std::time::Instant;
 
 fn get_txt_files() -> std::io::Result<Vec<PathBuf>> {
     let mut path = std::env::current_dir()?;
@@ -24,14 +23,12 @@ fn get_txt_files() -> std::io::Result<Vec<PathBuf>> {
 }
 
 fn run() -> anyhow::Result<()> {
-    let start = Instant::now();
     let cli: Cli = Cli::parse();
 
     if let Some(Subcommands::Genconfig {}) = &cli.subcommand {
         Conf::print_default();
         return Ok(());
     }
-
     let config = Conf::builder()
         .env()
         .file("demo.toml")
@@ -41,6 +38,12 @@ fn run() -> anyhow::Result<()> {
             eprintln!("Generator cannot run: {}", err);
             std::process::exit(1);
         });
+
+    if let Some(Subcommands::Config {}) = &cli.subcommand {
+        let config_json = to_string_pretty(&config).expect("Failed to serialize config to JSON");
+        println!("{}", config_json);
+        return Ok(());
+    }
 
     println!("{:?}", config.mode);
 

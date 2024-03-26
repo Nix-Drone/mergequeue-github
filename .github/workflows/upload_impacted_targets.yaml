@@ -14,8 +14,30 @@ jobs:
         with:
           lfs: true
 
+      - name: Install Rust toolchain
+        uses: dtolnay/rust-toolchain@nightly
+  
+      - name: trunk install
+        uses: trunk-io/trunk-action/install@54ccfcf9add644a36a5aa1d0046c92f654ff9e45
+        with:
+          tools: "gh, jq"
+
+      - name: Run cargo
+        id: cargo
+        run: |
+          output=$(cargo run -- config)
+          mode=$(echo "$output" | jq -r '.mode')
+          build=$(echo "$output" | jq -r '.build')
+          flake_rate=$(echo "$output" | jq -r '.flake_rate')
+          sleep_for=$(echo "$output" | jq -r '.sleep_for')
+          echo "::set-output name=mode::$mode"
+          echo "::set-output name=build::$build"
+          echo "::set-output name=flake_rate::$flake_rate"
+          echo "::set-output name=sleep_for::$sleep_for"
+
       - name: Compute Impacted Targets
         uses: trunk-io/merge-action@v1
+        if: steps.cargo.outputs.mode != 'singlequeue' && if: steps.cargo.outputs.build == 'bazel'
         with:
           trunk-token: ${{ secrets.TRUNK_STAGING_ORG_API_TOKEN }}
           bazel-workspace-path: bazel

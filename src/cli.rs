@@ -15,4 +15,6 @@ pub struct Cli {
 pub enum Subcommands {
     /// Generate default configuration content for generator
     Genconfig,
+    /// Print configuration content to json
+    Config,
 }
