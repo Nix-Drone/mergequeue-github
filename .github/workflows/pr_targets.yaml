@@ -15,13 +15,13 @@ jobs:
           lfs: true
 
       - name: Install Rust toolchain
-        uses: dtolnay/rust-toolchain@nightly
+        uses: dtolnay/rust-toolchain@stable
 
       - name: rust cache
         uses: Swatinem/rust-cache@v2
 
       - name: trunk install
-        uses: trunk-io/trunk-action/install@54ccfcf9add644a36a5aa1d0046c92f654ff9e45
+        uses: trunk-io/trunk-action/install@v1
         with:
           tools: gh jq
 
