@@ -5,8 +5,8 @@ run-name: Upload Impacted Targets for ${{ github.ref_name }}
 on: pull_request
 
 jobs:
-  compute_impacted_targets:
-    name: Compute Impacted Targets
+  compute_pr_targets:
+    name: compute pr targets
     runs-on: public-amd64-small
     steps:
       - name: Checkout
@@ -35,7 +35,7 @@ jobs:
           echo "flake_rate=$flake_rate" >> $GITHUB_ENV
           echo "sleep_for=$sleep_for" >> $GITHUB_ENV
 
-      - name: Compute Impacted Targets
+      - name: compute pr targets
         uses: trunk-io/merge-action@v1
         if: steps.cargo.outputs.mode != 'singlequeue' && steps.cargo.outputs.build == 'bazel'
         with:
