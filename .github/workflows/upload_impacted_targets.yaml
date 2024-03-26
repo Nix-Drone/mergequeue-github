@@ -16,7 +16,7 @@ jobs:
 
       - name: Install Rust toolchain
         uses: dtolnay/rust-toolchain@nightly
-  
+
       - name: trunk install
         uses: trunk-io/trunk-action/install@54ccfcf9add644a36a5aa1d0046c92f654ff9e45
         with:
@@ -37,7 +37,7 @@ jobs:
 
       - name: Compute Impacted Targets
         uses: trunk-io/merge-action@v1
-        if: steps.cargo.outputs.mode != 'singlequeue' && if: steps.cargo.outputs.build == 'bazel'
+        if: steps.cargo.outputs.mode != 'singlequeue' && steps.cargo.outputs.build == 'bazel'
         with:
           trunk-token: ${{ secrets.TRUNK_STAGING_ORG_API_TOKEN }}
           bazel-workspace-path: bazel
