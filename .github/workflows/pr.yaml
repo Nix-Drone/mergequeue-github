@@ -1,16 +1,12 @@
 # trunk-ignore-all(semgrep/yaml.github-actions.security.third-party-action-not-pinned-to-commit-sha.third-party-action-not-pinned-to-commit-sha)
-name: MergeTest
+name: Merge Test
 run-name: Tests for PRs in Merge for ${{ github.ref_name }}
 
-on:
-  push:
-    branches:
-      - trunk-merge/**
-
 jobs:
-  pr:
+  test:
     name: Run Merge branch checks
-    runs-on: ubuntu-latest
+    runs-on: public-amd64-small
+    on: pull_request
     env:
       BRANCH_NAME: ${{ github.head_ref || github.ref_name }}
 
@@ -18,14 +14,5 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Initial Sleep
-        run: sleep 20s
-
-      - name: Check for fail file existence
-        id: run_forever
-        uses: andstor/file-existence-action@v1
-        with:
-          files: "**/fail_tests*.txt"
-
-      - name: Final Sleep
-        run: sleep 20s
+      - name: Sleep
+        run: sleep 1s
