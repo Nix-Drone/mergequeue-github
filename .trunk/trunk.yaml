@@ -22,6 +22,5 @@ actions:
     - trunk-upgrade-available
 
 tools:
-  disabled:
   enabled:
     - jq@jq-1.7.1
