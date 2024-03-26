@@ -20,6 +20,9 @@ jobs:
       - name: rust cache
         uses: Swatinem/rust-cache@v2
 
+      - name: rust cache
+        uses: Swatinem/rust-cache@v2
+
       - name: trunk install
         uses: trunk-io/trunk-action/install@v1
         with:
