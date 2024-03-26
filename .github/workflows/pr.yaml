@@ -26,6 +26,9 @@ jobs:
         with:
           tools: gh
 
+      - name: cache rust
+        uses: Swatinem/rust-cache@v2
+
       - name: Determine is_merge
         id: check_is_merge
         run: |
