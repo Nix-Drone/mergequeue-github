@@ -3,6 +3,7 @@ mod tests {
     use confique::Config;
     use gen::config::Conf;
     use rand::Rng;
+    use std::env;
     use std::thread;
 
     #[test]
@@ -16,6 +17,14 @@ mod tests {
                 eprintln!("test cannot run: {}", err);
                 std::process::exit(1);
             });
+
+        let is_merge_str = env::var("IS_MERGE").unwrap_or_else(|_| String::from("false"));
+        let is_merge = is_merge_str.to_lowercase() == "true";
+
+        if !is_merge {
+            println!("no flake or sleep when running on pr branch");
+            return;
+        }
 
         println!("sleeping for {} seconds", config.sleep_duration().as_secs());
         thread::sleep(config.sleep_duration());

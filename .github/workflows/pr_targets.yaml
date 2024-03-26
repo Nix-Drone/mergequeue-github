@@ -22,8 +22,8 @@ jobs:
         with:
           tools: gh jq
 
-      - name: Run cargo
-        id: cargo
+      - name: get demo config
+        id: get-demo-config
         run: |
           output=$(cargo run -- config)
           mode=$(echo "$output" | jq -r '.mode')
