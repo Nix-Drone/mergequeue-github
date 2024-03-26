@@ -18,7 +18,7 @@ jobs:
         uses: trunk-io/merge-action@v1
         with:
           trunk-token: ${{ secrets.TRUNK_STAGING_ORG_API_TOKEN }}
-          bazel-workspace-path: demo_workspace
+          bazel-workspace-path: bazel
           verbose: 1
         env:
           API_URL: https://api.trunk-staging.io:443/v1/setImpactedTargets
