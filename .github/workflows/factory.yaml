@@ -6,21 +6,6 @@ on:
     - cron: "*/30 * * * *"
 
 jobs:
-  # queue-pr:
-  #   runs-on: [public-amd64-small]
-  #   steps:
-  #     - name: Checkout code
-  #       uses: actions/checkout@v4
-
-  #     - name: trunk install
-  #       uses: trunk-io/trunk-action/install@54ccfcf9add644a36a5aa1d0046c92f654ff9e45
-
-  #     - name: Merge active change
-  #       env:
-  #         GH_TOKEN: ${{ github.token }}
-  #       id: merge
-  #       run: javascript/src/season/merge_next
-
   create-pr:
     # needs: merge-pr
     runs-on: [public-amd64-small]
@@ -63,7 +48,7 @@ jobs:
         uses: peter-evans/create-pull-request@v6
         with:
           token: ${{ secrets[steps.choose-next.outputs.secret_name] }}
-          commit-message: Everyone knows its ${{ steps.switch.outputs.season }}
+          commit-message: Changing the words ${{ steps.switch.outputs.season }}
           title: ${{ steps.choose-next.outputs.title }} season
           body: ${{ steps.switch.outputs.season }} season
           labels: ${{ steps.switch.outputs.season }}
