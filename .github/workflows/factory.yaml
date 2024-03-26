@@ -35,6 +35,7 @@ jobs:
 
       - name: trunk install
         uses: trunk-io/trunk-action/install@54ccfcf9add644a36a5aa1d0046c92f654ff9e45
+        tools: "gh"
 
       - name: run code editor
         run: cargo run
@@ -47,7 +48,7 @@ jobs:
             echo "secret_name=ELI_PAT" >> $GITHUB_OUTPUT
             ;;
           1)
-            echo "secret_name=JOSH_PAT" >> $GITHUB_OUTPUT
+            echo "secret_name=ELI_PAT" >> $GITHUB_OUTPUT
             ;;
           2)
             echo "secret_name=ELI_PAT" >> $GITHUB_OUTPUT
