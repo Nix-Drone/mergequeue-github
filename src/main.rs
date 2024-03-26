@@ -2,9 +2,26 @@ use clap::Parser;
 use confique::Config;
 use gen::cli::{Cli, Subcommands};
 use gen::config::Conf;
-use gen::edit::move_random_word;
+use gen::edit::change_file;
+use std::path::PathBuf;
+use walkdir::WalkDir;
 
 use std::time::Instant;
+
+fn get_txt_files() -> std::io::Result<Vec<PathBuf>> {
+    let mut path = std::env::current_dir()?;
+    path.push("bazel/");
+    let mut paths = Vec::new();
+    for entry in WalkDir::new(&path) {
+        let entry = entry?;
+        if entry.file_type().is_file()
+            && entry.path().extension().and_then(std::ffi::OsStr::to_str) == Some("txt")
+        {
+            paths.push(entry.path().to_path_buf());
+        }
+    }
+    Ok(paths)
+}
 
 fn run() -> anyhow::Result<()> {
     let start = Instant::now();
@@ -29,7 +46,12 @@ fn run() -> anyhow::Result<()> {
 
     println!("{}", cli.gh_token);
 
-    move_random_word("bazel/alpha/words.txt")?;
+    let files = get_txt_files()?;
+    let filenames: Vec<String> = files
+        .into_iter()
+        .map(|path| path.to_string_lossy().into_owned())
+        .collect();
+    change_file(&filenames)?;
 
     Ok(())
 }
