@@ -6,24 +6,24 @@ on:
     - cron: "*/30 * * * *"
 
 jobs:
-  queue-pr:
-    runs-on: [public-am64-small]
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
+  # queue-pr:
+  #   runs-on: [public-am64-small]
+  #   steps:
+  #     - name: Checkout code
+  #       uses: actions/checkout@v4
 
-      - name: trunk install
-        uses: trunk-io/trunk-action/install@54ccfcf9add644a36a5aa1d0046c92f654ff9e45
+  #     - name: trunk install
+  #       uses: trunk-io/trunk-action/install@54ccfcf9add644a36a5aa1d0046c92f654ff9e45
 
-      - name: Merge active change
-        env:
-          GH_TOKEN: ${{ github.token }}
-        id: merge
-        run: javascript/src/season/merge_next
+  #     - name: Merge active change
+  #       env:
+  #         GH_TOKEN: ${{ github.token }}
+  #       id: merge
+  #       run: javascript/src/season/merge_next
 
   create-pr:
-    needs: merge-pr
-    runs-on: [self-hosted, macOS]
+    # needs: merge-pr
+    runs-on: [public-am64-small]
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -36,23 +36,23 @@ jobs:
       - name: trunk install
         uses: trunk-io/trunk-action/install@54ccfcf9add644a36a5aa1d0046c92f654ff9e45
 
-      - name: run switch season
-        id: switch
-        run: javascript/src/season/flip
-
-      - name: run test generator
-        run: cargo run --manifest-path=./rust/Cargo.toml
+      - name: run code editor
+        run: cargo run
 
       - name: choose next
         id: choose-next
         run: |
-          if [[ "${{ steps.switch.outputs.season }}" == "Duck" ]]; then
-            echo "secret_name=ELI_PAT" >> $GITHUB_OUTPUT
-            echo "title=Duck 🦆" >> $GITHUB_OUTPUT
-          else
-            echo "secret_name=JOSH_PAT" >> $GITHUB_OUTPUT
-            echo "title=Rabbit 🐇" >> $GITHUB_OUTPUT
-          fi
+            case $(( RANDOM % 3 )) in
+            0)
+              echo "secret_name=ELI_PAT" >> $GITHUB_OUTPUT
+              ;;
+            1)
+              echo "secret_name=JOSH_PAT" >> $GITHUB_OUTPUT
+              ;;
+            2)
+              echo "secret_name=ELI_PAT" >> $GITHUB_OUTPUT
+              ;;
+          esac        
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v6
