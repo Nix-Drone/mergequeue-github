@@ -1,31 +1,43 @@
 # trunk-ignore-all(semgrep/yaml.github-actions.security.third-party-action-not-pinned-to-commit-sha.third-party-action-not-pinned-to-commit-sha)
-name: MergeTest
-run-name: Tests for PRs in Merge for ${{ github.ref_name }}
-
+name: PR Testing
+run-name: PR Checks for ${{ github.ref_name }}
 on:
+  pull_request: {}
   push:
     branches:
       - trunk-merge/**
 
 jobs:
-  pr:
-    name: Run Merge branch checks
-    runs-on: ubuntu-latest
+  test:
+    name: run tests to validate pr
+    runs-on: public-amd64-small
     env:
       BRANCH_NAME: ${{ github.head_ref || github.ref_name }}
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
-      - name: Initial Sleep
-        run: sleep 20s
+      - name: Install Rust toolchain
+        uses: dtolnay/rust-toolchain@nightly
 
-      - name: Check for fail file existence
-        id: run_forever
-        uses: andstor/file-existence-action@v1
+      - name: trunk install
+        uses: trunk-io/trunk-action/install@54ccfcf9add644a36a5aa1d0046c92f654ff9e45
         with:
-          files: "**/fail_tests*.txt"
+          tools: gh
 
-      - name: Final Sleep
-        run: sleep 20s
+      - name: Determine is_merge
+        id: check_is_merge
+        run: |
+          if [[ ${GITHUB_EVENT_NAME} == "push" && (${GITHUB_REF_NAME} == trunk-merge/* || ${GITHUB_REF_NAME} == trunk-merge-beta/*) ]]; then            
+            echo "on_merge=true" >> $GITHUB_OUTPUT
+          else
+          echo "on_merge=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: run tests
+        id: test
+        run: |
+          cargo test
+        env:
+          IS_MERGE: ${{ steps.check_is_merge.outputs.on_merge }}

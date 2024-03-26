@@ -21,10 +21,6 @@ actions:
     - trunk-fmt-pre-commit
     - trunk-upgrade-available
 
-merge:
-  service: graph
-  required_statuses:
-    - Run Merge branch checks
 tools:
   enabled:
     - jq@jq-1.7.1

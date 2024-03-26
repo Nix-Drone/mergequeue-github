@@ -20,10 +20,10 @@ jobs:
       - name: trunk install
         uses: trunk-io/trunk-action/install@54ccfcf9add644a36a5aa1d0046c92f654ff9e45
         with:
-          tools: gh, jq
+          tools: gh jq
 
-      - name: Run cargo
-        id: cargo
+      - name: get demo config
+        id: get-demo-config
         run: |
           output=$(cargo run -- config)
           mode=$(echo "$output" | jq -r '.mode')
