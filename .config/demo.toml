@@ -1,0 +1,5 @@
+
+mode = "singlequeue"
+
+# Default value: 0.1
+flake_rate = 0.1
