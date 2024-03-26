@@ -2,6 +2,7 @@ use clap::Parser;
 use confique::Config;
 use gen::cli::{Cli, Subcommands};
 use gen::config::Conf;
+use gen::edit::move_random_word;
 
 use std::time::Instant;
 
@@ -27,6 +28,8 @@ fn run() -> anyhow::Result<()> {
     println!("{:?}", config.mode);
 
     println!("{}", cli.gh_token);
+
+    move_random_word("bazel/alpha/words.txt")?;
 
     Ok(())
 }
