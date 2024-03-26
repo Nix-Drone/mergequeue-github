@@ -42,17 +42,17 @@ jobs:
       - name: choose next
         id: choose-next
         run: |
-            case $(( RANDOM % 3 )) in
-            0)
-              echo "secret_name=ELI_PAT" >> $GITHUB_OUTPUT
-              ;;
-            1)
-              echo "secret_name=JOSH_PAT" >> $GITHUB_OUTPUT
-              ;;
-            2)
-              echo "secret_name=ELI_PAT" >> $GITHUB_OUTPUT
-              ;;
-          esac        
+          case $(( RANDOM % 3 )) in
+          0)
+            echo "secret_name=ELI_PAT" >> $GITHUB_OUTPUT
+            ;;
+          1)
+            echo "secret_name=JOSH_PAT" >> $GITHUB_OUTPUT
+            ;;
+          2)
+            echo "secret_name=ELI_PAT" >> $GITHUB_OUTPUT
+            ;;
+          esac
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v6
