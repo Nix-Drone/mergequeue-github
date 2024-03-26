@@ -1,12 +1,12 @@
 # trunk-ignore-all(semgrep/yaml.github-actions.security.third-party-action-not-pinned-to-commit-sha.third-party-action-not-pinned-to-commit-sha)
 name: Merge Test
 run-name: Tests for PRs in Merge for ${{ github.ref_name }}
+on: pull_request
 
 jobs:
   test:
     name: Run Merge branch checks
     runs-on: public-amd64-small
-    on: pull_request
     env:
       BRANCH_NAME: ${{ github.head_ref || github.ref_name }}
 
