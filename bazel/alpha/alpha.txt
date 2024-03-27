@@ -174,7 +174,6 @@ affairs
 affect
 affected
 affecting
-affects
 affiliate
 affiliated
 affiliates
@@ -452,6 +451,7 @@ america
 arbitration
 arch
 architect
+affects
 architects
 architectural
 architecture
