@@ -86,8 +86,8 @@ fn create_pull_request(words: &Vec<String>) -> String {
     eprintln!("stderr: {}", String::from_utf8_lossy(&output.stderr));
 
     let pr_url = String::from_utf8_lossy(&output.stdout);
-    let re = Regex::new(r"/pull/(\d+)$").unwrap();
-    let caps = re.captures(&pr_url).unwrap();
+    let re = Regex::new(r"(.*)/pull/(\d+)$").unwrap();
+    let caps = re.captures(pr_url.trim()).unwrap();
     let pr_number = caps.get(1).map_or("", |m| m.as_str());
 
     pr_number.to_string()
