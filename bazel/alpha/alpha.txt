@@ -76,7 +76,6 @@ armor
 agape
 aisle
 array
-askew
 assim
 atlas
 asset
@@ -92,6 +91,7 @@ avoid
 agile
 audio
 abbes
+askew
 apply
 await
 awake
