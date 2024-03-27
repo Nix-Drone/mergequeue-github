@@ -44,6 +44,7 @@ Beret
 Betray
 Beverage
 Beware
+Brain
 Bolt
 Bicycle
 Bikini
@@ -84,7 +85,6 @@ Bracelet
 Bracket
 Breeze
 Brick
-Brain
 Briefcase
 Backbone
 Bright
