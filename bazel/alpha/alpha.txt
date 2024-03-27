@@ -20,7 +20,6 @@ auras
 amend
 affix
 after
-abate
 agent
 agony
 adept
@@ -47,6 +46,7 @@ amino
 amuse
 angel
 alive
+abate
 anger
 angle
 angry
