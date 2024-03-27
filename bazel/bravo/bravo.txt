@@ -35,6 +35,7 @@ Behavior
 Beefy
 Blessing
 Blindfold
+Broadcast
 Believe
 Bellboy
 Beneath
@@ -89,7 +90,6 @@ Briefcase
 Backbone
 Bright
 Brisk
-Broadcast
 Bankrupt
 Brother
 Brown
