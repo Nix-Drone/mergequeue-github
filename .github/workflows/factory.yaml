@@ -56,14 +56,9 @@ jobs:
           branch: content/${{ steps.edits.outputs.words-in-one }}
 
       - name: Comment on PR
-        uses: actions/github-script@v5
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            const issueComment = '/trunk merge';
-            github.rest.issues.createComment({
-              issue_number: ${{ steps.create-pull-request.ouputs.pull-request-number }},
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              body: issueComment,
-            });
+        run: |
+        gh pr review ${{steps.create-pull-request.output.pull-request-number }} --comment -b "/trunk merge"
+        env:
+          GH_REPO: ${{ github.repository }}
+          GH_TOKEN: ${{ secrets[steps.choose-next.outputs.secret_name] }}
+
