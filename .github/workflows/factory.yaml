@@ -3,10 +3,10 @@ name: PR Factory
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: '0/5 * * * *'
-    - cron: '1/5 * * * *'
-    - cron: '2/5 * * * *'
-    - cron: '3/5 * * * *'
+    - cron: "0/5 * * * *"
+    - cron: "1/5 * * * *"
+    - cron: "2/5 * * * *"
+    - cron: "3/5 * * * *"
 
 jobs:
   create-pr:
@@ -58,7 +58,10 @@ jobs:
           body: Moving ${{ steps.edits.outputs.words }}
           branch: content/${{ steps.edits.outputs.words-in-one }}
 
-      - name: Comment on PR
+      - name: sleep for 10
+        run: sleep 10 # sleep for 10 seconds so the GH comment gets properly posted first from the queue
+
+      - name: comment on pr
         if: ${{ steps.cpr.outputs.pull-request-number }}
         run: |
           gh pr review ${{ steps.cpr.outputs.pull-request-number }} --comment -b "/trunk merge"
