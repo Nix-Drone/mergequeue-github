@@ -14,6 +14,15 @@ runtimes:
     - node@18.12.1
     - python@3.10.8
 
+downloads:
+  - name: trunk-pr-generator
+    version: 0.0.2
+    downloads:
+      - os:
+          linux: unknown-linux-gnu
+        cpu:
+          x86_64: x86_64
+        url: https://github.com/trunk-io/mergequeue/releases/download/${version}/trunk-pr-generator-${version}-${cpu}-${os}.tar.gz
 lint:
   enabled:
     - clippy@1.77.0
@@ -26,5 +35,11 @@ actions:
     - trunk-upgrade-available
 
 tools:
+  definitions:
+    - name: trunk-pr-generator
+      download: trunk-pr-generator
+      shims: [trunk-pr-generator]
+      known_good_version: 0.0.2
   enabled:
     - jq@jq-1.7.1
+    - trunk-pr-generator@0.0.2

@@ -18,20 +18,14 @@ jobs:
         with:
           ref: main
 
-      - name: Install Rust toolchain
-        uses: dtolnay/rust-toolchain@stable
-
       - name: trunk install
         uses: trunk-io/trunk-action/install@v1
         with:
-          tools: gh jq
+          tools: gh jq trunk-pr-generator
 
-      - name: rust cache
-        uses: Swatinem/rust-cache@v2
-
-      - name: run code editor
+      - name: run pr-generator
         id: edits
-        run: cargo run
+        run: trunk-pr-generator
 
       - name: choose next
         id: choose-next
@@ -54,7 +48,7 @@ jobs:
         with:
           token: ${{ secrets[steps.choose-next.outputs.secret_name] }}
           commit-message: Moving words ${{ steps.edits.outputs.words }}
-          title: Moving ${{ steps.edits.outputs.words }}
+          title: ${{ steps.edits.outputs.words }}
           body: Moving ${{ steps.edits.outputs.words }}
           branch: content/${{ steps.edits.outputs.words-in-one }}
 
