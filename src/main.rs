@@ -23,14 +23,27 @@ fn get_txt_files() -> std::io::Result<Vec<PathBuf>> {
     Ok(paths)
 }
 
-fn branch(name: &str) {
-    let branch_name = format!("change/{}", name);
+fn branch_and_commit(words: &Vec<String>) {
+    let branch_name = format!("change/{}", words.join("-"));
 
     let output = Command::new("git")
         .arg("checkout")
         .arg("-t")
         .arg("-b")
         .arg(&branch_name)
+        .output()
+        .expect("Failed to execute command");
+
+    if !output.status.success() {
+        panic!("Command executed with failing error code");
+    }
+
+    let branch_name = format!("change/{}", name);
+
+    let output = Command::new("git")
+        .arg("commit")
+        .arg("-am")
+        .arg(format!("Moving words {}", words.join(", ")))
         .output()
         .expect("Failed to execute command");
 
