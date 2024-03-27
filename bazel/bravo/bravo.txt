@@ -195,7 +195,6 @@ bibliographic
 bibliography
 bicycle
 bidder
-bidding
 bids
 bigger
 biggest
@@ -216,6 +215,7 @@ biography
 biol
 biological
 biology
+bidding
 bios
 biotechnology
 bird
