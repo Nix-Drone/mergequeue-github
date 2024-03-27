@@ -56,7 +56,6 @@ banners
 basic
 bearing
 bits
-basics
 basin
 berry
 bull
@@ -127,6 +126,7 @@ bahamas
 belize
 bloomberg
 belkin
+basics
 belle
 belly
 belong
