@@ -27,6 +27,7 @@ jobs:
         uses: Swatinem/rust-cache@v2
 
       - name: run code editor
+        id: edits
         run: cargo run
 
       - name: choose next
@@ -48,8 +49,7 @@ jobs:
         uses: peter-evans/create-pull-request@v6
         with:
           token: ${{ secrets[steps.choose-next.outputs.secret_name] }}
-          commit-message: Changing the words ${{ steps.switch.outputs.season }}
-          title: ${{ steps.choose-next.outputs.title }} season
-          body: ${{ steps.switch.outputs.season }} season
-          labels: ${{ steps.switch.outputs.season }}
-          branch: eli/season
+          commit-message: Moving words ${{ steps.edits.outputs.words }}
+          title: Moving ${{ steps.edits.outputs.words }}
+          body: Moving ${{ steps.edits.outputs.words }}
+          branch: content/${{ steps.edits.outputs.words-in-one }}

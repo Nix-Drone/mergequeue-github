@@ -31,6 +31,12 @@ pub struct Conf {
 
     #[config(default = "1 second")]
     pub sleep_for: String,
+
+    #[config(default = 1)]
+    pub max_deps: usize,
+
+    #[config(default = 1)]
+    pub max_impacted_deps: usize,
 }
 
 impl Conf {
