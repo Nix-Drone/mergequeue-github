@@ -453,7 +453,6 @@ arch
 architect
 amanda
 architects
-architectural
 architecture
 archived
 archives
@@ -612,6 +611,7 @@ authorized
 authors
 auto
 assumes
+architectural
 automated
 automatic
 automatically
