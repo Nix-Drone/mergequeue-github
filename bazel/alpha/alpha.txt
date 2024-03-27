@@ -83,6 +83,7 @@ actions
 activated
 activation
 active
+aware
 actively
 activists
 activities
@@ -633,7 +634,6 @@ avon
 award
 awarded
 awards
-aware
 awareness
 awesome
 awful
