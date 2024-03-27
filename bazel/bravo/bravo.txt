@@ -64,6 +64,7 @@ Blueprint
 Bluff
 Blurry
 Boast
+Bull
 Boat
 Bulb
 Broken
@@ -100,7 +101,6 @@ Boxer
 Buffalo
 Bugle
 Builder
-Bull
 Bathrobe
 Bump
 Bunker
