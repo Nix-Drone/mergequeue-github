@@ -60,7 +60,6 @@ annoy
 antic
 apart
 apple
-apply
 apron
 aside
 aptly
@@ -93,6 +92,7 @@ avoid
 agile
 audio
 abbes
+apply
 await
 awake
 award
