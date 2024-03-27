@@ -326,7 +326,6 @@ answers
 attack
 awareness
 able
-analyst
 analysts
 appraisal
 analyze
@@ -444,6 +443,7 @@ activities
 apps
 arrives
 alphabetical
+analyst
 april
 away
 aqua
