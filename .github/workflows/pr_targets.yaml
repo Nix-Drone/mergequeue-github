@@ -12,13 +12,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          lfs: true
+          lfs: truefilenames.sort();
 
+let filenames: Vec<String> = filenames.into_iter().take(config.max_deps()).collect();
       - name: Install Rust toolchain
         uses: dtolnay/rust-toolchain@stable
-
-      - name: rust cache
-        uses: Swatinem/rust-cache@v2
 
       - name: rust cache
         uses: Swatinem/rust-cache@v2

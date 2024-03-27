@@ -1,19 +1,39 @@
 use rand::Rng;
+use std::collections::HashSet;
 use std::fs::OpenOptions;
 use std::io::{BufRead, Write};
 use std::io::{BufReader, BufWriter};
 
-pub fn change_file(filenames: &[String]) -> std::io::Result<()> {
+pub fn change_file(filenames: &[String], count: u32) -> Vec<String> {
     let mut rng = rand::thread_rng();
-    let idx = rng.gen_range(0..filenames.len());
-    move_random_line(&filenames[idx])
+    let mut unique_filenames: HashSet<String> = HashSet::new();
+    let mut words: Vec<String> = Vec::new();
+
+    if count > filenames.len() as u32 {
+        panic!("The count must be less than the number of files");
+    }
+
+    for _ in 0..count {
+        let idx = rng.gen_range(0..filenames.len());
+        let filename = &filenames[idx];
+        if unique_filenames.contains(filename) {
+            continue;
+        }
+        words.push(move_random_line(filename));
+        unique_filenames.insert(filename.to_string());
+    }
+
+    words
 }
 
-pub fn move_random_line(filename: &str) -> std::io::Result<()> {
+pub fn move_random_line(filename: &str) -> String {
     // Read the file into a vector of lines
-    let file = std::fs::File::open(&filename)?;
+    let file = std::fs::File::open(&filename).expect("Failed to open file");
     let reader = BufReader::new(file);
-    let mut lines: Vec<String> = reader.lines().collect::<Result<_, _>>()?;
+    let mut lines: Vec<String> = reader
+        .lines()
+        .collect::<Result<_, _>>()
+        .expect("failed to read lines");
 
     // Choose a random line
     let mut rng = rand::thread_rng();
@@ -21,6 +41,7 @@ pub fn move_random_line(filename: &str) -> std::io::Result<()> {
 
     // Remove the line from the vector
     let line = lines.remove(line_index);
+    let word = line.trim().to_string();
 
     // Choose another random line
     let other_line_index = rng.gen_range(0..lines.len());
@@ -32,11 +53,12 @@ pub fn move_random_line(filename: &str) -> std::io::Result<()> {
     let file = OpenOptions::new()
         .write(true)
         .truncate(true)
-        .open(&filename)?;
+        .open(&filename)
+        .expect("failed to open file");
     let mut writer = BufWriter::new(file);
     for line in lines {
-        writeln!(writer, "{}", line)?;
+        writeln!(writer, "{}", line).expect("failed to write file");
     }
 
-    Ok(())
+    word.to_string()
 }

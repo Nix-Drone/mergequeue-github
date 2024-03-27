@@ -47,14 +47,22 @@ fn run() -> anyhow::Result<()> {
 
     println!("{:?}", config.mode);
 
-    println!("{}", cli.gh_token);
+    println!("{:?}", cli.gh_token);
 
     let files = get_txt_files()?;
-    let filenames: Vec<String> = files
+    let mut filenames: Vec<String> = files
         .into_iter()
         .map(|path| path.to_string_lossy().into_owned())
         .collect();
-    change_file(&filenames)?;
+
+    filenames.sort();
+    let filenames: Vec<String> = filenames.into_iter().take(config.max_deps).collect();
+
+    let max_impacted_deps = config.max_impacted_deps as u32; // Convert usize to u32
+    let words = change_file(&filenames, max_impacted_deps); // Use the converted value
+
+    println!("::set-output name=words::{}", words.join(", "));
+    println!("::set-output name=words-in-one::{}", words.join("-"));
 
     Ok(())
 }

@@ -83,7 +83,6 @@ Century
 Cereal
 Chalk
 Champion
-Chaos
 Chapel
 Chapter
 Charcoal
@@ -129,6 +128,7 @@ Classic
 Claw
 Clean
 Clever
+Chaos
 Click
 Client
 Climate
@@ -198,7 +198,6 @@ Control
 Convince
 Cook
 Cool
-Cooperate
 Copper
 Copy
 Coral
@@ -240,6 +239,7 @@ Crop
 Cross
 Crouch
 Crowd
+Cooperate
 Crucial
 Cruel
 Cruise
