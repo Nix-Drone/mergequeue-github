@@ -285,7 +285,6 @@ britain
 binary
 bool
 boolean
-boost
 booth
 boots
 booty
@@ -447,6 +446,7 @@ borough
 bunch
 brass
 bunny
+boost
 buried
 burlington
 burn
