@@ -60,7 +60,9 @@ fn create_pull_request(words: &Vec<String>) {
         .expect("Failed to execute command");
 
     if !output.status.success() {
-        panic!("Command executed with failing error code");
+        eprintln!("stdout: {}", String::from_utf8_lossy(&output.stdout));
+        eprintln!("stderr: {}", String::from_utf8_lossy(&output.stderr));
+        panic!("Call to create PR on GitHub failed");
     }
 }
 
