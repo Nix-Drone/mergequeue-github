@@ -244,6 +244,7 @@ blocks
 broke
 blog
 backed
+borough
 blogger
 boxed
 blogging
@@ -307,7 +308,6 @@ borders
 breed
 border
 boring
-borough
 bufing
 bosnia
 boss
