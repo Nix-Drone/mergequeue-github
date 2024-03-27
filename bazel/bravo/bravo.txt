@@ -214,7 +214,6 @@ boundaries
 buses
 birmingham
 birth
-birthday
 bureau
 bite
 bizrate
@@ -277,6 +276,7 @@ branch
 became
 bonds
 bones
+birthday
 bonus
 boob
 buttons
