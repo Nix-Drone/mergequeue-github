@@ -223,7 +223,6 @@ boundaries
 birmingham
 birth
 birthday
-bishop
 bite
 bits
 bizrate
@@ -329,6 +328,7 @@ bacon
 bowl
 bowling
 blessed
+bishop
 boxed
 boxes
 boxing
