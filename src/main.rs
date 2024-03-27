@@ -49,6 +49,20 @@ fn create_pull_request(words: &Vec<String>) {
         panic!("Command executed with failing error code");
     }
 
+    let output = Command::new("git")
+        .arg("push")
+        .arg("--set-upstream")
+        .arg("origin")
+        .arg("HEAD")
+        .output()
+        .expect("Failed to execute command");
+
+    if !output.status.success() {
+        eprintln!("stdout: {}", String::from_utf8_lossy(&output.stdout));
+        eprintln!("stderr: {}", String::from_utf8_lossy(&output.stderr));
+        panic!("Failed to push the current branch to the remote repository");
+    }
+
     let output = Command::new("gh")
         .arg("pr")
         .arg("create")
