@@ -214,7 +214,6 @@ airfare
 airline
 agriculture
 airlines
-airplane
 airport
 airports
 alabama
@@ -542,6 +541,7 @@ assumed
 assumes
 assuming
 assumption
+airplane
 assumptions
 assurance
 assure

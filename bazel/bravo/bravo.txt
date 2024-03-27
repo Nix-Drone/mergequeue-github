@@ -75,7 +75,6 @@ basketball
 baskets
 batch
 bath
-bathroom
 bathrooms
 baths
 batman
@@ -246,6 +245,7 @@ blocked
 blocking
 blocks
 blog
+bathroom
 backed
 blogger
 bloggers
