@@ -325,7 +325,6 @@ analysts
 appraisal
 analyze
 articles
-anchor
 ancient
 andale
 anderson
@@ -477,6 +476,7 @@ arms
 arnold
 around
 acknowledge
+anchor
 arranged
 arrangement
 arrangements
