@@ -312,6 +312,7 @@ analog
 arcade
 analyses
 analysis
+awareness
 analyst
 analysts
 analytical
@@ -634,7 +635,6 @@ avon
 award
 awarded
 awards
-awareness
 awesome
 awful
 axis
