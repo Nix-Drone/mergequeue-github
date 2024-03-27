@@ -162,6 +162,7 @@ advertisements
 alias
 advertiser
 alpha
+assistance
 allocated
 advertisers
 advertising
@@ -533,7 +534,6 @@ assignment
 answering
 armenia
 assist
-assistance
 asked
 assistant
 assisted
