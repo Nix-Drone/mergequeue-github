@@ -42,6 +42,34 @@ fn queue_to_merge(pr: &String) {
     }
 }
 
+fn configure_git() {
+    let output = Command::new("git")
+        .arg("config")
+        .arg("user.email")
+        .arg("bot@trunk.io")
+        .output()
+        .expect("Failed to execute command");
+
+    if !output.status.success() {
+        eprintln!("stdout: {}", String::from_utf8_lossy(&output.stdout));
+        eprintln!("stderr: {}", String::from_utf8_lossy(&output.stderr));
+        panic!("Failed to run git config email");
+    }
+
+    let output = Command::new("git")
+        .arg("config")
+        .arg("user.name")
+        .arg("trunk bot")
+        .output()
+        .expect("Failed to execute command");
+
+    if !output.status.success() {
+        eprintln!("stdout: {}", String::from_utf8_lossy(&output.stdout));
+        eprintln!("stderr: {}", String::from_utf8_lossy(&output.stderr));
+        panic!("Failed to run git config name");
+    }
+}
+
 fn create_pull_request(words: &[String]) -> String {
     let branch_name = format!("change/{}", words.join("-"));
 
@@ -141,9 +169,15 @@ fn run() -> anyhow::Result<()> {
         return Ok(());
     }
 
-    let pull_requests_per_hour = config.pull_requests_per_hour as f32;
+    if config.pull_requests_per_hour == 0 {
+        println!("generator is disabled pull requests per hour is set to 0");
+        return Ok(());
+    }
+
+    configure_git();
+
     // divide by 6 since we run once every 10 minutes
-    let pull_requests_to_make = (pull_requests_per_hour / 6.0).ceil() as usize;
+    let pull_requests_to_make = (config.pull_requests_per_hour as f32 / 6.0).ceil() as usize;
 
     let mut prs: Vec<String> = Vec::new();
 
