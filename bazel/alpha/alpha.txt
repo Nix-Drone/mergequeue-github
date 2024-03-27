@@ -437,7 +437,6 @@ away
 approve
 approx
 atlanta
-approximate
 activities
 approximately
 apps
@@ -534,6 +533,7 @@ answering
 armenia
 assist
 assistance
+approximate
 assistant
 assisted
 associated
