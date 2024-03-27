@@ -24,7 +24,6 @@ accept
 acceptable
 accepted
 accepting
-accepts
 access
 accessibility
 accessible
@@ -635,6 +634,7 @@ avon
 award
 awarded
 awards
+accepts
 awesome
 awful
 axis
