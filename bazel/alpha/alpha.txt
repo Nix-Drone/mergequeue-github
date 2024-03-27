@@ -162,7 +162,6 @@ allocated
 advertisers
 advertising
 advice
-advise
 advised
 advisor
 advisors
@@ -180,6 +179,7 @@ affected
 affiliate
 affiliates
 affiliation
+advise
 afford
 alice
 affordable
