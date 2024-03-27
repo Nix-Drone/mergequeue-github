@@ -343,7 +343,6 @@ adoption
 animation
 assign
 audio
-assists
 annie
 attention
 announce
@@ -586,6 +585,7 @@ attractions
 attractive
 analysis
 auckland
+assists
 auction
 audi
 audit
