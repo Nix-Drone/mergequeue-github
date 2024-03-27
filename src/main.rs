@@ -52,6 +52,7 @@ fn create_pull_request(words: &Vec<String>) {
     let output = Command::new("gh")
         .arg("pr")
         .arg("create")
+        .arg("--head")
         .arg("--title")
         .arg(format!("{}", words.join(", ")))
         .arg("--body")
