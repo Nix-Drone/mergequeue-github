@@ -22,6 +22,7 @@ jobs:
       - name: get demo config
         id: get-demo-config
         run: |
+          which trunk-pr-generator
           output = $(trunk-pr-generator config)
           mode=$(echo "$output" | jq -r '.mode')
           build=$(echo "$output" | jq -r '.build')
