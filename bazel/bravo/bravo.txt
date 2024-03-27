@@ -275,6 +275,7 @@ boats
 bobby
 bodies
 body
+buddy
 bold
 bolivia
 bolt
@@ -427,7 +428,6 @@ bubble
 buck
 bucks
 budapest
-buddy
 budget
 budgets
 buffalo
