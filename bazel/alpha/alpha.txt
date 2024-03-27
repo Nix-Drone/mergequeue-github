@@ -231,7 +231,6 @@ alan
 alarm
 albuquerque
 alaska
-avoid
 administered
 albany
 albert
@@ -334,6 +333,7 @@ analyze
 articles
 ancient
 atlantic
+avoid
 andale
 anderson
 andorra
