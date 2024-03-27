@@ -187,6 +187,7 @@ bills
 billy
 binary
 binding
+boot
 boston
 biographies
 bind
@@ -286,7 +287,6 @@ britain
 bool
 boolean
 boost
-boot
 booth
 boots
 booty
