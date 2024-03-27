@@ -87,6 +87,7 @@ baker
 blades
 blackjack
 beautiful
+bold
 becomes
 beauty
 beaver
@@ -254,7 +255,6 @@ boxes
 bottle
 brilliant
 buddy
-bold
 broadway
 bolivia
 bolt
