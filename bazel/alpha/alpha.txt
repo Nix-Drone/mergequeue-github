@@ -32,6 +32,7 @@ accessing
 accessory
 accident
 accidents
+artist
 accommodate
 andrews
 accommodation
@@ -500,7 +501,6 @@ arthur
 article
 assets
 artificial
-artist
 artistic
 artists
 artwork
