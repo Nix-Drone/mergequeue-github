@@ -3,7 +3,7 @@ name: PR Factory
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/10 * * * *"
 
 jobs:
   create-pr:
@@ -67,4 +67,3 @@ jobs:
               repo: context.repo.repo,
               body: issueComment,
             });
-
