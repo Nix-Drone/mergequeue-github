@@ -401,6 +401,7 @@ array
 appears
 appendix
 announcement
+assault
 apple
 absence
 assure
@@ -511,7 +512,6 @@ aside
 asin
 asking
 aspect
-assault
 applicable
 assembled
 assembly
