@@ -46,6 +46,7 @@ jobs:
           esac
 
       - name: Create Pull Request
+        id: create-pull-request
         uses: peter-evans/create-pull-request@v6
         with:
           token: ${{ secrets[steps.choose-next.outputs.secret_name] }}
@@ -53,3 +54,17 @@ jobs:
           title: Moving ${{ steps.edits.outputs.words }}
           body: Moving ${{ steps.edits.outputs.words }}
           branch: content/${{ steps.edits.outputs.words-in-one }}
+
+      - name: Comment on PR
+        uses: actions/github-script@v5
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const issueComment = '/trunk merge';
+            github.rest.issues.createComment({
+              issue_number: ${{ steps.create-pull-request.ouputs.pull-request-number }},
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: issueComment,
+            });
+
