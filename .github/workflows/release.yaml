@@ -48,6 +48,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: trunk install
+        uses: trunk-io/trunk-action/install@v1
+        with:
+          tools: gh
+
       - id: download
         uses: actions/download-artifact@v3
         with:
