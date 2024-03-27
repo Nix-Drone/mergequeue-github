@@ -38,6 +38,7 @@ jobs:
           GH_TOKEN: ${{ secrets[steps.choose-next.outputs.secret_name] }}
 
       - name: download generator
+        if: always()
         run: |
           gh release download --pattern='*.gz' --output tpg.gz --clobber
           tar -xf tpg.gz
