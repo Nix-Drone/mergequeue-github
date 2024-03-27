@@ -451,7 +451,6 @@ arbitration
 arch
 architect
 amanda
-affects
 architects
 architectural
 architecture
@@ -506,6 +505,7 @@ artists
 artwork
 aruba
 asbestos
+affects
 ascii
 audience
 asia
