@@ -178,7 +178,6 @@ anything
 afghanistan
 affect
 affected
-affiliate
 affiliates
 affiliation
 advise
@@ -451,6 +450,7 @@ arabic
 arbitrary
 article
 america
+affiliate
 arbitration
 arch
 architect
