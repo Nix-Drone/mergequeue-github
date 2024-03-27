@@ -52,6 +52,7 @@ alive
 anger
 angle
 angry
+arrow
 ankle
 acted
 annex
@@ -77,7 +78,6 @@ aisle
 array
 askew
 assim
-arrow
 atlas
 asset
 aging
