@@ -48,6 +48,7 @@ accredited
 accuracy
 accurate
 ability
+asset
 accurately
 accused
 acdbentity
@@ -525,7 +526,6 @@ assess
 assessing
 assessment
 assessments
-asset
 assign
 assigned
 assignment
