@@ -395,7 +395,6 @@ apartment
 apartments
 apnic
 apollo
-apparatus
 apparel
 apparent
 apparently
@@ -564,6 +563,7 @@ atom
 atomic
 attach
 attached
+apparatus
 attachment
 attachments
 attack
