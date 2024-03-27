@@ -243,7 +243,6 @@ blocks
 broke
 blog
 backed
-borough
 blogger
 boxed
 blogging
@@ -450,6 +449,7 @@ bulk
 bullet
 battery
 bulletin
+borough
 bunch
 bunny
 buried
