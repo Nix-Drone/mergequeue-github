@@ -27,6 +27,7 @@ Block
 Beside
 Beacon
 Beagle
+Broadcast
 Beaming
 Bearable
 Beastly
@@ -37,7 +38,6 @@ Behavior
 Beefy
 Blessing
 Blindfold
-Broadcast
 Believe
 Bellboy
 Beggar
