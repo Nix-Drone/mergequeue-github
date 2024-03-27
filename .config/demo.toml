@@ -1,11 +1,10 @@
 
 mode = "singlequeue"
 
-# Default value: 0.1
-flake_rate = 0.01
+flake_rate = 0.1
 
-# how long test should spin for (in seconds)
-sleep_for = "60s"
+# how long test should spin for (can be described as 10s, 7m, 1hr)
+sleep_for = "5m"
 
 # the max number of deps in this repo. setting to 3 for example will cause
 # files in alpha, bravo, charlie deps to be changed
@@ -14,4 +13,5 @@ max_deps = 2
 # the max number of deps per PR to edit
 max_impacted_deps = 2
 
-pull_requests_per_hour = 6
+# target number of pull requests per hour
+pull_requests_per_hour = 30
