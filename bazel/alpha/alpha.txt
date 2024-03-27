@@ -63,7 +63,6 @@ acknowledged
 atmospheric
 acoustic
 away
-acquire
 acquisition
 acquisitions
 acre
@@ -537,6 +536,7 @@ associated
 association
 associations
 assume
+acquire
 atmosphere
 assumed
 assuming
