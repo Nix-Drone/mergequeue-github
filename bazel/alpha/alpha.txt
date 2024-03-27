@@ -505,6 +505,7 @@ artwork
 aruba
 asbestos
 ascii
+audience
 asia
 asian
 aside
@@ -592,7 +593,6 @@ auckland
 auction
 auctions
 audi
-audience
 audio
 audit
 auditor
