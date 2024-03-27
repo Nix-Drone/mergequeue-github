@@ -16,6 +16,7 @@ adorn
 aegis
 aerie
 auras
+allow
 amend
 affix
 after
@@ -36,7 +37,6 @@ alike
 apart
 abase
 alley
-allow
 alloy
 alone
 along
