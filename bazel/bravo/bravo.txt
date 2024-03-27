@@ -34,7 +34,6 @@ banks
 barbados
 barbie
 barcelona
-bare
 belgium
 barely
 bookstore
@@ -242,6 +241,7 @@ bandwidth
 blue
 bedford
 bluetooth
+bare
 blvd
 board
 boards
