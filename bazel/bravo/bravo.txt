@@ -81,7 +81,6 @@ bathrooms
 baths
 batman
 batteries
-battery
 battle
 battlefield
 beaches
@@ -446,6 +445,7 @@ bulgarian
 bulk
 bull
 bullet
+battery
 bulletin
 bunch
 bundle

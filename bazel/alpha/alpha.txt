@@ -81,7 +81,6 @@ active
 aware
 actively
 activities
-activity
 actor
 accessed
 actors
@@ -380,6 +379,7 @@ anyone
 anything
 anytime
 anyway
+activity
 anywhere
 apache
 apart
