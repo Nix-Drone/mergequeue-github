@@ -70,7 +70,6 @@ atmospheric
 acoustic
 away
 acquire
-acquired
 acquisition
 acquisitions
 acre
@@ -385,6 +384,7 @@ anyway
 anywhere
 apache
 apart
+acquired
 apartment
 apartments
 apnic
