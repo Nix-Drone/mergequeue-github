@@ -117,6 +117,7 @@ adjacent
 adjust
 adjustable
 astronomy
+amenities
 adjusted
 arrive
 adjustment
@@ -291,7 +292,6 @@ amend
 amended
 amendment
 amendments
-amenities
 american
 acceptance
 americas
