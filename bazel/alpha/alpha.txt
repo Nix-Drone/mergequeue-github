@@ -227,7 +227,6 @@ albany
 albert
 alberta
 album
-albuquerque
 alcohol
 alert
 alerts
@@ -611,6 +610,7 @@ authorities
 authority
 authorization
 authorized
+albuquerque
 authors
 auto
 automated
