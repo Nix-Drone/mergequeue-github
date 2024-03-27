@@ -62,7 +62,7 @@ jobs:
           script: |
             const issueComment = '/trunk merge';
             github.rest.issues.createComment({
-              issue_number: steps.create-pull-request.ouputs.pull-request-number,
+              issue_number: ${{ steps.create-pull-request.ouputs.pull-request-number }},
               owner: context.repo.owner,
               repo: context.repo.repo,
               body: issueComment,
