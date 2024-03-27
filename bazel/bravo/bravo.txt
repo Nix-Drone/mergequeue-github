@@ -257,7 +257,6 @@ buddy
 bold
 broadway
 bolivia
-bolt
 bangbus
 bomb
 bond
@@ -442,6 +441,7 @@ bundle
 bulk
 battery
 bulletin
+bolt
 borough
 bunch
 brass
