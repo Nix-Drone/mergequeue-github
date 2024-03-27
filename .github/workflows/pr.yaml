@@ -40,6 +40,9 @@ jobs:
 
       - name: run tests
         id: test
+        # only actually run the test if we're on the merge branch
+        # so we can simulate delay and flakiness
+        if: steps.check_is_merge.outputs.on_merge == 'true'
         run: |
           cargo test
         env:
