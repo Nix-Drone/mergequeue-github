@@ -1,7 +1,7 @@
 # trunk-ignore-all(semgrep/yaml.github-actions.security.third-party-action-not-pinned-to-commit-sha.third-party-action-not-pinned-to-commit-sha)
 
 name: Upload Impacted Targets
-run-name: Upload Impacted Targets for ${{ github.ref_name }}
+run-name: pr targets for ${{ github.ref_name }}
 on: pull_request
 
 jobs:
