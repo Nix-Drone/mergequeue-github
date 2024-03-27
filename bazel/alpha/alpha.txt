@@ -508,7 +508,6 @@ assets
 artificial
 artistic
 artists
-artwork
 asbestos
 affects
 audience
@@ -632,6 +631,7 @@ allergy
 avon
 award
 awarded
+artwork
 awards
 annotation
 accepts
