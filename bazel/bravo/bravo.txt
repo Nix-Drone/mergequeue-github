@@ -184,7 +184,6 @@ buyer
 bills
 billy
 binding
-boot
 boston
 biographies
 bases
@@ -279,6 +278,7 @@ bondage
 book
 bookmark
 bookmarks
+boot
 blind
 books
 britain
