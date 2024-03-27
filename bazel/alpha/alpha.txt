@@ -20,6 +20,7 @@ auras
 amend
 affix
 after
+avail
 agent
 agony
 adept
@@ -86,7 +87,6 @@ audit
 auger
 aunts
 autos
-avail
 adult
 avoid
 agile
