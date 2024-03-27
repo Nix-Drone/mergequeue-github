@@ -3,6 +3,7 @@ use confique::Config;
 use gen::cli::{Cli, Subcommands};
 use gen::config::Conf;
 use gen::edit::change_file;
+use regex::Regex;
 use serde_json::to_string_pretty;
 use std::path::PathBuf;
 use std::process::Command;
@@ -81,8 +82,9 @@ fn create_pull_request(words: &Vec<String>) -> String {
         panic!("Call to create PR on GitHub failed");
     }
 
-    let parts: Vec<&str> = output.stdout.split('/').collect();
-    let pr_number: &str = parts.last().expect("URL does not contain a PR number");
+    let re = Regex::new(r"/pull/(\d+)$").unwrap();
+    let caps = re.captures(output.stdout).unwrap();
+    let pr_number = caps.get(1).map_or("", |m| m.as_str());
 
     pr_number
 }
