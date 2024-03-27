@@ -23,7 +23,7 @@ pub fn change_file(filenames: &[String], count: u32) -> Vec<String> {
         unique_filenames.insert(filename.to_string());
     }
 
-    return words;
+    words
 }
 
 pub fn move_random_line(filename: &str) -> String {
