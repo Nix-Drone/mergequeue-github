@@ -52,7 +52,6 @@ basement
 beats
 basename
 banners
-basic
 bearing
 bits
 basics
@@ -224,6 +223,7 @@ begins
 blocking
 blocks
 broke
+basic
 boundaries
 blog
 backed
