@@ -64,7 +64,6 @@ behavioral
 backup
 bumper
 batman
-batteries
 battlefield
 beaches
 beads
@@ -308,6 +307,7 @@ bowling
 blessed
 belfast
 bishop
+batteries
 blend
 boxing
 bracelet
