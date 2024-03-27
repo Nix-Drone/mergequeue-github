@@ -194,6 +194,7 @@ agency
 agenda
 agent
 ages
+album
 aggregate
 aggressive
 aging
@@ -222,7 +223,6 @@ alaska
 albany
 albert
 alberta
-album
 alcohol
 alerts
 alex
