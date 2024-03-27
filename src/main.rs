@@ -25,6 +25,23 @@ fn get_txt_files() -> std::io::Result<Vec<PathBuf>> {
     Ok(paths)
 }
 
+fn queue_to_merge(pr: &String) {
+    let output = Command::new("gh")
+        .arg("pr")
+        .arg("comment")
+        .arg(pr) // Fix: Pass the expression directly as an argument
+        .arg("--body")
+        .arg("/trunk merge")
+        .output()
+        .expect("Failed to execute command");
+
+    if !output.status.success() {
+        eprintln!("stdout: {}", String::from_utf8_lossy(&output.stdout));
+        eprintln!("stderr: {}", String::from_utf8_lossy(&output.stderr));
+        panic!("Call to comment on PR {} on GitHub failed", pr);
+    }
+}
+
 fn create_pull_request(words: &[String]) -> String {
     let branch_name = format!("change/{}", words.join("-"));
 
@@ -127,6 +144,8 @@ fn run() -> anyhow::Result<()> {
     // divide by 6 since we run once every 10 minutes
     let pull_requests_to_make = (pull_requests_per_hour / 6.0).ceil() as usize;
 
+    let mut prs: Vec<String> = Vec::new();
+
     for _ in 0..pull_requests_to_make {
         let start = Instant::now();
         let files = get_txt_files()?;
@@ -144,7 +163,13 @@ fn run() -> anyhow::Result<()> {
         let pr = create_pull_request(&words);
         let duration = start.elapsed();
         println!("created pr: {} in {:?}", pr, duration);
+        prs.push(pr);
     }
+
+    for pr in &prs {
+        queue_to_merge(pr);
+    }
+
     Ok(())
 }
 
