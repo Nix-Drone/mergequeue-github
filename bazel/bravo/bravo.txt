@@ -236,6 +236,7 @@ blanket
 blast
 blend
 bless
+boom
 block
 begins
 blocking
@@ -297,7 +298,6 @@ books
 britain
 bool
 boolean
-boom
 boost
 boot
 booth
