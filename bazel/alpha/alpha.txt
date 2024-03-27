@@ -224,6 +224,7 @@ airline
 anywhere
 agriculture
 airlines
+ascii
 anna
 airport
 alabama
@@ -510,7 +511,6 @@ artists
 artwork
 asbestos
 affects
-ascii
 audience
 asia
 asian
