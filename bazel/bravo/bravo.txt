@@ -303,6 +303,7 @@ boot
 booth
 boots
 booty
+bullet
 borders
 breed
 border
@@ -447,7 +448,6 @@ bulgaria
 bulgarian
 bundle
 bulk
-bullet
 battery
 bulletin
 bunch
