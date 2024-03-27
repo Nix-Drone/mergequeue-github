@@ -189,6 +189,7 @@ biographies
 bind
 biography
 biol
+briefing
 biological
 biology
 bidding
@@ -361,7 +362,6 @@ begin
 bridge
 beatles
 brief
-briefing
 blackberry
 briefly
 bright
