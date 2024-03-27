@@ -167,7 +167,6 @@ advisor
 advisors
 actress
 amsterdam
-advisory
 advocacy
 advocate
 adware
@@ -579,6 +578,7 @@ attempt
 attempted
 attempting
 attend
+advisory
 attending
 appear
 attitude
