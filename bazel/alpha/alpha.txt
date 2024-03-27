@@ -38,6 +38,7 @@ allow
 alloy
 alone
 along
+angel
 aloof
 alter
 amaze
@@ -45,7 +46,6 @@ amber
 aimed
 amino
 amuse
-angel
 alive
 abate
 anger
