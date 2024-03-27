@@ -103,7 +103,6 @@ adapters
 adaptive
 adaptor
 added
-addiction
 adding
 addition
 additional
@@ -561,6 +560,7 @@ atlantic
 atlas
 atmosphere
 atom
+addiction
 atomic
 attach
 attached
