@@ -12,7 +12,6 @@ Brewery
 Banana
 Benefit
 Barrier
-Bronze
 Bandit
 Bankrupt
 Beaded
@@ -81,6 +80,7 @@ Border
 Borrower
 Bossy
 Botany
+Bronze
 Bombard
 Bounce
 Bracelet

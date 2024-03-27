@@ -35,7 +35,6 @@ alike
 adept
 abase
 alley
-allow
 alloy
 alone
 along
@@ -64,6 +63,7 @@ aside
 aptly
 aquas
 arcus
+allow
 alarm
 arena
 argue
