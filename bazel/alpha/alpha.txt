@@ -6,7 +6,6 @@ acids
 angle
 aspen
 acmes
-ample
 attic
 acorn
 actor
@@ -97,5 +96,6 @@ apply
 await
 awake
 award
+ample
 aware
 awash
