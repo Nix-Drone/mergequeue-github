@@ -348,7 +348,6 @@ assign
 audio
 assists
 annie
-annotation
 attention
 announce
 announced
@@ -634,6 +633,7 @@ avon
 award
 awarded
 awards
+annotation
 accepts
 awesome
 awful
