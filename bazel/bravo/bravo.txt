@@ -64,6 +64,7 @@ banking
 behavioral
 backup
 bumper
+blind
 batman
 battlefield
 beaches
@@ -276,7 +277,6 @@ bookmark
 boys
 bookmarks
 baskets
-blind
 books
 britain
 binary
