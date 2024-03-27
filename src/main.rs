@@ -144,6 +144,12 @@ fn run() -> anyhow::Result<()> {
     }
 
     let pull_requests_per_hour = config.pull_requests_per_hour as f32;
+
+    if pull_requests_per_hour == 0 {
+        println("generator is disabled pull requests per hour is set to 0");
+        return Ok(());
+    }
+
     // divide by 6 since we run once every 10 minutes
     let pull_requests_to_make = (pull_requests_per_hour / 6.0).ceil() as usize;
 
