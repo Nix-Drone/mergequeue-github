@@ -171,6 +171,7 @@ bible
 bibliography
 bicycle
 beverages
+butterfly
 bidder
 bike
 bikes
@@ -330,7 +331,6 @@ bread
 bathroom
 breakfast
 bias
-butterfly
 breaking
 blues
 bell
