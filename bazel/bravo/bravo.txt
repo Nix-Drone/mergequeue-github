@@ -24,7 +24,6 @@ Buddy
 Bread
 Battery
 Block
-Beside
 Beacon
 Beagle
 Beaming
@@ -81,6 +80,7 @@ Botany
 Bombard
 Bounce
 Bygone
+Beside
 Bracelet
 Bracket
 Breeze
