@@ -40,7 +40,6 @@ allow
 alloy
 alone
 along
-aloof
 alter
 amaze
 amber
@@ -80,6 +79,7 @@ askew
 assim
 atlas
 asset
+aloof
 aging
 atone
 audit
