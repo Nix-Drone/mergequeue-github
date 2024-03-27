@@ -70,6 +70,7 @@ acknowledge
 acknowledged
 acne
 acoustic
+away
 acquire
 acquired
 acquisition
@@ -635,7 +636,6 @@ awarded
 awards
 aware
 awareness
-away
 awesome
 awful
 axis
