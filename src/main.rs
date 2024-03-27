@@ -5,6 +5,7 @@ use gen::config::Conf;
 use gen::edit::change_file;
 use serde_json::to_string_pretty;
 use std::path::PathBuf;
+use std::process::Command;
 use walkdir::WalkDir;
 
 fn get_txt_files() -> std::io::Result<Vec<PathBuf>> {
@@ -20,6 +21,22 @@ fn get_txt_files() -> std::io::Result<Vec<PathBuf>> {
         }
     }
     Ok(paths)
+}
+
+fn branch(name: &str) {
+    let branch_name = format!("change/{}", name);
+
+    let output = Command::new("git")
+        .arg("checkout")
+        .arg("-t")
+        .arg("-b")
+        .arg(&branch_name)
+        .output()
+        .expect("Failed to execute command");
+
+    if !output.status.success() {
+        panic!("Command executed with failing error code");
+    }
 }
 
 fn run() -> anyhow::Result<()> {
@@ -63,6 +80,8 @@ fn run() -> anyhow::Result<()> {
 
     println!("::set-output name=words::{}", words.join(", "));
     println!("::set-output name=words-in-one::{}", words.join("-"));
+
+    branch(&words.join("-"));
 
     Ok(())
 }

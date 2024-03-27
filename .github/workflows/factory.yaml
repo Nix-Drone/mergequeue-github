@@ -4,9 +4,6 @@ on:
   workflow_dispatch: {}
   schedule:
     - cron: "0/5 * * * *"
-    - cron: "1/5 * * * *"
-    - cron: "2/5 * * * *"
-    - cron: "3/5 * * * *"
 
 jobs:
   create-pr:

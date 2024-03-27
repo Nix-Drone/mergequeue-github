@@ -37,6 +37,9 @@ pub struct Conf {
 
     #[config(default = 1)]
     pub max_impacted_deps: usize,
+
+    #[config(default = 10)]
+    pub pull_requests_per_hour: u32,
 }
 
 impl Conf {
