@@ -3,7 +3,8 @@ name: PR Factory
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: '0/5 * * * *'
+    - cron: '2/5 * * * *'
 
 jobs:
   create-pr:
