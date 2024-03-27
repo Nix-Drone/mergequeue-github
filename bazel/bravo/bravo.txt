@@ -186,7 +186,6 @@ binding
 boot
 boston
 biographies
-bind
 biography
 biol
 briefing
@@ -272,6 +271,7 @@ boob
 buttons
 bargains
 boobs
+bind
 bloggers
 balls
 bondage
