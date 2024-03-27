@@ -41,7 +41,6 @@ banking
 belts
 bankruptcy
 banks
-banner
 banners
 baptist
 barbados
@@ -404,6 +403,7 @@ bros
 brother
 brought
 brown
+banner
 browse
 browser
 browsers
