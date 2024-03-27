@@ -23,7 +23,7 @@ jobs:
         with:
           tools: gh jq trunk-pr-generator
 
-      - name: run code editor
+      - name: run pr-generator
         id: edits
         run: trunk-pr-generator
 
@@ -48,7 +48,7 @@ jobs:
         with:
           token: ${{ secrets[steps.choose-next.outputs.secret_name] }}
           commit-message: Moving words ${{ steps.edits.outputs.words }}
-          title: Moving ${{ steps.edits.outputs.words }}
+          title: ${{ steps.edits.outputs.words }}
           body: Moving ${{ steps.edits.outputs.words }}
           branch: content/${{ steps.edits.outputs.words-in-one }}
 

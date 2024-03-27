@@ -60,5 +60,5 @@ pub fn move_random_line(filename: &str) -> String {
         writeln!(writer, "{}", line).expect("failed to write file");
     }
 
-    word.to_string()
+    word.to_lowercase().to_string()
 }
