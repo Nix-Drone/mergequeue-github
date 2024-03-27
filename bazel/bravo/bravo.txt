@@ -78,7 +78,6 @@ backup
 baskets
 batch
 bumper
-bathrooms
 baths
 batman
 batteries
@@ -100,6 +99,7 @@ body
 beat
 beatles
 beats
+bathrooms
 baker
 beautiful
 beautifully
