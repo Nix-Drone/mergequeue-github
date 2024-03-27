@@ -24,7 +24,7 @@ jobs:
       - name: trunk install
         uses: trunk-io/trunk-action/install@v1
         with:
-          tools: gh trunk-pr-generator
+          tools: gh
 
       - name: cache rust
         uses: Swatinem/rust-cache@v2

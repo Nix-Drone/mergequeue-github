@@ -17,7 +17,12 @@ jobs:
       - name: trunk install
         uses: trunk-io/trunk-action/install@v1
         with:
-          tools: gh jq trunk-pr-generator
+          tools: gh jq
+
+      - name: download generator
+        run: |
+          gh release download --pattern='*.gz' --output tpg.gz --clobber
+          tar -xf tpg.gz
 
       - name: get demo config
         id: get-demo-config

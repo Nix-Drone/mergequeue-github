@@ -15,11 +15,6 @@ jobs:
         with:
           ref: main
 
-      - name: trunk install
-        uses: trunk-io/trunk-action/install@v1
-        with:
-          tools: gh jq trunk-pr-generator
-
       - name: choose next
         id: choose-next
         run: |
@@ -34,6 +29,19 @@ jobs:
             echo "secret_name=ELI_PAT" >> $GITHUB_OUTPUT
             ;;
           esac
+
+      - name: trunk install
+        uses: trunk-io/trunk-action/install@v1
+        with:
+          tools: gh jq trunk-pr-generator
+        env:
+          GH_TOKEN: ${{ secrets[steps.choose-next.outputs.secret_name] }}
+
+      - name: download generator
+        if: always()
+        run: |
+          gh release download --pattern='*.gz' --output tpg.gz --clobber
+          tar -xf tpg.gz
 
       - name: run pr-generator
         id: edits
