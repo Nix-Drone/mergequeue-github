@@ -358,7 +358,6 @@ annotated
 annotation
 announce
 announced
-announcement
 announcements
 announces
 annoying
@@ -566,6 +565,7 @@ attach
 attached
 attachment
 attachments
+announcement
 attack
 attacked
 attacks

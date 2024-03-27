@@ -32,7 +32,6 @@ ballot
 balls
 baltimore
 banana
-band
 bands
 bandwidth
 bang
@@ -155,6 +154,7 @@ belt
 belts
 bench
 benchmark
+band
 bend
 beneath
 beneficial
