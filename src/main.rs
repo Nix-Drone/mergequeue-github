@@ -7,6 +7,7 @@ use regex::Regex;
 use serde_json::to_string_pretty;
 use std::path::PathBuf;
 use std::process::Command;
+use std::time::Instant;
 use walkdir::WalkDir;
 
 fn get_txt_files() -> std::io::Result<Vec<PathBuf>> {
@@ -126,24 +127,27 @@ fn run() -> anyhow::Result<()> {
         return Ok(());
     }
 
-    println!("{:?}", config.mode);
+    let pull_requests_per_hour = config.pull_requests_per_hour as f32;
+    let pull_requests_to_make = (pull_requests_per_hour / 12.0).ceil() as usize;
 
-    println!("{:?}", cli.gh_token);
+    for _ in 0..pull_requests_to_make {
+        let start = Instant::now();
+        let files = get_txt_files()?;
+        let mut filenames: Vec<String> = files
+            .into_iter()
+            .map(|path| path.to_string_lossy().into_owned())
+            .collect();
 
-    let files = get_txt_files()?;
-    let mut filenames: Vec<String> = files
-        .into_iter()
-        .map(|path| path.to_string_lossy().into_owned())
-        .collect();
+        filenames.sort();
+        let filenames: Vec<String> = filenames.into_iter().take(config.max_deps).collect();
 
-    filenames.sort();
-    let filenames: Vec<String> = filenames.into_iter().take(config.max_deps).collect();
+        let max_impacted_deps = config.max_impacted_deps as u32; // Convert usize to u32
+        let words = change_file(&filenames, max_impacted_deps); // Use the converted value
 
-    let max_impacted_deps = config.max_impacted_deps as u32; // Convert usize to u32
-    let words = change_file(&filenames, max_impacted_deps); // Use the converted value
-
-    create_pull_request(&words);
-
+        let pr = create_pull_request(&words);
+        let duration = start.elapsed();
+        println!(format("created pr: {} in {:?}", pr, duration));
+    }
     Ok(())
 }
 
