@@ -225,7 +225,6 @@ albert
 alberta
 album
 alcohol
-alert
 alerts
 alex
 alexandria
@@ -419,6 +418,7 @@ applies
 apply
 applying
 appointed
+alert
 appointment
 appointments
 appraisal
