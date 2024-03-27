@@ -130,6 +130,7 @@ administrators
 admission
 admissions
 admit
+analytical
 admitted
 anaheim
 adolescent
@@ -315,7 +316,6 @@ awareness
 able
 analyst
 analysts
-analytical
 appraisal
 analyze
 articles
