@@ -182,7 +182,6 @@ bill
 buyer
 bills
 billy
-binary
 binding
 boot
 boston
@@ -282,6 +281,7 @@ bookmarks
 blind
 books
 britain
+binary
 bool
 boolean
 boost
