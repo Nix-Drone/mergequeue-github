@@ -410,7 +410,6 @@ appendix
 apple
 appliance
 appliances
-applicable
 applicant
 applicants
 application
@@ -517,6 +516,7 @@ aspect
 aspects
 aspnet
 assault
+applicable
 assembled
 assembly
 assess
