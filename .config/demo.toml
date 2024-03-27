@@ -14,4 +14,4 @@ max_deps = 2
 # the max number of deps per PR to edit
 max_impacted_deps = 2
 
-pull_requests_per_hour = 30
+pull_requests_per_hour = 12
