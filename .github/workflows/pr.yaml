@@ -44,6 +44,6 @@ jobs:
         # so we can simulate delay and flakiness
         if: steps.check_is_merge.outputs.on_merge == 'true'
         run: |
-          cargo test
+          cargo test -- --nocapture
         env:
           IS_MERGE: ${{ steps.check_is_merge.outputs.on_merge }}
