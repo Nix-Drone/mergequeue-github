@@ -266,6 +266,7 @@ board
 boards
 boat
 boats
+born
 bobby
 bodies
 bottle
@@ -306,7 +307,6 @@ border
 borders
 breed
 boring
-born
 borough
 bufing
 bosnia
