@@ -9,7 +9,6 @@ about
 abraham
 armstrong
 abroad
-absence
 absent
 absolute
 absolutely
@@ -412,6 +411,7 @@ attendance
 acne
 announcement
 apple
+absence
 assure
 appliances
 applicant
