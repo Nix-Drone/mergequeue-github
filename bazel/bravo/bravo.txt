@@ -243,7 +243,6 @@ blanket
 blast
 blend
 bless
-blessed
 blink
 block
 blocked
@@ -332,6 +331,7 @@ boutique
 bacon
 bowl
 bowling
+blessed
 boxed
 boxes
 boxing

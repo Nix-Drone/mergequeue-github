@@ -147,6 +147,7 @@ advancement
 advances
 advantage
 advantages
+athletes
 adventure
 adventures
 adverse
@@ -551,7 +552,6 @@ astrology
 astronomy
 asus
 athens
-athletes
 athletic
 athletics
 atlanta
