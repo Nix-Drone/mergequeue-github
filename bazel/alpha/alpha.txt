@@ -23,7 +23,6 @@ after
 agent
 agony
 adept
-avert
 agree
 again
 avert
@@ -75,6 +74,7 @@ arise
 armed
 armor
 agape
+avert
 aisle
 array
 askew
