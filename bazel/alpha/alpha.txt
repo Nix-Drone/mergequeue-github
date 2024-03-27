@@ -20,7 +20,6 @@ auras
 affix
 after
 again
-agape
 abate
 agent
 agony
@@ -72,6 +71,7 @@ alien
 arise
 armed
 armor
+agape
 aisle
 array
 askew
