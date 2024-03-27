@@ -16,6 +16,7 @@ abstract
 abstracts
 abuse
 academic
+apnic
 academics
 affecting
 accept
@@ -386,7 +387,6 @@ activity
 apache
 apart
 apartment
-apnic
 accessories
 apollo
 apparel
