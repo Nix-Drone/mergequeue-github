@@ -33,7 +33,7 @@ jobs:
       - name: trunk install
         uses: trunk-io/trunk-action/install@v1
         with:
-          tools: gh jq trunk-pr-generator
+          tools: gh jq
         env:
           GH_TOKEN: ${{ secrets[steps.choose-next.outputs.secret_name] }}
 
