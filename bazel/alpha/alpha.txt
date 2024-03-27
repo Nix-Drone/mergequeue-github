@@ -281,7 +281,6 @@ alternative
 alternatively
 alternatives
 although
-alto
 aluminium
 aluminum
 alumni
@@ -619,6 +618,7 @@ automotive
 autos
 autumn
 atom
+alto
 availability
 available
 avatar
