@@ -25,6 +25,7 @@ Buddy
 Bread
 Battery
 Boxer
+Block
 Beacon
 Beagle
 Beaming
@@ -59,7 +60,6 @@ Blaze
 Bleach
 Blessing
 Blizzard
-Block
 Blossom
 Blueprint
 Bluff

@@ -35,7 +35,6 @@ alarm
 alert
 alike
 adept
-alive
 alley
 allow
 alloy
@@ -50,6 +49,7 @@ amend
 amino
 amuse
 angel
+alive
 anger
 angle
 angry
