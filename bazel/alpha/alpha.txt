@@ -197,6 +197,7 @@ aged
 agencies
 agency
 agenda
+apply
 agent
 agents
 ages
@@ -418,7 +419,6 @@ application
 applications
 applied
 applies
-apply
 applying
 appointed
 appointment
