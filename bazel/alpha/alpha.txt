@@ -364,6 +364,7 @@ announcements
 announces
 annoying
 annual
+authentication
 annually
 anonymous
 another
@@ -604,7 +605,6 @@ australia
 australian
 austria
 authentic
-authentication
 author
 authorities
 authority
