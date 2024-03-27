@@ -5,7 +5,7 @@ mode = "singlequeue"
 flake_rate = 0.1
 
 # how long test should spin for (in seconds)
-sleep_for = "100ms"
+sleep_for = "120s"
 
 # the max number of deps in this repo. setting to 3 for example will cause
 # files in alpha, bravo, charlie deps to be changed
