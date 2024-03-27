@@ -15,8 +15,8 @@ jobs:
         with:
           ref: main
 
-      - name: choose next
-        id: choose-next
+      - name: choose secret
+        id: choose-secret
         run: |
           case $(( RANDOM % 3 )) in
           0)
@@ -34,26 +34,26 @@ jobs:
         uses: trunk-io/trunk-action/install@v1
         with:
           tools: gh jq
-        env:
-          GH_TOKEN: ${{ secrets[steps.choose-next.outputs.secret_name] }}
 
       - name: download generator
         if: always()
         run: |
           gh release download --pattern='*.gz' --output tpg.gz --clobber
           tar -xf tpg.gz
+        env:
+          GH_TOKEN: ${{ secrets[steps.choose-secret.outputs.secret_name] }}
 
       - name: run pr-generator
         id: edits
         run: trunk-pr-generator
         env:
-          GH_TOKEN: ${{ secrets[steps.choose-next.outputs.secret_name] }}
+          GH_TOKEN: ${{ secrets[steps.choose-secret.outputs.secret_name] }}
 
       # - name: Create Pull Request
       #   id: cpr
       #   uses: peter-evans/create-pull-request@v6
       #   with:
-      #     token: ${{ secrets[steps.choose-next.outputs.secret_name] }}
+      #     token: ${{ secrets[steps.choose-secret.outputs.secret_name] }}
       #     commit-message: Moving words ${{ steps.edits.outputs.words }}
       #     title: ${{ steps.edits.outputs.words }}
       #     body: Moving ${{ steps.edits.outputs.words }}
@@ -68,4 +68,4 @@ jobs:
       #     gh pr review ${{ steps.cpr.outputs.pull-request-number }} --comment -b "/trunk merge"
       #   env:
       #     GH_REPO: ${{ github.repository }}
-      #     GH_TOKEN: ${{ secrets[steps.choose-next.outputs.secret_name] }}
+      #     GH_TOKEN: ${{ secrets[steps.choose-secret.outputs.secret_name] }}
