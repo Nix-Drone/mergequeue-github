@@ -150,7 +150,6 @@ advantages
 athletes
 adventure
 adventures
-adverse
 advert
 advertise
 advertisement
@@ -607,6 +606,7 @@ authors
 arab
 assumes
 architectural
+adverse
 automated
 automatic
 automation
