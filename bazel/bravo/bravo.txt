@@ -45,6 +45,7 @@ Bentley
 Beret
 Betray
 Beverage
+Bull
 Beware
 Bolt
 Bicycle
@@ -101,7 +102,6 @@ Boxer
 Buffalo
 Bugle
 Builder
-Bull
 Bathrobe
 Bump
 Burglar
