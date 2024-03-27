@@ -6,7 +6,7 @@ on: pull_request
 
 jobs:
   compute_pr_targets:
-    name: compute pr targets
+    name: compute
     runs-on: public-amd64-small
     steps:
       - name: Checkout
