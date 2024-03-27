@@ -321,7 +321,6 @@ appraisal
 analyze
 articles
 analyzed
-anchor
 ancient
 andale
 anderson
@@ -489,6 +488,7 @@ acknowledge
 arranged
 arrangement
 arrangements
+anchor
 arrest
 among
 arrested
