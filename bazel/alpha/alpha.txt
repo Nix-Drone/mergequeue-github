@@ -13,7 +13,6 @@ actor
 acute
 adage
 added
-adept
 adore
 adorn
 adult
@@ -36,6 +35,7 @@ aired
 alarm
 alert
 alike
+adept
 alive
 alley
 allow
