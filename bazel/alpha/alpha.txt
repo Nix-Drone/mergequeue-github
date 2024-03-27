@@ -225,7 +225,6 @@ agriculture
 airlines
 ascii
 anna
-airport
 alabama
 alan
 alarm
@@ -597,6 +596,7 @@ auditor
 august
 aurora
 argentina
+airport
 australian
 authentic
 authentication
