@@ -541,7 +541,6 @@ associations
 assume
 atmosphere
 assumed
-assumes
 assuming
 assumption
 after
@@ -614,6 +613,7 @@ authorized
 albuquerque
 authors
 auto
+assumes
 automated
 automatic
 automatically
