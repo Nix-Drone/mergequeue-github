@@ -90,6 +90,16 @@ fn create_pull_request(words: &Vec<String>) -> String {
     let caps = re.captures(pr_url.trim()).unwrap();
     let pr_number = caps.get(1).map_or("", |m| m.as_str());
 
+    let output = Command::new("git")
+        .arg("checkout")
+        .arg("main")
+        .output()
+        .expect("Failed to execute command");
+
+    if !output.status.success() {
+        panic!("Command executed with failing error code");
+    }
+
     pr_number.to_string()
 }
 
@@ -131,9 +141,6 @@ fn run() -> anyhow::Result<()> {
 
     let max_impacted_deps = config.max_impacted_deps as u32; // Convert usize to u32
     let words = change_file(&filenames, max_impacted_deps); // Use the converted value
-
-    println!("::set-output name=words::{}", words.join(", "));
-    println!("::set-output name=words-in-one::{}", words.join("-"));
 
     create_pull_request(&words);
 
