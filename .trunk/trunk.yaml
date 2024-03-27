@@ -16,7 +16,6 @@ runtimes:
 
 downloads:
   - name: trunk-pr-generator
-    version: 0.3.0
     downloads:
       - os:
           linux: unknown-linux-gnu
@@ -39,7 +38,7 @@ tools:
     - name: trunk-pr-generator
       download: trunk-pr-generator
       shims: [trunk-pr-generator]
-      known_good_version: 0.3.0
+      known_good_version: 0.4.0
   enabled:
     - jq@jq-1.7.1
-    - trunk-pr-generator@0.3.0
+    - trunk-pr-generator@0.4.0
