@@ -606,7 +606,6 @@ authority
 authorization
 authorized
 authors
-auto
 assumes
 architectural
 automated
@@ -627,6 +626,7 @@ avenue
 acquired
 alberta
 aviation
+auto
 avoid
 avoiding
 allergy
