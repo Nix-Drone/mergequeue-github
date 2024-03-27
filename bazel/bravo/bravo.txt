@@ -74,6 +74,7 @@ basis
 basketball
 baskets
 batch
+bumper
 bathrooms
 baths
 batman
@@ -447,7 +448,6 @@ bulk
 bull
 bullet
 bulletin
-bumper
 bunch
 bundle
 bunny
