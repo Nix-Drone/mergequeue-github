@@ -133,6 +133,7 @@ belong
 bleeding
 belongs
 below
+basis
 belt
 boating
 bench
@@ -214,7 +215,6 @@ blank
 blanket
 battle
 blast
-basis
 bless
 boom
 body

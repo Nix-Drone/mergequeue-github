@@ -160,7 +160,6 @@ auburn
 affair
 advertisements
 alias
-advertiser
 alpha
 allocated
 advertisers
@@ -580,6 +579,7 @@ attend
 advisory
 attending
 appear
+advertiser
 attitude
 attitudes
 attorney
