@@ -57,7 +57,6 @@ bearing
 bits
 basics
 basin
-basis
 berry
 banking
 behavioral
@@ -215,6 +214,7 @@ blank
 blanket
 battle
 blast
+basis
 bless
 boom
 body
