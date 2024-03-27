@@ -93,7 +93,9 @@ fn create_pull_request(words: &[String]) -> String {
         .expect("Failed to execute command");
 
     if !output.status.success() {
-        panic!("Command executed with failing error code");
+        eprintln!("stdout: {}", String::from_utf8_lossy(&output.stdout));
+        eprintln!("stderr: {}", String::from_utf8_lossy(&output.stderr));
+        panic!("Failed to run git commit");
     }
 
     let output = Command::new("git")

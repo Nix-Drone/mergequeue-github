@@ -20,10 +20,6 @@ jobs:
         with:
           tools: gh jq trunk-pr-generator
 
-      - name: run pr-generator
-        id: edits
-        run: trunk-pr-generator
-
       - name: choose next
         id: choose-next
         run: |
@@ -39,23 +35,29 @@ jobs:
             ;;
           esac
 
-      - name: Create Pull Request
-        id: cpr
-        uses: peter-evans/create-pull-request@v6
-        with:
-          token: ${{ secrets[steps.choose-next.outputs.secret_name] }}
-          commit-message: Moving words ${{ steps.edits.outputs.words }}
-          title: ${{ steps.edits.outputs.words }}
-          body: Moving ${{ steps.edits.outputs.words }}
-          branch: content/${{ steps.edits.outputs.words-in-one }}
-
-      - name: sleep for 10
-        run: sleep 10 # sleep for 10 seconds so the GH comment gets properly posted first from the queue
-
-      - name: comment on pr
-        if: ${{ steps.cpr.outputs.pull-request-number }}
-        run: |
-          gh pr review ${{ steps.cpr.outputs.pull-request-number }} --comment -b "/trunk merge"
+      - name: run pr-generator
+        id: edits
+        run: trunk-pr-generator
         env:
-          GH_REPO: ${{ github.repository }}
           GH_TOKEN: ${{ secrets[steps.choose-next.outputs.secret_name] }}
+
+      # - name: Create Pull Request
+      #   id: cpr
+      #   uses: peter-evans/create-pull-request@v6
+      #   with:
+      #     token: ${{ secrets[steps.choose-next.outputs.secret_name] }}
+      #     commit-message: Moving words ${{ steps.edits.outputs.words }}
+      #     title: ${{ steps.edits.outputs.words }}
+      #     body: Moving ${{ steps.edits.outputs.words }}
+      #     branch: content/${{ steps.edits.outputs.words-in-one }}
+
+      # - name: sleep for 10
+      #   run: sleep 10 # sleep for 10 seconds so the GH comment gets properly posted first from the queue
+
+      # - name: comment on pr
+      #   if: ${{ steps.cpr.outputs.pull-request-number }}
+      #   run: |
+      #     gh pr review ${{ steps.cpr.outputs.pull-request-number }} --comment -b "/trunk merge"
+      #   env:
+      #     GH_REPO: ${{ github.repository }}
+      #     GH_TOKEN: ${{ secrets[steps.choose-next.outputs.secret_name] }}
