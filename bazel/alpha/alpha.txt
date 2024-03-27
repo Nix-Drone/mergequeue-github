@@ -133,6 +133,7 @@ administrative
 administrator
 administrators
 admission
+attempting
 admissions
 admit
 admitted
@@ -571,7 +572,6 @@ attacked
 attacks
 attempt
 attempted
-attempting
 attempts
 attend
 attendance
