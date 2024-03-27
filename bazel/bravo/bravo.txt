@@ -67,6 +67,7 @@ basename
 bases
 basic
 basically
+bearing
 basics
 basin
 basis
@@ -88,7 +89,6 @@ beam
 bean
 beans
 bear
-bearing
 bears
 bitch
 breast
