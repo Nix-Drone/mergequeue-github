@@ -16,6 +16,7 @@ adorn
 adult
 aegis
 aerie
+auras
 affix
 after
 again
@@ -84,7 +85,6 @@ attic
 audit
 auger
 aunts
-auras
 autos
 avail
 avert
