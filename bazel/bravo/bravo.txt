@@ -118,6 +118,7 @@ beds
 beef
 been
 beer
+bookings
 before
 began
 bring
@@ -289,7 +290,6 @@ boob
 boobs
 book
 booking
-bookings
 bookmark
 bookmarks
 blind
