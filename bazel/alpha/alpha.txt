@@ -525,6 +525,7 @@ applicable
 assembled
 assembly
 assess
+assumes
 assessing
 assessment
 assessments
@@ -607,7 +608,6 @@ authority
 authorization
 authorized
 authors
-assumes
 architectural
 automated
 automatic
