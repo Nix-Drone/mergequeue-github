@@ -23,7 +23,8 @@ jobs:
         id: get-demo-config
         run: |
           which trunk-pr-generator
-          output = $(trunk-pr-generator config)
+          trunk-pr-generator config
+          output=$(trunk-pr-generator config)
           mode=$(echo "$output" | jq -r '.mode')
           build=$(echo "$output" | jq -r '.build')
           flake_rate=$(echo "$output" | jq -r '.flake_rate')
