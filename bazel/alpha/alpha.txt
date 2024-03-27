@@ -237,7 +237,6 @@ albany
 albert
 accomplished
 alcohol
-alerts
 alex
 alexandria
 alone
@@ -331,6 +330,7 @@ analyst
 analysts
 appraisal
 analyze
+alerts
 articles
 ancient
 atlantic
