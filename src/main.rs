@@ -128,7 +128,8 @@ fn run() -> anyhow::Result<()> {
     }
 
     let pull_requests_per_hour = config.pull_requests_per_hour as f32;
-    let pull_requests_to_make = (pull_requests_per_hour / 12.0).ceil() as usize;
+    // divide by 6 since we run once every 10 minutes
+    let pull_requests_to_make = (pull_requests_per_hour / 6.0).ceil() as usize;
 
     for _ in 0..pull_requests_to_make {
         let start = Instant::now();
@@ -146,7 +147,7 @@ fn run() -> anyhow::Result<()> {
 
         let pr = create_pull_request(&words);
         let duration = start.elapsed();
-        println!(format("created pr: {} in {:?}", pr, duration));
+        println!("created pr: {} in {:?}", pr, duration);
     }
     Ok(())
 }
