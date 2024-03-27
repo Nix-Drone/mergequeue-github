@@ -83,7 +83,6 @@ active
 aware
 actively
 aquarium
-activities
 actor
 accessed
 actors
@@ -437,6 +436,7 @@ approve
 approved
 approx
 approximate
+activities
 approximately
 apps
 alphabetical
