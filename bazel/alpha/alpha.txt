@@ -38,7 +38,6 @@ allow
 alloy
 alone
 along
-aloof
 alter
 amaze
 amber
@@ -50,6 +49,7 @@ alive
 abate
 anger
 angle
+aloof
 angry
 arrow
 ankle
