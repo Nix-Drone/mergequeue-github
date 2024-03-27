@@ -18,20 +18,14 @@ jobs:
         with:
           ref: main
 
-      - name: Install Rust toolchain
-        uses: dtolnay/rust-toolchain@stable
-
       - name: trunk install
         uses: trunk-io/trunk-action/install@v1
         with:
-          tools: gh jq
-
-      - name: rust cache
-        uses: Swatinem/rust-cache@v2
+          tools: gh jq trunk-pr-generator
 
       - name: run code editor
         id: edits
-        run: cargo run
+        run: trunk-pr-generator
 
       - name: choose next
         id: choose-next

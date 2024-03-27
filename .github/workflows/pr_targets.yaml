@@ -14,21 +14,15 @@ jobs:
         with:
           lfs: truefilenames.sort();
 
-      - name: Install Rust toolchain
-        uses: dtolnay/rust-toolchain@stable
-
-      - name: rust cache
-        uses: Swatinem/rust-cache@v2
-
       - name: trunk install
         uses: trunk-io/trunk-action/install@v1
         with:
-          tools: gh jq
+          tools: gh jq trunk-pr-generator
 
       - name: get demo config
         id: get-demo-config
         run: |
-          output=$(cargo run -- config)
+          output = $(trunk-pr-generator config)
           mode=$(echo "$output" | jq -r '.mode')
           build=$(echo "$output" | jq -r '.build')
           flake_rate=$(echo "$output" | jq -r '.flake_rate')
