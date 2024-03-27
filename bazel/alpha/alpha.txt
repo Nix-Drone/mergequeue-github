@@ -66,6 +66,7 @@ acid
 acids
 acknowledge
 acknowledged
+atmospheric
 acoustic
 away
 acquire
@@ -559,7 +560,6 @@ atlanta
 atlantic
 atlas
 atmosphere
-atmospheric
 atom
 atomic
 attach
