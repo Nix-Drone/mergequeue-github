@@ -12,7 +12,6 @@ actor
 acute
 adage
 added
-adore
 adorn
 aegis
 aerie
@@ -76,6 +75,7 @@ agape
 aisle
 array
 askew
+adore
 assim
 atlas
 asset
