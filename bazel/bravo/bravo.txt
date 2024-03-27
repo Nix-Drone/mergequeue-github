@@ -243,7 +243,6 @@ bleeding
 blend
 bless
 blessed
-blind
 blink
 block
 blocked
@@ -293,6 +292,7 @@ booking
 bookings
 bookmark
 bookmarks
+blind
 books
 bookstore
 britain
