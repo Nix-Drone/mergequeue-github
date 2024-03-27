@@ -1,5 +1,5 @@
 [package]
-name = "generator"
+name = "trunk-pr-generator"
 version = "0.0.0"
 authors = ["merge <merge@trunk.io>"]
 license = "MIT"

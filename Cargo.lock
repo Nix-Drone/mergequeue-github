@@ -217,25 +217,6 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "5443807d6dff69373d433ab9ef5378ad8df50ca6298caf15de6e52e24aaf54d5"
 
 [[package]]
-name = "generator"
-version = "0.0.0"
-dependencies = [
- "anyhow",
- "clap",
- "confique",
- "env_logger",
- "lazy_static",
- "log",
- "parse_duration",
- "rand",
- "regex",
- "serde",
- "serde_json",
- "toml 0.8.12",
- "walkdir",
-]
-
-[[package]]
 name = "generic-array"
 version = "0.14.7"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -741,6 +722,25 @@ dependencies = [
  "serde_spanned",
  "toml_datetime",
  "winnow",
+]
+
+[[package]]
+name = "trunk-pr-generator"
+version = "0.0.0"
+dependencies = [
+ "anyhow",
+ "clap",
+ "confique",
+ "env_logger",
+ "lazy_static",
+ "log",
+ "parse_duration",
+ "rand",
+ "regex",
+ "serde",
+ "serde_json",
+ "toml 0.8.12",
+ "walkdir",
 ]
 
 [[package]]
