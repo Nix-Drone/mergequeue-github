@@ -130,7 +130,6 @@ admin
 administered
 administration
 administrative
-administrator
 administrators
 admission
 admissions
@@ -384,6 +383,7 @@ antivirus
 antonio
 anxiety
 anybody
+administrator
 anymore
 anyone
 anything
