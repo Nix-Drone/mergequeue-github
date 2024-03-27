@@ -83,10 +83,10 @@ fn create_pull_request(words: &Vec<String>) -> String {
     }
 
     let re = Regex::new(r"/pull/(\d+)$").unwrap();
-    let caps = re.captures(output.stdout).unwrap();
+    let caps = re.captures(String::from_utf8_lossy(output.stdout)).unwrap();
     let pr_number = caps.get(1).map_or("", |m| m.as_str());
 
-    pr_number
+    pr_number.to_string()
 }
 
 fn run() -> anyhow::Result<()> {
