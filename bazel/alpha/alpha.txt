@@ -176,7 +176,6 @@ afghanistan
 affect
 affected
 affiliate
-affiliated
 affiliates
 affiliation
 afford
@@ -455,6 +454,7 @@ arbitration
 arch
 architect
 amanda
+affiliated
 architects
 architecture
 archived
