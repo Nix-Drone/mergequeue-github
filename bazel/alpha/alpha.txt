@@ -305,7 +305,6 @@ annex
 animals
 american
 acceptance
-article
 americas
 amino
 atomic
@@ -448,6 +447,7 @@ aquatic
 arabia
 arabic
 arbitrary
+article
 america
 arbitration
 arch

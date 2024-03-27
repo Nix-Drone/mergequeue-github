@@ -334,7 +334,6 @@ batch
 branches
 brand
 brandon
-brands
 bras
 bread
 bathroom
@@ -344,6 +343,7 @@ butterfly
 breaking
 blues
 bell
+brands
 break
 breaks
 bizarre
