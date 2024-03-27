@@ -138,7 +138,6 @@ Clock
 Close
 Cloth
 Cloud
-Clown
 Club
 Clump
 Cluster
@@ -222,6 +221,7 @@ Cover
 Coyote
 Crack
 Craft
+Clown
 Crazy
 Cram
 Crane
