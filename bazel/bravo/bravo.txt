@@ -96,7 +96,6 @@ bedding
 base
 beam
 bedrooms
-bands
 beds
 beef
 beer
@@ -226,6 +225,7 @@ blocks
 broke
 boundaries
 blog
+bands
 backed
 blogger
 boxed
