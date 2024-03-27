@@ -342,7 +342,6 @@ annotation
 attention
 announce
 announced
-announcement
 announcements
 announces
 annoying
@@ -400,6 +399,7 @@ array
 appears
 appendix
 acne
+announcement
 apple
 appliance
 appliances
