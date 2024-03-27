@@ -25,7 +25,7 @@ fn get_txt_files() -> std::io::Result<Vec<PathBuf>> {
     Ok(paths)
 }
 
-fn create_pull_request(words: &Vec<String>) -> String {
+fn create_pull_request(words: &[String]) -> String {
     let branch_name = format!("change/{}", words.join("-"));
 
     let output = Command::new("git")
