@@ -2,10 +2,10 @@
 mode = "singlequeue"
 
 # Default value: 0.1
-flake_rate = 0.1
+flake_rate = 0.01
 
 # how long test should spin for (in seconds)
-sleep_for = "20m"
+sleep_for = "60s"
 
 # the max number of deps in this repo. setting to 3 for example will cause
 # files in alpha, bravo, charlie deps to be changed
