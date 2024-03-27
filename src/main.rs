@@ -82,6 +82,9 @@ fn create_pull_request(words: &Vec<String>) -> String {
         panic!("Call to create PR on GitHub failed");
     }
 
+    eprintln!("stdout: {}", String::from_utf8_lossy(&output.stdout));
+    eprintln!("stderr: {}", String::from_utf8_lossy(&output.stderr));
+
     let pr_url = String::from_utf8_lossy(&output.stdout);
     let re = Regex::new(r"/pull/(\d+)$").unwrap();
     let caps = re.captures(&pr_url).unwrap();
