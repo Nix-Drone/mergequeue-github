@@ -566,6 +566,7 @@ atomic
 attach
 attached
 apparatus
+attempts
 attachment
 attachments
 attack
@@ -574,7 +575,6 @@ attacks
 attempt
 attempted
 attempting
-attempts
 attend
 attendance
 attending
