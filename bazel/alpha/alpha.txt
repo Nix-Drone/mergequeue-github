@@ -75,7 +75,6 @@ accreditation
 arrive
 actions
 asks
-arts
 activated
 activation
 active
@@ -256,6 +255,7 @@ allocation
 allow
 allowance
 allowed
+arts
 allowing
 allows
 alloy
