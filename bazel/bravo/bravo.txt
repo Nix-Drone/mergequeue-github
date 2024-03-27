@@ -21,7 +21,6 @@ Bassoon
 Buddy
 Bread
 Battery
-Block
 Beside
 Beacon
 Beagle
@@ -60,6 +59,7 @@ Bleach
 Blizzard
 Blossom
 Blueprint
+Block
 Bluff
 Blurry
 Boast
