@@ -18,6 +18,7 @@ adult
 aegis
 aerie
 auras
+amend
 affix
 after
 again
@@ -44,7 +45,6 @@ alter
 amaze
 amber
 aimed
-amend
 amino
 amuse
 angel
