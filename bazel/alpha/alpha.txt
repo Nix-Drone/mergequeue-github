@@ -319,6 +319,7 @@ analyst
 analysts
 analytical
 analyze
+articles
 analyzed
 anatomy
 anchor
@@ -495,7 +496,6 @@ arrow
 arthritis
 arthur
 article
-articles
 artificial
 artist
 artistic
