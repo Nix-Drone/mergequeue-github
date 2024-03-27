@@ -32,7 +32,6 @@ banana
 band
 bandwidth
 bang
-bangbus
 bangladesh
 bank
 belts
@@ -275,6 +274,7 @@ bold
 broadway
 bolivia
 bolt
+bangbus
 beverages
 bomb
 bond
