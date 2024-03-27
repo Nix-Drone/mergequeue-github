@@ -22,6 +22,7 @@ affix
 after
 agent
 agony
+alter
 adept
 avert
 agree
@@ -39,7 +40,6 @@ alloy
 alone
 along
 aloof
-alter
 amaze
 amber
 aimed
