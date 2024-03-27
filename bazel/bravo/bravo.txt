@@ -85,7 +85,6 @@ builders
 beat
 baker
 blades
-blackjack
 beautiful
 bold
 becomes
@@ -341,6 +340,7 @@ butterfly
 breaking
 blues
 bell
+blackjack
 brands
 break
 breaks
