@@ -12,6 +12,7 @@ Banana
 Bronze
 Bandit
 Bankrupt
+Block
 Barbecue
 Bargain
 Barrier
@@ -59,7 +60,6 @@ Blaze
 Bleach
 Blessing
 Blizzard
-Block
 Blossom
 Blueprint
 Bluff
