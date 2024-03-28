@@ -135,6 +135,7 @@ buying
 betty
 begun
 behavior
+brick
 behalf
 barrier
 bronze
@@ -352,7 +353,6 @@ beatles
 browser
 blocking
 budapest
-brick
 bass
 begin
 bonus
