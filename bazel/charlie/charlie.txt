@@ -211,6 +211,7 @@ chapters
 char
 character
 characteristic
+copy
 characteristics
 colorado
 characterization
@@ -792,7 +793,6 @@ copied
 congratulations
 copies
 copper
-copy
 copying
 copyright
 copyrights
