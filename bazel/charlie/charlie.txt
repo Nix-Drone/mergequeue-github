@@ -513,6 +513,7 @@ chairman
 communities
 community
 comp
+count
 compact
 consensus
 consider
@@ -835,7 +836,6 @@ council
 counsel
 concentrate
 counseling
-count
 counted
 counters
 counties
