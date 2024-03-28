@@ -594,6 +594,7 @@ concerns
 concert
 concerts
 conclude
+cooling
 concluded
 conclusion
 conclusions
@@ -770,7 +771,6 @@ cookies
 cooking
 cool
 cooler
-cooling
 cooper
 cooperation
 cooperative
