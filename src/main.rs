@@ -167,7 +167,7 @@ fn test_with_flakes(config: &Conf) -> bool {
     println!("Random float: {}", random_float);
     println!("Flake rate: {}", config.flake_rate);
 
-    return random_float > config.flake_rate;
+    random_float > config.flake_rate
 }
 
 fn create_pull_request(words: &[String]) -> String {
