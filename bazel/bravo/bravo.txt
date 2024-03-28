@@ -77,7 +77,6 @@ bull
 banking
 behavioral
 bumper
-blind
 blade
 batman
 battlefield
@@ -93,6 +92,7 @@ beast
 burst
 barn
 bulletin
+blind
 broker
 boxing
 bottle
