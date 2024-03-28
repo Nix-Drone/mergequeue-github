@@ -225,7 +225,6 @@ characteristics
 characterization
 characterized
 characters
-charge
 charged
 charger
 chargers
@@ -749,6 +748,7 @@ control
 controlled
 controller
 controllers
+charge
 controlling
 controls
 controversial
