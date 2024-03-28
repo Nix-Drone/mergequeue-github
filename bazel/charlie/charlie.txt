@@ -532,6 +532,7 @@ compare
 compared
 comparing
 comparison
+constraints
 comparisons
 compatibility
 compatible
@@ -687,7 +688,6 @@ contents
 constitution
 classified
 constraint
-constraints
 construct
 constructed
 celebs
