@@ -530,6 +530,7 @@ companies
 companion
 checks
 company
+court
 compaq
 comparable
 comparative
@@ -854,7 +855,6 @@ courage
 courier
 course
 courses
-court
 courtesy
 courts
 cove
