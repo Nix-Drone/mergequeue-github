@@ -464,6 +464,7 @@ architects
 architecture
 angle
 archives
+assumes
 arctic
 area
 areas
@@ -607,7 +608,6 @@ authorization
 authorized
 authors
 arab
-assumes
 architectural
 automated
 automatic
