@@ -348,7 +348,6 @@ clean
 cleaner
 chubby
 cleaners
-cleaning
 cleanup
 clear
 compute
@@ -733,6 +732,7 @@ continues
 continuing
 continuous
 continuously
+cleaning
 contract
 contracting
 celebrate
