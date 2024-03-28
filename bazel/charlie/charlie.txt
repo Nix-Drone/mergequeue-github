@@ -326,6 +326,7 @@ cleaver
 cleft
 clench
 clergyman
+cross
 clerical
 clerk
 clever
@@ -659,7 +660,6 @@ crock
 crook
 croon
 crop
-cross
 crouch
 crouton
 crowbar
