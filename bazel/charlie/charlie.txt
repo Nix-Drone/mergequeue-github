@@ -161,7 +161,6 @@ celebration
 celebrities
 costume
 celebrity
-celebs
 cell
 cells
 cellular
@@ -692,6 +691,7 @@ constraint
 constraints
 construct
 constructed
+celebs
 construction
 consult
 consultancy
