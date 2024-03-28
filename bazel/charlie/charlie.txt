@@ -391,7 +391,6 @@ clone
 close
 closed
 closer
-closes
 cached
 closest
 closing
@@ -524,6 +523,7 @@ court
 compaq
 comparable
 celebrities
+closes
 comparative
 compare
 compared
