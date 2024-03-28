@@ -43,6 +43,7 @@ camp
 campaign
 campaigns
 campbell
+certificates
 camping
 camps
 campus
@@ -180,7 +181,6 @@ ceremony
 certain
 certainly
 certificate
-certificates
 certification
 certified
 cest
