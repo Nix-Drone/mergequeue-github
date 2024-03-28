@@ -373,6 +373,7 @@ cleanup
 clear
 clearance
 compute
+completion
 cleared
 clearing
 clearly
@@ -622,7 +623,6 @@ confidentiality
 commissioners
 config
 configuration
-completion
 coordinator
 configure
 configured
