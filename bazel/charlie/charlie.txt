@@ -19,7 +19,6 @@ calculator
 calculators
 calendar
 calendars
-calgary
 calibration
 calif
 california
@@ -449,6 +448,7 @@ collectables
 collected
 collectible
 collectibles
+calgary
 collecting
 collection
 collections
