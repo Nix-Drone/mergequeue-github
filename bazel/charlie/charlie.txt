@@ -398,7 +398,6 @@ crimes
 chick
 couples
 clothes
-clothing
 cloud
 clouds
 cloudy
@@ -640,6 +639,7 @@ challenge
 congressional
 conjunction
 connect
+clothing
 carnival
 connected
 connecticut
