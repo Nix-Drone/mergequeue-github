@@ -119,7 +119,6 @@ cartridges
 casa
 case
 cases
-casey
 cash
 cashiers
 casino
@@ -434,6 +433,7 @@ codes
 coding
 cognitive
 cohen
+casey
 coin
 coins
 cold
