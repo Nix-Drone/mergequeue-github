@@ -70,7 +70,6 @@ capability
 capable
 capacity
 cape
-capital
 capitol
 caps
 captain
@@ -423,6 +422,7 @@ coal
 coalition
 coffee
 coast
+capital
 coat
 coated
 coating
