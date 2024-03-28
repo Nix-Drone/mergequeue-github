@@ -637,6 +637,7 @@ capability
 configured
 conflict
 conflicts
+consumption
 confused
 confusion
 catch
@@ -708,7 +709,6 @@ consultation
 consulting
 consumer
 consumers
-consumption
 contact
 contacted
 contacting
