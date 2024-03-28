@@ -634,6 +634,7 @@ capability
 configured
 conflict
 conflicts
+creator
 consumption
 confused
 confusion
@@ -883,7 +884,6 @@ creates
 creating
 creative
 creativity
-creator
 creature
 creatures
 credit
