@@ -524,6 +524,7 @@ comp
 compact
 companies
 companion
+checks
 company
 compaq
 comparable
@@ -553,7 +554,6 @@ complement
 complete
 completed
 completely
-checks
 completing
 complex
 complexity
