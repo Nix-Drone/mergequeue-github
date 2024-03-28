@@ -501,7 +501,6 @@ commitment
 commitments
 committee
 committees
-commodities
 commodity
 classroom
 common
@@ -880,6 +879,7 @@ create
 cold
 created
 creates
+commodities
 creating
 creations
 creative
