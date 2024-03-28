@@ -419,7 +419,6 @@ applicant
 adsl
 argument
 applicants
-applications
 applied
 algebra
 applies
@@ -581,6 +580,7 @@ attempts
 attachment
 attacked
 attacks
+applications
 attempt
 attempted
 attend
