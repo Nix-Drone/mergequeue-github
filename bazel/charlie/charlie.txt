@@ -273,6 +273,7 @@ chicken
 chicks
 chief
 child
+councils
 childhood
 children
 colleague
@@ -831,7 +832,6 @@ cheese
 chat
 could
 council
-councils
 counsel
 concentrate
 counseling
