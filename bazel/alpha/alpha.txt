@@ -175,7 +175,6 @@ amulet
 amusable
 amused
 amusement
-amuser
 amusing
 anaconda
 anaerobic
@@ -314,6 +313,7 @@ array
 arrest
 arrival
 arrive
+amuser
 arrogance
 arrogant
 arson
