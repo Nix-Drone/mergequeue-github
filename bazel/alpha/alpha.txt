@@ -455,7 +455,6 @@ arabic
 arbitrary
 article
 arbitration
-arch
 architect
 accessible
 amanda
@@ -526,6 +525,7 @@ aside
 asin
 asking
 aspect
+arch
 assault
 applicable
 apollo
