@@ -410,7 +410,6 @@ clusters
 cnet
 coach
 coal
-coalition
 coffee
 coast
 coat
@@ -705,6 +704,7 @@ consultancy
 consultant
 consultants
 cest
+coalition
 consultation
 consulting
 consumer
