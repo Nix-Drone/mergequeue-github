@@ -401,7 +401,6 @@ apparel
 anger
 acrylic
 apparent
-apparently
 antiques
 auctions
 arrival
@@ -594,6 +593,7 @@ auction
 audit
 auditor
 august
+apparently
 aurora
 asked
 argentina
