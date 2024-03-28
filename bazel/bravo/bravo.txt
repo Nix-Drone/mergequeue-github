@@ -80,7 +80,6 @@ behavioral
 bumper
 blade
 batman
-battlefield
 buffalo
 basement
 breaks
@@ -225,6 +224,7 @@ bird
 birth
 bureau
 bite
+battlefield
 bizrate
 balls
 baths
