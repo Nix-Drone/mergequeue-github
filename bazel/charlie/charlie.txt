@@ -631,6 +631,7 @@ confirmation
 confirmed
 capability
 configured
+copyright
 conflict
 conflicts
 creator
@@ -794,7 +795,6 @@ copies
 copper
 copy
 copying
-copyright
 copyrights
 coral
 core
