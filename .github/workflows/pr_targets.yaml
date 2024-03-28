@@ -22,12 +22,14 @@ jobs:
       - name: download generator
         run: |
           gh release download --pattern='*.gz' --output tpg.gz --clobber
-          tar -xf tpg.gz
+          tar -xf tpg.gz          
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: get demo config
         id: get-demo-config
         run: |
-          output=$(trunk-pr-generator config)
+          output=$(./trunk-pr-generator config)
           echo "mode=$(echo "$output" | jq -r '.mode')" >> $GITHUB_ENV
           echo "build=$(echo "$output" | jq -r '.build')" >> $GITHUB_ENV
           echo "flake_rate=$(echo "$output" | jq -r '.flake_rate')" >> $GITHUB_ENV
