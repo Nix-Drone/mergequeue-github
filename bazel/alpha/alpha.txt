@@ -382,7 +382,6 @@ assists
 atmospheric
 anytime
 activity
-alignment
 apache
 arrow
 alice
@@ -431,6 +430,7 @@ appreciated
 appreciation
 albums
 appropriate
+alignment
 appropriations
 approval
 approve
