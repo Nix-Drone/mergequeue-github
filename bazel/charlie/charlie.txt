@@ -413,7 +413,6 @@ cluster
 clusters
 cnet
 cnetcom
-coach
 coaches
 coaching
 coal
@@ -596,6 +595,7 @@ concerts
 conclude
 cooling
 concluded
+coach
 conclusion
 conclusions
 concord
