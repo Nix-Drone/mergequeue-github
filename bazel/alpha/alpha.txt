@@ -243,7 +243,6 @@ adverse
 alien
 associates
 align
-alignment
 alive
 allah
 allen
@@ -390,6 +389,7 @@ anymore
 anytime
 anyway
 activity
+alignment
 apache
 arrow
 apart
