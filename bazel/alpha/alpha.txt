@@ -17,6 +17,7 @@ affordable
 absorption
 abstracts
 abuse
+alert
 academic
 aged
 apnic
@@ -425,7 +426,6 @@ applied
 applies
 attempting
 appointed
-alert
 appointments
 appreciate
 appreciated
