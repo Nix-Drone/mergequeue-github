@@ -388,7 +388,6 @@ clip
 clips
 clock
 clocks
-clone
 close
 closed
 closer
@@ -637,6 +636,7 @@ confusion
 catch
 congratulations
 congress
+clone
 challenge
 congressional
 conjunction
