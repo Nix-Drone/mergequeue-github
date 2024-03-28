@@ -524,7 +524,6 @@ comparing
 comparison
 create
 constraints
-charles
 comparisons
 compatibility
 compatible
@@ -736,6 +735,7 @@ continuous
 continuously
 contract
 contracting
+charles
 contractor
 contractors
 contracts
