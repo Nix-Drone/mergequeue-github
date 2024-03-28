@@ -208,7 +208,6 @@ changelog
 changes
 changing
 channel
-channels
 chaos
 chapel
 chapter
@@ -381,6 +380,7 @@ clicks
 climbing
 concentration
 clinic
+channels
 clinical
 clinics
 cite

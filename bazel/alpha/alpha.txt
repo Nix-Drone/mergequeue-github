@@ -42,6 +42,7 @@ appliances
 accordance
 ability
 account
+ascii
 angry
 accountability
 accuracy
@@ -210,7 +211,6 @@ aircraft
 achievement
 airline
 anywhere
-ascii
 anna
 alabama
 advantages
