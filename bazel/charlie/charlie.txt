@@ -622,7 +622,6 @@ commissioners
 config
 coordinator
 configure
-configured
 cute
 configuring
 comprehensive
@@ -631,6 +630,7 @@ confirm
 confirmation
 confirmed
 capability
+configured
 conflict
 conflicts
 confused
