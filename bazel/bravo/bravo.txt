@@ -198,7 +198,6 @@ bids
 biography
 bills
 billy
-binding
 branch
 boot
 boston
@@ -227,6 +226,7 @@ blacks
 blocked
 brothers
 blade
+binding
 blank
 blanket
 battle
