@@ -441,6 +441,7 @@ collar
 colleagues
 collect
 collectables
+constitute
 collected
 collectible
 collectibles
@@ -685,7 +686,6 @@ consortium
 conspiracy
 constant
 constantly
-constitute
 constitutes
 contents
 constitution
