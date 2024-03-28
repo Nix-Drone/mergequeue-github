@@ -104,27 +104,6 @@ fn test_with_flakes(config: &Conf) -> bool {
     random_float > config.flake_rate
 }
 
-fn test_with_flakes(config: &Conf) -> bool {
-    let is_merge_str = env::var("IS_MERGE").unwrap_or_else(|_| String::from("false"));
-    let is_merge = is_merge_str.to_lowercase() == "true";
-
-    if !is_merge {
-        println!("no flake or sleep when running on pr branch");
-        return true;
-    }
-
-    println!("sleeping for {} seconds", config.sleep_duration().as_secs());
-    thread::sleep(config.sleep_duration());
-
-    let mut rng = rand::thread_rng();
-    let random_float = rng.gen_range(0.0..1.0);
-
-    println!("Random float: {}", random_float);
-    println!("Flake rate: {}", config.flake_rate);
-
-    random_float > config.flake_rate
-}
-
 fn create_pull_request(words: &[String]) -> String {
     let branch_name = format!("change/{}", words.join("-"));
     git(&["checkout", "-t", "-b", &branch_name]);
