@@ -342,7 +342,6 @@ clan
 clara
 carlos
 clark
-clarke
 class
 classes
 classic
@@ -393,6 +392,7 @@ closed
 closer
 closes
 cached
+clarke
 closest
 closing
 closure
