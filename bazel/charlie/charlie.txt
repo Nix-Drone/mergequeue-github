@@ -692,7 +692,6 @@ constraint
 construct
 constructed
 celebs
-construction
 call
 consult
 consultancy
@@ -752,6 +751,7 @@ charge
 controlling
 controls
 controversial
+construction
 convenience
 catering
 combines
