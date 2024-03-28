@@ -64,7 +64,6 @@ chinese
 capabilities
 capable
 capacity
-cape
 capital
 capitol
 caps
@@ -772,6 +771,7 @@ converted
 converter
 convertible
 conviction
+cape
 convinced
 cookbook
 commonly
