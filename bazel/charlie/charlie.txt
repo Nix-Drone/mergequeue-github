@@ -254,7 +254,6 @@ checked
 checking
 checklist
 checkout
-checks
 cheers
 cheese
 chef
@@ -556,6 +555,7 @@ complement
 complete
 completed
 completely
+checks
 completing
 completion
 complex
