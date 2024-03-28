@@ -112,7 +112,7 @@ fn create_pull_request(words: &[String]) -> String {
     git(&["commit", "-am", &commit_msg]);
     git(&["push", "--set-upstream", "origin", "HEAD"]);
     
-    let pr_url = git(&[
+    let pr_url = gh(&[
         "pr",
         "create",
         "--title",
