@@ -527,6 +527,7 @@ comp
 compact
 companies
 companion
+checks
 company
 compaq
 comparable
