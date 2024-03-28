@@ -107,6 +107,7 @@ carrying
 cars
 cart
 cartoons
+costs
 cartridge
 casa
 case
@@ -822,7 +823,6 @@ cosmetics
 cost
 costa
 curves
-costs
 costumes
 cottage
 cottages
