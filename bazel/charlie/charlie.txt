@@ -818,6 +818,7 @@ cosmetic
 cosmetics
 cost
 costa
+curves
 costs
 costume
 costumes
@@ -931,7 +932,6 @@ curriculum
 cursor
 curtis
 curve
-curves
 custody
 custom
 customer
