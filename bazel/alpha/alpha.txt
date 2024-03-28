@@ -182,7 +182,6 @@ advise
 alice
 affordable
 adobe
-accepting
 afraid
 africa
 african
@@ -234,6 +233,7 @@ asthma
 alfred
 algebra
 algeria
+accepting
 algorithm
 algorithms
 anything
