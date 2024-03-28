@@ -333,7 +333,6 @@ cisco
 coastal
 citation
 citations
-cite
 cited
 cities
 citizen
@@ -391,6 +390,7 @@ concentration
 clinic
 clinical
 clinics
+cite
 clinton
 clip
 clips
