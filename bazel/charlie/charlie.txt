@@ -199,7 +199,6 @@ changing
 chaos
 chapel
 chapter
-chapters
 char
 character
 characteristic
@@ -705,6 +704,7 @@ coalition
 consultation
 consulting
 consumer
+chapters
 consumers
 contact
 contacted
