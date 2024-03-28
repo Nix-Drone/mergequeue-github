@@ -514,7 +514,6 @@ armor
 assets
 administration
 artificial
-artists
 artwork
 affects
 audience
@@ -548,6 +547,7 @@ average
 acquire
 atmosphere
 assumed
+artists
 assuming
 assumption
 antibodies
