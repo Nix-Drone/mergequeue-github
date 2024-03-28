@@ -750,7 +750,6 @@ contributions
 contributor
 contributors
 control
-controlled
 controller
 charge
 controlling
@@ -898,6 +897,7 @@ crime
 criminal
 crisis
 criterion
+controlled
 calls
 critical
 criticism
