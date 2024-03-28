@@ -160,6 +160,7 @@ cell
 cells
 cellular
 celtic
+commit
 cement
 cemetery
 census
@@ -504,7 +505,6 @@ commercial
 commission
 commissioner
 commissions
-commit
 commitment
 commitments
 committed

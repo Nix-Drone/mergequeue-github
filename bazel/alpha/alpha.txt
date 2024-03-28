@@ -21,7 +21,6 @@ aged
 apnic
 academics
 accept
-artist
 acceptable
 accepted
 attract
@@ -324,6 +323,7 @@ awareness
 author
 across
 able
+artist
 analysts
 appraisal
 analyze
