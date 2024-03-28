@@ -377,7 +377,6 @@ clearly
 clerk
 cleveland
 click
-client
 clients
 cliff
 concentrations
@@ -502,6 +501,7 @@ commentary
 commented
 comments
 commerce
+client
 commercial
 commission
 commissioner
