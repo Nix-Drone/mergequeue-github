@@ -67,7 +67,6 @@ capacity
 cape
 capital
 capitol
-caps
 captain
 closely
 capture
@@ -100,6 +99,7 @@ carrier
 carries
 carroll
 certain
+caps
 carry
 carrying
 cars
