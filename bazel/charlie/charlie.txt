@@ -376,7 +376,6 @@ clearly
 clerk
 cleveland
 click
-clicking
 clicks
 client
 clients
@@ -700,6 +699,7 @@ consumption
 contact
 contacted
 contacting
+clicking
 contacts
 contain
 contained
