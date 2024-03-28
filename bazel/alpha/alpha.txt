@@ -545,6 +545,7 @@ association
 associations
 attribute
 assume
+authorized
 audi
 attractive
 arlington
@@ -606,7 +607,6 @@ apartments
 authority
 authorization
 axis
-authorized
 actual
 afternoon
 authors
