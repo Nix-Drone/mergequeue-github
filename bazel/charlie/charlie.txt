@@ -466,7 +466,6 @@ columns
 combat
 combination
 combinations
-combine
 combined
 combining
 critics
@@ -558,6 +557,7 @@ completing
 complex
 complexity
 compliance
+combine
 crown
 compliant
 complicated
