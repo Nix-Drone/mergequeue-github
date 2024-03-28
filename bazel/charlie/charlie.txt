@@ -369,7 +369,6 @@ cleaners
 cleaning
 cleanup
 clear
-clearance
 compute
 completion
 cleared
@@ -442,6 +441,7 @@ cole
 calm
 coleman
 colin
+clearance
 collaboration
 collaborative
 collapse
