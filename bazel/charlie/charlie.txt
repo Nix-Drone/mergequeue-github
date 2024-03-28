@@ -550,6 +550,7 @@ competitions
 competitive
 competitors
 compilation
+crystal
 compile
 compiled
 compiler
@@ -910,7 +911,6 @@ crude
 cruise
 cruises
 cruz
-crystal
 cuba
 cube
 cuisine
