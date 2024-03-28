@@ -23,6 +23,7 @@ ball
 broadway
 band
 balloon
+burst
 baltimore
 british
 blow
@@ -86,7 +87,6 @@ boards
 bears
 breast
 beast
-burst
 barn
 bulletin
 blind
