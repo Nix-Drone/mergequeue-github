@@ -787,7 +787,6 @@ copper
 copy
 copying
 copyright
-copyrighted
 copyrights
 coral
 cord
@@ -936,6 +935,7 @@ custom
 customer
 customers
 customise
+copyrighted
 customize
 cover
 customized
