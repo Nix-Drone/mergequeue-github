@@ -95,7 +95,6 @@ decoy
 decrease
 decree
 dedicate
-dedicator
 deduce
 deduct
 deed
@@ -498,6 +497,7 @@ drowsily
 drudge
 drum
 dry
+dedicator
 dubbed
 dubiously
 duchess
