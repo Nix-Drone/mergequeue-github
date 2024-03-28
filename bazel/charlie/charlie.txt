@@ -405,6 +405,7 @@ closest
 closing
 closure
 cloth
+couples
 clothes
 clothing
 cloud
@@ -849,7 +850,6 @@ counts
 county
 couple
 coupled
-couples
 coupon
 coupons
 courage
