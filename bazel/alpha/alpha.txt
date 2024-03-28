@@ -110,6 +110,7 @@ addresses
 adds
 abilities
 absolute
+announce
 approximate
 amazoncom
 adipex
@@ -355,7 +356,6 @@ audio
 addressing
 annie
 attention
-announce
 announced
 america
 announces
