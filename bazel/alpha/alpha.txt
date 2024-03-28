@@ -326,6 +326,7 @@ arguments
 analyses
 answers
 awareness
+author
 able
 analysts
 appraisal
@@ -601,7 +602,6 @@ airport
 australian
 authentic
 authentication
-author
 authorities
 authority
 authorization
