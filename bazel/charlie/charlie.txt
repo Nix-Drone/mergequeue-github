@@ -4,7 +4,6 @@ cable
 cables
 cache
 coding
-cached
 cadillac
 cafe
 cage
@@ -397,6 +396,7 @@ close
 closed
 closer
 closes
+cached
 closest
 closing
 closure
