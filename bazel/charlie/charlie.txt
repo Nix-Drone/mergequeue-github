@@ -132,6 +132,7 @@ casting
 casual
 catalog
 catalogs
+current
 catalogue
 catalyst
 catch
@@ -927,7 +928,6 @@ cure
 curious
 currencies
 currency
-current
 curriculum
 cursor
 curtis
