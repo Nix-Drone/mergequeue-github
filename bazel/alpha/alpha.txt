@@ -240,6 +240,7 @@ alive
 allah
 allen
 alliance
+arch
 allied
 allocation
 allow
@@ -522,7 +523,6 @@ asin
 asking
 aspect
 allows
-arch
 assault
 announcements
 applicable
