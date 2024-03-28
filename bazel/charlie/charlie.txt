@@ -513,7 +513,6 @@ commodities
 commodity
 classroom
 common
-commonly
 commons
 commonwealth
 communication
@@ -775,6 +774,7 @@ convinced
 cook
 cookbook
 cooked
+commonly
 cookie
 cookies
 cooking
