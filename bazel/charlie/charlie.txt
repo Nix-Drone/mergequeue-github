@@ -571,7 +571,6 @@ composite
 composition
 compound
 compounds
-comprehensive
 compressed
 compression
 compromise
@@ -624,6 +623,7 @@ coordinator
 configure
 configured
 configuring
+comprehensive
 cricket
 confirm
 confirmation
