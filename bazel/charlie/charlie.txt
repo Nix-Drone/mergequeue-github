@@ -73,7 +73,6 @@ capacity
 cape
 capital
 capitol
-caps
 captain
 capture
 captured
@@ -570,6 +569,7 @@ complimentary
 comply
 composed
 composer
+caps
 composite
 composition
 compound
