@@ -86,6 +86,7 @@ boards
 bears
 breast
 beast
+burst
 barn
 bulletin
 broker
@@ -412,7 +413,6 @@ bound
 builder
 balance
 blogging
-burst
 bless
 brutal
 ballet
