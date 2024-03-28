@@ -5,8 +5,12 @@ use gen::config::Conf;
 use gen::edit::change_file;
 use regex::Regex;
 use serde_json::to_string_pretty;
+use serde_json::Value;
+use std::collections::HashSet;
 use std::path::PathBuf;
 use std::process::Command;
+use std::thread;
+use std::time::Duration;
 use std::time::Instant;
 use walkdir::WalkDir;
 
@@ -39,6 +43,79 @@ fn queue_to_merge(pr: &String) {
         eprintln!("stdout: {}", String::from_utf8_lossy(&output.stdout));
         eprintln!("stderr: {}", String::from_utf8_lossy(&output.stderr));
         panic!("Call to comment on PR {} on GitHub failed", pr);
+    }
+}
+
+fn close_pr(pr: &str) {
+    let output = Command::new("gh")
+        .arg("pr")
+        .arg("close")
+        .arg(pr) // Fix: Pass the expression directly as an argument
+        .output()
+        .expect("Failed to execute command");
+
+    if !output.status.success() {
+        eprintln!("stdout: {}", String::from_utf8_lossy(&output.stdout));
+        eprintln!("stderr: {}", String::from_utf8_lossy(&output.stderr));
+        eprintln!("could not close pr {}", pr);
+    }
+}
+
+fn housekeeping() {
+    for _ in 0..3 {
+        let output = Command::new("gh")
+            .arg("pr")
+            .arg("list")
+            .arg("--json") // Fix: Pass the expression directly as an argument
+            .arg("number,mergeable,comments")
+            .output()
+            .expect("Failed to execute command");
+
+        if !output.status.success() {
+            eprintln!("stdout: {}", String::from_utf8_lossy(&output.stdout));
+            eprintln!("stderr: {}", String::from_utf8_lossy(&output.stderr));
+            panic!("could not get list of prs");
+        }
+
+        let json_str = String::from_utf8_lossy(&output.stdout);
+        let v: Value = serde_json::from_str(&json_str).expect("Failed to parse JSON");
+
+        let mut has_unknown = false;
+        let mut requeued: HashSet<String> = HashSet::new();
+        if let Some(array) = v.as_array() {
+            for item in array {
+                let mergeable = item["mergeable"].as_str().unwrap_or("");
+                let pr = item["number"].as_i64().unwrap_or(0).to_string();
+                let comments = item["comments"].to_string();
+                match mergeable {
+                    "UNKNOWN" => {
+                        has_unknown = true;
+                    }
+                    "CONFLICTING" => {
+                        close_pr(&pr);
+                    }
+                    "MERGEABLE" => {
+                        if !requeued.contains(&pr)
+                            && comments.contains("removed from the merge queue")
+                        {
+                            queue_to_merge(&pr);
+                            requeued.insert(pr);
+                        }
+                    }
+                    _ => {
+                        // handle other states
+                    }
+                }
+            }
+
+            if has_unknown {
+                thread::sleep(Duration::from_secs(10));
+            } else {
+                return;
+            }
+        } else {
+            return;
+        }
     }
 }
 
@@ -155,6 +232,12 @@ fn run() -> anyhow::Result<()> {
         Conf::print_default();
         return Ok(());
     }
+
+    if let Some(Subcommands::Housekeeping {}) = &cli.subcommand {
+        housekeeping();
+        return Ok(());
+    }
+
     let config = Conf::builder()
         .env()
         .file("demo.toml")
