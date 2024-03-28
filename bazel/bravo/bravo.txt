@@ -129,6 +129,7 @@ behavior
 brick
 behalf
 barrier
+batch
 bronze
 beings
 billion
@@ -325,7 +326,6 @@ bringing
 bigger
 brake
 breathing
-batch
 bridal
 brandon
 bread
