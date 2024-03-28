@@ -499,6 +499,7 @@ coming
 comm
 command
 commander
+coordination
 comment
 commentary
 commented
@@ -784,7 +785,6 @@ cooperative
 coordinate
 coordinated
 coordinates
-coordination
 collective
 const
 cope
