@@ -517,7 +517,6 @@ cadillac
 compact
 consider
 companies
-checks
 company
 compaq
 comparable
@@ -567,6 +566,7 @@ composed
 composer
 composite
 culture
+checks
 composition
 compound
 compounds
