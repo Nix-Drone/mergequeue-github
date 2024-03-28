@@ -112,6 +112,7 @@ cartoons
 cartridge
 casa
 case
+controls
 cases
 cash
 cashiers
@@ -752,7 +753,6 @@ controlled
 controller
 charge
 controlling
-controls
 controversial
 construction
 convenience
