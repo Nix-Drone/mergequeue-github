@@ -156,7 +156,6 @@ bench
 benchmark
 benefit
 base
-bubble
 bennett
 berkeley
 berlin
@@ -166,6 +165,7 @@ bold
 blogs
 boundaries
 beside
+bubble
 bedford
 bone
 bristol
