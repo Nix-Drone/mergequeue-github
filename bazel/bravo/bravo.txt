@@ -111,7 +111,6 @@ bicycle
 bride
 bedding
 beam
-bedrooms
 beds
 beef
 bother
@@ -159,6 +158,7 @@ belt
 boating
 bench
 benchmark
+bedrooms
 benefit
 base
 bubble
