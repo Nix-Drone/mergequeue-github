@@ -43,7 +43,6 @@ camps
 campus
 canadian
 canal
-canberra
 cancellation
 cancelled
 cancer
@@ -389,6 +388,7 @@ closer
 closes
 cached
 clarke
+canberra
 closest
 closing
 closure
