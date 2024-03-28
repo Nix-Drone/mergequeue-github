@@ -3,10 +3,12 @@ use confique::Config;
 use gen::cli::{Cli, Subcommands};
 use gen::config::Conf;
 use gen::edit::change_file;
+use rand::Rng;
 use regex::Regex;
 use serde_json::to_string_pretty;
 use serde_json::Value;
 use std::collections::HashSet;
+use std::env;
 use std::path::PathBuf;
 use std::process::Command;
 use std::thread;
@@ -147,6 +149,27 @@ fn configure_git() {
     }
 }
 
+fn test_with_flakes(config: &Conf) -> bool {
+    let is_merge_str = env::var("IS_MERGE").unwrap_or_else(|_| String::from("false"));
+    let is_merge = is_merge_str.to_lowercase() == "true";
+
+    if !is_merge {
+        println!("no flake or sleep when running on pr branch");
+        return true;
+    }
+
+    println!("sleeping for {} seconds", config.sleep_duration().as_secs());
+    thread::sleep(config.sleep_duration());
+
+    let mut rng = rand::thread_rng();
+    let random_float = rng.gen_range(0.0..1.0);
+
+    println!("Random float: {}", random_float);
+    println!("Flake rate: {}", config.flake_rate);
+
+    return random_float > config.flake_rate;
+}
+
 fn create_pull_request(words: &[String]) -> String {
     let branch_name = format!("change/{}", words.join("-"));
 
@@ -247,6 +270,13 @@ fn run() -> anyhow::Result<()> {
             eprintln!("Generator cannot run: {}", err);
             std::process::exit(1);
         });
+
+    if let Some(Subcommands::TestSim {}) = &cli.subcommand {
+        if !test_with_flakes(&config) {
+            std::process::exit(1);
+        }
+        return Ok(());
+    }
 
     if let Some(Subcommands::Config {}) = &cli.subcommand {
         let config_json = to_string_pretty(&config).expect("Failed to serialize config to JSON");

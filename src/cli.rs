@@ -19,4 +19,6 @@ pub enum Subcommands {
     Config,
     /// Clean out conflicting PRs and requeue failed PRs
     Housekeeping,
+    /// Simulate a test with flake rate in consideration
+    TestSim,
 }
