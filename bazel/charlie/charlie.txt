@@ -621,6 +621,7 @@ confidential
 confidentiality
 config
 configuration
+coordinator
 configure
 configured
 configuring
@@ -777,7 +778,6 @@ coordinate
 coordinated
 coordinates
 coordination
-coordinator
 cope
 copied
 copies
