@@ -233,7 +233,6 @@ battle
 blast
 basis
 buses
-bless
 boom
 body
 blowing
@@ -413,6 +412,7 @@ builder
 balance
 blogging
 burst
+bless
 brutal
 ballet
 bryant
