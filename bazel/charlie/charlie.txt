@@ -4,7 +4,6 @@ cable
 cables
 cache
 cached
-communicate
 cadillac
 cafe
 cage
@@ -890,6 +889,7 @@ creatures
 credit
 category
 credits
+communicate
 creek
 crest
 crew
