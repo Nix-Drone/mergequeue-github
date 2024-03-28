@@ -399,6 +399,7 @@ collected
 collide
 collie
 collision
+curtain
 colonial
 colonist
 colonize
@@ -724,7 +725,6 @@ curry
 curse
 cursive
 cursor
-curtain
 curtly
 curtsy
 curvature
