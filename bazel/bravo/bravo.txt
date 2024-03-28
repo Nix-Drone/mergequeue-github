@@ -107,7 +107,6 @@ bicycle
 bride
 bedding
 beam
-bedrooms
 beds
 beef
 bother
@@ -458,6 +457,7 @@ bunny
 became
 barry
 burlington
+bedrooms
 burn
 burning
 banned
