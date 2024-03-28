@@ -69,7 +69,6 @@ acrobat
 arena
 athens
 acting
-accreditation
 after
 accounts
 agree
@@ -513,6 +512,7 @@ armor
 assets
 administration
 artificial
+accreditation
 artwork
 affects
 audience
