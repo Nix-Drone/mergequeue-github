@@ -357,7 +357,6 @@ annie
 attention
 announce
 announced
-announcements
 america
 announces
 annoying
@@ -527,6 +526,7 @@ asking
 aspect
 arch
 assault
+announcements
 applicable
 apollo
 assembled
