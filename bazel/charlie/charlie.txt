@@ -535,7 +535,6 @@ compatibility
 compatible
 compensation
 compete
-competent
 controllers
 competing
 competition
@@ -813,6 +812,7 @@ correct
 corrected
 correction
 corrections
+competent
 correctly
 correlation
 correspondence
