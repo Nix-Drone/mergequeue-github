@@ -321,6 +321,7 @@ claw
 clay
 clean
 clear
+colony
 cleat
 cleaver
 cleft
@@ -401,7 +402,6 @@ collision
 colonial
 colonist
 colonize
-colony
 colossal
 colt
 coma
