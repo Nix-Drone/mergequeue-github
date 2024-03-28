@@ -260,7 +260,6 @@ chicago
 chem
 chemical
 chemicals
-chemistry
 cheque
 cherry
 cycling
@@ -426,6 +425,7 @@ coding
 cognitive
 cohen
 casey
+chemistry
 coin
 coins
 cole
