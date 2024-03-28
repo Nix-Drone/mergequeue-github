@@ -36,10 +36,9 @@ jobs:
           tools: gh jq
 
       - name: download generator
-        if: always()
         run: |
           gh release download --pattern='*.gz' --output tpg.gz --clobber
-          tar -xf tpg.gz          
+          tar -xf tpg.gz
         env:
           GH_TOKEN: ${{ secrets[steps.choose-secret.outputs.secret_name] }}
 
@@ -49,23 +48,8 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets[steps.choose-secret.outputs.secret_name] }}
 
-      # - name: Create Pull Request
-      #   id: cpr
-      #   uses: peter-evans/create-pull-request@v6
-      #   with:
-      #     token: ${{ secrets[steps.choose-secret.outputs.secret_name] }}
-      #     commit-message: Moving words ${{ steps.edits.outputs.words }}
-      #     title: ${{ steps.edits.outputs.words }}
-      #     body: Moving ${{ steps.edits.outputs.words }}
-      #     branch: content/${{ steps.edits.outputs.words-in-one }}
-
-      # - name: sleep for 10
-      #   run: sleep 10 # sleep for 10 seconds so the GH comment gets properly posted first from the queue
-
-      # - name: comment on pr
-      #   if: ${{ steps.cpr.outputs.pull-request-number }}
-      #   run: |
-      #     gh pr review ${{ steps.cpr.outputs.pull-request-number }} --comment -b "/trunk merge"
-      #   env:
-      #     GH_REPO: ${{ github.repository }}
-      #     GH_TOKEN: ${{ secrets[steps.choose-secret.outputs.secret_name] }}
+      - name: run pr-generator
+        id: clean
+        run: ./trunk-pr-generator housekeeping
+        env:
+          GH_TOKEN: ${{ secrets[steps.choose-secret.outputs.secret_name] }}

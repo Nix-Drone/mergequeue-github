@@ -8,7 +8,7 @@ sleep_for = "5m"
 
 # the max number of deps in this repo. setting to 3 for example will cause
 # files in alpha, bravo, charlie deps to be changed
-max_deps = 2
+max_deps = 3
 
 # the max number of deps per PR to edit
 max_impacted_deps = 2

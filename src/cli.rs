@@ -17,4 +17,6 @@ pub enum Subcommands {
     Genconfig,
     /// Print configuration content to json
     Config,
+    /// Clean out conflicting PRs and requeue failed PRs
+    Housekeeping,
 }
