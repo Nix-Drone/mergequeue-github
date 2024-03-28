@@ -33,7 +33,6 @@ camcorder
 chance
 camcorders
 camel
-camera
 cameras
 came
 cameron
@@ -326,6 +325,7 @@ circus
 cisco
 coastal
 citation
+camera
 citations
 cited
 cities
