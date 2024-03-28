@@ -165,7 +165,6 @@ cemetery
 census
 cent
 center
-centered
 centers
 central
 centre
@@ -873,6 +872,7 @@ craig
 crap
 craps
 crash
+centered
 crawford
 crazy
 cream
