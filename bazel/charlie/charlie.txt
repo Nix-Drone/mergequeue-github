@@ -364,6 +364,7 @@ cleaning
 cleanup
 clear
 compute
+contacts
 completion
 cleared
 clearing
@@ -709,7 +710,6 @@ contact
 contacted
 contacting
 clicking
-contacts
 contain
 contained
 container
