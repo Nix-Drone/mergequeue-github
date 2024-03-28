@@ -282,7 +282,6 @@ cord
 criteria
 choices
 choir
-cholesterol
 choose
 choosing
 chorus
@@ -677,6 +676,7 @@ consistency
 consistent
 cohen
 clarity
+cholesterol
 constitutional
 consistently
 consisting
