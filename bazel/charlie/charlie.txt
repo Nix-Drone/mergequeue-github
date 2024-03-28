@@ -540,6 +540,7 @@ compete
 competent
 competing
 competition
+configuration
 competitions
 competitive
 competitors
@@ -618,7 +619,6 @@ confidential
 confidentiality
 commissioners
 config
-configuration
 coordinator
 configure
 configured

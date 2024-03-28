@@ -465,6 +465,7 @@ assumes
 arctic
 area
 areas
+arrives
 active
 argue
 anyone
@@ -635,7 +636,6 @@ apps
 accepts
 awesome
 automatic
-arrives
 awful
 axis
 angels
