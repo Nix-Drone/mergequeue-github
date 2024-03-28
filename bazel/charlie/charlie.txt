@@ -625,6 +625,7 @@ coordinator
 configure
 configured
 configuring
+cricket
 confirm
 confirmation
 confirmed
@@ -892,7 +893,6 @@ credits
 creek
 crest
 crew
-cricket
 crime
 crimes
 criminal
