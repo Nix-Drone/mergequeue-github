@@ -202,6 +202,7 @@ aggressive
 aging
 adaptor
 agreed
+assistant
 alerts
 agreement
 agrees
@@ -538,7 +539,6 @@ aruba
 assignment
 answering
 armenia
-assistant
 assisted
 associated
 antarctica
