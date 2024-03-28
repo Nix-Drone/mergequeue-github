@@ -534,7 +534,6 @@ compatible
 compensation
 compete
 controllers
-competing
 competition
 configuration
 competitions
@@ -663,6 +662,7 @@ consequently
 conservation
 conservative
 creation
+competing
 consideration
 code
 considerations
