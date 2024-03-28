@@ -845,7 +845,6 @@ counters
 counties
 counting
 countries
-country
 charming
 counts
 county
@@ -911,6 +910,7 @@ crowd
 crude
 cruise
 cruises
+country
 cruz
 cuba
 cube
