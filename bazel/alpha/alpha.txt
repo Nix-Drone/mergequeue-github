@@ -75,6 +75,7 @@ accounts
 agree
 anthony
 attendance
+anyway
 actions
 asks
 antigua
@@ -382,7 +383,6 @@ anybody
 assignments
 atmospheric
 anytime
-anyway
 activity
 alignment
 apache
