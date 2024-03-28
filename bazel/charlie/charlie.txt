@@ -236,7 +236,6 @@ charms
 chart
 civil
 charter
-charts
 chase
 chassis
 cheap
@@ -479,6 +478,7 @@ combining
 cook
 combo
 come
+charts
 comedy
 comes
 comfort
