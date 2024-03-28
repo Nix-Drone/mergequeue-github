@@ -3,6 +3,8 @@ use confique::Config;
 use gen::cli::{Cli, Subcommands};
 use gen::config::Conf;
 use gen::edit::change_file;
+use gen::github::GitHub;
+use gen::process::{gh, git};
 use rand::Rng;
 use regex::Regex;
 use serde_json::to_string_pretty;
@@ -10,7 +12,6 @@ use serde_json::Value;
 use std::collections::HashSet;
 use std::env;
 use std::path::PathBuf;
-use std::process::Command;
 use std::thread;
 use std::time::Duration;
 use std::time::Instant;
@@ -31,55 +32,9 @@ fn get_txt_files() -> std::io::Result<Vec<PathBuf>> {
     Ok(paths)
 }
 
-fn queue_to_merge(pr: &String) {
-    let output = Command::new("gh")
-        .arg("pr")
-        .arg("comment")
-        .arg(pr) // Fix: Pass the expression directly as an argument
-        .arg("--body")
-        .arg("/trunk merge")
-        .output()
-        .expect("Failed to execute command");
-
-    if !output.status.success() {
-        eprintln!("stdout: {}", String::from_utf8_lossy(&output.stdout));
-        eprintln!("stderr: {}", String::from_utf8_lossy(&output.stderr));
-        panic!("Call to comment on PR {} on GitHub failed", pr);
-    }
-}
-
-fn close_pr(pr: &str) {
-    let output = Command::new("gh")
-        .arg("pr")
-        .arg("close")
-        .arg(pr) // Fix: Pass the expression directly as an argument
-        .output()
-        .expect("Failed to execute command");
-
-    if !output.status.success() {
-        eprintln!("stdout: {}", String::from_utf8_lossy(&output.stdout));
-        eprintln!("stderr: {}", String::from_utf8_lossy(&output.stderr));
-        eprintln!("could not close pr {}", pr);
-    }
-}
-
 fn housekeeping() {
     for _ in 0..3 {
-        let output = Command::new("gh")
-            .arg("pr")
-            .arg("list")
-            .arg("--json") // Fix: Pass the expression directly as an argument
-            .arg("number,mergeable,comments")
-            .output()
-            .expect("Failed to execute command");
-
-        if !output.status.success() {
-            eprintln!("stdout: {}", String::from_utf8_lossy(&output.stdout));
-            eprintln!("stderr: {}", String::from_utf8_lossy(&output.stderr));
-            panic!("could not get list of prs");
-        }
-
-        let json_str = String::from_utf8_lossy(&output.stdout);
+        let json_str = gh(&["pr", "list", "--json", "number,mergeable,comments"]);
         let v: Value = serde_json::from_str(&json_str).expect("Failed to parse JSON");
 
         let mut has_unknown = false;
@@ -94,13 +49,15 @@ fn housekeeping() {
                         has_unknown = true;
                     }
                     "CONFLICTING" => {
-                        close_pr(&pr);
+                        GitHub::close(&pr);
+                        println!("closed pr: {} (had merge conflicts)", &pr);
                     }
                     "MERGEABLE" => {
                         if !requeued.contains(&pr)
                             && comments.contains("removed from the merge queue")
                         {
-                            queue_to_merge(&pr);
+                            GitHub::comment(&pr, "/trunk merge");
+                            println!("requeued pr: {}", &pr);
                             requeued.insert(pr);
                         }
                     }
@@ -122,31 +79,8 @@ fn housekeeping() {
 }
 
 fn configure_git() {
-    let output = Command::new("git")
-        .arg("config")
-        .arg("user.email")
-        .arg("bot@trunk.io")
-        .output()
-        .expect("Failed to execute command");
-
-    if !output.status.success() {
-        eprintln!("stdout: {}", String::from_utf8_lossy(&output.stdout));
-        eprintln!("stderr: {}", String::from_utf8_lossy(&output.stderr));
-        panic!("Failed to run git config email");
-    }
-
-    let output = Command::new("git")
-        .arg("config")
-        .arg("user.name")
-        .arg("trunk bot")
-        .output()
-        .expect("Failed to execute command");
-
-    if !output.status.success() {
-        eprintln!("stdout: {}", String::from_utf8_lossy(&output.stdout));
-        eprintln!("stderr: {}", String::from_utf8_lossy(&output.stderr));
-        panic!("Failed to run git config name");
-    }
+    git(&["config", "user.email", "bot@trunk.io"]);
+    git(&["config", "user.name", "trunk bot"]);
 }
 
 fn test_with_flakes(config: &Conf) -> bool {
@@ -172,78 +106,29 @@ fn test_with_flakes(config: &Conf) -> bool {
 
 fn create_pull_request(words: &[String]) -> String {
     let branch_name = format!("change/{}", words.join("-"));
+    git(&["checkout", "-t", "-b", &branch_name]);
 
-    let output = Command::new("git")
-        .arg("checkout")
-        .arg("-t")
-        .arg("-b")
-        .arg(&branch_name)
-        .output()
-        .expect("Failed to execute command");
+    let commit_msg = format!("Moving words {}", words.join(", "));
+    git(&["commit", "-am", &commit_msg]);
+    git(&["push", "-set-upstream", "origin", "HEAD"]);
 
-    if !output.status.success() {
-        panic!("Command executed with failing error code");
-    }
+    let pr_url = git(&[
+        "pr",
+        "create",
+        "--title",
+        &words.join(", "),
+        "--body",
+        "This PR was generated by the trunk-pr-generator tool.",
+        "--label",
+        "bot-pr",
+    ]);
 
-    let output = Command::new("git")
-        .arg("commit")
-        .arg("-am")
-        .arg(format!("Moving words {}", words.join(", ")))
-        .output()
-        .expect("Failed to execute command");
-
-    if !output.status.success() {
-        eprintln!("stdout: {}", String::from_utf8_lossy(&output.stdout));
-        eprintln!("stderr: {}", String::from_utf8_lossy(&output.stderr));
-        panic!("Failed to run git commit");
-    }
-
-    let output = Command::new("git")
-        .arg("push")
-        .arg("--set-upstream")
-        .arg("origin")
-        .arg("HEAD")
-        .output()
-        .expect("Failed to execute command");
-
-    if !output.status.success() {
-        eprintln!("stdout: {}", String::from_utf8_lossy(&output.stdout));
-        eprintln!("stderr: {}", String::from_utf8_lossy(&output.stderr));
-        panic!("Failed to push the current branch to the remote repository");
-    }
-
-    let output = Command::new("gh")
-        .arg("pr")
-        .arg("create")
-        .arg("--title")
-        .arg(words.join(", ")) // Fix: Pass the expression directly as an argument
-        .arg("--body")
-        .arg("This PR was generated by the trunk-pr-generator tool.")
-        .arg("--label")
-        .arg("bot-pr")
-        .output()
-        .expect("Failed to execute command");
-
-    if !output.status.success() {
-        eprintln!("stdout: {}", String::from_utf8_lossy(&output.stdout));
-        eprintln!("stderr: {}", String::from_utf8_lossy(&output.stderr));
-        panic!("Call to create PR on GitHub failed");
-    }
-
-    let pr_url = String::from_utf8_lossy(&output.stdout);
     let re = Regex::new(r"(.*)/pull/(\d+)$").unwrap();
     let caps = re.captures(pr_url.trim()).unwrap();
     let pr_number = caps.get(2).map_or("", |m| m.as_str());
 
-    let output = Command::new("git")
-        .arg("checkout")
-        .arg("main")
-        .output()
-        .expect("Failed to execute command");
-
-    if !output.status.success() {
-        panic!("Command executed with failing error code");
-    }
+    git(&["checkout", "main"]);
+    git(&["pull"]);
 
     pr_number.to_string()
 }
@@ -317,7 +202,7 @@ fn run() -> anyhow::Result<()> {
     }
 
     for pr in &prs {
-        queue_to_merge(pr);
+        GitHub::comment(pr, "/trunk merge");
     }
 
     Ok(())
