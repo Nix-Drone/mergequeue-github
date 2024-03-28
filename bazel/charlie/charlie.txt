@@ -493,7 +493,6 @@ coming
 comm
 command
 commander
-commands
 comment
 commentary
 commented
@@ -664,6 +663,7 @@ considerations
 considered
 considering
 considers
+commands
 consist
 consistency
 consistent
