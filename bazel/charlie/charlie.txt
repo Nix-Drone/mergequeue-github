@@ -423,7 +423,6 @@ codes
 cognitive
 casey
 coin
-coins
 cole
 calm
 coleman
@@ -883,6 +882,7 @@ creates
 creating
 creative
 creativity
+coins
 creature
 creatures
 credit
