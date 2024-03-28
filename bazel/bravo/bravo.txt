@@ -357,6 +357,7 @@ bass
 begin
 beat
 bonus
+bizarre
 bridge
 briefly
 beijing
@@ -471,7 +472,6 @@ boulevard
 businesses
 bibliographic
 brakes
-bizarre
 bargains
 buyers
 bangladesh
