@@ -625,6 +625,7 @@ config
 coordinator
 configure
 configured
+cute
 configuring
 comprehensive
 cricket
@@ -945,7 +946,6 @@ customize
 cover
 customized
 customs
-cute
 cuts
 cutting
 cycle
