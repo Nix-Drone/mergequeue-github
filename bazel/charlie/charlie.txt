@@ -467,6 +467,7 @@ color
 colorado
 colored
 colors
+cubic
 colour
 colours
 columbia
@@ -910,7 +911,6 @@ cruz
 crystal
 cuba
 cube
-cubic
 cuisine
 cult
 cultural
