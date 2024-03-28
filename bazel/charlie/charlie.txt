@@ -50,7 +50,6 @@ canadian
 canal
 canberra
 cancellation
-chen
 cancelled
 cancer
 candidate
@@ -624,6 +623,7 @@ confidentiality
 commissioners
 config
 coordinator
+chen
 configure
 cute
 configuring
