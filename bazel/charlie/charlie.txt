@@ -19,6 +19,7 @@ calculations
 currently
 calculator
 calculators
+checks
 calendar
 calendars
 calibration
@@ -554,7 +555,6 @@ complement
 complete
 completed
 completely
-checks
 completing
 completion
 complex
