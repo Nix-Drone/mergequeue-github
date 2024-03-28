@@ -555,7 +555,6 @@ completed
 completely
 checks
 completing
-completion
 complex
 complexity
 compliance
@@ -619,6 +618,7 @@ confidential
 confidentiality
 config
 configuration
+completion
 coordinator
 configure
 configured
