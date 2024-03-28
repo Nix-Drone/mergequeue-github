@@ -464,6 +464,7 @@ colored
 colors
 cubic
 colour
+consensus
 colours
 columbia
 column
@@ -760,7 +761,6 @@ combines
 convenient
 conventional
 conventions
-consensus
 conversation
 conversations
 conversion

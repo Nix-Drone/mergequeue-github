@@ -112,6 +112,7 @@ additionally
 address
 artistic
 addresses
+authorities
 adds
 abilities
 absolute
@@ -601,7 +602,6 @@ asked
 argentina
 authentic
 authentication
-authorities
 authority
 authorization
 authorized
