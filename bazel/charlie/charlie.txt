@@ -453,7 +453,6 @@ calgary
 collecting
 collection
 collections
-collective
 collector
 collectors
 college
@@ -780,6 +779,7 @@ coordinate
 coordinated
 coordinates
 coordination
+collective
 cope
 copied
 copies
