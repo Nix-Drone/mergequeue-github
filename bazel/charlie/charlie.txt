@@ -21,7 +21,6 @@ completed
 calculators
 checks
 calendar
-calendars
 calibration
 calif
 california
@@ -220,6 +219,7 @@ chargers
 charges
 charging
 charitable
+calendars
 charity
 charleston
 charlie
