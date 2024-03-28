@@ -350,6 +350,7 @@ civilization
 claim
 claimed
 claims
+compute
 claire
 clan
 clara
@@ -374,7 +375,6 @@ cleaning
 cleanup
 clear
 clearance
-compute
 cleared
 clearing
 clearly
