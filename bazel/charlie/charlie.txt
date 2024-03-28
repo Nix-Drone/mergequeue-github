@@ -585,6 +585,7 @@ components
 computing
 concept
 concepts
+corporations
 conceptual
 concern
 concerned
@@ -810,7 +811,6 @@ cornwall
 corp
 corporate
 corporation
-corporations
 corps
 corpus
 correct
