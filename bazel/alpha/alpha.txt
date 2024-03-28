@@ -160,6 +160,7 @@ advertisements
 alias
 advertiser
 alpha
+american
 allocated
 advertisers
 advertising
@@ -304,7 +305,6 @@ amendment
 amendments
 annex
 animals
-american
 acceptance
 americas
 amino
