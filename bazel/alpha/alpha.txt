@@ -204,6 +204,7 @@ aggregate
 aggressive
 aging
 adaptor
+allow
 agree
 agreed
 alerts
@@ -255,7 +256,6 @@ allen
 alliance
 allied
 allocation
-allow
 allowance
 allowed
 arts
