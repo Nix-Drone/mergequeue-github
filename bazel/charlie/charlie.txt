@@ -676,7 +676,6 @@ consolidated
 consolidation
 consortium
 conspiracy
-const
 constant
 constantly
 constitute
@@ -780,6 +779,7 @@ coordinated
 coordinates
 coordination
 collective
+const
 cope
 copied
 copies
