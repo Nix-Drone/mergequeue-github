@@ -190,7 +190,6 @@ chains
 chair
 chairman
 chairs
-challenge
 challenged
 challenges
 challenging
@@ -635,6 +634,7 @@ confusion
 congo
 congratulations
 congress
+challenge
 congressional
 conjunction
 connect
