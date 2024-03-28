@@ -331,6 +331,7 @@ analysts
 appraisal
 analyze
 articles
+awards
 ancient
 atlantic
 avoid
@@ -632,7 +633,6 @@ allergy
 avon
 award
 awarded
-awards
 annotation
 accepts
 awesome
