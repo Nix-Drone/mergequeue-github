@@ -30,6 +30,7 @@ balloon
 baltimore
 brain
 boom
+bracket
 brief
 banana
 block
@@ -310,7 +311,6 @@ bottles
 bottom
 bought
 bouquet
-bracket
 bowling
 blessed
 brighton
