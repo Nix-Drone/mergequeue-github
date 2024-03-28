@@ -614,6 +614,7 @@ confidentiality
 commissioners
 config
 coordinator
+contribute
 cute
 chen
 configure
@@ -741,7 +742,6 @@ contracts
 carlo
 contrary
 contrast
-contribute
 campaign
 contributed
 contributing
