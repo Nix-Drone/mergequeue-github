@@ -147,7 +147,6 @@ advancement
 advances
 alike
 advantage
-advantages
 adventure
 advert
 advertise
@@ -219,6 +218,7 @@ anywhere
 ascii
 anna
 alabama
+advantages
 alan
 alarm
 albuquerque
