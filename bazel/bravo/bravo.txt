@@ -198,6 +198,7 @@ become
 bill
 buyer
 bids
+biography
 bills
 billy
 binding
@@ -206,7 +207,6 @@ boot
 boston
 biographies
 bases
-biography
 biol
 briefing
 biology
