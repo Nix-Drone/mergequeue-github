@@ -437,6 +437,7 @@ coin
 coins
 cold
 cole
+checks
 coleman
 colin
 collaboration
@@ -554,7 +555,6 @@ complement
 complete
 completed
 completely
-checks
 completing
 completion
 complex
