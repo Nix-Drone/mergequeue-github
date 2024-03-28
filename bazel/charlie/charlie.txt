@@ -206,6 +206,7 @@ chances
 change
 changed
 changelog
+conscious
 changes
 changing
 channel
@@ -652,7 +653,6 @@ connectivity
 connector
 connectors
 cons
-conscious
 consciousness
 consent
 consequence
