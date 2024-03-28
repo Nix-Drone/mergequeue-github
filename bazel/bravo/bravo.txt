@@ -64,6 +64,7 @@ basin
 berry
 bull
 banking
+bluetooth
 behavioral
 backup
 bumper
@@ -452,7 +453,6 @@ burlington
 burn
 burner
 burning
-bluetooth
 burns
 burton
 booking
