@@ -368,7 +368,6 @@ acdbentity
 australia
 austria
 above
-antarctica
 antenna
 alter
 apply
@@ -538,6 +537,7 @@ assistance
 assistant
 assisted
 associated
+antarctica
 association
 associations
 assume
