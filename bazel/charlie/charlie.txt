@@ -242,6 +242,7 @@ chase
 chassis
 cheap
 cheaper
+corps
 cheapest
 cheat
 cheats
@@ -809,7 +810,6 @@ cornwall
 corp
 corporate
 corporation
-corps
 corpus
 correct
 corrected
