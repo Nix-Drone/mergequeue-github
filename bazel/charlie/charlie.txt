@@ -437,7 +437,6 @@ collaboration
 collaborative
 collapse
 collar
-colleague
 colleagues
 collect
 collectables
@@ -552,6 +551,7 @@ compiler
 complaint
 complaints
 complement
+colleague
 complete
 completely
 cincinnati
