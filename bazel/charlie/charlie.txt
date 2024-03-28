@@ -119,7 +119,6 @@ case
 cases
 cash
 cashiers
-casino
 casinos
 casio
 cassette
@@ -815,6 +814,7 @@ correct
 corrected
 correction
 corrections
+casino
 correctly
 correlation
 correspondence
