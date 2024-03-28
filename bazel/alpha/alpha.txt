@@ -374,6 +374,7 @@ acdbentity
 above
 apply
 anti
+apparel
 antibody
 antique
 anybody
@@ -397,7 +398,6 @@ acrobat
 automated
 adapted
 austria
-apparel
 anger
 apparent
 auctions
