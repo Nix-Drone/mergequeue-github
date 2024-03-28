@@ -461,7 +461,6 @@ colored
 colors
 cubic
 colour
-colours
 columbia
 column
 columnists
@@ -486,6 +485,7 @@ comm
 command
 commander
 comment
+colours
 commentary
 commented
 comments
