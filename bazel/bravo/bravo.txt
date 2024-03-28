@@ -30,6 +30,7 @@ balloon
 baltimore
 brain
 boom
+brief
 banana
 band
 block
@@ -357,7 +358,6 @@ bass
 begin
 bonus
 bridge
-brief
 briefly
 bottle
 brass
