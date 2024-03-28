@@ -76,7 +76,6 @@ capitol
 caps
 captain
 closely
-capture
 captured
 carb
 carbon
@@ -417,6 +416,7 @@ clubs
 cluster
 clusters
 cnet
+capture
 cnetcom
 coach
 coaches
