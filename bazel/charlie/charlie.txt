@@ -408,7 +408,6 @@ cluster
 clusters
 cnet
 coach
-coaching
 coal
 coalition
 coffee
@@ -943,6 +942,7 @@ customers
 customize
 carol
 cover
+coaching
 customized
 customs
 conditioning
