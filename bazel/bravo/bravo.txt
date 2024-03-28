@@ -73,7 +73,6 @@ basin
 berry
 bull
 banking
-bluetooth
 behavioral
 bumper
 blind
@@ -347,6 +346,7 @@ bind
 blues
 bell
 brands
+bluetooth
 break
 bizarre
 baby

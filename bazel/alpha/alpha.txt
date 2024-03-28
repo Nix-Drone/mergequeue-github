@@ -328,7 +328,6 @@ analyses
 answers
 awareness
 author
-able
 analysts
 appraisal
 analyze
@@ -419,6 +418,7 @@ assure
 applicant
 adsl
 argument
+able
 applicants
 application
 applications
