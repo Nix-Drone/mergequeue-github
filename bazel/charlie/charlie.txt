@@ -394,7 +394,6 @@ collage
 collapse
 collar
 collected
-collector
 collide
 collie
 collision
@@ -535,6 +534,7 @@ cornball
 cornbread
 corncob
 cornea
+collector
 corned
 corner
 cornfield
