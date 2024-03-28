@@ -115,7 +115,6 @@ beam
 bedrooms
 beds
 beef
-beer
 bother
 builders
 browse
@@ -396,6 +395,7 @@ brooklyn
 both
 brooks
 broadband
+beer
 bath
 brings
 bailey
