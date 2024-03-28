@@ -166,7 +166,6 @@ advertisements
 advertiser
 american
 allocated
-advertisers
 advertising
 advisor
 amsterdam
@@ -420,6 +419,7 @@ applications
 applied
 algebra
 arabia
+advertisers
 applies
 application
 attempting
