@@ -490,7 +490,6 @@ commander
 comment
 commentary
 commented
-comments
 commerce
 client
 commercial
@@ -941,6 +940,7 @@ customise
 chicago
 copyrighted
 customers
+comments
 customize
 cover
 customized
