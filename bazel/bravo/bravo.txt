@@ -417,6 +417,7 @@ butler
 born
 bound
 builder
+building
 balance
 blogging
 bless
@@ -431,7 +432,6 @@ budget
 birds
 bridges
 build
-building
 brand
 bikini
 buildings
