@@ -427,7 +427,6 @@ applications
 applied
 applies
 attempting
-applying
 appointed
 alert
 appointments
@@ -610,6 +609,7 @@ authors
 arab
 architectural
 anymore
+applying
 automation
 automobile
 automobiles
