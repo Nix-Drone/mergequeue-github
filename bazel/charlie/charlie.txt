@@ -449,6 +449,7 @@ collectables
 collected
 collectible
 collectibles
+crimes
 calgary
 collecting
 collection
@@ -894,7 +895,6 @@ creek
 crest
 crew
 crime
-crimes
 criminal
 crisis
 criterion
