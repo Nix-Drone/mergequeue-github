@@ -513,7 +513,6 @@ armor
 assets
 administration
 artificial
-artists
 artwork
 asbestos
 affects
@@ -548,6 +547,7 @@ average
 acquire
 atmosphere
 assumed
+artists
 assuming
 assumption
 antibodies
