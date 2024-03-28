@@ -332,6 +332,7 @@ citizens
 citizenship
 city
 civic
+constitution
 civilian
 civilization
 claim
@@ -691,7 +692,6 @@ constant
 confidential
 constitutes
 contents
-constitution
 classified
 constraint
 construct
