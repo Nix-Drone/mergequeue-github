@@ -283,6 +283,7 @@ chile
 china
 chinese
 chip
+confident
 chips
 chocolate
 choice
@@ -616,7 +617,6 @@ conference
 conferences
 conferencing
 confidence
-confident
 confidential
 confidentiality
 config
