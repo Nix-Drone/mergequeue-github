@@ -50,7 +50,6 @@ baseline
 basement
 beats
 basename
-banners
 basic
 bearing
 bits
@@ -413,6 +412,7 @@ bang
 blair
 buck
 bucks
+banners
 based
 budget
 birds
