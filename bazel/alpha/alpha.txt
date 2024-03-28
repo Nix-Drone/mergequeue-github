@@ -573,7 +573,6 @@ addiction
 attach
 attached
 attempts
-attachment
 attachments
 attacked
 attacks
@@ -633,6 +632,7 @@ allergy
 avon
 award
 awards
+attachment
 annotation
 accepts
 awesome

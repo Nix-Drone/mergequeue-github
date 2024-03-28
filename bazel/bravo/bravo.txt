@@ -265,7 +265,6 @@ bodies
 boxes
 baseball
 bottle
-buddy
 brunei
 bangbus
 bomb
@@ -293,6 +292,7 @@ bullet
 breed
 border
 basketball
+buddy
 boring
 beta
 bufing
