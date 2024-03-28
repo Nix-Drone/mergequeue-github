@@ -222,6 +222,7 @@ ascii
 anna
 alabama
 alan
+announce
 alarm
 albuquerque
 alaska
@@ -354,7 +355,6 @@ assign
 audio
 annie
 attention
-announce
 announced
 announcements
 america
