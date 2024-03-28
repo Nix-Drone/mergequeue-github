@@ -387,7 +387,6 @@ clocks
 clone
 close
 closed
-closer
 closes
 cached
 clarke
@@ -769,6 +768,7 @@ convert
 converted
 converter
 convertible
+closer
 conviction
 cape
 convinced
