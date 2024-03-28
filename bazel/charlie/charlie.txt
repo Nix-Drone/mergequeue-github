@@ -329,6 +329,7 @@ circuit
 circuits
 circulation
 circumstances
+connections
 circus
 cisco
 coastal
@@ -644,7 +645,6 @@ connecticut
 crucial
 connecting
 connection
-connections
 connectivity
 connector
 connectors
