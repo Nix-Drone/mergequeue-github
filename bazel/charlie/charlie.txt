@@ -216,7 +216,6 @@ chapters
 char
 character
 characteristic
-characteristics
 characterization
 characterized
 characters
@@ -509,6 +508,7 @@ commodity
 classroom
 common
 commons
+characteristics
 commonwealth
 communication
 communications
