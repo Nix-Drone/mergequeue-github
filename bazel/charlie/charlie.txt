@@ -508,7 +508,6 @@ commodity
 classroom
 common
 commons
-commonwealth
 communication
 communications
 christmas
@@ -865,6 +864,7 @@ covered
 covering
 covers
 cowboy
+commonwealth
 crack
 cradle
 craft
