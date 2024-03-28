@@ -416,7 +416,6 @@ clusters
 cnet
 cnetcom
 coach
-coaches
 coaching
 coal
 coalition
@@ -575,6 +574,7 @@ compound
 compounds
 comprehensive
 compressed
+coaches
 compression
 compromise
 computation
