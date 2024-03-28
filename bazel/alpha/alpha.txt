@@ -346,7 +346,6 @@ angel
 anger
 aids
 adoption
-animation
 assign
 audio
 annie
@@ -390,6 +389,7 @@ activity
 apache
 arrow
 apart
+animation
 apartment
 accessories
 apollo
