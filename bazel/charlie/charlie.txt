@@ -372,6 +372,7 @@ cleaning
 cleanup
 clear
 clearance
+compute
 cleared
 clearing
 clearly
@@ -580,7 +581,6 @@ compression
 compromise
 computation
 computational
-compute
 computed
 computer
 computers
