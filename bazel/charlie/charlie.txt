@@ -65,7 +65,6 @@ cant
 canvas
 canyon
 capabilities
-capability
 capable
 capacity
 cape
@@ -628,6 +627,7 @@ configuring
 confirm
 confirmation
 confirmed
+capability
 conflict
 conflicts
 confused
