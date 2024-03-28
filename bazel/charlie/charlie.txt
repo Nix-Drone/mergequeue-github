@@ -363,7 +363,6 @@ cleaner
 cleaners
 cleaning
 cleanup
-clear
 compute
 completion
 cleared
@@ -435,6 +434,7 @@ coleman
 colin
 clearance
 collaboration
+clear
 collaborative
 collapse
 collar
