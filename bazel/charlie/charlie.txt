@@ -273,7 +273,6 @@ chest
 chester
 chevrolet
 chevy
-chicago
 chick
 chicken
 chicks
@@ -936,6 +935,7 @@ custom
 customer
 customers
 customise
+chicago
 copyrighted
 customize
 cover
