@@ -340,6 +340,7 @@ bias
 breaking
 bind
 blues
+both
 bell
 brands
 break
@@ -385,7 +386,6 @@ beach
 beverage
 brook
 brooklyn
-both
 brooks
 broadband
 bath
