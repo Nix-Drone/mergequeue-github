@@ -343,7 +343,6 @@ civilian
 civilization
 claim
 claimed
-claims
 claire
 clan
 clara
@@ -461,6 +460,7 @@ colleges
 collins
 cologne
 colombia
+claims
 colon
 colonial
 colony
