@@ -287,6 +287,7 @@ confident
 chips
 chocolate
 choice
+criteria
 choices
 choir
 cholesterol
@@ -896,7 +897,6 @@ crime
 crimes
 criminal
 crisis
-criteria
 criterion
 critical
 criticism
