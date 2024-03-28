@@ -35,6 +35,7 @@ besides
 bracket
 brief
 banana
+bits
 bibliography
 block
 banners
@@ -169,7 +170,6 @@ bottom
 bars
 beth
 betting
-bits
 blowing
 bigger
 baptist
