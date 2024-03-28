@@ -533,7 +533,6 @@ constraints
 charles
 comparisons
 compatibility
-compatible
 compensation
 compete
 controllers
@@ -733,6 +732,7 @@ continuity
 continuous
 continuously
 contract
+compatible
 contracting
 contractor
 contractors
