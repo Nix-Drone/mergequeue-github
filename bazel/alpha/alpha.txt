@@ -254,7 +254,6 @@ allowance
 allowed
 arts
 allowing
-allows
 alloy
 awarded
 accessing
@@ -522,6 +521,7 @@ aside
 asin
 asking
 aspect
+allows
 arch
 assault
 announcements
