@@ -136,7 +136,6 @@ catalogue
 catalyst
 catch
 categories
-category
 catering
 cathedral
 catherine
@@ -882,6 +881,7 @@ creator
 creature
 creatures
 credit
+category
 credits
 creek
 crest
