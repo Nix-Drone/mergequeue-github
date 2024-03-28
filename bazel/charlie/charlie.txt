@@ -5,6 +5,7 @@ cable
 cables
 cache
 cached
+communicate
 cadillac
 cafe
 cage
@@ -516,7 +517,6 @@ common
 commonly
 commons
 commonwealth
-communicate
 communication
 communications
 communist
