@@ -338,6 +338,7 @@ bright
 busy
 bathroom
 blah
+behaviour
 breakfast
 bias
 breaking
@@ -365,7 +366,6 @@ brisbane
 blake
 bull
 briefs
-behaviour
 beads
 babes
 brilliant
