@@ -21,7 +21,6 @@ aged
 apnic
 academics
 accept
-artist
 acceptable
 accepted
 attract
@@ -347,6 +346,7 @@ aids
 adoption
 assign
 audio
+artist
 addressing
 annie
 attention
