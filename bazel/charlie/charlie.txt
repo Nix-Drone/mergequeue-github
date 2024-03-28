@@ -662,7 +662,6 @@ crook
 croon
 crop
 crouch
-crouton
 crowbar
 crowd
 crown
@@ -692,6 +691,7 @@ cryptic
 crystal
 cubbyhole
 cube
+crouton
 cubical
 cubicle
 cucumber
