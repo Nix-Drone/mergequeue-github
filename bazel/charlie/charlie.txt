@@ -565,7 +565,6 @@ complications
 complimentary
 comply
 component
-components
 composed
 composer
 composite
@@ -581,6 +580,7 @@ computational
 computed
 computer
 computers
+components
 computing
 concentrate
 concentration
