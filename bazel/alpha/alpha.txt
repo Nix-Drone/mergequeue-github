@@ -121,7 +121,6 @@ amenities
 agency
 adjustment
 alexandria
-adjustments
 admin
 administrative
 automatically
@@ -577,6 +576,7 @@ amounts
 article
 addiction
 andy
+adjustments
 attached
 attempts
 applicants
