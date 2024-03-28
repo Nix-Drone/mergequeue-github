@@ -130,6 +130,7 @@ behavior
 brick
 behalf
 barrier
+beings
 batch
 bronze
 billion
@@ -302,7 +303,6 @@ bidder
 ballot
 bonds
 bookmarks
-beings
 bottles
 bouquet
 beginning
