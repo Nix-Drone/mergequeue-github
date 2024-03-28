@@ -354,7 +354,6 @@ classes
 classic
 classical
 classics
-classification
 classifieds
 clause
 clay
@@ -678,6 +677,7 @@ consisting
 consists
 console
 consoles
+classification
 consolidated
 consolidation
 consortium
