@@ -506,7 +506,6 @@ commerce
 commercial
 commission
 commissioner
-commissioners
 commissions
 commit
 commitment
@@ -620,6 +619,7 @@ conferencing
 confidence
 confidential
 confidentiality
+commissioners
 config
 configuration
 completion
