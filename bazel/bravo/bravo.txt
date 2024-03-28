@@ -151,7 +151,6 @@ belly
 bleeding
 belongs
 belt
-bold
 boating
 bench
 benchmark
@@ -448,6 +447,7 @@ bear
 bolt
 barely
 borough
+bold
 bunch
 bunny
 became
