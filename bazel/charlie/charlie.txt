@@ -326,7 +326,6 @@ circle
 circles
 circuit
 circuits
-circular
 circulation
 circumstances
 circus
@@ -788,6 +787,7 @@ coordinates
 collective
 const
 cope
+circular
 copied
 copies
 copper
