@@ -112,7 +112,6 @@ biblical
 bicycle
 bride
 bedding
-base
 beam
 bedrooms
 beds
@@ -165,6 +164,7 @@ bench
 benchmark
 beneath
 benefit
+base
 bubble
 bennett
 berkeley
