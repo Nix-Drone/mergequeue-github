@@ -33,7 +33,6 @@ buyer
 boom
 besides
 bracket
-brief
 banana
 bibliography
 block
@@ -258,6 +257,7 @@ bryan
 bodies
 boundaries
 beginners
+brief
 basic
 bankruptcy
 baseball
