@@ -113,6 +113,7 @@ algorithm
 alias
 alibi
 alienable
+author
 alienate
 atrium
 aliens
@@ -374,7 +375,6 @@ audition
 augmented
 august
 authentic
-author
 autism
 autistic
 automaker
