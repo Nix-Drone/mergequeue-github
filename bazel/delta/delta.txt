@@ -91,7 +91,6 @@ decode
 decompose
 decorated
 decorator
-decoy
 decrease
 decree
 dedicate
@@ -305,6 +304,7 @@ disabled
 disagree
 disallow
 disarm
+decoy
 disarray
 disaster
 disband
