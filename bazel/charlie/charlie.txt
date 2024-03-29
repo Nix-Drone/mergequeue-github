@@ -396,7 +396,6 @@ collage
 collapse
 collar
 collected
-collide
 collie
 collision
 colonial
@@ -444,6 +443,7 @@ compress
 comprised
 computer
 computing
+collide
 comrade
 concave
 conceal
