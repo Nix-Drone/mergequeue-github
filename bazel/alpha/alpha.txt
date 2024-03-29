@@ -270,6 +270,7 @@ applicant
 applied
 apply
 appointee
+armrest
 appraisal
 anywhere
 appraiser
@@ -305,7 +306,6 @@ armoire
 aflame
 armored
 armory
-armrest
 army
 aroma
 arose
