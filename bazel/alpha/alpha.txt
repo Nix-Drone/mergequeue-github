@@ -22,7 +22,6 @@ abstract
 absurd
 accent
 acclimate
-accompany
 account
 accuracy
 accurate
@@ -349,6 +348,7 @@ atlas
 atom
 atonable
 atop
+accompany
 atrocious
 atrophy
 attain
