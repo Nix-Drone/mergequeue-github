@@ -638,7 +638,6 @@ crevice
 concept
 crewless
 crewman
-crewmate
 crib
 cricket
 cried
@@ -738,6 +737,7 @@ custodian
 custody
 customary
 customer
+crewmate
 customize
 customs
 cut
