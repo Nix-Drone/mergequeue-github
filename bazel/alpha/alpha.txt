@@ -172,6 +172,7 @@ amuck
 afflicted
 amulet
 amusable
+attention
 amused
 amusement
 amuser
@@ -355,7 +356,6 @@ attain
 attempt
 attendant
 attendee
-attention
 attentive
 attest
 attic
