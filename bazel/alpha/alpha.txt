@@ -65,7 +65,6 @@ affix
 affluent
 afford
 affront
-afloat
 aflutter
 afoot
 afraid
@@ -345,6 +344,7 @@ astronaut
 astronomy
 astute
 atlantic
+afloat
 atlas
 atom
 atonable
