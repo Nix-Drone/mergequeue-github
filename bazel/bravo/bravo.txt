@@ -35,7 +35,6 @@ besides
 bracket
 brief
 banana
-bibliography
 block
 banners
 bedroom
@@ -350,6 +349,7 @@ begin
 beat
 bonus
 bizarre
+bibliography
 bridge
 briefly
 blue
