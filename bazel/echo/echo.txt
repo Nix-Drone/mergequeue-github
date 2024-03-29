@@ -245,7 +245,6 @@ epileptic
 epilogue
 epiphany
 episode
-equal
 equate
 equation
 equator
@@ -341,6 +340,7 @@ exemplify
 exemption
 exerciser
 exert
+equal
 exes
 exfoliate
 exhale
