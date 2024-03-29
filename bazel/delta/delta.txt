@@ -115,7 +115,6 @@ defender
 defense
 defensive
 deferral
-deferred
 defiance
 defiant
 defile
@@ -382,6 +381,7 @@ divinity
 divisible
 divisibly
 division
+deferred
 divisive
 divorcee
 dizziness
