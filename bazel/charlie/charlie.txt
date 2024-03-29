@@ -154,7 +154,6 @@ caucus
 causal
 causation
 cause
-causing
 cauterize
 caution
 cautious
@@ -638,6 +637,7 @@ concept
 crewless
 crewman
 crewmate
+causing
 crib
 cricket
 cried
