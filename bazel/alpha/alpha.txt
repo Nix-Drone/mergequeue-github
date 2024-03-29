@@ -166,7 +166,6 @@ amount
 amperage
 ample
 amplifier
-amplify
 amply
 amuck
 afflicted
@@ -259,6 +258,7 @@ appease
 appeasing
 appendage
 appendix
+amplify
 approve
 appetite
 appetizer
