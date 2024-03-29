@@ -143,7 +143,6 @@ amazingly
 amber
 ambiance
 ambiguity
-ambiguous
 ambition
 ambulance
 ambush
@@ -350,6 +349,7 @@ atom
 atonable
 atop
 atrocious
+ambiguous
 atrophy
 attain
 attempt

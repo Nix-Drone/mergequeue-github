@@ -193,7 +193,6 @@ bills
 barriers
 binding
 branch
-bases
 bloom
 biol
 briefing
@@ -282,6 +281,7 @@ belief
 breed
 border
 basketball
+bases
 boring
 bluetooth
 bookings
