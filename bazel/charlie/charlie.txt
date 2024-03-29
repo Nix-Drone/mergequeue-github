@@ -322,7 +322,6 @@ clean
 clear
 colony
 cleat
-cleaver
 cleft
 clench
 clergyman
@@ -467,6 +466,7 @@ conduit
 cone
 confess
 confetti
+cleaver
 confidant
 confident
 confider
