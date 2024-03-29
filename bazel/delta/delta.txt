@@ -43,6 +43,7 @@ daybreak
 daycare
 daydream
 daylight
+driver
 daylong
 dayroom
 daytime
@@ -478,7 +479,6 @@ dripping
 drippy
 drivable
 driven
-driver
 driveway
 driving
 drizzle
