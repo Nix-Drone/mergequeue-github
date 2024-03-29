@@ -294,6 +294,7 @@ citric
 citrus
 city
 civic
+common
 civil
 clad
 claim
@@ -420,7 +421,6 @@ commerce
 commode
 commodity
 commodore
-common
 commotion
 commute
 compacted
