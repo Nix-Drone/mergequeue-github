@@ -111,7 +111,6 @@ cartload
 carton
 cartoon
 cartridge
-cartwheel
 carve
 casually
 carving
@@ -667,6 +666,7 @@ crowbar
 crowd
 crown
 crucial
+cartwheel
 crudely
 crudeness
 cruelly
