@@ -316,6 +316,7 @@ discard
 discern
 discharge
 disclose
+drop-down
 discolor
 discount
 discourse
@@ -486,7 +487,6 @@ drizzly
 drone
 drool
 droop
-drop-down
 dropbox
 dropkick
 droplet
