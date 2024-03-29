@@ -36,7 +36,6 @@ campsite
 campus
 canal
 canary
-cancel
 candied
 candle
 candy
@@ -509,6 +508,7 @@ contempt
 contend
 contented
 contently
+cancel
 contents
 contest
 context
