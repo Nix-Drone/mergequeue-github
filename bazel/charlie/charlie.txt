@@ -233,7 +233,6 @@ chemo
 cherisher
 cherub
 chess
-chest
 chevron
 chevy
 chewable
@@ -659,6 +658,7 @@ critter
 croak
 crock
 crook
+chest
 croon
 crop
 crouch
