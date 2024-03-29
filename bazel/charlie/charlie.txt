@@ -193,6 +193,7 @@ champion
 chance
 change
 channel
+crevice
 chant
 chaos
 chaperone
@@ -634,7 +635,6 @@ crescent
 crested
 cresting
 crestless
-crevice
 concept
 crewless
 crewman

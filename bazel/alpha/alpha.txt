@@ -1,3 +1,4 @@
+accuracy
 abacus
 abdomen
 abdominal
@@ -23,7 +24,6 @@ accent
 acclimate
 accompany
 account
-accuracy
 accurate
 accustom
 acetone
