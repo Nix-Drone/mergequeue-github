@@ -226,7 +226,6 @@ entity
 entomb
 entourage
 entrap
-entree
 entrench
 entrust
 entryway
@@ -372,6 +371,7 @@ explain
 expletive
 explicit
 explode
+entree
 exploit
 explore
 exploring
