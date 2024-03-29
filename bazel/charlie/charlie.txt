@@ -320,6 +320,7 @@ cleat
 cleaver
 cleft
 clench
+crease
 clergyman
 cross
 clerical
@@ -615,7 +616,6 @@ crazy
 creamed
 creamer
 creamlike
-crease
 creasing
 creatable
 create
