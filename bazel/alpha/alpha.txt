@@ -173,6 +173,7 @@ afflicted
 amulet
 amusable
 amused
+appointee
 amusement
 amuser
 amusing
@@ -269,7 +270,6 @@ appliance
 applicant
 applied
 apply
-appointee
 appraisal
 anywhere
 appraiser
