@@ -152,7 +152,6 @@ emu
 enable
 enactment
 enamel
-enchanted
 enchilada
 encircle
 enclose
@@ -262,6 +261,7 @@ erasable
 erased
 eraser
 erasure
+enchanted
 ergonomic
 errand
 errant
