@@ -136,7 +136,6 @@ empathy
 emperor
 emphases
 emphasis
-emphasize
 emphatic
 empirical
 employed
@@ -319,6 +318,7 @@ exalted
 example
 excavate
 excavator
+emphasize
 exceeding
 exception
 excess
