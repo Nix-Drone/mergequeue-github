@@ -303,7 +303,6 @@ directly
 directory
 direness
 dirtiness
-disabled
 disagree
 disallow
 disarm
@@ -477,6 +476,7 @@ drinking
 dripping
 drippy
 drivable
+disabled
 driven
 driver
 driveway
