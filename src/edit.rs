@@ -35,7 +35,7 @@ pub fn move_random_line(filename: &str) -> String {
         .collect::<Result<_, _>>()
         .expect("failed to read lines");
 
-    if lines.len() == 0 {
+    if lines.is_empty() {
         panic!("Cannot continue the file {} is empty", filename);
     }
 
