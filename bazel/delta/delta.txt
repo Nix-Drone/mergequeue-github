@@ -416,7 +416,6 @@ doorknob
 doorman
 doormat
 doornail
-doorpost
 doorstep
 doorstop
 doorway
@@ -432,6 +431,7 @@ douche
 dove
 down
 dowry
+doorpost
 doze
 drab
 dragging
