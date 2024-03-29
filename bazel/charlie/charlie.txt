@@ -122,7 +122,6 @@ cash
 casino
 casket
 cassette
-casualty
 catacomb
 catalog
 catalyst
@@ -511,6 +510,7 @@ contend
 contented
 contently
 contents
+casualty
 contest
 context
 contort
