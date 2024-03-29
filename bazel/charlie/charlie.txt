@@ -182,7 +182,6 @@ certify
 cesarean
 cesspool
 chafe
-chaffing
 chain
 chair
 chalice
@@ -665,6 +664,7 @@ crouch
 crouton
 crowbar
 crowd
+chaffing
 crown
 crucial
 crudely

@@ -125,6 +125,7 @@ definite
 deflate
 deflation
 deflator
+dismantle
 deflected
 deflector
 defog
@@ -334,7 +335,6 @@ disliking
 dislocate
 dislodge
 disloyal
-dismantle
 dismay
 dismiss
 dismount
