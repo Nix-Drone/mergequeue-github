@@ -92,6 +92,7 @@ cargo
 caring
 carless
 carload
+coming
 carmaker
 carnage
 carnation
@@ -410,7 +411,6 @@ comfort
 comfy
 confirm
 comic
-coming
 comma
 chip
 commence
