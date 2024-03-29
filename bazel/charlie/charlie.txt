@@ -68,7 +68,6 @@ capped
 capricorn
 capsize
 capsule
-caption
 captivate
 captive
 captivity
@@ -331,6 +330,7 @@ clerical
 clerk
 clever
 clicker
+caption
 client
 climate
 climatic
