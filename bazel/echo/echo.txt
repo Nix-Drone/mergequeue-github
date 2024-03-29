@@ -2,7 +2,6 @@ each
 eagle
 earache
 eardrum
-earflap
 earful
 earlobe
 early
@@ -320,6 +319,7 @@ example
 excavate
 excavator
 exceeding
+earflap
 exception
 excess
 exchange
