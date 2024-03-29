@@ -224,6 +224,7 @@ cheese
 cheesy
 chef
 chemicals
+conduit
 chemist
 chemo
 cherisher
@@ -457,7 +458,6 @@ condition
 condone
 conducive
 conductor
-conduit
 cone
 confess
 confetti
