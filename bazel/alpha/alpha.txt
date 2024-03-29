@@ -149,7 +149,6 @@ ambulance
 ambush
 amendable
 amendment
-acclaim
 amends
 amenity
 amiable
@@ -385,6 +384,7 @@ available
 avalanche
 avatar
 avenge
+acclaim
 avenging
 avenue
 average
