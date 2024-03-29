@@ -78,7 +78,6 @@ behaviour
 basin
 bull
 behavioral
-bullet
 bradley
 bumper
 bother
@@ -91,6 +90,7 @@ boards
 bears
 broadcasting
 breast
+bullet
 beast
 barn
 bulletin
