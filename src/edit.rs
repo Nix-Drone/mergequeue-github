@@ -35,6 +35,10 @@ pub fn move_random_line(filename: &str) -> String {
         .collect::<Result<_, _>>()
         .expect("failed to read lines");
 
+    if lines.len() == 0 {
+        panic!("The file {} is empty", filename);
+    }
+
     // Choose a random line
     let mut rng = rand::thread_rng();
     let line_index = rng.gen_range(0..lines.len());
