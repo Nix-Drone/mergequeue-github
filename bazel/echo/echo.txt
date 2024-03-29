@@ -224,7 +224,6 @@ entire
 entitle
 entity
 entomb
-entourage
 entrap
 entree
 entrench
@@ -326,6 +325,7 @@ exceeding
 exception
 excess
 exchange
+entourage
 excitable
 exciting
 exclaim
