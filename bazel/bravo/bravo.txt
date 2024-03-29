@@ -152,6 +152,7 @@ boost
 belt
 boating
 bench
+beneath
 benchmark
 benefit
 base
@@ -372,7 +373,6 @@ brush
 bahrain
 beautifully
 belarus
-beneath
 bestsellers
 bowling
 beach
