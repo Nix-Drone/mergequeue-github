@@ -461,6 +461,7 @@ conduit
 cone
 confess
 confetti
+crop
 confidant
 confident
 confider
@@ -660,7 +661,6 @@ croak
 crock
 crook
 croon
-crop
 crouch
 crouton
 crowbar
