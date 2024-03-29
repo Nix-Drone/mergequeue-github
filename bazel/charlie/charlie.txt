@@ -423,7 +423,6 @@ commodore
 common
 commotion
 commute
-compacted
 compacter
 compactly
 compactor
@@ -474,6 +473,7 @@ confiding
 configure
 confined
 confining
+compacted
 conflict
 conform
 confound
