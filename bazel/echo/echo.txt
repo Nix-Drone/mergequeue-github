@@ -242,7 +242,6 @@ enzyme
 epidemic
 epidermal
 epidermis
-epidural
 epilepsy
 epileptic
 epilogue
@@ -388,6 +387,7 @@ extended
 extending
 extent
 extenuate
+epidural
 exterior
 extinct
 extortion
