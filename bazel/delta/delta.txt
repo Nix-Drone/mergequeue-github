@@ -142,7 +142,6 @@ dehydrate
 deity
 dejected
 delay
-delegate
 delegator
 delete
 deletion
@@ -521,6 +520,7 @@ dumpster
 duo
 dupe
 duplex
+delegate
 duplicate
 duplicity
 durable
