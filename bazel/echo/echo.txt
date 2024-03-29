@@ -128,7 +128,6 @@ embroider
 emcee
 emerald
 emergency
-emission
 emit
 emote
 emoticon
@@ -163,6 +162,7 @@ encounter
 encourage
 encroach
 encrust
+emission
 encrypt
 endanger
 emphasis
