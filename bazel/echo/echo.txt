@@ -139,6 +139,7 @@ emphasis
 emphasize
 emphatic
 empirical
+expletive
 employed
 employee
 employer
@@ -368,7 +369,6 @@ expert
 expire
 expiring
 explain
-expletive
 explicit
 explode
 exploit
