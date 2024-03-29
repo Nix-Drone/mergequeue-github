@@ -350,7 +350,6 @@ clothes
 clothing
 cloud
 clover
-clubbed
 clubbing
 clubhouse
 clump
@@ -521,6 +520,7 @@ contusion
 convene
 convent
 copartner
+clubbed
 cope
 copied
 copier

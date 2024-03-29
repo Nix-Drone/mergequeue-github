@@ -112,6 +112,7 @@ aloe
 algorithm
 alias
 alibi
+apache
 alienable
 alienate
 atrium
@@ -251,7 +252,6 @@ anything
 anytime
 anyway
 aorta
-apache
 apostle
 appealing
 appear
