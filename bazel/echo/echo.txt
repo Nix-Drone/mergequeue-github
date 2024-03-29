@@ -250,7 +250,6 @@ epiphany
 episode
 expediter
 equal
-equate
 equation
 equator
 equinox
@@ -365,6 +364,7 @@ expel
 expend
 expenses
 expensive
+equate
 expert
 expire
 expiring
