@@ -303,7 +303,6 @@ directly
 directory
 direness
 dirtiness
-disabled
 disagree
 disallow
 disarm
@@ -363,6 +362,7 @@ distant
 distaste
 distill
 distinct
+disabled
 distort
 distract
 distress
