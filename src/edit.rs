@@ -36,7 +36,7 @@ pub fn move_random_line(filename: &str) -> String {
         .expect("failed to read lines");
 
     if lines.len() == 0 {
-        panic!("The file {} is empty", filename);
+        panic!("Cannot continue the file {} is empty", filename);
     }
 
     // Choose a random line
