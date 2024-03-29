@@ -153,6 +153,7 @@ acclaim
 amends
 amenity
 amiable
+audio
 amicably
 amid
 amigo
@@ -369,7 +370,6 @@ audacity
 audible
 audibly
 audience
-audio
 audition
 augmented
 august
