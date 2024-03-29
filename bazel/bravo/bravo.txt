@@ -134,7 +134,6 @@ betty
 begun
 behavior
 brick
-barrier
 beings
 batch
 bronze
@@ -366,6 +365,7 @@ britannica
 boston
 bikes
 bleeding
+barrier
 budget
 bloggers
 boulder
