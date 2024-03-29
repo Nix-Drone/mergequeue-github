@@ -33,7 +33,6 @@ eastward
 eatable
 eaten
 eatery
-eating
 eats
 ebay
 ebony
@@ -307,6 +306,7 @@ evergreen
 everybody
 everyday
 everyone
+eating
 evict
 evidence
 evident
