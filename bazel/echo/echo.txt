@@ -131,6 +131,7 @@ emit
 emote
 emoticon
 emotion
+existing
 empathic
 empathy
 emperor
@@ -347,7 +348,6 @@ exhale
 exhaust
 exhume
 exile
-existing
 exit
 exodus
 exonerate
