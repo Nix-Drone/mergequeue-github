@@ -10,7 +10,6 @@ earmark
 earmuff
 earphone
 earpiece
-earplugs
 earring
 earshot
 earthen
@@ -136,6 +135,7 @@ empathy
 emperor
 emphases
 emphasis
+earplugs
 emphasize
 emphatic
 empirical
