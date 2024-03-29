@@ -148,6 +148,7 @@ ambition
 ambulance
 ambush
 amendable
+armed
 amendment
 acclaim
 amends
@@ -296,7 +297,6 @@ arise
 armadillo
 armband
 armchair
-armed
 armful
 armhole
 arming
