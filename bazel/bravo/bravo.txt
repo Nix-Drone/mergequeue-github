@@ -158,6 +158,7 @@ base
 bennett
 berkeley
 berlin
+bold
 bermuda
 bored
 behalf
@@ -445,7 +446,6 @@ battery
 bolt
 barely
 borough
-bold
 bunny
 became
 barry
