@@ -119,6 +119,7 @@ ember
 embezzle
 emblaze
 emblem
+existing
 embody
 embolism
 emboss
@@ -347,7 +348,6 @@ exhale
 exhaust
 exhume
 exile
-existing
 exit
 exodus
 exonerate
