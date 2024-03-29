@@ -51,7 +51,6 @@ economy
 ecosphere
 ecosystem
 edge
-edginess
 edging
 edgy
 edition
@@ -305,6 +304,7 @@ even
 everglade
 evergreen
 everybody
+edginess
 everyday
 everyone
 evict
