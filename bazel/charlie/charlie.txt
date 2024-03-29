@@ -263,7 +263,6 @@ chomp
 chooser
 choosing
 choosy
-chop
 chosen
 chowder
 chowtime
@@ -444,6 +443,7 @@ compress
 comprised
 computer
 computing
+chop
 comrade
 concave
 conceal
