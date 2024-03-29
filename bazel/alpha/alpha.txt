@@ -64,6 +64,7 @@ affirm
 affix
 affluent
 afford
+arbitrary
 affront
 afloat
 aflutter
@@ -284,7 +285,6 @@ aptitude
 aptly
 aqua
 aqueduct
-arbitrary
 arbitrate
 ardently
 area
