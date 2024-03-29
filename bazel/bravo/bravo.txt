@@ -154,7 +154,6 @@ bench
 benchmark
 benefit
 base
-bennett
 berkeley
 berlin
 bermuda
@@ -366,6 +365,7 @@ bleeding
 budget
 bloggers
 boulder
+bennett
 brochure
 bought
 brush
