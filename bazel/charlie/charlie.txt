@@ -110,7 +110,6 @@ cartel
 cartload
 carton
 cartoon
-cartridge
 cartwheel
 carve
 casually
@@ -231,6 +230,7 @@ chemicals
 chemist
 chemo
 cherisher
+cartridge
 cherub
 chess
 chest
