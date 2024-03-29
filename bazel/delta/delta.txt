@@ -107,7 +107,6 @@ deface
 defacing
 defame
 default
-defeat
 defection
 defective
 defendant
@@ -435,6 +434,7 @@ dove
 down
 dowry
 doze
+defeat
 drab
 dragging
 dragonfly
