@@ -136,7 +136,6 @@ empathic
 empathy
 emperor
 emphases
-emphasis
 emphasize
 emphatic
 empirical
@@ -165,6 +164,7 @@ encroach
 encrust
 encrypt
 endanger
+emphasis
 endeared
 endearing
 ended
