@@ -331,7 +331,6 @@ clerical
 clerk
 clever
 clicker
-client
 climate
 climatic
 cling
@@ -656,6 +655,7 @@ crispness
 crispy
 criteria
 critter
+client
 croak
 crock
 crook
