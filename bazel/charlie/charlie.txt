@@ -188,7 +188,6 @@ challenge
 chamber
 chamomile
 champion
-chance
 change
 channel
 chant
@@ -425,6 +424,7 @@ commotion
 commute
 compacter
 compactly
+chance
 compactor
 companion
 company
