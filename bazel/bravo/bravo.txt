@@ -132,7 +132,6 @@ bolivia
 buying
 betty
 begun
-behavior
 brick
 barrier
 beings
@@ -329,6 +328,7 @@ bathroom
 blah
 breakfast
 bias
+behavior
 breaking
 buzz
 blues
