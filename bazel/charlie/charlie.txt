@@ -402,6 +402,7 @@ collision
 colonial
 colonist
 colonize
+contest
 colossal
 colt
 coma
@@ -511,7 +512,6 @@ contend
 contented
 contently
 contents
-contest
 context
 contort
 contour
