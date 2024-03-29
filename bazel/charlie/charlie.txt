@@ -345,6 +345,7 @@ clock
 clone
 cloning
 closable
+cupped
 closure
 clothes
 clothing
@@ -707,7 +708,6 @@ culture
 cupbearer
 cupcake
 cupid
-cupped
 cupping
 curable
 curator
