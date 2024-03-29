@@ -290,6 +290,7 @@ citable
 citadel
 citation
 citizen
+comma
 citric
 citrus
 city
@@ -411,7 +412,6 @@ comfy
 confirm
 comic
 coming
-comma
 chip
 commence
 commend
