@@ -63,7 +63,6 @@ debit
 debrief
 debtless
 debtor
-debug
 debunk
 decade
 decaf
@@ -451,6 +450,7 @@ drank
 drapery
 drastic
 draw
+debug
 dreaded
 dreadful
 dreadlock
