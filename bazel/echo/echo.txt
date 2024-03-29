@@ -32,6 +32,7 @@ easter
 eastward
 eatable
 eaten
+express
 eatery
 eating
 eats
@@ -379,7 +380,6 @@ exporter
 exposable
 expose
 exposure
-express
 expulsion
 exquisite
 extended
