@@ -33,7 +33,6 @@ eastward
 eatable
 eaten
 eatery
-eating
 eats
 ebay
 ebony
@@ -210,6 +209,7 @@ enroll
 enslave
 ensnare
 ensure
+eating
 entail
 entangled
 entering
