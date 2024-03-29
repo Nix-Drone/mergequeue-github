@@ -33,7 +33,6 @@ buyer
 boom
 besides
 bracket
-brief
 banana
 bibliography
 block
@@ -359,6 +358,7 @@ briefs
 bachelor
 beads
 babes
+brief
 brilliant
 bang
 britannica
