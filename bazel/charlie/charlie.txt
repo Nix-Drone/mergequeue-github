@@ -231,6 +231,7 @@ chef
 chemicals
 chemist
 chemo
+cupbearer
 cherisher
 cherub
 chess
@@ -704,7 +705,6 @@ culprit
 cultivate
 cultural
 culture
-cupbearer
 cupcake
 cupid
 cupped
