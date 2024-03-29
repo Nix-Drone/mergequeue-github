@@ -227,6 +227,7 @@ detector
 detention
 detergent
 detest
+drainable
 detonate
 detonator
 detoxify
@@ -440,7 +441,6 @@ dragging
 dragonfly
 dragonish
 dragster
-drainable
 drainage
 drained
 drainer
