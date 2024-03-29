@@ -21,6 +21,7 @@ absolve
 abstract
 absurd
 accent
+animator
 acclimate
 accompany
 account
@@ -205,7 +206,6 @@ animate
 animating
 attach
 animation
-animator
 anime
 animosity
 ankle
