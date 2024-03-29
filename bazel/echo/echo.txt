@@ -28,6 +28,7 @@ easiness
 easing
 eastbound
 eastcoast
+enforced
 easter
 eastward
 eatable
@@ -184,7 +185,6 @@ enduring
 energetic
 energize
 energy
-enforced
 engaged
 engaging
 engine
