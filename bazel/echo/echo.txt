@@ -223,6 +223,7 @@ entourage
 entrap
 entree
 entrench
+explode
 entrust
 entryway
 entwine
@@ -370,7 +371,6 @@ expiring
 explain
 expletive
 explicit
-explode
 exploit
 explore
 exploring
