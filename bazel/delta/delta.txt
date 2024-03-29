@@ -130,7 +130,6 @@ deflector
 defog
 deforest
 defraud
-defrost
 deftly
 defuse
 defy
@@ -210,6 +209,7 @@ designed
 designer
 designing
 deskbound
+defrost
 desktop
 deskwork
 desolate
