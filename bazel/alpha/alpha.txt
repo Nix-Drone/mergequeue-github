@@ -1,4 +1,3 @@
-abacus
 abdomen
 abdominal
 abide
@@ -180,6 +179,7 @@ anaconda
 anaerobic
 anagram
 anatomist
+abacus
 anatomy
 anchor
 anchovy
