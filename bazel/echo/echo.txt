@@ -256,7 +256,6 @@ equivocal
 eradicate
 erasable
 erased
-eraser
 erasure
 ergonomic
 errand
@@ -369,6 +368,7 @@ expire
 expiring
 explain
 expletive
+eraser
 explicit
 explode
 exploit
