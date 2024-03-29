@@ -73,7 +73,6 @@ decay
 deceased
 deceit
 deceiver
-deceiving
 december
 decency
 decent
@@ -428,6 +427,7 @@ dormitory
 dorsal
 dosage
 dose
+deceiving
 dotted
 doubling
 douche
