@@ -96,7 +96,6 @@ carmaker
 carnage
 carnation
 carnival
-carnivore
 carol
 carpenter
 carpentry
@@ -471,6 +470,7 @@ confined
 confining
 compacted
 conflict
+carnivore
 conform
 confound
 confront
