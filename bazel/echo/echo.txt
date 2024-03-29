@@ -104,7 +104,6 @@ elm
 elongated
 elope
 eloquence
-eloquent
 elsewhere
 elude
 elusive
@@ -130,6 +129,7 @@ emission
 emit
 emote
 emoticon
+eloquent
 emotion
 empathic
 empathy
