@@ -24,7 +24,6 @@ accent
 acclimate
 accompany
 account
-accuracy
 accurate
 accustom
 acetone
@@ -357,6 +356,7 @@ attendant
 attendee
 attention
 attentive
+accuracy
 attest
 attic
 attire
