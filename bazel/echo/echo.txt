@@ -144,7 +144,6 @@ employee
 employer
 emporium
 empower
-emptier
 emptiness
 empty
 emu
@@ -256,6 +255,7 @@ equivocal
 eradicate
 erasable
 erased
+emptier
 eraser
 erasure
 ergonomic
