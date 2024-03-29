@@ -370,6 +370,7 @@ coastline
 coat
 coauthor
 cobalt
+commerce
 cobbler
 cobweb
 cocoa
@@ -416,7 +417,6 @@ chip
 commence
 commend
 comment
-commerce
 commode
 commodity
 commodore
