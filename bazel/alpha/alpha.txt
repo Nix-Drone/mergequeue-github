@@ -165,7 +165,6 @@ among
 amount
 amperage
 ample
-amplifier
 amplify
 amply
 amuck
@@ -319,6 +318,7 @@ arrival
 arrive
 action
 arrogance
+amplifier
 arrogant
 arson
 art
