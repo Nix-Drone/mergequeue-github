@@ -91,6 +91,7 @@ decode
 decompose
 decorated
 decorator
+during
 decoy
 decrease
 decree
@@ -527,7 +528,6 @@ durable
 durably
 duration
 duress
-during
 dusk
 dust
 dutiful
