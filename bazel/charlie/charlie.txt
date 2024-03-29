@@ -110,7 +110,6 @@ cartel
 cartload
 carton
 cartoon
-cartridge
 cartwheel
 carve
 casually
@@ -594,6 +593,7 @@ crafter
 craftily
 craftsman
 craftwork
+cartridge
 crafty
 cramp
 cranberry
