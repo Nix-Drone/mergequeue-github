@@ -103,7 +103,6 @@ carpentry
 carpool
 carport
 carried
-carrot
 carrousel
 carry
 cartel
@@ -667,6 +666,7 @@ crowbar
 crowd
 crown
 crucial
+carrot
 crudely
 crudeness
 cruelly
