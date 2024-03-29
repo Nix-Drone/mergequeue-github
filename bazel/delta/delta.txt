@@ -340,7 +340,6 @@ dismiss
 dismount
 disobey
 disorder
-disown
 disparate
 disparity
 dispatch
@@ -467,6 +466,7 @@ drench
 dress
 drew
 dribble
+disown
 dried
 drier
 drift
