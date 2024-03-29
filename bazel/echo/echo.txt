@@ -29,7 +29,6 @@ easing
 eastbound
 eastcoast
 easter
-eastward
 eatable
 eaten
 eatery
@@ -218,6 +217,7 @@ enticing
 entire
 entitle
 entity
+eastward
 entomb
 entourage
 entrap
