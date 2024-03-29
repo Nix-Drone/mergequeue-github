@@ -306,7 +306,6 @@ dirtiness
 disabled
 disagree
 disallow
-disarm
 disarray
 disaster
 disband
@@ -356,6 +355,7 @@ dispose
 disprove
 dispute
 disregard
+disarm
 disrupt
 dissuade
 distance
