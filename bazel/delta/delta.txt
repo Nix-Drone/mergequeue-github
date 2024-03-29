@@ -341,6 +341,7 @@ dismount
 disobey
 disorder
 disown
+dry
 disparate
 disparity
 dispatch
@@ -497,7 +498,6 @@ drown
 drowsily
 drudge
 drum
-dry
 dubbed
 dubiously
 duchess
