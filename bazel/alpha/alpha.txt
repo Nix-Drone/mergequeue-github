@@ -266,7 +266,6 @@ applaud
 applause
 apple
 appliance
-applicant
 applied
 apply
 appointee
@@ -395,6 +394,7 @@ aviator
 avid
 avoid
 await
+applicant
 awaken
 award
 aware
