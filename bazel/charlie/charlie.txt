@@ -299,7 +299,6 @@ clad
 claim
 clambake
 clammy
-clamor
 clamp
 clamshell
 clang
@@ -424,6 +423,7 @@ common
 commotion
 commute
 compacted
+clamor
 compacter
 compactly
 compactor
