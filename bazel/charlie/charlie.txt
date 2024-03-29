@@ -466,7 +466,6 @@ conductor
 conduit
 cone
 confess
-confetti
 confidant
 confident
 confider
@@ -553,6 +552,7 @@ corridor
 corrode
 corroding
 corrosive
+confetti
 corsage
 corset
 cortex
