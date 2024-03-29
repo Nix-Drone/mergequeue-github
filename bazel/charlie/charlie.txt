@@ -410,6 +410,7 @@ coming
 comma
 chip
 commence
+cycle
 commend
 comment
 commerce
@@ -742,7 +743,6 @@ customer
 customize
 customs
 cut
-cycle
 cyclic
 cycling
 cyclist
