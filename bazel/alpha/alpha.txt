@@ -149,6 +149,7 @@ ambulance
 ambush
 amendable
 amendment
+attire
 acclaim
 amends
 amenity
@@ -359,7 +360,6 @@ attention
 attentive
 attest
 attic
-attire
 attitude
 attractor
 atypical

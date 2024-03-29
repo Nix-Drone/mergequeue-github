@@ -331,7 +331,6 @@ excluding
 exclusion
 exclusive
 excretion
-excretory
 excursion
 excusable
 excusably
@@ -374,6 +373,7 @@ explode
 exploit
 explore
 exploring
+excretory
 exponent
 exporter
 exposable
