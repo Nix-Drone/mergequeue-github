@@ -126,7 +126,6 @@ embody
 embolism
 emboss
 embroider
-emcee
 emerald
 emergency
 emission
@@ -363,6 +362,7 @@ expectant
 expedited
 expel
 expend
+emcee
 expenses
 expensive
 expert
