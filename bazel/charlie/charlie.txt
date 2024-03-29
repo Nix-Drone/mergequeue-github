@@ -404,7 +404,6 @@ colonist
 colonize
 colossal
 colt
-coma
 come
 comfort
 comfy
@@ -664,6 +663,7 @@ crop
 crouch
 crouton
 crowbar
+coma
 crowd
 crown
 crucial
