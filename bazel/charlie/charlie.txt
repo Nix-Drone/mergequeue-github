@@ -265,6 +265,7 @@ choosy
 chop
 chosen
 chowder
+consonant
 chowtime
 chrome
 chubby
@@ -493,7 +494,6 @@ consensus
 consent
 console
 consoling
-consonant
 constable
 constant
 constrain
