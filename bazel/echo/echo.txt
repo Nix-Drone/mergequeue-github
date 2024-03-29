@@ -368,6 +368,7 @@ expensive
 expert
 expire
 expiring
+extrude
 explain
 expletive
 explicit
@@ -394,6 +395,5 @@ extortion
 extradite
 extras
 extrovert
-extrude
 extruding
 exuberant
