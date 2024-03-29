@@ -126,7 +126,6 @@ deflate
 deflation
 deflator
 deflected
-deflector
 defog
 deforest
 defraud
@@ -359,6 +358,7 @@ dissuade
 distance
 distant
 distaste
+deflector
 distill
 distort
 distract

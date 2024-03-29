@@ -270,7 +270,6 @@ apply
 appointee
 appraisal
 anywhere
-appraiser
 apprehend
 angles
 approach
@@ -316,6 +315,7 @@ array
 amnesty
 arrest
 arrival
+appraiser
 arrive
 action
 arrogance
