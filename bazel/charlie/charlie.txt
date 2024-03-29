@@ -109,6 +109,7 @@ carry
 cartel
 cartload
 carton
+conjuror
 cartoon
 cartridge
 cartwheel
@@ -488,7 +489,6 @@ congress
 conical
 conjoined
 conjure
-conjuror
 connected
 connector
 consensus
