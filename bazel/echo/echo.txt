@@ -238,7 +238,6 @@ enzyme
 epic
 epidemic
 epidermal
-epidermis
 epidural
 epilepsy
 epileptic
@@ -272,6 +271,7 @@ escapist
 escargot
 eskimo
 esophagus
+epidermis
 espionage
 espresso
 esquire
