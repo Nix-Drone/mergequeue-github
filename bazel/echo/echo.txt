@@ -8,7 +8,6 @@ earlobe
 early
 earmark
 earmuff
-earphone
 earpiece
 earplugs
 earring
@@ -265,6 +264,7 @@ eraser
 erasure
 ergonomic
 errand
+earphone
 errant
 erratic
 error
