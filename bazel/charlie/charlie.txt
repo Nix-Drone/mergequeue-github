@@ -322,6 +322,7 @@ clean
 clear
 colony
 cleat
+creasing
 cleaver
 cleft
 clench
@@ -617,7 +618,6 @@ creamed
 creamer
 creamlike
 crease
-creasing
 creatable
 create
 creative
