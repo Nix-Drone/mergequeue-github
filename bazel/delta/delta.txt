@@ -109,7 +109,6 @@ defame
 default
 defeat
 defection
-defective
 defendant
 defender
 defense
@@ -514,6 +513,7 @@ duh
 duke
 duller
 dullness
+defective
 duly
 dumping
 dumpling
