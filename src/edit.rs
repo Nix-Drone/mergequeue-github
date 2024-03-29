@@ -19,6 +19,7 @@ pub fn change_file(filenames: &[String], count: u32) -> Vec<String> {
         if unique_filenames.contains(filename) {
             continue;
         }
+        println!("Moving a line from {}", filename);
         words.push(move_random_line(filename));
         unique_filenames.insert(filename.to_string());
     }

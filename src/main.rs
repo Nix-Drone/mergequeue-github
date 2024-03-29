@@ -111,7 +111,7 @@ fn create_pull_request(words: &[String]) -> String {
     let commit_msg = format!("Moving words {}", words.join(", "));
     git(&["commit", "-am", &commit_msg]);
     git(&["push", "--set-upstream", "origin", "HEAD"]);
-    
+
     let pr_url = gh(&[
         "pr",
         "create",
@@ -178,7 +178,7 @@ fn run() -> anyhow::Result<()> {
 
     // divide by 6 since we run once every 10 minutes
     let pull_requests_to_make = (config.pull_requests_per_hour as f32 / 6.0).ceil() as usize;
-
+    println!("attempt to open {} prs", pull_requests_to_make);
     let mut prs: Vec<String> = Vec::new();
 
     for _ in 0..pull_requests_to_make {
