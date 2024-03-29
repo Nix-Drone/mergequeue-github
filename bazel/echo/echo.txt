@@ -1,5 +1,4 @@
 each
-eagle
 earache
 eardrum
 earflap
@@ -261,6 +260,7 @@ erasure
 ergonomic
 errand
 errant
+eagle
 erratic
 error
 erupt

@@ -369,6 +369,7 @@ coastland
 coastline
 coat
 coauthor
+compel
 cobalt
 cobbler
 cobweb
@@ -430,7 +431,6 @@ compactor
 companion
 company
 compare
-compel
 compile
 comply
 component
