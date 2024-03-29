@@ -159,7 +159,6 @@ cause
 causing
 cauterize
 caution
-cautious
 cavalier
 casing
 cavalry
@@ -475,6 +474,7 @@ configure
 confined
 confining
 conflict
+cautious
 conform
 confound
 confront
