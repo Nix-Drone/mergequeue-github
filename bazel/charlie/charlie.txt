@@ -261,7 +261,6 @@ chooser
 choosing
 choosy
 chop
-chosen
 chowder
 chowtime
 chrome
@@ -491,6 +490,7 @@ consensus
 consent
 console
 consoling
+chosen
 consonant
 constable
 constant
