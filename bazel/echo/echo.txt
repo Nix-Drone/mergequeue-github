@@ -128,7 +128,6 @@ emerald
 emergency
 emission
 emit
-emote
 emoticon
 emotion
 empathic
@@ -160,6 +159,7 @@ encode
 encore
 encounter
 encourage
+emote
 encroach
 encrust
 encrypt

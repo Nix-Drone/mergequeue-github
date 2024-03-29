@@ -36,6 +36,7 @@ camper
 campfire
 camping
 campsite
+crucial
 campus
 canal
 canary
@@ -666,7 +667,6 @@ crouton
 crowbar
 crowd
 crown
-crucial
 crudely
 crudeness
 cruelly
