@@ -260,6 +260,7 @@ choice
 chokehold
 choking
 chomp
+confused
 chooser
 choosing
 choosy
@@ -478,7 +479,6 @@ conflict
 conform
 confound
 confront
-confused
 confusing
 confusion
 congenial
