@@ -249,7 +249,6 @@ devoutly
 dexterity
 dexterous
 diabetes
-diabetic
 diabolic
 diagnoses
 diagnosis
@@ -524,6 +523,7 @@ duplex
 duplicate
 duplicity
 durable
+diabetic
 durably
 duration
 duress
