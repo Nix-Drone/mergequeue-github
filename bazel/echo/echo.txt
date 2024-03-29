@@ -2,7 +2,6 @@ each
 eagle
 earache
 eardrum
-earflap
 earful
 earlobe
 early
@@ -158,6 +157,7 @@ encircle
 enclose
 enclosure
 encode
+earflap
 encore
 encounter
 encourage
