@@ -29,6 +29,7 @@ easing
 eastbound
 eastcoast
 easter
+energize
 eastward
 eatable
 eaten
@@ -179,7 +180,6 @@ endurable
 endurance
 enduring
 energetic
-energize
 energy
 enforced
 enforcer
