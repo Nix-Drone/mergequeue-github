@@ -92,7 +92,6 @@ agony
 altitude
 annoying
 agreeable
-agreeably
 agreed
 agreeing
 agreement
@@ -291,6 +290,7 @@ area
 arena
 arguable
 arguably
+agreeably
 argue
 arise
 amendment
