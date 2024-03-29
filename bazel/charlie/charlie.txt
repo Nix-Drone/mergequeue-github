@@ -220,7 +220,6 @@ chatroom
 chatter
 chatting
 chatty
-cheating
 cheddar
 cheek
 cheer
@@ -727,6 +726,7 @@ cursor
 curtain
 curtly
 curtsy
+cheating
 curvature
 curve
 curvy
