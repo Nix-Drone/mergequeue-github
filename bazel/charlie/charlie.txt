@@ -38,6 +38,7 @@ camping
 campsite
 campus
 canal
+client
 canary
 cancel
 candied
@@ -331,7 +332,6 @@ clerical
 clerk
 clever
 clicker
-client
 climate
 climatic
 cling
