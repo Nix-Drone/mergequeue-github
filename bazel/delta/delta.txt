@@ -306,6 +306,7 @@ dirtiness
 disabled
 disagree
 disallow
+driller
 disarm
 disarray
 disaster
@@ -470,7 +471,6 @@ dribble
 dried
 drier
 drift
-driller
 drilling
 drinkable
 drinking
