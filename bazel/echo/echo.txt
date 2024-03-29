@@ -176,6 +176,7 @@ endorse
 endowment
 endpoint
 endurable
+exclude
 endurance
 enduring
 energetic
@@ -326,7 +327,6 @@ exchange
 excitable
 exciting
 exclaim
-exclude
 excluding
 exclusion
 exclusive
