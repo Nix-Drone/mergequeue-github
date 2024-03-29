@@ -4,7 +4,7 @@ use gen::cli::{Cli, Subcommands};
 use gen::config::Conf;
 use gen::edit::change_file;
 use gen::github::GitHub;
-use gen::process::{gh, git};
+use gen::process::{gh, git, try_git};
 use rand::Rng;
 use regex::Regex;
 use serde_json::to_string_pretty;
@@ -104,14 +104,19 @@ fn test_with_flakes(config: &Conf) -> bool {
     random_float > config.flake_rate
 }
 
-fn create_pull_request(words: &[String]) -> String {
+fn create_pull_request(words: &[String]) -> Result<String, String> {
     let branch_name = format!("change/{}", words.join("-"));
     git(&["checkout", "-t", "-b", &branch_name]);
 
     let commit_msg = format!("Moving words {}", words.join(", "));
     git(&["commit", "-am", &commit_msg]);
-    git(&["push", "--set-upstream", "origin", "HEAD"]);
-    
+    let result = try_git(&["push", "--set-upstream", "origin", "HEAD"]);
+    if result.is_err() {
+        git(&["checkout", "main"]);
+        git(&["pull"]);
+        return Err("could not push to origin".to_owned());
+    }
+
     let pr_url = gh(&[
         "pr",
         "create",
@@ -130,7 +135,7 @@ fn create_pull_request(words: &[String]) -> String {
     git(&["checkout", "main"]);
     git(&["pull"]);
 
-    pr_number.to_string()
+    Ok(pr_number.to_string())
 }
 
 fn run() -> anyhow::Result<()> {
@@ -195,8 +200,13 @@ fn run() -> anyhow::Result<()> {
         let max_impacted_deps = config.max_impacted_deps as u32; // Convert usize to u32
         let words = change_file(&filenames, max_impacted_deps); // Use the converted value
 
-        let pr = create_pull_request(&words);
+        let pr_result = create_pull_request(&words);
+        if pr_result.is_err() {
+            println!("problem created pr for {:?}", words);
+            continue;
+        }
         let duration = start.elapsed();
+        let pr = pr_result.unwrap();
         println!("created pr: {} in {:?}", pr, duration);
         prs.push(pr);
     }

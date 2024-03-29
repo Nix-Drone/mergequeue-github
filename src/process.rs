@@ -1,24 +1,28 @@
 use std::process::Command;
 
-fn exec(cmd: &str, args: &[&str]) -> String {
+fn exec(cmd: &str, args: &[&str]) -> Result<String, String> {
     let output = Command::new(cmd)
         .args(args)
         .output()
         .expect(&format!("Failed to execute {}", cmd));
 
     if !output.status.success() {
-        eprintln!("stdout: {}", String::from_utf8_lossy(&output.stdout));
         eprintln!("stderr: {}", String::from_utf8_lossy(&output.stderr));
-        panic!("Call to {} {} failed", cmd, args.join(" "));
+        eprintln!("Call to {} {} failed", cmd, args.join(" "));
+        return Err(String::from_utf8_lossy(&output.stderr).into_owned());
+    } else {
+        return Ok(String::from_utf8_lossy(&output.stdout).into_owned());
     }
-
-    String::from_utf8_lossy(&output.stdout).into_owned()
 }
 
 pub fn gh(args: &[&str]) -> String {
-    exec("gh", args)
+    exec("gh", args).expect("gh exec failed")
 }
 
 pub fn git(args: &[&str]) -> String {
+    exec("git", args).expect("git exec failed")
+}
+
+pub fn try_git(args: &[&str]) -> Result<String, String> {
     exec("git", args)
 }
