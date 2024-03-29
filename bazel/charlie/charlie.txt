@@ -35,6 +35,7 @@ camisole
 camper
 campfire
 camping
+carve
 campsite
 campus
 canal
@@ -112,7 +113,6 @@ carton
 cartoon
 cartridge
 cartwheel
-carve
 casually
 carving
 carwash
