@@ -95,7 +95,6 @@ decoy
 decrease
 decree
 dedicate
-dedicator
 deduce
 deduct
 deed
@@ -436,6 +435,7 @@ doze
 drab
 dragging
 dragonfly
+dedicator
 dragster
 drainable
 drainage
