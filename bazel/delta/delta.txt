@@ -235,7 +235,6 @@ deuce
 devalue
 deviancy
 deviant
-deviate
 deviation
 deviator
 device
@@ -536,6 +535,7 @@ duvet
 dwarf
 dweeb
 dwelled
+deviate
 dweller
 dwelling
 dwindle
