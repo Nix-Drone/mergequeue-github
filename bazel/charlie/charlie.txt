@@ -395,7 +395,6 @@ collected
 collide
 collie
 collision
-colonial
 colonist
 colonize
 colossal
@@ -664,6 +663,7 @@ crop
 crouch
 crouton
 crowbar
+colonial
 crowd
 crown
 convent
