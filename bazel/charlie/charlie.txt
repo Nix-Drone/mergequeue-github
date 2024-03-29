@@ -374,7 +374,6 @@ cobbler
 cobweb
 cocoa
 coconut
-cod
 coeditor
 coerce
 coexist
@@ -521,6 +520,7 @@ contusion
 convene
 convent
 copartner
+cod
 cope
 copied
 copier
