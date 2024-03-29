@@ -42,6 +42,7 @@ daybed
 daybreak
 daycare
 daydream
+discolor
 daylight
 daylong
 dayroom
@@ -316,7 +317,6 @@ discard
 discern
 discharge
 disclose
-discolor
 discount
 discourse
 discover
