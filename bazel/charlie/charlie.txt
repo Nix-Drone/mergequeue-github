@@ -206,6 +206,7 @@ chariot
 charity
 charm
 charred
+cope
 charter
 charting
 chase
@@ -516,7 +517,6 @@ control
 contusion
 convene
 copartner
-cope
 copied
 copier
 copilot
