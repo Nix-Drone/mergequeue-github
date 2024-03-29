@@ -335,6 +335,7 @@ clinking
 clip
 clique
 cloak
+crumpled
 clobber
 clock
 clone
@@ -678,7 +679,6 @@ crumb
 crummiest
 crummy
 crumpet
-crumpled
 cruncher
 crunching
 crunchy
