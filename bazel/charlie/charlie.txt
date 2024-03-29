@@ -376,7 +376,6 @@ cocoa
 coconut
 cod
 coeditor
-coerce
 coexist
 coffee
 cofounder
@@ -601,6 +600,7 @@ crane
 cranial
 cranium
 crank
+coerce
 crate
 crave
 craving
