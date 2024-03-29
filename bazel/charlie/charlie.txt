@@ -263,7 +263,6 @@ chomp
 chooser
 choosing
 choosy
-chop
 chosen
 chowder
 chowtime
@@ -576,6 +575,7 @@ countless
 country
 county
 courier
+chop
 covenant
 cover
 coveted
