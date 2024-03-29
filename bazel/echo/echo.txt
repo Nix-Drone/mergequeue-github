@@ -91,6 +91,7 @@ elevation
 elevator
 eleven
 elf
+excluding
 eligible
 eligibly
 eliminate
@@ -327,7 +328,6 @@ excitable
 exciting
 exclaim
 exclude
-excluding
 exclusion
 exclusive
 excretion
