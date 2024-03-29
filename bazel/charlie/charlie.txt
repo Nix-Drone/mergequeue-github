@@ -289,6 +289,7 @@ citable
 citadel
 citation
 citizen
+crushable
 citrus
 city
 civic
@@ -682,7 +683,6 @@ cruncher
 crunching
 crunchy
 crusader
-crushable
 crushed
 crusher
 crushing
