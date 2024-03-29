@@ -128,7 +128,6 @@ emerald
 emergency
 emission
 emit
-emote
 emoticon
 emotion
 empathic
@@ -373,6 +372,7 @@ explicit
 explode
 exploit
 explore
+emote
 exploring
 exponent
 exporter
