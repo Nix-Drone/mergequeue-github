@@ -436,7 +436,6 @@ comply
 component
 composed
 composer
-composite
 compost
 composure
 compound
@@ -584,6 +583,7 @@ coyness
 cozily
 coziness
 cozy
+composite
 crabbing
 crabgrass
 crablike
