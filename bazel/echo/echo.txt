@@ -131,6 +131,7 @@ emit
 emote
 emoticon
 emotion
+exploit
 empathic
 empathy
 emperor
@@ -371,7 +372,6 @@ explain
 expletive
 explicit
 explode
-exploit
 explore
 exploring
 exponent
