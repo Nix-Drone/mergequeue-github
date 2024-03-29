@@ -144,7 +144,6 @@ employee
 employer
 emporium
 empower
-emptier
 emptiness
 empty
 emu
@@ -316,6 +315,7 @@ evolution
 evolve
 exact
 exalted
+emptier
 example
 excavate
 excavator
