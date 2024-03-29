@@ -130,7 +130,6 @@ emission
 emit
 emote
 emoticon
-emotion
 empathic
 empathy
 emperor
@@ -167,6 +166,7 @@ endanger
 endeared
 endearing
 ended
+emotion
 ending
 endless
 endnote
