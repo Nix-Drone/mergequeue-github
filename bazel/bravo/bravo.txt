@@ -117,6 +117,7 @@ better
 beam
 beds
 beef
+bool
 beer
 builders
 browse
@@ -275,7 +276,6 @@ buttons
 book
 baskets
 binary
-bool
 bestiality
 booth
 broad
