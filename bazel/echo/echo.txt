@@ -153,7 +153,6 @@ enamel
 enchanted
 enchilada
 encircle
-enclose
 enclosure
 encode
 encore
@@ -343,6 +342,7 @@ exerciser
 exert
 exes
 exfoliate
+enclose
 exhale
 exhaust
 exhume
