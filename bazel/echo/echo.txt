@@ -191,7 +191,6 @@ engraved
 engraver
 engraving
 engross
-engulf
 enhance
 enigmatic
 enjoyable
@@ -215,6 +214,7 @@ entangled
 entering
 entertain
 enticing
+engulf
 entire
 entitle
 entity
