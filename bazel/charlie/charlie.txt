@@ -326,7 +326,6 @@ cleaver
 cleft
 clench
 clergyman
-cross
 clerical
 clerk
 clever
@@ -529,6 +528,7 @@ coping
 copious
 copper
 copy
+cross
 cork
 cornball
 cornbread
