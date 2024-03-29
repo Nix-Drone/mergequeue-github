@@ -107,7 +107,6 @@ alarm
 albatross
 album
 alfalfa
-algebra
 aloe
 algorithm
 alias
@@ -266,6 +265,7 @@ applaud
 applause
 apple
 appliance
+algebra
 applicant
 applied
 apply
