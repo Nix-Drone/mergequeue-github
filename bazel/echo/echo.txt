@@ -2,6 +2,7 @@ each
 eagle
 earache
 eardrum
+existing
 earflap
 earful
 earlobe
@@ -347,7 +348,6 @@ exhale
 exhaust
 exhume
 exile
-existing
 exit
 exodus
 exonerate
