@@ -42,6 +42,7 @@ ecard
 eccentric
 echo
 eclair
+exporter
 eclipse
 ecologist
 ecology
@@ -375,7 +376,6 @@ exploit
 explore
 exploring
 exponent
-exporter
 exposable
 expose
 exposure
