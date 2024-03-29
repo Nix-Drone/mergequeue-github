@@ -347,6 +347,7 @@ dispatch
 dispense
 dispersal
 dispersed
+drinkable
 disperser
 displace
 display
@@ -472,7 +473,6 @@ drier
 drift
 driller
 drilling
-drinkable
 drinking
 dripping
 drippy
