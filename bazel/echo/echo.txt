@@ -8,6 +8,7 @@ earlobe
 early
 earmark
 earmuff
+exploring
 earphone
 earpiece
 earplugs
@@ -373,7 +374,6 @@ explicit
 explode
 exploit
 explore
-exploring
 exponent
 exporter
 exposable
