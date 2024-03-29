@@ -45,6 +45,7 @@ echo
 eclair
 eclipse
 ecologist
+embroider
 ecology
 economic
 economist
@@ -122,7 +123,6 @@ emblem
 embody
 embolism
 emboss
-embroider
 emcee
 emerald
 emergency
