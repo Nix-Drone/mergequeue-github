@@ -331,7 +331,6 @@ clerical
 clerk
 clever
 clicker
-client
 climate
 climatic
 cling
@@ -449,6 +448,7 @@ concave
 conceal
 conceded
 concerned
+client
 concert
 conch
 concierge
