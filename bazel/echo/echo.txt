@@ -89,7 +89,6 @@ electable
 election
 elective
 elephant
-elevate
 elevating
 elevation
 elevator
@@ -192,6 +191,7 @@ engine
 engraved
 engraver
 engraving
+elevate
 engross
 engulf
 enhance
