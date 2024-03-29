@@ -74,6 +74,7 @@ deceased
 deceit
 deceiver
 deceiving
+disabled
 december
 decency
 decent
@@ -303,7 +304,6 @@ directly
 directory
 direness
 dirtiness
-disabled
 disagree
 disallow
 disarm
