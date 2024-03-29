@@ -179,7 +179,6 @@ anatomist
 anatomy
 anchor
 anchovy
-ancient
 android
 absolute
 anemia
@@ -247,6 +246,7 @@ anyone
 anyplace
 anything
 anytime
+ancient
 anyway
 aorta
 apache
