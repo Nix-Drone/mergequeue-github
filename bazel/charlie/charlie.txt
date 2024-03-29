@@ -121,6 +121,7 @@ case
 cash
 casino
 casket
+chive
 cassette
 casualty
 catacomb
@@ -253,7 +254,6 @@ chirping
 chirpy
 chitchat
 chivalry
-chive
 chloride
 chlorine
 choice
