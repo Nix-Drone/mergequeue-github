@@ -14,4 +14,4 @@ max_deps = 5
 max_impacted_deps = 2
 
 # target number of pull requests per hour
-pull_requests_per_hour = 200
+pull_requests_per_hour = 0
