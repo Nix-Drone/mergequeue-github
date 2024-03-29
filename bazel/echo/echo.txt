@@ -31,7 +31,6 @@ eastcoast
 easter
 eastward
 eatable
-eaten
 eatery
 eating
 eats
@@ -341,6 +340,7 @@ exemplify
 exemption
 exerciser
 exert
+eaten
 exes
 exfoliate
 exhale
