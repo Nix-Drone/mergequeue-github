@@ -122,7 +122,6 @@ cash
 casino
 casket
 cassette
-casualty
 catacomb
 catalog
 catalyst
@@ -550,6 +549,7 @@ corporate
 corral
 correct
 corridor
+casualty
 corrode
 corroding
 corrosive
