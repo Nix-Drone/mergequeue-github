@@ -343,7 +343,6 @@ cloak
 clobber
 clock
 clone
-cloning
 closable
 closure
 clothes
@@ -660,6 +659,7 @@ croak
 crock
 crook
 croon
+cloning
 crop
 crouch
 crouton
