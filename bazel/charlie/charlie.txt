@@ -67,7 +67,6 @@ capitol
 capped
 capricorn
 capsize
-capsule
 caption
 captivate
 captive
@@ -527,6 +526,7 @@ copier
 copilot
 coping
 copious
+capsule
 copper
 copy
 cork
