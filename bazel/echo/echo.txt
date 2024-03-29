@@ -132,7 +132,6 @@ emote
 emoticon
 emotion
 empathic
-empathy
 emperor
 emphases
 emphasis
@@ -382,6 +381,7 @@ exposure
 express
 expulsion
 exquisite
+empathy
 extended
 extending
 extent
