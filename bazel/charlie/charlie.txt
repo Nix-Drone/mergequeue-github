@@ -194,7 +194,6 @@ chance
 change
 channel
 chant
-chaos
 chaperone
 chaplain
 chapped
@@ -565,6 +564,7 @@ cost
 cottage
 cotton
 couch
+chaos
 cough
 could
 countable
