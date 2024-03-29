@@ -36,7 +36,6 @@ acquaint
 acquire
 acre
 acrobat
-acronym
 acting
 activate
 activator
@@ -111,6 +110,7 @@ alfalfa
 algebra
 aloe
 algorithm
+acronym
 alias
 alibi
 alienable
