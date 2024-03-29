@@ -263,7 +263,6 @@ dice
 dicing
 dictate
 dictation
-dictator
 difficult
 diffused
 diffuser
@@ -281,6 +280,7 @@ dimly
 dimmed
 dimmer
 dimness
+dictator
 dimple
 diner
 dingbat
