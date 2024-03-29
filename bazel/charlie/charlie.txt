@@ -330,7 +330,6 @@ cross
 clerical
 clerk
 clever
-clicker
 client
 climate
 climatic
@@ -561,6 +560,7 @@ cosmetics
 cosmic
 cosmos
 cosponsor
+clicker
 cost
 cottage
 cotton
