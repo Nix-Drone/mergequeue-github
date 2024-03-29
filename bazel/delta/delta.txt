@@ -427,7 +427,6 @@ dork
 dormitory
 dorsal
 dosage
-dose
 dotted
 doubling
 douche
@@ -485,6 +484,7 @@ drizzle
 drizzly
 drone
 drool
+dose
 droop
 drop-down
 dropbox
