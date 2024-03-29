@@ -34,7 +34,6 @@ camera
 camisole
 camper
 campfire
-camping
 campsite
 campus
 canal
@@ -504,6 +503,7 @@ construct
 consult
 consumer
 consuming
+camping
 contact
 container
 contempt
