@@ -9,7 +9,6 @@ early
 earmark
 earmuff
 earphone
-earpiece
 earplugs
 earring
 earshot
@@ -229,6 +228,7 @@ entwine
 enunciate
 envelope
 enviable
+earpiece
 enviably
 envious
 envision
