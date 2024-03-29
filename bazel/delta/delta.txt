@@ -131,7 +131,6 @@ defog
 deforest
 defraud
 defrost
-deftly
 defuse
 defy
 degraded
@@ -483,6 +482,7 @@ driveway
 driving
 drizzle
 drizzly
+deftly
 drone
 drool
 droop
