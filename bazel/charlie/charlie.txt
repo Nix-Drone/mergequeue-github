@@ -3,7 +3,6 @@ cabbage
 cabbie
 cabdriver
 cable
-caboose
 cache
 cackle
 cacti
@@ -574,6 +573,7 @@ countdown
 counting
 countless
 country
+caboose
 county
 courier
 covenant
