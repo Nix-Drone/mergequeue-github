@@ -625,7 +625,6 @@ creature
 credible
 credibly
 credit
-creed
 creme
 creole
 crepe
@@ -741,6 +740,7 @@ customer
 customize
 customs
 cut
+creed
 cycle
 cyclic
 cycling
