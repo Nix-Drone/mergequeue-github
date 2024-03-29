@@ -221,7 +221,6 @@ entity
 entomb
 entourage
 entrap
-entree
 entrench
 entrust
 entryway
@@ -345,6 +344,7 @@ exes
 exfoliate
 exhale
 exhaust
+entree
 exhume
 exile
 existing

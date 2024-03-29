@@ -90,6 +90,7 @@ decline
 decode
 decompose
 decorated
+direness
 decorator
 decoy
 decrease
@@ -301,7 +302,6 @@ direction
 directive
 directly
 directory
-direness
 dirtiness
 disabled
 disagree
