@@ -142,7 +142,6 @@ dehydrate
 deity
 dejected
 delay
-delegate
 delegator
 delete
 deletion
@@ -322,6 +321,7 @@ discourse
 discover
 discuss
 disdain
+delegate
 disengage
 disfigure
 disgrace
