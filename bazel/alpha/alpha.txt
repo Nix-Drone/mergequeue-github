@@ -202,7 +202,6 @@ anguished
 angular
 animal
 animate
-animating
 attach
 animation
 animator
@@ -392,6 +391,7 @@ aversion
 avert
 aviation
 aviator
+animating
 avid
 avoid
 await
