@@ -112,7 +112,6 @@ bicycle
 bride
 better
 beam
-beds
 beef
 beer
 builders
@@ -134,6 +133,7 @@ behavior
 brick
 barrier
 beings
+beds
 batch
 bronze
 billion
