@@ -500,7 +500,6 @@ constable
 constant
 constrain
 constrict
-construct
 consult
 consumer
 consuming
@@ -514,6 +513,7 @@ contents
 contest
 context
 contort
+construct
 contour
 contrite
 control
