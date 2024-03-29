@@ -131,7 +131,6 @@ defog
 deforest
 defraud
 defrost
-deftly
 defuse
 defy
 degraded
@@ -216,6 +215,7 @@ desolate
 despair
 despise
 despite
+deftly
 destiny
 destitute
 destruct
