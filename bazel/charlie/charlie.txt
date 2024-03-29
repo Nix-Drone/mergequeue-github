@@ -342,7 +342,6 @@ cloning
 closable
 closure
 clothes
-clothing
 cloud
 clover
 clubbed
@@ -463,6 +462,7 @@ confess
 confetti
 confidant
 confident
+clothing
 confider
 confiding
 configure
