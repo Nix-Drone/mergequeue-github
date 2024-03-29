@@ -119,7 +119,6 @@ cascade
 case
 cash
 casino
-casket
 cassette
 casualty
 catacomb
@@ -601,6 +600,7 @@ crank
 crate
 crave
 craving
+casket
 clunky
 crawfish
 crawlers
