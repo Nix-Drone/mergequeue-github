@@ -4,7 +4,6 @@ cabdriver
 cable
 caboose
 cackle
-cacti
 cactus
 caddy
 cadet
@@ -381,6 +380,7 @@ cobweb
 cocoa
 carpenter
 cod
+cacti
 coeditor
 coerce
 crevice
