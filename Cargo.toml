@@ -1,7 +1,6 @@
 [package]
-name = "trunk-pr-generator"
-version = "0.1.0"
-authors = ["merge <merge@trunk.io>"]
+name = "pr-generator"
+version = "1.0.0"
 license = "MIT"
 description = "pull request generator"
 readme = "README.md"

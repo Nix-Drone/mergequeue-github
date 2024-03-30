@@ -38,18 +38,18 @@ jobs:
       - name: download generator
         run: |
           gh release download --pattern='*.gz' --output tpg.gz --clobber
-          tar -xf tpg.gz
+          tar -xf pg.gz
         env:
           GH_TOKEN: ${{ secrets[steps.choose-secret.outputs.secret_name] }}
 
       - name: run pr-generator
         id: edits
-        run: ./trunk-pr-generator
+        run: ./pr-generator
         env:
           GH_TOKEN: ${{ secrets[steps.choose-secret.outputs.secret_name] }}
 
       - name: run pr-generator
         id: clean
-        run: ./trunk-pr-generator housekeeping
+        run: ./pr-generator housekeeping
         env:
           GH_TOKEN: ${{ secrets[steps.choose-secret.outputs.secret_name] }}

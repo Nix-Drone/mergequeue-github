@@ -469,6 +469,25 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "5b40af805b3121feab8a3c29f04d8ad262fa8e0561883e7653e024ae4479e6de"
 
 [[package]]
+name = "pr-generator"
+version = "1.0.0"
+dependencies = [
+ "anyhow",
+ "clap",
+ "confique",
+ "env_logger",
+ "lazy_static",
+ "log",
+ "parse_duration",
+ "rand",
+ "regex",
+ "serde",
+ "serde_json",
+ "toml 0.8.12",
+ "walkdir",
+]
+
+[[package]]
 name = "proc-macro2"
 version = "1.0.79"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -722,25 +741,6 @@ dependencies = [
  "serde_spanned",
  "toml_datetime",
  "winnow",
-]
-
-[[package]]
-name = "trunk-pr-generator"
-version = "0.1.0"
-dependencies = [
- "anyhow",
- "clap",
- "confique",
- "env_logger",
- "lazy_static",
- "log",
- "parse_duration",
- "rand",
- "regex",
- "serde",
- "serde_json",
- "toml 0.8.12",
- "walkdir",
 ]
 
 [[package]]
