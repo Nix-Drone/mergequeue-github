@@ -382,7 +382,6 @@ cocoa
 carpenter
 cod
 cacti
-coeditor
 coerce
 crevice
 confetti
@@ -456,6 +455,7 @@ computer
 computing
 comrade
 concave
+coeditor
 conceded
 concerned
 concert
