@@ -189,7 +189,6 @@ chamomile
 creation
 champion
 change
-channel
 chant
 chaperone
 crawlers
@@ -589,6 +588,7 @@ cover
 coveted
 coyness
 cozily
+channel
 cozy
 crabbing
 crabgrass
