@@ -94,7 +94,6 @@ elevator
 elf
 eligible
 eligibly
-enforcer
 elite
 elitism
 elk
@@ -209,6 +208,7 @@ enrich
 enroll
 enslave
 ensure
+enforcer
 entail
 entangled
 entering
