@@ -141,6 +141,7 @@ deity
 delay
 delegator
 delete
+dust
 deletion
 delicacy
 delicious
@@ -534,7 +535,6 @@ distract
 duress
 during
 dusk
-dust
 dutiful
 duty
 duvet
