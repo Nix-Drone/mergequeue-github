@@ -117,6 +117,7 @@ defender
 defense
 deferral
 deferred
+dropkick
 defiant
 defiling
 define
@@ -497,7 +498,6 @@ dose
 droop
 drop-down
 dropbox
-dropkick
 droplet
 dropper
 drove

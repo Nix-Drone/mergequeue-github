@@ -90,6 +90,7 @@ elevation
 elevator
 elf
 eligible
+excavator
 enforcer
 elite
 elitism
@@ -321,7 +322,6 @@ evolve
 exact
 example
 excavate
-excavator
 exceeding
 exception
 excess
