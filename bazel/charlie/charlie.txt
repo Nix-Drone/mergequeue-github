@@ -191,7 +191,6 @@ chance
 change
 channel
 chant
-chaos
 chaperone
 chaplain
 chapped
@@ -293,6 +292,7 @@ circling
 circular
 circulate
 circus
+chaos
 citable
 citadel
 citation
