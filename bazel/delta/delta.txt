@@ -125,7 +125,6 @@ define
 definite
 deflate
 deflation
-deflator
 deflected
 deflector
 defog
@@ -440,6 +439,7 @@ down
 dowry
 deceased
 doze
+deflator
 ditzy
 dragging
 dragonfly
