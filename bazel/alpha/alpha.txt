@@ -308,7 +308,6 @@ armful
 armhole
 arming
 armoire
-aflame
 armored
 armory
 armrest
@@ -337,6 +336,7 @@ ashes
 atlantic
 ashy
 aside
+aflame
 askew
 asleep
 attention

@@ -318,7 +318,6 @@ claw
 clay
 clean
 clear
-colony
 creasing
 cleaver
 cleft
@@ -720,6 +719,7 @@ curing
 curled
 curler
 curliness
+colony
 curling
 curly
 curse
