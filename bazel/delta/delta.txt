@@ -143,7 +143,6 @@ delay
 delegator
 delete
 deletion
-delicacy
 devouring
 delicious
 delighted
@@ -407,6 +406,7 @@ dehydrate
 domain
 domelike
 degraded
+delicacy
 domestic
 dominion
 district
