@@ -323,7 +323,6 @@ clarity
 clash
 class
 cone
-clatter
 clause
 clavicle
 claw
@@ -470,6 +469,7 @@ confess
 confetti
 crop
 confidant
+clatter
 confider
 confiding
 configure
