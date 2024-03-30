@@ -182,7 +182,6 @@ chain
 chair
 colonial
 challenge
-chamber
 chamomile
 champion
 chance
@@ -634,6 +633,7 @@ creed
 creme
 creole
 crepe
+chamber
 crept
 crescent
 crested
