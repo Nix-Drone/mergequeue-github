@@ -374,7 +374,6 @@ cobalt
 cytoplasm
 cobweb
 cocoa
-coconut
 cod
 coeditor
 coerce
@@ -612,6 +611,7 @@ crate
 crave
 craving
 clunky
+coconut
 crawfish
 crawlers
 crawling
