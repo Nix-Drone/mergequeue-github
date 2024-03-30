@@ -419,6 +419,7 @@ donor
 donut
 doodle
 doorbell
+defile
 doorframe
 defiance
 doorknob
@@ -540,7 +541,6 @@ dutiful
 duty
 duvet
 dwarf
-defile
 dweeb
 dweller
 dwelling
