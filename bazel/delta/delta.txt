@@ -298,7 +298,6 @@ direness
 dirtiness
 disabled
 disagree
-darkening
 disallow
 disarm
 disarray
@@ -381,6 +380,7 @@ divinity
 divisible
 divisibly
 dose
+darkening
 division
 divisive
 divorcee
