@@ -32,7 +32,6 @@ eastbound
 eastcoast
 enforced
 easter
-eastward
 eatable
 eaten
 eatery
@@ -59,6 +58,7 @@ edge
 edginess
 edging
 edgy
+eastward
 edition
 editor
 embassy
