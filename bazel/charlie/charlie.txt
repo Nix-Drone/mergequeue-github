@@ -191,7 +191,6 @@ champion
 change
 channel
 chant
-chaos
 chaperone
 crawlers
 chaplain
@@ -296,6 +295,7 @@ circling
 circular
 circulate
 circus
+chaos
 citable
 citadel
 citizen
