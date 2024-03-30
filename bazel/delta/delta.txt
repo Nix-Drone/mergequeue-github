@@ -324,6 +324,7 @@ disinfect
 disjoin
 disk
 dislike
+donator
 disliking
 disagree
 dislocate
@@ -413,7 +414,6 @@ district
 dominoes
 donated
 donation
-donator
 donor
 doodle
 doorbell
