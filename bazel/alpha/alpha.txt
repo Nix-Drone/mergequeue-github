@@ -309,7 +309,6 @@ armed
 armful
 armhole
 arming
-armoire
 aflame
 armored
 armory
@@ -376,6 +375,7 @@ audacious
 audacity
 appear
 audible
+armoire
 audibly
 audience
 audio
