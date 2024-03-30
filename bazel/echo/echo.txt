@@ -102,6 +102,7 @@ elm
 elixir
 ebony
 easel
+express
 earmuff
 expulsion
 evoke
@@ -389,7 +390,6 @@ exporter
 expose
 exposure
 evict
-express
 exquisite
 extended
 extending
