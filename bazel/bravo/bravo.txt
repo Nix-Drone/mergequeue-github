@@ -55,6 +55,7 @@ basics
 bookstore
 buffer
 blow
+bookings
 benefits
 book
 barnes
@@ -276,7 +277,6 @@ basketball
 bras
 boring
 bluetooth
-bookings
 blocked
 boundary
 beta
