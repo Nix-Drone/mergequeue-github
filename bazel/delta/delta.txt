@@ -99,6 +99,7 @@ decoy
 decrease
 decree
 dedicate
+drinking
 deduce
 deduct
 deed
@@ -472,7 +473,6 @@ drift
 driller
 drilling
 drinkable
-drinking
 dripping
 delegate
 drippy

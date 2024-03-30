@@ -130,6 +130,7 @@ emergency
 emit
 emote
 extortion
+employer
 emotion
 educated
 empathic
@@ -143,7 +144,6 @@ empirical
 engine
 employed
 employee
-employer
 earache
 emporium
 eloquence
