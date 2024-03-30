@@ -124,7 +124,6 @@ brick
 barrier
 believe
 beings
-batch
 bronze
 billion
 belong
@@ -200,6 +199,7 @@ boutique
 beautiful
 bios
 beyond
+batch
 bacteria
 bird
 blocking
