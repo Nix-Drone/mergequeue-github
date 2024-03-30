@@ -237,6 +237,7 @@ ascension
 antirust
 antitoxic
 antitrust
+award
 antiviral
 armless
 aviation
@@ -402,7 +403,6 @@ avoid
 angriness
 await
 awaken
-award
 awhile
 awning
 aground
