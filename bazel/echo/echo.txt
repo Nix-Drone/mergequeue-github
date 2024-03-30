@@ -154,7 +154,6 @@ enclose
 enclosure
 encode
 encore
-encounter
 eloquent
 expand
 encourage
@@ -187,6 +186,7 @@ engraving
 engross
 engulf
 ellipse
+encounter
 enhance
 enigmatic
 engine
