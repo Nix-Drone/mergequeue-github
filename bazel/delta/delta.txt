@@ -419,7 +419,6 @@ doorframe
 defiance
 doorman
 doormat
-doorpost
 doorstep
 doorstop
 doorway
@@ -491,6 +490,7 @@ droop
 drop-down
 dropbox
 droplet
+doorpost
 dropper
 drove
 drown
