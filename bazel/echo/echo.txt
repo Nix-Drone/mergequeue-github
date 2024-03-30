@@ -209,7 +209,6 @@ enlighten
 enlisted
 enrage
 enrich
-enroll
 extrude
 enslave
 ensure
@@ -330,6 +329,7 @@ edginess
 eccentric
 exact
 encrypt
+enroll
 exciting
 exclaim
 exclude

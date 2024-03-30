@@ -211,6 +211,7 @@ chamber
 chariot
 charity
 charm
+credit
 charred
 charter
 charting
@@ -636,7 +637,6 @@ creative
 credible
 credibly
 cedar
-credit
 creed
 creme
 creature
