@@ -57,6 +57,7 @@ bookstore
 benjamin
 buffer
 benefits
+book
 barnes
 billing
 boob
@@ -270,7 +271,6 @@ biographies
 britney
 bacterial
 buttons
-book
 baskets
 bears
 binary
