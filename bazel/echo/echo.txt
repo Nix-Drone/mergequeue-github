@@ -136,6 +136,7 @@ emit
 emote
 extortion
 emotion
+expansion
 educated
 empathic
 empathy
@@ -364,7 +365,6 @@ exit
 exonerate
 entail
 edition
-expansion
 expansive
 elated
 expectant
