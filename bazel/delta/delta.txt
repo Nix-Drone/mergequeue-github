@@ -392,7 +392,6 @@ dock
 doctrine
 document
 duckbill
-dodge
 dodgy
 doily
 doing
@@ -420,6 +419,7 @@ doorframe
 defiance
 doorknob
 doorman
+dodge
 doormat
 doornail
 doorpost
