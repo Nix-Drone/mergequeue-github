@@ -185,7 +185,6 @@ bills
 barriers
 binding
 branch
-bases
 bloom
 biol
 briefing
@@ -305,6 +304,7 @@ biological
 battery
 becoming
 bracelets
+bases
 batteries
 burke
 bones

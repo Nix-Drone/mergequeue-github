@@ -45,7 +45,6 @@ echo
 eclair
 eclipse
 elated
-embroider
 ecology
 economist
 economy
@@ -242,6 +241,7 @@ epidemic
 epidermal
 ensnare
 epidermis
+embroider
 epilepsy
 epiphany
 episode
