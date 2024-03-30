@@ -126,7 +126,6 @@ emit
 emote
 emoticon
 extortion
-emotion
 educated
 empathic
 empathy
@@ -190,6 +189,7 @@ ellipse
 enhance
 enigmatic
 engine
+emotion
 engorge
 enjoyable
 emphatic
