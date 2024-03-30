@@ -92,7 +92,6 @@ declared
 decline
 decode
 decompose
-decorated
 dizziness
 decorator
 decoy
@@ -473,6 +472,7 @@ driller
 drilling
 drinkable
 drinking
+decorated
 dripping
 delegate
 drippy
