@@ -326,6 +326,7 @@ exception
 excess
 exchange
 excitable
+explode
 eccentric
 exciting
 exclaim
@@ -373,7 +374,6 @@ expiring
 explain
 expletive
 explicit
-explode
 exploit
 explore
 exploring
