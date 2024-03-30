@@ -152,6 +152,7 @@ cherub
 cattail
 commuting
 cattle
+constant
 cavalry
 compound
 catwalk
@@ -501,7 +502,6 @@ consoling
 chosen
 consonant
 constable
-constant
 constrain
 constrict
 consult
