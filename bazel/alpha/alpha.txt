@@ -47,7 +47,6 @@ actress
 acts
 almost
 acutely
-acuteness
 aeration
 aerobics
 aerospace
@@ -389,6 +388,7 @@ author
 autistic
 automaker
 abdomen
+acuteness
 automated
 automatic
 autopilot
