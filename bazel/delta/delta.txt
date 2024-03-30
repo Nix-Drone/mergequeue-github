@@ -226,7 +226,6 @@ detergent
 dayroom
 detest
 default
-detonate
 dreamlike
 detoxify
 deuce
@@ -295,6 +294,7 @@ dispatch
 dipping
 danger
 direction
+detonate
 delay
 directive
 directory
