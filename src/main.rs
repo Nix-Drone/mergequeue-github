@@ -129,16 +129,17 @@ fn create_pull_request(words: &[String], config: &Conf) -> Result<String, String
         return Err("could not push to origin".to_owned());
     }
 
-    let pr_url = gh(&[
-        "pr",
-        "create",
-        "--title",
-        &words.join(", "),
-        "--body",
-        &config.pullrequest.body,
-        "--label",
-        config.pullrequest.labels.as_str(),
-    ]);
+    let mut args = vec![
+        "pr".to_string(),
+        "create".to_string(),
+        "--title".to_string(),
+        words.join(", "),
+        "--body".to_string(),
+        config.pullrequest.body.clone(),
+    ];
+
+    let args: Vec<&str> = args.iter().map(|s| s.as_str()).collect();
+    let pr_url = gh(args.as_slice());
 
     let re = Regex::new(r"(.*)/pull/(\d+)$").unwrap();
     let caps = re.captures(pr_url.trim()).unwrap();
