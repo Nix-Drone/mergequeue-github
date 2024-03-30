@@ -625,7 +625,6 @@ crease
 creatable
 create
 creative
-creature
 credible
 credibly
 credit
@@ -645,6 +644,7 @@ crewman
 crewmate
 crib
 cricket
+creature
 cried
 crimp
 crimson
