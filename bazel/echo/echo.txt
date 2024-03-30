@@ -139,7 +139,6 @@ emperor
 entail
 emphases
 evacuee
-emphasize
 elephant
 empirical
 employed
@@ -193,6 +192,7 @@ engraver
 engraving
 engross
 ellipse
+emphasize
 enhance
 enigmatic
 enjoyable
