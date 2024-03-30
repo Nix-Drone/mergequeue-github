@@ -139,7 +139,6 @@ dehydrate
 deity
 delay
 delegator
-delete
 deletion
 delicacy
 delicious
@@ -364,6 +363,7 @@ distaste
 distill
 distort
 distress
+delete
 dragonish
 district
 distrust
