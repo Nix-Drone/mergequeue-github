@@ -144,7 +144,6 @@ bench
 bouquet
 benchmark
 benefit
-berkeley
 berlin
 bored
 behalf
@@ -352,6 +351,7 @@ battlefield
 bargains
 budapest
 bass
+berkeley
 bell
 beat
 baseball
