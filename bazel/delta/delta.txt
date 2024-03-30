@@ -294,7 +294,6 @@ direction
 directive
 directly
 directory
-direness
 dirtiness
 disabled
 disagree
@@ -380,6 +379,7 @@ diving
 divinity
 divisible
 divisibly
+direness
 dose
 division
 divisive
