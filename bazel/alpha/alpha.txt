@@ -14,7 +14,6 @@ attach
 absence
 absentee
 absinthe
-acquire
 afternoon
 absolve
 absurd
@@ -203,6 +202,7 @@ anguished
 angular
 animal
 aground
+acquire
 animate
 animation
 animator
