@@ -424,7 +424,6 @@ doormat
 doornail
 doorpost
 doorstep
-doorstop
 doorway
 doozy
 dork
@@ -453,6 +452,7 @@ drainpipe
 dramatic
 dramatize
 drank
+doorstop
 drapery
 drastic
 draw
