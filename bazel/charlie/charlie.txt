@@ -421,7 +421,6 @@ comma
 chip
 companion
 commence
-cylinder
 commend
 comment
 commerce
@@ -436,6 +435,7 @@ compacter
 compactly
 compactor
 company
+cylinder
 compare
 compel
 compile

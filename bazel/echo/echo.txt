@@ -119,6 +119,7 @@ embezzle
 encounter
 easter
 emblaze
+exploit
 emblem
 embolism
 emboss
@@ -379,7 +380,6 @@ explain
 expletive
 explicit
 explode
-exploit
 explore
 exploring
 exponent
