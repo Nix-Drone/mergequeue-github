@@ -248,6 +248,7 @@ diagram
 dial
 diameter
 diaper
+duty
 diaphragm
 diary
 dice
@@ -536,7 +537,6 @@ ducky
 dusk
 dreamt
 dust
-duty
 duvet
 dwarf
 defile
