@@ -193,7 +193,6 @@ change
 channel
 chant
 chaos
-chaperone
 chaplain
 chapped
 chaps
@@ -437,6 +436,7 @@ compactly
 compactor
 company
 compare
+chaperone
 compel
 compile
 comply
