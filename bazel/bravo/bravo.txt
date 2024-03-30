@@ -216,6 +216,7 @@ bite
 battlefield
 bizrate
 balls
+bind
 bosnia
 black
 bufing
@@ -340,7 +341,6 @@ begin
 blues
 bell
 brands
-bind
 break
 broadcast
 bible
