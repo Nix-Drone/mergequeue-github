@@ -2,7 +2,6 @@ cabbage
 cabbie
 cabdriver
 cable
-caboose
 cackle
 cactus
 caddy
@@ -205,6 +204,7 @@ charcoal
 charger
 charging
 comic
+caboose
 chamber
 chariot
 charity
