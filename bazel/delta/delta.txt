@@ -419,7 +419,6 @@ doodle
 doorbell
 doorframe
 defiance
-doorknob
 doorman
 doormat
 doorpost
@@ -459,6 +458,7 @@ draw
 dreaded
 dreadful
 dreadlock
+doorknob
 dreamboat
 dreamily
 dreamland
