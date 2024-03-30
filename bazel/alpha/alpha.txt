@@ -93,6 +93,7 @@ altitude
 annoying
 agreed
 agreeing
+animate
 agreement
 ahead
 ahoy
@@ -200,7 +201,6 @@ anguished
 angular
 animal
 aground
-animate
 attach
 animation
 animator
