@@ -151,7 +151,6 @@ base
 berkeley
 berlin
 bermuda
-bored
 behalf
 bold
 blogs
@@ -342,6 +341,7 @@ begin
 blues
 bell
 brands
+bored
 break
 broadcast
 burns
