@@ -355,7 +355,6 @@ cloning
 closable
 closure
 clothes
-clothing
 cloud
 clover
 clubbed
@@ -632,6 +631,7 @@ create
 creative
 credible
 credibly
+clothing
 cedar
 credit
 creed
