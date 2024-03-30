@@ -35,21 +35,21 @@ jobs:
         with:
           tools: gh jq
 
-      - name: download generator
+      - name: download mq
         run: |
-          gh release download --pattern='*.gz' --output tpg.gz --clobber
-          tar -xf pg.gz
+          gh release download --pattern='*.gz' --output mq.gz --clobber
+          tar -xf mq.gz
         env:
           GH_TOKEN: ${{ secrets[steps.choose-secret.outputs.secret_name] }}
 
-      - name: run pr-generator
+      - name: run mq
         id: edits
-        run: ./pr-generator
+        run: ./mq
         env:
           GH_TOKEN: ${{ secrets[steps.choose-secret.outputs.secret_name] }}
 
-      - name: run pr-generator
+      - name: run mq
         id: clean
-        run: ./pr-generator housekeeping
+        run: ./mq housekeeping
         env:
           GH_TOKEN: ${{ secrets[steps.choose-secret.outputs.secret_name] }}

@@ -25,8 +25,8 @@ jobs:
 
       - name: download generator
         run: |
-          gh release download --pattern='*.gz' --output tpg.gz --clobber
-          tar -xf tpg.gz
+          gh release download --pattern='*.gz' --output mq.gz --clobber
+          tar -xf mq.gz
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -45,6 +45,6 @@ jobs:
         # so we can simulate delay and flakiness
         if: steps.check_is_merge.outputs.on_merge == 'true'
         run: |
-          ./trunk-pr-generator test-sim
+          ./mq test-sim
         env:
           IS_MERGE: ${{ steps.check_is_merge.outputs.on_merge }}

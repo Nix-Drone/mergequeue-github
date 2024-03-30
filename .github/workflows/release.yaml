@@ -38,7 +38,7 @@ jobs:
       - uses: actions/upload-artifact@v3
         with:
           name: ${{ matrix.target }}
-          path: target/${{ matrix.target }}/release/trunk-pr-generator
+          path: target/${{ matrix.target }}/release/mq
 
   tag_and_release:
     name: Tag and Release [ ${{ github.event.inputs.release_tag }} ]
@@ -62,10 +62,10 @@ jobs:
         run: |
           for target in $(ls build)
           do
-            chmod u+x build/${target}/trunk-pr-generator
+            chmod u+x build/${target}/mq
             tar czvf \
-              build/trunk-pr-generator-${{ github.event.inputs.release_tag }}-${target}.tar.gz \
-              -C build/${target} trunk-pr-generator
+              build/mq-${{ github.event.inputs.release_tag }}-${target}.tar.gz \
+              -C build/${target} mq
           done
 
       - name: Create GH release and upload binary
