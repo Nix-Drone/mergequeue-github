@@ -374,6 +374,7 @@ cobweb
 cocoa
 coconut
 cod
+commerce
 coeditor
 coerce
 coexist
@@ -414,7 +415,6 @@ chip
 commence
 commend
 comment
-commerce
 commode
 commodity
 commodore
