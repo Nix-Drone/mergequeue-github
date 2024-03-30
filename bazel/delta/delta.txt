@@ -1,5 +1,6 @@
 dab
 dad
+drivable
 daffodil
 dagger
 delicate
@@ -481,7 +482,6 @@ delegate
 drippy
 depth
 decal
-drivable
 driven
 driver
 driving

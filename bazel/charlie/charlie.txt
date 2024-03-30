@@ -125,7 +125,6 @@ cache
 cassette
 casualty
 catacomb
-chance
 catalog
 catalyst
 cataract
@@ -735,6 +734,7 @@ curtsy
 concur
 curvature
 curve
+chance
 cusp
 crystal
 cussed
