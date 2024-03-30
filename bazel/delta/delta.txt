@@ -261,7 +261,6 @@ diffuser
 diffusion
 diffusive
 dig
-dilation
 diligence
 delta
 diligent
@@ -306,6 +305,7 @@ disburse
 discard
 discern
 discharge
+dilation
 dumping
 disclose
 discount
