@@ -101,6 +101,7 @@ deduct
 deed
 deem
 deepen
+delegate
 dropout
 deeply
 deepness
@@ -520,7 +521,6 @@ dupe
 duplex
 debrief
 defy
-delegate
 duplicate
 duplicity
 dinner
