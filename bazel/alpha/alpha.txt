@@ -10,7 +10,6 @@ aids
 abnormal
 abrasive
 abridge
-automated
 attach
 absence
 absentee
@@ -88,6 +87,7 @@ agnostic
 agonize
 avenge
 agonizing
+automated
 avatar
 altitude
 agreed
