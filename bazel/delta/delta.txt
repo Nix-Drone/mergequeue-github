@@ -260,7 +260,6 @@ dejected
 difficult
 diffused
 diffuser
-diffusion
 diffusive
 dig
 dilation
@@ -359,6 +358,7 @@ disrupt
 dissuade
 distance
 distant
+diffusion
 dumping
 distaste
 distill
