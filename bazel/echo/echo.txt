@@ -122,6 +122,7 @@ embezzle
 encounter
 easter
 emblaze
+expenses
 exploit
 embolism
 emboss
@@ -349,7 +350,6 @@ excusably
 excuse
 exemplary
 exodus
-expenses
 exemption
 exorcist
 exerciser
