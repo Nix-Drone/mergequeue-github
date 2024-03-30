@@ -139,6 +139,7 @@ fn create_pull_request(words: &[String], config: &Conf) -> Result<String, String
         &config.pullrequest.body,
     ];
 
+    println!("{:?}", config.pullrequest.labels);
     println!("{:?}", config.pullrequest.labels.split(','));
 
     for lbl in config.pullrequest.labels.split(',') {
