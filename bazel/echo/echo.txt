@@ -157,7 +157,6 @@ enchilada
 encircle
 enclose
 enclosure
-encode
 encore
 encounter
 expand
@@ -277,6 +276,7 @@ espionage
 espresso
 ended
 esquire
+encode
 endpoint
 essay
 essence

@@ -217,7 +217,6 @@ chaste
 chastise
 census
 chastity
-chatroom
 chatter
 chatting
 chatty
@@ -569,6 +568,7 @@ couch
 cough
 could
 countable
+chatroom
 coral
 creation
 countdown
