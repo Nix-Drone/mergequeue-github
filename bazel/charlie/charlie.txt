@@ -198,6 +198,7 @@ chaps
 crier
 chapter
 coaster
+chop
 character
 charbroil
 composure
@@ -271,7 +272,6 @@ chomp
 chooser
 choosing
 choosy
-chop
 chowder
 chrome
 chuck
