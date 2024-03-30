@@ -235,7 +235,6 @@ chef
 chemicals
 chemist
 chemo
-cherisher
 chess
 chest
 chevron
@@ -394,6 +393,7 @@ cola
 cold
 coleslaw
 coliseum
+cherisher
 collage
 collapse
 collar
