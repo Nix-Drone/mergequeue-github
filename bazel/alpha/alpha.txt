@@ -106,6 +106,7 @@ album
 atonable
 algebra
 algorithm
+anthology
 alias
 alibi
 amber
@@ -226,7 +227,6 @@ antennae
 ashen
 anthem
 anthill
-anthology
 antibody
 antidote
 amid
