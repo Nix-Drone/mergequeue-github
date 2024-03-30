@@ -137,7 +137,7 @@ fn create_pull_request(words: &[String], config: &Conf) -> Result<String, String
         "--body",
         &config.pullrequest.body,
         "--label",
-        "bot-pr",
+        config.pullrequest.labels.as_str(),
     ]);
 
     let re = Regex::new(r"(.*)/pull/(\d+)$").unwrap();
