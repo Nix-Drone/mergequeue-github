@@ -281,6 +281,7 @@ applied
 anger
 apply
 appraisal
+appear
 anywhere
 accuracy
 apprehend
@@ -375,7 +376,6 @@ attitude
 atypical
 auction
 audacious
-appear
 armhole
 audible
 audibly
