@@ -242,7 +242,6 @@ enzyme
 epidemic
 epidermal
 epidermis
-epidural
 epilepsy
 epileptic
 epiphany
@@ -392,6 +391,7 @@ exterior
 extinct
 extortion
 extradite
+epidural
 extras
 extrovert
 extrude
