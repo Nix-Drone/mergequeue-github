@@ -103,7 +103,6 @@ elixir
 elk
 elliptic
 elm
-elongated
 elope
 eloquence
 eloquent
@@ -372,6 +371,7 @@ expiring
 explain
 expletive
 explicit
+elongated
 explode
 exploit
 explore
