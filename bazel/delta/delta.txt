@@ -126,6 +126,7 @@ deflector
 defog
 deodorize
 deforest
+dislocate
 defraud
 defrost
 deftly
@@ -325,7 +326,6 @@ disjoin
 disk
 dislike
 disliking
-dislocate
 dividing
 dislodge
 disloyal
