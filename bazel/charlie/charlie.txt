@@ -182,7 +182,6 @@ chain
 chair
 colonial
 challenge
-chamber
 chamomile
 champion
 chance
@@ -203,6 +202,7 @@ charcoal
 charger
 charging
 comic
+chamber
 chariot
 charity
 charm
