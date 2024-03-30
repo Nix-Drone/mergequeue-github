@@ -148,6 +148,7 @@ amendable
 acclaim
 amends
 amenity
+angriness
 amiable
 amicably
 amigo
@@ -359,7 +360,6 @@ atom
 atonable
 atop
 atrophy
-angriness
 avert
 attain
 attempt
