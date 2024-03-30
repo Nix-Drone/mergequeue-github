@@ -311,6 +311,7 @@ cone
 clamshell
 clanking
 clapper
+contend
 clapping
 clarify
 crank
@@ -513,7 +514,6 @@ consuming
 container
 contempt
 context
-contend
 contented
 contently
 contents
