@@ -294,7 +294,6 @@ directory
 direness
 dirtiness
 disabled
-disagree
 darkening
 disallow
 disarm
@@ -323,6 +322,7 @@ disjoin
 disk
 dislike
 disliking
+disagree
 dislocate
 dividing
 dexterous
