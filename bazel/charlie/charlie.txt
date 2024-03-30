@@ -118,7 +118,6 @@ cascade
 case
 cash
 casino
-casket
 cache
 cassette
 casualty
@@ -593,6 +592,7 @@ crabmeat
 cradle
 cradling
 catapult
+casket
 crafter
 craftily
 craftsman
