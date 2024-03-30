@@ -140,6 +140,7 @@ fn create_pull_request(words: &[String], config: &Conf) -> Result<String, String
     ];
 
     for lbl in config.pullrequest.labels.split(',') {
+        println!("label: {}", lbl.trim());
         args.push("--label");
         args.push(lbl.trim());
     }
