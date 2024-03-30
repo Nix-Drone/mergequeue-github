@@ -110,6 +110,7 @@ appointee
 activate
 attention
 aliens
+antler
 alike
 alive
 alkaline
@@ -266,7 +267,6 @@ appendage
 appendix
 approve
 appetite
-antler
 appetizer
 applaud
 applause
