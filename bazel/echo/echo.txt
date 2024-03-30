@@ -63,7 +63,6 @@ edition
 editor
 embassy
 education
-educator
 eel
 effective
 effects
@@ -216,6 +215,7 @@ entangled
 entering
 elderly
 entertain
+educator
 enticing
 entire
 entitle
