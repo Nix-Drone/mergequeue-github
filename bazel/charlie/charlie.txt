@@ -241,6 +241,7 @@ chest
 chevron
 chevy
 chewable
+coping
 chewer
 chewing
 chewy
@@ -523,7 +524,6 @@ copartner
 copied
 copier
 copilot
-coping
 copious
 copper
 copy
