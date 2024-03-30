@@ -340,7 +340,6 @@ clip
 clique
 cloak
 crumpled
-clobber
 clock
 clone
 cloning
@@ -552,6 +551,7 @@ corral
 catfish
 correct
 corridor
+clobber
 corrode
 corroding
 corrosive
