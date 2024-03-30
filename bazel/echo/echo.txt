@@ -191,7 +191,6 @@ engraved
 engraver
 engraving
 engross
-engulf
 ellipse
 enhance
 enigmatic
@@ -249,6 +248,7 @@ episode
 expediter
 equal
 equation
+engulf
 equator
 equinox
 equipment
