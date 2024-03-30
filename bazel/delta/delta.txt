@@ -228,7 +228,6 @@ deuce
 deviancy
 deviant
 deviate
-deviation
 deviator
 device
 distance
@@ -543,6 +542,7 @@ dwarf
 defile
 dweeb
 dweller
+deviation
 dwelling
 dwindle
 dynamic
