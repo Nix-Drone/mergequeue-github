@@ -187,7 +187,6 @@ android
 absolute
 anemia
 anemic
-aneurism
 anew
 angelic
 anger
@@ -352,6 +351,7 @@ astride
 astronaut
 astronomy
 astute
+aneurism
 atlas
 atom
 atonable
