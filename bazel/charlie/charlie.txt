@@ -65,7 +65,6 @@ capped
 capricorn
 capsize
 capsule
-caption
 captivate
 captive
 capture
@@ -458,6 +457,7 @@ childcare
 condense
 condiment
 condition
+caption
 condone
 conducive
 conductor
