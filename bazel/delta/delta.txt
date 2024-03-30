@@ -105,7 +105,6 @@ deepness
 deface
 defacing
 defame
-default
 defeat
 defection
 defective
@@ -222,6 +221,7 @@ detention
 discover
 detergent
 detest
+default
 detonate
 detonator
 detoxify
