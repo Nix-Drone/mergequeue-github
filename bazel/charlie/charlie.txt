@@ -239,6 +239,7 @@ chef
 chemicals
 chemist
 chemo
+crayon
 cherisher
 chess
 chest
@@ -618,7 +619,6 @@ crawfish
 crawlers
 crawling
 crayfish
-crayon
 crazed
 crazily
 craziness
