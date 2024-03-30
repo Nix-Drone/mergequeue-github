@@ -373,7 +373,6 @@ cytoplasm
 cobweb
 cocoa
 cone
-coconut
 cod
 coeditor
 coerce
@@ -558,6 +557,7 @@ corrosive
 corsage
 corset
 cortex
+coconut
 cosigner
 cosmetics
 cosmic
