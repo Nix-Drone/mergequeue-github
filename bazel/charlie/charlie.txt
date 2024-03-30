@@ -101,6 +101,7 @@ carnation
 carnival
 carol
 carpenter
+cyclist
 carpentry
 carpool
 carport
@@ -747,7 +748,6 @@ cut
 cycle
 cyclic
 cycling
-cyclist
 cylinder
 cymbal
 cytoplast
