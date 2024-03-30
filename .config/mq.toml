@@ -13,7 +13,7 @@ sleep_for = "25m"
 [pullrequest]
 labels = "bot-pr" # label to apply to pull request on creation (comma separated list)
 comment = ""
-requests_per_hour = 0 # target number of pull requests per hour
+requests_per_hour = 60 # target number of pull requests per hour
 
 # the max number of deps in this repo. setting to 3 for example will cause
 # files in alpha, bravo, charlie deps to be changed
