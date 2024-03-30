@@ -190,6 +190,7 @@ chance
 change
 channel
 chant
+colonize
 chaos
 chaperone
 chaplain
@@ -402,7 +403,6 @@ collide
 collie
 collision
 colonist
-colonize
 colt
 coma
 come
