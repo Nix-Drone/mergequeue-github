@@ -353,7 +353,6 @@ aside
 anagram
 armless
 asleep
-anyplace
 aspect
 ambition
 aspire
@@ -369,6 +368,7 @@ atom
 atop
 angriness
 avert
+anyplace
 attain
 attempt
 attractor
