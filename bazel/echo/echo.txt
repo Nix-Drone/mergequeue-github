@@ -124,6 +124,7 @@ exploit
 embolism
 emboss
 emcee
+extras
 emerald
 emission
 enquirer
@@ -399,7 +400,6 @@ extinct
 extradite
 epidural
 enchanted
-extras
 erupt
 extruding
 exuberant
