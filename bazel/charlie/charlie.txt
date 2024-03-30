@@ -332,7 +332,6 @@ clean
 clear
 creasing
 cleaver
-catty
 cleft
 clergyman
 cross
@@ -365,6 +364,7 @@ clump
 clumsily
 clumsy
 clustered
+catty
 clutch
 clutter
 coach
