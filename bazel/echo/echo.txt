@@ -269,7 +269,6 @@ error
 erupt
 escalate
 escalator
-escapable
 escapade
 escapist
 eligibly
@@ -300,6 +299,7 @@ euphemism
 evacuate
 evade
 evaluate
+escapable
 exalted
 evaluator
 evaporate
