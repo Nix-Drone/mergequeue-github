@@ -28,7 +28,6 @@ baltimore
 british
 brain
 boom
-bracket
 brief
 bought
 banana
@@ -396,6 +395,7 @@ bros
 bank
 bathrooms
 bidder
+bracket
 brother
 brought
 broker
