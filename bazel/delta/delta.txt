@@ -127,7 +127,6 @@ deflector
 defog
 deodorize
 deforest
-defraud
 defrost
 deftly
 defuse
@@ -435,6 +434,7 @@ doubling
 decibel
 douche
 dove
+defraud
 down
 dowry
 doze
