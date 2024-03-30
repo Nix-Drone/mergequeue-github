@@ -96,7 +96,6 @@ decrease
 decree
 dedicate
 deduce
-deduct
 deed
 deem
 deepen
@@ -420,6 +419,7 @@ doorbell
 doorframe
 defiance
 doorknob
+deduct
 doorman
 doormat
 doorpost
