@@ -261,6 +261,7 @@ choice
 chokehold
 choking
 calamity
+crawlers
 chomp
 chooser
 cube
@@ -609,7 +610,6 @@ crave
 craving
 clunky
 crawfish
-crawlers
 crawling
 crayfish
 citric
