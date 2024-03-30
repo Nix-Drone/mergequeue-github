@@ -344,7 +344,6 @@ clobber
 clock
 clone
 cloning
-closable
 closure
 clothes
 clothing
@@ -471,6 +470,7 @@ confiding
 configure
 confined
 confining
+closable
 compacted
 conflict
 carnivore

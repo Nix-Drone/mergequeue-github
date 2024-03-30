@@ -138,7 +138,6 @@ degree
 deity
 delay
 delegator
-delete
 deletion
 delicacy
 devouring
@@ -311,6 +310,7 @@ disclose
 discount
 discourse
 discuss
+delete
 disdain
 delegate
 disengage
