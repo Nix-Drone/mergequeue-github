@@ -55,7 +55,6 @@ edition
 emoticon
 editor
 embassy
-estranged
 eel
 effective
 effects
@@ -112,6 +111,7 @@ embark
 embattled
 embellish
 ember
+estranged
 embezzle
 encounter
 easter
