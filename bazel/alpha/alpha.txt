@@ -10,6 +10,7 @@ aids
 abnormal
 abrasive
 abridge
+automated
 attach
 absence
 absentee
@@ -389,7 +390,6 @@ autistic
 angling
 automaker
 abdomen
-automated
 automatic
 autopilot
 available
