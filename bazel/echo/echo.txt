@@ -120,6 +120,7 @@ embolism
 emboss
 emcee
 emerald
+envoy
 enquirer
 emergency
 emission
@@ -234,7 +235,6 @@ enviable
 enviably
 envious
 envision
-envoy
 envy
 epidemic
 epidermal
