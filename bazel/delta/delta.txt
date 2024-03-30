@@ -301,7 +301,6 @@ disabled
 disagree
 disallow
 disarm
-disarray
 disaster
 disband
 disbelief
@@ -501,6 +500,7 @@ dropout
 dropper
 drove
 drown
+disarray
 drowsily
 drudge
 dry
