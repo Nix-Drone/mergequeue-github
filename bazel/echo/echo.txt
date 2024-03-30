@@ -31,7 +31,6 @@ easing
 eastbound
 earmuff
 eastcoast
-enforced
 eatable
 eaten
 eatery
@@ -285,6 +284,7 @@ estimate
 estimator
 estrogen
 etching
+enforced
 eternal
 eternity
 ethanol
