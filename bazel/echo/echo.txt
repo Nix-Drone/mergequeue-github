@@ -125,6 +125,7 @@ embolism
 emboss
 emcee
 emerald
+enquirer
 emergency
 emission
 emit
@@ -206,7 +207,6 @@ enlarged
 enlarging
 enlighten
 enlisted
-enquirer
 enrage
 enrich
 enroll
