@@ -106,7 +106,6 @@ elixir
 elope
 earmuff
 eloquence
-eloquent
 elsewhere
 elude
 elusive
@@ -161,6 +160,7 @@ enclosure
 encode
 encore
 encounter
+eloquent
 expand
 encourage
 encroach
