@@ -60,7 +60,6 @@ detonator
 debatable
 debate
 debit
-debrief
 debtless
 debtor
 debug
@@ -520,6 +519,7 @@ dumpster
 duo
 dupe
 duplex
+debrief
 defy
 delegate
 duplicate
