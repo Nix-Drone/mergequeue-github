@@ -104,7 +104,6 @@ elongated
 elixir
 elope
 eloquence
-eloquent
 elsewhere
 elude
 elusive
@@ -159,6 +158,7 @@ enclosure
 encode
 encore
 encounter
+eloquent
 expand
 encourage
 encroach
