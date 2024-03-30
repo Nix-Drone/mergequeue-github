@@ -113,7 +113,6 @@ defense
 defensive
 deferral
 deferred
-defiance
 defiant
 defiling
 define
@@ -417,6 +416,7 @@ donut
 doodle
 doorbell
 doorframe
+defiance
 doorknob
 doorman
 doormat
