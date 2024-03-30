@@ -228,6 +228,7 @@ chubby
 cheese
 cheesy
 chef
+confining
 chemicals
 chemist
 chemo
@@ -467,7 +468,6 @@ confider
 confiding
 configure
 confined
-confining
 compacted
 conflict
 carnivore
