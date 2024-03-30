@@ -464,7 +464,6 @@ condition
 condone
 conducive
 conductor
-conduit
 confess
 confetti
 crop
@@ -661,6 +660,7 @@ crisping
 crisply
 crispness
 curry
+conduit
 crispy
 criteria
 critter
