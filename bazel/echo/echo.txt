@@ -32,6 +32,7 @@ eastcoast
 enforced
 eatable
 eaten
+emerald
 eatery
 eating
 enjoying
@@ -121,7 +122,6 @@ embody
 embolism
 emboss
 emcee
-emerald
 enquirer
 emergency
 emission
