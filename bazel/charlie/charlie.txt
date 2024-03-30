@@ -144,6 +144,7 @@ constant
 cavalry
 compound
 catwalk
+civil
 caucasian
 caucus
 causal
@@ -301,7 +302,6 @@ citizen
 citrus
 city
 civic
-civil
 clad
 claim
 clambake
