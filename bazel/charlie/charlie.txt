@@ -120,6 +120,7 @@ cascade
 case
 cash
 casino
+collector
 cache
 cassette
 casualty
@@ -534,7 +535,6 @@ cornbread
 corncob
 captivity
 cornea
-collector
 coziness
 corned
 corner
