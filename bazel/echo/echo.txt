@@ -128,6 +128,7 @@ emergency
 emission
 emit
 emote
+eternal
 emoticon
 emotion
 educated
@@ -285,7 +286,6 @@ estimate
 estimator
 estrogen
 etching
-eternal
 eternity
 ethanol
 ether
