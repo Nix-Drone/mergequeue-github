@@ -1,9 +1,7 @@
 name: Cleanup old branches
 on:
-  push:
-    branches:
-      - master
-      - develop
+  workflow_dispatch: {}
+
 jobs:
   housekeeping:
     name: Cleanup old branches
