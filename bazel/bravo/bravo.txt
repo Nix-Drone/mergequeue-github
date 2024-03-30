@@ -27,6 +27,7 @@ balloon
 burst
 baltimore
 british
+banners
 brain
 boom
 bracket
@@ -36,7 +37,6 @@ banana
 based
 bibliography
 block
-banners
 bedroom
 belts
 blvd
