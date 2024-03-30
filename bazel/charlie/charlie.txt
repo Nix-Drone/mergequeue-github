@@ -251,7 +251,6 @@ chief
 chihuahua
 childhood
 childish
-childlike
 chili
 chill
 chimp
@@ -722,6 +721,7 @@ curler
 curliness
 curling
 curly
+childlike
 curse
 cursive
 cursor
