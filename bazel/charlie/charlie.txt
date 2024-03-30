@@ -94,6 +94,7 @@ carless
 carload
 carmaker
 carnage
+cyclist
 carnation
 carnival
 carol
@@ -747,7 +748,6 @@ cut
 cycle
 cyclic
 cycling
-cyclist
 cylinder
 cymbal
 cytoplast
