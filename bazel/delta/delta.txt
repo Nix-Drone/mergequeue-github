@@ -236,6 +236,7 @@ deviator
 device
 distance
 devotedly
+drivable
 devotee
 devotion
 devourer
@@ -481,7 +482,6 @@ dripping
 drippy
 depth
 decal
-drivable
 driven
 driver
 driving
