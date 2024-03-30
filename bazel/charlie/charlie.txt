@@ -162,6 +162,7 @@ cavalry
 caviar
 cavity
 celery
+closable
 celestial
 celibate
 celtic
@@ -342,7 +343,6 @@ clobber
 clock
 clone
 cloning
-closable
 closure
 clothes
 clothing
