@@ -106,6 +106,7 @@ carrousel
 carry
 cartel
 cartload
+cube
 carton
 cartoon
 cartridge
@@ -694,7 +695,6 @@ crying
 cryptic
 crystal
 cubbyhole
-cube
 cubical
 cubicle
 cucumber
