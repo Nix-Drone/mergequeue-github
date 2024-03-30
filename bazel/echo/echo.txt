@@ -94,6 +94,7 @@ elevator
 elf
 eligible
 eligibly
+evacuate
 enforcer
 elite
 elitism
@@ -292,7 +293,6 @@ ether
 ethically
 ethics
 euphemism
-evacuate
 evade
 evaluate
 exalted
