@@ -194,7 +194,6 @@ anatomy
 anchor
 anchovy
 android
-absolute
 anemia
 angrily
 anew
@@ -258,6 +257,7 @@ anyhow
 anymore
 anytime
 ancient
+absolute
 amniotic
 anyway
 animosity
