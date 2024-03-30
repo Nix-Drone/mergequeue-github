@@ -190,7 +190,6 @@ exchange
 engraver
 engraving
 engross
-engulf
 ellipse
 enhance
 enigmatic
@@ -303,6 +302,7 @@ evaporate
 evasion
 evasive
 even
+engulf
 enjoying
 everglade
 eraser
