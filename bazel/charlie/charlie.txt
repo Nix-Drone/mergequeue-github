@@ -65,7 +65,6 @@ capped
 capricorn
 capsize
 capsule
-caption
 captivate
 captive
 capture
@@ -326,6 +325,7 @@ cleaver
 catty
 cleft
 clench
+caption
 clergyman
 cross
 clerical
