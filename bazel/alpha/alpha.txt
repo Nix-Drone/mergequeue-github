@@ -179,7 +179,6 @@ anaconda
 anaerobic
 anagram
 anatomist
-atrocious
 anatomy
 anchor
 anchovy
@@ -223,6 +222,7 @@ aging
 antelope
 antennae
 anthem
+atrocious
 anthill
 anthology
 antibody
