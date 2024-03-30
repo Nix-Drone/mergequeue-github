@@ -350,7 +350,6 @@ crumpled
 clobber
 clock
 cloning
-closable
 closure
 clothes
 clothing
@@ -615,6 +614,7 @@ cramp
 cranberry
 celibate
 crane
+closable
 crave
 cranial
 crate
