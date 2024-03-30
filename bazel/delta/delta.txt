@@ -108,7 +108,6 @@ defacing
 defame
 defeat
 defection
-defective
 defendant
 defender
 defense
@@ -484,6 +483,7 @@ depth
 decal
 drivable
 driven
+defective
 driver
 driveway
 driving
