@@ -129,7 +129,6 @@ definite
 deflate
 deflation
 deflected
-deflector
 defog
 drown
 deodorize
@@ -428,6 +427,7 @@ dormitory
 dorsal
 dosage
 datebook
+deflector
 dotted
 doubling
 decibel
