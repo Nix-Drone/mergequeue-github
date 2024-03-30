@@ -108,6 +108,7 @@ cartel
 cartload
 cube
 carton
+climatic
 cartoon
 cartridge
 cartwheel
@@ -332,7 +333,6 @@ clerk
 clever
 clicker
 climate
-climatic
 cling
 clinic
 clinking
