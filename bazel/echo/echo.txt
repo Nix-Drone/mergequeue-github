@@ -48,7 +48,6 @@ echo
 eclair
 eclipse
 elated
-ecologist
 embroider
 ecology
 economist
@@ -137,6 +136,7 @@ emperor
 emphases
 emphasize
 empirical
+ecologist
 employed
 employee
 employer
