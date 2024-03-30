@@ -120,7 +120,6 @@ define
 definite
 deflate
 deflation
-deflator
 deflected
 deflector
 defog
@@ -250,6 +249,7 @@ diaper
 diaphragm
 diary
 dice
+deflator
 dictate
 dictation
 dictator
