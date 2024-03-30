@@ -127,6 +127,7 @@ enquirer
 emergency
 emission
 emit
+enrage
 emote
 emoticon
 emotion
@@ -204,7 +205,6 @@ enlarged
 enlarging
 enlighten
 enlisted
-enrage
 enrich
 enroll
 enslave
