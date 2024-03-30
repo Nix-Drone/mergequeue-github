@@ -1,7 +1,7 @@
 use clap::{Parser, Subcommand};
 
 #[derive(Parser, Debug)]
-#[clap(version = env!("CARGO_PKG_VERSION"), author = "Trunk Technologies Inc.")]
+#[clap(version = env!("CARGO_PKG_VERSION"))]
 pub struct Cli {
     #[command(subcommand)]
     pub subcommand: Option<Subcommands>,

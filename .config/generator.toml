@@ -1,0 +1,29 @@
+
+mode = "singlequeue"
+
+[git]
+name = "trunk bot"
+email = "bot@trunk.io"
+
+[test]
+flake_rate = 0.25
+# how long test should spin for (can be described as 10s, 7m, 1hr)
+sleep_for = "25m"
+
+[pull-request]
+labels = "bot-pr,bug" # label to apply to pull request on creation (comma separated list)
+comment = ""
+requests_per_hour = 0 # target number of pull requests per hour
+
+# the max number of deps in this repo. setting to 3 for example will cause
+# files in alpha, bravo, charlie deps to be changed
+max_deps = 5
+
+# the max number of deps per PR to edit
+max_impacted_deps = 2
+
+[merge]
+# label to apply to pull request to queue
+labels = ""
+# comment to post to queue
+comment = "/trunk merge"

@@ -1,4 +1,4 @@
-# trunk-ignore-all(buildifier/module-docstring)
+"""Module text library"""
 
 def text_lib(name = None):
     name = name or _eponymous_name()
