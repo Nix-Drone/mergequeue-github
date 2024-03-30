@@ -44,6 +44,7 @@ eternal
 ecard
 epic
 echo
+exclaim
 elevate
 eclair
 eclipse
@@ -333,7 +334,6 @@ eccentric
 exact
 encrypt
 exciting
-exclaim
 exclude
 excluding
 exclusion
