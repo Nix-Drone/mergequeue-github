@@ -320,7 +320,6 @@ around
 arousal
 arrange
 array
-amnesty
 arrest
 arrival
 arrive
@@ -342,6 +341,7 @@ askew
 asleep
 asparagus
 aspect
+amnesty
 aspire
 aspirin
 astonish
