@@ -32,6 +32,7 @@ eastcoast
 enforced
 eatable
 eaten
+elevator
 eatery
 eating
 enjoying
@@ -87,7 +88,6 @@ elephant
 elevate
 elevating
 elevation
-elevator
 elf
 eligible
 enforcer
