@@ -347,6 +347,7 @@ clinking
 clip
 clique
 cloak
+cloud
 crumpled
 clobber
 clock
@@ -356,7 +357,6 @@ closable
 closure
 clothes
 clothing
-cloud
 clover
 clubbed
 clubbing
