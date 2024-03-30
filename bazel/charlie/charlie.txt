@@ -326,7 +326,6 @@ claw
 clay
 clean
 clear
-colony
 creasing
 cleaver
 catty
@@ -539,6 +538,7 @@ captivity
 cornea
 collector
 coziness
+colony
 corner
 cider
 cornfield
