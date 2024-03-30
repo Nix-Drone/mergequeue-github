@@ -1,4 +1,3 @@
-abacus
 acronym
 abide
 abiding
@@ -309,6 +308,7 @@ armchair
 armed
 arming
 aflame
+abacus
 armored
 armory
 audio
