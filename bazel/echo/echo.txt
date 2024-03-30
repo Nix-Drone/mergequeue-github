@@ -35,7 +35,6 @@ enforced
 eatable
 eaten
 eatery
-eating
 estranged
 enjoying
 eats
@@ -327,6 +326,7 @@ excess
 exchange
 excitable
 eccentric
+eating
 exciting
 exclaim
 exclude
