@@ -71,7 +71,6 @@ capture
 carat
 caravan
 carbon
-cardboard
 carded
 cabana
 cardiac
@@ -283,6 +282,7 @@ cinch
 cinema
 cinnamon
 circle
+cardboard
 circling
 circular
 circulate
