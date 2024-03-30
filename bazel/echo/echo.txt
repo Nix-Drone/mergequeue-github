@@ -190,6 +190,7 @@ engraver
 engraving
 engross
 engulf
+expel
 ellipse
 enhance
 enigmatic
@@ -360,7 +361,6 @@ expansive
 elated
 expectant
 expedited
-expel
 expend
 expenses
 expensive
