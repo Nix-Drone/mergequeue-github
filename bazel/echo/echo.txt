@@ -97,7 +97,6 @@ enforcer
 elite
 elitism
 elk
-elliptic
 elm
 elongated
 elixir
@@ -383,6 +382,7 @@ exporter
 exposable
 expose
 exposure
+elliptic
 evict
 express
 expulsion
