@@ -112,6 +112,7 @@ defacing
 doodle
 defame
 defeat
+donor
 defection
 defective
 defendant
@@ -410,7 +411,6 @@ dish
 donated
 donation
 donator
-donor
 doorbell
 doorframe
 defiance
