@@ -329,7 +329,6 @@ cleaver
 catty
 cleft
 clergyman
-cross
 clerical
 clerk
 clever
@@ -587,6 +586,7 @@ cope
 coveted
 coyness
 cozily
+cross
 cozy
 crabbing
 crabgrass
