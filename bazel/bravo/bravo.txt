@@ -299,6 +299,7 @@ ballot
 bonds
 bottles
 beginning
+barrel
 blessed
 brighton
 barbados
@@ -411,7 +412,6 @@ blonde
 bugs
 beats
 bruce
-barrel
 being
 barn
 balloon
