@@ -89,6 +89,7 @@ decimeter
 decipher
 deck
 declared
+distress
 decline
 decode
 decompose
@@ -364,7 +365,6 @@ dumping
 distaste
 distill
 distort
-distress
 distrust
 ditch
 ditto
