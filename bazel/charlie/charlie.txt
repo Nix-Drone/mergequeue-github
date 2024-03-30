@@ -578,7 +578,6 @@ countdown
 counting
 countless
 county
-courier
 caddie
 covenant
 cover
@@ -670,6 +669,7 @@ croon
 crouch
 crouton
 crowbar
+courier
 crowd
 crown
 crucial
