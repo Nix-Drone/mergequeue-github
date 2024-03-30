@@ -130,6 +130,7 @@ emote
 emoticon
 extortion
 emotion
+evasive
 educated
 empathic
 empathy
@@ -303,7 +304,6 @@ exalted
 evaluator
 evaporate
 evasion
-evasive
 even
 enjoying
 everglade
