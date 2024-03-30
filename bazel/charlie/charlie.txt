@@ -116,6 +116,7 @@ cascade
 case
 casino
 cache
+clone
 cassette
 casualty
 catacomb
@@ -347,7 +348,6 @@ cloak
 crumpled
 clobber
 clock
-clone
 cloning
 closable
 closure
