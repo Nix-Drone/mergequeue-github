@@ -260,7 +260,6 @@ diaphragm
 diary
 dice
 dictate
-dictation
 division
 dictator
 dejected
@@ -292,6 +291,7 @@ dining
 diocese
 dioxide
 diploma
+dictation
 dipped
 dipper
 dispatch
