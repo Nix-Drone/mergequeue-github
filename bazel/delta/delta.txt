@@ -237,6 +237,7 @@ deviator
 device
 distance
 devotedly
+drained
 devotee
 devotion
 devourer
@@ -445,7 +446,6 @@ dragonfly
 dedicator
 dragster
 drainage
-drained
 drainer
 drainpipe
 dramatic
