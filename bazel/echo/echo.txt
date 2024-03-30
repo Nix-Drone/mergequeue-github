@@ -141,7 +141,6 @@ employed
 employee
 employer
 emporium
-empower
 emptier
 emptiness
 empty
@@ -379,6 +378,7 @@ external
 exporter
 exposable
 expose
+empower
 exposure
 evict
 express
