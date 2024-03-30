@@ -203,7 +203,6 @@ character
 charbroil
 composure
 charcoal
-charger
 charging
 comic
 chariot
@@ -323,6 +322,7 @@ colony
 cleat
 creasing
 cleaver
+charger
 cleft
 clench
 clergyman
