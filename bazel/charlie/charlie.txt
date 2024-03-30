@@ -462,7 +462,6 @@ conduit
 confess
 confetti
 crop
-confidant
 confider
 confiding
 configure
@@ -516,6 +515,7 @@ contrite
 control
 contusion
 convene
+confidant
 copartner
 copied
 copier
