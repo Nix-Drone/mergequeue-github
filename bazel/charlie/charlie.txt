@@ -141,6 +141,7 @@ cattle
 cash
 constant
 cavalry
+corner
 compound
 catwalk
 caucasian
@@ -548,7 +549,6 @@ cornea
 collector
 coziness
 colony
-corner
 cider
 cornfield
 cornhusk
