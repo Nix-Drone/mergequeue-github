@@ -6,6 +6,7 @@ ability
 ablaze
 anvil
 affiliate
+attendant
 angler
 aids
 abnormal
@@ -364,7 +365,6 @@ angriness
 avert
 attain
 attempt
-attendant
 attractor
 attendee
 attentive

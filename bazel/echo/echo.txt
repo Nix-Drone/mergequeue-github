@@ -56,7 +56,6 @@ edition
 editor
 embassy
 estranged
-education
 eel
 effective
 effects
@@ -335,6 +334,7 @@ exclude
 excluding
 exclusion
 exclusive
+education
 excretion
 excretory
 excursion
