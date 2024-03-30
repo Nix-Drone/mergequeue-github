@@ -78,6 +78,7 @@ either
 economic
 eject
 elaborate
+explicit
 elastic
 elbow
 edgy
@@ -369,7 +370,6 @@ expire
 expiring
 explain
 expletive
-explicit
 explode
 exploit
 explore
