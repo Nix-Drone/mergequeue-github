@@ -139,12 +139,15 @@ fn create_pull_request(words: &[String], config: &Conf) -> Result<String, String
         &config.pullrequest.body,
     ];
 
+    println!("{:?}", config.pullrequest.labels.split(','));
+
     for lbl in config.pullrequest.labels.split(',') {
         println!("label: {}", lbl.trim());
         args.push("--label");
         args.push(lbl.trim());
     }
 
+    panic!("wtf");
     let pr_url = gh(args.as_slice());
 
     let re = Regex::new(r"(.*)/pull/(\d+)$").unwrap();
