@@ -123,7 +123,6 @@ deflation
 deflator
 deflected
 deflector
-defog
 deodorize
 deforest
 defraud
@@ -412,6 +411,7 @@ donation
 donator
 donor
 donut
+defog
 doodle
 doorbell
 doorframe
