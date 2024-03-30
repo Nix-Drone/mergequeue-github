@@ -297,6 +297,7 @@ directory
 direness
 dirtiness
 disabled
+duplicate
 darkening
 disallow
 disarm
@@ -525,7 +526,6 @@ duo
 dupe
 duplex
 delegate
-duplicate
 duplicity
 durable
 durably

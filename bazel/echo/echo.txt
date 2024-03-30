@@ -187,6 +187,7 @@ engraver
 engraving
 engross
 engulf
+essence
 ellipse
 encounter
 enhance
@@ -280,7 +281,6 @@ esquire
 equal
 endpoint
 essay
-essence
 essential
 estate
 esteemed
