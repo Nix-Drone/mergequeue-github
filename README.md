@@ -7,9 +7,9 @@ different simulated loads.
 
 #### How does it work
 
-The load imparted onto the connected queue is controlled by the `generator.toml` file in the .config
-folder. The PR Factory workflow is set on a cron schedule to call trunk-pr-generator which is then
-responsible for generating the pull requests and enqueueing them.
+The load imparted onto the connected queue is controlled by the `mq.toml` file in the .config
+folder. The PR Factory workflow is set on a cron schedule to call `mq` which is then responsible for
+generating the pull requests and enqueueing them.
 
 The configuration system allows for setting the desired load on the queue, the flake rate and the
 interdependence element of the pull requests.

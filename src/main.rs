@@ -166,8 +166,8 @@ fn run() -> anyhow::Result<()> {
 
     let config = Conf::builder()
         .env()
-        .file("generator.toml")
-        .file(".config/generator.toml")
+        .file("mq.toml")
+        .file(".config/mq.toml")
         .load()
         .unwrap_or_else(|err| {
             eprintln!("Generator cannot run: {}", err);

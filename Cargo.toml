@@ -1,8 +1,8 @@
 [package]
-name = "pr-generator"
+name = "mq"
 version = "1.0.0"
 license = "MIT"
-description = "pull request generator"
+description = "mq - pull request generator for GitHub"
 readme = "README.md"
 edition = "2021"
 
