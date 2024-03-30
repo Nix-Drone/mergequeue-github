@@ -487,7 +487,6 @@ decal
 drivable
 driven
 driver
-driveway
 driving
 drizzle
 drizzly
@@ -530,6 +529,7 @@ duplicity
 durable
 durably
 duration
+driveway
 distract
 duress
 during
