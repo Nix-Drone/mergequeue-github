@@ -226,6 +226,7 @@ default
 detonate
 detonator
 detoxify
+depth
 detract
 deuce
 devalue
@@ -480,7 +481,6 @@ drinkable
 drinking
 dripping
 drippy
-depth
 decal
 drivable
 driven
