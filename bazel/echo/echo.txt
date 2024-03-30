@@ -121,6 +121,7 @@ emboss
 emcee
 emerald
 enquirer
+extrovert
 emergency
 emission
 emit
@@ -397,7 +398,6 @@ extradite
 epidural
 enchanted
 extras
-extrovert
 erupt
 extruding
 exuberant
