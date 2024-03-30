@@ -286,6 +286,7 @@ dioxide
 diploma
 dipped
 dipper
+driver
 dipping
 direction
 directive
@@ -486,7 +487,6 @@ depth
 decal
 drivable
 driven
-driver
 driveway
 driving
 drizzle
