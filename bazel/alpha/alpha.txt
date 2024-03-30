@@ -107,7 +107,6 @@ algebra
 algorithm
 anthology
 alias
-alibi
 amber
 alienate
 appointee
@@ -213,6 +212,7 @@ annex
 ascertain
 angelfish
 annotate
+alibi
 abdominal
 announcer
 anointer
