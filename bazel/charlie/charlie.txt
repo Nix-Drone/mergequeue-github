@@ -591,7 +591,6 @@ crabgrass
 crablike
 crabmeat
 cradle
-cradling
 catapult
 crafter
 craftily
@@ -643,6 +642,7 @@ crevice
 concept
 crewman
 crewmate
+cradling
 crib
 cricket
 cried
