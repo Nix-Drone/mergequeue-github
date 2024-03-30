@@ -204,7 +204,6 @@ animal
 aground
 animate
 attach
-animation
 animator
 anime
 animosity
@@ -238,6 +237,7 @@ antiques
 antiquity
 ascension
 antirust
+animation
 antitoxic
 antitrust
 antiviral
