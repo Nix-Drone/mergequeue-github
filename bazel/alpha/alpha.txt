@@ -1,5 +1,4 @@
 abacus
-abdomen
 abdominal
 abide
 abiding
@@ -383,6 +382,7 @@ authentic
 author
 autistic
 automaker
+abdomen
 automated
 automatic
 autopilot
