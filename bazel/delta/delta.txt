@@ -299,7 +299,6 @@ direness
 dirtiness
 disabled
 disagree
-disallow
 disarm
 disarray
 disaster
@@ -363,6 +362,7 @@ dumping
 distaste
 distill
 distort
+disallow
 distress
 district
 distrust
