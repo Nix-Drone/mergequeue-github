@@ -322,7 +322,6 @@ clean
 clear
 colony
 creasing
-cleaver
 catty
 cleft
 clench
@@ -571,6 +570,7 @@ cotton
 couch
 cough
 could
+cleaver
 countable
 coral
 creation
