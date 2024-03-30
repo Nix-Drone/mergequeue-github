@@ -307,7 +307,6 @@ armadillo
 armband
 armchair
 armed
-armful
 arming
 aflame
 armored
@@ -400,6 +399,7 @@ average
 aversion
 aviator
 animating
+armful
 avid
 august
 avoid
