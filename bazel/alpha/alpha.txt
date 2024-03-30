@@ -308,7 +308,6 @@ armband
 armchair
 armed
 armful
-armhole
 arming
 aflame
 armored
@@ -377,6 +376,7 @@ auction
 audacious
 audacity
 appear
+armhole
 audible
 armoire
 audibly
