@@ -31,7 +31,6 @@ easing
 eastbound
 eastcoast
 enforced
-easter
 eatable
 eaten
 eatery
@@ -117,6 +116,7 @@ embattled
 embellish
 ember
 embezzle
+easter
 emblaze
 emblem
 embody
