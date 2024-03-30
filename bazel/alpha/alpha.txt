@@ -311,6 +311,7 @@ armoire
 aflame
 armored
 armory
+audio
 armrest
 army
 aroma
@@ -377,7 +378,6 @@ appear
 audible
 audibly
 audience
-audio
 audition
 augmented
 august
