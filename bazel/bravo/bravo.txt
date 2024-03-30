@@ -149,7 +149,6 @@ bold
 blogs
 beside
 boards
-bandwidth
 bubble
 bone
 bars
@@ -329,6 +328,7 @@ breakfast
 bullet
 bias
 breaking
+bandwidth
 blink
 buzz
 building
