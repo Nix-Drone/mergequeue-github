@@ -180,7 +180,6 @@ departure
 depict
 deplete
 depletion
-deplored
 deploy
 deport
 depose
@@ -295,6 +294,7 @@ direness
 dirtiness
 disabled
 darkening
+deplored
 disallow
 disarm
 disarray
