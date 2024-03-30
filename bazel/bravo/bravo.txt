@@ -108,6 +108,7 @@ bicycle
 bride
 better
 beam
+browser
 beds
 beef
 bool
@@ -347,7 +348,6 @@ bible
 burns
 breath
 beatles
-browser
 brisbane
 budapest
 bass
