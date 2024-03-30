@@ -32,6 +32,7 @@ eastbound
 earmuff
 eastcoast
 enforced
+evidence
 eatable
 eaten
 eatery
@@ -308,7 +309,6 @@ epilogue
 ecosphere
 everyday
 everyone
-evidence
 evident
 evil
 evoke
