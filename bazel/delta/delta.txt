@@ -247,7 +247,6 @@ diagnoses
 diagnosis
 diagram
 dial
-diameter
 diaper
 diaphragm
 diary
@@ -529,6 +528,7 @@ duplicate
 duplicity
 durable
 durably
+diameter
 duration
 distract
 duress
