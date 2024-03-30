@@ -127,7 +127,6 @@ deflector
 defog
 deodorize
 deforest
-defraud
 defrost
 deftly
 defuse
@@ -411,6 +410,7 @@ dominion
 dominoes
 donated
 donation
+defraud
 donator
 donor
 donut
