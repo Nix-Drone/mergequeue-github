@@ -416,6 +416,7 @@ coming
 comma
 chip
 commence
+cylinder
 commend
 comment
 commerce
@@ -748,6 +749,5 @@ cycle
 cyclic
 cycling
 cyclist
-cylinder
 cymbal
 cytoplast
