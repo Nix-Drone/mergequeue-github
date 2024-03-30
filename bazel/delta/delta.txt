@@ -173,7 +173,6 @@ density
 dental
 dentist
 denture
-deny
 deodorant
 departed
 departure
@@ -336,6 +335,7 @@ disobey
 disorder
 disown
 disparate
+deny
 disparity
 discover
 dispatch
