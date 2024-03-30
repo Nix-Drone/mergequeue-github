@@ -212,7 +212,6 @@ enroll
 extrude
 enslave
 ensure
-entail
 entangled
 entering
 elderly
@@ -359,6 +358,7 @@ exile
 existing
 exit
 exonerate
+entail
 exorcist
 expansion
 expansive
