@@ -88,6 +88,7 @@ deck
 declared
 decline
 decode
+doable
 decompose
 decorated
 decorator
@@ -386,7 +387,6 @@ divisive
 divorcee
 dizziness
 dizzy
-doable
 docile
 dock
 doctrine
