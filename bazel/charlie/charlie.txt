@@ -284,6 +284,7 @@ chute
 cilantro
 cinch
 cinema
+cancel
 cinnamon
 circle
 cardboard
@@ -511,7 +512,6 @@ context
 contend
 contented
 contently
-cancel
 contents
 contest
 contort
