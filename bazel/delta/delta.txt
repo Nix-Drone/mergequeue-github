@@ -143,6 +143,7 @@ degrease
 degree
 deity
 delay
+diameter
 delegator
 delete
 deletion
@@ -250,7 +251,6 @@ diagnosis
 diagram
 drab
 dial
-diameter
 diaper
 distant
 diaphragm
