@@ -213,7 +213,6 @@ enlisted
 enrage
 essay
 enrich
-enroll
 extrude
 engine
 enslave
@@ -333,6 +332,7 @@ edginess
 eccentric
 exact
 encrypt
+enroll
 exciting
 exclude
 excluding
