@@ -424,7 +424,6 @@ common
 commotion
 commute
 compacter
-compactly
 compactor
 companion
 company
@@ -550,6 +549,7 @@ coroner
 corporal
 corporate
 corral
+compactly
 catfish
 correct
 corridor
