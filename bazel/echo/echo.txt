@@ -92,7 +92,6 @@ elevating
 elevation
 elevator
 elf
-eligible
 enforcer
 elite
 elitism
@@ -371,6 +370,7 @@ expert
 expire
 expiring
 explain
+eligible
 expletive
 explicit
 explode
