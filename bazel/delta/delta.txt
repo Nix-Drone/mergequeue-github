@@ -213,7 +213,6 @@ destruct
 detached
 detail
 detection
-detective
 detector
 detention
 discover
@@ -493,6 +492,7 @@ drone
 drool
 dose
 droop
+detective
 drop-down
 dropbox
 dropkick
