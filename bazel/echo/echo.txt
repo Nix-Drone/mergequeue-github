@@ -129,6 +129,7 @@ emission
 emit
 emote
 emoticon
+extortion
 emotion
 educated
 empathic
@@ -390,7 +391,6 @@ extent
 extenuate
 exterior
 extinct
-extortion
 extradite
 epidural
 enchanted
