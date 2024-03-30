@@ -187,6 +187,7 @@ barriers
 binding
 branch
 bases
+bolt
 bloom
 biol
 briefing
@@ -444,7 +445,6 @@ bundle
 bulk
 belly
 breeds
-bolt
 barely
 borough
 bold
