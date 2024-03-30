@@ -344,6 +344,7 @@ clone
 cloning
 closable
 closure
+corner
 clothes
 clothing
 cloud
@@ -535,7 +536,6 @@ cornea
 collector
 coziness
 corned
-corner
 cornfield
 cornflake
 cornhusk
