@@ -255,6 +255,7 @@ boats
 berry
 body
 benz
+browser
 bunch
 bryan
 bodies
@@ -344,7 +345,6 @@ bible
 burns
 breath
 beatles
-browser
 brisbane
 budapest
 bass
