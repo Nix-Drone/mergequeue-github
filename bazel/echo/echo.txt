@@ -229,6 +229,7 @@ entity
 entomb
 entourage
 entrap
+exemplify
 entrench
 entrust
 emu
@@ -348,7 +349,6 @@ excusable
 excusably
 excuse
 exemplary
-exemplify
 exodus
 expenses
 exemption
