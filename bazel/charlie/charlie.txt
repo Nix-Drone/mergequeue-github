@@ -93,7 +93,6 @@ caretaker
 celibacy
 cargo
 caring
-carless
 carload
 carmaker
 carnage
@@ -535,6 +534,7 @@ cornball
 convent
 cornbread
 corncob
+carless
 captivity
 cornea
 collector
