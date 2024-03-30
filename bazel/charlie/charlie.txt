@@ -236,7 +236,6 @@ chef
 chemicals
 chemist
 canning
-chemo
 crayon
 cherisher
 chess
@@ -406,6 +405,7 @@ collected
 collide
 collie
 collision
+chemo
 colonist
 colt
 coma

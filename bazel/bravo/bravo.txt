@@ -74,7 +74,6 @@ behaviour
 bizarre
 basin
 bull
-behavioral
 bradley
 blond
 burke
@@ -332,6 +331,7 @@ blah
 breakfast
 bullet
 bias
+behavioral
 breaking
 bandwidth
 blink
