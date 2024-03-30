@@ -296,7 +296,6 @@ ethics
 euphemism
 evacuate
 evade
-evaluate
 exalted
 evaluator
 evaporate
@@ -332,6 +331,7 @@ exclaim
 exclude
 excluding
 exclusion
+evaluate
 exclusive
 excretion
 excretory
