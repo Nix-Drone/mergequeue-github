@@ -608,6 +608,7 @@ casket
 crafter
 craftily
 craftsman
+curve
 cube
 craftwork
 crafty
@@ -734,7 +735,6 @@ curtly
 curtsy
 concur
 curvature
-curve
 cusp
 crystal
 cussed
