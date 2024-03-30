@@ -131,6 +131,7 @@ emit
 emote
 emoticon
 extortion
+epidermal
 emotion
 educated
 empathic
@@ -238,7 +239,6 @@ envision
 envoy
 envy
 epidemic
-epidermal
 ensnare
 eleven
 epidermis
