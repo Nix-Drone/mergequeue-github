@@ -118,7 +118,6 @@ aliens
 alike
 alive
 alkaline
-alkalize
 almanac
 almighty
 aloft
@@ -321,6 +320,7 @@ around
 arousal
 arrange
 array
+alkalize
 amnesty
 arrest
 arrival

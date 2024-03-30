@@ -27,7 +27,6 @@ calzone
 camcorder
 camera
 camisole
-camper
 campfire
 camping
 campsite
@@ -589,6 +588,7 @@ crabbing
 crabgrass
 crablike
 crabmeat
+camper
 cradle
 cradling
 catapult
