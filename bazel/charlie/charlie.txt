@@ -126,7 +126,6 @@ catacomb
 chance
 catalog
 catalyst
-catalyze
 cataract
 catcall
 catchable
@@ -442,6 +441,7 @@ compel
 compile
 comply
 component
+catalyze
 composed
 composer
 composite
