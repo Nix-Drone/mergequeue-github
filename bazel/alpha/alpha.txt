@@ -268,7 +268,6 @@ approve
 appetite
 antler
 appetizer
-applaud
 applause
 apple
 appliance
@@ -389,6 +388,7 @@ automaker
 abdomen
 automated
 automatic
+applaud
 autopilot
 available
 avalanche
