@@ -81,7 +81,6 @@ agency
 agenda
 agent
 aggregate
-agile
 agility
 arguably
 ambitious
@@ -182,6 +181,7 @@ aneurism
 amused
 amuser
 aqueduct
+agile
 art
 absently
 accurate
