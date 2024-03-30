@@ -180,7 +180,6 @@ departure
 depict
 deplete
 depletion
-deplored
 deploy
 deport
 depose
@@ -541,6 +540,7 @@ duvet
 dwarf
 defile
 dweeb
+deplored
 dweller
 dwelling
 dwindle

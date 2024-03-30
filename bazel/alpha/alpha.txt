@@ -272,6 +272,7 @@ appliance
 applicant
 applied
 apply
+aversion
 appointee
 appraisal
 anywhere
@@ -395,7 +396,6 @@ avenge
 avenging
 avenue
 average
-aversion
 aviator
 animating
 avid
