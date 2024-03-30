@@ -155,7 +155,6 @@ ambulance
 ambush
 appraiser
 amendable
-acclaim
 amends
 amenity
 amiable
@@ -322,6 +321,7 @@ armrest
 army
 aroma
 arose
+acclaim
 around
 audacity
 array
