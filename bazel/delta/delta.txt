@@ -327,7 +327,6 @@ disjoin
 disk
 dislike
 disliking
-dislocate
 dividing
 dislodge
 disloyal
@@ -534,6 +533,7 @@ duration
 distract
 duress
 during
+dislocate
 dusk
 dust
 dutiful
