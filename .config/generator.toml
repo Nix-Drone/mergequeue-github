@@ -11,9 +11,9 @@ flake_rate = 0.25
 sleep_for = "25m"
 
 [pull-request]
-labels = "bot-pr,bug" # label to apply to pull request on creation (comma separated list)
+labels = "bot-pr bug" # label to apply to pull request on creation (comma separated list)
 comment = ""
-requests_per_hour = 0 # target number of pull requests per hour
+requests_per_hour = 6 # target number of pull requests per hour
 
 # the max number of deps in this repo. setting to 3 for example will cause
 # files in alpha, bravo, charlie deps to be changed
