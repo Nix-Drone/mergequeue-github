@@ -56,7 +56,6 @@ edging
 ember
 edition
 emoticon
-editor
 embassy
 estranged
 eel
@@ -385,6 +384,7 @@ explore
 exploring
 exponent
 external
+editor
 exporter
 expose
 exposure
