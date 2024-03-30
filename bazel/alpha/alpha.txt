@@ -166,7 +166,6 @@ amount
 attention
 amperage
 ample
-amplifier
 aspirate
 amplify
 amply
@@ -364,6 +363,7 @@ attendant
 attractor
 attendee
 attentive
+amplifier
 attest
 attic
 attire
