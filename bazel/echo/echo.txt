@@ -161,7 +161,6 @@ enchilada
 encircle
 enclose
 enclosure
-encode
 encore
 eloquent
 expand
@@ -298,6 +297,7 @@ ethics
 euphemism
 evacuate
 evade
+encode
 evaluate
 escapable
 exalted
