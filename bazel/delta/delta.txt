@@ -85,6 +85,7 @@ decimal
 decimeter
 decipher
 deck
+divisible
 declared
 decline
 decode
@@ -376,7 +377,6 @@ debating
 divinely
 diving
 divinity
-divisible
 divisibly
 dose
 division
