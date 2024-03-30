@@ -62,7 +62,6 @@ edition
 editor
 embassy
 education
-eel
 effective
 effects
 efficient
@@ -304,6 +303,7 @@ evasion
 evasive
 even
 enjoying
+eel
 everglade
 evergreen
 everybody
