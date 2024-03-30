@@ -124,7 +124,6 @@ emcee
 emerald
 enquirer
 emergency
-emission
 emit
 emote
 emoticon
@@ -350,6 +349,7 @@ exfoliate
 exhale
 exhaust
 exhume
+emission
 exes
 exile
 existing
