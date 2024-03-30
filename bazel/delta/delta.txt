@@ -239,7 +239,6 @@ devotee
 devotion
 devourer
 devoutly
-dexterity
 dexterous
 diabetes
 diabetic
@@ -373,6 +372,7 @@ ditto
 ditzy
 dividable
 divided
+dexterity
 dividend
 dividers
 divinely
