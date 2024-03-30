@@ -124,6 +124,7 @@ cache
 cassette
 casualty
 catacomb
+chance
 catalog
 catalyst
 catalyze
@@ -187,7 +188,6 @@ challenge
 chamomile
 creation
 champion
-chance
 change
 channel
 chant
