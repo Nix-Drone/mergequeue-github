@@ -115,7 +115,6 @@ donor
 defection
 defective
 defendant
-directly
 defender
 defense
 deviant
@@ -439,6 +438,7 @@ deceased
 doze
 deflator
 ditzy
+directly
 dragging
 dragonfly
 deluge
