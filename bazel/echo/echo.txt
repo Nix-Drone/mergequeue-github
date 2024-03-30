@@ -93,7 +93,6 @@ excavator
 ecosphere
 enforcer
 elite
-entree
 elitism
 elk
 elliptic
@@ -372,6 +371,7 @@ earthling
 expert
 expire
 expiring
+entree
 explain
 expletive
 explicit
