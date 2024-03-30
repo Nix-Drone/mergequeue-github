@@ -129,16 +129,21 @@ fn create_pull_request(words: &[String], config: &Conf) -> Result<String, String
         return Err("could not push to origin".to_owned());
     }
 
-    let mut args = vec![
-        "pr".to_string(),
-        "create".to_string(),
-        "--title".to_string(),
-        words.join(", "),
-        "--body".to_string(),
-        config.pullrequest.body.clone(),
+    let j_words = words.join(", ");
+    let mut args: Vec<&str> = vec![
+        "pr",
+        "create",
+        "--title",
+        &j_words,
+        "--body",
+        &config.pullrequest.body,
     ];
 
-    let args: Vec<&str> = args.iter().map(|s| s.as_str()).collect();
+    for lbl in config.pullrequest.labels.split(',') {
+        args.push("--label");
+        args.push(lbl.trim());
+    }
+
     let pr_url = gh(args.as_slice());
 
     let re = Regex::new(r"(.*)/pull/(\d+)$").unwrap();
