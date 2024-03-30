@@ -85,7 +85,6 @@ deceptive
 decidable
 decimal
 donut
-decimeter
 decipher
 deck
 declared
@@ -246,6 +245,7 @@ diagnoses
 diagnosis
 diagram
 dial
+decimeter
 diameter
 diaper
 distant
