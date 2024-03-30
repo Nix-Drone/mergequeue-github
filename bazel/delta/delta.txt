@@ -440,7 +440,6 @@ ditzy
 dragging
 dragonfly
 deluge
-dedicator
 diameter
 dragster
 drainage
@@ -524,6 +523,7 @@ dupe
 duplex
 debrief
 defy
+dedicator
 delegate
 duplicate
 duplicity

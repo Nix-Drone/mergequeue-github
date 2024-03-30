@@ -79,6 +79,7 @@ carat
 caravan
 carbon
 carded
+composed
 cabana
 cardiac
 cardigan
@@ -445,7 +446,6 @@ compile
 comply
 component
 catalyze
-composed
 composer
 composite
 compost
