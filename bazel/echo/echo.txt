@@ -319,7 +319,6 @@ exact
 example
 excavate
 excavator
-exceeding
 exception
 excess
 exchange
@@ -379,6 +378,7 @@ exponent
 external
 exporter
 exposable
+exceeding
 expose
 exposure
 express
