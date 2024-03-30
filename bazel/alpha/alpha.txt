@@ -1,6 +1,5 @@
 abacus
 acronym
-abdominal
 abide
 abiding
 ability
@@ -212,6 +211,7 @@ attribute
 annex
 angelfish
 annotate
+abdominal
 announcer
 annually
 annuity
