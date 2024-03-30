@@ -303,7 +303,6 @@ disallow
 disarm
 disarray
 disaster
-disband
 disbelief
 disburse
 discard
@@ -507,6 +506,7 @@ drudge
 dry
 dubbed
 dubiously
+disband
 duchess
 duckling
 ducktail
