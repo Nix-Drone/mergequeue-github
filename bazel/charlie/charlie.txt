@@ -370,7 +370,6 @@ coat
 coauthor
 cobalt
 cytoplasm
-cobbler
 cobweb
 cocoa
 coconut
@@ -564,6 +563,7 @@ cosmos
 cosponsor
 clubhouse
 cost
+cobbler
 cottage
 cotton
 couch
