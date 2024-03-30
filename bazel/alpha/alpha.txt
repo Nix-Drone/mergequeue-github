@@ -14,7 +14,6 @@ abridge
 abroad
 attach
 absence
-absentee
 absinthe
 acquire
 absolve
@@ -278,6 +277,7 @@ appliance
 applicant
 applied
 apply
+absentee
 appraisal
 anywhere
 accuracy
