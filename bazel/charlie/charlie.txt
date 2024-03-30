@@ -209,7 +209,6 @@ coaster
 character
 charbroil
 composure
-charcoal
 charger
 charging
 comic
@@ -296,6 +295,7 @@ cardboard
 circling
 circular
 circulate
+charcoal
 circus
 citable
 citadel
