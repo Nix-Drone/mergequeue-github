@@ -142,7 +142,6 @@ degrading
 degrease
 degree
 deity
-delay
 diameter
 delegator
 delete
@@ -300,6 +299,7 @@ dipper
 dispatch
 dipping
 direction
+delay
 directive
 directory
 direness
