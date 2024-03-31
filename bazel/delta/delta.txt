@@ -12,6 +12,7 @@ dairy
 dance
 difficult
 dandelion
+decorator
 dander
 dandy
 duckbill
@@ -99,7 +100,6 @@ dispatch
 dinginess
 duvet
 decompose
-decorator
 democracy
 decrease
 decree
