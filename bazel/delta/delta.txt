@@ -307,6 +307,7 @@ direness
 dirtiness
 disabled
 disallow
+dancing
 disarm
 disaster
 disband
@@ -405,7 +406,6 @@ dugout
 dollhouse
 dolly
 dolphin
-dancing
 domain
 domestic
 dominion
