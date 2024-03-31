@@ -408,6 +408,7 @@ corporal
 collected
 collide
 collie
+configure
 colonist
 coma
 come
@@ -520,7 +521,6 @@ consuming
 contented
 curler
 contently
-configure
 contents
 contort
 coyness
