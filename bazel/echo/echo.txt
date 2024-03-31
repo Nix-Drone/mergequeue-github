@@ -90,6 +90,7 @@ entrench
 elaborate
 elf
 entity
+exchange
 eligible
 excavator
 ecosphere
@@ -192,7 +193,6 @@ energy
 engaged
 expire
 engaging
-exchange
 engraver
 escargot
 epidemic
