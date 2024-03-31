@@ -105,6 +105,7 @@ encrypt
 elsewhere
 elves
 embark
+exposable
 embattled
 ebay
 embellish
@@ -241,7 +242,6 @@ enviably
 equivocal
 envious
 emote
-exposable
 envision
 eastcoast
 exhume
