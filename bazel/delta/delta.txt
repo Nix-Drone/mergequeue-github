@@ -312,7 +312,6 @@ direness
 dirtiness
 dingy
 disabled
-disallow
 disarm
 disaster
 disband
@@ -471,6 +470,7 @@ dreamless
 directed
 dreamy
 drearily
+disallow
 dreary
 drench
 dress
