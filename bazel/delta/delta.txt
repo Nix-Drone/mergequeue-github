@@ -53,7 +53,6 @@ dealer
 daisy
 dealing
 dealmaker
-dealt
 detonator
 dollar
 debate
@@ -269,6 +268,7 @@ distress
 duress
 drizzle
 deplete
+dealt
 defiant
 direness
 duly
