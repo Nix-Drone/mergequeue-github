@@ -92,7 +92,6 @@ crusher
 childless
 chivalry
 cartel
-cartload
 cube
 climatic
 compress
@@ -380,6 +379,7 @@ cocoa
 cod
 context
 criteria
+cartload
 crevice
 cornflake
 cuddle
