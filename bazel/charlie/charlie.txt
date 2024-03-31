@@ -76,7 +76,6 @@ composed
 cabana
 cardiac
 cardigan
-cardstock
 carefully
 caregiver
 careless
@@ -456,6 +455,7 @@ compost
 construct
 comprised
 campsite
+cardstock
 computing
 comrade
 concave
