@@ -162,6 +162,7 @@ cautious
 cheer
 cavalier
 casing
+countable
 caviar
 clone
 cacti
@@ -575,7 +576,6 @@ cottage
 cotton
 couch
 cough
-countable
 counting
 crouch
 county
