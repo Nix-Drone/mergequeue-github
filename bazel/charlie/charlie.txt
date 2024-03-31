@@ -166,7 +166,6 @@ calm
 curable
 cache
 clench
-crowbar
 curtain
 celestial
 celtic
@@ -600,6 +599,7 @@ crabgrass
 crablike
 cradle
 cradling
+crowbar
 clip
 casket
 craftily
