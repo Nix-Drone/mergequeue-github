@@ -119,6 +119,7 @@ case
 casino
 clone
 cassette
+collapse
 casualty
 catacomb
 chance
@@ -403,7 +404,6 @@ coleslaw
 clear
 custodian
 collage
-collapse
 congrats
 coral
 corporal
