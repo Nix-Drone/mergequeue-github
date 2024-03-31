@@ -81,7 +81,6 @@ decent
 delegator
 deception
 deceptive
-decidable
 decimal
 donut
 decipher
@@ -255,6 +254,7 @@ diaphragm
 diary
 dice
 dictate
+decidable
 dictation
 division
 dictator
