@@ -207,7 +207,6 @@ enlighten
 enrage
 extrude
 enslave
-ensure
 entangled
 enrich
 entering
@@ -262,6 +261,7 @@ erasable
 erased
 exit
 earache
+ensure
 erasure
 entourage
 errand
