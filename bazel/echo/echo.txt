@@ -16,6 +16,7 @@ epilogue
 earthly
 earthworm
 ecard
+enforcer
 earwig
 encore
 easily
@@ -197,7 +198,6 @@ enjoyable
 elevating
 enjoyably
 early
-enforcer
 embargo
 enjoyer
 even
