@@ -452,6 +452,7 @@ deluge
 dragster
 disallow
 drainage
+duplicity
 dizzy
 dramatic
 drastic
@@ -534,7 +535,6 @@ dice
 delegate
 disdain
 duplicate
-duplicity
 dinner
 definite
 durable
