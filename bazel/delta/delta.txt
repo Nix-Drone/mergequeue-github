@@ -68,7 +68,6 @@ debtless
 dividers
 dislike
 debtor
-debug
 debunk
 doable
 dramatize
@@ -109,6 +108,7 @@ deduce
 dipper
 deranged
 deed
+debug
 deepen
 debrief
 dropout
