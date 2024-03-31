@@ -1,6 +1,7 @@
 cabbage
 coffee
 cabdriver
+conduit
 cable
 caboose
 cackle
@@ -680,7 +681,6 @@ crisply
 crispness
 curry
 confound
-conduit
 crispy
 crook
 croon
