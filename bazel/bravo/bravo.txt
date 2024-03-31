@@ -55,6 +55,7 @@ bookstore
 bikini
 buffer
 blow
+bend
 book
 builder
 barnes
@@ -400,7 +401,6 @@ bathrooms
 bidder
 broker
 brochures
-bend
 boot
 becomes
 base
