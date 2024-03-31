@@ -129,7 +129,6 @@ alike
 applause
 alive
 alkaline
-alkalize
 arrival
 absinthe
 asleep
@@ -321,6 +320,7 @@ armored
 absentee
 armory
 audio
+alkalize
 acting
 anatomist
 armrest
