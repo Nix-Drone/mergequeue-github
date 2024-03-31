@@ -110,7 +110,6 @@ carwash
 cascade
 case
 casino
-cache
 clone
 cassette
 casualty
@@ -193,6 +192,7 @@ chaperone
 crawlers
 contest
 chapped
+cache
 chaps
 crier
 coaster
