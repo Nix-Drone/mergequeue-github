@@ -66,7 +66,6 @@ detonator
 debatable
 debate
 debtless
-dislike
 debtor
 debug
 debunk
@@ -364,6 +363,7 @@ disposal
 disprove
 disregard
 dissuade
+dislike
 dumping
 distort
 daybreak
