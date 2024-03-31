@@ -88,7 +88,6 @@ entrench
 elaborate
 elevator
 elf
-entity
 eligible
 excavator
 ecosphere
@@ -388,6 +387,7 @@ exporter
 expose
 exact
 entail
+entity
 exposure
 everyone
 evict
