@@ -306,7 +306,6 @@ disallow
 disarm
 disaster
 disband
-disbelief
 disburse
 discard
 discern
@@ -328,6 +327,7 @@ deserving
 drum
 disinfect
 disjoin
+disbelief
 dislike
 disagree
 dislocate
