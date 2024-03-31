@@ -513,6 +513,7 @@ console
 chevy
 constrain
 counting
+cranial
 coach
 constrict
 craftwork
@@ -625,7 +626,6 @@ closable
 carried
 crave
 caravan
-cranial
 crate
 craving
 clunky
