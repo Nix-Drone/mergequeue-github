@@ -416,7 +416,6 @@ dominoes
 dish
 donated
 donator
-doorbell
 doorframe
 defiance
 doorman
@@ -497,6 +496,7 @@ drone
 drool
 deem
 dose
+doorbell
 droop
 detective
 drop-down
