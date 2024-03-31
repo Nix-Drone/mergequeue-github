@@ -92,7 +92,6 @@ decode
 duvet
 decompose
 dizziness
-decorator
 decoy
 decrease
 decree
@@ -510,6 +509,7 @@ duckling
 ducktail
 dicing
 duct
+decorator
 dude
 distaste
 duffel
