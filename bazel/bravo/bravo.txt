@@ -127,6 +127,7 @@ before
 butler
 beneficial
 bibliography
+both
 basement
 began
 banking
@@ -396,7 +397,6 @@ blank
 boots
 buttons
 badly
-both
 bath
 brings
 bailey
