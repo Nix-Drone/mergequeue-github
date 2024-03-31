@@ -65,7 +65,6 @@ capture
 clutter
 carbon
 carded
-composed
 cabana
 cardiac
 cardigan
@@ -625,6 +624,7 @@ crate
 craving
 clunky
 caddie
+composed
 coconut
 crawfish
 cheesy
