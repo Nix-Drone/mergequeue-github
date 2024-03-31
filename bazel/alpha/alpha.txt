@@ -39,7 +39,6 @@ attribute
 animation
 afternoon
 afraid
-absurd
 amigo
 apricot
 accent
@@ -168,6 +167,7 @@ amenity
 amicably
 amino
 amiss
+absurd
 avalanche
 ammonia
 affluent
