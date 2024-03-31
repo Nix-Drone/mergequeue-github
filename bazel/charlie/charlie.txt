@@ -109,7 +109,6 @@ cartload
 cube
 carton
 climatic
-cartoon
 compress
 cartridge
 casually
@@ -531,6 +530,7 @@ copartner
 copied
 chewable
 copilot
+cartoon
 cauterize
 copious
 copper
