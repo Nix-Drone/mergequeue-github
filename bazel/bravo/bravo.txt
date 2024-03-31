@@ -309,7 +309,6 @@ ballot
 bonds
 bottles
 beginning
-banner
 barrel
 blessed
 brighton
@@ -470,6 +469,7 @@ brakes
 brass
 buyers
 boxes
+banner
 brothers
 bangladesh
 baptist
