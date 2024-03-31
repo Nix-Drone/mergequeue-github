@@ -189,6 +189,7 @@ exchange
 engraver
 escargot
 engraving
+even
 ellipse
 emphasize
 enhance
@@ -200,7 +201,6 @@ early
 enforcer
 embargo
 enjoyer
-even
 enlarging
 epilepsy
 enlighten
