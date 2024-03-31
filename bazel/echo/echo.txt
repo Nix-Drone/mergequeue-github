@@ -42,6 +42,7 @@ eternal
 epic
 echo
 exclaim
+equipment
 elevate
 enable
 eclair
@@ -253,7 +254,6 @@ expansion
 equator
 equinox
 enjoyment
-equipment
 eggbeater
 equivocal
 eradicate
