@@ -140,7 +140,6 @@ cattle
 cash
 carrousel
 clammy
-constant
 compound
 clothes
 catwalk
@@ -346,6 +345,7 @@ climate
 consonant
 clinic
 clubbed
+constant
 clinking
 cling
 clique
