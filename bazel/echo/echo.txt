@@ -41,7 +41,6 @@ eternal
 epic
 embark
 endpoint
-echo
 exclaim
 equipment
 elevate
@@ -134,6 +133,7 @@ emotion
 empathic
 envy
 empathy
+echo
 expulsion
 emperor
 encircle
