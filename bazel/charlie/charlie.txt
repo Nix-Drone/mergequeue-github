@@ -66,7 +66,6 @@ caption
 captivate
 captive
 capture
-clutter
 carat
 caravan
 carbon
@@ -449,6 +448,7 @@ component
 catalyze
 composer
 compost
+clutter
 construct
 compress
 cattishly
