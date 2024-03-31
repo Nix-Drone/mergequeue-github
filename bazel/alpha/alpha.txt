@@ -121,7 +121,6 @@ ajar
 apply
 atonable
 algebra
-amplifier
 ahoy
 alias
 angling
@@ -415,6 +414,7 @@ appraisal
 avid
 awaken
 agreeable
+amplifier
 awning
 attain
 axis
