@@ -217,7 +217,6 @@ doorstop
 despair
 deception
 despite
-destruct
 discourse
 disarray
 detection
@@ -539,6 +538,7 @@ dinner
 definite
 durable
 duration
+destruct
 distract
 dweeb
 debatable
