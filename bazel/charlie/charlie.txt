@@ -413,7 +413,6 @@ collapse
 corporal
 collected
 collide
-cactus
 collie
 collision
 colonist
@@ -426,6 +425,7 @@ comfy
 confirm
 coming
 catapult
+cactus
 comma
 companion
 commence
