@@ -327,6 +327,7 @@ disband
 discard
 discern
 dig
+dismantle
 discharge
 dilation
 dumping
@@ -351,7 +352,6 @@ deprecate
 dexterous
 dislodge
 doornail
-dismantle
 dismay
 dismiss
 dismount
