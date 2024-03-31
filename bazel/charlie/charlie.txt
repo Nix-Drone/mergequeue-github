@@ -336,7 +336,6 @@ clay
 clean
 creasing
 cleaver
-cleft
 clergyman
 cross
 clerical
@@ -709,6 +708,7 @@ cuddle
 cuddly
 cufflink
 chivalry
+cleft
 culpable
 culprit
 cultivate
