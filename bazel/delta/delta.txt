@@ -140,7 +140,6 @@ define
 donator
 divinely
 deflate
-deflation
 deflector
 daughter
 drown
@@ -499,6 +498,7 @@ drizzly
 daringly
 debit
 drone
+deflation
 drool
 deem
 dose
