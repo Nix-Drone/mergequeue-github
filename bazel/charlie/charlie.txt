@@ -86,6 +86,7 @@ capitol
 composite
 coagulant
 country
+customary
 caress
 cargo
 caring
@@ -746,7 +747,6 @@ cusp
 crystal
 custard
 custody
-customary
 customer
 cut
 childhood
