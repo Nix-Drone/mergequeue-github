@@ -198,6 +198,7 @@ engraver
 escargot
 exfoliate
 epidemic
+effective
 engraving
 even
 eloquence
@@ -228,7 +229,6 @@ enlarged
 enticing
 edition
 entitle
-effective
 exorcism
 exception
 escapade
