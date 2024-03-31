@@ -265,7 +265,6 @@ erasable
 erased
 exit
 earache
-ensure
 erasure
 entourage
 errand
@@ -275,6 +274,7 @@ empirical
 earthling
 error
 escalator
+ensure
 enzyme
 epiphany
 enjoying
