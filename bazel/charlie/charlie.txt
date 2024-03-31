@@ -163,7 +163,6 @@ capsule
 clone
 chemo
 calm
-correct
 curable
 cache
 clench
@@ -280,6 +279,7 @@ catcher
 chomp
 captive
 chooser
+correct
 choosing
 choosy
 chowder
