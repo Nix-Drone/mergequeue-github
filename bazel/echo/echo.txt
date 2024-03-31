@@ -137,7 +137,6 @@ emergency
 emit
 emote
 extortion
-emotion
 expansion
 educated
 empathic
@@ -266,6 +265,7 @@ equity
 equivocal
 eradicate
 erasable
+emotion
 erased
 earache
 erasure
