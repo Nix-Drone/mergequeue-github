@@ -194,6 +194,7 @@ exchange
 engraver
 escargot
 exfoliate
+epidemic
 engraving
 even
 ellipse
@@ -253,7 +254,6 @@ eastcoast
 exhume
 envoy
 entail
-epidemic
 epidermal
 envelope
 expediter
