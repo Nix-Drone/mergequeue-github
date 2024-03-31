@@ -390,6 +390,7 @@ confetti
 cornflake
 cogwheel
 coherence
+coeditor
 coherent
 cornmeal
 collar
@@ -729,7 +730,6 @@ cure
 curfew
 cornstalk
 culinary
-coeditor
 catching
 curled
 curler
