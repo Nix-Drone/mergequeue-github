@@ -384,7 +384,6 @@ cytoplasm
 cobweb
 cofounder
 cocoa
-carpenter
 cod
 coerce
 context
@@ -653,6 +652,7 @@ crested
 cresting
 crestless
 crewless
+carpenter
 concept
 crewmate
 crib
