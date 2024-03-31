@@ -129,6 +129,7 @@ banking
 brick
 bronze
 bread
+banned
 billion
 bookmark
 bidding
@@ -475,7 +476,6 @@ begins
 burn
 born
 burning
-banned
 borough
 beastiality
 blvd
