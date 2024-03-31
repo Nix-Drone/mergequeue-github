@@ -27,6 +27,7 @@ colony
 camcorder
 camera
 coach
+caption
 camisole
 campsite
 camper
@@ -66,7 +67,6 @@ capricorn
 colt
 capsize
 capsule
-caption
 captivate
 captive
 capture
