@@ -58,6 +58,7 @@ elite
 email
 effects
 effort
+envelope
 evidence
 eggshell
 entangled
@@ -250,7 +251,6 @@ embassy
 envoy
 elbow
 epidermal
-envelope
 equity
 expediter
 each
