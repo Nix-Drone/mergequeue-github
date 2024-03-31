@@ -56,7 +56,6 @@ ecosystem
 edging
 ember
 emoticon
-embassy
 estranged
 eel
 email
@@ -170,6 +169,7 @@ ergonomic
 edgy
 encrust
 endanger
+embassy
 emphasis
 exert
 endeared
