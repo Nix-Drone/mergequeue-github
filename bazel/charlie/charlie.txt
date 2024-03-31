@@ -336,6 +336,7 @@ cleaver
 clergyman
 clerical
 coveting
+confound
 cattail
 clerk
 cosmic
@@ -679,7 +680,6 @@ crisping
 crisply
 crispness
 curry
-confound
 conduit
 crispy
 crook
