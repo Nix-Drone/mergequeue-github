@@ -128,6 +128,7 @@ atonable
 algebra
 amplifier
 ahoy
+activator
 alias
 angling
 alibi
@@ -314,7 +315,6 @@ army
 apple
 alumni
 argue
-activator
 aftermath
 armband
 arming
