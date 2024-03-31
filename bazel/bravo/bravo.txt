@@ -157,7 +157,6 @@ bold
 bone
 bars
 beth
-browser
 bits
 bachelor
 brisbane
@@ -314,6 +313,7 @@ bonds
 bottles
 beginning
 blessed
+browser
 brighton
 byte
 barbados
