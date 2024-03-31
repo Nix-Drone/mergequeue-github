@@ -159,6 +159,7 @@ ambush
 appraiser
 amendable
 amends
+amuser
 amenity
 amicably
 amino
@@ -210,7 +211,6 @@ arrest
 ascertain
 annotate
 abdominal
-amuser
 antitrust
 another
 available
