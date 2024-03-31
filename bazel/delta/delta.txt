@@ -122,6 +122,7 @@ defame
 drudge
 defeat
 donor
+deploy
 defection
 duke
 defective
@@ -186,7 +187,6 @@ depict
 deceit
 depletion
 deplored
-deploy
 dispense
 donation
 dizziness
