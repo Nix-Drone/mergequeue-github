@@ -406,7 +406,6 @@ coral
 culminate
 corporal
 collected
-collide
 collie
 colonist
 coma
@@ -424,6 +423,7 @@ companion
 commend
 comment
 commerce
+collide
 childcare
 celibacy
 commodity
