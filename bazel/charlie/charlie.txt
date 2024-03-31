@@ -349,7 +349,6 @@ cling
 clique
 cloak
 crumpled
-caption
 clobber
 clock
 cloning
@@ -452,6 +451,7 @@ component
 circus
 compost
 construct
+caption
 comprised
 campsite
 computing
