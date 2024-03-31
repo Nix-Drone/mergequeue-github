@@ -13,6 +13,7 @@ economy
 elixir
 engraver
 earthworm
+elevation
 enjoyer
 ecard
 enforcer
@@ -84,7 +85,6 @@ eldest
 entrap
 electable
 engraved
-elevation
 emit
 entrench
 elaborate
