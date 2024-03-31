@@ -239,6 +239,7 @@ carrot
 chef
 chemicals
 chemist
+catalyst
 canning
 crayon
 cherisher
@@ -322,7 +323,6 @@ clay
 clarinet
 cope
 clarity
-catalyst
 claw
 choking
 clean
