@@ -372,7 +372,6 @@ expert
 expire
 entree
 espionage
-expletive
 explicit
 explore
 expend
@@ -404,4 +403,5 @@ epidural
 election
 enchanted
 extruding
+expletive
 exuberant
