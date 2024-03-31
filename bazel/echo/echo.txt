@@ -123,6 +123,7 @@ embolism
 emboss
 emcee
 emerald
+everyone
 enquirer
 extrovert
 engine
@@ -388,7 +389,6 @@ exporter
 expose
 exact
 entail
-everyone
 evict
 excuse
 express
