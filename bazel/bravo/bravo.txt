@@ -252,7 +252,6 @@ boat
 brave
 berry
 body
-belle
 benz
 browser
 bidding
@@ -406,6 +405,7 @@ becomes
 base
 banks
 breeding
+belle
 booking
 bedding
 binary
