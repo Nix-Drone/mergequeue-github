@@ -252,6 +252,7 @@ body
 belle
 benz
 browser
+bluetooth
 bunch
 balloon
 belief
@@ -282,7 +283,6 @@ basketball
 bruce
 bras
 boring
-bluetooth
 bookings
 beats
 blocked
