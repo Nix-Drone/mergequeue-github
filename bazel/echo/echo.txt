@@ -29,7 +29,6 @@ easing
 eastbound
 earmuff
 estimate
-enforced
 efficient
 eaten
 evasion
@@ -99,6 +98,7 @@ elongated
 elixir
 ebony
 easel
+enforced
 earmuff
 evoke
 elsewhere
