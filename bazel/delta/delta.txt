@@ -70,7 +70,6 @@ dislike
 debtor
 debug
 debunk
-degraded
 doable
 drainable
 decaf
@@ -250,6 +249,7 @@ dispute
 distance
 devotedly
 drained
+degraded
 devotion
 devourer
 dutiful
