@@ -25,7 +25,6 @@ colony
 camcorder
 camera
 coach
-caption
 camisole
 campsite
 campfire
@@ -350,6 +349,7 @@ cling
 clique
 cloak
 crumpled
+caption
 clobber
 clock
 cloning
