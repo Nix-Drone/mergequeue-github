@@ -160,6 +160,7 @@ enchilada
 encircle
 enclose
 enclosure
+expend
 encode
 eloquent
 expand
@@ -380,7 +381,6 @@ expletive
 explicit
 explode
 explore
-expend
 exploring
 exponent
 external
