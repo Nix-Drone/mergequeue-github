@@ -303,6 +303,7 @@ ballot
 bonds
 bottles
 beginning
+banner
 barrel
 blessed
 brighton
@@ -411,7 +412,6 @@ base
 banks
 breeding
 booking
-banner
 bedding
 broadcast
 buyer
