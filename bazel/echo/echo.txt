@@ -138,7 +138,6 @@ emit
 emote
 extortion
 emotion
-expansion
 educated
 empathic
 empathy
@@ -258,6 +257,7 @@ epiphany
 expediter
 each
 equation
+expansion
 equator
 equinox
 equipment
