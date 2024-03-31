@@ -148,6 +148,7 @@ bench
 bouquet
 benchmark
 berlin
+base
 bored
 broadway
 behalf
@@ -406,7 +407,6 @@ below
 brochures
 boot
 becomes
-base
 banks
 breeding
 booking
