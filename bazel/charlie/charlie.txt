@@ -536,6 +536,7 @@ cauterize
 copious
 copper
 cure
+critter
 copy
 contact
 cork
@@ -559,7 +560,6 @@ corrode
 corroding
 corrosive
 corsage
-critter
 capillary
 corset
 clinic
