@@ -67,6 +67,7 @@ acorn
 attest
 abstract
 active
+approve
 aggregate
 algorithm
 actress
@@ -353,7 +354,6 @@ armhole
 armless
 aspect
 apron
-approve
 ashamed
 ambition
 aspire
