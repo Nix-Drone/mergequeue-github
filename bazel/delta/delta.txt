@@ -27,7 +27,6 @@ decode
 darkroom
 daredevil
 darkening
-divisive
 disparity
 dart
 decimeter
@@ -180,6 +179,7 @@ delirium
 dental
 dentist
 denture
+divisive
 deny
 deodorant
 departure
