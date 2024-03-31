@@ -112,6 +112,7 @@ debug
 deepen
 debrief
 dropout
+defender
 derived
 deface
 defacing
@@ -127,7 +128,6 @@ defection
 defective
 defendant
 directly
-defender
 defense
 deviant
 deferred

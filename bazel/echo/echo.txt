@@ -122,7 +122,6 @@ exploit
 explode
 embolism
 emboss
-emcee
 emerald
 emission
 enquirer
@@ -157,6 +156,7 @@ episode
 eardrum
 elm
 employer
+emcee
 enamel
 enchilada
 enclose
