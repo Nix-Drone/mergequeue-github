@@ -307,7 +307,6 @@ diocese
 dioxide
 diploma
 direction
-detonate
 delay
 directory
 dirtiness
@@ -484,6 +483,7 @@ driller
 drilling
 decoy
 deniable
+detonate
 drinkable
 despise
 decorated
