@@ -86,6 +86,7 @@ electable
 engraved
 emit
 entrench
+emoticon
 elaborate
 elf
 entity
@@ -114,7 +115,6 @@ embezzle
 encounter
 exerciser
 enlarging
-emoticon
 easter
 emblaze
 expenses
