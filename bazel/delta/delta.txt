@@ -321,6 +321,7 @@ disallow
 disarm
 disaster
 disband
+dole
 discard
 discern
 dig
@@ -408,7 +409,6 @@ dodge
 doily
 doing
 dispose
-dole
 dugout
 dollhouse
 dolly
