@@ -327,6 +327,7 @@ disband
 discard
 discern
 dig
+document
 discharge
 dilation
 dumping
@@ -363,7 +364,6 @@ discover
 denatured
 dispersed
 disperser
-document
 display
 displease
 disposal
