@@ -92,6 +92,7 @@ entity
 eligible
 excavator
 ecosphere
+enclose
 earplugs
 elitism
 elk
@@ -160,7 +161,6 @@ elm
 employer
 enamel
 enchilada
-enclose
 elevating
 encode
 eloquent
