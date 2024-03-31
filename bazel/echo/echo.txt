@@ -10,6 +10,7 @@ eatable
 earshot
 epilogue
 economy
+entree
 elixir
 engraver
 earthworm
@@ -374,7 +375,6 @@ expedited
 eggnog
 equate
 expert
-entree
 espionage
 explicit
 expend
