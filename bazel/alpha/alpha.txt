@@ -208,7 +208,6 @@ acquire
 animate
 animation
 animator
-anime
 appointee
 annex
 ambiguous
@@ -313,6 +312,7 @@ aftermath
 armband
 armed
 audible
+anime
 arming
 aflame
 armored
