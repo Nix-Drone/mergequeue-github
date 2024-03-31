@@ -473,7 +473,6 @@ conductor
 confess
 crop
 confidant
-colonize
 confider
 confiding
 confined
@@ -707,6 +706,7 @@ cardinal
 crushed
 crust
 crux
+colonize
 crying
 coexist
 cubbyhole
