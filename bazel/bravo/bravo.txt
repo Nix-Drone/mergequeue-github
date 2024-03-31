@@ -60,6 +60,7 @@ bend
 book
 builder
 barnes
+boss
 bald
 brooklyn
 bitch
@@ -85,7 +86,6 @@ blade
 batman
 buffalo
 blessed
-boss
 broadcasting
 beast
 baker
