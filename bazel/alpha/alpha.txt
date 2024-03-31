@@ -61,7 +61,6 @@ actress
 antonym
 almost
 acutely
-acuteness
 aeration
 alienable
 asleep
@@ -364,6 +363,7 @@ aspirin
 afloat
 astound
 activity
+acuteness
 awry
 astronaut
 astute
