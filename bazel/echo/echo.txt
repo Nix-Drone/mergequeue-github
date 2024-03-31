@@ -98,7 +98,6 @@ elongated
 elixir
 engross
 easel
-enforced
 earmuff
 evoke
 encrypt
@@ -128,6 +127,7 @@ emission
 enquirer
 extrovert
 emergency
+enforced
 emit
 extortion
 emotion

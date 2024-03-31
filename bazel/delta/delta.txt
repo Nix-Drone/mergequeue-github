@@ -173,7 +173,6 @@ demote
 demotion
 demystify
 density
-denial
 distinct
 denote
 dense
@@ -311,6 +310,7 @@ diploma
 dipper
 direction
 detonate
+denial
 delay
 directory
 direness
