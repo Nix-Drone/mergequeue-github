@@ -141,7 +141,6 @@ define
 donator
 divinely
 deflate
-deflation
 deflector
 daughter
 drown
@@ -196,6 +195,7 @@ discard
 depose
 drapery
 depraved
+deflation
 disorder
 deprive
 drainer
