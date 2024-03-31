@@ -151,6 +151,7 @@ cause
 croak
 certified
 causing
+crafter
 chewer
 carry
 certified
@@ -600,7 +601,6 @@ cradling
 clip
 casket
 craftily
-crafter
 craftsman
 curve
 cube
