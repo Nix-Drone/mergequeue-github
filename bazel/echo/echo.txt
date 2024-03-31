@@ -143,6 +143,7 @@ engulf
 equation
 emphases
 expectant
+excluding
 evacuee
 elephant
 employed
@@ -232,7 +233,6 @@ exception
 escapade
 expansive
 entomb
-excluding
 exemplify
 entrust
 establish
