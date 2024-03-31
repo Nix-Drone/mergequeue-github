@@ -206,7 +206,6 @@ chop
 character
 charbroil
 charcoal
-charger
 charging
 comic
 chamber
@@ -608,6 +607,7 @@ craftsman
 curve
 cube
 cushy
+charger
 crafty
 cramp
 cranberry
