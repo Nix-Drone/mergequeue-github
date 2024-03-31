@@ -65,7 +65,6 @@ capped
 capricorn
 colt
 capsize
-capsule
 captivate
 capture
 clutter
@@ -164,6 +163,7 @@ cavalier
 casing
 countable
 caviar
+capsule
 clone
 cacti
 chemo
