@@ -193,7 +193,6 @@ exchange
 engraver
 escargot
 exfoliate
-epidemic
 engraving
 even
 eloquence
@@ -268,6 +267,7 @@ eradicate
 entire
 erasable
 exit
+epidemic
 earache
 erasure
 entourage
