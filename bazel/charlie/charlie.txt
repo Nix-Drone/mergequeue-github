@@ -167,6 +167,7 @@ cacti
 chemo
 calm
 correct
+clock
 cache
 clench
 crowbar
@@ -353,7 +354,6 @@ clique
 cloak
 crumpled
 clobber
-clock
 cloning
 clanking
 closure
