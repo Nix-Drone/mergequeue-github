@@ -235,6 +235,7 @@ device
 dexterity
 dispute
 delirium
+ducking
 distance
 devotedly
 drained
@@ -294,7 +295,6 @@ depravity
 dimly
 directory
 dimmed
-ducking
 dimness
 delouse
 diner
