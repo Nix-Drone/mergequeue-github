@@ -6,6 +6,7 @@ earlobe
 eagle
 egomaniac
 earpiece
+exporter
 eatable
 expanse
 earshot
@@ -385,7 +386,6 @@ external
 editor
 eggplant
 explore
-exporter
 expose
 exact
 entail
