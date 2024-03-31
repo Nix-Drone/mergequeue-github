@@ -238,7 +238,6 @@ entrust
 establish
 everglade
 exterior
-entryway
 emblem
 establish
 egotistic
@@ -340,6 +339,7 @@ exclusive
 education
 excretion
 egging
+entryway
 excretory
 enviable
 excusable
