@@ -261,7 +261,6 @@ dial
 diaper
 diaphragm
 diary
-dice
 dictate
 dictation
 division
@@ -538,6 +537,7 @@ defy
 dedicator
 delegate
 duplicate
+dice
 duplicity
 dinner
 durable
