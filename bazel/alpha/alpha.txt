@@ -245,6 +245,7 @@ amount
 antiquity
 average
 attest
+arrange
 acronym
 alright
 angrily
@@ -297,7 +298,6 @@ afflicted
 april
 apron
 aptly
-arrange
 arousal
 amusable
 ardently
