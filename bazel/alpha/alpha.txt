@@ -118,7 +118,6 @@ anthology
 alias
 alibi
 amber
-alienate
 appointee
 activate
 attention
@@ -374,6 +373,7 @@ avert
 anyplace
 attain
 attempt
+alienate
 attractor
 attendee
 attentive
