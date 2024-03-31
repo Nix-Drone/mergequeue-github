@@ -365,6 +365,7 @@ disprove
 disregard
 disrupt
 dissuade
+duplicate
 dumping
 distort
 distress
@@ -532,7 +533,6 @@ debrief
 defy
 dedicator
 delegate
-duplicate
 duplicity
 dinner
 durable
