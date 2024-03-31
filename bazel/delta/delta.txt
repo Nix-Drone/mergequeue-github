@@ -312,7 +312,6 @@ directive
 directory
 direness
 dirtiness
-disabled
 disallow
 disarm
 disaster
@@ -454,6 +453,7 @@ deluge
 dragster
 drainage
 drainpipe
+disabled
 dizzy
 dramatic
 dramatize
