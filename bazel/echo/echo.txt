@@ -309,7 +309,6 @@ evaluate
 escapable
 exalted
 expiring
-evaluator
 evaporate
 expanse
 evasive
@@ -351,6 +350,7 @@ excretory
 excursion
 excusable
 excusably
+evaluator
 excuse
 exemplary
 exodus
