@@ -9,7 +9,6 @@ epilogue
 economy
 entree
 elixir
-engraver
 elevation
 enjoyer
 employed
@@ -75,6 +74,7 @@ extras
 emphasize
 expensive
 enclosure
+engraver
 elastic
 explain
 eldest
