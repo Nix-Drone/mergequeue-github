@@ -452,6 +452,7 @@ component
 circus
 catalyze
 compost
+curable
 construct
 comprised
 campsite
@@ -722,7 +723,6 @@ cannabis
 cupped
 cupping
 coaster
-curable
 could
 curdle
 cure
