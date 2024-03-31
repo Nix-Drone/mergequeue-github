@@ -124,7 +124,6 @@ embolism
 emboss
 emcee
 emerald
-emission
 enquirer
 extrovert
 engine
@@ -160,6 +159,7 @@ elm
 employer
 enamel
 enchilada
+emission
 enclose
 elevating
 encode
