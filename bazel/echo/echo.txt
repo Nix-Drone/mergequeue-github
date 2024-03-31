@@ -41,7 +41,6 @@ ebook
 eternal
 epic
 embark
-endpoint
 echo
 exclaim
 equipment
@@ -225,6 +224,7 @@ enlarged
 enticing
 edition
 entitle
+endpoint
 effective
 exorcism
 exception
