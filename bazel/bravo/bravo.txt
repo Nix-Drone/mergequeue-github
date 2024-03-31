@@ -220,7 +220,6 @@ ball
 black
 best
 bahrain
-bonus
 backed
 berlin
 blank
@@ -369,6 +368,7 @@ beta
 bull
 battle
 belfast
+bonus
 blogs
 beads
 blast
