@@ -318,7 +318,6 @@ armband
 armed
 arming
 aflame
-armored
 absentee
 armory
 audio
@@ -392,6 +391,7 @@ audibly
 ankle
 aviator
 audition
+armored
 authentic
 author
 aloft

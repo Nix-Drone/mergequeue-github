@@ -389,6 +389,7 @@ cornflake
 cogwheel
 countdown
 coherence
+coeditor
 coherent
 cornmeal
 collar
@@ -728,7 +729,6 @@ cure
 curfew
 cornstalk
 culinary
-coeditor
 catching
 comic
 curled
