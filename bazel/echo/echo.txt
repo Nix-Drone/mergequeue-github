@@ -87,6 +87,7 @@ emit
 entrench
 elaborate
 elf
+essential
 entity
 eligible
 excavator
@@ -292,7 +293,6 @@ elves
 expel
 essence
 enroll
-essential
 easel
 estate
 esteemed
