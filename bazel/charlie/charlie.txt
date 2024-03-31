@@ -649,7 +649,6 @@ creature
 creole
 crept
 crescent
-cloud
 crested
 cattishly
 cresting
@@ -665,6 +664,7 @@ crimp
 crimson
 clubhouse
 cognition
+cloud
 cannot
 carat
 celibacy
