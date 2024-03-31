@@ -56,7 +56,6 @@ activator
 active
 activist
 actress
-antonym
 almost
 acutely
 acuteness
@@ -100,6 +99,7 @@ agreement
 aide
 aim
 ajar
+antonym
 alabaster
 alarm
 albatross
