@@ -265,6 +265,7 @@ entire
 erasable
 exit
 essay
+exclude
 earache
 encrust
 erasure
@@ -336,7 +337,6 @@ emphatic
 edginess
 enjoying
 exciting
-exclude
 exclusion
 exclusive
 education
