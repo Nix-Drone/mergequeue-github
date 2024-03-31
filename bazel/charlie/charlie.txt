@@ -225,7 +225,6 @@ census
 chastity
 chatter
 chatroom
-chatting
 chatty
 cheating
 cheddar
@@ -547,6 +546,7 @@ cure
 contact
 cork
 convent
+chatting
 cornbread
 corncob
 carless

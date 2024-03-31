@@ -237,7 +237,6 @@ everglade
 exterior
 establish
 egotistic
-equivocal
 envious
 emote
 envision
@@ -321,6 +320,7 @@ endnote
 endorse
 evident
 evil
+equivocal
 evolution
 enticing
 evolve
