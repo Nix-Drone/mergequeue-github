@@ -112,6 +112,7 @@ carwash
 case
 casino
 clone
+compactly
 cassette
 casualty
 commute
@@ -440,7 +441,6 @@ commotion
 cape
 compacter
 cascade
-compactly
 compactor
 cancel
 company
