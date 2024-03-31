@@ -144,6 +144,7 @@ causal
 cesspool
 causation
 cause
+croak
 causing
 carry
 conducive
@@ -669,7 +670,6 @@ conduit
 crispy
 criteria
 critter
-croak
 clever
 crock
 crook
