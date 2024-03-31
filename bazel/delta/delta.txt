@@ -109,7 +109,6 @@ deed
 debug
 deepen
 debrief
-dropout
 derived
 deface
 defacing
@@ -505,6 +504,7 @@ dagger
 discuss
 drop-down
 dropbox
+dropout
 dropper
 drove
 drowsily
