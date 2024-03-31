@@ -115,6 +115,7 @@ builders
 britain
 browse
 before
+butler
 beneficial
 bibliography
 basement
@@ -434,7 +435,6 @@ barrier
 birthday
 brutal
 ballet
-butler
 boating
 birds
 build
