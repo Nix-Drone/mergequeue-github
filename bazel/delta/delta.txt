@@ -317,6 +317,7 @@ dingy
 disabled
 disarm
 disaster
+defensive
 disband
 discern
 dig
@@ -398,7 +399,6 @@ dock
 doctrine
 destitute
 ditch
-defensive
 dandruff
 duplex
 deforest

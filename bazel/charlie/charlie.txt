@@ -254,6 +254,7 @@ chest
 chevron
 cavity
 coping
+catalyst
 chewy
 capacity
 chief
@@ -327,7 +328,6 @@ clarinet
 cope
 clarity
 clause
-catalyst
 claw
 clay
 choking
