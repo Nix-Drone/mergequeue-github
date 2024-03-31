@@ -501,7 +501,6 @@ cylinder
 conjoined
 conjure
 conjuror
-connector
 compile
 cathedral
 consensus
@@ -610,6 +609,7 @@ clip
 casket
 craftily
 craftsman
+connector
 cannot
 curve
 cube
