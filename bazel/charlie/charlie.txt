@@ -442,7 +442,6 @@ company
 compare
 carve
 compel
-compile
 comply
 cinch
 component
@@ -502,6 +501,7 @@ conjoined
 conjure
 conjuror
 connector
+compile
 cathedral
 consensus
 consent
