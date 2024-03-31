@@ -179,6 +179,7 @@ ball
 buck
 bids
 biography
+beverage
 bills
 barriers
 binding
@@ -391,7 +392,6 @@ brooks
 beach
 burton
 buttons
-beverage
 badly
 both
 bath
