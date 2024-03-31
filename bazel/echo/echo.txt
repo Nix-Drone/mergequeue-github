@@ -44,7 +44,6 @@ epic
 echo
 exclaim
 elevate
-enable
 eclair
 eclipse
 elated
@@ -287,6 +286,7 @@ easeful
 entire
 equal
 endpoint
+enable
 expanse
 essence
 essential
