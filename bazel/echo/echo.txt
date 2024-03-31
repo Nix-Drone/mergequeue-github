@@ -32,7 +32,6 @@ efficient
 eaten
 evasion
 etching
-eatery
 earthen
 eats
 ethanol
@@ -395,6 +394,7 @@ evict
 extent
 express
 exquisite
+eatery
 extended
 extending
 extinct
