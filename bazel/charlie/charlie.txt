@@ -240,6 +240,7 @@ chubby
 cheese
 composer
 carrot
+creme
 chef
 chemicals
 chemist
@@ -649,7 +650,6 @@ compacted
 credible
 crier
 credibly
-creme
 creature
 creole
 crept
