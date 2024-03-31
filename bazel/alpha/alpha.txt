@@ -253,7 +253,6 @@ acronym
 alright
 angrily
 ascension
-askew
 antirust
 antitoxic
 autopilot
@@ -362,6 +361,7 @@ afloat
 astound
 activity
 awry
+askew
 astronaut
 anthology
 atlas
