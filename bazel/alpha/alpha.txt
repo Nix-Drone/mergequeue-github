@@ -71,7 +71,6 @@ algorithm
 actress
 antonym
 almost
-agonize
 acutely
 acuteness
 angelfish
@@ -194,6 +193,7 @@ album
 await
 anaerobic
 aptitude
+agonize
 astrology
 anatomy
 anchor
