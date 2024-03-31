@@ -306,6 +306,7 @@ evade
 evaluate
 escapable
 exalted
+expiring
 evaluator
 evaporate
 expanse
@@ -375,7 +376,6 @@ expend
 equate
 expert
 expire
-expiring
 entree
 explain
 expletive
