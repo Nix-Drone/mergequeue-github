@@ -68,7 +68,6 @@ affirm
 atrium
 afford
 affront
-afloat
 august
 aflutter
 afoot
@@ -359,6 +358,7 @@ aspect
 ambition
 aspire
 aspirin
+afloat
 astonish
 astound
 activity
