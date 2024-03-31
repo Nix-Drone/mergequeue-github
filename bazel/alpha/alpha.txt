@@ -118,7 +118,6 @@ alarm
 albatross
 agonizing
 affix
-album
 ajar
 accuracy
 apply
@@ -194,6 +193,7 @@ amused
 agile
 art
 accurate
+album
 await
 anaerobic
 aptitude
