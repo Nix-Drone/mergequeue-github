@@ -96,6 +96,7 @@ boards
 below
 bermuda
 biblical
+berkeley
 beverly
 bicycle
 bride
@@ -360,7 +361,6 @@ bloomberg
 breath
 bargains
 budapest
-berkeley
 bell
 beat
 baseball
