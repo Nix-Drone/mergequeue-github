@@ -13,7 +13,6 @@ elixir
 engraver
 elevation
 enjoyer
-ecard
 employed
 enforcer
 earwig
@@ -179,6 +178,7 @@ emphasis
 emptiness
 excursion
 exert
+ecard
 endeared
 earthlike
 endocrine
