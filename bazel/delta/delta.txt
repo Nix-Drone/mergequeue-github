@@ -277,7 +277,6 @@ dormitory
 diminish
 defog
 dejected
-dreaded
 diffusion
 diffusive
 distaste
@@ -467,6 +466,7 @@ dreamland
 dreamless
 directed
 dreamy
+dreaded
 dreary
 drench
 dress
