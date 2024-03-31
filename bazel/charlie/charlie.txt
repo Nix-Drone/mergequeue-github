@@ -315,7 +315,6 @@ ceramics
 clambake
 coaster
 cameo
-clamp
 clamshell
 clapper
 carton
@@ -394,6 +393,7 @@ cruelness
 cohesive
 coil
 coke
+clamp
 commode
 candy
 cola
