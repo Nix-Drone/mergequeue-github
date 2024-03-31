@@ -443,7 +443,6 @@ cascade
 compactly
 compactor
 cancel
-company
 compare
 compel
 compile
@@ -553,6 +552,7 @@ cider
 cornfield
 cornhusk
 corny
+company
 coronary
 coroner
 corporate
