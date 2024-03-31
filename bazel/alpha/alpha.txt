@@ -139,7 +139,6 @@ absolute
 activate
 attention
 alike
-alive
 alkaline
 arrival
 abstain
@@ -214,6 +213,7 @@ animal
 aground
 animate
 animator
+alive
 anime
 appointee
 annex
