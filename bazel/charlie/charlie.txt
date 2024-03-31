@@ -26,7 +26,6 @@ colony
 camcorder
 camera
 coach
-camisole
 campsite
 campfire
 camping
@@ -329,6 +328,7 @@ catalyst
 claw
 clay
 clean
+camisole
 creasing
 cleaver
 clergyman
