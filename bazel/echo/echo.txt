@@ -43,6 +43,7 @@ eternal
 epic
 embark
 echo
+endpoint
 exclaim
 equipment
 elevate
@@ -325,7 +326,6 @@ example
 earphone
 excavate
 exceeding
-endpoint
 eskimo
 excess
 excitable
