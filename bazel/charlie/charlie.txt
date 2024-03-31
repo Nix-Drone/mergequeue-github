@@ -62,7 +62,6 @@ capitol
 capped
 capricorn
 capsize
-capsule
 caption
 captivate
 captive
@@ -236,6 +235,7 @@ cheese
 cheesy
 chef
 chemicals
+capsule
 chemist
 canning
 chemo
