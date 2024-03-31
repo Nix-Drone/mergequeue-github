@@ -374,7 +374,6 @@ entree
 espionage
 expletive
 explicit
-explore
 expend
 exploring
 escapist
@@ -384,6 +383,7 @@ external
 editor
 ensnare
 eggplant
+explore
 exporter
 expose
 exact
