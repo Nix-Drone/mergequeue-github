@@ -23,7 +23,6 @@ certified
 calorie
 calzone
 camcorder
-campsite
 camera
 camisole
 camper
@@ -510,6 +509,7 @@ console
 chevy
 consoling
 chosen
+campsite
 constrain
 constrict
 craftwork
