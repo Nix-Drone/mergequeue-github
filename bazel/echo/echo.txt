@@ -104,7 +104,6 @@ elixir
 ebony
 easel
 earmuff
-expulsion
 evoke
 elsewhere
 exhume
@@ -137,6 +136,7 @@ emotion
 educated
 empathic
 empathy
+expulsion
 emperor
 engulf
 entail
