@@ -193,7 +193,6 @@ aqueduct
 agile
 art
 accurate
-anaconda
 await
 anaerobic
 anatomy
@@ -258,6 +257,7 @@ antirust
 antitoxic
 autopilot
 antiviral
+anaconda
 aviation
 almanac
 antsy
