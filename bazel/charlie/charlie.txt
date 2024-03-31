@@ -171,7 +171,6 @@ cache
 clench
 crowbar
 curtain
-calibrate
 celestial
 celtic
 connected
@@ -466,6 +465,7 @@ concierge
 concise
 cringe
 conclude
+calibrate
 concrete
 condense
 condition
