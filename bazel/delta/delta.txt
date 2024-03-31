@@ -324,6 +324,7 @@ disband
 discern
 dig
 document
+depth
 discharge
 dilation
 dumping
@@ -490,7 +491,6 @@ duffel
 dripping
 drippy
 driveway
-depth
 decal
 drivable
 driver
