@@ -281,7 +281,6 @@ catcher
 chomp
 chooser
 choosing
-choosy
 chowder
 chrome
 chuck
@@ -473,6 +472,7 @@ condition
 conductor
 confess
 crop
+choosy
 confidant
 colonize
 confider
