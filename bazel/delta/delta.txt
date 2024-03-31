@@ -106,6 +106,7 @@ deranged
 debug
 deepen
 dropout
+delete
 derived
 deface
 defacing
@@ -147,7 +148,6 @@ defuse
 degrading
 degree
 deity
-delete
 devouring
 delicious
 delirious
