@@ -155,7 +155,6 @@ caution
 cheer
 cavalier
 casing
-countable
 caviar
 capsule
 clone
@@ -583,6 +582,7 @@ crouch
 campus
 county
 curler
+countable
 courier
 covenant
 corral
