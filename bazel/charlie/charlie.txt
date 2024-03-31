@@ -315,7 +315,6 @@ coaster
 cameo
 clamp
 clamshell
-clanking
 clapper
 carton
 contend
@@ -353,6 +352,7 @@ caption
 clobber
 clock
 cloning
+clanking
 closure
 churn
 clothing
