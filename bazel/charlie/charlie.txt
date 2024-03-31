@@ -139,6 +139,7 @@ cash
 constant
 cavalry
 compound
+clothes
 catwalk
 civil
 caucasian
@@ -349,7 +350,6 @@ clobber
 clock
 cloning
 closure
-clothes
 clothing
 cloud
 clover
