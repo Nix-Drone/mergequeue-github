@@ -91,7 +91,6 @@ entity
 eligible
 excavator
 ecosphere
-elite
 earplugs
 elitism
 elk
@@ -139,6 +138,7 @@ envy
 empathy
 expulsion
 emperor
+elite
 encircle
 engulf
 equation
