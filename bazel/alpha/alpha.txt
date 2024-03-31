@@ -289,7 +289,6 @@ appliance
 applicant
 applied
 apply
-appraisal
 automatic
 apprehend
 angles
@@ -404,6 +403,7 @@ armoire
 aversion
 animating
 armful
+appraisal
 avid
 awaken
 agreeable

@@ -129,7 +129,6 @@ enquirer
 extrovert
 emergency
 emit
-emote
 extortion
 emotion
 empathic
@@ -241,6 +240,7 @@ enviable
 establish
 enviably
 envious
+emote
 exposable
 envision
 exhume
