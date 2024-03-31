@@ -122,7 +122,6 @@ catering
 catfight
 catlike
 catnap
-catnip
 catsup
 cross
 cherub
@@ -471,6 +470,7 @@ concrete
 condense
 condition
 conductor
+catnip
 contently
 clasp
 confess
