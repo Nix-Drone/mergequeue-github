@@ -167,6 +167,7 @@ clone
 cacti
 calm
 correct
+cache
 clench
 crowbar
 curtain
@@ -206,7 +207,6 @@ chaperone
 crawlers
 contest
 chapped
-cache
 chaps
 chop
 charcoal
