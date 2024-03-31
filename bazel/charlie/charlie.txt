@@ -64,6 +64,7 @@ capital
 capitol
 capped
 capricorn
+colt
 capsize
 capsule
 caption
@@ -416,7 +417,6 @@ collide
 cactus
 collie
 colonist
-colt
 coma
 come
 cyclist
