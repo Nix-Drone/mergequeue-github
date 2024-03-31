@@ -130,6 +130,7 @@ bolivia
 blah
 beliefs
 begin
+bias
 bang
 butt
 beans
@@ -342,7 +343,6 @@ breakfast
 buildings
 bullet
 bondage
-bias
 breaking
 blink
 buzz

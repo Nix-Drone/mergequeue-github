@@ -112,6 +112,7 @@ anthill
 affix
 album
 accuracy
+apply
 atonable
 algebra
 algorithm
@@ -286,7 +287,6 @@ applaud
 aloe
 appliance
 applicant
-apply
 automatic
 apprehend
 angles
