@@ -225,7 +225,6 @@ disobey
 detest
 dismount
 default
-detoxify
 deuce
 diffuser
 darn
@@ -539,6 +538,7 @@ duplicate
 dinner
 deacon
 durable
+detoxify
 duration
 destruct
 distract
