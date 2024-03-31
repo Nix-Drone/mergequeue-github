@@ -249,6 +249,7 @@ device
 dispute
 distance
 devotedly
+dragonish
 drained
 devotion
 devourer
@@ -372,7 +373,6 @@ distort
 daybreak
 distrust
 ditto
-dragonish
 deferral
 defiant
 dividable
