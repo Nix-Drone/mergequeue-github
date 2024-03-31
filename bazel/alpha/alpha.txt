@@ -94,7 +94,6 @@ agent
 aggregate
 ambitious
 agonize
-avenge
 automated
 avatar
 altitude
@@ -187,6 +186,7 @@ anchovy
 antiquely
 amused
 aqueduct
+avenge
 agile
 art
 accurate
