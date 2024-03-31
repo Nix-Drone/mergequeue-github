@@ -318,6 +318,7 @@ carton
 contend
 chip
 crank
+constant
 crouton
 clay
 clarinet
@@ -342,7 +343,6 @@ creation
 clicker
 climate
 clubbed
-constant
 clinking
 cling
 clique
