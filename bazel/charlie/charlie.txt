@@ -141,7 +141,6 @@ cash
 carrousel
 clammy
 constant
-compound
 clothes
 catwalk
 civil
@@ -251,6 +250,7 @@ canning
 crayon
 cherisher
 chess
+compound
 culture
 chest
 chevron
