@@ -43,7 +43,6 @@ epic
 echo
 exclaim
 elevate
-enable
 eclair
 eclipse
 elated
@@ -395,6 +394,7 @@ everyone
 evict
 extent
 express
+enable
 exquisite
 extended
 extending
