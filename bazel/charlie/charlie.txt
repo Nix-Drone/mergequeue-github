@@ -375,6 +375,7 @@ coastland
 coastline
 coat
 cobalt
+carnivore
 cytoplasm
 cobweb
 cocoa
@@ -484,7 +485,6 @@ carpentry
 compacted
 conflict
 curling
-carnivore
 conform
 confront
 confused
