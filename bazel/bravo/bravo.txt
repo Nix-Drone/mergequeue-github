@@ -109,6 +109,7 @@ bottles
 beds
 basic
 booking
+brick
 boats
 beings
 blake
@@ -130,7 +131,6 @@ boss
 bibliography
 began
 banking
-brick
 bronze
 bread
 banned
