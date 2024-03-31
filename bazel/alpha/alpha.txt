@@ -113,7 +113,6 @@ ashes
 atonable
 algebra
 algorithm
-anthology
 ahoy
 alias
 alibi
@@ -302,6 +301,7 @@ arrange
 arousal
 ardently
 angled
+anthology
 absently
 area
 arena
