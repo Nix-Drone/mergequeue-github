@@ -224,7 +224,6 @@ bonus
 backed
 berlin
 blank
-bind
 basis
 broke
 bali
@@ -450,6 +449,7 @@ browsing
 belly
 bras
 branches
+bind
 breeds
 ballot
 bolt
