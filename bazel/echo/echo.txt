@@ -87,7 +87,6 @@ entrench
 elaborate
 elf
 entity
-eligible
 expanse
 excavator
 ecosphere
@@ -293,6 +292,7 @@ enroll
 essential
 easel
 estate
+eligible
 esteemed
 epileptic
 egomaniac
