@@ -75,7 +75,6 @@ extras
 emphasize
 expensive
 enclosure
-elastic
 explain
 eldest
 entrap
@@ -357,6 +356,7 @@ evaluator
 embroider
 exemplary
 exodus
+elastic
 exorcist
 enunciate
 exhale
