@@ -284,6 +284,7 @@ chooser
 choosing
 choosy
 chowder
+copy
 chrome
 chuck
 chug
@@ -539,7 +540,6 @@ cauterize
 copious
 copper
 cure
-copy
 contact
 cork
 capable
