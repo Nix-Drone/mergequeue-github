@@ -281,6 +281,7 @@ direness
 duly
 diffused
 diminish
+defog
 dejected
 dreaded
 diffusion
@@ -450,7 +451,6 @@ dragging
 dragonfly
 deluge
 dragster
-defog
 disallow
 drainage
 dizzy
