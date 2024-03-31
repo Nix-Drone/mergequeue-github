@@ -58,6 +58,7 @@ blow
 book
 builder
 barnes
+boat
 bald
 brooklyn
 bitch
@@ -248,7 +249,6 @@ balanced
 blake
 bowling
 bingo
-boat
 brave
 berry
 body
