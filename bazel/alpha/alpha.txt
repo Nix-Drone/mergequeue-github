@@ -98,7 +98,6 @@ altitude
 agreed
 amplify
 agreement
-ahoy
 aide
 aim
 atrophy
@@ -116,6 +115,7 @@ atonable
 algebra
 algorithm
 anthology
+ahoy
 alias
 alibi
 amber
