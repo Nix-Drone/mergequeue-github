@@ -110,6 +110,7 @@ anthill
 affix
 aftermath
 album
+accuracy
 ashes
 atonable
 algebra
@@ -289,7 +290,6 @@ applicant
 applied
 apply
 appraisal
-accuracy
 automatic
 apprehend
 angles
