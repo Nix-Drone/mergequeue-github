@@ -104,7 +104,6 @@ chivalry
 cartel
 cartload
 cube
-carton
 climatic
 compress
 cartridge
@@ -318,6 +317,7 @@ clamp
 clamshell
 clanking
 clapper
+carton
 contend
 chip
 clapping
