@@ -29,7 +29,6 @@ coach
 caption
 camisole
 campsite
-camper
 campfire
 camping
 clavicle
@@ -718,6 +717,7 @@ coliseum
 cupcake
 cupid
 cannabis
+camper
 cupped
 cupping
 coaster
