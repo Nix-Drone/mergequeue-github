@@ -109,7 +109,6 @@ elves
 embark
 embattled
 embellish
-embody
 embezzle
 encounter
 exerciser
@@ -265,6 +264,7 @@ entourage
 errand
 errant
 egotistic
+embody
 empirical
 earthling
 essay

@@ -29,7 +29,6 @@ camisole
 camper
 campfire
 camping
-chitchat
 campus
 canal
 composure
@@ -616,6 +615,7 @@ crane
 cattail
 closable
 crave
+chitchat
 cranial
 crate
 craving
