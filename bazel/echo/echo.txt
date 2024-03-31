@@ -87,6 +87,7 @@ elevator
 elf
 entity
 eligible
+everglade
 excavator
 ecosphere
 elite
@@ -305,7 +306,6 @@ escapable
 exalted
 expiring
 evasive
-everglade
 eraser
 evergreen
 eating
