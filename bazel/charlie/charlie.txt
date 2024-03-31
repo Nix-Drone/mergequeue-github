@@ -576,7 +576,6 @@ cottage
 cotton
 couch
 cough
-countable
 countdown
 counting
 county
@@ -693,6 +692,7 @@ crumpet
 cruncher
 crunching
 cranium
+countable
 crunchy
 crusader
 crushable
