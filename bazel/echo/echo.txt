@@ -86,7 +86,6 @@ elevator
 elf
 entity
 eligible
-everglade
 excavator
 ecosphere
 elite
@@ -228,6 +227,7 @@ exemplify
 entrench
 entrust
 establish
+everglade
 emu
 exterior
 entryway
