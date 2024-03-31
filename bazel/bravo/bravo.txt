@@ -112,6 +112,7 @@ beam
 bottles
 beds
 basic
+booking
 boats
 beings
 blake
@@ -415,7 +416,6 @@ beans
 banks
 bottom
 breeding
-booking
 bedding
 binary
 broadcast
