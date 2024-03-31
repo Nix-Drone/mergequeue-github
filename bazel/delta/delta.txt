@@ -313,7 +313,6 @@ delay
 dirtiness
 dry
 dingy
-disabled
 disarm
 disaster
 disband
@@ -441,6 +440,7 @@ december
 deceased
 driven
 dormitory
+disabled
 doze
 discover
 ditzy
