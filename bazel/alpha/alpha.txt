@@ -116,7 +116,6 @@ atonable
 algebra
 algorithm
 amplifier
-anthology
 ahoy
 alias
 angling
@@ -367,6 +366,7 @@ astound
 activity
 awry
 astronaut
+anthology
 astute
 atlas
 aneurism
