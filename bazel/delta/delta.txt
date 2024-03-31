@@ -192,6 +192,7 @@ deploy
 donation
 dizziness
 deport
+discard
 depose
 drapery
 depraved
@@ -322,7 +323,6 @@ disallow
 disarm
 disaster
 disband
-discard
 discern
 dig
 document
