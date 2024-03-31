@@ -238,7 +238,6 @@ detoxify
 deuce
 diffuser
 darn
-deviator
 device
 dexterity
 dispute
@@ -319,6 +318,7 @@ disaster
 disband
 discern
 dig
+deviator
 document
 depth
 discharge
