@@ -26,6 +26,7 @@ calzone
 colony
 camcorder
 camera
+coach
 camisole
 campsite
 camper
@@ -369,7 +370,6 @@ clumsy
 clustered
 catty
 clutch
-coach
 coastal
 coasting
 customize
