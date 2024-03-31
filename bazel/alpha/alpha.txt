@@ -114,6 +114,7 @@ ashes
 atonable
 algebra
 algorithm
+amplifier
 anthology
 ahoy
 alias
@@ -178,7 +179,6 @@ attention
 acre
 amperage
 ample
-amplifier
 arise
 aspirate
 anywhere
