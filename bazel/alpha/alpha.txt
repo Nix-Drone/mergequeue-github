@@ -348,7 +348,6 @@ attribute
 ascent
 ashamed
 atlantic
-avoid
 achiness
 armhole
 afar
@@ -383,6 +382,7 @@ attic
 attire
 attitude
 atypical
+avoid
 alone
 amusing
 auction
