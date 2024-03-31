@@ -186,7 +186,6 @@ endowment
 endurance
 energetic
 energize
-elevator
 energy
 engaged
 expire
@@ -339,6 +338,7 @@ exclusion
 exclusive
 education
 excretion
+elevator
 egging
 entryway
 excretory
