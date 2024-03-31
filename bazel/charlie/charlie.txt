@@ -230,7 +230,6 @@ census
 chastity
 chatter
 chatroom
-chatting
 chatty
 cheating
 cheddar
@@ -591,6 +590,7 @@ caterer
 cozily
 copier
 clause
+chatting
 channel
 coagulant
 crabbing
