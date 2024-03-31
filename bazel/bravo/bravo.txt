@@ -279,6 +279,7 @@ booth
 breed
 beer
 border
+barrel
 beauty
 basketball
 bruce
@@ -308,7 +309,6 @@ bedroom
 bonds
 bottles
 beginning
-barrel
 blessed
 brighton
 byte
