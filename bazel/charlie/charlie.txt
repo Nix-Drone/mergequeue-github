@@ -413,7 +413,6 @@ coral
 corporal
 collected
 collide
-cactus
 collie
 colonist
 colt
@@ -425,6 +424,7 @@ comfy
 confirm
 coming
 catapult
+cactus
 comma
 companion
 commence
