@@ -33,6 +33,7 @@ eaten
 evasion
 elusive
 etching
+exposure
 earthen
 eats
 ethanol
@@ -388,7 +389,6 @@ exporter
 expose
 exact
 entail
-exposure
 everyone
 evict
 extent
