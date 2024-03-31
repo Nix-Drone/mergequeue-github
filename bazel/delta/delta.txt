@@ -266,7 +266,6 @@ diabetic
 disliking
 diagnoses
 diagnosis
-dagger
 dial
 diaper
 directive
@@ -503,6 +502,7 @@ dose
 droop
 detective
 distress
+dagger
 discuss
 drop-down
 dropbox
