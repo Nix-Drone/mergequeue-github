@@ -319,7 +319,6 @@ cameo
 clamp
 clamshell
 clapper
-carton
 contend
 chip
 crank
@@ -476,6 +475,7 @@ clasp
 confess
 crop
 confidant
+carton
 confider
 confiding
 confined
