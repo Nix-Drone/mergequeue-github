@@ -93,6 +93,7 @@ elevation
 elaborate
 elevator
 elf
+entity
 eligible
 excavator
 ecosphere
@@ -225,7 +226,6 @@ entitle
 exception
 escapade
 exorcism
-entity
 entomb
 entourage
 entrap
