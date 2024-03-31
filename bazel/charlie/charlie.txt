@@ -215,7 +215,6 @@ charm
 credit
 charred
 charter
-charting
 confident
 corridor
 chase
@@ -538,6 +537,7 @@ cacti
 copilot
 cartoon
 cauterize
+charting
 copious
 copper
 cure
