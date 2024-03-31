@@ -243,7 +243,6 @@ composer
 carrot
 chef
 chemicals
-crouton
 chemist
 canning
 crayon
@@ -321,6 +320,7 @@ contend
 chip
 clapping
 crank
+crouton
 clarinet
 cope
 clarity
