@@ -240,7 +240,6 @@ device
 distance
 devotedly
 drained
-devotee
 devotion
 devourer
 dutiful
@@ -408,6 +407,7 @@ dugout
 dollhouse
 dolly
 dancing
+devotee
 domain
 domestic
 dominion
