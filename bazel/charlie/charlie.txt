@@ -26,6 +26,7 @@ colony
 camcorder
 camera
 coach
+conclude
 camisole
 campsite
 campfire
@@ -466,7 +467,6 @@ conch
 concierge
 concise
 cringe
-conclude
 concrete
 condense
 condition
