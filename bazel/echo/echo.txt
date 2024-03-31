@@ -33,6 +33,7 @@ eaten
 evasion
 elusive
 etching
+entwine
 earthen
 eats
 ethanol
@@ -167,7 +168,6 @@ enclose
 encode
 eloquent
 expand
-entwine
 encourage
 encroach
 emphatic
