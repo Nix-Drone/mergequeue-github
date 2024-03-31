@@ -514,7 +514,6 @@ cranial
 coach
 constrict
 craftwork
-consult
 consumer
 cane
 cartwheel
@@ -582,6 +581,7 @@ class
 couch
 character
 cough
+consult
 crouch
 campus
 county
