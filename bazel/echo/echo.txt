@@ -40,7 +40,6 @@ eating
 eats
 ethanol
 ebook
-eternal
 epic
 echo
 exclaim
@@ -371,6 +370,7 @@ edition
 elated
 expedited
 expel
+eternal
 equate
 expert
 expire
