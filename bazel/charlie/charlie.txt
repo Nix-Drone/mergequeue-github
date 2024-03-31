@@ -387,6 +387,7 @@ carpenter
 cod
 coerce
 context
+criteria
 crevice
 confetti
 cofounder
@@ -669,7 +670,6 @@ curry
 confound
 conduit
 crispy
-criteria
 critter
 clever
 crock
