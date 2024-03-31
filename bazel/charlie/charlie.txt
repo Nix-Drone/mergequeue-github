@@ -54,7 +54,6 @@ cornhusk
 clash
 confirm
 customs
-cobbler
 canopener
 cryptic
 canopy
@@ -113,6 +112,7 @@ commence
 carving
 carwash
 case
+cobbler
 casino
 cassette
 collapse
