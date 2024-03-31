@@ -227,6 +227,7 @@ edition
 entitle
 ebook
 effective
+extent
 exorcism
 exception
 escapade
@@ -391,7 +392,6 @@ exact
 entail
 everyone
 evict
-extent
 excuse
 express
 enable
