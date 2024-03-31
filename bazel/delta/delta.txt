@@ -27,7 +27,6 @@ decode
 darkroom
 daredevil
 darkening
-divisive
 disparity
 dart
 decimeter
@@ -286,6 +285,7 @@ dreaded
 diffusion
 diffusive
 distaste
+divisive
 detail
 diligence
 deception
