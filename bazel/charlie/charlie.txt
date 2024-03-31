@@ -198,7 +198,6 @@ chamomile
 champion
 change
 chaperone
-crawlers
 contest
 chapped
 cache
@@ -232,6 +231,7 @@ chatter
 chatroom
 chatting
 chatty
+crawlers
 cheating
 cheddar
 cheek
