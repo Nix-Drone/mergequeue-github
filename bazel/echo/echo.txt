@@ -91,7 +91,6 @@ elevation
 elaborate
 elevator
 elf
-entity
 eligible
 excavator
 ecosphere
@@ -322,6 +321,7 @@ ebay
 evident
 evil
 evolution
+entity
 evolve
 example
 elm
