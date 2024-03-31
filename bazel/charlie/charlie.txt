@@ -542,7 +542,6 @@ cure
 copy
 contact
 cork
-capable
 convent
 cornbread
 corncob
@@ -631,6 +630,7 @@ crazily
 craziness
 crazy
 cedar
+capable
 crisped
 carve
 creamed
