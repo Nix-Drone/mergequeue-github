@@ -307,7 +307,6 @@ dimness
 delouse
 diner
 dingbat
-dice
 dinghy
 dining
 diocese
@@ -531,6 +530,7 @@ devalue
 dupe
 defy
 dedicator
+dice
 delegate
 disdain
 duplicate
