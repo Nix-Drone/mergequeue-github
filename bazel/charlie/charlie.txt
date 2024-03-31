@@ -121,7 +121,6 @@ cassette
 casualty
 commute
 catacomb
-chance
 catalog
 cataract
 coauthor
@@ -375,6 +374,7 @@ customize
 cruelty
 coastland
 coastline
+chance
 coat
 cobalt
 carnivore
