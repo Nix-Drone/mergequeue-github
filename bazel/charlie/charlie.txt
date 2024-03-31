@@ -506,6 +506,7 @@ console
 chevy
 campsite
 constrain
+counting
 constrict
 craftwork
 consult
@@ -572,7 +573,6 @@ class
 cotton
 couch
 cough
-counting
 crouch
 county
 curler
