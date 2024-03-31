@@ -137,7 +137,6 @@ expulsion
 emperor
 engulf
 equation
-entail
 emphases
 evacuee
 elephant
@@ -162,6 +161,7 @@ enclose
 encode
 eloquent
 expand
+entail
 encourage
 encroach
 emphatic
