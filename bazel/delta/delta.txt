@@ -235,6 +235,7 @@ detention
 delta
 danger
 dayroom
+disobey
 detest
 dismount
 default
@@ -352,7 +353,6 @@ doornail
 dismantle
 dismay
 dismiss
-disobey
 disparate
 discover
 denatured
