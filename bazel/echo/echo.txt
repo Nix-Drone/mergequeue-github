@@ -89,7 +89,6 @@ entrench
 elaborate
 elf
 entity
-eligible
 expanse
 elbow
 excavator
@@ -293,6 +292,7 @@ enroll
 essential
 easel
 estate
+eligible
 esteemed
 epileptic
 egomaniac
