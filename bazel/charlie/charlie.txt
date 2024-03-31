@@ -337,6 +337,7 @@ clay
 clean
 creasing
 cleaver
+companion
 clergyman
 cross
 clerical
@@ -423,7 +424,6 @@ coming
 catapult
 cactus
 comma
-companion
 commence
 commend
 comment
