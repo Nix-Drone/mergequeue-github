@@ -100,7 +100,6 @@ carrousel
 chivalry
 cartel
 cartload
-cube
 carton
 climatic
 cartoon
@@ -513,6 +512,7 @@ constrain
 constrict
 craftwork
 consult
+cube
 consumer
 cane
 consuming
