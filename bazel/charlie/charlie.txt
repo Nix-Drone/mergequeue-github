@@ -35,6 +35,7 @@ client
 cognitive
 canary
 cone
+cortex
 cadillac
 canine
 canister
@@ -566,7 +567,6 @@ critter
 capillary
 corset
 clinic
-cortex
 cosigner
 cosmetics
 cosmos
