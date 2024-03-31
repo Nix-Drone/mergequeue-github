@@ -11,6 +11,7 @@ earshot
 epilogue
 economy
 elixir
+engraver
 earthworm
 enjoyer
 ecard
@@ -193,7 +194,6 @@ engaged
 expire
 engaging
 exchange
-engraver
 escargot
 epidemic
 engraving
