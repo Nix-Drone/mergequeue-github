@@ -69,7 +69,6 @@ empower
 elm
 either
 estimate
-economic
 eject
 extras
 explain
@@ -258,6 +257,7 @@ expansion
 equator
 equinox
 enjoyment
+economic
 eggbeater
 eradicate
 erasable
