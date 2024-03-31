@@ -109,6 +109,7 @@ alarm
 albatross
 agonizing
 anthill
+avoid
 affix
 album
 ajar
@@ -353,7 +354,6 @@ attribute
 ascent
 ashamed
 atlantic
-avoid
 achiness
 afar
 anagram
