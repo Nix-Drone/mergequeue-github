@@ -72,6 +72,7 @@ economic
 eject
 extras
 explain
+emphasize
 expensive
 ebony
 enclosure
@@ -198,7 +199,6 @@ engraving
 even
 eloquence
 ellipse
-emphasize
 enhance
 enigmatic
 enjoyable
