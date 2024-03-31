@@ -246,6 +246,7 @@ cherisher
 chess
 chest
 chevron
+cavity
 chewable
 coping
 chewer
@@ -675,7 +676,6 @@ crock
 crook
 croon
 crouch
-cavity
 crown
 crucial
 cleat
