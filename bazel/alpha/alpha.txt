@@ -64,6 +64,7 @@ algorithm
 actress
 antonym
 almost
+audacity
 agonize
 acutely
 acuteness
@@ -332,7 +333,6 @@ armrest
 acts
 around
 aloe
-audacity
 array
 arbitrary
 amnesty
