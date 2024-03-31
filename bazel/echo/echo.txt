@@ -103,6 +103,7 @@ elixir
 engross
 easel
 enforced
+excretory
 earmuff
 evoke
 encrypt
@@ -335,7 +336,6 @@ exclusion
 exclusive
 education
 excretion
-excretory
 excusable
 excusably
 equal
