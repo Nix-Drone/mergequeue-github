@@ -2,7 +2,6 @@ cabbage
 coffee
 cabdriver
 cable
-caboose
 cackle
 collision
 caddy
@@ -225,6 +224,7 @@ chaste
 chowtime
 chastise
 census
+caboose
 chastity
 chatter
 chatroom
