@@ -150,6 +150,7 @@ defraud
 disloyal
 drew
 defuse
+disarm
 degrading
 degree
 deity
@@ -319,7 +320,6 @@ dirtiness
 dry
 dingy
 disabled
-disarm
 disaster
 disband
 discern
