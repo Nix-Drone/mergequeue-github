@@ -96,7 +96,6 @@ entity
 eligible
 excavator
 ecosphere
-enforcer
 elite
 elitism
 elk
@@ -201,6 +200,7 @@ enjoyable
 elevating
 enjoyably
 early
+enforcer
 embargo
 enjoyment
 enjoyer
