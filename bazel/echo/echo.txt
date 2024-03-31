@@ -216,7 +216,6 @@ essay
 extrude
 engine
 enslave
-ensure
 entangled
 entering
 elderly
@@ -264,6 +263,7 @@ equipment
 eggbeater
 equity
 equivocal
+ensure
 eradicate
 erasable
 erased
