@@ -142,7 +142,6 @@ definite
 donator
 deflate
 deflation
-deflected
 deflector
 defog
 daughter
@@ -550,6 +549,7 @@ dreamt
 dust
 duty
 dwarf
+deflected
 defile
 deputize
 dynamic
