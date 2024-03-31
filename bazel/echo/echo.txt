@@ -7,7 +7,6 @@ eagle
 egomaniac
 earpiece
 eatable
-expanse
 earshot
 epilogue
 elixir
@@ -92,6 +91,7 @@ elaborate
 elf
 entity
 eligible
+expanse
 excavator
 ecosphere
 elitism
