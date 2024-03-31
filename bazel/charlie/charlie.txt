@@ -5,6 +5,7 @@ cabdriver
 cable
 caboose
 cackle
+collision
 caddy
 cupbearer
 cadet
@@ -416,7 +417,6 @@ collected
 collide
 cactus
 collie
-collision
 colonist
 colt
 coma
