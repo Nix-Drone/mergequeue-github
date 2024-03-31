@@ -90,7 +90,6 @@ elf
 entity
 eligible
 excavator
-ecosphere
 elite
 elitism
 elk
@@ -244,6 +243,7 @@ egomaniac
 epidemic
 epidermal
 epilepsy
+ecosphere
 envelope
 earmark
 expediter
