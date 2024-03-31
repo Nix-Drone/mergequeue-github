@@ -68,7 +68,6 @@ attest
 abstract
 active
 aggregate
-activist
 algorithm
 actress
 antonym
@@ -325,6 +324,7 @@ armory
 audio
 acting
 anatomist
+activist
 amuck
 acclaim
 anagram
