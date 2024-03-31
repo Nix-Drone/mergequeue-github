@@ -20,7 +20,6 @@ clang
 caloric
 captive
 calorie
-calzone
 curled
 colony
 camcorder
@@ -470,6 +469,7 @@ conductor
 clasp
 confess
 crop
+calzone
 confidant
 confider
 confiding
