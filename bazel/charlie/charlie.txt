@@ -68,7 +68,6 @@ colt
 capsize
 capsule
 captivate
-captive
 capture
 clutter
 carbon
@@ -278,6 +277,7 @@ chokehold
 choking
 catcher
 chomp
+captive
 chooser
 choosing
 choosy
