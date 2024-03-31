@@ -210,7 +210,6 @@ chariot
 charity
 charm
 credit
-charred
 charter
 cradling
 confident
@@ -502,6 +501,7 @@ conjure
 conjuror
 compile
 cathedral
+charred
 consensus
 consent
 charbroil
