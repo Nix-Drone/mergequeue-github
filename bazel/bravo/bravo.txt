@@ -288,6 +288,7 @@ boring
 bookings
 beats
 blocked
+bracelet
 boundary
 beta
 bytes
@@ -429,7 +430,6 @@ balance
 bless
 bumper
 barely
-bracelet
 barrier
 brutal
 ballet
