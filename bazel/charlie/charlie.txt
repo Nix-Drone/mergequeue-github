@@ -227,7 +227,6 @@ chastise
 census
 chastity
 chatter
-chatroom
 chatting
 chatty
 cheating
@@ -437,6 +436,7 @@ cape
 compacter
 cascade
 compactly
+chatroom
 compactor
 cancel
 caregiver
