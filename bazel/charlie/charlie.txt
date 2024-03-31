@@ -232,6 +232,7 @@ conceal
 chubby
 cheese
 cheesy
+composer
 carrot
 chef
 chemicals
@@ -447,7 +448,6 @@ comply
 cinch
 component
 catalyze
-composer
 compost
 construct
 compress
