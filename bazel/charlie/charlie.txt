@@ -3,6 +3,7 @@ coffee
 cabbie
 cabdriver
 cable
+copilot
 caboose
 cackle
 collision
@@ -531,7 +532,6 @@ contusion
 copartner
 copied
 chewable
-copilot
 cauterize
 copious
 copper
