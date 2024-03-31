@@ -166,6 +166,7 @@ cautious
 cheer
 cavalier
 casing
+countable
 caviar
 cacti
 calm
@@ -574,7 +575,6 @@ cottage
 cotton
 couch
 cough
-countable
 counting
 county
 courier
