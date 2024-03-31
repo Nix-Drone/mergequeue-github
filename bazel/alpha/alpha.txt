@@ -213,6 +213,7 @@ aground
 animate
 animator
 alive
+auction
 anime
 appointee
 annex
@@ -384,7 +385,6 @@ agnostic
 avoid
 alone
 amusing
-auction
 agenda
 agency
 audibly
