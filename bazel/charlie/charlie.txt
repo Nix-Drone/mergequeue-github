@@ -151,6 +151,7 @@ causation
 cause
 croak
 certified
+cocoa
 causing
 crafter
 chewer
@@ -379,7 +380,6 @@ cobalt
 carnivore
 cytoplasm
 cobweb
-cocoa
 cod
 context
 criteria
