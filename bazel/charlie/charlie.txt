@@ -25,7 +25,6 @@ curled
 colony
 camcorder
 camera
-coach
 campsite
 campfire
 camping
@@ -509,6 +508,7 @@ chevy
 campsite
 constrain
 counting
+coach
 constrict
 craftwork
 consult
