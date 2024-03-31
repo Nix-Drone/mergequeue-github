@@ -110,7 +110,6 @@ embellish
 embody
 erupt
 embezzle
-encounter
 exerciser
 emoticon
 easter
@@ -352,6 +351,7 @@ exodus
 exorcist
 enunciate
 elective
+encounter
 exhale
 exhaust
 estimator
