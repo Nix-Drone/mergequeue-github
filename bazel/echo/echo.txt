@@ -134,7 +134,6 @@ emit
 emote
 extortion
 emotion
-educated
 empathic
 empathy
 emperor
@@ -145,6 +144,7 @@ evacuee
 elephant
 employed
 employee
+educated
 employer
 emporium
 emptier
