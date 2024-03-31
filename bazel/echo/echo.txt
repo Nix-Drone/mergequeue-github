@@ -100,7 +100,6 @@ elixir
 engross
 easel
 enforced
-earmuff
 evoke
 encrypt
 elsewhere
@@ -235,6 +234,7 @@ establish
 everglade
 emu
 exterior
+earmuff
 entryway
 emblem
 enviable
