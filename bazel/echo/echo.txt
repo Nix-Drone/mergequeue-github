@@ -102,7 +102,6 @@ elitism
 elk
 elliptic
 elongated
-elm
 elixir
 ebony
 easel
@@ -325,6 +324,7 @@ evil
 evolution
 evolve
 example
+elm
 earphone
 excavate
 exceeding
