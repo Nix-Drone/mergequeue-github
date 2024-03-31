@@ -171,6 +171,7 @@ correct
 curable
 cache
 clench
+channel
 crowbar
 curtain
 celestial
@@ -590,7 +591,6 @@ caterer
 cozily
 copier
 clause
-channel
 coagulant
 cozy
 crabbing
