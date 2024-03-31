@@ -94,7 +94,6 @@ entity
 eligible
 excavator
 ecosphere
-earplugs
 elitism
 elk
 elliptic
@@ -307,6 +306,7 @@ ether
 ethically
 ethics
 evacuate
+earplugs
 evade
 evaluate
 escapable
