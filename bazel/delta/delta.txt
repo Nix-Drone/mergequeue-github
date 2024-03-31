@@ -171,6 +171,7 @@ departed
 drainpipe
 democrat
 demote
+depth
 demotion
 demystify
 density
@@ -325,7 +326,6 @@ disband
 discern
 dig
 document
-depth
 discharge
 dilation
 dumping
