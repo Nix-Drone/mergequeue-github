@@ -313,6 +313,7 @@ clambake
 coaster
 cameo
 clamp
+courier
 clamshell
 clapper
 carton
@@ -584,7 +585,6 @@ campus
 county
 curler
 countable
-courier
 covenant
 corral
 cover
