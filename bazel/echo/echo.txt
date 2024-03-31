@@ -33,6 +33,7 @@ estimate
 enforced
 efficient
 eaten
+evasion
 etching
 eatery
 eats
@@ -374,7 +375,6 @@ equate
 expert
 expire
 entree
-evasion
 explain
 expletive
 explicit
