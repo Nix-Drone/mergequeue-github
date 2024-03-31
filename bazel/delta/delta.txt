@@ -67,7 +67,6 @@ debate
 debtless
 dislike
 debtor
-debug
 debunk
 doable
 drainable
@@ -106,6 +105,7 @@ dedicate
 deduce
 deranged
 deed
+debug
 deepen
 debrief
 dropout
