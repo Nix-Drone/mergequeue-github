@@ -253,7 +253,6 @@ culture
 chest
 chevron
 cavity
-chewable
 coping
 chewy
 capacity
@@ -531,6 +530,7 @@ control
 contusion
 copartner
 copied
+chewable
 copilot
 cauterize
 copious
