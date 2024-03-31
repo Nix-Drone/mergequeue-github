@@ -58,6 +58,7 @@ acquaint
 abstract
 active
 activist
+algorithm
 actress
 antonym
 almost
@@ -115,7 +116,6 @@ accuracy
 apply
 atonable
 algebra
-algorithm
 amplifier
 ahoy
 alias
