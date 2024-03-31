@@ -277,7 +277,6 @@ chlorine
 candle
 choice
 chokehold
-choking
 catcher
 chomp
 captive
@@ -331,6 +330,7 @@ clause
 catalyst
 claw
 clay
+choking
 clean
 creasing
 cleaver

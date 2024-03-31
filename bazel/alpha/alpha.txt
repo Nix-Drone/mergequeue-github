@@ -28,6 +28,7 @@ attach
 ability
 absence
 attribute
+animation
 afternoon
 afraid
 absurd
@@ -209,7 +210,6 @@ anguished
 animal
 aground
 animate
-animation
 animator
 anime
 appointee
