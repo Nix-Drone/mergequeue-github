@@ -352,6 +352,7 @@ district
 dispersed
 disperser
 driver
+duke
 doorway
 display
 deluxe
@@ -542,7 +543,6 @@ distract
 dweeb
 debatable
 during
-duke
 designer
 drab
 dole
