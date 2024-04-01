@@ -109,7 +109,6 @@ baker
 beaver
 ballot
 because
-boulder
 beside
 boards
 brick
@@ -201,6 +200,7 @@ bids
 bishop
 bike
 biography
+boulder
 bills
 bandwidth
 barriers
