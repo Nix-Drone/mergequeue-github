@@ -157,6 +157,7 @@ acts
 ambiguity
 arrival
 abstain
+art
 armored
 absinthe
 apply
@@ -266,7 +267,6 @@ activator
 attest
 aloft
 anybody
-art
 ashy
 anymore
 abide
