@@ -257,6 +257,7 @@ expenses
 errand
 emote
 empirical
+endnote
 edgy
 emblem
 earthling
@@ -349,7 +350,6 @@ equal
 eldercare
 evaluator
 episode
-endnote
 economic
 embroider
 exemplary
