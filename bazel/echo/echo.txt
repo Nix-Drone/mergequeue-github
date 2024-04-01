@@ -195,6 +195,7 @@ electable
 epidemic
 entrap
 easter
+erasure
 even
 enamel
 emporium
@@ -277,7 +278,6 @@ epiphany
 extrude
 earthworm
 enjoying
-erasure
 erratic
 ensure
 eccentric
