@@ -72,7 +72,6 @@ bread
 budapest
 bridge
 builder
-beat
 barnes
 bunny
 boost
@@ -343,6 +342,7 @@ botswana
 brooklyn
 bonds
 beginning
+beat
 baths
 bone
 bicycle
