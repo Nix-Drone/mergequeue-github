@@ -52,6 +52,7 @@ block
 brands
 billing
 belts
+bachelor
 bestsellers
 benefits
 bunch
@@ -442,7 +443,6 @@ building
 budget
 barn
 blood
-bachelor
 blog
 bite
 blink
