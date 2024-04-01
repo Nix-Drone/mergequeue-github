@@ -362,6 +362,7 @@ clobber
 clock
 clanking
 closure
+crouch
 churn
 chubby
 clothing
@@ -602,7 +603,6 @@ couch
 character
 cough
 consult
-crouch
 campus
 county
 curler
