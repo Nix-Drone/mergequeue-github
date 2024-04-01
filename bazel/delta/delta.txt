@@ -78,6 +78,7 @@ decimal
 dispersal
 donut
 dangle
+debug
 drown
 decipher
 dollop
@@ -315,7 +316,6 @@ disaster
 disband
 discern
 dig
-debug
 deviator
 document
 depth
