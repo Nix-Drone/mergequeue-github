@@ -180,6 +180,7 @@ claim
 chasing
 crewman
 curing
+cognition
 certainty
 colossal
 certify
@@ -676,7 +677,6 @@ clustered
 cried
 crimp
 clubhouse
-cognition
 cloud
 cannot
 creamer
