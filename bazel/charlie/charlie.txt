@@ -350,6 +350,7 @@ cling
 clique
 cloak
 crumpled
+cried
 clobber
 clock
 cloning
@@ -672,7 +673,6 @@ concept
 cricket
 clustered
 cymbal
-cried
 crimp
 clubhouse
 cognition
