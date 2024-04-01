@@ -68,6 +68,7 @@ either
 express
 equivocal
 eclipse
+equal
 eject
 emphasize
 expensive
@@ -346,7 +347,6 @@ extradite
 excretion
 enviable
 excusable
-equal
 eldercare
 episode
 economic
