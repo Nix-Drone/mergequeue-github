@@ -255,7 +255,6 @@ chevron
 cavity
 coping
 chewy
-capacity
 corrode
 coveted
 coaster
@@ -657,6 +656,7 @@ creamed
 creamlike
 chihuahua
 creatable
+capacity
 create
 compacted
 credible
