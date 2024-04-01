@@ -308,7 +308,6 @@ briefs
 buyers
 builders
 biographies
-bacterial
 burke
 bears
 bull
@@ -447,6 +446,7 @@ broadcast
 bloomberg
 buyer
 blonde
+bacterial
 bugs
 building
 budget

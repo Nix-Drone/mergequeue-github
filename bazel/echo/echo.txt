@@ -175,6 +175,7 @@ emphasis
 eligible
 emptiness
 epilogue
+emphatic
 echo
 exert
 ecard
@@ -336,7 +337,6 @@ expulsion
 endpoint
 exceeding
 ecosystem
-emphatic
 edginess
 efficient
 exclusion
