@@ -339,7 +339,6 @@ clergyman
 clerical
 collar
 confound
-cattail
 clerk
 cosmic
 clicker
@@ -522,6 +521,7 @@ cane
 cartwheel
 consuming
 contented
+cattail
 curler
 configure
 contents
