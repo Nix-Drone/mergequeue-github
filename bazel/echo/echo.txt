@@ -75,7 +75,6 @@ either
 express
 eject
 extenuate
-emphasize
 expensive
 enclosure
 ending
@@ -324,6 +323,7 @@ evil
 equivocal
 excusably
 endearing
+emphasize
 evolution
 enticing
 example
