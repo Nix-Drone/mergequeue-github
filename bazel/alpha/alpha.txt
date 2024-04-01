@@ -83,7 +83,6 @@ anagram
 algorithm
 attention
 almost
-acuteness
 aeration
 approval
 affix
@@ -381,6 +380,7 @@ amiable
 avoid
 amusing
 agenda
+acuteness
 agency
 abrasion
 ambiance
