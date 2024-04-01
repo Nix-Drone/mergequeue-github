@@ -175,7 +175,6 @@ error
 emphasis
 emptiness
 epilogue
-echo
 entrust
 exert
 ecard
@@ -189,6 +188,7 @@ expel
 earphone
 earring
 engaging
+echo
 exchange
 estimate
 escargot
