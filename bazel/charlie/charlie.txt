@@ -530,6 +530,7 @@ consuming
 contented
 cattail
 chain
+cyclic
 curler
 configure
 contents
@@ -763,5 +764,4 @@ chevy
 cut
 curator
 cycle
-cyclic
 cytoplast
