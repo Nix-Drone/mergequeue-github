@@ -171,7 +171,6 @@ certainly
 clench
 claim
 credibly
-character
 caddy
 chasing
 carol
@@ -509,6 +508,7 @@ cylinder
 cornball
 conjure
 conjuror
+character
 composed
 compile
 cathedral
