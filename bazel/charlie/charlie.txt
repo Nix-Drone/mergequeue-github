@@ -7,6 +7,7 @@ caboose
 cackle
 collision
 clambake
+connector
 casually
 caddy
 cupbearer
@@ -621,7 +622,6 @@ cradle
 clip
 casket
 craftily
-connector
 cannot
 climatic
 curve
