@@ -284,7 +284,6 @@ dormitory
 defog
 drab
 disrupt
-dioxide
 distaste
 distress
 dingbat
@@ -525,6 +524,7 @@ depravity
 dares
 deafening
 duo
+dioxide
 dragonfly
 drearily
 driven
