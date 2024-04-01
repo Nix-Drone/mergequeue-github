@@ -235,7 +235,6 @@ carrot
 chef
 collision
 camisole
-chemicals
 chemist
 croon
 catalyst
@@ -259,6 +258,7 @@ coaster
 cofounder
 chief
 caucus
+chemicals
 crepe
 childish
 cavalry
