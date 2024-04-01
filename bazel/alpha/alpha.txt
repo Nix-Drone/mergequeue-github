@@ -72,7 +72,6 @@ active
 approve
 aggregate
 algorithm
-actress
 antonym
 almost
 acutely
@@ -164,6 +163,7 @@ ambush
 appraiser
 amendable
 attractor
+actress
 amends
 amuser
 amenity
