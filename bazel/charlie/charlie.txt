@@ -431,6 +431,7 @@ commodity
 causal
 cubicle
 cage
+clubbing
 commodore
 crushing
 common
@@ -493,7 +494,6 @@ conflict
 chill
 curling
 conform
-clubbing
 clarify
 confront
 confusing
