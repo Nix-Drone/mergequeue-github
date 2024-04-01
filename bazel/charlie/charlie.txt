@@ -32,7 +32,6 @@ camcorder
 corridor
 camera
 campsite
-climate
 campfire
 camping
 clavicle
@@ -465,6 +464,7 @@ construct
 comprised
 campsite
 comrade
+climate
 concave
 copartner
 conceded
