@@ -374,6 +374,7 @@ dial
 deferral
 daytime
 driving
+doorbell
 defrost
 daredevil
 delighted
@@ -419,7 +420,6 @@ donated
 disloyal
 decade
 dipping
-doorbell
 defiance
 doormat
 doorstep
