@@ -240,7 +240,6 @@ armory
 author
 angrily
 alabaster
-antihero
 aptly
 antiques
 amount
@@ -267,6 +266,7 @@ art
 ashy
 anymore
 anyway
+antihero
 alarm
 agility
 anger
