@@ -284,7 +284,6 @@ darkroom
 dormitory
 defog
 drab
-diary
 dioxide
 distaste
 distress
@@ -353,6 +352,7 @@ drool
 discuss
 detract
 dancing
+diary
 donation
 dislodge
 dynamic
