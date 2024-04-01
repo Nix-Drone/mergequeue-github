@@ -23,7 +23,6 @@ blanket
 baghdad
 brass
 belt
-bolt
 bags
 bloody
 brown
@@ -421,6 +420,7 @@ betting
 burst
 brooks
 back
+bolt
 beach
 bath
 bruce
