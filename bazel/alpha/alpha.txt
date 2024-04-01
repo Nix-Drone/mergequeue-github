@@ -200,7 +200,6 @@ agonize
 astrology
 appliance
 another
-amenity
 anatomy
 amused
 acquire
@@ -309,6 +308,7 @@ area
 absolve
 arena
 avenging
+amenity
 army
 aneurism
 antsy
