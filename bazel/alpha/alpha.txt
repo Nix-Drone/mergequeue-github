@@ -45,7 +45,6 @@ angles
 attribute
 apply
 animation
-afternoon
 ammonia
 afraid
 amigo
@@ -395,6 +394,7 @@ authentic
 agony
 acutely
 angelic
+afternoon
 automaker
 abdomen
 armchair
