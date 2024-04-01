@@ -266,6 +266,7 @@ capture
 cabbie
 crock
 chloride
+charger
 chlorine
 clinic
 candle
@@ -624,7 +625,6 @@ calamity
 craftily
 connector
 cannot
-charger
 cover
 childhood
 cramp
