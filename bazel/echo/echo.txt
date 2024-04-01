@@ -112,6 +112,7 @@ emboss
 emcee
 everyone
 enquirer
+estimate
 endocrine
 extrovert
 engine
@@ -185,7 +186,6 @@ expel
 earphone
 engaging
 exchange
-estimate
 escargot
 electable
 epidemic

@@ -71,7 +71,6 @@ carded
 contact
 cabana
 cardiac
-cardstock
 careless
 country
 customary
@@ -588,6 +587,7 @@ corroding
 corrode
 corrosive
 confront
+cardstock
 could
 critter
 capillary
