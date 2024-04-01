@@ -459,7 +459,6 @@ doorman
 dining
 deluge
 disallow
-dictator
 drainage
 duplicity
 doorpost
@@ -500,6 +499,7 @@ drone
 droop
 detective
 dagger
+dictator
 detonator
 discuss
 dropbox
