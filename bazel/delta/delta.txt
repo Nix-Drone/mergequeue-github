@@ -220,7 +220,6 @@ dayroom
 disobey
 detest
 dismount
-default
 deuce
 diffuser
 darn
@@ -552,6 +551,7 @@ dusk
 dreamt
 drearily
 dust
+default
 dwarf
 deputize
 delegate
