@@ -48,6 +48,7 @@ attribute
 animation
 afar
 anchor
+array
 ammonia
 attic
 afraid
@@ -334,7 +335,6 @@ among
 antirust
 acclaim
 around
-array
 asleep
 arbitrary
 automatic
