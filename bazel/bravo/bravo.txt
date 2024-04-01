@@ -64,7 +64,6 @@ buffer
 blow
 bread
 book
-bald
 builder
 barnes
 bunny
@@ -74,6 +73,7 @@ boost
 baking
 becomes
 bearing
+bald
 behaviour
 booth
 bizarre
