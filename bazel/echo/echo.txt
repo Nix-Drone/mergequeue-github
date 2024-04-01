@@ -85,7 +85,6 @@ erasable
 eel
 emoticon
 extras
-entity
 elevator
 expanse
 elbow
@@ -369,6 +368,7 @@ enjoyer
 eleven
 exes
 essential
+entity
 engorge
 endurable
 exile
