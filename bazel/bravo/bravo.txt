@@ -122,7 +122,6 @@ beds
 basic
 booking
 boats
-broker
 blake
 browsing
 becomes
@@ -365,6 +364,7 @@ bahamas
 burlington
 bomb
 bright
+broker
 border
 blame
 breakfast
