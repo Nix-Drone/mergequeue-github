@@ -73,7 +73,6 @@ empower
 elm
 either
 express
-economic
 eject
 extenuate
 extras
@@ -353,6 +352,7 @@ excusable
 eldercare
 evaluator
 endnote
+economic
 embroider
 exemplary
 encode
