@@ -272,7 +272,6 @@ enzyme
 explore
 exclaim
 epiphany
-extrude
 earthworm
 enjoying
 erasure
@@ -370,6 +369,7 @@ enjoyer
 exes
 essential
 entity
+extrude
 engorge
 endurable
 exile
