@@ -235,6 +235,7 @@ chef
 collision
 camisole
 chemicals
+calcium
 chemist
 croon
 catalyst
@@ -401,7 +402,6 @@ commode
 crisped
 cold
 coleslaw
-calcium
 custodian
 collage
 congrats
