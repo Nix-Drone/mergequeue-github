@@ -81,7 +81,6 @@ algorithm
 attention
 antonym
 almost
-acutely
 acuteness
 angelfish
 aeration
@@ -398,6 +397,7 @@ although
 authentic
 aloft
 agony
+acutely
 angelic
 automaker
 abdomen
