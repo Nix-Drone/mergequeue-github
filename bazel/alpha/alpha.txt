@@ -81,7 +81,6 @@ alphabet
 agnostic
 audience
 acorn
-attest
 abstract
 active
 arguable
@@ -134,6 +133,7 @@ agreed
 amplify
 agreement
 aide
+attest
 anything
 aim
 agonizing
