@@ -320,7 +320,6 @@ basics
 basis
 breakdown
 brazil
-bookings
 boundaries
 blocked
 buses
@@ -448,6 +447,7 @@ bedding
 binary
 broadcast
 bloomberg
+bookings
 buyer
 bugs
 building
