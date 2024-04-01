@@ -80,7 +80,6 @@ delouse
 decimal
 dispersal
 donut
-dangle
 debug
 drapery
 daily
@@ -291,6 +290,7 @@ dioxide
 distaste
 distress
 dingbat
+dangle
 detail
 diligence
 deception
