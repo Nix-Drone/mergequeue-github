@@ -11,7 +11,6 @@ elixir
 exquisite
 engraver
 enjoyer
-employed
 earwig
 eastcoast
 encore
@@ -301,6 +300,7 @@ extenuate
 earplugs
 evaluate
 evergreen
+employed
 example
 excitable
 emit
