@@ -144,6 +144,7 @@ antelope
 absolute
 activate
 acid
+amperage
 attention
 ambition
 alike
@@ -275,7 +276,6 @@ agility
 anger
 aptitude
 animosity
-amperage
 appealing
 aloof
 audible
