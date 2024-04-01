@@ -138,7 +138,6 @@ emotion
 empathic
 elbow
 empathy
-echo
 endless
 expulsion
 encircle
@@ -176,6 +175,7 @@ error
 emphasis
 emptiness
 excursion
+echo
 entrust
 exert
 ecard
