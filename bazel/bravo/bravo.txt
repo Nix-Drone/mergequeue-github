@@ -107,6 +107,7 @@ batman
 broadcasting
 burn
 beast
+bandwidth
 baker
 buzz
 beaver
@@ -211,7 +212,6 @@ biography
 bicycle
 boulder
 bills
-bandwidth
 barriers
 bytes
 berlin
