@@ -332,6 +332,7 @@ butterfly
 band
 boolean
 badly
+bias
 basement
 beastality
 between
@@ -368,7 +369,6 @@ bridges
 biological
 beatles
 baltimore
-bias
 boston
 brighton
 brandon
