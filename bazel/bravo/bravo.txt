@@ -191,6 +191,7 @@ buck
 batteries
 bids
 biography
+bandwidth
 beverage
 bills
 barriers
@@ -225,7 +226,6 @@ bottles
 balance
 basically
 blvd
-bandwidth
 believes
 bubble
 bizrate
