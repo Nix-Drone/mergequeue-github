@@ -244,7 +244,6 @@ cavity
 coping
 chewy
 capacity
-corrode
 corporate
 coaster
 cofounder
@@ -586,6 +585,7 @@ chase
 coagulant
 confined
 corroding
+corrode
 corrosive
 could
 critter
