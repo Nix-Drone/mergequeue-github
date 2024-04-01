@@ -215,6 +215,7 @@ edition
 enforcer
 entitle
 ebook
+exuberant
 effective
 extent
 exception
@@ -410,4 +411,3 @@ enchanted
 entertain
 egomaniac
 expletive
-exuberant
