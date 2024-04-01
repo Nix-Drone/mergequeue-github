@@ -45,7 +45,6 @@ composure
 crayfish
 client
 cognitive
-canary
 cone
 cortex
 chafe
@@ -379,6 +378,7 @@ cytoplasm
 crudeness
 cane
 cobweb
+canary
 cocoa
 cod
 context
