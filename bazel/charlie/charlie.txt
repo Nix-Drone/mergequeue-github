@@ -352,7 +352,6 @@ cloak
 crumpled
 clobber
 clock
-cloning
 clanking
 closure
 churn
@@ -586,6 +585,7 @@ cosigner
 cosmetics
 cosmos
 cost
+cloning
 cottage
 cornstalk
 cause
