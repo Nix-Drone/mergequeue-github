@@ -76,7 +76,6 @@ express
 economic
 eject
 extenuate
-extras
 emphasize
 expensive
 enclosure
@@ -89,6 +88,7 @@ engraved
 entrench
 emoticon
 elaborate
+extras
 elf
 entity
 expanse
