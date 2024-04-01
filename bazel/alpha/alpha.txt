@@ -10,7 +10,6 @@ armadillo
 aqua
 abiding
 ashy
-abacus
 audacious
 ablaze
 attendee
@@ -191,6 +190,7 @@ aspirate
 anywhere
 acquaint
 attention
+abacus
 arbitrate
 await
 affirm
