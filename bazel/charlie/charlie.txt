@@ -45,7 +45,6 @@ cone
 cortex
 chafe
 cadillac
-canine
 canister
 canned
 coliseum
@@ -314,6 +313,7 @@ coaster
 cameo
 clamp
 cabdriver
+canine
 courier
 clamshell
 clapper
