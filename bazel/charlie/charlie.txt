@@ -290,7 +290,6 @@ cinema
 cardboard
 circling
 craftwork
-citable
 citadel
 citrus
 clad
@@ -522,6 +521,7 @@ culpable
 candy
 console
 component
+citable
 constrain
 counting
 cranial
