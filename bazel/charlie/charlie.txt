@@ -168,7 +168,6 @@ chemo
 calm
 curable
 cache
-clench
 crowbar
 cola
 curtain
@@ -177,6 +176,7 @@ container
 cement
 ceremony
 certainly
+clench
 circulate
 claim
 chasing
