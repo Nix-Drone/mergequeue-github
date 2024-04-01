@@ -181,6 +181,7 @@ chasing
 crewman
 curing
 certainty
+causal
 colossal
 certify
 cesarean
@@ -428,7 +429,6 @@ collide
 childcare
 celibacy
 commodity
-causal
 cubicle
 cage
 commodore
