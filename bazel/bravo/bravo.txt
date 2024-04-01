@@ -192,6 +192,7 @@ buck
 basically
 batteries
 bids
+bishop
 bike
 biography
 beverage
@@ -200,7 +201,6 @@ bandwidth
 barriers
 bytes
 berlin
-bishop
 branch
 boots
 bloom
