@@ -107,7 +107,6 @@ chamomile
 casualty
 carport
 claw
-catacomb
 chance
 coauthor
 corral
@@ -694,6 +693,7 @@ crown
 confused
 clapped
 custody
+catacomb
 crested
 crowd
 container
