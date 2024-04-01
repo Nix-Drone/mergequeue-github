@@ -109,6 +109,7 @@ cassette
 collapse
 casualty
 cornmeal
+claw
 catacomb
 chance
 catalog
@@ -327,7 +328,6 @@ clarinet
 contest
 cope
 clarity
-claw
 choking
 clean
 contently
