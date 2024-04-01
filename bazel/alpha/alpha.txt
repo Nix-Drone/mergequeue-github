@@ -82,7 +82,6 @@ approve
 anagram
 algorithm
 attention
-antonym
 almost
 acuteness
 aeration
@@ -174,6 +173,7 @@ ambush
 appraiser
 amendable
 aware
+antonym
 attractor
 amends
 amuser
