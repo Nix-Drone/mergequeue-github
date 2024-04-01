@@ -282,6 +282,7 @@ deplete
 direness
 darkroom
 dormitory
+duty
 defog
 drab
 disrupt
@@ -556,7 +557,6 @@ deputize
 dispute
 diagram
 delegate
-duty
 daytime
 diligent
 dosage
