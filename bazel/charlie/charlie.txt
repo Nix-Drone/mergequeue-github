@@ -644,7 +644,6 @@ coroner
 caddie
 coconut
 collector
-custody
 crazily
 craziness
 crazy
@@ -695,6 +694,7 @@ crown
 confused
 crucial
 clapped
+custody
 crested
 crowd
 container
