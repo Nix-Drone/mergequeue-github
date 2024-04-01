@@ -255,6 +255,7 @@ antiviral
 anaconda
 appendage
 almanac
+await
 activator
 attest
 aloft
@@ -336,7 +337,6 @@ amigo
 automatic
 award
 avenue
-await
 arrogance
 aerobics
 animating
