@@ -23,7 +23,6 @@ blanket
 baghdad
 brass
 belt
-boundary
 bloody
 brown
 benefit
@@ -383,6 +382,7 @@ baseball
 blue
 beta
 bull
+boundary
 battle
 bucks
 belfast
