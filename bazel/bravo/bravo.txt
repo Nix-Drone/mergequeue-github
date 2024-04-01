@@ -207,6 +207,7 @@ batteries
 bids
 bishop
 biography
+bedrooms
 blind
 boulder
 bills
@@ -480,7 +481,6 @@ benz
 biological
 britannica
 bold
-bedrooms
 begins
 born
 barcelona
