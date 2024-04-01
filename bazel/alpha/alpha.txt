@@ -85,7 +85,6 @@ anagram
 algorithm
 attention
 almost
-aeration
 approval
 alienate
 affix
@@ -125,6 +124,7 @@ avatar
 alright
 agreed
 anguished
+aeration
 appease
 amplify
 agreement
