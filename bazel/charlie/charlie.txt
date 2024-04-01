@@ -116,6 +116,7 @@ chance
 catalog
 coauthor
 corral
+craftwork
 crane
 catcall
 catchy
@@ -526,7 +527,6 @@ cranial
 common
 coach
 crawfish
-craftwork
 consumer
 consuming
 contented
