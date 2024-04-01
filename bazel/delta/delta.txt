@@ -285,6 +285,7 @@ darkroom
 dormitory
 defog
 drab
+disrupt
 dioxide
 distaste
 distress
@@ -482,7 +483,6 @@ dress
 doornail
 destiny
 deceiving
-disrupt
 defender
 dude
 deceiver
