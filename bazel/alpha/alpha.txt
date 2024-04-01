@@ -142,6 +142,7 @@ astonish
 antelope
 activate
 acid
+arrive
 amperage
 alike
 aftermath
@@ -331,7 +332,6 @@ array
 asleep
 arbitrary
 automatic
-arrive
 award
 await
 arrogance
