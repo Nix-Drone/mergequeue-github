@@ -199,6 +199,7 @@ commerce
 chaperone
 craftsman
 crawlers
+captive
 chapped
 chop
 crumpet
@@ -702,7 +703,6 @@ catacomb
 crested
 crowd
 container
-captive
 congested
 cleat
 chalice
