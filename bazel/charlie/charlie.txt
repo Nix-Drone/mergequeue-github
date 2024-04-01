@@ -59,7 +59,6 @@ confirm
 customs
 canopener
 cryptic
-canopy
 copper
 capably
 capped
@@ -618,6 +617,7 @@ craftily
 connector
 cannot
 climatic
+canopy
 curve
 cube
 charger
