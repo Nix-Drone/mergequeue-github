@@ -307,7 +307,6 @@ coaster
 cameo
 clamp
 cabdriver
-catchable
 canine
 clamshell
 clapper
@@ -326,6 +325,7 @@ contest
 cope
 clarity
 choking
+catchable
 clean
 contently
 creasing
