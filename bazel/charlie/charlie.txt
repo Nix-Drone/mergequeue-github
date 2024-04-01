@@ -235,6 +235,7 @@ composer
 carrot
 chef
 collision
+camisole
 chemicals
 chemist
 croon
@@ -514,7 +515,6 @@ compile
 cathedral
 charred
 consensus
-camisole
 cushy
 consent
 charbroil
