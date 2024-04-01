@@ -314,6 +314,7 @@ donator
 dazzler
 diploma
 direction
+dense
 delay
 dirtiness
 dingy
@@ -417,7 +418,6 @@ domain
 during
 domestic
 duller
-dense
 decathlon
 dish
 dissuade
