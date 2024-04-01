@@ -398,7 +398,6 @@ breeds
 baseball
 blue
 beta
-bull
 battle
 bucks
 belfast
@@ -452,6 +451,7 @@ bachelor
 blog
 bite
 blink
+bull
 beats
 bother
 bumper

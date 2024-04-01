@@ -292,6 +292,7 @@ chute
 cinema
 cardboard
 circling
+craftwork
 citable
 citadel
 citrus
@@ -524,7 +525,6 @@ cranial
 common
 coach
 crawfish
-craftwork
 consumer
 consuming
 contented
