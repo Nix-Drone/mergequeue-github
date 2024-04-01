@@ -84,6 +84,7 @@ eel
 emoticon
 extras
 entity
+elevator
 expanse
 elbow
 educated
@@ -180,7 +181,6 @@ endeared
 entomb
 evaporate
 endowment
-elevator
 energize
 exposure
 energy
