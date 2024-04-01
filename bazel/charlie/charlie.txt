@@ -376,7 +376,6 @@ cornfield
 coastline
 coat
 cobalt
-carnivore
 cytoplasm
 crudeness
 casino
@@ -524,6 +523,7 @@ chevy
 constrain
 counting
 cranial
+carnivore
 coach
 crawfish
 craftwork
