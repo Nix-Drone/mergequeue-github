@@ -513,7 +513,6 @@ counting
 cranial
 coach
 craftwork
-consult
 consumer
 cane
 cartwheel
@@ -582,6 +581,7 @@ class
 couch
 character
 cough
+consult
 crouch
 campus
 county
