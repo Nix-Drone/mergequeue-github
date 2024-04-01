@@ -248,7 +248,6 @@ distress
 distance
 debunk
 drained
-degraded
 devotion
 dowry
 deplored
@@ -395,6 +394,7 @@ diving
 divinity
 directed
 democracy
+degraded
 daily
 dreadlock
 dolly
