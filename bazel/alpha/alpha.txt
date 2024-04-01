@@ -243,7 +243,6 @@ aptly
 antiques
 amount
 aging
-armhole
 antiquity
 attendant
 average
@@ -294,6 +293,7 @@ always
 antidote
 amusable
 accustom
+armhole
 ardently
 antihero
 animal
