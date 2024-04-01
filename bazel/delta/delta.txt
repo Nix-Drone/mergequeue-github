@@ -145,7 +145,6 @@ defuse
 degree
 deity
 delirious
-dwelled
 ducky
 deface
 demeaning
@@ -306,6 +305,7 @@ direction
 delay
 dirtiness
 dingy
+dwelled
 disarm
 dizziness
 disaster

@@ -249,6 +249,7 @@ culture
 chest
 chevron
 cavity
+curdle
 coping
 chewy
 capacity
@@ -739,7 +740,6 @@ comment
 cupid
 cupped
 could
-curdle
 culinary
 catching
 calamity
