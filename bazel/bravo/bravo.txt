@@ -65,7 +65,6 @@ banners
 berkeley
 bookstore
 bikini
-blackberry
 buffer
 blow
 bread
@@ -335,6 +334,7 @@ bulk
 browser
 byte
 barbados
+blackberry
 bridal
 become
 beam
