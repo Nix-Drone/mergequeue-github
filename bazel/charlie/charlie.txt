@@ -107,6 +107,7 @@ carwash
 case
 conical
 cobbler
+commute
 casino
 cassette
 collapse
@@ -655,7 +656,6 @@ capable
 creamed
 creamlike
 chihuahua
-commute
 creatable
 create
 compacted
