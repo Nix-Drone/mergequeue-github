@@ -168,7 +168,6 @@ attractor
 actress
 amends
 amuser
-amenity
 amicably
 amino
 amiss
@@ -200,6 +199,7 @@ await
 anaerobic
 agonize
 astrology
+amenity
 anatomy
 anchor
 acquire
