@@ -62,6 +62,7 @@ clash
 confirm
 customs
 canopener
+courier
 cryptic
 confident
 canopy
@@ -314,7 +315,6 @@ clamp
 cabdriver
 catchable
 canine
-courier
 clamshell
 clapper
 carton
