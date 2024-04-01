@@ -175,7 +175,6 @@ epilogue
 echo
 exert
 ecard
-extent
 evolve
 ethically
 endeared
@@ -332,6 +331,7 @@ evil
 excusably
 elderly
 estimator
+extent
 expulsion
 exclusive
 exceeding
