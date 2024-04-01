@@ -251,7 +251,6 @@ appraiser
 acronym
 angriness
 ascension
-arousal
 autopilot
 antiviral
 anaconda
@@ -373,6 +372,7 @@ aloha
 anyplace
 atop
 automatic
+arousal
 aerosol
 attire
 attitude
