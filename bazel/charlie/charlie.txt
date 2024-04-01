@@ -618,6 +618,7 @@ copier
 catwalk
 channel
 coagulant
+cycling
 crabbing
 capitol
 crabgrass
@@ -763,5 +764,4 @@ cut
 curator
 cycle
 cyclic
-cycling
 cytoplast
