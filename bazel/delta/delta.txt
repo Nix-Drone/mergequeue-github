@@ -101,7 +101,6 @@ decree
 deduce
 dipper
 deranged
-debug
 deepen
 dropout
 delete
@@ -314,6 +313,7 @@ disaster
 disband
 discern
 dig
+debug
 deviator
 document
 depth
