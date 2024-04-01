@@ -98,6 +98,7 @@ decompose
 decree
 dipper
 disown
+defrost
 defuse
 dodge
 deed
@@ -391,7 +392,6 @@ dragonish
 dial
 driving
 doorbell
-defrost
 daredevil
 deletion
 detached
