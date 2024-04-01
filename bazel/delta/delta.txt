@@ -109,6 +109,7 @@ dropout
 dodgy
 delete
 derived
+distinct
 defacing
 desktop
 dingo
@@ -558,6 +559,5 @@ delegate
 duty
 dominoes
 dosage
-distinct
 dash
 dynasty
