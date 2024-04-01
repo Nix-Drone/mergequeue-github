@@ -335,7 +335,6 @@ dig
 deviator
 document
 depth
-discharge
 deny
 dilation
 divinely
@@ -430,6 +429,7 @@ duller
 duct
 displace
 dispose
+discharge
 donated
 disloyal
 decade
