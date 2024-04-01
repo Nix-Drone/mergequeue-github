@@ -78,7 +78,6 @@ active
 alphabet
 agnostic
 approach
-acorn
 abstract
 attach
 arguable
@@ -365,6 +364,7 @@ astronaut
 anthology
 audio
 atlas
+acorn
 announcer
 activist
 amiss
