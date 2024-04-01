@@ -208,7 +208,6 @@ carnival
 census
 chastity
 chatroom
-cosponsor
 chatty
 cheating
 camper
@@ -473,6 +472,7 @@ calibrate
 creation
 concrete
 condense
+cosponsor
 condition
 correct
 conductor
