@@ -343,7 +343,6 @@ clobber
 clock
 closure
 crouch
-churn
 chubby
 clothing
 computing
@@ -562,6 +561,7 @@ crispness
 corny
 convent
 climatic
+churn
 chatting
 cornbread
 corncob
