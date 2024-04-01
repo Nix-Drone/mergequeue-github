@@ -414,6 +414,7 @@ colonist
 coma
 condone
 come
+corrosive
 cyclist
 conducive
 comfort
@@ -574,7 +575,6 @@ charging
 chase
 corrode
 corroding
-corrosive
 corsage
 critter
 capillary
