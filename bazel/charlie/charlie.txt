@@ -234,7 +234,6 @@ cheddar
 camper
 cradling
 conceal
-chubby
 cheese
 composer
 carrot
@@ -361,6 +360,7 @@ clock
 clanking
 closure
 churn
+chubby
 clothing
 computing
 clover
