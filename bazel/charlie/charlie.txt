@@ -512,6 +512,7 @@ conjoined
 cornball
 conjure
 conjuror
+composed
 compile
 cathedral
 charred
@@ -641,7 +642,6 @@ crate
 craving
 clunky
 caddie
-composed
 coconut
 collector
 custody
