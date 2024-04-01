@@ -37,7 +37,6 @@ button
 brain
 bracket
 bulletin
-bought
 banana
 based
 bookmarks
@@ -235,6 +234,7 @@ ball
 briefly
 black
 best
+bought
 backed
 broke
 bali
