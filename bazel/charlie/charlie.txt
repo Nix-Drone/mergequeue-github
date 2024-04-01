@@ -3,7 +3,6 @@ coffee
 cardigan
 corridor
 crawling
-cable
 caboose
 cackle
 collision
@@ -551,6 +550,7 @@ cartoon
 cauterize
 cheek
 charting
+cable
 copious
 coming
 cure
