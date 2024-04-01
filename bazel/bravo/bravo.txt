@@ -125,7 +125,6 @@ beds
 basic
 booking
 boats
-beings
 broker
 blake
 browsing
@@ -181,6 +180,7 @@ buttons
 blowing
 bless
 bigger
+beings
 biological
 briefing
 broadband
