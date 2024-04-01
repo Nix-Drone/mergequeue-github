@@ -105,7 +105,6 @@ beast
 bandwidth
 baker
 buzz
-beaver
 ballot
 beings
 because
@@ -336,6 +335,7 @@ bias
 basement
 beastality
 between
+beaver
 bool
 bible
 books
