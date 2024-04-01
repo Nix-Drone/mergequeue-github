@@ -197,7 +197,6 @@ anaerobic
 agonize
 astrology
 another
-amenity
 anatomy
 acquire
 amnesty
@@ -307,6 +306,7 @@ area
 absolve
 arena
 avenging
+amenity
 army
 aneurism
 antsy
