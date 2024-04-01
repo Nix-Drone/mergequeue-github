@@ -407,7 +407,6 @@ collie
 colonist
 coma
 come
-creation
 catnap
 cyclist
 conducive
@@ -471,6 +470,7 @@ chess
 calibrate
 conclude
 calibrate
+creation
 concrete
 condense
 condition
