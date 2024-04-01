@@ -13,7 +13,6 @@ eardrum
 entree
 elixir
 exquisite
-engraver
 enjoyer
 employed
 earwig
@@ -144,6 +143,7 @@ excluding
 evacuee
 earmuff
 elephant
+engraver
 employee
 earful
 emptier
