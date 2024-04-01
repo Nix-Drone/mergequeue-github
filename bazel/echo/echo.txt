@@ -6,7 +6,6 @@ eagle
 elevation
 earpiece
 eatable
-earshot
 epilogue
 economy
 eardrum
@@ -324,6 +323,7 @@ evil
 equivocal
 excusably
 endearing
+earshot
 evolution
 enticing
 example
