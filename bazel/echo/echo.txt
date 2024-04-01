@@ -134,6 +134,7 @@ encircle
 enclose
 equation
 excluding
+endpoint
 epidural
 encode
 eloquence
@@ -334,7 +335,6 @@ evolution
 elderly
 estimator
 expulsion
-endpoint
 exceeding
 ecosystem
 emphatic
