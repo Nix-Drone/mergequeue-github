@@ -69,7 +69,6 @@ devourer
 driver
 debrief
 dragster
-dropper
 delegator
 deduct
 dreary
@@ -444,6 +443,7 @@ duvet
 duke
 dubiously
 demote
+dropper
 doubling
 decibel
 down
