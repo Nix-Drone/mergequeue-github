@@ -159,6 +159,7 @@ casing
 capsule
 clone
 chemo
+clock
 calm
 curable
 celtic
@@ -351,7 +352,6 @@ clique
 cloak
 circulate
 clobber
-clock
 candy
 closure
 crouch
