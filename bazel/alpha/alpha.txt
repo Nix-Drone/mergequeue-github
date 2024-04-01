@@ -157,6 +157,7 @@ acts
 ambiguity
 arrival
 abstain
+armored
 absinthe
 apply
 annually
@@ -377,7 +378,6 @@ aerosol
 angular
 attire
 attitude
-armored
 amiable
 avoid
 amusing
