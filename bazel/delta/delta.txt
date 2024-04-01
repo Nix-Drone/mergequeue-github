@@ -343,6 +343,7 @@ discount
 drinkable
 delusion
 dweller
+detonator
 doctrine
 discard
 darwinism
@@ -503,7 +504,6 @@ drone
 droop
 dagger
 dictator
-detonator
 discuss
 dole
 diffusion
