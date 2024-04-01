@@ -10,6 +10,7 @@ economy
 employed
 earwig
 enforcer
+earthling
 excretory
 eastcoast
 encore
@@ -263,7 +264,6 @@ emote
 empirical
 edgy
 emblem
-earthling
 emblaze
 escalator
 elevate
