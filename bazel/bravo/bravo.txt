@@ -124,6 +124,7 @@ basic
 booking
 boats
 blake
+boundaries
 banned
 browsing
 builds
@@ -319,7 +320,6 @@ basics
 basis
 breakdown
 brazil
-boundaries
 blocked
 buses
 bloody
