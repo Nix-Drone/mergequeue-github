@@ -381,7 +381,6 @@ ditto
 dating
 dragonish
 dial
-daytime
 driving
 doorbell
 defrost
@@ -557,6 +556,7 @@ dispute
 diagram
 delegate
 duty
+daytime
 dominoes
 dosage
 dash
