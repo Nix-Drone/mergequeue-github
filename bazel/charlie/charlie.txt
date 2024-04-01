@@ -347,7 +347,6 @@ couch
 clause
 cling
 clique
-cloak
 crumpled
 circulate
 clobber
@@ -602,6 +601,7 @@ cough
 consult
 campus
 county
+cloak
 countdown
 curler
 covenant
