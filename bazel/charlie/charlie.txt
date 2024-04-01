@@ -318,6 +318,7 @@ clamshell
 clapper
 carton
 crank
+clustered
 cahoots
 constant
 creme
@@ -673,7 +674,6 @@ clatter
 carpenter
 concept
 cricket
-clustered
 cried
 crimp
 clubhouse
