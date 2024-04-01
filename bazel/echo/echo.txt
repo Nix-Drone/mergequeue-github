@@ -187,7 +187,6 @@ exchange
 earthworm
 escargot
 epidemic
-entrap
 engraving
 even
 enamel
@@ -391,6 +390,7 @@ editor
 eggplant
 exporter
 expose
+entrap
 exact
 entail
 evict
