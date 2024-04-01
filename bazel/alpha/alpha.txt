@@ -75,6 +75,7 @@ active
 arguable
 approve
 aggregate
+anagram
 annoying
 algorithm
 attention
@@ -328,7 +329,6 @@ amuck
 among
 antirust
 acclaim
-anagram
 armrest
 acts
 around
