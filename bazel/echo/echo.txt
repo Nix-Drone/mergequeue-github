@@ -274,6 +274,7 @@ epiphany
 earthworm
 enjoying
 erasure
+editor
 escalate
 erratic
 ensure
@@ -395,7 +396,6 @@ elude
 exponent
 earmark
 exposure
-editor
 eggplant
 exporter
 expose
