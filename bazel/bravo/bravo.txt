@@ -197,6 +197,7 @@ buck
 basically
 batteries
 bids
+bishop
 bike
 biography
 bills
@@ -204,7 +205,6 @@ bandwidth
 barriers
 bytes
 berlin
-bishop
 branch
 boots
 bloom
