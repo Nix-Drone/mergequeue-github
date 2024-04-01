@@ -245,7 +245,6 @@ amount
 aging
 antiquity
 attendant
-average
 appraiser
 acronym
 angriness
@@ -409,6 +408,7 @@ alkalize
 aversion
 arise
 amenity
+average
 appraisal
 avid
 apply
