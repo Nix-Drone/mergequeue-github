@@ -207,7 +207,6 @@ batteries
 bids
 bishop
 biography
-blind
 bicycle
 boulder
 bills
@@ -234,6 +233,7 @@ beautiful
 beyond
 batch
 bird
+blind
 biotechnology
 belle
 backgrounds
