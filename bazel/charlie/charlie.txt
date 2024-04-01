@@ -597,6 +597,7 @@ crouch
 campus
 county
 curler
+crystal
 countable
 covenant
 cover
@@ -754,7 +755,6 @@ computer
 curvature
 chewing
 cusp
-crystal
 custard
 cataract
 customer
