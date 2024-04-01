@@ -308,7 +308,6 @@ area
 absolve
 arena
 avenging
-amenity
 army
 aneurism
 antsy
@@ -411,6 +410,7 @@ armoire
 aversion
 aloe
 arise
+amenity
 armful
 appraisal
 avid
