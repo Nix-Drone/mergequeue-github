@@ -36,6 +36,7 @@ colony
 camcorder
 camera
 campsite
+climate
 campfire
 camping
 clavicle
@@ -668,7 +669,6 @@ crept
 crescent
 cattishly
 cresting
-climate
 crestless
 crewless
 carpenter
