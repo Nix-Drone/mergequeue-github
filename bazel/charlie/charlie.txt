@@ -44,7 +44,6 @@ cadillac
 canister
 cape
 coliseum
-cannon
 corned
 cornhusk
 campsite
@@ -179,6 +178,7 @@ crudely
 commend
 caramel
 circular
+cannon
 citizen
 citric
 corsage
