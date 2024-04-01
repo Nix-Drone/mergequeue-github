@@ -242,7 +242,6 @@ device
 dexterity
 delirium
 ducking
-distress
 dominoes
 distance
 debunk
@@ -482,6 +481,7 @@ dreamland
 dreamless
 dress
 doornail
+distress
 destiny
 deceiving
 defender
