@@ -228,7 +228,6 @@ camper
 cradling
 conceal
 cheese
-composer
 carrot
 chef
 collision
@@ -287,6 +286,7 @@ chowder
 chuck
 chug
 chummy
+composer
 chump
 chunk
 chute
