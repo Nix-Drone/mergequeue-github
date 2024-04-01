@@ -119,6 +119,7 @@ enquirer
 endocrine
 extrovert
 engine
+entrust
 emergency
 emotion
 enable
@@ -174,7 +175,6 @@ eligible
 emptiness
 epilogue
 echo
-entrust
 exert
 ecard
 evolve
