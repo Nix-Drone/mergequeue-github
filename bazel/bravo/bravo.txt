@@ -208,7 +208,6 @@ batteries
 bids
 bishop
 biography
-bicycle
 boulder
 bills
 bandwidth
@@ -226,6 +225,7 @@ biol
 bridge
 benefit
 blank
+bicycle
 brussels
 bracelets
 bush

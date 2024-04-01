@@ -97,7 +97,6 @@ cube
 compress
 commence
 carving
-catatonic
 coastal
 carwash
 case
@@ -609,6 +608,7 @@ covenant
 cover
 crunchy
 constable
+catatonic
 caterer
 crazed
 cozily
