@@ -31,7 +31,6 @@ chastise
 colony
 camcorder
 corridor
-camera
 campsite
 climate
 campfire
@@ -247,6 +246,7 @@ crayon
 cadet
 clamor
 cherisher
+camera
 culture
 chest
 chevron
