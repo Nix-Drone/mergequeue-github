@@ -157,7 +157,6 @@ art
 armored
 absinthe
 aqua
-apply
 annually
 absolute
 ascend
@@ -412,6 +411,7 @@ arise
 amenity
 appraisal
 avid
+apply
 astronomy
 anytime
 afoot
