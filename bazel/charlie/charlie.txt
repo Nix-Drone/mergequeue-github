@@ -156,7 +156,6 @@ caution
 cavalier
 casing
 capsule
-clone
 chemo
 calm
 curable
@@ -349,6 +348,7 @@ cling
 clique
 cloak
 crumpled
+clone
 circulate
 clobber
 clock
