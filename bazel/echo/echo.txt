@@ -59,7 +59,6 @@ effects
 excursion
 envelope
 earthlike
-extortion
 entangled
 egotism
 evoke
@@ -371,6 +370,7 @@ essential
 entity
 extrude
 engorge
+extortion
 endurable
 exile
 elf
