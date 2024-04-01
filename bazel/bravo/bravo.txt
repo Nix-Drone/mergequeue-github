@@ -160,6 +160,7 @@ bureau
 bundle
 bench
 background
+burn
 browsing
 benchmark
 brazilian
@@ -473,7 +474,6 @@ biodiversity
 bold
 bedrooms
 begins
-burn
 born
 barcelona
 burning
