@@ -42,6 +42,7 @@ angles
 attribute
 animation
 ammonia
+attic
 afraid
 amigo
 apricot
@@ -150,7 +151,6 @@ acts
 arrival
 abstain
 absinthe
-attic
 apply
 annually
 amniotic
