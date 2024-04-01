@@ -139,7 +139,6 @@ dimmer
 define
 duffel
 dry
-deflate
 deflector
 deafness
 dedicate
@@ -483,6 +482,7 @@ dreamland
 dreamless
 dress
 doornail
+deflate
 distress
 destiny
 deceiving
