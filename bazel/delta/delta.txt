@@ -324,6 +324,7 @@ dense
 delay
 dirtiness
 dingy
+drivable
 dutiful
 disarm
 disaster
@@ -495,7 +496,6 @@ detonate
 despise
 dipped
 dripping
-drivable
 delicious
 demanding
 discolor
