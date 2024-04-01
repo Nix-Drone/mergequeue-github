@@ -58,7 +58,6 @@ corned
 cornhusk
 campsite
 clash
-confirm
 customs
 canopener
 cryptic
@@ -534,6 +533,7 @@ contents
 contort
 coyness
 contour
+confirm
 cruelly
 coerce
 contrite
