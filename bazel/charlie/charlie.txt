@@ -309,6 +309,7 @@ cucumber
 ceramics
 coaster
 cameo
+crinkly
 clamp
 cabdriver
 catchable
@@ -502,7 +503,6 @@ conform
 clarify
 confront
 confusing
-crinkly
 congested
 congress
 cylinder
