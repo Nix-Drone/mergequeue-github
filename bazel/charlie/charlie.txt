@@ -242,6 +242,7 @@ carrot
 chef
 chemicals
 chemist
+crushed
 catalyst
 canning
 cymbal
@@ -717,7 +718,6 @@ crushable
 clear
 chaos
 cardinal
-crushed
 crust
 crux
 colonize
