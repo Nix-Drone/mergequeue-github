@@ -124,6 +124,7 @@ extrovert
 engine
 emergency
 emotion
+enable
 empathic
 elbow
 empathy
@@ -400,7 +401,6 @@ exact
 entail
 evict
 excuse
-enable
 elective
 early
 extended
