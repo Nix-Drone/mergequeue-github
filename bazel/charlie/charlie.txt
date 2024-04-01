@@ -203,6 +203,7 @@ champion
 change
 commerce
 chaperone
+craftsman
 crawlers
 chapped
 chaps
@@ -610,7 +611,6 @@ cradle
 clip
 casket
 craftily
-craftsman
 connector
 cannot
 climatic
