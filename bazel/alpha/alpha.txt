@@ -246,6 +246,7 @@ aptly
 antiques
 amount
 aging
+armhole
 antiquity
 average
 appraiser
@@ -348,7 +349,6 @@ ascent
 atrium
 amendment
 acuteness
-armhole
 armless
 aspect
 apron
