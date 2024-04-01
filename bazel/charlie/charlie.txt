@@ -45,6 +45,7 @@ coliseum
 corned
 cornhusk
 campsite
+configure
 clash
 confirm
 customs
@@ -533,7 +534,6 @@ chain
 curler
 crucial
 cold
-configure
 contents
 congenial
 contour
