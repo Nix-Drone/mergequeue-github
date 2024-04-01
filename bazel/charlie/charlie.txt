@@ -241,6 +241,7 @@ chemicals
 chemist
 catalyst
 canning
+cymbal
 crayon
 clamor
 cherisher
@@ -671,7 +672,6 @@ carpenter
 concept
 cricket
 clustered
-cymbal
 cried
 crimp
 clubhouse
