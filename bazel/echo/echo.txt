@@ -59,6 +59,7 @@ effects
 excursion
 envelope
 earthlike
+emu
 entangled
 egotism
 evoke
@@ -264,7 +265,6 @@ emblaze
 escalator
 elevate
 espresso
-emu
 evolution
 erased
 evaporate
