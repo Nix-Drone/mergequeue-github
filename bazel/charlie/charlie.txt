@@ -96,6 +96,7 @@ crusher
 childless
 chivalry
 cartel
+comment
 confusion
 cube
 compress
@@ -736,7 +737,6 @@ culprit
 circle
 cultivate
 cultural
-comment
 cupid
 cupped
 curdle
