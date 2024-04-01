@@ -127,7 +127,6 @@ broker
 blake
 browsing
 becomes
-bool
 builds
 basketball
 blowjobs
@@ -321,6 +320,7 @@ bradford
 basement
 beastality
 between
+bool
 bible
 breach
 books
