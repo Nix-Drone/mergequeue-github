@@ -27,7 +27,6 @@ brown
 brother
 basename
 bear
-both
 blogging
 blues
 birmingham
@@ -381,6 +380,7 @@ bomb
 bright
 broker
 border
+both
 buys
 buildings
 baptist
