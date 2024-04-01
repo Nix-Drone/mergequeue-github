@@ -632,6 +632,7 @@ croak
 closable
 carried
 clinking
+crested
 crave
 caravan
 crate
@@ -693,7 +694,6 @@ crown
 confused
 clapped
 custody
-crested
 crowd
 container
 captive
