@@ -193,7 +193,6 @@ batteries
 bids
 bike
 biography
-beverage
 bills
 bandwidth
 barriers
@@ -276,6 +275,7 @@ benz
 blogs
 brake
 bluetooth
+beverage
 balloon
 bryan
 bodies
