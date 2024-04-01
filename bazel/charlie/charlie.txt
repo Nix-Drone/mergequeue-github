@@ -53,7 +53,6 @@ clash
 confirm
 customs
 canopener
-courier
 cryptic
 confident
 canopy
@@ -241,6 +240,7 @@ camera
 culture
 chest
 chevron
+courier
 cavity
 coping
 chewy
