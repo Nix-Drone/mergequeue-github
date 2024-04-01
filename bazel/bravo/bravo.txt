@@ -24,6 +24,7 @@ blanket
 baghdad
 brass
 belt
+bolt
 bags
 bloody
 brown
@@ -472,7 +473,6 @@ bases
 bras
 branches
 bind
-bolt
 britannica
 biodiversity
 bold

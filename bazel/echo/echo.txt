@@ -257,7 +257,6 @@ exclude
 earache
 expenses
 encrust
-erasure
 errand
 emote
 empirical
@@ -275,6 +274,7 @@ epiphany
 extrude
 earthworm
 enjoying
+erasure
 erratic
 eastward
 ensure
