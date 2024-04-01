@@ -77,7 +77,6 @@ abstract
 active
 arguable
 approve
-aggregate
 anagram
 annoying
 algorithm
@@ -278,6 +277,7 @@ alarm
 agility
 anger
 aptitude
+aggregate
 animosity
 appealing
 aloof
