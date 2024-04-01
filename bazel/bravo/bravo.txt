@@ -207,7 +207,6 @@ bids
 bishop
 biography
 blind
-bicycle
 boulder
 bills
 barriers
@@ -344,6 +343,7 @@ beginning
 baths
 baby
 bone
+bicycle
 bulk
 browser
 byte
