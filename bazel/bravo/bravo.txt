@@ -35,6 +35,7 @@ british
 button
 brain
 bracket
+bulletin
 bought
 banana
 based
@@ -316,7 +317,6 @@ bags
 bridges
 bible
 breach
-bulletin
 books
 brazil
 bonds
