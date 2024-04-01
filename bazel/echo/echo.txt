@@ -1,5 +1,4 @@
 eagle
-elevation
 earpiece
 eardrum
 entree
@@ -276,6 +275,7 @@ erasure
 escalate
 erratic
 ensure
+elevation
 eccentric
 excretory
 estranged
