@@ -231,7 +231,6 @@ chubby
 cheese
 composer
 carrot
-creme
 chef
 chemicals
 chemist
@@ -320,6 +319,7 @@ carton
 contend
 crank
 constant
+creme
 crouton
 clay
 clarinet
