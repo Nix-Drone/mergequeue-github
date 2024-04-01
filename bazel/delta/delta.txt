@@ -84,7 +84,6 @@ decimal
 dispersal
 donut
 dangle
-debug
 drown
 decipher
 dollop
@@ -157,6 +156,7 @@ ducky
 deface
 demeaning
 decorated
+debug
 demeanor
 dismantle
 dribble
