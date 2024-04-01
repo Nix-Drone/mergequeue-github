@@ -354,7 +354,6 @@ circulate
 clobber
 clock
 candy
-clanking
 closure
 crouch
 churn
@@ -572,6 +571,7 @@ coronary
 chrome
 crumb
 corporate
+clanking
 crease
 carpool
 catfish
