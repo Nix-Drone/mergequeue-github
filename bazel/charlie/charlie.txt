@@ -235,6 +235,7 @@ camper
 cradling
 conceal
 cheese
+citrus
 composer
 carrot
 chef
@@ -302,7 +303,6 @@ circling
 citable
 citadel
 citizen
-citrus
 clad
 countless
 cucumber
