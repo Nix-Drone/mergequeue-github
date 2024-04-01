@@ -118,7 +118,6 @@ chance
 catalog
 coauthor
 catcall
-catchable
 catchy
 catering
 catlike
@@ -376,6 +375,7 @@ coastland
 cornfield
 coastline
 coat
+catchable
 cobalt
 carnivore
 cytoplasm
