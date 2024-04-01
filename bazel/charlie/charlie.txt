@@ -269,7 +269,6 @@ catalyze
 chimp
 chirping
 cartridge
-chirpy
 chive
 cabbie
 crock
@@ -382,6 +381,7 @@ cane
 cobweb
 canary
 cocoa
+chirpy
 cod
 context
 creative
