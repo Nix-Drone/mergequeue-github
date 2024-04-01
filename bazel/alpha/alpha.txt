@@ -151,7 +151,6 @@ absolute
 activate
 acid
 amperage
-attention
 ambition
 alike
 alkaline
@@ -194,6 +193,7 @@ awoke
 aspirate
 anywhere
 acquaint
+attention
 arbitrate
 await
 affirm
