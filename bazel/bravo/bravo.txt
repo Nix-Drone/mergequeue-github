@@ -324,6 +324,7 @@ bool
 bible
 breach
 books
+botswana
 brooklyn
 bonds
 beginning
@@ -469,7 +470,6 @@ biggest
 bras
 branches
 bind
-botswana
 bolt
 britannica
 balance
