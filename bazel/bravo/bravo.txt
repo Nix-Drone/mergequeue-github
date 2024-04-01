@@ -304,6 +304,7 @@ breed
 beauty
 basics
 boring
+basis
 bookings
 boundaries
 blocked
@@ -429,7 +430,6 @@ bedding
 binary
 broadcast
 bloomberg
-basis
 buyer
 blonde
 boxed
