@@ -161,7 +161,6 @@ chemo
 calm
 curable
 celtic
-cache
 cola
 curtain
 celestial
@@ -266,6 +265,7 @@ chirping
 cartridge
 chive
 capture
+cache
 cabbie
 crock
 chloride

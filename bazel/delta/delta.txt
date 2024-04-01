@@ -243,6 +243,7 @@ dexterity
 delirium
 ducking
 distress
+disallow
 dominoes
 distance
 debunk
@@ -460,7 +461,6 @@ dormitory
 doze
 doorman
 deluge
-disallow
 duchess
 drainage
 duplicity
