@@ -213,6 +213,7 @@ appointee
 agony
 anvil
 arrest
+awry
 amused
 activate
 awkward
@@ -355,7 +356,6 @@ ashamed
 aspire
 astound
 activity
-awry
 albatross
 astronaut
 anthology
