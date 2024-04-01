@@ -64,7 +64,6 @@ berkeley
 bookstore
 bikini
 blackberry
-buffer
 blow
 bread
 book
@@ -170,6 +169,7 @@ bureau
 bundle
 bench
 benchmark
+buffer
 brazilian
 bare
 blend

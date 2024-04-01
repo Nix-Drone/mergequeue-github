@@ -83,6 +83,7 @@ emoticon
 extras
 entity
 expanse
+exclusive
 elbow
 educated
 excavator
@@ -336,7 +337,6 @@ efficient
 enjoying
 exciting
 exclusion
-exclusive
 election
 education
 excretion
