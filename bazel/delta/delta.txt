@@ -19,6 +19,7 @@ declared
 decorator
 dander
 dispense
+dice
 duckbill
 dork
 darkish
@@ -464,7 +465,6 @@ duchess
 drainage
 duplicity
 doorpost
-dice
 dealt
 dodgy
 doormat
