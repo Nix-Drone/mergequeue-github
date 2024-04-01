@@ -51,6 +51,7 @@ block
 brands
 billing
 belts
+boxed
 bestsellers
 benefits
 bunch
@@ -439,7 +440,6 @@ broadcast
 bloomberg
 buyer
 blonde
-boxed
 bugs
 building
 budget
