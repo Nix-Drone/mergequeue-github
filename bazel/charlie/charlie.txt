@@ -6,7 +6,6 @@ corridor
 crawling
 caboose
 cackle
-collision
 clambake
 casually
 cupbearer
@@ -238,6 +237,7 @@ cheese
 composer
 carrot
 chef
+collision
 chemicals
 chemist
 croon
