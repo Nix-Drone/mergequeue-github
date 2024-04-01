@@ -54,7 +54,6 @@ dealer
 daisy
 dealing
 dealmaker
-detonator
 debate
 dividers
 dumping
@@ -507,6 +506,7 @@ dose
 droop
 detective
 dagger
+detonator
 discuss
 dropbox
 drove
