@@ -218,6 +218,7 @@ animate
 animator
 alive
 anime
+awhile
 appointee
 annex
 anvil
@@ -343,7 +344,6 @@ aerobics
 animating
 affiliate
 accuracy
-awhile
 anointer
 arrogant
 amber
