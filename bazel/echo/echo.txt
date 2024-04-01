@@ -16,6 +16,7 @@ engraver
 easing
 embellish
 espionage
+erupt
 elm
 eastbound
 estimate
@@ -161,7 +162,6 @@ eloquent
 enjoyably
 embargo
 envision
-erupt
 embezzle
 enrich
 endanger
