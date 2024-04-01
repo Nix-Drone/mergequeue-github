@@ -207,6 +207,7 @@ album
 anaerobic
 agonize
 astrology
+appliance
 amenity
 anatomy
 acquire
@@ -293,7 +294,6 @@ aqua
 afflicted
 april
 always
-appliance
 aptly
 antidote
 arrange
