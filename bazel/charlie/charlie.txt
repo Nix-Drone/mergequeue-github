@@ -73,7 +73,6 @@ contact
 cabana
 cardiac
 cardstock
-careless
 country
 customary
 cargo
@@ -415,6 +414,7 @@ coma
 come
 creation
 cyclist
+careless
 conducive
 cheddar
 chili
