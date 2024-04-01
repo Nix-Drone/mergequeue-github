@@ -178,6 +178,7 @@ epilogue
 echo
 exert
 ecard
+extent
 evolve
 endeared
 endowment
@@ -216,7 +217,6 @@ entitle
 ebook
 exuberant
 effective
-extent
 exception
 escapade
 endorse
