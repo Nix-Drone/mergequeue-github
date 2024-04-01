@@ -32,7 +32,6 @@ emperor
 exposable
 eats
 easiness
-epic
 embark
 entail
 eclair
@@ -376,6 +375,7 @@ elf
 expend
 enduring
 elated
+epic
 enigmatic
 eggnog
 everyday
