@@ -79,7 +79,6 @@ cargo
 coagulant
 caring
 chant
-chosen
 composite
 carmaker
 carnage
@@ -100,6 +99,7 @@ coastal
 carwash
 case
 conical
+chosen
 clammy
 cobbler
 cassette
