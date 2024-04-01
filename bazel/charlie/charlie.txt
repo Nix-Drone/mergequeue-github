@@ -2,7 +2,6 @@ clapping
 cabbage
 coffee
 cardigan
-corridor
 crawling
 caboose
 cackle
@@ -33,6 +32,7 @@ cherub
 chastise
 colony
 camcorder
+corridor
 camera
 campsite
 climate
