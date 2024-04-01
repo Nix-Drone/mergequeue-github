@@ -74,7 +74,6 @@ cabana
 cardiac
 cardstock
 careless
-coagulant
 country
 customary
 cargo
@@ -578,6 +577,7 @@ charging
 circus
 catlike
 chase
+coagulant
 confined
 corroding
 corrosive
