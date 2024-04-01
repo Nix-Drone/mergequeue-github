@@ -83,7 +83,6 @@ electable
 engraved
 entrench
 emoticon
-elaborate
 extras
 elf
 entity
@@ -361,6 +360,7 @@ enunciate
 evade
 exhale
 enjoyably
+elaborate
 eloquence
 exhaust
 estimator
