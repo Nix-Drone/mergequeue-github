@@ -85,6 +85,7 @@ algorithm
 attention
 antonym
 almost
+annotate
 acuteness
 aeration
 approval
@@ -230,7 +231,6 @@ ambiguous
 arrest
 ascertain
 aloof
-annotate
 abdominal
 atlantic
 antitrust
