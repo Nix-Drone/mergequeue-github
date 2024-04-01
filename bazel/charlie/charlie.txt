@@ -663,7 +663,6 @@ creature
 creole
 crept
 crescent
-crested
 cattishly
 cresting
 crestless
@@ -697,6 +696,7 @@ croon
 crown
 confused
 crucial
+crested
 cleat
 chalice
 creed
