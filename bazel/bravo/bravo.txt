@@ -101,6 +101,7 @@ blade
 batman
 beast
 bandwidth
+bishop
 baker
 buzz
 ballot
@@ -200,7 +201,6 @@ broadcasting
 businesses
 batteries
 bids
-bishop
 biography
 bedrooms
 blind
