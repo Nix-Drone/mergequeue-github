@@ -1,4 +1,3 @@
-amigo
 affair
 attempt
 army
@@ -335,6 +334,7 @@ apple
 array
 asleep
 arbitrary
+amigo
 automatic
 award
 await
