@@ -43,6 +43,7 @@ cape
 coliseum
 corned
 cornhusk
+crushing
 campsite
 configure
 clash
@@ -428,7 +429,6 @@ commodity
 cubicle
 clubbing
 commodore
-crushing
 commotion
 condone
 cascade
