@@ -374,6 +374,7 @@ aerosol
 angular
 attire
 attitude
+armored
 amiable
 avoid
 amusing
@@ -387,7 +388,6 @@ audibly
 aviator
 auction
 antacid
-armored
 although
 atrocious
 authentic
