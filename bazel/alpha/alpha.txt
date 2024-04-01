@@ -16,7 +16,6 @@ audacious
 ablaze
 attendee
 antennae
-affidavit
 anthem
 aghast
 attendant
@@ -194,6 +193,7 @@ arbitrate
 await
 affirm
 amulet
+affidavit
 anchovy
 amused
 agile
