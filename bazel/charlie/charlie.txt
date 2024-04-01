@@ -413,6 +413,7 @@ cyclist
 comfort
 comfy
 chapter
+caption
 clamor
 catapult
 cactus
@@ -449,7 +450,6 @@ cannabis
 circus
 compost
 construct
-caption
 comprised
 campsite
 computing
