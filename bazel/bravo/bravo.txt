@@ -111,6 +111,7 @@ boards
 brick
 behalf
 bermuda
+boxing
 biblical
 bicycle
 bride
@@ -442,7 +443,6 @@ blog
 bite
 basement
 blink
-boxing
 baskets
 beats
 bother
