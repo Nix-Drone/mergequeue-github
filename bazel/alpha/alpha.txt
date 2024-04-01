@@ -79,6 +79,7 @@ arguable
 approve
 anagram
 algorithm
+anthology
 avenue
 attention
 almost
@@ -364,7 +365,6 @@ astound
 activity
 albatross
 astronaut
-anthology
 audio
 acorn
 announcer
