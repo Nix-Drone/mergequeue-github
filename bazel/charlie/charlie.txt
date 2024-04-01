@@ -117,6 +117,7 @@ catalog
 coauthor
 catcall
 catchable
+choice
 catchy
 catering
 catlike
@@ -276,7 +277,6 @@ chloride
 confusion
 chlorine
 candle
-choice
 catcher
 contempt
 chomp
