@@ -333,6 +333,7 @@ deviator
 document
 depth
 discharge
+deny
 dilation
 divinely
 discount
@@ -449,7 +450,6 @@ down
 dart
 december
 duh
-deny
 deceased
 daintily
 dormitory
