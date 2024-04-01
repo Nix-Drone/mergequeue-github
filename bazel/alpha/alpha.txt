@@ -184,7 +184,6 @@ acquaint
 attention
 abacus
 arbitrate
-await
 affirm
 ankle
 amulet
@@ -335,6 +334,7 @@ arbitrary
 automatic
 arrive
 award
+await
 arrogance
 aerobics
 animating
