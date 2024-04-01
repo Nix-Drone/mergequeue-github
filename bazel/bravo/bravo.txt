@@ -293,6 +293,7 @@ beverage
 balloon
 bryan
 bottle
+bind
 bracelet
 breeding
 beautifully
@@ -473,7 +474,6 @@ biggest
 bike
 bases
 branches
-bind
 biological
 britannica
 biodiversity
