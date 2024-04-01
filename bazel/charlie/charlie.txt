@@ -312,6 +312,7 @@ coaster
 cameo
 clamp
 cabdriver
+catchable
 canine
 courier
 clamshell
@@ -372,7 +373,6 @@ coastland
 cornfield
 coastline
 coat
-catchable
 cobalt
 carnivore
 cytoplasm
