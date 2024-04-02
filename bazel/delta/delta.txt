@@ -78,7 +78,6 @@ delouse
 decimal
 dispersal
 donut
-debug
 drapery
 daily
 definite
@@ -223,6 +222,7 @@ drilling
 detector
 discourse
 detection
+debug
 dawdler
 detergent
 deskbound
