@@ -283,7 +283,6 @@ chump
 chute
 cinema
 cardboard
-calzone
 circling
 craftwork
 citadel
@@ -463,6 +462,7 @@ concerned
 concert
 conch
 commute
+calzone
 chess
 customs
 calibrate
