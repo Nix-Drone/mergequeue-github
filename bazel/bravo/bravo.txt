@@ -5172,7 +5172,6 @@ begattal
 begaud
 begaudy
 begaze
-begazed
 begazes
 begazing
 begeck
@@ -12478,6 +12477,7 @@ boniform
 bonilass
 boniness
 boninesses
+begazed
 boning
 boninite
 bonism
