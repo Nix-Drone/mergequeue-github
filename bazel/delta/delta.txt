@@ -92,7 +92,6 @@ demotion
 dispatch
 decompose
 decree
-disown
 defrost
 defuse
 deed
@@ -244,6 +243,7 @@ detest
 dismount
 drizzly
 default
+disown
 dimple
 diffuser
 deuce
