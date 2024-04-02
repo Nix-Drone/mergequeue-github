@@ -313,7 +313,6 @@ constant
 carrousel
 clamor
 clay
-connected
 cautious
 choking
 clean
@@ -393,6 +392,7 @@ cruelness
 confound
 cohesive
 coil
+connected
 conjoined
 coke
 curtain
