@@ -197,7 +197,6 @@ batteries
 believed
 bids
 biography
-bedrooms
 blind
 belkin
 bills
@@ -340,6 +339,7 @@ beaver
 bool
 bible
 billing
+bedrooms
 books
 botswana
 brooklyn
