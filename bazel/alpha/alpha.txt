@@ -78,7 +78,6 @@ apprehend
 anime
 active
 ability
-agnostic
 approach
 anemic
 abstract
@@ -352,6 +351,7 @@ antiquity
 affiliate
 amperage
 amber
+agnostic
 aspirin
 ascent
 appendix
