@@ -43,7 +43,6 @@ belts
 boxed
 band
 breakfast
-bestsellers
 binding
 bunch
 bracelets
@@ -145,6 +144,7 @@ bulletin
 bacteria
 butt
 block
+bestsellers
 belize
 bookstore
 book
