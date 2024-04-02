@@ -99,7 +99,6 @@ better
 boards
 brick
 behalf
-bang
 bradford
 bermuda
 bride
@@ -426,6 +425,7 @@ bolt
 beach
 bishop
 bullet
+bang
 bath
 bruce
 brings
