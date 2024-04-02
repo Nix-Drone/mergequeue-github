@@ -2148,7 +2148,6 @@ fellowmen
 fellowred
 fellows
 fellowship
-fellowshiped
 fellowshiping
 fellowshipped
 fellowshipping
@@ -5709,6 +5708,7 @@ flimsier
 flimsies
 flimsiest
 flimsily
+fellowshiped
 flimsilyst
 flimsiness
 flinch
