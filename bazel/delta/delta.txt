@@ -375,7 +375,6 @@ doorpost
 dispersed
 disperser
 diffusive
-doorway
 deluxe
 dastardly
 distrust
@@ -529,6 +528,7 @@ decent
 daringly
 dedicator
 deliverer
+doorway
 debunk
 disdain
 dinner

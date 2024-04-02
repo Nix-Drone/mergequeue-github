@@ -90,7 +90,6 @@ expanse
 eaten
 extrude
 eel
-edge
 edging
 exemplary
 exquisite
@@ -349,6 +348,7 @@ emphatic
 edginess
 efficient
 enviable
+edge
 elude
 excusable
 eldercare
