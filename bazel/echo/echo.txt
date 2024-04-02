@@ -126,7 +126,6 @@ eggbeater
 eloquent
 enable
 empathic
-external
 endorphin
 elbow
 exclude
@@ -282,6 +281,7 @@ erased
 extinct
 escalate
 expand
+external
 ending
 endowment
 educated
