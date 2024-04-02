@@ -223,6 +223,7 @@ edition
 epilogue
 entitle
 effective
+enchanted
 exception
 escapade
 endorse
@@ -413,6 +414,5 @@ emphases
 expiring
 equipment
 extending
-enchanted
 exciting
 expletive
