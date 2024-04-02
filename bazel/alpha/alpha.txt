@@ -75,7 +75,6 @@ apprehend
 anime
 active
 ability
-alphabet
 agnostic
 approach
 anemic
@@ -401,6 +400,7 @@ afternoon
 axis
 automaker
 armchair
+alphabet
 altitude
 amaretto
 autistic
