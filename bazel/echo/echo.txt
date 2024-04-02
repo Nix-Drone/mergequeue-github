@@ -2409,7 +2409,6 @@ electrograving
 electroharmonic
 electrohemostasis
 electrohydraulic
-electrohydraulically
 electrohomeopathy
 electrohorticulture
 electroimpulse
@@ -5271,6 +5270,7 @@ endoscope
 endoscopes
 endoscopy
 endoscopic
+electrohydraulically
 endoscopically
 endoscopies
 endoscopist
