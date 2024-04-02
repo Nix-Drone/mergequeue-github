@@ -347,6 +347,7 @@ cloak
 circulate
 clobber
 clock
+come
 closure
 crouch
 chubby
@@ -406,7 +407,6 @@ collected
 collie
 colonist
 coma
-come
 catnap
 cyclist
 cheddar
