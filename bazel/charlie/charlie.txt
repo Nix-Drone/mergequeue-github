@@ -5732,7 +5732,6 @@ catenarian
 catenaries
 catenas
 catenate
-catenated
 catenates
 catenating
 catenation
@@ -25019,6 +25018,7 @@ coredeemed
 coredeemer
 coredeeming
 coredeems
+catenated
 coredemptress
 coreductase
 coree
