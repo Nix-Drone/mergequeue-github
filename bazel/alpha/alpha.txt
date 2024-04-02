@@ -28,6 +28,7 @@ amplifier
 attractor
 alfalfa
 ambiguous
+affix
 abrasive
 atrophy
 avalanche
@@ -84,7 +85,6 @@ anthology
 avenue
 attention
 approval
-affix
 ashes
 affection
 ablaze

@@ -50,7 +50,6 @@ configure
 clash
 confirm
 canopener
-cheesy
 courier
 confident
 cadillac
@@ -528,6 +527,7 @@ crawfish
 consumer
 consuming
 contented
+cheesy
 clutch
 comrade
 calzone
