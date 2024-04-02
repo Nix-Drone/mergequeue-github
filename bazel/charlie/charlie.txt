@@ -208,6 +208,7 @@ change
 craftsman
 crawlers
 chapped
+chemist
 chop
 crumpet
 chariot
@@ -548,7 +549,6 @@ cursive
 capital
 crock
 chewable
-chemist
 cacti
 cartoon
 cauterize
