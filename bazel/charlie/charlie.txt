@@ -998,7 +998,6 @@ calcarated
 calcarea
 calcareoargillaceous
 calcareobituminous
-calcareocorneous
 calcareosiliceous
 calcareosulphurous
 calcareous
@@ -20092,6 +20091,7 @@ commiserable
 commiserate
 commiserated
 commiserates
+calcareocorneous
 commiserating
 commiseratingly
 commiseration
