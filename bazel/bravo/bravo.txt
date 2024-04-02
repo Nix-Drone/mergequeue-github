@@ -1840,7 +1840,6 @@ banco
 bancos
 bancus
 band
-banda
 bandage
 bandaged
 bandager
@@ -14498,6 +14497,7 @@ brandisite
 brandywine
 brandle
 brandless
+banda
 brandling
 brandon
 brandreth
