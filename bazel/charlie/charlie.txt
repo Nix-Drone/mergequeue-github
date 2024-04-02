@@ -345,7 +345,6 @@ clause
 cling
 cloak
 circulate
-cadet
 clobber
 clock
 come
@@ -594,6 +593,7 @@ corrode
 corrosive
 confront
 cardstock
+cadet
 could
 capillary
 corset
