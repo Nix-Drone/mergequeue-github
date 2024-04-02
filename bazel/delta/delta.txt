@@ -2935,7 +2935,6 @@ dedal
 dedan
 dedanim
 dedanite
-dedans
 dedd
 deddy
 dedecorate
@@ -8214,6 +8213,7 @@ diagonalize
 diagonally
 diagonals
 diagonalwise
+dedans
 diagonial
 diagonic
 diagram
