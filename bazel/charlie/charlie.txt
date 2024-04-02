@@ -157,6 +157,7 @@ convene
 curve
 caucus
 caution
+chair
 casing
 capsule
 clone
@@ -725,7 +726,6 @@ cupbearer
 crisped
 cubbyhole
 carat
-chair
 citation
 caviar
 challenge
