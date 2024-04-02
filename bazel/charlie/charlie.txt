@@ -101,7 +101,6 @@ coastal
 carwash
 case
 conical
-chosen
 clammy
 crestless
 cobbler
@@ -611,6 +610,7 @@ cornstalk
 cause
 class
 cough
+chosen
 consult
 county
 countdown
