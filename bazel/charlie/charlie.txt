@@ -77,7 +77,6 @@ cargo
 coagulant
 caring
 chant
-composite
 carmaker
 cornmeal
 crying
@@ -261,6 +260,7 @@ catalyze
 chimp
 chirping
 chive
+composite
 capture
 cabbie
 chloride
