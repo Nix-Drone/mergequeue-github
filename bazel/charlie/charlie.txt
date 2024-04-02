@@ -211,7 +211,6 @@ confined
 charm
 credit
 carnival
-census
 chastity
 chatroom
 chatty
@@ -329,6 +328,7 @@ clerical
 cilantro
 collar
 cartwheel
+census
 cringing
 confound
 clerk
