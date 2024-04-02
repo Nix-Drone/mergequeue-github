@@ -222,7 +222,6 @@ carrot
 chef
 camisole
 chemicals
-chemist
 comic
 croon
 catalyst
@@ -688,6 +687,7 @@ crisping
 celibacy
 crown
 confused
+chemist
 clapped
 custody
 catacomb
