@@ -323,6 +323,7 @@ direction
 dense
 delay
 dainty
+dispose
 dirtiness
 dazzling
 dingy
@@ -428,7 +429,6 @@ deodorant
 duller
 duct
 displace
-dispose
 durably
 discharge
 donated
