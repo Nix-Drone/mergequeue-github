@@ -346,6 +346,7 @@ document
 depth
 deny
 dilation
+doze
 divinely
 drinkable
 delusion
@@ -460,7 +461,6 @@ duh
 deceased
 daintily
 dormitory
-doze
 doorman
 droplet
 dropbox
