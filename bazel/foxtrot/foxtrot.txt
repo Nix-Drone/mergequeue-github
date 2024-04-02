@@ -3960,6 +3960,7 @@ finback
 finbacks
 finbone
 finca
+forspeaking
 fincas
 finch
 finchbacked
@@ -8685,7 +8686,6 @@ forslow
 forsook
 forsooth
 forspeak
-forspeaking
 forspend
 forspent
 forspoke
