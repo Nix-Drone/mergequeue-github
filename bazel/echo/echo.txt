@@ -126,7 +126,6 @@ entrust
 emergency
 emotion
 eloquent
-expiring
 enable
 empathic
 external
@@ -411,6 +410,7 @@ excuse
 early
 extended
 emphases
+expiring
 equipment
 extending
 enchanted
