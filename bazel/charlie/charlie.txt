@@ -506,7 +506,6 @@ cylinder
 conjure
 character
 composed
-compile
 cathedral
 consensus
 cushy
@@ -753,6 +752,7 @@ cursor
 curtly
 curtsy
 consonant
+compile
 computer
 curvature
 chewing
