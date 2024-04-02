@@ -3530,7 +3530,6 @@ emboss
 embossable
 embossage
 embossed
-embosser
 embossers
 embosses
 embossing
@@ -5105,6 +5104,7 @@ endocrinologies
 endocrinologist
 endocrinologists
 endocrinopath
+embosser
 endocrinopathy
 endocrinopathic
 endocrinotherapy
