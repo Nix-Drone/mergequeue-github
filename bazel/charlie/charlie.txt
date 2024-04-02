@@ -6727,7 +6727,6 @@ cellaret
 cellarets
 cellarette
 cellaring
-cellarless
 cellarman
 cellarmen
 cellarous
@@ -17136,6 +17135,7 @@ coalers
 coalesce
 coalesced
 coalescence
+cellarless
 coalescency
 coalescent
 coalesces
