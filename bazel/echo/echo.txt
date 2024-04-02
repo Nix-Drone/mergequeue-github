@@ -80,7 +80,6 @@ estimator
 erasable
 encore
 effects
-exes
 emoticon
 extruding
 extras
@@ -407,6 +406,7 @@ exact
 entail
 establish
 evict
+exes
 excuse
 early
 extended
