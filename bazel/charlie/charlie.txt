@@ -436,7 +436,6 @@ curfew
 chatty
 cupcake
 chrome
-cancel
 crouton
 caregiver
 company
@@ -742,6 +741,7 @@ cupid
 condiment
 curdle
 culinary
+cancel
 catching
 curliness
 curly
