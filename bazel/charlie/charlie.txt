@@ -548,7 +548,6 @@ copied
 cursive
 capital
 crock
-chewable
 chemist
 cacti
 cartoon
@@ -751,6 +750,7 @@ cursor
 critter
 curtly
 curtsy
+chewable
 consonant
 compile
 computer
