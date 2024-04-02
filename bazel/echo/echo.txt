@@ -91,6 +91,7 @@ eaten
 extrude
 eel
 edge
+edging
 exemplary
 exquisite
 excavator
@@ -207,7 +208,6 @@ easter
 enamel
 enjoying
 earthworm
-edging
 enhance
 eatable
 essence
