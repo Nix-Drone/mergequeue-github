@@ -278,7 +278,6 @@ chomp
 captive
 chooser
 choosing
-choosy
 chowder
 chunk
 chuck
@@ -614,6 +613,7 @@ county
 countdown
 covenant
 crunchy
+choosy
 crazed
 cozily
 catwalk
