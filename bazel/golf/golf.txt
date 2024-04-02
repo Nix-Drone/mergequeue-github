@@ -4740,7 +4740,6 @@ girellidae
 gyrencephala
 gyrencephalate
 gyrencephalic
-gyrencephalous
 gyrene
 gyrenes
 gyres
@@ -7910,6 +7909,7 @@ gramophonist
 gramp
 grampa
 gramper
+gyrencephalous
 gramps
 grampus
 grampuses

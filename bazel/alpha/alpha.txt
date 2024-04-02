@@ -7000,7 +7000,6 @@ airspeeds
 airstream
 airstrip
 airstrips
-airt
 airted
 airth
 airthed
@@ -9792,6 +9791,7 @@ amanitine
 amanitins
 amanitopsis
 amanori
+airt
 amanous
 amant
 amantadine
