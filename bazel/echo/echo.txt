@@ -113,7 +113,6 @@ explode
 emboss
 emcee
 enrich
-everyone
 enquirer
 estimate
 endocrine
@@ -151,6 +150,7 @@ entering
 extortion
 elm
 exploit
+everyone
 exorcist
 election
 envoy
