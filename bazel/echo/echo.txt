@@ -129,7 +129,6 @@ external
 elbow
 exclude
 evidence
-encircle
 enclose
 equation
 excluding
@@ -233,6 +232,7 @@ exemplify
 elitism
 exterior
 establish
+encircle
 enticing
 easiest
 envy
