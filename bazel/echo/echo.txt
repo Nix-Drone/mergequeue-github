@@ -255,7 +255,6 @@ enviably
 eagle
 elixir
 endorphin
-exit
 entwine
 endurance
 elbow
@@ -373,6 +372,7 @@ economy
 excretion
 engorge
 endurable
+exit
 elf
 expend
 enduring
