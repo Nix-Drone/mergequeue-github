@@ -91,6 +91,7 @@ childless
 chivalry
 crumpled
 comment
+clothing
 coyness
 celery
 cube
@@ -352,7 +353,6 @@ closure
 crouch
 chubby
 chip
-clothing
 computing
 clumsily
 cork
