@@ -44,7 +44,6 @@ ditzy
 deflator
 derived
 dealing
-disabled
 dumping
 dealer
 discover
@@ -443,6 +442,7 @@ doorstep
 dean
 doozy
 delicacy
+disabled
 decode
 drop-down
 datebook
