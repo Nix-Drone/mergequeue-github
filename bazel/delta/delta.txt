@@ -58,6 +58,7 @@ detector
 dreamy
 detective
 driver
+defog
 desecrate
 divided
 debrief
@@ -285,7 +286,6 @@ decay
 direness
 darkroom
 dormitory
-defog
 drab
 demanding
 disrupt
