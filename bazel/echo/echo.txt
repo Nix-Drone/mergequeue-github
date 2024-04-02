@@ -124,6 +124,7 @@ emotion
 eloquent
 enable
 empathic
+external
 elbow
 exclude
 evidence
@@ -290,7 +291,6 @@ excretory
 example
 estranged
 ended
-external
 excess
 elves
 enroll
