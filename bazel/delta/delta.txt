@@ -286,6 +286,7 @@ dormitory
 defog
 drab
 demanding
+deem
 disrupt
 distress
 detail
@@ -418,7 +419,6 @@ doing
 dugout
 defiant
 dodge
-deem
 designate
 dolphin
 district
