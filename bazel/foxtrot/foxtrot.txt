@@ -3153,7 +3153,6 @@ fibroin
 fibroins
 fibrointestinal
 fibroligamentous
-fibrolipoma
 fibrolipomatous
 fibrolite
 fibrolitic
@@ -8050,6 +8049,7 @@ foreshorten
 foreshortened
 foreshortening
 foreshortens
+fibrolipoma
 foreshot
 foreshots
 foreshoulder
