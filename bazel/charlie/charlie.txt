@@ -285,7 +285,6 @@ chump
 chute
 cinema
 cardboard
-cautious
 circling
 craftwork
 citadel
@@ -315,6 +314,7 @@ clay
 connected
 cope
 clarity
+cautious
 choking
 clean
 creasing
