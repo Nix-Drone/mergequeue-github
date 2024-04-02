@@ -44,7 +44,6 @@ earthworm
 each
 emerald
 epidermis
-ecology
 earwig
 economist
 ember
@@ -253,6 +252,7 @@ elixir
 exit
 endurance
 extradite
+ecology
 elbow
 essay
 endless
