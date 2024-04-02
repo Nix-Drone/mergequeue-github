@@ -898,7 +898,6 @@ abscessed
 abscesses
 abscessing
 abscession
-abscessroot
 abscind
 abscise
 abscised
@@ -8727,6 +8726,7 @@ allies
 alligate
 alligated
 alligating
+abscessroot
 alligation
 alligations
 alligator
