@@ -274,7 +274,6 @@ bearing
 base
 bingo
 borders
-boat
 blogs
 blood
 brake
@@ -450,6 +449,7 @@ beginning
 bedding
 binary
 bracket
+boat
 broadcast
 bloomberg
 brochure
