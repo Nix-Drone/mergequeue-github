@@ -397,7 +397,6 @@ divinity
 defiant
 directed
 degraded
-deploy
 dumpster
 delirious
 dreadlock
@@ -485,6 +484,7 @@ dreamland
 dreamless
 dress
 doornail
+deploy
 deflate
 distress
 defender
