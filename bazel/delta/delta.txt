@@ -15,7 +15,6 @@ drudge
 ducktail
 disperser
 declared
-decorator
 dispense
 dice
 dork
@@ -45,6 +44,7 @@ derived
 dealing
 dumping
 dealer
+decorator
 dollhouse
 dares
 deputy
