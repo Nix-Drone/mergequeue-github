@@ -1,7 +1,6 @@
 elevation
 earpiece
 eardrum
-entree
 earlobe
 economy
 employed
@@ -134,6 +133,7 @@ enclose
 equation
 excluding
 endpoint
+entree
 encode
 eloquence
 ecologist
