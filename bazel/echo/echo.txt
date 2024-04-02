@@ -122,7 +122,6 @@ engine
 entrust
 emergency
 emotion
-eggbeater
 eloquent
 enable
 empathic
@@ -270,6 +269,7 @@ emote
 empirical
 endnote
 edgy
+eggbeater
 earthling
 earthly
 escargot
