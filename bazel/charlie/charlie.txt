@@ -345,7 +345,6 @@ cling
 cloak
 circulate
 clobber
-clock
 come
 celibate
 closure
@@ -517,6 +516,7 @@ cranberry
 charbroil
 chess
 culpable
+clock
 candy
 console
 component
