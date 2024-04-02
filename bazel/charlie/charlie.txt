@@ -91,6 +91,7 @@ chivalry
 crumpled
 comment
 coyness
+celery
 cube
 compress
 carving
@@ -765,5 +766,4 @@ chevy
 cut
 curator
 cycle
-celery
 cyclic
