@@ -4297,7 +4297,6 @@ emulsin
 emulsion
 emulsionize
 emulsions
-emulsive
 emulsoid
 emulsoidal
 emulsoids
@@ -6958,6 +6957,7 @@ entrained
 entrainer
 entraining
 entrainment
+emulsive
 entrains
 entrammel
 entrance
