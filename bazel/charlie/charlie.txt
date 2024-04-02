@@ -64,6 +64,7 @@ colt
 capsize
 captivate
 clutter
+chemo
 carbon
 carded
 contact
@@ -149,7 +150,6 @@ caution
 casing
 capsule
 clone
-chemo
 clique
 calm
 curable
