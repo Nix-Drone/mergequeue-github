@@ -96,6 +96,7 @@ coyness
 celery
 cube
 compress
+carnival
 carving
 catatonic
 clerical
@@ -215,7 +216,6 @@ chariot
 confined
 charm
 credit
-carnival
 chastity
 chatroom
 cheating
