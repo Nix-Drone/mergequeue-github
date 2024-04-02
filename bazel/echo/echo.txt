@@ -65,6 +65,7 @@ equal
 eject
 emphasize
 expensive
+encircle
 exposable
 enclosure
 energetic
@@ -130,7 +131,6 @@ external
 elbow
 exclude
 evidence
-encircle
 enclose
 equation
 excluding
