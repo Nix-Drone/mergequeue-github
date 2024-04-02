@@ -222,7 +222,6 @@ arena
 arrest
 area
 arrival
-awry
 activate
 awkward
 ascertain
@@ -286,6 +285,7 @@ anyway
 agility
 ambush
 agency
+awry
 aspire
 anger
 aptitude
