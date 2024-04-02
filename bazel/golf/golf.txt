@@ -2909,7 +2909,6 @@ gens
 genseng
 gensengs
 genson
-gent
 gentamicin
 genteel
 genteeler
@@ -6650,6 +6649,7 @@ goldenfleece
 goldenhair
 goldenknop
 goldenly
+gent
 goldenlocks
 goldenmouthed
 goldenness
