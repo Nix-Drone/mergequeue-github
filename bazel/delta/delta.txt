@@ -15012,7 +15012,6 @@ dogtrot
 dogtrots
 dogtrotted
 dogtrotting
-dogvane
 dogvanes
 dogwatch
 dogwatches
@@ -15706,6 +15705,7 @@ dormette
 dormeuse
 dormy
 dormice
+dogvane
 dormie
 dormient
 dormilona
