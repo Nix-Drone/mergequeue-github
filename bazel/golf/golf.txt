@@ -1808,7 +1808,6 @@ gastroenterological
 gastroenterologically
 gastroenterologist
 gastroenterologists
-gastroenteroptosis
 gastroenterostomy
 gastroenterostomies
 gastroenterotomy
@@ -9575,6 +9574,7 @@ growling
 growlingly
 growls
 grown
+gastroenteroptosis
 grownup
 grownups
 grows
