@@ -40,7 +40,6 @@ chafe
 canister
 cape
 coliseum
-corned
 cornhusk
 crushing
 campsite
@@ -461,6 +460,7 @@ climate
 concave
 carnivore
 capricorn
+corned
 copartner
 conceded
 concerned
