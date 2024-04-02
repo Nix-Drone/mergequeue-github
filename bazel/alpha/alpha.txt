@@ -146,7 +146,6 @@ acts
 awoke
 ambiguity
 aged
-await
 arrival
 abstain
 art
@@ -209,6 +208,7 @@ aflutter
 antitoxic
 aground
 animate
+await
 animator
 appointee
 agony
