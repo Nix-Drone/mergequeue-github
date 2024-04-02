@@ -103,7 +103,6 @@ behalf
 bradford
 bermuda
 bride
-beds
 basic
 booking
 baths
@@ -450,6 +449,7 @@ baskets
 bedding
 binary
 bracket
+beds
 broadcast
 bonus
 bloomberg

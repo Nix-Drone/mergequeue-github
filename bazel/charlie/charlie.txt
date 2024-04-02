@@ -348,6 +348,7 @@ come
 closure
 crouch
 chubby
+chip
 clothing
 computing
 clover
@@ -699,7 +700,6 @@ congested
 cleat
 chalice
 creed
-chip
 crib
 curling
 crave
