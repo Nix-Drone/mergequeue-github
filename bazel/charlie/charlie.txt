@@ -385,7 +385,6 @@ cornflake
 cuddle
 coherence
 coeditor
-coherent
 cruelness
 cohesive
 coil
@@ -684,6 +683,7 @@ circus
 copilot
 clothes
 constrict
+coherent
 chunk
 crisply
 conduit
