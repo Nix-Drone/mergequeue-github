@@ -137,7 +137,6 @@ concrete
 crimson
 cash
 carload
-clarinet
 civil
 cider
 civic
@@ -380,6 +379,7 @@ cobweb
 canary
 chirpy
 cod
+clarinet
 context
 creative
 criteria
