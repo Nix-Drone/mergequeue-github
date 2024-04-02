@@ -272,7 +272,6 @@ coexist
 candle
 casket
 choice
-catcher
 curler
 contempt
 chomp
@@ -698,6 +697,7 @@ crested
 crowd
 container
 captive
+catcher
 congested
 cleat
 chalice

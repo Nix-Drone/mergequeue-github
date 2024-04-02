@@ -302,6 +302,7 @@ audible
 armband
 antler
 asleep
+afloat
 aerospace
 aloe
 anaerobic
@@ -419,7 +420,6 @@ afoot
 awaken
 amnesty
 absolve
-afloat
 attendee
 attain
 agreeable
