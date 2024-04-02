@@ -896,7 +896,6 @@ ectorganism
 ectorhinal
 ectosarc
 ectosarcous
-ectosarcs
 ectoskeleton
 ectosomal
 ectosome
@@ -1108,6 +1107,7 @@ editchar
 edited
 edith
 editing
+ectosarcs
 edition
 editions
 editor
