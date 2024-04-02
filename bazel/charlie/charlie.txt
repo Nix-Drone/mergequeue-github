@@ -3733,7 +3733,6 @@ carbophilous
 carbora
 carboras
 carborundum
-carbosilicate
 carbostyril
 carboxy
 carboxide
@@ -29853,6 +29852,7 @@ crossly
 crosslight
 crosslighted
 crosslike
+carbosilicate
 crossline
 crosslink
 crossness

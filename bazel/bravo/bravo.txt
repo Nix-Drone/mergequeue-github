@@ -1121,6 +1121,7 @@ bais
 bays
 baisakh
 baisemain
+boardable
 baysmelt
 baysmelts
 baister
@@ -11500,7 +11501,6 @@ boanthropy
 boar
 boarcite
 board
-boardable
 boardbill
 boarded
 boarder
