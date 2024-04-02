@@ -30,7 +30,6 @@ corridor
 campsite
 campfire
 clavicle
-chitchat
 composure
 crayfish
 client
@@ -173,6 +172,7 @@ curing
 cognition
 certainty
 causal
+chitchat
 colossal
 curvy
 crinkle
