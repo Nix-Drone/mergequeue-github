@@ -266,6 +266,7 @@ earache
 engaged
 expenses
 errand
+entryway
 emote
 empirical
 endnote
@@ -305,7 +306,6 @@ elephant
 epileptic
 encrypt
 ebook
-entryway
 ether
 eggshell
 ethics
