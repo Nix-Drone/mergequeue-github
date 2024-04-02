@@ -151,6 +151,7 @@ casing
 capsule
 clone
 chemo
+clique
 calm
 curable
 celtic
@@ -342,7 +343,6 @@ copy
 couch
 clause
 cling
-clique
 cloak
 circulate
 clobber
