@@ -396,7 +396,6 @@ coil
 conjoined
 coke
 curtain
-commode
 crewman
 cube
 coleslaw
@@ -490,6 +489,7 @@ crop
 chevron
 compacter
 curse
+commode
 cupped
 cycling
 cheer
