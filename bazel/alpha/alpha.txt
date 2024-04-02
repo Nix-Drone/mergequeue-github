@@ -61,6 +61,7 @@ asparagus
 acid
 appetite
 audition
+amenity
 armoire
 acetone
 ambulance
@@ -407,7 +408,6 @@ ahead
 atypical
 aversion
 arise
-amenity
 average
 appraisal
 avid
