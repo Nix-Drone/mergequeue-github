@@ -147,6 +147,7 @@ estate
 employee
 earful
 entering
+extortion
 elm
 exploit
 empty
@@ -370,7 +371,6 @@ entity
 economy
 excretion
 engorge
-extortion
 endurable
 elf
 expend
