@@ -4043,7 +4043,6 @@ empathies
 empathize
 empathized
 empathizes
-empathizing
 empatron
 empearl
 empedoclean
@@ -13570,6 +13569,7 @@ extensity
 extensive
 extensively
 extensiveness
+empathizing
 extensivity
 extensometer
 extensor
