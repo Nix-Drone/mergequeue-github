@@ -2318,7 +2318,6 @@ gedd
 gedder
 gedds
 gedeckt
-gedecktwork
 gederathite
 gederite
 gedrite
@@ -8338,6 +8337,7 @@ grassie
 grassier
 grassiest
 grassily
+gedecktwork
 grassiness
 grassing
 grassland
