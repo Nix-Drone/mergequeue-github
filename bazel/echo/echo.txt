@@ -78,6 +78,7 @@ epidural
 epic
 entrench
 estimator
+evict
 erasable
 encore
 effects
@@ -404,7 +405,6 @@ expose
 exact
 entail
 establish
-evict
 exes
 excuse
 early
