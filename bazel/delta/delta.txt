@@ -5117,7 +5117,6 @@ dendroctonus
 dendrodic
 dendrodont
 dendrodra
-dendrodus
 dendroeca
 dendrogaea
 dendrogaean
@@ -12986,6 +12985,7 @@ dispermic
 dispermous
 disperple
 dispersal
+dendrodus
 dispersals
 dispersant
 disperse

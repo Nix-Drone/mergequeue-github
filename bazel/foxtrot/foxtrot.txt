@@ -3191,7 +3191,6 @@ fibroplastic
 fibropolypus
 fibropsammoma
 fibropurulent
-fibroreticulate
 fibrosarcoma
 fibrose
 fibroserous
@@ -4691,6 +4690,7 @@ fixe
 fixed
 fixedly
 fixedness
+fibroreticulate
 fixer
 fixers
 fixes
