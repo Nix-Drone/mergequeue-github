@@ -68,6 +68,7 @@ amenity
 armoire
 ambulance
 alarm
+anaconda
 armful
 aversion
 animal
@@ -265,7 +266,6 @@ arousal
 abruptly
 autopilot
 antiviral
-anaconda
 appendage
 almanac
 atrocious
