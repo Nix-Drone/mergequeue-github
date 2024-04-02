@@ -127,6 +127,7 @@ concrete
 crimson
 cash
 carload
+clatter
 clarinet
 civil
 cider
@@ -624,7 +625,6 @@ connector
 cannot
 cover
 childhood
-clatter
 croak
 closable
 carried
