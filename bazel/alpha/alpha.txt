@@ -255,7 +255,6 @@ amount
 attendant
 appraiser
 acronym
-angriness
 anointer
 ascension
 atonable
@@ -305,6 +304,7 @@ aloe
 agreeing
 activism
 afflicted
+angriness
 actress
 afford
 always
