@@ -364,6 +364,7 @@ cackle
 coasting
 comfy
 cruelty
+caravan
 cornfield
 coastline
 coat
@@ -637,7 +638,6 @@ croak
 closable
 carried
 clinking
-caravan
 crate
 craving
 clunky
