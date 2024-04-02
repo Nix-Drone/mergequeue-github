@@ -175,7 +175,6 @@ chitchat
 colossal
 curvy
 crinkle
-cursive
 caterer
 clerk
 concierge
@@ -541,6 +540,7 @@ coerce
 contrite
 contusion
 copied
+cursive
 capital
 chewable
 cacti
