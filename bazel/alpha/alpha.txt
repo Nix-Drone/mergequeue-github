@@ -254,7 +254,6 @@ angular
 amount
 amazingly
 attendant
-appraiser
 acronym
 anointer
 ascension
@@ -283,6 +282,7 @@ ashy
 anymore
 amplify
 abide
+appraiser
 anyway
 agility
 ambush
