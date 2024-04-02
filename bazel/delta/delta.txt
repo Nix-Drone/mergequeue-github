@@ -20,7 +20,6 @@ ducktail
 daybed
 declared
 decorator
-dispense
 dice
 disengage
 dork
@@ -516,6 +515,7 @@ duckling
 deepness
 dislocate
 dumpling
+dispense
 decal
 decay
 duplex
