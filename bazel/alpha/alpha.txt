@@ -68,6 +68,7 @@ ambulance
 alarm
 armful
 aversion
+animal
 amaze
 aching
 antics
@@ -310,7 +311,6 @@ always
 antidote
 acclimate
 accustom
-animal
 angled
 armed
 aghast
