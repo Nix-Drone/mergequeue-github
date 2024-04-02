@@ -7391,7 +7391,6 @@ epeirogenically
 epeisodia
 epeisodion
 epembryonic
-epencephal
 epencephala
 epencephalic
 epencephalon
@@ -10409,6 +10408,7 @@ ethnocracy
 ethnodicy
 ethnoflora
 ethnog
+epencephal
 ethnogeny
 ethnogenic
 ethnogenies
