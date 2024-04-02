@@ -126,6 +126,7 @@ eloquent
 enable
 empathic
 external
+endorphin
 elbow
 exclude
 evidence
@@ -254,7 +255,6 @@ escapable
 enviably
 eagle
 elixir
-endorphin
 express
 entwine
 endurance
