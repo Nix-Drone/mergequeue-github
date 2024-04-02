@@ -2957,7 +2957,6 @@ elytron
 elytroplastic
 elytropolypus
 elytroposis
-elytroptosis
 elytrorhagia
 elytrorrhagia
 elytrorrhaphy
@@ -12760,6 +12759,7 @@ exopterygotous
 exor
 exorability
 exorable
+elytroptosis
 exorableness
 exorate
 exorbital
