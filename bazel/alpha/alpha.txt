@@ -2352,6 +2352,7 @@ achromatize
 achromatized
 achromatizing
 achromatocyte
+adipocyte
 achromatolysis
 achromatope
 achromatophil
@@ -3945,7 +3946,6 @@ adipocere
 adipoceriform
 adipocerite
 adipocerous
-adipocyte
 adipofibroma
 adipogenic
 adipogenous
