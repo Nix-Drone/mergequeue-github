@@ -202,6 +202,7 @@ exchange
 enforced
 electable
 epidemic
+establish
 entrap
 eclair
 endless
@@ -230,7 +231,6 @@ excavate
 exemplify
 elitism
 exterior
-establish
 encircle
 enticing
 easiest

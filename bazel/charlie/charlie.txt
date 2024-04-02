@@ -62,7 +62,6 @@ capped
 caress
 colt
 colony
-capsize
 chemo
 carbon
 carded
@@ -551,6 +550,7 @@ crock
 chewable
 chemist
 cacti
+capsize
 cartoon
 cauterize
 charting
