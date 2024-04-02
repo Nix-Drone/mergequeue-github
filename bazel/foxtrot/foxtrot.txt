@@ -2522,7 +2522,6 @@ ferocity
 ferocities
 feroher
 feronia
-ferous
 ferox
 ferr
 ferrado
@@ -7635,6 +7634,7 @@ forecastors
 forecasts
 forecatching
 forecatharping
+ferous
 forechamber
 forechase
 forechoice
