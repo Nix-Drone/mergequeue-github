@@ -89,6 +89,7 @@ birth
 bulgarian
 batman
 beast
+browser
 brussels
 backing
 buzz
@@ -343,7 +344,6 @@ beat
 benefits
 bulk
 blackberry
-browser
 byte
 bachelor
 barbados
