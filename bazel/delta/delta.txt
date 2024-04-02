@@ -53,6 +53,7 @@ decaf
 duplicate
 dill
 dwindling
+detector
 dreamy
 detective
 driver
@@ -217,7 +218,6 @@ deception
 diabolic
 deflected
 dollar
-detector
 discourse
 detection
 debug
