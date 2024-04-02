@@ -237,7 +237,6 @@ cherisher
 camera
 culture
 chest
-chevron
 cavity
 coping
 chewy
@@ -480,6 +479,7 @@ confess
 cornball
 crop
 calzone
+chevron
 compacter
 confidant
 curse
