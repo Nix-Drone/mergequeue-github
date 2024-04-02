@@ -2,7 +2,6 @@ elevation
 earpiece
 expediter
 eardrum
-entree
 earlobe
 economy
 employed
@@ -135,6 +134,7 @@ evidence
 equation
 excluding
 endpoint
+entree
 encode
 eloquence
 ecologist
