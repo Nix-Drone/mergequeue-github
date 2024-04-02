@@ -313,6 +313,7 @@ directory
 diameter
 dimmed
 daily
+dislocate
 dragster
 diocese
 donator
@@ -513,7 +514,6 @@ derail
 dweeb
 duckling
 deepness
-dislocate
 dumpling
 decal
 decay
