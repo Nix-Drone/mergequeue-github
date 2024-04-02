@@ -344,7 +344,6 @@ depth
 deny
 dilation
 divinely
-discount
 drinkable
 delusion
 dweller
@@ -542,6 +541,7 @@ disorder
 durable
 duration
 destruct
+discount
 docile
 distract
 danger
