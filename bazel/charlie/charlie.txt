@@ -42,7 +42,6 @@ chafe
 canister
 cape
 coliseum
-corned
 cornhusk
 crushing
 campsite
@@ -380,6 +379,7 @@ context
 creative
 criteria
 condition
+corned
 cartload
 coveted
 crevice
