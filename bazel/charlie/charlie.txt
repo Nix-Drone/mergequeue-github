@@ -65,6 +65,7 @@ chemo
 carbon
 carded
 contact
+craftsman
 condiment
 cabana
 confusion
@@ -207,7 +208,6 @@ coral
 colonial
 contort
 change
-craftsman
 crawlers
 chapped
 chemist
