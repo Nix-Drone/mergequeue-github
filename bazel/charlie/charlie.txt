@@ -21285,6 +21285,7 @@ conchal
 conchate
 conche
 conched
+convoking
 concher
 conches
 conchfish
@@ -24173,7 +24174,6 @@ convoked
 convoker
 convokers
 convokes
-convoking
 convoluta
 convolute
 convoluted
