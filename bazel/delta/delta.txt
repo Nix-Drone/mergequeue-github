@@ -322,7 +322,6 @@ dazzler
 diploma
 direction
 dense
-delay
 dainty
 dispose
 dazzling
@@ -502,6 +501,7 @@ despise
 dipped
 dried
 dripping
+delay
 delicious
 debit
 drone
