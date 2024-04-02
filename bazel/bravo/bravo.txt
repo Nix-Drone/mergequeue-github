@@ -58,7 +58,6 @@ bikini
 buffer
 bread
 budapest
-bridge
 banking
 builder
 barnes
@@ -418,6 +417,7 @@ body
 badge
 became
 boxes
+bridge
 burden
 burst
 ballot
