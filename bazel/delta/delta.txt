@@ -106,7 +106,6 @@ diaper
 diabetes
 domestic
 distinct
-desktop
 dingo
 drift
 disclose
@@ -462,6 +461,7 @@ dormitory
 doorman
 droplet
 dropbox
+desktop
 deluge
 drainage
 duplicity
