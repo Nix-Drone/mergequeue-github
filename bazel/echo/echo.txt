@@ -64,6 +64,7 @@ either
 express
 equivocal
 eclipse
+echo
 equal
 eject
 emphasize
@@ -177,7 +178,6 @@ earflap
 eligible
 emptiness
 epilogue
-echo
 elated
 exert
 ecard
