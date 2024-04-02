@@ -102,6 +102,7 @@ bride
 beds
 basic
 booking
+baths
 boats
 below
 blake
@@ -339,7 +340,6 @@ brooklyn
 bonds
 beat
 benefits
-baths
 bone
 bulk
 blackberry
