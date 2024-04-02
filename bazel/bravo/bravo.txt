@@ -406,6 +406,7 @@ bikes
 bucks
 baseball
 blue
+bang
 beta
 battle
 belfast
@@ -427,7 +428,6 @@ bolt
 beach
 bishop
 bullet
-bang
 bath
 bargain
 bruce
