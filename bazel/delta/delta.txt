@@ -23,7 +23,6 @@ decorator
 dispense
 dice
 disengage
-duckbill
 dork
 darkish
 disprove
@@ -544,6 +543,7 @@ destruct
 discount
 docile
 distract
+duckbill
 danger
 dusk
 dreamt
