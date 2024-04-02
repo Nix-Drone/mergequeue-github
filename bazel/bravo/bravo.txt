@@ -7191,7 +7191,6 @@ bestowable
 bestowage
 bestowal
 bestowals
-bestowed
 bestower
 bestowing
 bestowment
@@ -17965,6 +17964,7 @@ busheled
 busheler
 bushelers
 bushelful
+bestowed
 bushelfuls
 busheling
 bushelled
