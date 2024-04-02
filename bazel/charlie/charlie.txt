@@ -285,6 +285,7 @@ chump
 chute
 cinema
 cardboard
+calzone
 circling
 craftwork
 citadel
@@ -477,7 +478,6 @@ clasp
 confess
 cornball
 crop
-calzone
 chevron
 compacter
 confidant
