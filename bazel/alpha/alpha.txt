@@ -146,6 +146,7 @@ acts
 awoke
 ambiguity
 aged
+await
 arrival
 abstain
 art
@@ -340,7 +341,6 @@ arbitrary
 amigo
 automatic
 award
-await
 arrogance
 aerobics
 animating
