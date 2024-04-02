@@ -508,7 +508,6 @@ cylinder
 conjure
 character
 composed
-compile
 cathedral
 cushy
 cranberry
@@ -753,6 +752,7 @@ cursor
 curtly
 curtsy
 consonant
+compile
 computer
 curvature
 chewing
