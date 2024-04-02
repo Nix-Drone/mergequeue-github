@@ -138,6 +138,7 @@ causing
 carpentry
 crafter
 clerical
+canyon
 chewer
 chaps
 charcoal
@@ -631,7 +632,6 @@ croak
 closable
 carried
 clinking
-canyon
 caravan
 crate
 craving
