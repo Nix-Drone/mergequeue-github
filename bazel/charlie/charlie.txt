@@ -145,6 +145,7 @@ cathouse
 collapse
 certified
 causing
+consonant
 carpentry
 crafter
 canyon
@@ -753,7 +754,6 @@ cursor
 critter
 curtly
 curtsy
-consonant
 compile
 computer
 chaffing
