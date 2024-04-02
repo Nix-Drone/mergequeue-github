@@ -629,7 +629,6 @@ croak
 closable
 carried
 clinking
-crave
 canyon
 caravan
 crate
@@ -703,6 +702,7 @@ creed
 chip
 crib
 curling
+crave
 crummiest
 crummy
 crablike
