@@ -2516,7 +2516,6 @@ declaration
 declarations
 declarative
 declaratively
-declaratives
 declarator
 declaratory
 declaratorily
@@ -11488,6 +11487,7 @@ discommodiousness
 discommodity
 discommodities
 discommon
+declaratives
 discommoned
 discommoning
 discommons
