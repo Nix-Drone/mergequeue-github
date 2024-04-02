@@ -363,7 +363,6 @@ coasting
 comfy
 cruelty
 cornfield
-coastline
 coat
 cobalt
 cytoplasm
@@ -584,6 +583,7 @@ corner
 crumb
 clanking
 cosigner
+coastline
 contest
 crease
 carpool
