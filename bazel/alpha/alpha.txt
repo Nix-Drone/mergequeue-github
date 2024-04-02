@@ -243,7 +243,6 @@ antiques
 angular
 amount
 aging
-antiquity
 attendant
 appraiser
 acronym
@@ -345,6 +344,7 @@ arrogance
 aerobics
 animating
 abdomen
+antiquity
 affiliate
 anointer
 amperage
