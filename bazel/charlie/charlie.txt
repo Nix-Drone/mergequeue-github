@@ -48,7 +48,6 @@ campsite
 configure
 clash
 confirm
-customs
 canopener
 cheesy
 courier
@@ -468,6 +467,7 @@ concert
 conch
 commute
 chess
+customs
 calibrate
 conclude
 calibrate
