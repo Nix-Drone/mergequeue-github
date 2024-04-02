@@ -399,6 +399,7 @@ corporal
 collected
 collie
 colonist
+chihuahua
 coma
 catnap
 cyclist
@@ -642,7 +643,6 @@ crazy
 cedar
 creamed
 creamlike
-chihuahua
 creatable
 cogwheel
 create
