@@ -201,7 +201,6 @@ bedrooms
 blind
 belkin
 bills
-barriers
 bytes
 berlin
 beef
@@ -486,6 +485,7 @@ beaches
 born
 burning
 booth
+barriers
 borough
 business
 beer
