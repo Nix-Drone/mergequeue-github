@@ -84,6 +84,7 @@ effects
 exes
 enrage
 emoticon
+extruding
 extras
 elevator
 expanse
@@ -383,7 +384,6 @@ everyday
 elk
 equate
 eliminate
-extruding
 explicit
 evacuee
 exploring
