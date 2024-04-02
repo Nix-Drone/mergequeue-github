@@ -151,7 +151,6 @@ awoke
 acquire
 ambiguity
 aged
-arrival
 abstain
 art
 armored
@@ -222,6 +221,7 @@ anvil
 arena
 arrest
 area
+arrival
 awry
 amused
 activate
