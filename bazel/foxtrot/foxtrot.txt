@@ -1317,7 +1317,6 @@ fatales
 fatalism
 fatalisms
 fatalist
-fatalistic
 fatalistically
 fatalists
 fatality
@@ -11580,6 +11579,7 @@ fusilades
 fusilading
 fusile
 fusileer
+fatalistic
 fusileers
 fusilier
 fusiliers
