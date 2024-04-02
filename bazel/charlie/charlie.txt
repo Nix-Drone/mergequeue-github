@@ -21,7 +21,6 @@ cotton
 cherub
 chastise
 camcorder
-corridor
 clutter
 campsite
 campfire
@@ -597,6 +596,7 @@ corrosive
 cardstock
 cadet
 could
+corridor
 capillary
 corset
 cufflink
