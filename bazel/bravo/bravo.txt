@@ -20,6 +20,7 @@ belt
 brakes
 brown
 basename
+battery
 banners
 bear
 blogging
@@ -264,7 +265,6 @@ before
 boulevard
 bolivia
 bedford
-battery
 blades
 being
 burn
