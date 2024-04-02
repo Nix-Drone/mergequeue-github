@@ -64,6 +64,7 @@ audition
 amenity
 armoire
 ambulance
+antacid
 alarm
 armful
 aversion
@@ -393,7 +394,6 @@ affluent
 argue
 ambiance
 auction
-antacid
 although
 amniotic
 authentic
