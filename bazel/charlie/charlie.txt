@@ -366,6 +366,7 @@ cornfield
 coastline
 coat
 cobalt
+composed
 cytoplasm
 crudeness
 casino
@@ -507,7 +508,6 @@ clever
 cylinder
 conjure
 character
-composed
 compile
 cathedral
 consensus
