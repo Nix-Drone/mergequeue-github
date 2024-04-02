@@ -42,6 +42,7 @@ brands
 brakes
 begun
 belts
+behavioral
 boxed
 band
 breakfast
@@ -76,7 +77,6 @@ builds
 behaviour
 bizarre
 benchmark
-behavioral
 brush
 bras
 butts
