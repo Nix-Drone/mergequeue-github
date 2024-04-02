@@ -214,6 +214,7 @@ agony
 anvil
 arena
 arrest
+area
 awry
 amused
 activate
@@ -310,7 +311,6 @@ applause
 aviation
 audience
 ample
-area
 attach
 avenging
 author
