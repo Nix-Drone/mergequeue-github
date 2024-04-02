@@ -341,6 +341,7 @@ cling
 cloak
 circulate
 clobber
+catfish
 clock
 come
 celibate
@@ -587,7 +588,6 @@ contest
 crease
 carpool
 cogwheel
-catfish
 catlike
 cleat
 coagulant
