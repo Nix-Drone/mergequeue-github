@@ -99,7 +99,6 @@ decree
 disown
 defrost
 defuse
-dodge
 deed
 dejected
 domain
@@ -427,6 +426,7 @@ deforest
 doing
 dugout
 defiant
+dodge
 dude
 designate
 dolphin
