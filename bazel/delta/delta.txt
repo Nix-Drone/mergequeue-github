@@ -290,7 +290,6 @@ defog
 drab
 demanding
 disrupt
-distaste
 distress
 dingbat
 detail
@@ -309,6 +308,7 @@ dimly
 displease
 dissuade
 donor
+distaste
 directory
 diameter
 dimmed
