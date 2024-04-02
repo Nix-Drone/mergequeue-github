@@ -113,7 +113,6 @@ explode
 emboss
 emcee
 enrich
-everyone
 enquirer
 estimate
 endocrine
@@ -152,6 +151,7 @@ extortion
 elm
 easiest
 exploit
+everyone
 exorcist
 election
 envoy
