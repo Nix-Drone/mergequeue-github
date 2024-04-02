@@ -87,7 +87,6 @@ blade
 batman
 beast
 brussels
-baker
 buzz
 because
 bind
@@ -332,6 +331,7 @@ beaver
 bool
 bible
 billing
+baker
 books
 botswana
 brooklyn
