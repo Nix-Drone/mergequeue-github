@@ -7473,7 +7473,6 @@ forbled
 forblow
 forbode
 forboded
-forbodes
 forboding
 forbore
 forborn
@@ -9240,6 +9239,7 @@ fractionate
 fractionated
 fractionating
 fractionation
+forbodes
 fractionator
 fractioned
 fractioning
