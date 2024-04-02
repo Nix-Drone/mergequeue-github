@@ -5607,7 +5607,6 @@ depencil
 depend
 dependability
 dependabilities
-dependable
 dependableness
 dependably
 dependance
@@ -10548,6 +10547,7 @@ diplodus
 diploe
 diploes
 diploetic
+dependable
 diplogangliate
 diplogenesis
 diplogenetic
