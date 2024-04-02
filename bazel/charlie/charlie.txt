@@ -344,7 +344,6 @@ couch
 clause
 cling
 cloak
-circulate
 clobber
 clock
 come
@@ -741,6 +740,7 @@ commerce
 clump
 cupid
 curdle
+circulate
 culinary
 cancel
 catching
