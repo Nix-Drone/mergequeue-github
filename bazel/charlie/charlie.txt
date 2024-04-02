@@ -212,7 +212,6 @@ chapped
 chemist
 chop
 crumpet
-chariot
 confined
 credit
 chastity
@@ -380,6 +379,7 @@ context
 creative
 criteria
 condition
+chariot
 corned
 cartload
 coveted
