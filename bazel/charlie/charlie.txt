@@ -167,7 +167,6 @@ chasing
 carol
 crewman
 curing
-cognition
 certainty
 causal
 chitchat
@@ -451,6 +450,7 @@ construct
 comprised
 campsite
 comrade
+cognition
 camping
 climate
 concave
