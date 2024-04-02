@@ -3797,6 +3797,7 @@ adept
 adepter
 adeptest
 adeption
+authorizable
 adeptly
 adeptness
 adepts
@@ -23814,7 +23815,6 @@ authoritatively
 authoritativeness
 authority
 authorities
-authorizable
 authorization
 authorizations
 authorize
