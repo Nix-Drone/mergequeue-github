@@ -340,6 +340,7 @@ beaver
 bool
 bible
 billing
+buyer
 books
 botswana
 brooklyn
@@ -455,7 +456,6 @@ bonus
 bloomberg
 brochure
 beads
-buyer
 budget
 betty
 barn
