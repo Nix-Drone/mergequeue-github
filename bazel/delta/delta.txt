@@ -465,7 +465,6 @@ doorman
 droplet
 dropbox
 deluge
-disallow
 drainage
 duplicity
 doorpost
@@ -475,6 +474,7 @@ doormat
 dose
 dizzy
 dwelling
+disallow
 dramatic
 dismount
 drastic
