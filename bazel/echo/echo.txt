@@ -110,6 +110,7 @@ earthlike
 explode
 emboss
 emcee
+enrich
 everyone
 enquirer
 estimate
@@ -168,7 +169,6 @@ embargo
 envision
 embezzle
 eggplant
-enrich
 endanger
 encroach
 encourage
