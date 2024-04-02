@@ -428,6 +428,7 @@ bolt
 beach
 bishop
 bullet
+bases
 bath
 bargain
 bruce
@@ -473,7 +474,6 @@ boobs
 belly
 battlefield
 bike
-bases
 branches
 blanket
 benz
