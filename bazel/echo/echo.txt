@@ -113,7 +113,6 @@ emu
 earthlike
 explode
 emboss
-emcee
 enrich
 enquirer
 estimate
@@ -289,6 +288,7 @@ emblaze
 explore
 exclaim
 epiphany
+emcee
 engulf
 erasure
 ensure
