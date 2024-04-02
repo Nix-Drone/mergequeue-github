@@ -324,7 +324,6 @@ antsy
 activator
 arming
 aspirin
-antivirus
 android
 abridge
 alive
@@ -401,6 +400,7 @@ angelic
 afternoon
 axis
 armchair
+antivirus
 atom
 alphabet
 amaretto
