@@ -354,7 +354,6 @@ beam
 becoming
 barely
 breaks
-bacon
 baseline
 behavior
 bumper
@@ -488,6 +487,7 @@ barriers
 borough
 business
 beer
+bacon
 blvd
 boulder
 boys
