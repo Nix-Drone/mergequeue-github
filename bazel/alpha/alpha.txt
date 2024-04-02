@@ -215,7 +215,6 @@ appointee
 agony
 anvil
 aspect
-arena
 arrest
 area
 arrival
@@ -364,6 +363,7 @@ apron
 ammonia
 ashamed
 aerosol
+arena
 astrology
 astound
 activity
