@@ -3483,7 +3483,6 @@ emboite
 emboitement
 emboites
 embolden
-emboldened
 emboldener
 emboldening
 emboldens
@@ -12258,6 +12257,7 @@ excuses
 excusing
 excusingly
 excusive
+emboldened
 excusively
 excuss
 excussed
