@@ -2046,7 +2046,6 @@ acetylamine
 acetylaminobenzene
 acetylaniline
 acetylasalicylic
-acetylate
 acetylated
 acetylating
 acetylation
@@ -17768,6 +17767,7 @@ appleberry
 appleblossom
 applecart
 appled
+acetylate
 appledrane
 appledrone
 applegrower
