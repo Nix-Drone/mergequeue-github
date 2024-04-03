@@ -1961,7 +1961,6 @@ gateman
 gatemen
 gatepost
 gateposts
-gater
 gates
 gatetender
 gateway
@@ -2618,6 +2617,7 @@ genapp
 genappe
 genapped
 genapper
+gater
 genapping
 genarch
 genarcha
