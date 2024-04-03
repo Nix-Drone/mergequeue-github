@@ -2797,7 +2797,6 @@ eleusine
 eleusinia
 eleusinian
 eleusinion
-eleut
 eleutherarch
 eleutheri
 eleutheria
@@ -11628,6 +11627,7 @@ evocators
 evocatrix
 evodia
 evoe
+eleut
 evoke
 evoked
 evoker
