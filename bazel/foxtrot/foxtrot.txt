@@ -4270,7 +4270,6 @@ fires
 firesafe
 firesafeness
 firesafety
-fireshaft
 fireshine
 fireside
 firesider
@@ -5013,6 +5012,7 @@ flanked
 flanken
 flanker
 flankers
+fireshaft
 flanky
 flanking
 flanks
