@@ -5743,7 +5743,6 @@ globuliferous
 globuliform
 globulimeter
 globulin
-globulins
 globulinuria
 globulysis
 globulite
@@ -7584,6 +7583,7 @@ gps
 gpss
 gr
 gra
+globulins
 graafian
 graal
 graals
