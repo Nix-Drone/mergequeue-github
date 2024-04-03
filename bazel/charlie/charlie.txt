@@ -14196,7 +14196,6 @@ circularness
 circulars
 circularwise
 circulatable
-circulate
 circulated
 circulates
 circulating
@@ -29107,6 +29106,7 @@ criobolium
 cryocautery
 criocephalus
 crioceras
+circulate
 crioceratite
 crioceratitic
 crioceris
