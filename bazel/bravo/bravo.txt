@@ -11222,7 +11222,6 @@ blowth
 blowtorch
 blowtorches
 blowtube
-blowtubes
 blowup
 blowups
 blowze
@@ -17653,6 +17652,7 @@ burgherage
 burgherdom
 burgheress
 burgherhood
+blowtubes
 burgheristh
 burghermaster
 burghers
