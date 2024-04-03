@@ -6779,7 +6779,6 @@ entier
 enties
 entify
 entifical
-entification
 entyloma
 entincture
 entypies
@@ -13762,6 +13761,7 @@ extracardial
 extracarpal
 extracathedral
 extracellular
+entification
 extracellularly
 extracerebral
 extrachromosomal
