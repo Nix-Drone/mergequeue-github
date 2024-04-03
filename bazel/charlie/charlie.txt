@@ -5229,7 +5229,6 @@ castellanies
 castellano
 castellans
 castellanship
-castellanus
 castellar
 castellate
 castellated
@@ -16912,6 +16911,7 @@ clupien
 cluppe
 cluricaune
 clusia
+castellanus
 clusiaceae
 clusiaceous
 cluster
