@@ -12465,7 +12465,6 @@ exheredate
 exheredation
 exhibit
 exhibitable
-exhibitant
 exhibited
 exhibiter
 exhibiters
@@ -14085,6 +14084,7 @@ extroversive
 extroversively
 extrovert
 extroverted
+exhibitant
 extrovertedness
 extrovertish
 extrovertive
