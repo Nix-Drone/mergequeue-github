@@ -8355,7 +8355,6 @@ chalkpit
 chalkrail
 chalks
 chalkstone
-chalkstony
 chalkworker
 challa
 challah
@@ -28078,6 +28077,7 @@ craniates
 cranic
 craniectomy
 craning
+chalkstony
 craninia
 craniniums
 craniocele
