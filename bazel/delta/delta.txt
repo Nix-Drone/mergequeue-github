@@ -8369,7 +8369,6 @@ dialogite
 dialogize
 decouple
 divia
-dialogized
 dialogizing
 dialogs
 dialogue
@@ -10527,6 +10526,7 @@ dipleiodoscope
 dipleura
 dipleural
 dipleuric
+dialogized
 dipleurobranchiate
 dipleurogenesis
 dipleurogenetic
