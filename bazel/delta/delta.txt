@@ -6407,6 +6407,7 @@ des
 desaccharification
 desacralization
 desacralize
+drugshop
 desagrement
 desalinate
 desalinated
@@ -17522,7 +17523,6 @@ drugless
 drugmaker
 drugman
 drugs
-drugshop
 drugstore
 drugstores
 druid
