@@ -1255,7 +1255,6 @@ datiscosid
 datiscoside
 datisi
 datism
-datival
 dative
 datively
 datives
@@ -14516,6 +14515,7 @@ djersa
 djibbah
 djibouti
 djin
+datival
 djinn
 djinni
 djinny
