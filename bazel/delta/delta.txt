@@ -6516,7 +6516,6 @@ describably
 describe
 described
 describent
-describer
 describers
 describes
 describing
@@ -9335,6 +9334,7 @@ different
 differentia
 differentiability
 differentiable
+describer
 differentiae
 differential
 differentialize
