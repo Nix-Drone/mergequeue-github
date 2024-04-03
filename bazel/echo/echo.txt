@@ -1745,7 +1745,6 @@ eyelid
 eyelids
 eyelight
 eyelike
-eyeline
 eyeliner
 eyeliners
 eyemark
@@ -5550,6 +5549,7 @@ enfever
 enfevered
 enfevering
 enfevers
+eyeline
 enfief
 enfield
 enfierce
