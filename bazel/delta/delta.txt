@@ -1731,7 +1731,6 @@ deathtrap
 deathtraps
 deathward
 deathwards
-deathwatch
 deathwatches
 deathweed
 deathworm
@@ -8040,6 +8039,7 @@ diabetophobia
 diable
 dyable
 diablene
+deathwatch
 diablery
 diablerie
 diableries

@@ -4150,7 +4150,6 @@ emplanes
 emplaning
 emplaster
 emplastic
-emplastra
 emplastration
 emplastrum
 emplead
@@ -6662,6 +6661,7 @@ enterotoxemia
 enterotoxication
 enterotoxin
 enteroviral
+emplastra
 enterovirus
 enterozoa
 enterozoan
