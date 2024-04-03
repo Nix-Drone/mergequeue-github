@@ -2393,6 +2393,7 @@ electrofuse
 electrofused
 electrofusion
 electrogalvanic
+electroluminescent
 electrogalvanization
 electrogalvanize
 electrogasdynamics
@@ -2453,7 +2454,6 @@ electrological
 electrologist
 electrologists
 electroluminescence
-electroluminescent
 electromagnet
 electromagnetic
 electromagnetical
