@@ -5636,7 +5636,6 @@ glissade
 glissaded
 glissader
 glissades
-glissading
 glissandi
 glissando
 glissandos
@@ -7430,6 +7429,7 @@ gouged
 gouger
 gougers
 gouges
+glissading
 gouging
 gougingly
 goujay
