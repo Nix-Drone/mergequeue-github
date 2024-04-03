@@ -7368,7 +7368,6 @@ detrain
 detrained
 detraining
 detrainment
-detrains
 detraque
 detrect
 detrench
@@ -8431,6 +8430,7 @@ dynamiting
 diamondbacks
 diamonded
 diamonding
+detrains
 diamondize
 diamondized
 diamondizing
