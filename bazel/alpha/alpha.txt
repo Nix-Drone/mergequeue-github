@@ -4057,7 +4057,6 @@ adjuror
 adjurors
 adjust
 adjustability
-adjustable
 adjustably
 adjustage
 adjustation
@@ -12474,6 +12473,7 @@ anecdotists
 anechoic
 anelace
 anelastic
+adjustable
 anelasticity
 anele
 anelectric
