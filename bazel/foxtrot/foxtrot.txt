@@ -2966,6 +2966,7 @@ feverroot
 fevertrap
 fevertwig
 fevertwitch
+fratority
 feverweed
 feverwort
 few
@@ -9550,7 +9551,6 @@ fraternizing
 fraters
 fraticelli
 fraticellian
-fratority
 fratry
 fratriage
 fratricelli
