@@ -10133,7 +10133,6 @@ blackneck
 blackness
 blacknob
 blackout
-blackouts
 blackpatch
 blackplate
 blackpoll
@@ -17460,6 +17459,7 @@ bunkerage
 bunkered
 bunkery
 bunkering
+blackouts
 bunkerman
 bunkermen
 bunkers
