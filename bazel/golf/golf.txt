@@ -1429,6 +1429,7 @@ garlicky
 garliclike
 garlicmonger
 garlics
+gibier
 garlicwort
 garlion
 garlopa
@@ -3931,7 +3932,6 @@ gibers
 gibes
 gybes
 gibetting
-gibier
 gibing
 gybing
 gibingly
