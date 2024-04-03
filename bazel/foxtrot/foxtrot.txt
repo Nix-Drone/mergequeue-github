@@ -1306,6 +1306,7 @@ fastus
 fastwalk
 fat
 fatagaga
+firebug
 fatal
 fatale
 fatales
@@ -4206,7 +4207,6 @@ firebreak
 firebreaks
 firebrick
 firebricks
-firebug
 firebugs
 fireburn
 fireclay
