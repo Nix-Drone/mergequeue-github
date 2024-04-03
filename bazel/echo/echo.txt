@@ -2676,7 +2676,6 @@ electrovalency
 electrovalent
 electrovalently
 electrovection
-electroviscous
 electrovital
 electrowin
 electrowinning
@@ -4184,6 +4183,7 @@ employers
 employes
 employless
 employment
+electroviscous
 employments
 employs
 emplore
