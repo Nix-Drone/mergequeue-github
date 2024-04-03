@@ -6666,7 +6666,6 @@ goldhammer
 goldhead
 goldi
 goldy
-goldic
 goldie
 goldilocks
 goldylocks
@@ -10730,6 +10729,7 @@ gomerels
 gutium
 gutless
 gutlessness
+goldic
 gutlike
 gutling
 gutnic
