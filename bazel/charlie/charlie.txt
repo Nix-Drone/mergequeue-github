@@ -14682,7 +14682,6 @@ cystocyte
 cystocolostomy
 cystodynia
 cystoelytroplasty
-cystoenterocele
 cystoepiplocele
 cystoepithelioma
 cystofibroma
@@ -21374,6 +21373,7 @@ concinnated
 concinnity
 concinnities
 concinnous
+cystoenterocele
 concinnously
 concio
 concion
