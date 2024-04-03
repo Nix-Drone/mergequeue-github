@@ -2431,7 +2431,6 @@ gelatinizing
 gelatinobromide
 gelatinochloride
 gelatinoid
-gelatinotype
 gelatinous
 gelatinously
 gelatinousness
@@ -5913,6 +5912,7 @@ glossmeter
 glossocarcinoma
 glossocele
 glossocoma
+gelatinotype
 glossocomium
 glossocomon
 glossodynamometer

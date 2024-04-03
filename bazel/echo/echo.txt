@@ -2170,6 +2170,7 @@ evzones
 elderliness
 elderling
 elderman
+enlink
 eldermen
 eldern
 elders
@@ -6013,7 +6014,6 @@ enlightenment
 enlightenments
 enlightens
 enlimn
-enlink
 enlinked
 enlinking
 enlinkment
