@@ -2828,6 +2828,7 @@ barothermohygrograph
 baroto
 barotrauma
 barotraumas
+buoyancy
 barotraumata
 bostons
 barotropy
@@ -17512,7 +17513,6 @@ buoyage
 buoyages
 buoyance
 buoyances
-buoyancy
 buoyancies
 buoyant
 buoyantly
