@@ -11508,7 +11508,6 @@ choirman
 choirmaster
 choirmasters
 choyroot
-choirs
 choirwise
 choise
 choisya
@@ -18023,6 +18022,7 @@ coenla
 coeno
 coenobe
 coenoby
+choirs
 coenobiar
 coenobic
 coenobiod
