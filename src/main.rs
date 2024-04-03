@@ -165,6 +165,8 @@ fn create_pull_request(words: &[String], config: &Conf) -> Result<String, String
         return Err("could not push to origin".to_owned());
     }
 
+    return Err("done".to_owned());
+
     let mut title = words.join(", ");
     if lc {
         title = format!("{} (logical-conflict)", title);
