@@ -2558,7 +2558,6 @@ ferriages
 ferryboat
 ferryboats
 ferric
-ferrichloride
 ferricyanate
 ferricyanhydric
 ferricyanic
@@ -2889,6 +2888,7 @@ fetus
 fetuses
 fetwa
 feu
+ferrichloride
 feuage
 feuar
 feuars
