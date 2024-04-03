@@ -5491,7 +5491,6 @@ glycolide
 glycolyl
 glycolylurea
 glycolipid
-glycolipide
 glycolipin
 glycolipine
 glycolysis
@@ -8396,6 +8395,7 @@ gratiola
 gratiolin
 gratiosolin
 gratis
+glycolipide
 gratitude
 grattage
 gratten
