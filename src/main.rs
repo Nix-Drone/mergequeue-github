@@ -145,6 +145,8 @@ fn maybe_add_logical_merge_conflict(config: &Conf) -> bool {
         let filename = &config.pullrequest.logical_conflict_file;
         std::fs::write(filename, "simulate logical merge conflict")
             .expect("Unable to write logical merge conflict file");
+
+        git(&["add", &config.pullrequest.logical_conflict_file]);
         return true;
     }
     false
