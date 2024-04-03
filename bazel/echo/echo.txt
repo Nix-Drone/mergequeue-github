@@ -4943,7 +4943,6 @@ endaze
 endball
 endboard
 endbrain
-expenthesis
 endbrains
 enddamage
 enddamaged
@@ -10000,6 +9999,7 @@ esthetophore
 esthiomene
 esthiomenus
 estimable
+expenthesis
 estimableness
 estimably
 estimate
