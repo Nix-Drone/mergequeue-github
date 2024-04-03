@@ -3263,7 +3263,6 @@ activize
 activized
 activizing
 actless
-actomyosin
 acton
 actor
 actory
@@ -7549,6 +7548,7 @@ albumins
 albuminuria
 albuminurophobia
 albumoid
+actomyosin
 albumoscope
 albumose
 albumoses
