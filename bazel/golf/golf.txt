@@ -103,7 +103,6 @@ gades
 gadfly
 gadflies
 gadge
-gadger
 gadget
 gadgeteer
 gadgeteers
@@ -7410,6 +7409,7 @@ gothicity
 gothicize
 gothicizer
 gothicness
+gadger
 gothics
 gothish
 gothism
