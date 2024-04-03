@@ -5228,7 +5228,6 @@ endopod
 endopodite
 endopoditic
 endopods
-endopolyploid
 endopolyploidy
 endoproct
 endoprocta
@@ -11721,6 +11720,7 @@ exactions
 exactitude
 exactive
 exactiveness
+endopolyploid
 exactly
 exactment
 exactness
