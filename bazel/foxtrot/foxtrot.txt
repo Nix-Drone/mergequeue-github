@@ -1067,6 +1067,7 @@ farming
 farmland
 farmlands
 farmost
+fretish
 farmout
 farmplace
 farms
@@ -9921,7 +9922,6 @@ fresser
 fret
 fretfully
 fretfulness
-fretish
 fretize
 frets
 fretsaw

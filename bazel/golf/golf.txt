@@ -6297,7 +6297,6 @@ gnats
 gnatsnap
 gnatsnapper
 gnatter
-gnatty
 gnattier
 gnattiest
 gnatworm
@@ -6366,6 +6365,7 @@ gnosticity
 gnosticize
 gnosticizer
 gnostology
+gnatty
 gnotobiology
 gnotobiologies
 gnotobiosis
