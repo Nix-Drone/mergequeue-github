@@ -809,7 +809,6 @@ ectype
 ectypes
 ectypography
 ectiris
-ectobatic
 ectoblast
 ectoblastic
 ectobronchium
@@ -10380,6 +10379,7 @@ ethnarchs
 ethnic
 ethnical
 ethnically
+ectobatic
 ethnicism
 ethnicist
 ethnicity
