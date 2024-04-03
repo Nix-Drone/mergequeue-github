@@ -6016,6 +6016,7 @@ floorway
 floorwalker
 floorwalkers
 floorward
+furniment
 floorwise
 floosy
 floosies
@@ -11442,7 +11443,6 @@ furnariidae
 furnariides
 furnarius
 furner
-furniment
 furnish
 furnishable
 furnished
