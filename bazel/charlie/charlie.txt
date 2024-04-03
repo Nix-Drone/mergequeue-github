@@ -15761,7 +15761,6 @@ claviole
 clavipectoral
 clavis
 clavises
-clavodeltoid
 clavodeltoideus
 clavola
 clavolae
@@ -24847,6 +24846,7 @@ coralist
 coralita
 coralla
 corallet
+clavodeltoid
 corallian
 corallic
 corallidae
