@@ -9988,7 +9988,6 @@ bk
 bkbndr
 bkcy
 bkg
-bkgd
 bklr
 bkpr
 bkpt
@@ -10883,6 +10882,7 @@ blithers
 blithesome
 blithesomely
 blithesomeness
+bkgd
 blithest
 blitter
 blitum
