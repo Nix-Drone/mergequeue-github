@@ -9215,7 +9215,6 @@ dyeline
 dielytra
 diem
 diemaker
-dyemaker
 diemakers
 diemaking
 dyemaking
@@ -11276,6 +11275,7 @@ discarded
 discarding
 discardment
 discards
+dyemaker
 discarnate
 discarnation
 discase
