@@ -5303,7 +5303,6 @@ glazieries
 glaziers
 glaziest
 glazily
-glaziness
 glazing
 glazings
 glb
@@ -6349,6 +6348,7 @@ gnome
 gnomed
 gnomelike
 gnomes
+glaziness
 gnomesque
 gnomic
 gnomical
