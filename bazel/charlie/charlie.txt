@@ -14039,7 +14039,6 @@ cipher
 cypher
 cipherable
 cipherdom
-ciphered
 cyphered
 cipherer
 cipherhood
@@ -29215,6 +29214,7 @@ cryptobranchia
 cryptobranchiata
 cryptobranchiate
 cryptobranchidae
+ciphered
 cryptobranchus
 cryptocarya
 cabas
