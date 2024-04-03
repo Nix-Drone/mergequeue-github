@@ -5890,7 +5890,6 @@ beltings
 beltir
 beltis
 beltless
-beltline
 beltlines
 beltmaker
 beltmaking
@@ -15566,6 +15565,7 @@ britishers
 britishhood
 britishism
 britishly
+beltline
 britishness
 briton
 britoness
