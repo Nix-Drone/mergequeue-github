@@ -3501,7 +3501,6 @@ adcraft
 add
 adda
 addability
-addable
 addax
 addaxes
 addda
@@ -11856,6 +11855,7 @@ ananepionic
 anangioid
 anangular
 ananias
+addable
 ananym
 ananism
 ananite

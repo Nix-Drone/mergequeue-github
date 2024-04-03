@@ -3784,7 +3784,6 @@ dehydrogenation
 dehydrogenisation
 dehydrogenise
 dehydrogenised
-dehydrogeniser
 dehydrogenising
 dehydrogenization
 dehydrogenize
@@ -15644,6 +15643,7 @@ doppelkummel
 dopper
 dopperbird
 doppia
+dehydrogeniser
 dopping
 doppio
 doppler
