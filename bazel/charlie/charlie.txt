@@ -246,6 +246,7 @@ cached
 cachemia
 cachemic
 cachepot
+capitulations
 cachepots
 caches
 cachespell
@@ -3134,7 +3135,6 @@ capitulated
 capitulates
 capitulating
 capitulation
-capitulations
 capitulator
 capitulatory
 capituliform
