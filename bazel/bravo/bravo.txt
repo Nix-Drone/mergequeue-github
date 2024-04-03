@@ -1727,7 +1727,6 @@ balsams
 balsamum
 balsamweed
 balsas
-balsawood
 balt
 baltei
 balter
@@ -9020,6 +9019,7 @@ biomathematics
 biome
 biomechanical
 biomechanics
+balsawood
 biomedical
 biomedicine
 biomes
