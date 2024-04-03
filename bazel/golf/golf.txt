@@ -2842,7 +2842,6 @@ genitive
 genitives
 genitocrural
 genitofemoral
-genitor
 genitory
 genitorial
 genitors
@@ -8283,6 +8282,7 @@ grapplers
 grapples
 grappling
 grapsidae
+genitor
 grapsoid
 grapsus
 grapta
