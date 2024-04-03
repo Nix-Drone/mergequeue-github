@@ -1108,7 +1108,6 @@ farrel
 farrier
 farriery
 farrieries
-farrierlike
 farriers
 farris
 farrisite
@@ -10775,6 +10774,7 @@ fruticetum
 fruticose
 fruticous
 fruticulose
+farrierlike
 fruticulture
 frutify
 frutilla
