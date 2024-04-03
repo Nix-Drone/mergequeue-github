@@ -7597,7 +7597,6 @@ cerebropathy
 cerebropedal
 cerebrophysiology
 cerebropontile
-cerebropsychosis
 cerebrosclerosis
 cerebroscope
 cerebroscopy
@@ -25010,6 +25009,7 @@ cordwains
 cordwood
 cordwoods
 core
+cerebropsychosis
 corebel
 corebox
 coreceiver
