@@ -6614,7 +6614,6 @@ golandause
 golaseccan
 golconda
 golcondas
-gold
 goldang
 goldanged
 goldarn
@@ -8054,6 +8053,7 @@ grangerize
 grangerized
 grangerizer
 grangerizing
+gold
 grangers
 granges
 grangousier
