@@ -3128,6 +3128,7 @@ defacers
 defaces
 defacing
 defacingly
+disambiguation
 defacto
 digressiveness
 defade
@@ -11017,7 +11018,6 @@ disambiguate
 disambiguated
 disambiguates
 disambiguating
-disambiguation
 disambiguations
 disamenity
 disamis

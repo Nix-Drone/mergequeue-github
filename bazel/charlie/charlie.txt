@@ -3528,7 +3528,6 @@ caranga
 carangid
 carangidae
 carangids
-carangin
 carangoid
 carangus
 caranna
@@ -7772,6 +7771,7 @@ certose
 certosina
 certosino
 cerule
+carangin
 cerulean
 ceruleans
 cerulein
