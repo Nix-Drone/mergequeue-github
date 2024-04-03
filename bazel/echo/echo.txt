@@ -5008,6 +5008,7 @@ endexine
 endexines
 endfile
 endgame
+evaporates
 endgate
 endhand
 endia
@@ -11378,7 +11379,6 @@ evaporability
 evaporable
 evaporate
 evaporated
-evaporates
 evaporating
 evaporation
 evaporations
