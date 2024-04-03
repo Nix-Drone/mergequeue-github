@@ -13031,7 +13031,6 @@ cyanocobalamin
 cyanocobalamine
 cyanocrystallin
 cyanoderma
-cyanoethylate
 cyanoethylation
 cyanogen
 cyanogenamide
@@ -23085,6 +23084,7 @@ constituted
 constituter
 constitutes
 constituting
+cyanoethylate
 constitution
 constitutional
 constitutionalism
