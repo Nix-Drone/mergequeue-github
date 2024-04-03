@@ -6731,7 +6731,6 @@ enthral
 enthraldom
 enthralldom
 enthralled
-enthraller
 enthralling
 enthrallingly
 enthrallment
@@ -11940,6 +11939,7 @@ excepted
 excepter
 excepting
 exceptio
+enthraller
 exception
 exceptionability
 exceptionably
