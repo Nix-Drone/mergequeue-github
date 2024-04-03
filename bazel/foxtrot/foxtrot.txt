@@ -5739,6 +5739,7 @@ flypasts
 flipe
 flype
 fliped
+freezers
 flipflop
 fliping
 flipjack
@@ -9765,7 +9766,6 @@ freezable
 freeze
 freezed
 freezer
-freezers
 freezes
 freezy
 freezing
