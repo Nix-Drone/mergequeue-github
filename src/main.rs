@@ -11,6 +11,7 @@ use serde_json::to_string_pretty;
 use serde_json::Value;
 use std::collections::HashSet;
 use std::env;
+use std::path::Path;
 use std::path::PathBuf;
 use std::thread;
 use std::time::Duration;
@@ -95,7 +96,7 @@ fn enqueue(pr: &str, config: &Conf) {
     }
 }
 
-fn test_with_flakes(config: &Conf) -> bool {
+fn simulate_test(config: &Conf) -> bool {
     let is_merge_str = env::var("IS_MERGE").unwrap_or_else(|_| String::from("false"));
     let is_merge = is_merge_str.to_lowercase() == "true";
 
@@ -107,6 +108,14 @@ fn test_with_flakes(config: &Conf) -> bool {
     println!("sleeping for {} seconds", config.sleep_duration().as_secs());
     thread::sleep(config.sleep_duration());
 
+    if !config.pullrequest.logical_conflict_file.is_empty()
+        && Path::new(&config.pullrequest.logical_conflict_file).exists()
+    {
+        // this pull request is simulating a "logical merge conflict" and should always fail
+        println!("Simulating logical merge conflict - failing test");
+        return false;
+    }
+
     let mut rng = rand::thread_rng();
     let random_float = rng.gen_range(0.0..1.0);
 
@@ -116,7 +125,34 @@ fn test_with_flakes(config: &Conf) -> bool {
     random_float > config.test.flake_rate
 }
 
+fn maybe_add_logical_merge_conflict(config: &Conf) -> bool {
+    if config.pullrequest.logical_conflict_file.is_empty()
+        || config.pullrequest.logical_conflict_rate == 0.0
+    {
+        return false;
+    }
+
+    // check if we should simulate a logical merge conflict with this pull request
+    let mut rng = rand::thread_rng();
+    let random_float = rng.gen_range(0.0..1.0);
+
+    println!(
+        "logical conflict rate: {}",
+        config.pullrequest.logical_conflict_rate
+    );
+    if random_float < config.pullrequest.logical_conflict_rate {
+        // create logical conflict
+        let filename = &config.pullrequest.logical_conflict_file;
+        std::fs::write(filename, "simulate logical merge conflict")
+            .expect("Unable to write logical merge conflict file");
+        return true;
+    }
+    false
+}
+
 fn create_pull_request(words: &[String], config: &Conf) -> Result<String, String> {
+    let lc = maybe_add_logical_merge_conflict(config);
+
     let branch_name = format!("change/{}", words.join("-"));
     git(&["checkout", "-t", "-b", &branch_name]);
 
@@ -129,12 +165,15 @@ fn create_pull_request(words: &[String], config: &Conf) -> Result<String, String
         return Err("could not push to origin".to_owned());
     }
 
-    let j_words = words.join(", ");
+    let mut title = words.join(", ");
+    if lc {
+        title = format!("{} (logical-conflict)", title);
+    }
     let mut args: Vec<&str> = vec![
         "pr",
         "create",
         "--title",
-        &j_words,
+        &title,
         "--body",
         &config.pullrequest.body,
     ];
@@ -180,7 +219,7 @@ fn run() -> anyhow::Result<()> {
     }
 
     if let Some(Subcommands::TestSim {}) = &cli.subcommand {
-        if !test_with_flakes(&config) {
+        if !simulate_test(&config) {
             std::process::exit(1);
         }
         return Ok(());
