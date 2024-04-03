@@ -6061,7 +6061,6 @@ glucocorticord
 glucofrangulin
 glucogene
 glucogenesis
-glucogenic
 glucokinase
 glucokinin
 glucolipid
@@ -7588,6 +7587,7 @@ gps
 gpss
 gr
 gra
+glucogenic
 graafian
 graal
 graals
