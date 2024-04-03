@@ -10387,7 +10387,6 @@ fronded
 frondent
 frondesce
 frondesced
-frondescence
 frondescent
 frondescing
 frondeur
@@ -11580,6 +11579,7 @@ fusile
 fusileer
 fatalistic
 fusileers
+frondescence
 fusilier
 fusiliers
 fusillade
