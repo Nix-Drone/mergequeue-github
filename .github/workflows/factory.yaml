@@ -21,12 +21,15 @@ jobs:
           case $(( RANDOM % 3 )) in
           0)
             echo "secret_name=ELI_PAT" >> $GITHUB_OUTPUT
+            echo "Impersonating Eli"
             ;;
           1)
             echo "secret_name=PAT_PAT" >> $GITHUB_OUTPUT
+            echo "Impersonating Pat"
             ;;
           2)
-            echo "secret_name=PAT_PAT" >> $GITHUB_OUTPUT
+            echo "secret_name=MAT_PAT" >> $GITHUB_OUTPUT
+            echo "Impersonating Matt"
             ;;            
           esac
 
