@@ -4701,7 +4701,6 @@ encipherments
 enciphers
 encircle
 encircled
-encirclement
 encirclements
 encircler
 encircles
@@ -6269,6 +6268,7 @@ enroot
 enrooted
 enrooting
 enroots
+encirclement
 enrough
 enround
 enruin
