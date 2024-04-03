@@ -12622,6 +12622,7 @@ chronographs
 chronoisothermal
 chronol
 chronologer
+curvedness
 chronology
 chronologic
 chronological
@@ -31574,7 +31575,6 @@ curve
 curveball
 curved
 curvedly
-curvedness
 curvey
 curver
 curves
