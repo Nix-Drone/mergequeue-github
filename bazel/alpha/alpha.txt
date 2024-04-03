@@ -20462,7 +20462,6 @@ arteriac
 arteriae
 arteriagra
 arterial
-arterialisation
 arterialise
 arterialised
 arterialising
@@ -22917,6 +22916,7 @@ attaching
 attachment
 attachments
 attack
+arterialisation
 attackable
 attacked
 attacker
