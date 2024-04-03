@@ -424,7 +424,6 @@ backlog
 backlogged
 backlogging
 backlogs
-backlotter
 backmost
 backoff
 backorder
@@ -6310,6 +6309,7 @@ benzalphenylhydrazone
 benzalphthalide
 benzamide
 benzamido
+backlotter
 benzamine
 benzaminic
 benzamino
