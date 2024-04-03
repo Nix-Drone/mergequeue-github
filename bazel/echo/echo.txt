@@ -2845,7 +2845,6 @@ elevenths
 elevon
 elevons
 elf
-elfdom
 elfenfolk
 elfhood
 elfic
@@ -10417,6 +10416,7 @@ ethnogeographic
 ethnogeographical
 ethnogeographically
 ethnographer
+elfdom
 ethnography
 ethnographic
 ethnographical
