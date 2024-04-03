@@ -1330,7 +1330,6 @@ efferous
 effervesce
 effervesced
 effervescence
-effervescency
 effervescent
 effervescently
 effervesces
@@ -2406,6 +2405,7 @@ electrogilding
 electrogilt
 electrogram
 electrograph
+effervescency
 electrography
 electrographic
 electrographite
