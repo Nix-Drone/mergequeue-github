@@ -2667,6 +2667,7 @@ canonicalize
 canonicalized
 canonicalizes
 canonicalizing
+congealer
 canonically
 canonicalness
 canonicals
@@ -22161,7 +22162,6 @@ congealable
 congealableness
 congealed
 congealedness
-congealer
 congealing
 congealment
 congeals
