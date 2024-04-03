@@ -3659,7 +3659,6 @@ gether
 gethsemane
 gethsemanic
 getic
-getid
 getling
 getmesost
 getmjlkost
@@ -5461,6 +5460,7 @@ glycine
 glycines
 glycinin
 glycins
+getid
 glycyphyllin
 glycyrize
 glycyrrhiza
