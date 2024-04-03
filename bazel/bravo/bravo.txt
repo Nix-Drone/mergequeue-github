@@ -2046,7 +2046,6 @@ banishers
 banishes
 banishing
 banishment
-banishments
 banister
 banisterine
 banisters
@@ -9268,6 +9267,7 @@ biplane
 biplanes
 biplicate
 biplicity
+banishments
 biplosion
 biplosive
 bipod
