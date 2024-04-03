@@ -5253,7 +5253,6 @@ endorse
 endorsed
 endorsee
 endorsees
-endorsement
 endorsements
 endorser
 endorsers
@@ -6573,6 +6572,7 @@ enterocentesis
 enteroceptor
 enterochirurgia
 enterochlorophyll
+endorsement
 enterocholecystostomy
 enterochromaffin
 enterocinesia
