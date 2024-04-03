@@ -1918,7 +1918,6 @@ debtor
 debtors
 debtorship
 debts
-debug
 debugged
 debugger
 debuggers
@@ -11390,6 +11389,7 @@ disclike
 disclimax
 discloak
 discloister
+debug
 disclosable
 disclose
 disclosed
