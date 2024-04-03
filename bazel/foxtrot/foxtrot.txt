@@ -3276,7 +3276,6 @@ fictitiously
 fictitiousness
 fictive
 fictively
-fictor
 ficula
 ficus
 fid
@@ -10433,6 +10432,7 @@ frontes
 frontier
 frontierless
 frontierlike
+fictor
 frontierman
 frontiers
 frontiersman
