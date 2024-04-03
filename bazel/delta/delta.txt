@@ -1464,7 +1464,6 @@ dclass
 dcollet
 dcolletage
 dcor
-dd
 ddname
 ddt
 de
@@ -9907,6 +9906,7 @@ dimyary
 dimyaria
 dimyaric
 dimication
+dd
 dimidiate
 dimidiated
 dimidiating
