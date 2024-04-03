@@ -15358,7 +15358,6 @@ antihero
 antiheroes
 antiheroic
 antiheroism
-antiheterolysin
 antihydrophobic
 antihydropic
 antihydropin
@@ -22747,6 +22746,7 @@ atomization
 atomize
 atomized
 atomizer
+antiheterolysin
 atomizers
 atomizes
 atomizing
