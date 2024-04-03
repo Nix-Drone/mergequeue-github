@@ -2137,7 +2137,6 @@ decarburisation
 decarburise
 decarburised
 decarburising
-decarburization
 decarburize
 decarburized
 decarburizing
@@ -11441,6 +11440,7 @@ discolith
 discolor
 discolorate
 discolorated
+decarburization
 discoloration
 discolorations
 discolored
