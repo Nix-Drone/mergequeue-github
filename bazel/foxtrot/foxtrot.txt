@@ -7992,7 +7992,6 @@ foreruns
 fores
 foresaddle
 foresay
-foresaid
 foresaying
 foresail
 foresails
@@ -10427,6 +10426,7 @@ frontierlike
 fictor
 frontierman
 frontiers
+foresaid
 fankle
 frontiersman
 frontiersmen
