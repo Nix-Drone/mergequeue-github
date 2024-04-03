@@ -2394,6 +2394,7 @@ electrogalvanic
 electrogalvanization
 electrogalvanize
 electrogasdynamics
+endosternite
 electrogenesis
 electrogenetic
 electrogenic
@@ -5326,7 +5327,6 @@ endosteitis
 endosteoma
 endosteomas
 endosteomata
-endosternite
 endosternum
 endosteum
 endostylar
