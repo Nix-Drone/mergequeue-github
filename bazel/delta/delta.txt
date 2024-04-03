@@ -10574,7 +10574,6 @@ diplohedral
 diplohedron
 diploic
 diploid
-diploidy
 diploidic
 diploidies
 diploidion
@@ -13793,6 +13792,7 @@ distillations
 distillator
 distillatory
 distilled
+diploidy
 distiller
 distillery
 distilleries
