@@ -5025,7 +5025,6 @@ endlessly
 endlessness
 endlichite
 endlong
-endmatcher
 endmost
 endnote
 endnotes
@@ -10813,6 +10812,7 @@ eulytin
 eulytine
 eulytite
 eulogy
+endmatcher
 eulogia
 eulogiae
 eulogias
