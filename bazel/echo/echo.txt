@@ -6272,7 +6272,6 @@ enrut
 ens
 ensafe
 ensaffron
-ensaint
 ensalada
 ensample
 ensampler
@@ -10494,6 +10493,7 @@ etymologer
 etymology
 etymologic
 etymological
+ensaint
 etymologically
 etymologicon
 etymologies
