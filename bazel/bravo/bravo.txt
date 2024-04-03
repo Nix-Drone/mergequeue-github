@@ -5517,7 +5517,6 @@ beknight
 beknighted
 beknighting
 beknights
-beknit
 beknived
 beknot
 beknots
@@ -11629,6 +11628,7 @@ bobbery
 bobberies
 bobbers
 bobby
+beknit
 bobbie
 bobbies
 bobbin
