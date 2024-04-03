@@ -6389,6 +6389,7 @@ go
 goa
 goad
 goaded
+grammaticize
 goading
 goadlike
 goads
@@ -7879,7 +7880,6 @@ grammaticalness
 grammaticaster
 grammatication
 grammaticism
-grammaticize
 grammatics
 grammatist
 grammatistical
