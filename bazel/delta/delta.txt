@@ -2790,7 +2790,6 @@ decorum
 decorums
 decostate
 decoupage
-decouple
 decoupled
 decouples
 decoupling
@@ -8375,6 +8374,7 @@ dialogistical
 dialogistically
 dialogite
 dialogize
+decouple
 dialogized
 dialogizing
 dialogs
