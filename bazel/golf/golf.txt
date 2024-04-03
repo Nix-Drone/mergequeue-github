@@ -3154,7 +3154,6 @@ geomant
 geomantic
 geomantical
 geomantically
-geomechanics
 geomedical
 geomedicine
 geometdecrne
@@ -8683,6 +8682,7 @@ greenfinch
 greenfish
 greenfishes
 greenfly
+geomechanics
 greengage
 greengill
 greengrocer
