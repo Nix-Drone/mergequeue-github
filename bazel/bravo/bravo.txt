@@ -2820,7 +2820,6 @@ barosmin
 barostat
 baroswitch
 barotactic
-barotaxy
 barotaxis
 barothermogram
 barothermograph
@@ -17089,6 +17088,7 @@ bulldoggy
 bulldogging
 bulldoggish
 bulldoggishly
+barotaxy
 bulldoggishness
 bulldogism
 bulldogs

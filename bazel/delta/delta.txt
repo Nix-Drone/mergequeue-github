@@ -478,7 +478,6 @@ daytimes
 dayton
 daiva
 dayward
-daywork
 dayworker
 daywrit
 daker
@@ -2714,6 +2713,7 @@ decongestants
 decongested
 decongesting
 decongestion
+daywork
 decongestive
 decongests
 deconsecrate
