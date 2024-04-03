@@ -3200,7 +3200,6 @@ geomoroi
 geomorphy
 geomorphic
 geomorphist
-geomorphogeny
 geomorphogenic
 geomorphogenist
 geomorphology
@@ -5799,6 +5798,7 @@ glomeruli
 glomerulitis
 glomerulonephritis
 glomerulose
+geomorphogeny
 glomerulus
 glommed
 glomming
