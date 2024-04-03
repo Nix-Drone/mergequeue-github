@@ -5881,7 +5881,6 @@ glossarist
 glossarize
 glossas
 glossata
-glossate
 glossator
 glossatorial
 glossectomy
@@ -7875,6 +7874,7 @@ grammates
 grammatic
 grammatical
 grammaticality
+glossate
 grammatically
 grammaticalness
 grammaticaster
