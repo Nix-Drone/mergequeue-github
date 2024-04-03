@@ -11167,7 +11167,6 @@ chiwere
 chizz
 chizzel
 chkalik
-chkfil
 chkfile
 chladnite
 chlamyd
@@ -13855,6 +13854,7 @@ cinematographers
 cinematography
 cinematographic
 cinematographical
+chkfil
 cinematographically
 cinematographies
 cinematographist
