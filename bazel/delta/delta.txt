@@ -1945,6 +1945,7 @@ debut
 debutant
 debutante
 debutantes
+dragbar
 debutants
 debuted
 debuting
@@ -16545,7 +16546,6 @@ dragade
 dragaded
 dragading
 dissocialize
-dragbar
 dragboat
 dragbolt
 dragee
