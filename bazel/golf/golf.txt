@@ -2307,7 +2307,6 @@ gedanite
 gedanken
 gedd
 gedder
-gedds
 gedeckt
 gederathite
 gederite
@@ -8336,6 +8335,7 @@ gedecktwork
 grassiness
 grassing
 grassland
+gedds
 grasslands
 grassless
 grasslike
