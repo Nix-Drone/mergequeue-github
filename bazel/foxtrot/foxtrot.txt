@@ -5604,7 +5604,6 @@ flybelt
 flybelts
 flyby
 flybys
-flyblew
 flyblow
 flyblowing
 flyblown
@@ -10491,6 +10490,7 @@ frosh
 frosk
 frost
 frostation
+flyblew
 frostbird
 frostbit
 frostbite
