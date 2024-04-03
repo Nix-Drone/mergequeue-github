@@ -2392,7 +2392,6 @@ gel
 gelable
 gelada
 geladas
-gelandejump
 gelandelaufer
 gelandesprung
 gelant
@@ -4722,6 +4721,7 @@ girdlingly
 girds
 gire
 gyre
+gelandejump
 gyrectomy
 gyrectomies
 gyred
