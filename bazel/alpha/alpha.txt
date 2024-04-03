@@ -11793,7 +11793,6 @@ analogism
 analogist
 analogistic
 analogize
-analogized
 analogizing
 analogon
 analogous
@@ -19986,6 +19985,7 @@ armoracia
 armorbearer
 armored
 armorer
+analogized
 armorers
 armory
 armorial
