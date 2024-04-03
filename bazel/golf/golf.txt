@@ -2047,7 +2047,6 @@ gaugeable
 gaugeably
 gauged
 gauger
-gaugers
 gaugership
 gauges
 gauging
@@ -5818,6 +5817,7 @@ glooming
 gloomingly
 gloomings
 gloomless
+gaugers
 glooms
 gloomth
 glop
