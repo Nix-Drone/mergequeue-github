@@ -3179,7 +3179,6 @@ defatting
 default
 defaultant
 defaulted
-defaulter
 defaulters
 defaulting
 defaultless
@@ -15248,6 +15247,7 @@ dolus
 dolven
 dom
 domable
+defaulter
 domage
 domain
 domainal
