@@ -4930,7 +4930,6 @@ aeriform
 aerily
 aeriness
 aero
-aeroacoustic
 aerobacter
 aerobacteriology
 aerobacteriological
@@ -19891,6 +19890,7 @@ armatoles
 armatoli
 armature
 armatured
+aeroacoustic
 armatures
 armaturing
 armband
