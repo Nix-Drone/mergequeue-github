@@ -3742,7 +3742,6 @@ adenomas
 adenomata
 adenomatome
 adenomatous
-adenomeningeal
 adenometritis
 adenomycosis
 adenomyofibroma
@@ -6735,6 +6734,7 @@ aigret
 aigrets
 aigrette
 aigrettes
+adenomeningeal
 aiguelle
 aiguellette
 aiguiere
