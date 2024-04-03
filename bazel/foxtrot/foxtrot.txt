@@ -5322,7 +5322,6 @@ flax
 flaxbird
 flaxboard
 flaxbush
-flaxdrop
 flaxen
 flaxes
 flaxy
@@ -6843,6 +6842,7 @@ foggish
 foghorn
 foghorns
 fogy
+flaxdrop
 fogydom
 fogie
 fogies
