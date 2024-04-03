@@ -1568,7 +1568,6 @@ eglomerate
 eglomise
 egma
 ego
-egocentric
 egocentrically
 egocentricity
 egocentricities
@@ -11096,6 +11095,7 @@ eurylaimus
 eurymus
 eurindic
 euryon
+egocentric
 eurypelma
 euryphage
 euryphagous
