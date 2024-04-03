@@ -3064,7 +3064,6 @@ fibrefill
 fibreglass
 fibreless
 fibres
-fibreware
 fibry
 fibriform
 fibril
@@ -7546,6 +7545,7 @@ fordone
 fordrive
 fords
 fordull
+fibreware
 fordwine
 fore
 foreaccounting
