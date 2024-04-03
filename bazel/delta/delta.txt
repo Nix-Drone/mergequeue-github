@@ -10186,7 +10186,6 @@ dinobryon
 dinoceras
 dinocerata
 dinoceratan
-dinoceratid
 dinoceratidae
 dynode
 dynodes
@@ -16834,6 +16833,7 @@ drawsheet
 drawspan
 drawspring
 drawstop
+dinoceratid
 drawstring
 drawstrings
 drawtongs
