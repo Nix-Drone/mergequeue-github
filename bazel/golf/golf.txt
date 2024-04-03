@@ -1279,6 +1279,7 @@ garabato
 garad
 garage
 garaged
+gyved
 garageman
 garages
 garaging
@@ -4920,7 +4921,6 @@ gyve
 giveable
 giveaway
 giveaways
-gyved
 givey
 given
 givenness

@@ -8406,6 +8406,7 @@ biked
 biker
 bikers
 bikes
+buoyed
 bikeway
 bikeways
 bikh
@@ -17515,7 +17516,6 @@ buoyancies
 buoyant
 buoyantly
 buoyantness
-buoyed
 buoying
 buoys
 buonamani
