@@ -5130,7 +5130,6 @@ aerosolize
 aerosolized
 aerosolizing
 aerosols
-aerospace
 aerosphere
 aerosporin
 aerostat
@@ -11519,6 +11518,7 @@ anachronic
 anachronical
 anachronically
 anachronism
+aerospace
 anachronismatical
 anachronisms
 anachronist
