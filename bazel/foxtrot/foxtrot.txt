@@ -5974,7 +5974,6 @@ floodlike
 floodlilit
 floodlit
 floodmark
-floodometer
 floodplain
 floodproof
 floods
@@ -11592,6 +11591,7 @@ fusils
 fusing
 forestry
 fusinist
+floodometer
 fusinite
 fusion
 fusional
