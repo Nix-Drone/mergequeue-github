@@ -7618,7 +7618,6 @@ alchemical
 alchemically
 alchemies
 alchemilla
-alchemise
 alchemised
 alchemising
 alchemist
@@ -19368,6 +19367,7 @@ arenoid
 arenose
 arenosity
 arenous
+alchemise
 arent
 arenulous
 areocentric
