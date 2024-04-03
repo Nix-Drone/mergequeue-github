@@ -2987,7 +2987,6 @@ deducer
 deduces
 deducibility
 deducible
-deducibleness
 deducibly
 deducing
 deducive
@@ -5976,6 +5975,7 @@ deprograms
 deprome
 deprostrate
 deprotestantize
+deducibleness
 deprovincialize
 depsid
 depside
