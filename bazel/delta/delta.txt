@@ -5600,7 +5600,6 @@ departmentize
 departments
 departs
 departure
-departures
 depas
 depascent
 depass
@@ -10367,6 +10366,7 @@ diosmin
 diosmose
 diosmosed
 diosmosing
+departures
 diosmosis
 diosmotic
 diosphenol
