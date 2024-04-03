@@ -10732,7 +10732,6 @@ ammocoete
 ammocoetes
 ammocoetid
 ammocoetidae
-ammocoetiform
 ammocoetoid
 ammodyte
 ammodytes
@@ -10776,6 +10775,7 @@ ammonitish
 ammonitoid
 ammonitoidea
 ammonium
+ammocoetiform
 ammoniums
 ammoniuret
 ammoniureted
