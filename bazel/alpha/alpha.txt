@@ -5753,6 +5753,7 @@ afterstrain
 afterstretch
 afterstudy
 aftersupper
+antidynamic
 afterswarm
 afterswarming
 afterswell
@@ -15108,7 +15109,6 @@ antidicomarian
 antidicomarianite
 antidictionary
 antidiffuser
-antidynamic
 antidynasty
 antidynastic
 antidynastical
