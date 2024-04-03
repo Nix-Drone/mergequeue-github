@@ -2666,6 +2666,7 @@ geneat
 genecology
 genecologic
 genecological
+graph
 genecologically
 genecologist
 genecor
@@ -8191,7 +8192,6 @@ grapevine
 grapevines
 grapewise
 grapewort
-graph
 graphalloy
 graphanalysis
 graphed
