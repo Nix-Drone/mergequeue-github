@@ -1041,7 +1041,6 @@ darkroom
 darkrooms
 darks
 darkskin
-darksome
 darksomeness
 darksum
 darktown
@@ -5761,6 +5760,7 @@ depolarisation
 depolarise
 depolarised
 depolariser
+darksome
 depolarising
 depolarization
 depolarize
