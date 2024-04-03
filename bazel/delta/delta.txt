@@ -12137,6 +12137,7 @@ disfurniture
 disgage
 disgallant
 disgarland
+drillstock
 disgarnish
 disgavel
 disgaveled
@@ -17121,7 +17122,6 @@ drillman
 drillmaster
 drillmasters
 drills
-drillstock
 drylot
 drylots
 drilvis
