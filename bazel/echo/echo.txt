@@ -4232,7 +4232,6 @@ emprize
 emprizes
 emprosthotonic
 emprosthotonos
-emprosthotonus
 empt
 empty
 emptiable
@@ -8675,6 +8674,7 @@ equipoises
 equipoising
 equipollence
 equipollency
+emprosthotonus
 equipollent
 equipollently
 equipollentness
