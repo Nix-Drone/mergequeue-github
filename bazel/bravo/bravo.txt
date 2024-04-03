@@ -5150,7 +5150,6 @@ begall
 begalled
 begalling
 begalls
-began
 begani
 begar
 begari
@@ -9866,6 +9865,7 @@ bituminate
 bituminiferous
 bituminisation
 bituminise
+began
 bituminised
 bituminising
 bituminization
