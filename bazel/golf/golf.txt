@@ -3056,6 +3056,7 @@ geod
 geodaesia
 geodal
 geode
+gnoff
 geodes
 geodesy
 geodesia
@@ -6333,7 +6334,6 @@ gneu
 gnide
 gnocchetti
 gnocchi
-gnoff
 gnome
 gnomed
 gnomelike
