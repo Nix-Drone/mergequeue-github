@@ -3287,6 +3287,7 @@ fidac
 fidalgo
 fidate
 fidation
+functorial
 fidawi
 fidded
 fidding
@@ -11136,7 +11137,6 @@ functionlessness
 functionnaire
 functions
 functor
-functorial
 functors
 functus
 fund
