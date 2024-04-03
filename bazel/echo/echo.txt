@@ -9553,7 +9553,6 @@ escortage
 escorted
 escortee
 escorting
-escortment
 escorts
 escot
 escoted
@@ -12537,6 +12536,7 @@ exigences
 exigency
 exigencies
 exigent
+escortment
 exigenter
 exigently
 exigible
