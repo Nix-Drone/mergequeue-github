@@ -6375,7 +6375,6 @@ benzocaine
 benzocoumaran
 benzodiazine
 benzodiazole
-benzoflavine
 benzofluorene
 benzofulvene
 benzofuran
@@ -7080,6 +7079,7 @@ bespell
 bespelled
 bespend
 bespete
+benzoflavine
 bespew
 bespy
 bespice
