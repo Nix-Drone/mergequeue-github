@@ -6016,6 +6016,7 @@ floorers
 floorhead
 flooring
 floorings
+forementioned
 floorless
 floorman
 floormen
@@ -7877,7 +7878,6 @@ foremeant
 foremelt
 foremen
 foremention
-forementioned
 foremessenger
 foremilk
 foremilks
