@@ -18582,7 +18582,6 @@ arborist
 arborists
 arborization
 arborize
-arborized
 arborizes
 arborizing
 arboroid
@@ -23158,6 +23157,7 @@ attribution
 attributional
 attributions
 attributive
+arborized
 attributively
 attributiveness
 attributor
