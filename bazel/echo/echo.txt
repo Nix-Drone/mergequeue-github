@@ -5918,7 +5918,6 @@ enigmatization
 enigmatize
 enigmatizing
 enigmatographer
-enigmatography
 enigmatology
 enigua
 enisle
@@ -6594,6 +6593,7 @@ enteroclisis
 enteroclysis
 enterococcal
 enterococci
+enigmatography
 enterococcus
 enterocoel
 enterocoela
