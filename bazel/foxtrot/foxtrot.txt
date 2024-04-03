@@ -2150,6 +2150,7 @@ fellowships
 fells
 fellside
 fellsman
+finger
 feloid
 felon
 felones
@@ -4007,7 +4008,6 @@ fingall
 fingallian
 fingan
 fingent
-finger
 fingerable
 fingerberry
 fingerboard
