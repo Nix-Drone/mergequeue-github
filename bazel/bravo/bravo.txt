@@ -12218,7 +12218,6 @@ boltheader
 boltheading
 boltheads
 bolthole
-boltholes
 bolti
 bolty
 boltin
@@ -17611,6 +17610,7 @@ burelage
 burele
 burely
 burelle
+boltholes
 burelly
 buret
 burets
