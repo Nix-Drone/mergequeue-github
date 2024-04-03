@@ -3684,6 +3684,7 @@ filibeg
 filibegs
 filibranch
 filibranchia
+flyaways
 filibranchiate
 filibuster
 filibustered
@@ -5600,7 +5601,6 @@ fly
 flyability
 flyable
 flyaway
-flyaways
 flyback
 flyball
 flybane
