@@ -16376,6 +16376,7 @@ clitelline
 clitellum
 clitellus
 clytemnestra
+compile
 clites
 clithe
 clithral
@@ -20607,7 +20608,6 @@ compilation
 compilations
 compilator
 compilatory
-compile
 compileable
 compiled
 compilement
