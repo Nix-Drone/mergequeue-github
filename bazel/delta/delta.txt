@@ -4563,7 +4563,6 @@ demicritic
 demicuirass
 demiculverin
 demidandiprat
-demideify
 demideity
 demidevil
 demidigested
@@ -5247,6 +5246,7 @@ denotations
 denotative
 denotatively
 denotativeness
+demideify
 denotatum
 denote
 denoted
