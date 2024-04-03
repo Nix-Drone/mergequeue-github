@@ -449,7 +449,6 @@ backpointer
 backpointers
 backrest
 backrests
-backrope
 backropes
 backrun
 backrush
@@ -17186,6 +17185,7 @@ bulllike
 bullneck
 bullnecked
 bullnecks
+backrope
 bullnose
 bullnoses
 bullnut
