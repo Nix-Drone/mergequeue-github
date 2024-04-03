@@ -4383,7 +4383,6 @@ bechalked
 bechalking
 bechalks
 bechamel
-bechamels
 bechance
 bechanced
 bechances
@@ -15732,6 +15731,7 @@ brogue
 brogued
 brogueful
 brogueneer
+bechamels
 broguer
 broguery
 brogueries
