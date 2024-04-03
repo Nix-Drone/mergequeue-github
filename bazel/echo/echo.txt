@@ -2560,6 +2560,7 @@ enthrall
 electroplaque
 electroplate
 electroplated
+equitant
 electroplater
 electroplates
 electroplating
@@ -8719,7 +8720,6 @@ equitable
 equitableness
 equitably
 equitangential
-equitant
 elberta
 equitation
 equitative
