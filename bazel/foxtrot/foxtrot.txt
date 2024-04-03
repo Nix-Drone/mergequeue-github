@@ -2614,7 +2614,6 @@ ferroelectricity
 ferroglass
 ferrogoslarite
 ferrohydrocyanic
-ferroinclave
 ferromagnesian
 ferromagnet
 ferromagnetic
@@ -3285,6 +3284,7 @@ fidation
 functorial
 fidawi
 fidded
+ferroinclave
 fidding
 fiddle
 fiddleback
