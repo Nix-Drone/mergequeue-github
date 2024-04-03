@@ -2641,7 +2641,6 @@ ferrous
 ferrovanadium
 ferrozirconium
 ferruginate
-ferruginated
 ferruginating
 ferrugination
 ferruginean
@@ -6152,6 +6151,7 @@ floroon
 floroscope
 floroun
 floruit
+ferruginated
 floruits
 florula
 florulae
