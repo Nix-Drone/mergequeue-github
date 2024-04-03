@@ -2261,7 +2261,6 @@ cancellable
 cancellarian
 cancellarius
 cancellate
-cancellated
 cancellation
 cancellations
 cancelled
@@ -25739,6 +25738,7 @@ corroborated
 corroborates
 corroborating
 corroboration
+cancellated
 corroborations
 corroborative
 corroboratively
