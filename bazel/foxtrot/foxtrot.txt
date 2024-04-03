@@ -3920,6 +3920,7 @@ finalizations
 finalize
 finalized
 finalizes
+fourstrand
 finalizing
 finals
 finance
@@ -9081,7 +9082,6 @@ foursomes
 foursquare
 foursquarely
 foursquareness
-fourstrand
 fourteen
 fourteener
 fourteenfold
