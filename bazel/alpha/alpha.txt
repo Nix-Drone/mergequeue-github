@@ -12829,7 +12829,6 @@ angiospastic
 angiosperm
 angiospermae
 angiospermal
-angiospermatous
 angiospermic
 angiospermous
 angiosperms
@@ -13321,6 +13320,7 @@ anisoiconia
 anisoyl
 anisoin
 anisokonia
+angiospermatous
 anisol
 anisole
 anisoles
