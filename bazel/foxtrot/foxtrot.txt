@@ -6696,7 +6696,6 @@ fluxure
 fm
 fmt
 fn
-fname
 fnese
 fo
 foal
@@ -8970,6 +8969,7 @@ fouled
 fouler
 foulest
 foulings
+fname
 foulish
 foully
 foulmart
