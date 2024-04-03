@@ -11935,7 +11935,6 @@ excepting
 exceptio
 exception
 exceptionability
-exceptionable
 exceptionableness
 exceptionably
 exceptional
@@ -13700,6 +13699,7 @@ extirpation
 extirpationist
 extirpations
 extirpative
+exceptionable
 extirpator
 extirpatory
 extispex
