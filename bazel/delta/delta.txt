@@ -335,7 +335,6 @@ dayberry
 daybill
 dayblush
 dayboy
-daybook
 daybooks
 daybreak
 daybreaks
@@ -3592,6 +3591,7 @@ defter
 defterdar
 deftest
 deftly
+daybook
 deftness
 deftnesses
 defunct
