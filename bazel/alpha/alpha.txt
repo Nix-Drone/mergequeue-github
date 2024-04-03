@@ -5650,7 +5650,6 @@ afterdrops
 aftereffect
 aftereffects
 aftereye
-afterend
 afterfall
 afterfame
 afterfeed
@@ -9490,6 +9489,7 @@ alternates
 alternating
 alternatingly
 alternation
+afterend
 alternationist
 alternations
 alternative
