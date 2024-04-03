@@ -5417,7 +5417,6 @@ fledgling
 fledglings
 flee
 fleece
-fleeceable
 fleeced
 fleeceflower
 fleeceless
@@ -5679,6 +5678,7 @@ flimflam
 flimflammed
 flimflammer
 flimflammery
+fleeceable
 flimflamming
 flimflams
 flimmer
