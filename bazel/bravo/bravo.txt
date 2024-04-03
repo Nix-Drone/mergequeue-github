@@ -13820,6 +13820,7 @@ bowsman
 bowsprit
 bowsprits
 bowstaff
+brokenhearted
 bowstave
 bowstring
 bowstringed
@@ -15761,7 +15762,6 @@ brokage
 brokages
 broke
 broken
-brokenhearted
 brokenheartedly
 brokenheartedness
 brokenly
