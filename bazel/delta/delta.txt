@@ -7211,7 +7211,6 @@ detents
 detenu
 detenue
 detenues
-detenus
 deter
 deterge
 deterged
@@ -13194,6 +13193,7 @@ disprized
 disprizes
 disprizing
 disprobabilization
+detenus
 disprobabilize
 disprobative
 disprofess
