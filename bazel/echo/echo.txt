@@ -12062,7 +12062,6 @@ excitosecretory
 excitovascular
 excitron
 excl
-exclaim
 exclaimed
 exclaimer
 exclaimers
@@ -12621,6 +12620,7 @@ exoascales
 exoascus
 exobasidiaceae
 exobasidiales
+exclaim
 exobasidium
 exobiology
 exobiologist
