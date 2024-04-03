@@ -6528,7 +6528,6 @@ bequeathal
 bequeathed
 bequeather
 bequeathing
-bequeathment
 bequeaths
 bequest
 bequests
@@ -7377,6 +7376,7 @@ betray
 betrayal
 betrayals
 betrayed
+bequeathment
 betrayer
 betrayers
 betraying
