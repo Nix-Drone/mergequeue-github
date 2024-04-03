@@ -8899,7 +8899,6 @@ biocycles
 biocidal
 biocide
 biocides
-bioclean
 bioclimatic
 bioclimatician
 bioclimatology
@@ -12280,6 +12279,7 @@ bonds
 bombastical
 behoovefully
 bombastically
+bioclean
 bombasticness
 bombastry
 bombasts
