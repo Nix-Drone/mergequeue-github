@@ -28,7 +28,6 @@ fabraea
 fabric
 fabricable
 fabricant
-fabricate
 foobar
 fabricated
 fabricates
@@ -4960,6 +4959,7 @@ flaminian
 flaminica
 flaminical
 flamless
+fabricate
 flammability
 flammable
 floorers
