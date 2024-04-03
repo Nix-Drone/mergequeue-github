@@ -9836,7 +9836,6 @@ chemicobiologic
 chemicobiological
 chemicocautery
 chemicodynamic
-chemicoengineering
 chemicoluminescence
 chemicoluminescent
 chemicomechanical
@@ -10136,6 +10135,7 @@ chetif
 chetive
 chetopod
 chetrum
+chemicoengineering
 chetrums
 chetty
 chettik
