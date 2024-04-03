@@ -1115,7 +1115,6 @@ editorializations
 editorialize
 editorialized
 editorializer
-editorializers
 editorializes
 editorializing
 editorially
@@ -8765,6 +8764,7 @@ equivocated
 equivocates
 equivocating
 equivocatingly
+editorializers
 equivocation
 equivocations
 equivocator
