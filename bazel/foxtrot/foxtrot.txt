@@ -5000,7 +5000,6 @@ flanged
 flangeless
 flanger
 flangers
-flanges
 flangeway
 flanging
 flank
@@ -5467,6 +5466,7 @@ fleyedness
 fleying
 fleyland
 fleing
+flanges
 fleys
 fleishig
 fleysome
