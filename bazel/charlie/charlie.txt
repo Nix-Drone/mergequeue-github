@@ -18138,7 +18138,6 @@ coevolutionary
 coevolve
 coevolvedcoevolves
 coevolving
-coexchangeable
 coexclusive
 coexecutant
 coexecutor
@@ -24024,6 +24023,7 @@ convents
 conventual
 conventually
 converge
+coexchangeable
 converged
 convergement
 convergence
