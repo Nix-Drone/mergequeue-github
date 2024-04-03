@@ -3387,7 +3387,6 @@ embellishments
 ember
 embergeese
 embergoose
-emberiza
 emberizidae
 emberizinae
 emberizine
@@ -11821,6 +11820,7 @@ exanthemas
 exanthematic
 exanthematous
 exanthems
+emberiza
 exanthine
 exantlate
 exantlation
