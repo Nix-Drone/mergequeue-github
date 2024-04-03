@@ -12088,7 +12088,6 @@ boldface
 boldfaced
 boldfacedly
 boldfacedness
-boldfaces
 boldfacing
 boldhearted
 boldheartedly
@@ -17020,6 +17019,7 @@ bulge
 bulged
 bulger
 bulgers
+boldfaces
 bulgy
 bulgier
 bulgiest
