@@ -2647,6 +2647,7 @@ gene
 geneal
 genealogy
 genealogic
+guberniya
 genealogical
 genealogically
 genealogies
@@ -10006,7 +10007,6 @@ gubernator
 gubernatorial
 gubernatrix
 gubernia
-guberniya
 guck
 gucked
 gucki
