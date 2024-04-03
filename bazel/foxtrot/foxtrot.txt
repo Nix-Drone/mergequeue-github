@@ -8415,7 +8415,6 @@ forlornly
 forlornness
 form
 forma
-formability
 formable
 formably
 formagen
@@ -11221,6 +11220,7 @@ fungiferous
 fungify
 fungiform
 fungilliform
+formability
 fungillus
 fungin
 fungistat
