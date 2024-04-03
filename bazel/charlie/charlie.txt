@@ -18199,6 +18199,7 @@ coffeepot
 coffeepots
 coffeeroom
 coffees
+continuant
 coffeetime
 coffeeweed
 coffeewood
@@ -23505,7 +23506,6 @@ continuance
 continuances
 continuancy
 continuando
-continuant
 continuantly
 continuate
 continuately
