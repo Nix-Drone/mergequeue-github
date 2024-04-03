@@ -11614,7 +11614,6 @@ anaesthesia
 anaesthesiant
 anaesthesiology
 anaesthesiologist
-anaesthesis
 anaesthetic
 anaesthetically
 anaesthetics
@@ -22583,6 +22582,7 @@ athletehood
 athletes
 athletic
 athletical
+anaesthesis
 athletically
 athleticism
 athletics
