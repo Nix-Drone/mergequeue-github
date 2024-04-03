@@ -3971,6 +3971,7 @@ fineableness
 finebent
 finecomb
 flatbread
+formaliter
 fined
 finedraw
 finedrawing
@@ -8441,7 +8442,6 @@ formalisms
 formalist
 formalistic
 formalistically
-formaliter
 formalith
 formality
 formalities
