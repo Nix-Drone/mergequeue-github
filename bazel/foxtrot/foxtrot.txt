@@ -3429,7 +3429,6 @@ fiendly
 fiendlier
 fiendliest
 fiendlike
-fiendliness
 fiends
 fiendship
 fient
@@ -8846,6 +8845,7 @@ forwhy
 forwoden
 forworden
 forwore
+fiendliness
 forwork
 forworn
 forwrap
