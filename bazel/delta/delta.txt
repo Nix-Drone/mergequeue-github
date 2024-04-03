@@ -68,7 +68,6 @@ dacryoadenitis
 dacryoblenorrhea
 dacryocele
 dacryocyst
-dacryocystalgia
 dacryocystitis
 dacryocystoblennorrhea
 dacryocystocele
@@ -13650,6 +13649,7 @@ dissolvableness
 dissolvative
 dissolve
 dissolveability
+dacryocystalgia
 dissolved
 dissolvent
 dissolver
