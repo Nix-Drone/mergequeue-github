@@ -11738,7 +11738,6 @@ chondroadenoma
 chondroalbuminoid
 chondroangioma
 chondroarthritis
-chondroblast
 chondroblastoma
 chondrocarcinoma
 chondrocele
@@ -28028,6 +28027,7 @@ crampy
 cramping
 crampingly
 crampish
+chondroblast
 crampit
 crampits
 crampon
