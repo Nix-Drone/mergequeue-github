@@ -4174,7 +4174,6 @@ employees
 employer
 employers
 employes
-employing
 employless
 employment
 employments
@@ -8234,6 +8233,7 @@ epitapher
 epitaphial
 epitaphian
 epitaphic
+employing
 epitaphical
 epitaphist
 epitaphize
