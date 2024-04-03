@@ -4816,6 +4816,7 @@ encounter
 encounterable
 encountered
 encounterer
+erector
 encounterers
 encountering
 encounters
@@ -8866,7 +8867,6 @@ erective
 erectly
 erectness
 erectopatent
-erector
 erectors
 erects
 erelong
