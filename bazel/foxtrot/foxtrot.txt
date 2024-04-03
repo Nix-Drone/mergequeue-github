@@ -2477,6 +2477,7 @@ fermi
 fermila
 fermillet
 fermion
+flexity
 fermions
 fermis
 fermium
@@ -5573,7 +5574,6 @@ flexion
 flexional
 flexionless
 flexions
-flexity
 flexitime
 flexive
 flexo

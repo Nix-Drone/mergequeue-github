@@ -4945,6 +4945,7 @@ cascalote
 cascan
 cascara
 cascaras
+contiguities
 cascarilla
 cascaron
 cascavel
@@ -23467,7 +23468,6 @@ contignate
 contignation
 contiguate
 contiguity
-contiguities
 contiguous
 contiguously
 contiguousness
