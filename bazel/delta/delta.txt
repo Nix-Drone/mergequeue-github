@@ -3355,7 +3355,6 @@ defilade
 defiladed
 defilades
 denuded
-defilading
 defile
 defeatment
 defiled
@@ -9272,6 +9271,7 @@ diethanolamine
 diether
 diethyl
 diethylacetal
+defilading
 diethylamide
 diethylamine
 diethylaminoethanol
