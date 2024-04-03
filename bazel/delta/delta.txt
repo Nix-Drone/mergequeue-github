@@ -6408,7 +6408,6 @@ derv
 derve
 dervish
 dervishes
-dervishhood
 dervishism
 dervishlike
 des
@@ -12674,6 +12673,7 @@ dismarch
 dismark
 dismarket
 dismarketed
+dervishhood
 dismarketing
 dismarry
 dismarshall
