@@ -456,6 +456,7 @@ backrush
 backrushes
 backs
 backsaw
+bristly
 backsaws
 backscatter
 backscattered
@@ -15539,7 +15540,6 @@ bristler
 bristles
 bristletail
 bristlewort
-bristly
 bristlier
 bristliest
 bristliness
