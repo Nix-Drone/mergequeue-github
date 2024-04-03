@@ -1410,7 +1410,6 @@ fatling
 fatlings
 fatness
 fatnesses
-fator
 fats
 fatshedera
 fatsia
@@ -5722,6 +5721,7 @@ flingy
 flinging
 flings
 flinkite
+fator
 flint
 flinted
 flinter
