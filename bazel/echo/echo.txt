@@ -1940,6 +1940,7 @@ engrossment
 ejectors
 ejects
 ejectum
+entosternite
 ejicient
 ejidal
 ejido
@@ -6927,7 +6928,6 @@ entosphenoid
 entosphere
 entosterna
 entosternal
-entosternite
 entosternum
 entosthoblast
 entothorax
