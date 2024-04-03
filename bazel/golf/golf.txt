@@ -344,7 +344,6 @@ galactoid
 galactolipide
 galactolipin
 galactolysis
-galactolytic
 galactoma
 galactometer
 galactometry
@@ -9480,6 +9479,7 @@ groundsel
 groundsheet
 groundsill
 groundskeep
+galactolytic
 groundskeeping
 groundsman
 groundspeed
