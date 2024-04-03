@@ -975,7 +975,6 @@ farcied
 farcies
 farcify
 farcilite
-farcin
 farcing
 farcinoma
 farcist
@@ -1656,6 +1655,7 @@ fipenny
 fcomp
 fconv
 fconvert
+farcin
 fcp
 fcs
 fdname
