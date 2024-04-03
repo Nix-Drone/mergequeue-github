@@ -6651,7 +6651,6 @@ goldenness
 goldenpert
 goldenrod
 goldenrods
-goldenseal
 goldentop
 goldenwing
 golder
@@ -8265,6 +8264,7 @@ graphs
 grapy
 grapier
 grapiest
+goldenseal
 graping
 graplin
 grapline
