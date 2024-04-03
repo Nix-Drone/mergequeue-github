@@ -236,7 +236,6 @@ facular
 faculative
 faculous
 facultate
-facultative
 facultatively
 faculty
 facultied
@@ -7181,6 +7180,7 @@ foolheadedness
 foolify
 fooling
 foolish
+facultative
 foolishest
 foolishly
 foollike
