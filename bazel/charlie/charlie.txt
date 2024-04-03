@@ -16471,6 +16471,7 @@ clocklike
 clockmaker
 clockmaking
 clockmutch
+crewer
 clockroom
 clocks
 clocksmith
@@ -28854,7 +28855,6 @@ crewelist
 crewellery
 crewels
 crewelwork
-crewer
 crewet
 crewing
 crewless
