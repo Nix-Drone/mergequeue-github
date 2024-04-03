@@ -2538,7 +2538,6 @@ declassicize
 declassify
 declassification
 declassifications
-declassified
 declassifies
 declassifying
 declassing
@@ -15175,6 +15174,7 @@ dollhood
 dollhouse
 dollhouses
 dollia
+declassified
 dollie
 dollied
 dollier
