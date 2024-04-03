@@ -4764,6 +4764,7 @@ encodings
 encoffin
 encoffinment
 encoignures
+esox
 encoil
 encolden
 encollar
@@ -9711,7 +9712,6 @@ esothyropexy
 esotrope
 esotropia
 esotropic
-esox
 esp
 espace
 espacement
