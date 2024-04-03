@@ -5414,6 +5414,7 @@ afflation
 afflatus
 afflatuses
 afflict
+algesireceptor
 afflicted
 afflictedness
 afflicter
@@ -8068,7 +8069,6 @@ algesia
 algesic
 algesimeter
 algesiometer
-algesireceptor
 algesis
 algesthesis
 algetic
