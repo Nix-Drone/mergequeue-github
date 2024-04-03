@@ -818,7 +818,6 @@ baedekers
 bael
 baeria
 baetyl
-baetylic
 baetylus
 baetuli
 baetulus
@@ -12259,6 +12258,7 @@ bombard
 bombarde
 bombarded
 bombardelle
+baetylic
 bombarder
 bombardier
 bombardiers
