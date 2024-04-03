@@ -5176,7 +5176,6 @@ flattened
 flattener
 flatteners
 flattening
-flattens
 flatter
 flatterable
 flattercap
@@ -7897,6 +7896,7 @@ forenoted
 forenotice
 forenotion
 forensal
+flattens
 forensic
 forensical
 forensicality
