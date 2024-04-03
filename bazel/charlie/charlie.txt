@@ -4852,6 +4852,7 @@ cartridge
 cartridges
 carts
 cartsale
+commonwealth
 cartulary
 cartularies
 cartway
@@ -20236,7 +20237,6 @@ commonsensically
 commonty
 commonweal
 commonweals
-commonwealth
 commonwealths
 commorancy
 commorancies
