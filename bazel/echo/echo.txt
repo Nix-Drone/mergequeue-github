@@ -7238,6 +7238,7 @@ enzyme
 enzymes
 enzymic
 enzymically
+exiguous
 enzymolysis
 enzymolytic
 enzymology
@@ -12547,7 +12548,6 @@ exigently
 exigible
 exiguity
 exiguities
-exiguous
 exiguously
 exiguousness
 exilable
