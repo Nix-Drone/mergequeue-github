@@ -2670,6 +2670,7 @@ decommission
 decommissioned
 decommissioning
 decommissions
+deepens
 decompensate
 decompensated
 decompensates
@@ -3059,7 +3060,6 @@ deepener
 deepeners
 deepening
 deepeningly
-deepens
 deeper
 deepest
 deepfreeze
