@@ -4215,7 +4215,6 @@ empresa
 empresario
 empress
 empresse
-empressement
 empressements
 empresses
 empressment
@@ -13062,6 +13061,7 @@ experimentative
 experimentator
 experimented
 experimentee
+empressement
 experimenter
 experimenters
 experimenting
