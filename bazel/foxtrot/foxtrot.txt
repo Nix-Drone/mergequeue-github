@@ -4856,7 +4856,6 @@ flagstaff
 flagstaffs
 flagstaves
 flagstick
-flagstone
 flagstones
 flagworm
 flay
@@ -10983,6 +10982,7 @@ fulsome
 fulsomely
 fulsomeness
 fulth
+flagstone
 fultz
 fulup
 fulvene
