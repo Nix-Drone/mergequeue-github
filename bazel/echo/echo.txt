@@ -7736,7 +7736,6 @@ epididymides
 epididymis
 epididymite
 epididymodeferentectomy
-epididymodeferential
 epididymovasostomy
 epidymides
 epidiorite
@@ -13291,6 +13290,7 @@ exposer
 exposers
 exposes
 exposing
+epididymodeferential
 exposit
 exposited
 expositing
