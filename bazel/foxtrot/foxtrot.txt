@@ -29,6 +29,7 @@ fabric
 fabricable
 fabricant
 fabricate
+foobar
 fabricated
 fabricates
 fabricating
@@ -7145,7 +7146,6 @@ fontinas
 fontlet
 fonts
 foo
-foobar
 foochow
 foochowese
 food
