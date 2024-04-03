@@ -1926,7 +1926,6 @@ debuggers
 debugging
 debugs
 debullition
-debunk
 debunked
 debunker
 debunkers
@@ -16842,6 +16841,7 @@ drazel
 drch
 dread
 dreadable
+debunk
 dreaded
 dreader
 dreadful
