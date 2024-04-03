@@ -3080,7 +3080,6 @@ geodynamic
 geodynamical
 geodynamicist
 geodynamics
-geodist
 geoduck
 geoducks
 geoemtry
@@ -6072,6 +6071,7 @@ glucokinase
 glucokinin
 glucolipid
 glucolipide
+geodist
 glucolipin
 glucolipine
 glucolysis
