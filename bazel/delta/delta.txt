@@ -11949,7 +11949,6 @@ disenchants
 disencharm
 disenclose
 disencourage
-disencrease
 disencumber
 disencumbered
 disencumbering
@@ -14017,6 +14016,7 @@ disulphoxid
 disulphoxide
 disulphuret
 disulphuric
+disencrease
 disunify
 disunified
 disunifying
