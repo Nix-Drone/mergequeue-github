@@ -5556,6 +5556,7 @@ flexibilities
 flexibilty
 flexible
 flexibleness
+forgedly
 flexibly
 flexile
 flexility
@@ -8282,7 +8283,6 @@ forge
 forgeability
 forgeable
 forged
-forgedly
 forgeful
 forgemen
 forger
