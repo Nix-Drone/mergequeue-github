@@ -9645,7 +9645,6 @@ alumohydrocalcite
 alumroot
 alumroots
 alums
-alumstone
 alundum
 aluniferous
 alunite
@@ -12572,6 +12571,7 @@ anesthesiant
 anesthesimeter
 anesthesiology
 anesthesiologies
+alumstone
 anesthesiologist
 anesthesiologists
 anesthesiometer
