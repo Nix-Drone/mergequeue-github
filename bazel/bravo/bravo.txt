@@ -5419,7 +5419,6 @@ behoot
 behoove
 behooved
 behooveful
-behoovefully
 behoovefulness
 behooves
 behooving
@@ -12262,6 +12261,7 @@ bombast
 bombaster
 bombastic
 bombastical
+behoovefully
 bombastically
 bombasticness
 bombastry
