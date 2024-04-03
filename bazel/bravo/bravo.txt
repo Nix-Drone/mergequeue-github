@@ -9602,7 +9602,6 @@ bishopless
 bishoplet
 bishoplike
 bishopling
-bishopric
 bishoprics
 bishops
 bishopscap
@@ -10629,6 +10628,7 @@ blennenteria
 blennenteritis
 blenny
 blennies
+bishopric
 blenniid
 blenniidae
 blenniiform
