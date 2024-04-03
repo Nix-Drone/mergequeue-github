@@ -4839,6 +4839,7 @@ flagon
 flagonet
 flagonless
 flagons
+frontspiece
 flagpole
 flagpoles
 flagrance
@@ -10474,7 +10475,6 @@ frontpiece
 frontrunner
 fronts
 frontsman
-frontspiece
 frontspieces
 frontstall
 fronture
