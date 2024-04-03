@@ -10642,7 +10642,6 @@ aminosulphonic
 aminothiophen
 aminotransferase
 aminotriazole
-aminovaleric
 aminoxylol
 amins
 aminta
@@ -19885,6 +19884,7 @@ armaments
 armangite
 armary
 armaria
+aminovaleric
 armarian
 armaries
 armariolum
