@@ -2348,7 +2348,6 @@ electrodepositor
 electrodes
 electrodesiccate
 electrodesiccation
-electrodiagnoses
 electrodiagnosis
 electrodiagnostic
 electrodiagnostically
@@ -6782,6 +6781,7 @@ entyloma
 entincture
 entire
 entirely
+electrodiagnoses
 entireness
 entires
 entirety
