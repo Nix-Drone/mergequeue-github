@@ -3851,7 +3851,6 @@ adhesional
 adhesions
 adhesive
 adhesively
-adhesivemeter
 adhesiveness
 adhesives
 adhibit
@@ -20529,6 +20528,7 @@ artesonado
 artesonados
 artful
 artfully
+adhesivemeter
 artfulness
 artgum
 artha
