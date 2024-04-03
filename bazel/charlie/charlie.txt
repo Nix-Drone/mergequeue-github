@@ -5239,7 +5239,6 @@ casterless
 casters
 castes
 casteth
-casthouse
 castice
 castigable
 castigate
@@ -22766,6 +22765,7 @@ consenter
 consenters
 consentful
 consentfully
+casthouse
 consentience
 consentient
 consentiently
