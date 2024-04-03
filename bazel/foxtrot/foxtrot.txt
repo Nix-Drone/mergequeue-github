@@ -4268,7 +4268,6 @@ firesafety
 fireshine
 fireside
 firesider
-firesides
 firesideship
 firespout
 firestone
@@ -5859,6 +5858,7 @@ floatages
 floatation
 floatative
 floatboard
+firesides
 floated
 floater
 floaters
