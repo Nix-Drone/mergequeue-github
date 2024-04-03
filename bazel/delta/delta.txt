@@ -2012,6 +2012,7 @@ decayers
 decaying
 decayless
 decays
+defaced
 decaisnea
 decal
 decalage
@@ -3123,7 +3124,6 @@ deewans
 def
 deface
 defaceable
-defaced
 defacement
 defacements
 defacer
