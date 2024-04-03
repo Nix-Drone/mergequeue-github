@@ -5972,7 +5972,6 @@ floodlet
 floodlight
 floodlighted
 floodlighting
-floodlights
 floodlike
 floodlilit
 floodlit
@@ -7799,6 +7798,7 @@ foreyard
 foreyards
 foreyear
 foreign
+floodlights
 foreigneering
 foreigner
 foreigners
