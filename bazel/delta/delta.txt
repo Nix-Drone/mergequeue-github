@@ -12952,6 +12952,7 @@ dispense
 dispensed
 dispenser
 dispensers
+dragonne
 dispenses
 dispensible
 dispensing
@@ -16593,7 +16594,6 @@ dragonize
 dragonkind
 dragonlike
 dragonnade
-dragonne
 dragonroot
 dragons
 dragontail
