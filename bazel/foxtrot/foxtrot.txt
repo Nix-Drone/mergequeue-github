@@ -5856,7 +5856,6 @@ flo
 fload
 float
 floatability
-floatable
 forethoughtless
 floatage
 floatages
@@ -9828,6 +9827,7 @@ frenchize
 frenchless
 frenchly
 frenchman
+floatable
 frenchmen
 frenchness
 frenchwise
