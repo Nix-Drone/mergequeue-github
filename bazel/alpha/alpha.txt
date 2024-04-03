@@ -20325,6 +20325,7 @@ arrowless
 arrowlet
 arrowlike
 arrowplate
+automolite
 arrowroot
 arrowroots
 arrows
@@ -24209,7 +24210,6 @@ automobilist
 automobilistic
 automobilists
 automobility
-automolite
 automonstration
 automorph
 automorphic
