@@ -915,7 +915,6 @@ ectozoans
 ectozoic
 ectozoon
 ectrodactyly
-ectrodactylia
 ectrodactylism
 ectrodactylous
 ectrogeny
@@ -7529,6 +7528,7 @@ epibatholithic
 epibatus
 essayish
 epibenthic
+ectrodactylia
 epibenthos
 epibiotic
 epiblast
