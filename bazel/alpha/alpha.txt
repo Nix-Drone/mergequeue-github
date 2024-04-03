@@ -15348,7 +15348,6 @@ antihelixes
 antihelminthic
 antihemagglutinin
 antihemisphere
-antihemoglobin
 antihemolysin
 antihemolytic
 antihemophilic
@@ -21388,6 +21387,7 @@ aspergillin
 aspergilloses
 aspergillosis
 aspergillum
+antihemoglobin
 aspergillums
 aspergillus
 asperifoliae
