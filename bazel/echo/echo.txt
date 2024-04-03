@@ -8124,6 +8124,7 @@ episiohematoma
 episioplasty
 episiorrhagia
 episiorrhaphy
+exanimate
 episiostenosis
 episiotomy
 episiotomies
@@ -11808,7 +11809,6 @@ exampless
 exampling
 exams
 exanguin
-exanimate
 exanimation
 exannulate
 exanthalose
