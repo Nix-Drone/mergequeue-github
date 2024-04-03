@@ -6328,6 +6328,7 @@ benzazole
 buhrstone
 benzbitriazole
 benzdiazine
+bipolarize
 benzdifuran
 benzdioxazine
 benzdioxdiazine
@@ -9274,7 +9275,6 @@ bipods
 bipolar
 bipolarity
 bipolarization
-bipolarize
 bipont
 bipontine
 biporose
