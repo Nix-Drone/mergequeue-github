@@ -1467,7 +1467,6 @@ efractory
 efreet
 efs
 eft
-eftest
 efts
 eftsoon
 eftsoons
@@ -7828,6 +7827,7 @@ epigramme
 epigrams
 epigraph
 epigrapher
+eftest
 epigraphy
 egyptianization
 epigraphic
