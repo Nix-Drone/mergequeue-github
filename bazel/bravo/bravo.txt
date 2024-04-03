@@ -9080,7 +9080,6 @@ bioplasmic
 bioplasms
 bioplast
 bioplastic
-biopoesis
 biopoiesis
 biopotential
 bioprecipitation
@@ -10284,6 +10283,7 @@ blankard
 blankbook
 blanked
 blankeel
+biopoesis
 blanker
 blankest
 blanket
