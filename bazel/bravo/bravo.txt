@@ -2553,6 +2553,7 @@ bargeman
 bargemaster
 bargemen
 bargepole
+booklice
 barger
 barges
 bargestone
@@ -12653,7 +12654,6 @@ booklear
 bookless
 booklet
 booklets
-booklice
 booklift
 booklike
 bookling
