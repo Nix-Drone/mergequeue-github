@@ -5515,7 +5515,6 @@ glycopeptide
 glycopexia
 glycopexis
 glycoproteid
-glycoprotein
 glycosaemia
 glycose
 glycosemia
@@ -8956,6 +8955,7 @@ griffade
 griffado
 gigantomachia
 griffaun
+glycoprotein
 griffe
 griffes
 griffin
