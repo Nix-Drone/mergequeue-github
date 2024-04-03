@@ -9479,7 +9479,6 @@ chebel
 chebog
 chebule
 chebulic
-chebulinic
 chechako
 chechakos
 chechehet
@@ -15828,6 +15827,7 @@ clearcole
 cleared
 clearedness
 clearer
+chebulinic
 clearers
 clearest
 clearheaded
