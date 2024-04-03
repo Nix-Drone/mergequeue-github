@@ -6063,7 +6063,6 @@ benchwarmer
 benchwork
 bencite
 bend
-benda
 bendability
 bendable
 benday
@@ -18086,6 +18085,7 @@ busload
 busman
 busmen
 buss
+benda
 bussed
 busser
 busses
