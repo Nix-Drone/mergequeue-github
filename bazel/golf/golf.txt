@@ -1812,7 +1812,6 @@ gastroesophagostomy
 gastrogastrotomy
 gastrogenic
 gastrogenital
-gastrogenous
 gastrograph
 gastrohelcosis
 gastrohepatic
@@ -1985,6 +1984,7 @@ gatewright
 gatha
 gather
 gatherable
+gastrogenous
 gathered
 gatherer
 gatherers

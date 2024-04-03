@@ -6264,7 +6264,6 @@ enrollment
 enrollments
 enrolls
 enrolment
-enrols
 enroot
 enrooted
 enrooting
@@ -7427,6 +7426,7 @@ epharmonic
 ephas
 ephebe
 ephebea
+enrols
 ephebeia
 ephebeibeia
 ephebeion
