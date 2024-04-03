@@ -8409,7 +8409,6 @@ bike
 biked
 biker
 bikers
-bikes
 buoyed
 bikeway
 bikeways
@@ -9877,6 +9876,7 @@ bituminize
 bituminized
 bituminizing
 bituminoid
+bikes
 bituminosis
 bituminous
 bitwise
