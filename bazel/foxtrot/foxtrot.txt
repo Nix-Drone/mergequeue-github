@@ -5608,7 +5608,6 @@ flyblown
 flyblows
 flyboat
 flyboats
-flyboy
 flybook
 flybrush
 flibustier
@@ -8157,6 +8156,7 @@ foretaster
 foretastes
 foretasting
 foreteach
+flyboy
 foreteeth
 foretell
 foretellable
