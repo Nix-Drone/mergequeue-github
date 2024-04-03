@@ -3541,7 +3541,6 @@ bathinette
 bathing
 bathypelagic
 bathyplankton
-bathyscape
 bathyscaph
 bathyscaphe
 bathyscaphes
@@ -10416,6 +10415,7 @@ blastomycin
 blastomycosis
 blastomycotic
 blastoneuropore
+bathyscape
 blastophaga
 blastophyllum
 blastophitic
