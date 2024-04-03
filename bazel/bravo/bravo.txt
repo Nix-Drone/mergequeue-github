@@ -6118,7 +6118,6 @@ benefaction
 benefactions
 benefactive
 benefactor
-benefactory
 benefactors
 benefactorship
 benefactress
@@ -14184,6 +14183,7 @@ brae
 braeface
 braehead
 braeman
+benefactory
 braes
 braeside
 brag
