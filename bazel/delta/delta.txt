@@ -454,7 +454,6 @@ days
 daised
 daisee
 daises
-daishiki
 daishikis
 dayshine
 daisy
@@ -7178,6 +7177,7 @@ detax
 detd
 detect
 detectability
+daishiki
 detectable
 detectably
 detectaphone
