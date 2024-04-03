@@ -35,7 +35,13 @@ fn get_txt_files() -> std::io::Result<Vec<PathBuf>> {
 
 fn housekeeping(config: &Conf) {
     for _ in 0..3 {
-        let json_str = gh(&["pr", "list", "--json", "number,mergeable,comments"]);
+        let json_str = gh(&[
+            "pr",
+            "list",
+            "--limit=1000",
+            "--json",
+            "number,mergeable,comments",
+        ]);
         let v: Value = serde_json::from_str(&json_str).expect("Failed to parse JSON");
 
         let mut has_unknown = false;
