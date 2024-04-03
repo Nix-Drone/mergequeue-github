@@ -6367,7 +6367,6 @@ fluidglycerate
 fluidible
 fluidic
 fluidics
-fluidify
 fluidification
 fluidified
 fluidifier
@@ -7871,6 +7870,7 @@ foremast
 foremasthand
 foremastman
 foremastmen
+fluidify
 foremasts
 foremean
 foremeant
