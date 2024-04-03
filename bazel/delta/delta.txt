@@ -5423,6 +5423,7 @@ dentolingual
 dentololabial
 dentonasal
 dentosurgical
+disrate
 dents
 dentulous
 dentural
@@ -13310,7 +13311,6 @@ disray
 disrange
 disrank
 dysraphia
-disrate
 disrated
 disrates
 disrating
