@@ -9256,7 +9256,6 @@ fractostratus
 fractuosity
 fractur
 fracturable
-fracturableness
 fractural
 fracture
 fractured
@@ -10987,6 +10986,7 @@ fulth
 fultz
 fulup
 fulvene
+fracturableness
 fulvescent
 fulvid
 fulvous
