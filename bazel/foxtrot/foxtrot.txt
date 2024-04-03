@@ -4987,7 +4987,6 @@ flanched
 flanconade
 flanconnade
 flandan
-flanderkin
 flanders
 flandowser
 flane
@@ -7301,6 +7300,7 @@ footpick
 footplate
 footpound
 footpounds
+flanderkin
 footprint
 footprints
 footrace
