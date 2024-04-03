@@ -6187,7 +6187,6 @@ enquicken
 enquire
 eten
 enquired
-enquirer
 enquires
 enquiry
 enquiries
@@ -8261,6 +8260,7 @@ epithalamiumia
 epithalamiums
 epithalamize
 epithalamus
+enquirer
 epithalline
 epithamia
 epitheca
