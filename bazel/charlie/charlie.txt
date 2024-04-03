@@ -2338,7 +2338,6 @@ candid
 candida
 candidacy
 candidacies
-candidas
 candidate
 candidated
 candidates
@@ -19275,6 +19274,7 @@ colonette
 colongitude
 colony
 colonial
+candidas
 colonialise
 colonialised
 colonialising
