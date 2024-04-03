@@ -5841,6 +5841,7 @@ flyway
 flyways
 flyweight
 flyweights
+forthon
 flywheel
 flywheels
 flywinch
@@ -8722,7 +8723,6 @@ forthgoing
 forthy
 forthink
 forthinking
-forthon
 forthought
 forthputting
 forthright
