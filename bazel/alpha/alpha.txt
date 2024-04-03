@@ -5306,7 +5306,6 @@ affectionately
 affectionateness
 affectioned
 affectionless
-affections
 affectious
 affective
 affectively
@@ -13591,6 +13590,7 @@ annotate
 annotated
 annotater
 annotates
+affections
 annotating
 annotation
 annotations
