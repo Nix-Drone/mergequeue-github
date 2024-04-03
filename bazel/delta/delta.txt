@@ -5365,7 +5365,6 @@ denticular
 denticulate
 denticulated
 durability
-denticulation
 denticule
 dentiferous
 dentification
@@ -9933,6 +9932,7 @@ diminuendo
 diminuendoed
 diminuendoes
 diminuendos
+denticulation
 diminuent
 diminutal
 diminute
