@@ -3957,7 +3957,6 @@ find
 findability
 findable
 findal
-finder
 finders
 findfault
 findhorn
@@ -5044,6 +5043,7 @@ flapdragon
 flaperon
 flapjack
 flapjacks
+finder
 flapless
 flapmouthed
 flappable
