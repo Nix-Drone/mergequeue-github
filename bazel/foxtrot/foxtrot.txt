@@ -3099,7 +3099,6 @@ fibrinokinase
 fibrinolyses
 fibrinolysin
 fibrinolysis
-fibrinolytic
 fibrinoplastic
 fibrinoplastin
 fibrinopurulent
@@ -6936,6 +6935,7 @@ foldless
 foldout
 foldouts
 folds
+fibrinolytic
 foldskirt
 foldstool
 foldure
