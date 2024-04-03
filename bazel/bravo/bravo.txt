@@ -4599,6 +4599,7 @@ bedecked
 bedecking
 bedecks
 bedecorate
+bellower
 bedeen
 bedegar
 bedeguar
@@ -5796,7 +5797,6 @@ bellote
 bellovaci
 bellow
 bellowed
-bellower
 bellowers
 bellows
 bellowsful
