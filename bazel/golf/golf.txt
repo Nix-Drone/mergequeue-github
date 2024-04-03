@@ -2700,7 +2700,6 @@ generalist
 generalistic
 generalists
 generaliter
-generality
 generalities
 generalizable
 generalization
@@ -3462,6 +3461,7 @@ germfree
 germy
 germicidal
 germicide
+generality
 germicides
 germiculture
 germier
