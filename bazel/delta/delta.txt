@@ -5546,6 +5546,7 @@ deoxygenate
 deoxygenated
 deoxygenating
 deoxygenation
+deprecate
 deoxygenization
 deoxygenize
 deoxygenized
@@ -5886,7 +5887,6 @@ depravingly
 depravity
 depravities
 deprecable
-deprecate
 deprecated
 deprecates
 deprecating
