@@ -10961,7 +10961,6 @@ amortissement
 amortisseur
 amortizable
 amortization
-amortize
 amortized
 amortizement
 amortizes
@@ -11959,6 +11958,7 @@ anarchic
 anarchical
 anarchically
 anarchies
+amortize
 anarchism
 anarchist
 anarchistic
