@@ -10445,7 +10445,6 @@ amidoplast
 amidoplastid
 amidosuccinamic
 amidosulphonal
-amidothiazole
 amidoxy
 amidoxyl
 amidoxime
@@ -23686,6 +23685,7 @@ austerities
 austerlitz
 austerus
 austin
+amidothiazole
 austral
 australasian
 australene
