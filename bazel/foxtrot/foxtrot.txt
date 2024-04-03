@@ -5720,7 +5720,6 @@ flintiness
 flintless
 flintlike
 flintlock
-flintlocks
 flints
 flintstone
 flintwood
@@ -8242,6 +8241,7 @@ forewrought
 forex
 forfairn
 forfalt
+flintlocks
 forfar
 forfare
 forfars
