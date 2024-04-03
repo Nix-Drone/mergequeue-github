@@ -1120,7 +1120,6 @@ editorializers
 editorializes
 editorializing
 editorially
-editorials
 editors
 editorship
 editorships
@@ -8472,6 +8471,7 @@ equableness
 equably
 equaeval
 equal
+editorials
 equalable
 equaled
 equaling
