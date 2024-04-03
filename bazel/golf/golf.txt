@@ -825,7 +825,6 @@ galvanotherapy
 galvanothermy
 galvanothermometer
 galvanotonic
-galvanotropic
 galvanotropism
 galvo
 galvvanoscopy
@@ -8221,6 +8220,7 @@ graphiter
 graphites
 graphitic
 gleeked
+galvanotropic
 graphitizable
 graphitization
 graphitize
