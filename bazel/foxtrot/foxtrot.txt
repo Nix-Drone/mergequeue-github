@@ -1066,7 +1066,6 @@ farmyardy
 farmyards
 fivers
 farming
-farmings
 farmland
 farmlands
 farmost
@@ -6917,6 +6916,7 @@ foldage
 foldaway
 foldboat
 foldboater
+farmings
 foldboating
 foldboats
 foldcourse
