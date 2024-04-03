@@ -4647,7 +4647,6 @@ fivepence
 fivepenny
 fivepins
 frosteds
-fiver
 fivers
 fives
 fivescore
@@ -7606,6 +7605,7 @@ forebush
 forecabin
 fleetings
 forecaddie
+fiver
 forecar
 forecarriage
 forecast
