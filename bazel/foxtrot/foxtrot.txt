@@ -2608,7 +2608,6 @@ ferrochromium
 ferrocyanate
 ferrocyanhydric
 ferrocyanic
-ferrocyanide
 ferrocyanogen
 ferroconcrete
 ferroconcretor
@@ -7753,6 +7752,7 @@ foregift
 foregirth
 foreglance
 foregleam
+ferrocyanide
 foreglimpse
 foreglimpsed
 foreglow
