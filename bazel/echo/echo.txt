@@ -5409,7 +5409,6 @@ endseal
 endshake
 endsheet
 endship
-endsweep
 endue
 endued
 enduement
@@ -7640,6 +7639,7 @@ epicoracoidal
 epicormic
 epicorolline
 epicortical
+endsweep
 epicostal
 epicotyl
 epicotyleal
