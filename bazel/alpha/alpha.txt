@@ -6513,7 +6513,6 @@ agriotypus
 agrypnia
 agrypniai
 agrypnias
-agrypnode
 agrypnotic
 agrise
 agrised
@@ -6605,6 +6604,7 @@ aguilawood
 aguilt
 aguinaldo
 aguinaldos
+agrypnode
 aguirage
 aguise
 aguish
