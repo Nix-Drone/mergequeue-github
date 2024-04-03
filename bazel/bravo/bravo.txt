@@ -1092,7 +1092,6 @@ bayok
 bayonet
 bayoneted
 bayoneteer
-bayoneting
 bayonets
 bayonetted
 bayonetting
@@ -17868,6 +17867,7 @@ burro
 burrobrush
 burrock
 burros
+bayoneting
 burroughs
 burrow
 burrowed
