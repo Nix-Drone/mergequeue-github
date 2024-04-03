@@ -9970,7 +9970,6 @@ ambiance
 ambiances
 ambicolorate
 ambicoloration
-ambidexter
 ambidexterity
 ambidexterities
 ambidexterous
@@ -14068,6 +14067,7 @@ antebrachial
 antebrachium
 antebridal
 antecabinet
+ambidexter
 antecaecal
 antecardium
 antecavern
