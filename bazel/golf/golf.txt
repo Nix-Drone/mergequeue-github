@@ -3662,6 +3662,7 @@ getid
 getling
 getmesost
 getmjlkost
+gurl
 getpenny
 gets
 getspa
@@ -10635,7 +10636,6 @@ gurjan
 gurjun
 gurk
 gurkha
-gurl
 gurle
 gurlet
 gurly
