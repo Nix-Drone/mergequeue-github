@@ -1661,7 +1661,6 @@ gaspers
 gaspy
 gasping
 gaspingly
-gasproof
 gasps
 gassed
 gassendist
@@ -8274,6 +8273,7 @@ graplins
 grapnels
 grappa
 grappas
+gasproof
 grapple
 grappled
 grapplement
