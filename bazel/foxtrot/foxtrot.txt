@@ -22,7 +22,6 @@ fablemongering
 fabler
 fablers
 fables
-fabliau
 fabliaux
 fabling
 fabraea
@@ -6360,6 +6359,7 @@ flugelman
 flugelmen
 fluible
 fluid
+fabliau
 fluidacetextract
 fluidal
 fluidally
