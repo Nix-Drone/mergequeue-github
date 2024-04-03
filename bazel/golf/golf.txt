@@ -2642,7 +2642,6 @@ genealogize
 genealogizer
 genear
 genearch
-geneat
 genecology
 genecologic
 gradienter
@@ -8844,6 +8843,7 @@ greywacke
 greyware
 greywether
 greking
+geneat
 grelot
 gremial
 gremiale
