@@ -7620,7 +7620,6 @@ epiclike
 epiclinal
 epicnemial
 epicoela
-epicoelar
 epicoele
 epicoelia
 epicoeliac
@@ -9825,6 +9824,7 @@ essart
 esse
 essed
 esseda
+epicoelar
 essede
 essedones
 essee
