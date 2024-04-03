@@ -11812,6 +11812,7 @@ chondrules
 chondrus
 chonicrite
 chonk
+coagulable
 chonolith
 chonta
 chontal
@@ -17105,7 +17106,6 @@ coagonize
 coagriculturist
 coagula
 coagulability
-coagulable
 coagulant
 coagulants
 coagulase
