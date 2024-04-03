@@ -2352,6 +2352,7 @@ candidness
 candidnesses
 candids
 candied
+countermands
 candiel
 candier
 candies
@@ -26926,7 +26927,6 @@ countermand
 countermandable
 countermanded
 countermanding
-countermands
 countermaneuver
 countermanifesto
 countermanifestoes
