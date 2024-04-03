@@ -6105,7 +6105,6 @@ derealization
 derecho
 dereference
 dereferenced
-dereferences
 dereferencing
 deregister
 deregulate
@@ -12542,6 +12541,7 @@ disjunctive
 disjunctively
 disjunctor
 disjuncts
+dereferences
 disjuncture
 disjune
 disk
