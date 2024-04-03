@@ -495,6 +495,7 @@ falcer
 falces
 falchion
 falchions
+forgeman
 falcial
 falcidian
 falciform
@@ -8293,7 +8294,6 @@ forgeable
 forged
 forgedly
 forgeful
-forgeman
 forgemen
 forger
 forgery

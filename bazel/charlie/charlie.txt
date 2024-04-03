@@ -21734,7 +21734,6 @@ conductances
 conducted
 conductibility
 conductible
-conductility
 conductimeter
 conductimetric
 conducting
@@ -28870,6 +28869,7 @@ cryanesthesia
 criant
 crib
 crybaby
+conductility
 crybabies
 cribbage
 cribbages
