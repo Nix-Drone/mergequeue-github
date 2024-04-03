@@ -2168,7 +2168,6 @@ ascriptitii
 acetoveratrone
 acetoxyl
 acetoxyls
-acetoxim
 acetoxime
 acetoxyphthalide
 acetphenetid
@@ -6746,6 +6745,7 @@ aikinite
 aikona
 aikuchi
 ail
+acetoxim
 ailantery
 ailanthic
 ailanthus
