@@ -492,7 +492,6 @@ falcation
 falcer
 falces
 falchion
-falchions
 forgeman
 falcial
 falcidian
@@ -4392,6 +4391,7 @@ fishbolts
 fishbone
 fishbones
 fishbowl
+falchions
 fishbowls
 fisheater
 fisheye
