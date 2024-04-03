@@ -584,7 +584,6 @@ falloff
 falloffs
 fallopian
 fallostomy
-fallotomy
 fallout
 fallouts
 fallow
@@ -7674,6 +7673,7 @@ foredecks
 foredeclare
 foredecree
 foredeem
+fallotomy
 foredeep
 foredefeated
 foredefine
