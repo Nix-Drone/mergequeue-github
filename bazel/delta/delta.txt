@@ -4334,7 +4334,6 @@ deltiology
 deltohedra
 deltohedron
 deltoid
-deltoidal
 deltoidei
 deltoideus
 deltoids
@@ -8759,6 +8758,7 @@ dybbuk
 dibbukim
 dybbukim
 dibbuks
+deltoidal
 dybbuks
 dibenzyl
 dibenzoyl
