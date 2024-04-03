@@ -7270,6 +7270,7 @@ detestation
 detestations
 detested
 detester
+driveboat
 detesters
 detesting
 detests
@@ -17187,7 +17188,6 @@ drivage
 drive
 driveable
 driveaway
-driveboat
 drivebolt
 drivecap
 drivehead
