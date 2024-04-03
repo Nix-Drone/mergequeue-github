@@ -2832,7 +2832,6 @@ barotraumas
 barotraumata
 barotropy
 barotropic
-barotse
 barouche
 barouches
 barouchet
@@ -8605,6 +8604,7 @@ billyhood
 billiken
 billikin
 billing
+barotse
 billings
 billingsgate
 billyo
