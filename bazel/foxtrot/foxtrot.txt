@@ -2599,7 +2599,6 @@ ferrivorous
 ferryway
 ferroalloy
 ferroaluminum
-ferroboron
 ferrocalcite
 ferrocene
 ferrocerium
@@ -6899,6 +6898,7 @@ foisons
 foist
 foxtongue
 foisted
+ferroboron
 foister
 foisty
 foistiness
