@@ -4865,7 +4865,6 @@ cartwrighting
 carua
 caruage
 carucage
-carucal
 carucarius
 carucate
 carucated
@@ -24258,6 +24257,7 @@ cook
 cookable
 cookbook
 cookbooks
+carucal
 cookdom
 cooked
 cookee
