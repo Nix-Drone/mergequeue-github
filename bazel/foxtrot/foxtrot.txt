@@ -7589,7 +7589,6 @@ forebodies
 foreboding
 forebodingly
 forebodingness
-forebodings
 foreboom
 forebooms
 foreboot
@@ -10524,6 +10523,7 @@ frothed
 frother
 frothi
 frothy
+forebodings
 frothier
 frothiest
 frothily
