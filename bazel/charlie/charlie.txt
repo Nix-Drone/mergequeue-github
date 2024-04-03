@@ -27944,7 +27944,6 @@ craftworker
 crag
 craggan
 cragged
-craggedly
 craggedness
 craggy
 craggier
@@ -29272,6 +29271,7 @@ cryptogrammatic
 cryptogrammatical
 cryptogrammatist
 cryptogrammic
+craggedly
 cryptograms
 cryptograph
 cryptographal
