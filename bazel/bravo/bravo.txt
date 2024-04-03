@@ -3556,7 +3556,6 @@ bathmat
 bathmats
 bathmic
 bathmism
-bathmotropic
 bathmotropism
 bathochromatic
 bathochromatism
@@ -9105,6 +9104,7 @@ biosatellite
 biosatellites
 bioscience
 biosciences
+bathmotropic
 bioscientific
 bioscientist
 bioscope
