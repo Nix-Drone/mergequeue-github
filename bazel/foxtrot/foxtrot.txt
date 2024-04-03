@@ -2940,7 +2940,6 @@ feuilletons
 feuing
 feulamort
 feus
-feute
 feuter
 feuterer
 fever
@@ -5981,6 +5980,7 @@ floodproof
 floods
 floodtime
 floodway
+feute
 floodways
 floodwall
 floodwater

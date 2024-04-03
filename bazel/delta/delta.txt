@@ -11265,7 +11265,6 @@ discapacitate
 discard
 discardable
 discarded
-discarder
 discarding
 discardment
 discards
@@ -17475,6 +17474,7 @@ drowsed
 drowses
 drowsy
 drowsier
+discarder
 drowsiest
 drowsihead
 drowsihood
