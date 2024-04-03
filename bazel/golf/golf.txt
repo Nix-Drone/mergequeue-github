@@ -6801,7 +6801,6 @@ gonadectomies
 gonadectomized
 gonadectomizing
 gonadial
-gonadic
 gonadotrope
 gonadotrophic
 gonadotrophin
@@ -9006,6 +9005,7 @@ grillework
 grilly
 grylli
 gryllid
+gonadic
 gryllidae
 grilling
 gryllos
