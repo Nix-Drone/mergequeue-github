@@ -4710,6 +4710,7 @@ bedlids
 bedlight
 bedlike
 bedmaker
+bewrought
 bedmakers
 bedmaking
 bedman
@@ -7609,7 +7610,6 @@ bewreath
 bewreck
 bewry
 bewrite
-bewrought
 bewwept
 bezaleel
 bezaleelian
