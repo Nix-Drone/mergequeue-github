@@ -1632,6 +1632,7 @@ ballparks
 ballplayer
 ballplayers
 ballplatz
+bedrabbled
 ballpoint
 ballpoints
 ballproof
@@ -4736,7 +4737,6 @@ bedposts
 bedquilt
 bedquilts
 bedrabble
-bedrabbled
 bedrabbling
 bedraggle
 bedraggled
