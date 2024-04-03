@@ -4798,7 +4798,6 @@ gyrogonite
 gyrograph
 gyrohorizon
 gyroidal
-gyroidally
 gyrolite
 gyrolith
 gyroma
@@ -8478,6 +8477,7 @@ gravery
 graverobber
 graverobbing
 gravers
+gyroidally
 glomi
 graves
 graveship
