@@ -2874,7 +2874,6 @@ fettered
 fetterer
 fetterers
 fettering
-fetterless
 fetterlock
 fetters
 fetticus
@@ -4245,6 +4244,7 @@ fireling
 firelit
 firelock
 firelocks
+fetterless
 fireman
 firemanship
 firemaster
