@@ -16433,7 +16433,6 @@ cloakmaker
 cloakmaking
 cloakroom
 cloakrooms
-cloaks
 cloakwise
 cloam
 cloamen
@@ -23701,6 +23700,7 @@ contraplex
 contrapolarization
 contrapone
 contraponend
+cloaks
 contraposaune
 contrapose
 contraposed
