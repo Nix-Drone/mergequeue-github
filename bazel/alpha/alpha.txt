@@ -1457,7 +1457,6 @@ accentuable
 accentual
 accentuality
 accentually
-accentuate
 accentuated
 accentuates
 accentuating
@@ -14754,6 +14753,7 @@ antiars
 antiarthritic
 antiascetic
 antiasthmatic
+accentuate
 antiastronomical
 antiatheism
 antiatheist
