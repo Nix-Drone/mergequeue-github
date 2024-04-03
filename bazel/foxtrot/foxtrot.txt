@@ -1647,6 +1647,7 @@ fbi
 fc
 fchar
 fcy
+fipenny
 fcomp
 fconv
 fconvert
@@ -4151,7 +4152,6 @@ fiorite
 fioriture
 fiot
 fip
-fipenny
 fippence
 fipple
 fipples
