@@ -4763,7 +4763,6 @@ encoding
 encodings
 encoffin
 encoffinment
-encoignure
 encoignures
 encoil
 encolden
@@ -6205,6 +6204,7 @@ enrapted
 enrapting
 enrapts
 enrapture
+encoignure
 enraptured
 enrapturedly
 enrapturer
