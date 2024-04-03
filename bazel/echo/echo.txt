@@ -2887,6 +2887,7 @@ elicitors
 elicits
 elide
 elided
+enameler
 elides
 elidible
 eliding
@@ -4358,7 +4359,6 @@ enambush
 enamdar
 enamel
 enameled
-enameler
 enamelers
 enameling
 enamelist
