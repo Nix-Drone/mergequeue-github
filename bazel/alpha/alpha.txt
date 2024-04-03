@@ -2715,7 +2715,6 @@ acquaintant
 acquainted
 acquaintedness
 acquainting
-acquaints
 acquent
 acquereur
 acquest
@@ -6370,6 +6369,7 @@ agonium
 agonize
 agonized
 agonizedly
+acquaints
 agonizer
 agonizes
 agonizing
