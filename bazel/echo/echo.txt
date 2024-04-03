@@ -6174,7 +6174,6 @@ enplanement
 enplanes
 enplaning
 enquarter
-enquere
 enqueue
 enqueued
 enqueues
@@ -8965,6 +8964,7 @@ ergophobia
 ergophobiac
 ergophobic
 ergoplasm
+enquere
 ergostat
 ergosterin
 ergosterol
