@@ -809,6 +809,7 @@ ectypes
 ectypography
 ectiris
 ectoblast
+episodal
 ectoblastic
 ectobronchium
 ectocardia
@@ -8130,7 +8131,6 @@ episiotomy
 episiotomies
 episkeletal
 episkotister
-episodal
 episode
 episodes
 episodial
