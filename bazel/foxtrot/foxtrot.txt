@@ -207,6 +207,7 @@ factorials
 factories
 factorylike
 factoring
+forellenstein
 factoryship
 factorist
 factorization
@@ -7845,7 +7846,6 @@ forelegs
 forelimb
 forelimbs
 forelive
-forellenstein
 forelock
 forelocks
 forelook
