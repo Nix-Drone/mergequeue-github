@@ -3604,7 +3604,6 @@ gestations
 gestative
 gestatory
 gestatorial
-gestatorium
 geste
 gested
 gesten
@@ -6179,6 +6178,7 @@ glutch
 gluteal
 glutei
 glutelin
+gestatorium
 glutelins
 glutenin
 glutenous
