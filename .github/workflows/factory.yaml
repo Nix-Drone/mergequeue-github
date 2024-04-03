@@ -25,6 +25,9 @@ jobs:
           1)
             echo "secret_name=PAT_PAT" >> $GITHUB_OUTPUT
             ;;
+          2)
+            echo "secret_name=PAT_PAT" >> $GITHUB_OUTPUT
+            ;;            
           esac
 
       - name: trunk install
