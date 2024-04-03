@@ -11669,7 +11669,6 @@ anagrammatise
 anagrammatised
 anagrammatising
 anagrammatism
-anagrammatist
 anagrammatization
 anagrammatize
 anagrammatized
@@ -21045,6 +21044,7 @@ ase
 asea
 asearch
 asecretory
+anagrammatist
 aseethe
 aseismatic
 aseismic
