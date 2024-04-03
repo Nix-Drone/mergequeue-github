@@ -2968,7 +2968,6 @@ feverlike
 feverous
 feverously
 feverroot
-fevers
 fevertrap
 fevertwig
 fevertwitch
@@ -6926,6 +6925,7 @@ folates
 folcgemot
 fold
 foldable
+fevers
 foldage
 foldaway
 foldboat
