@@ -6245,7 +6245,6 @@ dermatolysis
 dermatology
 dermatologic
 dermatological
-dermatologies
 dermatologist
 dermatologists
 dermatoma
@@ -8743,6 +8742,7 @@ diazotic
 debasing
 diazotype
 diazotizability
+dermatologies
 diazotizable
 diazotization
 diazotize
