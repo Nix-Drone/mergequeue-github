@@ -8208,7 +8208,6 @@ diagnosticians
 diagnostics
 diagometer
 diagonal
-diagonality
 diagonalizable
 diagonalization
 diagonalize
@@ -17147,6 +17146,7 @@ dryope
 dryopes
 dryophyllum
 dryopians
+diagonality
 dryopithecid
 dryopithecinae
 dryopithecine
