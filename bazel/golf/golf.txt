@@ -1829,7 +1829,6 @@ gastrojejunal
 gastrojejunostomy
 gastrojejunostomies
 gastrolater
-gastrolatrous
 gastrolavage
 gastrolienal
 gastrolysis
@@ -9347,6 +9346,7 @@ grooving
 groow
 grope
 groped
+gastrolatrous
 groper
 gropers
 gropes
