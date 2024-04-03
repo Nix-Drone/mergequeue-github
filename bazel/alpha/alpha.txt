@@ -7876,6 +7876,7 @@ alemonger
 alen
 alencon
 alencons
+arrayers
 alenge
 alength
 alentours
@@ -20154,7 +20155,6 @@ arrayals
 arrayan
 arrayed
 arrayer
-arrayers
 arraign
 arraignability
 arraignable
