@@ -304,7 +304,6 @@ eavedropper
 eavedropping
 eaver
 eaves
-eavesdrip
 eavesdrop
 eavesdropped
 eavesdropper
@@ -3865,6 +3864,7 @@ emigates
 emigating
 emigr
 emigrant
+eavesdrip
 emigrants
 emigrate
 emigrated
