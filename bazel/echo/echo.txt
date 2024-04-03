@@ -8725,7 +8725,6 @@ equispatial
 equisufficiency
 equisurface
 equitability
-equitable
 equitableness
 equitably
 equitangential
@@ -13694,6 +13693,7 @@ extirp
 extirpate
 extirpated
 extirpateo
+equitable
 extirpates
 extirpating
 extirpation
