@@ -5415,6 +5415,7 @@ glycans
 glycemia
 glycemic
 glyceral
+gunated
 glyceraldehyde
 glycerate
 glyceria
@@ -10460,7 +10461,6 @@ gun
 guna
 gunarchy
 gunate
-gunated
 gunating
 gunation
 gunbarrel
