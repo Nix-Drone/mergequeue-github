@@ -6938,7 +6938,6 @@ besides
 besiege
 besieged
 besiegement
-besieger
 besiegers
 besieges
 besieging
@@ -13187,6 +13186,7 @@ bosses
 bosset
 bossy
 bossier
+besieger
 bossies
 bossiest
 bossily
