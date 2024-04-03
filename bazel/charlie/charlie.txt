@@ -7929,7 +7929,6 @@ cesural
 cesuras
 cesure
 cetacea
-cetacean
 cetaceans
 cetaceous
 cetaceum
@@ -27354,6 +27353,7 @@ courtal
 courtby
 courtbred
 courtcraft
+cetacean
 courted
 courteous
 courteously
