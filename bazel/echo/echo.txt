@@ -611,7 +611,6 @@ echoist
 echoize
 echoized
 echoizing
-echolalia
 echolalic
 echoless
 echolocate
@@ -1073,6 +1072,7 @@ edictum
 edicule
 ediface
 edify
+echolalia
 edificable
 edificant
 edificate
