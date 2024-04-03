@@ -2289,6 +2289,7 @@ fencepost
 fencer
 fenceress
 fencers
+firebricks
 fences
 fenchene
 fenchyl
@@ -4203,7 +4204,6 @@ firebrats
 firebreak
 firebreaks
 firebrick
-firebricks
 firebug
 firebugs
 fireburn
