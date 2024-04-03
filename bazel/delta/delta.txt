@@ -1519,7 +1519,6 @@ deadest
 deadfall
 deadfalls
 deadflat
-deadhand
 deadhead
 deadheaded
 deadheading
@@ -16420,6 +16419,7 @@ dozening
 dozens
 dozent
 dozenth
+deadhand
 dozenths
 dozer
 dozers
