@@ -5431,7 +5431,6 @@ endungeon
 endura
 endurability
 endurable
-endurableness
 endurably
 endurance
 endurant
@@ -7298,6 +7297,7 @@ eophyton
 eorhyolite
 eos
 eosate
+endurableness
 eosaurus
 eoside
 eosin
