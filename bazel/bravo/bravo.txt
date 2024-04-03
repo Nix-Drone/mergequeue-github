@@ -1953,7 +1953,6 @@ bandon
 bandonion
 bandor
 bandora
-bandoras
 bandore
 bandores
 bandos
@@ -8885,6 +8884,7 @@ biochemist
 biochemistry
 biochemistries
 biochemists
+bandoras
 biochore
 biochron
 biocycle
