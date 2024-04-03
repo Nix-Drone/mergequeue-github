@@ -3050,7 +3050,6 @@ gnoff
 geodes
 geodesy
 geodesia
-geodesic
 geodesical
 geodesics
 geodesies
@@ -9877,6 +9876,7 @@ guanines
 guanins
 guanize
 guano
+geodesic
 guanophore
 guanos
 guanosine
