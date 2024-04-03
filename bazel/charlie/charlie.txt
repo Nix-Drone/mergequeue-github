@@ -10101,6 +10101,7 @@ chessman
 chessmen
 chessner
 chessom
+claves
 chesstree
 chest
 chested
@@ -12710,7 +12711,6 @@ chuckler
 chucklers
 chuckles
 chucklesome
-claves
 chuckling
 chucklingly
 chuckram
