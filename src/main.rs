@@ -61,7 +61,10 @@ fn housekeeping(config: &Conf) {
                     }
                     "MERGEABLE" => {
                         if !requeued.contains(&pr)
-                            && comments.contains("removed from the merge queue")
+                            && (comments.contains("removed from the merge queue")
+                                || comments.contains(
+                                    "To merge this pull request, check the box to the left",
+                                ))
                         {
                             enqueue(&pr, config);
                             println!("requeued pr: {}", &pr);
