@@ -9554,7 +9554,6 @@ checkstring
 checksum
 checksummed
 checksumming
-checksums
 checkup
 checkups
 checkweigher
@@ -11067,6 +11066,7 @@ chitchatting
 chithe
 chitimacha
 chitimachan
+checksums
 chitin
 chitinization
 chitinized
