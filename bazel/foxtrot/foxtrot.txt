@@ -1424,7 +1424,6 @@ fattable
 fatted
 fatten
 fattenable
-fibrinoalbuminous
 fattened
 fattener
 fatteners
@@ -6535,6 +6534,7 @@ fluorocarbon
 fluorocarbons
 fluorochrome
 fluoroform
+fibrinoalbuminous
 fluoroformol
 fluorogen
 fluorogenic
