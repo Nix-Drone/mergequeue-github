@@ -5293,6 +5293,7 @@ flavory
 flavoriness
 flavoring
 flavorings
+forsworn
 flavorless
 flavorlessness
 flavorous
@@ -8691,7 +8692,6 @@ forswearer
 forswearing
 forswears
 forswore
-forsworn
 forswornness
 fort
 fortake
