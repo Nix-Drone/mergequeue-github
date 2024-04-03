@@ -5118,6 +5118,7 @@ flask
 flasker
 flasket
 flaskets
+formating
 flaskful
 flasklet
 flasks
@@ -8462,7 +8463,6 @@ formants
 format
 formate
 formates
-formating
 formation
 formational
 formations
