@@ -7278,7 +7278,6 @@ cephaletron
 cephaleuros
 cephalexin
 cephalhematoma
-cephalhydrocele
 cephalic
 cephalically
 cephalin
@@ -28871,6 +28870,7 @@ cry
 cryable
 cryaesthesia
 cryal
+cephalhydrocele
 cryalgesia
 criance
 cryanesthesia
