@@ -2379,7 +2379,6 @@ achropsia
 achtehalber
 achtel
 achtelthaler
-achter
 achterveld
 achuas
 achuete
@@ -13918,6 +13917,7 @@ anoxemia
 anoxemias
 anoxemic
 anoxia
+achter
 anoxias
 anoxybiosis
 anoxybiotic
