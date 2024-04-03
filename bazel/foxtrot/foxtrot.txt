@@ -4872,6 +4872,7 @@ flaillike
 flails
 flain
 flair
+forearm
 flairs
 flays
 flaite
@@ -7552,7 +7553,6 @@ foreannouncement
 foreanswer
 foreappoint
 foreappointment
-forearm
 forearmed
 forearming
 forearms
