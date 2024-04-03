@@ -2584,7 +2584,6 @@ electrorefining
 electroresection
 electroretinogram
 electroretinograph
-electroretinography
 electroretinographic
 electros
 electroscission
@@ -12104,6 +12103,7 @@ exclusionist
 exclusions
 exclusive
 exclusively
+electroretinography
 exclusiveness
 exclusivism
 exclusivist
