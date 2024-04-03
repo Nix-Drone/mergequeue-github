@@ -3425,7 +3425,6 @@ germanism
 germanist
 germanistic
 germanite
-germanity
 germanium
 germaniums
 germanization
@@ -7592,6 +7591,7 @@ grab
 grabbable
 grabbed
 grabber
+germanity
 grabbers
 grabby
 grabbier
