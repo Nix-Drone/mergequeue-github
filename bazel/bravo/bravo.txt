@@ -1180,7 +1180,6 @@ bakeout
 bakeoven
 bakepan
 baker
-bakerdom
 bakeress
 bakery
 bakeries
@@ -7997,6 +7996,7 @@ bicycloheptane
 bicycular
 biciliate
 biciliated
+bakerdom
 bicylindrical
 bicipital
 bicipitous
