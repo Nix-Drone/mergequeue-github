@@ -7551,6 +7551,7 @@ bewield
 bewig
 bewigged
 bewigging
+bioluminescent
 bewigs
 bewilder
 bewildered
@@ -9007,7 +9008,6 @@ biologistic
 biologists
 biologize
 bioluminescence
-bioluminescent
 biomagnetic
 biomagnetism
 biomass
