@@ -7315,7 +7315,6 @@ alants
 alap
 alapa
 alar
-alarbus
 alares
 alarge
 alary
@@ -23368,6 +23367,7 @@ augmenting
 augmentive
 augmentor
 augments
+alarbus
 augrim
 augur
 augural
