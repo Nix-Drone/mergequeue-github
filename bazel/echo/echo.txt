@@ -5733,7 +5733,6 @@ englyn
 englyns
 english
 englishable
-englished
 englisher
 englishes
 englishhood
@@ -12230,6 +12229,7 @@ excursionist
 excursionists
 excursionize
 excursions
+englished
 excursive
 excursively
 excursiveness
