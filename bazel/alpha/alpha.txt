@@ -2757,7 +2757,6 @@ acquist
 acquit
 acquital
 acquitment
-acquits
 acquittal
 acquittals
 acquittance
@@ -3918,6 +3917,7 @@ adight
 adigranth
 adin
 adynamy
+acquits
 adynamia
 adynamias
 adynamic
