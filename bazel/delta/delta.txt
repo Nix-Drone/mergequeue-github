@@ -5360,6 +5360,7 @@ denticles
 denticular
 denticulate
 denticulated
+durability
 denticulately
 denticulation
 denticule
@@ -18404,7 +18405,6 @@ dupping
 dups
 dur
 dura
-durability
 durabilities
 durable
 durableness
