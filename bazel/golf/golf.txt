@@ -6410,7 +6410,6 @@ goalkeeper
 goalkeepers
 goalkeeping
 goalless
-goalmouth
 goalpost
 goalposts
 goals
@@ -9121,6 +9120,7 @@ gripers
 gripes
 gripgrass
 griph
+goalmouth
 gryph
 gryphaea
 griphe
