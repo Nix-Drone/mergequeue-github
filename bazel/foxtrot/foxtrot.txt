@@ -5394,6 +5394,7 @@ flecks
 flecnodal
 flecnode
 flect
+frigefact
 flection
 flectional
 flectionless
@@ -10060,7 +10061,6 @@ frigage
 frigate
 frigates
 frigatoon
-frigefact
 frigga
 frigged
 frigger
