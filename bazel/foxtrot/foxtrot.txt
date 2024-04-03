@@ -2912,7 +2912,6 @@ feudally
 feudary
 feudaries
 feudatary
-feudatory
 feudatorial
 feudatories
 feuded
@@ -3714,6 +3713,7 @@ filiformed
 filigera
 filigerous
 filigrain
+feudatory
 filigrained
 fanged
 filigrane
