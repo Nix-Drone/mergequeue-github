@@ -3181,7 +3181,6 @@ elusory
 elusoriness
 elute
 eluted
-elutes
 eluting
 elution
 elutions
@@ -11910,6 +11909,7 @@ excecation
 excedent
 exceed
 exceedable
+elutes
 exceeded
 exceeder
 exceeders
