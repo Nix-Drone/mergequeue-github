@@ -3922,7 +3922,6 @@ finalize
 finalized
 finalizes
 finalizing
-finally
 finals
 finance
 financed
@@ -11002,6 +11001,7 @@ fumant
 flavones
 fumarase
 flagellar
+finally
 fumarases
 fumarate
 fumarates
