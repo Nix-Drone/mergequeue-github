@@ -1074,7 +1074,6 @@ edicule
 ediface
 edify
 echolalia
-edificable
 edificate
 edification
 edificative
@@ -9273,6 +9272,7 @@ eroticomania
 eroticomaniac
 eroticomaniacal
 erotics
+edificable
 erotylid
 erotylidae
 erotism
