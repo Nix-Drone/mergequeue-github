@@ -7577,7 +7577,6 @@ gozzard
 gp
 gpad
 gpcd
-gpd
 gph
 gpm
 gps
@@ -9519,6 +9518,7 @@ grousers
 grouses
 grouseward
 grousewards
+gpd
 grousy
 grousing
 grout
