@@ -3490,6 +3490,7 @@ defocusses
 defoedation
 defog
 defogged
+disyllable
 defogger
 defoggers
 defogging
@@ -12366,7 +12367,6 @@ disyllabism
 disyllabize
 disyllabized
 disyllabizing
-disyllable
 disillude
 disilluded
 disilluminate
