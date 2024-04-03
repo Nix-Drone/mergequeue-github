@@ -5770,7 +5770,6 @@ engoument
 engr
 engrace
 engraced
-engracing
 engraff
 engraffed
 engraffing
@@ -8895,6 +8894,7 @@ erethism
 erethismic
 erethisms
 erethistic
+engracing
 erethitic
 erethizon
 erethizontidae
