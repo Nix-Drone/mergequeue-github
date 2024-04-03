@@ -2431,7 +2431,6 @@ electrolyses
 electrolysing
 electrolysis
 electrolyte
-electrolytes
 electrolithotrity
 electrolytic
 electrolytical
@@ -11707,6 +11706,7 @@ exacerbescent
 exacervation
 exacinate
 exact
+electrolytes
 exacta
 exactable
 exactas
