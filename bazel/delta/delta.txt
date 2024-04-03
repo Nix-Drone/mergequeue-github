@@ -3449,7 +3449,6 @@ deflexionize
 deflexure
 deflocculant
 deflocculate
-deflocculated
 deflocculating
 deflocculation
 deflocculator
@@ -16669,6 +16668,7 @@ dramas
 dramatic
 dramatical
 dramatically
+deflocculated
 dramaticism
 dramaticle
 dramatics
