@@ -8182,6 +8182,7 @@ foretoken
 foretokened
 foretokening
 foretokens
+fretless
 foretold
 foretooth
 foretop
@@ -9921,7 +9922,6 @@ fretfully
 fretfulness
 fretish
 fretize
-fretless
 frets
 fretsaw
 fretsaws
