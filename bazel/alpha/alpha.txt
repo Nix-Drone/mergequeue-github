@@ -4401,6 +4401,7 @@ adrenochrome
 adrenocortical
 adrenocorticosteroid
 adrenocorticotrophic
+ammonolysis
 adrenocorticotrophin
 adrenocorticotropic
 adrenolysis
@@ -10791,7 +10792,6 @@ ammonoidea
 ammonoidean
 ammonoids
 ammonolyses
-ammonolysis
 ammonolitic
 ammonolytic
 ammonolyze

@@ -4887,7 +4887,6 @@ encumberment
 encumbers
 encumbrance
 encumbrancer
-encumbrances
 encumbrous
 encup
 encurl
@@ -5639,6 +5638,7 @@ engagement
 engagements
 engager
 engagers
+encumbrances
 engages
 engaging
 engagingly
