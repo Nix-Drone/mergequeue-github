@@ -5523,7 +5523,6 @@ enfasten
 enfatico
 enfavor
 enfeature
-enfect
 enfeeble
 enfeebled
 enfeeblement
@@ -12316,6 +12315,7 @@ executively
 executiveness
 executives
 executiveship
+enfect
 executonis
 executor
 executory
