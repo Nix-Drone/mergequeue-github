@@ -6538,6 +6538,7 @@ desegregated
 desegregates
 desegregating
 desegregation
+duststorm
 deselect
 deselected
 deselecting
@@ -18572,7 +18573,6 @@ dustrag
 dustrags
 dusts
 dustsheet
-duststorm
 dusttight
 dustuck
 dustuk
