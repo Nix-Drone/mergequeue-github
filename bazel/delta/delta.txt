@@ -4684,7 +4684,6 @@ demiracle
 demiram
 demirelief
 demirep
-demireps
 demirevetment
 demirhumb
 demirilievo
@@ -11868,6 +11867,7 @@ disedge
 disedify
 disedification
 diseducate
+demireps
 disegno
 diselder
 diselectrify
