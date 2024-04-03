@@ -4693,7 +4693,6 @@ gyrate
 gyrated
 gyrates
 gyrating
-gyration
 gyrational
 gyrations
 gyrator
@@ -8906,6 +8905,7 @@ grice
 grid
 gridded
 gridder
+gyration
 gridding
 griddle
 griddlecake
