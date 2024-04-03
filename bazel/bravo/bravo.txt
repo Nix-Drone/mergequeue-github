@@ -6938,7 +6938,6 @@ besides
 besiege
 besieged
 besiegement
-besieger
 besiegers
 biorhythmicities
 besieges
@@ -13185,6 +13184,7 @@ bosses
 bosset
 bossy
 bossier
+besieger
 bossies
 bossiest
 bossily
