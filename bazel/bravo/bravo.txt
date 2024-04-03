@@ -9227,6 +9227,7 @@ bipedism
 bipeds
 bipeltate
 bipennate
+built
 bipennated
 bipenniform
 biperforate
@@ -16951,7 +16952,6 @@ buildress
 builds
 buildup
 buildups
-built
 builtin
 buyout
 buyouts
