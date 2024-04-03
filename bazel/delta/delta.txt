@@ -645,7 +645,6 @@ damnatory
 damndest
 damndests
 damned
-damneder
 damnedest
 damner
 damners
@@ -7402,6 +7401,7 @@ detruncate
 detruncated
 detruncating
 detruncation
+damneder
 detrusion
 detrusive
 detrusor
