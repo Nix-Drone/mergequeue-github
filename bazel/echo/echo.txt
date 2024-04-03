@@ -4933,6 +4933,7 @@ endaze
 endball
 endboard
 endbrain
+expenthesis
 endbrains
 enddamage
 enddamaged
@@ -13035,7 +13036,6 @@ expensing
 expensive
 expensively
 expensiveness
-expenthesis
 expergefacient
 expergefaction
 experience
