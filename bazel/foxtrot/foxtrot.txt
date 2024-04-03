@@ -3121,7 +3121,6 @@ fibrocaseous
 fibrocellular
 fibrocement
 fibrochondritis
-fibrochondroma
 fibrochondrosteal
 fibrocyst
 fibrocystic
@@ -9293,6 +9292,7 @@ fragmentary
 fragmentarily
 fragmentariness
 fragmentate
+fibrochondroma
 fragmentation
 fragmented
 fragmenting
