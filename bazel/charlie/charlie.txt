@@ -3861,7 +3861,6 @@ carcinosarcoma
 carcinosarcomas
 carcinosarcomata
 carcinoscorpius
-carcinosis
 carcinus
 carcoon
 card
@@ -7721,6 +7720,7 @@ ceros
 cerosin
 cerotate
 cerote
+carcinosis
 cerotene
 cerotic
 cerotin
