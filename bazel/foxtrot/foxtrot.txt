@@ -1058,7 +1058,6 @@ farmhold
 farmhouse
 farmhousey
 farmhouses
-farmy
 farmyard
 farmyardy
 farmyards
@@ -8592,6 +8591,7 @@ formulisation
 formulise
 formulised
 formuliser
+farmy
 formulising
 formulism
 formulist
