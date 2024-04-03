@@ -544,7 +544,6 @@ backstretches
 backstring
 backstrip
 backstroke
-backstroked
 backstrokes
 backstroking
 backstromite
@@ -1308,6 +1307,7 @@ balantidic
 balantidiosis
 balantidium
 balanus
+backstroked
 balao
 balaos
 balaphon
