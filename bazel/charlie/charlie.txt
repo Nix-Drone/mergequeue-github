@@ -20882,7 +20882,6 @@ comprehender
 comprehendible
 comprehending
 comprehendingly
-comprehends
 comprehense
 comprehensibility
 comprehensible
@@ -28907,6 +28906,7 @@ cribrose
 cribrosity
 cribrous
 cribs
+comprehends
 chaperoning
 cribwork
 cribworks
