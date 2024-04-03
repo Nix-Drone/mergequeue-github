@@ -561,7 +561,6 @@ galleasses
 galled
 gallegan
 galley
-galleylike
 galleyman
 gallein
 galleine
@@ -10400,6 +10399,7 @@ gumdigger
 gumdigging
 gumdrop
 gumdrops
+galleylike
 gumfield
 gumflower
 gumhar
