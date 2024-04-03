@@ -16769,7 +16769,6 @@ aphacia
 aphacial
 aphacic
 aphaeresis
-aphaeretic
 aphagia
 aphagias
 aphakia
@@ -23282,6 +23281,7 @@ audiometer
 audiometers
 audiometry
 audiometric
+aphaeretic
 audiometrically
 audiometries
 audiometrist
