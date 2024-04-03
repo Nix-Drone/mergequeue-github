@@ -2075,7 +2075,6 @@ elasmobranch
 elasmobranchian
 elasmobranchiate
 elasmobranchii
-elasmosaur
 elasmosaurus
 elasmothere
 elasmotherium
@@ -14022,6 +14021,7 @@ extravaginal
 extravasate
 extravasated
 extravasating
+elasmosaur
 extravasation
 extravascular
 extravehicular
