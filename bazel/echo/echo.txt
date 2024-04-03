@@ -214,7 +214,6 @@ earworms
 earwort
 ease
 eased
-easeful
 easefully
 easefulness
 easel
@@ -6180,6 +6179,7 @@ enplanement
 enplanes
 enplaning
 enquarter
+easeful
 enqueue
 enqueued
 enqueues
