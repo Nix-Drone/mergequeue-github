@@ -678,7 +678,6 @@ bacteriophagic
 bacteriophagous
 bacteriophobia
 bacterioprecipitin
-bacterioprotein
 bacteriopsonic
 bacteriopsonin
 bacteriopurpurin
@@ -5416,6 +5415,7 @@ behooves
 behooving
 behoovingly
 behorn
+bacterioprotein
 behorror
 behove
 behoved
