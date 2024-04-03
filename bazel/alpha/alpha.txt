@@ -15996,7 +15996,6 @@ antiquarium
 antiquartan
 antiquate
 antiquated
-antiquatedness
 antiquates
 antiquating
 antiquation
@@ -23788,6 +23787,7 @@ authigenetic
 authigenic
 authigenous
 author
+antiquatedness
 authorcraft
 authored
 authoress
