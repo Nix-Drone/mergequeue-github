@@ -5109,7 +5109,6 @@ befreckle
 befreeze
 befreight
 befret
-befrets
 befretted
 befretting
 befriend
@@ -10994,6 +10993,7 @@ bloodbath
 bloodbeat
 bloodberry
 bloodbird
+befrets
 bloodcurdler
 bloodcurdling
 bloodcurdlingly
