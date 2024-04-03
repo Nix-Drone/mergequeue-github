@@ -8804,7 +8804,6 @@ chaperon
 chaperonage
 chaperone
 chaperoned
-chaperoning
 chaperonless
 chaperons
 chapes
@@ -28907,6 +28906,7 @@ cribrose
 cribrosity
 cribrous
 cribs
+chaperoning
 cribwork
 cribworks
 cric
