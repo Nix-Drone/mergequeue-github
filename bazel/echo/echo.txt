@@ -7252,7 +7252,6 @@ eobionts
 eocarboniferous
 eocene
 eodevonian
-eodiscid
 eof
 eogaea
 eogaean
@@ -9483,6 +9482,7 @@ escarped
 escarping
 escarpment
 escarpments
+eodiscid
 escarps
 escars
 escarteled
