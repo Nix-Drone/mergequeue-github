@@ -4595,7 +4595,6 @@ enchants
 encharge
 encharged
 encharging
-encharm
 encharnel
 enchase
 enchased
@@ -8704,6 +8703,7 @@ equiradical
 equirotal
 equisegmented
 equiseta
+encharm
 equisetaceae
 equisetaceous
 equisetales
