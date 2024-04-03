@@ -3066,7 +3066,6 @@ fibriform
 fibril
 fibrilated
 fibrilation
-fibrilations
 fibrilla
 fibrillae
 fibrillar
@@ -5643,6 +5642,7 @@ flyflapper
 flyflower
 fligged
 fligger
+fibrilations
 flight
 flighted
 flighter
