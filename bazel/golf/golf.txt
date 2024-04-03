@@ -1706,7 +1706,6 @@ gasterosteoid
 gasterosteus
 gasterotheca
 gasterothecal
-gasterotricha
 gasterotrichan
 gasterozooid
 gastful
@@ -2278,6 +2277,7 @@ gearksutite
 gearless
 gearman
 gears
+gasterotricha
 gearset
 gearshift
 gearshifts
