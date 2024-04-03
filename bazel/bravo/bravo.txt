@@ -12197,6 +12197,7 @@ bolsterer
 bolsterers
 bolstering
 bolsters
+brake
 bolsterwork
 bolt
 boltage
@@ -14353,7 +14354,6 @@ braising
 braystone
 braize
 braizes
-brake
 brakeage
 brakeages
 braked
