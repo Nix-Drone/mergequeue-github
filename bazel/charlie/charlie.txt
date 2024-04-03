@@ -21114,6 +21114,7 @@ concavities
 concavo
 conceal
 concealable
+culicide
 concealed
 concealedly
 concealedness
@@ -30725,7 +30726,6 @@ culices
 culicid
 culicidae
 culicidal
-culicide
 culicids
 culiciform
 culicifugal
