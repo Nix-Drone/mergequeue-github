@@ -1819,6 +1819,7 @@ gastroid
 gastrointestinal
 gastrojejunal
 gastrojejunostomy
+gives
 gastrojejunostomies
 gastrolater
 gastrolavage
@@ -4928,7 +4929,6 @@ givenness
 givens
 giver
 givers
-gives
 gyves
 giveth
 givin
