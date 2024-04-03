@@ -3094,7 +3094,6 @@ deerlike
 deermeat
 deers
 deerskin
-deerskins
 deerstalker
 deerstalkers
 deerstalking
@@ -9581,6 +9580,7 @@ digresser
 digresses
 digressing
 digressingly
+deerskins
 digression
 digressional
 digressionary
