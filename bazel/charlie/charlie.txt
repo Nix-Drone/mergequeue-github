@@ -14928,7 +14928,6 @@ cytologies
 cytologist
 cytologists
 cytoma
-cytome
 cytomegalic
 cytomegalovirus
 cytomere
@@ -15418,6 +15417,7 @@ clapboards
 clapbread
 clapcake
 clapdish
+cytome
 clape
 clapholt
 clapmatch
