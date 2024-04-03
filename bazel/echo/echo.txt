@@ -4546,7 +4546,6 @@ encephalomalacia
 encephalomalacosis
 encephalomalaxis
 encephalomas
-encephalomata
 encephalomeningitis
 encephalomeningocele
 encephalomere
@@ -13806,6 +13805,7 @@ extracurial
 extracurricular
 extracurriculum
 extracutaneous
+encephalomata
 extradecretal
 extradialectal
 extradict
