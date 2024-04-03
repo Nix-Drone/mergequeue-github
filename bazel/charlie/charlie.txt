@@ -21783,6 +21783,7 @@ conelet
 conelike
 conelrad
 conelrads
+continentalism
 conemaker
 conemaking
 conemaugh
@@ -23475,7 +23476,6 @@ continence
 continency
 continental
 continentaler
-continentalism
 continentalist
 continentality
 continentalize
