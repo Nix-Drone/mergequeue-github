@@ -3591,6 +3591,7 @@ defuses
 defusing
 defusion
 defuze
+dims
 defuzed
 defuzes
 defuzing
@@ -9982,7 +9983,6 @@ dimpliest
 dimpling
 dimps
 dimpsy
-dims
 dimuence
 dimwit
 dimwits
