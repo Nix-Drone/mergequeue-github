@@ -8352,7 +8352,6 @@ forinsecal
 forint
 forints
 forisfamiliate
-forisfamiliation
 forjaskit
 forjesket
 forjudge
@@ -8918,6 +8917,7 @@ fossulae
 fossulate
 fossule
 fossulet
+forisfamiliation
 fostell
 foster
 fosterage
