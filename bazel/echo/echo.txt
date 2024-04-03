@@ -5270,6 +5270,7 @@ endosarcous
 endosarcs
 endosclerite
 endoscope
+exostema
 endoscopes
 endoscopy
 endoscopic
@@ -12821,7 +12822,6 @@ exosporium
 exosporous
 exossate
 exosseous
-exostema
 exostome
 exostosed
 exostoses
