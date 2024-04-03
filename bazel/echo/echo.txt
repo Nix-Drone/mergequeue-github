@@ -4942,6 +4942,7 @@ endaseh
 endaspidean
 endaze
 endball
+escrows
 endboard
 endbrain
 endbrains
@@ -9597,7 +9598,6 @@ escrow
 escrowed
 escrowee
 escrowing
-escrows
 escruage
 escuage
 escuages
