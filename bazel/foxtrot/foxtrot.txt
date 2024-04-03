@@ -4390,6 +4390,7 @@ fishbolt
 fishbolts
 fishbone
 fishbones
+flytrap
 fishbowl
 falchions
 fishbowls
@@ -5814,7 +5815,6 @@ flytime
 fliting
 flyting
 flytings
-flytrap
 flytraps
 flits
 flitted
