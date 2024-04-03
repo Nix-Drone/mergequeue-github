@@ -2843,7 +2843,6 @@ baroxyton
 barpost
 barquantine
 barque
-barquentine
 barques
 barquest
 barquette
@@ -7306,6 +7305,7 @@ bethylid
 bethylidae
 bethink
 bethinking
+barquentine
 bethinks
 bethlehem
 bethlehemite
