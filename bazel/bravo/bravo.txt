@@ -1757,7 +1757,6 @@ baluga
 balun
 balunda
 balushai
-baluster
 balustered
 balusters
 balustrade
@@ -15224,6 +15223,7 @@ brideman
 brides
 brideship
 bridesmaid
+baluster
 bridesmaiding
 bridesmaids
 bridesman
