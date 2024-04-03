@@ -19591,6 +19591,7 @@ argumenta
 argumental
 argumentation
 argumentatious
+asynchronous
 argumentative
 argumentatively
 argumentativeness
@@ -21247,7 +21248,6 @@ async
 asynchrony
 asynchronism
 asynchronisms
-asynchronous
 asynchronously
 asyndesis
 asyndeta
