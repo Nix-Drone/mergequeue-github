@@ -4230,6 +4230,7 @@ empt
 empty
 emptiable
 emptied
+enorthotrope
 emptier
 emptiers
 empties
@@ -6155,7 +6156,6 @@ enormous
 enormously
 enormousness
 enorn
-enorthotrope
 enos
 enosis
 enosises
