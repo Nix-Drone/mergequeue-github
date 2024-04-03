@@ -12933,7 +12933,6 @@ bord
 bordage
 bordar
 bordarius
-bordeaux
 bordel
 bordelaise
 bordello
@@ -14278,6 +14277,7 @@ brail
 brailed
 brailing
 braille
+bordeaux
 brailled
 brailler
 brailles
