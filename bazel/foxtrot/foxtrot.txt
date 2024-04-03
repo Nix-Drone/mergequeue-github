@@ -3412,7 +3412,6 @@ fieldsmen
 fieldstone
 fieldstrip
 fieldward
-fieldwards
 fieldwork
 fieldworker
 fieldwort
@@ -4592,6 +4591,7 @@ fruitgrowing
 fitchew
 fitchews
 fitchy
+fieldwards
 fitful
 fitfully
 fitfulness
