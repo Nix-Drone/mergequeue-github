@@ -2558,7 +2558,6 @@ enthrall
 electroplaque
 electroplate
 electroplated
-equitant
 electroplater
 electroplates
 electroplating
@@ -9320,6 +9319,7 @@ erratics
 erratum
 erratums
 erratuta
+equitant
 erred
 errhine
 errhines
