@@ -1465,6 +1465,7 @@ dcb
 dcbname
 dclass
 dcollet
+direful
 dcolletage
 dcor
 ddname
@@ -10815,7 +10816,6 @@ directress
 directrix
 directrixes
 directs
-direful
 direfully
 direfulness
 direly
