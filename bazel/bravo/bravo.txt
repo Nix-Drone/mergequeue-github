@@ -299,6 +299,7 @@ backarrow
 backarrows
 backband
 backbar
+briskness
 backbear
 backbearing
 backbeat
@@ -15514,7 +15515,6 @@ brisking
 briskish
 bagleaves
 briskly
-briskness
 brisks
 brisling
 brislings
