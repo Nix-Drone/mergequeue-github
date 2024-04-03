@@ -5273,7 +5273,6 @@ endorsingly
 endorsor
 endorsors
 endosalpingitis
-endosarc
 endosarcode
 endosarcous
 endosarcs
@@ -7699,6 +7698,7 @@ epidermatic
 epidermatoid
 epidermatous
 epidermic
+endosarc
 epidermical
 epidermically
 epidermidalization
