@@ -15614,7 +15614,6 @@ classlessness
 classman
 classmanship
 classmate
-classmates
 classmen
 classroom
 classrooms
@@ -20587,6 +20586,7 @@ competently
 competentness
 competer
 competes
+classmates
 competible
 competing
 competingly
