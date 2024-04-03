@@ -5621,7 +5621,6 @@ flick
 flicked
 flicker
 flickered
-flickery
 flickering
 flickeringly
 flickermouse
@@ -6031,6 +6030,7 @@ flopover
 flopovers
 flopped
 flopper
+flickery
 floppers
 floppy
 floppier
