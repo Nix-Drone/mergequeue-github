@@ -7314,7 +7314,6 @@ detonative
 detonator
 detonators
 detonize
-detorsion
 detort
 detour
 detoured
@@ -12825,6 +12824,7 @@ disorganize
 disorganized
 disorganizer
 disorganizers
+detorsion
 disorganizes
 disorganizing
 disorient
