@@ -2375,7 +2375,6 @@ electroencephalograph
 electroencephalography
 electroencephalographic
 electroencephalographical
-electroencephalographically
 electroencephalographs
 electroendosmose
 electroendosmosis
@@ -11678,6 +11677,7 @@ evovae
 evulgate
 evulgation
 evulge
+electroencephalographically
 evulse
 evulsion
 evulsions
