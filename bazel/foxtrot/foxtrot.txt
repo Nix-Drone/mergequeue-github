@@ -5270,7 +5270,6 @@ flavius
 flavo
 flavobacterium
 flavone
-flavones
 flavonoid
 flavonol
 flavonols
@@ -10998,6 +10997,7 @@ fumage
 fumagine
 fumago
 fumant
+flavones
 fumarase
 fumarases
 fumarate
