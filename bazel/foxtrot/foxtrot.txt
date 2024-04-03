@@ -4258,7 +4258,6 @@ fireplow
 fireplug
 fireplugs
 firepot
-firepower
 fireproof
 fireproofed
 fireproofing
@@ -4855,6 +4854,7 @@ flagrate
 flagroot
 flags
 flagship
+firepower
 flagships
 flagstaff
 flagstaffs
