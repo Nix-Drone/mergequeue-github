@@ -17339,7 +17339,6 @@ apophonia
 apophonic
 apophonies
 apophorometer
-apophthegm
 apophthegmatic
 apophthegmatical
 apophthegmatist
@@ -25266,6 +25265,7 @@ azlons
 azo
 azobacter
 azobenzene
+apophthegm
 azobenzil
 azobenzoic
 azobenzol
