@@ -13754,7 +13754,6 @@ distending
 distends
 distensibility
 distensibilities
-distensible
 distensile
 distension
 distensions
@@ -14252,6 +14251,7 @@ divergence
 divergences
 divergency
 divergencies
+distensible
 divergenge
 divergent
 divergently
