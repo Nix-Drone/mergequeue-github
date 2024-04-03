@@ -1508,7 +1508,6 @@ deactivators
 dead
 deadbeat
 deadbeats
-deadborn
 deadcenter
 deadeye
 deadeyes
@@ -15986,6 +15985,7 @@ doublehung
 doubleyou
 doubleleaf
 doublelunged
+deadborn
 doubleness
 doubleprecision
 doubler
