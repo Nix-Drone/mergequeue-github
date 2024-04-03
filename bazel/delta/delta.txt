@@ -2005,7 +2005,6 @@ decay
 decayable
 decayed
 decayedness
-decayer
 decayers
 decaying
 decayless
@@ -13108,6 +13107,7 @@ dyspneic
 dyspnoea
 dyspnoeal
 dyspnoeas
+decayer
 dyspnoeic
 dyspnoi
 dyspnoic
