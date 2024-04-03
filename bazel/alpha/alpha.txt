@@ -18849,6 +18849,7 @@ archery
 archeries
 archers
 archership
+autoagglutination
 arches
 archespore
 archespores
@@ -23840,7 +23841,6 @@ autoactivation
 autoactive
 autoaddress
 autoagglutinating
-autoagglutination
 autoagglutinin
 autoalarm
 autoalkylation
