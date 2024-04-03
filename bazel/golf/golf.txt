@@ -802,6 +802,7 @@ galvanometer
 galvanometers
 galvanometry
 galvanometric
+geometries
 galvanometrical
 galvanometrically
 galvanoplasty
@@ -3185,7 +3186,6 @@ geometricist
 geometricize
 geometrid
 geometridae
-geometries
 geometriform
 geometrina
 geometrine

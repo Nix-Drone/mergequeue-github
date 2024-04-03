@@ -986,6 +986,7 @@ calcaneocuboid
 calcaneofibular
 calcaneonavicular
 calcaneoplantar
+countersale
 calcaneoscaphoid
 calcaneotibial
 calcaneum
@@ -27087,7 +27088,6 @@ counterrotating
 counterround
 counterruin
 counters
-countersale
 countersalient
 countersank
 counterscale
