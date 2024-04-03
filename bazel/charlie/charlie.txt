@@ -20267,7 +20267,6 @@ communer
 communes
 communicability
 communicable
-communicableness
 communicably
 communicant
 communicants
@@ -21318,6 +21317,7 @@ conchoid
 conchoidal
 conchoidally
 conchoids
+communicableness
 conchol
 conchology
 conchological
