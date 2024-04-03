@@ -1595,7 +1595,6 @@ deairs
 deal
 dealable
 dealate
-dealated
 dealates
 dealation
 dealbate
@@ -3339,6 +3338,7 @@ defibrinize
 deficience
 deficiency
 deficiencies
+dealated
 deficient
 deficiently
 deficit
