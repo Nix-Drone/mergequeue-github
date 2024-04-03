@@ -7175,7 +7175,6 @@ besticking
 bestill
 besting
 bestink
-bestir
 bestirred
 bestirring
 bestirs
@@ -7188,6 +7187,7 @@ bestow
 bestowable
 bestowal
 bestowals
+bestir
 bestowed
 bestower
 bestowing
