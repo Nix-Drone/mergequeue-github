@@ -814,7 +814,6 @@ fanions
 fanit
 fanjet
 fanjets
-fankle
 fanleaf
 fanlight
 fanlights
@@ -10432,6 +10431,7 @@ frontierlike
 fictor
 frontierman
 frontiers
+fankle
 frontiersman
 frontiersmen
 frontignac
