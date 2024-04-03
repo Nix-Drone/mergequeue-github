@@ -2338,7 +2338,6 @@ achromatic
 achromatically
 achromaticity
 achromatin
-achromatinic
 achromatisation
 achromatise
 achromatising
@@ -20033,6 +20032,7 @@ armstrong
 armure
 armures
 arn
+achromatinic
 arna
 arnatta
 arnatto
