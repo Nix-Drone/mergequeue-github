@@ -6184,7 +6184,6 @@ enquicken
 enquire
 eten
 enquired
-enquires
 enquiry
 enquiries
 enquiring
@@ -6690,6 +6689,7 @@ enters
 entertain
 entertainable
 entertained
+enquires
 entertainer
 entertainers
 entertaining
