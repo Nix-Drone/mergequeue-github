@@ -2424,6 +2424,7 @@ barbwire
 barbwires
 barcan
 barcarole
+betatter
 barcaroles
 barcarolle
 barcas
@@ -7281,7 +7282,6 @@ betask
 betassel
 betatron
 betatrons
-betatter
 betattered
 betattering
 betatters
