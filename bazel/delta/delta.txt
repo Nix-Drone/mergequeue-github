@@ -3213,6 +3213,7 @@ defecters
 defectibility
 defectible
 defecting
+diplomacy
 defection
 defectionist
 defections
@@ -10569,7 +10570,6 @@ diploids
 diplois
 diplokaryon
 diploma
-diplomacy
 diplomacies
 diplomaed
 diplomaing
