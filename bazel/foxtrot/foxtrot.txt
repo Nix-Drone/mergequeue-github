@@ -358,7 +358,6 @@ faineants
 fainer
 fainest
 fainly
-fainness
 fains
 faint
 fainted
@@ -1783,6 +1782,7 @@ featness
 featous
 feats
 featural
+fainness
 featurally
 feature
 featured
