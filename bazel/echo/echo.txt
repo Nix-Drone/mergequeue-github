@@ -3137,7 +3137,6 @@ elsholtzia
 elsin
 elt
 eltime
-eltrot
 eluant
 eluants
 eluate
@@ -3673,6 +3672,7 @@ embryotomies
 embryotroph
 embryotrophe
 embryotrophy
+eltrot
 embryotrophic
 embryous
 embrittle
