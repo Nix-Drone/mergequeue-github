@@ -11,9 +11,9 @@ flake_rate = 0.25
 sleep_for = "25m"
 
 [pullrequest]
-labels = "bot-pr"       # label to apply to pull request on creation (comma separated list)
+labels = "bot-pr"     # label to apply to pull request on creation (comma separated list)
 comment = ""
-requests_per_hour = 150 # target number of pull requests per hour
+requests_per_hour = 1 # target number of pull requests per hour
 
 # the max number of deps in this repo. setting to 3 for example will cause
 # files in alpha, bravo, charlie deps to be changed
@@ -23,7 +23,7 @@ max_deps = 7
 max_impacted_deps = 2
 
 # rate at which PRs should simulate a logical merge conflict and need to be rejected
-logical_conflict_rate = 0.01
+logical_conflict_rate = 0.80
 logical_conflict_file = "logical-conflict.txt"
 
 [merge]
