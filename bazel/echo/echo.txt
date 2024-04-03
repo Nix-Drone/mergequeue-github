@@ -10510,6 +10510,7 @@ etymologies
 etymologisable
 etymologise
 etymologised
+extraessentially
 etymologising
 etymologist
 etymologists
@@ -13832,7 +13833,6 @@ extraenteric
 extraepiphyseal
 extraequilibrium
 extraessential
-extraessentially
 extrafascicular
 extrafine
 extrafloral
