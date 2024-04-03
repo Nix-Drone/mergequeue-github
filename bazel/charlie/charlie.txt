@@ -5154,7 +5154,6 @@ cassidoine
 cassidony
 cassidulina
 cassiduloid
-cassiduloidea
 cassie
 cassiepeia
 cassimere
@@ -11070,6 +11069,7 @@ checksums
 chitin
 chitinization
 chitinized
+cassiduloidea
 chitinocalcareous
 chitinogenous
 chitinoid
