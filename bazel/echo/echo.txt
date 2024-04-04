@@ -5769,7 +5769,6 @@ engoument
 engr
 engrace
 engraced
-engraff
 engraffed
 engraffing
 engraft
@@ -6919,6 +6918,7 @@ entopterygoid
 entoptic
 entoptical
 entoptically
+engraff
 entoptics
 entoptoscope
 entoptoscopy
