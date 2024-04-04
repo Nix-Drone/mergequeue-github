@@ -12940,7 +12940,6 @@ angsts
 anguid
 anguidae
 anguiform
-anguilla
 anguillaria
 anguille
 anguillidae
@@ -19453,6 +19452,7 @@ argentarius
 argentate
 argentation
 argenteous
+anguilla
 argenter
 argenteum
 albolite
