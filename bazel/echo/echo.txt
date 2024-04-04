@@ -1375,7 +1375,6 @@ effleurage
 effloresce
 effloresced
 efflorescence
-efflorescency
 efflorescent
 effloresces
 efflorescing
@@ -8587,6 +8586,7 @@ equidiurnal
 equidivision
 equidominant
 equidurable
+efflorescency
 equielliptical
 equiexcellency
 equiformal
