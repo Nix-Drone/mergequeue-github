@@ -3216,7 +3216,6 @@ actinula
 actinulae
 action
 actionability
-actionable
 actionably
 actional
 assoc
@@ -13198,6 +13197,7 @@ animate
 animated
 animatedly
 animately
+actionable
 animateness
 animater
 animaters
