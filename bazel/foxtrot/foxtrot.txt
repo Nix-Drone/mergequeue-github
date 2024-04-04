@@ -1079,7 +1079,6 @@ farnesol
 farnesols
 farness
 farnesses
-farnovian
 faro
 faroeish
 faroelite
@@ -1265,6 +1264,7 @@ fastens
 faster
 fastest
 fastgoing
+farnovian
 fasthold
 fasti
 fastidiosity
