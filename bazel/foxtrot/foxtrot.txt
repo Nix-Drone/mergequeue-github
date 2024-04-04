@@ -3395,6 +3395,7 @@ fieldmice
 fieldmouse
 fieldpiece
 fieldpieces
+funebre
 fields
 fieldsman
 fieldsmen
@@ -11169,7 +11170,6 @@ funduline
 fundulus
 fundungi
 fundus
-funebre
 foederal
 funebrial
 funebrious
