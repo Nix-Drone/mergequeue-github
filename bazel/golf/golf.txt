@@ -795,7 +795,6 @@ galvanolysis
 gauily
 galvanology
 galvanologist
-galvanomagnet
 galvanomagnetic
 galvanomagnetism
 galvanometer
@@ -5885,6 +5884,7 @@ glossing
 glossingly
 glossiphonia
 glossiphonidae
+galvanomagnet
 glossist
 glossitic
 glossitis
