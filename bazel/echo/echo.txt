@@ -6994,7 +6994,6 @@ entreatable
 entreated
 entreater
 entreatful
-entreaty
 entreaties
 entreating
 entreatingly
@@ -7306,6 +7305,7 @@ eosaurus
 eoside
 eosin
 eosinate
+entreaty
 eosine
 eosines
 eosinic
