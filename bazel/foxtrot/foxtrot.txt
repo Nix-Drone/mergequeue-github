@@ -7435,7 +7435,6 @@ forbid
 forbidal
 forebodingly
 forbidals
-forbiddable
 forbiddal
 forbiddance
 forbidden
@@ -8798,6 +8797,7 @@ fortunetell
 fiscally
 fortuneteller
 fortunetellers
+forbiddable
 fortunetelling
 fortuning
 fortunite
