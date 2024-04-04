@@ -6668,7 +6668,6 @@ fluviovolcanic
 flux
 fluxation
 fluxed
-fluxer
 fluxes
 fluxgraph
 fluxibility
@@ -8290,6 +8289,7 @@ forgeries
 forgers
 forges
 forget
+fluxer
 forgetable
 forgetful
 forgetfully
