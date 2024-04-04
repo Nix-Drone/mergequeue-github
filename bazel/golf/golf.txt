@@ -2216,6 +2216,7 @@ gd
 gdinfo
 gds
 ge
+griffithite
 geadephaga
 geadephagous
 geal
@@ -8969,7 +8970,6 @@ griffinish
 griffinism
 griffins
 griffith
-griffithite
 griffon
 griffonage
 griffonne
