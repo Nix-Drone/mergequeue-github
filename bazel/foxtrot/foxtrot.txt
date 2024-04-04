@@ -3777,6 +3777,7 @@ filmcard
 filmcards
 filmdom
 filmdoms
+firebases
 filmed
 filmer
 filmet
@@ -4158,7 +4159,6 @@ fireback
 fireball
 fireballs
 firebase
-firebases
 firebed
 firebird
 firebirds
