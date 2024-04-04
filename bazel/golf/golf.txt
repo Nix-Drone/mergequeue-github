@@ -2241,7 +2241,6 @@ geanticlinal
 geanticline
 gear
 gearbox
-gearboxes
 gearcase
 gearcases
 geared
@@ -2802,6 +2801,7 @@ geniohyoid
 geniolatry
 genion
 genyophrynidae
+gearboxes
 genioplasty
 genyoplasty
 genip

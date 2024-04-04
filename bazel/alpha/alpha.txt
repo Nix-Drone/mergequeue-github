@@ -10385,7 +10385,6 @@ amicableness
 amicably
 amical
 amice
-amiced
 amices
 amici
 amicicide
@@ -21767,6 +21766,7 @@ assigns
 assilag
 assimilability
 assimilable
+amiced
 assimilate
 assimilated
 assimilates
