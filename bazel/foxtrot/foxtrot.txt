@@ -2611,7 +2611,6 @@ ferrocyanogen
 ferroconcrete
 ferroconcretor
 ferroelectric
-ferroelectrically
 ferroelectricity
 ferroglass
 ferrogoslarite
@@ -4222,6 +4221,7 @@ firefighting
 fireflaught
 firefly
 fireflies
+ferroelectrically
 fireflirt
 fireflower
 frizzlers
