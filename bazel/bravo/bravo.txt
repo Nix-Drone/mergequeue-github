@@ -5406,7 +5406,6 @@ behn
 behold
 beholdable
 beholden
-beholder
 beholders
 beholdingness
 beholds
@@ -15631,6 +15630,7 @@ broadgage
 broadhead
 broadhearted
 broadhorn
+beholder
 broadish
 broadleaf
 broadleaves
