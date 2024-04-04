@@ -8105,7 +8105,6 @@ diachoretic
 diachrony
 diachronic
 diachronically
-diachronicness
 diacid
 diacidic
 diacids
@@ -14404,6 +14403,7 @@ division
 dollop
 divisional
 divisionally
+diachronicness
 divisionary
 divisionist
 divisionistic
