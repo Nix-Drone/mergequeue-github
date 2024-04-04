@@ -3675,7 +3675,6 @@ adeniform
 adenyl
 adenylic
 adenylpyrophosphate
-adenyls
 adenin
 adenine
 adenitis
@@ -5904,6 +5903,7 @@ agast
 agastache
 agastreae
 agastric
+adenyls
 agastroneuria
 agata
 agate
