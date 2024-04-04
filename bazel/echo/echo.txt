@@ -6270,7 +6270,6 @@ enrolls
 enrolment
 enroot
 enrooted
-enrooting
 enroots
 encirclement
 enrough
@@ -7408,6 +7407,7 @@ epencephalic
 epencephalon
 epencephalons
 ependyma
+enrooting
 ependymal
 easternize
 ependymary
