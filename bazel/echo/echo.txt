@@ -2255,6 +2255,7 @@ electricize
 electrics
 electriferous
 electrify
+energumen
 electrifiable
 electrification
 electrified
@@ -5496,7 +5497,6 @@ energizer
 energizers
 energizes
 energizing
-energumen
 energumenon
 enervate
 enervated
