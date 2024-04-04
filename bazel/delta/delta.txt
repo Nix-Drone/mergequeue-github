@@ -8736,7 +8736,6 @@ diazoic
 diazoimide
 diazoimido
 diazole
-diazoles
 diazoma
 diazomethane
 diazonium
@@ -10582,6 +10581,7 @@ diplography
 diplographic
 diplographical
 diplohedral
+diazoles
 diplohedron
 diploic
 diploid
