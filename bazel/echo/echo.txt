@@ -293,6 +293,7 @@ eaten
 eater
 eatery
 eateries
+espousers
 eaters
 eath
 eathly
@@ -9780,7 +9781,6 @@ espouse
 espoused
 espousement
 espouser
-espousers
 espouses
 espousing
 espressivo

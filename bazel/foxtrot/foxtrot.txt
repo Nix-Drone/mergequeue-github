@@ -4208,7 +4208,6 @@ firedrake
 firefall
 firefang
 firefanged
-firefanging
 firefangs
 firefight
 firefighter
@@ -10614,6 +10613,7 @@ fructescent
 fructiculose
 fructicultural
 fructiculture
+firefanging
 fructidor
 fructiferous
 fructiferously
