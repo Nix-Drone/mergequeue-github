@@ -875,7 +875,6 @@ baggages
 baggala
 bagganet
 baggara
-bagge
 bagged
 bagger
 baggers
@@ -12219,6 +12218,7 @@ bolter
 bolters
 bolthead
 boltheader
+bagge
 boltheading
 boltheads
 bolthole
