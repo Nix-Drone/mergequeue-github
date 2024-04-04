@@ -6357,7 +6357,6 @@ ensigncy
 ensigncies
 ensigned
 ensignhood
-ensigning
 ephete
 ensignment
 ensignry
@@ -10781,6 +10780,7 @@ euglandina
 euglena
 euglenaceae
 euglenales
+ensigning
 euglenas
 euglenida
 euglenidae
