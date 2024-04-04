@@ -79,7 +79,6 @@ abalone
 abalones
 abama
 abamp
-abampere
 abamperes
 abamps
 aband
@@ -18222,6 +18221,7 @@ aquatints
 aquation
 aquativeness
 aquatone
+abampere
 aquatones
 aquavalent
 aquavit
