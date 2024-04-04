@@ -5371,7 +5371,6 @@ affirmer
 affirmers
 affirming
 affirmingly
-affirmly
 affirms
 affix
 affixable
@@ -17617,6 +17616,7 @@ appeasers
 appeases
 appeasing
 appeasingly
+affirmly
 appeasive
 appel
 appellability
