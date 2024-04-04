@@ -2148,7 +2148,6 @@ banqueteering
 banqueter
 banqueters
 banqueting
-banquetings
 banquets
 banquette
 banquettes
@@ -2357,6 +2356,7 @@ barbero
 barberry
 barberries
 barbers
+banquetings
 barbershop
 barbershops
 barbes
