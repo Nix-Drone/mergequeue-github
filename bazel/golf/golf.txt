@@ -2713,7 +2713,6 @@ generatrix
 generic
 generical
 generically
-genericalness
 genericness
 generics
 generification
@@ -10318,6 +10317,7 @@ guld
 gulden
 guldengroschen
 guldens
+genericalness
 gule
 gules
 gulf
