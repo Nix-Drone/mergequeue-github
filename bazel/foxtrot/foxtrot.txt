@@ -2595,7 +2595,6 @@ ferritization
 ferritungstite
 ferrivorous
 ferryway
-ferroalloy
 ferroaluminum
 ferrocalcite
 ferrocene
@@ -4179,6 +4178,7 @@ firebolt
 firebolted
 firebomb
 firebombed
+ferroalloy
 firebombing
 firebombs
 fireboot
