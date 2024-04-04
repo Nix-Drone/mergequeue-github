@@ -4667,7 +4667,6 @@ demiplate
 demipomada
 demipremise
 demipremiss
-demipriest
 demipronation
 demipuppet
 demiquaver
@@ -10998,6 +10997,7 @@ disagreed
 disagreeing
 disagreement
 disagreements
+demipriest
 disagreer
 disagrees
 disagreing
