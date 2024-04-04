@@ -3724,7 +3724,6 @@ battish
 battle
 battled
 battledore
-battledored
 battledores
 battledoring
 battlefield
@@ -9652,6 +9651,7 @@ bisme
 bismer
 bismerpund
 bismethyl
+battledored
 bismillah
 bismite
 booby
