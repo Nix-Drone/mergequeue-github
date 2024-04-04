@@ -1941,7 +1941,6 @@ gatekeepers
 gateless
 gatelike
 gatemaker
-gateman
 gatemen
 gatepost
 gateposts
@@ -7993,6 +7992,7 @@ grandnephew
 grandnephews
 grandness
 grandniece
+gateman
 grandnieces
 grandpa
 grandpap
