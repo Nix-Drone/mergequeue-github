@@ -1808,7 +1808,6 @@ gastrohyperneuria
 gastrohypertonic
 gastrohysterectomy
 gastrohysteropexy
-gastrohysterorrhaphy
 gastrohysterotomy
 gastroid
 gastrointestinal
@@ -5792,6 +5791,7 @@ glonoine
 glood
 gloom
 gloomed
+gastrohysterorrhaphy
 gloomful
 gloomfully
 gloomy
