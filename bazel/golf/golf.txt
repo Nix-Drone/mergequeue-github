@@ -249,7 +249,6 @@ gainage
 gainbirth
 gaincall
 gaincome
-gaincope
 gaine
 gained
 gainer
@@ -6113,6 +6112,7 @@ gluiness
 gluing
 gluish
 gluishness
+gaincope
 guardlike
 glum
 gluma
