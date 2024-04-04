@@ -1466,7 +1466,6 @@ garon
 garoo
 garookuh
 garote
-garoted
 garoter
 garotes
 garoting
@@ -5400,6 +5399,7 @@ glycaemic
 glycan
 glycans
 glycemia
+garoted
 glycemic
 glyceral
 glyceraldehyde
