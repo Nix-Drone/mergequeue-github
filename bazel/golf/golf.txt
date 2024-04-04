@@ -5544,7 +5544,6 @@ gliffs
 glike
 glykopectic
 glykopexic
-glim
 glime
 glimed
 glimes
@@ -9472,6 +9471,7 @@ groundout
 groundplot
 grounds
 gros
+glim
 groundsel
 groundsheet
 groundsill
