@@ -8628,7 +8628,6 @@ allelic
 allelism
 allelisms
 allelocatalytic
-allelomorph
 allelomorphic
 allelomorphism
 allelopathy
@@ -20665,6 +20664,7 @@ articulant
 articular
 articulare
 articulary
+allelomorph
 associate
 articularly
 articulars
