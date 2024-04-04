@@ -11145,7 +11145,6 @@ chivy
 chiviatite
 chivied
 chivies
-chivying
 chivvy
 chivvied
 chivvies
@@ -21984,6 +21983,7 @@ confining
 confinity
 confirm
 confirmability
+chivying
 confirmable
 confirmand
 confirmation
