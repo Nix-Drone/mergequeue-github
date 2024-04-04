@@ -16831,7 +16831,6 @@ aphidius
 aphidivorous
 aphidlion
 aphidolysin
-aphidophagous
 aphidozer
 aphydrotropic
 aphydrotropism
@@ -22059,6 +22058,7 @@ asthenies
 asthenobiosis
 asthenobiotic
 asthenolith
+aphidophagous
 asthenology
 asthenope
 abacate
