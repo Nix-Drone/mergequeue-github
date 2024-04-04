@@ -4963,6 +4963,7 @@ glaciaria
 glaciarium
 glaciate
 glaciated
+graphically
 glaciates
 glaciating
 glaciation
@@ -8187,7 +8188,6 @@ graphemics
 graphy
 graphic
 graphical
-graphically
 graphicalness
 graphicly
 graphicness
