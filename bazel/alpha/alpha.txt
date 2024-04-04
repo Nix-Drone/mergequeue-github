@@ -4139,7 +4139,6 @@ admirably
 admiral
 admirals
 admiralship
-admiralships
 admiralty
 admiralties
 admirance
@@ -5927,6 +5926,7 @@ agatoid
 agau
 agave
 agaves
+admiralships
 agavose
 agawam
 agaz
