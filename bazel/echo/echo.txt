@@ -2136,7 +2136,6 @@ elbert
 elboic
 elbow
 elbowboard
-elbowbush
 elbowchair
 elbowed
 elbower
@@ -2361,6 +2360,7 @@ electrodialyzer
 electrodynamic
 electrodynamical
 electrodynamics
+elbowbush
 electrodynamism
 electrodynamometer
 electrodiplomatic
