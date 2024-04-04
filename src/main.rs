@@ -35,7 +35,13 @@ fn get_txt_files() -> std::io::Result<Vec<PathBuf>> {
 
 fn housekeeping(config: &Conf) {
     for _ in 0..3 {
-        let json_str = gh(&["pr", "list", "--json", "number,mergeable,comments"]);
+        let json_str = gh(&[
+            "pr",
+            "list",
+            "--limit=1000",
+            "--json",
+            "number,mergeable,comments",
+        ]);
         let v: Value = serde_json::from_str(&json_str).expect("Failed to parse JSON");
 
         let mut has_unknown = false;
@@ -55,7 +61,10 @@ fn housekeeping(config: &Conf) {
                     }
                     "MERGEABLE" => {
                         if !requeued.contains(&pr)
-                            && comments.contains("removed from the merge queue")
+                            && (comments.contains("removed from the merge queue")
+                                || comments.contains(
+                                    "To merge this pull request, check the box to the left",
+                                ))
                         {
                             enqueue(&pr, config);
                             println!("requeued pr: {}", &pr);
