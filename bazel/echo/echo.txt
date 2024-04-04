@@ -3878,7 +3878,6 @@ emigrant
 eavesdrip
 emigrants
 emigrate
-emigrated
 emigrates
 emigrating
 emigration
@@ -9539,6 +9538,7 @@ eschevin
 eschew
 eschewal
 eschewals
+emigrated
 eschewance
 eschewed
 eschewer
