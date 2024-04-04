@@ -3972,7 +3972,6 @@ fineless
 finely
 finement
 fineness
-finenesses
 finer
 finery
 fineries
@@ -10369,6 +10368,7 @@ frolicly
 frolicness
 frolics
 frolicsome
+finenesses
 frolicsomely
 frolicsomeness
 from
