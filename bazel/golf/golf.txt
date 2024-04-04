@@ -3648,7 +3648,6 @@ getspa
 getspace
 getsul
 gnawingly
-gettable
 gettableness
 getter
 gettered
@@ -6497,6 +6496,7 @@ gobletful
 gastriloquous
 goblets
 goblin
+gettable
 gobline
 goblinesque
 goblinish
