@@ -2217,7 +2217,6 @@ baptismally
 baptisms
 baptist
 baptistery
-baptisteries
 baptistic
 baptistry
 baptistries
@@ -8596,6 +8595,7 @@ billheads
 billholder
 billhook
 billhooks
+baptisteries
 billy
 billian
 billiard
