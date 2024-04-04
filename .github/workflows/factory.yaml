@@ -8,7 +8,7 @@ on:
 jobs:
   create-pr:
     # needs: merge-pr
-    runs-on: [public-amd64-small]
+    runs-on: [ubicloud]
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
