@@ -834,7 +834,6 @@ ectocuniform
 ectodactylism
 ectoderm
 ectodermal
-ectodermic
 ectodermosis
 ectoderms
 ectoentad
@@ -8176,6 +8175,7 @@ epispinal
 episplenitis
 episporangium
 epispore
+ectodermic
 episporium
 epist
 epistapedial
