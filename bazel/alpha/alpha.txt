@@ -16829,7 +16829,6 @@ aphides
 aphidian
 aphidians
 aphidicide
-aphidicolous
 aphidid
 aphididae
 aphidiinae
@@ -21445,6 +21444,7 @@ aspheterism
 aspheterize
 asphyctic
 asphyctous
+aphidicolous
 asphyxy
 asphyxia
 asphyxial

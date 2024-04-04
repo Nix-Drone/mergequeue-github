@@ -2942,7 +2942,6 @@ gentlemanhood
 gentlemanism
 gentlemanize
 gentlemanly
-gentlemanlike
 gentlemanlikeness
 gentlemanliness
 gentlemanship
@@ -9776,6 +9775,7 @@ grx
 gs
 gt
 gtc
+gentlemanlike
 gtd
 gte
 gteau
