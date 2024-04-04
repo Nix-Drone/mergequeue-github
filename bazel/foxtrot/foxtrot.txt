@@ -841,7 +841,6 @@ fantail
 fantailed
 fantails
 fantaisie
-fantaseid
 fantasy
 fantasia
 fantasias
@@ -4954,6 +4953,7 @@ flamingo
 flamingoes
 flamingos
 flaminian
+fantaseid
 flaminica
 flaminical
 flamless
