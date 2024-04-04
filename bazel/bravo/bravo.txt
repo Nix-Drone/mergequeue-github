@@ -2088,7 +2088,6 @@ bankrupcy
 bankrupt
 bankruptcy
 bankruptcies
-bankrupted
 bankrupting
 bankruptism
 bankruptly
@@ -10907,6 +10906,7 @@ blizz
 blizzard
 blizzardy
 blizzardly
+bankrupted
 blizzardous
 blizzards
 blk
