@@ -6028,6 +6028,7 @@ agglomeration
 agglomerations
 agglomerative
 agglomerator
+autoing
 agglutinability
 agglutinable
 agglutinant
@@ -24116,7 +24117,6 @@ autoinduction
 autoinductive
 autoinfection
 autoinfusion
-autoing
 autoinhibited
 autoinoculable
 autoinoculation
