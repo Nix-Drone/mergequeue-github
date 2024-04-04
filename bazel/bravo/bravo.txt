@@ -8201,7 +8201,6 @@ byeworkman
 biface
 bifaces
 bifacial
-bifanged
 bifara
 bifarious
 bifariously
@@ -8894,6 +8893,7 @@ biochemically
 biochemics
 biochemist
 biochemistry
+bifanged
 biochemistries
 biochemists
 bandoras
