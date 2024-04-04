@@ -6877,7 +6877,6 @@ bescutcheon
 beseam
 besee
 beseech
-beseeched
 beseecher
 beseechers
 beseeches
@@ -17967,6 +17966,7 @@ bivium
 bushelers
 bushelful
 bushelfuls
+beseeched
 busheling
 bushelled
 busheller
