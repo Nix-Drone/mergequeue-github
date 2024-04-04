@@ -543,7 +543,6 @@ gallanted
 gallanting
 gallantize
 gallantly
-gallantness
 gallantry
 gallantries
 gallants
@@ -7691,6 +7690,7 @@ gradualism
 gradualist
 gradualistic
 graduality
+gallantness
 gradually
 gradualness
 graduand
