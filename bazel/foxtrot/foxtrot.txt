@@ -2994,7 +2994,6 @@ fg
 fgn
 fgrid
 fhrer
-fi
 fy
 fiacre
 fiacres
@@ -6277,6 +6276,7 @@ flubdub
 flubdubbery
 flubdubberies
 flubdubs
+fi
 flubs
 flucan
 fluctiferous
