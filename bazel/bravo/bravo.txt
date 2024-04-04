@@ -2544,7 +2544,6 @@ bargellos
 bargeload
 bargeman
 bargemaster
-bargemen
 bargepole
 booklice
 barger
@@ -3473,6 +3472,7 @@ batchers
 batches
 batching
 bate
+bargemen
 batea
 bateau
 bateaux
