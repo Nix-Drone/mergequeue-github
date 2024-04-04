@@ -7842,7 +7842,6 @@ foreleader
 foreleech
 foreleg
 forelegs
-forelimb
 forelimbs
 forelive
 forelock
@@ -8543,6 +8542,7 @@ formlessly
 formlessness
 formly
 formnail
+forelimb
 formol
 formolit
 formolite
