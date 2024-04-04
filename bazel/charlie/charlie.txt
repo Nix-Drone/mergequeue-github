@@ -6951,7 +6951,6 @@ censurers
 censureship
 censuring
 census
-censused
 censuses
 censusing
 cent
@@ -15529,6 +15528,7 @@ clarre
 clarsach
 clarseach
 clarsech
+censused
 clarseth
 clarshech
 clart
