@@ -6707,6 +6707,7 @@ entertainingness
 entertainment
 entertainments
 entertains
+epilogs
 entertake
 entertissue
 entete
@@ -7910,7 +7911,6 @@ epilogistic
 epilogize
 epilogized
 epilogizing
-epilogs
 epilogue
 epilogued
 epilogues
