@@ -5241,7 +5241,6 @@ afara
 afars
 afb
 afd
-afdecho
 afear
 afeard
 afeared
@@ -5707,6 +5706,7 @@ afterpotential
 afterpressure
 afterproof
 afterrake
+afdecho
 afterreckoning
 afterrider
 afterripening
