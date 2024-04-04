@@ -7553,6 +7553,7 @@ foreannouncement
 foreanswer
 foreappoint
 foreappointment
+fungate
 forearmed
 forearming
 forearms
@@ -11193,7 +11194,6 @@ fungaceous
 fungal
 fungales
 fungals
-fungate
 fungating
 fungation
 funge
