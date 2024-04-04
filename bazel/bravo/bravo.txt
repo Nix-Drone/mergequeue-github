@@ -6791,6 +6791,7 @@ berskin
 berstel
 bert
 bertat
+bugshas
 berteroa
 berth
 bertha
@@ -16912,7 +16913,6 @@ bugs
 bugseed
 bugseeds
 bugsha
-bugshas
 bugweed
 bugwort
 buhl
