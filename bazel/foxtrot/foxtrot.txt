@@ -7294,7 +7294,6 @@ footrail
 footrest
 footrests
 footrill
-footroom
 footrope
 footropes
 flacket
@@ -8976,6 +8975,7 @@ foun
 founce
 found
 foundation
+footroom
 foundational
 foundationally
 foundationary
