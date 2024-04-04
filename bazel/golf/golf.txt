@@ -6811,7 +6811,6 @@ gondi
 gondite
 gondola
 gondolas
-gondolet
 gondoletta
 gondolier
 gondoliere
@@ -8278,6 +8277,7 @@ grapsidae
 grapsoid
 grapsus
 grapta
+gondolet
 graptolite
 graptolitha
 graptolithida
