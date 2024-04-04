@@ -2905,7 +2905,6 @@ decurtate
 decurvation
 decurvature
 decurve
-decurved
 decurves
 decurving
 destinist
@@ -18543,6 +18542,7 @@ dustcloth
 dustcloths
 dustcoat
 dustcover
+decurved
 dusted
 dustee
 duster
