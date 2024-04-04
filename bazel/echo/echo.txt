@@ -8220,7 +8220,6 @@ epistolise
 epistolised
 epistolising
 epistolist
-epistolizable
 epistolization
 epistolize
 epistolized
@@ -8287,6 +8286,7 @@ epithecate
 epithecia
 epithecial
 epithecicia
+epistolizable
 epithecium
 epithelia
 epithelialize
