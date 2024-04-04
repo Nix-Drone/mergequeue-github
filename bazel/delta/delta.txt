@@ -4955,7 +4955,6 @@ demoted
 demotes
 demothball
 demotic
-demotics
 demoting
 demotion
 demotions
@@ -11510,6 +11509,7 @@ discommoned
 discommoning
 discommons
 discommune
+demotics
 discommunity
 discomorula
 discompanied
