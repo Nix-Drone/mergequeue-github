@@ -4230,7 +4230,6 @@ emprizes
 emprosthotonic
 emprosthotonos
 empt
-empty
 emptiable
 emptied
 enorthotrope
@@ -12826,6 +12825,7 @@ exosmic
 exosmose
 exosmoses
 exosmosis
+empty
 exosmotic
 esquamate
 exosperm
