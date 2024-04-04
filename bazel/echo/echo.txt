@@ -4812,6 +4812,7 @@ encounterable
 encountered
 encounterer
 erector
+entitlement
 encounterers
 encountering
 encounters
@@ -6799,7 +6800,6 @@ emetin
 entitle
 entitled
 entitledness
-entitlement
 entitles
 enriched
 entitling
