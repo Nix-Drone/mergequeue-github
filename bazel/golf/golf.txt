@@ -5525,7 +5525,6 @@ gliddery
 glide
 glided
 glideless
-glideness
 glider
 gliderport
 gliders
@@ -9873,6 +9872,7 @@ guanins
 guanize
 guano
 geodesic
+glideness
 guanophore
 guanos
 guanosine
