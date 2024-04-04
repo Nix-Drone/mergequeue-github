@@ -955,6 +955,7 @@ farcetta
 farceur
 farceurs
 farceuse
+furnisher
 farceuses
 farci
 farcy
@@ -11442,7 +11443,6 @@ furner
 furnish
 furnishable
 furnished
-furnisher
 furnishes
 furnishing
 furnishings
