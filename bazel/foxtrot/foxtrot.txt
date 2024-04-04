@@ -4638,6 +4638,7 @@ frosteds
 fiver
 fives
 fivescore
+fm
 fivesome
 fivestones
 fivish
@@ -6681,7 +6682,6 @@ fluxive
 fluxmeter
 fluxroot
 fluxure
-fm
 fmt
 fn
 fnese
