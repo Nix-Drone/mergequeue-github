@@ -2296,7 +2296,6 @@ electrocapillarity
 electrocardiogram
 electrocardiograms
 electrocardiograph
-electrocardiography
 electrocardiographic
 electrocardiographically
 electrocardiographs
@@ -11308,6 +11307,7 @@ evaluation
 evaluations
 evaluative
 evaluator
+electrocardiography
 evaluators
 evalue
 evan
