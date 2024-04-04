@@ -8187,7 +8187,6 @@ episteme
 epistemic
 epistemically
 epistemolog
-epistemological
 epistemologically
 epistemologist
 epistemonic
@@ -12614,6 +12613,7 @@ existing
 existless
 existlessness
 exists
+epistemological
 exit
 exitance
 exite
