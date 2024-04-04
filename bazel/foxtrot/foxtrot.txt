@@ -4982,7 +4982,6 @@ flang
 flange
 flanged
 flangeless
-flanger
 flangers
 flangeway
 flanging
@@ -6793,6 +6792,7 @@ foppishly
 foetus
 foetuses
 fofarraw
+flanger
 fog
 fogas
 fogbank
