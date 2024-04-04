@@ -2940,7 +2940,6 @@ fleches
 feulamort
 feus
 feuter
-feuterer
 fever
 feverberry
 feverberries
@@ -8881,6 +8880,7 @@ fossilisable
 fossilisation
 fossilise
 fossilised
+feuterer
 fossilising
 fossilism
 fossilist
