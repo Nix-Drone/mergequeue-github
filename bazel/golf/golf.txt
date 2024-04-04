@@ -3647,6 +3647,7 @@ gets
 getspa
 getspace
 getsul
+gnawingly
 gettable
 gettableness
 getter
@@ -6305,7 +6306,6 @@ gnawable
 gnawed
 gnawer
 gnawing
-gnawingly
 gnawings
 gnawn
 gnaws
