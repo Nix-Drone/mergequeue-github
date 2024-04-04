@@ -55,6 +55,7 @@ cabbages
 cabbagetown
 cabbagewood
 cabbageworm
+corrosion
 cabbagy
 cabbaging
 cabbala
@@ -25776,7 +25777,6 @@ corrodies
 corroding
 corrosibility
 corrosibleness
-corrosion
 corrosional
 corrosionproof
 corrosive
