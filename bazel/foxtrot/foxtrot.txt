@@ -3411,6 +3411,7 @@ fieldstone
 fieldstrip
 fieldward
 fieldwork
+fulmine
 fieldworker
 fieldwort
 fiend
@@ -10968,7 +10969,6 @@ fulminations
 fulminator
 flavous
 fulminatory
-fulmine
 fulmined
 fulminic
 fulmining
