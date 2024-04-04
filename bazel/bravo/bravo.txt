@@ -1262,7 +1262,6 @@ balanceman
 balancement
 balancer
 balancers
-balances
 balancewise
 balancing
 balander
@@ -6434,6 +6433,7 @@ benzothiazoline
 benzothiodiazole
 benzothiofuran
 benzothiophene
+balances
 benzothiopyran
 benzotoluide
 believableness
