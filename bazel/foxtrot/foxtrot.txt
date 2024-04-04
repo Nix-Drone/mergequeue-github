@@ -4826,7 +4826,6 @@ flagmaking
 flagman
 flagmen
 flagon
-flagonet
 flagonless
 flagons
 frontspiece
@@ -7643,6 +7642,7 @@ foreconscious
 foreconsent
 foreconsider
 forecontrive
+flagonet
 forecool
 forecooler
 forecount
