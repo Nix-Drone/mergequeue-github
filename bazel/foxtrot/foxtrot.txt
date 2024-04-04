@@ -8138,6 +8138,7 @@ foreswear
 foreswearing
 foresweat
 foreswore
+fumacious
 foresworn
 foret
 foretack
@@ -11234,7 +11235,6 @@ fungo
 fungoes
 fungoid
 fungoidal
-fumacious
 fungoids
 fungology
 fungological
