@@ -4792,7 +4792,6 @@ encommon
 encompany
 encompass
 encompassed
-encompasser
 encompasses
 encompassing
 encompassment
@@ -6612,6 +6611,7 @@ enterogram
 enterograph
 enterography
 enterohelcosis
+encompasser
 enterohemorrhage
 enterohepatitis
 enterohydrocele
