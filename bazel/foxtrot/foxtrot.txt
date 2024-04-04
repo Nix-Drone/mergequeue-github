@@ -633,7 +633,6 @@ falsum
 faltboat
 faltboats
 faltche
-falter
 faltere
 faltered
 falterer
@@ -4678,6 +4677,7 @@ fixidity
 fixing
 fixings
 fixion
+falter
 fixity
 fixities
 fixive
