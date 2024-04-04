@@ -3922,7 +3922,6 @@ emittance
 emitted
 emittent
 emitter
-emitters
 emitting
 emlen
 emm
@@ -6421,6 +6420,7 @@ ensophic
 ensorcel
 ensorceled
 ensorceling
+emitters
 ensorcelize
 ensorcell
 ensorcellment
