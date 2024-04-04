@@ -5124,6 +5124,7 @@ glance
 glanced
 glancer
 glances
+guaxima
 glancing
 glancingly
 gland
@@ -9982,7 +9983,6 @@ guava
 guavaberry
 guavas
 guavina
-guaxima
 guaza
 guazuma
 guazuti
