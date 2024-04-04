@@ -5022,7 +5022,6 @@ aeromaechanic
 aeromagnetic
 aeromancer
 aeromancy
-aeromantic
 aeromarine
 aeromechanic
 aeromechanical
@@ -23069,6 +23068,7 @@ atticist
 atticists
 atticize
 atticized
+aeromantic
 atticizing
 atticomastoid
 attics
