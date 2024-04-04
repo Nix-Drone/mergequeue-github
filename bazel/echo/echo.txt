@@ -2034,7 +2034,6 @@ elaioleucite
 elaioplast
 elaiosome
 elamite
-elamitic
 elamitish
 elamp
 elan
@@ -5347,6 +5346,7 @@ euchite
 endothecia
 endothecial
 endothecium
+elamitic
 endothelia
 endothelial
 endothelioblastoma
