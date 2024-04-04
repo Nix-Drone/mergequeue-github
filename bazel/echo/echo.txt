@@ -1141,7 +1141,6 @@ edplot
 edriasteroidea
 edrioasteroid
 edrioasteroidea
-edriophthalma
 edriophthalmatous
 edriophthalmian
 edriophthalmic
@@ -9105,6 +9104,7 @@ erythrine
 erythrinidae
 erythrinus
 erythrism
+edriophthalma
 erythristic
 erythrite
 erythritic
