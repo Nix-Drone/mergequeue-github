@@ -10628,6 +10628,7 @@ blendes
 blending
 blends
 blendure
+buffaloed
 blendwater
 blenheim
 blenk
@@ -16789,7 +16790,6 @@ buffability
 buffable
 buffalo
 buffaloback
-buffaloed
 buffaloes
 buffalofish
 buffalofishes
