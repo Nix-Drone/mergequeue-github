@@ -6967,7 +6967,6 @@ airscrew
 airscrews
 airshed
 airsheds
-airship
 airships
 airsick
 airsickness
@@ -17480,6 +17479,7 @@ apothecial
 apothecium
 autocriticism
 apothegm
+airship
 apothegmatic
 apothegmatical
 apothegmatically
