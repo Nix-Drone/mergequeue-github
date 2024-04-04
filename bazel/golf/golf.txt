@@ -1806,6 +1806,7 @@ gastrohysterotomy
 gastroid
 gastrointestinal
 gastrojejunal
+grassquit
 gastrojejunostomy
 gastrojejunostomies
 gastrolater
@@ -8335,7 +8336,6 @@ grassmen
 grassnut
 grassplat
 grassplot
-grassquit
 grassroots
 grasswards
 grassweed
