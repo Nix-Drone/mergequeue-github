@@ -7460,7 +7460,6 @@ ceratodidae
 ceratodontidae
 ceratodus
 ceratoduses
-ceratofibrous
 ceratoglossal
 ceratoglossus
 ceratohyal
@@ -31875,6 +31874,7 @@ cuttle
 cuttlebone
 cuttlebones
 cuttled
+ceratofibrous
 cuttlefish
 cuttlefishes
 cuttler
