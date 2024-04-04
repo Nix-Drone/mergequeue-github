@@ -2281,7 +2281,6 @@ electrobath
 electrobiological
 electrobiologically
 electrobiologist
-electrobioscopy
 electroblasting
 electrobrasser
 electrobus
@@ -4449,6 +4448,7 @@ enc
 encadre
 encaenia
 encage
+electrobioscopy
 encaged
 encages
 encaging
