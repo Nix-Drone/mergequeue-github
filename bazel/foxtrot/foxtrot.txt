@@ -4234,6 +4234,7 @@ firemaster
 firemen
 firepan
 firepans
+fragmentize
 firepink
 firepinks
 fireplace
@@ -9285,7 +9286,6 @@ fragmentising
 fragmentist
 fragmentitious
 fragmentization
-fragmentize
 fragmentized
 fragmentizer
 fragmentizing
