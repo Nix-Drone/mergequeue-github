@@ -11342,7 +11342,6 @@ bluepoint
 bluepoints
 blueprint
 blueprinted
-blueprinter
 blueprinting
 blueprints
 bluer
@@ -12315,6 +12314,7 @@ bombyxes
 bomble
 bombline
 bombload
+blueprinter
 bergeres
 bombloads
 bombo
