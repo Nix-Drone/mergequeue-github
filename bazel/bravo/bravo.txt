@@ -1264,7 +1264,6 @@ balanceman
 balancement
 balancer
 balancers
-balancewise
 balancing
 balander
 balandra
@@ -6388,6 +6387,7 @@ benzofuryl
 benzofuroquinoxaline
 benzoglycolic
 benzoglyoxaline
+balancewise
 benzohydrol
 benzoic
 benzoid
