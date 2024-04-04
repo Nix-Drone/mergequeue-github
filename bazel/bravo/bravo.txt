@@ -2039,7 +2039,6 @@ banish
 banished
 banisher
 banishers
-banishes
 banishing
 banishment
 banister
@@ -8164,6 +8163,7 @@ bielenite
 bielid
 bielorouss
 byelorussia
+banishes
 byelorussian
 byelorussians
 byeman
