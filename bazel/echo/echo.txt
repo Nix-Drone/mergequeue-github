@@ -706,7 +706,6 @@ economy
 economic
 economical
 economically
-economicalness
 economics
 economies
 economise
@@ -1097,6 +1096,7 @@ edile
 ediles
 edility
 edinburgh
+economicalness
 edingtonite
 edison
 edit
