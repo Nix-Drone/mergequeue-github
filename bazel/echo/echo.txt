@@ -6227,7 +6227,6 @@ enregistration
 enregistry
 enrib
 enrich
-enriched
 enrichener
 enricher
 enrichers
@@ -6803,6 +6802,7 @@ entitled
 entitledness
 entitlement
 entitles
+enriched
 entitling
 entitule
 entoblast
