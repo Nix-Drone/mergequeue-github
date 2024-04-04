@@ -3921,7 +3921,6 @@ bazoos
 bazzite
 bb
 bbl
-bbls
 bbs
 bcd
 bcf
@@ -4651,6 +4650,7 @@ bedeviled
 bedeviling
 bedevilled
 bedevilling
+bbls
 bedevilment
 bedevils
 bedew
