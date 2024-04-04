@@ -8169,7 +8169,6 @@ chains
 chainsman
 chainsmen
 chainsmith
-chainstitch
 chainwale
 chainwork
 chayota
@@ -18278,6 +18277,7 @@ cogitable
 cogitabund
 cogitabundity
 cogitabundly
+chainstitch
 cogitabundous
 cogitant
 cogitantly
