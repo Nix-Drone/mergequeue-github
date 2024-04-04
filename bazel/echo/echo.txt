@@ -5483,7 +5483,6 @@ energico
 energid
 energids
 energies
-energise
 energised
 energiser
 energises
@@ -13580,6 +13579,7 @@ extent
 extentions
 extents
 extenuate
+energise
 extenuated
 extenuates
 extenuating

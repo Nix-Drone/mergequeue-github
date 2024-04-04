@@ -2664,7 +2664,6 @@ ferthumlungur
 fertil
 fertile
 fertilely
-fertileness
 fertilisability
 fertilisable
 figurehead
@@ -8725,6 +8724,7 @@ forthrightness
 forthset
 forthtell
 forthteller
+fertileness
 forthward
 forthwith
 forty
