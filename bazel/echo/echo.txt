@@ -4038,7 +4038,6 @@ empanels
 empannel
 empanoply
 empaper
-emparadise
 emparchment
 empark
 emparl
@@ -12745,6 +12744,7 @@ exonerator
 exonerators
 exoneretur
 excluded
+emparadise
 exoneural
 exonian
 exonym
