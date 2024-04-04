@@ -12229,7 +12229,6 @@ excurrent
 excurse
 excursed
 excursing
-excursion
 excursional
 excursionary
 excursioner
@@ -12564,6 +12563,7 @@ exilarch
 exilarchate
 exile
 exiled
+excursion
 exiledom
 exilement
 exiler
