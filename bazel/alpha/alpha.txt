@@ -9170,7 +9170,6 @@ almsmen
 almsmoney
 almswoman
 almswomen
-almucantar
 almuce
 almuces
 almud
@@ -16067,6 +16066,7 @@ antireligionist
 antireligiosity
 antireligious
 antireligiously
+almucantar
 antiremonstrant
 antirennet
 antirennin
