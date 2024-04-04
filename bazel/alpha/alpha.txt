@@ -5392,7 +5392,6 @@ affixer
 affixers
 affixes
 affixial
-affixing
 affixion
 affixment
 affixt
@@ -21607,6 +21606,7 @@ assaults
 assausive
 assaut
 assbaa
+affixing
 asse
 asseal
 assecuration
