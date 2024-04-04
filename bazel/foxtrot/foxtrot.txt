@@ -3647,7 +3647,6 @@ fileting
 filets
 fylfot
 fylfots
-fylgja
 fylgjur
 fili
 filial
@@ -10092,6 +10091,7 @@ frigidly
 flemished
 frigidness
 frigidoreceptor
+fylgja
 frigiferous
 frigolabile
 frigor

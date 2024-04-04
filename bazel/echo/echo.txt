@@ -7592,7 +7592,6 @@ epicentrums
 exr
 epicerastic
 epiceratodus
-epicerebral
 epicheirema
 epicheiremata
 epichil
@@ -8797,6 +8796,7 @@ eradiate
 eradiated
 eradiates
 exhedra
+epicerebral
 eradiating
 eradiation
 eradicable
