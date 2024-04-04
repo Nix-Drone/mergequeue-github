@@ -6309,6 +6309,7 @@ benzaldoxime
 benzalethylamine
 benzalhydrazine
 benzalphenylhydrazone
+bugseeds
 benzalphthalide
 benzamide
 benzamido
@@ -16911,7 +16912,6 @@ bugproof
 bugre
 bugs
 bugseed
-bugseeds
 bugsha
 bugweed
 bugwort
