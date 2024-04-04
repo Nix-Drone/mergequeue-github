@@ -2547,6 +2547,7 @@ booklice
 barger
 barges
 bargestone
+brevets
 bargh
 bargham
 barghest
@@ -15043,7 +15044,6 @@ brevetcies
 brevete
 breveted
 breveting
-brevets
 brevetted
 brevi
 breviary
