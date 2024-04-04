@@ -3392,7 +3392,6 @@ fieldmouse
 fieldpiece
 fieldpieces
 funebre
-fields
 fieldsman
 fieldsmen
 fieldstone
@@ -8683,6 +8682,7 @@ forswat
 forswear
 forswearer
 forswearing
+fields
 forswears
 forswore
 forswornness
