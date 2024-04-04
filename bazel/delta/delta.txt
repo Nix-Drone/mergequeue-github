@@ -3243,7 +3243,6 @@ defenestrates
 defenestrating
 defenestration
 defensative
-defense
 defensed
 defenseless
 defenselessly
@@ -4010,6 +4009,7 @@ delectability
 delectable
 delectableness
 delectably
+defense
 delectate
 delectated
 delectating
