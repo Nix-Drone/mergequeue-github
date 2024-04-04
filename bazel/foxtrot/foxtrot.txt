@@ -3861,6 +3861,7 @@ filtrates
 filtrating
 filtre
 filum
+fizzer
 fimble
 fimbria
 fimbriae
@@ -4686,7 +4687,6 @@ fauxbourdon
 fizgigs
 fizz
 fizzed
-fizzer
 fizzers
 fizzy
 fizzier
