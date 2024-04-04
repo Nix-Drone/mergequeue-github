@@ -5146,7 +5146,6 @@ glands
 glandula
 glandular
 glandularly
-glandulation
 glandule
 glandules
 glanduliferous
@@ -10162,6 +10161,7 @@ guidances
 guide
 guideboard
 guidebook
+glandulation
 guidebooky
 guidebookish
 guidebooks
