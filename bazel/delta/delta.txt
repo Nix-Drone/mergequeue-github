@@ -1494,6 +1494,7 @@ deaconship
 deactivate
 deactivated
 deactivates
+discontinuing
 deactivating
 deactivation
 deactivations
@@ -11589,7 +11590,6 @@ discontinued
 discontinuee
 discontinuer
 discontinues
-discontinuing
 dreamlessness
 discontinuity
 discontinuities
