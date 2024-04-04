@@ -2601,7 +2601,6 @@ electrosynthetically
 electrosmosis
 electrostatic
 electrostatical
-electrostatically
 electrostatics
 electrosteel
 electrostenolysis
@@ -9500,6 +9499,7 @@ escars
 escarteled
 escartelly
 eschalot
+electrostatically
 eschalots
 eschar
 eschara
