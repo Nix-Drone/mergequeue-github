@@ -7051,7 +7051,6 @@ centilitre
 centillion
 centillionth
 centiloquy
-centime
 centimes
 centimeter
 centimeters
@@ -18301,6 +18300,7 @@ cogman
 cogmen
 chenevixite
 cognac
+centime
 cognacs
 cognate
 cognately
