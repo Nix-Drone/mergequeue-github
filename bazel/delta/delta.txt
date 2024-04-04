@@ -2297,7 +2297,6 @@ decephalization
 decephalize
 deceptibility
 deceptible
-deception
 deceptional
 deceptions
 deceptious
@@ -18321,6 +18320,7 @@ duopolies
 duopolist
 duopolistic
 duopsony
+deception
 duopsonies
 duopsonistic
 duos
