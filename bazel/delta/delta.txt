@@ -5120,7 +5120,6 @@ dendrodont
 dendrodra
 dendroeca
 dendrogaea
-dendrograph
 dendrohyrax
 dendroica
 dendroid
@@ -11632,6 +11631,7 @@ discoplacentalia
 discoplacentalian
 discoplasm
 discopodous
+dendrograph
 discord
 discordable
 discordance
