@@ -6078,7 +6078,6 @@ glucosine
 glucosone
 glucosulfone
 glucosuria
-glucosuric
 glucuronic
 glucuronidase
 glucuronide
@@ -8723,6 +8722,7 @@ greenrooms
 greens
 greensand
 greensauce
+glucosuric
 greenshank
 greensick
 greensickness
