@@ -5511,7 +5511,6 @@ deoxidiser
 deoxidising
 deoxidization
 deoxidize
-deoxidized
 deoxidizer
 deoxidizers
 deoxidizes
@@ -8489,6 +8488,7 @@ diaphanometer
 diaphanometry
 diaphanometric
 diaphanoscope
+deoxidized
 diaphanotype
 diaphanous
 diaclasite
