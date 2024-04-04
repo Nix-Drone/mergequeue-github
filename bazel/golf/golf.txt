@@ -5670,7 +5670,6 @@ globalize
 globalized
 globalizing
 globally
-globate
 globated
 globe
 globed
@@ -8804,6 +8803,7 @@ gregorianize
 gregos
 grey
 greyback
+globate
 gamine
 greybeard
 greycoat
