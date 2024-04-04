@@ -4145,6 +4145,7 @@ admiration
 admirations
 admirative
 admiratively
+atomise
 admirator
 admire
 admired
@@ -22729,7 +22730,6 @@ atomics
 atomies
 atomiferous
 atomisation
-atomise
 atomised
 atomises
 atomising
