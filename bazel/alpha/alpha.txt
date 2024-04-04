@@ -2477,7 +2477,6 @@ acylamido
 acylamidobenzene
 acylamino
 acylase
-acylate
 acylated
 acylates
 acylating
@@ -23519,6 +23518,7 @@ aureolas
 aureole
 aureoled
 aureoles
+acylate
 aureolin
 aureoline
 aureoling
