@@ -5971,7 +5971,6 @@ catoblepas
 catocala
 catocalid
 catocarthartic
-catocathartic
 catochus
 catoctin
 catodon
@@ -14348,6 +14347,7 @@ circumnavigable
 circumnavigate
 circumnavigated
 circumnavigates
+catocathartic
 circumnavigating
 circumnavigation
 circumnavigations
