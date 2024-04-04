@@ -129,7 +129,6 @@ dactylologies
 dactylomegaly
 dactylonomy
 dactylopatagium
-dactylopodite
 dactylopore
 dactylopteridae
 dactylopterus
@@ -6186,6 +6185,7 @@ dermal
 dermalgia
 dermalith
 dermamycosis
+dactylopodite
 dermamyiasis
 dermanaplasty
 dermapostasis
