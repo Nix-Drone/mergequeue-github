@@ -1455,7 +1455,6 @@ accentors
 accents
 accentuable
 accentual
-accentuality
 accentually
 accentuated
 accentuates
@@ -9158,6 +9157,7 @@ almoravide
 almoravides
 almose
 almost
+accentuality
 almous
 alms
 almsdeed
