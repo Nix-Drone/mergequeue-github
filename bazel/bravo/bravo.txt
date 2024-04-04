@@ -2830,6 +2830,7 @@ barosinusitus
 barosma
 barosmin
 barostat
+bruta
 baroswitch
 barotactic
 barotaxy
@@ -16424,7 +16425,6 @@ brustled
 brustling
 brusure
 brut
-bruta
 brutage
 brutal
 brutalisation
