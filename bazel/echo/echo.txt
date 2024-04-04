@@ -1916,7 +1916,6 @@ etrogs
 ejectamenta
 ejected
 endomyces
-ejectee
 entailers
 ejecting
 ejection
@@ -13080,6 +13079,7 @@ empressement
 experimenter
 experimenters
 experimenting
+ejectee
 experimentist
 experimentize
 experimently
