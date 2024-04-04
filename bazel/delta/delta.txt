@@ -825,7 +825,6 @@ danger
 dangered
 dangerful
 dangerfully
-dangering
 dangerless
 dangerous
 dangerously
@@ -2434,6 +2433,7 @@ decimeters
 decimetre
 decimetres
 decimolar
+dangering
 decimole
 decimosexto
 decimus
