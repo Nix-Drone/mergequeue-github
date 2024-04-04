@@ -2559,7 +2559,6 @@ ferryboat
 ferryboats
 ferric
 ferricyanate
-ferricyanhydric
 ferricyanic
 ferricyanide
 ferried
@@ -5109,6 +5108,7 @@ flashtester
 flashtube
 flashtubes
 flask
+ferricyanhydric
 flasker
 flasket
 flaskets
