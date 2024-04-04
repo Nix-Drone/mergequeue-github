@@ -3125,7 +3125,6 @@ elsewhat
 elsewhen
 elsewhere
 elsewheres
-elsewhither
 elsewise
 elshin
 elsholtzia
@@ -5396,6 +5395,7 @@ endovenous
 endover
 endow
 endowed
+elsewhither
 endower
 endowers
 endowing
