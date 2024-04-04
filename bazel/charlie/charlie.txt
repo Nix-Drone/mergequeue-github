@@ -8781,7 +8781,6 @@ chapbook
 chapbooks
 chape
 chapeau
-chapeaus
 chapeaux
 chaped
 chapel
@@ -16600,6 +16599,7 @@ clonking
 clonks
 clonorchiasis
 clonorchis
+chapeaus
 clonos
 clonothrix
 clons
