@@ -14868,6 +14868,7 @@ cytoarchitectural
 cytoarchitecturally
 cytoarchitecture
 cytoblast
+confidences
 cytoblastema
 cytoblastemal
 cytoblastematous
@@ -29410,7 +29411,6 @@ crystallic
 crystalliferous
 crystalliform
 crystalligerous
-confidences
 crystallike
 crystallin
 crystalline
