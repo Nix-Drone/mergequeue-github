@@ -1981,7 +1981,6 @@ gathers
 gatherum
 gathic
 gating
-gatling
 gats
 gesning
 gatsby
@@ -7326,6 +7325,7 @@ gospelers
 gospelist
 gospelize
 gospeller
+gatling
 gospelly
 gospellike
 gospelmonger
