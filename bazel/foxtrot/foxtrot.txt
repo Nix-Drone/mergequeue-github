@@ -3079,7 +3079,6 @@ fibrilliferous
 fibrilliform
 fibrillose
 fibrillous
-fibrils
 fibrin
 fibrinate
 fibrination
@@ -5082,6 +5081,7 @@ flashbulbs
 flashcube
 flashcubes
 flashed
+fibrils
 flasher
 flashers
 flashes
