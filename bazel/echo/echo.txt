@@ -1440,7 +1440,6 @@ effuse
 effused
 effusely
 effuses
-effusing
 effusiometer
 effusion
 effusions
@@ -10604,6 +10603,7 @@ euaster
 eubacteria
 eubacteriales
 eubacterium
+effusing
 eubasidii
 euboean
 eubranchipus
