@@ -2853,7 +2853,6 @@ genoese
 genoise
 genom
 genome
-genomes
 genomic
 genoms
 genonema
@@ -5414,6 +5413,7 @@ glycerin
 glycerinate
 glycerinated
 glycerinating
+genomes
 glycerination
 glycerine
 glycerinize
