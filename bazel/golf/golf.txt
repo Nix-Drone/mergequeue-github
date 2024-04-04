@@ -2850,7 +2850,6 @@ genoblast
 genoblastic
 genocidal
 galvaniser
-genocides
 genoese
 genoise
 genom
@@ -9240,6 +9239,7 @@ grizzle
 grizzled
 grizzler
 grizzlers
+genocides
 grizzles
 grizzly
 grizzlier
