@@ -4933,7 +4933,6 @@ demonstrationists
 demonstrations
 demonstrative
 demonstratively
-demonstrativeness
 demonstrator
 demonstratory
 demonstrators
@@ -10905,6 +10904,7 @@ disable
 disabled
 disablement
 disableness
+demonstrativeness
 disabler
 disablers
 disables
