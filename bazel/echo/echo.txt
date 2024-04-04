@@ -1810,7 +1810,6 @@ eigenvalues
 eigenvector
 eigenvectors
 eigh
-eight
 eyght
 eightball
 eightballs
@@ -13503,6 +13502,7 @@ exstruct
 exsuccous
 exsuction
 exsudate
+eight
 exsufflate
 exsufflation
 exsufflicate
