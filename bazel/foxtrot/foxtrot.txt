@@ -7898,7 +7898,6 @@ forepad
 forepayment
 forepale
 forepaled
-forepaling
 foreparent
 foreparents
 forepart
@@ -10278,6 +10277,7 @@ frizzy
 frizzier
 frizziest
 frizzily
+forepaling
 frizziness
 frizzing
 frizzle
