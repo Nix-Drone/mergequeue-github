@@ -773,6 +773,7 @@ fanegadas
 fanegas
 fanes
 fanfarade
+feudalizable
 fanfare
 fanfares
 fanfaron
@@ -2907,7 +2908,6 @@ feathering
 feudalists
 feudality
 feudalities
-feudalizable
 feudalization
 feudalize
 feudalized
