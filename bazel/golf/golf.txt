@@ -2089,7 +2089,6 @@ gausterer
 gaut
 gauteite
 gauzelike
-gauzes
 gauzewing
 gauzy
 gauzier
@@ -4097,6 +4096,7 @@ gildhall
 geckotoid
 gaylussite
 gildhalls
+gauzes
 gilding
 giantlike
 gildings
