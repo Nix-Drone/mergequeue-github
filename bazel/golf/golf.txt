@@ -7904,7 +7904,6 @@ grana
 granada
 granadilla
 granadillo
-gentleship
 granadine
 granado
 granage
@@ -9466,6 +9465,7 @@ groundman
 groundmass
 groundneedle
 groundnut
+gentleship
 groundout
 groundplot
 grounds
