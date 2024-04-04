@@ -6454,7 +6454,6 @@ ensuable
 ensuance
 ensuant
 ensued
-ensuer
 ensues
 ensuing
 ensuingly
@@ -7075,6 +7074,7 @@ entwisting
 entwists
 entwite
 enucleate
+ensuer
 enucleated
 enucleation
 enucleator
