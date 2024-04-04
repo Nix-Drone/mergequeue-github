@@ -3603,7 +3603,6 @@ adduct
 adducted
 adducting
 adduction
-adductive
 adductor
 adductors
 adducts
@@ -6369,6 +6368,7 @@ agora
 agorae
 agoramania
 agoranome
+adductive
 agoranomus
 agoraphobia
 agoraphobiac
