@@ -8045,7 +8045,6 @@ bicompact
 biconcave
 biconcavity
 bicondylar
-biconditional
 bicone
 biconic
 biconical
@@ -10612,6 +10611,7 @@ blemish
 blemished
 blemisher
 blemishes
+biconditional
 blemishing
 blemishment
 blemmatrope
