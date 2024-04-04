@@ -5109,6 +5109,7 @@ flashtubes
 flask
 ferricyanhydric
 flasker
+forthbringer
 flasket
 flaskets
 flaskful
@@ -8696,7 +8697,6 @@ fortescure
 forth
 forthby
 forthbring
-forthbringer
 forthbringing
 forthbrought
 forthcall
