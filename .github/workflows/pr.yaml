@@ -10,7 +10,7 @@ on:
 jobs:
   test:
     name: run tests to validate pr
-    runs-on: public-amd64-small
+    runs-on: ubicloud
     env:
       BRANCH_NAME: ${{ github.head_ref || github.ref_name }}
 
