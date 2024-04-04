@@ -4244,6 +4244,7 @@ fireplace
 fireplaces
 fireplough
 fireplow
+fleeceable
 fireplug
 fireplugs
 firepot
@@ -5659,7 +5660,6 @@ flimflam
 flimflammed
 flimflammer
 flimflammery
-fleeceable
 flimflamming
 flimflams
 flimmer
