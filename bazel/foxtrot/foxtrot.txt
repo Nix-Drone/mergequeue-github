@@ -3746,7 +3746,6 @@ fillers
 filles
 fillet
 filleted
-filleter
 filleting
 filletlike
 fillets
@@ -10205,6 +10204,7 @@ frisks
 frislet
 frisolee
 frison
+filleter
 friss
 frisson
 frissons

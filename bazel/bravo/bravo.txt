@@ -1317,6 +1317,7 @@ balas
 balases
 balat
 balata
+binocularity
 balatas
 balate
 balatong
@@ -8835,7 +8836,6 @@ binocle
 binocles
 binocs
 binocular
-binocularity
 binocularly
 binoculars
 binoculate
