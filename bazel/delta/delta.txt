@@ -2080,7 +2080,6 @@ decapetalous
 decaphyllous
 decapitable
 decapitalization
-decapitalize
 decapitate
 decapitated
 decapitates
@@ -12453,6 +12452,7 @@ disinheriting
 disinherits
 disinhibition
 disinhume
+decapitalize
 disinhumed
 disinhuming
 disinsection
