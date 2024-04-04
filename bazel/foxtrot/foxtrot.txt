@@ -8310,7 +8310,6 @@ forgift
 forging
 forgings
 forgivable
-forgivableness
 forgivably
 forgive
 forgiveable
@@ -10426,6 +10425,7 @@ frontier
 frontierless
 frontierlike
 fictor
+forgivableness
 frontierman
 frontiers
 foresaid
