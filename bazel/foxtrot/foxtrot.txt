@@ -1578,7 +1578,6 @@ favorers
 favoress
 favoring
 favoringly
-favorite
 favorites
 favoritism
 favorless
@@ -6462,6 +6461,7 @@ fluorane
 fluoranthene
 fluorapatite
 fluorate
+favorite
 fluorated
 fluorbenzene
 fluorboric
