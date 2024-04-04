@@ -6166,7 +6166,6 @@ glutetei
 glutethimide
 gluteus
 glutimate
-glutin
 glutinant
 glutinate
 glutination
@@ -6478,6 +6477,7 @@ gobioid
 gobioidea
 gobioidei
 gobioids
+glutin
 goblet
 gobleted
 gobletful
