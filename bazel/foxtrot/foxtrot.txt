@@ -3740,6 +3740,7 @@ fillagreed
 fillebeg
 filled
 fillemot
+frownless
 filler
 fillercap
 fillers
@@ -10579,7 +10580,6 @@ frownful
 frowny
 frowning
 frowningly
-frownless
 frowns
 frows
 frowsy
