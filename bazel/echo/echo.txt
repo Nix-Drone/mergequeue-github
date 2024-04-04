@@ -1803,7 +1803,6 @@ eigenvalue
 eigenvalues
 eigenvector
 eigenvectors
-eigh
 eyght
 eightball
 eightballs
@@ -13532,6 +13531,7 @@ extempore
 extemporisation
 extemporise
 extemporised
+eigh
 extemporiser
 extemporising
 extemporization
