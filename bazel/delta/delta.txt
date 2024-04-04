@@ -11077,7 +11077,6 @@ disappropriation
 disapprovable
 disapproval
 disapprovals
-disapprove
 disapproved
 disapprover
 disapproves
@@ -14027,6 +14026,7 @@ disengagements
 disunionist
 disunions
 disunite
+disapprove
 disunited
 disuniter
 disuniters
