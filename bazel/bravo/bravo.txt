@@ -7799,7 +7799,6 @@ bib
 bibacious
 bibaciousness
 bibacity
-bibasic
 bibation
 bibb
 bibbed
@@ -10097,6 +10096,7 @@ blackfishing
 blackfly
 blackflies
 blackfoot
+bibasic
 blackfriars
 blackguard
 blackguardism
