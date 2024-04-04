@@ -5287,7 +5287,6 @@ flavorfulness
 flavory
 flavoriness
 flavoring
-flavorings
 forsworn
 flavorless
 flavorlessness
@@ -9750,6 +9749,7 @@ freetrader
 freeway
 freeways
 freeward
+flavorings
 freewheel
 freewheeler
 freewheelers
