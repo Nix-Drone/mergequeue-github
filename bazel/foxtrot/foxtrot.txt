@@ -4251,7 +4251,6 @@ fireplow
 fireplug
 fireplugs
 firepot
-fireproof
 fireproofed
 fireproofing
 fireproofness
@@ -5264,6 +5263,7 @@ flavid
 flavin
 flavine
 flavines
+fireproof
 flavins
 flavius
 flavo
