@@ -3555,7 +3555,6 @@ embourgeoisement
 embow
 embowed
 embowel
-emboweled
 emboweler
 emboweling
 embowelled
@@ -10269,6 +10268,7 @@ etherifies
 etherifying
 etheriform
 etheriidae
+emboweled
 etherin
 etherion
 etherish
