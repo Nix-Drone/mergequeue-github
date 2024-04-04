@@ -765,7 +765,6 @@ abovesaid
 abovestairs
 abow
 abox
-abp
 abr
 abracadabra
 abrachia
@@ -19668,6 +19667,7 @@ aridnesses
 ariegite
 ariel
 ariels
+abp
 arienzo
 aryepiglottic
 aryepiglottidean

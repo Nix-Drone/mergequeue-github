@@ -17344,6 +17344,7 @@ coauthered
 coauthor
 coauthored
 coauthoring
+connectedness
 coauthority
 coauthors
 coauthorship
@@ -22549,7 +22550,6 @@ connectable
 connectant
 connected
 connectedly
-connectedness
 connecter
 connecters
 connectibility
