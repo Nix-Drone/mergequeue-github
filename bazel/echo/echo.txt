@@ -1781,7 +1781,6 @@ eyespots
 eyess
 eyestalk
 eyestalks
-eyestone
 eyestrain
 eyestring
 eyestrings
@@ -2787,6 +2786,7 @@ elephantidae
 elephantlike
 elephantoid
 elephantoidal
+eyestone
 elephantopus
 elephantous
 emetically
