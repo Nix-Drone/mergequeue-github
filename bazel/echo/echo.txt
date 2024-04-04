@@ -2472,7 +2472,6 @@ electromerism
 electrometallurgy
 electrometallurgical
 electrometallurgist
-electrometeor
 electrometer
 electrometry
 electrometric
@@ -4893,6 +4892,7 @@ encumberingly
 encumberment
 encumbers
 encumbrance
+electrometeor
 encumbrancer
 encumbrous
 encup
