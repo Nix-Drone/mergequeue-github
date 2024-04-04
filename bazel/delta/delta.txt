@@ -10216,7 +10216,6 @@ dinosaur
 dinosauria
 dinosaurian
 dinosauric
-dinosaurs
 dinothere
 dinotheres
 dinotherian
@@ -17559,6 +17558,7 @@ drumhead
 drumheads
 drumler
 drumly
+dinosaurs
 drumlier
 drumliest
 drumlike
