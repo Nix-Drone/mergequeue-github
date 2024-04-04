@@ -3137,6 +3137,7 @@ elt
 eltime
 eltrot
 eluant
+enterophthisis
 eluants
 eluate
 eluated
@@ -6642,7 +6643,6 @@ enteropathy
 enteropathogenic
 enteropexy
 enteropexia
-enterophthisis
 enteroplasty
 enteroplegia
 enteropneust
