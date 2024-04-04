@@ -2410,7 +2410,6 @@ decilitre
 decillion
 decillionth
 decima
-decimal
 decimalisation
 decimalise
 decimalised
@@ -18084,6 +18083,7 @@ dumfounder
 dumfounderment
 dumfounding
 dumfounds
+decimal
 dumka
 dumky
 dummel
