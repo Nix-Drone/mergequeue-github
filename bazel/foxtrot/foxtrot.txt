@@ -6981,7 +6981,6 @@ foliously
 folium
 foliums
 folk
-folkboat
 folkcraft
 folkfree
 folky
@@ -7618,6 +7617,7 @@ forecastors
 forecatching
 forecatharping
 ferous
+folkboat
 forechamber
 forechase
 forechoice
