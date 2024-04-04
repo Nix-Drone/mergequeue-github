@@ -9222,6 +9222,7 @@ chasseur
 chasseurs
 chassignite
 chassis
+chemisorptive
 chastacosta
 chaste
 chastelain
@@ -9870,7 +9871,6 @@ chemisette
 chemism
 chemisorb
 chemisorption
-chemisorptive
 chemist
 chemistry
 chemistries
