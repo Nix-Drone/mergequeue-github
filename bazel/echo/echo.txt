@@ -1928,6 +1928,7 @@ etrogs
 ejectamenta
 ejected
 ejectee
+entailers
 ejecting
 ejection
 ejections
@@ -6486,7 +6487,6 @@ entail
 entailable
 entailed
 entailer
-entailers
 entailing
 entailment
 entailments

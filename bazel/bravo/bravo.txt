@@ -13086,7 +13086,6 @@ borrowable
 borrowed
 borrower
 borrowers
-borrowing
 borrows
 bors
 borsch
@@ -16142,6 +16141,7 @@ brotheler
 brothellike
 brothelry
 brothels
+borrowing
 brother
 brothered
 brotherhood
