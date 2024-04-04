@@ -1934,7 +1934,6 @@ gated
 gatefold
 gatefolds
 gatehouse
-gatehouses
 gatekeep
 gatekeeper
 gatekeepers
@@ -7352,6 +7351,7 @@ gossipee
 gossiper
 gossipers
 gossiphood
+gatehouses
 gossipy
 gossypin
 gossypine
