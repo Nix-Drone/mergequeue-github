@@ -5059,7 +5059,6 @@ glaga
 glagah
 glagol
 glagolic
-glagolitic
 glagolitsa
 glaieul
 glaik
@@ -10593,6 +10592,7 @@ gunstock
 gunstocker
 gunstocking
 gunstocks
+glagolitic
 gunstone
 gunter
 gunther
