@@ -8348,6 +8348,7 @@ forhow
 foryield
 forinsec
 forinsecal
+furnaceman
 forint
 forints
 forisfamiliate
@@ -11433,7 +11434,6 @@ furmities
 furnace
 furnaced
 furnacelike
-furnaceman
 furnacemen
 furnacer
 furnaces
