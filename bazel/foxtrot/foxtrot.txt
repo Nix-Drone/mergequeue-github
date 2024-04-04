@@ -3127,7 +3127,6 @@ fibrocytic
 fibrocrystalline
 fibroelastic
 fibroenchondroma
-fibrofatty
 fibroferrite
 fibroglia
 fibroglioma
@@ -10114,6 +10113,7 @@ frilal
 frill
 frillback
 frilled
+fibrofatty
 friller
 frillery
 frillers
