@@ -1622,7 +1622,6 @@ egressed
 egresses
 egressing
 egression
-egressive
 egressor
 egret
 egrets
@@ -10492,6 +10491,7 @@ ethopoetic
 ethos
 ethoses
 ethoxy
+egressive
 ethoxide
 ethoxyethane
 embiidae
