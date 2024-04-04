@@ -10136,7 +10136,6 @@ ambulatories
 ambulatorily
 ambulatorium
 ambulatoriums
-ambulators
 ambulia
 ambuling
 ambulomancy
@@ -24064,6 +24063,7 @@ autogyro
 autogiros
 autogyros
 autognosis
+ambulators
 autognostic
 autograft
 autografting
