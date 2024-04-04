@@ -6728,7 +6728,6 @@ goluptious
 goma
 gomari
 gomarian
-gomarist
 gomarite
 gomart
 gomashta
@@ -9508,6 +9507,7 @@ groups
 groupthink
 groupwise
 grouse
+gomarist
 grouseberry
 groused
 grouseless
