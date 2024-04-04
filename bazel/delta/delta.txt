@@ -8753,6 +8753,7 @@ dib
 dibase
 dibasic
 dibasicity
+dishonorable
 dibatag
 dibatis
 dibbed
@@ -12321,7 +12322,6 @@ dishonesty
 dishonesties
 dishonestly
 dishonor
-dishonorable
 dishonorableness
 dishonorably
 dishonorary
