@@ -6621,7 +6621,6 @@ desiccant
 desiccants
 desiccate
 desiccated
-desiccates
 desiccating
 desiccation
 desiccations
@@ -9498,6 +9497,7 @@ digital
 digitalic
 digitaliform
 digitalin
+desiccates
 digitalis
 digitalism
 digitalization
