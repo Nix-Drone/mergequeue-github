@@ -3963,7 +3963,6 @@ adj
 adjacence
 adjacency
 adjacencies
-adjacent
 adjacently
 adjag
 adject
@@ -14126,6 +14125,7 @@ anteflexion
 antefurca
 antefurcae
 antefurcal
+adjacent
 antegarden
 antegrade
 antehall
