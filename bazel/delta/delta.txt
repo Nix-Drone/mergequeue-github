@@ -111,6 +111,7 @@ dactylioglyphist
 dactyliographer
 dactyliography
 dactyliographic
+decremented
 dactyliology
 dactyliomancy
 dactylion
@@ -2793,7 +2794,6 @@ decreet
 decreing
 decrement
 decremental
-decremented
 decrementing
 decrementless
 decrements
