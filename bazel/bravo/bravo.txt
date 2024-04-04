@@ -2809,7 +2809,6 @@ baronies
 baronize
 baronized
 baronizing
-baronne
 baronnes
 baronry
 baronries
@@ -8551,6 +8550,7 @@ bilipyrrhin
 biliprasin
 bilipurpurin
 bilirubin
+baronne
 bilirubinemia
 bilirubinic
 bilirubinuria
