@@ -2082,7 +2082,6 @@ decapitalization
 decapitate
 decapitated
 decapitates
-decapitating
 decapitation
 decapitations
 decapitator
@@ -6049,6 +6048,7 @@ derailment
 derailments
 dictyostelic
 derails
+decapitating
 derays
 derange
 derangeable
