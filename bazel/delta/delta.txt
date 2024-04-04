@@ -4986,7 +4986,6 @@ demountable
 demounted
 demounting
 demounts
-demove
 dempne
 dempster
 dempsters
@@ -9551,6 +9550,7 @@ diglot
 diglots
 diglottic
 diglottism
+demove
 diglottist
 diglucoside
 dignation
