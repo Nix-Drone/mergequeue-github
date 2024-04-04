@@ -4032,7 +4032,6 @@ adjurer
 adjurers
 adjures
 adjuring
-adjuror
 adjurors
 adjust
 adjustability
@@ -5268,6 +5267,7 @@ affectations
 affected
 affectedly
 anthropogeny
+adjuror
 affectedness
 affecter
 affecters
