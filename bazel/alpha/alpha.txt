@@ -13597,7 +13597,6 @@ annotine
 annotinous
 annotto
 announce
-announceable
 announced
 announcement
 announcements
@@ -23822,6 +23821,7 @@ aspidiotus
 authoritatively
 authoritativeness
 authority
+announceable
 authorities
 authorization
 authorizations

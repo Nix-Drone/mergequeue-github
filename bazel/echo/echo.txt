@@ -5519,7 +5519,6 @@ enfarce
 enfasten
 enfatico
 enfavor
-enfeature
 enfeeble
 enfeebled
 enfeeblement
@@ -13099,6 +13098,7 @@ expertizing
 expertly
 expertness
 experts
+enfeature
 expertship
 expetible
 expy
