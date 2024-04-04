@@ -8390,7 +8390,6 @@ forlanas
 forlane
 forleave
 forleaving
-forleft
 forleit
 futuristic
 forlese
@@ -9989,6 +9988,7 @@ frication
 fricative
 fricatives
 fricatrice
+forleft
 frickle
 fricti
 friction
