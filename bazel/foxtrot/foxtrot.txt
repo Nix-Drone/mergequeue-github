@@ -629,7 +629,6 @@ falsiteit
 falsity
 falsities
 falstaffian
-falsum
 faltboat
 faltboats
 faltche
@@ -8593,6 +8592,7 @@ formulistic
 formulization
 formulize
 formulized
+falsum
 formulizer
 formulizing
 formwork

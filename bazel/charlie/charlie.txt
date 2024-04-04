@@ -25009,7 +25009,6 @@ cordwood
 cordwoods
 core
 corebel
-corebox
 coreceiver
 corecipient
 coreciprocal
@@ -29324,6 +29323,7 @@ cryptoproselytism
 cryptorchid
 cryptorchidism
 cryptorchis
+corebox
 cryptorchism
 cryptorhynchus
 cryptorrhesis
