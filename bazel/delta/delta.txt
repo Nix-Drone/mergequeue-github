@@ -943,7 +943,6 @@ dapperling
 dapperness
 dapping
 dapple
-dappled
 dappledness
 dappleness
 dapples
@@ -15587,6 +15586,7 @@ doorman
 doormat
 doormats
 doormen
+dappled
 doornail
 doornails
 doornboom
