@@ -10163,7 +10163,6 @@ ambuscading
 ambuscado
 ambuscadoed
 ambuscados
-ambush
 ambushed
 ambusher
 ambushers
@@ -18879,6 +18878,7 @@ archfoe
 archfool
 archform
 archfounder
+ambush
 archfriend
 archgenethliac
 archgod
