@@ -9250,7 +9250,6 @@ fractuosity
 fractur
 fracturable
 fractural
-fracture
 fractured
 fractureproof
 fractures
@@ -11264,6 +11263,7 @@ funk
 funked
 funker
 funkers
+fracture
 funky
 funkia
 funkias
