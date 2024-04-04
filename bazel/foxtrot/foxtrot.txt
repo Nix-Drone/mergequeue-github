@@ -101,7 +101,6 @@ facette
 facetted
 facetting
 faceup
-facewise
 facework
 facy
 facia
@@ -10409,6 +10408,7 @@ frontage
 frontager
 frontages
 frontal
+facewise
 frontalis
 frontality
 frontally
