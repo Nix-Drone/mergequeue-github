@@ -7215,7 +7215,6 @@ footboy
 footboys
 footbreadth
 footbridge
-footbridges
 footcandle
 footcandles
 footcloth
@@ -10519,6 +10518,7 @@ frostroot
 frosts
 frostweed
 frostwork
+footbridges
 favose
 frostwort
 frot
