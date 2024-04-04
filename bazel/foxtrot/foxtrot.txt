@@ -6533,7 +6533,6 @@ fluorometer
 fluorometry
 fluorometric
 fluorophosphate
-fluoroscope
 fluoroscoped
 fluoroscopes
 fluoroscopy
@@ -11415,6 +11414,7 @@ furless
 furling
 furlong
 furlongs
+fluoroscope
 furlough
 furloughed
 furloughing
