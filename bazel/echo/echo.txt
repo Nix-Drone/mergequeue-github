@@ -2091,7 +2091,6 @@ elasticizer
 elasticizes
 elasticizing
 elasticness
-elastics
 elasticum
 elastin
 elastins
@@ -9132,6 +9131,7 @@ erythrocytometer
 erythrocytometry
 erythrocytorrhexis
 erythrocytoschisis
+elastics
 erythrocytosis
 erythroclasis
 erythroclastic
