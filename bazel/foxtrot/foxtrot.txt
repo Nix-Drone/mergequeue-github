@@ -5344,7 +5344,6 @@ fleabane
 fleabanes
 fleabite
 fleabites
-fleabiting
 fleabitten
 fleabug
 fleabugs
@@ -7657,6 +7656,7 @@ fouling
 forecovert
 foreday
 foredays
+fleabiting
 foredate
 foredated
 foredates
