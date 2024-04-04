@@ -3544,7 +3544,6 @@ defs
 deft
 defter
 defterdar
-deftest
 deftly
 daybook
 deftness
@@ -7645,6 +7644,7 @@ devilwise
 devilwood
 devinct
 devious
+deftest
 deviously
 deviousness
 devirginate
