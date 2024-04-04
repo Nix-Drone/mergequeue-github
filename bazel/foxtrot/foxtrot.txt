@@ -1071,7 +1071,6 @@ farmplace
 farms
 farmscape
 farmstead
-farmsteading
 farmsteads
 farmtown
 farmwife
@@ -8617,6 +8616,7 @@ fornicatrices
 fornicatrix
 fornices
 forniciform
+farmsteading
 forninst
 fornix
 florence
