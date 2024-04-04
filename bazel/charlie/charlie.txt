@@ -6544,7 +6544,6 @@ cedarwood
 cede
 ceded
 cedens
-cedent
 ceder
 ceders
 cedes
@@ -17854,6 +17853,7 @@ codon
 codons
 codpiece
 codpieces
+cedent
 codpitchings
 codrus
 cods
