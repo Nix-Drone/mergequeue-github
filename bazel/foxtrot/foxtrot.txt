@@ -1950,6 +1950,7 @@ feeding
 feedings
 feedingstuff
 feedlot
+fibratus
 feedlots
 feedman
 feeds
@@ -3049,7 +3050,6 @@ fiberscope
 fiberware
 fibra
 fibration
-fibratus
 fibre
 fibreboard
 fibred
