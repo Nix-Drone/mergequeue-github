@@ -3336,6 +3336,7 @@ acurative
 acus
 acusection
 acusector
+atresy
 acushla
 acustom
 acutance
@@ -22822,7 +22823,6 @@ atren
 atrenne
 atrepsy
 atreptic
-atresy
 atresia
 atresias
 atresic
