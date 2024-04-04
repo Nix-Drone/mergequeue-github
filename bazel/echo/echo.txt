@@ -3919,7 +3919,6 @@ emissitious
 emissive
 emissivity
 emissory
-emit
 emits
 emittance
 emitted
@@ -6131,6 +6130,7 @@ enolic
 enolizable
 enolization
 enolize
+emit
 enolized
 enolizing
 enology
