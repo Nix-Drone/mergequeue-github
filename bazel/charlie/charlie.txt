@@ -5017,7 +5017,6 @@ caseloads
 caselty
 casemaker
 casemaking
-casemate
 casemated
 casemates
 casement
@@ -14151,6 +14150,7 @@ circination
 circiter
 circle
 circled
+casemate
 circler
 circles
 circlet
