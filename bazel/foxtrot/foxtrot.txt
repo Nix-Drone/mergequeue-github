@@ -435,6 +435,7 @@ faitery
 faith
 faithbreach
 faithbreaker
+formatted
 faithed
 faithful
 faithfully
@@ -8463,7 +8464,6 @@ formational
 formations
 formativeness
 formats
-formatted
 formatter
 formatters
 formatting
