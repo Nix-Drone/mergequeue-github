@@ -4282,6 +4282,7 @@ adoptable
 adoptant
 adoptative
 adopted
+archmock
 adoptedly
 adoptee
 adoptees
@@ -19053,7 +19054,6 @@ archmilitarist
 archmime
 archminister
 archmystagogue
-archmock
 archmocker
 archmockery
 archmonarch
