@@ -14956,6 +14956,7 @@ cytopathogenicity
 cytopathology
 cytopathologic
 cytopathological
+coenactor
 cytopathologically
 cytopenia
 cytophaga
@@ -17992,7 +17993,6 @@ coenacle
 coenact
 coenacted
 coenacting
-coenactor
 coenacts
 coenacula
 coenaculous
