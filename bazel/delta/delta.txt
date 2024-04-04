@@ -6602,7 +6602,6 @@ desex
 desexed
 desexes
 desexing
-desexualization
 desexualize
 desexualized
 desexualizing
@@ -13462,6 +13461,7 @@ disseizin
 disseizor
 disseizoress
 disseizure
+desexualization
 dissemblance
 dissemble
 dissembled

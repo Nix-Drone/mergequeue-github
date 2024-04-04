@@ -5884,7 +5884,6 @@ glossiest
 glossily
 glossina
 glossinas
-glossiness
 glossing
 glossingly
 glossiphonia
@@ -7513,6 +7512,7 @@ governesshood
 governessy
 governing
 governingly
+glossiness
 governless
 government
 governmental
