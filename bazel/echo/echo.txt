@@ -6498,7 +6498,6 @@ entamoebic
 entangle
 entangleable
 entangled
-entangledly
 entangledness
 entanglement
 entanglements
@@ -12313,6 +12312,7 @@ executioners
 executions
 executively
 executiveness
+entangledly
 executives
 executiveship
 enfect
