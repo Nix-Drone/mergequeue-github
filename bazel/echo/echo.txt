@@ -189,7 +189,6 @@ earthshine
 earthshock
 earthslide
 earthsmoke
-earthstar
 earthtongue
 earthwall
 earthward
@@ -7036,6 +7035,7 @@ entresalle
 entresol
 entresols
 entresse
+earthstar
 entrez
 entry
 entria
