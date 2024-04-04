@@ -6360,6 +6360,7 @@ ensigncies
 ensigned
 ensignhood
 ensigning
+ephete
 ensignment
 ensignry
 ensigns
@@ -7489,7 +7490,6 @@ ephesine
 ephestia
 ephestian
 ephetae
-ephete
 ephetic
 ephialtes
 ephydra
