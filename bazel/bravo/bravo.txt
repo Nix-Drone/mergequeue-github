@@ -1372,7 +1372,6 @@ baldy
 baldicoot
 baldie
 baldish
-baldly
 baldling
 baldmoney
 baldmoneys
@@ -3724,6 +3723,7 @@ battle
 battled
 battledore
 battledores
+baldly
 battledoring
 battlefield
 battlefields
