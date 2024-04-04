@@ -3349,7 +3349,6 @@ acutate
 acute
 acutely
 acutenaculum
-acuteness
 acuter
 acutes
 acutest
@@ -12491,6 +12490,7 @@ anemia
 anemias
 anemic
 anemically
+acuteness
 anemious
 anemobiagraph
 anemochord
