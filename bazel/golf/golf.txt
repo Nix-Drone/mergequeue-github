@@ -1992,7 +1992,6 @@ gau
 gaub
 gauche
 gauchely
-gaucheness
 gaucher
 gaucherie
 gaucheries
@@ -3729,6 +3728,7 @@ ghees
 gheg
 ghegish
 gheleem
+gaucheness
 ghenting
 gherao
 gheraoed
