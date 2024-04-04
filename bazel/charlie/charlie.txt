@@ -9747,7 +9747,6 @@ chekist
 chekker
 chekmak
 chela
-chelae
 chelas
 chelaship
 chelatable
@@ -22889,6 +22888,7 @@ consigning
 consignment
 consignments
 consignor
+chelae
 consignors
 consigns
 consiliary
