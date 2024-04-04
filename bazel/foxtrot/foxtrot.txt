@@ -3150,7 +3150,6 @@ fibromembranous
 fibromyectomy
 fibromyitis
 fibromyoma
-fibromyomatous
 fibromyomectomy
 fibromyositis
 fibromyotomy
@@ -8855,6 +8854,7 @@ fossate
 fosse
 fossed
 fosses
+fibromyomatous
 fosset
 fossette
 fossettes
