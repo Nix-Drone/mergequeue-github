@@ -3320,7 +3320,6 @@ acuities
 aculea
 aculeae
 aculeata
-aculeate
 aculeated
 aculei
 aculeiform
@@ -18860,6 +18859,7 @@ archesporia
 archesporial
 archesporium
 archespsporia
+aculeate
 archest
 archetypal
 archetypally
