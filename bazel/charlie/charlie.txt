@@ -1045,7 +1045,6 @@ construct
 calcifying
 calciform
 calcifugal
-calcifuge
 calcifugous
 calcigenous
 calcigerous
@@ -8356,6 +8355,7 @@ challengable
 challenge
 challengeable
 challenged
+calcifuge
 challengee
 challengeful
 challenger
