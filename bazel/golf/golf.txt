@@ -5565,7 +5565,6 @@ gregory
 glint
 glinted
 glinting
-glints
 gliocyte
 glioma
 gliomas
@@ -10229,6 +10228,7 @@ guillem
 guillemet
 gynecophore
 guillemot
+glints
 guillermo
 guillevat
 guilloche
