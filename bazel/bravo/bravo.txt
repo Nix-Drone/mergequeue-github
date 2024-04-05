@@ -3545,7 +3545,6 @@ bathycentesis
 bathychrome
 bathycolpian
 bathycolpic
-bathycurrent
 bathyesthesia
 bathygraphic
 bathyhyperesthesia
@@ -7627,6 +7626,7 @@ bewrap
 bewrapped
 bewrapping
 bewraps
+bathycurrent
 bewrapt
 bewrathed
 bewreak
