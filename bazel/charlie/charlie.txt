@@ -4640,7 +4640,6 @@ carport
 carports
 carpos
 carposperm
-carposporangia
 carposporangial
 carposporangium
 carpospore
@@ -31472,6 +31471,7 @@ cursen
 cumshaws
 curser
 cursers
+carposporangia
 curses
 curship
 cursillo
