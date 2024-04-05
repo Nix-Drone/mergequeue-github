@@ -2726,6 +2726,7 @@ fesels
 fess
 fesse
 fessed
+firearms
 fessely
 fesses
 fessewise
@@ -4146,7 +4147,6 @@ fire
 fireable
 firearm
 firearmed
-firearms
 fireback
 favourably
 fireball
