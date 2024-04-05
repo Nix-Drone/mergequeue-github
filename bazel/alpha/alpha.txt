@@ -5107,7 +5107,6 @@ aerosol
 aerosolization
 aerosolize
 aerosolized
-aerosolizing
 aerosols
 aerosphere
 aerosporin
@@ -22287,6 +22286,7 @@ astron
 astronaut
 astronautic
 astronautically
+aerosolizing
 astronautics
 astronauts
 astronavigator
