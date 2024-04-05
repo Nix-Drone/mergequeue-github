@@ -2505,7 +2505,6 @@ electrooculogram
 electrooptic
 electrooptical
 electrooptically
-electrooptics
 electroori
 electroosmosis
 electroosmotic
@@ -13091,6 +13090,7 @@ expertize
 expertized
 expertizing
 expertly
+electrooptics
 expertness
 experts
 enfeature
