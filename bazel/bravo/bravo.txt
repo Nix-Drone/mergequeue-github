@@ -1924,7 +1924,6 @@ bandit
 banditism
 banditry
 barramundas
-banditries
 bandits
 banditti
 bandle
@@ -7182,6 +7181,7 @@ bestialize
 bestialized
 bestializes
 bestializing
+banditries
 bestially
 bestials
 bestian
