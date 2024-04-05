@@ -5273,7 +5273,6 @@ endorsers
 endorses
 endorsing
 endorsingly
-endorsor
 endorsors
 endosalpingitis
 endosarcous
@@ -9691,6 +9690,7 @@ esophagoscope
 esophagoscopy
 esophagostenosis
 esophagostomy
+endorsor
 esophagotome
 esophagotomy
 esophagus

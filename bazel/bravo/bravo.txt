@@ -6331,7 +6331,6 @@ benzalphenylhydrazone
 benzalphthalide
 benzamide
 benzamido
-backlotter
 benzamine
 benzaminic
 benzamino
@@ -7811,6 +7810,7 @@ bibble
 bibbled
 bibbler
 bibbling
+backlotter
 bibbons
 bibcock
 bibcocks
