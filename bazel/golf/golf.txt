@@ -3892,7 +3892,6 @@ gibbsites
 gibbus
 gibe
 geophyte
-gybe
 gibed
 gybed
 gibel
@@ -5625,6 +5624,7 @@ glissader
 glissades
 glissandi
 glissando
+gybe
 glissandos
 glissette
 glist
