@@ -8526,7 +8526,6 @@ gry
 grawls
 grazable
 graze
-grazeable
 grazed
 grazer
 grazers
@@ -9266,6 +9265,7 @@ gedanken
 grockle
 groenendael
 groenlandicus
+grazeable
 groff
 grog
 grogged
