@@ -3251,7 +3251,6 @@ basilysis
 basilisks
 basilissa
 basilosauridae
-basilosaurus
 basilweed
 basimesostasis
 basin
@@ -9827,6 +9826,7 @@ bitonalities
 bitore
 bytownite
 bytownitite
+basilosaurus
 bitreadle
 bitripartite
 bitripinnatifid
