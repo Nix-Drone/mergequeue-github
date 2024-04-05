@@ -2622,7 +2622,6 @@ decolouration
 decoloured
 decolouring
 decolourisation
-decolourise
 decolourised
 dogmatism
 decolouriser
@@ -13850,6 +13849,7 @@ distn
 dystocia
 dystocial
 dystocias
+decolourise
 distoclusion
 distoma
 distomatidae
