@@ -4509,7 +4509,6 @@ demibath
 demibeast
 demibelt
 demibob
-demibombard
 demibrassart
 demibrigade
 demibrute
@@ -18486,6 +18485,7 @@ durning
 durns
 duro
 duroc
+demibombard
 durocs
 duroy
 durometer
