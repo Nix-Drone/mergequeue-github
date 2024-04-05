@@ -17296,7 +17296,6 @@ coastman
 coastmen
 coasts
 coastside
-coastways
 coastwaiter
 coastward
 coastwards
@@ -30278,6 +30277,7 @@ crusaders
 crusades
 crusading
 crusado
+coastways
 crusadoes
 crusados
 crusca
