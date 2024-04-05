@@ -2589,7 +2589,6 @@ decoys
 decoke
 decoll
 decollate
-decollated
 decollating
 decollation
 decollator
@@ -17554,6 +17553,7 @@ drumheads
 drumler
 drumly
 dinosaurs
+decollated
 drumlier
 drumliest
 drumlike
