@@ -3090,7 +3090,6 @@ geographies
 geographize
 geohydrology
 geohydrologic
-geohydrologist
 geoid
 geoidal
 geoids
@@ -10670,6 +10669,7 @@ guserid
 gush
 gushed
 gusher
+geohydrologist
 gushes
 gushet
 gushy
