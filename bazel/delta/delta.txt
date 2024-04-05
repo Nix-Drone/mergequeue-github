@@ -5275,7 +5275,6 @@ densitometry
 densitometric
 densus
 dent
-dentagra
 dental
 dentale
 dentalgia
@@ -7124,6 +7123,7 @@ detachment
 detachments
 detacwable
 detailed
+dentagra
 detailedly
 detailedness
 detailer
