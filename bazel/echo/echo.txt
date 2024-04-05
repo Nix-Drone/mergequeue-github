@@ -4266,7 +4266,6 @@ ems
 emu
 emulable
 emulant
-emulate
 emulated
 emulates
 emulating
@@ -6388,6 +6387,7 @@ enskies
 enskying
 enslave
 enslaved
+emulate
 enslavedness
 enslavements
 enslaver
