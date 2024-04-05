@@ -7214,7 +7214,6 @@ century
 centuria
 centurial
 centuriate
-centuriation
 centuriator
 centuried
 centuries
@@ -22662,6 +22661,7 @@ conoscopic
 conourish
 conphaseolin
 conplane
+centuriation
 conquassate
 conquedle
 conquer
