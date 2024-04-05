@@ -6281,7 +6281,6 @@ ensample
 elenchtic
 ensampler
 ensamples
-ensand
 ensandal
 ensanguine
 ensanguined
@@ -14192,6 +14191,7 @@ exuviation
 exuvium
 exxon
 exzodiacal
+ensand
 ezba
 ezekiel
 ezod
