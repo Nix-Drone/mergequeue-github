@@ -4774,7 +4774,6 @@ flagellist
 flagellosis
 folie
 flagellula
-fazendas
 flagellulae
 fortressed
 flagellum
@@ -7626,6 +7625,7 @@ foreconsent
 foreconsider
 forecontrive
 flagonet
+fazendas
 forecool
 forecooler
 forecount
