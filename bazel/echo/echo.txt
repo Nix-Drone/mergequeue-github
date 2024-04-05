@@ -10281,6 +10281,7 @@ ethernet
 ethernets
 etherol
 etherolate
+excruciation
 etherous
 ethers
 ethic
@@ -12198,7 +12199,6 @@ excruciated
 excruciating
 excruciatingly
 excruciatingness
-excruciation
 excruciator
 excubant
 excubitoria
