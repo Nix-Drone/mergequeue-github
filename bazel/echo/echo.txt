@@ -2559,7 +2559,6 @@ electroplates
 electroplating
 electroplax
 electropneumatic
-electropneumatically
 electropoion
 electropolar
 electropolish
@@ -3420,6 +3419,7 @@ embiotocoid
 embira
 embitter
 embittered
+electropneumatically
 embitterer
 embitterment
 embitterments
