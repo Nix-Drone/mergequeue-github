@@ -9093,6 +9093,7 @@ almain
 almaine
 alman
 almanac
+authenticatable
 almanacs
 almander
 almandine
@@ -23772,7 +23773,6 @@ authentic
 authentical
 authentically
 authenticalness
-authenticatable
 authenticate
 authenticated
 authenticates
