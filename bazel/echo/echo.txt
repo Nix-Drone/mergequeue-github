@@ -1813,7 +1813,6 @@ eigenspace
 eigenstate
 eigenvalue
 eigenvalues
-eigenvector
 eigenvectors
 eyght
 eightball
@@ -7940,6 +7939,7 @@ epimerism
 epimerite
 epimeritic
 evidenced
+eigenvector
 epimerize
 epimerized
 epimerizing
