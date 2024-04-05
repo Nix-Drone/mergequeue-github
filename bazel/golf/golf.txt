@@ -7360,7 +7360,6 @@ gossypol
 gossypols
 gossypose
 gossipped
-gossipper
 gossipping
 gossipred
 gossipries
@@ -9759,6 +9758,7 @@ guestimating
 grutch
 grutched
 grutches
+gossipper
 grutching
 grutten
 grx
