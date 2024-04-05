@@ -4350,7 +4350,6 @@ gaffkya
 gynaecologic
 gynaecological
 gynaecologist
-gynaecomasty
 gynaecomastia
 gynaecomorphous
 gynaeconitis
@@ -6255,6 +6254,7 @@ gnathions
 gnathism
 gnathite
 gnathites
+gynaecomasty
 gnathitis
 gnatho
 gnathobase

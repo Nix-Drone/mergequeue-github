@@ -6405,7 +6405,6 @@ balancewise
 benzohydrol
 benzoic
 benzoid
-benzoyl
 benzoylate
 benzoylated
 benzoylating
@@ -13170,6 +13169,7 @@ bosn
 bosniac
 bosniak
 bosnian
+benzoyl
 bosnisch
 bosom
 bosomed
