@@ -11539,7 +11539,6 @@ cholecalciferol
 cholecyanin
 cholecyanine
 cholecyst
-cholecystalgia
 cholecystectasia
 cholecystectomy
 cholecystectomies
@@ -19465,6 +19464,7 @@ colourative
 coloured
 colourer
 colourers
+cholecystalgia
 colourfast
 colourful
 colourfully
