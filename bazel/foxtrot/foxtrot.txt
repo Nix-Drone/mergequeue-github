@@ -3031,7 +3031,6 @@ fibdom
 fiber
 fiberboard
 fibered
-fiberfill
 fiberglas
 fiberglass
 fiberization
@@ -11166,6 +11165,7 @@ fundmonger
 fundraise
 fundraising
 funds
+fiberfill
 funduck
 fundulinae
 funduline

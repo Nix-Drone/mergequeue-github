@@ -4017,6 +4017,7 @@ delegalize
 delegalized
 delegalizing
 delegant
+dependants
 delegare
 delegate
 delegated
@@ -5593,7 +5594,6 @@ dependance
 dependancy
 dependant
 dependantly
-dependants
 depended
 dependence
 dependency
