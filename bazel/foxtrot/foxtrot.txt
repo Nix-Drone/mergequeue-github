@@ -2716,7 +2716,6 @@ fervidity
 fervidly
 fervidness
 fervor
-fervorless
 fervorlessness
 fervorous
 fervors
@@ -11390,6 +11389,7 @@ furies
 furify
 furil
 furyl
+fervorless
 furile
 furilic
 furiosa
