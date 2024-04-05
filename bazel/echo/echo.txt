@@ -5423,7 +5423,6 @@ endpoints
 endrin
 endrins
 endromididae
-endromis
 endrudge
 endrumpf
 ends
@@ -7275,6 +7274,7 @@ eohippus
 eohippuses
 eoith
 eoiths
+endromis
 eolation
 eole
 eolian
