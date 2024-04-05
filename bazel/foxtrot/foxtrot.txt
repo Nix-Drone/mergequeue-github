@@ -1076,6 +1076,7 @@ farnesses
 faro
 faroeish
 faroelite
+foremast
 faroese
 faroff
 farolito
@@ -7835,7 +7836,6 @@ foremanship
 foremarch
 foremark
 foremartyr
-foremast
 foremasthand
 foremastman
 foremastmen
