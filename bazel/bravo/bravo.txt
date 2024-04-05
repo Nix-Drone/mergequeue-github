@@ -7498,7 +7498,6 @@ blastophore
 beveling
 bevelled
 beveller
-bevellers
 bevelling
 bevelment
 bevenom
@@ -13208,6 +13207,7 @@ bossing
 bossisms
 bosslet
 bossship
+bevellers
 bucketfuls
 bostal
 bostangi
