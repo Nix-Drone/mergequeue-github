@@ -3203,7 +3203,6 @@ basify
 baccate
 basification
 basifier
-basifiers
 basifies
 basifying
 basifixed
@@ -15360,6 +15359,7 @@ brigue
 brigued
 briguer
 bootjack
+basifiers
 briguing
 brike
 brill

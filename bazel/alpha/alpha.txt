@@ -3803,7 +3803,6 @@ adfected
 adffroze
 adffrozen
 adfiliate
-adfix
 adfluxion
 adfreeze
 adfreezing
@@ -23029,6 +23028,7 @@ attenuation
 attenuations
 attenuative
 attenuator
+adfix
 attenuators
 atter
 attercop
