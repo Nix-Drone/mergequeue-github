@@ -4719,7 +4719,6 @@ carryouts
 carryover
 carryovers
 carrys
-carrytale
 carritch
 carritches
 carriwitchet
@@ -12281,6 +12280,7 @@ christ
 christabel
 christadelphian
 christadelphianism
+carrytale
 christcross
 christdom
 christed
