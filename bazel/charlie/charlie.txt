@@ -8915,7 +8915,6 @@ characterologically
 characterologist
 characters
 characterstring
-charactonym
 charade
 charades
 charadrii
@@ -27937,6 +27936,7 @@ craftmanship
 crafts
 craftsman
 craftsmanly
+charactonym
 craftsmanlike
 craftsmanship
 craftsmaster
