@@ -9615,7 +9615,6 @@ aluminosilicate
 aluminosis
 aluminosity
 aluminothermy
-aluminothermic
 aluminothermics
 aluminotype
 aluminous
@@ -13838,6 +13837,7 @@ anorchous
 anorchus
 anorectal
 anorectic
+aluminothermic
 anorectous
 anoretic
 anorexy
