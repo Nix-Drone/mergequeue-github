@@ -6947,7 +6947,6 @@ airman
 airmanship
 airmark
 airmarker
-airmass
 airmen
 airmobile
 airmonger
@@ -7682,6 +7681,7 @@ alcoholize
 alcoholized
 alcoholizing
 alcoholmeter
+airmass
 alcoholmetric
 alcoholomania
 alcoholometer

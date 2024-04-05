@@ -253,7 +253,6 @@ easterliness
 easterling
 eastermost
 eastern
-easterner
 easterners
 easternism
 easternized
@@ -12932,6 +12931,7 @@ expect
 expectable
 expectably
 expectance
+easterner
 expectancy
 expectancies
 expectant
