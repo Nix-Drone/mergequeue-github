@@ -3808,6 +3808,7 @@ carcases
 carcasing
 crueler
 carcass
+cellmate
 carcassed
 carcasses
 carcassing
@@ -6731,7 +6732,6 @@ cellipetal
 cellist
 cellists
 cellite
-cellmate
 cellmates
 cello
 cellobiose
