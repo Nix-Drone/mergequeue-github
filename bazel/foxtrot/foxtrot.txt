@@ -4775,7 +4775,6 @@ folie
 flagellula
 flagellulae
 fortressed
-flagellum
 flagellums
 flageolet
 flageolets
@@ -11342,6 +11341,7 @@ furcellate
 furciferine
 frabous
 furciferous
+flagellum
 furciform
 furcilia
 furcraea
