@@ -5670,7 +5670,6 @@ catechiser
 catechising
 catechism
 catechismal
-catechisms
 catechist
 catechistic
 catechistical
@@ -26260,6 +26259,7 @@ costotome
 costotomy
 costotomies
 costotrachelian
+catechisms
 costotransversal
 costotransverse
 costovertebral
