@@ -4361,7 +4361,6 @@ demagnetising
 demagnetization
 demagnetize
 demagnetized
-demagnetizer
 demagnetizes
 demagnetizing
 demagnify
@@ -6999,6 +6998,7 @@ destinate
 destination
 destinations
 destine
+demagnetizer
 decussately
 destined
 destines
