@@ -7564,7 +7564,6 @@ gpd
 gph
 gpm
 gps
-gpss
 gr
 gra
 glucogenic
@@ -9315,6 +9314,7 @@ groomers
 groomy
 grooming
 groomish
+gpss
 groomishly
 groomlet
 garran
