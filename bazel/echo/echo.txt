@@ -7843,7 +7843,6 @@ epigraph
 epigrapher
 eftest
 epigraphy
-egyptianization
 epigraphic
 epigraphical
 epigraphically
@@ -12743,6 +12742,7 @@ exopeptidase
 exophagy
 exophasia
 exophasic
+egyptianization
 exophoria
 exophoric
 exophthalmia
