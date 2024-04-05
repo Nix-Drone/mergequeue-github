@@ -4819,7 +4819,6 @@ flaglet
 flaglike
 flotation
 flagmaker
-flagmaking
 flagman
 flagmen
 flagon
@@ -10838,6 +10837,7 @@ fuddles
 fuddling
 fuder
 fudge
+flagmaking
 fudged
 fudger
 fudgy
