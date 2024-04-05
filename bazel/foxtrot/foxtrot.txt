@@ -5100,6 +5100,7 @@ flashtubes
 flask
 ferricyanhydric
 flasker
+fortitudes
 forthbringer
 flasket
 flaskets
@@ -8750,7 +8751,6 @@ fortissimi
 fortissimo
 fortissimos
 fortitude
-fortitudes
 fortitudinous
 fortlet
 fortnight
