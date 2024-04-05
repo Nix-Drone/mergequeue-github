@@ -2262,7 +2262,6 @@ electrion
 electrizable
 electrization
 electrize
-electrized
 earthenware
 electrizer
 electrizing
@@ -5821,6 +5820,7 @@ engregge
 engrid
 ethereal
 engrieve
+electrized
 engroove
 engross
 engrossed

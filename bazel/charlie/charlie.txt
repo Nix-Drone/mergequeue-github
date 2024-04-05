@@ -13932,7 +13932,6 @@ cinnamenyl
 cinnamic
 cinnamyl
 cinnamylidene
-cinnamyls
 cinnamodendron
 cinnamoyl
 cinnamol
@@ -22485,6 +22484,7 @@ conjunctional
 conjunctionally
 conjunctions
 conjunctiva
+cinnamyls
 conjunctivae
 conjunctival
 conjunctivas
