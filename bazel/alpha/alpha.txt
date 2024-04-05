@@ -5132,7 +5132,6 @@ aerothermodynamics
 aerotonometer
 aerotonometry
 aerotonometric
-aerotow
 aerotropic
 aerotropism
 aeroview
@@ -13649,6 +13648,7 @@ annulose
 annuls
 annulus
 annuluses
+aerotow
 annum
 annumerate
 annunciable
