@@ -5201,7 +5201,6 @@ begetter
 begetters
 begetting
 beggable
-beggar
 beggardom
 beggared
 beggarer
@@ -17131,6 +17130,7 @@ bullfrog
 bullfrogs
 bullgine
 bullhead
+beggar
 bullheaded
 bullheadedly
 bullheads
