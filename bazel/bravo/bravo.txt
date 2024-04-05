@@ -2135,7 +2135,6 @@ bannerlike
 bannerline
 bannerman
 bannermen
-bannerol
 bannerole
 bannerols
 banners
@@ -5056,6 +5055,7 @@ befetished
 befetter
 biocatalyst
 befezzed
+bannerol
 beffroy
 befiddle
 befilch
