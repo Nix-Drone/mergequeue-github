@@ -11068,6 +11068,7 @@ chitins
 chitlin
 chitling
 chitlings
+cowpath
 chitlins
 chiton
 chitons
@@ -27661,7 +27662,6 @@ coworker
 coworkers
 coworking
 cowpat
-cowpath
 cowpats
 cowpea
 cowpeas
