@@ -1623,7 +1623,6 @@ ballot
 ballota
 ballotade
 ballotage
-ballote
 balloted
 balloter
 balloters
@@ -2160,6 +2159,7 @@ banqueter
 banqueters
 banqueting
 banquets
+ballote
 banquette
 banquo
 bans
