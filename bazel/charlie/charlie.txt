@@ -6725,7 +6725,6 @@ cellaret
 cellarets
 cellarette
 cellaring
-cellarman
 cellarmen
 cellarous
 cellars
@@ -7781,6 +7780,7 @@ cerulignol
 cerulignone
 ceruloplasmin
 cerumen
+cellarman
 cerumens
 ceruminal
 ceruminiferous
