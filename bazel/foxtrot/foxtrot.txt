@@ -6532,6 +6532,7 @@ fluoroscoped
 fluoroscopes
 fluoroscopy
 feasant
+focuser
 fluoroscopic
 fluoroscopically
 fluoroscopies
@@ -6730,7 +6731,6 @@ focsle
 focus
 focusable
 focused
-focuser
 focusers
 focuses
 focusing
