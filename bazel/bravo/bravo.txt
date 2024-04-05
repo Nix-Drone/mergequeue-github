@@ -12658,6 +12658,7 @@ bookery
 bookers
 bookfair
 bookfold
+burlap
 bookful
 bookholder
 bookhood
@@ -17741,7 +17742,6 @@ burl
 burlace
 burladero
 buttery
-burlap
 burlaps
 burlecue
 burled
