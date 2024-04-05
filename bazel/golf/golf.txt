@@ -4824,7 +4824,6 @@ gyrostachys
 gyrostat
 gyrostatic
 gyrostatically
-gyrostatics
 gyrostats
 gastroplenic
 gyrotheca
@@ -4987,6 +4986,7 @@ glaciology
 glaciologic
 glaciological
 glaciologist
+gyrostatics
 glaciologists
 ganisters
 glaciomarine
