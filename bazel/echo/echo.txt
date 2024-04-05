@@ -565,7 +565,6 @@ echinorhynchus
 echinorhinidae
 echinorhinus
 echinospermum
-echinosphaerites
 echinosphaeritidae
 echinostoma
 echinostomatidae
@@ -13947,6 +13946,7 @@ extraregarding
 extraregular
 extraregularly
 extrarenal
+echinosphaerites
 extraretinal
 extrarhythmical
 extras
