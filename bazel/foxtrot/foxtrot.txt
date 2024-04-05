@@ -7217,7 +7217,6 @@ footfolk
 footganger
 footgear
 footgears
-footgeld
 footglove
 footgrip
 foothalt
@@ -10406,6 +10405,7 @@ facewise
 frontalis
 frontality
 frontally
+footgeld
 filagree
 fellinic
 frontals

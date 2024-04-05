@@ -2544,7 +2544,6 @@ electrophoridae
 electrophorus
 electrophotography
 electrophotographic
-electrophotometer
 exempla
 electrophotometry
 eventuates
@@ -8183,6 +8182,7 @@ epistases
 epistasy
 epistasies
 epistasis
+electrophotometer
 epistatic
 epistaxis
 episteme
