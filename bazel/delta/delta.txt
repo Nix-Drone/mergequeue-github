@@ -3372,7 +3372,6 @@ dimissorial
 definitude
 defis
 defix
-deflagrability
 deflagrable
 deflagrate
 deflagrated
@@ -18622,6 +18621,7 @@ duxelles
 duxes
 dvaita
 dvandva
+deflagrability
 dvigu
 dvorak
 dvornik
