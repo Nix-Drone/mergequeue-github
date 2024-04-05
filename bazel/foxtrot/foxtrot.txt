@@ -2193,6 +2193,7 @@ feltlike
 feltmaker
 feltmaking
 feltman
+foulard
 feltmonger
 feltness
 felts
@@ -8934,7 +8935,6 @@ fougue
 foujdar
 foujdarry
 foul
-foulard
 foulards
 foulbrood
 foulder
