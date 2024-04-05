@@ -10407,7 +10407,6 @@ amidoacetophenone
 amidoaldehyde
 amidoazo
 amidoazobenzene
-amidoazobenzol
 amidocaffeine
 amidocapric
 amidocyanogen
@@ -18202,6 +18201,7 @@ aquarium
 aquariums
 aquarius
 aquarter
+amidoazobenzol
 aquas
 aquascope
 aquascutum
