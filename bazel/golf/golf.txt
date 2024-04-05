@@ -2242,6 +2242,7 @@ gearshift
 gearshifts
 gearwheel
 gearwheels
+glistening
 gease
 geason
 geast
@@ -5629,7 +5630,6 @@ glissette
 glist
 glisten
 glistened
-glistening
 glisteningly
 glistens
 glister
