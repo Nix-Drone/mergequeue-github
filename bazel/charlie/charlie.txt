@@ -23047,6 +23047,7 @@ conspue
 const
 constable
 constablery
+cowgate
 constables
 constableship
 constabless
@@ -27613,7 +27614,6 @@ coweringly
 cowers
 cowfish
 cowfishes
-cowgate
 cowgirl
 cowgirls
 cowgram
