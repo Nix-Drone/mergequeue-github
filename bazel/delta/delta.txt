@@ -8189,7 +8189,6 @@ dipus
 diagnoseable
 diagnosed
 diagnoses
-diagnosing
 diagnosis
 diagnostic
 diagnostical
@@ -8206,6 +8205,7 @@ diagonal
 diagonalizable
 diagonalization
 diagonalize
+diagnosing
 diagonally
 diagonals
 diagonalwise
