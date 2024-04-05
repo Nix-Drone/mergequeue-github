@@ -14047,6 +14047,7 @@ disutilize
 disvaluation
 disvalue
 disvalued
+doses
 disvalues
 disvaluing
 disvantage
@@ -15851,7 +15852,6 @@ dose
 dosed
 doser
 dosers
-doses
 dosimeter
 dosimeters
 dosimetry
