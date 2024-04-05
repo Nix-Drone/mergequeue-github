@@ -6021,6 +6021,7 @@ dequeue
 dequeued
 dequeues
 dequeuing
+dropshots
 der
 derabbinize
 deracialize
@@ -17378,7 +17379,6 @@ drops
 decarboxylase
 dropseed
 dropshot
-dropshots
 dropsy
 dropsical
 dropsically
