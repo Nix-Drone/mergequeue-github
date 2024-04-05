@@ -3206,6 +3206,7 @@ geophone
 geophones
 geoplagiotropism
 geoplana
+gonadectomized
 geoplanidae
 geopolar
 geopolitic
@@ -6773,7 +6774,6 @@ gonad
 gonadal
 gonadectomy
 gonadectomies
-gonadectomized
 gonadectomizing
 gonadial
 gonadotrope
