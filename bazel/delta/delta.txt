@@ -4082,7 +4082,6 @@ delicacies
 delicat
 delicate
 delicately
-delicateness
 delicates
 delicatesse
 delicatessen
@@ -17524,6 +17523,7 @@ druggists
 drugless
 drugmaker
 drugman
+delicateness
 drugs
 drugstores
 druid
