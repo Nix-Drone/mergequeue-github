@@ -372,6 +372,7 @@ backflow
 backflowing
 backfold
 backframe
+beknot
 backfriend
 backfurrow
 backgame
@@ -5537,7 +5538,6 @@ blossoming
 beknighted
 beknighting
 beknived
-beknot
 beknots
 beknotted
 beknottedly
