@@ -2470,7 +2470,6 @@ bardism
 bardlet
 bardlike
 bardling
-bardo
 bardocucullus
 bardolater
 bardolatry
@@ -4274,6 +4273,7 @@ beautification
 beautifications
 beautified
 beautifier
+bardo
 biriba
 beautifiers
 beautifies
