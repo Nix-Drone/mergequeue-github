@@ -5407,7 +5407,6 @@ catafalques
 catagenesis
 catagenetic
 catagmatic
-catagories
 catakinesis
 catakinetic
 catakinetomer
@@ -26653,6 +26652,7 @@ counteraddress
 counteradvance
 counteradvantage
 counteradvice
+catagories
 counteraffirm
 counteraffirmation
 counteragency
