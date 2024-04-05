@@ -6480,7 +6480,6 @@ entail
 entailable
 entailed
 entailer
-entailing
 entailment
 entailments
 entails
@@ -7129,6 +7128,7 @@ envelopes
 enveloping
 envelopment
 envelopments
+entailing
 envelops
 envenom
 envenomation
