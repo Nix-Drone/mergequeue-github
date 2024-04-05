@@ -8305,7 +8305,6 @@ alingual
 alining
 alinit
 alinota
-alinotum
 alintatao
 aliofar
 alioth
@@ -18046,6 +18045,7 @@ appunctuation
 appurtenance
 appurtenances
 aesthesics
+alinotum
 appurtenant
 apr
 apractic
