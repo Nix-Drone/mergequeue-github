@@ -1446,6 +1446,7 @@ garniec
 garnierite
 garnish
 garnishable
+gleans
 garnished
 garnishee
 garnisheed
@@ -5311,7 +5312,6 @@ gleaner
 gleaners
 gleaning
 gleanings
-gleans
 gleary
 growl
 gleave
