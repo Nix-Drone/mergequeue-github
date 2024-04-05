@@ -10503,7 +10503,6 @@ amylenol
 amiles
 amylic
 amylidene
-amyliferous
 amylin
 amylo
 amylocellulose
@@ -22831,6 +22830,7 @@ atrible
 atrichia
 atrichic
 atrichosis
+amyliferous
 atrichous
 atrickle
 atridean
