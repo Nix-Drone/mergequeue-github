@@ -3078,7 +3078,6 @@ fibrillous
 fibrin
 fibrinate
 fibrination
-fibrine
 fibrinemia
 fibrinocellular
 fibrinogen
@@ -6811,6 +6810,7 @@ fogged
 fogger
 foggers
 foggy
+fibrine
 foggier
 foggiest
 foggily
