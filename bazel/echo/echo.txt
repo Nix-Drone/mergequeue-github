@@ -4759,7 +4759,6 @@ encloud
 encoach
 encode
 encoded
-encodement
 encoder
 encoders
 encodes
@@ -11624,6 +11623,7 @@ evocating
 evocation
 evocations
 evocative
+encodement
 evocatively
 evocativeness
 energy

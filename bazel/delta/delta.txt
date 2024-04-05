@@ -3964,7 +3964,6 @@ delapse
 delapsion
 delassation
 delassement
-delate
 delated
 delater
 delates
@@ -6662,6 +6661,7 @@ desilicification
 desilicified
 desiliconization
 desiliconize
+delate
 desilt
 declared
 desilver
