@@ -5961,7 +5961,6 @@ floor
 floorage
 floorages
 floorboard
-floorboards
 foveated
 floorcloth
 floorcloths
@@ -8334,6 +8333,7 @@ forjudges
 forjudging
 forjudgment
 fork
+floorboards
 forkable
 forkbeard
 forked
