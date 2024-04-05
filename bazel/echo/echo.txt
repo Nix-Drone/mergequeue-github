@@ -6051,6 +6051,7 @@ enmeshes
 enmeshing
 enmeshment
 enmeshments
+estated
 enmew
 enmity
 enmities
@@ -9917,7 +9918,6 @@ estanciero
 estang
 estantion
 estate
-estated
 estately
 estates
 estatesman
