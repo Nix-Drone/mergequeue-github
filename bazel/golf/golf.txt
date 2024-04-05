@@ -1290,7 +1290,6 @@ garb
 garbage
 garbages
 garbanzo
-garbanzos
 garbardine
 garbed
 garbell
@@ -9835,6 +9834,7 @@ guam
 guama
 guamachil
 guamuchil
+garbanzos
 guan
 guana
 guanabana
