@@ -1572,7 +1572,6 @@ deaerating
 deaeration
 deaerator
 deaf
-deafen
 deafened
 deafening
 deafeningly
@@ -4640,6 +4639,7 @@ doblones
 demipesade
 demipike
 demipillar
+deafen
 demipique
 demiplacate
 demiplate
