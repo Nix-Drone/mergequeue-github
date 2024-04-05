@@ -21092,7 +21092,6 @@ asfast
 asfetida
 asg
 asgard
-asgd
 asgmt
 asha
 ashake
@@ -22676,6 +22675,7 @@ atmo
 atmocausis
 atmocautery
 atmoclastic
+asgd
 atmogenic
 atmograph
 atmolyses
