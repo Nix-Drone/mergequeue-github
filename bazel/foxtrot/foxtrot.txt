@@ -4618,7 +4618,6 @@ fiumara
 five
 fivebar
 fivefold
-fivefoldness
 fiveling
 fivepence
 fivepenny
@@ -6297,6 +6296,7 @@ flueman
 fluemen
 fluence
 fluency
+fivefoldness
 fluencies
 fluent
 fluently
