@@ -7871,7 +7871,6 @@ dextrans
 dextraural
 dextrer
 dextrin
-dextrinase
 dextrinate
 dextrine
 dextrines
@@ -11510,6 +11509,7 @@ discommon
 declaratives
 discommoned
 discommoning
+dextrinase
 discommons
 discommune
 demotics
