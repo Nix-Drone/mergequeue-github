@@ -2385,7 +2385,6 @@ electrofuse
 electrofused
 electrofusion
 electrogalvanic
-electroluminescent
 electrogalvanization
 electrogalvanize
 electrogasdynamics
@@ -2772,6 +2771,7 @@ eleotrid
 elepaio
 elephancy
 elephant
+electroluminescent
 elephanta
 elephantiac
 elephantiases
