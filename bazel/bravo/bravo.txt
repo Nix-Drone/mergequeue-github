@@ -2819,6 +2819,7 @@ baronnes
 baronry
 baronries
 barons
+botaniser
 briggs
 baronship
 byrls
@@ -13259,7 +13260,6 @@ botanics
 botanies
 botanise
 botanised
-botaniser
 botanises
 botanising
 botanist
