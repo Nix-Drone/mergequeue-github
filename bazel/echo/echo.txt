@@ -6649,7 +6649,6 @@ enteroplegia
 enteropneust
 estampedero
 enteropneusta
-enteropneustal
 enteropneustan
 enteroptosis
 enteroptotic
@@ -12588,6 +12587,7 @@ existent
 existentialism
 existentialist
 existentialistic
+enteropneustal
 existentialistically
 existentialists
 existentialize

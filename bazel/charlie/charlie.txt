@@ -1272,7 +1272,6 @@ calycifloral
 calyciflorate
 calyciflorous
 caliciform
-calyciform
 calycinal
 calycine
 calicle
@@ -9499,6 +9498,7 @@ checkerberry
 checkerberries
 checkerbloom
 checkerboard
+calyciform
 checkerboarded
 checkerboarding
 checkerboards
