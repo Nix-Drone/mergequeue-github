@@ -10797,7 +10797,6 @@ drain
 directionality
 directionalize
 directionally
-directionize
 directionless
 directions
 directitude
@@ -14625,6 +14624,7 @@ docile
 docilely
 docility
 docilities
+directionize
 delimitative
 docimasy
 docimasia
