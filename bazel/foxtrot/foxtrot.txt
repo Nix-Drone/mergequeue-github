@@ -3359,6 +3359,7 @@ fief
 fiefdom
 fiefdoms
 fiefs
+forfeitable
 fiel
 field
 fieldball
@@ -8214,7 +8215,6 @@ forfars
 forfault
 forfaulture
 forfeit
-forfeitable
 forfeitableness
 forfeited
 forfeiter
