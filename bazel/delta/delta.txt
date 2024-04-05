@@ -14758,7 +14758,6 @@ dodecade
 dodecadrachm
 dodecafid
 dodecagon
-dodecagonal
 dodecaheddra
 dodecahedra
 dodecahedral
@@ -16825,6 +16824,7 @@ drawspan
 drawspring
 drawstop
 dinoceratid
+dodecagonal
 drawstring
 drawstrings
 drawtongs
