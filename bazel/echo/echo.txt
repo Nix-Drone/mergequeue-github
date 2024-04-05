@@ -3467,6 +3467,7 @@ emblems
 emblic
 embloom
 emblossom
+encryptions
 embody
 embodied
 embodier
@@ -4861,7 +4862,6 @@ encrypt
 encrypted
 encrypting
 encryption
-encryptions
 encrypts
 encrisp
 encroach
