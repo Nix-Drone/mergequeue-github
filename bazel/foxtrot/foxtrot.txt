@@ -8655,7 +8655,6 @@ forstall
 forstand
 forsteal
 forsterite
-forstraught
 forsung
 forswat
 forswear
@@ -9895,6 +9894,7 @@ fresno
 fress
 fresser
 fret
+forstraught
 fretfully
 fretfulness
 fretish
