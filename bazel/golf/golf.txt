@@ -264,7 +264,6 @@ gaingiving
 gainyield
 gaining
 gainings
-gainless
 gainlessness
 gainly
 gainlier
@@ -2022,6 +2021,7 @@ gauges
 gauging
 gauk
 gaul
+gainless
 gaulding
 gauleiter
 gaulic
