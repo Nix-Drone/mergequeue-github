@@ -4189,7 +4189,6 @@ empodia
 empodium
 empoison
 empoisoned
-empoisoner
 empoisoning
 empoisonment
 empoisons
@@ -5344,6 +5343,7 @@ endothecate
 euchite
 endothecia
 endothecial
+empoisoner
 endothecium
 elamitic
 endothelia
