@@ -4813,7 +4813,6 @@ bedsheet
 bedsheets
 bedsick
 bedside
-bedsides
 bedsit
 bedsite
 bedsitter
@@ -17757,6 +17756,7 @@ burlesquely
 burlesquer
 burlesques
 burlesquing
+bedsides
 burlet
 burletta
 burly
