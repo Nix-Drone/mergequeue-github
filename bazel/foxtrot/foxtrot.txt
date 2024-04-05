@@ -4974,7 +4974,6 @@ flanged
 flangeless
 flangers
 flangeway
-flanging
 flank
 flankard
 flanked
@@ -8709,6 +8708,7 @@ forthrightness
 forthset
 forthtell
 forthteller
+flanging
 forthwith
 forty
 fortier
