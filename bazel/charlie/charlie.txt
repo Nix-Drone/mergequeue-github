@@ -3354,7 +3354,6 @@ capsulogenous
 capsulolenticular
 capsulopupillary
 capsulorrhaphy
-capsulotome
 capsulotomy
 capsumin
 captacula
@@ -6079,6 +6078,7 @@ caudal
 caudally
 caudalward
 caudata
+capsulotome
 caudate
 caudated
 caudation
