@@ -5339,7 +5339,6 @@ endostomata
 endostome
 endostosis
 endostraca
-endostracal
 endostracum
 endosulfan
 endotheca
@@ -6751,6 +6750,7 @@ enthronised
 enthronising
 enthronization
 enthronize
+endostracal
 enthronized
 enthronizing
 enthuse
