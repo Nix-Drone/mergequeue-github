@@ -4326,7 +4326,6 @@ enable
 expertising
 enabled
 enablement
-enabler
 enablers
 enables
 enabling
@@ -10869,6 +10868,7 @@ eulogizer
 eulogizers
 eulogizes
 eulogizing
+enabler
 eulophid
 eumelanin
 eumemorrhea
