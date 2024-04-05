@@ -3896,6 +3896,7 @@ gybed
 gibel
 gibelite
 gibeonite
+guarders
 giber
 gibers
 gibes
@@ -9926,7 +9927,6 @@ guardedness
 guardee
 guardeen
 guarder
-guarders
 guardfish
 guardful
 guardfully
