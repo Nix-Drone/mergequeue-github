@@ -82,6 +82,7 @@ facepiece
 faceplate
 facer
 facers
+fisticuffs
 faces
 facesaving
 facet
@@ -4520,7 +4521,6 @@ fisticuff
 fisticuffer
 fisticuffery
 fisticuffing
-fisticuffs
 fistify
 fistiness
 fisting
