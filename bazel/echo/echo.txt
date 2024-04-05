@@ -110,7 +110,6 @@ earphone
 earphones
 earpick
 earpiece
-earpieces
 earplug
 earplugs
 earreach
@@ -9997,6 +9996,7 @@ estimatingly
 estimation
 estimations
 estimative
+earpieces
 estimator
 estimators
 estipulate
