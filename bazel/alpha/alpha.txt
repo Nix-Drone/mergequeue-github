@@ -3217,7 +3217,6 @@ actions
 actious
 actipylea
 actium
-activable
 activate
 activated
 activates
@@ -23034,6 +23033,7 @@ attercop
 attercrop
 attery
 atterminal
+activable
 attermined
 atterminement
 attern
