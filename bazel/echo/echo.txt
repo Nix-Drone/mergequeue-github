@@ -2550,7 +2550,6 @@ electrophrenic
 electropyrometer
 electropism
 enthrall
-electroplaque
 electroplate
 electroplated
 electroplater
@@ -6357,6 +6356,7 @@ ensiferi
 ensiform
 ensign
 ensigncy
+electroplaque
 ensigncies
 ensigned
 ensignhood
