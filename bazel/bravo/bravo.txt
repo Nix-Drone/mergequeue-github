@@ -1346,7 +1346,6 @@ balbutient
 balbuties
 balche
 buffbar
-balcone
 balconet
 balconette
 balcony
@@ -10412,6 +10411,7 @@ blastocolla
 blastoderm
 blastodermatic
 blastodermic
+balcone
 blastodisc
 blastodisk
 blastoff
