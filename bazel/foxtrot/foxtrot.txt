@@ -2039,7 +2039,6 @@ felapton
 feldsher
 feldspar
 feldsparphyre
-feldspars
 feldspath
 feldspathic
 feldspathization
@@ -10392,6 +10391,7 @@ frons
 front
 frontad
 frontage
+feldspars
 frontager
 frontages
 frontal
