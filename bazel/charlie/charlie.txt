@@ -2693,6 +2693,7 @@ canonization
 canonizations
 canonize
 canonized
+catapult
 canonizer
 canonizes
 canonizing
@@ -5544,7 +5545,6 @@ cataplastic
 catapleiite
 cataplexy
 catapuce
-catapult
 catapulted
 catapultic
 catapultier
