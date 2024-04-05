@@ -911,7 +911,6 @@ bagle
 baglike
 bagmaker
 bagmaking
-bagman
 bagmen
 bagne
 bagnes
@@ -13458,6 +13457,7 @@ boudin
 boudoir
 boudoiresque
 boudoirs
+bagman
 bouet
 beatermen
 bouffage
