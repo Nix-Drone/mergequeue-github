@@ -2605,7 +2605,6 @@ ferrochrome
 ferrochromium
 ferrocyanate
 ferrocyanhydric
-ferrocyanogen
 ferroconcretor
 ferroelectric
 ferroelectricity
@@ -3971,6 +3970,7 @@ finery
 fines
 flavobacteria
 finespun
+ferrocyanogen
 finesse
 finessed
 finesser
