@@ -3991,7 +3991,6 @@ emotionable
 emotional
 emotionalise
 emotionalised
-emotionalising
 emotionalism
 emotionalist
 endosarcode
@@ -13280,6 +13279,7 @@ exporting
 exports
 expos
 exposable
+emotionalising
 exposal
 exposals
 expose
