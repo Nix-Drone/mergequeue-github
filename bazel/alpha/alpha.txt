@@ -287,7 +287,6 @@ articulate
 abduct
 abducted
 abducting
-abduction
 abductions
 abductor
 abductores
@@ -18240,6 +18239,7 @@ aqueous
 aqueously
 aqueousness
 aquerne
+abduction
 aquiclude
 aquicolous
 aquicultural
