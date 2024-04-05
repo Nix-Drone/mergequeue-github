@@ -8941,7 +8941,6 @@ ergo
 ergocalciferol
 ergodic
 ergodicity
-ergogram
 ergograph
 ergographic
 ergoism
@@ -12592,6 +12591,7 @@ existentially
 existently
 existents
 exister
+ergogram
 existibility
 existible
 existimation
