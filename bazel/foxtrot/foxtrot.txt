@@ -7725,7 +7725,6 @@ foregallery
 foregame
 foreganger
 foregate
-foregather
 foregift
 foregirth
 foregleam
@@ -11441,6 +11440,7 @@ furnarius
 furner
 furnish
 furnishable
+foregather
 furnished
 furnishes
 furnishing
