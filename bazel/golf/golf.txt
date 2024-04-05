@@ -5220,6 +5220,7 @@ glassteel
 glassware
 glassweed
 glasswork
+guider
 glassworker
 glassworkers
 glassworking
@@ -10162,7 +10163,6 @@ guideline
 guidelines
 guidepost
 guideposts
-guider
 gephyrean
 guideress
 guiders
