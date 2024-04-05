@@ -2197,7 +2197,6 @@ feltman
 feltmonger
 feltness
 felts
-feltwork
 feltwort
 felucca
 feluccas
@@ -6291,6 +6290,7 @@ fluegelhorn
 fluey
 flueless
 fluellen
+feltwork
 fluellin
 fluellite
 flueman
