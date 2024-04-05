@@ -1539,6 +1539,7 @@ callusing
 calm
 calmant
 calmative
+conveyor
 calmato
 calmecac
 calmed
@@ -23965,7 +23966,6 @@ conveyed
 conveyer
 conveyers
 conveying
-conveyor
 conveyorization
 conveyorize
 conveyorized
