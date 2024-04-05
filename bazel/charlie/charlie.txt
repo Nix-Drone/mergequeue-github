@@ -2873,7 +2873,6 @@ cantred
 cantref
 cantrip
 cantrips
-cants
 cantus
 cantut
 cantuta
@@ -30891,6 +30890,7 @@ cum
 cumacea
 cumacean
 cumaceous
+cants
 cumaean
 cumay
 cumal
