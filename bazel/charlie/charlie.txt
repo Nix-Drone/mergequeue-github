@@ -15608,6 +15608,7 @@ classified
 classifier
 classifiers
 classifies
+curriers
 classifying
 classily
 classiness
@@ -31444,7 +31445,6 @@ curried
 currier
 curriery
 currieries
-curriers
 curries
 curryfavel
 curryfavour
