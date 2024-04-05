@@ -6148,7 +6148,6 @@ flotage
 flotages
 flotant
 flotas
-flotations
 flotative
 flote
 floter
@@ -6352,6 +6351,7 @@ fluidize
 fluidized
 followup
 fluidizer
+flotations
 fluidizes
 fluidizing
 fluidly
