@@ -2230,7 +2230,6 @@ baptistry
 baptistries
 baptists
 baptizable
-baptize
 baptized
 baptizee
 baptizement
@@ -7216,6 +7215,7 @@ bestows
 bestraddle
 bestraddled
 bestraddling
+baptize
 bestrapped
 bestraught
 bestraw
