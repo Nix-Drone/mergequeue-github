@@ -2763,7 +2763,6 @@ barograms
 barograph
 barographic
 barographs
-baroi
 baroko
 barolo
 barology
@@ -3438,6 +3437,7 @@ bastiment
 bastinade
 bastinaded
 bastinades
+baroi
 bastinading
 bastinado
 bastinadoed
