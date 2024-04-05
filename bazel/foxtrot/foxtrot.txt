@@ -3779,6 +3779,7 @@ filmed
 filmer
 filmet
 filmgoer
+fissionability
 filmgoers
 filmgoing
 filmy
@@ -4478,7 +4479,6 @@ fissilingual
 fissilinguia
 fissility
 fission
-fissionability
 flunkydom
 fissionable
 fissioned
