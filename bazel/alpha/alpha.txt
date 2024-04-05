@@ -2334,7 +2334,6 @@ achromatisation
 achromatise
 achromatising
 achromatism
-achromatium
 achromatizable
 achromatization
 achromatize
@@ -5746,6 +5745,7 @@ aftertask
 aftertaste
 aftertastes
 afterthinker
+achromatium
 afterthought
 afterthoughted
 afterthoughts
