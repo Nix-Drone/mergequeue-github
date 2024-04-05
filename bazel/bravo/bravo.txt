@@ -11237,7 +11237,6 @@ blowouts
 blowpipe
 blowpipes
 blowpit
-blowpoint
 bolster
 blowproof
 blows
@@ -17578,6 +17577,7 @@ burdigalian
 burdock
 burdocks
 burdon
+blowpoint
 burds
 bure
 bureau
