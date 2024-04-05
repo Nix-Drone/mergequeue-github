@@ -4175,7 +4175,6 @@ bearward
 bearwood
 bearwoods
 bearwort
-beast
 beastbane
 beastdom
 beasthood
@@ -8589,6 +8588,7 @@ billbugs
 billed
 biller
 billers
+beast
 billet
 billete
 billeted
