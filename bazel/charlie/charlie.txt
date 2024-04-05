@@ -3176,7 +3176,6 @@ caponiers
 caponisation
 caponise
 caponised
-caponiser
 caponising
 caponization
 caponize
@@ -3299,6 +3298,7 @@ capron
 caprone
 capronic
 capronyl
+caponiser
 caps
 capsa
 capsaicin
