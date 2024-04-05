@@ -383,7 +383,6 @@ ebulliometry
 ebullioscope
 ebullioscopy
 ebullioscopic
-ebullition
 ebullitions
 ebullitive
 eburated
@@ -3901,6 +3900,7 @@ eminency
 eminencies
 eminent
 eminently
+ebullition
 emir
 emirate
 emirates
