@@ -1204,6 +1204,7 @@ dat
 database
 databases
 datable
+dogtrot
 datableness
 datably
 datacell
@@ -15015,7 +15016,6 @@ dogtie
 dogtooth
 dogtoothing
 dogtrick
-dogtrot
 dogtrots
 dogtrotted
 dogtrotting
