@@ -2625,7 +2625,6 @@ acomia
 acomous
 aconative
 acondylose
-acondylous
 acone
 aconelline
 aconic
@@ -6888,6 +6887,7 @@ airfreight
 airfreighter
 airglow
 airglows
+acondylous
 airgraph
 airgraphics
 anisometropia
