@@ -6855,7 +6855,6 @@ foyboat
 foyer
 foyers
 foil
-foilable
 foiled
 foiler
 foiling
@@ -10943,6 +10942,7 @@ fullness
 fullnesses
 fullom
 fulgoroidea
+foilable
 fullonian
 fulls
 fullterm
