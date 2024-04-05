@@ -6798,7 +6798,6 @@ emetin
 entitle
 entitled
 entitledness
-entitles
 enriched
 entitling
 entitule
@@ -9718,6 +9717,7 @@ espadon
 espadrille
 espadrilles
 espagnole
+entitles
 espagnolette
 espalier
 espaliered
