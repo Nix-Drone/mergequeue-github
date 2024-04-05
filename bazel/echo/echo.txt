@@ -5007,7 +5007,6 @@ endevil
 endew
 endexine
 endexines
-endfile
 endgame
 endgate
 endhand
@@ -9679,6 +9678,7 @@ esophagodynia
 esophagogastroscopy
 esophagogastrostomy
 esophagomalacia
+endfile
 esophagometer
 esophagomycosis
 esophagopathy
