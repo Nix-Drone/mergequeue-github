@@ -2151,7 +2151,6 @@ elcaja
 elchee
 eld
 elder
-elderberry
 elderberries
 elderbrotherhood
 elderbrotherish
@@ -12765,6 +12764,7 @@ exor
 exorability
 exorable
 elytroptosis
+elderberry
 exorableness
 exorate
 exorbital
