@@ -7571,7 +7571,6 @@ deverbative
 devertebrated
 devest
 devested
-devesting
 devests
 devex
 devexity
@@ -8365,6 +8364,7 @@ dialogized
 dialogizing
 dialogs
 dialogue
+devesting
 dialogued
 dialoguer
 dialogues
