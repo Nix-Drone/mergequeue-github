@@ -3287,7 +3287,6 @@ fiddles
 foreknowable
 fiddlestick
 fiddlesticks
-fiddlestring
 fiddlewood
 fiddly
 fiddlies
@@ -9435,6 +9434,7 @@ frankheartedly
 frankheartedness
 frankheartness
 frankify
+fiddlestring
 frankincense
 frankincensed
 franking
