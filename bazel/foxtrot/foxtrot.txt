@@ -4232,7 +4232,6 @@ firelocks
 fetterless
 fireman
 firemanship
-firemaster
 firemen
 firepan
 firepans
@@ -11113,6 +11112,7 @@ functionalist
 functionalistic
 functionalities
 formatively
+firemaster
 functionalize
 functionalized
 functionalizing
