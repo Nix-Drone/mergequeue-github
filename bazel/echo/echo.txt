@@ -5770,7 +5770,6 @@ engraced
 engraffed
 engraffing
 engraft
-engraftation
 engrafted
 engrafter
 engrafting
@@ -12649,6 +12648,7 @@ exochorda
 exochorion
 exocyclic
 exocyclica
+engraftation
 exocycloida
 exocytosis
 exoclinal
