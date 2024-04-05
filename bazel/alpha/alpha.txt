@@ -7390,6 +7390,7 @@ agrostographic
 albatros
 albatross
 africander
+axlike
 albe
 albedo
 albedograph
@@ -25139,7 +25140,6 @@ axles
 axlesmith
 axletree
 axletrees
-axlike
 axmaker
 axmaking
 axman
