@@ -2835,6 +2835,7 @@ elevator
 elevatory
 elevators
 eleve
+escalators
 eleven
 elevener
 elevenfold
@@ -9437,7 +9438,6 @@ escalation
 escalations
 escalator
 escalatory
-escalators
 escalier
 escalin
 escallonia
