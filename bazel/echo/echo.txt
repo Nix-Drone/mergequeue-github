@@ -6793,7 +6793,6 @@ electrodiagnoses
 entireness
 entires
 entirety
-entireties
 entiris
 entirities
 entitative
@@ -13276,6 +13275,7 @@ exportations
 exported
 exporter
 exporters
+entireties
 exporting
 exports
 expos
