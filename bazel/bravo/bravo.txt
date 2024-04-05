@@ -3917,7 +3917,6 @@ bazooka
 bazookaman
 bazookamen
 bazookas
-bazoos
 bazzite
 bb
 bbl
@@ -13645,6 +13644,7 @@ bourtrees
 bouse
 boused
 bouser
+bazoos
 bouses
 bousy
 bousing
