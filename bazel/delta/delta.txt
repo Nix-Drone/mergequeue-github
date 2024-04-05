@@ -337,6 +337,7 @@ daybeacon
 daybeam
 daybed
 daybeds
+dollfaced
 dayberry
 daybill
 dayblush
@@ -15164,7 +15165,6 @@ dolldom
 dolled
 dolley
 dollface
-dollfaced
 dollfish
 dehull
 dollhood
