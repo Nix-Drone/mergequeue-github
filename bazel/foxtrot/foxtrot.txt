@@ -4581,7 +4581,6 @@ feudalised
 fitout
 fitroot
 fits
-fittable
 fittage
 fytte
 fitted
@@ -8449,6 +8448,7 @@ formazan
 formazyl
 formboard
 forme
+fittable
 formed
 formedon
 formee
