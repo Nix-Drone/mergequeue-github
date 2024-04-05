@@ -1187,7 +1187,6 @@ fasciodesis
 fasciola
 fasciolae
 fasciolar
-fasciolaria
 fasciolariidae
 fasciole
 fascioliasis
@@ -4821,6 +4820,7 @@ flagmen
 flagon
 flagonless
 flagons
+fasciolaria
 frontspiece
 flagpole
 flagpoles
