@@ -1790,7 +1790,6 @@ gastroenterology
 gastroenterologic
 gastroenterological
 gastroenterologically
-gastroenterologist
 gastroenterologists
 gastroenterostomy
 gastroenterostomies
@@ -9366,6 +9365,7 @@ groschen
 groser
 groset
 grosgrain
+gastroenterologist
 grosgrained
 grosgrains
 gross
