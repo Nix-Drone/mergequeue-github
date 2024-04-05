@@ -2879,7 +2879,6 @@ gentes
 genthite
 gentian
 gentiana
-gentianaceae
 gentianal
 gentianales
 gentianella
@@ -10050,6 +10049,7 @@ gueparde
 guerdon
 guerdonable
 guerdoned
+gentianaceae
 guerdoner
 guerdoning
 guerdonless
