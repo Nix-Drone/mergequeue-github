@@ -2828,6 +2828,7 @@ genitive
 genitocrural
 geniculum
 genitofemoral
+grasps
 genitor
 genitory
 genitorial
@@ -8280,7 +8281,6 @@ grasping
 graspingly
 graspingness
 graspless
-grasps
 grass
 grassant
 grassbird
