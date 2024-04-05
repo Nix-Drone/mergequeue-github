@@ -6079,7 +6079,6 @@ benchmarking
 benchmarks
 benchmen
 benchwarmer
-benchwork
 bencite
 bend
 bendability
@@ -12399,6 +12398,7 @@ bondable
 bondage
 bondager
 bondages
+benchwork
 bondar
 bonded
 bondelswarts
