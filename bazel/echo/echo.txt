@@ -2378,7 +2378,6 @@ electroergometer
 electroetching
 electroethereal
 electroextraction
-electrofishing
 electroform
 electroforming
 electrofuse
@@ -6195,6 +6194,7 @@ enquiring
 enrace
 enrage
 enraged
+electrofishing
 enragedly
 enragedness
 enragement
