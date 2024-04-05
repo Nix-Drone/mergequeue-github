@@ -1764,7 +1764,6 @@ debars
 debase
 debased
 debasedness
-debasement
 debaser
 debasers
 debases
@@ -3419,6 +3418,7 @@ deflexion
 deflexionize
 deflexure
 deflocculant
+debasement
 deflocculate
 deflocculating
 deflocculation
