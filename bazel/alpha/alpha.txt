@@ -4227,7 +4227,6 @@ adnoun
 adnouns
 adnumber
 ado
-adobe
 adobes
 adobo
 adobos
@@ -23990,6 +23989,7 @@ autodiagnosis
 autodiagnostic
 autodiagrammatic
 autodial
+adobe
 autodialed
 autodialer
 autodialers
