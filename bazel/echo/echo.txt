@@ -11655,6 +11655,7 @@ evolutionize
 evolutions
 evolutive
 evolutoid
+exploding
 evolvable
 evolve
 evolved
@@ -13202,7 +13203,6 @@ explodent
 exploder
 exploders
 explodes
-exploding
 exploit
 exploitable
 exploitage
