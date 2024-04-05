@@ -4369,7 +4369,6 @@ becalmment
 becalms
 became
 becap
-becapped
 becapping
 becaps
 becard
@@ -6618,6 +6617,7 @@ bereaving
 berede
 bereft
 brouze
+becapped
 berend
 berendo
 berengaria
