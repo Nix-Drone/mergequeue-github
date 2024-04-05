@@ -15818,7 +15818,6 @@ cleanness
 cleanout
 cleansable
 cleanse
-cleansed
 cleanser
 cleansers
 cleanses
@@ -21918,6 +21917,7 @@ confessionals
 confessionary
 confessionaries
 confessionist
+cleansed
 confessions
 confessor
 confessory
