@@ -7945,7 +7945,6 @@ epimerum
 epimyocardial
 epimyocardium
 epimysia
-epimysium
 epimyth
 epimorpha
 epimorphic
@@ -8550,6 +8549,7 @@ equerries
 equerryship
 eques
 equestrial
+epimysium
 equestrian
 equestrianism
 equestrianize
