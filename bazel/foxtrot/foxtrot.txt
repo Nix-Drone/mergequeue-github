@@ -5665,7 +5665,6 @@ flimsiness
 flinch
 flinched
 flincher
-flinchers
 flinches
 flinching
 flinchingly
@@ -8649,6 +8648,7 @@ forsythias
 forslack
 forsloth
 forslow
+flinchers
 forsook
 forsooth
 forspeak
