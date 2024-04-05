@@ -7617,7 +7617,6 @@ foreclaw
 foreclosable
 foreclose
 foreclosed
-forecloses
 foreclosing
 foreclosure
 foreclosures
@@ -8224,6 +8223,7 @@ flung
 foreworn
 forewritten
 forewrought
+forecloses
 forex
 forfairn
 forfalt
