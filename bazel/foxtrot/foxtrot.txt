@@ -3895,7 +3895,6 @@ finalist
 finality
 finalities
 finalization
-finalizations
 finalize
 finalized
 finalizes
@@ -4705,6 +4704,7 @@ flabbella
 flabbergast
 flabbergastation
 flabbergasted
+finalizations
 flabbergasting
 flabbergastingly
 flabbergasts
