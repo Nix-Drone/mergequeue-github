@@ -3648,7 +3648,6 @@ gettableness
 getter
 gettered
 gettering
-getters
 getting
 gettings
 gettysburg
@@ -4317,6 +4316,7 @@ gymnotokous
 grotesquery
 gymnotus
 gymnura
+getters
 gymnure
 gymnurinae
 gymnurine
