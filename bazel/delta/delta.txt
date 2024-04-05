@@ -5690,7 +5690,6 @@ deplaceable
 deplane
 deplaned
 dragonfish
-deplanes
 deplaning
 deplant
 deplantation
@@ -8288,6 +8287,7 @@ dialypetalae
 dialypetalous
 dialyphyllous
 dialysability
+deplanes
 dialysable
 dialysate
 doughs
