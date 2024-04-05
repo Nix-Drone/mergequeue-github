@@ -10460,6 +10460,7 @@ fluoridations
 frontooccipital
 frontoorbital
 frontoparietal
+funded
 frontosphenoidal
 frontotemporal
 frontozygomatic
@@ -11148,7 +11149,6 @@ fundamentals
 fundatorial
 fundatrices
 fundatrix
-funded
 funder
 funders
 fundholder
