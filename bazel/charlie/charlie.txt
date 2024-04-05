@@ -8442,6 +8442,7 @@ chamferer
 chamfering
 chamfers
 chamfrain
+cradock
 chamfron
 chamfrons
 chamian
@@ -27914,7 +27915,6 @@ cradlesong
 cradlesongs
 cradletime
 cradling
-cradock
 craft
 crafted
 crafter

@@ -4958,6 +4958,7 @@ demountable
 demounted
 demounting
 demounts
+disgage
 dempne
 dempster
 dempsters
@@ -12143,7 +12144,6 @@ dysfunctions
 disfurnish
 disfurnished
 disfurniture
-disgage
 disgallant
 drillstock
 disgarnish
