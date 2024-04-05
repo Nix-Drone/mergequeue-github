@@ -10212,7 +10212,6 @@ dinornithoid
 dino
 dinosaur
 dinosauria
-dinosaurian
 dinosauric
 dinothere
 dinotheres
@@ -12993,6 +12992,7 @@ dispersedelement
 dispersedye
 dispersedly
 dispersedness
+dinosaurian
 dispersement
 disperser
 dispersers
