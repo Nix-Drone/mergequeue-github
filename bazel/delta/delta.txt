@@ -11544,7 +11544,6 @@ disconfirm
 disconfirmation
 disconfirmed
 disconform
-disconformable
 disconformably
 disconformity
 disconformities
@@ -15014,6 +15013,7 @@ dogshore
 dogskin
 dogsled
 dogsleds
+disconformable
 dogsleep
 dogstail
 dogstones
