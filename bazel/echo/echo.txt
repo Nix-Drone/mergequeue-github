@@ -6625,7 +6625,6 @@ enterokinetic
 enterolysis
 eddies
 enterolith
-enterolithiasis
 enterolobium
 enterology
 enterologic
@@ -10387,6 +10386,7 @@ ethmosphenoid
 ethmosphenoidal
 ethmoturbinal
 ethmovomer
+enterolithiasis
 ethmovomerine
 ethnal
 ethnarchy
