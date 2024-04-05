@@ -1859,7 +1859,6 @@ gastrophrenic
 gastrophthisis
 gastropyloric
 gastroplasty
-gastroplenic
 gastropleuritis
 gastroplication
 gastropneumatic
@@ -4822,6 +4821,7 @@ gyrostatic
 gyrostatically
 gyrostatics
 gyrostats
+gastroplenic
 gyrotheca
 girouette
 girouettes
