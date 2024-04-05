@@ -8919,7 +8919,6 @@ biochemistries
 biochemists
 bandoras
 biochore
-biochron
 biocycle
 biocycles
 botan
@@ -14508,6 +14507,7 @@ brandise
 brandish
 brandished
 brandisher
+biochron
 brandishers
 brandishes
 brandishing
