@@ -214,7 +214,6 @@ daemonology
 daemons
 daemonurgy
 daemonurgist
-daer
 daeva
 daff
 daffadilly
@@ -2544,6 +2543,7 @@ declinograph
 declinometer
 declivate
 declive
+daer
 declivent
 declivity
 declivities
