@@ -292,6 +292,7 @@ eatche
 eaten
 eater
 eatery
+embedding
 eateries
 espousers
 eaters
@@ -3376,7 +3377,6 @@ embeddable
 embedded
 embedder
 exsibilate
-embedding
 embedment
 embeds
 embelia
