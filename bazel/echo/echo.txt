@@ -6793,7 +6793,6 @@ entiris
 entirities
 entitative
 entitatively
-entity
 entities
 emetin
 entitle
@@ -10048,6 +10047,7 @@ estrado
 estragol
 estragole
 estragon
+entity
 estragons
 estray
 estrayed
