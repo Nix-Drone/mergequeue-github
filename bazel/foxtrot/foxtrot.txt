@@ -4153,6 +4153,7 @@ fireback
 fireball
 fireballs
 firebase
+flanky
 firebed
 firebird
 firebirds
@@ -4986,7 +4987,6 @@ flanken
 flanker
 flankers
 fireshaft
-flanky
 flanking
 flanks
 flankwise
