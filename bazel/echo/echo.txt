@@ -2717,6 +2717,7 @@ eleidin
 elektra
 elelments
 elem
+explorations
 eleme
 element
 elemental
@@ -13222,7 +13223,6 @@ emporia
 explorable
 exploration
 explorational
-explorations
 explorative
 exploratively
 explorativeness
