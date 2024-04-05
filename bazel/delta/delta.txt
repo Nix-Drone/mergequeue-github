@@ -5224,7 +5224,6 @@ denotate
 denotation
 denotational
 denotationally
-denotations
 denotative
 denotatively
 denotativeness
@@ -16580,6 +16579,7 @@ dragon
 dragonade
 deda
 dactylopius
+denotations
 dragonesque
 dragoness
 dragonet
