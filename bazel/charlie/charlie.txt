@@ -11550,7 +11550,6 @@ cholecystoduodenostomy
 cholecystogastrostomy
 cholecystogram
 cholecystography
-cholecystoileostomy
 cholecystojejunostomy
 cholecystokinin
 cholecystolithiasis
@@ -23245,6 +23244,7 @@ consumingness
 consummated
 consummately
 consummates
+cholecystoileostomy
 consummating
 consummation
 consummations
