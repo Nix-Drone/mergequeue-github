@@ -2178,7 +2178,6 @@ felsosphaerite
 felspar
 felspars
 felspath
-felspathic
 felspathose
 felstone
 felstones
@@ -11146,6 +11145,7 @@ fundamentally
 fundamentalness
 fundamentals
 fundatorial
+felspathic
 fundatrices
 fundatrix
 funder
