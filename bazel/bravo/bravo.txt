@@ -11146,7 +11146,6 @@ blossomhead
 blossomy
 blossomless
 blossoms
-blossomtime
 blot
 blotch
 blotched
@@ -15375,6 +15374,7 @@ brilliantness
 brilliants
 brilliantwise
 brilliolette
+blossomtime
 brillolette
 brills
 brim
