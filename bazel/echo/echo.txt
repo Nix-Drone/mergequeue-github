@@ -4532,7 +4532,6 @@ encephalitogenic
 encephalocele
 encephalocoele
 encephalodialysis
-encephalogram
 encephalograph
 encephalographic
 encephalographically
@@ -7916,6 +7915,7 @@ epiloguize
 epiloia
 epimachinae
 epimacus
+encephalogram
 epimandibular
 epimanikia
 epimanikion
