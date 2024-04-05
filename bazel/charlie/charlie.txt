@@ -16645,7 +16645,6 @@ closer
 closers
 closes
 closest
-closestool
 closet
 closeted
 closetful
@@ -25601,6 +25600,7 @@ corpulences
 corpulency
 corpulencies
 corpulent
+closestool
 corpulently
 corpulentness
 corpus
