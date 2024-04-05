@@ -6548,7 +6548,6 @@ fluosilicate
 fluosilicic
 fluotantalate
 fluotantalic
-fluotitanate
 fluotitanic
 fluozirconic
 fluphenazine
@@ -6690,6 +6689,7 @@ foals
 foam
 foambow
 foamed
+fluotitanate
 foamer
 foamflower
 foamy
