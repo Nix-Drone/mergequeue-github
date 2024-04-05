@@ -684,6 +684,7 @@ damonico
 damosel
 damosels
 damozel
+decapitalize
 damozels
 damp
 dampcourse
@@ -12446,7 +12447,6 @@ disinheriting
 disinherits
 disinhibition
 disinhume
-decapitalize
 disinhumed
 disinhuming
 disinsection
