@@ -2612,6 +2612,7 @@ barysilite
 barysphere
 barit
 baryta
+bloodlike
 barytas
 barite
 baryte
@@ -11058,7 +11059,6 @@ bloodlessness
 bloodletter
 bloodletting
 bloodlettings
-bloodlike
 bloodline
 bloodlines
 bloodlusting
