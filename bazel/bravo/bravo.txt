@@ -6359,6 +6359,7 @@ benzenes
 benzenyl
 benzenoid
 benzhydrol
+billsticking
 benzhydroxamic
 benzidin
 benzidine
@@ -8671,7 +8672,6 @@ billposter
 billposting
 bills
 billsticker
-billsticking
 billtong
 bilo
 bilobate
