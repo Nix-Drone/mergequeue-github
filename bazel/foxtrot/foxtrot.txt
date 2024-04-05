@@ -5354,7 +5354,6 @@ flear
 fleas
 fleaseed
 fleaweed
-fleawood
 fealties
 fleawort
 fleaworts
@@ -10021,6 +10020,7 @@ friendlily
 friendliness
 friendliwise
 friends
+fleawood
 friendship
 fuciphagous
 friendships
