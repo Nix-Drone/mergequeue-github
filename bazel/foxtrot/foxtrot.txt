@@ -102,7 +102,6 @@ facetting
 faceup
 facework
 facy
-facia
 facial
 facially
 facials
@@ -1934,6 +1933,7 @@ feedbag
 feedbags
 feedbin
 feedboard
+facia
 feedbox
 feedboxes
 feeded
