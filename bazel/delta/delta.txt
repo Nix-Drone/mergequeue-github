@@ -10602,7 +10602,6 @@ diplomates
 diplomatic
 diplomatical
 diplomatically
-diplomatics
 diplomatique
 diplomatism
 diplomatist
@@ -15493,6 +15492,7 @@ donnot
 donor
 donors
 donorship
+diplomatics
 donought
 donovan
 dons
