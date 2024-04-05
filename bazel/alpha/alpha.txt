@@ -8864,6 +8864,7 @@ allomerize
 allomerized
 allomerizing
 allomerous
+averager
 allometry
 allomorph
 allomorphic
@@ -24647,7 +24648,6 @@ average
 averaged
 averagely
 averageness
-averager
 averages
 averaging
 averah
