@@ -1151,7 +1151,6 @@ fasciate
 fasciated
 fasciately
 fasciation
-fascicle
 fascicled
 fascicles
 fascicular
@@ -7262,6 +7261,7 @@ footlog
 footloose
 footmaker
 footmanhood
+fascicle
 footmanry
 footmanship
 footmark
