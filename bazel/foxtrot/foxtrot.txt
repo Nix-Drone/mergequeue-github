@@ -764,6 +764,7 @@ fastback
 fand
 fandangle
 fandango
+follicule
 fandangos
 fandom
 fandoms
@@ -7018,7 +7019,6 @@ follicles
 follicular
 folliculate
 folliculated
-follicule
 folliculin
 folliculina
 folliculitis
