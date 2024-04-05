@@ -5197,7 +5197,6 @@ begem
 begemmed
 begemming
 beget
-begets
 begettal
 begetter
 begetters
@@ -8151,6 +8150,7 @@ bidirectionally
 bidiurnal
 bidonville
 bidpai
+begets
 bidree
 bidri
 bidry
