@@ -6329,7 +6329,6 @@ benzaldoxime
 benzalethylamine
 benzalhydrazine
 benzalphenylhydrazone
-bugseeds
 benzalphthalide
 benzamide
 benzamido
@@ -13000,6 +12999,7 @@ boregat
 borehole
 boreholes
 boreiad
+bugseeds
 boreism
 borel
 borele
