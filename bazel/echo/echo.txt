@@ -2916,7 +2916,6 @@ elinguation
 elingued
 eleatic
 elinor
-elinvar
 eliot
 eliphalet
 eliquate
@@ -9580,6 +9579,7 @@ escribe
 escribed
 escribiente
 escribientes
+elinvar
 escribing
 escrime
 escript
