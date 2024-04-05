@@ -8194,7 +8194,6 @@ chairmen
 chairmender
 chairmending
 chayroot
-chairperson
 chairpersons
 chairs
 chairway
@@ -18346,6 +18345,7 @@ cognizance
 cognizant
 cognize
 cognized
+chairperson
 cognizee
 cognizer
 cognizes
