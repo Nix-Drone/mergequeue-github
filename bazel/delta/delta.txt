@@ -3278,7 +3278,6 @@ defers
 defervesce
 dressiness
 defervesced
-defervescence
 defervescent
 defervescing
 defet
@@ -7542,6 +7541,7 @@ developability
 developable
 develope
 developed
+defervescence
 developedness
 developement
 developer
