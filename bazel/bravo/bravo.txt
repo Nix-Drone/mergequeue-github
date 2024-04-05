@@ -15183,7 +15183,6 @@ brickmaking
 brickmason
 brickred
 bricks
-brickset
 bricksetter
 bricktimber
 bricktop
@@ -17046,6 +17045,7 @@ bulkily
 bulkin
 bulkiness
 bulking
+brickset
 bulkish
 bulks
 bull
