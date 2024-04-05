@@ -975,7 +975,6 @@ edam
 edana
 edaphic
 edaphically
-edaphodont
 edaphology
 edaphon
 edaphosauria
@@ -5212,6 +5211,7 @@ endoperidium
 endoperitonitis
 endophagy
 endophagous
+edaphodont
 endophasia
 endophasic
 endophyllaceae
