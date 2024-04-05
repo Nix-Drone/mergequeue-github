@@ -5689,6 +5689,7 @@ deplace
 deplaceable
 deplane
 deplaned
+dragonfish
 deplanes
 deplaning
 deplant
@@ -16578,7 +16579,6 @@ dragonesque
 dragoness
 dragonet
 dragonets
-dragonfish
 dragonfishes
 dragonfly
 dragonflies
