@@ -4082,7 +4082,6 @@ empetrum
 empexa
 emphase
 emphases
-emphasis
 emphasise
 emphasised
 emphasising
@@ -13783,6 +13782,7 @@ extraconstellated
 extraconstitutional
 extracorporeally
 extracorpuscular
+emphasis
 extracosmic
 extracosmical
 extracostal
