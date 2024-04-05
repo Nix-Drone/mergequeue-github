@@ -4756,7 +4756,6 @@ girns
 giro
 gyro
 gyrocar
-gyroceracone
 gyroceran
 gyroceras
 goodwills
@@ -10633,6 +10632,7 @@ guric
 gurish
 gurjan
 gurjun
+gyroceracone
 gurk
 gurkha
 glyconin
