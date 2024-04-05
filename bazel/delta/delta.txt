@@ -2608,7 +2608,6 @@ decolonize
 decolonized
 decolonizes
 decolor
-decolorant
 decolorate
 decoloration
 decolored
@@ -9285,6 +9284,7 @@ dieties
 dietine
 dieting
 dietist
+decolorant
 dietitian
 dietitians
 dietotherapeutics
