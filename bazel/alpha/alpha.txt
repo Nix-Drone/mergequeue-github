@@ -5703,6 +5703,7 @@ afterpiece
 afterplay
 afterplanting
 afterpotential
+autolysis
 afterpressure
 afterproof
 afterrake
@@ -24142,7 +24143,6 @@ autolimnetic
 autolysate
 autolyse
 autolysin
-autolysis
 autolith
 autolithograph
 autolithographer

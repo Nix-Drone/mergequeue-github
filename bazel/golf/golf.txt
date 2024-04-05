@@ -670,7 +670,6 @@ gallivanting
 gallivants
 gallivat
 gallivorous
-galliwasp
 gallywasp
 gallize
 gallnut
@@ -5580,6 +5579,7 @@ glyoxalic
 glyoxalin
 glyoxaline
 glyoxyl
+galliwasp
 glyoxylic
 glyoxilin
 glyoxime
