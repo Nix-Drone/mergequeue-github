@@ -1584,7 +1584,6 @@ favositoid
 favour
 favourable
 favourableness
-favourably
 favoured
 favouredly
 favouredness
@@ -4144,6 +4143,7 @@ firearm
 firearmed
 firearms
 fireback
+favourably
 fireball
 fireballs
 firebase
