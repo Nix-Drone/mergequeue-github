@@ -3873,6 +3873,7 @@ emigate
 emigated
 emigates
 emigating
+ethid
 emigr
 emigrant
 eavesdrip
@@ -10305,7 +10306,6 @@ ethicopolitical
 ethicoreligious
 ethicosocial
 ethics
-ethid
 ethide
 expoliate
 ethidene
