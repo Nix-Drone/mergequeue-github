@@ -4156,7 +4156,6 @@ gillnet
 gillnets
 gillnetted
 gillnetting
-gillot
 gillotage
 gillotype
 gills
@@ -6274,6 +6273,7 @@ gnathostomata
 gnathostome
 gnathostomi
 gnathotheca
+gillot
 gnatlike
 gnatling
 gnatoo
