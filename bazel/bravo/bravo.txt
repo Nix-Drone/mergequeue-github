@@ -4931,6 +4931,7 @@ beegerite
 beehead
 beeheaded
 beeherd
+bouncing
 beehive
 beehives
 beehouse
@@ -13542,7 +13543,6 @@ bouncier
 bounciest
 bouncily
 bounciness
-bouncing
 bouncingly
 bound
 boundable
