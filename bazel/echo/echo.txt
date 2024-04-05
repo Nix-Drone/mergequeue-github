@@ -2213,6 +2213,7 @@ electioneers
 elections
 elective
 electively
+ephemerons
 electiveness
 electives
 electivism
@@ -7488,7 +7489,6 @@ ephemerist
 ephemeromorph
 ephemeromorphic
 ephemeron
-ephemerons
 ephemeroptera
 ephemerous
 ephererist
