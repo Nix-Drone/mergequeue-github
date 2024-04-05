@@ -807,6 +807,7 @@ fanion
 footlike
 fanioned
 fanions
+firebolt
 fanit
 fanjet
 fanjets
@@ -4159,7 +4160,6 @@ fireboard
 fireboat
 fireboats
 fireboy
-firebolt
 firebolted
 firebomb
 firebombed
