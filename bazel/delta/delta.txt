@@ -3330,7 +3330,6 @@ defeatment
 defiledness
 defilement
 defilements
-defiler
 defilers
 defiles
 defiliation
@@ -10633,6 +10632,7 @@ diplopodous
 diplopods
 diplopteryga
 diplopterous
+defiler
 diploses
 diplosis
 diplosome
