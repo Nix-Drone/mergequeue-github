@@ -4183,7 +4183,6 @@ fired
 firedamp
 firedamps
 firedog
-firedogs
 firedragon
 firedrake
 firefall
@@ -8431,6 +8430,7 @@ formanilide
 formant
 formants
 format
+firedogs
 formate
 formates
 formating
