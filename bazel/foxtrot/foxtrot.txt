@@ -5017,6 +5017,7 @@ flanque
 flans
 flap
 flapcake
+freeloader
 flapdock
 flapdoodle
 furcately
@@ -9684,7 +9685,6 @@ freelancing
 freely
 freeload
 freeloaded
-freeloader
 freeloaders
 freeloading
 freeloads
