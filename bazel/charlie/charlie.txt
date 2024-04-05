@@ -11602,6 +11602,7 @@ cholent
 cholents
 choleokinase
 cholepoietic
+cooks
 choler
 cholera
 choleraic
@@ -24282,7 +24283,6 @@ cookmaid
 cookout
 cookouts
 cookroom
-cooks
 cookshop
 cookshops
 cookstove
