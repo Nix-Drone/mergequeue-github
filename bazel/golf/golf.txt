@@ -1283,6 +1283,7 @@ garad
 garage
 garaged
 gyved
+glandless
 garageman
 garages
 garaging
@@ -5143,7 +5144,6 @@ glanders
 glandes
 glandiform
 glanditerous
-glandless
 glandlike
 glands
 glandula

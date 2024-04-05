@@ -2015,7 +2015,6 @@ feynesses
 feinschmecker
 filacer
 feinschmeckers
-feint
 feinted
 feinter
 feinting
@@ -5081,6 +5080,7 @@ flashlike
 flashness
 flashover
 flashpan
+feint
 flashproof
 flashtester
 flashtube
