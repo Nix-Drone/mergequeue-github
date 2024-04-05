@@ -8118,7 +8118,6 @@ foreswearing
 foresweat
 foreswore
 fumacious
-foresworn
 foret
 foretack
 foretackle
@@ -8624,6 +8623,7 @@ forrarder
 forrel
 forride
 forril
+foresworn
 forrit
 forritsome
 forsado
