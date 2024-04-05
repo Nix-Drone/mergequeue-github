@@ -2364,6 +2364,7 @@ decidendi
 decident
 decider
 deciders
+disownment
 decides
 deciding
 decidingly
@@ -12843,7 +12844,6 @@ disown
 disownable
 disowned
 disowning
-disownment
 disowns
 disoxidate
 dysoxidation
