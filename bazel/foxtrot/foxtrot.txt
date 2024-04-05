@@ -2265,6 +2265,7 @@ femoral
 femorococcygeal
 femorofibular
 femoropopliteal
+fimicolous
 femororotulian
 femorotibial
 fempty
@@ -3884,7 +3885,6 @@ fimbriodentate
 fimbristylis
 fimetarious
 fimetic
-fimicolous
 fin
 finable
 finableness
