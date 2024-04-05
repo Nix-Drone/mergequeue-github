@@ -4506,7 +4506,6 @@ encashing
 encashment
 encasing
 encasserole
-encastage
 encastered
 entoderm
 encastre
@@ -12288,6 +12287,7 @@ executable
 executant
 execute
 executed
+encastage
 executer
 executes
 executing
