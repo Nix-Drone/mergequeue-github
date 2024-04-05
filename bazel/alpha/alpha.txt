@@ -5735,7 +5735,6 @@ aftersound
 afterspeech
 afterspring
 afterstain
-afterstate
 afterstorm
 afterstrain
 afterstretch
@@ -9719,6 +9718,7 @@ amadavat
 amadavats
 amadelphous
 amadi
+afterstate
 amadis
 amadou
 agnizing
