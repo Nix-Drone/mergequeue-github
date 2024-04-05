@@ -284,7 +284,6 @@ eatability
 eatable
 eatableness
 eatables
-eatage
 eatanswill
 eatberry
 eatche
@@ -1748,6 +1747,7 @@ eyelids
 eyelight
 eyelike
 eyeliner
+eatage
 eyeliners
 eyemark
 eyen
