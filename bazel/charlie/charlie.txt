@@ -9744,7 +9744,6 @@ chekist
 chekker
 chekmak
 chela
-chelas
 chelaship
 chelatable
 chelate
@@ -27200,6 +27199,7 @@ countertrespass
 countertrippant
 countertripping
 countertruth
+chelas
 cabins
 countertug
 counterturn
