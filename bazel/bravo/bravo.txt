@@ -3094,7 +3094,6 @@ baseborn
 birdlime
 basebred
 baseburner
-basecoat
 basecourt
 based
 basehearted
@@ -4563,6 +4562,7 @@ bedabbling
 bedad
 bedaff
 bedaggered
+basecoat
 bedaggle
 beday
 bedamn
