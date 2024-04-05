@@ -2458,6 +2458,7 @@ fermentability
 fermentable
 fermental
 fermentarian
+ferrocyanic
 fermentate
 fermentation
 fermentations
@@ -2606,7 +2607,6 @@ ferrochrome
 ferrochromium
 ferrocyanate
 ferrocyanhydric
-ferrocyanic
 ferrocyanogen
 ferroconcretor
 ferroelectric
