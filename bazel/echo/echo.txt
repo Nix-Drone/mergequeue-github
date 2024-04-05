@@ -9125,7 +9125,6 @@ erythrochroic
 erythrochroism
 erythrocyte
 erythrocytes
-erythrocytic
 erythrocytoblast
 erythrocytolysin
 erythrocytolysis
@@ -13659,6 +13658,7 @@ exterous
 exterraneous
 exterrestrial
 exterritorial
+erythrocytic
 exterritoriality
 exterritorialize
 exterritorially
