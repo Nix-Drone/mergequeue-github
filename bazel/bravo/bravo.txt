@@ -2814,7 +2814,6 @@ baronial
 baronies
 baronize
 baronized
-baronizing
 baronnes
 baronry
 baronries
@@ -5189,6 +5188,7 @@ begat
 begats
 begattal
 begaud
+baronizing
 begaudy
 begaze
 begazes
