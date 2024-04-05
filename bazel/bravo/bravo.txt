@@ -11753,7 +11753,6 @@ bodge
 bodger
 bodgery
 bodhi
-bodhisat
 bodhisattva
 bodhisattwa
 body
@@ -14240,6 +14239,7 @@ brahmaic
 brahman
 brahmana
 brahmanaspati
+bodhisat
 brahmanda
 brahmaness
 brahmanhood
