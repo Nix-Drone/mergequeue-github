@@ -15894,6 +15894,7 @@ dostoevsky
 dot
 dotage
 dotages
+doubleword
 dotal
 dotant
 dotard
@@ -15996,7 +15997,6 @@ doubletone
 doublets
 doublette
 doublewidth
-doubleword
 doublewords
 doubly
 doubling
