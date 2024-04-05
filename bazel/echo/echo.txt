@@ -7093,7 +7093,6 @@ enunciable
 enunciate
 enunciated
 enunciates
-enunciating
 enunciation
 enunciations
 enunciative
@@ -13705,6 +13704,7 @@ ealdormen
 extirpator
 extirpatory
 extispex
+enunciating
 elaterium
 extispices
 extispicy
