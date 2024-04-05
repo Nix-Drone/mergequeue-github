@@ -2470,7 +2470,6 @@ deckhand
 deckhands
 deckhead
 deckhouse
-deckhouses
 deckie
 decking
 deckings
@@ -12572,6 +12571,7 @@ disleaved
 disleaving
 dyslectic
 dislegitimate
+deckhouses
 dislevelment
 dyslexia
 dyslexias
