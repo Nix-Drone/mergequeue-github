@@ -2021,7 +2021,6 @@ gaufrette
 gaugeable
 gaugeably
 gauged
-gauger
 gauges
 gauging
 gauk
@@ -6616,6 +6615,7 @@ golden
 goldenback
 goldeney
 goldeneye
+gauger
 goldeneyes
 goldener
 goldenest
