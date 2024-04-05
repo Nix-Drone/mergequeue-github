@@ -4295,7 +4295,6 @@ emulsible
 emulsic
 emulsify
 emulsifiability
-emulsifiable
 emulsification
 emulsifications
 emulsified
@@ -4808,6 +4807,7 @@ encopresis
 encorbellment
 encorbelment
 encore
+emulsifiable
 encored
 encores
 encoring
