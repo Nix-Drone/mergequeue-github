@@ -10422,7 +10422,6 @@ blastocheme
 blastochyle
 blastocyst
 blastocyte
-blastocoel
 blastocoele
 blastocoelic
 blastocolla
@@ -16777,6 +16776,7 @@ budtime
 budukha
 buduma
 budwood
+blastocoel
 budworm
 budzart
 budzat
