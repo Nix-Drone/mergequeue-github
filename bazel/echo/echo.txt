@@ -7386,7 +7386,6 @@ epee
 epeeist
 epeeists
 epees
-epeidia
 epeira
 epeiric
 epeirid
@@ -12435,6 +12434,7 @@ exhalations
 exhalatory
 exhale
 exhaled
+epeidia
 exhalent
 exhalents
 exhales
