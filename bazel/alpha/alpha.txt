@@ -6936,7 +6936,6 @@ airlines
 airling
 airlock
 airlocks
-airmail
 airmailed
 airmailing
 airmails
@@ -23400,6 +23399,7 @@ augustest
 augusti
 augustin
 augustine
+airmail
 augustinian
 augustinianism
 augustinism
