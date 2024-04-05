@@ -10349,6 +10349,7 @@ afterbirths
 amharic
 amherstite
 amhran
+attribute
 ami
 araba
 amy
@@ -23149,7 +23150,6 @@ attry
 attrib
 attributable
 attributal
-attribute
 attributed
 attributer
 attributes
