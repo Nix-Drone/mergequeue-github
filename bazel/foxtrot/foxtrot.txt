@@ -2393,7 +2393,6 @@ ferbam
 ferbams
 ferberite
 ferd
-ferdiad
 ferdwit
 fere
 feres
@@ -5542,6 +5541,7 @@ flexional
 flexionless
 flexions
 flexitime
+ferdiad
 flexive
 flexo
 flexography
