@@ -8673,7 +8673,6 @@ diatom
 diatoma
 diatomaceae
 diatomacean
-diatomaceoid
 diatomaceous
 diatomales
 diatomeae
@@ -15465,6 +15464,7 @@ draegerman
 donkeymen
 donkeys
 donkeywork
+diatomaceoid
 donmeh
 donn
 donna
