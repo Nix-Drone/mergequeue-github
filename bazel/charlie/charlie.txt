@@ -11051,7 +11051,6 @@ checksums
 chitin
 chitinization
 chitinized
-cassiduloidea
 chitinocalcareous
 chitinogenous
 chitinoid
@@ -25138,6 +25137,7 @@ corymbed
 corymbiate
 corymbiated
 corymbiferous
+cassiduloidea
 corymbiform
 corymblike
 corymbose
