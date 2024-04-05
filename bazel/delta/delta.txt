@@ -7758,6 +7758,7 @@ devotions
 devoto
 devour
 devourable
+doctorfish
 devoured
 devourer
 devourers
@@ -14679,7 +14680,6 @@ doctorates
 doctorbird
 doctored
 doctoress
-doctorfish
 doctorfishes
 doctorhood
 doctorial
