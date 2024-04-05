@@ -5244,6 +5244,7 @@ casteth
 castice
 castigable
 castigate
+coincidency
 castigated
 castigates
 castigating
@@ -18527,7 +18528,6 @@ coincide
 coincided
 coincidence
 coincidences
-coincidency
 coincident
 coincidental
 coincidentally
