@@ -2338,7 +2338,6 @@ geysers
 geisha
 geishas
 geison
-geisotherm
 geisothermal
 geissoloma
 geissolomataceae
@@ -2641,6 +2640,7 @@ genepi
 genera
 generability
 generable
+geisotherm
 generableness
 general
 generalate
