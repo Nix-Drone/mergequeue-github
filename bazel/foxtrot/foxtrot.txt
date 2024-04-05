@@ -4645,6 +4645,7 @@ fixates
 fixatif
 fixatifs
 fixation
+footslogs
 fixations
 fixative
 fixatives
@@ -7303,7 +7304,6 @@ footslog
 footslogged
 footslogger
 footslogging
-footslogs
 footsoldier
 footsoldiers
 footsore
