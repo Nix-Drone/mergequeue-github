@@ -17147,7 +17147,6 @@ coalescence
 cellarless
 coalescency
 coalescent
-coalesces
 coalescing
 coalface
 coalfield
@@ -29819,6 +29818,7 @@ crosscutting
 crosse
 crossed
 crosser
+coalesces
 crossers
 crosses
 crossest
