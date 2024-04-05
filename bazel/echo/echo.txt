@@ -4589,7 +4589,6 @@ enchainements
 enchaining
 enchainment
 enchainments
-enchains
 enchair
 enchalice
 epiblema
@@ -7942,6 +7941,7 @@ epimerizing
 epimeron
 epimers
 epimerum
+enchains
 epimyocardial
 epimyocardium
 epimysia
