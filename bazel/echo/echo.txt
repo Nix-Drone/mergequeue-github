@@ -2249,7 +2249,6 @@ electricity
 electricize
 electrics
 electriferous
-electrify
 energumen
 electrifiable
 electrification
@@ -12599,6 +12598,7 @@ exister
 existibility
 existible
 existimation
+electrify
 existing
 existless
 existlessness
