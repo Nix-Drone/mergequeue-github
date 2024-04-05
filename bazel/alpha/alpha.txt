@@ -1652,7 +1652,6 @@ accompaniments
 accompanist
 accompanists
 accomplement
-accompletive
 accompli
 accomplice
 accomplices
@@ -21225,6 +21224,7 @@ asymmetron
 asymptomatic
 asymptomatically
 asymptote
+accompletive
 asymptotes
 asymptotic
 asymptotical
