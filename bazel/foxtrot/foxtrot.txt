@@ -2624,7 +2624,6 @@ ferrophosphorus
 ferroprint
 ferroprussiate
 ferroprussic
-ferrosilicon
 fording
 ferrotype
 ferrotyped
@@ -10929,6 +10928,7 @@ fullface
 fullfaces
 fullfil
 fullgrownness
+ferrosilicon
 fullhearted
 fully
 fullymart
