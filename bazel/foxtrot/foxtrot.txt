@@ -5096,6 +5096,7 @@ fortitudes
 forthbringer
 flasket
 flaskets
+font
 flaskful
 faecal
 flasklet
@@ -7097,7 +7098,6 @@ fonly
 fonnish
 fono
 fons
-font
 feetfirst
 fontal
 fontally
