@@ -5452,7 +5452,6 @@ glycine
 glycines
 glycinin
 glycins
-getid
 glycyphyllin
 glycyrize
 glycyrrhiza
@@ -5902,6 +5901,7 @@ glossoepiglottic
 glossoepiglottidean
 glossograph
 glossographer
+getid
 glossography
 glossographical
 glossohyal
