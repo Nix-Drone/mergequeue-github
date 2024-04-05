@@ -5439,7 +5439,6 @@ glycerolate
 glycerole
 glycerolyses
 glycerolysis
-glycerolize
 glycerols
 glycerophosphate
 glycerophosphoric
@@ -10803,6 +10802,7 @@ gutturalising
 gutturalism
 gutturality
 gutturalize
+glycerolize
 gutturalized
 gutturalizing
 gutturally
