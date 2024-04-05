@@ -3814,7 +3814,6 @@ filosus
 fils
 fishpond
 filt
-filter
 filterability
 filterable
 freakily
@@ -10003,6 +10002,7 @@ friendless
 friendlessness
 friendly
 friendlier
+filter
 friendlies
 friendliest
 friendlike
