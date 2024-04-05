@@ -3063,7 +3063,6 @@ disestablishment
 deerhound
 deeryard
 deeryards
-deerkill
 deerlet
 deerlike
 deermeat
@@ -7100,6 +7099,7 @@ desulphurised
 desulphurising
 desulphurization
 drawboring
+deerkill
 desulphurize
 desulphurized
 disgusts
