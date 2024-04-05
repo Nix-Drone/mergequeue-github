@@ -5329,6 +5329,7 @@ fld
 fldxt
 flea
 fleabag
+fusible
 fleabags
 fleabane
 fleabanes
@@ -11558,7 +11559,6 @@ fuses
 fusetron
 fusht
 fusibility
-fusible
 fusibleness
 fusibly
 fusicladium
