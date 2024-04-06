@@ -3994,7 +3994,6 @@ camacey
 cardiomegaly
 cardiomelanosis
 cardiometer
-cardiometry
 cardiometric
 cardiomyoliposis
 cardiomyomalacia
@@ -21820,6 +21819,7 @@ confarreate
 caraho
 confarreated
 confarreation
+cardiometry
 confated
 confect
 confected
