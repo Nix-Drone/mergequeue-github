@@ -6597,6 +6597,7 @@ desiccant
 desiccants
 desiccate
 disprove
+downrange
 desiccated
 desiccating
 desiccation
@@ -16302,7 +16303,6 @@ downplays
 downpour
 downpouring
 downpours
-downrange
 downright
 downrightly
 downrightness
