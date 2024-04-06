@@ -2529,7 +2529,6 @@ cankerous
 cankerroot
 cankers
 cankerweed
-cankerworm
 cankerworms
 cankerwort
 canli
@@ -21457,6 +21456,7 @@ concordances
 concordancy
 concordant
 concordantial
+cankerworm
 concordantly
 concordat
 concordatory
