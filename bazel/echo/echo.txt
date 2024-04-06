@@ -2912,6 +2912,7 @@ eliminable
 eliminand
 eliminant
 eliminate
+entoplastic
 eliminated
 eliminates
 eliminating
@@ -6904,7 +6905,6 @@ entophytically
 entophytous
 entopic
 entoplasm
-entoplastic
 entoplastral
 entoplastron
 entopopliteal
