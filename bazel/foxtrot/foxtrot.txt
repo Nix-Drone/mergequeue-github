@@ -7448,6 +7448,7 @@ forcepslike
 forceput
 forcer
 forcers
+frontager
 forces
 forcet
 forchase
@@ -10394,7 +10395,6 @@ front
 frontad
 frontage
 feldspars
-frontager
 fertilised
 frontages
 frontal
