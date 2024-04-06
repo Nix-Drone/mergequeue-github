@@ -5840,7 +5840,6 @@ engulfs
 enhaemospore
 enhallow
 enhalo
-enhaloed
 enhaloes
 enhaloing
 enhalos
@@ -11367,6 +11366,7 @@ evaniidae
 evanish
 evanished
 expirable
+enhaloed
 evanishes
 evanishing
 evanishment
