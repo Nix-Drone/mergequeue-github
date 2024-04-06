@@ -22209,6 +22209,7 @@ congession
 congest
 congested
 congestedness
+consonate
 congestible
 congesting
 congestion
@@ -22982,7 +22983,6 @@ consonantizing
 consonantly
 consonantness
 consonants
-consonate
 consonous
 consopite
 consort
