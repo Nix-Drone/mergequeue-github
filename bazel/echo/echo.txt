@@ -6240,7 +6240,6 @@ enregistry
 enrib
 enrich
 enrichener
-enricher
 enrichers
 enriches
 enriching
@@ -7325,6 +7324,7 @@ eozoonal
 ep
 epa
 epacmaic
+enricher
 epacme
 epacrid
 epacridaceae
