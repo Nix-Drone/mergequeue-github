@@ -3816,7 +3816,6 @@ filterable
 freakily
 filterableness
 filtered
-filterer
 filterers
 filtering
 filterman
@@ -9134,6 +9133,7 @@ foxholes
 foxhound
 foxhounds
 foxy
+filterer
 foxie
 foxier
 foxily
