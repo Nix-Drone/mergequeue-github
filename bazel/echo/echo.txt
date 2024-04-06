@@ -8652,7 +8652,6 @@ ethrogs
 equiomnipotent
 equip
 equipaga
-equipage
 equipages
 equiparable
 equiparant
@@ -11322,6 +11321,7 @@ evangelary
 evangely
 evangelian
 evangeliary
+equipage
 evangeliaries
 evangeliarium
 evangelic
