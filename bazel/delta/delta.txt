@@ -5664,7 +5664,6 @@ depiedmontize
 depigment
 depigmentate
 depigmentation
-depigmentize
 depilate
 depilated
 depilates
@@ -14440,6 +14439,7 @@ divorcible
 divorcing
 divorcive
 divort
+depigmentize
 divot
 divoto
 divots
