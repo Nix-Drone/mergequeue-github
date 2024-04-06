@@ -220,6 +220,7 @@ abbreviatable
 abbreviate
 abbreviated
 abbreviately
+afdecho
 abbreviates
 abbreviating
 abbreviation
@@ -5699,7 +5700,6 @@ autolysis
 afterpressure
 afterproof
 afterrake
-afdecho
 afterreckoning
 afterrider
 afterripening

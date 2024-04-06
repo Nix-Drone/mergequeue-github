@@ -5321,7 +5321,6 @@ begrims
 begripe
 begroan
 begroaned
-begroaning
 begroans
 begrown
 begrudge
@@ -12309,6 +12308,7 @@ bombe
 bombed
 bomber
 bombernickel
+begroaning
 bombers
 bombes
 bombesin
