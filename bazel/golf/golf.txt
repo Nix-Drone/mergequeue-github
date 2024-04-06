@@ -6597,7 +6597,6 @@ golcondas
 goldang
 goldanged
 goldarn
-goldarned
 goldarnedest
 goldarns
 goldbeater
@@ -9465,6 +9464,7 @@ groundsheet
 groundsill
 groundskeep
 galactolytic
+goldarned
 groundskeeping
 groundsman
 groundspeed
