@@ -4023,7 +4023,6 @@ gigantomachy
 gigantopithecus
 gigantosaurus
 gigantostraca
-gigantostracan
 gigantostracous
 gigartina
 gigartinaceae
@@ -9003,6 +9002,7 @@ grillroom
 grills
 gryllus
 grillwork
+gigantostracan
 grilse
 grilses
 grim
