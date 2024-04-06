@@ -3648,7 +3648,6 @@ filical
 filicales
 filicauline
 filices
-filicic
 filicidal
 filicide
 filicides
@@ -11739,6 +11738,7 @@ fuzzing
 fuzzle
 fuzztail
 fv
+filicic
 fw
 fwd
 fwelling
