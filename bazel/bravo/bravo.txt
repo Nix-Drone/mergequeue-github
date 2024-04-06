@@ -4729,7 +4729,6 @@ bedless
 bedlids
 bedlight
 bedmaker
-bewrought
 bedmakers
 bedmaking
 bedman
@@ -14781,6 +14780,7 @@ breadmaking
 breadman
 breadness
 breadnut
+bewrought
 breadnuts
 breadroot
 breads
