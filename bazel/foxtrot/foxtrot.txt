@@ -8078,7 +8078,6 @@ forestaves
 forestcraft
 forested
 foresteep
-forestem
 forestep
 forester
 facetting
@@ -11692,6 +11691,7 @@ futurama
 futuramic
 future
 futureless
+forestem
 futurely
 futureness
 futures
