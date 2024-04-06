@@ -5616,7 +5616,6 @@ depersonalise
 depersonalised
 depersonalising
 depersonalization
-depersonalize
 depersonalized
 depersonalizes
 depersonalizing
@@ -7752,6 +7751,7 @@ devoured
 devourer
 devourers
 devouress
+depersonalize
 devouring
 defiances
 devouringly
