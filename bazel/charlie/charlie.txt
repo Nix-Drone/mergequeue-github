@@ -7033,7 +7033,6 @@ centillion
 centillionth
 centiloquy
 centimes
-centimeter
 centimeters
 centimetre
 centimetres
@@ -16739,6 +16738,7 @@ clouding
 cloudland
 cloudless
 cloudlessly
+centimeter
 cloudlessness
 cloudlet
 cloudlets
