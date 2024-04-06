@@ -5781,7 +5781,6 @@ bellies
 belliferous
 basilicon
 bellyfish
-bellyflaught
 bellyful
 bellyfulls
 bellyfuls
@@ -9590,6 +9589,7 @@ bise
 bisect
 bisected
 bisecting
+bellyflaught
 bisection
 bisectional
 bisectionally
