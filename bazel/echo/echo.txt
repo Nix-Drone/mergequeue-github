@@ -4303,7 +4303,6 @@ emulsifies
 emulsifying
 emulsin
 emulsion
-emulsionize
 emulsions
 emulsoid
 emulsoidal
@@ -9503,6 +9502,7 @@ eschara
 escharine
 escharoid
 escharotic
+emulsionize
 eschars
 eschatocol
 eschatology
