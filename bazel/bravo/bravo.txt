@@ -11561,6 +11561,7 @@ boars
 boarship
 boarskin
 boarspear
+brushup
 boarstaff
 boart
 boarts
@@ -16397,7 +16398,6 @@ brushoff
 brushoffs
 brushpopper
 brushproof
-brushup
 brushups
 brushwood
 bronchophonic
