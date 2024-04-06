@@ -924,7 +924,6 @@ finitely
 faradmeter
 faradocontractility
 faradomuscular
-faradonervous
 farand
 farandine
 farandman
@@ -11502,6 +11501,7 @@ furthermore
 furthermost
 furthers
 furthersome
+faradonervous
 furthest
 furthy
 furtive
