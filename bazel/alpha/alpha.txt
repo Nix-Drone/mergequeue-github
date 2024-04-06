@@ -2444,7 +2444,6 @@ acidoses
 afternoon
 acidosis
 acidosteophyte
-acidotic
 acidproof
 acids
 acidulant
@@ -21836,6 +21835,7 @@ associable
 associableness
 associated
 associatedness
+acidotic
 associates
 associateship
 associating
