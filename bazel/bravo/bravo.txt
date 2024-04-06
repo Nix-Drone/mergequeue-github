@@ -2653,7 +2653,6 @@ barkbound
 barkcutter
 balsameaceous
 barked
-barkeep
 barkeeper
 barkeepers
 barkeeps
@@ -10895,6 +10894,7 @@ blypes
 blipped
 blippers
 blipping
+barkeep
 blips
 blirt
 bliss
