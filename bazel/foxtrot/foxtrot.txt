@@ -1049,6 +1049,7 @@ farmland
 farmlands
 farmost
 farmout
+fisc
 farmplace
 farms
 farmscape
@@ -4330,7 +4331,6 @@ firstness
 firsts
 firth
 firths
-fisc
 fiscal
 fiscalify
 fiscalism
