@@ -3444,7 +3444,6 @@ germigene
 germigenous
 germin
 germina
-germinability
 germinable
 gauds
 germinal
@@ -4296,6 +4295,7 @@ gymnoglossa
 gymnoglossate
 gymnolaemata
 gymnolaematous
+germinability
 gymnonoti
 gymnopaedes
 gymnopaedic
