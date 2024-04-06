@@ -12818,7 +12818,6 @@ angiostrophy
 angiotasis
 angiotelectasia
 angiotenosis
-angiotensin
 angiotensinase
 angiothlipsis
 angiotome
@@ -23852,6 +23851,7 @@ autoalarm
 autoalkylation
 autoallogamy
 autoallogamous
+angiotensin
 autoanalysis
 autoanalytic
 autoantibody
