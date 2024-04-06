@@ -4643,6 +4643,7 @@ fixes
 fixgig
 fixidity
 fixing
+forborn
 fixings
 fixion
 falter
@@ -7424,7 +7425,6 @@ forbode
 factionally
 forboding
 forbore
-forborn
 forborne
 forbow
 forbreak
