@@ -5781,7 +5781,6 @@ engrailed
 engrailing
 engrailment
 engrails
-engrain
 engrained
 engrainedly
 engrainer
@@ -11383,6 +11382,7 @@ evaporatively
 evaporativity
 evaporator
 evaporators
+engrain
 evaporimeter
 evaporite
 evaporitic
