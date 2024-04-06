@@ -1140,7 +1140,6 @@ ganglioside
 gangman
 gangmaster
 gangplank
-gangplanks
 gangplow
 gangplows
 gangrel
@@ -6085,6 +6084,7 @@ glucosidal
 glucosidase
 glucoside
 glucosidic
+gangplanks
 glucosidically
 glucosin
 glucosine
