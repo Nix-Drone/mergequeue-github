@@ -3985,6 +3985,7 @@ cardiokinetic
 cardiolysis
 cardiolith
 cardiology
+chondroclast
 cardiologic
 cardiological
 cardiologies
@@ -11721,7 +11722,6 @@ chondrocarcinoma
 chondrocele
 chondrocyte
 chondroclasis
-chondroclast
 chondrocoracoid
 chondrocostal
 chondrocranial
