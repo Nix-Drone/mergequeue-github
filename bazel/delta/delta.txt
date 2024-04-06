@@ -1492,6 +1492,7 @@ deactivators
 dead
 deadbeat
 deadbeats
+defrosts
 deadborn
 deadcenter
 deadeye
@@ -3531,7 +3532,6 @@ defrosted
 defroster
 defrosters
 defrosting
-defrosts
 defs
 deft
 defter
