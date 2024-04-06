@@ -3267,7 +3267,6 @@ berakes
 brooklynite
 basinful
 basing
-basinlike
 basins
 basioccipital
 basion
@@ -12589,6 +12588,7 @@ bontok
 bonum
 bonus
 bonuses
+basinlike
 bonxie
 bonze
 bonzer
