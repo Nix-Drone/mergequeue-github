@@ -7224,7 +7224,6 @@ determined
 determinedly
 determinedness
 determiner
-determines
 determining
 determinism
 determinist
@@ -13786,6 +13785,7 @@ distyle
 distilery
 distill
 distillable
+determines
 distillage
 debunking
 distilland
