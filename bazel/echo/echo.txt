@@ -4190,7 +4190,6 @@ epopt
 emplore
 emplume
 emplunge
-empocket
 empodia
 empodium
 empoison
@@ -8055,6 +8054,7 @@ epiplastral
 epiplastron
 epiplectic
 eutrophic
+empocket
 epipleurae
 epipleural
 epiplexis
