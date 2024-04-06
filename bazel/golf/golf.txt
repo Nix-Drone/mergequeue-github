@@ -10107,7 +10107,6 @@ guestmaster
 gabeller
 guests
 guestship
-guestwise
 guetar
 guetare
 guetre
@@ -10448,6 +10447,7 @@ gums
 gumshield
 gumshoe
 gumshoed
+guestwise
 gumshoeing
 gumshoes
 goldenmouth
