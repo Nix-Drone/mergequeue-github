@@ -3769,7 +3769,6 @@ annihilates
 adeps
 adept
 adepter
-adeptest
 adeption
 authorizable
 adeptly
@@ -5998,6 +5997,7 @@ agerasia
 ageratum
 ageratums
 agers
+adeptest
 ages
 aget
 agete
