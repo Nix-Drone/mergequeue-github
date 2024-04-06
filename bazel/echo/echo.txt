@@ -5482,6 +5482,7 @@ energids
 energies
 energise
 epirot
+estufa
 energised
 energiser
 energises
@@ -10096,7 +10097,6 @@ estuarial
 estuarian
 estuaries
 estudy
-estufa
 estuosity
 estuous
 esture
