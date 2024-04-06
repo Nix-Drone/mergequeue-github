@@ -2603,7 +2603,6 @@ decolonization
 decolonize
 decolonized
 decolonizes
-decolor
 decolorate
 decoloration
 decolored
@@ -8807,6 +8806,7 @@ dicatalexis
 diccon
 dice
 dyce
+decolor
 diceboard
 dicebox
 dicecup
