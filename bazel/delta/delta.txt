@@ -3094,6 +3094,7 @@ deewans
 def
 deface
 defaceable
+disaggregated
 defacement
 defacements
 defacer
@@ -10968,7 +10969,6 @@ disafforestation
 disafforestment
 disagglomeration
 disaggregate
-disaggregated
 disaggregation
 disaggregative
 disagio
