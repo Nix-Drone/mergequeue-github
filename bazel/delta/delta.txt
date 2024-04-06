@@ -3919,7 +3919,6 @@ dekaliters
 dekalitre
 dekameter
 dekameters
-dekametre
 dekaparsec
 dekapode
 dekarch
@@ -7911,6 +7910,7 @@ dezincation
 dezinced
 delundung
 dezincify
+dekametre
 dezincification
 dezincified
 dezincifying

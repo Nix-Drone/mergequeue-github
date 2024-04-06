@@ -2736,7 +2736,6 @@ genethlialogic
 genethlialogical
 genethliatic
 genethlic
-genetic
 genetical
 genetically
 geneticism
@@ -6689,6 +6688,7 @@ golee
 golem
 golems
 goles
+genetic
 golet
 golfdom
 golfed
