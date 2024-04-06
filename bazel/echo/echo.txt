@@ -6949,7 +6949,6 @@ entracte
 entrada
 entradas
 entrail
-entrails
 entrain
 entrained
 entrainer
@@ -14104,6 +14103,7 @@ extrudable
 extrude
 extruded
 extruder
+entrails
 extruders
 extrudes
 extruding
