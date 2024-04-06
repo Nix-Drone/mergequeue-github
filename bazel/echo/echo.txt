@@ -3518,7 +3518,6 @@ embolon
 emboltement
 embolum
 embolus
-embonpoint
 emborder
 embordered
 embordering
@@ -6830,6 +6829,7 @@ entogastric
 entogenous
 entoglossal
 entohyal
+embonpoint
 entoil
 entoiled
 entoiling

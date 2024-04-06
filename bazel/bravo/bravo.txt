@@ -1851,7 +1851,6 @@ band
 bandage
 bandaged
 bandager
-bandagers
 bandages
 bandaging
 bandagist
@@ -11916,6 +11915,7 @@ bogyism
 bogijiab
 bogyland
 bogyman
+bandagers
 bogymen
 bogland
 boglander
