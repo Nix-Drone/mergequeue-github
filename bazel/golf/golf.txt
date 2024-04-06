@@ -1489,7 +1489,6 @@ garrison
 garrisoned
 garrisonian
 garrisoning
-garrisonism
 garrisons
 garrnishable
 garron
@@ -10322,6 +10321,7 @@ genericalness
 gule
 gules
 gulf
+garrisonism
 gulfy
 gulfier
 gulfiest
