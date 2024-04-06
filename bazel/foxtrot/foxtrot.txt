@@ -4428,7 +4428,6 @@ fishpole
 fishpoles
 fishponds
 fishpool
-fishpot
 fishpotter
 fishpound
 fishskin
@@ -6974,6 +6973,7 @@ folklorism
 folklorist
 folkloristic
 folklorists
+fishpot
 footman
 folkmoot
 folkmooter
