@@ -4774,7 +4774,6 @@ bedrapes
 bedraping
 bedravel
 bedread
-bedrel
 bedrench
 bedrenched
 bedrenches
@@ -14222,6 +14221,7 @@ braggartry
 braggarts
 braggat
 bragged
+bedrel
 bragger
 braggery
 braggers
