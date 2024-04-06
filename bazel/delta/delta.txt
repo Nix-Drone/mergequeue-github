@@ -2624,7 +2624,6 @@ decolorizing
 decolors
 decolour
 decolouration
-decoloured
 decolouring
 decolourisation
 decolourised
@@ -11608,6 +11607,7 @@ disconvenient
 disconventicle
 discophile
 discophora
+decoloured
 discophoran
 discophore
 discophorous
