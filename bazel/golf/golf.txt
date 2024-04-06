@@ -2258,6 +2258,7 @@ glimpse
 graywall
 geck
 gecked
+guardfish
 gecking
 gecko
 goas
@@ -9922,7 +9923,6 @@ guardedness
 guardee
 guardeen
 guarder
-guardfish
 guardful
 guardfully
 guardhouse
