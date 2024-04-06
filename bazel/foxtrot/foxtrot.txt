@@ -5260,7 +5260,6 @@ flavoriness
 flavoring
 forsworn
 flavorless
-flavorlessness
 flavorous
 flavorousness
 flavors
@@ -9337,6 +9336,7 @@ frameableness
 frameae
 framed
 frameless
+flavorlessness
 framer
 frames
 fussify
