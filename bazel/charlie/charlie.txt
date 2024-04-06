@@ -286,7 +286,6 @@ cacimbos
 caciocavallo
 cacique
 caciques
-caciqueship
 caciquism
 cack
 cacked
@@ -17818,6 +17817,7 @@ coding
 codings
 codiniac
 codirect
+caciqueship
 codirected
 codirecting
 codirectional
