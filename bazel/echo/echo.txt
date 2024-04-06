@@ -5412,7 +5412,6 @@ endplay
 endplate
 endplates
 endpleasure
-endpoint
 endpoints
 endrin
 endrins
@@ -12085,6 +12084,7 @@ exclude
 excluder
 excludes
 excludible
+endpoint
 excluding
 excludingly
 exclusion
