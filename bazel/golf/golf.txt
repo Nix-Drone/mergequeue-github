@@ -2922,7 +2922,6 @@ gentle
 gentled
 gentlefolk
 gentlefolks
-gentlehearted
 gentleheartedly
 gentleheartedness
 gentlehood
@@ -4056,6 +4055,7 @@ giggly
 gigglier
 giggliest
 giggling
+gentlehearted
 gigglingly
 glitzy
 gigglish
