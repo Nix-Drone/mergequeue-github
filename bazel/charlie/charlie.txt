@@ -3837,7 +3837,6 @@ carcharodont
 carcinemia
 carcinogen
 carcinogeneses
-carcinogenesis
 carcinogenic
 carcinogenicity
 carcinogens
@@ -18040,6 +18039,7 @@ coenoecic
 coenoecium
 coenogamete
 coenogenesis
+carcinogenesis
 coenogenetic
 coenomonoecism
 coenosarc
