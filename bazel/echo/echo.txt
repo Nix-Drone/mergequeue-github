@@ -4421,6 +4421,7 @@ enantiotropy
 enantiotropic
 enantobiosis
 enapt
+extrabuccal
 enarbor
 enarbour
 enarch
@@ -13753,7 +13754,6 @@ extraboldface
 extrabranchial
 extemporarily
 extrabronchial
-extrabuccal
 extrabulbar
 extrabureau
 extraburghal
