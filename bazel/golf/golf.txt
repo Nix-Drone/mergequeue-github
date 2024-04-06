@@ -1461,7 +1461,6 @@ garnishments
 garnishry
 garnison
 garniture
-garnitures
 garon
 garoo
 garookuh
@@ -3413,6 +3412,7 @@ germanizer
 germanly
 germanness
 gingeley
+garnitures
 germanocentric
 germanomania
 germanomaniac
