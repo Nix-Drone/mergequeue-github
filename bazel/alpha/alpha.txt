@@ -6042,7 +6042,6 @@ agglutinations
 agglutinative
 agglutinatively
 agglutinator
-agglutinin
 agglutinins
 agglutinize
 agglutinogen
@@ -14900,6 +14899,7 @@ anticipatingly
 anticipation
 anticipations
 anticipative
+agglutinin
 anticipatively
 anticipator
 anticipatorily
