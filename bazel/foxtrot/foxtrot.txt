@@ -8663,7 +8663,6 @@ forswornness
 fort
 fortake
 fortalice
-fortaxed
 forte
 fortemente
 fortepiano
@@ -10654,6 +10653,7 @@ frugs
 fruit
 fruitade
 fruitage
+fortaxed
 fruitages
 fruitarian
 fruitarianism
