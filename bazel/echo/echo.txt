@@ -6359,7 +6359,6 @@ enshrined
 enshrinement
 enshrinements
 enshrines
-enshrining
 enshroud
 enshrouded
 enshrouding
@@ -7579,6 +7578,7 @@ epicedial
 epicedian
 epicedium
 epicele
+enshrining
 epicene
 epicenes
 epicenism
