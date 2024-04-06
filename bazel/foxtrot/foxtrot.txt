@@ -2374,7 +2374,6 @@ ferbam
 ferbams
 ferberite
 ferd
-ferdwit
 fere
 feres
 feretory
@@ -5098,6 +5097,7 @@ flatcaps
 flatcar
 flatcars
 flatdom
+ferdwit
 flated
 flateria
 flatette
