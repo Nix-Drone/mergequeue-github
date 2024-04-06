@@ -3136,7 +3136,6 @@ actinologous
 actinologue
 actinomere
 actinomeric
-actinometer
 actinometers
 actinometry
 actinometric
@@ -10346,6 +10345,7 @@ amiant
 amianth
 amianthiform
 amianthine
+actinometer
 amianthium
 amianthoid
 amianthoidal
