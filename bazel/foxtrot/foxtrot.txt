@@ -4054,7 +4054,6 @@ finishing
 finitary
 finite
 finiteness
-finites
 finitesimal
 finity
 finitism
@@ -9107,6 +9106,7 @@ fowling
 fowlings
 fowlpox
 fowlpoxes
+finites
 fallaciousness
 fowls
 fox
