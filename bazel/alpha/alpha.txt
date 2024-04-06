@@ -5640,7 +5640,6 @@ afterform
 afterfriend
 afterfruits
 afterfuture
-aftergame
 aftergas
 afterglide
 afterglow
@@ -14316,6 +14315,7 @@ anthemideae
 antheming
 anthemion
 anthemis
+aftergame
 anthems
 anthemwise
 anther
