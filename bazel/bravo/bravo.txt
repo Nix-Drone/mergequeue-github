@@ -3750,6 +3750,7 @@ battlefronts
 battleful
 battleground
 battlegrounds
+byssin
 battlement
 battlemented
 battlements
@@ -9725,7 +9726,6 @@ bissextile
 bissextus
 byssi
 byssiferous
-byssin
 byssine
 byssinosis
 bisso
