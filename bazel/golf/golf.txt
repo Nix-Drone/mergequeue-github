@@ -252,6 +252,7 @@ gaincall
 gaincome
 gaine
 gained
+generating
 gainer
 gainers
 gayness
@@ -2686,7 +2687,6 @@ generate
 generated
 generater
 generates
-generating
 generation
 generational
 generationism
