@@ -3793,7 +3793,6 @@ filmographies
 films
 filmset
 filmsets
-filmsetter
 filmsetting
 filmslide
 filmstrip
@@ -11483,6 +11482,7 @@ furrower
 furrowers
 furrowy
 furrowing
+filmsetter
 furrowless
 furrowlike
 furrows
