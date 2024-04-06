@@ -4413,6 +4413,7 @@ fishlet
 fishlike
 fishline
 fishlines
+forkiness
 fishling
 fishman
 fishmeal
@@ -8347,7 +8348,6 @@ forkhead
 forky
 forkier
 forkiest
-forkiness
 forking
 forkless
 fayed
