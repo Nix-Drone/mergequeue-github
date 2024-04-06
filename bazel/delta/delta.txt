@@ -8190,6 +8190,7 @@ diagonal
 diagonalizable
 diagonalization
 diagonalize
+disinteresting
 diagnosing
 diagonally
 diagonals
@@ -12482,7 +12483,6 @@ disinterest
 disinterested
 disinterestedly
 disinterestedness
-disinteresting
 disintermediation
 disinterment
 disinterred
