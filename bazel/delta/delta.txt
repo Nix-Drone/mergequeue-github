@@ -11004,7 +11004,6 @@ disallowances
 disallowed
 dramatised
 disallows
-disaltern
 disambiguate
 disambiguated
 disambiguates
@@ -14687,6 +14686,7 @@ doctorially
 doctoring
 doctorization
 doctorize
+disaltern
 doctorless
 doctorly
 doctorlike
