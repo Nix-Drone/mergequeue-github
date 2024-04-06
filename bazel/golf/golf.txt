@@ -5309,6 +5309,7 @@ glb
 gld
 glead
 gleam
+guzzler
 gleamed
 gleamy
 gleamier
@@ -10830,7 +10831,6 @@ guzul
 guzzle
 guzzled
 guzzledom
-guzzler
 guzzlers
 guzzles
 guzzling
