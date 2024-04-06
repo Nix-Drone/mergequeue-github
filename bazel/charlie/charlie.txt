@@ -24189,7 +24189,6 @@ convolutional
 convolutionary
 convolutions
 convolutive
-convolve
 convolved
 convolvement
 convolves
@@ -25571,6 +25570,7 @@ corporeally
 corporealness
 corporeals
 corporeity
+convolve
 crankier
 corporeous
 corporify
