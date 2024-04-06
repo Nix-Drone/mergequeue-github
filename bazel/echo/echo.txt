@@ -1812,7 +1812,6 @@ eigenfunction
 eigenspace
 eigenstate
 eigenvalue
-eigenvalues
 eigenvectors
 eyght
 eightball
@@ -8093,6 +8092,7 @@ epirrhematic
 epirrheme
 episarcine
 episarkine
+eigenvalues
 episcenia
 episcenium
 episcia
