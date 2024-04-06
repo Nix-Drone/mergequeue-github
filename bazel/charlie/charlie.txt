@@ -21010,6 +21010,7 @@ computability
 computable
 computably
 computate
+counterdash
 computational
 computationally
 computations
@@ -26755,7 +26756,6 @@ countercurrent
 countercurrently
 countercurrentwise
 counterdance
-counterdash
 counterdecision
 counterdeclaration
 counterdecree
