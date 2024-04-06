@@ -8759,7 +8759,6 @@ bimini
 bimmeler
 bimodal
 bimodality
-bimodule
 bimodulus
 bimolecularly
 bimong
@@ -12341,6 +12340,7 @@ bomble
 bombline
 bombload
 blueprinter
+bimodule
 bergeres
 bombloads
 bombo

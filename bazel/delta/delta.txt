@@ -15104,6 +15104,7 @@ dolently
 dolerin
 daraf
 dolerite
+drawcard
 dolerites
 doleritic
 dolerophanite
@@ -16770,7 +16771,6 @@ drawbores
 drawbridge
 drawbridges
 drawcansir
-drawcard
 drawcut
 drawdown
 drawdowns
