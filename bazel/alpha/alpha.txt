@@ -10803,7 +10803,6 @@ amninions
 amnioallantoic
 amniocentesis
 amniochorial
-amnioclepsis
 amniomancy
 amnion
 amnionata
@@ -23379,6 +23378,7 @@ augur
 augural
 augurate
 auguration
+amnioclepsis
 augure
 augured
 augurer
