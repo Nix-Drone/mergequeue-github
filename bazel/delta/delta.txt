@@ -3569,7 +3569,6 @@ debacles
 degasify
 degasification
 degasifier
-degass
 degassed
 degasser
 degassers
@@ -5021,6 +5020,7 @@ denationalisation
 denationalise
 denationalised
 denationalising
+degass
 denationalization
 denationalize
 denationalized
