@@ -7859,7 +7859,6 @@ cest
 cesta
 cestas
 ceste
-cesti
 cestidae
 cestoda
 cestodaria
@@ -18914,6 +18913,7 @@ collation
 collational
 collationer
 collations
+cesti
 collatitious
 collative
 collator
