@@ -10910,7 +10910,6 @@ chirologically
 chirologies
 chirologist
 chiromance
-chiromancer
 chiromancy
 chiromancist
 chiromant
@@ -19299,6 +19298,7 @@ coloniser
 colonises
 colonising
 colonist
+chiromancer
 colonists
 colonitis
 colonizability
