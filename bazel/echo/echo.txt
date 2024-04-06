@@ -660,7 +660,6 @@ eclipser
 eclipses
 endocortex
 eclipsing
-eclipsis
 eclipsises
 ecliptic
 ecliptical
@@ -4755,6 +4754,7 @@ enclitically
 enclitics
 encloak
 enclog
+eclipsis
 encloister
 enclosable
 enclose
