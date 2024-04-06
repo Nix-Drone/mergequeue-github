@@ -3599,7 +3599,6 @@ filchers
 filches
 filching
 filchingly
-file
 fileable
 filecard
 filechar
@@ -5796,6 +5795,7 @@ flitters
 flitty
 flittiness
 flitting
+file
 flittingly
 flitwite
 flivver
