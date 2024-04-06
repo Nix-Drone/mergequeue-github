@@ -1829,7 +1829,6 @@ banakite
 banal
 banality
 banalities
-banalize
 banally
 banalness
 banana
@@ -9603,6 +9602,7 @@ bisects
 bisegment
 bisellia
 bisellium
+banalize
 bysen
 biseptate
 biserial
