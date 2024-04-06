@@ -3791,7 +3791,6 @@ filmsetter
 filmsetting
 filmslide
 filmstrip
-filmstrips
 filo
 filoplumaceous
 filoplume
@@ -7638,6 +7637,7 @@ foredeserved
 foredesign
 foredesignment
 foredesk
+filmstrips
 foredestine
 foredestined
 foredestiny
