@@ -10572,7 +10572,6 @@ aminoazo
 aminoazobenzene
 aminobarbituric
 aminobenzaldehyde
-aminobenzamide
 aminobenzene
 aminobenzine
 aminobenzoic
@@ -15248,6 +15247,7 @@ antifeudalistic
 antifeudalization
 antifibrinolysin
 antifibrinolysis
+aminobenzamide
 antifideism
 antifire
 antiflash
