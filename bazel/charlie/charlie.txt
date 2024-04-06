@@ -9843,7 +9843,6 @@ chemmy
 chemoautotrophy
 chemoautotrophic
 chemoautotrophically
-chemoceptor
 chemokinesis
 chemokinetic
 chemolysis
@@ -27344,6 +27343,7 @@ court
 courtage
 courtal
 courtby
+chemoceptor
 courtbred
 courtcraft
 cetacean
