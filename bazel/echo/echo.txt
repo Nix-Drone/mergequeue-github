@@ -801,6 +801,7 @@ ecthymatous
 ecthlipses
 ecthlipsis
 ectypal
+erasability
 ectype
 ectypes
 ectypography
@@ -8817,7 +8818,6 @@ eranist
 eranthemum
 eranthis
 eras
-erasability
 erasable
 erase
 erased
