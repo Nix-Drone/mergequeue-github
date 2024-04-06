@@ -2875,7 +2875,6 @@ feuars
 feucht
 feud
 feudal
-feudalisation
 feudalise
 feudalising
 feudalism
@@ -6797,6 +6796,7 @@ foggy
 fibrine
 foggier
 foggiest
+feudalisation
 foggily
 fogginess
 fogging
