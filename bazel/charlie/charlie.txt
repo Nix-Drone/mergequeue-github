@@ -6971,6 +6971,7 @@ codeia
 center
 centerable
 centerboard
+coilability
 centerboards
 centered
 centeredly
@@ -18499,7 +18500,6 @@ coying
 coyish
 coyishness
 coil
-coilability
 coiled
 coiler
 coilers
