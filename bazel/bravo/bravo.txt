@@ -3988,7 +3988,6 @@ beaconing
 beaconless
 beacons
 beaconwise
-bead
 beaded
 beadeye
 beadeyes
@@ -6329,6 +6328,7 @@ benzaldehyde
 benzaldiphenyl
 benzaldoxime
 benzalethylamine
+bead
 benzalhydrazine
 benzalphenylhydrazone
 benzalphthalide
