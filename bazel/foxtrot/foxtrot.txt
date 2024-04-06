@@ -2156,7 +2156,6 @@ felsites
 felsitic
 felsobanyite
 foretypified
-felsophyre
 felsophyric
 felsosphaerite
 felspar
@@ -5572,6 +5571,7 @@ flybook
 flybrush
 flibustier
 flic
+felsophyre
 fetise
 flycaster
 flycatcher
