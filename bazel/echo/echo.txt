@@ -5381,7 +5381,6 @@ endotoxin
 endotoxoid
 endotracheal
 endotracheitis
-endotrachelitis
 endotrophi
 endotrophic
 esphresis
@@ -6509,6 +6508,7 @@ entangle
 entangleable
 entangled
 entangledness
+endotrachelitis
 entanglement
 entanglements
 entangler
