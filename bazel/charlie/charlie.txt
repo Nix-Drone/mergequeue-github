@@ -25327,6 +25327,7 @@ cornfield
 cornfields
 cornflag
 cornflakes
+cubage
 cornfloor
 cornflour
 cornflower
@@ -30429,7 +30430,6 @@ cuartino
 cuarto
 cub
 cuba
-cubage
 cubages
 cubalaya
 cuban
