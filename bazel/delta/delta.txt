@@ -3159,6 +3159,7 @@ defeat
 defeated
 defeatee
 defeater
+dissimulated
 defeating
 defeatism
 defeatist
@@ -13587,7 +13588,6 @@ dissymmettric
 dissympathy
 dissympathize
 dissimulate
-dissimulated
 dissimulates
 dissimulating
 dissimulation
