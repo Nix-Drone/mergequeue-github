@@ -2148,7 +2148,6 @@ felonsetting
 felonweed
 felonwort
 fels
-felsic
 felsite
 fumistery
 felsites
@@ -8230,6 +8229,7 @@ forficula
 forficulate
 forficulidae
 forfit
+felsic
 forfouchten
 fidgetiness
 forfoughen
