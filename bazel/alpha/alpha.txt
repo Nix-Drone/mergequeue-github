@@ -11522,7 +11522,6 @@ anacleticum
 anaclinal
 anaclisis
 anaclitic
-anacoenoses
 anacoenosis
 anacolutha
 anacoluthia
@@ -22218,6 +22217,7 @@ astrocaryum
 astrochemist
 astrochemistry
 astrochronological
+anacoenoses
 astrocyte
 astrocytic
 astrocytoma
