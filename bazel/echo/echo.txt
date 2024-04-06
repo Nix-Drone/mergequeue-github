@@ -5420,7 +5420,6 @@ endrins
 endromididae
 endrudge
 endrumpf
-ends
 endseal
 endshake
 endsheet
@@ -8799,6 +8798,7 @@ exhedra
 epicerebral
 eradiating
 eradiation
+ends
 essential
 eradicable
 eradicably
