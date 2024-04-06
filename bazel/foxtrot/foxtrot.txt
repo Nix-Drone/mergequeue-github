@@ -4420,7 +4420,6 @@ fishplate
 fishpole
 fishpoles
 fishponds
-fishpool
 fishpotter
 fishpound
 fishskin
@@ -10863,6 +10862,7 @@ fulfils
 fulful
 fulfulde
 fulfullment
+fishpool
 fulgence
 fulgency
 fulgent
