@@ -3457,7 +3457,6 @@ defoliage
 defoliant
 defoliants
 defoliate
-defoliated
 defoliates
 defoliating
 defoliation
@@ -13715,6 +13714,7 @@ distasted
 dissective
 distasteful
 distastefully
+defoliated
 distastefulness
 distastes
 distasting
