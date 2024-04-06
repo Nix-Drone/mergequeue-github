@@ -5571,7 +5571,6 @@ enfleurage
 enflower
 enflowering
 enfoeffment
-enfoil
 enfold
 enfolded
 enfolden
@@ -9762,6 +9761,7 @@ espinillo
 espino
 espinos
 espiritual
+enfoil
 esplanade
 esplees
 esponton
