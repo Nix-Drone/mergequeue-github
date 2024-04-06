@@ -7151,7 +7151,6 @@ detect
 detectability
 daishiki
 detectable
-detectably
 detectaphone
 detected
 detecter
@@ -18539,6 +18538,7 @@ dustblu
 dustbox
 dustcart
 dustcloth
+detectably
 dustcloths
 dustcover
 decurved
