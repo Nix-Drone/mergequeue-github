@@ -2265,6 +2265,7 @@ cancellations
 cancelled
 canceller
 cancelli
+chasseur
 cancelling
 cancellous
 cancellus
@@ -9179,7 +9180,6 @@ chassepot
 cinderella
 chassepots
 chasses
-chasseur
 chasseurs
 chassignite
 chassis
