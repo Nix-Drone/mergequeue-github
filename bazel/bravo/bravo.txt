@@ -2079,6 +2079,7 @@ bankalachi
 bankbook
 bankbooks
 bankcard
+beardfish
 bankcards
 banked
 banker
@@ -4134,7 +4135,6 @@ beard
 bearded
 beardedness
 bearder
-beardfish
 beardfishes
 beardy
 beardie
