@@ -2556,7 +2556,6 @@ electroplater
 electroplates
 electroplating
 electroplax
-electropneumatic
 electropoion
 electropolar
 electropolish
@@ -6923,6 +6922,7 @@ entosphenoid
 entosphere
 entosterna
 entosternal
+electropneumatic
 entosternum
 entosthoblast
 entothorax
