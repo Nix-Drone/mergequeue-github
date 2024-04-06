@@ -5833,6 +5833,7 @@ engs
 enguard
 engulf
 engulfed
+ethnogeographic
 engulfing
 engulfment
 engulfs
@@ -10429,7 +10430,6 @@ ethnogenies
 ethnogenist
 ethnogeographer
 ethnogeography
-ethnogeographic
 ethnogeographical
 ethnogeographically
 ethnographer
