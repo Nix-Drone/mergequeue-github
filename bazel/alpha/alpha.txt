@@ -3698,7 +3698,6 @@ adenohypersthenia
 adenohypophyseal
 adenohypophysial
 adenohypophysis
-adenoid
 adenoidal
 adenoidectomy
 adenoidectomies
@@ -20564,6 +20563,7 @@ arthroclasia
 arthrocleisis
 arthroclisis
 arthroderm
+adenoid
 arthrodesis
 arthrodia
 arthrodiae
