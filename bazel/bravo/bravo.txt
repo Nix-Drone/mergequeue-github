@@ -11810,7 +11810,6 @@ bodiment
 boding
 bodingly
 bodings
-bodyplate
 bodyshirt
 bodysuit
 bodysuits
@@ -16393,6 +16392,7 @@ brushlike
 brushmaker
 brushmaking
 brushman
+bodyplate
 brushmen
 brushoff
 brushoffs
