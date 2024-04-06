@@ -577,7 +577,6 @@ backtracking
 backtracks
 backtrail
 backtrick
-backup
 backups
 backus
 backveld
@@ -7588,6 +7587,7 @@ bewildering
 bewilderingly
 boasting
 bewilderment
+backup
 bewilders
 bewimple
 bewinged
