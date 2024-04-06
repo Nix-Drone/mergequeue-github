@@ -573,7 +573,6 @@ damageous
 damager
 damagers
 damages
-damaging
 damagingly
 damayanti
 damalic
@@ -3685,6 +3684,7 @@ deguelin
 degum
 degummed
 degummer
+damaging
 degumming
 degums
 degust
