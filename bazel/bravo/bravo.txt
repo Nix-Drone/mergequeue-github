@@ -5280,7 +5280,6 @@ beglue
 begnaw
 begnawed
 begnawn
-bego
 begob
 begobs
 begod
@@ -7363,6 +7362,7 @@ bashilange
 betide
 betided
 betides
+bego
 betiding
 betimber
 betime
