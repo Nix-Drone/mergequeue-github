@@ -12360,7 +12360,6 @@ bombus
 bomi
 bomos
 bon
-bona
 bonace
 bonaci
 bubos
@@ -17385,6 +17384,7 @@ bundists
 bundle
 bundled
 bundler
+bona
 bundlerooted
 bundlers
 bundles
