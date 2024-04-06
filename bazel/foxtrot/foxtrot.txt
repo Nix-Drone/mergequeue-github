@@ -108,7 +108,6 @@ faciation
 facie
 faciend
 faciends
-faciendum
 facient
 facies
 faciest
@@ -10800,6 +10799,7 @@ fuchi
 fuchsia
 flacked
 fuchsian
+faciendum
 fuchsias
 fuchsin
 fuchsine

@@ -11447,6 +11447,7 @@ choes
 choffer
 choga
 chogak
+coexclusive
 chogset
 choy
 choya
@@ -18138,7 +18139,6 @@ coevolutionary
 coevolve
 coevolvedcoevolves
 coevolving
-coexclusive
 coexecutant
 coexecutor
 coexecutrices
