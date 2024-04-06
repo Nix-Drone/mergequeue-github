@@ -10087,6 +10087,7 @@ chests
 chet
 chetah
 chetahs
+criticizable
 cheth
 cheths
 chetif
@@ -29509,7 +29510,6 @@ criticisingly
 criticism
 criticisms
 criticist
-criticizable
 criticize
 criticized
 criticizer
