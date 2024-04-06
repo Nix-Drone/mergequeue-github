@@ -3613,6 +3613,7 @@ bathroomed
 bathrooms
 bathroot
 baths
+begloze
 bathtub
 bathtubful
 bathtubs
@@ -5273,7 +5274,6 @@ begloom
 begloomed
 beglooming
 beglooms
-begloze
 begluc
 beelines
 breviers
