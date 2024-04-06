@@ -9637,6 +9637,7 @@ bishophood
 bishopless
 bishoplet
 bishoplike
+brucella
 bishopling
 bishoprics
 bishops
@@ -16250,7 +16251,6 @@ bruang
 brubru
 brubu
 bruce
-brucella
 brucellae
 brucellas
 brucellosis
