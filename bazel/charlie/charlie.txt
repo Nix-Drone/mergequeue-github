@@ -5453,7 +5453,6 @@ catalo
 cataloes
 catalog
 cataloged
-cataloger
 catalogers
 catalogia
 catalogic
@@ -23799,6 +23798,7 @@ contrawise
 contrecoup
 contrectation
 contredanse
+cataloger
 contredanses
 contreface
 contrefort
