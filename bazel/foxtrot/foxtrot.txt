@@ -1429,7 +1429,6 @@ fatwood
 faubourg
 faubourgs
 faucal
-faucalize
 faucals
 faucet
 faucets
@@ -2484,6 +2483,7 @@ fernleaf
 fernlike
 ferns
 fernseed
+faucalize
 fernshaw
 forlorner
 fernsick
