@@ -79,7 +79,6 @@ faceoff
 facepiece
 faceplate
 facer
-facers
 fisticuffs
 faces
 facesaving
@@ -1788,6 +1787,7 @@ febricula
 febrifacient
 febriferous
 febrific
+facers
 febrifugal
 febrifuge
 febrile
