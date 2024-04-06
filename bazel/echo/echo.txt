@@ -3774,7 +3774,6 @@ emendations
 emendator
 emendatory
 emended
-emender
 emenders
 emendicate
 embowl
@@ -7445,6 +7444,7 @@ ephebeum
 ephebi
 ephebic
 epheboi
+emender
 ephebos
 ephebus
 ephectic
