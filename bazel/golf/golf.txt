@@ -1937,7 +1937,6 @@ gatemaker
 gatemen
 gatepost
 gateposts
-gates
 gatetender
 gateway
 gatewaying
@@ -8584,6 +8583,7 @@ greats
 greave
 groundway
 greaved
+gates
 greaves
 grebe
 grebes
