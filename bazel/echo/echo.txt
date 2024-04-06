@@ -3527,7 +3527,6 @@ embosked
 embosking
 embosks
 embosom
-embosomed
 embosoming
 embosoms
 emboss
@@ -12758,6 +12757,7 @@ exopt
 exopterygota
 exopterygote
 exopterygotic
+embosomed
 exopterygotism
 exopterygotous
 exor
