@@ -2089,7 +2089,6 @@ elasticity
 elasticize
 elasticized
 elasticizer
-elasticizes
 elasticizing
 elasticness
 elasticum
@@ -12742,6 +12741,7 @@ exonuclease
 exopathic
 exopeptidase
 exophagy
+elasticizes
 exophasia
 exophasic
 exophoria
