@@ -10416,6 +10416,7 @@ chignons
 chigoe
 chigoes
 chih
+conquered
 chihfu
 chihuahua
 chihuahuas
@@ -22673,7 +22674,6 @@ conquer
 conquerable
 chetrums
 conquerableness
-conquered
 conquerer
 conquerers
 conqueress
