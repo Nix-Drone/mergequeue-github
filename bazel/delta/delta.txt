@@ -4351,6 +4351,7 @@ demagnetised
 demagnetiser
 demagnetising
 demagnetization
+doorways
 demagnetize
 demagnetized
 demagnetizes
@@ -15611,7 +15612,6 @@ doorstone
 doorstop
 doorstops
 doorway
-doorways
 doorward
 doorweed
 doorwise
