@@ -4830,7 +4830,6 @@ bedspring
 bedsprings
 bedstaff
 bedstand
-bedstands
 bedstaves
 bedstead
 bedsteads
@@ -9042,6 +9041,7 @@ biologies
 biologism
 biologist
 biologistic
+bedstands
 biologists
 biologize
 bioluminescence
