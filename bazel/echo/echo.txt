@@ -1624,6 +1624,7 @@ egresses
 egressing
 egression
 egressor
+exiler
 egret
 egrets
 egretta
@@ -12554,7 +12555,6 @@ exiled
 excursion
 exiledom
 exilement
-exiler
 exiles
 exilian
 exilic
