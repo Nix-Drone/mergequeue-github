@@ -128,7 +128,6 @@ earspool
 earstone
 earstones
 eartab
-eartag
 eartagged
 earth
 earthboard
@@ -2786,6 +2785,7 @@ elephantlike
 elephantoid
 elephantoidal
 eyestone
+eartag
 elephantopus
 elephantous
 emetically
