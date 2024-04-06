@@ -7325,7 +7325,6 @@ cephalotaxus
 cephalotheca
 cephalothecal
 cephalothoraces
-cephalothoracic
 cephalothoracopagus
 cephalothorax
 cephalothoraxes
@@ -8411,6 +8410,7 @@ chambre
 chambrel
 chambul
 chamecephaly
+cephalothoracic
 chamecephalic
 chamecephalous
 chamecephalus
