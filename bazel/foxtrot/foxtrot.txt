@@ -3032,7 +3032,6 @@ fiberware
 fibra
 fibration
 fibreboard
-fibred
 fibrefill
 fibreglass
 fibreless
@@ -3112,6 +3111,7 @@ fibroglia
 fibroglioma
 fibrohemorrhagic
 farfet
+fibred
 fibroid
 fibroids
 fibroin
