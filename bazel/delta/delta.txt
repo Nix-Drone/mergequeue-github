@@ -9391,6 +9391,7 @@ diffusible
 diffusibleness
 diffusibly
 dikamalli
+du
 diffusimeter
 diffusing
 diffusiometer
@@ -17641,7 +17642,6 @@ dt
 dtd
 dtente
 dtset
-du
 duad
 duadic
 duads
