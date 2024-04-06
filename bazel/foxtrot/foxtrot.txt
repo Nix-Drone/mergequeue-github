@@ -4145,6 +4145,7 @@ fireblende
 fireboard
 fireboat
 fireboats
+fluorimeter
 fireboy
 firebolted
 firebomb
@@ -6478,7 +6479,6 @@ fluoridizing
 fluorids
 fourfiusher
 fluoryl
-fluorimeter
 fluorimetry
 fraterniser
 fluorimetric
