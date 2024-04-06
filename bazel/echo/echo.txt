@@ -3375,7 +3375,6 @@ embden
 embeam
 extinction
 embed
-embeddable
 embedded
 embedder
 exsibilate
@@ -8809,6 +8808,7 @@ eradicates
 eradicating
 eradication
 eradications
+embeddable
 eradicative
 eradicator
 eradicatory
