@@ -2657,7 +2657,6 @@ fertilisable
 figurehead
 fertilisational
 fertilise
-fertilised
 fertiliser
 fertilising
 fertilitate
@@ -10394,6 +10393,7 @@ frontad
 frontage
 feldspars
 frontager
+fertilised
 frontages
 frontal
 facewise
