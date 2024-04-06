@@ -9531,7 +9531,6 @@ checkrower
 checkrowing
 checkrows
 checks
-checkstone
 checkstrap
 checkstring
 checksum
@@ -27897,6 +27896,7 @@ cracovienne
 cracowe
 craddy
 cradge
+checkstone
 cradle
 cradleboard
 cradlechild
