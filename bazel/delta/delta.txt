@@ -6900,7 +6900,6 @@ despoil
 despoiled
 despoiler
 despoilers
-despoiling
 despoilment
 devorative
 despoilments
@@ -16642,6 +16641,7 @@ drainfield
 draining
 drainman
 drainpipe
+despoiling
 drainpipes
 drains
 drainspout
