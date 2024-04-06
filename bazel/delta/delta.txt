@@ -4893,7 +4893,6 @@ demonstrableness
 demonstrably
 demonstrance
 demonstrandum
-demonstrant
 demonstratability
 demonstratable
 demonstrate
@@ -12654,6 +12653,7 @@ disluster
 dislustered
 dislustering
 dislustre
+demonstrant
 dislustred
 dislustring
 dismay
