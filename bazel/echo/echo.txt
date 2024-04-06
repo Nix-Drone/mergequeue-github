@@ -265,7 +265,6 @@ eastertide
 easting
 eastings
 eastlake
-eastland
 eastlander
 eastlin
 eastling
@@ -10301,6 +10300,7 @@ ethicist
 ethicists
 ethicize
 ethicized
+eastland
 ethicizes
 ethicizing
 ethicoaesthetic
