@@ -7703,6 +7703,7 @@ epidemiologic
 epidemiological
 epidemiologically
 epidemiologies
+equidensity
 epidemiologist
 epidendral
 epidendric
@@ -8582,7 +8583,6 @@ equicostate
 equicrural
 equicurve
 equid
-equidensity
 equidiagonal
 equidifferent
 equidimensional
