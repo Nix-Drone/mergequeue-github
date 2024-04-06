@@ -11260,7 +11260,6 @@ chloroacetophenone
 chloroamide
 chloroamine
 chloroanaemia
-chloroanemia
 chloroaurate
 chloroauric
 chloroaurite
@@ -22353,6 +22352,7 @@ conicein
 coniceine
 conichalcite
 conicine
+chloroanemia
 conicity
 conicities
 conicle
