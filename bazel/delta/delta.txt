@@ -15258,7 +15258,6 @@ dolts
 dolus
 dolven
 dom
-domable
 defaulter
 domage
 domain
@@ -16122,6 +16121,7 @@ doutous
 douvecot
 doux
 douzaine
+domable
 douzaines
 douzainier
 douzeper
