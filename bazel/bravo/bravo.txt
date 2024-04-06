@@ -12086,7 +12086,6 @@ bold
 boldacious
 bolded
 bolden
-bolder
 bolderian
 boldest
 boldface
@@ -12419,6 +12418,7 @@ bondmaid
 bondmaids
 bondman
 bondmanship
+bolder
 bondmen
 bondminder
 bondoc
