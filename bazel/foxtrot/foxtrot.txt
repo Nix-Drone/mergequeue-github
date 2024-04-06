@@ -255,7 +255,6 @@ faddist
 faddists
 faddle
 fade
-fadeaway
 fadeaways
 faded
 fadedly
@@ -4686,6 +4685,7 @@ fjarding
 fjeld
 fjelds
 fjerding
+fadeaway
 fjord
 fjorded
 fjords
