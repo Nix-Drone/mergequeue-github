@@ -2707,6 +2707,7 @@ gorger
 generics
 generification
 generis
+graylags
 generosity
 generosities
 generous
@@ -7755,7 +7756,6 @@ grayish
 grayishness
 grail
 graylag
-graylags
 grailer
 grayly
 grailing
