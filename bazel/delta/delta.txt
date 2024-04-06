@@ -2118,7 +2118,6 @@ decarburation
 decarburisation
 decarburise
 decarburised
-decarburising
 decarburize
 decarburized
 decarburizing
@@ -9940,6 +9939,7 @@ disgarrison
 diminutively
 diminutiveness
 dimiss
+decarburising
 deindustrialization
 dimissaries
 dimission
