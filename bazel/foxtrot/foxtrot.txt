@@ -9038,6 +9038,7 @@ fourniture
 fourpence
 fourpenny
 fourposter
+funguslike
 fourposters
 flabellarium
 fourpounder
@@ -11235,7 +11236,6 @@ fungus
 fungused
 funguses
 fungusy
-funguslike
 funic
 funicle
 funicles
