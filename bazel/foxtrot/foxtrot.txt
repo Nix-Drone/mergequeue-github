@@ -3131,6 +3131,7 @@ fibromyoma
 fibromyomectomy
 fibromyositis
 fibromyotomy
+filtratable
 fibromyxoma
 fibromyxosarcoma
 fibromucous
@@ -3828,7 +3829,6 @@ fossors
 filthless
 filtrability
 filtrable
-filtratable
 femorocaudal
 filtrate
 filtrated
