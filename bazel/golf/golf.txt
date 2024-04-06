@@ -5595,7 +5595,6 @@ glyoxalin
 glyoxaline
 glyoxyl
 galliwasp
-glyoxylic
 glyoxilin
 glyoxime
 glyph
@@ -6279,6 +6278,7 @@ gnathoplasty
 gnathopod
 gnathopoda
 gnathopodite
+glyoxylic
 gnathopodous
 gnathostegite
 gnathostoma
