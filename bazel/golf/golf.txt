@@ -1789,7 +1789,6 @@ gastroenterostomies
 gastroenterotomy
 gastroepiploic
 gastroesophageal
-gastroesophagostomy
 gastrogastrotomy
 gastrogenic
 gastrogenital
@@ -3843,6 +3842,7 @@ giantlikeness
 giantry
 giants
 giantship
+gastroesophagostomy
 giantsize
 giaour
 giaours
