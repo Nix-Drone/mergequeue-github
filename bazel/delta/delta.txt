@@ -7519,7 +7519,6 @@ devata
 devaul
 devaunt
 devchar
-deve
 devein
 deveined
 deveining
@@ -14093,6 +14092,7 @@ ditchbank
 ditchbur
 ditchdigger
 ditchdigging
+deve
 ditchdown
 ditched
 ditcher
