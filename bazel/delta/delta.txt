@@ -2700,7 +2700,6 @@ decontaminate
 decontaminated
 decontaminates
 decontaminating
-decontamination
 decontaminations
 decontaminative
 decontaminator
@@ -6528,6 +6527,7 @@ desegmented
 disordination
 desegregate
 desegregated
+decontamination
 desegregates
 desegregating
 desegregation
