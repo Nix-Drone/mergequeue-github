@@ -4131,6 +4131,7 @@ firbolg
 firca
 fyrd
 fyrdung
+faldistory
 fire
 fireable
 firearm
@@ -7479,7 +7480,6 @@ forclose
 forconceit
 forcut
 ford
-faldistory
 fordable
 fordableness
 fordays
