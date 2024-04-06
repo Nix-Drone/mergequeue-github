@@ -6506,7 +6506,6 @@ bepiece
 bepierce
 bepile
 bepill
-bepillared
 bepimple
 bepimpled
 bepimples
@@ -9882,6 +9881,7 @@ bitterwort
 bitthead
 bitty
 bittie
+bepillared
 bittier
 bittiest
 bitting
