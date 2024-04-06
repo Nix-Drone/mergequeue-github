@@ -1551,7 +1551,6 @@ gascheck
 gascoign
 gascoigny
 gascoyne
-gascon
 gasconade
 gasconader
 guerinet
@@ -8433,6 +8432,7 @@ graveyard
 gravel
 graveldiver
 graveled
+gascon
 graveless
 gravely
 gravelike
