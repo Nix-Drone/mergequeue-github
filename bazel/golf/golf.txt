@@ -1101,6 +1101,7 @@ ganglia
 gangliac
 gargoyled
 ganglial
+gybed
 gangliar
 gangliasthenia
 gangliate
@@ -3902,7 +3903,6 @@ gibbus
 gibe
 geophyte
 gibed
-gybed
 gibel
 gibelite
 gibeonite
