@@ -9720,7 +9720,6 @@ chelates
 chelating
 chelation
 chelator
-chelators
 chelem
 chelerythrin
 chelerythrine
@@ -17059,6 +17058,7 @@ coadjutrix
 coadjuvancy
 coadjuvant
 coadjuvate
+chelators
 coadminister
 coadministration
 coadministrator
