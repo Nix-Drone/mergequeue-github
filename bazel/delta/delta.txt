@@ -2591,7 +2591,6 @@ decoll
 decollate
 decollated
 decollating
-decollation
 decollator
 decolletage
 decollete
@@ -4403,6 +4402,7 @@ demargarinate
 demark
 demarkation
 demarked
+decollation
 demarking
 demarks
 demasculinisation
