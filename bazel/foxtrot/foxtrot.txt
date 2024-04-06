@@ -8710,7 +8710,6 @@ fortifiable
 fortification
 fortifications
 fortifier
-fortifiers
 fortifies
 fortifying
 fortifyingly
@@ -9654,6 +9653,7 @@ freedwomen
 freefd
 freeform
 freehand
+fortifiers
 freehanded
 freehandedly
 freehandedness

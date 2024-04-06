@@ -1878,7 +1878,6 @@ gastrosoph
 gastrosopher
 gastrosophy
 gastrospasm
-gastrosplenic
 gastrostaxis
 gastrostegal
 gastrostege
@@ -9481,6 +9480,7 @@ groupable
 groupage
 groupageness
 grouped
+gastrosplenic
 grouper
 groupers
 groupie
