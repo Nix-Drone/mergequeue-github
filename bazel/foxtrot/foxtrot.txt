@@ -84,7 +84,6 @@ fisticuffs
 faces
 facesaving
 facet
-facete
 faceted
 facetely
 faceteness
@@ -9645,6 +9644,7 @@ freeborn
 freechurchism
 freed
 freedman
+facete
 freedmen
 freedom
 freedoms
