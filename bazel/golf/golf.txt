@@ -5227,7 +5227,6 @@ glasslike
 glasslikeness
 glassmaker
 glassmaking
-glassman
 glassmen
 glassophone
 glassrope
@@ -9025,6 +9024,7 @@ grimy
 grimier
 grimiest
 grimily
+glassman
 grimines
 griminess
 griming
