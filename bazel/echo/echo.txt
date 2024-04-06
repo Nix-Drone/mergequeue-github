@@ -6361,7 +6361,6 @@ ensigncies
 ensigned
 ensignhood
 ephete
-ensignment
 ensignry
 ensigns
 ensignship
@@ -10393,6 +10392,7 @@ ethnal
 ethnarchy
 ethnarchies
 ethnarchs
+ensignment
 ethnic
 esthesias
 ethnical
