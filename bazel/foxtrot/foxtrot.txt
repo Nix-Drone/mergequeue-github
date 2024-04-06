@@ -195,6 +195,7 @@ factoress
 factory
 factorial
 factorially
+frizer
 factorials
 factories
 factorylike
@@ -10251,7 +10252,6 @@ frize
 frized
 frizel
 fasciotomy
-frizer
 frizers
 frizes
 frizette
