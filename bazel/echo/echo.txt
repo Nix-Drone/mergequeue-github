@@ -7225,7 +7225,6 @@ enwwoven
 enzygotic
 enzym
 enzymatic
-enzymatically
 enzyme
 enzymes
 enzymic
@@ -11383,6 +11382,7 @@ evaporation
 evaporations
 evaporative
 evaporatively
+enzymatically
 evaporativity
 evaporator
 evaporators
