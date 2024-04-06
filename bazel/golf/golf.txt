@@ -1763,7 +1763,6 @@ gastrodisk
 gastroduodenal
 gastroduodenitis
 gastroduodenoscopy
-gastroduodenostomy
 gastroduodenostomies
 gastroduodenotomy
 gastroelytrotomy
@@ -3938,6 +3937,7 @@ giddybrain
 giddied
 giddier
 giddies
+gastroduodenostomy
 giddiest
 giddify
 giddyhead
