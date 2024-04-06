@@ -2618,7 +2618,6 @@ decoloriser
 decolorising
 decolorization
 decolorize
-decolorized
 decolorizer
 decolorizing
 decolors
@@ -3464,6 +3463,7 @@ defoliation
 defoliations
 defoliator
 defoliators
+decolorized
 deforce
 deuteroprism
 deforced
