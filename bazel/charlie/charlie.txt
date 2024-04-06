@@ -4146,6 +4146,7 @@ carfare
 carfares
 carfax
 carfloat
+comprizable
 carfour
 carfuffle
 carfuffling
@@ -20930,7 +20931,6 @@ comprise
 comprised
 comprises
 comprising
-comprizable
 comprizal
 comprize
 comprized
