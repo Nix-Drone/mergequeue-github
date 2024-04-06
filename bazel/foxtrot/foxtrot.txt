@@ -7620,7 +7620,6 @@ foredays
 fleabiting
 foredate
 foredated
-foredates
 foredating
 foredawn
 foredeck
@@ -7932,6 +7931,7 @@ footsie
 foreribs
 forerigging
 foreright
+foredates
 foreroyal
 forerun
 forerunner
