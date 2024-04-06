@@ -5110,7 +5110,6 @@ aerosolized
 aerosols
 aerosphere
 aerosporin
-aerostat
 aerostatic
 aerostatical
 aerostatics
@@ -25156,6 +25155,7 @@ axometer
 allorrhyhmia
 axometry
 axometric
+aerostat
 axon
 axonal
 axone
