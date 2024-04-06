@@ -16964,7 +16964,6 @@ cnemides
 cnemidium
 cnemidophorus
 cnemis
-cneoraceous
 cneorum
 cnibophore
 cnicin
@@ -20692,6 +20691,7 @@ completion
 completions
 completive
 completively
+cneoraceous
 completory
 completories
 complex
