@@ -18905,7 +18905,6 @@ collars
 collat
 collatable
 collate
-collated
 collatee
 collateral
 correspondentially
@@ -24945,6 +24944,7 @@ cordate
 cordately
 cordax
 cordeau
+collated
 corded
 cordel
 cordelia
