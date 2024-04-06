@@ -14332,7 +14332,6 @@ anthericum
 antherid
 antheridia
 antheridial
-antheridiophore
 antheridium
 antherids
 antheriferous
@@ -23052,6 +23051,7 @@ attestation
 amahs
 attestations
 attestative
+antheridiophore
 attestator
 attested
 attester
