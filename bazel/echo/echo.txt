@@ -4746,6 +4746,7 @@ enclog
 encloister
 enclosable
 enclose
+experimentalists
 enclosed
 encloser
 enclosers
@@ -13057,7 +13058,6 @@ experimental
 experimentalism
 embroilments
 experimentalist
-experimentalists
 experimentalize
 experimentally
 experimentarian
