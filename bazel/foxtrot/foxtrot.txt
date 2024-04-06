@@ -97,7 +97,6 @@ facetiousness
 facets
 facette
 facetted
-facetting
 faceup
 facework
 facy
@@ -8079,6 +8078,7 @@ foresteep
 forestem
 forestep
 forester
+facetting
 forestery
 foresters
 forestership
