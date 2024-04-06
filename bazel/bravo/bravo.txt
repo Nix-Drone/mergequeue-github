@@ -15965,7 +15965,6 @@ bronchohemorrhagia
 broncholemmitis
 broncholith
 broncholithiasis
-bronchomycosis
 bronchomotor
 bronchomucormycosis
 bronchopathy
@@ -17002,6 +17001,7 @@ bulgaria
 bulgarians
 bulgaric
 bulgarophil
+bronchomycosis
 bulge
 bulged
 bulger
