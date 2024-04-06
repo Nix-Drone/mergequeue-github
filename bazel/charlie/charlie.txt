@@ -5452,7 +5452,6 @@ cataloes
 catalog
 cataloged
 catalogers
-catalogia
 catalogic
 catalogical
 cataloging
@@ -9903,6 +9902,7 @@ chemotherapeutically
 chemotherapeutics
 chemotherapy
 chemotherapies
+catalogia
 chemotherapist
 chemotherapists
 chemotic
