@@ -4830,6 +4830,7 @@ bedspreads
 bedspring
 bedsprings
 bedstaff
+beseemly
 bedstand
 bedstands
 bedstaves
@@ -6909,7 +6910,6 @@ beseeming
 beseemingly
 bendel
 beseemingness
-beseemly
 beseemliness
 beseems
 beseen
