@@ -5603,7 +5603,6 @@ enform
 enfort
 enforth
 enfortune
-enfoul
 enfoulder
 enfrai
 enframe
@@ -7838,6 +7837,7 @@ epigraphy
 egyptianization
 epigraphic
 epigraphical
+enfoul
 epigraphically
 epigraphist
 epigraphs
