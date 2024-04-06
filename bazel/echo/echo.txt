@@ -5485,7 +5485,6 @@ energids
 energies
 energise
 epirot
-energised
 energiser
 energises
 energising
@@ -9619,6 +9618,7 @@ esiphonal
 eskar
 eskars
 esker
+energised
 eskers
 eskimauan
 eskimo
