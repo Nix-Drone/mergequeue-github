@@ -12822,7 +12822,6 @@ angiosperms
 angiosporous
 angiostegnosis
 angiostenosis
-angiosteosis
 angiostomy
 angiostomize
 angiostrophy
@@ -23232,6 +23231,7 @@ auchenia
 auchenium
 auchlet
 aucht
+angiosteosis
 auckland
 auctary
 auction
