@@ -4042,7 +4042,6 @@ empannel
 empanoply
 empaper
 emparchment
-empark
 emparl
 empasm
 empasma
@@ -4510,6 +4509,7 @@ encashes
 encashing
 encashment
 encasing
+empark
 encasserole
 encastered
 entoderm
