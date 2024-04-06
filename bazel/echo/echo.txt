@@ -648,7 +648,6 @@ eclectist
 eclegm
 eclegma
 eclegme
-eclipsable
 eclipsareon
 eclipsation
 eclipse
@@ -4495,6 +4494,7 @@ eolienne
 encarnalising
 encarnalize
 encarnalized
+eclipsable
 encarnalizing
 encarpa
 encarpi
