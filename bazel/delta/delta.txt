@@ -7044,7 +7044,6 @@ destrudo
 destuff
 destuffing
 destuffs
-desubstantialize
 desubstantiate
 desucration
 desudation
@@ -17830,6 +17829,7 @@ dudeens
 dudelsack
 dudes
 dudgen
+desubstantialize
 dudgeon
 dudgeons
 dudine
