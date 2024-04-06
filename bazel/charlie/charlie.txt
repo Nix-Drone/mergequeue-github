@@ -18073,7 +18073,6 @@ coequals
 coequate
 coequated
 coequates
-coequating
 coequation
 coerce
 coerceable
@@ -21099,6 +21098,7 @@ concatenate
 concatenated
 concatenates
 concatenating
+coequating
 concatenation
 concatenations
 concatenator
