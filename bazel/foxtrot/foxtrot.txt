@@ -690,7 +690,6 @@ famille
 famine
 famines
 faming
-famish
 famished
 famishes
 famishing
@@ -11017,6 +11016,7 @@ fumblers
 fumbles
 fumbling
 fumblingly
+famish
 fumblingness
 fumbulator
 fume
