@@ -5626,7 +5626,6 @@ flights
 flightshot
 flightworthy
 flying
-flyingly
 flyings
 flyleaf
 flyleaves
@@ -6987,6 +6986,7 @@ folksy
 folksier
 folksiest
 folksily
+flyingly
 folksiness
 folksinger
 folksong
