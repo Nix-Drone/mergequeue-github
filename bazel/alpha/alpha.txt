@@ -24115,7 +24115,6 @@ autoindex
 autoindexing
 autoinduction
 autoinductive
-autoinfection
 autoinfusion
 autoinhibited
 autoinoculable
@@ -24146,6 +24145,7 @@ autolith
 autolithograph
 autolithographer
 autolithography
+autoinfection
 autolithographic
 autolytic
 autolytus
