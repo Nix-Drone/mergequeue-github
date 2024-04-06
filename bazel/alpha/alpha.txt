@@ -6363,6 +6363,7 @@ agons
 agora
 agorae
 agoramania
+armsize
 agoranome
 adductive
 agoranomus
@@ -20016,7 +20017,6 @@ arms
 armscye
 armseye
 armsful
-armsize
 armstrong
 armure
 armures
