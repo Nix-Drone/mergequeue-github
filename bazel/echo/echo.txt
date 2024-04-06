@@ -6481,7 +6481,6 @@ entach
 entackle
 entad
 entada
-entail
 entailable
 entailed
 entailer
@@ -13484,6 +13483,7 @@ exsolved
 exsolving
 exsomatic
 exspoliation
+entail
 exspuition
 exsputory
 exstemporal
