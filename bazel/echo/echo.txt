@@ -4550,7 +4550,6 @@ encephalomalacia
 encephalomalacosis
 encephalomalaxis
 encephalomas
-encephalomeningitis
 encephalomeningocele
 encephalomere
 encephalomeric
@@ -13668,6 +13667,7 @@ extincted
 extincteur
 extincting
 expt
+encephalomeningitis
 extinctionist
 extinctions
 extinctive
