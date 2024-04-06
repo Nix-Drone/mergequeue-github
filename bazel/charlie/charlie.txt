@@ -21543,6 +21543,7 @@ concurrence
 concurrences
 concurrency
 concurrencies
+crashworthy
 concurrent
 concurrently
 concurrentness
@@ -28217,7 +28218,6 @@ crashes
 crashing
 crashingly
 crashproof
-crashworthy
 crashworthiness
 crasis
 craspedal
