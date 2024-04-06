@@ -1055,6 +1055,7 @@ edgrow
 edh
 edhs
 edibile
+equipper
 edibility
 edible
 edibleness
@@ -8692,7 +8693,6 @@ equipostile
 equipotential
 equipotentiality
 equipped
-equipper
 equippers
 equipping
 equiprobabilism
