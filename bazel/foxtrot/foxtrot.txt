@@ -2542,7 +2542,6 @@ ferryage
 ferriages
 ferryboat
 ferryboats
-ferric
 familistery
 ferricyanate
 ferricyanic
@@ -10684,6 +10683,7 @@ fruitiness
 fruiting
 fruition
 fruitions
+ferric
 fruitist
 fruitive
 fruitless
