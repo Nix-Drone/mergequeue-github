@@ -1697,7 +1697,6 @@ eyeblack
 eyeblink
 eyebolt
 eyebolts
-eyebree
 eyebridled
 eyebright
 eyebrow
@@ -6435,6 +6434,7 @@ enspangle
 enspell
 ensphere
 ensphered
+eyebree
 enspheres
 ensphering
 enspirit
