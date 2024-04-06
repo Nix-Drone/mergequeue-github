@@ -2548,7 +2548,6 @@ acknowledgeable
 acknowledged
 acknowledgedly
 acknowledgement
-acknowledgements
 acknowledger
 acknowledgers
 acknowledges
@@ -3778,6 +3777,7 @@ adeptship
 adequacy
 adequacies
 adequate
+acknowledgements
 adequately
 adequateness
 adequation
