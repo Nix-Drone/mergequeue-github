@@ -1838,7 +1838,6 @@ gastronosus
 gastropancreatic
 gastropancreatitis
 gastroparalysis
-gastroparesis
 gastroparietal
 gastropathy
 gastropathic
@@ -7795,6 +7794,7 @@ graip
 graypate
 grays
 graysby
+gastroparesis
 graysbies
 graisse
 grummeter
