@@ -13850,7 +13850,6 @@ distoclusion
 distoma
 distomatidae
 distomatosis
-distomatous
 distome
 dystome
 distomes
@@ -16311,6 +16310,7 @@ downrush
 downrushing
 downset
 downshare
+distomatous
 downshift
 downshifted
 downshifting
