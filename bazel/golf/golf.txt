@@ -2098,7 +2098,6 @@ gaveled
 gaveler
 gavelet
 gaveling
-gavelkind
 gavelkinder
 gavelled
 gaveller
@@ -9621,6 +9620,7 @@ grudgefulness
 grudgeless
 grudgeons
 grudger
+gavelkind
 grudgery
 grudgers
 grudges
