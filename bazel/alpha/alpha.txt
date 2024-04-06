@@ -941,6 +941,7 @@ absentness
 absents
 absfarad
 abshenry
+agit
 absi
 absinth
 absinthe
@@ -6177,7 +6178,6 @@ agister
 agisting
 agistment
 agists
-agit
 agitability
 agitable
 agitant
