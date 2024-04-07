@@ -5287,7 +5287,6 @@ dentalize
 dentalized
 dentally
 dentallia
-dentalman
 dentalmen
 dentals
 dentaphone
@@ -17576,6 +17575,7 @@ drumrolls
 drums
 drumskin
 drumslade
+dentalman
 drumsler
 drumstick
 drumsticks
