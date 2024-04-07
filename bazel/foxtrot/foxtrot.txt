@@ -2603,7 +2603,6 @@ ferronatrite
 ferronickel
 ferrophosphorus
 ferroprint
-ferroprussiate
 ferroprussic
 fording
 ferrotype
@@ -2657,6 +2656,7 @@ fertility
 fertilities
 fertilizability
 fertilizable
+ferroprussiate
 fertilization
 fertilizational
 fertilizations
