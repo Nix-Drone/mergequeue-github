@@ -3622,6 +3622,7 @@ geta
 getable
 getae
 getah
+glycolide
 getas
 getatable
 giansar
@@ -5493,7 +5494,6 @@ glycol
 glycolaldehyde
 glycolate
 glycolic
-glycolide
 glycolyl
 glycolylurea
 glycolipid
