@@ -1882,7 +1882,6 @@ gastrosplenic
 gastrostegal
 gastrostege
 gastrostenosis
-gastrostomy
 gastrostomies
 gastrostomize
 gastrostomus
@@ -4654,6 +4653,7 @@ gipsire
 gypsyry
 gypsite
 gipsyweed
+gastrostomy
 gypsyweed
 gypsywise
 gipsywort
