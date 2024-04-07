@@ -479,7 +479,6 @@ daytime
 daytimes
 dayton
 daiva
-dayward
 daywork
 dayworker
 daywrit
@@ -14864,6 +14863,7 @@ dogal
 dogana
 dogaressa
 dogate
+dayward
 dogbane
 dogbanes
 dogberry
