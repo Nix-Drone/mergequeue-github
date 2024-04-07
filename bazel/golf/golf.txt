@@ -1753,7 +1753,6 @@ gastrocoloptosis
 gastrocolostomy
 gastrocolotomy
 gastrocolpotomy
-gastrodermal
 gastrodermis
 gastrodialysis
 gastrodiaphanoscopy
@@ -3307,6 +3306,7 @@ gerald
 geraldine
 geraniaceae
 geraniaceous
+gastrodermal
 geranial
 geraniales
 geranic
