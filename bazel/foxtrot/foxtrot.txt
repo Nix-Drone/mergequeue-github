@@ -5072,6 +5072,7 @@ feint
 flashproof
 flashtester
 flashtube
+froglet
 flashtubes
 flask
 ferricyanhydric
@@ -10314,7 +10315,6 @@ froghood
 froghopper
 frogleaf
 frogleg
-froglet
 froglets
 froglike
 frogling
