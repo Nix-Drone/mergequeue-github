@@ -1229,7 +1229,6 @@ ganza
 ganzie
 gaol
 gaolage
-gaolbird
 gaoled
 gaoler
 gaolering
@@ -8645,6 +8644,7 @@ greeks
 green
 greenage
 greenalite
+gaolbird
 greenbackism
 greenbacks
 greenbark
