@@ -2708,7 +2708,6 @@ acquainting
 acquent
 acquereur
 acquest
-acquests
 acquiesce
 acquiesced
 acquiescement
@@ -9600,6 +9599,7 @@ aluminising
 aluminite
 aluminium
 aluminize
+acquests
 aluminized
 aluminizes
 aluminizing

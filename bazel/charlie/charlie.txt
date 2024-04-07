@@ -11744,7 +11744,6 @@ chondromyxosarcoma
 chondromucoid
 chondropharyngeal
 chondropharyngeus
-chondrophyte
 chondrophore
 chondroplast
 chondroplasty
@@ -25961,6 +25960,7 @@ cosec
 cosecant
 cosecants
 cosech
+chondrophyte
 cosecs
 cosectarian
 cosectional
