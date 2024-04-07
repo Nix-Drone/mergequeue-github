@@ -830,7 +830,6 @@ dangers
 dangersome
 dangle
 dangleberry
-dangleberries
 dangled
 danglement
 dangler
@@ -2090,6 +2089,7 @@ decapods
 decapper
 decapsulate
 decapsulation
+dangleberries
 decarbonated
 decarbonating
 decarbonation
