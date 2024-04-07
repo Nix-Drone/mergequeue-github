@@ -3552,7 +3552,6 @@ carats
 carauna
 caraunda
 caravan
-caravaned
 caravaneer
 caravaner
 caravaning
@@ -13013,6 +13012,7 @@ cyanol
 cyanole
 cyanomaclurin
 cyanometer
+caravaned
 cyanomethaemoglobin
 cyanomethemoglobin
 cyanometry
