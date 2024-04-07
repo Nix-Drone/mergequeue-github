@@ -2558,6 +2558,7 @@ declutch
 deco
 decoagulate
 decoagulated
+dorms
 decoagulation
 decoat
 decocainize
@@ -15727,7 +15728,6 @@ dormition
 dormitive
 dormitories
 dormouse
-dorms
 dorn
 dorneck
 dornecks
