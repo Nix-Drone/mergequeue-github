@@ -4841,6 +4841,7 @@ bedstaves
 bedstead
 bedsteads
 bedstock
+beshrouded
 bedstraw
 bedstraws
 bedstring
@@ -6959,7 +6960,6 @@ beshrews
 beshriek
 beshrivel
 beshroud
-beshrouded
 beshrouding
 beshrouds
 besiclometer
