@@ -2396,6 +2396,7 @@ electroergometer
 electroetching
 electroethereal
 electroextraction
+expos
 electroform
 electroforming
 electrofuse
@@ -13276,7 +13277,6 @@ exporters
 entireties
 exporting
 exports
-expos
 easier
 exposable
 emotionalising
