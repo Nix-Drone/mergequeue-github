@@ -5359,7 +5359,6 @@ fleckless
 flecklessly
 flecks
 flecnodal
-flecnode
 flect
 florette
 frigefact
@@ -9733,6 +9732,7 @@ faiths
 freezer
 freezes
 freezy
+flecnode
 freezing
 freezingly
 fregata
