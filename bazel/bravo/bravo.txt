@@ -192,6 +192,7 @@ baccalaureates
 baccalaureus
 baccar
 baccara
+bdrm
 baccaras
 baccarat
 baccarats
@@ -3952,7 +3953,6 @@ bdft
 bdl
 bdle
 bdls
-bdrm
 bds
 bea
 beach

@@ -3013,7 +3013,6 @@ deemphasis
 deemphasize
 deemphasized
 deemphasizes
-deemphasizing
 deems
 deemster
 deemsters
@@ -8124,6 +8123,7 @@ diactinic
 diactinism
 diaculum
 dyad
+deemphasizing
 diadelphia
 diadelphian
 diadelphic
