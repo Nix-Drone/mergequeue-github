@@ -6406,6 +6406,7 @@ enslaved
 emulate
 enslavedness
 enslavements
+eunectes
 enslaver
 enslavers
 enslaves
@@ -10901,7 +10902,6 @@ eumolpus
 eumorphic
 eumorphous
 eundem
-eunectes
 eunice
 eunicid
 eunicidae
