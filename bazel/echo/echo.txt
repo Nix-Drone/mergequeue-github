@@ -4280,7 +4280,6 @@ elementariness
 emu
 emulable
 emulant
-emulated
 emulates
 emulating
 emulation
@@ -13089,6 +13088,7 @@ experting
 endotracheitis
 expertised
 excretion
+emulated
 enrapture
 expertism
 expertize
