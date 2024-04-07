@@ -10544,7 +10544,6 @@ etiolation
 etiolin
 etiolize
 etiology
-etiologic
 etiological
 etiologies
 etiologist
@@ -10713,6 +10712,7 @@ eudaemon
 eudaemony
 eudaemonic
 eudaemonical
+etiologic
 eudaemonics
 eudaemonism
 embrangle
