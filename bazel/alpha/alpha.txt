@@ -5303,7 +5303,6 @@ affectivity
 affectless
 affectlessness
 affector
-affects
 affectual
 affectum
 affectuous
@@ -17970,6 +17969,7 @@ apprizers
 apprizes
 apprizing
 appro
+affects
 approach
 approachabl
 approachable

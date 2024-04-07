@@ -9881,7 +9881,6 @@ dimeters
 dimethyl
 dimethylamine
 dimethylamino
-dimethylaniline
 dimethylanthranilate
 dimethylbenzene
 dimethylcarbinol
@@ -11017,6 +11016,7 @@ disamenity
 disamis
 dysanalyte
 disanalogy
+dimethylaniline
 disanalogous
 disanchor
 disangularize
