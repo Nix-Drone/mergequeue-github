@@ -4335,7 +4335,6 @@ getters
 gymnure
 gymnurinae
 gymnurine
-gimp
 gimped
 gimper
 gimpy
@@ -7601,6 +7600,7 @@ grabbots
 graben
 grabens
 grabhook
+gimp
 grabman
 grabouche
 grabs
