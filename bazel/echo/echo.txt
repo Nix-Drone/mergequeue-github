@@ -4766,6 +4766,7 @@ eclipsis
 encloister
 enclosable
 enclose
+etymologize
 experimentalists
 enclosed
 encloser
@@ -10538,7 +10539,6 @@ etymologist
 etymologists
 etymologizable
 etymologization
-etymologize
 etymologized
 etymologizing
 enterpriser
