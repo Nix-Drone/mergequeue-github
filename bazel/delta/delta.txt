@@ -2755,7 +2755,6 @@ decorticate
 decorticated
 decorticating
 decortication
-dotlike
 decorticator
 decorticosis
 decortization
@@ -9084,6 +9083,7 @@ didascalar
 didascaly
 didascalic
 didascalos
+dotlike
 didder
 diddered
 diddering
