@@ -7067,7 +7067,6 @@ desulfurate
 desulfurated
 desulfurating
 desulfuration
-desulfured
 desulfuring
 desulfurisation
 desulfurise
@@ -14809,6 +14808,7 @@ dodginess
 dodging
 dodipole
 dodkin
+desulfured
 dodlet
 dodman
 dodo
