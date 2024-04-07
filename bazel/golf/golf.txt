@@ -1917,7 +1917,6 @@ gatch
 gate
 gateado
 gateage
-gateau
 gateaux
 gofers
 gatecrasher
@@ -7858,6 +7857,7 @@ grammates
 grammatic
 grammatical
 grammaticality
+gateau
 glossate
 grammatically
 grammaticalness
