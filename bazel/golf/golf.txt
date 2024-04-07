@@ -5925,7 +5925,6 @@ getid
 glossography
 glossographical
 glossohyal
-glossoid
 glossokinesthetic
 glossolabial
 glossolabiolaryngeal
@@ -8275,6 +8274,7 @@ grasni
 grasp
 graspable
 grasper
+glossoid
 graspers
 grasping
 graspingly
