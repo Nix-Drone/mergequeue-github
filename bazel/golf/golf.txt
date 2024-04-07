@@ -3008,7 +3008,6 @@ geocyclic
 geocline
 geococcyx
 geocoronium
-geocratic
 geraniols
 geocronite
 geod
@@ -7983,6 +7982,7 @@ grandniece
 gonolobus
 grandnieces
 grandpa
+geocratic
 grandpap
 grandpapa
 grandparent
