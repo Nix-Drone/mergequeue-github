@@ -5389,7 +5389,6 @@ affixial
 affixion
 affixment
 affixt
-affixture
 afflate
 afflated
 afflation
@@ -20156,6 +20155,7 @@ arraigner
 arraigning
 arraignment
 arraignments
+affixture
 arraigns
 ametabole
 arraying
