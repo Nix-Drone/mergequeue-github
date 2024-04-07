@@ -7278,7 +7278,6 @@ cephalofacial
 cephalogenesis
 cephalogram
 cephalograph
-cephalohumeral
 cephalohumeralis
 cephaloid
 cephalology
@@ -21635,6 +21634,7 @@ condignly
 condignness
 condylar
 condylarth
+cephalohumeral
 condylarthra
 condylarthrosis
 condylarthrous
