@@ -6527,7 +6527,6 @@ beplaided
 beplaster
 beplumed
 bepommel
-bepowder
 bepray
 bepraise
 bepraisement
@@ -14144,6 +14143,7 @@ bradydactylia
 bradyesthesia
 bradyglossia
 bradykinesia
+bepowder
 bradykinesis
 brachylogy
 bradykinetic
