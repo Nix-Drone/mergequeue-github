@@ -902,7 +902,6 @@ faquir
 faquirs
 far
 farad
-faraday
 faradaic
 faradays
 faradic
@@ -6461,6 +6460,7 @@ fluorescer
 fluoresces
 fluorescigenic
 fluorescigenous
+faraday
 fluorescin
 fluorescing
 fluorhydric
