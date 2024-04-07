@@ -1461,7 +1461,6 @@ dea
 deaccession
 deaccessioned
 deaccessioning
-deaccessions
 deacetylate
 deacetylated
 deacetylating
@@ -6682,6 +6681,7 @@ desilvers
 desynapsis
 desynaptic
 desynchronize
+deaccessions
 desynchronizing
 desinence
 desinent

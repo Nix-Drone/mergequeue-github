@@ -2757,7 +2757,6 @@ genevieve
 genevoise
 genghis
 geniality
-genialize
 genially
 genialness
 genian
@@ -5638,6 +5637,7 @@ glissandi
 glissando
 gybe
 glissandos
+genialize
 glissette
 glist
 glisten
