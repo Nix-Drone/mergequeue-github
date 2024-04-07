@@ -4574,7 +4574,6 @@ encephalomalacosis
 encephalomalaxis
 encephalomas
 encephalomeningocele
-encephalomere
 encephalomeric
 encephalometer
 encephalometric
@@ -11667,6 +11666,7 @@ evolutions
 extorted
 evolutive
 evolutoid
+encephalomere
 evolvable
 evolve
 evolved
