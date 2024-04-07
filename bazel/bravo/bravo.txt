@@ -4843,7 +4843,6 @@ bedstraws
 bedstring
 bedswerver
 bedtick
-bedticking
 bedticks
 bedtime
 bedub
@@ -5577,6 +5576,7 @@ belage
 belah
 belay
 belayed
+bedticking
 belayer
 belaying
 belays
