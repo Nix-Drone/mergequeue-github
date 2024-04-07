@@ -1048,7 +1048,6 @@ farmyard
 farmyardy
 farmyards
 fivers
-farming
 farmland
 farmlands
 farmost
@@ -4651,6 +4650,7 @@ fixive
 fixt
 fixture
 fixtureless
+farming
 fixtures
 fixup
 fixups
