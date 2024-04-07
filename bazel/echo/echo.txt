@@ -6835,7 +6835,6 @@ entocranial
 entocuniform
 entodermal
 entodermic
-entoderms
 entogastric
 entogenous
 entoglossal
@@ -8304,6 +8303,7 @@ einstein
 epithamia
 epitheca
 epithecal
+entoderms
 epithecia
 epithecial
 epithecicia
