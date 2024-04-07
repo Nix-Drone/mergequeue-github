@@ -4381,6 +4381,7 @@ enameling
 enamelist
 enamellar
 eau
+equiped
 enfamish
 enamelled
 enameller
@@ -8668,7 +8669,6 @@ equiparation
 equipartile
 equipartisan
 equipartition
-equiped
 equipedal
 equipede
 equipendent
