@@ -5813,7 +5813,6 @@ engraphic
 engraphically
 engrapple
 engrasp
-engraulidae
 engraulis
 engrave
 engraved
@@ -7643,6 +7642,7 @@ epicolic
 epicondylar
 epicondyle
 epicondylian
+engraulidae
 epicondylic
 epicondylitis
 epicontinental
