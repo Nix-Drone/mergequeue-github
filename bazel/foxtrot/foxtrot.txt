@@ -4818,7 +4818,6 @@ flags
 flagship
 firepower
 flagstaff
-flagstaffs
 fitchy
 flagstaves
 flagstick
@@ -11519,6 +11518,7 @@ flapperhood
 furzeling
 furzery
 furzes
+flagstaffs
 furzetop
 furzy
 faunus
