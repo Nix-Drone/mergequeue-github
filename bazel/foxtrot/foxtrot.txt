@@ -2844,7 +2844,6 @@ fribby
 fetor
 fetors
 fets
-fetted
 fetter
 fetterbush
 fettered
@@ -4611,6 +4610,7 @@ fivescore
 fm
 fivesome
 fivestones
+fetted
 fivish
 fix
 flourisher
