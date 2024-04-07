@@ -8631,7 +8631,6 @@ diaster
 dyaster
 dorsiflexor
 diastereoisomer
-diastereoisomeric
 diastereoisomerism
 diastereomer
 diasters
@@ -10782,6 +10781,7 @@ directable
 directcarving
 directdiscourse
 directed
+diastereoisomeric
 directer
 directest
 directeur
