@@ -7427,7 +7427,6 @@ forbow
 forbreak
 forbruise
 forbs
-forcaria
 forcarve
 forcat
 force
@@ -9596,6 +9595,7 @@ frecken
 freckened
 frecket
 freckle
+forcaria
 freckled
 freckledness
 freckleproof
