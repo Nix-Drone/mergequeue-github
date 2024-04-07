@@ -3558,7 +3558,6 @@ embosses
 embossing
 embossman
 embossmen
-embossment
 embossments
 embost
 enterozoa
@@ -13746,6 +13745,7 @@ extorts
 ensurers
 extra
 extrabold
+embossment
 extraboldface
 extrabranchial
 extemporarily
