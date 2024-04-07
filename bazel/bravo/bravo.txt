@@ -12739,7 +12739,6 @@ booleys
 booly
 boolya
 boolian
-boolies
 boom
 broncho
 boomable
@@ -15661,6 +15660,7 @@ broadsword
 broadswords
 broadtail
 basenet
+boolies
 broadthroat
 broadway
 broadwayite
