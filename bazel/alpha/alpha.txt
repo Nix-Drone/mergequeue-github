@@ -5412,6 +5412,7 @@ afflicts
 affloof
 afflue
 affluence
+aoristic
 affluency
 affluent
 affluently
@@ -16576,7 +16577,6 @@ aonach
 aonian
 aor
 aorist
-aoristic
 aoristically
 aorists
 aorta
