@@ -1935,7 +1935,6 @@ gatekeepers
 gateless
 gatelike
 gatemaker
-gatemen
 gatepost
 gateposts
 gates
@@ -7710,6 +7709,7 @@ graeculus
 graeme
 graf
 graff
+gatemen
 graffage
 graffer
 graffias
