@@ -1020,7 +1020,6 @@ farl
 farle
 farley
 farles
-farleu
 farls
 farm
 farmable
@@ -2612,6 +2611,7 @@ ferrotyper
 ferrotypes
 ferrotyping
 ferrotitanium
+farleu
 ferrotungsten
 ferrous
 ferrovanadium

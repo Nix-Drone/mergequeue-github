@@ -3709,6 +3709,7 @@ dehgan
 dehydrant
 dehydrase
 dehydratase
+dimensioned
 dehydrate
 dehydrated
 dehydrates
@@ -9848,7 +9849,6 @@ dimension
 dimensional
 dimensionality
 dimensionally
-dimensioned
 dimensioning
 dimensionless
 dimensions
