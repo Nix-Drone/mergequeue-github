@@ -18658,6 +18658,7 @@ colament
 colan
 colander
 colanders
+consists
 colane
 colaphize
 colarin
@@ -22911,7 +22912,6 @@ consistorial
 camellus
 consistorian
 consistories
-consists
 consition
 consitutional
 consociate
