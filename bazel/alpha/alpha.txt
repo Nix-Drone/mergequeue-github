@@ -5100,7 +5100,6 @@ aeropleustic
 aeroporotomy
 aeropulse
 aerosat
-aerosats
 aeroscepsy
 aeroscepsis
 aeroscope
@@ -20164,6 +20163,7 @@ arraignable
 arraignableness
 arraigned
 arraigner
+aerosats
 arraigning
 arraignment
 arraignments
