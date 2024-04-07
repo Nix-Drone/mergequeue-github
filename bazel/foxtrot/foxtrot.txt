@@ -3011,7 +3011,6 @@ fibbery
 fibbers
 fibbing
 fibdom
-fiber
 fiberboard
 fibered
 fiberglas
@@ -3107,6 +3106,7 @@ fibrocrystalline
 fibroelastic
 fibroenchondroma
 fibroferrite
+fiber
 fibroglioma
 fibrohemorrhagic
 farfet
