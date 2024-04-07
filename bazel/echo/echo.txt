@@ -423,7 +423,6 @@ ecca
 eccaleobion
 ecce
 eccentrate
-eccentric
 eccentrically
 eccentricity
 eccentricities
@@ -4830,6 +4829,7 @@ encorpore
 encounter
 encounterable
 encountered
+eccentric
 encounterer
 erector
 entitlement
