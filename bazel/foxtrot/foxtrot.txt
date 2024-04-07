@@ -2631,7 +2631,6 @@ ferrules
 ferruling
 ferrum
 ferruminate
-ferruminated
 ferruminating
 ferrumination
 ferrums
@@ -4960,6 +4959,7 @@ flaneur
 flaneurs
 flang
 flange
+ferruminated
 flanged
 flangeless
 flangers
