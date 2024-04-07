@@ -3866,7 +3866,6 @@ fin
 finable
 finableness
 finagle
-finagled
 finagler
 finaglers
 finagles
@@ -11379,6 +11378,7 @@ furied
 furies
 furify
 furil
+finagled
 furyl
 fervorless
 furile
