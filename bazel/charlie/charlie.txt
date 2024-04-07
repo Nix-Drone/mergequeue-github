@@ -7166,7 +7166,6 @@ centroplasm
 centropomidae
 centropomus
 centrosymmetry
-centrosymmetric
 centrosymmetrical
 centrosoyus
 centrosome
@@ -20775,6 +20774,7 @@ complimenters
 complimenting
 complimentingly
 compliments
+centrosymmetric
 complin
 compline
 complines
