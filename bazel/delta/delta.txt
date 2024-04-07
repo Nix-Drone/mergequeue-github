@@ -3752,7 +3752,6 @@ dehiscing
 dehistoricize
 dehkan
 dehnstufe
-dehonestate
 dehonestation
 dehorn
 dehorned
@@ -9661,6 +9660,7 @@ dikaryophasic
 dikaryophyte
 dikaryophytic
 dikaryotic
+dehonestate
 dikast
 dikdik
 dil
