@@ -6756,6 +6756,7 @@ foes
 foeship
 foetal
 foetalism
+frankable
 foetalization
 foetation
 foeti
@@ -9404,7 +9405,6 @@ franion
 frank
 fireguard
 frankability
-frankable
 frankalmoign
 frankalmoigne
 frankalmoin
