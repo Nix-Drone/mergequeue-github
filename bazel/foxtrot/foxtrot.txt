@@ -1038,7 +1038,6 @@ farmers
 farmership
 farmhand
 farmhands
-farmhold
 farmhouse
 farmhousey
 farmhouses
@@ -4370,6 +4369,7 @@ fragmentate
 fisherfolk
 fishery
 fisheries
+farmhold
 fisherman
 fishermen
 fisherpeople
