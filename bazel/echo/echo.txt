@@ -4508,7 +4508,6 @@ encarpi
 encarpium
 encarpus
 encarpuspi
-encase
 encased
 encasement
 encases
@@ -6086,6 +6085,7 @@ enneahedron
 enneahedrons
 enneandrian
 enneandrous
+encase
 enneapetalous
 enneaphyllous
 enneasemic
