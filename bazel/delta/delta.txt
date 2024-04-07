@@ -5197,7 +5197,6 @@ dennet
 denning
 dennis
 dennstaedtia
-denom
 denominable
 denominant
 denominate
@@ -10108,6 +10107,7 @@ dingbat
 dingbats
 dingdong
 dingdonged
+denom
 dingdonging
 dingdongs
 dinge
