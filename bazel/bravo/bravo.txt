@@ -10122,7 +10122,6 @@ blackguardry
 beseechers
 blackguards
 blackgum
-blackgums
 blackhead
 blackheads
 blackheart
@@ -18003,6 +18002,7 @@ bushings
 bushland
 bushlands
 bushless
+blackgums
 bushlet
 bushlike
 bushmaker
