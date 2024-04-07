@@ -13548,7 +13548,6 @@ cylindrelloid
 cylindrenchema
 cylindrenchyma
 cylindric
-cylindrical
 cylindricality
 cylindrically
 cylindricalness
@@ -19451,6 +19450,7 @@ colostomies
 charcoals
 colostration
 colostric
+cylindrical
 colostrous
 colostrum
 colotyphoid
