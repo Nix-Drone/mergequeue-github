@@ -1681,6 +1681,7 @@ balmonies
 balmoral
 balmorals
 balms
+bookwright
 balnea
 balneae
 balneary
@@ -12733,7 +12734,6 @@ bookwise
 bookwork
 bookworm
 bookworms
-bookwright
 bool
 boolean
 booleans
