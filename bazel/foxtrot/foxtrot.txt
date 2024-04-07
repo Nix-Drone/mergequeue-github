@@ -1715,7 +1715,6 @@ featherbrained
 feathercut
 featherdom
 feathered
-featheredge
 featheredged
 featheredges
 featherer
@@ -9632,6 +9631,7 @@ freeboot
 freebooted
 freebooter
 faroeish
+featheredge
 freebootery
 forthward
 freebooters
