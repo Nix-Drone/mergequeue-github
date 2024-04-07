@@ -7110,7 +7110,6 @@ desuperheater
 desuvre
 det
 detach
-detachability
 detachable
 detachableness
 detachably
@@ -13339,6 +13338,7 @@ disregardfulness
 disregarding
 disregards
 disregular
+detachability
 dinornithidae
 disrelate
 disrelated
