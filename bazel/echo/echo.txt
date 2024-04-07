@@ -2380,7 +2380,6 @@ electrodiplomatic
 electrodispersive
 electrodissolution
 electroed
-electroencephalogram
 electroencephalograms
 electroencephalograph
 electroencephalography
@@ -4382,6 +4381,7 @@ enamelist
 enamellar
 eau
 enfamish
+electroencephalogram
 enamelled
 enameller
 enamellers
