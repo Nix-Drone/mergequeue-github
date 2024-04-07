@@ -3842,7 +3842,6 @@ filtre
 filum
 fizzer
 fimble
-fimbria
 fimbriae
 fimbrial
 fimbriate
@@ -5967,6 +5966,7 @@ floorhead
 flooring
 floorings
 forementioned
+fimbria
 floorless
 floorman
 floormen

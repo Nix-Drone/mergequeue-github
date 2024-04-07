@@ -24931,7 +24931,6 @@ cordaitean
 cordaites
 cordal
 cordant
-cordate
 cordately
 cordax
 cordeau
@@ -29447,6 +29446,7 @@ crystallogy
 crystallogram
 crystallograph
 crystallographer
+cordate
 crystallographers
 crystallography
 crystallographic
