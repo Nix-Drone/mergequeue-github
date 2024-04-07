@@ -4105,7 +4105,6 @@ adminicle
 aarrgh
 adminicula
 adminicular
-adminiculary
 adminiculate
 adminiculation
 adminiculum
@@ -19923,6 +19922,7 @@ army
 armida
 armied
 armies
+adminiculary
 armiferous
 avidins
 armiger
