@@ -11432,7 +11432,6 @@ amvis
 amzel
 an
 ana
-anabaena
 anabaenas
 anabantid
 anabantidae
@@ -24015,6 +24014,7 @@ autodynes
 autodrainage
 autodrome
 autoecholalia
+anabaena
 autoecy
 autoecic
 autoecious
