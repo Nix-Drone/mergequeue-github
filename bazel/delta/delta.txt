@@ -1556,7 +1556,6 @@ deadwood
 deadwoods
 deadwork
 deadwort
-deaerated
 determinability
 deaerates
 deaeration
@@ -8206,6 +8205,7 @@ diagonals
 diagonalwise
 dedans
 diagonial
+deaerated
 diagonic
 diagram
 diagramed
