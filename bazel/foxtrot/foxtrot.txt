@@ -1459,6 +1459,7 @@ faultfinder
 faultfinders
 faultfinding
 faultful
+fimble
 faultfully
 faulty
 faultier
@@ -3840,7 +3841,6 @@ filtrating
 filtre
 filum
 fizzer
-fimble
 fimbria
 fimbriae
 fimbrial
