@@ -2961,7 +2961,6 @@ deducement
 deducer
 deduces
 deducibility
-deducible
 deducibly
 deducing
 deducive
@@ -12937,6 +12936,7 @@ dispendiously
 dispenditure
 dispends
 dispensability
+deducible
 dispensable
 dispensableness
 dispensary
