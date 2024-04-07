@@ -2948,6 +2948,7 @@ areometer
 acromiohumeral
 acromion
 acromioscapular
+amphibalus
 acromiosternal
 acromiothoracic
 acromyotonia
@@ -11021,7 +11022,6 @@ amphiarthrosis
 amphiaster
 amphib
 amphibali
-amphibalus
 amphibia
 amphibial
 amphibian
