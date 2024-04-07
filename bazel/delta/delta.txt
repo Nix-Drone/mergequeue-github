@@ -6450,6 +6450,7 @@ descend
 descendability
 descendable
 descendance
+discernibility
 descendant
 descendants
 descended
@@ -11294,7 +11295,6 @@ discern
 discernable
 discerned
 discerner
-discernibility
 discernible
 dumpler
 discernibleness
