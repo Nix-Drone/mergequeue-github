@@ -18845,6 +18845,7 @@ colk
 coll
 colla
 collab
+csnet
 collabent
 collaborate
 collaborated
@@ -30367,7 +30368,6 @@ csects
 csi
 csk
 csmp
-csnet
 csp
 cst
 csw
