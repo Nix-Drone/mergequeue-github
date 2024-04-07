@@ -4208,7 +4208,6 @@ empocket
 empodia
 empodium
 empoison
-empoisoned
 encaustes
 empoisonment
 empoisons
@@ -11480,6 +11479,7 @@ espece
 eventuality
 eventualities
 eventualize
+empoisoned
 eventually
 eventuate
 eventuated
