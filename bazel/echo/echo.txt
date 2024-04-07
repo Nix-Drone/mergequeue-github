@@ -171,6 +171,7 @@ earthmove
 earthmover
 earthmoving
 earthnut
+enfoul
 earthnuts
 earthpea
 earthpeas
@@ -5620,7 +5621,6 @@ enform
 enfort
 enforth
 enfortune
-enfoul
 enfoulder
 enfrai
 enframe
