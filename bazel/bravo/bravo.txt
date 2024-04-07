@@ -6441,7 +6441,6 @@ benzonitrile
 benzonitrol
 benzoperoxide
 benzophenanthrazine
-benzophenanthroline
 benzophenazine
 benzophenol
 benzophenone
@@ -7872,6 +7871,7 @@ bibliofilm
 bibliog
 bibliogenesis
 bibliognost
+benzophenanthroline
 bibliognostic
 bibliogony
 bibliograph
