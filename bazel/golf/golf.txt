@@ -2598,7 +2598,6 @@ gendarmes
 gender
 gendered
 genderer
-gendering
 genderless
 genders
 gene
@@ -2816,6 +2815,7 @@ geniculum
 genitofemoral
 grasps
 genitor
+gendering
 genitory
 genitorial
 genitors
