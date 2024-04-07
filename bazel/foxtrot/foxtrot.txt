@@ -1630,7 +1630,6 @@ fcomp
 fconv
 fconvert
 farcin
-fcp
 fcs
 fdname
 fdnames
@@ -6151,6 +6150,7 @@ furnisher
 flotsam
 flotsams
 film
+fcp
 flotsan
 flotsen
 flotson
