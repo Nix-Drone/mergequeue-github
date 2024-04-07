@@ -5272,7 +5272,6 @@ density
 densities
 densitometer
 densitometers
-densitometry
 densitometric
 densus
 dent
@@ -15699,6 +15698,7 @@ doryphoros
 doryphorus
 dorippid
 doris
+densitometry
 dorism
 dorize
 dorje
