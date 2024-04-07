@@ -807,7 +807,6 @@ fanleaf
 fanlight
 fanlights
 fanlike
-fanmaker
 fanmaking
 fanman
 fanned
@@ -5616,6 +5615,7 @@ fligged
 fligger
 fibrilations
 flight
+fanmaker
 flighted
 flighter
 flightful
