@@ -3654,7 +3654,6 @@ batman
 batmen
 batocrinidae
 batocrinus
-batoid
 batoidei
 baton
 batoneer
@@ -5115,6 +5114,7 @@ befog
 befogged
 befogging
 befogs
+batoid
 befool
 befoolable
 befooled
