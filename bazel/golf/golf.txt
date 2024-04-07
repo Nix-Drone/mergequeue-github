@@ -3631,7 +3631,6 @@ getatable
 getatableness
 getaway
 getaways
-getfd
 gether
 gethsemane
 gethsemanic
@@ -8815,6 +8814,7 @@ greyhounds
 greyiaceae
 greying
 greyish
+getfd
 greylag
 greylags
 greyling
