@@ -4747,7 +4747,6 @@ enclaves
 enclaving
 enclear
 enclisis
-enclitic
 enclitical
 enclitically
 enclitics
@@ -12107,6 +12106,7 @@ exclusions
 exclusive
 exclusively
 exclusiveness
+enclitic
 exclusivism
 exclusivist
 exclusivistic
