@@ -12422,6 +12422,7 @@ bondmen
 bondminder
 bondoc
 bondon
+brooders
 bondservant
 bondship
 bondslave
@@ -16048,7 +16049,6 @@ brooching
 brood
 brooded
 brooder
-brooders
 broody
 broodier
 broodiest
