@@ -3943,6 +3943,7 @@ delay
 delayable
 delayage
 delayed
+disrepair
 delayer
 delayers
 delayful
@@ -13333,7 +13334,6 @@ disrelation
 disrelish
 disrelishable
 disremember
-disrepair
 disreport
 disreputability
 disreputable
