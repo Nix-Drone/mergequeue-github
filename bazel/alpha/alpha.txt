@@ -7817,7 +7817,6 @@ alefs
 aleft
 alefzero
 alegar
-alegars
 aleger
 alehouse
 autostage
@@ -14304,6 +14303,7 @@ anthecology
 anthecological
 anthecologist
 antheia
+alegars
 anthela
 anthelae
 anthelia
