@@ -303,7 +303,6 @@ eatings
 eats
 entrench
 eaux
-eave
 eaved
 eavedrop
 eavedropper
@@ -2553,6 +2552,7 @@ electrophoresing
 electrophoresis
 electrophoretically
 electrophoretogram
+eave
 electrophori
 extund
 electrophoric
