@@ -1423,7 +1423,6 @@ acceleratingly
 acceleration
 accelerations
 accelerative
-acceleratory
 accelerators
 accelerograph
 accelerometer
@@ -23834,6 +23833,7 @@ authorize
 authorized
 authorizer
 authorizers
+acceleratory
 authorizes
 authorizing
 authorless
