@@ -2856,7 +2856,6 @@ genovino
 genre
 genres
 genro
-genros
 gens
 genseng
 gensengs
@@ -4545,6 +4544,7 @@ ginnle
 gynobase
 gynobaseous
 gynocardia
+genros
 gynocardic
 gynocracy
 gynocratic
