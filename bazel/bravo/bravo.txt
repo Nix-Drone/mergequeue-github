@@ -2970,7 +2970,6 @@ barricaded
 barricader
 barricaders
 barricades
-barricading
 barricado
 barricadoed
 barricadoes
@@ -5517,6 +5516,7 @@ bejewel
 bejeweled
 bejeweling
 bejewelled
+barricading
 bejewelling
 bejewels
 bejezebel
