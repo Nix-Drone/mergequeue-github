@@ -4135,6 +4135,7 @@ fire
 fireable
 firearm
 firearms
+floppier
 fireback
 favourably
 fireball
@@ -5995,7 +5996,6 @@ flopper
 flickery
 floppers
 floppy
-floppier
 floppies
 floppiest
 floppily
