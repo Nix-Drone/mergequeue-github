@@ -5619,7 +5619,6 @@ depermed
 deperming
 deperms
 depersonalise
-depersonalised
 depersonalising
 depersonalization
 depersonalized
@@ -7289,6 +7288,7 @@ detonability
 detonable
 detonatability
 detonatable
+depersonalised
 detonate
 detonated
 detonates
