@@ -3574,7 +3574,6 @@ degassing
 degauss
 degaussed
 degausser
-degausses
 degaussing
 degelatinize
 degender
@@ -6256,6 +6255,7 @@ dermatoscopy
 dermatoses
 dermatosiophobia
 detritus
+degausses
 dermatosis
 duodecane
 dermatoskeleton
