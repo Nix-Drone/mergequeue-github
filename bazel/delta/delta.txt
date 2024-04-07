@@ -5779,7 +5779,6 @@ decastich
 depopulator
 depopulators
 deport
-deportability
 deportable
 deportation
 deportations
@@ -17400,6 +17399,7 @@ droskies
 drosograph
 drosometer
 drosophila
+deportability
 drosophilae
 drosophilas
 drosophilidae
