@@ -1008,7 +1008,6 @@ darkey
 darkeys
 darken
 darkened
-darkener
 darkeners
 darkening
 darkens
@@ -16618,6 +16617,7 @@ drail
 drailed
 drailing
 drails
+darkener
 drayman
 draymen
 drainable
