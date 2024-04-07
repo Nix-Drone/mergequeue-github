@@ -5809,7 +5809,6 @@ deposers
 deposes
 deposing
 deposit
-deposita
 depositary
 depositaries
 depositation
@@ -11676,6 +11675,7 @@ discourages
 discouragingly
 darren
 discourse
+deposita
 discoursed
 discourseless
 discourser
