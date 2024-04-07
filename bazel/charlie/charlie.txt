@@ -18931,6 +18931,7 @@ collect
 collectability
 collectable
 collectables
+cubica
 collectanea
 collectarium
 collected
@@ -30470,7 +30471,6 @@ cubes
 cubhood
 cubi
 cubic
-cubica
 cubical
 cubically
 cubicalness
