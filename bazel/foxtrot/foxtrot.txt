@@ -6214,7 +6214,6 @@ flowerbed
 flowerers
 floweret
 flowerets
-flowerfence
 flowerfly
 flowerful
 flowery
@@ -10420,6 +10419,7 @@ frontierlike
 fictor
 forgivableness
 fiddley
+flowerfence
 frontierman
 foresaid
 fankle
