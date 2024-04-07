@@ -1915,7 +1915,6 @@ feebling
 feeblish
 feedable
 feedback
-feedbacks
 feedbag
 feedbags
 feedbin
@@ -3955,6 +3954,7 @@ finesse
 finessed
 finesser
 finesses
+feedbacks
 finessing
 finest
 finestill
