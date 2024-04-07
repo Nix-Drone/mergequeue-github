@@ -8621,6 +8621,7 @@ allelism
 allelisms
 allelocatalytic
 allelomorphic
+allomorph
 allelomorphism
 allelopathy
 allelotropy
@@ -8862,7 +8863,6 @@ allomerizing
 allomerous
 averager
 allometry
-allomorph
 allomorphic
 allomorphism
 allomorphite
