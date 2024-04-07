@@ -1887,7 +1887,6 @@ gastrostomy
 gastrostomies
 gastrostomize
 gastrostomus
-gastrosuccorrhea
 gastrotaxis
 gastrotheca
 gastrothecal
@@ -4131,6 +4130,7 @@ gileno
 giles
 gilet
 gilgai
+gastrosuccorrhea
 gilgames
 gilgamesh
 gilgie
