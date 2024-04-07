@@ -3105,7 +3105,6 @@ fibrocrystalline
 fibroelastic
 fibroenchondroma
 fibroferrite
-fibroglia
 fibroglioma
 fibrohemorrhagic
 farfet
@@ -6595,6 +6594,7 @@ flutelike
 flutemouth
 fluter
 fluters
+fibroglia
 foolisher
 flutes
 fluther
