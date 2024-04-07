@@ -2221,7 +2221,6 @@ gearcases
 geared
 gearing
 gearings
-gearless
 gearman
 gears
 gasterotricha
@@ -10490,6 +10489,7 @@ gunfire
 gunfires
 gunflint
 gunfought
+gearless
 gung
 gunge
 gunhouse
