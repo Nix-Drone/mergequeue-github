@@ -1875,7 +1875,6 @@ bandana
 bandanaed
 bandanna
 bandannaed
-bandannas
 bandar
 bandarlog
 bandbox
@@ -6675,6 +6674,7 @@ bergmannite
 bergomask
 bergs
 bergschrund
+bandannas
 bergsonian
 bergsonism
 bergut
