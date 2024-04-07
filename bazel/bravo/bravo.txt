@@ -2646,7 +2646,6 @@ baritones
 barytones
 barytons
 barytophyllite
-barytosulphate
 barium
 bariums
 barkan
@@ -11432,6 +11431,7 @@ blunderers
 blunderful
 blunderhead
 blunderheaded
+barytosulphate
 blunderheadedness
 blundering
 blunderingly
