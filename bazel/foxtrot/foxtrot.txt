@@ -6534,7 +6534,6 @@ fluors
 fluorspar
 fluosilicate
 fluosilicic
-fluotantalate
 fluotantalic
 fluotitanic
 fluozirconic
@@ -8907,6 +8906,7 @@ fistulize
 fostership
 fostress
 fot
+fluotantalate
 fotch
 fotched
 fother

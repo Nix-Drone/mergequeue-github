@@ -3949,7 +3949,6 @@ bdelloura
 bdellouridae
 bhutia
 bdellovibrio
-bdft
 bdl
 bdle
 bdls
@@ -15509,6 +15508,7 @@ brisked
 brisken
 briskened
 burghemot
+bdft
 briskening
 brisker
 briskest
