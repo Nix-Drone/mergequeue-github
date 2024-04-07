@@ -5652,7 +5652,6 @@ beleper
 beletter
 beleve
 belfast
-belfry
 belfried
 buna
 belfries
@@ -13019,6 +13018,7 @@ borele
 betrample
 borers
 bores
+belfry
 boresight
 boresome
 boresomely
