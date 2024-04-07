@@ -3921,6 +3921,7 @@ emim
 eminence
 eminences
 eminency
+extraboldface
 eminencies
 eminent
 eminently
@@ -13749,7 +13750,6 @@ extorts
 ensurers
 extra
 extrabold
-extraboldface
 extrabranchial
 extemporarily
 extrabronchial
