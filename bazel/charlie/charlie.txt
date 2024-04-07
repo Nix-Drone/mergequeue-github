@@ -16990,7 +16990,6 @@ coachability
 coachbuilder
 coachbuilding
 coached
-coachee
 coacher
 coachers
 coaches
@@ -19157,6 +19156,7 @@ colloque
 colloquy
 colloquia
 colloquial
+coachee
 colloquialism
 colloquialisms
 colloquialist
