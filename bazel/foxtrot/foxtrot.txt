@@ -5487,7 +5487,6 @@ flet
 fleta
 fletch
 fletched
-fletcher
 fletcherism
 fletcherite
 fletcherize
@@ -10695,6 +10694,7 @@ fruits
 fie
 fruitstalk
 fruittime
+fletcher
 fruitwoman
 fruitwomen
 fruitwood
