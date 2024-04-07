@@ -14672,7 +14672,6 @@ cystofibroma
 cystoflagellata
 cystoflagellate
 cystogenesis
-cystogenous
 cystogram
 cystoid
 cystoidea
@@ -27132,6 +27131,7 @@ counterstamp
 counterstand
 counterstatant
 counterstatement
+cystogenous
 counterstatute
 counterstep
 counterstimulate
