@@ -6090,6 +6090,7 @@ benchlet
 benchman
 benchmar
 benchmark
+burnout
 benchmarked
 benchmarking
 benchmarks
@@ -17808,7 +17809,6 @@ burnooses
 burnous
 burnoused
 burnouses
-burnout
 burnouts
 burnover
 burns
