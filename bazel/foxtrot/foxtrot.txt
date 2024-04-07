@@ -1341,6 +1341,7 @@ fathers
 fathership
 fathmur
 fathogram
+forswore
 fathom
 fathomable
 fathomableness
@@ -8659,7 +8660,6 @@ forswearer
 forswearing
 fields
 forswears
-forswore
 forswornness
 fort
 fortake
