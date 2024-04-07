@@ -2845,7 +2845,6 @@ genome
 genomic
 genoms
 genonema
-genophobia
 gph
 genos
 genospecies
@@ -8933,6 +8932,7 @@ griefless
 grieflessness
 griefs
 griege
+genophobia
 grivoise
 grieko
 grieshoch
