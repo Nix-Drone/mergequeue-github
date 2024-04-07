@@ -4293,7 +4293,6 @@ emulatory
 emulators
 emulatress
 emule
-emulge
 emulgence
 emulgens
 emulgent
@@ -14072,6 +14071,7 @@ extrications
 extrinsic
 extrinsical
 extrinsicality
+emulge
 extendedness
 extrinsically
 extrinsicalness
