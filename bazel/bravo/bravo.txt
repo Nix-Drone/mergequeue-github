@@ -3741,7 +3741,6 @@ battledore
 battledores
 baldly
 battledoring
-battlefield
 battlefields
 battlefront
 battlefronts
@@ -14754,6 +14753,7 @@ bookless
 breadbasket
 breadbaskets
 breadberry
+battlefield
 breadboard
 breadboards
 breadbox
