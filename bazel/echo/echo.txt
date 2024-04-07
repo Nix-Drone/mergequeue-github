@@ -1720,6 +1720,7 @@ eyebridled
 eyebright
 eyebrow
 eyebrows
+electronegative
 eyecup
 eyecups
 experimently
@@ -2508,7 +2509,6 @@ electromotor
 electromuscular
 electron
 electronarcosis
-electronegative
 electronegativity
 electronervous
 electroneutral
