@@ -3263,7 +3263,6 @@ deferrable
 deferral
 deferrals
 deferred
-deferrer
 deferrers
 deferring
 deferrization
@@ -14169,6 +14168,7 @@ dittied
 ditties
 dittying
 disadvantages
+deferrer
 ditting
 ditto
 dittoed
