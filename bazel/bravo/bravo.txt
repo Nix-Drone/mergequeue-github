@@ -8693,7 +8693,6 @@ bilobular
 bilocation
 bilocellate
 bilocular
-biloculate
 biloculina
 biloculine
 bilophodont
@@ -15203,6 +15202,7 @@ bridebed
 bridebowl
 bridecake
 bridechamber
+biloculate
 bridecup
 bridegod
 bridegroom
