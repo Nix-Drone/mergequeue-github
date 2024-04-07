@@ -3928,6 +3928,7 @@ gibus
 gibuses
 gid
 giddap
+gyrostatic
 giddy
 giddyberry
 giddybrain
@@ -4834,7 +4835,6 @@ gyrostabilized
 gyrostabilizer
 gyrostachys
 gyrostat
-gyrostatic
 gyrostatically
 gyrostats
 gastroplenic
