@@ -1166,7 +1166,6 @@ dasypygal
 dasypod
 dasypodidae
 dasypodoid
-dasyprocta
 dasyproctidae
 dasyproctine
 dasypus
@@ -16470,6 +16469,7 @@ drachmas
 drachms
 dracin
 deliber
+dasyprocta
 dracma
 draco
 dracocephalum
