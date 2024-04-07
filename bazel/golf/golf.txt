@@ -2420,7 +2420,6 @@ gelder
 gelders
 geldesprung
 gelding
-geldings
 gelds
 gelechia
 gelechiid
@@ -5941,6 +5940,7 @@ glossophaga
 glossophagine
 glossopharyngeal
 glossopharyngeus
+geldings
 glossophytia
 glossophobia
 glossophora
