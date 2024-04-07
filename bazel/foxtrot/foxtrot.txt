@@ -3719,6 +3719,7 @@ fillemot
 frownless
 filler
 fillercap
+fractionator
 fillers
 filles
 fillet
@@ -11589,7 +11590,6 @@ fusinist
 floodometer
 fusinite
 fusion
-fractionator
 fusional
 fusionism
 fusionist
