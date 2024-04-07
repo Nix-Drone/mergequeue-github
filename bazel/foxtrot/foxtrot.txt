@@ -264,6 +264,7 @@ fadeout
 fader
 faders
 fadge
+fellowless
 fadged
 fadges
 fadging
@@ -2114,7 +2115,6 @@ fellowcraft
 fellowess
 fellowheirship
 fellowing
-fellowless
 fellowly
 fellowman
 fellowmen
