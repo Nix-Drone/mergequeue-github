@@ -1679,7 +1679,6 @@ feased
 feases
 feasibility
 feasibilities
-feasible
 flopping
 feasibleness
 feasibly
@@ -10333,6 +10332,7 @@ frogs
 frogskin
 frogskins
 frogspawn
+feasible
 frogtongue
 frogwort
 frohlich
