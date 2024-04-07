@@ -5492,7 +5492,6 @@ glycohemia
 glycol
 glycolaldehyde
 glycolate
-glycolic
 glycolide
 glycolyl
 glycolylurea
@@ -6326,6 +6325,7 @@ gnetales
 gnetum
 gnetums
 gneu
+glycolic
 gnide
 gnocchetti
 gnocchi
