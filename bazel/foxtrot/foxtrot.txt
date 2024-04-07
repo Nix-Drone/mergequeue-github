@@ -3139,7 +3139,6 @@ fibromyoma
 fibromyomectomy
 fibromyositis
 fibromyotomy
-fibromyxoma
 fibromyxosarcoma
 fibromucous
 fibromuscular
@@ -10102,6 +10101,7 @@ frillers
 frilly
 frillier
 frilliest
+fibromyxoma
 frillily
 frilliness
 frilling
