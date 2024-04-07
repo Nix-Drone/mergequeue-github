@@ -6875,7 +6875,6 @@ fol
 folacin
 folacins
 folate
-folates
 folcgemot
 fold
 foldable
@@ -7247,6 +7246,7 @@ footmark
 footmarks
 footmen
 footmenfootpad
+folates
 footnote
 footnoted
 footnotes
