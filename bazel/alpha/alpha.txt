@@ -290,7 +290,6 @@ abduction
 abductions
 abductor
 abductores
-abductors
 abducts
 abe
 abeam
@@ -4989,6 +4988,7 @@ aerogene
 aerogenes
 aerogenesis
 aerogenic
+abductors
 aerogenically
 aerogenous
 aerogeography
