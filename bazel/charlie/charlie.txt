@@ -6119,7 +6119,6 @@ caulicle
 caulicles
 caulicole
 caulicolous
-caulicule
 cauliculi
 cauliculus
 cauliferous
@@ -29858,6 +29857,7 @@ crosshauling
 crosshead
 crossing
 crossings
+caulicule
 crossite
 crossjack
 crosslap
