@@ -7913,7 +7913,6 @@ epilogical
 epilogism
 epilogist
 epilogistic
-epilogize
 epilogized
 epilogizing
 epilogue
@@ -8688,6 +8687,7 @@ equipollent
 equipollently
 euphemizing
 equipollentness
+epilogize
 equiponderance
 equiponderancy
 equiponderant
