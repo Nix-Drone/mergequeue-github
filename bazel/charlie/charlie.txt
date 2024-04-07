@@ -7330,7 +7330,6 @@ cephalothoracic
 cephalothoracopagus
 cephalothorax
 cephalothoraxes
-cephalotome
 cephalotomy
 contrate
 cephalotractor
@@ -21086,6 +21085,7 @@ conarial
 conarium
 conation
 conational
+cephalotome
 conationalistic
 conations
 conative
