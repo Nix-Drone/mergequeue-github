@@ -3128,7 +3128,6 @@ fibromatous
 fibromembrane
 fibromembranous
 fibromyectomy
-fibromyitis
 fibromyoma
 fibromyomectomy
 fibromyositis
@@ -8085,6 +8084,7 @@ foresters
 forestership
 forestful
 foresty
+fibromyitis
 forestial
 forestian
 forestick
