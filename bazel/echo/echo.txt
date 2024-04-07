@@ -3498,7 +3498,6 @@ emboitement
 emboites
 embolden
 emboldener
-emboldening
 equilibrize
 emboldens
 embole
@@ -11441,6 +11440,7 @@ evenfalls
 errands
 evenforth
 evenglome
+emboldening
 evenglow
 ethnarch
 evenhand
