@@ -5274,7 +5274,6 @@ endorse
 endorsed
 endorsee
 endorsees
-endorsements
 endere
 endorser
 endorsers
@@ -13559,6 +13558,7 @@ extensionist
 extensionless
 extensions
 extensity
+endorsements
 extensive
 extensively
 extensiveness
