@@ -5396,7 +5396,6 @@ affixt
 affixture
 afflate
 afflated
-afflation
 afflatus
 afflatuses
 afflict
@@ -8915,6 +8914,7 @@ alloplast
 alloplasty
 alloplastic
 alloploidy
+afflation
 allopolyploid
 allopolyploidy
 allopsychic
