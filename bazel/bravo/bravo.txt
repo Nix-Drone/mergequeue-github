@@ -8235,7 +8235,6 @@ biethnic
 bietle
 byeworker
 byeworkman
-biface
 bifaces
 bifacial
 bifara
@@ -16664,6 +16663,7 @@ buckstall
 buckstone
 bucktail
 bucktails
+biface
 buckteeth
 buckthorn
 bucktooth
