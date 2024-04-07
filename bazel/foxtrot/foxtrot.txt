@@ -1302,6 +1302,7 @@ fatalness
 fatals
 flap
 fatback
+fluffed
 fatbacks
 fatbird
 fatbirds
@@ -2995,7 +2996,6 @@ fianchetto
 fiancing
 fianna
 fiant
-fluffed
 fiants
 fiar
 fiaroblast
