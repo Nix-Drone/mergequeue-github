@@ -4948,7 +4948,6 @@ demot
 demote
 demoted
 demotes
-demothball
 demotic
 demoting
 demotion
@@ -11048,6 +11047,7 @@ disapostle
 disapparel
 daisycutter
 disappear
+demothball
 disappearance
 decrepitly
 disappearances
