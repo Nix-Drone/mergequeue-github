@@ -1635,7 +1635,6 @@ fcs
 fdname
 fdnames
 fdtype
-fdub
 fdubs
 fe
 feaberry
@@ -4604,6 +4603,7 @@ feted
 five
 fivebar
 fivefold
+fdub
 figment
 fiveling
 fivepence
