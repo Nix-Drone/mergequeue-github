@@ -3930,7 +3930,6 @@ finebent
 finecomb
 flatbread
 fined
-finedraw
 finedrawing
 fineer
 fineish
@@ -7191,6 +7190,7 @@ footbridge
 footcandle
 footcandles
 footcloths
+finedraw
 footed
 footeite
 footer

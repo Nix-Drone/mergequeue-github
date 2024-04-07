@@ -1705,7 +1705,6 @@ deathly
 deathlike
 deathlikeness
 deathliness
-deathling
 deathrate
 deathrates
 deathroot
@@ -12158,6 +12157,7 @@ disgig
 disglory
 disglorify
 disglut
+deathling
 dysgnosia
 dysgonic
 disgood
