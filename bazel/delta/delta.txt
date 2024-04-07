@@ -1798,6 +1798,7 @@ debeak
 debeaker
 debeige
 debel
+dieresis
 debell
 debellate
 debellation
@@ -9217,7 +9218,6 @@ dier
 damoiselle
 dyer
 diereses
-dieresis
 dieretic
 dieri
 diervilla
