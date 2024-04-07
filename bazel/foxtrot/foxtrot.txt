@@ -1373,7 +1373,6 @@ fatigue
 fatigued
 formicina
 fatigueless
-fatigues
 fatiguesome
 fatiguing
 fatiguingly
@@ -11614,6 +11613,7 @@ fussification
 fussily
 fussiness
 fussing
+fatigues
 fussle
 fussock
 fusspot
