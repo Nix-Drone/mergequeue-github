@@ -5748,7 +5748,6 @@ depolarized
 depolarizer
 depolarizers
 depolarizes
-depolarizing
 depolymerization
 depolymerize
 depolymerized
@@ -17866,6 +17865,7 @@ duellize
 duello
 duellos
 duels
+depolarizing
 duenas
 duende
 dueness
