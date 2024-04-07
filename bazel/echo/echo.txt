@@ -599,7 +599,6 @@ encrustment
 echoers
 echoes
 echogram
-echograph
 echoic
 echoing
 echoingly
@@ -3163,6 +3162,7 @@ enterophthisis
 eluants
 eluate
 eluated
+echograph
 eluating
 elucid
 elucidate
