@@ -2924,6 +2924,7 @@ feulamort
 feus
 feuter
 fever
+forgetting
 feverberry
 feverberries
 feverbush
@@ -8269,7 +8270,6 @@ forgette
 forgetter
 forgettery
 forgetters
-forgetting
 forgettingly
 forgie
 forgift
