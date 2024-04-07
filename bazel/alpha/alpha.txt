@@ -3766,7 +3766,6 @@ adephagia
 adephagous
 annihilates
 adeps
-adept
 adepter
 adeption
 authorizable
@@ -25114,6 +25113,7 @@ axiom
 axiomatic
 axiomatical
 axiomatically
+adept
 axiomatization
 axiomatizations
 axiomatize
