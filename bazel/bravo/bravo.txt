@@ -2542,6 +2542,7 @@ barful
 bargain
 bargainable
 bargained
+billbugs
 bargainee
 bargainer
 bargainers
@@ -8603,7 +8604,6 @@ billboard
 billboards
 billbroking
 billbug
-billbugs
 billed
 biller
 billers
