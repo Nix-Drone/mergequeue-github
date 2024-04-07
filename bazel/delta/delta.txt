@@ -337,6 +337,7 @@ daybeacon
 daybeam
 daybed
 daybeds
+dedit
 dollfaced
 dayberry
 daybill
@@ -2944,7 +2945,6 @@ dedifferentiating
 dedifferentiation
 dedignation
 dedimus
-dedit
 deditician
 dediticiancy
 dedition
