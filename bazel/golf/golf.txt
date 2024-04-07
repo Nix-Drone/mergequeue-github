@@ -3646,6 +3646,7 @@ getspa
 getspace
 getsul
 gnawingly
+guepard
 guidons
 gettableness
 getter
@@ -10038,7 +10039,6 @@ guemul
 guenepe
 guenon
 guenons
-guepard
 gueparde
 guerdon
 guerdonable
