@@ -24085,6 +24085,7 @@ autogravure
 autoharp
 autoheader
 autohemic
+axone
 autohemolysin
 autohemolysis
 autohemolytic
@@ -25158,7 +25159,6 @@ axometry
 axometric
 axon
 axonal
-axone
 aurantiaceous
 axonemal
 axoneme
