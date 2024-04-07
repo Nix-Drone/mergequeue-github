@@ -2597,7 +2597,6 @@ ferromanganese
 ferrometer
 ferromolybdenum
 feminised
-foreboot
 ferronatrite
 ferronickel
 ferrophosphorus
@@ -8999,6 +8998,7 @@ four
 fourb
 fourbagger
 fourball
+foreboot
 fourberie
 fourble
 fourche
