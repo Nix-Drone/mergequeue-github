@@ -4967,7 +4967,6 @@ enddamaging
 ende
 endear
 endearance
-endeared
 endearedly
 endearedness
 endearing
@@ -11095,6 +11094,7 @@ euryalidan
 euryalus
 eurybathic
 eurybenthic
+endeared
 eurycephalic
 embog
 eurycephalous
