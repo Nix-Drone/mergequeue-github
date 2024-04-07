@@ -5970,6 +5970,7 @@ floorless
 floorman
 floormen
 floors
+folkways
 floorshift
 floorshifts
 floorshow
@@ -6995,7 +6996,6 @@ folktale
 folktales
 folkvang
 folkvangr
-folkways
 foll
 foller
 folles
