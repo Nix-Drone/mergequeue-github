@@ -3577,6 +3577,7 @@ addressees
 addresser
 addressers
 addresses
+auxetics
 addressful
 addressing
 addressograph
@@ -24498,7 +24499,6 @@ auxeses
 auxesis
 auxetic
 auxetically
-auxetics
 auxil
 antacids
 auxiliar
