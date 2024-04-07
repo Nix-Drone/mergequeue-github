@@ -1109,6 +1109,7 @@ edit
 editable
 edital
 editchar
+enumerative
 edited
 edith
 editing
@@ -7091,7 +7092,6 @@ enumerates
 enumerating
 enumeration
 enumerations
-enumerative
 enumerator
 enumerators
 enunciability
