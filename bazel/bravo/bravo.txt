@@ -10405,7 +10405,6 @@ blaster
 blasters
 blastful
 blasthole
-blasty
 blastid
 blastide
 blastie
@@ -16788,6 +16787,7 @@ buffability
 buffable
 buffalo
 buffaloback
+blasty
 buffaloes
 buffalofish
 buffalofishes
