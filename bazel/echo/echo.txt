@@ -2640,7 +2640,6 @@ electrotellurograph
 electrotest
 electrothanasia
 electrothanatosis
-electrotherapeutic
 electrotherapeutical
 electrotherapeutist
 edaphodont
@@ -10423,6 +10422,7 @@ ethnocentric
 ethnocentricity
 execratory
 ethnocentrism
+electrotherapeutic
 ethnocracy
 ethnodicy
 ethnoflora
