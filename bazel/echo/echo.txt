@@ -2097,6 +2097,7 @@ elasmobranchii
 elasmosaurus
 elasmothere
 elasmotherium
+epigrammatist
 elastance
 elastase
 elastases
@@ -7837,7 +7838,6 @@ epigrammatise
 epigrammatised
 epigrammatising
 epigrammatism
-epigrammatist
 epigrammatize
 epigrammatized
 epigrammatizer
