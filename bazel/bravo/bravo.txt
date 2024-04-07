@@ -1890,7 +1890,6 @@ bandeng
 bander
 banderilla
 banderillas
-banderillero
 banderilleros
 banderlog
 banderma
@@ -14268,6 +14267,7 @@ brahmin
 brahminee
 brahminic
 brahminism
+banderillero
 brahminist
 brahminists
 brahmoism
