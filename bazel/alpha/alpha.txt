@@ -4670,7 +4670,6 @@ adviceful
 advices
 advisability
 advisable
-advisableness
 advisably
 advisal
 advise
@@ -14129,6 +14128,7 @@ antefixes
 anaesthyl
 anteflected
 anteflexed
+advisableness
 anteflexion
 antefurca
 antefurcae
