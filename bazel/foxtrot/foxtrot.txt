@@ -4419,7 +4419,6 @@ fishmouth
 fishnet
 fishnets
 fishplate
-fishpole
 fishpoles
 fishponds
 fishpotter
@@ -5119,6 +5118,7 @@ flathead
 flatheads
 flatiron
 flatirons
+fishpole
 flative
 flatland
 fistulatous
