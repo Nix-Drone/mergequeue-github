@@ -2431,7 +2431,6 @@ fermentable
 fermental
 fermentarian
 ferrocyanic
-fermentate
 fermentation
 fermentative
 fermentatively
@@ -5839,6 +5838,7 @@ floatiest
 floatiness
 floating
 floatingly
+fermentate
 floative
 floatless
 floatmaker
