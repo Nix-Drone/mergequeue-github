@@ -2926,7 +2926,6 @@ caoutchoucin
 cap
 capa
 capability
-capabilities
 capable
 capableness
 capabler
@@ -11876,6 +11875,7 @@ chordeiles
 chording
 chorditis
 chordoid
+capabilities
 chordomesoderm
 chordophone
 chordotomy
