@@ -3942,7 +3942,6 @@ emissory
 emittance
 emitted
 emittent
-emitter
 emitting
 emlen
 emm
@@ -13264,6 +13263,7 @@ exponentiation
 exponention
 exponents
 exponible
+emitter
 export
 exportability
 exportable
