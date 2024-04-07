@@ -21598,7 +21598,6 @@ assate
 assation
 assaugement
 assault
-assaultable
 assaulted
 assaulter
 assaulters
@@ -22785,6 +22784,7 @@ atonia
 atonic
 atonicity
 atonics
+assaultable
 atonies
 atoning
 atoningly
