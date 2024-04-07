@@ -3625,7 +3625,6 @@ getable
 getae
 getah
 getas
-getatability
 getatable
 giansar
 getatableness
@@ -6647,6 +6646,7 @@ guardlike
 goldest
 goldfield
 goldfielder
+getatability
 goldfields
 goldfinch
 goldfinches
