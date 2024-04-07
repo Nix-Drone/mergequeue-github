@@ -1687,7 +1687,6 @@ deassimilation
 deathbed
 deathbeds
 deathblow
-deathblows
 deathcup
 deathcups
 deathday
@@ -6673,6 +6672,7 @@ desilver
 desilvered
 desilvering
 desilverization
+deathblows
 desilverized
 desilverizer
 desilverizing
