@@ -4583,7 +4583,6 @@ enwiden
 encephalopsychesis
 encephalorrhagia
 encephalos
-encephalosclerosis
 encephaloscope
 encephaloscopy
 encephalosepsis
@@ -8675,6 +8674,7 @@ equipartile
 equipartisan
 equipartition
 equipedal
+encephalosclerosis
 equipede
 equipendent
 equiperiodic
