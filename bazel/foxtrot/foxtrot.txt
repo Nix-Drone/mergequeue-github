@@ -4132,6 +4132,7 @@ fyrd
 fyrdung
 faldistory
 fire
+foreignly
 fireable
 firearm
 firearms
@@ -7759,7 +7760,6 @@ foreigners
 foreignership
 foreignism
 foreignize
-foreignly
 foreignness
 foreigns
 foreimagination
