@@ -22104,7 +22104,6 @@ astigmatometer
 astigmatometry
 astigmatoscope
 astigmatoscopy
-astigmatoscopies
 astigmia
 astigmias
 astigmic
@@ -25363,6 +25362,7 @@ autopsychorhythmia
 azox
 azoxazole
 azoxy
+astigmatoscopies
 azoxyanisole
 azoxybenzene
 azoxybenzoic
