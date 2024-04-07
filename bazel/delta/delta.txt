@@ -1575,7 +1575,6 @@ deair
 deaired
 deairing
 deairs
-deal
 dealable
 dealate
 dealates
@@ -5058,6 +5057,7 @@ dendrite
 dendrites
 dendritic
 dendritical
+deal
 dendritiform
 dendrium
 dendrobates
