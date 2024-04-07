@@ -9086,7 +9086,6 @@ bionomies
 biont
 biontic
 bionts
-biophagy
 biophagism
 biophagous
 biophilous
@@ -10589,6 +10588,7 @@ bleareye
 bleareyed
 belt
 bleary
+biophagy
 blearyeyedness
 blearier
 bleariest
