@@ -5666,7 +5666,6 @@ afterharm
 afterhatch
 afterheat
 afterhelp
-afterhend
 afterhold
 afterhope
 afterhours
@@ -20455,6 +20454,7 @@ anchoretical
 autoptical
 arter
 artery
+afterhend
 arteria
 arteriac
 arteriae
