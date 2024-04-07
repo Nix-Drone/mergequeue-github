@@ -7554,6 +7554,7 @@ foreboom
 forebooms
 forebowels
 forebowline
+foretopsail
 forebows
 forebrace
 forebrain
@@ -8152,7 +8153,6 @@ foretopman
 foretopmast
 foretopmen
 foretops
-foretopsail
 foretrace
 foretriangle
 foretrysail
