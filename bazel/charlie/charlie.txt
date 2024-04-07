@@ -20608,7 +20608,6 @@ compilatory
 compileable
 compiled
 compilement
-compiler
 compilers
 compiles
 compiling
@@ -28180,6 +28179,7 @@ crannia
 crannied
 crannies
 crannying
+compiler
 crannock
 crannog
 crannoge
