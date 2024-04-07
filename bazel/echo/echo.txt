@@ -2399,7 +2399,6 @@ electrofused
 electrofusion
 electrogalvanic
 electrogalvanization
-electrogalvanize
 electrogasdynamics
 endosternite
 electrogenesis
@@ -9492,6 +9491,7 @@ eodiscid
 escarps
 escars
 escarteled
+electrogalvanize
 escartelly
 eschalot
 electrostatically
