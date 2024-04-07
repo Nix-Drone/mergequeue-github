@@ -1884,7 +1884,6 @@ bandarlog
 bandbox
 bandboxes
 bandboxy
-bandboxical
 bandcase
 bandcutter
 bande
@@ -13390,6 +13389,7 @@ botticellian
 bottier
 bottle
 bottlebird
+bandboxical
 bottlebrush
 bottled
 bottleflower
