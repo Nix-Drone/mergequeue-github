@@ -7564,6 +7564,7 @@ gozzan
 gozzard
 gp
 gpad
+groupoids
 gapes
 gpcd
 gpd
@@ -9498,7 +9499,6 @@ groupist
 grouplet
 groupment
 groupoid
-groupoids
 groups
 groupthink
 groupwise
