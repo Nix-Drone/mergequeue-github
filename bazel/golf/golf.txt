@@ -3633,6 +3633,7 @@ getaway
 getaways
 getfd
 gether
+gonotocont
 gethsemane
 gethsemanic
 getic
@@ -6970,7 +6971,6 @@ gymsia
 gonothecal
 gonotyl
 gonotype
-gonotocont
 gonotokont
 gonotome
 gonozooid
