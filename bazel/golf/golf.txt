@@ -1492,7 +1492,6 @@ garrisons
 garrnishable
 garron
 garrons
-garroo
 garrooka
 garrot
 garrote
@@ -7744,6 +7743,7 @@ grayback
 graybacks
 graybeard
 gadding
+garroo
 graybearded
 graybeards
 graycoat
