@@ -5955,6 +5955,7 @@ bemangle
 bemantle
 bemar
 bemartyr
+billholder
 bemas
 bemask
 bemaster
@@ -8625,7 +8626,6 @@ billfolds
 billhead
 billheading
 billheads
-billholder
 billhook
 billhooks
 baptisteries
