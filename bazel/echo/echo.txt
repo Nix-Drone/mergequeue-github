@@ -842,7 +842,6 @@ ectodermal
 ectodermosis
 ectoentad
 ectoenzym
-ectoenzyme
 ectoethmoid
 ectogeneous
 eddic
@@ -6428,6 +6427,7 @@ ensnarled
 ensnarling
 ensnarls
 ensnow
+ectoenzyme
 ensober
 ensophic
 ensorcel
