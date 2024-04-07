@@ -4659,7 +4659,6 @@ fixtures
 fixup
 fixups
 fixure
-fixures
 fiz
 fizelyite
 fizgig
@@ -11549,6 +11548,7 @@ fused
 fusee
 fusees
 fusel
+fixures
 fuselage
 fuselages
 fuseless
