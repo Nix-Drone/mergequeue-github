@@ -3898,7 +3898,6 @@ emigated
 emigates
 emigating
 ethid
-emigr
 emigrant
 eavesdrip
 emigrants
@@ -8643,6 +8642,7 @@ equilibriums
 equilin
 equiliria
 equilobate
+emigr
 equilobed
 equilocation
 equilucent
