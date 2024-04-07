@@ -290,7 +290,6 @@ eatche
 eaten
 eater
 eatery
-embedding
 eateries
 espousers
 eaters
@@ -13051,6 +13050,7 @@ experiencible
 experiencing
 experient
 experiential
+embedding
 experientialism
 experientialistic
 experientially
