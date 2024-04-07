@@ -6506,6 +6506,7 @@ bepatched
 bepaw
 bepearl
 bepelt
+bosporan
 bepen
 bepepper
 beperiwigged
@@ -13188,7 +13189,6 @@ bosoms
 boson
 bosonic
 bosons
-bosporan
 bosporanic
 bosporian
 bosporus
