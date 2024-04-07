@@ -11445,6 +11445,7 @@ discolorations
 discolored
 discoloredness
 discoloring
+doest
 discolorization
 discolorment
 discolors
@@ -14849,7 +14850,6 @@ doeskin
 doeskins
 doesn
 doesnt
-doest
 doeth
 doeuvre
 doff
