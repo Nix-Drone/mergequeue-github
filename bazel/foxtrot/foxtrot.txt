@@ -1695,7 +1695,6 @@ feasters
 feastful
 feastfully
 feasting
-feastless
 feastly
 feastraw
 feasts
@@ -4727,6 +4726,7 @@ flacon
 fibrovasal
 foundry
 flacons
+feastless
 flacourtiaceae
 flacourtiaceous
 flaff
