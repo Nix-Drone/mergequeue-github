@@ -14523,6 +14523,7 @@ cirsocele
 cirsoid
 cirsomphalos
 cirsophthalmia
+completable
 cirsotome
 cirsotomy
 cirsotomies
@@ -20669,7 +20670,6 @@ complementers
 complementing
 complementizer
 complementoid
-completable
 complete
 completed
 completely
