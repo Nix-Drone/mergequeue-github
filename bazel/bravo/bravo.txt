@@ -705,7 +705,6 @@ bacteriostatic
 bacteriostatically
 bacteriotherapeutic
 bacteriotherapy
-bacteriotoxic
 bacteriotoxin
 bacteriotrypsin
 bacteriotropic
@@ -5798,6 +5797,7 @@ bellyfulls
 bellyfuls
 belligerence
 belligerency
+bacteriotoxic
 belligerencies
 belligerent
 belligerently
