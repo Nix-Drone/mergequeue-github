@@ -1226,7 +1226,6 @@ gantries
 gantryman
 gantsl
 ganza
-ganzie
 gaol
 gaolage
 gaolbird
@@ -3162,6 +3161,7 @@ geomoroi
 geomorphy
 geomorphic
 geomorphist
+ganzie
 geomorphogenic
 geomorphogenist
 geomorphology
