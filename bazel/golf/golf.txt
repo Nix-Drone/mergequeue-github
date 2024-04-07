@@ -6069,7 +6069,6 @@ glucolipid
 glucolipide
 geodist
 glucolipin
-glucolipine
 glaizie
 ghetti
 gadger
@@ -7525,6 +7524,7 @@ governor
 governorate
 governors
 governorship
+glucolipine
 governorships
 grammontine
 grubbiest
