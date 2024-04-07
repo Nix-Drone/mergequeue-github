@@ -5257,7 +5257,6 @@ affa
 affability
 affable
 affableness
-affabrous
 affair
 affaire
 affaires
@@ -16957,6 +16956,7 @@ apiarians
 apiaries
 apiarist
 apiarists
+affabrous
 apiator
 apicad
 apical
