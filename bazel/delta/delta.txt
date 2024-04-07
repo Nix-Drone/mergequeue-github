@@ -5488,7 +5488,6 @@ deoxidisation
 deoxidise
 deoxidised
 deoxidiser
-deoxidising
 deoxidization
 deoxidize
 deoxidizer
@@ -12173,6 +12172,7 @@ disgout
 disgrace
 disgraced
 dysgenetic
+deoxidising
 disgraceful
 disgracefully
 disgracement
