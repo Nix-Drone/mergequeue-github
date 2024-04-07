@@ -2661,7 +2661,6 @@ generalists
 generaliter
 generality
 generalities
-generalizable
 generalization
 generalizations
 generalize
@@ -6571,6 +6570,7 @@ goidelic
 goyetian
 goyim
 goyin
+generalizable
 goyish
 goyle
 going
