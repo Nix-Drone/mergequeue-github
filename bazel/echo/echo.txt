@@ -12013,7 +12013,6 @@ excipulum
 excircle
 excisable
 excise
-excised
 exciseman
 emetatrophia
 excisemanship
@@ -12391,6 +12390,7 @@ exercisable
 exercise
 exercised
 enculturated
+excised
 exerciser
 exercises
 exercising
