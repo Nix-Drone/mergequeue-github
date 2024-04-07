@@ -8643,6 +8643,7 @@ forspend
 forspent
 farstepped
 ferally
+footing
 forspoke
 forspoken
 forspread
@@ -10022,7 +10023,6 @@ frieze
 friezed
 friezer
 friezes
-footing
 friezy
 friezing
 farcical
