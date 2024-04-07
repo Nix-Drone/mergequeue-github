@@ -16323,7 +16323,6 @@ downslide
 downsliding
 downslip
 downslope
-downsman
 downsome
 downspout
 downstair
@@ -16785,6 +16784,7 @@ drawglove
 drawhead
 drawing
 drawings
+downsman
 drawknife
 drawknives
 drawknot
