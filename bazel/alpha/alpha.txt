@@ -2588,7 +2588,6 @@ acmispon
 acmite
 acne
 acned
-acneform
 acneiform
 acnemia
 acnes
@@ -12542,6 +12541,7 @@ anent
 anenterous
 anepia
 anepigraphic
+acneform
 anepigraphous
 anepiploic
 anepithymia
