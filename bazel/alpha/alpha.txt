@@ -13547,7 +13547,6 @@ annihilatory
 annihilators
 annist
 annite
-anniv
 anniversalily
 anniversary
 anniversaries
@@ -21623,6 +21622,7 @@ assemble
 assembled
 assemblee
 assemblement
+anniv
 assembler
 assemblers
 assembles
