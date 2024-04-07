@@ -16446,7 +16446,6 @@ antjar
 antler
 antlered
 antlerite
-antlerless
 antlers
 antlia
 antliate
@@ -18913,6 +18912,7 @@ archiblastic
 archiblastoma
 archiblastula
 archibuteo
+antlerless
 archical
 archicantor
 archicarp
