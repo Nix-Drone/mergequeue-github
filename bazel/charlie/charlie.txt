@@ -2875,6 +2875,7 @@ cantraps
 cantred
 cantref
 cantrip
+chanteuses
 cantrips
 cantus
 cantut
@@ -8690,7 +8691,6 @@ chanters
 chantership
 chanteur
 chanteuse
-chanteuses
 chanty
 chanticleer
 chanticleers
