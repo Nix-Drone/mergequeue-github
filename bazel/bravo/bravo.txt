@@ -1590,7 +1590,6 @@ ballista
 ballistae
 bijous
 ballistic
-ballistically
 ballistician
 ballisticians
 ballistics
@@ -11929,6 +11928,7 @@ bogong
 bogota
 bogotana
 bogs
+ballistically
 bogsucker
 bogtrot
 bogtrotter
