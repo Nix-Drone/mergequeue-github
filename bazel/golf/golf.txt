@@ -2779,6 +2779,7 @@ genioglossal
 globoids
 genioglossi
 genioglossus
+gorgio
 geniohyoglossal
 geniohyoglossus
 geniohyoid
@@ -7210,7 +7211,6 @@ gorgeted
 gorgets
 gorgia
 gorging
-gorgio
 gorglin
 gorgon
 gorgonacea
