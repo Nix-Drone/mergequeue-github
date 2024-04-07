@@ -3619,6 +3619,7 @@ filesave
 filesmith
 filesniff
 filespec
+fossores
 filestatus
 filet
 fileted
@@ -8881,7 +8882,6 @@ fosslfying
 fosslify
 fosslology
 fossor
-fossores
 fossoria
 fossorious
 fossula
