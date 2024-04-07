@@ -7091,6 +7091,7 @@ centrefold
 centreless
 centrepiece
 centrer
+chol
 centres
 centrev
 centrex
@@ -11500,7 +11501,6 @@ choking
 chokingly
 choko
 chokra
-chol
 chola
 cholaemia
 cholagogic
