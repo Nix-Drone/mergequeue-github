@@ -4511,7 +4511,6 @@ becram
 becramp
 becrampon
 becrawl
-becrawled
 becrawling
 becrawls
 becreep
@@ -18217,6 +18216,7 @@ bestab
 butlerlike
 butlers
 butlership
+becrawled
 butles
 butment
 butolism
