@@ -4370,6 +4370,7 @@ fisherman
 fishermen
 fisherpeople
 flammably
+fouling
 fishers
 fisherwoman
 fishes
@@ -7612,7 +7613,6 @@ forecourse
 forecourt
 forecourts
 forecover
-fouling
 forecovert
 foreday
 foredays
