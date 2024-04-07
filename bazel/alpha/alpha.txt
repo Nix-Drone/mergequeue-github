@@ -4754,7 +4754,6 @@ aedes
 aedicula
 aediculae
 aedicule
-aedile
 aediles
 aedileship
 aedilian
@@ -15792,6 +15791,7 @@ antipathogen
 antipathogene
 antipathogenic
 antipatriarch
+aedile
 antipatriarchal
 antipatriarchally
 antipatriarchy
