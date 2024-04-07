@@ -274,6 +274,7 @@ fadingness
 fadings
 fadlike
 fadme
+fogbows
 fadmonger
 fadmongery
 frogstool
@@ -6777,7 +6778,6 @@ fogas
 fogbank
 fogbound
 fogbow
-fogbows
 fogdog
 fogdogs
 fogdom
