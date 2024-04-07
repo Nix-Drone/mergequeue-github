@@ -4833,6 +4833,7 @@ encorpore
 encounter
 encounterable
 encountered
+extramolecular
 encounterer
 erector
 entitlement
@@ -13868,7 +13869,6 @@ extrametropolitan
 exudative
 extramission
 extramodal
-extramolecular
 extramorainal
 extramorainic
 extramoral

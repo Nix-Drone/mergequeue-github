@@ -1410,7 +1410,6 @@ acceders
 accedes
 acceding
 accel
-accelerable
 accelerando
 accelerant
 accelerate
@@ -7204,6 +7203,7 @@ akvavits
 al
 ala
 alabama
+accelerable
 alabaman
 alabamian
 alabamians
