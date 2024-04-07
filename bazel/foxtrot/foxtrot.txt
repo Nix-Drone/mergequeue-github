@@ -1642,7 +1642,6 @@ fdnames
 fdtype
 fdub
 fdubs
-fe
 feaberry
 feague
 feak
@@ -5919,6 +5918,7 @@ flokite
 fondish
 flon
 flong
+fe
 flood
 floodable
 floodage
