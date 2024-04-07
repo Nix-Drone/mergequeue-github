@@ -16799,7 +16799,6 @@ cloze
 clr
 club
 clubability
-clubable
 cuculi
 clubbability
 clubbable
@@ -20402,6 +20401,7 @@ compacture
 compadre
 compadres
 compage
+clubable
 compages
 compaginate
 compagination
