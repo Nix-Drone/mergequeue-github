@@ -2237,6 +2237,7 @@ geast
 geaster
 geat
 geatas
+gyroidal
 geb
 gebanga
 gebbie
@@ -4799,7 +4800,6 @@ gyrofrequencies
 gyrogonite
 gyrograph
 gyrohorizon
-gyroidal
 gyrolite
 gyrolith
 gyroma
