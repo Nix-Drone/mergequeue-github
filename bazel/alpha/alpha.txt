@@ -18738,7 +18738,6 @@ archbuffoon
 archbuilder
 archchampion
 archchaplain
-archcharlatan
 archcheater
 archchemic
 archchief
@@ -25156,6 +25155,7 @@ axolotls
 axometer
 allorrhyhmia
 axometry
+archcharlatan
 axometric
 axon
 axonal
