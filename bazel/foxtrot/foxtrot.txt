@@ -6328,6 +6328,7 @@ fluidification
 fissicostate
 fluidified
 fluidifier
+fogramite
 fluidifying
 fluidimeter
 fluidisation
@@ -6826,7 +6827,6 @@ fogon
 fogou
 fogproof
 fogram
-fogramite
 fogramity
 fogrum
 fogs
