@@ -8890,7 +8890,6 @@ allopatry
 auxiliatory
 allopatric
 allopatrically
-allopelagic
 allophanamid
 allophanamide
 allophanate
@@ -24108,6 +24107,7 @@ autoicous
 autoignition
 autoimmune
 autoimmunity
+allopelagic
 autoimmunities
 autoimmunization
 autoimmunize
