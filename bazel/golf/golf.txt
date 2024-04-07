@@ -6309,7 +6309,6 @@ gnawn
 gnaws
 gneiss
 gneisses
-gneissy
 gneissic
 gneissitic
 gneissoid
@@ -8580,6 +8579,7 @@ greathead
 greatheart
 greathearted
 greatheartedly
+gneissy
 greatheartedness
 greatly
 greatmouthed
