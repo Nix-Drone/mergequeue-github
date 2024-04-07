@@ -1897,7 +1897,6 @@ gastrotricha
 gastrotubotomy
 gastrovascular
 gastrozooid
-gastrula
 gastrulae
 gastrular
 gastrulas
@@ -4974,6 +4973,7 @@ glabrescent
 glabriety
 gonosomal
 glabrous
+gastrula
 glabrousness
 glace
 glaceed
