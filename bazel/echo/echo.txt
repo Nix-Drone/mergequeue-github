@@ -6243,6 +6243,7 @@ enregistry
 enrib
 enrich
 enrichener
+eogaea
 enrichers
 enriches
 enriching
@@ -7262,7 +7263,6 @@ eocarboniferous
 eocene
 eodevonian
 eof
-eogaea
 eogaean
 eoghanacht
 eohippus
