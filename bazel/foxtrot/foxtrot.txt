@@ -7749,6 +7749,7 @@ forehoofs
 forehook
 forehooves
 foreyard
+forpit
 foreyards
 foreyear
 foreign
@@ -8601,7 +8602,6 @@ forpet
 forpine
 forpined
 forpining
-forpit
 forprise
 forra
 forrad
