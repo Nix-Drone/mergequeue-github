@@ -5494,7 +5494,6 @@ glycolide
 glycolyl
 glycolylurea
 glycolipid
-glycolipin
 glycolipine
 glycolysis
 glycolytic
@@ -7982,6 +7981,7 @@ grandnephew
 grandnephews
 grandness
 grandniece
+glycolipin
 gonolobus
 grandnieces
 grandpa
