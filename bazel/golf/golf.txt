@@ -9946,7 +9946,6 @@ guards
 guardship
 guardsman
 guardsmen
-guarea
 guarico
 guarish
 guarneri
@@ -10575,6 +10574,7 @@ gunsman
 gunsmith
 grandiloquence
 gunsmithery
+guarea
 gunsmithing
 gunsmiths
 glycocholic
