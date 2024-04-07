@@ -5032,7 +5032,6 @@ denaturalize
 denaturalized
 denaturalizing
 denaturant
-denaturants
 denaturate
 denaturation
 denaturational
@@ -8734,6 +8733,7 @@ diazoimide
 diazole
 diazoma
 diazomethane
+denaturants
 diazonium
 diazotate
 diazotic

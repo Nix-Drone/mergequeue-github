@@ -7473,7 +7473,6 @@ cercis
 cercises
 cercle
 cercocebus
-cercolabes
 cercolabidae
 cercomonad
 cercomonadidae
@@ -16678,6 +16677,7 @@ clothesbrush
 clotheshorse
 clotheshorses
 clothesyard
+cercolabes
 clothesless
 clothesline
 clotheslines
