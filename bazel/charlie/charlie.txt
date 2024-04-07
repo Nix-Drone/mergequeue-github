@@ -4137,6 +4137,7 @@ carfares
 carfax
 carfloat
 comprizable
+clustered
 carfour
 carfuffle
 carfuffling
@@ -16919,7 +16920,6 @@ clusiaceae
 clusiaceous
 cluster
 clusterberry
-clustered
 clusterfist
 clustery
 clustering
