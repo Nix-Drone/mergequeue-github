@@ -19153,7 +19153,6 @@ archsewer
 archshepherd
 archsin
 archsynagogue
-archsnob
 archspy
 archspirit
 archsteward
@@ -23970,6 +23969,7 @@ autocorrosion
 autocosm
 autocracy
 autocracies
+archsnob
 autocrat
 autocratic
 autocratical
