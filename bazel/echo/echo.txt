@@ -2676,7 +2676,6 @@ electrotitration
 electrotonic
 electrotonicity
 electrotonize
-electrotonus
 electrotrephine
 electrotropic
 electrotropism
@@ -4289,6 +4288,7 @@ edificant
 emulatory
 emulators
 emulatress
+electrotonus
 emule
 emulgence
 emulgens
