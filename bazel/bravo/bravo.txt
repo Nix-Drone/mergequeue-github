@@ -10447,7 +10447,6 @@ blastogeny
 blastogenic
 blastogranitic
 blastoid
-blastoidea
 blastoma
 blastomas
 blastomata
@@ -16820,6 +16819,7 @@ bufflehorn
 buffo
 buffone
 buffont
+blastoidea
 backhauled
 buffoon
 buffoonery
