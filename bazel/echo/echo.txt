@@ -167,7 +167,6 @@ earthlings
 earthmaker
 earthman
 earthmen
-earthmove
 earthmover
 earthmoving
 earthnut
@@ -5099,6 +5098,7 @@ endochrome
 endocycle
 endocyclic
 endocyemate
+earthmove
 endocyst
 endocystitis
 endocytic
