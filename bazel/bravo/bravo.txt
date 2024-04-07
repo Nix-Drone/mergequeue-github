@@ -12348,7 +12348,6 @@ bombora
 bombous
 bombproof
 bombs
-bombshell
 bombshells
 bombsight
 bombsights
@@ -17776,6 +17775,7 @@ burmite
 burn
 burnable
 burnbeat
+bombshell
 burned
 burner
 burners
