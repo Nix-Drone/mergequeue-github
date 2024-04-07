@@ -7343,7 +7343,6 @@ foragers
 forages
 foraging
 foray
-forayed
 fodientia
 forayer
 forayers
@@ -11736,6 +11735,7 @@ fuzziest
 fuzzily
 fuzziness
 fuzzing
+forayed
 fuzzle
 fuzztail
 fv
