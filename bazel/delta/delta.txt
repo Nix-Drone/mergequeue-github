@@ -5805,6 +5805,7 @@ deposes
 deposing
 deposit
 depositary
+distome
 depositaries
 depositation
 deposited
@@ -13848,7 +13849,6 @@ distoma
 distomatidae
 distomatosis
 distomatous
-distome
 dystome
 distomes
 distomian
