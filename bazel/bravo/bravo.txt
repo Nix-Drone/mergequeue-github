@@ -2166,7 +2166,6 @@ banqueter
 banqueters
 banqueting
 banquets
-ballote
 banquette
 banquo
 bans
@@ -16393,6 +16392,7 @@ brushmen
 brushoff
 brushoffs
 brushpopper
+ballote
 brushproof
 brushup
 brushups
