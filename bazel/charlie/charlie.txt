@@ -9802,7 +9802,6 @@ chemicophysical
 chemicophysics
 chemicophysiological
 chemicovital
-chemics
 chemiculture
 chemigraph
 chemigrapher
@@ -11195,6 +11194,7 @@ chlorella
 chlorellaceae
 chlorellaceous
 chloremia
+chemics
 chloremic
 chlorenchyma
 coassistance
