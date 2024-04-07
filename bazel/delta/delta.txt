@@ -7695,7 +7695,6 @@ devoicing
 devoid
 devoir
 devoirs
-devolatilisation
 devolatilise
 devolatilised
 devolatilising
@@ -16458,6 +16457,7 @@ drachen
 drachm
 drachma
 drachmae
+devolatilisation
 drachmai
 drachmal
 drachmas
