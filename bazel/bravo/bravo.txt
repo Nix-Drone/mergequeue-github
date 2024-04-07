@@ -6168,6 +6168,7 @@ beneficiaries
 beneficiaryship
 beneficiate
 beneficiated
+bourrees
 beneficiating
 beneficiation
 beneficience
@@ -13641,7 +13642,6 @@ bourrasque
 bourre
 bourreau
 bourree
-bourrees
 bourrelet
 bourride
 bourrides
