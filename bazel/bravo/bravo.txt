@@ -2143,7 +2143,6 @@ bannerman
 bannermen
 bannerole
 bannerols
-banners
 bannerwise
 bannet
 bannets
@@ -14231,6 +14230,7 @@ braggle
 bragi
 bragite
 bragless
+banners
 bragly
 bragozzo
 brags
