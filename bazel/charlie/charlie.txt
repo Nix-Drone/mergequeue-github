@@ -3269,7 +3269,6 @@ caprin
 caprine
 caprinic
 capriola
-capriole
 caprioled
 caprioles
 caprioling
@@ -3975,6 +3974,7 @@ cardioid
 cardioids
 cardiokinetic
 cardiolysis
+capriole
 cardiolith
 cardiology
 chondroclast
