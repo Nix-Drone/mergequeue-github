@@ -6580,7 +6580,6 @@ desertrice
 deserts
 desertward
 deserve
-deserved
 deservedly
 deservedness
 deserveless
@@ -17643,6 +17642,7 @@ dtset
 du
 duad
 duadic
+deserved
 duads
 dual
 duala
