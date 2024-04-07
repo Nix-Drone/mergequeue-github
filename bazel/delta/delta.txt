@@ -6158,7 +6158,6 @@ derivers
 derives
 deriving
 derk
-derm
 derma
 dermabrasion
 dermacentor
@@ -10042,6 +10041,7 @@ dinornithine
 dynamometers
 dynamometry
 dynamometric
+derm
 dynamometrical
 dynamomorphic
 dynamoneure
