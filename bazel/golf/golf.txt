@@ -4730,6 +4730,7 @@ gyrenes
 gyres
 gyrfalcon
 gyrfalcons
+guillotiner
 girgashite
 grinter
 girgasite
@@ -10228,7 +10229,6 @@ guillotinade
 guillotine
 guillotined
 guillotinement
-guillotiner
 guillotines
 guillotining
 guillotinism
