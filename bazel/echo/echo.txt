@@ -4283,7 +4283,6 @@ emu
 emulable
 emulant
 emulates
-emulating
 emulation
 emulations
 emulative
@@ -8333,6 +8332,7 @@ epithelization
 epithelize
 epitheloid
 epithem
+emulating
 epitheme
 epithermal
 epithermally
