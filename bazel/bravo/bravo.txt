@@ -67,7 +67,6 @@ babehood
 babel
 babeldom
 babelet
-babelic
 babelike
 babelish
 babelism
@@ -3517,6 +3516,7 @@ bateleur
 batell
 bateman
 bouchal
+babelic
 bannered
 batement
 bater
