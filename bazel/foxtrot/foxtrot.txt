@@ -1972,6 +1972,7 @@ feet
 feetless
 feeze
 feezed
+flatly
 feezes
 feezing
 feff
@@ -5126,7 +5127,6 @@ flatlander
 flatlanders
 flatlands
 flatlets
-flatly
 flatling
 flatlings
 flatlong
