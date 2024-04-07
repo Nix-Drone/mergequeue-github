@@ -2371,7 +2371,6 @@ electrodialitic
 electrodialytic
 electrodialitically
 electrodialyze
-electrodialyzer
 electrodynamic
 electrodynamical
 electrodynamics
@@ -5279,6 +5278,7 @@ endorsements
 endere
 endorser
 endorsers
+electrodialyzer
 endorses
 endorsing
 endorsingly
