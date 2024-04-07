@@ -14302,7 +14302,6 @@ anteverts
 antevocalic
 antewar
 anthdia
-anthecology
 anthecological
 anthecologist
 antheia
@@ -20671,6 +20670,7 @@ articularly
 articulars
 articulata
 articulated
+anthecology
 articulately
 articulateness
 articulates
