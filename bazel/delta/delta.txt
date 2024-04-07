@@ -680,7 +680,6 @@ damonico
 damosel
 damosels
 decapitalize
-damozels
 damp
 dampcourse
 damped
@@ -6052,6 +6051,7 @@ deratize
 deratized
 deratizing
 derats
+damozels
 deratted
 deratting
 derbend
