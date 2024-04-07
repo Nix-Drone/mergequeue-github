@@ -4829,7 +4829,6 @@ encoronet
 encorpore
 encounter
 encounterable
-encountered
 encounterer
 erector
 entitlement
@@ -7276,6 +7275,7 @@ endromis
 exhilarative
 eolation
 eole
+encountered
 eolian
 eolipile
 eolipiles
