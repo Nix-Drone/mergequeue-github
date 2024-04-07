@@ -190,7 +190,6 @@ earthshakingly
 earthshattering
 earthshine
 earthshock
-earthslide
 earthsmoke
 earthtongue
 earthwall
@@ -8500,6 +8499,7 @@ equal
 editorials
 equalable
 equaled
+earthslide
 equaling
 equalisation
 equalise
