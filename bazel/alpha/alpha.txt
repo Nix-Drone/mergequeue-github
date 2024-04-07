@@ -3311,6 +3311,7 @@ acuclosure
 acuductor
 acuerdo
 acuesthesia
+ambulators
 acuity
 acuities
 aculea
@@ -24069,7 +24070,6 @@ autogyro
 autogiros
 autogyros
 autognosis
-ambulators
 autognostic
 autograft
 autografting

@@ -4844,7 +4844,6 @@ bedstraws
 bedstring
 bedswerver
 bedtick
-bedticks
 bedtime
 bedub
 beduchess
@@ -5077,6 +5076,7 @@ befingered
 befingering
 befingers
 befire
+bedticks
 befist
 befit
 befits
