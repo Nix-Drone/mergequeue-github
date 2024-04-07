@@ -4669,7 +4669,6 @@ fizzers
 fizzy
 fizzier
 fizziest
-fizzing
 fip
 fizzle
 fizzled
@@ -7542,6 +7541,7 @@ forebitt
 flaucht
 forebitten
 forebitter
+fizzing
 forebless
 fullface
 forebode
