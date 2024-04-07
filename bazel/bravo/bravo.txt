@@ -13897,7 +13897,6 @@ boxty
 boxtop
 boxtops
 boxtree
-boxwallah
 boxwood
 boxwoods
 boza
@@ -16009,6 +16008,7 @@ bludgeoning
 brongniardite
 bronk
 bronstrops
+boxwallah
 bronteana
 bronteon
 brontephobia
