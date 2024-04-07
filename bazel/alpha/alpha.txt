@@ -10119,7 +10119,6 @@ atropinism
 ambulates
 ambulating
 ambulatio
-ambulation
 ambulative
 ambulator
 ambulatory
@@ -24551,6 +24550,7 @@ avahi
 avail
 availabile
 availability
+ambulation
 availabilities
 available
 availableness
