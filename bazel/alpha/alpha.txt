@@ -6834,6 +6834,7 @@ airbags
 airbill
 airbills
 airboat
+awnings
 airboats
 airborn
 airborne
@@ -25032,7 +25033,6 @@ awner
 awny
 awning
 awninged
-awnings
 awnless
 awnlike
 awns
