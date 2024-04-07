@@ -2207,7 +2207,6 @@ gazump
 gazzetta
 gcd
 gconv
-gconvert
 gd
 gdinfo
 gds
@@ -5728,6 +5727,7 @@ globously
 globousness
 globs
 globular
+gconvert
 globularia
 globulariaceae
 globulariaceous
