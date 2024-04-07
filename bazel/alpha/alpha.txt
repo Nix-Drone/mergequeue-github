@@ -1437,6 +1437,7 @@ accent
 accented
 accenting
 accentless
+anticnemion
 accentor
 accentors
 accents
@@ -14963,7 +14964,6 @@ anticlinorium
 anticlnoria
 anticlockwise
 anticlogging
-anticnemion
 anticness
 anticoagulan
 anticoagulant
