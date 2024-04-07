@@ -4201,7 +4201,6 @@ fireless
 firelight
 forfar
 firelike
-fireling
 firelit
 firelock
 firelocks
@@ -5821,6 +5820,7 @@ floatability
 forethoughtless
 floatage
 floatages
+fireling
 floatation
 floatative
 floatboard
