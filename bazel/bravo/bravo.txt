@@ -4609,6 +4609,7 @@ bedchairs
 bedchamber
 bedclothes
 bedclothing
+bosquet
 bedcord
 bedcover
 bedcovers
@@ -13192,7 +13193,6 @@ bosporian
 bosporus
 bosque
 bosques
-bosquet
 bosquets
 bossa
 bossage

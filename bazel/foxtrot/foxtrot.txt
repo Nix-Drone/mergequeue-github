@@ -5265,7 +5265,6 @@ formulators
 flavorsomeness
 flavour
 flavoured
-flavourer
 flavourful
 flavourfully
 flavoury
@@ -11629,6 +11628,7 @@ fustianist
 fustianize
 fustians
 fustic
+flavourer
 fustics
 fustie
 fustier
