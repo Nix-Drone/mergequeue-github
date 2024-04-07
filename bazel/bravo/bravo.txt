@@ -6550,6 +6550,7 @@ bequeathal
 bequeathed
 bequeather
 bequeathing
+brawled
 bequeaths
 bequest
 bequests
@@ -15814,7 +15815,6 @@ brome
 bromegrass
 bromeigon
 bromeikon
-brawled
 bromelia
 bromeliaceae
 bromeliaceous
