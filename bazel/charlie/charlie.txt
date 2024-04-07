@@ -9824,7 +9824,6 @@ chemins
 chemiotactic
 chemiotaxic
 chemiotaxis
-chemiotropic
 chemiotropism
 chemiphotic
 chuhra
@@ -29131,6 +29130,7 @@ criollo
 criollos
 cryology
 cryological
+chemiotropic
 cryometry
 cryonic
 cryonics
