@@ -2541,7 +2541,6 @@ ferryage
 ferriages
 ferryboat
 ferryboats
-ferric
 familistery
 ferricyanate
 ferricyanic
@@ -8045,6 +8044,7 @@ forespeak
 forespeaker
 forespeaking
 forespecified
+ferric
 forespeech
 forespeed
 forespencer
