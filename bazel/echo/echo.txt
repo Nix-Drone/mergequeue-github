@@ -12448,7 +12448,6 @@ exhales
 euphemy
 exhaling
 exhaust
-exhaustable
 exhausted
 exhaustedly
 exhaustedness
@@ -13119,6 +13118,7 @@ expirations
 expirator
 expiratory
 expire
+exhaustable
 expired
 expiree
 expirer
