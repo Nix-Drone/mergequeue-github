@@ -6838,7 +6838,6 @@ cementoma
 cements
 cementum
 cementwork
-cemetary
 cemetaries
 cemetery
 cemeterial
@@ -14723,6 +14722,7 @@ cystoradiography
 cistori
 cystorrhagia
 cystorrhaphy
+cemetary
 cystorrhea
 cystosarcoma
 cystoschisis
