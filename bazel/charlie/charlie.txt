@@ -22149,7 +22149,6 @@ confutability
 confutable
 confutation
 confutations
-confutative
 confutator
 confute
 confuted
@@ -29825,6 +29824,7 @@ crosscurrents
 crosscut
 crosscuts
 crosscutter
+confutative
 crosscutting
 crosse
 crossed
