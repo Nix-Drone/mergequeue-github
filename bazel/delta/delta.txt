@@ -5688,7 +5688,6 @@ depletable
 deplete
 depleteable
 depleted
-depletes
 deplethoric
 depleting
 depletion
@@ -10116,6 +10115,7 @@ dingdonged
 dingdonging
 dingdongs
 dinge
+depletes
 dinged
 dingee
 dingey
