@@ -243,7 +243,6 @@ abdest
 abdicable
 abdicant
 abdicate
-abdicated
 abdicating
 abdication
 abdications
@@ -2477,6 +2476,7 @@ acyesis
 acyetic
 aciform
 acyl
+abdicated
 acylal
 acylamido
 acylamidobenzene
