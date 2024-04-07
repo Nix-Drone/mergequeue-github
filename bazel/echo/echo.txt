@@ -3328,7 +3328,6 @@ embalmment
 embank
 embanked
 embanking
-embankment
 embankments
 embanks
 embannered
@@ -7860,6 +7859,7 @@ epikia
 epikleses
 epiklesis
 epikouros
+embankment
 epil
 epilabra
 epilabrum
