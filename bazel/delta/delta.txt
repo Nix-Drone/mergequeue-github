@@ -1489,7 +1489,6 @@ deactivation
 deactivations
 deactivator
 deactivators
-dead
 deadbeat
 deadbeats
 defrosts
@@ -17766,6 +17765,7 @@ duckie
 duckier
 duckies
 duckiest
+dead
 ducking
 ducklar
 ducklet
