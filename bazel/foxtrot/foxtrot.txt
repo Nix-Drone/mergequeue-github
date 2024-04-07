@@ -4431,7 +4431,6 @@ fishways
 fishweed
 foothils
 fishweir
-fishwife
 fishwives
 fishwoman
 fishwood
@@ -8879,6 +8878,7 @@ fossils
 fosslfying
 fosslify
 fosslology
+fishwife
 fossor
 fossoria
 fossorious
