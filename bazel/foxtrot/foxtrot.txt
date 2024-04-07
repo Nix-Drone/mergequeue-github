@@ -4562,7 +4562,6 @@ feudalised
 fitout
 fitroot
 fits
-fittable
 fittage
 fytte
 fitted
@@ -8162,6 +8161,7 @@ foreturn
 foreuse
 foreutter
 forevalue
+fittable
 forever
 forevermore
 foreverness
