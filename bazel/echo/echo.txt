@@ -6196,7 +6196,6 @@ extraphysiological
 enplanes
 enplaning
 enquarter
-enqueue
 enqueued
 enqueues
 enquicken
@@ -13263,6 +13262,7 @@ exponentiating
 exponentiation
 exponention
 exponents
+enqueue
 exponible
 export
 exportability
