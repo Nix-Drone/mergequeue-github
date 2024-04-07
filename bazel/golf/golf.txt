@@ -5402,7 +5402,6 @@ glent
 glenwood
 glessite
 gletscher
-gletty
 glew
 glia
 gliadin
@@ -5614,6 +5613,7 @@ glyptics
 glyptodon
 glyptodont
 glyptodontidae
+gletty
 glyptodontoid
 glyptograph
 glyptographer
