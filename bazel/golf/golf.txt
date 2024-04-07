@@ -1798,6 +1798,7 @@ gastrohepatitis
 gastrohydrorrhea
 gastrohyperneuria
 gastrohypertonic
+glinted
 gastrohysterectomy
 gastrohysteropexy
 gastrohysterotomy
@@ -5579,7 +5580,6 @@ glynn
 glinse
 gregory
 glint
-glinted
 glinting
 gliocyte
 glioma
