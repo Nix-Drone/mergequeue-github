@@ -1283,7 +1283,6 @@ effecter
 effecters
 effectful
 effectible
-effecting
 effective
 entomologists
 effectively
@@ -4316,6 +4315,7 @@ emulsifications
 emulsified
 emulsifier
 emulsifiers
+effecting
 emulsifies
 emulsifying
 emulsin
