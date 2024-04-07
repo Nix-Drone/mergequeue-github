@@ -2904,6 +2904,7 @@ feuding
 feudists
 feudovassalism
 feuds
+fyrd
 feudum
 feued
 feuillage
@@ -4123,7 +4124,6 @@ fiques
 fir
 firbolg
 firca
-fyrd
 fyrdung
 faldistory
 fire
