@@ -5752,6 +5752,7 @@ aftertime
 aftertimes
 aftertouch
 aftertreatment
+apastron
 aftertrial
 afterturn
 aftervision
@@ -16674,7 +16675,6 @@ apartness
 apass
 apast
 apastra
-apastron
 apasttra
 apatan
 apatela
