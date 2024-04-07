@@ -11278,6 +11278,7 @@ evacuations
 evacuative
 evacuator
 evacuators
+exteriors
 evacue
 evacuee
 evacuees
@@ -13598,7 +13599,6 @@ exteriorized
 exteriorizing
 exteriorly
 exteriorness
-exteriors
 exterminable
 exterminate
 exterminated
