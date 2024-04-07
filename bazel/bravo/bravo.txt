@@ -3745,7 +3745,6 @@ battledore
 battledores
 baldly
 battledoring
-battlefield
 battlefields
 battlefront
 battlefronts
@@ -11638,6 +11637,7 @@ beared
 bobachee
 bobadil
 bobadilian
+battlefield
 bobadilism
 bobance
 bobbed
