@@ -2659,7 +2659,6 @@ decomposed
 decomposer
 decomposers
 decomposes
-decomposing
 decomposite
 decomposition
 decompositional
@@ -6075,6 +6074,7 @@ dereferenced
 dereferencing
 deregister
 deregulate
+decomposing
 deregulated
 deregulates
 deregulating
