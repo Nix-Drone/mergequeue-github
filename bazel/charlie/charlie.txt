@@ -3180,7 +3180,6 @@ caponniere
 capons
 caporal
 caporals
-capos
 capot
 capotasto
 capotastos
@@ -9150,6 +9149,7 @@ chaseable
 chased
 chasers
 chases
+capos
 chashitsu
 chasid
 chasidim
