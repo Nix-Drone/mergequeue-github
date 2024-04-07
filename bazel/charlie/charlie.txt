@@ -10428,7 +10428,6 @@ childbear
 childbearing
 childbed
 childbeds
-childbirth
 childbirths
 childcrowing
 childe
@@ -17838,6 +17837,7 @@ codons
 codpiece
 codpieces
 cedent
+childbirth
 codpitchings
 codrus
 cods
