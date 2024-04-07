@@ -909,7 +909,6 @@ gamecraft
 gamed
 gameful
 gamey
-gamekeeper
 gamekeepers
 gamekeeping
 gamelan
@@ -6743,6 +6742,7 @@ golundauze
 goluptious
 goma
 gomari
+gamekeeper
 gomarian
 gomarite
 gomart
