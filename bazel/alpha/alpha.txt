@@ -12811,7 +12811,6 @@ angiospasm
 angiospastic
 angiosperm
 angiospermae
-angiospermal
 angiospermic
 angiospermous
 angiosperms
@@ -19182,6 +19181,7 @@ arcing
 asexualise
 arcite
 arcked
+angiospermal
 arcking
 arclength
 arclike

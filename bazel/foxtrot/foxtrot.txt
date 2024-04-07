@@ -3989,6 +3989,7 @@ fingerhold
 fingerhook
 fingering
 fingerings
+flowers
 fingerleaf
 fingerless
 fallers
@@ -6234,7 +6235,6 @@ flowerlike
 flowerpecker
 flowerpot
 flowerpots
-flowers
 flowerwork
 flowing
 flowingly
