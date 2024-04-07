@@ -9681,7 +9681,6 @@ gruiformes
 gruine
 goldsmithing
 gruys
-grulla
 grum
 grumble
 grumbled
@@ -10312,6 +10311,7 @@ girdle
 gularis
 gulash
 gulch
+grulla
 guld
 gulden
 guldengroschen
