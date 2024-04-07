@@ -2392,7 +2392,6 @@ gelatinizer
 gelatinizing
 gallanting
 gelatinobromide
-gelatinochloride
 gelatinoid
 gelatinous
 gelatinously
@@ -9269,6 +9268,7 @@ groenendael
 groenlandicus
 grazeable
 groff
+gelatinochloride
 grog
 grogged
 grogger
