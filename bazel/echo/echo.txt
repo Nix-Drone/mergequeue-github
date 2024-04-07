@@ -4339,7 +4339,6 @@ en
 enable
 expertising
 enabled
-enablement
 enablers
 enables
 enabling
@@ -10594,6 +10593,7 @@ etui
 etuis
 etuve
 etuvee
+enablement
 etwas
 etwee
 etwees
