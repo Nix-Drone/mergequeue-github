@@ -6302,7 +6302,6 @@ dermoid
 dermoidal
 dermoidectomy
 dermol
-dermolysis
 dermomycosis
 dermomuscular
 dermonecrotic
@@ -12550,6 +12549,7 @@ dyskeratosis
 diskery
 discouragingness
 diskette
+dermolysis
 diskettes
 diskindness
 dyskinesia
