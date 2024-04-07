@@ -9598,7 +9598,6 @@ escrowed
 escrowee
 escrowing
 escuage
-escuages
 escudero
 escudo
 escudos
@@ -12372,6 +12371,7 @@ exempts
 exencephalia
 exencephalic
 exencephalous
+escuages
 excessman
 exencephalus
 exendospermic
