@@ -1148,7 +1148,6 @@ edplot
 edriasteroidea
 edrioasteroid
 edrioasteroidea
-edriophthalmatous
 edriophthalmian
 edriophthalmic
 edriophthalmous
@@ -12887,6 +12886,7 @@ expanding
 expandingly
 expanse
 expansibility
+edriophthalmatous
 expansible
 expansibleness
 expansibly
