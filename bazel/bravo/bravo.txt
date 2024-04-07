@@ -5310,6 +5310,7 @@ begoud
 begowk
 begowned
 begrace
+bothsided
 begray
 begrain
 begrave
@@ -13333,7 +13334,6 @@ bothrodendron
 bothroi
 bothropic
 bothrops
-bothsided
 bothsidedness
 boththridia
 bothway
