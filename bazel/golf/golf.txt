@@ -3583,7 +3583,6 @@ geste
 gested
 gesten
 gastroxynsis
-gestening
 gester
 gestes
 gestic
@@ -4187,6 +4186,7 @@ gilt
 giltcup
 gilten
 giltheads
+gestening
 gilty
 gilts
 gilttail
