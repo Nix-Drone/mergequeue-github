@@ -6304,7 +6304,6 @@ dermolysis
 dermomycosis
 dermomuscular
 dermonecrotic
-dermoneural
 dermoneurosis
 dermonosology
 dermoosseous
@@ -16629,6 +16628,7 @@ drainer
 drainerman
 drainermen
 drainers
+dermoneural
 drainfield
 draining
 drainman
