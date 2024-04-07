@@ -6279,7 +6279,6 @@ gnathonize
 guising
 gnathophorous
 gnathoplasty
-gnathopod
 gnathopoda
 gnathopodite
 glyoxylic
@@ -6677,6 +6676,7 @@ goldsmithery
 goldsmithry
 goldsmiths
 goldspink
+gnathopod
 goldstone
 goldtail
 goldthread
