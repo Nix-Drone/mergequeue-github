@@ -8134,7 +8134,6 @@ episcopise
 episcopised
 episcopising
 episcopization
-episcopize
 episcopized
 eperva
 episcopizing
@@ -13325,6 +13324,7 @@ expounded
 expounder
 expounders
 expounding
+episcopize
 expounds
 expreme
 express
