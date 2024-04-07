@@ -5183,7 +5183,6 @@ endokaryogamy
 endolabyrinthitis
 endolaryngeal
 endolemma
-endolymph
 endolymphangial
 endolymphatic
 etiotropic
@@ -9372,6 +9371,7 @@ eructating
 eructation
 eructative
 eructed
+endolymph
 eructing
 eruction
 eructs
