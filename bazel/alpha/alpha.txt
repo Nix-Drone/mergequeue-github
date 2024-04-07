@@ -1506,7 +1506,6 @@ accessively
 accessless
 accessor
 accessory
-accessorial
 accessories
 accessorily
 accessoriness
@@ -14835,6 +14834,7 @@ anticatalase
 anticatalyst
 anticatalytic
 anticatalytically
+accessorial
 anticatalyzer
 anticatarrhal
 anticathexis
