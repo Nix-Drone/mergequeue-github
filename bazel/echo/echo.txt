@@ -2608,7 +2608,6 @@ electrostenolysis
 electrostenolytic
 electrostereotype
 electrostriction
-electrostrictive
 electrosurgery
 electrosurgeries
 electrosurgical
@@ -8216,6 +8215,7 @@ epistilbite
 epistyle
 epistyles
 epistylis
+electrostrictive
 exulcerate
 epistlar
 epistle
