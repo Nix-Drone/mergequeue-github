@@ -3510,7 +3510,6 @@ figurational
 figurations
 figurative
 figuratively
-figurativeness
 figurato
 figure
 figured
@@ -5414,6 +5413,7 @@ fleeringly
 fleerish
 fleers
 flees
+figurativeness
 fleeter
 fleetest
 fleetful
