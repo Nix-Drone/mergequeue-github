@@ -10960,7 +10960,6 @@ amounts
 amour
 amouret
 amourist
-amours
 amovability
 amovable
 amove
@@ -20764,6 +20763,7 @@ arts
 artsy
 artsman
 artus
+amours
 artware
 artwork
 artworks
