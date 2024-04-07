@@ -6499,7 +6499,6 @@ entackle
 entad
 entada
 entail
-entailable
 entailed
 entailer
 entailment
@@ -10945,6 +10944,7 @@ eupatoriaceous
 eupatorin
 eupatorine
 eupatorium
+entailable
 eupatrid
 eupatridae
 eupatrids
