@@ -11802,7 +11802,6 @@ bodingly
 bodings
 bodyshirt
 bodysuit
-bodysuits
 bodysurf
 bodysurfed
 bodysurfer
@@ -15971,6 +15970,7 @@ bronchophthisis
 bronchoplasty
 bronchoplegia
 bronchopleurisy
+bodysuits
 bronchopneumonic
 bronchopulmonary
 bronchorrhagia
