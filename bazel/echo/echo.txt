@@ -2641,7 +2641,6 @@ electrothanasia
 electrothanatosis
 electrotherapeutic
 electrotherapeutical
-electrotherapeutist
 edaphodont
 electrotherapy
 electrotherapist
@@ -11221,6 +11220,7 @@ eutaxic
 eutaxie
 exercisers
 eutaxite
+electrotherapeutist
 eutaxitic
 eutechnic
 equipotent
