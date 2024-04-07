@@ -2642,7 +2642,6 @@ baritones
 barytones
 barytons
 barytophyllite
-barytostrontianite
 barytosulphate
 barium
 bariums
@@ -6221,6 +6220,7 @@ bipartient
 benighted
 benightedly
 benightedness
+barytostrontianite
 benighten
 benighter
 benighting
