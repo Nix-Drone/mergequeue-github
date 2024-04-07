@@ -945,7 +945,6 @@ absfarad
 abshenry
 absi
 absinth
-absinthe
 absinthes
 absinthial
 absinthiate
@@ -7708,6 +7707,7 @@ aldane
 aldazin
 aldazine
 aldea
+absinthe
 audition
 aldeament
 aldebaran
