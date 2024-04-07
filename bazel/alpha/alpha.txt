@@ -6844,7 +6844,6 @@ airborne
 airbound
 airbrained
 airbrasive
-airbrick
 airbrush
 airbrushed
 airbrushing
@@ -24400,6 +24399,7 @@ autospray
 autostability
 autostarter
 autostethoscope
+airbrick
 autostyly
 autostylic
 autostylism
