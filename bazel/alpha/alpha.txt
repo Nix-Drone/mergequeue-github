@@ -19167,6 +19167,7 @@ archtreasurership
 archturncoat
 archurger
 archvagabond
+atomics
 archvampire
 archvestryman
 archvillain
@@ -22740,7 +22741,6 @@ atomically
 atomician
 atomicism
 atomicity
-atomics
 atomies
 atomiferous
 atomisation
