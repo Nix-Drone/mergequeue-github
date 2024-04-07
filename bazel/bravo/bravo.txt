@@ -449,7 +449,6 @@ backplate
 backpointer
 backpointers
 backrest
-backrests
 backrope
 backropes
 backrun
@@ -3063,6 +3062,7 @@ barvell
 beduin
 barway
 barways
+backrests
 barwal
 barware
 barwares
