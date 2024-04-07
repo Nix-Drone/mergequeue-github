@@ -20332,7 +20332,6 @@ arrowless
 arrowlet
 arrowlike
 arrowplate
-automolite
 arrowroot
 arrowroots
 arrows
@@ -22837,6 +22836,7 @@ atretic
 atreus
 atry
 atria
+automolite
 atrial
 atrible
 atrichia
