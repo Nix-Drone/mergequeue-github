@@ -1939,7 +1939,6 @@ fibratus
 flummoxing
 feedlots
 feedman
-feeds
 feedsman
 feedstock
 feedstuff
@@ -5136,6 +5135,7 @@ flatmen
 flatness
 flatnose
 flats
+feeds
 flatted
 flatten
 flattened
