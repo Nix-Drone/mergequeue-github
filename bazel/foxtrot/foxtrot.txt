@@ -1036,7 +1036,6 @@ farmerlike
 farmers
 farmership
 farmhand
-farmhands
 farmhold
 farmhouse
 farmhousey
@@ -2876,6 +2875,7 @@ ferrichloride
 feuar
 feuars
 feucht
+farmhands
 feud
 feudal
 feudalisation
