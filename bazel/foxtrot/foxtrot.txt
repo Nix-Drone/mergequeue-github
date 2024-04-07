@@ -6977,7 +6977,6 @@ folkmoot
 folkmooter
 foreignization
 folkmoots
-folkmot
 folkmote
 folkmoter
 folkmotes
@@ -9896,6 +9895,7 @@ fretfully
 fallibleness
 fretfulness
 fretish
+folkmot
 frets
 fretsaw
 fretsaws
