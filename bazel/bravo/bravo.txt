@@ -516,7 +516,6 @@ backspier
 backspierer
 backspin
 backspins
-backsplice
 backspliced
 backsplicing
 backspread
@@ -8278,6 +8277,7 @@ bhaga
 biformity
 biforous
 bifront
+backsplice
 bifrontal
 bifronted
 bifrost
