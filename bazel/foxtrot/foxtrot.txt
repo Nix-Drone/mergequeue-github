@@ -2536,7 +2536,6 @@ ferrets
 ferretto
 ferri
 ferry
-ferryage
 ferriages
 ferryboat
 ferryboats
@@ -10274,6 +10273,7 @@ frizzlier
 frizzliest
 frizzling
 fro
+ferryage
 frock
 frocked
 frockless
