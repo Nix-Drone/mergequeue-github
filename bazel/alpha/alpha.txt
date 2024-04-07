@@ -8568,7 +8568,6 @@ allegation
 allegations
 allegator
 allegatum
-allege
 allegeable
 alleged
 allegedly
@@ -19379,6 +19378,7 @@ areolae
 areolar
 areolas
 areolate
+allege
 areolated
 areolation
 areole
