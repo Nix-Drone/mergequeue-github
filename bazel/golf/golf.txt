@@ -8672,6 +8672,7 @@ greenfinch
 greenfish
 greenfishes
 greenfly
+guid
 greengage
 greengill
 greengrocery
@@ -10072,7 +10073,6 @@ guerrillaism
 guerrillas
 guerrillaship
 guesdism
-guid
 guesdist
 guess
 guessable
