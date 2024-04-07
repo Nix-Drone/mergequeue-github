@@ -6843,7 +6843,6 @@ foyer
 foyers
 foil
 foiled
-foiler
 foiling
 foils
 foilsmen
@@ -8326,6 +8325,7 @@ forjudged
 forjudger
 forjudges
 forjudging
+foiler
 forjudgment
 fork
 forkable
