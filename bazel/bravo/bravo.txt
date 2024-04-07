@@ -12351,6 +12351,7 @@ bombs
 bombshells
 bombsight
 bombsights
+burnish
 bombus
 bomi
 bomos
@@ -17795,7 +17796,6 @@ burnies
 burning
 burningly
 burnings
-burnish
 burnishable
 burnished
 burnisher

@@ -14855,6 +14855,7 @@ cytoanalyzer
 cytoarchitectural
 cytoarchitecturally
 cytoarchitecture
+coursing
 cytoblast
 confidences
 cytoblastema
@@ -27345,7 +27346,6 @@ courser
 coursers
 courses
 coursy
-coursing
 coursings
 court
 courtage
