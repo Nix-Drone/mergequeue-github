@@ -667,7 +667,6 @@ bacteriogenous
 bacteriohemolysin
 bacterioid
 bacterioidal
-bacteriol
 bacteriolysin
 bacteriolysis
 bacteriolytic
@@ -14966,6 +14965,7 @@ breedling
 breeds
 breek
 breekless
+bacteriol
 breeks
 breekums
 breenge
