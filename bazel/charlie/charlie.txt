@@ -5984,7 +5984,6 @@ catstep
 catstick
 catstitch
 catstitcher
-catstone
 catsup
 catsups
 cattabu
@@ -13133,6 +13132,7 @@ cycadiform
 cycadite
 cycadlike
 cycadofilicale
+catstone
 cycadofilicales
 cycadofilices
 cannikins
