@@ -7029,7 +7029,6 @@ fringillid
 followed
 follower
 followers
-followership
 followeth
 following
 followingly
@@ -11548,6 +11547,7 @@ fused
 fusee
 fusees
 fusel
+followership
 fuselage
 fuselages
 fuseless
