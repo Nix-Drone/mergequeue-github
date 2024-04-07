@@ -1864,7 +1864,6 @@ bandala
 bandalore
 bandana
 bandanaed
-bandanas
 bandanna
 bandannaed
 bandannas
@@ -2335,6 +2334,7 @@ barbasco
 barbascoes
 barbascos
 barbastel
+bandanas
 barbastelle
 barbate
 barbated
