@@ -6377,7 +6377,6 @@ benzenediazonium
 benzenes
 benzenyl
 benzenoid
-benzhydrol
 billsticking
 benzhydroxamic
 benzidin
@@ -18123,6 +18122,7 @@ busulfan
 busulfans
 busuuti
 but
+benzhydrol
 butacaine
 butadiene
 boastless
