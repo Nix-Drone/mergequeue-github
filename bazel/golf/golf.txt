@@ -6003,6 +6003,7 @@ glove
 gloved
 glovey
 gloveless
+grain
 glovelike
 glovemaker
 glovemaking
@@ -7768,7 +7769,6 @@ graille
 grails
 graymalkin
 graymill
-grain
 graine
 grained
 grainedness
