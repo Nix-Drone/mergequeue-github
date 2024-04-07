@@ -8412,6 +8412,7 @@ chambre
 chambrel
 chambul
 chamecephaly
+chordamesoderm
 chamecephalic
 chamecephalous
 chamecephalus
@@ -11862,7 +11863,6 @@ chordacentrum
 chordaceous
 chordal
 chordally
-chordamesoderm
 chordamesodermal
 chordamesodermic
 chordata
