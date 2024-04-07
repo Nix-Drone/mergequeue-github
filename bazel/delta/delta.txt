@@ -6921,7 +6921,6 @@ despondentness
 desponder
 desponding
 despondingly
-desponds
 desponsage
 dau
 desponsate
@@ -17180,6 +17179,7 @@ drive
 driveable
 driveaway
 drivebolt
+desponds
 drivecap
 drivehead
 drivel
