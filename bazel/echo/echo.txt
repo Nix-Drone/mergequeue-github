@@ -4033,7 +4033,6 @@ emove
 eponymize
 emp
 empaestic
-empair
 empaistic
 empale
 empalement
@@ -10988,6 +10987,7 @@ euphenics
 eurasians
 euphon
 euphone
+empair
 euphonetic
 euphonetics
 euphony
