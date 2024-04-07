@@ -10840,7 +10840,6 @@ direxit
 dirge
 dirged
 dirgeful
-dirgelike
 dirgeman
 dirges
 dirgy
@@ -15581,6 +15580,7 @@ doorjamb
 doorjambs
 doorkeeper
 doorknob
+dirgelike
 doorknobs
 doorless
 doormaid
