@@ -1627,7 +1627,6 @@ fb
 fbi
 fc
 fchar
-fcy
 fipenny
 fcomp
 fconv
@@ -6267,6 +6266,7 @@ fluctuant
 fluctuate
 fluctuated
 fenouillet
+fcy
 fluctuates
 fluctuating
 fluctuation
