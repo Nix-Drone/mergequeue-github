@@ -7214,7 +7214,6 @@ footholds
 foothot
 flippantness
 footy
-footie
 footier
 footiest
 footingly
@@ -10440,6 +10439,7 @@ fatimid
 frontogenesis
 frontolysis
 frontomalar
+footie
 frontomallar
 frontomaxillary
 frontomental
