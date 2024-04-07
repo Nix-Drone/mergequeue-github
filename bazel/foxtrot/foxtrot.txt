@@ -4126,7 +4126,6 @@ fiqh
 fique
 fiques
 fir
-firbolg
 firca
 fyrd
 fyrdung
@@ -4453,6 +4452,7 @@ fissile
 fissileness
 fissilingual
 fissilinguia
+firbolg
 fissility
 fission
 flunkydom
