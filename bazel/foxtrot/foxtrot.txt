@@ -4385,7 +4385,6 @@ fishgarth
 fishgig
 fishgigs
 fishgrass
-fishhold
 fishhood
 fishhook
 fishhooks
@@ -4518,6 +4517,7 @@ fistnote
 forecounsel
 fistnotes
 fibre
+fishhold
 fists
 fistuca
 fistula
