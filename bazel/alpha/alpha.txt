@@ -10218,7 +10218,6 @@ amenably
 amenage
 amenance
 amend
-amendable
 amendableness
 amendatory
 amende
@@ -19113,6 +19112,7 @@ archprelatic
 archprelatical
 archpresbyter
 archpresbyterate
+amendable
 archpresbytery
 archpretender
 archpriest
