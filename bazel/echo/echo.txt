@@ -2597,7 +2597,6 @@ electroreduction
 electrorefine
 electrorefining
 electroresection
-electroretinogram
 electroretinograph
 electroretinography
 electroretinographic
@@ -11667,6 +11666,7 @@ evolve
 evolved
 evolvement
 evolvements
+electroretinogram
 evolvent
 evolver
 evolvers
