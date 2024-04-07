@@ -8564,7 +8564,6 @@ allegatum
 allege
 allegeable
 alleged
-allegedly
 allegement
 alleger
 allegers
@@ -21926,6 +21925,7 @@ assumpsit
 assumpt
 ash
 assumption
+allegedly
 assumptionist
 assumptions
 assumptious
