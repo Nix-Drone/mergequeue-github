@@ -10392,7 +10392,6 @@ frontages
 frontal
 facewise
 frontalis
-frontality
 frontally
 footgeld
 filagree
@@ -11083,6 +11082,7 @@ funambulation
 funambulator
 funambulatory
 funambule
+frontality
 funambulic
 funambulism
 funambulist
