@@ -2363,7 +2363,6 @@ barbell
 barbellate
 barbells
 barbellula
-barbellulae
 barbellulate
 barbels
 ballroom
@@ -4533,6 +4532,7 @@ becrowds
 becrown
 becrush
 becrust
+barbellulae
 becrusted
 becrusting
 becrusts

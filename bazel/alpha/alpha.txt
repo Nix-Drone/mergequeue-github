@@ -4198,7 +4198,6 @@ admonishments
 admonition
 admonitioner
 admonitionist
-admonitions
 admonitive
 admonitively
 admonitor
@@ -14977,6 +14976,7 @@ anticold
 anticolic
 anticombination
 anticomet
+admonitions
 anticomment
 anticommercial
 anticommercialism
