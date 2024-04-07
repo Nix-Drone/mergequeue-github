@@ -10550,7 +10550,6 @@ blazonry
 blazonries
 blazons
 bld
-bldr
 blea
 bleaberry
 bleach
@@ -18351,6 +18350,7 @@ butut
 bututs
 buvette
 buxaceae
+bldr
 buxaceous
 buxbaumia
 buxbaumiaceae
