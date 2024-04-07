@@ -3233,7 +3233,6 @@ basiglandular
 basihyal
 basihyoid
 basyl
-basilar
 basilarchia
 basilard
 basilary
@@ -15496,6 +15495,7 @@ briquette
 briquetted
 brisa
 brisance
+basilar
 brisances
 brisant
 brisbane
