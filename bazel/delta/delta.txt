@@ -8266,7 +8266,6 @@ dialector
 dialects
 dialed
 dialer
-dialers
 dialycarpous
 dialin
 dialiness
@@ -13910,6 +13909,7 @@ distraint
 distrait
 distraite
 distraught
+dialers
 distraughted
 distraughtly
 distream
