@@ -2533,7 +2533,6 @@ declinator
 declinatory
 declinature
 decline
-declined
 declinedness
 decliner
 djalmaite
@@ -18243,6 +18242,7 @@ duns
 dunst
 dunstable
 dunster
+declined
 dunstone
 dunt
 dunted
