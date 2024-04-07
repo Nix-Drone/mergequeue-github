@@ -2804,7 +2804,6 @@ baronetage
 baronetcy
 baronetcies
 baroneted
-baronethood
 baronetical
 baroneting
 baronetise
@@ -11150,6 +11149,7 @@ bloomsbury
 bloomsburian
 bloop
 blooped
+baronethood
 byes
 blooper
 bloopers

@@ -6452,6 +6452,7 @@ gob
 goback
 goban
 gobang
+girl
 gobangs
 gobans
 gobbe
@@ -9057,7 +9058,6 @@ grimsir
 grimsire
 grin
 grinagog
-girl
 grinch
 grincome
 grind
