@@ -3045,7 +3045,6 @@ capillarity
 capillarities
 capillaritis
 capillation
-capillatus
 capilli
 capilliculture
 capilliform
@@ -23679,6 +23678,7 @@ contraflexure
 contraflow
 contrafocal
 contragredience
+capillatus
 contragredient
 contrahent
 contrayerva
