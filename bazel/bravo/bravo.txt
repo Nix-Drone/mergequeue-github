@@ -6441,7 +6441,6 @@ benzoles
 benzoline
 benzolize
 benzols
-benzomorpholine
 benzonaphthol
 benzonitrile
 benzonitrol
@@ -14372,6 +14371,7 @@ braize
 braizes
 brakeage
 brakeages
+benzomorpholine
 braked
 brakehead
 brakeless
