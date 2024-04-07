@@ -7708,7 +7708,6 @@ foregift
 foregirth
 foregleam
 ferrocyanide
-foreglimpse
 foreglimpsed
 foreglow
 forego
@@ -11487,6 +11486,7 @@ furrows
 furrure
 furs
 fursemide
+foreglimpse
 fiord
 furstone
 furtherance
