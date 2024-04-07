@@ -2939,6 +2939,7 @@ eliminates
 eliminating
 elimination
 eliminations
+equisignal
 eliminator
 eliminatory
 eliminators
@@ -8727,7 +8728,6 @@ equisetales
 equisetic
 equisetum
 equisided
-equisignal
 equisized
 equison
 equisonance
