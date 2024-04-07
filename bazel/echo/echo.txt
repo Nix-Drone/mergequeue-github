@@ -2549,7 +2549,6 @@ electrophone
 electrophonically
 electrophore
 electrophorese
-electrophoresed
 electrophoreses
 electrophoresing
 electrophoresis
@@ -9255,6 +9254,7 @@ evanid
 erosiveness
 erosivity
 erostrate
+electrophoresed
 erotema
 eroteme
 erotesis
