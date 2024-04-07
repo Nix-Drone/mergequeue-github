@@ -5590,7 +5590,6 @@ glinting
 gliocyte
 glioma
 gliomas
-gliomata
 gliomatous
 gliosa
 glyoxal
@@ -6790,6 +6789,7 @@ gonadotrophin
 gonadotropic
 gonadotropin
 gonads
+gliomata
 gonaduct
 gonagia
 gonagra
