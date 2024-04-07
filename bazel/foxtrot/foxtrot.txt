@@ -6533,7 +6533,6 @@ fluorouracil
 fluors
 fluorspar
 fluosilicate
-fluosilicic
 fluotantalate
 fluotantalic
 fluotitanic
@@ -10105,6 +10104,7 @@ fibrofatty
 friller
 frillery
 frillers
+fluosilicic
 frilly
 frillier
 frilliest
