@@ -9450,7 +9450,6 @@ frankness
 frankpledge
 franks
 franseria
-facing
 frantic
 frantically
 franticly
@@ -10430,6 +10429,7 @@ frontispiece
 frontispiecing
 frontlash
 frontless
+facing
 frontlessly
 frontlessness
 frontlet
