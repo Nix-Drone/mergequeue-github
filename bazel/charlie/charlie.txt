@@ -175,6 +175,7 @@ cabouca
 cabre
 cabree
 cabrerite
+committal
 cabresta
 cabrestas
 cabresto
@@ -20158,7 +20159,6 @@ commitment
 commitments
 commits
 committable
-committal
 committed
 committedly
 committedness
