@@ -6290,6 +6290,7 @@ agneau
 agneaux
 agnel
 agnes
+alternations
 agnification
 agnition
 agnize
@@ -9484,7 +9485,6 @@ alternatingly
 alternation
 afterend
 alternationist
-alternations
 alternative
 alternatively
 alternativeness
