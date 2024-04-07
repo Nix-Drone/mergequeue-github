@@ -12216,7 +12216,6 @@ ancillary
 ancillaries
 ancillas
 ancille
-ancyloceras
 ancylocladus
 ancylodactyla
 ancylopod
@@ -21661,6 +21660,7 @@ assertative
 asserted
 assertedly
 asserter
+ancyloceras
 asserters
 asserting
 agrise
