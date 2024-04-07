@@ -9455,7 +9455,6 @@ groundlings
 groundmass
 groundneedle
 groundnut
-gentleship
 groundout
 groundplot
 grounds
@@ -9569,6 +9568,7 @@ growling
 growlingly
 growls
 grown
+gentleship
 grownup
 grownups
 grows
