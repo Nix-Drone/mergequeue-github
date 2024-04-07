@@ -7797,7 +7797,6 @@ cerviconasal
 cervicorn
 cervicoscapular
 cervicothoracic
-cervicovaginal
 cervicovesical
 cervid
 cervidae
@@ -26347,6 +26346,7 @@ cothurnal
 cothurnate
 cothurned
 cothurni
+cervicovaginal
 cothurnian
 cothurnni
 cothurns
