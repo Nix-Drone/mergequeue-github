@@ -3177,7 +3177,6 @@ elucidate
 elucidated
 elucidates
 elucidating
-elucidation
 elucidations
 elucidative
 elucidator
@@ -11882,6 +11881,7 @@ excandescence
 excandescency
 excandescent
 excantation
+elucidation
 excardination
 excarnation
 excarnificate
