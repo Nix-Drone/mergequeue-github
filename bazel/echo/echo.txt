@@ -5440,6 +5440,7 @@ endshake
 endsheet
 endship
 endue
+exploration
 endued
 enduement
 enduing
@@ -13226,7 +13227,6 @@ exploits
 exploiture
 emporia
 explorable
-exploration
 explorational
 exploratively
 explorativeness
