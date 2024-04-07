@@ -23969,6 +23969,7 @@ conveying
 conveyorization
 conveyorize
 conveyorized
+creaturize
 conveyorizer
 conveyorizing
 conveyors
@@ -28477,7 +28478,6 @@ creatureliness
 creatureling
 creatures
 creatureship
-creaturize
 creaze
 crebricostate
 crebrisulcate
