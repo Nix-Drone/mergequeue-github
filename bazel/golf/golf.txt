@@ -4173,7 +4173,6 @@ gillnetting
 gillotage
 gillotype
 gills
-gillstoup
 gilo
 gilour
 gilpey
@@ -5010,6 +5009,7 @@ glacious
 glacises
 glack
 glad
+gillstoup
 gladatorial
 gladded
 gladden
