@@ -9140,7 +9140,6 @@ erythrocytometer
 erythrocytometry
 erythrocytorrhexis
 erythrocytoschisis
-elastics
 erythrocytosis
 erythroclasis
 erythroclastic
@@ -9966,6 +9965,7 @@ estherian
 estheriidae
 estheses
 esthesia
+elastics
 esthesio
 esthesioblast
 esthesiogen
