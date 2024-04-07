@@ -8148,7 +8148,6 @@ episematic
 episememe
 episepalous
 episyllogism
-episynaloephe
 episynthetic
 essayette
 episyntheton
@@ -9347,6 +9346,7 @@ errorless
 errors
 errs
 errsyn
+episynaloephe
 ers
 ersar
 ersatz
