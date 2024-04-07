@@ -11816,7 +11816,6 @@ discussant
 discussed
 discusser
 discusses
-discussible
 discussing
 discussion
 discussional
@@ -18548,6 +18547,7 @@ dysoxidize
 dustee
 duster
 dusterman
+discussible
 dustermen
 dusters
 dustfall
