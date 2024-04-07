@@ -363,7 +363,6 @@ daydrudge
 dayfly
 dayflies
 dayflower
-dayflowers
 dayglow
 dayglows
 daygoing
@@ -3545,6 +3544,7 @@ deftnesses
 defunct
 defunction
 defunctionalization
+dayflowers
 defunctionalize
 defunctive
 defunctness
