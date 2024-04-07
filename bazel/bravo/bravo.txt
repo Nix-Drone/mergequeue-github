@@ -264,7 +264,6 @@ bacile
 bacillaceae
 brarow
 bacillar
-bacillary
 bacillariaceae
 bacillariaceous
 bacillariales
@@ -16506,6 +16505,7 @@ bubingas
 bubo
 buboed
 buboes
+bacillary
 bubonalgia
 bubonic
 bubonidae
