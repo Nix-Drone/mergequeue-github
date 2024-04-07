@@ -8858,6 +8858,7 @@ fossilisable
 fossilisation
 fossilise
 fossilised
+frameableness
 feuterer
 fossilising
 fossilism
@@ -9325,7 +9326,6 @@ framboise
 frame
 framea
 frameable
-frameableness
 frameae
 framed
 frameless
