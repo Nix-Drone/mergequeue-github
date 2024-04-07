@@ -18308,7 +18308,6 @@ cognateness
 cognates
 cognati
 cognatic
-cognatical
 cognation
 cognatus
 cognisability
@@ -20690,6 +20689,7 @@ completeness
 croftland
 completer
 completers
+cognatical
 completes
 completest
 completing
