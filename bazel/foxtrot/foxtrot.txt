@@ -4834,6 +4834,7 @@ flayer
 flayers
 flayflint
 flaying
+fluorometer
 flail
 flailed
 flailing
@@ -6516,7 +6517,6 @@ fluorogenic
 fluorography
 fluorographic
 fluoroid
-fluorometer
 fluorometry
 fluorophosphate
 fluoroscoped
