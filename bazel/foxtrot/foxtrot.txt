@@ -6883,6 +6883,7 @@ fold
 foldable
 fevers
 foldage
+foresettle
 foldaway
 foldboat
 foldboater
@@ -7983,7 +7984,6 @@ foresense
 foremanship
 foresentence
 foreset
-foresettle
 foresettled
 foreshadow
 fondak
