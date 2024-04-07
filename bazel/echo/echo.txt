@@ -1129,7 +1129,6 @@ edition
 editions
 editor
 editorial
-editorialist
 editorialization
 editorializations
 editorialize
@@ -9775,6 +9774,7 @@ espinal
 espinel
 espinette
 espingole
+editorialist
 espinillo
 espino
 espinos
