@@ -5944,6 +5944,7 @@ floodmark
 floodplain
 floodproof
 floods
+fortifiable
 floodtime
 floodway
 feute
@@ -8708,7 +8709,6 @@ forties
 fortieth
 fortieths
 fortify
-fortifiable
 fortification
 fortifications
 fortifier
