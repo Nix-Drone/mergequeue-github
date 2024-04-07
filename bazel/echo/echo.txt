@@ -4589,7 +4589,6 @@ encephalosclerosis
 encephaloscope
 encephaloscopy
 encephalosepsis
-encephalosis
 encephalospinal
 externize
 encephalothlipsis
@@ -6174,6 +6173,7 @@ enorn
 enos
 enosis
 enosises
+encephalosis
 enosist
 enostosis
 enough
