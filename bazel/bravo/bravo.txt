@@ -3132,7 +3132,6 @@ basename
 behove
 baseness
 basenesses
-basenet
 basenji
 basenjis
 baseplate
@@ -15665,6 +15664,7 @@ broadspread
 broadsword
 broadswords
 broadtail
+basenet
 broadthroat
 broadway
 broadwayite
