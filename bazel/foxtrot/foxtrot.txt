@@ -3096,7 +3096,6 @@ fibrocarcinoma
 fibrocartilage
 fibrocartilaginous
 fibrocaseose
-fibrocaseous
 fibrocellular
 fibrocement
 fibrochondritis
@@ -11548,6 +11547,7 @@ fusees
 fusel
 fuselage
 fuselages
+fibrocaseous
 fuseless
 fuselike
 fusels
