@@ -2418,6 +2418,7 @@ electrogilding
 electrogilt
 electrogram
 electrograph
+epimers
 electrography
 electrographic
 electrographite
@@ -7952,7 +7953,6 @@ epimerize
 epimerized
 epimerizing
 epimeron
-epimers
 epimerum
 enchains
 epimyocardial
