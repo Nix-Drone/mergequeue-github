@@ -672,7 +672,6 @@ ecliptic
 ecliptical
 ecliptically
 ecliptics
-eclogic
 eclogite
 eclogites
 eclogue
@@ -11177,6 +11176,7 @@ euro
 euroaquilo
 eurobin
 eurocentric
+eclogic
 euroclydon
 eurodollar
 eurodollars
