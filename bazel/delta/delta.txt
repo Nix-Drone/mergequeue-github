@@ -9460,7 +9460,6 @@ digestional
 digestive
 digestively
 digestiveness
-digestment
 digestor
 digestory
 digestors
@@ -18537,6 +18536,7 @@ dustbins
 dustblu
 dustbox
 dustcart
+digestment
 dustcloth
 detectably
 dustcover
