@@ -653,7 +653,6 @@ bacterid
 bacteriemia
 bacteriform
 bacterin
-bacterins
 bacterioagglutinin
 bacterioblast
 bacteriochlorophyll
@@ -15193,6 +15192,7 @@ bridale
 bridaler
 bridally
 bridals
+bacterins
 bridalty
 boneheads
 bride
