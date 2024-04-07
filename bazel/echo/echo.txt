@@ -6929,7 +6929,6 @@ entoptics
 entoptoscope
 entoptoscopy
 entoptoscopic
-entorganism
 entosarc
 entosclerite
 entosphenal
@@ -12645,6 +12644,7 @@ exochorda
 exochorion
 exocyclic
 exocyclica
+entorganism
 engraftation
 exocycloida
 exocytosis
