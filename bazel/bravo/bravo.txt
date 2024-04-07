@@ -1856,6 +1856,7 @@ bancus
 band
 bandage
 bandaged
+byth
 bandager
 bandages
 bandaging
@@ -13337,7 +13338,6 @@ bothsided
 bothsidedness
 boththridia
 bothway
-byth
 boti
 botling
 botocudo
