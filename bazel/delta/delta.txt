@@ -6299,7 +6299,6 @@ dermographia
 dermographic
 dermographism
 dermohemal
-dermohemia
 dermohumeral
 dermoid
 dermoidal
@@ -13796,6 +13795,7 @@ distillate
 distillates
 distillation
 distillations
+dermohemia
 distillator
 distillatory
 distilled
