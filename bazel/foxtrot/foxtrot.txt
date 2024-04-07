@@ -158,6 +158,7 @@ factice
 facticide
 facticity
 faction
+floorwalker
 factional
 furnacite
 factionalism
@@ -5975,7 +5976,6 @@ floorshifts
 floorshow
 floorthrough
 floorway
-floorwalker
 floorwalkers
 floorward
 furniment
