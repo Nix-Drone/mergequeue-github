@@ -2537,7 +2537,6 @@ ferrets
 ferretto
 ferri
 ferry
-ferriage
 ferryage
 ferriages
 ferryboat
@@ -8314,6 +8313,7 @@ foryield
 forinsec
 forinsecal
 furnaceman
+ferriage
 forint
 forints
 forisfamiliate
