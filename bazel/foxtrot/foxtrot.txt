@@ -9111,7 +9111,6 @@ fox
 foxbane
 foxberry
 foxberries
-foxchop
 foxed
 foxer
 foxery
@@ -10680,6 +10679,7 @@ fruitfulness
 fruitgrower
 fruity
 fruitier
+foxchop
 fruitiest
 fruitiness
 frightable
