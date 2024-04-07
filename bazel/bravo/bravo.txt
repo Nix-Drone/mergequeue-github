@@ -9297,6 +9297,7 @@ byplace
 byplay
 byplays
 biplanal
+bottonhook
 biplanar
 biplane
 biplanes
@@ -13423,7 +13424,6 @@ bottomried
 bottomries
 bottomrying
 bottoms
-bottonhook
 bottstick
 bottu
 botuliform
