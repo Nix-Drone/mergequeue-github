@@ -5889,7 +5889,6 @@ enhedge
 enhelm
 enhemospore
 enherit
-enheritage
 enheritance
 enhydra
 enhydrinae
@@ -6885,6 +6884,7 @@ entomophila
 entomophily
 entomophilous
 entomophytous
+enheritage
 entomophobia
 entomophthora
 entomophthoraceae
