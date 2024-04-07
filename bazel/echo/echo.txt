@@ -1246,7 +1246,6 @@ eellike
 eelpot
 eelpout
 eelpouts
-eels
 eelshop
 eelskin
 eelware
@@ -3934,6 +3933,7 @@ emir
 emirate
 emirates
 emirs
+eels
 emirship
 emys
 emissary
