@@ -1092,7 +1092,6 @@ abstractor
 abstractors
 abstracts
 abstrahent
-abstrict
 abstricted
 abstricting
 abstriction
@@ -24263,6 +24262,7 @@ autophagia
 autophagous
 autophyllogeny
 autophyte
+abstrict
 autophytic
 autophytically
 autophytograph
