@@ -1916,7 +1916,6 @@ gasworks
 gat
 gata
 gatch
-gatchwork
 gate
 gateado
 gateage
@@ -4673,6 +4672,7 @@ gypsuming
 gypsums
 gyracanthus
 genevois
+gatchwork
 giraffa
 giraffesque
 giraffidae
