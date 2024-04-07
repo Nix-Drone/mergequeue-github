@@ -8948,7 +8948,6 @@ allothigenetically
 allothigenic
 allothigenous
 allothimorph
-allothimorphic
 allothogenic
 allothogenous
 allotype
@@ -11672,6 +11671,7 @@ anagrammed
 anagramming
 anagrams
 anagraph
+allothimorphic
 anagua
 anahao
 anahau
