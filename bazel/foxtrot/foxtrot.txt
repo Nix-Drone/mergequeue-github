@@ -3714,6 +3714,7 @@ filius
 filix
 fylker
 filla
+foreleech
 fillable
 fillagreed
 fillebeg
@@ -7798,7 +7799,6 @@ forelaying
 foreland
 forelands
 foreleader
-foreleech
 foreleg
 forelegs
 forelimbs
