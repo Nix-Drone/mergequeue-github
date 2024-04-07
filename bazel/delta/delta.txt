@@ -3630,7 +3630,6 @@ degold
 degomme
 degorder
 degorge
-degradability
 degradable
 degradand
 degradation
@@ -16308,6 +16307,7 @@ downset
 downshare
 downshift
 downshifted
+degradability
 downshifting
 downshifts
 downshore
