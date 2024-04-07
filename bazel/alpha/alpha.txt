@@ -9737,7 +9737,6 @@ amalgamable
 amalgamate
 amalgamated
 amalgamater
-amalgamates
 amalgamating
 amalgamation
 amalgamationist
@@ -25241,6 +25240,7 @@ azygosperm
 azygospore
 azygote
 azygous
+amalgamates
 azilian
 azilut
 azyme
