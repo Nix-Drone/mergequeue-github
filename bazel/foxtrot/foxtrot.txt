@@ -6514,7 +6514,6 @@ fluorographic
 fluoroid
 fluorometer
 fluorometry
-fluorometric
 fluorophosphate
 fluoroscoped
 fluoroscopes
@@ -9719,6 +9718,7 @@ freethink
 forbidal
 freethinker
 freethinkers
+fluorometric
 freethinking
 freety
 freetrader
