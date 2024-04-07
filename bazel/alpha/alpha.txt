@@ -14252,6 +14252,7 @@ anteriorness
 anteriors
 anteroclusion
 anterodorsal
+auriculovertical
 anteroexternal
 anterofixation
 anteroflexion
@@ -23567,7 +23568,6 @@ auriculoparietal
 auriculotemporal
 auriculoventricular
 anticreation
-auriculovertical
 auride
 auriferous
 aurifex
