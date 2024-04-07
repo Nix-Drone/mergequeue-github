@@ -4305,7 +4305,6 @@ emulsible
 emulsic
 emulsify
 emulsifiability
-emulsification
 emulsifications
 emulsified
 emulsifier
@@ -11148,6 +11147,7 @@ euryscope
 eurystomatous
 eurite
 euryte
+emulsification
 eurytherm
 eurythermal
 eurythermic
