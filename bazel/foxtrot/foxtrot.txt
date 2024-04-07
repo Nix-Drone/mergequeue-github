@@ -1550,7 +1550,6 @@ favonian
 forcedness
 favonius
 favor
-favorability
 favorable
 favorableness
 favorably
@@ -6139,6 +6138,7 @@ flota
 flotage
 flotages
 flotant
+favorability
 flotas
 flotative
 flote
