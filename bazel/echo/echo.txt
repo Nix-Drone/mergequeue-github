@@ -8237,7 +8237,6 @@ epistolize
 epistolized
 epistolizer
 epistolizing
-epistolographer
 epistolography
 epistolographic
 epistolographist
@@ -10324,6 +10323,7 @@ ethylbenzene
 ethyldichloroarsine
 ethylenation
 ethylene
+epistolographer
 ethylenediamine
 ethylenes
 ethylenic
