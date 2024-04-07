@@ -2421,7 +2421,6 @@ electrogenetic
 electrogenic
 electrogild
 electrogilding
-electrogilt
 electrogram
 electrograph
 electrography
@@ -9077,6 +9076,7 @@ eris
 europhium
 erysimum
 erysipelas
+electrogilt
 erysipelatoid
 erotized
 ecumenic
