@@ -2808,7 +2808,6 @@ decresc
 decrescendo
 decrescendos
 decrescent
-decretal
 dorlot
 decretalist
 decretals
@@ -14656,6 +14655,7 @@ dockyard
 dockyardman
 dockyards
 docking
+decretal
 dockization
 dockize
 dockland
