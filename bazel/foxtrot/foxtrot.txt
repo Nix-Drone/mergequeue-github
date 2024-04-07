@@ -5492,7 +5492,6 @@ flet
 fleta
 fletch
 fletched
-fletcher
 fletcherism
 fletcherite
 fletcherize
@@ -8362,6 +8361,7 @@ forksmith
 forktail
 forkwise
 fruiterer
+fletcher
 forlay
 forlain
 forlana
