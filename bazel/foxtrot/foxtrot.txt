@@ -4649,7 +4649,6 @@ fixings
 fixion
 falter
 fixity
-fixities
 fixive
 fixt
 fixture
@@ -5829,6 +5828,7 @@ floatboard
 firesides
 floated
 floater
+fixities
 floaters
 floaty
 floatier
