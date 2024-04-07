@@ -1485,7 +1485,6 @@ deaconry
 deaconries
 deacons
 deaconship
-deactivate
 deactivated
 deactivates
 discontinuing
@@ -12712,6 +12711,7 @@ dehypnotize
 dysmenorrhagia
 dysmenorrhea
 dysmenorrheal
+deactivate
 dysmenorrheic
 dysmenorrhoea
 dysmenorrhoeal
