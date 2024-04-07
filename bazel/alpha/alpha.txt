@@ -5235,6 +5235,7 @@ aevia
 aeviternal
 aevum
 af
+anemometry
 aface
 afaced
 afacing
@@ -12503,7 +12504,6 @@ anemologic
 anemological
 anemometer
 anemometers
-anemometry
 anemometrical
 anemometrically
 anemometrograph
