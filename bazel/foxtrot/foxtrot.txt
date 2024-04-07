@@ -1027,6 +1027,7 @@ farmed
 farmer
 farmeress
 farmerette
+flocklike
 farmery
 farmeries
 farmerish
@@ -5887,7 +5888,6 @@ flockiest
 flocking
 flockings
 flockless
-flocklike
 flockman
 flockmaster
 florigraphy
