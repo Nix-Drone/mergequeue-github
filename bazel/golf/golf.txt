@@ -6441,6 +6441,7 @@ goatsfoot
 goatskin
 goatskins
 goatstone
+granulitic
 goatsucker
 gaum
 goatweed
@@ -8117,7 +8118,6 @@ granules
 granulet
 granuliform
 granulite
-granulitic
 granulitis
 granulitization
 granulitize
