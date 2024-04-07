@@ -5245,7 +5245,6 @@ begild
 begin
 bangster
 beginger
-beginner
 beginners
 beginning
 beginnings
@@ -12275,6 +12274,7 @@ bombarding
 bombardman
 boughless
 bombardmen
+beginner
 bombardment
 bombardments
 bombardo
