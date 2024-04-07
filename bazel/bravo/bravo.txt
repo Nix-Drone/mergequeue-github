@@ -3003,7 +3003,6 @@ barrow
 barrowcoat
 barrowful
 barrowist
-barrowman
 barrows
 barrulee
 barrulet
@@ -6178,6 +6177,7 @@ beneficium
 benefit
 benefited
 benefiter
+barrowman
 bothros
 benefiting
 benefits

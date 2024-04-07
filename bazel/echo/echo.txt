@@ -2566,7 +2566,6 @@ electrophorus
 electrophotography
 electrophotographic
 exempla
-electrophotometry
 eventuates
 electrophotomicrography
 electrophototherapy
@@ -12287,6 +12286,7 @@ exect
 executable
 executant
 execute
+electrophotometry
 executed
 encastage
 executer
