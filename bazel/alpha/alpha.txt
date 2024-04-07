@@ -3282,7 +3282,6 @@ actuary
 actuarial
 actuarially
 actuarian
-actuaries
 actuaryship
 actuate
 actuated
@@ -21633,6 +21632,7 @@ assemblies
 assemblyman
 assemblymen
 assembling
+actuaries
 assemblywoman
 assemblywomen
 assent
