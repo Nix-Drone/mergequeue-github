@@ -2483,7 +2483,6 @@ electrometallurgy
 electrometallurgical
 electrometallurgist
 electrometer
-electrometry
 enage
 electrometric
 electrometrical
@@ -5246,6 +5245,7 @@ endoplastule
 endopleura
 endopleural
 endopleurite
+electrometry
 endopleuritic
 endopod
 endopodite
