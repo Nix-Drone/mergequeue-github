@@ -7336,7 +7336,6 @@ goss
 gossamer
 gossamered
 gossamery
-gossameriness
 gossamers
 gossampine
 gossan
@@ -8531,6 +8530,7 @@ gravure
 gravures
 gry
 grazable
+gossameriness
 graze
 grazed
 grazer
