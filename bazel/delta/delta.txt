@@ -7206,7 +7206,6 @@ determ
 determa
 determent
 determents
-determinable
 determinableness
 determinably
 determinacy
@@ -9888,6 +9887,7 @@ dimethylanthranilate
 dimethylbenzene
 dimethylcarbinol
 dimethyldiketone
+determinable
 dimethylhydrazine
 dimethylketol
 dimethylketone
