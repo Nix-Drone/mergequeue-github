@@ -1368,6 +1368,7 @@ fatiguabilities
 fatiguable
 fatigue
 fatigued
+formicina
 fatigueless
 fatigues
 fatiguesome
@@ -8484,7 +8485,6 @@ formicicide
 formicid
 formicidae
 formicide
-formicina
 formicine
 formicivora
 formicivorous
