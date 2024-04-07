@@ -4590,6 +4590,7 @@ encephaloscopy
 encephalosepsis
 encephalosis
 encephalospinal
+externize
 encephalothlipsis
 encephalotome
 encephalotomy
@@ -13640,7 +13641,6 @@ externe
 externes
 externity
 externization
-externize
 externomedian
 externs
 externship
