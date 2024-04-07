@@ -4514,7 +4514,6 @@ adults
 adumbral
 adumbrant
 adumbrated
-adumbrates
 adumbrating
 adumbration
 adumbrations
@@ -12176,6 +12175,7 @@ anchorets
 anchorhold
 anchory
 anchoring
+adumbrates
 anchorite
 anchorites
 anchoritess
