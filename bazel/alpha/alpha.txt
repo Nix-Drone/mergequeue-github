@@ -521,7 +521,6 @@ abjurers
 abjures
 abjuring
 abkar
-abkari
 abkary
 abkhas
 abkhasian
@@ -6873,6 +6872,7 @@ aircrewmen
 aircrews
 airdate
 airdates
+abkari
 airdock
 airdrome
 airdromes
