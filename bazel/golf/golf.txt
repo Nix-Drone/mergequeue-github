@@ -5238,7 +5238,6 @@ glassrope
 glassteel
 gitaligenin
 glassware
-glassweed
 glasswork
 guider
 glassworker
@@ -8360,6 +8359,7 @@ grates
 gratewise
 grather
 gratia
+glassweed
 gratiano
 gratias
 graticulate
