@@ -656,7 +656,6 @@ bacterioblast
 bacteriochlorophyll
 bacteriocidal
 bacteriocin
-bacteriocyte
 bacteriodiagnosis
 bacteriofluorescin
 bara
@@ -13230,6 +13229,7 @@ bosuns
 boswell
 boswellia
 boswellian
+bacteriocyte
 boswelliana
 bowge
 boswellism
