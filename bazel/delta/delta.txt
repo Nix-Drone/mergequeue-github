@@ -9162,6 +9162,7 @@ die
 dye
 dyeability
 dyeable
+ditriglyph
 dieb
 dieback
 diebacks
@@ -14157,7 +14158,6 @@ ditremid
 despectant
 ditremidae
 ditrichotomous
-ditriglyph
 ditriglyphic
 ditrigonal
 ditrigonally
