@@ -6069,7 +6069,6 @@ enmity
 enmities
 enmoss
 enmove
-enmuffle
 enneacontahedral
 enneacontahedron
 ennead
@@ -11628,6 +11627,7 @@ eviting
 evittate
 evocable
 evocated
+enmuffle
 evocating
 evocation
 evocations
