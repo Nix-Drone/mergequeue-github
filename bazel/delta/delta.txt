@@ -2342,7 +2342,6 @@ decibel
 decibels
 deciceronize
 decidability
-decidable
 decide
 decided
 decidedly
@@ -15726,6 +15725,7 @@ dorn
 dorneck
 dornecks
 dornic
+decidable
 dornick
 dornicks
 dornock
