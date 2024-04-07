@@ -2764,7 +2764,6 @@ festoons
 festschrift
 festschriften
 flots
-festschrifts
 festshrifts
 festuca
 festucine
@@ -7720,6 +7719,7 @@ foreguess
 foreguidance
 foregut
 foreguts
+festschrifts
 forehalf
 forehall
 forehammer
