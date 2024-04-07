@@ -4325,7 +4325,6 @@ emulsoids
 emulsor
 emunct
 emunctory
-emunctories
 emundation
 eches
 emunge
@@ -6575,6 +6574,7 @@ enterfeat
 entergogenic
 enteria
 enteric
+emunctories
 entericoid
 entering
 enteritidis
