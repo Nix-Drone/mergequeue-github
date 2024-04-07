@@ -1941,7 +1941,6 @@ ejam
 eject
 ejecta
 ejectable
-etrogs
 ejectamenta
 ejected
 endomyces
@@ -2406,6 +2405,7 @@ electrogalvanic
 electrogalvanization
 electrogasdynamics
 endosternite
+etrogs
 electrogenesis
 electrogenetic
 electrogenic
