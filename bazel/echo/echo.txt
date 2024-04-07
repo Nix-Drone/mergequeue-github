@@ -5959,6 +5959,7 @@ enjoined
 enjoiner
 enjoiners
 enjoining
+etherialize
 enjoinment
 enjoins
 enjoys
@@ -10258,7 +10259,6 @@ etherialised
 etherialising
 etherialism
 etherialization
-etherialize
 etherialized
 etherializing
 etherially
