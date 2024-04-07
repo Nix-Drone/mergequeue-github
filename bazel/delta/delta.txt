@@ -3197,7 +3197,6 @@ drool
 defenceable
 defenceless
 defencelessly
-defencelessness
 defences
 defencive
 defend
@@ -12096,6 +12095,7 @@ disfigure
 disfigured
 disfigurement
 disfigurements
+defencelessness
 disfigurer
 disfigures
 disfiguring
