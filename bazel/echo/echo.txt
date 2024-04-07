@@ -5046,6 +5046,7 @@ enditing
 endive
 endives
 endjunk
+evens
 endleaf
 endleaves
 endless
@@ -11461,7 +11462,6 @@ evenminded
 evenmindedness
 evenness
 evennesses
-evens
 evensong
 evensongs
 event
