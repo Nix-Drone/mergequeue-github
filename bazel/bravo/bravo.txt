@@ -2849,7 +2849,6 @@ baroswitch
 barotactic
 barotaxy
 barotaxis
-barothermogram
 barothermograph
 barothermohygrogram
 barothermohygrograph
@@ -10474,6 +10473,7 @@ blasts
 blastula
 blastulae
 blastular
+barothermogram
 blastulas
 blastulation
 blastule
