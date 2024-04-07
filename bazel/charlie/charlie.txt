@@ -1890,7 +1890,6 @@ camions
 camis
 camisa
 camisade
-camisades
 camisado
 camisadoes
 camisados
@@ -5318,6 +5317,7 @@ casuistic
 casuistical
 casuistically
 casuistry
+camisades
 conductances
 casuistries
 casuists
