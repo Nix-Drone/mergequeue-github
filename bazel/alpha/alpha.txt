@@ -6301,7 +6301,6 @@ agnomical
 agnomina
 agnominal
 agnomination
-agnosy
 agnosia
 agnosias
 agnosis
@@ -21916,6 +21915,7 @@ assument
 assumer
 assumers
 assumes
+agnosy
 assuming
 assumingly
 assumingness
