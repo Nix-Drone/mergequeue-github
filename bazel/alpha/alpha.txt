@@ -20475,7 +20475,6 @@ arteriodialysis
 arteriodiastasis
 arteriofibrosis
 arteriogenesis
-arteriogram
 arteriograph
 arteriography
 arteriographic
@@ -24891,6 +24890,7 @@ avulses
 avulsing
 avulsion
 avulsions
+arteriogram
 avuncular
 avunculate
 avunculize
