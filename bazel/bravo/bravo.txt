@@ -2780,6 +2780,7 @@ barology
 barolong
 baromacrometer
 barometer
+boroughship
 barometers
 barometry
 barometric
@@ -13096,7 +13097,6 @@ boroughmonger
 boroughmongery
 boroughmongering
 boroughs
-boroughship
 boroughwide
 borowolframic
 borracha
