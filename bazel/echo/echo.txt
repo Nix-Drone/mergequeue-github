@@ -9780,6 +9780,7 @@ espinos
 enfoil
 esplanade
 esplees
+evaluators
 esponton
 espontoon
 espousage
@@ -11316,7 +11317,6 @@ evaluations
 evaluative
 evaluator
 electrocardiography
-evaluators
 evalue
 evan
 evanesce
