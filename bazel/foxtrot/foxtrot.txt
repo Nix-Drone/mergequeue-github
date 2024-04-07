@@ -1054,6 +1054,7 @@ farmost
 farmout
 fisc
 farmplace
+footwarmers
 farms
 farmscape
 farmstead
@@ -4695,7 +4696,6 @@ flabbergasts
 flabby
 flabbier
 flabbiest
-footwarmers
 flabbily
 flabbiness
 flabel
