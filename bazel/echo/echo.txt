@@ -2287,7 +2287,6 @@ earthenware
 electrizer
 electrizing
 electro
-electroacoustic
 electroacoustical
 electroacoustically
 electroacoustics
@@ -6991,6 +6990,7 @@ entre
 entreasure
 entreasured
 entreasuring
+electroacoustic
 entreat
 entreatable
 entreated
