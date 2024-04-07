@@ -1509,7 +1509,6 @@ deadest
 deadfall
 deadfalls
 dures
-deadflat
 deadhead
 deadheaded
 deadheading
@@ -16890,6 +16889,7 @@ dreamscape
 dreamsy
 dreamsily
 dreamsiness
+deadflat
 dreamt
 dreamtide
 dreamtime
