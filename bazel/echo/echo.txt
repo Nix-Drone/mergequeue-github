@@ -2257,7 +2257,6 @@ electrepeter
 electress
 electret
 electrets
-electric
 electrical
 electricalize
 electrically
@@ -11434,6 +11433,7 @@ evene
 evener
 errite
 eveners
+electric
 evenest
 evenfall
 evenfalls
