@@ -15345,7 +15345,6 @@ clamper
 clampers
 clamping
 clamps
-clams
 clamshell
 clamshells
 clamworm
@@ -26236,6 +26235,7 @@ costoclavicular
 costocolic
 costocoracoid
 costodiaphragmatic
+clams
 costogenic
 costoinferior
 costophrenic
