@@ -8094,6 +8094,7 @@ forestland
 forestless
 forestlike
 forestology
+frabbit
 forestral
 forestress
 forestries
@@ -9165,7 +9166,6 @@ fpsps
 fr
 fra
 frab
-frabbit
 frabjous
 frabjously
 fracas
