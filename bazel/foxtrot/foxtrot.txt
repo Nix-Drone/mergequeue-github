@@ -6899,7 +6899,6 @@ folderols
 folders
 foldy
 folding
-foldless
 foldout
 foldouts
 folds
@@ -11063,6 +11062,7 @@ fumingly
 fumish
 fumishing
 fumishly
+foldless
 fumishness
 fumitory
 floricultural
