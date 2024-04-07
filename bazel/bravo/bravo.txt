@@ -4446,7 +4446,6 @@ beclad
 beclamor
 biopsies
 beclamored
-beclamoring
 beclamors
 beclamour
 beclang
@@ -11604,6 +11603,7 @@ boatings
 boation
 boatkeeper
 boatless
+beclamoring
 boatlike
 boatlip
 boatload
