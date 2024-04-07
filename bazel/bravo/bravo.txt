@@ -1201,7 +1201,6 @@ bakeries
 bakerite
 bakerless
 bakerly
-bakerlike
 bakers
 beslaver
 bakersfield
@@ -10427,6 +10426,7 @@ blastoderm
 blastodermatic
 blastodermic
 balcone
+bakerlike
 blastodisc
 blastodisk
 blastoff
