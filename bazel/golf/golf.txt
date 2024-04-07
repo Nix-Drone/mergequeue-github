@@ -2927,7 +2927,6 @@ gentlepeople
 gentler
 gentles
 gentlest
-gentlewoman
 gentlewomanhood
 gentlewomanish
 gentlewomanly
@@ -8684,6 +8683,7 @@ greenhide
 greenhood
 greenhorn
 greenhornism
+gentlewoman
 greenhouse
 greenhouses
 greeny
