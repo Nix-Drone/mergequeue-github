@@ -8196,7 +8196,6 @@ epistasy
 epistasies
 epistasis
 electrophotometer
-epistatic
 epistaxis
 episteme
 epistemic
@@ -10909,6 +10908,7 @@ eunicid
 eunicidae
 eunomy
 eunomia
+epistatic
 eunomian
 empiriological
 eunomianism
