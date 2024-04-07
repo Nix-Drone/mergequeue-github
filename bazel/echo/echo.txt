@@ -4641,7 +4641,6 @@ enchelycephali
 enchequer
 encheson
 enchesoun
-enchest
 enchilada
 enchiladas
 enchylema
@@ -8812,6 +8811,7 @@ eradicable
 eradicably
 eradicant
 eradicate
+enchest
 eradicated
 eradicates
 eradicating
