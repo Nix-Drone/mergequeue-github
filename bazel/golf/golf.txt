@@ -1748,7 +1748,6 @@ gastrocnemii
 gastrocnemius
 gastrocoel
 gastrocolic
-gastrocoloptosis
 gastrocolostomy
 gastrocolotomy
 gastrocolpotomy
@@ -3978,6 +3977,7 @@ gifting
 giftless
 giftlike
 giftling
+gastrocoloptosis
 gifts
 genson
 gifture
