@@ -198,6 +198,7 @@ factories
 factorylike
 factoring
 factoryship
+fpsps
 factorist
 factorization
 factorizations
@@ -9165,7 +9166,6 @@ fp
 fplot
 fpm
 fps
-fpsps
 fr
 fra
 frab
