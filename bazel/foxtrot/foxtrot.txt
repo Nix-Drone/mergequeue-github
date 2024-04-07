@@ -5043,7 +5043,6 @@ flashbulb
 flashbulbs
 flashcube
 flashcubes
-flashed
 fibrils
 flasher
 flashers
@@ -5095,6 +5094,7 @@ flatbeds
 flatboat
 flatboats
 flatbottom
+flashed
 flatbrod
 flatcap
 flatcaps
