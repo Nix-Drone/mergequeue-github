@@ -5956,7 +5956,6 @@ flook
 floor
 floorage
 floorages
-floorboard
 floorboards
 foveated
 floorcloth
@@ -6263,6 +6262,7 @@ fluctigerous
 fluctisonant
 fluctuable
 fluctuant
+floorboard
 fluctuate
 fluctuated
 fenouillet
