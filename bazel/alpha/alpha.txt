@@ -4545,6 +4545,7 @@ advancement
 advancements
 advancer
 advancers
+antelucan
 advances
 advancing
 advancingly
@@ -14141,7 +14142,6 @@ antelocation
 antelope
 antelopes
 antelopine
-antelucan
 antelude
 anteluminary
 antemarginal
