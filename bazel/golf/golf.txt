@@ -562,7 +562,6 @@ galleins
 galleypot
 galleys
 galleyworm
-galleon
 galleons
 galler
 gallera
@@ -7360,6 +7359,7 @@ gossipmongering
 gossypol
 gossypols
 gossypose
+galleon
 gossipped
 gossipping
 gossipred
