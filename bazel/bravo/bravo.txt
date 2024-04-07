@@ -3947,7 +3947,6 @@ bdellouridae
 bhutia
 bdellovibrio
 bdft
-bdl
 bdle
 bdls
 bds
@@ -5767,6 +5766,7 @@ belli
 belly
 bellyache
 bellyached
+bdl
 bellyacher
 bellyaches
 bellyaching
