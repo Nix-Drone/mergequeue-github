@@ -4820,7 +4820,6 @@ firepower
 flagstaff
 flagstaffs
 fitchy
-flagstaves
 flagstick
 flagstones
 flagworm
@@ -7707,6 +7706,7 @@ foregate
 foregift
 foregirth
 foregleam
+flagstaves
 ferrocyanide
 foreglimpse
 foreglimpsed
