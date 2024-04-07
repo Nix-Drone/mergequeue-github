@@ -6055,7 +6055,6 @@ bemuzzle
 bemuzzled
 bol
 bemuzzles
-bemuzzling
 ben
 bena
 benab
@@ -12903,6 +12902,7 @@ boppers
 bopping
 boppist
 bops
+bemuzzling
 bopster
 bor
 bora
