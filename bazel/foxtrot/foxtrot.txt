@@ -8004,7 +8004,6 @@ foreshoulder
 foreshow
 foreshowed
 foreshower
-foreshowing
 foreshown
 foreshows
 foreshroud
@@ -10784,6 +10783,7 @@ ftnerr
 fu
 fuage
 fub
+foreshowing
 fubbed
 faujdar
 fubbery
