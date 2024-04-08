@@ -5792,7 +5792,6 @@ flyweight
 flyweights
 forthon
 flywheel
-flywheels
 flywinch
 flywire
 flywort
@@ -7083,6 +7082,7 @@ fonted
 fontes
 fontful
 fonticulus
+flywheels
 fontina
 fontinal
 feelingly
