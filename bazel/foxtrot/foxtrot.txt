@@ -1644,6 +1644,7 @@ fconv
 fconvert
 farcin
 fcp
+flouts
 fcs
 fdname
 fdnames
@@ -6192,7 +6193,6 @@ flouter
 flouters
 flouting
 floutingly
-flouts
 fetoplacental
 foredoor
 flowable
