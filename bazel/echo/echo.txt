@@ -2638,6 +2638,7 @@ electrostatical
 electrostatics
 electrosteel
 electrostenolysis
+entities
 electrostenolytic
 electrostereotype
 electrostriction
@@ -6827,7 +6828,6 @@ entiris
 entirities
 entitative
 entitatively
-entities
 emetin
 entitle
 entitled
