@@ -14146,7 +14146,6 @@ circles
 circlet
 circleting
 circlets
-circlewise
 circline
 circling
 circocele
@@ -29486,6 +29485,7 @@ cristino
 cristispira
 cristivomer
 cristobalite
+circlewise
 crystograph
 cerebrums
 crystoleum
