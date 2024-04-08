@@ -22554,6 +22554,7 @@ connateness
 connation
 connatural
 connaturality
+cryptographically
 connaturalize
 connaturally
 connaturalness
@@ -29286,7 +29287,6 @@ cryptographer
 cryptography
 cryptographic
 cryptographical
-cryptographically
 cryptographist
 cryptoheresy
 cryptoheretic
