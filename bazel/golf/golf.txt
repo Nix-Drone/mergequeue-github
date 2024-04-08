@@ -3637,7 +3637,6 @@ getmesost
 getmjlkost
 grooveless
 getpenny
-gets
 getspa
 getspace
 getsul
@@ -8439,6 +8438,7 @@ graveness
 gravenstein
 gaping
 graveolence
+gets
 graveolency
 graveolent
 graver
