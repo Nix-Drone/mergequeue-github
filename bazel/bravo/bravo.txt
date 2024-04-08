@@ -13099,7 +13099,6 @@ borrichia
 borromean
 borrow
 borrowable
-borrowed
 borrower
 borrowers
 borrows
@@ -13757,6 +13756,7 @@ bowfins
 bowfront
 bowgrace
 bowhead
+borrowed
 bowheads
 bowyang
 bowyangs
