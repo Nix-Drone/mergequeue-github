@@ -3789,7 +3789,6 @@ filmsets
 filmsetter
 filmsetting
 filmslide
-filmstrip
 filmstrips
 filo
 filoplumaceous
@@ -7075,6 +7074,7 @@ fontanel
 frothing
 fontanelle
 fraenums
+filmstrip
 fontanels
 fontange
 fontanges
