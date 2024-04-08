@@ -5636,7 +5636,6 @@ flimsiness
 flinch
 flinched
 flincher
-flinches
 flinching
 flinchingly
 flinders
@@ -8130,6 +8129,7 @@ foretokens
 fretless
 foretold
 foretooth
+flinches
 foretop
 foretopman
 foretopmast
