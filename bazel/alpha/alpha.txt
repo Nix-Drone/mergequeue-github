@@ -4897,7 +4897,6 @@ aerier
 aeries
 aeriest
 aerifaction
-aeriferous
 aerify
 aerification
 aerified
@@ -23046,6 +23045,7 @@ atterr
 atterrate
 attest
 attestable
+aeriferous
 attestant
 attestation
 amahs
