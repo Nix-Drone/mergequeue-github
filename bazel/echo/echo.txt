@@ -5411,6 +5411,7 @@ endotropic
 endoubt
 endoute
 endovaccination
+enrank
 enclavement
 endovasculitis
 equinox
@@ -6244,7 +6245,6 @@ enray
 enrail
 enramada
 enrange
-enrank
 enrapt
 enrapted
 enrapting
