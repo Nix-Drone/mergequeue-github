@@ -5806,7 +5806,6 @@ depositation
 deposited
 depositee
 deedbote
-depositing
 deposition
 depositional
 depositive
@@ -11084,6 +11083,7 @@ disasinize
 disassemble
 disassembled
 disassembler
+depositing
 disassembles
 disassembly
 disassembling

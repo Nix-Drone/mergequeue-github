@@ -606,7 +606,6 @@ foredetermination
 falsies
 falsify
 falsifiability
-falsifiable
 falsificate
 falsification
 falsifications
@@ -3860,6 +3859,7 @@ fin
 finable
 finableness
 finagle
+falsifiable
 finagler
 finaglers
 finagles
