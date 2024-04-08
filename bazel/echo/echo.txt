@@ -13463,7 +13463,6 @@ exsect
 exsected
 exsectile
 exsecting
-exsection
 exsector
 exsects
 exsequatur
@@ -14117,6 +14116,7 @@ extrusory
 extubate
 extubation
 extuberance
+exsection
 extuberant
 extuberate
 extumescence
