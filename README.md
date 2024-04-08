@@ -48,8 +48,8 @@ mode = "singlequeue"
 # Default value: 1
 #max_impacted_deps = 1
 
-# Default value: 0.01
-#logical_conflict_rate = 0.01
+# Default value: 100 (create logical merge conflict every 100 PRs)
+#logical_conflict_every = 100
 
 # Default value: "logical-conflict.txt"
 #logical_conflict_file = "logical-conflict.txt"

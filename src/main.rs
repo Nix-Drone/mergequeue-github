@@ -157,35 +157,49 @@ fn simulate_test(config: &Conf) -> bool {
     random_float > config.test.flake_rate
 }
 
-fn maybe_add_logical_merge_conflict(config: &Conf) -> bool {
+fn maybe_add_logical_merge_conflict(last_pr: u32, config: &Conf) -> bool {
     if config.pullrequest.logical_conflict_file.is_empty()
-        || config.pullrequest.logical_conflict_rate == 0.0
+        || config.pullrequest.logical_conflict_every == 0
     {
         return false;
     }
 
     // check if we should simulate a logical merge conflict with this pull request
-    let mut rng = rand::thread_rng();
-    let random_float = rng.gen_range(0.0..1.0);
+    if last_pr + 1 % config.pullrequest.logical_conflict_every != 0 {
+        return false;
+    }
 
     println!(
-        "logical conflict rate: {}",
-        config.pullrequest.logical_conflict_rate
+        "logical conflict every {} prs",
+        config.pullrequest.logical_conflict_every
     );
-    if random_float < config.pullrequest.logical_conflict_rate {
-        // create logical conflict
-        let filename = &config.pullrequest.logical_conflict_file;
-        std::fs::write(filename, "simulate logical merge conflict")
-            .expect("Unable to write logical merge conflict file");
 
-        git(&["add", &config.pullrequest.logical_conflict_file]);
-        return true;
-    }
-    false
+    // create logical conflict
+    let filename = &config.pullrequest.logical_conflict_file;
+    std::fs::write(filename, "simulate logical merge conflict")
+        .expect("Unable to write logical merge conflict file");
+
+    git(&["add", &config.pullrequest.logical_conflict_file]);
+    true
 }
 
-fn create_pull_request(words: &[String], config: &Conf) -> Result<String, String> {
-    let lc = maybe_add_logical_merge_conflict(config);
+fn get_last_pr() -> u32 {
+    let result = try_gh(&["pr", "list", "--limit=1", "--json", "number"]);
+    if result.is_err() {
+        return 0;
+    }
+    let json_str = result.unwrap();
+
+    let v: Value = serde_json::from_str(&json_str).expect("Failed to parse JSON");
+    let last_pr = v
+        .as_array()
+        .and_then(|arr| arr.first().cloned())
+        .expect("Failed to get first item");
+    last_pr["number"].as_u64().unwrap_or(0) as u32
+}
+
+fn create_pull_request(words: &[String], last_pr: u32, config: &Conf) -> Result<String, String> {
+    let lc = maybe_add_logical_merge_conflict(last_pr, config);
 
     let branch_name = format!("change/{}", words.join("-"));
     git(&["checkout", "-t", "-b", &branch_name]);
@@ -281,6 +295,9 @@ fn run() -> anyhow::Result<()> {
     // divide by 6 since we run once every 10 minutes
     let pull_requests_to_make = (config.pullrequest.requests_per_hour as f32 / 6.0).ceil() as usize;
 
+    // get the most recent PR to be created (used for creating logical merge conflicts)
+    let mut last_pr = get_last_pr();
+
     let mut prs: Vec<String> = Vec::new();
 
     for _ in 0..pull_requests_to_make {
@@ -300,7 +317,7 @@ fn run() -> anyhow::Result<()> {
         let max_impacted_deps = config.pullrequest.max_impacted_deps as u32; // Convert usize to u32
         let words = change_file(&filenames, max_impacted_deps); // Use the converted value
 
-        let pr_result = create_pull_request(&words, &config);
+        let pr_result = create_pull_request(&words, last_pr, &config);
         if pr_result.is_err() {
             println!("problem created pr for {:?}", words);
             continue;
@@ -309,6 +326,7 @@ fn run() -> anyhow::Result<()> {
         let pr = pr_result.unwrap();
         println!("created pr: {} in {:?}", pr, duration);
         prs.push(pr);
+        last_pr += 1;
     }
 
     for pr in &prs {
