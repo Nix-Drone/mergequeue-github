@@ -3903,7 +3903,6 @@ emyds
 emigate
 emigated
 emigates
-emigating
 ethid
 emigr
 emigrant
@@ -6347,6 +6346,7 @@ ensealing
 enseam
 extolment
 ensear
+emigating
 ensearch
 ensearcher
 enseat
