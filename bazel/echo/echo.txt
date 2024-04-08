@@ -258,7 +258,6 @@ east
 eastabout
 eastbound
 easted
-easter
 eastering
 easterly
 easterlies
@@ -8550,6 +8549,7 @@ equalable
 equaled
 equaling
 equalisation
+easter
 equalise
 equalised
 equalises
