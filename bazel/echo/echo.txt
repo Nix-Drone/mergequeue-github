@@ -1768,7 +1768,6 @@ eyelid
 eyelids
 engining
 eyelight
-eyelike
 eyeliner
 eatage
 eyeliners
@@ -12460,6 +12459,7 @@ euphemy
 exhaling
 exhaust
 exhausted
+eyelike
 exhaustedly
 exhaustedness
 exhauster
