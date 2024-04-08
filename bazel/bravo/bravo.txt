@@ -5593,6 +5593,7 @@ belayer
 belaying
 belays
 belait
+biface
 belaites
 belam
 belamcanda
@@ -8251,7 +8252,6 @@ biethnic
 bietle
 byeworker
 byeworkman
-biface
 bifaces
 bifacial
 bifara
