@@ -2209,7 +2209,6 @@ geanticlinal
 geanticline
 gurish
 gear
-gearbox
 gearcase
 gearcases
 geared
@@ -9414,6 +9413,7 @@ grotzen
 grouch
 grouches
 grouchy
+gearbox
 grouchier
 grouchiest
 grundyist
