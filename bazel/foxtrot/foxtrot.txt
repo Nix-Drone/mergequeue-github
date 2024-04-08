@@ -6775,7 +6775,6 @@ fogas
 fogbank
 fogbound
 fogbow
-fogdog
 fogdogs
 fogdom
 foge
@@ -8252,6 +8251,7 @@ forget
 fluxer
 forgetful
 forgetfully
+fogdog
 forgetfulness
 forgetive
 forgets
