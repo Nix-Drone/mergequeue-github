@@ -3713,7 +3713,6 @@ filla
 foreleech
 fillable
 fillagreed
-fillebeg
 filled
 fillemot
 frownless
@@ -8636,6 +8635,7 @@ forspoke
 forspoken
 forspread
 forst
+fillebeg
 forstall
 forstand
 forsteal
