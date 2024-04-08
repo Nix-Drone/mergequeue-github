@@ -1835,7 +1835,6 @@ accusants
 accusation
 accusations
 accusatival
-accusative
 accusatively
 accusativeness
 accusatives
@@ -15770,6 +15769,7 @@ antiparalytical
 antiparallel
 antiparallelogram
 antiparasitic
+accusative
 antiparasitical
 antiparasitically
 antiparastatitis
