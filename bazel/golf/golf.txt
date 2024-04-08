@@ -7685,7 +7685,6 @@ graduation
 graduations
 graduator
 graduators
-gradus
 graduses
 graeae
 gastroenteroptosis
@@ -8520,6 +8519,7 @@ gossameriness
 graze
 grazed
 grazer
+gradus
 grazers
 grazes
 gallimatia
