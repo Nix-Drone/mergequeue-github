@@ -5680,7 +5680,6 @@ flintlock
 flints
 flintstone
 flintwood
-flintwork
 flintworker
 flyoff
 flioma
@@ -11177,6 +11176,7 @@ funerary
 funeration
 funereal
 funereality
+flintwork
 funereally
 funerealness
 funest
