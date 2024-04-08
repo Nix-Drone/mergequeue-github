@@ -4851,7 +4851,6 @@ cartouches
 cartridge
 cartridges
 carts
-cartsale
 commonwealth
 cartulary
 cartularies
@@ -9404,6 +9403,7 @@ chazzans
 cognomina
 crooken
 causativity
+cartsale
 chazzanut
 chazzen
 chazzenim
