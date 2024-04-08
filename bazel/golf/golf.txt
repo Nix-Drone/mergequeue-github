@@ -2791,7 +2791,6 @@ gearboxes
 gynophore
 greyly
 genioplasty
-genyoplasty
 genip
 genipa
 grizzle
@@ -9086,6 +9085,7 @@ gripes
 gripgrass
 griphe
 griphite
+genyoplasty
 goniale
 gryphite
 gryphon
