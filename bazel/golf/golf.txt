@@ -2617,7 +2617,6 @@ genecology
 genecologic
 gradienter
 genecological
-graph
 genecologically
 genecologist
 genecor
@@ -5534,6 +5533,7 @@ glycuresis
 glycuronic
 glycuronid
 glycuronide
+graph
 glidder
 gliddery
 glide
