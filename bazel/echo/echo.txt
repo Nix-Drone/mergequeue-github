@@ -11290,7 +11290,6 @@ euxine
 eva
 evacuant
 evacuants
-evacuate
 evacuated
 evacuating
 evacuation
@@ -11791,6 +11790,7 @@ exaltment
 exalts
 exam
 examen
+evacuate
 examens
 exameter
 examinability
