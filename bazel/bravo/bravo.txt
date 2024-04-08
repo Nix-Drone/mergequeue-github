@@ -11901,7 +11901,6 @@ bogle
 bogled
 bogledom
 boglet
-bogman
 bogmire
 bogo
 bogomil
@@ -17092,6 +17091,7 @@ bulleted
 bullethead
 bulletheaded
 bulletheadedness
+bogman
 bullety
 bulletin
 bulletined
