@@ -4978,6 +4978,7 @@ flanneling
 flannelleaf
 flannelleaves
 flannelled
+floc
 flannelly
 flannelling
 flannelmouth
@@ -5844,7 +5845,6 @@ floatsmen
 floatstone
 flob
 flobby
-floc
 flocced
 flocci
 floccilation
