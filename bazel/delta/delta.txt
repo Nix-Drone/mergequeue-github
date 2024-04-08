@@ -1048,7 +1048,6 @@ darlings
 darlingtonia
 darn
 darndest
-darndests
 darned
 darneder
 darnedest
@@ -9803,6 +9802,7 @@ dilution
 dilutions
 dilutive
 dilutor
+darndests
 dilutors
 diluvy
 diluvia
