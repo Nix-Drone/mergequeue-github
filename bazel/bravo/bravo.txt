@@ -3631,7 +3631,6 @@ bathroom
 bathroomed
 bathrooms
 bathroot
-baths
 bathtub
 by
 bathtubful
@@ -5832,6 +5831,7 @@ bellmaking
 bellman
 bellmanship
 bellmaster
+baths
 barbacou
 bellmouth
 bellmouthed
