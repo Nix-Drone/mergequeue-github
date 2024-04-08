@@ -5580,6 +5580,7 @@ flicks
 flics
 flidge
 flyeater
+fmt
 flied
 flier
 flyer
@@ -6651,7 +6652,6 @@ fluxive
 fluxmeter
 fluxroot
 fluxure
-fmt
 fn
 footcloth
 fnese
