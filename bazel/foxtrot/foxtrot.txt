@@ -6342,7 +6342,6 @@ fluidizer
 flotations
 fluidizes
 fluidly
-fluidmeter
 fluidness
 fluidounce
 fluidrachm
@@ -10426,6 +10425,7 @@ frontlash
 frontless
 frontlessly
 frontlessness
+fluidmeter
 frontlet
 fease
 frontoauricular
