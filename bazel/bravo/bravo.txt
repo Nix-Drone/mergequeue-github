@@ -14882,7 +14882,6 @@ breathe
 breatheableness
 breathed
 breather
-breathers
 breathes
 breathful
 breathy
@@ -15270,6 +15269,7 @@ brie
 brief
 briefcase
 briefcases
+breathers
 briefed
 briefer
 briefers
