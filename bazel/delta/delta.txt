@@ -300,7 +300,6 @@ daguerrean
 daguerreotype
 daguerreotyped
 daguerreotyper
-daguerreotypes
 daguerreotypic
 daguerreotyping
 daguerreotypist
@@ -12674,6 +12673,7 @@ dismark
 dismarket
 dismarketed
 dervishhood
+daguerreotypes
 dismarketing
 dismarry
 dismask
