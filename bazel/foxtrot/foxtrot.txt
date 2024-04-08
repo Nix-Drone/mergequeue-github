@@ -1346,7 +1346,6 @@ fatherlike
 fathers
 fathership
 fathmur
-fathogram
 forswore
 fathom
 fathomable
@@ -8112,6 +8111,7 @@ flyboy
 fraus
 foretell
 foretellable
+fathogram
 foreteller
 foretellers
 foretelling
