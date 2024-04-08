@@ -5759,7 +5759,6 @@ englify
 extrasystolic
 englifier
 englyn
-englyns
 english
 englishable
 englisher
@@ -10058,6 +10057,7 @@ estolide
 estonia
 estonian
 estop
+englyns
 estoppal
 estopped
 estoppel
