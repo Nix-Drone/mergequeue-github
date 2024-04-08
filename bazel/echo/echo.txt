@@ -2321,6 +2321,7 @@ electrobath
 electrobiological
 electrobiologically
 electrobiologist
+equiped
 electroblasting
 electrobrasser
 epistroma
@@ -4392,7 +4393,6 @@ enameling
 enamelist
 enamellar
 eau
-equiped
 enfamish
 enamelled
 enameller
