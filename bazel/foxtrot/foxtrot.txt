@@ -4326,6 +4326,7 @@ fiscalization
 fiscalize
 fiscalized
 fiscalizing
+fixatif
 fischerite
 fiscus
 fise
@@ -4612,7 +4613,6 @@ fixage
 fixate
 fixated
 fixates
-fixatif
 fixatifs
 fixation
 footslogs
