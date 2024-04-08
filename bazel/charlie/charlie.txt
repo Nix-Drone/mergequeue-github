@@ -5809,7 +5809,6 @@ cathartes
 cathartic
 cathartical
 cathartically
-catharticalness
 cathartics
 cathartidae
 cathartides
@@ -31324,6 +31323,7 @@ counterbrace
 curiatii
 curiboca
 curie
+catharticalness
 curiegram
 curies
 curiescopy
