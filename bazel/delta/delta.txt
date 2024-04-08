@@ -2460,7 +2460,6 @@ deckie
 decking
 deckings
 deckle
-deckles
 deckman
 deckpipe
 decks
@@ -10781,6 +10780,7 @@ directions
 directitude
 directive
 directively
+deckles
 directiveness
 directives
 directivity
