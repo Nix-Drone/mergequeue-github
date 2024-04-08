@@ -2871,6 +2871,7 @@ cantred
 cantref
 cantrip
 cantrips
+coveting
 cantus
 cantut
 cantuta
@@ -27541,7 +27542,6 @@ covetable
 coveted
 coveter
 coveters
-coveting
 covetise
 covetiveness
 covetous
