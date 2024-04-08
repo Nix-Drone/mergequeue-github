@@ -5688,6 +5688,7 @@ flyovers
 flip
 flypaper
 flypapers
+formulize
 flypast
 flypasts
 flipe
@@ -8553,7 +8554,6 @@ formulism
 formulist
 formulistic
 formulization
-formulize
 formulized
 falsum
 fluorographic
