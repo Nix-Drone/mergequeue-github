@@ -2134,7 +2134,6 @@ finger
 filiation
 feloid
 felon
-felones
 feloness
 felony
 frocking
@@ -6279,6 +6278,7 @@ fluency
 fluencies
 fluent
 fluently
+felones
 fluentness
 fervour
 fluer
