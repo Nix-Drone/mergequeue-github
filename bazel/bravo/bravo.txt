@@ -12411,6 +12411,7 @@ brooders
 bondservant
 bondship
 bondslave
+brosy
 bondsman
 bondsmen
 bondstone
@@ -16119,7 +16120,6 @@ bros
 brose
 broses
 bloodhound
-brosy
 brosimum
 bitesheep
 brosot
