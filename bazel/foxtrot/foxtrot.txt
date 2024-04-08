@@ -4710,6 +4710,7 @@ flabrum
 flabs
 flaccid
 flaccidity
+force
 flaccidly
 flaccidness
 flachery
@@ -7422,7 +7423,6 @@ forbs
 formalised
 forcarve
 forcat
-force
 forceable
 forced
 forcedly
