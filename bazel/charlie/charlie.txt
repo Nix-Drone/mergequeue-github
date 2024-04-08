@@ -4924,6 +4924,7 @@ casalty
 casamarca
 casanova
 casanovanic
+combated
 casanovas
 casaques
 casaquin
@@ -19673,7 +19674,6 @@ combat
 combatable
 combatant
 combatants
-combated
 combater
 combaters
 combating
