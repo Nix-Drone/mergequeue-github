@@ -2988,7 +2988,6 @@ geocentrically
 glovelike
 geocerite
 geochemical
-geochemically
 geochemist
 geochemists
 geochrony
@@ -5735,6 +5734,7 @@ globules
 globulet
 globulicide
 globuliferous
+geochemically
 glaive
 globuliform
 globulimeter
