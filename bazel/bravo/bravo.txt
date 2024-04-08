@@ -4610,6 +4610,7 @@ bedcase
 bedchair
 bedchairs
 bedchamber
+bratstva
 bedclothing
 bedcord
 bedcover
@@ -14604,7 +14605,6 @@ brat
 bratchet
 bratina
 bratling
-bratstva
 bratstvo
 brattach
 bratty
