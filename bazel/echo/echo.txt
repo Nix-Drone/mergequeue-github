@@ -7166,7 +7166,6 @@ envelope
 enveloped
 enveloper
 envelopers
-envelopes
 enveloping
 envelopment
 envelopments
@@ -12101,6 +12100,7 @@ exclaves
 exclosure
 excludability
 excludable
+envelopes
 exclude
 excludes
 excludible
