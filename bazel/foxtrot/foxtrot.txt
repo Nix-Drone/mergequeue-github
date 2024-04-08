@@ -2981,7 +2981,6 @@ fezzy
 fezziwig
 ff
 ffa
-fgn
 fgrid
 fy
 fiacre
@@ -7645,6 +7644,7 @@ foredone
 foredoom
 foredoomed
 foredoomer
+fgn
 fretter
 foredooms
 foredune
