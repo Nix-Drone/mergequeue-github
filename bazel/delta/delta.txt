@@ -8463,7 +8463,6 @@ diapasm
 diapasonal
 diapasons
 diapause
-diapaused
 diapauses
 diapausing
 diapedeses
@@ -9988,6 +9987,7 @@ djinn
 dimwitted
 dimwittedly
 dimwittedness
+diapaused
 din
 dyn
 dynactinometer
