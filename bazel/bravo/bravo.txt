@@ -5654,7 +5654,6 @@ beleft
 belemnid
 belemnite
 belemnites
-belemnitic
 belemnitidae
 belemnoid
 bowssen
@@ -17572,6 +17571,7 @@ burds
 bure
 bureau
 bureaucracy
+belemnitic
 bureaucracies
 bureaucrat
 bureaucratese
