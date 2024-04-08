@@ -645,6 +645,7 @@ caffa
 caffeate
 caffeic
 caffein
+cathodofluorescence
 caffeina
 caffeine
 caffeines
@@ -5874,7 +5875,6 @@ cathodes
 cathodic
 cathodical
 cathodically
-cathodofluorescence
 cathodograph
 cathodography
 cathodoluminescence
