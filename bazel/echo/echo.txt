@@ -5071,6 +5071,7 @@ endnote
 endnotes
 endoabdominal
 endoangiitis
+exemplum
 endoaortitis
 endoappendicitis
 endoarteritis
@@ -12376,7 +12377,6 @@ exemplifier
 exemplifiers
 exemplifies
 exemplifying
-exemplum
 exempt
 exempted
 egipto
