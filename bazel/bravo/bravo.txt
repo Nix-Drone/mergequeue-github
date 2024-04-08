@@ -14791,6 +14791,7 @@ breaghe
 break
 breakability
 breakable
+bullwhip
 breakableness
 breakables
 breakably
@@ -17218,7 +17219,6 @@ bossa
 bullweed
 bullweeds
 bullwhacker
-bullwhip
 bullwhipped
 bullwhipping
 bullwhips
