@@ -3562,7 +3562,6 @@ embosomed
 embosoming
 embosoms
 emboss
-embossable
 embossage
 embossed
 eunuch
@@ -10326,6 +10325,7 @@ ethicopolitical
 ethicoreligious
 ethicosocial
 ethide
+embossable
 expoliate
 ethidene
 ethyl
