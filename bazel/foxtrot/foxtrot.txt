@@ -8429,7 +8429,6 @@ formations
 formativeness
 formats
 formatter
-formatters
 formatting
 formature
 flappering
@@ -9896,6 +9895,7 @@ folkmot
 frets
 fretsaw
 fuds
+formatters
 fretsaws
 fretsome
 frett
