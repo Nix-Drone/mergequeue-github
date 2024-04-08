@@ -2788,7 +2788,6 @@ greenstuff
 genipaps
 genyplasty
 genips
-genys
 genisaro
 genista
 goggan
@@ -7304,6 +7303,7 @@ gospelize
 gospeller
 gospelly
 gospellike
+genys
 gospelmonger
 gospels
 gospelwards
