@@ -600,6 +600,7 @@ falsettist
 falsetto
 falsettos
 falsework
+flags
 falsie
 foredetermination
 falsies
@@ -4812,7 +4813,6 @@ flagrantly
 flagrantness
 flagrate
 flagroot
-flags
 flagship
 firepower
 flagstaff
