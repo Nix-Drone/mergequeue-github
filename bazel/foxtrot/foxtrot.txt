@@ -98,6 +98,7 @@ facials
 facias
 faciata
 faciation
+forequoted
 facie
 faciend
 faciends
@@ -7899,7 +7900,6 @@ frontways
 forequarter
 forequarters
 fleet
-forequoted
 forerake
 foreran
 forerank
