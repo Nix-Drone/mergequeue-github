@@ -6527,7 +6527,6 @@ desegregates
 desegregating
 desegregation
 duststorm
-deselect
 deselected
 deselecting
 deselects
@@ -13274,6 +13273,7 @@ disquietudes
 disquiparancy
 disquiparant
 disquiparation
+deselect
 disquisit
 disquisite
 disquisited

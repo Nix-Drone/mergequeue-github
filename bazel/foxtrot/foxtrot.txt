@@ -4607,7 +4607,6 @@ fivepenny
 fivepins
 frosteds
 fiver
-fives
 fivescore
 fm
 fivesome
@@ -8036,6 +8035,7 @@ forest
 forestaff
 forestaffs
 forestage
+fives
 forestay
 forestair
 forestays
