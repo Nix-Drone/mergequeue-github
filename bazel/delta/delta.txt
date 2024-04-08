@@ -2353,7 +2353,6 @@ decides
 deciding
 decidua
 deciduae
-decidual
 deciduary
 deciduas
 deciduata
@@ -7216,6 +7215,7 @@ determinacy
 determinant
 determinantal
 determinants
+decidual
 determinate
 determinated
 determinately
