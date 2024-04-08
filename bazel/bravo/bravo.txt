@@ -3576,6 +3576,7 @@ bathing
 bathypelagic
 bathyplankton
 bathyscaph
+briquetted
 bathyscaphe
 bathyscaphes
 bathyseism
@@ -15478,7 +15479,6 @@ brique
 briquet
 briquets
 briquette
-briquetted
 brisa
 brisance
 bilbos
