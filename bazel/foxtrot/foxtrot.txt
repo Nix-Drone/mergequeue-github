@@ -8133,7 +8133,6 @@ foretime
 foretimes
 foretype
 foretoken
-foretokened
 foretokening
 foretokens
 fretless
@@ -10740,6 +10739,7 @@ frustrater
 frustrates
 frustrating
 frustratingly
+foretokened
 frustration
 frustrations
 frustrative
