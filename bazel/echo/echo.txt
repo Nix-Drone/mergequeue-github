@@ -5085,7 +5085,6 @@ endocannibalism
 endocardia
 endocardiac
 exemptible
-endocardial
 endocarditic
 endocardium
 endocarp
@@ -7069,6 +7068,7 @@ entresol
 entresols
 entresse
 earthstar
+endocardial
 entrez
 entry
 entria

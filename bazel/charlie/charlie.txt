@@ -11869,7 +11869,6 @@ chordacentrous
 chordacentrum
 chordaceous
 chordal
-chordally
 chordamesoderm
 chordamesodermal
 chordamesodermic
@@ -22354,6 +22353,7 @@ conicality
 conically
 conicalness
 conycatcher
+chordally
 conicein
 coniceine
 conichalcite
