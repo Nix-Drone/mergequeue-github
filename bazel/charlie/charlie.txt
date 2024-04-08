@@ -15819,7 +15819,6 @@ clear
 clearable
 clearage
 clearance
-clearances
 clearcole
 cleared
 clearedness
@@ -30614,6 +30613,7 @@ cuddyhole
 cuddle
 cuddleable
 cuddled
+clearances
 cuddles
 cuddlesome
 cuddlier
