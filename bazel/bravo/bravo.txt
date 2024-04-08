@@ -2942,6 +2942,7 @@ barrelhead
 barrelhouse
 barrelhouses
 barreling
+broad
 barrelled
 barrelling
 barrelmaker
@@ -15599,7 +15600,6 @@ broacher
 broachers
 broaches
 broaching
-broad
 broadacre
 broadax
 broadaxe
