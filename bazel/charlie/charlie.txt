@@ -16282,7 +16282,6 @@ cashing
 clints
 clio
 cliona
-clione
 clip
 clipboard
 clipboards
@@ -27106,6 +27105,7 @@ counterselection
 countersense
 counterservice
 countershade
+clione
 countershading
 countershaft
 countershafting
