@@ -1530,6 +1530,7 @@ ballas
 ballast
 ballastage
 ballasted
+bouton
 ballaster
 ballastic
 ballasting
@@ -13664,7 +13665,6 @@ boutylka
 boutique
 boutiques
 bouto
-bouton
 barehanded
 boutonniere
 boutonnieres
