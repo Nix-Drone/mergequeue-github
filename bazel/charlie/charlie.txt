@@ -11391,7 +11391,6 @@ chlorozincate
 chlorpheniramine
 chlorphenol
 chlorpicrin
-chlorpikrin
 chlorpromazine
 chlorpropamide
 chlorprophenpyridamine
@@ -15518,6 +15517,7 @@ claroes
 claromontane
 claros
 clarre
+chlorpikrin
 clarsach
 clarseach
 clarsech
