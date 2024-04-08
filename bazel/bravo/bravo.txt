@@ -2795,7 +2795,6 @@ barometry
 barometric
 barometrical
 barometrically
-barometrograph
 beelzebub
 barometrography
 barometz
@@ -15714,6 +15713,7 @@ brodekin
 brodequin
 broderer
 brodiaea
+barometrograph
 brodyaga
 brodyagi
 brodie
