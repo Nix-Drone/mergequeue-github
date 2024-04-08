@@ -5782,6 +5782,7 @@ catfacing
 catfall
 catfalls
 catfight
+creeled
 catfish
 catfishes
 catfoot
@@ -28562,7 +28563,6 @@ creekside
 creekstuff
 creel
 climatography
-creeled
 creeling
 creels
 creem
