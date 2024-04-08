@@ -3004,7 +3004,6 @@ geocronite
 geod
 geodaesia
 geodal
-geode
 gnoff
 geodes
 geodesy
@@ -9910,6 +9909,7 @@ guarantine
 guarantor
 guarantors
 guarantorship
+geode
 guarapo
 guarapucu
 guarauno
