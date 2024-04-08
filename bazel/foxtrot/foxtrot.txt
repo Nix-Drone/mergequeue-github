@@ -5624,7 +5624,6 @@ flyleaf
 flyleaves
 flyless
 flyman
-flymen
 flimflam
 flimflammed
 flimflammer
@@ -8359,6 +8358,7 @@ forleave
 forleaving
 forleit
 futuristic
+flymen
 forlese
 forlet
 frosts
