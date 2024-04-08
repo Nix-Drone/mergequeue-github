@@ -191,11 +191,22 @@ fn get_last_pr() -> u32 {
     let json_str = result.unwrap();
 
     let v: Value = serde_json::from_str(&json_str).expect("Failed to parse JSON");
-    let last_pr = v
-        .as_array()
-        .and_then(|arr| arr.first().cloned())
-        .expect("Failed to get first item");
-    last_pr["number"].as_u64().unwrap_or(0) as u32
+
+    let array = v.as_array();
+    match array {
+        Some(pr_array) => {
+            if pr_array.is_empty() {
+                // No PRs in the system. return 0
+                return 0;
+            }
+            let first = pr_array.first().cloned();
+            match first {
+                Some(pr) => pr["number"].as_u64().unwrap_or(0) as u32,
+                None => 0,
+            }
+        }
+        None => 0,
+    }
 }
 
 fn create_pull_request(words: &[String], last_pr: u32, config: &Conf) -> Result<String, String> {
