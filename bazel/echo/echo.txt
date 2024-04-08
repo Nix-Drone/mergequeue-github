@@ -6584,7 +6584,6 @@ entepicondylar
 enter
 entera
 enterable
-enteraden
 enteradenography
 enteradenographic
 enteradenology
@@ -9440,6 +9439,7 @@ erumpent
 erupt
 erupted
 eruptible
+enteraden
 erupting
 eruption
 eruptional
