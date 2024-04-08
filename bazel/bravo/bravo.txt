@@ -4633,7 +4633,6 @@ bedeafening
 bedeafens
 bedebt
 bedeck
-bendability
 bedecked
 bedecking
 bedecks
@@ -6812,6 +6811,7 @@ berouged
 beround
 berreave
 berreaved
+bendability
 berreaves
 berreaving
 berret
