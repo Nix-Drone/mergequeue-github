@@ -5060,7 +5060,6 @@ flashlike
 forellenstein
 flashness
 flashover
-flashpan
 feint
 flashproof
 flashtester
@@ -7493,6 +7492,7 @@ foreaccounting
 foreacquaint
 foreact
 foreadmonish
+flashpan
 fitly
 foreadvertise
 foreadvice
