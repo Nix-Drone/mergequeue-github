@@ -1909,7 +1909,6 @@ gatch
 gate
 gateado
 gateage
-gateaux
 gatecrasher
 gatecrashers
 gated
@@ -5214,6 +5213,7 @@ glasshouse
 glasshouses
 glassy
 glassie
+gateaux
 glassies
 glassiest
 glassily

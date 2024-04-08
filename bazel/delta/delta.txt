@@ -2505,7 +2505,6 @@ declassification
 declassifications
 declassifies
 declassifying
-directories
 declassing
 declension
 declensional
@@ -8299,6 +8298,7 @@ dialister
 dialists
 device
 dialytic
+directories
 dialyzability
 drey
 dialyzable
