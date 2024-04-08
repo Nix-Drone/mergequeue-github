@@ -8352,7 +8352,6 @@ ejectives
 epithelioceptor
 epitheliogenetic
 epithelioid
-epitheliolysin
 epitheliolysis
 embrown
 epitheliolytic
@@ -10366,6 +10365,7 @@ ethylation
 ethylbenzene
 ethyldichloroarsine
 ethylenation
+epitheliolysin
 ethylene
 epistolographer
 ethylenediamine
