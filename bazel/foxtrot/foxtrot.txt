@@ -5048,7 +5048,6 @@ flashers
 flashes
 flashet
 flashforward
-flashforwards
 flashgun
 flashguns
 flashy
@@ -9183,6 +9182,7 @@ fractals
 fracted
 fracticipita
 fractile
+flashforwards
 fraction
 fractional
 fractionalism
