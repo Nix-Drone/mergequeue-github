@@ -3949,6 +3949,7 @@ emissaryship
 emissarium
 emissi
 emissile
+eudialyte
 emission
 emissions
 emissive
@@ -10777,7 +10778,6 @@ eudesmol
 eudemonics
 eudeve
 eudiagnostic
-eudialyte
 eudiaphoresis
 eudidymite
 eudiometer
