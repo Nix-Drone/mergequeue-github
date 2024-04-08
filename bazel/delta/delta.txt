@@ -1227,7 +1227,6 @@ date
 dateable
 dateableness
 datebook
-dated
 datedly
 datedness
 dateless
@@ -5659,6 +5658,7 @@ depicture
 depictured
 depicturing
 depiedmontize
+dated
 depigment
 depigmentate
 depigmentation
