@@ -12377,7 +12377,6 @@ androgen
 androgenesis
 androgenetic
 androgenic
-androgenous
 androgens
 androgyn
 androgynal
@@ -12612,6 +12611,7 @@ aneurysm
 aneurismal
 aneurysmal
 aneurismally
+androgenous
 aneurysmally
 aneurismatic
 aneurysmatic
