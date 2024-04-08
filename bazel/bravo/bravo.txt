@@ -2576,7 +2576,6 @@ bargellos
 bargeload
 bargeman
 bargemaster
-bargepole
 booklice
 barger
 barges
@@ -9760,6 +9759,7 @@ bistephanic
 bister
 bistered
 bisters
+bargepole
 baidak
 bistetrazole
 bisti
