@@ -2985,7 +2985,6 @@ geocerite
 geochemical
 geochemically
 geochemist
-geochemistry
 geochemists
 geochrony
 geochronic
@@ -5108,6 +5107,7 @@ glaived
 glaives
 glaked
 glaky
+geochemistry
 glali
 glam
 glamberry
