@@ -1920,7 +1920,6 @@ feeblehearted
 foreword
 feebleheartedly
 feebleheartedness
-feebleminded
 feeblemindedness
 feebleness
 feebler
@@ -11004,6 +11003,7 @@ fumaric
 fumarin
 fumarium
 fumaroid
+feebleminded
 fumaroidal
 fumarole
 fumaroles
