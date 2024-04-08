@@ -9879,7 +9879,6 @@ chemoprophyalctic
 chemoprophylactic
 chemoprophylaxis
 chemoreception
-chemoreceptive
 chemoreceptivity
 chemoreceptivities
 chemoreceptor
@@ -14576,6 +14575,7 @@ cismontane
 cismontanism
 cisoceanic
 cispadane
+chemoreceptive
 cisplatine
 cispontine
 cisrhenane
