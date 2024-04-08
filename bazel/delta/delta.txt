@@ -1796,7 +1796,6 @@ debellator
 deben
 debenture
 debentured
-debentureholder
 debentures
 debenzolize
 debi
@@ -17097,6 +17096,7 @@ drygoodsman
 drying
 dryinid
 dryish
+debentureholder
 dryly
 drill
 drillability
