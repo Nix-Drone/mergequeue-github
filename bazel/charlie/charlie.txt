@@ -16452,7 +16452,6 @@ clockbird
 clockcase
 clocked
 clocker
-clockers
 clockface
 clockhouse
 clocking
@@ -27637,6 +27636,7 @@ cowhiding
 cowhorn
 cowhouse
 cowy
+clockers
 cowyard
 cowichan
 cowier
