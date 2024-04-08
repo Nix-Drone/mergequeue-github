@@ -2642,7 +2642,6 @@ electrostriction
 elinvar
 electrosurgery
 electrosurgeries
-electrosurgical
 electrosurgically
 electrotactic
 electrotautomerism
@@ -12473,6 +12472,7 @@ exhaustibility
 exhaustible
 exhausting
 exhaustingly
+electrosurgical
 exhaustion
 exhaustive
 expilate
