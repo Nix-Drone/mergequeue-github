@@ -4026,6 +4026,7 @@ adjured
 adjurer
 adjurers
 adjures
+autotyphization
 adjuring
 adjurors
 adjust
@@ -6498,7 +6499,6 @@ agriot
 agriotes
 arborescent
 agriotype
-autotyphization
 agriotypidae
 agriotypus
 agrypnia
