@@ -2745,7 +2745,6 @@ cantata
 cantatas
 cantate
 cantation
-cantative
 cantator
 cantatory
 cantatrice
@@ -12822,6 +12821,7 @@ churched
 churches
 churchful
 churchgo
+cantative
 churchgoer
 churchgoers
 churchgoing
