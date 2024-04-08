@@ -3890,7 +3890,6 @@ dekadrachm
 dekagram
 dekagramme
 dekagrams
-dekaliter
 doggerelize
 dekaliters
 dekalitre
@@ -11418,6 +11417,7 @@ discography
 discographic
 discographical
 discographically
+dekaliter
 discographies
 discohexaster
 discoid
