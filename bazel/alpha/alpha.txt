@@ -3798,7 +3798,6 @@ adfreeze
 adfreezing
 adfroze
 adfrozen
-adglutinate
 adhafera
 agones
 adhaka
@@ -5652,6 +5651,7 @@ aftergood
 aftergrass
 aftergrave
 aftergrief
+adglutinate
 aftergrind
 aftergrowth
 afterguard
