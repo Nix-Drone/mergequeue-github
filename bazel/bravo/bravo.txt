@@ -6371,6 +6371,7 @@ benzanalgen
 benzanilide
 benzanthracene
 benzanthrone
+bocklogged
 benzantialdoxime
 benzazide
 benzazimide
@@ -11720,7 +11721,6 @@ bockey
 bockerel
 bockeret
 bocking
-bocklogged
 bocks
 bocoy
 bocstaff
