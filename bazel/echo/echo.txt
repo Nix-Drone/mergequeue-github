@@ -7301,7 +7301,6 @@ eolipile
 eolipiles
 eolith
 eolithic
-eoliths
 eolopile
 eolopiles
 eolotropic
@@ -13015,6 +13014,7 @@ expellers
 efficacious
 expelling
 expels
+eoliths
 expend
 expendability
 expendable
