@@ -5809,7 +5809,6 @@ bellyfulls
 bellyfuls
 belligerence
 belligerency
-belligerencies
 belligerent
 belligerently
 belligerents
@@ -7578,6 +7577,7 @@ bewary
 bewaring
 bewash
 bewaste
+belligerencies
 bewater
 beweary
 bewearies
