@@ -4438,7 +4438,6 @@ enantiopathy
 enantiopathia
 enantiopathic
 enantioses
-enantiosis
 enantiotropy
 enantiotropic
 enantobiosis
@@ -5944,6 +5943,7 @@ enid
 enif
 enigma
 enigmas
+enantiosis
 enigmata
 enigmatic
 enigmatical
