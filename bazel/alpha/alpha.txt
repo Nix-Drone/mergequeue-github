@@ -1022,7 +1022,6 @@ absorbers
 absorbing
 absorbingly
 absorbition
-absorbs
 absorbtion
 absorpt
 absorptance
@@ -5591,6 +5590,7 @@ afterage
 afterattack
 afterbay
 afterband
+absorbs
 afterbeat
 afterbirth
 afterblow
