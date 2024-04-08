@@ -4546,7 +4546,6 @@ demigorge
 demigrate
 demigriffin
 demigroat
-demihag
 demihagbut
 demihague
 demihake
@@ -18095,6 +18094,7 @@ dumortierite
 dumose
 dumosity
 dumous
+demihag
 dump
 dumpage
 dumpcart
