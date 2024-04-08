@@ -3989,7 +3989,6 @@ beaconing
 beaconless
 beacons
 beaconwise
-bead
 beaded
 blasphemers
 beadeye
@@ -14798,6 +14797,7 @@ breakerman
 baja
 breakermen
 breakers
+bead
 breakfast
 breakfasted
 breakfaster
