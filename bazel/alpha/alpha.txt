@@ -8650,7 +8650,6 @@ aller
 allergen
 allergenic
 allergenicity
-allergens
 allergy
 allergia
 allergies
@@ -12571,6 +12570,7 @@ anesthesiologist
 anesthesiologists
 anesthesiometer
 anesthesis
+allergens
 anesthetic
 anesthetically
 anesthetics
