@@ -4745,7 +4745,6 @@ aedeagus
 aedegi
 aedes
 aedicula
-aediculae
 aedicule
 aedile
 aediles
@@ -10141,6 +10140,7 @@ ambuscading
 ambuscado
 ambuscadoed
 ambuscados
+aediculae
 ambushed
 ambusher
 acetaldehydase
