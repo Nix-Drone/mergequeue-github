@@ -2024,6 +2024,7 @@ elabrate
 elachista
 elachistaceae
 elachistaceous
+encodes
 elacolite
 elaeagnaceae
 elaeagnaceous
@@ -4781,7 +4782,6 @@ encode
 encoded
 encoder
 encoders
-encodes
 encoding
 encodings
 encoffin
