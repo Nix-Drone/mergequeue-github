@@ -12902,6 +12902,7 @@ dispellable
 dispelled
 dispeller
 dispelling
+dorsimedian
 dispells
 dispels
 decliners
@@ -15773,7 +15774,6 @@ dorsiflexion
 dorsigerous
 dorsigrade
 dorsilateral
-dorsimedian
 dorsimeson
 denegate
 deinodon
