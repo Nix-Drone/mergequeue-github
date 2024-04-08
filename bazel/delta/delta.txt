@@ -3150,7 +3150,6 @@ defeated
 defeatee
 defeater
 dissimulated
-defeating
 defeatism
 defeats
 defeature
@@ -3416,6 +3415,7 @@ deflower
 deflowered
 deflowerer
 deflowering
+defeating
 deflowerment
 deflowers
 defluent
