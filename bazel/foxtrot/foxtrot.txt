@@ -5125,7 +5125,6 @@ flatling
 flatlings
 flatlong
 flatman
-flatmate
 flatmen
 flatness
 flats
@@ -6964,6 +6963,7 @@ folkloristic
 folklorists
 footman
 folkmoot
+flatmate
 folkmooter
 foreignization
 folkmoots
