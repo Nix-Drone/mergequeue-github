@@ -8218,7 +8218,6 @@ diagrammitically
 diagrams
 dishmaking
 diagraph
-diagraphic
 diagraphics
 diagraphs
 diagredium
@@ -13443,6 +13442,7 @@ dissemblance
 dissemble
 dissembled
 dissembler
+diagraphic
 dissemblers
 dissembles
 dissembly
