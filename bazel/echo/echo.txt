@@ -859,7 +859,6 @@ ectogenic
 ectogenous
 ectoglia
 ectognatha
-ectolecithal
 ectomere
 ectomeres
 ectomeric
@@ -11826,6 +11825,7 @@ exampleship
 exampless
 exampling
 exams
+ectolecithal
 exanguin
 exanimation
 exannulate

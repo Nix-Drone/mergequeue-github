@@ -1275,7 +1275,6 @@ garad
 garage
 garaged
 gyved
-glandless
 garageman
 garages
 garaging
@@ -6884,6 +6883,7 @@ gonionia
 glumella
 goniopholidae
 goniopholis
+glandless
 goniostat
 goniotropous
 gonystylaceae
