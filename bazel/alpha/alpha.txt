@@ -4216,6 +4216,7 @@ avell
 adnephrine
 adnerval
 adnescent
+armsize
 adneural
 adnex
 adnexa
@@ -20027,7 +20028,6 @@ arms
 armscye
 armseye
 armsful
-armsize
 armstrong
 armure
 armures
