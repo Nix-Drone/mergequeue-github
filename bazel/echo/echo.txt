@@ -2086,7 +2086,6 @@ elapidae
 elapids
 endent
 elapinae
-elapine
 elapoid
 elapse
 exteriorate
@@ -8500,6 +8499,7 @@ eptatretidae
 eptatretus
 effigiated
 epulary
+elapine
 eleutherosepalous
 epulation
 epulis
