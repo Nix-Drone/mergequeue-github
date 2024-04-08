@@ -5455,6 +5455,7 @@ flerrying
 flesh
 fleshbrush
 fleshen
+fogydom
 flesher
 fleshers
 fleshes
@@ -6803,7 +6804,6 @@ foghorn
 foghorns
 fogy
 flaxdrop
-fogydom
 fogies
 flaggily
 fogyish
