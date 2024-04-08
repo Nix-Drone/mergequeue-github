@@ -23526,7 +23526,6 @@ auribromide
 auric
 aurichalcite
 aurichalcum
-aurichloride
 aurichlorohydric
 auricyanhydric
 auricyanic
@@ -25263,6 +25262,7 @@ azine
 azines
 azinphosmethyl
 aziola
+aurichloride
 azlactone
 azlon
 azlons
