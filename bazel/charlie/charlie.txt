@@ -2288,7 +2288,6 @@ curare
 cancerroot
 cancers
 cancerweed
-cancerwort
 canch
 cancha
 canchalagua
@@ -18241,6 +18240,7 @@ cogboat
 cogence
 cogences
 cogencies
+cancerwort
 cogener
 cogeneration
 cogeneric
