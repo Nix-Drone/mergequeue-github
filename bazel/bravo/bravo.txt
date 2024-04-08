@@ -1874,6 +1874,7 @@ bandaged
 bandager
 bandages
 bandaging
+brakes
 bandagist
 bandaid
 bandaka
@@ -14368,7 +14369,6 @@ brakeman
 brakemen
 braker
 brakeroot
-brakes
 brakesman
 brakesmen
 braky
