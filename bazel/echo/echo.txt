@@ -2198,6 +2198,7 @@ evzones
 elderliness
 elderling
 eikones
+expect
 elderman
 enlink
 eldermen
@@ -12942,7 +12943,6 @@ expatriation
 expatriations
 expatriatism
 expdt
-expect
 expectable
 expectably
 expectance
