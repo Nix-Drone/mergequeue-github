@@ -4562,6 +4562,7 @@ encephalasthenia
 encephalic
 encephalin
 encephalitic
+exocolitis
 encephalitis
 encephalitogenic
 encephalocele
@@ -12671,7 +12672,6 @@ exocoelom
 exocoelum
 exocoetidae
 exocoetus
-exocolitis
 exocone
 exocrine
 endokaryogamy
