@@ -2288,7 +2288,6 @@ bugbears
 baratte
 barauna
 baraza
-barb
 barba
 barbacan
 barbacoa
@@ -10832,6 +10831,7 @@ blindball
 blindcat
 blinded
 blindedly
+barb
 blindeyes
 blinder
 blinders
