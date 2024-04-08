@@ -3363,7 +3363,6 @@ deflagrations
 deflagrator
 deflate
 deflated
-deflater
 deflates
 deflating
 deflation
@@ -17034,6 +17033,7 @@ dribblet
 dribblets
 drybeard
 driblet
+deflater
 dragnets
 drybrained
 drybrush
