@@ -186,6 +186,7 @@ earthquave
 earthrise
 earths
 earthset
+electroplated
 earthsets
 earthshaker
 earthshaking
@@ -2582,7 +2583,6 @@ electropyrometer
 electropism
 enthrall
 electroplate
-electroplated
 electroplater
 electroplates
 electroplating
