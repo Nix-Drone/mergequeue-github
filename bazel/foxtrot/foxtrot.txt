@@ -6499,7 +6499,6 @@ fluoroformol
 fluorogen
 fluorogenic
 fluorography
-fluorographic
 fluoroid
 fluorometer
 fluorometry
@@ -8553,6 +8552,7 @@ formulization
 formulize
 formulized
 falsum
+fluorographic
 formulizer
 formulizing
 formwork
