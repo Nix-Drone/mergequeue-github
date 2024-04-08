@@ -20678,7 +20678,6 @@ articulated
 anthecology
 articulately
 articulateness
-articulates
 articulation
 articulationes
 articulationist
@@ -21757,6 +21756,7 @@ assignation
 assignations
 assignats
 assigned
+articulates
 assignee
 assignees
 assigner
