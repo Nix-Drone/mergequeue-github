@@ -6358,7 +6358,6 @@ foulage
 fluitant
 fluyts
 fluke
-fluked
 flukey
 flukeless
 flukes
@@ -7779,6 +7778,7 @@ foreknowing
 foreknowingly
 foreknowledge
 foreknown
+fluked
 foreknows
 forel
 forelady
