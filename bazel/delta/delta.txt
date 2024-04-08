@@ -5782,7 +5782,6 @@ depopulator
 depopulators
 deport
 deportability
-deportable
 deportation
 deportations
 deporte
@@ -10185,6 +10184,7 @@ dinophilus
 dinornis
 dinornithes
 discontinuance
+deportable
 dinornithic
 dinornithid
 dinornithiformes
