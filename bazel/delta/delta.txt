@@ -1218,6 +1218,7 @@ datatype
 datatypes
 datcha
 datchas
+dialyzers
 date
 dateable
 dateableness
@@ -8308,7 +8309,6 @@ dialyzator
 dialyze
 dialyzed
 dialyzer
-dialyzers
 dialyzes
 dialyzing
 dialkyl
