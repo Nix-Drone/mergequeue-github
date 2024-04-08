@@ -13,6 +13,7 @@ fabiform
 fable
 fibriform
 fabled
+fulmine
 fabledom
 fableland
 fablemaker
@@ -3381,7 +3382,6 @@ fieldstone
 fieldstrip
 fieldward
 fieldwork
-fulmine
 fieldworker
 fieldwort
 feridji
