@@ -5669,6 +5669,7 @@ flinted
 flinter
 flinthead
 flinthearted
+forbreak
 flinty
 flintier
 flintiest
@@ -7421,7 +7422,6 @@ forboding
 forbore
 forborne
 forbow
-forbreak
 forbruise
 forbs
 forcarve
