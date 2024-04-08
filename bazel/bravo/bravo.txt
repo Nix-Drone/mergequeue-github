@@ -2933,7 +2933,6 @@ barred
 barrel
 barrelage
 barreled
-barreleye
 barreleyes
 barreler
 barrelet
@@ -6977,6 +6976,7 @@ beshow
 beshower
 beshrew
 beshrewing
+barreleye
 beshrews
 beshriek
 beshrivel
