@@ -180,7 +180,7 @@ fn maybe_add_logical_merge_conflict(last_pr: u32, config: &Conf) -> bool {
         .expect("Unable to write logical merge conflict file");
 
     git(&["add", &config.pullrequest.logical_conflict_file]);
-    return true;
+    true
 }
 
 fn get_last_pr() -> u32 {
