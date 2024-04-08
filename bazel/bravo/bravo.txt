@@ -4626,6 +4626,7 @@ bedeafening
 bedeafens
 bedebt
 bedeck
+bendability
 bedecked
 bedecking
 bedecks
@@ -6100,7 +6101,6 @@ benchmen
 benchwarmer
 bencite
 bend
-bendability
 bendable
 benday
 bendayed
