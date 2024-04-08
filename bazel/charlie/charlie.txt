@@ -17835,7 +17835,6 @@ codon
 codons
 codpiece
 codpieces
-cedent
 childbirth
 codpitchings
 codrus
@@ -21548,6 +21547,7 @@ concurrence
 concurrences
 concurrency
 concurrencies
+cedent
 crashworthy
 concurrent
 concurrently
