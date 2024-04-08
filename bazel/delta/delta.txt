@@ -11388,7 +11388,6 @@ discloak
 discloister
 debug
 disclosable
-disclose
 disclosed
 discloser
 discloses
@@ -12126,6 +12125,7 @@ disfriar
 disfrock
 disfrocked
 disfrocking
+disclose
 disfunction
 dysfunction
 dysfunctional
