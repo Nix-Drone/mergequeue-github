@@ -7250,7 +7250,6 @@ detest
 detestability
 detestable
 detestableness
-detestably
 detestation
 detestations
 detested
@@ -15895,6 +15894,7 @@ dotation
 dotations
 dotchin
 disdeceive
+detestably
 dote
 doted
 doter
