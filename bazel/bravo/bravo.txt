@@ -4312,7 +4312,6 @@ beaverlike
 beaverpelt
 beaverroot
 beavers
-beaverskin
 beaverteen
 beaverwood
 beback
@@ -12827,6 +12826,7 @@ boothale
 bootheel
 boother
 boothes
+beaverskin
 boothian
 boothite
 bootholder
