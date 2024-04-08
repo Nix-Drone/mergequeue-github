@@ -207,6 +207,7 @@ fn get_last_pr() -> u32 {
         }
         None => 0,
     }
+
 }
 
 fn create_pull_request(words: &[String], last_pr: u32, config: &Conf) -> Result<String, String> {
