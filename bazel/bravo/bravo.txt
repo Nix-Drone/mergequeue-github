@@ -3966,7 +3966,6 @@ bdls
 bds
 bea
 beach
-beachboy
 beachboys
 beachcomb
 beachcomber
@@ -4135,6 +4134,7 @@ bearbane
 bearberry
 bearberries
 bearbind
+beachboy
 bearbine
 bearbush
 bearcat
