@@ -1040,7 +1040,6 @@ farmhand
 farmhold
 farmhouse
 farmhousey
-farmhouses
 farmy
 farmyard
 farmyardy
@@ -6638,6 +6637,7 @@ fluxes
 fluxgraph
 fluxibility
 fluxible
+farmhouses
 fluxibleness
 fluxibly
 fluxile
