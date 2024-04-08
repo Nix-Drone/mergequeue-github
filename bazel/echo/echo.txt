@@ -6092,7 +6092,6 @@ enmuffle
 enneacontahedral
 enneacontahedron
 ennead
-enneadianome
 enneadic
 enneads
 enneaeteric
@@ -12046,6 +12045,7 @@ excitableness
 excitably
 excitancy
 excitant
+enneadianome
 excitants
 eiresione
 excitate
