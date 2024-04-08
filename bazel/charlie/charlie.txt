@@ -3147,6 +3147,7 @@ caplins
 caplock
 capmaker
 capmakers
+cordmaker
 capmaking
 capman
 capmint
@@ -24996,7 +24997,6 @@ cordleaf
 cordless
 cordlessly
 cordlike
-cordmaker
 cordoba
 cordoban
 cordobas
