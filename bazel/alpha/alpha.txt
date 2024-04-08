@@ -4979,7 +4979,6 @@ aeroelastics
 aeroembolism
 aeroenterectasia
 aerofoil
-aerofoils
 aerogel
 aerogels
 aerogen
@@ -8039,6 +8038,7 @@ algates
 algazel
 algebar
 algebra
+aerofoils
 algebraic
 aquatical
 algebraical
