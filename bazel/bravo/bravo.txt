@@ -15081,6 +15081,7 @@ brewer
 brewery
 breweries
 brewers
+bunglesome
 brewership
 brewhouse
 brewhouses
@@ -17414,7 +17415,6 @@ bungled
 bungler
 bunglers
 bungles
-bunglesome
 bungling
 bunglingly
 bunglings
