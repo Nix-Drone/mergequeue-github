@@ -2184,7 +2184,6 @@ greenhew
 gazettal
 gazette
 gazetted
-gazetteer
 gazetteerage
 gazetteerish
 gazetteers
@@ -10084,6 +10083,7 @@ gastropods
 guest
 gorgeously
 guestchamber
+gazetteer
 guested
 guesten
 guester
