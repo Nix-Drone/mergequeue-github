@@ -1423,6 +1423,7 @@ garmenting
 garmentless
 garmentmaker
 garments
+glutael
 glycollide
 garmenture
 garmentworker
@@ -6152,7 +6153,6 @@ gluon
 glusid
 gluside
 glut
-glutael
 glutamate
 glutamates
 glutamic
