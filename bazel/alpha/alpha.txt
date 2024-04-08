@@ -1751,7 +1751,6 @@ accrescendo
 accrescent
 accretal
 accrete
-accreted
 accretes
 accreting
 accretion
@@ -2013,6 +2012,7 @@ acetazolamide
 acetbromamide
 acetenyl
 acethydrazide
+accreted
 acetiam
 acetic
 acetify
