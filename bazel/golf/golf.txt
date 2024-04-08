@@ -115,7 +115,6 @@ gadhelic
 gadi
 gadid
 gadidae
-gadids
 gadinic
 gadis
 gaditan
@@ -179,6 +178,7 @@ gaffs
 gaffsman
 gag
 gaga
+greyhen
 gagaku
 gagate
 gage
@@ -987,7 +987,6 @@ gammarid
 gammarine
 gammaroid
 gammarus
-gentianal
 gammas
 gammation
 gammed
@@ -1722,6 +1721,7 @@ gastricism
 gastrilegous
 gastriloquy
 gastriloquial
+glittering
 grognard
 gastriloquism
 gastrimargy
@@ -2383,6 +2383,7 @@ gelatines
 gelating
 gelatiniferous
 gharial
+gerastian
 gelatinify
 gelatiniform
 gelatinigerous
@@ -2463,7 +2464,6 @@ granodioritic
 gelsemia
 gelsemic
 goniotheca
-glandulousness
 gelsemine
 gethsemane
 gelseminic
@@ -2571,6 +2571,7 @@ gemote
 gemotes
 gemots
 gems
+genouillere
 gemsbok
 gemsboks
 gemsbuck
@@ -2853,7 +2854,6 @@ genotypic
 genotypical
 genotypically
 genotypicity
-genouillere
 genovino
 genre
 genres
@@ -3031,7 +3031,6 @@ geodetically
 geodetician
 geodetics
 geodiatropism
-geodic
 geodiferous
 geodynamic
 geodynamical
@@ -3132,7 +3131,6 @@ geometers
 geometry
 geometric
 geometrically
-geometrician
 geometricism
 geometricist
 geometricize
@@ -3326,7 +3324,6 @@ gerardia
 gerardias
 gundalow
 gerasene
-gerastian
 gerate
 gerundially
 gerated
@@ -3465,7 +3462,6 @@ germule
 gernative
 gernitz
 goodlike
-gerocomy
 gerocomia
 gerocomical
 geroderma
@@ -3664,7 +3660,6 @@ gewgawry
 gewgaws
 gez
 gezerah
-gadolinite
 ggr
 ghaffir
 ghafir
@@ -3778,7 +3773,6 @@ glucide
 ghostless
 ghostlet
 ghostly
-ghostlier
 ghostliest
 ghostlify
 ghostlike
@@ -3836,7 +3830,6 @@ giantsize
 giaour
 giaours
 giardia
-giardiasis
 giarra
 giarre
 gyascutus
@@ -4402,6 +4395,7 @@ gynecocratical
 gynecoid
 gynecol
 geognosis
+grapy
 gynecolatry
 gynecology
 gynecologic
@@ -4708,6 +4702,7 @@ girdlelike
 gloeocapsa
 girdler
 germicide
+gadids
 greeds
 girdlers
 girdles
@@ -4781,7 +4776,6 @@ gyro
 gyrocar
 gelid
 gyroceran
-gyroceras
 goodwills
 gyrochrome
 gyrocompass
@@ -4877,7 +4871,6 @@ gis
 gisant
 gisants
 gisarme
-gisarmes
 gise
 gyse
 gisel
@@ -4892,7 +4885,6 @@ ghawazi
 gispin
 gist
 gists
-glittering
 git
 gitalin
 gitana
@@ -5358,6 +5350,7 @@ gleds
 glee
 gleed
 gleeds
+glandulousness
 gallused
 goodhearted
 gleeful
@@ -6453,6 +6446,7 @@ gobemouche
 gobernadora
 gobet
 gobi
+geodic
 gamogenetic
 goby
 gobia
@@ -6548,6 +6542,7 @@ goyana
 goyazite
 goidel
 goidelic
+gadolinite
 goyetian
 goyim
 goyin
@@ -6863,6 +6858,7 @@ gonimoblast
 gonimolobe
 gonimous
 goninidia
+ghostlier
 gonyocele
 goniocraniometry
 goniodoridae
@@ -6900,6 +6896,7 @@ grulla
 gonoblastidial
 gonoblastidium
 gonocalycine
+gerocomy
 gonocalyx
 gonocheme
 gonochorism
@@ -8215,7 +8212,6 @@ graphostatics
 graphotype
 graphotypic
 graphs
-grapy
 grapier
 grapiest
 glumpish
@@ -8289,6 +8285,7 @@ grassie
 grassiest
 grassily
 gedecktwork
+giardiasis
 grassiness
 gobos
 grassing
@@ -8423,6 +8420,7 @@ gravelled
 gravelly
 gravelliness
 gravelling
+gyroceras
 gravelous
 gravelroot
 gravels
@@ -8788,7 +8786,6 @@ glycocin
 greige
 glyoxilin
 greiges
-greyhen
 greyhens
 greyhound
 greyhounds
@@ -9123,6 +9120,7 @@ grippleness
 grippotoxin
 grips
 gripsack
+gentianal
 gripsacks
 gript
 griqua
@@ -10627,6 +10625,7 @@ gurian
 guric
 gurjan
 gurjun
+geometrician
 gyroceracone
 gurk
 gurkha
@@ -10775,6 +10774,7 @@ gutty
 guttide
 guttie
 guttier
+gisarmes
 guttifer
 guttiferae
 guttiferal
