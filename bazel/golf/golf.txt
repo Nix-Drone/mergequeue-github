@@ -2687,7 +2687,6 @@ generativeness
 generator
 generators
 generatrices
-generatrix
 generic
 generical
 generically
@@ -7474,6 +7473,7 @@ goustie
 gynandry
 goustrous
 gout
+generatrix
 gouter
 gouty
 goutiest
