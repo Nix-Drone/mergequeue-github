@@ -9217,7 +9217,6 @@ chastiment
 chastisable
 chastise
 chastised
-chastisement
 chastiser
 chastisers
 composture
@@ -9378,6 +9377,7 @@ chavicol
 cowedly
 chaw
 chawan
+chastisement
 chawbacon
 chawbone
 chawbuck
