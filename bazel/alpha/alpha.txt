@@ -5033,7 +5033,6 @@ aerologist
 aerologists
 antieducationist
 aeromaechanic
-aeromagnetic
 aeromancer
 aeromancy
 aeromarine
@@ -20640,6 +20639,7 @@ arthrosia
 arthrosynovitis
 arthrosyrinx
 arthrosis
+aeromagnetic
 aethered
 arthrospore
 arthrosporic
