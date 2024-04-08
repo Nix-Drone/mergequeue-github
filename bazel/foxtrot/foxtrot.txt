@@ -5930,7 +5930,6 @@ floodgates
 floody
 flooding
 floodless
-feltwork
 floodlet
 floodlight
 francis
@@ -10985,6 +10984,7 @@ fum
 fumade
 fumado
 fumados
+feltwork
 fumage
 fumagine
 fumago
