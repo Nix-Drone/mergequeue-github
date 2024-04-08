@@ -2598,7 +2598,6 @@ genderer
 genderless
 genders
 geneal
-genealogy
 genealogic
 guberniya
 genealogical
@@ -4288,6 +4287,7 @@ gymnopaedic
 gymnophiona
 gymnophobia
 gymnoplast
+genealogy
 gymnorhinal
 gymnosoph
 gymnosophy
