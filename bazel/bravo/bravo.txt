@@ -6478,7 +6478,6 @@ benzosulfimide
 benzosulphimide
 benzotetrazine
 benzotetrazole
-benzothiazine
 benzothiazoline
 benzothiodiazole
 benzothiofuran
@@ -11517,6 +11516,7 @@ boa
 boaedon
 boagane
 boanbura
+benzothiazine
 boanergean
 boanerges
 boanergism
