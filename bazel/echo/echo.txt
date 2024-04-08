@@ -4094,6 +4094,7 @@ emperil
 emperish
 emperize
 emperor
+entailments
 emperors
 enarthroses
 emperorship
@@ -6515,7 +6516,6 @@ entailable
 entailed
 entailer
 entailment
-entailments
 entails
 ental
 entalent
