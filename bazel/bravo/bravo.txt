@@ -4159,7 +4159,6 @@ bearess
 bearfoot
 bearfoots
 bearherd
-bearhide
 bearhound
 bearhug
 bearhugs
@@ -12661,6 +12660,7 @@ bookkeep
 bookkeeper
 bookkeepers
 bookkeeps
+bearhide
 bookland
 booklear
 booklet
