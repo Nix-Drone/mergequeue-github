@@ -1010,6 +1010,7 @@ absorbable
 absorbance
 absorbancy
 absorbant
+awakeable
 absorbed
 absorbedly
 absorbedness
@@ -24916,7 +24917,6 @@ awaitlala
 awaits
 awakable
 awake
-awakeable
 awaked
 awaken
 awakenable
