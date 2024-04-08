@@ -4732,6 +4732,7 @@ encircle
 encircled
 encirclements
 encircler
+exploiter
 encircles
 encircling
 encyrtid
@@ -13223,7 +13224,6 @@ exploitatively
 exploitatory
 exploited
 exploitee
-exploiter
 exploiting
 exploitive
 exploits
