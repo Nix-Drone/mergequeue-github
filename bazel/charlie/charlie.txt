@@ -5614,6 +5614,7 @@ catchable
 catchall
 catchalls
 catchcry
+colocates
 catched
 catcher
 catchers
@@ -19221,7 +19222,6 @@ colobus
 colocasia
 colocate
 colocated
-colocates
 colocating
 colocentesis
 colocephali
