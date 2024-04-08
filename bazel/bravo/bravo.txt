@@ -3990,7 +3990,6 @@ beachward
 beachwear
 beacon
 beaconage
-beaconed
 beaconing
 beaconless
 beacons
@@ -4248,6 +4247,7 @@ beauclerc
 beaucoup
 beaued
 beauetry
+beaconed
 beaufet
 beaufin
 beaufort
