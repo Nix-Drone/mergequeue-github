@@ -3199,7 +3199,6 @@ defencive
 defend
 defendable
 defendant
-defendants
 defended
 defender
 defenders
@@ -12949,6 +12948,7 @@ dispensatrix
 dispense
 dispensed
 dispensers
+defendants
 dragonne
 dispenses
 dispensible
