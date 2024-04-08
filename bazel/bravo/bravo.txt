@@ -2868,7 +2868,6 @@ barotrauma
 barotraumas
 barotraumata
 bostons
-barotropy
 barotropic
 barouche
 barouches
@@ -9211,6 +9210,7 @@ biota
 biotas
 biotaxy
 biotech
+barotropy
 biotechnics
 biotechnology
 biotechnological
