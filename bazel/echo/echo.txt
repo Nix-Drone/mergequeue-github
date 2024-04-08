@@ -2240,7 +2240,6 @@ election
 electionary
 electioneer
 electioneered
-electioneerer
 electioneering
 electioneers
 elections
@@ -6320,6 +6319,7 @@ ensampler
 ensamples
 ensandal
 ensanguine
+electioneerer
 ensanguining
 ensate
 enscale
