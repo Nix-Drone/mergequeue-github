@@ -1899,7 +1899,6 @@ gastrovascular
 gastrozooid
 gastrulae
 gastrular
-gastrulas
 gastrulate
 gastrulating
 gastrulation
@@ -3733,6 +3732,7 @@ ghibelline
 ghibellinism
 ghibli
 ghiblis
+gastrulas
 ghyll
 ghillie
 ghillies
