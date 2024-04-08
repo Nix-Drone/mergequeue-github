@@ -6934,7 +6934,6 @@ airlock
 airlocks
 airmailed
 airmailing
-airmails
 airman
 airmanship
 airmark
@@ -15724,6 +15723,7 @@ antisepsin
 antiope
 antiopelmous
 archeologic
+airmails
 antiophthalmic
 antiopium
 antiopiumist
