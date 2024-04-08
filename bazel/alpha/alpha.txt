@@ -5377,7 +5377,6 @@ affirmers
 affirming
 affirmingly
 affirms
-affix
 affixable
 affixal
 affixation
@@ -15332,6 +15331,7 @@ antigravitational
 antigravitationally
 antigravity
 antigropelos
+affix
 antigrowth
 antiguan
 antigun
