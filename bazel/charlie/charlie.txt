@@ -16950,7 +16950,6 @@ clutters
 cm
 cmd
 catalecta
-cmdg
 cmdr
 cml
 cnemapophysis
@@ -30027,6 +30026,7 @@ circumambiencies
 crowdedness
 crowder
 crowders
+cmdg
 crowdy
 crowdie
 crowdies
