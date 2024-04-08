@@ -4115,7 +4115,6 @@ delilah
 deliliria
 delim
 delimed
-delimer
 delimes
 deliming
 delimit
@@ -14705,6 +14704,7 @@ diaphoresis
 documentable
 documental
 documentalist
+delimer
 documentary
 documentarian
 documentaries
