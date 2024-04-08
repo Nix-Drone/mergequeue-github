@@ -15093,7 +15093,6 @@ civilisations
 civilisatory
 civilise
 civilised
-civilisedness
 civiliser
 civilises
 civilising
@@ -23807,6 +23806,7 @@ contributary
 contribute
 contributed
 contributes
+civilisedness
 contribution
 cephalob
 contributional
