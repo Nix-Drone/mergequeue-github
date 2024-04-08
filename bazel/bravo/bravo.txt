@@ -3987,7 +3987,6 @@ beaconage
 beaconed
 beaconing
 beaconless
-beacons
 beaconwise
 bead
 beaded
@@ -4828,6 +4827,7 @@ bedsonia
 bedsonias
 bedsore
 bedsores
+beacons
 boopic
 bedspread
 bedspreads
