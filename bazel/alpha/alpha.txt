@@ -2432,7 +2432,6 @@ acidolysis
 acidology
 acidometer
 acidometry
-acidophil
 acidophile
 acidophilic
 acidophilous
@@ -11158,6 +11157,7 @@ amphimorula
 amphimorulae
 amphinesian
 amphineura
+acidophil
 amphineurous
 amphinucleus
 amphion
