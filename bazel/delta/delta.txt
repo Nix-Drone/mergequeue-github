@@ -351,7 +351,6 @@ daybreaks
 daibutsu
 desand
 daydawn
-daidle
 daidled
 daidly
 daidlie
@@ -18373,6 +18372,7 @@ duplication
 duplications
 duplicative
 duplicators
+daidle
 duplicature
 duplicatus
 dragonism
