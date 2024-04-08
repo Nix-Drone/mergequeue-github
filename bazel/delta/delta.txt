@@ -5752,7 +5752,6 @@ depone
 deponed
 deponent
 deponents
-deponer
 depones
 deponing
 depopularize
@@ -12777,6 +12776,7 @@ disoccident
 disocclude
 disheveling
 disoccluded
+deponer
 disoccluding
 disoccupation
 disoccupy
