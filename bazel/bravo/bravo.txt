@@ -462,7 +462,6 @@ backsaws
 backscatter
 backscattered
 backscattering
-backscatters
 backscraper
 backscratcher
 backscratching
@@ -3010,6 +3009,7 @@ barrowcoat
 barrowful
 barrowist
 barrowman
+backscatters
 barrows
 barrulee
 barrulet

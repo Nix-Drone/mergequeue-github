@@ -6035,6 +6035,7 @@ autoing
 agglutinability
 agglutinable
 agglutinant
+apical
 agglutinate
 agglutinated
 agglutinates
@@ -16958,7 +16959,6 @@ apiarist
 apiarists
 apiator
 apicad
-apical
 apically
 apices
 apician
