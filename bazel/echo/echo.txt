@@ -1117,6 +1117,7 @@ edifices
 edificial
 edificing
 edified
+exopt
 edifier
 edifiers
 edifies
@@ -12765,7 +12766,6 @@ exoplasm
 exopod
 exopodite
 exopoditic
-exopt
 exopterygota
 exopterygote
 exopterygotic
