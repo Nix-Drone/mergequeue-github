@@ -5261,7 +5261,6 @@ endopleural
 endopleurite
 electrometry
 endopleuritic
-endopod
 endopodite
 endopoditic
 endopods
@@ -6183,6 +6182,7 @@ enormousness
 enorn
 enos
 enosis
+endopod
 enosises
 encephalosis
 enosist
