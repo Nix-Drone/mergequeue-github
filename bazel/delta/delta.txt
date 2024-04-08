@@ -3927,6 +3927,7 @@ delay
 delayable
 delayage
 delayed
+demes
 delayer
 delayers
 delayful
@@ -4466,7 +4467,6 @@ demersal
 demerse
 demersed
 demersion
-demes
 demesgne
 demesgnes
 demesman
