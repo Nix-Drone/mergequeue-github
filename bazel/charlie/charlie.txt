@@ -1035,7 +1035,6 @@ calcific
 calcification
 calcified
 calcifies
-construct
 calcifying
 calciform
 calcifugal
@@ -9533,6 +9532,7 @@ checks
 checkstrap
 checkstring
 checksum
+construct
 checksummed
 checksumming
 checkup
