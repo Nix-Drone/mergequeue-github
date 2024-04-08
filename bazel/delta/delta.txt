@@ -3378,7 +3378,6 @@ deflect
 deflectable
 deflected
 deflecting
-deflection
 deflectional
 deflectionization
 deflectionize
@@ -11800,6 +11799,7 @@ discussant
 discussed
 discusser
 discusses
+deflection
 discussing
 discussion
 discussional
