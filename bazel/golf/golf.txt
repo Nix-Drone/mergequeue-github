@@ -2989,7 +2989,6 @@ glovelike
 geocerite
 geochemical
 geochemically
-geochemist
 geochemists
 geochrony
 geochronic
@@ -4426,6 +4425,7 @@ gynecophoric
 gynecophorous
 gynecratic
 gyneocracy
+geochemist
 gyneolater
 gyneolatry
 ginep
