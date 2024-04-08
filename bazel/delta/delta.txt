@@ -6261,7 +6261,6 @@ dermatosis
 dermatoskeleton
 dermatotherapy
 dermatotome
-dermatotomy
 dermatotropic
 dermatoxerasia
 dermatozoon
@@ -6675,6 +6674,7 @@ desilverized
 desilverizer
 desilverizing
 desilvers
+dermatotomy
 desynapsis
 desynaptic
 desynchronize
