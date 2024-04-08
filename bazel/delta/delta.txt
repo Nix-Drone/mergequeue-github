@@ -466,7 +466,6 @@ daisy
 daisybush
 dayside
 daysides
-daisied
 daisies
 daising
 daysman
@@ -9161,6 +9160,7 @@ die
 dye
 dyeability
 dyeable
+daisied
 ditriglyph
 dieb
 dieback
