@@ -2984,7 +2984,6 @@ brainsick
 barricados
 barrico
 barricoes
-barricos
 barrier
 barriers
 barriguda
@@ -5600,6 +5599,7 @@ belander
 belap
 belar
 belard
+barricos
 belash
 belat
 belate
