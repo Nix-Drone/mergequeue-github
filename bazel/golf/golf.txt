@@ -2225,7 +2225,6 @@ gearshift
 gearshifts
 gearwheel
 gearwheels
-glistening
 gease
 geason
 geast
@@ -9980,6 +9979,7 @@ gubbin
 gubbings
 gubbins
 gubbo
+glistening
 guberla
 gubernacula
 gubernacular
