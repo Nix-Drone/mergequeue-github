@@ -8397,7 +8397,6 @@ epitonic
 epitoniidae
 epitonion
 epitonium
-epitoxoid
 epitra
 epitrachelia
 epitrachelion
@@ -11642,6 +11641,7 @@ evocations
 evocative
 encodement
 evocatively
+epitoxoid
 evocativeness
 energy
 evocator
