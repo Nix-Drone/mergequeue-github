@@ -2467,7 +2467,6 @@ electrolyzed
 electrolyzer
 electrolyzing
 electrology
-electrologic
 electrological
 electrologist
 electrologists
@@ -4062,6 +4061,7 @@ empanelling
 empanelment
 empanels
 empannel
+electrologic
 empanoply
 empaper
 emparchment
