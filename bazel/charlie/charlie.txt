@@ -8681,7 +8681,6 @@ chansonniers
 chansons
 chanst
 chant
-chantable
 celandine
 chantage
 chantages
@@ -27312,6 +27311,7 @@ coupure
 courage
 courageous
 courageously
+chantable
 courageousness
 courager
 courages
