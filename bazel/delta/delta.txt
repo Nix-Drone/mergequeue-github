@@ -11145,7 +11145,6 @@ disbanded
 disbanding
 disbandment
 disbandments
-disbands
 disbar
 dysbarism
 disbark
@@ -14439,6 +14438,7 @@ divulged
 divulgence
 divulgences
 divulger
+disbands
 divulges
 divulging
 divulse
