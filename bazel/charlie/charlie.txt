@@ -7029,6 +7029,7 @@ centigrade
 centigrado
 centigram
 centigramme
+confluences
 centigrams
 centile
 centiles
@@ -22046,7 +22047,6 @@ conflicts
 conflictual
 conflow
 confluence
-confluences
 confluent
 confluently
 conflux
