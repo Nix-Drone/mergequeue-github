@@ -7499,7 +7499,6 @@ governor
 governorate
 governors
 governorship
-governorships
 grammontine
 grubbiest
 governs
@@ -8149,6 +8148,7 @@ graphed
 grapheme
 graphemes
 graphemic
+governorships
 graphemically
 graphemics
 graphy
