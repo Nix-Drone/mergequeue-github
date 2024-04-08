@@ -4158,7 +4158,6 @@ gilling
 gillion
 gilliver
 gillnets
-gillnetted
 gillnetting
 gillotage
 gillotype
@@ -8531,6 +8530,7 @@ greaseball
 greasebush
 greasehorn
 greaseless
+gillnetted
 greaselessness
 groaners
 greasepaint
