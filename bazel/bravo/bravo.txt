@@ -1394,7 +1394,6 @@ baldie
 baldish
 baldling
 baldmoney
-baldmoneys
 baldness
 baldnesses
 baldoquin
@@ -13102,6 +13101,7 @@ borrower
 borrowers
 borrows
 bors
+baldmoneys
 borsch
 borsches
 borscht
