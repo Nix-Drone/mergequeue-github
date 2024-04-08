@@ -2948,7 +2948,6 @@ deducibility
 deducibly
 deducing
 deducive
-deduct
 deducted
 deductibility
 deductible
@@ -15411,6 +15410,7 @@ dondia
 dondine
 done
 diaries
+deduct
 donec
 donee
 donees
