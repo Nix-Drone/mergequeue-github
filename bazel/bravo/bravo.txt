@@ -3586,7 +3586,6 @@ bathypelagic
 bathyplankton
 bathyscaph
 briquetted
-bathyscaphe
 bathyscaphes
 bathyseism
 bathysmal
@@ -13424,6 +13423,7 @@ bottomrying
 bottoms
 bottstick
 bottu
+bathyscaphe
 botuliform
 botulin
 botulinal
