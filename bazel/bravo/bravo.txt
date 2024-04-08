@@ -6255,7 +6255,6 @@ benign
 benignancy
 benignancies
 benignant
-benignantly
 benignity
 boletic
 benignities
@@ -12430,6 +12429,7 @@ bonebinder
 boneblack
 bonebreaker
 boned
+benignantly
 bonedog
 bonedry
 boneen

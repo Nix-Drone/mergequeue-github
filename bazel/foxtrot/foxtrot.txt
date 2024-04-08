@@ -4450,7 +4450,6 @@ fissidactyl
 fissidentaceae
 fissidentaceous
 fissile
-fissileness
 fissilingual
 fissilinguia
 fissility
@@ -6296,6 +6295,7 @@ fluentness
 fervour
 fluer
 flueric
+fissileness
 fluerics
 flues
 fluework
