@@ -4638,7 +4638,6 @@ bedecks
 bedecorate
 bedeen
 bedegar
-bedeguar
 bedehouse
 bedehouses
 bedel
@@ -12285,6 +12284,7 @@ bombazine
 bombe
 basin
 bombed
+bedeguar
 bomber
 bedirty
 bombernickel
