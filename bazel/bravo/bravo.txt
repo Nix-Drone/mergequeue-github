@@ -4704,7 +4704,6 @@ bedip
 bedirt
 bedirter
 browbeaten
-bedirty
 bedirtied
 bedirties
 bedirtying
@@ -12284,6 +12283,7 @@ bombe
 basin
 bombed
 bomber
+bedirty
 bombernickel
 begroaning
 bombers
