@@ -2820,7 +2820,6 @@ decriminalizing
 decrypt
 decrypted
 decrypting
-decryption
 decryptions
 decryptograph
 decrypts
@@ -14030,6 +14029,7 @@ dysury
 dysuria
 dysurias
 dysuric
+decryption
 disusage
 disusance
 disuse
