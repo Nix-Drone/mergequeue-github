@@ -4931,7 +4931,6 @@ giveaways
 givey
 goburra
 given
-givenness
 givens
 giver
 givers
@@ -7262,6 +7261,7 @@ gorrel
 gorry
 giles
 gorse
+givenness
 gorsebird
 gharri
 gorsechat
