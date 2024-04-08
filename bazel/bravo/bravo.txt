@@ -7585,7 +7585,6 @@ bewash
 bewaste
 bewater
 beweary
-bewearied
 bewearies
 bewearying
 beweep
@@ -15875,6 +15874,7 @@ bromocyanogen
 blepharochalasis
 bromocresol
 bromodeoxyuridine
+bewearied
 bromoethylene
 bromohydrate
 bigeyes
