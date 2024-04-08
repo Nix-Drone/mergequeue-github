@@ -5859,7 +5859,6 @@ genipapada
 gloss
 glossa
 glossae
-glossagra
 glossal
 glossalgy
 glossalgia
@@ -10510,6 +10509,7 @@ gunlaying
 gunless
 gunline
 gunlock
+glossagra
 gunlocks
 gunmaker
 gunmaking
