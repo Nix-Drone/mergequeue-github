@@ -1419,6 +1419,7 @@ garmenting
 garmentless
 garmentmaker
 garments
+glycollide
 garmenture
 garmentworker
 garn
@@ -5497,7 +5498,6 @@ glycolysis
 glycolytic
 glycolytically
 glycollate
-glycollide
 glycols
 gard
 globulolysis
