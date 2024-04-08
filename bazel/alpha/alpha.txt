@@ -10589,6 +10589,7 @@ aminobenzene
 aminobenzine
 aminobenzoic
 aminocaproic
+autotoxicosis
 aminodiphenyl
 amynodon
 amynodont
@@ -24446,7 +24447,6 @@ autotoxaemia
 autotoxemia
 autotoxic
 autotoxication
-autotoxicosis
 autotoxin
 autotoxis
 autotractor
