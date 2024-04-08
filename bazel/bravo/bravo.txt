@@ -1884,7 +1884,6 @@ bandcase
 bandcutter
 bande
 bandeau
-bandeaus
 bandeaux
 britishers
 banded
@@ -6350,6 +6349,7 @@ bakupari
 benzaldehyde
 benzaldiphenyl
 benzaldoxime
+bandeaus
 benzalethylamine
 benzalhydrazine
 benzalphenylhydrazone
