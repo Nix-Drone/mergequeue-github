@@ -8700,7 +8700,6 @@ billowiness
 billowing
 billows
 basil
-billposter
 billposting
 bills
 billsticker
@@ -12236,6 +12235,7 @@ boltstrake
 boltuprightness
 boltwork
 bolus
+billposter
 boluses
 bom
 boma

@@ -19983,7 +19983,6 @@ armorbearer
 armored
 armorer
 armorers
-armory
 armorial
 armorially
 ampoules
@@ -23940,6 +23939,7 @@ autocytolytic
 autoclasis
 autoclave
 autocomplexes
+armory
 autoclaves
 autoclaving
 autocoder
