@@ -7118,7 +7118,6 @@ centricalness
 centricipital
 centriciput
 centricity
-centriffed
 centrifugalisation
 centrifugalise
 centrifugalization
@@ -27800,6 +27799,7 @@ cpt
 cpu
 cpus
 cputime
+centriffed
 cq
 cr
 craal
