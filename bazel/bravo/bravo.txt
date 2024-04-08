@@ -4606,7 +4606,6 @@ bedcase
 bedchair
 bedchairs
 bedchamber
-bedclothes
 bedclothing
 bedcord
 bedcover
@@ -17765,6 +17764,7 @@ burma
 burman
 burmannia
 burmanniaceae
+bedclothes
 burmanniaceous
 burmese
 burmite
