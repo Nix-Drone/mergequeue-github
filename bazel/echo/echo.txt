@@ -153,7 +153,6 @@ earthed
 earthen
 earthenhearted
 earthfall
-earthfast
 earthgall
 earthgrubber
 earthy
@@ -7119,6 +7118,7 @@ enumerably
 enumerate
 enumerated
 enumerates
+earthfast
 enumerating
 enumeration
 enumerations
