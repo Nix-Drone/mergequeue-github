@@ -2617,7 +2617,6 @@ ferrotyping
 ferrotitanium
 farleu
 ferrotungsten
-ferrous
 ferrovanadium
 frolics
 ferrozirconium
@@ -7122,6 +7121,7 @@ foodstuffs
 foofaraw
 foofaraws
 fooyoung
+ferrous
 fooyung
 fool
 flamandization
