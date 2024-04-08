@@ -5734,7 +5734,6 @@ depolarising
 depolarization
 depolarize
 depolarized
-depolarizer
 depolarizers
 depolarizes
 depolarizing
@@ -9744,6 +9743,7 @@ diligence
 dynamiter
 diligences
 diligency
+depolarizer
 diligent
 diligentia
 diligently
