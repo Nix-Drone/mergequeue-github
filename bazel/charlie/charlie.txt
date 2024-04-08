@@ -5178,7 +5178,6 @@ cassiopeian
 cassiopeid
 cassiopeium
 cassique
-cassiri
 cassis
 cassises
 cassiterite
@@ -23110,6 +23109,7 @@ constitutive
 constitutively
 constitutiveness
 constitutor
+cassiri
 constr
 constrain
 constrainable
