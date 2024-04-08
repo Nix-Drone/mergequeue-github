@@ -2596,7 +2596,6 @@ enthrall
 electroplate
 electroplater
 electroplates
-electroplating
 electroplax
 electropneumatic
 electropoion
@@ -5065,6 +5064,7 @@ endleaf
 endleaves
 endless
 endlessly
+electroplating
 endlichite
 endlong
 endmost
