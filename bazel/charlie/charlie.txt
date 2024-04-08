@@ -3958,7 +3958,6 @@ cardioarterial
 cardioblast
 cardiocarpum
 cardiocele
-cardiocentesis
 cardiocirrhosis
 cardioclasia
 cardioclasis
@@ -22659,6 +22658,7 @@ conoidal
 conoidally
 conoidic
 conoidical
+cardiocentesis
 conoidically
 camphanyl
 conoids
