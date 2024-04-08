@@ -6590,7 +6590,6 @@ enterfeat
 entergogenic
 enteria
 enteric
-entericoid
 entering
 enteritidis
 enteritis
@@ -11865,6 +11864,7 @@ exasperated
 exasperatedly
 exasperater
 exasperates
+entericoid
 exasperating
 exasperatingly
 exasperation
