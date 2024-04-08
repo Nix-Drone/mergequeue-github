@@ -15984,7 +15984,6 @@ clerics
 clericum
 clerid
 cleridae
-clerids
 clerihew
 clerihews
 clerisy
@@ -23441,6 +23440,7 @@ conterminousness
 conterraneous
 contes
 contessa
+clerids
 contesseration
 contest
 contestability
