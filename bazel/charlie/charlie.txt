@@ -1293,6 +1293,7 @@ caliculate
 calyculate
 calyculated
 calycule
+coercing
 caliculi
 calyculi
 calyculus
@@ -18087,7 +18088,6 @@ coercibility
 coercible
 coercibleness
 coercibly
-coercing
 coercion
 coercionary
 coercionist
