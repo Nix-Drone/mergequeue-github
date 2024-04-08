@@ -3172,7 +3172,6 @@ elsewhen
 elsewhere
 elsewheres
 elsewise
-elshin
 elsholtzia
 elsin
 elt
@@ -8167,6 +8166,7 @@ episcopality
 episcopally
 episcopant
 episcoparian
+elshin
 episcopate
 episcopates
 episcopation
