@@ -3895,6 +3895,7 @@ dekagram
 dekagramme
 dekagrams
 dekaliter
+doggerelize
 dekaliters
 dekalitre
 dekameter
@@ -14904,7 +14905,6 @@ defatigated
 doggereled
 doggerelism
 doggerelist
-doggerelize
 doggerelizer
 doggerelizing
 doggerelled
