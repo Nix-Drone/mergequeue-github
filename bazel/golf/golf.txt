@@ -3449,7 +3449,6 @@ germing
 gilgai
 germiniparous
 germinogony
-germless
 germlike
 germling
 germon
@@ -5695,6 +5694,7 @@ globes
 globetrotters
 globetrotting
 globy
+germless
 globicephala
 gorsier
 globiferous
