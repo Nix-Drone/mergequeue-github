@@ -5972,7 +5972,6 @@ beman
 bemangle
 bemantle
 bemar
-bemartyr
 bemas
 bemask
 bemaster
@@ -13314,6 +13313,7 @@ bulletproofs
 bothrenchyma
 bothria
 bothridia
+bemartyr
 bothridium
 bothridiums
 bothriocephalus
