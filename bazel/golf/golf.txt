@@ -4781,7 +4781,6 @@ gyro
 gyrocar
 gelid
 gyroceran
-gyroceras
 goodwills
 gyrochrome
 gyrocompass
@@ -8423,6 +8422,7 @@ gravelled
 gravelly
 gravelliness
 gravelling
+gyroceras
 gravelous
 gravelroot
 gravels
