@@ -3873,7 +3873,6 @@ finableness
 finagle
 finagler
 finaglers
-fergusite
 finagles
 fairstead
 final
@@ -5283,6 +5282,7 @@ flawiest
 flawing
 flawless
 flawlessly
+fergusite
 flawlessness
 flawn
 flaws
