@@ -5963,6 +5963,7 @@ floorhead
 flooring
 floorings
 forementioned
+fluidizing
 floorless
 floorman
 floormen
@@ -6336,7 +6337,6 @@ followup
 fluidizer
 flotations
 fluidizes
-fluidizing
 fluidly
 fluidmeter
 fluidness
