@@ -5377,7 +5377,6 @@ endothelial
 endothelioblastoma
 endotheliocyte
 endothelioid
-endotheliolysin
 endotheliolytic
 endothelioma
 endotheliomas
@@ -8933,6 +8932,7 @@ erethitic
 erethizon
 erethizontidae
 eretrian
+endotheliolysin
 erewhile
 erewhiles
 erf
