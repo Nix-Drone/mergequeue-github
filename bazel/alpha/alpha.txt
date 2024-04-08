@@ -5218,7 +5218,6 @@ aetiologies
 aetiologist
 aetiologue
 aetiophyllin
-aetiotropic
 aetiotropically
 aetites
 aetobatidae
@@ -14085,6 +14084,7 @@ antecedaneously
 antecede
 anteceded
 antecedence
+aetiotropic
 antecedency
 antecedent
 antecedental
