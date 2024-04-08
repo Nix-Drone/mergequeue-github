@@ -512,7 +512,6 @@ echelle
 extraphenomenal
 echelon
 echeloned
-echeloning
 echelonment
 echelons
 echeloot
@@ -3432,6 +3431,7 @@ epees
 embezzle
 embezzled
 embezzlement
+echeloning
 embezzlements
 embezzler
 embezzlers
