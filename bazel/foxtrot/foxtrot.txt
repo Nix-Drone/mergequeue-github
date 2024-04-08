@@ -2594,6 +2594,7 @@ ferroelectricity
 ferroglass
 ferrogoslarite
 ferrohydrocyanic
+framesmith
 ferromagnesian
 ferromagnet
 ferromagnetic
@@ -9331,7 +9332,6 @@ framer
 frames
 fussify
 frameshift
-framesmith
 framework
 frameworks
 framing
