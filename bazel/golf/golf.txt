@@ -2976,7 +2976,6 @@ geoagronomic
 geobiologic
 geobiont
 geobios
-geoblast
 geobotany
 geobotanic
 geobotanically
@@ -8941,6 +8940,7 @@ griffinism
 glagah
 griffins
 griffith
+geoblast
 griffon
 griffonage
 griffonne
