@@ -6585,7 +6585,6 @@ entera
 enterable
 enteraden
 enteradenography
-enteradenographic
 enteradenology
 enteradenological
 enteral
@@ -10975,6 +10974,7 @@ eupatorine
 eupatorium
 eupatrid
 eupatridae
+enteradenographic
 eupatrids
 eupepsy
 eupepsia
