@@ -9308,7 +9308,6 @@ bipinnarias
 bipinnate
 bipinnated
 bipinnatifid
-bipinnatiparted
 bipinnatipartite
 bipinnatisect
 bipinnatisected
@@ -17494,6 +17493,7 @@ buoyage
 buoyages
 buoyance
 buoyances
+bipinnatiparted
 buoyant
 buoyantly
 buoyantness
