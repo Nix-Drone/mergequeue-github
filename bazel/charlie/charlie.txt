@@ -4310,6 +4310,7 @@ carlylesque
 carlylian
 carlylism
 carlin
+crouched
 carlina
 carline
 carlines
@@ -29982,7 +29983,6 @@ crouch
 crouchant
 crouchback
 crouche
-crouched
 croucher
 crouches
 crouchie
