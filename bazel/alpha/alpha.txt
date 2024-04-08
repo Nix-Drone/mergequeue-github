@@ -9677,7 +9677,6 @@ alveololabial
 albacea
 alveololingual
 alveolonasal
-alveolosubnasal
 alveolotomy
 alveolus
 alveus
@@ -14370,6 +14369,7 @@ anthypophoretic
 anthobian
 anthocarp
 anthocarpous
+alveolosubnasal
 anthoceros
 anthocerotaceae
 anthocerote
