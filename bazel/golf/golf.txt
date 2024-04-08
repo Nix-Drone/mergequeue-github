@@ -5365,7 +5365,6 @@ gleeman
 gleen
 gleesome
 gleesomely
-gleesomeness
 gleet
 gleety
 gleetier
@@ -6999,6 +6998,7 @@ goodness
 goodnesses
 goodnight
 goodrich
+gleesomeness
 goodship
 goodsire
 goodsome
