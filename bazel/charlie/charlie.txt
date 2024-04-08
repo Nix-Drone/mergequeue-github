@@ -8137,7 +8137,6 @@ chainman
 chainmen
 chainomatic
 chainon
-chainplate
 chains
 chainsman
 chainsmen
@@ -12872,6 +12871,7 @@ churidars
 churinga
 churingas
 churl
+chainplate
 churly
 churlier
 corrugations
