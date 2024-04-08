@@ -6266,7 +6266,6 @@ agnail
 agnails
 agname
 agnamed
-agnat
 agnate
 agnates
 agnatha
@@ -15548,6 +15547,7 @@ antimetabolite
 antimetathesis
 antimetathetic
 antimeter
+agnat
 antimethod
 antimethodic
 antimethodical
