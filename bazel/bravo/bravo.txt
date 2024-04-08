@@ -4464,7 +4464,6 @@ beclatter
 beclaw
 beclip
 becloak
-becloaked
 becloaking
 becloaks
 beclog
@@ -13561,6 +13560,7 @@ besiren
 bounds
 boundure
 bounteous
+becloaked
 bounteously
 bounteousness
 bounty

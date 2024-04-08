@@ -4187,7 +4187,6 @@ gym
 gimbal
 gimbaled
 gimbaling
-gimbaljawed
 gimballed
 gurdfish
 gimballing
@@ -8512,6 +8511,7 @@ grazed
 grazer
 gradus
 grazers
+gimbaljawed
 grazes
 gallimatia
 grazie
