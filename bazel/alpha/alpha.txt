@@ -4430,7 +4430,6 @@ adsmithing
 adsorb
 adsorbability
 adsorbable
-adsorbate
 adsorbates
 adsorbed
 adsorbent
@@ -6526,6 +6525,7 @@ agrological
 agrologically
 agrologies
 agrologist
+adsorbate
 agrom
 agromania
 agromyza
