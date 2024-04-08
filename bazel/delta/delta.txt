@@ -3443,6 +3443,7 @@ defoil
 dawish
 defoliage
 defoliant
+dorsobranchiata
 defoliants
 defoliate
 defoliates
@@ -15794,7 +15795,6 @@ dorsiventrally
 dorsoabdominal
 dorsoanterior
 dorsoapical
-dorsobranchiata
 dorsocaudad
 dorsocaudal
 dorsocentral
