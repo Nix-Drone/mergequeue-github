@@ -1849,7 +1849,6 @@ eyewitnesses
 eiffel
 eigenfrequency
 eigenfunction
-eigenspace
 eigenstate
 eigenvalue
 eigenvalues
@@ -12110,6 +12109,7 @@ endpoint
 excludingly
 exclusion
 exclusionary
+eigenspace
 exclusioner
 enalyron
 exclusionism
