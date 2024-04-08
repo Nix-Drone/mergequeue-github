@@ -191,6 +191,7 @@ factory
 factorial
 factorially
 frizer
+flabile
 factorials
 factories
 factorylike
@@ -4706,7 +4707,6 @@ forefelt
 flabellation
 flabellifoliate
 flabellum
-flabile
 flabra
 flabrum
 flabs
