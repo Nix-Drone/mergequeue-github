@@ -6617,6 +6617,7 @@ enterocinetic
 enterocyst
 enterocystoma
 enterocleisis
+excluding
 enteroclisis
 enteroclysis
 enterococcal
@@ -12100,7 +12101,6 @@ exclude
 excludes
 excludible
 endpoint
-excluding
 excludingly
 exclusion
 exclusionary
