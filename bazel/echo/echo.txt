@@ -2865,7 +2865,6 @@ eucalypt
 elevations
 elevato
 elevator
-elevatory
 elevators
 eleve
 escalators
@@ -7655,6 +7654,7 @@ epicoelian
 epicoeloma
 epicoelous
 epicolic
+elevatory
 epicondylar
 epicondyle
 epicondylian
