@@ -3389,7 +3389,6 @@ germanics
 germanify
 germanification
 germanyl
-germanish
 germanism
 germanist
 germanistic
@@ -5531,6 +5530,7 @@ glycosuric
 glycuresis
 glycuronic
 glycuronid
+germanish
 glycuronide
 graph
 glidder
