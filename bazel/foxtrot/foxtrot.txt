@@ -7563,7 +7563,6 @@ forecaddie
 forecar
 forecarriage
 forecast
-forecasted
 forecaster
 forecasters
 forecasting
@@ -11301,6 +11300,7 @@ friggle
 furaldehyde
 furan
 furandi
+forecasted
 furane
 furanes
 furanoid
