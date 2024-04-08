@@ -6070,7 +6070,6 @@ caudae
 caudaite
 caudal
 caudally
-caudalward
 caudata
 capsulotome
 caudate
@@ -18491,6 +18490,7 @@ coiffures
 coiffuring
 ccws
 coifing
+caudalward
 coifs
 coign
 coigne
