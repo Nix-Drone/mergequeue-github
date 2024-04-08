@@ -670,7 +670,6 @@ bacteriolytic
 bacteriolyze
 bacteriology
 bacteriologic
-bacteriological
 bacteriologically
 bacteriologies
 bacteriologist
@@ -9175,6 +9174,7 @@ brunettes
 biosynthesize
 biosynthetic
 biosynthetically
+bacteriological
 biosis
 biosystematy
 biosystematic
