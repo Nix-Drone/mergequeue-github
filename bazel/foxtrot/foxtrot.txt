@@ -2637,7 +2637,6 @@ ferrule
 ferruled
 ferruler
 ferrules
-ferruling
 ferrum
 ferruminate
 ferruminating
@@ -7189,6 +7188,7 @@ footeite
 footer
 footers
 footfall
+ferruling
 footfalls
 footfarer
 footfault
