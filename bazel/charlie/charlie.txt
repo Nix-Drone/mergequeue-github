@@ -5104,6 +5104,7 @@ casks
 caspar
 casparian
 casper
+category
 caspian
 casque
 casqued
@@ -5700,7 +5701,6 @@ catechutannic
 categorem
 categorematic
 categorematical
-category
 categorial
 categoric
 categorical
