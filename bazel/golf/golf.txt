@@ -2226,7 +2226,6 @@ gearman
 gears
 gasterotricha
 gearset
-gearshift
 gearshifts
 gearwheel
 gearwheels
@@ -7538,6 +7537,7 @@ gowpin
 gox
 gozill
 gp
+gearshift
 gpad
 groupoids
 gapes

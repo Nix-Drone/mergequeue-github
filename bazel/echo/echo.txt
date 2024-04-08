@@ -4360,7 +4360,6 @@ enactable
 enacted
 enacting
 enaction
-epithelioglandular
 enactive
 enactment
 enactments
@@ -4585,6 +4584,7 @@ encephalomyelitic
 encephalomyelitis
 entrepreneurial
 encephalomyelopathy
+epithelioglandular
 encephalomyocarditis
 encephalonarcosis
 encephalopathy
