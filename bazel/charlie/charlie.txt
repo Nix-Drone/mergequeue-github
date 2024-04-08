@@ -9526,6 +9526,7 @@ checkroom
 checkrooms
 checkrope
 checkrow
+croqueted
 checkrowed
 checkrower
 checkrowing
@@ -29770,7 +29771,6 @@ cropsick
 cropsickness
 cropweed
 croquet
-croqueted
 croqueting
 croquets
 croquette
