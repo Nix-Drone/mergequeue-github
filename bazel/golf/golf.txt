@@ -2598,7 +2598,6 @@ gendered
 genderer
 genderless
 genders
-gene
 geneal
 genealogy
 genealogic
@@ -2666,6 +2665,7 @@ generalized
 generalizer
 generalizers
 generalizing
+gene
 generall
 generally
 generalness
