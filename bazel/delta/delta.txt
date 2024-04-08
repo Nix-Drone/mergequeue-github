@@ -11791,7 +11791,6 @@ discursus
 discurtain
 discus
 discuses
-discussant
 discussed
 discusser
 discusses
@@ -14888,6 +14887,7 @@ dogfennel
 dogfight
 dogfighting
 dogfights
+discussant
 dogfish
 dogfishes
 dogfoot
