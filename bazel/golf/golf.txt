@@ -2776,7 +2776,6 @@ gestures
 genio
 genioglossal
 globoids
-genioglossi
 genioglossus
 geniohyoglossal
 geniohyoglossus
@@ -9433,6 +9432,7 @@ groundy
 grounding
 galvanotactic
 guar
+genioglossi
 groundkeeper
 groundless
 groundlessly
