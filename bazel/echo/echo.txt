@@ -11495,7 +11495,6 @@ eventuality
 eventualities
 eventualize
 eventually
-eventuate
 eventuated
 eventuating
 eventuations
@@ -12662,6 +12661,7 @@ exocoele
 exocoelic
 exocoelom
 exocoelum
+eventuate
 exocoetidae
 exocoetus
 exocolitis
