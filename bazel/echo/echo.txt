@@ -6782,7 +6782,6 @@ enthronement
 enthronements
 enthrones
 enthrong
-enthroning
 enthronise
 enthronised
 enthronising
@@ -7622,6 +7621,7 @@ epicenes
 epicenism
 epicenity
 epicenter
+enthroning
 epicenters
 epicentral
 epicentre
