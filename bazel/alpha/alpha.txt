@@ -5754,6 +5754,7 @@ aftertrial
 afterturn
 aftervision
 afterwale
+autocosm
 afterwar
 afterward
 afterwards
@@ -23963,7 +23964,6 @@ autocoprophagous
 autocorrelate
 autocorrelation
 autocorrosion
-autocosm
 autocracy
 autocracies
 archsnob
