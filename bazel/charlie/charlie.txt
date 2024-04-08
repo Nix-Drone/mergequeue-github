@@ -1047,6 +1047,7 @@ calciminer
 calcimines
 calcimining
 calcinable
+choppin
 calcinate
 calcination
 calcinator
@@ -11839,7 +11840,6 @@ choppy
 choppier
 choppiest
 choppily
-choppin
 choppiness
 chopping
 chops
