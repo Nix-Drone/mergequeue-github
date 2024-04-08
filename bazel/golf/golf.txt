@@ -1803,7 +1803,6 @@ gastrohysteropexy
 gastrohysterotomy
 gastroid
 gastrointestinal
-gastrojejunal
 grassquit
 gastrojejunostomy
 gastrojejunostomies
@@ -5108,6 +5107,7 @@ glamorization
 glamorizations
 glamorize
 glamorized
+gastrojejunal
 gourinae
 glamorizer
 glamorizes
