@@ -1460,7 +1460,6 @@ accepted
 acceptee
 acceptees
 accepter
-accepters
 acceptilate
 acceptilated
 acceptilating
@@ -24140,6 +24139,7 @@ autolaryngoscopy
 autolaryngoscopic
 autolater
 autolatry
+accepters
 autolavage
 autolesion
 autolimnetic
