@@ -12771,7 +12771,6 @@ angiohypotonia
 angioid
 angiokeratoma
 angiokinesis
-angiokinetic
 angioleucitis
 angiolymphitis
 angiolymphoma
@@ -25050,6 +25049,7 @@ awreak
 awreck
 awry
 awrist
+angiokinetic
 awrong
 awshar
 awunctive
