@@ -4836,7 +4836,6 @@ gyroscopic
 gyroscopics
 gyrose
 gyrosyn
-girosol
 gyrostabilized
 gyrostabilizer
 gyrostachys
@@ -9460,6 +9459,7 @@ galactolytic
 groundskeeping
 groundsman
 groundspeed
+girosol
 groundswell
 groundswells
 groundwall
