@@ -1264,7 +1264,6 @@ dattock
 dattos
 doitrified
 datum
-datums
 dardanarius
 datura
 daturas
@@ -6528,6 +6527,7 @@ deselect
 deselected
 deselecting
 deselects
+datums
 desemer
 dichotomised
 decretory
