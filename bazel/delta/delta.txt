@@ -11217,7 +11217,6 @@ disbursal
 disbursals
 disburse
 disbursed
-disbursements
 disburser
 disburses
 disbursing
@@ -16762,6 +16761,7 @@ drawbolt
 drawbore
 drawbored
 drawbores
+disbursements
 drawbridge
 drawbridges
 drawcansir
