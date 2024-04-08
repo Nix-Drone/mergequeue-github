@@ -1102,6 +1102,7 @@ calcrete
 calcsinter
 calcspar
 calcspars
+cotwal
 calctufa
 calctufas
 calctuff
@@ -26504,7 +26505,6 @@ cotula
 cotunnite
 coturnix
 cotutor
-cotwal
 cotwin
 cotwinned
 cotwist
