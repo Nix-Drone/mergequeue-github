@@ -22842,6 +22842,7 @@ conserver
 conservers
 conserves
 conserving
+collated
 consy
 consider
 considerability
@@ -24941,7 +24942,6 @@ cordately
 crumbcloth
 cordax
 cordeau
-collated
 corded
 cordel
 cordelia
