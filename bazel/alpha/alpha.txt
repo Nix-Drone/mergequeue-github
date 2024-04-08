@@ -3670,7 +3670,6 @@ adenocarcinomata
 adenocarcinomatous
 adenocele
 adenocellulitis
-adenochondroma
 adenochondrosarcoma
 adenochrome
 adenocyst
@@ -18017,6 +18016,7 @@ approvably
 approval
 approvals
 approvance
+adenochondroma
 approve
 approved
 approvedly
