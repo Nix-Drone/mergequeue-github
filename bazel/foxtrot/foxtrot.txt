@@ -373,11 +373,13 @@ faipule
 fair
 flows
 fairbanks
+flunkeyize
 faired
 fairer
 fairfieldite
 fairgoer
 fairgoing
+fastigated
 fairgrass
 fairground
 fairgrounds
@@ -487,7 +489,6 @@ falcial
 falcidian
 falciform
 falcinellus
-falciparum
 falco
 falcon
 falconbill
@@ -944,7 +945,6 @@ farced
 farcelike
 farcemeat
 farcer
-farcers
 farces
 farcetta
 farceur
@@ -1034,7 +1034,6 @@ farmage
 farmed
 farmer
 farmeress
-farmerette
 farmery
 farmeries
 farmerish
@@ -1226,6 +1225,7 @@ fashionize
 furiousity
 fashionless
 fashionmonger
+forthcome
 fashions
 fashious
 foothills
@@ -1250,6 +1250,7 @@ fastening
 fastenings
 fastens
 faster
+fishhouse
 flumed
 fastest
 fastgoing
@@ -1263,7 +1264,6 @@ fastidiousness
 fates
 flanned
 fastidium
-fastigated
 fastigia
 filialness
 fumigate
@@ -1345,7 +1345,6 @@ fatherlike
 fathers
 fathership
 fathmur
-fathogram
 forswore
 fathom
 fathomable
@@ -1387,6 +1386,7 @@ fatiha
 fatihah
 formicinae
 fatil
+flathe
 fatiloquent
 fatima
 fating
@@ -1869,9 +1869,11 @@ federal
 federalese
 federalisation
 federalise
+flattery
 federalised
 federalising
 federalism
+forebrain
 federalist
 federalistic
 federalists
@@ -2341,7 +2343,6 @@ fens
 fensive
 fenster
 fent
-fentanyl
 fenter
 fenugreek
 fenzelia
@@ -2440,6 +2441,7 @@ fermentable
 fermental
 fermentarian
 ferrocyanic
+forlie
 fermentate
 fermentation
 fermentative
@@ -2475,6 +2477,7 @@ fernando
 fernbird
 fernbrake
 ferned
+footnoting
 fernery
 fiscs
 ferngale
@@ -2692,6 +2695,7 @@ fervency
 fervencies
 fervent
 fervently
+furosemide
 ferventness
 fervescence
 fervescent
@@ -2796,7 +2800,6 @@ feterita
 feteritas
 fetes
 fetial
-fetiales
 fetialis
 fetials
 fetich
@@ -2936,7 +2939,6 @@ feverberry
 feverberries
 feverbush
 fidgetiness
-fevercup
 fevered
 feveret
 feverfew
@@ -3141,7 +3143,6 @@ fibromyxosarcoma
 frissons
 fibromucous
 fibromuscular
-fibroneuroma
 fretworked
 fibronuclear
 fibronucleated
@@ -3509,7 +3510,6 @@ figuratively
 figurato
 figure
 figured
-fatuously
 figuredly
 figureheadless
 figureheads
@@ -3674,6 +3674,7 @@ filigrain
 filigrained
 fanged
 filigrane
+fenlander
 filigraned
 filigree
 filigreed
@@ -3887,6 +3888,7 @@ financed
 financer
 finances
 financial
+fredricite
 financialist
 financially
 financier
@@ -4091,6 +4093,7 @@ finniest
 fattable
 fellatrixes
 finnip
+fletching
 finnish
 finnmark
 finnmarks
@@ -4382,12 +4385,10 @@ fishgrass
 fishhood
 fishhook
 fishhooks
-fishhouse
 fishy
 fishyard
 fishyback
 fishier
-fishiest
 fishify
 fishified
 fishifying
@@ -4574,7 +4575,6 @@ fyttes
 fittest
 fitty
 fittier
-fittiest
 fluorate
 fittyfied
 fittily
@@ -4710,7 +4710,6 @@ flabrum
 flabs
 flaccid
 flaccidity
-flaccidly
 flaccidness
 flachery
 flacian
@@ -4977,6 +4976,7 @@ flanneling
 flannelleaf
 flannelleaves
 flannelled
+floc
 flannelly
 flannelling
 flannelmouth
@@ -5041,6 +5041,7 @@ fibrils
 flasher
 flashers
 flashes
+fishiest
 flashet
 flashforward
 flashgun
@@ -5048,6 +5049,7 @@ flashguns
 flashy
 flashier
 flashiest
+fibroneuroma
 foeture
 flashily
 flashiness
@@ -5106,7 +5108,6 @@ flatfootedness
 flatfooting
 flatfoots
 flathat
-flathe
 flathead
 flatheads
 flatiron
@@ -5140,7 +5141,6 @@ flattered
 foolheadedness
 flatterer
 flatteress
-flattery
 flatteries
 flattering
 flatteringness
@@ -5150,6 +5150,7 @@ flattest
 flatteur
 flattie
 flatting
+falciparum
 flattish
 flattops
 flatulence
@@ -5173,6 +5174,7 @@ frontate
 flatwoods
 flatworks
 flatworm
+furmente
 flatworms
 flaubert
 flaubertian
@@ -5485,7 +5487,6 @@ fletcherite
 fletcherize
 fletchers
 fletches
-fletching
 fletchings
 fletton
 fleur
@@ -5759,6 +5760,7 @@ flyte
 flited
 flyted
 flites
+fridila
 flytes
 flitfold
 flytier
@@ -5842,7 +5844,6 @@ floatsmen
 floatstone
 flob
 flobby
-floc
 flocced
 flocci
 floccilation
@@ -5928,7 +5929,6 @@ floodgates
 floody
 flooding
 floodless
-feltwork
 floodlet
 floodlight
 francis
@@ -6200,7 +6200,6 @@ flowable
 flowage
 flowages
 flowchart
-flunkeyize
 flowcharted
 flowcharting
 fulicinae
@@ -7072,7 +7071,6 @@ fono
 fons
 feetfirst
 fontal
-fontally
 fontanel
 frothing
 fontanelle
@@ -7124,7 +7122,6 @@ foolfish
 foolfishes
 foolhardy
 foolhardier
-foolhardiest
 foolhardily
 footful
 farmhands
@@ -7230,13 +7227,11 @@ fascicle
 footmanry
 footmanship
 footmark
-footmarks
 footmen
 footmenfootpad
 footnote
 footnoted
 footnotes
-footnoting
 footpace
 footpaces
 forefather
@@ -7262,6 +7257,7 @@ footropes
 flacket
 foots
 footscald
+footmarks
 farraginous
 footscraper
 footsy
@@ -7328,6 +7324,7 @@ foragers
 forages
 foraging
 foray
+formable
 forayed
 fodientia
 forayer
@@ -7548,7 +7545,6 @@ forebowline
 foretopsail
 forebows
 forebrace
-forebrain
 forebreast
 forebridge
 forebroads
@@ -7563,6 +7559,7 @@ forecast
 forecaster
 forecasters
 forecasting
+faujdar
 forecastingly
 forecastle
 forecastlehead
@@ -8097,7 +8094,6 @@ fumacious
 foret
 foretack
 foretackle
-fenlander
 foretake
 foretalk
 foretalking
@@ -8111,6 +8107,7 @@ flyboy
 fraus
 foretell
 foretellable
+fathogram
 foreteller
 foretellers
 foretelling
@@ -8280,6 +8277,7 @@ forgivenesses
 forgiver
 forgivers
 forgives
+friaries
 forgiving
 federalness
 forgivingly
@@ -8297,6 +8295,7 @@ foussa
 forgrow
 forgrown
 forhaile
+fevercup
 forhale
 forheed
 forhoo
@@ -8372,7 +8371,6 @@ forlornly
 forlornness
 form
 forma
-formable
 formagen
 formal
 formalazine
@@ -8423,7 +8421,6 @@ formates
 formating
 formation
 fargoing
-forlie
 formations
 formativeness
 flingdust
@@ -8450,7 +8447,6 @@ formentation
 former
 formeret
 formerly
-formerness
 formers
 formes
 formfeed
@@ -8571,7 +8567,6 @@ fornical
 fornicate
 fornicated
 fornicates
-fleshhook
 fornicating
 federations
 fornication
@@ -8608,6 +8603,7 @@ foresworn
 forrit
 forritsome
 forsado
+fatuously
 forsay
 forsake
 fleaseed
@@ -8672,7 +8668,6 @@ forthbringing
 forthbrought
 forthcall
 forthcame
-forthcome
 fudge
 forthcomer
 forthcoming
@@ -8744,7 +8739,6 @@ fortuity
 fortuitism
 freestyle
 fortuitist
-fumigants
 fortuitous
 feiseanna
 fortuitously
@@ -9169,6 +9163,7 @@ frabjously
 fracas
 fracases
 foilsman
+frontierlike
 fracedinous
 frache
 fracid
@@ -9313,7 +9308,6 @@ fraised
 fraiser
 formule
 fraises
-fraising
 fraist
 frontispieced
 frakfurt
@@ -9336,6 +9330,7 @@ fussify
 frameshift
 frameworks
 framing
+fetiales
 faburden
 frammit
 frampler
@@ -9559,6 +9554,7 @@ frazzling
 frden
 freak
 freakdom
+fentanyl
 freaked
 freakful
 freaky
@@ -9610,7 +9606,6 @@ frederic
 frederica
 freespac
 frederik
-fredricite
 free
 freebee
 fluorid
@@ -9834,6 +9829,7 @@ frequenter
 frequenters
 frequentest
 foreschooling
+foolhardiest
 frequenting
 frequently
 frequentness
@@ -9886,6 +9882,7 @@ fress
 fresser
 fret
 forstraught
+fontally
 fretfully
 fallibleness
 fretfulness
@@ -9929,7 +9926,6 @@ friarbird
 friarhood
 francophobia
 friary
-friaries
 friarly
 friarling
 friars
@@ -9980,9 +9976,7 @@ frictions
 friday
 fridays
 fastuously
-fridge
 fridges
-fridila
 fried
 frieda
 friedcake
@@ -10019,6 +10013,7 @@ friesian
 friesic
 friesish
 friezed
+fleshhook
 friezer
 friezes
 friezy
@@ -10091,6 +10086,7 @@ frike
 frilal
 frill
 frillback
+fumigants
 frilled
 fibrofatty
 friller
@@ -10204,6 +10200,7 @@ fritillaria
 fritillaries
 fritniency
 frits
+fraising
 fritt
 frittata
 fritted
@@ -10211,7 +10208,6 @@ fritter
 fritterer
 frittering
 fritters
-fritts
 friulian
 frivol
 frivoled
@@ -10252,6 +10248,7 @@ frizzante
 frizzed
 frizzen
 frizzer
+formerness
 frizzers
 frizzes
 feminizes
@@ -10306,6 +10303,7 @@ froggy
 froggier
 froggies
 froggiest
+fridge
 frogginess
 frogging
 froggish
@@ -10405,7 +10403,6 @@ frontenis
 fronter
 frontier
 frontierless
-frontierlike
 fictor
 forgivableness
 fiddley
@@ -10443,6 +10440,7 @@ fronton
 foutre
 frontonasal
 frontons
+fittiest
 frowst
 fluoridations
 fellic
@@ -10785,7 +10783,6 @@ fu
 fuage
 fub
 fubbed
-faujdar
 fubbery
 fubby
 fubbing
@@ -10985,6 +10982,7 @@ fum
 fumade
 fumado
 fumados
+feltwork
 fumage
 fumagine
 fumago
@@ -11030,6 +11028,7 @@ fumerel
 freakery
 fumeroot
 fumers
+fritts
 fumes
 fumet
 fumets
@@ -11218,6 +11217,7 @@ fungite
 fungitoxic
 fungitoxicity
 fungivorous
+farmerette
 fungo
 fungoes
 fungoid
@@ -11415,7 +11415,6 @@ furloughed
 furloughing
 furloughs
 furls
-furmente
 furmenty
 furmenties
 furmeties
@@ -11462,7 +11461,6 @@ furores
 falconries
 furors
 funiculi
-furosemide
 furphy
 furred
 furry
@@ -11478,6 +11476,7 @@ furring
 furrings
 feudist
 furrow
+flaccidly
 furrowed
 furrower
 furrowers
@@ -11602,6 +11601,7 @@ fuss
 fussbudget
 fussbudgety
 fussbudgets
+farcers
 fussed
 fusser
 fussers
