@@ -219,20 +219,18 @@ fn create_pull_request(words: &[String], config: &Conf) -> Result<String, String
 
     let result = try_gh(args.as_slice());
 
+    // no matter what is result - need to reset checkout
+    git(&["checkout", "main"]);
+    git(&["pull"]);
+
     if result.is_err() {
-        git(&["checkout", "main"]);
-        git(&["pull"]);
         return Err("could not create pull request".to_owned());
     }
 
     let pr_url = result.unwrap();
-
     let re = Regex::new(r"(.*)/pull/(\d+)$").unwrap();
     let caps = re.captures(pr_url.trim()).unwrap();
     let pr_number = caps.get(2).map_or("", |m| m.as_str());
-
-    git(&["checkout", "main"]);
-    git(&["pull"]);
 
     Ok(pr_number.to_string())
 }
