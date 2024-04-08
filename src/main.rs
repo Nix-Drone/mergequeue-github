@@ -193,7 +193,7 @@ fn get_last_pr() -> u32 {
     let v: Value = serde_json::from_str(&json_str).expect("Failed to parse JSON");
     let last_pr = v
         .as_array()
-        .and_then(|arr| arr.get(0))
+        .and_then(|arr| arr.first().cloned())
         .expect("Failed to get first item");
     last_pr["number"].as_u64().unwrap_or(0) as u32
 }
