@@ -4853,6 +4853,7 @@ bedstring
 bedswerver
 bedtick
 bedticks
+bices
 bedtime
 bedub
 beduchess
@@ -8031,7 +8032,6 @@ bicephalic
 bicephalous
 biceps
 bicepses
-bices
 bicetyl
 bichy
 bichir
