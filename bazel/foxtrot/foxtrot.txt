@@ -5928,6 +5928,7 @@ face
 floody
 flooding
 floodless
+feltwork
 floodlet
 floodlight
 francis
@@ -6275,7 +6276,6 @@ fluegelhorn
 fluey
 flueless
 fluellen
-feltwork
 fluellin
 fluellite
 fellowed
