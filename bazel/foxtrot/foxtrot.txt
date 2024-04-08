@@ -4829,7 +4829,6 @@ flay
 flayed
 flayer
 flayers
-flayflint
 flaying
 flail
 flailed
@@ -5788,6 +5787,7 @@ flitterbat
 flittered
 flittering
 flittermice
+flayflint
 flittermmice
 filaze
 footrill
