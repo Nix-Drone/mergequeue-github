@@ -3594,7 +3594,6 @@ gesticulations
 gesticulative
 gesticulatively
 gesticulatory
-gestio
 gestion
 gestning
 gestonie
@@ -4834,6 +4833,7 @@ gyrostabilized
 gyrostabilizer
 gyrostachys
 gyrostat
+gestio
 gyrostatic
 gyrostatically
 gyrostats
