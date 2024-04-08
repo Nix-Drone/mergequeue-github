@@ -6632,7 +6632,6 @@ corned
 celestes
 celestial
 celestiality
-celestialize
 celestialized
 celestially
 celestialness
@@ -21501,6 +21500,7 @@ concorrezanes
 concours
 concourse
 concourses
+celestialize
 concreate
 concredit
 concremation
