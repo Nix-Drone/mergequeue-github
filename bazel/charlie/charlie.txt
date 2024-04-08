@@ -11326,6 +11326,7 @@ chlorometer
 chloromethane
 chlorometry
 chlorometric
+coulombic
 chloromycetin
 chloronaphthalene
 chloronitrate
@@ -26567,7 +26568,6 @@ coulisses
 couloir
 couloirs
 coulomb
-coulombic
 coulombmeter
 coulombs
 coulometer
