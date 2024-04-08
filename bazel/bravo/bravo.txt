@@ -8808,7 +8808,6 @@ binaural
 binauricular
 binbashi
 bind
-bindable
 binder
 bindery
 binderies
@@ -10821,6 +10820,7 @@ blin
 blind
 blindage
 blindball
+bindable
 blindcat
 blinded
 blindedly
