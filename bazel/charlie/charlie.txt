@@ -7021,6 +7021,7 @@ centetid
 centetidae
 centgener
 centi
+cohesions
 centiar
 centiare
 centiares
@@ -18418,7 +18419,6 @@ cohesibility
 cohesible
 cohesion
 cohesionless
-cohesions
 cohesive
 cohesively
 cohesiveness
