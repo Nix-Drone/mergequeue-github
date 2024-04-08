@@ -2171,6 +2171,7 @@ gazellelike
 gazelles
 gazelline
 gazement
+groupings
 gazer
 gazers
 gazes
@@ -9483,7 +9484,6 @@ grouper
 groupers
 groupies
 grouping
-groupings
 groupist
 grouplet
 groupment
