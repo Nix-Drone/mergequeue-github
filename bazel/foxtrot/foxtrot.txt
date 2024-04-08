@@ -7231,6 +7231,7 @@ footmen
 footmenfootpad
 footnote
 footnoted
+fease
 footnotes
 footpace
 footpaces
@@ -10426,7 +10427,6 @@ frontless
 frontlessly
 frontlessness
 frontlet
-fease
 frontoauricular
 frontoethmoid
 fatimid
