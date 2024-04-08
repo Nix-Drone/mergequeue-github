@@ -5,7 +5,7 @@ use gen::cli::{Cli, Subcommands};
 use gen::config::Conf;
 use gen::edit::change_file;
 use gen::github::GitHub;
-use gen::process::{gh, git, try_git};
+use gen::process::{gh, git, try_gh, try_git};
 use rand::Rng;
 use regex::Regex;
 use serde_json::to_string_pretty;
@@ -217,7 +217,15 @@ fn create_pull_request(words: &[String], config: &Conf) -> Result<String, String
         args.push(lbl.trim());
     }
 
-    let pr_url = gh(args.as_slice());
+    let result = try_gh(args.as_slice());
+
+    if result.is_err() {
+        git(&["checkout", "main"]);
+        git(&["pull"]);
+        return Err("could not create pull request".to_owned());
+    }
+
+    let pr_url = result.unwrap();
 
     let re = Regex::new(r"(.*)/pull/(\d+)$").unwrap();
     let caps = re.captures(pr_url.trim()).unwrap();

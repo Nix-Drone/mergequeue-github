@@ -19,6 +19,10 @@ pub fn gh(args: &[&str]) -> String {
     exec("gh", args).expect("gh exec failed")
 }
 
+pub fn try_gh(args: &[&str]) -> Result<String, String> {
+    exec("gh", args)
+}
+
 pub fn git(args: &[&str]) -> String {
     exec("git", args).expect("git exec failed")
 }
