@@ -2806,7 +2806,6 @@ canticle
 canticles
 cantico
 cantiga
-cantil
 cantilated
 cantilating
 cantilena
@@ -17198,6 +17197,7 @@ coalsack
 coalsacks
 coalshed
 coalsheds
+cantil
 coalternate
 coalternation
 coalternative
