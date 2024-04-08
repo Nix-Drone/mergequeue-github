@@ -5570,7 +5570,6 @@ bela
 belabor
 belabored
 belaboring
-belabors
 belabour
 belabours
 belace
@@ -9308,6 +9307,7 @@ bipinnarias
 bipinnate
 bipinnated
 bipinnatifid
+belabors
 bipinnatipartite
 bipinnatisect
 bipinnatisected
