@@ -2871,7 +2871,6 @@ gentiana
 gentianales
 gentianella
 gentianic
-gentianin
 gentianose
 gentians
 gentianwort
@@ -4705,6 +4704,7 @@ girders
 girding
 girdingly
 girdlecake
+gentianin
 girdled
 girdlelike
 girdler
