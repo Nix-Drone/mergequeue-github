@@ -13009,7 +13009,6 @@ aquiform
 angulosity
 angulosplenial
 angulous
-angulus
 anguria
 angus
 anguses
@@ -18062,6 +18061,7 @@ appurtenances
 aesthesics
 alinotum
 appurtenant
+angulus
 apr
 apractic
 apraxia
