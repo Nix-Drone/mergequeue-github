@@ -5876,7 +5876,6 @@ glosseme
 glossemes
 glossemic
 glosser
-glossers
 glosses
 glossy
 glossic
@@ -10003,6 +10002,7 @@ gudemother
 gudes
 gudesake
 gudesire
+glossers
 glagolitsa
 gudewife
 gudge
