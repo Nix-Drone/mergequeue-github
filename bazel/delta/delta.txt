@@ -5490,7 +5490,6 @@ deoxidize
 deoxidizer
 deoxidizers
 deoxidizes
-deoxidizing
 deoxygenate
 deoxygenated
 deoxygenating
@@ -15737,6 +15736,7 @@ dorrbeetle
 dorrs
 dors
 dorsa
+deoxidizing
 diallela
 dorsabdominal
 dorsabdominally
