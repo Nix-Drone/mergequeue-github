@@ -8247,7 +8247,6 @@ graptomancy
 grasni
 grasp
 graspable
-grasper
 graspers
 grasping
 graspingly
@@ -9177,6 +9176,7 @@ gristlier
 gristliest
 gristliness
 gristmill
+grasper
 gristmiller
 gristmilling
 grists
