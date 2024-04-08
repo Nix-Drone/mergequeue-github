@@ -5966,7 +5966,6 @@ depulse
 depurant
 depurate
 depurated
-depurates
 depurating
 depuration
 depurative
@@ -17508,6 +17507,7 @@ drugget
 druggeting
 druggets
 druggy
+depurates
 druggier
 druggiest
 drugging
