@@ -10990,7 +10990,6 @@ dramatised
 disallows
 disaltern
 disambiguate
-disambiguated
 disambiguates
 disambiguating
 disambiguation
@@ -13707,6 +13706,7 @@ distastes
 distasting
 distater
 distaves
+disambiguated
 dystaxia
 dystaxias
 dystectic
