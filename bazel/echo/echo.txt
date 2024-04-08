@@ -3078,7 +3078,6 @@ elliptically
 ellipticalness
 ellipticity
 elliptograph
-elliptoid
 ellops
 ells
 ellwand
@@ -3988,6 +3987,7 @@ emmets
 emmett
 emmew
 emmy
+elliptoid
 emmies
 emmove
 emodin
