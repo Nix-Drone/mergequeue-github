@@ -6102,7 +6102,6 @@ glueing
 gluelike
 gluelikeness
 gluemaker
-gluemaking
 glueman
 gluepot
 gluer
@@ -10537,6 +10536,7 @@ gunning
 gunnings
 gunnysack
 gunnung
+gluemaking
 gunocracy
 gunong
 gunpaper
