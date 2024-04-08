@@ -11056,6 +11056,7 @@ chitimachan
 checksums
 chitin
 chitinization
+coappears
 chitinized
 chitinocalcareous
 chitinogenous
@@ -17210,7 +17211,6 @@ coappear
 coappearance
 coappeared
 coappearing
-coappears
 coappellee
 coapprehend
 coapprentice
