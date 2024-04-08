@@ -2474,7 +2474,6 @@ electrolytic
 electrolytical
 electrolytically
 electrolyzability
-electrolyzable
 electrolyzation
 electrolyze
 electrolyzed
@@ -9388,6 +9387,7 @@ ers
 ersar
 ersatz
 ersatzes
+electrolyzable
 erse
 erses
 ersh
