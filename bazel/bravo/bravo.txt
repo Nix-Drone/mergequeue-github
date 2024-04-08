@@ -5051,7 +5051,6 @@ beezer
 beezers
 bef
 befall
-befallen
 befalling
 benzomorpholine
 befalls
@@ -9482,6 +9481,7 @@ birkremite
 birks
 birl
 byrl
+befallen
 bughead
 byrlady
 byrlakin
