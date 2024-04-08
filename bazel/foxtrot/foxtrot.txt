@@ -3914,6 +3914,7 @@ findings
 findjan
 findon
 finds
+font
 fine
 fineable
 fineableness
@@ -7066,7 +7067,6 @@ fonly
 fonnish
 fono
 fons
-font
 feetfirst
 fontal
 fontally
