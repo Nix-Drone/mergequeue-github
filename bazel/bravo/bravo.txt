@@ -10192,7 +10192,6 @@ blacksmithing
 blacksmiths
 blacksnake
 blackstick
-blackstrap
 blacktail
 boogaloo
 blackthorn
@@ -12813,6 +12812,7 @@ bootblacks
 bootboy
 booted
 bootees
+blackstrap
 booter
 bootery
 bootes
