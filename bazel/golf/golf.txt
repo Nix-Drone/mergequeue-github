@@ -4774,6 +4774,7 @@ gyrocar
 gelid
 gyroceran
 goodwills
+guildsman
 gyrochrome
 gyrocompass
 golliwogg
@@ -10187,7 +10188,6 @@ guildite
 guildry
 guilds
 guildship
-guildsman
 guildsmen
 guile
 guiled
