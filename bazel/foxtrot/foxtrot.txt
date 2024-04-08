@@ -7445,7 +7445,6 @@ forcy
 forcibility
 forcible
 forcibleness
-forcibly
 forcing
 forcingly
 forcipal
@@ -10682,6 +10681,7 @@ fruitive
 fruitless
 fruitlessly
 fruitlessness
+forcibly
 fruitlet
 fruitlets
 fruitlike
