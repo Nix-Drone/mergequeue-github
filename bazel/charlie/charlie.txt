@@ -21799,7 +21799,6 @@ coneys
 conelet
 conelike
 conelrad
-conelrads
 continentalism
 conemaker
 conemaking
@@ -29713,6 +29712,7 @@ crookbill
 castral
 crooked
 crookedbacked
+conelrads
 crookeder
 constants
 crookedest
