@@ -5585,7 +5585,6 @@ depended
 dependence
 dependency
 dependencies
-dependent
 dependently
 dependents
 depender
@@ -10735,6 +10734,7 @@ dipterocarpaceous
 dipterocarpous
 dipterocarpus
 dipteroi
+dependent
 dipterology
 dipterological
 dipterologist
