@@ -5221,7 +5221,6 @@ aetiologies
 aetiologist
 aetiologue
 aetiophyllin
-aetiotropic
 aetiotropically
 aetites
 aetobatidae
@@ -12068,6 +12067,7 @@ anatomical
 anatomicals
 anatomicobiological
 anatomicochirurgical
+aetiotropic
 anatomicomedical
 anatomicopathologic
 anatomicopathological
