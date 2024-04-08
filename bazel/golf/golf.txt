@@ -5529,7 +5529,6 @@ grant
 glycosidic
 glycosidically
 gains
-glycosyl
 glycosyls
 glycosin
 glycosine
@@ -6918,6 +6917,7 @@ gonococcocci
 gaufrettes
 gonococcoid
 gonococcus
+glycosyl
 gonocoel
 gonocoele
 gonoecium
