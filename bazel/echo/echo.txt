@@ -3703,7 +3703,6 @@ embryotrophy
 embryotrophic
 embryous
 embrittle
-embrittled
 embrittlement
 embrittling
 embryulci
@@ -8573,6 +8572,7 @@ equatorwards
 equerry
 equerries
 equerryship
+embrittled
 eques
 equestrial
 epimysium
