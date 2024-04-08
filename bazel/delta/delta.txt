@@ -2408,7 +2408,6 @@ decimestrial
 decimeter
 decimeters
 decimetre
-decimetres
 decimolar
 daysman
 dangering
@@ -11651,6 +11650,7 @@ discoursiveness
 daydreamed
 discourt
 discourteous
+decimetres
 discourteously
 discourteousness
 discoach
