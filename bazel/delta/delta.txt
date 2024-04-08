@@ -3630,6 +3630,7 @@ degradations
 degradative
 degrade
 degraded
+decimal
 degradedly
 decontrolling
 degradement
@@ -18075,7 +18076,6 @@ dumfounderment
 dumfounding
 dumfounds
 duplicate
-decimal
 dumka
 dumky
 dummel
