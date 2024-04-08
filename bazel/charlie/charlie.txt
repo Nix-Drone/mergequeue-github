@@ -4853,7 +4853,6 @@ cartooning
 cartoonist
 cartoonists
 cartoons
-cartop
 cartopper
 cartouch
 cartouche
@@ -31315,6 +31314,7 @@ curial
 curialism
 curialist
 curialistic
+cartop
 curiality
 curialities
 curiam
