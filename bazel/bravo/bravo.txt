@@ -2016,7 +2016,6 @@ banff
 bang
 banga
 bangala
-bangalay
 bangalow
 bangash
 boodling
@@ -12870,6 +12869,7 @@ bootprint
 boots
 bootstrap
 bootstrapped
+bangalay
 bootstrapping
 bootstraps
 boottop
