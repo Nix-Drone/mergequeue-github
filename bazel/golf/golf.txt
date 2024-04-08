@@ -6100,7 +6100,6 @@ glued
 gangsman
 gluey
 glueyness
-glueing
 gluelike
 gluelikeness
 gluemaker
@@ -9871,6 +9870,7 @@ guanos
 guanosine
 guans
 gazook
+glueing
 guao
 guilty
 guapena
