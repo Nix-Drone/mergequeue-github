@@ -12456,7 +12456,6 @@ bonesetting
 boneshaker
 boneshave
 boneshaw
-bonetail
 bonete
 bonetta
 bonewood
@@ -13010,6 +13009,7 @@ belfry
 boresight
 boresome
 boresomely
+bonetail
 boreus
 borg
 borgh
