@@ -2637,6 +2637,7 @@ electrostenolysis
 electrostenolytic
 electrostereotype
 electrostriction
+elinvar
 electrosurgery
 electrosurgeries
 electrosurgical
@@ -9606,7 +9607,6 @@ escribe
 escribed
 escribiente
 escribientes
-elinvar
 escribing
 escrime
 escript
