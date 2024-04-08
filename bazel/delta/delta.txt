@@ -2661,7 +2661,6 @@ decompound
 decompoundable
 decompoundly
 decompress
-decompresses
 decompressing
 decompression
 decompressions
@@ -11267,6 +11266,7 @@ desmogen
 discepts
 discern
 discernable
+decompresses
 discerned
 discerner
 discernibility
