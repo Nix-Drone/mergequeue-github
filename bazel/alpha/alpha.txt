@@ -14517,7 +14517,6 @@ anthraquinone
 anthraquinonyl
 anthrarufin
 anthrasilicosis
-agalinis
 anthratetrol
 anthrathiophene
 anthratriol
@@ -15153,6 +15152,7 @@ antidrug
 antidumping
 antiecclesiastic
 antiecclesiastical
+agalinis
 antiecclesiastically
 antiecclesiasticism
 antiedemic
