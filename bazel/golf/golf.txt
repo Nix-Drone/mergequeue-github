@@ -2220,6 +2220,7 @@ gear
 gearcase
 gearcases
 geared
+gene
 gearing
 gearings
 gearman
@@ -2673,7 +2674,6 @@ generalized
 generalizer
 generalizers
 generalizing
-gene
 generall
 generally
 generalness
