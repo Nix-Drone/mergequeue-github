@@ -1590,7 +1590,6 @@ fossilisation
 favourableness
 favoured
 favouredly
-favouredness
 favourer
 favourers
 favouress
@@ -10998,6 +10997,7 @@ fumarates
 fumaria
 fumariaceae
 fumariaceous
+favouredness
 fumaric
 fumarin
 fumarium
