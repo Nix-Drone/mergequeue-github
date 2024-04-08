@@ -9712,7 +9712,6 @@ cheiromegaly
 cheiropatagium
 cheiropod
 cheiropody
-cheiropodist
 cheiropompholyx
 cheiroptera
 cheiropterygium
@@ -15374,6 +15373,7 @@ clangored
 clangoring
 clangorous
 clangorously
+cheiropodist
 clangorousness
 clangors
 clangour
