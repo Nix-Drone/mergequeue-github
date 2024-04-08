@@ -5137,7 +5137,6 @@ flattened
 flattener
 flatteners
 flattening
-flatterable
 flattercap
 flatterdock
 flattered
@@ -9167,6 +9166,7 @@ fameuse
 frab
 frabbit
 frabjous
+flatterable
 frabjously
 fracas
 fracases
