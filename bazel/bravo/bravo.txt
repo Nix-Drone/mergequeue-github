@@ -2948,7 +2948,6 @@ broad
 barrelled
 barrelling
 barrelmaker
-barrelmaking
 barrels
 barrelsful
 barrelwise
@@ -7285,6 +7284,7 @@ bestrows
 bestrut
 bests
 bestseller
+barrelmaking
 bestsellerdom
 bestsellers
 bestselling
