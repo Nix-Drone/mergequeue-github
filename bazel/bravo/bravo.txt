@@ -5266,7 +5266,6 @@ begirding
 begirdle
 begirdled
 begirdles
-begirdling
 begirds
 begirt
 beglad
@@ -8869,6 +8868,7 @@ binmen
 binna
 binnacle
 binnacles
+begirdling
 binned
 binny
 binnite
