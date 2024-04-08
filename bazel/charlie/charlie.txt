@@ -5945,7 +5945,6 @@ catnache
 catnap
 catnaper
 catnapers
-catnapped
 catnapper
 catnapping
 catnaps
@@ -22775,6 +22774,7 @@ consenescency
 consension
 consensual
 consensually
+catnapped
 consensus
 crinid
 consensuses

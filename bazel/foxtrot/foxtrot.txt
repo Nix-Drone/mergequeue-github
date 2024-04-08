@@ -4119,6 +4119,7 @@ fiques
 fir
 firbolg
 firca
+foregirth
 fyrd
 fyrdung
 faldistory
@@ -7687,7 +7688,6 @@ foregame
 foreganger
 foregate
 foregift
-foregirth
 foregleam
 ferrocyanide
 foreglimpsed
