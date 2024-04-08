@@ -7020,7 +7020,6 @@ follyproof
 follis
 follow
 followable
-fringillid
 followed
 follower
 followers
@@ -10278,6 +10277,7 @@ frizzling
 fro
 fortyfive
 ferryage
+fringillid
 frock
 frocked
 frockless
