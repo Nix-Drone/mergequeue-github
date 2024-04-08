@@ -2876,7 +2876,6 @@ ferrichloride
 feuar
 feuars
 feucht
-farmhands
 feud
 feudal
 feudalisation
@@ -7135,6 +7134,7 @@ foolhardier
 foolhardiest
 foolhardily
 footful
+farmhands
 foolhardiness
 foolhardiship
 foolhead
