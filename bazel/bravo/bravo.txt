@@ -6375,7 +6375,6 @@ benzanthracene
 benzanthrone
 bocklogged
 benzantialdoxime
-benzazide
 benzazimide
 benzazine
 benzazole
@@ -16924,6 +16923,7 @@ building
 buildingless
 buildings
 buildress
+benzazide
 builds
 binominous
 buildup
