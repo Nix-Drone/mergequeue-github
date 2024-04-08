@@ -42,7 +42,7 @@ jobs:
 
   tag_and_release:
     name: Tag and Release [ ${{ github.event.inputs.release_tag }} ]
-    runs-on: [self-hosted, Linux]
+    runs-on: [ubicloud]
     needs: [build]
 
     steps:
