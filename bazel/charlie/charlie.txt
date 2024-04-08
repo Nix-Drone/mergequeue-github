@@ -7800,6 +7800,7 @@ cervicohumeral
 cervicolabial
 cervicolingual
 cervicolumbar
+crystal
 cervicomuscular
 cerviconasal
 cervicorn
@@ -29404,7 +29405,6 @@ crissum
 cryst
 crista
 cristae
-crystal
 crystaled
 crystaling
 crystalitic
