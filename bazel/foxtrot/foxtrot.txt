@@ -4828,7 +4828,6 @@ flayer
 flayers
 flayflint
 flaying
-flail
 flailed
 flailing
 fossilologist
@@ -11205,6 +11204,7 @@ fungicides
 fungicolous
 fungiferous
 fungify
+flail
 fungiform
 fungilliform
 formability
