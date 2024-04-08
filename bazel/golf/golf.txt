@@ -4611,7 +4611,6 @@ gipser
 gipsy
 gypsy
 gipsydom
-gypsydom
 gypsydoms
 gipsied
 gypsied
@@ -9271,6 +9270,7 @@ gouaches
 grogshop
 groin
 groyne
+gypsydom
 groined
 groinery
 gnatling
