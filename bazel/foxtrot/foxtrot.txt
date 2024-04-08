@@ -7737,7 +7737,6 @@ forehooves
 foreyard
 forpit
 foreyards
-foreyear
 foreign
 floodlights
 foreigneering
@@ -9734,6 +9733,7 @@ freezes
 freezy
 freezing
 freezingly
+foreyear
 fregata
 fortitude
 fregatae

@@ -568,6 +568,7 @@ daltonism
 daltonist
 dam
 dama
+defogs
 damage
 damageability
 damageable
@@ -3433,7 +3434,6 @@ disyllable
 defogger
 defoggers
 defogging
-defogs
 defoil
 dawish
 defoliage
