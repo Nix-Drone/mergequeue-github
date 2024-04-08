@@ -8980,7 +8980,6 @@ ergatomorphic
 ergatomorphism
 ergo
 ergodic
-ergodicity
 ergograph
 ergographic
 ergoism
@@ -10707,6 +10706,7 @@ euclase
 euclases
 euclea
 eucleid
+ergodicity
 eucleidae
 euclid
 euclidean
