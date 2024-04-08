@@ -16982,7 +16982,6 @@ coach
 coachability
 coachbuilder
 coachbuilding
-coached
 coachee
 coacher
 coachers
@@ -28570,6 +28569,7 @@ creen
 creep
 creepage
 creepages
+coached
 creeper
 creepered
 creeperless
