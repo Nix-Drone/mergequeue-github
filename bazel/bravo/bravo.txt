@@ -4053,7 +4053,6 @@ bealing
 beallach
 bealtared
 bealtine
-bealtuinn
 beam
 beamage
 beambird
@@ -7892,6 +7891,7 @@ bibliographic
 bibliographical
 bibliographically
 bibliographies
+bealtuinn
 bibliographize
 bibliokelpt
 biblioklept
