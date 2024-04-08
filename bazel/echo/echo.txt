@@ -6482,7 +6482,6 @@ ensporia
 enstar
 enstate
 enstatite
-enstatitic
 enstatolite
 ensteel
 ensteep
@@ -7949,6 +7948,7 @@ epilog
 epilogate
 epilogation
 epilogic
+enstatitic
 epilogical
 epilogism
 epilogist
