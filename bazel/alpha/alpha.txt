@@ -19874,7 +19874,6 @@ armament
 armamentary
 armamentaria
 armamentarium
-armaments
 armangite
 armary
 armaria
@@ -24773,6 +24772,7 @@ avifauna
 avifaunae
 avifaunal
 avifaunally
+armaments
 avifaunas
 avifaunistic
 avigate
