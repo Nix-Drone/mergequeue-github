@@ -3710,6 +3710,7 @@ dehydrocorticosterone
 dehydroffroze
 dehydroffrozen
 dehydrofreeze
+dyschiria
 dehydrofreezing
 dehydrofroze
 dehydrofrozen
@@ -11303,7 +11304,6 @@ discharging
 discharity
 discharm
 dischevel
-dyschiria
 dyschroa
 dyschroia
 dyschromatopsia
