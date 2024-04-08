@@ -1720,7 +1720,6 @@ eyebeams
 eyeberry
 eyeblack
 eyeblink
-eyebolts
 eyebree
 eyebridled
 eyebright
@@ -7183,6 +7182,7 @@ environ
 environage
 environal
 environed
+eyebolts
 environic
 environing
 environment
