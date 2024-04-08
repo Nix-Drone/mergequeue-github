@@ -23970,7 +23970,6 @@ convects
 convey
 conveyability
 conveyable
-conveyal
 conveyance
 conveyancer
 conveyances
@@ -31486,6 +31485,7 @@ cursitor
 cursive
 cursively
 cursiveness
+conveyal
 cursives
 cursor
 cursorary
