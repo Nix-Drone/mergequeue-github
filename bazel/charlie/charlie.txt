@@ -9533,6 +9533,7 @@ checkroom
 checkrooms
 checkrope
 checkrow
+compellers
 checkrowed
 checkrower
 checkrowing
@@ -20536,7 +20537,6 @@ compellative
 compelled
 compellent
 compeller
-compellers
 compelling
 compellingly
 compels
