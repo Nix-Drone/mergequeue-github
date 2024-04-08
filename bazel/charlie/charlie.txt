@@ -10872,7 +10872,6 @@ chippings
 chipproof
 chypre
 chips
-chipwood
 chiquero
 chiquest
 chiquitan
@@ -26858,6 +26857,7 @@ countergambit
 countergarrison
 countergauge
 countergauger
+chipwood
 countergift
 countergirded
 counterglow
