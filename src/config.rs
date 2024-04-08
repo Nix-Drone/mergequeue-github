@@ -67,8 +67,8 @@ pub struct PullRequestConf {
     #[config(default = 1)]
     pub max_impacted_deps: usize,
 
-    #[config(default = 0.01)]
-    pub logical_conflict_rate: f32,
+    #[config(default = 100)]
+    pub logical_conflict_every: u32,
 
     #[config(default = "logical-conflict.txt")]
     pub logical_conflict_file: String,
