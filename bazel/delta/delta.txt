@@ -1477,7 +1477,6 @@ demurrable
 deaconhood
 disform
 deaconing
-deaconize
 deaconry
 deaconries
 deacons
@@ -15586,6 +15585,7 @@ doorstep
 doorsteps
 doorstone
 doorstop
+deaconize
 doorstops
 doorway
 doorways
