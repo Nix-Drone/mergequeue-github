@@ -528,7 +528,6 @@ backstay
 backstair
 backstairs
 backstays
-backstamp
 backster
 backstick
 backstitch
@@ -9443,6 +9442,7 @@ birdsong
 birdstone
 birdwatch
 browpiece
+backstamp
 birdweed
 bungs
 birdwise
