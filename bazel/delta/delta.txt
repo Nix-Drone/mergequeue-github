@@ -3565,7 +3565,6 @@ degassers
 degasses
 degassing
 degauss
-degausser
 degaussing
 degelatinize
 degender
@@ -13199,6 +13198,7 @@ distinctest
 dorstenia
 disproportionally
 disproportionalness
+degausser
 disproportionate
 disproportionately
 disproportionateness
