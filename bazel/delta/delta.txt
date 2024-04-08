@@ -2459,7 +2459,6 @@ decking
 deckings
 deckle
 deckles
-deckload
 deckman
 deckpipe
 decks
@@ -17997,6 +17996,7 @@ dulias
 dull
 dullard
 dullardism
+deckload
 dullardness
 dullards
 dullbrained
