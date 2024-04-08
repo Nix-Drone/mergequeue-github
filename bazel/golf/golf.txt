@@ -4317,7 +4317,6 @@ gymnotus
 gymnura
 getters
 gymnure
-gymnurinae
 gymnurine
 gimped
 gimper
@@ -5957,6 +5956,7 @@ glottal
 glottalite
 glottalization
 glottalize
+gymnurinae
 glottalized
 glottalizing
 glottic
