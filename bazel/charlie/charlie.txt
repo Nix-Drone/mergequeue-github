@@ -6860,6 +6860,7 @@ cencerros
 cenchrus
 cendre
 cene
+conductibility
 cenesthesia
 cenesthesis
 cenesthetic
@@ -21760,7 +21761,6 @@ conduciveness
 conduct
 conductance
 conducted
-conductibility
 conductible
 conductimeter
 conductimetric
