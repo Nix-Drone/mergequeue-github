@@ -5403,7 +5403,6 @@ glens
 glent
 glenwood
 glessite
-gletscher
 glew
 gliadin
 gliadine
@@ -9830,6 +9829,7 @@ guamuchil
 garbanzos
 guan
 guana
+gletscher
 guanabana
 guanabano
 guanacos
