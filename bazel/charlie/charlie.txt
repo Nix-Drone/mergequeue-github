@@ -3450,7 +3450,6 @@ carabiniere
 carabinieri
 carabins
 caraboa
-caraboid
 carabus
 caracal
 caracals
@@ -21983,6 +21982,7 @@ confirmational
 confirmations
 confirmative
 confirmatively
+caraboid
 confirmatory
 confirmatorily
 confirmed
