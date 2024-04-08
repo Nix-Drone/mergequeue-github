@@ -1390,7 +1390,6 @@ baldhead
 baldheaded
 baldheads
 baldy
-baldicoot
 baldie
 baldish
 baldling
@@ -8662,6 +8661,7 @@ billian
 billiard
 billiardist
 billiardly
+baldicoot
 billiards
 billyboy
 billycan
