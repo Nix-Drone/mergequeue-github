@@ -3075,7 +3075,6 @@ fibrinogenous
 fistulizing
 fibrinoid
 fibrinokinase
-fibrinolyses
 fibrinolysin
 fibrinolysis
 fishfall
@@ -6310,6 +6309,7 @@ fluidacetextract
 fluidal
 fluidally
 fluidextract
+fibrinolyses
 fluidglycerate
 fluidible
 fluidic
