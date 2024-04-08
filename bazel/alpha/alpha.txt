@@ -4346,7 +4346,6 @@ adpao
 adposition
 adpress
 alchornea
-adpromission
 adpromissor
 adrad
 adradial
@@ -5368,6 +5367,7 @@ affirmative
 affirmatively
 affirmativeness
 affirmatives
+adpromission
 affirmatory
 antiegotistically
 affirmed
