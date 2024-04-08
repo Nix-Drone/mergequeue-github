@@ -447,6 +447,7 @@ backpointer
 backpointers
 backrest
 backrope
+brimstony
 backropes
 backrun
 boskets
@@ -15391,7 +15392,6 @@ brims
 brimse
 brimstone
 brimstonewort
-brimstony
 brin
 brince
 brinded
