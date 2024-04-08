@@ -3975,7 +3975,6 @@ fingerers
 fingerfish
 fingerflower
 fingerhold
-fingerhook
 fingering
 fingerings
 fingerleaf
@@ -10285,6 +10284,7 @@ froe
 froebelian
 froebelism
 froebelist
+fingerhook
 froeman
 froes
 ferrado
