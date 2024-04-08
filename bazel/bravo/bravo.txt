@@ -2977,6 +2977,7 @@ barry
 barricade
 barricaded
 barricader
+bedawn
 barricaders
 barricades
 barricado
@@ -4590,7 +4591,6 @@ bedaubing
 bedaubs
 bedlike
 bedawee
-bedawn
 bedaze
 bedazed
 bedazement
