@@ -3558,7 +3558,6 @@ degassers
 degasses
 degassing
 degauss
-degaussed
 degausser
 degaussing
 degelatinize
@@ -7527,6 +7526,7 @@ devata
 devaul
 devaunt
 devchar
+degaussed
 devein
 deveined
 deveining
