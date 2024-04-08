@@ -1143,7 +1143,6 @@ gangplanks
 gangplow
 gangplows
 gangrel
-gangrels
 gangrenate
 gangrene
 gangrened
@@ -3163,6 +3162,7 @@ geomorphologist
 geon
 geonavigation
 gabbart
+gangrels
 geonegative
 geonic
 geonyctinastic

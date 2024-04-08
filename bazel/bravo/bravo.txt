@@ -8480,6 +8480,7 @@ bilabials
 bilabiate
 bilaciniate
 bilayer
+bookmen
 bilalo
 bilamellar
 bilamellate
@@ -12688,7 +12689,6 @@ bookmark
 bookmarker
 bookmarks
 bookmate
-bookmen
 bookmobile
 bookmobiles
 bookmonger
