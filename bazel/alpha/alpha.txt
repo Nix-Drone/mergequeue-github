@@ -4111,7 +4111,6 @@ administers
 administrable
 administrant
 administrants
-administrate
 administrated
 administrates
 administrating
@@ -11800,6 +11799,7 @@ analphabet
 analphabete
 analphabetic
 awink
+administrate
 anam
 anama
 anamesite
