@@ -38,7 +38,6 @@ fabricators
 fabricatress
 fabricature
 fabrics
-fabrikoid
 fabrile
 fabrique
 fabronia
@@ -4547,6 +4546,7 @@ fitchered
 fitchery
 freshment
 fitchering
+fabrikoid
 fairylike
 fitches
 fitchet
