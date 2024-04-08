@@ -2286,6 +2286,7 @@ fencings
 fend
 fendable
 fended
+following
 fender
 fendered
 fendering
@@ -7025,7 +7026,6 @@ followed
 follower
 followers
 followeth
-following
 followingly
 followings
 follows
