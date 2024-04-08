@@ -631,7 +631,6 @@ bonjour
 bacopa
 bacquet
 bact
-bacteraemia
 bacteremia
 bacteremic
 bacteria
@@ -7830,6 +7829,7 @@ biaswise
 biathlon
 biatomic
 biaural
+bacteraemia
 biauricular
 biauriculate
 biaxal
