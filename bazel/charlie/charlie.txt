@@ -4955,7 +4955,6 @@ cascan
 cascara
 cascaras
 cephalopagus
-contiguities
 cascaron
 cascavel
 caschielawis
@@ -28162,6 +28161,7 @@ crankle
 crankled
 crankles
 crankless
+contiguities
 crankly
 crankling
 crankman
