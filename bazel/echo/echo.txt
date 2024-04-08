@@ -195,6 +195,7 @@ earthshock
 earthslide
 earthsmoke
 earthtongue
+elaterist
 earthwall
 earthward
 earthwards
@@ -2142,7 +2143,6 @@ elateridae
 elaterids
 elaterin
 elaterins
-elaterist
 elaterite
 elateroid
 elaterometer
