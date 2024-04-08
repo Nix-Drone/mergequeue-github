@@ -6142,6 +6142,7 @@ flotorial
 furnisher
 flotsam
 flotsams
+freighter
 film
 flotsan
 flotsen
@@ -9744,7 +9745,6 @@ freiezlebenhe
 freight
 freightage
 freighted
-freighter
 freighters
 freightyard
 freightless
