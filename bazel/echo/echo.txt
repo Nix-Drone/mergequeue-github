@@ -2637,7 +2637,6 @@ electrostatics
 electrosteel
 electrostenolysis
 electrostenolytic
-electrostereotype
 electrostriction
 elinvar
 electrosurgery
@@ -13263,6 +13262,7 @@ expolish
 expone
 exponence
 exponency
+electrostereotype
 exponent
 exponential
 exponentially
