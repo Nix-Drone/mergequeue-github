@@ -4610,7 +4610,6 @@ fivebar
 fivefold
 fiveling
 fivepence
-fivepenny
 fivepins
 frosteds
 fiver
@@ -5868,6 +5867,7 @@ flocculating
 flocculation
 freshman
 flatnose
+fivepenny
 flocculator
 floccule
 flocculence
