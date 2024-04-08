@@ -9507,7 +9507,6 @@ checky
 checklaton
 checkle
 checkless
-checkline
 checklist
 checklists
 checkman
@@ -15328,6 +15327,7 @@ clavation
 clammyweed
 clamor
 clamored
+checkline
 clamorer
 clamorers
 clamoring
