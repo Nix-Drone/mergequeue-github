@@ -3580,7 +3580,6 @@ enterozoa
 embosture
 embottle
 embouchement
-embouchment
 embouchure
 embouchures
 embound
@@ -8481,6 +8480,7 @@ eponym
 eponymy
 eponymic
 eponymies
+embouchment
 eponymism
 eponymist
 eponymous
