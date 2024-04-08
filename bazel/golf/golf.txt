@@ -6012,7 +6012,6 @@ glovers
 gloves
 glow
 girnel
-glowbard
 glowbird
 glowed
 glower
@@ -9204,6 +9203,7 @@ grivna
 grizard
 ginniest
 grizel
+glowbard
 grizelin
 grizzel
 grizzled
