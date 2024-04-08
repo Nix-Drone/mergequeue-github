@@ -1166,7 +1166,6 @@ dasypod
 dasypodidae
 dasypodoid
 dasyproctidae
-dasyproctine
 dasypus
 dasystephana
 dasyure
@@ -9651,6 +9650,7 @@ dilamination
 dylan
 dilaniate
 dilantin
+dasyproctine
 dilapidate
 dilapidated
 dilapidating
