@@ -1,3 +1,4 @@
+use chrono::{DateTime, Utc};
 use clap::Parser;
 use confique::Config;
 use gen::cli::{Cli, Subcommands};
@@ -50,7 +51,6 @@ fn housekeeping(config: &Conf) {
             for item in array {
                 let mergeable = item["mergeable"].as_str().unwrap_or("");
                 let pr = item["number"].as_i64().unwrap_or(0).to_string();
-                let comments = item["comments"].to_string();
                 match mergeable {
                     "UNKNOWN" => {
                         has_unknown = true;
@@ -60,15 +60,38 @@ fn housekeeping(config: &Conf) {
                         println!("closed pr: {} (had merge conflicts)", &pr);
                     }
                     "MERGEABLE" => {
-                        if !requeued.contains(&pr)
-                            && (comments.contains("removed from the merge queue")
-                                || comments.contains(
-                                    "To merge this pull request, check the box to the left",
-                                ))
-                        {
-                            enqueue(&pr, config);
-                            println!("requeued pr: {}", &pr);
-                            requeued.insert(pr);
+                        if requeued.contains(&pr) {
+                            continue;
+                        }
+                        let comments = item["comments"].as_array().unwrap();
+                        'comment: for comment in comments.iter() {
+                            let body = comment["body"].as_str().unwrap_or("");
+                            let created_at_str = comment["createdAt"].as_str().unwrap_or("");
+
+                            if created_at_str.is_empty() {
+                                continue 'comment;
+                            }
+
+                            let stale_age = Utc::now() - config.close_stale_after_duration();
+                            let created_at = DateTime::parse_from_rfc3339(created_at_str)
+                                .expect("Unable to parse datetime")
+                                .with_timezone(&Utc);
+
+                            if created_at > stale_age {
+                                continue 'comment; // The datetime was less than stale age
+                            }
+
+                            if config
+                                .pullrequest
+                                .detect_stale_pr_comments
+                                .iter()
+                                .any(|s| body.contains(s))
+                            {
+                                //enqueue(&pr, config);
+                                GitHub::close(&pr);
+                                println!("closed stale pr: {}", &pr);
+                                requeued.insert(pr.to_owned());
+                            }
                         }
                     }
                     _ => {

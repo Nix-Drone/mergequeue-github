@@ -72,6 +72,12 @@ pub struct PullRequestConf {
 
     #[config(default = "logical-conflict.txt")]
     pub logical_conflict_file: String,
+
+    #[config(default = ["removed from the merge queue", "To merge this pull request, check the box to the left", "/trunk merge"])]
+    pub detect_stale_pr_comments: Vec<String>,
+
+    #[config(default = "4 hours")]
+    pub close_stale_after: String,
 }
 
 #[derive(Config, Serialize)]
@@ -100,6 +106,11 @@ impl Conf {
 
     pub fn sleep_duration(&self) -> std::time::Duration {
         parse(&self.test.sleep_for).expect("Failed to parse sleep_for into a Duration")
+    }
+
+    pub fn close_stale_after_duration(&self) -> std::time::Duration {
+        parse(&self.pullrequest.close_stale_after)
+            .expect("Failed to parse close_stale_after into a Duration")
     }
 
     pub fn is_valid(&self) -> Result<(), &'static str> {
