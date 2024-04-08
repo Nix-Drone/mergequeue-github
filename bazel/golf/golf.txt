@@ -5576,7 +5576,6 @@ glimpsed
 glimpser
 glimpsers
 glimpses
-glimpsing
 glims
 glyn
 glink
@@ -8818,6 +8817,7 @@ greillade
 gunfighter
 grein
 greyness
+glimpsing
 greynesses
 greing
 greypate
