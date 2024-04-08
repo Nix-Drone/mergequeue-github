@@ -4332,6 +4332,7 @@ delves
 delving
 dem
 demagnetisable
+dioptrometer
 demagnetisation
 demagnetise
 demagnetised
@@ -10321,7 +10322,6 @@ dioptric
 dioptrical
 dioptrically
 dioptrics
-dioptrometer
 dioptrometry
 dioptroscopy
 diorama
