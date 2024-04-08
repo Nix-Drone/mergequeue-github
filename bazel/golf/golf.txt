@@ -5541,7 +5541,6 @@ glidder
 gliddery
 glide
 glided
-glideless
 glider
 gliderport
 gliders
@@ -10656,6 +10655,7 @@ gurshes
 gurt
 gurts
 guru
+glideless
 gurus
 guruships
 gus
