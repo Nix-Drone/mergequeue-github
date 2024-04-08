@@ -9473,7 +9473,6 @@ checkbits
 checkbook
 checkbooks
 checke
-checked
 checker
 checkerbelly
 checkerbellies
@@ -24078,6 +24077,7 @@ conversazione
 conversaziones
 cowbell
 conversazioni
+checked
 converse
 conversed
 conversely
