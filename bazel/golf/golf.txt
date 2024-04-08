@@ -6099,7 +6099,6 @@ glue
 glued
 gangsman
 gluey
-glueyness
 gluelike
 gluelikeness
 gluemaker
@@ -9457,6 +9456,7 @@ groundsheet
 groundsill
 groundskeep
 galactolytic
+glueyness
 groundskeeping
 groundsman
 groundspeed
