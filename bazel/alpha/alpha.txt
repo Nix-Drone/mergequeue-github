@@ -8661,6 +8661,7 @@ allergia
 allergies
 allergin
 allergins
+attractableness
 allergist
 allergists
 allergology
@@ -23126,7 +23127,6 @@ attourne
 attract
 attractability
 attractable
-attractableness
 attractance
 attractancy
 attractant
