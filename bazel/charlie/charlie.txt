@@ -1096,7 +1096,6 @@ calcographer
 calcography
 cubatures
 calcographic
-calcomp
 calcrete
 calcsinter
 calcspar
@@ -11444,6 +11443,7 @@ chocolaty
 chocolatier
 chocolatiere
 communality
+calcomp
 choctaw
 choctaws
 choel
