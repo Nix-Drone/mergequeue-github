@@ -2904,7 +2904,6 @@ acrogamous
 acrogen
 acrogenic
 acrogenous
-acrogenously
 acrogens
 acrogynae
 acrogynous
@@ -7819,6 +7818,7 @@ alee
 alef
 alefnull
 alefs
+acrogenously
 aleft
 alefzero
 alegar
