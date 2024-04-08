@@ -1118,7 +1118,6 @@ ganglioid
 ganglioma
 gangliomas
 gangliomata
-ganglion
 ganglionary
 ganglionate
 grayness
@@ -3169,6 +3168,7 @@ geonyctinastic
 geonyctitropic
 geonim
 geonoma
+ganglion
 geoparallelotropic
 geophagy
 geophagia

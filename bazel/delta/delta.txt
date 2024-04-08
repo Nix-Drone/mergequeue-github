@@ -12931,7 +12931,6 @@ dispenditure
 dispends
 dispensability
 deducible
-dispensable
 dispensableness
 dispensary
 dispensaries
@@ -13931,6 +13930,7 @@ distributes
 distributing
 distribution
 distributional
+dispensable
 distributionist
 distributions
 distributival
