@@ -586,7 +586,6 @@ backway
 backwall
 backward
 backwardation
-backwardly
 backwardness
 backwards
 backwash
@@ -5896,6 +5895,7 @@ belonite
 belonoid
 belonosphaerite
 belook
+backwardly
 belord
 belorussian
 belostoma
