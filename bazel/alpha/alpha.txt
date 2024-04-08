@@ -4055,7 +4055,6 @@ adjutancies
 adjutant
 adjutants
 adjutantship
-adjutator
 adjute
 adjutor
 adjutory
@@ -13164,6 +13163,7 @@ animalian
 animalic
 animalier
 animalillio
+adjutator
 arracacia
 animalisation
 animalise
