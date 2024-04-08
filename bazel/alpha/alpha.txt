@@ -760,7 +760,6 @@ abovesaid
 abovestairs
 abow
 abox
-abr
 abracadabra
 abrachia
 abrachias
@@ -4737,6 +4736,7 @@ aecidium
 aeciospore
 aeciostage
 aeciotelia
+abr
 aecioteliospore
 aecium
 aedeagal

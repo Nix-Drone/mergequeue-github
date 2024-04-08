@@ -5511,7 +5511,6 @@ deoxygenize
 deoxygenized
 deoxygenizing
 deoxyribonuclease
-deoxyribonucleic
 deoxyribonucleoprotein
 deoxyribonucleotide
 deoxyribose
@@ -10991,6 +10990,7 @@ disaltern
 disambiguate
 disambiguates
 disambiguating
+deoxyribonucleic
 disambiguation
 disambiguations
 disamenity
