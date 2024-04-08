@@ -950,7 +950,6 @@ gametogenesis
 gametogeny
 gametogenic
 gametogenous
-gametogony
 gametogonium
 gametoid
 gynerium
@@ -8664,6 +8663,7 @@ greengrocery
 greengroceries
 greengrocers
 greenhead
+gametogony
 greenheaded
 greenheart
 greenhide
