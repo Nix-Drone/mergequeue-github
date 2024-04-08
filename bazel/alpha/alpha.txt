@@ -1008,7 +1008,6 @@ absorbability
 absorbable
 absorbance
 absorbancy
-absorbant
 absorbed
 absorbedly
 absorbedness
@@ -23406,6 +23405,7 @@ augustus
 auh
 auhuhu
 auk
+absorbant
 auklet
 auklets
 antiredeposition
