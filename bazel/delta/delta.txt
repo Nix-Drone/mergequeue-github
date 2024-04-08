@@ -11141,7 +11141,6 @@ disauthorize
 dysautonomia
 disavail
 disavouch
-disavow
 disavowable
 disavowance
 disavowed
@@ -11801,6 +11800,7 @@ discurrent
 discursative
 discursativeness
 discursify
+disavow
 discursive
 discursively
 discursiveness
