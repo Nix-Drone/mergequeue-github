@@ -2671,7 +2671,6 @@ barkeepers
 barkeeps
 barkey
 barken
-beknights
 barkening
 barkentine
 barkentines
@@ -15948,6 +15947,7 @@ bronchoconstrictor
 bronchodilatation
 bronchodilator
 bronchoegophony
+beknights
 bronchoesophagoscopy
 bronchogenic
 baghouse
