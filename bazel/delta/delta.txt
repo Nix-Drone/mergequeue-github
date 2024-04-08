@@ -12513,7 +12513,6 @@ disjoints
 disjointure
 disjudication
 disjunct
-disjunction
 disjunctions
 disjunctive
 disjunctively
@@ -13552,6 +13551,7 @@ dissimilatory
 dissimile
 dissimilitude
 dissymmetry
+disjunction
 dissymmetric
 dowelling
 dissymmetrical
