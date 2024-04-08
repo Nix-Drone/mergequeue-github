@@ -16917,7 +16917,6 @@ buyides
 buying
 build
 butterburr
-buildable
 builded
 builders
 building
@@ -18295,6 +18294,7 @@ buttes
 buttgenbachite
 butty
 butties
+buildable
 buttyman
 butting
 backlighting
