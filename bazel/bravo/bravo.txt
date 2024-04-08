@@ -2056,7 +2056,6 @@ bani
 banya
 banyai
 banian
-banyan
 banians
 banyans
 banig
@@ -3183,6 +3182,7 @@ basialveolar
 basiarachnitis
 basiarachnoiditis
 basiate
+banyan
 basiated
 basiating
 basibracteolate
