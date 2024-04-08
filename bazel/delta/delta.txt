@@ -1687,7 +1687,6 @@ deaspiration
 deassimilation
 deathbed
 deathbeds
-deathblow
 deathblows
 deathcup
 deathcups
@@ -2179,6 +2178,7 @@ decd
 deceased
 donnish
 deceases
+deathblow
 deceasing
 decede
 decedent
