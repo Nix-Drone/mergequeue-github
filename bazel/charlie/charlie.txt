@@ -984,7 +984,6 @@ countersale
 calcaneoscaphoid
 calcaneotibial
 calcaneum
-calcaneus
 calcannea
 calcannei
 calcar
@@ -2079,6 +2078,7 @@ campings
 campion
 campions
 campit
+calcaneus
 cample
 chaetopoda
 campman
