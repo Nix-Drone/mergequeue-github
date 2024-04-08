@@ -3970,7 +3970,6 @@ giftlike
 giftling
 gifts
 genson
-gifture
 giftware
 giftwrap
 giftwrapping
@@ -5865,6 +5864,7 @@ glossaries
 gorier
 glossarist
 glossarize
+gifture
 glossas
 glossata
 glossator
