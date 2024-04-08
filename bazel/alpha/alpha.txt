@@ -3197,7 +3197,6 @@ actinotrichium
 actinotrocha
 actinouranium
 actinozoa
-actinozoal
 actinozoan
 actinozoon
 actins
@@ -7613,6 +7612,7 @@ alchemical
 alchemically
 alchemies
 alchemised
+actinozoal
 alchemising
 alchemister
 alchemistic
