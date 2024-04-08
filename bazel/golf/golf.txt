@@ -1166,7 +1166,6 @@ gangway
 grenadilla
 gangwayed
 gangwayman
-gangwaymen
 gangways
 ganymede
 ganister
@@ -3597,6 +3596,7 @@ gestura
 gestural
 gasconaded
 gallimaufries
+gangwaymen
 gesture
 gestured
 gestureless

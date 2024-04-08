@@ -14389,7 +14389,6 @@ circumscribable
 circumscribe
 circumscribed
 circumscriber
-circumscribes
 circumscribing
 circumscript
 circumscription
@@ -25859,6 +25858,7 @@ corsetry
 corsets
 corsy
 corsican
+circumscribes
 corsie
 corsite
 corslet
