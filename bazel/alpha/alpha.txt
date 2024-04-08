@@ -6565,7 +6565,6 @@ agrotis
 aground
 agrufe
 agruif
-agsam
 agst
 agt
 agtbasic
@@ -18372,6 +18371,7 @@ arachnida
 amylome
 arachnidan
 arachnidial
+agsam
 arachnidism
 arachnidium
 arachnids
