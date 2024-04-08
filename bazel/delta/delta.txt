@@ -3312,7 +3312,6 @@ defiles
 defiliation
 defiling
 defilingly
-definability
 definable
 definably
 define
@@ -9543,6 +9542,7 @@ dignities
 dignosle
 dignotion
 dygogram
+definability
 digonal
 digoneutic
 digoneutism
