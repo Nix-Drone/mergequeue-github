@@ -4827,7 +4827,6 @@ cartman
 cartobibliography
 cartogram
 chloridizing
-cartograph
 cartographer
 cartographers
 cartography
@@ -6711,6 +6710,7 @@ cellarets
 cellarette
 cellaring
 cellarmen
+cartograph
 cellarous
 cellars
 cellarwoman
