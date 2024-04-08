@@ -5347,7 +5347,6 @@ affine
 affined
 affinely
 affines
-affing
 affinitative
 affinitatively
 affinite
@@ -18121,6 +18120,7 @@ aptal
 aptate
 aptenodytes
 apter
+affing
 aptera
 apteral
 apteran
