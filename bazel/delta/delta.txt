@@ -4221,7 +4221,6 @@ delocalised
 delocalising
 delocalization
 delocalize
-delocalized
 delocalizing
 delomorphic
 delomorphous
@@ -8912,6 +8911,7 @@ dichter
 dicyan
 dicyandiamide
 dicyanid
+delocalized
 dicyanide
 dicyanin
 dicyanine
