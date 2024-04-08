@@ -3734,7 +3734,6 @@ batteries
 batteryman
 battering
 batterman
-batters
 batteuse
 batty
 battycake
@@ -11251,6 +11250,7 @@ blowtube
 blowup
 blowups
 blowze
+batters
 blowzed
 blowzy
 blowzier
