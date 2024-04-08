@@ -2801,7 +2801,6 @@ beelzebub
 barometrography
 barometz
 baromotor
-baron
 baronage
 bespangled
 baronages
@@ -3634,6 +3633,7 @@ bathroom
 bathroomed
 bathrooms
 bathroot
+baron
 bathtub
 by
 bathtubful
