@@ -1837,7 +1837,6 @@ frayn
 feculence
 feculency
 feculent
-flingdust
 fecund
 fecundate
 fecundated
@@ -8421,6 +8420,7 @@ fargoing
 forlie
 formations
 formativeness
+flingdust
 formats
 formatter
 formatters
