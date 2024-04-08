@@ -754,7 +754,6 @@ abovedeck
 aboveground
 abovementioned
 aboveproof
-aboves
 abovesaid
 abovestairs
 abow
@@ -4909,6 +4908,7 @@ aeriness
 aero
 aerobacter
 aerobacteriology
+aboves
 aerobacteriological
 aerobacteriologically
 aerobacteriologist
