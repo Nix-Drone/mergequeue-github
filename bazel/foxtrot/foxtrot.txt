@@ -1595,7 +1595,6 @@ fossilisation
 favourableness
 favoured
 favouredly
-favouredness
 favourer
 favourers
 favouress
@@ -4863,6 +4862,7 @@ flakelet
 flaky
 flakier
 flakiest
+favouredness
 flakiness
 flaking
 flam
