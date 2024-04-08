@@ -5593,7 +5593,6 @@ belayer
 belaying
 belays
 belait
-biface
 belaites
 belam
 belamcanda
@@ -14666,6 +14665,7 @@ braves
 bravest
 bravi
 braving
+biface
 bravish
 bravissimo
 bravoed
