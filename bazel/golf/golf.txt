@@ -5965,7 +5965,6 @@ glottalizing
 glottic
 glottid
 glottidean
-glottides
 glottis
 glottiscope
 glottises
@@ -10153,6 +10152,7 @@ guiders
 guidership
 genial
 guides
+glottides
 guideway
 gigger
 guiding
