@@ -2504,7 +2504,6 @@ declasses
 declassicize
 declassify
 declassification
-declassifications
 declassifies
 declassifying
 declassing
@@ -3327,6 +3326,7 @@ definiendum
 dippy
 definiens
 dolabre
+declassifications
 definientia
 definish
 definite
