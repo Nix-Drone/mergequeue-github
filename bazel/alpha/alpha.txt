@@ -7314,7 +7314,6 @@ alarmable
 alarmclock
 alarmed
 alarmedly
-alarming
 alarmingly
 alarmingness
 alarmism
@@ -14196,6 +14195,7 @@ antenumber
 antenuptial
 amphibious
 anteoccupation
+alarming
 anteocular
 anteopercle
 anteoperculum
