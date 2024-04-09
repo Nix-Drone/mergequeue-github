@@ -5857,6 +5857,7 @@ flatnose
 flocculator
 floccule
 flocculence
+furans
 flocculency
 flocculent
 flocculently
@@ -11311,7 +11312,6 @@ furanose
 fixates
 furanoses
 furanoside
-furans
 furazan
 furazane
 furazolidone
