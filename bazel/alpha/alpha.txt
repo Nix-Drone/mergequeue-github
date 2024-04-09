@@ -14247,7 +14247,6 @@ anteposition
 anteposthumous
 anteprandial
 antepredicament
-antepreterit
 antepretonic
 anteprohibition
 anteprostate
@@ -14366,6 +14365,7 @@ anthesis
 anthesteria
 anthesteriac
 autarkik
+antepreterit
 anthesterin
 anthesterion
 anthesterol
