@@ -2637,6 +2637,7 @@ electrostatics
 electrosteel
 electrostenolysis
 electrostenolytic
+exciples
 electrostriction
 elinvar
 electrosurgery
@@ -12015,7 +12016,6 @@ encephalitis
 exciding
 excipient
 exciple
-exciples
 excipulaceae
 excipular
 excipule
