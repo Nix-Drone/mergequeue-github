@@ -2941,7 +2941,6 @@ elicitable
 elicitate
 enfranchisable
 elicitation
-elicited
 eliciting
 elicitor
 elicitory
@@ -11956,6 +11955,7 @@ equaeval
 excepable
 except
 eppes
+elicited
 exceptant
 excepted
 excepter
