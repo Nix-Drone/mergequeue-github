@@ -2463,6 +2463,7 @@ declaim
 declaimant
 declaimed
 declaimer
+dollin
 declaimers
 declaiming
 declaims
@@ -15180,7 +15181,6 @@ dollier
 dollies
 dollying
 dollymen
-dollin
 dolliness
 dolling
 dollish
