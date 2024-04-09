@@ -4050,7 +4050,6 @@ adjustors
 adjusts
 adjutage
 adjutancies
-adjutant
 adjutants
 adjutantship
 adjutator
@@ -8233,6 +8232,7 @@ aliesterase
 antelabium
 aliethmoid
 aliethmoidal
+adjutant
 alif
 alife
 aliferous
