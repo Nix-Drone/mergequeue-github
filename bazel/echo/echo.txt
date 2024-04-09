@@ -292,7 +292,6 @@ eastness
 eastre
 easts
 euphoniousness
-eastward
 eastwardly
 eat
 eatability
@@ -13755,6 +13754,7 @@ extortions
 extortive
 extorts
 ensurers
+eastward
 extra
 extrabold
 extrabranchial
