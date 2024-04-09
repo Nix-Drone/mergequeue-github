@@ -8629,7 +8629,6 @@ allegorized
 allegorizer
 allegorizing
 allegresse
-allegretto
 allegrettos
 allegro
 allegros
@@ -22405,6 +22404,7 @@ atame
 atamosco
 atangle
 atar
+allegretto
 ataractic
 ataraxy
 ataraxia
