@@ -5676,7 +5676,6 @@ depit
 deplace
 deplaceable
 deplane
-deplaned
 dragonfish
 deplaning
 deplant
@@ -11049,6 +11048,7 @@ disarrayed
 disarraying
 disarrays
 disarrange
+deplaned
 disarranged
 disarrangement
 disarranger
