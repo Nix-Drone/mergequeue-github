@@ -6714,6 +6714,7 @@ enteroparesis
 enteropathy
 enteropathogenic
 enteropexy
+eruciform
 enteropexia
 enteroplasty
 enteroplegia
@@ -9422,7 +9423,6 @@ erubescite
 eruc
 eruca
 erucic
-eruciform
 erucin
 erucivorous
 eruct
