@@ -5491,6 +5491,7 @@ emball
 enemy
 enemied
 enemies
+engaze
 estancieros
 eburnification
 enemying
@@ -5697,7 +5698,6 @@ engarrison
 engastrimyth
 engastrimythic
 engaud
-engaze
 engelmann
 engelmanni
 engelmannia

@@ -9533,7 +9533,6 @@ checkrowed
 checkrower
 checkrowing
 checkrows
-checks
 checkstrap
 checkstring
 checksum
@@ -30156,6 +30155,7 @@ crudwort
 cruel
 cruelest
 cruelhearted
+checks
 cruelize
 crueller
 cruellest
