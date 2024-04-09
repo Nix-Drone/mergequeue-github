@@ -6797,7 +6797,6 @@ ailurophilia
 ailurophilic
 ailurophobe
 ailurophobia
-ailurophobic
 ailuropoda
 ailuropus
 ailurus
@@ -22267,6 +22266,7 @@ astrography
 astrohatch
 astroid
 astroite
+ailurophobic
 astrol
 astrolabe
 astrolabes
