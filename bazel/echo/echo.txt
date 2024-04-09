@@ -5130,7 +5130,6 @@ endocyclic
 endocyemate
 endocyst
 endocystitis
-endocytic
 epistlar
 endocytosis
 endocytotic
@@ -6898,6 +6897,7 @@ entoire
 entoloma
 entom
 effet
+endocytic
 expressionful
 entomb
 entombed
