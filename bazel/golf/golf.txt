@@ -3634,7 +3634,6 @@ grooveless
 getpenny
 getspa
 getspace
-getsul
 gnawingly
 guidons
 gettableness
@@ -8506,6 +8505,7 @@ gravities
 gravitometer
 graviton
 gravitons
+getsul
 gravure
 grazable
 gossameriness
