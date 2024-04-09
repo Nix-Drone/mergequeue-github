@@ -3754,6 +3754,7 @@ battled
 battledore
 battledores
 baldly
+boyar
 battledoring
 battlefields
 battlefront
@@ -11947,7 +11948,6 @@ bohunks
 beverly
 boy
 boyang
-boyar
 boyard
 boyardism
 blamingly
