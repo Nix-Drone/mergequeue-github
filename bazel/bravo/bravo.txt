@@ -11624,6 +11624,7 @@ boatowner
 boats
 boatsetter
 boatshop
+brisure
 boatsman
 boatsmen
 boatsteerer
@@ -15559,7 +15560,6 @@ bristliness
 bristling
 bristol
 bristols
-brisure
 brit
 britain
 buzzardlike
