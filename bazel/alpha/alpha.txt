@@ -511,7 +511,6 @@ abjunctive
 abjuration
 abjurations
 abjuratory
-abjure
 abjured
 abjurement
 abjurer
@@ -8881,6 +8880,7 @@ allomerism
 allomerization
 allomerize
 allomerized
+abjure
 allomerizing
 allomerous
 averager
