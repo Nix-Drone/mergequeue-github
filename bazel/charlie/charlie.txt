@@ -23208,7 +23208,6 @@ consultantship
 consultary
 consultation
 consultations
-consultative
 consultatively
 consultatory
 consulted
@@ -26238,6 +26237,7 @@ costocoracoid
 costodiaphragmatic
 costogenic
 costoinferior
+consultative
 costophrenic
 costopleural
 costopneumopexy
