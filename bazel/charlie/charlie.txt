@@ -3780,6 +3780,7 @@ carbureter
 carburetest
 carbureting
 carburetion
+conformational
 carburetor
 carburetors
 carburets
@@ -22064,7 +22065,6 @@ complexed
 conformant
 conformate
 conformation
-conformational
 conformationally
 conformations
 conformator
