@@ -273,7 +273,6 @@ abdominogenital
 abdominohysterectomy
 abdominohysterotomy
 abdominoposterior
-abdominoscope
 abdominoscopy
 abdominothoracic
 abdominous
@@ -3942,6 +3941,7 @@ adiposes
 adiposis
 adiposity
 adiposities
+abdominoscope
 adiposogenital
 adiposuria
 adipous
