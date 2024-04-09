@@ -1410,7 +1410,6 @@ callbacks
 callboy
 callboys
 called
-caller
 callers
 calles
 callet
@@ -11953,6 +11952,7 @@ choriocele
 chorioepithelioma
 chorioepitheliomas
 covens
+caller
 chorioepitheliomata
 chorioid
 chorioiditis
