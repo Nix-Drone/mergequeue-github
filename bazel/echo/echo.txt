@@ -2697,7 +2697,6 @@ electrotropic
 electrotropism
 egoize
 electrovalence
-electrovalency
 electrovalent
 electrovalently
 electrovection
@@ -9908,6 +9907,7 @@ easterner
 essexite
 essie
 essive
+electrovalency
 essling
 essoign
 essoin
