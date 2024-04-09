@@ -6663,7 +6663,6 @@ goldurned
 goldurnedest
 goldurns
 goldweed
-goldwork
 goldworker
 golee
 golem
@@ -7314,6 +7313,7 @@ gossaniferous
 gossans
 gossard
 gossep
+goldwork
 gossy
 gossip
 gossipdom

@@ -20,7 +20,6 @@ cabaletta
 cabalic
 cabalism
 cabalisms
-cabalist
 cabalistic
 cabalistical
 cabalistically
@@ -24076,6 +24075,7 @@ conversibility
 conversible
 conversing
 conversion
+cabalist
 conversional
 conversionary
 conversionism
