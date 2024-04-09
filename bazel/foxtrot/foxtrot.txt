@@ -5752,7 +5752,6 @@ futharks
 fleuronee
 flytrap
 flytraps
-flits
 flitted
 flitterbat
 flittered
@@ -7851,6 +7850,7 @@ foreplays
 foreplan
 foreplanting
 forepleasure
+flits
 forepoint
 forepointer
 forepole
