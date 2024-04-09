@@ -3138,7 +3138,6 @@ basellaceae
 baseman
 basemen
 basement
-basementless
 basements
 basementward
 bloodshot
@@ -6436,6 +6435,7 @@ benzoglyoxaline
 balancewise
 benzohydrol
 benzoic
+basementless
 benzoid
 benzoylate
 benzoylated
