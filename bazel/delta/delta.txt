@@ -3344,6 +3344,7 @@ definitiones
 definitions
 definitise
 definitised
+domesticable
 definitising
 definitive
 definitively
@@ -15275,7 +15276,6 @@ dentine
 domesday
 domesdays
 domesticability
-domesticable
 domesticality
 domestically
 domesticate
