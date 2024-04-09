@@ -3406,7 +3406,6 @@ embattlement
 emphractic
 embattles
 embden
-embeam
 extinction
 embed
 embedded
@@ -4061,6 +4060,7 @@ empanada
 empanel
 empaneled
 empaneling
+embeam
 empanelled
 empanelling
 empanelment
