@@ -3475,7 +3475,6 @@ adatom
 adaunt
 adawe
 adawn
-adaxial
 adazzle
 adc
 adcon
@@ -5566,6 +5565,7 @@ afresh
 afret
 afrete
 afric
+adaxial
 africa
 african
 africana
