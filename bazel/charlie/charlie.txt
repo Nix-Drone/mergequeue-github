@@ -2936,7 +2936,6 @@ capacitance
 capacitances
 capacitate
 capacitated
-capacitates
 capacitating
 capacitation
 capacitations
@@ -9083,6 +9082,7 @@ charoses
 charoseth
 charpai
 charpais
+capacitates
 charpie
 charpit
 charpoy
