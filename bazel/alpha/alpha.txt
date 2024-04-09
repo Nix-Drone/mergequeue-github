@@ -283,7 +283,6 @@ abducens
 abducent
 abducentes
 abduces
-abducing
 articulate
 abduct
 abducted
@@ -20581,6 +20580,7 @@ arthrocleisis
 arthroclisis
 arthroderm
 arthrodesis
+abducing
 arthrodia
 arthrodiae
 arthrodial

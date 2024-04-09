@@ -7280,7 +7280,6 @@ footway
 footways
 footwalk
 footwall
-footwalls
 footwarmer
 footwear
 firefly
@@ -9701,6 +9700,7 @@ forbidal
 freethinker
 freethinkers
 freethinking
+footwalls
 freety
 freetrader
 freeway
