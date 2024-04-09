@@ -1565,6 +1565,7 @@ deaeration
 deaerator
 deaf
 deafened
+disenchanting
 deafeningly
 deafens
 dummered
@@ -11909,7 +11910,6 @@ disenchain
 disenchant
 disenchanted
 disenchanter
-disenchanting
 disenchantingly
 disenchantment
 disenchantments
