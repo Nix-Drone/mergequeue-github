@@ -233,7 +233,6 @@ abbreviators
 abbreviature
 abbroachment
 abc
-abcess
 abcissa
 abcoulomb
 abd
@@ -22585,6 +22584,7 @@ archit
 athyroid
 athyroidism
 athyrosis
+abcess
 athirst
 athlete
 athletehood
