@@ -5676,7 +5676,6 @@ enfoulder
 enfrai
 enframe
 enframed
-enframement
 enframes
 enframing
 enfranch
@@ -9516,6 +9515,7 @@ escapade
 escapado
 escapage
 escape
+enframement
 escaped
 escapee
 escapees
