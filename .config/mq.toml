@@ -8,7 +8,7 @@ email = "bot@trunk.io"
 [test]
 flake_rate = 0.40
 # how long test should spin for (can be described as 10s, 7m, 1hr)
-sleep_for = "10s"
+sleep_for = "35m"
 
 [pullrequest]
 labels = "bot-pr"       # label to apply to pull request on creation (comma separated list)
