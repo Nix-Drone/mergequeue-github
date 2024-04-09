@@ -4222,6 +4222,7 @@ firerooms
 firers
 fires
 forche
+fogscoffer
 firesafe
 firesafeness
 firesafety
@@ -6804,7 +6805,6 @@ fogproof
 fogram
 fogramity
 fogrum
-fogscoffer
 fogus
 foh
 fohat
