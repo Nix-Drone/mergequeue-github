@@ -1033,7 +1033,6 @@ gamp
 gamphrel
 gamps
 gams
-gamut
 gamuts
 gan
 ganam
@@ -1119,6 +1118,7 @@ ganglioma
 gangliomas
 gangliomata
 ganglionary
+gamut
 ganglionate
 grayness
 ganglionated

@@ -14341,7 +14341,6 @@ divests
 divesture
 divet
 divi
-divid
 dividable
 dividableness
 dividant
@@ -18570,6 +18569,7 @@ dustpan
 dustpans
 dustpoint
 dustrag
+divid
 dustrags
 dissentient
 dittologies
