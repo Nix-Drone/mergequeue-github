@@ -4779,7 +4779,6 @@ bedrel
 bedrench
 bedrenched
 bedrenches
-bedress
 bozal
 bedribble
 bedrid
@@ -8262,6 +8261,7 @@ byeworkman
 bifaces
 bifacial
 bifara
+bedress
 bifarious
 bifariously
 bifer
