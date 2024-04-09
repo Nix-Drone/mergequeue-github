@@ -4580,7 +4580,6 @@ encephalomalacosis
 encephalomalaxis
 encephalomas
 encephalomeningocele
-encephalomeric
 encephalometer
 encephalometric
 encephalomyelitic
@@ -11433,6 +11432,7 @@ evasions
 evasive
 evasively
 evasiveness
+encephalomeric
 eve
 evea
 evechurr
