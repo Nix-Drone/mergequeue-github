@@ -22843,7 +22843,6 @@ considers
 calyptra
 consign
 consignable
-consignatary
 consignataries
 consignation
 consignatory
@@ -23717,6 +23716,7 @@ contrarational
 contraregular
 contraregularity
 contraremonstrance
+consignatary
 contrarevolutionary
 contrary
 contrariant
