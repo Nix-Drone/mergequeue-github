@@ -2866,7 +2866,6 @@ fettles
 fettling
 fettlings
 fettstein
-fettuccine
 freighted
 fettucine
 fettucini
@@ -8390,6 +8389,7 @@ formalize
 formalized
 formalizer
 formalizes
+fettuccine
 formalizing
 formally
 formalness
