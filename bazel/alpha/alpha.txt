@@ -3126,7 +3126,6 @@ actinoelectricity
 actinogonidiate
 actinogram
 actinograph
-actinography
 actinographic
 actinoid
 actinoida
@@ -22318,6 +22317,7 @@ astrophotographer
 astrophotography
 astrophotographic
 astrophotometer
+actinography
 astrophotometry
 astrophotometrical
 astroscope
