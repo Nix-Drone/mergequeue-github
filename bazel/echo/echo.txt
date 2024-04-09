@@ -5129,6 +5129,7 @@ engrains
 endocyclic
 endocyemate
 endocyst
+epicyclical
 endocystitis
 epistlar
 endocytosis
@@ -7661,7 +7662,6 @@ epichorion
 epichoristic
 epicycle
 epicyclic
-epicyclical
 epicycloid
 epicycloidal
 epicyemate
