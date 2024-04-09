@@ -1375,7 +1375,6 @@ fatigability
 fatigable
 fatigableness
 fatigate
-fatigated
 fatigating
 fatigation
 fatiguability
@@ -5262,6 +5261,7 @@ fergusite
 flawlessness
 flawn
 flaws
+fatigated
 flax
 flaxboard
 flaxen
