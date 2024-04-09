@@ -1238,7 +1238,6 @@ acale
 acaleph
 acalepha
 acalephae
-acalephan
 acalephe
 acalephes
 acalephoid
@@ -4222,6 +4221,7 @@ armsize
 adneural
 adnex
 adnexal
+acalephan
 adnexed
 adnexitis
 adnexopexy
