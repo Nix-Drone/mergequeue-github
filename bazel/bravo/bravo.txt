@@ -6402,7 +6402,6 @@ benzidin
 benzidine
 benzidino
 benzidins
-benzil
 benzyl
 benzylamine
 benzilic
@@ -9556,6 +9555,7 @@ birthnight
 birthplace
 birthplaces
 bluebottles
+benzil
 birthrate
 birthrates
 birthright
