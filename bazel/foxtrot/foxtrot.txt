@@ -3003,7 +3003,6 @@ fevertrap
 fiant
 fiants
 fiar
-fiaroblast
 fiars
 fiaschi
 fiasco
@@ -5544,6 +5543,7 @@ flyblows
 flyboat
 flyboats
 flybrush
+fiaroblast
 flibustier
 flic
 felsophyre
