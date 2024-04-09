@@ -3361,7 +3361,6 @@ embargoing
 embargoist
 embargos
 embark
-embarkation
 embarkations
 embarked
 embarking
@@ -10897,6 +10896,7 @@ eulogists
 eulogium
 eulogiums
 eulogization
+embarkation
 eulogize
 eulogized
 eulogizer
