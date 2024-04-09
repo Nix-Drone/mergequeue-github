@@ -4329,7 +4329,6 @@ dem
 demagnetisable
 dioptrometer
 demagnetisation
-demagnetise
 demagnetised
 demagnetiser
 demagnetising
@@ -8687,6 +8686,7 @@ diavolo
 diaxial
 diaxon
 diaxone
+demagnetise
 diaxonic
 diazenithal
 diazepams
