@@ -3045,7 +3045,6 @@ deers
 deerskin
 deerstalker
 deerstalkers
-deerstalking
 deerstand
 deerstealer
 deertongue
@@ -7859,6 +7858,7 @@ dextrins
 dextro
 dextroamphetamine
 dextroaural
+deerstalking
 datiscetin
 dextrocardia
 dextrocardial

@@ -4320,6 +4320,7 @@ beavers
 beaverskin
 beaverteen
 beaverwood
+boulderhead
 beback
 bebay
 bebait
@@ -13507,7 +13508,6 @@ boulangism
 boulangist
 boulder
 bouldered
-boulderhead
 bouldery
 bouldering
 boulders
