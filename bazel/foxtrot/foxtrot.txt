@@ -2662,7 +2662,6 @@ fertilizability
 faldage
 fertilizable
 ferroprussiate
-fertilization
 fertilizational
 fertilize
 fertilized
@@ -5314,6 +5313,7 @@ flechette
 flechettes
 fleck
 flecked
+fertilization
 flecker
 fleckered
 fleckering
