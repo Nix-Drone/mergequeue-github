@@ -1219,6 +1219,7 @@ gantlets
 gantline
 gantlines
 gantlope
+grounds
 gantlopes
 ganton
 gynandromorphic
@@ -9459,7 +9460,6 @@ groundnut
 gentleship
 groundout
 groundplot
-grounds
 gros
 glim
 groundsel

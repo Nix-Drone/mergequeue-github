@@ -4409,7 +4409,6 @@ fishnet
 fishnets
 fishplate
 fishpole
-fishpoles
 fishponds
 fishpotter
 fishskin
@@ -5835,6 +5834,7 @@ floccilation
 floccillation
 floccing
 floccipend
+fishpoles
 floccose
 floccosely
 flocculable
