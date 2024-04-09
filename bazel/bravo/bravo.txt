@@ -9338,7 +9338,6 @@ banishments
 biplosion
 biplosive
 bipod
-bipods
 bipolar
 bipolarity
 bipolarization
@@ -14925,6 +14924,7 @@ breccial
 breccias
 brecciate
 brecciated
+bipods
 brecciating
 brecciation
 brecham
