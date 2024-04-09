@@ -5965,7 +5965,6 @@ depthen
 depthing
 depthless
 depthlessness
-depthometer
 depths
 depthways
 depthwise
@@ -6014,6 +6013,7 @@ deputizes
 deputizing
 dequantitate
 dequeen
+depthometer
 dequeue
 dequeued
 dequeues
