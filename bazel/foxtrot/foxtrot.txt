@@ -4197,7 +4197,6 @@ firehouses
 fireless
 firelight
 forfar
-firelike
 firelit
 firelock
 firelocks
@@ -5653,6 +5652,7 @@ fator
 flint
 flinted
 flinter
+firelike
 flinthead
 flinthearted
 forbreak
