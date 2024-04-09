@@ -7008,6 +7008,7 @@ follow
 followable
 followed
 follower
+foisting
 followers
 followeth
 followingly
@@ -8223,7 +8224,6 @@ forgab
 forgat
 forgather
 forgathered
-foisting
 forgathering
 forgathers
 forgave
