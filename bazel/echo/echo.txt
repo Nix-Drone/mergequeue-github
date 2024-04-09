@@ -285,7 +285,6 @@ easting
 eastings
 eastlake
 eastlander
-eastlin
 eastling
 eastlings
 eastlins
@@ -7186,6 +7185,7 @@ enveloper
 envelopers
 enveloping
 envelopment
+eastlin
 envelopments
 entailing
 envelops
