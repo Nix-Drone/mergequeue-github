@@ -12577,7 +12577,6 @@ anesthesiologies
 alumstone
 anesthesiologist
 anesthesiologists
-anesthesiometer
 anesthesis
 allergens
 anesthetic
@@ -21035,6 +21034,7 @@ ascribe
 ascribed
 ascribes
 ascribing
+anesthesiometer
 ascript
 ascription
 ascriptions
