@@ -9211,7 +9211,6 @@ chastisable
 chastise
 chastised
 chastiser
-chastisers
 composture
 chastises
 chastising
@@ -16183,6 +16182,7 @@ clinchpoop
 cline
 clines
 cling
+chastisers
 clinged
 clinger
 clingers
