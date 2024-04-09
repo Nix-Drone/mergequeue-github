@@ -7288,7 +7288,6 @@ cephalodiscida
 cephalodiscus
 cephalodium
 cephalofacial
-cephalogenesis
 cephalogram
 cephalograph
 cephalohumeral
@@ -31343,6 +31342,7 @@ curios
 curiosa
 curiosi
 curiosity
+cephalogenesis
 curiosities
 curioso
 curiosos
