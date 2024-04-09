@@ -2417,7 +2417,6 @@ acidifier
 acidifiers
 acidifies
 acidifying
-acidyl
 acidimetry
 acidimetric
 acidimetrically
@@ -8019,6 +8018,7 @@ alga
 algae
 algaecide
 algaeology
+acidyl
 alcovinometer
 algaeological
 algaeologist
