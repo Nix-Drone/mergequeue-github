@@ -7260,7 +7260,6 @@ dethronement
 dethronements
 dethroner
 dethrones
-dethroning
 deti
 detick
 deticked
@@ -16513,6 +16512,7 @@ draftees
 drafter
 dopster
 drafty
+dethroning
 draftier
 draftiest
 draftily
