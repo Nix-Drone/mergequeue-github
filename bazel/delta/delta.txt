@@ -2653,6 +2653,7 @@ decompress
 decompresses
 decompressing
 decompression
+detectaphone
 decompressions
 decompressive
 deconcatenate
@@ -7136,7 +7137,6 @@ detect
 detectability
 daishiki
 detectable
-detectaphone
 detected
 detecter
 detecters
