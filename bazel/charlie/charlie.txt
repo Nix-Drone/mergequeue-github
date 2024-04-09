@@ -3140,7 +3140,6 @@ capkin
 caplan
 capless
 caplet
-caplets
 caplin
 capling
 caplins
@@ -8330,6 +8329,7 @@ chalkpit
 chalkrail
 chalks
 chalkstone
+caplets
 chalkworker
 challa
 challah
