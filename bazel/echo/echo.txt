@@ -6282,7 +6282,6 @@ enrichener
 eogaea
 enrichers
 enriches
-enriching
 enrichingly
 enrichments
 epsilon
@@ -14110,6 +14109,7 @@ extruders
 extrudes
 extruding
 extrusible
+enriching
 extrusile
 extrusion
 extrusions
