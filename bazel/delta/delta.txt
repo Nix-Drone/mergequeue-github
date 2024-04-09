@@ -4750,6 +4750,7 @@ demobilizations
 demobilize
 demobilized
 demobilizes
+diaheliotropism
 demobilizing
 democracy
 democracies
@@ -8224,7 +8225,6 @@ diaguitas
 diaguite
 diaheliotropic
 diaheliotropically
-diaheliotropism
 dyak
 diaka
 diakinesis
