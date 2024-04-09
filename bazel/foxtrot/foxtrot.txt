@@ -4778,7 +4778,6 @@ foppishness
 flagitiousness
 flagleaf
 flaglet
-flaglike
 flotation
 flagmaker
 flagman
@@ -8185,6 +8184,7 @@ forfare
 forfars
 forfault
 forfaulture
+flaglike
 forfeit
 forfeitableness
 forfeited
