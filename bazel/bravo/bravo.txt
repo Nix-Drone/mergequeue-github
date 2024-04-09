@@ -4721,6 +4721,7 @@ bedkey
 bedlam
 bedlamer
 bedlamic
+booked
 bedlamise
 bedlamised
 bedlamising
@@ -12639,7 +12640,6 @@ bookcase
 bookcases
 bookcraft
 bookdealer
-booked
 bookend
 bushmaster
 bookends
