@@ -4927,7 +4927,6 @@ flams
 flan
 flancard
 flanch
-flanchard
 flanche
 flanconade
 flanconnade
@@ -8662,6 +8661,7 @@ fortaxed
 fortemente
 fortepiano
 fortes
+flanchard
 fortescue
 fortescure
 forth
