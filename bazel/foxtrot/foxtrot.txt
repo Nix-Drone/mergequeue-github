@@ -5025,6 +5025,7 @@ fellatee
 flashboard
 flashbulb
 flashbulbs
+flinches
 flashcube
 flashcubes
 flashed
@@ -8126,7 +8127,6 @@ foretokens
 fretless
 foretold
 foretooth
-flinches
 foretop
 foretopman
 foretopmast
