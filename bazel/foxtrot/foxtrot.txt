@@ -3399,7 +3399,6 @@ fieldwork
 fulmine
 fieldworker
 fieldwort
-feridji
 fiend
 fiendful
 fiendfully
@@ -4826,6 +4825,7 @@ flagstick
 flagstones
 flagworm
 flay
+feridji
 flayed
 flayer
 flayers
