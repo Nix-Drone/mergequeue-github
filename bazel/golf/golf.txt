@@ -2411,7 +2411,6 @@ gallanting
 gelatinobromide
 gelatinoid
 gelatinous
-gelatinousness
 gelatins
 gelation
 greaves
@@ -4953,6 +4952,7 @@ glabbella
 glabella
 glabellae
 glabellar
+gelatinousness
 glabellous
 glabellum
 glabrate
