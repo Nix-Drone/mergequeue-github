@@ -2985,7 +2985,6 @@ geobios
 geoblast
 geobotany
 geobotanic
-geobotanically
 glutetei
 geocarpic
 geocentric
@@ -7649,6 +7648,7 @@ graddan
 grade
 guptavidya
 graded
+geobotanically
 gradely
 grademark
 grader
