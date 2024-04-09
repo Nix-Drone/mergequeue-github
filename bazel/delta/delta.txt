@@ -2555,6 +2555,7 @@ decode
 decoded
 decoder
 decoders
+djehad
 decodes
 decoding
 decodings
@@ -14522,7 +14523,6 @@ djasakid
 djave
 djebel
 djebels
-djehad
 djelab
 djelfa
 djellab
