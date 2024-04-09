@@ -11,7 +11,7 @@ flake_rate = 0.40
 sleep_for = "25m"
 
 [pullrequest]
-labels = "bot-pr"       # label to apply to pull request on creation (comma separated list)
+labels = ""       # label to apply to pull request on creation (comma separated list)
 comment = ""
 requests_per_hour = 150 # target number of pull requests per hour
 
