@@ -5400,7 +5400,6 @@ behave
 behaved
 behaver
 behavers
-behaves
 behaving
 behavior
 behaviorally
@@ -9219,6 +9218,7 @@ biotechnologically
 biotechs
 biotelemetry
 botanists
+behaves
 biotelemetric
 biotelemetries
 biotherapy
