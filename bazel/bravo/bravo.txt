@@ -7853,7 +7853,6 @@ bibation
 bibb
 bibbed
 bibber
-bibbery
 bibberies
 bibbers
 bibby
@@ -11876,6 +11875,7 @@ boggier
 boggiest
 boggin
 bogginess
+bibbery
 bogging
 boggish
 boggle
