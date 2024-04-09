@@ -9901,6 +9901,7 @@ chemosphere
 chemospheric
 chemostat
 chemosterilant
+collateral
 chemosterilants
 chemosurgery
 chemosurgical
@@ -18873,7 +18874,6 @@ collat
 collatable
 collate
 collatee
-collateral
 correspondentially
 collaterality
 collateralize
