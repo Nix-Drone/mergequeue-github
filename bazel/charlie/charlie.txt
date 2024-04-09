@@ -7302,6 +7302,7 @@ cephalomant
 cephalomelus
 cephalomeningitis
 cephalomere
+cyclostylar
 cephalometer
 cephalometry
 cephalometric
@@ -13399,7 +13400,6 @@ contchar
 cyclosporeae
 cyclosporinae
 cyclosporous
-cyclostylar
 cyclostyle
 cyclostoma
 cyclostomata
