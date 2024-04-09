@@ -2602,7 +2602,6 @@ bariatrician
 bariatrics
 baric
 barycenter
-barycentric
 barid
 barie
 barye
@@ -4892,6 +4891,7 @@ beechdrops
 beechen
 biffins
 beecher
+barycentric
 beeches
 beechy
 beechier
