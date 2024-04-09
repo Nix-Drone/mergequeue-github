@@ -15974,7 +15974,6 @@ clericals
 clericate
 clericature
 clericism
-clericity
 clerics
 clericum
 clerid
@@ -17278,6 +17277,7 @@ coatdress
 coated
 coatee
 coatees
+clericity
 coater
 coaters
 coathangers
