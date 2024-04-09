@@ -6165,6 +6165,7 @@ ennew
 ennia
 enniche
 ennoble
+explorers
 ennobled
 ennoblement
 ennoblements
@@ -13236,7 +13237,6 @@ explore
 explored
 explorement
 explorer
-explorers
 explores
 exploring
 exploringly
