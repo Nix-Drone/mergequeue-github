@@ -6145,7 +6145,6 @@ flotant
 favorability
 flotas
 flotative
-flote
 floter
 flotilla
 flotillas
@@ -7982,6 +7981,7 @@ foreshift
 foreship
 foreshock
 foreshoe
+flote
 foreshop
 foreshore
 feculae
