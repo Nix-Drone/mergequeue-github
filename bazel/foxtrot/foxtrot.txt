@@ -6147,6 +6147,7 @@ flibbertigibbets
 furnisher
 flotsam
 flotsams
+formulaic
 freighter
 film
 flotsan
@@ -8512,7 +8513,6 @@ forms
 formula
 formulable
 formulae
-formulaic
 formulaically
 formulary
 foggy
