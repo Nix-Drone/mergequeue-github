@@ -2000,6 +2000,7 @@ campesino
 campesinos
 campestral
 campestrian
+cordelier
 campfight
 campfire
 campfires
@@ -24941,7 +24942,6 @@ cordeau
 corded
 cordel
 cordelia
-cordelier
 cordeliere
 cordelle
 cordelled
