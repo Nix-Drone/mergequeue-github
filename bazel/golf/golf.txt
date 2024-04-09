@@ -5882,7 +5882,6 @@ glosses
 glossy
 glossic
 glossier
-glossies
 glossiest
 glossily
 glossina
@@ -6430,6 +6429,7 @@ gobans
 gobbe
 glycemic
 gobbed
+glossies
 gobber
 gobbet
 gobby
