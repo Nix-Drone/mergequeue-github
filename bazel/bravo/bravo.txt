@@ -9609,7 +9609,6 @@ bisected
 bisecting
 bisection
 bisectional
-bisectionally
 bisections
 bisector
 bisectors
@@ -18343,6 +18342,7 @@ buttstrap
 buttstrapped
 buttstrapping
 braw
+bisectionally
 buttwoman
 buttwomen
 buttwood
