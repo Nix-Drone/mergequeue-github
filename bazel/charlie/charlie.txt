@@ -15726,7 +15726,6 @@ clavichord
 clavichordist
 clavichordists
 clavichords
-clavicylinder
 clavicymbal
 clavicytheria
 clavicytherium
@@ -20871,6 +20870,7 @@ comprecation
 compreg
 compregnate
 comprehend
+clavicylinder
 comprehended
 comprehender
 comprehendible
