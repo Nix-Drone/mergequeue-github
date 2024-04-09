@@ -4694,7 +4694,6 @@ carriages
 carriagesmith
 carriageway
 carryall
-carryalls
 carrick
 carrycot
 carrie
@@ -8078,6 +8077,7 @@ chaffering
 chaffers
 chaffy
 chaffiest
+carryalls
 chaffinch
 chaffinches
 chaffiness
