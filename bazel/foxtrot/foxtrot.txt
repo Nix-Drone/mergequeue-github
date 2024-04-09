@@ -2963,7 +2963,6 @@ few
 fewer
 fewest
 fewmand
-fewmets
 fogle
 frogland
 fewnes
@@ -10405,6 +10404,7 @@ fronter
 frontier
 frontierless
 fictor
+fewmets
 forgivableness
 fiddley
 flowerfence
