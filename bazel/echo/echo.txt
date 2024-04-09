@@ -6603,7 +6603,6 @@ entergogenic
 enteria
 enteric
 enteritidis
-enteritis
 entermete
 exolemma
 entermise
@@ -12989,6 +12988,7 @@ expediently
 ethernets
 expedients
 expediment
+enteritis
 expeding
 eluders
 expeditate
