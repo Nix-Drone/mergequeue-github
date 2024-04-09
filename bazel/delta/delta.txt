@@ -9252,6 +9252,7 @@ dietist
 decolorant
 dietitian
 dietitians
+dtset
 dietotherapeutics
 dietotherapy
 dietotoxic
@@ -17651,7 +17652,6 @@ dsri
 dt
 dtd
 dtente
-dtset
 du
 duad
 duadic
