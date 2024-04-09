@@ -1038,7 +1038,6 @@ fantad
 farmable
 farmage
 farmed
-farmer
 farmeress
 farmery
 farmeries
@@ -5900,6 +5899,7 @@ floodboard
 floodcock
 flooded
 flooder
+farmer
 flooders
 floodgate
 floodgates
