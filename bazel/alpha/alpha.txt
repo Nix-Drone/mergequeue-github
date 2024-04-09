@@ -2712,6 +2712,7 @@ acquiesces
 amygdalotomy
 acquiescing
 acquiescingly
+allocated
 acquiesence
 acquiet
 acquirability
@@ -8783,7 +8784,6 @@ allocable
 allocaffeine
 allocatable
 allocate
-allocated
 allocatee
 allocates
 allocating
