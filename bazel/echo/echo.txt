@@ -4484,7 +4484,6 @@ encaging
 encake
 encalendar
 encallow
-encamped
 encamping
 encampment
 encampments
@@ -13934,6 +13933,7 @@ extrapolations
 extrapolative
 extrapolator
 extrapolatory
+encamped
 extrapopular
 extraposition
 extraprofessional
