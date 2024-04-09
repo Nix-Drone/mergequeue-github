@@ -1075,7 +1075,6 @@ edger
 edgers
 edges
 edgeshot
-edgestone
 edgeway
 edgeways
 edgeweed
@@ -4918,6 +4917,7 @@ encrypts
 encrisp
 encroach
 encroached
+edgestone
 encroacher
 encroaches
 encroaching
