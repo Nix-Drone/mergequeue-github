@@ -4739,7 +4739,6 @@ bedlight
 bedmaker
 bewrought
 bedmakers
-bedmaking
 bedman
 bedmate
 bedmates
@@ -13115,6 +13114,7 @@ borstals
 borty
 borts
 bortsch
+bedmaking
 bortz
 bortzes
 britannica
