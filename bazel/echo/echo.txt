@@ -7373,7 +7373,6 @@ eosines
 eosinic
 eosinlike
 eosinoblast
-eosinophil
 enharbor
 eosinophile
 eosinophilia
@@ -13692,6 +13691,7 @@ extinguishing
 extinguishment
 extypal
 extipulate
+eosinophil
 ecdemite
 extirp
 extirpated
