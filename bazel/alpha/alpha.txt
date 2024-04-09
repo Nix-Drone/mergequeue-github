@@ -5629,6 +5629,7 @@ aftercure
 afterdays
 afterdamp
 afterdate
+antifoam
 afterdated
 afterdeal
 afterdeath
@@ -15273,7 +15274,6 @@ antiflash
 antiflattering
 antiflatulent
 antiflux
-antifoam
 antifoaming
 antilabor
 antifogmatic
