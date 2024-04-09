@@ -6005,7 +6005,6 @@ gloves
 glow
 girnel
 glowbard
-glowbird
 glowed
 glower
 glowered
@@ -8542,6 +8541,7 @@ greasehorn
 greaseless
 gorkhali
 greaselessness
+glowbird
 groaners
 greasepaint
 greaseproof
