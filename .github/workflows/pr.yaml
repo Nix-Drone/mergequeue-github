@@ -18,26 +18,13 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: trunk install
-        uses: trunk-io/trunk-action/install@v1
-        with:
-          tools: gh
-
       - uses: robinraju/release-downloader@v1.9
         with:
-          repository: "trunk-io/mergequeue-tool"
+          repository: trunk-io/mergequeue-tool
           latest: true
           tarBall: true
           preRelease: true
           extract: true
-
-      - name: test mq
-        run: ./mq --version
-
-      # - name: download mq
-      #   run: |
-      #     gh release download --repo=trunk-io/mergequeue-tool --include-prerelease --pattern='*.gz' --output mq.gz --clobber
-      #     tar -xf mq.gz
 
       - name: Determine is_merge
         id: check_is_merge

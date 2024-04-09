@@ -24,12 +24,12 @@ jobs:
             echo "Impersonating Eli"
             ;;
           1)
-            echo "secret_name=MAT_PAT" >> $GITHUB_OUTPUT
+            echo "secret_name=MATT_PAT" >> $GITHUB_OUTPUT
             echo "Impersonating Matt"
             ;;
           2)
-            echo "secret_name=ELI_PAT" >> $GITHUB_OUTPUT
-            echo "Impersonating Eli"
+            echo "secret_name=ROBERT_PAT" >> $GITHUB_OUTPUT
+            echo "Impersonating Robert"
             ;;            
           esac
 
@@ -38,14 +38,17 @@ jobs:
         with:
           tools: gh
 
-      - name: download mq
-        run: |
-          gh release download --repo=trunk-io/mergequeue-tool --include-prerelease --pattern='*.gz' --output mq.gz --clobber
-          tar -xf mq.gz
+      - uses: robinraju/release-downloader@v1.9
+        with:
+          repository: trunk-io/mergequeue-tool
+          latest: true
+          tarBall: true
+          preRelease: true
+          extract: true
 
       - name: run mq
         id: edits
-        run: ./mq
+        run: ./mq generate
         env:
           GH_TOKEN: ${{ secrets[steps.choose-secret.outputs.secret_name] }}
 
