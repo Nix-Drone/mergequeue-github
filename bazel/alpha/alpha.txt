@@ -8509,7 +8509,6 @@ alkoranic
 alkoxy
 alkoxid
 alkoxide
-alkoxyl
 all
 allabuta
 allachesthesia
@@ -14470,6 +14469,7 @@ anthraciferous
 anthracyl
 anthracin
 anthracite
+alkoxyl
 anthracitic
 anthracitiferous
 anthracitious
