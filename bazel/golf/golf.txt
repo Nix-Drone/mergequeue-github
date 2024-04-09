@@ -63,7 +63,6 @@ gablatores
 gable
 gableboard
 gabled
-gableended
 gablelike
 gabler
 gables
@@ -6437,6 +6436,7 @@ gobbe
 glycemic
 gobbed
 gobber
+gableended
 gobbet
 gobby
 gobbin
