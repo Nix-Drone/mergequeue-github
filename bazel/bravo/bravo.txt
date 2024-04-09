@@ -11171,7 +11171,6 @@ blore
 blosmy
 blossom
 blossombill
-blossomhead
 blossomy
 blossomless
 blossoms
@@ -13322,6 +13321,7 @@ bothies
 bothlike
 bardesanist
 bothnian
+blossomhead
 bothnic
 batteled
 bulletproofs
