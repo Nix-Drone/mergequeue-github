@@ -5634,7 +5634,6 @@ afterdeal
 afterdeath
 afterdeck
 afterdecks
-afterdinner
 afterdischarge
 afterdrain
 aftereffect
@@ -22456,6 +22455,7 @@ ateles
 atelestite
 atelets
 ately
+afterdinner
 atelic
 atelier
 ateliers
