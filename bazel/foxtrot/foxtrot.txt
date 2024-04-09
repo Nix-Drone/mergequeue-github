@@ -1379,7 +1379,6 @@ fatiguability
 fatiguabilities
 fatiguable
 fatigue
-fatigued
 formicina
 fatigueless
 fatiguesome
@@ -5096,6 +5095,7 @@ flatlanders
 forewaters
 flatlands
 flatlets
+fatigued
 flatly
 flatling
 flatlings
