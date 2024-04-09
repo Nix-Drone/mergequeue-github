@@ -570,7 +570,6 @@ echinodermic
 echinodorus
 echinoid
 echinoidea
-echinoids
 echinology
 echinologist
 echinomys
@@ -3819,6 +3818,7 @@ emendations
 emendator
 emendatory
 emended
+echinoids
 emender
 emenders
 emendicate
