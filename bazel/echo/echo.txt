@@ -4489,7 +4489,6 @@ encaged
 encages
 encake
 encalendar
-encallow
 encamping
 encampment
 encampments
@@ -13498,6 +13497,7 @@ exstill
 exstimulate
 exstipulate
 exstrophy
+encallow
 exstruct
 exsuccous
 exsuction
