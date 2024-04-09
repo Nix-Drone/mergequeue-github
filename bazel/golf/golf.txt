@@ -5548,7 +5548,6 @@ glycosin
 glycosine
 glycosuria
 glycosuric
-glycuresis
 glycuronic
 glycuronid
 glycuronide
@@ -9896,6 +9895,7 @@ guarand
 guarani
 guaranian
 guaranies
+glycuresis
 guaranine
 guaranis
 ganancial
