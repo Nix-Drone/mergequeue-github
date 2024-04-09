@@ -4842,7 +4842,6 @@ cartonnage
 cartonnier
 cartons
 cartoon
-cartooned
 cartoonist
 cartoonists
 cartoons
@@ -15297,6 +15296,7 @@ clamative
 clamatores
 clamatory
 clamatorial
+cartooned
 clamb
 clambake
 clambakes
