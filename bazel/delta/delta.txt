@@ -12515,7 +12515,6 @@ disjunctively
 disjunctor
 disjuncts
 dereferences
-disjuncture
 disjune
 disk
 disked
@@ -17976,6 +17975,7 @@ dulcify
 dulcification
 dewater
 dulcified
+disjuncture
 dulcifying
 dulcifluous
 delegatee
