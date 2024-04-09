@@ -2371,7 +2371,6 @@ candleberries
 candlebomb
 candlebox
 candled
-candlefish
 candlefishes
 candleholder
 candlelight
@@ -2787,6 +2786,7 @@ cantharidize
 cantharidized
 cantharidizing
 cantharis
+candlefish
 cantharophilous
 cantharus
 canthathari
