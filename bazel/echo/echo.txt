@@ -782,7 +782,6 @@ ecrase
 ecraseur
 ecraseurs
 ecrasite
-ecrevisse
 ecroulement
 ecru
 extramedullary
@@ -9170,6 +9169,7 @@ erythrocyte
 erythrocytes
 erythrocytoblast
 erythrocytolysin
+ecrevisse
 erythrocytolysis
 erythrocytolytic
 erythrocytometer
