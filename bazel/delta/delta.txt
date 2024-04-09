@@ -11156,7 +11156,6 @@ disbenchment
 disbend
 disbind
 disblame
-disbloom
 disboard
 disbody
 disbodied
@@ -16946,6 +16945,7 @@ dreidels
 dreidl
 dislade
 dreidls
+disbloom
 dreyfusism
 dreyfusist
 dreigh
