@@ -2375,7 +2375,6 @@ gelates
 grandchildren
 gelatia
 gelatification
-gelatigenous
 gelatin
 gelatinate
 gelatinated
@@ -3456,6 +3455,7 @@ germless
 germlike
 germling
 germon
+gelatigenous
 germproof
 germs
 germule
