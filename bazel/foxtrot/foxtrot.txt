@@ -4807,6 +4807,7 @@ flagstaves
 facioscapulohumeral
 flagstick
 flagstones
+flatuses
 flagworm
 flay
 feridji
@@ -7500,7 +7501,6 @@ foreadvise
 foreallege
 foreallot
 foreannounce
-flatuses
 foreannouncement
 foreappoint
 foreappointment
