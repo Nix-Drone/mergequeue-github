@@ -1739,7 +1739,6 @@ gastrochaena
 gastrochaenidae
 giltheads
 gastrocystic
-gastrocnemial
 gastrocnemian
 gastrocnemii
 gastrocnemius
@@ -6228,6 +6227,7 @@ gnapweed
 gnar
 gnarl
 gnarled
+gastrocnemial
 gnarly
 goutte
 gnarlier
