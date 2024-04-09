@@ -4075,6 +4075,7 @@ cardplayer
 cardplaying
 cardroom
 cards
+clearwing
 cardshark
 cardsharp
 cardsharper
@@ -15853,7 +15854,6 @@ clearstoried
 clearstories
 clearwater
 clearweed
-clearwing
 cleat
 cleated
 cleating
