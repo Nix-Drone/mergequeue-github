@@ -17803,7 +17803,6 @@ codirecting
 codirectional
 codirector
 commonish
-codirectorship
 codirects
 codiscoverer
 codisjunct
@@ -27336,6 +27335,7 @@ courlans
 couronne
 cours
 course
+codirectorship
 coursed
 coursey
 courser
