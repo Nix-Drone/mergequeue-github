@@ -1833,7 +1833,6 @@ deblock
 dijudicate
 deblocking
 deboise
-deboist
 deboistly
 deboite
 deboites
@@ -12020,6 +12019,7 @@ disestablished
 disestablisher
 disestablishes
 disestablishing
+deboist
 disestablishmentarian
 disestablishmentarianism
 disestablismentarian
