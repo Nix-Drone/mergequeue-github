@@ -2704,7 +2704,6 @@ barlafummil
 barleduc
 barleducs
 barley
-barleybird
 barleybrake
 barleybreak
 barleycorn
@@ -3576,6 +3575,7 @@ bathyl
 bathylimnetic
 bathylite
 bathylithic
+barleybird
 bathylitic
 bathymeter
 bathymetry
