@@ -2923,7 +2923,6 @@ feuing
 fleches
 feulamort
 feus
-feuter
 fever
 feverberry
 feverberries
@@ -7108,6 +7107,7 @@ foolfishes
 foolhardy
 foolhardier
 foolhardily
+feuter
 footful
 farmhands
 foolhardiness
