@@ -2665,7 +2665,6 @@ generalist
 generalistic
 generalists
 generaliter
-generality
 generalities
 generalization
 generalizations
@@ -5723,6 +5722,7 @@ globulet
 globulicide
 globuliferous
 glaive
+generality
 globuliform
 globulimeter
 globulin
