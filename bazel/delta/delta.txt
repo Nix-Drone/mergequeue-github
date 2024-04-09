@@ -6439,7 +6439,6 @@ descendable
 descendance
 descendant
 descendants
-descended
 descendence
 descendent
 descendental
@@ -15777,6 +15776,7 @@ dorsicornu
 dorsiduct
 dorsiferous
 dorsifixed
+descended
 dorsiflex
 dorsiflexion
 dorsigerous
