@@ -6425,7 +6425,6 @@ benzocaine
 benzocoumaran
 benzodiazine
 benzodiazole
-benzofluorene
 benzofulvene
 bollen
 benzofuran
@@ -12083,6 +12082,7 @@ boldness
 boldnesses
 boldo
 boldoine
+benzofluorene
 biophor
 boldos
 boldu
