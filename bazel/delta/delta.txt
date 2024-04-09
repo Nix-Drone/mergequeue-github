@@ -1546,6 +1546,7 @@ deadpanner
 deadpanning
 deadpans
 deadrise
+degeneralize
 deadrize
 deadtongue
 deadweight
@@ -3574,7 +3575,6 @@ degender
 degener
 degeneracies
 dillydallying
-degeneralize
 degenerate
 degenerated
 degenerately
