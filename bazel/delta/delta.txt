@@ -7480,7 +7480,6 @@ devalorize
 devaluate
 devaluated
 devaluates
-devaluating
 devaluation
 devaluations
 devalue
@@ -12750,6 +12749,7 @@ dryope
 disnatural
 disnature
 disnaturalization
+devaluating
 disnaturalize
 disnatured
 diphthongous
