@@ -2416,7 +2416,6 @@ acidifiers
 acidifies
 acidifying
 acidyl
-acidimetry
 acidimetric
 acidimetrically
 acidite
@@ -20005,6 +20004,7 @@ armoury
 armouries
 armouring
 armours
+acidimetry
 armozeen
 armozine
 armpad
