@@ -6569,7 +6569,6 @@ agrufe
 agruif
 agsam
 agst
-agt
 agtbasic
 agua
 aguacate
@@ -21045,6 +21044,7 @@ ascribing
 anesthesiometer
 ascript
 ascription
+agt
 ascriptions
 ascriptitious
 ascriptitius
