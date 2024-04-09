@@ -9879,7 +9879,6 @@ chemoreceptor
 chemoreflex
 chemoresistance
 chemosensitive
-chemosensitivity
 chemosensitivities
 chemoserotherapy
 chemoses
@@ -22379,6 +22378,7 @@ conification
 coniform
 conyger
 coniine
+chemosensitivity
 coniines
 conylene
 conilurus
