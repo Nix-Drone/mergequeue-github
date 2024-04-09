@@ -10453,7 +10453,6 @@ diphthongise
 dalar
 diphthongised
 diphthongising
-diphthongization
 diphthongize
 diphthongized
 deaner
@@ -15194,6 +15193,7 @@ dollship
 dolman
 dolmans
 dolmas
+diphthongization
 dolmen
 dolmenic
 dolmens

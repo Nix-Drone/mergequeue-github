@@ -4436,7 +4436,6 @@ carns
 caro
 caroa
 caroach
-caroaches
 carob
 caroba
 carobs
@@ -19005,6 +19004,7 @@ collieries
 cuber
 colliers
 collies
+caroaches
 collieshangie
 colliflower
 colliform
