@@ -3315,6 +3315,7 @@ couplets
 capstone
 capstones
 capsula
+coached
 capsulae
 capsular
 capsulate
@@ -28562,7 +28563,6 @@ creen
 creep
 creepage
 creepages
-coached
 creeper
 creepered
 creeperless
