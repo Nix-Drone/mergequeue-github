@@ -2910,7 +2910,6 @@ feudum
 feued
 feuillage
 feuillants
-feuille
 feuillemorte
 feuillet
 feuilleton
@@ -7000,6 +6999,7 @@ follying
 follily
 follyproof
 follis
+feuille
 follow
 followable
 followed
