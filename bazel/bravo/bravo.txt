@@ -8809,7 +8809,6 @@ binal
 byname
 bynames
 binaphthyl
-binapthyl
 binary
 binaries
 binarium
@@ -14977,6 +14976,7 @@ bacteriol
 babite
 breeks
 breekums
+binapthyl
 breenge
 breenger
 breeze
