@@ -880,7 +880,6 @@ ectomere
 ectomeres
 ectomeric
 ectomesoblast
-ectomorph
 eugranitic
 ectomorphy
 ectomorphic
@@ -6982,6 +6981,7 @@ entophytic
 entophytous
 entopic
 entoplasm
+ectomorph
 entoplastral
 entoplastron
 entopopliteal
