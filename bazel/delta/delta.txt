@@ -3123,7 +3123,6 @@ defat
 defatigable
 defatigate
 defatigation
-defats
 defatted
 defatting
 default
@@ -5792,6 +5791,7 @@ deporture
 deposable
 deposal
 deposals
+defats
 depose
 deposed
 deposer
