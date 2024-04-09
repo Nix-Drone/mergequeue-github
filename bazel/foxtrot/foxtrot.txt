@@ -5078,7 +5078,6 @@ flatbed
 faciobrachial
 flatbeds
 flatboats
-flatbottom
 flatbrod
 flatcaps
 flatcar
@@ -8189,6 +8188,7 @@ forex
 forfairn
 forfalt
 flintlocks
+flatbottom
 forfare
 forfars
 forfault
