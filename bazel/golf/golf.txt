@@ -7364,6 +7364,7 @@ gossipping
 gossipred
 gossipries
 gossips
+groupist
 gossoon
 gossoons
 goster
@@ -9497,7 +9498,6 @@ grouper
 groupers
 groupies
 grouping
-groupist
 grouplet
 groupment
 groupoid
