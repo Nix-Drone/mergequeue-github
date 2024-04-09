@@ -1659,7 +1659,6 @@ ballplayers
 ballplatz
 bedrabbled
 ballpoint
-ballpoints
 ballproof
 ballrooms
 balls
@@ -5113,6 +5112,7 @@ befleck
 beflecked
 beflecking
 busier
+ballpoints
 beflecks
 beflounce
 beflour
