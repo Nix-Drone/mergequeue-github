@@ -4613,7 +4613,6 @@ bratstva
 bedclothing
 bedcord
 byplays
-bedcover
 bedcovers
 beddable
 bedded
@@ -7209,6 +7208,7 @@ besteaded
 bullyboy
 besteads
 besteal
+bedcover
 bested
 besteer
 bestench
