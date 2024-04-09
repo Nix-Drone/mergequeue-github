@@ -1534,7 +1534,6 @@ egg
 eggars
 eggbeater
 eggbeaters
-eggberry
 eggcrate
 eggcup
 eggcups
@@ -2095,6 +2094,7 @@ euthyneural
 elapine
 elapoid
 elapse
+eggberry
 exteriorate
 extirpateo
 elapsed
