@@ -332,7 +332,6 @@ failings
 faille
 failles
 fails
-failsafe
 failsoft
 failure
 failures
@@ -6842,6 +6841,7 @@ foism
 foison
 foisonless
 foisons
+failsafe
 foist
 foxtongue
 foisted
