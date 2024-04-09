@@ -7366,7 +7366,6 @@ detrudes
 detruding
 detruncate
 deficit
-detruncating
 detruncation
 damneder
 demonologies
@@ -14250,6 +14249,7 @@ divekeeper
 divel
 divell
 divellent
+detruncating
 divellicate
 divelling
 diver
