@@ -3085,6 +3085,7 @@ ellipticalness
 ellipticity
 elliptograph
 elliptoid
+etiolates
 ellops
 ells
 ellwand
@@ -10582,7 +10583,6 @@ etymons
 etiogenic
 etiolate
 etiolated
-etiolates
 etiolating
 etiolation
 etiolize
