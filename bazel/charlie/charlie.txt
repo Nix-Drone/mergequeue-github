@@ -13640,7 +13640,6 @@ cymbalom
 cimbaloms
 cymbalon
 cymbals
-cymbate
 cymbel
 cymbella
 cimbia
@@ -21952,6 +21951,7 @@ configure
 configured
 configures
 configuring
+cymbate
 coxcombry
 confinable
 confine
