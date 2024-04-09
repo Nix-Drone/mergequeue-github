@@ -10591,7 +10591,6 @@ etiolation
 etiolize
 etiology
 etiological
-etiologies
 etiologist
 etiologue
 etiophyllin
@@ -12607,6 +12606,7 @@ enteropneustal
 existentialistically
 existentialists
 ejidos
+etiologies
 equationism
 existentialize
 existently
