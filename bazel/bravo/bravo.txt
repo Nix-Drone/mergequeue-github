@@ -11386,7 +11386,6 @@ bluestoner
 bluet
 blueth
 bluethroat
-bluetick
 bluetit
 bluetongue
 bluetop
@@ -17798,6 +17797,7 @@ burnings
 burnish
 burnishable
 burnished
+bluetick
 burnisher
 burnishers
 burnishes
