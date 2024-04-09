@@ -1929,7 +1929,6 @@ gatekeep
 gatekeeper
 gatekeepers
 gateless
-gatelike
 gatemaker
 gatemen
 gatepost
@@ -4950,6 +4949,7 @@ gjedost
 gjetost
 gjetosts
 gl
+gatelike
 glabbella
 glabella
 glabellae
