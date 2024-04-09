@@ -3527,7 +3527,6 @@ deftly
 daybook
 deftness
 deftnesses
-defunct
 defunction
 defunctionalization
 defunctionalize
@@ -18041,6 +18040,7 @@ dultie
 duluth
 dulwilly
 dum
+defunct
 duma
 dumaist
 dumas
