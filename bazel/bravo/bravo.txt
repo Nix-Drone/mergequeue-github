@@ -7546,7 +7546,6 @@ beveled
 beveler
 bevelers
 blastophore
-beveling
 bevelled
 beveller
 bevelling
@@ -17785,6 +17784,7 @@ burnettized
 burnettizing
 burnewin
 butcherliness
+beveling
 burnfire
 bretwalda
 burny
