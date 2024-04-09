@@ -3920,7 +3920,6 @@ finds
 failing
 font
 fine
-fineable
 fineableness
 finebent
 franchisal
@@ -5905,6 +5904,7 @@ fondish
 flong
 flood
 floodable
+fineable
 floodage
 floodboard
 floodcock
