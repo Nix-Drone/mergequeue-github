@@ -740,7 +740,6 @@ dance
 danceability
 danceable
 danced
-dancer
 danceress
 dancers
 dances
@@ -17434,6 +17433,7 @@ drou
 droud
 droughermen
 drought
+dancer
 droughtier
 droughtiest
 droughtiness
