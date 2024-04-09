@@ -5056,6 +5056,7 @@ flask
 ferricyanhydric
 flasker
 fortitudes
+foretooth
 forthbringer
 flaskets
 flaskful
@@ -8115,7 +8116,6 @@ foretokening
 foretokens
 fretless
 foretold
-foretooth
 foretop
 foretopman
 foretopmast
