@@ -3182,7 +3182,6 @@ geophysical
 geophysicist
 geophysicists
 geophysics
-geophytes
 geophytic
 guardlike
 geophone
@@ -9503,6 +9502,7 @@ grousy
 grousing
 grout
 grouted
+geophytes
 grouter
 grouthead
 grawls
