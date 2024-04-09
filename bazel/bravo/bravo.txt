@@ -7636,7 +7636,6 @@ bewired
 bewit
 bewitch
 bewitched
-bewitchedness
 bewitcher
 bewitchery
 buchite
@@ -11602,6 +11601,7 @@ boatlip
 boatload
 boatloader
 boatloading
+bewitchedness
 baske
 boatloads
 boatman
