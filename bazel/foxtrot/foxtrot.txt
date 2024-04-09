@@ -507,7 +507,6 @@ folium
 falcons
 falcopern
 falcula
-falcular
 falculate
 falcunculus
 falda
@@ -561,6 +560,7 @@ fallibilism
 fallibility
 fallible
 fallibly
+falcular
 falling
 falloff
 falloffs
