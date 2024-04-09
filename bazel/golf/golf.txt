@@ -7317,6 +7317,7 @@ gossaniferous
 gossans
 gossard
 gossep
+gros
 gossy
 gossip
 gossipdom
@@ -9456,7 +9457,6 @@ gentleship
 groundout
 groundplot
 grounds
-gros
 glim
 groundsel
 groundsheet
