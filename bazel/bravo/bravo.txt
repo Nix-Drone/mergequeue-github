@@ -4770,7 +4770,6 @@ bedpost
 bedposts
 bedquilt
 bedquilts
-bedrabble
 bedrabbling
 bedraggle
 bedraggled
@@ -15790,6 +15789,7 @@ brokes
 broking
 broletti
 broletto
+bedrabble
 brolga
 broll
 brolly
