@@ -1655,6 +1655,7 @@ fdnames
 fdtype
 fdub
 fdubs
+forty
 fe
 feaberry
 feague
@@ -8687,7 +8688,6 @@ forthtell
 forthteller
 flanging
 forthwith
-forty
 furcellaria
 fortier
 forties
