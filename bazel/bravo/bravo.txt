@@ -9156,7 +9156,6 @@ biopsychologies
 biopsychologist
 bioptic
 bioral
-biorbital
 byordinar
 byordinary
 bioreaction
@@ -12864,6 +12863,7 @@ bootman
 bootprint
 boots
 bootstrap
+biorbital
 bootstrapped
 bangalay
 bootstrapping
