@@ -9946,6 +9946,7 @@ guardless
 guardo
 guardrail
 guardrails
+gunship
 guardroom
 guards
 guardsman
@@ -10562,7 +10563,6 @@ guns
 gunsel
 gunsels
 gilly
-gunship
 gunships
 gunshop
 gunshot

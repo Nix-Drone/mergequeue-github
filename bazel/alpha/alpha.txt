@@ -4322,7 +4322,6 @@ adoretus
 adoring
 adoringly
 adorn
-adornation
 adorned
 adorner
 adorners
@@ -23531,6 +23530,7 @@ auresca
 aureus
 auribromide
 auric
+adornation
 aurichalcite
 aurichalcum
 aurichloride
