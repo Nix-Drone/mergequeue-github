@@ -1657,6 +1657,7 @@ fdnames
 fdtype
 fdub
 fdubs
+fibrinous
 fe
 feaberry
 feague
@@ -3087,7 +3088,6 @@ fibrinoplastin
 fibrinopurulent
 fibrinose
 fibrinosis
-fibrinous
 fibrins
 fibrinuria
 fibro
