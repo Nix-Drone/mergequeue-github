@@ -7616,7 +7616,6 @@ arthurian
 alcelaphus
 alces
 almug
-alcestis
 alchem
 alchemy
 alchemic
@@ -10967,6 +10966,7 @@ amorphousness
 amorphozoa
 amorphus
 amort
+alcestis
 amortisable
 amortise
 amortised
