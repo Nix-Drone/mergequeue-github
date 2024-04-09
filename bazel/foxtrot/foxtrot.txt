@@ -1654,7 +1654,6 @@ fconvert
 farcin
 fcp
 fcs
-fdname
 fdnames
 fdtype
 fdub
@@ -4879,6 +4878,7 @@ felup
 flamboyancy
 fatherhood
 flamboyantism
+fdname
 flamboyantize
 flamboyantly
 flamboyer
