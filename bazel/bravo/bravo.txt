@@ -4845,7 +4845,6 @@ bedstand
 bedstaves
 bedstead
 bedsteads
-bedstock
 beshrouded
 bedstraw
 bedstraws
@@ -8387,6 +8386,7 @@ biggity
 biggonet
 bigha
 bighead
+bedstock
 bigheaded
 bigheads
 bighearted
