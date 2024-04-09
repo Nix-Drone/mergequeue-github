@@ -9533,6 +9533,7 @@ checkrowing
 checkrows
 checks
 checkstrap
+chlorogenine
 checkstring
 checksum
 construct
@@ -11316,7 +11317,6 @@ chloroformization
 chloroformize
 chloroforms
 chlorogenic
-chlorogenine
 chloroguanide
 chlorohydrin
 chlorohydrocarbon
