@@ -474,7 +474,6 @@ daysmen
 dayspring
 daystar
 daystars
-daystreak
 daytale
 daitya
 daytide
@@ -6994,6 +6993,7 @@ destinies
 destining
 destinism
 destituent
+daystreak
 destitute
 destituted
 destitutely
