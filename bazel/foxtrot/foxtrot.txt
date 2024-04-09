@@ -1330,7 +1330,6 @@ fath
 fathead
 fatheaded
 fatheadedness
-fatheads
 fulvous
 fathearted
 flear
@@ -7001,6 +7000,7 @@ follily
 follyproof
 follis
 feuille
+fatheads
 follow
 followable
 followed
