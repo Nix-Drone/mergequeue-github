@@ -3388,7 +3388,6 @@ captives
 captiving
 captivity
 captivities
-captor
 captors
 captress
 capturable
@@ -31361,6 +31360,7 @@ curl
 compressing
 curled
 curledly
+captor
 curledness
 curler
 curlewberry
