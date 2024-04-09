@@ -10154,7 +10154,6 @@ blacklist
 blacklisted
 blacklister
 blacklisting
-blacklists
 blackmail
 blackmailed
 blackmailer
@@ -12479,6 +12478,7 @@ bonhomie
 bonhomies
 bonhomme
 bonhommie
+blacklists
 bonhomous
 boeotarch
 bonhomously

@@ -1954,7 +1954,6 @@ dauerlauf
 drysalter
 decadic
 decadist
-decadrachm
 decadrachma
 decadrachmae
 dimorphic
@@ -10255,6 +10254,7 @@ diomedes
 dibbuk
 dion
 dionaea
+decadrachm
 dionaeaceae
 dione
 dionym
