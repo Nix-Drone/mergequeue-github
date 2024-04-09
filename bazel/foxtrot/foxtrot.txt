@@ -5601,7 +5601,6 @@ flighthead
 flighty
 flightier
 flightiest
-flightily
 flightiness
 flightless
 forepassed
@@ -7178,6 +7177,7 @@ footers
 footfall
 ferruling
 footfalls
+flightily
 footfarer
 footfault
 footfeed
