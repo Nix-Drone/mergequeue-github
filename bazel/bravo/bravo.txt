@@ -13714,7 +13714,6 @@ bovista
 bovld
 bovoid
 bovovaccination
-bovovaccine
 bovver
 bow
 bowable
@@ -14900,6 +14899,7 @@ breath
 breathability
 breathable
 breathableness
+bovovaccine
 boaters
 breathalyse
 breathe
