@@ -2345,7 +2345,6 @@ candied
 countermands
 candier
 candies
-candify
 candyfloss
 candyh
 candying
@@ -15666,6 +15665,7 @@ claughts
 claus
 clausal
 clause
+candify
 clauses
 craniotympanic
 clausilia
