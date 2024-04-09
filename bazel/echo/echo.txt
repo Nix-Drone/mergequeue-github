@@ -5155,7 +5155,6 @@ endocrinologist
 endocrinologists
 endocrinopath
 embosser
-endocrinopathy
 endocrinopathic
 endocrinous
 endocritic
@@ -8990,6 +8989,7 @@ ergatoid
 ergatomorph
 ergatomorphic
 ergatomorphism
+endocrinopathy
 ergo
 ergodic
 ergodicity
