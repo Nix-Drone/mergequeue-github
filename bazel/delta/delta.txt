@@ -4523,7 +4523,6 @@ demidevil
 demidigested
 demidistance
 demiditone
-demidoctor
 demidog
 demidolmen
 demidome
@@ -14641,6 +14640,7 @@ dobras
 docklands
 dockmackie
 dockman
+demidoctor
 dockmaster
 docks
 dockside
