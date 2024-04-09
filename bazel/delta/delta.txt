@@ -5382,7 +5382,6 @@ disturbative
 denture
 dentures
 denuclearization
-denuclearize
 denuclearized
 denuclearizes
 denuclearizing
@@ -5643,6 +5642,7 @@ depickle
 depict
 depicted
 depicter
+denuclearize
 dulcifies
 depicters
 depicting
