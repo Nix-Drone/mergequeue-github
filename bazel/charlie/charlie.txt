@@ -5039,7 +5039,6 @@ cashbooks
 cashbox
 cashboxes
 cashcuttee
-cashdrawer
 casheen
 cashel
 casher
@@ -17566,6 +17565,7 @@ cochal
 cocher
 cochero
 cochief
+cashdrawer
 cochylis
 cochin
 cochineal
