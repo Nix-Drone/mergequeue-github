@@ -7505,7 +7505,6 @@ ephemeral
 ephemeralities
 ephemerally
 euscaro
-ephemeralness
 ephemeran
 ephemeras
 ephemeric
@@ -9596,6 +9595,7 @@ escoba
 escobadura
 escobedo
 escobilla
+ephemeralness
 escobita
 escocheon
 escolar
