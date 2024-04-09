@@ -9824,7 +9824,6 @@ bitingly
 brumal
 bitingness
 bitis
-bitless
 bitmap
 bitmapped
 bitnet
@@ -16398,7 +16397,6 @@ benames
 brusque
 brusquely
 brusqueness
-brusquer
 brusquerie
 brusquest
 brussel
@@ -17667,6 +17665,7 @@ burgles
 blay
 beefburger
 burgling
+bitless
 burgoyne
 burgomaster
 burgomasters
@@ -17912,6 +17911,7 @@ burstone
 burstones
 bursts
 burstwort
+brusquer
 botein
 burt
 burthen
