@@ -4821,7 +4821,6 @@ giros
 gyros
 gyroscope
 gyroscopes
-gyroscopic
 gyroscopics
 gyrose
 gyrosyn
@@ -10126,6 +10125,7 @@ guhayna
 guhr
 guy
 guiac
+gyroscopic
 guiana
 guyana
 guianan
