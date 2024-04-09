@@ -1441,7 +1441,6 @@ garnetter
 garnetwork
 garni
 garniec
-garnierite
 garnish
 garnishable
 garnished
@@ -5246,6 +5245,7 @@ glassily
 glassin
 glassine
 gymnolaema
+garnierite
 glassines
 glassiness
 glassing
