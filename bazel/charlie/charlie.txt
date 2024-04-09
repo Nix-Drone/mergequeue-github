@@ -8452,7 +8452,6 @@ chamiso
 caryopteris
 chamisos
 chamite
-chamkanni
 chamlet
 chamm
 chamma
@@ -14829,6 +14828,7 @@ cityscape
 cityscapes
 cytisine
 cytitis
+chamkanni
 cityward
 citywards
 citywide
