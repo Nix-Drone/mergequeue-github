@@ -5348,7 +5348,6 @@ catabasis
 catabatic
 catabibazon
 catabiotic
-catabolic
 catabolically
 catabolin
 catabolism
@@ -22062,6 +22061,7 @@ conformably
 conformal
 conformance
 complexed
+catabolic
 conformant
 conformate
 conformation
