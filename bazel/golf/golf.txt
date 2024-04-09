@@ -5927,7 +5927,6 @@ glossology
 glossologies
 glossologist
 glossoncus
-glossopalatine
 glossopalatinus
 glossopathy
 glossopetra
@@ -8569,6 +8568,7 @@ greatest
 geostatics
 greathead
 greathearted
+glossopalatine
 greatheartedly
 greatheartedness
 greatly
