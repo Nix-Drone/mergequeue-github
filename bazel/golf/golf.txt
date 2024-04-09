@@ -3618,7 +3618,6 @@ gesturing
 gesturist
 gesundheit
 geswarp
-get
 geta
 getable
 getae
@@ -8771,6 +8770,7 @@ gregarinae
 gregarinaria
 gunroom
 gregarine
+get
 gregarinida
 gregarinidal
 geum
