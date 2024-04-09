@@ -8001,7 +8001,6 @@ bibulosity
 billing
 bibulosities
 bibulous
-bibulously
 bibulousness
 bibulus
 bicalcarate
@@ -8814,6 +8813,7 @@ barycentre
 bimuscular
 bin
 binal
+bibulously
 byname
 bynames
 binaphthyl
