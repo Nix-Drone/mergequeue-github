@@ -1006,6 +1006,7 @@ edaphology
 enerve
 euphemism
 edaphon
+emblema
 edaphosauria
 edaphosaurid
 edaphosaurus
@@ -6966,7 +6967,6 @@ entomotaxy
 entomotomy
 entone
 epitrchelia
-emblema
 entonic
 entoparasite
 exoticity

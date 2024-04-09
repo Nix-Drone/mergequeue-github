@@ -1449,6 +1449,7 @@ dcolletage
 dcor
 ddname
 damnatory
+deallocating
 ddt
 dea
 deaccession
@@ -1604,7 +1605,6 @@ deallocate
 deallocated
 daunter
 deallocates
-deallocating
 deallocation
 deallocations
 deals
