@@ -3182,7 +3182,6 @@ actinopterygious
 actinopterous
 actinoscopy
 actinosome
-actinosphaerium
 actinost
 actinostereoscopy
 actinostomal
@@ -9964,6 +9963,7 @@ ambience
 ambiences
 ambiency
 ambiens
+actinosphaerium
 ambient
 ambients
 ambigenal
