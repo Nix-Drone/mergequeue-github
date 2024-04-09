@@ -7991,6 +7991,7 @@ chacona
 chaconne
 chaconnes
 chacra
+codirectional
 chacte
 chacun
 chad
@@ -17789,7 +17790,6 @@ codiniac
 codirect
 codirected
 codirecting
-codirectional
 codirector
 commonish
 codirects
