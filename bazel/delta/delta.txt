@@ -1453,7 +1453,6 @@ dcolletage
 dcor
 ddname
 ddt
-de
 dea
 deaccession
 deaccessioned
@@ -3183,6 +3182,7 @@ defeminisation
 defeminise
 defeminised
 defeminization
+de
 defeminize
 dismarshall
 defeminized
