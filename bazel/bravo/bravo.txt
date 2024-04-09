@@ -3448,7 +3448,6 @@ basten
 baster
 basters
 basti
-bastian
 bastide
 bastile
 bastiles
@@ -6393,6 +6392,7 @@ benzedrine
 benzein
 benzene
 benzeneazobenzene
+bastian
 benzenediazonium
 benzenes
 benzenyl
