@@ -1253,6 +1253,7 @@ eelcatcher
 eeler
 erythropoietic
 eelery
+evaluation
 eelfare
 eelfish
 expands
@@ -11333,7 +11334,6 @@ evaluate
 evaluated
 evaluates
 evaluating
-evaluation
 evaluations
 evaluative
 evaluator
