@@ -5333,7 +5333,6 @@ affiliable
 anthraces
 affiliate
 affiliated
-affiliates
 affiliating
 affiliation
 affiliations
@@ -16435,6 +16434,7 @@ antiwarlike
 antiwaste
 ameiurus
 antiwear
+affiliates
 antiwedge
 antiweed
 antiwhite
