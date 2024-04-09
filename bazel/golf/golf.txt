@@ -4814,7 +4814,6 @@ gyropigeon
 gyropilot
 gyroplane
 giros
-gyros
 gyroscope
 gyroscopes
 gyroscopic
@@ -7602,6 +7601,7 @@ gracilaria
 gracilariid
 gracilariidae
 grumblers
+gyros
 gracileness
 graciles
 gracilescent
