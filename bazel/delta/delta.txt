@@ -4696,7 +4696,6 @@ demitone
 demitrain
 demitranslucence
 demits
-demitted
 denticulately
 demitting
 demitube
@@ -12988,6 +12987,7 @@ dispersing
 dispersions
 dispersity
 dispersive
+demitted
 dispersively
 dispersiveness
 dispersoid

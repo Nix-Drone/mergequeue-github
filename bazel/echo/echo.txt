@@ -4607,7 +4607,6 @@ encephalorrhagia
 encephalos
 encephalosclerosis
 encephaloscope
-encephaloscopy
 encephalosepsis
 encephalospinal
 externize
@@ -13657,6 +13656,7 @@ exteroceptive
 exteroceptor
 exterous
 exterraneous
+encephaloscopy
 exterrestrial
 exterritorial
 erythrocytic
