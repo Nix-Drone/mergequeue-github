@@ -9269,7 +9269,6 @@ ernestine
 ernie
 ernst
 erodability
-erodable
 erode
 eroded
 erodent
@@ -12332,6 +12331,7 @@ executory
 effervescible
 excur
 eyeleteer
+erodable
 executorial
 executors
 executorship
