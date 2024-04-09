@@ -1473,6 +1473,7 @@ effusiometer
 espiegle
 effusion
 effusions
+endosmometer
 effusive
 effusively
 effusiveness
@@ -5332,7 +5333,6 @@ endoskeletal
 endoskeleton
 endoskeletons
 endosmic
-endosmometer
 endosmometric
 eyr
 endosmos
