@@ -5987,7 +5987,6 @@ glottalize
 gymnurinae
 glottalized
 glottalizing
-glottic
 glottid
 glottidean
 glottides
@@ -7878,6 +7877,7 @@ grampus
 gagor
 gaddish
 grampuses
+glottic
 grams
 grana
 granada
