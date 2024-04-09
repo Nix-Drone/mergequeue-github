@@ -3748,7 +3748,6 @@ ferroconcrete
 fillips
 fillister
 fillmass
-fungid
 fillmore
 flow
 fillock
@@ -5790,6 +5789,7 @@ flitters
 flitty
 flittiness
 flitting
+fungid
 flittingly
 flitwite
 flivver
