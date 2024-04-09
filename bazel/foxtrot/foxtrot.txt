@@ -165,6 +165,7 @@ factionate
 factioneer
 factionism
 faradopalpation
+float
 factionist
 factionistism
 factions
@@ -5814,7 +5815,6 @@ flneur
 flneuse
 flench
 fload
-float
 floatability
 forethoughtless
 floatage
