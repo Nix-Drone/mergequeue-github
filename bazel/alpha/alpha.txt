@@ -2542,6 +2542,7 @@ acknowing
 acknowledge
 acknowledgeable
 acknowledged
+afoam
 acknowledgedly
 acknowledgements
 acknowledger
@@ -5535,7 +5536,6 @@ aflower
 afluking
 aflush
 aflutter
-afoam
 afocal
 afoot
 afore
