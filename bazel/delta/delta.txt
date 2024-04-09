@@ -9228,7 +9228,6 @@ defilading
 diethylamide
 diethylamine
 diethylaminoethanol
-diethylenediamine
 diethylethanolamine
 diethylmalonylurea
 diethylstilboestrol
@@ -11705,6 +11704,7 @@ discrepant
 discrepantly
 discrepate
 discrepated
+diethylenediamine
 discrepating
 discrepation
 discrepencies
