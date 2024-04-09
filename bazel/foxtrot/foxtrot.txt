@@ -2383,7 +2383,6 @@ ferash
 ferbams
 ferberite
 ferd
-ferdwit
 fere
 feres
 feretory
@@ -11549,6 +11548,7 @@ fuselages
 fuseless
 fuselike
 fusels
+ferdwit
 fuseplug
 fuses
 fusetron
