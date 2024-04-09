@@ -3021,7 +3021,6 @@ geodes
 geodesy
 geodesia
 geodesical
-geodesics
 geodesies
 geodesist
 gentilhomme
@@ -8000,6 +7999,7 @@ grittle
 granes
 granet
 ghess
+geodesics
 grange
 granger
 grangerisation
