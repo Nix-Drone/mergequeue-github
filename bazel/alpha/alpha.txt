@@ -13504,6 +13504,7 @@ anne
 anneal
 annealed
 annealer
+antihalation
 annealers
 annealing
 anneals
@@ -15341,7 +15342,6 @@ antigropelos
 antigrowth
 antiguan
 antigun
-antihalation
 antiharmonist
 antihectic
 antihelices

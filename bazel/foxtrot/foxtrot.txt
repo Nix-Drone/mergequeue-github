@@ -5074,6 +5074,7 @@ flasker
 fortitudes
 forthbringer
 flaskets
+forechurch
 flaskful
 faecal
 flasklet
@@ -7573,7 +7574,6 @@ forechoice
 forechoir
 foregame
 forechoose
-forechurch
 forecited
 foreclaw
 foreclosable
