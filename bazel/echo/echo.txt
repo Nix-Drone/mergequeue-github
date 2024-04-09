@@ -2486,7 +2486,6 @@ electrolyzation
 electrolyze
 electrolyzed
 electrolyzer
-electrolyzing
 electrology
 electrological
 electrologist
@@ -8720,6 +8719,7 @@ ethrogs
 equiomnipotent
 equip
 equipaga
+electrolyzing
 equipage
 equipages
 equiparable
