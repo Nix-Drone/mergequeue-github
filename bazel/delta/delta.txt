@@ -16806,6 +16806,7 @@ drawlink
 drawloom
 drawls
 drawn
+duct
 drawnet
 drawnly
 drawnness
@@ -17792,7 +17793,6 @@ duckwife
 duckwing
 duco
 ducs
-duct
 ducted
 ductibility
 ductible
