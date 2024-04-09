@@ -4116,7 +4116,6 @@ firearm
 firearms
 fireback
 favourably
-fireball
 fireballs
 firebase
 flanky
@@ -11232,6 +11231,7 @@ fungus
 fungused
 funguses
 fungusy
+fireball
 funguslike
 funic
 funicle
