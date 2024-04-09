@@ -2662,7 +2662,6 @@ fertilizable
 ferroprussiate
 fertilization
 fertilizational
-fertilizations
 fertilize
 fertilized
 fertilizer
@@ -10359,6 +10358,7 @@ fronde
 frondent
 foredoing
 frondesce
+fertilizations
 frondesced
 fluoridising
 frondescent
