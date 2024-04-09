@@ -3356,7 +3356,6 @@ embanked
 embanking
 embankment
 embankments
-embanks
 embannered
 embaphium
 embar
@@ -12953,6 +12952,7 @@ expectance
 expectancy
 expectancies
 expectant
+embanks
 expectantly
 expectation
 expectations
