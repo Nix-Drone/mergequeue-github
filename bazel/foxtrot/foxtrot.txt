@@ -7242,7 +7242,6 @@ footpad
 footpads
 footpath
 footpaths
-footpick
 footplate
 footpound
 fogs
@@ -7269,6 +7268,7 @@ footslog
 footslogged
 footslogger
 footslogging
+footpick
 footsoldier
 footsoldiers
 footsore
