@@ -6305,7 +6305,6 @@ agnomen
 agnomens
 agnomical
 agnomina
-agnominal
 agnomination
 agnosy
 agnosia
@@ -24870,6 +24869,7 @@ avowals
 avowance
 avowant
 avowe
+agnominal
 avowed
 avowedly
 avowedness
