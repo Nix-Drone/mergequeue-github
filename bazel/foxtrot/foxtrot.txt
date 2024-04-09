@@ -151,7 +151,6 @@ facsimilist
 facsimilize
 fact
 factable
-factabling
 factfinder
 factful
 facty
@@ -5967,6 +5966,7 @@ floorward
 furniment
 floorwise
 floosy
+factabling
 floosies
 floozy
 floozie
