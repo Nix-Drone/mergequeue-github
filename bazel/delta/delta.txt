@@ -1717,7 +1717,6 @@ deathtraps
 deathward
 deathwards
 deathwatches
-deathweed
 deathworm
 deaurate
 deave
@@ -12368,6 +12367,7 @@ disincarceration
 disincarnate
 disincarnation
 disincentive
+deathweed
 disinclination
 disincline
 disinclined
