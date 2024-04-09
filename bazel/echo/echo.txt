@@ -756,6 +756,7 @@ ecossaise
 ecostate
 ecotype
 ecotypes
+enfurrow
 ecotypic
 ecotipically
 ecotypically
@@ -5664,7 +5665,6 @@ enfroward
 enfuddle
 enfume
 endangers
-enfurrow
 eng
 engage
 engaged
