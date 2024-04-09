@@ -2560,7 +2560,6 @@ decoders
 decodes
 decoding
 decodings
-decodon
 decohere
 decoherence
 decoherer
@@ -12924,6 +12923,7 @@ dispensated
 dispensating
 dispensation
 dispensational
+decodon
 dispensationalism
 dispensations
 dispensative

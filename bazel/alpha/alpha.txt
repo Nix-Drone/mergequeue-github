@@ -4555,7 +4555,6 @@ advantaging
 advect
 advected
 advecting
-advection
 agamobia
 advectitious
 advective
@@ -9732,6 +9731,7 @@ amakebe
 amakosa
 amal
 amala
+advection
 amalaita
 aparai
 amalaka
