@@ -1343,7 +1343,6 @@ balatong
 balatron
 balatronic
 balatte
-balau
 balausta
 balaustine
 balaustre
@@ -7017,6 +7016,7 @@ beslimer
 beslimes
 besliming
 beslings
+balau
 beslipper
 beslobber
 beslow
