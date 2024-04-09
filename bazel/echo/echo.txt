@@ -5818,6 +5818,7 @@ engr
 ebonizing
 engrace
 engraced
+experienceable
 engraffed
 engraft
 engrafted
@@ -13053,7 +13054,6 @@ expensiveness
 expergefacient
 expergefaction
 experience
-experienceable
 experienced
 experienceless
 experiencer
