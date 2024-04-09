@@ -6710,7 +6710,6 @@ enteropathy
 enteropathogenic
 enteropexy
 enteropexia
-enteroplasty
 enteroplegia
 enteropneust
 estampedero
@@ -9339,6 +9338,7 @@ erotogenic
 erotogenicity
 erotographomania
 etymol
+enteroplasty
 erotomaniac
 erotomaniacal
 erotopath
