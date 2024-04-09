@@ -23949,7 +23949,6 @@ autocollimators
 autocolony
 apprehensibly
 autocombustible
-autocombustion
 autoconduction
 autoconvection
 autoconverter
@@ -24540,6 +24539,7 @@ auxotrophy
 auxotrophic
 ava
 avadana
+autocombustion
 avadavat
 avadhuta
 avahi
