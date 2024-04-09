@@ -14208,7 +14208,6 @@ antenumber
 antenuptial
 amphibious
 anteoccupation
-alarming
 anteocular
 anteopercle
 anteoperculum
@@ -14518,6 +14517,7 @@ anthraquinone
 anthraquinonyl
 anthrarufin
 anthrasilicosis
+alarming
 agalinis
 anthratetrol
 anthrathiophene
