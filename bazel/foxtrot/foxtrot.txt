@@ -5957,6 +5957,7 @@ floorthrough
 floorway
 floorwalker
 floorwalkers
+fluidrachm
 floorward
 furniment
 floorwise
@@ -6329,7 +6330,6 @@ fluidly
 fluidmeter
 fluidness
 fluidounce
-fluidrachm
 fluidram
 fluidrams
 fluids
