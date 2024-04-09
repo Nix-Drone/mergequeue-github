@@ -5945,7 +5945,6 @@ beltmen
 belton
 belts
 beltway
-beltways
 beltwise
 beluchi
 belucki
@@ -6725,6 +6724,7 @@ beride
 berigora
 beryl
 berylate
+beltways
 burghmote
 beryline
 beryllate
