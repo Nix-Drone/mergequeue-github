@@ -15079,7 +15079,6 @@ anticreep
 anticreeper
 anticreeping
 anticrepuscular
-anticrepuscule
 anticryptic
 anticryptically
 anticrisis
@@ -22567,6 +22566,7 @@ atheromatosis
 atheromatous
 atheroscleroses
 atherosclerosis
+anticrepuscule
 atherosclerotic
 atherosclerotically
 atherosperma
