@@ -3571,7 +3571,6 @@ bathygraphic
 belatticed
 bathyhyperesthesia
 bathyhypesthesia
-bathyl
 bathylimnetic
 bathylite
 bathylithic
@@ -9813,6 +9812,7 @@ bites
 bytes
 bitewing
 bitewings
+bathyl
 blastiest
 bitheism
 bunton
