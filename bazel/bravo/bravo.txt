@@ -2668,6 +2668,7 @@ barked
 barkeeper
 barkeepers
 barkeeps
+bunglesome
 barkey
 barken
 beknights
@@ -15101,7 +15102,6 @@ brewer
 brewery
 breweries
 brewers
-bunglesome
 brewership
 brewhouse
 brewhouses
