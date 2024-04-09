@@ -3501,7 +3501,6 @@ figmental
 figo
 figpecker
 figs
-figshell
 fury
 figulate
 figulated
@@ -6428,6 +6427,7 @@ fluocarbonate
 fluocerine
 fluocerite
 fluochloride
+figshell
 ferous
 fluohydric
 fluophosphate
