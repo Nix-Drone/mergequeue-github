@@ -60,7 +60,6 @@ facebow
 facebread
 facecloth
 faced
-facedown
 faceharden
 faceless
 flecken
@@ -8507,6 +8506,7 @@ foggy
 formularies
 formularisation
 formularise
+facedown
 febricide
 formularised
 formulariser
