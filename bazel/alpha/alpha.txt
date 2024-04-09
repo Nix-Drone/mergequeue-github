@@ -1020,7 +1020,6 @@ afterhold
 absorbefacient
 absorbency
 absorbencies
-absorbent
 absorbents
 absorber
 absorbers
@@ -1456,6 +1455,7 @@ acceptably
 acceptance
 acceptances
 acceptancy
+absorbent
 acceptancies
 acceptant
 antidemocratic
