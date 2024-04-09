@@ -4774,7 +4774,6 @@ enclose
 etymologize
 experimentalists
 enclosed
-encloser
 enclosers
 encloses
 enclosing
@@ -13228,6 +13227,7 @@ exploiting
 exploitive
 exploits
 exploiture
+encloser
 emporia
 explorable
 explorational
