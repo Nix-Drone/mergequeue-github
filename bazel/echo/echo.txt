@@ -1703,7 +1703,6 @@ eident
 eydent
 eidently
 eider
-existential
 eiderdown
 ectomorphism
 eiders
@@ -7034,6 +7033,7 @@ entrains
 entrammel
 entranced
 entrancedly
+existential
 entrancement
 entrancements
 entrancer
