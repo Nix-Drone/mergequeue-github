@@ -1849,7 +1849,6 @@ eigenvectors
 eyght
 eightball
 eightballs
-eighteen
 eighteenfold
 eighteenmo
 eighteenmos
@@ -13212,6 +13211,7 @@ exploded
 explodent
 exploder
 exploders
+eighteen
 explodes
 exploit
 exploitable
