@@ -1620,7 +1620,6 @@ ballone
 ballones
 ballonet
 ballonets
-ballonette
 ballonne
 ballonnes
 balloon
@@ -11594,6 +11593,7 @@ boathook
 boathouse
 boathouses
 boatyard
+ballonette
 boatyards
 boatie
 backbends
