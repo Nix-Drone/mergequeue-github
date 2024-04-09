@@ -813,7 +813,6 @@ fanjets
 fanleaf
 fanlight
 fanlights
-fanlike
 fanmaking
 fanman
 fila
@@ -11495,6 +11494,7 @@ furstone
 furtherance
 furthered
 furtherer
+fanlike
 furtherest
 furthering
 furtherly
