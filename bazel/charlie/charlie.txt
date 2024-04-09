@@ -7592,7 +7592,6 @@ cerebrum
 chaumontel
 cerecloth
 cellarway
-cerecloths
 cered
 cereless
 cerement
@@ -16005,6 +16004,7 @@ clerkish
 clerkless
 clerkly
 clerklier
+cerecloths
 clerkliest
 clerklike
 clerkliness
