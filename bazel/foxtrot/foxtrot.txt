@@ -3594,6 +3594,7 @@ filefishes
 filelike
 fogie
 filemaker
+fluidize
 filemark
 filemarks
 filemot
@@ -6329,7 +6330,6 @@ fluidist
 fluidity
 fluidities
 fluidization
-fluidize
 fluidized
 followup
 fluidizer
