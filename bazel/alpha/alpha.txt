@@ -2733,7 +2733,6 @@ acquires
 acquiring
 acquisible
 acquisita
-acousmas
 acquisite
 acquisited
 acquisition
@@ -8621,6 +8620,7 @@ alleys
 alleyway
 alleyways
 allele
+acousmas
 alleles
 alleleu
 allelic
