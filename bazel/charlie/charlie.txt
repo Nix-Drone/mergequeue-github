@@ -7251,7 +7251,6 @@ cephalanthus
 cephalaspis
 cephalata
 cephalate
-cephaldemae
 cephalemia
 cephaletron
 cephaleuros
@@ -17344,6 +17343,7 @@ cobalt
 cobaltamine
 cobaltammine
 cobaltic
+cephaldemae
 cobalticyanic
 cobalticyanides
 cobaltiferous
