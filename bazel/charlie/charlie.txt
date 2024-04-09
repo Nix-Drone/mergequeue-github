@@ -2925,7 +2925,6 @@ capability
 capabilities
 capable
 capableness
-capabler
 capablest
 capably
 capacify
@@ -30575,6 +30574,7 @@ cucule
 cuculidae
 cuculiform
 cuculiformes
+capabler
 cuculine
 cuculla
 cucullaris
