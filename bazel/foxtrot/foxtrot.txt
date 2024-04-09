@@ -2166,7 +2166,6 @@ felonwort
 fels
 felsic
 felsite
-fumistery
 felsites
 felsitic
 felsobanyite
@@ -8644,6 +8643,7 @@ fellatory
 forst
 fillebeg
 forstall
+fumistery
 forstand
 forsteal
 feverishly
