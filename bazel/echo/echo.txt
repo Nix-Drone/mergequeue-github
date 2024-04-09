@@ -3597,7 +3597,6 @@ emboweling
 embowelled
 empyrosis
 emboweller
-embowelling
 embowelment
 embowels
 embower
@@ -11793,6 +11792,7 @@ exalters
 exalting
 exaltment
 exalts
+embowelling
 exam
 examen
 evacuate
