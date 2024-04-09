@@ -2332,7 +2332,6 @@ achromatically
 achromaticity
 achromatin
 achromatisation
-achromatise
 achromatising
 achromatism
 achromatizable
@@ -24684,6 +24683,7 @@ aversions
 aversive
 avert
 adults
+achromatise
 avertable
 averted
 avertedly
