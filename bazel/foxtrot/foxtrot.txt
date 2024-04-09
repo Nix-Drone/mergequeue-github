@@ -2626,7 +2626,6 @@ ferrotyped
 ferrotyper
 fraxinella
 forte
-ferrotypes
 ferrotyping
 forewarned
 ferrotitanium
@@ -5895,6 +5894,7 @@ floes
 flog
 floggable
 flogged
+ferrotypes
 flogger
 floggers
 flogging
