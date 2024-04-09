@@ -5151,6 +5151,7 @@ denim
 denims
 denis
 denitrate
+depopulating
 denitrated
 denitrating
 denitration
@@ -5760,7 +5761,6 @@ depopularize
 depopulate
 depopulated
 depopulates
-depopulating
 depopulation
 deliberator
 depopulations
