@@ -763,7 +763,6 @@ abovesaid
 abovestairs
 abow
 abox
-abracadabra
 abrachia
 abrachias
 abradable
@@ -3557,6 +3556,7 @@ addlins
 addn
 addnl
 addoom
+abracadabra
 addorsed
 addossed
 addr
