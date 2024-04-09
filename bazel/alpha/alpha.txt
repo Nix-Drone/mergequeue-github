@@ -7306,7 +7306,6 @@ alary
 alaria
 alaric
 alarm
-alarmable
 alarmclock
 alarmed
 alarmedly
@@ -25387,6 +25386,7 @@ azulite
 azulmic
 azumbre
 azure
+alarmable
 azurean
 azured
 azureness
