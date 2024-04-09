@@ -2299,6 +2299,7 @@ energumen
 electrifiable
 electrification
 electrified
+equicurve
 electrifier
 esthetophore
 electrifiers
@@ -8645,7 +8646,6 @@ equicontinuous
 equiconvex
 equicostate
 equicrural
-equicurve
 equid
 equidiagonal
 equidifferent
