@@ -601,7 +601,6 @@ abnegated
 abnegates
 abnegating
 abnegation
-abnegations
 abnegative
 abnegator
 abnegators
@@ -25334,6 +25333,7 @@ azotemia
 azotemias
 azotemic
 azotenesis
+abnegations
 azotes
 azotetrazole
 azoth
