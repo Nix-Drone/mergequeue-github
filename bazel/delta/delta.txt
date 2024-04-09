@@ -9846,7 +9846,6 @@ dimethylbenzene
 dimethylcarbinol
 dimethyldiketone
 dimethylhydrazine
-dimethylketol
 dimethylketone
 dimethylmethane
 dimethylnitrosamine
@@ -14378,6 +14377,7 @@ divinized
 divinizes
 divinizing
 divisa
+dimethylketol
 divise
 divisi
 divisibility
