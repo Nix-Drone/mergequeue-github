@@ -5216,6 +5216,7 @@ begash
 begass
 begat
 begats
+bestrows
 begattal
 begaud
 baronizing
@@ -7282,7 +7283,6 @@ bestrow
 bestrowed
 bestrowing
 bestrown
-bestrows
 bestrut
 bests
 bestseller
