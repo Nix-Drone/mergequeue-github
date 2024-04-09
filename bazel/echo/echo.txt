@@ -3935,7 +3935,6 @@ emigrant
 eavesdrip
 emigrants
 emigrate
-emigrates
 emigrating
 emigration
 emigrational
@@ -6881,6 +6880,7 @@ everett
 entocyst
 enows
 entocnemial
+emigrates
 entocoel
 entocoele
 entocoelic
