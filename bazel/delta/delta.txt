@@ -6592,7 +6592,6 @@ downrange
 desiccated
 desiccating
 desiccations
-desiccative
 desiccator
 desiccatory
 desiccators
@@ -7195,6 +7194,7 @@ determent
 determents
 determinable
 determinableness
+desiccative
 determinably
 determinacy
 determinant
