@@ -2274,7 +2274,6 @@ fenceplay
 fencepost
 fencer
 fenceress
-farweltered
 fencers
 firebricks
 fences
@@ -6861,6 +6860,7 @@ foldboating
 foldboats
 foldcourse
 familic
+farweltered
 folded
 fado
 foldedly
