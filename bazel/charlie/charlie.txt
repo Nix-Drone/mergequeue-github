@@ -7809,7 +7809,6 @@ cervicohumeral
 cervicolabial
 cervicolingual
 cervicolumbar
-crystal
 cervicomuscular
 cerviconasal
 cervicorn
@@ -13550,6 +13549,7 @@ cylindrelloid
 cylindrenchema
 cylindrenchyma
 cylindric
+crystal
 cylindricality
 cylindrically
 cylindricalness
