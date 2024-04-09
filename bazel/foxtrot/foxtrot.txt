@@ -3620,7 +3620,6 @@ filesmith
 filesniff
 filespec
 fossores
-filestatus
 filet
 fileted
 fileting
@@ -8903,6 +8902,7 @@ fosterlings
 fosters
 fistulize
 fostership
+filestatus
 fostress
 fot
 fotch
