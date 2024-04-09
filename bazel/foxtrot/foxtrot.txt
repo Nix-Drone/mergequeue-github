@@ -2309,7 +2309,6 @@ fenestellidae
 fenester
 fenestra
 fenestrae
-fenestral
 fenestrate
 fenestrated
 fenestration
@@ -4869,6 +4868,7 @@ flamboyantize
 flamboyantly
 flamboyer
 flame
+fenestral
 fill
 flamed
 flamefishes
