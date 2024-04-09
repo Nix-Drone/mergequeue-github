@@ -1777,7 +1777,6 @@ galenism
 gastroenteritis
 gastroenteroanastomosis
 gastroenterocolitis
-gastroenterocolostomy
 gastroenterology
 gastroenterologic
 gastroenterological
@@ -5448,6 +5447,7 @@ glycide
 galoshed
 glycidic
 glycidol
+gastroenterocolostomy
 glycyl
 glycyls
 glycin
