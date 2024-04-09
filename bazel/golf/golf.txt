@@ -4308,7 +4308,6 @@ gymnospermous
 gymnosperms
 gymnosporangium
 gymnospore
-gymnosporous
 gymnostomata
 gymnostomous
 gymnothorax
@@ -5957,6 +5956,7 @@ glossophaga
 glossopharyngeus
 glossophobia
 grecizes
+gymnosporous
 glossophora
 glossophorous
 grinder

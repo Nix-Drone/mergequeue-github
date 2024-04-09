@@ -3822,7 +3822,6 @@ adherents
 adherer
 adherers
 adheres
-adherescence
 adherescent
 adhering
 adhesion
@@ -24531,6 +24530,7 @@ auxographic
 auxohormone
 auxology
 auxometer
+adherescence
 auxospore
 auxosubstance
 auxotonic
