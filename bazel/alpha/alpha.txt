@@ -4371,7 +4371,6 @@ adreamt
 adrectal
 adenalgia
 adrenal
-adrenalcortical
 adrenalectomy
 adrenalectomies
 adrenalectomize
@@ -15844,6 +15843,7 @@ antiperistatical
 antipersonnel
 antiperspirant
 antiperspirants
+adrenalcortical
 antiperthite
 antipestilence
 antipestilent
