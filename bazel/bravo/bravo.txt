@@ -13144,6 +13144,7 @@ boshas
 boshbok
 boshboks
 beamlike
+baghouse
 boshes
 boshvark
 boshvarks
@@ -15959,7 +15960,6 @@ bronchodilator
 bronchoegophony
 bronchoesophagoscopy
 bronchogenic
-baghouse
 benamed
 bronchography
 bronchographic
