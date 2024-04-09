@@ -1904,7 +1904,6 @@ bandgap
 bandh
 bandhava
 bandhook
-borer
 bandhor
 bandhu
 bandi
@@ -9149,6 +9148,7 @@ baptistery
 bioplastic
 biopoiesis
 biopotential
+borer
 bioprecipitation
 biopsy
 biopsic
