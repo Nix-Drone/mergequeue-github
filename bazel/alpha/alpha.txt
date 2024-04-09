@@ -3145,7 +3145,6 @@ actinoids
 actinolite
 actinolitic
 actinology
-actinologous
 actinomere
 actinomeric
 actinometers
@@ -23007,6 +23006,7 @@ attendees
 attender
 attenders
 attending
+actinologous
 artaba
 attendingly
 attendment
