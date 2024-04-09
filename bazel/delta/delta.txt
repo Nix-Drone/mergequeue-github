@@ -2594,7 +2594,6 @@ decolored
 decolorimeter
 decoloring
 decolorisation
-decolorise
 decolorised
 decoloriser
 decolorising
@@ -17532,6 +17531,7 @@ druidess
 druidesses
 druidic
 druidical
+decolorise
 despots
 druidisms
 druidology
