@@ -3435,7 +3435,6 @@ germigenous
 germin
 germina
 galantine
-germinable
 garthman
 gauds
 germinal
@@ -9689,6 +9688,7 @@ goldsmithing
 gruys
 grum
 grumble
+germinable
 grumbled
 grumbler
 grumbles
