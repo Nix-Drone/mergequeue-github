@@ -1955,7 +1955,6 @@ gathered
 gatherer
 gatherers
 gatherings
-gathers
 gatherum
 gathic
 gating
@@ -10542,6 +10541,7 @@ gerusia
 gunplays
 gunpoint
 gunpoints
+gathers
 gunpowder
 gunpowdery
 gyrally
