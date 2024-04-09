@@ -1192,6 +1192,7 @@ datafile
 dataflow
 datagram
 datagrams
+deescalating
 datakit
 datamation
 datana
@@ -3061,7 +3062,6 @@ deescalate
 deescalated
 diphtheriaphor
 deescalates
-deescalating
 deescalation
 deescalations
 deeses
