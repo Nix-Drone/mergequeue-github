@@ -11789,7 +11789,6 @@ examen
 evacuate
 examens
 exameter
-examinability
 examinable
 examinant
 examinate
@@ -12854,6 +12853,7 @@ exostosis
 exostotic
 exostra
 exostracism
+examinability
 exostracize
 exostrae
 exotery
