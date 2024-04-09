@@ -1578,6 +1578,7 @@ deafnesses
 deair
 deaired
 deairing
+dependents
 deairs
 dealable
 dealate
@@ -5603,7 +5604,6 @@ dependence
 dependency
 dependencies
 dependently
-dependents
 depender
 depending
 dependingly
