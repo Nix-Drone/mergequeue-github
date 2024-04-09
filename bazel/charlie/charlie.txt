@@ -20889,7 +20889,6 @@ compressibilities
 compressible
 compressibleness
 compressibly
-compressing
 compression
 compressional
 compressions
@@ -31359,6 +31358,7 @@ curium
 curiums
 cholecystoileostomy
 curl
+compressing
 curled
 curledly
 curledness
