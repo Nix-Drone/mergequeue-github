@@ -6820,7 +6820,6 @@ desoxycinchonine
 desoxycorticosterone
 desoxyephedrine
 desoxymorphine
-desoxyribonuclease
 desoxyribonucleic
 desoxyribonucleoprotein
 desoxyribose
@@ -16595,6 +16594,7 @@ dragons
 dragontail
 dragonwort
 dragoon
+desoxyribonuclease
 dragoonable
 dragoonade
 dragoonage
