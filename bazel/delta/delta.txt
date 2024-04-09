@@ -6004,7 +6004,6 @@ dequeen
 dequeue
 dequeued
 dequeues
-dequeuing
 dropshots
 der
 derabbinize
@@ -16213,6 +16212,7 @@ depurant
 downbeard
 downbeat
 downbeats
+dequeuing
 downbend
 downbent
 downby
