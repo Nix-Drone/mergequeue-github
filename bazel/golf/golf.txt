@@ -8241,7 +8241,6 @@ graptolithida
 graptolithina
 graptolitoidea
 graptoloidea
-graptomancy
 grasni
 grasp
 graspable
@@ -10137,6 +10136,7 @@ guichet
 guidable
 guidance
 guide
+graptomancy
 guideboard
 guidebooky
 guidebookish
