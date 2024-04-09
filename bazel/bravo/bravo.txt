@@ -2054,6 +2054,7 @@ banishers
 banishing
 banishment
 banister
+begladding
 banisterine
 banisters
 bursting
@@ -5274,7 +5275,6 @@ begirdling
 begirds
 begirt
 beglad
-begladding
 beglads
 beglamour
 beglare
