@@ -3139,7 +3139,6 @@ basemen
 basement
 basementless
 basements
-basementward
 bloodshot
 basename
 behove
@@ -5571,6 +5570,7 @@ beknown
 bel
 bela
 belabor
+basementward
 belabored
 bruscus
 belaboring
