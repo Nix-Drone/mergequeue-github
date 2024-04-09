@@ -2839,7 +2839,6 @@ baronries
 barons
 briggs
 baronship
-byrls
 barophobia
 baroque
 baroquely
@@ -12249,6 +12248,7 @@ bombace
 bombay
 bombard
 bombarde
+byrls
 bombarded
 bombardelle
 baetylic
