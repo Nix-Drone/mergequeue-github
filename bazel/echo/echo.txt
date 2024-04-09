@@ -4489,7 +4489,6 @@ eurythermic
 electrobioscopy
 encaged
 encages
-encaging
 encake
 encalendar
 encallow
@@ -6770,6 +6769,7 @@ entertainments
 entertains
 epilogs
 entertake
+encaging
 entertissue
 entete
 entfaoilff
