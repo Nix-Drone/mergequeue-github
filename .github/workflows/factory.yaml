@@ -8,8 +8,14 @@ on:
 jobs:
   create-pr:
     # needs: merge-pr
-    runs-on: [ubicloud]
+    runs-on: [ubuntu-latest]
     steps:
+      - name: Install GitHub CLI
+      run: |
+        sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-key C99B11DEB97541F0
+        sudo apt-add-repository https://cli.github.com/packages
+        sudo apt update
+        sudo apt install gh
       - name: Checkout code
         uses: actions/checkout@v4
         with:
@@ -20,16 +26,16 @@ jobs:
         run: |
           case $(( RANDOM % 3 )) in
           0)
-            echo "secret_name=ELI_PAT" >> $GITHUB_OUTPUT
-            echo "Impersonating Eli"
+            echo "secret_name=Paul_PAT" >> $GITHUB_OUTPUT
+            echo "Impersonating Paul"
             ;;
           1)
-            echo "secret_name=ELI_PAT" >> $GITHUB_OUTPUT
-            echo "Impersonating Eli"
+            echo "secret_name=PAUL_PAT" >> $GITHUB_OUTPUT
+            echo "Impersonating Paul"
             ;;
           2)
-            echo "secret_name=ELI_PAT" >> $GITHUB_OUTPUT
-            echo "Impersonating Eli"
+            echo "secret_name=Paul_PAT" >> $GITHUB_OUTPUT
+            echo "Impersonating Paul"
             ;;            
           esac
 

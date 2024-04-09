@@ -5,7 +5,7 @@ on:
 jobs:
   housekeeping:
     name: Cleanup old branches
-    runs-on: ubicloud
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
