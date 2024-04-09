@@ -1462,7 +1462,6 @@ deacetylate
 deacetylated
 deacetylating
 deacetylation
-deacidify
 deacidification
 deacidified
 deacidifying
@@ -17007,6 +17006,7 @@ dressmakery
 dressmakers
 dressmakership
 dressmaking
+deacidify
 dressoir
 dressoirs
 drest
