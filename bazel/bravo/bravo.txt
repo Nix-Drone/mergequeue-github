@@ -4534,6 +4534,7 @@ becrowded
 becrowding
 becrowds
 becrown
+bearhide
 becrush
 becrust
 becrusted
@@ -12680,7 +12681,6 @@ bookkeep
 bookkeeper
 bookkeepers
 bookkeeps
-bearhide
 bookland
 booklear
 booklet
