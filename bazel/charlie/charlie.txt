@@ -27463,7 +27463,6 @@ covarecas
 covary
 covariable
 covariables
-covariance
 covariant
 covariate
 covariates
@@ -31390,6 +31389,7 @@ curling
 curlingly
 curlings
 curlpaper
+covariance
 curls
 curmudgeon
 curmudgeonery
