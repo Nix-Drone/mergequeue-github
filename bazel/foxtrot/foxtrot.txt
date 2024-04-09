@@ -6135,6 +6135,7 @@ favorability
 flotas
 flotative
 flote
+fragor
 floter
 flotilla
 flotillas
@@ -9272,7 +9273,6 @@ fragmentizer
 fragmentizing
 fragments
 furled
-fragor
 fragrance
 fragrances
 fermentations
