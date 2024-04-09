@@ -3175,7 +3175,6 @@ eltrot
 eluant
 enterophthisis
 eluants
-eluate
 eluated
 eluating
 elucid
@@ -12258,6 +12257,7 @@ excursuses
 excurvated
 excurvation
 excurvature
+eluate
 excurved
 elasmobranchian
 excusability
