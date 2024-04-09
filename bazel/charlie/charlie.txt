@@ -15350,7 +15350,6 @@ clamper
 clampers
 clamping
 clamps
-clams
 clamshell
 clamshells
 clamworm
@@ -31879,6 +31878,7 @@ cuttle
 cuttlebone
 cuttlebones
 cuttled
+clams
 cuttlefish
 cuttlefishes
 cuttler
