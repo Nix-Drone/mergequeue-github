@@ -4163,7 +4163,6 @@ deliquate
 deliquesce
 deliquesced
 deliquescence
-deliquescent
 deliquesces
 deliquescing
 deliquiate
@@ -16794,6 +16793,7 @@ drawknife
 drawknives
 drawknot
 drawl
+deliquescent
 drawlatch
 drawled
 drawler
