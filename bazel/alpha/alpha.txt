@@ -490,7 +490,6 @@ abyssobenthonic
 abyssolith
 abyssopelagic
 abyssus
-abiston
 abit
 abitibi
 abiuret
@@ -4437,6 +4436,7 @@ adsorbents
 adsorbing
 adsorbs
 adsorption
+abiston
 adsorptive
 adsorptively
 adsorptiveness
