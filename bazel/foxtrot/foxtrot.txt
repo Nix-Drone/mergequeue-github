@@ -3114,7 +3114,6 @@ fibrocystic
 fibrocystoma
 fibrocyte
 fibrocytic
-fibrocrystalline
 fibroelastic
 fibroenchondroma
 fibroferrite
@@ -10630,6 +10629,7 @@ fructure
 familiarities
 fructus
 frug
+fibrocrystalline
 frugal
 frugalism
 frugalist
