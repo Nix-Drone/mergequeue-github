@@ -7096,7 +7096,6 @@ food
 fooder
 foodful
 foody
-foodless
 foodlessness
 foods
 foodservices
@@ -9884,6 +9883,7 @@ fontally
 fretfully
 fallibleness
 fretfulness
+foodless
 fretish
 folkmot
 frets
