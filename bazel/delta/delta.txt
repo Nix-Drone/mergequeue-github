@@ -5204,7 +5204,6 @@ denormalized
 denotable
 denotate
 denotation
-denotational
 denotationally
 denotative
 denotatively
@@ -17458,6 +17457,7 @@ drowner
 drowners
 drowning
 drownings
+denotational
 drownproofing
 drowns
 drowse
