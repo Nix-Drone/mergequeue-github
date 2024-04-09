@@ -4404,7 +4404,6 @@ grapy
 gynecolatry
 gynecology
 gynecologic
-gynecological
 gynecologies
 gynecologist
 gremmie
@@ -9687,6 +9686,7 @@ grumble
 grumbled
 grumbler
 grumbles
+gynecological
 grumblesome
 grumbletonian
 grumbling
