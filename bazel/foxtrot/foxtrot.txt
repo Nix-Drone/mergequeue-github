@@ -1356,7 +1356,6 @@ fathers
 fathership
 fathmur
 forswore
-fathom
 fathomable
 fathomableness
 fathomage
@@ -4992,6 +4991,7 @@ flapcake
 freeloader
 flapdock
 flapdoodle
+fathom
 furcately
 flapdragon
 flaperon
