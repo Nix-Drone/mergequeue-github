@@ -6107,7 +6107,6 @@ aggregateness
 aggregates
 aggregating
 aggregation
-aggregational
 aggregations
 aggregative
 aggregatively
@@ -14928,6 +14927,7 @@ anticipation
 anticipations
 anticipative
 anticipatively
+aggregational
 anticipator
 anticipatorily
 anticipators
