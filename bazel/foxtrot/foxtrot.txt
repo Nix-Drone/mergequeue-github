@@ -6187,7 +6187,6 @@ flowage
 flowages
 flowchart
 flowcharted
-flowcharting
 fulicinae
 flowcharts
 flowcontrol
@@ -10801,6 +10800,7 @@ fuchsines
 fuchsinophil
 fuchsinophilous
 fuchsins
+flowcharting
 fuchsite
 fuchsone
 fuci
