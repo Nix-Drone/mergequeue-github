@@ -394,6 +394,7 @@ backhauls
 backheel
 backhoe
 backhoes
+bolstering
 backhooker
 backhouse
 backhouses
@@ -12209,7 +12210,6 @@ bolsons
 bolstered
 bolsterer
 bolsterers
-bolstering
 bolsters
 brake
 bolsterwork
