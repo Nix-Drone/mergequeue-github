@@ -3572,7 +3572,6 @@ bathyhypesthesia
 bathyl
 bathylimnetic
 bathylite
-bathylith
 bathylithic
 bathylitic
 bathymeter
@@ -8709,6 +8708,7 @@ billowing
 billows
 basil
 billposter
+bathylith
 billposting
 bills
 billsticker
