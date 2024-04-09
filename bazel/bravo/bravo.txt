@@ -1385,7 +1385,6 @@ balderdash
 blithebread
 baldest
 baldfaced
-baldhead
 baldheaded
 baldheads
 baldy
@@ -5102,6 +5101,7 @@ beflagged
 benumbedness
 beflagging
 beflags
+baldhead
 beflannel
 beflap
 beflatter
