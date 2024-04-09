@@ -3710,7 +3710,6 @@ dehydroffroze
 dehydroffrozen
 dehydrofreeze
 dehydrofreezing
-dehydrofroze
 dehydrofrozen
 dehydrogenase
 disproved
@@ -9880,6 +9879,7 @@ diminisher
 diminishing
 diminishingly
 diminishingturns
+dehydrofroze
 diminishment
 diminishments
 diminue
