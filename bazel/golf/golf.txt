@@ -2681,6 +2681,7 @@ generals
 generalships
 generalty
 generant
+glances
 generate
 generated
 generater
@@ -5127,7 +5128,6 @@ glamours
 glance
 glanced
 glancer
-glances
 guaxima
 glancing
 glancingly
