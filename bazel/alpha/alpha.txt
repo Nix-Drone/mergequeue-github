@@ -5097,7 +5097,6 @@ aerophysical
 aerophysics
 aerophyte
 aerophobic
-aerophone
 aerophor
 aerophore
 aloneness
@@ -6877,6 +6876,7 @@ aircrew
 aircrewman
 aircrewmen
 aircrews
+aerophone
 airdate
 airdates
 airdock
