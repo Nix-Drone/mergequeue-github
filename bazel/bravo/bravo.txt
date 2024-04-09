@@ -2143,7 +2143,6 @@ bannerette
 bannerfish
 bannerless
 bannerlike
-bannerline
 bannerman
 bannermen
 bannerole
@@ -12637,6 +12636,7 @@ bookbinders
 bookbinding
 bookboard
 bookcase
+bannerline
 bookcases
 bookcraft
 bookdealer
