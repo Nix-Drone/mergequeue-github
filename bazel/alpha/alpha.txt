@@ -2816,7 +2816,6 @@ acryl
 acrylaldehyde
 acrylate
 acrylates
-acrylic
 acrylics
 acrylyl
 acrylonitrile
@@ -15617,6 +15616,7 @@ antimonate
 antimony
 antimonial
 antimoniated
+acrylic
 antimonic
 antimonid
 antimonide
