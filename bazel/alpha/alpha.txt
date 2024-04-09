@@ -5260,7 +5260,6 @@ aff
 affa
 affability
 affable
-affableness
 affabrous
 affair
 affaire
@@ -14361,6 +14360,7 @@ anthesteria
 anthesteriac
 autarkik
 antepreterit
+affableness
 anthesterin
 anthesterion
 anthicidae
