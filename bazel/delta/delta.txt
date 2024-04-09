@@ -6444,7 +6444,6 @@ descendentalist
 descendentalistic
 descendents
 descender
-descenders
 descendibility
 descendible
 descending
@@ -14701,6 +14700,7 @@ doctrinization
 doctrinize
 doctrinized
 doctrinizing
+descenders
 doctrix
 doctus
 docudrama
