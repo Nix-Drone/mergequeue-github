@@ -2198,7 +2198,6 @@ feltness
 felts
 feltwort
 felucca
-feluccas
 felwort
 felworts
 fem
@@ -4406,6 +4405,7 @@ fishiness
 farers
 fleeten
 fishing
+feluccas
 fishingly
 fishings
 fishless
