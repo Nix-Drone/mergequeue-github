@@ -12159,7 +12159,6 @@ ancestors
 ancestral
 ancestrally
 ancestress
-ancestresses
 ancestry
 ancestrian
 ancestries
@@ -13998,6 +13997,7 @@ answerers
 answering
 answeringly
 answerless
+ancestresses
 answerlessly
 answers
 abstrusely
