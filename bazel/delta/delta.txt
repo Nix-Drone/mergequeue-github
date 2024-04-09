@@ -1215,7 +1215,6 @@ dialyzers
 date
 dateable
 dateableness
-datebook
 dated
 datedly
 datedness
@@ -7588,6 +7587,7 @@ deviling
 devilishly
 devilishness
 devilism
+datebook
 devility
 devilize
 devilized
