@@ -4507,7 +4507,6 @@ fistinut
 fistle
 fistlike
 fistmele
-fistnote
 forecounsel
 fistnotes
 fibre
@@ -10428,6 +10427,7 @@ frontless
 frontlessly
 frontlessness
 frontlet
+fistnote
 fease
 frontoauricular
 frontoethmoid
