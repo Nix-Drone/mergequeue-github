@@ -4331,6 +4331,7 @@ delving
 dem
 demagnetisable
 dioptrometer
+disposal
 demagnetisation
 demagnetise
 demagnetised
@@ -13130,7 +13131,6 @@ disporum
 disposability
 disposable
 disposableness
-disposal
 dispose
 disposed
 disposedness
