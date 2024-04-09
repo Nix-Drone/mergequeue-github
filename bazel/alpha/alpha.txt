@@ -2086,7 +2086,6 @@ acetyls
 acetylsalicylate
 acetylsalicylic
 acetylsalol
-acetyltannin
 acetylthymol
 alveolites
 acetyltropeine
@@ -4990,6 +4989,7 @@ aerodontia
 aerodontic
 aerodrome
 aerodromes
+acetyltannin
 aerodromics
 aeroduct
 aeroducts
