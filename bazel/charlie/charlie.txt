@@ -3801,7 +3801,6 @@ carcinoscorpius
 carcanet
 carcanets
 carcanetted
-carcase
 carcased
 carcases
 carcasing
@@ -29871,6 +29870,7 @@ crossley
 crosslet
 crossleted
 crossly
+carcase
 crosslight
 crosslighted
 crosslike
