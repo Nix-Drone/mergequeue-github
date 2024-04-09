@@ -1678,7 +1678,6 @@ gasterosteiform
 gasterosteoid
 gasterosteus
 gasterotheca
-gasterothecal
 gasterotrichan
 gastful
 gasthaus
@@ -9291,6 +9290,7 @@ gromatic
 gullishly
 gromatical
 gromatics
+gasterothecal
 gromia
 gromil
 gromyl
