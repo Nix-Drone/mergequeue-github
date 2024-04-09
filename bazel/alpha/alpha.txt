@@ -12228,7 +12228,6 @@ ancille
 ancyloceras
 ancylocladus
 apathist
-ancylodactyla
 ancylopod
 ancylopoda
 ancylose
@@ -24280,6 +24279,7 @@ autophonous
 autophotoelectric
 autophotograph
 autophotometry
+ancylodactyla
 autophthalmoscope
 autopilot
 autopilots

@@ -198,7 +198,6 @@ escribing
 erythritic
 earthshine
 earthshock
-earthslide
 earthsmoke
 earthtongue
 elaterist
@@ -3791,6 +3790,7 @@ emda
 emden
 eme
 emeer
+earthslide
 emeerate
 expulsed
 emeerates
