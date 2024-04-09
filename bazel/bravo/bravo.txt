@@ -2950,7 +2950,6 @@ barrelling
 barrelmaker
 barrelmaking
 barrels
-barrelsful
 barrelwise
 barren
 barrenest
@@ -13431,6 +13430,7 @@ bottomrying
 bottoms
 bottstick
 bottu
+barrelsful
 bathyscaphe
 botuliform
 botulin
