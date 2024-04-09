@@ -4996,6 +4996,7 @@ aerofoil
 aerofoils
 aerogel
 aerogels
+antilogous
 assigned
 aerogen
 aerogene
@@ -15481,7 +15482,6 @@ antilogies
 antilogism
 antilogistic
 antilogistically
-antilogous
 antilogs
 antiloimic
 antilope
