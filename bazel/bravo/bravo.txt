@@ -2836,7 +2836,6 @@ baronize
 baronized
 baronnes
 baronry
-baronries
 barons
 briggs
 baronship
@@ -9096,6 +9095,7 @@ biomorphic
 bion
 byon
 bionditional
+baronries
 bionergy
 bacchanalize
 bionic
