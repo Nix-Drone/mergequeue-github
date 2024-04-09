@@ -28,3 +28,7 @@ actions:
 tools:
   enabled:
     - jq@jq-1.7.1
+
+merge: 
+  required_statuses:
+    - buildkite/canva-trunk
