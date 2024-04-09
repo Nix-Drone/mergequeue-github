@@ -11361,7 +11361,6 @@ chlorous
 chlorozincate
 chlorpheniramine
 chlorphenol
-chlorpicrin
 chlorpromazine
 chlorpropamide
 chlorprophenpyridamine
@@ -29703,6 +29702,7 @@ crookbacked
 crookbill
 castral
 crooked
+chlorpicrin
 crookedbacked
 conelrads
 crookeder
