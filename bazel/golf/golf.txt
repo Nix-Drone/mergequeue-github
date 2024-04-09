@@ -5293,7 +5293,6 @@ glavering
 glaze
 glazed
 glazement
-glazen
 glazer
 glazers
 glazes
@@ -6601,6 +6600,7 @@ goldeyes
 golden
 goldenback
 goldeney
+glazen
 goldeneye
 gauger
 goldeneyes
