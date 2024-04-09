@@ -9443,6 +9443,7 @@ birdseye
 birdseyes
 birdshots
 birdsnest
+bridgehead
 birdsong
 birdstone
 birdwatch
@@ -15252,7 +15253,6 @@ bridgebuilder
 bridgebuilding
 buckteeth
 bridged
-bridgehead
 bridgeheads
 bridgeless
 bridgelike
