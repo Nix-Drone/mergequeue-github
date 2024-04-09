@@ -17143,7 +17143,6 @@ coalface
 coalfield
 coalfish
 coalfishes
-coalfitter
 coalheugh
 coalhole
 coalholes
@@ -18355,6 +18354,7 @@ cogway
 cogways
 cogweel
 cogweels
+coalfitter
 cogwheels
 cogwood
 cohabitancy
