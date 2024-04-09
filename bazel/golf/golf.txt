@@ -3281,7 +3281,6 @@ goitrogenicity
 geotropy
 geotropic
 geotropically
-geotropism
 gepeoo
 gephyrea
 gephyrocercal
@@ -5648,6 +5647,7 @@ glisters
 glitch
 glitches
 glitnir
+geotropism
 glitterance
 glittered
 glittery
