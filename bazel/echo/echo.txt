@@ -1223,7 +1223,6 @@ educible
 educive
 educt
 eduction
-eductions
 eductor
 eductors
 educts
@@ -10764,6 +10763,7 @@ eudaemonize
 epicardial
 eudaemons
 eudaimonia
+eductions
 eudaimonism
 eudaimonist
 eurasia
