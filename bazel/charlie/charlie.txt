@@ -15712,7 +15712,6 @@ clavers
 clavi
 chirres
 clavy
-clavial
 claviature
 clavicembali
 clavicembalist
@@ -24951,6 +24950,7 @@ corders
 cordewane
 cordy
 cordia
+clavial
 cordial
 cordiality
 cordialities
