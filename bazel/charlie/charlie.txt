@@ -10943,7 +10943,6 @@ chiromyidae
 chiromys
 chiron
 chironym
-chironomy
 chironomid
 chironomidae
 chironomus
@@ -23836,6 +23835,7 @@ contriver
 contrivers
 contrives
 contriving
+chironomy
 control
 controled
 controling
