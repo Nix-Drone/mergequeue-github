@@ -5644,7 +5644,6 @@ enforcers
 enforces
 enforcibility
 enforcible
-enforcing
 enforcingly
 enforcive
 enforcively
@@ -7673,6 +7672,7 @@ epicleidium
 epicleses
 epiclesis
 epicly
+enforcing
 epiclidal
 epiclike
 epiclinal
