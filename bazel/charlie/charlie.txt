@@ -3082,7 +3082,6 @@ capitalness
 capitals
 capitan
 capitana
-capitano
 capitare
 capitasti
 capitate
@@ -16865,6 +16864,7 @@ clumpier
 clumpiest
 clumping
 clumpish
+capitano
 clumpishness
 clumplike
 clumproot
