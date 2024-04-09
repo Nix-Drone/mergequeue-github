@@ -2630,6 +2630,7 @@ genecologic
 gradienter
 genecological
 genecor
+goldseed
 geneki
 genep
 genepi
@@ -6668,7 +6669,6 @@ goldminer
 goldmist
 goldonian
 golds
-goldseed
 goldsinny
 goldsmith
 goldsmithery
