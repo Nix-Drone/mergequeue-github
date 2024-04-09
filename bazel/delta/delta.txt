@@ -9651,6 +9651,7 @@ dilapidator
 dilatability
 dilatable
 dilatableness
+dup
 dysmerogenetic
 dilatably
 dilatancy
@@ -18335,7 +18336,6 @@ duotones
 duotriacontane
 duotriode
 duoviri
-dup
 dupability
 dupable
 dupatta
