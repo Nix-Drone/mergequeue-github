@@ -5854,7 +5854,6 @@ glossalgia
 glossary
 glossarial
 glossarian
-glossaries
 gorier
 glossarist
 glossarize
@@ -5897,6 +5896,7 @@ glossmeter
 geod
 glossocarcinoma
 glossocele
+glossaries
 glossocoma
 gelatinotype
 glossocomium
