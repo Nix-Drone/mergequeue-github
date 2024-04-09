@@ -4813,6 +4813,7 @@ flagrate
 flagroot
 flags
 flagship
+freeway
 firepower
 flagstaff
 flagstaffs
@@ -9712,7 +9713,6 @@ freethinkers
 freethinking
 freety
 freetrader
-freeway
 freeward
 flavorings
 freewheel
