@@ -7497,7 +7497,6 @@ foreannouncement
 foreappoint
 foreappointment
 fungate
-forearmed
 forearming
 forearms
 foreassign
@@ -9472,6 +9471,7 @@ fratched
 fratcheous
 fratcher
 fratchety
+forearmed
 fratching
 frate
 flaxbush
