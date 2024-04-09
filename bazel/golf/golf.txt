@@ -2348,6 +2348,7 @@ gekkonid
 gekkonidae
 gekkonoid
 gekkota
+greedy
 gel
 gelable
 guideship
@@ -8600,7 +8601,6 @@ grecque
 gree
 greece
 greed
-greedy
 greedier
 greediest
 greedygut
