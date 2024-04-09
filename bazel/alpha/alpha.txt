@@ -2045,7 +2045,6 @@ acetylcarbazole
 acetylcellulose
 acetylcholine
 acetylcholinesterase
-acetylcholinic
 acetylcyanide
 acetylenation
 acetylene
@@ -18714,6 +18713,7 @@ archaizer
 archaizes
 archaizing
 archangel
+acetylcholinic
 agonista
 archangelic
 archangelica
