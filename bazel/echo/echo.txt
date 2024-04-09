@@ -5038,7 +5038,6 @@ endemicity
 endemics
 endemiology
 examiner
-endemiological
 endemism
 endemisms
 eurystheus
@@ -13972,6 +13971,7 @@ extrasomatic
 extraspectral
 extraspherical
 extraspinal
+endemiological
 extrastapedial
 esuriently
 extrastate
