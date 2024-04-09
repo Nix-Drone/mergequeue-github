@@ -2825,7 +2825,6 @@ baronetship
 barong
 baronga
 barongs
-baroni
 barony
 bassets
 baronial
@@ -12489,6 +12488,7 @@ bonhomously
 boni
 bony
 boniata
+baroni
 bonier
 boniest
 boniface
