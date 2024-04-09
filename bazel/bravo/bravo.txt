@@ -442,6 +442,7 @@ backpedaling
 backpiece
 backplane
 backplanes
+brusquer
 backplate
 backpointer
 backpointers
@@ -16409,7 +16410,6 @@ benames
 brusque
 brusquely
 brusqueness
-brusquer
 brusquerie
 brusquest
 brussel
