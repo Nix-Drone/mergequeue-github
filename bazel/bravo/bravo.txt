@@ -2982,7 +2982,6 @@ barricoes
 barrier
 barriers
 barriguda
-barrigudo
 barrigudos
 broadaxe
 barrikin
@@ -11400,6 +11399,7 @@ bluffest
 bluffy
 bluffing
 bluffly
+barrigudo
 bluffness
 bluffs
 blufter
