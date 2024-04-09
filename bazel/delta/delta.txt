@@ -2397,7 +2397,6 @@ decimalizing
 decimally
 decimals
 decimate
-decimated
 decimates
 decimating
 decimation
@@ -10178,6 +10177,7 @@ dynode
 dynodes
 dinoflagellata
 dinoflagellatae
+decimated
 dinoflagellate
 dinoflagellida
 distresses
