@@ -5971,7 +5971,6 @@ glossopode
 glossopodium
 glossopteris
 glossoptosis
-glossorrhaphy
 glossoscopy
 glossospasm
 glossosteresis
@@ -9512,6 +9511,7 @@ groused
 grouseless
 glycerizine
 grouselike
+glossorrhaphy
 gem
 gloving
 grouser
