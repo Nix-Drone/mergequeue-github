@@ -6983,6 +6983,7 @@ airsickness
 airsome
 airspace
 airspaces
+addled
 apostolic
 airspeed
 airspeeds
@@ -8063,7 +8064,6 @@ algebraic
 aquatical
 algebraical
 algebraically
-addled
 algebraist
 algebraists
 algebraization
