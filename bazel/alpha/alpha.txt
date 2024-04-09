@@ -6453,7 +6453,6 @@ agreements
 agreer
 agreers
 agrees
-agregation
 agrege
 agreges
 agreing
@@ -14427,6 +14426,7 @@ antholysis
 antholite
 antholyza
 anthology
+agregation
 anthological
 anthologically
 anthologies
