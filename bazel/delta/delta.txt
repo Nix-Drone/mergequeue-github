@@ -6292,7 +6292,6 @@ dermobranchiate
 dermochelys
 dermococcus
 dermogastric
-dermography
 dermographia
 dermographic
 dermohemal
@@ -11716,6 +11715,7 @@ discredits
 discreet
 discreeter
 discreetest
+dermography
 discreetly
 discreetness
 discrepancy
