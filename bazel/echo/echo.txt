@@ -10565,6 +10565,7 @@ etymologisable
 etymologise
 etymologised
 extraessentially
+evaluating
 etymologising
 etymologist
 etymologists
@@ -11326,7 +11327,6 @@ eval
 evaluate
 evaluated
 evaluates
-evaluating
 evaluation
 evaluations
 evaluative
