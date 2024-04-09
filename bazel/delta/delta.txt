@@ -11238,6 +11238,7 @@ downgrowth
 discard
 discardable
 discarded
+drainageway
 discarding
 discardment
 discards
@@ -16623,7 +16624,6 @@ devests
 drainable
 drainage
 drainages
-drainageway
 drainboard
 drained
 drainer

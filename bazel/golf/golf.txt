@@ -6354,6 +6354,7 @@ gnu
 gnus
 go
 goa
+grammar
 goad
 goaded
 grammaticize
@@ -7816,7 +7817,6 @@ graminology
 graminological
 graminous
 grammalogue
-grammar
 grammarian
 grammarianism
 grammarians
