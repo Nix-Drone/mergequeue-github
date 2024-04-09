@@ -15708,7 +15708,6 @@ clavelize
 clavellate
 clavellated
 convertable
-claver
 clavered
 clavering
 clavers
@@ -21435,6 +21434,7 @@ concoctor
 concocts
 chilostomata
 concolor
+claver
 concolorous
 concolour
 concomitance
