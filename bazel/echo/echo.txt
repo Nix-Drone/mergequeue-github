@@ -8582,7 +8582,6 @@ equant
 equatability
 equatable
 equate
-equated
 equates
 equating
 equation
@@ -10045,6 +10044,7 @@ estimative
 earpieces
 estimator
 estimators
+equated
 estipulate
 estivage
 estimatingly
