@@ -183,7 +183,6 @@ facto
 factor
 factorability
 factorable
-factorage
 factordom
 factoress
 factory
@@ -8841,6 +8840,7 @@ fossicker
 fossicking
 fossicks
 fossified
+factorage
 fossiform
 fossil
 fossilage
