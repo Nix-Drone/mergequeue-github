@@ -1409,7 +1409,6 @@ garlic
 garlicky
 garliclike
 garlicmonger
-garlics
 galloner
 gibier
 garlicwort
@@ -6417,6 +6416,7 @@ goatskin
 goatskins
 goatstone
 granulitic
+garlics
 goatsucker
 gaum
 goatweed
