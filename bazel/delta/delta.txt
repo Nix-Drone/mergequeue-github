@@ -4881,6 +4881,7 @@ divines
 demonship
 demonstrability
 demonstrable
+destructing
 demonstrableness
 demonstrably
 demonstrance
@@ -7015,7 +7016,6 @@ destruct
 destructibility
 destructible
 destructibleness
-destructing
 destruction
 destructional
 destructionist
