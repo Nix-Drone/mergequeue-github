@@ -3602,7 +3602,6 @@ file
 fileable
 filecard
 filechar
-filed
 filefish
 feminisms
 filefishes
@@ -8736,6 +8735,7 @@ fortread
 fortress
 fortresses
 fortressing
+filed
 forts
 fortuity
 fortuitism
