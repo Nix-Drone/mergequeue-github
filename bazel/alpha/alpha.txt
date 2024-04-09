@@ -6864,6 +6864,7 @@ aircraft
 aircraftman
 aircraftmen
 aircrafts
+amicrobic
 aircraftsman
 aircraftsmen
 aircraftswoman
@@ -10398,7 +10399,6 @@ amicicide
 amyclaean
 amyclas
 amicous
-amicrobic
 amicron
 amicronucleate
 amyctic
