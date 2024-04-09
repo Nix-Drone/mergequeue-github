@@ -5628,7 +5628,6 @@ dephysicalization
 dephysicalize
 dephlegm
 dephlegmate
-dephlegmated
 dephlegmation
 dephlegmatize
 dephlegmator
@@ -6517,6 +6516,7 @@ desegmentation
 desegmented
 disordination
 desegregate
+dephlegmated
 desegregated
 decontamination
 desegregates
