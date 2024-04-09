@@ -7740,7 +7740,6 @@ aldermen
 aldern
 alderney
 alders
-alderwoman
 alderwomen
 aldhafara
 aldhafera
@@ -9229,6 +9228,7 @@ alogism
 alogotrophy
 aloha
 alohas
+alderwoman
 aloyau
 aloid
 aloin
