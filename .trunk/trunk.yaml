@@ -30,4 +30,4 @@ tools:
     - jq@jq-1.7.1
 merge: 
   required_statuses:
-    - PR Testing
+    - run tests to validate pr
