@@ -4144,6 +4144,7 @@ bearcoot
 bratticed
 biassing
 beard
+bodysurfs
 bearded
 beardedness
 bearder
@@ -11797,7 +11798,6 @@ bodysurf
 bodysurfed
 bodysurfer
 bodysurfing
-bodysurfs
 bodywear
 bodyweight
 bodywise
