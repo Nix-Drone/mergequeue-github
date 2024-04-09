@@ -14,7 +14,6 @@ fable
 fibriform
 fabled
 ferry
-fabledom
 fableland
 fablemaker
 fablemonger
@@ -9207,6 +9206,7 @@ fractious
 fractiously
 fractiousness
 fractocumulus
+fabledom
 fractonimbus
 fractostratus
 fractuosity
