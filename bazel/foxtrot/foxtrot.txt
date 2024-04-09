@@ -2129,7 +2129,6 @@ fellows
 fellowship
 fellowshiping
 fellowshipped
-fellowshipping
 fellowships
 fells
 fellside
@@ -8659,6 +8658,7 @@ forthbrought
 forthcall
 forthcame
 fudge
+fellowshipping
 forthcomer
 forthcut
 flapless
