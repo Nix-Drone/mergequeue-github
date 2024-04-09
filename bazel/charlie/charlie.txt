@@ -1740,7 +1740,6 @@ camass
 camasses
 camassia
 camata
-camatina
 camauro
 camauros
 camaxtli
@@ -16157,6 +16156,7 @@ cleans
 consequence
 climbable
 climbed
+camatina
 climber
 chirker
 climbers
