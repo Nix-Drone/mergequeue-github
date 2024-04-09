@@ -1221,7 +1221,6 @@ date
 dateable
 dateableness
 datebook
-dated
 datedly
 datedness
 dateless
@@ -7684,6 +7683,7 @@ devoirs
 devolatilise
 devolatilised
 devolatilising
+dated
 dryrot
 devolatilization
 devolatilize
