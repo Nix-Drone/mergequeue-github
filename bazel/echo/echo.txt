@@ -6275,7 +6275,6 @@ enzootically
 enravishingly
 enravishment
 enregiment
-enregister
 enregistered
 epicyte
 enregistering
@@ -10359,6 +10358,7 @@ estus
 ethylamine
 ethylate
 ethylated
+enregister
 ethylates
 ethylating
 ethylation
