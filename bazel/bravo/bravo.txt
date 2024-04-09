@@ -3422,7 +3422,6 @@ bassos
 bassus
 basswood
 basswoods
-bast
 basta
 bastaard
 bastant
@@ -13767,6 +13766,7 @@ bowfins
 bowfront
 bowgrace
 bowhead
+bast
 borrowed
 bowheads
 bowyang
