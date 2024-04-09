@@ -8054,7 +8054,6 @@ chaetosema
 chaetosoma
 chaetosomatidae
 chaetosomidae
-chaetotactic
 chaetotaxy
 chaetura
 chafe
@@ -15028,6 +15027,7 @@ citrinins
 citrinous
 citrins
 citrocola
+chaetotactic
 citrometer
 citromyces
 citron
