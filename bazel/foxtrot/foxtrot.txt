@@ -1382,6 +1382,7 @@ fatigation
 fatiguability
 fatiguabilities
 fatiguable
+flameout
 fatigue
 formicina
 fatigueless
@@ -4877,7 +4878,6 @@ flamens
 firmance
 flamenship
 forehood
-flameout
 flameouts
 flameproof
 flameproofer
