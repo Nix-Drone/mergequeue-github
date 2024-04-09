@@ -5092,7 +5092,6 @@ flatbeds
 flatboats
 flatbottom
 flatbrod
-flatcap
 flatcaps
 flatcar
 flatcars
@@ -7196,6 +7195,7 @@ footgrip
 foothalt
 filths
 foothill
+flatcap
 foothold
 footholds
 foothot
