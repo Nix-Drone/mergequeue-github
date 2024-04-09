@@ -4613,6 +4613,7 @@ fivepenny
 fivepins
 frosteds
 fiver
+fluxroot
 fives
 fivescore
 fm
@@ -6655,7 +6656,6 @@ fluxionist
 fluxions
 fluxive
 fluxmeter
-fluxroot
 fluxure
 fn
 footcloth
