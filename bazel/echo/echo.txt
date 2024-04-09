@@ -4568,7 +4568,6 @@ encephalic
 encephalin
 encephalitic
 exocolitis
-encephalitis
 encephalitogenic
 encephalocele
 encephalocoele
@@ -12022,6 +12021,7 @@ excide
 excided
 excides
 equinoxes
+encephalitis
 exciding
 excipient
 exciple
