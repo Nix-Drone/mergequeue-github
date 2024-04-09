@@ -6128,7 +6128,6 @@ flot
 flota
 flotage
 flotages
-flotant
 favorability
 flotas
 flotative
@@ -7740,6 +7739,7 @@ foreigner
 foreigners
 foreignership
 foreignism
+flotant
 foreignize
 foreignly
 foreignness
