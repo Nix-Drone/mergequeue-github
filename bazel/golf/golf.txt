@@ -5504,7 +5504,6 @@ glycolyl
 glycolylurea
 glycolipid
 glycolipin
-glycolipine
 glycolysis
 glycolytic
 glycolytically
@@ -6058,6 +6057,7 @@ glucate
 glucemia
 glucic
 glucid
+glycolipine
 glucidic
 glucina
 glucine
