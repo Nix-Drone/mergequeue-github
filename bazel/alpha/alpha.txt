@@ -3735,7 +3735,6 @@ archaize
 adenophore
 adenophoreus
 adenophorous
-adenophthalmia
 adenopodous
 adenosarcoma
 adenosarcomas
@@ -5850,6 +5849,7 @@ ashine
 agamont
 agamospore
 agamous
+adenophthalmia
 aganglionic
 aganice
 aganippe
