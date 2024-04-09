@@ -6621,6 +6621,7 @@ enterauxe
 enterclose
 enterectomy
 enterectomies
+exuviates
 entered
 enterer
 enterers
@@ -14186,7 +14187,6 @@ exuviae
 exuvial
 exuviate
 exuviated
-exuviates
 exuviating
 exuviation
 exuvium
