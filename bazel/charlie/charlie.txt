@@ -7353,7 +7353,6 @@ cepolidae
 cepous
 ceps
 cepter
-ceptor
 cequi
 cera
 cerago
@@ -18644,6 +18643,7 @@ colander
 colanders
 consists
 colane
+ceptor
 colaphize
 colarin
 colas
