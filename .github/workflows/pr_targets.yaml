@@ -21,10 +21,8 @@ jobs:
 
       - name: download mq
         run: |
-          gh release download --pattern='*.gz' --output mq.gz --clobber
+          gh release download --repo=trunk-io/mergequeue-tool --include-prerelease --pattern='*.gz' --output mq.gz --clobber
           tar -xf mq.gz
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: get demo config
         id: get-demo-config
