@@ -3152,6 +3152,7 @@ geomorphology
 geomorphologic
 geomorphological
 geomorphologically
+golliwog
 geon
 geonavigation
 gabbart
@@ -6715,7 +6716,6 @@ golland
 gollar
 goller
 golly
-golliwog
 gobbets
 golliwogs
 gollop
