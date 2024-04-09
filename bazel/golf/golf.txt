@@ -1318,7 +1318,6 @@ garboards
 garboil
 garboils
 garbologist
-garbure
 garish
 garce
 grallina
@@ -7345,6 +7344,7 @@ gossipmongering
 gossypol
 gossypols
 gossypose
+garbure
 gossipped
 gossipping
 gossipred
