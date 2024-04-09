@@ -5561,6 +5561,7 @@ departs
 departure
 depas
 depascent
+distilery
 depass
 disintensify
 delphinoid
@@ -13794,7 +13795,6 @@ distichs
 distil
 distylar
 distyle
-distilery
 distill
 distillable
 distillage
