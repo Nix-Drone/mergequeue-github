@@ -3900,6 +3900,7 @@ emeus
 emeute
 emeutes
 emf
+emulator
 emforth
 emhpasizing
 emic
@@ -4312,7 +4313,6 @@ emulation
 emulations
 emulative
 emulatively
-emulator
 edificant
 emulatory
 emulators
