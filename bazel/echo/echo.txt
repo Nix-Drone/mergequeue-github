@@ -611,7 +611,6 @@ encrustment
 echoers
 echoes
 echogram
-echograph
 echoic
 echoing
 echoingly
@@ -10383,6 +10382,7 @@ epithelial
 ethylic
 ethylidene
 ethylidyne
+echograph
 ethylin
 ethylmorphine
 ethyls
