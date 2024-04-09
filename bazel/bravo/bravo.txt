@@ -6811,7 +6811,6 @@ beround
 berreave
 berreaved
 bendability
-berreaves
 berreaving
 berret
 berretta
@@ -13050,6 +13049,7 @@ bornite
 bornites
 bornitic
 boro
+berreaves
 borocaine
 basnet
 borocalcite
