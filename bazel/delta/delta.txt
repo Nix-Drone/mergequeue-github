@@ -4132,7 +4132,6 @@ delimitation
 delimitations
 delimited
 delimiter
-delimiters
 delimiting
 delimitize
 delimitized
@@ -7406,6 +7405,7 @@ deuteranomalous
 deuteranope
 deuteranopia
 diastrophe
+delimiters
 deuterate
 deuteration
 deuteric
