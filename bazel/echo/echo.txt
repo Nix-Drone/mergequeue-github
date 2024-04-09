@@ -2514,7 +2514,6 @@ electromyogram
 electromyograph
 electromyography
 electromyographic
-electromyographical
 electromyographically
 electromobile
 electromotion
@@ -5943,6 +5942,7 @@ enhunger
 enhungered
 enhusk
 eniac
+electromyographical
 enicuridae
 enid
 enif
