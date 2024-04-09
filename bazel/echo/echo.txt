@@ -5425,7 +5425,6 @@ endotropic
 endoubt
 endoute
 endovaccination
-enrank
 enclavement
 endovasculitis
 equinox
@@ -10411,6 +10410,7 @@ excelsitude
 ethize
 ethmyphitis
 ethmofrontal
+enrank
 eemis
 ethmoid
 ethmoidal
