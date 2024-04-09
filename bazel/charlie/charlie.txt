@@ -17750,7 +17750,6 @@ coders
 codes
 codescendant
 codesign
-codesigning
 codesigns
 codespairer
 codetermination
@@ -30399,6 +30398,7 @@ ctenophora
 ctenophoral
 ctenophoran
 ctenophore
+codesigning
 ctenophoric
 ctenophorous
 ctenoplana
