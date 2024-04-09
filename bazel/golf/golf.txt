@@ -3081,7 +3081,6 @@ geographically
 geographies
 geographize
 geohydrology
-geohydrologic
 geoid
 geoidal
 geoids
@@ -8239,6 +8238,7 @@ grapta
 gondolet
 graptolite
 graptolitha
+geohydrologic
 graptolithida
 graptolithina
 graptolitoidea
