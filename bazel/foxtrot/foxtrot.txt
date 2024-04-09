@@ -6123,7 +6123,6 @@ flotages
 favorability
 flotas
 flotative
-flote
 fragor
 floter
 flotilla
@@ -7226,6 +7225,7 @@ footmenfootpad
 footnote
 footnoted
 footnotes
+flote
 footpace
 footpaces
 forefather
