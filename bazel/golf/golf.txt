@@ -5958,7 +5958,6 @@ glossospasm
 glossosteresis
 glossotype
 glossotomy
-glost
 glosts
 glottal
 glottalite
@@ -7211,6 +7210,7 @@ gorgonin
 gorgonise
 gorgonised
 gorgonising
+glost
 gorgonize
 greenthumbed
 gorgonizing
