@@ -3984,6 +3984,7 @@ beacon
 beaconage
 beaconing
 beaconless
+business
 beacons
 beaconwise
 beaded
@@ -18046,7 +18047,6 @@ busying
 busyish
 busily
 busine
-business
 busyness
 businesses
 busynesses
