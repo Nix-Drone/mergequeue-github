@@ -9343,6 +9343,7 @@ diffraction
 diffractional
 diffractions
 diffractive
+directionless
 diffractively
 diffractiveness
 diffractometer
@@ -10757,7 +10758,6 @@ drain
 directionality
 directionalize
 directionally
-directionless
 directions
 directitude
 downhanging
