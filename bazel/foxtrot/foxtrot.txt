@@ -2910,7 +2910,6 @@ feudists
 feudovassalism
 feuds
 feudum
-feued
 feuillage
 feuillants
 feuillemorte
@@ -11557,6 +11556,7 @@ fuses
 fusetron
 fusht
 fusibility
+feued
 footlight
 fusibleness
 fusibly
