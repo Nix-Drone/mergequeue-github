@@ -2412,6 +2412,7 @@ geld
 geldability
 geldable
 griffinish
+grampa
 geldant
 gelded
 gelder
@@ -7869,7 +7870,6 @@ gramophonical
 gramophonically
 gramophonist
 gramp
-grampa
 gramper
 gramps
 grampus
