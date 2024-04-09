@@ -1042,7 +1042,6 @@ baying
 bayish
 bitterbush
 baikalite
-baikerinite
 baikerite
 baikie
 bail
@@ -4835,6 +4834,7 @@ bedstaff
 bedstand
 bedstaves
 bedstead
+baikerinite
 beshrouded
 bedstraw
 bedstraws
