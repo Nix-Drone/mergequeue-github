@@ -10410,7 +10410,6 @@ chiffons
 chifforobe
 chifforobes
 chiffre
-chiffrobe
 chigetai
 chigetais
 chigga
@@ -21759,6 +21758,7 @@ conductivity
 conductivities
 counterwill
 conductometer
+chiffrobe
 conductometric
 conductor
 conductory
