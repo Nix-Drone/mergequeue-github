@@ -2756,7 +2756,6 @@ forbidder
 festiveness
 festivity
 festivities
-festivous
 festology
 flowerer
 feston
@@ -4324,6 +4323,7 @@ firth
 firths
 frijol
 fiscal
+festivous
 fiscalify
 fiscalism
 fiscality
