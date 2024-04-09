@@ -2548,7 +2548,6 @@ decoagulation
 decoat
 decocainize
 decoct
-decocted
 decoctible
 decocting
 decoction
@@ -12500,6 +12499,7 @@ disintrench
 dysyntribite
 disintricate
 disinure
+decocted
 disinvagination
 disinvest
 disinvestiture
