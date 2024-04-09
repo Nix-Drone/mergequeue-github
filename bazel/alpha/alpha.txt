@@ -9160,7 +9160,6 @@ almsful
 almsgiver
 almsgiving
 almshouse
-almshouses
 almsman
 almsmen
 almsmoney
@@ -14745,6 +14744,7 @@ antiaristocracies
 antiaristocrat
 antiaristocratic
 apostrophe
+almshouses
 antiaristocratically
 antiarrhythmic
 antiars
