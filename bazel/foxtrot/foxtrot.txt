@@ -4384,7 +4384,6 @@ fishgrass
 fishhood
 fishhook
 fishhooks
-fishy
 fishyard
 fishyback
 fishier
@@ -6117,6 +6116,7 @@ flosses
 flossflower
 flossy
 flossie
+fishy
 flossier
 fissate
 flossies

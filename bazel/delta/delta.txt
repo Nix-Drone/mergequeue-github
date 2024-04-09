@@ -12716,6 +12716,7 @@ devises
 dismortgaging
 dismount
 dismountable
+dromicia
 dismounted
 dismounting
 dismounts
@@ -17281,7 +17282,6 @@ dromic
 dromical
 dromiceiidae
 dromiceius
-dromicia
 dromioid
 dromoi
 dromomania
