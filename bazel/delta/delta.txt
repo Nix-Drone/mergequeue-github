@@ -570,7 +570,6 @@ dama
 damage
 damageability
 damageable
-damageableness
 damageably
 damaged
 damagement
@@ -1983,6 +1982,7 @@ decahedra
 decahedral
 decahedrodra
 decahedron
+damageableness
 decahedrons
 decahydrate
 decahydrated
