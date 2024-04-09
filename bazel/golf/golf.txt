@@ -4721,6 +4721,7 @@ girella
 girellidae
 grapewort
 grout
+gluelike
 gyrencephala
 goracco
 gyrencephalic
@@ -6117,7 +6118,6 @@ glue
 gangsman
 gluey
 glueyness
-gluelike
 gluelikeness
 gluemaker
 glueman
