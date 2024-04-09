@@ -754,6 +754,7 @@ antefuture
 above
 abovedeck
 aboveground
+ambuscading
 abovementioned
 aboveproof
 aboves
@@ -10148,7 +10149,6 @@ ambuscade
 ambuscaded
 ambuscader
 ambuscades
-ambuscading
 ambuscado
 ambuscadoed
 ambuscados
