@@ -2563,7 +2563,6 @@ familistery
 ferricyanate
 ferricyanic
 ferricyanide
-ferried
 ferrier
 ferries
 ferriferous
@@ -9196,6 +9195,7 @@ fractionalizing
 fractionally
 fractionary
 fractionate
+ferried
 fractionated
 fractionating
 fractionation
