@@ -4150,7 +4150,6 @@ fireboxes
 firebrand
 firebrands
 firebrats
-firebreak
 firebreaks
 firebrick
 firebug
@@ -6216,6 +6215,7 @@ flowk
 flowmeter
 framework
 flown
+firebreak
 flowoff
 flowstone
 flrie
