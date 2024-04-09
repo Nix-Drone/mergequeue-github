@@ -5949,7 +5949,6 @@ biparous
 beltless
 beltlines
 beltmaker
-beltmaking
 beltman
 beltmen
 belton
@@ -8887,6 +8886,7 @@ binna
 binnacle
 binnacles
 binned
+beltmaking
 binny
 binnite
 binnogue
