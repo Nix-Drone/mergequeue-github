@@ -5668,7 +5668,6 @@ beleper
 bicycle
 beletter
 beleve
-belfast
 belfried
 buna
 belfries
@@ -11529,6 +11528,7 @@ bnf
 bo
 boa
 boaedon
+belfast
 boagane
 boanbura
 boanergean
