@@ -1219,7 +1219,6 @@ eductions
 eductor
 eductors
 educts
-edulcorate
 edulcorated
 edulcorating
 edulcoration
@@ -3766,6 +3765,7 @@ excerpt
 embrues
 embruing
 embruted
+edulcorate
 embrutes
 embruting
 embubble
