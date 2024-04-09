@@ -1793,7 +1793,6 @@ eyeopener
 eyepiece
 eyepit
 eyepoint
-eyepoints
 eyepopper
 eyereach
 eyeroot
@@ -6143,6 +6142,7 @@ ependyma
 enneahedral
 enneahedria
 enneahedron
+eyepoints
 enneahedrons
 enneandrian
 enneandrous
