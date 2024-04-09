@@ -9346,7 +9346,6 @@ francas
 france
 frances
 franchise
-franchised
 franchisee
 franchisees
 franchisement
@@ -10950,6 +10949,7 @@ fulmicotton
 fulmina
 fulminancy
 fulminant
+franchised
 fulminate
 fulminated
 fulminates
