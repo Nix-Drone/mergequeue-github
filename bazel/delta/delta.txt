@@ -5010,7 +5010,6 @@ denationalising
 denationalization
 denationalize
 denationalized
-denationalizing
 denaturalisation
 denaturalise
 denaturalised
@@ -16446,6 +16445,7 @@ drabbish
 drabble
 drabbled
 drabbler
+denationalizing
 drabbles
 drabbletail
 difflugia
