@@ -1677,7 +1677,6 @@ gasteromycetous
 geomorphologist
 gasterophilus
 gasteropoda
-gasterosteidae
 gasterosteiform
 gasterosteoid
 gasterosteus
@@ -2712,6 +2711,7 @@ generosities
 generous
 glial
 generously
+gasterosteidae
 generousness
 geneserin
 geneserine
