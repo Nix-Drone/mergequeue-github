@@ -1560,7 +1560,6 @@ acclaimer
 afterwrist
 acclaimers
 acclaiming
-acclaims
 acclamation
 acclamations
 acclamator
@@ -12902,6 +12901,7 @@ anglish
 anglist
 anglistics
 anglo
+acclaims
 anglogaea
 anglogaean
 angloid
