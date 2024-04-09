@@ -27,7 +27,6 @@ fabric
 fabricable
 fabricant
 fabricated
-fabricates
 fabricating
 fabrication
 fabricational
@@ -4764,6 +4763,7 @@ flagilate
 flagitate
 frescoers
 format
+fabricates
 flagitation
 fraudful
 flagitiously
