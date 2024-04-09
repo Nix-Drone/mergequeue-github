@@ -4989,6 +4989,7 @@ aerofoil
 aerofoils
 aerogel
 aerogels
+assigned
 aerogen
 aerogene
 aerogenes
@@ -21758,7 +21759,6 @@ assignat
 assignation
 assignations
 assignats
-assigned
 assignee
 assignees
 assigner
