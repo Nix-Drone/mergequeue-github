@@ -7031,7 +7031,6 @@ destroyed
 destroyer
 destroyers
 destroying
-destroys
 destruct
 destructibility
 destructible
@@ -14908,6 +14907,7 @@ dogfall
 dogfennel
 dogfight
 dogfighting
+destroys
 dogfights
 dogfish
 dogfishes
