@@ -11529,7 +11529,6 @@ cholates
 chold
 choleate
 cholecalciferol
-cholecyanin
 cholecyanine
 cholecyst
 cholecystectasia
@@ -23538,6 +23537,7 @@ continuity
 continuities
 continuo
 continuos
+cholecyanin
 continuous
 continuously
 continuousness
