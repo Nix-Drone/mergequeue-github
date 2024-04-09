@@ -2542,7 +2542,6 @@ electronics
 electronography
 electronographic
 ecad
-electrons
 epipubic
 electronvolt
 electrooculogram
@@ -2658,6 +2657,7 @@ electrotelegraphy
 electrotelegraphic
 electrotelethermometer
 endplay
+electrons
 electrotellurograph
 electrotest
 electrothanasia
