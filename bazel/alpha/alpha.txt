@@ -4119,7 +4119,6 @@ administers
 administrable
 administrant
 administrants
-administrated
 administrates
 administrating
 administration
@@ -7708,6 +7707,7 @@ alcor
 alcoran
 alcoranic
 alcoranist
+administrated
 alcosol
 alcotate
 alcove
