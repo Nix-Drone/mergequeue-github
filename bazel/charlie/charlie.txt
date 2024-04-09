@@ -24291,7 +24291,6 @@ cookwares
 cool
 coolaman
 coolamon
-coolant
 coolants
 cooled
 cooley
@@ -25797,6 +25796,7 @@ corruptibilities
 corruptibleness
 corruptibly
 corrupting
+coolant
 corruptingly
 corruption
 corruptionist
