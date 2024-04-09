@@ -5965,6 +5965,7 @@ depthlessness
 depthometer
 depths
 depthways
+disoccupy
 depthwise
 depucel
 drayages
@@ -12796,7 +12797,6 @@ disoccluded
 deponer
 disoccluding
 disoccupation
-disoccupy
 disoccupying
 disodic
 dysodile
