@@ -2335,7 +2335,6 @@ electrocataphoretic
 electrocautery
 electrocauteries
 electroceramic
-electrochemical
 electrochemically
 electrochemist
 electrochemistry
@@ -10084,6 +10083,7 @@ estrade
 estradiol
 estradiot
 externation
+electrochemical
 estrado
 estragol
 estragole
