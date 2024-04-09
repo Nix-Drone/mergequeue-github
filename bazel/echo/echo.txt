@@ -6843,7 +6843,6 @@ entitle
 entitled
 entitledness
 enriched
-entitling
 entitule
 entoblast
 entoblastic
@@ -10088,6 +10087,7 @@ estrado
 estragol
 estragole
 estragon
+entitling
 entity
 estragons
 estray

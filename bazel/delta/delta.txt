@@ -2931,7 +2931,6 @@ dedoggerelize
 dedogmatize
 dedolation
 dedolence
-dedolency
 dedolent
 dedolomitization
 darking
@@ -4191,6 +4190,7 @@ delist
 delisted
 delisting
 delists
+dedolency
 delit
 delitescence
 delitescency
