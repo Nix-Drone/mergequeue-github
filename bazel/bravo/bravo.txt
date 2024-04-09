@@ -4674,7 +4674,6 @@ bedflower
 bedfoot
 bedford
 bedfordshire
-bedframe
 bedframes
 bedgery
 bedgoer
@@ -14110,6 +14109,7 @@ bracking
 brackish
 belk
 brackishness
+bedframe
 brackmard
 bracon
 braconidae
