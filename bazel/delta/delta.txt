@@ -5139,7 +5139,6 @@ denies
 denigrate
 denigrated
 denigrates
-denigrating
 denigration
 denigrations
 denigrative
@@ -6291,6 +6290,7 @@ dermoid
 dermoidal
 dermoidectomy
 desexed
+denigrating
 dermol
 dermomycosis
 dermomuscular
