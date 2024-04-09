@@ -78,6 +78,7 @@ facemark
 faceoff
 facepiece
 faceplate
+feldsher
 facer
 facers
 fisticuffs
@@ -2031,7 +2032,6 @@ felaheen
 felahin
 felanders
 felapton
-feldsher
 feldspar
 funebrial
 feldsparphyre
