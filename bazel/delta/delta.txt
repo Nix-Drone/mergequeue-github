@@ -6547,7 +6547,6 @@ desentimentalize
 deseret
 desert
 deserted
-desertedly
 deserter
 deserters
 desertful
@@ -15234,6 +15233,7 @@ dolts
 dolus
 dolven
 dom
+desertedly
 defaulter
 domage
 domain
