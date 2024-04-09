@@ -9373,6 +9373,7 @@ diffusivity
 diffusor
 diffusors
 difluence
+disubstitution
 difluoride
 diformin
 difunctional
@@ -13993,7 +13994,6 @@ disturbs
 disturn
 disturnpike
 disubstituted
-disubstitution
 disulfate
 disulfid
 disorderedly
