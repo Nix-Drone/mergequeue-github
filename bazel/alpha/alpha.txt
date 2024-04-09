@@ -16092,6 +16092,7 @@ antireducing
 antireduction
 antireductive
 antismog
+autotrophically
 antireflexive
 antireform
 antireformer
@@ -24454,7 +24455,6 @@ autotriploidy
 autotroph
 autotrophy
 autotrophic
-autotrophically
 autotropic
 autotropically
 autotropism
