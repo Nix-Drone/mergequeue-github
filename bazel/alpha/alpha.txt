@@ -18898,7 +18898,6 @@ archfriend
 archgenethliac
 archgod
 archgomeral
-archgovernor
 archgunner
 archhead
 archheart
@@ -24203,6 +24202,7 @@ automechanism
 automelon
 automen
 autometamorphosis
+archgovernor
 autometry
 autometric
 automysophobia
