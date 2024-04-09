@@ -10682,7 +10682,6 @@ chimonanthus
 chimopelagic
 chymosin
 chymosinogen
-chymosins
 chymotrypsin
 chymotrypsinogen
 chymous
@@ -27511,6 +27510,7 @@ coverlets
 coverlid
 coverlids
 covers
+chymosins
 coversed
 coverside
 coversine
