@@ -62,7 +62,6 @@ facebread
 facecloth
 faced
 facedown
-faceharden
 faceless
 facelessness
 facelift
@@ -1877,6 +1876,7 @@ fedellini
 federal
 federalese
 federalisation
+faceharden
 federalise
 flattery
 federalised
