@@ -11277,7 +11277,6 @@ chloroaurate
 chloroauric
 chloroaurite
 chlorobenzene
-chlorobromide
 chlorobromomethane
 chlorocalcite
 chlorocarbon
@@ -29700,6 +29699,7 @@ cronish
 cronk
 cronkness
 cronstedtite
+chlorobromide
 cronus
 crooch
 crood
