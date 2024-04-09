@@ -8700,7 +8700,6 @@ billposting
 bills
 billsticker
 billtong
-bilo
 bilobate
 bilobated
 bilobe
@@ -10483,6 +10482,7 @@ blate
 blately
 blateness
 blateration
+bilo
 blateroon
 blather
 blathered
