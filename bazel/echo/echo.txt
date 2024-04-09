@@ -6369,6 +6369,7 @@ ensampler
 ensamples
 ensanguine
 ensanguining
+evisite
 ensate
 enscale
 enscene
@@ -11633,7 +11634,6 @@ eviscerates
 eviscerating
 evisceration
 eviscerator
-evisite
 evitable
 evitate
 evite
