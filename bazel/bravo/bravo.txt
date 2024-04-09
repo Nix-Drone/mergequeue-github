@@ -11626,7 +11626,6 @@ boatowner
 boats
 boatsetter
 boatshop
-boatside
 boatsman
 boatsmen
 boatsteerer
@@ -12245,6 +12244,7 @@ boltonia
 boltonias
 boltonite
 boltrope
+boatside
 boltropes
 bolts
 boltsmith
