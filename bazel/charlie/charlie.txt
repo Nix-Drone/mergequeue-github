@@ -14361,6 +14361,7 @@ circumpacific
 circumpallial
 circumparallelogram
 circumpentagon
+convexed
 circumplanetary
 circumplect
 circumplicate
@@ -24109,7 +24110,6 @@ convertors
 converts
 conveth
 convex
-convexed
 convexedly
 convexedness
 convexes
