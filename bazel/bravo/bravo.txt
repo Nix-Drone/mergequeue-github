@@ -4844,7 +4844,6 @@ bedstaff
 bedstand
 bedstaves
 bedstead
-bedsteads
 beshrouded
 bedstraw
 bedstraws
@@ -5645,6 +5644,7 @@ beleaguering
 beleaguers
 beleap
 beleaping
+bedsteads
 beleaps
 beleapt
 beleave
