@@ -3925,7 +3925,6 @@ delacrimation
 delactation
 delay
 delayable
-delayage
 delayed
 demes
 delayer
@@ -16764,6 +16763,7 @@ drawbars
 drawbeam
 drawbench
 drawboard
+delayage
 drawboy
 drawbolt
 drawbore
