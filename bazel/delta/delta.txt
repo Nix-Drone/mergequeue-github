@@ -9548,7 +9548,6 @@ dihdroxycholecalciferol
 dihedral
 dihedrals
 dihedron
-dihely
 dihelios
 dihelium
 dihexagonal
@@ -13223,6 +13222,7 @@ dictyostele
 dispurvey
 disputability
 disputable
+dihely
 disputableness
 disputably
 disputacity
