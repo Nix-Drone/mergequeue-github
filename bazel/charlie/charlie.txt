@@ -5946,6 +5946,7 @@ chantefable
 catnap
 catnaper
 catnapers
+coagulable
 catnapper
 catnapping
 catnaps
@@ -11790,7 +11791,6 @@ chondrus
 chonicrite
 chonk
 calfhood
-coagulable
 chonta
 chontal
 chontalan
