@@ -8164,6 +8164,7 @@ chairmanning
 chairmans
 chairmanship
 chairmanships
+checkoff
 chairmen
 chairmender
 chairmending
@@ -9510,7 +9511,6 @@ checkmated
 checkmates
 checkmating
 cratonic
-checkoff
 checkoffs
 checkout
 checkouts
