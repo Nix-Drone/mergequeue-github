@@ -19734,7 +19734,6 @@ combusts
 combwise
 catapulting
 combwright
-comd
 comdg
 comdia
 comdr
@@ -28512,6 +28511,7 @@ caracaras
 cephalexin
 credited
 crediting
+comd
 creditive
 creditless
 creditor
