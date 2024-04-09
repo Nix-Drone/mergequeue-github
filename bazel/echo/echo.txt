@@ -4078,7 +4078,6 @@ empanoply
 empaper
 emparchment
 emparl
-empasm
 empasma
 everbloomer
 empassion
@@ -10253,6 +10252,7 @@ etheling
 ethene
 eucti
 elks
+empasm
 ethenes
 ethenic
 ethenyl
