@@ -4387,6 +4387,7 @@ enamellar
 eau
 equiped
 enfamish
+euskera
 enamelled
 enameller
 enamellers
@@ -11220,7 +11221,6 @@ euskaldun
 euskara
 euskarian
 euskaric
-euskera
 eurytus
 eusol
 euspongia
