@@ -5486,6 +5486,7 @@ featherlet
 flexes
 flexibilities
 flexibilty
+forger
 flexible
 forgedly
 flexibly
@@ -8221,7 +8222,6 @@ forgeability
 forgeable
 forged
 forgeful
-forger
 forgery
 forgeries
 forgers
