@@ -5696,7 +5696,6 @@ afterpart
 afterpast
 afterpeak
 afterpiece
-afterplay
 afterplanting
 afterpotential
 autolysis
@@ -8243,6 +8242,7 @@ aliform
 alifs
 aligerous
 alight
+afterplay
 alighted
 alighting
 alightment
