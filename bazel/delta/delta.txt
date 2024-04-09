@@ -8737,7 +8737,6 @@ dibatag
 dibatis
 dibbed
 dibber
-dibbers
 dibbing
 dibble
 dibbled
@@ -9199,6 +9198,7 @@ dieresis
 dieretic
 dieri
 diervilla
+dibbers
 dies
 dyes
 dieselization
