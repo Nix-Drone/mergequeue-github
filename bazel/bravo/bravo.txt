@@ -3547,6 +3547,7 @@ bathala
 bathe
 batheable
 bathed
+bellower
 bather
 bathers
 bathes
@@ -4172,7 +4173,6 @@ bearish
 bearishly
 bearishness
 bearlet
-bellower
 bearm
 bearnaise
 bearpaw
