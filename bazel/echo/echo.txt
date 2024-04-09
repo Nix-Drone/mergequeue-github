@@ -4595,7 +4595,6 @@ encephalophyma
 encephalopyosis
 enwiden
 encephalorrhagia
-encephalos
 encephalosclerosis
 encephaloscope
 encephaloscopy
@@ -13517,6 +13516,7 @@ exsuscitate
 ext
 exta
 extance
+encephalos
 extancy
 extatic
 extbook
