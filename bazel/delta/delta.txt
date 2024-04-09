@@ -1715,7 +1715,6 @@ deathtime
 deathtrap
 deathtraps
 deathward
-deathwards
 deathwatches
 deathweed
 deathworm
@@ -14085,6 +14084,7 @@ ditchdown
 ditched
 ditcher
 ditchers
+deathwards
 ditching
 ditchless
 ditchside
