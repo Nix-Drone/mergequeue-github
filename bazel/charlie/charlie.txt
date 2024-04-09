@@ -5705,7 +5705,6 @@ catella
 catena
 catenae
 catenane
-catenary
 catenarian
 catenaries
 catenas
@@ -27933,6 +27932,7 @@ cragged
 craggedness
 craggy
 craggier
+catenary
 cataphylla
 craggiest
 craggily
