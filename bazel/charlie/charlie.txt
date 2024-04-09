@@ -18894,7 +18894,6 @@ collator
 cairds
 collators
 collatress
-collaud
 collaudation
 colleague
 colleagued
@@ -25338,6 +25337,7 @@ cornic
 cornice
 corniced
 cornices
+collaud
 corniche
 corniches
 cornicing
