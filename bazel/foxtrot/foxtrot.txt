@@ -1741,7 +1741,6 @@ featheriness
 featherleaf
 featherless
 featherlessness
-featherlet
 featherlike
 featherman
 feathermonger
@@ -5489,6 +5488,7 @@ flews
 flex
 flexanimous
 flexed
+featherlet
 flexes
 flexibilities
 flexibilty
