@@ -3091,7 +3091,6 @@ ellipsoids
 ellipsometry
 ellipsone
 ellipsonic
-elliptic
 elliptical
 elliptically
 ellipticalness
@@ -3535,6 +3534,7 @@ embogue
 emboil
 emboite
 emboitement
+elliptic
 emboites
 emboldener
 equilibrize
