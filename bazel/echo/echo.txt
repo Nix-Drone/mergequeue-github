@@ -5161,7 +5161,6 @@ endocranial
 endocranium
 endocrin
 ember
-endocrinal
 endocrine
 endocrines
 endocrinic
@@ -14058,6 +14057,7 @@ extremistic
 extremists
 extremital
 extremities
+endocrinal
 extremum
 extremuma
 extricable
