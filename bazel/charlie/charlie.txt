@@ -19340,6 +19340,7 @@ color
 colorability
 colorable
 colorableness
+countercharge
 colorably
 coloradan
 coloradans
@@ -26721,7 +26722,6 @@ countercause
 counterchange
 counterchanged
 counterchanging
-countercharge
 countercharged
 countercharging
 countercharm
