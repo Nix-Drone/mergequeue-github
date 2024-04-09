@@ -3340,7 +3340,6 @@ definitising
 definitive
 definitively
 definitiveness
-definitization
 definitize
 definitized
 definitizing
@@ -11034,6 +11033,7 @@ disappropriation
 disapprovable
 disapproval
 disapprovals
+definitization
 disapproved
 disapprover
 disapproves
