@@ -3230,6 +3230,7 @@ activator
 activators
 active
 actively
+aweather
 activeness
 actives
 activin
@@ -11390,7 +11391,6 @@ amtracks
 amtracs
 amtrak
 amu
-aweather
 amuchco
 amuck
 amueixa
