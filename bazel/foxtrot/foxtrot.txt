@@ -1724,7 +1724,6 @@ feather
 featherback
 featherbed
 featherbedded
-featherbedding
 featherbird
 featherbone
 featherbrain
@@ -5955,6 +5954,7 @@ floorboards
 foveated
 floorcloth
 fala
+featherbedding
 floorcloths
 floored
 floorer
