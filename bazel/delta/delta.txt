@@ -3537,7 +3537,6 @@ defunctness
 defuse
 defused
 defuses
-defusing
 defusion
 defuze
 dims
@@ -9940,6 +9939,7 @@ dertrotheca
 dimorphotheca
 dimorphous
 dimorphs
+defusing
 dimout
 descanter
 dimouts
