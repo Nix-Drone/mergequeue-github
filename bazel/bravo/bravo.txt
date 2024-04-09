@@ -4524,7 +4524,6 @@ becroak
 becross
 becrowd
 becrowded
-becrowds
 becrown
 bearhide
 becrush
@@ -12519,6 +12518,7 @@ bonnaz
 bonne
 bonnes
 bonnet
+becrowds
 bonneted
 bonneter
 bonnethead
