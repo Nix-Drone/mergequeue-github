@@ -20373,7 +20373,6 @@ compactability
 compactable
 compacted
 compactedly
-compactedness
 compacter
 compactest
 compactible
@@ -24952,6 +24951,7 @@ cordelier
 cordeliere
 cordelle
 cordelled
+compactedness
 cordelling
 corder
 cordery
