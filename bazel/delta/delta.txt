@@ -11138,6 +11138,7 @@ disband
 disbanded
 disbanding
 disbandment
+duchess
 disbandments
 disbands
 disbar
@@ -17749,7 +17750,6 @@ duces
 duchan
 duchery
 distrouble
-duchess
 duchesse
 duchesses
 dasypaedes
