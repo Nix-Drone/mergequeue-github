@@ -5394,7 +5394,6 @@ affixion
 affixment
 affixt
 affixture
-afflate
 afflated
 afflatus
 afflatuses
@@ -8221,6 +8220,7 @@ alienates
 alienating
 alienation
 alienator
+afflate
 aliency
 aliene
 aliened
