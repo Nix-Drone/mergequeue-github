@@ -1301,7 +1301,6 @@ effare
 effascinate
 effate
 exumbrellar
-effect
 effected
 effecter
 exopeptidase
@@ -13629,6 +13628,7 @@ extern
 externa
 external
 externalisation
+effect
 externalise
 externalised
 externalising
