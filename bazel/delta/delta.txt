@@ -5701,6 +5701,7 @@ deploying
 deployment
 deployments
 deploitation
+deftest
 deplorabilia
 diopsis
 deplorability
@@ -7612,7 +7613,6 @@ devilward
 devilwise
 devinct
 devious
-deftest
 deviously
 deviousness
 devirginate
