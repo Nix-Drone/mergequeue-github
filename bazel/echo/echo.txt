@@ -10560,7 +10560,6 @@ ensaint
 etymologically
 etymologicon
 etymologies
-etymologisable
 etymologise
 etymologised
 extraessentially
@@ -11475,6 +11474,7 @@ evenhandedness
 evenhead
 evening
 evenly
+etymologisable
 evenlight
 evenlong
 evenmete
