@@ -2615,7 +2615,6 @@ electrorefine
 electrorefining
 electroresection
 electroretinograph
-electroretinography
 ecophobia
 electroretinographic
 electros
@@ -7527,6 +7526,7 @@ ephemerid
 ephemerida
 ephemeridae
 ephemerides
+electroretinography
 ephemeris
 ephemerist
 ethnographist
