@@ -5215,7 +5215,6 @@ begats
 bestrows
 begattal
 begaud
-baronizing
 begaudy
 bobbled
 begaze
@@ -8705,6 +8704,7 @@ billman
 basigenic
 billmen
 billon
+baronizing
 billons
 billot
 billow
