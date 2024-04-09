@@ -4404,6 +4404,7 @@ fishmeals
 fishmonger
 fishmouth
 fishnet
+frank
 fishnets
 fishplate
 fishpole
@@ -9385,7 +9386,6 @@ foreaccustom
 frangulaceae
 frangulic
 franion
-frank
 frankability
 frankalmoign
 frankalmoigne
