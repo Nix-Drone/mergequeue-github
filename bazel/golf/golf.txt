@@ -1749,6 +1749,7 @@ gastrodermal
 gastrodermis
 gastrodialysis
 gastrodiaphanoscopy
+gimballing
 gastrodidymus
 gravemaking
 gastrodynia
@@ -4181,7 +4182,6 @@ gimbaled
 gimbaling
 gimballed
 gurdfish
-gimballing
 gimbals
 groining
 gimbawawed
