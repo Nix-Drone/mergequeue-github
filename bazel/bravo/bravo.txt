@@ -10865,7 +10865,6 @@ blindness
 burnooses
 blindstitch
 blindstorey
-blindstory
 bubblingly
 blindstories
 blindweed
@@ -13772,6 +13771,7 @@ bowgrace
 bowhead
 bast
 borrowed
+blindstory
 bowheads
 bowyang
 bowyangs
