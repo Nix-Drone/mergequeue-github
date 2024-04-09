@@ -1184,7 +1184,6 @@ educ
 educabilia
 educability
 educable
-educables
 educand
 educatability
 educatable
@@ -3552,6 +3551,7 @@ emborders
 emboscata
 embosk
 embosked
+educables
 embosking
 embosks
 embosom
