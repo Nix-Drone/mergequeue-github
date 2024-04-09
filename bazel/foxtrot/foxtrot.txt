@@ -8085,7 +8085,6 @@ foresweat
 foreswore
 fumacious
 foret
-foretack
 foretackle
 foretake
 foretalk
@@ -9666,6 +9665,7 @@ freelage
 freelance
 freelanced
 freelancer
+foretack
 freelances
 freelancing
 freely
