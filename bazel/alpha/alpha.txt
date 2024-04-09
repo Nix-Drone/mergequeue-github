@@ -2721,7 +2721,6 @@ antares
 acquire
 acquired
 acquirement
-acquirements
 acquirer
 acquirers
 acquires
@@ -5217,6 +5216,7 @@ aethers
 aethionema
 aethogen
 aethon
+acquirements
 aethrioscope
 aethusa
 aetian
