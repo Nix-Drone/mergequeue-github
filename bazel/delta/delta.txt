@@ -3389,6 +3389,7 @@ deflectometer
 deflector
 deflectors
 deflects
+draftiness
 deflesh
 deflex
 deflexed
@@ -7228,7 +7229,6 @@ determinist
 deterministic
 deterministically
 decennially
-draftiness
 determinists
 determinoid
 diachoresis

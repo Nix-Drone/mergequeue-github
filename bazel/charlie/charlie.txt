@@ -6962,7 +6962,6 @@ centavos
 centena
 centenar
 centenary
-centenarian
 centenarians
 centenaries
 centenier
@@ -19292,6 +19291,7 @@ colonizers
 colonizing
 colonnade
 colonnaded
+centenarian
 colonnades
 colonnette
 colonopathy
