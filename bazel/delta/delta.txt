@@ -2404,6 +2404,7 @@ decimator
 decime
 decimestrial
 decimeter
+downstair
 decimeters
 decimetre
 decimolar
@@ -16342,7 +16343,6 @@ downslope
 downsman
 downsome
 downspout
-downstair
 downstairs
 downstate
 downsteepy
