@@ -2679,6 +2679,7 @@ electrothermic
 electrothermics
 enschedule
 electrothermometer
+expressional
 electrothermostat
 electrothermostatic
 electrothermotic
@@ -13349,7 +13350,6 @@ expressibly
 expressio
 expression
 expressionable
-expressional
 expressionist
 expressionistic
 expressionistically
