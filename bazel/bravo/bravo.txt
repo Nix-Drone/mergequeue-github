@@ -6633,7 +6633,6 @@ bereave
 blackneb
 bereavement
 bereavements
-bereaven
 bereaver
 bereavers
 bereaves
@@ -7189,6 +7188,7 @@ bestay
 bestayed
 bestain
 bestamp
+bereaven
 bestand
 bestar
 bestare

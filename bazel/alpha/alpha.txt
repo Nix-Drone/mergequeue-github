@@ -10805,7 +10805,6 @@ amnesics
 amnesty
 amnestic
 amnestied
-amnesties
 amnestying
 amnia
 amniac
@@ -21366,6 +21365,7 @@ aspen
 aspens
 asper
 alpigene
+amnesties
 asperate
 asperated
 asperates
