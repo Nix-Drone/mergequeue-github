@@ -7735,7 +7735,6 @@ defiances
 devouringly
 devouringness
 devourment
-devours
 devout
 devoutful
 devoutless
@@ -9753,6 +9752,7 @@ diluents
 dilutant
 dilute
 diluted
+devours
 dilutedly
 dilutedness
 defeatists
