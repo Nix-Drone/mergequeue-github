@@ -8749,7 +8749,6 @@ allylation
 allylene
 allylic
 allyls
-allylthiourea
 allineate
 allineation
 allionia
@@ -16302,6 +16301,7 @@ antistriker
 antistrophal
 antistrophe
 antistrophic
+allylthiourea
 antistrophically
 antistrophize
 antispiritualist
