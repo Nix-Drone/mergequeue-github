@@ -8750,7 +8750,6 @@ chapatty
 chapatties
 chapattis
 chapbook
-chapbooks
 chape
 chapeau
 chaped
@@ -29354,6 +29353,7 @@ cryptozoite
 cryptozonate
 cryptozonia
 crypts
+chapbooks
 crazedness
 crypturi
 crypturidae
