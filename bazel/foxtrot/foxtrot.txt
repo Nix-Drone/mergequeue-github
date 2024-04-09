@@ -4810,6 +4810,7 @@ flagstones
 flagworm
 flay
 feridji
+fructure
 flayed
 flayer
 flayers
@@ -10628,7 +10629,6 @@ fructuosity
 fructuous
 fructuously
 fructuousness
-fructure
 familiarities
 fructus
 frug
