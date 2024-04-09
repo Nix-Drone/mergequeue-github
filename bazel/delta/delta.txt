@@ -10283,7 +10283,6 @@ dioptres
 dioptry
 dioptric
 dioptrical
-dioptrically
 dioptrics
 dioptrometry
 dioptroscopy
@@ -12419,6 +12418,7 @@ disinherit
 disinheritable
 disinheritance
 disinheritances
+dioptrically
 disinherited
 disinheriting
 disinherits
