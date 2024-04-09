@@ -836,7 +836,6 @@ fanos
 fanout
 fans
 fant
-fantad
 fantaddish
 fantail
 fantailed
@@ -1031,6 +1030,7 @@ farley
 farles
 farls
 farm
+fantad
 farmable
 farmage
 farmed
