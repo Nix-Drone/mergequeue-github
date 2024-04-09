@@ -572,7 +572,6 @@ galleons
 guatambu
 galler
 gallera
-gallery
 galleria
 gallerian
 galleried
@@ -4780,6 +4779,7 @@ gyro
 gyrocar
 gelid
 gyroceran
+gallery
 goodwills
 guildsman
 gyrochrome
