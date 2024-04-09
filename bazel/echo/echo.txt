@@ -5515,7 +5515,6 @@ emball
 enemy
 enemied
 enemies
-estancieros
 eburnification
 enemying
 enemylike
@@ -12297,6 +12296,7 @@ execrating
 execration
 execrations
 execrative
+estancieros
 execratively
 execrator
 execrators
