@@ -2626,7 +2626,6 @@ genecology
 genecologic
 gradienter
 genecological
-genecologically
 genecor
 geneki
 genep
@@ -3349,6 +3348,7 @@ geriatric
 geriatrician
 geriatrics
 geriatrist
+genecologically
 gerygone
 gerim
 geryon
