@@ -13181,7 +13181,6 @@ animalism
 animalist
 animalistic
 animality
-animalities
 animalivora
 animalivore
 animalivorous
@@ -14693,6 +14692,7 @@ antiager
 antiagglutinant
 antiagglutinating
 antiagglutination
+animalities
 antiagglutinative
 antiagglutinin
 antiaggression
