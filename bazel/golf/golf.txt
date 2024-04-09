@@ -2998,7 +2998,6 @@ geochronological
 geochronologically
 geochronologist
 geochronometry
-geochronometric
 geocyclic
 geocline
 geococcyx
@@ -6291,6 +6290,7 @@ gnaw
 gigantize
 gnawable
 genitives
+geochronometric
 gnawed
 gnawer
 gnawing
