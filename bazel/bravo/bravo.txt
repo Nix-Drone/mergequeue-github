@@ -7843,7 +7843,6 @@ biauriculate
 biaxal
 biaxial
 biaxiality
-biaxially
 biaxillary
 bib
 bibacious
@@ -15491,6 +15490,7 @@ bryophytes
 bryophytic
 brios
 bryozoa
+biaxially
 bryozoan
 bryozoans
 bryozoon
