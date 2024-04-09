@@ -8779,7 +8779,6 @@ chapelling
 chapelman
 chapelmaster
 chapelry
-chapelries
 chapels
 chapelward
 chaperno
@@ -17167,6 +17166,7 @@ coalified
 coalifies
 coalifying
 coaling
+chapelries
 coalite
 coalition
 coalitional
