@@ -666,7 +666,6 @@ familiarise
 familiarised
 familiariser
 familiarising
-familiarisingly
 familiarism
 familiarity
 familiarization
@@ -1392,6 +1391,7 @@ fatihah
 formicinae
 fatil
 flathe
+flatnose
 fatiloquent
 fatima
 fating
@@ -1529,6 +1529,7 @@ fauterer
 fauteuil
 fauteuils
 fautor
+fictor
 fautorship
 fauve
 fauves
@@ -2107,7 +2108,6 @@ fellest
 fellfare
 felly
 felliducous
-fellies
 fellifluous
 felling
 fellingbird
@@ -5864,8 +5864,8 @@ fiercly
 flocculated
 flocculating
 flocculation
+fellies
 freshman
-flatnose
 flocculator
 floccule
 flocculence
@@ -8815,6 +8815,7 @@ forzato
 fosh
 fosie
 fosite
+furnacemen
 foss
 fossa
 flunks
@@ -9744,6 +9745,7 @@ frey
 freya
 freyalite
 freibergite
+familiarisingly
 freycinetia
 freieslebenite
 freiezlebenhe
@@ -10407,7 +10409,6 @@ frontenis
 fronter
 frontier
 frontierless
-fictor
 forgivableness
 fiddley
 flowerfence
@@ -11423,7 +11424,6 @@ furmity
 furmities
 furnace
 furnacelike
-furnacemen
 febrifuges
 furnaces
 furnacing

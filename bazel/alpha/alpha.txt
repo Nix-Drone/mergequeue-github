@@ -2250,7 +2250,6 @@ achillea
 achillean
 agateware
 achilleas
-achilleid
 achilleine
 achilles
 achillize
@@ -4318,6 +4317,7 @@ adorner
 adorners
 adorning
 adorningly
+achilleid
 adornment
 amusively
 antagonisation
@@ -8377,7 +8377,6 @@ aljamia
 aljamiado
 aljamiah
 aljoba
-aljofaina
 alk
 alkahest
 alkahestic
@@ -23369,6 +23368,7 @@ augmentor
 augments
 alarbus
 augrim
+azygobranchia
 augur
 augural
 augurate
@@ -23438,6 +23438,7 @@ allesthesia
 aulophyte
 aulophobia
 aulostoma
+aljofaina
 aulostomatidae
 aulostomi
 aulostomid
@@ -25232,7 +25233,6 @@ azide
 azides
 azido
 aziethane
-azygobranchia
 azygobranchiata
 azygobranchiate
 azygomatous

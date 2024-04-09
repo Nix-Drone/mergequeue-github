@@ -629,6 +629,7 @@ gallies
 gallify
 gallification
 galliform
+gunpowder
 galliformes
 greetingless
 galligaskin
@@ -3474,7 +3475,6 @@ gerodontics
 gerodontology
 geromorphism
 geronomite
-gerontal
 gerontes
 gerontic
 gerontine
@@ -8096,6 +8096,7 @@ granulization
 granulize
 granuloadipose
 granuloblast
+gerontal
 granuloblastic
 granulocyte
 granulocytic
@@ -10542,7 +10543,6 @@ gerusia
 gunplays
 gunpoint
 gunpoints
-gunpowder
 gunpowdery
 gyrally
 gunpowderous
