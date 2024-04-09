@@ -2120,7 +2120,6 @@ elasticity
 elasticize
 elasticized
 elasticizer
-elasticizes
 elasticizing
 elasticness
 elasticum
@@ -13286,6 +13285,7 @@ exportations
 exported
 exporter
 exporters
+elasticizes
 entireties
 exporting
 exports
