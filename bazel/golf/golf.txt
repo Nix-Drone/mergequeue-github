@@ -5905,7 +5905,6 @@ glosser
 glossers
 glosses
 glossy
-glossic
 glossier
 glossies
 glossiest
@@ -7198,6 +7197,7 @@ gorfly
 gorge
 gorgeable
 gorged
+glossic
 gorgeous
 gorgeousness
 gorgeret
