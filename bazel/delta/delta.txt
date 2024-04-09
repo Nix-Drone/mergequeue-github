@@ -14617,7 +14617,6 @@ docious
 docity
 dock
 dockage
-dockages
 docked
 docken
 docker
@@ -15203,6 +15202,7 @@ dolorifuge
 dolorimeter
 dolorimetry
 dolorimetric
+dockages
 dolorimetrically
 dolorogenic
 doloroso
