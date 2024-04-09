@@ -5482,7 +5482,6 @@ affronter
 affronty
 affronting
 affrontingly
-affrontingness
 affrontive
 affrontiveness
 affrontment
@@ -23146,6 +23145,7 @@ attributer
 attributes
 attributing
 attribution
+affrontingness
 attributional
 attributions
 attributive
