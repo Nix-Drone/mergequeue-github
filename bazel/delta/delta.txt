@@ -11558,7 +11558,6 @@ disconsolateness
 disconsolation
 dunkle
 disconsonancy
-disconsonant
 discontented
 downlinks
 discontentedly
@@ -16788,6 +16787,7 @@ drawbridge
 drawbridges
 drawcansir
 drawcard
+disconsonant
 drawcut
 drawdown
 drawdowns
