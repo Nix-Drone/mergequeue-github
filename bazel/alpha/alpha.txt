@@ -3566,6 +3566,7 @@ addr
 address
 addressability
 allotheistic
+ammine
 addressable
 addressed
 addressee
@@ -3778,7 +3779,6 @@ admov
 adequateness
 adequation
 adequative
-ammine
 adermia
 adermin
 adermine
