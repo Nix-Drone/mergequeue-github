@@ -858,7 +858,6 @@ ectocrine
 ectocuneiform
 ectocuniform
 ectodactylism
-ectoderm
 ectodermal
 ectodermosis
 ectoentad
@@ -4939,6 +4938,7 @@ electrometeor
 encumbrancer
 encumbrous
 encup
+ectoderm
 encurl
 encurtain
 encushion
