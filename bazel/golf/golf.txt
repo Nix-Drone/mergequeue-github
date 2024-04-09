@@ -2994,7 +2994,6 @@ geochemically
 geochemist
 geochemists
 geochrony
-geochronic
 geochronology
 geochronologic
 geochronological
@@ -9129,6 +9128,7 @@ gentianal
 gripsacks
 gript
 griqua
+geochronic
 griquaite
 griqualander
 gonk
