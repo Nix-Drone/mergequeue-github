@@ -1390,7 +1390,6 @@ baldhead
 baldheaded
 baldheads
 baldy
-baldie
 baldish
 baldling
 baldmoney
@@ -5478,6 +5477,7 @@ baculum
 bey
 bindi
 beice
+baldie
 beydom
 bulbotuber
 beyerite
