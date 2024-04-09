@@ -6415,6 +6415,7 @@ ensheaths
 enshell
 enshelter
 enshield
+enumerating
 enshielded
 enshielding
 enshrined
@@ -7147,7 +7148,6 @@ enumerate
 enumerated
 enumerates
 earthfast
-enumerating
 enumeration
 enumerations
 enumerative
