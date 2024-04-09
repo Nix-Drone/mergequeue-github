@@ -895,7 +895,6 @@ fantoms
 fanum
 fanums
 fanwe
-fetch
 fanweed
 fanwise
 fanwork
@@ -6451,6 +6450,7 @@ fluorescence
 fluorescent
 fluorescer
 fluoresces
+fetch
 fluorescigenic
 fluorescigenous
 fluorescin
