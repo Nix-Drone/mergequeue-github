@@ -8778,7 +8778,6 @@ forwardness
 forwards
 forwardsearch
 forwarn
-forwaste
 forwean
 forwear
 forwearied
@@ -10631,6 +10630,7 @@ fibrocrystalline
 frugal
 frugalism
 fairylands
+forwaste
 frugalist
 flatnesses
 frugality
