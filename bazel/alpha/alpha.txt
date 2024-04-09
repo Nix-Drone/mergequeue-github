@@ -5600,7 +5600,6 @@ afterbodies
 afterbrain
 afterbreach
 afterbreast
-afterburner
 afterburners
 afterburning
 aftercare
@@ -6854,6 +6853,7 @@ airbuses
 airbusses
 aircheck
 airchecks
+afterburner
 aircoach
 aircoaches
 aircraft
