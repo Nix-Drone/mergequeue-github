@@ -2631,7 +2631,6 @@ decompensations
 decompensatory
 decompile
 decompiler
-decomplex
 decomponent
 decomponible
 decomposability
@@ -18505,6 +18504,7 @@ durwaun
 durzada
 durzi
 dusack
+decomplex
 duscle
 dusenwind
 dalteen
