@@ -3704,7 +3704,6 @@ battak
 battakhin
 battalias
 battalion
-battalions
 battarism
 battarismus
 batteau
@@ -11814,6 +11813,7 @@ bodonid
 bodrag
 bodrage
 bods
+battalions
 bodstick
 baalite
 bodword
