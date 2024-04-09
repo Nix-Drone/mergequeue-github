@@ -7284,7 +7284,6 @@ cephalofacial
 cephalogram
 cephalograph
 cephalohumeral
-cephalohumeralis
 cephaloid
 cephalology
 cephalom
@@ -8294,6 +8293,7 @@ chalicothere
 chalicotheriid
 chalicotheriidae
 chalicotherioid
+cephalohumeralis
 chalicotherium
 courtyard
 chalina
