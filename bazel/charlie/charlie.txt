@@ -4788,7 +4788,6 @@ cartelizing
 cartellist
 cartels
 carter
-carterly
 carters
 cartes
 cartesian
@@ -23947,6 +23946,7 @@ convally
 convect
 convected
 convecting
+carterly
 convection
 convectional
 convective
