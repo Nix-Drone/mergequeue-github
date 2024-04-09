@@ -2527,7 +2527,6 @@ djalmaite
 declines
 declining
 declinograph
-declinometer
 declivate
 declive
 daer
@@ -10977,6 +10976,7 @@ disallowableness
 disallowance
 disallowances
 disallowed
+declinometer
 dramatised
 disallows
 disaltern
