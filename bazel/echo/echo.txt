@@ -8263,7 +8263,6 @@ emaceration
 episternite
 episternum
 episthotonos
-epistylar
 epistilbite
 epistyle
 epistyles
@@ -12663,6 +12662,7 @@ exochorda
 exochorion
 exocyclic
 exocyclica
+epistylar
 engraftation
 exocycloida
 exocytosis
