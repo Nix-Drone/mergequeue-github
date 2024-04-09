@@ -1114,7 +1114,6 @@ baiocco
 bayok
 bayonet
 bayoneted
-bayoneteer
 bayonets
 bayonetted
 bayonetting
@@ -2391,6 +2390,7 @@ barbers
 banquetings
 barbershops
 barbes
+bayoneteer
 barbet
 barbets
 barbette
