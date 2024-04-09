@@ -14956,6 +14956,7 @@ breeches
 breechesflower
 breechesless
 breeching
+bugweed
 breechless
 breechloader
 breechloading
@@ -16902,7 +16903,6 @@ bugre
 bugs
 bugseed
 bugsha
-bugweed
 bugwort
 buhl
 buhlbuhl

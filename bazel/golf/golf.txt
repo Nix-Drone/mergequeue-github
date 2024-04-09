@@ -495,7 +495,6 @@ galewort
 galga
 galgal
 galgulidae
-galyacs
 galyak
 galyaks
 galianes
@@ -8282,6 +8281,7 @@ grassfinch
 grassfire
 grassflat
 grassflower
+galyacs
 grasshook
 grasshop
 grasshopper
