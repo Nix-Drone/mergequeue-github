@@ -1456,7 +1456,6 @@ fairtime
 fatwood
 faubourg
 faubourgs
-faucal
 faucals
 faucet
 faucets
@@ -10437,6 +10436,7 @@ fatimid
 frontogenesis
 frontolysis
 frontomalar
+faucal
 frontomallar
 frontomaxillary
 frontomental
