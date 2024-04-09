@@ -4407,7 +4407,6 @@ dematerialise
 decubation
 dematerialised
 dematerialising
-dematerialization
 dematerialize
 dematerialized
 dematerializing
@@ -14398,6 +14397,7 @@ divisionist
 divisionistic
 divisions
 divisive
+dematerialization
 divisively
 divisiveness
 divisor
