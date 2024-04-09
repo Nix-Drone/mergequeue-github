@@ -19671,6 +19671,7 @@ combinators
 combind
 combine
 combined
+condyloid
 combinedly
 cations
 combinedness
@@ -21611,7 +21612,6 @@ condyle
 condylectomy
 condyles
 condylion
-condyloid
 condyloma
 condylomas
 condylomata
