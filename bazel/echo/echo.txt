@@ -8634,7 +8634,6 @@ equicaloric
 equichangeable
 equicohesive
 equicontinuous
-equiconvex
 equicostate
 equicrural
 equicurve
@@ -8828,6 +8827,7 @@ equivocalness
 equivocate
 excoriable
 equivocated
+equiconvex
 equivocates
 equivocatingly
 equivocation
