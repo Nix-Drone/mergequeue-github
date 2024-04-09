@@ -3727,7 +3727,6 @@ filles
 fillet
 filleted
 filleting
-filletlike
 fillets
 filletster
 filleul
@@ -6161,6 +6160,7 @@ flotsen
 flotson
 flotten
 flotter
+filletlike
 flounce
 flounced
 flounces
