@@ -4045,7 +4045,6 @@ emotioned
 emotionist
 emotionize
 emotionless
-emotionlessness
 emotions
 emotiovascular
 emotively
@@ -11531,6 +11530,7 @@ evergreens
 every
 everyday
 everydayness
+emotionlessness
 everyhow
 everylike
 everyman
