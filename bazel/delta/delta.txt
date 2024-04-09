@@ -3801,7 +3801,6 @@ deification
 deifications
 deificatory
 deified
-deifier
 deifiers
 deifies
 deifying
@@ -17037,6 +17036,7 @@ dryadic
 dryads
 drias
 dryas
+deifier
 dryasdust
 drib
 dribber
