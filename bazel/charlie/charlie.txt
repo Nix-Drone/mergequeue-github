@@ -9272,7 +9272,6 @@ chattelship
 chatter
 cerned
 chatterbag
-chatterbox
 chatterboxes
 chattered
 chincapin
@@ -23496,6 +23495,7 @@ continually
 continualness
 continuance
 continuancy
+chatterbox
 continuando
 continuantly
 continuate
