@@ -2922,6 +2922,7 @@ feudatories
 feuded
 feudee
 feuder
+flock
 feuding
 feudists
 feudovassalism
@@ -5871,7 +5872,6 @@ flocculose
 flocculous
 flocculus
 floccus
-flock
 flockbed
 flocker
 flocky
