@@ -1535,6 +1535,7 @@ egests
 egg
 eggars
 eggbeater
+endosternum
 eggbeaters
 eggcrate
 eggcup
@@ -5373,7 +5374,6 @@ endosteoma
 endosteomas
 endosteomata
 extrascientific
-endosternum
 endosteum
 endostylar
 endostyle
