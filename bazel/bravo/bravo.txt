@@ -9379,7 +9379,6 @@ birdcage
 birdcages
 birdcall
 birdcalls
-birdcatcher
 birdcatching
 birdclapper
 birdcraft
@@ -10886,6 +10885,7 @@ blips
 blirt
 bliss
 branchiostegous
+birdcatcher
 blisses
 blissful
 blissfully
