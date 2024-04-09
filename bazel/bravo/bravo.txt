@@ -1277,7 +1277,6 @@ balanced
 balancedness
 balancelle
 balancement
-balancer
 balancers
 balancing
 balander
@@ -7234,6 +7233,7 @@ bestiaries
 bestiarist
 bestick
 besticking
+balancer
 bestill
 besting
 bestirred
