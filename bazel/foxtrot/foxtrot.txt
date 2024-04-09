@@ -26,7 +26,6 @@ fabraea
 fabric
 fabricable
 fabricant
-fabricated
 fabricates
 fabricating
 fabrication
@@ -1361,6 +1360,7 @@ fellani
 fathoming
 fathomless
 faciocervical
+fabricated
 fathomlessly
 fathomlessness
 fathoms
