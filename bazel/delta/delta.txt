@@ -4810,7 +4810,6 @@ demonetisation
 demonetise
 demonetised
 demonetising
-demonetization
 demonetize
 demonetized
 demonetizes
@@ -16010,6 +16009,7 @@ doubtably
 doubtance
 doubted
 doubtedly
+demonetization
 doubter
 doubters
 doubtful
