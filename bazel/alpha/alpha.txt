@@ -3587,7 +3587,6 @@ adducer
 adducers
 adduces
 adducible
-adducing
 adduct
 adducted
 adducting
@@ -16060,6 +16059,7 @@ antireaction
 antireactionary
 antireactionaries
 antirealism
+adducing
 antirealist
 antirealistic
 arbitrageur
