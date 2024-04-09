@@ -2544,7 +2544,6 @@ acknew
 acknow
 acknowing
 acknowledge
-acknowledgeable
 acknowledged
 acknowledgedly
 acknowledgements
@@ -12853,6 +12852,7 @@ angiotonin
 angiotribe
 angiotripsy
 angiotrophic
+acknowledgeable
 angiport
 angka
 angkhak
