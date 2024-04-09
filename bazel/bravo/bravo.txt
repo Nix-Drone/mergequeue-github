@@ -2239,7 +2239,6 @@ baptismal
 baptismally
 baptisms
 baptist
-baptistery
 baptistic
 baptistry
 baptistries
@@ -9147,6 +9146,7 @@ bioplasm
 bioplasmic
 bioplasms
 bioplast
+baptistery
 bioplastic
 biopoiesis
 biopotential
