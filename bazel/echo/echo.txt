@@ -3070,6 +3070,7 @@ ellipsoids
 ellipsometry
 ellipsone
 ellipsonic
+eponymic
 elliptic
 elliptical
 elliptically
@@ -8481,7 +8482,6 @@ eponge
 eponychium
 eponym
 eponymy
-eponymic
 eponymies
 eponymism
 eponymist
