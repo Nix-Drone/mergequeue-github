@@ -1438,7 +1438,6 @@ fattiness
 fatting
 fattishness
 fattrels
-fatuate
 fatuism
 fatuity
 futhork
@@ -4894,6 +4893,7 @@ flamenco
 fooless
 flamencos
 flamens
+fatuate
 flamenship
 forehood
 flameout
