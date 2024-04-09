@@ -139,6 +139,7 @@ cableways
 cabling
 cablish
 cabman
+campmaster
 cabmen
 cabob
 cabobs
@@ -2070,7 +2071,6 @@ calcaneus
 cample
 chaetopoda
 campman
-campmaster
 campo
 campodea
 campodean
