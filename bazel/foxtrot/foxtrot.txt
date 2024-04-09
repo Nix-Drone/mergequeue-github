@@ -1281,7 +1281,6 @@ fastish
 fastland
 fastly
 fastnacht
-fastness
 fastnesses
 feed
 frogskins
@@ -5372,6 +5371,7 @@ fleeching
 fleechment
 fleecy
 fleecier
+fastness
 fleeciest
 fleecily
 fleeciness
