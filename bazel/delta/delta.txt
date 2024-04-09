@@ -6350,7 +6350,6 @@ derogately
 derogates
 derogating
 derogation
-derogations
 derogative
 derogatively
 derogator
@@ -8169,6 +8168,7 @@ diagnostician
 diagnosticians
 diagnostics
 diagometer
+derogations
 diagonal
 diagonalizable
 diagonalization
