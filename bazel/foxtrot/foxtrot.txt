@@ -4130,6 +4130,7 @@ firbolg
 firca
 foregirth
 fyrd
+fowage
 fyrdung
 faldistory
 fire
@@ -9084,7 +9085,6 @@ foveolets
 fovilla
 fow
 frangibleness
-fowage
 feminists
 fowells
 fowent
