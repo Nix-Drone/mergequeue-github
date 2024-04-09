@@ -932,6 +932,7 @@ gamenesses
 games
 gamesman
 guruship
+grocerly
 gamesmanship
 gamesome
 gamesomely
@@ -9244,7 +9245,6 @@ grocery
 groceries
 groceryman
 grocerymen
-grocerly
 grocers
 gedanken
 grockle
