@@ -10380,6 +10380,7 @@ diphenylhydantoin
 diphenylmethane
 diphenylquinomethane
 diphenyls
+dodecane
 diphenylthiourea
 diphenol
 diphenoxylate
@@ -14757,7 +14758,6 @@ dodecahydrate
 dodecahydrated
 dodecamerous
 dodecanal
-dodecane
 dodecanesian
 dodecanoic
 duplicator
