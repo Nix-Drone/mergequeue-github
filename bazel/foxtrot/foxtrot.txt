@@ -6925,6 +6925,7 @@ folio
 foliobranch
 foliobranchiate
 foliocellosis
+forejudger
 folioed
 folioing
 foliolate
@@ -7758,7 +7759,6 @@ fac
 foreiron
 forejudge
 forejudged
-forejudger
 forejudging
 forejudgment
 forekeel
