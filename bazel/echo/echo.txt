@@ -6950,7 +6950,6 @@ entoperipheral
 entophytal
 entophyte
 entophytic
-entophytically
 entophytous
 entopic
 entoplasm
@@ -11974,6 +11973,7 @@ exceptionary
 exceptionless
 exceptions
 exceptious
+entophytically
 exceptiousness
 exceptive
 exceptiveness
