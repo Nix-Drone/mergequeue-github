@@ -3937,7 +3937,6 @@ bazookamen
 bazookas
 bazzite
 bb
-bbl
 bbs
 bcd
 bcf
@@ -11018,6 +11017,7 @@ blocks
 blockship
 blocs
 blodite
+bbl
 bloedite
 blok
 bloke
