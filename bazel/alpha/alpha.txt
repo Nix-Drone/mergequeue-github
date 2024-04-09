@@ -2044,7 +2044,6 @@ acetylator
 acetylbenzene
 acetylbenzoate
 acetylbenzoic
-acetylbiuret
 aphetism
 acetylcarbazole
 acetylcellulose
@@ -23929,6 +23928,7 @@ autocycle
 autocide
 autocinesis
 autocystoplasty
+acetylbiuret
 autocytolysis
 aerobion
 autocytolytic
