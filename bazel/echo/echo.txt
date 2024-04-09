@@ -769,7 +769,6 @@ ecossaise
 ecostate
 ecotype
 ecotypes
-ecotypic
 englerophoenix
 ecotipically
 ecotypically
@@ -7206,6 +7205,7 @@ envenomation
 envenomed
 envenoming
 envenomization
+ecotypic
 envenomous
 envenoms
 enventual
