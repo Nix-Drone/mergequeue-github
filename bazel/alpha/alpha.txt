@@ -6031,7 +6031,6 @@ agglomeration
 agglomerative
 agglomerator
 autoing
-agglutinability
 agglutinable
 agglutinant
 apical
@@ -16985,6 +16984,7 @@ astrographic
 apicultural
 apiculture
 apiculturist
+agglutinability
 apiculus
 apidae
 apiece
