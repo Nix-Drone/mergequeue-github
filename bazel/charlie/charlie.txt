@@ -5263,7 +5263,6 @@ castlet
 castleward
 castlewards
 castlewise
-castling
 castock
 castoff
 castoffs
@@ -16764,6 +16763,7 @@ clovers
 cloves
 clovewort
 clow
+castling
 clowder
 clowders
 clower
