@@ -2743,6 +2743,7 @@ elegiambic
 epagoge
 elegiambus
 emends
+equispaced
 elegibility
 elegies
 elegious
@@ -8790,7 +8791,6 @@ equisized
 equison
 equisonance
 equisonant
-equispaced
 equispatial
 extradicting
 equitability
