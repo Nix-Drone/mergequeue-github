@@ -9743,7 +9743,6 @@ byssuses
 bist
 bistable
 bystander
-bystanders
 bistate
 bistephanic
 bister
@@ -10151,6 +10150,7 @@ babooism
 blacklight
 blacklist
 blacklisted
+bystanders
 blacklister
 blacklisting
 blacklists
