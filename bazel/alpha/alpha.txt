@@ -6626,7 +6626,6 @@ ahi
 ahimsa
 ahimsas
 ahind
-ahint
 ahir
 ahistoric
 ahistorical
@@ -6861,6 +6860,7 @@ aircraftsmen
 aircraftswoman
 aircraftswomen
 aircraftwoman
+ahint
 aircrew
 aircrewman
 aircrewmen
