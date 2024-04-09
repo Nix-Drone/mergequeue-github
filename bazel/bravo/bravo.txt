@@ -3476,7 +3476,6 @@ bastionet
 bastions
 bastite
 bastnaesite
-bastnasite
 basto
 beworms
 baston
@@ -8539,6 +8538,7 @@ bilestone
 bileve
 bilewhit
 bilged
+bastnasite
 bilges
 bootjack
 bilgeway
