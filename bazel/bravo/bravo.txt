@@ -14782,6 +14782,7 @@ breadness
 breadnut
 breadnuts
 breadroot
+bullety
 breads
 breadseller
 breadstitch
@@ -17103,7 +17104,6 @@ bulleted
 bullethead
 bulletheadedness
 bogman
-bullety
 bulletined
 bulleting
 bulletining
