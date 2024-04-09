@@ -7049,7 +7049,6 @@ desugars
 desulfovibrio
 desulfur
 dudeen
-desulfurate
 desulfurated
 desulfurating
 desulfuration
@@ -13279,6 +13278,7 @@ disquisition
 disquisitional
 disquisitionary
 disquisitions
+desulfurate
 disquisitive
 disquisitively
 disquisitor
