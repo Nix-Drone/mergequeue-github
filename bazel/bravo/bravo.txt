@@ -3771,7 +3771,6 @@ battleplane
 beatus
 battler
 battlers
-battles
 battleship
 battleships
 battlesome
@@ -8010,6 +8009,7 @@ bicameralism
 bicameralist
 bicamerist
 bicapitate
+battles
 bicapsular
 bicarb
 bicarbide
