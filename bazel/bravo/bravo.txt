@@ -3050,7 +3050,6 @@ bartholomite
 bartisan
 bartisans
 bartizan
-bartizaned
 bartizans
 bartlett
 balked
@@ -9543,6 +9542,7 @@ byrsonima
 birt
 birth
 birthbed
+bartizaned
 birthday
 birthdays
 birthed
