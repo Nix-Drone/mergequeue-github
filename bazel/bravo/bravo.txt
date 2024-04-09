@@ -3764,7 +3764,6 @@ battleful
 battleground
 battlegrounds
 battlement
-battlemented
 battlements
 battlepiece
 battleplane
@@ -9063,6 +9062,7 @@ biol
 biolinguistics
 biolyses
 bludgeoneer
+battlemented
 biolite
 biolith
 biolytic
