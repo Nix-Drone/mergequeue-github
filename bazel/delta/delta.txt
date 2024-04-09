@@ -5263,6 +5263,7 @@ density
 densities
 densitometer
 densitometers
+discabinet
 densitometric
 densus
 dent
@@ -11222,7 +11223,6 @@ disbutton
 defervesce
 dibromid
 disc
-discabinet
 discage
 discal
 discalceate

@@ -2386,7 +2386,6 @@ feretra
 frontes
 feretrum
 ferfel
-ferforth
 fremescent
 ferganite
 fergus
@@ -11732,6 +11731,7 @@ fuzz
 fuzzball
 fuzzed
 fuzzes
+ferforth
 fuzzy
 fuzzier
 fuzziest
