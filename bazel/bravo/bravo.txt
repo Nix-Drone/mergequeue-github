@@ -1600,7 +1600,6 @@ bijous
 ballistician
 ballisticians
 beaune
-ballistics
 ballistocardiogram
 ballistocardiograph
 ballistocardiography
@@ -12639,6 +12638,7 @@ book
 bookable
 bookbind
 bookbinder
+ballistics
 bookbindery
 baianism
 bookbinderies
