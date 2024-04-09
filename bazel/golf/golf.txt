@@ -1000,7 +1000,6 @@ gammelost
 gammerel
 gammers
 gammerstang
-gammexane
 gammy
 gamming
 gammock
@@ -6596,6 +6595,7 @@ goldbricker
 goldbrickers
 goldbricks
 goldbug
+gammexane
 goldbugs
 goldcrest
 goldeye
