@@ -4802,7 +4802,6 @@ enclosed
 enclosers
 encloses
 enclosing
-enclosure
 enclosures
 enclothe
 encloud
@@ -12673,6 +12672,7 @@ exocoelom
 exocoelum
 exocoetidae
 exocoetus
+enclosure
 exocone
 exocrine
 endokaryogamy
