@@ -2334,7 +2334,6 @@ geysers
 geisha
 geishas
 geisothermal
-gunroom
 geissoloma
 geissolomataceae
 geissolomataceous
@@ -8749,6 +8748,7 @@ gregarian
 gregarina
 gregarinae
 gregarinaria
+gunroom
 gregarine
 gregarinida
 gregarinidal
