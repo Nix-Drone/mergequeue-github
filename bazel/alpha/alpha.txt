@@ -1793,7 +1793,6 @@ accumb
 accumbency
 accumbent
 accumber
-accumulable
 accumulate
 accumulated
 accumulating
@@ -3316,6 +3315,7 @@ antizymic
 aculeae
 aculeata
 aculeated
+accumulable
 ambassiate
 aculei
 aculeiform
