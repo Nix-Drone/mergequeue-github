@@ -2785,6 +2785,7 @@ barographs
 baroko
 barolo
 barology
+billhead
 barolong
 baromacrometer
 barometer
@@ -8654,7 +8655,6 @@ billetwood
 billfish
 billfishes
 billfolds
-billhead
 billheading
 billheads
 billholder
