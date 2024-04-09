@@ -951,7 +951,6 @@ ectrogeny
 ectrogenic
 ectromelia
 ectromelian
-exculpatory
 ectromelic
 ectromelus
 ectropion
@@ -3987,6 +3986,7 @@ emissivity
 emissory
 emittance
 emitted
+exculpatory
 emittent
 emitter
 emitting
