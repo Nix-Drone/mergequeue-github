@@ -14031,6 +14031,7 @@ ciphers
 cyphers
 ciphertext
 ciphertexts
+copus
 cyphomandra
 cyphonautes
 ciphony
@@ -24744,7 +24745,6 @@ conquian
 copulatory
 copunctal
 copurchaser
-copus
 coque
 coquecigrue
 coquelicot
