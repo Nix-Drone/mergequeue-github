@@ -4937,6 +4937,7 @@ cascabels
 cascable
 cascables
 cascadable
+chapelries
 cascade
 cascaded
 cascades
@@ -8772,7 +8773,6 @@ chapelling
 chapelman
 chapelmaster
 chapelry
-chapelries
 chapels
 chapelward
 chaperno
