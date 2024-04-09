@@ -1066,7 +1066,6 @@ farmstead
 farmsteads
 farmtown
 farmwife
-farnesol
 farnesols
 farness
 farnesses
@@ -10642,6 +10641,7 @@ frugally
 frugalness
 fruggan
 frugged
+farnesol
 fruggin
 frugging
 frugiferous
