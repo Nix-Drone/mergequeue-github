@@ -21905,7 +21905,6 @@ confessionals
 confessionary
 confessionaries
 confessionist
-cleansed
 confessions
 confessor
 confessory
@@ -26007,6 +26006,7 @@ coshers
 coshes
 coshing
 cosy
+cleansed
 cosie
 cosier
 cosies
