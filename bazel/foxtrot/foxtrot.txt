@@ -2573,7 +2573,6 @@ ferrihemoglobin
 ferrihydrocyanic
 ferryhouse
 ferrying
-ferrimagnet
 ferrimagnetic
 ferrimagnetically
 ferrimagnetism
@@ -7466,6 +7465,7 @@ forcive
 forcleave
 forclose
 forconceit
+ferrimagnet
 forcut
 ford
 fordable
