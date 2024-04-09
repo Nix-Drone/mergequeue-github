@@ -1447,7 +1447,6 @@ dcbname
 dclass
 dcollet
 dcolletage
-dcor
 ddname
 damnatory
 ddt
@@ -14211,6 +14210,7 @@ diurne
 diurnule
 diuron
 diurons
+dcor
 diuturnity
 div
 diva
