@@ -2364,7 +2364,6 @@ feoffeeship
 feoffer
 feoffing
 fetlow
-feoffment
 feoffor
 feoffors
 feoffs
@@ -5280,6 +5279,7 @@ flaxlike
 flaxman
 flaxseeds
 flaxtail
+feoffment
 flaxweed
 flaxwife
 flaxwoman
