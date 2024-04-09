@@ -5793,7 +5793,6 @@ english
 englishable
 englisher
 endoplasmic
-englishes
 englishhood
 englishism
 englishize
@@ -13270,6 +13269,7 @@ exponential
 exponentially
 exponentials
 exponentiate
+englishes
 exponentiated
 ectocyst
 exponentiates
