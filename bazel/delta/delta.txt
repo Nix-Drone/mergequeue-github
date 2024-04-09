@@ -5789,6 +5789,7 @@ deposals
 defats
 depose
 deposed
+disorganized
 deposer
 deposers
 deposes
@@ -12810,7 +12811,6 @@ disorganised
 disorganiser
 disorganization
 disorganize
-disorganized
 disorganizer
 disorganizers
 detorsion
