@@ -2091,7 +2091,6 @@ bankerdom
 bankeress
 bankers
 banket
-bankfull
 banky
 banking
 bankings
@@ -6179,6 +6178,7 @@ beneficently
 benefices
 beneficiaire
 blacker
+bankfull
 beneficial
 beneficially
 beneficialness
