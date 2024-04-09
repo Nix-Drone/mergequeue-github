@@ -4288,7 +4288,6 @@ firma
 firmament
 firmaments
 firmance
-firmans
 firmarii
 firmarius
 firmation
@@ -5067,6 +5066,7 @@ flashlight
 flashlights
 flashlike
 forellenstein
+firmans
 flashness
 flashover
 feint
