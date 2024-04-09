@@ -1651,7 +1651,6 @@ fcomp
 fconv
 fconvert
 farcin
-fcp
 fcs
 fdname
 fdnames
@@ -7834,6 +7833,7 @@ forenews
 forenight
 frondivorous
 forenoon
+fcp
 forenoons
 forenote
 forenoted
