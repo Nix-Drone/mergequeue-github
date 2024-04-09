@@ -8660,7 +8660,6 @@ diatomic
 diatomicity
 diatomin
 diatomine
-diatomist
 diatomite
 diatomous
 diatoms
@@ -9802,6 +9801,7 @@ dimanganion
 dimanganous
 dimaris
 dimastigate
+diatomist
 dimatis
 dinmont
 dimber
