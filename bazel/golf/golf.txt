@@ -2674,7 +2674,6 @@ generalization
 generalizations
 generalize
 generalizeable
-generalized
 generalizer
 generalizers
 generalizing
@@ -8940,6 +8939,7 @@ grieves
 grieveship
 grievingly
 grievous
+generalized
 grievously
 grievousness
 griff
