@@ -5125,7 +5125,6 @@ befoam
 befog
 befogged
 befogging
-befogs
 batoid
 befool
 befoolable
@@ -16321,6 +16320,7 @@ brumstane
 brumstone
 brunch
 brunched
+befogs
 brunches
 brunching
 brune
