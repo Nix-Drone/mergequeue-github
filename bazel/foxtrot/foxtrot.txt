@@ -5345,7 +5345,6 @@ flectionless
 flections
 flector
 fledge
-fledged
 fledgeless
 fledgeling
 fledgy
@@ -8103,6 +8102,7 @@ foretelling
 foretells
 forethink
 forethinker
+fledged
 forethinking
 forethough
 forethought
