@@ -6028,7 +6028,6 @@ bemixed
 bemixes
 bemixt
 bemoan
-bemoanable
 bemoaned
 bemoaner
 bemoaning
@@ -9389,6 +9388,7 @@ birdbaths
 birdberry
 birdbrained
 birdbrains
+bemoanable
 birdcage
 birdcages
 birdcall
