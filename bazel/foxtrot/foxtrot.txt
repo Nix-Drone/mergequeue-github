@@ -482,7 +482,6 @@ falbelo
 falcade
 falcata
 falcate
-falcer
 falces
 falchion
 forgeman
@@ -10921,6 +10920,7 @@ fictile
 fullgrownness
 ferrosilicon
 fullhearted
+falcer
 fully
 fullymart
 fulling
