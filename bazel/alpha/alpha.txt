@@ -3563,6 +3563,7 @@ addossed
 addr
 address
 addressability
+allotheistic
 addressable
 addressed
 addressee
@@ -8939,7 +8940,6 @@ alloted
 allotee
 allotelluric
 allotheism
-allotheistic
 allotheria
 amused
 allothigene
