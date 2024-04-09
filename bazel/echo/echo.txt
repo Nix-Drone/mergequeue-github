@@ -2941,6 +2941,7 @@ elicitable
 elicitate
 enfranchisable
 elicitation
+encapsulation
 eliciting
 elicitor
 elicitory
@@ -4515,7 +4516,6 @@ encapsulate
 encapsulated
 encapsulates
 encapsulating
-encapsulation
 encapsulations
 encapsule
 encapsuled
