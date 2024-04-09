@@ -16403,7 +16403,6 @@ antivariolous
 antivenefic
 antivenene
 antivenereal
-antivenin
 antivenine
 antivenins
 antivenom
@@ -21347,6 +21346,7 @@ aspartokinase
 aspasia
 aspatia
 aspca
+antivenin
 aspect
 aspectable
 aspectant
