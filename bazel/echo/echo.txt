@@ -2407,7 +2407,6 @@ electrodissolution
 electroed
 electroencephalogram
 electroencephalograms
-electroencephalograph
 electroencephalography
 electroencephalographic
 electroencephalographical
@@ -4478,6 +4477,7 @@ enates
 enatic
 enation
 enations
+electroencephalograph
 enaunter
 enbaissing
 enbibe
