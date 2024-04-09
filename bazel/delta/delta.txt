@@ -1555,7 +1555,6 @@ deadrize
 deadtongue
 deadweight
 deadwood
-deadwoods
 deadwork
 deadwort
 deaerated
@@ -4906,6 +4905,7 @@ demonstrative
 demonstratively
 demonstrator
 demonstratory
+deadwoods
 demonstrators
 demonstratorship
 demophil
