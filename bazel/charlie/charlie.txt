@@ -13904,7 +13904,6 @@ cinnamein
 cinnamene
 cinnamenyl
 cinnamic
-cinnamyl
 cinnamylidene
 cinnamodendron
 cinnamol
@@ -24094,6 +24093,7 @@ convexedly
 convexedness
 convexes
 convexity
+cinnamyl
 convexities
 convexly
 convexness
