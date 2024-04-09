@@ -7451,7 +7451,6 @@ betrend
 betrim
 betrinket
 betroth
-betrothal
 betrothals
 betrothed
 betrothing
@@ -18206,6 +18205,7 @@ butler
 butlerage
 butlerdom
 butleress
+betrothal
 butlery
 butleries
 butlerism

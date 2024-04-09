@@ -4221,7 +4221,6 @@ employees
 employer
 exedral
 employers
-employes
 employless
 employment
 electroviscous
@@ -12704,6 +12703,7 @@ empover
 exodontist
 exodos
 exodromic
+employes
 exodus
 exoduses
 exoenzyme
