@@ -6581,7 +6581,6 @@ golandaas
 golandause
 golaseccan
 golconda
-golcondas
 goldang
 goldarn
 goldarned
@@ -7129,6 +7128,7 @@ gopherroot
 germanies
 gophers
 gopherwood
+golcondas
 gopura
 gor
 gora
