@@ -3089,7 +3089,6 @@ fibrocellular
 fibrocement
 fibrochondritis
 fibrochondrosteal
-fibrocyst
 fibrocystic
 fibrocystoma
 fibrocyte
@@ -4652,6 +4651,7 @@ fjeld
 fjelds
 fjerding
 fadeaway
+fibrocyst
 fjord
 fluorocarbons
 fjorded
