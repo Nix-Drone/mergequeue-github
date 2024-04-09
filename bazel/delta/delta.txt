@@ -6411,7 +6411,6 @@ desalter
 desalters
 desalting
 dobbers
-desalts
 desamidase
 desamidization
 desaminase
@@ -16647,6 +16646,7 @@ draintile
 drainway
 drays
 draisene
+desalts
 draisine
 drake
 drakelet
