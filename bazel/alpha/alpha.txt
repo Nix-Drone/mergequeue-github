@@ -9766,7 +9766,6 @@ amalg
 amalgam
 amalgamable
 amalgamate
-amalgamated
 amalgamater
 amalgamates
 amalgamating
@@ -24903,6 +24902,7 @@ awag
 away
 awayness
 awaynesses
+amalgamated
 aways
 await
 awaited
