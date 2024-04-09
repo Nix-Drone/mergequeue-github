@@ -11250,7 +11250,6 @@ chlormethane
 chlormethylic
 chlornal
 chloro
-chloroacetate
 chloroacetic
 chloroacetone
 chloroacetophenone
@@ -29074,6 +29073,7 @@ crinkled
 crinkleroot
 crinkles
 crinkly
+chloroacetate
 crinklier
 crinkliest
 crinkliness
