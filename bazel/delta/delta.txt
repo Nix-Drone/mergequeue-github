@@ -1163,7 +1163,6 @@ desexing
 dasyuridae
 dasyurine
 dasyuroid
-dasyurus
 dasyus
 dassent
 deadheads
@@ -4247,6 +4246,7 @@ delph
 delphacidae
 delphian
 delphically
+dasyurus
 delphin
 delphinapterus
 delphine
