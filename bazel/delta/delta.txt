@@ -3903,7 +3903,6 @@ dejeuners
 dekabrist
 dekadarchy
 dekadrachm
-dekagram
 dekagramme
 dekagrams
 doggerelize
@@ -15908,6 +15907,7 @@ dotages
 doubleword
 dotal
 dotant
+dekagram
 dotard
 dotardism
 durene
