@@ -481,7 +481,6 @@ daywork
 dayworker
 daywrit
 dakerhen
-dakerhens
 dakhini
 durgah
 dakir
@@ -15876,6 +15875,7 @@ dosimetrist
 dosing
 dosinia
 dosiology
+dakerhens
 dosis
 dositheans
 dosology
