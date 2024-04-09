@@ -921,6 +921,7 @@ gamekeeper
 gamekeepers
 gamekeeping
 gamelan
+geodal
 gamelang
 gamelans
 gameless
@@ -3006,7 +3007,6 @@ geocratic
 geraniols
 geocronite
 geodaesia
-geodal
 gnoff
 geodes
 geodesy
