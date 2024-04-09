@@ -3608,7 +3608,6 @@ bathoflore
 bathofloric
 batholith
 batholithic
-batholiths
 batholitic
 bathomania
 bathometer
@@ -9215,6 +9214,7 @@ biosterol
 biostratigraphy
 biota
 biotas
+batholiths
 biotaxy
 biotech
 barotropy
