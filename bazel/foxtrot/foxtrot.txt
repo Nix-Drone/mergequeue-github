@@ -5450,6 +5450,7 @@ fleshbrush
 fleshen
 fogydom
 flesher
+furlers
 fleshers
 fleshes
 fleshful
@@ -11401,7 +11402,6 @@ furlan
 furlana
 furlane
 furler
-furlers
 furless
 furling
 furlong
