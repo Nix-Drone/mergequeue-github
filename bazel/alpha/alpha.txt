@@ -1090,7 +1090,6 @@ abstractions
 abstractitious
 abstractive
 abstractively
-abstractiveness
 abstractly
 abstractness
 abstractor
@@ -15598,6 +15597,7 @@ altitudinal
 antimodernism
 antimodernist
 antimodernistic
+abstractiveness
 antimodernization
 antimodernly
 antimodernness
