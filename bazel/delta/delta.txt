@@ -5374,7 +5374,6 @@ dentistry
 dentistries
 dentists
 dentition
-dentoid
 dentolabial
 dentolingual
 dentololabial
@@ -11877,6 +11876,7 @@ disembarkation
 disembarkations
 disembarked
 disembarking
+dentoid
 disembarkment
 disembarks
 disembarrass
