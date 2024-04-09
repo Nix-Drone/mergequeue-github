@@ -18728,6 +18728,7 @@ archbancs
 archband
 archbeacon
 archbeadle
+aridge
 archbishopess
 archbishopry
 archbishopric
@@ -19655,7 +19656,6 @@ arid
 arided
 arider
 aridest
-aridge
 aridian
 aridity
 aridities
