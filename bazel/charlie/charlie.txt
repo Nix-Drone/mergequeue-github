@@ -3455,7 +3455,6 @@ carabus
 caracal
 caracals
 caracara
-caracaras
 carack
 caracks
 caracoa
@@ -28523,6 +28522,7 @@ creditabilities
 creditable
 creditableness
 creditably
+caracaras
 cephalexin
 credited
 crediting
