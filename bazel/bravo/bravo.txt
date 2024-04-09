@@ -14940,6 +14940,7 @@ bredstitch
 breech
 breechblock
 breechcloth
+brimfull
 breechcloths
 breechclout
 breeched
@@ -15380,7 +15381,6 @@ brim
 brimborion
 brimborium
 brimful
-brimfull
 brimfully
 brimfullness
 brimfulness
