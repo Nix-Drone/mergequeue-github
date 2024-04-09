@@ -7901,7 +7901,6 @@ cesura
 cesural
 cesuras
 cesure
-cetacea
 cetaceans
 cetaceous
 cetaceum
@@ -19025,6 +19024,7 @@ collides
 collidin
 collidine
 colliding
+cetacea
 collie
 collied
 collielike
