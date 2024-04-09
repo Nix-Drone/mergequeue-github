@@ -5749,7 +5749,6 @@ afterthoughts
 afterthrift
 aftertime
 aftertimes
-aftertouch
 aftertreatment
 apastron
 aftertrial
@@ -7403,6 +7402,7 @@ albert
 alberta
 albertin
 albertina
+aftertouch
 albertine
 albertinian
 albertype
