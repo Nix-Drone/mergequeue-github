@@ -2744,6 +2744,7 @@ acquist
 acquit
 acquital
 acquitment
+anemometers
 acquittal
 acquittals
 acquittance
@@ -12512,7 +12513,6 @@ anemology
 anemologic
 anemological
 anemometer
-anemometers
 anemometrical
 anemometrically
 anemometrograph
