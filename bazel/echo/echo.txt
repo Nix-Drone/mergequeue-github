@@ -4403,7 +4403,6 @@ enamelless
 enamelling
 enamellist
 enamels
-enamelware
 enamelwork
 enami
 enamine
@@ -10005,6 +10004,7 @@ esthesioblast
 esthesiogen
 esthesiogeny
 esthesiogenic
+enamelware
 esthesiography
 esthesiology
 esthesiometer
