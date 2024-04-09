@@ -72,7 +72,6 @@ cabber
 cabby
 cabbie
 cabbies
-cabbing
 cabble
 cabbled
 cabbler
@@ -1282,6 +1281,7 @@ calyculate
 calyculated
 calycule
 coercing
+cabbing
 caliculi
 calyculi
 calyculus
