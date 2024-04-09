@@ -5071,7 +5071,6 @@ flat
 flatbed
 faciobrachial
 flatbeds
-flatboats
 flatbrod
 flatcaps
 flatcar
@@ -7546,6 +7545,7 @@ forecaddie
 forecar
 forecarriage
 forecast
+flatboats
 forecaster
 forecasters
 forecasting
