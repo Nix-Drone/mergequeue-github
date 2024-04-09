@@ -878,7 +878,6 @@ gambirs
 gambist
 gambits
 gamble
-gambled
 gambler
 gamblers
 gambles
@@ -4869,6 +4868,7 @@ gisement
 gish
 gisler
 gismo
+gambled
 gismondine
 gismondite
 gismos
