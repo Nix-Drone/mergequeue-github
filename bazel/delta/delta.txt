@@ -7352,7 +7352,6 @@ detrudes
 detruding
 detruncate
 deficit
-detruncated
 detruncating
 detruncation
 damneder
@@ -14342,6 +14341,7 @@ dividual
 dividualism
 dividually
 dividuity
+detruncated
 dividuous
 divinability
 divinable
