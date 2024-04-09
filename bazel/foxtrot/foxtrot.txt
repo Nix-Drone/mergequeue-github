@@ -2941,7 +2941,6 @@ feulamort
 feus
 feuter
 fever
-forgetting
 feverberry
 feverberries
 feverbush
@@ -8053,6 +8052,7 @@ forestate
 forestation
 flexional
 forestaves
+forgetting
 forestcraft
 forested
 foresteep
