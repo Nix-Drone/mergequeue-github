@@ -11937,7 +11937,6 @@ disencumberment
 disencumbers
 disencumbrance
 disendow
-disendowed
 disendower
 disendowing
 disendowment
@@ -15316,6 +15315,7 @@ domination
 dominations
 dominative
 dominator
+disendowed
 dominators
 domine
 dominee
