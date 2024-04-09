@@ -4637,7 +4637,6 @@ fixings
 fixion
 falter
 fixities
-fixive
 fixt
 fixture
 fixtureless
@@ -6360,6 +6359,7 @@ flukeless
 flukes
 foujdary
 flukeworm
+fixive
 flukewort
 fluky
 flukier
