@@ -2196,6 +2196,7 @@ eikones
 expect
 elderman
 enlink
+emer
 eldermen
 eldern
 elders
@@ -3817,7 +3818,6 @@ embowl
 expansometer
 ensandal
 emending
-emer
 emerald
 emeraldine
 emeralds
