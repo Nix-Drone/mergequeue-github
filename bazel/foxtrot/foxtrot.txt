@@ -4383,7 +4383,6 @@ fishgarth
 fishgig
 fishgrass
 fishhood
-fishhook
 fishhooks
 fishy
 fishyard
@@ -6138,6 +6137,7 @@ floter
 flotilla
 flotillas
 flibbertigibbets
+fishhook
 furnisher
 flotsam
 flotsams
