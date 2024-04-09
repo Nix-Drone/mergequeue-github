@@ -7544,7 +7544,6 @@ foreboom
 forebooms
 forebowels
 forebowline
-foretopsail
 forebows
 forebrace
 forebreast
@@ -7701,6 +7700,7 @@ foreground
 foregrounds
 foreguess
 foreguidance
+foretopsail
 foregut
 foreguts
 forehalf
