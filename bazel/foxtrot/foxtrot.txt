@@ -8183,6 +8183,7 @@ forex
 forfairn
 forfalt
 flintlocks
+friezing
 flatbottom
 forfare
 forfars
@@ -10012,7 +10013,6 @@ fleshhook
 friezer
 friezes
 friezy
-friezing
 frig
 frigage
 frigate
