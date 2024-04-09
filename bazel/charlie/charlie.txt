@@ -23122,7 +23122,6 @@ constrainer
 constraining
 constrainingly
 constrainment
-constrains
 constraint
 constraints
 cawnie
@@ -25826,6 +25825,7 @@ corseleting
 corselets
 corsepresent
 corseque
+constrains
 corser
 corses
 communing
