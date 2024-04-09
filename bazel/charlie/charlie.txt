@@ -11545,6 +11545,7 @@ cholecystgastrostomy
 cholecystic
 cholecystis
 cholecystitis
+cozies
 cholecystnephrostomy
 cholecystocolostomy
 cholecystocolotomy
@@ -27780,7 +27781,6 @@ cozy
 clysis
 cozie
 cozier
-cozies
 coziest
 cozily
 coziness
