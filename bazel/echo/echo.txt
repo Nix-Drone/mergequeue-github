@@ -328,7 +328,6 @@ eaves
 eavesdrop
 eavesdropped
 eavesdropper
-enmass
 edingtonite
 eavesdroppers
 eavesdropping
@@ -4238,6 +4237,7 @@ empodium
 empoison
 empoisoned
 encaustes
+enmass
 empoisonment
 empoisons
 empolder
