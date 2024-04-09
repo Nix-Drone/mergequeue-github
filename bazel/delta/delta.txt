@@ -4112,6 +4112,7 @@ delilah
 deliliria
 delim
 delimed
+debug
 delimes
 deliming
 delimit
@@ -11353,7 +11354,6 @@ disclike
 disclimax
 discloak
 discloister
-debug
 disclosable
 disclosed
 discloser
