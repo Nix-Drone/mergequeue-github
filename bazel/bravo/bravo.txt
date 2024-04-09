@@ -884,7 +884,6 @@ baggage
 baggageman
 baggagemaster
 baggager
-baggages
 baggala
 bagganet
 baggara
@@ -5603,6 +5602,7 @@ belanda
 belander
 belap
 belar
+baggages
 belard
 barricos
 belash
