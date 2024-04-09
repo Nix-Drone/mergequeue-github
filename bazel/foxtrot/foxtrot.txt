@@ -4622,7 +4622,6 @@ fixable
 fixage
 fixate
 fixated
-fixates
 fixatifs
 fixation
 footslogs
@@ -11308,6 +11307,7 @@ furane
 furanes
 furanoid
 furanose
+fixates
 furanoses
 furanoside
 furans
