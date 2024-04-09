@@ -2544,7 +2544,6 @@ acknowledge
 acknowledgeable
 acknowledged
 acknowledgedly
-acknowledgement
 acknowledgements
 acknowledger
 acknowledgers
@@ -8130,6 +8129,7 @@ algor
 automanipulative
 algorab
 algores
+acknowledgement
 algorism
 algorismic
 algorisms
