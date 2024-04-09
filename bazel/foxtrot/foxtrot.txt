@@ -2270,7 +2270,6 @@ fenbank
 fenberry
 fence
 fenced
-fenceful
 fenceless
 fencelessness
 fencelet
@@ -8652,6 +8651,7 @@ forswears
 forswornness
 fort
 fortake
+fenceful
 fortalice
 fortaxed
 fortemente
