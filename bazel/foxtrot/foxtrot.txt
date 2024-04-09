@@ -1920,7 +1920,6 @@ feeb
 fadelessly
 feeble
 feeblebrained
-feeblehearted
 foreword
 feebleheartedly
 feebleheartedness
@@ -5912,6 +5911,7 @@ flooders
 floodgate
 floodgates
 floody
+feeblehearted
 flooding
 floodless
 floodlet
