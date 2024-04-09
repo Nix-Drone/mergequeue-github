@@ -7197,7 +7197,6 @@ charterage
 cents
 centum
 centums
-centumvir
 centumviral
 centumvirate
 centunculus
@@ -21471,6 +21470,7 @@ concordial
 concordist
 concordity
 concordly
+centumvir
 concords
 concorporate
 concorporated
