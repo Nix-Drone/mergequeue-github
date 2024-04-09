@@ -1068,7 +1068,6 @@ edgemaker
 edgemaking
 edgeman
 edger
-edgerman
 edgers
 edges
 edgeshot
@@ -5045,6 +5044,7 @@ endenize
 endenizen
 eviscerate
 ender
+edgerman
 endergonic
 endermatic
 endermic
