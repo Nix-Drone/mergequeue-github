@@ -3544,7 +3544,6 @@ defused
 defuses
 defusing
 defusion
-defuze
 dims
 defuzed
 dakoities
@@ -6103,6 +6102,7 @@ dereistic
 derelict
 derelicta
 dereliction
+defuze
 derelictions
 derelictly
 derelictness
