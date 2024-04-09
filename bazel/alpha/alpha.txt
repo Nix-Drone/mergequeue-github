@@ -16412,7 +16412,6 @@ antivariolous
 antivenefic
 antivenereal
 antivenin
-antivenine
 antivenins
 antivenom
 antivenomous
@@ -24470,6 +24469,7 @@ autoturning
 autourine
 autovaccination
 autovaccine
+antivenine
 autovalet
 autovalve
 autovivisection
