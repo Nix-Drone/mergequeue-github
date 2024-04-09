@@ -5262,7 +5262,6 @@ affectations
 affected
 affectedly
 anthropogeny
-adjuror
 affectedness
 affecter
 affecters
@@ -22001,6 +22000,7 @@ astely
 astelic
 aster
 asteraceae
+adjuror
 asteraceous
 asterales
 asterella
