@@ -10363,7 +10363,6 @@ cytisus
 chiefling
 chiefry
 chiefs
-chiefship
 chieftain
 chieftaincy
 chieftaincies
@@ -28579,6 +28578,7 @@ creeps
 crees
 creese
 creeses
+chiefship
 creesh
 colemanite
 creeshed
