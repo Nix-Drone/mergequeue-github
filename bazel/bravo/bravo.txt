@@ -6511,7 +6511,6 @@ beowulf
 bepaid
 bepaint
 bepainted
-bepaints
 belady
 bepale
 bepaper
@@ -8384,6 +8383,7 @@ biggish
 biggishness
 biggity
 biggonet
+bepaints
 bigha
 bighead
 bigheaded
