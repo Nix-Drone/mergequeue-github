@@ -1053,6 +1053,7 @@ farmyard
 farmyardy
 farmyards
 fivers
+foremastman
 farmland
 farmlands
 farmost
@@ -7807,7 +7808,6 @@ foremarch
 foremark
 foremartyr
 foremasthand
-foremastman
 foremastmen
 fluidify
 foremasts
