@@ -4874,7 +4874,6 @@ encounter
 encounterable
 encountered
 encounterer
-erector
 entitlement
 encounterers
 encountering
@@ -7211,6 +7210,7 @@ enveloping
 envelopment
 envelopments
 entailing
+erector
 envelops
 envenom
 envenomation
