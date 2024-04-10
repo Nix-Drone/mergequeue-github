@@ -9245,7 +9245,6 @@ biotypic
 biotypology
 biotite
 biotites
-biotitic
 biotome
 biotomy
 buoys
@@ -14276,6 +14275,7 @@ brahmoism
 brahms
 brahmsian
 brahmsite
+biotitic
 brahui
 bray
 braid
