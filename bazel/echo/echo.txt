@@ -3690,7 +3690,6 @@ embryol
 embryology
 embryologic
 embryological
-embryologically
 embryologies
 embryologist
 embryologists
@@ -5368,6 +5367,7 @@ endosomes
 endosperm
 endospermic
 endospermous
+embryologically
 endospore
 endosporia
 endosporic
