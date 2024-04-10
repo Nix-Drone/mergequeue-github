@@ -1209,6 +1209,7 @@ caliber
 calibers
 calybite
 cunas
+clavicembali
 calibogus
 colunar
 calibrate
@@ -15710,7 +15711,6 @@ clavi
 chirres
 clavy
 claviature
-clavicembali
 clavicembalist
 clavicembalo
 claviceps
