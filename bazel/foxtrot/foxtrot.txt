@@ -2598,6 +2598,7 @@ ferrocyanate
 ferrocyanhydric
 ferroconcretor
 ferroelectric
+flukeless
 ferroelectricity
 ferroglass
 ferrogoslarite
@@ -6362,7 +6363,6 @@ fluyts
 fluke
 fluked
 flukey
-flukeless
 flukes
 foujdary
 flukeworm
