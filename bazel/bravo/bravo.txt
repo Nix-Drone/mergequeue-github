@@ -4715,7 +4715,6 @@ bedimming
 bedimple
 bedimpled
 bedimples
-bedimplies
 bedimpling
 ba
 bedims
@@ -15256,6 +15255,7 @@ brideman
 brideweed
 bridewell
 bridewort
+bedimplies
 bridge
 bridgeable
 bridgeboard
