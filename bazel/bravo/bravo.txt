@@ -293,6 +293,7 @@ backache
 backaches
 backachy
 backaching
+belshazzaresque
 backadation
 backage
 backare
@@ -474,7 +475,6 @@ backsets
 backsetting
 backsettler
 backsheesh
-backshift
 backshish
 backside
 backsides
@@ -787,6 +787,7 @@ badgering
 blundersome
 badgeringly
 badgerly
+backshift
 badgerlike
 badgers
 badgerweed
@@ -1222,6 +1223,7 @@ bakestone
 bakhtiari
 bakie
 baking
+breechclout
 bakingly
 baklava
 baklavas
@@ -1325,7 +1327,6 @@ balanta
 balante
 balantidial
 balantidiasis
-balantidic
 balantidiosis
 balantidium
 balanus
@@ -1772,7 +1773,6 @@ borophenol
 balti
 baltimore
 baltimorean
-baltimorite
 baltis
 balu
 baluba
@@ -3734,6 +3734,7 @@ batterer
 batterfang
 battery
 batterie
+benni
 batteried
 batteries
 batteryman
@@ -4007,6 +4008,7 @@ beadeyes
 beader
 beadflush
 beccaccia
+beheira
 beadhouse
 beady
 beadier
@@ -4424,6 +4426,7 @@ becheck
 becher
 binaurally
 bechern
+bedeafening
 bechic
 bechignoned
 bechirp
@@ -4632,7 +4635,6 @@ bro
 bedeaf
 bedeafen
 bedeafened
-bedeafening
 bedeafens
 bedebt
 bedeck
@@ -4698,6 +4700,7 @@ bedights
 bedikah
 bedim
 bedimmed
+bitters
 bedimming
 bedimple
 bedimpled
@@ -4775,7 +4778,6 @@ bedrabble
 bedrabbling
 bedraggle
 bedraggled
-bedragglement
 bedraggles
 bedraggling
 bedrail
@@ -5192,6 +5194,7 @@ befuddles
 bromite
 befuddling
 befume
+bk
 befur
 befurbelowed
 befurred
@@ -5414,7 +5417,6 @@ behaviourally
 behaviourism
 behaviourist
 behaviours
-beuniformed
 behead
 beheadal
 beheaded
@@ -5426,7 +5428,6 @@ behear
 behears
 behearse
 behedge
-beheira
 beheld
 behelp
 behemoth
@@ -5546,7 +5547,6 @@ bejumbles
 bejumbling
 bekah
 bekerchief
-bekick
 bekilted
 beking
 bekinkinite
@@ -5671,6 +5671,7 @@ belfast
 belfried
 buna
 belfries
+blepharydatis
 belga
 belgae
 belgard
@@ -5912,10 +5913,10 @@ belowdecks
 barbecueing
 belowground
 belowstairs
+balantidic
 belozenged
 bels
 belshazzar
-belshazzaresque
 belsire
 belswagger
 beltane
@@ -5984,7 +5985,6 @@ bemaul
 bemazed
 bembecidae
 bembex
-beme
 bemeal
 bemean
 bemeaned
@@ -6289,7 +6289,6 @@ bennettitaceous
 bennettitales
 bennettites
 bennetweed
-benni
 benny
 bennies
 benniseed
@@ -6665,7 +6664,6 @@ berewick
 berg
 bergall
 bergama
-bergamasca
 bergamasche
 biogenies
 bergamask
@@ -6901,6 +6899,7 @@ bescour
 bescoured
 bescourge
 bescouring
+baltimorite
 bescours
 bescramble
 bescrape
@@ -7290,6 +7289,7 @@ bestubbled
 bestuck
 bestud
 bestudded
+biffs
 bestudding
 bestuds
 bestuur
@@ -7564,6 +7564,7 @@ bevor
 bevors
 bevue
 bevvy
+bigha
 believe
 bewail
 bewailable
@@ -8258,7 +8259,6 @@ biferous
 biff
 biffies
 biffin
-biffs
 bifid
 bifidate
 bifidated
@@ -8379,7 +8379,6 @@ biggish
 biggishness
 biggity
 biggonet
-bigha
 bighead
 bigheaded
 bigheads
@@ -9878,7 +9877,6 @@ bitterns
 bitternut
 brooklime
 bitterroot
-bitters
 bittersweet
 bittersweetly
 bittersweetness
@@ -10022,7 +10020,6 @@ bizones
 bizonia
 bizzarro
 bjorne
-bk
 bkbndr
 bkcy
 bkg
@@ -10068,6 +10065,7 @@ blackbirder
 blackbirding
 blackbirds
 blackboard
+beuniformed
 blackboards
 blackbody
 blackboy
@@ -10707,7 +10705,6 @@ blepharal
 blepharanthracosis
 blepharelcosis
 blepharemphysema
-blepharydatis
 blephariglottis
 blepharism
 blepharitic
@@ -11139,6 +11136,7 @@ bloop
 blooped
 baronethood
 byes
+biennale
 blooper
 bloopers
 blooping
@@ -11187,6 +11185,7 @@ blouses
 blousy
 blousier
 blousiest
+booklets
 blousily
 blousing
 blouson
@@ -12040,7 +12039,6 @@ boite
 boites
 boithrin
 boyuna
-bojite
 bojo
 bokadam
 bokard
@@ -12662,7 +12660,6 @@ bearhide
 bookland
 booklear
 booklet
-booklets
 broomy
 booklift
 booklike
@@ -13370,6 +13367,7 @@ bots
 botswana
 bott
 bogier
+buccinae
 botte
 bibliopoly
 biophysicists
@@ -13462,7 +13460,6 @@ bouet
 beatermen
 bouffage
 bouffancy
-biennale
 biquarterly
 bouffant
 bouffante
@@ -14286,6 +14283,7 @@ braying
 brail
 brailed
 brailled
+brandless
 brailler
 brailles
 braillewriter
@@ -14494,7 +14492,6 @@ brandishing
 brandisite
 brandywine
 brandle
-brandless
 banda
 brandling
 brandon
@@ -14643,7 +14640,6 @@ brauronia
 brauronian
 brava
 bravade
-bravado
 bravadoed
 barkle
 bravadoes
@@ -14938,7 +14934,6 @@ breech
 breechblock
 breechcloth
 breechcloths
-breechclout
 breeched
 breeches
 breechesflower
@@ -14968,6 +14963,7 @@ breekums
 breenge
 breenger
 breeze
+bravado
 breezed
 breezeful
 breezeless
@@ -15170,6 +15166,7 @@ brickish
 brickkiln
 bricklayer
 bricklayers
+bojite
 bricklaying
 brickle
 brickleness
@@ -16533,7 +16530,6 @@ bucchero
 buccheros
 buccin
 buccina
-buccinae
 buccinal
 buccinator
 buccinatory
@@ -16724,6 +16720,7 @@ budgereegah
 budgerigah
 budgerygah
 budgerigar
+bekick
 budgerigars
 budgero
 budgerow
@@ -17365,6 +17362,7 @@ bundh
 bedamns
 bundy
 bundies
+bedragglement
 bundist
 bundists
 bundle
@@ -17801,6 +17799,7 @@ burnishing
 burnishment
 baneberries
 burnoose
+bergamasca
 burnoosed
 burnous
 burnoused
@@ -18275,6 +18274,7 @@ butterman
 buttermilk
 buttermonger
 buttermouth
+beme
 butternose
 butternut
 butternuts

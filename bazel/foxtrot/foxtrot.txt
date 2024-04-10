@@ -11,6 +11,7 @@ fabian
 fabianism
 fabianist
 fabiform
+frivolously
 fable
 fibriform
 fabled
@@ -203,6 +204,7 @@ factorization
 factorizations
 fluviose
 factorize
+frivolous
 factorized
 factorizing
 factors
@@ -324,7 +326,6 @@ fail
 failance
 failed
 fayles
-failing
 failingness
 failings
 faille
@@ -362,6 +363,7 @@ faintheartedly
 faintheartedness
 fainty
 fainting
+fumago
 faintingly
 faintise
 faintish
@@ -1434,6 +1436,7 @@ fatting
 fattishness
 fattrels
 fatuate
+failing
 fatuism
 fatuity
 futhork
@@ -1480,6 +1483,7 @@ faultiest
 fruitwise
 faultily
 fleeted
+fritillaries
 faultiness
 fraudulently
 faulting
@@ -1598,7 +1602,6 @@ favoured
 favouredly
 favourer
 favourers
-favouress
 fallalery
 favouring
 favouringly
@@ -1646,8 +1649,8 @@ fchar
 fipenny
 fcomp
 fconv
+finalizing
 fconvert
-farcin
 fcp
 fcs
 fdname
@@ -1704,6 +1707,7 @@ feasor
 feast
 feasted
 feasten
+farcin
 feaster
 flashflood
 feasters
@@ -1892,6 +1896,7 @@ federary
 federarie
 federate
 federated
+forswornness
 federates
 fullback
 federating
@@ -2078,6 +2083,7 @@ fell
 fella
 fellable
 fricandeaus
+furfuraceous
 fellagha
 fellah
 fellaheen
@@ -2197,7 +2203,6 @@ felworts
 fem
 femalely
 femaleness
-females
 femalist
 femality
 femalize
@@ -2792,6 +2797,7 @@ fetas
 fetation
 fetations
 fetched
+fibrinate
 frontosquamosal
 filanders
 fetcher
@@ -2866,6 +2872,7 @@ fetter
 fetterbush
 fettered
 fetterer
+feuterer
 fetterers
 fettering
 fetterlock
@@ -3208,7 +3215,6 @@ fickly
 fico
 ficoes
 ficoid
-ficoidaceae
 ficoidal
 ficoideae
 ficoides
@@ -3853,7 +3859,6 @@ fimbriatum
 fimbricate
 fimbricated
 fimbrilla
-fimbrillae
 fimbrillate
 fany
 fig
@@ -3885,7 +3890,6 @@ finalized
 finalizes
 fourstrand
 forecondemn
-finalizing
 frapped
 finals
 finance
@@ -3947,7 +3951,6 @@ finery
 fines
 fought
 flavobacteria
-ferrocyanogen
 finesse
 finessed
 finesser
@@ -4116,6 +4119,7 @@ fionnuala
 fiords
 fiorin
 fiorite
+flamenco
 fioriture
 fippence
 fipple
@@ -4816,6 +4820,7 @@ flags
 flagship
 firepower
 flagstaff
+ficoidaceae
 flagstaffs
 fitchy
 flagstaves
@@ -4891,7 +4896,6 @@ flameless
 flamelike
 flamen
 factionary
-flamenco
 fooless
 flamencos
 flamens
@@ -5452,7 +5456,6 @@ flerried
 flerrying
 flesh
 fleshbrush
-fleshen
 fogydom
 flesher
 fleshers
@@ -5767,7 +5770,6 @@ flyted
 flites
 fridila
 flytes
-flitfold
 flytier
 flytiers
 fertilizes
@@ -6206,7 +6208,6 @@ flowages
 flowchart
 flowcharted
 flowcharting
-fulicinae
 flowcharts
 flowcontrol
 flowe
@@ -7140,11 +7141,11 @@ fedayeen
 foolify
 foolish
 facultative
+fimbrillae
 foolishest
 fanglement
 foolishly
 foollike
-fibrinate
 fleapit
 foolmonger
 foolocracy
@@ -7171,6 +7172,7 @@ footbaths
 footbeat
 footblower
 footboard
+ferrocyanogen
 footboards
 friszka
 footboy
@@ -8657,7 +8659,6 @@ forswearer
 forswearing
 fields
 forswears
-forswornness
 fort
 fortake
 fortalice
@@ -8856,7 +8857,6 @@ fossilisable
 fossilise
 fossilised
 frameableness
-feuterer
 fossilising
 fossilism
 fossilist
@@ -9098,6 +9098,7 @@ fowler
 fowlery
 fowlerite
 fowlers
+favouress
 fowlfoot
 fowling
 fowlings
@@ -9346,6 +9347,7 @@ frampold
 franc
 franca
 francas
+fulicinae
 france
 frances
 franchise
@@ -9843,6 +9845,7 @@ frequentness
 frequents
 frere
 freres
+females
 frescade
 frescoed
 ferity
@@ -9900,6 +9903,7 @@ fretsaw
 fuds
 fretsaws
 fretsome
+flitfold
 frett
 frettage
 frettation
@@ -10204,7 +10208,6 @@ frithstool
 frithwork
 fritillary
 fritillaria
-fritillaries
 fritniency
 frits
 fraising
@@ -10230,8 +10233,6 @@ frivolizing
 frivolled
 frivoller
 frivolling
-frivolous
-frivolously
 frivolousness
 frivols
 fundus
@@ -10987,7 +10988,6 @@ fumados
 feltwork
 fumage
 fumagine
-fumago
 fumant
 flavones
 fumarase
@@ -11024,7 +11024,6 @@ fumbulator
 fume
 fumed
 fumeless
-fumelike
 fumer
 fumerel
 freakery
@@ -11356,7 +11355,6 @@ furdle
 furfooz
 furfur
 fossilogist
-furfuraceous
 furfuraceously
 floodlighting
 furfural
@@ -11434,6 +11432,7 @@ furnarius
 furner
 furnish
 furnishable
+fumelike
 foregather
 furnished
 furnishes
@@ -11513,6 +11512,7 @@ furuncle
 furuncles
 furuncular
 furunculoid
+fleshen
 furunculous
 furunculus
 furze

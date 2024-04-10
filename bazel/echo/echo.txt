@@ -15,7 +15,6 @@ eagerest
 eagerness
 eagle
 eagled
-eaglelike
 eagles
 eagless
 eaglestone
@@ -67,6 +66,7 @@ earldom
 extrathoracic
 earldoms
 embolism
+embloom
 earlduck
 earle
 earless
@@ -95,6 +95,7 @@ earmarking
 earmarkings
 earmarks
 earmindedness
+euphemist
 epithelioblastoma
 equitation
 earmuff
@@ -1268,6 +1269,7 @@ eelshop
 eelskin
 eelware
 eelworm
+entocoel
 eelworms
 een
 eyepieces
@@ -1812,7 +1814,6 @@ eyeshot
 eyeshots
 eyesight
 enculturating
-eyesights
 eyesome
 endower
 eyesore
@@ -2634,7 +2635,6 @@ electrosteel
 electrostenolysis
 electrostenolytic
 electrostriction
-elinvar
 electrosurgery
 electrosurgeries
 electrosurgical
@@ -2743,6 +2743,7 @@ elegized
 elegizes
 elegizing
 eleidin
+etymol
 elektra
 elelments
 elem
@@ -2870,12 +2871,12 @@ elevato
 elevator
 elevators
 eleve
+eaglelike
 escalators
 eleven
 elevener
 elevenfold
 elevens
-elevenses
 eleventeenth
 eleventh
 entobranchiate
@@ -2917,6 +2918,7 @@ elicitable
 elicitate
 enfranchisable
 elicitation
+excerptive
 elicited
 eliciting
 elicitor
@@ -3248,7 +3250,6 @@ elvet
 elvis
 elvish
 elvishly
-elwood
 elzevir
 elzevirian
 em
@@ -3371,7 +3372,6 @@ embarrased
 embarrass
 embarrassed
 embarrassedly
-embarrasses
 embarrassing
 embarrassingly
 embarrassment
@@ -3499,7 +3499,6 @@ emblemizing
 emblemology
 emblems
 emblic
-embloom
 emblossom
 encryptions
 eringoes
@@ -3781,6 +3780,7 @@ emcees
 emceing
 emcumbering
 exhalate
+elevenses
 emda
 emden
 eme
@@ -3865,6 +3865,7 @@ emesis
 emetia
 emetic
 emetical
+epiplanktonic
 emetics
 emetine
 emetines
@@ -4281,6 +4282,7 @@ emptysis
 emptive
 emptor
 emptores
+ethmosphenoidal
 emptory
 empurple
 eskar
@@ -6160,7 +6162,6 @@ ennuying
 ennuis
 enoch
 enochic
-enodal
 enodally
 enodate
 epithalamion
@@ -6855,7 +6856,6 @@ entocyemate
 entocyst
 enows
 entocnemial
-entocoel
 entocoele
 entocoelic
 entocondylar
@@ -6911,7 +6911,6 @@ entomologies
 entomologise
 entomologised
 entomologist
-entomologize
 entomologized
 entomologizing
 entomophaga
@@ -8109,7 +8108,6 @@ epiphragm
 epiphragmal
 epipial
 epiplankton
-epiplanktonic
 epiplasm
 epiplasmic
 epiplastral
@@ -8405,7 +8403,6 @@ epitympanic
 epitympanum
 epityphlitis
 epityphlon
-epitomate
 excubittoria
 exacerbescent
 epitomator
@@ -8726,6 +8723,7 @@ equipendent
 equiperiodic
 expander
 equipluve
+embarrasses
 equipment
 equipments
 equipoise
@@ -9252,6 +9250,7 @@ ermanrich
 ebulus
 ermelin
 exceptionalness
+enlock
 ermiline
 ermine
 ermined
@@ -9378,6 +9377,7 @@ embodiments
 errhines
 erring
 erron
+enodal
 erroneously
 erroneousness
 error
@@ -9471,7 +9471,6 @@ es
 esau
 esbay
 esbatement
-enlock
 esc
 esca
 escadrille
@@ -9817,6 +9816,7 @@ espingole
 editorialist
 espinillo
 espino
+entomologize
 espinos
 enfoil
 esplanade
@@ -10168,6 +10168,7 @@ etalage
 etalon
 etamin
 ever
+epicyesis
 etamine
 etamines
 envies
@@ -10434,7 +10435,6 @@ ethmophysal
 ethmopresphenoidal
 ethmose
 ethmosphenoid
-ethmosphenoidal
 ethmoturbinal
 ethmovomer
 ethmovomerine
@@ -10553,7 +10553,6 @@ etiam
 etym
 etymic
 etymography
-etymol
 etymologer
 etymology
 etymologic
@@ -11002,7 +11001,6 @@ euphemiser
 euphemising
 euphemism
 euphemisms
-euphemist
 euphemistic
 euphemistical
 euphemistically
@@ -11043,6 +11041,7 @@ enlarger
 euphonon
 euphonous
 euphorbia
+elwood
 euphorbiaceous
 euphorbial
 euphorbine
@@ -11993,7 +11992,6 @@ etheneldeli
 excerpting
 excerption
 ectodynamomorphic
-excerptive
 excerpts
 excess
 excesses
@@ -12304,6 +12302,7 @@ execrative
 execratively
 execrator
 execrators
+elinvar
 execs
 exect
 executable
@@ -12843,7 +12842,6 @@ exospheric
 exospherical
 exosporal
 exospore
-exosporium
 exosporous
 exossate
 exosseous
@@ -13427,6 +13425,7 @@ expurgator
 expurgatory
 expurgators
 expurge
+epitomate
 expwy
 exquire
 exquisite
@@ -13604,7 +13603,6 @@ exterioration
 exteriorisation
 exteriorise
 exteriorised
-epicyesis
 exteriorising
 exteriority
 exteriorize
@@ -13749,6 +13747,7 @@ extortionately
 extortionateness
 extortioner
 extortioners
+exosporium
 extortionist
 extortionists
 extortions
@@ -14104,6 +14103,7 @@ extrudable
 excussion
 extrude
 extruded
+eyesights
 extruder
 entrails
 extruders

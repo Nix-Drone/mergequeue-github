@@ -178,6 +178,7 @@ cabouca
 cabre
 cabree
 cabrerite
+canzones
 committal
 cabresta
 cabrestas
@@ -703,7 +704,6 @@ cagit
 cagmag
 cagn
 cagot
-cagoule
 cagui
 cahenslyism
 cahier
@@ -789,7 +789,6 @@ caitiffs
 caitifty
 cayubaba
 cayuca
-commendador
 choup
 cayuco
 cayuga
@@ -997,7 +996,6 @@ calcareosiliceous
 calcareosulphurous
 calcareous
 calcareously
-calcareousness
 calcaria
 calcariferous
 calcariform
@@ -2123,6 +2121,7 @@ camshaft
 camshafts
 camstane
 camsteary
+cuculiformes
 camsteery
 camstone
 camstrary
@@ -2905,7 +2904,6 @@ canzo
 canzon
 canzona
 canzonas
-canzones
 canzonet
 canzonets
 canzonetta
@@ -3830,7 +3828,6 @@ carcerating
 carceration
 carcerist
 carcharhinus
-carcharias
 carchariid
 carchariidae
 carcharioid
@@ -3885,6 +3882,7 @@ cardecu
 carded
 cardel
 carder
+cardinal
 carders
 cardholder
 cardholders
@@ -3935,7 +3933,6 @@ cardigans
 cardiidae
 cameoing
 cardin
-cardinal
 cardinalate
 cardinalated
 cardinalates
@@ -4638,6 +4635,7 @@ carpophalangeal
 carpophyl
 carpophyll
 carpophyte
+celticism
 carpophore
 carpopodite
 carpopoditic
@@ -5468,6 +5466,7 @@ catalogical
 cataloging
 catalogist
 catalogize
+cracky
 catalogs
 catalogue
 catalogued
@@ -5686,7 +5685,6 @@ catechu
 catechumen
 catechumenal
 catechumenate
-catechumenical
 catechumenically
 catechumenism
 catechumens
@@ -6284,6 +6282,7 @@ cautionry
 cautions
 cautious
 cautiously
+cagoule
 cautiousness
 cautivo
 cav
@@ -6803,7 +6802,6 @@ celtiberi
 celtiberian
 celtic
 celtically
-celticism
 celticist
 celticize
 celtidaceae
@@ -8400,6 +8398,7 @@ chamaesiphonaceae
 chamaesiphonaceous
 chamaesiphonales
 chamal
+carcharias
 chamar
 chambellan
 chamber
@@ -9137,6 +9136,7 @@ chartings
 chartism
 chartist
 chartists
+copperplate
 chartless
 chartlet
 chartographer
@@ -9836,7 +9836,6 @@ chemiotactic
 chemiotaxic
 chemiotaxis
 chemiotropic
-chemiotropism
 chemiphotic
 chuhra
 copout
@@ -10170,7 +10169,6 @@ chevrolets
 chevron
 chevrone
 chevroned
-chevronel
 chevronelly
 chevronny
 chevrons
@@ -11891,6 +11889,7 @@ chordomesoderm
 chordophone
 chordotomy
 chordotonal
+catechumenical
 chords
 chore
 caviare
@@ -11991,6 +11990,7 @@ chorisos
 chorist
 choristate
 chorister
+coccolobis
 choristers
 choristership
 choristic
@@ -14678,6 +14678,7 @@ cystoepithelioma
 cystofibroma
 cystoflagellata
 cystoflagellate
+commendador
 cystogenesis
 cystogenous
 cystogram
@@ -16283,7 +16284,6 @@ clinting
 cascol
 clinton
 clintonia
-clintonite
 cashing
 clints
 clio
@@ -17550,7 +17550,6 @@ coccolith
 coccolithophorid
 coccolithophoridae
 coccoloba
-coccolobis
 coccomyces
 counterresolution
 coccosphere
@@ -18218,7 +18217,6 @@ coffinmaking
 coffins
 coffle
 coffled
-coffles
 coffling
 coffret
 coffrets
@@ -18246,6 +18244,7 @@ cogeneration
 cogeneric
 cogenial
 cogent
+coffles
 cogently
 cogged
 cogger
@@ -18480,6 +18479,7 @@ coiffures
 coiffuring
 ccws
 coifing
+chevronel
 caudalward
 coifs
 coign
@@ -21869,6 +21869,7 @@ conferrable
 conferral
 conferred
 conferree
+copperas
 conferrence
 conferrer
 conferrers
@@ -22783,6 +22784,7 @@ consentfully
 casthouse
 consentience
 consentient
+calcareousness
 consentiently
 consenting
 consentingly
@@ -23028,6 +23030,7 @@ conspiracy
 conspirant
 conspiration
 conspirational
+clintonite
 conspirative
 conspirator
 conspiratory
@@ -24629,7 +24632,6 @@ copped
 copper
 copperah
 copperahs
-copperas
 copperases
 copperbottom
 copperer
@@ -24647,7 +24649,6 @@ chickaree
 copperleaf
 coppernose
 coppernosed
-copperplate
 copperplated
 copperproof
 coppers
@@ -24904,6 +24905,7 @@ corbe
 corbeau
 ciruses
 corbed
+counteractingly
 corbeil
 corbeille
 corbeilles
@@ -25762,6 +25764,7 @@ corroboreed
 corroboreeing
 corroborees
 corrobori
+chemiotropism
 corrodant
 corrode
 corrodent
@@ -26652,7 +26655,6 @@ counteractant
 counteracted
 counteracter
 counteracting
-counteractingly
 counteraction
 counteractions
 counteractive
@@ -27878,7 +27880,6 @@ crackerjacks
 crackers
 cracket
 crackhemp
-cracky
 crackiness
 cracking
 crackings
@@ -30205,6 +30206,7 @@ crumbled
 crumblement
 crumbles
 crumblet
+cultellation
 crumbly
 crumblier
 crumbliest
@@ -30576,7 +30578,6 @@ cucularis
 cucule
 cuculidae
 cuculiform
-cuculiformes
 cuculine
 cuculla
 cucullaris
@@ -30817,7 +30818,6 @@ culrage
 culsdesac
 cultch
 cultches
-cultellation
 cultelli
 cultellus
 culter
