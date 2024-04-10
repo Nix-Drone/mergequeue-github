@@ -3628,7 +3628,6 @@ getae
 getah
 glycolide
 getas
-getatable
 giansar
 getatableness
 getaway
@@ -4298,6 +4297,7 @@ gymnolaemata
 gymnolaematous
 germinability
 gymnonoti
+getatable
 gymnopaedes
 gymnopaedic
 gundogs
