@@ -269,7 +269,6 @@ abdominoanterior
 abdominocardiac
 abdominocentesis
 abdominocystic
-abdominogenital
 abdominohysterectomy
 affiant
 abdominohysterotomy
@@ -6766,6 +6765,7 @@ ailed
 aileen
 aileron
 aylesbury
+abdominogenital
 aporetical
 ayless
 aylet
