@@ -11343,7 +11343,6 @@ blued
 bluefin
 ballist
 bluefins
-bluefish
 biffy
 bluefishes
 bluegill
@@ -12868,6 +12867,7 @@ bootlessly
 bootlessness
 bootlick
 bootlicker
+bluefish
 bootlicking
 bootloader
 bootmaker
