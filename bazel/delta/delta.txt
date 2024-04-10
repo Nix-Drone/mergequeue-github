@@ -8625,7 +8625,6 @@ diastematomyelia
 diaster
 dyaster
 dorsiflexor
-diastereoisomer
 diastereoisomerism
 diastereomer
 diastyle
@@ -11346,6 +11345,7 @@ discing
 discinoid
 devilish
 disciple
+diastereoisomer
 discipled
 disciplelike
 disciples
