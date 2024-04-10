@@ -2735,7 +2735,6 @@ barmaster
 barmbrack
 barmcloth
 brither
-barmecidal
 barmecide
 barmen
 barmfel
@@ -6912,6 +6911,7 @@ bearhound
 besaiel
 besaile
 besayle
+barmecidal
 besaint
 besan
 besanctify
