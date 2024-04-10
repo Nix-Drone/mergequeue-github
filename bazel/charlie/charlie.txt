@@ -643,7 +643,6 @@ cafeteria
 cafeterias
 cafetiere
 cafetorium
-caff
 caffa
 caffeate
 caffeic
@@ -8925,6 +8924,7 @@ charbroiled
 cleverality
 charbroiling
 charbroils
+caff
 capicha
 charca
 charcia
