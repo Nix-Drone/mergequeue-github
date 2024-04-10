@@ -1461,7 +1461,6 @@ deaccession
 deaccessioned
 deaccessioning
 deaccessions
-deacetylate
 deacetylated
 deacetylating
 deacetylation
@@ -13501,6 +13500,7 @@ doggereler
 dissents
 dissepiment
 dissepimental
+deacetylate
 dissertate
 dissertated
 dissertating
