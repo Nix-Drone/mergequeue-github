@@ -9570,6 +9570,7 @@ dihedral
 dihedrals
 dihedron
 dihelios
+discipleship
 dihelium
 dihexagonal
 dihexahedral
@@ -11340,7 +11341,6 @@ disciple
 discipled
 disciplelike
 disciples
-discipleship
 dracaena
 disciplinability
 disciplinable
