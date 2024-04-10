@@ -5254,6 +5254,7 @@ aeviternal
 aevum
 af
 anemometry
+afterpart
 aface
 afaced
 afacing
@@ -5714,7 +5715,6 @@ afternose
 afteroar
 afterpain
 afterpains
-afterpart
 afterpast
 afterpeak
 afterpiece
