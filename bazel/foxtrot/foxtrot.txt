@@ -991,6 +991,7 @@ farfara
 farfel
 farfels
 farfetch
+floorway
 funicule
 farfetched
 farfetchedness
@@ -5971,7 +5972,6 @@ floorshift
 floorshifts
 floorshow
 floorthrough
-floorway
 floorwalker
 floorwalkers
 floorward
