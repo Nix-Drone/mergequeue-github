@@ -843,6 +843,7 @@ gam
 gamaliel
 gamari
 gamash
+gleam
 gamashes
 gamasid
 gordonia
@@ -5305,7 +5306,6 @@ glazing
 glb
 gld
 glead
-gleam
 guzzler
 gleamed
 gleamy
