@@ -6657,7 +6657,6 @@ celibacies
 celibataire
 celibatarian
 celibate
-celibates
 celibatic
 celibatist
 celibatory
@@ -29561,6 +29560,7 @@ croak
 croaked
 croaker
 conceptually
+celibates
 croakers
 croaky
 croakier
