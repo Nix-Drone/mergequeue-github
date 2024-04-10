@@ -1608,6 +1608,7 @@ favourers
 fallalery
 favouring
 favouringly
+focusable
 favourite
 favourless
 favours
@@ -6676,7 +6677,6 @@ focometer
 focometry
 focsle
 focus
-focusable
 focuses
 focusing
 focusless
