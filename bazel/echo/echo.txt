@@ -5291,7 +5291,6 @@ endoplastron
 endoplastular
 endopleura
 endopleural
-endopleurite
 electrometry
 endopleuritic
 endopodite
@@ -13963,6 +13962,7 @@ extraserous
 extrasyllabic
 extrasyllogistic
 extrasystole
+endopleurite
 extrasocial
 ectophyte
 extrasolar
