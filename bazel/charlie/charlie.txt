@@ -3830,7 +3830,6 @@ carcerating
 carceration
 carcerist
 carcharhinus
-carcharias
 carchariid
 carchariidae
 carcharioid
@@ -8400,6 +8399,7 @@ chamaesiphonaceae
 chamaesiphonaceous
 chamaesiphonales
 chamal
+carcharias
 chamar
 chambellan
 chamber
