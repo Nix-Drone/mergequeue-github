@@ -3681,7 +3681,6 @@ adenocarcinomas
 adenocarcinomata
 adenocarcinomatous
 adenocele
-adenocellulitis
 adenochondroma
 adenochondrosarcoma
 adenochrome
@@ -12282,6 +12281,7 @@ anconei
 anconeous
 ancones
 anconeus
+adenocellulitis
 ancony
 anconitis
 anconoid
