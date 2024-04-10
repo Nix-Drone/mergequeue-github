@@ -1628,7 +1628,6 @@ gasoliers
 gasoline
 gasoliner
 gasolines
-gasometer
 gasometry
 gasometric
 grype
@@ -1821,6 +1820,7 @@ gastromalacia
 gastromancy
 gastromelus
 gastromenia
+gasometer
 gastromyces
 gastromycosis
 gastromyxorrhea
