@@ -2416,7 +2416,6 @@ geld
 geldability
 griffinish
 geldant
-gelded
 gelder
 gelders
 geldesprung
@@ -8205,6 +8204,7 @@ graphomaniacal
 graphometer
 graphometry
 graphometric
+gelded
 graphometrical
 graphometrist
 graphomotor
