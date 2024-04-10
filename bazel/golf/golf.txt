@@ -1121,7 +1121,6 @@ grayness
 ganglionated
 ganglionectomy
 ganglionectomies
-ganglioneural
 ganglioneure
 goschens
 ganglioneuron
@@ -8920,6 +8919,7 @@ gowland
 grieced
 griecep
 grief
+ganglioneural
 griefful
 grieffully
 griefless
