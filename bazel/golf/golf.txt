@@ -4854,7 +4854,6 @@ gyrostabilized
 gyrostabilizer
 gyrostachys
 gyrostat
-gyrostatic
 gyrostatically
 gyrostats
 gastroplenic
@@ -9052,6 +9051,7 @@ grimmia
 guillotinement
 grimmiaceae
 goadster
+gyrostatic
 grimmiaceous
 grimmish
 ganguela
