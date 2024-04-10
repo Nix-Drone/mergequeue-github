@@ -224,7 +224,6 @@ abbrev
 abbreviatable
 abbreviate
 abbreviated
-abbreviately
 argotic
 afdecho
 abbreviates
@@ -2422,6 +2421,7 @@ acidific
 acidification
 acidified
 after
+abbreviately
 arthrozoic
 acidifier
 acidifiers
