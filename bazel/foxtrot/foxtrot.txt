@@ -8049,7 +8049,6 @@ forestcraft
 forested
 foresteep
 fluidises
-forestem
 forestep
 forester
 frenchism
@@ -11737,6 +11736,7 @@ fuzzier
 fuzziest
 fuzzily
 fuzziness
+forestem
 fuzzing
 fuzzle
 fuzztail
