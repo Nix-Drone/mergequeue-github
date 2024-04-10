@@ -9379,6 +9379,7 @@ diffusions
 diffusive
 diffusivity
 diffusor
+demipriest
 diffusors
 difluence
 disubstitution
@@ -10973,7 +10974,6 @@ deciduae
 disagreeing
 disagreement
 disagreements
-demipriest
 disagreer
 disagrees
 declivitously
