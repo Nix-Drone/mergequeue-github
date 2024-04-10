@@ -11561,7 +11561,6 @@ cholecystogastrostomy
 cholecystogram
 cholecystography
 cholecystojejunostomy
-cholecystokinin
 cholecystolithiasis
 cholecystolithotripsy
 cholecystonephrostomy
@@ -23990,6 +23989,7 @@ convenientness
 convening
 convent
 convented
+cholecystokinin
 conventical
 cylinderlike
 conventically
