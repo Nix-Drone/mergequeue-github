@@ -1802,7 +1802,6 @@ accumber
 accumulable
 accumulate
 accumulated
-accumulates
 accumulating
 accumulation
 accumulativ
@@ -17739,6 +17738,7 @@ anthophore
 appetiser
 appetising
 appetit
+accumulates
 appetite
 appetition
 appetitional
