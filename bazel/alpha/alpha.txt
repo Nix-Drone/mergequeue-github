@@ -17768,6 +17768,7 @@ appestat
 appestats
 appet
 appete
+ascript
 appetence
 appetency
 appetencies
@@ -21063,7 +21064,6 @@ ascribed
 ascribes
 ascribing
 anesthesiometer
-ascript
 ascription
 ascriptions
 ascriptitious
