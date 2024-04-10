@@ -1433,7 +1433,6 @@ glutael
 glycollide
 garmenture
 garmentworker
-garn
 garnel
 galvanotropic
 garnered
@@ -3400,6 +3399,7 @@ germanophile
 germanophilist
 germanophobia
 germanophobic
+garn
 germanophobist
 grids
 germanous
