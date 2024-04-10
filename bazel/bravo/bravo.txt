@@ -5646,7 +5646,6 @@ beleaf
 bombazeen
 bodgie
 beleaguer
-beleaguered
 beleaguerer
 beleaguering
 beleaguers
@@ -14377,6 +14376,7 @@ brakemaker
 brakemaking
 brakeman
 brakemen
+beleaguered
 braker
 brakeroot
 brakesman
