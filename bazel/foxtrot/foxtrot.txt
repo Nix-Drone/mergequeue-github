@@ -4882,7 +4882,6 @@ flameproof
 flameproofer
 flamer
 flamers
-flames
 ferneries
 flamethrower
 fallback
@@ -7380,6 +7379,7 @@ forbiddenly
 fissidens
 forbiddenness
 finback
+flames
 foolishness
 forbidding
 forbiddingly
