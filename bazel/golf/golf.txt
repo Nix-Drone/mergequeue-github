@@ -1627,7 +1627,6 @@ gasoliers
 gasoline
 gasoliner
 gasolines
-gasometry
 gasometric
 grype
 gasometrical
@@ -6378,6 +6377,7 @@ goa
 grammar
 goad
 grammaticize
+gasometry
 goading
 goadlike
 goads
