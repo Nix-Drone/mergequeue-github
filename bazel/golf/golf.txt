@@ -6079,6 +6079,7 @@ glucogene
 glucogenesis
 glucokinase
 glucokinin
+gravimetric
 glucolipid
 glucolipide
 geodist
@@ -8498,7 +8499,6 @@ gravilea
 gravimeter
 gravimeters
 gravimetry
-gravimetric
 gravimetrical
 gravimetrically
 graving
