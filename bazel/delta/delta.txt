@@ -1616,7 +1616,6 @@ deallocates
 deallocating
 deallocation
 deallocations
-deals
 dealt
 deambulate
 deambulatory
@@ -5671,6 +5670,7 @@ depilating
 duckwheat
 depilation
 depilator
+deals
 depilatory
 depilatories
 depilitant
