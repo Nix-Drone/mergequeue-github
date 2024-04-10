@@ -4402,7 +4402,6 @@ ammonolysis
 adrenocorticotropic
 adrenolysis
 adrenomedullary
-anthracolithic
 adrenosterone
 adrenotrophin
 adrenotropic
@@ -5724,6 +5723,7 @@ aftersensation
 aftershaft
 aftershafted
 aftershave
+anthracolithic
 aftershaves
 aftership
 aftershock
