@@ -1791,7 +1791,6 @@ debye
 debyes
 debilissima
 debilitant
-debilitated
 debilitates
 debilitation
 debilitations
@@ -2322,6 +2321,7 @@ dasypeltis
 deciares
 deciatine
 decibar
+debilitated
 decibel
 decibels
 deciceronize
