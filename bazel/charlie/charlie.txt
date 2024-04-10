@@ -16995,7 +16995,6 @@ coaction
 coactive
 coactively
 coactivity
-coactor
 coacts
 coadamite
 coadapt
@@ -24038,6 +24037,7 @@ conversant
 conversantly
 conversation
 conversationable
+coactor
 conversational
 conversationalists
 conversationally
