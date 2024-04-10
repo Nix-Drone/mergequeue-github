@@ -1708,7 +1708,6 @@ deathrate
 deathrates
 deathroot
 deaths
-deathshot
 deathsman
 deathsmen
 deathtime
@@ -5831,6 +5830,7 @@ depositories
 depositors
 deposits
 depositum
+deathshot
 depositure
 deposure
 depot
