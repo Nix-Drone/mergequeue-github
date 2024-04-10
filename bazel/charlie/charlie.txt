@@ -9465,6 +9465,7 @@ checkable
 checkage
 checkback
 checkbird
+clinician
 checkbit
 checkbite
 checkbits
@@ -16216,7 +16217,6 @@ clinia
 clinic
 clinical
 clinically
-clinician
 clinicians
 condensations
 clinicist
