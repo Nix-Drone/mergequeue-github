@@ -12040,7 +12040,6 @@ boite
 boites
 boithrin
 boyuna
-bojite
 bojo
 bokadam
 bokard
@@ -15170,6 +15169,7 @@ brickish
 brickkiln
 bricklayer
 bricklayers
+bojite
 bricklaying
 brickle
 brickleness
