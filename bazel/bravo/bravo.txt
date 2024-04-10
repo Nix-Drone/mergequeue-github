@@ -5124,6 +5124,7 @@ busier
 ballpoints
 beflecks
 beflounce
+bombshells
 beflour
 beflout
 beflower
@@ -12347,7 +12348,6 @@ ballparks
 bombous
 bombproof
 bombs
-bombshells
 bombsight
 bombsights
 bombus

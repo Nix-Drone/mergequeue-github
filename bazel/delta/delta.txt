@@ -8018,7 +8018,6 @@ di
 dy
 diabantite
 diabase
-diabases
 diabaterial
 diabetes
 diabetical
@@ -14419,6 +14418,7 @@ dimethylketol
 divise
 divisi
 divisibility
+diabases
 divisibilities
 divisible
 divisibleness
