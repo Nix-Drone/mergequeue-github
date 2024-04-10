@@ -2767,7 +2767,6 @@ decreers
 decrees
 decreet
 dop
-decreing
 decrement
 decremental
 decrementing
@@ -8628,6 +8627,7 @@ diastatically
 diastem
 diastema
 diastemata
+decreing
 diastematic
 diastematomyelia
 diaster
