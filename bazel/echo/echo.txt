@@ -1844,7 +1844,6 @@ eyewitness
 eyewitnesses
 eiffel
 eigenfrequency
-eigenfunction
 eigenstate
 eigenvalue
 eigenvalues
@@ -2810,6 +2809,7 @@ eleonorite
 eleoplast
 eleoptene
 eleostearate
+eigenfunction
 eleostearic
 escargatoire
 efficiencies
