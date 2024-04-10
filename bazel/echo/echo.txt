@@ -4808,7 +4808,6 @@ enclog
 eclipsis
 encloister
 enclosable
-enclose
 etymologize
 experimentalists
 enclosed
@@ -6496,6 +6495,7 @@ ensnarements
 ensnarer
 ensnarers
 ensnares
+enclose
 ensnarl
 ensnarled
 ensnarling
