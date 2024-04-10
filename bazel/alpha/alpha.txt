@@ -11339,6 +11339,7 @@ ampoule
 amps
 ampul
 ampulate
+autocue
 ampulated
 ampulating
 ampule
@@ -23972,7 +23973,6 @@ autocrats
 autocratship
 autocremation
 autocross
-autocue
 autodecomposition
 autodecrement
 autodecremented
