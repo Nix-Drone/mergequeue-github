@@ -1666,7 +1666,6 @@ accordable
 accordance
 accordances
 accordancy
-accordant
 accordatura
 amphiphloic
 accordaturas
@@ -23811,6 +23810,7 @@ authorisable
 authorisation
 authorise
 authorised
+accordant
 authoriser
 authorish
 authorising
