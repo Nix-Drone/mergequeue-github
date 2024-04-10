@@ -290,6 +290,7 @@ eastlins
 eastman
 eponymic
 embalming
+external
 eccentricity
 eastmost
 eastness
@@ -13620,7 +13621,6 @@ extermined
 extermining
 extern
 externa
-external
 externalisation
 externalise
 externalised
