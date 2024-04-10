@@ -5746,6 +5746,7 @@ empacket
 engilds
 engin
 engine
+epaulement
 engined
 engineer
 engineery
@@ -7460,7 +7461,6 @@ eparchs
 eparterial
 extrazodiacal
 epaule
-epaulement
 epaulet
 epauleted
 epaulets
