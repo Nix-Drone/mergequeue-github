@@ -3555,7 +3555,6 @@ bathhouse
 bathhouses
 bathyal
 bathyanesthesia
-bathybic
 braggest
 bathybius
 bathic
@@ -5675,6 +5674,7 @@ boer
 belemnoidea
 beleper
 bicycle
+bathybic
 beletter
 beleve
 belfried
