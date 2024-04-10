@@ -8305,6 +8305,7 @@ chalk
 chalkboard
 chalkboards
 chalkcutter
+clydeside
 chalked
 chalker
 chalky
@@ -16077,7 +16078,6 @@ clicks
 clidastes
 clyde
 clydesdale
-clydeside
 clydesider
 cliency
 client
