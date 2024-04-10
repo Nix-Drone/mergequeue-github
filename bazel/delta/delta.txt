@@ -3367,6 +3367,7 @@ damnum
 defleas
 deflect
 driftfishes
+dynamiting
 deflectable
 deflected
 deflecting
@@ -8403,7 +8404,6 @@ diammonium
 diamond
 diamondback
 diamondbacked
-dynamiting
 diamonded
 diamonding
 detrains
