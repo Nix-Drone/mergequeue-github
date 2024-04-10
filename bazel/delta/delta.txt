@@ -6670,7 +6670,6 @@ desyl
 desilicate
 desilicated
 desilicating
-desilicify
 desilicification
 desilicified
 desiliconization
@@ -14068,6 +14067,7 @@ disutility
 disutilize
 disvaluation
 disvalue
+desilicify
 disvalued
 doses
 disvalues

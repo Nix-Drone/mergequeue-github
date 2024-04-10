@@ -4043,7 +4043,6 @@ emong
 emony
 emory
 eversions
-emoted
 emoter
 emoters
 emotes
@@ -6793,6 +6792,7 @@ entertainingly
 entertainingness
 entertainment
 entertainments
+emoted
 entertains
 epilogs
 entertake
