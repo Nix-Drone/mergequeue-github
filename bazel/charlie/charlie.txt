@@ -14176,7 +14176,6 @@ circulable
 circulant
 circular
 circularisation
-circularise
 circularised
 circulariser
 circularising
@@ -21262,6 +21261,7 @@ concessive
 concessively
 caqueteuses
 concessiveness
+circularise
 concessor
 concessory
 concetti
