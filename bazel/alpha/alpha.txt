@@ -4616,7 +4616,6 @@ adventurous
 adventurously
 adventurousness
 adverb
-adverbial
 adverbiality
 adverbialize
 adverbially
@@ -22691,6 +22690,7 @@ atmolyzation
 atmolyze
 atmology
 atmologic
+adverbial
 anisotropous
 atmological
 atmologist
