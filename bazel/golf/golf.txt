@@ -2163,7 +2163,6 @@ gazella
 gazelle
 gazellelike
 gazelles
-gazelline
 gazement
 gazer
 gazers
@@ -4706,6 +4705,7 @@ girdler
 germicide
 gadids
 greeds
+gazelline
 girdlers
 girdles
 girdlestead
