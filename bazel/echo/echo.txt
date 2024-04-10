@@ -1853,7 +1853,6 @@ eyewinks
 eyewitness
 eiffel
 eigenfrequency
-eigenstate
 eigenvalue
 eigenvalues
 eigenvectors
@@ -7755,6 +7754,7 @@ epicrasis
 epicrates
 epicrises
 epicrisis
+eigenstate
 epicrystalline
 engagingly
 epics
