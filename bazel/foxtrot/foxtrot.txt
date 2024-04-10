@@ -1652,7 +1652,6 @@ fazes
 fazing
 fb
 fc
-fchar
 fipenny
 fcomp
 fconv
@@ -4350,6 +4349,7 @@ fishbolts
 fishbone
 fishbones
 fishbowl
+fchar
 falchions
 fishbowls
 fisheater
