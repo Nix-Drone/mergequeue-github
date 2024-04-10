@@ -3896,7 +3896,6 @@ adience
 adient
 adieu
 adieus
-adieux
 adigei
 adighe
 adight
@@ -24785,6 +24784,7 @@ avion
 avionic
 avionics
 avions
+adieux
 avirulence
 avirulent
 avis
