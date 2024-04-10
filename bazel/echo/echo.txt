@@ -8322,7 +8322,6 @@ epistolist
 epistolization
 epistolize
 epistolized
-epistolizer
 epistolizing
 enwreathed
 epistolography
@@ -11480,6 +11479,7 @@ evenmete
 evenmindedness
 evenness
 evennesses
+epistolizer
 evensong
 evensongs
 event
