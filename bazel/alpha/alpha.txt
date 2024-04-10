@@ -17759,7 +17759,6 @@ appius
 appl
 applanate
 applanation
-applaud
 applaudable
 applaudably
 applauded
@@ -21836,6 +21835,7 @@ associability
 associable
 associableness
 associated
+applaud
 associatedness
 associates
 associateship
