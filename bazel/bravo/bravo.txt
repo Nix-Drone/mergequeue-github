@@ -2105,7 +2105,6 @@ bankerdom
 bankeress
 bankers
 banket
-bankfull
 banky
 banking
 bankings
@@ -4165,6 +4164,7 @@ bearings
 bearish
 bearishly
 bearishness
+bankfull
 bearlet
 bellower
 bearm
