@@ -434,6 +434,7 @@ backout
 backouts
 backpack
 backpacked
+biplace
 bibliophagic
 backpackers
 backpacking
@@ -9326,7 +9327,6 @@ bipinnatisect
 bipinnatisected
 bipyramid
 bipyridyl
-biplace
 bubale
 byplace
 bombard
