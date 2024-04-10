@@ -11016,7 +11016,6 @@ chirurgeonly
 chirurgery
 chirurgy
 chirurgic
-chirurgical
 chis
 chisedec
 chisel
@@ -23222,6 +23221,7 @@ consultee
 counterparallel
 consulter
 consultive
+chirurgical
 consultively
 consulto
 consultor
