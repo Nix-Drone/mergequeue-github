@@ -7672,6 +7672,7 @@ devocation
 devoice
 devoiced
 devoices
+diopters
 disentangles
 devoicing
 devoid
@@ -10285,7 +10286,6 @@ diopsidic
 diopsimeter
 dioptases
 diopter
-diopters
 dioptograph
 dioptometer
 dioptometry
