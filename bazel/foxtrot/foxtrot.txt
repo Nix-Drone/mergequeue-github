@@ -6666,7 +6666,6 @@ focalised
 focalises
 focalising
 focalization
-focalize
 focalized
 focalizes
 focalizing
@@ -9796,6 +9795,7 @@ forestick
 frenchness
 frenchwise
 frenchwoman
+focalize
 frankheartedly
 frenchwomen
 frenetical

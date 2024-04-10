@@ -5660,7 +5660,6 @@ aftergame
 aftergas
 afterglide
 afterglow
-alloclasite
 afterglows
 aftergo
 aftergood
@@ -6498,6 +6497,7 @@ agrimotor
 agrin
 agriochoeridae
 agriochoerus
+alloclasite
 agriology
 almah
 agriological
