@@ -2250,7 +2250,6 @@ electable
 electant
 electary
 elected
-electee
 enthraldom
 elysee
 electees
@@ -8264,6 +8263,7 @@ episome
 episomes
 empeine
 epispadia
+electee
 epispadiac
 epispadias
 epispastic
