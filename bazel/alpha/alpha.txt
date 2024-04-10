@@ -1678,7 +1678,6 @@ accorded
 accorder
 accorders
 according
-accordingly
 accordion
 accordionist
 abrased
@@ -11583,6 +11582,7 @@ anaerobic
 anaerobically
 anaerobies
 anaerobion
+accordingly
 anaerobiont
 anaerobiosis
 anaerobiotic
