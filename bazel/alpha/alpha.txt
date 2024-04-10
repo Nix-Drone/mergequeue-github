@@ -24204,7 +24204,6 @@ automats
 automechanical
 automechanism
 automelon
-automen
 autometamorphosis
 autometry
 autometric
@@ -25106,6 +25105,7 @@ axing
 axiniform
 axinite
 axinomancy
+automen
 axiolite
 axiolitic
 axiology
