@@ -5495,7 +5495,6 @@ endurer
 endures
 enduring
 enduringly
-enduringness
 enduro
 enduros
 endways
@@ -9568,6 +9567,7 @@ escargots
 escarmouche
 escarole
 escaroles
+enduringness
 escarp
 escarping
 escarpment
