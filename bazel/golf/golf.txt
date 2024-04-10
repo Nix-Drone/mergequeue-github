@@ -2162,7 +2162,6 @@ gazeless
 gazella
 gazelle
 gazellelike
-gazelles
 gazelline
 gazement
 gazer
@@ -8306,6 +8305,7 @@ grassless
 grasslike
 gadolinite
 grassman
+gazelles
 grassmen
 grassnut
 grassplat
