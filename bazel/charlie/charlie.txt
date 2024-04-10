@@ -4939,7 +4939,6 @@ casbahs
 cascabel
 cascabels
 cascable
-cascables
 cascadable
 cascade
 cascaded
@@ -30378,6 +30377,7 @@ ctenizid
 ctenocephalus
 ctenocyst
 copelate
+cascables
 ctenodactyl
 ctenodipterini
 ctenodont
