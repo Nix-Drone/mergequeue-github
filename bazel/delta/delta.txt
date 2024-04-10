@@ -3561,7 +3561,6 @@ degasification
 degasifier
 degass
 degassed
-degasser
 degassers
 degasses
 degassing
@@ -17904,6 +17903,7 @@ duffadar
 decarchies
 duffed
 dynamisms
+degasser
 duffel
 duffels
 duffer
