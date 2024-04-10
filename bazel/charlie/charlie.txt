@@ -19255,7 +19255,6 @@ colonisation
 colonisationist
 colonise
 colonised
-coloniser
 colonises
 colonising
 colonist
@@ -28625,6 +28624,7 @@ crenation
 crenature
 crenel
 crenelated
+coloniser
 crenelates
 cheverons
 crenelation
