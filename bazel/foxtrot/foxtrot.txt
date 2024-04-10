@@ -4031,7 +4031,6 @@ finishable
 finished
 furrings
 finisher
-finishers
 finishes
 finishing
 finitary
@@ -10168,6 +10167,7 @@ fordam
 frist
 frisure
 frit
+finishers
 frithborgh
 frithbot
 friskets
