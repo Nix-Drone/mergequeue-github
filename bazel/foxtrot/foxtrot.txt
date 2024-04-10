@@ -3916,6 +3916,7 @@ findings
 findjan
 findon
 finds
+foresays
 failing
 font
 fine
@@ -7921,7 +7922,6 @@ foresay
 foresaying
 foresail
 foresails
-foresays
 foresaw
 forescene
 forescent
