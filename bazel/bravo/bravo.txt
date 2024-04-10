@@ -5282,7 +5282,6 @@ begirt
 beglad
 begladding
 beglads
-beglamour
 beglare
 beglerbeg
 beglerbeglic
@@ -7870,6 +7869,7 @@ bibaciousness
 balche
 bibacity
 bibation
+beglamour
 bibb
 bibbed
 bibber
