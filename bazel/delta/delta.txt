@@ -6576,6 +6576,7 @@ desentimentalize
 deseret
 desert
 deserted
+dischargeable
 desertedly
 deserter
 deserters
@@ -11316,7 +11317,6 @@ discerptive
 discession
 discharacter
 discharge
-dischargeable
 discharged
 dischargee
 discharger
