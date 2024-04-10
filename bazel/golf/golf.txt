@@ -3980,6 +3980,7 @@ giftwrapping
 gig
 giga
 gigabit
+gipsylike
 gigabyte
 gigabytes
 gigabits
@@ -4650,7 +4651,6 @@ glucke
 gipsyism
 gypsyism
 gypsyisms
-gipsylike
 guardianess
 gypsylike
 glowworm
