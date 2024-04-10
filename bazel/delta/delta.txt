@@ -469,7 +469,6 @@ daystar
 daystars
 daystreak
 daytale
-daitya
 daytide
 daytime
 daytimes
@@ -2846,6 +2845,7 @@ decupled
 decrementless
 decuples
 decuplet
+daitya
 decupling
 draper
 decury
