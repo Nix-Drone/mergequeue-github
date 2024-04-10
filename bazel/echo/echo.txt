@@ -4508,7 +4508,6 @@ encake
 encalendar
 encallow
 encamping
-encampment
 encampments
 encamps
 endoparasite
@@ -7818,6 +7817,7 @@ epidermophyton
 epidermophytosis
 epidermose
 epidermous
+encampment
 epiderms
 epidesmine
 epidialogue
