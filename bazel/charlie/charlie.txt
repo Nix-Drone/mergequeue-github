@@ -26674,7 +26674,6 @@ counterbase
 counterbattery
 counterbeating
 counterbend
-counterbewitch
 counterbid
 counterblast
 counterblow
@@ -29871,6 +29870,7 @@ crosslighted
 crosslike
 carbosilicate
 crossline
+counterbewitch
 cymas
 crosslink
 crossness
