@@ -972,6 +972,7 @@ fardage
 farde
 farded
 fardel
+fiver
 fardelet
 fardels
 finespun
@@ -4609,7 +4610,6 @@ fivepence
 fivepenny
 fivepins
 frosteds
-fiver
 fives
 fivescore
 fm
