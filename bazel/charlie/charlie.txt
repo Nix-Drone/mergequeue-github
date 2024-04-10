@@ -16314,6 +16314,7 @@ clippings
 clips
 clipse
 clipsheet
+cogency
 clipsheets
 clipsome
 clipt
@@ -16982,7 +16983,6 @@ coachlet
 coachmaker
 coachmaking
 coachman
-cogency
 coachmaster
 coachmen
 coachs
