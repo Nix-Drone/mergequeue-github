@@ -1281,7 +1281,6 @@ acanthion
 allophytoid
 acanthocarpous
 acanthocephala
-acanthocephalan
 acanthocephali
 acanthocephalous
 acanthocereus
@@ -3593,6 +3592,7 @@ addresses
 auxetics
 addressful
 addressing
+acanthocephalan
 addressograph
 addressor
 addrest
