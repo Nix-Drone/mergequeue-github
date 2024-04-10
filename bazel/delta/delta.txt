@@ -3228,7 +3228,6 @@ defensemen
 defenser
 defenses
 defensibility
-defensible
 defensibleness
 defensibly
 defensing
@@ -14094,6 +14093,7 @@ ditch
 ditchbur
 ditchdigger
 ditchdigging
+defensible
 ditchdown
 ditched
 ditcher
