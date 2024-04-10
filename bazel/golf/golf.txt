@@ -2632,7 +2632,6 @@ genecor
 goldseed
 geneki
 genep
-genepi
 genera
 generability
 generable
@@ -3435,6 +3434,7 @@ gauds
 germinal
 germinance
 germinant
+genepi
 glumpy
 germinate
 germinates
