@@ -3173,7 +3173,6 @@ fibrosities
 fibrositis
 fibrospongiae
 formative
-fibrotic
 fibrotuberculosis
 fracture
 fibrous
@@ -4685,6 +4684,7 @@ fjord
 fluorocarbons
 fjorded
 fjords
+fibrotic
 fjorgyn
 fl
 flab
