@@ -2970,7 +2970,6 @@ elimination
 eliminations
 eliminator
 eliminatory
-eliminators
 elymus
 elinguate
 elinguated
@@ -6219,6 +6218,7 @@ enomaniac
 enomotarch
 enophthalmos
 exobiological
+eliminators
 enophthalmus
 eusynchite
 enopla
