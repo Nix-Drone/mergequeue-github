@@ -4536,7 +4536,6 @@ adumbrellar
 adunation
 adunc
 aduncate
-aduncated
 aduncity
 aduncous
 adure
@@ -9673,6 +9672,7 @@ alveole
 alveolectomy
 alveoli
 alveoliform
+aduncated
 alveolite
 alveolitis
 alveoloclasia
