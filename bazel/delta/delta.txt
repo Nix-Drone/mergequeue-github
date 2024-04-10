@@ -7257,6 +7257,7 @@ detests
 dethyroidism
 dethronable
 dethroned
+ductile
 dethronement
 dethronements
 dethroner
@@ -17806,7 +17807,6 @@ duct
 ducted
 ductibility
 ductible
-ductile
 ductilely
 ductileness
 ductilimeter
