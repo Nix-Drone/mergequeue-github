@@ -4837,7 +4837,6 @@ bedstaves
 bedstead
 bedsteads
 bedstock
-beshrouded
 bedstraw
 bedstraws
 biliteral
@@ -15398,6 +15397,7 @@ brimse
 brimstone
 brimstonewort
 brin
+beshrouded
 brince
 brinded
 brindisi
