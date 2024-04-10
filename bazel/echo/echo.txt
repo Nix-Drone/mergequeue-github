@@ -832,7 +832,6 @@ ectype
 ectypes
 ectypography
 ectiris
-ectoblast
 episodal
 exceeds
 ectoblastic
@@ -4822,6 +4821,7 @@ encodings
 encoffin
 encoffinment
 encoignures
+ectoblast
 esox
 encoil
 encolden
