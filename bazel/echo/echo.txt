@@ -10407,7 +10407,6 @@ ethylin
 ethylmorphine
 ethyls
 ethylsulphuric
-ethylthioethane
 ethylthioether
 ethinamate
 ethine
@@ -13669,6 +13668,7 @@ extinct
 extincted
 extincteur
 extincting
+ethylthioethane
 expt
 encephalomeningitis
 extinctionist
