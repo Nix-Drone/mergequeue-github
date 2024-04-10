@@ -2487,7 +2487,6 @@ electrolyzability
 electrolyzation
 electrolyze
 electrolyzed
-electrolyzer
 electrology
 electrological
 electrologist
@@ -7776,6 +7775,7 @@ ejulation
 epidemiographist
 epidemiology
 epidemiologic
+electrolyzer
 epidemiological
 epidemiologically
 epidemiologies
