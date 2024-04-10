@@ -9531,7 +9531,6 @@ escamotage
 escamoteur
 escapable
 escapade
-escapado
 escapage
 escape
 enframement
@@ -13088,6 +13087,7 @@ experimentator
 experimented
 experimentee
 empressement
+escapado
 experimenter
 experimenters
 experimenting
