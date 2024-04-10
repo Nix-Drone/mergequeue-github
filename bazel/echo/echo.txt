@@ -5043,7 +5043,6 @@ endemicity
 endemics
 endemiology
 examiner
-endemiological
 endemism
 endemisms
 eurystheus
@@ -11882,6 +11881,7 @@ exaudi
 exaugurate
 exauguration
 exaun
+endemiological
 exauthorate
 exauthorize
 exauthorizeexc
