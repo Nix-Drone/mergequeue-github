@@ -8109,6 +8109,7 @@ granulator
 gemmiparity
 granulators
 granules
+gripper
 granulet
 granuliform
 granulite
@@ -9132,7 +9133,6 @@ grypotherium
 grippe
 glazings
 grippelike
-gripper
 gridlock
 grippers
 goatees
