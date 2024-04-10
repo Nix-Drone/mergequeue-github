@@ -11773,7 +11773,6 @@ chondrosternal
 chondrotome
 chondrotomy
 chondroxiphoid
-chondrule
 chondrules
 chondrus
 chonicrite
@@ -14630,6 +14629,7 @@ cysticarpic
 cysticarpium
 cysticercerci
 cysticerci
+chondrule
 cysticercoid
 cysticercoidal
 cysticercosis
