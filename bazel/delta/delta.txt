@@ -379,7 +379,6 @@ daily
 dailies
 daylight
 daylighted
-daylighting
 daylights
 daylily
 daylilies
@@ -7257,6 +7256,7 @@ deterrer
 deterrers
 deterring
 deters
+daylighting
 detersiveness
 detest
 detestability
