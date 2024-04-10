@@ -9354,7 +9354,6 @@ alphabetism
 amanda
 alphabetist
 alphabetization
-alphabetize
 alphabetized
 alphabetizer
 alphabetizers
@@ -11575,6 +11574,7 @@ anacreon
 anacreontic
 anacreontically
 anacrisis
+alphabetize
 anacrogynae
 anacrogynous
 anacromyodian
