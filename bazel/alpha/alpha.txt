@@ -12066,6 +12066,7 @@ anatomicomedical
 anatomicopathologic
 anatomicopathological
 anatomicophysiologic
+arteriofibrosis
 anatomicophysiological
 anatomicosurgical
 anatomies
@@ -20497,7 +20498,6 @@ arteriocapillary
 arteriococcygeal
 arteriodialysis
 arteriodiastasis
-arteriofibrosis
 arteriogenesis
 arteriogram
 arteriograph
