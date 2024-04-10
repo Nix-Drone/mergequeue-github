@@ -9751,7 +9751,6 @@ dilo
 differentially
 dilogarithm
 dilogy
-dilogical
 dilos
 dilucid
 dilucidate
@@ -17926,6 +17925,7 @@ duftite
 duftry
 dogtrotted
 dug
+dilogical
 dugal
 dugdug
 dugento
