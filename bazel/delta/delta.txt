@@ -5540,7 +5540,6 @@ deoxygenizing
 deoxyribonuclease
 deoxyribonucleoprotein
 deoxyribonucleotide
-deoxyribose
 deozonization
 deozonize
 deozonizer
@@ -13723,6 +13722,7 @@ daikering
 distains
 distal
 distale
+deoxyribose
 distalia
 distalwards
 distance
