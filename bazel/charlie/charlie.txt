@@ -7443,7 +7443,6 @@ ceratospongiae
 ceratospongian
 ceratostomataceae
 ceratostomella
-ceratotheca
 ceratothecae
 ceratothecal
 ceratozamia
@@ -20717,6 +20716,7 @@ complicative
 complicator
 complicators
 complice
+ceratotheca
 complices
 complicity
 complicitous
