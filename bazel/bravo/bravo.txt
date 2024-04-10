@@ -1654,7 +1654,6 @@ barded
 bradyseismal
 ballotist
 ballots
-ballottable
 ballottement
 ballottine
 ballottines
@@ -8504,6 +8503,7 @@ bongos
 bikukulla
 bilaan
 biogenous
+ballottable
 bilabe
 bilabial
 bilabials
