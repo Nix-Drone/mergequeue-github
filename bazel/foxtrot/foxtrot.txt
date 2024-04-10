@@ -3050,7 +3050,6 @@ fibred
 fibrefill
 fibreglass
 fibreless
-fibres
 fibry
 fibril
 fibrilated
@@ -7739,6 +7738,7 @@ foreyard
 forpit
 foreyards
 foreyear
+fibres
 foreign
 floodlights
 foreigneering
