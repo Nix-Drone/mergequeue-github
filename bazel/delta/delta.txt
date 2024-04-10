@@ -8300,7 +8300,6 @@ dialyzation
 dialyzator
 dialyze
 dialyzed
-dialyzer
 dialyzes
 dialyzing
 dialkyl
@@ -15192,6 +15191,7 @@ dolomitise
 dolomitised
 dolomitization
 dolomitize
+dialyzer
 dolomitized
 dolomitizing
 dolomization
