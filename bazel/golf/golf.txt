@@ -1511,7 +1511,6 @@ garroting
 gn
 garrotte
 garrotted
-garrotting
 garrulinae
 garruline
 garrulity
@@ -9322,6 +9321,7 @@ groom
 groomed
 groomer
 groomers
+garrotting
 groomy
 grooming
 groomish
