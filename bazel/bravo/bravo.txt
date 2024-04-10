@@ -1980,7 +1980,6 @@ bandoleros
 bandolier
 bandoliered
 bandoline
-bandonion
 bandor
 bandora
 bandore
@@ -2759,6 +2758,7 @@ barny
 barnyard
 barnyards
 barnier
+bandonion
 barniest
 barnlike
 barnman
