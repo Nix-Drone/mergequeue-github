@@ -2215,6 +2215,7 @@ gear
 gearcase
 gearcases
 geared
+gliderport
 gearing
 gearings
 gearman
@@ -5561,7 +5562,6 @@ glide
 glided
 glider
 gruft
-gliderport
 gliders
 guttural
 grando
