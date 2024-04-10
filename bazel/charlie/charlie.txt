@@ -16418,6 +16418,7 @@ cloaking
 cloakless
 cloaklet
 cloakmaker
+constrainer
 cloakmaking
 cloakroom
 cloakrooms
@@ -23100,7 +23101,6 @@ constrained
 constrainedly
 constrainedness
 carroll
-constrainer
 constraining
 constrainingly
 constrainment
