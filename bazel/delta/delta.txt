@@ -11544,6 +11544,7 @@ disconformities
 discongruity
 disconjure
 disconnect
+dognapped
 disconnected
 disconnectedly
 disconnectedness
@@ -15004,7 +15005,6 @@ dognap
 dognaped
 dognaper
 dognapers
-dognapped
 dognapper
 dognapping
 dognaps
