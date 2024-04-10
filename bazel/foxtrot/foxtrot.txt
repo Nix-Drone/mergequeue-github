@@ -2899,6 +2899,7 @@ feudary
 firmamental
 feudaries
 feudatary
+fecundation
 feudatory
 feudatorial
 feudatories
@@ -8784,7 +8785,6 @@ forweend
 forweep
 forwelk
 forwent
-fecundation
 forwhy
 federacies
 forwoden
