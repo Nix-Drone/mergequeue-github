@@ -2634,7 +2634,6 @@ electrosteel
 electrostenolysis
 electrostenolytic
 electrostriction
-elinvar
 electrosurgery
 electrosurgeries
 electrosurgical
@@ -12305,6 +12304,7 @@ execrative
 execratively
 execrator
 execrators
+elinvar
 execs
 exect
 executable
