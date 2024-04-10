@@ -3232,7 +3232,6 @@ geoscopic
 geoselenic
 geosid
 geoside
-geosynchronous
 geosynclinal
 geosynclines
 geosphere
@@ -10305,6 +10304,7 @@ guaiocums
 gula
 gulae
 gulaman
+geosynchronous
 ghent
 gulancha
 guland
