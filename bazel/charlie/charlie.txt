@@ -7295,7 +7295,6 @@ cephalomeningitis
 cephalomere
 cyclostylar
 cephalometer
-cephalometry
 cephalometric
 cephalomyitis
 cephalomotor
@@ -20220,6 +20219,7 @@ commotions
 commotive
 commove
 commoved
+cephalometry
 commoves
 commoving
 capturer
