@@ -5983,6 +5983,7 @@ glossotype
 glossotomy
 glosts
 glottal
+grapsoid
 glottalite
 glottalization
 glottalize
@@ -8243,7 +8244,6 @@ grapplers
 grapples
 grappling
 grapsidae
-grapsoid
 grapsus
 grapta
 gondolet
