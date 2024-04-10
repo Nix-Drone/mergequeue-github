@@ -6371,7 +6371,6 @@ goaler
 goalie
 goaling
 goalkeeper
-goalkeeping
 goalless
 goalmouth
 goalpost
@@ -8664,6 +8663,7 @@ gentlewoman
 greenhouse
 greenhouses
 greeny
+goalkeeping
 greenyard
 greenier
 greeniest
