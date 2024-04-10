@@ -2723,6 +2723,7 @@ fess
 fesse
 fessed
 fessely
+foldouts
 fesses
 fessewise
 fessing
@@ -6899,7 +6900,6 @@ foldy
 folding
 foldless
 foldout
-foldouts
 folds
 foldskirt
 foldstool

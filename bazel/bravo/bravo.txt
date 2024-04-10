@@ -15652,7 +15652,6 @@ broadsides
 broadsiding
 broadspread
 broadsword
-broadswords
 broadtail
 basenet
 boolies
@@ -16453,6 +16452,7 @@ bsh
 bskt
 blubbered
 bt
+broadswords
 btise
 bylander
 btl
