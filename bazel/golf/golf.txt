@@ -5930,7 +5930,6 @@ glossolabiopharyngeal
 glossolaly
 glossolalia
 glossolaryngeal
-glossolysis
 glossology
 glossologies
 glossologist
@@ -10248,6 +10247,7 @@ ganggang
 guyot
 guyots
 guipure
+glossolysis
 guipures
 guirlande
 guiro
