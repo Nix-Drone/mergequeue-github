@@ -194,7 +194,6 @@ factive
 facto
 factor
 factorability
-factorable
 factorage
 factordom
 factoress
@@ -1366,6 +1365,7 @@ fathomableness
 fathomage
 fathomed
 fathomer
+factorable
 fbi
 fathometer
 fellani

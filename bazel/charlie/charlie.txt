@@ -5935,7 +5935,6 @@ catmints
 catnache
 chantefable
 catnap
-catnaper
 catnapers
 coagulable
 catnapper
@@ -31275,6 +31274,7 @@ curdled
 curdler
 curdlers
 curdles
+catnaper
 curdly
 curdling
 curdoo
