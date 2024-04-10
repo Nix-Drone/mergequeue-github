@@ -5585,6 +5585,7 @@ afridi
 afright
 afrikaans
 afrikander
+arrayed
 afrikanderdom
 afrikanderism
 afrikaner
@@ -10296,7 +10297,6 @@ amerciament
 agao
 amercing
 america
-arrayed
 americanese
 americanisms
 americanistic
