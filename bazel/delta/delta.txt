@@ -6042,7 +6042,6 @@ dungeonlike
 deputizes
 deputizing
 dequantitate
-dequeen
 dequeue
 dequeues
 dequeuing
@@ -14116,6 +14115,7 @@ ditchdigging
 defensible
 ditchdown
 ditched
+dequeen
 ditcher
 ditchers
 deathwards
