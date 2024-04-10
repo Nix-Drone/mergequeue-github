@@ -5223,7 +5223,6 @@ begarnish
 begartered
 begash
 begass
-begat
 begats
 bestrows
 begattal
@@ -6622,6 +6621,7 @@ berake
 bookstack
 beraked
 belittles
+begat
 basilyst
 beraking
 berakoth
