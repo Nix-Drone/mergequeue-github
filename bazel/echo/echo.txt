@@ -4517,7 +4517,6 @@ encanthis
 encapsulate
 encapsulated
 encapsulates
-encapsulating
 encapsulation
 encapsulations
 encapsule
@@ -7684,6 +7683,7 @@ epichlorohydrin
 epichondrosis
 epichondrotic
 epichordal
+encapsulating
 epichorial
 epichoric
 epichorion
