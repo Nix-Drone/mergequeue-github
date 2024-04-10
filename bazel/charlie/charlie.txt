@@ -7485,6 +7485,7 @@ cercopid
 continent
 cercopidae
 cercopithecid
+coenenchymata
 cercopithecidae
 cercopithecoid
 cercopithecus
@@ -17975,7 +17976,6 @@ coenduring
 coenenchym
 coenenchyma
 coenenchymal
-coenenchymata
 coenenchymatous
 coenenchyme
 coenesthesia
