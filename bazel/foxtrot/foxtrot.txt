@@ -6677,7 +6677,6 @@ focus
 focusable
 focused
 focuses
-focusing
 focusless
 focussed
 feudally
@@ -11087,6 +11086,7 @@ funambulatory
 funambule
 frontality
 funambulic
+focusing
 funambulism
 funambulo
 funambuloes
