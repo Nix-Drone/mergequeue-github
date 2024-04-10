@@ -6623,7 +6623,6 @@ enterable
 enteraden
 enteradenography
 enteradenographic
-enteradenology
 enteradenological
 enteral
 enteralgia
@@ -12286,6 +12285,7 @@ exdie
 exdividend
 exeat
 exec
+enteradenology
 execeptional
 execrableness
 execrate
