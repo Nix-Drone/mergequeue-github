@@ -1929,7 +1929,6 @@ fencelike
 feebling
 feeblish
 flammivomous
-feedback
 feedbag
 feedbags
 fartherance
@@ -7090,6 +7089,7 @@ fool
 flamandization
 foolable
 fooldom
+feedback
 foolery
 fooleries
 faunula
