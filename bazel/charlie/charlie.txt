@@ -9469,7 +9469,6 @@ checkbits
 checkbook
 checkbooks
 checke
-checked
 checker
 checkerbelly
 checkerbellies
@@ -18826,6 +18825,7 @@ collagenase
 collagenic
 collagenous
 collagens
+checked
 collages
 collapsability
 collapsable
