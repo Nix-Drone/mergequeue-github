@@ -4863,7 +4863,6 @@ encoronal
 encoronate
 encoronet
 encounter
-encounterable
 encountered
 encounterer
 entitlement
@@ -14021,6 +14020,7 @@ extravaginal
 eluates
 extravasate
 extravasated
+encounterable
 extravasating
 elasmosaur
 extravasation
