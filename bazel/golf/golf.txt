@@ -5537,7 +5537,6 @@ gliddery
 glide
 glided
 glider
-gliderport
 gliders
 grando
 glides
@@ -10091,6 +10090,7 @@ guesthouse
 guesthouses
 guestimate
 guesting
+gliderport
 guestive
 guestling
 guestmaster
