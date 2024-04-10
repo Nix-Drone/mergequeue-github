@@ -2591,6 +2591,7 @@ acnodal
 acnode
 acnodes
 acoasm
+apiculture
 acoasma
 acocanthera
 avile
@@ -16998,7 +16999,6 @@ apiculated
 apiculi
 astrographic
 apicultural
-apiculture
 apiculturist
 apiculus
 apidae
