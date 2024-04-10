@@ -1275,6 +1275,7 @@ eelworms
 een
 eyepieces
 encrimson
+endosternite
 eequinoctium
 eer
 eery
@@ -2435,7 +2436,6 @@ electrofusion
 electrogalvanic
 electrogalvanization
 electrogasdynamics
-endosternite
 electrogenetic
 electrogenic
 electrogild
