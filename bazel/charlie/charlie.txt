@@ -1580,7 +1580,6 @@ calorigenic
 calorimeter
 calorimeters
 calorimetry
-calorimetric
 calorimetrical
 calorimetrically
 calorimotor
@@ -11317,6 +11316,7 @@ chloroleucite
 chloroma
 chloromata
 chloromelanite
+calorimetric
 chlorometer
 chloromethane
 chlorometry
