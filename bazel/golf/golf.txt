@@ -6783,6 +6783,7 @@ gonadotrophic
 gonadotrophin
 gonadotropic
 gonadotropin
+gray
 granivorous
 gonaduct
 gonagra
@@ -7725,7 +7726,6 @@ grorudite
 grahamite
 greeve
 grahams
-gray
 graian
 graybacks
 graybeard
