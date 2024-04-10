@@ -3603,7 +3603,6 @@ embosture
 embottle
 embouchement
 embouchment
-embouchure
 embouchures
 embound
 embourgeoisement
@@ -7053,6 +7052,7 @@ entrants
 etherializing
 entrapment
 esrog
+embouchure
 entrapments
 ethnogeographical
 epistolar
