@@ -456,7 +456,6 @@ eccyclema
 eccyesis
 eccl
 eccles
-ecclesia
 ecclesiae
 ecclesial
 ecclesiarch
@@ -10275,6 +10274,7 @@ etherealisation
 etherealise
 etherealised
 etherealising
+ecclesia
 etherealism
 ethereality
 etherealization
