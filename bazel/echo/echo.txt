@@ -2609,7 +2609,6 @@ electropneumatic
 electropoion
 electropolar
 electropolish
-electropositive
 electropower
 electropsychrometer
 electropult
@@ -11112,6 +11111,7 @@ euptelea
 eurafric
 eurafrican
 euraquilo
+electropositive
 eurasianism
 eurasiatic
 eremites
