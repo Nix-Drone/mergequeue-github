@@ -3422,7 +3422,6 @@ bassoon
 bedash
 bassoonist
 bassoonists
-bassoons
 bassorin
 bassos
 bassus
@@ -12329,6 +12328,7 @@ brigades
 budgeting
 bomble
 bombline
+bassoons
 bombload
 blueprinter
 bergeres
