@@ -84,7 +84,6 @@ faces
 facesaving
 facet
 faceted
-firbolg
 facetely
 faceteness
 farther
@@ -6545,6 +6544,7 @@ flushness
 flusk
 flusker
 fluster
+firbolg
 floodtime
 flusterated
 flusterating
