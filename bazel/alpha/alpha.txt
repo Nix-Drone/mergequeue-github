@@ -4450,7 +4450,6 @@ adsorbates
 adsorbed
 adsorbent
 adsorbents
-adsorbing
 adsorbs
 adsorption
 abiston
@@ -13312,6 +13311,7 @@ antirational
 anisylidene
 adigranth
 aerographer
+adsorbing
 anisobranchiate
 anisocarpic
 anisocarpous
