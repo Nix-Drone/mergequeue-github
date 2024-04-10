@@ -3568,7 +3568,6 @@ fileable
 filecard
 filechar
 filed
-filefish
 filefishes
 filelike
 fogie
@@ -8805,6 +8804,7 @@ forwrap
 forz
 forzando
 forzandos
+filefish
 forzato
 fosh
 fosie
