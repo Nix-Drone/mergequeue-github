@@ -7789,7 +7789,6 @@ cervicolumbar
 crystal
 cervicomuscular
 cerviconasal
-cervicorn
 cervicoscapular
 cervicothoracic
 cervicovesical
@@ -10625,6 +10624,7 @@ chimb
 chimbe
 chimble
 chimbley
+cervicorn
 chimbleys
 chimbly
 chimblies
