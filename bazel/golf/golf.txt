@@ -6922,7 +6922,6 @@ gonocytes
 gonococcal
 greynesses
 gonococci
-gonococcic
 grotesco
 glacis
 gigantocyte
@@ -8406,6 +8405,7 @@ gravamen
 gravamens
 gravamina
 gravaminous
+gonococcic
 gravat
 grave
 gemmed
