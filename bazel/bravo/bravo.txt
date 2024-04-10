@@ -8811,7 +8811,6 @@ bimodulus
 bimong
 bimonthlies
 bimorph
-bimorphemic
 bimorphs
 bimotor
 bimotored
@@ -16450,6 +16449,7 @@ brutely
 brutelike
 bruteness
 brutify
+bimorphemic
 brutification
 badness
 brutified
