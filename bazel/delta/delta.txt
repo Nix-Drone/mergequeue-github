@@ -16498,6 +16498,7 @@ draffsack
 draft
 draftable
 draftage
+drinkability
 drafted
 draftee
 draftees
@@ -17115,7 +17116,6 @@ drynesses
 dringle
 dognaping
 drink
-drinkability
 drinkable
 drinkableness
 drinkables
