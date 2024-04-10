@@ -4158,6 +4158,7 @@ fireblende
 fireboard
 fireboat
 fireboats
+fossilise
 fireboy
 firebolted
 firebomb
@@ -8857,7 +8858,6 @@ fossiliferous
 fossilify
 fossilification
 fossilisable
-fossilise
 fossilised
 frameableness
 feuterer
