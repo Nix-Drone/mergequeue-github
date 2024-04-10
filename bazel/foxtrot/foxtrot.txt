@@ -59,6 +59,7 @@ facebar
 facebow
 facebread
 facecloth
+firestone
 faced
 facedown
 faceharden
@@ -4227,7 +4228,6 @@ fireside
 firesider
 firesideship
 firespout
-firestone
 firestop
 firestopping
 firestorm
