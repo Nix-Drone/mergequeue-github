@@ -1884,7 +1884,6 @@ debruising
 debs
 debt
 debted
-debtee
 debtful
 debtless
 debtor
@@ -8550,6 +8549,7 @@ diarian
 drunt
 diarist
 diaristic
+debtee
 diarists
 diarize
 diarrhea
