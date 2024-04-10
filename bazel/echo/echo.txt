@@ -2240,7 +2240,6 @@ electability
 electable
 electant
 electary
-elected
 enthraldom
 elysee
 electees
@@ -10998,6 +10997,7 @@ euphemiously
 euphemisation
 euphemise
 euphemiser
+elected
 euphemising
 euphemisms
 euphemist
