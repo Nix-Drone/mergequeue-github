@@ -6452,7 +6452,6 @@ agrias
 agribusiness
 agribusinesses
 agric
-agricere
 archscoundrel
 agricole
 agricolist
@@ -15972,6 +15971,7 @@ antiproton
 antiprotons
 antiprotozoal
 antiprudential
+agricere
 antipruritic
 antipsalmist
 antipsychiatry
