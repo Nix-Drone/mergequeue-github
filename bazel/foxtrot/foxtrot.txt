@@ -1044,7 +1044,6 @@ farls
 farm
 fantad
 farmable
-farmage
 farmed
 farmer
 farmeress
@@ -11625,6 +11624,7 @@ fusteric
 fioretti
 fustet
 fusty
+farmage
 fustian
 fustianish
 fustianist
