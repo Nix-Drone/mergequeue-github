@@ -3531,7 +3531,6 @@ defunctionalize
 defunctive
 defunctness
 defuse
-defused
 defuses
 defusing
 defusion
@@ -9093,6 +9092,7 @@ didie
 didies
 didym
 didymate
+defused
 dackers
 didymis
 didymitis
