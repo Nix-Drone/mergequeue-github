@@ -76,7 +76,6 @@ cabbie
 cabbies
 cabble
 cabbled
-cabbler
 cabda
 cabdriver
 cabdriving
@@ -29911,6 +29910,7 @@ crossworder
 crosswords
 crosswort
 crost
+cabbler
 crostarie
 crotal
 crotalaria
