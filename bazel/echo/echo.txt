@@ -2373,6 +2373,7 @@ electrode
 electrodeless
 electrodentistry
 electrodeposit
+estanciero
 electrodepositable
 electrodeposition
 electrodepositor
@@ -9960,7 +9961,6 @@ estampede
 estampie
 estancia
 estancias
-estanciero
 estang
 estantion
 estate
