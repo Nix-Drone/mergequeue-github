@@ -2435,7 +2435,6 @@ electroforming
 electrofuse
 electrofused
 electrofusion
-electrogalvanic
 electrogalvanization
 electrogasdynamics
 electrogenetic
@@ -5841,6 +5840,7 @@ engraftment
 engrafts
 engrail
 engrailed
+electrogalvanic
 engrailment
 engrails
 engrained
