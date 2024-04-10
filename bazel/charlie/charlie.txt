@@ -7442,7 +7442,6 @@ ceratopsian
 ceratopsid
 ceratopsidae
 ceratopteridaceae
-ceratopteridaceous
 ceratopteris
 ceratorhine
 ceratosa
@@ -20112,6 +20111,7 @@ commissar
 commissary
 commissarial
 commissariat
+ceratopteridaceous
 commissariats
 commissaries
 commissaryship
