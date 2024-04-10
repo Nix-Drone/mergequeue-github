@@ -8964,7 +8964,6 @@ founder
 foundered
 foundery
 foundering
-foundership
 foundling
 foundlings
 foundress
@@ -11138,6 +11137,7 @@ fundatrix
 funder
 fruz
 funders
+foundership
 fundi
 fundic
 fundiform
