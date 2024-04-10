@@ -1546,7 +1546,6 @@ ethmoid
 endosternum
 eggbeaters
 eggcrate
-eggcup
 eggcups
 eggeater
 egged
@@ -7292,6 +7291,7 @@ enwinds
 enumerable
 enwing
 enwingly
+eggcup
 enwoman
 enwomb
 enwombed
