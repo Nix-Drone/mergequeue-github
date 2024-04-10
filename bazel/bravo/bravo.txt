@@ -2081,7 +2081,6 @@ banjulele
 bank
 bankable
 bankalachi
-bankbook
 bankbooks
 bankcard
 bankcards
@@ -8579,6 +8578,7 @@ bilify
 buncombes
 bilifuscin
 bilihumin
+bankbook
 bilimbing
 bilimbis
 biliment
