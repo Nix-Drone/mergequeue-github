@@ -4819,7 +4819,6 @@ encoded
 encoder
 encoders
 encoding
-encodings
 encoffin
 encoffinment
 encoignures
@@ -8339,6 +8338,7 @@ epistrophy
 epit
 epitactic
 epitaph
+encodings
 epitapher
 epitaphial
 epitaphian

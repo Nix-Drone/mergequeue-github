@@ -9194,7 +9194,6 @@ almsman
 almsmen
 almsmoney
 almswoman
-amphitheatral
 almswomen
 almuce
 almuces
@@ -24193,6 +24192,7 @@ automatograph
 automaton
 automatonlike
 automatons
+amphitheatral
 automatonta
 automatontons
 automatous
