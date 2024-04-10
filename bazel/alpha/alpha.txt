@@ -2756,7 +2756,6 @@ acquist
 assuaging
 acquit
 acquital
-acquitment
 acquittal
 acquittals
 acquittance
@@ -20719,6 +20718,7 @@ artie
 artier
 artiest
 artifact
+acquitment
 artifactitious
 artifacts
 artifactual
