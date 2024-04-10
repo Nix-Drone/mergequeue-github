@@ -8402,7 +8402,6 @@ fesswise
 fricatives
 formals
 formamide
-formamidine
 formamidoxime
 formanilide
 formant
@@ -9202,6 +9201,7 @@ fractionise
 fractionised
 fractionising
 fractionization
+formamidine
 fractionize
 fractionized
 fractionlet
