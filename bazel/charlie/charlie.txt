@@ -22139,7 +22139,6 @@ congas
 conge
 congeable
 congeal
-congealability
 congealable
 congealableness
 congealed
@@ -26548,6 +26547,7 @@ coumaphos
 coumara
 coumaran
 coumarane
+congealability
 coumarate
 coumaric
 coumarilic
