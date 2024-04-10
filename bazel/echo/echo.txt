@@ -140,6 +140,7 @@ earstone
 earstones
 eartab
 eartag
+exedra
 eartagged
 earth
 earthboard
@@ -8174,7 +8175,6 @@ episcoparian
 episcopate
 episcopates
 episcopation
-exedra
 episcopature
 episcopes
 episcopicide
