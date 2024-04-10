@@ -7583,7 +7583,6 @@ grab
 grabbable
 grabbed
 gingerbread
-grabber
 grabbers
 grabby
 grabbiest
@@ -9569,6 +9568,7 @@ growlery
 growleries
 growlers
 growly
+grabber
 germinally
 growlier
 growliest
