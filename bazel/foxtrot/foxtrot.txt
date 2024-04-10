@@ -62,6 +62,7 @@ facebread
 facecloth
 firestone
 faced
+foreladies
 facedown
 faceharden
 faceless
@@ -7762,7 +7763,6 @@ foreknown
 foreknows
 forel
 forelady
-foreladies
 forelay
 forelaying
 foreland
