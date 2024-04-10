@@ -3360,7 +3360,6 @@ dimissorial
 defis
 defix
 deflagrable
-deflagrate
 deflagrated
 deflagrates
 deflagrating
@@ -4426,6 +4425,7 @@ demasculinised
 demasculinising
 demasculinization
 demasculinize
+deflagrate
 demasculinized
 demasculinizing
 demast
