@@ -26686,7 +26686,6 @@ counterbreastwork
 counterbuff
 counterbuilding
 countercampaign
-countercarte
 countercathexis
 countercause
 counterchange
@@ -31932,6 +31931,7 @@ czarists
 czaritza
 czaritzas
 calisaya
+countercarte
 czars
 czarship
 czech
