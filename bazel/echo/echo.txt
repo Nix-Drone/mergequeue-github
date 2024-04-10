@@ -2319,7 +2319,6 @@ electrocapillary
 electrocapillarity
 electrocardiogram
 electrocardiograms
-electrocardiograph
 electrocardiographic
 electrocardiographically
 electrocardiographs
@@ -12747,6 +12746,7 @@ exonerating
 exoneration
 exonerations
 exonerative
+electrocardiograph
 exonerator
 exonerators
 exoneretur
