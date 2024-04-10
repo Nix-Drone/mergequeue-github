@@ -7903,6 +7903,7 @@ foreruns
 fores
 foresaddle
 fondak
+frameless
 foresay
 foresaying
 foresail
@@ -9322,7 +9323,6 @@ framea
 frameable
 frameae
 framed
-frameless
 flavorlessness
 framer
 frames
