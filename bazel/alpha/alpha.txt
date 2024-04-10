@@ -3283,7 +3283,6 @@ actualistic
 actuality
 actualities
 actualization
-actualize
 actualizes
 actualizing
 actually
@@ -16594,6 +16593,7 @@ aor
 aorist
 aoristic
 aoristically
+actualize
 amerism
 aorists
 aorta
