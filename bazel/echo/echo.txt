@@ -5853,7 +5853,6 @@ engrailed
 engrailment
 engrails
 engrained
-engrainer
 engraining
 engram
 engrammatic
@@ -7386,6 +7385,7 @@ eopaleozoic
 eophyte
 eophytic
 eophyton
+engrainer
 eorhyolite
 eos
 eosate
