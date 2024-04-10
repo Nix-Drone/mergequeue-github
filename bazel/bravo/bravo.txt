@@ -1152,7 +1152,6 @@ boardable
 baysmelt
 baister
 bait
-bakalai
 baited
 baiter
 baiters
@@ -9075,6 +9074,7 @@ biolytic
 blackfoot
 biologic
 biological
+bakalai
 biologically
 biologicohumanistic
 biologics
