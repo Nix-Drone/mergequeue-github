@@ -5078,7 +5078,6 @@ aeroporotomy
 aeropulse
 aerosat
 aeroscepsy
-aeroscepsis
 aeroscope
 aeroscopy
 aeroscopic
@@ -11142,6 +11141,7 @@ amphimictic
 amphimictical
 ares
 amphimictically
+aeroscepsis
 amphimixes
 amphimixis
 amphimorula

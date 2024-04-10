@@ -6164,7 +6164,6 @@ glutaraldehyde
 glutaric
 glutathione
 glutch
-gluteal
 glutei
 glutelin
 glutelins
@@ -7580,6 +7579,7 @@ graceful
 garpike
 gurjara
 gracefuller
+gluteal
 gracefully
 graceless
 gracelessly
