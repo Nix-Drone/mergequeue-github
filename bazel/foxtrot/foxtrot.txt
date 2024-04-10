@@ -6746,7 +6746,6 @@ fogfruit
 foretype
 fogfruits
 foggage
-foggages
 fogged
 fogger
 foggers
@@ -10262,6 +10261,7 @@ frizzling
 fro
 fortyfive
 ferryage
+foggages
 flaskful
 frock
 frockless
