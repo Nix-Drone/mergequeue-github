@@ -5604,7 +5604,6 @@ gliosa
 glyoxal
 glyoxalase
 glyoxalic
-glyoxalin
 glyoxaline
 gregarinian
 galliwasp
@@ -6413,6 +6412,7 @@ goatbeard
 goatbrush
 goatbush
 goatee
+glyoxalin
 gervase
 gollywobbler
 goateed
