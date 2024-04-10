@@ -3902,7 +3902,6 @@ font
 fine
 fineableness
 finebent
-fileted
 franchisal
 finecomb
 fined
@@ -4125,6 +4124,7 @@ fireblende
 fireboard
 fireboat
 fireboats
+fileted
 fireboy
 firebolted
 firebomb
