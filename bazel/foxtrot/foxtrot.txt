@@ -1017,6 +1017,7 @@ farinas
 farine
 faring
 farinha
+footslogger
 flancards
 finalists
 farinhas
@@ -7254,7 +7255,6 @@ footscraper
 footsy
 footslog
 footslogged
-footslogger
 footslogging
 footpick
 footsoldiers
