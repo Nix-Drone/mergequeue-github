@@ -1736,7 +1736,6 @@ feathered
 featheredge
 featheredged
 featheredges
-featherer
 featherers
 featherfew
 featherfoil
@@ -3982,6 +3981,7 @@ fingerspin
 fingerstall
 fingerstone
 fingertip
+featherer
 fingerwise
 fingerwork
 fingian
