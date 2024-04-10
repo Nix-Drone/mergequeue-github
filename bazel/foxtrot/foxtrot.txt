@@ -1646,6 +1646,7 @@ fchar
 fipenny
 fcomp
 fconv
+finalizing
 fconvert
 farcin
 fcp
@@ -3885,7 +3886,6 @@ finalized
 finalizes
 fourstrand
 forecondemn
-finalizing
 frapped
 finals
 finance
