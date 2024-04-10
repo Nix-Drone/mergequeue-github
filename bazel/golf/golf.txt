@@ -5504,7 +5504,6 @@ glycolate
 glycolic
 glycolyl
 glycolipid
-glycolipin
 glycolipine
 glycolysis
 glycolytic
@@ -9494,6 +9493,7 @@ groupageness
 grouped
 grouper
 groupers
+glycolipin
 grouping
 grouplet
 groupment
