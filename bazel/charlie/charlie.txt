@@ -16156,6 +16156,7 @@ climbing
 climbingfish
 climbingfishes
 climbs
+collinearly
 chedites
 clime
 clymenia
@@ -19034,7 +19035,6 @@ collinal
 colline
 collinear
 collinearity
-collinearly
 collineate
 collineation
 caecias
