@@ -1463,7 +1463,6 @@ garnishments
 garnison
 garniture
 garon
-garoo
 garookuh
 garote
 garotes
@@ -8187,6 +8186,7 @@ graphitized
 glacioaqueous
 graphitizing
 graphitoid
+garoo
 graphium
 graphoanalytical
 grapholite
