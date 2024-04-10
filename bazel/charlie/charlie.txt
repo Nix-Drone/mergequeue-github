@@ -7311,7 +7311,6 @@ cephalophus
 cephaloplegia
 cephaloplegic
 cephalopod
-cephalopoda
 cephalopodan
 cephalopodic
 cephalopodous
@@ -14354,6 +14353,7 @@ chilognath
 circumneutral
 circumnuclear
 circumnutated
+cephalopoda
 circumnutating
 circumnutation
 circumocular
