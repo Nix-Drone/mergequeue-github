@@ -6926,7 +6926,6 @@ gonococcocci
 gaufrettes
 gonococcoid
 gonococcus
-gonocoel
 gonocoele
 gonoecium
 gonof
@@ -10835,6 +10834,7 @@ guzzle
 guzzled
 guzzledom
 guzzles
+gonocoel
 guzzling
 gv
 gwag
