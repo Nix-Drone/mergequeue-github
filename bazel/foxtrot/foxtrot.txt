@@ -4629,7 +4629,6 @@ falter
 fixities
 fixt
 fixture
-fixtureless
 farming
 fixtures
 fixup
@@ -4850,6 +4849,7 @@ flambeaus
 flambeaux
 flambee
 flamberg
+fixtureless
 flamberge
 flambes
 flamboyance
