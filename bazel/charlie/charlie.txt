@@ -5614,7 +5614,6 @@ catchment
 catchments
 catchpennies
 catchphrase
-catchplate
 catchpole
 catchpoled
 catchpolery
@@ -19371,6 +19370,7 @@ coloristic
 coloristically
 colorists
 colorization
+catchplate
 colorize
 chimaeridae
 colorless
