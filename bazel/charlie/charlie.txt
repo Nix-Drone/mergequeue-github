@@ -195,7 +195,6 @@ cabrit
 cabs
 cabstand
 cabstands
-cabuya
 cabuyas
 cabuja
 calendry
@@ -684,6 +683,7 @@ cagelings
 cageman
 cageot
 cager
+cabuya
 cagers
 cages
 cagester
