@@ -942,7 +942,6 @@ gamestress
 gametal
 gametange
 gametangia
-gametangium
 gaugers
 gamete
 gotha
@@ -7870,6 +7869,7 @@ gramophonic
 gramophonical
 gramophonically
 gramophonist
+gametangium
 gramp
 grampa
 gramper
