@@ -10666,7 +10666,6 @@ amintor
 amioidei
 amyosthenia
 amyosthenic
-amyotaxia
 amyotonia
 aconitum
 amyotrophy
@@ -18588,6 +18587,7 @@ arborer
 arbores
 arborescence
 arborescently
+amyotaxia
 arboresque
 arboret
 arboreta
