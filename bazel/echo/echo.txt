@@ -13466,7 +13466,6 @@ exsects
 exsequatur
 exsert
 exserted
-exsertile
 exserting
 exsertion
 exserts
@@ -13948,6 +13947,7 @@ extraregularly
 extrarenal
 echinosphaerites
 extraretinal
+exsertile
 extrarhythmical
 extras
 extrascholastic
