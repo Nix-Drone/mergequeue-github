@@ -4859,7 +4859,6 @@ bedstead
 baikerinite
 beshrouded
 bedstraw
-bedstraws
 bedstring
 bedswerver
 bedtick
@@ -12972,6 +12971,7 @@ borderlands
 borderless
 borderlight
 borderline
+bedstraws
 bordermark
 borders
 borderside
