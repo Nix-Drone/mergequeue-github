@@ -6900,6 +6900,7 @@ entoconid
 entocornea
 enwombing
 entocranial
+ephebic
 entocuniform
 entodermal
 entodermic
@@ -7526,7 +7527,6 @@ ephebeion
 ephebes
 ephebeubea
 ephebi
-ephebic
 epheboi
 ephebos
 ephebus
