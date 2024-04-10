@@ -5931,7 +5931,6 @@ floorshift
 fawny
 floorshifts
 floorshow
-floorthrough
 floorway
 floorwalker
 floorwalkers
@@ -7986,6 +7985,7 @@ foresightless
 foresights
 feasts
 flotorial
+floorthrough
 foresign
 foresignify
 foresin
