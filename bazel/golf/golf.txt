@@ -2638,6 +2638,7 @@ genecor
 geneki
 genep
 genepi
+gorgonize
 genera
 generability
 generable
@@ -7206,7 +7207,6 @@ gorgonin
 gorgonise
 gorgonised
 gorgonising
-gorgonize
 greenthumbed
 gorgonizing
 gorgonlike
