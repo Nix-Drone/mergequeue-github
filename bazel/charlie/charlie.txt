@@ -8333,6 +8333,7 @@ challenge
 challengeable
 challenged
 calcifuge
+construct
 challengee
 challengeful
 challenger
@@ -9533,7 +9534,6 @@ checkstrap
 chlorogenine
 checkstring
 checksum
-construct
 checksummed
 checksumming
 checkup
