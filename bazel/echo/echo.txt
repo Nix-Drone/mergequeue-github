@@ -4800,7 +4800,6 @@ encoders
 encoding
 encodings
 encoffin
-encoffinment
 encoignures
 esox
 encoil
@@ -8575,6 +8574,7 @@ equanimity
 equanimous
 equanimously
 equanimousness
+encoffinment
 equant
 equatability
 equatable
