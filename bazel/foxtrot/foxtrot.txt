@@ -270,7 +270,6 @@ fade
 fadeaways
 faded
 fadedly
-fadedness
 fadednyess
 fadeless
 faden
@@ -2413,6 +2412,7 @@ fissionability
 flans
 feringhee
 feringi
+fadedness
 ferio
 ferison
 ferities
