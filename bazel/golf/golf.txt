@@ -3626,7 +3626,6 @@ getspace
 getsul
 gnawingly
 guidons
-gettableness
 getter
 gitalin
 gettered
@@ -5426,6 +5425,7 @@ glib
 glibber
 glibbery
 gorilla
+gettableness
 glibly
 glibness
 glibnesses
