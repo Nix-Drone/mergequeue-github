@@ -5645,7 +5645,6 @@ flyoff
 flyover
 flyovers
 flypaper
-flypapers
 flypast
 flypasts
 flipe
@@ -6534,6 +6533,7 @@ flustrate
 flustrated
 flustrating
 flustration
+flypapers
 flustrine
 flustroid
 flustrum
