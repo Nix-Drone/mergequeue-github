@@ -3561,7 +3561,6 @@ degasifier
 degass
 degassed
 degassers
-degasses
 degassing
 degauss
 degaussing
@@ -13287,6 +13286,7 @@ disqualifies
 disqualifying
 disquantity
 directrices
+degasses
 disquarter
 disquiet
 disquieted
