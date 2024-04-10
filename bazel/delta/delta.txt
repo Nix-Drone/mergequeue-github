@@ -331,7 +331,6 @@ daybeacon
 daybed
 disambiguation
 dissuasiveness
-daybeds
 dollfaced
 daybill
 dayblush
@@ -10294,6 +10293,7 @@ diopsimeter
 dioptases
 diopter
 diopters
+daybeds
 dioptograph
 dioptometer
 dioptometry
