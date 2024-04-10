@@ -2377,7 +2377,6 @@ candlenut
 candlepin
 candlepins
 candlepower
-candler
 candlerent
 candlers
 candles
@@ -25150,6 +25149,7 @@ corynocarpaceae
 corynocarpaceous
 corynocarpus
 corynteria
+candler
 corinth
 corinthes
 corinthiac
