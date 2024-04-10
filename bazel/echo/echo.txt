@@ -1979,7 +1979,6 @@ ejector
 engrossment
 espresso
 ejectors
-ejects
 ejectum
 ejicient
 euhemerised
@@ -13602,6 +13601,7 @@ epicyesis
 exteriorising
 exteriority
 exteriorize
+ejects
 exteriorized
 erratum
 exteriorizing
