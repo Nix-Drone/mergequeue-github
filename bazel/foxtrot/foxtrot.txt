@@ -3808,7 +3808,6 @@ filoplume
 filopodia
 filopodium
 filosa
-filose
 filoselle
 filosofe
 filosus
@@ -9478,6 +9477,7 @@ fraternal
 fraternalism
 fraternalist
 fraternality
+filose
 fraternally
 fraternate
 fraternation
