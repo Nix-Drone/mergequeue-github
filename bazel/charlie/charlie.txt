@@ -2274,7 +2274,6 @@ cancerously
 cancerousness
 curare
 cancerroot
-cancers
 cancerweed
 cancerwort
 canch
@@ -9902,6 +9901,7 @@ chemosphere
 chemospheric
 chemostat
 collateral
+cancers
 chemosterilants
 chemosurgery
 chemosurgical
