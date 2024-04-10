@@ -1092,6 +1092,7 @@ edibility
 edible
 edibleness
 edibles
+enworthy
 edict
 edictal
 edictally
@@ -7303,7 +7304,6 @@ enwombed
 enwombs
 enwood
 enworthed
-enworthy
 enwound
 enwove
 enwrap
