@@ -3404,6 +3404,7 @@ deflorescence
 deflourish
 dropforged
 deflow
+dubash
 deflower
 deflowered
 deflowerer
@@ -17692,7 +17693,6 @@ duarchy
 duarchies
 dipterocecidium
 dub
-dubash
 dubb
 dubba
 dubbah
