@@ -2859,7 +2859,6 @@ genre
 genres
 genro
 gens
-genseng
 gensengs
 gentamicin
 genteel
@@ -4928,6 +4927,7 @@ gitonin
 gitoxin
 glia
 grovelers
+genseng
 gytrash
 gitter
 gittern
