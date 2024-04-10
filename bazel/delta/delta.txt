@@ -9366,6 +9366,7 @@ diffuser
 diffusers
 diffuses
 diffusibility
+duplexs
 diffusible
 diffusibleness
 diffusibly
@@ -18361,7 +18362,6 @@ duplexers
 duplexes
 duplexing
 donis
-duplexs
 duply
 duplicability
 duplicable
