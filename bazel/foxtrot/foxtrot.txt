@@ -3608,7 +3608,6 @@ fileting
 filets
 fylfot
 furors
-fylfots
 fylgjur
 fili
 flirtingly
@@ -10052,6 +10051,7 @@ fylgja
 frigiferous
 frigolabile
 frigor
+fylfots
 frigoric
 frigorify
 flacourtia
