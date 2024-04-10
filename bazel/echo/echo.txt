@@ -8196,7 +8196,6 @@ eavesing
 episcenium
 episcia
 episclera
-episcleral
 episcleritis
 episcopacy
 episcopacies
@@ -8794,6 +8793,7 @@ equirotal
 equiseta
 equisetaceae
 equisetaceous
+episcleral
 equisetales
 equisetic
 equisetum
