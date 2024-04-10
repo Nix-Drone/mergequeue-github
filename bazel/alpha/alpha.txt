@@ -893,7 +893,6 @@ allergy
 abscam
 abscess
 abscessed
-abscesses
 abscessing
 abscession
 abscind
@@ -24281,6 +24280,7 @@ autoplasty
 autoplastic
 autopneumatic
 autopoint
+abscesses
 autopoisonous
 autopolar
 autopolyploid
