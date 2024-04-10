@@ -11182,7 +11182,6 @@ blossombill
 blossomy
 blossomless
 blossoms
-blot
 blotch
 blotched
 blotches
@@ -12652,6 +12651,7 @@ bookcraft
 bookdealer
 bookend
 bushmaster
+blot
 bookends
 booker
 bookery
