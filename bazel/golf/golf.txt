@@ -5926,7 +5926,6 @@ galvanomagnet
 glossist
 glossitic
 glossitis
-glossless
 glossmeter
 geod
 glossocarcinoma
@@ -8407,6 +8406,7 @@ gravamem
 gravamen
 gravamens
 gravamina
+glossless
 gravaminous
 gravat
 grave
