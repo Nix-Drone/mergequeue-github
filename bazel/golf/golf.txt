@@ -807,7 +807,6 @@ geometries
 galvanometrical
 galvanoplasty
 galvanoplastic
-galvanoplastical
 galvanoplastically
 galvanoplastics
 galvanopsychic
@@ -4817,6 +4816,7 @@ gyrolith
 gyroma
 gyromagnetic
 glutted
+galvanoplastical
 geologise
 gowkit
 gyromancy
