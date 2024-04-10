@@ -4365,7 +4365,6 @@ fisherfolk
 fishery
 fisheries
 fisherman
-fishermen
 flammably
 fishers
 fisherwoman
@@ -6046,6 +6045,7 @@ floridness
 floriferous
 floriferously
 florification
+fishermen
 floriform
 florigen
 florigens
