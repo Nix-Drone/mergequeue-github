@@ -6953,7 +6953,6 @@ centaurs
 corr
 centaurus
 centavo
-centavos
 centena
 centenar
 centenary
@@ -21030,6 +21029,7 @@ comsomol
 comstock
 comstockery
 ceiba
+centavos
 comstockeries
 comte
 comtes
