@@ -2157,7 +2157,6 @@ bannerette
 bannerfish
 bannerless
 bannerlike
-bannerline
 bannerman
 bannermen
 bannerole
@@ -13540,6 +13539,7 @@ bound
 boundable
 boundary
 bountith
+bannerline
 bounded
 boundedly
 boundedness
