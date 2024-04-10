@@ -3552,7 +3552,6 @@ defunctness
 defuse
 defused
 defuses
-defusing
 defusion
 defuze
 dims
@@ -18275,6 +18274,7 @@ duodecimality
 duodecimally
 duodecimfid
 duodecimo
+defusing
 duodecimole
 dithionic
 duodecimos
