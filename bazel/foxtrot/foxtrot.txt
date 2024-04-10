@@ -1057,7 +1057,6 @@ farmlands
 farmost
 farmout
 fisc
-farmplace
 farms
 farmscape
 farmstead
@@ -1500,6 +1499,7 @@ faunas
 faunated
 faunch
 fishmen
+foreordain
 faunish
 faunist
 fragmentized
@@ -1787,14 +1787,12 @@ featureful
 featureless
 featurelessness
 featurely
-featureliness
 features
 featurette
 featuring
 featurish
 feaze
 feazed
-feazes
 feazing
 feazings
 febres
@@ -3335,6 +3333,7 @@ fidget
 fidgetation
 fidgeted
 fidgeters
+frigorimeter
 filibustrous
 flitching
 fidgetily
@@ -4145,7 +4144,6 @@ firebed
 firebird
 firebirds
 fireblende
-fireboard
 fireboat
 fireboats
 fireboy
@@ -4194,7 +4192,6 @@ fireflaught
 fireflies
 ferroelectrically
 fireflirt
-fireflower
 frizzlers
 firehall
 firehalls
@@ -4370,6 +4367,7 @@ fisheye
 fisheyes
 fisher
 fisherboat
+foreswear
 fisherboy
 fisheress
 fragmentate
@@ -4645,6 +4643,7 @@ fixing
 forborn
 fixings
 fixion
+feazes
 falter
 fixity
 fixities
@@ -5344,6 +5343,7 @@ flecked
 flecken
 flecker
 fleckered
+farmplace
 fleckering
 flecky
 floriferousness
@@ -6042,7 +6042,6 @@ florescent
 floressence
 floret
 floreta
-floreted
 florets
 floretty
 floretum
@@ -6736,6 +6735,7 @@ fodient
 foe
 foederati
 foederis
+floreted
 foeffment
 foehn
 foehnlike
@@ -6830,6 +6830,7 @@ foible
 foibles
 foiblesse
 foyboat
+fortifyingly
 foyer
 foyers
 foil
@@ -7093,6 +7094,7 @@ feelingly
 fontinalaceae
 fontinalaceous
 fontinalis
+featureliness
 fontinas
 fontlet
 fratercula
@@ -7845,7 +7847,6 @@ forensical
 forensicality
 forensically
 forensics
-foreordain
 foreordained
 foreordaining
 foreordainment
@@ -8088,7 +8089,6 @@ flue
 forestwards
 foresummer
 foresummon
-foreswear
 foreswearing
 foresweat
 foreswore
@@ -8105,6 +8105,7 @@ foretaster
 foretastes
 foretasting
 foreteach
+fireflower
 flyboy
 fraus
 foretell
@@ -8710,7 +8711,6 @@ fortifier
 fortifiers
 fortifies
 fortifying
-fortifyingly
 fortifys
 fortyfives
 fortyfold
@@ -10077,7 +10077,6 @@ frigorific
 freemen
 frigorifical
 frigorifico
-frigorimeter
 frigostable
 frigotherapy
 frigs
@@ -11324,6 +11323,7 @@ furbelowing
 furbelows
 furbish
 furbishable
+fireboard
 furbished
 furbisher
 furbishes

@@ -1495,6 +1495,7 @@ accessible
 accessibleness
 accessibly
 accessing
+alligated
 accession
 accessional
 accessioned
@@ -1639,6 +1640,7 @@ accompanied
 accompanier
 australorp
 accompanies
+armenoid
 accompanying
 accompanyist
 aphasiac
@@ -8709,7 +8711,6 @@ allie
 allied
 allies
 alligate
-alligated
 alligating
 abscessroot
 alligation
@@ -9817,7 +9818,6 @@ amaroid
 amaroidal
 amarth
 amarthritis
-amarvel
 amas
 amasesis
 amass
@@ -10252,6 +10252,7 @@ amentiferae
 amentiferous
 amentiform
 aments
+amarvel
 amentula
 amentulum
 amentum
@@ -12168,6 +12169,7 @@ anchored
 anchorer
 anchoress
 anchoresses
+automobility
 anchoret
 anchoretic
 anchoretish
@@ -12431,6 +12433,7 @@ andropetalar
 andropetalous
 androphagous
 androphyll
+anthropomorphising
 androphobia
 androphore
 androphorous
@@ -14602,7 +14605,6 @@ anthropomorphidae
 anthropomorphisation
 anthropomorphise
 anthropomorphised
-anthropomorphising
 anthropomorphism
 anthropomorphisms
 anthropomorphist
@@ -19899,7 +19901,6 @@ armenian
 armenians
 armenic
 armenite
-armenoid
 armer
 armeria
 armeriaceae
@@ -20216,7 +20217,6 @@ arrester
 arresters
 arresting
 arrestingly
-arrestive
 arrestment
 arrestor
 arrestors
@@ -23089,6 +23089,7 @@ attirer
 attires
 attiring
 attitude
+aurata
 attitudinal
 attitudinarian
 attitudinarianism
@@ -23494,7 +23495,6 @@ aurantiaceae
 aurantium
 aurar
 auras
-aurata
 aurate
 aurated
 aureal
@@ -23623,6 +23623,7 @@ aurore
 aurorean
 aurorian
 aurorium
+arrestive
 aurotellurite
 aurothiosulphate
 aurothiosulphuric
@@ -24222,7 +24223,6 @@ automobilist
 automobilistic
 automobilists
 agglomerations
-automobility
 automonstration
 automorph
 automorphic

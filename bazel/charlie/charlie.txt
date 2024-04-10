@@ -2329,7 +2329,6 @@ candidacy
 candidacies
 candidate
 candidated
-candidates
 candidateship
 candidating
 candidature
@@ -4530,6 +4529,7 @@ cuddly
 carousers
 carouses
 carousing
+chiropterygian
 carousingly
 carp
 carpaine
@@ -5467,7 +5467,6 @@ catalogic
 catalogical
 cataloging
 catalogist
-catalogistic
 catalogize
 catalogs
 catalogue
@@ -9576,6 +9575,7 @@ cheeked
 cheeker
 cheekful
 cheekfuls
+cottus
 cheeky
 cheekier
 cheekiest
@@ -10514,6 +10514,7 @@ chilidium
 chilidog
 chilidogs
 chylidrosis
+conclaves
 chilies
 chylifaction
 chylifactive
@@ -10968,7 +10969,6 @@ chiropractors
 chiropraxis
 chiroptera
 chiropteran
-chiropterygian
 chiropterygious
 chiropterygium
 chiropterite
@@ -11016,7 +11016,6 @@ chirurgeonly
 chirurgery
 chirurgy
 chirurgic
-chirurgical
 chis
 chisedec
 chisel
@@ -11613,7 +11612,6 @@ cholerigenous
 cholerine
 choleroid
 choleromania
-cholerophobia
 cholerrhagia
 cholers
 cholestane
@@ -15325,6 +15323,7 @@ clammer
 clammersome
 clammy
 clammier
+candidates
 clammiest
 clammily
 clamminess
@@ -20537,7 +20536,6 @@ compelled
 compellent
 compeller
 compellers
-compelling
 compellingly
 compels
 compend
@@ -21402,7 +21400,6 @@ concitizen
 conclamant
 conclamation
 conclave
-conclaves
 coccous
 conclavist
 concludable
@@ -22219,6 +22216,7 @@ congested
 congestedness
 congestible
 congesting
+corymbose
 congestion
 congestions
 congestive
@@ -22872,6 +22870,7 @@ consignable
 consignatary
 consignataries
 consignation
+catalogistic
 consignatory
 consigne
 consigned
@@ -23222,6 +23221,7 @@ consultee
 counterparallel
 consulter
 consultive
+chirurgical
 consultively
 consulto
 consultor
@@ -25153,7 +25153,6 @@ corymbiferous
 cassiduloidea
 corymbiform
 corymblike
-corymbose
 corymbous
 coinquinate
 corymbs
@@ -26268,6 +26267,7 @@ costotomies
 costotrachelian
 catechisms
 costotransversal
+compelling
 costotransverse
 costovertebral
 costoxiphoid
@@ -26502,7 +26502,6 @@ cottonwick
 cottonwood
 cottonwoods
 cottrel
-cottus
 cotuit
 cotula
 cotunnite
@@ -30171,6 +30170,7 @@ cruentate
 cruentation
 cruentous
 cruet
+cholerophobia
 cruety
 cruets
 cruise

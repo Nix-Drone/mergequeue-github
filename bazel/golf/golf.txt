@@ -120,6 +120,7 @@ gadinic
 gadis
 gaditan
 gadite
+gryphaea
 gadman
 gadoid
 gadoids
@@ -392,7 +393,6 @@ gynobasic
 galangin
 galany
 gauntries
-galant
 galante
 galanthus
 galantine
@@ -993,7 +993,6 @@ gammadia
 gammadion
 gammarine
 gammaroid
-gammarus
 gammas
 gammation
 gammed
@@ -1461,6 +1460,7 @@ garnishment
 garnishments
 garnison
 garniture
+gashouse
 garon
 garoo
 garookuh
@@ -1580,7 +1580,6 @@ gashing
 gashly
 gashliness
 gasholder
-gashouse
 gashouses
 gasify
 gasifiable
@@ -1984,6 +1983,7 @@ gaucie
 gaud
 gaudeamus
 gaudeamuses
+gammarus
 gaudery
 gauderies
 gaudy
@@ -2055,7 +2055,6 @@ gauntry
 gaup
 gauping
 gaur
-gryphaea
 gaura
 gaure
 gaurian
@@ -3367,6 +3366,7 @@ geryonia
 geryonid
 geryoniidae
 gerip
+goidelic
 gerkin
 gonagia
 gerland
@@ -4980,7 +4980,6 @@ glaciating
 glaciation
 glacier
 glaciered
-glacieret
 glacierist
 glaciers
 glacify
@@ -6151,6 +6150,7 @@ glutamic
 glutaminase
 gallegan
 glutamine
+grawls
 glutaminic
 glutaraldehyde
 glutaric
@@ -6542,7 +6542,6 @@ goiabada
 goyana
 goyazite
 goidel
-goidelic
 gadolinite
 goyetian
 goyim
@@ -7245,7 +7244,6 @@ gormandised
 gormandiser
 gormandising
 gormandism
-gormandize
 gormandizers
 gormandizes
 gormandizing
@@ -9508,7 +9506,6 @@ grout
 grouted
 grouter
 grouthead
-grawls
 geothlypis
 grouty
 groutiest
@@ -9912,6 +9909,7 @@ guarapo
 guarapucu
 guarauno
 guard
+glacieret
 guardable
 guardage
 guardant
@@ -10201,6 +10199,7 @@ guilefully
 guilefulness
 guilelessly
 guilelessness
+gormandize
 guiler
 guilery
 guiles
@@ -10641,6 +10640,7 @@ gurnards
 gurney
 gurneyite
 gurneys
+galant
 gurnet
 gurnets
 gauze
