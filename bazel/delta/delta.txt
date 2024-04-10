@@ -1487,7 +1487,6 @@ deactivation
 deactivations
 deactivator
 deactivators
-deadbeat
 deadbeats
 defrosts
 deadborn
@@ -8552,6 +8551,7 @@ diapsida
 diapsidan
 diarchy
 dyarchy
+deadbeat
 diarchial
 diarchic
 dyarchic
