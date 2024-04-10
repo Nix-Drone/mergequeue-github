@@ -4563,6 +4563,7 @@ encephalolith
 encephaloma
 encephalomalacia
 encephalomalacosis
+etiologies
 encephalomalaxis
 encephalomas
 encephalomeningocele
@@ -10585,7 +10586,6 @@ etiolize
 etiology
 etiological
 exteriorised
-etiologies
 etiologist
 etiologue
 etiophyllin
