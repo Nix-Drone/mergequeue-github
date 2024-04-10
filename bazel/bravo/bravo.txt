@@ -298,7 +298,6 @@ backarrow
 backarrows
 backband
 backbar
-briskness
 backbear
 backbearing
 backbeat
@@ -1716,6 +1715,7 @@ baloghia
 balolo
 balon
 balonea
+briskness
 baloney
 baloneys
 baloo
