@@ -129,7 +129,6 @@ facilitation
 facilitations
 facilitative
 fromfile
-facility
 facilities
 facings
 facinorous
@@ -2281,6 +2280,7 @@ fencible
 fencing
 formyl
 fencings
+facility
 fend
 fended
 following
