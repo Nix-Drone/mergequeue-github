@@ -6521,6 +6521,7 @@ enstatolite
 ensteel
 ensteep
 emotionist
+exclusions
 enstool
 enstore
 enstranged
@@ -12121,7 +12122,6 @@ eigenspace
 exclusioner
 enalyron
 exclusionism
-exclusions
 exclusive
 exclusiveness
 enclitic
