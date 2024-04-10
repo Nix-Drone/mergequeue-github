@@ -4437,7 +4437,6 @@ fissile
 fissilinguia
 fissility
 fission
-flunkydom
 fissionable
 fissioned
 fissioning
@@ -9334,6 +9333,7 @@ fussify
 frameshift
 frameworks
 framing
+flunkydom
 fetiales
 faburden
 frammit
