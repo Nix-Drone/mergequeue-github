@@ -17642,7 +17642,6 @@ appeals
 appear
 appearance
 ambidextrousness
-appearances
 appeared
 appearer
 appearers
@@ -20229,6 +20228,7 @@ arrestable
 arrestant
 arrestation
 arrested
+appearances
 arrestee
 arrestees
 arrester
