@@ -1689,6 +1689,7 @@ deathbeds
 deathblows
 deathcup
 deathcups
+donatary
 deathday
 deathful
 deathfully
@@ -15400,7 +15401,6 @@ donary
 donaries
 daira
 donat
-donatary
 donataries
 donate
 donated
