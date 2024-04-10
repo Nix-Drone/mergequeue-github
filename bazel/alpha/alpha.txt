@@ -4519,7 +4519,6 @@ advaita
 advance
 advanceable
 advanced
-advancedness
 advancement
 advancements
 advancer
@@ -17073,6 +17072,7 @@ apnea
 apneal
 apneas
 apneic
+advancedness
 apneumatic
 apneumatosis
 apneumona
