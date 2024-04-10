@@ -642,6 +642,7 @@ famacide
 famatinite
 famble
 fame
+fatiguability
 famed
 fameflower
 fameful
@@ -1382,7 +1383,6 @@ fatigate
 fatigated
 fatigating
 fatigation
-fatiguability
 fatiguabilities
 fatiguable
 fatigue
