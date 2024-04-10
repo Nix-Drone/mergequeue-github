@@ -1941,6 +1941,7 @@ gates
 gatetender
 gateway
 gatewaying
+giarra
 gatewaymen
 gateways
 gateward
@@ -3829,7 +3830,6 @@ giantsize
 giaour
 giaours
 giardia
-giarra
 giarre
 gyascutus
 gyassa
