@@ -2678,7 +2678,6 @@ generalization
 generalizations
 generalize
 generalizeable
-generalized
 generalizer
 generalizers
 generalizing
@@ -3322,6 +3321,7 @@ graftage
 geraniol
 geranium
 geraniums
+generalized
 geranomorph
 geranomorphae
 geranomorphic
