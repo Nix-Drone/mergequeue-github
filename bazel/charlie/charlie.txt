@@ -2166,6 +2166,7 @@ canal
 canalage
 canalatura
 canalboat
+charales
 canale
 canaled
 canaler
@@ -8910,7 +8911,6 @@ charadrine
 charadrioid
 charadriomorphae
 charadrius
-charales
 charango
 charangos
 chararas
