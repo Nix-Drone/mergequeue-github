@@ -7916,7 +7916,6 @@ bibliogony
 bibliographer
 bibliographers
 bibliography
-bibliographic
 bibliographical
 bibliographically
 bibliographies
@@ -17406,6 +17405,7 @@ bungarum
 bungarus
 bijection
 bunged
+bibliographic
 bungee
 bungey
 bunger
