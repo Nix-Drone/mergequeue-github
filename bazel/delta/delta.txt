@@ -5991,7 +5991,6 @@ depsid
 depside
 depsides
 dept
-depth
 depthen
 depthing
 depthless
@@ -18430,6 +18429,7 @@ duraplasty
 duraquara
 duras
 duraspinalis
+depth
 duration
 durational
 durationless
