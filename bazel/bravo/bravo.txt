@@ -5147,7 +5147,6 @@ bagpod
 beforeness
 beforesaid
 beforested
-beforetime
 beforetimes
 befortune
 befoul
@@ -17073,6 +17072,7 @@ bagattini
 bullbat
 belduque
 bullbats
+beforetime
 bullbeggar
 bullberry
 bullbird
