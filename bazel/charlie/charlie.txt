@@ -8893,7 +8893,6 @@ chincha
 characters
 characterstring
 charade
-charades
 charadrii
 charadriidae
 charadriiform
@@ -14503,6 +14502,7 @@ cirripedial
 cirripeds
 cirrocumular
 citrul
+charades
 cirrocumulative
 cirrocumulous
 compressingly
