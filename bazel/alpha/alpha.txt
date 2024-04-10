@@ -2469,7 +2469,6 @@ acidulation
 acidulent
 acidulous
 acidulously
-acidulousness
 aciduria
 acidurias
 aciduric
@@ -22020,6 +22019,7 @@ asteraceae
 asteraceous
 asterales
 asterella
+acidulousness
 astereognosis
 asterial
 asterias
