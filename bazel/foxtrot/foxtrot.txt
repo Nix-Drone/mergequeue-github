@@ -2061,7 +2061,6 @@ felicitators
 felicity
 felicities
 felicitous
-felicitousness
 felid
 felidae
 felids
@@ -9101,6 +9100,7 @@ fowls
 fox
 foxbane
 foxberry
+felicitousness
 foxberries
 foreknowledge
 foxer
