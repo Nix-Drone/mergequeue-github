@@ -5180,7 +5180,6 @@ endocrinologists
 endocrinopath
 embosser
 endocrinopathic
-endocrinous
 endocritic
 endoderm
 endodermal
@@ -9294,6 +9293,7 @@ erodent
 erodes
 erodibility
 eroding
+endocrinous
 erodium
 erogeneity
 erogenesis
