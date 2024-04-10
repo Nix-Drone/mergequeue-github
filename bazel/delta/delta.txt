@@ -12960,7 +12960,6 @@ dispensary
 dispensaries
 darken
 dispensate
-dispensated
 dispensating
 dispensation
 dispensational
@@ -17094,6 +17093,7 @@ dryfoot
 drift
 driftage
 driftages
+dispensated
 driftbolt
 drifter
 drifters

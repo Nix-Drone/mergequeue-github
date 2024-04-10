@@ -1139,7 +1139,6 @@ ganglioside
 gangman
 gangmaster
 gangplank
-gangplanks
 gangplow
 gangplows
 gareh
@@ -5718,6 +5717,7 @@ globelet
 globelike
 globes
 globetrotters
+gangplanks
 globetrotting
 globy
 globicephala
