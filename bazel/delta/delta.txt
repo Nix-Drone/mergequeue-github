@@ -1201,7 +1201,6 @@ datacell
 datafile
 dataflow
 datagram
-datagrams
 datakit
 datamation
 datana
@@ -7747,6 +7746,7 @@ devourer
 devourers
 devouress
 depersonalize
+datagrams
 devouring
 defiances
 devouringly
