@@ -1943,7 +1943,6 @@ bandless
 bejabers
 bandlessly
 bandlet
-bandlimit
 bandlimited
 breadwinners
 bandlimiting
@@ -5435,6 +5434,7 @@ behears
 behearse
 behedge
 beheira
+bandlimit
 beheld
 behelp
 behemoth
