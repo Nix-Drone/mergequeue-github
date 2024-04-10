@@ -2861,6 +2861,7 @@ gens
 genseng
 gensengs
 gentamicin
+geochrony
 genteel
 glike
 genteeler
@@ -2996,7 +2997,6 @@ geocerite
 geochemical
 geochemist
 geochemists
-geochrony
 geochronology
 geochronologic
 geochronological
