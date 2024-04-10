@@ -3201,7 +3201,6 @@ elsholtzia
 elsin
 elt
 eltime
-eltrot
 eluant
 enterophthisis
 eluants
@@ -8971,6 +8970,7 @@ erenow
 erepsin
 ereptase
 ereptic
+eltrot
 ereption
 erer
 erethic
