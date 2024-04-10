@@ -2970,7 +2970,6 @@ eliminated
 eliminates
 eliminating
 elimination
-eliminations
 eliminator
 eliminatory
 eliminators
@@ -7864,6 +7863,7 @@ epigastrium
 epigastrocele
 epigeal
 epigean
+eliminations
 epigee
 epigeic
 epigene
