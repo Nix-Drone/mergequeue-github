@@ -5195,7 +5195,6 @@ glans
 glar
 glare
 glared
-glareless
 glareola
 glareole
 gumshoing
@@ -10138,6 +10137,7 @@ guglets
 guglia
 guglio
 guhayna
+glareless
 guhr
 gaggers
 guy
