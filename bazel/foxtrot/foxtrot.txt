@@ -1655,6 +1655,7 @@ farcin
 fcp
 fcs
 fdnames
+fissipedal
 fdtype
 fdub
 fdubs
@@ -4449,7 +4450,6 @@ fissiparousness
 fissiped
 fissipeda
 flowerier
-fissipedal
 fissipedia
 fissipedial
 fissipeds
