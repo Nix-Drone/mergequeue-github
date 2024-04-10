@@ -2788,7 +2788,6 @@ baroco
 barodynamic
 barodynamics
 barognosis
-barogram
 barograms
 barograph
 barographic
@@ -15887,6 +15886,7 @@ bromobenzene
 bromochloromethane
 bromochlorophenol
 bromocyanid
+barogram
 bromocyanidation
 bromocyanide
 balsameaceae
