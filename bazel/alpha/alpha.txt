@@ -9853,7 +9853,6 @@ amarvel
 amas
 amasesis
 amass
-amassable
 amasser
 amassers
 amasses
@@ -21623,6 +21622,7 @@ affixing
 asse
 asseal
 assecuration
+amassable
 assecurator
 atlas
 assecure
