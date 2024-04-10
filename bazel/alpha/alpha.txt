@@ -8709,7 +8709,6 @@ allgovite
 allhallow
 allhallows
 allhallowtide
-allheal
 allheals
 ally
 alliable
@@ -22699,6 +22698,7 @@ atmological
 atmologist
 atmometry
 atmometric
+allheal
 atmos
 atmosphere
 atmosphered
