@@ -5199,7 +5199,6 @@ denominationally
 denominations
 denominative
 denominatively
-denominator
 denominators
 denormalized
 denotable
@@ -16644,6 +16643,7 @@ despoiling
 drainpipes
 drains
 drainspout
+denominator
 draintile
 drainway
 drays
