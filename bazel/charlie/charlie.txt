@@ -16813,7 +16813,6 @@ clubfoot
 clubfooted
 clubhand
 clubhands
-clubhaul
 clubhauled
 clubhauling
 clubhauls
@@ -22262,6 +22261,7 @@ congou
 congous
 congrats
 congratulable
+clubhaul
 congratulant
 congratulate
 congratulated
