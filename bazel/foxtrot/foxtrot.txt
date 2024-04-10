@@ -2591,7 +2591,6 @@ ferrocyanate
 ferrocyanhydric
 ferroconcretor
 ferroelectric
-ferroelectricity
 ferroglass
 ferrogoslarite
 ferrohydrocyanic
@@ -11357,6 +11356,7 @@ furfuramid
 furfuramide
 furfuran
 furfurans
+ferroelectricity
 furfuration
 furfures
 furfuryl
