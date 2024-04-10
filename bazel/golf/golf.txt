@@ -3002,7 +3002,6 @@ geochemist
 geochemists
 geochrony
 geochronology
-geochronologic
 geochronological
 geochronologically
 geochronologist
@@ -3147,6 +3146,7 @@ geomorphic
 geomorphist
 geomorphogenic
 geomorphogenist
+geochronologic
 geomorphology
 geomorphologic
 geomorphological
