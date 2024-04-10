@@ -9752,7 +9752,6 @@ freightyard
 freightless
 freightliner
 freightment
-foreorlop
 freights
 freyja
 freijo
@@ -11431,6 +11430,7 @@ furnish
 furnishable
 foregather
 furnished
+foreorlop
 furnishes
 furnishing
 furnishings
