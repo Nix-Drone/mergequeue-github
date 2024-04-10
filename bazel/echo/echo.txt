@@ -9760,7 +9760,6 @@ esophagoscopy
 esophagostenosis
 esophagostomy
 endorsor
-esophagotome
 esophagotomy
 esophagus
 esophoria
@@ -11814,6 +11813,7 @@ ectosteally
 ephydrid
 examinership
 examines
+esophagotome
 examining
 examiningly
 examplar
