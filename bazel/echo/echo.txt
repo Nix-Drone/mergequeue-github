@@ -460,7 +460,6 @@ eccl
 eccles
 ecclesia
 ecclesiae
-ecclesial
 ecclesiarch
 ecclesiarchy
 esthetician
@@ -5449,6 +5448,7 @@ endoubt
 endoute
 endovaccination
 enclavement
+ecclesial
 endovasculitis
 equinox
 endovenous
