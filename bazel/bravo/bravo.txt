@@ -6799,7 +6799,6 @@ beneficing
 biotic
 berlina
 berline
-berliner
 berliners
 berlines
 berlinite
@@ -9937,6 +9936,7 @@ bitumed
 bitumen
 bitumens
 bituminate
+berliner
 bituminiferous
 bituminisation
 bituminise
