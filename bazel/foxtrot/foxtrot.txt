@@ -2167,7 +2167,6 @@ fractionizing
 fels
 felsite
 felsites
-felsitic
 felsobanyite
 foretypified
 felsophyric
@@ -4715,6 +4714,7 @@ flagellantism
 flagellants
 flagellaria
 flagellariaceae
+felsitic
 flagellariaceous
 flagellata
 flagellatae
