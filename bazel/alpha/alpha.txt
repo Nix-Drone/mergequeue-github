@@ -4827,7 +4827,6 @@ aeolharmonica
 aeolia
 aeolian
 aeolic
-aeolicism
 aeolid
 aeolidae
 aeolididae
@@ -25124,6 +25123,7 @@ axiomatizations
 axiomatize
 antiduke
 axiomatized
+aeolicism
 axiomatizes
 amazer
 axiomatizing

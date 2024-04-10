@@ -4640,6 +4640,7 @@ bedeafen
 bedeafened
 bedeafens
 bedebt
+british
 bedeck
 bedecked
 bedecking
@@ -15556,7 +15557,6 @@ brython
 brythonic
 briticism
 blimy
-british
 britisher
 britishhood
 britishism
