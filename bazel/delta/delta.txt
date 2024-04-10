@@ -1507,6 +1507,7 @@ deadener
 deadeners
 deadening
 deadeningly
+drillmaster
 deadest
 deadfall
 deadfalls
@@ -17111,7 +17112,6 @@ drillet
 drilling
 drillings
 drillman
-drillmaster
 drillmasters
 drills
 drylot
