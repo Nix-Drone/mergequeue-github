@@ -4119,7 +4119,6 @@ friarhood
 fiques
 fir
 firca
-foregirth
 fyrd
 fyrdung
 faldistory
@@ -9663,6 +9662,7 @@ freelage
 freelance
 freelanced
 foretack
+foregirth
 freelances
 freely
 freeload
