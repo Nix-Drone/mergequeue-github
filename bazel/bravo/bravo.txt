@@ -5676,7 +5676,6 @@ beledgered
 belee
 beleed
 beleft
-belemnid
 belemnite
 belemnites
 belemnitic
@@ -14431,6 +14430,7 @@ branchiae
 branchial
 branchiata
 branchiate
+belemnid
 branchicolous
 besoothing
 beryllium
