@@ -6599,7 +6599,6 @@ enteralgia
 enterally
 enterate
 enterauxe
-enterclose
 enterectomy
 enterectomies
 entered
@@ -8424,6 +8423,7 @@ epitomically
 epitomisation
 epitomise
 epitomiser
+enterclose
 epitomising
 epitomist
 egency
