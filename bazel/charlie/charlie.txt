@@ -1882,7 +1882,6 @@ camino
 camion
 camions
 camis
-camisa
 camisade
 camisado
 camisadoes
@@ -15352,6 +15351,7 @@ clamp
 clampdown
 clamped
 clamper
+camisa
 clampers
 clamping
 clamps
