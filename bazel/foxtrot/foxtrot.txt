@@ -4940,7 +4940,6 @@ flangeway
 flank
 flankard
 flanked
-flanken
 flanker
 flankers
 fringilliform
@@ -9044,6 +9043,7 @@ fours
 flagellates
 fourscore
 fourscorth
+flanken
 foursomes
 foursquare
 foursquarely
