@@ -5900,7 +5900,6 @@ diamondiferous
 depressively
 depressiveness
 depressives
-depressomotor
 depressor
 depressors
 depressure
@@ -6211,6 +6210,7 @@ dermatome
 daubing
 dermatomere
 dermatomic
+depressomotor
 dermatomyces
 dermatomycosis
 dermatomyoma
