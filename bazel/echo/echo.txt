@@ -3796,7 +3796,6 @@ embusy
 embolies
 embusk
 embuskin
-embusqu
 embusque
 execrably
 embussed
@@ -4790,6 +4789,7 @@ enclasped
 enclasping
 enclasps
 enclave
+embusqu
 enclaved
 enclaves
 enclaving
