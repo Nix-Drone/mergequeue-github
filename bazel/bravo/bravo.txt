@@ -447,7 +447,6 @@ backpedaled
 backpedaling
 backpiece
 backplane
-backplanes
 backplate
 backpointer
 backpointers
@@ -6806,6 +6805,7 @@ berossos
 berouged
 beround
 berreave
+backplanes
 berreaved
 bendability
 berreaves
