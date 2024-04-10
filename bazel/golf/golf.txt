@@ -1677,7 +1677,6 @@ gasteromycete
 gasteromycetes
 gasteromycetous
 gasteropoda
-gasterosteiform
 gasterosteoid
 gasterosteus
 gasterotheca
@@ -4550,6 +4549,7 @@ ginnet
 ginny
 ginnier
 ginning
+gasterosteiform
 ginnings
 ginnle
 gynobase
