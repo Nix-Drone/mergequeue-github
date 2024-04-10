@@ -9169,7 +9169,6 @@ frache
 fracid
 frack
 fract
-fractable
 fractabling
 fouls
 fractal
@@ -11237,6 +11236,7 @@ funiculus
 funiform
 funiliform
 funipendulous
+fractable
 funje
 funk
 funked
