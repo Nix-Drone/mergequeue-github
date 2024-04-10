@@ -14506,7 +14506,6 @@ cirrhus
 cirri
 cirribranch
 cirriferous
-cirriform
 cirrigerous
 cirrigrade
 cirriped
@@ -26707,6 +26706,7 @@ counterclaim
 counterclaimant
 counterclaimed
 counterclaiming
+cirriform
 counterclaims
 counterclassification
 counterclassifications
