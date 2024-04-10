@@ -2310,7 +2310,6 @@ fenerate
 fizzes
 fenestella
 fenestellae
-fenestellid
 fenestellidae
 fenester
 fenestra
@@ -8494,6 +8493,7 @@ formyls
 formin
 fourbagger
 forminate
+fenestellid
 forming
 formity
 formless
