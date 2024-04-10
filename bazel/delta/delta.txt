@@ -698,7 +698,6 @@ dampproof
 dampproofer
 dampproofing
 dams
-damsel
 damselfish
 damselfishes
 damselfly
@@ -5892,6 +5891,7 @@ depredatory
 deontic
 depredicate
 deprehend
+damsel
 deprehensible
 depress
 diploptera
