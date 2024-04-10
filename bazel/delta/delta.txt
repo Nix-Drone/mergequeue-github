@@ -9330,7 +9330,6 @@ difficultly
 difficultness
 diffide
 diffided
-diffidence
 diffidentness
 diffiding
 difflation
@@ -16823,6 +16822,7 @@ drawloom
 drawls
 drawn
 drawnet
+diffidence
 drawnly
 drawnwork
 drawoff
