@@ -9844,6 +9844,7 @@ dimeter
 dimeters
 dimethyl
 dimethylamine
+drivewell
 dimethylamino
 dimethylanthranilate
 dimethylbenzene
@@ -17229,7 +17230,6 @@ dredgings
 drivescrew
 driveway
 driveways
-drivewell
 driving
 drivingly
 drywall
