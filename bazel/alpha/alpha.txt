@@ -5099,7 +5099,6 @@ aeroplanes
 aeroplanist
 aeroplankton
 aeropleustic
-aeroporotomy
 aeropulse
 aerosat
 aeroscepsy
@@ -11381,6 +11380,7 @@ amtrac
 amtrack
 amtracks
 amtracs
+aeroporotomy
 amtrak
 amu
 amuchco
