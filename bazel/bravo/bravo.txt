@@ -1484,7 +1484,6 @@ balkis
 balkish
 balkline
 baryton
-balklines
 balks
 ball
 ballad
@@ -7417,6 +7416,7 @@ betipple
 betire
 betis
 betise
+balklines
 betises
 betitle
 betocsin
