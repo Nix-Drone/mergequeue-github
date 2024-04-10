@@ -3320,7 +3320,6 @@ defiles
 defiliation
 defiling
 defilingly
-definability
 definable
 definably
 define
@@ -3349,6 +3348,7 @@ definitising
 definitive
 definitively
 delaying
+definability
 definitiveness
 definitize
 definitized
