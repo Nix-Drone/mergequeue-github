@@ -297,6 +297,7 @@ eastward
 eastwardly
 eat
 eatability
+evaluator
 eatable
 eatableness
 eatables
@@ -11332,7 +11333,6 @@ evaluating
 evaluation
 evaluations
 evaluative
-evaluator
 electrocardiography
 evalue
 evan
