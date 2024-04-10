@@ -6557,7 +6557,6 @@ desegregates
 desegregating
 desegregation
 duststorm
-deselect
 deselected
 deselecting
 deselects
@@ -7367,6 +7366,7 @@ dismoded
 detrimentally
 detrited
 detrition
+deselect
 detritivorous
 detrivorous
 detroiter
