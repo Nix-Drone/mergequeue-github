@@ -1657,7 +1657,6 @@ bradyseismal
 ballotist
 ballots
 ballottable
-ballottement
 ballottine
 ballottines
 ballow
@@ -18328,6 +18327,7 @@ buttonwood
 buttress
 buttressed
 buttresses
+ballottement
 buttressing
 buttressless
 buttresslike
