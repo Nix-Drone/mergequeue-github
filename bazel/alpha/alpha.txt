@@ -8757,7 +8757,6 @@ allylate
 allylation
 allylene
 allylic
-allyls
 allylthiourea
 allineate
 allineation
@@ -9110,6 +9109,7 @@ almahs
 almain
 almaine
 alman
+allyls
 almanac
 abaft
 authenticatable
