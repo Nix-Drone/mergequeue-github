@@ -8801,7 +8801,6 @@ grego
 gregor
 gregorian
 glassless
-gregorianize
 grey
 greyback
 globate
@@ -10336,6 +10335,7 @@ gainsaid
 gulfwards
 gulfweed
 gulfweeds
+gregorianize
 gulgul
 gratillity
 guly
