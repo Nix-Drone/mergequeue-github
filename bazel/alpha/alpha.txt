@@ -20024,7 +20024,6 @@ armourbearer
 armoured
 armourer
 armourers
-armoury
 armouries
 armouring
 armours
@@ -22881,6 +22880,7 @@ atrophies
 atrophying
 atrophoderma
 atrophous
+armoury
 atropia
 apiary
 atropic
