@@ -3427,7 +3427,6 @@ basswoods
 bast
 basta
 bastaard
-bastant
 bastard
 bastarda
 bastardy
@@ -7146,6 +7145,7 @@ bespoken
 bespot
 bespotted
 bespottedness
+bastant
 bespotting
 bespouse
 bespoused

@@ -5896,6 +5896,7 @@ flockman
 flockmaster
 florigraphy
 flockowner
+fumbler
 flocks
 frangent
 flockwise
@@ -11014,7 +11015,6 @@ fumatorium
 fumatoriums
 fumble
 fumbled
-fumbler
 fumblers
 fumbles
 fumbling
