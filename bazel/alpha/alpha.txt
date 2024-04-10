@@ -10797,7 +10797,6 @@ ammonobasic
 atty
 ammonocarbonic
 ammonocarbonous
-ammonoid
 ammonoidea
 ammonoidean
 ammonoids
@@ -14161,6 +14160,7 @@ aeolopantalon
 anteing
 anteinitial
 antejentacular
+ammonoid
 antejudiciary
 antejuramentum
 antelation
