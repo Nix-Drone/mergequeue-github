@@ -2203,7 +2203,6 @@ elderwoman
 elderwomen
 elderwood
 elderwort
-eldest
 eldfather
 eldin
 eldmother
@@ -8277,6 +8276,7 @@ epistler
 everness
 epistlers
 epistolary
+eldest
 epistolarian
 epistolarily
 epistoler
