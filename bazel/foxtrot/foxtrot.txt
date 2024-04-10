@@ -910,7 +910,6 @@ fanworts
 frangulaceae
 fanwright
 fanzine
-fanzines
 faon
 fapesmo
 faq
@@ -11740,6 +11739,7 @@ forestem
 fuzzing
 fuzzle
 fuzztail
+fanzines
 fv
 fw
 fwd
