@@ -4654,7 +4654,6 @@ enchanter
 enchantery
 enchanters
 enchanting
-enchantingly
 enchantingness
 enchantment
 enchantments
@@ -13705,6 +13704,7 @@ extirpative
 exceptionable
 ealdormen
 extirpator
+enchantingly
 extirpatory
 extispex
 elaterium
