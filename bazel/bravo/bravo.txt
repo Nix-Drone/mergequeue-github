@@ -5129,7 +5129,6 @@ befogging
 befogs
 batoid
 befool
-befoolable
 befooled
 befooling
 befoolment
@@ -13607,6 +13606,7 @@ bourdon
 bourdons
 bourette
 bourg
+befoolable
 bourgade
 bourgeois
 bourgeoise
