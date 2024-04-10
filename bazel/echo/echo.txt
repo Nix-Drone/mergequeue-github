@@ -4323,7 +4323,6 @@ empusa
 empuzzle
 emrode
 ems
-elementariness
 emu
 ependymoma
 emulable
@@ -9205,6 +9204,7 @@ erythrocytometry
 erythrocytorrhexis
 erythrocytoschisis
 erythrocytosis
+elementariness
 erythroclasis
 erythroclastic
 erythrodegenerative
