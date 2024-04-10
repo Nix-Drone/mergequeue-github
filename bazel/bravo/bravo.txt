@@ -13765,7 +13765,6 @@ booty
 bowfin
 bowfins
 bowfront
-bowgrace
 bowhead
 bast
 bowheads
@@ -15802,6 +15801,7 @@ brolly
 brollies
 bromacetanilide
 bromacetate
+bowgrace
 bromacetic
 bromacetone
 bromal
