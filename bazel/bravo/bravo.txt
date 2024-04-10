@@ -13822,6 +13822,7 @@ bowsprits
 bowstaff
 brokenhearted
 bowstave
+buzane
 bowstring
 bowstringed
 bowstringing
@@ -18366,7 +18367,6 @@ buxomly
 buxomness
 buxus
 buz
-buzane
 buzuki
 buzukia
 buzukis
