@@ -2890,7 +2890,6 @@ feudalization
 feudalize
 feudalized
 feudalizing
-feudally
 feudary
 firmamental
 feudaries
@@ -6685,6 +6684,7 @@ focuses
 focusing
 focusless
 focussed
+feudally
 fluminose
 focusses
 focussing
