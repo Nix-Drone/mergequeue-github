@@ -6037,7 +6037,6 @@ deputyship
 deputising
 disminister
 dungeonlike
-deputized
 deputizes
 deputizing
 dequantitate
@@ -11104,6 +11103,7 @@ disarticulate
 disarticulating
 disarticulation
 disarticulator
+deputized
 disasinize
 disassemble
 disassembled
