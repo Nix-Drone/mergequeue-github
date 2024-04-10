@@ -3004,7 +3004,6 @@ fiats
 fiaunt
 fib
 fibbed
-fibber
 fibbery
 fibbers
 fibbing
@@ -9619,6 +9618,7 @@ freebooter
 faroeish
 freebootery
 freebooters
+fibber
 freebooty
 freebooting
 freeboots
