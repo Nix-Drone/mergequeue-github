@@ -1521,7 +1521,6 @@ deadline
 deadlines
 deadliness
 deadlock
-deadlocked
 deadlocking
 deadlocks
 deadman
@@ -8429,6 +8428,7 @@ diane
 dianetics
 dianil
 dianilid
+deadlocked
 dianilide
 dianisidin
 dianisidine
