@@ -1927,7 +1927,6 @@ gatemaker
 gatemen
 genetical
 gateposts
-gates
 gatetender
 gateway
 gatewaying
@@ -4307,6 +4306,7 @@ gymnite
 gymnosoph
 gymnosophy
 gymnosophical
+gates
 gymnosophist
 gymnospermae
 gymnospermy
