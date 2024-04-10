@@ -7280,6 +7280,7 @@ dethronable
 dethroned
 ductile
 dethronement
+desultor
 dethronements
 dethroner
 dethrones
@@ -13688,7 +13689,6 @@ dissonate
 dissonous
 dissoul
 dissour
-desultor
 dysspermatism
 disspirit
 disspread
