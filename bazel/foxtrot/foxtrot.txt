@@ -6305,7 +6305,6 @@ fluidification
 fissicostate
 fluidified
 fluidifier
-fogramite
 fluidifying
 fluidimeter
 fluidisation
@@ -9699,6 +9698,7 @@ freestanding
 freestyler
 freestone
 freestones
+fogramite
 freet
 freethink
 forbidal
