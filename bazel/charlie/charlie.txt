@@ -2659,6 +2659,7 @@ canonicals
 canonicate
 canonicity
 canonics
+chronodeik
 canonisation
 canonise
 canonised
@@ -12583,7 +12584,6 @@ chronocarator
 chronocyclegraph
 chronocinematography
 chronocrator
-chronodeik
 chronogeneous
 chronogenesis
 chronogram
