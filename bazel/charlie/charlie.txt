@@ -2841,7 +2841,6 @@ cantonize
 cantonment
 cantonments
 cantons
-cantoon
 countergager
 cantoral
 cantoria
@@ -10227,6 +10226,7 @@ chiasms
 chiasmus
 chiastic
 chiastolite
+cantoon
 chiastoneural
 chiastoneury
 chiastoneurous
