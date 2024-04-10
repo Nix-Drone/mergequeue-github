@@ -2250,7 +2250,6 @@ electioneering
 electioneers
 elections
 elective
-electively
 ephemerons
 electives
 electivism
@@ -6713,6 +6712,7 @@ enterotomy
 enterotoxemia
 enterotoxication
 essence
+electively
 enterotoxin
 enteroviral
 emplastra
