@@ -4608,7 +4608,6 @@ fivepins
 frosteds
 fives
 fivescore
-fm
 fivesome
 fivestones
 fivish
@@ -8048,6 +8047,7 @@ forestalls
 forestalment
 forestate
 forestation
+fm
 flexional
 forestaves
 forgetting
