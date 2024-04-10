@@ -23640,6 +23640,7 @@ aurure
 aus
 arnoldist
 auscultascope
+autoregenerator
 auscultate
 auscultated
 auscultates
@@ -24324,7 +24325,6 @@ autoradiography
 autorail
 autoreduction
 autoreflection
-autoregenerator
 autoregulation
 autoregulative
 autoregulatory
