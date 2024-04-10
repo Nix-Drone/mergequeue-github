@@ -4366,7 +4366,6 @@ fishery
 fisheries
 fisherman
 fishermen
-fisherpeople
 flammably
 fishers
 fisherwoman
@@ -7777,6 +7776,7 @@ foreland
 forelands
 foreleader
 foreleg
+fisherpeople
 forelegs
 forelimbs
 forelive
