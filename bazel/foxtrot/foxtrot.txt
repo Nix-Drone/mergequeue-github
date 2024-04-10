@@ -1747,7 +1747,6 @@ floit
 featheriest
 featheriness
 featherleaf
-featherless
 featherlessness
 featherlike
 featherman
@@ -4988,6 +4987,7 @@ flappy
 flappiest
 flapping
 feud
+featherless
 fuligo
 flaps
 flare
