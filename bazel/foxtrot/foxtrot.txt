@@ -5612,7 +5612,6 @@ flimsiness
 flinch
 flinched
 flincher
-flinching
 flinchingly
 flinders
 flindersia
@@ -10297,6 +10296,7 @@ frogginess
 frogging
 froggish
 froghood
+flinching
 froghopper
 frogleaf
 frogleg
