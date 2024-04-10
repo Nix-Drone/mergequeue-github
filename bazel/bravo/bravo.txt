@@ -1736,7 +1736,6 @@ bulbels
 balotade
 balourdise
 balow
-balr
 blending
 bals
 balsa
@@ -10592,6 +10591,7 @@ bleacherman
 bleachers
 bleaches
 bleachfield
+balr
 bleachground
 bleachhouse
 bleachyard
