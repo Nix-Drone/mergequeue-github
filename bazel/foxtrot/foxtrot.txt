@@ -1058,7 +1058,6 @@ farmhold
 farmhouse
 farmhousey
 farmy
-farmyard
 farmyardy
 farmyards
 fivers
@@ -1587,6 +1586,7 @@ favored
 favoredly
 fertilisation
 favorer
+farmyard
 favorers
 favoress
 favoring
