@@ -5746,7 +5746,6 @@ glaive
 generality
 globuliform
 globulimeter
-globulin
 globulins
 globulinuria
 globulysis
@@ -10715,6 +10714,7 @@ gusty
 gustier
 gustiest
 gusting
+globulin
 gustless
 gusto
 gustoes
