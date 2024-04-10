@@ -31,12 +31,12 @@ jobs:
             echo "Impersonating Paul"
             ;;
           1)
-            echo "secret_name=PAUL_PAT" >> $GITHUB_OUTPUT
-            echo "Impersonating Paul"
+            echo "secret_name=TONG_PAT" >> $GITHUB_OUTPUT
+            echo "Impersonating Tong"
             ;;
           2)
-            echo "secret_name=Paul_PAT" >> $GITHUB_OUTPUT
-            echo "Impersonating Paul"
+            echo "secret_name=HEATH_PAT" >> $GITHUB_OUTPUT
+            echo "Impersonating Heath"
             ;;            
           esac
 
