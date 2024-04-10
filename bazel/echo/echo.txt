@@ -5036,6 +5036,7 @@ endebt
 endecha
 ended
 endeictic
+exposers
 endeign
 endellionite
 endemial
@@ -13298,7 +13299,6 @@ exposals
 exposed
 exposedness
 exposer
-exposers
 exposes
 exposing
 exposit
