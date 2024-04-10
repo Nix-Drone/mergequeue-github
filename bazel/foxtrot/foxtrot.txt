@@ -4651,6 +4651,7 @@ fixities
 fixive
 fixt
 fixture
+fumigators
 fixtureless
 farming
 fixtures
@@ -11051,7 +11052,6 @@ fumigator
 fumigatories
 furzery
 fumigatorium
-fumigators
 fumily
 fuminess
 figworm
