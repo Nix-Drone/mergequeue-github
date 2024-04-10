@@ -6511,7 +6511,6 @@ agrionia
 agrionid
 agrionidae
 agriot
-agriotes
 arborescent
 agriotype
 agriotypidae
@@ -10502,6 +10501,7 @@ amygdalate
 amygdale
 amygdalectomy
 amygdales
+agriotes
 amygdalic
 amygdaliferous
 amygdalin
