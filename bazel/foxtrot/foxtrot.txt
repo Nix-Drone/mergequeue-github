@@ -83,6 +83,7 @@ faceplate
 facer
 facers
 fisticuffs
+fissionability
 faces
 facesaving
 facet
@@ -2401,7 +2402,6 @@ ferigee
 ferijee
 ferine
 ferinely
-fissionability
 flans
 feringhee
 feringi
