@@ -13107,7 +13107,6 @@ borrower
 borrowers
 borrows
 bors
-borsch
 borsches
 borscht
 borsholder
@@ -16670,6 +16669,7 @@ bucksaws
 buckshee
 buckshees
 buckshot
+borsch
 buckshots
 buckskinned
 buckstay
