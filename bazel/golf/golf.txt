@@ -5951,7 +5951,6 @@ globing
 grinder
 glossoplasty
 glossoplegia
-glossopode
 glossopodium
 glossopteris
 glossoptosis
@@ -7949,6 +7948,7 @@ grandmas
 grandmaster
 grandmontine
 grandmother
+glossopode
 gallus
 grandmotherhood
 grandmotherly
