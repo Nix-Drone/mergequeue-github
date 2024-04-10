@@ -829,7 +829,6 @@ ecthlipsis
 ectypal
 embrasure
 ectype
-ectypes
 ectypography
 ectiris
 episodal
@@ -6381,6 +6380,7 @@ enscene
 ensconced
 ensconces
 emporium
+ectypes
 ensconcing
 enscroll
 enscrolling
