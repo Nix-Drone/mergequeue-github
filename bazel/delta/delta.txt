@@ -10740,6 +10740,7 @@ dir
 diradiation
 dirca
 dircaean
+dominance
 dirdum
 dirdums
 dire
@@ -15316,7 +15317,6 @@ domify
 domification
 domina
 dominae
-dominance
 dominancy
 dominant
 dominantly
