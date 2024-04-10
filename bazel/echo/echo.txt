@@ -3392,7 +3392,6 @@ embarks
 embarment
 embarque
 embarras
-embarrased
 embarrass
 embarrassed
 embarrassedly
@@ -11796,6 +11795,7 @@ exam
 examen
 evacuate
 exameter
+embarrased
 examinability
 examinable
 examinant
