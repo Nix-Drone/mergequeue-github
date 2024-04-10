@@ -2083,7 +2083,6 @@ banjorine
 banjuke
 banjulele
 bank
-bankable
 bankalachi
 bankbooks
 bankcard
@@ -7520,6 +7519,7 @@ betulinic
 briolette
 bipyramidal
 backcasts
+bankable
 betulinol
 betulites
 betumbled

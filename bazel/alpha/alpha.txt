@@ -2091,7 +2091,6 @@ acetyls
 acetylsalicylate
 acetylsalicylic
 acetylsalol
-acetylthymol
 alveolites
 acetyltropeine
 acetylurea
@@ -15843,6 +15842,7 @@ antipharmic
 acrodactylum
 antiphase
 antiphylloxeric
+acetylthymol
 antiphilosophy
 antiphilosophic
 antiphilosophical
