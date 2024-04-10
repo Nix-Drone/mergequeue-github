@@ -8846,7 +8846,6 @@ equivocated
 equivocates
 equivocatingly
 equivocation
-equivocations
 equivocator
 equivocatory
 equivocators
@@ -10722,6 +10721,7 @@ euchroite
 euchromatic
 euchrome
 euchromosome
+equivocations
 euchrone
 eucyclic
 ethanols
