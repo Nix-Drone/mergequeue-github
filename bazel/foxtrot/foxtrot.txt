@@ -104,7 +104,6 @@ forequoted
 facie
 faciend
 faciends
-facient
 facies
 faciest
 ficary
@@ -1869,6 +1868,7 @@ fecundity
 forbear
 fecundities
 fecundize
+facient
 fundless
 fed
 fedayee
