@@ -5500,7 +5500,6 @@ flexuously
 flexuousness
 flexura
 flexural
-flexure
 flexured
 flexures
 fly
@@ -11320,6 +11319,7 @@ furcae
 foraminous
 furcal
 furcate
+flexure
 furcated
 forepiece
 furcating
