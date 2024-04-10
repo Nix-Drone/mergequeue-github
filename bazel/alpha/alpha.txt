@@ -1416,7 +1416,6 @@ accel
 accelerable
 accelerando
 accelerant
-accelerate
 accelerated
 acceleratedly
 accelerates
@@ -15299,6 +15298,7 @@ antigenicity
 antigens
 antigigmanic
 antigyrous
+accelerate
 antiglyoxalase
 antiglobulin
 antignostic
