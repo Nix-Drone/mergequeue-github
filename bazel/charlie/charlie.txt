@@ -17374,6 +17374,7 @@ cobblership
 cobbles
 cobblestone
 cobblestoned
+courant
 cobblestones
 cobbly
 cobbling
@@ -27277,7 +27278,6 @@ chantable
 courageousness
 courager
 courages
-courant
 courante
 courantes
 conversationalist
