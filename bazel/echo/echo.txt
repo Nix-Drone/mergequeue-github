@@ -4670,7 +4670,6 @@ emanating
 enchasten
 encheason
 encheat
-encheck
 encheer
 encheiria
 enchelycephali
@@ -6502,6 +6501,7 @@ ensorcel
 ensorceled
 ensorceling
 emitters
+encheck
 ensorcelize
 ensorcell
 ensorcellment
