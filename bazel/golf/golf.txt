@@ -920,7 +920,6 @@ gamelang
 gamelans
 gameless
 gamely
-galvanocauterization
 gamelike
 gamelin
 gamelion
@@ -8146,6 +8145,7 @@ grapelet
 groundplot
 grapelike
 grapeline
+galvanocauterization
 gangsters
 grapenuts
 grapery
