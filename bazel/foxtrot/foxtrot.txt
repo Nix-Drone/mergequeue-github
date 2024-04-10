@@ -1056,7 +1056,6 @@ farmerly
 farmerlike
 farmers
 farmership
-farmhand
 farmhold
 farmhouse
 farmhousey
@@ -2796,6 +2795,7 @@ fretfulness
 fetichism
 fetichist
 fetichistic
+farmhand
 fetichize
 fetichlike
 forediscern
