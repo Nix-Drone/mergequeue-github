@@ -2446,7 +2446,6 @@ deckels
 decken
 decker
 deckhand
-deckhands
 deckhead
 deckhouse
 deckie
@@ -7748,6 +7747,7 @@ devotionality
 devotionally
 devotionalness
 devotionary
+deckhands
 devotionate
 diadochokinesis
 devotionist
