@@ -12703,6 +12703,7 @@ bookrests
 bookroom
 books
 bookseller
+becloaked
 booksellerish
 boce
 barmkin
@@ -13575,7 +13576,6 @@ besiren
 bounds
 boundure
 bounteous
-becloaked
 bounteously
 bounteousness
 bounty
