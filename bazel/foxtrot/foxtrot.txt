@@ -6680,7 +6680,6 @@ focometry
 focsle
 focus
 focusable
-focused
 focuses
 focusing
 focusless
@@ -11080,6 +11079,7 @@ funambulate
 funambulated
 funambulating
 fawningness
+focused
 funambulation
 funambulator
 funambulatory
