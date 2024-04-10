@@ -24,7 +24,6 @@ fabliaux
 fabling
 fabraea
 fabric
-fabricable
 fabricant
 fabricated
 fabricates
@@ -5225,6 +5224,7 @@ flavorer
 flavorers
 flavorfully
 flavorfulness
+fabricable
 flavory
 flavoriness
 flavoring
