@@ -3179,7 +3179,6 @@ geophysics
 geophytes
 geophytic
 guardlike
-geophone
 geophones
 geoplagiotropism
 geoplana
@@ -7813,6 +7812,7 @@ graywacke
 graywether
 grakle
 grallae
+geophone
 grallatores
 grallatorial
 grallic
