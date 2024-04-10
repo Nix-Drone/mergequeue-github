@@ -4511,7 +4511,6 @@ encallow
 encamping
 encampment
 encampments
-encamps
 endoparasite
 encanker
 encanthis
@@ -7868,6 +7867,7 @@ epigean
 epigee
 epigeic
 epigene
+encamps
 epigenesist
 epigenetic
 epigenetically
