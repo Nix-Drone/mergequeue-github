@@ -5311,7 +5311,6 @@ electrotonicity
 endorsable
 entopterygoid
 endorsation
-endorse
 endorsed
 endorsee
 endorsees
@@ -13142,6 +13141,7 @@ expiry
 expiries
 expiring
 expiringly
+endorse
 expiscate
 expiscated
 expiscating
