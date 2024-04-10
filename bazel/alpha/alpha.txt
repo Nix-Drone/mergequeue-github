@@ -8124,7 +8124,6 @@ alginuresis
 algiomuscular
 algist
 algivorous
-algocyan
 algodon
 algodoncillo
 algodonite
@@ -20962,6 +20961,7 @@ ascetic
 ascetical
 ascetically
 asceticism
+algocyan
 ataraxias
 ascetics
 ascetta
