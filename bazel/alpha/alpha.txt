@@ -6914,7 +6914,6 @@ airfoil
 airfoils
 airframe
 airframes
-airfreight
 airfreighter
 airglow
 airglows
@@ -20529,6 +20528,7 @@ arteriorrhexis
 arterioscleroses
 arteriosclerosis
 arteriosympathectomy
+airfreight
 arteriospasm
 arteriostenosis
 arteriostosis
