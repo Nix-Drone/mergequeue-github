@@ -3023,7 +3023,6 @@ acrorrheuma
 acrosarc
 acrosarca
 acroscleriasis
-acroscleroderma
 acroscopic
 acrose
 acrosome
@@ -22730,6 +22729,7 @@ atolls
 atom
 atomatic
 atomechanics
+acroscleroderma
 atomerg
 atomy
 atomic
