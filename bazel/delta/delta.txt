@@ -5927,7 +5927,6 @@ depressiveness
 deltahedron
 depressives
 dodging
-depressomotor
 depressor
 depressors
 depressure
@@ -6673,6 +6672,7 @@ desyl
 desilicate
 desilicated
 desilicating
+depressomotor
 desilicify
 desilicification
 desilicified
