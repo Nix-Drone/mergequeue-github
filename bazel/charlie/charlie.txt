@@ -4036,7 +4036,6 @@ cataloger
 cardiotherapies
 cardiotomy
 cardiotonic
-cardiotoxic
 cardiotrophia
 cardiotrophotherapy
 cardiovascular
@@ -5495,6 +5494,7 @@ cataphyll
 cataphyllum
 cataphysic
 cataphysical
+cardiotoxic
 cataphonic
 cataphonics
 cataphora
