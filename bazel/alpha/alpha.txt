@@ -9942,7 +9942,6 @@ ambicoloration
 ambidexterity
 ambidexterities
 ambidexterous
-ambidextral
 ambidextrous
 ambidextrously
 ambience
@@ -12065,6 +12064,7 @@ anatomicomedical
 anatomicopathologic
 anatomicopathological
 anatomicophysiologic
+ambidextral
 anatomicophysiological
 anatomicosurgical
 anatomies
