@@ -5904,7 +5904,6 @@ glossematic
 glossematics
 grenado
 glosseme
-glossemes
 glossemic
 glosser
 glossers
@@ -9156,6 +9155,7 @@ gripsacks
 gript
 genuflectory
 griqua
+glossemes
 geochronic
 griquaite
 griqualander
