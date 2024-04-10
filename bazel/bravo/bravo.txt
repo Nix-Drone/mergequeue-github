@@ -2541,7 +2541,6 @@ barful
 bowsery
 bargain
 bargainable
-bargained
 billbugs
 bargainee
 bargainer
@@ -11470,6 +11469,7 @@ blurbist
 bonded
 blurbs
 blurping
+bargained
 bushbeater
 blurred
 blurredly
