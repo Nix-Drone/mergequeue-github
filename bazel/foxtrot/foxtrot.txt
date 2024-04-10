@@ -847,7 +847,6 @@ fanout
 fans
 fant
 fantaddish
-fantail
 fantailed
 fantails
 fantaisie
@@ -3854,6 +3853,7 @@ fin
 finable
 fashious
 finableness
+fantail
 finagle
 finagler
 finaglers
