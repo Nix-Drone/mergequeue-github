@@ -4790,7 +4790,6 @@ decarbonylated
 demoiselles
 demolish
 demolished
-demolisher
 demolishes
 demolishing
 demolishment
@@ -7625,6 +7624,7 @@ devilship
 deviltry
 dissociation
 dictated
+demolisher
 devilward
 devilwise
 devinct
