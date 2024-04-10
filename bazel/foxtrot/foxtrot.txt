@@ -4627,6 +4627,7 @@ fixidity
 fixing
 frisbees
 forborn
+floorwalkers
 fixings
 fixion
 falter
@@ -5956,7 +5957,6 @@ floorshow
 floorthrough
 floorway
 floorwalker
-floorwalkers
 fluidrachm
 floorward
 furniment
