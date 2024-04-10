@@ -5748,6 +5748,7 @@ footrill
 flittermouse
 flittern
 flitters
+flyweight
 flitty
 flitting
 flittingly
@@ -5757,7 +5758,6 @@ flivvers
 flyway
 flyways
 further
-flyweight
 flyweights
 forthon
 flywheel
