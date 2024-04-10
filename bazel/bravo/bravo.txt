@@ -7842,7 +7842,6 @@ biasness
 biasnesses
 biassed
 biassedly
-biasses
 biaswise
 biathlon
 biatomic
@@ -9061,6 +9060,7 @@ battlemented
 biolite
 biolith
 biolytic
+biasses
 biologese
 blackfoot
 biologic
