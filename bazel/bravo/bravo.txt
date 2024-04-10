@@ -2366,7 +2366,6 @@ barbeyaceae
 burp
 barbeiro
 barbel
-barbeled
 barbellate
 besmearer
 barbells
@@ -16404,6 +16403,7 @@ bruskest
 bruskly
 bruskness
 benames
+barbeled
 brusque
 brusquely
 brusqueness
