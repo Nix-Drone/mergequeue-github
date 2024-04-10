@@ -9414,7 +9414,6 @@ erse
 erses
 ersh
 erst
-erstwhile
 erstwhiles
 ertebolle
 erth
@@ -13265,6 +13264,7 @@ exponentials
 exponentiate
 exponentiated
 ectocyst
+erstwhile
 exponentiates
 exponentiating
 exponentiation
