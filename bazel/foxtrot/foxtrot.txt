@@ -6092,6 +6092,7 @@ flota
 flotage
 flotages
 favorability
+foregoes
 flotative
 flote
 fragor
@@ -9597,7 +9598,6 @@ frecklier
 freckliest
 freckliness
 flighting
-foregoes
 freckling
 fred
 fredaine
