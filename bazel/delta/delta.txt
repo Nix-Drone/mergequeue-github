@@ -2626,7 +2626,6 @@ decompensation
 decompensations
 decompensatory
 decompiler
-decomponent
 decomponible
 decomposability
 decomposable
@@ -6967,6 +6966,7 @@ dessicate
 dessil
 dessous
 dessus
+decomponent
 destabilization
 destabilize
 diabolifuge
