@@ -4004,7 +4004,6 @@ cardiomegaly
 cardiomelanosis
 cardiometer
 cardiometric
-cardiomyomalacia
 cardiomyopathy
 cardiomotility
 cardioncus
@@ -21710,6 +21709,7 @@ condone
 condoned
 condonement
 condoner
+cardiomyomalacia
 condoners
 condones
 condoning
