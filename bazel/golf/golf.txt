@@ -1566,7 +1566,6 @@ gascons
 gascromh
 gliosis
 gaselier
-gaseosity
 gaseous
 gaseously
 gaseousness
@@ -2429,6 +2428,7 @@ gelded
 gelder
 gelders
 geldesprung
+gaseosity
 gelding
 geldings
 gelds
