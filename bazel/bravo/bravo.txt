@@ -8909,7 +8909,6 @@ binoculars
 binoculate
 binode
 binodose
-binodous
 binomen
 binomenclature
 binomy
@@ -9983,6 +9982,7 @@ bivane
 bivariant
 bivariate
 bivascular
+binodous
 bivector
 biventer
 blights
