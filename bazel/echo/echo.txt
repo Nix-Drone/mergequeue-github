@@ -627,7 +627,6 @@ echoist
 echoize
 echoized
 echoizing
-echolalic
 echoless
 echolocation
 echometer
@@ -8415,6 +8414,7 @@ epithet
 epithetic
 epithetical
 epithetically
+echolalic
 epithetician
 epithetize
 epitheton
