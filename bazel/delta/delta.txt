@@ -9370,7 +9370,6 @@ diffuseness
 diffuser
 diffusers
 diffuses
-diffusibility
 diffusible
 diffusibleness
 dikamalli
@@ -17120,6 +17119,7 @@ drighten
 drygoodsman
 drying
 dryinid
+diffusibility
 dryish
 debentureholder
 dryly
