@@ -22339,7 +22339,6 @@ conidae
 conidia
 conidial
 conidian
-conidiiferous
 conidioid
 conidiophorous
 conidiospore
@@ -30399,6 +30398,7 @@ ctenostomata
 ctenostomatous
 ctenostome
 ctetology
+conidiiferous
 ctf
 ctg
 ctge
