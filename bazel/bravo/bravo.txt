@@ -7607,7 +7607,6 @@ bewash
 bewaste
 bewater
 beweary
-bewearies
 bewearying
 beweep
 bloodleaf
@@ -16862,6 +16861,7 @@ bugbite
 bugdom
 bugeye
 bugeyed
+bewearies
 bugeyes
 bugfish
 buggane
