@@ -5609,7 +5609,6 @@ glyph
 greywether
 glyphic
 gus
-glyphograph
 glyphographer
 glyphography
 glyphographic
@@ -6510,6 +6509,7 @@ goblin
 glycocholate
 gymnasial
 gettable
+glyphograph
 griddler
 gobline
 goblinesque
