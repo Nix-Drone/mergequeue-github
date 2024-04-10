@@ -2049,7 +2049,6 @@ elachistaceae
 elachistaceous
 equiformal
 encodes
-elaeagnaceae
 elaeagnaceous
 elaeagnus
 elaeis
@@ -10442,6 +10441,7 @@ eemis
 ethmoidal
 ethmoiditis
 ethmoids
+elaeagnaceae
 ethmolith
 ethmomaxillary
 ethmonasal
