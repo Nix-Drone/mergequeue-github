@@ -11310,7 +11310,6 @@ exteriors
 evacue
 evacuee
 evacuees
-evadable
 evade
 evaded
 evader
@@ -14150,6 +14149,7 @@ exulate
 exulcerating
 exulceration
 exhumated
+evadable
 exulcerative
 exulceratory
 exulding
