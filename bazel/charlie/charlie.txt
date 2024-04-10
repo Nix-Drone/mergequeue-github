@@ -2962,7 +2962,6 @@ capelet
 capelin
 capeline
 capelins
-capella
 capellane
 capelline
 capelocracy
@@ -27600,6 +27599,7 @@ cowhided
 cowhides
 cowhiding
 cowhorn
+capella
 cowhouse
 cowy
 clockers
