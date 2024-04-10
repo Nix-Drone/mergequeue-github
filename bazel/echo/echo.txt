@@ -3159,6 +3159,7 @@ elroquite
 els
 elsa
 else
+estus
 endemic
 elsehow
 elses
@@ -10363,7 +10364,6 @@ ethyl
 ethylamide
 ethylamime
 ethylamin
-estus
 ethylamine
 ethylate
 ethylated
