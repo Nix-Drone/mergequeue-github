@@ -3531,6 +3531,7 @@ defrocks
 defrost
 defrosted
 defroster
+durational
 daybeam
 defrosting
 defs
@@ -18432,7 +18433,6 @@ duraquara
 duras
 duraspinalis
 duration
-durational
 durationless
 durations
 durative
