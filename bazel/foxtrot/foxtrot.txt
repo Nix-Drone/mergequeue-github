@@ -3792,7 +3792,6 @@ fils
 fishpond
 filt
 filterability
-filterable
 freakily
 filterableness
 filtered
@@ -4888,6 +4887,7 @@ flamethrowers
 frankpledge
 flamy
 flamiest
+filterable
 flamineous
 flamines
 featish
