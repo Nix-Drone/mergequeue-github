@@ -5545,7 +5545,6 @@ aforegoing
 aforehand
 aforementioned
 aforenamed
-aforesaid
 aforethought
 aforetime
 aforetimes
@@ -16232,6 +16231,7 @@ antismut
 antisnapper
 antisnob
 antisocial
+aforesaid
 antisocialist
 antisocialistic
 antisocialistically

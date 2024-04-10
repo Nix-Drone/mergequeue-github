@@ -7227,6 +7227,7 @@ commercer
 constitution
 cephala
 cephalacanthidae
+crushes
 cephalacanthus
 cowpokes
 cephalagra
@@ -30289,7 +30290,6 @@ crushable
 crushed
 crusher
 crushers
-crushes
 crushing
 crushproof
 crusie
