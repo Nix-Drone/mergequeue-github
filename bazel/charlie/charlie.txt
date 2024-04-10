@@ -9538,7 +9538,6 @@ compathy
 checkrooms
 checkrope
 checkrow
-checkrowed
 checkrower
 checkrowing
 checkrows
@@ -12325,6 +12324,7 @@ christmastide
 christocentric
 chrystocrene
 christofer
+checkrowed
 christogram
 christolatry
 christology
