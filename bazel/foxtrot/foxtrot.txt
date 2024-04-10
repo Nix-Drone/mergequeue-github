@@ -5988,6 +5988,7 @@ flophouse
 flophouses
 flopover
 flopovers
+furnacelike
 flopper
 flickery
 floppers
@@ -11416,7 +11417,6 @@ furmint
 furmity
 furmities
 furnace
-furnacelike
 furnacemen
 febrifuges
 furnaces
