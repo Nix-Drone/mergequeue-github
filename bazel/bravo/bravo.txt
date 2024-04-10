@@ -7675,7 +7675,6 @@ bewreak
 bewreath
 bewreck
 bewry
-bewrite
 bewwept
 bezaleel
 bezan
@@ -11790,6 +11789,7 @@ bodo
 bodock
 bodoni
 bodonid
+bewrite
 bodrag
 bodrage
 bods
