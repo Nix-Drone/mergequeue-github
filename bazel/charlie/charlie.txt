@@ -925,7 +925,6 @@ calamopitys
 calamospermae
 calamostachys
 calamumi
-calamus
 calander
 calando
 calandra
@@ -11056,6 +11055,7 @@ chitling
 chitlings
 cowpath
 chitlins
+calamus
 chiton
 chitons
 chitosamine
