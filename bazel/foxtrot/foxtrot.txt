@@ -6204,7 +6204,6 @@ firebreak
 flowoff
 flowstone
 flrie
-flu
 fluate
 fluavile
 father
@@ -8501,6 +8500,7 @@ formulaically
 formulary
 foggy
 formularies
+flu
 formularisation
 formularise
 febricide
