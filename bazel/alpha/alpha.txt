@@ -3583,6 +3583,7 @@ addressee
 addressees
 addresser
 addressers
+agrestis
 addresses
 auxetics
 addressful
@@ -6470,7 +6471,6 @@ agrestial
 agrestian
 agrestic
 agrestical
-agrestis
 agria
 agrias
 agribusiness
