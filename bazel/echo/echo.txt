@@ -837,7 +837,6 @@ ectoblastic
 ectobronchium
 ectocardia
 ectocarpaceae
-ectocarpaceous
 ectocarpales
 ectocarpic
 ectocarpous
@@ -2699,6 +2698,7 @@ electrotropism
 egoize
 electrovalence
 electrovalent
+ectocarpaceous
 electrovalently
 electrovection
 electrowin
