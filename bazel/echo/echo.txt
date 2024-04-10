@@ -2606,6 +2606,7 @@ electroplater
 electroplates
 electroplax
 electropneumatic
+empatron
 electropoion
 electropolar
 electropolish
@@ -4116,7 +4117,6 @@ empathies
 empathize
 empathized
 empathizes
-empatron
 empearl
 empemata
 embrangled
