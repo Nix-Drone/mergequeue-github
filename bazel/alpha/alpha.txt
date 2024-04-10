@@ -8606,6 +8606,7 @@ allele
 alleles
 alleleu
 allelic
+astrocytomas
 allelism
 allelisms
 allelocatalytic
@@ -22227,7 +22228,6 @@ astrochronological
 astrocyte
 astrocytic
 astrocytoma
-astrocytomas
 astrocytomata
 astrocompass
 astrodiagnosis
