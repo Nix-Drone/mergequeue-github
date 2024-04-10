@@ -10788,6 +10788,7 @@ ammonolitic
 ammonolytic
 ammonolyzed
 ammonolyzing
+atmospheres
 ammophila
 ammophilous
 ammoresinol
@@ -22700,7 +22701,6 @@ atmosphere
 atmosphered
 atmosphereful
 atmosphereless
-atmospheres
 atmospheric
 atmospherical
 atmospherically
