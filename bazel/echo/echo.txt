@@ -1147,6 +1147,7 @@ ectosarcs
 elephantine
 edition
 editions
+electronvolt
 editor
 editorial
 editorialization
@@ -2548,7 +2549,6 @@ electronographic
 ecad
 electrons
 epipubic
-electronvolt
 electrooculogram
 electrooptic
 electrooptical
