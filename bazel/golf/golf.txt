@@ -429,7 +429,6 @@ galbulidae
 galbulinae
 galbulus
 galcha
-galchic
 gravata
 gale
 galea
@@ -4871,6 +4870,7 @@ gyrowheel
 girr
 girrit
 girrock
+galchic
 girse
 girsh
 girshes
