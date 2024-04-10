@@ -11138,7 +11138,6 @@ bloomy
 bloomier
 bloomiest
 bloomingly
-bloomingness
 bloomkin
 bloomless
 blooms
@@ -12809,6 +12808,7 @@ boot
 bootable
 bootblack
 bootblacks
+bloomingness
 booted
 bootees
 barkening
