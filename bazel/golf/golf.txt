@@ -1484,7 +1484,6 @@ garous
 garpikes
 garrafa
 garrat
-garred
 garret
 garreted
 garreteer
@@ -5729,6 +5728,7 @@ globule
 globules
 globulet
 globulicide
+garred
 globuliferous
 glaive
 globuliform
