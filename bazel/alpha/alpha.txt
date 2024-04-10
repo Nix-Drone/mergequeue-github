@@ -6971,6 +6971,7 @@ airspeeds
 airstream
 airstrip
 airstrips
+amounts
 airt
 airted
 airthed
@@ -10956,7 +10957,6 @@ amount
 amounted
 amounter
 amounters
-amounts
 amour
 amouret
 amourist
