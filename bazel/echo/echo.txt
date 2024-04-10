@@ -8392,7 +8392,6 @@ epithecium
 epithelia
 epithelialize
 ejectives
-epithelioceptor
 epithelioid
 epitheliolysin
 epitheliolysis
@@ -14106,6 +14105,7 @@ excussion
 extrude
 extruded
 extruder
+epithelioceptor
 entrails
 extruders
 examinees
