@@ -2075,7 +2075,6 @@ acetyls
 acetylsalicylate
 acetylsalicylic
 acetylsalol
-acetyltannin
 acetylthymol
 acetyltropeine
 acetylurea
@@ -9804,6 +9803,7 @@ amarillo
 amarillos
 amarin
 amarine
+acetyltannin
 amarity
 amaritude
 amarna
