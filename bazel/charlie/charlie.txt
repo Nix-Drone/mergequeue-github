@@ -16683,7 +16683,6 @@ clothespins
 clothespress
 clothespresses
 clothy
-clothier
 clothiers
 clothify
 clothilda
@@ -20314,6 +20313,7 @@ communized
 communizing
 commutability
 commutable
+clothier
 commutableness
 commutant
 commutate
