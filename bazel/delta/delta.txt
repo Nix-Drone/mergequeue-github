@@ -2633,7 +2633,6 @@ decompensating
 decompensation
 decompensations
 decompensatory
-decompile
 decompiler
 decomponent
 decomponible
@@ -17412,6 +17411,7 @@ drosometer
 drosophila
 drosophilae
 drosophilas
+decompile
 drosophilidae
 dipyramid
 drosophyllum
