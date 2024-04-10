@@ -5626,7 +5626,6 @@ depersonalise
 depersonalising
 depersonalization
 depersonalized
-depersonalizes
 depersonalizing
 depersonize
 depertible
@@ -13505,6 +13504,7 @@ dissepimental
 dissertate
 dissertated
 dissertating
+depersonalizes
 dissertation
 dissertational
 dissertationist
