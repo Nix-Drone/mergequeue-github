@@ -2188,7 +2188,6 @@ feltings
 feltmaker
 feltmaking
 feltman
-foulard
 feltmonger
 feltness
 felts
@@ -7882,6 +7881,7 @@ forereach
 fatbrained
 forereaching
 foreread
+foulard
 forereading
 forerecited
 forereckon
