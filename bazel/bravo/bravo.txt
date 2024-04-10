@@ -5142,7 +5142,6 @@ beflowering
 beflowers
 beflum
 befluster
-befoam
 befog
 befogged
 befogging
@@ -6442,6 +6441,7 @@ benzidins
 benzil
 benzyl
 benzylamine
+befoam
 benzilic
 benzylic
 benzylidene
