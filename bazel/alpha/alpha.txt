@@ -8756,7 +8756,6 @@ allylate
 allylation
 allylene
 allylic
-allyls
 allylthiourea
 allineate
 allineation
@@ -18213,6 +18212,7 @@ aquamaniles
 aloemodin
 aquamanilia
 aquamarine
+allyls
 aquamarines
 aquameter
 aquanaut
