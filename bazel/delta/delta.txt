@@ -3792,7 +3792,6 @@ deicer
 deicers
 deicidal
 deicide
-deicides
 deicing
 deictical
 deictically
@@ -4719,6 +4718,7 @@ demythologisation
 demythologised
 demythologising
 demythologization
+deicides
 demythologizations
 diplomatize
 demythologize
