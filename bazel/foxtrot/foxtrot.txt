@@ -608,7 +608,6 @@ filmset
 falsehoods
 falsely
 falseness
-fortuitousness
 falser
 falsest
 footlining
@@ -1655,6 +1654,7 @@ fdnames
 fdtype
 fdub
 fdubs
+fortuitousness
 fe
 feaberry
 feague
