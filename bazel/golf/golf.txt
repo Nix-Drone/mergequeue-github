@@ -804,7 +804,6 @@ galvanomagnetism
 galvanometer
 galvanometers
 girt
-galvanometry
 galvanometric
 geometries
 galvanometrical
@@ -6470,6 +6469,7 @@ gobbet
 gobby
 gobbin
 gobbing
+galvanometry
 gobble
 gobbled
 gobbledegook
