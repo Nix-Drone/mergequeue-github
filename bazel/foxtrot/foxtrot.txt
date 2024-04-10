@@ -1073,7 +1073,6 @@ farmscape
 farmstead
 farmsteads
 farmtown
-farmwife
 farnesol
 farnesols
 farness
@@ -5615,6 +5614,7 @@ flimflams
 frontlets
 flimp
 flimsy
+farmwife
 flimsier
 freshment
 flimsies
