@@ -3134,7 +3134,6 @@ fibrospongiae
 formative
 fibrotic
 fibrotuberculosis
-fibrous
 fibrously
 fibrousness
 fibrovascular
@@ -4961,6 +4960,7 @@ flanning
 flanque
 flapcake
 freeloader
+fibrous
 flapdock
 flapdoodle
 furcately
