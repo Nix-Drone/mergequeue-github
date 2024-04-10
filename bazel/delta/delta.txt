@@ -3630,7 +3630,6 @@ degorder
 degorge
 degradable
 degradand
-degradation
 degradational
 degradations
 degradative
@@ -5418,6 +5417,7 @@ denumberment
 denumerability
 denumerable
 denumerably
+degradation
 denumeral
 denumerant
 denumerantive
