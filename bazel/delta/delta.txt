@@ -3512,7 +3512,6 @@ defrocks
 defrost
 defrosted
 defroster
-defrosters
 daybeam
 defrosting
 defs
@@ -11464,6 +11463,7 @@ discomfits
 discomfiture
 discomfort
 discomfortable
+defrosters
 discomforted
 disload
 discomorula
