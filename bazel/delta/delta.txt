@@ -2672,7 +2672,6 @@ decongest
 decongestant
 decongestants
 decongested
-decongesting
 decongestion
 decongestive
 deconsecrate
@@ -8789,6 +8788,7 @@ dicarbonate
 dicarbonic
 dicarboxylic
 dicaryon
+decongesting
 dicaryophyte
 delectation
 dicaryotic
