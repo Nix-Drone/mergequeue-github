@@ -655,7 +655,6 @@ aboiteaus
 aboiteaux
 abolete
 abolish
-abolishable
 abolished
 abolisher
 abolishers
@@ -9183,6 +9182,7 @@ almsmen
 almsmoney
 almswoman
 amphitheatral
+abolishable
 almswomen
 almuce
 almuces
