@@ -4401,7 +4401,6 @@ adrenocortical
 adrenocorticosteroid
 adrenocorticotrophic
 ammonolysis
-adrenocorticotrophin
 adrenocorticotropic
 adrenolysis
 adrenomedullary
@@ -7564,6 +7563,7 @@ anomurous
 albumose
 albumosuria
 albums
+adrenocorticotrophin
 albuquerque
 alburn
 alburnous
