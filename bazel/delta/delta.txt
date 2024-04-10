@@ -5741,7 +5741,6 @@ depolariser
 darksome
 depolarising
 depolarization
-depolarize
 depolarized
 depolarizers
 depolarizes
@@ -7927,6 +7926,7 @@ dhangar
 dhanuk
 dhanush
 duetto
+depolarize
 dhanvantari
 dharana
 dharani
