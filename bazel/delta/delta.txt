@@ -1878,7 +1878,6 @@ debtless
 debtor
 diegueno
 debtors
-debtorship
 debts
 debugger
 debuggers
@@ -2738,6 +2737,7 @@ decoupling
 decourse
 decourt
 decousu
+debtorship
 decrassify
 decrassified
 duchess
