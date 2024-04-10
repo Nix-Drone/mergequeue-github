@@ -2252,7 +2252,6 @@ baptistry
 baptistries
 baptists
 baptizable
-baptized
 baptizee
 baptizement
 baptizer
@@ -5191,6 +5190,7 @@ begad
 begay
 begall
 begalled
+baptized
 begalling
 begalls
 begani
