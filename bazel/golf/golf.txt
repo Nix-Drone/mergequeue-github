@@ -654,6 +654,7 @@ gallinipper
 gallinule
 gallinulelike
 gallinulinae
+geodesy
 gallinuline
 galliot
 galliots
@@ -3022,7 +3023,6 @@ geodaesia
 geodal
 gnoff
 geodes
-geodesy
 geodesia
 geodesical
 geodesies
