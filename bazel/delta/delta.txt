@@ -2456,7 +2456,6 @@ declaimant
 declaimed
 declaimer
 declaimers
-declaiming
 declaims
 declamando
 declamation
@@ -16845,6 +16844,7 @@ drawstrings
 drawtongs
 drawtube
 drawtubes
+declaiming
 drazel
 drch
 dread
