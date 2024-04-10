@@ -6349,7 +6349,6 @@ benzacridine
 benzal
 benzalacetone
 benzalacetophenone
-benzalaniline
 benzalazine
 benzalcohol
 bakupari
@@ -15973,6 +15972,7 @@ bronchos
 bronchoscope
 biforous
 bronchoscopy
+benzalaniline
 bronchoscopic
 bronchoscopically
 bronchoscopist
