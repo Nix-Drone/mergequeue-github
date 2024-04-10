@@ -5605,7 +5605,6 @@ catchlight
 catchline
 catchment
 catchments
-catchpenny
 catchpennies
 catchphrase
 catchplate
@@ -6293,6 +6292,7 @@ cavalieres
 cavalieri
 cavaliering
 cavalierish
+catchpenny
 cavalierishness
 cavalierism
 cavalierly
