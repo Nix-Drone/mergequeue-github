@@ -5798,7 +5798,6 @@ deposals
 duke
 defats
 depose
-deposed
 disorganized
 deposer
 deposers
@@ -14689,6 +14688,7 @@ doctorfishes
 doctorhood
 doctorial
 doctorially
+deposed
 doctoring
 doctorization
 doctorize
