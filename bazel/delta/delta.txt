@@ -15546,6 +15546,7 @@ doomed
 doomer
 doomful
 doomfully
+drawbar
 doomfulness
 dooming
 doomlike
@@ -16771,7 +16772,6 @@ drawable
 drawarm
 drawback
 drawbacks
-drawbar
 drawbars
 drawbeam
 drawbench
