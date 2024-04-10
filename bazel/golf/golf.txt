@@ -8021,7 +8021,6 @@ graniform
 granilla
 granita
 granite
-granitelike
 granites
 graniteware
 granitic
@@ -8462,6 +8461,7 @@ graves
 graveship
 gravest
 gravestead
+granitelike
 gravestone
 gravestones
 grallatory
