@@ -2118,7 +2118,6 @@ elasmotherium
 epigrammatist
 elastance
 elastase
-elastases
 elastic
 elastica
 elastically
@@ -11706,6 +11705,7 @@ evulse
 evulsion
 evulsions
 ew
+elastases
 ewe
 ewerer
 ewery
