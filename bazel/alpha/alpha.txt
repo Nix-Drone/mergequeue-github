@@ -5742,7 +5742,6 @@ aftersong
 aftersound
 afterspeech
 afterspring
-afterstain
 afterstate
 appetisse
 afterstorm
@@ -15767,6 +15766,7 @@ antiparabemata
 antiparagraphe
 antiparagraphic
 antiparalytic
+afterstain
 antiparalytical
 antiparallel
 antiparallelogram
