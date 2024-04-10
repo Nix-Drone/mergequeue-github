@@ -3674,7 +3674,6 @@ adenitises
 adenization
 adenoacanthoma
 adenoblast
-adenocancroid
 adenocarcinoma
 adenocarcinomas
 adenocarcinomata
@@ -22052,6 +22051,7 @@ asterisms
 asterixis
 astern
 asternal
+adenocancroid
 asternata
 asternia
 asterochiton
