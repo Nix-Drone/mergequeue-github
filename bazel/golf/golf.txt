@@ -6302,7 +6302,6 @@ gnatoo
 gnatproof
 gnats
 gnatsnap
-gnatsnapper
 gnatter
 gnattiest
 gimcracky
@@ -7790,6 +7789,7 @@ grayouts
 glimpse
 graip
 grays
+gnatsnapper
 graysby
 graisse
 gephyrophobia
