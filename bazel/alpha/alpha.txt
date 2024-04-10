@@ -6968,7 +6968,6 @@ airplaner
 airplanes
 airplanist
 acieral
-airplot
 airport
 airports
 airpost
@@ -12778,6 +12777,7 @@ angiolith
 angiology
 angioma
 angiomalacia
+airplot
 angiomas
 angiomata
 angiomatosis
