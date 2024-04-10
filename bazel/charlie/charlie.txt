@@ -3968,7 +3968,6 @@ cardiodysesthesia
 cardiodysneuria
 cardiogenesis
 cardiogenic
-cardiogram
 cardiograms
 cardiograph
 cardiographer
@@ -10590,6 +10589,7 @@ chilopsis
 chylosis
 chilostoma
 chilostomatous
+cardiogram
 chilostome
 chiefdom
 chylothorax
