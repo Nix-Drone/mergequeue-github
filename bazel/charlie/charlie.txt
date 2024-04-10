@@ -12432,6 +12432,7 @@ chromium
 chromiums
 clerisy
 chromize
+contextual
 chromized
 clavatin
 chromizes
@@ -23444,7 +23445,6 @@ contex
 context
 contextive
 contexts
-contextual
 contextualize
 contextually
 contextural
