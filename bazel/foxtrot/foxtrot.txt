@@ -2274,7 +2274,6 @@ fenced
 fenceful
 fenceless
 fencelessness
-fencelet
 fencelike
 fenceplay
 fencepost
@@ -7479,6 +7478,7 @@ forclose
 forconceit
 forcut
 ford
+fencelet
 fordable
 fordableness
 fordays
