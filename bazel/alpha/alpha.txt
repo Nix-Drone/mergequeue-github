@@ -13602,6 +13602,7 @@ annotater
 annotates
 annotating
 annotation
+avoiding
 annotations
 annotative
 annotatively
@@ -24829,7 +24830,6 @@ avoidant
 avoided
 avoider
 avoiders
-avoiding
 avoidment
 avoids
 avoyer
