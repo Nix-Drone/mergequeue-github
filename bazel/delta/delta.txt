@@ -2429,6 +2429,7 @@ deciphers
 decipium
 decipolar
 decision
+dialogs
 decisional
 decisionmake
 decisions
@@ -8348,7 +8349,6 @@ decouple
 divia
 dialogized
 dialogizing
-dialogs
 dialogue
 devesting
 dialogued
