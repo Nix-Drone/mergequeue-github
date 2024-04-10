@@ -10242,6 +10242,7 @@ bladders
 bladderseed
 bladderweed
 bladderwort
+burgrave
 bladderwrack
 blade
 bladebone
@@ -17675,7 +17676,6 @@ burgoo
 burgoos
 bhakta
 burgout
-burgrave
 burgraves
 burgraviate
 burgs
