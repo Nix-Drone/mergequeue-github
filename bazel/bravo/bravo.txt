@@ -3796,6 +3796,7 @@ battlers
 battles
 battleship
 battleships
+buhr
 battlesome
 battlestead
 battlewagon
@@ -16912,7 +16913,6 @@ bark
 buhls
 buhlwork
 buhlworks
-buhr
 buhrmill
 buhrs
 buy

@@ -990,7 +990,6 @@ gammas
 gammation
 gammelost
 gammerel
-gammers
 gammerstang
 gammexane
 gammy
@@ -8111,6 +8110,7 @@ granulization
 granuloadipose
 granuloblast
 granuloblastic
+gammers
 granulocyte
 granulocytic
 granulocytopoiesis
