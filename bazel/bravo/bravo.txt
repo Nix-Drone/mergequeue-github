@@ -1850,7 +1850,6 @@ bancales
 bancha
 banchi
 banco
-bancos
 bancus
 band
 bandage
@@ -13411,6 +13410,7 @@ blink
 borstall
 bottomchrome
 bottomed
+bancos
 barrio
 bottomers
 bottoming
