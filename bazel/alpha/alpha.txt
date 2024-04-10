@@ -5611,6 +5611,7 @@ afterbirth
 afterblow
 afterbody
 afterbodies
+amyloids
 afterbrain
 afterbreach
 afterbreast
@@ -10543,7 +10544,6 @@ arawakan
 adossee
 amyloidoses
 amyloidosis
-amyloids
 amyloleucite
 amylolysis
 amylolytic
