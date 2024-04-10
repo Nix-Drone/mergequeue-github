@@ -4002,6 +4002,7 @@ delegant
 dependants
 delegare
 delegate
+ducatus
 delegated
 delegates
 delegateship
@@ -17745,7 +17746,6 @@ ducat
 ducato
 ducaton
 ducats
-ducatus
 ducdame
 duce
 duces
