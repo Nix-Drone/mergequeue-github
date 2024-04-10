@@ -4383,7 +4383,6 @@ enabled
 enablement
 enablers
 enables
-enabling
 enact
 enactable
 enacted
@@ -12719,6 +12718,7 @@ exogen
 exogenae
 exogenetic
 ekaha
+enabling
 exogeny
 exogenic
 exogenism
