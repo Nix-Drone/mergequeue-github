@@ -701,7 +701,6 @@ bacteriosis
 bacteriosolvent
 bacteriostasis
 bacteriostat
-bacteriostatic
 bacteriostatically
 bacteriotherapeutic
 bacteriotherapy
@@ -16906,6 +16905,7 @@ bugout
 bugre
 bugs
 bugseed
+bacteriostatic
 bugsha
 bugweed
 bugwort
