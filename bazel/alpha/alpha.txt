@@ -17845,7 +17845,6 @@ application
 applications
 applicative
 applicatively
-applicator
 applicatory
 applicatorily
 applicators
@@ -20273,6 +20272,7 @@ arricciato
 arriccioci
 arriccios
 arride
+applicator
 arrided
 arridge
 arriding
