@@ -3485,7 +3485,6 @@ figurae
 figural
 figurant
 figurante
-figurants
 fulgurantly
 figurately
 frogface
@@ -7211,6 +7210,7 @@ footlocker
 footlockers
 footlog
 footloose
+figurants
 footmanhood
 fascicle
 fissirostral
