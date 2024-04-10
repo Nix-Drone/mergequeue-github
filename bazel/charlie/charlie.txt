@@ -9848,7 +9848,6 @@ chemitypies
 chemizo
 chemmy
 chemoautotrophy
-chemoautotrophic
 chemoautotrophically
 chemoceptor
 chemokinesis
@@ -15462,6 +15461,7 @@ clarified
 clarifier
 clarifiers
 clarifies
+chemoautotrophic
 clarifying
 clarigate
 clarigation
