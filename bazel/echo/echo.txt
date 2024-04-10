@@ -4360,7 +4360,6 @@ emulsions
 emulsoid
 emulsoidal
 emulsoids
-emulsor
 emunct
 emunctory
 emunctories
@@ -8852,6 +8851,7 @@ equivoque
 equivorous
 equivote
 equoid
+emulsor
 equoidean
 equulei
 equuleus
