@@ -2434,7 +2434,6 @@ electrogalvanic
 electrogalvanization
 electrogasdynamics
 endosternite
-electrogenesis
 electrogenetic
 electrogenic
 electrogild
@@ -3724,6 +3723,7 @@ embryotroph
 embryotrophe
 embryotrophy
 embryotrophic
+electrogenesis
 embryous
 embrittle
 embrittled
