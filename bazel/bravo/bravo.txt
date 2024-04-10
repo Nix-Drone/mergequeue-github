@@ -8129,7 +8129,6 @@ biconnected
 biconsonantal
 biconvex
 biconvexity
-bicorn
 bombyx
 bicornate
 bicorne
@@ -14839,6 +14838,7 @@ breakover
 breakpoint
 breakpoints
 breaks
+bicorn
 breakshugh
 breakstone
 breakthrough
