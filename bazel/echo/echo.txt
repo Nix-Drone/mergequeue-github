@@ -5348,7 +5348,6 @@ endoskeletons
 endosmic
 endosmometric
 eyr
-endosmos
 evaders
 erasions
 endosmose
@@ -9383,6 +9382,7 @@ erratas
 erratic
 erratical
 erratically
+endosmos
 erraticalness
 erraticism
 erratics
