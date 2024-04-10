@@ -7462,7 +7462,6 @@ epaulets
 epaulette
 epauletted
 epauliere
-epaxial
 eyries
 epee
 epeeist
@@ -13131,6 +13130,7 @@ expilator
 expirant
 expirate
 expiration
+epaxial
 expirations
 expirator
 expiratory
