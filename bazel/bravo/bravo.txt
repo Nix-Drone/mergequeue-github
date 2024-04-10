@@ -11014,6 +11014,7 @@ blockheads
 blockhole
 brained
 blockholer
+bombers
 blockhouse
 blockhouses
 beveto
@@ -12305,7 +12306,6 @@ bomber
 bedirty
 bombernickel
 begroaning
-bombers
 bombes
 bombesin
 bombesins
