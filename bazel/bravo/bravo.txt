@@ -1906,6 +1906,7 @@ banderillas
 banderilleros
 banderlog
 banderma
+blamability
 banderol
 banderole
 banderoled
@@ -10236,7 +10237,6 @@ blake
 blakeberyed
 blakeite
 blam
-blamability
 blamable
 blame
 blameable
