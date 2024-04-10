@@ -3396,7 +3396,6 @@ captress
 capturable
 capture
 captured
-capturer
 capturers
 captures
 capturing
@@ -20223,6 +20222,7 @@ commove
 commoved
 commoves
 commoving
+capturer
 commulation
 commulative
 communa
