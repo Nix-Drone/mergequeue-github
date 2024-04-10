@@ -1656,7 +1656,6 @@ fconv
 fconvert
 farcin
 fcp
-fcs
 fdnames
 fdtype
 fdub
@@ -1978,6 +1977,7 @@ feelingless
 feelinglessly
 feelingness
 feelings
+fcs
 feels
 feer
 fraps
