@@ -578,7 +578,6 @@ backtrail
 backups
 backus
 backveld
-backvelder
 backway
 backwall
 backward
@@ -4518,6 +4517,7 @@ becolme
 becolor
 becombed
 become
+backvelder
 becomed
 becomes
 becometh
