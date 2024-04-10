@@ -9362,7 +9362,6 @@ alphabetology
 alphabets
 alphameric
 alphamerically
-alphanumeric
 alphanumerical
 alphanumerically
 alphanumerics
@@ -12041,6 +12040,7 @@ anatabine
 anatase
 anatases
 anatexis
+alphanumeric
 anathem
 anathema
 anathemas
