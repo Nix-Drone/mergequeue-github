@@ -4828,7 +4828,6 @@ encoil
 encolden
 encollar
 euryalean
-encolor
 encolour
 encolpia
 encolpion
@@ -13452,6 +13451,7 @@ exsanguious
 exscind
 exscinded
 exscinding
+encolor
 exscinds
 exscissor
 exscript
