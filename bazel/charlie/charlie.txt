@@ -30479,7 +30479,6 @@ cubicalness
 chalcidid
 cubicities
 cubicle
-cubicles
 cubicone
 cubicontravariant
 cubicovariant
@@ -31696,6 +31695,7 @@ cusps
 cuspule
 cussed
 cussedly
+cubicles
 cussedness
 cusser
 cusses
