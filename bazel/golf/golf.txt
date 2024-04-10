@@ -3889,7 +3889,6 @@ gnattier
 gibed
 gibel
 gibelite
-gibeonite
 guarders
 giber
 gibers
@@ -8724,6 +8723,7 @@ greenskeeper
 greenslade
 greenstick
 greenstone
+gibeonite
 gauntree
 greensward
 greenswarded
