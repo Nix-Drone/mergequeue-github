@@ -889,7 +889,6 @@ baggageman
 baggagemaster
 baggager
 baggala
-bagganet
 baggara
 bagged
 bagger
@@ -3042,6 +3041,7 @@ barse
 barsom
 barspoon
 barstool
+bagganet
 barstools
 bart
 bartend
