@@ -8339,7 +8339,6 @@ challenge
 challengeable
 challenged
 calcifuge
-challengee
 challengeful
 challenger
 challengers
@@ -20573,6 +20572,7 @@ competitory
 competitors
 competitorship
 competitress
+challengee
 competitrix
 compilable
 compilation
