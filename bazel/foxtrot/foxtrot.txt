@@ -5653,7 +5653,6 @@ flyovers
 flypaper
 flypapers
 flypast
-flypasts
 flipe
 flype
 freezers
@@ -10608,6 +10607,7 @@ fructose
 famular
 fructoses
 fructoside
+flypasts
 fructuary
 fructuarius
 floralia
