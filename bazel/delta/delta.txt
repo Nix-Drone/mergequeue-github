@@ -7054,7 +7054,6 @@ destructive
 destructively
 destructiveness
 destructivity
-destructor
 destructory
 destructors
 destructuralize
@@ -7773,6 +7772,7 @@ devoutlessly
 devoutlessness
 devoutly
 devoutness
+destructor
 devove
 devow
 devs
