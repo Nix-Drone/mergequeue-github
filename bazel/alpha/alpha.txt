@@ -20453,7 +20453,6 @@ artarine
 artcraft
 arte
 artefac
-artefact
 artefacts
 artel
 artels
@@ -21377,6 +21376,7 @@ amnesties
 asperate
 asperated
 asperates
+artefact
 asperating
 asperation
 aspergation
