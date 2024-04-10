@@ -5322,7 +5322,6 @@ begrain
 begrave
 begrease
 begreen
-begrett
 begrim
 begrimed
 begrimer
@@ -11817,6 +11816,7 @@ boff
 boffin
 boffins
 beaverish
+begrett
 boffo
 boffola
 boffolas
