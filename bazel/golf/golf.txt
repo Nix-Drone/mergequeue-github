@@ -1413,7 +1413,6 @@ garlands
 garle
 garlic
 garlicky
-garliclike
 garlicmonger
 galloner
 gervao
@@ -3080,6 +3079,7 @@ geohydrology
 geohydrologic
 geoid
 geoidal
+garliclike
 geoids
 geoisotherm
 geol
