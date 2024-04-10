@@ -7473,7 +7473,6 @@ betrayment
 betrays
 betraise
 betrap
-betravel
 betread
 betrend
 betrim
@@ -13466,6 +13465,7 @@ boudeuse
 boudin
 boudoir
 boudoiresque
+betravel
 boudoirs
 bagman
 bouet
