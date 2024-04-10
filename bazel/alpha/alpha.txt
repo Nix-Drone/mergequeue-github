@@ -2044,6 +2044,7 @@ acetylacetone
 acetylamine
 acetylaminobenzene
 acetylaniline
+authenticator
 acetylasalicylic
 acetylated
 acetylating
@@ -23784,7 +23785,6 @@ authenticated
 authenticates
 authentication
 authentications
-authenticator
 athetosic
 authenticators
 authenticity
