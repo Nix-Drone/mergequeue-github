@@ -1418,6 +1418,7 @@ fatling
 fatlings
 fatness
 fatnesses
+fylgjur
 furcular
 fats
 fatshedera
@@ -3597,7 +3598,6 @@ fileting
 filets
 fylfot
 furors
-fylgjur
 fili
 flirtingly
 filial
