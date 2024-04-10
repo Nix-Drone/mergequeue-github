@@ -5814,7 +5814,6 @@ deposited
 depositee
 deedbote
 depositing
-deposition
 depositional
 depositive
 deposito
@@ -10330,6 +10329,7 @@ diosma
 diosmin
 diosmose
 diosmosed
+deposition
 diosmosing
 departures
 diosmosis
