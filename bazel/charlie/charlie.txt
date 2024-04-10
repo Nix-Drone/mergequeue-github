@@ -7764,7 +7764,6 @@ cerumens
 ceruminal
 casa
 ceruminiferous
-ceruminous
 cerumniparous
 ceruse
 ceruses
@@ -22244,6 +22243,7 @@ conglutin
 conglutinant
 conglutinate
 conglutinated
+ceruminous
 conglutinating
 conglutination
 conglutinative
