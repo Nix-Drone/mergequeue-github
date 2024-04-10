@@ -16674,6 +16674,7 @@ clothesbrush
 clotheshorse
 clotheshorses
 clothesyard
+colorifics
 clothesless
 clothesline
 clotheslines
@@ -19366,7 +19367,6 @@ colorfully
 colorfulness
 colory
 colorific
-colorifics
 colorimeter
 colorimetry
 colorimetric
