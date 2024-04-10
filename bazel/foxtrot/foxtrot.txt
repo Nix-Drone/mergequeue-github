@@ -2562,7 +2562,6 @@ ferries
 ferrihemoglobin
 ferrihydrocyanic
 ferryhouse
-ferrying
 ferrimagnetic
 ferrimagnetically
 ferrimagnetism
@@ -3284,6 +3283,7 @@ fideist
 folklorist
 fideistic
 faction
+ferrying
 fideists
 fidejussion
 fidejussionary
