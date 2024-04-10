@@ -7595,7 +7595,6 @@ chaumontel
 cerecloth
 cellarway
 cered
-cereless
 cerement
 cerements
 ceremony
@@ -17415,6 +17414,7 @@ cobnuts
 cobol
 cobola
 coboss
+cereless
 coboundless
 cobourg
 cobra
