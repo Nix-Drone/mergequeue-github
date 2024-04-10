@@ -4122,7 +4122,6 @@ delimitation
 delimitations
 delimited
 delimiter
-delimiters
 delimiting
 delimitize
 delimitized
@@ -5600,6 +5599,7 @@ depeopled
 depeopling
 deperdit
 dedecoration
+delimiters
 deperdite
 deperditely
 deperdition
