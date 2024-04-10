@@ -1195,6 +1195,7 @@ educable
 educables
 educand
 educatability
+eident
 educatable
 educate
 educated
@@ -1705,7 +1706,6 @@ eichhornia
 eichwaldite
 eicosane
 eide
-eident
 eydent
 eidently
 eider
