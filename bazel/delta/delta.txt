@@ -5016,7 +5016,6 @@ denaturalise
 denaturalised
 denaturalising
 denaturalization
-denaturalize
 denaturalized
 denaturalizing
 denaturant
@@ -15544,6 +15543,7 @@ door
 doorbell
 doorbells
 doorboy
+denaturalize
 doorbrand
 doorcase
 doorcheek
