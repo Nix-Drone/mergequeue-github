@@ -2393,7 +2393,6 @@ electroed
 electroencephalogram
 electroencephalograms
 electroencephalograph
-electroencephalography
 electroencephalographic
 electroencephalographical
 electroencephalographs
@@ -11867,6 +11866,7 @@ eth
 exarteritis
 exarticulate
 exarticulation
+electroencephalography
 exasper
 exasperate
 exasperated
