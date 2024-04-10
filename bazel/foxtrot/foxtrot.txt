@@ -7251,7 +7251,6 @@ footprints
 footrace
 footraces
 footrail
-footrest
 footrests
 footrope
 footropes
@@ -10061,6 +10060,7 @@ frigolabile
 frigor
 frigoric
 frigorify
+footrest
 flacourtia
 frigorific
 freemen
