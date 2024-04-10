@@ -10672,7 +10672,6 @@ amioidei
 amyosthenia
 amyosthenic
 amyotonia
-aconitum
 amyotrophia
 amyotrophic
 amyous
@@ -17729,6 +17728,7 @@ appendices
 appendicial
 appendicitis
 appendicle
+aconitum
 appendicocaecostomy
 appendicostomy
 appendicular
