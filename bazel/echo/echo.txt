@@ -7920,6 +7920,7 @@ epiklesis
 epikouros
 epil
 epilabra
+exercitorial
 epilabrum
 epilachna
 epilachnides
@@ -12415,7 +12416,6 @@ exercitant
 exercitation
 exercite
 exercitor
-exercitorial
 exercitorian
 exeresis
 exergonic
