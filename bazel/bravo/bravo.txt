@@ -3471,7 +3471,6 @@ basting
 bastings
 bastion
 bastionary
-bastioned
 bastionet
 bastions
 bastite
@@ -6794,6 +6793,7 @@ bernese
 bernice
 bernicia
 bernicle
+bastioned
 bernicles
 bernie
 berninesque
