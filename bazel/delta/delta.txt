@@ -7146,7 +7146,6 @@ detectability
 daishiki
 detectable
 detectaphone
-detected
 detecter
 detecters
 detectible
@@ -9069,6 +9068,7 @@ diddled
 diddlers
 diddling
 didelph
+detected
 didelphia
 didelphian
 didelphid
