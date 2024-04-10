@@ -1312,7 +1312,6 @@ acanthopomatous
 acanthopore
 acanthopteran
 acanthopteri
-acanthopterygian
 acanthopterygii
 acanthopterous
 acanthoses
@@ -20573,6 +20572,7 @@ arthritides
 auriculariales
 arthritis
 arthritism
+acanthopterygian
 arthrobacterium
 arthrobranch
 arthrobranchia
