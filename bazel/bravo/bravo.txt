@@ -5273,7 +5273,6 @@ begirds
 begirt
 beglad
 begladding
-beglads
 beglamour
 beglare
 beglerbeg
@@ -6485,6 +6484,7 @@ benzothiofuran
 benzothiophene
 balances
 benzothiopyran
+beglads
 benzotoluide
 believableness
 benzotriazine
