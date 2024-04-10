@@ -18196,7 +18196,6 @@ cofferlike
 coffers
 cofferwork
 coffin
-coffined
 coffing
 coffining
 coffinite
@@ -27095,6 +27094,7 @@ counterscrutiny
 countersea
 counterseal
 countersecure
+coffined
 countersecurity
 counterselection
 countersense
