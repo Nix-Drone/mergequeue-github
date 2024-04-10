@@ -1430,7 +1430,6 @@ garmentless
 garmentmaker
 garments
 glutael
-glycollide
 garmenture
 garmentworker
 garn
@@ -9420,6 +9419,7 @@ galvanoplastics
 grouchiest
 grundyist
 grouchily
+glycollide
 glyoxyl
 gamphrel
 grouchiness
