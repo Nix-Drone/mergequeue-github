@@ -9814,6 +9814,7 @@ chemicodynamic
 chemicoluminescence
 chemicoluminescent
 chemicomechanical
+cryptonemiales
 chemicomineralogical
 chemicopharmaceutical
 chemicophysical
@@ -29311,7 +29312,6 @@ cryptomonad
 cryptomonadales
 cryptomonadina
 cryptonema
-cryptonemiales
 chufa
 cryptoneurous
 cryptonymic
