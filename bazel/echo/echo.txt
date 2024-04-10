@@ -2508,7 +2508,6 @@ electromechanics
 electromedical
 esquireship
 electromer
-extrasacerdotal
 electromerism
 electrometallurgy
 electrometallurgical
@@ -3412,6 +3411,7 @@ embastardize
 evangelizing
 embastioned
 embathe
+extrasacerdotal
 euphroes
 emmenology
 excel
