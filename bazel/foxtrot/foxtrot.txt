@@ -6736,6 +6736,7 @@ fogbound
 fogbow
 fogdogs
 fogdom
+footstock
 foge
 fogey
 fogfruit
@@ -7254,7 +7255,6 @@ footstall
 footstep
 footsteps
 footstick
-footstock
 footstone
 footstool
 footstools
