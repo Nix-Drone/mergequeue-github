@@ -6988,6 +6988,7 @@ airsickness
 airsome
 airspace
 airspaces
+automat
 addled
 apostolic
 airspeed
@@ -24165,7 +24166,6 @@ automaker
 automan
 automanipulation
 automanual
-automat
 automata
 automatable
 automate

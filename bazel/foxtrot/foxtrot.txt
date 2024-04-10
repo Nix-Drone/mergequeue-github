@@ -3766,7 +3766,6 @@ filmstrip
 filmstrips
 filo
 filoplumaceous
-filoplume
 filopodia
 filopodium
 filosa
@@ -11566,6 +11565,7 @@ fusiform
 fusiformis
 fusil
 fusilade
+filoplume
 fusiladed
 fusilades
 fusilading
