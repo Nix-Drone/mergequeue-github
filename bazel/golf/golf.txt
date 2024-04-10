@@ -2604,7 +2604,6 @@ geobotanical
 gendarmerie
 gendarmes
 gender
-gendered
 genderer
 genderless
 genders
@@ -8537,6 +8536,7 @@ greaseball
 greasebush
 greasehorn
 gastrotricha
+gendered
 greaseless
 gorkhali
 greaselessness
