@@ -19882,7 +19882,6 @@ commandatory
 commanded
 commandedness
 commandeer
-commandeered
 commandeering
 commandeers
 commandery
@@ -26519,6 +26518,7 @@ cough
 coughed
 cougher
 coughers
+commandeered
 coughing
 coughroot
 coughs
