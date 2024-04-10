@@ -4393,7 +4393,6 @@ fishgrass
 fishhood
 fishhook
 fishhooks
-fishy
 fishyard
 fishyback
 fishier
@@ -9826,6 +9825,7 @@ frequentation
 frequentative
 frequented
 frequenter
+fishy
 frequenters
 frequentest
 foreschooling
