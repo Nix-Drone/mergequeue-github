@@ -8304,6 +8304,7 @@ dialists
 device
 dialytic
 directories
+drumloid
 dialyzability
 dialyzate
 dialyzation
@@ -17583,7 +17584,6 @@ drumlin
 drumline
 drumlinoid
 drumlins
-drumloid
 drumloidal
 drummed
 drummer
