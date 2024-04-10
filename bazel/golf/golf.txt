@@ -5934,7 +5934,6 @@ glossohyal
 glossokinesthetic
 glossolabial
 glossolabiolaryngeal
-glossolabiopharyngeal
 glossolaly
 gowf
 glossolalia
@@ -10406,6 +10405,7 @@ gumless
 gigman
 gumly
 gesticulatory
+glossolabiopharyngeal
 gumlike
 gumlikeness
 gulpiest
