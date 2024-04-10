@@ -4993,6 +4993,7 @@ endaze
 endball
 escrows
 endboard
+entremets
 endbrains
 enddamage
 enddamaged
@@ -7090,7 +7091,6 @@ eisegeses
 excisor
 entrefer
 entrelac
-entremets
 entrenches
 entrenching
 entrenchment
