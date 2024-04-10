@@ -3505,7 +3505,6 @@ embodier
 embodiers
 embodies
 embodying
-embodiment
 embogue
 emboil
 emboite
@@ -4105,6 +4104,7 @@ empexa
 emphase
 emphases
 emphasise
+embodiment
 emphasised
 emphasising
 emphasize

@@ -4839,7 +4839,6 @@ bedspreads
 bedspring
 bedsprings
 bedstaff
-bedstand
 bedstaves
 bedstead
 bedsteads
@@ -18064,6 +18063,7 @@ businesswoman
 businesswomen
 busing
 busings
+bedstand
 braille
 busywork
 busyworks
