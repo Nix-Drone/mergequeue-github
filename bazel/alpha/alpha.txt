@@ -3378,6 +3378,7 @@ adays
 adalat
 adalid
 adam
+affixal
 adamance
 adamances
 adamancy
@@ -5356,7 +5357,6 @@ affirmingly
 affirms
 affix
 affixable
-affixal
 affixation
 affixed
 affixer
