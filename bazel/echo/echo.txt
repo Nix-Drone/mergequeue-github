@@ -7124,6 +7124,7 @@ enteroid
 entrymen
 entryway
 entryways
+episcopes
 entrochite
 entrochus
 entropy
@@ -8208,7 +8209,6 @@ episcopates
 episcopation
 exedra
 episcopature
-episcopes
 episcopicide
 episcopise
 episcopised
