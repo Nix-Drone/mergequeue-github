@@ -736,6 +736,7 @@ economy
 economic
 economical
 economically
+equalable
 economics
 economies
 economise
@@ -8575,7 +8576,6 @@ equableness
 equably
 equal
 editorials
-equalable
 equaled
 equaling
 equalisation
