@@ -19307,6 +19307,7 @@ colopuncture
 coloquies
 coloquintid
 coloquintida
+checkstone
 color
 colorability
 colorable
@@ -27870,7 +27871,6 @@ cracovienne
 cracowe
 craddy
 cradge
-checkstone
 cradle
 cradleboard
 cradlechild
