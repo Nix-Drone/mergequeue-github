@@ -965,6 +965,7 @@ gametoid
 gynerium
 gametophagia
 gametophyll
+gonopodium
 gametophyte
 gametophytic
 gametophobia
@@ -6931,7 +6932,6 @@ gonophs
 gonopodia
 gryph
 gonopodial
-gonopodium
 gonopodpodia
 gonopoietic
 gonopore
