@@ -26544,7 +26544,6 @@ coulomb
 coulombmeter
 coulombs
 coulometer
-coulometry
 coulometrically
 coulter
 coulterneb
@@ -30212,6 +30211,7 @@ crumenal
 crumhorn
 cataphoric
 crummable
+coulometry
 crummed
 crummer
 crummy
