@@ -561,7 +561,6 @@ backsword
 backswording
 bettergates
 backswordman
-bestness
 backswordmen
 backswordsman
 backtack
@@ -6409,6 +6408,7 @@ benzdioxtriazine
 benzedrine
 benzein
 benzene
+bestness
 benzeneazobenzene
 bastian
 benzenediazonium
