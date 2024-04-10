@@ -18047,6 +18047,7 @@ coequation
 coerce
 coerceable
 coerced
+condylarth
 coercement
 coercend
 coercends
@@ -21604,7 +21605,6 @@ condignity
 condignly
 condignness
 condylar
-condylarth
 condylarthra
 condylarthrosis
 condyle
