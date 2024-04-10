@@ -10425,7 +10425,6 @@ buttals
 blastematic
 blastemic
 blaster
-blasters
 blastful
 blasthole
 blastid
@@ -11892,6 +11891,7 @@ bogging
 boggish
 boggle
 bogglebo
+blasters
 boggled
 boggler
 bogglers
