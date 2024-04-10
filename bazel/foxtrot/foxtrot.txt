@@ -3865,7 +3865,6 @@ finality
 fundament
 finalities
 finalization
-finalize
 finalized
 finalizes
 fourstrand
@@ -4710,6 +4709,7 @@ flacourtiaceous
 flaff
 flaffer
 flouring
+finalize
 flag
 flagarie
 flagboat
