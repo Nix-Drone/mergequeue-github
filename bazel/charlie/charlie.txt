@@ -7145,7 +7145,6 @@ centro
 centroacinar
 centrobaric
 centrobarical
-centroclinal
 centrode
 centrodesmose
 centrodesmus
@@ -22412,6 +22411,7 @@ conjoinedly
 conjoiner
 conjoining
 conjoint
+centroclinal
 conjointly
 conjointment
 conjointness
