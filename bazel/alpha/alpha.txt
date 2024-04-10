@@ -2440,7 +2440,6 @@ acidometry
 acidophil
 acidophile
 acidophilic
-acidophilous
 acidophilus
 acidoproteolytic
 acidoses
@@ -18601,6 +18600,7 @@ arborise
 arborist
 arborists
 arborization
+acidophilous
 arborize
 arborizing
 arboroid
