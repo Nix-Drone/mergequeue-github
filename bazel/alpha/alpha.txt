@@ -1743,7 +1743,6 @@ accreditable
 accreditate
 accreditation
 accreditations
-accredited
 accreditee
 accrediting
 accreditment
@@ -17229,6 +17228,7 @@ apogon
 apogonid
 apogonidae
 apograph
+accredited
 apographal
 apographic
 apographical
