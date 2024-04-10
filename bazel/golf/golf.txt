@@ -3351,6 +3351,7 @@ graphologist
 gerim
 geryon
 geryonia
+geodist
 geryonid
 geryoniidae
 gerip
@@ -6067,7 +6068,6 @@ glucokinin
 gravimetric
 glucolipid
 glucolipide
-geodist
 glucolipin
 glaizie
 gamogony
