@@ -2435,7 +2435,6 @@ biolysis
 barbre
 barbs
 barbu
-barbudo
 barbudos
 barbula
 barbulate
@@ -10658,6 +10657,7 @@ blellum
 blellums
 blemish
 blemished
+barbudo
 blemisher
 blemishes
 biconditional
