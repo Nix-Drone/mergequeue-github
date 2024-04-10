@@ -2176,7 +2176,6 @@ felsophyric
 felsosphaerite
 felspar
 felspars
-felspath
 felspathose
 felstone
 felstones
@@ -10457,6 +10456,7 @@ froom
 froppish
 frore
 frory
+felspath
 frosh
 frost
 foregoer
