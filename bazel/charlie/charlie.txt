@@ -6568,7 +6568,6 @@ ceilinged
 ceilings
 ceilingward
 ceilingwards
-ceilometer
 ceylon
 ceylonese
 ceylonite
@@ -30348,6 +30347,7 @@ crusts
 crut
 crutch
 crutched
+ceilometer
 crutcher
 crutching
 crutchlike
