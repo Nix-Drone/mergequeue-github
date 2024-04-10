@@ -3240,7 +3240,6 @@ elver
 elvers
 elvet
 elvis
-elvish
 elvishly
 elwood
 elzevir
@@ -9555,6 +9554,7 @@ electrogalvanize
 escartelly
 electrostatically
 eschalots
+elvish
 eschar
 eschara
 escharine
