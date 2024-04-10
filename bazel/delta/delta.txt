@@ -1144,7 +1144,6 @@ dashnaktzutiun
 dashplate
 dashpot
 dashpots
-dasht
 dashwheel
 dasi
 dasya
@@ -8202,6 +8201,7 @@ diagramed
 diagraming
 diagrammable
 diagrammatic
+dasht
 diagrammatical
 diagrammatically
 diagrammatician
