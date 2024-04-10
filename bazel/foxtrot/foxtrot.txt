@@ -1743,7 +1743,6 @@ feathercut
 feathered
 featheredge
 featheredged
-featheredges
 featherer
 featherers
 featherfew
@@ -2614,6 +2613,7 @@ ferrotyped
 ferrotyper
 fraxinella
 forte
+featheredges
 ferrotyping
 forewarned
 ferrotitanium
