@@ -16623,7 +16623,6 @@ closefitting
 closehanded
 closehauled
 closely
-closelipped
 closemouth
 closemouthed
 closen
@@ -29289,6 +29288,7 @@ cryptomnesic
 cryptomonadales
 cryptomonadina
 cryptonema
+closelipped
 cryptonemiales
 chufa
 cryptoneurous
