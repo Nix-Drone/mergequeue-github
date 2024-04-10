@@ -5138,7 +5138,6 @@ endocrin
 equilibrations
 ember
 endocrinal
-endocrine
 endocrines
 endocrinic
 endocrinism
@@ -13713,6 +13712,7 @@ extispicious
 elytron
 ecstatics
 extogenous
+endocrine
 extol
 extoled
 extoling
