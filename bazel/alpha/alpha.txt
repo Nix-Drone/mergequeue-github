@@ -956,7 +956,6 @@ absents
 absfarad
 abshenry
 absi
-absinth
 absinthes
 absinthial
 absinthiate
@@ -5161,6 +5160,7 @@ aeschylus
 astronauts
 aeschynanthus
 aeschynite
+absinth
 aeschynomene
 aeschynomenous
 aesculaceae
