@@ -389,7 +389,6 @@ faired
 fairer
 fairfieldite
 fairgoer
-fairgoing
 fastigated
 fairground
 fairgrounds
@@ -5519,6 +5518,7 @@ flyblow
 flyblowing
 flyblown
 flyblows
+fairgoing
 flyboat
 flyboats
 flybrush
