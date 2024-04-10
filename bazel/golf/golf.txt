@@ -2625,7 +2625,6 @@ guttifer
 geochronometry
 genealogizer
 genear
-genearch
 geneat
 genecology
 genecologic
@@ -7763,6 +7762,7 @@ guaracha
 graine
 grained
 grainedness
+genearch
 grainer
 grainery
 grainering
