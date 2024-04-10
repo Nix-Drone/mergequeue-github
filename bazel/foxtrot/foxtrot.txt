@@ -3904,7 +3904,6 @@ flabellinerved
 findal
 finders
 findfault
-findhorn
 findy
 finding
 findings
@@ -7709,6 +7708,7 @@ forehook
 forehooves
 foreyard
 forpit
+findhorn
 fibrolipoma
 foreyards
 foreign
