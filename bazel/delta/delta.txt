@@ -3569,7 +3569,6 @@ definition
 degass
 degassed
 degassers
-degasses
 degassing
 degauss
 degaussing
@@ -16698,6 +16697,7 @@ dramatizable
 dramatization
 dramatize
 dramatized
+degasses
 dramatizer
 dramatizes
 dramatizing
