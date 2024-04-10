@@ -9893,7 +9893,6 @@ chemosorptive
 chemosphere
 chemospheric
 chemostat
-chemosterilant
 collateral
 chemosterilants
 chemosurgery
@@ -29607,6 +29606,7 @@ crocodilite
 crocodility
 crocodiloid
 coriin
+chemosterilant
 crocodilus
 crocodylus
 crocoisite
