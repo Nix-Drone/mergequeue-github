@@ -1057,7 +1057,6 @@ farmlands
 farmost
 farmout
 fisc
-farmplace
 farms
 farmscape
 farmstead
@@ -5345,6 +5344,7 @@ flecked
 flecken
 flecker
 fleckered
+farmplace
 fleckering
 flecky
 floriferousness

@@ -7245,7 +7245,6 @@ gormandised
 gormandiser
 gormandising
 gormandism
-gormandize
 gormandizers
 gormandizes
 gormandizing
@@ -10201,6 +10200,7 @@ guilefully
 guilefulness
 guilelessly
 guilelessness
+gormandize
 guiler
 guilery
 guiles
