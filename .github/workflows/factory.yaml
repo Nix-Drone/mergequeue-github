@@ -2,8 +2,8 @@ name: PR Factory
 
 on:
   workflow_dispatch: {}
-  # schedule:
-  #   - cron: "0/10 * * * *"
+  schedule:
+    - cron: "0/10 * * * *"
 
 jobs:
   create-pr:
@@ -27,11 +27,11 @@ jobs:
         run: |
           case $(( RANDOM % 3 )) in
           0)
-            echo "secret_name=HEATH_PAT" >> $GITHUB_OUTPUT
+            echo "secret_name=PAUL_PAT" >> $GITHUB_OUTPUT
             echo "Impersonating Paul"
             ;;
           1)
-            echo "secret_name=HEATH_PAT" >> $GITHUB_OUTPUT
+            echo "secret_name=TONG_PAT" >> $GITHUB_OUTPUT
             echo "Impersonating Tong"
             ;;
           2)
