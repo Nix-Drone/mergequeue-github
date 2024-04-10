@@ -130,6 +130,7 @@ ears
 earscrew
 earsh
 earshell
+endoskeletal
 earshot
 earshots
 epistolean
@@ -5338,7 +5339,6 @@ endosymbiosis
 endosiphon
 endosiphonal
 endosiphuncle
-endoskeletal
 endoskeleton
 endoskeletons
 endosmic
