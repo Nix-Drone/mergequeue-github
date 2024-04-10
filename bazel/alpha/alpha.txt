@@ -1668,7 +1668,6 @@ accomplishment
 accomplishments
 accomplisht
 accompt
-accord
 accordable
 accordance
 accordances
@@ -14184,6 +14183,7 @@ antejuramentum
 antelation
 antelegal
 antelocation
+accord
 antelope
 antelopes
 antelucan
