@@ -7023,7 +7023,6 @@ airts
 aln
 airview
 airway
-airwaybill
 airwayman
 airways
 airward
@@ -9802,6 +9801,7 @@ amania
 amanist
 amanita
 amanitas
+airwaybill
 amanitin
 amanitine
 amanitins

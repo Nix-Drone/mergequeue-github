@@ -2615,7 +2615,6 @@ electroreduction
 electrorefine
 electrorefining
 electroresection
-electroretinograph
 electroretinography
 ecophobia
 electroretinographic
@@ -9239,6 +9238,7 @@ entwining
 erythropoietin
 erythropsia
 erythropsin
+electroretinograph
 exploding
 erythrorrhexis
 erythroscope
