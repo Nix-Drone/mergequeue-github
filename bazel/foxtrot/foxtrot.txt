@@ -76,7 +76,6 @@ facemaking
 faceman
 forold
 funning
-facemark
 faceoff
 facepiece
 faceplate
@@ -3958,6 +3957,7 @@ fingerboards
 fingerbreadth
 fingered
 fingerer
+facemark
 fingerers
 fingerfish
 fingerflower
