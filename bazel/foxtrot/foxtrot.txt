@@ -1391,7 +1391,6 @@ fatigableness
 fatigate
 fatigating
 fatigation
-fatiguability
 fatiguabilities
 fatiguable
 fatigue
@@ -1585,6 +1584,7 @@ favorably
 fissive
 floridian
 favored
+fatiguability
 favoredly
 fertilisation
 favorer
