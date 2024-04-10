@@ -1892,6 +1892,7 @@ banderlog
 banderma
 banderol
 banderole
+biochemical
 banderoled
 banderoles
 banderoling
@@ -8950,7 +8951,6 @@ biocenotic
 biocentric
 biochemy
 biochemic
-biochemical
 biochemically
 biochemics
 biochemist
