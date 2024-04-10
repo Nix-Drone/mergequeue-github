@@ -8450,7 +8450,6 @@ formerly
 formers
 formes
 formfeed
-formfeeds
 formfitting
 formful
 formy
@@ -11300,6 +11299,7 @@ furacity
 fhrer
 fural
 friggle
+formfeeds
 furaldehyde
 fumigant
 furan
