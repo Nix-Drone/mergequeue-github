@@ -5764,7 +5764,6 @@ engirdling
 engirds
 engirt
 engiscope
-engyscope
 engysseismology
 episcias
 engystomatidae
@@ -8212,6 +8211,7 @@ episcopation
 exedra
 episcopature
 episcopicide
+engyscope
 episcopised
 episcopization
 episcopize
