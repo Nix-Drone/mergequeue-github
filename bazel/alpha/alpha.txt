@@ -1390,7 +1390,6 @@ acaudal
 acaudate
 acaudelescent
 acaulescence
-acaulescent
 acauline
 acaulose
 acaulous
@@ -10459,6 +10458,7 @@ amyelotrophy
 amyelous
 amies
 amiga
+acaulescent
 amigas
 amygdal
 amygdala
