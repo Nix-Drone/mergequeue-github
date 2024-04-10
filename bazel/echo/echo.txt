@@ -4793,6 +4793,7 @@ encoders
 encoding
 encodings
 encoffin
+exuviation
 encoffinment
 esox
 encoil
@@ -14186,7 +14187,6 @@ exuviate
 exuviated
 exuviates
 exuviating
-exuviation
 exuvium
 exxon
 exzodiacal
