@@ -11308,7 +11308,6 @@ chlorohydrin
 chlorohydrocarbon
 chlorohydroquinone
 chloroid
-chloroiodide
 chloroleucite
 chloroma
 chloromata
@@ -29146,6 +29145,7 @@ criosphinxes
 cryostase
 cryostat
 cryostats
+chloroiodide
 cryosurgeon
 cryosurgery
 cryosurgical

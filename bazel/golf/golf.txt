@@ -6124,6 +6124,7 @@ glueman
 gluepot
 gluer
 gluers
+granulize
 glues
 glug
 glugglug
@@ -8105,7 +8106,6 @@ granulite
 granulitis
 granulitization
 granulization
-granulize
 granuloadipose
 granuloblast
 granuloblastic
