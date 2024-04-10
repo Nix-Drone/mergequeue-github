@@ -2974,7 +2974,6 @@ barretter
 barrettes
 barry
 barricade
-barricaded
 barricader
 barricaders
 barricades
@@ -16021,6 +16020,7 @@ brontoscopy
 brontothere
 brontotherium
 brontozoum
+barricaded
 bronx
 bronze
 bronzed
