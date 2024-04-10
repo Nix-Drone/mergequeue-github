@@ -6544,7 +6544,6 @@ ceil
 ceylanite
 celestine
 ceiled
-ceilers
 ceilidh
 ceilidhe
 ceiling
@@ -25171,6 +25170,7 @@ coryphodont
 corystoid
 chlorapatite
 corita
+ceilers
 corium
 corixa
 corixidae
