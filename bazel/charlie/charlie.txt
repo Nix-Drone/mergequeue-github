@@ -9518,6 +9518,7 @@ checkrail
 checkrein
 checkroll
 checkroom
+compathy
 checkrooms
 checkrope
 checkrow
@@ -20464,7 +20465,6 @@ compassive
 compassivity
 compassless
 compassment
-compathy
 compatibility
 compatibilities
 compatible
