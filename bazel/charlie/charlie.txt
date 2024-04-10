@@ -6466,7 +6466,6 @@ cebidae
 chlorophyllan
 cebil
 cebine
-ceboid
 ceboids
 cebollite
 cebur
@@ -21291,6 +21290,7 @@ conchfishes
 conchy
 conchie
 conchies
+ceboid
 conchifera
 conchiferous
 conchiform
