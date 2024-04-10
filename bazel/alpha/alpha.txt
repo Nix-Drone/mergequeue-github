@@ -2736,6 +2736,7 @@ acquires
 acquiring
 acquisible
 acquisita
+assentiveness
 acquisite
 acquisited
 acquisition
@@ -21666,7 +21667,6 @@ assentient
 assenting
 assentingly
 assentive
-assentiveness
 alphyn
 assentor
 assentors
