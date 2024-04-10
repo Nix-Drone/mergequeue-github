@@ -9740,7 +9740,6 @@ chekist
 chekker
 chekmak
 chela
-chelaship
 chelatable
 chelate
 chelated
@@ -15813,6 +15812,7 @@ cleanskins
 cleanup
 cleanups
 clear
+chelaship
 clearable
 clearage
 clearance
