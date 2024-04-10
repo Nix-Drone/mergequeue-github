@@ -7002,7 +7002,6 @@ entoptically
 engraff
 entoptics
 entoptoscope
-entoptoscopy
 entoptoscopic
 entorganism
 entosclerite
@@ -8709,6 +8708,7 @@ equilobate
 equilobed
 equilocation
 equimodal
+entoptoscopy
 equimolal
 equimolar
 equimomental
