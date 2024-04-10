@@ -4253,6 +4253,7 @@ empodium
 empoison
 empoisoned
 encaustes
+ephoral
 etherol
 empoisonment
 empoisons
@@ -7585,7 +7586,6 @@ ephod
 ephods
 ephoi
 ephor
-ephoral
 esperantidist
 essayical
 ephoralty
