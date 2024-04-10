@@ -6085,7 +6085,6 @@ flota
 flotage
 flotages
 favorability
-flotas
 flotative
 flote
 fragor
@@ -6923,6 +6922,7 @@ footman
 folkmoot
 flatmate
 folkmooter
+flotas
 foreignization
 folkmoots
 folkmote
