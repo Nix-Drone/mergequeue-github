@@ -4948,6 +4948,7 @@ flannel
 flannelboard
 flannelbush
 flanneled
+floccilation
 flannelette
 flannelflower
 flanneling
@@ -5817,7 +5818,6 @@ forcedness
 fastigia
 flocced
 flocci
-floccilation
 floccillation
 floccing
 floccipend
