@@ -1990,7 +1990,6 @@ defaced
 decal
 decalage
 decalcify
-decalcification
 decalcifier
 decalcifies
 dendrography
@@ -10259,6 +10258,7 @@ diolefinic
 diolefins
 diols
 diomate
+decalcification
 diomedea
 diomedeidae
 diomedes
