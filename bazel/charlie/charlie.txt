@@ -25609,7 +25609,6 @@ correct
 correctable
 correctant
 corrected
-correctedness
 correctest
 correctible
 correctify
@@ -26198,6 +26197,7 @@ costiform
 chisel
 costious
 costipulator
+correctedness
 costispinal
 costive
 costively
