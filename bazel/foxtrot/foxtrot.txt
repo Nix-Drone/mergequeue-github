@@ -2356,7 +2356,6 @@ feoffeeship
 feoffer
 feoffing
 fetlow
-figwort
 feoffment
 feoffor
 flaxseed
@@ -7148,6 +7147,7 @@ footcandle
 footcandles
 footcloths
 finedraw
+figwort
 footed
 footeite
 footer
