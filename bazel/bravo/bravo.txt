@@ -10062,7 +10062,6 @@ boatful
 bkbndr
 bkg
 bklr
-bkpr
 backsey
 bkpt
 bks
@@ -15209,6 +15208,7 @@ brickwall
 brickwork
 brid
 bastinade
+bkpr
 bridale
 bridally
 bridals
