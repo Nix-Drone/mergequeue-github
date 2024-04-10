@@ -2883,7 +2883,6 @@ canvas
 canvasado
 canvasback
 canvasbacks
-canvased
 canvaser
 canvasers
 canvases
@@ -21342,6 +21341,7 @@ conciliatoriness
 conciliators
 concilium
 concinnate
+canvased
 concinnated
 concinnity
 concinnities
