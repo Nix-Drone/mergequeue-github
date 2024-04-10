@@ -4204,7 +4204,6 @@ fireproofness
 fireroom
 ferroconcretor
 firerooms
-firers
 fires
 forche
 firesafe
@@ -11075,6 +11074,7 @@ fumous
 fumuli
 fungated
 fumulus
+firers
 fun
 funambulant
 funambulate
