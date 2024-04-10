@@ -4785,6 +4785,7 @@ cartboot
 cartbote
 carte
 carted
+chases
 cartel
 cartelism
 cakemaker
@@ -9172,7 +9173,6 @@ chase
 chaseable
 chased
 chasers
-chases
 chashitsu
 chasid
 chasidim
