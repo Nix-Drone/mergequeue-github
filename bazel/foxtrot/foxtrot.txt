@@ -9853,7 +9853,6 @@ freshener
 fresheners
 freshening
 foundries
-freshens
 fresher
 freshes
 freshest
@@ -11547,6 +11546,7 @@ followership
 fuselage
 fuselages
 fuseless
+freshens
 fuselike
 fusels
 ferdwit
