@@ -3578,6 +3578,7 @@ auxetics
 addressful
 addressing
 addressograph
+autoist
 addressor
 addrest
 adds
@@ -24130,7 +24131,6 @@ autointoxicant
 autointoxication
 autoionization
 autoirrigation
-autoist
 autojigger
 autojuggernaut
 autokinesy
