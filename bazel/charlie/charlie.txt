@@ -12975,7 +12975,6 @@ cyanhydrate
 cyanhydric
 cyanhydrin
 cyanhidrosis
-cyanic
 cyanicide
 cyanid
 cyanide
@@ -16312,6 +16311,7 @@ clippable
 clipped
 clipperman
 clippers
+cyanic
 clippie
 clipping
 clipeus
