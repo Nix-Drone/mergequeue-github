@@ -3447,7 +3447,6 @@ caraboa
 caraboid
 carabus
 caracal
-caracals
 caracara
 carack
 caracks
@@ -24348,6 +24347,7 @@ cooperate
 cooperated
 cooperates
 cooperating
+caracals
 cooperatingly
 cooperation
 cooperationist
