@@ -11150,7 +11150,6 @@ amphigen
 amphigene
 ascertainment
 amphigenesis
-amphigenetic
 amphigenous
 amphigenously
 amphigony
@@ -11761,6 +11760,7 @@ analyzation
 analyze
 analyzed
 analyzer
+amphigenetic
 analyzers
 analyzes
 analyzing
