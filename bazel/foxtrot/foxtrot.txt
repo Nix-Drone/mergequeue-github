@@ -3382,7 +3382,6 @@ fieldfare
 fieldfight
 fieldy
 fieldie
-fielding
 fieldish
 fieldleft
 fieldman
@@ -8192,6 +8191,7 @@ forecloses
 forex
 forfairn
 forfalt
+fielding
 flintlocks
 forfare
 forfars
