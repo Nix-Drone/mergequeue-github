@@ -314,7 +314,6 @@ gangrels
 glyc
 galabeah
 galabieh
-galactagog
 galactagogue
 gozzan
 galactase
@@ -5958,6 +5957,7 @@ glossologies
 glossologist
 glossoncus
 glossopalatine
+galactagog
 glossopalatinus
 glossopathy
 glossopetra
