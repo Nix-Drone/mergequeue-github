@@ -277,7 +277,6 @@ easternmost
 easters
 eastertide
 easting
-eastings
 eastlake
 eastlander
 eastlin
@@ -2572,6 +2571,7 @@ electrophysiologically
 electrophysiologist
 electrophobia
 electrophone
+eastings
 electrophonically
 electrophore
 electrophorese
