@@ -1861,7 +1861,6 @@ accusive
 accusor
 accustom
 accustomation
-accustomed
 accustomedly
 accustomedness
 accustoming
@@ -9530,6 +9529,7 @@ altimeters
 anthema
 altimetry
 altimetrical
+accustomed
 altimetrically
 altimettrically
 attacolite
