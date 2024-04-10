@@ -1065,7 +1065,6 @@ edgeboned
 edged
 edgeless
 edgeling
-edgemaker
 edgemaking
 edgeman
 edger
@@ -2122,6 +2121,7 @@ elasmobranch
 elasmobranchiate
 elasmobranchii
 elasmosaurus
+edgemaker
 elasmothere
 elasmotherium
 epigrammatist
