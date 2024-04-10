@@ -1045,7 +1045,6 @@ absorptivity
 absquatulate
 absquatulation
 abstain
-abstained
 abstainer
 abstainers
 abstaining
@@ -13207,6 +13206,7 @@ animating
 animatingly
 animation
 animations
+abstained
 animatism
 animatist
 acanthaceae
