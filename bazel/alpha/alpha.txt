@@ -6877,7 +6877,6 @@ aircoaches
 aircraft
 aircraftman
 aircraftmen
-aircrafts
 aircraftsman
 aircraftsmen
 aircraftswoman
@@ -23619,6 +23618,7 @@ answer
 anthropogeography
 aurodiamine
 aurophore
+aircrafts
 aurorally
 antirattler
 auroras
