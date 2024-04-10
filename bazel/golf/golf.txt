@@ -8099,7 +8099,6 @@ granulations
 granulative
 granulator
 granulators
-granule
 granules
 granulet
 granuliform
@@ -10724,6 +10723,7 @@ gusts
 gustus
 gut
 gutbucket
+granule
 guti
 glycerinate
 gutierrez
