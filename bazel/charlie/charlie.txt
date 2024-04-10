@@ -3997,7 +3997,6 @@ camacey
 cardiomegaly
 cardiomelanosis
 cardiometer
-cardiometric
 cardiomyomalacia
 cardiomyopathy
 cardiomotility
@@ -21846,6 +21845,7 @@ conferree
 conferrence
 conferrer
 conferrers
+cardiometric
 conferring
 conferruminate
 confers
