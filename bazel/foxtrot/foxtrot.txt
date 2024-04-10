@@ -77,7 +77,6 @@ faceman
 forold
 funning
 facemark
-faceoff
 facepiece
 faceplate
 facer
@@ -4311,6 +4310,7 @@ furmety
 firsthand
 firstly
 fust
+faceoff
 firstlings
 firstness
 firsts
