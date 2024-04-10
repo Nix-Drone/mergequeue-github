@@ -2455,7 +2455,6 @@ acids
 acidulant
 acidulate
 acidulated
-acidulates
 alaunian
 acidulating
 acidulation
@@ -5645,6 +5644,7 @@ afterdamp
 afterdate
 antifoam
 afterdated
+acidulates
 afterdeal
 afterdeath
 afterdeck
