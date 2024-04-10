@@ -7842,7 +7842,6 @@ forepass
 floran
 forepast
 forepaw
-forepaws
 forepeak
 foreperiod
 foreplace
@@ -11410,6 +11409,7 @@ furls
 feminized
 furmenty
 furmenties
+forepaws
 felling
 furmeties
 furmint
