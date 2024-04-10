@@ -3084,6 +3084,7 @@ capitations
 capitatum
 capite
 capiteaux
+colorbearer
 capitella
 capitellar
 capitellate
@@ -19325,7 +19326,6 @@ colorations
 colorative
 coloraturas
 colorature
-colorbearer
 colorblind
 colorblindness
 colorbreed
