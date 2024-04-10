@@ -2398,7 +2398,6 @@ banquetings
 barbershops
 barbes
 barbet
-barbets
 barbette
 barbettes
 barbican
@@ -6903,6 +6902,7 @@ berzelianite
 berzeliite
 bontee
 bes
+barbets
 besa
 besagne
 besague
