@@ -3342,7 +3342,6 @@ animalculist
 apprehensions
 acupress
 acupressure
-acupunctuation
 acupuncturation
 acupuncturator
 acupuncture
@@ -15909,6 +15908,7 @@ antipyrine
 antipyrotic
 antiplague
 antiplanet
+acupunctuation
 antiplastic
 antiplatelet
 antipleion
