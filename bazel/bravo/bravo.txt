@@ -4774,7 +4774,6 @@ besmirching
 bedpans
 bedplates
 bedpost
-bedposts
 bedquilt
 bedquilts
 bedrabbling
@@ -15064,6 +15063,7 @@ breviate
 breviature
 brevicauda
 brevicaudate
+bedposts
 brevicipitid
 brevicipitidae
 brevicomis

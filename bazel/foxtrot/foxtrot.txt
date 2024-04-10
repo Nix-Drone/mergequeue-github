@@ -2291,7 +2291,6 @@ fencing
 formyl
 fencings
 fend
-fendable
 fended
 following
 fender
@@ -5727,6 +5726,7 @@ fridila
 flytes
 flitfold
 flytier
+fendable
 flytiers
 fertilizes
 flytime
