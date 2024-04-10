@@ -12782,7 +12782,6 @@ angiolipoma
 angiolith
 angiology
 angioma
-angiomalacia
 angiomas
 angiomata
 angiomatosis
@@ -21451,6 +21450,7 @@ asphalter
 asphaltic
 asphaltite
 asphaltlike
+angiomalacia
 asphalts
 amine
 asphaltus
