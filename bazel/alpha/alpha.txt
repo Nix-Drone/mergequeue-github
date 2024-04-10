@@ -5140,6 +5140,7 @@ aerotaxis
 argo
 aerotechnical
 aerotechnics
+allthorn
 aerotherapeutics
 aerotherapy
 aerothermodynamic
@@ -9037,7 +9038,6 @@ allseed
 allspice
 allspices
 allthing
-allthorn
 alltud
 allude
 alluded
