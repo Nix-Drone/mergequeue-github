@@ -2598,6 +2598,7 @@ ferromagnesian
 ferromagnet
 ferromagnetic
 ferromagneticism
+footers
 ferromagnetism
 ferromanganese
 ferrometer
@@ -7152,7 +7153,6 @@ finedraw
 footed
 footeite
 footer
-footers
 footfall
 ferruling
 footfalls
