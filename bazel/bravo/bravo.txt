@@ -8829,7 +8829,6 @@ bimotors
 bimucronate
 barycentre
 bimuscular
-bin
 binal
 byname
 bynames
@@ -14693,6 +14692,7 @@ bravuraish
 bravuras
 bravure
 brawer
+bin
 brawl
 brawler
 brawly
