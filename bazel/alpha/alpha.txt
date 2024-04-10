@@ -3218,7 +3218,6 @@ activate
 activated
 activates
 activating
-activation
 activations
 activator
 activators
@@ -24372,6 +24371,7 @@ autoserotherapy
 autoserum
 autosexing
 autosight
+activation
 albuminuric
 autosign
 autosymbolic
