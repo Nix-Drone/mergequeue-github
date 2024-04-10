@@ -7279,6 +7279,7 @@ bestowment
 bestows
 bestraddle
 bestraddled
+bitewings
 bestraddling
 bestrapped
 bestraught
@@ -9835,7 +9836,6 @@ biters
 bites
 bytes
 bitewing
-bitewings
 bathyl
 blastiest
 bitheism
