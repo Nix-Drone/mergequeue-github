@@ -5597,6 +5597,7 @@ aftercooler
 aftercost
 aftercourse
 aftercrop
+antisine
 aftercure
 afterdays
 afterdamp
@@ -16194,7 +16195,6 @@ antisymmetrical
 antisimoniacal
 antisyndicalism
 antisyndication
-antisine
 antisynod
 antisyphilitic
 antisiphon
