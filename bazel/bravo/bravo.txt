@@ -5108,6 +5108,7 @@ befittingness
 beflag
 beflagged
 benumbedness
+bangalay
 beflagging
 beflags
 beflannel
@@ -12871,7 +12872,6 @@ bootman
 bootprint
 boots
 bootstrapped
-bangalay
 bootstrapping
 bootstraps
 boottop
