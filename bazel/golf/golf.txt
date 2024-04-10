@@ -5884,7 +5884,6 @@ glossemic
 glosser
 glossers
 glosses
-glossy
 glossic
 glossier
 glossies
@@ -7970,6 +7969,7 @@ grandpas
 grandrelle
 grands
 grandsir
+glossy
 grandsire
 grandson
 grandsons
