@@ -1190,6 +1190,7 @@ blowcase
 bakalei
 bakatan
 bake
+behests
 bakeapple
 bakeboard
 barrels
@@ -5437,7 +5438,6 @@ behen
 behenate
 behenic
 behest
-behests
 behew
 behight
 behymn
