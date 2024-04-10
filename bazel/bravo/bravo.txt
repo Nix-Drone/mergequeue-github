@@ -4063,7 +4063,6 @@ bealtine
 beam
 beamage
 beambird
-beamed
 beamer
 beamers
 beamfilling
@@ -18216,6 +18215,7 @@ butlers
 butlership
 butles
 butment
+beamed
 butolism
 butomaceae
 butomus
