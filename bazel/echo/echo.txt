@@ -129,7 +129,6 @@ earrings
 ears
 earscrew
 earsh
-earshell
 endoskeletal
 earshot
 earshots
@@ -1013,6 +1012,7 @@ edda
 eddaic
 edder
 eddy
+earshell
 eddie
 euphonize
 episcopable
