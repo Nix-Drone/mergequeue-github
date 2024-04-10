@@ -15601,7 +15601,6 @@ classificator
 classificatory
 classified
 classifier
-classifiers
 classifies
 curriers
 classifying
@@ -18558,6 +18557,7 @@ coinsuring
 cointense
 cointensity
 cointer
+classifiers
 cointerest
 cointerred
 cointerring
