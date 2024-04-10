@@ -2010,6 +2010,7 @@ campfight
 campfire
 campfires
 campground
+canful
 campgrounds
 camphane
 cephalomenia
@@ -2459,7 +2460,6 @@ canezou
 canfield
 canfieldite
 canfields
-canful
 canfuls
 cangan
 cangenet
