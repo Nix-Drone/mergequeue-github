@@ -197,7 +197,6 @@ erythritic
 earthshine
 earthshock
 earthslide
-earthsmoke
 earthtongue
 elaterist
 earthwall
@@ -8308,6 +8307,7 @@ exulcerate
 epistle
 epistler
 everness
+earthsmoke
 epistlers
 epistolarian
 epistolarily
