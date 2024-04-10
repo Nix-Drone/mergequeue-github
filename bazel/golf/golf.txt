@@ -2230,7 +2230,6 @@ gearshift
 gearshifts
 gearwheel
 gearwheels
-glistening
 gease
 geason
 geast
@@ -6958,6 +6957,7 @@ greyer
 gonomery
 gonophore
 gonophoric
+glistening
 gonophorous
 gonophs
 gonopodia
