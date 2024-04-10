@@ -5891,7 +5891,6 @@ floodlilit
 floodlit
 floodmark
 floodplain
-floodproof
 floods
 fortifiable
 floodway
@@ -7198,6 +7197,7 @@ footmanhood
 fascicle
 fissirostral
 footmanry
+floodproof
 footmanship
 footmark
 footmen
