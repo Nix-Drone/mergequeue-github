@@ -5324,7 +5324,6 @@ endorsees
 endere
 endorser
 endorsers
-endorses
 endorsing
 endorsors
 emydosaurian
@@ -8090,6 +8089,7 @@ epiperipheral
 epipetalous
 epiphany
 epiphanic
+endorses
 epiphanies
 epiphanise
 epiphanised
