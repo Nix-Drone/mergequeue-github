@@ -8446,7 +8446,6 @@ alkalising
 alkalizable
 alkalizate
 alkalization
-alkalize
 alkalized
 alkalizer
 alkalizes
@@ -17784,6 +17783,7 @@ appetizers
 appetizing
 appius
 appl
+alkalize
 applanate
 applanation
 applaud
