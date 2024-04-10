@@ -2633,7 +2633,6 @@ decompensations
 decompensatory
 decompiler
 decomponent
-decomponible
 decomposability
 decomposable
 decompose
@@ -15332,6 +15331,7 @@ domiciling
 domicils
 domify
 domification
+decomponible
 domina
 dominae
 dominancy
