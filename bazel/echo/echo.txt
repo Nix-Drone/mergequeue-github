@@ -1030,7 +1030,6 @@ edema
 edemas
 edemata
 edematose
-edematous
 edemic
 eden
 edenic
@@ -7926,6 +7925,7 @@ epilated
 epilating
 epilation
 epilator
+edematous
 epilemma
 epilemmal
 epileny
