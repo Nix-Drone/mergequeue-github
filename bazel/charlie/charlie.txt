@@ -4003,7 +4003,6 @@ cardiomotility
 cardioncus
 cardionecrosis
 cardionephric
-cardioneural
 cardioneurosis
 cardionosus
 cardiopath
@@ -14165,6 +14164,7 @@ circuitry
 circuits
 circuituously
 clochan
+cardioneural
 circulable
 circulant
 circular
