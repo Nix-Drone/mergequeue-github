@@ -4847,6 +4847,7 @@ gyrostabilizer
 gyrostachys
 gyrostat
 gyrostatically
+glutenin
 gyrostats
 gastroplenic
 gyrotheca
@@ -6181,7 +6182,6 @@ gluteal
 glutei
 glutelin
 glutelins
-glutenin
 glutenous
 glutens
 gluteofemoral
