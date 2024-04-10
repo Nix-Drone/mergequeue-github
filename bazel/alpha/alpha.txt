@@ -1820,6 +1820,7 @@ accur
 accuracy
 accuracies
 accurately
+affliction
 aliseptal
 accurateness
 accurre
@@ -5420,7 +5421,6 @@ afflictedness
 afflicter
 afflicting
 afflictingly
-affliction
 afflictionless
 afflictions
 afflictive
