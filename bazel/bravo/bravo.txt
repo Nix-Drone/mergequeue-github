@@ -2874,7 +2874,6 @@ barotraumata
 bostons
 barotropic
 barouche
-barouches
 barouchet
 barouchette
 barouni
@@ -7596,6 +7595,7 @@ beweeps
 bewelcome
 bastardize
 bewelter
+barouches
 bewend
 bewept
 bewest
