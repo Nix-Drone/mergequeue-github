@@ -5840,7 +5840,6 @@ depositional
 depositive
 deposito
 depositor
-depository
 depositories
 depositors
 deposits
@@ -15869,6 +15868,7 @@ dosain
 dose
 dosed
 doser
+depository
 dosers
 dosimeter
 dosimetry
