@@ -260,6 +260,7 @@ fadedness
 fadednyess
 fadeless
 faden
+fleadock
 fadeout
 fader
 faders
@@ -5311,7 +5312,6 @@ fleabite
 fleabites
 fleabug
 fleabugs
-fleadock
 fleahopper
 fleay
 fleak
