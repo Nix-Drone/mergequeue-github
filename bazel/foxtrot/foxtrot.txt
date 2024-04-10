@@ -6740,7 +6740,6 @@ fogbound
 fogbow
 fogdogs
 fogdom
-foge
 fogey
 fogfruit
 foretype
@@ -9324,6 +9323,7 @@ framea
 frameable
 frameae
 framed
+foge
 flavorlessness
 framer
 frames

@@ -6076,7 +6076,6 @@ enlimn
 enlinking
 enlinkment
 enlist
-enlisted
 enlistee
 enlistees
 enlister
@@ -9268,6 +9267,7 @@ exceptionalness
 ermiline
 ermine
 ermined
+enlisted
 erminee
 ermines
 exemplupla
