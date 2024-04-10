@@ -4990,7 +4990,6 @@ aeroelastic
 aeroelasticity
 aeroelastics
 aeroembolism
-aeroenterectasia
 aerofoil
 aerofoils
 aerogel
@@ -20462,6 +20461,7 @@ artels
 artemas
 artemia
 artemis
+aeroenterectasia
 artemisia
 apiolin
 artemisin
