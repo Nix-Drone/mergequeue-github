@@ -847,7 +847,6 @@ fanons
 fellon
 fanos
 fanout
-fans
 fant
 fantaddish
 fantailed
@@ -5514,6 +5513,7 @@ flyblow
 flyblowing
 flyblown
 flyblows
+fans
 flyboat
 flyboats
 flybrush

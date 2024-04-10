@@ -4448,7 +4448,6 @@ adsorbable
 adsorbates
 adsorbed
 adsorbent
-adsorbents
 adsorbs
 adsorption
 abiston
@@ -18029,6 +18028,7 @@ appropriative
 appropriativeness
 appropriator
 appropriators
+adsorbents
 approvability
 approvable
 approvableness
