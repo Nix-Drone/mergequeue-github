@@ -1649,7 +1649,6 @@ faze
 fazed
 fazenda
 fazes
-fazing
 fb
 fc
 fchar
@@ -7421,6 +7420,7 @@ forceps
 forcepslike
 fey
 forceput
+fazing
 forcer
 forcers
 forces
