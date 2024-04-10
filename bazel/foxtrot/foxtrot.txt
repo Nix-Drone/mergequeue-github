@@ -4804,7 +4804,6 @@ flagless
 flaglet
 flaglike
 flotation
-flagmaker
 flagman
 flagmen
 flagon
@@ -10099,6 +10098,7 @@ frike
 frilal
 frill
 frillback
+flagmaker
 fumigants
 frilled
 fibrofatty
