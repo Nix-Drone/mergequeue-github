@@ -2703,7 +2703,6 @@ fervencies
 fervent
 fervently
 furosemide
-ferventness
 fervescence
 fervescent
 fervid
@@ -10751,6 +10750,7 @@ frustums
 frutage
 frutescence
 frutescent
+ferventness
 frutex
 fayalite
 fingertips
