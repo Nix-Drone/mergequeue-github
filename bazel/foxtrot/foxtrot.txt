@@ -9748,7 +9748,6 @@ freight
 freightage
 fringe
 freighters
-freightyard
 freightless
 freightliner
 freightment
@@ -10399,6 +10398,7 @@ frontierless
 fertilizing
 fictor
 fewmets
+freightyard
 forgivableness
 flowerfence
 frontierman
