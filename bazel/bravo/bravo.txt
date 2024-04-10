@@ -5739,7 +5739,6 @@ belion
 beliquored
 beliquors
 belis
-belite
 belitter
 belittle
 belittled
@@ -13437,6 +13436,7 @@ botulinum
 botulinus
 botulinuses
 botulism
+belite
 botulisms
 botulismus
 boubas
