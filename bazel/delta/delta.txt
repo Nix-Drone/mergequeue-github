@@ -4515,7 +4515,6 @@ demibelt
 demibob
 demibrassart
 demibrigade
-demibrute
 demibuckram
 demicadence
 demicannon
@@ -17030,6 +17029,7 @@ drew
 drewite
 dry
 dryable
+demibrute
 dryades
 dryadetum
 dryadic
