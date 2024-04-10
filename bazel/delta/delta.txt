@@ -1237,7 +1237,6 @@ datiscin
 datiscosid
 datiscoside
 datisi
-datism
 dative
 datively
 datives
@@ -16647,6 +16646,7 @@ drayman
 draymen
 devests
 drainable
+datism
 drainage
 drainages
 drainboard
