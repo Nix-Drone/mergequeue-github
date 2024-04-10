@@ -12860,7 +12860,6 @@ anglemeter
 anglepod
 anglepods
 angler
-anglers
 angles
 anglesmith
 angletouch
@@ -16837,6 +16836,7 @@ aphelops
 aphemia
 aphemic
 aphengescope
+anglers
 aphengoscope
 aphenoscope
 apheresis
