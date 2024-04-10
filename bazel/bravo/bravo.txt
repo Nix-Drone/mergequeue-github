@@ -826,7 +826,6 @@ badon
 badrans
 bads
 besteading
-baduhenna
 bestowage
 bae
 baedeker
@@ -3778,6 +3777,7 @@ battleful
 battleground
 battlegrounds
 battlement
+baduhenna
 battlements
 battlepiece
 battleplane
