@@ -2616,7 +2616,6 @@ electropsychrometer
 electropult
 electropuncturation
 electropuncture
-electropuncturing
 electroreceptive
 electroreduction
 electrorefine
@@ -6709,6 +6708,7 @@ enterokinetic
 enterolysis
 eddies
 ectomorphy
+electropuncturing
 enterolith
 electrogalvanize
 enterolobium
