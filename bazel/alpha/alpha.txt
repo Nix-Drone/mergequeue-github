@@ -3695,7 +3695,6 @@ adenocystomatous
 adenodermia
 adenodiastasis
 adenodynia
-adenofibroma
 adenofibrosis
 adenogenesis
 adenogenous
@@ -25272,6 +25271,7 @@ azobenzoic
 azobenzol
 azoblack
 azoch
+adenofibroma
 azocyanide
 azocyclic
 azocochineal
