@@ -3614,6 +3614,7 @@ filet
 fileting
 filets
 fylfot
+furors
 fylfots
 fylgjur
 fili
@@ -11455,7 +11456,6 @@ furor
 furore
 furores
 falconries
-furors
 funiculi
 furphy
 furred
