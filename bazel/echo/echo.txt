@@ -2694,7 +2694,6 @@ electrotyping
 electrotypist
 electrotitration
 electrotonic
-electrotonicity
 electrotonize
 electrotrephine
 electrotropic
@@ -5314,6 +5313,7 @@ epedaphic
 evened
 endorhinitis
 endorphin
+electrotonicity
 endorsable
 entopterygoid
 endorsation
