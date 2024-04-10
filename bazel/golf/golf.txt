@@ -1923,7 +1923,6 @@ gatekeepers
 gateless
 gatemaker
 gatemen
-gatepost
 genetical
 gateposts
 gates
@@ -6584,6 +6583,7 @@ goitered
 goiterogenic
 glebes
 goiters
+gatepost
 goitral
 goitre
 goitres
