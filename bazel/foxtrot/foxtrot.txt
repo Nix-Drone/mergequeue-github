@@ -3069,7 +3069,6 @@ fibrocarcinoma
 fibrocartilage
 fibrocartilaginous
 fibrocaseose
-fibrocaseous
 fibrocellular
 fibrocement
 fibrochondritis
@@ -4145,6 +4144,7 @@ firebrick
 firebug
 firebugs
 fireburn
+fibrocaseous
 fireclay
 fireclays
 firecoat
