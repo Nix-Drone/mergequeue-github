@@ -4846,6 +4846,7 @@ giros
 gyroscope
 gyroscopes
 gyroscopic
+guesthouses
 gyroscopics
 gyrose
 gyrosyn
@@ -10103,7 +10104,6 @@ guested
 guesten
 guester
 guesthouse
-guesthouses
 guestimate
 guesting
 guestive
