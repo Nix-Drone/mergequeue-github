@@ -3040,6 +3040,7 @@ barstools
 bart
 bartend
 bartended
+betrayer
 bartender
 bartenders
 bartending
@@ -7455,7 +7456,6 @@ betrayal
 betrayals
 betrayed
 bequeathment
-betrayer
 betrayers
 betraying
 betrail
