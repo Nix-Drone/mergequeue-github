@@ -940,7 +940,6 @@ flattener
 faradmeter
 faradocontractility
 faradomuscular
-farand
 farandman
 farandmen
 farandola
@@ -4382,6 +4381,7 @@ fishhood
 fishhooks
 fishy
 fishyard
+farand
 fishyback
 fishier
 fishify
