@@ -1392,7 +1392,6 @@ fatiguability
 fatiguabilities
 fatiguable
 fatigue
-formicina
 fatigueless
 fatiguesome
 fatiguing
@@ -2933,6 +2932,7 @@ fevering
 feverish
 feverishness
 fixity
+formicina
 feverless
 feverlike
 feverous
