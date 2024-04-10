@@ -7401,7 +7401,6 @@ forbore
 forborne
 forbow
 forbruise
-forbs
 formalised
 forcarve
 forcat
@@ -9200,6 +9199,7 @@ fractionisation
 fractionise
 fractionised
 fractionising
+forbs
 fractionization
 fractionize
 fractionized
