@@ -3370,7 +3370,6 @@ baskish
 basnat
 baltic
 basoche
-basocyte
 basoga
 broadgage
 bungled
@@ -10948,6 +10947,7 @@ bkgd
 blithest
 blitter
 blitum
+basocyte
 blitz
 blitzbuggy
 blitzed
