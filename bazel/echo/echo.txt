@@ -5885,7 +5885,6 @@ engrossed
 engrossedly
 engrosser
 engrossers
-engrosses
 engrossing
 engrossingly
 engrossingness
@@ -11738,6 +11737,7 @@ endopolyploid
 exactly
 exactment
 exactness
+engrosses
 exactor
 exactors
 exactress
