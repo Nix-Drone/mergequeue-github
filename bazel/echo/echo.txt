@@ -2487,7 +2487,6 @@ electrolyses
 electrolysing
 electrolysis
 electrolyte
-electrolithotrity
 epitomisation
 electrolytic
 electrolytical
@@ -9595,6 +9594,7 @@ epistemology
 eschaunge
 exploitations
 epistemonical
+electrolithotrity
 escheat
 escheatable
 escheatage
