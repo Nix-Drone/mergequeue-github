@@ -1941,7 +1941,6 @@ feedboard
 facia
 feedbox
 feedboxes
-feeder
 feeders
 feedhead
 foundationed
@@ -2106,6 +2105,7 @@ fellatrices
 fishweir
 fellatrix
 felled
+feeder
 fellers
 fellest
 fellfare
