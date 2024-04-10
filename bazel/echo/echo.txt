@@ -6487,7 +6487,6 @@ enslaves
 espave
 enslaving
 enslumber
-ensmall
 ensnare
 ensnared
 ensnarement
@@ -10585,6 +10584,7 @@ etymologies
 etymologise
 extraessentially
 etymologising
+ensmall
 etymologist
 etymologists
 etymologizable
