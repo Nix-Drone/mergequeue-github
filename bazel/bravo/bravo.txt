@@ -2736,6 +2736,7 @@ barman
 barmaster
 barmbrack
 barmcloth
+brither
 barmecidal
 barmecide
 barmen
@@ -15574,7 +15575,6 @@ britches
 britchka
 brite
 brith
-brither
 brython
 brythonic
 briticism
