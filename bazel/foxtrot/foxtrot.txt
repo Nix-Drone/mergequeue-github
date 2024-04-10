@@ -2902,6 +2902,7 @@ feuding
 feudists
 feudovassalism
 feuds
+flagonless
 feudum
 feuillage
 feuillants
@@ -4765,7 +4766,6 @@ flagmaker
 flagman
 flagmen
 flagon
-flagonless
 flagons
 fasciolaria
 frontspiece
