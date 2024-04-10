@@ -12459,7 +12459,6 @@ chromo
 chromobacterieae
 chromobacterium
 chromoblast
-chromocenter
 chromocentral
 chromochalcography
 chromochalcographic
@@ -19919,6 +19918,7 @@ commandries
 commands
 commark
 commas
+chromocenter
 commassation
 commassee
 commata
