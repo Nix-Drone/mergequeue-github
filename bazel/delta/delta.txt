@@ -1797,7 +1797,6 @@ debye
 debyes
 debilissima
 debilitant
-debilitate
 debilitated
 debilitates
 debilitation
@@ -4633,6 +4632,7 @@ demipagan
 demiparallel
 demipauldron
 demipectinate
+debilitate
 doblones
 demipesade
 demipike
