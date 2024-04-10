@@ -4779,7 +4779,6 @@ gyrochrome
 gyrocompass
 golliwogg
 gyrocompasses
-gyrodactylidae
 gyrodactylus
 gyrodyne
 giroflore
@@ -5523,6 +5522,7 @@ glycosyl
 glycosyls
 glycosin
 glycosine
+gyrodactylidae
 glycosuria
 glycosuric
 glycuresis
