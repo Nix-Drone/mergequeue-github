@@ -5547,6 +5547,7 @@ blockline
 bejewelled
 barricading
 bejewelling
+blue
 bejewels
 bejezebel
 beadhouses
@@ -11293,7 +11294,6 @@ bludgeoner
 bludgeons
 bludger
 bludging
-blue
 blueback
 blueball
 blueballs
