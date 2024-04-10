@@ -10802,7 +10802,6 @@ ammonolyses
 ammonolitic
 ammonolytic
 ammonolyzed
-ammonolyzing
 ammophila
 ammophilous
 ammoresinol
@@ -18751,6 +18750,7 @@ archapostle
 archarchitect
 archartist
 archbanc
+ammonolyzing
 archbancs
 archband
 archbeacon
