@@ -8325,6 +8325,7 @@ challa
 challah
 challahs
 challas
+circulariser
 challengable
 challenge
 challengeable
@@ -14178,7 +14179,6 @@ circulant
 circular
 circularisation
 circularised
-circulariser
 circularising
 circularism
 circularity
