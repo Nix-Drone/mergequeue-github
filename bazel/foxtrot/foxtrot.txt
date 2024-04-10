@@ -6528,7 +6528,6 @@ futile
 flurt
 flus
 flush
-flushable
 flushboard
 flushed
 flusher
@@ -11658,6 +11657,7 @@ fusuma
 feathery
 fusure
 fusus
+flushable
 fut
 founte
 futchel
