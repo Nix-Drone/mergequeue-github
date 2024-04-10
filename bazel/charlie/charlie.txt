@@ -13395,7 +13395,6 @@ cyclose
 cycloserine
 cycloses
 cyclosilicate
-cyclosis
 cyclospermous
 cyclospondyli
 cyclospondylic
@@ -16954,6 +16953,7 @@ cnida
 cnidae
 cnidaria
 cnidarian
+cyclosis
 cnidian
 cnidoblast
 cnidocell
