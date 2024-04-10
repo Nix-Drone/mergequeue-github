@@ -9824,7 +9824,6 @@ chemicovital
 chemics
 chemiculture
 chemigraph
-chemigrapher
 chemigraphy
 chemigraphic
 chemigraphically
@@ -31548,6 +31547,7 @@ curtis
 curtise
 curtlax
 curtness
+chemigrapher
 curtnesses
 curtsey
 curtseyed
