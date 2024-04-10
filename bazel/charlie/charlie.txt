@@ -4454,7 +4454,6 @@ caroba
 caroch
 caroche
 caroches
-caroid
 caroigne
 carol
 carolan
@@ -27796,6 +27795,7 @@ cpus
 cputime
 centriffed
 cq
+caroid
 cr
 craal
 craaled
