@@ -1076,6 +1076,7 @@ farmsteads
 farmtown
 farnesol
 farnesols
+forevermore
 farness
 farnesses
 faro
@@ -8126,7 +8127,6 @@ foreutter
 forevalue
 fittable
 forever
-forevermore
 foreverness
 forevers
 foreview
