@@ -3690,6 +3690,7 @@ dehache
 dehair
 dehairer
 deheathenize
+drawgear
 dehematize
 decard
 dehepatize
@@ -7001,7 +7002,6 @@ destine
 demagnetizer
 decussately
 destined
-drawgear
 destines
 destinezite
 destiny
