@@ -2334,7 +2334,6 @@ candidness
 candidnesses
 candids
 candied
-countermands
 candier
 candies
 candify
@@ -21638,6 +21637,7 @@ conditionalist
 cassytha
 conditionality
 conditionalities
+countermands
 conditionalize
 conditionally
 conditionals
