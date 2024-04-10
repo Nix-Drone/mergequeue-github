@@ -10597,7 +10597,6 @@ equalities
 etymonic
 etymons
 etiogenic
-etiolate
 etiolated
 etiolating
 etiolation
@@ -12507,6 +12506,7 @@ exhibitable
 exhibited
 exhibiter
 encephalology
+etiolate
 exhibiters
 exhibition
 exhibitional
