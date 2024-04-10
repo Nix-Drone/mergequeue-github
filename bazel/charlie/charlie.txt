@@ -3624,7 +3624,6 @@ carbines
 carbinyl
 carbinol
 carbinols
-carbo
 carboazotine
 carbocer
 carbocyclic
@@ -30406,6 +30405,7 @@ ctge
 ctimo
 ctn
 cto
+carbo
 ctr
 cts
 cu
