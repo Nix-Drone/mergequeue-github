@@ -1447,7 +1447,6 @@ balers
 bales
 balestra
 balete
-balewort
 bali
 balian
 balibago
@@ -1614,6 +1613,7 @@ ballywrack
 ballmine
 ballo
 bradyseismism
+balewort
 ballock
 ballocks
 babies
