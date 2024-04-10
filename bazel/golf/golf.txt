@@ -5402,7 +5402,6 @@ glaucophane
 glib
 glibber
 glibbery
-gorilla
 glibly
 glibness
 glibnesses
@@ -6359,6 +6358,7 @@ gnus
 go
 goa
 grammar
+gorilla
 goad
 goaded
 grammaticize
