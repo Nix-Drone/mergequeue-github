@@ -676,7 +676,6 @@ endocortex
 eclipsing
 eclipsises
 ecliptic
-ecliptical
 ecliptically
 ecliptics
 eclogic
@@ -1301,6 +1300,7 @@ effacer
 effacers
 effaces
 effacing
+ecliptical
 effare
 effascinate
 effate
