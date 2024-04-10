@@ -2409,7 +2409,6 @@ gelations
 gelatose
 geld
 geldability
-geldable
 griffinish
 geldant
 gelded
@@ -10240,6 +10239,7 @@ guiltlessly
 gonapophysial
 guiltlessness
 gastroptosis
+geldable
 guilts
 guiltsick
 guimbard
