@@ -6383,7 +6383,6 @@ ensconced
 ensconces
 ensconcing
 enscroll
-enscrolled
 enscrolling
 enscrolls
 ensculpture
@@ -11799,6 +11798,7 @@ examinability
 examinable
 examinant
 exocannibalism
+enscrolled
 examinate
 examination
 examinational

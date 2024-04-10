@@ -9092,7 +9092,6 @@ biomedical
 biomedicine
 biomes
 biometeorology
-biometer
 biometry
 biometric
 biometrical
@@ -17446,6 +17445,7 @@ bunker
 bunkerage
 bunkered
 bunkery
+biometer
 bunkering
 blackouts
 bunkerman
