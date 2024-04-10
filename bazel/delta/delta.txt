@@ -6253,7 +6253,6 @@ dermatology
 dermatologic
 dermatological
 dermatologies
-dermatologist
 dermatologists
 dermatoma
 dermatome
@@ -7559,6 +7558,7 @@ development
 developmental
 developmentalist
 developmentally
+dermatologist
 developmentary
 developmentarian
 developmentist
