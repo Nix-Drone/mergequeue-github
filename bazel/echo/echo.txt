@@ -2511,6 +2511,7 @@ esquireship
 electromer
 extrasacerdotal
 electromerism
+evaporation
 electrometallurgy
 electrometallurgical
 electrometallurgist
@@ -11408,7 +11409,6 @@ evaporate
 evaporated
 evaporates
 evaporating
-evaporation
 exams
 evaporations
 evaporatively
