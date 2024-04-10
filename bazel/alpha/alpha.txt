@@ -6885,6 +6885,7 @@ aircraftswomen
 aircraftwoman
 ahint
 aircrew
+anteverts
 aircrewman
 aircrewmen
 aircrews
@@ -14318,7 +14319,6 @@ ahypnia
 antevert
 anteverted
 anteverting
-anteverts
 americanist
 antevocalic
 antewar

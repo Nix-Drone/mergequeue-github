@@ -4103,7 +4103,6 @@ bean
 beanbag
 beanbags
 beanball
-beanballs
 beancod
 bromoform
 beaned
@@ -13505,6 +13504,7 @@ bouillone
 boodlers
 bouillons
 bouk
+beanballs
 boukit
 boul
 bovid
