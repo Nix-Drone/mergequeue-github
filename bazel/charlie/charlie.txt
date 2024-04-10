@@ -7957,6 +7957,7 @@ cgs
 ch
 cha
 chaa
+cholecalciferol
 chab
 chabasite
 chabazite
@@ -11527,7 +11528,6 @@ cholate
 cholates
 chold
 choleate
-cholecalciferol
 cholecyanine
 cholecyst
 cholecystectasia
