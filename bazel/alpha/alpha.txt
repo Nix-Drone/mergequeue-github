@@ -4035,7 +4035,6 @@ aversely
 adjugate
 adjument
 adjunct
-adjunction
 adjunctive
 adjunctively
 adjunctly
@@ -21756,6 +21755,7 @@ assident
 assidual
 assidually
 assiduate
+adjunction
 assiduity
 assiduities
 assiduous
