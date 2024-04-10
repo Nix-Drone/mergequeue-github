@@ -6729,6 +6729,7 @@ enteropathy
 enteropathogenic
 enteropexy
 enteropexia
+extraduction
 enteroplasty
 enteroplegia
 enteropneust
@@ -13834,7 +13835,6 @@ extrados
 extradosed
 extradoses
 extradotal
-extraduction
 extradural
 extraembryonal
 extraembryonic
