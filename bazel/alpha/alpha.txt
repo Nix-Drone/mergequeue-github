@@ -9463,7 +9463,6 @@ alter
 alterability
 alterable
 alterableness
-alterably
 alterant
 alterants
 alterate
@@ -23589,6 +23588,7 @@ aurigerous
 aurignacian
 aurigo
 aurigraphy
+alterably
 auryl
 aurilave
 aurin

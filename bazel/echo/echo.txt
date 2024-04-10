@@ -2333,7 +2333,6 @@ electrobrasser
 epistroma
 electrobus
 electrocapillary
-electrocapillarity
 electrocardiogram
 electrocardiograms
 electrocardiograph
@@ -3749,6 +3748,7 @@ embrocates
 embrocating
 erythroid
 embrocation
+electrocapillarity
 embrocations
 embroche
 embroglio
