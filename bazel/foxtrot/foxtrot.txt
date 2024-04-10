@@ -3350,7 +3350,6 @@ fieldy
 fieldie
 fielding
 fieldish
-fieldleft
 fieldman
 fieldmen
 fieldmice
@@ -5074,6 +5073,7 @@ flatette
 flatfeet
 flatfish
 flatfishes
+fieldleft
 flatfoot
 flatfooted
 flatfootedly
