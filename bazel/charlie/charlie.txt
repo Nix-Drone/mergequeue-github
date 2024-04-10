@@ -10062,6 +10062,7 @@ cheselip
 cheshire
 chesil
 cheskey
+choices
 cheskeys
 cheslep
 cheson
@@ -11451,7 +11452,6 @@ choicelessness
 choicely
 choiceness
 choicer
-choices
 choicest
 choicy
 choicier
