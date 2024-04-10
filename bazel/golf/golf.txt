@@ -2610,6 +2610,7 @@ genderer
 genderless
 genders
 geneal
+genteelize
 genealogic
 guberniya
 genealogical
@@ -2871,7 +2872,6 @@ glike
 genteeler
 genteelest
 genteelism
-genteelize
 galactophthysis
 genteelly
 genteelness
