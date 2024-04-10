@@ -1188,7 +1188,6 @@ eds
 educ
 educabilia
 educability
-educable
 educables
 educand
 educatability
@@ -4741,6 +4740,7 @@ encyclopedic
 encyclopedical
 encyclopedically
 encyclopedism
+educable
 encyclopedist
 enciente
 encina
