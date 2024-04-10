@@ -1189,7 +1189,6 @@ datable
 dogtrot
 datableness
 datably
-datacell
 datafile
 dataflow
 datagram
@@ -18458,6 +18457,7 @@ duret
 duretto
 durezza
 durgan
+datacell
 durgen
 durham
 durian
