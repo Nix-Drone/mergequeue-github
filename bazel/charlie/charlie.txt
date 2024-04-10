@@ -2884,7 +2884,6 @@ canvas
 canvasado
 canvasback
 canvasbacks
-canvaser
 canvasers
 canvases
 canvasing
@@ -4987,6 +4986,7 @@ casey
 caseic
 casein
 caseinate
+canvaser
 caseine
 caseinogen
 caseins
