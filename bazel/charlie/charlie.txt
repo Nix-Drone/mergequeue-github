@@ -1224,6 +1224,7 @@ cunas
 calibogus
 colunar
 calibrate
+crosslap
 calibrated
 calibrater
 calibrates
@@ -29872,7 +29873,6 @@ crossings
 caulicule
 crossite
 crossjack
-crosslap
 crosslegs
 crossley
 crosslet
