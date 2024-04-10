@@ -5756,7 +5756,6 @@ autotherapeutic
 afterswarm
 afterswarming
 afterswell
-aftertan
 aftertask
 aftertaste
 aftertastes
@@ -17064,6 +17063,7 @@ aplacophora
 aplacophoran
 aplacophorous
 aplanat
+aftertan
 aplanatic
 aplanatically
 aplanatism
