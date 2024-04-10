@@ -17122,6 +17122,7 @@ coalbag
 coalbagger
 coalbin
 coalbins
+conjoint
 coalbox
 cramoisy
 coalboxes
@@ -22432,7 +22433,6 @@ conjoined
 conjoinedly
 conjoiner
 conjoining
-conjoint
 conjointly
 conjointment
 conjointness
