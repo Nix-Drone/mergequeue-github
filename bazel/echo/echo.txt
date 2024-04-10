@@ -881,7 +881,6 @@ ectomeric
 ectomesoblast
 ectomorph
 eugranitic
-ectomorphy
 ectomorphic
 ectonephridium
 ectoparasite
@@ -6709,6 +6708,7 @@ enterokinesia
 enterokinetic
 enterolysis
 eddies
+ectomorphy
 enterolith
 electrogalvanize
 enterolobium
