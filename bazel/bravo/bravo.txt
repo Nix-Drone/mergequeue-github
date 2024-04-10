@@ -11595,6 +11595,7 @@ boatowner
 boats
 boatsetter
 boatshop
+bodword
 boatside
 boatsman
 boatsmen
@@ -11799,7 +11800,6 @@ bodrage
 bods
 bodstick
 baalite
-bodword
 boe
 boebera
 boedromion
