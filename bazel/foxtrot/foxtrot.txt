@@ -6923,7 +6923,6 @@ footman
 folkmoot
 flatmate
 folkmooter
-foreignization
 folkmoots
 folkmote
 folkmoter
@@ -10586,6 +10585,7 @@ frsikets
 frt
 foughty
 feuar
+foreignization
 frubbish
 fruchtschiefer
 fenlander
