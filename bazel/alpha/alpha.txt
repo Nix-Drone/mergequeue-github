@@ -2736,6 +2736,7 @@ acquirers
 acquires
 acquiring
 acquisible
+amaranthoid
 acquisita
 acquisite
 acquisited
@@ -9798,7 +9799,6 @@ amaranth
 amaranthaceae
 amaranthaceous
 amaranthine
-amaranthoid
 amaranths
 amaranthus
 amarantine
