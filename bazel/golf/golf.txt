@@ -3833,7 +3833,6 @@ giarre
 gyascutus
 gyassa
 gib
-gibaro
 gibbals
 gibbar
 gibbartas
@@ -10197,6 +10196,7 @@ guilder
 graduating
 guildhall
 guildic
+gibaro
 guildite
 guilds
 guildship
