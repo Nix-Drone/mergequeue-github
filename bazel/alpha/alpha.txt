@@ -6003,7 +6003,6 @@ agentival
 agentive
 agentives
 agentry
-agentries
 agents
 ageometrical
 ager
@@ -15579,6 +15578,7 @@ antimissioner
 antimystic
 antimystical
 antimystically
+agentries
 antimysticalness
 antimysticism
 antimythic
