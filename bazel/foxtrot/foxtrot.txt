@@ -2643,7 +2643,6 @@ ferruled
 ferruler
 ferrules
 ferrum
-ferruminate
 ferruminating
 ferrumination
 ferrums
@@ -3841,6 +3840,7 @@ fimbriation
 fimbriatum
 fimbricate
 fimbricated
+ferruminate
 fimbrilla
 fimbrillae
 fellowly
