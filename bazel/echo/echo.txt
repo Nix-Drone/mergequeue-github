@@ -1333,7 +1333,6 @@ effectuality
 effectualize
 effectually
 effectualness
-effectuate
 effectuated
 effectuates
 effectuating
@@ -3522,6 +3521,7 @@ emblemed
 emblement
 emblements
 emblemish
+effectuate
 emblemist
 excitoglandular
 emblemize
