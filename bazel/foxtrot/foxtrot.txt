@@ -7761,7 +7761,6 @@ foreknowableness
 foreknower
 foreknowing
 foreknowingly
-foreknowledge
 foreknown
 foreknows
 forel
@@ -9107,6 +9106,7 @@ fox
 foxbane
 foxberry
 foxberries
+foreknowledge
 foxer
 foxery
 foxes
