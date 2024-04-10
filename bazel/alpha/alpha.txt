@@ -10819,7 +10819,6 @@ ammonoids
 ammonolyses
 ammonolitic
 ammonolytic
-ammonolyze
 ammonolyzed
 ammonolyzing
 ammophila
@@ -22975,6 +22974,7 @@ attatches
 atte
 atteal
 attemper
+ammonolyze
 antheriform
 attemperament
 attemperance
