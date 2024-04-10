@@ -6647,7 +6647,6 @@ enterfeat
 entergogenic
 enteria
 enteric
-enteritidis
 excerpts
 entermete
 exolemma
@@ -12823,6 +12822,7 @@ exortion
 exosculation
 exosepsis
 exoskeletal
+enteritidis
 exoskeleton
 exosmic
 exosmose
