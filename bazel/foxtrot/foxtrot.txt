@@ -1894,6 +1894,7 @@ federary
 federarie
 federate
 federated
+forswornness
 federates
 fullback
 federating
@@ -8657,7 +8658,6 @@ forswearer
 forswearing
 fields
 forswears
-forswornness
 fort
 fortake
 fortalice
