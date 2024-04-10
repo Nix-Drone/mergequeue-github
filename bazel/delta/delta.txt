@@ -4841,7 +4841,6 @@ demonetising
 demonetization
 demonetize
 demonetized
-demonetizes
 demonetizing
 demoniac
 demoniacal
@@ -8299,6 +8298,7 @@ dialyzation
 dialyzator
 dialyze
 dialyzed
+demonetizes
 dialyzer
 dialyzes
 dialkyl
