@@ -2772,6 +2772,7 @@ decrees
 decreet
 decreing
 decrement
+dibbing
 decremental
 decrementing
 decrements
@@ -8735,7 +8736,6 @@ dibatag
 dibatis
 dibbed
 dibber
-dibbing
 dibble
 dibbled
 dibbler
