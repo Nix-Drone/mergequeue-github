@@ -4824,7 +4824,6 @@ geologise
 gowkit
 gyromancy
 gyromele
-gyrometer
 gyromitra
 gnawers
 gobiiformes
@@ -9727,6 +9726,7 @@ grumping
 grumpish
 grumpishness
 grumps
+gyrometer
 grun
 grundy
 grundified
