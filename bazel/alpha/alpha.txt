@@ -1876,7 +1876,6 @@ aceanthrene
 aceanthrenequinone
 acecaffin
 acecaffine
-aceconitic
 aced
 acedy
 acedia
@@ -20988,6 +20987,7 @@ authorizable
 ascitan
 ascitb
 ascite
+aceconitic
 ascites
 ascitical
 ascititious
