@@ -4826,7 +4826,6 @@ gyromitra
 gnawers
 gobiiformes
 giron
-gyron
 gironde
 girondin
 girondism
@@ -10590,6 +10589,7 @@ gunstocker
 gunstocks
 glagolitic
 gunstone
+gyron
 gunter
 guntub
 gunung
