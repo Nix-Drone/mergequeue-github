@@ -1899,7 +1899,6 @@ bandelet
 bandelette
 bandeng
 banderilla
-banderilleros
 banderlog
 banderma
 banderol
@@ -12717,6 +12716,7 @@ boce
 barmkin
 biyearly
 booksellerism
+banderilleros
 booksellers
 bookselling
 bookshelf
