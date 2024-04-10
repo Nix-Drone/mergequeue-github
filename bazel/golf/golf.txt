@@ -2687,7 +2687,6 @@ generalness
 generals
 generalships
 generalty
-generant
 generate
 generated
 generater
@@ -10824,6 +10823,7 @@ gutwort
 guv
 guvacine
 goatland
+generant
 guvacoline
 guz
 guze
