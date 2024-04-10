@@ -6595,7 +6595,6 @@ brawled
 bequeaths
 bequest
 bequests
-bequote
 beqwete
 ber
 beray
@@ -15321,6 +15320,7 @@ brigadier
 bitripartite
 brigadiership
 brigading
+bequote
 brigalow
 brigand
 brigandage
