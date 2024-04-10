@@ -1003,6 +1003,7 @@ edacities
 edam
 edana
 edaphology
+emaceration
 enerve
 euphemism
 edaphon
@@ -8291,7 +8292,6 @@ epistena
 episternal
 enormities
 episternalia
-emaceration
 episternite
 episternum
 exitance
