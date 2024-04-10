@@ -12744,7 +12744,6 @@ dismisser
 dismissers
 dismisses
 dismissible
-dismissing
 dismissingly
 dismission
 dodrantal
@@ -13438,6 +13437,7 @@ disscepter
 demonic
 dissceptered
 dissceptre
+dismissing
 dissceptred
 doat
 dissceptring
