@@ -6296,6 +6296,7 @@ fluidextract
 fluidglycerate
 fluidible
 fluidic
+fosslology
 fluidics
 fluidification
 fissicostate
@@ -8865,7 +8866,6 @@ fossilological
 fossils
 fosslfying
 fosslify
-fosslology
 fishwife
 fossor
 fossoria
