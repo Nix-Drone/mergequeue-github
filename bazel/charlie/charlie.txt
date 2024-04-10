@@ -9835,7 +9835,6 @@ chemiotactic
 chemiotaxic
 chemiotaxis
 chemiotropic
-chemiotropism
 chemiphotic
 chuhra
 copout
@@ -25763,6 +25762,7 @@ corroboreed
 corroboreeing
 corroborees
 corrobori
+chemiotropism
 corrodant
 corrode
 corrodent
