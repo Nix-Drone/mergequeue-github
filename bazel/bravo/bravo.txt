@@ -657,7 +657,6 @@ bacterin
 bacterioagglutinin
 bacterioblast
 bacteriochlorophyll
-bacteriocidal
 bacteriocin
 bishopbird
 bacteriocyte
@@ -8459,6 +8458,7 @@ bigots
 bigotty
 bigram
 bigroot
+bacteriocidal
 bigthatch
 biguanide
 biguttulate
