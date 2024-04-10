@@ -13016,7 +13016,6 @@ cyanogenic
 cyanogens
 cyanoguanidine
 cyanohermidin
-cyanohydrin
 cyanol
 cyanole
 cyanomaclurin
@@ -22046,6 +22045,7 @@ conformation
 conformationally
 crwths
 conformations
+cyanohydrin
 conformator
 conformed
 conformer
