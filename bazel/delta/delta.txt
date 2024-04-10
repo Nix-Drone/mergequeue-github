@@ -1593,7 +1593,6 @@ dealkalize
 dealkylate
 dealkylation
 deallocate
-deallocated
 daunter
 deallocates
 deallocating
@@ -6783,6 +6782,7 @@ desmoneoplasm
 desmonosology
 desmopathy
 desmopathology
+deallocated
 desmopelmous
 desmopexia
 desmopyknosis
