@@ -3174,6 +3174,7 @@ defectlessness
 defectology
 defector
 defectors
+duplicating
 defectoscope
 defects
 defectum
@@ -18368,7 +18369,6 @@ duplicando
 duplicated
 duplicately
 duplicates
-duplicating
 duplication
 duplications
 duplicative
