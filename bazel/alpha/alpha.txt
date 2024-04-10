@@ -3257,7 +3257,6 @@ activity
 activities
 activize
 activized
-activizing
 actless
 acton
 actor
@@ -10755,6 +10754,7 @@ ammocoetidae
 ammocoetoid
 ammodyte
 ammodytes
+activizing
 ammodytidae
 ammodytoid
 ammonal

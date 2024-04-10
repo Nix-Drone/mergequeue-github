@@ -3617,7 +3617,6 @@ gestured
 gestureless
 gesturer
 gesturers
-gesturing
 gesturist
 gesundheit
 geswarp
@@ -10470,6 +10469,7 @@ gunbarrel
 gunboats
 gunbuilder
 guncotton
+gesturing
 gunda
 gundeck
 gundelet
