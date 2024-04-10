@@ -6549,7 +6549,6 @@ beparse
 bepart
 bepaste
 bletted
-bepastured
 bepat
 bepatched
 bepaw
@@ -10977,6 +10976,7 @@ blizzardous
 blizzards
 blk
 blksize
+bepastured
 bunts
 blo
 bloat
