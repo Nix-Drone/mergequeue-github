@@ -1759,7 +1759,6 @@ balsamous
 balsamroot
 balsams
 balsamum
-balsamweed
 balsas
 balsawood
 balt
@@ -10479,6 +10478,7 @@ blastomycin
 blastomycotic
 blastoneuropore
 bogan
+balsamweed
 blastophyllum
 blastophitic
 blastophoral
