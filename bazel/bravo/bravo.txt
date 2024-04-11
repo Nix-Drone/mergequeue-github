@@ -6559,6 +6559,7 @@ bepatched
 bepaw
 bepearl
 bepelt
+borderlight
 bepen
 bepepper
 beperiwigged
@@ -12969,7 +12970,6 @@ borderland
 borderlander
 borderlands
 borderless
-borderlight
 borderline
 bordermark
 borders
