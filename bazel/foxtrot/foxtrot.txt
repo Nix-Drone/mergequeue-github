@@ -4011,7 +4011,6 @@ finings
 finis
 federatist
 finish
-finishable
 finished
 furrings
 finisher
@@ -9381,6 +9380,7 @@ frangipanni
 frangula
 foreaccustom
 frangulic
+finishable
 franion
 frankability
 frankalmoign
