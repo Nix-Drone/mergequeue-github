@@ -2887,7 +2887,6 @@ bostons
 barotropic
 barouche
 barouches
-barouchet
 barouchette
 barouni
 baroxyton
@@ -6382,6 +6381,7 @@ benvenuto
 benward
 benweed
 benzacridine
+barouchet
 benzalacetone
 benzalacetophenone
 benzalaniline
