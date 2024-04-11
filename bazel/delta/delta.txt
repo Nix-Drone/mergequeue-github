@@ -5240,6 +5240,7 @@ denotativeness
 demideify
 denotatum
 denote
+diaclasite
 denoted
 denotement
 denotes
@@ -8488,7 +8489,6 @@ diaphanoscope
 dirties
 diaphanotype
 diaphanous
-diaclasite
 diaphanously
 diaphanousness
 diaphemetric
