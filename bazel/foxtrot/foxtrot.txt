@@ -8635,7 +8635,6 @@ foreanswer
 forswearing
 forthgoing
 fields
-forswears
 forswornness
 fort
 fortake
@@ -8915,6 +8914,7 @@ flunkies
 fougasse
 foujdarry
 foul
+forswears
 foulards
 foulbrood
 foulder
