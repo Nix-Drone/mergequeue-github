@@ -10556,7 +10556,6 @@ amyloplast
 amyloplastic
 amyloplastid
 amylopsin
-amylose
 apprenticeship
 amyloses
 amylosynthesis
@@ -12069,6 +12068,7 @@ anatomicopathological
 anatomicophysiologic
 arteriofibrosis
 anatomicophysiological
+amylose
 anatomicosurgical
 anatomies
 anatomiless
