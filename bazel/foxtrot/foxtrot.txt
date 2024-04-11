@@ -1649,7 +1649,6 @@ fconv
 fconvert
 farcin
 fcp
-fcs
 fdname
 fdnames
 fdtype
@@ -6847,6 +6846,7 @@ foisonless
 foisons
 foist
 foxtongue
+fcs
 foisted
 ferroboron
 foister
