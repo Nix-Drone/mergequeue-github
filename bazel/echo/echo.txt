@@ -8865,7 +8865,6 @@ equus
 era
 erade
 eradiate
-eradiated
 exhedra
 epicerebral
 eradiating
@@ -12659,6 +12658,7 @@ exoclinal
 exocline
 exocoelar
 exocoele
+eradiated
 exocoelic
 exocoelom
 exocoelum
