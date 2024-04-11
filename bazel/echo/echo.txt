@@ -1193,7 +1193,6 @@ educabilia
 educability
 educable
 educables
-educand
 educatability
 eident
 educatable
@@ -10049,6 +10048,7 @@ esthetically
 encydlopaedic
 encompasses
 estheticism
+educand
 ecdysons
 esthetics
 esthetology
