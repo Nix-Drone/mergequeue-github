@@ -4448,7 +4448,6 @@ enanthematous
 enanthesis
 enantioblastic
 enantioblastous
-enantiomer
 enantiomeric
 enantiomorph
 enantiomorphy
@@ -10282,6 +10281,7 @@ etheostominae
 etheostomoid
 electrophoresed
 ether
+enantiomer
 etherate
 evenoo
 etherealisation
