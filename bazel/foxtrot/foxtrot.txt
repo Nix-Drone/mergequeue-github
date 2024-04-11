@@ -83,7 +83,6 @@ faceoff
 facepiece
 faceplate
 facer
-facers
 fisticuffs
 faces
 facesaving
@@ -7295,6 +7294,7 @@ fopship
 for
 fora
 forage
+facers
 foraged
 fluttery
 foragement
