@@ -4742,7 +4742,6 @@ gyrencephalous
 gyrene
 gyrenes
 gyrfalcon
-gyrfalcons
 guillotiner
 grinter
 girgasite
@@ -6645,6 +6644,7 @@ goldentop
 goldenwing
 golder
 goldest
+gyrfalcons
 goldfielder
 getatability
 goldfields
