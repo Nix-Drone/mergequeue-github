@@ -3354,7 +3354,6 @@ defix
 deflagrable
 deflagrated
 deflagrates
-deflagrating
 deflagration
 deflagrations
 deflagrator
@@ -13037,6 +13036,7 @@ dispersive
 dispersiveness
 dispersoid
 dispersoidological
+deflagrating
 dispersonalize
 dispersonate
 dispersonify
