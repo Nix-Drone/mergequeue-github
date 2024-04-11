@@ -1903,7 +1903,6 @@ debunks
 deburr
 drunks
 deburse
-debus
 debused
 debusing
 debussed
@@ -17485,6 +17484,7 @@ drowners
 drowning
 drownings
 denotational
+debus
 drownproofing
 drowns
 drowse
