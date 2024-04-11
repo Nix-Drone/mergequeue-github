@@ -7088,7 +7088,6 @@ excisor
 entrefer
 entrelac
 entrenches
-entrenching
 entrenchment
 entrenchments
 entrep
@@ -10439,6 +10438,7 @@ ethmonasal
 ethmopalatal
 ethmopalatine
 ethmophysal
+entrenching
 ethmopresphenoidal
 ethmose
 ethmosphenoid
