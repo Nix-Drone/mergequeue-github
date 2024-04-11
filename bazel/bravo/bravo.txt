@@ -672,7 +672,6 @@ bacteriolyze
 bacteriology
 bacteriologic
 bacteriologically
-bacteriologies
 bacteriologist
 bacteriologists
 bacteriopathology
@@ -16444,6 +16443,7 @@ bruted
 basellaceous
 brutedom
 brutely
+bacteriologies
 brutelike
 bruteness
 brutify
