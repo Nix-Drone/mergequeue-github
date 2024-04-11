@@ -15252,6 +15252,7 @@ claimants
 clepe
 claimed
 claimer
+consumables
 claimers
 claiming
 claimless
@@ -23221,7 +23222,6 @@ consultor
 consultory
 consults
 consumable
-consumables
 comagistracy
 consumate
 consumated
