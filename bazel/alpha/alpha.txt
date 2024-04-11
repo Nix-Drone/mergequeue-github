@@ -6572,7 +6572,6 @@ agrotechny
 agrotype
 agrotis
 agrufe
-agruif
 agsam
 agst
 agtbasic
@@ -13559,6 +13558,7 @@ annihilating
 annihilation
 annihilationism
 annihilationist
+agruif
 annihilationistic
 annihilationistical
 annihilative
