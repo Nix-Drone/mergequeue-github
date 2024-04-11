@@ -2948,7 +2948,6 @@ deducibly
 deducing
 deducive
 deducted
-deductibility
 deductible
 deductibles
 deductile
@@ -5787,6 +5786,7 @@ dreck
 deponents
 depones
 dwt
+deductibility
 deponing
 depopularize
 depopulate
