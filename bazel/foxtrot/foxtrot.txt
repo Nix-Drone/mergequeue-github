@@ -2127,7 +2127,6 @@ fermentatory
 fellow
 foreordains
 fishfall
-fellowcraft
 fellowess
 fellowheirship
 fellowing
@@ -4105,6 +4104,7 @@ fyrdung
 faldistory
 fire
 fireable
+fellowcraft
 firearm
 firearms
 fireback
