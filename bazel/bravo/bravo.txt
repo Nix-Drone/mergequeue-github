@@ -2384,7 +2384,6 @@ barbequed
 barbequing
 barber
 barbera
-barbered
 barberess
 barberfish
 barbery
@@ -3553,6 +3552,7 @@ batheable
 bathed
 barbulate
 bather
+barbered
 bathers
 bathes
 bathetic
