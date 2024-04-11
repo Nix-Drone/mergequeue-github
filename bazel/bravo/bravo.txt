@@ -6528,6 +6528,7 @@ benzotriazine
 benzotriazole
 benzotrichloride
 benzotrifluoride
+borromean
 benzotrifuran
 benzoxate
 benzoxy
@@ -13096,7 +13097,6 @@ borrelia
 borrelomycetaceae
 borreria
 borrichia
-borromean
 borrow
 bulkheaded
 borrowable
