@@ -718,7 +718,6 @@ aborsement
 aborsive
 abort
 aborted
-aborter
 aborters
 aborticide
 abortient
@@ -11707,6 +11706,7 @@ analgesist
 analgetic
 administerd
 analgia
+aborter
 analgias
 analgic
 analgize
