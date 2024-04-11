@@ -4500,6 +4500,7 @@ beclose
 beclothe
 beclothed
 beclothes
+boxcar
 beclothing
 becloud
 beclouded
@@ -13858,7 +13859,6 @@ boxberry
 boxberries
 boxboards
 boxbush
-boxcar
 bonify
 boxcars
 boxed
