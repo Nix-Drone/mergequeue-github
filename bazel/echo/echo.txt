@@ -2662,7 +2662,6 @@ electrotelethermometer
 endplay
 electrotellurograph
 electrotest
-electrothanasia
 electrothanatosis
 exogens
 electrotherapeutical
@@ -6822,6 +6821,7 @@ enthronization
 enthronize
 endostracal
 enthronized
+electrothanasia
 enthronizing
 enthused
 enthuses
