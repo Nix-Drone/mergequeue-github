@@ -4664,6 +4664,7 @@ gipsywort
 gorgio
 gypsywort
 gypsography
+glossaries
 griffin
 gipsology
 gypsology
@@ -5915,7 +5916,6 @@ glossmeter
 geod
 glossocarcinoma
 glossocele
-glossaries
 glossocoma
 gelatinotype
 glossocomium
