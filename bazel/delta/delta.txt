@@ -2626,7 +2626,6 @@ decompensatory
 decompiler
 decomponent
 decomponible
-decomposability
 decomposable
 decompose
 decomposed
@@ -5582,6 +5581,7 @@ depascent
 damaskin
 distilery
 depass
+decomposability
 disintensify
 delphinoid
 disrepute
