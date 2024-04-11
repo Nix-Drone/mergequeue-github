@@ -5601,7 +5601,6 @@ belayer
 belaying
 belays
 belait
-biface
 belaites
 belam
 belamcanda
@@ -13000,6 +12999,7 @@ bedusk
 bores
 belfry
 boresight
+biface
 boresomely
 boreus
 borg
