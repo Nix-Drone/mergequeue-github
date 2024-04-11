@@ -211,6 +211,7 @@ factories
 factorylike
 factoring
 factoryship
+feluccas
 factorist
 factorization
 factorizations
@@ -4377,7 +4378,6 @@ fishily
 fishiness
 fleeten
 fishing
-feluccas
 fishingly
 fishings
 fishless
