@@ -1058,7 +1058,6 @@ darner
 darners
 darnex
 darning
-darnings
 darns
 daroga
 darogah
@@ -13658,6 +13657,7 @@ dissolvable
 dissolvableness
 dissolvative
 dissolve
+darnings
 dissolveability
 dacryocystalgia
 dissolved
