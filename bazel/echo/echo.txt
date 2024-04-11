@@ -5997,6 +5997,7 @@ enjoinder
 enjoinders
 enjoined
 enjoiner
+enthalpy
 enjoiners
 enjoining
 enhaloing
@@ -6788,7 +6789,6 @@ entertissue
 emetine
 entete
 entfaoilff
-enthalpy
 enthalpies
 entheal
 enthean
