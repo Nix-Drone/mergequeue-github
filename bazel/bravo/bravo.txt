@@ -3798,6 +3798,7 @@ battleship
 battleships
 buhr
 battlesome
+boatfalls
 battlestead
 battlewagon
 battleward
@@ -11600,7 +11601,6 @@ boated
 boatel
 boatels
 boater
-boatfalls
 boathead
 boatheader
 boathook
