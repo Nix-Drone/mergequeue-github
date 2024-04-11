@@ -3460,7 +3460,6 @@ germiniparous
 germinogony
 germless
 germlike
-germling
 germon
 germproof
 germs
@@ -10263,6 +10262,7 @@ guisard
 guisarme
 guise
 guised
+germling
 guiser
 guises
 guisian
