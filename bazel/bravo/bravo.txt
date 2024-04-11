@@ -6419,7 +6419,6 @@ benzein
 benzene
 benzeneazobenzene
 bastian
-benzenediazonium
 benzenes
 benzenyl
 benzenoid
@@ -8343,6 +8342,7 @@ bigae
 bywork
 bigam
 bigamic
+benzenediazonium
 bigamies
 bigamist
 bigamistic
