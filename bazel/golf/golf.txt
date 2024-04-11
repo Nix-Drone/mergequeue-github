@@ -5962,7 +5962,6 @@ glossopteris
 glossoptosis
 glossorrhaphy
 glossoscopy
-glossospasm
 glossosteresis
 glossotype
 glossotomy
@@ -10740,6 +10739,7 @@ gutsy
 gutsier
 gutsiest
 gutsily
+glossospasm
 gutsiness
 goths
 gutt
