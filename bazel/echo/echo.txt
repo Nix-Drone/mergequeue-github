@@ -6539,6 +6539,7 @@ entail
 entailable
 entailed
 entailer
+evangelized
 entailment
 entailments
 entails
@@ -11385,7 +11386,6 @@ evangelium
 evangelization
 ectoloph
 evangelize
-evangelized
 emmantle
 evangelizer
 evangelizes
