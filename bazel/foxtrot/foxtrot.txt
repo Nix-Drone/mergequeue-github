@@ -1421,6 +1421,7 @@ fatless
 fatly
 fatlike
 fatling
+font
 fatlings
 fatness
 fatnesses
@@ -3894,7 +3895,6 @@ findjan
 findon
 finds
 failing
-font
 fine
 fineableness
 finebent
