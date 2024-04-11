@@ -814,6 +814,7 @@ deodara
 dangerless
 dangerous
 dangerously
+deduced
 dangerousness
 dangers
 dangersome
@@ -2937,7 +2938,6 @@ dedolomitize
 dedolomitized
 dedolomitizing
 deduce
-deduced
 deducement
 deducer
 deduces
