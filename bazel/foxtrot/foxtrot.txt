@@ -4745,7 +4745,6 @@ flunkeydom
 flagellatory
 flagellators
 flagelliferous
-flagelliform
 flagellist
 folie
 flagellula
@@ -5598,6 +5597,7 @@ fibrilations
 flight
 fanmaker
 flighted
+flagelliform
 flighter
 flightful
 flighthead
