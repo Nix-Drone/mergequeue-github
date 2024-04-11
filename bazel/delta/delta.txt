@@ -12166,7 +12166,6 @@ disgallant
 drillstock
 disgarnish
 disgavel
-disgaveled
 disgaveling
 disgavelled
 disgavelling
@@ -17152,6 +17151,7 @@ drinkableness
 drinkables
 drinkably
 drinker
+disgaveled
 drinkers
 drinky
 disputatively
