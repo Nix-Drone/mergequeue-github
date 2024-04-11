@@ -2558,7 +2558,6 @@ barfish
 barfly
 barflies
 barfs
-barful
 bargain
 bargainable
 billbugs
@@ -7695,6 +7694,7 @@ bewpers
 bewray
 bewrayed
 bewrayer
+barful
 bewrayers
 bewraying
 biacetylene
