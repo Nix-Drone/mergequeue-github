@@ -6652,7 +6652,6 @@ goldish
 goldless
 goldlike
 goldminer
-goldmist
 goldonian
 golds
 goldseed
@@ -10465,6 +10464,7 @@ gundi
 gundy
 gettysburg
 gundie
+goldmist
 gundygut
 gundog
 gastronomic
