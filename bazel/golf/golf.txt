@@ -1099,6 +1099,7 @@ ganglands
 gangly
 ganglia
 gargoyled
+gansel
 ganglial
 gybed
 gangliar
@@ -3571,7 +3572,6 @@ gestapos
 gestate
 gestated
 gestates
-gansel
 gestating
 gullygut
 gestation
