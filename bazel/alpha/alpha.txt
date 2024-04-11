@@ -554,7 +554,6 @@ ablator
 ablaut
 ablauts
 ablaze
-able
 ableeze
 ablegate
 ablend
@@ -16759,6 +16758,7 @@ aperies
 aperiodic
 aperiodically
 aperiodicity
+able
 aperispermic
 aperistalsis
 aperitif
