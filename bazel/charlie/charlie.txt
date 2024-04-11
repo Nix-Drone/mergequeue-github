@@ -1600,7 +1600,6 @@ calorize
 calorized
 calorizer
 calorizes
-calorizing
 calosoma
 calotermes
 calotermitid
@@ -19981,6 +19980,7 @@ commensalist
 commensalistic
 commensally
 commensals
+calorizing
 commensurability
 commensurable
 commensurableness
