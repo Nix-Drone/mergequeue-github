@@ -516,7 +516,6 @@ abjunctive
 abjuration
 abjurations
 abjuratory
-abjure
 abjured
 abjurement
 abjurer
@@ -5131,6 +5130,7 @@ aerosteam
 aerotactic
 aerotaxis
 argo
+abjure
 aerotechnical
 aerotechnics
 allthorn
