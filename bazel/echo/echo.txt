@@ -869,7 +869,6 @@ ectogenic
 ectogenous
 ectoglia
 ectognatha
-ectolecithal
 ectomere
 ectomeres
 ectomeric
@@ -6328,6 +6327,7 @@ enrollment
 enrollments
 enrolls
 enrolment
+ectolecithal
 enroot
 enrooted
 enroots
