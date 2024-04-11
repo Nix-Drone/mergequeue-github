@@ -16223,7 +16223,6 @@ clinicist
 clinicopathological
 clinicopathologically
 clinics
-clinid
 clinium
 clink
 clinkant
@@ -29671,6 +29670,7 @@ crommel
 codesigned
 confess
 cromorne
+clinid
 cromster
 cromwell
 cromwellian
