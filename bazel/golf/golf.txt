@@ -67,7 +67,6 @@ gablelike
 gabler
 gables
 gablet
-gablewindowed
 gablewise
 gabling
 gablock
@@ -2419,6 +2418,7 @@ gelatinous
 gelatins
 gelation
 greaves
+gablewindowed
 gelations
 gelatose
 geld
