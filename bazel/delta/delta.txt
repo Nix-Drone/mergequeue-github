@@ -1496,7 +1496,6 @@ deactivators
 deadbeat
 deadbeats
 defrosts
-deadborn
 deadcenter
 dilemmas
 deadeye
@@ -15161,6 +15160,7 @@ dollin
 dolliness
 dolling
 dollish
+deadborn
 dollishly
 dollishness
 decaisnea
