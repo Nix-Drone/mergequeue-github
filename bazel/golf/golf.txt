@@ -5747,7 +5747,6 @@ ganglioneuroma
 globularness
 globule
 gtd
-globulet
 globulicide
 globuliferous
 glaive
@@ -6795,6 +6794,7 @@ gonaduct
 gonagra
 gonakie
 gonal
+globulet
 gonalgia
 gonangia
 gonangial
