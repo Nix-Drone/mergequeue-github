@@ -7061,7 +7061,6 @@ furnitures
 foochow
 foochowese
 food
-fooder
 foodful
 foody
 foodless
@@ -10278,6 +10277,7 @@ frog
 frogbit
 frogeater
 frogeye
+fooder
 frogeyed
 flagrantly
 frogeyes
