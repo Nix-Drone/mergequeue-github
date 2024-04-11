@@ -3156,7 +3156,6 @@ capling
 caplins
 caplock
 capmaker
-capmakers
 cordmaker
 capmaking
 capman
@@ -25014,6 +25013,7 @@ causeries
 coredeems
 coredemptress
 coreductase
+capmakers
 coree
 coreflexed
 coregency
