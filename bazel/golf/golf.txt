@@ -1358,7 +1358,6 @@ gardenmaking
 gardens
 garderobe
 gardeviance
-gardevin
 gardevisure
 gardy
 ginkgo
@@ -4996,6 +4995,7 @@ glace
 glaceed
 gounau
 glaceing
+gardevin
 glaces
 glaciable
 glacialism
