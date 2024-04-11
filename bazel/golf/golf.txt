@@ -3566,7 +3566,6 @@ gansel
 gestating
 gullygut
 gestation
-gestational
 gestations
 gestative
 gestatory
@@ -5881,6 +5880,7 @@ glossed
 glossem
 glossematic
 glossematics
+gestational
 grenado
 glosseme
 glossemes
