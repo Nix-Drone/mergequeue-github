@@ -11158,7 +11158,6 @@ disband
 duraplasty
 disbanded
 disoppilate
-disbanding
 disbandment
 disbandments
 disbands
@@ -17966,6 +17965,7 @@ dukker
 dukkeripen
 dukuma
 dulanganes
+disbanding
 dulat
 dulbert
 dulc
