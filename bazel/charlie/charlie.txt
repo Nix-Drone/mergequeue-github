@@ -4987,7 +4987,6 @@ casebook
 casebooks
 casebound
 casebox
-caseconv
 cased
 casefy
 casefied
@@ -19109,6 +19108,7 @@ collogues
 colloguing
 chiropter
 colloid
+caseconv
 cinerins
 colloidal
 colloidality
