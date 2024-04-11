@@ -11372,7 +11372,6 @@ blurred
 blueleg
 bluelegs
 bluely
-blueline
 bluelines
 blueness
 bluenose
@@ -12741,6 +12740,7 @@ bookwise
 bookworm
 bookworms
 bookwright
+blueline
 bool
 boolean
 booleans
