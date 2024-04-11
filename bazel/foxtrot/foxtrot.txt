@@ -6132,7 +6132,6 @@ flourishy
 flourishing
 flourishingly
 flourless
-flourlike
 flours
 falcated
 fangled
@@ -8914,6 +8913,7 @@ foul
 foulards
 foulbrood
 foulder
+flourlike
 fouldre
 fouled
 fouler
