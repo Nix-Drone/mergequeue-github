@@ -6741,6 +6741,7 @@ enterostomies
 enterotome
 enterotomy
 enterotoxemia
+equerry
 enterotoxication
 essence
 enterotoxin
@@ -8623,7 +8624,6 @@ equatorial
 equatorially
 equatorward
 equatorwards
-equerry
 equerries
 equerryship
 eques
