@@ -14197,7 +14197,6 @@ circularities
 caulerpa
 circularization
 circularizations
-circularize
 circularized
 circularizer
 circularizers
@@ -30608,6 +30607,7 @@ cuddie
 cuddies
 cuddyhole
 cuddle
+circularize
 cuddleable
 cuddled
 cuddles
