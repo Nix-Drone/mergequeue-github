@@ -2907,7 +2907,6 @@ barracking
 barracks
 barraclade
 barracoon
-barracouta
 barracoutas
 barracuda
 barracudas
@@ -6827,6 +6826,7 @@ berri
 berry
 berrybush
 berrichon
+barracouta
 berrichonne
 berried
 berrier
