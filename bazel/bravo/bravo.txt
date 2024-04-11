@@ -3586,7 +3586,6 @@ bathylite
 bathylithic
 barleybird
 bathylitic
-bathymeter
 bathymetry
 bathymetric
 bismuthic
@@ -15078,6 +15077,7 @@ beholding
 bestirring
 breviloquent
 breviped
+bathymeter
 brevipennate
 breviradiate
 brevirostral
