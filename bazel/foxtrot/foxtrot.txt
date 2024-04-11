@@ -3975,7 +3975,6 @@ fingered
 fingerer
 fingerers
 fingerfish
-fingerflower
 fingerhold
 fingerhook
 fingering
@@ -4387,6 +4386,7 @@ fishgrass
 fishhood
 fishhook
 fishhooks
+fingerflower
 fishyard
 fishyback
 fishier
