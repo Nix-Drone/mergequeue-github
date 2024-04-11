@@ -7034,6 +7034,7 @@ destroy
 destroyable
 destroyed
 destroyer
+dissceptered
 destroyers
 destroying
 destruct
@@ -13444,7 +13445,6 @@ dissaving
 dissavs
 disscepter
 demonic
-dissceptered
 dissceptre
 dissceptred
 doat
