@@ -1875,7 +1875,6 @@ fecundities
 fecundize
 fundless
 fed
-fedayee
 fedarie
 feddan
 feddans
@@ -8283,6 +8282,7 @@ forint
 forints
 forisfamiliate
 forisfamiliation
+fedayee
 forjaskit
 forjesket
 forjudge
