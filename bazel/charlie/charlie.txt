@@ -9681,6 +9681,7 @@ chef
 chefdom
 chefdoms
 chefrinia
+chronicon
 chefs
 chego
 caretakes
@@ -12581,7 +12582,6 @@ chroniclers
 chronicles
 chronicling
 censer
-chronicon
 chronics
 chronique
 chronisotherm
