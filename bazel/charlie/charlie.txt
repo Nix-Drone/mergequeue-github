@@ -19659,7 +19659,6 @@ combinableness
 collectability
 combinably
 combinant
-combinantive
 combinate
 combination
 combinational
@@ -25057,6 +25056,7 @@ coreplastic
 corepressor
 corequisite
 corer
+combinantive
 corers
 cores
 coresidence
