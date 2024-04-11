@@ -1690,7 +1690,6 @@ gasterotrichan
 gastful
 gasthaus
 gasthauser
-gastight
 gastightness
 gasting
 gastly
@@ -5566,6 +5565,7 @@ glinse
 gregory
 glint
 glinting
+gastight
 gliocyte
 glioma
 gliomas
