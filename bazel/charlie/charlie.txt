@@ -14842,6 +14842,7 @@ chamkanni
 cityward
 citywards
 citywide
+crewless
 citizen
 citizendom
 citizeness
@@ -28849,7 +28850,6 @@ crewels
 crewelwork
 crewet
 crewing
-crewless
 crewman
 crewmanship
 crewmen
