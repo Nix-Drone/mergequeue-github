@@ -60,6 +60,7 @@ faceable
 facebar
 facebow
 facebread
+floyt
 facecloth
 faced
 facedown
@@ -5924,7 +5925,6 @@ flogs
 flogster
 floyd
 floit
-floyt
 flokite
 floatmen
 fondish
