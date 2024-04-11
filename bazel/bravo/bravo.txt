@@ -6121,7 +6121,6 @@ bencher
 benchers
 benchership
 benches
-benchfellow
 benchful
 benchy
 benching
@@ -10389,6 +10388,7 @@ blankmindedness
 blankness
 blanks
 blanque
+benchfellow
 blanquillo
 beesting
 blanquillos
