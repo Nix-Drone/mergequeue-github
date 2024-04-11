@@ -7933,7 +7933,6 @@ bibliographer
 bibliographers
 bewigged
 bibliography
-bibliographic
 bibliographical
 bibliographically
 bibliographies
@@ -12075,6 +12074,7 @@ bolases
 bartsia
 bolbanac
 bolbonac
+bibliographic
 bolboxalis
 bold
 boldacious
