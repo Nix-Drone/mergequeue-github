@@ -4032,7 +4032,6 @@ cardiorenal
 cardiorespiratory
 cardiorrhaphy
 cardiorrheuma
-cardiorrhexis
 cardioschisis
 cardiosclerosis
 cardioscope
@@ -24696,6 +24695,7 @@ coprophagan
 coprophagy
 coprophagia
 coprophagist
+cardiorrhexis
 coprophagous
 coprophilia
 coprophilic
