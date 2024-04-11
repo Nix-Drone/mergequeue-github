@@ -8532,7 +8532,6 @@ champions
 championship
 championships
 champlain
-champlainic
 champlev
 champleve
 champs
@@ -24847,6 +24846,7 @@ coralliferous
 coralliform
 cobreathe
 coralligena
+champlainic
 coralligenous
 coralligerous
 corallike
