@@ -585,7 +585,6 @@ echinopsine
 echinorhynchus
 echinorhinidae
 echinorhinus
-echinospermum
 elbuck
 echinosphaeritidae
 echinostoma
@@ -9733,6 +9732,7 @@ esociform
 esodic
 esoenteritis
 expressing
+echinospermum
 esoethmoiditis
 esonarthex
 esoneural
