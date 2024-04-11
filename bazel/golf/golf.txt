@@ -610,7 +610,6 @@ galliard
 galliardise
 galliardize
 galliardly
-galliardness
 galliards
 galliass
 groundwood
@@ -7642,6 +7641,7 @@ gradino
 gradins
 gradiometer
 gradiometric
+galliardness
 gradometer
 grads
 gradual
