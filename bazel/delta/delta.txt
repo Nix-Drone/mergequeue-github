@@ -3561,7 +3561,6 @@ degasification
 degasifier
 degass
 degassed
-degasser
 degassers
 degasses
 degassing
@@ -11542,6 +11541,7 @@ disconfirmed
 disconform
 disconformably
 disconformity
+degasser
 disconformities
 discongruity
 disconjure
