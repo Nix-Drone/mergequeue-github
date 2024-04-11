@@ -6707,7 +6707,6 @@ enteromegalia
 enteromesenteric
 enteromycosis
 enteromyiasis
-enteromorpha
 enteron
 enteroneuritis
 ewelease
@@ -10255,6 +10254,7 @@ ethanethial
 ethanethiol
 eyey
 evirate
+enteromorpha
 ethanim
 ethanoyl
 ethanol
