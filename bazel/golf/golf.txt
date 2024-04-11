@@ -3050,6 +3050,7 @@ geoform
 gillnet
 geog
 geogen
+gippers
 geogenesis
 geogenetic
 geogeny
@@ -4584,7 +4585,6 @@ gypped
 gipper
 gypper
 gyppery
-gippers
 gyppers
 gippy
 gipping
