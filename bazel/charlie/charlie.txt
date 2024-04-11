@@ -2476,6 +2476,7 @@ cangues
 canham
 canhoop
 cany
+crystalloidal
 canichanan
 canicide
 canicola
@@ -29447,7 +29448,6 @@ crystallographic
 crystallographical
 crystallographically
 crystalloid
-crystalloidal
 crystallology
 crystalloluminescence
 crystallomagnetic
