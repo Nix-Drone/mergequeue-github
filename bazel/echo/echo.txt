@@ -5168,7 +5168,6 @@ endocrinopath
 embosser
 endocrinopathy
 endocrinopathic
-endocrinotherapy
 endocrinous
 endocritic
 endoderm
@@ -6737,6 +6736,7 @@ enterpriseless
 enterprising
 enterprisingly
 enterprisingness
+endocrinotherapy
 enterprize
 eulogiser
 endymion
