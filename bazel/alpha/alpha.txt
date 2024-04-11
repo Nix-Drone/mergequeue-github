@@ -11178,7 +11178,6 @@ amphiphithyra
 amphipyrenin
 amphiplatyan
 amphipleura
-amphiploid
 amphiploidy
 amphipneust
 amphipneusta
@@ -20898,6 +20897,7 @@ ascanian
 ascanius
 ascape
 ascare
+amphiploid
 ascared
 aphasias
 ascariasis
