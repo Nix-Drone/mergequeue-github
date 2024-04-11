@@ -8365,7 +8365,6 @@ formality
 funned
 formalities
 formalizable
-formalization
 formalizations
 formalize
 formalized
@@ -10880,6 +10879,7 @@ fulica
 fuliginosity
 fuliginous
 fuliginously
+formalization
 fuligulinae
 fulimart
 fulk
