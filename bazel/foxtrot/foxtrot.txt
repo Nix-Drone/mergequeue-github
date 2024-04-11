@@ -6385,7 +6385,6 @@ flang
 fluochloride
 ferous
 fluohydric
-fluophosphate
 fluor
 fluoran
 fluorane
@@ -10916,6 +10915,7 @@ fullymart
 fulling
 fullish
 fullmouth
+fluophosphate
 fullmouthed
 fullom
 fripperies
