@@ -4018,7 +4018,6 @@ finishable
 finished
 furrings
 finisher
-finishers
 finishes
 finishing
 finitary
@@ -5993,6 +5992,7 @@ floreted
 florets
 floretty
 flory
+finishers
 floria
 floriage
 florian
