@@ -5412,6 +5412,7 @@ flerrying
 flesh
 fleshbrush
 fleshen
+forker
 fogydom
 flesher
 fleshers
@@ -8302,7 +8303,6 @@ forkable
 forkbeard
 forked
 forkedness
-forker
 forkers
 forkful
 forkfuls
