@@ -3199,7 +3199,6 @@ eltrot
 eluant
 enterophthisis
 eluants
-eluate
 eluated
 eluating
 elucid
@@ -4099,6 +4098,7 @@ empathy
 empathic
 edgrew
 empathies
+eluate
 empathize
 empathized
 empathizes
