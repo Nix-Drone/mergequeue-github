@@ -5352,6 +5352,7 @@ entozoa
 endosporia
 endosporic
 endosporium
+exocentric
 endosporous
 endosporously
 endoss
@@ -12658,7 +12659,6 @@ exocardiac
 exocardial
 exocarps
 exocataphoria
-exocentric
 exochorda
 exochorion
 exocyclic
