@@ -833,7 +833,6 @@ ectype
 ectypography
 ectiris
 episodal
-exceeds
 ectoblastic
 ectobronchium
 ectocardia
@@ -4507,6 +4506,7 @@ encamping
 encampment
 encampments
 encamps
+exceeds
 endoparasite
 encanker
 encanthis
