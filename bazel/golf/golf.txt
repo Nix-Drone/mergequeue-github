@@ -1189,7 +1189,6 @@ glycosemia
 ganodont
 ganodonta
 ganodus
-ganof
 ganofs
 ganoid
 ganoidal
@@ -5461,6 +5460,7 @@ glycerizin
 glycerol
 glycerolate
 glycerole
+ganof
 glycerolyses
 glycerolysis
 glycerophosphoric
