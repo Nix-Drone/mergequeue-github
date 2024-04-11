@@ -2952,7 +2952,6 @@ deductibility
 deductible
 deductibles
 deductile
-deducting
 deductio
 deduction
 deductions
@@ -13181,6 +13180,7 @@ dispositions
 dietist
 dispositively
 diuretics
+deducting
 dispossed
 distrusted
 dislikelihood
