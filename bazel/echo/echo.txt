@@ -1225,7 +1225,6 @@ educible
 educive
 educt
 eduction
-eductor
 eductors
 educts
 excursionists
@@ -5436,6 +5435,7 @@ endoubt
 endoute
 endovaccination
 enclavement
+eductor
 ecclesial
 endovasculitis
 equinox
