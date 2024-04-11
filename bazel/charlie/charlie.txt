@@ -8835,7 +8835,6 @@ chapt
 chaptalization
 chaptalize
 chaptalized
-chaptalizing
 chapter
 chapteral
 chaptered
@@ -24134,6 +24133,7 @@ convincedness
 craneman
 convincement
 convincer
+chaptalizing
 convincers
 convinces
 convincibility
