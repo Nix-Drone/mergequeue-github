@@ -4164,7 +4164,6 @@ gilling
 gillion
 gilliver
 gillnets
-gillnetted
 gillnetting
 gillotage
 good
@@ -7236,6 +7235,7 @@ gorgonize
 greenthumbed
 gorgonlike
 gorgons
+gillnetted
 groggily
 gorgonzola
 gorgosaurus
