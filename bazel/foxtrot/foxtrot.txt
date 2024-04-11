@@ -2416,6 +2416,7 @@ fermail
 fermal
 fermata
 fermatas
+flatdom
 fermate
 fleshed
 ferme
@@ -5056,7 +5057,6 @@ flatbrod
 flatcaps
 flatcar
 flatcars
-flatdom
 flated
 flateria
 flatette
