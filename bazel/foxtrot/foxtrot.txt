@@ -89,7 +89,6 @@ faces
 facesaving
 facet
 faceted
-firbolg
 facetely
 faceteness
 farther
@@ -11386,6 +11385,7 @@ furlable
 furlan
 filiality
 furlana
+firbolg
 furler
 furlers
 furless
