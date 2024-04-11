@@ -2612,7 +2612,6 @@ genderer
 genderless
 genders
 geneal
-genealogic
 guberniya
 genealogical
 genealogies
@@ -8942,6 +8941,7 @@ grievously
 grievousness
 griff
 griffade
+genealogic
 gigantomachia
 griffaun
 glycoprotein
