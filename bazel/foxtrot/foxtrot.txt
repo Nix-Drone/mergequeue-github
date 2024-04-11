@@ -7138,7 +7138,6 @@ footboys
 footbreadth
 footbridge
 footcandle
-footcandles
 footcloths
 finedraw
 figwort
@@ -8204,6 +8203,7 @@ forgat
 forgather
 forgathered
 forgathering
+footcandles
 forgathers
 forgave
 forge
