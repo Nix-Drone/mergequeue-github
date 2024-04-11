@@ -8158,6 +8158,7 @@ diag
 diagenesis
 diagenetic
 diagenetically
+divergence
 diageotropy
 diageotropic
 diageotropism
@@ -14263,7 +14264,6 @@ diverberate
 diverge
 diverged
 divergement
-divergence
 divergences
 divergency
 divergencies
