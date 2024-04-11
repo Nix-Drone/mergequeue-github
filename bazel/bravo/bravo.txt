@@ -9568,6 +9568,7 @@ bluebottles
 birthrate
 birthrates
 birthright
+bundling
 birthrights
 birthroot
 births
@@ -17384,7 +17385,6 @@ bundlers
 bundles
 bundlet
 ballons
-bundling
 bundlings
 bundobust
 bundoc
