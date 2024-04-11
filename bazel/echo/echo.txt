@@ -3353,7 +3353,6 @@ emballonuridae
 embalm
 embalmed
 embalmer
-embalmers
 embalmment
 embanked
 embanking
@@ -7761,6 +7760,7 @@ epicuticle
 epicuticular
 entomotomist
 epideictic
+embalmers
 epideictical
 epideistic
 epidemy
