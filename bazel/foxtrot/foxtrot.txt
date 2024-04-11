@@ -4217,6 +4217,7 @@ firespout
 firestop
 firestopping
 firestorm
+focalisation
 firetail
 firethorn
 firetop
@@ -6647,7 +6648,6 @@ foams
 fobbing
 fobs
 focal
-focalisation
 focalise
 focalised
 focalises
