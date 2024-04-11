@@ -6498,7 +6498,6 @@ benzophenazine
 benzophenol
 benzophenone
 benzophenothiazine
-benzophenoxazine
 benzophloroglucinol
 benzophosphinic
 benzophthalazine
@@ -8894,6 +8893,7 @@ binna
 binnacle
 binnacles
 binned
+benzophenoxazine
 binny
 binnite
 binnogue
