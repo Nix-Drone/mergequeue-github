@@ -1873,7 +1873,6 @@ band
 bandage
 bandaged
 bandager
-bandages
 bandaging
 brakes
 bandagist
@@ -2113,6 +2112,7 @@ banking
 bankings
 bankman
 bankmen
+bandages
 banknote
 banknotes
 bankrider
