@@ -5567,7 +5567,6 @@ fligger
 flight
 fanmaker
 flighted
-flighter
 flightful
 flighty
 flightier
@@ -10275,6 +10274,7 @@ feyness
 frenum
 ferrado
 frog
+flighter
 frogbit
 frogeater
 frogeye
