@@ -3400,7 +3400,6 @@ germanize
 germanized
 gnocchi
 germanizer
-germanly
 germanness
 galleine
 gingeley
@@ -5619,6 +5618,7 @@ glyphic
 gus
 glyphographer
 glyphography
+germanly
 glyphographic
 geopolitically
 glyphs
