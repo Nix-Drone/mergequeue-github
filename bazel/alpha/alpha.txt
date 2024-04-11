@@ -6851,6 +6851,7 @@ aircrew
 aircrewman
 aircrewmen
 aircrews
+aleikum
 airdate
 airdates
 airdock
@@ -7813,7 +7814,6 @@ autostage
 alehouses
 aleyard
 aleikoum
-aleikum
 aleiptes
 aleiptic
 alphitomancy
