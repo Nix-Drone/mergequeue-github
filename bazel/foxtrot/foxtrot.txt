@@ -269,6 +269,7 @@ faddism
 faddisms
 faddist
 faddists
+fac
 faddle
 flopping
 fade
@@ -7731,7 +7732,6 @@ foreinclined
 foreinstruct
 fuchsia
 foreintend
-fac
 flockling
 foreiron
 forejudge
