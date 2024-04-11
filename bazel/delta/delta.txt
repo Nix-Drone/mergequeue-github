@@ -5055,7 +5055,6 @@ denaturalizing
 denaturant
 denaturants
 denaturate
-denaturation
 denaturational
 denature
 denatured
@@ -11927,6 +11926,7 @@ disembodiments
 disembogue
 disembogued
 disemboguement
+denaturation
 disemboguing
 disembowel
 disemboweled
