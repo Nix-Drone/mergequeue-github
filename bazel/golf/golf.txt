@@ -5226,7 +5226,6 @@ glassines
 glassiness
 glassing
 glasslike
-glasslikeness
 glassmaking
 glassman
 glassmen
@@ -8949,6 +8948,7 @@ griffonne
 griffons
 grift
 grifted
+glasslikeness
 grifter
 grifters
 gluttonised
