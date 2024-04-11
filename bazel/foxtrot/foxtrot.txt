@@ -10724,7 +10724,6 @@ frusla
 frust
 fecche
 frusta
-frustrable
 frustraneous
 frustrate
 frustrated
@@ -11426,6 +11425,7 @@ furner
 furnish
 furnishable
 foregather
+frustrable
 furnished
 furnishes
 furnishing
