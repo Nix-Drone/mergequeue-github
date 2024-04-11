@@ -10530,7 +10530,6 @@ amyloids
 amyloleucite
 amylolysis
 amylolytic
-amylom
 amylometer
 amylon
 amylopectin
@@ -17634,6 +17633,7 @@ appears
 appeasable
 appeasableness
 appeasably
+amylom
 appease
 appeased
 appeasement
