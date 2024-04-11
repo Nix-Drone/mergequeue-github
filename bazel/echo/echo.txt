@@ -2482,7 +2482,6 @@ electrolytic
 electrolytical
 electrolytically
 electrolyzability
-electrolyzation
 electrolyze
 electrolyzed
 electrology
@@ -3785,6 +3784,7 @@ expecters
 embull
 embus
 embush
+electrolyzation
 embusy
 embolies
 embusk
