@@ -8114,7 +8114,6 @@ foretopmen
 foretops
 foretrace
 foretriangle
-foretrysail
 foreturn
 foreuse
 foreutter
@@ -9914,6 +9913,7 @@ fry
 friable
 friand
 fructiparous
+foretrysail
 friandise
 flabra
 friar
