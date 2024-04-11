@@ -2852,7 +2852,6 @@ baronies
 baronize
 baronized
 baronnes
-baronry
 baronries
 barons
 briggs
@@ -4741,6 +4740,7 @@ booked
 bedlamise
 bedlamised
 bedlamising
+baronry
 bedlamism
 bedlamite
 bedlamitish
