@@ -18182,7 +18182,6 @@ cofferlike
 coffers
 cofferwork
 coffin
-coffined
 coffing
 coffining
 coffinite
@@ -20649,6 +20648,7 @@ completed
 completely
 cervisia
 completement
+coffined
 completeness
 croftland
 completer
