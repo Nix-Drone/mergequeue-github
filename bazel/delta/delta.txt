@@ -2449,7 +2449,6 @@ deckings
 deckle
 deckman
 deckpipe
-decks
 deckswabber
 decl
 declaim
@@ -13271,6 +13270,7 @@ disputations
 disputatious
 dodecaphonist
 disputatiously
+decks
 disputatiousness
 disputative
 disputativeness
