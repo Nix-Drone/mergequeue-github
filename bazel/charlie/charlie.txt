@@ -7565,7 +7565,6 @@ cerebroid
 cerebrology
 cerebroma
 cerebromalacia
-cerebromedullary
 cerebromeningeal
 cerebromeningitis
 cerebrometer
@@ -30897,6 +30896,7 @@ cumaphytism
 cumar
 cumara
 cumarin
+cerebromedullary
 cumarins
 cumarone
 cumaru
