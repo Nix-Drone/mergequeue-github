@@ -4150,7 +4150,6 @@ firecrackers
 firecrest
 fired
 firedamp
-firedamps
 firedog
 firedragon
 firedrake
@@ -6058,6 +6057,7 @@ florulent
 floscular
 floscularia
 floscularian
+firedamps
 frictionlessness
 flosculariidae
 floscule
