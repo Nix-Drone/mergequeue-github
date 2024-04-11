@@ -1958,6 +1958,7 @@ feeds
 feedsman
 feedstock
 feedstuff
+fringes
 feedstuffs
 feedway
 feedwater
@@ -3743,7 +3744,6 @@ filmize
 filmized
 filmizing
 filmland
-fringes
 filmlands
 filmlike
 filmmake
