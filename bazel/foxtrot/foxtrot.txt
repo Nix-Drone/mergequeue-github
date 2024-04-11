@@ -74,7 +74,6 @@ facellite
 facemaker
 facemaking
 faceman
-facemark
 faceoff
 facepiece
 faceplate
@@ -9308,6 +9307,7 @@ frayedness
 fausant
 fraying
 frayings
+facemark
 fraik
 fraile
 frailejon
