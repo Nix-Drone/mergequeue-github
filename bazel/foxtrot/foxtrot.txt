@@ -5033,7 +5033,6 @@ flashlights
 flashlike
 forellenstein
 flashness
-flashover
 feint
 flashtester
 flashtube
@@ -9430,6 +9429,7 @@ fraser
 franklinite
 franklinization
 franklins
+flashover
 frankmarriage
 frankness
 franseria
