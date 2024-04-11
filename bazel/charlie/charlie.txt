@@ -30437,6 +30437,7 @@ cuarto
 cub
 cuba
 cubages
+cubicovariant
 cubalaya
 cuban
 cubane
@@ -30482,7 +30483,6 @@ cubicle
 cubicles
 cubicone
 cubicontravariant
-cubicovariant
 cubics
 cubicula
 costly
