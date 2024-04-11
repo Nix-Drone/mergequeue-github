@@ -589,7 +589,6 @@ echinorhinus
 elbuck
 echinosphaeritidae
 echinostoma
-echinostomatidae
 echinostome
 echinozoa
 echinulate
@@ -7627,6 +7626,7 @@ epicarid
 epicaridan
 epicaridea
 epicarides
+echinostomatidae
 epicarp
 exauthorize
 epicarpal
