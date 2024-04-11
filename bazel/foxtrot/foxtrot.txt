@@ -5708,6 +5708,7 @@ flypapers
 flypast
 flypasts
 flipe
+friction
 flype
 fliped
 freezers
@@ -9978,7 +9979,6 @@ fricatrice
 forleft
 frickle
 fricti
-friction
 frictionable
 frictional
 frictionally
