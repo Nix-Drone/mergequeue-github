@@ -425,7 +425,6 @@ ecarte
 ecartes
 ecaudata
 ecaudate
-ecb
 ecballium
 ecbasis
 ecbatic
@@ -7351,6 +7350,7 @@ eophyton
 eorhyolite
 eos
 eosate
+ecb
 endurableness
 eosaurus
 eoside
