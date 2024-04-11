@@ -6127,7 +6127,6 @@ flouriness
 flourish
 flourishable
 flourishes
-flourishy
 flourishing
 flourishingly
 flourless
@@ -7950,6 +7949,7 @@ foresheet
 foresheets
 foreshift
 foreship
+flourishy
 foreshock
 favonian
 foreshoe
