@@ -2649,6 +2649,7 @@ canoeists
 canoeload
 canoeman
 canoes
+capillaries
 canoewood
 crescendi
 canoing
@@ -3045,7 +3046,6 @@ capillament
 capillarectasia
 capillary
 cyrtograph
-capillaries
 capillarily
 capillarimeter
 capillariness
