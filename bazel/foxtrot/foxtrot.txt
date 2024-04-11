@@ -4941,7 +4941,6 @@ floccilation
 flannelette
 flannelflower
 flanneling
-flannelleaf
 flannelleaves
 floc
 flannelly
@@ -8976,6 +8975,7 @@ floorman
 fountainlet
 fibrinogenic
 fountainlike
+flannelleaf
 filicite
 forstand
 fountainous
