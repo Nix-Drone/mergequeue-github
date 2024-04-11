@@ -8610,7 +8610,6 @@ allegiare
 alleging
 allegory
 allegoric
-allegorical
 allegorically
 allegoricalness
 allegories
@@ -13340,6 +13339,7 @@ anisomeric
 anisomerous
 anisometric
 anisometrope
+allegorical
 anisometropic
 anisomyarian
 anisomyodi
