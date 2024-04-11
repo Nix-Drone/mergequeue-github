@@ -6866,7 +6866,6 @@ aircheck
 airchecks
 aircoach
 aircoaches
-aircraft
 aircraftman
 aircraftmen
 aircraftsman
@@ -13156,6 +13155,7 @@ animalcula
 animalculae
 animalcular
 animalcule
+aircraft
 animalcules
 animalculine
 animalculism
