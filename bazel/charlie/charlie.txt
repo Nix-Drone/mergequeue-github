@@ -5619,7 +5619,6 @@ catchphrase
 catchpole
 catchpoled
 catchpolery
-catchpoleship
 catchpoling
 catchpoll
 catchpolled
@@ -29188,6 +29187,7 @@ cryptanalyzing
 cryptarch
 cryptarchy
 crypted
+catchpoleship
 crypteronia
 crypteroniaceae
 cryptesthesia
