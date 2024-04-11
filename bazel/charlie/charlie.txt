@@ -4026,7 +4026,6 @@ cardiopneumatic
 cardiopneumograph
 cardioptosis
 cardiopulmonary
-cardiopuncture
 cardiorenal
 cardiorespiratory
 cardiorrhaphy
@@ -5199,6 +5198,7 @@ castagnole
 castalia
 castalian
 castalides
+cardiopuncture
 castalio
 castane
 castanea
