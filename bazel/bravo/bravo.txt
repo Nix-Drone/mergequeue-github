@@ -5181,7 +5181,6 @@ befriend
 befriended
 befriender
 befriending
-befriendment
 befriends
 belinurus
 befrilled
@@ -13750,6 +13749,7 @@ banting
 bowery
 boweries
 boweryish
+befriendment
 bowering
 bowerlet
 bowerlike
