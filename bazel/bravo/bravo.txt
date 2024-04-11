@@ -2817,6 +2817,7 @@ baroness
 baronesses
 baronet
 baronetage
+bookstall
 baronetcy
 baronetcies
 baroneted
@@ -12698,7 +12699,6 @@ bookshelves
 bookshop
 bookshops
 booksy
-bookstall
 bookstand
 bookstore
 bookstores
