@@ -2962,7 +2962,6 @@ acromiohumeral
 acromion
 acromioscapular
 amphibalus
-acromiosternal
 acromiothoracic
 acromyotonia
 acromyotonus
@@ -7966,6 +7965,7 @@ alewife
 alewives
 alex
 askarel
+acromiosternal
 alexander
 alexanders
 alexandra
