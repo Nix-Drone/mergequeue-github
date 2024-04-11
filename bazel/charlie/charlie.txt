@@ -3618,7 +3618,6 @@ carbeen
 carbene
 carberry
 carbethoxy
-carbethoxyl
 carbide
 carbides
 carbyl
@@ -11080,6 +11079,7 @@ calamus
 closured
 chiton
 chitons
+carbethoxyl
 chitosamine
 chitosan
 chitosans
