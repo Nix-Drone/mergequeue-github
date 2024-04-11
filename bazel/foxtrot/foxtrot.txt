@@ -929,7 +929,6 @@ faquirs
 far
 farad
 faraday
-faradaic
 faradays
 faradic
 fratchy
@@ -5094,6 +5093,7 @@ flatness
 flats
 flatted
 flatten
+faradaic
 flattened
 flattening
 flattercap

@@ -2878,7 +2878,6 @@ barothermogram
 bitis
 barothermograph
 barothermohygrogram
-barothermohygrograph
 baroto
 barotrauma
 bulgurs
@@ -3728,6 +3727,7 @@ battarismus
 batteau
 batteaux
 batted
+barothermohygrograph
 battel
 bonnering
 batteler
