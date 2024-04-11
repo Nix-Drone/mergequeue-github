@@ -5742,7 +5742,6 @@ belknap
 bell
 bella
 bellabella
-bellacoola
 belladonna
 bellarmine
 bellatrix
@@ -12253,6 +12252,7 @@ bombast
 bombaster
 bombastic
 bonds
+bellacoola
 bombastical
 behoovefully
 bombastically
