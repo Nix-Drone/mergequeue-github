@@ -3473,7 +3473,6 @@ bastiment
 bastinaded
 bastinades
 baroi
-bastinading
 burbots
 bastinado
 bastinadoed
@@ -3649,6 +3648,7 @@ bathroom
 bathroomed
 bathrooms
 bathroot
+bastinading
 baron
 bathtub
 by
