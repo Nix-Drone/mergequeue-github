@@ -6046,7 +6046,6 @@ glucagon
 guarea
 grieben
 glucagons
-glucate
 glucemia
 glucic
 generalcies
@@ -7213,6 +7212,7 @@ gorgon
 gorgonacea
 gorgonaceous
 gorgoneia
+glucate
 gorgoneion
 glycan
 garau
