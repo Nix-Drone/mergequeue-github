@@ -1988,7 +1988,6 @@ feest
 feet
 feetless
 feeze
-feezed
 feezes
 feezing
 feff
@@ -5665,6 +5664,7 @@ flippery
 flipperling
 flippers
 flippest
+feezed
 faveoli
 flipping
 flyproof
