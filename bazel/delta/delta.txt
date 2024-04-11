@@ -9888,7 +9888,6 @@ diminishable
 diminishableness
 diminished
 diminisher
-diminishing
 diminishingly
 diminishingturns
 dehydrofroze
@@ -15821,6 +15820,7 @@ dorsoapical
 dorsocaudad
 dorsocaudal
 dorsocentral
+diminishing
 dorsocephalad
 dorsocephalic
 dorsocervical
