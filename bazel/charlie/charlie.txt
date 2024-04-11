@@ -6857,7 +6857,6 @@ cemeterial
 cemeteries
 cen
 cenacle
-cenacles
 cenaculum
 cenanthy
 cecily
@@ -13703,6 +13702,7 @@ cymogenes
 cymograph
 cymographic
 cymoid
+cenacles
 cysticercus
 cymoidium
 cymol
