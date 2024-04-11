@@ -356,6 +356,7 @@ digmeat
 damageable
 daydrudge
 dayfly
+denticular
 dayflies
 dayflower
 dayflowers
@@ -5344,7 +5345,6 @@ denticate
 denticeti
 denticle
 denticles
-denticular
 denticulate
 denticulated
 durability
