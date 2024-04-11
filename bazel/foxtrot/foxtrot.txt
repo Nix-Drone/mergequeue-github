@@ -294,7 +294,6 @@ fadingness
 fadings
 fadlike
 fadme
-fogbows
 fadmonger
 fadmongery
 frogstool
@@ -2031,6 +2030,7 @@ feis
 farrandly
 feist
 ferberite
+fogbows
 feisty
 feistier
 feistiest
