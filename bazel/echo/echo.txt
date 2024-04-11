@@ -7116,7 +7116,6 @@ entryman
 enteroid
 entrymen
 entryway
-entryways
 episcopes
 entrochite
 entrochus
@@ -12161,6 +12160,7 @@ extinguishable
 excorticating
 excortication
 explainability
+entryways
 excreation
 excrement
 excremental
