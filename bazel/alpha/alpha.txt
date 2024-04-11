@@ -8675,7 +8675,6 @@ allergen
 allergenic
 allergenicity
 allergia
-allergies
 allergin
 allergins
 attractableness
@@ -17482,6 +17481,7 @@ apostolize
 apostolos
 apostrophal
 apostrophation
+allergies
 apostrophes
 apostrophi
 apostrophic
