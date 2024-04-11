@@ -266,6 +266,7 @@ abdominocardiac
 abdominocentesis
 abdominocystic
 abdominogenital
+arthroderm
 abdominohysterectomy
 abdominohysterotomy
 abdominoposterior
@@ -20565,7 +20566,6 @@ arthrochondritis
 arthroclasia
 arthrocleisis
 arthroclisis
-arthroderm
 arthrodesis
 arthrodia
 arthrodiae
