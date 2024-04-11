@@ -3306,7 +3306,6 @@ emandibulate
 emane
 emanent
 emanium
-emarcid
 emarginate
 emarginated
 emarginating
@@ -6507,6 +6506,7 @@ ensuant
 ensued
 ensues
 ensuing
+emarcid
 ensuingly
 ensulphur
 ensurance
