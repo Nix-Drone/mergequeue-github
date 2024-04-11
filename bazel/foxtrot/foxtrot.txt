@@ -2893,6 +2893,7 @@ feuds
 flagonless
 feudum
 feuillage
+forklike
 feuillants
 feuillemorte
 feuillet
@@ -8313,7 +8314,6 @@ fayed
 fibrillous
 forklift
 forklifts
-forklike
 forkman
 forkmen
 forks
