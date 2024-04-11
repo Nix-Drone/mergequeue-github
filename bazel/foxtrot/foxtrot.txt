@@ -4631,7 +4631,6 @@ fix
 flourisher
 fixable
 fixage
-fixate
 fixated
 fixates
 fixatifs
@@ -10912,6 +10911,7 @@ fulldo
 fulled
 fuller
 fullerboard
+fixate
 fullered
 fullery
 fulleries
