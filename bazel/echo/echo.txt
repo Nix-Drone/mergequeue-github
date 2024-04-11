@@ -4417,6 +4417,7 @@ enamellar
 eau
 equiped
 enfamish
+electrodynamometer
 enamellers
 enamelless
 enamelling
@@ -7735,7 +7736,6 @@ epicortical
 epicostal
 epicotyl
 epicotyleal
-electrodynamometer
 epicotyledonary
 epicotyls
 epicranial
