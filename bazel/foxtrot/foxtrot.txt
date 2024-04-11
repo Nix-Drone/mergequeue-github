@@ -8715,7 +8715,6 @@ fortier
 forties
 fortieth
 fortieths
-fortify
 fortification
 fortifications
 fortifier
@@ -9256,6 +9255,7 @@ fragging
 fraggings
 fragilaria
 fragilariaceae
+fortify
 flaunts
 fragile
 fishpot
