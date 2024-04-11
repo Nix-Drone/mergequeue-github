@@ -4125,7 +4125,6 @@ gilgames
 gilgamesh
 gilgie
 gilguy
-gilgul
 gilgulim
 gilia
 giliak
@@ -7311,6 +7310,7 @@ gospelly
 gospellike
 genys
 gospelmonger
+gilgul
 gospels
 gospelwards
 gosplan
