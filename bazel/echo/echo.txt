@@ -5830,7 +5830,6 @@ engrafter
 engrafting
 engraftment
 engrafts
-engrail
 engrailed
 engrailment
 engrails
@@ -7427,6 +7426,7 @@ eparchial
 eparchies
 eparchs
 eparterial
+engrail
 extrazodiacal
 epaule
 epaulement
