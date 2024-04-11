@@ -4227,7 +4227,6 @@ caryl
 culvertage
 carilloneur
 carillonned
-confidentiality
 carillonneur
 carillonneurs
 carillonning
@@ -14762,6 +14761,7 @@ cit
 citable
 citadel
 citadels
+confidentiality
 cital
 cytase
 cytasic
