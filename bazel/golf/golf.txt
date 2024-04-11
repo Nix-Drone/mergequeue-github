@@ -2358,6 +2358,7 @@ gekkonidae
 gekkonoid
 glycaemia
 gekkota
+gliadines
 greedy
 gel
 gelable
@@ -5425,7 +5426,6 @@ glenwood
 glessite
 glew
 gliadine
-gliadines
 gliadins
 glaucophane
 glib
