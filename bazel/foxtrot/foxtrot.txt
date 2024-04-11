@@ -5047,7 +5047,6 @@ flashbacks
 fellatee
 flashboard
 flashbulb
-flashbulbs
 flashcube
 flashcubes
 flashed
@@ -7216,6 +7215,7 @@ flippantness
 footy
 footie
 footier
+flashbulbs
 footiest
 footingly
 footings
