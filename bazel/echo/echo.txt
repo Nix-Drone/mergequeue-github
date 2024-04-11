@@ -733,7 +733,6 @@ enhydrous
 economy
 economic
 economical
-economically
 equalable
 economics
 economies
@@ -5403,6 +5402,7 @@ endotheliolytic
 endothelioma
 endotheliomas
 endotheliomata
+economically
 endotheliomyoma
 endotheliomyxoma
 endotheliotoxin
