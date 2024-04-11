@@ -20836,7 +20836,6 @@ compotiers
 catarrhally
 compotor
 compound
-compoundable
 compounded
 clar
 compoundedness
@@ -27660,6 +27659,7 @@ cowshard
 cowsharn
 cowshed
 cowsheds
+compoundable
 cowshot
 cowshut
 cowskin
