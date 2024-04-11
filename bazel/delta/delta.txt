@@ -2624,7 +2624,6 @@ decompensation
 decompensations
 decompensatory
 decompiler
-decomponent
 decomponible
 decomposability
 decomposable
@@ -16805,6 +16804,7 @@ drawee
 drawer
 drawerful
 drawers
+decomponent
 drawfile
 dissuited
 drawfiling
