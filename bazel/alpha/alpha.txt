@@ -9958,6 +9958,7 @@ ambiance
 ambiances
 ambicolorate
 ambicoloration
+antinational
 ambidexterity
 ambidexterities
 ambidexterous
@@ -11743,7 +11744,6 @@ analytic
 analytical
 alamanni
 analyticity
-antinational
 analytics
 analytique
 analyzability
