@@ -2476,7 +2476,6 @@ electrolysation
 electrolyse
 everydeal
 electrolysed
-electrolyser
 electrolyses
 electrolysing
 electrolysis
@@ -11465,6 +11464,7 @@ evenmete
 evenmindedness
 evenness
 evennesses
+electrolyser
 epistolizer
 evensongs
 event
