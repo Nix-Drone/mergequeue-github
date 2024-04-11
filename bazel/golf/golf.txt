@@ -950,7 +950,6 @@ gotha
 gametocyst
 gorgonacean
 gametocyte
-gametogenesis
 gametogeny
 gametogenic
 gametogenous
@@ -8795,6 +8794,7 @@ globate
 gm
 glis
 greybeard
+gametogenesis
 grouseless
 greycoat
 greyed
