@@ -6727,7 +6727,6 @@ cellite
 continua
 cellmates
 cello
-cace
 cellobiose
 cubit
 celloid
@@ -11583,6 +11582,7 @@ choledocholithotripsy
 choledochoplasty
 choledochorrhaphy
 choledochostomy
+cace
 choledochostomies
 choledochotomy
 choledochotomies
