@@ -4497,7 +4497,6 @@ beclose
 beclothe
 beclothed
 beclothes
-beclothing
 becloud
 beclouded
 beclouding
@@ -7367,6 +7366,7 @@ betassel
 betatron
 betatrons
 betattered
+beclothing
 betattering
 betatters
 betaxed
