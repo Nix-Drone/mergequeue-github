@@ -6386,7 +6386,6 @@ bakupari
 briguer
 bish
 benzaldehyde
-benzaldiphenyl
 benzaldoxime
 bandeaus
 benzalethylamine
@@ -15954,6 +15953,7 @@ bronchocavernous
 bronchocele
 bronchocephalitis
 bronchoconstriction
+benzaldiphenyl
 bronchoconstrictor
 bronchodilatation
 bronchodilator

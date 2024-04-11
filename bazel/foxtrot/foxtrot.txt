@@ -3574,7 +3574,6 @@ filecard
 filechar
 filed
 filefishes
-filelike
 fogie
 filemaker
 fluidize
@@ -6933,6 +6932,7 @@ folksay
 folksey
 folksy
 folksier
+filelike
 folksiest
 folksily
 flyingly
