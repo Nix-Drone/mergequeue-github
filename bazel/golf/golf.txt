@@ -2230,6 +2230,7 @@ gearshifts
 gearwheel
 gearwheels
 glistening
+gledge
 gease
 geason
 geast
@@ -5375,7 +5376,6 @@ glecoma
 gled
 grottesco
 gledes
-gledge
 gledy
 gleditsia
 gleds
