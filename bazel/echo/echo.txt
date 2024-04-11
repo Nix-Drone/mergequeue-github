@@ -3703,6 +3703,7 @@ embryony
 embryonic
 embryoniferous
 embryoniform
+equals
 embryons
 embryopathology
 embryophagous
@@ -8598,7 +8599,6 @@ equaller
 equally
 equalling
 equalness
-equals
 equangular
 equanimity
 equanimous
