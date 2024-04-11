@@ -7746,6 +7746,7 @@ barege
 bharata
 bharti
 bhat
+bindable
 bhava
 butylation
 bhavan
@@ -10805,7 +10806,6 @@ blin
 blind
 blindage
 blindball
-bindable
 blindcat
 blinded
 blindedly
