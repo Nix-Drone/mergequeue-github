@@ -5268,6 +5268,7 @@ castle
 castled
 castlelike
 castlery
+circumambient
 castles
 castlet
 castleward
@@ -14229,7 +14230,6 @@ circumambages
 circumambagious
 circumambience
 circumambiency
-circumambient
 circumambiently
 circumambulate
 circumambulated
