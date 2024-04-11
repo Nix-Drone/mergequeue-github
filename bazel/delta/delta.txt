@@ -5766,7 +5766,6 @@ depolarize
 depolarized
 depolarizers
 depolarizes
-depolarizing
 depolymerization
 depolymerize
 depolymerized
@@ -8632,6 +8631,7 @@ diastematomyelia
 diaster
 dyaster
 dorsiflexor
+depolarizing
 diastereoisomerism
 diastereomer
 dorts
