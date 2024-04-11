@@ -8854,7 +8854,6 @@ bindles
 bindlet
 bindoree
 binds
-bindweb
 bindweed
 bindwith
 bindwood
@@ -13034,6 +13033,7 @@ boringly
 boringness
 borings
 boris
+bindweb
 borish
 borism
 borith
