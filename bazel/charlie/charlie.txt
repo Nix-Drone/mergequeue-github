@@ -4149,6 +4149,7 @@ carex
 carf
 carfare
 carfares
+ceint
 carfax
 carfloat
 comprizable
@@ -6566,7 +6567,6 @@ ceylonese
 ceylonite
 coosify
 ceils
-ceint
 ceinte
 colligation
 ceinture
