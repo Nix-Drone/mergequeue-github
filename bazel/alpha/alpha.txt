@@ -16610,7 +16610,6 @@ aortectasia
 aortectasis
 aortic
 aorticorenal
-aortism
 aortitis
 aortoclasia
 aortoclasis
@@ -22995,6 +22994,7 @@ attemptive
 attemptless
 attempts
 attend
+aortism
 agglomerations
 attendance
 attendances
