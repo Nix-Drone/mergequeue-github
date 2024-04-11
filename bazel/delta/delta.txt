@@ -467,7 +467,6 @@ daystars
 daystreak
 daytale
 daytide
-daytime
 daytimes
 dayton
 daiva
@@ -4541,6 +4540,7 @@ demicylindrical
 demicircle
 demicircular
 demicivilized
+daytime
 demicolumn
 demicoronal
 demicritic
