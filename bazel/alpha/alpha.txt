@@ -5099,7 +5099,6 @@ aeroplane
 aeroplaner
 aeroplanes
 aeroplanist
-aeroplankton
 aeropleustic
 aeropulse
 aerosat
@@ -12431,6 +12430,7 @@ androphyll
 androphore
 androphorous
 androphorum
+aeroplankton
 andropogon
 androsace
 anthocephalous
