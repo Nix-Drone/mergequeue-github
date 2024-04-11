@@ -3709,7 +3709,6 @@ dehydrochlorination
 dehydrocorydaline
 dehydrocorticosterone
 dehydroffroze
-dehydroffrozen
 dehydrofreeze
 dehydrofreezing
 dehydrofrozen
@@ -3989,6 +3988,7 @@ delectate
 delectated
 distune
 delectating
+dehydroffrozen
 delectations
 delectible
 delectus
