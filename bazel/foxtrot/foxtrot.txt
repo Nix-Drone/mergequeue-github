@@ -10390,6 +10390,7 @@ frontages
 frontal
 facewise
 frontalis
+fuzziness
 frontally
 footgeld
 filagree
@@ -11735,7 +11736,6 @@ fuzzy
 fuzzier
 fuzziest
 fuzzily
-fuzziness
 fuzzing
 fuzzle
 fuzztail
