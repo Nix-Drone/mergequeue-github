@@ -3353,7 +3353,6 @@ basketlike
 basketmaker
 basketmaking
 buyback
-basketry
 basketries
 baskets
 basketware
@@ -15228,6 +15227,7 @@ bridelike
 bridelope
 bridemaid
 bridemaiden
+basketry
 bridemaidship
 brides
 basiated
