@@ -5351,7 +5351,6 @@ begrease
 begrett
 begrim
 begrime
-begrimed
 begrimer
 begrimes
 begriming
@@ -14054,6 +14053,7 @@ brachyprosopic
 brachypterous
 brachyrrhinia
 brachysclereid
+begrimed
 brachyskelic
 brachysm
 brachystaphylic
