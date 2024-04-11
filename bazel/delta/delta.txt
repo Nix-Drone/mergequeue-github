@@ -5614,7 +5614,6 @@ dependance
 dependancy
 dependant
 dependantly
-depended
 dependence
 dependency
 dependencies
@@ -13722,6 +13721,7 @@ distalia
 distalwards
 distance
 distanced
+depended
 distanceless
 distancy
 distancing
