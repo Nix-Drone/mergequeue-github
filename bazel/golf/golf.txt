@@ -4819,7 +4819,6 @@ gyroidal
 gidgee
 gyrolith
 gyroma
-gyromagnetic
 glutted
 galvanoplastical
 geologise
@@ -8391,6 +8390,7 @@ gratulation
 gratulatory
 gratulatorily
 graunt
+gyromagnetic
 graupel
 grudgers
 graupels
