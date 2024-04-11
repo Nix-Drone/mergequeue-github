@@ -5468,7 +5468,6 @@ glycerolyses
 glycerolysis
 glycerophosphoric
 glycerose
-glyceroxide
 glycic
 glycid
 glycide
@@ -7449,6 +7448,7 @@ gourdes
 gourdful
 gourdhead
 gourdy
+glyceroxide
 globularly
 gourdiness
 gourding
