@@ -3901,7 +3901,6 @@ finebent
 franchisal
 finecomb
 fined
-finedrawing
 fineish
 fineleaf
 fineless
@@ -4537,6 +4536,7 @@ fitnesses
 feudalised
 fitout
 fitroot
+finedrawing
 fits
 fittage
 fytte
