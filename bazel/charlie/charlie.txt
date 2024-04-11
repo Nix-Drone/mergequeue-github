@@ -22344,7 +22344,6 @@ conic
 conical
 conicality
 conically
-conicalness
 conycatcher
 chordally
 conicein
@@ -25815,6 +25814,7 @@ corset
 corseted
 corsetier
 corsetiere
+conicalness
 corseting
 corsetless
 corsetry
