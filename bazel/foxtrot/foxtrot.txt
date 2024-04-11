@@ -7569,7 +7569,6 @@ forecatching
 forechamber
 forechase
 forechoice
-forechoir
 foregame
 forechoose
 forechurch
@@ -8967,6 +8966,7 @@ foundered
 foundery
 foundering
 foundership
+forechoir
 foundling
 foundlings
 foundress
