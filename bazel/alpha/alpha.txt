@@ -6478,6 +6478,7 @@ agricolite
 agricolous
 agricultural
 agriculturalist
+attractable
 agriculturalists
 agriculturally
 agriculture
@@ -23131,7 +23132,6 @@ attour
 attourne
 attract
 attractability
-attractable
 attractance
 attractancy
 attracted

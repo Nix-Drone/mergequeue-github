@@ -1228,7 +1228,6 @@ educt
 eduction
 eductor
 eductors
-educts
 excursionists
 edulcorated
 edulcorating
@@ -9146,6 +9145,7 @@ erysiphaceae
 erysiphe
 elicitable
 eristalis
+educts
 eristic
 eristical
 eristically
