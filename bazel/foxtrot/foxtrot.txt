@@ -27,6 +27,7 @@ fabric
 furs
 fabricable
 fabricant
+foretelling
 fabricated
 fabricates
 fabricating
@@ -8090,7 +8091,6 @@ foretellable
 fathogram
 foreteller
 foretellers
-foretelling
 foretells
 forethink
 forethinking
