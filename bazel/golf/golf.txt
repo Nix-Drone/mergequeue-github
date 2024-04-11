@@ -1949,7 +1949,6 @@ gather
 gatherable
 gastrogenous
 gathered
-gatherer
 gatherers
 gatherings
 gatherum
@@ -2993,6 +2992,7 @@ geobotanic
 goitre
 glutetei
 geocarpic
+gatherer
 geocentric
 glycollic
 geocentrical
