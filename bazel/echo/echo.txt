@@ -5652,7 +5652,6 @@ enforces
 enforcibility
 enforcible
 enforcingly
-enforcive
 enforcively
 enforest
 enfork
@@ -7749,6 +7748,7 @@ engagingly
 epics
 epictetian
 epicure
+enforcive
 epicurean
 epicureans
 excusation
