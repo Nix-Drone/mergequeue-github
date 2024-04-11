@@ -74,7 +74,6 @@ facellite
 facemaker
 facemaking
 faceman
-facemark
 faceoff
 facepiece
 faceplate
@@ -145,6 +144,7 @@ facsimiled
 facsimileing
 facsimiles
 facsimiling
+forcers
 frailly
 facsimilist
 facsimilize
@@ -321,7 +321,6 @@ fayalites
 fayence
 faiences
 fayettism
-faying
 faikes
 fail
 failance
@@ -1546,6 +1545,7 @@ fictor
 fautorship
 fauves
 fauvette
+fogman
 fauvism
 fauvisms
 fauvist
@@ -1765,6 +1765,7 @@ featherpate
 featherpated
 feathers
 featherstitch
+faying
 facetiousness
 featherstitching
 feathertop
@@ -2025,7 +2026,6 @@ feijoa
 feil
 feyness
 feynesses
-feinschmecker
 filacer
 feinschmeckers
 feinted
@@ -2983,6 +2983,7 @@ feverweed
 feverwort
 few
 fewer
+fouquieria
 fewest
 fewmand
 fewmets
@@ -4632,7 +4633,6 @@ fix
 flourisher
 fixable
 fixage
-fixate
 fixated
 fixates
 fixatifs
@@ -4880,6 +4880,7 @@ flamant
 flamb
 flambage
 flambant
+frankfurter
 flambe
 flambeau
 flambeaus
@@ -5275,6 +5276,7 @@ flavour
 flavoured
 flavourer
 flavourful
+foldboater
 flavourfully
 flavoury
 festive
@@ -5294,6 +5296,7 @@ flawier
 flawiest
 flawing
 flawless
+furloughs
 flawlessly
 fergusite
 flawlessness
@@ -5465,7 +5468,6 @@ flerrying
 flesh
 fleshbrush
 fogydom
-flesher
 fleshers
 fleshes
 felahin
@@ -6050,7 +6052,6 @@ floressence
 floret
 floreta
 florets
-floretty
 floretum
 flory
 floria
@@ -6058,6 +6059,7 @@ floriage
 florian
 floriate
 floriated
+furcellate
 floriation
 floribunda
 florican
@@ -6123,6 +6125,7 @@ floscular
 floscularia
 floscularian
 flosculariidae
+flesher
 floscule
 flosculet
 flosculose
@@ -6813,7 +6816,6 @@ fogyisms
 fogless
 foolship
 foglietto
-fogman
 fogmen
 fogo
 fogon
@@ -6882,7 +6884,6 @@ foldage
 foresettle
 foldaway
 foldboat
-foldboater
 farmings
 foldboating
 foldboats
@@ -7288,7 +7289,6 @@ footsoldiers
 footsore
 footsoreness
 footsores
-footstalk
 forecasts
 footstall
 footstep
@@ -7454,7 +7454,6 @@ forcepses
 forcepslike
 forceput
 forcer
-forcers
 forces
 forcet
 forchase
@@ -8273,6 +8272,7 @@ forgettably
 forgette
 forgetter
 forgettery
+floretty
 forgetters
 forgettingly
 forgie
@@ -9002,7 +9002,6 @@ fountains
 fountainwise
 fountful
 founts
-fouquieria
 fouquieriaceae
 fouquieriaceous
 four
@@ -9310,6 +9309,7 @@ frayedness
 fausant
 fraying
 frayings
+facemark
 fraik
 fraile
 frailejon
@@ -9410,6 +9410,7 @@ frangulin
 franion
 frank
 frankability
+footstalk
 frankalmoign
 frankalmoigne
 frankalmoin
@@ -9427,7 +9428,6 @@ frankfort
 frankforter
 falsidical
 frankfurt
-frankfurter
 frankfurters
 frankhearted
 frankheartedly
@@ -9872,7 +9872,6 @@ foundries
 freshens
 fresher
 freshes
-freshest
 freshet
 freshets
 fioritura
@@ -10064,6 +10063,7 @@ frightless
 frightment
 frights
 frightsome
+feinschmecker
 frigid
 frigidaire
 frigidaria
@@ -10332,6 +10332,7 @@ frognose
 fleshly
 frogs
 frogskin
+freshest
 frogskins
 frogspawn
 frogtongue
@@ -10912,6 +10913,7 @@ fulldo
 fulled
 fuller
 fullerboard
+fixate
 fullered
 fullery
 fulleries
@@ -11339,7 +11341,6 @@ furcates
 furcating
 furcation
 fellen
-furcellate
 furciferine
 frabous
 furciferous
@@ -11413,7 +11414,6 @@ fluoroscope
 furlough
 furloughed
 furloughing
-furloughs
 furls
 furmenty
 furmenties

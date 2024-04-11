@@ -389,7 +389,6 @@ ebrillade
 ebriose
 ebriosity
 ebrious
-ebriously
 ebullate
 ebulliate
 ebullience
@@ -869,7 +868,6 @@ ectogenic
 ectogenous
 ectoglia
 ectognatha
-ectolecithal
 ectomere
 ectomeres
 ectomeric
@@ -1904,6 +1902,7 @@ eyne
 einkanter
 einkorn
 einsteinian
+enclasps
 einsteinium
 eyot
 eyoty
@@ -2029,7 +2028,6 @@ elaborator
 elaboratory
 expiatory
 elaborators
-elabrate
 elachista
 elachistaceae
 elachistaceous
@@ -2188,6 +2186,7 @@ elder
 elderberries
 emissitious
 elderbrotherish
+endoproctous
 elderbrotherly
 elderbush
 elderly
@@ -2265,6 +2264,7 @@ electorial
 electors
 electorship
 electra
+encouragers
 electragy
 electragist
 electral
@@ -2392,6 +2392,7 @@ electrodialitically
 electrodialyze
 electrodynamic
 electrodynamical
+endovasculitis
 electrodynamics
 electrodynamism
 electrodiplomatic
@@ -2583,6 +2584,7 @@ electrophoric
 electrophoridae
 electrophorus
 electrophotographic
+enthuses
 eras
 exempla
 electrophotometry
@@ -2606,6 +2608,7 @@ electropositive
 electropower
 electropsychrometer
 electropult
+exoplasm
 electropuncturation
 electropuncture
 electropuncturing
@@ -2632,7 +2635,6 @@ electrosynthetic
 electrosynthetically
 electrosmosis
 electrostatic
-electrostatical
 electrostatics
 electrosteel
 electrostenolysis
@@ -2985,6 +2987,7 @@ elysee
 elisha
 elishah
 elysia
+epigastrium
 elysian
 elysiidae
 elision
@@ -3028,7 +3031,6 @@ everich
 eliza
 elizabeth
 elizabethan
-elizabethanism
 elizabethanize
 elizabethans
 elkanah
@@ -3479,7 +3481,6 @@ emblazonments
 emblazonry
 emblazons
 emblem
-emblematic
 escandalize
 emblematical
 emblematically
@@ -4183,6 +4184,7 @@ empirism
 epitoniidae
 euthymy
 empiristic
+elabrate
 empyromancy
 emplace
 emplaced
@@ -4527,7 +4529,6 @@ encarpium
 encarpus
 encarpuspi
 encased
-encasement
 encases
 euryzygous
 encash
@@ -4557,6 +4558,7 @@ enceintes
 encelia
 encell
 entozoology
+engraff
 encense
 encenter
 encephala
@@ -4766,7 +4768,6 @@ enclaret
 enclasp
 enclasped
 enclasping
-enclasps
 enclave
 enclaved
 enclaves
@@ -4865,7 +4866,6 @@ extremist
 encouragements
 ephydriad
 expertise
-encouragers
 encourages
 entertain
 encouraging
@@ -5167,7 +5167,6 @@ endocrinopath
 embosser
 endocrinopathy
 endocrinopathic
-endocrinotherapy
 endocrinous
 endocritic
 endoderm
@@ -5292,7 +5291,6 @@ endopods
 endopolyploidy
 endoproct
 endoprocta
-endoproctous
 endopsychic
 endopterygota
 endopterygote
@@ -5437,7 +5435,6 @@ endoute
 endovaccination
 enrank
 enclavement
-endovasculitis
 equinox
 endovenous
 endow
@@ -5823,6 +5820,7 @@ engouee
 excrements
 engouement
 engouled
+electrostatical
 engoument
 engr
 ebonizing
@@ -6060,6 +6058,7 @@ enlighteners
 enlightening
 enlightenment
 enlightenments
+extremistic
 enlightens
 enlimn
 enlinked
@@ -6329,6 +6328,7 @@ enrollment
 enrollments
 enrolls
 enrolment
+ectolecithal
 enroot
 enrooted
 enroots
@@ -6737,6 +6737,7 @@ enterpriseless
 enterprising
 enterprisingly
 enterprisingness
+endocrinotherapy
 enterprize
 eulogiser
 endymion
@@ -6802,7 +6803,6 @@ enthronized
 enthronizing
 enthuse
 enthused
-enthuses
 enthusiasm
 enthusiasms
 enthusiast
@@ -6965,7 +6965,6 @@ entopterygoid
 entoptic
 entoptical
 entoptically
-engraff
 entoptics
 entoptoscope
 entoptoscopy
@@ -7302,6 +7301,7 @@ enzone
 enzooty
 enzootic
 enzootics
+extollers
 eo
 extravascular
 eoan
@@ -7489,6 +7489,7 @@ epha
 ephahs
 ecphorize
 epharmony
+esparsette
 epharmonic
 ephas
 ephebe
@@ -7727,6 +7728,7 @@ epictetian
 epicure
 epicurean
 epicureans
+extraplacental
 epicures
 epicurish
 epicurishly
@@ -7827,7 +7829,6 @@ epigastrial
 epigastric
 epigastrical
 epigastriocele
-epigastrium
 epigastrocele
 epigeal
 epigean
@@ -7983,6 +7984,7 @@ epimandibular
 epimanikia
 epimanikion
 epimedium
+ebriously
 epimenidean
 epimer
 epimeral
@@ -8774,6 +8776,7 @@ equisetum
 equisided
 equisignal
 equisized
+extincteur
 equison
 equisonance
 equisonant
@@ -9119,6 +9122,7 @@ eryops
 eryopsid
 eriosoma
 ephemera
+elizabethanism
 eriphyle
 eris
 europhium
@@ -9355,7 +9359,6 @@ errabund
 errancy
 errancies
 errand
-errant
 errantia
 errantly
 errantness
@@ -9785,7 +9788,6 @@ espanol
 espanoles
 espantoon
 esparcet
-esparsette
 esparto
 emanates
 espartos
@@ -9916,6 +9918,7 @@ esses
 essexite
 essie
 essive
+errant
 essling
 essoign
 essoin
@@ -11487,7 +11490,6 @@ event
 eventail
 eventful
 eventfully
-eventfulness
 eventide
 exuvia
 eventides
@@ -11610,6 +11612,7 @@ evilest
 exoergic
 eviller
 evillest
+eventfulness
 evilly
 evilmouthed
 evilness
@@ -12767,7 +12770,6 @@ exophthalmia
 exophthalmic
 exophthalmos
 exophthalmus
-exoplasm
 exopod
 exopodite
 exopoditic
@@ -12798,6 +12800,7 @@ endoplasm
 exorcisers
 exorcises
 exorcism
+emblematic
 exorcisms
 exorcisory
 exorcist
@@ -12927,6 +12930,7 @@ expansivity
 expansum
 expansure
 expatiate
+encasement
 expatiater
 expatiates
 expatiating
@@ -13669,7 +13673,6 @@ extima
 extimulate
 extinct
 extincted
-extincteur
 extincting
 expt
 encephalomeningitis
@@ -13719,7 +13722,6 @@ emraud
 extollation
 extolled
 extoller
-extollers
 epididymectomy
 extolling
 extollingly
@@ -13921,7 +13923,6 @@ extraperitoneal
 extraphysical
 extrapyramidal
 extrapituitary
-extraplacental
 extraplanetary
 extrapoetical
 extrapolar
@@ -14054,7 +14055,6 @@ ectoprocta
 extremest
 extremis
 extremism
-extremistic
 extremists
 extremital
 extremities

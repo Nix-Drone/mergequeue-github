@@ -1891,7 +1891,6 @@ acenaphthenyl
 acenaphthylene
 acenesthesia
 acensuada
-acensuador
 acentric
 appendice
 annexable
@@ -3355,6 +3354,7 @@ acutenaculum
 acuter
 acutes
 acutest
+araneology
 acutiator
 acutifoliate
 acutilingual
@@ -3467,7 +3467,6 @@ adaty
 adatis
 adatom
 adaunt
-adawe
 adawlut
 adawn
 adaxial
@@ -3703,7 +3702,6 @@ adenoiditis
 adenoids
 adenolymphocele
 adenolymphoma
-adenoliomyofibroma
 adenolipoma
 adenolipomatosis
 adenologaditis
@@ -4473,6 +4471,7 @@ adullam
 adullamite
 adult
 adulter
+agnized
 adulterant
 adulterate
 adulterated
@@ -5563,6 +5562,7 @@ africanthropus
 afridi
 afright
 afrikaans
+adawe
 afrikander
 afrikanderdom
 afrikanderism
@@ -6293,7 +6293,6 @@ alternations
 agnification
 agnition
 agnize
-agnized
 agnizes
 agnoetae
 agnoete
@@ -7810,6 +7809,7 @@ alectoromorphous
 alectoropodes
 alectoropodous
 alectryomachy
+antihydropic
 alectryomancy
 alectrion
 alectryon
@@ -9108,6 +9108,7 @@ almicore
 almida
 almight
 arpanet
+adenoliomyofibroma
 almighty
 almightily
 almightiness
@@ -9402,7 +9403,6 @@ alstonidine
 alstonine
 alstonite
 alstroemeria
-alsweill
 alswith
 alt
 altaian
@@ -9827,7 +9827,6 @@ amassing
 amassment
 amassments
 anomocarpous
-amasta
 amasthenic
 amasty
 amate
@@ -9881,6 +9880,7 @@ amazon
 amazona
 amazonian
 amazonism
+anticorona
 amazonite
 amazons
 amazulu
@@ -10294,7 +10294,6 @@ americawards
 americium
 americomania
 americophobe
-amerikani
 amerimnon
 amerind
 amerindian
@@ -11010,6 +11009,7 @@ amperian
 amperometer
 amperometric
 abstinent
+acensuador
 ampersand
 ampersands
 amphanthia
@@ -13116,6 +13116,7 @@ anilide
 anilidic
 anilidoxime
 aniliid
+anticovenanter
 anilin
 anilinctus
 aniline
@@ -13672,6 +13673,7 @@ annulosa
 annulosan
 annulose
 annuls
+austerlitz
 annulus
 annuluses
 aerotow
@@ -14003,6 +14005,7 @@ antagonising
 antagonism
 antagonisms
 antagonist
+axiopisty
 antagonistic
 antagonistical
 antagonistically
@@ -14275,6 +14278,7 @@ anterofixation
 anteroflexion
 anterofrontal
 anterograde
+anteroparietal
 anteroinferior
 anterointerior
 anterointernal
@@ -14284,7 +14288,6 @@ anteromedial
 anteromedian
 anteroom
 anterooms
-anteroparietal
 anteropygal
 anteroposterior
 anteroposteriorly
@@ -14610,6 +14613,7 @@ anthropomorphist
 anthropomorphitic
 anthropomorphitical
 anthropomorphitism
+alsweill
 anthropomorphization
 anthropomorphize
 anthropomorphized
@@ -14642,6 +14646,7 @@ anthropophagite
 anthropophagize
 anthropophagous
 anthropophagously
+amasta
 anthropophagus
 anthropophilous
 anthropophysiography
@@ -14697,6 +14702,7 @@ antiagglutinative
 antiagglutinin
 antiaggression
 antiaggressionist
+antitragus
 antiaggressive
 arrouse
 antiaggressively
@@ -14873,6 +14879,7 @@ antichloristic
 antichlorotic
 anticholagogue
 anticholinergic
+arsenicalism
 anticholinesterase
 antichoromanic
 antichorus
@@ -15037,7 +15044,6 @@ anticonvulsant
 anticonvulsive
 anticor
 anticorn
-anticorona
 anticorrosion
 anticorrosive
 anticorrosively
@@ -15052,7 +15058,6 @@ anticouncil
 anticourt
 anticourtier
 anticous
-anticovenanter
 anticovenanting
 anticreational
 anticreationism
@@ -15359,7 +15364,6 @@ antiheroic
 antiheroism
 azulejo
 antihydrophobic
-antihydropic
 ambitionlessly
 antihydropin
 antihidrotic
@@ -16229,7 +16233,6 @@ antismut
 antisnapper
 antisnob
 antisocial
-antisocialist
 antisocialistic
 antisocialistically
 antisociality
@@ -16373,7 +16376,6 @@ antitragal
 antitragi
 antitragic
 antitragicus
-antitragus
 antitrinitarian
 antitrypsin
 antitryptic
@@ -16828,6 +16830,7 @@ aphemia
 aphemic
 aphengescope
 aphengoscope
+antisocialist
 aphenoscope
 apheresis
 apheretic
@@ -18459,7 +18462,6 @@ araneiformes
 aranein
 araneina
 araneoidea
-araneology
 araneologist
 araneous
 aranga
@@ -20352,7 +20354,6 @@ arsacidan
 arsanilic
 arsenic
 arsenical
-arsenicalism
 arsenicate
 arsenicated
 arsenicating
@@ -20629,6 +20630,7 @@ arthropods
 arthropomata
 arthropterous
 arthrorheumatism
+amerikani
 arthrorrhagia
 agistor
 arthrosclerosis
@@ -23691,7 +23693,6 @@ austerest
 aquashow
 austerity
 austerities
-austerlitz
 austerus
 austin
 amidothiazole
@@ -24775,6 +24776,7 @@ avifauna
 avifaunae
 avifaunal
 avifaunally
+andron
 armaments
 avifaunas
 avifaunistic
@@ -25130,7 +25132,6 @@ amazer
 axiomatizing
 axioms
 axion
-axiopisty
 axis
 axised
 axises
@@ -25395,5 +25396,4 @@ azury
 azurine
 azurite
 azurmalachite
-andron
 azurous
