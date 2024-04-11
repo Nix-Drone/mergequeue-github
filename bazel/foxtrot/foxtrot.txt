@@ -4947,7 +4947,6 @@ flanneling
 flannelleaf
 flannelleaves
 floc
-flannelly
 flannelling
 flannelmouth
 flannelmouthed
@@ -11103,6 +11102,7 @@ firemaster
 functionalize
 functionalized
 functionalizing
+flannelly
 functionals
 functionary
 fableist
