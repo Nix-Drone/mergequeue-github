@@ -13556,6 +13556,7 @@ disshadow
 dissheathe
 dissheathed
 disship
+devilward
 disshiver
 disshroud
 dissidence
@@ -15258,7 +15259,6 @@ dolts
 dolus
 dolven
 dom
-devilward
 defaulter
 domage
 domain

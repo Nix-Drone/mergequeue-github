@@ -6113,7 +6113,6 @@ enmask
 enmesh
 enmeshed
 enmeshes
-enmeshing
 enmeshment
 enmeshments
 estated
@@ -6998,6 +6997,7 @@ engraff
 entoptics
 entoptoscope
 entoptoscopic
+enmeshing
 entorganism
 entosclerite
 enjoyableness
