@@ -5411,6 +5411,7 @@ flesh
 fleshbrush
 fleshen
 fogydom
+forgeful
 flesher
 fleshers
 fleshes
@@ -8205,7 +8206,6 @@ forge
 forgeability
 forgeable
 forged
-forgeful
 forgery
 forgeries
 forgers
