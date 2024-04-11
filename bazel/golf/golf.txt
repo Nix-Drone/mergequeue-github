@@ -824,7 +824,6 @@ galvanoscopic
 guestling
 galvanosurgery
 galvanotaxis
-galvanotherapy
 galvanothermy
 galvanothermometer
 galvanotonic
@@ -9277,6 +9276,7 @@ gatling
 grogginess
 grogging
 grogram
+galvanotherapy
 grograms
 grogs
 gouaches
