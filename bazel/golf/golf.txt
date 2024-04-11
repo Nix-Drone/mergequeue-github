@@ -3087,7 +3087,6 @@ geoid
 geoidal
 geoids
 geoisotherm
-geol
 geolatry
 geologer
 geologers
@@ -6468,6 +6467,7 @@ gobbin
 gobbing
 galvanometry
 gobble
+geol
 gobbled
 gobbledegook
 gobbledygook
