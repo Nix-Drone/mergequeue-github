@@ -5983,6 +5983,7 @@ catso
 catsos
 catspaw
 catspaws
+circularizes
 catstane
 catstep
 catstick
@@ -14204,7 +14205,6 @@ circularize
 circularized
 circularizer
 circularizers
-circularizes
 circularizing
 circularly
 circularness
