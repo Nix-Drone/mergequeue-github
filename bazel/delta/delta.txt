@@ -6459,7 +6459,6 @@ descend
 descendability
 descendable
 descendance
-descendant
 descendants
 dilemmatically
 descendence
@@ -16136,6 +16135,7 @@ dourness
 dournesses
 douroucouli
 douse
+descendant
 doused
 douser
 dousers
