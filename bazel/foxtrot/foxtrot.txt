@@ -5041,7 +5041,6 @@ flashtubes
 flask
 ferricyanhydric
 flasker
-fortitudes
 foretooth
 forthbringer
 flaskets
@@ -11474,6 +11473,7 @@ furrow
 flaccidly
 furrowed
 furrower
+fortitudes
 furrowers
 furrowy
 furrowing
