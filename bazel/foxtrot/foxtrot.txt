@@ -5978,7 +5978,6 @@ fala
 floorcloths
 floored
 floorer
-floorhead
 flooring
 floorings
 forementioned
@@ -8868,6 +8867,7 @@ fossilised
 frameableness
 fossilising
 fossilism
+floorhead
 fossilist
 fossilizable
 fossilization
