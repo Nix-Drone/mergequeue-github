@@ -6870,7 +6870,6 @@ aircraftmen
 aircraftsman
 aircraftsmen
 aircraftswoman
-aircraftswomen
 aircraftwoman
 ahint
 aircrew
@@ -15369,6 +15368,7 @@ antihierarchies
 antihierarchism
 antihygienic
 antihygienically
+aircraftswomen
 antihylist
 antihypertensive
 antihypertensives
