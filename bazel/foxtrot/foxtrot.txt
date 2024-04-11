@@ -4484,6 +4484,7 @@ fistmele
 forecounsel
 fistnotes
 fibre
+footfault
 fishhold
 fists
 fistuca
@@ -7151,7 +7152,6 @@ footfall
 ferruling
 footfalls
 footfarer
-footfault
 footfeed
 footfolk
 foveolated
