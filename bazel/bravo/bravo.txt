@@ -10735,7 +10735,6 @@ blepharoplastic
 blepharoplegia
 blepharoptosis
 blepharorrhaphy
-blepharosymphysis
 blepharosyndesmitis
 blepharosynechia
 blepharospasm
@@ -16386,6 +16385,7 @@ bruskly
 bruskness
 benames
 brusque
+blepharosymphysis
 brusquely
 brusqueness
 brusquerie
