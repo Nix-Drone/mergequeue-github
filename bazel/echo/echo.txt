@@ -5478,7 +5478,6 @@ endura
 exotisms
 eparchate
 endurability
-endurable
 endurably
 endurance
 endurant
@@ -9691,6 +9690,7 @@ esguard
 eshin
 esiphonal
 episterna
+endurable
 enfaced
 emulgens
 energised
