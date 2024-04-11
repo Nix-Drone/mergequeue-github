@@ -5589,7 +5589,6 @@ bel
 bela
 belabor
 basementward
-belabored
 bruscus
 belaboring
 belabour
@@ -15911,6 +15910,7 @@ bromometric
 bromometrical
 bromometrically
 bromonaphthalene
+belabored
 bromopicrin
 bromopikrin
 bromoprotein
