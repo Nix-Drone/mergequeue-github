@@ -5542,7 +5542,6 @@ glycosuric
 glycuresis
 glycuronic
 glycuronid
-glycuronide
 graph
 glidder
 gliddery
@@ -7627,6 +7626,7 @@ grad
 gradable
 gradal
 gradate
+glycuronide
 gradates
 gradatim
 gradating
