@@ -3461,7 +3461,6 @@ fiftypenny
 figary
 figaro
 figbird
-figeater
 figent
 frag
 figeter
@@ -4695,6 +4694,7 @@ flabrum
 flabs
 flaccid
 flaccidity
+figeater
 flaccidness
 flachery
 flacian
