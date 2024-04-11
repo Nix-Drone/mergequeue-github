@@ -7254,7 +7254,6 @@ daylighting
 detersiveness
 detest
 detestability
-detestable
 detestableness
 detestation
 dominate
@@ -17720,6 +17719,7 @@ densitometers
 dubiousness
 dubitable
 dubitably
+detestable
 dubitancy
 dubitant
 duendes
