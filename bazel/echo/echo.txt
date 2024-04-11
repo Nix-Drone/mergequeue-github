@@ -2666,6 +2666,7 @@ electrotellurograph
 electrotest
 electrothanasia
 electrothanatosis
+exogens
 electrotherapeutical
 electrotherapeutist
 edaphodont
@@ -12712,7 +12713,6 @@ exogenic
 exogenism
 exogenous
 exogenously
-exogens
 exogyra
 exognathion
 exognathite
