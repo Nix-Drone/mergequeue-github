@@ -23833,6 +23833,7 @@ authorized
 authorizer
 authorizers
 authorizes
+autostethoscope
 authorizing
 authorless
 authorly
@@ -24389,7 +24390,6 @@ autosporic
 autospray
 autostability
 autostarter
-autostethoscope
 autostyly
 autostylic
 airmanship
