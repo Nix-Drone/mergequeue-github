@@ -11558,7 +11558,6 @@ boardinghouse
 boardings
 boardly
 boardlike
-boardman
 boardmanship
 boardmen
 boardroom
@@ -12639,6 +12638,7 @@ ballistics
 bookbindery
 baianism
 bookbinderies
+boardman
 bookbinders
 bookbinding
 bookboard
