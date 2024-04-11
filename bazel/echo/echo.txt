@@ -4617,7 +4617,6 @@ encephaloscopy
 encapsulated
 encephalosepsis
 encephalospinal
-externize
 encephalothlipsis
 encephalotome
 encephalotomy
@@ -6354,6 +6353,7 @@ enruin
 enrut
 ens
 ensafe
+externize
 ensalada
 elenchtic
 ensampler
