@@ -6064,7 +6064,6 @@ agglutinogenic
 agglutinoid
 agglutinoscope
 agglutogenic
-aggrace
 aggradation
 aggrade
 aggraded
@@ -19503,6 +19502,7 @@ argentometer
 affeeble
 argentometry
 argentometric
+aggrace
 argentometrically
 argenton
 argentoproteinum
