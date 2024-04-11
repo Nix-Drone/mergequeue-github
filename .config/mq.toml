@@ -25,6 +25,8 @@ max_impacted_deps = 2
 logical_conflict_every = 118
 logical_conflict_file = "logical-conflict.txt"
 
+close_stale_after = "24 hours"
+
 [merge]
 # label to apply to pull request to queue
 labels = ""
