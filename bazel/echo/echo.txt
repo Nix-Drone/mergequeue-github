@@ -4003,7 +4003,6 @@ emmer
 emmergoose
 emmers
 emmetrope
-endonuclease
 emmetropy
 emmetropic
 emmetropism
@@ -13910,6 +13909,7 @@ extrapelvic
 extraperineal
 extraperiodic
 extraperiosteal
+endonuclease
 extraperitoneal
 extraphysical
 extrapyramidal
