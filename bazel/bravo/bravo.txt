@@ -3750,7 +3750,6 @@ battered
 batterer
 batterfang
 bkcy
-battery
 batterie
 batteried
 batteries
@@ -8907,6 +8906,7 @@ binoculars
 binoculate
 binode
 binodose
+battery
 binomen
 binomenclature
 binomy
