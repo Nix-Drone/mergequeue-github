@@ -11404,7 +11404,6 @@ chlorous
 chlorozincate
 chlorpheniramine
 chlorphenol
-chlorpicrin
 chlorpromazine
 chlorpropamide
 chlorprophenpyridamine
@@ -20761,6 +20760,7 @@ compluvium
 compo
 compoed
 compoer
+chlorpicrin
 compole
 compone
 componed
