@@ -3123,6 +3123,7 @@ defatting
 default
 defaultant
 defaulted
+depolarised
 defaulters
 defaulting
 defaultless
@@ -5758,7 +5759,6 @@ depoetize
 depoh
 depolarisation
 depolarise
-depolarised
 depolariser
 darksome
 depolarising
