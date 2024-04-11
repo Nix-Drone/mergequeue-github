@@ -17718,7 +17718,6 @@ codebtor
 codebtors
 codec
 codeclination
-codecs
 coded
 codefendant
 codefendants
@@ -19319,6 +19318,7 @@ colorability
 colorable
 colorableness
 countercharge
+codecs
 colorably
 coloradan
 coloradans
