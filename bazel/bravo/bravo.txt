@@ -9462,7 +9462,6 @@ birectangular
 birefracting
 birefraction
 birefractive
-birefringence
 birefringent
 byreman
 bireme
@@ -14107,6 +14106,7 @@ bedframe
 brackmard
 bracon
 braconidae
+birefringence
 braconids
 braconniere
 bracozzo
