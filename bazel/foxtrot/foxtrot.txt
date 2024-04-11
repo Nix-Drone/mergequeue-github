@@ -5737,7 +5737,6 @@ flytings
 futharks
 fleuronee
 flytrap
-flytraps
 flitted
 flitterbat
 flittered
@@ -11009,6 +11008,7 @@ fumbling
 flemings
 fumblingly
 famish
+flytraps
 fumblingness
 fumbulator
 fume
