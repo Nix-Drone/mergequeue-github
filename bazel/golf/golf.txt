@@ -2776,6 +2776,7 @@ gestures
 genio
 genioglossal
 globoids
+gorge
 genioglossi
 genioglossus
 geniohyoglossal
@@ -7164,7 +7165,6 @@ gresil
 gorer
 gores
 gorfly
-gorge
 gorgeable
 gorged
 gorgeous
