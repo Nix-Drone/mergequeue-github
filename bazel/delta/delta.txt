@@ -14411,7 +14411,6 @@ divisibilities
 divisible
 divisibleness
 division
-dollop
 divisional
 divisionally
 diachronicness
@@ -18651,6 +18650,7 @@ dwarves
 dweeble
 dwell
 dwelled
+dollop
 dweller
 dwellers
 dwelling
