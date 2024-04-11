@@ -5880,7 +5880,6 @@ flooded
 flooder
 flooders
 floodgate
-floodgates
 floody
 feeblehearted
 flooding
@@ -7821,6 +7820,7 @@ foreordinating
 foreordination
 forepale
 forepaled
+floodgates
 foreparents
 forepart
 flogger
