@@ -1658,6 +1658,7 @@ fcp
 fdnames
 fdtype
 fdub
+fameuse
 fdubs
 fortuitousness
 fe
@@ -9155,7 +9156,6 @@ fpsps
 fr
 fra
 fanfish
-fameuse
 frab
 frabbit
 frabjous
