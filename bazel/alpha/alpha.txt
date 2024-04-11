@@ -3357,7 +3357,6 @@ atresy
 acustom
 acutance
 acutances
-acutangular
 acutate
 acute
 acutely
@@ -20651,6 +20650,7 @@ aeromagnetic
 aethered
 arthrospore
 arthrosporic
+acutangular
 arthrosporous
 arthrosteitis
 arthrosterigma
