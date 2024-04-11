@@ -7344,7 +7344,6 @@ cephalotheca
 cephalothecal
 cephalothoracic
 cephalothoracopagus
-cephalothorax
 cephalothoraxes
 cephalotomy
 contrate
@@ -16850,6 +16849,7 @@ clue
 clued
 clueing
 clueless
+cephalothorax
 clues
 cluff
 cluing
