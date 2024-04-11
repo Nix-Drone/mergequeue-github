@@ -8504,7 +8504,6 @@ ethnographic
 epodic
 epoist
 epollicate
-epomophorus
 eponge
 eponychium
 eponym
@@ -12035,6 +12034,7 @@ excision
 excisions
 excyst
 excystation
+epomophorus
 excysted
 excystment
 excitability
