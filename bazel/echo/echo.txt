@@ -5299,7 +5299,6 @@ endorphin
 endorsable
 endorsation
 endorse
-endorsed
 endorsee
 endorsees
 endere
@@ -12404,6 +12403,7 @@ exequatur
 exequy
 exequial
 exequies
+endorsed
 exerce
 exercent
 exercisable
