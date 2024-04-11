@@ -3297,7 +3297,6 @@ defies
 defigure
 defying
 defyingly
-defilade
 defiladed
 defilades
 denuded
@@ -5726,6 +5725,7 @@ depletory
 deploy
 deployed
 deploying
+defilade
 deployment
 deployments
 deftest
