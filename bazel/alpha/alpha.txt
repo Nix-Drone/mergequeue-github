@@ -2691,7 +2691,6 @@ acousticolateral
 acousticon
 acousticophobia
 acoustics
-acoustoelectric
 acpt
 acquaint
 acquaintance
@@ -5834,6 +5833,7 @@ agami
 agamy
 agamian
 antitemperance
+acoustoelectric
 agamic
 agamically
 agamid
