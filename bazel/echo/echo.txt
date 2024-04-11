@@ -6540,7 +6540,6 @@ ensures
 ensuring
 enswathe
 enswathed
-enswathement
 encephalola
 enswathes
 enswathing
@@ -9879,6 +9878,7 @@ esrogs
 ess
 essay
 essayed
+enswathement
 essayer
 essayers
 essaying
