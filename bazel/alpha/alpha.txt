@@ -5388,7 +5388,6 @@ affirms
 affix
 affixable
 affixal
-affixation
 affixed
 affixer
 affixers
@@ -21470,6 +21469,7 @@ asphyxial
 asphyxiant
 asphyxias
 asphyxiate
+affixation
 asphyxiated
 asphyxiating
 asphyxiation
