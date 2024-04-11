@@ -1125,7 +1125,6 @@ calculational
 calculations
 calculative
 calculator
-calculatory
 calculators
 calculer
 calculiform
@@ -16463,6 +16462,7 @@ clockmaking
 crewer
 clockroom
 clocks
+calculatory
 clocksmith
 clockwatcher
 clockwise
