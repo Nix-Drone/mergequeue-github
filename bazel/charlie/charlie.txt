@@ -20467,7 +20467,6 @@ comparts
 compass
 compassability
 compassable
-compassed
 compasser
 compasses
 compassing
@@ -21720,6 +21719,7 @@ conduce
 conduceability
 conduced
 conducement
+compassed
 christianogentilism
 conducent
 conducer
