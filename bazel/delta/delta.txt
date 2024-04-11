@@ -2203,7 +2203,6 @@ decemfid
 decemflorous
 decemfoliate
 decemfoliolate
-decemjugate
 decemlocular
 decempartite
 decempedal
@@ -5140,6 +5139,7 @@ dendrophile
 dendrophilous
 dendropogon
 deneb
+decemjugate
 denebola
 denegation
 denehole
