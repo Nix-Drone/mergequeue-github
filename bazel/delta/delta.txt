@@ -7794,7 +7794,6 @@ dewax
 dewaxed
 dewaxes
 dewaxing
-dewberry
 dewberries
 dewcap
 dewclaw
@@ -10175,6 +10174,7 @@ dinoceras
 dinocerata
 dinoceratan
 dynode
+dewberry
 dynodes
 dinoflagellata
 dinoflagellatae
