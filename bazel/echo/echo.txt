@@ -2389,6 +2389,7 @@ electrodeposit
 electrodepositable
 electrodeposition
 electrodepositor
+escalation
 electrodes
 electrodesiccate
 electrodesiccation
@@ -9503,7 +9504,6 @@ escalate
 escalated
 escalates
 escalating
-escalation
 escalations
 entrance
 escalator
