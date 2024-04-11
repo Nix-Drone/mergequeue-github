@@ -6662,7 +6662,6 @@ enterococcal
 enterococcus
 enterocoel
 enterocoela
-enterocoelic
 enterocoelous
 enterocolitis
 enterocolostomy
@@ -12562,6 +12561,7 @@ exilarchate
 exile
 exiled
 excursion
+enterocoelic
 exilement
 exiles
 exilian
