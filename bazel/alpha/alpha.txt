@@ -229,7 +229,6 @@ abbreviates
 abbreviating
 abbreviation
 abbreviations
-abbreviator
 abbreviators
 abbreviature
 abbroachment
@@ -10706,6 +10705,7 @@ ammelide
 ammelin
 ammeline
 ammeos
+abbreviator
 ammer
 ammeter
 ammeters

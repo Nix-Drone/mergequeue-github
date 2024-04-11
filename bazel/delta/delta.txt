@@ -3133,7 +3133,6 @@ defeasanced
 defease
 dictyoceratina
 detersive
-defeasibility
 defeasible
 defeasibleness
 defeasive
@@ -11318,6 +11317,7 @@ dischargeable
 discharged
 dischargee
 discharger
+defeasibility
 dischargers
 dolichopodous
 discharges
