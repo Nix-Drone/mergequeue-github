@@ -4334,6 +4334,7 @@ carload
 carloading
 carloadings
 carloads
+clockface
 carlock
 carlos
 carlot
@@ -16453,7 +16454,6 @@ clockbird
 clockcase
 clocked
 clocker
-clockface
 clockhouse
 clocking
 clockings
