@@ -5631,7 +5631,6 @@ glyptography
 gonake
 glyptographic
 glyptolith
-glyptology
 glyptological
 greesagh
 glyptologist
@@ -7760,6 +7759,7 @@ grained
 grainedness
 genearch
 grainer
+glyptology
 grainery
 grainers
 graynesses
