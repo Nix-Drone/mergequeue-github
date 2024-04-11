@@ -5920,6 +5920,7 @@ deprivate
 deprivation
 deprivations
 deprivative
+disocclude
 deprive
 deprived
 deprivement
@@ -12757,7 +12758,6 @@ disobligingly
 disobligingness
 disobstruct
 disoccident
-disocclude
 disheveling
 disoccluded
 deponer
