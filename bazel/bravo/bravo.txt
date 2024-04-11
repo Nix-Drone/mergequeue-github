@@ -358,6 +358,7 @@ bangala
 backfields
 backfilled
 backfiller
+bisulfid
 backfilling
 backfills
 backfire
@@ -9809,7 +9810,6 @@ bisulc
 bisulcate
 bisulcated
 bisulfate
-bisulfid
 bisulfide
 bisulphate
 bisulphide
