@@ -2002,7 +2002,6 @@ bandworm
 bane
 baneberry
 baned
-baneful
 banefully
 banefulness
 banes
@@ -10219,6 +10218,7 @@ blacksmithing
 blacksmiths
 blacksnake
 blackstick
+baneful
 blacktail
 boogaloo
 blackthorn
