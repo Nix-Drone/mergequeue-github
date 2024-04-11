@@ -18023,7 +18023,6 @@ club
 coenogenetic
 coenomonoecism
 coenosarc
-coenosarcal
 coenosarcous
 coenosite
 coenospecies
@@ -18282,6 +18281,7 @@ cognisability
 cognisable
 cognisableness
 cognisably
+coenosarcal
 cognisance
 cognisant
 cognise
