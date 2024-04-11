@@ -5093,7 +5093,6 @@ dendritiform
 dendrium
 dendrobates
 dendrobatinae
-dendrobe
 dendrobium
 dendrocalamus
 dendroceratina
@@ -13131,6 +13130,7 @@ displicence
 displicency
 displode
 disploded
+dendrobe
 displodes
 digitogenin
 displosion
