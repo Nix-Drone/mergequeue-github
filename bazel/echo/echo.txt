@@ -6744,7 +6744,6 @@ enterotome
 enterotomy
 enterotoxemia
 enterotoxication
-essence
 enterotoxin
 enteroviral
 emplastra
@@ -7965,6 +7964,7 @@ epilate
 epilated
 epilating
 epilation
+essence
 epilator
 epilemma
 epileny
