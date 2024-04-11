@@ -3320,7 +3320,6 @@ fiducinales
 fied
 fiedlerite
 fief
-fiefdom
 fiefs
 forfeitable
 fiel
@@ -3784,6 +3783,7 @@ filtered
 forebridge
 filterers
 filtering
+fiefdom
 filterman
 filtermen
 floundering
