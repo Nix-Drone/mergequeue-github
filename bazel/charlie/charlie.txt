@@ -9171,7 +9171,6 @@ charwoman
 charwomen
 chasable
 chase
-chaseable
 chased
 chasers
 chases
@@ -20026,6 +20025,7 @@ commercialising
 commercialism
 commercialist
 commercialistic
+chaseable
 commercialists
 commerciality
 commercialization
