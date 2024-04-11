@@ -3341,7 +3341,6 @@ fieldmen
 fieldmice
 fieldmouse
 fieldpieces
-funebre
 fieldsman
 fieldsmen
 fieldstone
@@ -10144,6 +10143,7 @@ friseurs
 frisian
 frisked
 frisker
+funebre
 friskers
 foederatus
 friskful
