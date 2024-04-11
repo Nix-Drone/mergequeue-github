@@ -11582,7 +11582,6 @@ boarstaff
 boart
 boarts
 boarwood
-boas
 boast
 boasted
 boaster
@@ -17493,6 +17492,7 @@ buntlines
 bunuelo
 buoy
 buoyage
+boas
 buoyages
 buoyance
 bipinnatiparted
