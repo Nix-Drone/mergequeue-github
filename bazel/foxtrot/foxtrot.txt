@@ -2419,6 +2419,7 @@ fermata
 fermatas
 fermate
 fleshed
+foreannounce
 ferme
 forespeed
 ferment
@@ -7477,7 +7478,6 @@ foreadvise
 forearmed
 foreallege
 foreallot
-foreannounce
 flatuses
 foreannouncement
 foreappoint

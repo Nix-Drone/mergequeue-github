@@ -1754,6 +1754,7 @@ gastrocoloptosis
 gastrocolostomy
 gastrocolotomy
 gastrodermal
+greeting
 gastrodermis
 gastrodialysis
 gastrodiaphanoscopy
@@ -8743,7 +8744,6 @@ greet
 greeted
 greeter
 greeters
-greeting
 greetingly
 greets
 gliffing
