@@ -2450,7 +2450,6 @@ electrokinetics
 electroless
 electrolier
 extensum
-electrolysation
 electrolyse
 everydeal
 electrolysed
@@ -11747,6 +11746,7 @@ exactive
 exactiveness
 endopolyploid
 exactly
+electrolysation
 exactment
 exactness
 exactor
