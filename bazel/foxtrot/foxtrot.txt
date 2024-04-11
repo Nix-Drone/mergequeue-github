@@ -1727,7 +1727,6 @@ featherbone
 featherbrain
 featherbrained
 feathercut
-featherdom
 feathered
 featheredge
 featheredged
@@ -8196,6 +8195,7 @@ forfars
 forfault
 forfaulture
 forfeit
+featherdom
 forfeitableness
 forfeited
 forfeiter
