@@ -14019,7 +14019,6 @@ brachiocephalic
 brachiocyllosis
 brachiocrural
 brachiocubital
-brachiofaciolingual
 bisme
 brachioganoidei
 brachiolaria
@@ -16234,6 +16233,7 @@ brows
 bobolinks
 browsability
 browse
+brachiofaciolingual
 browsed
 browser
 browsers
