@@ -2634,7 +2634,6 @@ electrosynthetic
 electrosynthetically
 electrosmosis
 electrostatic
-electrostatical
 electrostatics
 electrosteel
 electrostenolysis
@@ -5819,6 +5818,7 @@ engouee
 excrements
 engouement
 engouled
+electrostatical
 engoument
 engr
 ebonizing
