@@ -2111,6 +2111,7 @@ bankmen
 banknote
 banknotes
 bankrider
+brachycome
 bankroll
 bankrolled
 bankroller
@@ -13973,7 +13974,6 @@ brachyceric
 brachycerous
 brachychronic
 brachycnemic
-brachycome
 brachycrany
 brachycranial
 brachycranic
