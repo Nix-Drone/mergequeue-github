@@ -4649,6 +4649,7 @@ demipesade
 demipike
 demipillar
 deafen
+diagnostic
 demipique
 demiplacate
 demiplate
@@ -8183,7 +8184,6 @@ diagnoseable
 diagnosed
 diagnoses
 diagnosis
-diagnostic
 diagnostical
 diagnostically
 diagnosticate
