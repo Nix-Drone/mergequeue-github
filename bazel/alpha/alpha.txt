@@ -3683,7 +3683,6 @@ adenochondrosarcoma
 adenochrome
 adenocyst
 adenocystoma
-antepectoral
 adenocystomatous
 adenodermia
 adenodiastasis
@@ -15675,6 +15674,7 @@ antinephritic
 antinepotic
 antineuralgic
 antineuritic
+antepectoral
 antineurotoxin
 antineutral
 antineutralism
