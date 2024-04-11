@@ -20257,6 +20257,7 @@ chorographies
 communbus
 commune
 communed
+counterseal
 communer
 cric
 communes
@@ -27064,7 +27065,6 @@ countersconce
 counterscrutiny
 cs
 countersea
-counterseal
 countersecure
 countersecurity
 counterselection
