@@ -4327,7 +4327,6 @@ gymnostomata
 gymnostomous
 gymnothorax
 gymnotid
-gymnotidae
 gonorrhoeic
 gymnotoka
 gymnotokous
@@ -9709,6 +9708,7 @@ grumness
 grumose
 ganching
 grumous
+gymnotidae
 grump
 grumped
 grumph
