@@ -5094,6 +5094,7 @@ flatness
 flats
 flatted
 flatten
+furans
 flattened
 flattening
 flattercap
@@ -5823,7 +5824,6 @@ flatnose
 flocculator
 floccule
 flocculence
-furans
 flocculency
 flocculent
 floccules
