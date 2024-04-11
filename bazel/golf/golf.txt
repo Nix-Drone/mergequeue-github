@@ -2915,7 +2915,6 @@ gentle
 gentled
 gentlefolks
 gentleheartedly
-gentleheartedness
 gentlehood
 gumminess
 gentleman
@@ -9371,6 +9370,7 @@ gripped
 gross
 grossart
 grosse
+gentleheartedness
 grossed
 grossen
 grandmotherism
