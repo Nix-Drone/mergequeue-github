@@ -6256,7 +6256,6 @@ dermatoneurology
 dermatoneurosis
 dustuck
 dermatonosus
-dermatopathia
 dermatopathic
 dermatopathology
 dermatopathophobia
@@ -17564,6 +17563,7 @@ drum
 drumbeat
 drumbeats
 drumbled
+dermatopathia
 drumbler
 drumbles
 drumfire
