@@ -8130,7 +8130,6 @@ biconcavity
 bidder
 bicone
 biconic
-biconical
 biconically
 biconjugate
 biconnected
@@ -16252,6 +16251,7 @@ besmuts
 brucellosis
 bruchid
 bruchidae
+biconical
 bruchus
 brucia
 brucin
