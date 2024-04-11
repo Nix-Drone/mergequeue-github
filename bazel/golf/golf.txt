@@ -1751,7 +1751,6 @@ gastrocnemii
 gastrocnemius
 gastrocoel
 gastrocolic
-gastrocoloptosis
 gastrocolostomy
 gastrocolotomy
 gastrodermal
@@ -5174,6 +5173,7 @@ glandes
 glandiform
 glanditerous
 glandlike
+gastrocoloptosis
 giggles
 guily
 glandular
