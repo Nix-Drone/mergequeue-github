@@ -2371,7 +2371,6 @@ candystick
 candite
 candytuft
 candyweed
-candle
 coehorn
 candleball
 caripeta
@@ -10983,6 +10982,7 @@ chiropterygian
 chiropterygious
 chiropterygium
 chiropterite
+candle
 chiropterous
 chiros
 chirospasm
