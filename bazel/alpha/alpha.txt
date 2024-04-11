@@ -13262,7 +13262,6 @@ artamus
 anisal
 anisalcohol
 anisaldehyde
-anisaldoxime
 anisamide
 anisandrous
 anisanilide
@@ -24376,6 +24375,7 @@ autosite
 autositic
 autoskeleton
 autosled
+anisaldoxime
 autoslip
 autosomal
 autosomally
