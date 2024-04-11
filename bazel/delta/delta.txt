@@ -681,7 +681,6 @@ dampener
 dampeners
 dampening
 dampens
-damper
 dampers
 dampy
 damping
@@ -3898,6 +3897,7 @@ dekadrachm
 dekagramme
 dekagrams
 doggerelize
+damper
 dekalitre
 dekameter
 dekameters
