@@ -2476,7 +2476,6 @@ deutzias
 declarator
 declaratory
 declaratorily
-declarators
 declare
 declaredly
 declaredness
@@ -3228,6 +3227,7 @@ defenser
 defenses
 defensibility
 defensibleness
+declarators
 defensibly
 defensing
 defension
