@@ -1026,7 +1026,6 @@ darknesses
 darkroom
 darkrooms
 darks
-darkskin
 darksomeness
 darksum
 darktown
@@ -4815,6 +4814,7 @@ demogenic
 demographer
 demographers
 demography
+darkskin
 demographic
 demographical
 demographically
