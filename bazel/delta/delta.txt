@@ -5519,7 +5519,6 @@ deoxygenate
 deoxygenated
 deoxygenating
 deoxygenation
-deprecate
 delphinium
 deoxygenization
 deoxygenize
@@ -11629,6 +11628,7 @@ discophoran
 discophore
 discoplacenta
 discoplacental
+deprecate
 discoplacentalia
 discoplacentalian
 discoplasm
