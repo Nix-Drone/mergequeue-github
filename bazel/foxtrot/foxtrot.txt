@@ -7904,7 +7904,6 @@ foresaying
 foresail
 foresails
 foresays
-foresaw
 forescene
 forescent
 foreschool
@@ -11165,6 +11164,7 @@ fossilology
 funebrous
 funeral
 funeralize
+foresaw
 funerally
 funerals
 funerary
