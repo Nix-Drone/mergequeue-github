@@ -62,7 +62,6 @@ facebow
 facebread
 floyt
 facecloth
-faced
 facedown
 faceharden
 faceless
@@ -4035,6 +4034,7 @@ fistulas
 fingersmith
 formalising
 fingerspin
+faced
 fingerstall
 fingerstone
 fingertip
