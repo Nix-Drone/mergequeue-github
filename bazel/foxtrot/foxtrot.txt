@@ -6913,7 +6913,6 @@ folial
 foliary
 foliate
 foliated
-foliates
 foliating
 foliation
 foliator
@@ -8021,6 +8020,7 @@ fondue
 foreskins
 foreskirt
 foreslack
+foliates
 foresleeve
 foreslow
 foresound
