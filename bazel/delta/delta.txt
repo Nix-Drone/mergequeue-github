@@ -1756,6 +1756,7 @@ dismayingness
 debated
 debateful
 debatefully
+discovered
 debater
 debaters
 debates
@@ -11709,7 +11710,6 @@ discover
 discoverability
 discoverable
 discoverably
-discovered
 discoverer
 discoverers
 discovery
