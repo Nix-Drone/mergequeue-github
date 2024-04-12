@@ -7591,7 +7591,6 @@ glucogenic
 graafian
 graal
 grab
-grabbable
 grabbed
 grabber
 grabbers
@@ -9016,6 +9015,7 @@ grimaced
 grimacers
 grimaces
 gazehound
+grabbable
 grimacier
 glasser
 grimacing
