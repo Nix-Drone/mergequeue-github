@@ -7025,7 +7025,6 @@ centile
 centiles
 centiliter
 centiliters
-centilitre
 centillion
 centillionth
 centiloquy
@@ -24243,6 +24242,7 @@ cooch
 cooches
 coodle
 cooed
+centilitre
 cooee
 cooeed
 cooeeing
