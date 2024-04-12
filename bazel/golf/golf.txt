@@ -3019,7 +3019,6 @@ gittite
 geochronologic
 geochronological
 geochronologically
-geochronologist
 geocyclic
 geocline
 geococcyx
@@ -8984,6 +8983,7 @@ grille
 grilled
 grillee
 griller
+geochronologist
 grillers
 grilles
 grillework
