@@ -10255,7 +10255,6 @@ bladderwrack
 blade
 bladebone
 bladed
-bladeless
 bladelet
 bladelike
 beleaguerer
@@ -15345,6 +15344,7 @@ brightening
 brightens
 blennoid
 brightest
+bladeless
 brightish
 brights
 brightsmith
