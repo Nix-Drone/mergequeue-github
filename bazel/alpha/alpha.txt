@@ -6912,7 +6912,6 @@ airfoil
 airfoils
 airframe
 airframes
-airfreighter
 airglow
 airglows
 acondylous
@@ -7265,6 +7264,7 @@ alacriously
 alacrity
 alacrities
 alactaga
+airfreighter
 alada
 aladdin
 aladdinize

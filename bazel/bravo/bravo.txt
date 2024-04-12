@@ -2435,7 +2435,6 @@ biolysis
 barbre
 barbs
 barbu
-barbudos
 barbula
 barbulate
 barbule
@@ -7645,6 +7644,7 @@ bewidow
 bewield
 bewig
 brokery
+barbudos
 bewigging
 bioluminescent
 bewigs
