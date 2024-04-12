@@ -14721,7 +14721,6 @@ cystosarcoma
 cystoschisis
 cystoscope
 cystoscopy
-cystoscopic
 cystoscopies
 cystose
 cystosyrinx
@@ -25531,6 +25530,7 @@ coroparelcysis
 coperception
 coroplast
 coroplasta
+cystoscopic
 coroplastae
 coroplasty
 coroplastic
