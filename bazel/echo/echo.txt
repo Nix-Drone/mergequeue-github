@@ -4984,7 +4984,6 @@ escrows
 endboard
 entremets
 endbrains
-enddamage
 enddamaged
 enddamaging
 ende
@@ -8840,6 +8839,7 @@ excoriable
 equivocated
 equivocates
 equivocatingly
+enddamage
 equivocation
 equivocations
 equivocator

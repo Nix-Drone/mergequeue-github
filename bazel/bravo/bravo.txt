@@ -2450,7 +2450,6 @@ barbwires
 barcan
 barcarole
 betatter
-barcaroles
 becut
 barcarolle
 barcas
@@ -17496,6 +17495,7 @@ buoyantness
 brigandism
 buoying
 buonamani
+barcaroles
 buonamano
 batten
 buphaga
