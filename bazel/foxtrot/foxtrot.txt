@@ -5604,7 +5604,6 @@ flinch
 flinched
 flincher
 flinching
-flinchingly
 flinders
 flindersia
 frustrater
@@ -7246,6 +7245,7 @@ footsy
 footslog
 furious
 footslogged
+flinchingly
 footslogger
 footpick
 forgift
