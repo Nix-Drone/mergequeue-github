@@ -1447,7 +1447,6 @@ dcb
 dcbname
 dclass
 dcollet
-dcolletage
 dcor
 ddname
 damnatory
@@ -15699,6 +15698,7 @@ doree
 doucet
 dorey
 disentrain
+dcolletage
 dori
 dory
 doria
