@@ -6103,6 +6103,7 @@ benchers
 benchership
 benches
 benchfellow
+burglary
 benchful
 benchy
 benching
@@ -17632,7 +17633,6 @@ burghmoot
 burghs
 burglar
 borides
-burglary
 burglaries
 burglarious
 burglariously
