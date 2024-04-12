@@ -3407,6 +3407,7 @@ funebre
 fieldsman
 fieldsmen
 fieldstrip
+flanks
 fieldward
 fieldwork
 fulmine
@@ -4987,7 +4988,6 @@ flankers
 foliation
 fireshaft
 flanking
-flanks
 flankwise
 flannel
 flannelboard
