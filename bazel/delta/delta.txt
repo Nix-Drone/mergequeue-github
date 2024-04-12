@@ -9556,6 +9556,7 @@ dihalide
 dihalo
 dihalogen
 dihdroxycholecalciferol
+dispensary
 dihedral
 dihedrals
 dihedron
@@ -12966,7 +12967,6 @@ dispends
 dispensability
 deducible
 dispensableness
-dispensary
 dispensaries
 darken
 dispensate
