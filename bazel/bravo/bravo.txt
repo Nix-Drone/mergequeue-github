@@ -5599,7 +5599,6 @@ belage
 belah
 belay
 belayed
-bedticking
 belayer
 belaying
 belays
@@ -9941,6 +9940,7 @@ bitubercular
 bituberculate
 bitulithic
 bitumed
+bedticking
 bitumen
 bitumens
 bituminate
