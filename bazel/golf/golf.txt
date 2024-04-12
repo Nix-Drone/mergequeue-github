@@ -3253,7 +3253,6 @@ geosid
 geosynclinal
 geosynclines
 geosphere
-geospiza
 geostatic
 geostationary
 gluttonism
@@ -7651,6 +7650,7 @@ gradatim
 gradating
 grisping
 gradational
+geospiza
 gradationally
 gradationately
 gradatively
