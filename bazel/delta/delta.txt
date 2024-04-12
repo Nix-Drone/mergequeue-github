@@ -12303,7 +12303,6 @@ disheritment
 disheritor
 disherits
 dishes
-dishevel
 dwellers
 disheveled
 dishevely
@@ -16534,6 +16533,7 @@ draffman
 draffs
 draffsack
 draft
+dishevel
 draftable
 draftage
 drafted
