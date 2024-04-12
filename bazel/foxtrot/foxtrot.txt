@@ -7548,7 +7548,6 @@ forechoose
 forechurch
 forecited
 foreclaw
-foreclosable
 foreclose
 foreclosed
 foreclosure
@@ -7871,6 +7870,7 @@ forequarters
 fraidycat
 fleet
 forerake
+foreclosable
 figural
 fideles
 foreran
