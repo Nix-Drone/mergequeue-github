@@ -3463,7 +3463,6 @@ deforces
 deforciant
 deforest
 deforested
-darkener
 deforester
 deforesting
 deforests
@@ -5379,6 +5378,7 @@ dentists
 dentition
 dentolabial
 dentolingual
+darkener
 dentololabial
 dentonasal
 dentosurgical
