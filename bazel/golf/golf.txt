@@ -4999,7 +4999,6 @@ glacialist
 glacialize
 glaciaria
 glaciarium
-glaciate
 glaciated
 glaciates
 glaciating
@@ -7236,6 +7235,7 @@ gorgonised
 gorgonising
 glost
 galette
+glaciate
 gorgonize
 greenthumbed
 gorgonlike
