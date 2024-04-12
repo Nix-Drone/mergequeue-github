@@ -770,6 +770,7 @@ ecoute
 ecphasis
 ecphonema
 ecphorable
+emersed
 ecphore
 ecphory
 ecphoria
@@ -3855,7 +3856,6 @@ emerods
 emeroid
 emeroids
 emerse
-emersed
 emersion
 emersions
 emarginately
