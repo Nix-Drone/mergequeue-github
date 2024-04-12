@@ -3330,6 +3330,7 @@ fieldish
 fieldleft
 fieldman
 fieldmen
+financist
 fieldmice
 fieldmouse
 fieldpieces
@@ -6231,7 +6232,6 @@ fluctuous
 flued
 fluegelhorn
 fluey
-financist
 flueless
 fluellen
 firer
