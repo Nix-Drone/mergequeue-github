@@ -17811,7 +17811,6 @@ applicancy
 applicant
 applicants
 applicate
-application
 applications
 applicative
 applicatively
@@ -18028,6 +18027,7 @@ approximates
 approximating
 approximation
 approximations
+application
 amucks
 approximative
 approximatively

@@ -3383,6 +3383,7 @@ fieldie
 fieldish
 fieldleft
 fieldman
+firefanging
 fieldmen
 fieldmice
 fieldmouse
@@ -10598,7 +10599,6 @@ fructescent
 fructiculose
 fructicultural
 fructiculture
-firefanging
 fructidor
 fructiferous
 fructiferously
