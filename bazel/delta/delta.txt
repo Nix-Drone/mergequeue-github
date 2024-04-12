@@ -11966,6 +11966,7 @@ deities
 disenchantress
 disenchants
 disencharm
+drip
 disenclose
 disencourage
 disencumbered
@@ -17181,7 +17182,6 @@ dryopithecus
 dryops
 dryopteris
 dryopteroid
-drip
 dripless
 draughter
 drypoints
