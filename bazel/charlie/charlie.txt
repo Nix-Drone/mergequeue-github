@@ -1226,7 +1226,6 @@ calibrater
 calibrates
 calibrating
 calibrations
-calibrators
 calibre
 calibred
 calibres
@@ -30403,6 +30402,7 @@ cuarenta
 choux
 cuarta
 cuartel
+calibrators
 cuarteron
 carfuffled
 cuartilla
