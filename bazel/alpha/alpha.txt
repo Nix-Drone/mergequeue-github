@@ -2751,6 +2751,7 @@ acquittance
 acquitted
 acquitter
 acquitting
+amissness
 acquophonia
 acrab
 acracy
@@ -10662,7 +10663,6 @@ amiss
 amissibility
 amissible
 amissing
-amissness
 amit
 amita
 amitabha
