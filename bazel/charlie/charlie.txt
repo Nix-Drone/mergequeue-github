@@ -10535,7 +10535,6 @@ chilina
 chilindre
 comprehension
 chiliomb
-chilion
 chilipepper
 chilitis
 chilkat
@@ -14600,6 +14599,7 @@ cista
 cistaceae
 cistaceous
 cystadenoma
+chilion
 cystadenosarcoma
 cystal
 cystalgia
@@ -22639,7 +22639,6 @@ conodont
 conodonts
 conoy
 conoid
-conoidal
 conoidally
 conoidic
 conoidical
@@ -25229,6 +25228,7 @@ corking
 corkir
 corkish
 corkite
+conoidal
 corklike
 corkline
 corkmaker
