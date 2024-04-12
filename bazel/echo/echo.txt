@@ -4373,6 +4373,7 @@ expertising
 enabled
 enablement
 enablers
+exothermic
 enables
 enabling
 enact
@@ -12865,7 +12866,6 @@ exothecate
 exothecium
 exothermal
 exothermally
-exothermic
 exothermically
 exothermous
 exotic
