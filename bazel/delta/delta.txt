@@ -1484,7 +1484,6 @@ defrosts
 deadborn
 deadcenter
 deadeye
-deadeyes
 deaden
 deadened
 deadener
@@ -4730,6 +4729,7 @@ demiurgus
 demivambrace
 demivierge
 demivirgin
+deadeyes
 demivol
 demivolt
 demivolte
