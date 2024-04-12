@@ -1573,6 +1573,7 @@ gaseosity
 greta
 gaseous
 gaseously
+gravitationally
 gaseousness
 gases
 gasfiring
@@ -8498,7 +8499,6 @@ gravitates
 gravitating
 gravitation
 gravitational
-gravitationally
 gravitations
 gravitative
 gravity
