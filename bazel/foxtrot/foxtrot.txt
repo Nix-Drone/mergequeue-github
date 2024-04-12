@@ -5361,7 +5361,6 @@ fleetingness
 fleets
 fleetwing
 flegm
-fibroplastic
 fley
 fleyed
 fleyedly
@@ -11542,6 +11541,7 @@ fusees
 fusel
 followership
 fuselage
+fibroplastic
 fuselages
 fuseless
 fuselike
