@@ -513,7 +513,6 @@ falconidae
 falconiform
 falconiformes
 falconinae
-falconlike
 frillies
 falconnoid
 falconoid
@@ -3591,6 +3590,7 @@ filibranch
 filibranchia
 filibranchiate
 filibusterer
+falconlike
 filibusterers
 ferineness
 filibustering
