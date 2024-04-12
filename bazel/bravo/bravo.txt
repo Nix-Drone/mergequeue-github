@@ -2864,7 +2864,6 @@ barostat
 bruta
 blasphemers
 baroswitch
-barotactic
 barotaxy
 barotaxis
 barothermogram
@@ -3273,6 +3272,7 @@ basilinna
 basiliscan
 basiliscine
 basiliscus
+barotactic
 basilysis
 basilisks
 basilosauridae
