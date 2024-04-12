@@ -5906,7 +5906,6 @@ geulah
 glossolabial
 glossolabiolaryngeal
 glossolabiopharyngeal
-glossolaly
 glossolalia
 glossolaryngeal
 glossolysis
@@ -5956,6 +5955,7 @@ glottis
 glottiscope
 glottises
 glottitis
+glossolaly
 goony
 glottochronology
 gymnemic
