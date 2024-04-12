@@ -358,7 +358,6 @@ daydreams
 digmeat
 damageable
 daydrudge
-dayfly
 dayflies
 dayflower
 dayflowers
@@ -5954,6 +5953,7 @@ depriving
 deprocedured
 deproceduring
 discussible
+dayfly
 deprogram
 deprogrammed
 deprogrammer
