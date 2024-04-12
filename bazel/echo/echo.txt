@@ -2682,7 +2682,6 @@ electrotest
 electrothanatosis
 exogens
 electrotherapeutical
-electrotherapeutist
 edaphodont
 electrotherapy
 electrotherapist
@@ -12281,6 +12280,7 @@ excussed
 excussing
 eggar
 exdelicto
+electrotherapeutist
 exdie
 exdividend
 estuaries
