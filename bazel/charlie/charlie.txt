@@ -16949,7 +16949,6 @@ cnidoblast
 cnidocell
 cnidocil
 cnidocyst
-cnidogenous
 cnidophorous
 cupmate
 cnidopod
@@ -30292,6 +30291,7 @@ crusie
 crusile
 crusilee
 crusily
+cnidogenous
 crust
 crusta
 crustaceal
