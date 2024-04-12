@@ -18781,7 +18781,6 @@ archchemic
 archchronicler
 archcity
 archconfraternity
-archconfraternities
 archconsoler
 archconspirator
 archcorrupter
@@ -24970,6 +24969,7 @@ aweband
 awed
 awedly
 awedness
+archconfraternities
 awee
 aweek
 aweel
