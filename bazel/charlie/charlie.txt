@@ -18131,7 +18131,6 @@ coexplosion
 coextend
 conusee
 coextended
-coextending
 coextends
 coextension
 coextensive
@@ -25621,6 +25620,7 @@ correctness
 corrector
 correctory
 correctorship
+coextending
 correctress
 correctrice
 corrects
