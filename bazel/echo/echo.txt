@@ -1154,6 +1154,7 @@ edition
 editions
 electronvolt
 editor
+entropies
 editorial
 editorialization
 editorialize
@@ -7115,7 +7116,6 @@ entryways
 episcopes
 entrochite
 entropy
-entropies
 entropion
 entropionize
 entropium
