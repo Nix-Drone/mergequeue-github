@@ -3024,7 +3024,6 @@ botts
 barristerial
 barristers
 barristership
-barristress
 barroom
 barrooms
 barrow
@@ -17106,6 +17105,7 @@ bulletwood
 bullfeast
 bullfice
 bullfight
+barristress
 bullfighter
 bullfighters
 bullfighting
