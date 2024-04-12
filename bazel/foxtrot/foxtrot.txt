@@ -3527,6 +3527,7 @@ filamented
 filamentiferous
 filamentoid
 filamentose
+fuzztail
 filamentous
 filaments
 filamentule
@@ -11738,7 +11739,6 @@ fuzziness
 forestem
 fuzzing
 fuzzle
-fuzztail
 fv
 fw
 fwd
