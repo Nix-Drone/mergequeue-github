@@ -4411,7 +4411,6 @@ becard
 becarpet
 becarpeted
 becarpeting
-becarpets
 becarve
 becasse
 becassine
@@ -16090,6 +16089,7 @@ bugproof
 broomiest
 brooming
 brewster
+becarpets
 broommaker
 broommaking
 broomrape
