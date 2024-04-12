@@ -20042,6 +20042,7 @@ armrest
 armrests
 arms
 armscye
+avarice
 armseye
 armsful
 armstrong
@@ -21539,7 +21540,6 @@ asplenium
 asporogenic
 asporogenous
 asporous
-avarice
 asport
 asporulate
 aspout
