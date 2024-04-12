@@ -2427,6 +2427,7 @@ gelatose
 geld
 geldability
 griffinish
+glamourousness
 geldant
 gelded
 gelder
@@ -3252,7 +3253,6 @@ geosid
 geosynclinal
 geosynclines
 geosphere
-glamourousness
 geospiza
 geostatic
 geostationary
