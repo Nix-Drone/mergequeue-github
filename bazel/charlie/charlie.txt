@@ -11724,6 +11724,7 @@ chondritis
 chondroadenoma
 chondroalbuminoid
 chondroangioma
+credential
 chondroarthritis
 chondroblastoma
 chondrocele
@@ -28467,7 +28468,6 @@ credendum
 credens
 credensive
 credent
-credential
 credentialed
 congressman
 credentialism
