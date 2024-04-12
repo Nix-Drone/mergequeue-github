@@ -9070,7 +9070,6 @@ bludgeoneer
 battlemented
 biolite
 biolith
-biolytic
 blackfoot
 biologic
 biological
@@ -13623,6 +13622,7 @@ bourgs
 bourguignonne
 bourignian
 bourignianism
+biolytic
 bourignianist
 bourignonism
 bourkha
