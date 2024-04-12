@@ -7049,7 +7049,6 @@ desubstantiate
 decare
 desucration
 desudation
-desuete
 desuetude
 desuetudes
 desugar
@@ -9134,6 +9133,7 @@ didst
 diduce
 diduced
 diducing
+desuete
 diduction
 diductively
 diductor
