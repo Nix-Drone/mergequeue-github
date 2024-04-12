@@ -2124,7 +2124,6 @@ fermentatory
 fellow
 fishfall
 fellowcraft
-fellowess
 fellowheirship
 fellowing
 fellowman
@@ -6382,6 +6381,7 @@ fluocerine
 flang
 fluochloride
 ferous
+fellowess
 fluohydric
 fluophosphate
 fluor
