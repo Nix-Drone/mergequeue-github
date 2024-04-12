@@ -3255,6 +3255,7 @@ activity
 activities
 activize
 activized
+assailability
 actless
 acton
 actor
@@ -21576,7 +21577,6 @@ assayer
 assayers
 assaying
 assail
-assailability
 assailable
 assailableness
 assailant
