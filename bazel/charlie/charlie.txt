@@ -4151,6 +4151,7 @@ carfare
 carfares
 carfax
 carfloat
+coater
 comprizable
 carfour
 carfuffle
@@ -17274,7 +17275,6 @@ coated
 coatee
 coatees
 clericity
-coater
 coaters
 coathangers
 coati
