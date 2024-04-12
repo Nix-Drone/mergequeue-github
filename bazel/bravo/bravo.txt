@@ -1875,6 +1875,7 @@ bancha
 banchi
 banco
 bancos
+basic
 bancus
 band
 bandage
@@ -3208,7 +3209,6 @@ basibracteolate
 basibranchial
 basibranchiate
 basibregmatic
-basic
 browner
 basically
 basicerite
