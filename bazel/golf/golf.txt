@@ -6265,7 +6265,6 @@ gnathobasic
 gnathobdellae
 gallantry
 gnathobdellida
-gnathometer
 gnathonic
 gnathonical
 gnathonically
@@ -8106,6 +8105,7 @@ granulocytic
 geom
 granulocytopoiesis
 granuloma
+gnathometer
 granulomas
 gambroon
 granulomatosis
