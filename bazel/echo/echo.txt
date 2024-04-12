@@ -1094,7 +1094,6 @@ edibleness
 edibles
 enworthy
 edict
-epinasty
 edictal
 edictally
 edicts
@@ -7993,6 +7992,7 @@ epilogical
 epilogist
 epilogistic
 epilogize
+epinasty
 epilogized
 epilogizing
 epilogue
