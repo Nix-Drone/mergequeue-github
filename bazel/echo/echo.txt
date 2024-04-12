@@ -2296,7 +2296,6 @@ entreater
 electriferous
 energumen
 electrifiable
-electrification
 electrified
 electrifier
 esthetophore
@@ -2385,6 +2384,7 @@ electrodeless
 electrodentistry
 electrodeposit
 electrodepositable
+electrification
 electrodeposition
 electrodepositor
 escalation
