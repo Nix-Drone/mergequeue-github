@@ -4692,7 +4692,6 @@ carriagesmith
 carriageway
 carryall
 carryalls
-carrick
 carrycot
 carrie
 carried
@@ -12463,6 +12462,7 @@ chromocytometer
 chromocollograph
 chromocollography
 chromocollographic
+carrick
 chromocollotype
 chromocollotypy
 chromocratic
