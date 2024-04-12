@@ -9672,7 +9672,6 @@ bishoplike
 brucella
 bishopling
 bishoprics
-bishops
 bishopscap
 bishopship
 bishopstool
@@ -10528,6 +10527,7 @@ blatherskites
 blatiform
 blatjang
 blats
+bishops
 blatta
 blattariae
 biostrome
