@@ -6657,7 +6657,6 @@ enterodynia
 enunciator
 enteroepiplocele
 exundation
-enterogastritis
 enterogastrone
 egrimonle
 enterogenous
@@ -7722,6 +7721,7 @@ epicormic
 epicorolline
 epicortical
 epicostal
+enterogastritis
 epicotyl
 epicotyleal
 electrodynamometer
