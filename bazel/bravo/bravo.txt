@@ -6173,7 +6173,6 @@ benefaction
 benefactive
 benefactor
 benefactors
-benefactorship
 bhikhari
 benefactress
 benefactresses
@@ -10988,6 +10987,7 @@ bunts
 blo
 bloat
 bloated
+benefactorship
 bloatedness
 bloater
 bloaters
