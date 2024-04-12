@@ -1406,7 +1406,6 @@ epipodiale
 effleurage
 effloresce
 effloresced
-efflorescent
 effloresces
 eyewort
 efflorescing
@@ -4006,6 +4005,7 @@ emmove
 emodin
 emodins
 emollescence
+efflorescent
 emolliate
 emollience
 emollient
