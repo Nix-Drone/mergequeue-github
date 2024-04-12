@@ -2537,7 +2537,6 @@ ackey
 ackeys
 acker
 ackman
-ackmen
 argentojarosite
 acknew
 acknow
@@ -19841,6 +19840,7 @@ arithmocratic
 arithmogram
 arithmograph
 arithmography
+ackmen
 arithmomancy
 arithmomania
 arithmometer
