@@ -2388,7 +2388,6 @@ electroed
 electroencephalogram
 electroencephalograms
 electroencephalograph
-electroencephalographic
 electroencephalographical
 electroendosmose
 episcope
@@ -8164,6 +8163,7 @@ econ
 episcopalianism
 episcopalianize
 episcopalians
+electroencephalographic
 episcopalism
 episcopality
 episcopally
