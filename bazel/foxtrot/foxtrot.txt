@@ -3088,7 +3088,6 @@ feeblemindedness
 fibromyectomy
 fibromyitis
 fibromyoma
-fibromyomectomy
 fibromyositis
 fibromyotomy
 fibromyxosarcoma
@@ -6798,6 +6797,7 @@ foisons
 failsafe
 foist
 foxtongue
+fibromyomectomy
 foisted
 foisty
 flaxbird
