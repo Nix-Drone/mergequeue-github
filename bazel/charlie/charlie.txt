@@ -4823,7 +4823,6 @@ cartogram
 chloridizing
 cartographer
 cartographers
-cartography
 cartographic
 cartographical
 coenzyme
@@ -23323,6 +23322,7 @@ contamination
 contaminations
 chelicere
 contaminative
+cartography
 contaminator
 contaminous
 contangential
