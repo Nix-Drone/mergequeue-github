@@ -1157,6 +1157,7 @@ edition
 editions
 electronvolt
 editor
+entropies
 editorial
 editorialization
 editorialize
