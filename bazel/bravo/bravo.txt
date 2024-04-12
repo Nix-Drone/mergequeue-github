@@ -6533,7 +6533,6 @@ bepaid
 barbermonger
 bepaint
 bepainted
-bepaints
 belady
 bepaper
 beparch
@@ -9169,6 +9168,7 @@ biosciences
 bathmotropic
 bioscientific
 bioscientist
+bepaints
 bioscope
 bioscopes
 bioscopy
