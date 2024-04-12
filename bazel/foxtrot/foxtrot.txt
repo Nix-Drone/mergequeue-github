@@ -7521,6 +7521,7 @@ foreadvice
 foreadvise
 foreallege
 foreallot
+fumulus
 foreannounce
 flatuses
 foreannouncement
@@ -11084,7 +11085,6 @@ fumosity
 fumous
 fumuli
 fungated
-fumulus
 fun
 funambulant
 funambulate
