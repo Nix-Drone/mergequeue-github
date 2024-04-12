@@ -3247,7 +3247,6 @@ deferrer
 deferrers
 deferring
 deferrization
-deferrize
 deferrized
 deferrizing
 defers
@@ -8345,6 +8344,7 @@ dialogical
 digitigrada
 dialogically
 dialogised
+deferrize
 dactylitic
 dialogising
 dialogism
