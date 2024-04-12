@@ -17629,7 +17629,6 @@ casel
 cocksfoot
 coco
 cocoa
-cocoach
 cocoanut
 corector
 cocoanuts
@@ -29842,6 +29841,7 @@ crosshackle
 crosshair
 crosshairs
 crosshand
+cocoach
 crosshatch
 crosshatched
 crosshatcher
