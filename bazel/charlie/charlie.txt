@@ -3578,6 +3578,7 @@ carauna
 caraunda
 caravan
 caravaneer
+chemics
 caravaner
 caravaning
 caravanist
@@ -9816,7 +9817,6 @@ chemicophysical
 chemicophysics
 chemicophysiological
 chemicovital
-chemics
 chemiculture
 chemigraph
 chemigrapher
