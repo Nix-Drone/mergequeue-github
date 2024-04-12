@@ -8494,7 +8494,6 @@ alkool
 aucuba
 alkoran
 alkoranic
-alkoxy
 alkoxid
 alkoxide
 all
@@ -17669,6 +17668,7 @@ appendectomies
 appended
 appendence
 appendency
+alkoxy
 appendent
 appender
 appenders
