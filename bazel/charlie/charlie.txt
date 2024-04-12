@@ -8993,6 +8993,7 @@ charioteers
 charioting
 chariotlike
 chariotman
+chloroplastid
 chariotry
 chariots
 chariotway
@@ -11368,7 +11369,6 @@ chloropicrin
 chloroplast
 chloroplastic
 calypterae
-chloroplastid
 chloroplasts
 chloroplatinate
 chloroplatinic
