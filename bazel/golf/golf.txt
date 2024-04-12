@@ -3851,7 +3851,6 @@ gibbar
 gibbartas
 gibbed
 gibber
-gibbered
 gibberella
 gibberellin
 gibberish
@@ -6686,6 +6685,7 @@ goldwork
 goldworker
 golee
 golem
+gibbered
 golems
 goles
 golet
