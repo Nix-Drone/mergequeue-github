@@ -61,6 +61,7 @@ facebar
 facebow
 facebread
 floyt
+fireproofing
 facecloth
 facedown
 faceharden
@@ -4249,7 +4250,6 @@ fireplug
 fireplugs
 firepot
 fireproofed
-fireproofing
 fireproofness
 firer
 fireroom
