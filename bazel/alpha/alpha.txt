@@ -4987,6 +4987,7 @@ aeroducts
 aeroelastic
 aeroelasticity
 aeroelastics
+aporphin
 aerofoil
 aerofoils
 aerogel
@@ -17399,7 +17400,6 @@ aporobranchian
 aporocactus
 aporosa
 aporose
-aporphin
 aporphine
 aporrhaidae
 aporrhais
