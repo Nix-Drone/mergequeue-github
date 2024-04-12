@@ -8142,6 +8142,7 @@ chainman
 chainmen
 chainomatic
 chainon
+cultists
 chains
 chainsman
 chainsmen
@@ -30818,7 +30819,6 @@ cultismo
 cultisms
 cultist
 cultistic
-cultists
 cultivability
 cultivable
 cultivably
