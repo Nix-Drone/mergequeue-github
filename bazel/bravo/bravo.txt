@@ -4767,7 +4767,6 @@ bedpan
 besmirching
 bedpans
 bedplates
-bedpost
 bedquilt
 bedquilts
 bedrabbling
@@ -14108,6 +14107,7 @@ bracozzo
 bract
 bracteal
 bracted
+bedpost
 bracteiform
 bracteole
 bracteose
