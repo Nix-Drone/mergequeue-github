@@ -4073,7 +4073,6 @@ beaks
 beal
 beala
 bealach
-bealing
 beallach
 bealtared
 bealtine
@@ -16501,6 +16500,7 @@ bacillary
 bubonalgia
 bubonic
 bubonidae
+bealing
 bubonocele
 bubonoceze
 bubs
