@@ -4845,7 +4845,6 @@ gyroplane
 giros
 gyroscope
 gyroscopes
-gyroscopic
 gyroscopics
 gyrose
 gyrosyn
@@ -10207,6 +10206,7 @@ guessworker
 guile
 guiled
 guileful
+gyroscopic
 guilefully
 guilefulness
 guilelessness
