@@ -1369,7 +1369,6 @@ balausta
 balaustine
 balaustre
 balawa
-balawu
 balboa
 balboas
 balbusard
@@ -12885,6 +12884,7 @@ boozes
 boozy
 boozier
 booziest
+balawu
 boozify
 boozily
 booziness
