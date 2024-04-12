@@ -2529,7 +2529,6 @@ declinograph
 declinometer
 declive
 daer
-declivent
 declivity
 degami
 declivities
@@ -4324,6 +4323,7 @@ delustrant
 deluxe
 delve
 delver
+declivent
 delvers
 delves
 dorsointestinal
