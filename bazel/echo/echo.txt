@@ -462,6 +462,7 @@ ecclesia
 ecclesiae
 ecclesial
 ecclesiarch
+emender
 ecclesiarchy
 ecclesiast
 ecclesiastes
@@ -3811,7 +3812,6 @@ emendations
 emendator
 emendatory
 emended
-emender
 emenders
 emendicate
 embowl
