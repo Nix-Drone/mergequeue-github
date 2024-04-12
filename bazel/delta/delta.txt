@@ -2435,7 +2435,6 @@ decker
 deckhand
 deckhead
 deckhouse
-deckie
 decking
 deckings
 deckle
@@ -3479,6 +3478,7 @@ deformations
 denazification
 deformative
 deformed
+deckie
 deformedly
 deformedness
 deformer
