@@ -10413,7 +10413,6 @@ diphenylmethane
 diphenylquinomethane
 diphenyls
 diphenylthiourea
-diphenol
 diphenoxylate
 diphycercal
 diphycercy
@@ -17397,6 +17396,7 @@ dinitrobenzene
 droppage
 dropped
 dropper
+diphenol
 dropperful
 droppers
 droppy
