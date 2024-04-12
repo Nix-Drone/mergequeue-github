@@ -5466,7 +5466,6 @@ catalogist
 catalogistic
 catalogize
 catalogs
-catalogue
 catalogued
 cataloguer
 catalogues
@@ -16708,6 +16707,7 @@ cloudcap
 cloudful
 cloudy
 cloudier
+catalogue
 cloudiest
 cloudily
 cloudiness
