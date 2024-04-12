@@ -4021,7 +4021,6 @@ adjudgment
 adjudicata
 adjudicate
 adjudicated
-adjudicates
 adjudication
 adjudications
 adjudicative
@@ -4220,6 +4219,7 @@ adnascence
 adnascent
 adnate
 adnation
+adjudicates
 adnations
 avell
 adnephrine
