@@ -2218,7 +2218,6 @@ elecive
 ern
 enterprises
 elecives
-elect
 electability
 electable
 electant
@@ -5627,6 +5626,7 @@ enforce
 enforceability
 enforceable
 enforced
+elect
 enforcedly
 encyclopedize
 enforcement
