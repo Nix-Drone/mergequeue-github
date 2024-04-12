@@ -9766,6 +9766,7 @@ fistic
 freightage
 freighted
 freighters
+flagmaking
 freightyard
 freightless
 freightment
@@ -10831,7 +10832,6 @@ fuddler
 fuddles
 fuddling
 fuder
-flagmaking
 fudged
 fudger
 fudgy
