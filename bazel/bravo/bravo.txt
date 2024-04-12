@@ -7250,7 +7250,6 @@ bestow
 bestowable
 bestowal
 bestowals
-bestir
 bestower
 bestowing
 bestowment
@@ -14440,6 +14439,7 @@ branchiopod
 branchiopoda
 branchiopodan
 branchiopodous
+bestir
 branchiopoo
 branchiopulmonata
 branchiopulmonate
