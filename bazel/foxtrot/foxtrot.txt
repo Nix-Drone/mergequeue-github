@@ -714,6 +714,7 @@ famine
 famines
 faming
 famished
+fired
 famishes
 famishing
 famishment
@@ -4142,7 +4143,6 @@ firecoat
 firecracker
 firecrackers
 firecrest
-fired
 firedamp
 firedamps
 firedog
