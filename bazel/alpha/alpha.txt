@@ -1183,7 +1183,6 @@ abutters
 abutting
 abuzz
 abv
-abvolt
 abvolts
 abwab
 abwatt
@@ -12909,6 +12908,7 @@ anglistics
 anglo
 anglogaea
 anglogaean
+abvolt
 angloid
 angloman
 anglomane
