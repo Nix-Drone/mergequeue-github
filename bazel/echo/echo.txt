@@ -5375,6 +5375,7 @@ endostitis
 endostoma
 endostomata
 endostome
+extenders
 endostosis
 endostraca
 endostracum
@@ -13557,7 +13558,6 @@ extendable
 extended
 extendedly
 extender
-extenders
 extendibility
 extending
 extends
