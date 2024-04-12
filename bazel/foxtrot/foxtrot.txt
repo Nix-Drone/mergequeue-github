@@ -277,6 +277,7 @@ fadeless
 faden
 fadeout
 fader
+fluentness
 faders
 fadge
 fellowless
@@ -6233,7 +6234,6 @@ fluent
 fluently
 felones
 fleshment
-fluentness
 ferroprint
 fervour
 fluer
