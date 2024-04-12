@@ -2683,6 +2683,7 @@ canonicate
 canonics
 canonisation
 canonise
+contermine
 canonised
 canoniser
 canonises
@@ -23412,7 +23413,6 @@ callorhynchus
 conterminal
 conterminant
 conterminate
-contermine
 conterminous
 conterminously
 conterminousness
