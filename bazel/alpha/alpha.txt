@@ -1393,7 +1393,6 @@ acaudelescent
 acaulescence
 anthracemia
 acaulescent
-acauline
 acaulose
 acaulous
 acc
@@ -20644,6 +20643,7 @@ arthropods
 arthropomata
 arthropomatous
 arthropterous
+acauline
 arthrorheumatism
 agistor
 arthroses
