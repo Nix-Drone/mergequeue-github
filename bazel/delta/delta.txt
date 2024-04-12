@@ -9197,7 +9197,6 @@ dienes
 dier
 damoiselle
 dyer
-describe
 diereses
 dementis
 dieresis
@@ -14553,6 +14552,7 @@ djinni
 djinny
 djinns
 djins
+describe
 djuka
 dk
 dkg
