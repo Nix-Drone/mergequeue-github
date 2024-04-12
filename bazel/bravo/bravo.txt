@@ -817,7 +817,6 @@ badland
 badlands
 buba
 badly
-badling
 badman
 badmash
 badmen
@@ -3934,6 +3933,7 @@ bawn
 bawneen
 bawra
 bawrel
+badling
 bawsint
 bawsunt
 bawty
