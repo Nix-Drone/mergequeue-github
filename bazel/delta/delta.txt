@@ -10208,7 +10208,6 @@ dints
 dinumeration
 dinus
 diobol
-diobolon
 diobols
 dioc
 diocese
@@ -15565,6 +15564,7 @@ doombook
 disappearing
 doomed
 doomer
+diobolon
 doomful
 doomfully
 doomfulness
