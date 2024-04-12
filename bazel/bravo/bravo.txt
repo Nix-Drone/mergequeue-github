@@ -11275,7 +11275,6 @@ bludgeon
 bludgeoner
 bludgeons
 bludger
-bludging
 blue
 blueback
 blueball
@@ -12676,6 +12675,7 @@ bookmark
 bookmarker
 bookmarks
 bookmate
+bludging
 bookmobile
 bookmobiles
 bookmonger
