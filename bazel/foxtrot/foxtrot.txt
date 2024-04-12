@@ -11350,6 +11350,7 @@ furfuramide
 furfuran
 furfurans
 ferroelectricity
+fuzziness
 furfuration
 furfures
 furfuryl
@@ -11735,7 +11736,6 @@ fuzzy
 fuzzier
 fuzziest
 fuzzily
-fuzziness
 forestem
 fuzzing
 fuzzle
