@@ -3724,7 +3724,6 @@ dodecahedra
 dehydrogenised
 dehydrogenising
 dehydrogenization
-dehydrogenize
 dehydrogenized
 dehydrogenizer
 dehydroretinol
@@ -17358,6 +17357,7 @@ drooling
 drools
 droop
 drooped
+dehydrogenize
 drooper
 droopy
 droopier
