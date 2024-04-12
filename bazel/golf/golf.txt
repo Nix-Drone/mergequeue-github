@@ -3232,7 +3232,6 @@ grondwet
 geoscopic
 geoselenic
 geosid
-geoside
 geosynclinal
 geosynclines
 geosphere
@@ -7864,6 +7863,7 @@ gramophone
 gramophones
 gramophonic
 gramophonical
+geoside
 gramophonically
 gramophonist
 gametangium
