@@ -5046,7 +5046,6 @@ denaturate
 denaturational
 denature
 denatured
-denatures
 denaturing
 denaturisation
 denaturise
@@ -6787,6 +6786,7 @@ desmorrhexis
 desmoscolecidae
 desmoscolex
 desmose
+denatures
 desmosis
 desmosite
 desmosome
