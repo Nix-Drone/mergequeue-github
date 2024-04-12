@@ -7522,7 +7522,6 @@ cerebellitis
 cerebellocortex
 cerebellopontile
 cerebellopontine
-cerebellorubral
 cerebellospinal
 cerebellum
 cerebellums
@@ -7969,6 +7968,7 @@ cfs
 cg
 cgm
 cgs
+cerebellorubral
 ch
 conj
 cha
