@@ -4234,7 +4234,6 @@ adnominally
 adnomination
 adnoun
 adnouns
-adnumber
 ado
 adobes
 adobo
@@ -9324,6 +9323,7 @@ alphabetarian
 alphabeted
 alphabetic
 alphabetical
+adnumber
 alphabetically
 alphabetiform
 alphabeting
