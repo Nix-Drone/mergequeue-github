@@ -6279,7 +6279,6 @@ dermatoscopy
 dermatoses
 dermatosiophobia
 degausses
-dermatosis
 dermatoskeleton
 dermatotherapy
 dermatotome
@@ -16033,6 +16032,7 @@ doublette
 doublewidth
 doubly
 doubling
+dermatosis
 doubloon
 doubloons
 doublure
