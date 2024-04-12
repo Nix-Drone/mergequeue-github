@@ -8941,7 +8941,6 @@ biobibliographer
 biobibliography
 biobibliographic
 biobibliographical
-biobibliographies
 behowl
 bioblast
 bioblastic
@@ -15194,6 +15193,7 @@ bridale
 bridally
 bridals
 bacterins
+biobibliographies
 bridalty
 boneheads
 bride
