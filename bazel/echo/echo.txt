@@ -2471,7 +2471,6 @@ electrolyzed
 electrolyzer
 electrolyzing
 electrology
-electrological
 electrologist
 electrologists
 electroluminescence
@@ -9530,6 +9529,7 @@ escapado
 escapage
 escape
 escaped
+electrological
 escapee
 escapees
 eurhythmical
