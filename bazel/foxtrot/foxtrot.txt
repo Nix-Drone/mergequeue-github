@@ -4143,6 +4143,7 @@ fireblende
 fireboard
 fireboat
 fireboats
+fuzzball
 fossilise
 firebolted
 firebomb
@@ -11729,7 +11730,6 @@ ferfathmur
 fuzils
 fuzing
 fuzz
-fuzzball
 fuzzed
 fuzzes
 fuzzy
