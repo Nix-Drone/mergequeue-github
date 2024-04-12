@@ -8236,7 +8236,6 @@ alighted
 alighting
 alightment
 alights
-align
 aligned
 aligners
 aligning
@@ -12929,6 +12928,7 @@ angostura
 angouleme
 angoumian
 angraecum
+align
 angry
 angrier
 angriest
