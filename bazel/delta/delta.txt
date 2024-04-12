@@ -1695,7 +1695,6 @@ deathify
 deathin
 deathiness
 deathless
-deathlessly
 deathlessness
 deathly
 deathlike
@@ -16225,6 +16224,7 @@ dowery
 doweries
 dowering
 dowerless
+deathlessly
 dowf
 dowfart
 dishtowel
