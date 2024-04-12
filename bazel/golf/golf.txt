@@ -5549,7 +5549,6 @@ glidder
 gliddery
 glide
 glided
-glider
 gruft
 gregor
 gliderport
@@ -6678,6 +6677,7 @@ golds
 goldsinny
 goldsmithery
 goldsmithry
+glider
 goldsmiths
 goldspink
 gnathopod
