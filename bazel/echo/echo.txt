@@ -4465,6 +4465,7 @@ evacuates
 enascent
 enatant
 enate
+evenforth
 enatic
 enation
 enations
@@ -11471,7 +11472,6 @@ evenest
 evenfall
 evenfalls
 errands
-evenforth
 evenglome
 evenglow
 ethnarch
