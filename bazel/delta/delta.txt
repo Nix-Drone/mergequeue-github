@@ -4287,7 +4287,6 @@ deltohedra
 deltohedron
 deltoid
 deltoidei
-deltoideus
 deltoids
 delubra
 delubrubra
@@ -9933,6 +9932,7 @@ dimissory
 dimit
 dimity
 dimities
+deltoideus
 dimitry
 dimitted
 dimitting
