@@ -1450,6 +1450,7 @@ garmenting
 garmentless
 garmentmaker
 garments
+grasseye
 glutael
 garmenture
 garmentworker
@@ -9114,7 +9115,6 @@ gryphons
 gryphosaurus
 griphus
 gripy
-grasseye
 gripier
 gripingly
 gripless
