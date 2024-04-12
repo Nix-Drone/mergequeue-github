@@ -5768,7 +5768,6 @@ catfalls
 catfight
 creeled
 catfish
-catfishes
 catfoot
 catfooted
 catgut
@@ -25803,6 +25802,7 @@ corsak
 corse
 corselet
 corseleted
+catfishes
 contradicting
 corseleting
 corselets
