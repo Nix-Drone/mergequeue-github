@@ -14835,7 +14835,6 @@ cytitis
 chamkanni
 cityward
 citywards
-citywide
 citizen
 citizendom
 citizeness
@@ -24522,6 +24521,7 @@ confederates
 copycat
 copycats
 copycatted
+citywide
 copycatting
 copycutter
 ctenacanthus
