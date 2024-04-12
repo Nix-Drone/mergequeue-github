@@ -303,6 +303,7 @@ eatability
 eatable
 eatableness
 eatables
+electrolyzability
 eatanswill
 eatberry
 eatche
@@ -2482,7 +2483,6 @@ epitomisation
 electrolytic
 electrolytical
 electrolytically
-electrolyzability
 electrolyze
 electrolyzed
 electrology
