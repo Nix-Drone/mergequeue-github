@@ -1822,7 +1822,6 @@ geodetically
 gibbering
 gastrohysteropexy
 gastrohysterotomy
-gastroid
 gastrointestinal
 grassquit
 gastrojejunostomy
@@ -6337,6 +6336,7 @@ gnomic
 gutte
 gnomical
 gnomide
+gastroid
 gnomish
 gnomist
 gabert
