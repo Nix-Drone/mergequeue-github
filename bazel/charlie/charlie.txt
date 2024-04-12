@@ -2378,7 +2378,6 @@ candle
 coehorn
 candleball
 caripeta
-candlebeam
 candleberry
 candleberries
 candlebomb
@@ -19685,6 +19684,7 @@ combinators
 combind
 combine
 combined
+candlebeam
 condyloid
 combinedly
 cations
