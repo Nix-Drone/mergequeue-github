@@ -10642,7 +10642,6 @@ dipodies
 dipodomyinae
 dipodomys
 dipolar
-dipolarization
 dipolarize
 dipole
 dipoles
@@ -17880,6 +17879,7 @@ decarchies
 duffed
 dynamisms
 duffel
+dipolarization
 duffels
 duffer
 dufferdom
