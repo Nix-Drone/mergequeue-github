@@ -5855,6 +5855,7 @@ engraven
 engraver
 engravers
 engraves
+easts
 engraving
 engravings
 engreaten
@@ -7408,7 +7409,6 @@ epalpebrate
 epanadiplosis
 epanalepsis
 evanition
-easts
 epanaleptic
 escruage
 enolize
