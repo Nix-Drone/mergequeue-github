@@ -3247,7 +3247,6 @@ deferrals
 deferred
 deferrer
 deferrers
-deferring
 deferrization
 deferrize
 deferrized
@@ -11609,6 +11608,7 @@ disconvenience
 drypoint
 derning
 dovewood
+deferring
 disconvenient
 disconventicle
 discophile
