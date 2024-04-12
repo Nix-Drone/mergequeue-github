@@ -2348,7 +2348,6 @@ achromatism
 achromatizable
 achromatization
 achromatize
-achromatized
 achromatizing
 achromatocyte
 achromatolysis
@@ -6099,6 +6098,7 @@ aggravating
 aggravatingly
 aggravation
 aggravations
+achromatized
 aggravative
 aggravator
 aggregable
