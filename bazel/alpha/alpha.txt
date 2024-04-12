@@ -22168,7 +22168,6 @@ astor
 astore
 astound
 aranga
-astoundable
 astounded
 astoundingly
 astoundment
@@ -24387,6 +24386,7 @@ autosomatognostic
 autosome
 autosomes
 autosoteric
+astoundable
 autosoterism
 autospore
 autosporic
