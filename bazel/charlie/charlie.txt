@@ -11529,7 +11529,6 @@ cholecyanine
 cholecyst
 cholecystectasia
 cholecystectomy
-cholecystectomies
 cholecystectomized
 cholecystenterorrhaphy
 cholecystenterostomy
@@ -30342,6 +30341,7 @@ csardas
 csc
 csch
 csect
+cholecystectomies
 csects
 csi
 csk
