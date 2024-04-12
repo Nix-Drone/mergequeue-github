@@ -3929,7 +3929,6 @@ delacrimation
 delactation
 delay
 delayable
-delayed
 demes
 delayer
 delayers
@@ -10000,6 +9999,7 @@ dynamo
 dinamode
 dynamoelectric
 dynamoelectrical
+delayed
 dynamogeneses
 dynamogenesis
 dynamogeny
