@@ -4984,6 +4984,7 @@ flanked
 flanken
 flanker
 flankers
+foliation
 fireshaft
 flanking
 flanks
@@ -6936,7 +6937,6 @@ foliary
 foliate
 foliated
 foliating
-foliation
 foliator
 foliature
 folic
