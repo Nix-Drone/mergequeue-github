@@ -2578,6 +2578,7 @@ bargello
 bargellos
 bargeload
 bargeman
+bookmaking
 bargemaster
 booklice
 barger
@@ -12682,7 +12683,6 @@ booklouse
 booklover
 bookmaker
 bookmakers
-bookmaking
 bedot
 bookman
 bookmark
