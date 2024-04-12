@@ -212,7 +212,6 @@ daemones
 daemony
 dietics
 daemonistic
-daemonology
 daemons
 daemonurgy
 daemonurgist
@@ -3104,6 +3103,7 @@ defamer
 defamers
 defames
 defamy
+daemonology
 defaming
 defamingly
 defamous
