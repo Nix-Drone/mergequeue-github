@@ -3586,7 +3586,6 @@ belatticed
 bathyhyperesthesia
 bathyhypesthesia
 bathyl
-bathylimnetic
 bathylite
 bathylith
 bathylithic
@@ -13729,6 +13728,7 @@ bowdlerizer
 bowdlerizes
 bevy
 bowdlerizing
+bathylimnetic
 bowdrill
 bowe
 bowed
