@@ -3255,6 +3255,7 @@ deferrer
 deferrers
 deferring
 deferrization
+dismissible
 deferrize
 deferrized
 deferrizing
@@ -12695,7 +12696,6 @@ dismissed
 dismisser
 dismissers
 dismisses
-dismissible
 dismissing
 dismissingly
 dismission
