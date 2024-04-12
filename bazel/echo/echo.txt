@@ -2326,6 +2326,7 @@ electroaffinity
 electroamalgamation
 electroanalytic
 electroanalytical
+encl
 electroanesthesia
 electroballistically
 electroballistician
@@ -4775,7 +4776,6 @@ encystment
 encystments
 encysts
 encitadel
-encl
 enclaret
 enclasped
 enclasping
