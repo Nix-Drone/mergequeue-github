@@ -4080,7 +4080,6 @@ firca
 foregirth
 fyrd
 fyrdung
-faldistory
 fire
 fireable
 firearm
@@ -6303,6 +6302,7 @@ fluky
 flukier
 flukily
 flukiness
+faldistory
 fenagling
 fluking
 flumadiddle
