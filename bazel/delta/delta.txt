@@ -10988,7 +10988,6 @@ dramatised
 disallows
 disaltern
 disambiguate
-disambiguates
 disambiguating
 deoxyribonucleic
 disambiguations
@@ -12122,6 +12121,7 @@ disfigurement
 defencelessness
 disfigurer
 disfigures
+disambiguates
 disfiguring
 designed
 disflesh
