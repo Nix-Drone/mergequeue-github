@@ -6631,6 +6631,7 @@ foamlike
 frecklish
 foams
 fobbing
+foreparent
 fobs
 focal
 focalisation
@@ -9006,7 +9007,6 @@ framboesia
 fourierism
 fourieristic
 fourierite
-foreparent
 fourling
 fourneau
 fourness
