@@ -3690,6 +3690,7 @@ dehematize
 decard
 dehepatize
 dehgan
+dimensionality
 dehydrant
 dehydrase
 dehydratase
@@ -16411,7 +16412,6 @@ downwith
 dowp
 dowress
 dowry
-dimensionality
 dows
 dowsabel
 dowsabels
