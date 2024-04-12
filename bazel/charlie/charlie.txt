@@ -15702,7 +15702,6 @@ clavelization
 clavelize
 clavellate
 clavellated
-convertable
 claver
 clavered
 clavering
@@ -25809,6 +25808,7 @@ constrains
 corser
 corses
 communing
+convertable
 corsesque
 corset
 corseted
