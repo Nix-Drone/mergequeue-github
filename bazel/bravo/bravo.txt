@@ -7192,7 +7192,6 @@ bessarabian
 brightly
 bessel
 belyingly
-besselian
 bessemer
 bessemerize
 bessemerized
@@ -14822,6 +14821,7 @@ breakpoint
 breakpoints
 breaks
 breakshugh
+besselian
 breakstone
 breakthrough
 breakthroughes
