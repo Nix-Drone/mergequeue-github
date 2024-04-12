@@ -2062,7 +2062,6 @@ glairs
 gauntlet
 gauntleting
 gauntlets
-gauntly
 gauntness
 galangal
 gauntry
@@ -10016,6 +10015,7 @@ gudewife
 gudge
 gudgeon
 gudgeoned
+gauntly
 gudgeoning
 gudgeons
 gudget
