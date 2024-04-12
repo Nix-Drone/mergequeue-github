@@ -6820,7 +6820,6 @@ enticer
 enticers
 entices
 enticingly
-enticingness
 enties
 entify
 entifical
@@ -13172,6 +13171,7 @@ explanations
 explanative
 explanatively
 explanator
+enticingness
 explanatory
 explanatorily
 explanatoriness
