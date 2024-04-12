@@ -6556,7 +6556,6 @@ entailable
 entailed
 entailer
 exterminatress
-entailment
 entailments
 entails
 ental
@@ -7429,6 +7428,7 @@ epanorthidae
 epanorthoses
 epanorthotic
 epanthous
+entailment
 epapillate
 epapophysis
 epilemmal
