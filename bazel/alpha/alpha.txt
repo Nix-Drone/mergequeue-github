@@ -4215,7 +4215,6 @@ adnerval
 adnescent
 armsize
 adneural
-adnex
 adnexal
 adnexed
 adnexitis
@@ -22970,6 +22969,7 @@ attalid
 attame
 attapulgite
 attar
+adnex
 attargul
 attars
 attask
