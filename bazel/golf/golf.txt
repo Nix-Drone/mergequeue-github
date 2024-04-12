@@ -3070,6 +3070,7 @@ gillnet
 geog
 geogen
 geogenesis
+gyropilot
 geogenetic
 geogeny
 geogenic
@@ -4828,7 +4829,6 @@ gyrons
 gyrophoraceae
 gyrophoraceous
 gyropigeon
-gyropilot
 gyroplane
 giros
 gyroscope
