@@ -3537,7 +3537,6 @@ defunctionalize
 defunctive
 defunctness
 defuse
-defused
 defuses
 defusing
 defusion
@@ -12944,6 +12943,7 @@ dispeopler
 dispeopling
 dyspepsy
 dyspepsies
+defused
 dyspeptic
 dyspeptical
 dyspeptically
