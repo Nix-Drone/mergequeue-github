@@ -1546,7 +1546,6 @@ deadpanner
 deadpanning
 deadpans
 deadrise
-deadrize
 deadtongue
 deadweight
 deadwood
@@ -2340,6 +2339,7 @@ disownment
 decides
 deciding
 decidua
+deadrize
 deciduary
 diosmotic
 deciduas
