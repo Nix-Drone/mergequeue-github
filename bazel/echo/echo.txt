@@ -11317,7 +11317,6 @@ evacuating
 evacuation
 evacuations
 evacuative
-evacuator
 evacuators
 exteriors
 eyeful
@@ -13474,6 +13473,7 @@ exsect
 exsected
 exsectile
 exsecting
+evacuator
 exsector
 exsects
 exsequatur
