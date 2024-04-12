@@ -2239,6 +2239,7 @@ electability
 electable
 electant
 electary
+epithet
 enthraldom
 elysee
 electees
@@ -8411,7 +8412,6 @@ epithermal
 epithermally
 emmenia
 epithesis
-epithet
 epithetic
 epithetical
 epithetically
