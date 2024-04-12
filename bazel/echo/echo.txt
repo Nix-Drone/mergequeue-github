@@ -1592,7 +1592,6 @@ egyptianize
 egyptize
 egyptologer
 epipany
-egyptology
 egyptologic
 egyptological
 egyptologist
@@ -3932,6 +3931,7 @@ emigrants
 emigrate
 emigrates
 emigrating
+egyptology
 emigration
 emigrational
 emigrationist
