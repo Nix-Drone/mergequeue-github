@@ -1064,7 +1064,6 @@ farmy
 farmyard
 farmyardy
 farmyards
-fivers
 foremastman
 farmland
 farmost
@@ -7453,6 +7452,7 @@ forclose
 forconceit
 ferrimagnet
 forcut
+fivers
 ford
 fordable
 flaunche
