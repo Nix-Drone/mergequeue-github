@@ -7012,7 +7012,6 @@ beshrouding
 beshrouds
 bufflehorn
 beside
-bullfinch
 besides
 besiege
 besieged
@@ -11624,6 +11623,7 @@ boatloader
 boatloading
 baske
 boatloads
+bullfinch
 boatman
 boatmanship
 boatmaster
