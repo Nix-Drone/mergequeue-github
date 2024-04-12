@@ -1835,7 +1835,6 @@ accusant
 accusants
 accusation
 accusations
-accusatival
 accusative
 accusatively
 accusativeness
@@ -24780,6 +24779,7 @@ avikom
 avilaria
 avilement
 avine
+accusatival
 aviolite
 avion
 avionic
