@@ -4880,7 +4880,6 @@ carts
 commonwealth
 cartulary
 cartularies
-cartway
 cartware
 chondrofetal
 cartwheel
@@ -23739,6 +23738,7 @@ contrariness
 contrarious
 contrariously
 contrariousness
+cartway
 contrariwise
 contrarotation
 contrascriptural
