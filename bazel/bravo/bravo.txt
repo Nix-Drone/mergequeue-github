@@ -2111,6 +2111,7 @@ bankbook
 bankbooks
 bankcard
 bankcards
+bronchiogenic
 banked
 banker
 bewitchments
@@ -15928,7 +15929,6 @@ bronchiarctia
 bronchiloquy
 bronchiocele
 bronchiocrisis
-bronchiogenic
 bronchiolar
 bronchioli
 bronchiolitis
