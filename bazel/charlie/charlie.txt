@@ -6502,7 +6502,6 @@ cecomorphae
 cecomorphic
 cecopexy
 cecostomy
-cecotomy
 cecropia
 cecrops
 cecum
@@ -21875,6 +21874,7 @@ confessant
 confessary
 confessarius
 confessed
+cecotomy
 confessedly
 confesser
 confesses
