@@ -6918,7 +6918,6 @@ ammoniacal
 airfare
 airfares
 airfield
-airfields
 airflow
 airflows
 airfoil
@@ -20899,6 +20898,7 @@ asbestine
 asbestinize
 asbestoid
 asbestoidal
+airfields
 asbestos
 asbestoses
 asbestosis
