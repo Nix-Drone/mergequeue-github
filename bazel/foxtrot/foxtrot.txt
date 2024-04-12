@@ -2379,7 +2379,6 @@ feres
 feretory
 firearmed
 feretories
-fodders
 feretra
 frontes
 feretrum
@@ -5771,6 +5770,7 @@ floated
 filical
 floater
 floaters
+fodders
 floaty
 floatier
 fitter
