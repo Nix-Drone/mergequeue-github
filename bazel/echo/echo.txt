@@ -9181,7 +9181,6 @@ erythrocytorrhexis
 erythrocytoschisis
 erythrocytosis
 erythroclasis
-erythroclastic
 erythrodegenerative
 ephebeum
 erythrodermia
@@ -10076,6 +10075,7 @@ estonia
 estonian
 estop
 englyns
+erythroclastic
 estoppal
 estopped
 estoppel
