@@ -10491,6 +10491,7 @@ blastoporphyritic
 blastosphere
 balisaur
 blastospheric
+buttonhold
 blastostylar
 blastostyle
 blastozooid
@@ -16990,7 +16991,6 @@ bulgy
 bulgier
 bridges
 bulgiest
-buttonhold
 bulginess
 bulging
 bulgingly
