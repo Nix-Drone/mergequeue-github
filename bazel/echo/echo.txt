@@ -3930,7 +3930,6 @@ emigr
 emigrant
 eavesdrip
 emigrants
-emigrate
 emigrates
 emigrating
 egyptology
@@ -12885,6 +12884,7 @@ exotoxic
 exotoxin
 electrotherapeutic
 exotoxins
+emigrate
 exotropia
 exotropic
 exp
