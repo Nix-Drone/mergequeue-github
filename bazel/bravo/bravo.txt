@@ -5205,7 +5205,6 @@ beg
 begabled
 begad
 begay
-begall
 begalled
 begalling
 begalls
@@ -9409,6 +9408,7 @@ birdfarms
 birdglue
 birdhood
 birdhouse
+begall
 birdhouses
 birdy
 birdyback
