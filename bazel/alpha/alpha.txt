@@ -2023,6 +2023,7 @@ acetifying
 acetyl
 acetylacetonates
 acetylacetone
+apogeotropism
 acetylamine
 acetylaminobenzene
 acetylaniline
@@ -17214,7 +17215,6 @@ apogeny
 apogenous
 apogeotropic
 apogeotropically
-apogeotropism
 apogon
 apogonid
 apogonidae
