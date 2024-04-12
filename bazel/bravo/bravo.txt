@@ -1148,6 +1148,7 @@ bays
 baisemain
 belatedly
 boardable
+battiness
 baysmelt
 baister
 bait
@@ -3756,7 +3757,6 @@ battier
 batties
 battiest
 battik
-battiness
 batting
 battings
 battish
