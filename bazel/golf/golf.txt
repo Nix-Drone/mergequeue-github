@@ -1913,7 +1913,6 @@ gasworks
 gata
 gatch
 gate
-gateado
 gateage
 gatecrasher
 gatecrashers
@@ -10455,6 +10454,7 @@ gumtree
 gumtrees
 gambier
 gumweed
+gateado
 gumweeds
 goys
 gumwoods
