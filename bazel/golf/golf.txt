@@ -3440,7 +3440,6 @@ germigene
 germigenous
 germin
 germina
-germinable
 garthman
 gauds
 germinal
@@ -10139,6 +10138,7 @@ guidebooky
 guidebookish
 guidebooks
 guided
+germinable
 guideless
 guideline
 giallolino
