@@ -5529,7 +5529,6 @@ gravaminous
 glycopexis
 glycoproteid
 glycosaemia
-glycose
 glycosidase
 glycoside
 glycosides
@@ -6460,6 +6459,7 @@ gobbe
 glycemic
 gobbed
 gobber
+glycose
 gobbet
 gobby
 gobbin
