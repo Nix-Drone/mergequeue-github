@@ -10205,7 +10205,6 @@ guile
 guiled
 guileful
 gyroscopic
-guilefully
 guilefulness
 guilelessness
 guiler
@@ -10708,6 +10707,7 @@ gulix
 gustfulness
 gusty
 gustier
+guilefully
 gustiest
 globulin
 gustless
