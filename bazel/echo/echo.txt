@@ -4201,7 +4201,6 @@ empyromancy
 emplace
 encrinus
 emplaced
-emplacement
 emplacements
 emplane
 emplaned
@@ -13907,6 +13906,7 @@ extrapatriarchal
 extrapelvic
 extraperineal
 extraperiodic
+emplacement
 extraperiosteal
 endonuclease
 extraperitoneal
