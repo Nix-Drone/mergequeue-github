@@ -1097,7 +1097,6 @@ edibility
 edible
 edibleness
 edibles
-enworthy
 edict
 edictal
 edictally
@@ -5459,6 +5458,7 @@ endrin
 endrins
 endromididae
 endrudge
+enworthy
 eltime
 endrumpf
 endseal
