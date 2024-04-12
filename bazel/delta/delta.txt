@@ -3906,7 +3906,6 @@ dekaparsec
 dekapode
 dekarch
 dekare
-dekares
 dekastere
 deke
 deked
@@ -7710,6 +7709,7 @@ devonshire
 devoration
 devota
 devotary
+dekares
 devote
 devotedly
 devotedness
