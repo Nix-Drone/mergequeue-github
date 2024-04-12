@@ -3342,6 +3342,7 @@ emballonurid
 emballonuridae
 embalm
 embalmed
+envelopes
 embalmer
 embalmers
 embalmment
@@ -12102,7 +12103,6 @@ exclaves
 exclosure
 excludability
 excludable
-envelopes
 extemporaneous
 exclude
 excludes
