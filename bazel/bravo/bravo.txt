@@ -5648,7 +5648,6 @@ bombazeen
 bodgie
 beleaguer
 beleaguered
-beleaguerer
 beleaguering
 beleaguers
 beleap
@@ -10261,6 +10260,7 @@ bladed
 bladeless
 bladelet
 bladelike
+beleaguerer
 buccate
 blades
 bladesmith
