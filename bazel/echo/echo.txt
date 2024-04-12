@@ -459,7 +459,6 @@ eccyesis
 eccl
 eccles
 ecclesia
-ecclesiae
 ecclesiarch
 ecclesiarchy
 esthetician
@@ -558,6 +557,7 @@ echinocactus
 echinocaris
 echinocereus
 echinochrome
+ecclesiae
 echinococcosis
 echinococcus
 echinoderidae
