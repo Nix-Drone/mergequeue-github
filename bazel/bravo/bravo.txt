@@ -2007,6 +2007,7 @@ bandspreading
 bandstand
 bandstands
 bandster
+blackfire
 bandstop
 bandstring
 bandura
@@ -10098,7 +10099,6 @@ blackfellows
 blackfigured
 blackfin
 blackfins
-blackfire
 blackfish
 blackfisher
 blackfishes
