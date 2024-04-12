@@ -824,7 +824,6 @@ fides
 fanit
 fanjet
 formulism
-fanleaf
 fanlight
 fanlights
 firstcomer
@@ -5121,6 +5120,7 @@ flatwash
 footpaddery
 flatweed
 fingery
+fanleaf
 flatwise
 frontate
 flatwoods
