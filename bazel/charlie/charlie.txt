@@ -14534,7 +14534,6 @@ cirsoid
 cirsomphalos
 cirsophthalmia
 completable
-cirsotome
 cirsotomy
 cirsotomies
 cyrtandraceae
@@ -25550,6 +25549,7 @@ corporator
 corporature
 corporeal
 corporealist
+cirsotome
 corporeality
 corporealization
 corporealize
