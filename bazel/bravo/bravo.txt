@@ -2967,7 +2967,6 @@ barrelhouses
 barreling
 broad
 barrelled
-barrelling
 brattle
 barrelmaker
 barrelmaking
@@ -6348,6 +6347,7 @@ benthamism
 benthamite
 benthic
 benthon
+barrelling
 benthonic
 bevors
 bicentenarnaries
