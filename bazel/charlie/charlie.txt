@@ -2396,7 +2396,6 @@ candlemaker
 candlemaking
 candlemas
 candlenut
-candlepin
 candlepins
 candlepower
 chemist
@@ -12654,6 +12653,7 @@ chubascos
 chubb
 chubbed
 chubbedness
+candlepin
 chubby
 chubbier
 chubbiest
