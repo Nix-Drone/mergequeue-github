@@ -13428,7 +13428,6 @@ dissatisfactory
 dissatisfactorily
 dissatisfactoriness
 doctorlike
-dissatisfy
 dissatisfied
 dissatisfiedly
 dissatisfiedness
@@ -17239,6 +17238,7 @@ drivepipe
 driver
 driverless
 drivers
+dissatisfy
 drivership
 drives
 dredgings
