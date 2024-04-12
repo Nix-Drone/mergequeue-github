@@ -3026,7 +3026,6 @@ barrooms
 barrow
 barrowcoat
 barrowful
-barrowist
 barrowman
 backscatters
 barrows
@@ -9214,6 +9213,7 @@ biostatistics
 biosterin
 bletting
 biosterol
+barrowist
 biostratigraphy
 biota
 biotas
