@@ -1420,7 +1420,6 @@ fatlings
 fatness
 fatnesses
 fylgjur
-furcular
 fats
 fatshedera
 ferahan
@@ -8842,6 +8841,7 @@ fossilization
 fossilized
 fossilizes
 fossilizing
+furcular
 fossillike
 formly
 fossilogy
