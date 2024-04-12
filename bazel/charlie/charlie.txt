@@ -15237,6 +15237,7 @@ claimant
 claimants
 clepe
 claimed
+composograph
 claimer
 consumables
 claimers
@@ -20805,7 +20806,6 @@ compositors
 cashed
 compositous
 compositure
-composograph
 compossibility
 compossible
 carduaceous
