@@ -2402,6 +2402,7 @@ candlenut
 candlepin
 candlepins
 candlepower
+chemist
 candler
 candlerent
 candlers
@@ -9842,7 +9843,6 @@ chemism
 choosy
 chemisorb
 chemisorption
-chemist
 chemistry
 chemistries
 chemists
