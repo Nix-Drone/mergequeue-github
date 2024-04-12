@@ -2482,7 +2482,6 @@ electroless
 electrolier
 extensum
 electrolysation
-electrolyse
 everydeal
 electrolysed
 electrolyses
@@ -6205,6 +6204,7 @@ exodist
 enophthalmos
 exobiological
 enophthalmus
+electrolyse
 equivocalities
 eusynchite
 enopla
