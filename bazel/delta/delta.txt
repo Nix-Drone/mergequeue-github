@@ -489,6 +489,7 @@ dayworker
 daywrit
 dakerhen
 dakerhens
+descartes
 dakhini
 dakir
 dakoit
@@ -6422,7 +6423,6 @@ descanting
 descantist
 descants
 donas
-descartes
 descend
 descendability
 descendable
