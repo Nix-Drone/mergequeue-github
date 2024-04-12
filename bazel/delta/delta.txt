@@ -1162,7 +1162,6 @@ dasiphora
 dasypygal
 dasypod
 dasypodidae
-dasypodoid
 dasyproctidae
 dasypus
 dasystephana
@@ -18375,6 +18374,7 @@ duplicident
 duplicidentata
 duplicidentate
 duplicious
+dasypodoid
 duplicipennate
 duplicitas
 duplicity
