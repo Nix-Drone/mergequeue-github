@@ -10987,7 +10987,6 @@ disallow
 disallowable
 disallowableness
 disallowance
-disallowances
 disallowed
 dramatised
 disallows
@@ -16812,6 +16811,7 @@ drawer
 drawerful
 drawers
 drawfile
+disallowances
 dissuited
 drawfiling
 drawgate
