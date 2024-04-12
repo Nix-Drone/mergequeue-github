@@ -4532,7 +4532,6 @@ demicanton
 demicaponier
 demichamfron
 demicylinder
-demicylindrical
 demicircle
 demicircular
 demicivilized
@@ -16652,6 +16651,7 @@ drail
 drailed
 drailing
 drails
+demicylindrical
 drayman
 draymen
 devests
