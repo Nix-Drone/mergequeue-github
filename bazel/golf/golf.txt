@@ -7196,7 +7196,6 @@ gresil
 gorer
 gores
 gorfly
-gorge
 gorgeable
 gorged
 groundplot
@@ -8701,6 +8700,7 @@ greenleaf
 greenleek
 greenlet
 greenlets
+gorge
 greenly
 greenling
 gyving
