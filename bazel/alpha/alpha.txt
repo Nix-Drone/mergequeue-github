@@ -8137,7 +8137,6 @@ algorisms
 algorist
 algoristic
 algorithm
-algorithmic
 algorithmically
 algorithms
 algors
@@ -23995,6 +23994,7 @@ autodepolymerization
 autodermic
 autodestruction
 autodetector
+algorithmic
 autodiagnosis
 autodiagnostic
 autodiagrammatic
