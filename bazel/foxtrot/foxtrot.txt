@@ -4424,6 +4424,7 @@ fishskin
 fishspear
 fishtail
 fishtailed
+fitten
 fishtailing
 fishtails
 fishway
@@ -4570,7 +4571,6 @@ fittage
 fytte
 fitted
 fittedness
-fitten
 fitters
 fyttes
 fitty
