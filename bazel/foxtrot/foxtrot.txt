@@ -1303,7 +1303,6 @@ frogskins
 fasts
 fastuous
 fastuousness
-fastus
 fastwalk
 foreking
 fat
@@ -7561,6 +7560,7 @@ foreconclude
 foreconscious
 foreconsider
 forecontrive
+fastus
 flagonet
 fazendas
 forecool
