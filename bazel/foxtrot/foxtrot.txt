@@ -5548,7 +5548,6 @@ fanmaker
 flighted
 flighter
 flightful
-flighty
 flightier
 flightiest
 flightily
@@ -9811,6 +9810,7 @@ frenzies
 freon
 fulmineous
 freq
+flighty
 frequence
 frequency
 frequencies
