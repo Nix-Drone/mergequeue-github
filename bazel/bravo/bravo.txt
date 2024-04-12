@@ -5378,6 +5378,7 @@ beguilement
 beguilements
 beguiler
 beguilers
+bridgeheads
 beguiles
 beguiling
 beadsman
@@ -15232,7 +15233,6 @@ bridgebuilder
 bridgebuilding
 bridged
 bridgehead
-bridgeheads
 bridgeless
 bridgelike
 bridgemaking
