@@ -5328,7 +5328,6 @@ forcefulness
 fleeces
 fleech
 fleeched
-fleeches
 fascicles
 fleeching
 fleechment
@@ -7245,6 +7244,7 @@ footstock
 footstone
 footstool
 footstools
+fleeches
 footway
 footways
 footwalk
