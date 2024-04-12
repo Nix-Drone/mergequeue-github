@@ -9461,6 +9461,7 @@ altazimuth
 alter
 alterability
 alterable
+apogeotropic
 alterableness
 alterably
 alterant
@@ -17237,7 +17238,6 @@ apogees
 apogeic
 apogeny
 apogenous
-apogeotropic
 apogeotropically
 apogeotropism
 apogon
