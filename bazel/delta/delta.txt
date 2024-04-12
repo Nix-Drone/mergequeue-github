@@ -9218,6 +9218,7 @@ diestock
 diestocks
 death
 diestrous
+drawbridge
 diestrual
 diestrum
 diestrums
@@ -16798,7 +16799,6 @@ drawbore
 deare
 drawbored
 drawbores
-drawbridge
 drawbridges
 druxy
 drawcansir
