@@ -3973,7 +3973,6 @@ giftwrap
 giftwrapping
 gig
 giga
-gigabit
 gipsylike
 gigabyte
 gigabytes
@@ -10289,6 +10288,7 @@ glopnen
 gurgle
 gelly
 gigameter
+gigabit
 gujrati
 gul
 guaiocums
