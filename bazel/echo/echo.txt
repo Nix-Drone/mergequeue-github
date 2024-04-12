@@ -823,7 +823,6 @@ ectypes
 ectypography
 ectiris
 ectoblast
-episodal
 exceeds
 ectoblastic
 ectobronchium
@@ -8846,6 +8845,7 @@ equivokes
 equivoluminal
 equivoque
 equivorous
+episodal
 equivote
 equoid
 equoidean
