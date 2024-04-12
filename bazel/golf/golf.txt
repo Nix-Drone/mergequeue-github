@@ -4251,7 +4251,6 @@ gymnic
 gymnical
 gymnics
 gymnoblastea
-gymnocalycium
 gymnocarpic
 gymnocarpous
 gymnoceratous
@@ -7311,6 +7310,7 @@ gossip
 gossipdom
 gossiped
 gossipee
+gymnocalycium
 gossiper
 gossipers
 gossiphood
