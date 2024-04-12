@@ -347,7 +347,6 @@ aberrant
 anthraceniferous
 aberrantly
 aberrants
-aberrate
 aberrating
 aberration
 aberrational
@@ -6548,6 +6547,7 @@ agronomies
 agronomist
 agronomists
 agog
+aberrate
 agroof
 agrope
 agropyron
