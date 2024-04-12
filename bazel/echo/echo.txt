@@ -2541,7 +2541,6 @@ electrooptic
 electrooptical
 electrooptically
 electroori
-electroosmosis
 eirenicon
 electroosmotic
 electroosmotically
@@ -3803,6 +3802,7 @@ emendator
 emendatory
 emended
 emenders
+electroosmosis
 emendicate
 embowl
 expansometer
