@@ -5235,7 +5235,6 @@ begaudy
 bobbled
 begaze
 begazes
-begazing
 begem
 begemmed
 begemming
@@ -7483,6 +7482,7 @@ balkingly
 betterly
 betterment
 bastardisation
+begazing
 betterments
 bettermost
 betterness
