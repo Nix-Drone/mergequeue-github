@@ -3568,7 +3568,6 @@ bellower
 bather
 bathers
 bathes
-bathetic
 bathetically
 bathflower
 bathhouse
@@ -14419,6 +14418,7 @@ bilimbi
 branchy
 branchia
 branchiae
+bathetic
 branchial
 branchiata
 branchiate
