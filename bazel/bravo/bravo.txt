@@ -3775,6 +3775,7 @@ baldly
 boyar
 battledoring
 battlefields
+borehole
 battlefront
 battlefronts
 battleful
@@ -12994,7 +12995,6 @@ boree
 boreen
 boreens
 boregat
-borehole
 boreholes
 boreiad
 bugseeds
