@@ -2883,6 +2883,7 @@ barotrauma
 barotraumas
 barotraumata
 bostons
+borborygm
 barotropic
 barouche
 barouchet
@@ -16797,7 +16798,6 @@ bibliokelpt
 buffeter
 buffeters
 buffeting
-borborygm
 buffetings
 buffets
 buffi
