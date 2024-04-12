@@ -6140,7 +6140,6 @@ flotant
 favorability
 filibusterer
 flotas
-flotative
 flote
 floter
 flotilla
@@ -7634,6 +7633,7 @@ flintified
 foredetermine
 foredevised
 foredevote
+flotative
 foredid
 foredispose
 foredivine
