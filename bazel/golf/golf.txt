@@ -5423,7 +5423,6 @@ glenoid
 glenoidal
 glent
 glenwood
-glessite
 glew
 gliadine
 gliadines
@@ -8177,6 +8176,7 @@ graphing
 graphiola
 graphiological
 graphiologist
+glessite
 graphis
 grumps
 graphite
