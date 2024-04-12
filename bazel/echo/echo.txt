@@ -5454,7 +5454,6 @@ endromididae
 endrudge
 endrumpf
 endseal
-electroballistic
 endshake
 endsheet
 endue
@@ -11451,6 +11450,7 @@ emboldening
 evenglow
 ethnarch
 evenhand
+electroballistic
 evenhanded
 evenhandedly
 evenhandedness
