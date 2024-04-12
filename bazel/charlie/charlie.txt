@@ -6790,6 +6790,7 @@ celosia
 celosias
 celotex
 celotomy
+consultee
 celotomies
 celsia
 celsian
@@ -23196,7 +23197,6 @@ consultations
 consultatively
 consultatory
 consulted
-consultee
 counterparallel
 consulter
 consultive
