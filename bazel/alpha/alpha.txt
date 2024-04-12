@@ -1534,7 +1534,6 @@ accidentalism
 accidentality
 accidentally
 accidentalness
-accidentals
 accidentary
 accidentarily
 anonymous
@@ -16861,6 +16860,7 @@ asclepius
 antiphoner
 aphesis
 apheta
+accidentals
 aphetic
 aphetically
 aphanitic
