@@ -5198,7 +5198,6 @@ endogenae
 endogenesis
 endogenetic
 endogeny
-endogenic
 eyebolt
 endogenicity
 endogenies
@@ -5582,6 +5581,7 @@ enfeoffment
 enfester
 enfetter
 enfettered
+endogenic
 enfettering
 enfetters
 enfever
