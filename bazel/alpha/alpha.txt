@@ -8165,7 +8165,6 @@ algorismic
 algorisms
 algorist
 algoristic
-algorithm
 algorithmic
 algorithmically
 algors
@@ -9567,6 +9566,7 @@ altogether
 altogetherness
 altoist
 altos
+algorithm
 altostratus
 altoun
 altrices
