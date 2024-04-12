@@ -2684,6 +2684,7 @@ fertility
 fertilities
 fertilizability
 fertilizable
+floter
 ferroprussiate
 fertilization
 fertilizational
@@ -6165,7 +6166,6 @@ favorability
 flotas
 flotative
 flote
-floter
 flotilla
 flotillas
 flibbertigibbets
