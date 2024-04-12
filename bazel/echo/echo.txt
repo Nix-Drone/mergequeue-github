@@ -8642,7 +8642,6 @@ equicohesive
 equicontinuous
 equiconvex
 equicostate
-equicrural
 equicurve
 equid
 equidiagonal
@@ -11856,6 +11855,7 @@ exarticulate
 exarticulation
 exasperate
 exasperated
+equicrural
 exasperatedly
 exasperater
 exasperates
