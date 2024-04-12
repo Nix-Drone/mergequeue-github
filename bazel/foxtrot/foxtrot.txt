@@ -1943,6 +1943,7 @@ feedbag
 feedbags
 fartherance
 feedbin
+firelock
 feedboard
 feedbox
 feedboxes
@@ -4173,7 +4174,6 @@ fireless
 firelight
 forfar
 firelit
-firelock
 firelocks
 fetterless
 firemanship
