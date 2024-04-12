@@ -4165,6 +4165,7 @@ biassing
 beard
 bearded
 beardedness
+bewigged
 bearder
 beardfish
 beardfishes
@@ -7622,7 +7623,6 @@ balsamy
 bewidow
 bewield
 bewig
-bewigged
 brokery
 bewigging
 bioluminescent
