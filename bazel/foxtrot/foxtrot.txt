@@ -2895,7 +2895,6 @@ feudatory
 feudatorial
 feudatories
 feuded
-feudee
 feuder
 flock
 feuding
@@ -7577,6 +7576,7 @@ foredated
 fempty
 folliful
 foredating
+feudee
 foredeck
 foredeclare
 foredeem
