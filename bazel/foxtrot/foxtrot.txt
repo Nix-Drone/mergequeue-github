@@ -5457,7 +5457,6 @@ flexibly
 flexile
 flexility
 flexion
-flexionless
 flexions
 flexitime
 ferdiad
@@ -9108,6 +9107,7 @@ foxglove
 falun
 foxgloves
 foxhole
+flexionless
 foxholes
 foxhound
 foxhounds
