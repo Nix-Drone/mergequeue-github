@@ -1993,7 +1993,6 @@ bandsman
 bandsmen
 bandspreading
 bandstand
-bandstands
 bandster
 bandstop
 bandstring
@@ -14837,6 +14836,7 @@ breakwater
 breakweather
 breakwind
 bream
+bandstands
 breamed
 breaming
 breams
