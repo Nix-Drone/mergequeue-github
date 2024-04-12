@@ -2878,7 +2878,6 @@ cantraip
 cantraips
 cantrap
 cantraps
-cantred
 cantref
 cantrip
 cantrips
@@ -29860,6 +29859,7 @@ crosslet
 crossleted
 crossly
 carcase
+cantred
 crosslight
 crosslighted
 crosslike
