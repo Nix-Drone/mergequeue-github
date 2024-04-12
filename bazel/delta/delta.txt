@@ -7044,7 +7044,6 @@ desuete
 desuetudes
 desugared
 desugaring
-desugarize
 desulfovibrio
 desulfur
 dudeen
@@ -14619,6 +14618,7 @@ docents
 dockhead
 docentship
 diddle
+desugarize
 docetae
 docetism
 docetistic
