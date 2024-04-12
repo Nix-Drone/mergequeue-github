@@ -647,6 +647,7 @@ bacterid
 bacteriemia
 bacteriform
 bacterin
+borofluoric
 bacterioagglutinin
 bacterioblast
 bacteriochlorophyll
@@ -13049,7 +13050,6 @@ basnet
 borocalcite
 borocitrate
 borofluohydric
-borofluoric
 borofluorin
 boroglycerate
 boroglycerine
