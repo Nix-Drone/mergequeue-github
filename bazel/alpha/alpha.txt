@@ -3888,6 +3888,7 @@ adiathermal
 adiathermancy
 adiathermic
 adiathetic
+antiprism
 adiating
 adiation
 adib
@@ -15973,7 +15974,6 @@ antipriesthood
 antiprime
 antiprimer
 antiprinciple
-antiprism
 antiproductionist
 antiproductive
 antiproductively
