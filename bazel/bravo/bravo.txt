@@ -6482,6 +6482,7 @@ benzols
 benzonaphthol
 benzonitrile
 benzonitrol
+bluebuck
 benzoperoxide
 benzophenanthrazine
 benzophenazine
@@ -11299,7 +11300,6 @@ bluebook
 bluebooks
 bluebottles
 bluebreast
-bluebuck
 bluebush
 bluebutton
 bluecap
