@@ -2116,7 +2116,6 @@ bankrider
 brachycome
 bankroll
 bankrolled
-bankroller
 bankrolling
 bankrolls
 bankrupcy
@@ -7716,6 +7715,7 @@ bewreck
 befreckle
 bewry
 bewrite
+bankroller
 bewwept
 bezaleel
 bezan
