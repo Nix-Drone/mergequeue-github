@@ -3672,7 +3672,6 @@ damaging
 degumming
 degums
 degust
-degustate
 degustation
 degusted
 degusting
@@ -15026,6 +15025,7 @@ dogship
 damningness
 dogskin
 dogsleds
+degustate
 disconformable
 dogsleep
 dogstail
