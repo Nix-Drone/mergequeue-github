@@ -5418,6 +5418,7 @@ affluence
 affluency
 affluent
 affluently
+assemblies
 affluentness
 affluents
 abscise
@@ -21668,7 +21669,6 @@ anniv
 assembler
 assembles
 assembly
-assemblies
 assemblyman
 assemblymen
 assembling
