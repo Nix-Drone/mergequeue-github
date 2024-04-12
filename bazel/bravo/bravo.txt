@@ -3049,7 +3049,6 @@ bartenders
 bartending
 bartends
 barter
-bartered
 barterer
 barterers
 bartering
@@ -12618,6 +12617,7 @@ boohoo
 besplash
 bourd
 bolshevism
+bartered
 boondoggled
 boohooing
 boohoos
