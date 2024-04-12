@@ -2579,7 +2579,6 @@ bargellos
 bargeload
 bargeman
 bargemaster
-bargepole
 booklice
 barger
 barges
@@ -10282,6 +10281,7 @@ blains
 blair
 blakeberyed
 blakeite
+bargepole
 bulbose
 barringtonia
 blamability
