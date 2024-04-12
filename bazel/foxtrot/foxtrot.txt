@@ -537,7 +537,6 @@ fondon
 falern
 falernian
 falerno
-faliscan
 falisci
 falk
 faut
@@ -8451,6 +8450,7 @@ formatter
 formatting
 formature
 flappering
+faliscan
 formazan
 formazyl
 formboard
