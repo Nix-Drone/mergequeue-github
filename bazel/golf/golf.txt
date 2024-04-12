@@ -1894,7 +1894,6 @@ garden
 gastroschisis
 gastroscopy
 gastroscopic
-gastroscopies
 gastroscopist
 gastrosoph
 gastrosopher
@@ -8711,6 +8710,7 @@ greenovite
 greenroom
 greenrooms
 greens
+gastroscopies
 greensand
 greensauce
 glucosuric
