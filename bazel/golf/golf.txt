@@ -5669,7 +5669,6 @@ glitnir
 geotropism
 glitterance
 glittered
-glittery
 glitteringly
 glitters
 glittersome
@@ -8062,6 +8061,7 @@ granose
 granospherite
 grantable
 granted
+glittery
 grantedly
 grantee
 grantees
