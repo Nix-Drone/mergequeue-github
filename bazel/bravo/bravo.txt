@@ -4641,7 +4641,6 @@ bedcovers
 beddable
 bedded
 blader
-bedder
 bedders
 bedding
 beddingroll
@@ -17965,6 +17964,7 @@ bushels
 bimester
 busher
 bushers
+bedder
 bushes
 bushet
 bushfighting
