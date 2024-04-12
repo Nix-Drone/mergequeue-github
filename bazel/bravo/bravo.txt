@@ -3590,7 +3590,6 @@ bathymetry
 bathymetric
 bismuthic
 bathymetrical
-bathymetrically
 bathinette
 bathing
 bathypelagic
@@ -13439,6 +13438,7 @@ boubas
 boubou
 boucan
 bouch
+bathymetrically
 bouchaleen
 boucharde
 bouche

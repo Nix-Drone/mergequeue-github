@@ -4242,7 +4242,6 @@ glabellae
 gymnasisiums
 gymnasium
 gymnasiums
-gymnast
 gymnastic
 gazon
 grillading
@@ -8316,6 +8315,7 @@ grassweed
 generalship
 gemmula
 grasswidow
+gymnast
 grasswidowhood
 gymnarchus
 grippes
