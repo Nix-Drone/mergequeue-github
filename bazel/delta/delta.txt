@@ -479,7 +479,6 @@ daising
 daysmen
 dayspring
 daystar
-daystars
 daystreak
 daytale
 daitya
@@ -15257,6 +15256,7 @@ domesticate
 domesticated
 domesticates
 domesticating
+daystars
 domesticator
 domesticity
 disenactment

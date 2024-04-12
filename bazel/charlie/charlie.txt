@@ -9104,6 +9104,7 @@ charrs
 charruan
 charruas
 chars
+commune
 charshaf
 charsingha
 chart
@@ -20271,7 +20272,6 @@ communally
 communard
 chorographies
 communbus
-commune
 communed
 communer
 cric
