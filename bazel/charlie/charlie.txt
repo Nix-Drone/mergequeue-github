@@ -18230,7 +18230,6 @@ cogie
 chackling
 cogit
 cogitability
-cogitable
 cogitabund
 cogitabundity
 cogitabundly
@@ -21565,6 +21564,7 @@ condensable
 condensance
 condensary
 condensaries
+cogitable
 condensates
 condensation
 condensational
