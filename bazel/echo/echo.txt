@@ -298,7 +298,6 @@ eastward
 eastwardly
 eat
 eatability
-evaluator
 eatable
 eatableness
 eatables
@@ -8041,6 +8040,7 @@ epinicion
 epinyctis
 effervesce
 epinikia
+evaluator
 epinikian
 epinikion
 epinine
