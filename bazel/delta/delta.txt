@@ -15833,7 +15833,6 @@ drowningly
 dorsolumbar
 dorsomedial
 dorsomedian
-dorsomesal
 dorsonasal
 dorsonuchal
 dorsopleural
@@ -16798,6 +16797,7 @@ drawbore
 deare
 drawbored
 drawbores
+dorsomesal
 drawbridges
 druxy
 drawcansir
