@@ -3687,7 +3687,6 @@ adenodiastasis
 adenodynia
 adenofibrosis
 adenogenesis
-adenogenous
 adenographer
 adenography
 adenographic
@@ -16349,6 +16348,7 @@ antithesism
 antithesize
 antithet
 antithetic
+adenogenous
 antithetical
 antithetically
 antithetics

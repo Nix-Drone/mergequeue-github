@@ -2543,7 +2543,6 @@ decode
 decoded
 decoder
 decoders
-decodes
 decoding
 decodon
 decohere
@@ -5337,6 +5336,7 @@ denticeti
 denticle
 denticles
 denticular
+decodes
 denticulate
 denticulated
 durability
