@@ -11744,7 +11744,6 @@ chondromas
 chondromata
 chondromatous
 chondromyces
-chondromyoma
 chondromyxoma
 chondromyxosarcoma
 chondromucoid
@@ -16872,6 +16871,7 @@ clifflet
 clumsier
 clumsiest
 clumsily
+chondromyoma
 clumsiness
 clunch
 cluniac
