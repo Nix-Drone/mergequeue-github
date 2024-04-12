@@ -3860,6 +3860,7 @@ carcinogeneses
 carcinogenesis
 carcinogenic
 carcinogens
+colorimetry
 carcinoid
 carcinolysin
 carcinolytic
@@ -19366,7 +19367,6 @@ colory
 colorific
 colorifics
 colorimeter
-colorimetry
 colorimetric
 colorimetrical
 colorimetrically
