@@ -5393,7 +5393,6 @@ beguin
 bridesman
 beguines
 begulf
-begulfed
 begulfs
 begum
 begummed
@@ -8531,6 +8530,7 @@ bilberries
 bilbi
 bilby
 bilbie
+begulfed
 bilbies
 bilbo
 bilboa
