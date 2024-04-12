@@ -677,7 +677,6 @@ damnous
 damnously
 damns
 damnum
-damoclean
 damocles
 damoetas
 damoiseau
@@ -5266,6 +5265,7 @@ densus
 dent
 dental
 dentale
+damoclean
 dentalgia
 dentalia
 dentalised
