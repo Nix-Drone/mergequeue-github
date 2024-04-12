@@ -791,7 +791,6 @@ galvanism
 galvanist
 goosewinged
 galvanization
-galvanize
 galvanized
 galvanizer
 galvanizers
@@ -7409,6 +7408,7 @@ goumier
 goundou
 goup
 goupen
+galvanize
 goupin
 gour
 goura
