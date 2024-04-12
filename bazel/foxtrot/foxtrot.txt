@@ -1798,7 +1798,6 @@ featurally
 feature
 featured
 featureful
-featureless
 featurelessness
 featurely
 featureliness
@@ -8861,6 +8860,7 @@ fossulae
 fossulate
 fossulet
 fostell
+featureless
 foster
 fordeal
 fosterage
