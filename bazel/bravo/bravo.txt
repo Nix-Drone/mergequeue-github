@@ -2579,7 +2579,6 @@ booklice
 barger
 barges
 bargestone
-brevets
 bargh
 bargham
 barghest
@@ -6752,6 +6751,7 @@ berinse
 broughtas
 berith
 bhaktis
+brevets
 berytidae
 beryx
 berk
