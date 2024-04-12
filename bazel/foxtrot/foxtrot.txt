@@ -5146,6 +5146,7 @@ flatlanders
 forewaters
 flatlands
 flatlets
+forequarter
 flatly
 flatling
 flatlings
@@ -7923,7 +7924,6 @@ foreprovided
 foreprovision
 forepurpose
 frontways
-forequarter
 forequarters
 fleet
 forerake
