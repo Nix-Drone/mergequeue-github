@@ -7371,7 +7371,6 @@ forbids
 forbye
 forbysen
 forbysening
-forbit
 forbite
 fennecs
 farfels
@@ -10218,6 +10217,7 @@ frized
 frizel
 frizers
 frizes
+forbit
 frizette
 frizettes
 frizing
