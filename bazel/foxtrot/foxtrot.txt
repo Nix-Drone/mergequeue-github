@@ -1283,6 +1283,7 @@ fastigiately
 fastigious
 fastigium
 fastigiums
+formatters
 fastiia
 fasting
 fastingly
@@ -8451,7 +8452,6 @@ formativeness
 flingdust
 formats
 formatter
-formatters
 formatting
 formature
 flappering
