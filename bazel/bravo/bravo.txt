@@ -782,6 +782,7 @@ badged
 badgeless
 berrendo
 badgeman
+barrels
 badgemen
 badger
 badgerbrush
@@ -1202,7 +1203,6 @@ bakalei
 bake
 bakeapple
 bakeboard
-barrels
 baked
 bakehead
 bakehouse
