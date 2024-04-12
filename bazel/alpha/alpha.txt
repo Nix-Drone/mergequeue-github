@@ -4667,7 +4667,6 @@ advisement
 atli
 advisements
 adviser
-advisers
 advisership
 advises
 advisy
@@ -22026,6 +22025,7 @@ asterina
 asterinidae
 asterioid
 asterion
+advisers
 asterionella
 arabicize
 asteriscus
