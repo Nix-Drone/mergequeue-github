@@ -11709,7 +11709,6 @@ analemma
 analemmas
 analemmata
 analepses
-analepsy
 analepsis
 analeptic
 anthidium
@@ -22871,6 +22870,7 @@ avertin
 atrium
 atriums
 atroce
+analepsy
 atroceruleous
 atroceruleus
 atrocha
