@@ -4920,6 +4920,7 @@ beedom
 beef
 beefalo
 beefaloes
+botanizer
 bogyisms
 beefalos
 brig
@@ -13251,7 +13252,6 @@ botanising
 botanist
 botanize
 botanized
-botanizer
 botanizes
 botanizing
 botanomancy
