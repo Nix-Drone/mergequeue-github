@@ -2856,7 +2856,6 @@ gph
 genos
 genospecies
 genotype
-genotypes
 genotypic
 genotypical
 genotypically
@@ -10834,6 +10833,7 @@ guzzledom
 guzzles
 gonocoel
 gillied
+genotypes
 guzzling
 gv
 gwag
