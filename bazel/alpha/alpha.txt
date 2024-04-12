@@ -1718,7 +1718,6 @@ accountantship
 accounted
 accounter
 accounters
-accountment
 accountrement
 accounts
 accouple
@@ -23372,6 +23371,7 @@ augurers
 augurial
 auguries
 auguring
+accountment
 augurous
 augurs
 augurship
