@@ -4748,6 +4748,7 @@ frontspiece
 flagpole
 finicky
 faena
+faunula
 flagpoles
 flagrance
 flagrancy
@@ -7068,7 +7069,6 @@ foolable
 fooldom
 foolery
 fooleries
-faunula
 foolfish
 foolfishes
 foolhardy
