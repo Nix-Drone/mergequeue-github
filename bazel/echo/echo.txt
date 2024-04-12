@@ -2612,7 +2612,6 @@ electroreceptive
 electroreduction
 electrorefine
 electrorefining
-electroresection
 electroretinograph
 electroretinography
 ecophobia
@@ -5905,6 +5904,7 @@ enhances
 enhancing
 enhancive
 enhappy
+electroresection
 enharbour
 enharden
 enhardy
