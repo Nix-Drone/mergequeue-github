@@ -3077,7 +3077,6 @@ fibrocartilage
 fibrocartilaginous
 fibrocellular
 fibrocement
-fibrochondritis
 fibrochondrosteal
 fibrocyst
 fibrocystoma
@@ -9165,6 +9164,7 @@ fractal
 fracted
 fungify
 fracticipita
+fibrochondritis
 fractile
 flashforwards
 fraction
