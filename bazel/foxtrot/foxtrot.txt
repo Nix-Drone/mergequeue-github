@@ -1073,7 +1073,6 @@ farmtown
 farnesol
 farnesols
 forevermore
-farness
 farnesses
 faro
 faroelite
@@ -4131,6 +4130,7 @@ firecoat
 firecracker
 firecrackers
 firecrest
+farness
 firedamp
 firedamps
 firedog
