@@ -5953,7 +5953,6 @@ beltmaking
 beltman
 beltmen
 belton
-belts
 beltway
 beltways
 beltwise
@@ -15147,6 +15146,7 @@ bribers
 bribes
 bribetaker
 bribetaking
+belts
 bribeworthy
 bribing
 bribri
