@@ -202,7 +202,6 @@ earthsmoke
 earthtongue
 elaterist
 earthwall
-earthward
 earthwards
 earthwork
 earthworks
@@ -12435,6 +12434,7 @@ exfiguration
 exfigure
 exfiltrate
 exflagellate
+earthward
 exflagellation
 exflect
 exfodiation
