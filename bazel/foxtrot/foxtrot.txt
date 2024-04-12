@@ -5026,6 +5026,7 @@ flaskets
 faecal
 flasklet
 flasks
+farmhands
 flasque
 flat
 fids
@@ -7072,7 +7073,6 @@ foolhardier
 foolhardily
 feuter
 footful
-farmhands
 foolhardiness
 foolhardiship
 foolhead
