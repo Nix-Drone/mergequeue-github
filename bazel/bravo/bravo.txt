@@ -2564,7 +2564,6 @@ bargainable
 billbugs
 bargainee
 bargainer
-bargainers
 bargaining
 bargainor
 bargander
@@ -14033,6 +14032,7 @@ brachyphyllum
 brachypinacoid
 brachypinacoidal
 brachypyramid
+bargainers
 brachypleural
 blastoporic
 bispore
