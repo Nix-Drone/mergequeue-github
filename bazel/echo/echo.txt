@@ -8431,7 +8431,6 @@ egency
 epitomization
 epitomize
 epitomized
-epitomizes
 epitomizing
 epitonic
 epitonion
@@ -12733,6 +12732,7 @@ exognathite
 exogonium
 exograph
 exolete
+epitomizes
 exolution
 exolve
 exometritis
