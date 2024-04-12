@@ -7154,7 +7154,6 @@ detection
 detections
 detective
 detectives
-detectivism
 detector
 detectors
 detects
@@ -17602,6 +17601,7 @@ drums
 drumskin
 drumslade
 drumsler
+detectivism
 drumstick
 drumsticks
 drumwood
