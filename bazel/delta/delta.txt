@@ -2777,7 +2777,6 @@ decrepitness
 decreptitude
 decresc
 decrescendo
-decrescendos
 duodecahedron
 decrescent
 decretal
@@ -11222,6 +11221,7 @@ disadvantage
 disbud
 dreariment
 dicrotic
+decrescendos
 disbudded
 disbudding
 dysbulia
