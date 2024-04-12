@@ -1681,7 +1681,6 @@ feal
 fealty
 fumigates
 fear
-fearable
 fearbabe
 fimbles
 fusillade
@@ -7653,6 +7652,7 @@ ferrocyanide
 foreglimpsed
 foreglow
 forego
+fearable
 fables
 foregoing
 foregone
