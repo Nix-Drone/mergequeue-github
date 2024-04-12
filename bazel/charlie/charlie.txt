@@ -1888,7 +1888,6 @@ camion
 camions
 camis
 camisa
-camisado
 camisadoes
 camisados
 camisard
@@ -14306,6 +14305,7 @@ circumgestation
 circumgyrate
 circumgyratory
 circumhorizontal
+camisado
 circumincession
 circuminsession
 circuminsular
