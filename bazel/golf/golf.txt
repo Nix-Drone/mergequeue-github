@@ -7490,7 +7490,6 @@ governments
 governor
 governorate
 governors
-governorship
 grammontine
 grubbiest
 governs
@@ -8015,6 +8014,7 @@ granitiform
 granitite
 granitization
 granitize
+governorship
 granitized
 granitizing
 granitoid
