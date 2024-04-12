@@ -300,6 +300,7 @@ federation
 faeces
 faecula
 faeculence
+forkable
 faenas
 flourished
 froren
@@ -8273,7 +8274,6 @@ forjudging
 foiler
 forjudgment
 fork
-forkable
 forkbeard
 forked
 forkedness
