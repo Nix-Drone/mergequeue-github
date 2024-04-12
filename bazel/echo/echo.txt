@@ -4714,7 +4714,6 @@ encyclopaedism
 encyclopaedist
 embolic
 encyclopedia
-encyclopediac
 encyclopediacal
 ephahs
 encyclopedial
@@ -13282,6 +13281,7 @@ exceedingly
 exportation
 exportations
 exported
+encyclopediac
 exporter
 exporters
 entireties
