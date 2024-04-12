@@ -1200,7 +1200,6 @@ disported
 datapunch
 disinvolve
 datary
-dataria
 dataries
 dataset
 datasetname
@@ -16120,6 +16119,7 @@ doura
 dourade
 dourah
 douras
+dataria
 dirges
 dourer
 dourest
