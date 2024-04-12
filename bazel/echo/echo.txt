@@ -2521,7 +2521,6 @@ electrometrically
 electromyogram
 electromyograph
 electromyography
-electromyographic
 electromyographically
 electromobile
 electromotion
@@ -12239,6 +12238,7 @@ excursionary
 excursioner
 excursionism
 eutectic
+electromyographic
 excursionist
 excursionize
 excursions
