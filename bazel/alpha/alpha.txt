@@ -11731,7 +11731,6 @@ analysand
 analysands
 analysation
 analyse
-analysed
 analyser
 analysers
 analyses
@@ -12151,6 +12150,7 @@ ancha
 anchat
 anchietin
 anchietine
+analysed
 anchieutectic
 anchylose
 anchylosing
