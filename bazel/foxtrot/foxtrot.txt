@@ -1969,6 +1969,7 @@ feedstock
 feedstuff
 feedstuffs
 feedway
+fromage
 feedwater
 favela
 floating
@@ -5483,7 +5484,6 @@ flyball
 flybane
 flibbertigibbety
 flybelt
-fromage
 flybelts
 flyby
 flagellator
