@@ -3993,6 +3993,7 @@ delegalizing
 delegant
 dependants
 delegare
+discodactyl
 delegate
 delegated
 delegates
@@ -11394,7 +11395,6 @@ discocarp
 discocarpium
 discocarpous
 discocephalous
-discodactyl
 discodactylous
 discogastrula
 discoglossid
