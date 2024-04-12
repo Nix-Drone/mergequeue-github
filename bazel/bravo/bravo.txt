@@ -2395,7 +2395,6 @@ barberries
 bluestone
 bubaline
 barbers
-banquetings
 barbershops
 barbes
 barbet
@@ -17922,6 +17921,7 @@ bus
 busaos
 busbar
 busbars
+banquetings
 busbies
 busboys
 buscarl
