@@ -342,7 +342,6 @@ failingness
 failings
 faille
 flaxdrop
-failles
 fails
 failsoft
 failure
@@ -11212,6 +11211,7 @@ fungoes
 fungoids
 fungology
 fungological
+failles
 fungologist
 fungose
 fungosities
