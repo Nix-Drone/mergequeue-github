@@ -1740,7 +1740,6 @@ gastritic
 gastritis
 gastroadenitis
 gastroadynamic
-gastroalbuminorrhea
 gastroanastomosis
 gastroarthritis
 grayishness
@@ -5503,6 +5502,7 @@ glycosidase
 glycoside
 glycosides
 grant
+gastroalbuminorrhea
 glycosidic
 glycosidically
 gains
