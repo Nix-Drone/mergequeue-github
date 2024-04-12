@@ -2548,7 +2548,6 @@ decoder
 decoders
 decodes
 decoding
-decodings
 decodon
 decohere
 decoherence
@@ -4643,6 +4642,7 @@ dharmasmriti
 dromical
 demipagan
 demiparallel
+decodings
 demipauldron
 demipectinate
 debilitate
