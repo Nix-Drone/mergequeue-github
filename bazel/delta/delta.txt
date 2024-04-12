@@ -10304,7 +10304,6 @@ dioramas
 driftpiece
 dioramic
 diordinal
-diorism
 diorite
 dioritic
 diorthoses
@@ -11782,6 +11781,7 @@ discus
 discuses
 discussant
 discussed
+diorism
 discusser
 discusses
 deflection
