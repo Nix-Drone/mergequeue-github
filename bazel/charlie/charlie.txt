@@ -4055,6 +4055,7 @@ cataloger
 cardiotherapies
 cardiotomy
 cardiotonic
+clogs
 cardiotrophia
 cardiotrophotherapy
 cardiovascular
@@ -16517,7 +16518,6 @@ cloglike
 clogmaker
 cyclanthaceae
 clogmaking
-clogs
 clogwheel
 charoset
 clogwyn
