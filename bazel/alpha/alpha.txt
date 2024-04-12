@@ -3987,6 +3987,7 @@ adjectional
 adjectitious
 adjectival
 adjectivally
+autoactivation
 adjective
 adjectively
 adjectives
@@ -23850,7 +23851,6 @@ azafrin
 abbasid
 auto
 autoabstract
-autoactivation
 acrology
 autoactive
 autoagglutinating
