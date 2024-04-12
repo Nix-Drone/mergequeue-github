@@ -6101,6 +6101,7 @@ gluelikeness
 glueman
 gluepot
 gluer
+greetingly
 gluers
 granulize
 glues
@@ -8742,7 +8743,6 @@ greet
 greeted
 greeter
 greeting
-greetingly
 greets
 gliffing
 greffe
