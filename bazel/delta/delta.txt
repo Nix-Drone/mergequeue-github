@@ -1109,7 +1109,6 @@ desmodus
 dasheens
 dashel
 dasher
-dashers
 dipsas
 dashes
 debcle
@@ -17660,6 +17659,7 @@ dsect
 dsects
 desmodium
 dsname
+dashers
 dsnames
 dsp
 dsr
