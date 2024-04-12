@@ -4986,7 +4986,6 @@ aeroducts
 aeroelastic
 aeroelasticity
 aeroelastics
-aeroembolism
 aerofoil
 aerofoils
 aerogel
@@ -9592,6 +9591,7 @@ aludel
 aludels
 aludra
 alula
+aeroembolism
 alulae
 alular
 alulet
