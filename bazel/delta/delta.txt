@@ -3895,6 +3895,7 @@ dekadarchy
 dekadrachm
 dekagram
 dekagramme
+duplicand
 dekagrams
 doggerelize
 dekaliters
@@ -18354,7 +18355,6 @@ duplexs
 duply
 duplicability
 duplicable
-duplicand
 duplicando
 duplicated
 duplicately
