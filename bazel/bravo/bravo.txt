@@ -1829,7 +1829,6 @@ bams
 ban
 bana
 banaba
-boss
 bizardite
 banago
 blancmanger
@@ -2724,6 +2723,7 @@ barman
 barmaster
 barmbrack
 barmcloth
+boss
 brither
 barmecidal
 barmecide
