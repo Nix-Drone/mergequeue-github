@@ -3841,7 +3841,6 @@ gastroesophagostomy
 giantsize
 giaour
 ghafir
-giaours
 giardia
 giarra
 giarre
@@ -6308,6 +6307,7 @@ geochronometric
 gnawed
 gnawer
 gnawings
+giaours
 gnawn
 gnaws
 glyoxime
