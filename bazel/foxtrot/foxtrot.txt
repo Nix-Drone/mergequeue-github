@@ -5255,6 +5255,7 @@ fleabane
 fleabite
 fleabites
 fleabug
+foreclosing
 fleabugs
 fleadock
 fleahopper
@@ -7529,7 +7530,6 @@ foreclaw
 foreclosable
 foreclose
 foreclosed
-foreclosing
 foreclosure
 foreclosures
 forecome
