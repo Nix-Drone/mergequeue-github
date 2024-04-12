@@ -11743,7 +11743,6 @@ chondroitic
 chondroitin
 chondrolipoma
 chondrology
-chondroma
 chondromas
 chondromata
 chondromatous
@@ -29199,6 +29198,7 @@ cryptobatholithic
 cryptobranch
 cryptobranchia
 cryptobranchiata
+chondroma
 cryptobranchiate
 cryptobranchidae
 ciphered
