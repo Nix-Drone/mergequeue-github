@@ -7491,7 +7491,6 @@ cercocebus
 cercolabes
 cercolabidae
 cercomonad
-cercomonadidae
 cercomonas
 cercopid
 continent
@@ -14934,6 +14933,7 @@ cytone
 cytons
 cytopahgous
 cytoparaplastin
+cercomonadidae
 cytopathic
 cosmine
 cytopathogenic
