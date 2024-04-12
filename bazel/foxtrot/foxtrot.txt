@@ -1073,7 +1073,6 @@ farmland
 farmost
 farmout
 fisc
-farmplace
 farms
 farmscape
 farmstead
@@ -3947,6 +3946,7 @@ fingerless
 fallers
 fingerlet
 fingerling
+farmplace
 fingerlings
 fingermark
 freeport
