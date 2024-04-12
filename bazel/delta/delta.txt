@@ -5329,7 +5329,6 @@ denticles
 denticular
 denticulate
 denticulated
-durability
 denticule
 dentiferous
 dentification
@@ -12298,6 +12297,7 @@ disher
 damas
 disherent
 disherison
+durability
 disherit
 disherited
 defibrillator
