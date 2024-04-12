@@ -1009,6 +1009,7 @@ gammed
 gammelost
 gammerel
 gammers
+grades
 gammerstang
 gammexane
 gammy
@@ -7621,7 +7622,6 @@ gradeless
 gradely
 grademark
 grader
-grades
 gradgrind
 gradgrindian
 gradgrindish
