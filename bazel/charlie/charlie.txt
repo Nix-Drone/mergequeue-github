@@ -12460,7 +12460,6 @@ chromogen
 chromogene
 chromogenesis
 chromogenetic
-chromogenic
 chromogenous
 chromoisomer
 chromoisomeric
@@ -26821,6 +26820,7 @@ counterglow
 counterguard
 counterguerilla
 counterguerrilla
+chromogenic
 counterhaft
 counterhammering
 counterhypothesis
