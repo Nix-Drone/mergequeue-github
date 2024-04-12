@@ -7084,6 +7084,7 @@ entrept
 entrer
 entresalle
 entresol
+evocator
 entresols
 entresse
 earthstar
@@ -11669,7 +11670,6 @@ evocatively
 epitoxoid
 evocativeness
 energy
-evocator
 evocatory
 evocators
 evodia
