@@ -7595,7 +7595,6 @@ epibenthic
 epibenthos
 epibiotic
 epiblast
-epiblastema
 epiblastic
 epiblasts
 epiblemata
@@ -12289,6 +12288,7 @@ execrating
 execration
 execrations
 execrative
+epiblastema
 execratively
 execrator
 execrators
