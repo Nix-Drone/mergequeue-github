@@ -1448,6 +1448,7 @@ dcor
 ddname
 damnatory
 dea
+depressure
 deaccession
 deaccessioned
 deaccessioning
@@ -5942,7 +5943,6 @@ dodging
 depressomotor
 depressor
 depressors
-depressure
 depressurize
 deprest
 depreter
