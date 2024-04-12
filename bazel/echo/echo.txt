@@ -4416,7 +4416,6 @@ enfamish
 enamellers
 enamelless
 enamelling
-enamellist
 enamels
 enamelwork
 enami
@@ -12016,6 +12015,7 @@ exciding
 excipient
 exciple
 excipulaceae
+enamellist
 excipular
 excipule
 excipuliform
