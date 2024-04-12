@@ -3158,7 +3158,6 @@ actinomycetal
 actinomycetales
 actinomycete
 actinomycetous
-actinomycin
 actinomycoma
 actinomycosis
 actinomycosistic
@@ -24611,6 +24610,7 @@ avener
 avenery
 avenge
 avenged
+actinomycin
 avengeful
 avengement
 avengeress
