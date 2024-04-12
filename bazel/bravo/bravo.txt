@@ -3104,7 +3104,6 @@ barwal
 barware
 barwares
 barwin
-barwise
 barwood
 bas
 basad
@@ -12696,6 +12695,7 @@ bookmobiles
 bookmonger
 bookplate
 bookplates
+barwise
 bookpress
 bookrack
 bookracks
