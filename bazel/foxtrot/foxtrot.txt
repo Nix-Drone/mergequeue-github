@@ -5784,6 +5784,7 @@ flobby
 forcedness
 fastigia
 flocced
+fname
 flocci
 floccillation
 floccing
@@ -8907,7 +8908,6 @@ foulest
 fertilising
 foulings
 feuterer
-fname
 foulish
 foully
 foulmart
