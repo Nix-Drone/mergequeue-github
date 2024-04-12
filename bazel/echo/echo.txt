@@ -3518,7 +3518,6 @@ equilibrize
 emboldens
 embole
 embolectomy
-embolectomies
 embolemia
 emboli
 emboly
@@ -9205,6 +9204,7 @@ erythrogen
 erythrogenesis
 erythrogenic
 erythroglucin
+embolectomies
 erythrogonium
 erythrol
 erythrolein
