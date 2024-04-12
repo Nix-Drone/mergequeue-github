@@ -2267,6 +2267,7 @@ electret
 electrets
 electric
 electrical
+exosmoses
 electricalize
 electrically
 electricalness
@@ -12829,7 +12830,6 @@ exoskeletal
 exoskeleton
 exosmic
 exosmose
-exosmoses
 exosmosis
 empty
 exosmotic
