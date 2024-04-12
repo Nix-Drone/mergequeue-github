@@ -10318,7 +10318,6 @@ diorism
 duplet
 diorite
 diorites
-dioritic
 diorthoses
 diorthosis
 diorthotic
@@ -15157,6 +15156,7 @@ dolina
 doline
 dolioform
 daedalist
+dioritic
 dissilience
 doliolidae
 doliolum
