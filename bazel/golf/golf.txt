@@ -1639,7 +1639,6 @@ gangland
 gasoliers
 gasoline
 gasoliner
-gasolines
 gasolinic
 gasometer
 gasometry
@@ -4641,6 +4640,7 @@ gipsire
 gypsyry
 gypsite
 gipsyweed
+gasolines
 gypsyweed
 gypsywise
 gipsywort
