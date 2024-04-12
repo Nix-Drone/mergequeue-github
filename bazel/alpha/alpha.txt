@@ -1436,7 +1436,6 @@ accensor
 accent
 accented
 accenting
-accentless
 anticnemion
 airtightly
 accentor
@@ -11926,6 +11925,7 @@ anaptomorphus
 anaptotic
 anaqua
 anarcestean
+accentless
 anarcestes
 anarch
 anarchal
