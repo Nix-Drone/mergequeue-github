@@ -2950,7 +2950,6 @@ feued
 feuillage
 feuillants
 feuille
-feuillemorte
 feuillet
 feuilleton
 feuilletonism
@@ -8475,6 +8474,7 @@ formerly
 formers
 formes
 formfeed
+feuillemorte
 formfeeds
 formfitting
 formful
