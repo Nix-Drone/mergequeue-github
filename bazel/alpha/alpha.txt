@@ -4655,7 +4655,6 @@ advisable
 advisableness
 advisably
 advisal
-advise
 advised
 advisedly
 advisedness
@@ -21451,6 +21450,7 @@ asphaltlike
 asphalts
 amine
 asphaltus
+advise
 aspheric
 aspherical
 aspheterism
