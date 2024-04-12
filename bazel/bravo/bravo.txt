@@ -834,7 +834,6 @@ bael
 baeria
 baetyl
 blautok
-baetylus
 baetulus
 baetzner
 bespeaker
@@ -5133,6 +5132,7 @@ beflum
 befluster
 befog
 befogged
+baetylus
 befogging
 befogs
 batoid
