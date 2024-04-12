@@ -1450,7 +1450,6 @@ dcollet
 dcor
 ddname
 damnatory
-ddt
 dea
 deaccession
 deaccessioned
@@ -6870,6 +6869,7 @@ despect
 despeed
 despend
 desperado
+ddt
 desperadoism
 desperados
 desperance
