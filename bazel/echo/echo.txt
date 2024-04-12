@@ -2260,6 +2260,7 @@ electra
 encouragers
 electragy
 electragist
+equips
 electral
 electre
 electrepeter
@@ -8767,7 +8768,6 @@ equiprobable
 equiprobably
 equiproportional
 equiproportionality
-equips
 equipt
 equiradial
 equiradiate
