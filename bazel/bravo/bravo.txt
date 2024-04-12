@@ -15969,7 +15969,6 @@ bronchophthisis
 bronchoplasty
 bronchoplegia
 bronchopleurisy
-bronchopneumonic
 bronchopulmonary
 bronchorrhagia
 bronchorrhaphy
@@ -17682,6 +17681,7 @@ brothier
 badminton
 burh
 burhead
+bronchopneumonic
 burhel
 burhinidae
 burhinus
