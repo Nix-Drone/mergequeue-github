@@ -12803,7 +12803,6 @@ angiokeratoma
 angiokinesis
 anthocerotales
 angioleucitis
-angiolymphitis
 angiolymphoma
 angiolipoma
 angiolith
@@ -21376,6 +21375,7 @@ aspartyl
 aspartokinase
 aspasia
 aspatia
+angiolymphitis
 aspca
 aspect
 aspectable
