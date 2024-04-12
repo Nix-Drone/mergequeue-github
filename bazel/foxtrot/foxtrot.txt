@@ -4189,6 +4189,7 @@ fireplace
 fireplaces
 fireplough
 fireplow
+fuzzing
 fleeceable
 fireplug
 fireplugs
@@ -11737,7 +11738,6 @@ fuzziest
 fuzzily
 fuzziness
 forestem
-fuzzing
 fuzzle
 fuzztail
 fv
