@@ -6668,7 +6668,6 @@ berede
 bereft
 becapped
 berend
-berendo
 berengaria
 bemixing
 berengarian
@@ -12708,6 +12707,7 @@ bookrests
 bookroom
 books
 bookseller
+berendo
 becloaked
 booksellerish
 boff
