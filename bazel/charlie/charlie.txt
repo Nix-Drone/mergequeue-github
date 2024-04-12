@@ -15382,7 +15382,6 @@ clangs
 clangula
 clanjamfray
 clanjamfrey
-clanjamfrie
 clanjamphrey
 clank
 clanked
@@ -20586,6 +20585,7 @@ compilers
 compiles
 compiling
 comping
+clanjamfrie
 compital
 compitalia
 compitum
