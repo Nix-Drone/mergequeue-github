@@ -1130,7 +1130,6 @@ ganglionectomy
 ganglionectomies
 ganglioneure
 goschens
-ganglioneuron
 ganglionic
 ganglionitis
 ganglionless
@@ -9365,6 +9364,7 @@ groset
 grosgrain
 gastroenterologist
 grosgrained
+ganglioneuron
 grosgrains
 gripped
 gross
