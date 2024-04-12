@@ -2308,7 +2308,6 @@ fenestellae
 fenestellid
 fenestellidae
 fenester
-fenestra
 fenestrae
 fenestrate
 fenestrated
@@ -11587,6 +11586,7 @@ fusinist
 floodometer
 fusinite
 fusional
+fenestra
 fusionism
 fusionist
 fusionless
