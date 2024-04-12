@@ -4045,7 +4045,6 @@ adjunctly
 adjuration
 adjurations
 adjuratory
-adjure
 adjured
 adjurer
 adjurers
@@ -19483,6 +19482,7 @@ atomistics
 argentan
 argentarii
 argentarius
+adjure
 argentate
 argentation
 argenteous
