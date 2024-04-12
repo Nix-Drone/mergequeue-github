@@ -423,6 +423,7 @@ backmost
 backoff
 backout
 backouts
+broggle
 backpack
 backpacked
 biplace
@@ -15728,7 +15729,6 @@ brogan
 brogger
 bonnne
 broggerite
-broggle
 brogh
 brogue
 brogued
