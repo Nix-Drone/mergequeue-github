@@ -9751,7 +9751,6 @@ freinage
 forehandsel
 freir
 freyr
-freit
 freith
 freity
 fremd
@@ -11423,6 +11422,7 @@ furner
 furnish
 furnishable
 foregather
+freit
 frustrable
 furnished
 furnishes
