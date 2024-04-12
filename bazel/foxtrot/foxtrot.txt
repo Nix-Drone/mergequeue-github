@@ -6142,7 +6142,6 @@ foredoor
 flowable
 famulus
 flowage
-flowages
 flowchart
 flowcharted
 fulicinae
@@ -8835,6 +8834,7 @@ fossilification
 fossilisable
 fossilise
 fossilised
+flowages
 frameableness
 fossilising
 fossilism
