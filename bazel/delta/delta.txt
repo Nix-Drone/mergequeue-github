@@ -2690,6 +2690,7 @@ deconvolution
 deconvolve
 decopperization
 decopperize
+disbursed
 decor
 decorability
 decorable
@@ -11235,7 +11236,6 @@ disbury
 disbursal
 disbursals
 disburse
-disbursed
 disbursements
 disburser
 disburses
