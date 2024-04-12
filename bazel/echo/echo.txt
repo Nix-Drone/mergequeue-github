@@ -3592,7 +3592,6 @@ embower
 embowered
 embowering
 embowerment
-embowers
 embowing
 embowment
 embows
@@ -6140,6 +6139,7 @@ ennobled
 ennoblement
 ennoblements
 ennobler
+embowers
 ennoblers
 ennobles
 ennobling
