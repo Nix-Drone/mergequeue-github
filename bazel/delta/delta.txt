@@ -5988,7 +5988,6 @@ depthen
 depthing
 depthless
 depthlessness
-depthometer
 depths
 depthways
 disoccupy
@@ -10618,6 +10617,7 @@ defiler
 diploses
 diplosis
 diplosome
+depthometer
 diplosphenal
 diplosphene
 diplospondyli
