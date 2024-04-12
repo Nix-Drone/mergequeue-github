@@ -2099,7 +2099,6 @@ gavia
 gaynesses
 gaviae
 gavial
-gavialis
 gnateater
 gavialoid
 galvanical
@@ -6556,6 +6555,7 @@ goggler
 gogglers
 goggles
 goggly
+gavialis
 gogglier
 goggliest
 goggling
