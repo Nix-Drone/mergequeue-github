@@ -1762,6 +1762,7 @@ cambia
 cambial
 cambiata
 cambibia
+checkrower
 cambiform
 cambio
 cambiogenetic
@@ -9529,7 +9530,6 @@ checkrooms
 checkrope
 checkrow
 checkrowed
-checkrower
 checkrowing
 checkrows
 checks
