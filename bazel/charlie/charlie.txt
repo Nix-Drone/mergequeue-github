@@ -4134,7 +4134,6 @@ cattie
 caretakes
 caretaking
 caretook
-carets
 caretta
 carettochelydidae
 careworn
@@ -14942,6 +14941,7 @@ cytopharynx
 cytopharynxes
 cytophil
 cytophilic
+carets
 cytophysics
 cytophysiology
 corypphaei
