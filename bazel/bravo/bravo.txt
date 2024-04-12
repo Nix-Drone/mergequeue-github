@@ -3785,7 +3785,6 @@ battleground
 battlegrounds
 battlement
 battlements
-battlepiece
 battleplane
 beatus
 battler
@@ -16930,6 +16929,7 @@ buildup
 buildups
 builtin
 buyout
+battlepiece
 buyouts
 buirdly
 buys
