@@ -1764,7 +1764,6 @@ gastrodialysis
 gastrodiaphanoscopy
 gastrodidymus
 gastrodynia
-gastrodisc
 gastrodisk
 gastroduodenal
 gastroduodenitis
@@ -2201,6 +2200,7 @@ gazon
 gazophylacium
 gazpacho
 gazpachos
+gastrodisc
 germiparity
 gazump
 graders
