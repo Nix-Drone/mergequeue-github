@@ -7406,6 +7406,7 @@ betides
 bego
 betiding
 betimber
+bullwhip
 betime
 betimes
 betinge
@@ -14786,7 +14787,6 @@ breaghe
 break
 breakability
 breakable
-bullwhip
 breakableness
 breakables
 breakably

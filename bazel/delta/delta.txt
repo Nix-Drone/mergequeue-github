@@ -8184,7 +8184,6 @@ diagnosticate
 diagnosticated
 diagnosticating
 diagnostication
-diagnostician
 diagnosticians
 diagnostics
 diagometer
@@ -17557,6 +17556,7 @@ daniglacial
 drumfish
 drumfishes
 drumhead
+diagnostician
 drumheads
 drumler
 drumly
