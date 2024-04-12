@@ -8418,6 +8418,7 @@ gravel
 graveldiver
 graveled
 graveless
+greenstone
 gobi
 gravely
 gravelike
@@ -8715,7 +8716,6 @@ greenside
 greenskeeper
 greenslade
 greenstick
-greenstone
 gibeonite
 gauntree
 greensward

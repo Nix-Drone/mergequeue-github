@@ -9558,6 +9558,7 @@ digs
 diguanide
 digue
 dihalid
+disputed
 dihalide
 dihalo
 dihalogen
@@ -13281,7 +13282,6 @@ disputative
 disputativeness
 disputator
 dispute
-disputed
 disputeful
 disputeless
 disputer
