@@ -2332,7 +2332,6 @@ electrochemically
 electrochemist
 electrochemistry
 electrochronograph
-electrochronographic
 electrochronometer
 electrochronometric
 eyebolt
@@ -12373,6 +12372,7 @@ exemplificator
 exemplified
 exemplifier
 exemplifiers
+electrochronographic
 exemplifies
 exemplifying
 exempt
