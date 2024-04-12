@@ -6105,7 +6105,6 @@ enmoss
 enmove
 enmuffle
 enneacontahedral
-enneacontahedron
 ennead
 enneadic
 enneads
@@ -10187,6 +10186,7 @@ etacist
 etaerio
 etageres
 etalage
+enneacontahedron
 etalon
 etamin
 ever
