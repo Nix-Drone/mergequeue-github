@@ -4502,7 +4502,6 @@ demibrassart
 demibrigade
 demibrute
 demibuckram
-demicadence
 demicannon
 demicanon
 demicanton
@@ -12805,6 +12804,7 @@ disorganized
 disorganizer
 disorganizers
 detorsion
+demicadence
 disorganizes
 disorganizing
 disorient
