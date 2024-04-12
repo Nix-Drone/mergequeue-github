@@ -5713,7 +5713,6 @@ deplasmolysis
 disposit
 deplenish
 depletable
-deplete
 depleteable
 depleted
 deplethoric
@@ -11734,6 +11733,7 @@ discreation
 discredence
 discredit
 discreditability
+deplete
 discreditableness
 discreditably
 dahabiya
