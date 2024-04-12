@@ -4621,7 +4621,6 @@ bedcord
 byplays
 bedcovers
 beddable
-bedded
 blader
 bedders
 bedding
@@ -14771,6 +14770,7 @@ breadths
 breadthways
 breadthwise
 breadwinner
+bedded
 breadwinning
 breaghe
 break
