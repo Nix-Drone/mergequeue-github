@@ -1063,6 +1063,7 @@ eunice
 edgeboned
 edged
 edgeless
+executing
 edgeling
 edgemaking
 edgeman
@@ -12305,7 +12306,6 @@ execute
 executed
 encastage
 executes
-executing
 eupathy
 execution
 executioneering
