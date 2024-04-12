@@ -4669,6 +4669,7 @@ demiscible
 demise
 demisecond
 demised
+depas
 demisemiquaver
 demisemitone
 demises
@@ -5560,7 +5561,6 @@ departmentization
 designment
 departmentize
 departs
-depas
 depascent
 damaskin
 distilery
