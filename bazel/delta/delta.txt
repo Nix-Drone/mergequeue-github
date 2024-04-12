@@ -3132,6 +3132,7 @@ defaulture
 defeasance
 defeasanced
 defease
+displayable
 dictyoceratina
 detersive
 defeasibility
@@ -13034,7 +13035,6 @@ displacency
 displaces
 displacing
 display
-displayable
 displayed
 displayer
 displaying
