@@ -9327,7 +9327,6 @@ alphabeted
 alphabetic
 alphabetical
 alphabetically
-alphabetics
 alphabetiform
 alphabeting
 alphabetisation
@@ -20461,6 +20460,7 @@ artel
 artels
 artemas
 artemia
+alphabetics
 artemis
 aeroenterectasia
 artemisia
