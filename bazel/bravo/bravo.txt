@@ -678,7 +678,6 @@ burnoose
 bacteriophage
 bacteriophages
 bacteriophagy
-bacteriophagia
 bacteriophagic
 bacteriophagous
 bear
@@ -7935,6 +7934,7 @@ benzophenanthroline
 bibliognostic
 bibliogony
 bibliographer
+bacteriophagia
 bibliographers
 bewigged
 bibliography
