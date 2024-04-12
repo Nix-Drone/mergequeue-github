@@ -2664,7 +2664,6 @@ baseman
 barytons
 barytophyllite
 barytosulphate
-barium
 bariums
 barkan
 barkantine
@@ -18226,6 +18225,7 @@ butterback
 butterball
 butterbill
 butterbird
+barium
 butterbough
 butterbox
 butterbump
