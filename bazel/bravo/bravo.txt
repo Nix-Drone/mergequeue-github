@@ -3757,7 +3757,6 @@ batterie
 batteried
 batteries
 batteryman
-battering
 batterman
 batters
 batteuse
@@ -15257,6 +15256,7 @@ bridgeheads
 bridgeless
 bridgelike
 bridgemaking
+battering
 bridgeman
 bridgemaster
 bridgemen
