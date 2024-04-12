@@ -4009,7 +4009,6 @@ beachward
 beachwear
 beacon
 beaconage
-beaconing
 beaconless
 business
 beacons
@@ -15768,6 +15767,7 @@ broken
 brokenheartedly
 brokenly
 binder
+beaconing
 bonaght
 brokerage
 brokerages
