@@ -1729,6 +1729,7 @@ eyebath
 eyebeam
 eyebeams
 eyeberry
+ensheaths
 eyeblack
 eyeblink
 eyebree
@@ -6398,7 +6399,6 @@ ensheathe
 ensheathed
 ensheathes
 ensheathing
-ensheaths
 enshell
 enshelter
 enshield
