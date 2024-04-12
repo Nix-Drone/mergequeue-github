@@ -1069,7 +1069,6 @@ farmyards
 fivers
 foremastman
 farmland
-farmlands
 farmost
 farmout
 fisc
@@ -5740,6 +5739,7 @@ flittermmice
 filaze
 footrill
 flittermouse
+farmlands
 flittern
 flitters
 flitty
