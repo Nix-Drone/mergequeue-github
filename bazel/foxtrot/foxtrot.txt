@@ -8117,7 +8117,6 @@ forewarm
 forewarmer
 forewarn
 forewarner
-forewarning
 forewarns
 foreween
 foreweigh
@@ -9517,6 +9516,7 @@ foretimed
 fraudproof
 frauds
 faith
+forewarning
 fraudulence
 fraudulency
 flexibility
