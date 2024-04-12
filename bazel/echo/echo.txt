@@ -2958,6 +2958,7 @@ eliminate
 entoplastic
 eliminated
 eliminates
+equaled
 eliminating
 elimination
 eliminator
@@ -8571,7 +8572,6 @@ equableness
 equably
 equal
 editorials
-equaled
 equaling
 equalisation
 equalise
