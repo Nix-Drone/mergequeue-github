@@ -1715,7 +1715,6 @@ deathsmen
 deathtime
 deathtrap
 deathtraps
-deathward
 deathwards
 deathwatches
 deathweed
@@ -17460,6 +17459,7 @@ drowses
 drowsy
 drowsier
 detant
+deathward
 discarder
 drowsiest
 drowsihead
