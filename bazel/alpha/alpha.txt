@@ -1465,7 +1465,6 @@ accepted
 acceptee
 acceptees
 accepter
-acceptilate
 acceptilated
 asniffle
 acceptilating
@@ -24919,6 +24918,7 @@ awakenable
 awakened
 awakener
 awakeners
+acceptilate
 awakening
 awakeningly
 awakenings
