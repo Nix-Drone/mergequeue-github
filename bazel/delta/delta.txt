@@ -3077,7 +3077,6 @@ deface
 defaceable
 defacement
 defacements
-defacer
 defacers
 defaces
 defacing
@@ -5882,6 +5881,7 @@ dunked
 depressed
 depresses
 depressibility
+defacer
 depressibilities
 depressible
 depressing
