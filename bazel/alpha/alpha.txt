@@ -10727,7 +10727,6 @@ ammocoete
 ammocoetes
 ammocoetid
 ammocoetidae
-ammocoetoid
 ammodyte
 ammodytes
 ammodytidae
@@ -16900,6 +16899,7 @@ aphorist
 aphoristic
 aphoristical
 aphoristically
+ammocoetoid
 aphorists
 aphorize
 aphorized
