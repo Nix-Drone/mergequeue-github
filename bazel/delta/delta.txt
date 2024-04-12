@@ -12317,6 +12317,7 @@ disheritor
 disherits
 dishes
 dishevel
+dwellers
 disheveled
 dishevely
 dishevelled
@@ -18657,7 +18658,6 @@ dweeble
 dwell
 dwelled
 dweller
-dwellers
 dwelling
 dwellings
 dwelt
