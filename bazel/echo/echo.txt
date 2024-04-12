@@ -7151,7 +7151,6 @@ euphone
 enumerative
 enlinked
 enumerator
-enumerators
 enunciability
 enunciable
 enunciated
@@ -10292,6 +10291,7 @@ erept
 ethereous
 etheria
 etherialisation
+enumerators
 etherialised
 etherialising
 etherialism
