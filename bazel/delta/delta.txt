@@ -1891,6 +1891,7 @@ debs
 debt
 debted
 debtee
+dissatisfies
 debtful
 debtless
 debtor
@@ -13382,7 +13383,6 @@ dissatisfied
 decoupled
 dissatisfiedly
 dissatisfiedness
-dissatisfies
 dissatisfying
 dissatisfyingly
 dissaturate
