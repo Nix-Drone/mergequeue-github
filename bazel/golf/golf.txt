@@ -2912,7 +2912,6 @@ gentium
 gentle
 gentled
 gentlefolk
-gentlefolks
 gentleheartedly
 gentleheartedness
 gentlehood
@@ -7273,6 +7272,7 @@ gosmore
 gospel
 gospeler
 gospelers
+gentlefolks
 groutier
 gospelist
 gospelize
