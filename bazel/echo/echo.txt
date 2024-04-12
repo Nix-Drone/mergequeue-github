@@ -5224,7 +5224,6 @@ endolithic
 endolumbar
 endomastoiditis
 endome
-endomesoderm
 empt
 endometry
 endometria
@@ -7754,6 +7753,7 @@ epicuticle
 epicuticular
 entomotomist
 epideictic
+endomesoderm
 epideictical
 epideistic
 epidemy
