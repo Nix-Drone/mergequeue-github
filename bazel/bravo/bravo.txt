@@ -3482,7 +3482,6 @@ bastionary
 bastioned
 bastionet
 bastions
-bastite
 bastnaesite
 bastnasite
 basto
@@ -10774,6 +10773,7 @@ blet
 blethe
 blether
 bletheration
+bastite
 blethered
 blethering
 bletia
