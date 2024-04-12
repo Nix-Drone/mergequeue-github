@@ -2473,7 +2473,6 @@ electrolysation
 electrolyse
 everydeal
 electrolysed
-electrolyser
 electrolyses
 electrolysing
 electrolysis
@@ -11388,6 +11387,7 @@ evanishment
 evans
 evansite
 evap
+electrolyser
 evaporability
 evaporable
 evaporate
