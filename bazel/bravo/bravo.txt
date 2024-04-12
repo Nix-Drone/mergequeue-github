@@ -10468,7 +10468,6 @@ blastostylar
 blastostyle
 blastozooid
 blastplate
-blasts
 blastula
 blastulae
 blastular
@@ -14840,6 +14839,7 @@ bream
 breamed
 breaming
 breams
+blasts
 breards
 breast
 breastband
