@@ -497,7 +497,6 @@ dalapons
 dalarnian
 dalasi
 dalasis
-doorplate
 dalbergia
 dale
 dalea
@@ -2709,6 +2708,7 @@ decore
 decorement
 decorist
 decorous
+doorplate
 decorously
 decorousness
 decorrugative
