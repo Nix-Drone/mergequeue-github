@@ -4118,7 +4118,6 @@ administrationist
 administrations
 administrative
 administratively
-administrator
 administrators
 administratrices
 administratrix
@@ -6772,6 +6771,7 @@ ayllu
 ailment
 ailments
 ails
+administrator
 ailsyte
 antipodagron
 ailuridae
