@@ -2653,7 +2653,6 @@ baritones
 barytones
 byres
 bedaff
-baseman
 barytons
 barytophyllite
 barytosulphate
@@ -3595,6 +3594,7 @@ bathyspheres
 bathythermogram
 bathythermograph
 bathkol
+baseman
 bathless
 barbar
 bathman
