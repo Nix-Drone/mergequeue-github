@@ -5240,7 +5240,6 @@ begemmed
 begemming
 beget
 begettal
-begetter
 begetters
 begetting
 brinjaul
@@ -17731,6 +17730,7 @@ burled
 burleycue
 burler
 burlesk
+begetter
 bunkhouses
 burlesks
 burlesque
