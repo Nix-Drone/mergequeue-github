@@ -7799,7 +7799,6 @@ dewcup
 dewdamp
 dewdrop
 dewdropper
-disklike
 dewdrops
 dewed
 dewey
@@ -16399,6 +16398,7 @@ downwardly
 downwardness
 downwards
 downwarp
+disklike
 dysthymia
 downwash
 dysanagnosia
