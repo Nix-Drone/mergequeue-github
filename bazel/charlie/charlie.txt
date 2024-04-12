@@ -9975,7 +9975,6 @@ chequerboard
 chequered
 chequering
 chequers
-chequerwise
 chequerwork
 cheques
 chequy
@@ -13462,6 +13461,7 @@ cicutoxin
 cid
 cidarid
 cidaridae
+chequerwise
 cidaris
 cidaroida
 cassida
