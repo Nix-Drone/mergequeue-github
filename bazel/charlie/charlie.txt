@@ -8329,7 +8329,6 @@ caplets
 chalkworker
 challa
 challahs
-challas
 challengable
 challenge
 challengeable
@@ -21895,6 +21894,7 @@ confession
 confessional
 confessionalian
 confessionalism
+challas
 confessionalist
 confessionally
 confessionals
