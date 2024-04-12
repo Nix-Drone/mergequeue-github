@@ -1866,7 +1866,6 @@ deboshment
 deboss
 debouch
 detractive
-debouched
 debouches
 debouching
 debouchment
@@ -14663,6 +14662,7 @@ dockhand
 dockhands
 dockhouse
 dockyard
+debouched
 dockyardman
 dockyards
 docking
