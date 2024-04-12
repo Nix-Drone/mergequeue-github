@@ -6579,7 +6579,6 @@ entasias
 entasis
 entassment
 entastic
-environment
 entea
 erns
 entelam
@@ -8751,6 +8750,7 @@ equipoise
 equipoised
 equipoising
 equipollence
+environment
 equipollency
 evasively
 equipollent
