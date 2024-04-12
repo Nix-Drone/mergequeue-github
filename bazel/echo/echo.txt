@@ -3577,6 +3577,7 @@ embouchment
 embouchure
 embouchures
 embound
+erasable
 embourgeoisement
 embow
 embowed
@@ -8869,7 +8870,6 @@ eranist
 eranthemum
 eranthis
 erasability
-erasable
 erase
 erased
 eradiculose
