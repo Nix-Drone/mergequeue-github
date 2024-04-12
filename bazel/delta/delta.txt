@@ -4745,6 +4745,7 @@ demivolts
 demivotary
 demiwivern
 demiwolf
+dragrope
 demiworld
 demnition
 demo
@@ -16638,7 +16639,6 @@ dragoonage
 dragooned
 dragooner
 dragooning
-dragrope
 dragropes
 drags
 dragsaw
