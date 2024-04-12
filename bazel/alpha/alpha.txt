@@ -8973,7 +8973,6 @@ allothigenous
 allothimorph
 allothimorphic
 allothogenic
-allothogenous
 allotype
 allotypes
 allotypy
@@ -11639,6 +11638,7 @@ anagenetical
 avoure
 anagennesis
 anagep
+allothogenous
 anagignoskomena
 anagyrine
 anagyris
