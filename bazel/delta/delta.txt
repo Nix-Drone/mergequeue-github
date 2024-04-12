@@ -2371,7 +2371,6 @@ decimalization
 decimalize
 decimalized
 decimalizes
-decimalizing
 decimally
 decimals
 decimate
@@ -4105,6 +4104,7 @@ disorder
 delignification
 delilah
 deliliria
+decimalizing
 delim
 delimed
 delimes
