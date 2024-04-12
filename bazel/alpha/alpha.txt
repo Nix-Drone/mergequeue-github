@@ -8704,7 +8704,6 @@ alleviators
 allez
 allgood
 allgovite
-allhallow
 allhallows
 allhallowtide
 allheals
@@ -9076,6 +9075,7 @@ alluvial
 alluvials
 alluviate
 alluviation
+allhallow
 alluvio
 alluvion
 anemometric
