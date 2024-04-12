@@ -15605,7 +15605,6 @@ doorstead
 didactics
 doorstep
 doorsteps
-doorstone
 doorstop
 deaconize
 doorstops
@@ -16679,6 +16678,7 @@ dramatis
 dramatisable
 dramatise
 dramatiser
+doorstone
 dramatising
 dolesman
 dramatism
