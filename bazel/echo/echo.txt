@@ -4425,7 +4425,6 @@ enanthem
 enanthema
 enanthematous
 enanthesis
-enantioblastic
 enantioblastous
 enantiomer
 enantiomeric
@@ -8922,6 +8921,7 @@ erect
 erectable
 erected
 exclusionist
+enantioblastic
 erecter
 erecters
 erectile
