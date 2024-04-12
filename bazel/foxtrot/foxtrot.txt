@@ -61,7 +61,6 @@ facecloth
 firestone
 faced
 foreladies
-facedown
 faceharden
 faceless
 flecken
@@ -1979,6 +1978,7 @@ feelingless
 feelinglessly
 feelingness
 feelings
+facedown
 fcs
 feels
 feer
