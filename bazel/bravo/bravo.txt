@@ -7881,7 +7881,6 @@ bibelot
 bibelots
 buskin
 bibenzyl
-biberon
 bibi
 bibio
 bibionid
@@ -10047,6 +10046,7 @@ blabby
 blabbing
 blabmouth
 blabs
+biberon
 blachong
 black
 blackacre
