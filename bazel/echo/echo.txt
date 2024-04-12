@@ -3685,7 +3685,6 @@ embryoism
 epithelioglandular
 embryology
 embryologic
-embryological
 embryologically
 embryologist
 embryologists
@@ -7366,6 +7365,7 @@ eopaleozoic
 eophytic
 eophyton
 eorhyolite
+embryological
 eos
 eosate
 endurableness
