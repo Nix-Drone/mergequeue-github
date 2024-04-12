@@ -901,7 +901,6 @@ gambirs
 gambist
 gambits
 gamble
-gambled
 gambler
 gamblers
 gambles
@@ -2870,6 +2869,7 @@ ghyll
 gensengs
 gentamicin
 genteel
+gambled
 glike
 genteelest
 genteelism
