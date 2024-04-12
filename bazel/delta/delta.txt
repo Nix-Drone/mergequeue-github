@@ -4958,7 +4958,6 @@ demote
 demoted
 demotes
 demothball
-demoting
 demotion
 demotions
 demotist
@@ -5062,6 +5061,7 @@ denaturizer
 denaturizing
 denazify
 denazifies
+demoting
 denazifying
 denda
 dendra
