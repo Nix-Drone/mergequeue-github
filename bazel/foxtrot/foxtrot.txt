@@ -344,6 +344,7 @@ failles
 fails
 failsoft
 failure
+flatness
 failures
 fain
 fainaigue
@@ -5078,7 +5079,6 @@ flatlings
 flatlong
 flatman
 flatmen
-flatness
 flats
 flatted
 flatten
