@@ -5847,6 +5847,7 @@ bellyland
 bellylike
 bellyman
 belling
+biunique
 berger
 bellypiece
 bellypinch
@@ -9952,7 +9953,6 @@ bitwise
 biune
 biunial
 bronchiole
-biunique
 biuniquely
 biuniqueness
 biunivocal
