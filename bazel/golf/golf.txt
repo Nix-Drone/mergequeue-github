@@ -2648,7 +2648,6 @@ geneki
 genep
 genepi
 genera
-generability
 generable
 guideress
 geisotherm
@@ -4253,6 +4252,7 @@ gymnasiarchy
 gymnasiast
 gymnasic
 gymnasisia
+generability
 glamours
 glabellae
 gymnasisiums
