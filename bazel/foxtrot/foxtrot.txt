@@ -4924,7 +4924,6 @@ floc
 flannelly
 flannelling
 flannelmouth
-flannelmouthed
 flannelmouths
 flannels
 flanning
@@ -11421,6 +11420,7 @@ furnarius
 furner
 furnish
 furnishable
+flannelmouthed
 foregather
 freit
 frustrable

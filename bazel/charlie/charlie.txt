@@ -12522,7 +12522,6 @@ chromosantonin
 chromoscope
 chromoscopy
 chromoscopic
-chromosomal
 chromosomally
 chromosome
 chromosomes
@@ -18719,6 +18718,7 @@ coleopteron
 coleopterous
 chosing
 coleoptile
+chromosomal
 coleoptilum
 coleopttera
 coleorhiza
