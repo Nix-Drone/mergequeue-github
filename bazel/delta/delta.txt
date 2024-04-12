@@ -3004,7 +3004,6 @@ deepening
 deeper
 deepest
 deepfreeze
-deepfreezed
 deepfreezing
 deepfroze
 deepfrozen
@@ -13332,6 +13331,7 @@ desulfurate
 disquisitive
 disquisitively
 disquisitor
+deepfreezed
 disquisitory
 disquisitorial
 disraeli
