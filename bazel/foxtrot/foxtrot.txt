@@ -4321,7 +4321,6 @@ fish
 fishability
 fishable
 fishback
-fishbed
 fishberry
 fishberries
 fishboat
@@ -9261,6 +9260,7 @@ fragmentizer
 fragmentizing
 fragments
 furled
+fishbed
 fragrance
 fragrances
 fermentations
