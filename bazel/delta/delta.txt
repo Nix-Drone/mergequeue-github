@@ -1865,7 +1865,6 @@ debrided
 debridement
 debriding
 debrief
-debriefed
 debriefing
 debriefings
 debris
@@ -17105,6 +17104,7 @@ driftage
 driftages
 dispensated
 driftbolt
+debriefed
 drifter
 drifters
 driftfish
