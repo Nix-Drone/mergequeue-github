@@ -598,6 +598,7 @@ abnegating
 abnegation
 abnegative
 abnegator
+alit
 abnegators
 abner
 abnerval
@@ -8383,7 +8384,6 @@ alysson
 alyssums
 alist
 alister
-alit
 antiferroelectric
 alytarch
 alite
