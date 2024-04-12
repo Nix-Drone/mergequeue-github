@@ -4369,7 +4369,6 @@ fishline
 fishlines
 fishling
 fishman
-fishmeal
 fishmeals
 fishmonger
 fishmouth
@@ -6100,6 +6099,7 @@ furnisher
 flotsam
 flotsams
 formulaic
+fishmeal
 freighter
 film
 flotsan
