@@ -14115,7 +14115,6 @@ cypseliformes
 cypseline
 colorist
 cypseloid
-cypselomorph
 cypselomorphae
 cypselomorphic
 cypselous
@@ -14501,6 +14500,7 @@ cirrigrade
 cirriped
 cirripede
 cirripedia
+cypselomorph
 cirripedial
 cirripeds
 cirrocumular
