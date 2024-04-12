@@ -3069,7 +3069,6 @@ fibrilled
 fibrilliferous
 fabraea
 fibrilliform
-fibrillose
 fibrillous
 fibrin
 fibrination
@@ -5447,6 +5446,7 @@ fleshen
 fogydom
 furlers
 fleshers
+fibrillose
 fleshes
 fleshful
 fleshhood
