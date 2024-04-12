@@ -3954,7 +3954,6 @@ franchisal
 finecomb
 flatbread
 fined
-finedrawing
 fineer
 fineish
 fineleaf
@@ -10508,6 +10507,7 @@ foxfinger
 frostproof
 frostproofing
 frostroot
+finedrawing
 frostwork
 footbridges
 favose
