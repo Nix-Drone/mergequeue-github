@@ -4014,7 +4014,6 @@ emoters
 emotes
 emoting
 emotiometabolic
-emotiomotor
 emotiomuscular
 emotion
 emotionable
@@ -7423,6 +7422,7 @@ eparchy
 eparchial
 eparchies
 eparchs
+emotiomotor
 eparterial
 extrazodiacal
 epaule
