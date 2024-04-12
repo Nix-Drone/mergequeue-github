@@ -7264,7 +7264,6 @@ bestow
 bestowable
 bestowal
 bestowals
-bestir
 bestower
 bestowing
 bestowment
@@ -9675,6 +9674,7 @@ bishopstool
 bishopweed
 bisie
 bisiliac
+bestir
 bisilicate
 bisyllabic
 bisyllabism
