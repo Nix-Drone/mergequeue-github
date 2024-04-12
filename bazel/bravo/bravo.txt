@@ -2586,7 +2586,6 @@ bassetite
 bargoose
 barguest
 barguests
-barhal
 barhop
 buzylene
 barhopped
@@ -6905,6 +6904,7 @@ bescorching
 bescorn
 bescoundrel
 bescour
+barhal
 bescourge
 bescouring
 bescours
