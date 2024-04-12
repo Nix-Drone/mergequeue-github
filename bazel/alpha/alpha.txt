@@ -5450,7 +5450,6 @@ affrayers
 affraying
 affrays
 affranchise
-affranchised
 affranchisement
 affranchising
 affrap
@@ -6307,6 +6306,7 @@ alternations
 alanyl
 agnition
 agnize
+affranchised
 agnized
 agnizes
 agnoetae
