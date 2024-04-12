@@ -4147,6 +4147,7 @@ flanky
 firebed
 firebird
 firebirds
+fishmouth
 fireblende
 fireboard
 fireboat
@@ -4414,7 +4415,6 @@ fishling
 fishmeal
 fishmeals
 fishmonger
-fishmouth
 fishnet
 fishnets
 fishplate
