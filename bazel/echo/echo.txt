@@ -1549,6 +1549,7 @@ ethmoid
 endosternum
 eggbeaters
 eggcrate
+evoke
 eggcup
 eggcups
 eggeater
@@ -11642,7 +11643,6 @@ evocators
 evodia
 evoe
 eleut
-evoke
 evoker
 evokers
 evokes
