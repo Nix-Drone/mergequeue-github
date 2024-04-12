@@ -6726,7 +6726,6 @@ enterosepsis
 enterosyphilis
 enterospasm
 enterostasis
-enterostenosis
 earthstar
 enterostomy
 enterostomies
@@ -11377,6 +11376,7 @@ evanish
 evanished
 expirable
 evanishes
+enterostenosis
 evanishing
 evanishment
 evans
