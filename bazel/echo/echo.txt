@@ -6782,7 +6782,6 @@ entete
 entfaoilff
 enthalpy
 enthalpies
-entheal
 enthean
 entheasm
 entheate
@@ -9003,6 +9002,7 @@ ergograph
 ergoism
 ergology
 ergomaniac
+entheal
 ergometer
 ergometrine
 ergon
