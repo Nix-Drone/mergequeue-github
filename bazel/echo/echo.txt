@@ -6123,6 +6123,7 @@ enneagonal
 enneagons
 enneahedra
 ependyma
+epileptiform
 enneahedral
 enneahedria
 enneahedron
@@ -7940,7 +7941,6 @@ epileptic
 epileptical
 epileptically
 epileptics
-epileptiform
 epileptogenic
 epileptogenous
 epileptoid
