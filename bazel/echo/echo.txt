@@ -2354,7 +2354,6 @@ electroceramic
 electrochemical
 electrochemically
 electrochemistry
-electrochronograph
 electrochronographic
 electrochronometer
 electrochronometric
@@ -10944,6 +10943,7 @@ echinid
 euripos
 ermelin
 euosmite
+electrochronograph
 euouae
 eupad
 eupanorthidae
