@@ -2468,7 +2468,6 @@ aciform
 acyl
 acylal
 acylamido
-acylamidobenzene
 acylamino
 acylase
 acylated
@@ -24392,6 +24391,7 @@ autosyn
 autosyndesis
 autosite
 autositic
+acylamidobenzene
 autoskeleton
 autosled
 autoslip
