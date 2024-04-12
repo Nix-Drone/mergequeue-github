@@ -5539,7 +5539,6 @@ glycosidase
 glycoside
 glycosides
 grant
-glycosidic
 glycosidically
 glycosyl
 glycosyls
@@ -6381,6 +6380,7 @@ grammar
 goad
 grammaticize
 goading
+glycosidic
 goadlike
 goads
 goadsman
