@@ -4618,7 +4618,6 @@ gipsyfy
 gypsyfy
 gasterophilus
 gipsyhead
-gypsyhead
 gipsyhood
 gypsyhood
 gipsying
@@ -7775,6 +7774,7 @@ grainsmen
 grainways
 grayout
 grayouts
+gypsyhead
 graip
 grays
 graysby
