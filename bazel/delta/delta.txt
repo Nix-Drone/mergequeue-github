@@ -209,7 +209,6 @@ daemon
 daemonelix
 daemones
 daemony
-daemonian
 dietics
 daemonistic
 daemonology
@@ -9579,6 +9578,7 @@ dihydrated
 dihydrazone
 dihydric
 dihydride
+daemonian
 dihydrite
 dihydrochloride
 dihydrocupreine
