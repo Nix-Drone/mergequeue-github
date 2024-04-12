@@ -1944,6 +1944,7 @@ decadrachm
 decadrachma
 decadrachmae
 dimorphic
+desugars
 decaedron
 decaesarize
 decaffeinate
@@ -7059,7 +7060,6 @@ desuetudes
 desugared
 desugaring
 desugarize
-desugars
 desulfovibrio
 desulfur
 dudeen
