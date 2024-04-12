@@ -4583,6 +4583,7 @@ gip
 gyp
 gypaetus
 gype
+grabber
 gipon
 gipons
 gaetulan
@@ -7547,7 +7548,6 @@ grab
 grabbable
 grabbed
 gingerbread
-grabber
 grabbers
 grabby
 grabbiest
