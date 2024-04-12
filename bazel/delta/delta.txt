@@ -4153,7 +4153,6 @@ delinition
 delinquence
 delinquency
 delinquencies
-delinquent
 delinquently
 delinquents
 delint
@@ -12035,6 +12034,7 @@ disequalization
 disequalize
 disequalizer
 disequilibrate
+delinquent
 disequilibration
 disequilibria
 disequilibrium
