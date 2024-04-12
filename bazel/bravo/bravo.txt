@@ -521,7 +521,6 @@ backstay
 backstair
 backstairs
 backstays
-backstamp
 backster
 backstick
 backstitch
@@ -5528,6 +5527,7 @@ bejewelled
 barricading
 bejewelling
 bejewels
+backstamp
 bejezebel
 beadhouses
 bestowed
