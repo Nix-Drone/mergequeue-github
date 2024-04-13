@@ -4600,6 +4600,7 @@ carpetbags
 carpetbeater
 carpeted
 chlamydospore
+cellarway
 carpeting
 carpetlayer
 carpetless
@@ -7612,7 +7613,6 @@ cerebrovisceral
 cerebrum
 chaumontel
 cerecloth
-cellarway
 cered
 cerement
 cerements
