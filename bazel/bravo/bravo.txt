@@ -7590,7 +7590,6 @@ bevor
 bevue
 bevvy
 believe
-bewail
 bewailable
 bewailed
 bewailer
@@ -8844,6 +8843,7 @@ bindings
 bindis
 bindle
 bindles
+bewail
 bindoree
 binds
 bindweb
