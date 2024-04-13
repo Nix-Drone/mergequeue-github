@@ -1481,6 +1481,7 @@ deactivators
 defrosts
 deadborn
 deadcenter
+deeryards
 deadeye
 deaden
 deadened
@@ -3044,7 +3045,6 @@ disestablishment
 deerhound
 deeryard
 decarbonized
-deeryards
 deerlike
 deermeat
 deers
