@@ -6057,7 +6057,6 @@ glucosemia
 goldfinch
 glucoses
 glucosic
-glucosidal
 glucosidase
 glucoside
 gaudful
@@ -10360,6 +10359,7 @@ gulliver
 gulllike
 gulls
 gulo
+glucosidal
 gulonic
 gulose
 gulosity
