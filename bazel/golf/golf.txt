@@ -853,7 +853,6 @@ glomeruli
 galvanothermy
 galvanothermometer
 galvanotonic
-galvanotropism
 galvo
 gangliac
 gleds
@@ -1390,6 +1389,7 @@ garfish
 gitano
 gargalize
 garganey
+galvanotropism
 garganeys
 gastropancreatitis
 gargantua
