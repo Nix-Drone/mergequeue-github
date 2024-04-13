@@ -2356,7 +2356,6 @@ electrocardiographically
 electrocardiographs
 electrocatalysis
 electrocatalytic
-electrocataphoresis
 electrocataphoretic
 electrocautery
 electrocauteries
@@ -5204,6 +5203,7 @@ eyebolt
 endogenicity
 endogenies
 endogenous
+electrocataphoresis
 endogenously
 endogens
 endoglobular
