@@ -4791,7 +4791,6 @@ flagstaffs
 fustigate
 fairishness
 fitchy
-flagstaves
 flagstick
 falconers
 flagstones
@@ -9761,6 +9760,7 @@ fringe
 fourchette
 freighters
 freightyard
+flagstaves
 freightless
 freightliner
 freightment
