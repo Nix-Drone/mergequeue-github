@@ -25635,7 +25635,6 @@ corregimiento
 corregimientos
 correl
 correlatable
-correlate
 correlated
 correlates
 correlations
@@ -25862,6 +25861,7 @@ corticole
 corticoline
 corticolous
 clammish
+correlate
 corticopeduncular
 corticose
 corticospinal
