@@ -694,6 +694,7 @@ bacteriotherapy
 bacteriotoxic
 bacteriotoxin
 bacteriotrypsin
+bynames
 bacteriotropic
 blepharedema
 bacteriotropin
@@ -8827,7 +8828,6 @@ bimuscular
 bin
 binal
 byname
-bynames
 binaphthyl
 binary
 binaries
