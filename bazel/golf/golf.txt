@@ -6598,7 +6598,6 @@ guineapig
 goldbug
 goldbugs
 goldcrest
-goldeye
 goldeyes
 golden
 goldenback
@@ -7847,6 +7846,7 @@ gametangium
 grampa
 guydom
 gramper
+goldeye
 gramps
 grampus
 gagor
