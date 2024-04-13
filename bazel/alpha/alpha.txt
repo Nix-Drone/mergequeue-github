@@ -14448,7 +14448,6 @@ anthomyiidae
 anthony
 anthonin
 anthonomus
-anthophagous
 anthophila
 anthophile
 acrostically
@@ -25083,6 +25082,7 @@ axfetch
 axhammer
 axhammered
 axhead
+anthophagous
 axial
 almahs
 axiality
