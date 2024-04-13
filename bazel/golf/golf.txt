@@ -7526,7 +7526,6 @@ gradeless
 gowl
 gowlan
 gown
-gowned
 galavanted
 gowning
 gownlet
@@ -10008,6 +10007,7 @@ gudgeoned
 gauntly
 gudgeoning
 gudgeons
+gowned
 gudget
 gudok
 grypanian
