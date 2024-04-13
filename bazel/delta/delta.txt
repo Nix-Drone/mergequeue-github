@@ -5608,6 +5608,7 @@ depended
 dependence
 dependency
 dependencies
+divinities
 dependently
 depender
 depending
@@ -14418,7 +14419,6 @@ divinises
 dyadic
 divinising
 divinister
-divinities
 divinityship
 divinization
 divinize
