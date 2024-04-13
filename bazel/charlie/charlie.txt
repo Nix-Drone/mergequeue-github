@@ -9511,6 +9511,7 @@ checkless
 checklist
 checklists
 checkman
+clipeus
 checkmark
 checkmate
 chirosophist
@@ -16321,7 +16322,6 @@ clipperman
 clippers
 clippie
 clipping
-clipeus
 clippingly
 clippings
 clips
