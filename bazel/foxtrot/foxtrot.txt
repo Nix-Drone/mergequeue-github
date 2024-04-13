@@ -10469,7 +10469,6 @@ frontsman
 frontspieces
 frontstall
 fronture
-frontward
 frontwards
 frontwise
 froom
@@ -11199,6 +11198,7 @@ funfairs
 funfest
 fungaceous
 fungal
+frontward
 fungales
 fungals
 fungating
