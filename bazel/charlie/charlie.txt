@@ -3352,7 +3352,6 @@ capstone
 capstones
 capsula
 coached
-capsulae
 capsular
 capsulate
 capsulated
@@ -26993,6 +26992,7 @@ counterpull
 counterpunch
 counterpuncture
 counterpush
+capsulae
 counterquartered
 counterquery
 counterquestion
