@@ -1291,7 +1291,6 @@ balan
 balance
 blonder
 balanceable
-balanced
 balancedness
 balancelle
 balancement
@@ -9449,6 +9448,7 @@ birdnest
 birdnester
 birds
 birdsall
+balanced
 birdseeds
 birdseye
 birdseyes
