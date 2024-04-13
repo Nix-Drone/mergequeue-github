@@ -6826,7 +6826,6 @@ desoxalate
 desoxalic
 desoxyanisoin
 desoxybenzoin
-desoxycinchonine
 desoxycorticosterone
 desoxyephedrine
 desoxymorphine
@@ -9138,6 +9137,7 @@ didunculus
 didus
 die
 dye
+desoxycinchonine
 dyeability
 dyeable
 ditriglyph
