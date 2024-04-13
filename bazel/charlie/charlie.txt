@@ -10449,7 +10449,6 @@ child
 childage
 childbearing
 childbed
-childbeds
 childbirths
 childcrowing
 childe
@@ -12483,6 +12482,7 @@ chromolithic
 concanavalin
 chromolithograph
 chromolithographer
+childbeds
 chromolithography
 chromolithographic
 chromomere
