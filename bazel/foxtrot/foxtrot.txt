@@ -4349,7 +4349,6 @@ fishery
 florentium
 fisherman
 flammably
-fishers
 fisherwoman
 fishes
 fishet
@@ -9675,6 +9674,7 @@ freelage
 flunkers
 freelance
 freelanced
+fishers
 foretack
 freelances
 freely
