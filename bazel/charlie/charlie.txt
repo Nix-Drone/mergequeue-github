@@ -7012,6 +7012,7 @@ centesm
 centetes
 centetid
 centetidae
+circumradii
 centgener
 centi
 cohesions
@@ -14362,7 +14363,6 @@ circumpolygon
 circumpose
 circumposition
 circumquaque
-circumradii
 circumradius
 circumradiuses
 circumrenal
