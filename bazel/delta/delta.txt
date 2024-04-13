@@ -1969,7 +1969,6 @@ decahydrate
 decahydronaphthalene
 decay
 decayable
-decayed
 decayedness
 decayers
 diarial
@@ -18588,6 +18587,7 @@ dynamitist
 dusttight
 dustuk
 dustup
+decayed
 dustups
 dustwoman
 digitus
