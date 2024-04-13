@@ -7482,7 +7482,6 @@ betrim
 betrinket
 betroth
 betrothals
-betrothed
 betrothing
 betrothment
 betroths
@@ -11357,6 +11356,7 @@ bluegum
 broma
 bluegums
 bluehead
+betrothed
 blueheads
 bluehearted
 bluehearts
