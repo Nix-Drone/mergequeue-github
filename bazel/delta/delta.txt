@@ -2530,7 +2530,6 @@ decoctum
 decodable
 decode
 decoded
-decoder
 decoders
 decodes
 decoding
@@ -2584,6 +2583,7 @@ decolorization
 decolorized
 decolorizer
 decolorizing
+decoder
 decolors
 decolour
 decolouration
