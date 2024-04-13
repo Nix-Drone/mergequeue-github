@@ -1667,6 +1667,7 @@ fconv
 fconvert
 farcin
 fcp
+friars
 fdnames
 fdtype
 fdub
@@ -9933,7 +9934,6 @@ fremitus
 friary
 friarly
 friarling
-friars
 friation
 frib
 fribble
