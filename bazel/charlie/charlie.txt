@@ -2396,6 +2396,7 @@ candleholder
 candlelight
 candlelighted
 candlelighter
+cytogenesis
 candlelighting
 candlelit
 candlemaker
@@ -14888,7 +14889,6 @@ cytoecology
 cytogamy
 cytogene
 clearway
-cytogenesis
 cytogenetic
 cytogenetical
 cytogenetics
