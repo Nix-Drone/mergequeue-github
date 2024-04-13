@@ -3754,7 +3754,6 @@ embrocation
 embrocations
 embroche
 embroglios
-embroider
 embroidered
 embroiderer
 embroiderers
@@ -5211,6 +5210,7 @@ endogenous
 electrocataphoresis
 endogenously
 endogens
+embroider
 endoglobular
 extralimital
 endognath
