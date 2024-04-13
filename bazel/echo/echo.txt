@@ -2715,7 +2715,6 @@ electrotonic
 electrotonize
 electrotrephine
 electrotropic
-electrotropism
 egoize
 electrovalence
 electrovalent
@@ -8226,6 +8225,7 @@ episememe
 episepalous
 episyllogism
 episynaloephe
+electrotropism
 episynthetic
 essayette
 episyntheton
