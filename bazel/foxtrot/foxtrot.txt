@@ -5945,6 +5945,7 @@ floorshow
 floorway
 floorwalkers
 fluidrachm
+foined
 floorward
 furniment
 feignedness
@@ -6790,7 +6791,6 @@ foiling
 foils
 foilsmen
 foin
-foined
 foining
 foiningly
 foins
