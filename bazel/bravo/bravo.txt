@@ -4976,6 +4976,7 @@ beento
 beep
 beeped
 beepers
+boltless
 beeping
 beeps
 beer
@@ -12241,7 +12242,6 @@ bolti
 bolty
 boltin
 bolting
-boltless
 boltlike
 boltmaker
 boltmaking
