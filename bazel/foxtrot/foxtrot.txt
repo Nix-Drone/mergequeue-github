@@ -5839,6 +5839,7 @@ flitter
 flocklike
 flockman
 flockmaster
+footway
 florigraphy
 flockowner
 frangent
@@ -7261,7 +7262,6 @@ footstone
 footstool
 footstools
 fleeches
-footway
 footways
 footwalk
 foulnesses
