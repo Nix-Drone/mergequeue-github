@@ -1359,6 +1359,7 @@ garcon
 gardbrace
 garde
 gardebras
+gnatsnapper
 gable
 gardened
 gardener
@@ -7755,7 +7756,6 @@ grayout
 grayouts
 glimpse
 graip
-gnatsnapper
 graysby
 graisse
 geodiatropism
