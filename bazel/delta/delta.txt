@@ -6240,7 +6240,6 @@ dermatopathology
 dermatopathophobia
 dermatophagus
 dermatophyte
-dermatophytic
 dermatophytosis
 devocalised
 dermatophone
@@ -15948,6 +15947,7 @@ dotlet
 doto
 dotonidae
 dotriacontane
+dermatophytic
 dots
 dottard
 dotted
