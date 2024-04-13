@@ -4841,6 +4841,7 @@ bedspreads
 bedspring
 bedsprings
 bedstaff
+bolivars
 bedstand
 bedstead
 baikerinite
@@ -12147,7 +12148,6 @@ bolides
 bolimba
 bolivar
 bolivares
-bolivars
 bolivia
 bolivian
 bolivianos
