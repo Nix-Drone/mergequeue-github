@@ -7057,7 +7057,6 @@ fratercula
 fonts
 fritterers
 finity
-foo
 furnitures
 foochow
 foochowese
@@ -11737,6 +11736,7 @@ fuzziest
 fuzzily
 fuzziness
 forestem
+foo
 fuzzing
 fuzzle
 fv
