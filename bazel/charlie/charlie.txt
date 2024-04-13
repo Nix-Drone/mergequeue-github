@@ -3554,7 +3554,6 @@ centralizer
 caranx
 carap
 carapa
-carapaced
 couloirs
 carapaces
 carapache
@@ -28448,6 +28447,7 @@ creche
 creda
 credal
 creddock
+carapaced
 credences
 credencive
 credenciveness
