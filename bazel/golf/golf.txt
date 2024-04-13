@@ -5314,7 +5314,6 @@ gld
 glead
 gleam
 guzzler
-gleamed
 gregos
 gleamier
 gleamiest
@@ -8336,6 +8335,7 @@ gratias
 graticulate
 graticulation
 graticule
+gleamed
 gratify
 gratifiable
 gibbously
