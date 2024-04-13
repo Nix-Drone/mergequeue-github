@@ -11908,7 +11908,6 @@ boggled
 boggler
 bogglers
 boggles
-boggling
 bogglingly
 bogglish
 boghole
@@ -15464,6 +15463,7 @@ balut
 brinjarries
 brink
 brinkless
+boggling
 brinkmanship
 branchi
 brinksmanship
