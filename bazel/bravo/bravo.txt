@@ -12707,7 +12707,6 @@ barwise
 bookpress
 bookrack
 bookracks
-betties
 bookrest
 bookrests
 bookroom
@@ -18029,6 +18028,7 @@ busybodyness
 busycon
 busied
 busiest
+betties
 busyhead
 benzbitriazole
 busying
