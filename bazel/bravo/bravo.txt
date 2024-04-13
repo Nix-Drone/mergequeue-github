@@ -2090,7 +2090,6 @@ bankcard
 bankcards
 banked
 banker
-bankera
 bankerdom
 bankeress
 bankers
@@ -6466,6 +6465,7 @@ benzohydrol
 benzoic
 benzoid
 benzoylate
+bankera
 benzoylated
 benzoylating
 benzoylation
