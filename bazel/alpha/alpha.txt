@@ -11355,7 +11355,6 @@ ampullaceous
 ampullary
 anselmian
 ampullaria
-ampullariidae
 ampullate
 ampullated
 ampulliform
@@ -23955,6 +23954,7 @@ autocolony
 autocombustible
 autocombustion
 autoconduction
+ampullariidae
 autoconvection
 autoconverter
 autocopist
