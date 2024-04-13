@@ -11610,7 +11610,6 @@ boathook
 boathouse
 boathouses
 boatyard
-boatyards
 boatie
 backbends
 boating
@@ -14382,6 +14381,7 @@ brakesman
 breechless
 brakesmen
 braky
+boatyards
 brakie
 brakier
 brakiest
