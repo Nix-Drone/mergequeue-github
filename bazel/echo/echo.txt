@@ -5874,6 +5874,7 @@ engraver
 engravers
 engraves
 easts
+endophytous
 engravings
 engreaten
 engrege
@@ -8551,7 +8552,6 @@ epoxy
 epoxides
 epoxidize
 epoxied
-endophytous
 epoxyed
 epoxies
 epoxying
