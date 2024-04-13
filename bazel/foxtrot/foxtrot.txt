@@ -10684,7 +10684,6 @@ fruitlike
 fruitling
 fruits
 fruitstalk
-fruittime
 fruitwoman
 fruitwomen
 fruitwood
@@ -11638,6 +11637,7 @@ fustier
 fustiest
 fustigated
 foggily
+fruittime
 fustigating
 fustigation
 fustigator
