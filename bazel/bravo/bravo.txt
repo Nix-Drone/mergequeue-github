@@ -10057,7 +10057,6 @@ byzantinize
 byzantium
 brasser
 byzants
-bizarre
 bizarreness
 bizcacha
 bize
@@ -16915,6 +16914,7 @@ buildable
 builded
 builders
 buffalofishes
+bizarre
 building
 buildingless
 buildings
