@@ -8951,7 +8951,6 @@ biochemistries
 biochemists
 bandoras
 biochore
-biocycle
 biocycles
 botan
 biocidal
@@ -11288,6 +11287,7 @@ bluebell
 bluebelled
 bluebells
 blueberry
+biocycle
 blueberries
 bluebill
 bluebills
