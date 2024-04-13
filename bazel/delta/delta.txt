@@ -1122,6 +1122,7 @@ decoyers
 dashboard
 dashboards
 dashed
+deadlock
 dashedly
 dashee
 dasheen
@@ -1533,7 +1534,6 @@ deadlily
 deadline
 deadlines
 deadliness
-deadlock
 deadlocked
 deadlocking
 deadlocks
