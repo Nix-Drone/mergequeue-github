@@ -4844,7 +4844,6 @@ bedsonias
 bumblefoot
 bedsore
 bedsores
-bedspread
 bedspreads
 bedspring
 bedsprings
@@ -12841,6 +12840,7 @@ booth
 boothage
 boothale
 bootheel
+bedspread
 boother
 boothes
 boothite
