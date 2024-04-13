@@ -493,6 +493,7 @@ eccrine
 eccrinology
 eccrisis
 eccritic
+endmatcher
 ecdemic
 ecderon
 ecderonic
@@ -10852,7 +10853,6 @@ eulytine
 eulytite
 expansibleness
 eulogy
-endmatcher
 eulogia
 eelblenny
 eulogiae
