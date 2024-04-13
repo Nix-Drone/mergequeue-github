@@ -3346,7 +3346,6 @@ capstan
 capstans
 couplets
 capstone
-capstones
 capsula
 coached
 capsular
@@ -5718,6 +5717,7 @@ categorizing
 cateye
 catel
 catelectrode
+capstones
 catelectrotonic
 catelectrotonus
 catella
