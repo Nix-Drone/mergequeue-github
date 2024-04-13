@@ -208,6 +208,7 @@ factorials
 factories
 factorylike
 factoring
+foreign
 factoryship
 factorist
 factorization
@@ -7711,7 +7712,6 @@ foreyard
 forpit
 fibrolipoma
 foreyards
-foreign
 floodlights
 foreigneering
 foreigner
