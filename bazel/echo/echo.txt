@@ -7432,7 +7432,6 @@ epanorthidae
 epanorthoses
 epanorthotic
 epanthous
-entailment
 epapillate
 epapophysis
 epilemmal
@@ -13117,6 +13116,7 @@ expiate
 expiated
 expiates
 expiating
+entailment
 expiation
 expiational
 expiations
