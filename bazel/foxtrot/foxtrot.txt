@@ -7421,7 +7421,6 @@ fey
 forceput
 fazing
 forcer
-forcers
 forces
 forcet
 forchase
@@ -10113,6 +10112,7 @@ fringiness
 fringing
 frypan
 frypans
+forcers
 friponerie
 fripper
 flagitate
