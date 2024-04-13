@@ -9525,6 +9525,7 @@ checkpoint
 checkpointed
 checkpointing
 checkpoints
+commonize
 checkrack
 checkrail
 checkrein
@@ -20200,7 +20201,6 @@ commonership
 commonest
 commoning
 commonition
-commonize
 commonly
 commonness
 commonplace
