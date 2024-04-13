@@ -1707,6 +1707,7 @@ eider
 existential
 eiderdown
 eiders
+electropult
 eidetically
 eidograph
 eidolic
@@ -2600,7 +2601,6 @@ electropolish
 electropositive
 electropower
 electropsychrometer
-electropult
 electropuncturation
 electropuncture
 electropuncturing
