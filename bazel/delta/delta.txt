@@ -3887,7 +3887,6 @@ damper
 dekalitre
 dekameter
 dekameters
-dekametre
 decumani
 dekaparsec
 disunified
@@ -18653,6 +18652,7 @@ detersively
 dwarflike
 dwarfling
 dinoceratidae
+dekametre
 dwarfs
 dwarves
 dweeble
