@@ -20606,7 +20606,6 @@ complainable
 complainant
 complainants
 complained
-complainer
 complainers
 complaining
 complainingly
@@ -29844,6 +29843,7 @@ crossite
 crossjack
 crosslap
 crosslegs
+complainer
 crossley
 crosslet
 crossleted
