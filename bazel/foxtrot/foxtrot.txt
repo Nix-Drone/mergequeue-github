@@ -5610,6 +5610,7 @@ flingers
 flingy
 flinging
 flings
+filelike
 flinkite
 fator
 flint
@@ -6925,7 +6926,6 @@ folksay
 folksey
 folksy
 folksier
-filelike
 folksiest
 folksily
 folksiness
