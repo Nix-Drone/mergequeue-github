@@ -3611,7 +3611,6 @@ bathyspheres
 bathythermogram
 bathythermograph
 bathkol
-baseman
 bathless
 barbar
 bathman
@@ -16103,6 +16102,7 @@ broomer
 bugproof
 broomiest
 brooming
+baseman
 brachioradial
 biochemist
 broommaker
