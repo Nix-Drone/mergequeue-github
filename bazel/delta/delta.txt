@@ -679,6 +679,7 @@ damped
 dampen
 dampened
 dampener
+deafen
 dampening
 dampens
 dampers
@@ -4644,7 +4645,6 @@ doblones
 demipesade
 demipike
 demipillar
-deafen
 diagnostic
 demipique
 demiplacate
