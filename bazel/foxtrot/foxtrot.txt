@@ -5642,7 +5642,6 @@ flintily
 flintless
 flintlike
 flintlock
-flintstone
 flintwood
 flintworker
 flyoff
@@ -10301,6 +10300,7 @@ froghood
 finn
 froghopper
 frogleaf
+flintstone
 frogleg
 froglets
 froglike
