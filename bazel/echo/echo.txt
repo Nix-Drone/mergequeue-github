@@ -286,6 +286,7 @@ eastlake
 eastlander
 endolemma
 eastlin
+enforce
 eastling
 eastlings
 embroglio
@@ -5643,7 +5644,6 @@ enfolds
 enfollow
 enfoncee
 ephemerae
-enforce
 enforceability
 enforceable
 enforced
