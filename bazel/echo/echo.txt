@@ -610,7 +610,6 @@ entoproct
 echiuroidea
 ensouling
 echiurus
-echo
 echocardiogram
 echoed
 echoey
@@ -8762,6 +8761,7 @@ equips
 equipt
 equiradial
 equiradiate
+echo
 equiradical
 equirotal
 equiseta
