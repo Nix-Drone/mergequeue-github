@@ -1538,7 +1538,6 @@ deadtongue
 deadweight
 deadwood
 deadwork
-deadwort
 deaerated
 determinability
 deaerates
@@ -8338,6 +8337,7 @@ diallagic
 diallagite
 desquamation
 dialled
+deadwort
 diallel
 diallelon
 diallelus

@@ -164,7 +164,6 @@ girth
 generalizes
 gaelic
 gaelicist
-gaelicize
 gynostegia
 gaels
 gaeltacht
@@ -3009,6 +3008,7 @@ galivant
 geobotanic
 goitre
 glutetei
+gaelicize
 geocarpic
 gatherer
 guacimo
