@@ -2451,6 +2451,7 @@ electroforming
 electrofuse
 electrofused
 electrofusion
+ethanol
 electrogalvanization
 electrogasdynamics
 electrogenetic
@@ -10224,7 +10225,6 @@ eyey
 evirate
 ethanim
 ethanoyl
-ethanol
 ethanolamine
 ethanolysis
 estamp
