@@ -18912,7 +18912,6 @@ colleagueship
 colleaguesmanship
 colleaguing
 collect
-collectable
 cubica
 collectanea
 collectarium
@@ -29407,6 +29406,7 @@ crystallization
 crystallize
 crystallized
 crystallizer
+collectable
 crystallizes
 crystallizing
 crystalloblastic
