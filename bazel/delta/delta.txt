@@ -2455,7 +2455,6 @@ declaimer
 declaimers
 declaims
 declamando
-declamation
 disillusionize
 declamations
 declamatory
@@ -16816,6 +16815,7 @@ drawdowns
 drawee
 drawer
 drawerful
+declamation
 drawers
 drawfile
 disallowances
