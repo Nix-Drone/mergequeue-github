@@ -6451,7 +6451,6 @@ agreeingly
 agreement
 agreements
 agreer
-agrees
 agregation
 agrege
 agreges
@@ -7924,6 +7923,7 @@ alerter
 arrivederci
 alerters
 alertest
+agrees
 alerting
 alertly
 alertness
