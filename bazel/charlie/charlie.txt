@@ -3414,7 +3414,6 @@ capuches
 capuchins
 capucine
 capulet
-capuli
 capulin
 caput
 caputium
@@ -14381,6 +14380,7 @@ circumscribable
 circumscribe
 circumscribed
 circumscriber
+capuli
 circumscribing
 circumscript
 circumscription
