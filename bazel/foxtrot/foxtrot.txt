@@ -153,7 +153,6 @@ foreremembered
 facsimilist
 fulhams
 facsimilize
-fact
 factable
 factabling
 fretworked
@@ -4909,6 +4908,7 @@ flan
 flancard
 flanch
 flanche
+fact
 flanconade
 flanconnade
 frappeed
