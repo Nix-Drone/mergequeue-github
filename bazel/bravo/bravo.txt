@@ -8835,7 +8835,6 @@ bindoree
 binds
 bindweb
 bindweed
-bindwith
 bindwood
 bynedestin
 binervate
@@ -10166,6 +10165,7 @@ blackman
 blackneck
 blackness
 blacknob
+bindwith
 blackout
 blackpatch
 blackplate
