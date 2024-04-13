@@ -4452,7 +4452,6 @@ enantiomeric
 enantiomorph
 enantiomorphy
 enantiomorphic
-enantiomorphism
 enantiomorphous
 enantiomorphously
 enantiopathy
@@ -12663,6 +12662,7 @@ exocoele
 eradiated
 exocoelic
 exocoelom
+enantiomorphism
 exocoelum
 exocoetidae
 exocoetus
