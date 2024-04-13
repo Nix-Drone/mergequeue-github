@@ -14381,6 +14381,7 @@ circumpolar
 circumpolygon
 circumpose
 circumposition
+condite
 circumquaque
 circumradii
 circumradius
@@ -21645,7 +21646,6 @@ condimentary
 condiments
 condisciple
 condistillation
-condite
 condition
 conditionable
 conditional
