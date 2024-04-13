@@ -6916,7 +6916,6 @@ entocuniform
 erin
 entodermal
 entodermic
-entoderms
 entogastric
 entogenous
 enstyle
@@ -9004,6 +9003,7 @@ ergatomorphism
 ergo
 ergodic
 ergodicity
+entoderms
 efflorescency
 ergograph
 ergoism
