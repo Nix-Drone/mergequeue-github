@@ -3021,7 +3021,6 @@ barristership
 barristress
 barroom
 barrow
-barrowcoat
 barrowful
 barrowman
 backscatters
@@ -6081,6 +6080,7 @@ bemuddled
 bemuddlement
 bemuddles
 bemuddling
+barrowcoat
 bemuffle
 bemurmur
 bemurmure
