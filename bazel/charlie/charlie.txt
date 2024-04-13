@@ -5027,7 +5027,6 @@ caseinate
 canvaser
 caseinogen
 caseins
-casekeeper
 caseless
 caselessly
 caseload
@@ -29741,6 +29740,7 @@ cropsick
 cropsickness
 cropweed
 croquet
+casekeeper
 croqueted
 croqueting
 croquets

@@ -5054,7 +5054,6 @@ flatfeet
 flatfish
 flatfishes
 flatfoot
-flatfooted
 flatfootedly
 flatfootedness
 flatfoots
@@ -8641,6 +8640,7 @@ fortescure
 forth
 forthby
 forthbring
+flatfooted
 forthbringing
 fopdoodle
 forthbrought
