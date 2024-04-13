@@ -1781,7 +1781,6 @@ balti
 blends
 baltimore
 barandos
-baltimorean
 balu
 baluba
 baluch
@@ -6506,6 +6505,7 @@ benzopyrylium
 benzoquinoline
 benzoquinone
 benzoquinoxaline
+baltimorean
 benzosulfimide
 benzosulphimide
 benzotetrazine
