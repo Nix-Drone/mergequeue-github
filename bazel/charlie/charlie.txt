@@ -7441,7 +7441,6 @@ ceratophyllaceous
 ceratophyllum
 ceratophyta
 colocephalous
-ceratophyte
 ceratophrys
 crozier
 ceratopsian
@@ -31161,6 +31160,7 @@ cupulae
 cupular
 cupulate
 cupule
+ceratophyte
 cupules
 cupuliferae
 chickenhood
