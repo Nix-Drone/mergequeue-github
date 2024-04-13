@@ -2645,7 +2645,6 @@ electrosherardizing
 electroshock
 electroshocks
 electrosynthesis
-electrosynthetic
 electrosynthetically
 electrosmosis
 electrostatic
@@ -6155,6 +6154,7 @@ ennew
 ennia
 enniche
 ennoble
+electrosynthetic
 ennobled
 ennoblement
 ennoblements
