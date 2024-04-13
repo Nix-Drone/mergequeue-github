@@ -4379,7 +4379,6 @@ emusive
 en
 enable
 expertising
-enabled
 enablement
 exothermic
 ectorganism
@@ -10121,6 +10120,7 @@ estrogenically
 estrogenicity
 estrogens
 estrone
+enabled
 estrones
 estruation
 elk
