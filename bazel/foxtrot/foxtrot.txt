@@ -3497,6 +3497,7 @@ fight
 fightable
 fighter
 fighteress
+futurisms
 fighters
 fighting
 fightingly
@@ -11701,7 +11702,6 @@ futuric
 futurism
 feminines
 flippancy
-futurisms
 fumaryl
 futurist
 futuristically
