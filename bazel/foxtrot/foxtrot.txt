@@ -5044,6 +5044,7 @@ flashness
 flashover
 feint
 flashtester
+fructure
 flashtube
 flashtubes
 fanterie
@@ -10639,7 +10640,6 @@ fructuose
 fructuous
 fructuously
 fructuousness
-fructure
 familiarities
 fructus
 frug
