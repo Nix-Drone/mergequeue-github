@@ -17931,7 +17931,6 @@ appraiser
 appraisers
 appraises
 appraising
-appraisingly
 abacate
 appraisive
 abandonments
@@ -24084,6 +24083,7 @@ autographometer
 autographs
 autogravure
 autoharp
+appraisingly
 autoheader
 axone
 autohemolysis
