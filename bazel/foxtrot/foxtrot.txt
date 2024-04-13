@@ -5301,7 +5301,6 @@ fld
 fldxt
 filii
 flea
-fleabag
 fusible
 fleabags
 fleabane
@@ -8863,6 +8862,7 @@ fossiform
 fossil
 fossilage
 fossilated
+fleabag
 fossilation
 fossildom
 fossiled
