@@ -7630,6 +7630,7 @@ grademark
 grader
 grades
 gradgrind
+gud
 gradgrindian
 gradgrindish
 gradgrindism
@@ -9989,7 +9990,6 @@ gewgawed
 gubernatrix
 gneissic
 gucks
-gud
 gorsechat
 gudame
 guddle
