@@ -5988,7 +5988,6 @@ gloves
 glow
 girnel
 glowbard
-glowed
 glower
 glowerer
 glowering
@@ -6806,6 +6805,7 @@ gonfalcon
 gonfalonier
 gammaridae
 gonfalonierate
+glowed
 gonfaloniership
 gonfalons
 gonfanon
