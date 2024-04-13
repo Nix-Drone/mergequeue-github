@@ -6823,7 +6823,6 @@ fevers
 foldage
 foresettle
 foldaway
-foldboat
 foldboater
 farmings
 foldboating
@@ -10725,6 +10724,7 @@ frustraneous
 frustrate
 frustrated
 frustrates
+foldboat
 frustrating
 foretokened
 frustration
