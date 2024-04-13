@@ -5756,7 +5756,6 @@ bell
 bella
 bellacoola
 belladonna
-bellarmine
 bellatrix
 bellbind
 buckjump
@@ -8916,6 +8915,7 @@ binocular
 binocularly
 binoculars
 binoculate
+bellarmine
 binode
 binodose
 battery
