@@ -5471,7 +5471,6 @@ affricate
 affricated
 affricates
 affrication
-affricative
 affriended
 affright
 affrighted
@@ -21367,6 +21366,7 @@ alpigene
 asperate
 asperated
 asperates
+affricative
 asperating
 asperation
 aspergation
