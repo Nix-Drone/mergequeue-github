@@ -9169,6 +9169,7 @@ chasable
 chase
 chaseable
 chased
+corbeilles
 chasers
 chases
 chashitsu
@@ -24883,7 +24884,6 @@ ciruses
 corbed
 corbeil
 corbeille
-corbeilles
 corbeils
 corbel
 corbeled
