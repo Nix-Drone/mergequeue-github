@@ -2588,7 +2588,6 @@ barguests
 barhop
 buzylene
 barhopped
-barhopping
 barhops
 bari
 baria
@@ -16817,6 +16816,7 @@ buffoonish
 buffoonishness
 buffoons
 buffos
+barhopping
 buffs
 buffware
 bufidin
