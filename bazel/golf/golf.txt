@@ -1218,7 +1218,6 @@ ganodont
 ganodus
 ganofs
 ganoid
-ganoidal
 ganoidei
 griphosaurus
 gavotte
@@ -6531,6 +6530,7 @@ gogglebox
 goggled
 goggler
 gogglers
+ganoidal
 goggles
 ghostlet
 goggly
