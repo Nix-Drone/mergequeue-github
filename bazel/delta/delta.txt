@@ -3381,6 +3381,7 @@ damnum
 defleas
 deflect
 driftfishes
+deoxygenizing
 deflectable
 deflected
 deflecting
@@ -5515,7 +5516,6 @@ delphinium
 deoxygenization
 deoxygenize
 deoxygenized
-deoxygenizing
 deoxyribonuclease
 deoxyribonucleoprotein
 deoxyribonucleotide
