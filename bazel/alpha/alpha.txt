@@ -3530,6 +3530,7 @@ addible
 addicent
 addict
 addicted
+antiknocks
 addictedness
 addicting
 addiction
@@ -15420,7 +15421,6 @@ antiking
 aposematic
 antikings
 antiknock
-antiknocks
 antilaborist
 antilacrosser
 acervately
