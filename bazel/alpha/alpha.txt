@@ -5239,6 +5239,7 @@ aevum
 af
 anemometry
 afterpart
+automate
 aface
 afaced
 afacing
@@ -24164,7 +24165,6 @@ automanual
 automat
 automata
 automatable
-automate
 apidae
 automated
 automates
