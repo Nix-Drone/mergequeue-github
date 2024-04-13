@@ -4050,7 +4050,6 @@ cardiorespiratory
 cardiorrhaphy
 cardiorrheuma
 cardiorrhexis
-cardioschisis
 cardiosclerosis
 cardioscope
 cardiosymphysis
@@ -5878,6 +5877,7 @@ cathodical
 cathodically
 cathodograph
 canniness
+cardioschisis
 cathodography
 cathodoluminescence
 cathodoluminescent

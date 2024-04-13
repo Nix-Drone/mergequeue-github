@@ -2966,7 +2966,6 @@ acromioclavicular
 acromiocoracoid
 acromiodeltoid
 acromyodi
-acromyodian
 acromyodic
 acromyodous
 acromiohyoid
@@ -5952,6 +5951,7 @@ agba
 absorptively
 age
 ageable
+acromyodian
 antilles
 aged
 agedly
