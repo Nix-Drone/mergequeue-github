@@ -6925,6 +6925,7 @@ folkmoots
 folkmote
 folkmoter
 folkmotes
+formuliser
 folkmots
 foamily
 folkright
@@ -8520,7 +8521,6 @@ formulator
 formulatory
 frostbird
 formulisation
-formuliser
 friaries
 flunkeyish
 federalise
