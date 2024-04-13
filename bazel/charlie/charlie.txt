@@ -2295,7 +2295,6 @@ cancerroot
 cancers
 cancerweed
 cancerwort
-canch
 cancha
 canchalagua
 crocard
@@ -23378,6 +23377,7 @@ contemporariness
 contemporise
 contemporised
 contemporising
+canch
 contemporize
 contemporized
 contemporizing
