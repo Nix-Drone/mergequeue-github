@@ -5633,6 +5633,7 @@ enfolden
 enfolder
 enfolders
 enfolding
+excisions
 enfoldings
 enfoldment
 enfolds
@@ -12028,7 +12029,6 @@ excisemanship
 excises
 excising
 excision
-excisions
 excyst
 excystation
 excysted
