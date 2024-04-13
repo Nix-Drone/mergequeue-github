@@ -5701,7 +5701,6 @@ depilate
 depilated
 depilates
 depilating
-depilation
 depilator
 depilatory
 depilatories
@@ -6808,6 +6807,7 @@ desmosis
 desmosite
 desmosome
 desmothoraca
+depilation
 desmotomy
 desmotrope
 desmotropy
