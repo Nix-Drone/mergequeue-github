@@ -1903,7 +1903,6 @@ camisas
 camiscia
 camise
 camises
-camisia
 camisias
 camisole
 camisoles
@@ -7845,6 +7844,7 @@ cervoid
 cervuline
 cervulus
 cervus
+camisia
 cesare
 cesarean
 cesareans
