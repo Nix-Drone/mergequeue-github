@@ -3299,7 +3299,6 @@ capsids
 capsizable
 capsizal
 capsize
-capsized
 capsizes
 capsizing
 capsomer
@@ -20322,6 +20321,7 @@ communitive
 communitywide
 coenunuri
 communitorium
+capsized
 communization
 communize
 communized
