@@ -2180,7 +2180,6 @@ aglossate
 apologizers
 acetoxime
 acetoxyphthalide
-acetphenetid
 acetphenetidin
 acetract
 acettoluide
@@ -5524,6 +5523,7 @@ agons
 aflatoxin
 aflatus
 aflaunt
+acetphenetid
 afley
 aflight
 aflow
