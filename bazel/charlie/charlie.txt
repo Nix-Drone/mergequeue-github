@@ -6441,7 +6441,6 @@ ccw
 cd
 cdf
 cdg
-cdr
 ce
 ceanothus
 cearin
@@ -14197,6 +14196,7 @@ circularwise
 circulatable
 circulated
 circulates
+cdr
 circulation
 circulations
 circulative
