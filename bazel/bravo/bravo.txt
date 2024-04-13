@@ -2552,7 +2552,6 @@ barff
 barfy
 barfing
 barfish
-barfly
 barflies
 barfs
 bilskirnir
@@ -15318,6 +15317,7 @@ brigandage
 brigander
 brigandine
 brigandish
+barfly
 brigandishly
 boccis
 brigantes
