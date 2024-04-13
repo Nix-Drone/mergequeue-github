@@ -6488,6 +6488,7 @@ enslaving
 enslumber
 ensnare
 ensnared
+explosive
 ensnarement
 ensnarer
 ensnarers
@@ -13245,7 +13246,6 @@ explosion
 explosionist
 epithecate
 explosions
-explosive
 explosively
 explosiveness
 explosives
