@@ -2498,7 +2498,6 @@ electrolyze
 electrolyzed
 electrology
 electrological
-electrologist
 electrologists
 elbowbush
 electromagnet
@@ -5294,6 +5293,7 @@ endoprocta
 endoproctous
 endopterygota
 endopterygote
+electrologist
 equiparant
 endopterygotic
 endorachis

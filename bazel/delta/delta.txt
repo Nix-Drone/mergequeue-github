@@ -3185,7 +3185,6 @@ defectors
 duplicating
 despaired
 defectoscope
-defects
 defectum
 dehumidification
 defectuous
@@ -13631,6 +13630,7 @@ danburite
 diatomiferous
 dissite
 disslander
+defects
 dyssnite
 dissociability
 dissociable
