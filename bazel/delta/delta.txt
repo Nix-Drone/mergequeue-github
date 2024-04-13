@@ -3566,7 +3566,6 @@ disguise
 definition
 degass
 degassed
-degassers
 degassing
 degauss
 degaussing
@@ -16859,6 +16858,7 @@ declaiming
 drazel
 drch
 dread
+degassers
 dreadable
 debunk
 dreaded
