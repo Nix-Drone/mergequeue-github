@@ -2113,6 +2113,7 @@ banknotes
 bankrider
 brachycome
 bankroll
+bicollaterality
 bankrolled
 bankrolling
 bankrolls
@@ -8110,7 +8111,6 @@ breathiest
 biclinium
 bycoket
 bicollateral
-bicollaterality
 bicolligate
 bicolored
 bicolorous
