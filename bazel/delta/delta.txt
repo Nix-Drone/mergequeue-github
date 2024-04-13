@@ -15617,6 +15617,7 @@ doorpiece
 doorpost
 doorposts
 doors
+dowl
 dawdle
 doorsill
 doorsills
@@ -16238,7 +16239,6 @@ dowing
 dowitch
 dowitcher
 dowitchers
-dowl
 dares
 dowlas
 dowly
