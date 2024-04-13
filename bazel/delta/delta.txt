@@ -1703,6 +1703,7 @@ deaths
 deathshot
 deathsman
 deathsmen
+depaysee
 deathtime
 deathtrap
 deathtraps
@@ -5529,7 +5530,6 @@ depainting
 depaints
 depair
 depayse
-depaysee
 depancreatization
 depancreatize
 depardieu
