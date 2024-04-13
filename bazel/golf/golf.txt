@@ -7480,7 +7480,6 @@ gouvernantes
 gove
 govern
 governability
-governable
 governableness
 governably
 governail
@@ -8778,6 +8777,7 @@ greyflies
 glycocin
 glyoxilin
 greyhens
+governable
 greyhound
 greyhounds
 greyiaceae
