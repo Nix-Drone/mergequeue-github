@@ -9836,7 +9836,6 @@ chemiluminescence
 chemiluminescent
 chemin
 cheminee
-chemins
 chemiotactic
 chemiotaxic
 chemiotaxis
@@ -27463,6 +27462,7 @@ coverings
 coverless
 coverlet
 coverlets
+chemins
 consumation
 coverlid
 coverlids
