@@ -5524,7 +5524,6 @@ deozonizer
 dep
 depa
 depaganize
-depaint
 depainted
 depainting
 depaints
@@ -10749,6 +10748,7 @@ dirdums
 dire
 direcly
 direct
+depaint
 directable
 directcarving
 directdiscourse
