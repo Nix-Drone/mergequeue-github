@@ -2058,7 +2058,6 @@ acetylcarbazole
 acetylcellulose
 anamnesis
 acetylcholine
-acetylcholinesterase
 acetylcyanide
 acetylenation
 acetylene
@@ -2434,6 +2433,7 @@ acidity
 ashmolean
 acidize
 acidized
+acetylcholinesterase
 acidizing
 acidly
 acidness
