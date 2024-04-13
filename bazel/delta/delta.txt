@@ -3120,7 +3120,6 @@ defease
 dictyoceratina
 detersive
 defeasibility
-defeasible
 defeasibleness
 defeasive
 delphacid
@@ -15728,6 +15727,7 @@ dormient
 dormilona
 dormins
 dormitary
+defeasible
 dormition
 dormitive
 dormitories
