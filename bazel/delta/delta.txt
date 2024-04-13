@@ -2371,6 +2371,7 @@ deciles
 decylic
 deciliter
 deciliters
+discinct
 decilitre
 decillion
 decillionth
@@ -11316,7 +11317,6 @@ disciform
 dravida
 discigerous
 discina
-discinct
 discind
 discing
 discinoid
