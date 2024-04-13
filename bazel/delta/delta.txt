@@ -4929,7 +4929,6 @@ demos
 demoses
 demospongiae
 demosthenean
-demosthenic
 demot
 demote
 demoted
@@ -17102,6 +17101,7 @@ debentureholder
 dryly
 drill
 drillability
+demosthenic
 drillable
 drillbit
 drilled
