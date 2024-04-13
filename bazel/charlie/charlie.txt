@@ -8895,7 +8895,6 @@ characterizable
 characterization
 characterizations
 characterize
-characterized
 characterizer
 characterizers
 characterizes
@@ -13272,6 +13271,7 @@ cyclicly
 cyclide
 cyclindroid
 cycling
+characterized
 cyclings
 cyclism
 cyclist
