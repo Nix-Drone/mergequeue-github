@@ -4506,7 +4506,6 @@ demicaponier
 demichamfron
 demicylinder
 demicylindrical
-demicircle
 demicircular
 demicivilized
 demicolumn
@@ -11466,6 +11465,7 @@ discommission
 discommodate
 discommode
 discommoded
+demicircle
 discommodes
 discommoding
 discommodious
