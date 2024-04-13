@@ -636,7 +636,6 @@ bactericidal
 bactericidally
 bactericide
 bactericides
-bactericidin
 bacterid
 bacteriemia
 bacteriform
@@ -9139,6 +9138,7 @@ bioplasms
 bioplast
 bunching
 baptistery
+bactericidin
 bioplastic
 biopoiesis
 biopotential
