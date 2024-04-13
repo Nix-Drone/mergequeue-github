@@ -2543,7 +2543,6 @@ cankerous
 cankerroot
 cankers
 cankerweed
-cankerworms
 cankerwort
 canli
 coff
@@ -20618,6 +20617,7 @@ complaintiveness
 complaints
 complaisance
 complaisant
+cankerworms
 congregationally
 complaisantly
 complaisantness
