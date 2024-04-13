@@ -2397,6 +2397,7 @@ electrocutions
 emplaces
 electrode
 electrodeless
+entremets
 electrodentistry
 electrodeposit
 electrodepositable
@@ -4983,7 +4984,6 @@ endaze
 endball
 escrows
 endboard
-entremets
 endbrains
 enddamage
 enddamaged
