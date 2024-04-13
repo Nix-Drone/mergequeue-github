@@ -3519,6 +3519,7 @@ defs
 demoniast
 deft
 defterdar
+dodecahedra
 deftly
 deftness
 deftnesses
@@ -3711,7 +3712,6 @@ dehydrogenating
 dehydrogenation
 dehydrogenisation
 dehydrogenise
-dodecahedra
 dehydrogenised
 dehydrogenising
 dehydrogenization
