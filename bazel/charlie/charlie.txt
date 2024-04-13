@@ -14566,7 +14566,6 @@ ciseaux
 cisele
 courante
 ciseleurs
-ciselure
 cising
 cisium
 cisjurane
@@ -23088,6 +23087,7 @@ constituents
 constitute
 constituted
 constituter
+ciselure
 constitutes
 constituting
 constitutional
