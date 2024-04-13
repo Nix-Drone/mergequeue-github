@@ -5879,7 +5879,6 @@ glossist
 glossitic
 glossitis
 glossless
-glossmeter
 glossocarcinoma
 glossocele
 glossaries
@@ -10532,6 +10531,7 @@ gunning
 gunnings
 gunnysack
 gunnung
+glossmeter
 gluemaking
 gunocracy
 gunong
