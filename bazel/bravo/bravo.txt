@@ -3346,7 +3346,6 @@ basketballs
 basketful
 basketfuls
 basketing
-basketlike
 basketmaker
 basketmaking
 buyback
@@ -16915,6 +16914,7 @@ buhlworks
 buhrmill
 buhrs
 buy
+basketlike
 buyable
 basils
 bushgoats
