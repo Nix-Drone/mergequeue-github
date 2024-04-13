@@ -2447,6 +2447,7 @@ electroirrigation
 electrojet
 eposes
 electrokinematics
+extispices
 electrokinetic
 enkolpion
 electrokinetics
@@ -13703,7 +13704,6 @@ ealdormen
 extirpator
 extirpatory
 extispex
-extispices
 extispicy
 extispicious
 elytron
