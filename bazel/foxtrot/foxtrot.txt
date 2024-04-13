@@ -5756,7 +5756,6 @@ flytail
 flitch
 flitched
 flitchen
-flitches
 flitchplate
 flite
 flyte
@@ -11033,6 +11032,7 @@ famish
 fumblingness
 fumbulator
 fume
+flitches
 fumed
 fumeless
 fumelike
