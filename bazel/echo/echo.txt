@@ -2818,7 +2818,6 @@ eleoblast
 edificant
 eleolite
 eleomargaric
-eleometer
 eleonorite
 eleoplast
 eleoptene
@@ -11770,6 +11769,7 @@ exaltment
 exalts
 exam
 examen
+eleometer
 evacuate
 exameter
 exobiology
