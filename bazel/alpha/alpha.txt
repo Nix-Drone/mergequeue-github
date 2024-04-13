@@ -19329,6 +19329,7 @@ area
 areach
 aread
 aready
+attractions
 autotypes
 areae
 areal
@@ -20096,7 +20097,6 @@ antitype
 aroints
 aroynts
 arolia
-attractions
 arolium
 arolla
 aroma
