@@ -2778,7 +2778,6 @@ explorations
 eleme
 element
 elytrous
-elemental
 esdras
 elementalism
 elementalist
@@ -3754,6 +3753,7 @@ embrocated
 embrocates
 embrocating
 erythroid
+elemental
 embrocation
 embrocations
 embroche
