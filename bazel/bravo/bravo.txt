@@ -6456,7 +6456,6 @@ benzoylation
 benzoylformic
 benzoylglycine
 bilge
-benzoyls
 benzoin
 benzoinated
 benzoins
@@ -9061,6 +9060,7 @@ biologist
 biologistic
 bedstands
 biologists
+benzoyls
 biologize
 bioluminescence
 biomagnetic
