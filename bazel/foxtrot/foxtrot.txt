@@ -23,7 +23,6 @@ fabling
 fabraea
 fabric
 furs
-fabricable
 fabricant
 fabricated
 fabricates
@@ -7284,6 +7283,7 @@ footwall
 footwarmer
 footwear
 fumiferous
+fabricable
 firefly
 footweary
 footwears
