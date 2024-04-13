@@ -1988,7 +1988,6 @@ campanulaceae
 campanulaceous
 campanulales
 campanular
-campanularia
 campanulariae
 campanularidae
 campanulatae
@@ -27412,6 +27411,7 @@ covary
 covariable
 covariables
 coal
+campanularia
 covariant
 covariate
 covariates
