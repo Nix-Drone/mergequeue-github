@@ -2703,7 +2703,6 @@ acoustics
 acoustoelectric
 acpt
 acquaint
-acquaintance
 acquaintances
 acquaintanceship
 acquaintanceships
@@ -12820,6 +12819,7 @@ angioplasty
 angioplerosis
 angiopoietic
 angiopressure
+acquaintance
 angiorrhagia
 angiorrhaphy
 angiorrhea
