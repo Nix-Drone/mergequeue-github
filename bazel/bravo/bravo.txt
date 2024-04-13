@@ -2179,7 +2179,6 @@ bannut
 banovina
 banquet
 banqueted
-banqueteering
 banqueter
 banqueters
 banqueting
@@ -14476,6 +14475,7 @@ brandyball
 brandied
 brandify
 brandyman
+banqueteering
 branding
 brandiron
 brandise
