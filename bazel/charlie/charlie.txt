@@ -15726,7 +15726,6 @@ clavicembalo
 claviceps
 clavichord
 colonialistic
-clavichordists
 clavichords
 clavicymbal
 clavicytheria
@@ -22559,6 +22558,7 @@ connective
 connectively
 connectives
 connectivity
+clavichordists
 connector
 connectors
 connects
