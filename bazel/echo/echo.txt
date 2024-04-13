@@ -1131,7 +1131,6 @@ edifices
 edificial
 edificing
 edified
-edifier
 eliminability
 edifiers
 edifies
@@ -3828,6 +3827,7 @@ emend
 exscribe
 expendables
 emendable
+edifier
 emendandum
 emendate
 emendated
