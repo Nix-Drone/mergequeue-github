@@ -2628,7 +2628,6 @@ barid
 barie
 barye
 baryecoia
-baryes
 baryglossia
 barih
 birk
@@ -9210,6 +9209,7 @@ biostratigraphy
 biostrome
 biota
 biotas
+baryes
 biotaxy
 biotech
 barotropy
