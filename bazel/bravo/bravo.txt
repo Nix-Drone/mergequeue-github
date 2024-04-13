@@ -6471,7 +6471,6 @@ balancewise
 benzohydrol
 benzoic
 benzoid
-benzoylate
 bankera
 benzoylated
 benzoylating
@@ -11017,6 +11016,7 @@ bloaters
 bloating
 bloats
 blob
+benzoylate
 blobby
 blobbier
 bricklay
