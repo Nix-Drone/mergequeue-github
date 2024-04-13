@@ -5541,7 +5541,6 @@ departmentalising
 dimmock
 departmentalism
 departmentalization
-departmentalize
 departmentalized
 departmentalizes
 departmentalizing
@@ -17900,6 +17899,7 @@ duetting
 duettino
 duettist
 duettists
+departmentalize
 duff
 duffadar
 decarchies

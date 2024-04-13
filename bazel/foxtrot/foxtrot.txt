@@ -2554,7 +2554,6 @@ ferris
 fribblery
 ferrites
 ferritic
-ferritin
 ferritins
 ferritization
 ferritungstite
@@ -8462,6 +8461,7 @@ formylate
 feedable
 formylated
 formylating
+ferritin
 formylation
 formyls
 formin
