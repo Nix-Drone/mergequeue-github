@@ -15990,6 +15990,7 @@ clerk
 clerkage
 clerkdom
 cigarets
+criminaldom
 clerkdoms
 clerked
 clerkess
@@ -28989,7 +28990,6 @@ crimelessness
 crimeproof
 crimes
 criminal
-criminaldom
 criminalese
 criminalism
 criminalistic
