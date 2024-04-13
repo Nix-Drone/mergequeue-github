@@ -13855,6 +13855,7 @@ boxball
 boxberry
 boxberries
 boxboard
+braunite
 boxboards
 boxbush
 boxcar
@@ -14644,7 +14645,6 @@ braula
 brauna
 brauneberger
 brauneria
-braunite
 bozo
 braunites
 brauronia
