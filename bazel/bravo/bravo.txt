@@ -1652,7 +1652,6 @@ balloons
 ballot
 ballota
 ballotade
-ballotage
 balloted
 balloter
 balloters
@@ -3952,6 +3951,7 @@ bcd
 bcf
 bch
 bchs
+ballotage
 bd
 bde
 bdellatomy

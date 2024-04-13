@@ -16462,7 +16462,6 @@ clochette
 clock
 clockbird
 clockcase
-clocked
 clocker
 clockface
 clockhouse
@@ -26032,6 +26031,7 @@ cosmisms
 cosmist
 cosmists
 cosmo
+clocked
 cosmochemical
 cheese
 cosmochemistry
