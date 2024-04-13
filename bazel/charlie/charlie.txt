@@ -11050,7 +11050,6 @@ checksums
 chitin
 chitinization
 coappears
-chitinized
 chitinocalcareous
 chitinogenous
 chitinoid
@@ -22443,6 +22442,7 @@ conjon
 conjubilant
 conjuctiva
 conjugably
+chitinized
 conjugacy
 cochlearifoliate
 conjugal
