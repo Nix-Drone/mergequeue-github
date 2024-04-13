@@ -1462,7 +1462,6 @@ dcolletage
 dcor
 ddname
 ddt
-de
 dea
 deaccession
 deaccessioned
@@ -14025,6 +14024,7 @@ disulphone
 disulphoxid
 disulphoxide
 disulphuret
+de
 disulphuric
 disencrease
 disunify
