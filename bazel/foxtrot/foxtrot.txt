@@ -3455,6 +3455,7 @@ figgum
 fight
 funniment
 fightable
+forel
 fighter
 fighteress
 fighters
@@ -7763,7 +7764,6 @@ freedmen
 foreknowing
 faveoli
 foreknowingly
-forel
 forelady
 forelay
 forelaying
