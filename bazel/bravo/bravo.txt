@@ -4500,7 +4500,6 @@ beclog
 beclogged
 beclogging
 beclogs
-beclose
 beclothe
 beclothed
 beclothes
@@ -7902,6 +7901,7 @@ bibbers
 bibby
 bibbing
 bibble
+beclose
 bibbler
 bocking
 bibbons
