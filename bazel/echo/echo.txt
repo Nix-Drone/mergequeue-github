@@ -4253,6 +4253,7 @@ empoison
 empoisoned
 encaustes
 ephoral
+evocators
 etherol
 empoisonment
 empoisons
@@ -4855,7 +4856,6 @@ encopreses
 encorbellment
 encorbelment
 encore
-evocators
 emulsifiable
 encored
 encores
