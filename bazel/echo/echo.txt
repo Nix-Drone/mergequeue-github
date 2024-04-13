@@ -110,7 +110,6 @@ earphones
 equators
 earpick
 earpiece
-earplug
 earplugs
 earreach
 earring
@@ -8459,6 +8458,7 @@ epitrachelion
 epitria
 epitrichial
 epitrochlear
+earplug
 epitrope
 epitrophy
 epitrophic
