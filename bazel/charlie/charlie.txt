@@ -10673,7 +10673,6 @@ chimneyless
 chimneylike
 chimneyman
 chimneypiece
-chimneypot
 chimneys
 chimonanthus
 chimopelagic
@@ -26938,6 +26937,7 @@ counterplot
 counterplotted
 counterplotter
 counterplotting
+chimneypot
 counterpoint
 counterpointe
 counterpointing
