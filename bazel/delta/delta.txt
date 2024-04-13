@@ -4519,7 +4519,6 @@ demideity
 demidevil
 demidigested
 demidistance
-demiditone
 demidoctor
 demidog
 demidolmen
@@ -5211,6 +5210,7 @@ denouement
 denouements
 degermed
 denounce
+demiditone
 denounced
 denouncement
 denouncements
