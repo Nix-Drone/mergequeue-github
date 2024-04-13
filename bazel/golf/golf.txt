@@ -8996,7 +8996,6 @@ gazehound
 grabbable
 grimacier
 glasser
-grimacing
 grimacingly
 grimalkin
 grime
@@ -10405,6 +10404,7 @@ gumlike
 gumlikeness
 genevas
 gulpiest
+grimacing
 gumma
 gummage
 gummaking
