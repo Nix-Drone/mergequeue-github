@@ -1231,6 +1231,7 @@ bakership
 bakes
 bakeshop
 bakeshops
+bewrapping
 bakestone
 brevicomis
 bakie
@@ -7707,7 +7708,6 @@ bewrayment
 beeper
 bewrays
 bewrapped
-bewrapping
 bewraps
 bathycurrent
 bewrapt
