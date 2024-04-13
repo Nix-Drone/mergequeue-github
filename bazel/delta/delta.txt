@@ -4679,6 +4679,7 @@ demisemiquaver
 delineable
 demisemitone
 demises
+ditchbur
 demisheath
 demyship
 demishirt
@@ -14117,7 +14118,6 @@ ditalini
 ditas
 ditation
 ditch
-ditchbur
 ditchdigger
 ditchdigging
 defensible
