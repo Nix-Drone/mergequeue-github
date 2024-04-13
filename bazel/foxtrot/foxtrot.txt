@@ -77,7 +77,6 @@ facemark
 faceoff
 fermentations
 facepiece
-facer
 fisticuffs
 faces
 facesaving
@@ -7154,6 +7153,7 @@ footcandle
 footcandles
 footcloths
 finedraw
+facer
 figwort
 footed
 footeite
