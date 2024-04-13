@@ -1816,7 +1816,6 @@ animalness
 anastatica
 accumulativeness
 accumulator
-accumulators
 accupy
 accur
 accuracy
@@ -21010,6 +21009,7 @@ ascill
 ascyphous
 ascyrum
 authorizable
+accumulators
 ascitb
 ascite
 aceconitic
