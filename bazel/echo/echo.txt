@@ -79,6 +79,7 @@ earlyish
 earlike
 earliness
 earlish
+enfacing
 earlywood
 earlobe
 earlock
@@ -411,7 +412,6 @@ eburneoid
 eburneous
 eburnian
 ec
-ecalcarate
 ecalcavate
 ecanda
 ecardinal
@@ -823,7 +823,6 @@ ectypes
 ectypography
 ectiris
 ectoblast
-episodal
 exceeds
 ectoblastic
 ectobronchium
@@ -899,7 +898,6 @@ ectoplasmic
 ectoplastic
 ectoproct
 eriocaulaceous
-ectoproctan
 ectoproctous
 eparcuale
 ectopterygoid
@@ -946,6 +944,7 @@ exculpatory
 ectromelic
 ectromelus
 ectropion
+extensively
 ectropionization
 ectropionize
 ectropionized
@@ -977,7 +976,6 @@ ecumenistic
 expanses
 ecumenopolis
 ecurie
-ecus
 eczema
 eczemas
 eczematization
@@ -1047,6 +1045,7 @@ edeoscopy
 edeotomy
 edessan
 edestan
+ennoblingly
 edestin
 edestosaurus
 edgar
@@ -1136,6 +1135,7 @@ edith
 editing
 epacts
 ectosarcs
+embassy
 elephantine
 edition
 editions
@@ -1183,16 +1183,15 @@ educatability
 educatable
 educate
 educated
+encreel
 educatedly
 educatedness
 educates
 educating
-education
 educationable
 educational
 educationalist
 espathate
-educationally
 educationary
 educationese
 educationist
@@ -1465,7 +1464,6 @@ effuse
 effused
 effusely
 effuses
-effusiometer
 espiegle
 effusion
 effusions
@@ -1571,6 +1569,7 @@ eggwhisk
 egypt
 egyptian
 egyptianism
+episcotister
 egyptianize
 egyptize
 egyptologer
@@ -1617,6 +1616,7 @@ excommunicates
 euchologion
 egol
 egolatrous
+exequy
 egomania
 engrailing
 egomaniac
@@ -1778,6 +1778,7 @@ engining
 eyelight
 eyeliner
 eatage
+education
 eyeliners
 eyemark
 equanimous
@@ -1806,7 +1807,6 @@ eyeshot
 eyeshots
 eyesight
 enculturating
-eyesome
 endower
 eyesore
 eyesores
@@ -1892,6 +1892,7 @@ eleutherodactyl
 eyn
 eyne
 einkanter
+ethmopalatine
 einkorn
 einsteinian
 enclasps
@@ -1908,6 +1909,7 @@ eyras
 eire
 eyre
 eyren
+effusiometer
 eirenarch
 eirene
 excusive
@@ -1987,6 +1989,7 @@ eker
 ekes
 ekhimi
 ekistic
+excubitoria
 ekistics
 ekka
 ekphore
@@ -2120,6 +2123,7 @@ encompassed
 elastins
 elastivity
 elastomer
+ecalcarate
 elastomeric
 elastomers
 elastometer
@@ -2134,6 +2138,7 @@ elater
 elatery
 elaterid
 elateridae
+expiscator
 elaterids
 elaterin
 elaterins
@@ -2181,7 +2186,6 @@ elderbush
 elderly
 elderlies
 evzones
-elderliness
 elderling
 eikones
 expect
@@ -2210,7 +2214,6 @@ eldritch
 elds
 elean
 eleanor
-eleazar
 elec
 elecampane
 elechi
@@ -2218,7 +2221,6 @@ elecive
 ern
 enterprises
 elecives
-elect
 electability
 electable
 electant
@@ -2432,6 +2434,7 @@ electrographite
 electrograving
 electroharmonic
 electrohemostasis
+engrailment
 eveners
 electrohydraulic
 exacinate
@@ -2470,9 +2473,9 @@ electrolyzed
 electrolyzer
 electrolyzing
 electrology
-electrological
 electrologist
 electrologists
+exemplarism
 electroluminescence
 elbowbush
 electromagnet
@@ -2504,7 +2507,6 @@ electrometrical
 electrometrically
 electromyogram
 electromyograph
-extirpations
 electromyography
 electromyographic
 electromyographical
@@ -2541,7 +2543,6 @@ electrooptic
 electrooptical
 electrooptically
 electroori
-electroosmosis
 eirenicon
 electroosmotic
 electroosmotically
@@ -2552,6 +2553,7 @@ electropathology
 extramorainic
 electrophilic
 electrophilically
+eligibleness
 electrophysicist
 electrophysics
 electrophysiology
@@ -2582,6 +2584,7 @@ electrophotometry
 eventuates
 electrophotomicrography
 electrophototherapy
+ewer
 electrophrenic
 electropyrometer
 electropism
@@ -2590,6 +2593,7 @@ electroplate
 electroplater
 electroplates
 electroplax
+educationally
 electropneumatic
 electropoion
 electropolar
@@ -2933,7 +2937,6 @@ eligenda
 eligibility
 eligibilities
 eligible
-eligibleness
 eligibles
 eligibly
 eagers
@@ -3385,7 +3388,6 @@ embassade
 embassador
 embassadress
 embassage
-embassy
 embassiate
 embassies
 ensue
@@ -3591,7 +3593,6 @@ embower
 embowered
 embowering
 embowerment
-embowers
 embowing
 embowment
 embows
@@ -3803,6 +3804,7 @@ emendator
 emendatory
 emended
 emenders
+electroosmosis
 emendicate
 embowl
 expansometer
@@ -4042,7 +4044,6 @@ emove
 exorability
 eponymize
 emp
-empaestic
 empaistic
 empale
 empalement
@@ -4248,7 +4249,6 @@ empressment
 emprime
 emprint
 emprise
-ennoblingly
 emprises
 emprison
 emprize
@@ -4687,7 +4687,6 @@ enantiomeride
 encyc
 encycl
 encyclic
-encyclical
 encyclicals
 encyclics
 encyclopaediac
@@ -4869,7 +4868,6 @@ encratic
 encratism
 encratite
 encrease
-encreel
 encrimson
 encrinal
 encrinic
@@ -5025,7 +5023,6 @@ ender
 endergonic
 endermatic
 endermic
-endogastric
 endermically
 enderon
 enderonic
@@ -5095,6 +5092,7 @@ exemptible
 endocarditic
 endocardium
 endocarp
+ethylates
 endocarpal
 endocarpic
 endocarpoid
@@ -5180,6 +5178,7 @@ endogalvanism
 endogamy
 endogamic
 endogamous
+erosion
 endogastrically
 endogastritis
 endogen
@@ -5547,7 +5546,6 @@ enface
 enfaced
 enfacement
 enfaces
-enfacing
 elatedly
 enfamous
 enfants
@@ -5569,7 +5567,6 @@ enfeebling
 enfeeblish
 enfelon
 enfeoff
-extensively
 enfeoffed
 experimentarian
 enfeoffing
@@ -5627,6 +5624,7 @@ enforce
 enforceability
 enforceable
 enforced
+elect
 enforcedly
 encyclopedize
 enforcement
@@ -5785,6 +5783,7 @@ englishry
 eucharistical
 englishwoman
 englishwomen
+eyesome
 englobe
 englobed
 englobement
@@ -5818,13 +5817,13 @@ engraced
 engraffed
 engraft
 engrafted
+exclusions
 engrafter
 engrafting
 engraftment
 engrafts
 engrail
 engrailed
-engrailment
 engrails
 engrained
 engrainer
@@ -6104,7 +6103,6 @@ enmoss
 enmove
 enmuffle
 enneacontahedral
-enneacontahedron
 ennead
 enneadic
 enneads
@@ -6142,6 +6140,7 @@ ennobled
 ennoblement
 ennoblements
 ennobler
+embowers
 ennoblers
 ennobles
 ennobling
@@ -6204,6 +6203,7 @@ enormous
 enormously
 enormousness
 enorn
+eleazar
 enos
 enosis
 endopod
@@ -6295,7 +6295,6 @@ enright
 enzyms
 enringed
 enringing
-enripen
 enrive
 embalms
 enrobe
@@ -6384,6 +6383,7 @@ ensete
 enshade
 enshadow
 enshawl
+ectoproctan
 ensheath
 ensheathe
 ensheathed
@@ -6397,7 +6397,6 @@ enshielding
 enshrined
 enshrinement
 enshrinements
-enshrines
 enshroud
 enshrouded
 enshrouding
@@ -6822,7 +6821,6 @@ enticer
 enticers
 entices
 enticingly
-enticingness
 enties
 entify
 entifical
@@ -6857,6 +6855,7 @@ enows
 entocnemial
 entocoele
 entocoelic
+enshrines
 entocondylar
 entocondyle
 entocondyloid
@@ -6947,6 +6946,7 @@ entoparasitic
 entoperipheral
 entophytal
 entophyte
+evea
 entophytic
 entophytically
 entophytous
@@ -7332,6 +7332,7 @@ eolithic
 eolopile
 eolopiles
 eolotropic
+encyclical
 esterases
 eom
 eomecon
@@ -8181,6 +8182,7 @@ episcopant
 episcoparian
 episcopate
 episcopates
+elucidation
 episcopation
 episcopature
 episcopes
@@ -8194,7 +8196,6 @@ episcopized
 eperva
 episcopizing
 episcopolatry
-episcotister
 episedia
 episematic
 episememe
@@ -8235,7 +8236,6 @@ epispadias
 epispastic
 epitrochoid
 evaluable
-epispermic
 epispinal
 episplenitis
 episporangium
@@ -8243,6 +8243,7 @@ epispore
 ectodermic
 episporium
 epist
+empaestic
 epistapedial
 epistases
 epistasy
@@ -8331,6 +8332,7 @@ epitaxially
 epitaxic
 epitaxies
 epitaxis
+endogastric
 epitela
 epitendineum
 epitenon
@@ -8430,7 +8432,6 @@ egency
 epitomization
 epitomize
 epitomized
-epitomizes
 epitomizing
 epitonic
 epitonion
@@ -8846,6 +8847,7 @@ equivokes
 equivoluminal
 equivoque
 equivorous
+episodal
 equivote
 equoid
 equoidean
@@ -8951,6 +8953,7 @@ eremochaetous
 eremology
 eremophilous
 etagere
+ethonomics
 erotology
 expressman
 eremopteris
@@ -8994,7 +8997,6 @@ ergatandromorphic
 ergatandrous
 ergate
 ergative
-ergatocrat
 ergatogyne
 ergatogyny
 enshrine
@@ -9151,6 +9153,7 @@ erithacus
 erythea
 erythema
 erythemal
+erratically
 erythemas
 erythematous
 erythemic
@@ -9305,7 +9308,6 @@ erose
 erosely
 eroses
 erosible
-erosion
 erosional
 erosionally
 erythrulose
@@ -9379,7 +9381,6 @@ errants
 erratas
 erratic
 erratical
-erratically
 erraticalness
 erraticism
 erratics
@@ -9530,6 +9531,7 @@ escapado
 escapage
 escape
 escaped
+electrological
 escapee
 escapees
 eurhythmical
@@ -9589,6 +9591,7 @@ escheat
 escheatable
 escheatage
 escheated
+extirpations
 escheating
 escheatment
 escheator
@@ -9850,7 +9853,6 @@ espouses
 espousing
 espressivo
 espresso
-espressos
 espriella
 espringal
 esprise
@@ -10186,6 +10188,7 @@ etacist
 etaerio
 etageres
 etalage
+enneacontahedron
 etalon
 etamin
 ever
@@ -10388,7 +10391,6 @@ estus
 ethylamine
 ethylate
 ethylated
-ethylates
 ethylating
 ethylation
 ethylbenzene
@@ -10452,7 +10454,6 @@ ethmolith
 ethmomaxillary
 ethmonasal
 ethmopalatal
-ethmopalatine
 ethmophysal
 ethmopresphenoidal
 ethmose
@@ -10560,7 +10561,6 @@ explains
 eugene
 ethologists
 ethonomic
-ethonomics
 ethonone
 ethopoeia
 ethopoetic
@@ -11141,6 +11141,7 @@ eurhythmy
 eurhythmic
 eurhythmics
 eurhodol
+ecus
 euryalae
 euryale
 euryaleae
@@ -11261,6 +11262,7 @@ eutaenia
 eutannin
 eutaxy
 eutaxic
+exarillate
 eutaxie
 exercisers
 eutaxite
@@ -11303,7 +11305,6 @@ eutropous
 euvrou
 euxanthate
 euxanthic
-euxanthin
 euxanthone
 euxenite
 euxenites
@@ -11317,7 +11318,6 @@ evacuating
 evacuation
 evacuations
 evacuative
-evacuator
 evacuators
 exteriors
 eyeful
@@ -11447,7 +11447,6 @@ evasive
 evasively
 evasiveness
 eve
-evea
 evechurr
 eveck
 evectant
@@ -11485,6 +11484,7 @@ evening
 evenly
 evenlight
 evenlong
+expostulates
 evenmete
 evenminded
 evenmindedness
@@ -11537,6 +11537,7 @@ evergreen
 evergreens
 every
 everyday
+excommunicated
 everydayness
 everyhow
 everylike
@@ -11868,7 +11869,6 @@ exarchies
 exarchist
 exarchs
 exareolate
-exarillate
 exaristate
 eireannach
 eth
@@ -11884,7 +11884,6 @@ exasperates
 entericoid
 exasperatingly
 exasperation
-exasperative
 exaspidean
 exauctorate
 exclusory
@@ -11911,7 +11910,6 @@ ernesse
 excandescency
 excandescent
 excantation
-elucidation
 excardination
 excarnificate
 excathedral
@@ -11924,6 +11922,7 @@ excavation
 excavational
 excavationist
 excavations
+euxanthin
 excavator
 excavatory
 excavatorial
@@ -12123,7 +12122,6 @@ eigenspace
 exclusioner
 enalyron
 exclusionism
-exclusions
 exclusive
 exclusively
 exclusiveness
@@ -12148,7 +12146,6 @@ excommune
 excommunicable
 excommunicant
 extempory
-excommunicated
 excommunicating
 excommunication
 excommunications
@@ -12224,7 +12221,6 @@ excruciatingly
 excruciatingness
 excruciator
 excubant
-excubitoria
 excubitorium
 excud
 excudate
@@ -12322,6 +12318,7 @@ emball
 executing
 execution
 executioneering
+exasperative
 executioner
 executioneress
 executioners
@@ -12366,7 +12363,6 @@ exemplary
 exemplaric
 exemplarily
 exemplariness
-exemplarism
 exemplarity
 exemplars
 exempli
@@ -12410,7 +12406,6 @@ exenterating
 exenteration
 exenteritis
 exequatur
-exequy
 exequial
 exequies
 exerce
@@ -12562,6 +12557,7 @@ exibilate
 exies
 exigeant
 elementariness
+exposedness
 exigeante
 elocutionists
 exigences
@@ -12667,6 +12663,7 @@ exocarps
 exocataphoria
 exocentric
 exochorda
+experimenters
 exochorion
 exocyclic
 exocyclica
@@ -12735,6 +12732,7 @@ exognathite
 exogonium
 exograph
 exolete
+epitomizes
 exolution
 exolve
 exometritis
@@ -13040,7 +13038,9 @@ expenders
 expendible
 expending
 expenditor
+espressos
 exurbias
+enripen
 expenditrix
 elegits
 expenditure
@@ -13093,7 +13093,6 @@ experimented
 experimentee
 empressement
 experimenter
-experimenters
 experimenting
 ejectee
 experimentist
@@ -13156,7 +13155,6 @@ expiscate
 expiscated
 expiscating
 expiscation
-expiscator
 expiscatory
 explain
 explainable
@@ -13173,6 +13171,7 @@ explanations
 explanative
 explanatively
 explanator
+enticingness
 explanatory
 explanatorily
 explanatoriness
@@ -13300,7 +13299,6 @@ exposable
 emotionalising
 exposals
 exposed
-exposedness
 exposer
 exposers
 exposes
@@ -13324,7 +13322,6 @@ expositors
 expositress
 exposits
 expostulate
-expostulates
 expostulating
 expostulatingly
 expostulation
@@ -13385,7 +13382,6 @@ exprobate
 exprobrate
 exprobration
 exprobratory
-expromission
 expromissor
 expropriable
 expropriate
@@ -13408,7 +13404,6 @@ expulser
 expulses
 expulsing
 expulsion
-ewer
 expulsionist
 expulsions
 expulsive
@@ -13422,6 +13417,7 @@ expunger
 expungers
 expunges
 expunging
+ergatocrat
 expurgate
 expurgated
 expurgating
@@ -13477,6 +13473,7 @@ exsect
 exsected
 exsectile
 exsecting
+evacuator
 exsector
 exsects
 exsequatur
@@ -13514,6 +13511,7 @@ exstipulate
 exstrophy
 exstruct
 exsuccous
+epispermic
 exsuction
 exsudate
 eight
@@ -13578,6 +13576,7 @@ extensionless
 extensions
 extensity
 endorsements
+expromission
 extensive
 extensiveness
 empathizing
@@ -13780,6 +13779,7 @@ extracivic
 extracivically
 extraclassroom
 extraclaustral
+elderliness
 extracloacal
 extracollegiate
 extracolumella
