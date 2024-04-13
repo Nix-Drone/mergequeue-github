@@ -9820,6 +9820,7 @@ chemicophysics
 chemicophysiological
 chemicovital
 chemics
+childed
 chemiculture
 chemigraph
 chemigraphy
@@ -10453,7 +10454,6 @@ childbeds
 childbirths
 childcrowing
 childe
-childed
 childermas
 childes
 coronally
