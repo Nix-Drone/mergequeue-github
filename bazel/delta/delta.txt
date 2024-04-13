@@ -5964,7 +5964,6 @@ depsides
 dept
 depth
 depthen
-depthing
 depthless
 depthlessness
 depths
@@ -11881,6 +11880,7 @@ diselectrification
 diselenid
 diplography
 diselenide
+depthing
 disematism
 doorba
 disembay
