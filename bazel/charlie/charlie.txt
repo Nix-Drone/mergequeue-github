@@ -9554,7 +9554,6 @@ checkwriter
 cheddar
 cheddaring
 cheddars
-cheddite
 cheddites
 cheder
 cheders
@@ -13803,6 +13802,7 @@ cineangiocardiographic
 cineangiography
 cineangiographic
 cineast
+cheddite
 cineaste
 cynebot
 cinecamera
