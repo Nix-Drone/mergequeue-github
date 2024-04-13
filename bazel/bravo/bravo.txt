@@ -8945,7 +8945,6 @@ binukau
 bio
 bioaccumulation
 bioacoustics
-bioactivity
 bioactivities
 bioassaying
 bioassays
@@ -13946,6 +13945,7 @@ bracelets
 bracer
 bracery
 bracero
+bioactivity
 belialist
 braceros
 bracers
