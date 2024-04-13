@@ -5596,6 +5596,7 @@ florist
 fellowshiped
 flimsiness
 flinch
+forgone
 flinched
 flincher
 flinching
@@ -8258,7 +8259,6 @@ forgoer
 forgoers
 forgoes
 forgoing
-forgone
 forgot
 forgotten
 forgottenness
