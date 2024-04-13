@@ -7712,7 +7712,6 @@ graian
 graybacks
 graybeard
 gadding
-graybeards
 graycoat
 grayed
 grayest
@@ -10563,6 +10562,7 @@ gunship
 golp
 gunships
 gunshop
+graybeards
 gunshot
 gunsling
 gunslinger
