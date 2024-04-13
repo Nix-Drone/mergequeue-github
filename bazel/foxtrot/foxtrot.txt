@@ -5463,6 +5463,7 @@ fletton
 feynesses
 fleur
 fleuret
+flypaper
 fleurette
 fleurettee
 fleuretty
@@ -5653,7 +5654,6 @@ flintworker
 flyoff
 flyover
 flyovers
-flypaper
 flypapers
 flypast
 flypasts
