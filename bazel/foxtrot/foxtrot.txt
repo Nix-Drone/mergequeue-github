@@ -2679,7 +2679,6 @@ ferulae
 floodwall
 fervid
 fervidly
-fervidness
 fervor
 forecar
 fervorlessness
@@ -4616,6 +4615,7 @@ fixures
 fiz
 fizelyite
 fizgig
+fervidness
 fauxbourdon
 fizgigs
 fizz
