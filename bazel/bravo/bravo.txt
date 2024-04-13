@@ -7260,7 +7260,6 @@ bestore
 bestorm
 bestove
 bestow
-bestowable
 bestowal
 bestowals
 bestower
@@ -7986,6 +7985,7 @@ bibliopolical
 bibliopolically
 bibliopolism
 bibliopolist
+bestowable
 bibliosoph
 bibliotaph
 bibliotaphe
