@@ -4795,7 +4795,6 @@ flay
 feridji
 flayed
 flayer
-flayers
 flaying
 flailed
 fluidify
@@ -6661,6 +6660,7 @@ focimetry
 fockle
 focoids
 focometer
+flayers
 focometry
 focsle
 focus
