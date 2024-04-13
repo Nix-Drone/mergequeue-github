@@ -9147,7 +9147,6 @@ dyeability
 dyeable
 ditriglyph
 dieb
-dieback
 diebacks
 dyebeck
 diecase
@@ -12653,6 +12652,7 @@ dyslogistically
 disloyal
 disloyalist
 disloyally
+dieback
 diminutiveness
 disloyalty
 disloyalties
