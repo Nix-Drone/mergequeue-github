@@ -548,7 +548,6 @@ fall
 falla
 fallace
 fallacy
-fallacia
 fallacies
 feltlike
 fallacious
@@ -8795,6 +8794,7 @@ fiendliness
 forwork
 frailer
 forwrap
+fallacia
 forz
 forzando
 forzandos
