@@ -3400,7 +3400,6 @@ deflore
 deflorescence
 deflourish
 dropforged
-deflow
 dubash
 deflower
 deflowered
@@ -16951,6 +16950,7 @@ desiccation
 daturas
 dhauri
 drees
+deflow
 druidesses
 dreggier
 dreggiest
