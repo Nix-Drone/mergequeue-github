@@ -17537,7 +17537,6 @@ coccoidal
 coccoids
 coccolite
 coccolithophorid
-coccolithophoridae
 coccoloba
 counterresolution
 coccosphere
@@ -18875,6 +18874,7 @@ correspondentially
 collaterality
 collateralize
 collateralized
+coccolithophoridae
 collateralizing
 collaterally
 collateralness
