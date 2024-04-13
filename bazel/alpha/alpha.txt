@@ -3530,6 +3530,7 @@ addict
 addicted
 antiknocks
 addictedness
+activable
 addicting
 addiction
 addictions
@@ -23045,7 +23046,6 @@ atter
 attercop
 attery
 atterminal
-activable
 amiantus
 attermined
 atterminement
