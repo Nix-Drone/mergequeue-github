@@ -1694,7 +1694,6 @@ gasteromycete
 gasteromycetes
 gasteromycetous
 gasteropoda
-gasterosteoid
 gasterosteus
 gasterotheca
 gasterotrichan
@@ -4178,6 +4177,7 @@ gilten
 gestening
 gilttail
 gilver
+gasterosteoid
 gim
 gimbal
 gimbaled
