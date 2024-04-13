@@ -6168,7 +6168,6 @@ glut
 glutamate
 glutamates
 glutamic
-glutaminase
 gallegan
 glutamine
 glutaminic
@@ -8305,6 +8304,7 @@ grassland
 gedds
 gelsemin
 grasslands
+glutaminase
 grassless
 grasslike
 grassman
