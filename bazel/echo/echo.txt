@@ -4591,7 +4591,6 @@ encephalomalacosis
 encephalomalaxis
 encephalomas
 encephalomeningocele
-encephalometer
 endrins
 encephalometric
 encephalomyelitic
@@ -6481,6 +6480,7 @@ ensophic
 ensorcel
 ensorceled
 emitters
+encephalometer
 encheck
 ensorcelize
 ensorcell
