@@ -5381,6 +5381,7 @@ endostomata
 endostosis
 endostraca
 endostracum
+enteromycosis
 endosulfan
 endothecal
 estrade
@@ -6705,7 +6706,6 @@ enterologic
 enteromegaly
 enteromegalia
 enteromesenteric
-enteromycosis
 enteromyiasis
 enteromorpha
 enteroneuritis
