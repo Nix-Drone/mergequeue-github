@@ -4124,6 +4124,7 @@ firebomb
 firebombed
 ferroalloy
 firebombing
+frostlike
 faithwise
 firebombs
 forestery
@@ -10489,7 +10490,6 @@ frostily
 frostiness
 frosting
 frostings
-frostlike
 frostnipped
 foxfinger
 frostroot
