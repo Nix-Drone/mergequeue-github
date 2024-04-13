@@ -8278,7 +8278,6 @@ forhooy
 forhooie
 forhow
 foryield
-forinsec
 forinsecal
 furnaceman
 ferriage
@@ -10759,6 +10758,7 @@ fs
 fstore
 fabianism
 ft
+forinsec
 fth
 fthm
 forwardation
