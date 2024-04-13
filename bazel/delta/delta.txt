@@ -5813,7 +5813,6 @@ depositor
 depository
 depositories
 depositors
-deposits
 depositum
 depositure
 deposure
@@ -14494,6 +14493,7 @@ dixie
 dixiecrat
 dixieland
 dixies
+deposits
 dixit
 dixits
 dizaine
