@@ -5940,7 +5940,6 @@ agau
 agave
 agaves
 antiserum
-admiralships
 agaz
 agaze
 agazed
@@ -11209,6 +11208,7 @@ amphisarca
 amphisbaena
 amphisbaenae
 antapices
+admiralships
 amphisbaenas
 amphisbaenian
 amphisbaenid
