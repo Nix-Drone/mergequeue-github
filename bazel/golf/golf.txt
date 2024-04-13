@@ -9086,7 +9086,6 @@ genyoplasty
 goniale
 gryphite
 gryphons
-gryphosaurus
 griphus
 guimpes
 gripy
@@ -9473,6 +9472,7 @@ groundwave
 group
 groupable
 groupage
+gryphosaurus
 groupageness
 grouped
 grouper
