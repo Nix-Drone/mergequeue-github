@@ -6668,7 +6668,6 @@ goldurns
 goldweed
 goldwork
 goldworker
-golee
 golem
 gibbered
 golems
@@ -9081,6 +9080,7 @@ griphite
 gooral
 genyoplasty
 goniale
+golee
 gryphon
 gryphons
 gryphosaurus
