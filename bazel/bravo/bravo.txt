@@ -16784,7 +16784,6 @@ birkenia
 blasty
 buffaloes
 buffalofish
-buffalofishes
 botheration
 buffaloing
 buffalos
@@ -16916,6 +16915,7 @@ buyides
 buildable
 builded
 builders
+buffalofishes
 building
 buildingless
 buildings
