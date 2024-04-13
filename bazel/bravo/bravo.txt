@@ -6465,7 +6465,6 @@ benzoylation
 benzoylformic
 benzoylglycine
 bilge
-benzoyls
 benzoin
 benzoinated
 benzoins
@@ -17593,6 +17592,7 @@ burga
 burgage
 burgages
 burgality
+benzoyls
 burgall
 burgamot
 burganet
