@@ -1577,7 +1577,6 @@ eggroll
 eggs
 eupeptically
 eggshell
-eggshells
 eggwhisk
 egypt
 egyptian
@@ -6544,6 +6543,7 @@ evangelized
 entailment
 entailments
 entails
+eggshells
 ental
 entalent
 eisegeses
