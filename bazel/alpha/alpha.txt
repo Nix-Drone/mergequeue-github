@@ -5620,7 +5620,6 @@ aftercourse
 aftercrop
 aftercure
 afterdays
-afterdamp
 afterdate
 antifoam
 afterdated
@@ -9364,6 +9363,7 @@ alphean
 alphecca
 alphenic
 alpheratz
+afterdamp
 alpheus
 alphyl
 attenuations
