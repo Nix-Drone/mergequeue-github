@@ -7971,7 +7971,6 @@ foreshot
 foreshots
 foreshoulder
 foreshow
-foreshowed
 foreshower
 foreshown
 foreshows
@@ -11190,6 +11189,7 @@ fungibility
 fungible
 fungic
 fungicidal
+foreshowed
 fungicidally
 fungicide
 fungicides
