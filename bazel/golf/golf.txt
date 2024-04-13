@@ -1161,7 +1161,6 @@ gangmaster
 gangplank
 gangplow
 gangplows
-gareh
 gangrel
 gangrenate
 gangrene
@@ -9068,6 +9067,7 @@ gravemaster
 grint
 griot
 genoveva
+gareh
 griotte
 grip
 gripe
