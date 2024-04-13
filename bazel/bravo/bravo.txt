@@ -4785,7 +4785,6 @@ besmirching
 bedpans
 bedplates
 bedpost
-bedquilt
 bedquilts
 bedrabbling
 bedraggle
@@ -14119,6 +14118,7 @@ bracon
 braconidae
 birefringence
 braconids
+bedquilt
 bracozzo
 bract
 bracteal
