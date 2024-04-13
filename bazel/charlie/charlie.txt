@@ -204,6 +204,7 @@ cabs
 cabstand
 cabstands
 cabuya
+channelly
 cabuyas
 cabuja
 calendry
@@ -8681,7 +8682,6 @@ channelizing
 channelled
 channeller
 channellers
-channelly
 channelling
 channels
 channelure
