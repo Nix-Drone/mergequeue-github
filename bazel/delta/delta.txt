@@ -1598,6 +1598,7 @@ deallocated
 daunter
 deallocates
 deallocating
+designating
 deallocation
 deallocations
 deals
@@ -6647,7 +6648,6 @@ designado
 designate
 designated
 designates
-designating
 designation
 designative
 designatory
