@@ -2156,7 +2156,6 @@ deceased
 dewormed
 donnish
 deceases
-deathblow
 deceasing
 decedent
 decedents
@@ -8555,6 +8554,7 @@ dyarchic
 dyarchical
 diarchies
 drainless
+deathblow
 dyarchies
 diary
 diarian
