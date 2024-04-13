@@ -11542,7 +11542,6 @@ boarship
 boarskin
 boarspear
 boarstaff
-boart
 boarts
 boarwood
 boas
@@ -16377,6 +16376,7 @@ brushiest
 brushiness
 brushing
 brushite
+boart
 brushland
 brushless
 brushlessness
