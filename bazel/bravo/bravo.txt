@@ -12691,6 +12691,7 @@ bookpress
 bookrack
 bookracks
 bookrest
+bulchin
 bookrests
 bookroom
 books
@@ -16987,7 +16988,6 @@ bulbule
 bulbuls
 bulbus
 blowhards
-bulchin
 bulder
 blanchingly
 bulgar
