@@ -10037,7 +10037,6 @@ dynamophone
 dynamos
 dynamoscope
 dynamostatic
-dynamotor
 diancecht
 dinanderie
 dinantian
@@ -16808,6 +16807,7 @@ drawling
 drawlingly
 drawlingness
 drawlink
+dynamotor
 drawls
 drawn
 drawnet

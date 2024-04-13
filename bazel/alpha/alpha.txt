@@ -6245,7 +6245,6 @@ aglossa
 aglossal
 aglossate
 aglossia
-aglow
 aglucon
 aglucone
 aglutition
@@ -14791,6 +14790,7 @@ axiologies
 antibilious
 antibiont
 antibiosis
+aglow
 antibiotic
 antibiotically
 antibiotics
