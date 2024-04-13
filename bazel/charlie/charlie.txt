@@ -2919,7 +2919,6 @@ canvases
 canvasing
 canvaslike
 canvasman
-canvass
 canvasser
 canvassers
 canvasses
@@ -12810,6 +12809,7 @@ churchgo
 cantative
 churchgoer
 churchgoers
+canvass
 churchgoing
 churchgrith
 churchy
