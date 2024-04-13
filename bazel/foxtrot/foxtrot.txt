@@ -5976,6 +5976,7 @@ flooey
 flook
 floor
 floorage
+fouls
 floorages
 floorboard
 floorboards
@@ -9197,7 +9198,6 @@ frack
 fract
 fractable
 fractabling
-fouls
 fractal
 fractals
 fracted
