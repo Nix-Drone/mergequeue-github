@@ -8152,7 +8152,6 @@ epirrheme
 episarcine
 episarkine
 episcenia
-episcenium
 episcia
 episclera
 episcleral
@@ -13330,6 +13329,7 @@ expound
 expoundable
 expounded
 expounder
+episcenium
 expounders
 expounding
 expounds
