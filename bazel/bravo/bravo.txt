@@ -2867,7 +2867,6 @@ barotaxis
 barothermogram
 bitis
 barothermograph
-barothermohygrogram
 barothermohygrograph
 baroto
 barotrauma
@@ -5975,6 +5974,7 @@ bemadam
 bullaria
 bemadamed
 bemadams
+barothermohygrogram
 bemadden
 bemaddened
 bemaddening
