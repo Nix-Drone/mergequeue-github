@@ -1551,7 +1551,6 @@ ballas
 ballast
 ballastage
 bulbiform
-ballasted
 bouton
 butomus
 ballaster
@@ -7316,6 +7315,7 @@ bestrowed
 bestrowing
 bestrown
 bathochromatic
+ballasted
 bestrut
 borasqueborate
 bests
