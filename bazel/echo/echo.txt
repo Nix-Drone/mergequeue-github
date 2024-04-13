@@ -8558,6 +8558,7 @@ eq
 eqpt
 equability
 equable
+exponential
 equableness
 equably
 equal
@@ -13268,7 +13269,6 @@ exponence
 exponency
 electrostereotype
 exponent
-exponential
 exponentially
 exponentials
 exponentiate
