@@ -4766,6 +4766,7 @@ flagons
 fasciolaria
 frontspiece
 flagpole
+flamethrower
 finicky
 faena
 faunula
@@ -4875,7 +4876,6 @@ flameproofer
 flamer
 flamers
 ferneries
-flamethrower
 fallback
 flamethrowers
 frankpledge
