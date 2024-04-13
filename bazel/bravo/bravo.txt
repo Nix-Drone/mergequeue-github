@@ -708,7 +708,6 @@ bacteriuria
 boigid
 blasted
 bacterization
-bacterize
 bacterized
 bathygraphic
 brisk
@@ -8741,6 +8740,7 @@ billposter
 bathylith
 bluefish
 billposting
+bacterize
 bills
 billsticker
 billtong
