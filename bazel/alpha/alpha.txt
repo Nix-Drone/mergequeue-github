@@ -3024,7 +3024,6 @@ acrostichic
 acrostichoid
 acrostichum
 acrosticism
-acrostics
 acrostolia
 acrostolion
 acrostolium
@@ -22428,6 +22427,7 @@ ataxias
 ataxies
 ataxinomic
 ataxite
+acrostics
 ataxonomic
 ataxophemia
 atazir
