@@ -4840,7 +4840,6 @@ bedspring
 bedsprings
 bedstaff
 bedstand
-bedstaves
 bedstead
 baikerinite
 beshrouded
@@ -15309,6 +15308,7 @@ brieflessness
 briefly
 briefness
 bleeds
+bedstaves
 brier
 brierberry
 briered
