@@ -1314,7 +1314,6 @@ efface
 effaceable
 effaced
 effacement
-effacer
 effacers
 effaces
 effare
@@ -10409,6 +10408,7 @@ ethmoids
 ethmolith
 ethmomaxillary
 ethmonasal
+effacer
 ethmopalatal
 ethmopalatine
 ethmophysal
