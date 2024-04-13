@@ -12593,7 +12593,6 @@ anesthetists
 anesthetization
 anesthetize
 anesthetized
-anesthetizer
 anesthetizes
 anesthetizing
 anesthyl
@@ -13557,6 +13556,7 @@ annihilability
 annihilable
 annihilate
 apse
+anesthetizer
 annihilated
 annihilating
 aerosat
