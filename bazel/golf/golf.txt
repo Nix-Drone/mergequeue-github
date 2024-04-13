@@ -64,7 +64,6 @@ gormandized
 gelatiniser
 gigantomachia
 gablatores
-gable
 gableboard
 gabled
 gablelike
@@ -1357,6 +1356,7 @@ garcon
 gardbrace
 garde
 gardebras
+gable
 gardened
 gardener
 gardeners
