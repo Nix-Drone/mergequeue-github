@@ -5636,7 +5636,6 @@ afterdeal
 afterdeath
 afterdeck
 afterdecks
-afterdischarge
 afterdrain
 aftereffect
 aftereffects
@@ -17863,6 +17862,7 @@ applicatory
 applicatorily
 applicators
 appliedly
+afterdischarge
 applier
 applies
 antispasis
