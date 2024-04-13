@@ -1906,7 +1906,6 @@ bandel
 bandelet
 bandelette
 bandeng
-banderilla
 banderlog
 banderma
 banderol
@@ -3787,6 +3786,7 @@ battleships
 buhr
 battlesome
 boatfalls
+banderilla
 battlestead
 battlewagon
 battleward
