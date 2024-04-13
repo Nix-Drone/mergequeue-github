@@ -8409,7 +8409,6 @@ chamber
 chamberdeacon
 chambered
 chamberer
-chamberfellow
 chambering
 caterership
 chamberlain
@@ -10328,6 +10327,7 @@ chickweed
 chickweeds
 chickwit
 chicle
+chamberfellow
 chicles
 chicly
 chicness
