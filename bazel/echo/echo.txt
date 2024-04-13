@@ -633,7 +633,6 @@ epigeal
 echoist
 echoize
 echoized
-echoizing
 echolalic
 echoless
 echolocation
@@ -2214,6 +2213,7 @@ elderliness
 elderling
 eikones
 expect
+echoizing
 elderman
 enlink
 eldermen
