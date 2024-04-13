@@ -11050,7 +11050,6 @@ chitin
 chitinization
 coappears
 chitinized
-chitinocalcareous
 chitinogenous
 chitinoid
 chitinous
@@ -30376,6 +30375,7 @@ csardas
 csc
 csch
 csect
+chitinocalcareous
 csects
 csi
 csk
