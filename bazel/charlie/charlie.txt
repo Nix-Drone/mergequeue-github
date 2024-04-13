@@ -7297,7 +7297,6 @@ cephalochordata
 cephalochordate
 cephalocyst
 cucujidae
-cephaloclasia
 cephaloclast
 cephalocone
 cephaloconic
@@ -30552,6 +30551,7 @@ cucule
 cuculidae
 cuculiform
 cuculiformes
+cephaloclasia
 cuculine
 cuculla
 cucullate
