@@ -3520,6 +3520,7 @@ blazonment
 batcher
 batchers
 batches
+boatyards
 batching
 bate
 bargemen
@@ -11572,7 +11573,6 @@ boathook
 boathouse
 boathouses
 boatyard
-boatyards
 boatie
 backbends
 boating
