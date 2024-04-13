@@ -174,6 +174,7 @@ factioneer
 factionism
 faradopalpation
 float
+fulminates
 factionist
 factionistism
 factions
@@ -10945,7 +10946,6 @@ fulminant
 flighthead
 franchised
 fulminate
-fulminates
 feoffeeship
 fulminating
 frondescence
