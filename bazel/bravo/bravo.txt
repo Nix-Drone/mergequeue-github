@@ -5452,7 +5452,6 @@ behypocrite
 behither
 behn
 bunkery
-behold
 beholders
 beholdingness
 beholds
@@ -12237,6 +12236,7 @@ bolter
 bolters
 boltheader
 bagge
+behold
 boltheading
 boltheads
 bolthole
