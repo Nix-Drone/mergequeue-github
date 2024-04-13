@@ -6959,7 +6959,6 @@ gonothecal
 gonotyl
 gonotype
 gonotocont
-gonotokont
 gonotome
 gonozooid
 grapestone
@@ -9327,6 +9326,7 @@ groover
 grooverhead
 groovers
 groundly
+gonotokont
 grooves
 gnomists
 garnishry
