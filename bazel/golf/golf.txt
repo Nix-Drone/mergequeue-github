@@ -2429,6 +2429,7 @@ geld
 geldability
 geldable
 geldant
+guti
 gelded
 gelder
 gelders
@@ -10725,7 +10726,6 @@ gusts
 gustus
 gut
 gutbucket
-guti
 gutierrez
 gomerels
 gutium
