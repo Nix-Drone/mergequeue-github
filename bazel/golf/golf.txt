@@ -1595,7 +1595,6 @@ gaseous
 gravitationally
 gaseousness
 gases
-gasfiring
 gash
 giraffe
 gashed
@@ -10188,6 +10187,7 @@ guignardia
 guignol
 guijo
 guilandina
+gasfiring
 guild
 gharry
 guilder
