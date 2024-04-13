@@ -4598,7 +4598,6 @@ encephalosclerosis
 encephaloscope
 encephaloscopy
 encephalosepsis
-encephalospinal
 externize
 encephalothlipsis
 encephalotome
@@ -13070,6 +13069,7 @@ experienceless
 experiencer
 experiences
 experiencible
+encephalospinal
 experiencing
 experient
 experiential
