@@ -824,7 +824,6 @@ geometries
 galvanometrical
 galvanoplasty
 galvanoplastic
-galvanoplastical
 galvanoplastically
 galvanoplastics
 galvanopsychic
@@ -8976,6 +8975,7 @@ grilly
 grylli
 gryllidae
 grilling
+galvanoplastical
 gerontoxon
 gryllos
 gryllotalpa
