@@ -14189,7 +14189,6 @@ circularised
 circulariser
 circularising
 circularism
-circularity
 circularities
 caulerpa
 circularization
@@ -15008,6 +15007,7 @@ cloud
 cytotrophoblastic
 cytotropic
 cytotropism
+circularity
 cytovirin
 cytozymase
 cytozoic
