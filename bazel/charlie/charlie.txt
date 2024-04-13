@@ -24113,6 +24113,7 @@ convexes
 convexity
 convexities
 convexly
+crampet
 convexness
 convexo
 convexoconcave
@@ -27981,7 +27982,6 @@ crampbit
 cramped
 crampedness
 cramper
-crampet
 crampette
 crampfish
 crampfishes
