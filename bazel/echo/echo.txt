@@ -4379,7 +4379,6 @@ enable
 expertising
 enabled
 enablement
-enablers
 exothermic
 ectorganism
 enables
@@ -8766,6 +8765,7 @@ equipped
 equiprobability
 equiprobable
 equiprobably
+enablers
 equiproportional
 equiproportionality
 equips
