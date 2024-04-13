@@ -5928,7 +5928,6 @@ deprest
 depreter
 deprevation
 depriment
-deprint
 depriorize
 deprivable
 deprival
@@ -8458,6 +8457,7 @@ drighten
 discourtship
 divaricately
 diapasm
+deprint
 drapeability
 diapasonal
 diapasons
