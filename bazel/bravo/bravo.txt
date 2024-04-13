@@ -3786,7 +3786,6 @@ battlepiece
 battleplane
 beatus
 battler
-battlers
 battles
 battleship
 battleships
@@ -5066,6 +5065,7 @@ befalling
 benzomorpholine
 boneshave
 befalls
+battlers
 befame
 bloodthirst
 befamilied
