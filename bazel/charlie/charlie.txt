@@ -2972,7 +2972,6 @@ capelans
 capelet
 capelin
 capeline
-capelins
 capella
 capellane
 capelline
@@ -9916,6 +9915,7 @@ chemotherapy
 chemotherapies
 chemotherapist
 chemotherapists
+capelins
 chemotic
 chemotroph
 chemotrophic
