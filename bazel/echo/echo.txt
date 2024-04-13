@@ -1340,7 +1340,6 @@ effects
 effectual
 effectuality
 effectualize
-effectually
 effectualness
 effectuated
 effectuates
@@ -11538,6 +11537,7 @@ endover
 eveweed
 evg
 evicke
+effectually
 evict
 evicted
 elenchically

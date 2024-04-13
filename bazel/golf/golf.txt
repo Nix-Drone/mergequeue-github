@@ -2987,7 +2987,6 @@ genuses
 geo
 geoaesthesia
 geoagronomic
-geobiologic
 geobiont
 geobios
 geoblast
@@ -8672,6 +8671,7 @@ greenlet
 greenlets
 gorge
 greenly
+geobiologic
 greenling
 gyving
 greenness
