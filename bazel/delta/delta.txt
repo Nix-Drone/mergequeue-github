@@ -6182,7 +6182,6 @@ deriving
 derk
 derma
 dermabrasion
-dermacentor
 dermad
 dermal
 dermalgia
@@ -11694,6 +11693,7 @@ discoverable
 discoverably
 discoverer
 discoverers
+dermacentor
 discovery
 discoveries
 dianisidin
