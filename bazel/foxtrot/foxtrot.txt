@@ -1073,7 +1073,6 @@ farmout
 fisc
 farms
 farmscape
-farmstead
 farmsteads
 fretsaws
 farmtown
@@ -4801,6 +4800,7 @@ fitments
 flair
 forearm
 fasher
+farmstead
 flairs
 firnification
 flays
