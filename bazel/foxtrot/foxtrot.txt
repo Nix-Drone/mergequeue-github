@@ -1057,6 +1057,7 @@ farmership
 farmhold
 farmhouse
 farmhousey
+fontinalaceae
 farmy
 farmyard
 farmyardy
@@ -7049,7 +7050,6 @@ flywheels
 fontina
 fontinal
 feelingly
-fontinalaceae
 fontinalaceous
 fontinalis
 fontinas
