@@ -7735,7 +7735,6 @@ doctorfish
 devourer
 devourers
 devouress
-depersonalize
 devouring
 defiances
 devouringly
@@ -15130,6 +15129,7 @@ dollarfish
 dollarfishes
 dollarleaf
 dollars
+depersonalize
 dollarwise
 dollbeer
 dimmable
