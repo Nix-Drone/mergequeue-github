@@ -2427,7 +2427,6 @@ decius
 decivilize
 deck
 decke
-decked
 deckedout
 deckel
 deckels
@@ -9814,6 +9813,7 @@ dimensionless
 dimensive
 dimensum
 dimensuration
+decked
 dimer
 dimeran
 dimercaprol
