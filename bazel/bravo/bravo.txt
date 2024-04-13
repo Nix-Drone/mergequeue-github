@@ -1932,7 +1932,6 @@ bandyball
 bandicoy
 bandicoot
 bandicoots
-bandido
 bandidos
 bandie
 bandied
@@ -10959,6 +10958,7 @@ blocage
 block
 blockade
 blockaded
+bandido
 blockader
 blockaders
 blockading

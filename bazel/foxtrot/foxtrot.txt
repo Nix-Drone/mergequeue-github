@@ -3809,7 +3809,6 @@ filmography
 filmographies
 films
 filmset
-filmsets
 filmsetter
 filmsetting
 filmslide
@@ -10399,6 +10398,7 @@ floe
 feldspars
 frontager
 fertilised
+filmsets
 frontages
 frontal
 facewise
