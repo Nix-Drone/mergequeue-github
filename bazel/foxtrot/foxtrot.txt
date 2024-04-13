@@ -496,7 +496,6 @@ falconiformes
 falconlike
 frillies
 falconnoid
-falconoid
 folium
 falcons
 falcopern
@@ -4285,6 +4284,7 @@ firker
 firkin
 firking
 firkins
+falconoid
 firlot
 firma
 firmament
