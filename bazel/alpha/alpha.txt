@@ -1536,7 +1536,6 @@ accident
 anatman
 accidentalism
 accidentality
-accidentally
 accidentalness
 accidentary
 accidentarily
@@ -5661,6 +5660,7 @@ armpad
 adglutinate
 aftergrind
 aftergrowth
+accidentally
 afterguard
 afterguns
 amputative
