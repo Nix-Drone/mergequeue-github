@@ -1992,6 +1992,7 @@ bandspreading
 bandstand
 bandstands
 bandster
+ballroom
 bandstop
 bandstring
 bandura
@@ -2380,7 +2381,6 @@ barbells
 barbellula
 barbellulae
 barbellulate
-ballroom
 barbeque
 barbequed
 barber
