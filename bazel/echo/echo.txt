@@ -3954,7 +3954,6 @@ emim
 eminence
 eminences
 extraboldface
-eminencies
 encounter
 eminent
 eminently
@@ -4828,6 +4827,7 @@ encodings
 encoffin
 encoffinment
 ectoblast
+eminencies
 esox
 enlimn
 encoil
