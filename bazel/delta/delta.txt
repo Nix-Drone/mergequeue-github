@@ -2390,6 +2390,7 @@ decime
 dacrya
 decimeter
 downstair
+dialogs
 degorder
 decimeters
 decimetre
@@ -2417,7 +2418,6 @@ deciphers
 decipium
 dramshops
 decision
-dialogs
 decisional
 decisionmake
 decisions
