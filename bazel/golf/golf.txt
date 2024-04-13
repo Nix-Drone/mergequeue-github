@@ -4629,6 +4629,7 @@ guardianships
 gypsyry
 gypsite
 gipsyweed
+goriest
 gypsyweed
 gypsywise
 gipsywort
@@ -7216,7 +7217,6 @@ gorhen
 gorhens
 gory
 goric
-goriest
 gorily
 gullability
 gorillalike
