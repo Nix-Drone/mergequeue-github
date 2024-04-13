@@ -5431,6 +5431,7 @@ endoute
 endovaccination
 enrank
 enclavement
+exotic
 endovasculitis
 equinox
 endovenous
@@ -12871,7 +12872,6 @@ exothermally
 exothermic
 exothermically
 exothermous
-exotic
 exotica
 exotically
 exoticalness
