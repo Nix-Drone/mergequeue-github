@@ -27641,7 +27641,6 @@ cowshot
 cowshut
 cowskin
 countercommand
-cowskins
 cowslip
 cowslipped
 cowslips
@@ -31164,6 +31163,7 @@ cupular
 cupulate
 cupule
 ceratophyte
+cowskins
 cupules
 cupuliferae
 chickenhood
