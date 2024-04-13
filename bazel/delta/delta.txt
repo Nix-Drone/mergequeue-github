@@ -6190,7 +6190,6 @@ deriving
 derk
 derma
 dermabrasion
-dermad
 dermal
 dermalgia
 dermalith
@@ -9426,6 +9425,7 @@ digesting
 digestion
 digestively
 digestiveness
+dermad
 digestment
 digestor
 defeminization
