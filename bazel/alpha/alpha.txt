@@ -4849,7 +4849,6 @@ aeolis
 aeolism
 aeolist
 aeolistic
-aeolodicon
 aeolodion
 aeolomelodicon
 aeolotropy
@@ -8400,6 +8399,7 @@ aliunde
 alive
 aliveness
 alives
+aeolodicon
 alivincular
 alix
 alizarate
