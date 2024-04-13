@@ -7168,7 +7168,6 @@ enumerator
 enunciability
 enunciable
 enunciated
-enunciates
 endochondral
 enunciations
 embellishment
@@ -11206,6 +11205,7 @@ eustatic
 eustatically
 eustele
 eusteles
+enunciates
 eusthenopteron
 eustyle
 eustomatous
