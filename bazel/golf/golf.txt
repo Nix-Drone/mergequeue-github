@@ -5438,7 +5438,6 @@ glycerins
 glycerite
 glycerizin
 glycerogel
-glycerol
 glycerolate
 glycerole
 glycerolyses
@@ -7630,6 +7629,7 @@ gradgrind
 gradgrindian
 gradgrindish
 grigs
+glycerol
 gradgrindism
 gradient
 gradientia
