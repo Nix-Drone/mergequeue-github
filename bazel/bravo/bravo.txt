@@ -7787,6 +7787,7 @@ bathyscaphe
 bheesties
 bhikku
 bhikshu
+brewed
 bhil
 bhili
 bursa
@@ -15092,7 +15093,6 @@ brew
 brewage
 brewages
 bogier
-brewed
 brewer
 brewery
 breweries
