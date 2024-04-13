@@ -5747,7 +5747,6 @@ filaze
 footrill
 flittermouse
 farmlands
-flittern
 flitters
 flitty
 flitting
@@ -6856,6 +6855,7 @@ foliages
 foliaging
 folial
 foliary
+flittern
 foliate
 foliated
 foliates
