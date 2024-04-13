@@ -3259,7 +3259,6 @@ geostrategist
 gonapophysis
 geostrophic
 geostrophically
-geotactic
 geotactically
 geotaxes
 geotaxy
@@ -3876,6 +3875,7 @@ gibbosities
 gibbous
 gibbousness
 gibbsite
+geotactic
 griph
 gibbsites
 gibbus
