@@ -3955,7 +3955,6 @@ eminence
 eminences
 extraboldface
 eminencies
-encounter
 eminent
 eminently
 expressionless
@@ -7151,6 +7150,7 @@ entune
 entwine
 elohistic
 entwined
+encounter
 evangely
 entwinement
 entwines
