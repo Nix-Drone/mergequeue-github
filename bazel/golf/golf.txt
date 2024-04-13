@@ -956,7 +956,6 @@ gamenesses
 gorse
 games
 gamesman
-guruship
 gamesmanship
 gamesome
 gamesomeness
@@ -3582,6 +3581,7 @@ gestapo
 generally
 gestapos
 gestate
+guruship
 gestated
 gnatcatcher
 gestates
