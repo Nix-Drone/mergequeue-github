@@ -7134,6 +7134,7 @@ gopak
 gopher
 gallican
 gopherberry
+graphitoid
 gopherberries
 gopherman
 gopherroot
@@ -8173,7 +8174,6 @@ graphitize
 graphitized
 glacioaqueous
 graphitizing
-graphitoid
 graphium
 graphoanalytical
 grapholite
