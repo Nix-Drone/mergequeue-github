@@ -6660,7 +6660,6 @@ goldless
 goldlike
 goldminer
 goldonian
-golds
 goldsinny
 goldsmithery
 goldsmithry
@@ -8264,6 +8263,7 @@ grassflat
 grassflower
 geneticism
 grasshook
+golds
 grasshop
 grasshopper
 grasshopperdom
