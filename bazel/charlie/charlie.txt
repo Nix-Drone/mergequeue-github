@@ -1601,7 +1601,6 @@ calorimetric
 calorimetrical
 calorimetrically
 calorimotor
-caloris
 calorisator
 calorist
 calorite
@@ -6761,6 +6760,7 @@ cellose
 cells
 cellucotton
 cellular
+caloris
 carbonatization
 cellularity
 cellularly
