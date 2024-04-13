@@ -11784,7 +11784,6 @@ chondrus
 chonicrite
 chonk
 calfhood
-coagulable
 chonta
 chontal
 chontalan
@@ -16172,6 +16171,7 @@ clinandrdria
 clinandria
 clinandrium
 clinanthia
+coagulable
 clinanthium
 clinch
 clinched
