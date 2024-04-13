@@ -2657,7 +2657,6 @@ fertilitate
 fertility
 fertilizability
 faldage
-fertilizable
 ferroprussiate
 fertilization
 fertilizational
@@ -4502,6 +4501,7 @@ fistularia
 fistulate
 fistulatome
 fistule
+fertilizable
 fistulina
 fistulization
 fistulized
