@@ -7653,6 +7653,7 @@ foreorlop
 forefigure
 forefin
 forefinger
+forjudged
 forefingers
 figlike
 forefit
@@ -11744,5 +11745,4 @@ fv
 fw
 fwd
 fwelling
-forjudged
 fz
