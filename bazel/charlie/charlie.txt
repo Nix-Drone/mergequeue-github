@@ -1824,7 +1824,6 @@ camelopardel
 camelopardid
 camelopardidae
 camelopards
-camelopardus
 camelot
 chicory
 camelry
@@ -25683,6 +25682,7 @@ correo
 correption
 corresol
 corresp
+camelopardus
 circumrotating
 casuarinaceae
 correspond
