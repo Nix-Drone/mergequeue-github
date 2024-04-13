@@ -4317,7 +4317,6 @@ ependymoma
 evokers
 emulable
 emulant
-emulates
 emulation
 emulations
 emulative
@@ -12315,6 +12314,7 @@ executioner
 executioneress
 executioners
 executions
+emulates
 executively
 executiveness
 entangledly
