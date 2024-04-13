@@ -10070,7 +10070,6 @@ cheskey
 choices
 cheskeys
 cheslep
-cheson
 chesoun
 chess
 chessart
@@ -17339,6 +17338,7 @@ coaxing
 coaxingly
 coazervate
 coazervation
+cheson
 cupbearer
 cobaea
 cobalamin
