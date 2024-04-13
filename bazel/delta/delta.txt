@@ -4741,7 +4741,6 @@ demobbed
 demobbing
 demobilisation
 demobilise
-demobilised
 demobilising
 demobilizations
 demobilize
@@ -12789,6 +12788,7 @@ disobeyers
 disobeying
 disobeys
 disobligation
+demobilised
 disobligatory
 disoblige
 disobliged
