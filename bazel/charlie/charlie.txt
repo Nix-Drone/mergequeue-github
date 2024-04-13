@@ -3373,7 +3373,6 @@ captate
 captation
 caption
 captioned
-captioning
 captionless
 captions
 captious
@@ -28395,6 +28394,7 @@ creaght
 creak
 creaked
 creaker
+captioning
 creaky
 chondrography
 creakier
