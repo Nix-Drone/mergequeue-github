@@ -5137,6 +5137,7 @@ fiot
 flaughter
 flaughts
 flaunch
+fullfaces
 flaunched
 flaunching
 ferie
@@ -10894,7 +10895,6 @@ fullery
 fulleries
 fullering
 fullest
-fullfaces
 fullfil
 fictile
 feyer
