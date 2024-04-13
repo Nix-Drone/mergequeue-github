@@ -11007,7 +11007,6 @@ chiru
 chirurgeon
 chirurgeonly
 chirurgery
-chirurgic
 chirurgical
 chis
 chiseled
@@ -28683,6 +28682,7 @@ crepiness
 creping
 crepis
 crepitacula
+chirurgic
 crepitaculum
 crepitant
 crepitate
