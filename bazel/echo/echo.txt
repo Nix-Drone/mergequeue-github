@@ -447,7 +447,6 @@ eccentrics
 eccentring
 ecch
 ecchymoma
-ecchymose
 ecchymosed
 ecchymosis
 ecchymotic
@@ -1177,6 +1176,7 @@ enterocholecystostomy
 edplot
 edriasteroidea
 edrioasteroid
+ecchymose
 edrioasteroidea
 edriophthalmatous
 edriophthalmian
