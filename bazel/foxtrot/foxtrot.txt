@@ -7162,6 +7162,7 @@ footers
 footfall
 ferruling
 footfalls
+followership
 footfarer
 footfault
 footfeed
@@ -11551,7 +11552,6 @@ fuseboard
 fused
 fusees
 fusel
-followership
 fuselage
 fibroplastic
 fuselages
