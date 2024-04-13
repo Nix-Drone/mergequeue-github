@@ -5536,7 +5536,6 @@ energist
 energize
 exploiters
 energized
-energizer
 energizers
 energizes
 energizing
@@ -13783,6 +13782,7 @@ extracorpuscular
 emphasis
 extracosmic
 extracosmical
+energizer
 extracostal
 ethnozoological
 elastics
