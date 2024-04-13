@@ -11276,7 +11276,6 @@ amphodelite
 amphodiplopia
 amphogeny
 amphogenic
-amphogenous
 ampholyte
 ampholytic
 abaff
@@ -21765,6 +21764,7 @@ assi
 assibilate
 assibilated
 assibilating
+amphogenous
 assibilation
 assidaean
 assident
