@@ -70,7 +70,6 @@ babeship
 babesia
 boardinghouses
 babesias
-babesiasis
 babesiosis
 babhan
 babi
@@ -3594,6 +3593,7 @@ bathymetrical
 bathinette
 bathing
 bathypelagic
+babesiasis
 bathyplankton
 baygall
 bathyscaph
