@@ -4197,7 +4197,6 @@ bearskins
 beartongue
 bearward
 bearwood
-bearwoods
 bearwort
 beastbane
 beastdom
@@ -8155,6 +8154,7 @@ bicostate
 bicrenate
 bicrofarad
 bicron
+bearwoods
 bicrons
 bicrural
 bicuculline
