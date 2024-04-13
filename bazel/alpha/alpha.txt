@@ -12070,7 +12070,6 @@ anatomicopathological
 anatomicophysiologic
 arteriofibrosis
 anatomicophysiological
-anatomicosurgical
 anatomies
 anatomiless
 anatomise
@@ -13910,6 +13909,7 @@ anorthosite
 anoscope
 aqueduct
 anoscopy
+anatomicosurgical
 anosia
 anosmatic
 anosmia
