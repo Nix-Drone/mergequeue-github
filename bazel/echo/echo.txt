@@ -2193,7 +2193,6 @@ elbowpiece
 elbowroom
 elbows
 elcaja
-elchee
 eld
 elder
 elderberries
@@ -2556,6 +2555,7 @@ embryonate
 embleming
 extravagancies
 electronic
+elchee
 electronically
 electronics
 electronography
