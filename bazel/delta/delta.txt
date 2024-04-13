@@ -5032,7 +5032,6 @@ denasalize
 denasalized
 doppelkummel
 denasalizing
-denat
 denationalisation
 denationalise
 denationalised
@@ -18421,6 +18420,7 @@ dupped
 dupper
 dupping
 dups
+denat
 dur
 dura
 dubitative
