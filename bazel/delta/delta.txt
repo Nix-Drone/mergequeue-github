@@ -1753,7 +1753,6 @@ debater
 debaters
 debates
 debating
-debatingly
 debauch
 debauched
 dorestane
@@ -16807,6 +16806,7 @@ drawfile
 disallowances
 dissuited
 drawfiling
+debatingly
 drawgate
 drawglove
 dishonorary
