@@ -923,7 +923,6 @@ eparcuale
 ectopterygoid
 ectoretina
 ermit
-ectorganism
 ectorhinal
 ectosarc
 excavated
@@ -4382,6 +4381,7 @@ enabled
 enablement
 enablers
 exothermic
+ectorganism
 enables
 enabling
 enact
