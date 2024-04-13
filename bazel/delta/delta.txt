@@ -5821,7 +5821,6 @@ distome
 depositaries
 depositation
 deposited
-depositee
 deedbote
 depositing
 depositional
@@ -9650,6 +9649,7 @@ dilatational
 dilatations
 dilatative
 dilatator
+depositee
 dilatatory
 dilate
 dilated
