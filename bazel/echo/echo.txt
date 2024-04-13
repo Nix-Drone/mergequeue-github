@@ -1116,7 +1116,6 @@ edificial
 edificing
 edified
 exopt
-edifier
 edifiers
 edifies
 edifying
@@ -13026,6 +13025,7 @@ expendability
 expendable
 estacade
 expended
+edifier
 expender
 expenders
 expendible

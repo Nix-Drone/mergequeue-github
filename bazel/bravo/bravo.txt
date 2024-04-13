@@ -6476,7 +6476,6 @@ benzonitrile
 benzonitrol
 bluebuck
 benzoperoxide
-benzophenanthrazine
 benzophenazine
 benzophenol
 benzophenone
@@ -7748,6 +7747,7 @@ bhangi
 bhar
 bhara
 bharal
+benzophenanthrazine
 barege
 bharata
 bharti
