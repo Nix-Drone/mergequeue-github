@@ -5906,6 +5906,7 @@ flooder
 flooders
 floodgate
 floodgates
+frontlessly
 floody
 flunkyhood
 flooding
@@ -10435,7 +10436,6 @@ frontispiece
 frontispiecing
 familiarly
 frontlash
-frontlessly
 frontlessness
 frontlet
 fistnote
