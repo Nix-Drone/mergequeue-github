@@ -11091,7 +11091,6 @@ disassemble
 disassembled
 disassembler
 disassembles
-disassembly
 disassembling
 disassent
 disassiduity
@@ -12276,6 +12275,7 @@ dissyllabized
 disheart
 dishearten
 disheartened
+disassembly
 disheartenedly
 disheartener
 disheartening
