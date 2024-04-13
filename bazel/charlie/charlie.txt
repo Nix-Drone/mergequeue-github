@@ -3639,7 +3639,6 @@ carbazole
 carbeen
 carbene
 carberry
-carbethoxy
 carbethoxyl
 carbide
 carbides
@@ -18624,6 +18623,7 @@ cokuloris
 cola
 colaborer
 colacobioses
+carbethoxy
 colacobiosis
 colacobiotic
 colada
