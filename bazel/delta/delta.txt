@@ -9891,7 +9891,6 @@ derate
 devonian
 diminutal
 diminute
-diminuted
 diminutely
 diminuting
 duendes
@@ -13076,6 +13075,7 @@ displaceable
 displaced
 displacement
 displacements
+diminuted
 displacency
 displacing
 display
