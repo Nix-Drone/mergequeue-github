@@ -208,7 +208,6 @@ daedalous
 daedalus
 daekon
 defilable
-daemon
 daemonelix
 daemones
 daemony
@@ -5156,6 +5155,7 @@ directives
 denitrate
 denitrated
 denitrating
+daemon
 denitration
 denitrator
 denitrify
