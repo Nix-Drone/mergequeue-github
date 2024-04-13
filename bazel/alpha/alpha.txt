@@ -4876,7 +4876,6 @@ aequorin
 aequorins
 aer
 aerage
-aerarian
 aerarium
 aerate
 aerated
@@ -5683,6 +5682,7 @@ afterlifetime
 afterlight
 afterlives
 afterloss
+aerarian
 afterlove
 aftermark
 aftermarriage
