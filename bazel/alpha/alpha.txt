@@ -6473,7 +6473,6 @@ archscoundrel
 amphionic
 agricole
 agricolist
-agricolite
 agricolous
 agricultural
 agriculturalist
@@ -10209,6 +10208,7 @@ ameiuridae
 ameiva
 amel
 acop
+agricolite
 amelanchier
 ameland
 amelcorn

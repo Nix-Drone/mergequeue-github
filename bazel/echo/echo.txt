@@ -6631,7 +6631,6 @@ enteral
 enteralgia
 enterally
 enterate
-enterauxe
 enterclose
 enterectomy
 enterectomies
@@ -13091,6 +13090,7 @@ experimentor
 expermentized
 experrection
 expert
+enterauxe
 experted
 experting
 exacters
