@@ -18782,7 +18782,6 @@ archcrown
 archcupbearer
 archd
 archdapifer
-archdapifership
 archdeacon
 archdeaconess
 archdeaconry
@@ -22147,6 +22146,7 @@ astor
 astore
 astound
 aranga
+archdapifership
 astounded
 astoundingly
 astoundment
