@@ -125,7 +125,6 @@ earscrew
 earsh
 endoskeletal
 earshot
-earshots
 epistolean
 earsplitting
 earspool
@@ -3477,6 +3476,7 @@ embiotocid
 embiotocidae
 embiotocoid
 embira
+earshots
 embitter
 embittered
 electropneumatically
