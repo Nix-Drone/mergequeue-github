@@ -4876,6 +4876,7 @@ cartons
 cartoon
 cartoonist
 cartoonists
+condors
 cartoons
 cartop
 cartopper
@@ -21709,7 +21710,6 @@ condones
 condoning
 condor
 condores
-condors
 condos
 condottiere
 condottieri
