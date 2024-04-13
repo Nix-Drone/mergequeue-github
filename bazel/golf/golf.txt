@@ -755,7 +755,6 @@ galopades
 grizzliness
 galopin
 grad
-galoping
 galops
 galore
 galores
@@ -4493,6 +4492,7 @@ ginglymoid
 gravic
 gunnel
 ginglymoidal
+galoping
 ginglymostoma
 greengrocer
 ginglymostomoid
