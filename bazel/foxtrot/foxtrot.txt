@@ -7196,7 +7196,6 @@ footbridge
 footcandle
 footcandles
 footcloths
-finedraw
 feeblest
 footed
 footeite
@@ -9081,6 +9080,7 @@ fouter
 fouth
 fouty
 foutra
+finedraw
 fovea
 fanflower
 foveae
