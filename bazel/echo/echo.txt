@@ -3578,7 +3578,6 @@ embottle
 embouchement
 embouchment
 embouchure
-embouchures
 embound
 erasable
 embourgeoisement
@@ -4312,6 +4311,7 @@ emulators
 emulatress
 electrotonus
 emule
+embouchures
 emulgence
 emulgent
 emulous
