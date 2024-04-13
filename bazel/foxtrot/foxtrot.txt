@@ -1088,7 +1088,6 @@ farnesses
 faro
 faroelite
 foremast
-faroese
 farolito
 faros
 farouche
@@ -8278,6 +8277,7 @@ fevercup
 forhale
 forheed
 forhoo
+faroese
 forhooy
 forhooie
 forhow
