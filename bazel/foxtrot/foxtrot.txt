@@ -3894,7 +3894,6 @@ fine
 fineableness
 finebent
 franchisal
-finecomb
 fined
 fineish
 fineleaf
@@ -6884,6 +6883,7 @@ folioed
 foliolate
 foliole
 folioliferous
+finecomb
 folios
 foliose
 foliosity
