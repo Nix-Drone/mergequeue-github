@@ -3138,7 +3138,6 @@ enrapt
 epicentra
 elong
 elongate
-elongates
 elongating
 elongation
 elongations
@@ -6955,6 +6954,7 @@ entoplasm
 entoplastral
 entoplastron
 entoproct
+elongates
 entoprocta
 entoproctous
 entopterygoid
