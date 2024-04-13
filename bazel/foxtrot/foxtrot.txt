@@ -3938,7 +3938,6 @@ fingered
 fingerer
 fingerers
 fingerfish
-fingerflower
 fingerhold
 fingerhook
 fingering
@@ -6298,6 +6297,7 @@ fluidized
 followup
 fledge
 fluidizer
+fingerflower
 flotations
 fluidizes
 fluidly
