@@ -7568,6 +7568,7 @@ deviability
 deviable
 deviance
 deviances
+dsnames
 deviancy
 deviancies
 deviant
@@ -17639,7 +17640,6 @@ dsect
 dsects
 desmodium
 dsname
-dsnames
 dsp
 dsr
 dsri
