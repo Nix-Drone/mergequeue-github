@@ -7882,7 +7882,6 @@ alert
 alerta
 anorak
 alerted
-alertedly
 alerter
 arrivederci
 alerters
@@ -13714,6 +13713,7 @@ anodon
 anodonta
 anodontia
 anodos
+alertedly
 anoegenetic
 anoesia
 anoesis
