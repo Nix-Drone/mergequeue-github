@@ -9958,6 +9958,7 @@ establish
 establishable
 established
 establisher
+expire
 establishes
 establishing
 establishment
@@ -13139,7 +13140,6 @@ expiration
 expirations
 expirator
 expiratory
-expire
 exhaustable
 expired
 expiree
