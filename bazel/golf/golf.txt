@@ -2922,7 +2922,6 @@ gentle
 gentled
 gentlefolk
 gentleheartedly
-gentleheartedness
 gentlehood
 gumminess
 gentleman
@@ -10349,6 +10348,7 @@ gullible
 gullibly
 gullied
 gullies
+gentleheartedness
 gullygut
 gullying
 gumdigger
