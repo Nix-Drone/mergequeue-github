@@ -5824,7 +5824,6 @@ engoument
 engr
 engrace
 engraced
-experienceable
 engraffed
 engraft
 engrafted
@@ -13793,6 +13792,7 @@ extracosmic
 extracosmical
 extracostal
 elastics
+experienceable
 extracranial
 extract
 extractability
