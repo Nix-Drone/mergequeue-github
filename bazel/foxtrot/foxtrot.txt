@@ -2894,6 +2894,7 @@ feuds
 flagonless
 feudum
 feuillage
+foreshows
 feuillants
 feuillemorte
 feuillet
@@ -7975,7 +7976,6 @@ foreshoulder
 foreshow
 foreshower
 foreshown
-foreshows
 foreshroud
 foreside
 foresides
