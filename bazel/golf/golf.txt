@@ -2650,7 +2650,6 @@ generable
 guideress
 geisotherm
 generableness
-general
 generalate
 generalcy
 generale
@@ -7645,6 +7644,7 @@ gradings
 gradino
 greenier
 gradiometer
+general
 gradiometric
 grads
 gradual
