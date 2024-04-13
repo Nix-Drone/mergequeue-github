@@ -2290,7 +2290,6 @@ dechemicalization
 dechemicalize
 dechenite
 dechlog
-dechlore
 dechloridation
 dechloridize
 dechloridized
@@ -9345,6 +9344,7 @@ diffuseness
 diffuser
 diffusers
 diffuses
+dechlore
 diffusible
 diffusibleness
 dikamalli
