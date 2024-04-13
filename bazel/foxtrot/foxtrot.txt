@@ -4390,7 +4390,6 @@ fishskin
 fishspear
 fishtail
 fishtailed
-fishtailing
 flether
 fishtails
 fishway
@@ -6384,6 +6383,7 @@ fluoran
 fluorane
 fluoranthene
 fluorapatite
+fishtailing
 favorite
 fluorated
 fluorbenzene
