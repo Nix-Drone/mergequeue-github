@@ -1148,7 +1148,6 @@ ganglioneuron
 ganglionic
 ganglionitis
 ganglionless
-ganglions
 ganglioplexus
 ganglioside
 gangman
@@ -10286,6 +10285,7 @@ guywire
 gujar
 gallantize
 gujarati
+ganglions
 geese
 gurgle
 gujrati
