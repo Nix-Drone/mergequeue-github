@@ -2346,7 +2346,6 @@ feodum
 feoff
 feoffee
 feoffees
-feoffeeship
 feoffer
 feoffing
 fetlow
@@ -10937,6 +10936,7 @@ flighthead
 franchised
 fulminate
 fulminates
+feoffeeship
 fulminating
 frondescence
 fluvial
