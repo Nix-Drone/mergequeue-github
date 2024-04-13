@@ -4323,7 +4323,6 @@ fishbolt
 fishbolts
 fishbone
 fishbones
-fishbowl
 falchions
 fishbowls
 fisheater
@@ -9681,6 +9680,7 @@ freemartin
 freemason
 freemasonic
 foredefine
+fishbowl
 freemasonical
 freemasonism
 freemasons
