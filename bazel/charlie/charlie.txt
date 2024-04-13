@@ -7498,7 +7498,6 @@ cercidiphyllaceae
 cavel
 cercis
 cercises
-cercle
 cercocebus
 cercolabes
 cercolabidae
@@ -12608,6 +12607,7 @@ chronological
 chronologically
 chronologies
 chronologist
+cercle
 chronologize
 chronologizing
 chronomancy
