@@ -3532,6 +3532,7 @@ deftness
 deftnesses
 defunct
 defunction
+dollface
 defunctionalization
 defunctionalize
 defunctive
@@ -15172,7 +15173,6 @@ dollbeer
 dimmable
 dolldom
 dolled
-dollface
 dehull
 dollhood
 dollhouses
