@@ -9662,7 +9662,6 @@ dilations
 dilatometer
 depressant
 dilatometry
-dilatometric
 dilatometrically
 dilator
 dedanim
@@ -15404,6 +15403,7 @@ donable
 donacidae
 donaciform
 donack
+dilatometric
 donal
 donald
 donar
