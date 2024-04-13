@@ -5226,6 +5226,7 @@ beggared
 beggarer
 beggaress
 bulletheaded
+barret
 beggarhood
 beggary
 beggaring
@@ -14597,7 +14598,6 @@ brassylic
 brassiness
 brassish
 brasslike
-barret
 brassware
 brasswork
 brassworker
