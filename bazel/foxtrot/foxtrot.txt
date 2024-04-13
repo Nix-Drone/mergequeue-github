@@ -4017,7 +4017,6 @@ finite
 finiteness
 finites
 finitesimal
-finity
 finitism
 finitive
 finitude
@@ -7054,6 +7053,7 @@ foredate
 fratercula
 fonts
 fritterers
+finity
 foo
 furnitures
 foochow
