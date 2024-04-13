@@ -2865,6 +2865,7 @@ genospecies
 genotype
 genotypic
 genotypical
+gunfire
 genotypically
 geylies
 genotypicity
@@ -10483,7 +10484,6 @@ gundog
 gastronomic
 gunfight
 gunfights
-gunfire
 gunfires
 gunflint
 gunfought
