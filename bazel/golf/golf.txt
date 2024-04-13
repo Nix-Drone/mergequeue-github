@@ -5167,7 +5167,6 @@ governesshood
 glanis
 glans
 glar
-glare
 glared
 glareola
 glareole
@@ -10306,6 +10305,7 @@ gulash
 gulch
 grulla
 guld
+glare
 gastrolatrous
 gulden
 gavelkind
