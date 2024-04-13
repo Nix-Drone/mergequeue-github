@@ -3156,7 +3156,6 @@ elrage
 elritch
 epineolithic
 elroquite
-els
 else
 estus
 endemic
@@ -6952,6 +6951,7 @@ escarole
 exoticity
 entoparasitic
 entoperipheral
+els
 entophytal
 entophyte
 entophytic
