@@ -3086,7 +3086,6 @@ ellinge
 elliot
 elliott
 ellipse
-ellipses
 ellipsis
 ellipsograph
 ellipsoid
@@ -6644,6 +6643,7 @@ enterectomies
 exuviates
 entered
 enterer
+ellipses
 enterers
 enterfeat
 entergogenic
