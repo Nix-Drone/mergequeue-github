@@ -6545,7 +6545,6 @@ avantgarde
 agrostographical
 algesthesis
 agrostographies
-agrostology
 agrostologic
 agrostological
 agrostologist
@@ -15348,6 +15347,7 @@ antihelix
 antihelixes
 antihelminthic
 antihemagglutinin
+agrostology
 antihemisphere
 antihemolysin
 antihemolytic
