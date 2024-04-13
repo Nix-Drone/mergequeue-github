@@ -1667,7 +1667,6 @@ fchar
 fipenny
 fcomp
 fconv
-fconvert
 farcin
 fcp
 fdnames
@@ -2357,6 +2356,7 @@ feodum
 feoff
 feoffee
 feoffees
+fconvert
 feoffer
 feoffing
 fetlow
