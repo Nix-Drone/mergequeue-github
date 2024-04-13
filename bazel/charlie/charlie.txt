@@ -4745,7 +4745,6 @@ carryout
 carryouts
 carryover
 carryovers
-carrys
 carritch
 carritches
 carriwitchet
@@ -30366,6 +30365,7 @@ ctenodus
 ctenoid
 ctenoidean
 ctenoidei
+carrys
 ctenoidian
 ctenolium
 ctenophora
