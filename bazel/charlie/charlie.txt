@@ -6720,7 +6720,6 @@ cartograph
 cellarous
 cellars
 cellarwoman
-cellated
 cellblock
 cellblocks
 celled
@@ -19286,6 +19285,7 @@ colonnette
 colonopathy
 colonopexy
 colonoscope
+cellated
 concaver
 colonoscopy
 colons
