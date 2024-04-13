@@ -705,7 +705,6 @@ famine
 famines
 famished
 fired
-famishes
 famishing
 famishment
 famose
@@ -11318,6 +11317,7 @@ fortress
 furcal
 furcate
 flexure
+famishes
 furcated
 forepiece
 furcation
