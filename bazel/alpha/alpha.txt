@@ -17226,7 +17226,6 @@ apogon
 apogonid
 apogonidae
 apograph
-apographal
 apographic
 apographical
 apohyal
@@ -24069,6 +24068,7 @@ autographist
 autographometer
 autographs
 autogravure
+apographal
 autoharp
 appraisingly
 autoheader
