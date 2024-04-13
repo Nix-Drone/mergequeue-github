@@ -3136,7 +3136,6 @@ fibrocytic
 fibrocrystalline
 fibroelastic
 fibroenchondroma
-fibroferrite
 fibroglioma
 fibrohemorrhagic
 farfet
@@ -5737,6 +5736,7 @@ flippest
 faveoli
 flipping
 flyproof
+fibroferrite
 flips
 flirt
 flirtable
