@@ -14789,7 +14789,6 @@ antiblastic
 antiblennorrhagic
 antiblock
 antiblue
-antibody
 antibodies
 antiboss
 ayin
@@ -22039,6 +22038,7 @@ asterisks
 asterism
 asterismal
 asterisms
+antibody
 asterite
 asterixis
 astern
