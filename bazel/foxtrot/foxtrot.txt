@@ -2426,7 +2426,6 @@ ferment
 fermentability
 furzechat
 fermentable
-fermental
 fermentarian
 ferrocyanic
 forlie
@@ -8210,6 +8209,7 @@ forge
 forgeability
 forgeable
 forged
+fermental
 forgery
 forgeries
 forgers
