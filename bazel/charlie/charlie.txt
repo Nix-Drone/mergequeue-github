@@ -7047,6 +7047,7 @@ confluences
 centigrams
 centile
 centiles
+clunker
 centiliter
 centiliters
 centilitre
@@ -27628,7 +27629,6 @@ cowroid
 cows
 cowshard
 cowsharn
-clunker
 cowshed
 cowsheds
 compoundable
