@@ -2444,6 +2444,7 @@ basis
 barbwire
 barbwires
 barcan
+bullpout
 barcarole
 betatter
 barcaroles
@@ -17175,7 +17176,6 @@ bullpen
 bullpens
 bullpoll
 belibeling
-bullpout
 bullpup
 bullragged
 bullragging
