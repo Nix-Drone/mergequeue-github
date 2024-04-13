@@ -1071,6 +1071,7 @@ farmhousey
 fontinalaceae
 farmy
 farmyard
+fructuary
 farmyardy
 farmyards
 foremastman
@@ -2493,7 +2494,6 @@ fernticle
 fernwort
 feroce
 ferocious
-fructuary
 ferociously
 flatboat
 ferociousness
