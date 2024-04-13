@@ -4582,7 +4582,6 @@ fitnesses
 feudalised
 fitout
 fitroot
-fits
 fittage
 fytte
 fitted
@@ -9285,6 +9284,7 @@ fragmentizing
 fragments
 furled
 fragor
+fits
 fragrance
 fragrances
 fermentations
