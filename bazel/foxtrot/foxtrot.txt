@@ -7727,7 +7727,6 @@ foreyards
 floodlights
 foreigneering
 foreigner
-foreigners
 flutework
 foreignership
 foreignism
@@ -9675,6 +9674,7 @@ freehold
 freeholder
 freeholders
 freeholdership
+foreigners
 freeholding
 freeholds
 freeing
