@@ -8836,6 +8836,7 @@ chapwoman
 chaqueta
 chaquetas
 char
+colorants
 chara
 charabanc
 charabancer
@@ -19341,7 +19342,6 @@ coloradans
 colorado
 coloradoite
 colorant
-colorants
 colorate
 coloration
 colorational
