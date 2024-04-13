@@ -2560,7 +2560,6 @@ ferrivorous
 feinschmeckers
 ferryway
 ferroaluminum
-ferrocalcite
 ferrocene
 ferrocerium
 ferrochrome
@@ -5704,6 +5703,7 @@ flyswat
 footlessness
 flyswatter
 flit
+ferrocalcite
 flytail
 flitch
 figmental
