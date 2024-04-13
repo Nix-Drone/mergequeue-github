@@ -6047,6 +6047,7 @@ agglomerating
 agglomeration
 agglomerative
 agglomerator
+autocollimate
 autoing
 agglutinability
 agglutinable
@@ -23954,7 +23955,6 @@ autocoder
 autocoherer
 autocoid
 autocoids
-autocollimate
 autocollimation
 autocollimator
 autocollimators
