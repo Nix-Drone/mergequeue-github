@@ -24117,6 +24117,7 @@ convexly
 convexness
 convexo
 convexoconcave
+couplings
 conviciate
 convicinity
 convict
@@ -27312,7 +27313,6 @@ couplers
 couples
 couplet
 coupleteer
-couplings
 coupon
 couponed
 couponless
