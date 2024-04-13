@@ -3065,6 +3065,7 @@ defacement
 defacements
 dunderhead
 defacer
+delible
 defacers
 defaces
 defacing
@@ -16250,7 +16251,6 @@ downcast
 downcastness
 delenda
 downcasts
-delible
 downcome
 downcomer
 downcomes
