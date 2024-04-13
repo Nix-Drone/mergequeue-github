@@ -2082,7 +2082,6 @@ banjorine
 banjuke
 banjulele
 bank
-bankable
 bankalachi
 bankbooks
 basti
@@ -14711,6 +14710,7 @@ brazil
 bilgewater
 brazilein
 braziletto
+bankable
 brazilian
 brazilianite
 brazilians
