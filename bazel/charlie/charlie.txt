@@ -24251,6 +24251,7 @@ cook
 cookable
 cookbook
 cookbooks
+cultivators
 classist
 carucal
 cookdom
@@ -30831,7 +30832,6 @@ cultivation
 cultivations
 cultivative
 cultivator
-cultivators
 cultive
 cultrate
 cultrated
