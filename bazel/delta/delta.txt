@@ -2950,6 +2950,7 @@ deducement
 deducer
 deduces
 deducibility
+devitrify
 deducibly
 deducing
 deducive
@@ -7669,7 +7670,6 @@ devitalizes
 devitalizing
 devitaminize
 devitation
-devitrify
 devitrifiable
 devitrification
 demiluster
