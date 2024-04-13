@@ -3499,6 +3499,7 @@ caraculs
 caradoc
 carafe
 carafes
+cornicing
 carafon
 coteau
 caragana
@@ -25336,7 +25337,6 @@ cornices
 collaud
 corniche
 corniches
-cornicing
 cornicle
 cornicles
 cornicular
