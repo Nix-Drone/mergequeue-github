@@ -12748,7 +12748,6 @@ elmer
 exonym
 exonuclease
 exopathic
-exophagy
 exophasia
 exophasic
 exophoria
@@ -13336,6 +13335,7 @@ expounds
 expreme
 express
 expressable
+exophagy
 expressage
 expressed
 expresser

@@ -12739,6 +12739,7 @@ dismissal
 dismissals
 dismissed
 dismisser
+doormaking
 dismissers
 dismisses
 dismissible
@@ -15588,7 +15589,6 @@ doorknobs
 doorless
 doormaid
 doormaker
-doormaking
 doorman
 doormat
 doormats
