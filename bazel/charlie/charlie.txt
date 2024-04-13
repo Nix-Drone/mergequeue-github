@@ -7971,7 +7971,6 @@ cfd
 cfi
 cfm
 cfs
-cg
 cgm
 cgs
 ch
@@ -17264,6 +17263,7 @@ coastal
 coastally
 coasted
 coaster
+cg
 coastguardman
 chiefly
 coastguardsman
