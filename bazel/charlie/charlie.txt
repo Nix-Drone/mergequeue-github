@@ -8911,7 +8911,6 @@ characters
 characterstring
 charade
 charadrii
-charadriidae
 charadriiform
 charadriiformes
 charadrine
@@ -13410,6 +13409,7 @@ cyclostoma
 cyclostomata
 cyclostomate
 cyclostomatidae
+charadriidae
 coremia
 cyclostomatous
 cyclostome
