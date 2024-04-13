@@ -8479,7 +8479,6 @@ agone
 alkies
 alkyl
 alkylamine
-alkylamino
 alkylarylsulfonate
 alkylate
 alkylated
@@ -10832,6 +10831,7 @@ amniotes
 amniotic
 amniotin
 amniotitis
+alkylamino
 australians
 amniotome
 amobarbital
