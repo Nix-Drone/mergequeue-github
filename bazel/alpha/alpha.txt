@@ -3592,7 +3592,6 @@ addressability
 allotheistic
 ammine
 addressable
-addressee
 addressees
 addresser
 addressers
@@ -11740,6 +11739,7 @@ analysation
 analyse
 analyser
 analysers
+addressee
 analyses
 analysing
 antimoniate
