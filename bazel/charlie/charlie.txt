@@ -4683,7 +4683,6 @@ cerebropathy
 carposporangium
 catalase
 carpospore
-carposporic
 carposporous
 carpostome
 carps
@@ -19378,6 +19377,7 @@ colorisms
 coloristic
 coloristically
 colorists
+carposporic
 colorization
 catchplate
 chimaeridae
