@@ -3713,6 +3713,7 @@ batswing
 batt
 batta
 battable
+becurl
 battailant
 battailous
 battak
@@ -4570,7 +4571,6 @@ becuffed
 becuiba
 becumber
 becuna
-becurl
 becurry
 becurse
 becursed
