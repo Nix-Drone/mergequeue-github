@@ -82,7 +82,6 @@ faceplate
 facer
 foretop
 facers
-fisticuffs
 faces
 facesaving
 facet
@@ -2436,6 +2435,7 @@ fermacy
 fermage
 fermail
 fermal
+fisticuffs
 fermata
 fermate
 fleshed
