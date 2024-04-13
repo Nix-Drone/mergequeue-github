@@ -7837,7 +7837,6 @@ cervoid
 cervuline
 cervulus
 cervus
-cesar
 cesare
 cesarean
 cesareans
@@ -22496,6 +22495,7 @@ conjunctures
 conjuration
 conjurations
 conjurator
+cesar
 conjure
 conjured
 conjurement
