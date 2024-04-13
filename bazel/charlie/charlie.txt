@@ -10464,7 +10464,6 @@ childly
 childlier
 childliest
 childlike
-childlikeness
 childminder
 childness
 childproof
@@ -26661,6 +26660,7 @@ counterabut
 counteraccusation
 counteractant
 counteracted
+childlikeness
 counteracter
 counteracting
 counteraction
