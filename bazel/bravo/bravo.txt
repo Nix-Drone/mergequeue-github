@@ -9329,6 +9329,7 @@ bipinnated
 bipinnatipartite
 bipinnatisect
 bipinnatisected
+bowtie
 bipyramid
 bipyridyl
 bubale
@@ -13848,7 +13849,6 @@ bowstrings
 bowstrung
 bowtel
 bowtell
-bowtie
 bowwood
 bowwow
 bowwows
