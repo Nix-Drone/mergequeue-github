@@ -2737,7 +2737,6 @@ congenialize
 canst
 canstick
 cant
-cantab
 cantabank
 cantabile
 cantabri
@@ -28984,6 +28983,7 @@ crimogenic
 chastisement
 crymotherapy
 crimp
+cantab
 crimpage
 crimped
 crimper
