@@ -6429,7 +6429,6 @@ agranulocytosis
 agranuloplastic
 agrapha
 agraphia
-agraphias
 agraphic
 agraria
 agrarian
@@ -10154,6 +10153,7 @@ ambulatory
 ambulatoria
 aphanitism
 ambulatorial
+agraphias
 ambulatories
 ambulatorily
 ambulatorium
