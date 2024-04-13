@@ -15995,7 +15995,6 @@ antiq
 antiqua
 antiquary
 antiquarian
-antiquarianism
 antiquarianize
 antiquarianly
 antiquarians
@@ -22771,6 +22770,7 @@ atonic
 atonicity
 atonics
 atonies
+antiquarianism
 atoning
 atoningly
 atop
