@@ -538,7 +538,6 @@ backstring
 backstrip
 backstroke
 backstrokes
-backstroking
 backstromite
 backswept
 backswimmer
@@ -17016,6 +17015,7 @@ bulkiest
 bulkily
 bulkin
 bulkiness
+backstroking
 brickset
 bulkish
 bulks
