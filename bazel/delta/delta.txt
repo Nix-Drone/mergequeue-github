@@ -6247,6 +6247,7 @@ detritus
 degausses
 dermatosis
 dermatoskeleton
+devocalize
 dermatotherapy
 dermatotome
 dermatotomy
@@ -7671,7 +7672,6 @@ devocalisation
 devocalised
 devocalising
 devocalization
-devocalize
 devocalized
 devocalizing
 devocate
