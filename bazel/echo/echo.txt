@@ -2078,6 +2078,7 @@ elamite
 elamitish
 elamp
 elan
+environment
 elance
 eland
 elanet
@@ -8750,7 +8751,6 @@ equipoise
 equipoised
 equipoising
 equipollence
-environment
 equipollency
 evasively
 equipollent
