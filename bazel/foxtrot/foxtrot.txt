@@ -2203,6 +2203,7 @@ feltmaker
 feltmaking
 feltman
 foulard
+foredeep
 feltmonger
 felts
 feltwort
@@ -7941,7 +7942,6 @@ foresend
 faience
 foremanship
 foresentence
-foredeep
 foreset
 foresettled
 foreshadow
