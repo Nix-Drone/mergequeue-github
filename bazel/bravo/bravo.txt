@@ -3774,6 +3774,7 @@ battledore
 battledores
 baldly
 battledoring
+biographist
 battlefields
 battlefront
 battlefronts
@@ -9040,7 +9041,6 @@ biography
 biographical
 biographies
 bookkeeping
-biographist
 biographize
 bittiest
 bioherm
