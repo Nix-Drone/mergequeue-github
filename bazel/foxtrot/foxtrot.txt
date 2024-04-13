@@ -2290,7 +2290,6 @@ freeborn
 firebricks
 fsiest
 fenchene
-furile
 fenchyl
 fenchone
 fencible
@@ -6601,6 +6600,7 @@ fluxes
 fluxgraph
 fob
 frack
+furile
 fluxible
 farmhouses
 fluxibleness
