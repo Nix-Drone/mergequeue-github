@@ -9852,6 +9852,7 @@ chemism
 choosy
 chemisorb
 chemisorption
+coprophilic
 chemistry
 chemistries
 chemists
@@ -24702,7 +24703,6 @@ coprophagia
 coprophagist
 coprophagous
 coprophilia
-coprophilic
 coprophilism
 coprophilous
 coprophyte
