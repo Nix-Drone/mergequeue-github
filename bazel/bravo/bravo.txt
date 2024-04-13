@@ -3024,7 +3024,6 @@ barristers
 barristership
 barristress
 barroom
-barrooms
 barrow
 barrowcoat
 barrowful
@@ -7652,6 +7651,7 @@ bewilderedly
 bewildering
 bilsted
 bewilderingly
+barrooms
 boasting
 bewilderment
 backup
