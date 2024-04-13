@@ -7267,7 +7267,6 @@ detests
 dethyroidism
 dethronable
 dethroned
-ductile
 dethronement
 dethronements
 dethrones
@@ -16730,6 +16729,7 @@ drape
 drapeable
 draped
 draperess
+ductile
 drapery
 draperied
 disregards
