@@ -20115,7 +20115,6 @@ commissaries
 commissaryship
 commissars
 commission
-commissionaire
 commissional
 commissionate
 commissionated
@@ -31501,6 +31500,7 @@ cursoriidae
 cursorily
 cursoriness
 cursorious
+commissionaire
 cursorius
 cursors
 curst
