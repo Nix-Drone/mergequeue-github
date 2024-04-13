@@ -2864,6 +2864,7 @@ feudality
 feudalities
 feudalization
 feudalize
+fratching
 feudalized
 feudalizing
 feudary
@@ -9470,7 +9471,6 @@ fratch
 fratched
 fratcher
 fratchety
-fratching
 frate
 fistle
 flaxbush
