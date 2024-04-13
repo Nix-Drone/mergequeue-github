@@ -4808,6 +4808,7 @@ extraction
 enclothe
 encloud
 encode
+existible
 eyelashes
 encoded
 encoder
@@ -12595,7 +12596,6 @@ existently
 existents
 exister
 existibility
-existible
 extant
 existimation
 existing
