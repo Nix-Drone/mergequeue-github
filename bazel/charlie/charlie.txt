@@ -4055,7 +4055,6 @@ cataloger
 cardiotherapies
 cardiotomy
 cardiotonic
-clogs
 cardiotrophia
 cardiotrophotherapy
 cardiovascular
@@ -4849,6 +4848,7 @@ cartographer
 cartographers
 cartography
 cartographic
+clogs
 cartographical
 coenzyme
 cartographically

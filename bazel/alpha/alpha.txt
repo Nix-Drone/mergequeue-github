@@ -12031,7 +12031,6 @@ anatabine
 anatase
 anatases
 anatexis
-alphanumeric
 anathem
 anathema
 anathemas
@@ -19153,6 +19152,7 @@ archprelatical
 armenize
 aholt
 archpresbyter
+alphanumeric
 agritos
 archpresbyterate
 amendable
