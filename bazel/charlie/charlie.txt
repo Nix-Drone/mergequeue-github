@@ -21367,7 +21367,6 @@ concisest
 concision
 concitation
 concite
-conclamant
 conclamation
 conclave
 conclaves
@@ -21737,6 +21736,7 @@ counterwill
 conductometer
 chiffrobe
 conductometric
+conclamant
 conductor
 conductory
 cancered
