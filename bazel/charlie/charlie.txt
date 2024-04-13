@@ -8386,6 +8386,7 @@ chalutzim
 cham
 chama
 chamacea
+checkpoints
 chamacoco
 chamade
 chamaebatia
@@ -9527,7 +9528,6 @@ checkouts
 checkpoint
 checkpointed
 checkpointing
-checkpoints
 checkrack
 checkrail
 checkrein
