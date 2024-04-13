@@ -5635,7 +5635,6 @@ glyptotherium
 globeholder
 glires
 gliridae
-gliriform
 gliriformia
 glirine
 glisk
@@ -7914,6 +7913,7 @@ grandesque
 grandest
 grandeur
 grandeurs
+gliriform
 grandeval
 grandevity
 grandeza
