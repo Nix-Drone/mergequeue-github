@@ -13432,6 +13432,7 @@ dissavage
 decart
 dissaved
 dissaves
+ditcher
 dissaving
 dissavs
 disscepter
@@ -14108,7 +14109,6 @@ ditchdigging
 defensible
 ditchdown
 ditched
-ditcher
 ditchers
 deathwards
 disproportionably
