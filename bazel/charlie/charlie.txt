@@ -16464,7 +16464,6 @@ clockmaker
 clockmaking
 crewer
 clockroom
-clocks
 clocksmith
 clockwatcher
 clockwise
@@ -21375,6 +21374,7 @@ concipient
 concise
 concisely
 conciseness
+clocks
 concisest
 concision
 concitation
