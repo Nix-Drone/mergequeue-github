@@ -10811,7 +10811,6 @@ blind
 blindage
 blindball
 bindable
-blindcat
 blinded
 blindedly
 blindeyes
@@ -16261,6 +16260,7 @@ brughs
 bibliotic
 brugnatellite
 bruyere
+blindcat
 bruin
 bruins
 bruise
