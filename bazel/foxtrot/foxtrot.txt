@@ -4782,7 +4782,6 @@ flagstaffs
 fustigate
 fitchy
 flagstaves
-facioscapulohumeral
 flagstick
 falconers
 flagstones
@@ -9295,6 +9294,7 @@ fragrant
 fragrantly
 fragrantness
 fray
+facioscapulohumeral
 fabulists
 fraid
 frayedly
