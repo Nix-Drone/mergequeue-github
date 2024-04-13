@@ -1503,6 +1503,7 @@ blacktop
 balkline
 baryton
 balks
+beggar
 ball
 ballad
 ballade
@@ -17111,7 +17112,6 @@ brahmic
 bullfrog
 bullgine
 bullhead
-beggar
 bullheaded
 bullheadedly
 bullheads
