@@ -4037,7 +4037,6 @@ finlet
 finlike
 finmark
 finmarks
-finn
 flamfew
 finnac
 finnack
@@ -10289,6 +10288,7 @@ frogginess
 frogging
 froggish
 froghood
+finn
 froghopper
 frogleaf
 frogleg
