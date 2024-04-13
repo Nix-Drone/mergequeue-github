@@ -2439,7 +2439,6 @@ electroergometer
 electroetching
 electroextraction
 expedient
-expos
 electroform
 electroforming
 electrofuse
@@ -7821,6 +7820,7 @@ effront
 epidermic
 ecclesiastical
 endosarc
+expos
 epidermical
 epidermically
 excisemen
