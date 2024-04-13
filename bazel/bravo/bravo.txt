@@ -7731,7 +7731,6 @@ bezazz
 bezazzes
 bezel
 blockman
-bezels
 bezesteen
 bezetta
 bezette
@@ -11217,6 +11216,7 @@ blotted
 blotter
 blotters
 blottesque
+bezels
 blotty
 blottier
 blottiest
