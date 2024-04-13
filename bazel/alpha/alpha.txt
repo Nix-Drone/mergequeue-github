@@ -5215,6 +5215,7 @@ aetites
 aetobatidae
 aetobatus
 aetolian
+allocability
 aetomorphae
 aetosaur
 aetosaurian
@@ -8759,7 +8760,6 @@ allobaric
 allobars
 allobroges
 allobrogical
-allocability
 allocable
 allocaffeine
 allocatable
