@@ -7540,7 +7540,6 @@ cerebrasthenia
 cerebrasthenic
 cerebrate
 cerebrated
-cerebrates
 cerebrating
 contchar
 cerebration
@@ -22426,6 +22425,7 @@ conjoint
 conjointly
 conjointment
 conjointness
+cerebrates
 conjoints
 conjon
 conjubilant
