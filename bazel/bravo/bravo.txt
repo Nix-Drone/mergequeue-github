@@ -7540,7 +7540,6 @@ between
 betweenbrain
 betweenity
 betweenmaid
-betweenness
 betweens
 betweentimes
 betweenwhiles
@@ -13403,6 +13402,7 @@ bottomers
 bottoming
 bottomland
 bottomless
+betweenness
 bottomlessly
 bottomlessness
 bottomry
