@@ -8808,7 +8808,6 @@ enantiosis
 equivalenced
 equivalences
 equivalency
-equivalencies
 equivalencing
 equivalent
 equivalently
@@ -11675,6 +11674,7 @@ evolved
 electroretinogram
 evolvent
 evolver
+equivalencies
 evolvers
 evolving
 evolvulus
