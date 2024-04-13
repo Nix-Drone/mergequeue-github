@@ -5587,7 +5587,6 @@ amberous
 after
 afteract
 afterage
-afterattack
 afterbay
 afterband
 absorbs
@@ -23079,6 +23078,7 @@ atticisms
 atticist
 atticists
 atticize
+afterattack
 atticized
 aeromantic
 atticizing
