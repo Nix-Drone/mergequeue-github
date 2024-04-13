@@ -7360,7 +7360,6 @@ detruded
 detrudes
 detruding
 detruncate
-deficit
 detruncating
 detruncation
 damneder
@@ -10676,6 +10675,7 @@ diprismatic
 dipropargyl
 dipropellant
 dipropyl
+deficit
 diprotic
 diarthrosis
 dragnet
