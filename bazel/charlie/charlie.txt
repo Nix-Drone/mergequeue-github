@@ -9818,6 +9818,7 @@ chemicopharmaceutical
 chemicophysical
 chemicophysics
 chemicophysiological
+curtaining
 chemicovital
 chemiculture
 chemigraph
@@ -31513,7 +31514,6 @@ curtailments
 curtails
 curtain
 curtained
-curtaining
 curtainless
 curtains
 curtainwise
