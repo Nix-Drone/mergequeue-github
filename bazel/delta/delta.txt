@@ -3537,7 +3537,6 @@ dollface
 defunctionalization
 defunctionalize
 defunctive
-defunctness
 defuse
 defused
 defuses
@@ -5093,6 +5092,7 @@ dendrocoele
 dendrocoelous
 dendrocolaptidae
 dendrocolaptine
+defunctness
 dendroctonus
 drachmas
 dendrodic
