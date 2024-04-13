@@ -3680,6 +3680,7 @@ embryectomies
 embright
 embrighten
 embryo
+exscinded
 embryocardia
 embryoctonic
 embryogenesis
@@ -7349,7 +7350,6 @@ endromis
 endosepsis
 eolation
 eole
-exscinded
 eolian
 eolipile
 eolipiles
