@@ -5917,7 +5917,6 @@ flocks
 frangent
 flockwise
 flocoon
-flocs
 frets
 flodge
 floey
@@ -10290,6 +10289,7 @@ ferryage
 fringillid
 frock
 frocked
+flocs
 frockless
 frocklike
 frocks
