@@ -8763,7 +8763,6 @@ equiproportionality
 equips
 equipt
 equiradial
-equiradiate
 echo
 equiradical
 equirotal
@@ -11679,6 +11678,7 @@ evulgate
 eyepopper
 evulgation
 electroencephalographically
+equiradiate
 electrotechnology
 evulse
 evulsion
