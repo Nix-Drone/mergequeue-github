@@ -3680,7 +3680,6 @@ decard
 departement
 dehepatize
 dehgan
-dehydrant
 dehydrase
 dehydratase
 dimensioned
@@ -11146,6 +11145,7 @@ disbandments
 disbands
 disbar
 dysbarism
+dehydrant
 disbark
 disbarment
 disbarments
