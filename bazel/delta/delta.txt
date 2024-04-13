@@ -1477,7 +1477,6 @@ deactivation
 deactivations
 deactivator
 deactivators
-deadbeats
 defrosts
 deadborn
 deadcenter
@@ -14909,6 +14908,7 @@ dogeship
 dogeships
 dogface
 dogfall
+deadbeats
 dogfennel
 dogfight
 dogfighting
