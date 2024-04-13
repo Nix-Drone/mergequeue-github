@@ -2140,6 +2140,7 @@ fellowship
 fellowshiping
 fellowshipped
 fellowships
+fruited
 fells
 fellside
 fellsman
@@ -6731,7 +6732,6 @@ fogfruits
 foggage
 fogger
 foggers
-fruited
 fibrine
 fairgrass
 foggier
