@@ -3486,7 +3486,6 @@ deformer
 deformeter
 deforming
 destroyingly
-deformism
 deformity
 deformities
 deforms
@@ -17392,6 +17391,7 @@ dolce
 dinitrobenzene
 droppage
 dropped
+deformism
 dropper
 diphenol
 dropperful
