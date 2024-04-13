@@ -2386,6 +2386,7 @@ decime
 dacrya
 decimeter
 downstair
+degorder
 decimeters
 decimetre
 decimolar
@@ -3629,7 +3630,6 @@ deglutitory
 degold
 decathlon
 degomme
-degorder
 degorge
 degradable
 degradand
