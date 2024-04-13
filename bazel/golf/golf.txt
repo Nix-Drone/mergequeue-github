@@ -4938,7 +4938,6 @@ given
 givens
 giver
 givers
-gives
 gyves
 giveth
 givin
@@ -8463,6 +8462,7 @@ gravida
 gravidate
 grendel
 gravidation
+gives
 gravidity
 gravidly
 gravidness
