@@ -176,7 +176,6 @@ ensand
 ergogram
 earthpea
 earthpeas
-earthquake
 earthquaked
 earthquaken
 earthquakes
@@ -5831,6 +5830,7 @@ engrafter
 engrafting
 engraftment
 engrafts
+earthquake
 engrail
 engrailed
 electrogalvanic
