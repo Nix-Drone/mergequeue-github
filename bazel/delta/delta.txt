@@ -3667,7 +3667,6 @@ degree
 degreed
 degreeing
 degreeless
-degrees
 degreewise
 degressive
 degressively
@@ -13725,6 +13724,7 @@ distance
 distanced
 distanceless
 distancy
+degrees
 distancing
 distannic
 distant
