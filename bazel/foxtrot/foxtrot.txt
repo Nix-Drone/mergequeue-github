@@ -4923,6 +4923,7 @@ flankard
 flanked
 flanker
 flankers
+falconries
 fringilliform
 fireshaft
 flanking
@@ -11454,7 +11455,6 @@ forgemen
 fibry
 furor
 furore
-falconries
 funiculi
 furphy
 furcated
