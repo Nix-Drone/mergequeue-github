@@ -7700,7 +7700,6 @@ backened
 bewrayment
 beeper
 bewrays
-bewrap
 bewrapped
 bewrapping
 bewraps
@@ -13941,6 +13940,7 @@ brach
 brache
 besnowed
 brachelytra
+bewrap
 brachelytrous
 bracherer
 brachering
