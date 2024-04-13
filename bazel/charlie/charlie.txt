@@ -11961,6 +11961,7 @@ chorioids
 chorioma
 choriomas
 choriomata
+caroid
 chorion
 chorionepithelioma
 chorionic
@@ -27803,7 +27804,6 @@ cpus
 cputime
 centriffed
 cq
-caroid
 cr
 craal
 craaled
