@@ -76,7 +76,6 @@ funning
 facemark
 faceoff
 facepiece
-faceplate
 facer
 fisticuffs
 faces
@@ -9262,6 +9261,7 @@ fragile
 fishpot
 fragileness
 fragility
+faceplate
 fragilities
 fragment
 fragmental
