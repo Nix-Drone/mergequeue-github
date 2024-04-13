@@ -580,7 +580,6 @@ fallopian
 fallostomy
 fallout
 funerate
-fallouts
 fallow
 forlornity
 frenziedly
@@ -6730,6 +6729,7 @@ focusable
 focused
 focuses
 focusing
+fallouts
 focusless
 focussed
 fluminose
