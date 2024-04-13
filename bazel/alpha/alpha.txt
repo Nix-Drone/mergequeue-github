@@ -17851,6 +17851,7 @@ applicancy
 amintor
 applicant
 applicants
+archdespot
 applicate
 application
 applications
@@ -18810,7 +18811,6 @@ archdeanery
 archdeceiver
 archdefender
 archdepredator
-archdespot
 archdetective
 archdiocesan
 amputee
