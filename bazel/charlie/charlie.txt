@@ -8839,7 +8839,6 @@ chaprassi
 chaps
 chapstick
 concurbit
-chapt
 chaptalization
 chaptalize
 chaptalized
@@ -28525,6 +28524,7 @@ creels
 creem
 creen
 creep
+chapt
 consensual
 creepage
 creepages
