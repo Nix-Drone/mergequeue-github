@@ -12996,7 +12996,6 @@ cyanmethemoglobin
 cyano
 cyanoacetate
 cyanoacetic
-cyanoacrylate
 cyanoaurate
 cyanoauric
 cyanobenzene
@@ -28784,6 +28783,7 @@ cresoline
 cresorcin
 cresorcinol
 cresotate
+cyanoacrylate
 cresotic
 cresotinate
 cresotinic
