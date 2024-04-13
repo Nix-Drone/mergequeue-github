@@ -6562,7 +6562,6 @@ flushboard
 flushed
 flusher
 flusherman
-flushers
 flushes
 flushest
 flushgate
@@ -9028,6 +9027,7 @@ fourflushers
 fourfold
 fourgon
 fourgons
+flushers
 fourhanded
 fourier
 fourierian
