@@ -3367,7 +3367,6 @@ embarked
 embarking
 embarkment
 embarks
-embarment
 embarque
 embarras
 embarrased
@@ -12995,6 +12994,7 @@ expeditated
 expeditating
 expeditation
 expedited
+embarment
 expeditely
 expediter
 expediters
