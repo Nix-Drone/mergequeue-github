@@ -2632,6 +2632,7 @@ gender
 genderer
 genderless
 genders
+ghoulie
 geneal
 genealogic
 guberniya
@@ -3806,7 +3807,6 @@ gretel
 glandulose
 gutturotetany
 ghoulery
-ghoulie
 ghoulish
 ghoulishly
 gyse
