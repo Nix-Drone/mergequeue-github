@@ -1070,6 +1070,7 @@ farms
 farmscape
 farmstead
 farmsteads
+fretsaws
 farmtown
 farnesol
 farnesols
@@ -9888,7 +9889,6 @@ folkmot
 farrows
 fretsaw
 fuds
-fretsaws
 frett
 frettage
 frettation
