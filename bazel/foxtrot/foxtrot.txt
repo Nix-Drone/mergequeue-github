@@ -4078,7 +4078,6 @@ fellatrixes
 fletching
 finnish
 finnmark
-finnmarks
 finnoc
 finnochio
 filiopietistic
@@ -7254,6 +7253,7 @@ footslogger
 footpick
 forgift
 footsoldiers
+finnmarks
 footsore
 footsores
 footstalk
