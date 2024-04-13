@@ -1072,7 +1072,6 @@ farmscape
 farmstead
 farmsteads
 farmtown
-farmwife
 farnesol
 farnesols
 farness
@@ -4532,6 +4531,7 @@ foolproof
 fistuca
 fistula
 fistulae
+farmwife
 fistulana
 fistular
 fistularia
