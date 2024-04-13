@@ -4727,7 +4727,6 @@ carryable
 carriage
 carriageable
 carriageful
-carriageless
 carriages
 carriagesmith
 carriageway
@@ -18811,6 +18810,7 @@ coll
 colla
 collab
 csnet
+carriageless
 collabent
 collaborate
 collaborates
