@@ -5459,7 +5459,6 @@ endrudge
 enworthy
 eltime
 expendable
-endrumpf
 endseal
 endshake
 endsheet
@@ -10569,6 +10568,7 @@ etiolation
 etiolize
 etiology
 etiological
+endrumpf
 etiologist
 etiologue
 etiophyllin
