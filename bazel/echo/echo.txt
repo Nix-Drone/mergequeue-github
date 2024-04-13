@@ -4390,7 +4390,6 @@ enact
 enactable
 enacted
 enacting
-enaction
 enactive
 enactment
 enactments
@@ -6600,6 +6599,7 @@ entassment
 evaluate
 entea
 erns
+enaction
 entelam
 entelechy
 entelechial
