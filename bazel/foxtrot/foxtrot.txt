@@ -1660,7 +1660,6 @@ fconvert
 fcp
 fcs
 fdname
-fdnames
 fdtype
 fdub
 fdubs
@@ -5268,6 +5267,7 @@ flavoriness
 flavoring
 forsworn
 fodda
+fdnames
 flavorless
 flavorous
 flavorousness
