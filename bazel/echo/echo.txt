@@ -5918,7 +5918,6 @@ enhelm
 elysia
 enhemospore
 enherit
-enheritage
 enheritance
 enhydra
 enhydrinae
@@ -10646,6 +10645,7 @@ eucarpic
 eucatropine
 eucgia
 eucharis
+enheritage
 eucharises
 epilachnides
 executers
