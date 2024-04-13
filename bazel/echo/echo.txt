@@ -2285,7 +2285,6 @@ electricity
 electricize
 electrics
 electriferous
-energumen
 electrifiable
 electrification
 electrified
@@ -7540,6 +7539,7 @@ empight
 ephemeron
 ephemeroptera
 earthlike
+energumen
 ephemerous
 ephererist
 ephesian
