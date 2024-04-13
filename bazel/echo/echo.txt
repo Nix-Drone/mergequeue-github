@@ -5533,6 +5533,7 @@ energize
 exploiters
 energized
 energizer
+estall
 energizers
 energizes
 energizing
@@ -9947,7 +9948,6 @@ estafet
 estafette
 endothys
 estafetted
-estall
 espaliering
 estamene
 estamin
