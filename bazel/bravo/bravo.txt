@@ -12634,6 +12634,7 @@ boojum
 book
 bookable
 bookbind
+boughed
 bookbinder
 ballistics
 bookbindery
@@ -13478,7 +13479,6 @@ bouge
 bougee
 bougeron
 bough
-boughed
 barra
 boughy
 boughpot

@@ -6725,6 +6725,7 @@ aide
 aided
 aydendron
 aidenn
+arraigner
 aider
 aiders
 aides
@@ -20184,7 +20185,6 @@ arraign
 arraignable
 arraignableness
 arraigned
-arraigner
 aerosats
 arraigning
 arraignment
