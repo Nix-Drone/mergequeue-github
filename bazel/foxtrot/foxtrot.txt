@@ -4908,7 +4908,6 @@ fertilisable
 flanders
 flandowser
 flane
-flanerie
 flaneries
 flaneur
 flaneurs
@@ -8175,6 +8174,7 @@ forfaulture
 flaglike
 forfeit
 forfeitableness
+flanerie
 forfeited
 forfeiter
 fatter
