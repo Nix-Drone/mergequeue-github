@@ -2435,6 +2435,7 @@ deckle
 deckman
 deckpipe
 decks
+dulls
 deckswabber
 decl
 declaim
@@ -18039,7 +18040,6 @@ dullness
 dullnesses
 debatably
 dullpate
-dulls
 dullsome
 dullsville
 dulness
