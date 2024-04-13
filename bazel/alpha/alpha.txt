@@ -1212,7 +1212,6 @@ academe
 academes
 academy
 academia
-academial
 academian
 academic
 academical
@@ -22976,6 +22975,7 @@ attalea
 attaleh
 attalid
 attame
+academial
 attapulgite
 attargul
 attars
