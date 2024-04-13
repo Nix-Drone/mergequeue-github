@@ -2631,6 +2631,7 @@ cannonballs
 cannoned
 chittered
 cannoneer
+cushioncraft
 cannoneering
 cannoneers
 clownish
@@ -31653,7 +31654,6 @@ cushily
 cushiness
 cushing
 cushion
-cushioncraft
 cushioned
 cushionet
 cushionflower
