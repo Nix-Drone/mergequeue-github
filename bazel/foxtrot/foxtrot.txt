@@ -7207,7 +7207,6 @@ floodproof
 footmanship
 footmark
 footmen
-footmenfootpad
 footnote
 footnoted
 footnotes
@@ -11087,6 +11086,7 @@ function
 functional
 functionalism
 functionalist
+footmenfootpad
 functionalistic
 farceuse
 functionalities
