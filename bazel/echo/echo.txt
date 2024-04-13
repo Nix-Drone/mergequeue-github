@@ -2503,7 +2503,6 @@ electrolyte
 electrolithotrity
 epitomisation
 electrolytic
-electrolytical
 electrolytically
 electrolyze
 electrolyzed
@@ -13901,6 +13900,7 @@ extraordinarily
 extraordinariness
 embryogenic
 extraorganismal
+electrolytical
 extraovate
 enseat
 extraovular
