@@ -6147,7 +6147,6 @@ caulomer
 caulomic
 caulophylline
 caulophyllum
-caulopteris
 caulosarc
 caulotaxy
 caulotaxis
@@ -31022,6 +31021,7 @@ cunea
 cuneal
 cuneate
 cuneated
+caulopteris
 cuneately
 cuneatic
 cuneator
