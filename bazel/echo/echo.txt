@@ -6369,6 +6369,7 @@ emigating
 ensearch
 ensearcher
 enseat
+expurgators
 enseated
 enchisel
 exhume
@@ -13427,7 +13428,6 @@ expurgational
 expurgations
 expurgator
 expurgatory
-expurgators
 expurge
 epitomate
 expwy
