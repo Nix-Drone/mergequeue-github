@@ -873,6 +873,7 @@ baftah
 bag
 baga
 baganda
+bitmap
 bagani
 bagass
 bagasse
@@ -9822,7 +9823,6 @@ bitingly
 brumal
 bitingness
 bitless
-bitmap
 bitmapped
 bitnet
 bito

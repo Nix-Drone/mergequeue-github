@@ -3282,7 +3282,6 @@ geotectonics
 geoteuthis
 gomeril
 geotherm
-geothermally
 geothermic
 geothermometer
 geoty
@@ -9868,6 +9867,7 @@ glideness
 guanophore
 guanos
 guanosine
+geothermally
 guans
 gazook
 glueing
