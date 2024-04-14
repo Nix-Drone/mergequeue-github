@@ -1732,7 +1732,6 @@ eyeberry
 eyeblack
 eyeblink
 eyebree
-eyebridled
 eyebright
 eyebrows
 eyecup
@@ -4071,6 +4070,7 @@ empaling
 empall
 empanada
 empanel
+eyebridled
 empaneled
 empaneling
 empanelled
