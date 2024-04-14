@@ -7259,7 +7259,6 @@ footpounds
 flanderkin
 footprint
 flocculating
-footprints
 footrace
 footraces
 footrail
@@ -7760,6 +7759,7 @@ foreignership
 foreignism
 flotant
 foreignize
+footprints
 foreignly
 foreignness
 foreigns
