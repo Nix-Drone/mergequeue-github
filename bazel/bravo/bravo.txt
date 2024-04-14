@@ -10577,7 +10577,6 @@ bleaks
 bleared
 blearedness
 bleareye
-bleareyed
 belt
 bleary
 blearyeyedness
@@ -11503,6 +11502,7 @@ blutwurst
 bm
 bn
 bnf
+bleareyed
 bo
 boa
 boaedon
