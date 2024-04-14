@@ -6685,7 +6685,6 @@ enteromorpha
 enteron
 enteroneuritis
 ewelease
-enterons
 enteroparalysis
 enteroparesis
 enteropathy
@@ -13618,6 +13617,7 @@ exterminate
 exterminated
 etherialize
 exterminates
+enterons
 exterminating
 extermination
 exterminative
