@@ -6428,6 +6428,7 @@ ensigncy
 electroplaque
 ensigncies
 ensigned
+entranceway
 ensignhood
 ensignry
 ensilaged
@@ -7047,7 +7048,6 @@ entrancedly
 entrancement
 entrancements
 entrances
-entranceway
 entrancing
 entrancingly
 entrants
