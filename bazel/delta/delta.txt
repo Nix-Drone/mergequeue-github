@@ -2427,7 +2427,6 @@ decipium
 dramshops
 decision
 decisional
-decisionmake
 decisions
 decisis
 decisive
@@ -4389,6 +4388,7 @@ demanganize
 demarcate
 droil
 demarcated
+decisionmake
 demarcates
 demarcating
 dormancy
