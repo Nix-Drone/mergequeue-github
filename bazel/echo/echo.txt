@@ -6237,7 +6237,6 @@ enquarter
 enqueue
 enqueued
 enqueues
-enquicken
 enquire
 eten
 enquired
@@ -11602,6 +11601,7 @@ evildoer
 evildoers
 evildoing
 eviler
+enquicken
 evilest
 exoergic
 eviller
