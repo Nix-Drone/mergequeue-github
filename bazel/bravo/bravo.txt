@@ -6080,6 +6080,7 @@ bol
 bemuzzles
 bemuzzling
 ben
+binary
 bena
 benab
 benacus
@@ -8802,7 +8803,6 @@ byname
 bynames
 binaphthyl
 binapthyl
-binary
 binaries
 binarium
 binate
