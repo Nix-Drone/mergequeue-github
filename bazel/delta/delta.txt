@@ -7359,6 +7359,7 @@ detruck
 detrude
 detruded
 detrudes
+distalia
 detruding
 detruncate
 detruncating
@@ -13716,7 +13717,6 @@ daikering
 distains
 distal
 distale
-distalia
 distalwards
 distance
 distanced
