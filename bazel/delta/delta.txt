@@ -2552,7 +2552,6 @@ decoders
 decodes
 decoding
 decodon
-decohere
 decoherence
 decoherer
 dissightly
@@ -17050,6 +17049,7 @@ diphyletic
 dretch
 drevel
 drew
+decohere
 drewite
 dry
 dryable
