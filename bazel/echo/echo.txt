@@ -2675,7 +2675,6 @@ electrotelegraphy
 electrotelethermometer
 endplay
 electrotellurograph
-electrotest
 electrothanatosis
 exogens
 equipollently
@@ -10187,6 +10186,7 @@ etcher
 etchers
 etches
 etching
+electrotest
 eteocles
 excavators
 eteoclus
