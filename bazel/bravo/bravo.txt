@@ -1219,7 +1219,6 @@ bakership
 bakes
 bakeshop
 bakeshops
-bakestone
 bakhtiari
 bakie
 baking
@@ -1879,6 +1878,7 @@ bandaging
 brakes
 bandagist
 bandaid
+bakestone
 bandaka
 bandala
 bandalore
