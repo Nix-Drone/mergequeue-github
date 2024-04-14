@@ -15051,7 +15051,6 @@ cyul
 civ
 carbonado
 cive
-civet
 civetlike
 civetone
 civets
@@ -25785,6 +25784,7 @@ corrosional
 corrosionproof
 corrosive
 corrosived
+civet
 corrosively
 corrosiveness
 corrosives
