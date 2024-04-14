@@ -1,6 +1,9 @@
 
 mode = "parallelqueue"
 
+[trunk]
+api = "api.trunk-staging.io"
+
 [git]
 name = "trunk bot"
 email = "bot@trunk.io"
