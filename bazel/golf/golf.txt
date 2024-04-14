@@ -3620,7 +3620,6 @@ gallimaufries
 gangwaymen
 gesture
 gestureless
-gesturer
 gesturers
 gesturist
 gesundheit
@@ -5406,6 +5405,7 @@ glib
 glibber
 gorgonizing
 glibbery
+gesturer
 gorilla
 glibly
 glibness
