@@ -7870,6 +7870,7 @@ foreparts
 forepass
 forepast
 forepaw
+fordable
 forepaws
 forepeak
 forepeaks
@@ -10858,7 +10859,6 @@ fulcrumage
 fulcruming
 fulcrums
 foolhardihood
-fordable
 fulfil
 fulfill
 fulfilled
