@@ -7032,6 +7032,7 @@ destriers
 destroy
 destroyable
 destroyed
+dismays
 destroyer
 destroyers
 destroying
@@ -12676,7 +12677,6 @@ dismayful
 dehypnotizing
 dismayfully
 dismail
-dismays
 dene
 dismal
 dismaler
