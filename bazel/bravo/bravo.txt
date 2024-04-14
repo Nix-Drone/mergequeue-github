@@ -4387,7 +4387,6 @@ bebrine
 bebrother
 bebrush
 bidactyle
-bebump
 bemirrorment
 bebusy
 bebuttoned
@@ -10198,6 +10197,7 @@ blackmails
 blackman
 blackneck
 blackness
+bebump
 blackout
 blackpatch
 blackplate
