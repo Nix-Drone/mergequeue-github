@@ -47,6 +47,11 @@ jobs:
           echo 't ${{ steps.get-demo-config.outputs.test }}'
           echo 'build ${{ steps.get-demo-config.outputs.build }}'
 
+      - name: out2
+        if: steps.get-demo-config.outputs.mode == 'parallelqueue'
+        run: |
+          echo "i did it - we're in parallel"
+
       - name: bazel pr targets
         uses: trunk-io/merge-action@v1
         if:
