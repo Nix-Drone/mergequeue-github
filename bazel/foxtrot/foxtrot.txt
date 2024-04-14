@@ -4080,7 +4080,6 @@ finking
 finland
 finlandization
 finless
-finlet
 finlike
 finmark
 finmarks
@@ -7652,6 +7651,7 @@ foredone
 foredoom
 foredoomed
 foredoomer
+finlet
 fgn
 fretter
 foredooms
