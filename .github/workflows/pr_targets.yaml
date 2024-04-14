@@ -33,7 +33,7 @@ jobs:
           output=$(./mq config)
           echo "$output" | jq -r '.mode'
 
-          run: echo "test=hello" >> "$GITHUB_OUTPUT"
+          echo "test=hello" >> "$GITHUB_OUTPUT"
 
           echo "mode=$(echo "$output" | jq -r '.mode')" >> $GITHUB_ENV
           echo "mode=$(echo "$output" | jq -r '.mode')" >> $GITHUB_OUTPUT
@@ -44,6 +44,7 @@ jobs:
       - name: out
         run: |
           echo 'mode ${{ steps.get-demo-config.outputs.mode }}'
+          echo 't ${{ steps.get-demo-config.outputs.test }}'
           echo 'build ${{ steps.get-demo-config.outputs.build }}'
 
       - name: bazel pr targets
