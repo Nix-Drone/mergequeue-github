@@ -10043,7 +10043,6 @@ esthesioblast
 esthesiogen
 esthesiogeny
 esthesiogenic
-esthesiography
 esthesiology
 esthesiometer
 excerption
@@ -12968,6 +12967,7 @@ expecter
 expecters
 expecting
 expectingly
+esthesiography
 expection
 expective
 expectorant
