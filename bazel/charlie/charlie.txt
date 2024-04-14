@@ -13809,7 +13809,6 @@ cineaste
 cineasts
 cynebot
 cinecamera
-cinefaction
 cinefilm
 cynegetic
 cynegetics
@@ -22325,6 +22324,7 @@ cony
 conia
 coniacian
 conic
+cinefaction
 conical
 conicality
 conically
