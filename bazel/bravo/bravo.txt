@@ -5595,7 +5595,6 @@ beladies
 beladying
 brokenness
 beladle
-belage
 belah
 belay
 belayed
@@ -6407,6 +6406,7 @@ benzenes
 benzenyl
 benzenoid
 billsticking
+belage
 benzhydroxamic
 benzidin
 benzidine
