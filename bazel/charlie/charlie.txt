@@ -18510,7 +18510,6 @@ coyness
 coynesses
 coinfeftment
 coinfer
-coinferred
 coinferring
 coinfers
 coinfinite
@@ -25675,6 +25674,7 @@ correl
 correlatable
 correlate
 correlated
+coinferred
 correlates
 correlating
 correlational
