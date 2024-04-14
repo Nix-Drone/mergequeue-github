@@ -199,7 +199,6 @@ gaggers
 ganyie
 gagging
 gaggle
-gaggled
 gaggler
 gaggles
 gaggling
@@ -3850,6 +3849,7 @@ gibbar
 gibbartas
 gibbed
 gibber
+gaggled
 gibbered
 gibberella
 gibbergunyah
