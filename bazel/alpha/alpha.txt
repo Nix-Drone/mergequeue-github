@@ -5253,7 +5253,6 @@ afacing
 afaint
 afara
 afars
-afb
 afd
 afear
 afeard
@@ -21571,6 +21570,7 @@ anotropia
 assailants
 absolvable
 alacritous
+afb
 assailed
 assailer
 assailers
