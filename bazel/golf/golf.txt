@@ -6484,7 +6484,6 @@ gobinist
 gobio
 gomeral
 glove
-geoglyphic
 garnet
 gobioid
 gobioidea
@@ -8411,6 +8410,7 @@ graveling
 gravelish
 gravelled
 gravelly
+geoglyphic
 gravelliness
 gravelling
 gyroceras
