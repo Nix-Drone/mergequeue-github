@@ -14741,7 +14741,6 @@ cistudo
 colonic
 cistus
 cistuses
-cistvaen
 cit
 citable
 citadel
@@ -19249,6 +19248,7 @@ colonels
 colonelship
 colonelships
 coloner
+cistvaen
 colones
 colonette
 colongitude
