@@ -4193,7 +4193,6 @@ admitters
 admitty
 admittible
 admitting
-admix
 admixed
 admixes
 adempted
@@ -20514,6 +20513,7 @@ arteriospasm
 arteriostenosis
 arteriostosis
 arteriostrepsis
+admix
 arteriotome
 arteriotomy
 arteriotomies
