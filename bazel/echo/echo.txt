@@ -2432,7 +2432,6 @@ electroendosmosis
 electroendosmotic
 electroengrave
 electroengraving
-electroergometer
 electroetching
 electroextraction
 expedient
@@ -11286,6 +11285,7 @@ evadable
 evade
 evaded
 evader
+electroergometer
 evades
 evading
 embezzle
