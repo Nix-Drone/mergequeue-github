@@ -54,9 +54,6 @@ jobs:
           API_URL: https://api.trunk-staging.io:443/v1/setImpactedTargets
 
       - name: named pr targets
-        if:
-          steps.get-demo-config.outputs.mode == 'parallelqueue' &&
-          steps.get-demo-config.outputs.build != 'bazel'
         run: |
           echo "::group::GitHub Json"
           TEMP_FILE=$(mktemp)
