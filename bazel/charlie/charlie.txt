@@ -14048,7 +14048,6 @@ cipherhood
 ciphering
 cyphering
 ciphers
-cyphers
 ciphertext
 ciphertexts
 cyphomandra
@@ -27950,6 +27949,7 @@ coulometry
 crakefeet
 craker
 crakes
+cyphers
 craking
 crakow
 cram
