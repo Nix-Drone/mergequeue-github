@@ -5341,7 +5341,6 @@ begrimes
 begriming
 begrimmed
 begrimming
-begrims
 beseemly
 begripe
 begroan
@@ -9077,6 +9076,7 @@ biome
 biomechanical
 brangler
 biomechanics
+begrims
 biomedicine
 biomes
 biometeorology
