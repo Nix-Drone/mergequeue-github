@@ -4620,7 +4620,6 @@ encephalothlipsis
 encephalotome
 encephalotomy
 encephalotomies
-exothermicity
 earths
 encephalous
 endoplasma
@@ -8192,6 +8191,7 @@ epirogenic
 epirote
 epirotic
 epirrheme
+exothermicity
 episarcine
 episarkine
 eavesing
