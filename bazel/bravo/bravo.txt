@@ -3589,6 +3589,7 @@ bathing
 bathypelagic
 babesiasis
 bathyplankton
+buglers
 baygall
 bathyscaph
 briquetted
@@ -16867,7 +16868,6 @@ buginese
 buginvillaea
 bugle
 bugled
-buglers
 buglet
 bugleweed
 buglewort
