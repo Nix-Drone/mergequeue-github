@@ -1276,7 +1276,6 @@ fastigiately
 fastigious
 fastigium
 fastigiums
-formatters
 fastiia
 fasting
 fastingly
@@ -5457,6 +5456,7 @@ flensed
 flenser
 flensers
 flenses
+formatters
 flensing
 flentes
 flerry
