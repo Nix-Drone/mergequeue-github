@@ -3344,6 +3344,7 @@ couplets
 capstone
 capsula
 coached
+consignificate
 capsular
 capsulate
 capsulated
@@ -22874,7 +22875,6 @@ consignee
 consignees
 consignify
 consignificant
-consignificate
 consignification
 consignificative
 consignificator
