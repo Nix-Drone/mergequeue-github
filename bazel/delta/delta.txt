@@ -8177,7 +8177,6 @@ diagenesis
 diagenetic
 diageotropy
 diageotropic
-diageotropism
 diaglyph
 diaglyphic
 ductus
@@ -15478,6 +15477,7 @@ dampeners
 doni
 donia
 donicker
+diageotropism
 dendritically
 donjon
 dung
