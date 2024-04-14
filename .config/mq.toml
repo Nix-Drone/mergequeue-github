@@ -1,5 +1,5 @@
 
-mode = "singlequeue"
+mode = "parallelqueue"
 
 [git]
 name = "trunk bot"
