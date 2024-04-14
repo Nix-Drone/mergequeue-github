@@ -8109,7 +8109,6 @@ bicone
 biconic
 biconical
 biconically
-biconjugate
 biconnected
 biconsonantal
 biconvex
@@ -12660,6 +12659,7 @@ booklike
 bookling
 booklore
 booklores
+biconjugate
 booklouse
 booklover
 bookmaker
