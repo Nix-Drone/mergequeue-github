@@ -9840,7 +9840,6 @@ chemistries
 chemists
 chemitype
 chemitypy
-chemitypies
 chemizo
 chemmy
 chemoautotrophy
@@ -12351,6 +12350,7 @@ chromatics
 chromatid
 chromatin
 cyclonoscope
+chemitypies
 chromatinic
 chromatioideae
 chromatype
