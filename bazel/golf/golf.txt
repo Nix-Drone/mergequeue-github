@@ -6343,7 +6343,6 @@ goa
 grammar
 goad
 goaded
-grammaticize
 goading
 goadlike
 goads
@@ -8849,6 +8848,7 @@ grevillea
 grew
 grewhound
 grewia
+grammaticize
 grewsome
 grooty
 grewsomely
