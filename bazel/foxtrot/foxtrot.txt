@@ -3237,7 +3237,6 @@ fidded
 ferroinclave
 fidding
 fiddle
-fiddleback
 fiddlebow
 fiddlecome
 fiddled
@@ -5965,6 +5964,7 @@ floorless
 floormen
 floors
 folkways
+fiddleback
 floorshift
 fawny
 floorshifts
