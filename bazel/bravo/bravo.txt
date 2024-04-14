@@ -2292,7 +2292,6 @@ bugbears
 baratte
 barauna
 baraza
-barb
 barba
 barbacan
 barbacoa
@@ -3146,6 +3145,7 @@ basementless
 basements
 bloodshot
 basename
+barb
 behove
 baseness
 basenesses
