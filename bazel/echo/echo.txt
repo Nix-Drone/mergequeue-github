@@ -1087,6 +1087,7 @@ edh
 extermine
 edhs
 edibile
+earthlike
 equipper
 edibility
 edible
@@ -7556,7 +7557,6 @@ ephemeromorphic
 empight
 ephemeron
 ephemeroptera
-earthlike
 ephemerous
 ephererist
 ephesian
