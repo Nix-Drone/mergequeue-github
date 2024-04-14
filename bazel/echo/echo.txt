@@ -3804,6 +3804,7 @@ eme
 eversion
 emeerate
 expulsed
+epilogs
 emeerates
 emeers
 emeership
@@ -6782,7 +6783,6 @@ entertainment
 entertainments
 epicenters
 entertains
-epilogs
 entertake
 encaging
 entertissue
