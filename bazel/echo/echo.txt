@@ -6867,7 +6867,6 @@ entitatively
 entities
 emetin
 entitle
-entitled
 enriched
 epochally
 entitling
@@ -7406,6 +7405,7 @@ engird
 emblemized
 epacris
 epact
+entitled
 epactal
 epaenetic
 epagogic
