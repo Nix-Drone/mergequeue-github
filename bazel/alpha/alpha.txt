@@ -8543,7 +8543,6 @@ alkynes
 alkitran
 alkool
 alkoran
-alkoranic
 alkoxy
 alkoxid
 alkoxide
@@ -11183,6 +11182,7 @@ amphipleura
 amphiploid
 amphiploidy
 amphipneust
+alkoranic
 amphipneusta
 aesthesis
 amphipneustic
