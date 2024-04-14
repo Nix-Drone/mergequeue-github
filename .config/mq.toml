@@ -14,6 +14,7 @@ sleep_for = "5m"
 labels = ""       # label to apply to pull request on creation (comma separated list)
 comment = ""
 requests_per_hour = 30 # target number of pull requests per hour
+run_generate_for = "1 hour"
 
 # the max number of deps in this repo. setting to 3 for example will cause
 # files in alpha, bravo, charlie deps to be changed
@@ -31,3 +32,4 @@ logical_conflict_file = "logical-conflict.txt"
 labels = ""
 # comment to post to queue
 comment = "/trunk merge"
+
