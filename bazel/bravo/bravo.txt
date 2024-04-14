@@ -6390,7 +6390,6 @@ benzanthracene
 bibs
 benzanthrone
 bocklogged
-benzazimide
 benzazine
 benzazole
 buhrstone
@@ -12866,6 +12865,7 @@ bootleg
 bootleger
 bootlegged
 bootlegger
+benzazimide
 bootleggers
 bootlegging
 bootlegs
