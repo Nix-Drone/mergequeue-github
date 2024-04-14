@@ -2399,7 +2399,6 @@ electrodeposition
 electrodepositor
 escalation
 electrodes
-electrodesiccate
 electrodesiccation
 electrodiagnosis
 electrodiagnostic
@@ -4484,6 +4483,7 @@ enations
 enaunter
 enbaissing
 enbibe
+electrodesiccate
 enbloc
 enbrave
 enbusshe
