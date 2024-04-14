@@ -6074,7 +6074,6 @@ enlisted
 enlistee
 enlistees
 enlister
-enlisting
 epistrophe
 enlistment
 enlistments
@@ -11772,6 +11771,7 @@ exalte
 exalted
 exaltedness
 exalters
+enlisting
 exalting
 exhilarate
 exaltment
