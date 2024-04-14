@@ -9801,7 +9801,6 @@ chemicalization
 chemicalize
 chemically
 chemicals
-chemick
 chemicked
 chemicker
 chemicking
@@ -28284,6 +28283,7 @@ cratered
 craterellus
 craterid
 carabineer
+chemick
 crateriform
 cratering
 craterkin
