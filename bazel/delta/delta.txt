@@ -2367,6 +2367,7 @@ decylene
 decylenic
 deciles
 decylic
+diffusion
 deciliter
 deciliters
 decilitre
@@ -9378,7 +9379,6 @@ dikamalli
 diffusimeter
 diffusing
 diffusiometer
-diffusion
 diffusional
 diffusionism
 diffusionist
