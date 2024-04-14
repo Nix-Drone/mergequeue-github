@@ -6685,7 +6685,6 @@ celioparacentesis
 celiopyosis
 celiorrhea
 cundurango
-celiosalpingectomy
 celiosalpingotomy
 celioschisis
 celioscope
@@ -21969,6 +21968,7 @@ confirmedness
 confirmee
 confirmer
 confirming
+celiosalpingectomy
 confirmingly
 confirmity
 confirmment
