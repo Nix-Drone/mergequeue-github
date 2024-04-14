@@ -7595,7 +7595,6 @@ cerebron
 cerebronic
 cerebroparietal
 cerebropedal
-cerebrophysiology
 cerebropontile
 cerebropsychosis
 contraprop
@@ -26730,6 +26729,7 @@ counterdeclaration
 counterdecree
 counterdefender
 counterdemonstrate
+cerebrophysiology
 counterdemonstrator
 counterdeputation
 chinois
