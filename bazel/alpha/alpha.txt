@@ -8538,7 +8538,6 @@ alkylidene
 alkylize
 aphidiinae
 alkylogen
-alkylol
 alkyloxy
 alkyls
 alkin
@@ -25066,6 +25065,7 @@ ax
 axbreaker
 axe
 axebreaker
+alkylol
 axed
 axel
 axels
