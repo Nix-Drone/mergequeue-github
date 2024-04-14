@@ -3415,6 +3415,7 @@ bassoon
 bedash
 bassoonist
 bassoonists
+bedravel
 bassorin
 bassos
 bassus
@@ -4793,7 +4794,6 @@ bedrape
 bedraped
 bedrapes
 bedraping
-bedravel
 bedread
 bedrel
 bedrench
