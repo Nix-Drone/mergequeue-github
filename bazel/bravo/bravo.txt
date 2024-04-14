@@ -171,7 +171,6 @@ baccalaureat
 baccalaureate
 baccalaureates
 baccalaureus
-baccar
 baccara
 baroques
 bdrm
@@ -8270,6 +8269,7 @@ bierstube
 bierstuben
 byestreet
 biethnic
+baccar
 bietle
 byeworker
 byeworkman
