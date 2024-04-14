@@ -2622,7 +2622,6 @@ baryphonic
 baris
 barish
 barysilite
-barysphere
 barit
 baryta
 bloodlike
@@ -13196,6 +13195,7 @@ bosseyed
 bosselation
 bronchiectatic
 bosses
+barysphere
 bosset
 barebacked
 benegro
