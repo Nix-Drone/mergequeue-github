@@ -4431,7 +4431,6 @@ enanthesis
 enantioblastous
 enantiomer
 enantiomeric
-enantiomorph
 enantiomorphy
 enantiomorphic
 enantiomorphism
@@ -6301,6 +6300,7 @@ enrobe
 enrobed
 enrobement
 enrober
+enantiomorph
 enrobers
 enrobes
 enrobing
