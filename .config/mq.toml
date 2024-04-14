@@ -3,7 +3,7 @@ mode = "singlequeue"
 name = "trunk bot"
 email = "bot@trunk.io"
 [test]
-flake_rate = 0.10
+flake_rate = 0.40
 # how long test should spin for (can be described as 10s, 7m, 1hr)
 sleep_for = "35m"
 [pullrequest]
