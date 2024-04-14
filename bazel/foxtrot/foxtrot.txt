@@ -1668,6 +1668,7 @@ fconv
 farcin
 fcp
 friars
+four
 fdnames
 fdtype
 fdub
@@ -9014,7 +9015,6 @@ fouquieria
 furane
 fouquieriaceae
 fouquieriaceous
-four
 fourb
 fourball
 flaser
