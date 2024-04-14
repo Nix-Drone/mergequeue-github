@@ -356,7 +356,6 @@ daydreaming
 daydreamlike
 daydreams
 digmeat
-damageable
 daydrudge
 dayflies
 dayflower
@@ -1290,6 +1289,7 @@ daukin
 daulias
 dault
 daunch
+damageable
 dauncy
 doxantha
 daunder
