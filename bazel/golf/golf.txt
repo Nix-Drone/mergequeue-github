@@ -1339,7 +1339,6 @@ gabbles
 gte
 garbing
 garble
-garbleable
 glycerogel
 garbled
 garbler
@@ -5896,6 +5895,7 @@ galvanomagnet
 glossist
 glossitic
 glossitis
+garbleable
 glossless
 glossocarcinoma
 glossocele
