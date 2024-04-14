@@ -5432,7 +5432,6 @@ behears
 behearse
 behedge
 beheld
-behelp
 behemoth
 behemothic
 behemoths
@@ -8706,6 +8705,7 @@ basil
 billposter
 billposting
 bills
+behelp
 billsticker
 billtong
 bilo
