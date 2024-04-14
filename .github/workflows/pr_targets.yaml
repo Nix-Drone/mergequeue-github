@@ -33,7 +33,10 @@ jobs:
           output=$(./mq config)
           echo "$output" | jq -r '.mode'
 
+          run: echo "test=hello" >> "$GITHUB_OUTPUT"
+
           echo "mode=$(echo "$output" | jq -r '.mode')" >> $GITHUB_ENV
+          echo "mode=$(echo "$output" | jq -r '.mode')" >> $GITHUB_OUTPUT
           echo "build=$(echo "$output" | jq -r '.build')" >> $GITHUB_ENV
           echo "flake_rate=$(echo "$output" | jq -r '.flake_rate')" >> $GITHUB_ENV
           echo "sleep_for=$(echo "$output" | jq -r '.sleep_for')" >> $GITHUB_ENV
