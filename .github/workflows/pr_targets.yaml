@@ -36,10 +36,10 @@ jobs:
           echo "flake_rate=$(echo "$output" | jq -r '.flake_rate')" >> $GITHUB_ENV
           echo "sleep_for=$(echo "$output" | jq -r '.sleep_for')" >> $GITHUB_ENV
 
-      - name: compute pr targets
+      - name: bazel pr targets
         uses: trunk-io/merge-action@v1
         if:
-          steps.get-demo-config.outputs.mode != 'singlequeue' && steps.get-demo-config.outputs.build
+          steps.get-demo-config.outputs.mode == 'parallelqueue' && steps.get-demo-config.outputs.build
           == 'bazel'
         with:
           trunk-token: ${{ secrets.TRUNK_STAGING_ORG_API_TOKEN }}
@@ -47,3 +47,16 @@ jobs:
           verbose: 1
         env:
           API_URL: https://api.trunk-staging.io:443/v1/setImpactedTargets
+
+      - name: named pr targets
+        if:
+          steps.get-demo-config.outputs.mode == 'parallelqueue' && steps.get-demo-config.outputs.build != 'bazel'
+        run: |
+          echo "::group::GitHub Json"
+          TEMP_FILE=$(mktemp)
+          echo '${{ toJSON(github) }}' > $TEMP_FILE
+          echo "::endgroup::"
+          ./mq -- upload-targets --github-json=$TEMP_FILE
+        env:
+          TRUNK_TOKEN: ${{ secrets.TRUNK_STAGING_ORG_API_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}          
