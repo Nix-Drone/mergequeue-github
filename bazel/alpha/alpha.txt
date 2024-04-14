@@ -5305,7 +5305,6 @@ affectivity
 affectless
 affectlessness
 affector
-adaptational
 affectual
 affectum
 affectuous
@@ -22496,6 +22495,7 @@ atheist
 atheistic
 atheistical
 atheistically
+adaptational
 atheisticalness
 atheisticness
 atheize
