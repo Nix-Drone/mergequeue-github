@@ -12080,7 +12080,6 @@ arteriofibrosis
 anatomies
 anatomiless
 anatomise
-anatomised
 anatomiser
 anatomising
 anatomist
@@ -22882,6 +22881,7 @@ antimonarch
 atropidae
 atropin
 atropine
+anatomised
 atropins
 atropisms
 atropos
