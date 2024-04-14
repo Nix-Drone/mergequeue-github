@@ -3172,7 +3172,6 @@ capmakers
 cordmaker
 capmaking
 capman
-capmint
 capnodium
 capnoides
 colonizes
@@ -20177,6 +20176,7 @@ caramelization
 commodata
 commodate
 commodation
+capmint
 carosella
 commodatum
 commode
