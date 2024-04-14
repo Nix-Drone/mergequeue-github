@@ -243,7 +243,6 @@ facultied
 faculties
 facultize
 facund
-facundity
 fad
 fadable
 fadaise
@@ -3379,6 +3378,7 @@ fiefdom
 fiefs
 forfeitable
 fiel
+facundity
 field
 fieldball
 fieldbird
