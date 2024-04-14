@@ -6438,7 +6438,6 @@ desamidization
 desaminase
 desanding
 desands
-desaurin
 desaurine
 desc
 descale
@@ -15234,6 +15233,7 @@ dolorifuge
 dolorimeter
 dolorimetric
 dockages
+desaurin
 dolorimetrically
 dolorogenic
 dolorous
