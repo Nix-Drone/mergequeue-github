@@ -4546,7 +4546,6 @@ demigrate
 demigriffin
 demigroat
 demihag
-demihagbut
 demihague
 demihake
 demihaque
@@ -17218,6 +17217,7 @@ drochuil
 droddum
 drof
 drofland
+demihagbut
 droger
 drogerman
 drogermen
