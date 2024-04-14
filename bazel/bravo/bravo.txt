@@ -821,7 +821,6 @@ badmouth
 badmouthed
 badmouthing
 badmouths
-badness
 badnesses
 badon
 badrans
@@ -10162,6 +10161,7 @@ blackman
 blackneck
 blackness
 blacknob
+badness
 bindwith
 blackout
 blackpatch
