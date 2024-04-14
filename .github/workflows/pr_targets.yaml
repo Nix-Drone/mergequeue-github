@@ -31,6 +31,8 @@ jobs:
         id: get-demo-config
         run: |
           output=$(./mq config)
+          echo "$output" | jq -r '.mode'
+
           echo "mode=$(echo "$output" | jq -r '.mode')" >> $GITHUB_ENV
           echo "build=$(echo "$output" | jq -r '.build')" >> $GITHUB_ENV
           echo "flake_rate=$(echo "$output" | jq -r '.flake_rate')" >> $GITHUB_ENV
