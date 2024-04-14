@@ -1437,6 +1437,7 @@ dclass
 dcollet
 dcor
 ddname
+disillusionise
 damnatory
 dea
 depressure
@@ -12383,7 +12384,6 @@ disilluminate
 disillusion
 disillusioned
 disillusioning
-disillusionise
 deignous
 degradingness
 disillusionised
