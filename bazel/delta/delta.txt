@@ -13460,7 +13460,6 @@ dissectible
 durgen
 dissection
 dissections
-dissector
 dissectors
 dissects
 desperadoes
@@ -17904,6 +17903,7 @@ duende
 dracaena
 dueness
 duenesses
+dissector
 duenna
 decalcified
 destructor
