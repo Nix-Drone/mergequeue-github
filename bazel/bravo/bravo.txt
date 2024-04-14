@@ -512,6 +512,7 @@ backstabbing
 backstaff
 backstage
 backstay
+boshboks
 backstair
 backstairs
 backstays
@@ -13139,7 +13140,6 @@ boxboards
 bosh
 boshas
 boshbok
-boshboks
 beamlike
 boshes
 boshvark
