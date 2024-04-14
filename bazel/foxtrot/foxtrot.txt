@@ -2315,6 +2315,7 @@ fenestellae
 fenestellid
 fenestellidae
 fenestra
+furnisher
 fenestrae
 fenestral
 fenestrate
@@ -6159,7 +6160,6 @@ flote
 flotilla
 flotillas
 flibbertigibbets
-furnisher
 flotsam
 flotsams
 freighter
