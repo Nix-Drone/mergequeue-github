@@ -2909,6 +2909,7 @@ fosset
 feuds
 flagonless
 furazane
+frustums
 farfetch
 feudum
 feuillage
@@ -10764,7 +10765,6 @@ frustulent
 frustules
 frustulum
 frustum
-frustums
 fragmentization
 frutage
 frutescent
