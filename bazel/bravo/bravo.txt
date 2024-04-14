@@ -7909,6 +7909,7 @@ bibles
 bohmite
 bibless
 biblic
+bipunctal
 biblical
 biblicality
 biblically
@@ -9354,7 +9355,6 @@ biprism
 byproducts
 biprong
 bipropellant
-bipunctal
 bipunctate
 bipunctual
 bewet
