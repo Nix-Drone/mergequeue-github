@@ -5711,6 +5711,7 @@ afterpressure
 afterproof
 afterrake
 afterreckoning
+auxofluor
 afterrider
 afterripening
 afterroll
@@ -24516,7 +24517,6 @@ auxochromism
 auxochromous
 auxocyte
 auxoflore
-auxofluor
 auxograph
 auxographic
 auxology
