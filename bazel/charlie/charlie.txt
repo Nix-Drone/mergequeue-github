@@ -3579,7 +3579,6 @@ carates
 carats
 carauna
 caraunda
-caravan
 caravaneer
 chemics
 caravaner
@@ -21427,6 +21426,7 @@ caseful
 concoagulate
 concoagulation
 concoct
+caravan
 crackable
 concocted
 concocter
