@@ -5797,6 +5797,7 @@ forthon
 flywinch
 flix
 flixweed
+forswornness
 fll
 flamingoes
 finder
@@ -8652,7 +8653,6 @@ forswearing
 forthgoing
 fields
 forswears
-forswornness
 fort
 fortake
 fenceful
