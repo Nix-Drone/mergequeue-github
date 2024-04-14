@@ -7625,7 +7625,6 @@ alchem
 alchemy
 alchemic
 alchemical
-alchemically
 alchemies
 alchemised
 abstracting
@@ -7814,6 +7813,7 @@ aldrin
 aldrins
 aldrovanda
 aldus
+alchemically
 ale
 alea
 aleak
