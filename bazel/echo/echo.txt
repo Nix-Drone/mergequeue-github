@@ -4825,6 +4825,7 @@ encodings
 encoffin
 encoffinment
 ectoblast
+extense
 esox
 enlimn
 encoil
@@ -13551,7 +13552,6 @@ extenders
 extendibility
 extending
 extends
-extense
 extensibility
 extensible
 extensibleness
