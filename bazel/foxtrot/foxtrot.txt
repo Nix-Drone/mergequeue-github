@@ -1068,6 +1068,7 @@ farmhold
 farmhouse
 farmhousey
 fontinalaceae
+fuzzle
 farmy
 farmyard
 fructuary
@@ -11741,7 +11742,6 @@ fuzziness
 forestem
 foo
 fuzzing
-fuzzle
 fv
 fw
 fwd
