@@ -6558,6 +6558,7 @@ bepiece
 bellyflaught
 bepierce
 bepile
+beacher
 bepill
 bepimple
 bepimpled
@@ -15873,7 +15874,6 @@ bromizing
 bromlite
 bromo
 bromoacetone
-beacher
 bromoaurate
 bromoaurates
 bidiurnal
