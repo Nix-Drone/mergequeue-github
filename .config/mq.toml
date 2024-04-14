@@ -24,7 +24,7 @@ max_deps = 7
 max_impacted_deps = 2
 
 # rate at which PRs should simulate a logical merge conflict and need to be rejected
-logical_conflict_every = 5
+logical_conflict_every = 100
 logical_conflict_file = "logical-conflict.txt"
 
 [merge]
