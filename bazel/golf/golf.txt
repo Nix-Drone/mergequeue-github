@@ -3830,7 +3830,6 @@ giantry
 giants
 giantship
 gastroesophagostomy
-giantsize
 giaour
 giaours
 giardia
@@ -6138,6 +6137,7 @@ glutaminase
 gallegan
 glutamine
 grawls
+giantsize
 glutaminic
 glutaraldehyde
 glutaric
