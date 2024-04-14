@@ -2870,7 +2870,6 @@ baroswitch
 barotactic
 barotaxy
 barotaxis
-barothermogram
 barothermograph
 barothermohygrogram
 barothermohygrograph
@@ -10289,6 +10288,7 @@ blanches
 blanchi
 blanchimeter
 blanching
+barothermogram
 blancmange
 besnows
 blancmanges
