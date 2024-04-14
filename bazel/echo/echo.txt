@@ -7474,7 +7474,6 @@ extatic
 epaulets
 epaulette
 epauletted
-epauliere
 eyries
 epee
 epeeist
@@ -10122,6 +10121,7 @@ extraviolet
 estrich
 estrif
 exudative
+epauliere
 estrin
 estrins
 estriol
