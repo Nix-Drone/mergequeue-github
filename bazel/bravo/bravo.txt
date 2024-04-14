@@ -4197,6 +4197,7 @@ bearship
 bearskin
 bearskins
 beartongue
+birdwatch
 bearward
 bearwood
 bearwort
@@ -9446,7 +9447,6 @@ birdseyes
 birdshots
 birdsnest
 birdstone
-birdwatch
 browpiece
 bungs
 birdwise
