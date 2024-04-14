@@ -6422,7 +6422,6 @@ befoam
 bethumping
 benzilic
 benzylic
-benzylidene
 benzyls
 benzimidazole
 benziminazole
@@ -8061,6 +8060,7 @@ bicep
 bicephalic
 bicephalous
 biceps
+benzylidene
 bicetyl
 bichy
 berhyming
