@@ -11856,7 +11856,6 @@ chora
 choragi
 choragic
 choragion
-choragium
 choragus
 choraguses
 chorai
@@ -30729,6 +30728,7 @@ culicids
 culiciform
 culicifugal
 culicifuge
+choragium
 culicinae
 culicine
 chiffon
