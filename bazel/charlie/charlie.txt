@@ -19739,7 +19739,6 @@ combustor
 combusts
 combwise
 catapulting
-combwright
 comdg
 comdia
 comdr
@@ -31832,6 +31831,7 @@ cutleria
 cutleriaceous
 cutleriales
 cutleries
+combwright
 cutlers
 cutlet
 cutlets
