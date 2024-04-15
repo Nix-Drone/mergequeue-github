@@ -598,7 +598,6 @@ falltime
 fallway
 fuzzy
 falsary
-false
 falsedad
 falsehearted
 flossy
@@ -7512,6 +7511,7 @@ fordwine
 foreacquaint
 foreact
 foreadmonish
+false
 flashpan
 fitly
 foreadvertise
