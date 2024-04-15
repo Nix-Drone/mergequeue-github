@@ -6310,6 +6310,7 @@ fluidglycerate
 fluidible
 fluidic
 fosslology
+forint
 fissicostate
 fluidified
 fluidifier
@@ -11354,7 +11355,6 @@ frabous
 furciferous
 furciform
 furcilia
-forint
 furcraea
 furculae
 faulkland
