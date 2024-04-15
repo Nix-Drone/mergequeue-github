@@ -2634,6 +2634,7 @@ decomposability
 decomposable
 decompose
 decomposed
+dimmy
 decomposer
 decomposers
 decomposes
@@ -9927,7 +9928,6 @@ dimmer
 dimmers
 dimmest
 dimmet
-dimmy
 dimming
 drimys
 dimmit
