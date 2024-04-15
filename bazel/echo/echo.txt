@@ -2262,7 +2262,6 @@ electivity
 electo
 elector
 electorally
-electorate
 electorates
 electors
 electorship
@@ -9992,6 +9991,7 @@ esterlin
 enterocrinin
 esterling
 esteros
+electorate
 esters
 esth
 earlesss
