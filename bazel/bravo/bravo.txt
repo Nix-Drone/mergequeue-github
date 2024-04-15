@@ -6122,7 +6122,6 @@ benching
 benchland
 benchless
 benchlet
-branchedness
 benchman
 benchmar
 benchmark
@@ -13009,6 +13008,7 @@ boreable
 boread
 boreal
 borealis
+branchedness
 borean
 boreas
 borecole
