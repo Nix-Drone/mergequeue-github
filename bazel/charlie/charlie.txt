@@ -5543,7 +5543,6 @@ cataplasis
 cataplasm
 cataplastic
 catapleiite
-cataplexy
 catapuce
 catapulted
 catapultic
@@ -27750,6 +27749,7 @@ cpo
 cps
 cpt
 cpu
+cataplexy
 cpus
 cputime
 centriffed
