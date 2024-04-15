@@ -5219,7 +5219,6 @@ fourteenfold
 flavor
 flavored
 flavorer
-foreknowledge
 flavorers
 flavorfully
 flavorfulness
@@ -8401,6 +8400,7 @@ formalize
 formalized
 formalizer
 formalizes
+foreknowledge
 fettuccine
 formally
 formalness
