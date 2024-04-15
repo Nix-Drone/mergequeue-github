@@ -10635,7 +10635,6 @@ aminopolypeptidase
 aminopropionic
 aminopurine
 aminoquin
-aminoquinoline
 aminosis
 aminosuccinamic
 araru
@@ -13687,6 +13686,7 @@ anoa
 anoas
 anobiidae
 anobing
+aminoquinoline
 anocathartic
 abilene
 anociassociation
