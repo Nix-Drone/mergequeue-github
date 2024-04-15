@@ -2974,7 +2974,6 @@ capacities
 capacitive
 capacitively
 capacitor
-capacitors
 capanna
 capanne
 cystolithectomy
@@ -20809,6 +20808,7 @@ comported
 comporting
 comportment
 comports
+capacitors
 compos
 corpulence
 connexity
