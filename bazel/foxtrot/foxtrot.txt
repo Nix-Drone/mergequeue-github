@@ -2030,7 +2030,6 @@ feinter
 forestlike
 feinting
 feis
-feist
 flatlander
 ferberite
 fogbows
@@ -2611,6 +2610,7 @@ ferrotype
 ferrotyped
 ferrotyping
 fibrocaseose
+feist
 forewarned
 ferrotitanium
 ferrotungsten
