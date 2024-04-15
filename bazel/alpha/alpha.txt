@@ -9631,7 +9631,6 @@ aluminosilicate
 aluminosis
 aluminosity
 aluminothermy
-aluminothermics
 aluminotype
 aluminous
 alumins
@@ -15425,6 +15424,7 @@ antilegomena
 antilemic
 antilens
 antilepsis
+aluminothermics
 antileptic
 antilepton
 antilethargic
