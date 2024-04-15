@@ -3233,7 +3233,6 @@ basidiophore
 bifrontal
 belesprit
 basidiospore
-basidiosporous
 basidorsal
 basifacial
 basify
@@ -12139,6 +12138,7 @@ boletus
 boletuses
 boleweed
 bolewort
+basidiosporous
 bolyaian
 baklawas
 bolide
