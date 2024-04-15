@@ -17841,6 +17841,7 @@ applicators
 appliedly
 afterdischarge
 applier
+autocab
 applies
 antispasis
 applying
@@ -23878,7 +23879,6 @@ autoboating
 autobus
 autobuses
 autobusses
-autocab
 ariettes
 autocade
 autocades
