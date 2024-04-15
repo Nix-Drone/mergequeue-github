@@ -909,7 +909,6 @@ gambist
 gambits
 gamble
 gambler
-gambles
 gamblesome
 gamblesomeness
 genseng
@@ -1563,6 +1562,7 @@ garrulousness
 garrulus
 gars
 garsil
+gambles
 garten
 garter
 gartered
