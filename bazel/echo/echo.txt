@@ -5031,6 +5031,7 @@ endemiology
 examiner
 endemism
 endemisms
+estates
 estipulate
 eurystheus
 endenization
@@ -9961,7 +9962,6 @@ estate
 episkotister
 estately
 econometrician
-estates
 estatesman
 estatesmen
 estating
