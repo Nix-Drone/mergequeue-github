@@ -2531,6 +2531,7 @@ crafting
 cankereat
 cankered
 cankeredly
+cubitopalmar
 cankeredness
 cankerflower
 catostomus
@@ -30492,7 +30493,6 @@ cubitocarpal
 cubitocutaneous
 cubitodigital
 cubitometacarpal
-cubitopalmar
 cubitoplantar
 cubitoradial
 cubits
