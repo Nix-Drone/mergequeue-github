@@ -6697,7 +6697,6 @@ celiomyositis
 celioparacentesis
 celiopyosis
 celiorrhea
-celiosalpingectomy
 celiosalpingotomy
 capless
 celioschisis
@@ -7988,6 +7987,7 @@ cholecalciferol
 chab
 chabasite
 chabazite
+celiosalpingectomy
 chaber
 chablis
 crannog
