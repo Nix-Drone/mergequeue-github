@@ -24923,6 +24923,7 @@ awakable
 awake
 awakeable
 awaked
+axemaster
 awaken
 awakenable
 awakened
@@ -25070,7 +25071,6 @@ axed
 axel
 axels
 axeman
-axemaster
 axemen
 axenic
 axenically
