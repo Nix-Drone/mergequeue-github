@@ -998,7 +998,6 @@ calcarea
 calcareoargillaceous
 calcareobituminous
 calcareosiliceous
-calcareosulphurous
 calcareous
 calcareously
 calcareousness
@@ -24255,6 +24254,7 @@ cooches
 coodle
 cooed
 cooee
+calcareosulphurous
 cooeed
 cooeeing
 cooees
