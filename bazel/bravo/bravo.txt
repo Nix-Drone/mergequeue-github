@@ -14821,7 +14821,6 @@ breakneck
 breakoff
 breakout
 breakouts
-bicuspids
 breakover
 breakpoint
 breakpoints
@@ -15355,6 +15354,7 @@ brightsome
 brightsomeness
 brigid
 brigittine
+bicuspids
 brigous
 borasco
 bimonthly
