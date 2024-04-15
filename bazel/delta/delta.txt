@@ -2454,7 +2454,6 @@ deckhand
 deckhead
 deckhouse
 decking
-deckings
 deckle
 deckman
 deckpipe
@@ -7249,6 +7248,7 @@ dessa
 determinating
 determinations
 determinative
+deckings
 determinatively
 determinativeness
 determinator
