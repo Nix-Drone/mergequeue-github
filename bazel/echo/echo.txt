@@ -5039,6 +5039,7 @@ endexine
 endexines
 endgame
 endgate
+enfief
 endhand
 endia
 endiablee
@@ -5588,7 +5589,6 @@ enfevered
 enfevering
 enfevers
 eyeline
-enfief
 enfierce
 enfigure
 enfilade
