@@ -5063,7 +5063,6 @@ frothi
 flashness
 flashover
 feint
-flashtester
 florigens
 fructure
 flashtube
@@ -11332,6 +11331,7 @@ faitour
 furbelowing
 furcula
 fringy
+flashtester
 furbish
 furbishable
 furbishes
