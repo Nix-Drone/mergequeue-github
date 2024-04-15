@@ -5929,7 +5929,6 @@ agatoid
 agau
 agave
 agaves
-antiserum
 agaz
 agaze
 agazed
@@ -17233,6 +17232,7 @@ aftertax
 apokatastasis
 argyric
 apokatastatic
+antiserum
 apokrea
 anhydrite
 apolar
