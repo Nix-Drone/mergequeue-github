@@ -5068,6 +5068,7 @@ flashness
 flashover
 feint
 flashtester
+florigens
 fructure
 flashtube
 flashtubes
@@ -6073,7 +6074,6 @@ florification
 fishermen
 floriform
 florigen
-florigens
 floriken
 florilage
 furtherances
