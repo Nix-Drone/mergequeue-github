@@ -3594,7 +3594,6 @@ caravansaries
 caravanserai
 caravanserial
 caravel
-caravelle
 condylura
 confuse
 caravels
@@ -17266,6 +17265,7 @@ coascend
 coassert
 coasserter
 coassessor
+caravelle
 coassignee
 coassist
 coassistant
