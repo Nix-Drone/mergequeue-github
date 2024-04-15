@@ -9540,7 +9540,6 @@ checkweigher
 checkweighman
 checkweighmen
 checkwork
-checkwriter
 chedar
 cheddar
 cheddaring
@@ -22952,6 +22951,7 @@ consolitoriness
 consols
 consolute
 consomm
+checkwriter
 camels
 consomme
 consommes
