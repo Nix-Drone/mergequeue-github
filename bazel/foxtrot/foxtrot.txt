@@ -3925,7 +3925,6 @@ fineish
 fineleaf
 fineless
 frounces
-finely
 finement
 fineness
 finer
@@ -6968,6 +6967,7 @@ folksong
 folksongs
 folktale
 folktales
+finely
 folkvang
 folkvangr
 foll
