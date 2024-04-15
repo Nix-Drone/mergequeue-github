@@ -2302,7 +2302,6 @@ fencible
 fencings
 fend
 fended
-following
 fender
 fumarole
 fendered
@@ -5481,6 +5480,7 @@ fletcher
 fletcherism
 fletcherite
 fellahin
+following
 fletcherize
 foilsman
 fletchers
