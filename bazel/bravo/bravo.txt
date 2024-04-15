@@ -4114,6 +4114,7 @@ bantlings
 bean
 beanbag
 beanbags
+brickred
 beanball
 beancod
 beaned
@@ -15193,7 +15194,6 @@ brickmaker
 brickmaking
 brickmason
 bethylid
-brickred
 bricktimber
 bricktop
 brickwall
