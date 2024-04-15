@@ -6241,6 +6241,7 @@ enplanes
 enplaning
 enquarter
 enqueue
+entered
 enqueued
 enqueues
 enquicken
@@ -6616,7 +6617,6 @@ enterclose
 enterectomy
 enterectomies
 exuviates
-entered
 enterer
 ellipses
 enterers
