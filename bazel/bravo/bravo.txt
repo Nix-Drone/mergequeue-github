@@ -4761,7 +4761,6 @@ bedmaking
 bookdom
 bedman
 bedmate
-bedmates
 bednighted
 bednights
 bedoctor
@@ -11422,6 +11421,7 @@ bluethroat
 bluetit
 bulbul
 bluetongue
+bedmates
 bluetop
 bluetops
 bluets
