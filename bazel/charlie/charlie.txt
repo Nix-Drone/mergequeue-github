@@ -16859,6 +16859,7 @@ clubmobile
 clubmonger
 clubroom
 clubrooms
+confiscating
 clubroot
 clubroots
 clubs
@@ -22003,7 +22004,6 @@ confiscatable
 confiscate
 confiscated
 confiscates
-confiscating
 confiscation
 confiscations
 confiscator
