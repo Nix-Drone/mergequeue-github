@@ -5289,7 +5289,6 @@ densities
 densitometer
 densitometric
 densus
-dent
 dental
 dentale
 dentalgia
@@ -8317,6 +8316,7 @@ dialyses
 dialysing
 dialysis
 dialist
+dent
 dialystaminous
 dialystely
 dialystelic
