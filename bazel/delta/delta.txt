@@ -1518,7 +1518,6 @@ deadlily
 deadlines
 deadliness
 deadlock
-deadlocked
 deadlocking
 deadlocks
 deadman
@@ -5708,6 +5707,7 @@ damnosa
 depigmentize
 depilate
 depilated
+deadlocked
 depilates
 depilating
 depilator
