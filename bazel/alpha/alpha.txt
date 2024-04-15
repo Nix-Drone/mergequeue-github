@@ -11262,7 +11262,6 @@ amphiuma
 amphiumidae
 antixerophthalmic
 amphivasal
-amphivorous
 amphodarch
 anthyllis
 amphodelite
@@ -22627,6 +22626,7 @@ atip
 atypy
 atypic
 atypical
+amphivorous
 alkalimetrical
 atypicality
 atypically
