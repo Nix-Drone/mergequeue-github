@@ -1010,6 +1010,7 @@ edaphosauria
 edaphosaurid
 edaphosaurus
 edda
+explosibility
 eddaic
 edder
 eddy
@@ -13245,7 +13246,6 @@ explorers
 explores
 exploring
 exploringly
-explosibility
 encephalodialysis
 explosimeter
 englishmen
