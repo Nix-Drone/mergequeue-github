@@ -12867,7 +12867,6 @@ disoriented
 disorients
 disour
 disown
-disownable
 disowned
 disowning
 disoxidate
@@ -14719,6 +14718,7 @@ delime
 diplomacies
 doctrinal
 doctrinalism
+disownable
 doctrinalist
 doctrinality
 doctrinally
