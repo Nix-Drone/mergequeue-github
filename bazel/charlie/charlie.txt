@@ -3485,7 +3485,6 @@ carack
 caracks
 caracoa
 caracol
-caracole
 caracoled
 caracoler
 caracoles
@@ -26265,6 +26264,7 @@ cosuffer
 cosuggestion
 cosuitor
 cosurety
+caracole
 cosuretyship
 collisional
 cosustain
