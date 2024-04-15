@@ -3747,7 +3747,6 @@ batterie
 batteried
 batteries
 batteryman
-battering
 batterman
 batters
 batteuse
@@ -12295,6 +12294,7 @@ bombastic
 biophor
 becassocked
 bonds
+battering
 baniwa
 bombastical
 behoovefully
