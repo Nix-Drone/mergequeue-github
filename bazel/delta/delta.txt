@@ -4702,7 +4702,6 @@ demisemiquaver
 delineable
 demisemitone
 demises
-ditchbur
 demisheath
 demyship
 demishirt
@@ -17393,6 +17392,7 @@ dropcloth
 dropforge
 dropforger
 drophead
+ditchbur
 dropheads
 dropkick
 dropkicker
