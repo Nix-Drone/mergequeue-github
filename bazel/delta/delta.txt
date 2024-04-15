@@ -2948,7 +2948,6 @@ dedolomitize
 dedolomitizing
 deduce
 deducement
-deducer
 deduces
 deducibility
 devitrify
@@ -13993,6 +13992,7 @@ distrito
 distritos
 dystrophy
 dystrophia
+deducer
 dystrophic
 distrouser
 distrust
