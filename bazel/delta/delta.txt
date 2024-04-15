@@ -2513,7 +2513,6 @@ declimatize
 declinable
 druxey
 declinal
-declination
 declinational
 declinations
 declinator
@@ -5236,6 +5235,7 @@ denomination
 denominational
 denominationalism
 denominationalist
+declination
 denominationally
 denominations
 denominative
