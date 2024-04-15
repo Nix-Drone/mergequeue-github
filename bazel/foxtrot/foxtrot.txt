@@ -4310,6 +4310,7 @@ facia
 first
 fylker
 forbearer
+frangipane
 firster
 feerie
 furmety
@@ -9420,7 +9421,6 @@ francs
 franger
 frangibility
 frangible
-frangipane
 forspoken
 frangipani
 fathoming
