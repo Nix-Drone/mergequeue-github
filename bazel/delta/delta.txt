@@ -4399,7 +4399,6 @@ demarcations
 demarcator
 demarcatordemarcators
 disnaturalize
-demarcators
 demarcature
 demarch
 demarche
@@ -7120,6 +7119,7 @@ detailedness
 dogvanes
 detailer
 detailers
+demarcators
 detailing
 detailism
 detailist
