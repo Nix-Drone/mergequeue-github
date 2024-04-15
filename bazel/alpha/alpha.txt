@@ -1576,6 +1576,7 @@ acclimation
 acclimatisable
 acclimatisation
 acclimatise
+autodetector
 acclimatised
 acclimatiser
 acclimatising
@@ -23981,7 +23982,6 @@ aerodynamic
 autodepolymerization
 autodermic
 autodestruction
-autodetector
 autodiagnosis
 autodiagnostic
 autodiagrammatic
