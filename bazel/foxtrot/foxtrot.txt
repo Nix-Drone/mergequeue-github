@@ -5970,7 +5970,6 @@ floorshow
 floorway
 floorwalkers
 fluidrachm
-foined
 floorward
 furniment
 feignedness
@@ -9644,6 +9643,7 @@ freddy
 freddie
 fusee
 freddo
+foined
 fishwives
 fanegada
 ferntickled
