@@ -2765,7 +2765,6 @@ exotropism
 elem
 explorations
 eleme
-element
 elytrous
 esdras
 elementalism
@@ -9350,6 +9349,7 @@ explicandum
 exasperating
 erpetology
 err
+element
 embryoid
 errability
 errable
