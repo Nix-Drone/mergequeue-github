@@ -9409,6 +9409,7 @@ chazanim
 chazans
 chazanut
 chazy
+circularwise
 chazzan
 chazzanim
 chazzans
@@ -14216,7 +14217,6 @@ circularizing
 circularly
 circularness
 circulars
-circularwise
 circulatable
 circulated
 circulates
