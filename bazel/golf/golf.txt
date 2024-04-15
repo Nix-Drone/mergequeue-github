@@ -1255,6 +1255,7 @@ genteeler
 gantlines
 gantlope
 gantlopes
+garial
 ganton
 gynandromorphic
 gantry
@@ -8283,7 +8284,6 @@ gobos
 grassland
 gedds
 grasslands
-garial
 grasslike
 gasterosteiform
 gadolinite
