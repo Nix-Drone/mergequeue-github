@@ -2831,7 +2831,6 @@ decriminalizes
 decrypt
 decrypted
 decryption
-decryptions
 decryptograph
 decrypts
 decrystallization
@@ -5926,6 +5925,7 @@ depredator
 depredatory
 deontic
 depredicate
+decryptions
 deprehend
 damsel
 depress
