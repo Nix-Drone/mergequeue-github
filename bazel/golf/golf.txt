@@ -5921,7 +5921,6 @@ glossoncus
 glossopalatine
 glossopalatinus
 glossopathy
-glossopetra
 glossophaga
 glossopharyngeus
 glossophobia
@@ -8749,6 +8748,7 @@ gregarinoidea
 gregarinosis
 gregarinous
 gasteria
+glossopetra
 gregarious
 gonogenesis
 gregariously
