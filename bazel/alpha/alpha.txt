@@ -6875,6 +6875,7 @@ aircoach
 aircoaches
 aircraft
 aircraftman
+axometer
 aircraftmen
 aircraftsman
 aircraftsmen
@@ -25166,7 +25167,6 @@ axolemma
 axolysis
 axolotls
 anapleroses
-axometer
 axometry
 archcharlatan
 axon
