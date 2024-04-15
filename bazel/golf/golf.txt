@@ -488,7 +488,6 @@ galeod
 galeodes
 galeodidae
 galeoid
-galeopithecus
 gnapweed
 galeopsis
 galeorchis
@@ -4826,6 +4825,7 @@ gyrophoraceous
 gyroplane
 giros
 gyroscope
+galeopithecus
 gyroscopes
 gyroscopics
 gyrose
