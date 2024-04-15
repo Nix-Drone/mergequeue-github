@@ -1060,6 +1060,7 @@ farmerlike
 farmership
 farmhold
 farmhouse
+feronia
 farmhousey
 fontinalaceae
 fuzzle
@@ -2502,7 +2503,6 @@ ferocities
 fibromembranous
 forehorse
 frocks
-feronia
 ferox
 ferr
 ferrament
