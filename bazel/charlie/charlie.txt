@@ -3829,7 +3829,6 @@ carburisation
 carburise
 carburised
 carburiser
-carburising
 carburization
 carburize
 carburized
@@ -14667,6 +14666,7 @@ cystoids
 cystolith
 cystolithiasis
 cystolithic
+carburising
 cystoma
 cystomas
 cystomata
