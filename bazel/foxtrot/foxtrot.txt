@@ -8154,7 +8154,6 @@ foretopmast
 foretopmen
 foretops
 foretrace
-foretriangle
 foreturn
 foreuse
 foreutter
@@ -8483,6 +8482,7 @@ formicivora
 forboded
 formicoidea
 freethinker
+foretriangle
 formidable
 formidableness
 floormen
