@@ -3613,6 +3613,7 @@ filesniff
 filespec
 fossores
 fileting
+floatboard
 filets
 fylfot
 fili
@@ -10644,7 +10645,6 @@ fructosan
 fructose
 flatfooting
 freespac
-floatboard
 fapesmo
 famular
 fructoses
