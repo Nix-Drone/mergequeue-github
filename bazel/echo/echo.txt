@@ -2598,7 +2598,6 @@ electropneumatic
 europocentric
 electropolar
 electropolish
-electropositive
 electropower
 electropsychrometer
 electropult
@@ -10524,6 +10523,7 @@ ethonomic
 ethonomics
 ethonone
 epiphanize
+electropositive
 ethopoeia
 ethoses
 ethoxide
