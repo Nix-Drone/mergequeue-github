@@ -6454,7 +6454,6 @@ benzoylglycine
 bilge
 benzoin
 benzoinated
-benzoins
 benzoiodohydrin
 benzol
 benzole
@@ -18397,6 +18396,7 @@ buzzsaw
 buzzwig
 buzzword
 buzzwords
+benzoins
 bvt
 bwana
 biasways
