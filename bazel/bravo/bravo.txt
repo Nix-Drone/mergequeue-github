@@ -14840,7 +14840,6 @@ besselian
 breakstone
 breakthrough
 breakthroughs
-breakup
 breakups
 breakwater
 breakweather
@@ -16860,6 +16859,7 @@ buggyman
 baloch
 buggymen
 bugginess
+breakup
 bughouse
 bughouses
 bught
