@@ -4855,6 +4855,7 @@ bedstaff
 bolivars
 bedstand
 bedstead
+brazenface
 baikerinite
 beshrouded
 bedstraw
@@ -11995,7 +11996,6 @@ boyaux
 boyce
 boychick
 boychicks
-brazenface
 boychik
 boychiks
 boycott
