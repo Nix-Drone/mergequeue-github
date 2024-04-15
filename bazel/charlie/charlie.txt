@@ -14681,7 +14681,6 @@ cystoepiplocele
 cystoepithelioma
 cystofibroma
 cystoflagellata
-cystoflagellate
 cystogenesis
 cystogenous
 cystogram
@@ -30155,6 +30154,7 @@ cruelly
 cruelness
 cruels
 cruelty
+cystoflagellate
 cruelties
 cruent
 cruentate
