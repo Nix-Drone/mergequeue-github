@@ -6811,7 +6811,6 @@ eliminatory
 enthroned
 enthronement
 enthronements
-enthrones
 enthrong
 enthronise
 enthronised
@@ -8665,6 +8664,7 @@ equilater
 equilateral
 equilaterally
 exterritorial
+enthrones
 equilibrant
 equilibrate
 episcleritis
