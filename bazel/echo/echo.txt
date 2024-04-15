@@ -3337,6 +3337,7 @@ embays
 emballonurid
 emballonuridae
 embalm
+expounded
 embalmed
 envelopes
 embalmer
@@ -13330,7 +13331,6 @@ exposure
 exposures
 expound
 expoundable
-expounded
 expounder
 expounders
 empocket
