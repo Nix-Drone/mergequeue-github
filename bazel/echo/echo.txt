@@ -2740,7 +2740,6 @@ elegiambic
 epagoge
 elegiambus
 exprobate
-emends
 equispaced
 elegibility
 elegies
@@ -13760,6 +13759,7 @@ extrabranchial
 extemporarily
 extrabronchial
 extrabuccal
+emends
 extrabureau
 equipaga
 extraburghal
