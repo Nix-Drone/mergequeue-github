@@ -2641,7 +2641,6 @@ cannstatt
 chebeck
 cannula
 cannulae
-cannular
 cannulas
 cannulate
 cannulated
@@ -9923,6 +9922,7 @@ chemotaxonomy
 chemotaxonomic
 chemotaxonomically
 chemotaxonomist
+cannular
 comma
 carices
 chemotherapeutic
