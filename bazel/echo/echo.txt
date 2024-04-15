@@ -1490,7 +1490,6 @@ efl
 eflagelliferous
 efoliolate
 efoliose
-efoveolate
 empedoclean
 efph
 efractory
@@ -4328,6 +4327,7 @@ emulsibility
 emulsible
 emulsify
 emulsifications
+efoveolate
 entablatured
 emulsified
 englad
