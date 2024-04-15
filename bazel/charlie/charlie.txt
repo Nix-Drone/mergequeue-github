@@ -12016,7 +12016,6 @@ chorogi
 chorograph
 chorographer
 chorography
-chorographic
 chorographical
 chorographically
 choroid
@@ -29327,6 +29326,7 @@ cryptoxanthin
 cryptozygy
 cryptozygosity
 cryptozygous
+chorographic
 cryptozoic
 cryptozoite
 cryptozonate
