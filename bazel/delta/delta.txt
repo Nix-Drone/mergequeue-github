@@ -804,6 +804,7 @@ daneweed
 daneweeds
 dang
 danged
+detections
 dangerful
 dangerfully
 deodara
@@ -7151,7 +7152,6 @@ detecters
 detectible
 detecting
 detection
-detections
 disastrousness
 detective
 detectives
