@@ -4084,7 +4084,6 @@ adman
 admarginate
 admass
 admeasure
-admeasured
 antiquatedness
 admeasurer
 adumbrant
@@ -8650,6 +8649,7 @@ allelomorphism
 allelopathy
 allelotropy
 allelotropic
+admeasured
 allelotropism
 alleluia
 anadicrotic
