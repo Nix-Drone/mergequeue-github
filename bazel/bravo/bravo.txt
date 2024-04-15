@@ -10437,7 +10437,6 @@ buttals
 blastematic
 blastemic
 blaster
-blasters
 blastful
 blastid
 blastie
@@ -16379,6 +16378,7 @@ brushman
 bodyplate
 brushmen
 byrling
+blasters
 brushoff
 brushoffs
 brushpopper
