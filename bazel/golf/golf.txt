@@ -5500,7 +5500,6 @@ glyconics
 glycopexia
 glycopexis
 glads
-glycoproteid
 glycose
 glycosemia
 glycosidase
@@ -6026,6 +6025,7 @@ glucid
 glucidic
 glucina
 glucinic
+glycoproteid
 glucinium
 glucinum
 glucinums
