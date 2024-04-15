@@ -3969,7 +3969,6 @@ epitheliliums
 emissive
 emissivity
 emissory
-emittance
 emitted
 emittent
 emitter
@@ -9956,6 +9955,7 @@ estamene
 encatarrhaphy
 estaminet
 estaminets
+emittance
 estampage
 estampede
 emender
