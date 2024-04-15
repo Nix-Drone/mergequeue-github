@@ -5962,7 +5962,6 @@ fala
 featherbedding
 floorcloths
 floored
-floorhead
 flooring
 flummoxes
 forementioned
@@ -9287,6 +9286,7 @@ fragility
 faceplate
 fragilities
 fragment
+floorhead
 fragmental
 fumously
 fragmentalize
