@@ -206,7 +206,6 @@ factorially
 frizer
 factorials
 factories
-factorylike
 factoring
 foreign
 factoryship
@@ -4811,6 +4810,7 @@ fuss
 firepower
 flagstaff
 fainer
+factorylike
 flagstaffs
 fustigate
 formalin
