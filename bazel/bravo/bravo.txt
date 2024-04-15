@@ -1160,6 +1160,7 @@ belatedly
 boardable
 baysmelt
 baister
+barrenest
 bait
 baited
 baiter
@@ -2966,7 +2967,6 @@ barrelmaker
 barrelmaking
 barrelwise
 barren
-barrenest
 barrenly
 bunco
 barrenness
