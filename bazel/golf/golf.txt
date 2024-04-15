@@ -6580,7 +6580,6 @@ goldbricker
 goldbrickers
 goldbricks
 goldbug
-goldbugs
 goldcrest
 goldeye
 goldeyes
@@ -10138,6 +10137,7 @@ guidance
 guide
 guideboard
 guidebooky
+goldbugs
 guidebookish
 guidebooks
 guided
