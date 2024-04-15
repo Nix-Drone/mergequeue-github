@@ -3307,7 +3307,6 @@ geotaxes
 geotaxy
 graphologies
 gulches
-geotaxis
 geotechnic
 gimmicks
 geotechnics
@@ -8494,6 +8493,7 @@ gravitated
 gravitater
 gravitates
 gravitating
+geotaxis
 gravitation
 gravitations
 gravitative
