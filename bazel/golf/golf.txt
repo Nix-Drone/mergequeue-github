@@ -1973,6 +1973,7 @@ gateways
 grainering
 gateward
 gammadion
+growable
 groose
 globules
 gatewards
@@ -7084,7 +7085,6 @@ goopy
 goops
 gude
 goorals
-growable
 grillade
 gooranut
 gooroo
