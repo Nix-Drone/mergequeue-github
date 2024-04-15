@@ -9795,7 +9795,6 @@ cheloniid
 cheloniidae
 chelonin
 chelophore
-chem
 chemakuan
 chemasthenia
 chemawinite
@@ -20252,6 +20251,7 @@ commotional
 commotions
 commotive
 commove
+chem
 commoved
 conjectured
 cephalometry
