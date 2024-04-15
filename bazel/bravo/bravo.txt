@@ -3331,7 +3331,6 @@ baskerville
 basket
 basketballer
 basketballs
-basketful
 basketfuls
 basketing
 basketlike
@@ -14587,6 +14586,7 @@ brassbound
 brassbounder
 brasse
 brassey
+basketful
 borages
 bronzesmith
 brasserie
