@@ -60,7 +60,6 @@ babeldom
 babelet
 babelike
 babelish
-babelism
 babelize
 babels
 babery
@@ -11899,6 +11898,7 @@ bogglebo
 boggled
 boggler
 bogglers
+babelism
 boggles
 boggling
 bogglingly
