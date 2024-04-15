@@ -8973,6 +8973,7 @@ biocoenotic
 biodegradability
 biodegradable
 biodegradation
+becassocked
 biodegrade
 biodegraded
 biodegrading
@@ -12281,7 +12282,6 @@ bombast
 bombaster
 bombastic
 biophor
-becassocked
 bonds
 battering
 baniwa
