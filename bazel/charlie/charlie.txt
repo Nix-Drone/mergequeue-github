@@ -19457,7 +19457,6 @@ colourtype
 colp
 colpenchyma
 colpeo
-colpeurynter
 colpeurysis
 colpheg
 colpindach
@@ -22109,6 +22108,7 @@ cigala
 confraternization
 confrere
 confreres
+colpeurynter
 confrerie
 confriar
 confricamenta
