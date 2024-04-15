@@ -4269,6 +4269,7 @@ empresa
 empress
 esophagotomy
 empresse
+explore
 empressements
 empresses
 empressment
@@ -13236,7 +13237,6 @@ exfiltration
 explorator
 exploratory
 exosphere
-explore
 explored
 explorement
 explorer
