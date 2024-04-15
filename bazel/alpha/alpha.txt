@@ -831,7 +831,6 @@ abridgable
 abridge
 abridgeable
 abridged
-abridgedly
 anisotropical
 abridgement
 abridgements
@@ -2509,6 +2508,7 @@ acouchy
 acinary
 acinarious
 acineta
+abridgedly
 acinetae
 acinetic
 acinetiform
