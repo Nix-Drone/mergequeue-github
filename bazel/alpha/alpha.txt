@@ -2688,7 +2688,6 @@ acousmatic
 acoustic
 acoustical
 acoustically
-acoustician
 acousticolateral
 acousticon
 acousticophobia
@@ -25120,6 +25119,7 @@ axiology
 axiological
 axiologically
 axiologist
+acoustician
 axiom
 ambisyllabic
 axiomatic
