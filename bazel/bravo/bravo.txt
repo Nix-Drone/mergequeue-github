@@ -4485,6 +4485,7 @@ bickers
 beclatter
 beclaw
 beclip
+besieged
 becloak
 belchers
 becloaking
@@ -7005,7 +7006,6 @@ bufflehorn
 beside
 besides
 besiege
-besieged
 besiegement
 besiegers
 biorhythmicities
