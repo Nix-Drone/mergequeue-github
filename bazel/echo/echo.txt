@@ -3670,7 +3670,6 @@ exsection
 embryography
 embryographic
 everse
-embryoid
 embryoism
 epithelioglandular
 embryology
@@ -9341,6 +9340,7 @@ explicandum
 exasperating
 erpetology
 err
+embryoid
 errability
 errable
 errableness
