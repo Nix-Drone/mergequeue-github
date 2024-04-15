@@ -6513,7 +6513,6 @@ descriptives
 descriptivism
 descriptor
 descriptory
-descriptors
 descrive
 descure
 desdemona
@@ -11111,6 +11110,7 @@ disassemble
 disassembled
 disassembler
 disassembles
+descriptors
 disassembling
 disassent
 disassiduity
