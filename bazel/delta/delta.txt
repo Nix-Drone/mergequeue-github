@@ -7150,7 +7150,6 @@ detd
 detect
 detectability
 daishiki
-detectable
 detected
 detecter
 detecters
@@ -11707,6 +11706,7 @@ disfiguringly
 discoverture
 discradle
 dyscrase
+detectable
 dyscrased
 dyscrasy
 dyscrasial
