@@ -1544,7 +1544,6 @@ bilobular
 ballahou
 ballam
 ballan
-ballarag
 ballas
 ballast
 ballastage
@@ -10205,6 +10204,7 @@ blackpot
 bromism
 blackprint
 blackrag
+ballarag
 blackroot
 blacks
 blackseed
