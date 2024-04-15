@@ -8317,7 +8317,6 @@ epistolical
 epistolise
 epistolised
 epistolising
-epistolist
 epistolization
 epistolize
 epistolized
@@ -13925,6 +13924,7 @@ exocardia
 extrapoetical
 extrapolar
 extrapolate
+epistolist
 extrapolated
 extrapolating
 endangerer
