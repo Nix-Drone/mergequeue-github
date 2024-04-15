@@ -3997,7 +3997,6 @@ cothe
 cardiod
 cardiodilator
 cardiodynia
-cardiodysesthesia
 cardiodysneuria
 cardiogenesis
 cardiogenic
@@ -16632,6 +16631,7 @@ closefistedness
 closefitting
 closehanded
 closehauled
+cardiodysesthesia
 closely
 closelipped
 closemouth
