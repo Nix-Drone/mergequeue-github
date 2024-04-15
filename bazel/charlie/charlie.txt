@@ -6565,6 +6565,7 @@ ceibo
 ceibos
 counterthrust
 ceil
+clamoring
 ceylanite
 celestine
 ceiled
@@ -15351,7 +15352,6 @@ clamor
 clamored
 clamorer
 clamorers
-clamoring
 clamorist
 clamorous
 clamorously
