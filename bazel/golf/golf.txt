@@ -1500,7 +1500,6 @@ garnetter
 garnetwork
 garni
 garniec
-garnish
 garnishable
 garnished
 garnishee
@@ -5215,6 +5214,7 @@ glaring
 glassworking
 gametogonium
 glaringly
+garnish
 glaringness
 glarry
 glaserian
