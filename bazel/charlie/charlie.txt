@@ -8962,7 +8962,6 @@ chargee
 chargeful
 chargehouse
 chargeless
-chargeling
 chargeman
 charger
 charges
@@ -16607,6 +16606,7 @@ cloop
 cloot
 clootie
 cloots
+chargeling
 clop
 carburate
 clopped
