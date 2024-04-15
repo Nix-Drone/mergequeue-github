@@ -4196,7 +4196,6 @@ gasterosteoid
 gim
 gimbal
 gimbaled
-gimbaling
 gimballed
 groundsheet
 gimballing
@@ -6439,6 +6438,7 @@ goban
 gobang
 girl
 gobans
+gimbaling
 gobbe
 glycemic
 gobbed
