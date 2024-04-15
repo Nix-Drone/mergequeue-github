@@ -1976,7 +1976,6 @@ feeds
 feedsman
 feedstock
 feedstuff
-feedstuffs
 feedway
 fictions
 favela
@@ -7868,6 +7867,7 @@ foreparts
 forepass
 floran
 forepast
+feedstuffs
 forepaw
 forepaws
 forepeak
