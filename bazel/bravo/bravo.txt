@@ -643,7 +643,6 @@ bacteriohemolysin
 bacterioid
 bacterioidal
 bacteriolysin
-bacteriolysis
 bletherskate
 bemingle
 bacteriolytic
@@ -12948,6 +12947,7 @@ borborygmi
 biggin
 borborygmic
 borborygmus
+bacteriolysis
 borborus
 bord
 bordage
