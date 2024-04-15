@@ -295,7 +295,6 @@ eatables
 electrolyzability
 eatanswill
 eatberry
-eatche
 eaten
 emetophobia
 eatery
@@ -4231,6 +4230,7 @@ eniac
 emplunge
 empodia
 estragol
+eatche
 empoison
 empoisoned
 encaustes
