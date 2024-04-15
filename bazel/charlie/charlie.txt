@@ -3216,7 +3216,6 @@ caponniere
 capons
 caporal
 caporals
-capos
 counterweighing
 capot
 capotasto
@@ -9507,6 +9506,7 @@ clavola
 checkers
 checkerspot
 carpodacus
+capos
 checkerwise
 checkerwork
 checkhook
