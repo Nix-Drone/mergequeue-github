@@ -8165,6 +8165,7 @@ cultists
 chains
 chainsman
 chainsmen
+cleanups
 chainsmith
 chainwale
 chainwork
@@ -15802,7 +15803,6 @@ cleansing
 cleanskin
 cleanskins
 cleanup
-cleanups
 clear
 chelaship
 clearable
