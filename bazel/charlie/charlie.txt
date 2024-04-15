@@ -5598,7 +5598,6 @@ catcalls
 catch
 catchable
 catchall
-catchalls
 catchcry
 colocates
 catched
@@ -12011,6 +12010,7 @@ chorizontic
 comprehensible
 chorizontist
 chorizos
+catchalls
 chorogi
 chorograph
 chorographer
