@@ -6474,7 +6474,6 @@ benzophenone
 benzophenothiazine
 benzophenoxazine
 benzophloroglucinol
-benzophosphinic
 benzophthalazine
 benzopyran
 benzopyranyl
@@ -8336,6 +8335,7 @@ biga
 bigae
 bywork
 bigam
+benzophosphinic
 bigamic
 bigamies
 bigamist
