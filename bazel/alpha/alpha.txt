@@ -2935,7 +2935,6 @@ acrogen
 acrogenic
 acrogenous
 acrogenously
-acrogens
 acrogynous
 acrography
 acrolein
@@ -15553,6 +15552,7 @@ antimetabole
 antimetathesis
 antimetathetic
 antimeter
+acrogens
 antimethod
 acronarcotic
 armed
