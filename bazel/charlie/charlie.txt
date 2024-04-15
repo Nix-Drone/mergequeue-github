@@ -10089,7 +10089,6 @@ cosmopolitanly
 chest
 chested
 chesteine
-chesterbed
 chesterfield
 chesterfieldian
 chesterfields
@@ -11265,6 +11264,7 @@ chloritization
 chloritize
 chloritoid
 chlorize
+chesterbed
 chlormethane
 chlormethylic
 chlornal
