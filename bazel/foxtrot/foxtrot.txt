@@ -2288,7 +2288,6 @@ fencelessness
 fencelet
 fenceplay
 fencepost
-fencer
 fenceress
 fencers
 freeborn
@@ -11150,6 +11149,7 @@ fundamentalists
 fundamentality
 fundamentalness
 fundamentals
+fencer
 fundatorial
 felspathic
 formational
