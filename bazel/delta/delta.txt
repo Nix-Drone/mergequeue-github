@@ -3705,6 +3705,7 @@ drawgear
 dehematize
 decard
 departement
+disoxygenate
 dehepatize
 dehgan
 dehydrase
@@ -12881,7 +12882,6 @@ disoxidate
 demulsifying
 dysoxidation
 dysoxidizable
-disoxygenate
 disoxygenation
 disozonize
 debacchate
