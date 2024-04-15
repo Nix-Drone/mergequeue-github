@@ -5334,6 +5334,7 @@ begottenness
 begoud
 begowk
 begowned
+buyable
 benchboard
 begray
 begrain
@@ -16890,7 +16891,6 @@ buhlworks
 buhrmill
 buhrs
 buy
-buyable
 basils
 bushgoats
 buibui
