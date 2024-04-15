@@ -1302,7 +1302,6 @@ fastigiate
 fastigiated
 fastigiately
 fastigious
-fastigium
 fastigiums
 fastiia
 fasting
@@ -2474,6 +2473,7 @@ fermis
 fermium
 fermorite
 fern
+fastigium
 floripondio
 fernandinite
 fernando
