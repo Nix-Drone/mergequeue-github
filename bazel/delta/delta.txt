@@ -3131,7 +3131,6 @@ defamous
 deadworks
 defang
 defat
-defatigable
 defatigate
 defatigation
 defatted
@@ -4387,6 +4386,7 @@ demandative
 demanded
 demander
 demanding
+defatigable
 demandingly
 demandingness
 demands
