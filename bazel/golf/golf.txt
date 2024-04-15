@@ -1381,7 +1381,6 @@ garde
 gardebras
 gnatsnapper
 gable
-gardened
 gardener
 gardeners
 gardenership
@@ -4761,6 +4760,7 @@ girlhood
 grind
 girlie
 girlies
+gardened
 girliness
 girlishly
 glink
