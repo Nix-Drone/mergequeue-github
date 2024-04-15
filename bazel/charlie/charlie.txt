@@ -4047,6 +4047,7 @@ cardiopneumatic
 cardiopneumograph
 cardioptosis
 cardiopulmonary
+convicinity
 cardiorenal
 cardiorespiratory
 cardiorrhaphy
@@ -24132,7 +24133,6 @@ convexness
 convexo
 convexoconcave
 conviciate
-convicinity
 convict
 convictable
 convictfish
