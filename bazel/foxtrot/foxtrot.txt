@@ -4589,7 +4589,6 @@ faussebraye
 fivebar
 fiveling
 fivepence
-fivepenny
 frosteds
 fiver
 fivescore
@@ -10708,6 +10707,7 @@ fruitlets
 furzes
 fruitlike
 fruitling
+fivepenny
 fruits
 fruitstalk
 fruitwoman
