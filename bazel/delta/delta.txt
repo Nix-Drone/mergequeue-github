@@ -10293,7 +10293,6 @@ dioptograph
 dioptometer
 dioptometry
 dioptomiter
-dioptoscopy
 dioptra
 dioptral
 dioptrate
@@ -18135,6 +18134,7 @@ dumous
 dump
 dumpage
 dumpcart
+dioptoscopy
 dumpcarts
 dumped
 dumper
