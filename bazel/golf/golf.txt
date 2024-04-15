@@ -1543,7 +1543,6 @@ garrisons
 garrnishable
 garron
 garroo
-garrooka
 garrot
 garrote
 garroted
@@ -7962,6 +7961,7 @@ grandmontine
 grandmother
 grandmotherhood
 grandmotherly
+garrooka
 grandmotherliness
 grandmothers
 grandnephew
