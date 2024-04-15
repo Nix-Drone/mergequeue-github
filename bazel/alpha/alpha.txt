@@ -2112,7 +2112,6 @@ acetobacter
 acetobenzoic
 acetobromanilide
 acetochloral
-acetocinnamene
 acetol
 acetolysis
 acetolytic
@@ -19905,6 +19904,7 @@ army
 armida
 armied
 armies
+acetocinnamene
 adminiculary
 armiferous
 avidins
