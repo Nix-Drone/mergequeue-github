@@ -872,7 +872,6 @@ abrupter
 abruptest
 abruptio
 abruption
-abruptiones
 abruptly
 abruptness
 abstractedness
@@ -4282,6 +4281,7 @@ adoptabilities
 adoptable
 adoptant
 adoptative
+abruptiones
 adopted
 archmock
 adoptedly
