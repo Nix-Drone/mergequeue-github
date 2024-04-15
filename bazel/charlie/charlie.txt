@@ -18525,7 +18525,6 @@ coiners
 crossrow
 coyness
 coynesses
-coinfeftment
 coinfer
 coinferred
 coinferring
@@ -26903,6 +26902,7 @@ countermine
 cotonier
 countermined
 countermission
+coinfeftment
 countermotion
 countermount
 countermove
