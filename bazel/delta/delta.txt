@@ -2599,6 +2599,7 @@ decolorisation
 decolorised
 decoloriser
 decolorising
+dispose
 decolorization
 decolorized
 decolorizer
@@ -3880,7 +3881,6 @@ deistical
 deistically
 deists
 deitate
-dispose
 dewy
 deity
 deityship
