@@ -2721,6 +2721,7 @@ gorger
 glaumrie
 generification
 graylags
+geoid
 generosity
 geometrising
 generous
@@ -3105,7 +3106,6 @@ geographies
 geographize
 geohydrology
 geohydrologic
-geoid
 geoidal
 geoids
 geoisotherm
