@@ -7010,7 +7010,6 @@ besiege
 besiegement
 besiegers
 biorhythmicities
-berreave
 besieges
 besieging
 besiegingly
@@ -16842,6 +16841,7 @@ bugara
 bugbane
 bugbanes
 bugbear
+berreave
 bugbearish
 bugbite
 bugdom
