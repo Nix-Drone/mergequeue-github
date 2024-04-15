@@ -5683,7 +5683,6 @@ globalizing
 gamori
 gormless
 globally
-globated
 globe
 globed
 globefish
@@ -8496,6 +8495,7 @@ gossameriness
 grazed
 grazer
 gradus
+globated
 grayish
 grazers
 gimbaljawed
