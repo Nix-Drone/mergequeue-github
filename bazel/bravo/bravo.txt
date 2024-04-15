@@ -2957,7 +2957,6 @@ barrelhouses
 barreling
 broad
 barrelled
-barrelling
 brattle
 barrelmaker
 barrelmaking
@@ -17042,6 +17041,7 @@ bullbats
 beforetime
 bromopnea
 bullbeggar
+barrelling
 bullberry
 bullbird
 bullboat
