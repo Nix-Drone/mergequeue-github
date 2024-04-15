@@ -11722,7 +11722,6 @@ chondroclasis
 chondrocoracoid
 chondrocostal
 chondrocranial
-chondrodynia
 coendured
 chondrodystrophy
 chondrodystrophia
@@ -20365,6 +20364,7 @@ compaction
 compactions
 compactly
 compactness
+chondrodynia
 compactor
 compactors
 compacts
