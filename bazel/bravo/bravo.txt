@@ -538,7 +538,6 @@ bettergates
 backswordman
 bestness
 backswordmen
-backswordsman
 backtack
 backtalk
 backtender
@@ -3187,6 +3186,7 @@ bashless
 bashlik
 bashlyks
 bashmuric
+backswordsman
 basial
 basialveolar
 biaswise
