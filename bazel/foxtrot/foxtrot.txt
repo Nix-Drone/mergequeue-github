@@ -124,7 +124,6 @@ fromfile
 facility
 facilities
 facings
-facinorousness
 foldable
 functionally
 faciolingual
@@ -11107,6 +11106,7 @@ funambuloes
 funaria
 finestill
 funariaceae
+facinorousness
 funariaceous
 funbre
 functional
