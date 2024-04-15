@@ -4760,7 +4760,6 @@ enciphers
 encircle
 encircled
 effronted
-encircler
 encircles
 encyrtid
 etherealize
@@ -5047,6 +5046,7 @@ endgate
 enfief
 endhand
 endia
+encircler
 endiablee
 endiadem
 eyer
