@@ -8928,7 +8928,6 @@ bioaccumulation
 bioacoustics
 bioactivities
 bioassaying
-bioassays
 bioastronautical
 bioastronautics
 bioavailability
@@ -14455,6 +14454,7 @@ branchiomerism
 branchiopallial
 branchiopod
 branchiopoda
+bioassays
 branchiopodan
 branchiopodous
 branchiopoo
