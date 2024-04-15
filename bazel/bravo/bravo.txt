@@ -1962,7 +1962,6 @@ bandog
 bandogs
 bonfire
 bandoleer
-bandoleered
 burlesquely
 bumf
 bandoleers
@@ -13247,6 +13246,7 @@ bota
 botany
 botanic
 botanica
+bandoleered
 botanical
 bivaulted
 botanically
