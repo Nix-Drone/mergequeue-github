@@ -3326,7 +3326,6 @@ capsicins
 capsicum
 capsicums
 capsid
-capsidae
 capsidal
 capsids
 capsizable
@@ -25451,6 +25450,7 @@ corollet
 corolliferous
 corollifloral
 corolliform
+capsidae
 corollitic
 coromandel
 coromell
