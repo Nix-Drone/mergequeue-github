@@ -10938,7 +10938,6 @@ chiromegaly
 chirometer
 chiromyidae
 chiromys
-chiron
 chironym
 chironomid
 chironomidae
@@ -27886,6 +27885,7 @@ craft
 crafted
 crafter
 crafty
+chiron
 craftier
 craftiest
 craftily
