@@ -7452,7 +7452,6 @@ forceput
 fazing
 forces
 forcet
-forchase
 forches
 forcy
 forcibility
@@ -8778,6 +8777,7 @@ fortunes
 frenchism
 frankfort
 fortunetell
+forchase
 fortuneteller
 fortunetellers
 forbiddable
