@@ -5628,7 +5628,6 @@ dependence
 dependency
 dependencies
 divinities
-depender
 depending
 dependingly
 depends
@@ -14727,6 +14726,7 @@ doctrinality
 doctrinally
 doctrinary
 doctrinarian
+depender
 doctrinarianism
 doctrinarily
 doctrinarity
