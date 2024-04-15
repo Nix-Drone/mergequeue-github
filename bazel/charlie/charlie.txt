@@ -3124,7 +3124,6 @@ capitations
 capitatum
 capite
 capiteaux
-colorbearer
 capitella
 capitellar
 capitellate
@@ -22543,6 +22542,7 @@ connascent
 connatal
 connate
 connately
+colorbearer
 connateness
 connation
 connatural
