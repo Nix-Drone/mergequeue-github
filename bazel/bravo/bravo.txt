@@ -772,7 +772,6 @@ burghmoot
 bade
 badenite
 badge
-badged
 badgeless
 berrendo
 badgeman
@@ -15262,6 +15261,7 @@ bridgepot
 bridger
 bellworts
 broadened
+badged
 bridget
 bridgetin
 bridgetree
