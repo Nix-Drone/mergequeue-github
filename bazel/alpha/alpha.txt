@@ -2388,7 +2388,6 @@ achterveld
 achuete
 acy
 acyanoblepsia
-acyanopsia
 acichlorid
 acichloride
 acyclic
@@ -11807,6 +11806,7 @@ analogue
 analphabet
 analphabete
 analphabetic
+acyanopsia
 awink
 administrate
 anam
