@@ -1590,7 +1590,6 @@ egyptize
 egyptologer
 epipany
 egyptologic
-egyptological
 egis
 egises
 eglamore
@@ -13811,6 +13810,7 @@ extractor
 egotizing
 extractors
 excavation
+egyptological
 extractorship
 enfortune
 extracultural
