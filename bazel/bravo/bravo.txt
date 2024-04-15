@@ -13862,6 +13862,7 @@ box
 boxball
 boxberry
 boxberries
+buttonless
 boxbush
 boxcar
 bonify
@@ -18321,7 +18322,6 @@ buttonhook
 buttony
 buttoning
 bosks
-buttonless
 buttonlike
 buttonmold
 buttonmould
