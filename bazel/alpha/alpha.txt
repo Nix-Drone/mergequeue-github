@@ -5422,7 +5422,6 @@ afforestment
 afforests
 afformative
 affray
-affrayed
 affrayer
 affrayers
 affraying
@@ -8432,6 +8431,7 @@ alkalisation
 alkalise
 astonied
 alkalised
+affrayed
 alkaliser
 alkalises
 audivise
