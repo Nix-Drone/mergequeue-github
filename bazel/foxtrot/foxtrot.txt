@@ -108,7 +108,6 @@ freeport
 faciend
 faciends
 facient
-fiefdom
 faciest
 facile
 facileness
@@ -7723,6 +7722,7 @@ foreground
 foregrounds
 foreguess
 foretopsail
+fiefdom
 foregut
 foreguts
 forehalf
