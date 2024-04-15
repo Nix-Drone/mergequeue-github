@@ -5599,7 +5599,6 @@ granularity
 gregory
 glint
 glinting
-gliocyte
 glioma
 gliomas
 greatest
@@ -6075,6 +6074,7 @@ guatemaltecan
 glucogene
 glucogenesis
 glucokinase
+gliocyte
 glucokinin
 gravimetric
 glucolipid
