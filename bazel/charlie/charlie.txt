@@ -8807,7 +8807,6 @@ chaplain
 chaplaincy
 chaplaincies
 chaplains
-chaplainship
 chaplanry
 chapless
 chaplet
@@ -25237,6 +25236,7 @@ cornbin
 cornbind
 cornbinks
 cornbird
+chaplainship
 cornbole
 cornbottle
 commemorating
