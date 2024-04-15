@@ -4168,6 +4168,7 @@ admissibly
 admission
 admissions
 admissive
+automaton
 admissively
 alibi
 admissory
@@ -24184,7 +24185,6 @@ automatize
 automatized
 automatizes
 automatizing
-automaton
 automatonlike
 automatons
 automatonta
