@@ -762,6 +762,7 @@ badderlocks
 baddest
 baddy
 baddie
+barlock
 betimber
 baddies
 baddish
@@ -2713,7 +2714,6 @@ barleys
 barless
 barly
 barling
-barlock
 barlow
 barlows
 barm
