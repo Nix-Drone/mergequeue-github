@@ -7052,7 +7052,6 @@ clunker
 centiliter
 centiliters
 centilitre
-centillion
 centillionth
 centiloquy
 centimes
@@ -28642,6 +28641,7 @@ crenulated
 crenulation
 creodont
 creodonta
+centillion
 creodonts
 creole
 creoleize
