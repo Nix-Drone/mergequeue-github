@@ -181,6 +181,7 @@ evacuee
 earthset
 electroplated
 epirrhema
+electrodeposit
 exprobratory
 earthsets
 earthshaker
@@ -2386,7 +2387,6 @@ electrode
 electrodeless
 entremets
 electrodentistry
-electrodeposit
 electrodepositable
 electrification
 electrodeposition
