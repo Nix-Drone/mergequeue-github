@@ -4899,6 +4899,7 @@ flameout
 flameouts
 flameproof
 flameproofer
+flintlocks
 flamer
 flamers
 ferneries
@@ -8198,7 +8199,6 @@ forewritten
 forewrought
 forfairn
 forfalt
-flintlocks
 friezing
 flatbottom
 forfare
