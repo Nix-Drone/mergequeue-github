@@ -5927,7 +5927,6 @@ depredations
 depredator
 depredatory
 deontic
-depredicate
 deprehend
 damsel
 depress
@@ -13786,6 +13785,7 @@ disterr
 disthene
 dysthymic
 damozel
+depredicate
 disthrall
 disthrone
 disciplinarian
