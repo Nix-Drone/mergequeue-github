@@ -2442,7 +2442,6 @@ electrogild
 electrogilding
 electrogilt
 electrogram
-electrograph
 electrography
 electrographic
 eudyptes
@@ -3369,6 +3368,7 @@ embarking
 epitomize
 embarkment
 embarks
+electrograph
 embarment
 embarque
 embarras
