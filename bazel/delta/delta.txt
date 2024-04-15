@@ -15784,7 +15784,6 @@ dorsales
 dorsalgia
 dorsalis
 dorsally
-dorsalmost
 dorsals
 dorsalward
 dorsalwards
@@ -18589,6 +18588,7 @@ dustpans
 dustrag
 dustrags
 dissentient
+dorsalmost
 dittologies
 dustsheet
 denudational
