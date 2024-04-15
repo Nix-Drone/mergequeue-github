@@ -2586,7 +2586,6 @@ ferryway
 ferroaluminum
 ferrocene
 ferrocerium
-ferrochrome
 frowningly
 ferrocyanate
 ferrocyanhydric
@@ -5764,6 +5763,7 @@ fossulet
 futharks
 fleuronee
 flytrap
+ferrochrome
 flytraps
 flitted
 felsite
