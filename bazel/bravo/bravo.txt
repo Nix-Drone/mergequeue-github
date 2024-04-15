@@ -3016,7 +3016,6 @@ barristers
 barristership
 barristress
 barroom
-barrow
 barrowful
 barrowman
 barrows
@@ -3937,6 +3936,7 @@ biocoenosis
 bawn
 bawneen
 bawra
+barrow
 bawrel
 badling
 bawsint
