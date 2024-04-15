@@ -5277,6 +5277,7 @@ affectations
 affected
 affectedly
 affectedness
+apheliotropism
 affecter
 affecters
 affectibility
@@ -16830,7 +16831,6 @@ abstricts
 aphelinus
 aphelion
 apheliotropically
-apheliotropism
 aphelops
 aphemia
 aphemic
