@@ -4643,7 +4643,6 @@ advertising
 advertizable
 amulets
 advertized
-actinolite
 advertizement
 allobars
 advertizes
@@ -11265,6 +11264,7 @@ amphore
 amphorette
 amphoric
 amphoriloquy
+actinolite
 amphoriskoi
 amphoriskos
 amphorophony
