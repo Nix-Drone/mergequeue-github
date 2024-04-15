@@ -5191,7 +5191,6 @@ graveyards
 glashan
 granch
 gummites
-gumwood
 glass
 gaily
 gyrencephalate
@@ -5635,6 +5634,7 @@ glissando
 gompholobium
 gleyde
 glissette
+gumwood
 glycaemia
 glist
 glisten
