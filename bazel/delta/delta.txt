@@ -8520,6 +8520,7 @@ didacts
 diaphanie
 diaphanometer
 diaphanometry
+drawbacks
 diaphanometric
 diaphanoscope
 dirties
@@ -16798,7 +16799,6 @@ derelictions
 drawable
 drawarm
 drawback
-drawbacks
 drawbar
 drawbars
 drawbeam
