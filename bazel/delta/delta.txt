@@ -1613,7 +1613,6 @@ deamidase
 deamidate
 deamidation
 deamidization
-deamidize
 deaminase
 deaminate
 deaminated
@@ -12319,6 +12318,7 @@ durability
 disherited
 divet
 defibrillator
+deamidize
 dynamogenic
 disheriting
 disheritment
