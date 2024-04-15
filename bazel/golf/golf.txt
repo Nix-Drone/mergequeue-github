@@ -1987,6 +1987,7 @@ gatewoman
 gateworks
 gatherable
 gathered
+gilgai
 gatherers
 graplins
 gyrostabilizer
@@ -3524,7 +3525,6 @@ girkin
 germinative
 germinator
 germing
-gilgai
 gustus
 germless
 gymkhanas
