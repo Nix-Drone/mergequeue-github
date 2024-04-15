@@ -8981,7 +8981,6 @@ biocoenose
 biocoenoses
 biocoenosis
 biocoenotic
-biod
 biodegradability
 biodegradable
 biodegradation
@@ -9143,6 +9142,7 @@ baptistery
 bactericidin
 bioplastic
 biopoiesis
+biod
 biopotential
 bioprecipitation
 biopsy
