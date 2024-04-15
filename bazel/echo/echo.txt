@@ -2638,7 +2638,6 @@ electrosynthetically
 electrosmosis
 electrostatic
 electrostatical
-electrostatics
 electrosteel
 electrostenolysis
 electrostenolytic
@@ -8340,6 +8339,7 @@ epitactic
 epitaph
 epitapher
 epitaphian
+electrostatics
 epitaphic
 employing
 epitaphist
