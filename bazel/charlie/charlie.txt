@@ -8855,7 +8855,6 @@ chapters
 chaptrel
 chapwoman
 chaqueta
-chaquetas
 char
 conveyability
 chara
@@ -16688,6 +16687,7 @@ closuring
 clot
 clotbur
 clote
+chaquetas
 cloth
 clothe
 clothed
