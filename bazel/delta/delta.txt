@@ -5411,7 +5411,6 @@ dentition
 dilating
 dentolabial
 dentolingual
-darkener
 dentololabial
 dentonasal
 dentosurgical
@@ -17014,6 +17013,7 @@ drengage
 drepania
 drepanid
 drepanidae
+darkener
 drepanididae
 drepaniform
 drearier
