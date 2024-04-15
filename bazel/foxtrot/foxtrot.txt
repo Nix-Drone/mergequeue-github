@@ -7460,7 +7460,6 @@ forcepslike
 fey
 forceput
 fazing
-forcer
 forces
 forcet
 forchase
@@ -9546,6 +9545,7 @@ fratry
 fulcrate
 fratriage
 foothil
+forcer
 fratricelli
 fratricide
 fratricides
