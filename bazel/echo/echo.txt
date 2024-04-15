@@ -5726,7 +5726,6 @@ empacket
 engin
 engine
 engined
-engineery
 engineering
 engineeringly
 enrolment
@@ -13489,6 +13488,7 @@ exsiccative
 exsiccator
 exsolution
 exsolve
+engineery
 exsolved
 exsolving
 elegancies
