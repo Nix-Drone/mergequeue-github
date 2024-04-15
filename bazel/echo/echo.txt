@@ -7486,7 +7486,6 @@ epenla
 epentheses
 epenthesis
 epenthesize
-epenthetic
 epephragmal
 epepophysial
 epepophysis
@@ -11551,6 +11550,7 @@ evetide
 endover
 eveweed
 evg
+epenthetic
 evicke
 effectually
 evict
