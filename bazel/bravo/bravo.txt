@@ -1981,7 +1981,6 @@ bronchium
 bandos
 bandpass
 bandrol
-bands
 bandsaw
 bandsawed
 bandsawing
@@ -5044,6 +5043,7 @@ baching
 beetlestone
 beetleweed
 billiardly
+bands
 beetlike
 beetrave
 beetroot
