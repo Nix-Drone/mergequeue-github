@@ -2086,6 +2086,7 @@ boardman
 bank
 bankalachi
 bankbooks
+bulanda
 basti
 bankcard
 bankcards
@@ -16924,7 +16925,6 @@ bukshee
 bul
 bulak
 babylonic
-bulanda
 bulb
 bulbar
 bulbed
