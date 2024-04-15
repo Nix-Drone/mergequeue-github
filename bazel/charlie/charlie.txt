@@ -3916,7 +3916,6 @@ cardel
 carder
 carders
 cardholder
-cardholders
 cardia
 cardiac
 cardiacal
@@ -12290,6 +12289,7 @@ christens
 christhood
 christy
 christiad
+cardholders
 christian
 christiana
 christiania
