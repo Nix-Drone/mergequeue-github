@@ -837,7 +837,6 @@ abridger
 abridgers
 abridges
 abridging
-abridgment
 aphidian
 abridgments
 abrim
@@ -3514,6 +3513,7 @@ addendum
 addendums
 adder
 adderbolt
+abridgment
 adderfish
 adderspit
 adderwort
