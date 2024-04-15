@@ -1066,7 +1066,6 @@ farmeries
 farmerish
 farmerly
 farmerlike
-farmers
 farmership
 farmhold
 farmhouse
@@ -7114,6 +7113,7 @@ foolable
 fooldom
 foolery
 fooleries
+farmers
 foolfish
 foolhardy
 foolhardily
