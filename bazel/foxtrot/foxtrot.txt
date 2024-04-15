@@ -4094,7 +4094,6 @@ fellatrixes
 fletching
 finnish
 finnmark
-finnoc
 finnochio
 filiopietistic
 finns
@@ -8605,6 +8604,7 @@ fortunella
 fruiteress
 forprise
 forrad
+finnoc
 forrader
 forrard
 forensical
