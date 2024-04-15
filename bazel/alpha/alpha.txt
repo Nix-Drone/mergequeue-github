@@ -12956,7 +12956,6 @@ anguidae
 anguiform
 anguillaria
 abey
-anguille
 anguilliform
 anguilloid
 anguillula
@@ -21300,6 +21299,7 @@ aslake
 aslant
 aslantwise
 aslaver
+anguille
 asleep
 aslope
 aslumber
