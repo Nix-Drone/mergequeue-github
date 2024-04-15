@@ -6383,7 +6383,6 @@ bibs
 benzanthrone
 bocklogged
 benzazine
-benzazole
 buhrstone
 benzdiazine
 bipolarize
@@ -8570,6 +8569,7 @@ bilic
 bilifaction
 biliferous
 backfall
+benzazole
 bilify
 buncombes
 bilifuscin
