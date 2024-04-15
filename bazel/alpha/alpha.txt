@@ -6301,7 +6301,6 @@ agneau
 agneaux
 agnel
 agnes
-alternations
 alanyl
 agnification
 agnition
@@ -21879,6 +21878,7 @@ assonants
 arnottos
 assonia
 assoria
+alternations
 assort
 assortative
 assortatively
