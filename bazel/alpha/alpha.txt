@@ -6486,7 +6486,6 @@ agrilus
 agrimony
 agrimonia
 agrimotor
-agrin
 agriochoeridae
 agriochoerus
 agriology
@@ -7500,6 +7499,7 @@ albs
 albuca
 albuginaceae
 albuginea
+agrin
 albugineous
 albugines
 albuginitis
