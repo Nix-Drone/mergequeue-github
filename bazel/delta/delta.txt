@@ -5410,7 +5410,6 @@ dentists
 dentition
 dilating
 dentolabial
-dentolingual
 darkener
 dentololabial
 dentonasal
@@ -11652,6 +11651,7 @@ discording
 discordous
 discords
 discorporate
+dentolingual
 discorrespondency
 dioecious
 discos
