@@ -1709,6 +1709,7 @@ flowers
 filator
 fearnaught
 fearnought
+foreordaining
 ficche
 fearsome
 fearsomely
@@ -7853,7 +7854,6 @@ forensic
 forensically
 forensics
 foreordain
-foreordaining
 foreordainment
 foreordainments
 foreordinate
