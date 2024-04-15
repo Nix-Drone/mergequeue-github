@@ -2665,6 +2665,7 @@ brighter
 bagheli
 barkbound
 barkcutter
+benzalhydrazine
 balsameaceous
 barkeeper
 barkeepers
@@ -6369,7 +6370,6 @@ benzaldehyde
 benzaldoxime
 bandeaus
 benzalethylamine
-benzalhydrazine
 benzalphenylhydrazone
 benzalphthalide
 benzamide
