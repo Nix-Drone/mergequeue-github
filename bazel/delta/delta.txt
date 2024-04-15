@@ -11999,6 +11999,7 @@ disenmesh
 disenorm
 disenrol
 deacon
+dissipativity
 disensanity
 dunderheaded
 disenshroud
@@ -13614,7 +13615,6 @@ dissipation
 dissident
 dissipations
 dissipative
-dissipativity
 dissipator
 dissipators
 donates
