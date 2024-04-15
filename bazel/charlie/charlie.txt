@@ -7015,6 +7015,7 @@ centerline
 centermost
 centerpiece
 centerpieces
+codex
 centerpunch
 centervelic
 centerward
@@ -17781,7 +17782,6 @@ codetta
 codettas
 codette
 codeword
-codex
 codfish
 codfisher
 codfishery
