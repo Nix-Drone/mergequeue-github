@@ -3603,7 +3603,6 @@ filesmith
 filesniff
 filespec
 fossores
-filet
 fileting
 filets
 fylfot
@@ -5556,6 +5555,7 @@ flichtering
 flichters
 flick
 fiftyfold
+filet
 flicked
 formication
 flicker
