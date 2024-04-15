@@ -12176,7 +12176,6 @@ alfuro
 angiometer
 almach
 anchory
-anchoring
 anchorite
 astate
 anchorites
@@ -17244,6 +17243,7 @@ apokatastasis
 argyric
 apokatastatic
 antiserum
+anchoring
 apokrea
 anhydrite
 apolar
