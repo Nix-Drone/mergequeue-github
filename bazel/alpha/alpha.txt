@@ -1424,7 +1424,6 @@ acceleratory
 accelerators
 accelerograph
 accelerometer
-accelerometers
 accend
 accendibility
 accendible
@@ -12358,6 +12357,7 @@ androclclinia
 anisotropic
 androcles
 androclinia
+accelerometers
 androclinium
 androclus
 androconia
