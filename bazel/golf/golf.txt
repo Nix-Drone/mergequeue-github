@@ -290,7 +290,6 @@ gainset
 gainspeaker
 goldurnedest
 gainst
-gainstand
 gombroons
 gainstrive
 gayal
@@ -9045,6 +9044,7 @@ grimness
 grimnesses
 griping
 grimoire
+gainstand
 grimp
 grimsir
 grimsire
