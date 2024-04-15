@@ -4074,7 +4074,6 @@ adjutrice
 adjutrix
 adjuvant
 adjuvants
-adjuvate
 adlai
 adlay
 ambassage
@@ -7810,6 +7809,7 @@ aleck
 aleconner
 alecost
 alecs
+adjuvate
 alectoria
 alectorides
 alectoridine
