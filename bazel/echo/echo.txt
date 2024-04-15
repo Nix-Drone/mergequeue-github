@@ -2700,7 +2700,6 @@ escarmouche
 electrotyping
 electrotypist
 electrotitration
-electrotonic
 electrotonize
 electrotrephine
 electrotropic
@@ -4582,6 +4581,7 @@ encephalocoele
 elotherium
 encephalograph
 encephalographic
+electrotonic
 encephalographically
 encephaloid
 enforcing
