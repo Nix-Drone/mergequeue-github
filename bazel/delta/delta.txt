@@ -11959,7 +11959,6 @@ disenchantment
 disenchantments
 deities
 disenchantress
-disenchants
 disencharm
 drip
 disenclose
@@ -16529,6 +16528,7 @@ draffier
 draffiest
 dumbledore
 deoxidator
+disenchants
 draffish
 draffman
 draffs
