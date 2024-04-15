@@ -8148,7 +8148,6 @@ chainer
 chaining
 chainless
 craspedon
-chainlet
 chainlike
 chainmaker
 chainmaking
@@ -19685,6 +19684,7 @@ cytozyme
 combinable
 collectability
 combinably
+chainlet
 combinant
 combinate
 combination
