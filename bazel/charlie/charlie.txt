@@ -14548,7 +14548,6 @@ cirterion
 cyrtidae
 cyrtoceracone
 cyrtoceras
-cyrtoceratite
 cyrtoceratitic
 chergui
 cyrtolite
@@ -30495,6 +30494,7 @@ cubits
 cubitus
 cubla
 cubmaster
+cyrtoceratite
 cubocalcaneal
 cuboctahedron
 cubocube
