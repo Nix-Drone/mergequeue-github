@@ -9979,7 +9979,6 @@ chequerboard
 chequered
 chequering
 chequers
-chequerwise
 chequerwork
 cheques
 chequy
@@ -20051,6 +20050,7 @@ commercial
 commercialisation
 commercialised
 commercialising
+chequerwise
 commercialism
 commercialist
 commercialistic
