@@ -6138,7 +6138,6 @@ flotillas
 flibbertigibbets
 fishhook
 furnisher
-flotsam
 flotsams
 formulaic
 fishmeal
@@ -9067,6 +9066,7 @@ flabellarium
 fourquine
 firmans
 fourragere
+flotsam
 fourrageres
 fourre
 fourrier
