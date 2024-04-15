@@ -2050,6 +2050,7 @@ bangtails
 baselines
 bangup
 bani
+biaural
 banya
 banyai
 banyan
@@ -7849,7 +7850,6 @@ biassed
 biassedly
 biathlon
 biatomic
-biaural
 biauricular
 biauriculate
 biaxal
