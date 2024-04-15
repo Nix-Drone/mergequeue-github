@@ -7,7 +7,6 @@ fasciotomy
 fabaceous
 fabian
 fabianist
-fabiform
 footsoldier
 fable
 fibriform
@@ -5928,6 +5927,7 @@ floodable
 fineable
 floodage
 floodboard
+fabiform
 flooded
 flooder
 flooders
