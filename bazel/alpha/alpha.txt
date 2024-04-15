@@ -8475,7 +8475,6 @@ alkamin
 algorithms
 alkamine
 alkanal
-alkane
 alkanes
 alkanet
 alkanethiol
@@ -21628,6 +21627,7 @@ assegaiing
 americanized
 assegaing
 assegais
+alkane
 asseize
 asself
 assembl
