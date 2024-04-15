@@ -3946,7 +3946,6 @@ gibsons
 gibstaff
 gibus
 gibuses
-gid
 giddap
 giddy
 giddybrain
@@ -6470,6 +6469,7 @@ gobbledegook
 gobbledygook
 gobbler
 gormandiser
+gid
 gobbles
 gobbling
 gobelin
