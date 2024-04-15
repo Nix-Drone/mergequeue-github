@@ -7849,7 +7849,6 @@ biasing
 biasnesses
 biassed
 biassedly
-biasses
 biathlon
 biatomic
 biaural
@@ -12228,6 +12227,7 @@ brake
 bolsterwork
 bolt
 boltage
+biasses
 boltant
 boltcutter
 bolted
