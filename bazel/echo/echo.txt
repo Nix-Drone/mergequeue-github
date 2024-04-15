@@ -4452,7 +4452,6 @@ embraceor
 encrypt
 enantioses
 enantiotropy
-enantiotropic
 enantobiosis
 enapt
 enarbor
@@ -11237,6 +11236,7 @@ eutexia
 euthamia
 euthanasy
 euthanasic
+enantiotropic
 euthanatize
 euthenasia
 eiderdown
