@@ -2861,7 +2861,6 @@ fetterlock
 fetters
 fetticus
 fetting
-fettle
 fettled
 foxship
 fettler
@@ -4349,6 +4348,7 @@ fishboat
 fishboats
 fishbolt
 fishbolts
+fettle
 fishbone
 fishbones
 falchions
