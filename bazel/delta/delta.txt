@@ -5829,7 +5829,6 @@ deposable
 deposal
 deposals
 defats
-disorganized
 deposer
 deposers
 deposes
@@ -16744,6 +16743,7 @@ drape
 drapeable
 draped
 draperess
+disorganized
 ductile
 drawnly
 draperied
