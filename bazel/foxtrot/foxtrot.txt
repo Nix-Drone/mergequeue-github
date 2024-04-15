@@ -4836,7 +4836,6 @@ forearm
 fasher
 farmstead
 flairs
-firnification
 flays
 frightenedness
 flaite
@@ -5015,6 +5014,7 @@ flaps
 flare
 flareback
 ferments
+firnification
 fragmentitious
 flareboard
 flared
