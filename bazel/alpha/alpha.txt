@@ -9735,6 +9735,7 @@ amalg
 amalgam
 amalgamable
 amalgamate
+attackable
 amalgamates
 amalgamating
 antimonarchical
@@ -22921,7 +22922,6 @@ attack
 alloerotic
 aerophilic
 arterialisation
-attackable
 attacked
 attacker
 appetencies
