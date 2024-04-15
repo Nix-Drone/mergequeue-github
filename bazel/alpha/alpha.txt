@@ -1675,7 +1675,6 @@ accords
 accorporate
 accorporation
 accost
-accostable
 accosted
 accosting
 accosts
@@ -2847,6 +2846,7 @@ acrity
 acritochromacy
 acritol
 acritude
+accostable
 asthenobiosis
 acroa
 acroaesthesia
