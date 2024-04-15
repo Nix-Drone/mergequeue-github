@@ -5370,6 +5370,7 @@ catabolism
 catabolite
 catabolize
 catabolized
+claim
 catabolizing
 catachreses
 catachresis
@@ -19874,7 +19875,6 @@ coml
 conjugating
 comm
 commaes
-claim
 command
 commandable
 commandant
