@@ -5626,7 +5626,6 @@ dependence
 dependency
 dependencies
 divinities
-dependently
 depender
 depending
 dependingly
@@ -18146,6 +18145,7 @@ dumpiest
 dumpily
 derek
 dumpiness
+dependently
 dumpings
 dumpishly
 dumpishness
