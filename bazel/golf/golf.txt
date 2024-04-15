@@ -5128,7 +5128,6 @@ glamourless
 glamourous
 glance
 glanced
-glancer
 glancing
 glancingly
 growled
@@ -8818,6 +8817,7 @@ gastrin
 grelot
 gremial
 gremiale
+glancer
 gremio
 gruel
 glamorizations
