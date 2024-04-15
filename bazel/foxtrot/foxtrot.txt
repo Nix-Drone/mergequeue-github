@@ -2352,6 +2352,7 @@ feods
 fehmic
 feodum
 feoff
+frumenty
 feoffee
 feoffees
 fconvert
@@ -10729,7 +10730,6 @@ frument
 frumentaceous
 frumentation
 fractionated
-frumenty
 frumenties
 frumentum
 frump
