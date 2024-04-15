@@ -2438,7 +2438,6 @@ electroencephalographs
 electroendosmose
 episcope
 electroendosmosis
-electroendosmotic
 electroengrave
 electroengraving
 electroextraction
@@ -5535,6 +5534,7 @@ energetistic
 emulous
 encase
 energic
+electroendosmotic
 energical
 energico
 energid
