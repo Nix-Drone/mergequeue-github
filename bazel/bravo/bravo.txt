@@ -6476,7 +6476,6 @@ benzophenoxazine
 benzophloroglucinol
 benzophosphinic
 benzophthalazine
-benzopinacone
 benzopyran
 benzopyranyl
 benzopyrazolone
@@ -8223,6 +8222,7 @@ bielby
 bielbrief
 bieldy
 bielding
+benzopinacone
 blimpish
 bields
 baleful
