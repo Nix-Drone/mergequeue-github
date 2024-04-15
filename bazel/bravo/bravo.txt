@@ -3939,7 +3939,6 @@ bawrel
 badling
 bawsint
 bawsunt
-bawty
 bawtie
 bawties
 baxter
@@ -5508,6 +5507,7 @@ brattier
 branchings
 beyliks
 bein
+bawty
 beingness
 beinly
 beyond
