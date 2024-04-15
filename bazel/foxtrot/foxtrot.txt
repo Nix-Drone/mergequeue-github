@@ -6434,7 +6434,6 @@ foveolar
 fluoresceine
 fluorescer
 fluoresces
-fetch
 fluorescigenic
 fluorescigenous
 fulcrum
@@ -11629,6 +11628,7 @@ fusspot
 funditor
 fusspots
 fustanelle
+fetch
 fuster
 fusteric
 fioretti
