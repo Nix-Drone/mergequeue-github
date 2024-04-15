@@ -857,6 +857,7 @@ glomeruli
 galvanothermy
 galvanothermometer
 galvanotonic
+guaco
 galvo
 gangliac
 gleds
@@ -9771,7 +9772,6 @@ grimacer
 gonidiospore
 gradatim
 guachipilin
-guaco
 guaconize
 guacos
 groceteria
