@@ -5555,7 +5555,6 @@ dep
 depaganize
 depainted
 depainting
-depaints
 depair
 depayse
 depancreatization
@@ -12428,6 +12427,7 @@ disincline
 disinclined
 disinclines
 disinclining
+depaints
 dormitory
 disinclose
 disincorporating
