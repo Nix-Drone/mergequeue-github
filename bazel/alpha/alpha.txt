@@ -6021,7 +6021,6 @@ agglomeration
 agglomerative
 agglomerator
 autoing
-agglutinability
 aramis
 agglutinable
 agglutinant
@@ -13317,6 +13316,7 @@ alfas
 anisoles
 archangels
 anisoleucocytosis
+agglutinability
 anisomeles
 anisomelia
 anisomelus
