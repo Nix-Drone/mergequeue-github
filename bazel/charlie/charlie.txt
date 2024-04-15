@@ -7543,6 +7543,7 @@ cerebellifugal
 cerebellipetal
 cerebellitis
 cerebellocortex
+constrain
 cerebellopontile
 cerebellopontine
 cerebellorubral
@@ -23123,7 +23124,6 @@ constitutiveness
 constitutor
 cassiri
 constr
-constrain
 constrained
 constrainedly
 constrainedness
