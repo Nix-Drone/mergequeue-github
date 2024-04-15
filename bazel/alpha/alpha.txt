@@ -4454,7 +4454,6 @@ adstipulating
 adstipulation
 adstipulator
 adstrict
-adstringe
 adsum
 adterminal
 adtevac
@@ -8771,6 +8770,7 @@ allness
 allo
 alloantibody
 agreers
+adstringe
 allobar
 allobaric
 ammonolyses
