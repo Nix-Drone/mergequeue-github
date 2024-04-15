@@ -680,7 +680,6 @@ bacteriosis
 bacteriosolvent
 bacteriostasis
 bacteriostat
-bacteriostatic
 bacteriostatically
 bacteriotherapeutic
 bacteriotherapy
@@ -2939,6 +2938,7 @@ barrators
 barratry
 blithered
 barratries
+bacteriostatic
 barratrous
 barratrously
 blasties
