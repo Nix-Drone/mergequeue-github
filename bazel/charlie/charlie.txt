@@ -19342,7 +19342,6 @@ checkstone
 color
 colorability
 cycadaceous
-colorable
 colorableness
 countercharge
 colorably
@@ -26885,6 +26884,7 @@ countermanding
 countermaneuver
 countermanifesto
 countermanifestoes
+colorable
 cunningaire
 canephroi
 countermarch
