@@ -2571,6 +2571,7 @@ bookmaking
 bargemaster
 booklice
 barger
+bloomage
 barges
 bargestone
 bargh
@@ -11164,7 +11165,6 @@ blearily
 blooey
 burmese
 blooie
-bloomage
 bloomed
 bloomer
 bloomery
