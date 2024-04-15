@@ -5742,7 +5742,6 @@ deployments
 deftest
 deplorabilia
 deplorability
-deplorable
 depolymerizing
 deplorableness
 deplorably
@@ -7053,6 +7052,7 @@ destructory
 destructors
 destructuralize
 destrudo
+deplorable
 destuff
 destuffing
 destuffs
