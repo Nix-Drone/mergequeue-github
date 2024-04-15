@@ -5335,7 +5335,6 @@ begray
 begrain
 begrave
 birne
-begrease
 begrett
 begrim
 begrimed
@@ -9482,6 +9481,7 @@ birkremite
 birks
 backspread
 birl
+begrease
 byrl
 bughead
 byrlady
