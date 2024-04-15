@@ -2469,6 +2469,7 @@ electroimpulse
 electroindustrial
 electroing
 electroionic
+enzymology
 electroirrigation
 electrojet
 electrokinematics
@@ -7311,7 +7312,6 @@ enzymic
 exiguous
 enzymolysis
 enzymolytic
-enzymology
 enzymologies
 enzymologist
 enzymotic
