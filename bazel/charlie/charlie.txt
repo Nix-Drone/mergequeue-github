@@ -10510,6 +10510,7 @@ clattertrap
 chiliads
 chiliaedron
 chiliagon
+connexity
 chiliahedron
 chiliarch
 chiliarchy
@@ -20813,7 +20814,6 @@ comportment
 comports
 compos
 corpulence
-connexity
 composable
 composal
 composant
