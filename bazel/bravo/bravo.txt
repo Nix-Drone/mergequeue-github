@@ -4291,6 +4291,7 @@ beausire
 batetela
 berakot
 beaut
+buffered
 beauteous
 beauteously
 beauti
@@ -16783,7 +16784,6 @@ buffcoat
 buffe
 buffed
 buffer
-buffered
 bohemians
 bufferrers
 buffers
