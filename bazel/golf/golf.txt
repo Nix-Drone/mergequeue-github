@@ -2879,6 +2879,7 @@ genos
 genospecies
 genotype
 genotypic
+gularis
 genotypical
 gunfire
 genotypically
@@ -4479,7 +4480,6 @@ glissade
 gingivalgia
 gymnure
 gingivectomy
-gularis
 gigerium
 gingivolabial
 gingkoes
