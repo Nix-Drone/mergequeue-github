@@ -2259,7 +2259,6 @@ gurish
 grieving
 gearcase
 gearcases
-geared
 gearings
 gearman
 gears
@@ -6935,6 +6934,7 @@ gonomere
 greyer
 gonomery
 gthite
+geared
 gonophore
 gonophoric
 gonophorous
