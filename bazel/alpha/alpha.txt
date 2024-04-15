@@ -4847,7 +4847,6 @@ aeolodion
 aeolomelodicon
 aeolotropy
 aeolotropic
-aeolotropism
 aeolsklavier
 aeolus
 aeon
@@ -10423,6 +10422,7 @@ amidoaldehyde
 amidoazo
 amidoazobenzene
 amidocaffeine
+aeolotropism
 amidocapric
 amidofluorid
 amidofluoride
