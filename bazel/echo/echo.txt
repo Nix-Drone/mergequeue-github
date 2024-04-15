@@ -2441,7 +2441,6 @@ electroextraction
 expedient
 electroform
 electroforming
-electrofuse
 electrofused
 electrofusion
 ethanol
@@ -10003,6 +10002,7 @@ esthesio
 esthesioblast
 esthesiogen
 esthesiogeny
+electrofuse
 esthesiogenic
 enamelware
 esthesiography
