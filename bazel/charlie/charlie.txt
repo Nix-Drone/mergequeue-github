@@ -2022,7 +2022,6 @@ campestral
 campestrian
 cordelier
 campfight
-campfire
 campfires
 campground
 canful
@@ -27439,6 +27438,7 @@ cerberean
 covercle
 covered
 coverer
+campfire
 coverers
 covering
 coverings
