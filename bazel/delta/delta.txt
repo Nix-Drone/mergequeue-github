@@ -817,7 +817,6 @@ dangersome
 dangle
 dangleberry
 dangled
-danglement
 dangler
 danglers
 dangles
@@ -2269,6 +2268,7 @@ deformism
 decentred
 decentres
 decentring
+danglement
 decephalization
 decephalize
 deceptibility
