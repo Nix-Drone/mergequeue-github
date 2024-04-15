@@ -937,7 +937,6 @@ gamebag
 girtline
 gauby
 gamecock
-garden
 gamecraft
 gameful
 girba
@@ -2247,6 +2246,7 @@ gearshift
 gearshifts
 gearwheel
 gearwheels
+garden
 glistening
 gease
 geast
