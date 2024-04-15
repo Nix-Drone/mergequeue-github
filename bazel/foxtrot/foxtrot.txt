@@ -4204,7 +4204,6 @@ firepinks
 frat
 fireplace
 fireplaces
-fireplough
 fireplow
 fleeceable
 fireplug
@@ -8046,6 +8045,7 @@ forestage
 front
 forestay
 forestair
+fireplough
 forestays
 forehinting
 forestaysail
