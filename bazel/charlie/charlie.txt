@@ -1958,7 +1958,6 @@ campagnol
 campagnols
 campagus
 campaign
-campaigned
 campaigner
 campaigners
 campaigning
@@ -11745,6 +11744,7 @@ connubiate
 chondroepiphysis
 chondrofibroma
 chondrofibromatous
+campaigned
 chondroganoidei
 chondrogen
 chondrogenesis
