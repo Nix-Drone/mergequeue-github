@@ -1385,6 +1385,7 @@ bywords
 bacule
 baldachin
 baldachined
+brushfires
 baldachini
 baldachino
 baldachins
@@ -11698,7 +11699,6 @@ bumkins
 bobflies
 bobfloat
 bobierrite
-brushfires
 bobization
 bobjerom
 boblet
