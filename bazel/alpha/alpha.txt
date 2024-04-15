@@ -4787,7 +4787,6 @@ aegisthus
 aegithalos
 aegithognathae
 aegithognathism
-aegithognathous
 aegle
 aegophony
 aegopodium
@@ -7493,6 +7492,7 @@ albumenizer
 albumenizing
 albumenoid
 albumens
+aegithognathous
 albumimeter
 albumin
 albuminate
