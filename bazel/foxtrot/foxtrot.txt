@@ -8312,6 +8312,7 @@ forelock
 forhow
 foryield
 forinsecal
+furnished
 furnaceman
 ferriage
 farcical
@@ -11446,7 +11447,6 @@ furnishable
 flannelmouthed
 foregather
 frustrable
-furnished
 furnishes
 furnishing
 furnishings
