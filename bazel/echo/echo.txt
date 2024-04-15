@@ -2682,6 +2682,7 @@ electrothermic
 electrothermics
 enschedule
 enrapturer
+entrainer
 electrothermometer
 electrothermostat
 electrothermostatic
@@ -7028,7 +7029,6 @@ envine
 entrail
 entrain
 entrained
-entrainer
 entraining
 entrainment
 emulsive
