@@ -27054,7 +27054,6 @@ counterside
 countersiege
 crance
 countersign
-countersignal
 countersignature
 countersignatures
 countersigned
@@ -31645,6 +31644,7 @@ cushaw
 cushaws
 civies
 chromogram
+countersignal
 cushewbird
 cushy
 cushie
