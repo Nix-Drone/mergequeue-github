@@ -2606,7 +2606,6 @@ dispose
 decolorization
 decolorized
 decolorizer
-decolorizing
 decoder
 decolors
 decolour
@@ -17186,6 +17185,7 @@ drinks
 drinn
 dryobalanops
 dryopes
+decolorizing
 decorums
 dryophyllum
 diagonality
