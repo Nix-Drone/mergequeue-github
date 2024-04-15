@@ -6504,7 +6504,6 @@ buster
 benzotrifluoride
 benzotrifuran
 benzoxate
-benzoxy
 bolection
 benzoxyacetic
 benzoxycamphor
@@ -16265,6 +16264,7 @@ brugnatellite
 bizone
 bruyere
 bruin
+benzoxy
 bruins
 bruise
 brocading
