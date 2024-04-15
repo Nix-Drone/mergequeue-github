@@ -6377,7 +6377,6 @@ goalkeeping
 goalmouth
 goalpost
 gambusias
-goalposts
 goals
 goaltender
 goaltenders
@@ -7323,6 +7322,7 @@ gossipmonger
 gahnite
 gossipmongering
 gossypols
+goalposts
 gamming
 gossypose
 garbure
