@@ -1641,7 +1641,6 @@ ballonette
 ballonne
 ballonnes
 balloon
-ballooned
 ballooner
 ballooners
 balloonet
@@ -2389,6 +2388,7 @@ barberfish
 barbering
 barberite
 barbermonger
+ballooned
 barbero
 barberry
 barberries
