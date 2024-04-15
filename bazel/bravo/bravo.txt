@@ -1894,7 +1894,6 @@ bandeau
 bandeaux
 betula
 banded
-bandel
 bandelet
 bandelette
 bandeng
@@ -17387,6 +17386,7 @@ bungalows
 bungarum
 bungarus
 bijection
+bandel
 bunged
 buildress
 bungee
