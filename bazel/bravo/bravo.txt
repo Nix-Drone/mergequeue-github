@@ -4085,6 +4085,7 @@ bealach
 beallach
 bealtared
 bealtine
+bom
 beam
 beambird
 beamed
@@ -12249,7 +12250,6 @@ boltuprightness
 boltwork
 bolus
 boluses
-bom
 benn
 bomarea
 bomb
