@@ -504,7 +504,6 @@ dales
 decistere
 dalesfolk
 dalesman
-dalespeople
 daleswoman
 daleth
 daleths
@@ -1824,6 +1823,7 @@ deblocking
 deboise
 dispunge
 deboistly
+dalespeople
 deboite
 deboites
 debonair
