@@ -5453,6 +5453,7 @@ expendable
 endseal
 endshake
 endsheet
+everglade
 endue
 exploration
 endued
@@ -11502,7 +11503,6 @@ everbearer
 everbearing
 everblooming
 everest
-everglade
 everglades
 epeirogeny
 euflavine
