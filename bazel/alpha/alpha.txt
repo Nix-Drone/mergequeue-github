@@ -18755,7 +18755,6 @@ adjoin
 archbuffoon
 archbuilder
 archchampion
-archchaplain
 archcheater
 archchemic
 archchronicler
@@ -22018,6 +22017,7 @@ asterikos
 asterin
 anticoagulating
 asterina
+archchaplain
 asterinidae
 asterioid
 asterion
