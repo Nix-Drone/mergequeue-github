@@ -1588,7 +1588,6 @@ dealfishes
 dealings
 dealkalize
 dealkylate
-dealkylation
 deallocate
 deallocated
 daunter
@@ -9835,6 +9834,7 @@ decked
 dimer
 dimeran
 deboner
+dealkylation
 dimercaprol
 dimercury
 dimercurion
