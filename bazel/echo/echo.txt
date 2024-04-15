@@ -2437,7 +2437,6 @@ electroendosmosis
 electroendosmotic
 electroengrave
 electroengraving
-electroetching
 electroextraction
 expedient
 electroform
@@ -7948,6 +7947,7 @@ epigastrial
 epihyal
 electromagnetize
 epihydric
+electroetching
 epihippus
 epikeia
 eggheaded
