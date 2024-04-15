@@ -3746,6 +3746,7 @@ batterable
 battercake
 batterdock
 battered
+bootstrap
 batterer
 batterfang
 bkcy
@@ -4381,7 +4382,6 @@ biochemist
 beboss
 boreus
 bebotch
-bootstrap
 bebothered
 bebouldered
 bayish
