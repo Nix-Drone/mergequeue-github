@@ -13303,7 +13303,6 @@ cyclocoelic
 cycloconium
 cyclode
 cyclodiene
-cyclodiolefin
 cyclodiolefine
 cycloganoid
 cycloganoidei
@@ -13940,6 +13939,7 @@ cinnamenyl
 cinnamic
 cinnamyl
 cinnamylidene
+cyclodiolefin
 cinnamodendron
 cinnamol
 cinnamomic
