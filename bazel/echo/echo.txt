@@ -2687,7 +2687,6 @@ enschedule
 enrapturer
 entrainer
 electrothermometer
-electrothermostat
 electrothermostatic
 electrothermotic
 electrotype
@@ -3060,6 +3059,7 @@ elkwood
 ell
 ella
 equipoises
+electrothermostat
 ellagate
 ellagic
 ellan
