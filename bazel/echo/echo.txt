@@ -4412,7 +4412,6 @@ equiped
 enfamish
 enamellers
 enamelless
-enamelling
 enamels
 enamelwork
 enami
@@ -6256,6 +6255,7 @@ eten
 enquired
 enquiry
 enquiries
+enamelling
 enquiring
 enrace
 enrage
