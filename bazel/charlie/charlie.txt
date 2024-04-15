@@ -3212,7 +3212,6 @@ caponize
 crispate
 caponized
 caponizer
-caponizes
 caponizing
 caponniere
 capons
@@ -14493,6 +14492,7 @@ cirrhus
 cirri
 cirribranch
 cirriferous
+caponizes
 cirrigerous
 cirrigrade
 cirriped
