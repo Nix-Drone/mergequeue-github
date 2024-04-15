@@ -4779,6 +4779,7 @@ carrotwood
 carrousel
 carrousels
 carrow
+compiles
 carrozza
 carrs
 carrus
@@ -20581,7 +20582,6 @@ compilator
 compileable
 compiled
 compilement
-compiles
 compiling
 comping
 clanjamfrie
