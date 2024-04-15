@@ -1907,7 +1907,6 @@ biochemical
 banderoled
 banderoles
 banderoling
-banderols
 banders
 bandersnatch
 bandfile
@@ -4026,6 +4025,7 @@ beacons
 beaded
 beadeye
 beadeyes
+banderols
 beader
 beadflush
 beadhouse
