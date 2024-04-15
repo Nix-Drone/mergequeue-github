@@ -2548,6 +2548,7 @@ acknew
 acknow
 acknowing
 acknowledge
+aphid
 acknowledgeable
 acknowledged
 afoam
@@ -16853,7 +16854,6 @@ aphanitic
 aphetize
 aphicidal
 aphicide
-aphid
 aphides
 aphidicide
 aphidid
