@@ -487,6 +487,7 @@ eccritic
 endmatcher
 ecdemic
 ecderon
+emersion
 ecderonic
 endocrinologists
 ecdyses
@@ -3872,7 +3873,6 @@ emeroid
 echinulation
 emeroids
 emersed
-emersion
 eggcupful
 emarginately
 emerson
