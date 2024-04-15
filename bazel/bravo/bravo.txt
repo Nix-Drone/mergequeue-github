@@ -5283,7 +5283,6 @@ begirds
 begirt
 beglad
 begladding
-beglads
 beglare
 beglerbeg
 beglerbeglic
@@ -15451,6 +15450,7 @@ brailing
 brinie
 brinier
 bloodless
+beglads
 brinies
 briniest
 brininess
