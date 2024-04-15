@@ -1174,7 +1174,6 @@ ganglioside
 gangman
 gangmaster
 gangplank
-gangplow
 gangplows
 gangrel
 glycerine
@@ -9278,6 +9277,7 @@ gripe
 grogshop
 groin
 groyne
+gangplow
 groan
 gardeen
 gastaldo
