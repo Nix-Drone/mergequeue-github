@@ -6856,7 +6856,6 @@ aircraftsmen
 aircraftswoman
 aircraftwoman
 ahint
-aircrew
 anteverts
 aircrewman
 aircrewmen
@@ -13041,6 +13040,7 @@ anhydraemic
 anhydrate
 anhydrated
 anhydrating
+aircrew
 anhydration
 anhydremia
 anhydride
