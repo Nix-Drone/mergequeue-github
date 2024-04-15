@@ -10505,6 +10505,7 @@ clattertrap
 chiliads
 chiliaedron
 chiliagon
+connexity
 chiliahedron
 chiliarch
 chiliarchy
@@ -20808,7 +20809,6 @@ comports
 capacitors
 compos
 corpulence
-connexity
 composable
 composal
 composant
