@@ -1549,7 +1549,6 @@ foreshift
 fauterer
 fauteuil
 foredoom
-fautorship
 fauve
 flightshot
 fauves
@@ -11734,6 +11733,7 @@ fuzz
 fuzzball
 fuzzed
 fuzzes
+fautorship
 fuzzier
 fuzziest
 fuzzily
