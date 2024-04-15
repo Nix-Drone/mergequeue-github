@@ -2836,7 +2836,6 @@ genip
 grouchy
 genipa
 grizzle
-genipap
 greenstuff
 genipaps
 genyplasty
@@ -5313,6 +5312,7 @@ glaziers
 gnathostomous
 glazing
 glb
+genipap
 gld
 glead
 gleam
