@@ -6302,7 +6302,6 @@ fluidics
 fissicostate
 fluidified
 fluidifier
-fluidifying
 fluidimeter
 fluidisation
 forewisdom
@@ -9883,6 +9882,7 @@ freshening
 freshens
 fresher
 freshest
+fluidifying
 freshets
 fioritura
 freshhearted
