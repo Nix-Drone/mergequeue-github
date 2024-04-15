@@ -7254,7 +7254,6 @@ bestiary
 bestiarian
 bestiaries
 bestiarist
-besticking
 bestill
 besting
 bestirred
@@ -17763,6 +17762,7 @@ burner
 burnetize
 bloodstain
 burnettize
+besticking
 burnettized
 blastophaga
 burnfire
