@@ -2237,7 +2237,6 @@ achievement
 antecedents
 ardor
 achievements
-achiever
 achievers
 achieves
 aiguillesque
@@ -17201,6 +17200,7 @@ apogee
 apogees
 apogeic
 apogeny
+achiever
 assiduous
 apogenous
 apogeotropic
