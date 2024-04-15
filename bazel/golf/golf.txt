@@ -2885,7 +2885,6 @@ genro
 gens
 ghyll
 gensengs
-gentamicin
 genteel
 glike
 gaulin
@@ -4150,6 +4149,7 @@ grimy
 giesel
 gilliflower
 gillyflower
+gentamicin
 gillygaupus
 gluts
 gillying
