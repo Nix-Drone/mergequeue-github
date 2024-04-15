@@ -4443,7 +4443,6 @@ carnify
 carnification
 carnifices
 carnificial
-carnified
 carnifies
 carniform
 carnitine
@@ -22892,6 +22891,7 @@ consilience
 consilient
 consimilar
 consimilate
+carnified
 consimilated
 consimilating
 consimile
