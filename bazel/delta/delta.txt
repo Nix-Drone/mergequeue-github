@@ -11174,7 +11174,6 @@ disbarred
 disbarring
 disbars
 disbase
-disbecome
 disbelief
 disbeliefs
 disbelieved
@@ -11656,6 +11655,7 @@ discordous
 discords
 discorporate
 dioecious
+disbecome
 discos
 discost
 discostate
