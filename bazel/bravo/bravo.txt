@@ -5616,6 +5616,7 @@ belayed
 belayer
 belaying
 belays
+brandishers
 belait
 biface
 belaites
@@ -14510,7 +14511,6 @@ brandish
 brandished
 brandisher
 biochron
-brandishers
 brandishes
 brandishing
 brandisite
