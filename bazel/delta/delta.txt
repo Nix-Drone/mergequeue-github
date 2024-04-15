@@ -5550,7 +5550,6 @@ deoxygenized
 deoxyribonuclease
 deoxyribonucleoprotein
 deoxyribonucleotide
-deoxyribose
 deozonization
 deozonize
 deozonizer
@@ -11531,6 +11530,7 @@ discommunity
 doggoneder
 discompanied
 discomplexion
+deoxyribose
 debits
 discompliance
 discompose
