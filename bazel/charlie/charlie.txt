@@ -1869,7 +1869,6 @@ camerawork
 camery
 camerier
 cameriera
-camerieri
 camerine
 camerinidae
 camerist
@@ -31430,6 +31429,7 @@ currency
 currencies
 current
 currently
+camerieri
 currentness
 currents
 currentwise
