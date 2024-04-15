@@ -15288,7 +15288,6 @@ antigenes
 agree
 antigenic
 antigenically
-antigenicity
 antigens
 antigigmanic
 antigyrous
@@ -24031,6 +24030,7 @@ autoexcitation
 autofermentation
 autofluorescence
 autoformation
+antigenicity
 autofrettage
 autogamic
 autogamies
