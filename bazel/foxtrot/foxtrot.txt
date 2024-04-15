@@ -5938,6 +5938,7 @@ floorages
 floorboard
 floorcloth
 fala
+frigidity
 featherbedding
 floorcloths
 floored
@@ -10060,7 +10061,6 @@ femalize
 frigidaire
 frigidarium
 frigiddaria
-frigidity
 frigidly
 flemished
 fylgja
