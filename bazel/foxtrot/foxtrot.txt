@@ -551,7 +551,6 @@ falkland
 fall
 falla
 fallace
-fallacy
 fallacies
 feltlike
 fallacious
@@ -5826,6 +5825,7 @@ floaty
 floatier
 felsophyric
 fitter
+fallacy
 floatiest
 frederic
 floatiness
