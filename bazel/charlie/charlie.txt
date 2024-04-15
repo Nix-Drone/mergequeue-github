@@ -8289,7 +8289,6 @@ chalcomancy
 chalcomenite
 chalcone
 chalcophanite
-chalcophile
 chalcophyllite
 chalcopyrite
 chalcosiderite
@@ -21971,6 +21970,7 @@ confinable
 confine
 confineable
 confined
+chalcophile
 confinedly
 confinedness
 confineless
