@@ -13928,7 +13928,6 @@ cinnamaldehyde
 cinnamate
 cinnamein
 cinnamene
-cinnamenyl
 cinnamic
 cinnamyl
 cinnamylidene
@@ -19352,6 +19351,7 @@ colorful
 colorfully
 colorfulness
 colory
+cinnamenyl
 colorific
 colorifics
 colorimeter
