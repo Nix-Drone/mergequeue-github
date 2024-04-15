@@ -6646,7 +6646,6 @@ endorsement
 enterocholecystostomy
 enterochromaffin
 enterocinesia
-enterocinetic
 enterocyst
 eschara
 enterocystoma
@@ -9045,6 +9044,7 @@ earings
 exocardial
 electropathic
 eric
+enterocinetic
 erica
 ericaceae
 ericaceous
