@@ -9636,6 +9636,7 @@ bisections
 bisector
 bisectors
 bisectrices
+busybodyness
 bisects
 bisegment
 bisellia
@@ -18024,7 +18025,6 @@ busybodies
 busybodyish
 busybodyism
 brachystochrone
-busybodyness
 busycon
 busied
 busiest
