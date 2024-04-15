@@ -4688,7 +4688,6 @@ depas
 demisemiquaver
 delineable
 demisemitone
-demises
 demisheath
 demyship
 demishirt
@@ -8127,6 +8126,7 @@ diacritic
 diacritical
 diacritically
 diacromyodi
+demises
 diact
 diactin
 diactinal
