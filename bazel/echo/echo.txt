@@ -3084,6 +3084,7 @@ ellipsoid
 ellipsoidal
 ellipsoids
 ellipsometry
+executiveness
 ellipsone
 ellipsonic
 elliptical
@@ -12313,7 +12314,6 @@ executioners
 executions
 emulates
 executively
-executiveness
 entangledly
 elric
 executiveship
