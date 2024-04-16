@@ -1625,7 +1625,6 @@ ballock
 ballocks
 babies
 balloen
-ballogan
 ballon
 ballone
 ballones
@@ -8999,6 +8998,7 @@ biog
 blacknob
 biogases
 biogen
+ballogan
 biogenase
 biogenesis
 baudekins
