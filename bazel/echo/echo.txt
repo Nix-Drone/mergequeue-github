@@ -1786,7 +1786,6 @@ experts
 eyeleting
 eyelets
 eyeletted
-eyeletting
 eyelid
 eyelids
 engining
@@ -13140,6 +13139,7 @@ expiry
 expiries
 expiring
 endosarc
+eyeletting
 expiringly
 endorse
 expiscated
