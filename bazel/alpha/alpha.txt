@@ -888,6 +888,7 @@ allergy
 abscessed
 abscesses
 abscessing
+airframes
 abscession
 abscind
 abscised
@@ -6890,7 +6891,6 @@ airflows
 airfoil
 airfoils
 airframe
-airframes
 airglow
 airglows
 acondylous
