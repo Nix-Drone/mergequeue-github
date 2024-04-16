@@ -2558,7 +2558,6 @@ booklice
 barger
 bloomage
 barges
-bargestone
 bargh
 bargham
 barghest
@@ -17945,6 +17944,7 @@ bushelled
 bushelling
 bushelman
 bushelmen
+bargestone
 bushels
 bimester
 busher
