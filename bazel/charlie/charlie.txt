@@ -9419,7 +9419,6 @@ cheapener
 cheapens
 cheaper
 cheapery
-cheapest
 cheapie
 cheapies
 cheaping
@@ -25906,6 +25905,7 @@ corticostriate
 corticotrophin
 corticous
 cortile
+cheapest
 cortin
 cortina
 cortinae
