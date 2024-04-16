@@ -11235,6 +11235,7 @@ disbursements
 disburser
 disburses
 disbursing
+drylot
 disburthen
 disbutton
 defervesce
@@ -17164,7 +17165,6 @@ drillings
 drillman
 drillmaster
 drillmasters
-drylot
 drylots
 drilvis
 dryness
