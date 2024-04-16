@@ -1190,7 +1190,6 @@ edrioasteroidea
 elixed
 edriophthalmatous
 edriophthalmian
-edriophthalmic
 eds
 educ
 educability
@@ -13717,6 +13716,7 @@ extol
 extoled
 extoling
 extoll
+edriophthalmic
 emraud
 executonis
 extollation
