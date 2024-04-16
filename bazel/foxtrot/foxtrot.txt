@@ -5927,7 +5927,6 @@ fistfight
 floodwood
 flooey
 flook
-floorage
 floorages
 floorboard
 floorcloth
@@ -11180,6 +11179,7 @@ funebrous
 funeral
 funeralize
 frit
+floorage
 funerally
 foresettle
 funerary
