@@ -1632,7 +1632,6 @@ ballonette
 ballonne
 ballonnes
 balloon
-ballooner
 ballooners
 bowfront
 balloonet
@@ -14735,6 +14734,7 @@ brazers
 brazes
 brazier
 braziery
+ballooner
 burgheress
 brazil
 bilgewater
