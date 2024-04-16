@@ -5061,7 +5061,6 @@ flaskets
 faecal
 flasklet
 flasks
-farmhands
 flasque
 flat
 fids
@@ -7603,6 +7602,7 @@ flees
 fers
 foreday
 fulmen
+farmhands
 furuncles
 foredays
 fanal
