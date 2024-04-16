@@ -4203,7 +4203,6 @@ admonishes
 admonishing
 anaesthetizing
 admonishingly
-admonishment
 admonishments
 admonitionist
 admonitions
@@ -24106,6 +24105,7 @@ autoinduction
 autoinductive
 autoinfusion
 autoinhibited
+admonishment
 autoinoculable
 autoinoculation
 autointellectual
