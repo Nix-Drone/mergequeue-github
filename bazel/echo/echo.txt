@@ -1100,6 +1100,7 @@ earthlike
 equipper
 edibility
 edible
+expurgatory
 edibleness
 edibles
 edict
@@ -13421,7 +13422,6 @@ expurgating
 expurgation
 expurgational
 expurgations
-expurgatory
 expurge
 exquire
 exquisite
