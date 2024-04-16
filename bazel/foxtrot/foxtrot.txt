@@ -35,6 +35,7 @@ fabricators
 fabricature
 fabrics
 filters
+fallacies
 fabrique
 fabronia
 fabroniaceae
@@ -545,7 +546,6 @@ flummox
 fall
 falla
 fallace
-fallacies
 feltlike
 foretalk
 fidalgo
