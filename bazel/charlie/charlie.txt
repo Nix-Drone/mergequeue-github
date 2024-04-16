@@ -6561,7 +6561,6 @@ centibar
 cedrus
 cedula
 cedule
-ceduous
 cee
 ceennacuelum
 cees
@@ -19864,6 +19863,7 @@ coml
 conjugating
 comm
 commaes
+ceduous
 command
 commandable
 commandant
