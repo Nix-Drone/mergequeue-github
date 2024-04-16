@@ -3340,7 +3340,6 @@ defiles
 defiliation
 defiling
 defilingly
-definability
 different
 definable
 definably
@@ -11227,6 +11226,7 @@ disbursements
 disburser
 disburses
 divinistre
+definability
 disbursing
 drylot
 disburthen
