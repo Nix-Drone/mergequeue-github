@@ -5305,6 +5305,7 @@ castled
 castlelike
 castlery
 castles
+cortaderia
 castlet
 chairwoman
 castleward
@@ -25825,7 +25826,6 @@ corsned
 corso
 corsos
 corta
-cortaderia
 cortaro
 cookies
 corteges
