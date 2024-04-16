@@ -6113,6 +6113,7 @@ bename
 benamee
 bpt
 benami
+bequeathable
 benamidar
 benasty
 beholdable
@@ -6578,7 +6579,6 @@ bepuzzle
 bepuzzlement
 bequalm
 bequeath
-bequeathable
 bequeathal
 bequeathed
 bequeather
