@@ -4655,7 +4655,6 @@ doblones
 demipesade
 demipike
 demipillar
-diagnostic
 demipique
 demiplacate
 demiplate
@@ -7018,6 +7017,7 @@ dismays
 destroyer
 destroyers
 destroying
+diagnostic
 destruct
 destructibility
 destructible
