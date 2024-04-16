@@ -6278,6 +6278,7 @@ fluidally
 fluidextract
 fluidglycerate
 fluidible
+forcepslike
 fluidic
 fosslology
 forint
@@ -7429,7 +7430,6 @@ fallacious
 forcement
 forcene
 forceps
-forcepslike
 fey
 forceput
 fazing
