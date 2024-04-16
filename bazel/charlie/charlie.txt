@@ -3735,7 +3735,6 @@ carbonify
 carbonification
 carbonigenous
 carbonyl
-carbonylate
 carbonylated
 carbonylating
 carbonylene
@@ -13297,6 +13296,7 @@ cyclograph
 cyclographer
 cycloheptane
 cycloheptanone
+carbonylate
 cyclohexadienyl
 cashoos
 cyclohexane
