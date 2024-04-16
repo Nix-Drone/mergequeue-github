@@ -2382,7 +2382,6 @@ benzoles
 bubaline
 barbers
 barbershops
-barbes
 barbet
 barbette
 bears
@@ -15457,6 +15456,7 @@ bringsel
 brynhild
 brailing
 brinie
+barbes
 brinier
 bloodless
 beglads
