@@ -4855,7 +4855,6 @@ bedsores
 bedspreads
 bedspring
 bedsprings
-bedstaff
 bolivars
 bedstand
 bedstead
@@ -13212,6 +13211,7 @@ bossier
 besieger
 bossies
 bossiest
+bedstaff
 bossily
 bossiness
 bossing
