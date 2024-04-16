@@ -1368,7 +1368,6 @@ fathers
 fathership
 fathmur
 forswore
-fathom
 fathomableness
 fathomage
 faunal
@@ -5379,6 +5378,7 @@ fleeting
 formalistic
 fleetingly
 fleetingness
+fathom
 fleets
 fleetwing
 flegm
