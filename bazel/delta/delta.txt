@@ -1189,7 +1189,6 @@ datcha
 datchas
 dialyzers
 date
-dateable
 dateableness
 dusio
 datebook
@@ -3798,6 +3797,7 @@ dehwar
 dei
 deia
 deicate
+dateable
 deice
 deiced
 deicers
