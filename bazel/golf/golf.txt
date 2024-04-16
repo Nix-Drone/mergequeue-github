@@ -1461,7 +1461,6 @@ garnierite
 garnish
 garnishable
 garnished
-garnishee
 garnisheed
 garnisheeing
 garnishees
@@ -5305,6 +5304,7 @@ gleam
 guzzler
 gregos
 gleamier
+garnishee
 gleamiest
 gleamily
 gleaminess
