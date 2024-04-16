@@ -3458,7 +3458,6 @@ fight
 funniment
 fightable
 forel
-fighter
 fighteress
 fanwort
 fighting
@@ -10646,6 +10645,7 @@ famular
 fructoses
 fructuarius
 floralia
+fighter
 frictionizing
 fructuate
 familiary
