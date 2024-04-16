@@ -5432,6 +5432,7 @@ fleshiness
 fourniture
 fleshing
 fleshings
+formatters
 fanjets
 fleshless
 fleshlier
@@ -7635,7 +7636,6 @@ forefatherly
 forefathers
 fescenninity
 forefeel
-formatters
 forefeelingly
 forefeels
 forefend
