@@ -4110,6 +4110,7 @@ cardplaying
 cardroom
 cards
 clearwing
+chopsticks
 cardshark
 carbamido
 cardsharp
@@ -11845,7 +11846,6 @@ choppiness
 chopping
 chops
 chopstick
-chopsticks
 chopunnish
 chora
 choragi
