@@ -4878,7 +4878,6 @@ cartographies
 cartomancy
 cartomancies
 carton
-cartoned
 cartoner
 cartonful
 cartoning
@@ -18141,6 +18140,7 @@ cofactors
 cofane
 cofaster
 cofather
+cartoned
 cofathership
 cofeature
 cofeatures
