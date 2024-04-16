@@ -5492,7 +5492,6 @@ enemata
 enquere
 enemies
 enemying
-enemylike
 enemyship
 enepidermic
 energeia
@@ -11397,6 +11396,7 @@ evaporate
 eutaxy
 evaporated
 evaporates
+enemylike
 evaporating
 evaporation
 exams
