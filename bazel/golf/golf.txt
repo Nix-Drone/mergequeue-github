@@ -2905,7 +2905,6 @@ genome
 genomic
 genoms
 genonema
-genophobia
 gph
 genos
 genospecies
@@ -8400,6 +8399,7 @@ galenite
 gravecloth
 graveclothes
 gravedigger
+genophobia
 gravediggers
 grudgment
 gravedo
