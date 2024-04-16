@@ -4716,7 +4716,6 @@ carrat
 carraway
 carraways
 carreau
-carree
 carrefour
 carrel
 carrell
@@ -30119,6 +30118,7 @@ crucis
 cruck
 crud
 crudded
+carree
 crudding
 cruddle
 crude
