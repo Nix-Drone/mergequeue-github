@@ -2322,7 +2322,6 @@ canch
 cancha
 canchalagua
 crocard
-canchas
 cancion
 cancionero
 canciones
@@ -18149,6 +18148,7 @@ cofeature
 cofeatures
 cofeoffee
 coferment
+canchas
 cofermentation
 coffea
 centrolineal
