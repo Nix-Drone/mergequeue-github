@@ -2424,7 +2424,6 @@ electroencephalogram
 electroencephalograms
 electroencephalograph
 electroencephalography
-electroencephalographic
 electroencephalographical
 electroencephalographs
 electroendosmose
@@ -4338,6 +4337,7 @@ emulsoids
 emunct
 enteropathogenic
 emunctory
+electroencephalographic
 enlay
 emunctories
 emundation
