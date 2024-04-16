@@ -1396,6 +1396,7 @@ acauline
 acaulose
 acaulous
 acc
+architectures
 acca
 accable
 accademia
@@ -19016,7 +19017,6 @@ architects
 architectural
 architecturalist
 architecture
-architectures
 architecturesque
 architecure
 architypographer
