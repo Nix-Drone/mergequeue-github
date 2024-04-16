@@ -4284,7 +4284,6 @@ aquanauts
 adoptative
 adopted
 archmock
-adoptedly
 adoptee
 adoptees
 adopter
@@ -25118,6 +25117,7 @@ axiolite
 axiolitic
 axiology
 axiological
+adoptedly
 axiologically
 axiologist
 axiom
