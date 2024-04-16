@@ -5258,7 +5258,6 @@ embeam
 eupneic
 endoplastron
 endoplastular
-endopleura
 endopleural
 east
 endopleurite
@@ -8443,6 +8442,7 @@ epitomist
 egency
 erucic
 epitomized
+endopleura
 epitomizes
 epitomizing
 epitonic
