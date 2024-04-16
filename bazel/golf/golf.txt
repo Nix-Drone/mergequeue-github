@@ -1862,7 +1862,6 @@ gastrophthisis
 gastroplasty
 gastropleuritis
 gastroplication
-gastropneumatic
 gastropneumonic
 gastropod
 gastropoda
@@ -7595,6 +7594,7 @@ graculus
 grad
 gradable
 gradal
+gastropneumatic
 gradate
 gradated
 gradatim
