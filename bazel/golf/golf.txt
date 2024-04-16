@@ -8499,7 +8499,6 @@ gossameriness
 graze
 grazed
 grazer
-gradus
 grazers
 gimbaljawed
 grazes
@@ -9661,6 +9660,7 @@ grugrus
 gruidae
 gruyere
 gruiform
+gradus
 gruiformes
 gruine
 goldsmithing
