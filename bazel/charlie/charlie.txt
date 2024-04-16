@@ -8743,7 +8743,6 @@ chantors
 chantress
 chantry
 chantries
-chants
 chanukah
 chao
 chaogenous
@@ -26249,6 +26248,7 @@ costusroot
 cosubject
 cosubordinate
 cosuffer
+chants
 cosuggestion
 cosuitor
 cosurety
