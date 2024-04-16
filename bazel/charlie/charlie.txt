@@ -3796,7 +3796,6 @@ carburised
 carburiser
 carburising
 carburization
-carburize
 carburized
 carburizer
 carburizes
@@ -27699,6 +27698,7 @@ cowroid
 cows
 cowshard
 cowsharn
+carburize
 cowshed
 cowsheds
 cowshot
