@@ -1090,6 +1090,7 @@ darwinite
 decolorize
 darzee
 das
+drawgear
 daschagga
 dase
 dasein
@@ -3701,7 +3702,6 @@ dehache
 dehypnotize
 dehair
 deheathenize
-drawgear
 dehematize
 decard
 departement
