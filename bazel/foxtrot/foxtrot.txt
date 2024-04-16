@@ -1953,7 +1953,6 @@ feedboard
 feedbox
 feedboxes
 feeder
-feeders
 feedhead
 foundationed
 flaxseeds
@@ -6723,6 +6722,7 @@ figworts
 foge
 fogfruit
 foretype
+feeders
 fogfruits
 foggage
 fogger
