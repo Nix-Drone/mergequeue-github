@@ -2951,6 +2951,7 @@ barrelfishes
 bonair
 barrelful
 barrelfuls
+blind
 barrelhead
 barrelhouse
 barrelhouses
@@ -10859,7 +10860,6 @@ blimpishly
 blimpishness
 budgeters
 blin
-blind
 blindage
 biggity
 blindball
