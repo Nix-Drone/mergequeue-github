@@ -11262,6 +11262,7 @@ chlorites
 chloritic
 chloritization
 chloritize
+culicid
 chloritoid
 chlorize
 chesterbed
@@ -30709,7 +30710,6 @@ centrifugalized
 culex
 culgee
 culices
-culicid
 culicidae
 culicidal
 culicids
