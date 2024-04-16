@@ -9439,7 +9439,6 @@ balanced
 birdseeds
 birdseye
 birdseyes
-birdshots
 birdsnest
 birdstone
 browpiece
@@ -14369,6 +14368,7 @@ brainteaser
 brainteasers
 brainward
 brachygraphy
+birdshots
 brainwash
 brainwashed
 brainwashes
