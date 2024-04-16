@@ -4076,7 +4076,6 @@ cardiospasm
 cardiospermum
 cardiosphygmogram
 cardiosphygmograph
-cardiotherapy
 cataloger
 cardiotherapies
 cardiotomy
@@ -14109,6 +14108,7 @@ cypseloid
 cypselomorph
 coutel
 cypselomorphae
+cardiotherapy
 cypselomorphic
 cypselous
 cypselus
