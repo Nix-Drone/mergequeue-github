@@ -5280,7 +5280,6 @@ affaite
 affamish
 affatuate
 affect
-affectability
 affectable
 affectate
 affectation
@@ -9571,6 +9570,7 @@ altropathy
 altrose
 altruism
 altruisms
+affectability
 arrendator
 altruist
 altruistic
