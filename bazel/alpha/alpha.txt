@@ -5314,7 +5314,6 @@ affectivity
 affectless
 affectlessness
 affector
-affectual
 affectum
 affectuous
 affectus
@@ -25341,6 +25340,7 @@ azotenesis
 azotes
 azotetrazole
 azoth
+affectual
 azothionium
 azoths
 azotic
