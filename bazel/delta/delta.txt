@@ -6827,7 +6827,6 @@ desoxyribonucleoprotein
 desoxyribose
 despair
 despaired
-despairer
 despairful
 despairfully
 despairfulness
@@ -10237,6 +10236,7 @@ dioicous
 dioicously
 dioicousness
 diol
+despairer
 diolefin
 diolefine
 diolefinic
