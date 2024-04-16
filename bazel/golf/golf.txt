@@ -6326,7 +6326,6 @@ gnaws
 geodetics
 gneiss
 gneisses
-gneissy
 gneissitic
 gneissoid
 gombos
@@ -10409,6 +10408,7 @@ gummaking
 gummas
 gummata
 gummatous
+gneissy
 gypsumed
 glandula
 gummed
