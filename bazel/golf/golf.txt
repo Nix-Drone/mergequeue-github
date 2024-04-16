@@ -1168,7 +1168,6 @@ gangrel
 glycerine
 gonimous
 gangrenate
-gangrene
 gangrened
 gangrenes
 gangrenescent
@@ -10379,6 +10378,7 @@ gulpy
 gulping
 gulpingly
 gulps
+gangrene
 gult
 gum
 gumby
