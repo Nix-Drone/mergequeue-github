@@ -2281,7 +2281,6 @@ gasterotricha
 gearset
 gearshift
 gearshifts
-gearwheel
 gearwheels
 garden
 glistening
@@ -10671,6 +10670,7 @@ gushiness
 gushing
 gusla
 gusle
+gearwheel
 guslee
 guss
 goldfishes
