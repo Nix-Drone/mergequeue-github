@@ -1540,7 +1540,6 @@ gartering
 garterless
 garters
 girandola
-garth
 garths
 garua
 garum
@@ -3019,6 +3018,7 @@ gnoff
 geodes
 geodesy
 geodesia
+garth
 geodesical
 geodesics
 geodesist
