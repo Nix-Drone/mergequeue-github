@@ -18506,7 +18506,6 @@ coinfer
 coinferred
 coinferring
 coinfers
-coinfinite
 coinfinity
 coing
 ceroma
@@ -28468,6 +28467,7 @@ creditability
 creditabilities
 creditable
 creditableness
+coinfinite
 creditably
 caracaras
 cephalexin
