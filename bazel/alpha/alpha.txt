@@ -8521,7 +8521,6 @@ alkool
 alkoran
 alkoxy
 alkoxid
-alkoxide
 alkoxyl
 all
 allabuta
@@ -12925,6 +12924,7 @@ angostura
 angouleme
 angraecum
 angry
+alkoxide
 angrier
 angriest
 angriness
