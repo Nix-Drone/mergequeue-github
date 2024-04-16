@@ -4460,7 +4460,6 @@ fissirostrate
 fissirostres
 fissle
 fissura
-fissural
 fissuration
 fungite
 finesse
@@ -5576,6 +5575,7 @@ flyflap
 fusarium
 flyflower
 frouncing
+fissural
 fligged
 fligger
 flight
