@@ -3166,6 +3166,7 @@ defeasive
 delphacid
 defeat
 defeated
+directs
 drusean
 defeatee
 drowsihood
@@ -10804,7 +10805,6 @@ directorship
 directorships
 directress
 directrix
-directs
 direful
 direfully
 dirempt
