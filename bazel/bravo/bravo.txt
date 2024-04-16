@@ -9046,7 +9046,6 @@ biolite
 biolith
 blackfoot
 biologic
-biological
 biologicohumanistic
 biologics
 biologies
@@ -9125,6 +9124,7 @@ bactericidin
 bioplastic
 biopoiesis
 biod
+biological
 biopotential
 bioprecipitation
 biopsy
