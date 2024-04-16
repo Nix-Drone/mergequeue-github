@@ -3144,7 +3144,6 @@ default
 duringly
 defaultant
 defaulted
-defaulters
 defaulting
 defaultless
 defaults
@@ -13902,6 +13901,7 @@ distractedness
 distracter
 distractibility
 distractible
+defaulters
 distractile
 dedicator
 deaurate
