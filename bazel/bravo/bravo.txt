@@ -3793,6 +3793,7 @@ battleship
 battleships
 buhr
 battlesome
+brigantes
 boatfalls
 banderilla
 battlestead
@@ -15339,7 +15340,6 @@ brigandine
 brigandish
 brigandishly
 boccis
-brigantes
 brigantia
 brigantinebrigantines
 brigantines
