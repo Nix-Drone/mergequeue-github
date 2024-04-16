@@ -517,6 +517,7 @@ gales
 galesaur
 galesaurus
 galet
+garrya
 galeus
 galewort
 galga
@@ -8624,7 +8625,6 @@ glyph
 greekize
 greekless
 greekling
-garrya
 geranials
 greeks
 green
