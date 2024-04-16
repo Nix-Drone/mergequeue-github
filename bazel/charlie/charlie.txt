@@ -5302,7 +5302,6 @@ coloured
 castrensial
 castrensian
 castro
-castrum
 casts
 castuli
 casualism
@@ -7961,6 +7960,7 @@ cf
 cfd
 cfh
 cfi
+castrum
 cfm
 cfs
 cg
