@@ -5588,7 +5588,6 @@ afront
 afrormosia
 algoid
 afros
-afrown
 afshah
 afshar
 aft
@@ -25240,6 +25239,7 @@ azygobranchiata
 arcticology
 azygobranchiate
 azygomatous
+afrown
 azygos
 azygoses
 azygosperm
