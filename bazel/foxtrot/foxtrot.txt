@@ -5939,6 +5939,7 @@ featherbedding
 floorcloths
 floored
 flooring
+foreclosable
 flummoxes
 forementioned
 fluidizing
@@ -7892,7 +7893,6 @@ forequarters
 fraidycat
 fleet
 forerake
-foreclosable
 figural
 fideles
 foreran
