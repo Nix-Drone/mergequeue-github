@@ -9508,6 +9508,7 @@ checkless
 checklist
 checklists
 checkman
+congruencies
 clipeus
 checkmark
 checkmate
@@ -22310,7 +22311,6 @@ congruence
 congruences
 crystallitis
 congruency
-congruencies
 columella
 congruent
 congruential
