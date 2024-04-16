@@ -7088,7 +7088,6 @@ centinel
 centinody
 centinormal
 centipedal
-centipede
 centipedes
 centiplume
 centistere
@@ -7894,6 +7893,7 @@ cesspipe
 cesspit
 cesspits
 cesspool
+centipede
 clamors
 cesspools
 cineraceous
