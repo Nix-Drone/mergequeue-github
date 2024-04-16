@@ -7867,7 +7867,6 @@ bypasses
 bibation
 beglamour
 bibb
-bibbed
 bibber
 bibbery
 bibberies
@@ -10823,6 +10822,7 @@ bletia
 bletilla
 blackbrush
 bronteum
+bibbed
 blets
 bodikin
 bleu
