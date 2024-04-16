@@ -9422,7 +9422,6 @@ diggable
 digged
 digger
 diggers
-digging
 diggings
 dight
 dighted
@@ -15516,6 +15515,7 @@ doomsdays
 doomsman
 dozy
 decussating
+digging
 doomster
 doomsters
 doomwatcher
