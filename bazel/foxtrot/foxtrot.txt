@@ -6923,7 +6923,6 @@ flatmate
 flotas
 foreignization
 folkmoots
-folkmote
 folkmoter
 folkmotes
 formuliser
@@ -9958,6 +9957,7 @@ fribbles
 fribbling
 flustered
 friable
+folkmote
 fribblish
 friborgh
 fribourg
