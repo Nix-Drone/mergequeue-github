@@ -3685,7 +3685,6 @@ dehair
 dehairer
 deheathenize
 dehematize
-decard
 dehepatize
 dehgan
 dehydrant
@@ -13243,6 +13242,7 @@ disqualifications
 disqualified
 doublehorned
 disqualifies
+decard
 disqualifying
 disquantity
 directrices

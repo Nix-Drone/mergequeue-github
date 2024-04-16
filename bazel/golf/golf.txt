@@ -9745,7 +9745,6 @@ gt
 gtc
 gentlemanlike
 gtd
-gte
 gteau
 gthite
 gtt
@@ -10236,6 +10235,7 @@ guinde
 guinea
 guineaman
 gorsehatch
+gte
 guinean
 guineapig
 gazoz
