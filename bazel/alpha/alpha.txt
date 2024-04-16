@@ -17376,7 +17376,6 @@ autoeducative
 aporocactus
 aporosa
 aporphine
-aporrhaidae
 aporrhaoid
 aporrhegma
 aporrhiegma
@@ -23939,6 +23938,7 @@ autocombustible
 autocombustion
 autoconduction
 ampullariidae
+aporrhaidae
 autoconvection
 autoconverter
 algocyan
