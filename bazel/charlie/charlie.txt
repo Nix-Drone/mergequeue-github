@@ -21803,7 +21803,6 @@ confectioner
 confectionery
 confectioneries
 confectiones
-confections
 confects
 confecture
 confed
@@ -30077,6 +30076,7 @@ crs
 crts
 cru
 crub
+confections
 crosscrosslet
 crubeen
 cruce
