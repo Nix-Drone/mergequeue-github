@@ -3368,7 +3368,6 @@ embargoist
 embargos
 embark
 embarkations
-embarked
 embarking
 epitomize
 embarkment
@@ -8188,6 +8187,7 @@ episcopalians
 episcopalism
 episcopality
 episcopally
+embarked
 episcopise
 episcopant
 enterrologist
