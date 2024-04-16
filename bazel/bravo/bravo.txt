@@ -860,7 +860,6 @@ baffs
 baft
 bafta
 baftah
-bag
 baga
 baganda
 bagani
@@ -1374,6 +1373,7 @@ balbutient
 buffbar
 balconet
 balconette
+bag
 balcony
 balconied
 balconies
