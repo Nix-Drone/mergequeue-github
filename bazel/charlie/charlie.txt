@@ -6850,6 +6850,7 @@ cement
 cementa
 cemental
 cementation
+coaugment
 chapeaux
 cementatory
 cemented
@@ -17309,7 +17310,6 @@ coattested
 coattesting
 coaudience
 cobitidae
-coaugment
 coauthered
 coauthor
 coauthored
