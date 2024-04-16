@@ -374,7 +374,6 @@ attributiveness
 abfarad
 abfarads
 abhenry
-abhenries
 abhenrys
 abhinaya
 abhiseka
@@ -21674,6 +21673,7 @@ asseour
 assert
 asserta
 assertable
+abhenries
 assertative
 asserted
 assertedly
