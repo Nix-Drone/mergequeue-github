@@ -20014,6 +20014,7 @@ comments
 commerce
 commerced
 commerceless
+corpselike
 commercia
 commerciable
 commercial
@@ -25552,7 +25553,6 @@ corposant
 corps
 corpsbruder
 corpse
-corpselike
 corpselikeness
 corpses
 corpsy
