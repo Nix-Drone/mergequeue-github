@@ -7304,7 +7304,6 @@ detonations
 detonative
 detonator
 detonize
-detort
 detour
 detoured
 detouring
@@ -16534,6 +16533,7 @@ draffsack
 draft
 dishevel
 draftable
+detort
 draftage
 docimastic
 drafted
