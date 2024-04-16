@@ -2112,7 +2112,6 @@ elasmobranch
 elasmobranchiate
 elasmobranchii
 epilimnia
-elasmosaurus
 edgemaker
 elasmothere
 elasmotherium
@@ -5600,6 +5599,7 @@ enflamed
 enflames
 enflaming
 encapsulate
+elasmosaurus
 envassalage
 enflesh
 escapeway
