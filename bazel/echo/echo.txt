@@ -8640,7 +8640,6 @@ equidiagonal
 equidifferent
 equidimensional
 equidist
-exposer
 equidistance
 ectal
 embranglement
@@ -12625,6 +12624,7 @@ exitus
 exla
 eft
 exlex
+exposer
 exmeridian
 exoascaceae
 exoascaceous
