@@ -5140,7 +5140,6 @@ aerotherapeutics
 aerotherapy
 aerothermodynamic
 aerothermodynamics
-alectrion
 aerotonometer
 aerotonometry
 aerotonometric
@@ -17014,6 +17013,7 @@ apioceridae
 apiocrinite
 apioid
 apioidal
+alectrion
 apiol
 apiole
 antaphrodisiac
