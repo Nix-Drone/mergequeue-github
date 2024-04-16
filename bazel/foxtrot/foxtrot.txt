@@ -4206,7 +4206,6 @@ fireroom
 ferroconcretor
 firerooms
 firers
-fires
 forche
 firesafe
 firesafeness
@@ -7043,6 +7042,7 @@ fraenums
 fontanels
 fantastry
 fontange
+fires
 fonted
 fontes
 fontful
