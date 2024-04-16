@@ -4438,7 +4438,6 @@ fissility
 fission
 fissionable
 fissioned
-fissioning
 frays
 fissions
 fissipalmation
@@ -7758,6 +7757,7 @@ fuchsia
 fac
 flockling
 foreiron
+fissioning
 forejudge
 forejudged
 forejudging
