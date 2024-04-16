@@ -13010,7 +13010,6 @@ disperple
 dispersal
 dendrodus
 diadem
-dispersant
 disperse
 dispersed
 dispersedelement
@@ -18406,6 +18405,7 @@ duplicidentata
 derivation
 duplicidentate
 duplicious
+dispersant
 duplicipennate
 duplicitas
 duplicity
