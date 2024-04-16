@@ -937,7 +937,6 @@ gamed
 gameful
 gamey
 gamekeeper
-gamekeepers
 gamekeeping
 gamelan
 gamelang
@@ -4767,6 +4766,7 @@ gathering
 girns
 giro
 gyro
+gamekeepers
 gyrocar
 gyroceran
 goodwills
