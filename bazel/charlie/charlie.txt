@@ -5307,7 +5307,6 @@ castings
 castle
 castled
 castlelike
-castlery
 castles
 cortaderia
 china
@@ -17417,6 +17416,7 @@ cobless
 cobloaf
 chronogrammatical
 cobnut
+castlery
 cobnuts
 cobol
 cobola
