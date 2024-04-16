@@ -5912,6 +5912,7 @@ floodlilit
 floodlit
 floodplain
 floods
+forst
 fortifiable
 floodway
 feute
@@ -8627,7 +8628,6 @@ footing
 forspoke
 forspread
 fellatory
-forst
 fillebeg
 forstall
 fumistery
