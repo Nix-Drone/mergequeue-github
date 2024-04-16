@@ -7884,7 +7884,6 @@ cessor
 cesspipe
 cesspit
 cesspits
-cesspool
 centipede
 clamors
 cesspools
@@ -28790,6 +28789,7 @@ coturnix
 cretics
 cretify
 chickweeds
+cesspool
 cretification
 cretinic
 cretinism
