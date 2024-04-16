@@ -4392,6 +4392,7 @@ demand
 demandant
 daylit
 demandative
+dysacousia
 demanded
 demander
 demanding
@@ -10902,7 +10903,6 @@ disacidify
 disacidified
 disacknowledgement
 disacknowledgements
-dysacousia
 dysacousis
 dysacousma
 downcut
