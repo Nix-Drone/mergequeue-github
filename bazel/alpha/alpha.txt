@@ -840,6 +840,7 @@ abrim
 abrin
 abrine
 abris
+aerosphere
 abristle
 abroach
 abrocome
@@ -5106,7 +5107,6 @@ aerosolization
 aerosolize
 aerosolized
 aerosols
-aerosphere
 aerosporin
 aerostat
 aerostatic
