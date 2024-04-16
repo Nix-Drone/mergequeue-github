@@ -5572,6 +5572,7 @@ afteract
 afterage
 afterattack
 afterbay
+appetitive
 afterband
 absorbs
 afterbeat
@@ -17750,7 +17751,6 @@ aux
 appetitious
 amma
 antidyscratic
-appetitive
 appetitiveness
 appetitost
 appetize
