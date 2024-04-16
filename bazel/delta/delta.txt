@@ -8615,7 +8615,6 @@ diastoles
 diastolic
 diastomatic
 diastral
-diastrophy
 diastrophic
 diastrophically
 diastrophism
@@ -16744,6 +16743,7 @@ drawbeam
 drawbench
 drawboard
 drawboy
+diastrophy
 drawbolt
 drawbore
 drawbored
