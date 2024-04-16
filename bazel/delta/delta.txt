@@ -10552,7 +10552,6 @@ diplomaed
 diplomaing
 diplomas
 diplomat
-diplomata
 diplomate
 diplomates
 diplomatic
@@ -15566,6 +15565,7 @@ doorstead
 didactics
 doorstep
 doorsteps
+diplomata
 doorstone
 doorstop
 doorstops
