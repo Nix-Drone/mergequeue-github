@@ -1194,7 +1194,6 @@ datasets
 datatype
 datatypes
 datcha
-datchas
 dialyzers
 date
 dateableness
@@ -12644,6 +12643,7 @@ dislodgeable
 dislodged
 dislodgement
 disposable
+datchas
 dislodging
 dislodgment
 droner
