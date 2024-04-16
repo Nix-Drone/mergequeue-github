@@ -395,6 +395,7 @@ gnomelike
 galactotrophy
 galagala
 galaginae
+gimballing
 gangboard
 galago
 galagos
@@ -4186,7 +4187,6 @@ gimbal
 gimbaled
 gimballed
 groundsheet
-gimballing
 groining
 guildry
 gimberjawed
