@@ -4924,7 +4924,6 @@ flancard
 flanch
 flanche
 fact
-flanconade
 flanconnade
 frappeed
 flandan
@@ -5822,6 +5821,7 @@ floatless
 floatman
 floatsman
 floatsmen
+flanconade
 floatstone
 flob
 flobby
