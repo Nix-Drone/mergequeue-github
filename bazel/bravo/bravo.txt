@@ -1096,7 +1096,6 @@ bailieship
 bailiff
 bailiffry
 bailiffs
-bailiffship
 bailiffwick
 bailing
 bailiwick
@@ -5924,6 +5923,7 @@ belonger
 belonging
 basisphenoid
 belongings
+bailiffship
 belongs
 belonid
 belonidae
