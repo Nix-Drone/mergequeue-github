@@ -3862,6 +3862,7 @@ carcer
 carceral
 carcerate
 carcerated
+catlike
 carcerating
 carceration
 carcerist
@@ -5937,7 +5938,6 @@ catkin
 catkinate
 catkins
 catlap
-catlike
 catlin
 catline
 catling
