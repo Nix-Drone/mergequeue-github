@@ -5639,7 +5639,6 @@ firelike
 flinthead
 featlier
 flinthearted
-forbreak
 flinty
 flintier
 flyblown
@@ -11615,6 +11614,7 @@ farcers
 fussed
 fussers
 fusses
+forbreak
 fussy
 fussier
 fussification
