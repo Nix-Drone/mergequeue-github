@@ -3774,7 +3774,6 @@ battledores
 baldly
 boyar
 battledoring
-battlefields
 borehole
 battlefront
 battlefronts
@@ -17523,6 +17522,7 @@ burberry
 burble
 burbler
 burblers
+battlefields
 burbly
 bacitracin
 binucleate
