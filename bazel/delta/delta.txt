@@ -5684,6 +5684,7 @@ disagglomeration
 depictor
 dandilly
 depictors
+dihexagonal
 depicture
 depictured
 depicturing
@@ -9573,7 +9574,6 @@ dihedrals
 dihedron
 discipleship
 dihelium
-dihexagonal
 dihexahedron
 dihybridism
 dihybrids
