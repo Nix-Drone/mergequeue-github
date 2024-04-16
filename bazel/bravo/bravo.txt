@@ -11031,7 +11031,6 @@ blockheads
 blockhole
 brained
 blockholer
-bombers
 blockhouse
 blockhouses
 bawbees
@@ -11370,6 +11369,7 @@ bluegum
 broma
 bluegums
 blueheads
+bombers
 bluehearted
 bluehearts
 bluey
