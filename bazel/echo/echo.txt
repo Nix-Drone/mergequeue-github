@@ -6105,7 +6105,6 @@ enmeshment
 enmeshments
 estated
 enmew
-enmity
 enmities
 enmoss
 enmuffle
@@ -11234,6 +11233,7 @@ euro
 euroaquilo
 eurobin
 eurocentric
+enmity
 euroclydon
 eurodollars
 europa
