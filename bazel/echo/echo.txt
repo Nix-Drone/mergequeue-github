@@ -6491,7 +6491,6 @@ eumerogenesis
 ensteel
 ensteep
 emotionist
-exclusions
 enstool
 enstore
 enstranged
@@ -10792,6 +10791,7 @@ eugeny
 eyeletter
 eugenia
 eugenic
+exclusions
 eugenical
 eugenically
 eugenicist
