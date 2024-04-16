@@ -2877,7 +2877,6 @@ elevations
 elevato
 elevator
 electrophorus
-elevators
 eleve
 endplate
 escalators
@@ -5623,6 +5622,7 @@ excisions
 equipollent
 enfoldings
 enfoldment
+elevators
 enfolds
 enfollow
 enfoncee
