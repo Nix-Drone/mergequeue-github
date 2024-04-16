@@ -1062,7 +1062,6 @@ gamp
 gamps
 greenwood
 gams
-gamut
 gamuts
 ganam
 gananciales
@@ -7037,6 +7036,7 @@ gleave
 grandsire
 galosh
 glottogonic
+gamut
 goodwillie
 goodwillies
 gunkhole
