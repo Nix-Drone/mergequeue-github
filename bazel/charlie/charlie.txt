@@ -2633,6 +2633,7 @@ canning
 cannings
 cannister
 cannisters
+crystallographically
 cannoli
 cannon
 cannonade
@@ -29438,7 +29439,6 @@ crystallographer
 crystallographers
 crystallography
 crystallographic
-crystallographically
 crystalloid
 crystalloidal
 crystallology
