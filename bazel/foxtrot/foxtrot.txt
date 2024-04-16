@@ -2597,7 +2597,6 @@ ferrohydrocyanic
 framesmith
 ferromagnesian
 ferromagnet
-ferromagnetic
 ferromagneticism
 ferromagnetism
 ferromanganese
@@ -5100,6 +5099,7 @@ flatbed
 faciobrachial
 flatbeds
 flatbottom
+ferromagnetic
 flatbrod
 flatcap
 flatcaps
