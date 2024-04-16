@@ -8757,7 +8757,6 @@ dib
 dibase
 dibasicity
 dishonorable
-dibatag
 dibbed
 dibber
 dibbing
@@ -9409,6 +9408,7 @@ digammate
 digammated
 digammic
 digastric
+dibatag
 doomfulness
 digenea
 digeneous
