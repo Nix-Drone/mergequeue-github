@@ -1651,6 +1651,7 @@ accomplishment
 accomplishments
 accomplisht
 accompt
+artifact
 accordable
 accordance
 accordances
@@ -20690,7 +20691,6 @@ artie
 avid
 artier
 artiest
-artifact
 acquitment
 artifactitious
 artifacts
