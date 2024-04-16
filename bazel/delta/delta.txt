@@ -2410,7 +2410,6 @@ decimole
 decimosexto
 decimus
 decine
-decyne
 decinormal
 decipher
 dispenser
@@ -8533,6 +8532,7 @@ deaned
 diarchic
 dyarchic
 diarchies
+decyne
 drainless
 dyarchies
 diary
