@@ -2608,7 +2608,6 @@ dispose
 decolorization
 decolorized
 decolorizer
-decoder
 decolors
 decolour
 decolouration
@@ -8037,6 +8036,7 @@ divagate
 diabolically
 diabolicalness
 diabolification
+decoder
 diabolisation
 diabolise
 diabolised
