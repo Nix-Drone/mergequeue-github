@@ -3924,6 +3924,7 @@ bawdship
 bawdstrot
 bawhorse
 bawl
+bevelment
 bawled
 bawley
 bawler
@@ -7563,7 +7564,6 @@ bevelled
 beveller
 bookbinder
 biathlon
-bevelment
 bevenom
 bever
 beverage
