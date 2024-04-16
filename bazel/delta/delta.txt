@@ -2835,7 +2835,6 @@ decriminalizes
 decrypt
 decrypted
 decryption
-decryptograph
 decrypts
 decrystallization
 decrowned
@@ -4046,6 +4045,7 @@ delft
 delfts
 delftware
 deli
+decryptograph
 dakir
 dely
 disbelieving
