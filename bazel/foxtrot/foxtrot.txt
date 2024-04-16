@@ -1779,7 +1779,6 @@ featural
 fainness
 featurally
 feature
-featured
 featureful
 featureless
 featurelessness
@@ -2109,6 +2108,7 @@ felly
 felliducous
 fellifluous
 felling
+featured
 fellingbird
 fellmonger
 fellmongered
