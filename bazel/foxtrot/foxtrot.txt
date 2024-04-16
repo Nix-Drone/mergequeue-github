@@ -2277,6 +2277,7 @@ fence
 fenced
 fenceless
 fencelessness
+fayalite
 fencelet
 fenceplay
 fencepost
@@ -10772,7 +10773,6 @@ frustum
 frutage
 frutescent
 frutex
-fayalite
 fruticeous
 frutices
 fruticeta
