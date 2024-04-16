@@ -1,3 +1,8 @@
+use std::collections::HashSet;
+use std::path::{Path, PathBuf};
+use std::time::{Duration, Instant};
+use std::{env, thread};
+
 use chrono::{DateTime, Utc};
 use clap::Parser;
 use confique::Config;
@@ -6,22 +11,15 @@ use gen::config::Conf;
 use gen::edit::change_file;
 use gen::github::GitHub;
 use gen::process::{gh, git, try_gh, try_git};
+use gen::trunk::upload_targets;
 use rand::Rng;
 use regex::Regex;
-use serde_json::to_string_pretty;
-use serde_json::Value;
-use std::collections::HashSet;
-use std::env;
-use std::path::Path;
-use std::path::PathBuf;
-use std::thread;
-use std::time::Duration;
-use std::time::Instant;
+use serde_json::{to_string_pretty, Value};
 use walkdir::WalkDir;
 
-fn get_txt_files() -> std::io::Result<Vec<PathBuf>> {
+fn get_txt_files(config: &Conf) -> std::io::Result<Vec<PathBuf>> {
     let mut path = std::env::current_dir()?;
-    path.push("bazel/");
+    path.push(&config.pullrequest.change_code_path);
     let mut paths = Vec::new();
     for entry in WalkDir::new(&path) {
         let entry = entry?;
@@ -207,46 +205,88 @@ fn get_last_pr() -> u32 {
         }
         None => 0,
     }
-
 }
 
-fn create_pull_request(words: &[String], last_pr: u32, config: &Conf) -> Result<String, String> {
+fn create_pull_request(
+    words: &[String],
+    last_pr: u32,
+    config: &Conf,
+    dry_run: bool,
+) -> Result<String, String> {
     let lc = maybe_add_logical_merge_conflict(last_pr, config);
+
+    let current_branch = git(&["branch", "--show-current"]);
 
     let branch_name = format!("change/{}", words.join("-"));
     git(&["checkout", "-t", "-b", &branch_name]);
 
     let commit_msg = format!("Moving words {}", words.join(", "));
-    git(&["commit", "-am", &commit_msg]);
-    let result = try_git(&["push", "--set-upstream", "origin", "HEAD"]);
-    if result.is_err() {
-        git(&["checkout", "main"]);
-        git(&["pull"]);
-        return Err("could not push to origin".to_owned());
+    git(&["commit", "--no-verify", "-am", &commit_msg]);
+
+    if !dry_run {
+        let result = try_git(&["push", "--set-upstream", "origin", "HEAD"]);
+        if result.is_err() {
+            git(&["checkout", &current_branch]);
+            git(&["pull"]);
+            return Err("could not push to origin".to_owned());
+        }
     }
 
     let mut title = words.join(", ");
     if lc {
         title = format!("{} (logical-conflict)", title);
     }
-    let mut args: Vec<&str> = vec![
-        "pr",
-        "create",
-        "--title",
-        &title,
-        "--body",
-        &config.pullrequest.body,
-    ];
+
+    let mut body = config.pullrequest.body.to_string();
+    body.push_str("\n\n[test]\n");
+    body.push_str(&format!("flake rate: {}\n", config.test.flake_rate));
+    body.push_str(&format!(
+        "logical conflict every: {}\n",
+        config.pullrequest.logical_conflict_every
+    ));
+    body.push_str(&format!(
+        "sleep for: {}s\n",
+        config.sleep_duration().as_secs()
+    ));
+    body.push_str(&format!(
+        "close stale after: {}\n",
+        config.pullrequest.close_stale_after
+    ));
+    body.push_str(&format!(
+        "\n\n[pullrequest]\nrequests per hour: {}\n",
+        config.pullrequest.requests_per_hour
+    ));
+
+    let mut first_letters: Vec<_> = words
+        .iter()
+        .map(|word| word.chars().next().unwrap().to_string())
+        .collect();
+
+    first_letters.sort();
+    first_letters.dedup();
+
+    body.push_str(&format!(
+        "\n\ndeps=[{}]\n",
+        first_letters.into_iter().collect::<Vec<_>>().join(",")
+    ));
+
+    let mut args: Vec<&str> = vec!["pr", "create", "--title", &title, "--body", &body];
 
     for lbl in config.pullrequest.labels.split(',') {
         args.push("--label");
         args.push(lbl.trim());
     }
 
+    if dry_run {
+        git(&["checkout", &current_branch]);
+        git(&["pull"]);
+        return Ok((last_pr + 1).to_string());
+    }
+
     let result = try_gh(args.as_slice());
 
     // no matter what is result - need to reset checkout
-    git(&["checkout", "main"]);
+    git(&["checkout", &current_branch]);
     git(&["pull"]);
 
     if result.is_err() {
@@ -261,42 +301,7 @@ fn create_pull_request(words: &[String], last_pr: u32, config: &Conf) -> Result<
     Ok(pr_number.to_string())
 }
 
-fn run() -> anyhow::Result<()> {
-    let cli: Cli = Cli::parse();
-
-    if let Some(Subcommands::Genconfig {}) = &cli.subcommand {
-        Conf::print_default();
-        return Ok(());
-    }
-
-    let config = Conf::builder()
-        .env()
-        .file("mq.toml")
-        .file(".config/mq.toml")
-        .load()
-        .unwrap_or_else(|err| {
-            eprintln!("Generator cannot run: {}", err);
-            std::process::exit(1);
-        });
-
-    if let Some(Subcommands::Housekeeping {}) = &cli.subcommand {
-        housekeeping(&config);
-        return Ok(());
-    }
-
-    if let Some(Subcommands::TestSim {}) = &cli.subcommand {
-        if !simulate_test(&config) {
-            std::process::exit(1);
-        }
-        return Ok(());
-    }
-
-    if let Some(Subcommands::Config {}) = &cli.subcommand {
-        let config_json = to_string_pretty(&config).expect("Failed to serialize config to JSON");
-        println!("{}", config_json);
-        return Ok(());
-    }
-
+fn generate(config: &Conf, cli: &Cli) -> anyhow::Result<()> {
     if config.pullrequest.requests_per_hour == 0 {
         println!("generator is disabled pull requests per hour is set to 0");
         return Ok(());
@@ -304,17 +309,31 @@ fn run() -> anyhow::Result<()> {
 
     configure_git(&config);
 
-    // divide by 6 since we run once every 10 minutes
-    let pull_requests_to_make = (config.pullrequest.requests_per_hour as f32 / 6.0).ceil() as usize;
+    let dur = config.run_generate_for_duration();
+    let hours = dur.as_secs() as f32 / 3600.0;
+
+    let pull_requests_to_make =
+        (config.pullrequest.requests_per_hour as f32 * hours).ceil() as usize;
+    // assuming that generating a pr doesn't take any time we will project to sleep every
+    let pull_request_every = (dur.as_secs() as f32 / pull_requests_to_make as f32).ceil() as u64;
+
+    println!(
+        "will generate pull request every {} seconds",
+        pull_request_every
+    );
 
     // get the most recent PR to be created (used for creating logical merge conflicts)
     let mut last_pr = get_last_pr();
 
     let mut prs: Vec<String> = Vec::new();
 
+    if cli.dry_run {
+        println!("dry-run set - no actual pull requests will be generated");
+    }
+
     for _ in 0..pull_requests_to_make {
         let start = Instant::now();
-        let files = get_txt_files()?;
+        let files = get_txt_files(&config)?;
         let mut filenames: Vec<String> = files
             .into_iter()
             .map(|path| path.to_string_lossy().into_owned())
@@ -329,23 +348,80 @@ fn run() -> anyhow::Result<()> {
         let max_impacted_deps = config.pullrequest.max_impacted_deps as u32; // Convert usize to u32
         let words = change_file(&filenames, max_impacted_deps); // Use the converted value
 
-        let pr_result = create_pull_request(&words, last_pr, &config);
+        let pr_result = create_pull_request(&words, last_pr, &config, cli.dry_run);
         if pr_result.is_err() {
             println!("problem created pr for {:?}", words);
             continue;
         }
         let duration = start.elapsed();
         let pr = pr_result.unwrap();
-        println!("created pr: {} in {:?}", pr, duration);
+        println!(
+            "created pr: {} in {:?} // waiting: {} mins",
+            pr,
+            duration,
+            (pull_request_every as f32 / 60.0)
+        );
+        thread::sleep(Duration::from_secs(pull_request_every) / 2);
+        enqueue(&pr, config); // Change the argument type to accept a String
+        thread::sleep(Duration::from_secs(pull_request_every) / 2);
         prs.push(pr);
         last_pr += 1;
     }
 
-    for pr in &prs {
-        enqueue(pr, &config)
+    Ok(())
+}
+
+fn run() -> anyhow::Result<()> {
+    let cli: Cli = Cli::parse();
+
+    if cli.subcommand.is_none() {
+        println!("Subcommand required. run 'mq help'");
+        return Ok(());
     }
 
-    Ok(())
+    if let Some(Subcommands::Defaultconfig {}) = &cli.subcommand {
+        Conf::print_default();
+        return Ok(());
+    }
+
+    let config = Conf::builder()
+        .env()
+        .file("mq.toml")
+        .file(".config/mq.toml")
+        .load()
+        .unwrap_or_else(|err| {
+            eprintln!("Generator cannot run: {}", err);
+            std::process::exit(1);
+        });
+
+    match &cli.subcommand {
+        Some(Subcommands::Housekeeping {}) => {
+            housekeeping(&config);
+            Ok(())
+        }
+        Some(Subcommands::TestSim {}) => {
+            if !simulate_test(&config) {
+                std::process::exit(1);
+            }
+            Ok(())
+        }
+        Some(Subcommands::Config {}) => {
+            let config_json =
+                to_string_pretty(&config).expect("Failed to serialize config to JSON");
+            println!("{}", config_json);
+            Ok(())
+        }
+        Some(Subcommands::Generate {}) => generate(&config, &cli),
+        Some(Subcommands::UploadTargets(ut)) => {
+            // upload_targets(&cli, &gen::pullrequest::get_json()); // &ut.github_json);
+            upload_targets(&config, &cli, &ut.github_json);
+            Ok(())
+        }
+        _ => {
+            // Handle other cases here
+            Err(anyhow::anyhow!("Subcommand not supported"))
+        }
+    }
 }
 
 fn main() {
