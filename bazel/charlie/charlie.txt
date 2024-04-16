@@ -3444,7 +3444,6 @@ captress
 capturable
 capture
 captured
-capturers
 captures
 capturing
 capuan
@@ -31918,6 +31917,7 @@ czarevnas
 czaric
 czarina
 carosse
+capturers
 czarinas
 czarinian
 czarish
