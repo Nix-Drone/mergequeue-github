@@ -638,7 +638,6 @@ bishopbird
 bacteriocyte
 bacteriodiagnosis
 bacteriofluorescin
-bara
 bromates
 bacteriogenic
 bacteriogenous
@@ -12871,6 +12870,7 @@ bootlicker
 bluefish
 bootlicking
 betsy
+bara
 bootloader
 bootmaker
 barks
