@@ -5683,7 +5683,6 @@ depicted
 depicter
 descendents
 denuclearize
-depicters
 depicting
 depiction
 depictions
@@ -13997,6 +13996,7 @@ distrust
 distruster
 drupal
 distrustful
+depicters
 distrustfully
 distrustingly
 distrusts
