@@ -2809,7 +2809,6 @@ globoids
 genioglossi
 genioglossus
 geniohyoglossal
-geniohyoglossus
 gapers
 gracilescent
 geniolatry
@@ -3487,6 +3486,7 @@ germinator
 germing
 gustus
 germless
+geniohyoglossus
 gymkhanas
 goss
 germlike
