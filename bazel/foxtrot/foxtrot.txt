@@ -2350,7 +2350,6 @@ fconvert
 feoffer
 feoffing
 fetlow
-feoffment
 feoffor
 flaxseed
 feoffors
@@ -5577,6 +5576,7 @@ flyflap
 fusarium
 flyflower
 frouncing
+feoffment
 fissural
 fligged
 fligger
