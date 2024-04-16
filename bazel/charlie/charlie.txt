@@ -3443,6 +3443,7 @@ captivities
 cojoin
 captor
 captors
+clientless
 captress
 capturable
 capture
@@ -16081,7 +16082,6 @@ cliental
 cliented
 clientelage
 clienteles
-clientless
 cycloidian
 clientry
 clients
