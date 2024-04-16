@@ -6158,6 +6158,7 @@ glusid
 gluside
 glut
 glutamate
+geodesics
 glutamates
 glutamic
 glutaminase
@@ -7991,7 +7992,6 @@ grittle
 granes
 gunrooms
 granet
-geodesics
 grange
 grangerised
 grangerism
