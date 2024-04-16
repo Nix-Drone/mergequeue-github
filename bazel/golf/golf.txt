@@ -8579,7 +8579,6 @@ grecque
 gree
 greece
 greed
-greedy
 greedier
 greedygut
 greedyguts
@@ -10593,6 +10592,7 @@ guppy
 guileless
 guppies
 guptavidya
+greedy
 gur
 guran
 gurdle
