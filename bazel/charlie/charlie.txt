@@ -11719,7 +11719,6 @@ credential
 chondroarthritis
 chondroblastoma
 concealingly
-chondrocele
 chondrocyte
 chondroclasis
 chondrocoracoid
@@ -14750,6 +14749,7 @@ counterfeitness
 capitulation
 cystourethrography
 cystous
+chondrocele
 cistron
 cistronic
 cistrons
