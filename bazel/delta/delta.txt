@@ -8693,7 +8693,6 @@ diatoma
 diatomaceae
 diatomaceous
 diatomales
-diatomeae
 diatomic
 diatomicity
 diatomin
@@ -13658,6 +13657,7 @@ dissolveability
 descanting
 dacryocystalgia
 dissolved
+diatomeae
 dissolvent
 dissolves
 damndests
