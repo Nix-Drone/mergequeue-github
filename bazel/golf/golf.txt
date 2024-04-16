@@ -2850,7 +2850,6 @@ genitive
 genitocrural
 geniculum
 glug
-genitofemoral
 grasps
 grouses
 genitor
@@ -4611,6 +4610,7 @@ gypsies
 gugu
 gypsiferous
 griminess
+genitofemoral
 galtonian
 gypsyfy
 gravelweed
