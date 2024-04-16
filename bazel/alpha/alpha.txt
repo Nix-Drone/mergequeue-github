@@ -12518,7 +12518,6 @@ anemoses
 anemosis
 anemotactic
 anemotaxis
-anemotropic
 anemotropism
 anencephaly
 anencephalia
@@ -15142,6 +15141,7 @@ antidromal
 antidromy
 antidromically
 antidrug
+anemotropic
 antidumping
 applied
 antiecclesiastic
