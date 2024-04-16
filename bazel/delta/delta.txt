@@ -1737,7 +1737,6 @@ debarment
 debarrance
 debarrass
 diavolo
-dispersible
 debarration
 debarred
 debarring
@@ -16864,6 +16863,7 @@ drawsheet
 drawspan
 drawspring
 drawstop
+dispersible
 dropforging
 dinoceratid
 drawstrings
