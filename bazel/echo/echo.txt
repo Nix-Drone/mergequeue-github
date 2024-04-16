@@ -4716,7 +4716,6 @@ encyclopaedias
 encyclopaedic
 encyclopaedical
 encyclopaedically
-encyclopaedism
 encyclopaedist
 encyclopedia
 encyclopediac
@@ -10538,6 +10537,7 @@ ethnographical
 ethnographically
 ethnohistory
 ethnohistorian
+encyclopaedism
 ethnohistoric
 ethnohistorical
 ethnohistorically
