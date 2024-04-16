@@ -6605,6 +6605,7 @@ enter
 entera
 enterable
 enteraden
+eucharistic
 enteradenography
 enteradenographic
 enteradenology
@@ -10720,7 +10721,6 @@ enginelike
 eucharises
 executers
 eucharist
-eucharistic
 eucharistically
 eucharistize
 eucharistized
