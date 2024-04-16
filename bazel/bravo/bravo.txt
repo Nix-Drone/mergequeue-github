@@ -6324,7 +6324,6 @@ bennies
 benomyl
 benomyls
 benorth
-benote
 bensail
 bensall
 bensell
@@ -11435,6 +11434,7 @@ balancer
 backwinding
 bluffer
 billycan
+benote
 bluffers
 bluffest
 bluffy
