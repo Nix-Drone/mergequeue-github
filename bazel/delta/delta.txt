@@ -1704,7 +1704,6 @@ deathrate
 deathrates
 deathroot
 deaths
-deathshot
 deathsman
 deathsmen
 depaysee
@@ -10351,6 +10350,7 @@ diospyraceous
 dyostyle
 dyotheism
 dyothelete
+deathshot
 debonairly
 depreciatory
 dyotheletic
