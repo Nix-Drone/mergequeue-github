@@ -4982,6 +4982,7 @@ aeroelastics
 aporphin
 aerofoil
 aerofoils
+algine
 aerogel
 aerogels
 antilogous
@@ -14696,7 +14697,6 @@ antialcoholism
 antialcoholist
 antialdoxime
 antialexin
-algine
 antiamylase
 antiamusement
 antianaphylactogen
