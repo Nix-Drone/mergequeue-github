@@ -3574,6 +3574,7 @@ addressee
 addressees
 addresser
 addressers
+amphophile
 addresses
 auxetics
 addressful
@@ -11282,7 +11283,6 @@ amphogenous
 ampholyte
 ampholytic
 amphophil
-amphophile
 amphophilic
 amphora
 amphoral
