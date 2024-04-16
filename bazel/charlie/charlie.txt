@@ -149,7 +149,6 @@ cableway
 cableways
 cabling
 cablish
-cabman
 campmaster
 cabmen
 cabob
@@ -3388,6 +3387,7 @@ capsulitis
 capsulize
 capsulized
 capsulizing
+cabman
 capsulogenous
 capsulolenticular
 capsulopupillary
