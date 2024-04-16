@@ -7520,7 +7520,6 @@ cercolabes
 cercolabidae
 cercomonad
 cercomonadidae
-cercomonas
 cercopid
 continent
 cercopidae
@@ -8245,6 +8244,7 @@ chalazia
 chalazian
 coevolve
 cranely
+cercomonas
 concertanti
 cosingular
 chalaziferous
