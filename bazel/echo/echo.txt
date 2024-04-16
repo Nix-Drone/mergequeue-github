@@ -1753,7 +1753,6 @@ eyeflap
 eyefuls
 erratics
 eyeglance
-eyeglass
 eyeglasses
 etudes
 eyeground
@@ -11961,6 +11960,7 @@ enthraller
 exception
 exceptionability
 exceptionably
+eyeglass
 exceptional
 exceptionality
 exceptionally
