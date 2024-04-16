@@ -2140,7 +2140,6 @@ banner
 bannerer
 banneret
 bannerets
-bannerette
 bannerfish
 beduke
 bannerless
@@ -6488,6 +6487,7 @@ benzotetrazine
 benzotetrazole
 beetlers
 benzothiazine
+bannerette
 benzothiazoline
 benzothiodiazole
 benzothiofuran
