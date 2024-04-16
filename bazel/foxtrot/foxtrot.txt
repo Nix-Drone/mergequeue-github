@@ -1060,7 +1060,6 @@ farmy
 farmyard
 fructuary
 farmyardy
-farmyards
 foremastman
 farmland
 farmost
@@ -10417,6 +10416,7 @@ fronted
 fronter
 frontier
 frontierless
+farmyards
 fertilizing
 fictor
 fewmets
