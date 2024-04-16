@@ -8540,6 +8540,7 @@ allantoidea
 allantoidean
 allantoides
 allantoin
+analyzer
 allantoinase
 allantoinuria
 acetoxim
@@ -11724,7 +11725,6 @@ analyzable
 analyzation
 analyze
 analyzed
-analyzer
 analyzers
 analyzes
 analyzing
