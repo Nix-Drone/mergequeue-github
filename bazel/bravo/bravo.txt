@@ -6569,7 +6569,6 @@ beyonds
 bepress
 bepretty
 bepride
-beprose
 bepuddle
 bedirt
 bepuff
@@ -17628,6 +17627,7 @@ burgherhood
 blowtubes
 boloneys
 burghers
+beprose
 broodlet
 burghership
 burghmaster
