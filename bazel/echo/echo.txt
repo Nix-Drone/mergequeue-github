@@ -11124,7 +11124,6 @@ extradict
 eurypharyngidae
 eurypharynx
 euripi
-euripidean
 euripides
 eurypyga
 encreel
@@ -11845,6 +11844,7 @@ exarch
 exarchal
 exarchate
 exarchateship
+euripidean
 exarchic
 exarchies
 exarchist
