@@ -15,7 +15,6 @@ fabled
 ferry
 fableland
 fablemaker
-fablemonger
 fablemongering
 fabler
 fablers
@@ -5628,6 +5627,7 @@ flindosa
 flindosy
 flingers
 flingy
+fablemonger
 flinging
 flings
 filelike
