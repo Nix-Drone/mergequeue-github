@@ -1556,7 +1556,6 @@ garrulinae
 ghouls
 garruline
 garrulity
-garrulous
 garrulousness
 garrulus
 gars
@@ -6027,6 +6026,7 @@ glow
 girnel
 glowbard
 glowerer
+garrulous
 glowering
 gloweringly
 glowfly
