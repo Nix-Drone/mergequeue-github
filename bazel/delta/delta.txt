@@ -5620,7 +5620,6 @@ depended
 dependence
 dependency
 dependencies
-divinities
 depending
 dependingly
 depends
@@ -11131,6 +11130,7 @@ disacquaintance
 disavowance
 disavowed
 disavowedly
+divinities
 dissectional
 disavower
 disavows
