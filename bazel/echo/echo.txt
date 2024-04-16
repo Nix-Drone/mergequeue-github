@@ -2355,7 +2355,6 @@ electroceramic
 electrochemical
 electrochemically
 electrochemistry
-electrochronographic
 electrochronometer
 equison
 electrochronometric
@@ -8173,6 +8172,7 @@ epirogenic
 epirote
 epirotic
 epirrheme
+electrochronographic
 exothermicity
 episarcine
 episarkine
