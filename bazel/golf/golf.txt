@@ -1965,6 +1965,7 @@ gatherable
 gathered
 gilgai
 gatherers
+gotra
 graplins
 gyrostabilizer
 greenfishes
@@ -7381,7 +7382,6 @@ gotos
 gangliitis
 gimbawawed
 gonia
-gotra
 gotraja
 gotta
 gotten
