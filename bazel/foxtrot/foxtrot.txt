@@ -4903,7 +4903,6 @@ flamless
 flammable
 floorers
 filefish
-flammant
 flammation
 flammed
 fountains
@@ -9531,6 +9530,7 @@ fishpound
 fratries
 foreroom
 fantasm
+flammant
 featish
 frau
 forecastleman
