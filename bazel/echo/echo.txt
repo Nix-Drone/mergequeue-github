@@ -3401,7 +3401,6 @@ embarrel
 embarricado
 embarring
 embars
-embase
 embassade
 embassador
 embassadress
@@ -12816,6 +12815,7 @@ exorcisory
 exorcist
 exorcista
 exorcistic
+embase
 exorcistical
 exorcists
 exorcization
