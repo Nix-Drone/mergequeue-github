@@ -6835,7 +6835,6 @@ desorption
 desoxalate
 desoxalic
 desoxyanisoin
-desoxybenzoin
 desoxycorticosterone
 desoxyephedrine
 desoxymorphine
@@ -7311,6 +7310,7 @@ detournement
 dasypodidae
 detours
 detoxicant
+desoxybenzoin
 detoxicate
 deemphasizes
 detoxicated
