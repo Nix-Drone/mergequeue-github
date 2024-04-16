@@ -1380,7 +1380,6 @@ gardbrace
 garde
 gnatsnapper
 gable
-gardener
 gardeners
 gardenership
 gardenful
@@ -5213,6 +5212,7 @@ garnish
 glaringness
 glarry
 glaserian
+gardener
 glaserite
 glycocin
 graveyards
