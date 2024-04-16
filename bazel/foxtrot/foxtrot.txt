@@ -4769,7 +4769,6 @@ fumers
 flagleaf
 flaglet
 flotation
-flagmaker
 flagman
 flagmen
 fellers
@@ -7610,6 +7609,7 @@ farers
 fivefoldness
 fleabiting
 foredated
+flagmaker
 fempty
 fibrointestinal
 folliful
