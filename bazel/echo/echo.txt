@@ -4811,7 +4811,6 @@ encoders
 eremopteris
 encoding
 encodings
-encoffin
 encoffinment
 ectoblast
 extense
@@ -8821,6 +8820,7 @@ equivocacy
 equivocal
 equivocally
 equivocate
+encoffin
 excoriable
 equivocated
 equivocates
