@@ -2515,7 +2515,6 @@ aggrate
 acinus
 acipenser
 acipenseres
-acipenserid
 aedes
 acipenseridae
 acipenserine
@@ -18266,6 +18265,7 @@ appetizingly
 aquench
 aqueoigneous
 aqueomercurial
+acipenserid
 aqueous
 aqueously
 aqueousness
