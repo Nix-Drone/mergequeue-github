@@ -8430,6 +8430,7 @@ diammine
 diamminobromide
 diamminonitrate
 diammonium
+downgrades
 diamond
 diamondback
 diamondbacked
@@ -16284,7 +16285,6 @@ downgone
 denude
 downgrade
 downgraded
-downgrades
 dazzles
 downhaul
 downhauls
