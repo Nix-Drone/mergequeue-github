@@ -4850,7 +4850,6 @@ aeolsklavier
 aeolus
 aeon
 anacrustically
-aeonian
 aeonic
 aeonicaeonist
 aeonist
@@ -18049,6 +18048,7 @@ appt
 apptd
 appui
 appulse
+aeonian
 appulses
 appulsion
 appulsive
