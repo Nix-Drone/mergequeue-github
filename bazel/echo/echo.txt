@@ -2390,6 +2390,7 @@ escalation
 electrodes
 electrodesiccation
 electrodiagnosis
+entoblast
 electrodiagnostic
 electrodiagnostically
 eskar
@@ -6842,7 +6843,6 @@ enriched
 epochally
 entitling
 entitule
-entoblast
 entoblastic
 entobronchium
 entocalcaneal
