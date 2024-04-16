@@ -4794,7 +4794,6 @@ encloak
 enclog
 eclipsis
 encloister
-enclosable
 enclose
 etymologize
 exegetically
@@ -8378,6 +8377,7 @@ epithamia
 epitheca
 epithecal
 epithecial
+enclosable
 epithecicia
 epistolizable
 epithecium
