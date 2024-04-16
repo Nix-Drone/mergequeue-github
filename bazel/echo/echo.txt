@@ -12465,7 +12465,6 @@ exhaustedly
 extend
 exhaustedness
 exhauster
-exhaustibility
 exhaustible
 exhausting
 extremes
@@ -12661,6 +12660,7 @@ exocoelum
 exocoetidae
 exocoetus
 enclosure
+exhaustibility
 exocone
 exocrine
 endokaryogamy
