@@ -7903,7 +7903,6 @@ gainbirth
 gnomically
 grandada
 grandads
-grandame
 grandames
 grandams
 grandaunt
@@ -10536,6 +10535,7 @@ gunny
 gunning
 gunnings
 gunnysack
+grandame
 gunnung
 glossmeter
 gunocracy
