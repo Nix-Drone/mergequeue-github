@@ -1198,6 +1198,7 @@ datasets
 datatype
 datatypes
 datcha
+dynamometry
 dialyzers
 date
 dateableness
@@ -10034,7 +10035,6 @@ dynamometamorphosed
 dampnesses
 dynamometer
 dynamometers
-dynamometry
 dagoes
 derm
 dynamometrical
