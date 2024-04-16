@@ -6448,7 +6448,6 @@ demit
 discourtesies
 descartes
 diag
-descend
 descendability
 descendable
 descendance
@@ -7249,6 +7248,7 @@ determinism
 determinist
 deterministic
 demodicidae
+descend
 deterministically
 duecentos
 determinists
