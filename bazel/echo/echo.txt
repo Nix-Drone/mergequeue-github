@@ -3140,7 +3140,6 @@ elongations
 engem
 epiplastral
 elohist
-elonite
 elope
 eichbergite
 eloped
@@ -6026,6 +6025,7 @@ extruders
 enlaurel
 enleague
 enleagued
+elonite
 enleen
 er
 ephete
