@@ -5307,6 +5307,7 @@ castlelike
 castlery
 castles
 cortaderia
+china
 castlet
 chairwoman
 castleward
@@ -10693,7 +10694,6 @@ chimpanzees
 chimps
 chimu
 chin
-china
 chinaberry
 chinaberries
 chinafy
