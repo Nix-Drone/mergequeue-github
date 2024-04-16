@@ -4033,7 +4033,6 @@ finis
 federatist
 finish
 finishable
-finished
 finisher
 finishers
 finishes
@@ -7207,6 +7206,7 @@ figurants
 footmanhood
 fissirostral
 footmanry
+finished
 floodproof
 feretrum
 footmanship
