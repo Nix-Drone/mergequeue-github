@@ -7785,7 +7785,6 @@ epidermis
 epidermization
 epidermoid
 epidermolysis
-epidermomycosis
 ean
 epidermophyton
 englify
@@ -13052,6 +13051,7 @@ expenselessness
 expenses
 expensing
 expensively
+epidermomycosis
 expensiveness
 expergefacient
 expergefaction
