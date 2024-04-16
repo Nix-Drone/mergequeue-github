@@ -1181,7 +1181,6 @@ abutters
 abutting
 abuzz
 anodendron
-abv
 abvolt
 abvolts
 abwab
@@ -5082,6 +5081,7 @@ addax
 aerophilia
 aerophilous
 aerophysical
+abv
 aerophysics
 aerophyte
 aerophobic
