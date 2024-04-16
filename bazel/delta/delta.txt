@@ -5497,7 +5497,6 @@ deorsum
 deorsumvergence
 deorsumversion
 deorusumduction
-deosculate
 deossify
 deossification
 deota
@@ -11534,6 +11533,7 @@ disconducive
 disconectae
 disconfirm
 disconfirmation
+deosculate
 disconfirmed
 dosology
 disconformably
