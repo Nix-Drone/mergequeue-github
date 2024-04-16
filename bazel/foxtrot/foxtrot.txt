@@ -2360,7 +2360,6 @@ friendlies
 feracious
 feracities
 ferae
-feral
 fairyship
 feralin
 ferash
@@ -6812,6 +6811,7 @@ folates
 folcgemot
 founding
 fold
+feral
 fevers
 foldage
 foldaway
