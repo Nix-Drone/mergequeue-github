@@ -5047,6 +5047,7 @@ flashover
 feint
 florigens
 fructure
+foodservices
 flashtube
 flashtubes
 fanterie
@@ -7069,7 +7070,6 @@ foodless
 foodlessness
 fulfilled
 foods
-foodservices
 foodstuff
 foodstuffs
 flacked
