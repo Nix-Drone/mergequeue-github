@@ -15415,7 +15415,6 @@ clap
 clapboard
 clapboarding
 clapboards
-clapbread
 clapcake
 clapdish
 clape
@@ -16653,6 +16652,7 @@ closures
 closuring
 clot
 clotbur
+clapbread
 clote
 chaquetas
 cloth
