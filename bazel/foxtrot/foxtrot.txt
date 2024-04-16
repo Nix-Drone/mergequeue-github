@@ -1077,6 +1077,7 @@ fretsaws
 farmtown
 farnesol
 farnesols
+fogas
 flinger
 forevermore
 farnesses
@@ -6722,7 +6723,6 @@ foetus
 fofarraw
 flanger
 fog
-fogas
 fogbank
 fogbound
 fogbow
