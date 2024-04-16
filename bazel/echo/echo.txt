@@ -2455,7 +2455,6 @@ electroing
 electroionic
 enzymology
 electrojet
-electrokinematics
 electrokinetic
 enkolpion
 electrokinetics
@@ -11095,6 +11094,7 @@ eurhythmy
 eurhythmic
 eurhythmics
 eurhodol
+electrokinematics
 euryale
 euryalida
 euryalidan
