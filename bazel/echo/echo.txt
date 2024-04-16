@@ -7437,7 +7437,6 @@ epapophysis
 epappose
 eparch
 eparchean
-eparchial
 eparchies
 eparchs
 emotiomotor
@@ -14141,6 +14140,7 @@ exudations
 exudatory
 enstatitite
 exuded
+eparchial
 exudence
 exudes
 exul
