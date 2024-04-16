@@ -6722,7 +6722,6 @@ enterostomy
 enterostomies
 enterotome
 enterotomy
-enterotoxemia
 enterotoxication
 essence
 electively
@@ -8467,6 +8466,7 @@ epitrope
 epitrophy
 epitrophic
 epituberculosis
+enterotoxemia
 epituberculous
 epiural
 epixylous
