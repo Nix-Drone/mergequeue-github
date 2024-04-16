@@ -5597,7 +5597,6 @@ flights
 flightworthy
 flying
 flyings
-fecit
 flyleaf
 flyleaves
 flyless
@@ -6280,6 +6279,7 @@ fosslology
 forint
 footstool
 fissicostate
+fecit
 fluidified
 fluidifier
 fluidimeter
