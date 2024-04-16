@@ -479,7 +479,6 @@ gooseries
 guttier
 guestimated
 galen
-gestio
 galena
 galenas
 galenic
@@ -5764,6 +5763,7 @@ globularness
 garavance
 globule
 gtd
+gestio
 globulicide
 generality
 globuliform
