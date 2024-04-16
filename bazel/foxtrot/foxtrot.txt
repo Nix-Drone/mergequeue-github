@@ -7168,7 +7168,6 @@ footfall
 ferruling
 filoselle
 footfalls
-followership
 footfarer
 footfault
 footfeed
@@ -8774,6 +8773,7 @@ fortunetelling
 fortuning
 fortunite
 fortunize
+followership
 fortuuned
 forumize
 forvay
