@@ -3461,7 +3461,6 @@ deticking
 defog
 defogged
 disyllable
-defogger
 defoggers
 defogging
 defogs
@@ -8155,6 +8154,7 @@ diadochian
 diadochic
 diggings
 diadochite
+defogger
 diadochokinesia
 diadochokinetic
 diadokokinesis
