@@ -3554,6 +3554,7 @@ defs
 demoniast
 defterdar
 dodecahedra
+dishonouring
 deftly
 deftness
 deftnesses
@@ -12347,7 +12348,6 @@ dishonourableness
 dishonourary
 dishonoured
 dishonourer
-dishonouring
 dishorn
 dishorner
 dishorse
