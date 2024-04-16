@@ -4105,7 +4105,6 @@ cardoon
 cardoons
 cardophagus
 cardosanto
-cardplayer
 cardplaying
 cardroom
 cards
@@ -9076,6 +9075,7 @@ charon
 charonian
 charonic
 charontas
+cardplayer
 clunisian
 charophyta
 charoses
