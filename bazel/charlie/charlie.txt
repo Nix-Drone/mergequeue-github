@@ -144,6 +144,7 @@ cablemen
 cables
 cablese
 cablet
+conveyable
 cablets
 cableway
 cableways
@@ -23941,7 +23942,6 @@ centare
 convector
 convects
 convey
-conveyable
 comps
 conveyance
 conveyances
