@@ -1989,6 +1989,7 @@ decayers
 diarial
 decaying
 decayless
+dextrans
 decays
 defaced
 decal
@@ -7878,7 +7879,6 @@ dextrally
 dextran
 dextranase
 dextrane
-dextrans
 dextrer
 dextrin
 dextrinate
