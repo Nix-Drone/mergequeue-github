@@ -9442,7 +9442,6 @@ altarpieces
 altars
 altarwise
 altazimuth
-alter
 alterability
 alterable
 alterableness
@@ -14566,6 +14565,7 @@ anthropoids
 anthropol
 anthropolatry
 anaphoric
+alter
 anthropolatric
 anthropolite
 anthropolith
