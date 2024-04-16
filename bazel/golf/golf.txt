@@ -3003,7 +3003,6 @@ geochronic
 geochronology
 geochronologic
 geochronological
-geochronologically
 geochronologist
 geochronometry
 geochronometric
@@ -5421,6 +5420,7 @@ guarri
 glycerinating
 genomes
 glycerination
+geochronologically
 glycerine
 glycerinize
 glycerins
