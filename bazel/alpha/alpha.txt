@@ -1489,7 +1489,6 @@ accesses
 araneology
 accessibility
 accessible
-accessibleness
 associational
 accessibly
 accessing
@@ -15593,6 +15592,7 @@ abstractiveness
 antimodernization
 antimodernly
 antimodernness
+accessibleness
 antimonarchal
 antimonarchally
 antimonarchy
