@@ -11304,7 +11304,6 @@ chloroethene
 chloroethylene
 chlorofluorocarbon
 chlorofluoromethane
-chloroform
 chloroformate
 chloroformed
 chloroformic
@@ -30863,6 +30862,7 @@ cacatua
 culturologist
 cultus
 culver
+chloroform
 culverfoot
 culverhouse
 culverineer
