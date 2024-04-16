@@ -3504,6 +3504,7 @@ deformable
 deformalize
 deformation
 deformational
+delete
 deformations
 deformative
 deformed
@@ -4026,7 +4027,6 @@ delesseria
 dactyliographer
 delesseriaceae
 delesseriaceous
-delete
 deleter
 demur
 deleterious
