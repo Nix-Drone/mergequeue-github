@@ -8245,7 +8245,6 @@ bier
 broid
 bierbalk
 byerite
-bierkeller
 byerlite
 bierstube
 bierstuben
@@ -17150,6 +17149,7 @@ bintangor
 bullimong
 bulling
 bullion
+bierkeller
 bullionism
 blading
 bullionist
