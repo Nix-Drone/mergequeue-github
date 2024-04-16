@@ -369,7 +369,6 @@ backhandedness
 backhander
 backhanding
 backhands
-backhatch
 backhaul
 backhauls
 backhoe
@@ -12715,6 +12714,7 @@ bookseller
 berendo
 becloaked
 booksellerish
+backhatch
 boff
 boce
 barmkin
