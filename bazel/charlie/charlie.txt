@@ -1418,6 +1418,7 @@ cowpunch
 callate
 callback
 callbacks
+chemolysis
 cowish
 callboy
 callboys
@@ -9853,7 +9854,6 @@ chemoautotrophically
 chemoceptor
 chemokinesis
 chemokinetic
-chemolysis
 chemolytic
 chemolyze
 chemonite
