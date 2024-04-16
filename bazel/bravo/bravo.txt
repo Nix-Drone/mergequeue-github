@@ -7250,7 +7250,6 @@ bestiary
 bestiarian
 bestiaries
 bestiarist
-bestill
 besting
 bestirred
 bestirs
@@ -10685,6 +10684,7 @@ blencorn
 blend
 backflap
 blendcorn
+bestill
 broomstaff
 blende
 blended
