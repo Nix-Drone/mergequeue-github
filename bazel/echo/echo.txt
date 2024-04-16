@@ -3668,7 +3668,6 @@ embryocardia
 embryoctonic
 embryogenesis
 embryogenetic
-embryogeny
 embryogony
 embryographer
 exsection
@@ -12729,6 +12728,7 @@ exomorphic
 exomorphism
 exomphalos
 exomphalous
+embryogeny
 exomphalus
 expandibility
 entame
