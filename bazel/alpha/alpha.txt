@@ -14268,7 +14268,6 @@ anteroflexion
 anterofrontal
 anterograde
 anteroparietal
-anteroinferior
 astriction
 anterointerior
 anterointernal
@@ -18596,6 +18595,7 @@ arbota
 arbour
 arboured
 arbours
+anteroinferior
 arbovirus
 arbs
 arbtrn
