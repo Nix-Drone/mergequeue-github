@@ -3528,7 +3528,6 @@ antiknocks
 addictedness
 activable
 addicting
-addiction
 addictions
 addictive
 addictively
@@ -25086,6 +25085,7 @@ axiality
 axialities
 axiate
 axifera
+addiction
 axiferous
 axiform
 axifugal
