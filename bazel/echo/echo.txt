@@ -4911,7 +4911,6 @@ end
 endable
 endamage
 endamageable
-endamaged
 endamagement
 endamages
 endamaging
@@ -9773,6 +9772,7 @@ espacement
 espada
 espadon
 espadrilles
+endamaged
 espagnole
 entitles
 espagnolette
