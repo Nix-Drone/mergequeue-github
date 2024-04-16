@@ -6007,7 +6007,6 @@ dequeuing
 dropshots
 der
 derabbinize
-deracialize
 deracinate
 deracinating
 deracination
@@ -12181,6 +12180,7 @@ disguisay
 disguisal
 disguise
 disguised
+deracialize
 disguisedly
 disguisedness
 disguiseless
