@@ -1025,7 +1025,6 @@ darkness
 darknesses
 darkroom
 dineutron
-darkrooms
 darks
 darkskin
 darksomeness
@@ -12714,6 +12713,7 @@ dismasted
 dismastment
 disme
 dismeasured
+darkrooms
 dismember
 dismembered
 dismembering
