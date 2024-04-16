@@ -4106,7 +4106,6 @@ fiqh
 fiques
 firca
 fyrd
-fyrdung
 fire
 fireable
 firearm
@@ -7719,6 +7718,7 @@ foreheater
 fullers
 ferri
 forehew
+fyrdung
 flaggelation
 forehill
 forehock
