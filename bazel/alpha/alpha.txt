@@ -4061,6 +4061,7 @@ adjutancies
 adjutant
 adjutants
 adjutantship
+anesthetic
 adjutator
 adjute
 adjutor
@@ -12564,7 +12565,6 @@ anesthesiologist
 anesthesiologists
 anesthesis
 allergens
-anesthetic
 anesthetically
 anesthetics
 anesthetist
