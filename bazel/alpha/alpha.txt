@@ -4549,7 +4549,6 @@ advancement
 advancements
 advancer
 advancers
-advances
 advancing
 advancingly
 advancive
@@ -22902,6 +22901,7 @@ atropins
 atropisms
 atropos
 atropous
+advances
 atrorubent
 atrosanguineous
 angrite

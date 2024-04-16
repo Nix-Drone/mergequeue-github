@@ -6887,7 +6887,6 @@ fold
 feudally
 fevers
 foldage
-foresettle
 foldaway
 foldboat
 farmings
@@ -7657,6 +7656,7 @@ foredoomed
 foredoomer
 fgn
 fretter
+foresettle
 foredooms
 foredune
 foreface
