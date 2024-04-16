@@ -9569,7 +9569,6 @@ dihalide
 dihalo
 dihalogen
 dihdroxycholecalciferol
-dispensary
 dihedral
 dihedrals
 dihedron
@@ -18173,6 +18172,7 @@ dinucleotide
 duncical
 duncify
 duncifying
+dispensary
 duncish
 duncishly
 duncishness
