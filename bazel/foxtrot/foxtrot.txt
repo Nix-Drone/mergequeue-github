@@ -8376,7 +8376,6 @@ formalizations
 formalize
 formalized
 formalizer
-formalizes
 foreknowledge
 fettuccine
 formally
@@ -10013,6 +10012,7 @@ fuse
 fenestrone
 fleawood
 friendship
+formalizes
 frier
 fryer
 friers
