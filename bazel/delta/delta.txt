@@ -15789,7 +15789,6 @@ dorsibranchiata
 dorsibranchiate
 dorsicollar
 dorsicolumn
-dorsicommissure
 dorsicornu
 dorsiduct
 dorsiferous
@@ -17385,6 +17384,7 @@ dropax
 dropberry
 dropcloth
 dropforge
+dorsicommissure
 dropforger
 drophead
 ditchbur
