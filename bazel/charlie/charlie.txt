@@ -16623,7 +16623,6 @@ closefitting
 closehanded
 closehauled
 cardiodysesthesia
-closelipped
 closemouth
 closemouthed
 closen
@@ -27188,6 +27187,7 @@ country
 countrieman
 coenoblast
 countries
+closelipped
 countrify
 countrification
 complies
