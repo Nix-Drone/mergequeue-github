@@ -9106,7 +9106,6 @@ biophysic
 branchstand
 biophysical
 biophysicist
-biophysicochemical
 biophysics
 biophysiography
 biophysiology
@@ -12985,6 +12984,7 @@ blastoporphyritic
 bordman
 bordrag
 bordrage
+biophysicochemical
 beringite
 bordroom
 borinqueno
