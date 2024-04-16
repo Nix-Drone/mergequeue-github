@@ -3014,7 +3014,6 @@ genuses
 geo
 geoagronomic
 geobiont
-geobios
 geoblast
 geobotany
 galivant
@@ -3147,6 +3146,7 @@ garnered
 geomancies
 gushingness
 geomant
+geobios
 geomantic
 garboil
 gasolineless
