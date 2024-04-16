@@ -1154,7 +1154,6 @@ bairntime
 bairnwort
 bais
 baisemain
-belatedly
 boardable
 baysmelt
 baister
@@ -13564,6 +13563,7 @@ bounces
 bouncier
 bounciest
 bouncily
+belatedly
 bounciness
 bouncingly
 boundable
