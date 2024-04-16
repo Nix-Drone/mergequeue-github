@@ -10175,7 +10175,6 @@ chew
 chewable
 chewbark
 chewed
-cheweler
 chewer
 chewers
 chewet
@@ -19954,6 +19953,7 @@ commencer
 commencing
 commend
 commenda
+cheweler
 commendable
 commendableness
 commendably
