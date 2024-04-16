@@ -3612,7 +3612,6 @@ carbeen
 carbene
 carberry
 carbethoxy
-carbethoxyl
 carbide
 carbides
 carbyl
@@ -26625,6 +26624,7 @@ counselable
 copita
 counseled
 caperer
+carbethoxyl
 counselee
 clotweed
 counselful
