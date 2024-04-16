@@ -4729,7 +4729,6 @@ ersatzes
 ease
 enciphered
 egotist
-encipherer
 enciphering
 encipherment
 evolutional
@@ -5166,6 +5165,7 @@ endogamy
 endogamic
 endogamous
 endogastrically
+encipherer
 endogastritis
 endogen
 electroballistician
