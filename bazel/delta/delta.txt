@@ -5778,7 +5778,6 @@ darksome
 depolarising
 docetic
 depolarization
-depolarize
 depolarized
 depolarizers
 droves
@@ -10913,6 +10912,7 @@ disacquaint
 disacryl
 dysadaptation
 disadjust
+depolarize
 disadorn
 disadvance
 dejecta
