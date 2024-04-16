@@ -344,7 +344,6 @@ failings
 faille
 falding
 flaxdrop
-failsoft
 failure
 failures
 fain
@@ -1975,6 +1974,7 @@ feedstock
 feedstuff
 feedway
 fictions
+failsoft
 favela
 feeing
 feel
