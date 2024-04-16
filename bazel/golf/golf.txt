@@ -2906,7 +2906,6 @@ genos
 genospecies
 genotype
 genotypic
-gularis
 genotypical
 gunfire
 genotypically
@@ -10705,6 +10704,7 @@ gusty
 gustier
 guilefully
 gustiest
+gularis
 globulin
 gonorrhea
 gustless
