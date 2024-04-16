@@ -12877,7 +12877,6 @@ bootmaker
 barks
 bootmaking
 bootman
-bootprint
 boots
 bootstrapped
 bangalay
@@ -14021,6 +14020,7 @@ brachyglossal
 brachygnathia
 brachygnathism
 brachygrapher
+bootprint
 brachygraphic
 brachygraphical
 brachyhieric
