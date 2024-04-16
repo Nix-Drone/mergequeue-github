@@ -5680,6 +5680,7 @@ depickle
 depict
 depicted
 depicter
+descendents
 denuclearize
 depicters
 depicting
@@ -6467,7 +6468,6 @@ descendent
 demonlike
 descendental
 descendentalistic
-descendents
 descender
 dispunct
 descendibility
