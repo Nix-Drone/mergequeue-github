@@ -5324,7 +5324,6 @@ flecnodal
 flect
 frigefact
 flection
-flectional
 flectionless
 flector
 flinter
@@ -6729,6 +6728,7 @@ foggiest
 fogginess
 fogging
 foggish
+flectional
 foghorn
 fogy
 flaggily
