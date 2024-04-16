@@ -3678,7 +3678,6 @@ degree
 dryopithecinae
 degreed
 degreeing
-degreeless
 degreewise
 drakefly
 degressive
@@ -11310,6 +11309,7 @@ dischargers
 dolichopodous
 discharges
 discharging
+degreeless
 discharity
 discharm
 dischevel
