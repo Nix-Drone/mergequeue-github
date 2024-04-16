@@ -3069,7 +3069,6 @@ gentes
 geochemists
 geochrony
 geochronology
-geochronologic
 geochronological
 geochronologically
 geocyclic
@@ -4396,6 +4395,7 @@ gynandria
 gynandrian
 gynandries
 gynandrism
+geochronologic
 gynandromorph
 gynandromorphy
 gilthead
