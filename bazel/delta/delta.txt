@@ -9978,7 +9978,6 @@ diapaused
 din
 dynactinometer
 dynagraph
-dinah
 dynam
 dynameter
 dynametric
@@ -11383,6 +11382,7 @@ disclaim
 disclaimed
 disclaimer
 disclaimers
+dinah
 disclaiming
 disclamation
 disclander
