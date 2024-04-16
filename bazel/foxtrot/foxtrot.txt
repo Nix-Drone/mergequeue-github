@@ -2546,7 +2546,6 @@ ferryboats
 ferric
 familistery
 ferricyanate
-ferricyanic
 furiosity
 ferricyanide
 ferrier
@@ -11109,6 +11108,7 @@ funbre
 functional
 functionalism
 functionalist
+ferricyanic
 footmenfootpad
 farceuse
 functionalities
