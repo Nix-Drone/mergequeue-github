@@ -4823,7 +4823,6 @@ gasconade
 gyron
 gironde
 girondin
-girondism
 gentrice
 gironny
 gyronny
@@ -5906,6 +5905,7 @@ glossematics
 grenado
 glossemes
 glossemic
+girondism
 glosser
 glossers
 glosses
