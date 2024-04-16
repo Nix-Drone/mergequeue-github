@@ -10838,7 +10838,6 @@ chipboard
 chipchap
 chipchop
 chipewyan
-chipyard
 chiplet
 chipling
 chipmuck
@@ -23868,6 +23867,7 @@ contumacious
 contumaciously
 contumaciousness
 contumacity
+chipyard
 contumacities
 contumax
 cantel
