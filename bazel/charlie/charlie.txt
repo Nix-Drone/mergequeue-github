@@ -12960,6 +12960,7 @@ cyanformate
 cyanformic
 cyanhydrate
 cyanhydric
+closed
 cyanhydrin
 cyanic
 cyanicide
@@ -16614,7 +16615,6 @@ closable
 close
 closeable
 closecross
-closed
 closedown
 closefistedly
 closefistedness
