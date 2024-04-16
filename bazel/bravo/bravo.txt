@@ -3470,6 +3470,7 @@ bastiment
 bastinaded
 bastinades
 baroi
+berend
 burbots
 bastinado
 bastinadoed
@@ -10987,7 +10988,6 @@ bankrupted
 blizzardous
 blk
 blksize
-berend
 bunts
 blo
 bloat
