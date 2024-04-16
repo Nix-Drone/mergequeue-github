@@ -7037,7 +7037,6 @@ banque
 besiclometer
 beslipper
 beslobber
-beslow
 besluit
 beslur
 beslushed
@@ -8939,6 +8938,7 @@ biocenosis
 biocenotic
 biocentric
 biochemy
+beslow
 biochemic
 biochemically
 biochemics
