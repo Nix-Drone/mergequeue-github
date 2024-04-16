@@ -3705,7 +3705,6 @@ embryotomy
 embryotomies
 embryotrophe
 embryotrophy
-embryotrophic
 electrogenesis
 embrittle
 embrittled
@@ -12460,6 +12459,7 @@ exhausted
 eyelike
 exhaustedly
 extend
+embryotrophic
 exhaustedness
 exhauster
 exhaustible
