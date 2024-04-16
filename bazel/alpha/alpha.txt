@@ -6851,7 +6851,6 @@ aircraftswoman
 aircraftwoman
 ahint
 aircrew
-anteverts
 aircrewman
 aircrewmen
 aircrews
@@ -17016,6 +17015,7 @@ apyrexial
 apyrotype
 apyrous
 articulating
+anteverts
 apis
 apish
 apishamore
