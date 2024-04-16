@@ -13795,7 +13795,6 @@ bowings
 bowk
 badinage
 bowkail
-bowknot
 bowknots
 bowl
 blinking
@@ -16645,6 +16644,7 @@ buckled
 buckleya
 buckleless
 buckler
+bowknot
 bucklered
 bucklering
 bucklers
