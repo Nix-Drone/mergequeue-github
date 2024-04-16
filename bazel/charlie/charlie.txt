@@ -15134,6 +15134,7 @@ cyzicene
 cophasal
 ck
 ckw
+combine
 cl
 clabber
 compellation
@@ -19659,7 +19660,6 @@ combinatoric
 combinatorics
 combinators
 combind
-combine
 combined
 candlebeam
 condyloid
