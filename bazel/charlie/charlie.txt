@@ -2565,6 +2565,7 @@ canli
 coff
 canmaker
 canmaking
+climbs
 canman
 cann
 canna
@@ -16150,7 +16151,6 @@ cheetal
 climbing
 climbingfish
 climbingfishes
-climbs
 collinearly
 chedites
 clime
