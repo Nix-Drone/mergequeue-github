@@ -4163,6 +4163,7 @@ admissive
 automaton
 admissively
 alibi
+antiperistasis
 admissory
 admit
 admits
@@ -15820,7 +15821,6 @@ antipepsin
 antiperiodic
 antiperistalsis
 antiperistaltic
-antiperistasis
 antiperistatic
 apaches
 antiperistatical
