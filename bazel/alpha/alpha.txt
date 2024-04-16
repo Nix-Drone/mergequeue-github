@@ -13532,7 +13532,6 @@ annihilability
 annihilable
 annihilate
 apse
-anesthetizer
 annihilated
 annihilating
 aerosat
@@ -25064,6 +25063,7 @@ axe
 axebreaker
 alkylol
 axed
+anesthetizer
 axel
 axels
 axeman
