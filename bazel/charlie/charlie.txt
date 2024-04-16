@@ -2980,7 +2980,6 @@ capacitances
 capacitate
 capacitated
 capacitating
-capacitation
 capacitations
 capacitative
 capacitativly
@@ -16305,6 +16304,7 @@ clipsheets
 clipsome
 clipt
 clique
+capacitation
 cliqued
 cliquedom
 cliquey
