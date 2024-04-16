@@ -3853,7 +3853,6 @@ carcinoscorpius
 carcanet
 carcanets
 carcanetted
-carcased
 carcases
 crueler
 carcass
@@ -31887,6 +31886,7 @@ cuttoos
 cutup
 cutups
 cutwal
+carcased
 cutwater
 cutwaters
 cutweed
