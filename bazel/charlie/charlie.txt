@@ -5827,6 +5827,7 @@ cathartic
 cathartical
 cuirass
 cathartically
+compoundable
 catharticalness
 cathartics
 cathartidae
@@ -27630,7 +27631,6 @@ cowsharn
 corkscrews
 cowshed
 cowsheds
-compoundable
 cowshot
 cowshut
 cowskin
