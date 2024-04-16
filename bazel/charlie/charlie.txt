@@ -9823,7 +9823,6 @@ curtaining
 chemicovital
 chemiculture
 chemigraph
-chemigrapher
 chemigraphy
 chemigraphic
 chemigraphically
@@ -26315,6 +26314,7 @@ cothon
 cothouse
 cothurn
 cothurnal
+chemigrapher
 cothurnate
 cothurned
 cervicovaginal
