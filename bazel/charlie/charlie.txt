@@ -18868,7 +18868,6 @@ collateralness
 collaterals
 canzone
 collates
-collating
 collation
 collationer
 collations
@@ -20878,6 +20877,7 @@ compressure
 comprest
 compriest
 comprint
+collating
 comprisal
 casseroles
 comprise
