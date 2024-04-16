@@ -6405,7 +6405,6 @@ bocklogged
 buhrstone
 benzdiazine
 bipolarize
-bedplate
 benzdifuran
 benzdioxazine
 benzdioxdiazine
@@ -12530,6 +12529,7 @@ bonking
 barwing
 bonnaz
 bonne
+bedplate
 bonnes
 bonnet
 bonneted
