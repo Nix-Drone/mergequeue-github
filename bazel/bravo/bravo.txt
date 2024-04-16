@@ -10046,6 +10046,7 @@ bkg
 bklr
 backsey
 bkpt
+bocasine
 bks
 bkt
 bl
@@ -11730,7 +11731,6 @@ bocal
 buckwheat
 bouquets
 bocasin
-bocasine
 boccaccio
 boccale
 boccarella
