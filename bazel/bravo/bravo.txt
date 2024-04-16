@@ -3732,7 +3732,6 @@ battarism
 battarismus
 batteau
 batteaux
-battel
 bonnering
 batteler
 batteling
@@ -8502,6 +8501,7 @@ bilabials
 bilabiate
 bilaciniate
 bilayer
+battel
 bookmen
 bilalo
 bilamellar
