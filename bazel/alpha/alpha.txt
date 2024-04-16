@@ -1886,7 +1886,6 @@ arthrodesis
 antilepton
 acerb
 acenaphthene
-acenaphthenyl
 acenaphthylene
 acensuada
 acensuador
@@ -23891,6 +23890,7 @@ ambiences
 autocarpian
 autocarpic
 autocarpous
+acenaphthenyl
 anatherum
 autocatalyses
 autocatalysis
