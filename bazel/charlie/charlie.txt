@@ -8782,6 +8782,7 @@ chapeless
 chapelet
 chapelgoer
 chapelgoing
+confessarius
 chapeling
 chapelize
 chapellage
@@ -21864,7 +21865,6 @@ confervoideae
 confessable
 confessant
 confessary
-confessarius
 confessed
 cecotomy
 confessedly
