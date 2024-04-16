@@ -2512,7 +2512,6 @@ electrometric
 electrometrical
 electrometrically
 electromyogram
-electromyograph
 electromyography
 electromyographically
 electromobile
@@ -13255,6 +13254,7 @@ explosively
 explosiveness
 explosives
 expo
+electromyograph
 eloquentness
 embroiderer
 expone
