@@ -3787,6 +3787,7 @@ battlement
 battlements
 battlepiece
 battleplane
+barnstorms
 battler
 battles
 battleship
@@ -6687,7 +6688,6 @@ bergfall
 berggylt
 bibliographical
 burstwort
-barnstorms
 bergh
 berghaan
 bergy
