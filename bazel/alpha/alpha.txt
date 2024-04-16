@@ -5612,7 +5612,6 @@ acidulates
 afterdeal
 afterdeath
 afterdeck
-afterdecks
 afterdrain
 aftereffect
 aftereffects
@@ -9706,6 +9705,7 @@ agnizing
 amadous
 amaethon
 amafingo
+afterdecks
 amah
 amahuaca
 amain
