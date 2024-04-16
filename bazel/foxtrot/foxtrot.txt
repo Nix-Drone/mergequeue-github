@@ -3148,7 +3148,6 @@ fibrosities
 fibrositis
 fibrospongiae
 formative
-fibrotic
 fibrotuberculosis
 fibrous
 fibrously
@@ -10048,6 +10047,7 @@ frightener
 frightening
 frighteningness
 frightens
+fibrotic
 frighter
 frightfully
 fourierian
