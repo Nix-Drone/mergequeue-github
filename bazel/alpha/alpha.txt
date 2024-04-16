@@ -4170,7 +4170,6 @@ alibi
 admissory
 admit
 admits
-admittable
 admittance
 admittances
 admittatur
@@ -14766,6 +14765,7 @@ antiatonement
 antiattrition
 antiauthoritarian
 antiauthoritarianism
+admittable
 antiautolysin
 antiauxin
 antibacchic
