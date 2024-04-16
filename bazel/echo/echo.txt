@@ -5639,7 +5639,6 @@ excommunicate
 enforcers
 enforces
 enforcibility
-enforcible
 enforcingly
 enforcively
 enforest
@@ -10376,6 +10375,7 @@ ethylation
 eunuchised
 ethylbenzene
 ethyldichloroarsine
+enforcible
 ethylenation
 ethylene
 epistolographer
