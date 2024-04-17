@@ -3619,6 +3619,7 @@ briquetted
 bathyscaphes
 bathyseism
 bathysmal
+bomarea
 bathysophic
 bathysophical
 bathysphere
@@ -12251,7 +12252,6 @@ boltwork
 bolus
 boluses
 benn
-bomarea
 bomb
 bombable
 bombacaceae
