@@ -13469,6 +13469,7 @@ annealed
 annealer
 annealers
 annealing
+appoggiature
 anneals
 annect
 annectant
@@ -17843,7 +17844,6 @@ applotment
 appmt
 authorizations
 appoggiaturas
-appoggiature
 appointable
 appals
 appointe
