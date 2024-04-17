@@ -3091,7 +3091,6 @@ geographers
 gurge
 geographical
 geographies
-geohydrologic
 grocerdom
 geoidal
 geoids
@@ -6945,6 +6944,7 @@ goldarn
 gonophorous
 gonophs
 gryph
+geohydrologic
 gonopodial
 gimmaled
 gonopodium
