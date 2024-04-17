@@ -2670,7 +2670,6 @@ byelaws
 bunglesome
 barkey
 barken
-beknights
 barkentine
 barkentines
 barker
@@ -7231,6 +7230,7 @@ besteads
 besteal
 bedcover
 bested
+beknights
 besteer
 bioflavonoid
 bestench
