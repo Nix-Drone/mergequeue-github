@@ -688,7 +688,6 @@ bacteriotrypsin
 bynames
 bacteriotropic
 blepharedema
-bacteriotropin
 bacterious
 bacteririum
 bacteritic
@@ -9005,6 +9004,7 @@ biogenesist
 biogenetic
 beingless
 biogenetically
+bacteriotropin
 biogenetics
 backspace
 biogeny
