@@ -2557,6 +2557,7 @@ decoct
 decoctible
 decocting
 decoction
+disarrest
 decoctive
 decocts
 decoctum
@@ -16166,7 +16167,6 @@ dove
 dovecot
 dovecote
 dovecotes
-disarrest
 dramaticule
 dovecots
 doveflower
