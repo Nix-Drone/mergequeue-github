@@ -1682,7 +1682,6 @@ fealty
 fumigates
 fluorinate
 fear
-fearbabe
 fanflower
 fimbles
 fusillade
@@ -6144,6 +6143,7 @@ flowed
 flower
 flowerage
 flowerers
+fearbabe
 floweret
 flowerfly
 floweriest
