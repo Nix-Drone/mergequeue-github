@@ -11747,7 +11747,6 @@ chondroganoidei
 chondrogen
 chondrogenesis
 chondrogenetic
-chondrogeny
 chondrogenous
 chondroglossal
 chondroglossus
@@ -27687,6 +27686,7 @@ creeper
 coxier
 coxiest
 coxing
+chondrogeny
 coxite
 coxitis
 coxocerite
