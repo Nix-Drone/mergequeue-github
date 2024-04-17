@@ -9557,6 +9557,7 @@ checkrow
 checkrowed
 checkrower
 checkrowing
+consummatively
 checkrows
 checks
 checkstrap
@@ -23234,7 +23235,6 @@ consummation
 consummations
 calamaroid
 consummative
-consummatively
 consummativeness
 consummator
 consummatory
