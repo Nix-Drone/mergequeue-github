@@ -50,7 +50,7 @@ jobs:
         id: edits
         run: ./mq generate
         env:
-          GH_TOKEN: ${{ secrets[steps.choose-secret.outputs.secret_name] }}
+          GH_TOKEN: ${{ secrets.ANDREW_CLASSIC }}
 
       - name: run mq
         if: always()
