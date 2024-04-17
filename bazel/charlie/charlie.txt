@@ -11902,7 +11902,6 @@ choreatic
 chored
 choregi
 choregy
-choregic
 choregrapher
 choregraphy
 choregraphic
@@ -14194,6 +14193,7 @@ cardioneural
 circulant
 circular
 circularisation
+choregic
 circularised
 circulariser
 circularising
