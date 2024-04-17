@@ -5624,7 +5624,6 @@ enfoulder
 enfrai
 enframe
 enframed
-enframes
 enframing
 enfranch
 enfranchised
@@ -13325,6 +13324,7 @@ epanaphoral
 etude
 exposure
 excalfaction
+enframes
 exposures
 expound
 expoundable
