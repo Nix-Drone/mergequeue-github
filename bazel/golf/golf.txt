@@ -1272,7 +1272,6 @@ generalizable
 gruis
 gothic
 gapeseed
-gapeseeds
 gapeworm
 gapeworms
 gorgonized
@@ -2670,6 +2669,7 @@ generalising
 gov
 grifts
 groceteria
+gapeseeds
 generalism
 gudgeoning
 generalissimo
