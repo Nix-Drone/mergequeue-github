@@ -4345,7 +4345,6 @@ beaverize
 beaverkill
 beaverkin
 beaverlike
-beaverpelt
 beaverroot
 beavers
 beaverskin
@@ -17753,6 +17752,7 @@ brenthis
 begazed
 burmanniaceae
 bedclothes
+beaverpelt
 burmanniaceous
 bradded
 burn
