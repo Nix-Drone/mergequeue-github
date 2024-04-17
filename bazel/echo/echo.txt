@@ -2120,7 +2120,6 @@ elasmobranchii
 epilimnia
 edgemaker
 elasmothere
-elasmotherium
 elastance
 elastase
 excretory
@@ -8451,6 +8450,7 @@ epizoan
 epizoarian
 epizoic
 epizoisms
+elasmotherium
 eudaemonia
 epizoology
 essera
