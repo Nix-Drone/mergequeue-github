@@ -8164,7 +8164,6 @@ conceptions
 chaine
 chained
 chainer
-chaining
 chainless
 craspedon
 chainlike
@@ -15312,6 +15311,7 @@ clamber
 clamberer
 colfox
 cassique
+chaining
 clambering
 clambers
 clamcracker
