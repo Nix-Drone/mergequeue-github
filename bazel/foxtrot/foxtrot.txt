@@ -1408,7 +1408,6 @@ fatigation
 fatiguability
 filicoids
 fatiguabilities
-fatiguable
 fatigue
 fatiguesome
 fatiguingly
@@ -11471,6 +11470,7 @@ furore
 furphy
 furcated
 feower
+fatiguable
 furred
 furry
 furriery
