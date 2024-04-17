@@ -1570,7 +1570,6 @@ demutization
 deairs
 dealable
 dealate
-dealates
 dealation
 disconnections
 dealbate
@@ -2498,6 +2497,7 @@ declarable
 declarant
 declaration
 declarations
+dealates
 declarative
 declaratively
 deutzias
