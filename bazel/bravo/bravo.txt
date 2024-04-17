@@ -4573,7 +4573,6 @@ becross
 becrowd
 becrowded
 buttering
-becrown
 bearhide
 becrush
 buffering
@@ -7634,6 +7633,7 @@ bewest
 bewhig
 bewhisker
 bewhiskered
+becrown
 bewhisper
 bromatology
 bewhistle
