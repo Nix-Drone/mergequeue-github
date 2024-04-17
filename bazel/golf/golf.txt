@@ -1129,7 +1129,6 @@ ganglioid
 ganglioma
 grav
 gangliomas
-gangliomata
 ganglionate
 grayness
 ganglionated
@@ -5930,6 +5929,7 @@ grinder
 glossoplasty
 glossoplegia
 glossopodium
+gangliomata
 glossopteris
 glossoptosis
 glossorrhaphy
