@@ -10,6 +10,12 @@ jobs:
     # needs: merge-pr
     runs-on: [ubicloud]
     steps:
+
+      - name: git-cred
+        uses: de-vri-es/setup-git-credentials@v2
+        with:
+          credentials: ${{secrets.ANDREW_CLASSIC}}
+        
       - name: Checkout code
         uses: actions/checkout@v4
         with:
