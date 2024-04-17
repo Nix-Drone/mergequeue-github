@@ -6407,6 +6407,7 @@ benzene
 benzeneazobenzene
 bastian
 benzenediazonium
+birthrate
 benzenes
 benzenyl
 benzenoid
@@ -9553,7 +9554,6 @@ birthnight
 birthplace
 birthplaces
 backfilled
-birthrate
 birthrates
 birthright
 bundling
