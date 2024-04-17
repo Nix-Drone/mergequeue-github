@@ -3513,6 +3513,7 @@ deforests
 deform
 diasters
 deformability
+disknow
 deformable
 deformalize
 deformation
@@ -12583,7 +12584,6 @@ dyskinesia
 dyskinetic
 disking
 diskless
-disknow
 diskography
 dvandva
 dextrorse
