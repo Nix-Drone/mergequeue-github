@@ -4629,6 +4629,7 @@ enchantment
 enchantments
 enchantress
 enchants
+euclidean
 encharge
 encharged
 encharging
@@ -10686,7 +10687,6 @@ eucirripedia
 euclases
 euclea
 euclid
-euclidean
 euclideanism
 euclidian
 eucnemidae
