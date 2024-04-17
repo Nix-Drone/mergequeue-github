@@ -4540,6 +4540,7 @@ farcie
 fitchew
 fixedly
 fitful
+formatter
 fitfully
 fitified
 fitness
@@ -8403,7 +8404,6 @@ formations
 folies
 flingdust
 formats
-formatter
 formatting
 formature
 flappering
