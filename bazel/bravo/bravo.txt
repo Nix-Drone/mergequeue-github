@@ -412,6 +412,7 @@ backoff
 backouts
 broggle
 backpack
+bugles
 backpacked
 burghermaster
 biplace
@@ -10123,7 +10124,6 @@ becco
 blackeye
 blackeyes
 blacken
-bugles
 blackener
 blackening
 baronetical
