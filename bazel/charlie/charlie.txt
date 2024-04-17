@@ -6448,7 +6448,6 @@ colonization
 cavitary
 cystophthisis
 cavitated
-cavitates
 cavitating
 cavitations
 cavity
@@ -7182,6 +7181,7 @@ centrifugally
 centrifugate
 centrifugation
 centrifuge
+cavitates
 centrifuged
 centrifugence
 centrifuges
