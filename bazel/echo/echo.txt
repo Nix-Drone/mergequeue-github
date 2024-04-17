@@ -5423,6 +5423,7 @@ endseal
 endshake
 endsheet
 everglade
+execrates
 endue
 exploration
 enduing
@@ -10308,7 +10309,6 @@ ethers
 ethic
 ethical
 ethicalism
-execrates
 emmarbled
 electrotelegraphic
 ethicality
