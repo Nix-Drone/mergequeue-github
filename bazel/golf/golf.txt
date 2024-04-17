@@ -1767,7 +1767,6 @@ gastroduodenotomy
 gastroelytrotomy
 gastroenteralgia
 gibson
-gastroenteric
 gastroenteritic
 galenism
 gastroenteritis
@@ -4705,6 +4704,7 @@ girgasite
 gyric
 gyring
 gymnastics
+gastroenteric
 gyrinid
 geoponical
 gyrinidae
