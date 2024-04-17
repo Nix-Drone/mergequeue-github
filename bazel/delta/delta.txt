@@ -692,7 +692,6 @@ deafen
 dampening
 dampens
 dampers
-damping
 dampish
 dampishly
 dampishness
@@ -18016,6 +18015,7 @@ dulcimore
 detailed
 dulcin
 dulcinea
+damping
 dulcineas
 dulcinist
 dulcite
