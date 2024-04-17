@@ -23,12 +23,13 @@ jobs:
         with:
           tools: gh
 
-      - name: download generator
-        run: |
-          gh release download --pattern='*.gz' --output mq.gz --clobber
-          tar -xf mq.gz
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: robinraju/release-downloader@v1.9
+        with:
+          repository: trunk-io/mergequeue-tool
+          latest: true
+          tarBall: true
+          preRelease: true
+          extract: true
 
       - name: Determine is_merge
         id: check_is_merge
