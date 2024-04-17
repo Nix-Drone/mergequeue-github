@@ -5094,7 +5094,6 @@ denaturizer
 denaturizing
 denazify
 denazifies
-demoting
 denazifying
 dendra
 dendral
@@ -8702,6 +8701,7 @@ donuts
 diathermy
 diathermic
 discifloral
+demoting
 diathermies
 dislimned
 diathermize
