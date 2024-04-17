@@ -2058,7 +2058,6 @@ banyoro
 banish
 banished
 banisher
-banishers
 banishing
 banishment
 banister
@@ -12796,6 +12795,7 @@ blipped
 boondoggles
 boondoggling
 boone
+banishers
 boonfellow
 boong
 boonk
