@@ -2943,7 +2943,6 @@ canvasers
 canvases
 canvasing
 canvaslike
-canvasman
 canvasser
 canvassers
 canvasses
@@ -25481,6 +25480,7 @@ coronobasilar
 coronofrontal
 coronograph
 coronographic
+canvasman
 coronoid
 coronopus
 coronule
