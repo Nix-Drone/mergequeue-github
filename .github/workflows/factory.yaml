@@ -21,6 +21,14 @@ jobs:
         with:
           ref: main
 
+      - name: Testing
+        uses: trunk-io/breakpoint@v1
+        with:
+          breakpoint-id: git
+          run: git weoigwio
+          trunk-token: ${{ secrets.TRUNK_TOKEN }}
+          org: nix-drone
+
       - name: choose secret
         id: choose-secret
         run: |
