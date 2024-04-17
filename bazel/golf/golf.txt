@@ -1234,7 +1234,6 @@ gantlets
 gantline
 genteeler
 gantlines
-gantlope
 gantlopes
 garial
 ganton
@@ -2628,6 +2627,7 @@ ghoulie
 geneal
 genealogic
 genealogical
+gantlope
 genealogists
 gradatim
 great
