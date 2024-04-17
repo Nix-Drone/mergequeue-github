@@ -17412,7 +17412,6 @@ dolce
 dinitrobenzene
 droppage
 dropped
-dropper
 diphenol
 dropperful
 droppers
@@ -18132,6 +18131,7 @@ dumpcart
 dioptoscopy
 dumpcarts
 dumped
+dropper
 dumper
 dumpers
 dumpy
