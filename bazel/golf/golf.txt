@@ -1253,7 +1253,6 @@ gaol
 gaoled
 guiltier
 gaoler
-gaolerness
 gaolers
 gaoling
 gaoloring
@@ -9206,6 +9205,7 @@ giltcup
 grith
 grithbreach
 griths
+gaolerness
 gritless
 gritrock
 grits
