@@ -15435,7 +15435,6 @@ anaglypton
 antiloemic
 antilog
 antilogarithmic
-antilogarithms
 antilogy
 antilogic
 atropinize
@@ -23875,6 +23874,7 @@ autocade
 autocades
 autocall
 autocamp
+antilogarithms
 autocamper
 autocamping
 autocar
