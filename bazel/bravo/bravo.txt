@@ -12232,6 +12232,7 @@ bolt
 boltage
 biasses
 boltcutter
+buckstay
 bolted
 bowenite
 bolter
@@ -16687,7 +16688,6 @@ buckshot
 borsch
 bourgeoise
 buckskinned
-buckstay
 buckstone
 bucktail
 bedfoot
