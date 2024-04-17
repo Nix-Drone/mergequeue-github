@@ -3236,7 +3236,6 @@ bedight
 basidigitale
 basidigitalia
 basidiocarp
-basidiogenetic
 basidiolichen
 basidiomycete
 baclava
@@ -7431,6 +7430,7 @@ bethump
 bethumped
 bethwack
 bethwine
+basidiogenetic
 bashilange
 busked
 betide
