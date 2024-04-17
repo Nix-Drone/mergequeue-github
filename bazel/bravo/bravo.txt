@@ -7323,7 +7323,6 @@ besugar
 besully
 beswarm
 beswarmed
-beswarming
 beswarms
 besweatered
 beswelter
@@ -14458,6 +14457,7 @@ besoothing
 branchier
 branchiest
 branchiferous
+beswarming
 branchiform
 branchihyal
 branchiness
