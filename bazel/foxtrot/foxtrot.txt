@@ -4885,6 +4885,7 @@ forehood
 flameout
 flameouts
 flameproof
+formulize
 flameproofer
 flintlocks
 flamer
@@ -8804,7 +8805,6 @@ forwoden
 femicide
 froughy
 forwore
-formulize
 fiendliness
 forwork
 frailer
