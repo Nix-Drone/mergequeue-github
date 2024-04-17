@@ -57,4 +57,4 @@ jobs:
         id: clean
         run: ./mq housekeeping
         env:
-          GH_TOKEN: ${{ secrets[steps.choose-secret.outputs.secret_name] }}
+          GH_TOKEN: ${{ secrets.ANDREW_CLASSIC }}
