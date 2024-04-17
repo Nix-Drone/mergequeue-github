@@ -1493,7 +1493,6 @@ faucre
 faujasite
 financier
 faulds
-faulted
 faulter
 frighten
 faultfind
@@ -6290,6 +6289,7 @@ fluidizer
 fingerflower
 fluidizes
 fluidmeter
+faulted
 fluidness
 fluidounce
 friskers
