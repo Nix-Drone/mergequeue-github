@@ -1570,7 +1570,6 @@ acclimation
 acclimatisable
 acclimatisation
 acclimatise
-autodetector
 acclimatised
 acclimatiser
 acclimatising
@@ -2662,6 +2661,7 @@ acouchi
 acoumeter
 allylene
 acoumetry
+autodetector
 acounter
 acouometer
 acouophonia
