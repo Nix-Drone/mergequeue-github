@@ -14159,7 +14159,6 @@ circles
 circlet
 circleting
 circlets
-circline
 circling
 cochleas
 circocele
@@ -21438,6 +21437,7 @@ concordatum
 concorder
 concordist
 concordity
+circline
 concordly
 colicky
 centumvir
