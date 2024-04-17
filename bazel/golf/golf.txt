@@ -5858,6 +5858,7 @@ genipapada
 gloss
 gabby
 glossa
+glossolabiolaryngeal
 glossal
 gudebrother
 glossalgy
@@ -5923,7 +5924,6 @@ glossographer
 getid
 glossohyal
 glossokinesthetic
-glossolabiolaryngeal
 glossolaly
 glossolalia
 glossolaryngeal
