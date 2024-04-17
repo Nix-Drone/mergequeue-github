@@ -11338,7 +11338,6 @@ chloromethane
 chlorometry
 chlorometric
 chalices
-coulombic
 chloromycetin
 chloronaphthalene
 chloronitrate
@@ -12754,6 +12753,7 @@ chump
 cougars
 chumpa
 chumpaka
+coulombic
 chumped
 chumpy
 chumpiness
