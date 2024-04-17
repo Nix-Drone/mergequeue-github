@@ -2225,6 +2225,7 @@ gconv
 gd
 gdinfo
 gds
+grayfish
 globously
 ge
 gorrel
@@ -7735,7 +7736,6 @@ gallanted
 graycoat
 grayed
 grayest
-grayfish
 grayfishes
 grayfly
 grated
