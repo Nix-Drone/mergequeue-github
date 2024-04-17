@@ -4864,7 +4864,6 @@ aerarium
 aerate
 aerated
 ablactating
-aerates
 aerating
 aeration
 aerations
@@ -22521,6 +22520,7 @@ athenee
 atheneum
 atheneums
 athenian
+aerates
 athenianly
 athenians
 athenor
