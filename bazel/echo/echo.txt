@@ -999,7 +999,6 @@ edam
 edana
 edaphology
 enerve
-euphemism
 edaphon
 edaphosauria
 edaphosaurid
@@ -5885,6 +5884,7 @@ enherit
 enheritance
 enhydra
 eyewear
+euphemism
 espalier
 enhydrinae
 evinces
