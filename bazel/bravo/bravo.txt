@@ -9070,7 +9070,6 @@ begrims
 biomedicine
 biomes
 biometeorology
-biometry
 biometric
 biometrical
 biometrically
@@ -16558,6 +16557,7 @@ buccellarius
 buccheros
 buccin
 buccina
+biometry
 buccinatory
 buccinoid
 buccinum
