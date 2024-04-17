@@ -2327,7 +2327,6 @@ electrocardiograph
 electrocardiographic
 electrocardiographically
 electrocatalysis
-ensuing
 electrocatalytic
 explorational
 electrocautery
@@ -9372,6 +9371,7 @@ errorless
 errors
 errs
 errsyn
+ensuing
 ers
 ersar
 ersatz
