@@ -4818,7 +4818,6 @@ gyrose
 gyrosyn
 gyrostabilized
 gyrostat
-gyrostatically
 gyrostats
 gastroplenic
 gyrotheca
@@ -7300,6 +7299,7 @@ gospeller
 gospelly
 gospellike
 garancine
+gyrostatically
 guze
 genys
 gospelmonger
