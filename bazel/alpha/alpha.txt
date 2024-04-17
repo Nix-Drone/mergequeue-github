@@ -5637,7 +5637,6 @@ afterhelp
 afterhend
 afterhope
 afterhours
-afteryears
 afterimage
 afterimages
 afterimpression
@@ -21005,6 +21004,7 @@ ascogonidia
 abstinency
 ascogonidium
 ascogonium
+afteryears
 asthorin
 ascolichen
 ascolichenes
