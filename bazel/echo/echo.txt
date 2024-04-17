@@ -1198,6 +1198,7 @@ educable
 educables
 educand
 educatability
+epicrystalline
 eident
 educatable
 educate
@@ -7699,7 +7700,6 @@ epicrates
 epicrises
 epicrisis
 eigenstate
-epicrystalline
 engagingly
 epics
 epictetian
