@@ -1163,7 +1163,6 @@ fenite
 fascia
 fogeater
 fasciae
-fascias
 fasciate
 featherbone
 fasciated
@@ -11080,6 +11079,7 @@ fumosity
 fumous
 fumuli
 fungated
+fascias
 fumulus
 fun
 filles
