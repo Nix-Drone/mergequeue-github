@@ -2119,6 +2119,7 @@ campshedding
 campsheeting
 campshot
 campsite
+compasser
 campsites
 campstool
 campstools
@@ -20473,7 +20474,6 @@ compass
 compassability
 compassable
 compassed
-compasser
 compasses
 compassing
 compassion
