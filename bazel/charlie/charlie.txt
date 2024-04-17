@@ -9883,6 +9883,7 @@ chemokinetic
 chemolysis
 chemolytic
 coasted
+colpostat
 chemolyze
 chemonite
 chemopallidectomy
@@ -19478,7 +19479,6 @@ colporteurs
 covido
 colposcope
 colposcopy
-colpostat
 colpotomy
 colpotomies
 colpus
