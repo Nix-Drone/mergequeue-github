@@ -10393,7 +10393,6 @@ chieftainry
 chieftainries
 chieftains
 chieftainship
-chieftainships
 chiefty
 chiel
 chield
@@ -22532,6 +22531,7 @@ connectibility
 connectible
 connectibly
 connecticut
+chieftainships
 connecting
 connection
 connectional
