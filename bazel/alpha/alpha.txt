@@ -5632,7 +5632,6 @@ afterhelp
 afterhend
 afterhope
 afterhours
-afterimage
 afterimages
 afterimpression
 afterings
@@ -20401,6 +20400,7 @@ arses
 arsesmart
 arsheen
 arshin
+afterimage
 arshine
 arshins
 arsyl
