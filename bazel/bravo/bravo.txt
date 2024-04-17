@@ -1864,7 +1864,6 @@ banchi
 banco
 bibliopegist
 bipunctate
-bancus
 band
 bandage
 bandaged
@@ -1966,6 +1965,7 @@ bonfire
 bandoleer
 burlesquely
 bumf
+bancus
 bandoleers
 bandolerismo
 bastardising
