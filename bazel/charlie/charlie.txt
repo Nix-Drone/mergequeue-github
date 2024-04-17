@@ -1556,7 +1556,6 @@ calmnesses
 calms
 calocarpum
 calochortaceae
-chronologists
 calochortus
 calodaemon
 calodemon
@@ -4024,6 +4023,7 @@ cardiod
 cardiodilator
 cardiodynia
 cardiodysneuria
+chronologists
 cardiogenesis
 cardiogenic
 cardiogram
