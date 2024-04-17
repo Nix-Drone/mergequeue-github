@@ -4363,6 +4363,7 @@ fishgrass
 fishhood
 fishhooks
 faqir
+folkmotes
 fishyard
 farand
 fishyback
@@ -6913,7 +6914,6 @@ foreignization
 folkmoots
 fauchard
 folkmoter
-folkmotes
 formuliser
 folkmots
 foamily
