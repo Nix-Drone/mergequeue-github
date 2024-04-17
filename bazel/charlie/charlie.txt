@@ -21987,6 +21987,7 @@ confirms
 confiscable
 confiscatable
 confiscate
+crois
 confiscated
 confiscates
 confiscation
@@ -29627,7 +29628,6 @@ croyden
 croydon
 croiik
 croyl
-crois
 croisad
 converses
 croisade
