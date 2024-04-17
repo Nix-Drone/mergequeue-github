@@ -3411,7 +3411,6 @@ captain
 captaincy
 captaincies
 captained
-captaining
 captainly
 captainry
 cesure
@@ -6877,6 +6876,7 @@ clocklike
 celtuce
 cornucopian
 celure
+captaining
 cembali
 cembalist
 cembalo
