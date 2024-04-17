@@ -2504,7 +2504,6 @@ escalloping
 electromagnets
 electromassage
 electromechanical
-electromechanics
 electromedical
 esquireship
 electromer
@@ -11227,6 +11226,7 @@ euthenics
 effetman
 emeer
 earlywood
+electromechanics
 euthenist
 erogate
 eutherian
