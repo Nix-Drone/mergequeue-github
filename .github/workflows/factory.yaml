@@ -38,20 +38,22 @@ jobs:
         with:
           tools: gh jq
 
-      - name: download mq
-        run: |
-          gh release download --pattern='*.gz' --output mq.gz --clobber
-          tar -xf mq.gz
-        env:
-          GH_TOKEN: ${{ secrets[steps.choose-secret.outputs.secret_name] }}
+      - uses: robinraju/release-downloader@v1.9
+        with:
+          repository: trunk-io/mergequeue-tool
+          latest: true
+          tarBall: true
+          preRelease: true
+          extract: true
 
       - name: run mq
         id: edits
-        run: ./mq
+        run: ./mq generate
         env:
           GH_TOKEN: ${{ secrets[steps.choose-secret.outputs.secret_name] }}
 
       - name: run mq
+        if: always()
         id: clean
         run: ./mq housekeeping
         env:
