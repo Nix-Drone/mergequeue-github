@@ -5,14 +5,14 @@ name = "trunk bot"
 email = "bot@trunk.io"
 
 [test]
-flake_rate = 0.40
+flake_rate = 0.20
 # how long test should spin for (can be described as 10s, 7m, 1hr)
-sleep_for = "25m"
+sleep_for = "35m"
 
 [pullrequest]
 labels = "bot-pr"       # label to apply to pull request on creation (comma separated list)
 comment = ""
-requests_per_hour = 300 # target number of pull requests per hour
+requests_per_hour = 120 # target number of pull requests per hour
 
 # the max number of deps in this repo. setting to 3 for example will cause
 # files in alpha, bravo, charlie deps to be changed
@@ -22,7 +22,7 @@ max_deps = 7
 max_impacted_deps = 2
 
 # rate at which PRs should simulate a logical merge conflict and need to be rejected
-logical_conflict_every = 0
+logical_conflict_every = 1000
 logical_conflict_file = "logical-conflict.txt"
 
 close_stale_after = "24 hours"
