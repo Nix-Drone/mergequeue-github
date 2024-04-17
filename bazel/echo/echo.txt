@@ -1145,7 +1145,6 @@ edit
 electromechanically
 editable
 editchar
-edited
 edith
 editing
 epacts
@@ -9388,6 +9387,7 @@ erse
 erses
 ersh
 erst
+edited
 erstwhiles
 ertebolle
 erth
