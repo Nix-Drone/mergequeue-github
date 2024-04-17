@@ -3913,6 +3913,7 @@ gibstaff
 gibus
 gibuses
 giddap
+guideless
 giddy
 goff
 giddybrain
@@ -10139,7 +10140,6 @@ guidebookish
 genres
 guidebooks
 guided
-guideless
 guiser
 giallolino
 guidelines
