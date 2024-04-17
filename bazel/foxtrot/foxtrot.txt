@@ -206,6 +206,7 @@ foreign
 factoryship
 factorist
 factorization
+fuzzed
 fab
 factorizations
 fluviose
@@ -11737,7 +11738,6 @@ ferfathmur
 fuzils
 fuzz
 fuzzball
-fuzzed
 fuzzes
 fautorship
 fuzzier
