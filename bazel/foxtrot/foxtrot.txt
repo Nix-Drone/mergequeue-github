@@ -8172,6 +8172,7 @@ friezing
 formagenic
 flatbottom
 forfare
+fwd
 forfars
 forfault
 forfaulture
@@ -11750,6 +11751,5 @@ forestem
 foo
 fv
 fw
-fwd
 fwelling
 fz
