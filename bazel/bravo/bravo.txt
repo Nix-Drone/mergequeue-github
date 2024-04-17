@@ -12570,7 +12570,6 @@ bonspell
 bonspells
 brike
 bonspiel
-bonspiels
 bontebok
 bonteboks
 bontebuck
@@ -13037,6 +13036,7 @@ borid
 boride
 bregmatic
 baselines
+bonspiels
 borine
 boringly
 boringness
