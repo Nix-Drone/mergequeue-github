@@ -11967,7 +11967,6 @@ choriocele
 chorioepithelioma
 chorioepitheliomas
 covens
-caller
 chorioepitheliomata
 chorioid
 chorioiditis
@@ -27456,6 +27455,7 @@ coverlid
 coverlids
 covers
 chymosins
+caller
 coversed
 coverside
 coversine
