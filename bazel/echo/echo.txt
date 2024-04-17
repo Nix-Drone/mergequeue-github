@@ -1,5 +1,6 @@
 emotes
 e
+epigramme
 eschoppe
 ea
 eably
@@ -7896,7 +7897,6 @@ epigrammatize
 epigrammatized
 epigrammatizer
 epigrammatizing
-epigramme
 epigrams
 epigraph
 epigrapher
