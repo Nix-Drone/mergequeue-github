@@ -3926,6 +3926,7 @@ eminences
 extraboldface
 eminencies
 eminent
+ensporia
 eminently
 expressionless
 ebullition
@@ -6481,7 +6482,6 @@ ensphere
 ensphered
 ensphering
 enspirit
-ensporia
 enstar
 enstatite
 eumerogenesis
