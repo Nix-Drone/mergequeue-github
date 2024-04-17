@@ -5425,6 +5425,7 @@ dentolabial
 dentolingual
 dentololabial
 dentonasal
+dielytra
 dentosurgical
 disrate
 dents
@@ -9203,7 +9204,6 @@ discolour
 dogmatizing
 disponing
 dyeline
-dielytra
 diemaker
 diemakers
 dilatorily
