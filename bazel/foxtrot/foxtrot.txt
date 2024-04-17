@@ -6830,7 +6830,6 @@ folderols
 folders
 foldy
 folding
-foldless
 foraminiferan
 fikery
 foldout
@@ -11379,6 +11378,7 @@ fictional
 furfuration
 furfures
 furfuryl
+foldless
 fished
 furfurine
 furfuroid
