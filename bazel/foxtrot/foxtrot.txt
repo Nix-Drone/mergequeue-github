@@ -8648,6 +8648,7 @@ fields
 forswears
 fort
 fortake
+fertilizations
 fenceful
 flense
 fortaxed
@@ -10372,7 +10373,6 @@ fronde
 frondent
 foredoing
 factor
-fertilizations
 frondesced
 fluoridising
 frondescent
