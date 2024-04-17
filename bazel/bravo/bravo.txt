@@ -3759,7 +3759,6 @@ batterdock
 battered
 bootstrap
 batterer
-batterfang
 bkcy
 batterie
 batteried
@@ -7607,6 +7606,7 @@ bewary
 bewaring
 bewash
 bewaste
+batterfang
 beweary
 bewearies
 bewearying
