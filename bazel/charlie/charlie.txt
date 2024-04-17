@@ -3658,7 +3658,6 @@ carbazole
 carbeen
 carbene
 carberry
-carbethoxyl
 carbide
 carbides
 carbyl
@@ -11109,6 +11108,7 @@ chivalric
 chivalries
 cosovereign
 caprificator
+carbethoxyl
 chivalrous
 chivalrously
 chivaree
