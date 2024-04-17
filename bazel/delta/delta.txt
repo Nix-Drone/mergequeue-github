@@ -12799,6 +12799,7 @@ disobediently
 disobey
 disobeyal
 disobeyed
+drawspan
 disobeyers
 disobeying
 disobligation
@@ -16872,7 +16873,6 @@ drawpoint
 draws
 drawshave
 drawsheet
-drawspan
 drawspring
 drawstop
 dispersible
