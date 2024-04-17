@@ -8763,7 +8763,6 @@ depeter
 diazoamine
 diazoaminobenzene
 diazoanhydride
-diazoate
 diazobenzene
 diazohydroxide
 diazoic
@@ -14815,6 +14814,7 @@ dodecaphonic
 dodecaphonically
 dodecaphonism
 dermatocellulitis
+diazoate
 dodecarch
 dodecasemic
 dodecasyllabic
