@@ -1660,6 +1660,7 @@ fcomp
 fconv
 farcin
 fcp
+familiar
 friars
 four
 fdnames
@@ -7655,7 +7656,6 @@ flashlights
 flabelliform
 faluns
 founderous
-familiar
 forefield
 frigidities
 foreorlop
