@@ -1769,7 +1769,6 @@ balsams
 balsamweed
 boozing
 balsas
-balsawood
 balt
 baltei
 baltetei
@@ -4822,6 +4821,7 @@ bedrift
 bentiness
 bedright
 bedrip
+balsawood
 bedrite
 bedrivel
 bedriveling
