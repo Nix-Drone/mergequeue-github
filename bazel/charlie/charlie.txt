@@ -2428,7 +2428,6 @@ chemist
 camelion
 candler
 candlerent
-candlers
 candles
 candleshine
 candleshrift
@@ -14235,6 +14234,7 @@ circumambagious
 circumambience
 circumambiency
 circumambient
+candlers
 circumambiently
 circumambulate
 circumambulated
