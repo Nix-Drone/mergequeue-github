@@ -8891,7 +8891,6 @@ amniac
 allophanamid
 allophanate
 allophanates
-allophane
 azurite
 aspidosperma
 allophanic
@@ -19168,6 +19167,7 @@ archt
 archthief
 archtyrant
 archtraitor
+allophane
 archtreasurer
 archtreasurership
 archturncoat
