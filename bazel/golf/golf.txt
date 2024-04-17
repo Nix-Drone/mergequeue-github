@@ -1156,7 +1156,6 @@ ganglioplexus
 gentile
 gangman
 gangmaster
-gangplank
 gangplows
 gangrel
 glycerine
@@ -8221,6 +8220,7 @@ grapier
 grapiest
 glumpish
 graping
+gangplank
 graplin
 grapline
 grappa
