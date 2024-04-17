@@ -3992,7 +3992,6 @@ adjournal
 adjourned
 adjourning
 adjournment
-adjournments
 adjourns
 adjoust
 adjt
@@ -12321,6 +12320,7 @@ aortolith
 andriana
 andrias
 amphigouris
+adjournments
 andric
 andries
 andrite
