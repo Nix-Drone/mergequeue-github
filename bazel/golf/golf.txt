@@ -1517,7 +1517,6 @@ garrisons
 garrnishable
 garron
 garroo
-garrot
 garrote
 garroted
 garroter
@@ -1982,6 +1981,7 @@ gaucie
 gynopara
 gaudeamus
 gaudeamuses
+garrot
 gaudery
 gauderies
 grails
