@@ -578,6 +578,7 @@ galleypot
 galleys
 gamodemes
 galleyworm
+geneat
 galleon
 galleons
 galler
@@ -2636,7 +2637,6 @@ great
 guttifer
 geochronometry
 genear
-geneat
 genecology
 genecologic
 gradienter
