@@ -6491,7 +6491,6 @@ flushgate
 flushy
 flushing
 flushingly
-flushness
 flusk
 flusker
 floodtime
@@ -7694,6 +7693,7 @@ forehanded
 forehandedly
 fabulousness
 forehandedness
+flushness
 freeman
 forehatch
 forehatchway
