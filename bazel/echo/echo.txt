@@ -262,7 +262,6 @@ easternmost
 easters
 eastertide
 estivates
-easting
 eastings
 eastlake
 eyebree
@@ -8709,6 +8708,7 @@ equipartition
 equipedal
 equipede
 equipendent
+easting
 equiperiodic
 expander
 equipluve
