@@ -71,7 +71,6 @@ dacryocystoptosis
 dacryocystosyringotomy
 dacryocystotome
 dacryocystotomy
-dacryohelcosis
 dacryohemorrhea
 dacryolin
 dacryolith
@@ -4178,6 +4177,7 @@ delinquencies
 delinquent
 delinquently
 delint
+dacryohelcosis
 delinter
 deliquate
 deliquesce
