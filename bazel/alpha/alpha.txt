@@ -11316,7 +11316,6 @@ ampullula
 ampullulae
 actualizing
 amputate
-amputated
 amputates
 amputating
 amputation
@@ -13563,6 +13562,7 @@ annonaceae
 annonaceous
 annot
 annotater
+amputated
 annotates
 annotating
 annotation
