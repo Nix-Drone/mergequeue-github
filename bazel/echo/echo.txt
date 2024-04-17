@@ -10003,7 +10003,6 @@ ekes
 eviration
 esthesiology
 esthesiometer
-esthesiometry
 esthesiometric
 esthesiophysiology
 esthesis
@@ -13295,6 +13294,7 @@ exposes
 exposing
 exposit
 expositing
+esthesiometry
 exsanguinity
 exposition
 expositional
