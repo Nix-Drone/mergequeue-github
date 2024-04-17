@@ -3582,7 +3582,6 @@ carapa
 couloirs
 carapaces
 carapacho
-carapacial
 carapacic
 carapax
 carapaxes
@@ -25975,6 +25974,7 @@ coshers
 coshes
 coshing
 cosy
+carapacial
 cosie
 cosier
 cosies
