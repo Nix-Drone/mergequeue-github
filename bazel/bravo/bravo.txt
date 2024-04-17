@@ -1220,7 +1220,6 @@ bakerlike
 bakers
 beslaver
 bakersfield
-bakership
 bakes
 bakeshop
 bewrapping
@@ -10769,6 +10768,7 @@ bradford
 blepharocarcinoma
 bounden
 batman
+bakership
 blepharocera
 blepharoceridae
 blepharochromidrosis
