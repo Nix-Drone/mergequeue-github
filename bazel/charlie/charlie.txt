@@ -19671,7 +19671,6 @@ combinatory
 combinatorial
 combinatorially
 combinatoric
-combinatorics
 combinators
 combind
 combined
@@ -29251,6 +29250,7 @@ cryptogramma
 cryptogrammatic
 cryptogrammatical
 cryptogrammatist
+combinatorics
 cryptogrammic
 craggedly
 cryptograms
