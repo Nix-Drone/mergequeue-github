@@ -1003,7 +1003,6 @@ calcannei
 calcarated
 calcarea
 calcareoargillaceous
-calcareobituminous
 calcareosiliceous
 calcareous
 calcareously
@@ -18305,6 +18304,7 @@ chirimoya
 coelicolist
 cognition
 cognitional
+calcareobituminous
 cognitive
 cognitively
 cognitives
