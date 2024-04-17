@@ -11084,7 +11084,6 @@ daikers
 disarmingly
 disarms
 disarray
-disarrayed
 disarrays
 dodgasted
 disarrange
@@ -18370,6 +18369,7 @@ dup
 dupable
 despairingly
 dupatta
+disarrayed
 dupe
 dupedom
 dunces
