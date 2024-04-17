@@ -1949,7 +1949,6 @@ gathered
 gilgai
 gatherers
 graplins
-gyrostabilizer
 greenfishes
 gatherings
 gatherum
@@ -4431,6 +4430,7 @@ gingelly
 gastrologist
 goblets
 ginger
+gyrostabilizer
 gingerade
 gravidity
 gingerberry
