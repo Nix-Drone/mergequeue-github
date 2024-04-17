@@ -3593,7 +3593,6 @@ gesturist
 geswarp
 geta
 gallivorous
-getable
 getae
 getah
 glycolide
@@ -4604,6 +4603,7 @@ gash
 gypsyism
 gondang
 gypsyisms
+getable
 glycin
 gypsine
 gipsiologist
