@@ -1999,7 +1999,6 @@ bandstop
 bandstring
 bandura
 bandurria
-bandurrias
 bandusia
 bandusian
 bandwagon
@@ -12279,6 +12278,7 @@ bowdrill
 bombards
 bombasine
 bombast
+bandurrias
 bombaster
 bombastic
 biophor
