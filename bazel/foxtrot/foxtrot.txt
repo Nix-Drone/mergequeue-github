@@ -7530,6 +7530,7 @@ flaveria
 forebrace
 forebreast
 foreburton
+fuzzing
 forebush
 footsie
 forecabin
@@ -11747,7 +11748,6 @@ fuzziness
 flacianism
 forestem
 foo
-fuzzing
 fv
 fw
 fwd
