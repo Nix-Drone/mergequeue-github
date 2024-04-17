@@ -70,7 +70,6 @@ gigantomachia
 gablatores
 gableboard
 gabled
-gablelike
 gabler
 gomphosis
 gables
@@ -4615,6 +4614,7 @@ gipsyhead
 gypsyhead
 gipsyhood
 gradate
+gablelike
 gypsyhood
 gypsying
 glycogenous
