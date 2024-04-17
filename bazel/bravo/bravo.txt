@@ -6528,7 +6528,6 @@ benzoxycamphor
 benzoxyphenanthrene
 benzpinacone
 benzpyrene
-benzthiophen
 benztrioxazine
 beothuk
 beothukan
@@ -17181,6 +17180,7 @@ bullition
 bullneck
 bullnecked
 buckshots
+benzthiophen
 bridleman
 bullnecks
 bullnose
