@@ -10925,7 +10925,6 @@ blintzes
 blip
 bluming
 blypes
-blipped
 blippers
 barkeep
 blips
@@ -12794,6 +12793,7 @@ boondoggle
 boondoggler
 boondogglers
 bradykinesia
+blipped
 boondoggles
 boondoggling
 boone
