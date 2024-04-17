@@ -3,7 +3,7 @@ name: PR Factory
 on:
   workflow_dispatch: {}
   schedule:
-    - cron: "0/10 * * * *"
+    - cron: "0 * * * *"
 
 jobs:
   create-pr:
@@ -20,17 +20,17 @@ jobs:
         run: |
           case $(( RANDOM % 3 )) in
           0)
-            echo "secret_name=ELI_PAT" >> $GITHUB_OUTPUT
-            echo "Impersonating Eli"
+            echo "secret_name=ANDREW_PAT" >> $GITHUB_OUTPUT
+            echo "Impersonating Andrew"
             ;;
           1)
-            echo "secret_name=MAT_PAT" >> $GITHUB_OUTPUT
-            echo "Impersonating Matt"
+            echo "secret_name=ANDREW_PAT" >> $GITHUB_OUTPUT
+            echo "Impersonating Andrew"
             ;;
           2)
-            echo "secret_name=JOSH_PAT" >> $GITHUB_OUTPUT
-            echo "Impersonating Josh"
-            ;;            
+            echo "secret_name=ANDREW_PAT" >> $GITHUB_OUTPUT
+            echo "Impersonating Andrew"
+            ;;         
           esac
 
       - name: trunk install
