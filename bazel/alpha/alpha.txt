@@ -1437,7 +1437,6 @@ actinotherapeutic
 accentuated
 accension
 accentuates
-accentuator
 accentus
 accept
 acceptability
@@ -13309,6 +13308,7 @@ anisoleucocytosis
 agglutinability
 anisomeles
 anisomelia
+accentuator
 anisomelus
 anisomeric
 anisomerous
