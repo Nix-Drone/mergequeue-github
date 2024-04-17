@@ -16690,7 +16690,6 @@ clothing
 clothings
 clothlike
 clothmaker
-clothmaking
 catharpin
 cloths
 clothworker
@@ -24607,6 +24606,7 @@ coppas
 copped
 concordial
 copper
+clothmaking
 copperah
 copperahs
 counterindoctrinate
