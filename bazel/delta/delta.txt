@@ -1765,7 +1765,6 @@ dismayingness
 debateful
 debatefully
 discovered
-debater
 debaters
 debates
 debating
@@ -5801,6 +5800,7 @@ depolarize
 depolarizers
 droves
 depolarizes
+debater
 depolymerization
 depolymerize
 dipneedle
