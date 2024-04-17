@@ -16682,7 +16682,6 @@ cosuitor
 clothesmen
 clothespin
 clothespins
-clothespress
 clothespresses
 clothy
 clothiers
@@ -27177,6 +27176,7 @@ countess
 countfish
 counties
 counting
+clothespress
 countinghouse
 countys
 countywide
