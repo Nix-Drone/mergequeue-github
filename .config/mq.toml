@@ -1,8 +1,8 @@
 mode = "singlequeue"
 
 [git]
-name = "trunk bot"
-email = "bot@trunk.io"
+name = "Andrew Faust"
+email = "andrew@nixdr.one"
 
 [test]
 flake_rate = 0.20
