@@ -11,7 +11,7 @@ sleep_for = "25"
 
 [pullrequest]
 labels = "bot-pr"       # label to apply to pull request on creation (comma separated list)
-comment = "/trunk merge"
+comment = ""
 requests_per_hour = 0 # target number of pull requests per hour
 requests_per_run = 50
 
