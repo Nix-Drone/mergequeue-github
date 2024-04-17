@@ -2287,7 +2287,6 @@ gedanite
 gedd
 gedder
 gederathite
-gedrite
 geds
 gaseliers
 gamesters
@@ -5396,6 +5395,7 @@ glenohumeral
 glenoid
 glenoidal
 glent
+gedrite
 glenwood
 glew
 giddily

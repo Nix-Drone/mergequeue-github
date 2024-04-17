@@ -1579,7 +1579,6 @@ ballfield
 ballflower
 ballgame
 ballgames
-ballgown
 ballgowns
 ballhausplatz
 ballhawk
@@ -16135,6 +16134,7 @@ broomwort
 broos
 broose
 broquery
+ballgown
 bros
 brose
 broses
