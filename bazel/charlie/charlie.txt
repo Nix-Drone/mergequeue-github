@@ -4195,6 +4195,7 @@ carfare
 carfares
 carfax
 carfloat
+codebreak
 coater
 comprizable
 carfour
@@ -17729,7 +17730,6 @@ coddlers
 coddles
 code
 codebooks
-codebreak
 codebreaker
 codebtor
 codebtors
