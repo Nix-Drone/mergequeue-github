@@ -5556,7 +5556,6 @@ deoxygenation
 delphinium
 deoxygenization
 deoxygenized
-deoxyribonuclease
 deoxyribonucleoprotein
 deoxyribonucleotide
 deozonization
@@ -8662,6 +8661,7 @@ diaspore
 delibate
 diaspores
 dyassic
+deoxyribonuclease
 diastalses
 diastalsis
 diastases
