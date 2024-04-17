@@ -5692,7 +5692,6 @@ aftersong
 aftersound
 afterspeech
 afterspring
-appetisse
 afterstorm
 afterstretch
 afterstudy
@@ -13523,6 +13522,7 @@ annexion
 annexionist
 atrophic
 annexitis
+appetisse
 annexive
 annexment
 annexure
