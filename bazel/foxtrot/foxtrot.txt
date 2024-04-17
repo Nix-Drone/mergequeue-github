@@ -623,7 +623,6 @@ falsifiable
 falsificate
 falsification
 falsifications
-falsificator
 falsified
 finickier
 fiard
@@ -8933,6 +8932,7 @@ foulder
 flourlike
 fouled
 fouler
+falsificator
 falsifies
 foulest
 foulings
