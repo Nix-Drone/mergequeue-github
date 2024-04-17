@@ -3281,7 +3281,6 @@ deferrals
 deferred
 deferrer
 deferrers
-deferrization
 deferrize
 deferrized
 deferrizing
@@ -7450,6 +7449,7 @@ deuterofibrinose
 deuterogamy
 dreegh
 deuterogelatose
+deferrization
 deuterogenesis
 deuterogenic
 dextrogyratory
