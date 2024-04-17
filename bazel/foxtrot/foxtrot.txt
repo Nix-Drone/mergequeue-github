@@ -8010,7 +8010,6 @@ forest
 forestaff
 forestaffs
 forestage
-front
 forestay
 forestair
 fireplough
@@ -9660,6 +9659,7 @@ freedoot
 fizzed
 friableness
 fart
+front
 freedwoman
 floriferous
 freedwomen
