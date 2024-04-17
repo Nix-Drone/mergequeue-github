@@ -5699,7 +5699,6 @@ aftersong
 aftersound
 afterspeech
 afterspring
-afterstate
 appetisse
 afterstorm
 afterstretch
@@ -21677,6 +21676,7 @@ assertor
 assertory
 assertorially
 asseveratingly
+afterstate
 assertoric
 assertorical
 assertorically
