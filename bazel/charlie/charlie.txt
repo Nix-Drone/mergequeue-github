@@ -11569,7 +11569,6 @@ cholecystojejunostomy
 cholecystokinin
 cholecystolithiasis
 cholecystolithotripsy
-cholecystonephrostomy
 cholecystopexy
 cholecystorrhaphy
 cholecystostomy
@@ -25429,6 +25428,7 @@ corollaries
 corollate
 corollated
 corollet
+cholecystonephrostomy
 corolliferous
 corollifloral
 corolliform
