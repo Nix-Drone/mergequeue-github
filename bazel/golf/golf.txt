@@ -7910,7 +7910,6 @@ grandees
 grandeeship
 galliambic
 grandesque
-grandest
 grandeur
 grandeurs
 gliriform
@@ -9106,6 +9105,7 @@ griotte
 grip
 genie
 gripeful
+grandest
 gnu
 gripey
 gripers
