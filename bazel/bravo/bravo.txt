@@ -9243,7 +9243,6 @@ biotypology
 biotite
 biotites
 biotome
-biotomy
 buoys
 bogtrot
 brothered
@@ -11654,6 +11653,7 @@ beared
 bobachee
 bromiodide
 bobadil
+biotomy
 bobadilian
 broadbill
 bobance
