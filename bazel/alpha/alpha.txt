@@ -8575,7 +8575,6 @@ allegiare
 allegoric
 allegorical
 allegorically
-allegoricalness
 allegories
 allegorisation
 allegorise
@@ -18197,6 +18196,7 @@ aerogenic
 aquaplane
 aquaplaned
 aquaplaner
+allegoricalness
 aquaplanes
 aquaplaning
 aquapuncture
