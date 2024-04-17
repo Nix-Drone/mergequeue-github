@@ -3389,6 +3389,7 @@ doles
 defis
 defix
 deflagrable
+desulfuriser
 deflagrated
 deflagrates
 deflagrating
@@ -7098,7 +7099,6 @@ desulfuring
 desulfurisation
 desulfurise
 desulfurised
-desulfuriser
 desulfurising
 desulfurization
 dinotheriidae
