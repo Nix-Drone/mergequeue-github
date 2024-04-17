@@ -635,7 +635,6 @@ bacterioblast
 bacteriochlorophyll
 bacteriocin
 bishopbird
-bacteriocyte
 bacteriodiagnosis
 bacteriofluorescin
 bromates
@@ -17920,6 +17919,7 @@ bushbody
 bushbodies
 bushbuck
 boatbills
+bacteriocyte
 bushbucks
 bearbush
 bacilluria
