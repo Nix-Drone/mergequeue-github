@@ -10800,7 +10800,6 @@ fabianism
 ft
 forinsec
 fth
-fthm
 forwardation
 ftncmd
 featherlet
@@ -11218,6 +11217,7 @@ funge
 fungi
 fungia
 fungian
+fthm
 fungibility
 fungible
 feloniously
