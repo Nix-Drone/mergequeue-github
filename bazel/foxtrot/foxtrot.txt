@@ -509,7 +509,6 @@ falconet
 fribbled
 farragoes
 falconiform
-falconiformes
 falconinae
 falconnoid
 falconoid
@@ -1761,6 +1760,7 @@ featherbird
 featherbrained
 feathercut
 feathered
+falconiformes
 fibropsammoma
 featheredge
 featheredged
