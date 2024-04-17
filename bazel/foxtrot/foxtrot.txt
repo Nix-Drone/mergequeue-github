@@ -6481,7 +6481,6 @@ flush
 flushboard
 flushed
 flusher
-flusherman
 flushers
 flushest
 face
@@ -7658,6 +7657,7 @@ figlike
 foreflank
 fistulized
 foreflipper
+flusherman
 forefoot
 fangot
 forefronts
