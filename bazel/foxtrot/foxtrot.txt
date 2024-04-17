@@ -5054,7 +5054,6 @@ fructure
 foodservices
 flashtube
 flashtubes
-fanterie
 flask
 ferricyanhydric
 flasker
@@ -5157,6 +5156,7 @@ ferie
 flaunt
 flaunter
 funest
+fanterie
 featurally
 flapperish
 flaunters
