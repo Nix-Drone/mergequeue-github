@@ -6436,7 +6436,6 @@ goatskin
 goatskins
 gellant
 goatstone
-granulitic
 goatsucker
 gaum
 goatweed
@@ -9562,6 +9561,7 @@ grovet
 gymnocalycium
 growan
 gordiacean
+granulitic
 growed
 grower
 generatively
