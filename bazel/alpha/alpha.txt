@@ -2324,7 +2324,6 @@ achromatism
 achromatizable
 achromatization
 achromatize
-achromatized
 achromatizing
 achromatocyte
 achromatolysis
@@ -16498,6 +16497,7 @@ angleworm
 antrorse
 antrorsely
 antroscope
+achromatized
 antrostomus
 antrotympanic
 antrotympanitis
