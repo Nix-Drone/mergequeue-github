@@ -9601,7 +9601,6 @@ barbal
 biscayen
 biscayner
 biscanism
-backstrip
 bischofite
 biscotin
 biscuit
@@ -15210,6 +15209,7 @@ bricktimber
 bricktop
 brickwall
 brickwork
+backstrip
 brid
 bucketing
 bastinade
