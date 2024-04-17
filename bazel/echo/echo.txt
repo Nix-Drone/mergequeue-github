@@ -4764,7 +4764,6 @@ enclitical
 encycl
 enclitics
 encloak
-enclog
 eclipsis
 encloister
 enclose
@@ -10895,6 +10894,7 @@ eumeristic
 expediences
 eumeromorphic
 eumycete
+enclog
 eumycetes
 eumitotic
 eumoirous
