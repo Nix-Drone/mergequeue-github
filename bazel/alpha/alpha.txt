@@ -9242,6 +9242,7 @@ alopecurus
 alopekai
 alopeke
 alophas
+aliases
 alopias
 alopiidae
 alorcinic
@@ -21797,7 +21798,6 @@ alternanthera
 assyriology
 assyriological
 assyriologist
-aliases
 assyriologue
 astrobiology
 assyroid
