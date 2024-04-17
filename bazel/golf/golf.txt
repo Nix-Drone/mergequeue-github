@@ -1514,7 +1514,6 @@ garrisons
 garrnishable
 garron
 garroo
-garrote
 garroted
 garroter
 garroters
@@ -3684,6 +3683,7 @@ granza
 ghastly
 ghastlier
 gilliflirt
+garrote
 ghastliest
 groups
 geonyctitropic
