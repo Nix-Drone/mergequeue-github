@@ -290,7 +290,6 @@ backarrows
 backout
 backband
 backbar
-briskness
 backbearing
 biotechnologies
 backbencher
@@ -6788,6 +6787,7 @@ berloque
 berm
 berme
 bermensch
+briskness
 bermes
 bacchiuchii
 bermuda
