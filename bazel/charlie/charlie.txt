@@ -153,7 +153,6 @@ cablish
 campmaster
 cabmen
 cabob
-cabobs
 caboceer
 caboche
 caboched
@@ -31670,6 +31669,7 @@ cusk
 cusks
 cusp
 collodium
+cabobs
 cuspal
 cusparia
 cusparidine
