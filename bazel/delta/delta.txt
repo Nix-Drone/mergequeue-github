@@ -5861,7 +5861,6 @@ depositors
 deposits
 depositum
 daimon
-depositure
 doumaist
 deposure
 depot
@@ -12129,6 +12128,7 @@ disfigured
 defencelessness
 disfigurer
 disfigures
+depositure
 disambiguates
 disfiguring
 designed

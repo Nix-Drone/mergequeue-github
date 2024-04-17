@@ -12972,6 +12972,7 @@ borderer
 borderers
 bordering
 borderings
+borders
 borderland
 borderlander
 borderlands
@@ -12979,7 +12980,6 @@ borderless
 borderlight
 borderline
 bordermark
-borders
 blastoporphyritic
 bordman
 bordrag
