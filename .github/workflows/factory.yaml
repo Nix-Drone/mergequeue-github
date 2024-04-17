@@ -46,6 +46,12 @@ jobs:
           preRelease: true
           extract: true
 
+      - name: run gh auth status
+        id: edits2
+        run: gh auth status
+        env:
+          GH_TOKEN: ${{ secrets.ANDREW_CLASSIC }}
+
       - name: run mq
         id: edits
         run: ./mq generate
