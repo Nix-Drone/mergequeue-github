@@ -2474,7 +2474,6 @@ decl
 declaim
 dichorisandra
 declaimant
-declaimed
 declaimer
 declaimers
 declaims
@@ -15228,6 +15227,7 @@ diluviums
 dolmas
 dolmen
 dolmenic
+declaimed
 dolomedes
 dolomite
 dolomites
