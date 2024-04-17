@@ -1703,7 +1703,6 @@ deathlikeness
 deathliness
 deathrate
 deathrates
-deathroot
 deaths
 deathsman
 deathsmen
@@ -5503,6 +5502,7 @@ deodorise
 deodorised
 deodoriser
 deodorising
+deathroot
 deodorization
 deodorize
 deodorized
