@@ -2794,7 +2794,6 @@ cantatas
 corolline
 cantate
 cantation
-cantator
 cantatory
 cantatrice
 cantatrices
@@ -9855,6 +9854,7 @@ chemism
 choosy
 chemisorb
 chemisorption
+cantator
 counteraverment
 coprophilic
 chemistry
