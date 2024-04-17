@@ -1130,7 +1130,6 @@ ganglioid
 ganglioma
 gangliomas
 gangliomata
-ganglionary
 ganglionate
 grayness
 ganglionated
@@ -7232,6 +7231,7 @@ greenthumbed
 gorgonlike
 gorgons
 groggily
+ganglionary
 gorgonzola
 gorgosaurus
 gorhens
