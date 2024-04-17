@@ -3405,7 +3405,6 @@ embattlement
 embattles
 embden
 embed
-embedder
 exsibilate
 embedment
 embelic
@@ -10819,6 +10818,7 @@ euhemerising
 euhemerism
 euhemerist
 euhemeristically
+embedder
 euhemerize
 euhemerized
 euhemerizing
