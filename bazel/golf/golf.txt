@@ -2316,7 +2316,6 @@ guaycuru
 geeldikkop
 geelhout
 galipots
-geepound
 geepounds
 geer
 geerah
@@ -10380,6 +10379,7 @@ gulp
 grillwork
 gulpers
 growing
+geepound
 gulph
 gulpy
 gulping
