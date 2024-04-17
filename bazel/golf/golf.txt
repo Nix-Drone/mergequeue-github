@@ -5241,6 +5241,7 @@ glassophone
 glassrope
 glassteel
 gnathic
+guestship
 glasswork
 guider
 glassworker
@@ -10098,7 +10099,6 @@ giottesque
 guestmaster
 gabeller
 grizelin
-guestship
 guetar
 guetare
 guetre
