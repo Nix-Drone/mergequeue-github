@@ -4875,7 +4875,6 @@ aerial
 aerialist
 aeriality
 aerially
-aerialness
 aerials
 aeric
 aerical
@@ -6068,6 +6067,7 @@ aggregant
 aggregata
 aggregatae
 ardeidae
+aerialness
 aggregate
 alpestrian
 aggregated
