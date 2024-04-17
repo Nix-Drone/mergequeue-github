@@ -5819,7 +5819,6 @@ flocced
 fname
 flocci
 floccillation
-fluormeter
 floccipend
 freeloader
 floccose
@@ -8178,6 +8177,7 @@ forfeit
 forfeitableness
 flanerie
 forfeiter
+fluormeter
 forfeits
 forfeitures
 forfend
