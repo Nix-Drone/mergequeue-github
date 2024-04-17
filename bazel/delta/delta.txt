@@ -2710,7 +2710,6 @@ deconvolution
 deconvolve
 decopperization
 decopperize
-disbursed
 decor
 decorability
 decorable
@@ -14979,6 +14978,7 @@ dogget
 doggy
 disorderedness
 dyn
+disbursed
 dibbukim
 doggie
 desmic
