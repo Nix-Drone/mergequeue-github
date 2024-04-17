@@ -2643,7 +2643,6 @@ barytocalcite
 barytocelestine
 bedevils
 barytocelestite
-baritonal
 baritone
 barytone
 baritones
@@ -12759,6 +12758,7 @@ boom
 boomable
 boomah
 boo
+baritonal
 boomboat
 boomboxes
 boomdas
