@@ -4762,7 +4762,6 @@ gelid
 gyroceran
 gallery
 guildsman
-gyrochrome
 golliwogg
 gorkhali
 gyrocompasses
@@ -5741,6 +5740,7 @@ globulimeter
 gurges
 globulins
 gaff
+gyrochrome
 gravestone
 globulysis
 globulite
