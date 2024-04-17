@@ -4284,7 +4284,6 @@ ems
 emu
 ependymoma
 evokers
-emulable
 emulant
 emulations
 emulative
@@ -7201,6 +7200,7 @@ experimentations
 envisagement
 envisages
 envisaging
+emulable
 envision
 envisioned
 extrapolative
