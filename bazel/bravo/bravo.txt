@@ -12432,6 +12432,7 @@ bondon
 bructeri
 brooders
 bondservant
+bowmaking
 bondship
 bondslave
 bondsman
@@ -13826,7 +13827,6 @@ bowlings
 bowllike
 bowlmaker
 bowmaker
-bowmaking
 bowman
 brambleberries
 bowsman
