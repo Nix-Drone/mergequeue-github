@@ -7885,7 +7885,6 @@ bypasses
 bibation
 beglamour
 bibb
-bibber
 bibbery
 bibberies
 bibbers
@@ -15055,6 +15054,7 @@ breton
 bretonian
 beslimed
 bretschneideraceae
+bibber
 brett
 brettice
 bicarinate
