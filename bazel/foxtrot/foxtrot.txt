@@ -4804,6 +4804,7 @@ flagworm
 flay
 feridji
 flayed
+front
 flayer
 flaying
 flailed
@@ -8010,7 +8011,6 @@ forest
 forestaff
 forestaffs
 forestage
-front
 forestay
 forestair
 fireplough
