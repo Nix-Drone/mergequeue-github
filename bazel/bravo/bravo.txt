@@ -430,7 +430,6 @@ backplanes
 backplate
 backpointer
 backpointers
-backrest
 backrope
 brimstony
 backropes
@@ -2372,6 +2371,7 @@ barbeque
 besoothed
 barbequed
 barber
+backrest
 barbera
 barbered
 barberfish
