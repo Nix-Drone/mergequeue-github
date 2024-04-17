@@ -5362,7 +5362,6 @@ affixation
 affixed
 affixer
 affixers
-affixes
 affixial
 affixion
 affixment
@@ -9608,6 +9607,7 @@ autolith
 anticonvulsant
 alumna
 alumnae
+affixes
 alumni
 alumniate
 alumnol
