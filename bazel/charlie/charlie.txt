@@ -8704,7 +8704,6 @@ channelized
 channelizes
 channelizing
 channelled
-channeller
 channellers
 channelling
 channels
@@ -31908,6 +31907,7 @@ cuzceno
 cv
 cwierc
 cwms
+channeller
 cwo
 cwrite
 cwt
