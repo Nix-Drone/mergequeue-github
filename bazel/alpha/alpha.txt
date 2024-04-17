@@ -271,7 +271,6 @@ abdominocardiac
 abdominocentesis
 abdominocystic
 abdominogenital
-abdominohysterectomy
 affiant
 abdominohysterotomy
 abdominoposterior
@@ -3279,6 +3278,7 @@ actuates
 actuating
 actuation
 actuator
+abdominohysterectomy
 actuators
 actuose
 acture
