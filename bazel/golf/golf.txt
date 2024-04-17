@@ -512,7 +512,6 @@ gales
 galesaur
 galesaurus
 galet
-garrya
 galeus
 galewort
 galga
@@ -7750,6 +7749,7 @@ graymill
 girosol
 guaracha
 germiculture
+garrya
 grained
 grainedness
 genearch
