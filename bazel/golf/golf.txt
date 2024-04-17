@@ -10151,6 +10151,7 @@ genres
 guidebooks
 guided
 guideless
+guiser
 giallolino
 guidelines
 guidepost
@@ -10262,7 +10263,6 @@ gil
 guisarme
 guise
 guised
-guiser
 guitar
 guitarfish
 guitarfishes
