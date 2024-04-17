@@ -5368,7 +5368,6 @@ affixes
 affixial
 affixion
 affixment
-affixt
 ague
 affixture
 afflate
@@ -15426,6 +15425,7 @@ antilytic
 antilitter
 antiliturgy
 annunciators
+affixt
 adjutancy
 antiliturgical
 antiliturgist
