@@ -4341,7 +4341,6 @@ fishboat
 fishboats
 fishbolt
 fishbolts
-fettle
 fishbone
 falchions
 fishbowls
@@ -10545,6 +10544,7 @@ froufrou
 formulise
 frounce
 frounced
+fettle
 fluorenyl
 frousy
 flanneled
