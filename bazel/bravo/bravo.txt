@@ -5362,6 +5362,7 @@ begrim
 begrimed
 begrimer
 begrimes
+bombsight
 begriming
 begrimmed
 begrimming
@@ -12346,7 +12347,6 @@ bombous
 bombproof
 bombycilla
 bombs
-bombsight
 bombsights
 bombus
 bomi
