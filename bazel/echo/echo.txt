@@ -675,7 +675,6 @@ exungulate
 eclipsation
 eclipse
 eclipsed
-eclipses
 elumbated
 endocortex
 eclipsing
@@ -3532,6 +3531,7 @@ exposal
 embolectomy
 embolectomies
 embolemia
+eclipses
 emboli
 emboly
 emboliform
