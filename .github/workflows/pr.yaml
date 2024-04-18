@@ -3,6 +3,7 @@ name: PR Testing
 run-name: PR Checks for ${{ github.ref_name }}
 on:
   pull_request: {}
+  merge_group: {}
   push:
     branches:
       - trunk-merge/**
