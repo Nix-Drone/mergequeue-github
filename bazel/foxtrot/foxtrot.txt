@@ -1669,7 +1669,6 @@ fc
 fchar
 fipenny
 fcomp
-fconv
 farcin
 fcp
 familiar
@@ -3521,6 +3520,7 @@ facebread
 figures
 figuresome
 flueman
+fconv
 foraneous
 figury
 friesic
