@@ -5019,7 +5019,6 @@ endiaper
 endict
 endymal
 endimanche
-epiparodos
 endings
 endysis
 elaeomargaric
@@ -12339,6 +12338,7 @@ echoes
 exemplarity
 exemplars
 exempli
+epiparodos
 embodier
 exemplify
 evocatrix
