@@ -347,7 +347,6 @@ daybeds
 dollfaced
 daybill
 dayblush
-dayboy
 daybooks
 discerptibility
 daybreak
@@ -16871,6 +16870,7 @@ drawoff
 drawout
 drawplate
 drawpoint
+dayboy
 draws
 drawshave
 drawsheet
