@@ -31,4 +31,4 @@ close_stale_after = "24 hours"
 # label to apply to pull request to queue
 labels = ""
 # comment to post to queue
-comment = "/trunk merge"
+run = "gh pr merge"
