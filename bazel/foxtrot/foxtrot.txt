@@ -5542,6 +5542,7 @@ flickered
 flickeringly
 flickermouse
 flossa
+function
 flickers
 flickertail
 formaliter
@@ -9195,7 +9196,6 @@ fracases
 frusta
 fracedinous
 frache
-function
 fracid
 fract
 fouls
