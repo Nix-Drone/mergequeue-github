@@ -2371,7 +2371,6 @@ gekko
 gekkones
 gekkonid
 gekkonoid
-greedy
 gel
 gelable
 gelidiaceae
@@ -9569,6 +9568,7 @@ growly
 germinally
 growliest
 gemses
+greedy
 gastornis
 growlingly
 growls
