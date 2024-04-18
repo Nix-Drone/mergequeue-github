@@ -35,7 +35,7 @@ jobs:
       - name: Determine is_merge
         id: check_is_merge
         run: |
-          if [[ ${GITHUB_EVENT_NAME} == "push" && (${GITHUB_REF_NAME} == trunk-merge/* || ${GITHUB_REF_NAME} == trunk-merge-beta/*) ||  ${BRANCH_NAME} =~ gh-readonly-queue ]]; then            
+          if [[ ${GITHUB_EVENT_NAME} == "push" && (${GITHUB_REF_NAME} == trunk-merge/* || ${GITHUB_REF_NAME} == trunk-merge-beta/*) ||  ${GITHUB_REF_NAME} =~ gh-readonly-queue ]]; then            
             echo "on_merge=true" >> $GITHUB_OUTPUT
           else
           echo "on_merge=false" >> $GITHUB_OUTPUT
