@@ -3902,6 +3902,7 @@ carcinogeneses
 carcinogenesis
 carcinogenic
 colorimetry
+circumnutation
 carcinoid
 carcinolysin
 carcinolytic
@@ -14371,7 +14372,6 @@ chilognath
 circumneutral
 circumnuclear
 circumnutated
-circumnutation
 circumocular
 circumoesophagal
 circumorbital
