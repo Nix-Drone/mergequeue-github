@@ -3807,7 +3807,6 @@ battleship
 battleships
 buhr
 battlesome
-brigantes
 boatfalls
 banderilla
 battlestead
@@ -12181,6 +12180,7 @@ bolographic
 bolographically
 boloing
 blushiness
+brigantes
 boloism
 boloman
 bolomen
