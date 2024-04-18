@@ -4637,7 +4637,6 @@ demilitarising
 demilitarization
 demilitarized
 demilitarizes
-demilitarizing
 demiliterate
 demilune
 demilunes
@@ -9377,6 +9376,7 @@ diffraction
 diffractional
 diffractions
 defense
+demilitarizing
 directionless
 damaskeening
 diffractively
