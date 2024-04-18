@@ -2226,7 +2226,6 @@ eldmother
 eldorado
 eventuate
 eldress
-eldrich
 eldritch
 elds
 elean
@@ -12070,6 +12069,7 @@ exclaimers
 exclaiming
 exclaimingly
 exclaims
+eldrich
 exclam
 earthmaking
 exclamational

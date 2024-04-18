@@ -9067,7 +9067,6 @@ almagests
 almagra
 alman
 abaft
-authenticatable
 almanacs
 almander
 almandine
@@ -17652,6 +17651,7 @@ appendiculated
 acalypterae
 appellations
 appellative
+authenticatable
 appellatived
 appellativeness
 appellatory
