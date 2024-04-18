@@ -6017,7 +6017,6 @@ coll
 catskin
 catslide
 catso
-catsos
 catspaw
 catspaws
 catstane
@@ -21720,6 +21719,7 @@ conducent
 conducer
 conducers
 conducibleness
+catsos
 cotillion
 conducing
 conducive
