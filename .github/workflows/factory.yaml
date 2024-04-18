@@ -10,24 +10,11 @@ jobs:
     # needs: merge-pr
     runs-on: [ubicloud]
     steps:
-
-      - name: git-cred
-        uses: de-vri-es/setup-git-credentials@v2
-        with:
-          credentials: https://andrew-nixdrone:${{secrets.ANDREW_CLASSIC}}@github.com/ 
         
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          ref: main
-
-      - name: Testing
-        uses: trunk-io/breakpoint@v1
-        with:
-          breakpoint-id: git
-          run: git weoigwio
-          trunk-token: ${{ secrets.TRUNK_TOKEN }}
-          org: nix-drone
+          ref: main      
 
       - name: choose secret
         id: choose-secret
@@ -59,12 +46,6 @@ jobs:
           tarBall: true
           preRelease: true
           extract: true
-
-      - name: run gh auth status
-        id: edits2
-        run: gh auth status
-        env:
-          GH_TOKEN: ${{ secrets.ANDREW_CLASSIC }}
 
       - name: run mq
         id: edits
