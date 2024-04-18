@@ -4759,7 +4759,6 @@ cinchonicin
 carriageway
 carryall
 carrick
-carrycot
 carrie
 carried
 carryed
@@ -21578,6 +21577,7 @@ condensedness
 condenser
 condensery
 comether
+carrycot
 condenseries
 condensers
 condenses
