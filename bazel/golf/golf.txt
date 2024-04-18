@@ -6707,6 +6707,7 @@ goliaths
 golilla
 goldfield
 goll
+graphicalness
 guddling
 glaikitness
 golland
@@ -8161,7 +8162,6 @@ graphy
 graphic
 graphical
 graphically
-graphicalness
 graphicness
 ghosts
 graphidiaceae
