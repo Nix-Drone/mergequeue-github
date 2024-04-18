@@ -4929,6 +4929,7 @@ flammule
 frosteds
 flams
 flanch
+forkwise
 flanche
 fact
 flanconnade
@@ -5968,7 +5969,6 @@ floral
 florally
 floramor
 floramour
-forkwise
 floras
 florate
 floreal
