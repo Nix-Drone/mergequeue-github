@@ -272,7 +272,6 @@ fadeaways
 faded
 fadedly
 fadednyess
-fadeless
 faden
 fadeout
 fader
@@ -10782,6 +10781,7 @@ frutex
 fruticeous
 frutices
 fruticeta
+fadeless
 fruticetum
 fruticose
 fruticous
