@@ -8455,6 +8455,7 @@ alkamine
 alkanal
 alkanes
 alkanet
+anomural
 alkanethiol
 alkanets
 alkanna
@@ -13781,7 +13782,6 @@ anomouran
 anomphalous
 anomura
 ayegreen
-anomural
 anatomically
 anomuran
 anon
