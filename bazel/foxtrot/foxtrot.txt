@@ -3621,7 +3621,6 @@ filesniff
 filespec
 fossores
 fileting
-floatboard
 filets
 fylfot
 fili
@@ -11497,6 +11496,7 @@ furrowless
 furrowlike
 furrows
 furrure
+floatboard
 foredid
 fursemide
 foreglimpse
