@@ -537,7 +537,6 @@ backstrokes
 backstromite
 backswept
 backswimmer
-backswing
 backsword
 backswording
 bettergates
@@ -16862,6 +16861,7 @@ berreave
 bugbearish
 bugbite
 bugdom
+backswing
 bugeye
 bugeyes
 bugfish
