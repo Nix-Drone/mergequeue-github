@@ -988,7 +988,6 @@ absolved
 absolvent
 absolver
 absolvers
-absolves
 absolving
 absolvitor
 absonant
@@ -5939,6 +5938,7 @@ agendum
 agendums
 agene
 ataxite
+absolves
 agenes
 ageneses
 agenesias
