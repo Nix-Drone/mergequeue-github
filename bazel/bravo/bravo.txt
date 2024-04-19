@@ -5706,7 +5706,6 @@ bluism
 buna
 belfries
 belga
-belgard
 belgas
 belgian
 belgic
@@ -12330,6 +12329,7 @@ bombproof
 bombycilla
 bombs
 bombsights
+belgard
 bombus
 bomi
 bomos
