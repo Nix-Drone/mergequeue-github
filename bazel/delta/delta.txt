@@ -5640,7 +5640,6 @@ dependancy
 dependant
 dependantly
 depended
-dependence
 dependency
 dependencies
 depending
@@ -14904,6 +14903,7 @@ dogberrydom
 dogberries
 dogberryism
 dogblow
+dependence
 dogboat
 dogbody
 dimorphs
