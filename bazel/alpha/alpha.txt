@@ -3991,6 +3991,7 @@ adjudges
 adjudging
 adjudgment
 adjudicata
+appestat
 adjudicate
 adjudicated
 adjudication
@@ -17739,7 +17740,6 @@ appertains
 animadversions
 appertinent
 appertise
-appestat
 apostlehood
 appestats
 appet
