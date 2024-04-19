@@ -10404,7 +10404,6 @@ amidoacetic
 amidoacetophenone
 amidoaldehyde
 amidoazo
-amidoazobenzene
 amidocaffeine
 aeolotropism
 agley
@@ -21465,6 +21464,7 @@ asphyxiated
 asphyxiating
 asphyxiation
 asphyxiative
+amidoazobenzene
 asphyxiator
 asphyxied
 arrowroot
