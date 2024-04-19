@@ -653,7 +653,6 @@ cafeteria
 cafeterias
 cafetiere
 cafetorium
-caff
 caffa
 caffeate
 caffeic
@@ -15748,6 +15747,7 @@ clavicembalo
 claviceps
 clavichord
 colonialistic
+caff
 clavichords
 clavicymbal
 clavicytheria
