@@ -9959,7 +9959,6 @@ chemotropism
 chempaduk
 chemurgic
 chemurgical
-chemurgically
 chemurgies
 chen
 chena
@@ -23511,6 +23510,7 @@ conjoined
 continualness
 continuance
 continuancy
+chemurgically
 continuando
 clupein
 continuately

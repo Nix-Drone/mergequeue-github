@@ -2342,6 +2342,7 @@ electrocapillary
 electrocapillarity
 electrocardiogram
 electrocardiograms
+escarped
 electrocardiograph
 electrocardiographic
 electrocardiographically
@@ -6676,7 +6677,6 @@ encompasser
 enterohemorrhage
 enterohydrocele
 enterointestinal
-escarped
 emanative
 exchangite
 extratension
