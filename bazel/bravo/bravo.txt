@@ -4621,6 +4621,7 @@ bladeless
 bedaggered
 basecoat
 bedaggle
+bibless
 beday
 bedrid
 bedamned
@@ -7914,7 +7915,6 @@ bardee
 bible
 bibles
 bohmite
-bibless
 biblic
 bipunctal
 biblical
