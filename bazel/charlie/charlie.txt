@@ -2990,7 +2990,6 @@ capacitances
 capacitate
 capacitated
 cooperators
-capacitating
 capacitations
 capacitative
 capacitativly
@@ -14920,6 +14919,7 @@ cytokinesis
 cytokinetic
 cytokinin
 cytol
+capacitating
 corries
 citolas
 citole
