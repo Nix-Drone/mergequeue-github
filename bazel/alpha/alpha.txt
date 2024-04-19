@@ -3337,6 +3337,7 @@ acutances
 acutate
 acute
 acutely
+akinetic
 acutenaculum
 acuter
 acutes
@@ -7139,7 +7140,6 @@ akinesia
 akinesic
 akinesis
 akinete
-akinetic
 aking
 akiskemikinik
 akka
