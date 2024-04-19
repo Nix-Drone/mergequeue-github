@@ -7022,7 +7022,6 @@ gleave
 gounau
 grandsire
 galosh
-glaziness
 gamut
 goodwillie
 gils
@@ -8419,6 +8418,7 @@ gravelled
 gravelly
 geoglyphic
 gravelliness
+glaziness
 gravelling
 goshdarn
 gyroceras
