@@ -4744,7 +4744,6 @@ fannings
 flageolets
 fornenst
 flagfishes
-flagged
 flaggelate
 flaggelating
 flaggella
@@ -5616,6 +5615,7 @@ flinched
 flincher
 flinching
 founce
+flagged
 flinchingly
 flinders
 fibrine
