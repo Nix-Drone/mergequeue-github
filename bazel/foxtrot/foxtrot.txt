@@ -4610,6 +4610,7 @@ fixer
 fixers
 faintish
 filamentar
+freedstool
 fixidity
 fixing
 fixings
@@ -9830,7 +9831,6 @@ frenghi
 frenne
 frenula
 frenular
-freedstool
 frenulum
 frenums
 frenuna
