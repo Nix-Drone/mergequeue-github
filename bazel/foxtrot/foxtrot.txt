@@ -1681,6 +1681,7 @@ fipenny
 fcomp
 farcin
 fcp
+foehns
 familiar
 friars
 four
@@ -6679,7 +6680,6 @@ foederis
 foeffment
 foehn
 foehnlike
-foehns
 foeish
 foeless
 foelike
