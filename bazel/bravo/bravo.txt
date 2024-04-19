@@ -12721,6 +12721,7 @@ bookwards
 biddy
 bookworm
 bookworms
+bucketeer
 bookwright
 bool
 boolean
@@ -16629,7 +16630,6 @@ buckers
 bradyauxetic
 bucket
 bucketed
-bucketeer
 bucketer
 bucketful
 bucketfull
