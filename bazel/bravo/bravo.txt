@@ -4971,6 +4971,7 @@ beeherd
 bouncing
 beehive
 beehives
+breathes
 breakfaster
 beeish
 beek
@@ -14892,7 +14893,6 @@ breathe
 breatheableness
 breathed
 breather
-breathes
 boarstaff
 breathful
 breathy
