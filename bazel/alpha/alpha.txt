@@ -808,7 +808,6 @@ abreactions
 abreacts
 abreast
 archenteric
-abreed
 abreid
 abrenounce
 abrenunciate
@@ -4778,6 +4777,7 @@ aegirite
 aegyrite
 aegis
 aegises
+abreed
 aegisthus
 aegithalos
 aegithognathae
