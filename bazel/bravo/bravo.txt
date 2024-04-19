@@ -3981,7 +3981,6 @@ bbs
 bcd
 bch
 bchs
-ballotage
 bd
 bde
 bdellatomy
@@ -4049,6 +4048,7 @@ beader
 beadflush
 beadhouse
 beady
+ballotage
 beadier
 beadiest
 bathrobes
