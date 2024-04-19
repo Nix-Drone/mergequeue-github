@@ -2701,7 +2701,6 @@ electrothermostatic
 electrothermotic
 electrotype
 electrotyped
-electrotyper
 electrotypes
 electrotypy
 escarmouche
@@ -9526,6 +9525,7 @@ escaper
 escapers
 excitate
 escapes
+electrotyper
 electiveness
 enleaf
 escaping
