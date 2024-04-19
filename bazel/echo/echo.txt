@@ -10785,7 +10785,6 @@ eyeletter
 eugenia
 engaud
 eugenic
-exclusions
 eximidus
 eugenical
 eugenically
@@ -11455,6 +11454,7 @@ evennesses
 evensongs
 event
 eventail
+exclusions
 eventful
 eventfully
 eventfulness
