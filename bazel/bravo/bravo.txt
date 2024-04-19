@@ -7303,7 +7303,6 @@ bestride
 bestrided
 bestrides
 bestriding
-bestripe
 bestrode
 bestrow
 bisons
@@ -16816,6 +16815,7 @@ bibliokelpt
 buffeter
 buffeters
 bubalises
+bestripe
 buffeting
 borborygm
 buffetings
