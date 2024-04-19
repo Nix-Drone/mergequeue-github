@@ -3008,7 +3008,6 @@ capax
 capcase
 cape
 capeadores
-caped
 capel
 capelan
 capelans
@@ -7195,6 +7194,7 @@ centrifuges
 centrifuging
 centring
 centrings
+caped
 centriole
 centripetal
 centripetence
