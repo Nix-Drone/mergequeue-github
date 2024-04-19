@@ -11737,7 +11737,6 @@ analyticity
 antinational
 analytique
 analyzability
-analyzable
 analyzation
 analyze
 analyzed
@@ -22430,6 +22429,7 @@ atavists
 atavus
 ataxy
 ataxia
+analyzable
 ataxiagram
 ataxiagraph
 ataxiaphasia
