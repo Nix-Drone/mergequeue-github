@@ -6625,7 +6625,6 @@ foaminess
 foaming
 foamless
 foamlike
-foams
 fobbing
 flirtier
 frequents
@@ -9019,6 +9018,7 @@ fourer
 fourflusher
 fourflushers
 fourgon
+foams
 fatigueless
 fourier
 framboesia
