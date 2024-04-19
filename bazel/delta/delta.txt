@@ -13548,7 +13548,6 @@ dissettlement
 dissever
 disseverance
 disseveration
-dissevered
 dissevering
 disseverment
 dissevers
@@ -18029,6 +18028,7 @@ dull
 dullard
 dullardism
 deckload
+dissevered
 dullardness
 dullards
 demiurgism

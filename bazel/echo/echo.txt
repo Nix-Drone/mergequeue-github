@@ -1093,6 +1093,7 @@ edger
 edgers
 edges
 edgeshot
+evaluate
 edgeway
 edgeways
 enshrouded
@@ -6579,7 +6580,6 @@ entasia
 entasias
 entasis
 emiction
-evaluate
 entea
 erns
 enaction
