@@ -2208,6 +2208,7 @@ felstone
 felstones
 framers
 farmhouses
+forests
 felt
 felted
 felter
@@ -8074,7 +8075,6 @@ firebrats
 flayflint
 foalhood
 flecnode
-forests
 forestside
 forestudy
 focalizing
