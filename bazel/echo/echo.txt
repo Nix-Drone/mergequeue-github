@@ -3952,7 +3952,6 @@ emissile
 ekoi
 eudialyte
 epitheliliums
-emissive
 emissivity
 emissory
 emitted
@@ -4431,6 +4430,7 @@ embraceor
 encrypt
 enantioses
 endoplastule
+emissive
 euornithes
 enantiotropy
 enantobiosis
