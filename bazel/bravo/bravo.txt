@@ -8129,7 +8129,6 @@ boundlessness
 biconical
 biconically
 biconjugate
-biconnected
 biconsonantal
 biconvex
 biconvexity
@@ -13381,6 +13380,7 @@ barrens
 botswana
 blueprints
 botte
+biconnected
 bibliopoly
 biophysicists
 bottegas
