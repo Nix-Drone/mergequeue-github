@@ -2554,6 +2554,7 @@ billbugs
 bargainee
 bargainer
 bargaining
+banque
 bargainor
 bargander
 bumptiously
@@ -7043,7 +7044,6 @@ beslimer
 beslimes
 besliming
 beslings
-banque
 besiclometer
 beslobber
 besluit

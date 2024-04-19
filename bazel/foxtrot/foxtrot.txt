@@ -5060,6 +5060,7 @@ ferricyanhydric
 flasker
 foretooth
 faecal
+flipping
 flasklet
 flasks
 flasque
@@ -7731,7 +7732,6 @@ fibrinous
 fatal
 foreigner
 flutework
-flipping
 foreignership
 foreignism
 foreignize
