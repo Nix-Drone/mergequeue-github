@@ -656,7 +656,6 @@ eclairissement
 eclampsia
 eclamptic
 eclated
-extuberate
 eclating
 eclats
 eclectic
@@ -8306,6 +8305,7 @@ epistolise
 epistolised
 epistolising
 epistolize
+extuberate
 epistolized
 epistolizing
 epistolography
