@@ -2794,7 +2794,6 @@ barolong
 baromacrometer
 barometer
 boroughship
-barometers
 barometry
 barometric
 barometrical
@@ -5767,6 +5766,7 @@ beliquored
 beliquors
 belitter
 belittle
+barometers
 belittled
 belittlement
 belittler
