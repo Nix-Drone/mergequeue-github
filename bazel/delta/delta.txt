@@ -6072,7 +6072,6 @@ dehumanise
 disminister
 dungeonlike
 deputizes
-deputizing
 dequantitate
 dequeue
 dequeues
@@ -14240,6 +14239,7 @@ diurna
 diurnal
 diurnally
 diurnalness
+deputizing
 diurnals
 diurnation
 diurne
