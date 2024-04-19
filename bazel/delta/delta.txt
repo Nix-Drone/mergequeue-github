@@ -3206,6 +3206,7 @@ defectibility
 defectible
 defecting
 diplomacy
+departmentalizing
 defection
 defectious
 defective
@@ -5607,7 +5608,6 @@ departmentalism
 departmentalization
 departmentalized
 departmentalizes
-departmentalizing
 departmentally
 departmentization
 designment
