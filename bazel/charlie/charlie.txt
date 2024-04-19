@@ -3200,7 +3200,6 @@ capmaker
 capmakers
 cordmaker
 capmaking
-capman
 capnodium
 capnoides
 colonizes
@@ -7398,6 +7397,7 @@ cephalothoracic
 cephalothoracopagus
 cephalothoraxes
 cephalotomy
+capman
 contrate
 cephalotractor
 cephalotribe
