@@ -17201,7 +17201,6 @@ coalrake
 coals
 coalsack
 coalsacks
-coalshed
 coalsheds
 cantil
 coalternate
@@ -17889,6 +17888,7 @@ coelector
 colpocele
 coelectron
 coelelminthic
+coalshed
 coelentera
 coelenterata
 cubicle
