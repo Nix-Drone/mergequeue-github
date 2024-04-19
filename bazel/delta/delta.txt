@@ -2582,7 +2582,6 @@ decoders
 decodes
 decoding
 decodon
-decoherence
 dissightly
 draffy
 dairymaid
@@ -13333,6 +13332,7 @@ disraeli
 disray
 duskly
 disrank
+decoherence
 dysraphia
 disrated
 disrealize
