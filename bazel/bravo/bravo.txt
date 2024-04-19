@@ -11623,6 +11623,7 @@ boatsetter
 boatshop
 boatsman
 bobbed
+buttressing
 boatsmen
 boatsteerer
 boatswain
@@ -18334,7 +18335,6 @@ buttonwood
 buttress
 buttressed
 buttresses
-buttressing
 buttressless
 buttresslike
 butts
