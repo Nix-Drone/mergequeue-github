@@ -1529,6 +1529,7 @@ entification
 efreet
 efs
 efts
+equidist
 eftsoon
 eftsoons
 eg
@@ -8647,7 +8648,6 @@ equid
 equidiagonal
 equidifferent
 equidimensional
-equidist
 equidistance
 ectal
 embranglement
