@@ -6986,7 +6986,6 @@ debilities
 dessert
 desserts
 dykage
-dessertspoon
 dessertspoonful
 dessertspoonfuls
 dessiatine
@@ -13678,6 +13677,7 @@ dissolves
 dreamboat
 damndests
 dissolver
+dessertspoon
 dolesomeness
 diabetogenous
 dissolvingly
