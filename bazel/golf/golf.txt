@@ -1680,7 +1680,6 @@ gasterosteus
 gastful
 gallons
 gasthauser
-gastight
 gasting
 gastly
 grego
@@ -8502,6 +8501,7 @@ garb
 grabbed
 gravure
 grazable
+gastight
 gossameriness
 grazed
 grazer
