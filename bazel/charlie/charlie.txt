@@ -20534,7 +20534,6 @@ compends
 compenetration
 compensability
 compensable
-compensated
 compensates
 compensating
 compensatingly
@@ -21324,6 +21323,7 @@ centremost
 conciliar
 conciliarism
 conciliarly
+compensated
 conciliate
 conciliated
 conciliates
