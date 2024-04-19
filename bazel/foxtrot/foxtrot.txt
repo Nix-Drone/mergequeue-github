@@ -2369,7 +2369,6 @@ feods
 fehmic
 feodum
 feoff
-feoffee
 feoffees
 fconvert
 feoffer
@@ -5696,6 +5695,7 @@ flirtish
 flirts
 faunological
 favorers
+feoffee
 fortification
 flysches
 flisk
