@@ -1681,6 +1681,7 @@ account
 accountability
 accountable
 accountableness
+alicyclic
 accountably
 accountancy
 accountant
@@ -8176,7 +8177,6 @@ alichel
 austroasiatic
 alichino
 alicia
-alicyclic
 acroscopic
 alick
 avant

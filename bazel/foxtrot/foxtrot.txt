@@ -2208,7 +2208,6 @@ feltyfare
 feltyflier
 felting
 feltings
-feltmaker
 feltmaking
 feltman
 foulard
@@ -9677,6 +9676,7 @@ florivorous
 freeheartedly
 freehold
 freeholder
+feltmaker
 freeholders
 freeholdership
 foreigners
