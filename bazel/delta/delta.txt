@@ -1898,7 +1898,6 @@ debruising
 debs
 debt
 debted
-debtee
 debtful
 debtless
 debtor
@@ -15444,6 +15443,7 @@ donate
 donated
 donatee
 donatiaceae
+debtee
 donatio
 donation
 donationes
