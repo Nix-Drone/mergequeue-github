@@ -5775,7 +5775,6 @@ flyways
 faunas
 further
 flyweight
-ferr
 flyweights
 forthon
 fribblish
@@ -10790,6 +10789,7 @@ frutilla
 frwy
 formular
 fs
+ferr
 fstore
 fabianism
 ft
