@@ -9008,6 +9008,7 @@ dictaphones
 dictate
 dictating
 dictatingly
+durations
 dictation
 dictational
 dictations
@@ -18462,7 +18463,6 @@ duraspinalis
 duration
 durational
 durationless
-durations
 durative
 duratives
 durax
