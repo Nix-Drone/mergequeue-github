@@ -353,7 +353,6 @@ backfold
 backframe
 beknot
 backfriend
-borgh
 backfurrow
 backgame
 backgammon
@@ -18052,6 +18051,7 @@ busings
 busyworks
 busk
 busker
+borgh
 buskers
 busket
 buskin
