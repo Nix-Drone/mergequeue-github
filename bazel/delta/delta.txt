@@ -1711,6 +1711,7 @@ deathlikeness
 deathliness
 deathrate
 deathrates
+diagrydium
 deaths
 deathsman
 deathsmen
@@ -8264,7 +8265,6 @@ diagraph
 diagraphics
 diagraphs
 diagredium
-diagrydium
 diaguitas
 diaguite
 diaheliotropic
