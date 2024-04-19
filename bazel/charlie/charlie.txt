@@ -1106,7 +1106,6 @@ calcsinter
 calcspar
 calcspars
 cotwal
-calctufa
 calctufas
 calctuff
 calculability
@@ -12934,6 +12933,7 @@ concentre
 chuzwi
 chwana
 chwas
+calctufa
 cy
 cuesta
 cia
