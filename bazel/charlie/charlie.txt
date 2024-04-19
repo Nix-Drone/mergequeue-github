@@ -12614,6 +12614,7 @@ cercle
 chronologizing
 chronomancy
 chronomantic
+committed
 chronomastix
 chronometer
 chronometers
@@ -20143,7 +20144,6 @@ commitment
 commitments
 commits
 committable
-committed
 committedly
 committedness
 committeeism
