@@ -1032,7 +1032,6 @@ darkroom
 dineutron
 darks
 darkskin
-darksomeness
 darksum
 darktown
 darling
@@ -3151,6 +3150,7 @@ defaming
 defamingly
 defamous
 deadworks
+darksomeness
 defang
 defat
 defatigate
