@@ -4581,7 +4581,6 @@ encephalomalacosis
 encephalomalaxis
 encephalomas
 encephalomeningocele
-endrins
 encephalometric
 encephalomyelitic
 encephalomyelitis
@@ -7613,6 +7612,7 @@ eduardo
 epicele
 enshrining
 epicene
+endrins
 enddamage
 epicenes
 epicenism
