@@ -2011,6 +2011,7 @@ bandwagon
 bonhomme
 bandwagons
 baahling
+bins
 bdls
 bandwidth
 bandwidths
@@ -8908,7 +8909,6 @@ binormal
 binotonous
 binous
 binoxide
-bins
 bints
 binturong
 binuclear
