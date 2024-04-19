@@ -5240,7 +5240,6 @@ endophagy
 elevational
 endophagous
 endophasia
-endophasic
 endophyllous
 endophyllum
 endophytal
@@ -10381,6 +10380,7 @@ ethyne
 ethynes
 ethinyl
 ethynyl
+endophasic
 ethinyls
 exponence
 ethynyls
