@@ -3634,6 +3634,7 @@ caravel
 condylura
 confuse
 caravels
+colorability
 caraway
 costate
 caraways
@@ -19323,7 +19324,6 @@ coloquintid
 coloquintida
 checkstone
 color
-colorability
 cycadaceous
 colorableness
 countercharge
