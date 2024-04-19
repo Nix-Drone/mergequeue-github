@@ -1702,7 +1702,6 @@ accouterment
 acemetic
 accouters
 accoutre
-accoutrement
 accoutrements
 accoutres
 accoutring
@@ -25391,6 +25390,7 @@ azulmic
 azure
 alarmable
 amazonite
+accoutrement
 azurean
 ampyces
 azured
