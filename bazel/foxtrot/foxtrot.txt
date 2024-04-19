@@ -5455,7 +5455,6 @@ flet
 flagfall
 fleta
 fletched
-fletcherism
 fletcherite
 fellahin
 following
@@ -6835,6 +6834,7 @@ folderols
 folders
 foldy
 folding
+fletcherism
 foldless
 foraminiferan
 fikery
