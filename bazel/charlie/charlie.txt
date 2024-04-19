@@ -11957,7 +11957,6 @@ chorio
 chorioadenoma
 chorioallantoic
 chorioallantoid
-chorioallantois
 choriocapillary
 choriocapillaris
 choriocarcinoma
@@ -30984,6 +30983,7 @@ cumulatist
 cumulative
 cumulatively
 cumulativeness
+chorioallantois
 countersunk
 cumulene
 cumulet
