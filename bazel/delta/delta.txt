@@ -1001,7 +1001,6 @@ darkeners
 darkening
 darkens
 darker
-darkest
 diploconical
 darkhaired
 darkhearted
@@ -3012,6 +3011,7 @@ deemie
 dopamines
 deeming
 deemphasis
+darkest
 deemphasize
 deemphasized
 deems
