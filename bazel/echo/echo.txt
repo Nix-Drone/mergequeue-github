@@ -8561,7 +8561,6 @@ epulotic
 epural
 epuration
 eq
-eqpt
 equability
 exacerbescent
 equableness
@@ -10090,6 +10089,7 @@ estral
 estramazone
 estrange
 estranged
+eqpt
 estrangedness
 elaeagnaceous
 estrangelo
