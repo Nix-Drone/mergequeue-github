@@ -10576,7 +10576,6 @@ blazons
 bld
 bothriocidaris
 blea
-bleaberry
 bleach
 bleachability
 bleachable
@@ -10905,6 +10904,7 @@ blintzes
 blip
 bluming
 blypes
+bleaberry
 blippers
 barkeep
 blips
