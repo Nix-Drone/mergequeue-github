@@ -3045,7 +3045,6 @@ bartender
 bess
 bartenders
 bartending
-bartends
 barter
 barterer
 barterers
@@ -11397,6 +11396,7 @@ bluestockings
 bluestoner
 blowhards
 blueth
+bartends
 bluethroat
 bulbul
 bluetongue
