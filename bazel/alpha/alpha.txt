@@ -2941,7 +2941,6 @@ acromiohyoid
 areometer
 acromiohumeral
 acromion
-acromioscapular
 amphibalus
 acromiosternal
 acromiothoracic
@@ -8687,6 +8686,7 @@ amidships
 accoast
 alliances
 alliancing
+acromioscapular
 alliant
 alliaria
 allicampane
