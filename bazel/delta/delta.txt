@@ -12956,7 +12956,6 @@ danubian
 dispelled
 diplomyelia
 dispeller
-dispelling
 dorsimedian
 dispells
 dispels
@@ -17357,6 +17356,7 @@ dronkgrass
 desirers
 dagbane
 doa
+dispelling
 droob
 drooled
 drooly
