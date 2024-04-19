@@ -8274,7 +8274,6 @@ alimentation
 alimentativeness
 avoir
 alimented
-alimenter
 alimentic
 alimenting
 alimentive
@@ -24042,6 +24041,7 @@ autoformation
 antigenicity
 autofrettage
 autogamic
+alimenter
 autogamies
 autogamous
 autogauge
