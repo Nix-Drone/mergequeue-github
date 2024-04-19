@@ -1411,7 +1411,6 @@ accelerators
 accelerograph
 accelerometer
 accelerometers
-accend
 accendibility
 accendible
 anticatholic
@@ -22032,6 +22031,7 @@ asterisk
 asterisked
 asterisking
 asconia
+accend
 asteriskos
 asterisks
 asterism
