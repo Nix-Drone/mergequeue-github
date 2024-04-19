@@ -4304,6 +4304,7 @@ facia
 first
 fylker
 forbearer
+freestone
 firster
 feerie
 firsthand
@@ -9723,7 +9724,6 @@ freespace
 freest
 firebrands
 freestanding
-freestone
 fibula
 freestones
 fogramite
