@@ -1052,6 +1052,7 @@ fetal
 farm
 fantad
 freshening
+furriners
 farmable
 farmed
 farmer
@@ -11479,7 +11480,6 @@ furriest
 flares
 furrily
 furriner
-furriners
 fatback
 furriness
 feudist
