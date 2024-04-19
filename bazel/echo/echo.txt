@@ -6708,7 +6708,6 @@ enterospasm
 enterostasis
 earthstar
 ebracteolate
-enterostomy
 enterostomies
 enterotome
 enterotomy
@@ -10441,6 +10440,7 @@ ethnicity
 ethnicon
 ethnish
 extracorpuscular
+enterostomy
 ethnobiological
 ethnobotany
 ethnobotanic
