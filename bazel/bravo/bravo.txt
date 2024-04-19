@@ -6154,7 +6154,6 @@ benchlet
 benchman
 benchmar
 benchmark
-burnout
 benchmarked
 benchmarks
 benchmen
@@ -10002,6 +10001,7 @@ brawlys
 blondine
 bivouacks
 bivouacs
+burnout
 barques
 bivvy
 biwa
