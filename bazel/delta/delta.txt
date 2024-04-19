@@ -1490,7 +1490,6 @@ dicranoid
 dehydromucic
 deactivating
 deactivation
-deactivations
 deactivator
 deactivators
 defrosts
@@ -8726,6 +8725,7 @@ diatomic
 diatomicity
 diatomin
 diatomine
+deactivations
 diatomist
 diatomous
 diatoms
