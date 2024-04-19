@@ -1763,7 +1763,6 @@ gastrodisk
 gastroduodenitis
 gastroduodenoscopy
 gastroduodenostomy
-gastroduodenostomies
 gastroduodenotomy
 gastroelytrotomy
 gastroenteralgia
@@ -4816,6 +4815,7 @@ gyrostats
 gastroplenic
 gyrotheca
 girouette
+gastroduodenostomies
 girouettes
 gazet
 gyrous
