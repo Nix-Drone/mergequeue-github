@@ -3992,7 +3992,6 @@ adjudgeable
 adjudger
 adjudges
 adjudging
-adjudgment
 adjudicata
 appestat
 adjudicate
@@ -15287,6 +15286,7 @@ antifreezing
 antifriction
 antifrictional
 antifrost
+adjudgment
 antifundamentalism
 antifundamentalist
 antifungal
