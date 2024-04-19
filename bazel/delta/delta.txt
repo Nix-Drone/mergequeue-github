@@ -5819,7 +5819,6 @@ depones
 dwt
 deponing
 depopularize
-depopulated
 depopulates
 depopulating
 depopulation
@@ -9635,6 +9634,7 @@ dikaryophasic
 dikaryophyte
 dikaryophytic
 dikaryotic
+depopulated
 dikast
 dikdik
 dil
