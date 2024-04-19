@@ -15404,7 +15404,6 @@ clangs
 clangula
 coastguard
 clanjamfray
-claypan
 clanjamfrey
 clanjamphrey
 clank
@@ -22898,6 +22897,7 @@ consistences
 consistency
 catalytic
 consistencies
+claypan
 consistent
 consistently
 consistible
