@@ -2331,7 +2331,6 @@ encl
 embassade
 electroanesthesia
 electroballistically
-electroballistics
 electrobath
 electrobiological
 electrobiologically
@@ -11273,6 +11272,7 @@ evade
 evaded
 evader
 electroergometer
+electroballistics
 extratubal
 evades
 embezzle
