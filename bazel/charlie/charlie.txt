@@ -3390,7 +3390,6 @@ capsuler
 capsules
 capsuliferous
 capsuliform
-capsuligerous
 capsuling
 capsulitis
 capsulize
@@ -22139,6 +22138,7 @@ confustication
 confutability
 confutable
 confutation
+capsuligerous
 confutations
 confutator
 confute
