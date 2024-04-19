@@ -6358,7 +6358,6 @@ dermol
 determines
 dermonecrotic
 dermoneural
-digitalis
 drassid
 dermoneurosis
 dermoosseous
@@ -13744,6 +13743,7 @@ defoliated
 distastefulness
 distasting
 displaces
+digitalis
 distater
 distaves
 dystaxia
