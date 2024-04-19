@@ -3529,6 +3529,7 @@ caraculs
 caradoc
 carafe
 carafes
+clergymen
 cornicing
 carafon
 coteau
@@ -15976,7 +15977,6 @@ clergy
 clergyable
 clergylike
 cyclos
-clergymen
 clergion
 clergywoman
 clerical
