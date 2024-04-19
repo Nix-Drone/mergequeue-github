@@ -6707,6 +6707,7 @@ fogbank
 fogbound
 fogbow
 flyblow
+franchised
 fogdogs
 fairways
 fogdom
@@ -10958,7 +10959,6 @@ fulmar
 fulmina
 fulminant
 flighthead
-franchised
 feoffeeship
 fulminating
 frosts
