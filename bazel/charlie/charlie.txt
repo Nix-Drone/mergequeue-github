@@ -5734,6 +5734,7 @@ categories
 categorisation
 categorise
 categorised
+cloaked
 categorising
 categorist
 categorization
@@ -16435,7 +16436,6 @@ cloacinean
 cloacitis
 chervil
 cloakage
-cloaked
 cloakedly
 cloaking
 cloakless
