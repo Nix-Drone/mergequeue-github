@@ -4910,6 +4910,7 @@ flamingos
 feldsher
 faliscan
 fantaseid
+forge
 flaminica
 flaminical
 flamless
@@ -8213,7 +8214,6 @@ flamelet
 forgathering
 forgathers
 forgave
-forge
 forgeability
 forgeable
 forged
