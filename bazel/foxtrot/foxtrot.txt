@@ -3602,6 +3602,7 @@ filemaker
 fluidize
 filemark
 filemot
+foreknee
 filename
 filenames
 filer
@@ -7752,7 +7753,6 @@ forejudge
 forejudged
 forejudging
 forekeel
-foreknee
 foreknew
 figurism
 flakiness
