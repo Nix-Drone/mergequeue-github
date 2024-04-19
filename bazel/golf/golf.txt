@@ -786,7 +786,6 @@ galvanism
 gratefullest
 goosewinged
 galvanization
-galvanize
 galvanized
 grigri
 gugglet
@@ -2492,6 +2491,7 @@ glump
 gelts
 gemara
 gemaric
+galvanize
 gemarist
 grummel
 guaranin

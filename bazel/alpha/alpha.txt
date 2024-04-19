@@ -2652,7 +2652,6 @@ acoumeter
 allylene
 acoumetry
 autodetector
-acounter
 acouometer
 acouophonia
 acoluthic
@@ -16845,6 +16844,7 @@ aphengoscope
 aphenoscope
 apheresis
 apheretic
+acounter
 apheses
 adumbrate
 asclepius
