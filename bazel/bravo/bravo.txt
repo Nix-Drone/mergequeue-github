@@ -2591,7 +2591,6 @@ beerage
 bloodstream
 bargir
 bassetite
-barguest
 barguests
 barhop
 buzylene
@@ -8022,6 +8021,7 @@ bibracteate
 bibulosity
 billing
 bibulosities
+barguest
 bibulous
 bibulously
 bibulousness

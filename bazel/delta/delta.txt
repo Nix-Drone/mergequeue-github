@@ -1692,7 +1692,6 @@ deathbed
 deathbeds
 deathcup
 degree
-deathcups
 donatary
 deathday
 deathful
@@ -13287,6 +13286,7 @@ dunkard
 dacrydium
 disputeless
 disputer
+deathcups
 disputers
 discord
 disputes
