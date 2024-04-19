@@ -1761,7 +1761,6 @@ gnotobiote
 gravemaking
 gastrodynia
 gastrodisk
-gastroduodenal
 gastroduodenitis
 gastroduodenoscopy
 gastroduodenostomy
@@ -5930,6 +5929,7 @@ glossopharyngeus
 glossophobia
 gettered
 grecizes
+gastroduodenal
 gorling
 grinder
 glossoplasty
