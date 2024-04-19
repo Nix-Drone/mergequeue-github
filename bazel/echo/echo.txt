@@ -197,7 +197,6 @@ earthslide
 earthsmoke
 earthtongue
 earthwall
-earthwards
 earthwork
 earthworks
 ecdysones
@@ -3105,6 +3104,7 @@ elliptograph
 elliptoid
 etiolates
 ellops
+earthwards
 ells
 elm
 elmier
