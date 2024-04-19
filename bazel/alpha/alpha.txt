@@ -2662,7 +2662,6 @@ acoluthic
 acoup
 acoupa
 acousmatic
-acoustic
 acoustical
 acoustically
 acousticolateral
@@ -3194,6 +3193,7 @@ actins
 actinula
 actinulae
 action
+acoustic
 albiflorous
 allotrophic
 azoxyanisole
