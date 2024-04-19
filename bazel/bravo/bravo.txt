@@ -7033,7 +7033,6 @@ beslap
 beslave
 beslaved
 besleeve
-beslime
 balaenid
 beslimer
 beslimes
@@ -15057,6 +15056,7 @@ breviate
 breviature
 brevicauda
 brevicaudate
+beslime
 bedposts
 brevicipitidae
 bandhor
