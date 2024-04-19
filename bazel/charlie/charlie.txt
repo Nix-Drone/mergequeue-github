@@ -5741,7 +5741,6 @@ categorizations
 categorize
 corona
 categorized
-categorizer
 categorizers
 categorizes
 categorizing
@@ -21675,6 +21674,7 @@ conditotoria
 condivision
 cincinnatian
 condo
+categorizer
 condog
 condolatory
 condole
