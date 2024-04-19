@@ -5256,7 +5256,6 @@ esphresis
 endopoditic
 euphonium
 endopods
-endopolyploidy
 endoprocta
 endoproctous
 endopterygota
@@ -5506,6 +5505,7 @@ energiser
 energising
 energism
 energist
+endopolyploidy
 energize
 exploiters
 enharmonically
