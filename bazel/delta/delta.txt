@@ -10762,6 +10762,7 @@ dir
 diradiation
 dirca
 dircaean
+driftpins
 dirdum
 dirdums
 dire
@@ -17134,7 +17135,6 @@ driftless
 driftlessness
 diobely
 driftlet
-driftpins
 drifts
 driftwind
 drygoodsman
