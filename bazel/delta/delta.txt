@@ -9382,7 +9382,6 @@ diffuses
 dechlore
 diffusible
 diffusibleness
-dikamalli
 diffusimeter
 diffusing
 diffusiometer
@@ -13578,6 +13577,7 @@ dispersals
 dissyllabizing
 dissyllable
 dissimilarity
+dikamalli
 dissimilarities
 dissimilars
 dissimilate
