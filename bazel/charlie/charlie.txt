@@ -8614,6 +8614,7 @@ chancellorships
 chancelor
 chancelry
 calathidium
+coarsest
 chancels
 chanceman
 chancemen
@@ -17261,7 +17262,6 @@ coarseness
 coarsening
 coarsens
 coarser
-coarsest
 coarsish
 coart
 coarticulate

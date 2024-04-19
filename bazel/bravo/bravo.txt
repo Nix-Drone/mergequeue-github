@@ -11613,7 +11613,6 @@ blesbok
 boatowner
 boats
 boatsetter
-boatshop
 boatsman
 bobbed
 boatsmen
@@ -18307,6 +18306,7 @@ buttocks
 button
 buttonball
 buttonbush
+boatshop
 buttoned
 buttoner
 buttoners
