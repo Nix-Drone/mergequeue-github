@@ -1108,7 +1108,6 @@ calcrete
 calcsinter
 calcspar
 calcspars
-cotwal
 calctufas
 calctuff
 calculability
@@ -17374,6 +17373,7 @@ cobalticyanic
 cobalticyanides
 cobaltiferous
 cobaltine
+cotwal
 cobaltinitrite
 cobaltite
 colibacterin
