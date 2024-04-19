@@ -2067,7 +2067,6 @@ gauntry
 gaup
 gelatinize
 grahamite
-gunfought
 gliomatous
 gladrags
 gaur
@@ -8466,6 +8465,7 @@ gascon
 gravid
 gravida
 gravidate
+gunfought
 grendel
 gravidation
 gravidly
