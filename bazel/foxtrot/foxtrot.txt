@@ -1051,6 +1051,7 @@ farls
 fetal
 farm
 fantad
+freshening
 farmable
 farmed
 farmer
@@ -9874,7 +9875,6 @@ fraxinella
 freshen
 farrantly
 fresheners
-freshening
 footrail
 freshens
 fresher
