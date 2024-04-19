@@ -95,7 +95,6 @@ dactylic
 dactylically
 dactylics
 dactylioglyph
-dactylioglyphy
 dactylioglyphic
 dactylioglyphist
 dactyliography
@@ -3935,6 +3934,7 @@ dekameters
 debutante
 decumani
 dekaparsec
+dactylioglyphy
 dekapode
 dekarch
 dekare
