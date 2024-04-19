@@ -916,7 +916,6 @@ filaze
 faquirs
 far
 farad
-faraday
 faradaic
 faradays
 faradic
@@ -1699,6 +1698,7 @@ fusillade
 filterable
 fetcher
 fearedly
+faraday
 firebreaks
 fearedness
 fearer
