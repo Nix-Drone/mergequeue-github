@@ -7260,7 +7260,6 @@ enwound
 enwove
 enwrap
 enwrapment
-enwrapped
 enwrapping
 enwraps
 endophytically
@@ -8672,6 +8671,7 @@ estrum
 equilibrated
 exodontics
 equilibrates
+enwrapped
 equilibrating
 endocannibalism
 equilibrations
