@@ -9462,7 +9462,6 @@ alternate
 alternated
 alternately
 alternateness
-alternater
 alternating
 alternatingly
 alternation
@@ -12597,6 +12596,7 @@ anetic
 anetiological
 aneuch
 aneuploid
+alternater
 aneuploidy
 aneuria
 aneuric
