@@ -1084,6 +1084,7 @@ edge
 edgebone
 emyd
 edgeboned
+emulsor
 edged
 edgeless
 executing
@@ -8839,7 +8840,6 @@ equivoluminal
 excretolic
 equivoque
 equivorous
-emulsor
 equoidean
 equulei
 equuleus
