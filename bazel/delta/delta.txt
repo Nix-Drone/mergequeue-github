@@ -811,7 +811,6 @@ danebrog
 domicilii
 delusters
 daneflower
-danegeld
 danegelds
 danegelt
 danelaw
@@ -12963,6 +12962,7 @@ dorsimedian
 dispells
 dispels
 decliners
+danegeld
 dispence
 direly
 dispend
