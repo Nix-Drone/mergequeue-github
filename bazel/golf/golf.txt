@@ -6325,7 +6325,6 @@ gnome
 gnomed
 gnomes
 gnomesque
-gnomic
 gnomical
 gnomide
 gastroid
@@ -9198,6 +9197,7 @@ gristmill
 grasper
 gristmiller
 giltcup
+gnomic
 grith
 grithbreach
 griths
