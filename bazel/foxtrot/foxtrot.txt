@@ -2048,7 +2048,6 @@ forestlike
 feinting
 feis
 flatlander
-ferberite
 fogbows
 faultier
 fireflower
@@ -10515,6 +10514,7 @@ frostings
 frostnipped
 forfoughen
 foxfinger
+ferberite
 frostroot
 footbridges
 favose

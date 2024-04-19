@@ -3599,6 +3599,7 @@ carapaxes
 coachable
 carapidae
 carapine
+cresting
 carapus
 carara
 carassow
@@ -28776,7 +28777,6 @@ crested
 crestfallen
 crestfallenly
 crestfallenness
-cresting
 crestings
 crestless
 crestline
