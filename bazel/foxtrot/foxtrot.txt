@@ -4336,7 +4336,6 @@ fishboat
 fishboats
 fishbolt
 fishbolts
-fishbone
 falchions
 fishbowls
 fisheater
@@ -9841,6 +9840,7 @@ frenuna
 fraicheur
 frenzy
 frenzied
+fishbone
 frenzies
 fulmineous
 freq
