@@ -4556,7 +4556,6 @@ demicanton
 demicaponier
 demichamfron
 demicylinder
-demicircle
 deception
 demicircular
 drowningly
@@ -13645,6 +13644,7 @@ dissocial
 dissociality
 dissociant
 dissociated
+demicircle
 dissociates
 dissociating
 dissociations
