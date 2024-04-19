@@ -3618,7 +3618,6 @@ filespec
 fossores
 fileting
 floatboard
-filets
 fylfot
 fili
 findfault
@@ -9408,6 +9407,7 @@ frangibility
 frangible
 flossy
 forspoken
+filets
 frangipani
 fathoming
 frangipanis
