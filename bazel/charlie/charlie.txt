@@ -15583,7 +15583,6 @@ class
 chelydridae
 classable
 classbook
-classed
 classer
 classers
 classfellow
@@ -25125,6 +25124,7 @@ corymb
 corymbed
 corymbiate
 corymbiated
+classed
 cataclysmist
 corymbiferous
 cassiduloidea
