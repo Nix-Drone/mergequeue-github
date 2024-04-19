@@ -1444,6 +1444,7 @@ fatlings
 fatness
 fatnesses
 fylgjur
+folkcraft
 fats
 fatshedera
 ferahan
@@ -6894,7 +6895,6 @@ folious
 foliums
 forbearances
 flanes
-folkcraft
 folkfree
 folky
 folkish

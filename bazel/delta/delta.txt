@@ -16867,6 +16867,7 @@ drawout
 drawplate
 drawpoint
 draws
+ducs
 drawshave
 drawsheet
 drawspring
@@ -17819,7 +17820,6 @@ duckweeds
 duckwife
 duckwing
 discrete
-ducs
 duct
 ducted
 ductibility
