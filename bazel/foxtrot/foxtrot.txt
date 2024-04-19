@@ -1659,6 +1659,7 @@ fawnlike
 foveal
 fawns
 fawnskin
+freeholdership
 fax
 faxed
 faxes
@@ -9677,7 +9678,6 @@ freehold
 freeholder
 feltmaker
 freeholders
-freeholdership
 foreigners
 fungusy
 freeholding
