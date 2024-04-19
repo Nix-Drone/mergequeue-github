@@ -664,7 +664,6 @@ bacteriophagy
 bacteriophagic
 bacteriophagous
 bear
-bacterioprecipitin
 bacteriopsonin
 bellwethers
 bacteriopurpurin
@@ -6004,6 +6003,7 @@ bema
 bemad
 bemadam
 bullaria
+bacterioprecipitin
 brambly
 bemadams
 barothermohygrogram
