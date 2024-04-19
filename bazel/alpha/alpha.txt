@@ -4964,6 +4964,7 @@ aporphin
 aerofoil
 aerofoils
 algine
+arisaema
 aerogel
 aerogels
 antilogous
@@ -19742,7 +19743,6 @@ ariosi
 ariosos
 ariot
 aripple
-arisaema
 arisaid
 arisard
 arise
