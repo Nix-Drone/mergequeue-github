@@ -4905,6 +4905,7 @@ feldsher
 fantaseid
 flaminica
 flaminical
+flashguns
 flamless
 flammable
 floorers
@@ -5031,7 +5032,6 @@ fishiest
 flashforward
 fubbing
 flashgun
-flashguns
 flashy
 flashiest
 ferrash
