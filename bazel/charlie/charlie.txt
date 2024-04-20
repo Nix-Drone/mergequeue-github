@@ -18059,7 +18059,6 @@ coequal
 coequality
 coequalize
 coequally
-coequalness
 coequals
 coequate
 centerward
@@ -21998,6 +21997,7 @@ confiture
 coolidge
 confix
 confixing
+coequalness
 conflab
 carf
 conflagrant
