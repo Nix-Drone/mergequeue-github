@@ -7271,7 +7271,6 @@ centuriator
 centuried
 centuries
 centurion
-centurions
 centurist
 ceonocyte
 coroners
@@ -28121,6 +28120,7 @@ crankpin
 crankpins
 crankplate
 cranks
+centurions
 crankshaft
 crankshafts
 corpulent
