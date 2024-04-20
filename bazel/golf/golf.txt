@@ -584,7 +584,6 @@ galleys
 gamodemes
 galleyworm
 geneat
-galleon
 galleons
 galler
 gaucher
@@ -2542,6 +2541,7 @@ guardian
 gemless
 gemma
 gemmaceous
+galleon
 greenhood
 gemman
 gemmary
