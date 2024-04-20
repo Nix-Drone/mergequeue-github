@@ -4706,7 +4706,6 @@ demise
 demisecond
 demised
 depas
-demisemiquaver
 delineable
 demisemitone
 demisheath
@@ -14452,6 +14451,7 @@ divorcees
 divorcement
 divorcements
 dichotomal
+demisemiquaver
 diastalses
 divorcer
 devisor
