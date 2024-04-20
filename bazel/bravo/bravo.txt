@@ -9425,7 +9425,6 @@ becrawled
 birdnester
 birds
 birdsall
-balanced
 birdseeds
 birdseye
 birdseyes
@@ -12268,6 +12267,7 @@ bombasticness
 bombastry
 blockades
 bombasts
+balanced
 bombax
 botherment
 bombazet
