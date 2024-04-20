@@ -4020,7 +4020,6 @@ beachy
 beachier
 beaching
 beachless
-beachman
 beachmaster
 beachmen
 beachside
@@ -10158,6 +10157,7 @@ blacklisted
 blacklister
 blacklisting
 blacklists
+beachman
 breviaries
 blackmail
 banian
