@@ -25005,7 +25005,6 @@ coreceiver
 corecipient
 coreciprocal
 corectome
-corectomy
 cored
 coredeem
 coredeemed
@@ -29169,6 +29168,7 @@ cripply
 crippling
 cripplingly
 crips
+corectomy
 crypt
 crypta
 cryptaesthesia
