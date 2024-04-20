@@ -8724,7 +8724,6 @@ chansonnier
 chansonniers
 chanst
 chant
-condensational
 celandine
 chera
 chantant
@@ -25914,6 +25913,7 @@ corvees
 corven
 corver
 corves
+condensational
 corvet
 corvette
 corvettes
