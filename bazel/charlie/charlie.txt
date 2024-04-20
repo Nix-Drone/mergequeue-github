@@ -20328,7 +20328,6 @@ commutableness
 commutant
 commutate
 commutated
-commutation
 commutative
 commutatively
 commutativity
@@ -26643,6 +26642,7 @@ chende
 counterartillery
 counterassociation
 counterassurance
+commutation
 cammock
 counterattack
 counterattacked
