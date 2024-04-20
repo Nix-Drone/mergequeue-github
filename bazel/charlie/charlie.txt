@@ -4202,7 +4202,6 @@ carex
 cottages
 carfare
 carfares
-carfax
 carfloat
 codebreak
 coater
@@ -13550,6 +13549,7 @@ ciliium
 cylinder
 constructing
 cylindered
+carfax
 cylinderer
 cylindering
 cylinders
