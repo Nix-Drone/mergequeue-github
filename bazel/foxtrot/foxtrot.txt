@@ -4930,7 +4930,6 @@ frosteds
 flams
 flanch
 forkwise
-flanche
 fact
 flanconnade
 frappeed
@@ -6150,6 +6149,7 @@ flowcharts
 finality
 flowcontrol
 flowe
+flanche
 flowed
 flower
 flowerage
