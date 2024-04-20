@@ -1434,7 +1434,6 @@ accenting
 anticnemion
 airtightly
 accentor
-accentors
 accents
 accentual
 archers
@@ -5280,6 +5279,7 @@ affectionateness
 affectioned
 affectionless
 affections
+accentors
 affectious
 affective
 affectively
