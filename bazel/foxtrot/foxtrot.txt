@@ -2209,7 +2209,6 @@ friendlily
 felspath
 felspathose
 felstone
-felstones
 framers
 farmhouses
 felt
@@ -10560,6 +10559,7 @@ frouziest
 frow
 frowardness
 frower
+felstones
 frowy
 firewarden
 firemen
