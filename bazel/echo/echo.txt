@@ -6616,7 +6616,6 @@ enterate
 enterclose
 enterectomy
 enterectomies
-exuviates
 enterer
 ellipses
 empathizing
@@ -10248,6 +10247,7 @@ ether
 etherate
 etherealisation
 etherealise
+exuviates
 etherealised
 etherealising
 ethereality
