@@ -5980,7 +5980,6 @@ beltless
 beltmaker
 beltmaking
 beltman
-beltmen
 belts
 beltway
 beltwise
@@ -8475,6 +8474,7 @@ bikeways
 bikh
 bikhaconitine
 bikie
+beltmen
 biking
 bikini
 bathyscape
