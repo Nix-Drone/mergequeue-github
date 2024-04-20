@@ -551,7 +551,6 @@ dalmanites
 dalmatian
 dalmatians
 dalmatic
-defalcator
 dalmatics
 dalt
 dalton
@@ -9371,6 +9370,7 @@ diffusate
 diffused
 duplicator
 diffusely
+defalcator
 diffuseness
 diffusers
 diffuses
