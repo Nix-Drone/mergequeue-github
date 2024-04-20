@@ -2405,7 +2405,6 @@ candlefishes
 candleholder
 candlelight
 candlelighted
-candlelighter
 cytogenesis
 confraternities
 candlelighting
@@ -7511,6 +7510,7 @@ cercal
 cercaria
 canroyer
 cercariae
+candlelighter
 caressing
 cercarial
 coloni
