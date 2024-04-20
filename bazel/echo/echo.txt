@@ -2443,7 +2443,6 @@ electroextraction
 expedient
 electroform
 electroforming
-electrofused
 electrofusion
 ethanol
 electrogalvanization
@@ -8731,6 +8730,7 @@ equipartile
 equipartisan
 equipartition
 equipedal
+electrofused
 equipede
 equipendent
 easting
