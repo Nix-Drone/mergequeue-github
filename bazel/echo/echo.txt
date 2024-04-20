@@ -5189,6 +5189,7 @@ endogenies
 exundation
 endogenous
 essive
+exercised
 electrocataphoresis
 endogens
 embroider
@@ -8399,7 +8400,6 @@ epithelization
 epidictic
 epithelize
 epitheloid
-exercised
 epithem
 emulating
 epitheme
