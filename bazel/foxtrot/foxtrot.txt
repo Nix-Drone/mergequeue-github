@@ -9113,7 +9113,6 @@ fobs
 fissilingual
 fowells
 foredesign
-fowent
 fowk
 fowl
 fowled
@@ -11437,6 +11436,7 @@ furnace
 furnacelike
 furnacemen
 febrifuges
+fowent
 furnaces
 fieldward
 furnacing
