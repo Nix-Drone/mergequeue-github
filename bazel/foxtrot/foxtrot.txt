@@ -3802,7 +3802,6 @@ filoplume
 filopodia
 filopodium
 filosa
-filose
 filosofe
 filosus
 fils
@@ -11742,6 +11741,7 @@ fuzzes
 fautorship
 fuzzier
 fuzziest
+filose
 fuzzily
 firestopping
 fertilitate
