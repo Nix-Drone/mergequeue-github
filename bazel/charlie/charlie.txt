@@ -14679,7 +14679,6 @@ cystoadenoma
 cystocarp
 cystocele
 cystocyte
-cystocolostomy
 cystodynia
 cystoelytroplasty
 cystoepiplocele
@@ -16232,6 +16231,7 @@ clinkery
 clinkering
 clinking
 clinks
+cystocolostomy
 clinkstone
 clinkum
 chilblains
