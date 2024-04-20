@@ -2589,7 +2589,6 @@ beerage
 bloodstream
 bargir
 bassetite
-barguest
 barguests
 barhop
 buzylene
@@ -9052,6 +9051,7 @@ biologism
 biologist
 biologistic
 bedstands
+barguest
 biologists
 biologize
 bioluminescence
