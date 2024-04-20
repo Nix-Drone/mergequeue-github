@@ -27878,7 +27878,6 @@ cradlesong
 cradlesongs
 cradling
 craft
-crafted
 crafty
 craftier
 craftiest
@@ -29878,6 +29877,7 @@ carbosilicate
 crossline
 cymas
 crosslink
+crafted
 crossness
 crossopodia
 crossopt
