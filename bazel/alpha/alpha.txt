@@ -2319,6 +2319,7 @@ achromatism
 achromatizable
 achromatization
 achromatize
+amalgam
 achromatizing
 achromatocyte
 achromatolysis
@@ -9734,7 +9735,6 @@ amalekite
 amalfian
 amalfitan
 amalg
-amalgam
 amalgamable
 amalgamate
 attackable
