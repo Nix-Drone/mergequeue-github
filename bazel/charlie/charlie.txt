@@ -1214,7 +1214,6 @@ calfish
 calfkill
 calfless
 calflike
-calfling
 calfret
 calfs
 calfskin
@@ -3840,6 +3839,7 @@ carburetant
 carbureted
 carburetest
 carbureting
+calfling
 carburetion
 conformational
 carburetor
