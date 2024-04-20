@@ -1071,6 +1071,7 @@ calciobiotite
 calciocarnotite
 calcioferrite
 calcioscheelite
+ceiled
 calciovolborthite
 calcipexy
 clarity
@@ -6600,7 +6601,6 @@ ceil
 clamoring
 ceylanite
 celestine
-ceiled
 ceilers
 ceilidh
 ceilidhe
