@@ -3125,7 +3125,6 @@ defacto
 digressiveness
 defade
 defaillance
-defailment
 defaitisme
 defaitiste
 defalcate
@@ -15537,6 +15536,7 @@ doodad
 doodads
 doodah
 doodia
+defailment
 dictyostele
 doodle
 doodlebug
