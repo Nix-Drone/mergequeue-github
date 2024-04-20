@@ -23483,7 +23483,6 @@ contignate
 contignation
 contiguate
 contiguity
-contiguous
 contiguously
 contiguousness
 continence
@@ -30472,6 +30471,7 @@ cubicontravariant
 cubics
 cubicula
 costly
+contiguous
 cubiculo
 cubiculum
 cubiform
