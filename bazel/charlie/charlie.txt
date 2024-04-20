@@ -16483,7 +16483,6 @@ crewer
 clockroom
 clocksmith
 clockwatcher
-clockwise
 clockworked
 clockworks
 clod
@@ -28741,6 +28740,7 @@ cresegol
 cresyl
 cresylate
 cresylene
+clockwise
 cresylic
 cresylite
 cresyls
