@@ -1116,7 +1116,6 @@ edible
 expurgatory
 edibleness
 edibles
-edict
 edictal
 edictally
 edicts
@@ -10302,6 +10301,7 @@ etherize
 etherized
 etherizes
 etherizing
+edict
 eudora
 ethernet
 etherolate
