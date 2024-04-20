@@ -3324,7 +3324,6 @@ fidepromissor
 faery
 froglet
 fidge
-fidged
 fidges
 frameable
 fidget
@@ -4877,6 +4876,7 @@ fdname
 flamboyantize
 flamboyantly
 flamboyer
+fidged
 fergusite
 fill
 flamed
