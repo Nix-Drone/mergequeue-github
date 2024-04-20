@@ -18833,7 +18833,6 @@ archduchy
 accombination
 archduchies
 archduke
-archdukedom
 archdukes
 archduxe
 arche
@@ -22431,6 +22430,7 @@ atavists
 atavus
 ataxy
 ataxia
+archdukedom
 ataxiagram
 ataxiagraph
 ataxiaphasia
