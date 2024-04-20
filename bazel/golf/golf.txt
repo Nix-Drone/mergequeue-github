@@ -2351,6 +2351,7 @@ geic
 geyerite
 geiger
 gangrel
+genitives
 gemsboks
 glede
 gantryman
@@ -6300,7 +6301,6 @@ gnatter
 gnatworm
 gnaw
 gigantize
-genitives
 geochronometric
 gymnogenous
 gnawer
