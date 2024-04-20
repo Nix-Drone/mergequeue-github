@@ -12759,6 +12759,7 @@ dismissed
 dismisser
 doormaking
 dismissers
+dunged
 dismisses
 dismissible
 dismissing
@@ -16790,7 +16791,6 @@ draughtsmanship
 draughtsmen
 draughtswomanship
 dingoes
-dunged
 drave
 dravya
 dravidian
