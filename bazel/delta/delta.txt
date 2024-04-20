@@ -2684,6 +2684,7 @@ dotardy
 deconcatenate
 deconcentrate
 deconcentrated
+drawable
 deconcentrating
 deconcentration
 discomorula
@@ -16801,7 +16802,6 @@ devillike
 drawability
 diarrhoeic
 derelictions
-drawable
 drawarm
 drawback
 drawbar
