@@ -3951,7 +3951,6 @@ emissile
 ekoi
 eudialyte
 epitheliliums
-emissive
 emissivity
 emissory
 emitted
@@ -10249,6 +10248,7 @@ ether
 etherate
 etherealisation
 etherealise
+emissive
 etherealised
 etherealising
 ethereality
