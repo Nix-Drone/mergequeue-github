@@ -5941,7 +5941,6 @@ glosts
 glottal
 grapsoid
 gattine
-glottalization
 girl
 glottalize
 germinates
@@ -7052,6 +7051,7 @@ goolah
 gutterlike
 goolde
 gools
+glottalization
 gooma
 goon
 goonch
