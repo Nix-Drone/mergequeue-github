@@ -9331,7 +9331,6 @@ bipod
 bipods
 baccae
 bipolar
-bipolarity
 bipolarization
 bipont
 bipontine
@@ -11003,6 +11002,7 @@ blockheadish
 brevetcy
 blockheadishness
 blockheadism
+bipolarity
 blockheads
 blockhole
 brained
