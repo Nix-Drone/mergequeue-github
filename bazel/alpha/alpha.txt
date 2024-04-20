@@ -12522,7 +12522,6 @@ anemoscope
 afront
 anemoses
 anemosis
-anemotactic
 anemotaxis
 anemotropism
 anencephaly
@@ -18287,6 +18286,7 @@ aquiclude
 aquicolous
 aquicultural
 aquiculture
+anemotactic
 aquifer
 aquiferous
 actifier
