@@ -1084,6 +1084,7 @@ foremastman
 farmland
 farmost
 farmout
+fasteners
 fisc
 farms
 farmscape
@@ -1292,7 +1293,6 @@ fastbacks
 fastball
 fastened
 fastener
-fasteners
 fastening
 fastenings
 flagrante
