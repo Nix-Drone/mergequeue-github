@@ -11311,7 +11311,6 @@ chlorodizing
 chloroethene
 chloroethylene
 chlorofluorocarbon
-chlorofluoromethane
 chloroformate
 chloroformed
 chloroformic
@@ -12417,6 +12416,7 @@ chromidae
 chromide
 chromides
 chromidial
+chlorofluoromethane
 chromididae
 cochairs
 chromidiogamy
