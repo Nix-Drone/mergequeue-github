@@ -4855,6 +4855,7 @@ bedstraws
 bedstring
 bedswerver
 bedtick
+beltene
 bedticks
 bices
 bate
@@ -5963,7 +5964,6 @@ beltane
 bactericholia
 bimetalic
 beltcourse
-beltene
 begrutch
 brassiere
 belter
