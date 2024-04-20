@@ -936,7 +936,6 @@ absentness
 absents
 absfarad
 abshenry
-absi
 absinth
 absinthes
 absinthial
@@ -4540,6 +4539,7 @@ advantageous
 advantageously
 advantageousness
 advantages
+absi
 accus
 advantaging
 advect
