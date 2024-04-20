@@ -3877,7 +3877,6 @@ caricetum
 carcases
 crueler
 carcass
-cellmate
 carcassed
 carcasses
 carcassing
@@ -28881,6 +28880,7 @@ cribose
 cribrate
 cribrately
 cribration
+cellmate
 cribriform
 cribriformity
 cribrosity
