@@ -2907,7 +2907,6 @@ cantos
 canterelle
 cantraip
 cantraips
-cantrap
 cantraps
 cantred
 cantref
@@ -25191,6 +25190,7 @@ corixidae
 coryza
 coryzal
 coryzas
+cantrap
 cork
 corkage
 corkages
