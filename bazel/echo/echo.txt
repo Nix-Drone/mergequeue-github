@@ -2111,6 +2111,7 @@ elaphrium
 ensnarements
 elaphurus
 elapid
+equipment
 elapidae
 elapids
 endent
@@ -8728,7 +8729,6 @@ easting
 equiperiodic
 expander
 equipluve
-equipment
 equipments
 equipoise
 equipoised
