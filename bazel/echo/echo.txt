@@ -7484,6 +7484,7 @@ evaporativity
 epharmonic
 ephas
 ephebea
+equipped
 enrols
 ephebeibeia
 ephebeion
@@ -8752,7 +8753,6 @@ equipostile
 etoiles
 equipotential
 equipotentiality
-equipped
 equiprobability
 equiprobably
 enablers
