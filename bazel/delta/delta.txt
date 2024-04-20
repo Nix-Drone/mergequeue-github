@@ -6665,7 +6665,6 @@ designate
 designated
 designates
 designation
-designative
 designatory
 designators
 designatum
@@ -8793,6 +8792,7 @@ diblastula
 diborate
 dibothriocephalus
 dibrach
+designative
 dibranch
 diaconus
 dibranchia
