@@ -3912,7 +3912,6 @@ colorimetry
 circumnutation
 carcinoid
 carcinolysin
-carcinolytic
 carcinological
 carcinologist
 carcinoma
@@ -27169,6 +27168,7 @@ counterweigh
 counterweight
 counterweighted
 chelonin
+carcinolytic
 counterweights
 counterwheel
 counterwilling
