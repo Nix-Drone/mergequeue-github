@@ -6408,6 +6408,7 @@ goatskin
 goatskins
 goatstone
 goatsucker
+galleylike
 goatweed
 gramma
 goave
@@ -10398,7 +10399,6 @@ gimbals
 gumdrop
 girnal
 gumdrops
-galleylike
 gumhar
 gumi
 grovelings
