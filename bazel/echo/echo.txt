@@ -879,7 +879,6 @@ ectoglia
 encroached
 electros
 ectognatha
-ectolecithal
 ectomeres
 ectomeric
 ectomesoblast
@@ -9425,6 +9424,7 @@ eructating
 eructation
 eructative
 erring
+ectolecithal
 eruction
 eructs
 erudit
