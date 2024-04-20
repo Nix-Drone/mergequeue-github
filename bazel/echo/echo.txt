@@ -5445,7 +5445,6 @@ endseal
 endshake
 endsheet
 everglade
-execrates
 endue
 exploration
 enduing
@@ -11831,6 +11830,7 @@ embaying
 exannulate
 exanthem
 exanthema
+execrates
 exanthemas
 endocondensation
 exanthems
