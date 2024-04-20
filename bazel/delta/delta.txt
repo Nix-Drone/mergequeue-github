@@ -1179,7 +1179,6 @@ datableness
 datably
 datacell
 datafile
-dataflow
 datagram
 datagrams
 deescalating
@@ -2609,6 +2608,7 @@ displeaser
 decollete
 decollimate
 decolonised
+dataflow
 decolonising
 decolonization
 didascaly
