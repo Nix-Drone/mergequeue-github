@@ -5247,7 +5247,6 @@ begem
 begemmed
 begemming
 beget
-begettal
 begetter
 begetters
 broth
@@ -10231,6 +10230,7 @@ bladderwrack
 brabbler
 blade
 bladebone
+begettal
 bladelet
 bladelike
 beleaguerer
