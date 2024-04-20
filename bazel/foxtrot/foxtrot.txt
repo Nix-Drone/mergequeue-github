@@ -2475,7 +2475,6 @@ familarity
 fullymart
 forespeed
 ferment
-fermentability
 furzechat
 fermentable
 ferrocyanic
@@ -10752,6 +10751,7 @@ forfar
 flam
 frumpled
 frumpling
+fermentability
 frumps
 frundel
 frush
