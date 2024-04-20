@@ -19931,7 +19931,6 @@ armets
 armful
 armfuls
 armgaunt
-agoroth
 armguard
 asidehand
 armhole
@@ -24335,6 +24334,7 @@ autoregulative
 autoregulatory
 autoreinfusion
 arg
+agoroth
 autoretardation
 autorhythmus
 autoriser
