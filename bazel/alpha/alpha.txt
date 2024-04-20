@@ -6973,6 +6973,7 @@ apostolic
 airspeed
 airspeeds
 airstream
+akinetic
 allegory
 airstrip
 airstrips
@@ -7159,7 +7160,6 @@ akinesia
 akinesic
 akinesis
 akinete
-akinetic
 aking
 akiskemikinik
 akka
