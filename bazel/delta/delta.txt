@@ -5990,7 +5990,6 @@ deprivative
 deprive
 deprived
 deprivement
-depriver
 deprivers
 dixit
 dawks
@@ -9823,6 +9822,7 @@ dimensible
 desilicification
 drabbest
 dace
+depriver
 dimensionally
 dimensioning
 dimensionless
