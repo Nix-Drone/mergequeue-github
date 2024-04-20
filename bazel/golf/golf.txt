@@ -8227,6 +8227,7 @@ grassfinch
 grapple
 grappled
 grappler
+gunmen
 grapples
 gawks
 grappling
@@ -10511,7 +10512,6 @@ guanays
 gamesmanship
 gunmaking
 guelphic
-gunmen
 gunmetal
 genesis
 gunmetals
