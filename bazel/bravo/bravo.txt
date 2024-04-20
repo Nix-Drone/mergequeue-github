@@ -7653,7 +7653,6 @@ bewinter
 bewired
 bewit
 bewitch
-bewitched
 bewitchedness
 bewitcher
 bewitchery
@@ -11416,6 +11415,7 @@ bluffly
 barrigudo
 bluffness
 bluffs
+bewitched
 budder
 blufter
 bluggy
