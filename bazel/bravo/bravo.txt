@@ -3795,7 +3795,6 @@ borehole
 battlefront
 battlefronts
 battleful
-butterburr
 battlegrounds
 battlement
 battlements
@@ -10212,6 +10211,7 @@ blackware
 bilges
 befleaed
 blackwasher
+butterburr
 blackwater
 baphomet
 blackweed
