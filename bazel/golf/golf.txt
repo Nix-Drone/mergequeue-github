@@ -2870,6 +2870,7 @@ gph
 genos
 genospecies
 genotype
+gobinism
 germanically
 genotypic
 genotypical
@@ -6471,7 +6472,6 @@ gobiid
 gnotobiotic
 gobylike
 granddam
-gobinism
 gorier
 gobinist
 gobio
