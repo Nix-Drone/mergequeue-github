@@ -3330,7 +3330,6 @@ fidged
 fidges
 frameable
 fidget
-fidgetation
 fidgeted
 flitching
 fractals
@@ -7706,6 +7705,7 @@ forehanded
 fabulousness
 forehandedness
 flushness
+fidgetation
 freeman
 forehatch
 forehatchway
