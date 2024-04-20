@@ -5622,7 +5622,6 @@ enfollow
 enfoncee
 ephemerae
 enforceability
-enforceable
 enforced
 enforcement
 extranatural
@@ -7949,6 +7948,7 @@ epilabra
 epilamellar
 epilate
 epilating
+enforceable
 epilation
 epilator
 epilemma
