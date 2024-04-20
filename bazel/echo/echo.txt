@@ -8768,6 +8768,7 @@ enablers
 equiproportional
 equiproportionality
 equips
+ethnolinguist
 equipt
 equiradial
 echo
@@ -10486,7 +10487,6 @@ ethnohistorian
 ethnohistoric
 entwisted
 ethnol
-ethnolinguist
 ethnolinguistic
 ethnologer
 erysibe
