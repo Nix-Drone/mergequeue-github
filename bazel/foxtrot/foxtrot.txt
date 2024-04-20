@@ -8326,7 +8326,6 @@ fingerprinted
 fayed
 fibrillous
 forklift
-forklike
 forkman
 forswornness
 forkmen
@@ -9195,6 +9194,7 @@ function
 fracid
 fract
 fouls
+forklike
 fractal
 fracted
 fungify
