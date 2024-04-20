@@ -2483,7 +2483,6 @@ dulls
 deckswabber
 decl
 declaim
-dichorisandra
 declaimant
 declaimer
 declaimers
@@ -14611,6 +14610,7 @@ dobra
 dobrao
 delirament
 digenous
+dichorisandra
 dobson
 dobsonflies
 dobsons
