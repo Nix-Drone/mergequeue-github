@@ -8240,7 +8240,6 @@ episode
 episodes
 episodial
 episodic
-episodical
 episodically
 episomal
 episomally
@@ -11563,6 +11562,7 @@ evidence
 evidences
 evidencing
 evidencive
+episodical
 evident
 ergasterion
 evidential
