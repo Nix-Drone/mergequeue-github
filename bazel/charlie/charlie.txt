@@ -9553,6 +9553,7 @@ commonize
 checkrack
 checkrail
 checkrein
+crosspiece
 checkroll
 checkroom
 compathy
@@ -29890,7 +29891,6 @@ crossover
 crossovers
 crosspatch
 crosspatches
-crosspiece
 crosspoint
 crossrail
 crossroad

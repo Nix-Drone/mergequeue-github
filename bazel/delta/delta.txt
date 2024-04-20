@@ -9988,7 +9988,6 @@ dynactinometer
 dynagraph
 dynam
 dynametric
-dynamic
 dynamically
 dynamicity
 dynamics
@@ -11842,6 +11841,7 @@ discustom
 discutable
 discutient
 disdain
+dynamic
 disdainable
 disdained
 disdainer
