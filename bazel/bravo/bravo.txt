@@ -2104,6 +2104,7 @@ bankman
 banality
 bankmen
 banknote
+barrelet
 badaud
 banknotes
 bankrider
@@ -2939,7 +2940,6 @@ barrelage
 barreled
 barreleyes
 bolivias
-barrelet
 bearleap
 barrelfish
 barrelfishes
