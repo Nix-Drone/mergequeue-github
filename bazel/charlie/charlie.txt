@@ -6340,6 +6340,7 @@ ceratites
 cavaedium
 cavayard
 caval
+compilable
 cavalcade
 cavalcaded
 cavalcades
@@ -20580,7 +20581,6 @@ competitorship
 competitress
 challengee
 competitrix
-compilable
 compilation
 compilations
 compilator
