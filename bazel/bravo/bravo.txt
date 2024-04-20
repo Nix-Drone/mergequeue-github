@@ -6473,7 +6473,6 @@ benzolize
 benzols
 benzonaphthol
 benzonitrile
-benzonitrol
 benzoperoxide
 benzophenanthrazine
 benzophenazine
@@ -12891,6 +12890,7 @@ bora
 borable
 borachio
 boracic
+benzonitrol
 boracite
 boracium
 boracous
