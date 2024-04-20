@@ -6143,7 +6143,6 @@ dere
 derealization
 derecho
 dereference
-dereferenced
 dereferencing
 deregister
 deregulate
@@ -11548,6 +11547,7 @@ disconnect
 disconnected
 dandified
 disconnectedly
+dereferenced
 disconnectedness
 diphtheroidal
 disconnecter
