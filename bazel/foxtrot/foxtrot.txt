@@ -4332,6 +4332,7 @@ fixatif
 fischerite
 foresleeve
 friendlies
+fisk
 fise
 forb
 fisetin
@@ -4431,7 +4432,6 @@ fishworker
 fishworks
 fringilliformes
 fishworm
-fisk
 fisnoga
 frostbound
 fissidentaceous
