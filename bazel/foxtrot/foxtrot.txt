@@ -4343,7 +4343,6 @@ fishboats
 fishbolt
 fishbolts
 falchions
-fishbowls
 fisheater
 fisheye
 fisheyes
@@ -10584,6 +10583,7 @@ frowsty
 frowstier
 flatuous
 frowstiest
+fishbowls
 frontlet
 flattened
 frowstily
