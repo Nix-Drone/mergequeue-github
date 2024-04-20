@@ -1679,6 +1679,7 @@ fipenny
 fcomp
 farcin
 fcp
+felsophyre
 foehns
 familiar
 friars
@@ -5537,7 +5538,6 @@ flyblows
 flyboat
 flyboats
 flybrush
-felsophyre
 filesave
 flatulences
 firefight
