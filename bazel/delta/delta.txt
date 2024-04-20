@@ -1897,7 +1897,6 @@ debtful
 debtless
 debtor
 debtors
-debts
 debugger
 debuggers
 desilverized
@@ -8684,6 +8683,7 @@ diathermancy
 diathermaneity
 diathermanous
 defoliators
+debts
 drudger
 diathermy
 diathermic
