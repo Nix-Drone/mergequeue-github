@@ -7549,7 +7549,6 @@ forebreast
 futharcs
 foreburton
 fulfills
-fuzzing
 forebush
 forecabin
 fleetings
@@ -9601,6 +9600,7 @@ fiscus
 frazer
 frazing
 frazzle
+fuzzing
 flattop
 frazzled
 frazzles
