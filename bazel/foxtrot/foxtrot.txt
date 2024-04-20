@@ -5095,7 +5095,6 @@ floorwalker
 flavoprotein
 fatigued
 fissionability
-flatly
 flatling
 flatlings
 flatlong
@@ -11553,6 +11552,7 @@ fusc
 fallings
 fuscin
 fuscohyaline
+flatly
 fuscous
 fuseau
 fistic
