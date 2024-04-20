@@ -6974,6 +6974,7 @@ apostolic
 airspeed
 airspeeds
 airstream
+autoregressive
 allegory
 airstrip
 airstrips
@@ -17329,7 +17330,6 @@ aponeurositis
 aponeurotic
 antivirus
 aponeurotomy
-autoregressive
 aponia
 aponic
 aponogeton
