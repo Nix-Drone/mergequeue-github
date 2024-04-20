@@ -8346,6 +8346,7 @@ dialyze
 dialyzed
 dialyzer
 dialyzes
+dowhacky
 dialkyl
 dispell
 dialkylamine
@@ -14295,7 +14296,6 @@ diversely
 disrates
 diverseness
 diversify
-dowhacky
 diversifiability
 ducatoon
 douricouli
