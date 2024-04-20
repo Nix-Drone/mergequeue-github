@@ -27448,6 +27448,7 @@ coveralls
 coverchief
 cerberean
 covercle
+credentials
 covered
 calculagraph
 coverer
@@ -28462,7 +28463,6 @@ credent
 credentialed
 congressman
 credentialism
-credentials
 credently
 credenza
 credenzas
