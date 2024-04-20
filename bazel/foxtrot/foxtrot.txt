@@ -4953,7 +4953,6 @@ flanker
 flankers
 falconries
 fringilliform
-fireshaft
 flanking
 flanks
 faineantise
@@ -5679,6 +5678,7 @@ flipped
 flipperling
 fraileros
 flippers
+fireshaft
 flyproof
 forbearantly
 flips
