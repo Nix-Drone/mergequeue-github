@@ -2428,7 +2428,6 @@ dialogs
 degorder
 decimeters
 decimetre
-decimolar
 daysman
 dangering
 daker
@@ -3621,6 +3620,7 @@ degenerations
 dockages
 degenerative
 degeneratively
+decimolar
 degenerescence
 degenerescent
 degeneroos
