@@ -9617,6 +9617,7 @@ escribe
 eiffel
 escribiente
 escribientes
+exploded
 escrime
 escript
 escritoire
@@ -13201,7 +13202,6 @@ explicits
 explida
 explodable
 explode
-exploded
 eucarpous
 explodent
 eponymize
