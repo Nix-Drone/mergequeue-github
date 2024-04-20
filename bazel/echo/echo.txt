@@ -6554,7 +6554,6 @@ entamoebic
 entangle
 entangleable
 entangled
-entangledness
 endotrachelitis
 evensong
 entanglement
@@ -12947,6 +12946,7 @@ expectations
 exordial
 exodoi
 expected
+entangledness
 eulogistically
 expectedness
 expecter
