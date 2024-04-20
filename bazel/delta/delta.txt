@@ -5985,7 +5985,6 @@ disprofit
 deprivals
 deprivate
 deprivation
-deprivative
 deprive
 deprived
 deprivement
@@ -13648,6 +13647,7 @@ dissociating
 dissociations
 dissoconch
 dissogeny
+deprivative
 dissogony
 dissolubility
 doll
