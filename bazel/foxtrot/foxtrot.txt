@@ -10416,7 +10416,6 @@ farmyards
 fertilizing
 fictor
 fewmets
-forgivableness
 flowerfence
 fenestrule
 frontierman
@@ -11004,6 +11003,7 @@ fumatorium
 fumatoriums
 fasted
 fumble
+forgivableness
 fumbled
 flavory
 fumbler
