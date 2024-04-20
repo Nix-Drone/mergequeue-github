@@ -687,7 +687,6 @@ bechances
 bacteriotoxin
 bal
 bacteriotrypsin
-bynames
 bacteriotropic
 blepharedema
 bacterious
@@ -1533,6 +1532,7 @@ balladist
 balladize
 balladized
 balladizing
+bynames
 balladlike
 balladling
 balladmonger
