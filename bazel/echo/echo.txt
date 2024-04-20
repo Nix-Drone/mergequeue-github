@@ -940,7 +940,6 @@ epimerize
 epicenter
 ectotoxin
 ectotrophi
-ectotrophic
 ectotropic
 ectozoa
 epilogistic
@@ -9619,6 +9618,7 @@ enright
 escots
 escout
 escry
+ectotrophic
 escribe
 eiffel
 escribiente
