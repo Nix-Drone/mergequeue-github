@@ -7085,7 +7085,6 @@ centigrade
 centigrado
 centigram
 centigramme
-confluences
 centigrams
 centile
 centiles
@@ -22669,6 +22668,7 @@ conopophaga
 conopophagidae
 conor
 circar
+confluences
 conorhinus
 childbear
 conormal
