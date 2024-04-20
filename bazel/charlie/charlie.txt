@@ -17801,6 +17801,7 @@ codifiers
 codifies
 codifying
 codilla
+counterborder
 codille
 coding
 codings
@@ -26669,7 +26670,6 @@ counterbid
 counterblast
 counterblow
 counterbond
-counterborder
 crookneck
 counterbore
 counterbored
