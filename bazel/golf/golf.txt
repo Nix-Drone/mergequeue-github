@@ -2651,7 +2651,6 @@ guttifer
 geochronometry
 genear
 genecology
-genecologic
 gradienter
 genecological
 genecor
@@ -8070,6 +8069,7 @@ gassings
 granula
 granular
 girandole
+genecologic
 gomontia
 granulary
 granularly
