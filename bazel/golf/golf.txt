@@ -1923,7 +1923,6 @@ gate
 gateage
 gatecrasher
 gatecrashers
-gated
 gatefold
 grapefruits
 gatehouse
@@ -3481,6 +3480,7 @@ gerocomical
 geroderma
 gerodermia
 gerodontic
+gated
 gerodontology
 gledge
 gerontal
