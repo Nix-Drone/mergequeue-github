@@ -3803,7 +3803,6 @@ adherences
 adherency
 adherend
 adherends
-adherent
 adherently
 adherents
 adherer
@@ -17792,6 +17791,7 @@ applauds
 alborak
 applause
 applauses
+adherent
 applausive
 applausively
 apple
