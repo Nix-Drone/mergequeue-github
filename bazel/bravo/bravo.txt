@@ -59,6 +59,7 @@ babe
 babel
 bursters
 bolbonac
+bargelike
 babeldom
 babelet
 babelike
@@ -2564,7 +2565,6 @@ biogasses
 bargeese
 bergere
 bargehouse
-bargelike
 bargelli
 bargello
 bargeload
