@@ -384,7 +384,6 @@ faqirs
 firmisternial
 faintly
 faintling
-faintness
 faints
 faipule
 fair
@@ -4837,6 +4836,7 @@ flake
 foxier
 flaked
 fluoresce
+faintness
 funiculi
 flakeless
 flakelet
