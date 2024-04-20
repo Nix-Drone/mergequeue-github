@@ -5975,6 +5975,7 @@ depressomotor
 depressor
 dinos
 depressors
+dorsibranch
 diversifications
 depressurize
 deprest
@@ -15795,7 +15796,6 @@ dorsel
 dorser
 dorsers
 dorsi
-dorsibranch
 dorsibranchiata
 dorsibranchiate
 dorsicollar
