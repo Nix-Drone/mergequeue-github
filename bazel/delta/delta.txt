@@ -2395,7 +2395,6 @@ diabolism
 deciles
 decylic
 drippings
-deciliter
 deciliters
 decilitre
 dripstick
@@ -4075,6 +4074,7 @@ declivate
 deliberalize
 deliberandum
 deliberant
+deciliter
 deliberate
 deliberated
 deliberately
