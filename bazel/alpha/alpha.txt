@@ -6860,6 +6860,7 @@ aircrewmen
 aircrews
 aerophone
 airdate
+announcement
 airdates
 airdock
 airdrome
@@ -13616,7 +13617,6 @@ annotinous
 atwain
 announce
 announced
-announcement
 announcements
 announcers
 announces
