@@ -2667,6 +2667,7 @@ acoumeter
 allylene
 acoumetry
 autodetector
+airframes
 acouometer
 acouophonia
 acoluthic
@@ -6889,7 +6890,6 @@ airflows
 airfoil
 airfoils
 airframe
-airframes
 airglow
 airglows
 acondylous
