@@ -5665,6 +5665,7 @@ deperm
 depermed
 deperms
 depersonalise
+disapproval
 depersonalising
 depersonalization
 depersonalized
@@ -11042,7 +11043,6 @@ disappropriate
 disappropriation
 disapprovable
 diaplasma
-disapproval
 disapprovals
 disapproved
 disapprover
