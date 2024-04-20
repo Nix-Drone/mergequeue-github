@@ -233,6 +233,7 @@ factures
 facula
 flatway
 faculae
+furnaces
 facular
 faculative
 faculous
@@ -11432,7 +11433,6 @@ furnace
 furnacelike
 furnacemen
 febrifuges
-furnaces
 fieldward
 furnacing
 furnariidae
