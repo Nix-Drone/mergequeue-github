@@ -6860,7 +6860,6 @@ aircrewmen
 aircrews
 aerophone
 airdate
-airdates
 airdock
 airdrome
 airdromes
@@ -15868,6 +15867,7 @@ antiphilosophic
 antiphilosophical
 antiphilosophies
 antiphilosophism
+airdates
 antiphysic
 antiphysical
 antiphysically
