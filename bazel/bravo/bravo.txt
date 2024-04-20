@@ -12201,7 +12201,6 @@ bolsters
 bunters
 brake
 bolsterwork
-bolt
 boltage
 biasses
 boltcutter
@@ -14409,6 +14408,7 @@ bramble
 brambleberry
 brambled
 brambles
+bolt
 bonanza
 bramblier
 brambliest
