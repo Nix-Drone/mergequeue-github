@@ -621,7 +621,6 @@ echograph
 echoic
 echoing
 everard
-echoingly
 echoism
 echoisms
 exhumation
@@ -7917,6 +7916,7 @@ epigrammatise
 epigrammatising
 epigrammatize
 epigrammatized
+echoingly
 epigrammatizer
 epigrammatizing
 epigrams
