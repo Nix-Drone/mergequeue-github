@@ -2465,7 +2465,6 @@ decivilize
 deck
 dateline
 decke
-deckedout
 deckel
 deckels
 decken
@@ -9894,6 +9893,7 @@ diminish
 diminishable
 driftweed
 dermorhynchous
+deckedout
 diminished
 diminisher
 dehydrofroze
