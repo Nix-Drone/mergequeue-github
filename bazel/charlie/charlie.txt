@@ -20865,6 +20865,7 @@ comprend
 compresbyter
 compresbyterial
 compresence
+crossable
 compresent
 compress
 compressed
@@ -29785,7 +29786,6 @@ crosnes
 clumber
 cross
 crossability
-crossable
 crossarms
 calculate
 crossband
