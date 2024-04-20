@@ -5595,7 +5595,6 @@ aftercrop
 aftercure
 afterdays
 afterdate
-antifoam
 afterdated
 amadou
 acidulates
@@ -8162,6 +8161,7 @@ assemblee
 alhandal
 albuminometry
 alhena
+antifoam
 alhenna
 alhet
 alia
