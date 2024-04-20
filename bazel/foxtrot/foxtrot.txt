@@ -4992,6 +4992,7 @@ ferrite
 flappable
 flapped
 favourless
+foelike
 flapperdom
 flappered
 forte
@@ -6688,7 +6689,6 @@ foehn
 foehnlike
 foeish
 foeless
-foelike
 forenotice
 foemanship
 foemen
