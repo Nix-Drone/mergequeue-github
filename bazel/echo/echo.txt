@@ -3446,7 +3446,6 @@ elaphe
 epees
 embezzled
 embezzlement
-echeloning
 embezzlers
 embezzles
 embezzling
@@ -10045,6 +10044,7 @@ estimative
 eudemonistically
 estimator
 exhaustively
+echeloning
 estimatingly
 earlduck
 euchrone
