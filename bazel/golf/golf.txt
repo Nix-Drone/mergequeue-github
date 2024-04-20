@@ -2254,7 +2254,6 @@ gearcases
 gearman
 gears
 guernseys
-gasterotricha
 gearset
 gearshift
 gearshifts
@@ -6668,6 +6667,7 @@ goldsinny
 goldsmithry
 glider
 goldsmiths
+gasterotricha
 goldspink
 gnathopod
 goldstone
