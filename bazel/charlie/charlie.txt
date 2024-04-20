@@ -2232,6 +2232,7 @@ canals
 channelwards
 canalside
 canamary
+counterstand
 canamo
 cranesbill
 cananaean
@@ -27082,7 +27083,6 @@ counterspy
 counterspies
 counterspying
 coverage
-counterstand
 counterstatant
 counterstatement
 counterstep
