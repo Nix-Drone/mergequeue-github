@@ -4638,6 +4638,7 @@ enchanters
 enchanting
 enchantingly
 enchantment
+extrastate
 enchantments
 enchantress
 enchants
@@ -13971,7 +13972,6 @@ extraspectral
 extraspinal
 eco
 esuriently
-extrastate
 extrasterile
 extrastomachal
 extratabular
