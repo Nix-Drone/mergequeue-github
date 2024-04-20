@@ -3004,7 +3004,6 @@ barriers
 barriguda
 barrigudos
 broadaxe
-barrikin
 burled
 barriness
 barring
@@ -17404,6 +17403,7 @@ bungarum
 breviary
 bungarus
 bijection
+barrikin
 bunged
 buildress
 bungee
