@@ -14950,7 +14950,6 @@ cytomorphology
 cytomorphological
 cyton
 cytone
-cytons
 cytopahgous
 cytoparaplastin
 cytopathic
@@ -26292,6 +26291,7 @@ cotehardie
 cotele
 coteline
 coteller
+cytons
 curlers
 cotemporane
 cotemporanean
