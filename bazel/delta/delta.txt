@@ -3150,6 +3150,7 @@ defamations
 defamatory
 defame
 defamed
+dragginess
 defamer
 defamers
 defames
@@ -8092,7 +8093,6 @@ diabolus
 diabrosis
 diabrotic
 diabrotica
-dragginess
 diacanthous
 diacatholicon
 dampy
