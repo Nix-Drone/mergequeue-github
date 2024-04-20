@@ -1664,7 +1664,6 @@ ballottine
 ballottines
 ballow
 blear
-ballpark
 ballplayer
 ballplayers
 ballplatz
@@ -6188,6 +6187,7 @@ benedictory
 bonbonnieres
 benedicts
 benedictus
+ballpark
 benedight
 butanolide
 benefact
