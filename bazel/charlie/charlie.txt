@@ -14649,7 +14649,6 @@ chondrule
 cysticercoid
 cysticercoidal
 cysticercosis
-cysticerus
 cysticle
 cysticolous
 cystid
@@ -18677,6 +18676,7 @@ colcine
 colcothar
 cold
 coldblood
+cysticerus
 coldblooded
 coldbloodedness
 coldcock
