@@ -535,6 +535,7 @@ backstrokes
 backstromite
 backswept
 backswimmer
+bulletins
 backsword
 backswording
 bettergates
@@ -17105,7 +17106,6 @@ brennage
 bogman
 bulletined
 bulletining
-bulletins
 bulletless
 bulletlike
 bulletmaker
