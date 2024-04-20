@@ -6571,7 +6571,6 @@ beprank
 bepranked
 beyonds
 bepress
-bepretty
 bepride
 bepuddle
 bedirt
@@ -10747,6 +10746,7 @@ blepharochromidrosis
 blepharoclonus
 blepharocoloboma
 blepharodiastasis
+bepretty
 blepharodyschroia
 blepharolithiasis
 blepharomelasma
