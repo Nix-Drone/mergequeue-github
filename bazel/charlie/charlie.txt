@@ -19891,6 +19891,7 @@ commaes
 ceduous
 command
 commandable
+conveyable
 commandant
 commandatory
 commanded
@@ -23952,7 +23953,6 @@ convectively
 centare
 convects
 convey
-conveyable
 comps
 conveyance
 conveyances
