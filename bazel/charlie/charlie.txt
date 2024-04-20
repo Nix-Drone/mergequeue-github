@@ -16482,7 +16482,6 @@ clockmaking
 crewer
 clockroom
 clocksmith
-clockwatcher
 clockwise
 clockworked
 clockworks
@@ -27365,6 +27364,7 @@ coussinet
 centricalness
 coustumier
 cacesthesis
+clockwatcher
 couteau
 couteaux
 couter
