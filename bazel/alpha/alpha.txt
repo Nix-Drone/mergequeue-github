@@ -21778,7 +21778,6 @@ assignats
 ambiparous
 assignee
 assignees
-assigner
 assigners
 acidulent
 assignment
@@ -24925,6 +24924,7 @@ awaits
 awakable
 awake
 awakeable
+assigner
 awaked
 axemaster
 awaken
