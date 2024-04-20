@@ -1314,7 +1314,6 @@ daffy
 demissive
 daunting
 dauntingly
-dauntingness
 drawboard
 dauntless
 dauntlessly
@@ -7235,6 +7234,7 @@ decidual
 determinate
 determinated
 determinately
+dauntingness
 drawknife
 dipolarize
 determinateness
