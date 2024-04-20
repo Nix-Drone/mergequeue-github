@@ -10291,6 +10291,7 @@ carnalities
 chicer
 committer
 cougnar
+coverage
 chicest
 chich
 chicha
@@ -27081,7 +27082,6 @@ countersnarl
 counterspy
 counterspies
 counterspying
-coverage
 counterstand
 counterstatant
 counterstatement
