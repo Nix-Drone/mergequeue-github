@@ -2567,7 +2567,6 @@ canli
 coff
 canmaker
 climbs
-canman
 cann
 canna
 cannabic
@@ -29336,6 +29335,7 @@ cryptozoite
 cryptozonate
 crypts
 chapbooks
+canman
 crazedness
 crypturi
 crypturidae
