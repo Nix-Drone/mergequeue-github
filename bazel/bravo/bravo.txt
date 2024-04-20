@@ -12937,6 +12937,7 @@ bordels
 backpacker
 border
 bordereau
+bowstaff
 bordered
 borderer
 borderers
@@ -13825,7 +13826,6 @@ bowsie
 bowsing
 bowsprit
 bowsprits
-bowstaff
 brokenhearted
 bowstave
 bowstring
