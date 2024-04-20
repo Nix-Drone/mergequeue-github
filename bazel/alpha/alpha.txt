@@ -5856,7 +5856,6 @@ agaricaceae
 agaricaceous
 agaricales
 agaricic
-agaricin
 agaricine
 agaricinic
 agaricoid
@@ -10509,6 +10508,7 @@ amylases
 amylate
 amildar
 amylemia
+agaricin
 amylene
 amylenes
 amylenol
