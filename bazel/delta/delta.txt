@@ -2409,6 +2409,7 @@ decimalism
 dueling
 decimalist
 decimalization
+dilogarithm
 decimalize
 decimalized
 decimalizes
@@ -9765,7 +9766,6 @@ dillue
 dillweed
 dilo
 differentially
-dilogarithm
 dilogy
 dilos
 dilucid
