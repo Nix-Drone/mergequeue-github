@@ -9040,7 +9040,6 @@ biol
 biolinguistics
 biolyses
 bludgeoneer
-battlemented
 benzazide
 biolite
 biolith
@@ -11990,6 +11989,7 @@ boilable
 boylas
 bromocresol
 boildown
+battlemented
 boiled
 boiler
 boilerful
