@@ -1991,7 +1991,6 @@ decahedrons
 decahydrate
 decahydronaphthalene
 decay
-decayable
 decayed
 decayedness
 decayers
@@ -8787,6 +8786,7 @@ daltonism
 dibenzoyl
 dibenzophenazine
 dibenzopyrrole
+decayable
 dibhole
 diblastula
 diborate
