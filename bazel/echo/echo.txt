@@ -2528,7 +2528,6 @@ electromyogram
 electromyography
 electromyographically
 electromobile
-electromotion
 electromotive
 electromotograph
 epimerised
@@ -4386,6 +4385,7 @@ euchring
 expulsive
 enameled
 enamelers
+electromotion
 enameling
 enolization
 enamelist
