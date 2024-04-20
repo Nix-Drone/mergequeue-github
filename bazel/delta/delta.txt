@@ -743,6 +743,7 @@ dopester
 dance
 danceability
 danceable
+dereference
 danced
 degasification
 danceress
@@ -6139,7 +6140,6 @@ deploringly
 dere
 derealization
 derecho
-dereference
 dereferenced
 dereferencing
 deregister
