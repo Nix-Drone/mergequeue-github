@@ -16643,7 +16643,6 @@ clorinator
 clos
 closable
 close
-closeable
 closecross
 closed
 closedown
@@ -18004,6 +18003,7 @@ coenenchym
 casualness
 coenenchyma
 coenenchymal
+closeable
 coenenchymatous
 capouch
 cherty
