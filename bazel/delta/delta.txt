@@ -8230,7 +8230,6 @@ diagnostication
 diagnostician
 diagnosticians
 diagnostics
-diagometer
 demove
 derogations
 dele
@@ -13643,6 +13642,7 @@ dyssnite
 dissociability
 dissociable
 dissociably
+diagometer
 dupers
 dissocial
 dissociality
