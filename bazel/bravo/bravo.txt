@@ -371,7 +371,6 @@ backhanding
 backhands
 backhaul
 backhauls
-backhoe
 backhoes
 boobies
 backhooker
@@ -6466,6 +6465,7 @@ botanizing
 bilge
 benzoin
 benzoinated
+backhoe
 benzoiodohydrin
 benzol
 benzole
