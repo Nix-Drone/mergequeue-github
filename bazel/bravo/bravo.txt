@@ -1961,7 +1961,6 @@ breadwinners
 bandlimiting
 bandlimits
 bandman
-bandmaster
 bandmasters
 bando
 bandobust
@@ -13502,6 +13501,7 @@ boulder
 bouldered
 boulderhead
 bouldery
+bandmaster
 bouldering
 boulders
 boules
