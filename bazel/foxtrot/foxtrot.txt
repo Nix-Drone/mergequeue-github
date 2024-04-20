@@ -6646,7 +6646,6 @@ frequents
 focal
 focalised
 focalising
-featness
 focalization
 focalize
 focalizes
@@ -8980,6 +8979,7 @@ fabella
 fetial
 foundlings
 foundress
+featness
 foundryman
 foundrymen
 fallency
