@@ -2692,7 +2692,6 @@ generalizations
 generalize
 genl
 gyrations
-generalizeable
 genappe
 generalized
 glassily
@@ -4877,6 +4876,7 @@ galactic
 galacaceae
 gitanos
 gallotannin
+generalizeable
 gite
 gitim
 gitksan
