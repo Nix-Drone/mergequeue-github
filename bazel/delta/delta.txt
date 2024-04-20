@@ -5006,7 +5006,6 @@ demotist
 demotists
 demount
 demountability
-demountable
 demounted
 demounting
 demounts
@@ -8942,6 +8941,7 @@ dicycle
 dicycly
 dicyclies
 dicyclist
+demountable
 dicyema
 dicyemata
 dicyemid
