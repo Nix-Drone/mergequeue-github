@@ -19464,7 +19464,6 @@ colpitises
 colpocystocele
 colpohyperplasia
 colpohysterotomy
-colpoperineoplasty
 colpoperineorrhaphy
 colpoplasty
 colpoptosis
@@ -20015,6 +20014,7 @@ commentable
 commentary
 commentarial
 commentarialism
+colpoperineoplasty
 commentaries
 centralisation
 commentate
