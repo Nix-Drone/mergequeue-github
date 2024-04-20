@@ -26603,7 +26603,6 @@ count
 countability
 countable
 countableness
-countably
 countdom
 countdown
 countdowns
@@ -29013,6 +29012,7 @@ crimpiness
 crimping
 crimple
 crimpled
+countably
 crimpling
 crimpness
 crimps
