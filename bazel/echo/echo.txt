@@ -6281,7 +6281,6 @@ enrib
 enrich
 ehlite
 enrichener
-enrichers
 enriches
 enrichments
 epsilon
@@ -12803,6 +12802,7 @@ exordize
 exorhason
 exornate
 exornation
+enrichers
 exortion
 exoskeletal
 eviler
