@@ -21777,7 +21777,6 @@ assignats
 ambiparous
 assignee
 assignees
-assigner
 assigners
 assignment
 assignments
@@ -24919,6 +24918,7 @@ awaits
 awakable
 awake
 awakeable
+assigner
 awaked
 axemaster
 awaken
