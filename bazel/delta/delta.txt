@@ -4559,7 +4559,6 @@ demicanon
 demicanton
 demicaponier
 demichamfron
-demicylinder
 demicircle
 deception
 demicircular
@@ -8271,6 +8270,7 @@ diaguitas
 diaguite
 diaheliotropic
 diaheliotropically
+demicylinder
 dyak
 diaka
 diakinesis
