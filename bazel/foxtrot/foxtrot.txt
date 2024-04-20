@@ -5899,6 +5899,7 @@ flood
 ferrotungsten
 floodable
 fineable
+fullfil
 floodage
 floodboard
 fabiform
@@ -10924,7 +10925,6 @@ fullery
 fulleries
 fullest
 flo
-fullfil
 fictile
 fullgrownness
 fullhearted
