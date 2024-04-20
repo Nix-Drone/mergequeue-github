@@ -3286,6 +3286,7 @@ deferments
 deferrable
 deferral
 deferrals
+dorsicolumn
 deferred
 deferrer
 deferrers
@@ -15794,7 +15795,6 @@ dorsibranch
 dorsibranchiata
 dorsibranchiate
 dorsicollar
-dorsicolumn
 damnosa
 dorsicornu
 dorsiduct
