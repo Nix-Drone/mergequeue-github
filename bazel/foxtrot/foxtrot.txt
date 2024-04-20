@@ -2621,7 +2621,6 @@ fooler
 ferromagnesian
 frogtongue
 ferromagnet
-ferromagnetic
 freelances
 ferromagneticism
 ferromagnetism
@@ -5558,6 +5557,7 @@ filet
 flicked
 formication
 flicker
+ferromagnetic
 flickered
 flickeringly
 flickermouse
