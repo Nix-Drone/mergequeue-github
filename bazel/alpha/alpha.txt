@@ -9297,7 +9297,6 @@ alpha
 alphabet
 alphabetary
 alphabetarian
-alphabeted
 akenbold
 acerose
 alphabetic
@@ -16483,6 +16482,7 @@ alcoves
 antlerite
 antlerless
 antlers
+alphabeted
 antlia
 antliate
 antlid
