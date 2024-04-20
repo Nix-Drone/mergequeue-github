@@ -6458,7 +6458,6 @@ benzohydrol
 benzoic
 benzoid
 bankera
-benzoylated
 benzoylating
 benzoylation
 benzoylformic
@@ -8997,6 +8996,7 @@ biogen
 ballogan
 biogenase
 briny
+benzoylated
 biogenesis
 baudekins
 biogenesist
