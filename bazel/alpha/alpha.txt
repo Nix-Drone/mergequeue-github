@@ -3735,7 +3735,6 @@ accumulative
 adenopodous
 adenosarcoma
 adenosarcomas
-adenosarcomata
 adenosclerosis
 adenose
 arrant
@@ -4358,6 +4357,7 @@ adrenal
 adrenalcortical
 adrenalectomy
 adrenalectomies
+adenosarcomata
 adrenalectomize
 adrenalectomizing
 aumous
