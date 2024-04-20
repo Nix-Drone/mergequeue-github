@@ -1681,7 +1681,6 @@ fc
 fchar
 fipenny
 fcomp
-farcin
 fcp
 familiar
 friars
@@ -9385,6 +9384,7 @@ francisc
 franciscan
 franciscanism
 franciscans
+farcin
 ferocities
 francium
 franciums
