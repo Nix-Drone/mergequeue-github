@@ -12647,7 +12647,6 @@ chub
 chubasco
 chubascos
 chubb
-chubbed
 chubbedness
 candlepin
 chubby
@@ -17759,6 +17758,7 @@ coderived
 coders
 codes
 codescendant
+chubbed
 codesign
 codesigns
 codespairer
