@@ -1224,6 +1224,7 @@ daters
 dates
 datil
 dating
+denormalized
 dation
 datisca
 datiscaceae
@@ -5249,7 +5250,6 @@ diosmose
 denominatively
 denominator
 denominators
-denormalized
 denotable
 denotate
 denotation
