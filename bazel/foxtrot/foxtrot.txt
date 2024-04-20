@@ -3824,7 +3824,6 @@ forebridge
 fruitester
 filterers
 filtering
-filterman
 frogland
 filtermen
 floundering
@@ -5822,6 +5821,7 @@ floatsman
 floatsmen
 floatstone
 flob
+filterman
 flobby
 forswat
 forcedness
