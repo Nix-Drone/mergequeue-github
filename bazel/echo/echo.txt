@@ -6518,7 +6518,6 @@ ensued
 ensues
 ensuingly
 ensurance
-ensure
 ensurer
 ensures
 ensuring
@@ -11912,6 +11911,7 @@ enlace
 excavatory
 excave
 epizoarian
+ensure
 excecate
 excecation
 excedent
