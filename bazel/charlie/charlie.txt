@@ -24998,7 +24998,6 @@ coreceiver
 corecipient
 coreciprocal
 corectome
-corectomy
 cored
 coredeem
 coredeemed
@@ -29164,6 +29163,7 @@ capillarity
 crippling
 cripplingly
 crips
+corectomy
 crypt
 crypta
 cryptaesthesia
