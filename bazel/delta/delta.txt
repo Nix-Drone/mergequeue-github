@@ -1198,7 +1198,6 @@ datasetname
 datasets
 datatype
 datatypes
-datcha
 dynamometry
 dialyzers
 dateableness
@@ -6390,6 +6389,7 @@ dernly
 dero
 devolvement
 derodidymus
+datcha
 derog
 derogate
 denuclearization
