@@ -8884,6 +8884,7 @@ characetum
 characid
 characids
 characin
+clobberer
 characine
 characinid
 characinidae
@@ -16452,7 +16453,6 @@ cloamen
 cloamer
 clobber
 clobbered
-clobberer
 cradleman
 clobbering
 clobbers
