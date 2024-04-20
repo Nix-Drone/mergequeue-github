@@ -12228,6 +12228,7 @@ boltuprightness
 boltwork
 bolus
 boluses
+banderilleros
 benn
 bomb
 bombable
@@ -12690,7 +12691,6 @@ boce
 barmkin
 biyearly
 booksellerism
-banderilleros
 booksellers
 bookselling
 bookshelf
