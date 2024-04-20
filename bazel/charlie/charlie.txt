@@ -17741,7 +17741,6 @@ codec
 codeclination
 codecs
 codefendant
-codefendants
 codeina
 codeinas
 codeine
@@ -30293,6 +30292,7 @@ crush
 crushable
 crushed
 catamenial
+codefendants
 crushers
 crushing
 crushproof
