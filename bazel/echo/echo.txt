@@ -6462,7 +6462,6 @@ explosive
 ensnarement
 ensnarer
 ensnarers
-ensnares
 escrol
 euctical
 ensnarl
@@ -8323,6 +8322,7 @@ epit
 epitactic
 epitaph
 epitapher
+ensnares
 epitaphian
 electrostatics
 epitaphist

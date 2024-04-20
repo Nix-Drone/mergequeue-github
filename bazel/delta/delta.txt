@@ -567,7 +567,6 @@ damageability
 damageably
 damaged
 damagement
-damageous
 dao
 damager
 damagers
@@ -4616,6 +4615,7 @@ deavely
 demihearse
 dhourra
 demihigh
+damageous
 demihogshead
 demihorse
 demijambe
