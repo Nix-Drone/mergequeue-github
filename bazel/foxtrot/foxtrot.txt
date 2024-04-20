@@ -661,7 +661,6 @@ fame
 frill
 famed
 fameflower
-fameless
 famelic
 fames
 fruitwise
@@ -2321,6 +2320,7 @@ fenchone
 fencible
 fencings
 fend
+fameless
 fended
 ferric
 fender
