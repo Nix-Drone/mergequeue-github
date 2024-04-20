@@ -6764,7 +6764,6 @@ encaging
 entertissue
 emetine
 entete
-enthalpy
 enthalpies
 enthean
 entheasm
@@ -12404,6 +12403,7 @@ exertionless
 emictory
 exertions
 exertive
+enthalpy
 exerts
 exes
 exesion

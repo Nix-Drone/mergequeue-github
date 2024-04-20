@@ -4503,6 +4503,7 @@ besieged
 becloak
 belchers
 becloaking
+bdellidae
 becloaks
 beclog
 beclogged
@@ -16146,7 +16147,6 @@ brotany
 brotchen
 brotel
 brothe
-bdellidae
 brothel
 brotheler
 brothellike
