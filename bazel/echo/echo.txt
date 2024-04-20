@@ -5835,6 +5835,7 @@ engraver
 engravers
 engraves
 easts
+eastland
 engysseismology
 endophytous
 engravings
@@ -10330,7 +10331,6 @@ ethicians
 ethicism
 ethicist
 ethicize
-eastland
 ethicoaesthetic
 ethicophysical
 ethicopolitical
