@@ -6217,7 +6217,6 @@ deriving
 derma
 dermabrasion
 dermal
-drabness
 dermalgia
 dermalith
 dermamycosis
@@ -16421,6 +16420,7 @@ downwith
 dowp
 dowress
 dowry
+drabness
 dimensionality
 dows
 dowsabels
