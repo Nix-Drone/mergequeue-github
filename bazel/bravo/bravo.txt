@@ -59,7 +59,6 @@ babe
 babel
 bursters
 bolbonac
-babeldom
 babelet
 babelike
 babelish
@@ -9665,6 +9664,7 @@ bisimine
 bushily
 bisymmetric
 bisymmetrical
+babeldom
 bigg
 bisync
 bisinuation
