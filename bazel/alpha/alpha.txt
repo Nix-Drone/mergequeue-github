@@ -2113,7 +2113,6 @@ acetonation
 acetone
 acetonemia
 acetonemic
-acetones
 acetonic
 acetonyl
 acetonylacetone
@@ -6066,6 +6065,7 @@ aggravation
 aggravations
 aggravative
 aggravator
+acetones
 aggregable
 aggregant
 aggregata
