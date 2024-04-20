@@ -8332,6 +8332,7 @@ familiars
 forkiness
 forking
 forkless
+fullmouthed
 filiation
 fledging
 fertilizable
@@ -10939,7 +10940,6 @@ fertilely
 frison
 fully
 fullmouth
-fullmouthed
 floatage
 forworden
 fullom
