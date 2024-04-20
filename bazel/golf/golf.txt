@@ -6057,7 +6057,6 @@ gliocyte
 glucokinin
 gravimetric
 glucolipid
-glucolipide
 glucolipin
 glaizie
 gamogony
@@ -6604,6 +6603,7 @@ goldang
 goldarned
 goldbeater
 goldbeating
+glucolipide
 gigglers
 gregorian
 gouger
