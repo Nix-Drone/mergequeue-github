@@ -4327,6 +4327,7 @@ emulsions
 emulsoid
 emulsoidal
 emulsoids
+exchanger
 emunct
 enteropathogenic
 emunctory
@@ -7813,7 +7814,6 @@ epididymite
 epididymodeferentectomy
 embosom
 epididymodeferential
-exchanger
 epidymides
 embowelled
 epidiorite
