@@ -3368,7 +3368,6 @@ capsizal
 capsize
 capsized
 capsizes
-capsizing
 capsomer
 capsomere
 capsomers
@@ -3955,6 +3954,7 @@ cardiacea
 cardiacean
 cardiacle
 cardiacs
+capsizing
 cardiagra
 cardiagram
 carcinomorphic
