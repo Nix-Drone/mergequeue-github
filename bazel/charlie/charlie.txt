@@ -6392,6 +6392,7 @@ cavekeeper
 cavelet
 cavelike
 catlin
+checkweighman
 caveman
 cavemen
 cavendish
@@ -9571,7 +9572,6 @@ checksumming
 checkup
 checkups
 checkweigher
-checkweighman
 checkweighmen
 checkwork
 checkwriter
