@@ -1615,7 +1615,6 @@ deamidase
 deamidation
 deamidization
 deaminase
-deaminate
 deaminated
 deaminating
 durango
@@ -16997,6 +16996,7 @@ duppy
 dreks
 drenched
 drencher
+deaminate
 drenchers
 drenches
 drenching
