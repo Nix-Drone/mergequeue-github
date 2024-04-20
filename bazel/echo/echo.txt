@@ -4849,7 +4849,6 @@ ectoparasitic
 encountered
 encounterer
 entitlement
-encounterers
 encountering
 encourage
 encouraged
@@ -11276,6 +11275,7 @@ evadable
 evade
 evaded
 evader
+encounterers
 electroergometer
 electroballistics
 extratubal
