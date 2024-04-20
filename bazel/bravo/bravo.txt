@@ -10988,6 +10988,7 @@ bismuthic
 blockboard
 blockbusters
 birefractive
+breakable
 basketball
 blockbusting
 blocked
@@ -14789,7 +14790,6 @@ breaghe
 break
 breakability
 bronchoesophagoscopy
-breakable
 bullwhip
 breakableness
 breakables
