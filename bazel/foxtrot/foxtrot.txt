@@ -1690,7 +1690,6 @@ four
 fdnames
 fdtype
 fdub
-fdubs
 fortuitousness
 fe
 feaberry
@@ -2957,6 +2956,7 @@ feuilletons
 figurate
 feuing
 fleches
+fdubs
 feulamort
 formulary
 freezed
