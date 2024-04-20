@@ -14133,7 +14133,6 @@ antedorsal
 antefact
 antefix
 antefixa
-anaesthyl
 anteflected
 anteflexed
 anteflexion
@@ -23569,6 +23568,7 @@ auricularias
 antirent
 auricularis
 alowe
+anaesthyl
 auriculars
 auriculas
 auriculated
