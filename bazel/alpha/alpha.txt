@@ -2095,6 +2095,7 @@ acetize
 acetla
 acetmethylanilide
 acetnaphthalide
+augerer
 acetoacetanilide
 acetoacetate
 acetoacetic
@@ -23368,7 +23369,6 @@ augend
 adders
 augends
 auger
-augerer
 augers
 auget
 augh
