@@ -530,7 +530,6 @@ backstretches
 butomaceous
 backstring
 backstroke
-backstrokes
 backstromite
 backswept
 backswimmer
@@ -10958,6 +10957,7 @@ blksize
 bunts
 blo
 bloat
+backstrokes
 bloated
 benefactorship
 bloatedness
