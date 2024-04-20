@@ -5417,7 +5417,6 @@ genomes
 glistens
 glycerins
 glycerite
-glycerize
 grotesquerie
 glycerizin
 glycerol
@@ -10061,6 +10060,7 @@ guerite
 guerites
 guernsey
 guerre
+glycerize
 guerrila
 guerrilla
 guerrillaism
