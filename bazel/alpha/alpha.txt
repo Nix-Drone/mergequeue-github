@@ -4255,7 +4255,6 @@ adoperation
 adopt
 adoptability
 adoptabilities
-adoptable
 adoptant
 armorers
 adoptative
@@ -17834,6 +17833,7 @@ applicable
 androgonia
 applicableness
 applicably
+adoptable
 applicancy
 amintor
 asilid
