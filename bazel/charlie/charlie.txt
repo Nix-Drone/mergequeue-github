@@ -7013,7 +7013,6 @@ centaurus
 centavo
 centavos
 centena
-centenar
 centenary
 comptonia
 centenaries
@@ -14228,6 +14227,7 @@ circulative
 carotte
 catatonia
 circulator
+centenar
 circulatory
 circulatories
 circulators
