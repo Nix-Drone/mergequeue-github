@@ -8301,6 +8301,7 @@ chalcis
 chalcites
 chalcocite
 chalcogen
+counterbuff
 chalcogenide
 cheapishly
 chalcograph
@@ -26680,7 +26681,6 @@ counterbracing
 counterbranch
 counterbrand
 counterbreastwork
-counterbuff
 counterbuilding
 countercathexis
 countercause
