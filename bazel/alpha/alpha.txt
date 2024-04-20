@@ -4957,6 +4957,7 @@ aerodrome
 aerodromes
 acetyltannin
 aeroduct
+auge
 aeroducts
 aeroelastic
 aeroelasticity
@@ -23363,7 +23364,6 @@ aufgabe
 auftakt
 aug
 auganite
-auge
 augend
 adders
 augends
