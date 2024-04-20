@@ -2816,7 +2816,6 @@ genipaps
 genyplasty
 genips
 genisaro
-genista
 goofier
 goggan
 groundskeep
@@ -5548,6 +5547,7 @@ glinse
 gesten
 granularity
 gregory
+genista
 glint
 grandmotherliness
 glinting
