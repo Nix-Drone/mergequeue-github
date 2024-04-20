@@ -3898,7 +3898,6 @@ extrabulbar
 emetomorphine
 emeu
 engladden
-emeutes
 emf
 emulator
 emforth
@@ -6552,6 +6551,7 @@ entailer
 eggy
 entailments
 entails
+emeutes
 entalent
 entally
 eaglet
