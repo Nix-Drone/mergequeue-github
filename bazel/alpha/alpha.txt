@@ -1809,7 +1809,6 @@ accumulator
 accupy
 accur
 accuracy
-accuracies
 accurately
 approvement
 affliction
@@ -14390,6 +14389,7 @@ anthesterin
 anthesterion
 anthicidae
 anthill
+accuracies
 anthills
 anthinae
 anthine
