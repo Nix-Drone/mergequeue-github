@@ -4352,7 +4352,6 @@ beaverroot
 beavers
 beaverskin
 beaverteen
-bared
 beaverwood
 beback
 bebay
@@ -16670,6 +16669,7 @@ buckle
 befallen
 buckled
 buckleya
+bared
 bebilya
 buckleless
 buckler
