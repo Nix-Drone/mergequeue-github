@@ -6586,7 +6586,6 @@ bequeathal
 bequeathed
 bequeather
 bequeathing
-brawled
 bequeaths
 bequest
 bequests
@@ -10123,6 +10122,7 @@ bibasic
 bassing
 blackfriars
 blackguard
+brawled
 bos
 blackguardize
 bibbling
