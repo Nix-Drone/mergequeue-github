@@ -4329,6 +4329,7 @@ forb
 fisetin
 fish
 fishability
+forbar
 fishable
 fishback
 fishberry
@@ -6518,7 +6519,6 @@ flustrating
 flustration
 flustrine
 flustroid
-forbar
 figurally
 flutebird
 foils
