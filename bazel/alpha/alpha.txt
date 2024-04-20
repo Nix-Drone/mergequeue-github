@@ -3550,7 +3550,6 @@ allegation
 addlehead
 addleheaded
 addleheadedness
-addlement
 addleness
 addlepate
 addlepated
@@ -10718,6 +10717,7 @@ ammocete
 ammocetes
 ammochaeta
 ammochaetae
+addlement
 ammocoete
 ammocoetes
 ammocoetid
