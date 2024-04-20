@@ -2606,7 +2606,6 @@ electropuncture
 electroreceptive
 electroreduction
 electrorefine
-electrorefining
 electroresection
 ecophobia
 erectly
@@ -7218,6 +7217,7 @@ envoys
 envoyship
 envolume
 envolupen
+electrorefining
 enwall
 enwallow
 enweave
