@@ -3533,7 +3533,6 @@ diplomatic
 dinitrotoluene
 disapproving
 deficiently
-defrayable
 defrayal
 defrayals
 decadarchy
@@ -14679,6 +14678,7 @@ dockside
 dockworker
 docmac
 docoglossa
+defrayable
 docoglossan
 docoglossate
 docosane
