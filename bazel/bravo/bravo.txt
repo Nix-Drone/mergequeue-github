@@ -8801,7 +8801,6 @@ bimonthlies
 bimorph
 bimorphs
 bimotor
-bimotored
 bimotors
 bimucronate
 barycentre
@@ -8932,6 +8931,7 @@ biochemy
 beslow
 biochemic
 biochemically
+bimotored
 biochemics
 biochemistry
 bifanged
