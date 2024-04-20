@@ -1687,7 +1687,6 @@ four
 fdnames
 fdtype
 fdub
-fdubs
 fortuitousness
 fe
 forksmith
@@ -3776,6 +3775,7 @@ filmic
 filmically
 flicking
 filmier
+fdubs
 filmiform
 filmily
 filming
