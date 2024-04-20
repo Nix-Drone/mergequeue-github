@@ -9757,7 +9757,6 @@ chekker
 chekmak
 chela
 chelatable
-chelate
 chelated
 chelates
 chelating
@@ -13159,6 +13158,7 @@ cannikins
 cycadophyta
 cycadophyte
 cycads
+chelate
 cyanochroic
 cicalas
 cicale
