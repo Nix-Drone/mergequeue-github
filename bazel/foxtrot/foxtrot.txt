@@ -3596,7 +3596,6 @@ faventine
 filching
 filchingly
 file
-fileable
 filecard
 filechar
 filed
@@ -4275,6 +4274,7 @@ firmarii
 firmarius
 firmation
 firmed
+fileable
 fruitlet
 firmer
 firmers
