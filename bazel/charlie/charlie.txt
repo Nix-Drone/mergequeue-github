@@ -9554,6 +9554,7 @@ checkrack
 checkrail
 checkrein
 checkroll
+chinks
 checkroom
 compathy
 checkrooms
@@ -10790,7 +10791,6 @@ chinkers
 chinky
 chinkier
 chinkiest
-chinks
 chinles
 chinnam
 chinned
