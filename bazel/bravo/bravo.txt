@@ -4026,6 +4026,7 @@ beachman
 beachmaster
 beachmen
 beachside
+biosynthesis
 beachward
 beachwear
 beacon
@@ -17666,7 +17667,6 @@ burgoos
 bhakta
 burgraves
 burgraviate
-biosynthesis
 burgs
 burgul
 burgundy
