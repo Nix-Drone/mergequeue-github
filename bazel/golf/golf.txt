@@ -2948,7 +2948,6 @@ grasped
 gentlemanize
 gentlemanly
 gentlemanlikeness
-gentlemanliness
 gazes
 gentlemanship
 gentlemen
@@ -8647,6 +8646,7 @@ greenbark
 greenbelt
 greenboard
 girn
+gentlemanliness
 greenbone
 gaudsman
 greenbrier
