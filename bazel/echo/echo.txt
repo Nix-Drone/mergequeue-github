@@ -1118,7 +1118,6 @@ edibles
 edict
 edictal
 edictally
-edicts
 edictum
 edicule
 edify
@@ -5063,6 +5062,7 @@ enamelled
 elan
 endoauscultation
 endobatholithic
+edicts
 endobiotic
 endoblast
 endoblastic
