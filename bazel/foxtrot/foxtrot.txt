@@ -2960,7 +2960,6 @@ formulary
 freezed
 faradising
 feus
-fever
 feverberry
 feverberries
 feverbush
@@ -7302,6 +7301,7 @@ forage
 facers
 foraged
 fluttery
+fever
 foragement
 forager
 foraging

@@ -3009,7 +3009,6 @@ caparisoning
 caparisons
 capataces
 capataz
-capax
 capcase
 cape
 capeadores
@@ -28441,6 +28440,7 @@ creaturely
 creatureliness
 creatureling
 creatures
+capax
 carapo
 creatureship
 creaturize
