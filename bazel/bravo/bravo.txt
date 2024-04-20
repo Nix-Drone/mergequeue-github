@@ -2955,7 +2955,6 @@ barrelhouses
 besmearer
 barreling
 broad
-barrelled
 brattle
 barrelmaker
 barrelmaking
@@ -13716,6 +13715,7 @@ bowden
 bowdichia
 bowditch
 blathering
+barrelled
 bowdlerisation
 bestializes
 bowdlerise
