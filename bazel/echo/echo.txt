@@ -454,7 +454,6 @@ eccl
 eccles
 entropies
 ecclesia
-ecclesiarch
 ecclesiarchy
 esthetician
 ecclesiast
@@ -13146,6 +13145,7 @@ explained
 explainer
 explainers
 explaining
+ecclesiarch
 explainingly
 explanate
 explanation
