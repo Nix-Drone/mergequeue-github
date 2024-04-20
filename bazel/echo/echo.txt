@@ -4425,7 +4425,6 @@ egomaniac
 engagee
 enantiomer
 enantiomeric
-enantiomorph
 enantiomorphy
 enantiomorphic
 enantiomorphous
@@ -6337,6 +6336,7 @@ ens
 ensafe
 elenchtic
 ensampler
+enantiomorph
 ensamples
 ensanguine
 ensanguining
