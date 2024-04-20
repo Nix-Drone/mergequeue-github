@@ -6320,7 +6320,6 @@ enrut
 ens
 ensafe
 elenchtic
-ensampler
 ensamples
 ensanguine
 ensanguining
@@ -9128,6 +9127,7 @@ erythematous
 erythemic
 erythorbate
 eutheria
+ensampler
 erythraea
 enfant
 erythraean
