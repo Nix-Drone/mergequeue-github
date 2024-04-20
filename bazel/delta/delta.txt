@@ -15828,7 +15828,6 @@ dorsoanterior
 dorsoapical
 dorsocaudad
 dorsocentral
-diminishing
 dorsocephalad
 dorsocephalic
 dorsocervical
@@ -17437,6 +17436,7 @@ dropwort
 diachylum
 droschken
 downstream
+diminishing
 droseraceae
 droseraceous
 droseras
