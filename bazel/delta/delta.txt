@@ -2470,7 +2470,6 @@ daphnioid
 deckhand
 deckhead
 deckhouse
-decking
 deckle
 deckman
 deckpipe
@@ -6371,6 +6370,7 @@ dernier
 dernly
 dero
 devolvement
+decking
 derodidymus
 derog
 derogate
