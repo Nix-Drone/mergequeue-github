@@ -3985,7 +3985,6 @@ adjoiningness
 adjoins
 adjoint
 adjoints
-adjourn
 adjournal
 aitkenite
 adjourned
@@ -20745,6 +20744,7 @@ artiller
 artillery
 artilleries
 avodire
+adjourn
 artilleryman
 artillerymen
 artilleryship
