@@ -2500,6 +2500,7 @@ engines
 echoist
 electromagnetics
 evacuation
+excitement
 electromagnetism
 electromagnetist
 escalloping
@@ -4640,7 +4641,6 @@ extension
 enchanted
 euthycomic
 enchanter
-excitement
 enchantery
 enchanters
 enchanting
