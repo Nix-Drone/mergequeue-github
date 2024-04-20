@@ -10567,7 +10567,6 @@ disney
 doryman
 diploidize
 diploids
-diplokaryon
 diploma
 diplomaed
 diplomaing
@@ -13429,6 +13428,7 @@ disrupts
 diss
 dissait
 dissatisfaction
+diplokaryon
 dissatisfactions
 dissatisfactory
 dissatisfactorily
