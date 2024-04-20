@@ -4112,7 +4112,6 @@ giantlike
 gravels
 gilds
 gildship
-gildsman
 gildsmen
 gasan
 gilenyer
@@ -10753,6 +10752,7 @@ gaylussacia
 gasconader
 guttated
 guttation
+gildsman
 gutted
 guttee
 gutter
