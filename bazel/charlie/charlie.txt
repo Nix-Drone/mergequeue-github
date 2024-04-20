@@ -9925,7 +9925,6 @@ christenhead
 chemostat
 collateral
 cancers
-chemosterilants
 chemosurgery
 chemosurgical
 chemotactic
@@ -28212,6 +28211,7 @@ champlain
 cratches
 cratchins
 crate
+chemosterilants
 crated
 cytotoxicity
 crateful
