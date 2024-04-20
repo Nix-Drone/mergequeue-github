@@ -6496,7 +6496,6 @@ flush
 flushboard
 flushed
 flushers
-flushest
 face
 flushgate
 flushy
@@ -9765,6 +9764,7 @@ freezingly
 fregata
 fortitude
 fregit
+flushest
 fendable
 frey
 freya
