@@ -13320,7 +13320,6 @@ bothrops
 bothsided
 bothsidedness
 boththridia
-bothway
 byth
 boti
 botling
@@ -14421,6 +14420,7 @@ branch
 branchage
 branchellion
 brancher
+bothway
 branchery
 branches
 beadle
