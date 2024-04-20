@@ -2473,6 +2473,7 @@ decker
 deckhand
 deckhead
 deckhouse
+diphysite
 decking
 deckle
 deckman
@@ -10415,7 +10416,6 @@ diphylla
 diphylleia
 diphyllobothrium
 diphyllous
-diphysite
 diphysitism
 diphyzooid
 dyphone
