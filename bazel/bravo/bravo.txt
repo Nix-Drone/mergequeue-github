@@ -7567,7 +7567,6 @@ bookbinder
 bevenom
 bever
 beverage
-beverages
 beverse
 bevesseled
 brinks
@@ -11526,6 +11525,7 @@ boanthropy
 board
 boardbill
 boarded
+beverages
 boarder
 boarders
 boardy
