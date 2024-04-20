@@ -11641,6 +11641,7 @@ cholesterinuria
 cholesterol
 cholesterolemia
 cholesteroluria
+conepatls
 cholesterosis
 choletelin
 choletherapy
@@ -21776,7 +21777,6 @@ conenose
 conenoses
 conepates
 conepatl
-conepatls
 coner
 circumnutatory
 counterpaly
