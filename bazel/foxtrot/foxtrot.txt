@@ -4436,6 +4436,7 @@ fissile
 fissilinguia
 formatting
 fissility
+formatter
 fission
 fissionable
 fissioned
@@ -4550,7 +4551,6 @@ farcie
 fitchew
 fixedly
 fitful
-formatter
 fitfully
 fitified
 fitness
