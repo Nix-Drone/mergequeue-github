@@ -1998,6 +1998,7 @@ decayers
 diarial
 decaying
 decayless
+demideify
 dextrans
 decays
 defaced
@@ -18437,7 +18438,6 @@ denat
 dur
 dubitative
 durabilities
-demideify
 durableness
 durables
 durably
