@@ -2481,7 +2481,6 @@ dulls
 deckswabber
 decl
 declaim
-dichorisandra
 declaimant
 declaimer
 declaimers
@@ -3784,6 +3783,7 @@ decaudate
 dehumanised
 dehumanising
 deems
+dichorisandra
 dehumanization
 dehumanize
 dehumanized
