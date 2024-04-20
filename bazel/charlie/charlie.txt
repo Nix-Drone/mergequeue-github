@@ -7055,6 +7055,7 @@ centerless
 centerline
 centermost
 centerpiece
+churches
 centerpieces
 codex
 centerpunch
@@ -12819,7 +12820,6 @@ church
 churchcraft
 churchdom
 churched
-churches
 chondrocranium
 churchful
 cursus
