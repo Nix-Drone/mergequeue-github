@@ -4152,6 +4152,7 @@ automaton
 admissively
 alibi
 antiperistasis
+aiglet
 admissory
 admit
 admits
@@ -6697,7 +6698,6 @@ ayes
 aigialosaur
 aigialosauridae
 aigialosaurus
-aiglet
 antsy
 aiglets
 aiglette
