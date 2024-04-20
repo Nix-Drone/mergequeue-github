@@ -4081,6 +4081,7 @@ featherbrain
 fattable
 fellatrixes
 fletching
+flatfooted
 finnish
 finnmark
 finnochio
@@ -8657,7 +8658,6 @@ fortescure
 forth
 forthby
 forthbring
-flatfooted
 forthbringing
 fopdoodle
 forthcame
