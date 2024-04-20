@@ -7492,7 +7492,6 @@ foreact
 foreadmonish
 false
 flashpan
-fitly
 foreadvertise
 fractionlet
 foreadvice
@@ -8293,6 +8292,7 @@ furnished
 furnaceman
 ferriage
 felonous
+fitly
 farcical
 forints
 forisfamiliate
