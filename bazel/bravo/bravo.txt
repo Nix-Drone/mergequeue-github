@@ -5349,6 +5349,7 @@ buyable
 benchboard
 begray
 begrain
+branchiostoma
 begrave
 birne
 begrett
@@ -14471,7 +14472,6 @@ branchiostegal
 branchiostegan
 branchiostege
 branchiostegidae
-branchiostoma
 branchiostomid
 branchiostomous
 branchipodidae
