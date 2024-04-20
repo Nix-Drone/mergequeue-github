@@ -12941,7 +12941,6 @@ bordereau
 bowstaff
 bordered
 borderer
-borderers
 bordering
 borderings
 borders
@@ -15409,6 +15408,7 @@ bindheimite
 brimly
 breakdowns
 balantidial
+borderers
 brimmed
 brimmer
 besom
