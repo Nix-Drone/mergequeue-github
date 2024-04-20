@@ -1300,6 +1300,7 @@ damageable
 dauncy
 doxantha
 daunder
+dorsilateral
 departure
 daundered
 daundering
@@ -15802,7 +15803,6 @@ dorsiflexion
 discussionist
 dorsigrade
 deuteron
-dorsilateral
 dorsimeson
 deinodon
 dorsiparous
