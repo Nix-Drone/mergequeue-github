@@ -4032,6 +4032,7 @@ beaconless
 business
 beacons
 beaded
+bequirtle
 beadeye
 beadeyes
 banderols
@@ -4598,7 +4599,6 @@ bed
 bedabble
 bedabbled
 bedabbles
-bequirtle
 bedabbling
 bedad
 bladeless
