@@ -4594,7 +4594,6 @@ bondland
 becurse
 becursed
 becurses
-becursing
 becurst
 becurtained
 becushioned
@@ -13632,6 +13631,7 @@ bourne
 bournes
 bourns
 bourock
+becursing
 bourout
 bourr
 bourran
