@@ -3614,7 +3614,6 @@ filer
 fanons
 filers
 files
-feture
 frailly
 filesmith
 filesniff
@@ -7661,6 +7660,7 @@ forefield
 frigidities
 foreorlop
 forefigure
+feture
 forefin
 forefinger
 forjudged
