@@ -2399,6 +2399,7 @@ escalation
 electrodes
 electrodesiccation
 electrodiagnosis
+exceptional
 entoblast
 electrodiagnostic
 electrodiagnostically
@@ -11961,7 +11962,6 @@ exception
 exceptionability
 exceptionably
 eyeglass
-exceptional
 exceptionality
 exceptionally
 exceptionary
