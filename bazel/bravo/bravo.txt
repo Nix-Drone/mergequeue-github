@@ -6918,7 +6918,6 @@ bescorn
 bescoundrel
 bescour
 bari
-barhal
 bescourge
 bescours
 bescramble
@@ -15219,6 +15218,7 @@ bridechamber
 bridecup
 befoulier
 bridegroom
+barhal
 bridegrooms
 banditries
 bipaliidae
