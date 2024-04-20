@@ -5261,7 +5261,6 @@ affectation
 affectations
 affected
 affectedly
-apheliotropism
 affecter
 affecters
 affectibility
@@ -8777,6 +8776,7 @@ allocations
 amyosthenia
 aqueoglacial
 allocator
+apheliotropism
 allocators
 allocatur
 antimasonic
