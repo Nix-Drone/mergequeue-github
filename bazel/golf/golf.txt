@@ -4793,7 +4793,6 @@ gonake
 gra
 gyron
 gironde
-girondin
 gentrice
 gironny
 gyronny
@@ -9485,6 +9484,7 @@ gynophoric
 grouper
 gynecology
 groupers
+girondin
 glycolipin
 grouping
 grouplet
