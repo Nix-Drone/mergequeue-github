@@ -11582,6 +11582,7 @@ boating
 boatings
 boation
 boatkeeper
+bodyplate
 bittacle
 boatless
 beclamoring
@@ -16396,7 +16397,6 @@ bises
 brushmaking
 bots
 brushman
-bodyplate
 byrling
 brushoff
 brushoffs
