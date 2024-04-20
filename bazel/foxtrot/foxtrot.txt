@@ -5836,7 +5836,6 @@ flocculable
 fangas
 flocculation
 flatnose
-flocculator
 forts
 fencing
 floccule
@@ -6802,6 +6801,7 @@ fokker
 fol
 folacin
 folacins
+flocculator
 folate
 folates
 folcgemot
