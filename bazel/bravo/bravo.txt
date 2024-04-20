@@ -6550,7 +6550,6 @@ big
 bepicture
 bepiece
 bellyflaught
-bepierce
 bepile
 beacher
 bepill
@@ -11636,6 +11635,7 @@ bobbin
 bobbiner
 bobbinet
 bobbinets
+bepierce
 bobbing
 bobbinite
 bobbins
