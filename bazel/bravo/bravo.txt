@@ -3162,7 +3162,6 @@ baseplate
 bonnetmen
 branchway
 baseplug
-basepoint
 baser
 baserunning
 brember
@@ -6731,6 +6730,7 @@ berigora
 beryl
 berylate
 beltways
+basepoint
 bitemporal
 beryline
 beryllate
