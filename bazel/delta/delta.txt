@@ -3384,6 +3384,7 @@ domesticable
 disoccupied
 definitising
 definitive
+deserter
 definitively
 delaying
 definitiveness
@@ -6589,7 +6590,6 @@ deperming
 desert
 deserted
 desertedly
-deserter
 deserters
 desertful
 deviants
