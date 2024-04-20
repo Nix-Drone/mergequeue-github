@@ -3920,7 +3920,6 @@ carcinomatoid
 carcinomatosis
 cholers
 carcinomatous
-carcinomorphic
 carcinophagous
 carcinopolypus
 carcinosarcoma
@@ -3958,6 +3957,7 @@ cardiacle
 cardiacs
 cardiagra
 cardiagram
+carcinomorphic
 cardiagraph
 cardiagraphy
 cardial
