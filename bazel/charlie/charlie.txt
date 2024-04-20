@@ -18358,7 +18358,6 @@ cogways
 cogweel
 cogweels
 capelets
-cogwheels
 cogwood
 cohabitancy
 cohabitant
@@ -21845,6 +21844,7 @@ conferences
 conferencing
 conferential
 conferment
+cogwheels
 conferrable
 conferral
 conferred
