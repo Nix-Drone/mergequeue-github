@@ -6474,7 +6474,6 @@ benzonitrile
 benzonitrol
 benzoperoxide
 benzophenanthrazine
-benzophenazine
 benzophenol
 benzophenone
 benzophenothiazine
@@ -10544,6 +10543,7 @@ blazers
 blazes
 blazy
 blazing
+benzophenazine
 blazingly
 blazoned
 blazoner
