@@ -1709,7 +1709,6 @@ deathlike
 deathlikeness
 dustwoman
 deathliness
-deathrate
 deathrates
 diagrydium
 deaths
@@ -10550,6 +10549,7 @@ diplococcus
 diplocoria
 diplodocus
 diplodocuses
+deathrate
 diplodus
 diploe
 diploes
