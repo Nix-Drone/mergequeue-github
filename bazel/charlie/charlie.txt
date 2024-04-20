@@ -7502,7 +7502,6 @@ ceraunograph
 ceraunomancy
 costmary
 ceraunophone
-ceraunoscope
 ceraunoscopy
 cerberic
 cerberus
@@ -25743,6 +25742,7 @@ corrosibleness
 corrosional
 corrosionproof
 corrosive
+ceraunoscope
 corrosived
 corrosively
 corrosiveness
