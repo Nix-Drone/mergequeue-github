@@ -10192,6 +10192,7 @@ beastdom
 blacksmiths
 blacksnake
 blackstick
+burghbote
 baneful
 blacktail
 bliaut
@@ -17626,7 +17627,6 @@ burggrave
 burgh
 burghal
 burghalpenny
-burghbote
 burgher
 burgherage
 beguine
