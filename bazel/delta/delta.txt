@@ -1715,6 +1715,7 @@ deathsman
 deathsmen
 depaysee
 deathtime
+disinvolvement
 deathtrap
 deathtraps
 deathward
@@ -12541,7 +12542,6 @@ disinvest
 deepfroze
 disinvite
 dargsman
-disinvolvement
 disyoked
 disyokes
 demogorgon
