@@ -4807,7 +4807,6 @@ carroting
 congregants
 carrotins
 carrotweed
-carrotwood
 carrousel
 carrousels
 carrow
@@ -13233,6 +13232,7 @@ climbable
 cyclamates
 cyclamen
 cyclamens
+carrotwood
 cyclamin
 cyclamine
 cyclammonium
