@@ -9557,7 +9557,6 @@ compathy
 checkrooms
 checkrope
 checkrow
-checkrowed
 checkrower
 checkrowing
 consummatively
@@ -19138,6 +19137,7 @@ colloquiquiums
 cataracteg
 colloquium
 ctenoidian
+checkrowed
 colloquiums
 colloquizing
 colloququia
