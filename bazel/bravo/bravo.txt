@@ -11585,7 +11585,6 @@ boatings
 boation
 boatkeeper
 bittacle
-boatless
 beclamoring
 boxball
 boatlike
@@ -11597,6 +11596,7 @@ boatloading
 baske
 boatloads
 boatman
+boatless
 beigy
 boatmanship
 boatmaster
