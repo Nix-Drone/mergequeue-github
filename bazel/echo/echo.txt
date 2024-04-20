@@ -296,7 +296,6 @@ eat
 eagerer
 eatability
 eatable
-eatableness
 eatables
 electrolyzability
 eatberry
@@ -13282,6 +13281,7 @@ entireties
 epigenesis
 exporting
 exports
+eatableness
 easier
 exposable
 emotionalising
