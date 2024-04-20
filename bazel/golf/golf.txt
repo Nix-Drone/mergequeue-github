@@ -488,7 +488,6 @@ galenoid
 guardedly
 galeod
 galeodes
-galeodidae
 galeoid
 gnapweed
 galeopsis
@@ -8663,6 +8662,7 @@ gambit
 garrets
 greenfinch
 greenfish
+galeodidae
 greenfly
 goniometrically
 greengill
