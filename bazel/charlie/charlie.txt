@@ -7908,6 +7908,7 @@ cessionary
 cessionee
 cessment
 cessor
+countermission
 cesspipe
 cesspit
 cesspits
@@ -26891,7 +26892,6 @@ countermigration
 countermine
 cotonier
 countermined
-countermission
 coinfeftment
 countermotion
 countermount
