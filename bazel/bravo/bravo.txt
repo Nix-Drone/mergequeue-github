@@ -514,7 +514,6 @@ backstairs
 backstays
 backster
 backstick
-backstitch
 backstitched
 backstitches
 backstitching
@@ -10330,6 +10329,7 @@ burgrave
 blankest
 blanket
 blanketed
+backstitch
 blanketeer
 beetmister
 blanketer
