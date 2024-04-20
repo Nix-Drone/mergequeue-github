@@ -436,7 +436,6 @@ boskets
 backrush
 backrushes
 backsaws
-backscatter
 backscattered
 backscattering
 backscraper
@@ -3637,6 +3636,7 @@ bathmats
 bereaven
 bathmism
 bathmotropism
+backscatter
 bathochromatism
 bathochrome
 bathochromy
