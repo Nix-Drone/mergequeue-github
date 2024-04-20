@@ -4301,6 +4301,7 @@ firns
 firoloida
 flammability
 facia
+furlongs
 first
 fylker
 forbearer
@@ -11417,7 +11418,6 @@ firbolg
 furler
 furlers
 furlong
-furlongs
 fiasco
 fluoroscope
 furloughed
