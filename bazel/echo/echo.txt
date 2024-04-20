@@ -3718,7 +3718,6 @@ embryotome
 embryotomies
 embryotrophe
 embryotrophy
-embrittle
 embrittled
 embrittling
 embryulci
@@ -8532,6 +8531,7 @@ epotation
 epoxy
 epoxides
 epoxidize
+embrittle
 epoxied
 epoxyed
 epoxies
