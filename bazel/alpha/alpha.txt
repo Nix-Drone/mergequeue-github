@@ -17137,7 +17137,6 @@ apocarpy
 apocarpous
 apocarps
 apocatastasis
-apocatastatic
 apocentre
 apocentric
 apocentricity
@@ -22405,6 +22404,7 @@ atangle
 alchitran
 atar
 allegretto
+apocatastatic
 ataractic
 ataraxy
 ataraxia
