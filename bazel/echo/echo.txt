@@ -8549,7 +8549,6 @@ epulis
 epulo
 epuloid
 epulosis
-epulotic
 epural
 epuration
 eq
@@ -10802,6 +10801,7 @@ euglenaceae
 euglenales
 ensigning
 euglenas
+epulotic
 euglenineae
 euglenoid
 epistrophic
