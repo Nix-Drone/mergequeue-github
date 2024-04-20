@@ -5636,6 +5636,7 @@ depel
 depencil
 depend
 dependability
+deadhead
 dependabilities
 dependableness
 dependably
@@ -17992,7 +17993,6 @@ dulcian
 dulcianas
 descaled
 disincline
-deadhead
 dulcid
 dulcify
 dulcification
