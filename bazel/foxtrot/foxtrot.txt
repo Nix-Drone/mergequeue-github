@@ -103,6 +103,7 @@ faciation
 forequoted
 facie
 freeport
+fibroelastic
 faciend
 faciends
 facient
@@ -3124,7 +3125,6 @@ fibrocyst
 fibrocystoma
 fibrocyte
 fibrocytic
-fibroelastic
 floatiness
 fibroenchondroma
 fibroferrite
