@@ -3853,7 +3853,6 @@ carburise
 carburised
 carburiser
 carburization
-carburize
 carburized
 carburizer
 carburizes
@@ -9038,6 +9037,7 @@ charlatan
 charlatanic
 charlatanical
 charlatanish
+carburize
 charlatanism
 charlatanistic
 charlatanry
