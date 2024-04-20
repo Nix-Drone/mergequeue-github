@@ -9198,7 +9198,6 @@ frusta
 frache
 function
 fracid
-fract
 fouls
 forklike
 fractal
@@ -11136,6 +11135,7 @@ fungibles
 functioned
 functioning
 functionize
+fract
 functionlessness
 functionnaire
 fumosity
