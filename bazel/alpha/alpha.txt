@@ -3676,7 +3676,6 @@ adenochondrosarcoma
 adenochrome
 adenocyst
 adenocystoma
-antepectoral
 adenocystomatous
 adenodermia
 adenodynia
@@ -20482,6 +20481,7 @@ arterial
 arterialise
 arterialization
 arterialize
+antepectoral
 arterialized
 arterially
 acrothoracica
