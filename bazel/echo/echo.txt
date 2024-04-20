@@ -5328,7 +5328,6 @@ endomorphism
 endosomes
 endospermic
 endospermous
-endospore
 endosporic
 encharm
 endows
@@ -10251,6 +10250,7 @@ electrophoresed
 ether
 etherate
 etherealisation
+endospore
 etherealise
 etherealised
 etherealising
