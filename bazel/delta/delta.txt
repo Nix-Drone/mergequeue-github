@@ -2628,7 +2628,6 @@ decoloriser
 decolorising
 dispose
 decolorization
-decolorized
 decolorizer
 decolors
 decolour
@@ -10312,6 +10311,7 @@ dioptric
 dioptrical
 dioptrics
 deaning
+decolorized
 dioptrometry
 dioptroscopy
 diorama
