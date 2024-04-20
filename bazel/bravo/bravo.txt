@@ -1402,7 +1402,6 @@ balderdash
 blithebread
 baldest
 broadhearted
-baldfaced
 baldhead
 baldheaded
 baldheads
@@ -8645,6 +8644,7 @@ billboards
 billbroking
 billbug
 biller
+baldfaced
 billers
 beast
 billet
