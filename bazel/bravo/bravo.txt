@@ -6587,7 +6587,6 @@ bepuzzlement
 bequalm
 bequeath
 bequeathal
-bequeathed
 bequeather
 bequeathing
 brawled
@@ -15971,6 +15970,7 @@ bronchoegophony
 bronchogenic
 baghouse
 benamed
+bequeathed
 bronchography
 bronchographic
 bronchohemorrhagia
