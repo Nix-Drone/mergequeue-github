@@ -5064,6 +5064,7 @@ fructure
 foodservices
 flashtube
 flashtubes
+fusobteria
 fanterie
 flask
 ferricyanhydric
@@ -10216,7 +10217,6 @@ frivolized
 frivolizing
 frivoller
 frivolling
-fusobteria
 frivolous
 frivolousness
 frivols
