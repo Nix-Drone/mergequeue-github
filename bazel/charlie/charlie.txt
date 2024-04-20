@@ -18069,6 +18069,7 @@ coequates
 coequation
 coerce
 coerceable
+carapaced
 coerced
 condylarth
 coercement
@@ -28453,7 +28454,6 @@ creche
 creda
 credal
 creddock
-carapaced
 credences
 credencive
 credenciveness
