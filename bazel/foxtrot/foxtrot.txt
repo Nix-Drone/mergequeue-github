@@ -2461,7 +2461,6 @@ fermatas
 fermate
 fleshed
 ferme
-familarity
 fullymart
 forespeed
 ferment
@@ -2592,6 +2591,7 @@ ferring
 frowziness
 ferriprussiate
 fribblery
+familarity
 ferrites
 frailties
 ferritic
