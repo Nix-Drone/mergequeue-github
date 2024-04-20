@@ -1672,7 +1672,6 @@ accordions
 accords
 accorporate
 accorporation
-accost
 accosted
 accosting
 accosts
@@ -22291,6 +22290,7 @@ astrologists
 astrologize
 astrologous
 astromancer
+accost
 astromancy
 astromantic
 astromeda
