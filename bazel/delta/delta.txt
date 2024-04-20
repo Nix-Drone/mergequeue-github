@@ -1985,7 +1985,6 @@ decagrams
 decahedra
 decahedral
 decahedron
-damageableness
 decahedrons
 decahydrate
 decahydronaphthalene
@@ -9131,6 +9130,7 @@ didnt
 dido
 didodecahedral
 didodecahedron
+damageableness
 didoes
 didonia
 didos
