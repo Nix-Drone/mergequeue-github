@@ -10403,7 +10403,6 @@ armenians
 algenib
 amido
 amidoacetal
-amidoacetic
 amidoacetophenone
 amidoaldehyde
 amidoazo
@@ -24242,6 +24241,7 @@ autonegation
 autonephrotoxin
 autonetics
 autoneurotoxin
+amidoacetic
 autonym
 autonitridation
 autonoetic
