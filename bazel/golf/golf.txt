@@ -1952,7 +1952,6 @@ guariba
 gatewise
 gatewoman
 gatherable
-gathered
 gilgai
 gatherers
 graplins
@@ -6327,6 +6326,7 @@ gyre
 gnomoniaceae
 gnomonology
 gnomonological
+gathered
 germanious
 gnosiology
 gnosiological
