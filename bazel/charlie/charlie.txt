@@ -13637,6 +13637,7 @@ costaea
 cedarn
 cymbaler
 cymbalers
+curves
 cymbalist
 cymbalists
 cymballed
@@ -24406,7 +24407,6 @@ coos
 coosers
 coost
 chimeres
-curves
 coosuc
 coot
 cootch
