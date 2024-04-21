@@ -5255,7 +5255,6 @@ broth
 beggardom
 beggared
 beggarer
-beggaress
 bulletheaded
 barret
 beggarhood
@@ -14337,6 +14336,7 @@ bridgekeeper
 brainstem
 brainstems
 brainstone
+beggaress
 bemists
 brainstormer
 brainstorming
