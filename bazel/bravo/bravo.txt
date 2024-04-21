@@ -1872,7 +1872,6 @@ banco
 bibliopegist
 bipunctate
 band
-bandage
 bandaged
 bandager
 bandages
@@ -5605,6 +5604,7 @@ belabours
 belace
 bewigs
 beladied
+bandage
 beladies
 biscuiting
 beladying
