@@ -6656,7 +6656,6 @@ bereaver
 bullfist
 bereavers
 bereaves
-bereaving
 berede
 bereft
 becapped
@@ -12030,6 +12029,7 @@ boisterous
 boisterously
 biffing
 boistous
+bereaving
 boistously
 boistousness
 boite
