@@ -10982,7 +10982,6 @@ disally
 deplumed
 disalliege
 disallow
-disallowableness
 disallowance
 diatomean
 disallowed
@@ -14369,6 +14368,7 @@ divi
 dividable
 dowd
 dividableness
+disallowableness
 dividant
 divide
 divided
