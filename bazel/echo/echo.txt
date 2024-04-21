@@ -8477,7 +8477,6 @@ eplot
 epoch
 epocha
 eumitosis
-epoche
 epochism
 epode
 epodes
@@ -11270,6 +11269,7 @@ evadable
 evade
 evaded
 evader
+epoche
 electroergometer
 electroballistics
 extratubal
