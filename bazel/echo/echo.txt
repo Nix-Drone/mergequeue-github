@@ -1009,6 +1009,7 @@ edacities
 edam
 edana
 edaphology
+electrolithotrity
 enerve
 edaphon
 edaphosauria
@@ -2478,7 +2479,6 @@ electrolyses
 electrolysing
 electrolysis
 electrolyte
-electrolithotrity
 epitomisation
 exoskeleton
 electrolytic
