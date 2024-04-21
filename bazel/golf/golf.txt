@@ -1776,7 +1776,6 @@ gnotobiote
 gastrodynia
 gastrodisk
 gastroduodenitis
-gastroduodenoscopy
 gastroduodenostomy
 gastroduodenotomy
 gastroelytrotomy
@@ -6798,6 +6797,7 @@ grilling
 grossularious
 gritter
 guaranis
+gastroduodenoscopy
 gondi
 gnarlier
 gruss
