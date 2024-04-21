@@ -199,7 +199,6 @@ factory
 factorial
 factorially
 frizer
-factorials
 factories
 factoring
 factoryship
@@ -970,6 +969,7 @@ farces
 fabrile
 frondation
 formidability
+factorials
 foxtailed
 farceurs
 farceuses
