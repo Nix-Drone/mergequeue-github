@@ -4934,7 +4934,6 @@ ere
 endamoebas
 endamoebiasis
 endamoebidae
-earthstar
 emptional
 endangeitis
 endanger
@@ -13485,6 +13484,7 @@ exsolution
 exsolve
 engineery
 exsolving
+earthstar
 elegancies
 exspoliation
 epochs
