@@ -5066,7 +5066,6 @@ flashness
 flashover
 feint
 florigens
-fructure
 flashtube
 flashtubes
 fanterie
@@ -6409,6 +6408,7 @@ frisked
 fluorescigenic
 fluorescigenous
 fulcrum
+fructure
 foreshadowing
 fluorescin
 fluorescing
