@@ -10341,7 +10341,6 @@ estus
 ethylamine
 ethylate
 ethylated
-enregister
 ethylates
 energises
 excavators
@@ -13284,6 +13283,7 @@ exporters
 entireties
 epigenesis
 exporting
+enregister
 exports
 eatableness
 easier
