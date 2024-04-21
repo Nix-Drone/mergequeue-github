@@ -4419,7 +4419,6 @@ becall
 boisseaux
 becalm
 becalming
-becalmment
 becalms
 becap
 becapping
@@ -17326,6 +17325,7 @@ bumpily
 bumping
 bumpingly
 bumpity
+becalmment
 bumpkin
 buttwood
 bumpkinet
