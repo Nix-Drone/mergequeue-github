@@ -1098,7 +1098,6 @@ faro
 floter
 foredestining
 faroelite
-foremast
 farolito
 faros
 farouche
@@ -2258,6 +2257,7 @@ favourable
 fuchsines
 feminality
 fibrillated
+foremast
 feminate
 feminility
 feminin
