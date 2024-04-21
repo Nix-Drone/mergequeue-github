@@ -4382,7 +4382,6 @@ demagnetise
 demagnetised
 demagnetiser
 demagnetising
-demagnetization
 deplores
 demagnetize
 demagnetized
@@ -6843,6 +6842,7 @@ desorption
 desoxalate
 desoxalic
 dichromasy
+demagnetization
 desoxyanisoin
 desoxycorticosterone
 desoxyephedrine
