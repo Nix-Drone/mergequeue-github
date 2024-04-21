@@ -11563,7 +11563,6 @@ cholecystolithotripsy
 cholecystopexy
 cholecystorrhaphy
 cholecystostomy
-cholecystostomies
 cholecystotomy
 cholecystotomies
 choledoch
@@ -25186,6 +25185,7 @@ chlorapatite
 corita
 convergently
 corium
+cholecystostomies
 corixa
 corixidae
 coryza
