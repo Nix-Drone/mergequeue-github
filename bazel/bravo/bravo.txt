@@ -1621,7 +1621,6 @@ ballistocardiogram
 ballistocardiograph
 ballistocardiography
 ballistophobia
-ballywack
 ballywrack
 ballmine
 ballo
@@ -10424,6 +10423,7 @@ blastocoele
 blastocolla
 blastoderm
 blastodermatic
+ballywack
 blastodermic
 balcone
 blastodisc
