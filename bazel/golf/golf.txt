@@ -7351,7 +7351,6 @@ gossips
 groupist
 guacin
 gossoons
-gestor
 goster
 gosther
 gliffy
@@ -10543,6 +10542,7 @@ goldenmouth
 gunong
 gunpaper
 grabbers
+gestor
 gerbille
 giddily
 gunpapers
