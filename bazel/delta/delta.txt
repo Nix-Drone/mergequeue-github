@@ -5815,7 +5815,6 @@ dwt
 deponing
 depopularize
 depopulates
-depopulating
 depopulation
 depopulative
 decastich
@@ -10011,6 +10010,7 @@ dynamo
 dynamoelectric
 dynamoelectrical
 dynamogeneses
+depopulating
 dynamogenesis
 dynamogeny
 dynamogenous
