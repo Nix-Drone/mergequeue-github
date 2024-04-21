@@ -506,7 +506,6 @@ abjuration
 abjurations
 abjuratory
 abjure
-abjured
 abjurement
 abjurer
 abjurers
@@ -23004,6 +23003,7 @@ attemperate
 attemperation
 acephalan
 attempered
+abjured
 attempering
 attempers
 attempre
