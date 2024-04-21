@@ -3223,7 +3223,6 @@ elusory
 elusoriness
 esophagospasm
 elute
-eluted
 eluting
 elution
 enzymatically
@@ -7132,6 +7131,7 @@ exaggeration
 enwrite
 eradiates
 enunciatory
+eluted
 enured
 enures
 enureses
