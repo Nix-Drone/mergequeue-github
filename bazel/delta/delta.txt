@@ -5544,7 +5544,6 @@ deadest
 densified
 deoxidised
 deoxidiser
-deoxidize
 deoxidizer
 dreggy
 deoxidizers
@@ -16677,6 +16676,7 @@ drayman
 draymen
 devests
 drainboard
+deoxidize
 drained
 drainer
 drainermen
