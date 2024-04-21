@@ -10425,7 +10425,6 @@ chiffonnieres
 chiffonniers
 chiffons
 chifforobe
-chifforobes
 chiffre
 chigetai
 chigetais
@@ -31424,6 +31423,7 @@ currachs
 currack
 curragh
 curraghs
+chifforobes
 currajong
 curran
 currance
