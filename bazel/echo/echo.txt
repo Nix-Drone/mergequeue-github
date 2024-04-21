@@ -4415,7 +4415,6 @@ engagee
 enantiomer
 enantiomeric
 enantiomorph
-enantiomorphy
 enantiomorphic
 enantiomorphous
 ensconce
@@ -13469,6 +13468,7 @@ exsects
 exsequatur
 exsert
 exserted
+enantiomorphy
 eikones
 exserting
 exsertion
