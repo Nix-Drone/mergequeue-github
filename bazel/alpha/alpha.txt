@@ -4157,7 +4157,6 @@ admit
 admits
 admittable
 admittance
-admittances
 admittatur
 admitted
 agitpunkt
@@ -13679,6 +13678,7 @@ annunciating
 annunciation
 annunciations
 annunciative
+admittances
 annunciator
 annunciatory
 annus
