@@ -3202,7 +3202,6 @@ fichteanism
 fichtelite
 fichu
 fichus
-ficiform
 footsteps
 ficins
 fickle
@@ -7509,6 +7508,7 @@ flatuses
 foreappoint
 frontiers
 foreappointment
+ficiform
 fungate
 forearming
 fossiled
