@@ -5122,7 +5122,6 @@ cashibo
 cashiered
 cashierer
 cashiering
-cashierment
 cashkeeper
 cashmere
 cashmeres
@@ -27345,6 +27344,7 @@ courtroll
 courtroom
 courts
 courtship
+cashierment
 courtships
 courtside
 courtzilite
