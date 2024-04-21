@@ -3186,7 +3186,6 @@ eltrot
 eluant
 episcleritis
 enterophthisis
-eluants
 eluated
 eluating
 elucid
@@ -5076,6 +5075,7 @@ endobronchially
 empaled
 endobronchitis
 endocardia
+eluants
 endocardiac
 endocardium
 endocarp
