@@ -8791,7 +8791,6 @@ equivalence
 enantiosis
 equivalenced
 equivalency
-equivalent
 equivalents
 equivaliant
 equivaluer
@@ -14026,6 +14025,7 @@ extravagation
 extravagence
 extravaginal
 epiphytes
+equivalent
 eluates
 extravasated
 encounterable
