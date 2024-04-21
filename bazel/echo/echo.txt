@@ -4813,7 +4813,6 @@ euryalean
 equitangential
 encolour
 encolpia
-encolpion
 encolumn
 encolure
 encomy
@@ -13121,6 +13120,7 @@ epaxial
 expirations
 expirator
 expiratory
+encolpion
 expire
 exhaustable
 expired
