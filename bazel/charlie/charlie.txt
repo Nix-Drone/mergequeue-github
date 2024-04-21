@@ -8910,7 +8910,6 @@ characterizable
 characterization
 characterizations
 characterize
-characterizer
 characterizers
 characterizes
 characterizing
@@ -31703,6 +31702,7 @@ castilian
 cussing
 cussos
 cusswords
+characterizer
 cust
 cynips
 custard
