@@ -19072,7 +19072,6 @@ collision
 collisive
 collywest
 collyweston
-collywobbles
 colloblast
 collobrierite
 collocal
@@ -31521,6 +31520,7 @@ curtailing
 curtailment
 curtailments
 curtails
+collywobbles
 curtain
 cowlicks
 curtained
