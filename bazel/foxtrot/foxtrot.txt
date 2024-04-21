@@ -1098,7 +1098,6 @@ flinger
 farnesses
 faro
 floter
-foredestining
 faroelite
 foremast
 farolito
@@ -4402,6 +4401,7 @@ fishmonger
 ferociousness
 fishmouth
 fishnet
+foredestining
 frank
 fishnets
 fishplate
