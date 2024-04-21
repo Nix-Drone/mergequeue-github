@@ -22368,7 +22368,6 @@ conidian
 conidioid
 conidiophorous
 conidiospore
-conidium
 conifer
 coniferae
 coniferin
@@ -26765,6 +26764,7 @@ counterembattled
 counterembowed
 counterend
 counterenergy
+conidium
 counterengagement
 counterengine
 counterenthusiasm
