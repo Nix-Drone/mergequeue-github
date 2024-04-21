@@ -10054,6 +10054,7 @@ blackamoors
 blackarm
 blackback
 blackball
+bogie
 blackballed
 blackballer
 blackballs
@@ -11888,7 +11889,6 @@ bogglish
 boghole
 bogy
 bogydom
-bogie
 bogieman
 bullfinch
 bogyism
