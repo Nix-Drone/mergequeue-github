@@ -5776,7 +5776,6 @@ catercap
 catercorner
 catercornered
 catercornerways
-catercousin
 catered
 conclusible
 caterer
@@ -19084,6 +19083,7 @@ copintank
 collocate
 collocated
 collocates
+catercousin
 collocating
 collocation
 collocationable
