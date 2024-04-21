@@ -5379,7 +5379,6 @@ glenohumeral
 glenoid
 glenoidal
 glent
-gedrite
 glenwood
 glew
 guitarfish
@@ -8105,6 +8104,7 @@ geom
 granulocytopoiesis
 granuloma
 gnathometer
+gedrite
 gambogic
 gambroon
 granulometric
