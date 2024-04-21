@@ -10240,7 +10240,6 @@ amenity
 antiseption
 amenities
 amenorrhea
-amenorrheal
 amenorrheic
 amenorrho
 amenorrhoea
@@ -13453,6 +13452,7 @@ anlace
 anlaces
 anlage
 anlagen
+amenorrheal
 alleviant
 anlages
 anlas
