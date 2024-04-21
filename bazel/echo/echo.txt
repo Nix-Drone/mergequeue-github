@@ -4474,7 +4474,6 @@ encake
 encalendar
 encamping
 encampment
-encampments
 encamps
 endoparasite
 essene
@@ -6427,6 +6426,7 @@ ensky
 enskied
 esthesia
 enskies
+encampments
 enskying
 enslave
 epiglottic
