@@ -5781,6 +5781,7 @@ deplump
 depoetize
 depoh
 depolarisation
+distortionless
 depolarise
 drapeable
 depolarised
@@ -13904,7 +13905,6 @@ distortion
 distortional
 distortionist
 distinctions
-distortionless
 distortions
 distorts
 doltishness
