@@ -2306,7 +2306,6 @@ electrine
 electrizable
 electrization
 earthenware
-electro
 electroacoustic
 ecblastpsis
 electroacoustical
@@ -10677,6 +10676,7 @@ euchre
 euchred
 enchest
 euchres
+electro
 excoecaria
 erotomania
 emulsifying
