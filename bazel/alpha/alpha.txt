@@ -10539,7 +10539,6 @@ amylometer
 amylopectin
 amylophagia
 amylophosphate
-amylophosphoric
 amyloplast
 amyloplastic
 amyloplastid
@@ -17675,6 +17674,7 @@ appellors
 appels
 accompany
 appenage
+amylophosphoric
 append
 appendage
 appendaged
