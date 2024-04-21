@@ -1425,7 +1425,6 @@ accelerators
 accelerograph
 accelerometer
 accelerometers
-accend
 accendibility
 accendible
 anticatholic
@@ -12641,6 +12640,7 @@ autophonoscope
 anhydrize
 angareb
 angareeb
+accend
 angarep
 angary
 armstrong
