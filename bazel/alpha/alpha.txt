@@ -20356,6 +20356,7 @@ arrowlike
 arrowplate
 automolite
 arrowroots
+ascogonium
 arrows
 arrowsmith
 arrowstone
@@ -21029,7 +21030,6 @@ ascogonial
 ascogonidia
 abstinency
 ascogonidium
-ascogonium
 afteryears
 asthorin
 ascolichen
