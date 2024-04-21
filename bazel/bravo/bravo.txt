@@ -1377,7 +1377,6 @@ balconette
 bag
 blere
 balcony
-balconied
 balconies
 bald
 bedmaking
@@ -2747,6 +2746,7 @@ barnaby
 barnacle
 barnacled
 branchiostegite
+balconied
 bewaitered
 barnard
 barnbrack
