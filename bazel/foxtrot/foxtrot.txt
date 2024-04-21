@@ -2171,7 +2171,6 @@ fermentatory
 fellow
 fishfall
 fellowcraft
-fellowheirship
 fellowing
 fellowman
 fellowmen
@@ -9408,6 +9407,7 @@ fontainea
 francolite
 francomania
 franconian
+fellowheirship
 francophil
 funebre
 frogmouths
