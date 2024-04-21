@@ -676,7 +676,6 @@ geodesy
 galliot
 galliots
 gurnets
-gallipot
 gallipots
 gallirallus
 gallisin
@@ -1918,6 +1917,7 @@ gasworks
 gatch
 gate
 gateage
+gallipot
 gatecrasher
 gatecrashers
 gated
