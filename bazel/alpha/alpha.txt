@@ -11726,7 +11726,6 @@ analysability
 analysable
 analysand
 analysation
-analyser
 analysers
 addressee
 analyses
@@ -23871,6 +23870,7 @@ autoanalytic
 autoantibody
 autoanticomplement
 autoantitoxin
+analyser
 autoasphyxiation
 apologetically
 algicides
