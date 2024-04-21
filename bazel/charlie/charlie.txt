@@ -3918,7 +3918,6 @@ carcinomata
 carcinomatoid
 carcinomatosis
 cholers
-carcinomatous
 carcinophagous
 carcinopolypus
 carcinosarcoma
@@ -9641,6 +9640,7 @@ cheerleaders
 coppered
 cheerleading
 cheerled
+carcinomatous
 cheerlessly
 cheerlessness
 cheerly
