@@ -1970,6 +1970,7 @@ desugars
 decaedron
 decaesarize
 decaffeinate
+disseminator
 decaffeinated
 decaffeinates
 deadpanner
@@ -13503,7 +13504,6 @@ disseminating
 dissemination
 disseminations
 disseminative
-disseminator
 disseminule
 dissensualize
 dissent
