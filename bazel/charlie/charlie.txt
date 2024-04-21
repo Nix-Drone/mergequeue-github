@@ -2919,7 +2919,6 @@ cantrip
 cantrips
 coveting
 cantus
-cantut
 cantuta
 cantwise
 canuck
@@ -17059,6 +17058,7 @@ coadministration
 coadministrator
 coadministratrix
 coadmiration
+cantut
 coadmired
 coadmiring
 coadmit
