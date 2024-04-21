@@ -11152,7 +11152,6 @@ disbarred
 disbarring
 disbars
 disbase
-disbelief
 disbeliefs
 disbelieved
 disbeliever
@@ -16163,6 +16162,7 @@ dove
 dovecot
 dovecote
 dovecotes
+disbelief
 dramaticule
 dovecots
 doveflower
