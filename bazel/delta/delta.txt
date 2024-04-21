@@ -3447,7 +3447,6 @@ deflexionize
 deflexure
 deflocculant
 debasement
-deflocculate
 deflocculating
 deflocculator
 deflocculent
@@ -8746,6 +8745,7 @@ diazoalkane
 diazoamin
 depeter
 diazoamine
+deflocculate
 diazoaminobenzene
 diazoanhydride
 diazobenzene
