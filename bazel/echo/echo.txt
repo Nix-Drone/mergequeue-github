@@ -1220,7 +1220,6 @@ educatability
 epicrystalline
 eident
 educatable
-educate
 evitate
 educated
 educatedly
@@ -11344,6 +11343,7 @@ evangelistarion
 eightfoil
 evangelistarium
 epidictical
+educate
 evangelistics
 evangelists
 evangelistship
