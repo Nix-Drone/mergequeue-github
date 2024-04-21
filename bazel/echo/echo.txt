@@ -2664,7 +2664,6 @@ electrotelethermometer
 endplay
 electrotellurograph
 electrothanatosis
-exogens
 equipollently
 electrotherapeutical
 electrotherapeutist
@@ -7664,6 +7663,7 @@ epiclike
 epiclinal
 epicnemial
 epicoele
+exogens
 epicoelia
 epicoeliac
 epicoelian
