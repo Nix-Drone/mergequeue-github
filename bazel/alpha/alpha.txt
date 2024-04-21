@@ -8918,7 +8918,6 @@ allophones
 allophonic
 allophonically
 allophore
-alloplasm
 alloplasmatic
 alloplasmic
 alloplast
@@ -15166,6 +15165,7 @@ antidumping
 artificialize
 applied
 antiecclesiastic
+alloplasm
 antiecclesiastical
 assagaied
 antiecclesiastically
