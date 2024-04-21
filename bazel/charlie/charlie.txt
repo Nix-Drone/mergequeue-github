@@ -17254,6 +17254,7 @@ coassert
 coasserter
 coassessor
 caravelle
+counterexpostulation
 coassignee
 coassist
 coassistant
@@ -26774,7 +26775,6 @@ counterexcommunication
 counterexercise
 counterexplanation
 counterexposition
-counterexpostulation
 counterextend
 counterextension
 counterfact
