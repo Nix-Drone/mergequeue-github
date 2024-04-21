@@ -82,7 +82,6 @@ epicalyces
 earmuff
 earmuffs
 earn
-earnable
 earned
 earner
 earnest
@@ -5210,6 +5209,7 @@ endomictic
 endomitosis
 elbowchair
 endomorph
+earnable
 endomorphy
 endomorphic
 endoneurium
