@@ -2431,7 +2431,6 @@ electroencephalographs
 episcope
 electroendosmosis
 electroengrave
-electroengraving
 electroextraction
 expedient
 electroform
@@ -12804,6 +12803,7 @@ exordiums
 exordize
 exorhason
 exornate
+electroengraving
 exornation
 enrichers
 exortion
