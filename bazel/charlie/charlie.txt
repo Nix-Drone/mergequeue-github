@@ -3457,7 +3457,6 @@ captors
 clientless
 captress
 capturable
-capture
 captured
 captures
 capturing
@@ -19276,6 +19275,7 @@ colonisationist
 colonise
 colonised
 colonises
+capture
 colonising
 colonist
 chiromancer
