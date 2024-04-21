@@ -626,7 +626,6 @@ gallic
 graptolitic
 greyhound
 gallicism
-gallicisms
 gallicization
 glottises
 glutch
@@ -1893,6 +1892,7 @@ gastrosophy
 gastrospasm
 gastrostege
 gastrostenosis
+gallicisms
 gastrostomy
 gastrostomies
 gastrostomize
