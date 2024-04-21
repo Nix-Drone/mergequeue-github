@@ -15065,6 +15065,7 @@ anticorn
 anticorona
 anticorrosion
 anticorrosive
+assaying
 anticorrosively
 anticorrosiveness
 anticorrosives
@@ -21564,7 +21565,6 @@ assayable
 assayed
 assayer
 assayers
-assaying
 assail
 assailableness
 assailant
