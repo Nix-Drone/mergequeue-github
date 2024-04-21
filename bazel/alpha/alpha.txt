@@ -1478,7 +1478,6 @@ acception
 acceptor
 acceptors
 acceptress
-accepts
 accerse
 accersition
 accersitor
@@ -7976,6 +7975,7 @@ alexinic
 alexipharmacum
 alexipharmic
 alexipharmical
+accepts
 alexipyretic
 alexis
 alexiteric
