@@ -5092,7 +5092,6 @@ aerosiderolite
 amphib
 aerosol
 aerosolization
-aerosolize
 aerosolized
 aerosols
 aerosporin
@@ -7121,6 +7120,7 @@ akee
 akees
 akehorne
 akey
+aerosolize
 akeki
 akela
 akelas
