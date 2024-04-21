@@ -6845,7 +6845,6 @@ aircraft
 aircraftman
 axometer
 aircraftmen
-aircraftsman
 aircraftsmen
 aircraftswoman
 aircraftwoman
@@ -7914,6 +7913,7 @@ alethiological
 alethiologist
 alethopteis
 alethopteroid
+aircraftsman
 alethoscope
 aletocyte
 aldehydrol
