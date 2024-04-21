@@ -3016,7 +3016,6 @@ barrios
 boulevard
 barrister
 botts
-barristerial
 barristers
 barristress
 barroom
@@ -17001,6 +17000,7 @@ bulgar
 bulgari
 bulgaria
 bulgaric
+barristerial
 bulge
 bulged
 bibliothecarial
