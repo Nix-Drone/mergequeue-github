@@ -6847,7 +6847,6 @@ aircraftmen
 aircraftsman
 aircraftsmen
 aircraftswoman
-aircraftwoman
 ahint
 aircrew
 aircrewman
@@ -21700,6 +21699,7 @@ assertorially
 asseveratingly
 afterstate
 assertoric
+aircraftwoman
 assertorically
 autodynamic
 assertress
