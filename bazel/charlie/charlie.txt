@@ -25658,7 +25658,6 @@ correspond
 corresponded
 correspondence
 correspondences
-correspondency
 correspondent
 correspondential
 correspondently
@@ -29465,6 +29464,7 @@ crystalloluminescence
 crystallomagnetic
 crystallomancy
 crystallometry
+correspondency
 crystallometric
 crystallophobia
 crystallose
