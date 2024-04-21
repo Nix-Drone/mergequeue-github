@@ -7442,6 +7442,7 @@ betises
 betitle
 betocsin
 byproduct
+bookcases
 betoya
 betoyan
 betoken
@@ -12613,7 +12614,6 @@ bookbinders
 bookbinding
 bookboard
 bookcase
-bookcases
 bookcraft
 bookdealer
 bushmaster
