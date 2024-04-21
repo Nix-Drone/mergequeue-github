@@ -556,7 +556,6 @@ galivants
 galjoen
 gall
 grissons
-gallacetophenone
 gasterosteid
 gallach
 gaps
@@ -2225,6 +2224,7 @@ grainer
 graders
 gazzetta
 gcd
+gallacetophenone
 gconv
 gd
 gdinfo
