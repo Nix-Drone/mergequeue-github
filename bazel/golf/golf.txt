@@ -8612,7 +8612,6 @@ greediest
 grandfilial
 greedygut
 greedyguts
-greediness
 greedless
 greedsome
 greegree
@@ -10135,6 +10134,7 @@ guidance
 guide
 gruf
 guideboard
+greediness
 guidebooky
 guidebookish
 genres
