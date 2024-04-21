@@ -5859,7 +5859,6 @@ depositor
 depositories
 depositors
 deposits
-depositum
 daimon
 doumaist
 deposure
@@ -17974,6 +17973,7 @@ dukery
 dukes
 dukhn
 dukker
+depositum
 dukkeripen
 dukuma
 dulanganes
