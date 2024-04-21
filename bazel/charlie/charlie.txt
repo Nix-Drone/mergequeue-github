@@ -1627,6 +1627,7 @@ calotte
 calottes
 calp
 calpac
+cluster
 calpack
 calpacked
 calpacks
@@ -21440,7 +21441,6 @@ concordity
 concordly
 colicky
 centumvir
-cluster
 concords
 concorporate
 culverts
