@@ -5604,7 +5604,6 @@ glisk
 glisky
 garrick
 gluily
-glissader
 gadean
 glissades
 glissandi
@@ -6296,6 +6295,7 @@ gneiss
 gneisses
 gneissitic
 gneissoid
+glissader
 gombos
 gnessic
 gomarist
