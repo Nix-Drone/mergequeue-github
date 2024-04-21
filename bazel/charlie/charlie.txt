@@ -11561,6 +11561,7 @@ cholecystography
 cholecystojejunostomy
 cholecystokinin
 cholecystolithiasis
+cosalite
 cholecystolithotripsy
 cholecystopexy
 cholecystorrhaphy
@@ -25928,7 +25929,6 @@ corvoid
 corvorant
 corvus
 cos
-cosalite
 cosaque
 coppled
 coscet
