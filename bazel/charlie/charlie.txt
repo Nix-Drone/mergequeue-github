@@ -11410,6 +11410,7 @@ choanoflagellate
 choanoflagellida
 choanoflagellidae
 choanoid
+cranet
 choanophorous
 choanosomal
 choanosome
@@ -28027,7 +28028,6 @@ cranemen
 craner
 cranes
 cranesman
-cranet
 craneway
 conniption
 crany
