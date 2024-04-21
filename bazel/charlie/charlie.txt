@@ -2910,7 +2910,6 @@ cantorship
 cantos
 canterelle
 cantraip
-cantraips
 cantrap
 cantraps
 cantred
@@ -25061,6 +25060,7 @@ chromonematic
 coreometer
 complacential
 coreplastic
+cantraips
 corepressor
 carabideous
 corequisite
