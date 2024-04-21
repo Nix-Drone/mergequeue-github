@@ -11975,7 +11975,6 @@ chorioepitheliomas
 covens
 chorioepitheliomata
 chiefdom
-chorioid
 chorioiditis
 chorioidocyclitis
 chorioidoiritis
@@ -25321,6 +25320,7 @@ cornerstones
 cornerways
 cornet
 cornetcy
+chorioid
 cornetfish
 cornetfishes
 cornetist
