@@ -8719,7 +8719,6 @@ basil
 billposter
 bathylith
 bluefish
-brochette
 billposting
 bacterize
 billsticker
@@ -12625,6 +12624,7 @@ bookery
 bookers
 bookfair
 bookfold
+brochette
 bookful
 bookhood
 booky
