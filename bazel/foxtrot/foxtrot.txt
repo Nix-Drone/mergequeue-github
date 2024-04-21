@@ -2383,7 +2383,6 @@ feod
 feodatory
 falconer
 fehmic
-feodum
 feoff
 feoffees
 fconvert
@@ -5591,6 +5590,7 @@ feoffment
 fissural
 fligged
 fligger
+feodum
 flight
 flighted
 flighter
