@@ -1497,7 +1497,6 @@ deactivator
 deactivators
 defrosts
 deadborn
-deadcenter
 deeryards
 deadeye
 deaden
@@ -7623,6 +7622,7 @@ devildom
 deviled
 demonically
 deviler
+deadcenter
 deviless
 devilet
 duits
