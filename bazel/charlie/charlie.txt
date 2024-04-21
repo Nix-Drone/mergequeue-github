@@ -15417,7 +15417,6 @@ clansfolk
 clanship
 clansman
 clansmen
-clanswoman
 cyprinodontidae
 clanswomen
 claosaurus
@@ -29110,6 +29109,7 @@ cryolite
 catwalks
 cryolites
 criolla
+clanswoman
 cryological
 cryometry
 cryonic
