@@ -830,6 +830,7 @@ deduced
 dangerousness
 dangers
 dangersome
+dices
 dangle
 dangleberry
 dangled
@@ -11060,7 +11061,6 @@ disarm
 decentness
 depair
 digitise
-dices
 disarmature
 disarmed
 disarmer
