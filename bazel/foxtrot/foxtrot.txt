@@ -1292,7 +1292,6 @@ fastbacks
 fastball
 fastened
 fastener
-fasteners
 fastening
 fastenings
 flagrante
@@ -1955,6 +1954,7 @@ felafel
 fedifragous
 fedity
 fedora
+fasteners
 fedoras
 feds
 feeable
