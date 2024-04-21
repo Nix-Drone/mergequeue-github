@@ -6138,7 +6138,6 @@ benches
 benchfellow
 burglary
 benchful
-benchy
 benchland
 benchless
 benchlet
@@ -16298,6 +16297,7 @@ bruising
 bruisingly
 bruit
 bullroarer
+benchy
 bruited
 bruiter
 bruiters
