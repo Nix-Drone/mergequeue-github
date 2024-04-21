@@ -2678,7 +2678,6 @@ electrothermal
 expurgates
 epiperipheral
 electrothermancy
-electrothermic
 electrothermics
 enschedule
 enrapturer
@@ -10067,6 +10066,7 @@ estoque
 euphuists
 estovers
 elon
+electrothermic
 estradiol
 estrado
 estragole
