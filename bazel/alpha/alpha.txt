@@ -5723,6 +5723,7 @@ aftertime
 aftertimes
 apastron
 aftertrial
+algogenic
 assortive
 afterturn
 arosaguntacook
@@ -22294,7 +22295,6 @@ astromancy
 astromantic
 astromeda
 astrometeorology
-algogenic
 astrometeorological
 astrometeorologist
 astrometry
