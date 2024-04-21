@@ -4211,7 +4211,6 @@ encaustes
 ephoral
 evocators
 etherol
-empoisonment
 empoisons
 empolder
 encallow
@@ -12745,6 +12744,7 @@ exophoric
 exophthalmos
 exophthalmus
 exoplasm
+empoisonment
 exopod
 exopodite
 exopterygota
