@@ -24073,7 +24073,6 @@ autogyro
 autogiros
 autogyros
 ambulators
-autognostic
 autograft
 autografting
 autogram
@@ -25354,6 +25353,7 @@ azoths
 azotic
 autocoid
 azotise
+autognostic
 azotises
 azotising
 azotize
