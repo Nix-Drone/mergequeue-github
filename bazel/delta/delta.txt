@@ -6660,7 +6660,6 @@ desidiose
 deadness
 desight
 design
-designable
 designado
 designate
 designated
@@ -14635,6 +14634,7 @@ dochmius
 docibility
 digress
 dawtet
+designable
 docibleness
 docile
 dinheiro
