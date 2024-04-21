@@ -4862,6 +4862,7 @@ flambe
 foreboded
 forehead
 flambeau
+fuseau
 flambeaus
 flambeaux
 flambee
@@ -11560,7 +11561,6 @@ fallings
 fuscin
 fuscohyaline
 fuscous
-fuseau
 fistic
 fuseboard
 fused
