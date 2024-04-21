@@ -5631,6 +5631,7 @@ eastwards
 enforth
 enfoul
 enfoulder
+elains
 enfrai
 enframe
 enframed
@@ -11183,7 +11184,6 @@ euskara
 euskarian
 euskaric
 epistemolog
-elains
 eurytus
 eusol
 euspongia
