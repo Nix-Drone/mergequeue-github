@@ -5657,6 +5657,7 @@ catchphrase
 catchpole
 catchpoled
 catchpolery
+colloidality
 catchpoleship
 catchpoling
 catchpoll
@@ -19113,7 +19114,6 @@ colloid
 caseconv
 cinerins
 colloidal
-colloidality
 colloider
 colloidize
 colloidochemical
