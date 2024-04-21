@@ -6494,7 +6494,6 @@ benzopyrazolone
 benzopyrylium
 benzoquinoxaline
 baltimorean
-benzosulfimide
 benzosulphimide
 benzotetrazine
 benzotetrazole
@@ -12130,6 +12129,7 @@ bollard
 bollards
 bolled
 boller
+benzosulfimide
 barbed
 bolly
 bollies
