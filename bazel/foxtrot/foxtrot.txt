@@ -2054,7 +2054,6 @@ feigner
 fanfare
 feigners
 feigning
-feigningly
 feigns
 feijoa
 feil
@@ -4903,6 +4902,7 @@ forehood
 flameout
 flameouts
 flameproof
+feigningly
 formulize
 flameproofer
 flintlocks
