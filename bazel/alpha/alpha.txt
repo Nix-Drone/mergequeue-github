@@ -2099,7 +2099,6 @@ acetla
 acetmethylanilide
 acetnaphthalide
 acetoacetanilide
-acetoacetate
 acetoacetic
 acetoamidophenol
 acetoarsenite
@@ -8564,6 +8563,7 @@ allantoinase
 allantoinuria
 acetoxim
 allantoxaidin
+acetoacetate
 allargando
 allasch
 allassotonic
