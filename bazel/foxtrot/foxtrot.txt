@@ -3517,7 +3517,6 @@ figureless
 figurer
 facebread
 figures
-figuresome
 flueman
 fconv
 foraneous
@@ -8856,6 +8855,7 @@ fossicking
 fossicks
 fossified
 fossiform
+figuresome
 fossil
 fossilage
 featly
