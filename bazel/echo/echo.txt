@@ -3341,7 +3341,6 @@ expounded
 empathize
 embalmed
 envelopes
-embalmer
 embalmers
 embanked
 elver
@@ -11963,6 +11962,7 @@ exceptionless
 exceptions
 exceptious
 exceptiousness
+embalmer
 exultation
 exceptive
 exceptiveness
