@@ -6975,7 +6975,6 @@ addled
 apostolic
 airspeed
 airspeeds
-airstream
 allegory
 airstrip
 airstrips
@@ -16433,6 +16432,7 @@ antiunionist
 alpaca
 antiuratic
 antiurease
+airstream
 antiusurious
 antiutilitarian
 antivaccination
