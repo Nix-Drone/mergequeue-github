@@ -15244,7 +15244,6 @@ bursal
 bhaktas
 bridesmen
 bridestake
-bonelike
 bridewain
 brideman
 brideweed
@@ -15625,6 +15624,7 @@ broaching
 broadacre
 broadax
 broadaxes
+bonelike
 broadbrim
 burred
 broadcast
