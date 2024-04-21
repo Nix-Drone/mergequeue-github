@@ -4307,7 +4307,6 @@ facia
 furlongs
 first
 fylker
-forbearer
 freestone
 firster
 feerie
@@ -8648,6 +8647,7 @@ fillebeg
 fumistery
 feverishly
 forsung
+forbearer
 forswear
 foreanswer
 forswearing
