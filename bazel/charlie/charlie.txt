@@ -14638,7 +14638,6 @@ cistercianism
 cysterethism
 cisterna
 cisternae
-cisternal
 cisterns
 cistic
 cystic
@@ -20482,6 +20481,7 @@ compass
 compassability
 compassable
 compassed
+cisternal
 compasses
 compassing
 compassion
