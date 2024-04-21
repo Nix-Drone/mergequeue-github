@@ -496,7 +496,6 @@ daktylon
 dalaga
 dalai
 dalapon
-dalapons
 dalarnian
 dampeners
 dalasis
@@ -3747,6 +3746,7 @@ dehydrocorticosterone
 dehydroffroze
 dehydroffrozen
 dehydrofreeze
+dalapons
 dehydrofreezing
 daggle
 dehydrofrozen
