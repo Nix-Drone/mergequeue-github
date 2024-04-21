@@ -3531,7 +3531,6 @@ carafes
 clergymen
 cornicing
 carafon
-coteau
 cocineras
 caragana
 caraganas
@@ -17315,6 +17314,7 @@ cajeta
 coattending
 coattest
 coattestation
+coteau
 courteously
 coattestator
 coattested
