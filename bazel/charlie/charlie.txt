@@ -2708,6 +2708,7 @@ canonise
 contermine
 canonised
 canoniser
+collateral
 canonises
 canonising
 canonist
@@ -9919,7 +9920,6 @@ chemosphere
 chemospheric
 christenhead
 chemostat
-collateral
 cancers
 chemosterilants
 chemosurgery
