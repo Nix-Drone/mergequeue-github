@@ -3877,7 +3877,6 @@ adiation
 adib
 adibasi
 adicea
-adicity
 adiel
 adrenalectomized
 adience
@@ -4962,6 +4961,7 @@ aeroelasticity
 aeroelastics
 aporphin
 aerofoil
+adicity
 aerofoils
 algine
 arisaema

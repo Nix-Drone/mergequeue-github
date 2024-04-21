@@ -4808,7 +4808,6 @@ gyrostat
 gyrostats
 gastroplenic
 gyrotheca
-girouette
 gastroduodenostomies
 girouettes
 gazet
@@ -8115,6 +8114,7 @@ geneticist
 granulous
 granum
 graped
+girouette
 gammarid
 gippo
 grossness
