@@ -9162,7 +9162,6 @@ almsmen
 almswoman
 almswomen
 almuce
-almuces
 almud
 almude
 advocaat
@@ -23594,6 +23593,7 @@ aurifying
 auriflamme
 auriform
 auriga
+almuces
 aurigal
 amethysts
 aurigation
