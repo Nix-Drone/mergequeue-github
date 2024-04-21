@@ -2248,7 +2248,6 @@ gears
 guernseys
 gearset
 gearshift
-gearshifts
 gearwheels
 garden
 glistening
@@ -7073,6 +7072,7 @@ gooroo
 goosander
 goose
 goosebeak
+gearshifts
 gooseberry
 geranomorphae
 genealogist
