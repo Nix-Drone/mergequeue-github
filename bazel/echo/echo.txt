@@ -6570,6 +6570,7 @@ entapophysis
 entases
 entasia
 entasias
+excluding
 entasis
 emiction
 entea
@@ -6640,7 +6641,6 @@ excitory
 enterocystoma
 enterocleisis
 eristics
-excluding
 enteroclisis
 enteroclysis
 enterococcal
