@@ -2335,6 +2335,7 @@ filchers
 fraischeur
 fendering
 fenderless
+foreclose
 fenders
 fendillation
 fending
@@ -7583,7 +7584,6 @@ forechoir
 foregame
 forechoose
 foreclaw
-foreclose
 foreclosed
 foreclosure
 feteless
