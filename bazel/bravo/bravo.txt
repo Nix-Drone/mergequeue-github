@@ -3000,7 +3000,6 @@ brainsick
 barricados
 barrico
 barricoes
-barrier
 barriers
 barriguda
 barrigudos
@@ -6757,6 +6756,7 @@ broughtas
 bhaktis
 brevets
 buscarle
+barrier
 branchiobdella
 berytidae
 beryx
