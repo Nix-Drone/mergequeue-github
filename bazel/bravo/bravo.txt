@@ -7652,7 +7652,6 @@ bewired
 bewit
 bewitch
 bewitchedness
-bewitcher
 bewitchery
 buchite
 bewitches
@@ -12937,6 +12936,7 @@ border
 bordereau
 bowstaff
 bordered
+bewitcher
 borderer
 borderers
 bordering
