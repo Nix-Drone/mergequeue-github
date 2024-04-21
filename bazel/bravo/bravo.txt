@@ -12277,7 +12277,6 @@ bombazet
 bombazette
 bombe
 basin
-bombed
 bomber
 bedirty
 bombernickel
@@ -18335,6 +18334,7 @@ buttress
 buttressed
 buttresses
 buttressing
+bombed
 buttressless
 buttresslike
 butts
