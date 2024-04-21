@@ -5084,6 +5084,7 @@ fids
 flatbed
 faciobrachial
 flatcaps
+foretype
 flatcar
 flossed
 flatcars
@@ -6724,7 +6725,6 @@ fairways
 fogdom
 figworts
 fogfruit
-foretype
 feeders
 fogfruits
 fogger
