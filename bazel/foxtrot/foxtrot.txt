@@ -1073,6 +1073,7 @@ farmership
 farmhold
 farmhouse
 feronia
+fixatifs
 farmhousey
 fontinalaceae
 fuzzle
@@ -2742,7 +2743,6 @@ fesses
 fessewise
 fest
 festae
-fixatifs
 festally
 frowner
 festellae
