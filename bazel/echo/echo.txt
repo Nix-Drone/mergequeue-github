@@ -293,7 +293,6 @@ euphoniousness
 eat
 eagerer
 eatability
-eatable
 eatables
 electrolyzability
 eatberry
@@ -13146,6 +13145,7 @@ extras
 explainable
 explainableness
 explained
+eatable
 explainer
 explainers
 explaining
