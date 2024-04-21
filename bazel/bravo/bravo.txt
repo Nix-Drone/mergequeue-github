@@ -7818,7 +7818,6 @@ biacetyls
 biacid
 bozal
 biacromial
-biacuminate
 biacuru
 biajaiba
 bialate
@@ -10442,6 +10441,7 @@ blastomas
 blastomata
 blastomere
 blastomeric
+biacuminate
 blastomycetic
 bergamots
 blastomycin
