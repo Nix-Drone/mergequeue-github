@@ -3918,7 +3918,6 @@ adipogenic
 adipogenous
 adipoid
 adipolysis
-adipolytic
 adipoma
 adipomata
 adipomatous
@@ -6072,6 +6071,7 @@ aggravations
 aggravative
 aggravator
 aggregable
+adipolytic
 aggregant
 aggregata
 aggregatae
