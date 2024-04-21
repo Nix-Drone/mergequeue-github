@@ -22122,7 +22122,6 @@ confusability
 confusably
 confused
 confusedly
-confusedness
 confuser
 confuses
 confusing
@@ -31351,6 +31350,7 @@ curiologics
 curiomaniac
 comparability
 capered
+confusedness
 curios
 curiosa
 curiosi
