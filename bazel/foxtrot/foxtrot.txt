@@ -1697,7 +1697,6 @@ frugivora
 feak
 federate
 fleying
-flocks
 footcandles
 frowny
 feal
@@ -6816,6 +6815,7 @@ foldage
 foldaway
 foldboater
 farmings
+flocks
 foldboating
 foldboats
 foldcourse
