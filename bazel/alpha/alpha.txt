@@ -10942,7 +10942,6 @@ amotion
 amotions
 amotus
 amouli
-amount
 amounted
 amounter
 amounters
@@ -24828,6 +24827,7 @@ avocations
 avocative
 anoopsias
 avocet
+amount
 avodires
 avogadrite
 avogadro
