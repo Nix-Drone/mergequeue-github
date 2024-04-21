@@ -7148,7 +7148,6 @@ evoked
 envassal
 envault
 enveigle
-enveil
 ecthymata
 envelope
 enveloped
@@ -12702,6 +12701,7 @@ exolve
 exometritis
 emerse
 encephaloma
+enveil
 exomis
 exomologesis
 exomorphic
