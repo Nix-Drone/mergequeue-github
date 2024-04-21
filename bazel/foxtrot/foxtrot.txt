@@ -953,7 +953,6 @@ flattener
 fabric
 faradmeter
 ferny
-faradocontractility
 faradomuscular
 farandman
 farandmen
@@ -1191,6 +1190,7 @@ fasciculi
 fasciculite
 fluorite
 frijoles
+faradocontractility
 foetuses
 feller
 fungistatic
