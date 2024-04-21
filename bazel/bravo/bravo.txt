@@ -10195,7 +10195,6 @@ beastdom
 blacksmiths
 blacksnake
 blackstick
-burghbote
 baneful
 blacktail
 bliaut
@@ -17257,6 +17256,7 @@ bultow
 bulwand
 bulwarked
 basotho
+burghbote
 bulwarking
 bulwarks
 bracken
