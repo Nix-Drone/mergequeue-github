@@ -6320,7 +6320,6 @@ ens
 ensafe
 elenchtic
 ensampler
-ensamples
 ensanguine
 ensanguining
 evisite
@@ -12310,6 +12309,7 @@ erodable
 executorial
 executors
 executorship
+ensamples
 executress
 eightieths
 executry
