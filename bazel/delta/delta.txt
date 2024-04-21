@@ -3492,6 +3492,7 @@ defogs
 defoil
 dawish
 defoliage
+dacoit
 defoliant
 dorsobranchiata
 defoliants
@@ -6203,7 +6204,6 @@ degrading
 derivatively
 derivativeness
 derivatives
-dacoit
 derivedly
 derivedness
 deriver
