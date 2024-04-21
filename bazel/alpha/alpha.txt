@@ -599,7 +599,6 @@ abnegation
 abnegative
 abnegator
 alit
-abnegators
 abner
 abnerval
 apprehensive
@@ -1475,6 +1474,7 @@ acceptingness
 acception
 acceptor
 acceptors
+abnegators
 acceptress
 accepts
 accerse
