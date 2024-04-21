@@ -8723,7 +8723,6 @@ bacterize
 billsticker
 billtong
 bilobate
-bilobated
 bilobe
 bilobed
 bilobiate
@@ -9062,6 +9061,7 @@ biomathematics
 biome
 bradycinesia
 biomechanical
+bilobated
 brangler
 begrims
 biomedicine
