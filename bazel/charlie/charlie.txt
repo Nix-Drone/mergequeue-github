@@ -140,6 +140,7 @@ cabled
 cablegram
 cablegrams
 cablelaid
+cosmoscope
 cableless
 cablelike
 cableman
@@ -22203,7 +22204,6 @@ congession
 cupride
 congest
 congestedness
-cosmoscope
 congestible
 congesting
 congestion
