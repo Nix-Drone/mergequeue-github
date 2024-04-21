@@ -13266,7 +13266,6 @@ dotters
 disputableness
 disputacity
 disputant
-disputants
 disputation
 deflators
 disputations
@@ -15635,6 +15634,7 @@ deaconize
 doorway
 doorways
 doorward
+disputants
 doorweed
 doorwise
 distinctional
