@@ -1099,6 +1099,7 @@ farnesses
 faro
 floter
 foredestining
+filmable
 faroelite
 foremast
 farolito
@@ -3754,7 +3755,6 @@ fillowite
 fills
 foregirth
 faultlessly
-filmable
 filmcard
 filmcards
 filmdom

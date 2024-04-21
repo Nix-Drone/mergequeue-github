@@ -2812,7 +2812,6 @@ baroness
 baronesses
 baronet
 baronetage
-baronetcy
 baronetcies
 buboed
 bookies
@@ -9203,6 +9202,7 @@ bletting
 biosterol
 beefburger
 barrowist
+baronetcy
 biota
 biotaxy
 barotropy
