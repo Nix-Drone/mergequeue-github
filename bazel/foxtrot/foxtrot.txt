@@ -3471,7 +3471,6 @@ figgum
 fight
 funniment
 fightable
-forel
 fighteress
 fanwort
 fighting
@@ -3740,6 +3739,7 @@ flimflammer
 fittiness
 fillipeen
 filliping
+forel
 ferroconcrete
 fayence
 fillips
