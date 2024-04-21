@@ -5085,7 +5085,6 @@ flat
 fids
 flatbed
 faciobrachial
-flatcaps
 flatcar
 flossed
 flatcars
@@ -8892,6 +8891,7 @@ fossulae
 fossulate
 fostell
 featureless
+flatcaps
 foster
 fordeal
 fosterage
