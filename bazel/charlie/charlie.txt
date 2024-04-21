@@ -19271,7 +19271,6 @@ colonises
 colonising
 colonist
 chiromancer
-colonizability
 colonizable
 colonizationist
 colonizations
@@ -20403,6 +20402,7 @@ companator
 compander
 companero
 counterword
+colonizability
 companeros
 cannels
 company
