@@ -1074,7 +1074,6 @@ farmerlike
 farmership
 farmhold
 farmhouse
-feronia
 farmhousey
 fontinalaceae
 fuzzle
@@ -6726,6 +6725,7 @@ figworts
 fogfruit
 foretype
 feeders
+feronia
 fogfruits
 fogger
 foggers
