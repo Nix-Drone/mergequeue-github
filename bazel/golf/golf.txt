@@ -897,7 +897,6 @@ gellant
 gristles
 gambirs
 gambist
-gambits
 guillemot
 gamble
 gambler
@@ -5631,6 +5630,7 @@ grandparenthood
 glittery
 glitteringly
 glitters
+gambits
 grossify
 glittersome
 gloam
