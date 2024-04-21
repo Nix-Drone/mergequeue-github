@@ -5531,7 +5531,6 @@ fascicle
 flyback
 flyball
 flybane
-flibbertigibbety
 flybelt
 flybelts
 flyby
@@ -8556,6 +8555,7 @@ fornax
 frighty
 fornaxid
 freshing
+flibbertigibbety
 forncast
 fornent
 fornical
