@@ -11815,6 +11815,7 @@ chooseable
 copaljocote
 caprock
 chooser
+counterbase
 choosers
 cadilesker
 chooses
@@ -26666,7 +26667,6 @@ counterbalanced
 counterbalances
 counterbalancing
 counterbarrage
-counterbase
 counterbattery
 counterbeating
 counterbend
