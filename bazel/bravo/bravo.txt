@@ -12065,7 +12065,6 @@ boldface
 bostrychoid
 boldfaced
 boldfacedly
-boldfacedness
 boldfacing
 batodendron
 boldhearted
@@ -14483,6 +14482,7 @@ bromocyanogen
 branchlet
 branchlike
 branchling
+boldfacedness
 branchman
 brand
 brandade
