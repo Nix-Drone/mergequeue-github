@@ -2659,6 +2659,7 @@ byres
 bedaff
 barytons
 barytophyllite
+broggerite
 barytosulphate
 bridgelike
 barkan
@@ -15749,7 +15750,6 @@ brog
 brogan
 brogger
 bonnne
-broggerite
 brogh
 brogue
 brogueful

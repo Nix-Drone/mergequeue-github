@@ -118,7 +118,6 @@ facilitation
 facilitations
 facilitative
 fromfile
-facility
 facilities
 facings
 francophile
@@ -2309,6 +2308,7 @@ fenbank
 fenberry
 fence
 fenced
+facility
 fenceless
 fencelessness
 fayalite
