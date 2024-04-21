@@ -6617,7 +6617,6 @@ fixers
 foalfoots
 foothill
 foaly
-foaling
 foals
 forestick
 foam
@@ -7900,6 +7899,7 @@ flashproof
 foreprepare
 forepretended
 foreprize
+foaling
 foreproduct
 foreproffer
 forepromise
