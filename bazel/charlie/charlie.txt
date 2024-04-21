@@ -5725,7 +5725,6 @@ category
 categorial
 categoric
 chondrified
-categorical
 categorically
 categoricalness
 categories
@@ -24002,6 +24001,7 @@ conveniently
 confessionalist
 convenientness
 convening
+categorical
 convent
 cylinderlike
 conventically
