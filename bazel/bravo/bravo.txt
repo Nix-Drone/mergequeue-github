@@ -4663,7 +4663,6 @@ beddings
 bede
 bro
 bogans
-bedeaf
 bedeafen
 ballett
 bedeafened
@@ -18151,6 +18150,7 @@ butene
 butenes
 butenyl
 buteo
+bedeaf
 buteonine
 buteos
 butic
