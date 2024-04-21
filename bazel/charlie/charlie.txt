@@ -7844,7 +7844,6 @@ cervicolingual
 cervicolumbar
 crystal
 cervicomuscular
-cerviconasal
 cervicoscapular
 cervicothoracic
 cervicovesical
@@ -14821,6 +14820,7 @@ citified
 cityfied
 citifies
 citifying
+cerviconasal
 cityfolk
 citigradae
 citigrade
