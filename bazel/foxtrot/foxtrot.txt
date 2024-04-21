@@ -705,7 +705,6 @@ famille
 formaldehydesulphoxylate
 famine
 fifteener
-famines
 famished
 fired
 famishing
@@ -5830,6 +5829,7 @@ forswat
 forcedness
 fraternate
 fastigia
+famines
 fname
 floccillation
 floccipend
