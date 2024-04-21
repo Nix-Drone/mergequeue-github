@@ -19463,7 +19463,6 @@ colpocystocele
 colpohyperplasia
 colpohysterotomy
 colpoperineoplasty
-colpoperineorrhaphy
 colpoplasty
 colpoptosis
 colporrhagia
@@ -25853,6 +25852,7 @@ cortication
 cortices
 corticiferous
 catchland
+colpoperineorrhaphy
 corticiform
 corticifugal
 cimicid
