@@ -11368,7 +11368,6 @@ chloropia
 chloropicrin
 chloroplast
 chloroplastic
-chloroplastid
 complanate
 chloroplasts
 chloroplatinate
@@ -19077,6 +19076,7 @@ collocal
 collocalia
 copintank
 collocate
+chloroplastid
 collocated
 collocates
 collocating
