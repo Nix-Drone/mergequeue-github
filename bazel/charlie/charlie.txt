@@ -8804,7 +8804,6 @@ chapellany
 chapelled
 chapelling
 cyclophoric
-chapelman
 chapelmaster
 chapelry
 chapelries
@@ -15761,6 +15760,7 @@ clavicularium
 claviculate
 claviculus
 clavier
+chapelman
 clavierist
 clavierists
 claviers
