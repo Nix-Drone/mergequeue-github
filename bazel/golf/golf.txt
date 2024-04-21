@@ -4746,6 +4746,7 @@ gyro
 gelid
 gyroceran
 gallery
+gametic
 guildsman
 golliwogg
 gorkhali
@@ -10276,7 +10277,6 @@ guittonian
 guywire
 gujarati
 geese
-gametic
 glopnen
 gurgle
 gelly
