@@ -1101,6 +1101,7 @@ ganged
 ganger
 gelidity
 gonosphere
+getatable
 gangerel
 gangers
 ghaut
@@ -4280,7 +4281,6 @@ gymnolaematous
 germinability
 glimed
 gymnonoti
-getatable
 gamostely
 gundogs
 gymnophiona
