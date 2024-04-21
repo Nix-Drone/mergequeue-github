@@ -3496,7 +3496,6 @@ bastionet
 branchiopulmonate
 bastions
 bastite
-bastnaesite
 bastnasite
 balanoglossus
 basto
@@ -11712,6 +11711,7 @@ boccie
 boccies
 bocconia
 bocedization
+bastnaesite
 boche
 bocher
 boches
