@@ -11593,7 +11593,6 @@ anaerobes
 anaerobian
 anaerobic
 anaerobically
-anaerobies
 anaerobion
 anaerobiont
 anaerobiosis
@@ -19532,6 +19531,7 @@ argilliferous
 argillite
 argillocalcareous
 argillocalcite
+anaerobies
 argilloferruginous
 argilloid
 argillous
