@@ -5068,7 +5068,6 @@ denationalise
 dilleniad
 denationalised
 denationalization
-denationalize
 denationalized
 denaturalisation
 denaturalise
@@ -9924,6 +9923,7 @@ dohter
 downfalls
 disciplines
 diminutions
+denationalize
 diminutival
 disgarrison
 dimiss
