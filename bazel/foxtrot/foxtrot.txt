@@ -1675,7 +1675,6 @@ faxed
 fructuosity
 faxing
 fazes
-fc
 fchar
 fipenny
 fcomp
@@ -4940,6 +4939,7 @@ fact
 flanconnade
 frappeed
 flandan
+fc
 fibroligamentous
 fieriness
 fertilisable
