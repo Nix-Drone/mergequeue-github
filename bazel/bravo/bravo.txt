@@ -2174,7 +2174,6 @@ bowlines
 bannockburn
 bannocks
 bannut
-banovina
 banquet
 banqueted
 banqueter
@@ -8722,6 +8721,7 @@ brochette
 billposting
 bacterize
 billsticker
+banovina
 billtong
 bilobate
 bilobated
