@@ -7477,7 +7477,6 @@ ceratophrys
 changepocket
 crozier
 ceratopsian
-ceratopsid
 cutikin
 ceratopteridaceae
 ceratopteridaceous
@@ -25840,6 +25839,7 @@ corsos
 corta
 cortaro
 cookies
+ceratopsid
 corteges
 cortes
 cortex
