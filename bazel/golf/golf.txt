@@ -899,6 +899,7 @@ gambirs
 gambist
 gambits
 guillemot
+greyling
 gamble
 gambler
 gamblesome
@@ -8821,7 +8822,6 @@ greying
 gigantoblast
 greylag
 greylags
-greyling
 gyte
 greillade
 gunfighter
