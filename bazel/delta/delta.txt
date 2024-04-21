@@ -11305,6 +11305,7 @@ discharacter
 drapery
 dischargeable
 discharged
+dragrope
 dischargee
 discharger
 dischargers
@@ -16653,7 +16654,6 @@ dragooned
 decuple
 dragooner
 dragooning
-dragrope
 decades
 discoplacentalia
 dragropes
