@@ -2415,7 +2415,6 @@ dueling
 decimalist
 decimalization
 decimalize
-decimalized
 decimalizes
 decimally
 decimals
@@ -2861,6 +2860,7 @@ decrowning
 decrowns
 didapper
 decrudescence
+decimalized
 decrustation
 decubital
 dormin
