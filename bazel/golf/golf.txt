@@ -3223,7 +3223,6 @@ goofs
 georgics
 gripy
 georgium
-geoscience
 geoscientist
 geoscientists
 geoscopy
@@ -7169,6 +7168,7 @@ gutturalization
 gored
 gresil
 gorer
+geoscience
 gores
 gorfly
 gorged
