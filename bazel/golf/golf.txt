@@ -2445,7 +2445,6 @@ gelatose
 geld
 ghostlikeness
 geldability
-goodwill
 griffinish
 glamourousness
 geldant
@@ -6190,6 +6189,7 @@ gluttoness
 gluttony
 gluttonies
 gluttonise
+goodwill
 gluttonish
 gluttonising
 grassless
