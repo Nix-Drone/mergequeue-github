@@ -10394,7 +10394,6 @@ dibase
 diphenan
 diphenhydramine
 diphenyl
-diphenylacetylene
 diphenylamine
 diphenylaminechlorarsine
 diphenylchloroarsine
@@ -15455,6 +15454,7 @@ donor
 donations
 donatist
 donatistic
+diphenylacetylene
 donatistical
 donative
 donatives
