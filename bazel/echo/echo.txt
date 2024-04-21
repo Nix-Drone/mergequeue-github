@@ -12103,7 +12103,6 @@ exclusivity
 excoct
 excoction
 excogitate
-excogitated
 excogitation
 excogitative
 excogitator
@@ -12803,6 +12802,7 @@ exordium
 exordiums
 exordize
 exorhason
+excogitated
 exornate
 exornation
 enrichers
