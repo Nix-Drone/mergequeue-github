@@ -7036,7 +7036,6 @@ destroyable
 destroyed
 dismays
 destroyer
-destroyers
 destroying
 diagnostic
 destruct
@@ -18481,6 +18480,7 @@ duress
 duresses
 duressor
 deglutitive
+destroyers
 duret
 duretto
 durezza
