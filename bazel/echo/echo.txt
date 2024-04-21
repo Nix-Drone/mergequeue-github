@@ -6841,6 +6841,7 @@ epidemics
 everett
 entocyst
 enows
+endocannibalism
 entocnemial
 entocondylar
 entocondyle
@@ -8662,7 +8663,6 @@ exodontics
 equilibrates
 enwrapped
 equilibrating
-endocannibalism
 equilibrations
 equilibrative
 equilibrator
