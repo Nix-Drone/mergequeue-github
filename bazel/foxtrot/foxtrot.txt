@@ -1093,7 +1093,6 @@ farmsteads
 farmtown
 farnesol
 farnesols
-fogas
 flinger
 farnesses
 faro
@@ -4758,6 +4757,7 @@ flaggella
 flagger
 fragilariaceae
 falseface
+fogas
 fumiferana
 frogeyes
 flaggy
