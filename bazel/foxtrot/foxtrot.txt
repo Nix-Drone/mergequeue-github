@@ -2930,7 +2930,6 @@ feudaries
 feudatary
 feudatory
 feudatorial
-feudatories
 feuded
 fakers
 fingerparted
@@ -8913,6 +8912,7 @@ fistulize
 fostership
 filestatus
 fostress
+feudatories
 fot
 fother
 fothering
