@@ -6029,6 +6029,7 @@ agglutinogenic
 agglutinoid
 agglutinoscope
 agglutogenic
+aleshot
 aggrace
 aggradation
 aggrade
@@ -7894,7 +7895,6 @@ alertness
 alerts
 ales
 alesan
-aleshot
 aletap
 aletaster
 alethea
