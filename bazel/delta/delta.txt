@@ -8128,7 +8128,6 @@ diaconica
 diaconicon
 diaconicum
 diacope
-diacoustics
 diacranterian
 diacrisis
 diacritic
@@ -9385,6 +9384,7 @@ diffusive
 diffusor
 diffusors
 difluence
+diacoustics
 disubstitution
 difluoride
 dipaschal
