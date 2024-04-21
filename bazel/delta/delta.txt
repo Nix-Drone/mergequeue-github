@@ -2480,6 +2480,7 @@ decking
 deckle
 deckman
 deckpipe
+daemonian
 decks
 dulls
 deckswabber
@@ -9583,7 +9584,6 @@ disfunctions
 dihydrazone
 dihydric
 disulphonic
-daemonian
 dihydrite
 dihydrochloride
 dihydrocuprin
