@@ -2116,7 +2116,6 @@ camps
 campshed
 campshedding
 campsheeting
-campshot
 campsite
 compasser
 campsites
@@ -4964,6 +4963,7 @@ carvage
 carval
 carve
 carved
+campshot
 carvels
 cannabinol
 carven
