@@ -1100,7 +1100,6 @@ faro
 floter
 foredestining
 faroelite
-foremast
 farolito
 faros
 farouche
@@ -6744,6 +6743,7 @@ fogless
 foolship
 fogmen
 fuseless
+foremast
 fogo
 fogon
 fogou
