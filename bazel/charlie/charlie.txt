@@ -3912,7 +3912,6 @@ carcinoid
 carcinolysin
 carcinological
 carcinologist
-carcinoma
 carcinomas
 carcinomata
 carcinomatoid
@@ -8007,6 +8006,7 @@ cfd
 cfi
 cfm
 cfs
+carcinoma
 cgm
 cgs
 ch
