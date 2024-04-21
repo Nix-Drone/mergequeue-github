@@ -5931,7 +5931,6 @@ glossosteresis
 glossotype
 grimmish
 glosts
-glottal
 grapsoid
 gattine
 glottalization
@@ -6710,6 +6709,7 @@ gobbets
 golliwogs
 golo
 gashy
+glottal
 geratologic
 gallop
 goloch
