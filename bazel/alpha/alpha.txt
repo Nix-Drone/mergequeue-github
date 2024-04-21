@@ -6216,7 +6216,6 @@ asphodels
 aufklarung
 aglycones
 aglycons
-aglycosuric
 aglimmer
 aglint
 aglipayan
@@ -12762,6 +12761,7 @@ angiodiascopy
 angioelephantiasis
 atrabile
 angiofibroma
+aglycosuric
 angiogenesis
 angiogeny
 angiogenic
