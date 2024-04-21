@@ -5622,6 +5622,7 @@ brandishers
 belait
 biface
 belaites
+behold
 belam
 belamcanda
 belamy
@@ -12201,7 +12202,6 @@ bowenite
 bolter
 bolters
 boltheader
-behold
 boltheading
 bolthole
 bolti
