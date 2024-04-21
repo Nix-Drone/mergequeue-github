@@ -990,6 +990,7 @@ calcaneocuboid
 calcaneonavicular
 calcaneoplantar
 countersale
+cumuliform
 calcaneoscaphoid
 calcaneotibial
 calcaneum
@@ -30993,7 +30994,6 @@ countersunk
 cumulene
 cumulet
 cumuli
-cumuliform
 chugger
 cumulite
 cumulocirrus
