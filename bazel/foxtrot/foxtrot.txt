@@ -3131,7 +3131,6 @@ fibrocytic
 fibroelastic
 floatiness
 fibroenchondroma
-fibroferrite
 fibroglioma
 fibrohemorrhagic
 farfet
@@ -10521,6 +10520,7 @@ frostroot
 footbridges
 favose
 flutterment
+fibroferrite
 frostwort
 froth
 frothed
