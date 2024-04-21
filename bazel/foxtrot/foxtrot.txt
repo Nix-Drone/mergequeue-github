@@ -3610,7 +3610,6 @@ filemot
 foreknee
 filename
 filenames
-filer
 fanons
 filers
 files
@@ -7605,6 +7604,7 @@ forecooler
 forecount
 frizzier
 forecourt
+filer
 forpined
 fructoside
 fainted
