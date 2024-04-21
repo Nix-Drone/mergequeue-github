@@ -3585,7 +3585,6 @@ defunctionalize
 defunctive
 defused
 defuses
-defusion
 dingles
 dolman
 defuzed
@@ -3838,6 +3837,7 @@ deign
 deigned
 deigning
 diwan
+defusion
 deigns
 deyhouse
 defail
