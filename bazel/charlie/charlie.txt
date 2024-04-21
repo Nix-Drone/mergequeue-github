@@ -15078,7 +15078,6 @@ ciudad
 cyul
 cosmesis
 civ
-carbonado
 cive
 civet
 civetone
@@ -25378,6 +25377,7 @@ cornu
 closefisted
 cornua
 cornual
+carbonado
 cornuate
 cornuated
 coelastraceae
