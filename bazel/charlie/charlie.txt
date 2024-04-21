@@ -2567,7 +2567,6 @@ canli
 coff
 canmaker
 climbs
-canman
 cann
 canna
 cannabic
@@ -20923,6 +20922,7 @@ compromissorial
 compromit
 compromitment
 compromitted
+canman
 compsilura
 compsoa
 cremnophobia
