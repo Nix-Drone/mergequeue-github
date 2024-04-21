@@ -6142,7 +6142,6 @@ derealization
 derecho
 dereference
 dereferenced
-dereferencing
 deregister
 deregulate
 deregulated
@@ -14106,6 +14105,7 @@ diswarrened
 diswarrening
 diswashing
 disweapon
+dereferencing
 diswench
 diswere
 diswit
