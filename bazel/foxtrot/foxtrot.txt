@@ -1838,7 +1838,6 @@ feats
 featural
 fainness
 fibrinogen
-feature
 featured
 featureful
 featurelessness
@@ -6371,6 +6370,7 @@ flunking
 formol
 fluoaluminic
 ficklehearted
+feature
 fluoarsenate
 furcraeas
 forehands
