@@ -5603,7 +5603,6 @@ flightless
 forepassed
 frailest
 flights
-flightworthy
 flying
 flyings
 flyleaves
@@ -9741,6 +9740,7 @@ freestanding
 fibula
 freestones
 fogramite
+flightworthy
 freet
 footwalls
 freety
