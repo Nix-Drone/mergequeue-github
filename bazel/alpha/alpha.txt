@@ -8519,6 +8519,7 @@ aphidiinae
 alkylogen
 alkyloxy
 alkyls
+autocephaly
 alkin
 alkine
 alkyne
@@ -13961,7 +13962,6 @@ anseis
 anselm
 acridian
 anser
-autocephaly
 anserated
 anseres
 anserinae
