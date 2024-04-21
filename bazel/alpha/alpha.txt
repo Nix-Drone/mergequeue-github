@@ -209,7 +209,6 @@ abbogada
 abbot
 abbotcies
 abbotnullius
-abbotric
 abbots
 adlumine
 abbotships
@@ -4955,6 +4954,7 @@ aerodrome
 aerodromes
 acetyltannin
 aeroduct
+abbotric
 aeroducts
 aeroelastic
 aeroelasticity
