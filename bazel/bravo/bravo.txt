@@ -3038,6 +3038,7 @@ bartender
 bess
 bartenders
 bartending
+bemocked
 barter
 barterer
 barterers
@@ -6068,7 +6069,6 @@ bemoaning
 bemoaningly
 bemoat
 bemock
-bemocked
 bemocking
 bibliological
 bemocks
