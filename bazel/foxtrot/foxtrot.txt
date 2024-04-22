@@ -4693,7 +4693,6 @@ flabellum
 fullage
 flabile
 flabrum
-flabs
 flaccid
 flaccidness
 flachery
@@ -6160,6 +6159,7 @@ finality
 flowcontrol
 flowe
 flanche
+flabs
 flowed
 flower
 flowerage
