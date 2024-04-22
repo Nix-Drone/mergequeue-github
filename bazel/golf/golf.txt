@@ -2724,7 +2724,6 @@ generatrices
 generic
 generically
 gabeler
-genericness
 globosphaerite
 gorger
 glaumrie
@@ -7070,6 +7069,7 @@ grindle
 gooroo
 goosander
 goose
+genericness
 goosebeak
 gooseberry
 geranomorphae
