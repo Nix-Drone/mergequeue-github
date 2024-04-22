@@ -5145,7 +5145,6 @@ befog
 befogged
 baetylus
 befogging
-beguile
 befogs
 batoid
 befooled
@@ -6384,6 +6383,7 @@ benzalethylamine
 benzalphenylhydrazone
 benzalphthalide
 benzamide
+beguile
 benzamido
 benzamine
 benzaminic
