@@ -764,7 +764,6 @@ badgeman
 barrels
 boraciferous
 badgemen
-badger
 badgerbrush
 badgered
 badgerer
@@ -3273,6 +3272,7 @@ bicorporeal
 basilic
 basilica
 basilicae
+badger
 basilical
 basilican
 brownback
