@@ -5917,6 +5917,7 @@ depreciate
 depreciated
 depreciatingly
 depreciation
+detruncating
 depreciative
 depreciatively
 depreciator
@@ -7372,7 +7373,6 @@ driblet
 distalia
 detruding
 detruncate
-detruncating
 detruncation
 damneder
 demonologies
