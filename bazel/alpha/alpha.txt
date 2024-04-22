@@ -3910,7 +3910,6 @@ adipocere
 anthropological
 adipoceriform
 adipocerite
-adipocyte
 adipofibroma
 adipogenic
 adipogenous
@@ -10609,6 +10608,7 @@ aminoformic
 aminogen
 aminoglutaric
 aminoguanidine
+adipocyte
 aminoid
 aminoketone
 antitheistical
