@@ -3071,7 +3071,6 @@ gollop
 geoffroyin
 gekko
 geomance
-geoform
 gillnet
 geogen
 geogenesis
@@ -8084,6 +8083,7 @@ gripper
 granulet
 galuth
 gloomful
+geoform
 granulite
 granulitis
 granulitization
