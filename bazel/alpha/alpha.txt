@@ -1308,7 +1308,6 @@ acanthomas
 acanthomeridae
 acanthon
 acanthopanax
-acanthophis
 acanthophorous
 acanthopod
 acanthopodous
@@ -8561,6 +8560,7 @@ allantoin
 analyzer
 allantoinase
 allantoinuria
+acanthophis
 acetoxim
 allantoxaidin
 allargando
