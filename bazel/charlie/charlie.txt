@@ -11739,7 +11739,6 @@ credential
 chondroarthritis
 chondroblastoma
 concealingly
-chondrocyte
 chondroclasis
 chondrocoracoid
 chondrocranial
@@ -25559,6 +25558,7 @@ corners
 corporatism
 corporatist
 corporative
+chondrocyte
 corporatively
 corporativism
 conceptualise
