@@ -7983,7 +7983,6 @@ epimedium
 epimer
 epimeral
 epimeres
-epimeric
 epimeride
 epimerism
 enorganic
@@ -9356,6 +9355,7 @@ erratic
 erratical
 erratically
 endosmos
+epimeric
 erraticalness
 erraticism
 erred
