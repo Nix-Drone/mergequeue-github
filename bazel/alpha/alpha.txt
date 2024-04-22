@@ -946,7 +946,6 @@ absentmindedly
 absentmindedness
 absentness
 absents
-absfarad
 abshenry
 absi
 absinth
@@ -6226,6 +6225,7 @@ aglipayan
 aglipayano
 aglypha
 aglyphodont
+absfarad
 aglyphodonta
 aglyphodontia
 aglyphous
