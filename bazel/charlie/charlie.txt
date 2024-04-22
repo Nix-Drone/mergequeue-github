@@ -5404,7 +5404,6 @@ catabolically
 catabolin
 catabolism
 catabolite
-catabolize
 catabolized
 clerkdom
 claim
@@ -8985,6 +8984,7 @@ chargeful
 chargehouse
 chargeless
 chargeman
+catabolize
 charger
 charges
 chargeship
