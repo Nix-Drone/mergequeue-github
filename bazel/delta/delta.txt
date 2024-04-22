@@ -3602,7 +3602,6 @@ degases
 degasify
 disguise
 definition
-degass
 degassed
 degassing
 degauss
@@ -11451,6 +11450,7 @@ discoloring
 dissuasion
 doest
 discolorment
+degass
 discolors
 dure
 discoloured
