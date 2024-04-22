@@ -12863,7 +12863,6 @@ angled
 affrightingly
 asps
 angledog
-anglehook
 anglepod
 anglepods
 angler
@@ -16216,6 +16215,7 @@ antiship
 antishipping
 antisi
 antisialagogue
+anglehook
 alisma
 antisiccative
 antisideric
