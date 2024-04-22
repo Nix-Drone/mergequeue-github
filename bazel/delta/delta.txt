@@ -12759,7 +12759,6 @@ dismiss
 dismissable
 dismissal
 dismissals
-dismissed
 dismisser
 doormaking
 dismissers
@@ -16961,6 +16960,7 @@ drearing
 drearisome
 drearly
 drearness
+dismissed
 dreche
 drecks
 dredge
