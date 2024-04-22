@@ -4191,6 +4191,7 @@ gim
 gimbal
 gimbaled
 gimballed
+gallinago
 groundsheet
 groining
 guildry
@@ -8302,7 +8303,6 @@ gazelles
 grassnut
 gawby
 grassplot
-gallinago
 grassroots
 generalship
 grasswidow
