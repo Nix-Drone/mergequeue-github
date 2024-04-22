@@ -3146,7 +3146,6 @@ defalk
 defamation
 defamations
 defamatory
-defame
 defamed
 dragginess
 defamer
@@ -7549,6 +7548,7 @@ denaturising
 develing
 diegueno
 develop
+defame
 developable
 develope
 developed
