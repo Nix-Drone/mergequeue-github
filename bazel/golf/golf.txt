@@ -1386,7 +1386,6 @@ grippers
 gazania
 gare
 garefowl
-garefowls
 germanhood
 garetta
 garewaite
@@ -6275,6 +6274,7 @@ gnathostomata
 gnathostome
 gnathostomi
 gnathotheca
+garefowls
 gillot
 gladdy
 gnatlike
