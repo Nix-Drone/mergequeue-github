@@ -4636,7 +4636,6 @@ fixt
 fusiformis
 fixtureless
 farming
-fixup
 fixups
 fixure
 fixures
@@ -6975,6 +6974,7 @@ fatheads
 follow
 followable
 followed
+fixup
 follower
 foisting
 followers
