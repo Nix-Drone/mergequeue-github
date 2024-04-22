@@ -11574,7 +11574,6 @@ cholecystography
 cholecystojejunostomy
 cholecystokinin
 cholecystolithiasis
-cholecystolithotripsy
 cholecystopexy
 cholecystorrhaphy
 cholecystostomy
@@ -13206,6 +13205,7 @@ cicatrization
 cicatrize
 cicatrized
 cicatrizer
+cholecystolithotripsy
 cicatrizing
 cicely
 cicelies
