@@ -4395,6 +4395,7 @@ frameworks
 fishlet
 fishlike
 furlough
+foreacquaint
 fishline
 fishlines
 fishling
@@ -11706,7 +11707,6 @@ futures
 futuric
 feminines
 flippancy
-foreacquaint
 faiences
 forefaces
 futurisms
