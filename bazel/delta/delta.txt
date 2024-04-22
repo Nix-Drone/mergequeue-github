@@ -444,6 +444,7 @@ dairymen
 dairywoman
 dairywomen
 dayroom
+demobilize
 dayrooms
 dairous
 dairt
@@ -4786,7 +4787,6 @@ demobilise
 disremember
 demobilising
 demobilizations
-demobilize
 demobilizes
 diaheliotropism
 demobilizing
