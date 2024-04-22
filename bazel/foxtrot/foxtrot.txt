@@ -2384,6 +2384,7 @@ feods
 falconer
 fehmic
 feodum
+fractioning
 feoff
 feoffees
 fconvert
@@ -9235,7 +9236,6 @@ fractionation
 flab
 fossorial
 fractioned
-fractioning
 fractionisation
 fractionise
 fractionised
