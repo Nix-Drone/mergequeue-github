@@ -7353,7 +7353,6 @@ foraneen
 foraramens
 frequentation
 forastero
-forbad
 fie
 forbade
 forbare
@@ -10616,6 +10615,7 @@ fruchtschiefer
 fenlander
 feodaries
 fittest
+forbad
 fructescent
 fructiculose
 fructicultural
