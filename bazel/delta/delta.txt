@@ -5424,7 +5424,6 @@ dilating
 dentolabial
 dentolingual
 dentololabial
-dentonasal
 dielytra
 dentosurgical
 disrate
@@ -11920,6 +11919,7 @@ deliciate
 dodecahydrate
 disemboweling
 disembowelled
+dentonasal
 decoherer
 disembowelling
 disembowelment
