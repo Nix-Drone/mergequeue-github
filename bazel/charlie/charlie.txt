@@ -11311,7 +11311,6 @@ chloroethene
 chloroethylene
 chlorofluorocarbon
 chlorofluoromethane
-chloroformate
 chloroformed
 chloroformic
 chatino
@@ -15726,6 +15725,7 @@ clave
 cytoryctes
 clavecin
 clavecinist
+chloroformate
 clavel
 clavelization
 clavelize
