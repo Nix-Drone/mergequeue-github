@@ -138,7 +138,6 @@ amoebid
 abate
 abated
 abatement
-abatements
 abater
 abaters
 abatic
@@ -3043,6 +3042,7 @@ acrux
 anteroposteriorly
 acta
 actability
+abatements
 actable
 actaea
 actaeaceae
