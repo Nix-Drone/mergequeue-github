@@ -9075,7 +9075,6 @@ eringos
 ectotherm
 eryngos
 erinys
-erinite
 engobe
 erinize
 erinose
@@ -9608,6 +9607,7 @@ escry
 escribe
 eiffel
 escribiente
+erinite
 escribientes
 escrime
 escript
