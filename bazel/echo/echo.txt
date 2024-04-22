@@ -691,7 +691,6 @@ ecliptics
 eclogic
 eclogite
 eclogites
-eclogue
 eclogues
 eclosion
 earsore
@@ -7077,6 +7076,7 @@ eutectoid
 entropy
 entropion
 elutriating
+eclogue
 entropionize
 entrough
 entrust
