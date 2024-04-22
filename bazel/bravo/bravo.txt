@@ -12680,7 +12680,6 @@ barwise
 bookpress
 bookrack
 bookracks
-baronry
 barrulety
 bookrest
 bookrests
@@ -13907,6 +13906,7 @@ brabblers
 brabbling
 beep
 backcasts
+baronry
 boxmaking
 babuina
 bimahs
