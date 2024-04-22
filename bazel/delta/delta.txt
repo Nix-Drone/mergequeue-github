@@ -5672,7 +5672,6 @@ depetalize
 depetticoat
 dephase
 dephased
-dephasing
 dephycercal
 dephysicalization
 dephysicalize
@@ -12973,6 +12972,7 @@ decliners
 danegeld
 dispence
 direly
+dephasing
 dispend
 dispended
 dispender
