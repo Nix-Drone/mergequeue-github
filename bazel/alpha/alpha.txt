@@ -1852,7 +1852,6 @@ accusatrix
 accusatrixes
 accuse
 accused
-accuser
 accusers
 asport
 aporrhoea
@@ -18571,6 +18570,7 @@ arbitrate
 aroint
 arbitrating
 accidentalist
+accuser
 arbitration
 arbitrationist
 arbitrations
