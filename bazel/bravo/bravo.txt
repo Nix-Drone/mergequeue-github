@@ -2541,6 +2541,7 @@ baresarks
 baresma
 binotic
 baresthesia
+bedecorate
 baret
 baretta
 barf
@@ -4673,7 +4674,6 @@ bedeck
 bedecked
 bedecking
 bedecks
-bedecorate
 bedegar
 bedeguar
 bedehouse
