@@ -2693,6 +2693,7 @@ fertilizer
 fillagreing
 fertilizers
 foremelt
+fencing
 ferula
 foghorns
 ferulaceous
@@ -5842,7 +5843,6 @@ fangas
 flocculation
 flocculator
 forts
-fencing
 floccule
 flocculence
 furans
