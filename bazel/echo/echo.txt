@@ -2342,6 +2342,7 @@ electrocautery
 evasion
 electroceramic
 electrochemical
+exarchic
 electrochemically
 electrochemistry
 electrochronometer
@@ -11837,7 +11838,6 @@ exarchal
 exarchate
 exarchateship
 euripidean
-exarchic
 exarchies
 exarchist
 exareolate
