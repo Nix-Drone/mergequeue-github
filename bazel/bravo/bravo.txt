@@ -4654,6 +4654,7 @@ bedcovers
 beddable
 bedders
 bedding
+backbear
 beddingroll
 beddings
 bede
@@ -8132,7 +8133,6 @@ bicornes
 bochur
 brunissure
 bicornous
-backbear
 bilker
 bicornuate
 bicornuous
