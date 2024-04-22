@@ -5887,7 +5887,6 @@ bellows
 brite
 bellowsful
 befilch
-bellowslike
 belted
 bellowsmaker
 bellowsmaking
@@ -16383,6 +16382,7 @@ braker
 betrace
 brushed
 brusher
+bellowslike
 booted
 brushes
 bedstock
