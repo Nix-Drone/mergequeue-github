@@ -5761,7 +5761,6 @@ catenaries
 catenas
 catenate
 crooisite
-catenates
 catenating
 catenation
 catenative
@@ -21094,6 +21093,7 @@ concavity
 concavities
 concavo
 conceal
+catenates
 concealable
 culicide
 concealedly
