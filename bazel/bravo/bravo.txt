@@ -2827,7 +2827,6 @@ baronets
 baronetship
 barong
 baronga
-barongs
 barony
 bassets
 baronial
@@ -12368,6 +12367,7 @@ banisterine
 blintz
 bonchief
 bond
+barongs
 berberins
 bondable
 bondage
