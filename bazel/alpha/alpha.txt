@@ -3437,7 +3437,6 @@ adapid
 adapt
 adaptability
 adaptable
-adaptableness
 adaptably
 almocrebe
 adaptationally
@@ -5275,6 +5274,7 @@ affectionately
 affectionateness
 affectioned
 affectionless
+adaptableness
 affections
 affectious
 affective
