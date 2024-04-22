@@ -1338,6 +1338,7 @@ feasances
 fastland
 fastnacht
 fromage
+forestery
 fastnesses
 feed
 frogskins
@@ -4140,7 +4141,6 @@ firebombing
 frostlike
 faithwise
 firebombs
-forestery
 fireboot
 firebox
 frogflower
