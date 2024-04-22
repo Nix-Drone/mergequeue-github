@@ -2703,7 +2703,6 @@ barkpeeling
 beheld
 barksome
 becrawls
-barkstone
 barlafumble
 barlafummil
 barleduc
@@ -7084,6 +7083,7 @@ besmudged
 besmudges
 besmudging
 besmut
+barkstone
 biograph
 besmutch
 baalist
