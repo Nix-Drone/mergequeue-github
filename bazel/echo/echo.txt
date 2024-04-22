@@ -4000,6 +4000,7 @@ eversions
 emoted
 emoters
 emoting
+entrymen
 emotiomotor
 emotion
 emotionable
@@ -7070,7 +7071,6 @@ entries
 entrike
 entryman
 enteroid
-entrymen
 entryway
 entryways
 episcopes
