@@ -3479,6 +3479,7 @@ defog
 defogged
 didymus
 disyllable
+dropline
 defoggers
 defogging
 defogs
@@ -17398,7 +17399,6 @@ droplight
 droplike
 drib
 doigt
-dropline
 depletes
 dusts
 diduced
