@@ -14234,7 +14234,6 @@ circularizing
 circularly
 circularness
 circulars
-circulatable
 circulated
 circulates
 circulation
@@ -31235,6 +31234,7 @@ curatives
 curatolatry
 curator
 curatory
+circulatable
 curatorial
 curatorium
 charkha
