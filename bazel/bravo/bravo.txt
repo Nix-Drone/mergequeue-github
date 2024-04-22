@@ -7912,7 +7912,6 @@ bohmite
 biblic
 bipunctal
 biblical
-biblicality
 biblically
 biblicism
 biblicist
@@ -11583,6 +11582,7 @@ boatbuilding
 boated
 boatel
 boatels
+biblicality
 boatheader
 boathook
 boathouse
