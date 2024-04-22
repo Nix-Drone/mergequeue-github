@@ -5257,7 +5257,6 @@ begetters
 broth
 beggardom
 beggared
-beggarer
 beggaress
 bulletheaded
 barret
@@ -7026,6 +7025,7 @@ besieging
 besiegingly
 besin
 besit
+beggarer
 beslab
 burses
 beslabber
