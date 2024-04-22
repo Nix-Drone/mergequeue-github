@@ -5823,7 +5823,6 @@ engraver
 engravers
 engraves
 easts
-engysseismology
 endophytous
 engravings
 engreaten
@@ -12852,6 +12851,7 @@ exoterically
 exotericism
 embossmen
 exotheca
+engysseismology
 exothecal
 exothecate
 exothecium
