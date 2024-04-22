@@ -9939,6 +9939,7 @@ christenhead
 chemostat
 collateral
 cancers
+condensations
 chemosterilants
 chemosurgery
 chemosurgical
@@ -16236,7 +16237,6 @@ clinical
 clinically
 clinician
 clinicians
-condensations
 cask
 clinicist
 clinicopathological
