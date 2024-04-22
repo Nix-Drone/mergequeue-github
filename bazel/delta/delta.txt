@@ -10762,7 +10762,6 @@ dirdums
 dire
 direcly
 direct
-directable
 directcarving
 directdiscourse
 directed
@@ -15981,6 +15980,7 @@ dotterel
 dotterels
 dottier
 dottiest
+directable
 dottily
 dottiness
 disintegratory
