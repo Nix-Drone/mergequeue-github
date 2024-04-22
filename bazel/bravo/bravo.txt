@@ -12894,7 +12894,6 @@ bops
 bopster
 bor
 bora
-borable
 borachio
 boracic
 boracite
@@ -17840,6 +17839,7 @@ bordellos
 burrknot
 burro
 bearnaise
+borable
 burrock
 blueblack
 breakback
