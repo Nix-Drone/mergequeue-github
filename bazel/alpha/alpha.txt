@@ -506,7 +506,6 @@ abjuration
 abjurations
 abjuratory
 abjure
-abjured
 abjurement
 abjurer
 abjurers
@@ -8977,6 +8976,7 @@ allotropic
 allotropical
 allotropically
 allotropicity
+abjured
 allotropies
 autochton
 archizoic
