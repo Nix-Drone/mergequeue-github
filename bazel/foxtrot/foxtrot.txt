@@ -4821,7 +4821,6 @@ flay
 feridji
 flayed
 fault
-front
 flayer
 flaying
 flailed
@@ -5696,6 +5695,7 @@ flirt
 florilegium
 flirtationless
 flirtations
+front
 flirtatiously
 flirtatiousness
 fertilizability
