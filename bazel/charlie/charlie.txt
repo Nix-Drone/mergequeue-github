@@ -19267,7 +19267,6 @@ colonisability
 colonisable
 colonisationist
 colonise
-colonised
 colonises
 colonising
 colonist
@@ -20444,6 +20443,7 @@ comparatival
 comparative
 comparatively
 comparativeness
+colonised
 comparatives
 contratabular
 comparativist
