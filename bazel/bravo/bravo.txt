@@ -680,7 +680,6 @@ bacteriostat
 bacteriostatically
 bacteriotherapeutic
 bacteriotherapy
-balanophorin
 bacteriotoxic
 bechances
 bacteriotoxin
@@ -5821,6 +5820,7 @@ bellyaches
 bellyaching
 bellibone
 bellybutton
+balanophorin
 bellybuttons
 bellic
 bldg
