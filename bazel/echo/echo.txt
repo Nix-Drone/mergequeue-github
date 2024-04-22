@@ -2661,7 +2661,6 @@ electrotelethermometer
 endplay
 electrotellurograph
 electrothanatosis
-exogens
 equipollently
 electrotherapeutical
 electrotherapeutist
@@ -11504,6 +11503,7 @@ enlaced
 everyness
 everyone
 everyplace
+exogens
 everything
 extermine
 everyway
