@@ -5351,6 +5351,7 @@ endostracum
 enteromycosis
 endosulfan
 endothecal
+executable
 estrade
 extorter
 euchite
@@ -12279,7 +12280,6 @@ execrator
 emusive
 execrators
 exect
-executable
 executant
 engines
 execute
