@@ -6761,7 +6761,6 @@ cellblocks
 celled
 centennium
 cellepora
-cellepore
 cellfalcicula
 celli
 celliferous
@@ -11537,6 +11536,7 @@ cholate
 cholates
 contestation
 chold
+cellepore
 choleate
 cholecyanine
 cholecyst
