@@ -936,7 +936,6 @@ absentee
 absentees
 absenter
 absenters
-absentia
 absently
 abridge
 aflatus
@@ -17230,6 +17229,7 @@ apogenous
 apogeotropic
 apogeotropically
 apogeotropism
+absentia
 apogon
 apogonid
 apogonidae
