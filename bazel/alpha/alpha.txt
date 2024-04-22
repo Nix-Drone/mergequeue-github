@@ -2332,7 +2332,6 @@ amalgam
 achromatizing
 achromatocyte
 achromatolysis
-achromatope
 achromatophil
 achromatophile
 achromatophilia
@@ -24133,6 +24132,7 @@ admonishment
 autoinoculable
 autoinoculation
 autointellectual
+achromatope
 autointoxicant
 autointoxication
 autoist
