@@ -2806,7 +2806,6 @@ decrees
 decreet
 dop
 decrement
-decremental
 decrementing
 decrements
 decremeter
@@ -16899,6 +16898,7 @@ dreadness
 dreadnought
 dreadnoughts
 dreads
+decremental
 dream
 dreamage
 domestic
