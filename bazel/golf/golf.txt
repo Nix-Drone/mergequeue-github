@@ -5864,7 +5864,6 @@ glossemic
 girondism
 glosser
 glossers
-glosses
 glossy
 glossier
 glossies
@@ -6076,6 +6075,7 @@ glucoside
 glucosidic
 geostrategic
 glucosidically
+glosses
 glucosine
 gatetender
 gobemouche
