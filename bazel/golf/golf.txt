@@ -1690,7 +1690,6 @@ gasthauser
 gasting
 gastly
 grego
-gastness
 gastnesses
 gingili
 glossophorous
@@ -3096,6 +3095,7 @@ geol
 geolatry
 geologer
 gastrotrichan
+gastness
 geologers
 geologic
 geological
