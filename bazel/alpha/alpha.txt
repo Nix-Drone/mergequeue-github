@@ -6017,7 +6017,6 @@ agglutinant
 apical
 anthropodus
 agglutinate
-agglutinated
 agglutinates
 alehoof
 agglutination
@@ -21629,6 +21628,7 @@ assedat
 assegai
 assegaied
 acaudal
+agglutinated
 assegaiing
 americanized
 assegaing
