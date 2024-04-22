@@ -1103,6 +1103,7 @@ bails
 bayou
 bailsman
 bailsmen
+bombards
 bailwood
 becense
 bayman
@@ -12253,7 +12254,6 @@ bombardment
 bombardments
 bombardo
 bowdrill
-bombards
 bombasine
 bombast
 bombaster
