@@ -1689,6 +1689,7 @@ familiar
 friars
 four
 fdnames
+figurings
 fdtype
 fdub
 fdubs
@@ -7289,7 +7290,6 @@ footwork
 farragos
 footworks
 footworn
-figurings
 foozle
 fustianist
 fiord
