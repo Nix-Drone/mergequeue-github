@@ -6405,7 +6405,6 @@ benzene
 benzeneazobenzene
 bastian
 benzenediazonium
-birthrate
 benzenes
 benzenyl
 benzenoid
@@ -11148,6 +11147,7 @@ byes
 bronchiloquy
 blooper
 bloopers
+birthrate
 blooping
 bloops
 balachan
