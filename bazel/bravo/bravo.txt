@@ -1969,7 +1969,6 @@ bandlimits
 bandman
 bandmaster
 bandmasters
-bando
 bandobust
 bandog
 bandogs
@@ -12214,6 +12213,7 @@ boltheading
 bolthole
 bolti
 bolty
+bando
 boltin
 bolting
 boltlike
