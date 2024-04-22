@@ -4415,7 +4415,6 @@ fishpoles
 fishponds
 fishpotter
 fishskin
-fishspear
 fishtail
 fishtailed
 flether
@@ -8687,6 +8686,7 @@ frivolism
 forthfare
 forthfigured
 forthgaze
+fishspear
 forthgo
 forthy
 forthink
