@@ -3807,7 +3807,6 @@ battleship
 battleships
 buhr
 battlesome
-boatfalls
 banderilla
 battlestead
 battlewagon
@@ -9374,6 +9373,7 @@ birchism
 birchwood
 brindle
 birdbander
+boatfalls
 birdbanding
 birdbath
 birdbaths
