@@ -513,7 +513,6 @@ decistere
 dalesfolk
 dentins
 dalesman
-devocalize
 daleswoman
 daleth
 daleths
@@ -5080,6 +5079,7 @@ denaturalize
 denaturalized
 denaturant
 denaturants
+devocalize
 denaturate
 denaturational
 diver
