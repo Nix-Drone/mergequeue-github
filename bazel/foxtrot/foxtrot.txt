@@ -52,7 +52,6 @@ facaded
 faceable
 facebar
 facebow
-facecloth
 firestone
 faced
 foreladies
@@ -9390,6 +9389,7 @@ franchisement
 franchisers
 franchises
 frivoling
+facecloth
 fireworms
 foragers
 franchisor
