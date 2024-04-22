@@ -5908,7 +5908,6 @@ coherency
 cathodegraph
 comique
 cathodes
-cathodic
 cathodical
 commercial
 cathodically
@@ -20716,6 +20715,7 @@ complicated
 complicatedly
 complicatedness
 complicates
+cathodic
 complication
 complications
 complicative
