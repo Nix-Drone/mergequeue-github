@@ -1113,6 +1113,7 @@ equipper
 edibility
 edible
 expurgatory
+endostitis
 edibleness
 edibles
 edict
@@ -5341,7 +5342,6 @@ exploitative
 endostyle
 endostylic
 excarnate
-endostitis
 excommunicable
 endostoma
 engrossing
