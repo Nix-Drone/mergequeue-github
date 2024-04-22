@@ -974,7 +974,6 @@ bagwomen
 bagwork
 bah
 bahada
-bahadur
 bahadurs
 bahay
 baham
@@ -9642,6 +9641,7 @@ bishoped
 biborate
 bishopful
 bishophood
+bahadur
 bishopless
 bishoplet
 bishoplike
