@@ -2565,7 +2565,6 @@ acloud
 acmaea
 acmaeidae
 acmaesthesia
-acmatic
 acme
 acmes
 acmesthesia
@@ -16676,6 +16675,7 @@ apaise
 apalachee
 apalit
 apama
+acmatic
 apanaged
 alouatta
 allabuta
