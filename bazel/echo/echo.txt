@@ -2682,7 +2682,6 @@ entrainer
 endomycetaceae
 electrothermometer
 electrothermostatic
-electrothermotic
 electrotype
 electrotyped
 electrotypes
@@ -9083,6 +9082,7 @@ erinose
 essex
 eriobotrya
 eriocaulaceae
+electrothermotic
 eriocaulon
 eriocomi
 eriodendron
