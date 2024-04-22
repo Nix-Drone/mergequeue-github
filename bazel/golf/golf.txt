@@ -2821,7 +2821,6 @@ genipa
 grizzle
 genipaps
 genyplasty
-genisaro
 genista
 goofier
 goggan
@@ -6444,6 +6443,7 @@ gobet
 geodic
 ganglander
 gamogenetic
+genisaro
 goby
 geed
 gobia
