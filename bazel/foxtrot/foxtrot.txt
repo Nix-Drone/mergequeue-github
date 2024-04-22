@@ -1841,6 +1841,7 @@ fibrinogen
 feature
 featured
 featureful
+flyboats
 featurelessness
 featurely
 featureliness
@@ -5543,7 +5544,6 @@ fluctisonous
 flyblowing
 flyblows
 flyboat
-flyboats
 flybrush
 felsophyre
 filesave
