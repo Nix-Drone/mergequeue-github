@@ -1693,7 +1693,6 @@ fdtype
 fdub
 fdubs
 fortuitousness
-fe
 forksmith
 feaberry
 frugivora
@@ -9632,6 +9631,7 @@ floristic
 frecket
 freckle
 fenagle
+fe
 freckled
 freckledness
 freckleproof
