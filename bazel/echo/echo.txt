@@ -3710,7 +3710,6 @@ embryotomies
 embryotrophe
 embryotrophy
 embrittle
-embrittled
 embrittling
 embryulci
 embryulcia
@@ -4685,6 +4684,7 @@ enchondroma
 enchondromas
 epimerase
 enchondromata
+embrittled
 enchondromatous
 enchondrosis
 etiotropically
