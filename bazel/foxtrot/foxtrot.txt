@@ -2952,7 +2952,6 @@ feudum
 feuillage
 foreshows
 feuillemorte
-feuillet
 feuilleton
 feuilletonist
 feuilletonistic
@@ -7852,6 +7851,7 @@ frondivorous
 forenoon
 forenoons
 forenote
+feuillet
 forenotion
 flattens
 forensic
