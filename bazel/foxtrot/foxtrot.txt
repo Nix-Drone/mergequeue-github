@@ -3962,7 +3962,6 @@ fingall
 fingan
 fingerable
 fingerberry
-fingerboard
 fingerboards
 fingerbreadth
 fingered
@@ -6305,6 +6304,7 @@ fluidizes
 fluidmeter
 faulted
 fluidness
+fingerboard
 fluidounce
 friskers
 fluidram
