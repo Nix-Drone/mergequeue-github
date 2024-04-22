@@ -3244,7 +3244,6 @@ defences
 defend
 defendable
 demimondaine
-dejeuners
 defendants
 defended
 defender
@@ -6197,6 +6196,7 @@ derivationally
 derivations
 degrading
 derivatively
+dejeuners
 derivativeness
 derivatives
 dacoit
