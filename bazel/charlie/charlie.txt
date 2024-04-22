@@ -2384,6 +2384,7 @@ coasters
 candier
 candies
 candify
+casaque
 candyh
 candying
 candil
@@ -6739,7 +6740,6 @@ cell
 cella
 cellager
 cellar
-casaque
 coremium
 cellarage
 cellared
