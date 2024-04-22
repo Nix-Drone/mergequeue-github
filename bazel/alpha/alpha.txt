@@ -220,6 +220,7 @@ abbr
 abbrev
 abbreviatable
 abbreviate
+attempers
 abbreviated
 argotic
 afdecho
@@ -23007,7 +23008,6 @@ attemperation
 acephalan
 attempered
 attempering
-attempers
 attempre
 attempt
 attemptable
