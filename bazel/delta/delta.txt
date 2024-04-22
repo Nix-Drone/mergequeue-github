@@ -3871,7 +3871,6 @@ discant
 deionization
 deionizations
 deionize
-deionized
 denegate
 deionizer
 deionizes
@@ -12401,6 +12400,7 @@ destains
 disilluded
 disilluminate
 disillusion
+deionized
 disillusioned
 disillusioning
 deignous
