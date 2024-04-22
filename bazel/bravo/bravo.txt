@@ -6134,7 +6134,6 @@ benched
 bencher
 benchers
 benchership
-benches
 benchfellow
 burglary
 benchful
@@ -10615,6 +10614,7 @@ bleaty
 bleating
 bonce
 bleatingly
+benches
 bleats
 bleaunt
 botulismus
