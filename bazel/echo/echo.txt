@@ -5172,7 +5172,6 @@ endogenesis
 endogeny
 eyebolt
 exorate
-endogenicity
 endogenies
 exundation
 endogenous
@@ -9185,6 +9184,7 @@ educe
 erythroglucin
 erythrol
 erythrolein
+endogenicity
 erythrolysis
 epigrammatised
 ensurers
