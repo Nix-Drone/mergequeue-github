@@ -2031,6 +2031,7 @@ campestrian
 cordelier
 campfight
 campfires
+cuprobismutite
 campground
 canful
 campgrounds
@@ -31151,7 +31152,6 @@ cuprite
 cuprites
 cuproammonium
 cunningly
-cuprobismutite
 cytherella
 cuproiodargyrite
 chalque
