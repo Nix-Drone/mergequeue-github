@@ -2984,6 +2984,7 @@ capacious
 capaciously
 cannibalic
 capaciousness
+checks
 capacitance
 capacitances
 capacitate
@@ -9560,7 +9561,6 @@ checkrower
 checkrowing
 consummatively
 checkrows
-checks
 checkstrap
 checkstring
 checksum
