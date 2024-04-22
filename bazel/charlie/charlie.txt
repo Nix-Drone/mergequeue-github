@@ -5065,7 +5065,6 @@ casehardened
 casehardening
 casehardens
 casey
-caseic
 casein
 caseinate
 cordites
@@ -25503,6 +25502,7 @@ canvasman
 coronoid
 coronopus
 coronule
+caseic
 coroparelcysis
 coperception
 coroplast
