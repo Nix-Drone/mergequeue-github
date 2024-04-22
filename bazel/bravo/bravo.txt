@@ -13879,6 +13879,7 @@ boxty
 boxtop
 brager
 boxtops
+butsu
 boxwood
 bedevil
 boxwoods
@@ -18215,7 +18216,6 @@ butoxy
 butoxyl
 buts
 betook
-butsu
 butsudan
 butt
 butter
