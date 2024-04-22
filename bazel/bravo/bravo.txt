@@ -2431,7 +2431,6 @@ biolysis
 bachelorlike
 barbre
 barbu
-barbula
 barbulate
 barbule
 barbulyie
@@ -9236,6 +9235,7 @@ biotron
 biotrons
 byous
 byously
+barbula
 biovulate
 bioxalate
 bioxide
