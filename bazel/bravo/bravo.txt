@@ -3975,7 +3975,6 @@ bcd
 bch
 bchs
 bd
-bde
 bdellatomy
 brotan
 bdellium
@@ -7855,6 +7854,7 @@ biarcuated
 biarticulate
 biarticulated
 bias
+bde
 blurted
 biasedly
 bezil
