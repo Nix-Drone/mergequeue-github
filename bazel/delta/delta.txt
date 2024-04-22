@@ -7515,7 +7515,6 @@ devaluates
 devaluation
 devaluations
 devalue
-devalued
 devalues
 devaluing
 devanagari
@@ -17308,6 +17307,7 @@ drollish
 drollishness
 drollist
 drollness
+devalued
 duskiness
 drolls
 drolushness
