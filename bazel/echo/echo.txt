@@ -2395,7 +2395,6 @@ escalation
 electrodes
 electrodesiccation
 electrodiagnosis
-entoblast
 electrodiagnostic
 electrodiagnostically
 excreation
@@ -13148,6 +13147,7 @@ explainableness
 explained
 explainer
 explainers
+entoblast
 explaining
 ecclesiarch
 explainingly
