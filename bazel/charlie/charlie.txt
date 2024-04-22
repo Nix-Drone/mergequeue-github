@@ -11370,7 +11370,6 @@ chloropicrin
 chloroplast
 chloroplastic
 chloroplastid
-complanate
 chloroplasts
 chloroplatinate
 chloroplatinite
@@ -25573,6 +25572,7 @@ corporification
 corporosity
 corposant
 corps
+complanate
 corpsbruder
 corpse
 corpselikeness
