@@ -2207,7 +2207,6 @@ fluorescence
 felonweed
 felonwort
 fractionizing
-flancard
 fels
 felsites
 felsobanyite
@@ -10215,6 +10214,7 @@ frivoled
 frivoler
 frivolist
 frivolity
+flancard
 frivolities
 frivolize
 frivolized
