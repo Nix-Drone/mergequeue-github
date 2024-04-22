@@ -1948,6 +1948,7 @@ estmark
 eisteddfod
 eisteddfodau
 evertebral
+encheck
 eisteddfodic
 eisteddfodism
 eisteddfods
@@ -6468,7 +6469,6 @@ ensorcel
 ensorceled
 emitters
 encephalometer
-encheck
 ensorcell
 ensorcellment
 epochal
