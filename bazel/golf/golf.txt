@@ -1372,6 +1372,7 @@ grume
 gardenmaking
 gardens
 gardeviance
+guile
 gardevin
 gabionage
 gardevisure
@@ -10190,7 +10191,6 @@ guilds
 guildship
 guildsmen
 guessworker
-guile
 guileful
 gyroscopic
 guilefulness
