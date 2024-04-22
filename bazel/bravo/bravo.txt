@@ -1898,6 +1898,7 @@ bandcase
 bandcutter
 bande
 bandeau
+becrush
 bandeaux
 betula
 banded
@@ -4569,7 +4570,6 @@ becrowded
 buttering
 becrown
 bearhide
-becrush
 buffering
 becrust
 bandies
