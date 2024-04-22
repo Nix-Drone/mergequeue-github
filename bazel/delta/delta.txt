@@ -9570,7 +9570,6 @@ dihedrals
 dihedron
 discipleship
 dihelium
-dihexahedron
 dihybridism
 dihybrids
 dryad
@@ -12751,6 +12750,7 @@ disturbers
 dismes
 dysmetria
 dismettled
+dihexahedron
 disminion
 dismiss
 dismissable
