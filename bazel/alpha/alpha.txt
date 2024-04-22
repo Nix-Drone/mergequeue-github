@@ -10519,7 +10519,6 @@ amylo
 amylocellulose
 amyloclastic
 aponogetonaceae
-antiredeposition
 amylocoagulase
 amylodextrin
 amylodyspepsia
@@ -16532,6 +16531,7 @@ antritis
 antrocele
 antronasal
 antrophose
+antiredeposition
 angleworm
 antrorse
 antrorsely
