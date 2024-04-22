@@ -9262,6 +9262,7 @@ aliases
 alopias
 alopiidae
 alorcinic
+arteriolosclerosis
 alosa
 arteriosclerotic
 alouatte
@@ -20497,7 +20498,6 @@ arteriographic
 arteriolar
 arteriolith
 arterioloscleroses
-arteriolosclerosis
 arteriomalacia
 arteriometer
 arteriomotor
