@@ -7702,7 +7702,6 @@ battleground
 bathycurrent
 bewrapt
 bewrathed
-bewreak
 bewreath
 bewreck
 befreckle
@@ -16922,6 +16921,7 @@ bark
 buhls
 buhlwork
 buhlworks
+bewreak
 burgout
 buhrmill
 buhrs
