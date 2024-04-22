@@ -6096,6 +6096,7 @@ fiberizer
 flotages
 favorability
 foregoes
+forkedness
 flote
 fustin
 fragor
@@ -8314,7 +8315,6 @@ forjudgment
 fork
 forkbeard
 forked
-forkedness
 forker
 forkers
 forkfuls
