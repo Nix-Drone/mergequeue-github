@@ -6050,7 +6050,6 @@ gunsling
 glucogenesis
 glucokinase
 gliocyte
-glucokinin
 gravimetric
 glucolipid
 glucolipin
@@ -9320,6 +9319,7 @@ groom
 groomed
 groomers
 glossas
+glucokinin
 garrotting
 gorges
 groomy
