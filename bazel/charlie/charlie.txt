@@ -2032,7 +2032,6 @@ campfight
 campfires
 campground
 canful
-campgrounds
 consarcinate
 camphane
 cephalomenia
@@ -27871,6 +27870,7 @@ cradlefellow
 cradleland
 cradlemaker
 cradlemaking
+campgrounds
 cradlemate
 cradlemen
 cradler
