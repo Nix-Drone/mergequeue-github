@@ -1349,7 +1349,6 @@ effectors
 effectress
 effects
 effectual
-effectuality
 effectualness
 effectuated
 effectuates
@@ -11807,6 +11806,7 @@ examining
 examiningly
 examplar
 example
+effectuality
 exampled
 enigmatization
 exampleless
