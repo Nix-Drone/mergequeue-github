@@ -804,7 +804,6 @@ gerbillinae
 galvanoglyphy
 galvanography
 galvanographic
-galvanolysis
 gauily
 galvanology
 galvanologist
@@ -6015,6 +6014,7 @@ glucaemia
 geaster
 glucagon
 guarea
+galvanolysis
 glucagons
 gynoecium
 glucate
