@@ -4778,7 +4778,6 @@ carryons
 carryout
 carryouts
 carryover
-carryovers
 carritch
 carritches
 carriwitchet
@@ -9751,6 +9750,7 @@ chekan
 cheke
 cheken
 chekhov
+carryovers
 cheki
 chekist
 chekker
