@@ -743,7 +743,6 @@ dancalite
 dopester
 dance
 danceability
-danceable
 danced
 degasification
 danceress
@@ -15057,6 +15056,7 @@ dogstones
 dogtail
 dogteeth
 dogtie
+danceable
 dogtooth
 diacetate
 dogtrick
