@@ -3100,7 +3100,6 @@ eloah
 extralateral
 elocation
 elocular
-elocute
 elocution
 elocutionary
 elocutioner
@@ -6988,6 +6987,7 @@ envine
 entrail
 encarnalized
 entrain
+elocute
 entrained
 entraining
 entrainment
