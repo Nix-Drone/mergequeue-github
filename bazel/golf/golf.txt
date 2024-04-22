@@ -1199,6 +1199,7 @@ graphiola
 ganjas
 geodist
 ganner
+greekless
 guahibo
 gannet
 gannetry
@@ -8628,7 +8629,6 @@ garapata
 garoted
 glyph
 greekize
-greekless
 greekling
 geranials
 greeks
