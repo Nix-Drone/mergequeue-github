@@ -21951,7 +21951,6 @@ configure
 configured
 configures
 configuring
-coxcombry
 confinable
 confine
 confineable
@@ -25244,6 +25243,7 @@ cormorants
 cormous
 corms
 cormus
+coxcombry
 corn
 cornaceae
 cornaceous
