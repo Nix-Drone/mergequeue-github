@@ -3760,7 +3760,6 @@ fills
 foregirth
 faultlessly
 filmable
-filmcard
 filmcards
 filmdom
 firebases
@@ -6742,6 +6741,7 @@ flectional
 foghorn
 fogy
 fogyish
+filmcard
 fogless
 foolship
 fogmen
