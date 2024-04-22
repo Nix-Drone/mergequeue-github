@@ -2866,6 +2866,7 @@ genoms
 genonema
 gph
 genos
+gossamers
 genospecies
 genotype
 gobinism
@@ -7312,7 +7313,6 @@ gosports
 gossamer
 gossamered
 gossamery
-gossamers
 gossampine
 gossaniferous
 gossans

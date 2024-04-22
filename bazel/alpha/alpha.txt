@@ -1993,6 +1993,7 @@ acetacetic
 acetaldehyde
 acetaldehydrase
 acetaldol
+alky
 acetalize
 acetals
 acetamid
@@ -8494,7 +8495,6 @@ alkenyl
 alkenna
 alkermes
 alkes
-alky
 alkyd
 alkide
 alkyds
