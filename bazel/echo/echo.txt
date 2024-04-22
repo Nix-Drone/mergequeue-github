@@ -8630,7 +8630,6 @@ encompassing
 equicostate
 egrets
 equicurve
-equid
 equidiagonal
 equidifferent
 equidimensional
@@ -10850,6 +10849,7 @@ eulogias
 eyelight
 eulogies
 eulogious
+equid
 evermore
 ewing
 eulogising
