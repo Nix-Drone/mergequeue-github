@@ -8942,6 +8942,7 @@ biochore
 biocycle
 bemole
 biocycles
+biotypology
 botan
 biocidal
 biocide
@@ -9220,7 +9221,6 @@ biotins
 biotype
 biotypes
 biotypic
-biotypology
 biotite
 biotites
 biotome
