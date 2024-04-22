@@ -12499,7 +12499,6 @@ anemography
 anemographic
 anemographically
 anemology
-anemologic
 anemological
 anemometer
 anemometers
@@ -19572,6 +19571,7 @@ argonautid
 argonauts
 argonne
 argonon
+anemologic
 argons
 argos
 argosy
