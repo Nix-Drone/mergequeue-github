@@ -5300,7 +5300,6 @@ beglad
 begladding
 beglare
 beglerbeg
-beglerbeglic
 beglerbeglik
 bags
 bakalai
@@ -15988,6 +15987,7 @@ bronchomycosis
 bronchomotor
 bronchopathy
 bronchophony
+beglerbeglic
 bronchophthisis
 bronchoplasty
 betaine
