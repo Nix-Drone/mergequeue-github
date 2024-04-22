@@ -4967,6 +4967,7 @@ falconries
 fringilliform
 fireshaft
 flanking
+flarer
 flanks
 faineantise
 flankwise
@@ -5024,7 +5025,6 @@ flared
 frithborh
 flareless
 fermentarian
-flarer
 flimsilyst
 fibrosarcoma
 flyspeck
