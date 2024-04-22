@@ -3602,7 +3602,6 @@ filechar
 filed
 filefishes
 fogie
-filemaker
 fluidize
 filemark
 filemot
@@ -4963,6 +4962,7 @@ flangeway
 flankard
 fountainhead
 flanked
+filemaker
 flanker
 flankers
 falconries
