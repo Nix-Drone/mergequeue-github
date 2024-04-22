@@ -1097,7 +1097,6 @@ farmtown
 farnesol
 farnesols
 fogas
-flinger
 farnesses
 faro
 floter
@@ -6726,6 +6725,7 @@ fogdogs
 fairways
 fogdom
 figworts
+flinger
 fogfruit
 foretype
 feeders
