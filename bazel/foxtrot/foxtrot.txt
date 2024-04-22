@@ -5485,6 +5485,7 @@ fletchers
 fletches
 fletchings
 fletton
+forager
 fores
 feynesses
 fleur
@@ -7316,7 +7317,6 @@ facers
 foraged
 fluttery
 foragement
-forager
 foraging
 foray
 formable
