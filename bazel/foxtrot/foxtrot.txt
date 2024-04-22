@@ -4344,6 +4344,7 @@ fishberries
 fishboat
 fishboats
 fishbolt
+fellatory
 fishbolts
 falchions
 fishbowls
@@ -8645,7 +8646,6 @@ footing
 forspoke
 forspread
 flatboats
-fellatory
 fillebeg
 fallibilist
 fumistery
