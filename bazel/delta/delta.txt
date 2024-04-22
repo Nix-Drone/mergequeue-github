@@ -5093,7 +5093,6 @@ diopsidae
 denaturization
 denaturize
 denaturizer
-denaturizing
 denazify
 denazifies
 denazifying
@@ -16818,6 +16817,7 @@ drawbore
 deare
 drawbored
 drawbores
+denaturizing
 deodars
 dorsomesal
 drawcansir
