@@ -5809,7 +5809,6 @@ catfight
 creeled
 catfish
 catfoot
-catfooted
 catgut
 catguts
 cath
@@ -12950,6 +12949,7 @@ cyamid
 cyamoid
 cyamus
 cyan
+catfooted
 cyanacetic
 cyanamid
 cyanamide
