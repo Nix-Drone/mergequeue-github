@@ -6590,7 +6590,6 @@ bequeather
 bequeathing
 brawled
 bequeaths
-bequest
 bequests
 ber
 beray
@@ -7340,6 +7339,7 @@ betag
 betail
 blashy
 betailor
+bequest
 blanked
 betaines
 betake
