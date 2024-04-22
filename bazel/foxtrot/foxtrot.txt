@@ -281,7 +281,6 @@ faden
 fadeout
 fader
 faders
-fadge
 forra
 fellowless
 fadged
@@ -604,6 +603,7 @@ falseheartedness
 falsehood
 falsehoods
 falsely
+fadge
 falseness
 falser
 falsest
