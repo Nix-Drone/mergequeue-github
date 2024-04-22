@@ -2108,6 +2108,7 @@ banality
 bankmen
 banknote
 barrelet
+breakableness
 badaud
 banknotes
 bankrider
@@ -14795,7 +14796,6 @@ break
 breakability
 bronchoesophagoscopy
 bullwhip
-breakableness
 breakables
 breakably
 breakage
