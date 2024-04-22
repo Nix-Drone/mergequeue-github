@@ -12784,7 +12784,6 @@ angiomas
 angiomata
 angiomatosis
 angiomyocardiac
-atrochal
 angiomyoma
 angiomyosarcoma
 angioneoplasm
@@ -13365,6 +13364,7 @@ anisopteran
 arunta
 anisopterous
 anisosepalous
+atrochal
 anisostaminous
 anisosthenic
 anisostichous
