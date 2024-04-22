@@ -3869,7 +3869,6 @@ adiathermal
 adiathermancy
 adiathermic
 adiathetic
-antiprism
 adiating
 adiation
 adib
@@ -10244,6 +10243,7 @@ antiseption
 amenities
 amenorrhea
 amenorrheal
+antiprism
 amenorrheic
 amenorrho
 amenorrhoea
