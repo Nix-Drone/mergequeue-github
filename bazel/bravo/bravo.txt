@@ -9639,7 +9639,6 @@ backbeats
 bishopdom
 bishoped
 biborate
-bishopful
 bishophood
 bishopless
 bishoplet
@@ -16054,6 +16053,7 @@ bronzen
 bronzer
 bronzewing
 bronzify
+bishopful
 bio
 bucerotinae
 bronzine
