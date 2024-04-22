@@ -14938,7 +14938,6 @@ betainogen
 breech
 breechblock
 breechcloth
-brimfull
 breechcloths
 breechclout
 breeched
@@ -17145,6 +17144,7 @@ bullhead
 bullheaded
 bullheads
 bullhide
+brimfull
 bullhoof
 bullhorn
 bullhorns
