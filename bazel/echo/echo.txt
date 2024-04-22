@@ -2512,6 +2512,7 @@ electromer
 extrasacerdotal
 efficaciousness
 electrometallurgy
+electrotype
 electrometallurgical
 eye
 electrometer
@@ -2687,7 +2688,6 @@ endomycetaceae
 electrothermometer
 electrothermostatic
 electrothermotic
-electrotype
 electrotyped
 electrotypes
 electrotypy
