@@ -5798,6 +5798,7 @@ depolymerization
 depolymerize
 dipneedle
 depolymerized
+designates
 davened
 depolished
 deaconed
@@ -6661,7 +6662,6 @@ designable
 designado
 designate
 designated
-designates
 designation
 designatory
 designators
