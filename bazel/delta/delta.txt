@@ -2987,7 +2987,6 @@ deductio
 deduction
 deductions
 deductive
-deductively
 deductory
 deducts
 deduit
@@ -12985,6 +12984,7 @@ dispensability
 deducible
 dispensableness
 dispensate
+deductively
 diffracted
 dispensation
 dispensationalism

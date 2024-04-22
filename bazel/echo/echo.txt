@@ -1865,7 +1865,6 @@ eigenfrequency
 eigenvalue
 ergatogyny
 eigenvalues
-eigenvectors
 endoenteritis
 eyght
 evaginated
@@ -2737,6 +2736,7 @@ equispaced
 elegibility
 elegies
 excrescently
+eigenvectors
 elegious
 emblazing
 elbowed
