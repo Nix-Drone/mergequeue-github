@@ -5530,7 +5530,6 @@ flexures
 flyable
 fascicle
 flyback
-flyball
 flybane
 flibbertigibbety
 flybelt
@@ -6283,6 +6282,7 @@ fluidglycerate
 fluidible
 forcepslike
 fluidic
+flyball
 fosslology
 forint
 footstool
