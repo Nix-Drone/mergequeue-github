@@ -2823,6 +2823,7 @@ filanders
 fetchers
 fetching
 floreat
+fiberizing
 feterita
 fetes
 fetialis
@@ -3066,7 +3067,6 @@ fiberize
 flanconade
 fiberized
 fiberizes
-fiberizing
 fairest
 fiberless
 fiberous
