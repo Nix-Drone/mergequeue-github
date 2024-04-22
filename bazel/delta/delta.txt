@@ -3489,7 +3489,6 @@ defogs
 defoil
 dawish
 defoliage
-defoliant
 dorsobranchiata
 defoliants
 defoliate
@@ -5237,6 +5236,7 @@ denominate
 disbudding
 denominated
 denominates
+defoliant
 denomination
 denominational
 denominationalism
