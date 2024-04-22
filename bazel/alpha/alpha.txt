@@ -10969,7 +10969,6 @@ amove
 amoved
 amoving
 amowt
-amp
 ampalaya
 ampangabeite
 amparo
@@ -22969,6 +22968,7 @@ attainders
 attained
 asfast
 aggros
+amp
 attainer
 attainers
 attainment
