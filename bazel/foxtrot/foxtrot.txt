@@ -3062,7 +3062,6 @@ fibered
 fiberglas
 fendillate
 fiberization
-fiberize
 flanconade
 fiberized
 fiberizes
@@ -5899,6 +5898,7 @@ flood
 ferrotungsten
 floodable
 fineable
+fiberize
 fullfil
 floodage
 floodboard
