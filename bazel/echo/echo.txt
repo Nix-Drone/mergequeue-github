@@ -1011,6 +1011,7 @@ edana
 edaphology
 enerve
 edaphon
+extracapsular
 edaphosauria
 edaphosaurid
 edaphosaurus
@@ -6894,7 +6895,6 @@ entomological
 entomologically
 entomologies
 entomologised
-extracapsular
 erythrozincite
 epidermoidal
 entomologist
