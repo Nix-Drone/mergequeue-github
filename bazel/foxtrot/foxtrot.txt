@@ -3119,7 +3119,6 @@ fibrocellular
 fibrocement
 fibrochondrosteal
 fibrocyst
-fibrocystoma
 fibrocyte
 fibrocytic
 fibroelastic
@@ -9145,6 +9144,7 @@ foxglove
 fledge
 falun
 foxgloves
+fibrocystoma
 foxhole
 flexionless
 foxholes
