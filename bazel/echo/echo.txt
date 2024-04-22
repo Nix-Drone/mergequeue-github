@@ -4817,7 +4817,6 @@ equitangential
 encolour
 encolpia
 encolpion
-encolumn
 encolure
 encomy
 encomia
@@ -10649,6 +10648,7 @@ eucharist
 eucharistial
 egoistry
 eucharistic
+encolumn
 eucharistically
 eucharistized
 eucharistizing
