@@ -104,7 +104,6 @@ faciation
 forequoted
 facie
 freeport
-faciend
 faciends
 facient
 faciest
@@ -4511,6 +4510,7 @@ foxchop
 frayed
 filmist
 fistula
+faciend
 fourche
 fistular
 fistularia
