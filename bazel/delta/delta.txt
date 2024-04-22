@@ -5977,7 +5977,6 @@ deprest
 depreter
 deprevation
 depriment
-deprint
 depriorize
 dysmerism
 deprivable
@@ -17556,6 +17555,7 @@ drugless
 dadupanthi
 drugmaker
 drugman
+deprint
 drugs
 demoniacal
 drugstores
