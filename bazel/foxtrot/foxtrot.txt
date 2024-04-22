@@ -1843,7 +1843,6 @@ fibrinogen
 feature
 forthrightly
 featured
-featureful
 featurelessness
 featurely
 featureliness
@@ -3560,6 +3559,7 @@ filamented
 filamentiferous
 filamentoid
 fuzztail
+featureful
 flaxwife
 filamentous
 filaments
