@@ -8960,6 +8960,7 @@ allothigenous
 allothimorph
 allothimorphic
 allothogenic
+auxometer
 allotypes
 allotypy
 allotypical
@@ -24533,7 +24534,6 @@ auxocyte
 auxograph
 auxographic
 auxology
-auxometer
 auxospore
 auxotonic
 auxotox
