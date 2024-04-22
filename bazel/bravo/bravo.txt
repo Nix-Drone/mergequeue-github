@@ -2676,7 +2676,6 @@ barkeeper
 barkeepers
 barkeeps
 byelaws
-bunglesome
 barkey
 barken
 beknights
@@ -17622,6 +17621,7 @@ bonnive
 burgeons
 burger
 burgers
+bunglesome
 brigands
 burgessdom
 burggrave

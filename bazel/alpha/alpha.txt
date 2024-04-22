@@ -6251,7 +6251,6 @@ agnails
 agname
 agnamed
 agnat
-agnate
 agnates
 agnatha
 agnathia
@@ -8669,6 +8668,7 @@ allergists
 allergology
 allerion
 allethrin
+agnate
 alleve
 alleviate
 alleviated
