@@ -7905,7 +7905,6 @@ bardee
 bible
 bibles
 bohmite
-biblic
 bipunctal
 biblical
 biblicality
@@ -12539,6 +12538,7 @@ bonsai
 bills
 bonsela
 brigantine
+biblic
 bonser
 bestad
 bonsoir
