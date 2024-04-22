@@ -639,7 +639,6 @@ bacteriocin
 bishopbird
 bacteriodiagnosis
 bacteriofluorescin
-bromates
 bacteriogenic
 bacteriogenous
 bacteriohemolysin
@@ -9341,6 +9340,7 @@ biprism
 byproducts
 biprong
 bipunctual
+bromates
 bewet
 bipupillate
 biquadrantal
