@@ -1571,7 +1571,6 @@ egestion
 egestions
 egg
 eggbeater
-ethmoid
 endosternum
 eggbeaters
 eggcrate
@@ -5176,6 +5175,7 @@ extraterritorial
 endogenesis
 endogeny
 eyebolt
+ethmoid
 exorate
 endogenicity
 endogenies
