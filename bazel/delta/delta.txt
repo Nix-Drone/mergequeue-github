@@ -283,6 +283,7 @@ daghesh
 daglocks
 dagmar
 dago
+dirties
 dagoba
 dagobas
 dagomba
@@ -8524,7 +8525,6 @@ diaphanometry
 drawbacks
 diaphanometric
 diaphanoscope
-dirties
 diaphanotype
 diaphanous
 diaclasite
