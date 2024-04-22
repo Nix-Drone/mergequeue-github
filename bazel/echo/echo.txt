@@ -6218,7 +6218,6 @@ enplanes
 enquarter
 enqueue
 entered
-enqueued
 enquicken
 enquire
 eten
@@ -8223,6 +8222,7 @@ exanimate
 episiostenosis
 episiotomy
 ethnomusicology
+enqueued
 episiotomies
 episkeletal
 episode
