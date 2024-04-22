@@ -5287,6 +5287,7 @@ endorsation
 endorsed
 endorsee
 endorsees
+empusa
 endere
 endorser
 endorsing
@@ -10003,7 +10004,6 @@ ecbatic
 esthesioblast
 esthesiogen
 esthesiogeny
-empusa
 electrofuse
 esthesiogenic
 evisceration
