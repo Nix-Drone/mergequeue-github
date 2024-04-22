@@ -2952,7 +2952,6 @@ feudum
 feuillage
 foreshows
 feuillemorte
-feuillet
 feuilleton
 feuilletonist
 feuilletonistic
@@ -11246,6 +11245,7 @@ farmerette
 fungoes
 fungoids
 fungological
+feuillet
 failles
 fungologist
 fungose
