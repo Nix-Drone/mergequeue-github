@@ -1293,7 +1293,6 @@ felsic
 fassalite
 fastbacks
 fastball
-fastened
 fastener
 fasteners
 fastening
@@ -1693,6 +1692,7 @@ fdnames
 fdtype
 fdub
 fdubs
+fastened
 fortuitousness
 fe
 forksmith
