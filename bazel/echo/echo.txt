@@ -4321,7 +4321,6 @@ emulsions
 emulsoid
 emulsoidal
 emulsoids
-emunct
 enteropathogenic
 emunctory
 electroencephalographic
@@ -11673,6 +11672,7 @@ evonymus
 evonymuses
 evovae
 evulgate
+emunct
 eyepopper
 evulgation
 electroencephalographically
