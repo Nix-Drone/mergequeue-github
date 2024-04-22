@@ -7809,6 +7809,7 @@ forelouper
 foremade
 fiascoes
 foreman
+fundable
 foremarch
 forsaker
 foremark
@@ -9894,7 +9895,6 @@ freshish
 freshly
 feases
 fulminator
-fundable
 frowardly
 freshmen
 freshness
