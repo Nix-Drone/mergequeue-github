@@ -9740,7 +9740,6 @@ amalfitan
 amalg
 amalgamable
 amalgamate
-attackable
 amalgamates
 amalgamating
 antimonarchical
@@ -21979,6 +21978,7 @@ auteurism
 anus
 astart
 astarte
+attackable
 aramu
 astigmatoscopies
 astartian
