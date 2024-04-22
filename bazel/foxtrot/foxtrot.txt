@@ -854,6 +854,7 @@ fano
 fanon
 fellon
 fanos
+forepromised
 fanout
 fantailed
 fantails
@@ -7906,7 +7907,6 @@ foreprize
 foreproduct
 foreproffer
 forepromise
-forepromised
 foreprovided
 foreprovision
 forepurpose
