@@ -19678,7 +19678,6 @@ combinative
 combinator
 combinatory
 combinatorial
-combinatorially
 combinatoric
 combinators
 combind
@@ -31323,6 +31322,7 @@ curialism
 curialist
 curialistic
 curiality
+combinatorially
 cyanomethemoglobin
 crowberries
 curialities
