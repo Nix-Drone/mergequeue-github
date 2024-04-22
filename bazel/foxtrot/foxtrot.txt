@@ -2565,7 +2565,6 @@ ferrels
 ferren
 fossilisable
 floatmaker
-fairhead
 ferreous
 ferrer
 fusulina
@@ -8035,6 +8034,7 @@ forestaffs
 forestage
 forestay
 forestair
+fairhead
 fireplough
 forestays
 forehinting
