@@ -4665,7 +4665,6 @@ advisees
 advisement
 atli
 advisements
-adviser
 advisers
 advisership
 advises
@@ -12180,6 +12179,7 @@ aminish
 anchoretism
 anchorets
 alfuro
+adviser
 angiometer
 almach
 anchory
