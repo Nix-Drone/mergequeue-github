@@ -1227,7 +1227,6 @@ caliber
 calibers
 cunas
 clavicembali
-calibogus
 colunar
 calibrate
 calibrated
@@ -2426,6 +2425,7 @@ candlers
 candles
 candleshine
 candleshrift
+calibogus
 candlesnuffer
 candlestand
 committeewoman
