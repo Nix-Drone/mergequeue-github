@@ -5629,7 +5629,6 @@ flimsiness
 flinch
 flagleaf
 freighters
-forgone
 flinched
 flincher
 flinching
@@ -8114,6 +8113,7 @@ fullbacks
 foretaste
 foretaster
 foretastes
+forgone
 foretasting
 folioing
 foreteach
