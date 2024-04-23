@@ -2938,7 +2938,6 @@ acromial
 acromicria
 acromimia
 allotype
-acromioclavicular
 acromiocoracoid
 acromyodi
 acromyodic
@@ -18403,6 +18402,7 @@ arachidic
 arachidonic
 augen
 arachin
+acromioclavicular
 arachis
 arachne
 arsenyl
