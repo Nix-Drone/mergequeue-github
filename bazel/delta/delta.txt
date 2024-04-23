@@ -1242,7 +1242,6 @@ datively
 danthonia
 discal
 datives
-dato
 datolite
 datolitic
 datos
@@ -5959,6 +5958,7 @@ depressibilities
 depressible
 declass
 depressing
+dato
 depressingly
 depressingness
 depression
