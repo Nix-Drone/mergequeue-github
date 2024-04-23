@@ -3831,7 +3831,6 @@ carbungi
 carburan
 carburant
 carburated
-carburating
 carburation
 carburator
 carbure
@@ -9949,6 +9948,7 @@ chemotherapeutic
 chemotherapeutical
 chemotherapeutically
 chemotherapeutics
+carburating
 chemotherapy
 chemotherapies
 chemotherapist

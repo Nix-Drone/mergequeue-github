@@ -12718,7 +12718,6 @@ bookworms
 bucketeer
 bookwright
 bool
-bowline
 boolean
 booleans
 booley
@@ -14228,6 +14227,7 @@ braggishly
 braggite
 braggle
 bragi
+bowline
 bragite
 bragless
 banners
