@@ -10235,6 +10235,7 @@ blades
 bladesmith
 bladewise
 blady
+boltlike
 bladygrass
 blasters
 bloodmonger
@@ -12212,7 +12213,6 @@ bolti
 bolty
 boltin
 bolting
-boltlike
 beaupers
 boltmaker
 boltonia
