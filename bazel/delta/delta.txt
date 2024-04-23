@@ -7590,7 +7590,6 @@ debell
 deviable
 deviance
 deviances
-deviancy
 deviancies
 deviant
 deviate
@@ -17280,6 +17279,7 @@ drogerman
 dispiece
 drogh
 disaster
+deviancy
 drogher
 droghlin
 dronet
