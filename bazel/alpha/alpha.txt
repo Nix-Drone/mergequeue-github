@@ -6423,6 +6423,7 @@ agremens
 agrement
 agrest
 agrestal
+all
 agrestial
 agrestic
 agrestical
@@ -8523,7 +8524,6 @@ alkoran
 alkoxy
 alkoxid
 alkoxyl
-all
 allachesthesia
 allaeanthus
 allagite
