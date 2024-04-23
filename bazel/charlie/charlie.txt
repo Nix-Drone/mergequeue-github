@@ -29920,7 +29920,6 @@ crossways
 crosswalk
 crosswalks
 crossweb
-crossweed
 crosswise
 crosswiseness
 crossworder
@@ -31726,6 +31725,7 @@ customable
 customableness
 customably
 customance
+crossweed
 customaries
 customarily
 customariness
