@@ -1694,7 +1694,6 @@ friars
 four
 fdnames
 fdtype
-fdub
 fdubs
 fortuitousness
 fe
@@ -6179,6 +6178,7 @@ fubsier
 flowingness
 flowk
 frowzy
+fdub
 flowmeter
 framework
 fimetarious
