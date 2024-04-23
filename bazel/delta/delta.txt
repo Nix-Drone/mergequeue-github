@@ -1604,7 +1604,6 @@ dealkalize
 dealkylate
 dealkylation
 deallocate
-deallocated
 daunter
 deallocates
 deallocating
@@ -4640,6 +4639,7 @@ demilitarized
 demilitarizes
 demiliterate
 demilune
+deallocated
 demilunes
 disgruntles
 demilustre
