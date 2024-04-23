@@ -711,7 +711,6 @@ famines
 famished
 fired
 famishing
-famishment
 famose
 famous
 famousness
@@ -6290,6 +6289,7 @@ fluidisation
 forewisdom
 fluidised
 fallal
+famishment
 fluidising
 fluidism
 fluidist
