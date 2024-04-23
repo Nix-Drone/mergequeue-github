@@ -8994,7 +8994,6 @@ chargeless
 chargeman
 charger
 charges
-chargeship
 chargfaires
 charybdian
 charybdis
@@ -10362,6 +10361,7 @@ chamberfellow
 chicles
 chicly
 chicness
+chargeship
 chicnesses
 chico
 chicomecoatl
