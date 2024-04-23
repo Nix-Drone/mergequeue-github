@@ -5840,6 +5840,7 @@ floccosely
 flocculable
 fangas
 flocculation
+foresheet
 flocculator
 forts
 fencing
@@ -7974,7 +7975,6 @@ foreshaft
 fadme
 foreshank
 foreshape
-foresheet
 foresheets
 foreshock
 favonian
