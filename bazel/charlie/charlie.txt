@@ -4781,6 +4781,7 @@ carryout
 carryouts
 carryover
 carryovers
+chronon
 carritch
 carritches
 carriwitchet
@@ -12620,7 +12621,6 @@ corin
 chronometric
 chronometrical
 chronometrically
-chronon
 chrononomy
 chronons
 chronopher
