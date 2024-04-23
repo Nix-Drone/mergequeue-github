@@ -4533,7 +4533,6 @@ advance
 advanceable
 advancedness
 advancement
-advancements
 advancer
 advancers
 advances
@@ -19765,6 +19764,7 @@ aristeia
 aristida
 aristides
 aristippus
+advancements
 aristocracy
 aristocrat
 aristocratic
