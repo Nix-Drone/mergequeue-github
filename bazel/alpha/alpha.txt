@@ -6343,7 +6343,6 @@ agonists
 agonize
 agonized
 agonizedly
-agonizer
 avenged
 agonizing
 autoinduction
@@ -20304,6 +20303,7 @@ arolla
 arrogancy
 arrogant
 arrogantly
+agonizer
 arrogated
 arrogates
 arrogating
