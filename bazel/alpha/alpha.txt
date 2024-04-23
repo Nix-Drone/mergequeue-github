@@ -230,7 +230,6 @@ abbreviation
 ascebc
 abbreviations
 abbreviator
-abbreviators
 abbreviature
 abbroachment
 abc
@@ -23989,6 +23988,7 @@ autocratship
 autocremation
 autocross
 autocue
+abbreviators
 autodecomposition
 autodecrement
 autodecremented
