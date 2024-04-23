@@ -12822,7 +12822,6 @@ angiosis
 armlet
 angiosperm
 angiospermae
-attacks
 angiospermal
 angiospermic
 angiospermous
@@ -16488,6 +16487,7 @@ antlophobia
 antocular
 antodontalgic
 aberrated
+attacks
 antoeci
 antoecian
 antoecians
