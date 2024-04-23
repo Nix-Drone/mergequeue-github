@@ -1096,7 +1096,6 @@ baillone
 baillonella
 bailment
 bailments
-bailo
 bailor
 bailors
 bailout
@@ -7141,6 +7140,7 @@ bespecked
 bespeckle
 bespeckled
 bespecklement
+bailo
 bespectacled
 besped
 bespeech
