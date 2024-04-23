@@ -7569,7 +7569,6 @@ cerebellitis
 cerebellocortex
 constrain
 cerebellopontile
-cerebellopontine
 cerebellorubral
 cerebellospinal
 cerebellum
@@ -31250,6 +31249,7 @@ curbers
 cadastrally
 curby
 curbing
+cerebellopontine
 curbings
 curbless
 cotonam
