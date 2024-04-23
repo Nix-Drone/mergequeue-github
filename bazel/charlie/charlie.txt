@@ -5058,6 +5058,7 @@ casebound
 casebox
 cased
 casefy
+chording
 casefied
 casefies
 corneter
@@ -11891,7 +11892,6 @@ chorded
 chordee
 choriso
 chordeiles
-chording
 chorditis
 collectiveness
 chordoid
