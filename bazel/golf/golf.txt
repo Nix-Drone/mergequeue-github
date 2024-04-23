@@ -2219,6 +2219,7 @@ gazetteers
 goon
 gazetteership
 gremlin
+glottologic
 gazettes
 gazetting
 gazing
@@ -5962,7 +5963,6 @@ glottochronological
 glottogony
 glottogonist
 gulfs
-glottologic
 glottological
 glottologist
 goniometer
