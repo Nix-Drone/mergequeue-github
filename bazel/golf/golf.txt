@@ -2652,7 +2652,6 @@ genders
 ghoulie
 geneal
 genealogic
-genealogical
 genealogists
 gradatim
 guttifer
@@ -10677,6 +10676,7 @@ gushing
 gusla
 gusle
 gearwheel
+genealogical
 guslee
 gibed
 guss
