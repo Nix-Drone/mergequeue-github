@@ -9949,7 +9949,6 @@ chemotherapeutic
 chemotherapeutical
 chemotherapeutically
 chemotherapeutics
-chemotherapy
 chemotherapies
 chemotherapist
 chemotherapists
@@ -22515,6 +22514,7 @@ conjurers
 conjures
 conjury
 conjuring
+chemotherapy
 conjurison
 cricetine
 conjurors
