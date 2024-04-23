@@ -4907,6 +4907,7 @@ flameproofer
 flintlocks
 flamer
 flamers
+fecundities
 ferneries
 fallback
 flamethrowers
@@ -11075,7 +11076,6 @@ fumingly
 fossilize
 fumish
 fumishing
-fecundities
 fermented
 fierasferoid
 flowerlet
