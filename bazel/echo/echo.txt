@@ -1012,7 +1012,6 @@ edaphology
 enerve
 edaphon
 edaphosauria
-edaphosaurid
 edaphosaurus
 edda
 explosibility
@@ -11128,6 +11127,7 @@ eurystomatous
 eurite
 euryte
 elasticum
+edaphosaurid
 echafaudage
 emulsification
 eurytherm
