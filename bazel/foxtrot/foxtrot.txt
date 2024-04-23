@@ -856,7 +856,6 @@ fano
 fanon
 fellon
 fanos
-fanout
 fantailed
 fantails
 fantaisie
@@ -11428,6 +11427,7 @@ furmenties
 felling
 furmeties
 furmint
+fanout
 furmity
 furmities
 fervors
