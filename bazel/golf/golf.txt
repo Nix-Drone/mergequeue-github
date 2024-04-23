@@ -1933,7 +1933,6 @@ gated
 gatefold
 grapefruits
 gatehouse
-gatekeep
 glovemaking
 gatekeeper
 gatekeepers
@@ -8481,6 +8480,7 @@ gravispheric
 gravitated
 gravitater
 gravitates
+gatekeep
 gravitating
 growl
 guiltlessly
