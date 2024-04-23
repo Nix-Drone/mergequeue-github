@@ -5359,7 +5359,6 @@ birne
 begrett
 begrim
 begrimed
-begrimer
 begrimes
 bombsight
 begrimmed
@@ -13496,6 +13495,7 @@ bouldered
 boulderhead
 bouldery
 bouldering
+begrimer
 boulders
 boules
 brairo
