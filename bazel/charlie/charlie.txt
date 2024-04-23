@@ -4831,6 +4831,7 @@ cogitable
 carshops
 carsick
 carsickness
+cogways
 carsmith
 carson
 caviteno
@@ -18355,7 +18356,6 @@ coguardian
 cogue
 chaotical
 cogway
-cogways
 cogweel
 cogweels
 capelets
