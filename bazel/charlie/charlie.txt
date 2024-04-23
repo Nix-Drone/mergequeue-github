@@ -16981,7 +16981,6 @@ crayoned
 cnidoblast
 cnidocell
 cnidocil
-cnidocyst
 cnidophorous
 cupmate
 cnidopod
@@ -23832,6 +23831,7 @@ contributions
 contributive
 contributor
 contributory
+cnidocyst
 contributorial
 contributories
 cystinuria
