@@ -4754,7 +4754,6 @@ glossae
 gyro
 gelid
 gyroceran
-gallery
 guildsman
 golliwogg
 gorkhali
@@ -8141,6 +8140,7 @@ grapes
 grapeshot
 gelatinizing
 grapeskin
+gallery
 grapestalk
 grapevines
 grapewise
