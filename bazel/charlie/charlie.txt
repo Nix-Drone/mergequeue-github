@@ -100,7 +100,6 @@ clusters
 cabestro
 cabestros
 cabezon
-cabezone
 cabful
 cabiai
 cabildo
@@ -24607,6 +24606,7 @@ coplotted
 coneen
 coplotter
 coplowing
+cabezone
 copolar
 copolymer
 copolymeric
