@@ -8445,7 +8445,6 @@ diammine
 diamminobromide
 diamminonitrate
 diammonium
-downgrades
 diamond
 diamondback
 diamondbacked
@@ -15570,6 +15569,7 @@ diarists
 doomed
 doomer
 doomfully
+downgrades
 dooming
 doomlike
 dooms
