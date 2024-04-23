@@ -4972,6 +4972,7 @@ greeing
 glaciated
 glaciates
 glaciation
+getters
 glaciered
 glacieret
 glacierist
@@ -8262,7 +8263,6 @@ goosishness
 grubstaked
 grassfire
 gestalten
-getters
 grassflat
 grassflower
 geneticism
