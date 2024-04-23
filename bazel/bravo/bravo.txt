@@ -422,6 +422,7 @@ backpedal
 backpedaled
 backpedaling
 backpiece
+borh
 backplane
 backplanes
 backplate
@@ -13002,7 +13003,6 @@ borg
 borghalpenny
 beryls
 borghi
-borh
 bori
 babool
 boric
