@@ -1099,7 +1099,6 @@ farmtown
 farnesol
 farnesols
 fogas
-flinger
 farnesses
 faro
 floter
@@ -5492,6 +5491,7 @@ fleuretty
 fleury
 fleuronne
 flew
+flinger
 flewed
 flewit
 flews
