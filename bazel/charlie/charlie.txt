@@ -4883,7 +4883,6 @@ cartisane
 cartist
 cartload
 cartloads
-cartmaker
 cartmaking
 cartobibliography
 cartogram
@@ -19616,6 +19615,7 @@ carrara
 coman
 comanche
 comanchean
+cartmaker
 comanches
 comandante
 comandantes
