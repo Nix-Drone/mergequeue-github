@@ -5907,6 +5907,7 @@ floodgates
 frontlessly
 floody
 flunkyhood
+freezable
 flooding
 floodless
 floodlight
@@ -9764,7 +9765,6 @@ finch
 freewoman
 freewomen
 figurines
-freezable
 fourths
 farfetch
 faiths
