@@ -3917,7 +3917,6 @@ carcinolysin
 carcinological
 carcinologist
 carcinoma
-carcinomas
 carcinomata
 carcinomatoid
 carcinomatosis
@@ -8110,6 +8109,7 @@ chafe
 chafed
 chafery
 colat
+carcinomas
 cagayan
 chaferies
 chafers
