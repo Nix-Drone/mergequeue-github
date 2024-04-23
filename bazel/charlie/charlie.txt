@@ -14310,7 +14310,6 @@ circumduction
 circumesophagal
 circumesophageal
 circumfer
-circumference
 chave
 circumferences
 circumferential
@@ -28136,6 +28135,7 @@ crannia
 crannied
 crannies
 crannying
+circumference
 compiler
 crannock
 crannoge
