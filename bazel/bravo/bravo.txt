@@ -5353,7 +5353,6 @@ begowk
 begowned
 buyable
 benchboard
-begray
 begrain
 begrave
 birne
@@ -10967,6 +10966,7 @@ benzoylate
 blobby
 bloomerism
 blobbier
+begray
 bricklay
 blobbiness
 beaued
