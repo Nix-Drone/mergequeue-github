@@ -4969,7 +4969,6 @@ escrows
 endboard
 endbrains
 enddamaged
-enddamaging
 ende
 energistic
 endearance
@@ -13312,6 +13311,7 @@ expositor
 expository
 expositorial
 expositorially
+enddamaging
 expositorily
 expositors
 expositress
