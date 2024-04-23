@@ -1303,7 +1303,6 @@ fishhouse
 faked
 flumed
 fastgoing
-fidgety
 farnovian
 fasthold
 flashlamps
@@ -10710,6 +10709,7 @@ flyeater
 fruitlets
 furzes
 fruitlike
+fidgety
 fruitling
 fivepenny
 fruits
