@@ -4795,6 +4795,7 @@ flagons
 fasciolaria
 frontspiece
 flagpole
+flanch
 faena
 faunula
 figurehead
@@ -4940,7 +4941,6 @@ flammulation
 flammule
 frosteds
 flams
-flanch
 forkwise
 fact
 flanconnade

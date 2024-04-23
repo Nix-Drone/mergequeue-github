@@ -6890,7 +6890,6 @@ airflows
 airfoil
 airfoils
 airframe
-airglow
 airglows
 acondylous
 airgraph
@@ -9809,6 +9808,7 @@ amargoso
 amargosos
 amaryllidaceae
 amaryllidaceous
+airglow
 amaryllideous
 adjudicating
 amaryllis
