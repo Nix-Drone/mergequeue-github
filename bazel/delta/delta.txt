@@ -6071,7 +6071,6 @@ dehumanise
 disminister
 dungeonlike
 deputizes
-deputizing
 dequantitate
 dequeue
 dequeues
@@ -15589,6 +15588,7 @@ dooputty
 door
 doorbell
 doorbells
+deputizing
 doorboy
 doorbrand
 doorcheek
