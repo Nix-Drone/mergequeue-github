@@ -2993,7 +2993,6 @@ baryes
 brei
 barrette
 barricader
-barricaders
 barricades
 bedplates
 barricado
@@ -6773,6 +6772,7 @@ berkovets
 berkovtsi
 berkowitz
 berkshire
+barricaders
 berley
 bedull
 berlin
