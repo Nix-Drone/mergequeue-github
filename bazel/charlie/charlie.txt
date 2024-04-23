@@ -8380,7 +8380,6 @@ chalkone
 chalkos
 chalkosideric
 chalkotheke
-chalkpit
 chalkrail
 chalkstone
 chalkworker
@@ -24823,6 +24822,7 @@ coracoprocoracoid
 coracoradialis
 coracoscapular
 crackjaw
+chalkpit
 coracosteon
 coracovertebral
 combretum
