@@ -8524,7 +8524,6 @@ alkool
 alkoran
 alkoxy
 alkoxid
-alkoxyl
 all
 allachesthesia
 allaeanthus
@@ -10621,6 +10620,7 @@ antischolastic
 aminopherase
 apothec
 arccosine
+alkoxyl
 aminophylline
 aminopyrine
 aminoplast
