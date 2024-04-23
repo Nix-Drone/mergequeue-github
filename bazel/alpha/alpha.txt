@@ -1562,7 +1562,6 @@ acclaimer
 afterwrist
 acclaimers
 acclaiming
-acclamations
 acclamator
 acclamatory
 acclimatable
@@ -19956,6 +19955,7 @@ arming
 armings
 arminian
 arminianism
+acclamations
 arminianize
 arminianizer
 armipotence
