@@ -1459,7 +1459,6 @@ dea
 depressure
 deaccession
 deaccessioned
-deaccessioning
 demarking
 deaccessions
 deacetylate
@@ -13178,6 +13177,7 @@ disporum
 disposability
 disposed
 disposedness
+deaccessioning
 disposement
 disposer
 disposers
