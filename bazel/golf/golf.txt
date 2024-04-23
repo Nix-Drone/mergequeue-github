@@ -4932,7 +4932,6 @@ gunwhale
 gizmos
 gizz
 glamourizer
-glossanthrax
 gizzard
 gladdon
 gussy
@@ -6283,6 +6282,7 @@ gnatproof
 glyptographic
 gnats
 gnatsnap
+glossanthrax
 gonococcoid
 gnatter
 gnatworm
