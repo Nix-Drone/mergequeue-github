@@ -1339,7 +1339,6 @@ feasances
 fastland
 fastnacht
 fromage
-fastnesses
 feed
 frogskins
 fasts
@@ -3199,6 +3198,7 @@ fiches
 fichtean
 fichteanism
 fichtelite
+fastnesses
 fichu
 fichus
 ficiform
