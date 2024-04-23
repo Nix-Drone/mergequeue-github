@@ -15336,7 +15336,6 @@ antigropelos
 antigrowth
 antiguan
 antigun
-antihalation
 antiharmonist
 antihelices
 antihelix
@@ -23382,6 +23381,7 @@ augitite
 augitophyre
 augment
 augmentable
+antihalation
 augmentation
 augmentations
 augmentative
