@@ -5388,7 +5388,6 @@ brevipen
 begster
 busies
 beguard
-beguess
 beguileful
 beguilement
 beguilements
@@ -12666,6 +12665,7 @@ begarie
 bookmarker
 bookmarks
 bookmate
+beguess
 bookmobile
 bookmobiles
 bookplate
