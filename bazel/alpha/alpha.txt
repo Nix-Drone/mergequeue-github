@@ -4536,7 +4536,6 @@ advancement
 advancements
 advancer
 advancers
-advances
 advancing
 advancingly
 advancive
@@ -14982,6 +14981,7 @@ anticlinoria
 anticlinorium
 anticlockwise
 anticlogging
+advances
 anticoagulan
 anticoagulant
 anticoagulation
