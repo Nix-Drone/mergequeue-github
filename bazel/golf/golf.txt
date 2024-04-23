@@ -4106,6 +4106,7 @@ gamene
 gild
 gildable
 gildedness
+gunship
 gilden
 gilder
 grewhound
@@ -10567,7 +10568,6 @@ guns
 gunsel
 gunsels
 gilly
-gunship
 golp
 gunships
 gunshop
