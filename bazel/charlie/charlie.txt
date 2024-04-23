@@ -4087,6 +4087,7 @@ cardiorrhaphy
 cardiorrheuma
 cardiorrhexis
 cardiosclerosis
+compasses
 cardioscope
 cardiosymphysis
 cardiospasm
@@ -20485,7 +20486,6 @@ compass
 compassability
 compassable
 compassed
-compasses
 compassing
 compassion
 compassionable

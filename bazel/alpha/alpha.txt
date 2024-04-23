@@ -13817,6 +13817,7 @@ anonymities
 anonymously
 anonymousness
 anonyms
+authorship
 anonymuncule
 anoopsia
 anoperineal
@@ -23845,7 +23846,6 @@ authorless
 authorly
 authorling
 authors
-authorship
 authotype
 autocytolytic
 ackmen
