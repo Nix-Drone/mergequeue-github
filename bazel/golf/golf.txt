@@ -4806,7 +4806,6 @@ gyroscopics
 gyrose
 gyrostabilized
 gyrostat
-gyrostats
 gyrotheca
 girouette
 gastroduodenostomies
@@ -9620,6 +9619,7 @@ grudgeful
 guesstimate
 grudgefully
 glyoxalin
+gyrostats
 gonocalyx
 gerres
 ghat
