@@ -4461,7 +4461,6 @@ demast
 demasted
 demasting
 dematerialisation
-dematerialise
 duchery
 decubation
 dematerialised
@@ -18249,6 +18248,7 @@ dunlap
 dunlin
 dunlins
 dunlop
+dematerialise
 darogah
 dartboard
 dunnages
