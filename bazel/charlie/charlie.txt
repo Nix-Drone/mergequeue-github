@@ -10435,6 +10435,7 @@ chiffonniers
 chiffons
 chifforobe
 chifforobes
+clearings
 chiffre
 chigetai
 chigetais
@@ -15851,7 +15852,6 @@ clearhearted
 clearing
 clearinghouse
 clearinghouses
-clearings
 clearish
 clearly
 clearminded
