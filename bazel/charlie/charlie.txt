@@ -19648,6 +19648,7 @@ combat
 combatable
 chroma
 combatant
+constellations
 combatants
 combater
 combaters
@@ -23094,7 +23095,6 @@ coystrel
 constellated
 constellating
 constellation
-constellations
 constellatory
 conster
 consternate
