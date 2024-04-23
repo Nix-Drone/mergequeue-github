@@ -1082,7 +1082,6 @@ farmhouse
 feronia
 farmhousey
 fontinalaceae
-fuzzle
 farmy
 farmyard
 fructuary
@@ -10214,6 +10213,7 @@ frivoled
 frivoler
 frivolist
 frivolity
+fuzzle
 frivolities
 frivolize
 frivolized
