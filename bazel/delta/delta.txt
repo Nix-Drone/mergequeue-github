@@ -13725,7 +13725,6 @@ distal
 distalwards
 distance
 distanced
-decasyllables
 duograph
 distanceless
 distancy
@@ -17554,6 +17553,7 @@ depurates
 druggist
 druggister
 drugless
+decasyllables
 dadupanthi
 drugmaker
 drugman
