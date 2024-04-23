@@ -12052,6 +12052,7 @@ bokmakierie
 bokom
 bola
 bolag
+bkpr
 bolar
 bolas
 bearcoot
@@ -15209,7 +15210,6 @@ backstrip
 brid
 bucketing
 bastinade
-bkpr
 bridale
 bridally
 bridals
