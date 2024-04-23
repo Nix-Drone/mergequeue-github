@@ -8126,6 +8126,7 @@ diacope
 diacoustics
 diacranterian
 diacrisis
+dismissals
 diacritic
 diacritical
 diacromyodi
@@ -12757,7 +12758,6 @@ disminion
 dismiss
 dismissable
 dismissal
-dismissals
 dismissed
 dismisser
 doormaking
