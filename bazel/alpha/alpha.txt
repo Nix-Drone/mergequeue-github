@@ -5091,7 +5091,6 @@ aerosiderite
 aerosiderolite
 amphib
 aerosol
-aerosolization
 aerosolize
 aerosolized
 aerosols
@@ -14392,6 +14391,7 @@ anthocarpous
 anthoceros
 anthocerotaceae
 anthocerote
+aerosolization
 aquariiums
 anthochlorine
 anthocyan
