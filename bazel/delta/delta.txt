@@ -13199,7 +13199,6 @@ dislikelihood
 dispossess
 dispossessed
 dispossesses
-dispossessing
 dispossession
 debasers
 dispossessory
@@ -16456,6 +16455,7 @@ dozenths
 dozer
 dozers
 dozes
+dispossessing
 dozier
 doziest
 dozily
