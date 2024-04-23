@@ -8130,7 +8130,6 @@ frostproof
 femmes
 fretless
 foretop
-foretopman
 foretopmast
 foretopmen
 foretops
@@ -9848,6 +9847,7 @@ fraicheur
 frenzied
 fishbone
 frenzies
+foretopman
 fulmineous
 freq
 frequence
