@@ -2705,6 +2705,7 @@ canonics
 canonisation
 canonise
 contermine
+coccidial
 canonised
 canoniser
 canonises
@@ -17500,7 +17501,6 @@ cocci
 coccic
 coccid
 coccidae
-coccidial
 coccidian
 coccidiidea
 coccydynia
