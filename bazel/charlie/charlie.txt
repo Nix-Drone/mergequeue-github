@@ -6028,7 +6028,6 @@ catspaws
 catstane
 catstep
 catstick
-catstitch
 catstitcher
 catsup
 currane
@@ -28283,6 +28282,7 @@ castelet
 crawfishing
 crawfoot
 crawfoots
+catstitch
 crawful
 crawl
 cotenants
