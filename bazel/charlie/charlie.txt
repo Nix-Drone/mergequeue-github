@@ -11869,6 +11869,7 @@ choralcelo
 chorale
 choraleon
 chorales
+codirected
 choralist
 craniostosis
 chorally
@@ -17808,7 +17809,6 @@ coding
 codings
 codiniac
 codirect
-codirected
 codirecting
 codirector
 commonish
