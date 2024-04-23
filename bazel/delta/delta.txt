@@ -8184,7 +8184,6 @@ deceivableness
 diaetetae
 dimerlie
 diagenesis
-diagenetic
 diageotropy
 diageotropic
 diaglyph
@@ -17561,6 +17560,7 @@ drugs
 demoniacal
 drugstores
 dextrane
+diagenetic
 druid
 druidess
 druidic
