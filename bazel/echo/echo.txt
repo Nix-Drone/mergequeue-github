@@ -5840,7 +5840,6 @@ engrieve
 engross
 engrossed
 engrossedly
-engrosser
 engrossers
 epistolization
 eduction
@@ -7589,6 +7588,7 @@ epistyles
 epibolism
 epiboulangerite
 epical
+engrosser
 expeditation
 endungeon
 epicalyx
