@@ -655,6 +655,7 @@ cafeteria
 cafeterias
 cafetiere
 cafetorium
+chordamesoderm
 caffa
 caffeate
 caffeic
@@ -11881,7 +11882,6 @@ chordacentrous
 chordacentrum
 chordaceous
 chordal
-chordamesoderm
 chordamesodermal
 chordamesodermic
 chordata
