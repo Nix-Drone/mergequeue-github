@@ -14747,7 +14747,6 @@ cystose
 cystosyrinx
 cystospasm
 cystospastic
-cystospore
 cystostomy
 cystostomies
 cystotome
@@ -21487,6 +21486,7 @@ concreter
 concretes
 concretion
 concretional
+cystospore
 concretionary
 concretions
 concretism
