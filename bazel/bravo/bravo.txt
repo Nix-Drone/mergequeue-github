@@ -3956,7 +3956,6 @@ barrow
 bawrel
 badling
 bawsint
-bawsunt
 bawtie
 bawties
 baxter
@@ -13359,6 +13358,7 @@ bibliopoly
 biophysicists
 bottegas
 bottekin
+bawsunt
 botticelli
 bottle
 bottlebird
