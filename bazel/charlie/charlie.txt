@@ -5912,7 +5912,6 @@ cathismata
 cathodal
 cathode
 coherency
-cathodegraph
 comique
 cathodes
 cathodic
@@ -25767,6 +25766,7 @@ corrugation
 corrugator
 cadelle
 corrugent
+cathodegraph
 corrump
 corrumpable
 corrup
