@@ -5380,7 +5380,6 @@ afflatuses
 afflict
 algesireceptor
 afflicted
-afflictedness
 afflicter
 afflicting
 afflictingly
@@ -15426,6 +15425,7 @@ antilactase
 antilapsarian
 antileague
 antileak
+afflictedness
 antilegomena
 antilemic
 antilens
