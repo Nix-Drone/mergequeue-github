@@ -7273,7 +7273,6 @@ bestowment
 bestows
 bestraddle
 bestraddled
-bitewings
 bestraddling
 bestraught
 bestraw
@@ -15988,6 +15987,7 @@ bronchohemorrhagia
 broncholemmitis
 broncholith
 bronchomycosis
+bitewings
 bronchomotor
 bronchopathy
 bronchophony
