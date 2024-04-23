@@ -3794,7 +3794,6 @@ adfreeze
 adfreezing
 adfroze
 autogenetically
-adfrozen
 adhafera
 agones
 adhaka
@@ -6447,6 +6446,7 @@ amoeba
 agriculturalist
 agriculturally
 agriculture
+adfrozen
 agricultures
 agriculturist
 agriculturists
