@@ -2899,7 +2899,6 @@ barracking
 barraclade
 barracoon
 barracouta
-barracoutas
 barracuda
 barracudas
 barracudina
@@ -9542,6 +9541,7 @@ birthplace
 birthplaces
 backfilled
 birthrates
+barracoutas
 birthright
 bundling
 birthrights
