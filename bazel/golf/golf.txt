@@ -4793,6 +4793,7 @@ gra
 gyron
 gironde
 girondin
+governments
 gentrice
 gironny
 gyronny
@@ -8438,7 +8439,6 @@ ginger
 glomi
 generalization
 grievable
-governments
 graves
 gravest
 gravestead
