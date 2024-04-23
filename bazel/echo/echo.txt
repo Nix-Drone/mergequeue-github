@@ -2317,7 +2317,6 @@ electroacoustics
 ensnaringly
 electroaffinity
 electroamalgamation
-electroanalytic
 electroanalytical
 encl
 embassade
@@ -5189,6 +5188,7 @@ endogenicity
 endogenies
 exundation
 endogenous
+electroanalytic
 essive
 exercised
 electrocataphoresis
