@@ -5150,6 +5150,7 @@ ecphasis
 embosser
 endocrinopathic
 endocritic
+equisetum
 eruca
 endoderm
 endodermal
@@ -8766,7 +8767,6 @@ equisetaceous
 ecstatics
 equisetales
 equisetic
-equisetum
 equisided
 edaphically
 equisignal
