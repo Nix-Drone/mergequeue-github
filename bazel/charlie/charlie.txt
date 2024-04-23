@@ -8824,7 +8824,6 @@ cardiologies
 chapelward
 chaperno
 chaperon
-chaperonage
 chaperone
 chaperoned
 chaperonless
@@ -29098,6 +29097,7 @@ cryocautery
 caldarium
 criocephalus
 crioceras
+chaperonage
 circulate
 crioceratite
 crioceratitic
