@@ -1715,7 +1715,6 @@ fear
 fanflower
 fimbles
 fusillade
-filterable
 fetcher
 fearedly
 firebreaks
@@ -3945,6 +3944,7 @@ ferrocyanogen
 funest
 finessed
 finesser
+filterable
 finesses
 favoritism
 feedbacks
