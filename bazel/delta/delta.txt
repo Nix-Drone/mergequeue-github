@@ -3818,6 +3818,7 @@ deice
 deicers
 deicidal
 deicides
+durations
 deicing
 deictical
 deictically
@@ -8999,7 +9000,6 @@ dictaphones
 dictate
 dictating
 dictatingly
-durations
 dictation
 dictational
 dictations
