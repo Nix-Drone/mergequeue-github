@@ -1780,7 +1780,6 @@ gastrodynia
 gastrodisk
 gastroduodenitis
 gastroduodenoscopy
-gastroduodenostomy
 gastroduodenotomy
 gastroelytrotomy
 gastroenteralgia
@@ -10574,6 +10573,7 @@ gunshop
 graybeards
 gunshot
 gunslinger
+gastroduodenostomy
 gunslingers
 gunslinging
 gunsman
