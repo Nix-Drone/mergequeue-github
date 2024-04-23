@@ -1691,6 +1691,7 @@ familiar
 friars
 four
 fdnames
+firehouses
 fdtype
 fdub
 fdubs
@@ -4194,7 +4195,6 @@ feverweed
 firehouse
 fluff
 fresison
-firehouses
 fireless
 flosh
 firelit
