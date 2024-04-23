@@ -1939,7 +1939,6 @@ gatekeeper
 gatekeepers
 gurgly
 globuliferous
-gateless
 gatemaker
 gatemen
 genetical
@@ -10521,6 +10520,7 @@ gunmetal
 genesis
 gunmetals
 gunnage
+gateless
 gunnar
 gobbing
 gunne
