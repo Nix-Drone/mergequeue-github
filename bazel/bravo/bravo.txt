@@ -2808,6 +2808,7 @@ baromotor
 baldricks
 baronage
 baronages
+befreeze
 baronduki
 bibliolater
 bobberies
@@ -7506,7 +7507,6 @@ betso
 bulbine
 betta
 betted
-befreeze
 better
 bettered
 besmirched
