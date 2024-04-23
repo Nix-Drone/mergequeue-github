@@ -11548,7 +11548,6 @@ boards
 boardsmanship
 boardwalks
 boarfish
-boarfishes
 boarhound
 boarish
 bursar
@@ -17863,6 +17862,7 @@ bursars
 beanies
 brinish
 bursas
+boarfishes
 bursati
 butyral
 bursch
