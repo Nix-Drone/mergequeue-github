@@ -1991,7 +1991,6 @@ bandor
 bandora
 bandore
 bronchium
-bandos
 bandpass
 bandrol
 bandsaw
@@ -2649,6 +2648,7 @@ bloodlike
 barytas
 barite
 baryte
+bandos
 baritenor
 barytes
 barythymia
