@@ -2858,7 +2858,6 @@ decriminalizes
 decrypt
 decrypted
 decryption
-decrystallization
 decrowned
 decrowning
 decrowns
@@ -16803,6 +16802,7 @@ drawbars
 drawbeam
 dyslogia
 drawbench
+decrystallization
 delayage
 dardani
 drawboy
