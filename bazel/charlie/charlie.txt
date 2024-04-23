@@ -11944,6 +11944,7 @@ chorial
 choriamb
 choriambi
 choriambic
+concaved
 choriambize
 choriambs
 choriambus
@@ -21086,7 +21087,6 @@ concaulescence
 concause
 concavation
 concave
-concaved
 concavely
 concaveness
 concaves
