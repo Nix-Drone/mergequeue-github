@@ -3704,7 +3704,6 @@ adenoliomyofibroma
 aracari
 adenolipoma
 adenologaditis
-adenology
 adenological
 adenomalacia
 adenomas
@@ -25161,6 +25160,7 @@ axoneuron
 axletrees
 axmaker
 axmaking
+adenology
 axman
 axmanship
 axmaster
