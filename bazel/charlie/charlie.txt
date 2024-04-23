@@ -3915,7 +3915,6 @@ carcinoid
 carcinolysin
 carcinological
 carcinologist
-carcinoma
 carcinomas
 carcinomata
 carcinomatoid
@@ -11322,6 +11321,7 @@ chatino
 chloroforming
 chloroformism
 chloroformist
+carcinoma
 chloroformization
 chloroformize
 chloroforms
