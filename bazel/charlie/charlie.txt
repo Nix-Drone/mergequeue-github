@@ -11823,7 +11823,6 @@ chooser
 choosers
 cadilesker
 chooses
-choosier
 choosiness
 choosing
 chadar
@@ -22042,6 +22041,7 @@ conflicts
 conflictual
 conflow
 confluent
+choosier
 confluently
 conflux
 confluxes
