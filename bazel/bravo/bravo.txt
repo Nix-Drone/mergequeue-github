@@ -8995,7 +8995,6 @@ blacknob
 biogases
 biogen
 ballogan
-biogenase
 briny
 benzoylated
 biogenesis
@@ -14823,6 +14822,7 @@ breakings
 breakless
 breaklist
 belis
+biogenase
 bostonians
 breakneck
 breakoff
