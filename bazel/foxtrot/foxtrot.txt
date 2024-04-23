@@ -4345,7 +4345,6 @@ fishback
 fishberry
 fleshers
 fishberries
-fishboat
 fishbolt
 fishbolts
 falchions
@@ -6729,6 +6728,7 @@ fogger
 foggers
 fairgrass
 foggier
+fishboat
 furrier
 finableness
 foggiest
