@@ -3609,7 +3609,6 @@ disguise
 definition
 degass
 degassed
-degassing
 degauss
 degaussing
 degelatinize
@@ -8390,6 +8389,7 @@ decouple
 divia
 dialogized
 dogshore
+degassing
 dialogizing
 dialogue
 devesting
