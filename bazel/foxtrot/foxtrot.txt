@@ -1391,7 +1391,6 @@ fatherlike
 fathers
 fathership
 forswore
-fathomableness
 fathomage
 faunal
 fathomed
@@ -10185,6 +10184,7 @@ frithbot
 frithy
 fonds
 feasance
+fathomableness
 formiate
 forensal
 frithles
