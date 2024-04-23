@@ -295,7 +295,6 @@ eagerer
 eatability
 eatable
 eatables
-electrolyzability
 eatberry
 eaten
 emetophobia
@@ -3645,6 +3644,7 @@ embracive
 embraciveg
 embraid
 episperm
+electrolyzability
 embrail
 embranchment
 epitaphical
