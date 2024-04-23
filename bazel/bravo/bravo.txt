@@ -427,7 +427,6 @@ backplanes
 backplate
 backpointer
 backpointers
-backrest
 backrope
 brimstony
 backropes
@@ -8347,6 +8346,7 @@ bygane
 byganging
 bigarade
 bigarades
+backrest
 briefless
 bigaroons
 brats
