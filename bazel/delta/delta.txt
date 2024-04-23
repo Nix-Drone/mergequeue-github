@@ -3121,6 +3121,7 @@ deewans
 def
 deface
 dehydrogenising
+discolorate
 defaceable
 defacement
 defacements
@@ -18441,7 +18442,6 @@ durabilities
 durableness
 durables
 durably
-discolorate
 dreidl
 duracine
 durain
