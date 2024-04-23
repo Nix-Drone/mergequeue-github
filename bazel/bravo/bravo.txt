@@ -8258,6 +8258,7 @@ blest
 byerite
 bierkeller
 byerlite
+bioherms
 bierstube
 bierstuben
 byestreet
@@ -9034,7 +9035,6 @@ biographize
 biohazard
 brutes
 bioherm
-bioherms
 bioinstrument
 biokinetics
 biol
