@@ -11634,7 +11634,6 @@ cholesteatomatous
 cholestene
 cholesteremia
 cholesteric
-cholesteryl
 cholesterin
 cholesterinemia
 chappow
@@ -22661,6 +22660,7 @@ conopidae
 conoplain
 calonyction
 conopophaga
+cholesteryl
 conopophagidae
 conor
 circar
