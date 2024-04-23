@@ -1679,7 +1679,6 @@ fawnskin
 fax
 faxed
 fructuosity
-faxing
 fazes
 fc
 fchar
@@ -11252,6 +11251,7 @@ funguses
 fireball
 funguslike
 funic
+faxing
 fistulae
 funicle
 foreday
