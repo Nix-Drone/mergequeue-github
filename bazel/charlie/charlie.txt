@@ -1585,7 +1585,6 @@ calorescent
 calory
 caloric
 calorically
-caloricity
 calorics
 caloriduct
 calorie
@@ -4046,6 +4045,7 @@ cardiographic
 cardiographies
 cardiohepatic
 cardioid
+caloricity
 cardioids
 cardiolysis
 cardiology
