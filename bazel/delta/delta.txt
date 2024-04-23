@@ -564,7 +564,6 @@ dureful
 dama
 damage
 damageability
-damageably
 damaged
 damagement
 damageous
@@ -3869,6 +3868,7 @@ dungy
 deinotherium
 deinstitutionalization
 demagnetizable
+damageably
 deinsularize
 deynt
 deintellectualization
