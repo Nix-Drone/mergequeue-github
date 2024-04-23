@@ -5436,7 +5436,6 @@ endseal
 endshake
 endsheet
 everglade
-execrates
 endue
 exploration
 enduing
@@ -12742,6 +12741,7 @@ exophasic
 exophoria
 exophoric
 exophthalmos
+execrates
 exophthalmus
 exoplasm
 exopod

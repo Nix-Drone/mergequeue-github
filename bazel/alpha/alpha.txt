@@ -2363,6 +2363,7 @@ acy
 acyanoblepsia
 acichlorid
 acichloride
+allergia
 altin
 acyclic
 acast
@@ -8656,7 +8657,6 @@ allergen
 allergenic
 autarkical
 allergenicity
-allergia
 allergies
 allergin
 allergins
