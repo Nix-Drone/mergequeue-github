@@ -922,7 +922,6 @@ autocide
 aerator
 abscoulomb
 abscound
-absee
 abseil
 abseiled
 abseils
@@ -8534,6 +8533,7 @@ allay
 allayed
 allayers
 allaying
+absee
 allayment
 acyclically
 allalinite
