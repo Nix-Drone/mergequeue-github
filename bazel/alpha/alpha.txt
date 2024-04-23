@@ -5704,7 +5704,6 @@ aftersound
 afterspeech
 afterspring
 appetisse
-afterstorm
 afterstretch
 afterstudy
 aftersupper
@@ -6705,6 +6704,7 @@ aiglette
 aigre
 aigremore
 antipharisaic
+afterstorm
 alkaligen
 aigret
 aigrets
