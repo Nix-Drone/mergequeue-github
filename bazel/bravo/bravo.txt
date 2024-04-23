@@ -9538,7 +9538,6 @@ birthmarks
 birthmate
 birthnight
 birthplace
-birthplaces
 backfilled
 birthrates
 birthright
@@ -15502,6 +15501,7 @@ bryophyllum
 bryophyta
 bouncy
 bryophytes
+birthplaces
 bryophytic
 brios
 biaxially
