@@ -10420,7 +10420,6 @@ blackleg
 blastocyst
 blastocyte
 blastocoel
-blastocoele
 blastocolla
 blastoderm
 blastodermatic
@@ -15971,6 +15970,7 @@ bronchocavernous
 bronchocele
 bufotenin
 brutish
+blastocoele
 bronchocephalitis
 bronchoconstriction
 benzaldiphenyl
