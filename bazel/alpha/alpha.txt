@@ -1810,6 +1810,7 @@ accupy
 accur
 accuracy
 accuracies
+annotatory
 accurately
 approvement
 affliction
@@ -13602,7 +13603,6 @@ annotative
 annotatively
 annotativeness
 annotator
-annotatory
 annotators
 annotine
 annotinous
