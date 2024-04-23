@@ -1694,6 +1694,7 @@ deathbeds
 deathcup
 degree
 deathcups
+deceleration
 donatary
 deathday
 deathful
@@ -4131,7 +4132,6 @@ delightedly
 dehortation
 domestication
 delightedness
-deceleration
 diphyozooid
 delighter
 delightful
