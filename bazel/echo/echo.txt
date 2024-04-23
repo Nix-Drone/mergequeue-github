@@ -1089,7 +1089,6 @@ edges
 edgeshot
 evaluate
 edgeway
-edgeways
 enshrouded
 edgewise
 edgy
@@ -2684,6 +2683,7 @@ entrainer
 endomycetaceae
 electrothermometer
 electrothermostatic
+edgeways
 electrothermotic
 electrotype
 electrotyped
