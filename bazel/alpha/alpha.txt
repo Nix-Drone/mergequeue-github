@@ -6059,7 +6059,6 @@ aggrandizer
 aggrandizers
 aggrandizes
 aggrandizing
-aggravable
 aggravate
 aggravated
 azoxyphenetole
@@ -6488,6 +6487,7 @@ agrogeological
 agrology
 agrologic
 antithet
+aggravable
 agrological
 agrologies
 adolesce
