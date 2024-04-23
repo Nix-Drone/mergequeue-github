@@ -6789,7 +6789,6 @@ foison
 foisonless
 foisons
 flaughts
-failsafe
 foist
 foxtongue
 fibromyomectomy
@@ -11499,6 +11498,7 @@ furrowers
 furrowy
 furrowing
 furrowless
+failsafe
 furrowlike
 furrure
 foredid
