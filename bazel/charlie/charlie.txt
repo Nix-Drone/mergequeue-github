@@ -9952,7 +9952,6 @@ chemotherapy
 chemotherapies
 chemotherapist
 chemotherapists
-chemotic
 chemotroph
 chemotrophic
 chemotropic
@@ -16306,6 +16305,7 @@ clype
 clypeal
 clypeastridea
 clypeastrina
+chemotic
 clypeastroid
 clypeastroidea
 clypeate
