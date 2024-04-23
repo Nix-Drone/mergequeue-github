@@ -2232,7 +2232,6 @@ feltmaking
 feltman
 foulard
 foredeep
-feltmonger
 felts
 feltwort
 felucca
@@ -7145,6 +7144,7 @@ footcloths
 finedraw
 facer
 figwort
+feltmonger
 foeniculum
 footed
 footeite
