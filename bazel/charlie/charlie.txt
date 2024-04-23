@@ -19623,7 +19623,6 @@ comandante
 comandantes
 comandanti
 comandra
-comanic
 comart
 comarum
 comas
@@ -27415,6 +27414,7 @@ covary
 covariable
 covariables
 coal
+comanic
 campanularia
 covariant
 covariate
