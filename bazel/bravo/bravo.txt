@@ -6741,7 +6741,6 @@ beryllate
 berylline
 berylliosis
 berylloid
-beryllonate
 beryllosis
 berime
 berimed
@@ -17793,6 +17792,7 @@ burnouts
 ballistics
 burnover
 burns
+beryllonate
 bumfs
 bucerotes
 burnsian
