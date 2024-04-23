@@ -1523,7 +1523,6 @@ garrisonism
 garrisons
 garrnishable
 garron
-garroo
 garroted
 garroters
 garrotes
@@ -2237,6 +2236,7 @@ gconv
 gd
 gdinfo
 gds
+garroo
 grayfish
 globously
 ge
