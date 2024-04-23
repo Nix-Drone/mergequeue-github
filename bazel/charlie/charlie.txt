@@ -1111,6 +1111,7 @@ calcsinter
 calcspar
 calcspars
 calctufas
+contraposita
 calctuff
 calculability
 calculable
@@ -23737,7 +23738,6 @@ contraposaune
 contrapose
 contraposed
 contraposit
-contraposita
 contraposition
 contrapositive
 contrapositives
