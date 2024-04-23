@@ -5774,7 +5774,6 @@ flittermouse
 farmlands
 flitters
 flitty
-flitting
 flivver
 fumariaceous
 flyway
@@ -8784,6 +8783,7 @@ fortuuned
 forumize
 forvay
 forwalk
+flitting
 forwander
 forward
 forwardal
