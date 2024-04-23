@@ -6873,7 +6873,6 @@ despecialize
 despecificate
 despecification
 despeed
-despend
 desperado
 ddt
 dioptre
@@ -9540,6 +9539,7 @@ dulias
 digraph
 digraphically
 digraphs
+despend
 digredience
 digrediency
 donatory
