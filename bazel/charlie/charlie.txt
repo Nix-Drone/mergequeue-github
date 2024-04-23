@@ -2675,6 +2675,7 @@ canoe
 canoed
 canoeist
 canoeists
+cly
 canoeload
 canoeman
 canoes
@@ -16056,7 +16057,6 @@ clewgarnet
 clewing
 clews
 cli
-cly
 cliack
 calcaemia
 clianthus
