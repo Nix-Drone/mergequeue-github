@@ -1796,7 +1796,6 @@ accumulable
 accumulate
 accumulated
 accumulating
-accumulation
 accumulativ
 aquatones
 ambisporangiate
@@ -12766,6 +12765,7 @@ angioglioma
 angiography
 angiographic
 angiohemophilia
+accumulation
 angiohyalinosis
 angiohypertonia
 angiohypotonia
