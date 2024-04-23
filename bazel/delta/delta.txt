@@ -829,6 +829,7 @@ dangers
 dangersome
 dangle
 dangleberry
+dihedral
 dangled
 danglers
 dangles
@@ -9568,7 +9569,6 @@ dihalo
 discommendable
 dihalogen
 dihdroxycholecalciferol
-dihedral
 dihedrals
 dihedron
 discipleship
