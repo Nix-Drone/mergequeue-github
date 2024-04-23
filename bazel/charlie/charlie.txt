@@ -5675,7 +5675,6 @@ catchweight
 catchword
 catchwork
 catclaw
-catdom
 cate
 catechesis
 catechetic
@@ -25869,6 +25868,7 @@ cimicid
 corticifugally
 corticine
 corticipetal
+catdom
 corticipetally
 corticium
 corticoafferent
