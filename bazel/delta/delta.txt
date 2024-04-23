@@ -5755,7 +5755,6 @@ deployed
 deploying
 defilade
 deployment
-deployments
 deftest
 deplorabilia
 deplorability
@@ -10751,6 +10750,7 @@ dipterus
 diptyca
 diptych
 diptychs
+deployments
 dipware
 disloign
 diquat
