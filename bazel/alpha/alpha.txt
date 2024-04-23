@@ -4961,7 +4961,6 @@ aeroducts
 aeroelastic
 aeroelasticity
 aeroelastics
-aporphin
 aerofoil
 aerofoils
 algine
@@ -11861,6 +11860,7 @@ anapaestically
 anapaests
 anapaganize
 anapaite
+aporphin
 anapanapa
 anapeiratic
 anapest
