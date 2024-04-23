@@ -404,6 +404,7 @@ galactosis
 gnomelike
 galactotrophy
 galagala
+grouped
 galaginae
 gimballing
 gangboard
@@ -9475,7 +9476,6 @@ group
 groupable
 groupage
 groupageness
-grouped
 grouper
 gynecology
 groupers
