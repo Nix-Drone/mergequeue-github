@@ -226,7 +226,6 @@ afdecho
 acantholysis
 abbreviates
 abbreviating
-abbreviation
 ascebc
 abbreviations
 abbreviator
@@ -23612,6 +23611,7 @@ aurinasal
 aurine
 acicula
 auriphone
+abbreviation
 auriphrygia
 auriphrygiate
 auripigment
