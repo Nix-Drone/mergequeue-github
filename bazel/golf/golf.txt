@@ -7851,7 +7851,6 @@ gramophone
 gramophonic
 geoside
 gramophonically
-gramophonist
 gametangium
 grampa
 guydom
@@ -10193,6 +10192,7 @@ guile
 guileful
 gyroscopic
 guilefulness
+gramophonist
 guilelessness
 guiler
 glochis
