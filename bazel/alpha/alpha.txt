@@ -2736,7 +2736,6 @@ acquisitum
 acquist
 assuaging
 acquital
-acquittal
 acquittals
 acquittance
 acquitted
@@ -8037,6 +8036,7 @@ algaroth
 algarroba
 algarrobilla
 algarrobin
+acquittal
 algarsyf
 algarsife
 algas
