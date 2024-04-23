@@ -1179,7 +1179,6 @@ fenite
 fascia
 fogeater
 fasciae
-fasciate
 featherbone
 fasciated
 fasciation
@@ -10963,6 +10962,7 @@ frosts
 fluvial
 flame
 fulminatory
+fasciate
 fulmined
 fulmines
 fulminurate
