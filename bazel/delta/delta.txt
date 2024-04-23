@@ -8870,7 +8870,6 @@ dichlorhydrin
 dichloride
 dichloroacetic
 dichlorobenzene
-dichlorodifluoromethane
 dichlorodiphenyltrichloroethane
 dichlorohydrin
 dichloromethane
@@ -15708,6 +15707,7 @@ dorylinae
 doryline
 dyemaker
 dorymen
+dichlorodifluoromethane
 doryphoros
 dewools
 divining
