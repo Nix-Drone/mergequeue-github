@@ -9103,7 +9103,6 @@ charontas
 cardplayer
 clunisian
 charophyta
-charoses
 charoseth
 charpai
 charpais
@@ -22371,6 +22370,7 @@ conidae
 conidial
 conidian
 conidioid
+charoses
 conidiophorous
 conidiospore
 conidium
