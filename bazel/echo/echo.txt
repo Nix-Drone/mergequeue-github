@@ -5627,7 +5627,6 @@ enforcers
 enforces
 enforcibility
 enforcingly
-enforcively
 enforest
 enfork
 embassage
@@ -7372,6 +7371,7 @@ epacrid
 engird
 emblemized
 epacris
+enforcively
 epact
 epactal
 epaenetic
