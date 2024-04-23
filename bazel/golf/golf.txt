@@ -5922,7 +5922,6 @@ gorling
 grinder
 glossoplasty
 glossoplegia
-glossopodium
 glossopteris
 glossoptosis
 glossorrhaphy
@@ -6849,6 +6848,7 @@ googols
 gonidiophore
 gonifs
 gonimic
+glossopodium
 gonimium
 gonimolobe
 gouged
