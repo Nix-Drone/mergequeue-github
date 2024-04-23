@@ -4825,7 +4825,6 @@ encolden
 encollar
 euryalean
 equitangential
-encolour
 encolpia
 encolpion
 encolumn
@@ -13124,6 +13123,7 @@ expire
 exhaustable
 expired
 embale
+encolour
 expiree
 expirer
 expirers
