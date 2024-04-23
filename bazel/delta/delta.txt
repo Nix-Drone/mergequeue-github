@@ -4034,7 +4034,6 @@ domiculture
 delegalized
 delegalizing
 delegant
-dependants
 delegare
 delegate
 delegated
@@ -7870,6 +7869,7 @@ dexes
 dexies
 dexiocardia
 dexiotrope
+dependants
 dexiotropic
 dexiotropism
 dexter
