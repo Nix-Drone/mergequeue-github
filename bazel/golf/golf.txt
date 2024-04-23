@@ -3598,7 +3598,6 @@ gesturist
 geswarp
 geta
 gallivorous
-getable
 getae
 glycolide
 geoty
@@ -10815,6 +10814,7 @@ graphometer
 gutturine
 gelatiniferous
 gutturopalatal
+getable
 gutweed
 gutwise
 gutwort
