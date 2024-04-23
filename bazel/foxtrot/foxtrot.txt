@@ -4173,7 +4173,6 @@ feuage
 firecrackers
 farness
 firedamp
-feezing
 firedamps
 firedog
 firedragon
@@ -7126,6 +7125,7 @@ footages
 footback
 football
 footballist
+feezing
 footballs
 footbath
 footbeat
