@@ -7574,7 +7574,6 @@ forechoir
 faith
 foregame
 forechoose
-foreclaw
 foreclose
 foreclosed
 foreclosure
@@ -9220,6 +9219,7 @@ flaxwort
 falterers
 ferried
 foveolate
+foreclaw
 fractionating
 fractionation
 flab
