@@ -1100,6 +1100,7 @@ farnesol
 farnesols
 fogas
 flinger
+featurelessness
 farnesses
 faro
 floter
@@ -1843,7 +1844,6 @@ feature
 forthrightly
 featured
 featureful
-featurelessness
 featurely
 featureliness
 flywheel
