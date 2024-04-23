@@ -10088,7 +10088,6 @@ grammarian
 guirlande
 gazetteer
 guested
-guesten
 guesthouse
 guesting
 giottesque
@@ -10700,6 +10699,7 @@ gustativeness
 grossify
 gustatorial
 gustavus
+guesten
 germanomania
 gusted
 gustful
