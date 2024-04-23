@@ -9860,7 +9860,6 @@ dimetallic
 dimeter
 dimeters
 dimethyl
-dimethylamine
 dimethylamino
 dimethylanthranilate
 dimethylbenzene
@@ -10829,6 +10828,7 @@ dirged
 dirgelike
 dirgeman
 dirgy
+dimethylamine
 dirgie
 diriment
 dirgler
