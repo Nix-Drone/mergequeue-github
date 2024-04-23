@@ -534,7 +534,6 @@ backstromite
 backswept
 backswimmer
 backsword
-backswording
 bettergates
 backswordman
 bestness
@@ -10318,6 +10317,7 @@ blossomry
 browman
 blandishing
 blandishingly
+backswording
 blandishments
 blandness
 blank
