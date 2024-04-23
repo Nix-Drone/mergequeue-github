@@ -2633,7 +2633,6 @@ envenoms
 electrosmosis
 electrostatic
 electrostatical
-electrosteel
 electrostenolysis
 electrostenolytic
 exciples
@@ -7076,6 +7075,7 @@ entrike
 entryman
 enteroid
 entrymen
+electrosteel
 entryway
 entryways
 episcopes
