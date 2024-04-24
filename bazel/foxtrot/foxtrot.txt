@@ -4343,6 +4343,7 @@ fise
 forb
 fisetin
 fish
+fogbank
 fishability
 fishable
 fishback
@@ -6715,7 +6716,6 @@ foetus
 fofarraw
 flanger
 fog
-fogbank
 fogbound
 fogbow
 flyblow
