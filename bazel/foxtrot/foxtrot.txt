@@ -2399,6 +2399,7 @@ feracities
 ferae
 fairyship
 feralin
+fermage
 ferash
 favel
 ferbams
@@ -11399,7 +11400,6 @@ frankincense
 falconry
 fulvene
 furify
-fermage
 finagled
 furilic
 furiouser
