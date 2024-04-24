@@ -5058,7 +5058,6 @@ endjunk
 evens
 endleaf
 endleaves
-endless
 excuses
 endlessly
 electroplating
@@ -6304,6 +6303,7 @@ enrol
 enfeebled
 enroll
 enrolle
+endless
 enrolled
 enrollee
 embryologies
