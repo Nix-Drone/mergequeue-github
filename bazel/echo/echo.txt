@@ -1395,7 +1395,6 @@ efferous
 extraocular
 effervesced
 effervescence
-effervescency
 effervescent
 effervescently
 effervesces
@@ -11130,6 +11129,7 @@ eurythermal
 eurithermophile
 eurithermophilic
 eurythermous
+effervescency
 eurythmic
 enisle
 euangiotic
