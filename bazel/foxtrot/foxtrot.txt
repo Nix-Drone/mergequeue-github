@@ -201,7 +201,6 @@ factory
 factorial
 factorially
 frizer
-factorials
 foilsman
 factories
 factoring
@@ -6471,6 +6470,7 @@ fluoroscopists
 fluorosis
 fluorotic
 fishier
+factorials
 fluorotype
 fluorouracil
 fluors
