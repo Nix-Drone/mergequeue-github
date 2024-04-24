@@ -8838,7 +8838,6 @@ allographic
 alloy
 alloyage
 alloyed
-alloying
 alloimmune
 alloiogenesis
 alloiometry
@@ -13076,6 +13075,7 @@ anhistic
 anhistous
 anhungered
 anhungry
+alloying
 ani
 any
 aniba
