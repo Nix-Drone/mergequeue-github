@@ -1694,6 +1694,7 @@ friars
 four
 fdnames
 fdtype
+fellowess
 fdub
 fortuitousness
 fe
@@ -6382,7 +6383,6 @@ fluocarbonate
 fluocerine
 flang
 fluochloride
-fellowess
 fluohydric
 feedhead
 fluophosphate
