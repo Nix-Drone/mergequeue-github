@@ -216,7 +216,6 @@ abscision
 abbott
 abbozzo
 abbr
-abbrev
 abbreviatable
 abbreviate
 abbreviated
@@ -582,6 +581,7 @@ abluvion
 abmho
 assai
 anguishful
+abbrev
 abmhos
 abmodality
 abmodalities
