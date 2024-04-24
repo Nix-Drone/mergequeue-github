@@ -7400,7 +7400,6 @@ cephalothoraxes
 cephalotomy
 capman
 contrate
-cephalotractor
 cephalotribe
 cephalotrocha
 cephalotus
@@ -18259,6 +18258,7 @@ cogitability
 cogitabund
 cogitabundity
 cogitabundly
+cephalotractor
 chainstitch
 cogitabundous
 cedriret
