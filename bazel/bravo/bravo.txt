@@ -3352,7 +3352,6 @@ basket
 basketballs
 basketfuls
 basketing
-basketlike
 basketmaker
 basketmaking
 buyback
@@ -15090,6 +15089,7 @@ brevis
 brevit
 brevity
 brevities
+basketlike
 backboneless
 bretwalda
 brew
