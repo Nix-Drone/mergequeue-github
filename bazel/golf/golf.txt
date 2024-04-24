@@ -3159,7 +3159,6 @@ governability
 geomorphic
 geomorphist
 gripiest
-geomorphogenic
 geomorphogenist
 geomorphology
 geomorphologic
@@ -8507,6 +8506,7 @@ gastight
 gossameriness
 grazed
 grazer
+geomorphogenic
 gradus
 globated
 grayish
