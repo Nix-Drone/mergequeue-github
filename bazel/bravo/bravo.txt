@@ -874,7 +874,6 @@ basicranial
 belltopperdom
 bagattino
 bagaudae
-bagdad
 bagdi
 bagel
 bagels
@@ -12626,6 +12625,7 @@ bookbinding
 bookboard
 bookcase
 bookcases
+bagdad
 bookcraft
 bookdealer
 bushmaster
