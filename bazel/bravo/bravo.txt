@@ -748,7 +748,6 @@ baddie
 barlock
 betimber
 baddies
-baddish
 baddishly
 baddishness
 baddock
@@ -16562,6 +16561,7 @@ buccan
 buccaned
 buccaneer
 buccaneering
+baddish
 buccaneerish
 buccaneers
 buccaning
