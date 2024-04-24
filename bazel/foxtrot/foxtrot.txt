@@ -6302,7 +6302,6 @@ fingerflower
 fluidizes
 fluidmeter
 faulted
-fluidness
 fluidounce
 friskers
 fluidram
@@ -7783,6 +7782,7 @@ foreknowingly
 forelady
 forelay
 forelaying
+fluidness
 foreland
 forelands
 foreleg
