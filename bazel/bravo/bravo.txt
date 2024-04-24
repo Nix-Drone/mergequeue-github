@@ -2511,7 +2511,6 @@ bareboat
 borderside
 bareboats
 barrener
-bareboned
 barebones
 bareca
 barefaced
@@ -9236,6 +9235,7 @@ byously
 biovulate
 bioxalate
 bioxide
+bareboned
 byp
 bulimiform
 bethabara
