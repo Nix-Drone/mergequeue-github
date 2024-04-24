@@ -4363,7 +4363,6 @@ fisherboy
 faffle
 fisheress
 fragmentate
-fisherfolk
 fishery
 florentium
 fisherman
@@ -10211,6 +10210,7 @@ frittering
 fritters
 formation
 frivol
+fisherfolk
 frivoled
 frivoler
 frivolist
