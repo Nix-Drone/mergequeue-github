@@ -1368,7 +1368,6 @@ gardenia
 gundeck
 gardenin
 gardening
-gardenless
 gardenly
 gardenlike
 grume
@@ -7912,6 +7911,7 @@ grandfather
 glisky
 grandfatherhood
 grandfatherish
+gardenless
 gemshorn
 grandfatherly
 grandfathers
