@@ -557,7 +557,6 @@ cultures
 caduac
 caduca
 caducary
-caducean
 caducecei
 caducei
 caduceus
@@ -16111,6 +16110,7 @@ cliffhanging
 cliffy
 cliffier
 counterdemonstration
+caducean
 cliffing
 cliffless
 clifflike
