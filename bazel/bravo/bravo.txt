@@ -14841,7 +14841,6 @@ breakpoints
 breaks
 breakshugh
 besselian
-breakstone
 breakthrough
 breakthroughs
 breakups
@@ -17180,6 +17179,7 @@ barble
 buckramed
 baubles
 bullyrock
+breakstone
 bullyrook
 bullish
 bullishness
