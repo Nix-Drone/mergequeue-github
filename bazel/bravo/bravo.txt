@@ -2492,6 +2492,7 @@ bardlet
 boothian
 bardlike
 burut
+boatward
 bardling
 beswinge
 bardo
@@ -11625,7 +11626,6 @@ boatsteerer
 boatswain
 boatswains
 boattail
-boatward
 boatwoman
 boatwright
 bob
