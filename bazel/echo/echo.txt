@@ -199,7 +199,6 @@ earthsmoke
 earthtongue
 earthwall
 earthwork
-earthworks
 ecdysones
 earthworms
 earwax
@@ -5041,6 +5040,7 @@ endict
 endymal
 endimanche
 epiparodos
+earthworks
 endings
 endysis
 elaeomargaric
