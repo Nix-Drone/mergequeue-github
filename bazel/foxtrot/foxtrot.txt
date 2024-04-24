@@ -3017,7 +3017,6 @@ ffa
 fgrid
 farrandly
 fy
-fiacres
 fiancailles
 fetichry
 fiance
@@ -4603,6 +4602,7 @@ faussebraye
 fivebar
 fiveling
 fivepence
+fiacres
 fiver
 forages
 fm
