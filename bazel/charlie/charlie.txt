@@ -2305,6 +2305,7 @@ cancerigenic
 cancerin
 cancerism
 cancerite
+closable
 cancerization
 cancerogenic
 cancerophobe
@@ -16635,7 +16636,6 @@ coachwork
 clorargyrite
 clorinator
 clos
-closable
 close
 closeable
 closecross
