@@ -5336,7 +5336,6 @@ affinitive
 affirm
 affirmable
 affirmably
-affirmance
 affirmant
 affirmation
 affirmations
@@ -20235,6 +20234,7 @@ autodigestive
 anaqua
 arrestment
 arrestor
+affirmance
 arrestors
 arrests
 arret
