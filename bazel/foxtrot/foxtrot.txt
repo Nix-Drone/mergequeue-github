@@ -460,6 +460,7 @@ faithfulness
 favoredness
 federates
 fraik
+forestaffs
 faithless
 faithlessly
 faithlessness
@@ -8027,7 +8028,6 @@ forespoken
 forest
 forthteller
 forestaff
-forestaffs
 forestage
 forestay
 forestair
