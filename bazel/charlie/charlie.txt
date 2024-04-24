@@ -10110,6 +10110,7 @@ chessman
 chessmen
 chirimen
 chessner
+conversionary
 chessom
 claves
 chesstree
@@ -24103,7 +24104,6 @@ conversible
 conversing
 conversion
 coraled
-conversionary
 conversionism
 chirping
 conversions
