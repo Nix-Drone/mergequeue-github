@@ -1095,7 +1095,6 @@ farms
 farmscape
 farmsteads
 farmtown
-farnesol
 farnesols
 fogas
 flinger
@@ -3233,6 +3232,7 @@ fieldfare
 fictionisation
 furunculosis
 fictionise
+farnesol
 fictionised
 fictionist
 fictionistic
