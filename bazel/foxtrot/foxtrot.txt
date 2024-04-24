@@ -193,6 +193,7 @@ factive
 fisherboat
 fossule
 facto
+foods
 factorability
 factorable
 factordom
@@ -7068,7 +7069,6 @@ foody
 foodless
 foodlessness
 fulfilled
-foods
 foodstuff
 foodstuffs
 flacked
