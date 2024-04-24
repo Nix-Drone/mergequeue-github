@@ -6274,7 +6274,6 @@ gnathotheca
 gillot
 gladdy
 gnatlike
-gnatproof
 glyptographic
 gnats
 gnatsnap
@@ -8292,6 +8291,7 @@ giardiasis
 grassiness
 geast
 gobos
+gnatproof
 grassland
 gedds
 grasslike
