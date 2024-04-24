@@ -7158,7 +7158,6 @@ centreboard
 centrechinoida
 centred
 centref
-centrefold
 centreless
 centrepiece
 canephoroe
@@ -16791,6 +16790,7 @@ caftaned
 cloverleaf
 cloverleafs
 cloverleaves
+centrefold
 cloverley
 cloveroot
 cloverroot
