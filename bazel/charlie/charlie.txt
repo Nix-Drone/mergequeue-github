@@ -9582,7 +9582,6 @@ checkup
 checkups
 checkweigher
 checkweighman
-checkweighmen
 checkwork
 checkwriter
 cheddar
@@ -24207,6 +24206,7 @@ convoker
 convokers
 convokes
 convoluta
+checkweighmen
 convoluted
 convolutedly
 crinoidal
