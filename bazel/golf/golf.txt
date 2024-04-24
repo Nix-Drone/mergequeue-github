@@ -8394,7 +8394,6 @@ gravat
 grave
 graveclod
 griquaite
-galenite
 gravecloth
 graveclothes
 gravedigger
@@ -10762,6 +10761,7 @@ guttee
 gutter
 guttera
 gallybagger
+galenite
 gutteral
 ganoidean
 gutterblood
