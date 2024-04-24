@@ -7821,7 +7821,6 @@ grammars
 gieseckite
 grammaticality
 gateau
-glossate
 grammatically
 grammaticalness
 grammaticaster
@@ -10503,6 +10502,7 @@ gunjah
 gona
 gunk
 gunkholed
+glossate
 gurniad
 grandiosely
 grateman
