@@ -4506,6 +4506,7 @@ besieged
 becloak
 belchers
 becloaking
+bepile
 becloaks
 beclog
 beclogged
@@ -6550,7 +6551,6 @@ bepicture
 bepiece
 bellyflaught
 bepierce
-bepile
 beacher
 butcherliness
 bepill
