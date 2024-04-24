@@ -1224,6 +1224,7 @@ bakerite
 bakerless
 bakerly
 bakerlike
+boxroom
 bakers
 beslaver
 bakersfield
@@ -13869,7 +13870,6 @@ boxmaker
 bicycloheptane
 boxman
 booky
-boxroom
 boxthorn
 borghese
 boxthorns
