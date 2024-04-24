@@ -15297,7 +15297,6 @@ clairseach
 cloisteral
 clairsentience
 clairsentient
-clairvoyance
 clairvoyances
 clairvoyancy
 clairvoyant
@@ -19638,6 +19637,7 @@ comatoseness
 comatosity
 comatous
 comatula
+clairvoyance
 comb
 combaron
 conventicler
