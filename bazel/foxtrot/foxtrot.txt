@@ -4929,7 +4929,6 @@ forge
 flaminica
 flaminical
 flamless
-flammable
 floorers
 filefish
 flammation
@@ -6758,6 +6757,7 @@ fohat
 fohn
 fohns
 ferroboron
+flammable
 foy
 fanny
 foyaite
