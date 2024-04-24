@@ -5018,7 +5018,6 @@ aeromaechanic
 aeromancer
 aeromancy
 aeromechanic
-aeromechanics
 aeromedical
 aeromedicine
 aerometeorograph
@@ -22380,6 +22379,7 @@ atabal
 atabals
 alluviate
 atabeg
+aeromechanics
 atabek
 alexandreid
 atabrine
