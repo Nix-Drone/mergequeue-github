@@ -14937,6 +14937,7 @@ anticity
 anticytolysin
 anticytotoxin
 anticivic
+authenticated
 anticivil
 anticivilian
 atturn
@@ -23796,7 +23797,6 @@ amampondo
 apoplectiform
 authentically
 authenticate
-authenticated
 authenticates
 authentication
 authentications
