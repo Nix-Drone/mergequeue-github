@@ -1295,7 +1295,6 @@ fastball
 fastened
 fastener
 fasteners
-fastening
 fastenings
 flagrante
 fishhouse
@@ -8652,6 +8651,7 @@ forswearing
 fairling
 fields
 forswears
+fastening
 fort
 fortake
 fenceful
