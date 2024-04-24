@@ -1002,7 +1002,6 @@ forklifts
 fardel
 fardelet
 farding
-fardo
 fards
 fissiparation
 fare
@@ -10286,6 +10285,7 @@ ferrado
 frog
 frogbit
 figurette
+fardo
 frogeye
 frogeyed
 fibra
