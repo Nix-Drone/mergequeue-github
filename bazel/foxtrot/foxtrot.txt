@@ -3600,6 +3600,7 @@ fileable
 filecard
 filechar
 filed
+fusetron
 filefishes
 fogie
 firelight
@@ -5227,7 +5228,6 @@ flavored
 flavorer
 flavorers
 flavorfully
-fusetron
 flavoriness
 flavoring
 fructoses
