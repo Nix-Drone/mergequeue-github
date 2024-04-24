@@ -4784,7 +4784,6 @@ carryouts
 carryover
 carryovers
 carritch
-carritches
 carriwitchet
 conform
 carrizo
@@ -12798,6 +12797,7 @@ chunk
 chunked
 chunkhead
 chace
+carritches
 chunky
 coho
 chunkier
