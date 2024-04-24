@@ -11208,7 +11208,6 @@ chloramine
 chloramphenicol
 chloranaemia
 chloranemia
-chloranemic
 chloranhydride
 chloranil
 chloranthaceae
@@ -30578,6 +30577,7 @@ cucularis
 cachila
 cucule
 cuculidae
+chloranemic
 cuculiformes
 cephaloclasia
 cuculine
