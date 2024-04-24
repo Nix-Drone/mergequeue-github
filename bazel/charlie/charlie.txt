@@ -4908,7 +4908,6 @@ cartons
 cartoon
 cartoonist
 cartoonists
-condors
 cartoons
 cartop
 cartopper
@@ -18068,6 +18067,7 @@ coequals
 coequate
 centerward
 cruses
+condors
 coequated
 coequates
 carling
