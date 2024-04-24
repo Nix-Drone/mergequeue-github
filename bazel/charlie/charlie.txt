@@ -24621,7 +24621,6 @@ copolar
 copolymer
 copolymeric
 copolymerism
-copolymerization
 copolymerizations
 copolymerize
 copolymerized
@@ -27188,6 +27187,7 @@ counterwrite
 committee
 countess
 countfish
+copolymerization
 counties
 counting
 clothespress
