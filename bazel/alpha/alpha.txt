@@ -5262,6 +5262,7 @@ affectibility
 accus
 affectible
 affecting
+atonics
 acrorhagus
 affectingly
 affection
@@ -22804,7 +22805,6 @@ atony
 atonia
 atonic
 atonicity
-atonics
 atonies
 aldazine
 atoning
