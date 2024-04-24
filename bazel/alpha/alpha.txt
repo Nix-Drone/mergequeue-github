@@ -505,7 +505,6 @@ abjugate
 abjunct
 abjunction
 abjunctive
-abjuration
 abjurations
 abjuratory
 abjure
@@ -8827,6 +8826,7 @@ assoil
 allogene
 allogeneic
 actinodermatitis
+abjuration
 aerie
 allogeneous
 allogenically
