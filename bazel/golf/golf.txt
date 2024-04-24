@@ -5699,7 +5699,6 @@ globular
 glossolabial
 gconvert
 ganch
-genuflector
 globularia
 globulariaceae
 globulariaceous
@@ -8030,6 +8029,7 @@ granodiorite
 granogabbro
 grape
 granola
+genuflector
 granolite
 guff
 granolithic
