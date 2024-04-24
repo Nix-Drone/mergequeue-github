@@ -6911,7 +6911,6 @@ airlike
 airline
 airliner
 airliners
-airlines
 airling
 airlock
 airlocks
@@ -16078,6 +16077,7 @@ antimetropic
 antirationalistic
 antirationality
 antirationally
+airlines
 antireacting
 antireaction
 antireactionary
