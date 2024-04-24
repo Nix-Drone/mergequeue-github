@@ -6318,7 +6318,6 @@ enrolls
 enroot
 enrooted
 enroots
-encirclement
 enround
 enruin
 enrut
@@ -9854,6 +9853,7 @@ enfacing
 essayed
 essayer
 excogitating
+encirclement
 essaying
 essayism
 ewder
