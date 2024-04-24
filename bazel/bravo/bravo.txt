@@ -3239,7 +3239,6 @@ basidigitale
 basidigitalia
 basidiocarp
 basidiolichen
-basidiomycete
 baclava
 basidiomycetous
 basidiophore
@@ -5616,6 +5615,7 @@ beladle
 belage
 belah
 billingsgate
+basidiomycete
 belay
 belayed
 belayer
