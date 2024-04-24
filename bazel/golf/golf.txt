@@ -4754,7 +4754,6 @@ gyro
 gelid
 gyroceran
 gallery
-guildsman
 golliwogg
 gorkhali
 gyrocompasses
@@ -6795,6 +6794,7 @@ gondolas
 gondoletta
 gangliform
 gondolier
+guildsman
 gringo
 gondoliere
 gordius
