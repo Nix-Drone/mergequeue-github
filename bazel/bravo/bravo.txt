@@ -2555,7 +2555,6 @@ barfish
 barfs
 bargain
 bargainable
-billbugs
 bargainee
 bargainer
 bargaining
@@ -17976,6 +17975,7 @@ bahmanid
 bushland
 between
 bushlands
+billbugs
 bronchadenitis
 bushless
 bushlet
