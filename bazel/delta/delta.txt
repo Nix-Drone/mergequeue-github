@@ -2725,7 +2725,6 @@ decontrolled
 dermahemia
 deconventionalize
 deconvolution
-deconvolve
 decopperization
 decopperize
 decor
@@ -13084,6 +13083,7 @@ dispirem
 dispireme
 dispirit
 dayberry
+deconvolve
 dispiriting
 dispiritment
 deambulation
