@@ -9472,7 +9472,6 @@ groundswells
 germaneness
 groundwall
 gandum
-groundward
 groundwards
 group
 groupable
@@ -9559,6 +9558,7 @@ growlery
 growleries
 gowds
 growly
+groundward
 germinally
 growliest
 gemses
