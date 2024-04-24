@@ -3505,6 +3505,7 @@ carabins
 caraboa
 caraboid
 carabus
+craftsmanship
 caracal
 caracara
 carack
@@ -27900,7 +27901,6 @@ craftsman
 craftsmanly
 charactonym
 craftsmanlike
-craftsmanship
 craftsmaster
 craftsmen
 craftspeople
