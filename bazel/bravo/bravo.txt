@@ -610,6 +610,7 @@ bacteraemia
 bacteremia
 bacteremic
 bacteria
+bounceable
 bacteriaceae
 britannian
 bacteriaemia
@@ -13524,7 +13525,6 @@ boultel
 boulter
 boulterer
 bounce
-bounceable
 bounceably
 beslipper
 bounceback
