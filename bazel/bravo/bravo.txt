@@ -924,6 +924,7 @@ baglike
 bagmaker
 bagmaking
 bagmen
+brotherless
 bagne
 bagnes
 bagnet
@@ -16165,7 +16166,6 @@ brother
 brotherhood
 benj
 brothering
-brotherless
 brotherlike
 brotherliness
 brotherred
