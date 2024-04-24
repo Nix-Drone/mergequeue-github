@@ -6841,6 +6841,7 @@ axometer
 aircraftmen
 aircraftsman
 aircraftsmen
+apish
 aircraftswoman
 aircraftwoman
 ahint
@@ -17052,7 +17053,6 @@ antiscience
 articulating
 anteverts
 apis
-apish
 apishamore
 apishly
 anoure
