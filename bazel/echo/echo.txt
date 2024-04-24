@@ -5447,7 +5447,6 @@ exotisms
 eaglelike
 eparchate
 endurability
-endurably
 endurance
 endurant
 endure
@@ -12388,6 +12387,7 @@ elpidite
 exertion
 exertionless
 emictory
+endurably
 exertions
 exertive
 exerts
