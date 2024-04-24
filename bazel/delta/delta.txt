@@ -8199,7 +8199,6 @@ diagnosis
 diagnostical
 disjunction
 diagnostically
-diagnosticate
 diagnosticated
 diagnosticating
 diagnostication
@@ -16682,6 +16681,7 @@ drainpipes
 dabblers
 drains
 drainspout
+diagnosticate
 draintile
 debouchure
 drays
