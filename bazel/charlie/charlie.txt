@@ -9829,7 +9829,6 @@ chemicobiologic
 chemicobiological
 chemicocautery
 chemicodynamic
-chemicoluminescence
 chemicoluminescent
 chemicomechanical
 chemicomineralogical
@@ -17675,6 +17674,7 @@ coconstituent
 cocontractor
 coconuco
 coconut
+chemicoluminescence
 coconuts
 cocoon
 cocooneries
