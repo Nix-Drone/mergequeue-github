@@ -2779,7 +2779,6 @@ baroco
 barodynamic
 barodynamics
 barognosis
-barogram
 barograms
 barograph
 barographic
@@ -9193,6 +9192,7 @@ biospeleology
 biosphere
 biospheres
 bryon
+barogram
 bionomical
 biostatic
 biostatistic
