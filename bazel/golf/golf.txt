@@ -4529,6 +4529,7 @@ gaultheria
 groundsill
 ginnet
 ginny
+glew
 ginnier
 ginnings
 ginnle
@@ -5371,7 +5372,6 @@ glenoidal
 glent
 gedrite
 glenwood
-glew
 guitarfish
 gliadine
 geomedicine
