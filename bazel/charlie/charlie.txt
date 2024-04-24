@@ -9759,7 +9759,6 @@ chelatable
 chelate
 chelated
 chelates
-chelating
 chelation
 chelator
 chelators
@@ -14116,6 +14115,7 @@ cyprinin
 caecal
 cyprinodont
 cyprinodontes
+chelating
 cyprinodontoid
 cyprinoid
 cyprinoidean
