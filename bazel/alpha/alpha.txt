@@ -9147,7 +9147,6 @@ almsgiver
 almsgiving
 almshouse
 albertype
-almsman
 actinobacilli
 almsmen
 almswoman
@@ -14548,6 +14547,7 @@ anthrop
 anthrophore
 anthropic
 anthropical
+almsman
 anthropidae
 armorwise
 anthropobiology
