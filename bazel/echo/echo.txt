@@ -3389,7 +3389,6 @@ extempory
 earshell
 epionynychia
 embars
-embase
 embassadress
 embassy
 embassiate
@@ -10590,6 +10589,7 @@ ettercap
 ettirone
 ettle
 ettled
+embase
 ettling
 etua
 economizer
