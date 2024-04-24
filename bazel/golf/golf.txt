@@ -5439,7 +5439,6 @@ glycogenase
 glycogeny
 glycogenic
 glycogenize
-glycogenolytic
 glycogenosis
 gingals
 glycogens
@@ -7179,6 +7178,7 @@ gorgia
 gorging
 gorglin
 gorgon
+glycogenolytic
 graynesses
 gorgoneia
 gauleiter
