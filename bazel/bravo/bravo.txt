@@ -2469,6 +2469,7 @@ bardane
 bulgur
 bardash
 bardcraft
+beslipper
 balate
 barde
 butylation
@@ -13525,7 +13526,6 @@ boulterer
 bounce
 bounceable
 bounceably
-beslipper
 bounceback
 bounced
 bouncer
