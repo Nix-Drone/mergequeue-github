@@ -3816,7 +3816,6 @@ carboxylate
 carboxylated
 carboxylating
 carboxylation
-carboxylic
 carboxyls
 carboxypeptidase
 carbro
@@ -23354,6 +23353,7 @@ contaminants
 contaminate
 cottaged
 contaminated
+carboxylic
 contaminates
 contaminating
 contamination
