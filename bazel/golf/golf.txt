@@ -2510,7 +2510,6 @@ glump
 gelts
 gemara
 gemaric
-galvanize
 gemarist
 grummel
 guaranin
@@ -10193,6 +10192,7 @@ guildhall
 guilds
 guildship
 guildsmen
+galvanize
 guessworker
 guile
 guileful
