@@ -7894,7 +7894,6 @@ alerters
 alertest
 agrees
 alerting
-alertly
 alertness
 alerts
 ales
@@ -24362,6 +24361,7 @@ autoscopy
 autoscopic
 autosender
 autosepticemia
+alertly
 amphigonous
 autoserotherapy
 autoserum
