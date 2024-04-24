@@ -6690,7 +6690,6 @@ declared
 desilvered
 desilvering
 desilverization
-desilverizer
 desilverizing
 desilvers
 desynapsis
@@ -11915,6 +11914,7 @@ disembowel
 disemboweled
 deliciate
 dodecahydrate
+desilverizer
 disemboweling
 disembowelled
 decoherer
