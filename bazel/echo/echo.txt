@@ -5187,7 +5187,6 @@ exorate
 endogenicity
 endogenies
 exundation
-endogenous
 essive
 exercised
 electrocataphoresis
@@ -6409,6 +6408,7 @@ ensiferi
 encastered
 ensiform
 ensign
+endogenous
 ensigncy
 electroplaque
 ensigncies
