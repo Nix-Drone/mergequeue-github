@@ -7030,7 +7030,6 @@ destriers
 destroy
 destroyable
 destroyed
-dismays
 destroyer
 destroyers
 destroying
@@ -8621,6 +8620,7 @@ diascord
 diabetogenic
 divulgate
 defecating
+dismays
 diascordium
 dehydration
 diasystem
