@@ -3620,7 +3620,6 @@ caraunda
 caravaneer
 chemics
 caravaner
-caravaning
 caravanist
 caravanned
 caravanner
@@ -31091,6 +31090,7 @@ clinometria
 cupelled
 cupeller
 conscripts
+caravaning
 cupellers
 cupelling
 cupels
