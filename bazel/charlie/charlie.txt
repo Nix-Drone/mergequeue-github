@@ -2702,6 +2702,7 @@ congealer
 canonicalness
 canonicals
 canonics
+chasing
 canonisation
 canonise
 contermine
@@ -17652,7 +17653,6 @@ coco
 cocoa
 cocoach
 cocoanut
-chasing
 corector
 cocoanuts
 cocoas
