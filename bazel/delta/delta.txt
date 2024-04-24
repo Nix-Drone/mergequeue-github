@@ -9369,7 +9369,6 @@ dechlore
 diffusible
 diffusibleness
 diffusimeter
-diffusing
 diffusiometer
 diffusion
 diffusional
@@ -15102,6 +15101,7 @@ dole
 decemplicate
 diseaseful
 doleance
+diffusing
 daimonic
 doled
 dolefish
