@@ -1587,6 +1587,7 @@ ballets
 ballfield
 ballflower
 ballgame
+baculite
 ballgames
 ballgowns
 ballhausplatz
@@ -3121,7 +3122,6 @@ bascology
 basculation
 blindfold
 bascule
-baculite
 bipropellant
 bascules
 bascunan
