@@ -7337,7 +7337,6 @@ cephalochordal
 cephalochordata
 cephalochordate
 cephalocyst
-cucujidae
 cephaloclast
 cephalocone
 cephaloconic
@@ -27933,6 +27932,7 @@ craye
 crayer
 crayfish
 crayfishes
+cucujidae
 coxwaining
 crayfishing
 craig
