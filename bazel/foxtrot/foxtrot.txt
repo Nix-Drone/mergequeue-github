@@ -2698,7 +2698,6 @@ fertilizers
 foremelt
 ferula
 foghorns
-ferulaceous
 ferular
 ferulas
 ferule
@@ -8235,6 +8234,7 @@ forges
 fluctigerous
 forget
 fluxer
+ferulaceous
 forgetful
 forgetfully
 fogdog
