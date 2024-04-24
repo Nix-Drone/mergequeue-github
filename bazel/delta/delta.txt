@@ -14904,6 +14904,7 @@ dogbodies
 dogbush
 dogcart
 diathermacy
+drawtube
 dogcatcher
 defluent
 digestive
@@ -16868,7 +16869,6 @@ dinoceratid
 drawstrings
 drawtongs
 defortify
-drawtube
 decanically
 drawtubes
 declaiming
