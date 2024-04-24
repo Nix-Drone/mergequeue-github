@@ -5374,7 +5374,6 @@ denticle
 denticles
 denticular
 denticulate
-denticulated
 denticule
 dentiferous
 dentification
@@ -17611,6 +17610,7 @@ drumread
 drumreads
 drumroll
 drumrolls
+denticulated
 demesmerize
 dicaryotic
 drums
