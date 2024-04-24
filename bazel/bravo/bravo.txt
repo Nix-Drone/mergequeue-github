@@ -682,7 +682,6 @@ bechances
 bacteriotoxin
 bal
 bacteriotrypsin
-bynames
 bacteriotropic
 blepharedema
 bacterious
@@ -13955,6 +13954,7 @@ brachiata
 brachiate
 blames
 brachiating
+bynames
 brachiator
 brachyaxis
 brachycardia
