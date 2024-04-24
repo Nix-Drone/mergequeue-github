@@ -3434,7 +3434,6 @@ deflector
 deflectors
 deflects
 deflesh
-deflex
 deflexed
 deflexibility
 deflexible
@@ -5444,6 +5443,7 @@ denuclearizing
 denudant
 drogermen
 denudate
+deflex
 denudated
 denudating
 dj
