@@ -11547,7 +11547,6 @@ boardlike
 billhead
 boardroom
 boards
-boardsmanship
 boardwalks
 boarfish
 boarfishes
@@ -14609,6 +14608,7 @@ brassicaceae
 brassicaceous
 brassicas
 brassidic
+boardsmanship
 blighter
 backworm
 brassier
