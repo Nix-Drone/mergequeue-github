@@ -29120,7 +29120,6 @@ cryogens
 cryohydrate
 cryolite
 catwalks
-cryolites
 criolla
 cryological
 cryometry
@@ -29274,6 +29273,7 @@ cryptogrammatist
 combinatorics
 cryptogrammic
 craggedly
+cryolites
 cryptograms
 cryptograph
 cryptographal
