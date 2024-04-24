@@ -8282,7 +8282,6 @@ episthotonos
 epistilbite
 epistyle
 epistylis
-exulcerate
 epistle
 epistler
 everness
@@ -13542,6 +13541,7 @@ extends
 enworthy
 extensibility
 extensible
+exulcerate
 extensibleness
 extensile
 extensionalism
