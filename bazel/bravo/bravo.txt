@@ -5107,7 +5107,6 @@ braised
 befit
 befits
 beneficiary
-befitted
 befitting
 befittingly
 blooming
@@ -12728,6 +12727,7 @@ bookworms
 bucketeer
 bookwright
 bool
+befitted
 bowline
 boolean
 booleans
