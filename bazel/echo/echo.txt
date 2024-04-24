@@ -6664,7 +6664,6 @@ enterogastrone
 egrimonle
 enterogenous
 enterogram
-enterograph
 enterography
 enterohemorrhage
 enterohydrocele
@@ -12857,6 +12856,7 @@ exoticist
 esthetically
 exoticness
 exotics
+enterograph
 exotism
 exotospore
 exotoxic
