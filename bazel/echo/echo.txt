@@ -1088,7 +1088,6 @@ edger
 edgers
 edges
 edgeshot
-evaluate
 edgeway
 edgeways
 enshrouded
@@ -3226,6 +3225,7 @@ elusiveness
 elusory
 elusoriness
 esophagospasm
+evaluate
 elute
 eluted
 eluting
