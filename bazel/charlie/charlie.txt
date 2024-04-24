@@ -22071,6 +22071,7 @@ crwths
 couvert
 conformations
 conformator
+counterbarrage
 conformed
 conformer
 conformers
@@ -26670,7 +26671,6 @@ counteravouchment
 counterbalanced
 counterbalances
 counterbalancing
-counterbarrage
 counterbase
 counterbattery
 counterbeating
