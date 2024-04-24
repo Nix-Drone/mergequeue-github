@@ -15595,6 +15595,7 @@ classable
 classbook
 classed
 classer
+circuli
 classers
 classfellow
 classy
@@ -26017,7 +26018,6 @@ cosigner
 cosigners
 cosignificative
 cosigning
-circuli
 cosignitary
 cosily
 cosin
