@@ -3509,7 +3509,6 @@ deforester
 dentiform
 deforesting
 deforests
-deform
 diasters
 deformability
 disknow
@@ -13271,6 +13270,7 @@ disputableness
 disputacity
 disputant
 disputants
+deform
 disputation
 deflators
 disputations
