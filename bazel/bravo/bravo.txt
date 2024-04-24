@@ -12634,7 +12634,6 @@ bookery
 bookers
 bookfair
 bookfold
-bookful
 bookhood
 bookie
 bookiness
@@ -12687,6 +12686,7 @@ bookrack
 bookracks
 baronry
 barrulety
+bookful
 bookrest
 bookrests
 bookroom
