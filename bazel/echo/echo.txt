@@ -7262,7 +7262,6 @@ enwombs
 enworthed
 enwound
 enwove
-enwrap
 enwrapment
 enwrapping
 enwraps
@@ -10208,6 +10207,7 @@ evirate
 ethanim
 ethanoyl
 ethanolamine
+enwrap
 estamp
 entia
 epipolize
