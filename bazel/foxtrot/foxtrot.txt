@@ -6719,6 +6719,7 @@ fogbound
 fogbow
 flyblow
 fogdogs
+freewheel
 fairways
 fogdom
 figworts
@@ -9752,7 +9753,6 @@ freety
 freeway
 freeward
 flavorings
-freewheel
 followeth
 forestep
 freewheeler
