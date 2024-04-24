@@ -294,7 +294,6 @@ eat
 eagerer
 eatability
 eatable
-eatables
 electrolyzability
 eatberry
 eaten
@@ -9199,6 +9198,7 @@ erythrophagous
 erythrophyll
 encompassed
 erythrophyllin
+eatables
 extravaganzas
 erythrophleine
 erythropia
