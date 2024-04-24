@@ -17290,7 +17290,6 @@ coastland
 coastlines
 coastman
 coastmen
-coasts
 coastside
 coastwaiter
 coastward
@@ -21191,6 +21190,7 @@ conceptualized
 calyptrogen
 conceptualizer
 conceptualizes
+coasts
 conceptualizing
 conceptus
 concern
