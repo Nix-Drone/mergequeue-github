@@ -8165,7 +8165,6 @@ elect
 episcenium
 episcia
 episclera
-episcleral
 episcopacy
 eyewash
 expensilation
@@ -12018,6 +12017,7 @@ excising
 excision
 excyst
 excystation
+episcleral
 excystment
 excitability
 enthralls
