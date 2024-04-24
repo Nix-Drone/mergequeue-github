@@ -2438,7 +2438,6 @@ genom
 gelatinity
 gelatinizability
 gelatinizable
-gelatinization
 gruppetto
 gelatinized
 gelatinizer
@@ -5658,6 +5657,7 @@ globalizing
 gamori
 globe
 guinea
+gelatinization
 globefish
 gol
 globefishes
