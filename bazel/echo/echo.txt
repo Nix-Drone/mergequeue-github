@@ -1217,6 +1217,7 @@ eds
 educ
 educability
 educable
+eradicable
 educables
 educand
 educatability
@@ -8844,7 +8845,6 @@ embryotome
 ends
 essential
 eightballs
-eradicable
 eradicably
 eradicant
 erythrogonium
