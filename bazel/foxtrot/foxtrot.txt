@@ -4422,7 +4422,6 @@ flether
 fishtails
 fishway
 fishways
-fishweed
 foothils
 fatiguing
 fishwoman
@@ -11109,6 +11108,7 @@ funambulic
 funambulism
 funambulo
 funambuloes
+fishweed
 funaria
 finestill
 funariaceae
