@@ -6230,7 +6230,6 @@ enplanes
 enquarter
 enqueue
 entered
-enqueued
 enquicken
 enquire
 eten
@@ -13230,6 +13229,7 @@ explorator
 empyemata
 exploratory
 exosphere
+enqueued
 explored
 explorement
 entailers
