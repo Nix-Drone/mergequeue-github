@@ -16704,7 +16704,6 @@ clothesyard
 clothesless
 clothesline
 clotheslines
-clothesman
 cosuitor
 clothesmen
 clothespin
@@ -17461,6 +17460,7 @@ coca
 cocaceous
 cocaigne
 cocaine
+clothesman
 cocaines
 cocainisation
 cocainised
