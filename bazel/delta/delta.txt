@@ -2675,7 +2675,6 @@ decompound
 dogwatches
 decompoundable
 decompoundly
-decompress
 decompresses
 decompressing
 decompression
@@ -5181,6 +5180,7 @@ deniable
 deniably
 denial
 dentinoid
+decompress
 denials
 denicotine
 denicotinize
