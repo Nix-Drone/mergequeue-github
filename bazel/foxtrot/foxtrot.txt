@@ -2463,7 +2463,6 @@ foretriangle
 ferlying
 ferling
 fermacy
-fermail
 fermal
 fermata
 fusinite
@@ -5895,6 +5894,7 @@ ferrotungsten
 floodable
 fineable
 fullfil
+fermail
 floodage
 floodboard
 fabiform
