@@ -2807,6 +2807,7 @@ baromotor
 baldricks
 baronage
 baronages
+betweenness
 baronduki
 bibliolater
 bobberies
@@ -13405,7 +13406,6 @@ bottomless
 bourage
 biotelemetry
 brattiness
-betweenness
 bottomlessly
 bottomlessness
 bottomry
