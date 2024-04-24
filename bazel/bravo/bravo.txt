@@ -9844,7 +9844,6 @@ bitser
 bitsy
 bitstock
 bitstocks
-bitstone
 bitt
 bitted
 bitten
@@ -13531,6 +13530,7 @@ bounced
 bouncer
 bouncers
 bounces
+bitstone
 bouncier
 bounciest
 bouncily
