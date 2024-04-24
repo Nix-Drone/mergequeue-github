@@ -6718,6 +6718,7 @@ fogbank
 fogbound
 fogbow
 flyblow
+fatalisms
 fogdogs
 fairways
 fogdom
@@ -11410,7 +11411,6 @@ furison
 furivae
 flotillas
 furl
-fatalisms
 furlable
 furlan
 filiality
