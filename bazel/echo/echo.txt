@@ -6833,6 +6833,7 @@ entities
 epineurium
 entitle
 enriched
+epapophysis
 epochally
 entitling
 entitule
@@ -7403,7 +7404,6 @@ enserfed
 epanorthotic
 epanthous
 epapillate
-epapophysis
 epilemmal
 epappose
 erinaceus
