@@ -73,6 +73,7 @@ babeship
 babesia
 boardinghouses
 babesias
+battleship
 babesiosis
 babhan
 babi
@@ -3809,7 +3810,6 @@ battleplane
 barnstorms
 battler
 battles
-battleship
 battleships
 buhr
 battlesome
