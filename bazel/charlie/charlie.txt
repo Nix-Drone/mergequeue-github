@@ -6578,7 +6578,6 @@ cedens
 ceder
 ceders
 cedes
-cedilla
 cedillas
 ceding
 cedis
@@ -20282,6 +20281,7 @@ cric
 communes
 communicability
 communicable
+cedilla
 communicably
 communicant
 communicate
