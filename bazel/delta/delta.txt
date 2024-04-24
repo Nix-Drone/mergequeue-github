@@ -2582,7 +2582,6 @@ decodable
 decode
 decoded
 decoders
-decodes
 decoding
 decodon
 decoherence
@@ -11535,6 +11534,7 @@ disconectae
 disconfirmation
 deosculate
 dosology
+decodes
 disconformably
 disconformity
 disconformities
