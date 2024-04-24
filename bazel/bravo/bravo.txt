@@ -438,7 +438,6 @@ backrushes
 backsaws
 backscatter
 backscattered
-backscattering
 backscraper
 backscratcher
 backset
@@ -8249,6 +8248,7 @@ bowwoman
 bienvenu
 bienvenue
 boosters
+backscattering
 byepath
 bier
 broid
