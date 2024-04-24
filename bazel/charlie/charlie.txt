@@ -2102,7 +2102,6 @@ campo
 campodean
 creedbound
 campodeid
-campodeidae
 campodeiform
 campodeoid
 campody
@@ -17188,6 +17187,7 @@ coalize
 coalized
 coinclude
 coalizer
+campodeidae
 coalless
 coalmonger
 coalmouse
