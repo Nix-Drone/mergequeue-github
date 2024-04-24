@@ -3470,7 +3470,6 @@ guttiest
 germlike
 germon
 germproof
-germs
 germule
 goodlike
 gerocomia
@@ -3830,6 +3829,7 @@ giantize
 gapless
 giantkind
 giantly
+germs
 giantlikeness
 giantry
 glyster
