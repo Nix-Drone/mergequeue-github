@@ -1322,7 +1322,6 @@ fibroblast
 fibber
 fumigate
 fastigiate
-fastigiated
 fogies
 fastigiately
 fastigious
@@ -5480,6 +5479,7 @@ fletchers
 fletches
 fletchings
 fletton
+fastigiated
 fores
 feynesses
 fleur
