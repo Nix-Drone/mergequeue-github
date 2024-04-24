@@ -7061,6 +7061,7 @@ entrepas
 entrepeneur
 entrepeneurs
 entrepots
+escapable
 effatum
 entrepreneur
 entrepreneurs
@@ -9498,7 +9499,6 @@ escalops
 escambron
 escamotage
 exudate
-escapable
 escapado
 escape
 enframement
