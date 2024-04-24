@@ -4458,7 +4458,6 @@ demast
 demasted
 demasting
 dematerialisation
-dematerialise
 duchery
 decubation
 dematerialised
@@ -10747,6 +10746,7 @@ diastase
 dipterology
 decompressions
 dipteron
+dematerialise
 dipteros
 dipterus
 diptyca
