@@ -9285,7 +9285,6 @@ alphabet
 alphabetary
 alphabetarian
 akenbold
-acerose
 alphabetic
 alphabetical
 adnumber
@@ -20502,6 +20501,7 @@ arterioloscleroses
 arteriolosclerosis
 arteriomalacia
 arteriometer
+acerose
 arteriomotor
 arterionecrosis
 arteriopalmus
