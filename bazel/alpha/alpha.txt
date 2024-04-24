@@ -10713,7 +10713,6 @@ ammocetes
 ammochaeta
 ammochaetae
 addlement
-ammocoete
 ammocoetes
 ammocoetid
 ammocoetidae
@@ -23166,6 +23165,7 @@ attractile
 attractingly
 attraction
 attractionally
+ammocoete
 accommodately
 attractive
 attractively
