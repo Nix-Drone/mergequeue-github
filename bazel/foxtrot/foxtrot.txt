@@ -4413,7 +4413,6 @@ feste
 fishpole
 fishpoles
 fishponds
-fishpotter
 fishskin
 fishspear
 fishtail
@@ -6725,6 +6724,7 @@ fogfruit
 foretype
 feeders
 fogfruits
+fishpotter
 fogger
 foggers
 fairgrass
