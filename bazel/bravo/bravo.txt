@@ -1897,6 +1897,7 @@ bandcase
 bandcutter
 bande
 bandeau
+bankcard
 bandeaux
 betula
 banded
@@ -2091,7 +2092,6 @@ bankbooks
 bulanda
 baldachini
 basti
-bankcard
 blossomhead
 bankcards
 banked
