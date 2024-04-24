@@ -2983,6 +2983,7 @@ gentries
 gigged
 glowing
 galaxies
+gnomic
 genu
 glycogenetic
 genua
@@ -9198,7 +9199,6 @@ gristmill
 grasper
 gristmiller
 giltcup
-gnomic
 goaves
 grith
 grithbreach

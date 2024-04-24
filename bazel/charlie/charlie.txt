@@ -9905,7 +9905,6 @@ chemoreceptive
 chemoreceptivity
 chemoreceptivities
 castrating
-chemoreceptor
 chemoreflex
 chemoresistance
 chemosensitive
@@ -22953,6 +22952,7 @@ consolatory
 consolatorily
 consolatoriness
 consolatrix
+chemoreceptor
 console
 crossfire
 cuneonavicular
