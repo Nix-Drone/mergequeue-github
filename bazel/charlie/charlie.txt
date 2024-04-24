@@ -9858,7 +9858,6 @@ chemiluminescent
 chemin
 cheminee
 chemiotactic
-chemiotaxic
 chemiotaxis
 chemiotropic
 chemiotropism
@@ -14060,6 +14059,7 @@ catbrier
 cyp
 cipaye
 cipango
+chemiotaxic
 cyperaceae
 cyperus
 curneys
