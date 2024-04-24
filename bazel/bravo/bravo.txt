@@ -5770,7 +5770,6 @@ belive
 bifurcous
 bavardage
 belknap
-bell
 bellacoola
 belladonna
 biltongs
@@ -6387,6 +6386,7 @@ benzalphenylhydrazone
 benzalphthalide
 benzamide
 benzamido
+bell
 benzamine
 benzaminic
 benzamino
