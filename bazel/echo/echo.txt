@@ -3687,7 +3687,6 @@ epithelioglandular
 embryology
 embryologic
 embryological
-embryologically
 eclampsia
 embryologist
 embryologists
@@ -12635,6 +12634,7 @@ expensive
 exocoelar
 exocoele
 eradiated
+embryologically
 exocoelic
 exocoelom
 enantiomorphism
