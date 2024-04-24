@@ -3600,7 +3600,6 @@ gestural
 gallimaufries
 gangwaymen
 gesture
-gestureless
 gesturers
 gesturist
 geswarp
@@ -9280,6 +9279,7 @@ grogging
 gunfighters
 grogram
 grograms
+gestureless
 grogs
 gouaches
 genially
