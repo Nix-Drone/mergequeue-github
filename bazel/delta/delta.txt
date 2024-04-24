@@ -1714,6 +1714,7 @@ deathsmen
 depaysee
 deathtime
 deathtrap
+disposes
 deathtraps
 deathward
 deathwatches
@@ -5773,7 +5774,6 @@ dhai
 deploring
 deplumate
 deplumated
-disposes
 deplume
 deplumes
 depluming
