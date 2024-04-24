@@ -1238,6 +1238,7 @@ calibre
 calibred
 calibres
 chromatophilia
+checkpoints
 cyanohydrin
 caliburn
 caliburno
@@ -9548,7 +9549,6 @@ checkouts
 checkpoint
 checkpointed
 checkpointing
-checkpoints
 commonize
 checkrack
 checkrail
