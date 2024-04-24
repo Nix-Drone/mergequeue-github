@@ -4754,7 +4754,6 @@ giro
 glossae
 gyro
 gelid
-gyroceran
 gallery
 guildsman
 golliwogg
@@ -8408,6 +8407,7 @@ gravegarth
 gravel
 graveled
 gravely
+gyroceran
 gravelike
 graveling
 gravelish
