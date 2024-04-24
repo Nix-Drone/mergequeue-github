@@ -4626,7 +4626,6 @@ advertisements
 advertiser
 advertisers
 advertising
-advertizable
 amulets
 advertized
 advertizement
@@ -18003,6 +18002,7 @@ approacher
 approachers
 approaching
 approbate
+advertizable
 approbated
 approbating
 approbation
