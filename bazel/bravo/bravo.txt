@@ -649,7 +649,6 @@ bemingle
 bacteriolytic
 bacteriolyze
 bacteriology
-bacteriologic
 bacteriologist
 bacteriologists
 bacteriopathology
@@ -16985,6 +16984,7 @@ bulblike
 bulbocapnin
 beefhead
 bulbocapnine
+bacteriologic
 bulbocavernosus
 bulbocodium
 bulbomedullary
