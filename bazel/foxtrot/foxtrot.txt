@@ -6655,7 +6655,6 @@ fockle
 focoids
 focsle
 focus
-focusable
 fatalistically
 floscularia
 floodlighting
@@ -11433,6 +11432,7 @@ furmities
 fervors
 fossed
 furnace
+focusable
 furnacelike
 furnacemen
 febrifuges
