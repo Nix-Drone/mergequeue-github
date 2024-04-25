@@ -3475,7 +3475,6 @@ figgum
 funniment
 fightable
 forel
-fighteress
 fanwort
 fighting
 fightingly
@@ -4564,6 +4563,7 @@ feudalised
 fitout
 finedrawing
 fits
+fighteress
 fittage
 fellagha
 fytte
