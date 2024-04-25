@@ -9559,6 +9559,7 @@ checkpoints
 commonize
 checkrack
 checkrail
+compilations
 checkrein
 checkroll
 checkroom
@@ -20590,7 +20591,6 @@ challengee
 competitrix
 compilable
 compilation
-compilations
 compilator
 compileable
 compiled
