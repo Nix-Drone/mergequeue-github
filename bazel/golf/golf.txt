@@ -5087,7 +5087,6 @@ girouettes
 glaistig
 glaived
 gara
-glaives
 glaked
 grulla
 glali
@@ -8148,6 +8147,7 @@ grapestalk
 grapevines
 grapewise
 graphalloy
+glaives
 graphanalysis
 graphed
 gigabit
