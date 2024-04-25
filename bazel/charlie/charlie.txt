@@ -21111,7 +21111,6 @@ couplets
 conceders
 concedes
 celibataire
-conceding
 conceit
 conceited
 conceitedness
@@ -27150,6 +27149,7 @@ counterturned
 countervail
 curnock
 countervailed
+conceding
 countervailing
 countervails
 countervair
