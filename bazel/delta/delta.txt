@@ -1983,7 +1983,6 @@ decagrams
 decahedra
 decahedral
 decahedron
-damageableness
 decahedrons
 decahydrate
 decahydronaphthalene
@@ -10745,6 +10744,7 @@ dipterocarpus
 dipteroi
 dependent
 diastase
+damageableness
 dipterology
 decompressions
 dipteron
