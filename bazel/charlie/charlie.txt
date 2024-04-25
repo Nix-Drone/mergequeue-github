@@ -11247,7 +11247,6 @@ consuls
 chloridation
 chloride
 chloridella
-chloridellidae
 chlorider
 coattail
 chlorides
@@ -13008,6 +13007,7 @@ cyanizing
 cyanmethemoglobin
 cyano
 cyanoacetate
+chloridellidae
 cyanoacetic
 cyanoacrylate
 cyanoaurate
