@@ -8497,7 +8497,6 @@ alkylated
 alkylates
 alkylating
 alkylation
-alkylbenzenesulfonate
 alkylbenzenesulfonates
 alkylene
 alkylidene
@@ -8716,6 +8715,7 @@ allylation
 allylic
 allylthiourea
 allineate
+alkylbenzenesulfonate
 allineation
 allionia
 adolescence
