@@ -6506,7 +6506,6 @@ ccw
 cd
 cdf
 cdg
-cdr
 ce
 cesspool
 celibates
@@ -27364,6 +27363,7 @@ cousiness
 cousinhood
 cousinly
 cousinry
+cdr
 cousinries
 coussinet
 centricalness
