@@ -3920,7 +3920,6 @@ giboia
 goyle
 glave
 gibsons
-gibstaff
 gibus
 gibuses
 giddap
@@ -9862,6 +9861,7 @@ guans
 gazook
 groundwood
 glueing
+gibstaff
 glacially
 guilty
 guapena
