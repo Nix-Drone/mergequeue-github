@@ -12418,6 +12418,7 @@ bondsmen
 bondstone
 bondswoman
 bondswomen
+bracteiform
 bonduc
 bonducnut
 bonducs
@@ -14113,7 +14114,6 @@ bedquilt
 bracozzo
 bracteal
 bracted
-bracteiform
 bracteole
 bracteose
 bedwarmer
