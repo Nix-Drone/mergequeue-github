@@ -429,7 +429,6 @@ cactoid
 cactus
 civilisable
 cactuses
-cactuslike
 cacumen
 cassavas
 cacuminal
@@ -14326,6 +14325,7 @@ circumfluous
 circumforaneous
 circumfulgent
 circumfuse
+cactuslike
 circumfused
 circumfusile
 circumfusing
