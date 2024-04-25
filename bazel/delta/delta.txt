@@ -4547,6 +4547,7 @@ demibarrel
 demibastion
 demibastioned
 demibath
+descry
 demibeast
 demibelt
 demibrassart
@@ -6501,7 +6502,6 @@ decors
 descloizite
 dearworth
 descort
-descry
 dialypetalae
 describability
 degradedness
