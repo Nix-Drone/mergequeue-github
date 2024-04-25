@@ -6457,7 +6457,6 @@ agriot
 arborescent
 agriotype
 agriotypidae
-agriotypus
 agrypnia
 agrypniai
 aristulate
@@ -18336,6 +18335,7 @@ aphakic
 analogistic
 aquotization
 aquotize
+agriotypus
 antitrochanter
 ar
 ara
