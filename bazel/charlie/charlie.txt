@@ -5447,7 +5447,6 @@ catadioptrical
 catadioptrics
 catadrome
 catadromous
-catadupe
 catafalco
 catafalque
 catafalques
@@ -29473,6 +29472,7 @@ crystallographer
 crystallographers
 crystallography
 crystallographic
+catadupe
 crystalloid
 crystalloidal
 crystallology
