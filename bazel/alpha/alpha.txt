@@ -14932,6 +14932,7 @@ anticity
 anticytolysin
 anticytotoxin
 anticivic
+autopotamic
 anticivil
 anticivilian
 atturn
@@ -24301,7 +24302,6 @@ autopore
 autoportrait
 apostolos
 autoportraiture
-autopotamic
 autopotent
 autoprogressive
 acinacity
