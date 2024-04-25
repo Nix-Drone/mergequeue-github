@@ -4598,7 +4598,6 @@ bibliotherapy
 becurry
 bondland
 becurse
-becursed
 becurses
 becursing
 becurst
@@ -11333,6 +11332,7 @@ bluebuck
 bluebush
 bluebutton
 build
+becursed
 bluecoat
 bluecoated
 bluecoats
