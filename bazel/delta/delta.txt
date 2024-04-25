@@ -2474,6 +2474,7 @@ deckhouse
 deckle
 deckman
 deckpipe
+dystomous
 decks
 dulls
 deckswabber
@@ -13880,7 +13881,6 @@ denuders
 distomiasis
 dystomic
 distomidae
-dystomous
 distomum
 distressfully
 dystonia
