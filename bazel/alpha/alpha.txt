@@ -5085,7 +5085,6 @@ aerosporin
 aerostat
 aerostatic
 aerostatical
-aerostatics
 amalett
 antisepticist
 aerostation
@@ -5615,6 +5614,7 @@ afterfuture
 anadem
 aftergame
 aftergas
+aerostatics
 afterglide
 afterglow
 alloclasite
