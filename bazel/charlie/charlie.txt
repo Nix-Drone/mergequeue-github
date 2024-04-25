@@ -15276,6 +15276,7 @@ composograph
 claimer
 consumables
 claimers
+coprolith
 claymore
 claims
 claimsman
@@ -24708,7 +24709,6 @@ coprolagnia
 coprolagnist
 coprolaliac
 coprolite
-coprolith
 coprolitic
 copromisor
 coprophagy
