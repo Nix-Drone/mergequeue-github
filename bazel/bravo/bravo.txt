@@ -11463,7 +11463,6 @@ bn
 bluntest
 blunthead
 blunthearted
-bluntish
 bluntishness
 bluntly
 badinaged
@@ -12221,6 +12220,7 @@ bolthole
 bolti
 bolty
 boltin
+bluntish
 bolting
 boltlike
 beaupers
