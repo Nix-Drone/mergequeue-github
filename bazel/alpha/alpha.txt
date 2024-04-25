@@ -11309,7 +11309,6 @@ amplificative
 amplificator
 amplificatory
 amplified
-amplifier
 amplifies
 amplifying
 amplitude
@@ -22028,6 +22027,7 @@ asterina
 archchaplain
 asterinidae
 asterioid
+amplifier
 asterion
 asterionella
 arabicize
