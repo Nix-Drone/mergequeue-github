@@ -4955,7 +4955,6 @@ fertilisable
 flexibly
 flanders
 flandowser
-flane
 fissureless
 frouze
 flaneur
@@ -6508,6 +6507,7 @@ flushgate
 flushy
 flushing
 flushingly
+flane
 flusk
 flusker
 flusterated
