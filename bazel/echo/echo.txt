@@ -9607,7 +9607,6 @@ escribe
 eiffel
 escribiente
 escribientes
-escrime
 escript
 escritoire
 escritorial
@@ -12040,6 +12039,7 @@ excite
 emanation
 excited
 enscene
+escrime
 excitedly
 excitedness
 exciter
