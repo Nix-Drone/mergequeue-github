@@ -5828,7 +5828,6 @@ engrid
 ethereal
 emphasising
 engrieve
-engross
 engrossed
 engrossedly
 engrosser
@@ -11735,6 +11734,7 @@ exaggerated
 exaggerates
 exaggerating
 exaggeratingly
+engross
 expends
 exaggerative
 exaggeratively
