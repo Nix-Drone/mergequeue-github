@@ -1569,7 +1569,6 @@ ballat
 ballata
 ballate
 ballaton
-ballatoon
 barkbound
 ballbuster
 ballcarrier
@@ -17396,6 +17395,7 @@ bundler
 bona
 bundlerooted
 bundlers
+ballatoon
 bundles
 bundlet
 ballons
