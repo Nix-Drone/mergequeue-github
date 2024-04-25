@@ -25542,6 +25542,7 @@ coroutine
 coroutines
 corozo
 corozos
+crystallurgy
 corp
 corpl
 corpn
@@ -29485,7 +29486,6 @@ crystallophobia
 crystallose
 cryptozonia
 congeable
-crystallurgy
 crystals
 crystalwort
 cristate
