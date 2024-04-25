@@ -5075,6 +5075,7 @@ edicts
 endobiotic
 endoblast
 endoblastic
+esd
 endobronchial
 enunciation
 eucaryotic
@@ -9637,7 +9638,6 @@ escurialize
 escutcheoned
 escutcheons
 eugenesis
-esd
 esdragol
 exempt
 eternizing
