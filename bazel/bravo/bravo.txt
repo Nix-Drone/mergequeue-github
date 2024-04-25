@@ -9304,7 +9304,6 @@ bipinnarias
 bipinnate
 bipinnated
 bipinnatipartite
-bipinnatisect
 bipinnatisected
 bowtie
 bipyramid
@@ -10892,6 +10891,7 @@ blirt
 bliss
 branchiostegous
 birdcatcher
+bipinnatisect
 blissful
 blissfully
 blissfulness
