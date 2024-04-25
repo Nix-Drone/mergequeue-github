@@ -2942,7 +2942,6 @@ canvasback
 canvasbacks
 canvasers
 canvases
-canvasing
 canvaslike
 canvasser
 canvassers
@@ -27851,6 +27850,7 @@ crackleware
 crackly
 cracklier
 crackliest
+canvasing
 crackling
 cracklings
 crackmans
