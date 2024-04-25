@@ -2973,7 +2973,6 @@ acronomy
 adenomyxoma
 acrook
 acroparalysis
-acroparesthesia
 amidopyrine
 acropathy
 acropathology
@@ -11628,6 +11627,7 @@ appraisal
 anagep
 allothogenous
 arachide
+acroparesthesia
 anagignoskomena
 anagyrine
 anagyris
