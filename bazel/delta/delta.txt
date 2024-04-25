@@ -7816,7 +7816,6 @@ disard
 desmocyte
 dewaxed
 dewaxing
-dewberry
 dewberries
 dewclaw
 dewclawed
@@ -8450,6 +8449,7 @@ downgrades
 diamond
 diamondback
 diamondbacked
+dewberry
 derailer
 dynamiting
 diamonded
