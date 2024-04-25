@@ -2508,7 +2508,6 @@ fermions
 frutage
 fermis
 fermium
-fermorite
 fern
 fastigium
 floripondio
@@ -10817,6 +10816,7 @@ fuchi
 fuchsian
 floundered
 faciendum
+fermorite
 fuchsine
 fuchsinophil
 fuchsinophilous
