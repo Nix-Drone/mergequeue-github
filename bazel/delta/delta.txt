@@ -6873,7 +6873,6 @@ despatches
 despatching
 despecialization
 dispute
-despecialize
 despecificate
 despecification
 despeed
@@ -10621,6 +10620,7 @@ diplopoda
 discorrespondent
 diplopodic
 divests
+despecialize
 diplopods
 diplopteryga
 diplopterous
