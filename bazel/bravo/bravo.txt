@@ -11380,7 +11380,6 @@ blueprint
 blues
 bluesy
 bluesides
-bluesman
 bluesmen
 bluestem
 bluestems
@@ -17149,6 +17148,7 @@ bullfrog
 bullgine
 bullhead
 bullheaded
+bluesman
 bullheads
 bullhide
 bullhoof
