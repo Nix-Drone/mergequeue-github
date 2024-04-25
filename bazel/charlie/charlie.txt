@@ -2272,7 +2272,6 @@ cancelable
 cancelation
 canceled
 canceleer
-canceler
 cancelers
 cancelier
 collaborated
@@ -8948,6 +8947,7 @@ charango
 charangos
 chararas
 chorioidal
+canceler
 chuddars
 charases
 charbocle
