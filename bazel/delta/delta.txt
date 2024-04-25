@@ -11405,7 +11405,6 @@ discoactine
 documentation
 discoast
 discoblastic
-deriv
 digladiated
 discoblastula
 discoboli
@@ -15843,6 +15842,7 @@ deisms
 dorsoposterior
 dorsoradial
 dorsoscapular
+deriv
 dorsosternal
 dorsothoracic
 digitize
