@@ -6591,7 +6591,6 @@ cedrium
 cedrol
 cedron
 centibar
-cedrus
 cedula
 cee
 ceennacuelum
@@ -18900,6 +18899,7 @@ collates
 collation
 collationer
 collations
+cedrus
 cesti
 collatitious
 cloine
