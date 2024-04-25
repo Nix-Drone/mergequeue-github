@@ -4631,7 +4631,6 @@ carpeting
 carpetlayer
 carpetless
 carpetmaker
-carpetmaking
 carpetmonger
 carpets
 carpetweb
@@ -22063,6 +22062,7 @@ conformal
 conformance
 complexed
 catabolic
+carpetmaking
 coachman
 conformant
 cataclasmic
