@@ -7317,6 +7317,7 @@ gossip
 gossipdom
 gossiped
 gossipee
+gunslinging
 gossiper
 gossipers
 gossiphood
@@ -10576,7 +10577,6 @@ graybeards
 gunshot
 gunslinger
 gunslingers
-gunslinging
 gunsman
 goujon
 gunsmith
