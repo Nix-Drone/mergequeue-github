@@ -9928,7 +9928,6 @@ chemosmoses
 chemosmotic
 calic
 chemosorb
-chemosorption
 chemosorptive
 chemosphere
 chemospheric
@@ -11843,6 +11842,7 @@ chopfallen
 chophouse
 chophouses
 cyprinoidea
+chemosorption
 chopin
 cereus
 chopine
