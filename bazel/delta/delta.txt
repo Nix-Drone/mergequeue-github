@@ -8829,7 +8829,6 @@ diccon
 dice
 dyce
 decolor
-diceboard
 dicebox
 dicecup
 debituminize
@@ -17535,6 +17534,7 @@ duplexes
 distributes
 drudgingly
 drudgism
+diceboard
 dispope
 druffen
 drug
