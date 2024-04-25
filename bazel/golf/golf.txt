@@ -702,7 +702,6 @@ gallize
 gallnut
 gallnuts
 galloflavin
-gimps
 galloman
 gantleting
 guideline
@@ -2645,6 +2644,7 @@ genarchaship
 gonangiums
 gendarme
 gendarmery
+gimps
 geobotanical
 gendarmerie
 gendarmes
