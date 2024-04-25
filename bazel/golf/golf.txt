@@ -3474,7 +3474,6 @@ goss
 guttiest
 germlike
 germon
-germproof
 germs
 germule
 goodlike
@@ -6865,6 +6864,7 @@ globulet
 goniometric
 granatite
 goniometrical
+germproof
 gonion
 graminivorous
 galactophagous
