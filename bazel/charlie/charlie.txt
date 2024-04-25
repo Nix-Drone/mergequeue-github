@@ -2901,7 +2901,6 @@ cantons
 countergager
 cantoral
 cantoria
-cantorial
 cantorian
 cantoris
 cantorous
@@ -17850,6 +17849,7 @@ coecum
 coed
 chantage
 coedit
+cantorial
 coedited
 coediting
 coeditor
