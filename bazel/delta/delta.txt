@@ -2624,6 +2624,7 @@ decolorisation
 decoloriser
 decolorising
 dispose
+diamines
 decolorization
 decolorized
 decolorizer
@@ -8438,7 +8439,6 @@ diamylene
 diamylose
 dislimn
 diamin
-diamines
 dapperest
 disinthrall
 diaminogen
