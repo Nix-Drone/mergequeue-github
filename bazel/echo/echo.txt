@@ -4588,7 +4588,6 @@ encephalomeningocele
 encephalometric
 encephalomyelitic
 encephalomyelitis
-erucin
 encephalomyelopathy
 encephalomyocarditis
 encephalopathy
@@ -5476,6 +5475,7 @@ enquere
 enemies
 enemying
 enemyship
+erucin
 enepidermic
 energeia
 energesis
