@@ -1760,7 +1760,6 @@ effie
 endow
 eyeberry
 eyeblack
-eyeblink
 eyebright
 eyebrows
 eyecup
@@ -2531,6 +2530,7 @@ escadrilles
 electromuscular
 electronarcosis
 eleutherarch
+eyeblink
 ectethmoid
 ethnarchy
 electronegativity
