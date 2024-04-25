@@ -6857,7 +6857,6 @@ berrypicker
 berrypicking
 berrugate
 bersagliere
-bersaglieri
 berseem
 berseems
 berserk
@@ -12625,6 +12624,7 @@ baianism
 bookbinders
 bookbinding
 bookboard
+bersaglieri
 bookcase
 bookcases
 bookcraft
