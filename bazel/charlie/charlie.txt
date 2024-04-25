@@ -14188,7 +14188,6 @@ circuit
 circuitable
 circuital
 circuited
-circuiteer
 circuiter
 clyer
 continues
@@ -16302,6 +16301,7 @@ clints
 clio
 cliona
 clip
+circuiteer
 clipboard
 clipboards
 clype
