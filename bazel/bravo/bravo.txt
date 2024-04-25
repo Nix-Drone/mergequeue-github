@@ -12630,7 +12630,6 @@ bookcases
 bookcraft
 bookdealer
 bushmaster
-bookends
 booker
 bookery
 bookers
@@ -16423,6 +16422,7 @@ brusk
 batten
 brusker
 bruskest
+bookends
 burrhel
 bruskly
 bruskness
