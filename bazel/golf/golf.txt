@@ -5307,7 +5307,6 @@ gifture
 glean
 gleanable
 grayback
-gleaned
 gleaner
 gleaners
 gleanings
@@ -6198,6 +6197,7 @@ globed
 griffado
 gmelina
 grinding
+gleaned
 geometry
 glumpily
 gnabble
