@@ -10954,7 +10954,6 @@ amovability
 amovable
 amuser
 altitudinous
-amove
 amoved
 amoving
 amowt
@@ -23974,6 +23973,7 @@ anjou
 autocorrosion
 autocosm
 autocracy
+amove
 autocracies
 archsnob
 autocrat
