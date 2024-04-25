@@ -5551,7 +5551,6 @@ deoxidize
 deoxidizer
 dreggy
 deoxidizers
-deoxidizes
 deoxidizing
 deoxygenated
 deoxygenating
@@ -11471,6 +11470,7 @@ depersonize
 drub
 discomfortable
 defrosters
+deoxidizes
 disload
 derivationist
 discomforting
