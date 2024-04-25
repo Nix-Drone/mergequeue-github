@@ -3857,7 +3857,6 @@ batwoman
 batwomen
 bishopship
 batz
-batzen
 barreler
 baubee
 baubees
@@ -17858,6 +17857,7 @@ burrowstown
 benevolent
 burrstone
 burs
+batzen
 bude
 bursae
 bursary
