@@ -963,6 +963,7 @@ flattener
 fabric
 faradmeter
 ferny
+forge
 faradocontractility
 faradomuscular
 farandman
@@ -4924,7 +4925,6 @@ flamingos
 feldsher
 faliscan
 fantaseid
-forge
 flaminica
 flaminical
 flamless
