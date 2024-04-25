@@ -5872,7 +5872,6 @@ florigraphy
 flockowner
 frangent
 funned
-flockwise
 flocs
 floeberg
 floey
@@ -6290,6 +6289,7 @@ fluidified
 fluidifier
 fluidimeter
 fluidisation
+flockwise
 forewisdom
 fluidised
 fallal
