@@ -560,7 +560,6 @@ ecclesiae
 echinococcosis
 echinococcus
 echinoderidae
-echinoderm
 echinoderma
 echinodermal
 erythroderma
@@ -6742,6 +6741,7 @@ enterprize
 enters
 entertainable
 entertained
+echinoderm
 enquires
 entertainer
 entertainers
