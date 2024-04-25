@@ -9467,7 +9467,6 @@ alternize
 alterocentric
 alters
 alterum
-altesse
 alteza
 altezza
 arenose
@@ -17698,6 +17697,7 @@ appenders
 appendicalgia
 appendicate
 ausonian
+altesse
 amoibite
 ascii
 alienees
