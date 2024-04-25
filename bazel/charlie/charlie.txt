@@ -14791,6 +14791,7 @@ citee
 citellus
 citer
 citers
+colours
 cites
 citess
 cithara
@@ -19458,7 +19459,6 @@ colourize
 colourless
 colourlessness
 colourman
-colours
 colourtype
 colp
 colpenchyma
