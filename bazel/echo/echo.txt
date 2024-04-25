@@ -4968,6 +4968,7 @@ enddamaged
 enddamaging
 ende
 energistic
+escurialize
 endearance
 endearedly
 endearingness
@@ -9633,7 +9634,6 @@ esculent
 esculetin
 esculic
 esculin
-escurialize
 escutcheoned
 escutcheons
 eugenesis
