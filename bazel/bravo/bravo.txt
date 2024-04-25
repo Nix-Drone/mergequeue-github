@@ -2161,7 +2161,6 @@ banner
 bannerer
 banneret
 bannerets
-bannerfish
 beduke
 bannerless
 bannerlike
@@ -15932,6 +15931,7 @@ bromoketone
 bromol
 bromomania
 bromomethane
+bannerfish
 bodgery
 bushhammer
 bromometry
