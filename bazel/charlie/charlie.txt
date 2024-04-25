@@ -9285,7 +9285,6 @@ chatelet
 closely
 chatellany
 canamo
-chathamite
 chathamites
 chatoyance
 chatoyancy
@@ -22002,6 +22001,7 @@ confiscatable
 confiscate
 crois
 confiscated
+chathamite
 confiscates
 confiscation
 confiscations
