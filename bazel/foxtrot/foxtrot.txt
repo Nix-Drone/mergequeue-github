@@ -504,7 +504,6 @@ falbelo
 fumados
 falcata
 falcate
-falces
 falchion
 forgeman
 falcial
@@ -3438,6 +3437,7 @@ fifteen
 fifteenfold
 fifteens
 fifteenthly
+falces
 fifteenths
 fifthly
 forche
