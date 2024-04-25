@@ -4355,7 +4355,6 @@ fishbolts
 falchions
 fishbowls
 fisheater
-fisheye
 fisheyes
 fisher
 fenian
@@ -9198,6 +9197,7 @@ faulkner
 fanfish
 foofaraws
 fameuse
+fisheye
 frab
 festivities
 filbert
