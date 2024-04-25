@@ -6520,7 +6520,6 @@ benzoxyacetic
 benzoxycamphor
 benzoxyphenanthrene
 benzpinacone
-benzpyrene
 benztrioxazine
 biostratigraphy
 beothuk
@@ -9042,6 +9041,7 @@ biolinguistics
 biolyses
 bludgeoneer
 battlemented
+benzpyrene
 benzazide
 biolite
 biolith
