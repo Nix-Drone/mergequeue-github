@@ -14951,6 +14951,7 @@ breech
 breechblock
 breechcloth
 brimfull
+brigandine
 breechcloths
 breechclout
 breeched
@@ -15347,7 +15348,6 @@ brigalow
 brigand
 brigandage
 brigander
-brigandine
 brigandish
 brigandishly
 boccis
