@@ -5145,7 +5145,6 @@ endocritic
 eruca
 endoderm
 endodermal
-endodermic
 endodermis
 endoderms
 endodynamomorphic
@@ -12549,6 +12548,7 @@ exiles
 exilian
 exiling
 escheatable
+endodermic
 exility
 exilition
 eximious
