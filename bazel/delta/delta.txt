@@ -3419,7 +3419,6 @@ damnum
 defleas
 deflect
 driftfishes
-deflectable
 deflected
 deflecting
 deflectionization
@@ -11854,6 +11853,7 @@ disdains
 disdar
 disdeify
 disdein
+deflectable
 disdenominationalize
 disdiaclasis
 disdiaclastic
