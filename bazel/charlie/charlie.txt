@@ -2735,7 +2735,6 @@ canopy
 caveated
 canopic
 canopid
-canopied
 canopies
 canopying
 cours
@@ -5057,6 +5056,7 @@ casebooks
 casebound
 casebox
 cased
+canopied
 casefy
 casefied
 casefies
