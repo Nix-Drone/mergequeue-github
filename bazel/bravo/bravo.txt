@@ -9223,6 +9223,7 @@ biotins
 biotype
 biotypes
 biotypic
+blearedness
 biotypology
 biotite
 biotites
@@ -10592,7 +10593,6 @@ buist
 bleakness
 bleaks
 bleared
-blearedness
 belt
 bleary
 blearyeyedness
