@@ -8630,7 +8630,6 @@ egrets
 equicurve
 equid
 equidiagonal
-equidifferent
 equidimensional
 equidist
 equidistance
@@ -10130,6 +10129,7 @@ et
 etacist
 etalage
 etamin
+equidifferent
 equippers
 ever
 etamines
