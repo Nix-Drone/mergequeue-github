@@ -5581,6 +5581,7 @@ blethering
 beknave
 beknight
 belfather
+bubble
 blossoming
 beknighted
 beknighting
@@ -16516,7 +16517,6 @@ bubby
 belligerencies
 bubbybush
 bubbies
-bubble
 bubblebow
 bubbled
 bubbleless
