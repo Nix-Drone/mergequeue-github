@@ -4036,6 +4036,7 @@ adjutant
 adjutants
 adjutantship
 anesthetic
+auctorizate
 adjutator
 adjute
 adjutor
@@ -23273,7 +23274,6 @@ alcornoco
 auctions
 auctor
 auctorial
-auctorizate
 aucuba
 allophanamide
 aucupate
