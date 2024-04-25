@@ -5693,7 +5693,6 @@ dephlogistication
 dephosphorization
 dephosphorize
 depickle
-depict
 depicted
 depicter
 descendents
@@ -7981,6 +7980,7 @@ dharmashastra
 dumpies
 dharmasutra
 dharmic
+depict
 dharmsala
 dharna
 dharnas
