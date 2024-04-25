@@ -2476,7 +2476,6 @@ deckman
 deckpipe
 decks
 dulls
-deckswabber
 decl
 declaim
 dichorisandra
@@ -11210,6 +11209,7 @@ disbudded
 dysbulia
 deckers
 dysbulic
+deckswabber
 disburden
 disburdened
 disburdening
