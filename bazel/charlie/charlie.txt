@@ -17606,7 +17606,6 @@ cochlidiidae
 cochliodont
 cochliodontidae
 cochliodus
-cochlite
 cochlitis
 cochlospermum
 cochon
@@ -26882,6 +26881,7 @@ countermaid
 counterman
 countermand
 countermandable
+cochlite
 countermanded
 countermanding
 countermaneuver
