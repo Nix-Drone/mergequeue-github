@@ -5082,7 +5082,6 @@ eluants
 endocardiac
 endocardium
 endocarp
-endocarpal
 endocarpic
 endocarps
 endocellular
@@ -14132,6 +14131,7 @@ extrusions
 enigmatology
 extrusive
 exite
+endocarpal
 extrusory
 examinations
 extubation
