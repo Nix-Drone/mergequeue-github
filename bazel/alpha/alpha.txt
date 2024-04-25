@@ -6877,6 +6877,7 @@ amyctic
 airfares
 airfield
 airflow
+angolar
 airflows
 airfoil
 airfoils
@@ -12920,7 +12921,6 @@ ango
 angoise
 angola
 angolan
-angolar
 adjoin
 angor
 angora
