@@ -13330,7 +13330,6 @@ cyclohexadienyl
 cashoos
 cyclohexane
 cyclohexanol
-cyclohexanone
 cyclohexatriene
 cyclohexene
 cyclohexyl
@@ -22677,6 +22676,7 @@ conormal
 conoscenti
 conoscopic
 conphaseolin
+cyclohexanone
 cuprodescloizite
 conplane
 centuriation
