@@ -1302,6 +1302,7 @@ eelpout
 eelpouts
 eelshop
 eelskin
+ersatz
 eelware
 eelworm
 estragon
@@ -9377,7 +9378,6 @@ ensuing
 ers
 ersar
 elliptically
-ersatz
 electrolyzable
 eulamellibranch
 erse
