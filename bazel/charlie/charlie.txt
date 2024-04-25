@@ -4263,7 +4263,6 @@ caricatures
 caricaturing
 caricaturist
 caricaturists
-casuists
 caricographer
 corbans
 consecrated
@@ -11574,6 +11573,7 @@ cholecystography
 cholecystojejunostomy
 cholecystokinin
 cholecystolithiasis
+casuists
 cholecystolithotripsy
 cholecystopexy
 cholecystorrhaphy
