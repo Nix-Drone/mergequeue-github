@@ -8150,7 +8150,6 @@ assemblee
 alhandal
 albuminometry
 alhena
-antifoam
 alhenna
 alhet
 alia
@@ -12568,6 +12567,7 @@ alumstone
 anesthesiologist
 anesthesiologists
 anesthesis
+antifoam
 allergens
 anesthetically
 anesthetics
