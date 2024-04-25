@@ -2238,6 +2238,7 @@ graders
 gazzetta
 gcd
 gconv
+gomavel
 gd
 gdinfo
 gds
@@ -6729,7 +6730,6 @@ gruffily
 gomart
 gomashta
 gomasta
-gomavel
 gombeen
 gombo
 gombroon
