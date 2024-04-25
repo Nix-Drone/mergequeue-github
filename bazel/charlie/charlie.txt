@@ -4201,7 +4201,6 @@ careworn
 carex
 cottages
 carfare
-carfares
 carfax
 carfloat
 codebreak
@@ -10506,6 +10505,7 @@ canities
 childwite
 chile
 chyle
+carfares
 chilean
 chileanization
 croquet
