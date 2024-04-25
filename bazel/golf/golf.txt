@@ -2647,7 +2647,6 @@ geobotanical
 gendarmerie
 gendarmes
 gender
-genderer
 genders
 ghoulie
 geneal
@@ -8930,6 +8929,7 @@ gunrunner
 gabion
 gridiron
 gridirons
+genderer
 graphologies
 gibbier
 galeas
