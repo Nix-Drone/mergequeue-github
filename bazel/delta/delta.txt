@@ -5069,7 +5069,6 @@ denationalisation
 denationalise
 dilleniad
 denationalised
-denationalization
 denationalize
 denationalized
 denaturalisation
@@ -18481,6 +18480,7 @@ dureresque
 diumvirate
 duress
 duresses
+denationalization
 duressor
 deglutitive
 duret
