@@ -5113,7 +5113,6 @@ glamourize
 glamourless
 glamourous
 glance
-glanced
 glancing
 glancingly
 growled
@@ -5951,6 +5950,7 @@ glottidean
 glottides
 galeenies
 glottis
+glanced
 galvanocontractility
 glazings
 glottiscope
