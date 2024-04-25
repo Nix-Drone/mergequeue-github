@@ -2346,7 +2346,6 @@ fopship
 fends
 fenerate
 filches
-fizzes
 fenestellid
 fenestellidae
 fenestrae
@@ -6725,6 +6724,7 @@ fogdom
 figworts
 fogfruit
 foretype
+fizzes
 feeders
 fogfruits
 fogger
