@@ -11075,7 +11075,6 @@ chitins
 chitlin
 continue
 chitling
-chitlings
 chewstick
 cowpath
 chitlins
@@ -18324,6 +18323,7 @@ cognize
 cognized
 cognizee
 cognizer
+chitlings
 cognizes
 cognizing
 cognizor
