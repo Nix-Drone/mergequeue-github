@@ -1625,6 +1625,7 @@ accomodate
 accompanable
 arrivage
 accompanier
+allottees
 australorp
 accompanies
 accompanying
@@ -8970,7 +8971,6 @@ allotropous
 allots
 acmic
 allottee
-allottees
 allotter
 allottery
 achondrite
