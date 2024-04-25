@@ -1000,7 +1000,6 @@ darkeners
 darkening
 darkens
 darker
-diploconical
 darkhaired
 darkhearted
 dendroidal
@@ -8705,6 +8704,7 @@ diatom
 diatoma
 diatomaceae
 diatomaceous
+diploconical
 diatomales
 diatomeae
 diatomic
