@@ -4382,7 +4382,6 @@ enamelers
 electromotion
 enameling
 enolization
-enamelist
 enamellar
 equiped
 enamellers
@@ -5859,6 +5858,7 @@ exaggerativeness
 enfortune
 enhancements
 enhancers
+enamelist
 enhancing
 enhappy
 enharbour
