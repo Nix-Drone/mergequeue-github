@@ -1299,7 +1299,6 @@ dorsilateral
 departure
 daundered
 daundering
-daunders
 dauner
 daunomycin
 daunt
@@ -6077,6 +6076,7 @@ dequeues
 dequeuing
 dropshots
 der
+daunders
 derabbinize
 deracialize
 deracinate
