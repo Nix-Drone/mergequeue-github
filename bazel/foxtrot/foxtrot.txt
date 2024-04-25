@@ -8130,7 +8130,6 @@ femmes
 fretless
 foretop
 foretopman
-foretopmast
 foretopmen
 foretops
 foretrace
@@ -10821,6 +10820,7 @@ fucatious
 fuchi
 fuchsian
 floundered
+foretopmast
 faciendum
 fuchsine
 fuchsinophil
