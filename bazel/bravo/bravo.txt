@@ -11622,7 +11622,6 @@ boats
 boatshop
 boatsman
 bobbed
-boatsmen
 boatsteerer
 boatswain
 boatswains
@@ -15918,6 +15917,7 @@ broiden
 blepharochalasis
 bromodeoxyuridine
 bewearied
+boatsmen
 bedeen
 bromohydrate
 bigeyes
