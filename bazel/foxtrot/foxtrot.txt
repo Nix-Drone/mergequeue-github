@@ -8348,7 +8348,6 @@ forlanas
 fragrancies
 forlane
 forleave
-forleaving
 forleit
 futuristic
 forlese
@@ -8651,6 +8650,7 @@ forswear
 foreanswer
 forswearing
 fairling
+forleaving
 fields
 forswears
 fort
