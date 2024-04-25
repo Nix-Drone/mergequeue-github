@@ -5811,7 +5811,6 @@ engrandizement
 engraphic
 engraphically
 engrapple
-engrasp
 engraulis
 engrave
 engravement
@@ -13982,6 +13981,7 @@ emm
 extratarsal
 extratellurian
 extratelluric
+engrasp
 etaerio
 extratemporal
 exch
