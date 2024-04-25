@@ -5530,7 +5530,6 @@ deorientalize
 deorsum
 deorsumvergence
 deorsumversion
-deorusumduction
 deossify
 deossification
 deota
@@ -16293,6 +16292,7 @@ downgrade
 downgraded
 dazzles
 deputatively
+deorusumduction
 downhaul
 downhauls
 downheaded
