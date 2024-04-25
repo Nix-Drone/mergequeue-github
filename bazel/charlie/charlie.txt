@@ -5301,7 +5301,6 @@ castellum
 casten
 caster
 casterless
-casters
 castes
 casteth
 castice
@@ -7701,6 +7700,7 @@ ceriomyces
 cerion
 cerionidae
 ceriops
+casters
 ceriornis
 ceriph
 ceriphs
