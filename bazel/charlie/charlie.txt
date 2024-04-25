@@ -17335,7 +17335,6 @@ coauthor
 coauthored
 coauthoring
 connectedness
-coauthority
 coauthors
 coauthorship
 coawareness
@@ -28402,6 +28401,7 @@ creasol
 creasot
 creatable
 crosier
+coauthority
 create
 created
 createdness
