@@ -1869,6 +1869,7 @@ debouches
 dipleurule
 debouchment
 denshire
+drawknot
 donsy
 deport
 debout
@@ -16837,7 +16838,6 @@ drawhead
 drawing
 drawings
 drawknives
-drawknot
 deliquescent
 drawlatch
 drawled
