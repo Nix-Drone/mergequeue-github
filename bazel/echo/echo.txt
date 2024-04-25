@@ -2301,7 +2301,6 @@ energumen
 electrified
 excretal
 ester
-electrifiers
 electrifies
 electrifying
 expert
@@ -2659,6 +2658,7 @@ electrotechnologist
 embellishes
 electrotelethermometer
 endplay
+electrifiers
 electrotellurograph
 electrothanatosis
 exogens
