@@ -5263,6 +5263,7 @@ affectioned
 affectionless
 affections
 accentors
+afterhelp
 affectious
 affective
 affectively
@@ -5632,7 +5633,6 @@ afterguns
 anaerobious
 afterharm
 afterheat
-afterhelp
 afterhend
 afterhope
 afterhours
