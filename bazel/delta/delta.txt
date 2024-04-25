@@ -2474,7 +2474,6 @@ deckhand
 deckhead
 deckhouse
 deckle
-deckman
 deckpipe
 decks
 dulls
@@ -13689,6 +13688,7 @@ dissonance
 dumfounder
 dissonances
 dissonancy
+deckman
 dissonantly
 dissonate
 desultor
