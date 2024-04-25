@@ -2128,7 +2128,6 @@ grindal
 gweeon
 glucke
 gavage
-gavall
 gave
 gonna
 gavelage
@@ -4716,6 +4715,7 @@ gyrfalcon
 graphometry
 guillotiner
 grinter
+gavall
 girgasite
 gyric
 gyring
