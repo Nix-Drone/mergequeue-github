@@ -9534,7 +9534,6 @@ carpodacus
 capos
 checkerwise
 checkerwork
-checkhook
 checky
 checklaton
 checkle
@@ -20576,6 +20575,7 @@ competent
 competes
 classmates
 competible
+checkhook
 competingly
 competition
 competitioner
