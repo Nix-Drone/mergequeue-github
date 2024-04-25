@@ -17830,7 +17830,6 @@ codman
 codol
 codomain
 codominant
-codon
 crystallographical
 codons
 citola
@@ -18850,6 +18849,7 @@ collage
 collagen
 collagenase
 collagenic
+codon
 collagenous
 collagens
 checked
