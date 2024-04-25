@@ -9157,7 +9157,6 @@ fledge
 falun
 foxgloves
 foxhole
-flexionless
 foxholes
 foxhound
 foxhounds
@@ -9853,6 +9852,7 @@ frenums
 frenuna
 fraicheur
 frenzied
+flexionless
 fishbone
 frenzies
 fulmineous
