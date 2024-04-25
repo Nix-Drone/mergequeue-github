@@ -5834,7 +5834,6 @@ fastigia
 fname
 floccillation
 floccipend
-freeloader
 forcipressure
 floccose
 floccosely
@@ -10438,6 +10437,7 @@ fiddler
 freehandedly
 fatalist
 fared
+freeloader
 frontis
 forcaria
 filchery
