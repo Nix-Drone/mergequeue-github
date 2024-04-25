@@ -2113,7 +2113,6 @@ campout
 camps
 campshed
 campshedding
-campsheeting
 campshot
 campsite
 compasser
@@ -5752,6 +5751,7 @@ catelectrode
 capstones
 concitizen
 catelectrotonic
+campsheeting
 catelectrotonus
 chaffier
 catella
