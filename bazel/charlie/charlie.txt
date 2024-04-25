@@ -3627,7 +3627,6 @@ caravanserial
 caravel
 confuse
 caravels
-colorability
 caraway
 costate
 caraways
@@ -10364,6 +10363,7 @@ chickweed
 chickwit
 chicle
 chamberfellow
+colorability
 chicles
 chicly
 chicness
