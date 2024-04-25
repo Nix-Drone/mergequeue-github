@@ -3382,6 +3382,7 @@ domesticable
 disoccupied
 definitising
 definitive
+delubrum
 deserter
 definitively
 delaying
@@ -18538,7 +18539,6 @@ deminude
 dusked
 dusken
 dusky
-delubrum
 duskier
 duskiest
 duskily
