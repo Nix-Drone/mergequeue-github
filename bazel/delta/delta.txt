@@ -7167,7 +7167,6 @@ detective
 daeva
 detectives
 detectivism
-detector
 detectors
 detects
 dizzied
@@ -13734,6 +13733,7 @@ distannic
 distant
 distantly
 distantness
+detector
 distaste
 distasted
 distasteful
