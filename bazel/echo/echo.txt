@@ -6612,7 +6612,6 @@ enterers
 enterfeat
 entergogenic
 enteria
-etouffe
 enteric
 excerpts
 emove
@@ -7948,6 +7947,7 @@ epileptical
 epileptically
 epileptics
 epileptiform
+etouffe
 epileptogenous
 epileptoid
 epileptology
