@@ -5665,7 +5665,6 @@ flintless
 flintlike
 flintlock
 fellatios
-flintwood
 flintworker
 flyoff
 flyover
@@ -11289,6 +11288,7 @@ frontispieces
 funks
 funmaker
 funmaking
+flintwood
 funnel
 funneled
 funneling
