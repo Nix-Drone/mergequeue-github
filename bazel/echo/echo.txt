@@ -1356,7 +1356,6 @@ effects
 effectual
 effectuality
 effectualness
-effectuated
 effectuates
 effectuating
 exuberate
@@ -10208,6 +10207,7 @@ epistemophilia
 ethel
 etheling
 eucti
+effectuated
 elks
 empasm
 ethenes

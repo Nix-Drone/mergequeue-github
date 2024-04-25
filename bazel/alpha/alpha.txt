@@ -4301,7 +4301,6 @@ adorner
 adorners
 adorning
 adorningly
-adornment
 armamentaria
 amusively
 adornments
@@ -19706,6 +19705,7 @@ absorbingly
 ariettas
 ariette
 arigue
+adornment
 ariidae
 arikara
 ariki
