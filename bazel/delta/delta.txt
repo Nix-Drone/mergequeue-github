@@ -1984,7 +1984,6 @@ decagramme
 decagrams
 decahedra
 decahedral
-decahedron
 damageableness
 decahedrons
 decahydrate
@@ -6385,6 +6384,7 @@ derogation
 dipsomania
 derogative
 derogatively
+decahedron
 derogator
 derogatory
 dooja
