@@ -5282,7 +5282,6 @@ greet
 glazing
 glb
 gerodontia
-genipap
 gld
 ghostlify
 gleam
@@ -8999,6 +8998,7 @@ grihyasutra
 gimmick
 grike
 grill
+genipap
 geog
 gyrograph
 grilladed
