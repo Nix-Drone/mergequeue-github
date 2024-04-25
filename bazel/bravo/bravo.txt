@@ -547,7 +547,6 @@ backtrack
 backtracked
 backtracker
 backtracking
-backtracks
 backtrail
 backups
 backus
@@ -2728,6 +2727,7 @@ barling
 boza
 barlow
 barlows
+backtracks
 barm
 bollixes
 barmaids
