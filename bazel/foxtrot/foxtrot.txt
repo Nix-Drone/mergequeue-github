@@ -7497,7 +7497,6 @@ foreadvice
 foreadvise
 forearmed
 foreallege
-foreallot
 foreannounce
 flatuses
 foreappoint
@@ -10133,6 +10132,7 @@ fortunetellers
 fripper
 flagitate
 fripperer
+foreallot
 frippery
 frankensteins
 fris
