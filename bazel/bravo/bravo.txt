@@ -2645,7 +2645,6 @@ barysilite
 barit
 baryta
 barebacked
-bloodlike
 barytas
 barite
 baryte
@@ -5979,6 +5978,7 @@ beltie
 belting
 beltings
 beltir
+bloodlike
 benumbing
 biparous
 beltless
