@@ -4736,7 +4736,6 @@ excommunications
 ersatzes
 ease
 enciphered
-enciphering
 encipherment
 evolutional
 encipherments
@@ -6773,6 +6772,7 @@ enthral
 enthralldom
 enthralling
 enthrallment
+enciphering
 enthrallments
 enthralment
 enthrals
