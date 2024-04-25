@@ -4904,7 +4904,6 @@ cartonnage
 cartons
 cartoon
 cartoonist
-cartoonists
 condors
 cartoons
 cartop
@@ -14518,6 +14517,7 @@ cirrhotic
 cirrhous
 cirrhus
 cirri
+cartoonists
 cirribranch
 caponizes
 cirrigerous
