@@ -2651,6 +2651,7 @@ genderer
 genders
 ghoulie
 geneal
+gavel
 genealogic
 genealogical
 genealogists
@@ -8810,7 +8811,6 @@ greybeard
 grouseless
 greycoat
 greyed
-gavel
 greyest
 greyflies
 glyoxilin
