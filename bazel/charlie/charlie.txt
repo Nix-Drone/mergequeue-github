@@ -4592,7 +4592,6 @@ carousels
 carouser
 cuddly
 carousers
-carouses
 carousing
 carousingly
 carp
@@ -11344,6 +11343,7 @@ chloromata
 chloromelanite
 chlorometer
 chloromethane
+carouses
 chlorometry
 chlorometric
 chalices
