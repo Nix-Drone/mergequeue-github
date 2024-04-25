@@ -3680,7 +3680,6 @@ embryology
 embryologic
 embryological
 embryologically
-eclampsia
 embryologist
 embryologists
 embryoma
@@ -10366,6 +10365,7 @@ ethyne
 ethynes
 ethinyl
 ethynyl
+eclampsia
 endophasic
 ethinyls
 exponence
