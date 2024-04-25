@@ -532,6 +532,7 @@ backstroke
 backstromite
 backswept
 backswimmer
+biferous
 backsword
 backswording
 bettergates
@@ -10629,7 +10630,6 @@ bleeder
 bleeders
 bleedings
 boottopping
-biferous
 bleekbok
 bleep
 barretries
