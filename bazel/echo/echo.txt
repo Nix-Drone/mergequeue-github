@@ -2688,6 +2688,7 @@ electrothermometer
 electrothermostatic
 electrothermotic
 electrotype
+eyer
 electrotyped
 electrotypes
 electrotypy
@@ -5034,7 +5035,6 @@ endhand
 endia
 endiablee
 endiadem
-eyer
 entranced
 endiaper
 endict
