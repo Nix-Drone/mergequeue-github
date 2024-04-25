@@ -2439,7 +2439,6 @@ decinormal
 decipher
 dispenser
 decipherability
-decipherable
 disintegrative
 decipherably
 deciphered
@@ -7976,6 +7975,7 @@ duetto
 dharana
 decoratively
 dharma
+decipherable
 dharmas
 dharmashastra
 dumpies
