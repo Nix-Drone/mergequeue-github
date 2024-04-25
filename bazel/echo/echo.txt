@@ -7954,7 +7954,6 @@ epileptogenous
 epileptoid
 epileptology
 epilimnial
-epilimnionia
 echards
 epyllia
 excipula
@@ -9715,6 +9714,7 @@ esophago
 evangeliser
 esophagocele
 esophagodynia
+epilimnionia
 esophagogastroscopy
 esophagomalacia
 endfile
