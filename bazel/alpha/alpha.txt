@@ -2703,6 +2703,7 @@ antares
 acquire
 acquired
 acquirement
+alterability
 acquirements
 acquirer
 acquirers
@@ -9406,7 +9407,6 @@ altars
 afghanets
 altazimuth
 alter
-alterability
 alterable
 alterableness
 alterably
