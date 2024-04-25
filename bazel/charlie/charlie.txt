@@ -20458,6 +20458,7 @@ comparators
 comparcioner
 compared
 comparer
+completing
 comparers
 comparing
 comparisons
@@ -20667,7 +20668,6 @@ completers
 completes
 chemosmosis
 completest
-completing
 completion
 completions
 completive
