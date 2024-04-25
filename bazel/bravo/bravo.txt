@@ -2164,7 +2164,6 @@ bannerlike
 bannerline
 bannerman
 bannermen
-bannerole
 bannerols
 bannerwise
 bannet
@@ -12267,6 +12266,7 @@ bombardo
 bowdrill
 bombards
 bombasine
+bannerole
 bombast
 bombaster
 bombastic
