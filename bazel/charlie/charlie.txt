@@ -2931,7 +2931,6 @@ canulae
 canular
 canulas
 canulate
-canulated
 canulates
 canulating
 comatic
@@ -3426,6 +3425,7 @@ captioned
 captioning
 captionless
 captions
+canulated
 captious
 childridden
 captiously
