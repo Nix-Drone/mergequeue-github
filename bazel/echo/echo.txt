@@ -7090,7 +7090,6 @@ entrusted
 emote
 entrusting
 entrustment
-entrusts
 entte
 entune
 entwine
@@ -8593,6 +8592,7 @@ extraviolet
 equationist
 essentia
 emperies
+entrusts
 equative
 equator
 etherial
