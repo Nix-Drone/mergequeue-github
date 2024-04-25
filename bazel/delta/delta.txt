@@ -2480,7 +2480,6 @@ deckswabber
 decl
 declaim
 dichorisandra
-declaimant
 declaimer
 declaimers
 declaims
@@ -15550,6 +15549,7 @@ doodle
 doodlebug
 doodled
 doodler
+declaimant
 doodlers
 doodles
 doodlesack
