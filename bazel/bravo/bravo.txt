@@ -1917,7 +1917,6 @@ banderoled
 banderoles
 banders
 banjara
-bandersnatch
 bandfile
 bandfiled
 bandfish
@@ -6514,6 +6513,7 @@ buster
 benzotrifluoride
 benzotrifuran
 benzoxate
+bandersnatch
 bolection
 benzoxyacetic
 benzoxycamphor
