@@ -4923,7 +4923,6 @@ endosteal
 encushion
 end
 endable
-endamage
 endamageable
 endamagement
 endamages
@@ -10745,6 +10744,7 @@ eudendrium
 eudesmol
 eudeve
 eudiagnostic
+endamage
 eudiometer
 eudiometry
 eudiometric
