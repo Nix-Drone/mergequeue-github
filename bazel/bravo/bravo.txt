@@ -1272,7 +1272,6 @@ bromochlorophenol
 balaenicipites
 balaenidae
 balaenoid
-balaenoidea
 balaenoidean
 balaenoptera
 balaenopteridae
@@ -11834,6 +11833,7 @@ boebera
 beylik
 boedromion
 bloodthirstiest
+balaenoidea
 boehmenism
 boehmenite
 boehmeria
