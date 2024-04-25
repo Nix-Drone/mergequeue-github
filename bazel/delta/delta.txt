@@ -3291,7 +3291,6 @@ deferrable
 deferral
 deferrals
 deferred
-deferrer
 deferrers
 deferrize
 deferrized
@@ -8792,6 +8791,7 @@ dibranch
 diaconus
 dibranchia
 dibranchiata
+deferrer
 dibranchiate
 dibrom
 dibromide
