@@ -4384,7 +4384,6 @@ enamelers
 electromotion
 enameling
 enolization
-enamelist
 enamellar
 equiped
 enamellers
@@ -12024,6 +12023,7 @@ excystment
 excitability
 enthralls
 excitabilities
+enamelist
 enterozoa
 excitable
 excitableness
