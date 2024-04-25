@@ -9578,7 +9578,6 @@ construct
 checksummed
 checksumming
 checkup
-checkups
 checkweigher
 checkweighman
 checkweighmen
@@ -19617,6 +19616,7 @@ carrara
 coman
 comanche
 comanchean
+checkups
 comanches
 comandante
 comandantes
