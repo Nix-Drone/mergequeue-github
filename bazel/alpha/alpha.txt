@@ -4300,7 +4300,6 @@ adorner
 adorners
 adorning
 adorningly
-adornment
 armamentaria
 amusively
 adornments
@@ -24756,6 +24755,7 @@ alternators
 aviculturist
 arcadianly
 avidin
+adornment
 abacot
 angioasthenia
 alexines
