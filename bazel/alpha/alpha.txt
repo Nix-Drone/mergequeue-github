@@ -1186,7 +1186,6 @@ alkyd
 abutting
 abuzz
 anodendron
-abvolt
 abvolts
 abwab
 abwatt
@@ -9351,6 +9350,7 @@ alpinism
 alpinisms
 alpinist
 alpist
+abvolt
 alps
 alpujarra
 alqueire
