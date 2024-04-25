@@ -1669,7 +1669,6 @@ accorder
 accorders
 accordingly
 accordion
-accordionist
 accordionists
 accordions
 accords
@@ -6196,6 +6195,7 @@ agitprops
 aglaia
 atocia
 aglance
+accordionist
 aglaos
 aglare
 aglaspis
