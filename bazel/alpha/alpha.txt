@@ -9661,6 +9661,7 @@ alveololingual
 alveolonasal
 alveolosubnasal
 alveolus
+autodepolymerization
 alveus
 alvia
 alviducous
@@ -23994,7 +23995,6 @@ autodecrement
 autodecremented
 autodecrements
 aerodynamic
-autodepolymerization
 autodermic
 autodestruction
 autodiagnosis
