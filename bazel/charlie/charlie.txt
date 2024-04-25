@@ -8529,7 +8529,6 @@ champ
 champa
 champac
 champaca
-champacol
 champagne
 champagned
 champagneless
@@ -19030,6 +19029,7 @@ collied
 collielike
 collier
 colliery
+champacol
 cuber
 colliers
 collieshangie
