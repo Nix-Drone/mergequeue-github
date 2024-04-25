@@ -2917,7 +2917,6 @@ cantref
 cantrip
 cantrips
 coveting
-cantus
 cantut
 cantuta
 cantwise
@@ -3777,6 +3776,7 @@ cardcase
 carboniser
 carbonising
 carbazin
+cantus
 carbonitride
 carbonizable
 carbonization
