@@ -6886,7 +6886,6 @@ bertillonage
 bertin
 bertolonia
 bertram
-bertrand
 bertrum
 beruffed
 beruffled
@@ -14391,6 +14390,7 @@ brakehead
 brakeless
 brakeload
 brakemaker
+bertrand
 brakemaking
 brakeman
 brakemen
