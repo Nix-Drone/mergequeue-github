@@ -7472,7 +7472,6 @@ ceratodus
 ceratoduses
 ceratoglossal
 ceratoglossus
-ceratohyal
 ceratohyoid
 ceratoid
 ceratomandibular
@@ -26570,6 +26569,7 @@ coumarinic
 coumarins
 coumarone
 coumarou
+ceratohyal
 coumarous
 condylarthrous
 coumbite
