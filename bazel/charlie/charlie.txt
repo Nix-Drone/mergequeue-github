@@ -5102,7 +5102,6 @@ caseum
 caseweed
 casewood
 caseworker
-caseworkers
 caseworks
 caseworm
 caseworms
@@ -27175,6 +27174,7 @@ coetus
 counterwave
 counterweigh
 counterweight
+caseworkers
 counterweighted
 chelonin
 carcinolytic
