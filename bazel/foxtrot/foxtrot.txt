@@ -7204,7 +7204,6 @@ footling
 footlock
 footlocker
 footlockers
-footlog
 figurants
 footmanhood
 footmanry
@@ -7424,6 +7423,7 @@ foglietto
 futhark
 fallacious
 forcement
+footlog
 forcene
 forceps
 fey
