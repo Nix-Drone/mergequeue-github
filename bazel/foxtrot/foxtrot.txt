@@ -1992,7 +1992,6 @@ feedbags
 feedbin
 februarius
 feedboard
-feedbox
 feedboxes
 feeder
 foundationed
@@ -4368,6 +4367,7 @@ florentium
 fisherman
 flammably
 fisherwoman
+feedbox
 fishes
 fishet
 fervours
