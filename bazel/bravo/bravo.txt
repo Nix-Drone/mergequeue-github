@@ -1250,6 +1250,7 @@ bakuba
 balanceman
 barathron
 blok
+brickwork
 barkers
 bakunda
 bakutu
@@ -15213,7 +15214,6 @@ bethylid
 bricktimber
 bricktop
 brickwall
-brickwork
 backstrip
 brid
 bucketing
