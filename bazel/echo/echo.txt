@@ -6419,6 +6419,7 @@ eva
 ensiles
 ensiling
 exsection
+evicts
 ensilist
 ensilver
 ensindon
@@ -11545,7 +11546,6 @@ embodying
 evictor
 epulones
 evictors
-evicts
 evidence
 evidences
 evidencing
