@@ -1356,7 +1356,6 @@ effects
 effectual
 effectuality
 effectualness
-effectuated
 effectuates
 effectuating
 exuberate
@@ -3902,6 +3901,7 @@ emigate
 engendering
 emigates
 ethid
+effectuated
 emigr
 emigrant
 eavesdrip
