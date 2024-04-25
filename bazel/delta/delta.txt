@@ -3596,7 +3596,6 @@ degame
 degames
 degamis
 deganglionate
-degas
 degases
 degasify
 disguise
@@ -17617,6 +17616,7 @@ drums
 drumskin
 drumslade
 drumstick
+degas
 drumsticks
 drumwood
 drungar
