@@ -3183,7 +3183,6 @@ actinotrichium
 actinotrocha
 actinouranium
 actinozoa
-actinozoan
 actinozoon
 actins
 actinula
@@ -20737,6 +20736,7 @@ artificious
 artilize
 artiller
 artillery
+actinozoan
 avodire
 adjourn
 artilleryman
