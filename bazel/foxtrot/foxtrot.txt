@@ -6943,7 +6943,6 @@ folksongs
 folktales
 folkvangr
 foll
-foller
 folles
 formalisation
 folletage
@@ -7970,6 +7969,7 @@ foreshadows
 foreshaft
 fadme
 foreshank
+foller
 foreshape
 foresheet
 foresheets
