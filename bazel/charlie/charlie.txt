@@ -25594,7 +25594,6 @@ corpse
 corpselikeness
 corpses
 corpsy
-cleverness
 corpsman
 corpulences
 corpulency
@@ -27640,6 +27639,7 @@ cowpony
 costing
 cowpoxes
 cowpunch
+cleverness
 cowpuncher
 cowquake
 champagnizing
