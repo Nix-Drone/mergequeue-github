@@ -6390,7 +6390,6 @@ benzalphthalide
 benzamide
 benzamido
 benzamine
-benzaminic
 benzamino
 benzanalgen
 benzanilide
@@ -8958,6 +8957,7 @@ bioclimatological
 bollox
 bavoso
 bioclimatologically
+benzaminic
 bioclimatologies
 bioclimatologist
 biocoenose
