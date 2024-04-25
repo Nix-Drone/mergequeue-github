@@ -4750,7 +4750,6 @@ flagellist
 ferromolybdenum
 filtrated
 folie
-flagellula
 flagellulae
 fortressed
 flagellum
@@ -11062,6 +11061,7 @@ fumigating
 festal
 fumigations
 fumigator
+flagellula
 fumigatories
 furzery
 fumigatorium
