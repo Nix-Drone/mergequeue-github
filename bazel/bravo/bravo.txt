@@ -9641,7 +9641,6 @@ backbeats
 bishopdom
 bishoped
 biborate
-bishopful
 bishophood
 bishopless
 bishoplet
@@ -14965,6 +14964,7 @@ breedbate
 breeder
 breeders
 breedy
+bishopful
 breediness
 breeding
 bengalic
