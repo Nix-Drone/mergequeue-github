@@ -2128,7 +2128,6 @@ decarburation
 decarburisation
 decarburise
 decarburised
-decarburising
 decarburize
 decarburized
 decarburizing
@@ -12387,6 +12386,7 @@ digram
 disidentify
 disilane
 disilicane
+decarburising
 dancette
 disilicate
 disilicide
