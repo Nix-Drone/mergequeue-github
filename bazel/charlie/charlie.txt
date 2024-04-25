@@ -8599,7 +8599,6 @@ chancelled
 chancellery
 chancelleries
 chancellor
-chancellorate
 chancelloress
 chancellory
 chancellors
@@ -11591,6 +11590,7 @@ clomb
 choledocholithiasis
 choledocholithotomy
 choledocholithotripsy
+chancellorate
 choledochoplasty
 choledochorrhaphy
 choledochostomy
