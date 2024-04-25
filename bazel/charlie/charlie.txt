@@ -3895,7 +3895,6 @@ concertise
 carcerist
 carcharhinus
 carcharias
-carchariid
 carchariidae
 carcharioid
 carcharodon
@@ -21751,6 +21750,7 @@ conductive
 conductively
 conductivity
 conductivities
+carchariid
 counterwill
 crusets
 conductometer
