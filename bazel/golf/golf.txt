@@ -5439,7 +5439,6 @@ glycocoll
 glycogelatin
 glycogen
 galactogogue
-glycogenase
 glycogeny
 glycogenic
 glycogenize
@@ -6168,6 +6167,7 @@ glutens
 gluteofemoral
 gluteoinguinal
 glutethimide
+glycogenase
 gluteus
 glutimate
 glutination
