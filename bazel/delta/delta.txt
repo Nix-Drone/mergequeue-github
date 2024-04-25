@@ -439,7 +439,6 @@ dermatographic
 dairyman
 dairymen
 dairywoman
-dairywomen
 dayroom
 dayrooms
 dairous
@@ -13307,6 +13306,7 @@ disquietedness
 disquieten
 disquieter
 disquietingly
+dairywomen
 disquietingness
 disquietly
 disquietness
