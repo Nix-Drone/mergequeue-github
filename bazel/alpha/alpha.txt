@@ -507,6 +507,7 @@ abjuration
 abjurations
 abjuratory
 abjure
+alloplasmatic
 abjured
 abjurement
 abjurer
@@ -8902,7 +8903,6 @@ allophonic
 allophonically
 allophore
 alloplasm
-alloplasmatic
 alloplasmic
 alloplast
 alloplastic
