@@ -3664,6 +3664,7 @@ degomme
 degorge
 degradable
 drupetum
+debug
 degradational
 daggering
 degradations
@@ -11389,7 +11390,6 @@ disclimax
 discloak
 discloister
 dissuader
-debug
 disclosed
 discloser
 discloses
