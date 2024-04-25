@@ -657,7 +657,6 @@ abolished
 abolisher
 abolishers
 abolishing
-abolishment
 abolition
 abolitionary
 abolitionise
@@ -5598,6 +5597,7 @@ aftercooler
 aftercost
 aftercrop
 aftercure
+abolishment
 afterdays
 afterdate
 afterdated
