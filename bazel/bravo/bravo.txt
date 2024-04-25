@@ -3980,7 +3980,6 @@ bazzite
 bbs
 bcd
 bch
-bchs
 bd
 bde
 bdellatomy
@@ -16737,6 +16736,7 @@ buda
 budbreak
 buddage
 budded
+bchs
 buddha
 buddhaship
 buddhi
