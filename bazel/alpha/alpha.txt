@@ -19978,7 +19978,6 @@ armlike
 armload
 armloads
 armlock
-armlocks
 armoire
 armoires
 armomancy
@@ -23884,6 +23883,7 @@ autobiographal
 antienzymic
 autobiographer
 autobiographers
+armlocks
 autobiography
 autobiographical
 autobiographically
