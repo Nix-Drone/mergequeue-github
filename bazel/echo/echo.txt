@@ -4565,7 +4565,6 @@ encephalitic
 exocolitis
 emprosthotonus
 emulators
-encephalitogenic
 encephalocele
 encephalocoele
 equivocators
@@ -8761,6 +8760,7 @@ equiradial
 echo
 equiradical
 equirotal
+encephalitogenic
 escopet
 equisetaceous
 ecstatics
