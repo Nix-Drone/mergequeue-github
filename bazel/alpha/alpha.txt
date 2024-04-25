@@ -5778,7 +5778,6 @@ agalenidae
 apellous
 agalite
 agalloch
-agallochs
 afunction
 agallochum
 agallop
@@ -16123,6 +16122,7 @@ antiresonance
 antiresonator
 antirestoration
 antirevisionist
+agallochs
 antirevolution
 antirevolutionary
 antirevolutionaries
