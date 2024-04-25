@@ -4221,7 +4221,6 @@ cargos
 cargued
 carhop
 carhops
-carhouse
 cary
 cariacus
 cariama
@@ -18092,6 +18091,7 @@ coercitive
 coercive
 coercively
 coerciveness
+carhouse
 coercivity
 coerebidae
 coerect

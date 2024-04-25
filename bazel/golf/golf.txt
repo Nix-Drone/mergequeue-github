@@ -78,7 +78,6 @@ gomphosis
 gables
 gablet
 genapped
-gablewindowed
 gorst
 gogga
 gablewise
@@ -1067,6 +1066,7 @@ ganched
 gean
 granulomatosis
 ganda
+gablewindowed
 gorget
 gundi
 ganderess
