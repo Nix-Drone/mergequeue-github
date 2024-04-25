@@ -1742,7 +1742,6 @@ demagnetisable
 debarked
 debarking
 debarkment
-debarks
 debarment
 debarrance
 diavolo
@@ -3312,6 +3311,7 @@ defial
 defiance
 defiant
 defiantly
+debarks
 defiantness
 defiatory
 defiber

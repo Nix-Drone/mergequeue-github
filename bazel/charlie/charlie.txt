@@ -2717,6 +2717,7 @@ canonizations
 canonize
 canonized
 catapult
+canuck
 canonizer
 canonizes
 canonizing
@@ -2922,7 +2923,6 @@ cantus
 cantut
 cantuta
 cantwise
-canuck
 canula
 cosymmedian
 canulae
