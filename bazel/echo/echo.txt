@@ -2247,6 +2247,7 @@ elecives
 electability
 electable
 electant
+equivalencies
 electary
 epithet
 enthraldom
@@ -11654,7 +11655,6 @@ exculpates
 electroretinogram
 evolvent
 evolver
-equivalencies
 evolvers
 evolving
 endopterygotic
