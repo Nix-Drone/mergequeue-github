@@ -2475,7 +2475,6 @@ deckhouse
 deckle
 deckman
 deckpipe
-decks
 dulls
 deckswabber
 decl
@@ -4273,6 +4272,7 @@ decimal
 delphacidae
 damningly
 delphically
+decks
 dasyurus
 delphinapterus
 diddle
