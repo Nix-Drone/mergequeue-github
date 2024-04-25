@@ -1155,6 +1155,7 @@ boardable
 baysmelt
 bridesmaids
 baister
+bogwort
 barrenest
 bait
 burgality
@@ -11385,7 +11386,6 @@ bluestem
 bluestems
 bluestocking
 bluestockingish
-bogwort
 bethreaten
 bluestockings
 bluestoner
