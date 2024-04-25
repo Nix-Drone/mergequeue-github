@@ -4419,7 +4419,6 @@ egomaniac
 engagee
 enantiomer
 enantiomeric
-enantiomorph
 enantiomorphy
 enantiomorphic
 enantiomorphous
@@ -13409,6 +13408,7 @@ expungeable
 expunged
 expunger
 expungers
+enantiomorph
 expunging
 expurgate
 expurgated
