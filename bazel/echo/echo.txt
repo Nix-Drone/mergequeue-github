@@ -2114,7 +2114,6 @@ elapidae
 elapids
 endent
 erotophobia
-euthyneural
 elapine
 elapoid
 elapse
@@ -12341,6 +12340,7 @@ eteocles
 exemplifications
 exemplificative
 exemplificator
+euthyneural
 exemplified
 exemplifier
 exemplifying
