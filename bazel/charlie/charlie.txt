@@ -9555,6 +9555,7 @@ checkouts
 checkpoint
 checkpointed
 checkpointing
+commensality
 checkpoints
 commonize
 checkrack
@@ -15555,7 +15556,6 @@ clarseth
 clarshech
 clart
 customary
-commensality
 chivarras
 clarty
 clartier
