@@ -1739,7 +1739,6 @@ dobroes
 dodecuplet
 demagnetisable
 debarked
-debarking
 debarkment
 debarks
 debarment
@@ -11914,6 +11913,7 @@ disemboguement
 denaturation
 disemboguing
 disembowel
+debarking
 disemboweled
 deliciate
 dodecahydrate
