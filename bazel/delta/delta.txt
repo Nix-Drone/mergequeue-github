@@ -3484,7 +3484,6 @@ disyllable
 defoggers
 defogging
 defogs
-defoil
 daikering
 dawish
 defoliage
@@ -14906,6 +14905,7 @@ dogblow
 dogboat
 dogbody
 dimorphs
+defoil
 dogbodies
 dogbush
 dogcart
