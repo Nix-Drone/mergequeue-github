@@ -17831,7 +17831,6 @@ codol
 codomain
 codominant
 codon
-crystallographical
 codons
 citola
 codpiece
@@ -30410,6 +30409,7 @@ ctetology
 conidiiferous
 ctg
 ctge
+crystallographical
 ctimo
 ctn
 cto
