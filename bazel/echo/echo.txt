@@ -8945,7 +8945,6 @@ erethistic
 erethizon
 erethizontidae
 eretrian
-endotheliolysin
 erewhile
 erewhiles
 erg
@@ -13618,6 +13617,7 @@ extern
 externa
 externalisation
 externalise
+endotheliolysin
 externalised
 externalist
 externalistic
