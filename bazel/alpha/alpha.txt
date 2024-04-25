@@ -10537,7 +10537,6 @@ amylometer
 amylopectin
 amylophagia
 amylophosphate
-amylophosphoric
 amyloplast
 amyloplastic
 amyloplastid
@@ -17003,6 +17002,7 @@ andorra
 apicular
 ammonias
 apiculate
+amylophosphoric
 apiculated
 apiculi
 astrographic

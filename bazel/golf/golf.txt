@@ -996,7 +996,6 @@ gametophyll
 gametophyte
 gyneolatry
 gametophytic
-gametophore
 gametophoric
 gnaws
 gamgia
@@ -2875,6 +2874,7 @@ genome
 genomic
 genoms
 genonema
+gametophore
 gph
 genos
 gerrymandered
