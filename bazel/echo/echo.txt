@@ -3676,7 +3676,6 @@ everse
 embryoism
 epithelioglandular
 embryology
-embryologic
 embryological
 embryologically
 eclampsia
@@ -10506,6 +10505,7 @@ epiphanize
 electropositive
 epicenters
 ethopoeia
+embryologic
 ethoses
 ethoxide
 ethoxyethane
