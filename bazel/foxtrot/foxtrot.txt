@@ -675,7 +675,6 @@ fruitwise
 felicitator
 fameworthy
 forereport
-familial
 familiarisation
 familiarise
 familiarised
@@ -1689,6 +1688,7 @@ fazes
 fc
 fchar
 fipenny
+familial
 fcomp
 farcin
 fcp
