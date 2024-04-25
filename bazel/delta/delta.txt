@@ -4698,7 +4698,6 @@ demirelief
 dourahs
 demirep
 demireps
-demirevetment
 demirhumb
 demirilievo
 demirobe
@@ -6270,6 +6269,7 @@ dermatoneurology
 dermatoneurosis
 dustuck
 dermatonosus
+demirevetment
 dermatopathic
 dodecanesian
 dermatopathology
