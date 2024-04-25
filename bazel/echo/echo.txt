@@ -4928,7 +4928,6 @@ endamage
 endamageable
 endamagement
 endamages
-endamaging
 endameba
 endamebae
 excipule
@@ -7825,6 +7824,7 @@ epidote
 epiproct
 epidotic
 epidotiferous
+endamaging
 epidotization
 epidural
 epifascial
