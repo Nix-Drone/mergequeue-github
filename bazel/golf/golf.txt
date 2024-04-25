@@ -1802,7 +1802,6 @@ gastroenterostomies
 gastroepiploic
 guebre
 gastroesophageal
-gastrogastrotomy
 glucuronide
 gastrogenital
 gastrograph
@@ -8634,6 +8633,7 @@ greekless
 greekling
 geranials
 greeks
+gastrogastrotomy
 green
 greenage
 gonys
