@@ -1967,6 +1967,7 @@ gatewoman
 gatherable
 gathered
 gilgai
+geomys
 gatherers
 graplins
 gyrostabilizer
@@ -3153,7 +3154,6 @@ geometrina
 geometrizing
 geometroid
 geomyid
-geomys
 geomorphy
 governability
 geomorphic
