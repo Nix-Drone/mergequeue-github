@@ -6478,7 +6478,6 @@ benzolize
 benzols
 benzonaphthol
 benzonitrile
-benzoperoxide
 benzophenanthrazine
 benzophenazine
 benzophenol
@@ -15893,6 +15892,7 @@ bromise
 brunelliaceous
 bromising
 bonitos
+benzoperoxide
 bendlet
 broomball
 bromisms
