@@ -5664,7 +5664,6 @@ flintless
 flintlike
 flintlock
 fellatios
-flintwood
 flintworker
 flyoff
 flyover
@@ -11563,6 +11562,7 @@ fuscous
 fuseau
 fistic
 fuseboard
+flintwood
 fused
 fusees
 fusel
