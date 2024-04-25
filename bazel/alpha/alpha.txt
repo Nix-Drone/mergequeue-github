@@ -12764,7 +12764,6 @@ angioid
 angiokeratoma
 angiokinesis
 angioleucitis
-angiolymphoma
 angiolipoma
 angiolith
 angiology
@@ -13875,6 +13874,7 @@ anorthitic
 anorthitite
 anorthoclase
 antiscientific
+angiolymphoma
 antiliturgic
 anorthography
 actinism
