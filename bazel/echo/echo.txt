@@ -2154,6 +2154,7 @@ elastomers
 elastometer
 elastometry
 endocrinopathy
+embeddable
 engarde
 elatcha
 elate
@@ -8850,7 +8851,6 @@ eradicates
 eradication
 eradications
 epithamia
-embeddable
 eradicatory
 eradicators
 eral
