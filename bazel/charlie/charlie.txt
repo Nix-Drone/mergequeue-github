@@ -3920,7 +3920,6 @@ carcinomatous
 carcinophagous
 carcinopolypus
 carcinosarcoma
-chloralide
 carcinosarcomas
 carcinus
 carcoon
@@ -26238,6 +26237,7 @@ costliness
 clericalist
 costoabdominal
 costoapical
+chloralide
 costocentral
 costochondral
 costocolic
