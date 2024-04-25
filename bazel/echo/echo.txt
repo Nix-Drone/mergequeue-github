@@ -691,7 +691,6 @@ eclogic
 eclogite
 eclogites
 eclogue
-eclogues
 eclosion
 earsore
 eskimo
@@ -13462,6 +13461,7 @@ embathe
 exsectile
 emmarbling
 exsecting
+eclogues
 exsector
 exsects
 exsert
