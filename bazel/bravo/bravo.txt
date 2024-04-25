@@ -1843,7 +1843,6 @@ banago
 blancmanger
 banagos
 buriable
-bound
 banak
 banakite
 banal
@@ -3130,6 +3129,7 @@ baseball
 bojite
 belzebuth
 baseballer
+bound
 baseballs
 baseband
 baseboard
