@@ -9663,7 +9663,6 @@ alveolosubnasal
 alveolus
 alveus
 alvia
-alviducous
 alvin
 alvina
 ambidexterous
@@ -10987,6 +10986,7 @@ amper
 amperages
 ampere
 amperemeter
+alviducous
 amperes
 ampery
 amperian
