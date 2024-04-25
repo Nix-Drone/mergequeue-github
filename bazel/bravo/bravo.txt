@@ -8886,7 +8886,6 @@ binnite
 binnogue
 binocle
 binocs
-binocular
 binocularly
 binoculars
 bellarmine
@@ -15653,6 +15652,7 @@ broadenings
 broadens
 broader
 broadest
+binocular
 blastomycetes
 broadhorn
 beholder
