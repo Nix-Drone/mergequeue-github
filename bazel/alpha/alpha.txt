@@ -9663,6 +9663,7 @@ alveolonasal
 alveolosubnasal
 alveolus
 alveus
+auxoamylase
 alvia
 alviducous
 alvin
@@ -24520,7 +24521,6 @@ auxin
 auxinic
 auxinically
 auxins
-auxoamylase
 auxoblast
 amores
 autofecundation
