@@ -7504,7 +7504,6 @@ foreallot
 foreannounce
 flatuses
 foreappoint
-foreappointment
 fungate
 forearming
 fossiled
@@ -8302,6 +8301,7 @@ forisfamiliation
 forjaskit
 forjesket
 forjudge
+foreappointment
 foujdar
 folliculosis
 fibrin
