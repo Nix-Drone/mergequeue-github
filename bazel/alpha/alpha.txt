@@ -10236,7 +10236,6 @@ amenity
 antiseption
 amenities
 amenorrhea
-amenorrheal
 amenorrheic
 amenorrho
 amenorrhoea
@@ -24336,6 +24335,7 @@ autoreflection
 autoregulation
 algomian
 autoregulative
+amenorrheal
 autoregulatory
 autoreinfusion
 arg
