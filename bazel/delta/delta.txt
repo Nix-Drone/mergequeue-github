@@ -2404,7 +2404,6 @@ decimalising
 decimalism
 dueling
 decimalist
-decimalization
 dilogarithm
 decimalize
 decimalized
@@ -15423,6 +15422,7 @@ domoid
 dompt
 dompteuse
 doms
+decimalization
 domus
 dona
 donable
