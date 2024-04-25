@@ -4084,6 +4084,7 @@ cardiorrhaphy
 cardiorrheuma
 cardiorrhexis
 cardiosclerosis
+craniovertebral
 cardioscope
 cardiosymphysis
 cardiospasm
@@ -28107,7 +28108,6 @@ craniotabes
 craniotomy
 craniotomies
 craniotopography
-craniovertebral
 cranium
 craniums
 crankbird
