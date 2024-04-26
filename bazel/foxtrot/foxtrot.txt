@@ -1844,7 +1844,6 @@ fibrinogen
 feature
 forthrightly
 featured
-featureful
 featurelessness
 featurely
 featureliness
@@ -9391,6 +9390,7 @@ franchise
 franchisee
 franchisees
 franchisement
+featureful
 franchisers
 franchises
 frivoling
