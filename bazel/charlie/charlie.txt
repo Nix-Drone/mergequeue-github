@@ -24748,7 +24748,6 @@ coptic
 coptine
 copula
 cavu
-copulable
 coroscopy
 copulae
 copular
@@ -27293,6 +27292,7 @@ coursey
 courser
 coursers
 courses
+copulable
 coursy
 coursing
 coursings
