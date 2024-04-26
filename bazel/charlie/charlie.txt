@@ -10105,7 +10105,6 @@ chessboard
 chessboards
 chessdom
 chessel
-chesser
 cabinda
 chesses
 chesset
@@ -12490,6 +12489,7 @@ chromolithographic
 chromometer
 chromone
 chromonema
+chesser
 chromonemal
 chromonemata
 chromonematal
