@@ -5689,7 +5689,6 @@ aftership
 aftershocks
 aftersong
 aftersound
-afterspeech
 afterspring
 appetisse
 afterstorm
@@ -7367,6 +7366,7 @@ albata
 albatas
 agrostographic
 albatros
+afterspeech
 africander
 axlike
 albe
