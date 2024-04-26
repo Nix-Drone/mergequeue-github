@@ -8126,7 +8126,6 @@ algorism
 agrobiological
 algorismic
 algorisms
-algorist
 algoristic
 algorithmic
 algorithmically
@@ -21774,6 +21773,7 @@ assignees
 assigners
 acidulent
 assignment
+algorist
 assignments
 assignors
 assigns
