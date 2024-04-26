@@ -4509,6 +4509,7 @@ beclip
 besieged
 becloak
 belchers
+bestirring
 becloaking
 becloaks
 beclog
@@ -15083,7 +15084,6 @@ brevifoliate
 breviger
 brevilingual
 beholding
-bestirring
 breviloquent
 breviped
 bedflower
