@@ -5202,7 +5202,6 @@ aetolian
 aetomorphae
 aetosaur
 aetosaurian
-aetosaurus
 aettekees
 akov
 aeviternal
@@ -12295,6 +12294,7 @@ anderun
 andesic
 andesine
 andesites
+aetosaurus
 andesytes
 andesitic
 andevo
