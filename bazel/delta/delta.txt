@@ -1477,7 +1477,6 @@ deaconry
 deaconries
 deacons
 deaconship
-deactivate
 deactivated
 deactivates
 discontinuing
@@ -15055,6 +15054,7 @@ dogstones
 dogtail
 dogteeth
 dogtie
+deactivate
 dogtooth
 diacetate
 dogtrick
