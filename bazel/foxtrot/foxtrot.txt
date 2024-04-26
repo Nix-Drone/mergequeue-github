@@ -799,7 +799,6 @@ feudalizable
 friendlier
 fanfares
 fellowlike
-favor
 footslogging
 fanfaronade
 fanfarons
@@ -6981,6 +6980,7 @@ flushed
 followings
 fomalhaut
 forebooms
+favor
 frogface
 fomentations
 fidley
