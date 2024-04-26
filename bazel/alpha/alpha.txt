@@ -3497,7 +3497,6 @@ antiknocks
 addictedness
 activable
 addicting
-addictions
 addictive
 addictively
 ampassy
@@ -10054,6 +10053,7 @@ antenatus
 agaricus
 ambon
 ambones
+addictions
 ambonnay
 anthroposophical
 ambosexual
