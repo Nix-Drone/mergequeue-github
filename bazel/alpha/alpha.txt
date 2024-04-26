@@ -4373,7 +4373,6 @@ adrenocorticotrophic
 ammonolysis
 adrenocorticotropic
 adrenolysis
-adrenomedullary
 anthracolithic
 adrenosterone
 albacores
@@ -10504,6 +10503,7 @@ amylene
 amylenes
 amylenol
 amiles
+adrenomedullary
 amylic
 amylidene
 amylin
