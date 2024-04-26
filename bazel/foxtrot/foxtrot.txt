@@ -3797,6 +3797,7 @@ filmmaker
 fullword
 filmography
 filmographies
+frontcourt
 films
 filmsets
 filmsetter
@@ -10416,7 +10417,6 @@ footgeld
 frontals
 frontbencher
 favorably
-frontcourt
 fronted
 fronter
 frontier
