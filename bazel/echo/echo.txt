@@ -4581,6 +4581,7 @@ encephalomalaxis
 encephalomas
 encephalomeningocele
 encephalometric
+epicaridea
 encephalomyelitic
 encephalomyelitis
 erucin
@@ -7597,7 +7598,6 @@ epicardia
 electrolytes
 epicarid
 eyebrow
-epicaridea
 epicarides
 echinostomatidae
 epicarp
