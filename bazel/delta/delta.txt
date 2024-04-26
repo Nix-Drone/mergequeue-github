@@ -1441,7 +1441,6 @@ dc
 deoxygenate
 dca
 deceived
-dcb
 dclass
 dcollet
 dcor
@@ -12567,6 +12566,7 @@ disjudication
 disjunctions
 disjunctive
 disjunctively
+dcb
 disjunctor
 disjuncts
 dereferences
