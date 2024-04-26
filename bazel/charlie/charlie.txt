@@ -2217,7 +2217,6 @@ coherently
 canalised
 canalises
 canalising
-canalization
 canalizations
 canalize
 canalizes
@@ -8937,6 +8936,7 @@ characters
 characterstring
 charade
 charadrii
+canalization
 charadriiform
 charadriiformes
 charadrine
