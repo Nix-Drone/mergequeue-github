@@ -9962,7 +9962,6 @@ bayonetting
 blights
 bizarrerie
 bield
-biventral
 biverb
 bivial
 beinness
@@ -16838,6 +16837,7 @@ balkline
 buffing
 buffle
 bufflehead
+biventral
 buffleheaded
 buffone
 buffont
