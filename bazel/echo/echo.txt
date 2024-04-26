@@ -1220,7 +1220,6 @@ educability
 educable
 educables
 educand
-educatability
 epicrystalline
 eident
 educatable
@@ -3943,6 +3942,7 @@ eudialyte
 epitheliliums
 emissive
 emissivity
+educatability
 earthquaked
 emissory
 emitted
