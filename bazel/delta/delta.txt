@@ -2468,7 +2468,6 @@ deckels
 decken
 decker
 daphnioid
-deckhand
 deckhead
 deckhouse
 deckle
@@ -16587,6 +16586,7 @@ draggy
 draggier
 dodecarchy
 draggily
+deckhand
 draggle
 draggled
 draggletailed
