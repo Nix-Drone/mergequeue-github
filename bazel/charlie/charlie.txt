@@ -5187,7 +5187,6 @@ cassata
 cassatas
 cassation
 cassava
-casse
 caveats
 cassegrain
 chromomeric
@@ -25653,6 +25652,7 @@ centupled
 corregidor
 corregidores
 corregimiento
+casse
 corregimientos
 correl
 correlatable
