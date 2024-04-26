@@ -1650,6 +1650,7 @@ findal
 fossilisation
 favourableness
 fallalery
+fdtype
 favouring
 favouringly
 favours
@@ -1697,7 +1698,6 @@ familiar
 friars
 four
 fdnames
-fdtype
 fdub
 fortuitousness
 fe
