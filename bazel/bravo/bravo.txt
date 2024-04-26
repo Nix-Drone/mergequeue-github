@@ -6531,7 +6531,6 @@ belady
 bepale
 bepaper
 beparch
-beparse
 benefactrix
 bepart
 bepaste
@@ -11910,6 +11909,7 @@ bradypodoid
 bogyland
 bogyman
 bandagers
+beparse
 bogymen
 bogland
 boglander
