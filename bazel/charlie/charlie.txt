@@ -2912,6 +2912,7 @@ canterelle
 cantraip
 cantraips
 cantrap
+cyclist
 cantraps
 cantred
 cantref
@@ -7335,7 +7336,6 @@ cephalochordal
 cephalochordata
 cephalochordate
 cephalocyst
-cyclist
 cucujidae
 cephaloclast
 cephalocone
