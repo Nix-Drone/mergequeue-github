@@ -12759,7 +12759,6 @@ angiographic
 angiohemophilia
 angiohyalinosis
 angiohypertonia
-angiohypotonia
 angioid
 angiokeratoma
 angiokinesis
@@ -13350,6 +13349,7 @@ anisoptera
 anisopteran
 arunta
 anisopterous
+angiohypotonia
 anisosepalous
 anisostaminous
 anisosthenic
