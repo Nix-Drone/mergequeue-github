@@ -6218,7 +6218,6 @@ enplanes
 enquarter
 enqueue
 entered
-enqueued
 enquicken
 enquire
 eten
@@ -7867,6 +7866,7 @@ epiglottiditis
 enchainment
 exigeante
 epiglottitis
+enqueued
 erasement
 endearing
 epigne
