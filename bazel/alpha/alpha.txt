@@ -217,7 +217,6 @@ abbott
 abbozzo
 abbr
 abbrev
-abbreviatable
 abbreviate
 abbreviated
 argotic
@@ -7194,6 +7193,7 @@ aeciotelia
 antibiotics
 alabamian
 apologia
+abbreviatable
 alabamians
 alabamide
 alabamine
