@@ -1908,7 +1908,6 @@ gastrostomize
 gastrostomus
 gastrotaxis
 gastrothecal
-gastrotome
 gastrotomy
 gastrotomic
 gastrotubotomy
@@ -2747,6 +2746,7 @@ genesial
 gester
 genesic
 genesiology
+gastrotome
 gyrophora
 genesitic
 genethliacal
