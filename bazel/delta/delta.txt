@@ -4157,7 +4157,6 @@ delimiters
 delimiting
 displumed
 delimitize
-delimitized
 delimitizing
 delimits
 deline
@@ -11943,6 +11942,7 @@ disdiaclast
 disemplaned
 disemploy
 disemploying
+delimitized
 dorados
 disemployment
 dirking
