@@ -4835,6 +4835,7 @@ aequian
 arariba
 aequiculi
 aequipalpia
+anolis
 aequor
 aequoreal
 aequorin
@@ -13734,7 +13735,6 @@ anoli
 anolian
 amorphophyte
 anolympiad
-anolis
 anolyte
 anomaly
 anomalies
