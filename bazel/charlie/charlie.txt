@@ -2379,7 +2379,6 @@ countermands
 coasters
 candier
 candies
-candify
 candyh
 candying
 candil
@@ -23394,6 +23393,7 @@ contemplable
 contemplamen
 contemplance
 contemplant
+candify
 contemplate
 contemplatedly
 contemplates
