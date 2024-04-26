@@ -4789,7 +4789,6 @@ demobilizations
 demobilize
 demobilizes
 diaheliotropism
-demobilizing
 democracy
 democracies
 dromotropic
@@ -18443,6 +18442,7 @@ durabilities
 durableness
 durables
 durably
+demobilizing
 discolorate
 dreidl
 duracine
