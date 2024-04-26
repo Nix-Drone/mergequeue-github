@@ -15836,6 +15836,7 @@ cleanup
 clear
 chelaship
 clearable
+colliquament
 clearage
 clearance
 clearances
@@ -19067,7 +19068,6 @@ collinsia
 collinsite
 collinsonia
 colliquable
-colliquament
 colliquate
 colliquation
 colliquativeness
