@@ -5903,6 +5903,7 @@ floodage
 floodboard
 fabiform
 flooded
+fructified
 flinthead
 flooder
 flooders
@@ -10633,7 +10634,6 @@ fructify
 foresighted
 foveoles
 fructificative
-fructified
 fructifier
 fructifies
 fructifying
