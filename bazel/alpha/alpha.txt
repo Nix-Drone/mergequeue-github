@@ -2362,7 +2362,6 @@ aciculae
 acicularity
 amazed
 annamese
-aciculate
 aciculum
 aciculums
 acid
@@ -4217,6 +4216,7 @@ adnouns
 ado
 adobo
 adobos
+aciculate
 adod
 adolesced
 aullay
