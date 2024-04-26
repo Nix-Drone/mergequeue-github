@@ -3709,7 +3709,6 @@ adenomyoma
 agapornis
 adenomyxosarcoma
 adenoncus
-adenoneural
 adenoneure
 adenopharyngeal
 archosyrinx
@@ -10105,6 +10104,7 @@ antihierarchical
 aspiculous
 ambulate
 ambulated
+adenoneural
 atropinism
 ambulates
 ambulatio
