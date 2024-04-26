@@ -1015,7 +1015,6 @@ edaphology
 enerve
 edaphon
 edaphosauria
-edaphosaurid
 edaphosaurus
 edda
 explosibility
@@ -11221,6 +11220,7 @@ euthermic
 euthycomi
 ethene
 euthyneurous
+edaphosaurid
 euthytatic
 euthytropic
 eutychian
