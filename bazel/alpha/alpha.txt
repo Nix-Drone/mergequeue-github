@@ -8671,6 +8671,7 @@ allhallowtide
 allheals
 ally
 alliable
+anaemic
 alliaceae
 auspicial
 alliage
@@ -11580,7 +11581,6 @@ anaematosis
 anaemia
 anaemias
 antepretonic
-anaemic
 anaemotropy
 anaeretic
 anaerobation
