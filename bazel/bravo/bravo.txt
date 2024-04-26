@@ -10187,6 +10187,7 @@ biofeedback
 blackshirt
 blackshirted
 barkle
+barleysick
 blacksmith
 blacksmithing
 beastdom
@@ -12813,7 +12814,6 @@ bouffante
 boosts
 burgensic
 brachigerous
-barleysick
 boot
 bootable
 beachdrops
