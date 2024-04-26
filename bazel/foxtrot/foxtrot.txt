@@ -55,6 +55,7 @@ facebar
 facebow
 facecloth
 firestone
+funneling
 faced
 foreladies
 faceharden
@@ -11295,7 +11296,6 @@ funmaker
 funmaking
 funnel
 funneled
-funneling
 flattie
 funnelling
 funnels
