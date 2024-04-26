@@ -2737,6 +2737,7 @@ barlows
 barm
 bollixes
 barmaids
+brigand
 barman
 barmaster
 barmbrack
@@ -15344,7 +15345,6 @@ bitripartite
 brigading
 bequote
 brigalow
-brigand
 brigandage
 brigander
 brigandine
