@@ -4969,7 +4969,6 @@ glaciaria
 graphemes
 glaciarium
 glaciated
-glaciates
 glaciation
 glaciered
 glacieret
@@ -10178,6 +10177,7 @@ getspa
 guyers
 ghoster
 guige
+glaciates
 geomoroi
 guijo
 galgal
