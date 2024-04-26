@@ -9844,6 +9844,7 @@ guanidins
 gasholder
 guaniferous
 goliardery
+gunnysacks
 guanyl
 gerygone
 guanin
@@ -10072,7 +10073,6 @@ gravigrade
 guesdist
 gamodeme
 guessed
-gunnysacks
 graphics
 grover
 guesser
