@@ -6236,7 +6236,6 @@ girr
 gnat
 gnatflower
 gnathal
-gnathidium
 gnathite
 gunyah
 graininess
@@ -8567,6 +8566,7 @@ greater
 geostatics
 greathead
 garbages
+gnathidium
 greathearted
 greatheartedly
 greatly
