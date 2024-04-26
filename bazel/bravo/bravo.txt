@@ -2829,7 +2829,6 @@ baroneting
 baronetise
 baronetised
 baronetising
-baronetize
 baronetizing
 baronets
 baronetship
@@ -3439,6 +3438,7 @@ bassness
 basson
 bassoon
 bedash
+baronetize
 bassoonist
 bassoonists
 bedravel
