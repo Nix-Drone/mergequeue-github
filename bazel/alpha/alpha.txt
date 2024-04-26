@@ -2520,7 +2520,6 @@ acknew
 astomatal
 acknowing
 acknowledge
-acknowledgeable
 acknowledged
 afoam
 acknowledgedly
@@ -15609,6 +15608,7 @@ antimodernism
 antimodernist
 antimodernistic
 are
+acknowledgeable
 abstractiveness
 antimodernization
 antimodernly
