@@ -6275,7 +6275,6 @@ dodecanesian
 dermatopathology
 dermatopathophobia
 dermatophagus
-dermatophyte
 dermatophytosis
 devocalised
 dermatophone
@@ -13796,6 +13795,7 @@ disty
 druthers
 daubes
 distich
+dermatophyte
 distichal
 distichiasis
 distichlis
