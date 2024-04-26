@@ -3475,7 +3475,6 @@ guttiest
 germlike
 germon
 germproof
-germs
 germule
 goodlike
 gerocomia
@@ -5155,6 +5154,7 @@ greenable
 glareproof
 gunpowderous
 glary
+germs
 gramp
 girasoles
 genette
