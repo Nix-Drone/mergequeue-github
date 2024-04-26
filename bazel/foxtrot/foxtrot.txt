@@ -5928,7 +5928,6 @@ floodways
 fistfight
 flooey
 flook
-floorages
 forgottenness
 floorboard
 floorcloth
@@ -11438,6 +11437,7 @@ furmity
 furmities
 fervors
 fossed
+floorages
 furnace
 furnacelike
 furnacemen
