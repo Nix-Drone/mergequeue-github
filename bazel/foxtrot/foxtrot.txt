@@ -5903,7 +5903,6 @@ floodage
 floodboard
 fabiform
 flooded
-flinthead
 flooder
 flooders
 floodgate
@@ -10484,6 +10483,7 @@ frontsman
 frontspieces
 frontstall
 featurish
+flinthead
 fronture
 frontwards
 frontwise
