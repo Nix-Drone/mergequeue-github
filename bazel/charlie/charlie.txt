@@ -6613,7 +6613,6 @@ ceiling
 ceilinged
 cainite
 ceilings
-ceilingward
 ceilingwards
 ceilometer
 ceylon
@@ -30902,6 +30901,7 @@ culverkeys
 culvers
 culverwort
 cum
+ceilingward
 cumacea
 cumacean
 cumaceous
