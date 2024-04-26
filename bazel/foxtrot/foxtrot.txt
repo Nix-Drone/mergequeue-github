@@ -4850,7 +4850,6 @@ flake
 foxier
 flaked
 fluoresce
-faintness
 funiculi
 flakeless
 flakelet
@@ -10780,6 +10779,7 @@ frustules
 frustum
 frutescent
 frutex
+faintness
 fruticeous
 frutices
 fruticeta
