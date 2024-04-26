@@ -5448,7 +5448,6 @@ endurance
 endurant
 endure
 ensnarled
-endured
 endurer
 endures
 enki
@@ -9160,6 +9159,7 @@ erythrocytolysin
 erythrocytolysis
 engl
 erythrocytolytic
+endured
 eelier
 erythrocytometer
 erythrocytometry
