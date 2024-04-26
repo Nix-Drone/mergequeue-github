@@ -6594,6 +6594,7 @@ brawled
 bequeaths
 bequest
 bequests
+borrowing
 ber
 beray
 berain
@@ -16165,7 +16166,6 @@ brothellike
 bulla
 brothelry
 brothels
-borrowing
 brother
 brotherhood
 benj
