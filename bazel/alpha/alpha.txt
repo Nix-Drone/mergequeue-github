@@ -5486,7 +5486,6 @@ agons
 aflatoxin
 aflaunt
 afley
-aflight
 aflow
 acumen
 axillary
@@ -12416,6 +12415,7 @@ andronicus
 andropetalar
 andropetalous
 androphagous
+aflight
 androphore
 androphorous
 androphorum
