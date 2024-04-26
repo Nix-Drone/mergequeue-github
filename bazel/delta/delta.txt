@@ -2460,7 +2460,6 @@ dialin
 decitizenize
 decivilize
 deck
-dateline
 decke
 deckedout
 deckel
@@ -6269,6 +6268,7 @@ dermatoneural
 dermatoneurology
 dermatoneurosis
 dustuck
+dateline
 dermatonosus
 dermatopathic
 dodecanesian
