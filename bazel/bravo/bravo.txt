@@ -7909,7 +7909,6 @@ bohmite
 biblic
 bipunctal
 biblical
-biblicality
 biblically
 biblicism
 biblicist
@@ -10598,6 +10597,7 @@ bleary
 blearyeyedness
 blearier
 bleariest
+biblicality
 brominism
 bleariness
 brabbles
