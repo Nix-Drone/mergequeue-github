@@ -350,6 +350,7 @@ daybreaks
 daibutsu
 desand
 dynamoscope
+descript
 daydawn
 daidly
 daidlie
@@ -6518,7 +6519,6 @@ descriers
 divorce
 deadmen
 descries
-descript
 description
 dogsled
 descriptionless
