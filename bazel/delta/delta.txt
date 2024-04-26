@@ -2410,7 +2410,6 @@ decimalization
 dilogarithm
 decimalize
 decimalizes
-decimally
 decimals
 dressages
 decimate
@@ -7218,6 +7217,7 @@ determinable
 dowage
 diffusivity
 determinableness
+decimally
 desiccative
 disennoble
 determinably
