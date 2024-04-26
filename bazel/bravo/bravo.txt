@@ -8253,7 +8253,6 @@ boosters
 byepath
 bier
 broid
-bierbalk
 blest
 byerite
 bierkeller
@@ -17587,6 +17586,7 @@ burweeds
 bureaucratically
 bureaucratism
 bureaucratist
+bierbalk
 bureaucratization
 bureaucratized
 bureaucratizes
