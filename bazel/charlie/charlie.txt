@@ -4904,7 +4904,6 @@ cartonnage
 cartons
 cartoon
 cartoonist
-cartoonists
 condors
 cartoons
 cartop
@@ -6387,6 +6386,7 @@ caveating
 caveator
 caveators
 caved
+cartoonists
 canell
 coagel
 cavefish
