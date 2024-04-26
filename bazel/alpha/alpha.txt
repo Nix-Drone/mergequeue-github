@@ -23094,7 +23094,6 @@ attesters
 attesting
 attestive
 attestor
-attestors
 attests
 attic
 attical
@@ -24655,6 +24654,7 @@ apholate
 acinetarian
 averments
 admove
+attestors
 avern
 avernal
 avernus
