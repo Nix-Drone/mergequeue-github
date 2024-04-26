@@ -8504,7 +8504,6 @@ alkyloxy
 alkyls
 alkin
 alkine
-alkyne
 alkynes
 alkitran
 alkool
@@ -23918,6 +23917,7 @@ autocatharsis
 autocatheterism
 autocephalia
 autocephalic
+alkyne
 autocephality
 autocephalous
 autoceptive
