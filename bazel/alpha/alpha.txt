@@ -9955,7 +9955,6 @@ ambigu
 ambiguities
 ambiguous
 ambiguously
-ambiguousness
 acheilous
 ambilateral
 ambilateralaterally
@@ -14517,6 +14516,7 @@ anthranol
 anthranone
 anthrapyridine
 anthrapurpurin
+ambiguousness
 anthraquinol
 anthraquinone
 allotropes
