@@ -4814,7 +4814,6 @@ encolden
 encollar
 euryalean
 equitangential
-encolour
 encolpia
 encolpion
 encolumn
@@ -13647,6 +13646,7 @@ externum
 exteroceptist
 enchair
 eliquation
+encolour
 ewers
 exteroceptor
 emersions
