@@ -888,7 +888,6 @@ allergy
 abscessed
 abscesses
 abscessing
-abscession
 abscind
 abscised
 abscises
@@ -16417,6 +16416,7 @@ antitruster
 antitubercular
 antituberculin
 antituberculotic
+abscession
 antituberculous
 antitumor
 antitumoral
