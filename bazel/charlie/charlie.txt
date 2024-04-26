@@ -1218,7 +1218,6 @@ caliban
 caliber
 calibers
 cunas
-clavicembali
 calibogus
 colunar
 calibrate
@@ -14444,6 +14443,7 @@ circumstantiability
 circumstantiable
 circumstantiality
 circumstantialities
+clavicembali
 circumstantially
 circumstantialness
 circumstantiate
