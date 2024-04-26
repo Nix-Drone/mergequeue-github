@@ -2926,7 +2926,6 @@ acromicria
 acromimia
 allotype
 acromioclavicular
-acromiocoracoid
 acromyodi
 acromyodic
 acromyodous
@@ -12097,6 +12096,7 @@ algebrization
 anatropal
 anatropia
 andesinite
+acromiocoracoid
 antilapse
 allegate
 anatta
