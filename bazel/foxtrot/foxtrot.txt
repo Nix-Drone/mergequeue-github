@@ -1470,7 +1470,6 @@ fatstock
 fatstocks
 fatted
 fatten
-fattenable
 fragilaria
 fattened
 fattener
@@ -5910,6 +5909,7 @@ floodgate
 floodgates
 frontlessly
 floody
+fattenable
 flunkyhood
 flooding
 floodless
