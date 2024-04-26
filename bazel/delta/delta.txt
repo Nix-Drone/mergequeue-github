@@ -6244,7 +6244,6 @@ dermatoglyphics
 dermatograph
 dermatography
 dermatographia
-denucleate
 dermatographism
 dermatolysis
 dermatology
@@ -18409,6 +18408,7 @@ duplicia
 duplicident
 duplicidentata
 degreased
+denucleate
 derivation
 duplicidentate
 duplicious
