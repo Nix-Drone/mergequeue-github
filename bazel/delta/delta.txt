@@ -3155,6 +3155,7 @@ dragginess
 defamer
 defamers
 defames
+demasting
 demihuman
 defamy
 defaming
@@ -4454,7 +4455,6 @@ demasculinized
 demasculinizing
 demast
 demasted
-demasting
 dematerialisation
 dematerialise
 duchery
