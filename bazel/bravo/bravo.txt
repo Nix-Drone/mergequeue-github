@@ -354,7 +354,6 @@ backflowing
 backfold
 backframe
 beknot
-backfriend
 borgh
 backfurrow
 backgame
@@ -3496,6 +3495,7 @@ bastinadoing
 basting
 bastings
 bastion
+backfriend
 blendure
 bastionary
 bastioned
