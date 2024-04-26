@@ -5424,7 +5424,6 @@ affranchise
 affranchisement
 affrap
 anopsy
-affreight
 affreighter
 affreightment
 affret
@@ -6891,6 +6890,7 @@ airiferous
 airify
 airified
 airily
+affreight
 airinesses
 airings
 airish
