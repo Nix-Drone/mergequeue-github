@@ -741,6 +741,7 @@ dihydrocupreine
 domination
 dancalite
 dopester
+degassed
 dance
 danceability
 danceable
@@ -3602,7 +3603,6 @@ degasify
 disguise
 definition
 degass
-degassed
 degassing
 degauss
 degaussing
