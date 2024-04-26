@@ -948,7 +948,6 @@ bagpiped
 biophysiological
 bagpiper
 bagpipers
-bagpipes
 bagpiping
 bagplant
 boscage
@@ -17118,6 +17117,7 @@ brennage
 bogman
 bulletined
 bulletining
+bagpipes
 bulletins
 bulletless
 bulletlike
