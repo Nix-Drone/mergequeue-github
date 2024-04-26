@@ -2007,7 +2007,6 @@ bandsmen
 bandspreading
 bandstand
 bandstands
-bandster
 ballroom
 bandstop
 bandstring
@@ -2489,6 +2488,7 @@ bardily
 brickiest
 brobdingnagian
 barding
+bandster
 bardings
 blindages
 bardism
