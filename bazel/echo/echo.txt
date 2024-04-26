@@ -6713,7 +6713,6 @@ enterospasm
 enterostasis
 ebracteolate
 enterostomies
-enterotome
 extemporaneity
 enterotomy
 enterotoxemia
@@ -12041,6 +12040,7 @@ excited
 enscene
 excitedly
 excitedness
+enterotome
 exciter
 exciters
 eelblennies
