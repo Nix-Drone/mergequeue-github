@@ -6002,7 +6002,6 @@ autoing
 aramis
 agglutinable
 agglutinant
-apical
 anthropodus
 agglutinate
 agglutinated
@@ -6690,6 +6689,7 @@ aigialosauridae
 aigialosaurus
 aiglet
 antsy
+apical
 aiglets
 aiglette
 aigre
