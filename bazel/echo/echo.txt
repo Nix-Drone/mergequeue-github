@@ -2332,7 +2332,6 @@ electrobus
 electrocapillary
 electrocapillarity
 electrocardiogram
-electrocardiograms
 escarped
 electrocardiograph
 electrocardiographic
@@ -13926,6 +13925,7 @@ endonuclease
 extraperitoneal
 extraphysical
 extrapyramidal
+electrocardiograms
 extraplacental
 exocardia
 extrapoetical
