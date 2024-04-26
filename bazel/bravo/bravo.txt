@@ -2588,6 +2588,7 @@ balanophore
 booklice
 barger
 bloomage
+beltway
 barges
 bargh
 bicycular
@@ -5986,7 +5987,6 @@ beltmaking
 beltman
 beltmen
 belts
-beltway
 beltwise
 barn
 beluchi
