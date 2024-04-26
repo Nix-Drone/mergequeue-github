@@ -5605,7 +5605,6 @@ forepassed
 frailest
 flights
 flightworthy
-flying
 flyings
 flyleaves
 flyless
@@ -11109,6 +11108,7 @@ funambule
 frontality
 felty
 funambulic
+flying
 funambulism
 funambulo
 funambuloes
