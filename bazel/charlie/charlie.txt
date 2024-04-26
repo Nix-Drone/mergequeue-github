@@ -11826,7 +11826,6 @@ choose
 chooseable
 copaljocote
 caprock
-chooser
 choosers
 cadilesker
 chooses
@@ -20254,6 +20253,7 @@ commove
 chem
 commoved
 conjectured
+chooser
 cephalometry
 commoves
 commoving
