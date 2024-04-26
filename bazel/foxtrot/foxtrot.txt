@@ -4073,7 +4073,6 @@ finlet
 finlike
 finmark
 finmarks
-finnac
 finnan
 finned
 finner
@@ -6231,6 +6230,7 @@ fluctuous
 flued
 fibronuclear
 fluegelhorn
+finnac
 flueless
 fothergilla
 fluellen
