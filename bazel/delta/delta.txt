@@ -10576,7 +10576,6 @@ diploidize
 diploids
 diplokaryon
 diploma
-diplomaed
 diplomaing
 diplomas
 diplomat
@@ -15208,6 +15207,7 @@ decaisnea
 dollyway
 dollmaker
 dollmaking
+diplomaed
 dollops
 dolls
 dollship
