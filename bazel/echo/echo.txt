@@ -335,7 +335,6 @@ ebbs
 ebcasc
 enterosyphilis
 ebcd
-ebcdic
 ebdomade
 eben
 ebenaceae
@@ -14159,6 +14158,7 @@ exudatory
 enrichers
 externalising
 exuded
+ebcdic
 ennoy
 exudence
 exudes
