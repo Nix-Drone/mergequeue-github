@@ -1580,7 +1580,6 @@ acclimatizable
 apokreos
 atinkle
 acclimatize
-acclimatizer
 acclimatizes
 acclimatizing
 acclinal
@@ -11718,6 +11717,7 @@ analgia
 analgias
 analgic
 analgize
+acclimatizer
 analysability
 analysable
 analysand
