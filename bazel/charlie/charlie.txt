@@ -3014,6 +3014,7 @@ capelans
 capelet
 capelin
 capeline
+chirmed
 capelins
 capella
 capellane
@@ -10921,7 +10922,6 @@ chirking
 chirks
 chirl
 chirm
-chirmed
 chirming
 chirms
 chiro
