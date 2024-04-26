@@ -908,7 +908,6 @@ gambirs
 gambist
 gambits
 gonotocont
-guillemot
 gamble
 gambler
 gamblesome
@@ -4659,6 +4658,7 @@ girasol
 girasole
 gyrate
 gyrated
+guillemot
 gosain
 gyrates
 gynopara
