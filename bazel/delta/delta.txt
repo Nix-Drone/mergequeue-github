@@ -9604,7 +9604,6 @@ disinclines
 discomfortably
 dihydrostreptomycin
 dihydrotachysterol
-dihydroxy
 dhaks
 dihydroxyacetone
 dihydroxysuccinic
@@ -16730,6 +16729,7 @@ devisceration
 dcbname
 drammage
 dramme
+dihydroxy
 drammed
 dramming
 distributedly
