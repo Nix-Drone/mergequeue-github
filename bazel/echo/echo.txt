@@ -5044,6 +5044,7 @@ eclairs
 endive
 eland
 endjunk
+enswathed
 evens
 endleaf
 endleaves
@@ -6513,7 +6514,6 @@ ensures
 ergatogyne
 ensuring
 enswathe
-enswathed
 enswathement
 encephalola
 enswathes
