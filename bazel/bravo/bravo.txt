@@ -9327,7 +9327,6 @@ biplicate
 biplicity
 banishments
 biplosion
-biplosive
 bries
 bipod
 bipods
@@ -14108,6 +14107,7 @@ bedframe
 brackmard
 bracon
 braconidae
+biplosive
 braconids
 bedquilt
 bracozzo
