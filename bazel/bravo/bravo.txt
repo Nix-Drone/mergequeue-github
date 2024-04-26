@@ -5421,7 +5421,6 @@ behap
 behav
 behave
 behaved
-behaver
 bicollateral
 behaving
 boater
@@ -15181,6 +15180,7 @@ bricked
 brickel
 bricken
 bricker
+behaver
 brickfield
 brickfielder
 brickhood
