@@ -6506,7 +6506,6 @@ embolisms
 ensuant
 ensued
 ensues
-ensuingly
 ensurance
 ensurer
 ensures
@@ -8377,6 +8376,7 @@ epitheliums
 epithelization
 epidictic
 epithelize
+ensuingly
 epitheloid
 epithem
 emulating
