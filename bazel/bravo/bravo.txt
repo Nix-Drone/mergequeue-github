@@ -3798,6 +3798,7 @@ battings
 battish
 battledores
 baldly
+bourgade
 boyar
 battledoring
 borehole
@@ -13608,7 +13609,6 @@ bitte
 bant
 bourg
 befoolable
-bourgade
 bourgeois
 bourgeoisie
 brashness
