@@ -4251,7 +4251,6 @@ beastlings
 beastship
 beat
 beata
-beatable
 beatably
 beatae
 beatas
@@ -9499,6 +9498,7 @@ byronic
 byronically
 byronish
 beholden
+beatable
 byronist
 byronite
 birostrated
