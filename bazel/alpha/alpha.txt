@@ -219,7 +219,6 @@ abbr
 abbrev
 abbreviatable
 abbreviate
-abbreviated
 argotic
 apostolicism
 afdecho
@@ -4938,6 +4937,7 @@ aerodone
 aerodonetic
 aerodonetics
 aerodontalgia
+abbreviated
 alivincular
 aerodrome
 aerodromes
