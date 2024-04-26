@@ -4443,6 +4443,7 @@ fissidentaceous
 fissile
 fissilinguia
 formatting
+faulted
 fissility
 formatter
 fission
@@ -6305,7 +6306,6 @@ fluidizer
 fingerflower
 fluidizes
 fluidmeter
-faulted
 fluidness
 fluidounce
 friskers
