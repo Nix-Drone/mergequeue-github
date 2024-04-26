@@ -4967,7 +4967,6 @@ glacialist
 glacialize
 glaciaria
 graphemes
-glaciarium
 glaciated
 glaciates
 glaciation
@@ -6622,6 +6621,7 @@ goldener
 goldenhair
 goldenknop
 gradualism
+glaciarium
 gent
 gurt
 guary
