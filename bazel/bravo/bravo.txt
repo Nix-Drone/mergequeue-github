@@ -12414,7 +12414,6 @@ bowmaking
 bondship
 bondslave
 bondsman
-bondsmen
 bondstone
 bondswoman
 bondswomen
@@ -14542,6 +14541,7 @@ brankursine
 branles
 branner
 brannerite
+bondsmen
 blackneb
 branners
 branny
