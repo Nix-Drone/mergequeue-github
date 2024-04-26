@@ -298,7 +298,6 @@ eatability
 eatable
 eatables
 electrolyzability
-eatberry
 eaten
 emetophobia
 empeirema
@@ -10113,6 +10112,7 @@ estuary
 eloping
 estuarial
 estuarian
+eatberry
 engorging
 estuosity
 esu
