@@ -13426,6 +13426,7 @@ cleaners
 cyclostyle
 cyclostoma
 cyclostomata
+convictfish
 cyclostomate
 cyclostomatidae
 charadriidae
@@ -24152,7 +24153,6 @@ convicinity
 convict
 congelifract
 convictable
-convictfish
 convictible
 conviction
 convictional
