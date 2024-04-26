@@ -1963,6 +1963,7 @@ decadrachmae
 dimorphic
 desugars
 decaedron
+dereferenced
 decaesarize
 decaffeinate
 decaffeinated
@@ -11545,7 +11546,6 @@ disconnect
 disconnected
 dandified
 disconnectedly
-dereferenced
 disconnectedness
 diphtheroidal
 disconnecter
