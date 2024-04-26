@@ -6448,7 +6448,6 @@ frippet
 fluorines
 forepoling
 fluorobenzene
-fluoroborate
 fluorocarbon
 fluorochrome
 fluoroform
@@ -8618,6 +8617,7 @@ forsakes
 farriery
 forsaking
 forsar
+fluoroborate
 fardh
 flagellative
 forseeable
