@@ -1280,7 +1280,6 @@ daughterkin
 dissension
 daughterless
 daughterly
-daughterlike
 daughterliness
 daughterling
 daughters
@@ -4370,6 +4369,7 @@ delved
 decanter
 delver
 delvers
+daughterlike
 delves
 defuze
 dorsointestinal
