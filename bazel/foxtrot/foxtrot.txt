@@ -5529,7 +5529,6 @@ flexures
 flyable
 fascicle
 flyback
-flyball
 flybane
 flibbertigibbety
 flybelt
@@ -8381,6 +8380,7 @@ formalistically
 formalith
 flange
 formalities
+flyball
 formalizable
 formalization
 fogyism
