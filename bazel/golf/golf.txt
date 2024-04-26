@@ -7824,7 +7824,6 @@ grammarless
 grammars
 gieseckite
 grammaticality
-gateau
 glossate
 grammatically
 grammaticalness
@@ -8266,6 +8265,7 @@ getters
 grassflat
 grassflower
 geneticism
+gateau
 grasshook
 golds
 grasshop
