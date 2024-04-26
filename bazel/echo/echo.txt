@@ -5045,6 +5045,7 @@ endive
 eland
 endjunk
 evens
+explicitly
 endleaf
 endleaves
 endless
@@ -13190,7 +13191,6 @@ explicatory
 eelgrasses
 explicators
 explicit
-explicitly
 explicitness
 explicits
 explida
