@@ -1565,7 +1565,6 @@ balanoglossida
 bouton
 butomus
 ballaster
-ballastic
 ballasting
 ballat
 ballata
@@ -8073,6 +8072,7 @@ bicyclic
 bicyclical
 bicycling
 bicyclism
+ballastic
 bicyclist
 becharms
 bicyclists
