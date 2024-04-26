@@ -8276,6 +8276,7 @@ euclase
 episthotonos
 epistilbite
 epistyle
+excludable
 epistylis
 exulcerate
 epistle
@@ -13875,7 +13876,6 @@ extramission
 extramodal
 extramolecular
 extramorainal
-excludable
 extramoral
 emprise
 enflagellate
