@@ -14314,7 +14314,6 @@ circumfer
 circumference
 chave
 circumferences
-circumferential
 circumferentially
 circumferentor
 circumflant
@@ -30367,6 +30366,7 @@ csch
 csect
 cholecystectomies
 csects
+circumferential
 csi
 csk
 csmp
