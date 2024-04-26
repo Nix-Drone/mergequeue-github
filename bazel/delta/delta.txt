@@ -2470,7 +2470,6 @@ decker
 daphnioid
 deckhand
 deckhead
-deckhouse
 deckle
 deckman
 deckpipe
@@ -11028,6 +11027,7 @@ disjunct
 deedy
 disappendancy
 disappendant
+deckhouse
 disappoint
 discept
 disappointed
