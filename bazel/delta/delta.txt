@@ -13477,6 +13477,7 @@ disfrequent
 dissectors
 dissects
 desperadoes
+dormeuse
 disseise
 disseised
 disseisee
@@ -15734,7 +15735,6 @@ dammara
 dormered
 dormers
 dormette
-dormeuse
 dormice
 dormie
 disqualify
