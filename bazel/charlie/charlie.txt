@@ -14869,6 +14869,7 @@ citizens
 citizenship
 cytoanalyzer
 copremia
+costochondral
 cytoarchitectural
 cytoarchitecturally
 cytoarchitecture
@@ -26241,7 +26242,6 @@ clericalist
 costoabdominal
 costoapical
 costocentral
-costochondral
 costocolic
 costocoracoid
 costogenic
