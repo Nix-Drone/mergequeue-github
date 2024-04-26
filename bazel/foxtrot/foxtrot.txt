@@ -1693,7 +1693,6 @@ fcomp
 farcin
 fcp
 foehns
-familiar
 friars
 four
 fdnames
@@ -6444,6 +6443,7 @@ fluorinating
 fluorinations
 fluorindin
 fluorine
+familiar
 frippet
 fluorines
 forepoling
