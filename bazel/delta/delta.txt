@@ -1710,7 +1710,6 @@ deathliness
 deathrates
 diagrydium
 deaths
-deathsman
 deathsmen
 depaysee
 deathtime
@@ -2357,6 +2356,7 @@ decian
 deciare
 deciatine
 debilitated
+deathsman
 decibel
 decibels
 deciceronize
