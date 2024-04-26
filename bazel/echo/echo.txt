@@ -1813,7 +1813,6 @@ eyen
 electric
 eyeopener
 eyepiece
-eyepit
 eyepoint
 eyereach
 eyeroot
@@ -9084,6 +9083,7 @@ eriocaulaceae
 eriocaulon
 eriocomi
 eriodendron
+eyepit
 eriogonum
 eriometer
 extraspherical

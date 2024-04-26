@@ -3564,7 +3564,6 @@ filamentoid
 fuzztail
 flaxwife
 filamentous
-filaments
 filamentule
 filander
 filao
@@ -10318,6 +10317,7 @@ froghood
 finn
 froghopper
 frogleaf
+filaments
 flintstone
 frogleg
 froglets
