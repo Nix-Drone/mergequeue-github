@@ -2918,7 +2918,6 @@ cantref
 cantrip
 cantrips
 coveting
-cantus
 cantut
 cantuta
 cantwise
@@ -16943,6 +16942,7 @@ clusteringly
 clusterings
 clutch
 clutched
+cantus
 clutcher
 clutches
 clutchy
