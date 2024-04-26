@@ -7284,7 +7284,6 @@ detester
 driveboat
 detesters
 detests
-dethronable
 dethroned
 dethronement
 dain
@@ -17346,6 +17345,7 @@ dronish
 duellistic
 dronishly
 dronishness
+dethronable
 dronkelew
 dronkgrass
 desirers
