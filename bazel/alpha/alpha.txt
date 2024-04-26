@@ -2113,7 +2113,6 @@ acetone
 acetonemia
 acetonemic
 acetonic
-acetonyl
 acetonylacetone
 acetonylidene
 acetonitrile
@@ -21137,6 +21136,7 @@ ashery
 asheries
 ashes
 ashfall
+acetonyl
 ashy
 adermia
 ashier
