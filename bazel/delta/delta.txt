@@ -1900,6 +1900,7 @@ debtless
 debtor
 debtors
 debugger
+disnaturalize
 debuggers
 desilverized
 debugs
@@ -4429,7 +4430,6 @@ demarcation
 demarcations
 demarcator
 demarcatordemarcators
-disnaturalize
 demarcature
 demarch
 demarche
