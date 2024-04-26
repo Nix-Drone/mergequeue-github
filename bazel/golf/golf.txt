@@ -4590,7 +4590,6 @@ gyps
 gipseian
 gipser
 gipsy
-gypsy
 gipsydom
 gypsydoms
 gigsman
@@ -4855,6 +4854,7 @@ gluconate
 gismondite
 gismos
 gynodioecism
+gypsy
 gist
 git
 guaranty
