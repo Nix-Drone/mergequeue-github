@@ -3531,7 +3531,6 @@ carafes
 clergymen
 cornicing
 carafon
-coteau
 cocineras
 caragana
 caraganas
@@ -9853,6 +9852,7 @@ chemigraphic
 chemigraphically
 chemiloon
 chemiluminescence
+coteau
 chemiluminescent
 chemin
 cheminee
