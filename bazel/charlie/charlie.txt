@@ -7958,7 +7958,6 @@ ceticide
 cetid
 chitinization
 cetyl
-cetylic
 cetin
 cetiosaurian
 cetiosaurus
@@ -28485,6 +28484,7 @@ credenzas
 credere
 credibility
 credibilities
+cetylic
 credible
 credibleness
 credibly
