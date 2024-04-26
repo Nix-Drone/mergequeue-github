@@ -1562,7 +1562,6 @@ ballastage
 bulbiform
 blanchi
 balanoglossida
-bouton
 butomus
 ballaster
 ballastic
@@ -13864,6 +13863,7 @@ boxhauls
 biathlons
 boxhead
 boxholder
+bouton
 boxy
 bemaul
 boxiana
