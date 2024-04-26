@@ -8839,6 +8839,7 @@ acrogenic
 alloys
 alloisomer
 alloisomeric
+addressee
 alloisomerism
 allokinetic
 allokurtic
@@ -11724,7 +11725,6 @@ analysand
 analysation
 analyser
 analysers
-addressee
 analyses
 analysing
 antimoniate
