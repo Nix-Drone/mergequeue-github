@@ -1815,7 +1815,6 @@ eyeopener
 eyepiece
 eyepit
 eyepoint
-eyereach
 eyeroot
 electromobilism
 eyes
@@ -6854,6 +6853,7 @@ entocone
 entoconid
 entocornea
 enwombing
+eyereach
 entocuniform
 erin
 entodermal
