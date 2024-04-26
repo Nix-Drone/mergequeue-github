@@ -2172,7 +2172,6 @@ bannerole
 bannerols
 bannerwise
 bannet
-bannisters
 bannition
 bannock
 bowlines
@@ -12682,6 +12681,7 @@ borderline
 bookmarks
 bookmate
 bookmobile
+bannisters
 bookmobiles
 bookplate
 bookplates
