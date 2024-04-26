@@ -5086,7 +5086,6 @@ denaturate
 denaturational
 diver
 denature
-denatured
 denaturing
 denaturisation
 denaturise
@@ -8419,6 +8418,7 @@ diamegnetism
 diamesogamous
 diameter
 diameters
+denatured
 deciares
 diffusedly
 diametral
