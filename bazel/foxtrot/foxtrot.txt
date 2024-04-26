@@ -3304,7 +3304,6 @@ faction
 ferrying
 fidejussion
 fidejussionary
-furlanas
 fidejussor
 fidejussory
 fidele
@@ -8605,6 +8604,7 @@ forrit
 flutterer
 fatuously
 forsay
+furlanas
 forsake
 fleaseed
 fir
