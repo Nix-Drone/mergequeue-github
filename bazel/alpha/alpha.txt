@@ -10515,7 +10515,6 @@ antiredeposition
 amylocoagulase
 amylodextrin
 amylodyspepsia
-anthriscus
 amylogen
 amylogenesis
 amylogenic
@@ -13404,6 +13403,7 @@ ankyloglossia
 ankylomerism
 ankylophobia
 ankylopodia
+anthriscus
 ankyloproctia
 ankylos
 ankylosaur
