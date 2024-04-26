@@ -2112,7 +2112,6 @@ felicities
 felicitous
 felid
 felidae
-felinae
 feline
 feru
 fiscalism
@@ -10320,6 +10319,7 @@ froghopper
 frogleaf
 flintstone
 frogleg
+felinae
 froglets
 froglike
 frogling
