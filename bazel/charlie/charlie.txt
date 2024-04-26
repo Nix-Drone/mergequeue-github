@@ -9662,7 +9662,6 @@ cheeseboard
 cheesebox
 cheeseburger
 cheeseburgers
-cheesecake
 cheesecakes
 cheesecloth
 cheesecloths
@@ -16847,6 +16846,7 @@ clubhaul
 clubhauled
 clubhauling
 clubhauls
+cheesecake
 clubhouse
 clubhouses
 clubionid
