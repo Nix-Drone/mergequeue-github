@@ -6404,7 +6404,6 @@ ensign
 embarcation
 ensigncy
 electroplaque
-ensigncies
 ensigned
 entranceway
 ensignhood
@@ -10108,6 +10107,7 @@ esperantidist
 estrums
 estruses
 estuant
+ensigncies
 erythrodextrin
 estuary
 eloping
