@@ -11171,7 +11171,6 @@ degerm
 daubery
 disbenching
 disbenchment
-disbend
 dispair
 disbind
 disblame
@@ -15236,6 +15235,7 @@ dolomize
 dolor
 dolores
 dolorific
+disbend
 dolorimeter
 dolorimetric
 desaurin
