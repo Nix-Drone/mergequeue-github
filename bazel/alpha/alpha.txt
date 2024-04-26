@@ -5377,7 +5377,6 @@ archoplasm
 afflictive
 afflictively
 avadavats
-afflicts
 affloof
 affluence
 affluency
@@ -6304,6 +6303,7 @@ agomphious
 agomphosis
 aposepalous
 avengers
+afflicts
 agon
 agony
 agonia
