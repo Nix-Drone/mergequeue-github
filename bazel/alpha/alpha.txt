@@ -4801,7 +4801,6 @@ aenigmatite
 aeolharmonica
 aeolia
 aeolian
-aeolic
 aeolicism
 aeolid
 aeolidae
@@ -16513,6 +16512,7 @@ antonio
 antonomasy
 antonomasia
 antonomastic
+aeolic
 antonomastical
 amaga
 antonomastically
