@@ -437,7 +437,6 @@ eccentricities
 eccentrics
 eccentring
 ecch
-ecchymoma
 engraved
 ecchymosed
 ecchymosis
@@ -9722,6 +9721,7 @@ esophagopathy
 esophagoplasty
 esophagoplication
 esophagoptosis
+ecchymoma
 esophagorrhagia
 esophagoscope
 esophagoscopy
