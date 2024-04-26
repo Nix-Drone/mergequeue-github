@@ -5114,7 +5114,6 @@ cashaws
 cashboy
 cashbook
 cashbooks
-cashbox
 cashboxes
 casheen
 cashel
@@ -13508,6 +13507,7 @@ cigaresque
 cigaret
 cigarets
 cigarette
+cashbox
 cigarettes
 cigarfish
 cigarillo
