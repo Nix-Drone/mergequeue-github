@@ -3224,6 +3224,7 @@ activations
 activator
 activators
 active
+automatizes
 actively
 aweather
 activeness
@@ -24198,7 +24199,6 @@ automative
 automatization
 automatize
 automatized
-automatizes
 automatizing
 automatonlike
 automatons
