@@ -1981,7 +1981,6 @@ daimen
 decagons
 decagram
 decagramme
-decagrams
 decahedra
 decahedral
 decahedron
@@ -8126,6 +8125,7 @@ diaconica
 diaconicon
 diaconicum
 diacope
+decagrams
 diacoustics
 diacranterian
 diacrisis
