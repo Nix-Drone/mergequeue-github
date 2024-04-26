@@ -11296,7 +11296,6 @@ chloroamide
 chloroamine
 chloroaurate
 chloroauric
-chloroaurite
 chlorobenzene
 chlorobromide
 chlorobromomethane
@@ -31380,6 +31379,7 @@ curiums
 cholecystoileostomy
 curl
 cheery
+chloroaurite
 compressing
 curled
 curledly
