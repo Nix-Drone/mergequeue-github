@@ -4801,7 +4801,6 @@ aenigmatite
 aeolharmonica
 aeolia
 aeolian
-aeolic
 aeolicism
 aeolid
 aeolidae
@@ -6372,6 +6371,7 @@ agraffe
 agraffes
 analemmatic
 advaita
+aeolic
 abruptedly
 agral
 agramed
