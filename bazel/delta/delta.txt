@@ -11155,6 +11155,7 @@ disbars
 disbase
 disbelief
 disbeliefs
+doctoral
 disbelieved
 disbeliever
 disbelievers
@@ -14692,7 +14693,6 @@ dipteral
 docquet
 docs
 doctor
-doctoral
 doctorally
 dumontite
 doctorate
