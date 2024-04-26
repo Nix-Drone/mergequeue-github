@@ -743,7 +743,6 @@ dancalite
 dopester
 dance
 danceability
-danceable
 danced
 degasification
 danceress
@@ -10933,6 +10932,7 @@ dropvie
 disaffectation
 disaffected
 disaffectedly
+danceable
 disaffectedness
 disaffecting
 disaffectionate
