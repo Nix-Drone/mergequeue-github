@@ -6391,7 +6391,6 @@ benzamide
 benzamido
 benzamine
 benzaminic
-benzamino
 benzanalgen
 benzanilide
 benzanthracene
@@ -6455,6 +6454,7 @@ biozone
 benzofuroquinoxaline
 blindfoldedly
 benzoglycolic
+benzamino
 benzoglyoxaline
 bejesuit
 balancewise
