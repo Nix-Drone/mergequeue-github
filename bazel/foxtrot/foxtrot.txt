@@ -2926,7 +2926,6 @@ fratching
 feudalized
 feudalizing
 feudary
-fantastical
 feudaries
 feudatary
 feudatory
@@ -4822,6 +4821,7 @@ flagstick
 falconers
 flagworm
 flay
+fantastical
 feridji
 flayed
 fault
