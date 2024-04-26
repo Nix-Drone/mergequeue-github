@@ -1711,6 +1711,7 @@ deathrates
 diagrydium
 deaths
 deathsman
+dasyurid
 deathsmen
 depaysee
 deathtime
@@ -5155,7 +5156,6 @@ dendron
 drills
 dendrons
 dendrophagous
-dasyurid
 dendrophil
 dendrophile
 dendrophilous
