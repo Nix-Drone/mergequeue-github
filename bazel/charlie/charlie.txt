@@ -21532,7 +21532,6 @@ concurrency
 concurrencies
 cedent
 concurrently
-concurrentness
 concurring
 concurs
 concursion
@@ -27895,6 +27894,7 @@ cradlesongs
 cradling
 crafted
 crafty
+concurrentness
 colascioni
 craftier
 craftiest
