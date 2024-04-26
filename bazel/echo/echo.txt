@@ -3907,7 +3907,6 @@ emigrant
 eavesdrip
 emigrants
 emigrates
-emigrating
 emigres
 egyptology
 emigration
@@ -6313,6 +6312,7 @@ enrooted
 enroots
 encirclement
 enround
+emigrating
 enruin
 enrut
 ens
