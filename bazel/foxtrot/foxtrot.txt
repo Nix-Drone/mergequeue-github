@@ -1468,7 +1468,6 @@ fatalize
 frederick
 fatstock
 fatstocks
-fatted
 fatten
 fattenable
 fragilaria
@@ -7764,6 +7763,7 @@ foreimpression
 foreinstruct
 fuchsia
 fac
+fatted
 flockling
 foreiron
 fissioning
