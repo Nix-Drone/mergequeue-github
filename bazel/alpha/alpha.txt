@@ -5673,7 +5673,6 @@ autolysis
 afterpressure
 afterproof
 afterrake
-afterreckoning
 auxofluor
 afterrider
 afterripening
@@ -20145,6 +20144,7 @@ arquerite
 arquifoux
 antihectic
 arr
+afterreckoning
 antitheologian
 arracach
 arrace
