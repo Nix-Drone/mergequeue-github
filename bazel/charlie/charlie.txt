@@ -7226,7 +7226,6 @@ centrolinead
 centromere
 centromeric
 centronote
-centronucleus
 centroplasm
 centropomidae
 centropomus
@@ -9574,6 +9573,7 @@ checks
 checkstrap
 checkstring
 checksum
+centronucleus
 construct
 checksummed
 checksumming
