@@ -1666,6 +1666,7 @@ ballota
 balloted
 balloter
 blowsy
+bishopless
 balloting
 barded
 bradyseismal
@@ -9644,7 +9645,6 @@ bishoped
 biborate
 bishopful
 bishophood
-bishopless
 bishoplet
 bishoplike
 barbarianism
