@@ -9605,6 +9605,7 @@ bisector
 bisectors
 bisectrices
 busybodyness
+boundness
 bisects
 bisegment
 bisellium
@@ -13559,7 +13560,6 @@ bouleversement
 bromvogel
 brainsickness
 bellon
-boundness
 botteghe
 bounds
 boundure
