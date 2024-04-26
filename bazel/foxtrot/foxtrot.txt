@@ -1689,6 +1689,7 @@ fazes
 fc
 fchar
 fipenny
+folklores
 fcomp
 farcin
 fcp
@@ -6907,7 +6908,6 @@ folkish
 forepredicament
 folkishness
 folklike
-folklores
 financiery
 flannelmouths
 folkloric
