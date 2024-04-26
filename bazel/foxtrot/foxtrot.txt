@@ -1863,7 +1863,6 @@ febricula
 fore
 fermentology
 febrifacient
-febriferous
 febrific
 figged
 fougue
@@ -5096,6 +5095,7 @@ flatcars
 flated
 flatette
 flatfishes
+febriferous
 flatfoot
 flatfootedly
 flathat
