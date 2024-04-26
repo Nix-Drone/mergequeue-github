@@ -3588,7 +3588,6 @@ bather
 bathers
 bathes
 bathetically
-bathflower
 bathhouse
 bathhouses
 bathyal
@@ -12019,6 +12018,7 @@ boilersmith
 boilerworks
 boily
 boylike
+bathflower
 boilingly
 boilinglike
 bladdernose
