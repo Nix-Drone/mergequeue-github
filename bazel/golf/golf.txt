@@ -2237,7 +2237,6 @@ grainer
 graders
 gazzetta
 gcd
-gconv
 gd
 gdinfo
 gds
@@ -4795,6 +4794,7 @@ gyron
 gironde
 girondin
 gentrice
+gconv
 gironny
 gyronny
 girons
