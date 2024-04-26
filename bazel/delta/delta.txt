@@ -3582,7 +3582,6 @@ defunctionalize
 defunctive
 defused
 defuses
-defusion
 dingles
 dolman
 defuzed
@@ -5090,6 +5089,7 @@ denatured
 denaturing
 denaturisation
 denaturise
+defusion
 denaturised
 duodiode
 diopsidae
