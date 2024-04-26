@@ -8064,7 +8064,6 @@ diabolisation
 diabolise
 diabolised
 diabolising
-draggletail
 diabolist
 diabolization
 diabolize
@@ -10580,6 +10579,7 @@ diplomaed
 diplomaing
 diplomas
 diplomat
+draggletail
 diplomata
 diplomate
 diplomates
