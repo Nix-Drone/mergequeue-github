@@ -554,7 +554,6 @@ backtracks
 backtrail
 backups
 backus
-backveld
 backvelder
 backway
 backwall
@@ -14407,6 +14406,7 @@ brakiest
 braking
 burglarised
 braless
+backveld
 brokership
 bramah
 busway
