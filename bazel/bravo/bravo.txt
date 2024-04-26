@@ -10574,6 +10574,7 @@ bleachers
 bleaches
 bleachfield
 balr
+buckpot
 bleachground
 bedarken
 bleachhouse
@@ -16688,7 +16689,6 @@ boongary
 bucklum
 bucko
 buckone
-buckpot
 buckram
 buckraming
 buckrams
