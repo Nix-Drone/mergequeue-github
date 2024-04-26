@@ -8868,7 +8868,6 @@ chaps
 cholic
 chapstick
 concurbit
-chaptalization
 chaptalize
 chapter
 chapteral
@@ -30316,6 +30315,7 @@ corralling
 crustaceal
 crustacean
 crustaceology
+chaptalization
 crustaceological
 crustaceologist
 crustaceorubrin
