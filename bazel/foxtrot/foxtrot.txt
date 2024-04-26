@@ -2943,7 +2943,6 @@ feuding
 feudists
 feudovassalism
 format
-feuds
 flagonless
 furazane
 formularism
@@ -5027,6 +5026,7 @@ flareboard
 flared
 frithborh
 flareless
+feuds
 fermentarian
 flarer
 flimsilyst

@@ -5097,7 +5097,6 @@ denaturization
 denaturize
 denaturizer
 denaturizing
-denazify
 denazifies
 denazifying
 dendra
@@ -8044,6 +8043,7 @@ diabetical
 diabetometer
 demineralize
 diverticulum
+denazify
 deathwatch
 diablery
 diablerie
