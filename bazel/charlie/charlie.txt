@@ -2675,7 +2675,6 @@ canoed
 canoeist
 canoeists
 canoeload
-canoeman
 canoes
 canoewood
 crescendi
@@ -4014,6 +4013,7 @@ cardinalitian
 cubed
 cardinalities
 cardinally
+canoeman
 cardinalship
 carding
 cyrenian
