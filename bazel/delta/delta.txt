@@ -2563,7 +2563,6 @@ deco
 decoagulated
 dorms
 decoagulation
-decoat
 downsinking
 decocainize
 decoct
@@ -18276,6 +18275,7 @@ dunst
 dunstable
 digressing
 dunster
+decoat
 dithyrambs
 dunstone
 dunt
