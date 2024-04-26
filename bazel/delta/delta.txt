@@ -4349,7 +4349,6 @@ deluge
 deluged
 deluges
 deluging
-delumbate
 deluminize
 delusion
 delusional
@@ -8219,6 +8218,7 @@ dele
 diagonal
 diagonalizable
 diagonalization
+delumbate
 diagonalize
 disinteresting
 diagnosing
