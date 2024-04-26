@@ -2921,6 +2921,7 @@ damaskin
 decwriter
 deltoid
 dedal
+descriptors
 durn
 dedanite
 demigoddessship
@@ -11091,7 +11092,6 @@ dourade
 disassembled
 disassembler
 disassembles
-descriptors
 disassembling
 disassent
 disassiduity
