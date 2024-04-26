@@ -7865,7 +7865,6 @@ foreparts
 forepass
 floran
 forepast
-feedstuffs
 foliously
 forepaw
 forepaws
@@ -8496,6 +8495,7 @@ fluid
 faultless
 fluencies
 formolite
+feedstuffs
 forewarned
 formols
 formonitrile
