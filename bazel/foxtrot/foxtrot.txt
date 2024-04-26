@@ -4800,7 +4800,6 @@ flagpole
 faunula
 figurehead
 flagpoles
-flagrance
 flagrancy
 filiform
 flagrate
@@ -8761,6 +8760,7 @@ foreordains
 fortresses
 furloughs
 furors
+flagrance
 fortuity
 fortuitism
 forgiver
