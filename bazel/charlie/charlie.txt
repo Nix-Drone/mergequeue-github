@@ -2393,7 +2393,6 @@ candytuft
 candyweed
 candle
 coehorn
-candleball
 caripeta
 candleberry
 candleberries
@@ -25356,6 +25355,7 @@ cornhusks
 corny
 cornic
 cornice
+candleball
 corniced
 cornices
 collaud
