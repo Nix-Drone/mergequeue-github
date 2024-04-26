@@ -392,7 +392,6 @@ fieldfight
 faqirs
 firmisternial
 faintly
-faintling
 faints
 faipule
 fair
@@ -3357,6 +3356,7 @@ fiducinales
 fied
 fiedlerite
 firstlings
+faintling
 fief
 foredeem
 fiefs
