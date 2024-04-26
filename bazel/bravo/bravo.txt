@@ -11891,7 +11891,6 @@ boggle
 blastemas
 bogglebo
 boggled
-boggler
 bogglers
 boggles
 boggling
@@ -12078,6 +12077,7 @@ boldest
 boldface
 bostrychoid
 boldfaced
+boggler
 boldfacedly
 bridler
 boldfacedness
