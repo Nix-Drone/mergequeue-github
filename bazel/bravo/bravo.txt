@@ -11618,6 +11618,7 @@ boatmaster
 boatmen
 blesbok
 boatowner
+bonebinder
 boats
 boatshop
 boatsman
@@ -12424,7 +12425,6 @@ bonducs
 bondwoman
 bondwomen
 bone
-bonebinder
 boneblack
 bonebreaker
 boned
