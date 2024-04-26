@@ -5228,7 +5228,6 @@ afetal
 affa
 affability
 affable
-affabrous
 affair
 affaire
 affaires
@@ -15501,6 +15500,7 @@ antepagments
 antimartyr
 antimask
 antimasker
+affabrous
 alar
 antimasks
 antimason
