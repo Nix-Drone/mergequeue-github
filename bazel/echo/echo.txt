@@ -1304,7 +1304,6 @@ eelpouts
 emblemology
 eelshop
 eelskin
-eelware
 eelworm
 estragon
 een
@@ -9456,6 +9455,7 @@ esbatement
 enlock
 esc
 esca
+eelware
 escalade
 emotionally
 effecter
