@@ -15649,7 +15649,6 @@ classmen
 classroom
 classrooms
 classwise
-classwork
 clastic
 clastics
 clat
@@ -25023,6 +25022,7 @@ coreciprocal
 corectome
 cored
 coredeem
+classwork
 coredeemed
 coredeemer
 chlorargyrite
