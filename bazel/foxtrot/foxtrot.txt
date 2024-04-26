@@ -4213,6 +4213,7 @@ fireplace
 fireplaces
 fireplow
 fleeceable
+forstand
 fireplug
 frieze
 fireplugs
@@ -9014,7 +9015,6 @@ flout
 fibrinogenic
 fountainlike
 filicite
-forstand
 fountainous
 feaze
 fountainously
