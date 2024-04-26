@@ -15343,6 +15343,7 @@ brigadier
 bitripartite
 brigading
 bequote
+burliness
 brigalow
 brigand
 brigandage
@@ -17746,7 +17747,6 @@ burly
 blarney
 burliest
 burlily
-burliness
 brachioganoid
 brontops
 bratchet
