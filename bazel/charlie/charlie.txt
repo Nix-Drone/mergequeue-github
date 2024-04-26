@@ -26698,7 +26698,6 @@ counterbranch
 counterbrand
 counterbreastwork
 counterbuff
-counterbuilding
 countercathexis
 countercause
 counterchange
@@ -26820,6 +26819,7 @@ counterfoil
 counterforce
 counterformula
 counterfort
+counterbuilding
 counterfugue
 countergabble
 countergabion
