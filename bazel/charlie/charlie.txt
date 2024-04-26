@@ -2677,7 +2677,6 @@ canoeists
 canoeload
 canoeman
 canoes
-canoewood
 crescendi
 cuprammonium
 canoing
@@ -10355,6 +10354,7 @@ chickhood
 chickies
 chickling
 chickory
+canoewood
 coprosterol
 chickories
 chickpea
