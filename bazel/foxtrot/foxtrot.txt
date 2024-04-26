@@ -6942,7 +6942,6 @@ folksong
 folksongs
 folktales
 folkvangr
-foll
 foller
 folles
 formalisation
@@ -10616,6 +10615,7 @@ feuar
 frubbish
 flamboyant
 florican
+foll
 fruchtschiefer
 fenlander
 feodaries
