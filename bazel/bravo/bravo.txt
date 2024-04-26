@@ -2848,7 +2848,6 @@ blackbush
 barons
 briggs
 baronship
-baroque
 bureaus
 baroquely
 barites
@@ -12007,6 +12006,7 @@ bromocresol
 boildown
 boiled
 boiler
+baroque
 boilerful
 boilerless
 boilermaker
