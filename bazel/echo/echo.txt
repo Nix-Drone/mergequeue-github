@@ -6290,6 +6290,7 @@ eli
 enrol
 enfeebled
 enroll
+epitapher
 enrolle
 enrolled
 enrollee
@@ -8307,7 +8308,6 @@ epistropheus
 epit
 epitactic
 epitaph
-epitapher
 epitaphian
 electrostatics
 epitaphist
