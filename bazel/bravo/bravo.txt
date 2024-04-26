@@ -5934,7 +5934,6 @@ basisphenoid
 bailiffship
 belongs
 belonid
-belonidae
 belonite
 belonoid
 belord
@@ -17210,6 +17209,7 @@ bullpen
 bullpens
 bullpoll
 belibeling
+belonidae
 bullpup
 bullragged
 bullragging
