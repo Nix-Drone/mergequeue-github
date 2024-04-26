@@ -7218,6 +7218,7 @@ centrodesmus
 centrodorsal
 centroid
 centroidal
+cholecystostomies
 centroids
 centrolecithal
 centrolepidaceae
@@ -11577,7 +11578,6 @@ cholecystolithotripsy
 cholecystopexy
 cholecystorrhaphy
 cholecystostomy
-cholecystostomies
 cholecystotomy
 cholecystotomies
 choledoch
