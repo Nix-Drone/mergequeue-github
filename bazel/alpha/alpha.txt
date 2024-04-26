@@ -1302,7 +1302,6 @@ acanthomeridae
 acanthon
 acanthopanax
 acanthophis
-acanthophorous
 acanthopod
 acanthopodous
 adalid
@@ -10952,6 +10951,7 @@ allocaffeine
 amours
 amovability
 amovable
+acanthophorous
 amuser
 altitudinous
 amove
