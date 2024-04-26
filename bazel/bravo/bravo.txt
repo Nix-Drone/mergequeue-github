@@ -5590,7 +5590,6 @@ beknotted
 beknottedly
 blase
 beknotting
-beknow
 bel
 bela
 belabor
@@ -6393,6 +6392,7 @@ benzamine
 benzaminic
 benzamino
 benzanalgen
+beknow
 benzanilide
 benzanthracene
 bibs
