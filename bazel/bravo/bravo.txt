@@ -4854,7 +4854,6 @@ bedsprings
 bolivars
 bedstand
 bedstead
-brazenface
 baikerinite
 beshrouded
 bedstraw
@@ -10832,6 +10831,7 @@ bindable
 blindcat
 bevue
 blindedly
+brazenface
 beeyard
 blindeyes
 blinder
