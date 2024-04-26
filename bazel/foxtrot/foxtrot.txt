@@ -5836,7 +5836,6 @@ fastigia
 fname
 floccillation
 floccipend
-freeloader
 forcipressure
 floccose
 floccosely
@@ -10144,6 +10143,7 @@ fluoresage
 frisado
 frisbee
 frisca
+freeloader
 friscal
 frisch
 flatfish
