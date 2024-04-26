@@ -2260,6 +2260,7 @@ gearcases
 gearman
 gears
 guernseys
+gringole
 gearset
 gearshift
 gearshifts
@@ -9087,7 +9088,6 @@ grindings
 grindstone
 grisounite
 grindstones
-gringole
 grinned
 galilei
 grinner
