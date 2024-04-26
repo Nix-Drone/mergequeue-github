@@ -1038,7 +1038,6 @@ darlings
 darlingtonia
 darn
 darndest
-darned
 darneder
 darnels
 darner
@@ -3935,6 +3934,7 @@ dekalitre
 dekameter
 dekameters
 debutante
+darned
 decumani
 dekaparsec
 dactylioglyphy
