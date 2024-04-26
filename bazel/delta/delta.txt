@@ -2472,7 +2472,6 @@ deckhand
 deckhead
 deckhouse
 deckle
-deckman
 deckpipe
 decks
 dulls
@@ -17304,6 +17303,7 @@ drollingly
 drollish
 drollishness
 drollist
+deckman
 drollness
 duskiness
 drolls
