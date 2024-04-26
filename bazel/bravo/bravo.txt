@@ -2011,6 +2011,7 @@ bandster
 ballroom
 bandstop
 bandstring
+brushability
 bandura
 bandurria
 bandurrias
@@ -16379,7 +16380,6 @@ brunt
 brunts
 bruscha
 brush
-brushability
 brushable
 brushback
 brushbird
