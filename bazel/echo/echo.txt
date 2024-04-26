@@ -6756,7 +6756,6 @@ entertake
 encaging
 entertissue
 emetine
-entete
 enthalpy
 enthalpies
 enthean
@@ -12314,6 +12313,7 @@ exede
 epipsychidion
 exegeses
 exegesis
+entete
 exegesist
 exegete
 exegetic
