@@ -3883,7 +3883,6 @@ extrabulbar
 emetomorphine
 emeu
 engladden
-emf
 emulator
 emforth
 emic
@@ -8585,6 +8584,7 @@ equation
 equational
 equationally
 extraviolet
+emf
 equationist
 essentia
 emperies

@@ -1623,7 +1623,6 @@ allez
 accommodators
 accomodate
 accompanable
-arrivage
 accompanier
 australorp
 accompanies
@@ -2989,6 +2988,7 @@ acropoleis
 acropolis
 acropolitan
 acropore
+arrivage
 acrorrheuma
 acroscleriasis
 acrose
