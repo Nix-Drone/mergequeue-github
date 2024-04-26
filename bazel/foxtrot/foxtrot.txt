@@ -1347,7 +1347,6 @@ fastnesses
 feed
 frogskins
 fasts
-fastuous
 fastuousness
 fastwalk
 fat
@@ -4934,6 +4933,7 @@ flammable
 filmogen
 floorers
 filefish
+fastuous
 flammation
 flammed
 fountains
