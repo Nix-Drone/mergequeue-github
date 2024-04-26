@@ -2070,7 +2070,6 @@ banilad
 baning
 banyoro
 banish
-banished
 banisher
 banishing
 banishment
@@ -12697,6 +12696,7 @@ bookroom
 bookseller
 berendo
 becloaked
+banished
 booksellerish
 boce
 barmkin
