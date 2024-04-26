@@ -4446,6 +4446,7 @@ formatting
 fissility
 formatter
 fission
+frutex
 fissionable
 fissioned
 frays
@@ -10779,7 +10780,6 @@ frustulent
 frustules
 frustum
 frutescent
-frutex
 fruticeous
 frutices
 fruticeta
