@@ -5991,6 +5991,7 @@ deprivals
 deprivate
 deprivation
 deprive
+doorstops
 deprived
 deprivement
 depriver
@@ -9762,7 +9763,6 @@ dooryard
 dillyman
 dillymen
 dilling
-doorstops
 dillis
 dillisk
 dills
