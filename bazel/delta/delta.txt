@@ -350,7 +350,6 @@ daybreaks
 daibutsu
 desand
 dynamoscope
-daydawn
 daidly
 daidlie
 daydream
@@ -15615,6 +15614,7 @@ doormats
 doormen
 doornails
 doornboom
+daydawn
 doorpiece
 doorpost
 doorposts
