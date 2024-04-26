@@ -10401,6 +10401,7 @@ effacer
 ethmopalatal
 ethmopalatine
 ethmophysal
+expounders
 ethmopresphenoidal
 ethmose
 ethmosphenoid
@@ -13333,7 +13334,6 @@ exposures
 expound
 expoundable
 expounder
-expounders
 empocket
 expounds
 enthrong
