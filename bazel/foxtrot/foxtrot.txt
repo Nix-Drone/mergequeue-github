@@ -1020,7 +1020,6 @@ fares
 flaneries
 faretta
 farewell
-farewelled
 fuchsin
 farfal
 forebroads
@@ -6201,6 +6200,7 @@ fieldmen
 flub
 flubbed
 flubbing
+farewelled
 flubdub
 foreread
 fairgoing
