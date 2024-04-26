@@ -2324,6 +2324,7 @@ databases
 decertify
 decertificaton
 decertified
+demobilised
 distances
 decess
 decession
@@ -12805,7 +12806,6 @@ drawspan
 disobeyers
 disobeying
 disobligation
-demobilised
 disobligatory
 disoblige
 disobliged
