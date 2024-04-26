@@ -10299,7 +10299,6 @@ blanca
 blancard
 blanch
 blanche
-blanched
 blancher
 blanchers
 blanches
@@ -14624,6 +14623,7 @@ brassily
 brassiness
 brassish
 brasslike
+blanched
 brassware
 brasswork
 brassworker
