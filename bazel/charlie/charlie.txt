@@ -24661,7 +24661,6 @@ coppersidesman
 copperskin
 ciderist
 coppersmith
-collock
 coppersmithing
 copperware
 copperwing
@@ -27048,6 +27047,7 @@ countersalient
 contractional
 countersank
 counterscale
+collock
 cooser
 counterscalloped
 counterscarp
