@@ -6744,7 +6744,6 @@ entertainable
 entertained
 enquires
 entertainer
-entertainers
 emotionalization
 entertaining
 entertainingly
@@ -7622,6 +7621,7 @@ epicentral
 eaux
 epicentrum
 eozoic
+entertainers
 existences
 exr
 eructing
