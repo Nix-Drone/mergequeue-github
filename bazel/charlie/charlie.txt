@@ -17153,7 +17153,6 @@ coaler
 coalers
 coalesce
 coalescence
-cellarless
 coalescency
 coalescent
 coalesces
@@ -17871,6 +17870,7 @@ coelacanthidae
 chorionepithelioma
 coelacanthine
 coelacanthini
+cellarless
 coelacanthoid
 coelacanthous
 coelanaglyphic
