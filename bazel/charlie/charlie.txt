@@ -2692,7 +2692,6 @@ canonical
 cortically
 canonicalization
 canonicalize
-canonicalized
 canonicalizes
 canonicalizing
 circumventive
@@ -30119,6 +30118,7 @@ crucian
 crucianella
 crucians
 cruciate
+canonicalized
 cruciated
 cruciately
 cruciating
