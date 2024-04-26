@@ -4793,7 +4793,6 @@ gonake
 gra
 gyron
 gironde
-girondin
 gentrice
 gironny
 gyronny
@@ -6325,6 +6324,7 @@ gnomoniaceae
 gnomonology
 gnomonological
 germanious
+girondin
 gnosiology
 gnosiological
 gnosis
