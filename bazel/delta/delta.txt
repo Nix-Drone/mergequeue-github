@@ -6847,7 +6847,6 @@ dichromasy
 desoxyanisoin
 desoxycorticosterone
 desoxyephedrine
-desoxymorphine
 desoxyribonucleic
 desoxyribonucleoprotein
 desoxyribose
@@ -9279,6 +9278,7 @@ dtset
 dietotherapeutics
 dietotherapy
 dietotoxic
+desoxymorphine
 dietrichite
 diets
 duvetine
