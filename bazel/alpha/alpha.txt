@@ -5013,6 +5013,7 @@ aeromancy
 aeromechanic
 aeromechanics
 aeromedical
+analyzation
 aeromedicine
 aerometeorograph
 aerometer
@@ -11741,7 +11742,6 @@ antinational
 analytique
 analyzability
 analyzable
-analyzation
 analyze
 analyzed
 analyzers
