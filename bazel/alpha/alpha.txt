@@ -10988,7 +10988,6 @@ amperages
 ampere
 amperemeter
 amperes
-ampery
 amperian
 amperometer
 aciduria
@@ -11687,6 +11686,7 @@ anaktoron
 anal
 analabos
 analagous
+ampery
 analav
 analcimes
 adenophyllous
