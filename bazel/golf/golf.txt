@@ -2241,7 +2241,6 @@ gconv
 gd
 gdinfo
 gds
-grayfish
 globously
 ge
 gorrel
@@ -6284,6 +6283,7 @@ gnatter
 gnatworm
 gigantize
 genitives
+grayfish
 geochronometric
 gymnogenous
 gnawer
