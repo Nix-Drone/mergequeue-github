@@ -9764,7 +9764,6 @@ chekmak
 chela
 chelatable
 chelate
-chelated
 chelates
 chelating
 chelation
@@ -10285,6 +10284,7 @@ chicadee
 compleated
 chicago
 chicagoan
+chelated
 chicagoans
 chicayote
 chicalote
