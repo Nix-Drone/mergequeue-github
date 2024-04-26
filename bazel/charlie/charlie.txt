@@ -12617,7 +12617,6 @@ chronomantic
 committed
 chronomastix
 chronometer
-chronometers
 chronometry
 corin
 chronometric
@@ -19053,6 +19052,7 @@ collimation
 collimator
 collimators
 collin
+chronometers
 colline
 collinearity
 collineation
