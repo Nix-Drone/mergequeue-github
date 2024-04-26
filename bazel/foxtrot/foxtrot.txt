@@ -3613,7 +3613,6 @@ filemark
 filemot
 foreknee
 filename
-filenames
 filer
 fanons
 filers
@@ -5398,6 +5397,7 @@ fleers
 fulmarus
 figurativeness
 fretsome
+filenames
 fleeter
 fleetest
 fleeting
