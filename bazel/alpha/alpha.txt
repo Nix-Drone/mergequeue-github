@@ -5070,7 +5070,6 @@ aeroplankton
 aeropleustic
 aeroscepsy
 aurum
-aeroscepsis
 aeroscope
 aeroscopy
 aeroscopically
@@ -6250,6 +6249,7 @@ agnathous
 advenient
 agnatic
 agnatical
+aeroscepsis
 agnation
 azotised
 alcoholized
