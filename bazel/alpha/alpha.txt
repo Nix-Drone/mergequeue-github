@@ -1694,7 +1694,6 @@ accountant
 accountants
 accountantship
 accounted
-accounter
 accounters
 accounting
 accountment
@@ -11869,6 +11868,7 @@ amidols
 anaphasic
 anaphe
 anaphylactic
+accounter
 ancille
 anaphylactically
 anaphylactin
