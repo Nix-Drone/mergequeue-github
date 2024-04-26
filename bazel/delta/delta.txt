@@ -8216,6 +8216,7 @@ diagometer
 demove
 derogations
 dele
+dubiousness
 diagonal
 diagonalizable
 diagonalization
@@ -17736,7 +17737,6 @@ dubiosity
 dubious
 dubiously
 densitometers
-dubiousness
 dubitable
 dubitably
 dubitancy
