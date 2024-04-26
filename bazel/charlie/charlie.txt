@@ -6736,7 +6736,6 @@ capless
 contangos
 celioschisis
 celioscope
-celioscopy
 celiotomy
 cell
 cella
@@ -21319,6 +21318,7 @@ conchs
 conchubar
 coplots
 conchuela
+celioscopy
 conciator
 concyclic
 concyclically
