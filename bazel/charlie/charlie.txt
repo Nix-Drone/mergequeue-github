@@ -547,7 +547,6 @@ cados
 cadouk
 cadrans
 cadre
-cadres
 cads
 cadua
 cultures
@@ -3510,6 +3509,7 @@ carack
 caracks
 caracoa
 caracol
+cadres
 caracoled
 caracoler
 caracoles
