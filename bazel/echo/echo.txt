@@ -8719,7 +8719,6 @@ easting
 equiperiodic
 expander
 equipluve
-equipment
 equipments
 equipoised
 equipoising
@@ -9902,6 +9901,7 @@ essoinee
 essoining
 essoinment
 essoins
+equipment
 essonites
 epizoisms
 essorant
