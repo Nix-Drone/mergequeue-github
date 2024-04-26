@@ -2411,7 +2411,6 @@ fourchet
 feres
 feretory
 firearmed
-feretories
 fiques
 frontes
 ferfel
@@ -6651,6 +6650,7 @@ focalization
 focalizes
 focaloid
 fixtures
+feretories
 focimeter
 focimetry
 fockle
