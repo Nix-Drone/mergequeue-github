@@ -7221,7 +7221,6 @@ envois
 envoys
 envoyship
 envolume
-envolupen
 electrorefining
 enwall
 enwallow
@@ -11371,6 +11370,7 @@ evaporators
 engrain
 evaporimeter
 evaporite
+envolupen
 erythrolitmin
 evaporitic
 exhibitive
