@@ -8713,7 +8713,6 @@ diatomicity
 diatomin
 diatomine
 diatomist
-diatomous
 diatoms
 diatonic
 diatonical
@@ -9612,6 +9611,7 @@ dosshouse
 dolcissimo
 delative
 diiambus
+diatomous
 dying
 diiodide
 diiodoform
