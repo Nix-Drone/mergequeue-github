@@ -3912,7 +3912,6 @@ ganglionectomy
 gynandromorphous
 graphospasm
 giblet
-giblets
 giboia
 goyle
 glave
@@ -4758,6 +4757,7 @@ gyroceran
 gallery
 guildsman
 golliwogg
+giblets
 gorkhali
 gyrocompasses
 glassblowers
