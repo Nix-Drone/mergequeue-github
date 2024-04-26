@@ -20512,7 +20512,6 @@ arteriopathy
 arterioplania
 arterioplasty
 arteriopressor
-arteriorrhagia
 arteriorrhaphy
 arteriorrhexis
 arteriosclerosis
@@ -24500,6 +24499,7 @@ abasio
 apx
 auxanogram
 auxanometer
+arteriorrhagia
 auxeses
 auxesis
 auxetic
