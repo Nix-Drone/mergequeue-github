@@ -3388,7 +3388,6 @@ flosculose
 fieldstrip
 feaking
 fieldwork
-fieldworker
 forcipal
 fieldwort
 frolicness
@@ -11143,6 +11142,7 @@ functionize
 fract
 functionlessness
 functionnaire
+fieldworker
 fumosity
 functions
 functor
