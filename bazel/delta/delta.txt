@@ -6036,7 +6036,6 @@ depurative
 depurator
 depuratory
 depure
-depurge
 depurged
 depurging
 depurition
@@ -17211,6 +17210,7 @@ dey
 dripple
 damans
 diselectrify
+depurge
 dovey
 drips
 dripstone
