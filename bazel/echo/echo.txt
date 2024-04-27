@@ -3785,6 +3785,7 @@ epanaleptic
 embussing
 emcee
 emceed
+enfile
 ecotone
 emceeing
 emcees
@@ -11749,7 +11750,6 @@ exalbuminose
 exalbuminous
 exallotriote
 exalt
-enfile
 elfins
 exaltate
 exaltation
