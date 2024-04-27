@@ -4711,7 +4711,6 @@ bedframes
 bedgoer
 bedgowns
 bediademed
-bediamonded
 bediaper
 bediapered
 bediapering
@@ -13372,6 +13371,7 @@ bottekin
 botticelli
 bottle
 bottlebird
+bediamonded
 baryons
 bottlebrush
 bottled
