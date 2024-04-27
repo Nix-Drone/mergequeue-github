@@ -289,7 +289,6 @@ abduct
 abducted
 abducting
 abduction
-abductions
 ampullar
 abductor
 abducts
@@ -6515,6 +6514,7 @@ agrostographical
 algesthesis
 antivenom
 agrostology
+abductions
 agrostologic
 alnascharism
 agrostologist
