@@ -2395,7 +2395,6 @@ electrodes
 electrodesiccation
 electrodiagnosis
 entoblast
-electrodiagnostic
 electrodiagnostically
 excreation
 eskar
@@ -4327,6 +4326,7 @@ emunctory
 electroencephalographic
 enlay
 emunctories
+electrodiagnostic
 emundation
 emunge
 endowed
