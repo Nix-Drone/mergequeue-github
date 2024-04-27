@@ -342,6 +342,7 @@ backet
 backfatter
 backfield
 bangala
+bowbent
 backfields
 backfiller
 backfilling
@@ -13711,7 +13712,6 @@ bow
 bowable
 bowback
 bowbells
-bowbent
 bowboy
 bowden
 bowdichia
