@@ -557,7 +557,6 @@ backus
 backveld
 backvelder
 backway
-backwall
 bewhite
 backward
 backwardation
@@ -12659,6 +12658,7 @@ bistouries
 booklet
 booklets
 broomy
+backwall
 booklift
 booklike
 bookling
