@@ -20594,7 +20594,6 @@ competitrix
 compilable
 compilation
 compilations
-compilator
 compileable
 compiled
 compilement
@@ -25170,6 +25169,7 @@ corynebacterial
 coreless
 corynebacterium
 coryneform
+compilator
 corineus
 coring
 corynid
