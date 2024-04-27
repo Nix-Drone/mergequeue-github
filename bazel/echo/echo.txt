@@ -1396,7 +1396,6 @@ efferents
 efferous
 extraocular
 effervesced
-effervescence
 effervescency
 effervescent
 effervescently
@@ -6303,6 +6302,7 @@ enroller
 enrollers
 equidense
 exoterics
+effervescence
 enrollment
 enrollments
 earnful
