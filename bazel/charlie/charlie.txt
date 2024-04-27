@@ -3181,7 +3181,6 @@ curs
 capitulated
 capitulates
 capitulator
-capituliform
 capitulum
 capiturlary
 capivi
@@ -4030,6 +4029,7 @@ cardioclasis
 cothe
 cardiod
 cardiodilator
+capituliform
 cardiodynia
 cardiodysneuria
 cardiogenesis
