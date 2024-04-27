@@ -5605,7 +5605,6 @@ enfolds
 enfollow
 enfoncee
 ephemerae
-enforceability
 enforced
 enforcement
 extranatural
@@ -11179,6 +11178,7 @@ eustathian
 eustatic
 eustatically
 eustele
+enforceability
 extradural
 eusteles
 expiate
