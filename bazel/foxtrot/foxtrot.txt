@@ -2380,6 +2380,7 @@ flippest
 fenzelia
 feod
 feodatory
+filesmith
 falconer
 fehmic
 feoff
@@ -3619,7 +3620,6 @@ fanons
 filers
 files
 frailly
-filesmith
 filesniff
 flagships
 filespec
