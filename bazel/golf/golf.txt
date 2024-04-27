@@ -795,7 +795,6 @@ galvanization
 galvanized
 grigri
 gugglet
-galvanizer
 galvanizers
 gujar
 galvanizes
@@ -6966,6 +6965,7 @@ gooders
 gonidium
 goodheartedness
 goodhumoredness
+galvanizer
 goody
 goodie
 goodyear
