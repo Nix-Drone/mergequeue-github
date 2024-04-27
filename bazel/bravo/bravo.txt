@@ -5142,6 +5142,7 @@ beflour
 busti
 beflower
 beflowered
+bounciness
 biotas
 beflowering
 beflum
@@ -13539,7 +13540,6 @@ bouncier
 bounciest
 bouncily
 belatedly
-bounciness
 bouncingly
 boundable
 boundary
