@@ -11101,7 +11101,6 @@ chittack
 chittamwood
 chitted
 chitter
-chitterling
 chitterlings
 chitters
 chitty
@@ -16717,6 +16716,7 @@ clothing
 clothings
 clothlike
 clothmaker
+chitterling
 catharpin
 cloths
 clothworker

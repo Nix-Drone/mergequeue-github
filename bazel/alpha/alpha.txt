@@ -836,7 +836,6 @@ anisotropical
 abridgement
 abridgements
 abridger
-abridgers
 abridges
 abridging
 aphidian
@@ -1830,6 +1829,7 @@ accusation
 accusations
 accusative
 accusatively
+abridgers
 accusativeness
 accusatives
 accusator
