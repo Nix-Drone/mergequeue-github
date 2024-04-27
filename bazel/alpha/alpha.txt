@@ -267,7 +267,6 @@ abdominals
 abdominoanterior
 abdominocardiac
 abdominocentesis
-abdominocystic
 abdominogenital
 affiant
 abdominohysterotomy
@@ -1727,6 +1726,7 @@ accredited
 accreditee
 animal
 accrediting
+abdominocystic
 accreditment
 accredits
 accrementitial
