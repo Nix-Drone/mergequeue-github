@@ -20205,7 +20205,6 @@ common
 commonable
 commonage
 commonality
-commonalities
 commonalty
 chugs
 commonalties
@@ -24812,6 +24811,7 @@ coraciiformes
 coracine
 coracle
 coracler
+commonalities
 coracles
 coracoacromial
 coracobrachial
