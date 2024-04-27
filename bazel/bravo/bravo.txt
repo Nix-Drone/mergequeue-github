@@ -1596,7 +1596,6 @@ ballgame
 ballgames
 ballgowns
 ballhausplatz
-ballhawk
 ballhawks
 ballhooter
 balli
@@ -2962,6 +2961,7 @@ barrelhead
 barrelhouse
 barrelhouses
 besmearer
+ballhawk
 barreling
 broad
 barrelled
