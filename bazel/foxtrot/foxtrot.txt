@@ -1088,7 +1088,6 @@ farmhouse
 feronia
 farmhousey
 fontinalaceae
-fuzzle
 farmy
 farmyard
 fructuary
@@ -10425,6 +10424,7 @@ farmyards
 fertilizing
 fictor
 fewmets
+fuzzle
 flowerfence
 finely
 fenestrule
