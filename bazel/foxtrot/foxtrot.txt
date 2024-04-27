@@ -7546,6 +7546,7 @@ forebowline
 farceur
 flaveria
 forebrace
+fortifiers
 forebreast
 futharcs
 foreburton
@@ -8725,7 +8726,6 @@ fortify
 fortifications
 fortifier
 florets
-fortifiers
 fortifies
 fafnir
 fortifying
