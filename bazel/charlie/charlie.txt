@@ -19901,6 +19901,7 @@ command
 commandable
 conveyable
 commandant
+coning
 commandatory
 commanded
 commandedness
@@ -22405,7 +22406,6 @@ chic
 conine
 calends
 conines
-coning
 conynge
 cosiest
 coninidia
