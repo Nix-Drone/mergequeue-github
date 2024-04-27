@@ -478,7 +478,6 @@ apimania
 abyssinia
 abyssinian
 abyssobenthonic
-abyssolith
 abyssopelagic
 abyssus
 abit
@@ -8933,6 +8932,7 @@ atheous
 allothigene
 allothigenetic
 allegorization
+abyssolith
 allothigenetically
 allothigenic
 allothigenous
