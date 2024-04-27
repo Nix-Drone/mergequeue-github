@@ -5022,6 +5022,7 @@ cascades
 cascadia
 cascadian
 cascading
+cryptolite
 cascadite
 cascalho
 cascalote
@@ -29287,7 +29288,6 @@ cryptographical
 cryptographist
 cryptoheresy
 cryptoheretic
-cryptolite
 cryptolith
 cryptology
 cryptological
