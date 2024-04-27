@@ -2797,7 +2797,6 @@ barolo
 bonneting
 barology
 barolong
-baromacrometer
 barometer
 boroughship
 barometry
@@ -5285,6 +5284,7 @@ begiggle
 begild
 bangster
 beginger
+baromacrometer
 beginner
 beginning
 beginnings
