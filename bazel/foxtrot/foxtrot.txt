@@ -4311,7 +4311,6 @@ firoloida
 flammability
 facia
 furlongs
-first
 fylker
 forbearer
 freestone
@@ -9791,6 +9790,7 @@ freyalite
 freibergite
 freycinetia
 fusc
+first
 fulgorous
 freieslebenite
 freiezlebenhe
