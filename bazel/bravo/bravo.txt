@@ -10926,7 +10926,6 @@ blithesomely
 bkgd
 beldam
 blithest
-blitter
 blitum
 blitz
 blitzbuggy
@@ -16118,6 +16117,7 @@ broombush
 broomcorn
 broomed
 broomer
+blitter
 bezzant
 betrough
 bugproof
