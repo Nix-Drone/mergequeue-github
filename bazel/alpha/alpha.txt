@@ -2591,7 +2591,6 @@ acolyte
 attaboy
 amoebicidal
 acolytes
-acolyth
 acolythate
 acolytus
 acology
@@ -24545,6 +24544,7 @@ avahi
 aurocyanide
 avail
 availabile
+acolyth
 availability
 agitationist
 availabilities
