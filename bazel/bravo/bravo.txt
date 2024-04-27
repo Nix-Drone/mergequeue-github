@@ -8253,7 +8253,6 @@ boosters
 byepath
 bier
 broid
-bierbalk
 blest
 byerite
 bierkeller
@@ -11238,6 +11237,7 @@ borating
 bristling
 blowfly
 blowflies
+bierbalk
 blowgun
 blowguns
 blowhard
