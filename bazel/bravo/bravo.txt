@@ -2099,7 +2099,6 @@ bankcard
 blossomhead
 bankcards
 banked
-banker
 bankerdom
 bankeress
 bacteriophobia
@@ -6626,6 +6625,7 @@ binoculate
 borickite
 berberi
 berbery
+banker
 berberia
 berberian
 berberid
