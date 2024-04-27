@@ -1226,7 +1226,6 @@ calibrated
 canichana
 calibrater
 calibrates
-calibrating
 calibrations
 calibre
 calibred
@@ -11228,6 +11227,7 @@ chlore
 chlored
 chlorella
 chlorellaceous
+calibrating
 chloremia
 chloremic
 chlorenchyma
