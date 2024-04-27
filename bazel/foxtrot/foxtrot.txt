@@ -4450,7 +4450,6 @@ fissionable
 fissioned
 frays
 fissions
-fissipalmation
 floorboards
 fissiparism
 fauces
@@ -10819,6 +10818,7 @@ fucate
 fucation
 fucatious
 fuchi
+fissipalmation
 fuchsian
 floundered
 faciendum
