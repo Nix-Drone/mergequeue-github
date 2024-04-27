@@ -12327,7 +12327,6 @@ disheritor
 disherits
 dishes
 dwellers
-disposable
 disheveled
 dishevelled
 dishevelling
@@ -17568,6 +17567,7 @@ druidical
 decolorise
 druidisms
 desalinized
+disposable
 druidology
 druidry
 druids
