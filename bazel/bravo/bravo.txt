@@ -3180,7 +3180,6 @@ brember
 bases
 bardish
 basest
-bash
 bashalick
 bashara
 bashaw
@@ -5793,6 +5792,7 @@ belleric
 bellerophon
 bellerophontidae
 belleter
+bash
 belletrist
 belletristic
 belletrists
