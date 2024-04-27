@@ -15464,7 +15464,6 @@ antilocapra
 antilochus
 anaglypton
 antiloemic
-antilog
 antilogarithmic
 antilogy
 antilogic
@@ -17309,6 +17308,7 @@ apolusis
 amoebiasis
 arcs
 apomecometer
+antilog
 apomecometry
 apometabolic
 apomict
