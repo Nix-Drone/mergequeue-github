@@ -5239,7 +5239,6 @@ bestrows
 begattal
 bastes
 begaud
-begaudy
 bobbled
 begaze
 begazes
@@ -5881,6 +5880,7 @@ bellota
 bellote
 bellovaci
 bellowed
+begaudy
 bellowers
 boudoiresque
 bellows
