@@ -6826,7 +6826,6 @@ airburst
 arresting
 airbursts
 antonina
-airbuses
 airbusses
 aircheck
 airchecks
@@ -18939,6 +18938,7 @@ archgunner
 archhead
 archheart
 archheresy
+airbuses
 archheretic
 archhypocrisy
 archhypocrite
