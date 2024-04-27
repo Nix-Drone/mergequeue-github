@@ -219,6 +219,7 @@ abbr
 abbrev
 abbreviatable
 abbreviate
+administrator
 abbreviated
 argotic
 apostolicism
@@ -4104,7 +4105,6 @@ administrationist
 administrations
 administrative
 administratively
-administrator
 administrators
 administratrices
 administratrix
