@@ -2177,7 +2177,6 @@ fishfall
 fellowcraft
 fellowheirship
 fellowing
-fellowman
 fellowmen
 famously
 flustra
@@ -4937,6 +4936,7 @@ filefish
 flammation
 flammed
 fountains
+fellowman
 flaughter
 flammulated
 flammulation
