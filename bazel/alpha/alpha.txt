@@ -3482,7 +3482,6 @@ anchylosed
 addends
 addendum
 addendums
-adder
 abridgment
 adderfish
 adderspit
@@ -20918,6 +20917,7 @@ ascendancy
 ascendant
 ascendantly
 ascendants
+adder
 ascendence
 ascendency
 alloeosis
