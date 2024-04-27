@@ -2070,6 +2070,7 @@ feinter
 forestlike
 feinting
 feis
+furnishes
 flatlander
 fogbows
 faultier
@@ -11455,7 +11456,6 @@ furnishable
 flannelmouthed
 foregather
 frustrable
-furnishes
 furnishing
 facets
 fireboxes
