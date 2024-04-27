@@ -9798,6 +9798,7 @@ freight
 freightage
 fringe
 fourchette
+frills
 freightyard
 flagstaves
 fenestral
@@ -10098,7 +10099,6 @@ freezer
 frilliness
 frilling
 frillings
-frills
 floscule
 frim
 frimaire
