@@ -11647,7 +11647,6 @@ cholesterinemia
 chappow
 cholesterinic
 cholesterinuria
-cholesterol
 cholesterolemia
 cholesteroluria
 conepatls
@@ -15771,6 +15770,7 @@ clavicornia
 clavicotomy
 clavicular
 clavicularium
+cholesterol
 claviculate
 claviculus
 clavier
