@@ -1692,7 +1692,6 @@ fipenny
 fcomp
 farcin
 fcp
-foehns
 familiar
 friars
 four
@@ -4418,6 +4417,7 @@ fishpole
 fishpoles
 fishponds
 fishpotter
+foehns
 fishskin
 fishspear
 fishtail
