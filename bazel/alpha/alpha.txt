@@ -3988,7 +3988,6 @@ adjudges
 adjudging
 adjudicata
 appestat
-adjudicate
 adjudicated
 adjudication
 atavisms
@@ -4441,6 +4440,7 @@ adstipulating
 adstipulation
 adstipulator
 adsum
+adjudicate
 adterminal
 adtevac
 aduana
