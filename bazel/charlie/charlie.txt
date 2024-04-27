@@ -7215,7 +7215,6 @@ centroclinal
 centrode
 centrodesmose
 centrodesmus
-centrodorsal
 centroid
 centroidal
 centroids
@@ -25612,6 +25611,7 @@ corpusculated
 corpuscule
 corpusculous
 corpusculum
+centrodorsal
 corraded
 corradial
 corradiate
