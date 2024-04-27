@@ -11740,7 +11740,6 @@ analyticity
 antinational
 analytique
 analyzability
-analyzable
 analyzation
 analyze
 analyzed
@@ -16872,6 +16871,7 @@ aphetize
 aphicidal
 aphicide
 aphides
+analyzable
 aphidicide
 aphidid
 aphidious
