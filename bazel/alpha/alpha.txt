@@ -3681,7 +3681,6 @@ adenohypophyseal
 adenohypophysial
 attrib
 adenohypophysis
-adenoid
 adenoidal
 adenoidectomy
 adenoidectomies
@@ -5460,6 +5459,7 @@ affronter
 affrontingly
 affrontive
 affrontiveness
+adenoid
 affrontment
 affronts
 anticlnoria
