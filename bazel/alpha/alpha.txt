@@ -4945,6 +4945,7 @@ acetyltannin
 aeroduct
 auge
 aeroducts
+awater
 aeroelastic
 aeroelasticity
 antalkalis
@@ -24977,7 +24978,6 @@ awaste
 awat
 awatch
 aphoristical
-awater
 awave
 awd
 awe

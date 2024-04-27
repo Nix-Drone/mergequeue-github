@@ -3666,6 +3666,7 @@ degradable
 drupetum
 degradational
 daggering
+deterministically
 degradations
 degradative
 degraded
@@ -7257,7 +7258,6 @@ determinist
 deterministic
 demodicidae
 descend
-deterministically
 duecentos
 determinists
 deterrability
