@@ -103,7 +103,6 @@ faciation
 forequoted
 facie
 freeport
-fibroelastic
 faciend
 faciends
 facient
@@ -4376,6 +4375,7 @@ fluxionary
 flashet
 fishful
 fishgarth
+fibroelastic
 fishgrass
 fishhood
 fishhooks
