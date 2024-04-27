@@ -2794,7 +2794,6 @@ elenchize
 electrovital
 endamask
 epipubic
-epicardium
 elenctical
 ectocornea
 elenge
@@ -7318,6 +7317,7 @@ eolation
 eole
 eolian
 eolipile
+epicardium
 eolipiles
 eolithic
 eolopile
