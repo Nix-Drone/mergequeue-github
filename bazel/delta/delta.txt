@@ -10292,7 +10292,6 @@ diopsimeter
 disillusionizing
 dioptases
 diopter
-diopters
 dioptograph
 dioptometer
 discophore
@@ -16819,6 +16818,7 @@ drawcansir
 drawcard
 disconsonant
 drawcut
+diopters
 drawdown
 drawee
 drawer
