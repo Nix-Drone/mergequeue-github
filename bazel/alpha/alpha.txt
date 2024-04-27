@@ -6960,6 +6960,7 @@ airspeed
 airspeeds
 airstream
 akinetic
+anthecology
 allegory
 airstrip
 airstrips
@@ -20690,7 +20691,6 @@ aquafer
 articulars
 articulata
 articulated
-anthecology
 articulateness
 aborsement
 articulates
