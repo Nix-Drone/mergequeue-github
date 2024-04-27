@@ -13278,7 +13278,6 @@ cyclic
 cyclical
 cyclicality
 cyclically
-cyclicalness
 cyclicism
 cyclicity
 cyclicly
@@ -21571,6 +21570,7 @@ condemning
 cobhead
 condemningly
 condemnor
+cyclicalness
 callot
 connaisseur
 condensability
