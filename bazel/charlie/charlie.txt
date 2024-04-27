@@ -9824,6 +9824,7 @@ chemicalization
 chemicalize
 combattants
 chemically
+curability
 conventionalist
 chemicals
 chemick
@@ -31192,7 +31193,6 @@ cupuliferous
 cupuliform
 cur
 cura
-curability
 cisandine
 charer
 curable
