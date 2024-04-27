@@ -18330,7 +18330,6 @@ cognomen
 cognomens
 chelonidae
 cognominal
-cognominally
 cognominate
 cognominated
 cognomination
@@ -27716,6 +27715,7 @@ chondrogeny
 coxite
 coxitis
 coxocerite
+cognominally
 crocin
 coxoceritic
 coxodynia
