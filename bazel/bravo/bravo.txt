@@ -321,6 +321,7 @@ backchat
 backchats
 backcomb
 backcountry
+bendability
 backcourt
 backcourtman
 backcross
@@ -6829,7 +6830,6 @@ berouged
 beround
 basiotribe
 berreaved
-bendability
 berreaves
 berreaving
 berret
