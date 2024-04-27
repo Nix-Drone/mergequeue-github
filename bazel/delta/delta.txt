@@ -3578,7 +3578,6 @@ defunction
 deoxidized
 dollface
 defunctionalization
-defunctionalize
 defunctive
 defused
 defuses
@@ -5508,6 +5507,7 @@ deodorise
 deodorised
 deodoriser
 deodorising
+defunctionalize
 deathroot
 deodorization
 deodorize
