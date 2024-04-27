@@ -4632,7 +4632,6 @@ enchantery
 enchanters
 enchanting
 enchantingly
-enchantment
 enchantments
 enchantress
 enchants
@@ -13044,6 +13043,7 @@ experiential
 embedding
 epistolographic
 experientialism
+enchantment
 experientialistic
 extrapleural
 experiment
