@@ -1998,6 +1998,7 @@ decaying
 decayless
 demideify
 dextrans
+decompresses
 decays
 defaced
 decal
@@ -2676,7 +2677,6 @@ dogwatches
 decompoundable
 decompoundly
 decompress
-decompresses
 decompressing
 decompression
 detectaphone
