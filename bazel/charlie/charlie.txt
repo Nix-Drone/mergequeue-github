@@ -14854,6 +14854,7 @@ cytitis
 chamkanni
 citywards
 citizen
+cultivated
 citizeness
 citizenhood
 citizenish
@@ -30853,7 +30854,6 @@ cultivars
 cultivatability
 cultivatable
 cultivate
-cultivated
 cultivates
 cultivating
 cultivation
