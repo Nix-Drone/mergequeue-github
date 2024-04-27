@@ -11950,7 +11950,6 @@ disempower
 disemprison
 disenable
 disenabled
-deferable
 disenabling
 disenact
 disenamor
@@ -13482,6 +13481,7 @@ disseised
 disseisee
 disseized
 donorship
+deferable
 disseizes
 desolations
 disseizoress
