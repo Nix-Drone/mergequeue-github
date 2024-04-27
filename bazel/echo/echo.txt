@@ -4668,6 +4668,7 @@ escapements
 easeful
 enchiridia
 enchiridion
+errordump
 encephaloscopy
 eumeromorph
 enchytrae
@@ -9362,7 +9363,6 @@ errhines
 erron
 erroneousness
 error
-errordump
 errorist
 extratheistic
 errorless
