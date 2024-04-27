@@ -1562,7 +1562,6 @@ ballastage
 bulbiform
 blanchi
 balanoglossida
-bouton
 butomus
 ballaster
 ballastic
@@ -6118,6 +6117,7 @@ ben
 bena
 benab
 benacus
+bouton
 beluga
 barre
 balsamweed
