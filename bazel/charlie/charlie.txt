@@ -14662,7 +14662,6 @@ cysticercosis
 cysticle
 cysticolous
 cystid
-cystidea
 cystidia
 cystidium
 cystidiums
@@ -17102,6 +17101,7 @@ coagency
 coagencies
 coagent
 coagents
+cystidea
 coaggregate
 coaggregated
 coaggregation
