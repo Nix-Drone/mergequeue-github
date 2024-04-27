@@ -10396,7 +10396,6 @@ ethmoiditis
 entomb
 ethmolith
 ethmomaxillary
-ethmonasal
 effacer
 ethmopalatal
 ethmopalatine
@@ -11264,6 +11263,7 @@ electroergometer
 electroballistics
 extratubal
 evades
+ethmonasal
 embezzle
 evadingly
 emprime
