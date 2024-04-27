@@ -6540,7 +6540,6 @@ bepastured
 bepatched
 boxings
 bepaw
-bepearl
 bepelt
 byrlawmen
 bepen
@@ -16916,6 +16915,7 @@ bugloss
 buglosses
 bugong
 bugout
+bepearl
 bugs
 bugsha
 bugweed
