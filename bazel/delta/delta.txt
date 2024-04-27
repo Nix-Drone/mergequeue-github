@@ -1193,6 +1193,7 @@ dataries
 dataset
 datasetname
 datasets
+deglutinating
 datatype
 datatypes
 datcha
@@ -17853,7 +17854,6 @@ dudder
 duddery
 dentile
 dendrologic
-deglutinating
 demobilization
 duddy
 duddie
