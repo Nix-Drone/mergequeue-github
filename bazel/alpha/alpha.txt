@@ -10767,7 +10767,6 @@ ammonobasic
 atty
 ammonocarbonic
 ammonocarbonous
-ammonoidea
 ammonoidean
 ammonoids
 ammonolytic
@@ -24549,6 +24548,7 @@ availability
 agitationist
 availabilities
 arteriographic
+ammonoidea
 available
 aciliate
 arthrodynia
