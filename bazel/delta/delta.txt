@@ -2496,7 +2496,6 @@ declaration
 declarations
 dealates
 defendant
-declarative
 declaratively
 deutzias
 declarator
@@ -14876,6 +14875,7 @@ doers
 depopulate
 diapositive
 does
+declarative
 doesn
 doesnt
 doeth
