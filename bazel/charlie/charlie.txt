@@ -3009,6 +3009,7 @@ capcase
 cape
 capeadores
 capel
+constitutioner
 capelan
 capelans
 capelet
@@ -10491,7 +10492,6 @@ childless
 childlessness
 childly
 childlier
-constitutioner
 childliest
 childminder
 childness
