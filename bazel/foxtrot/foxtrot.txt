@@ -5079,6 +5079,7 @@ fusobteria
 fanterie
 flask
 ferricyanhydric
+ferricyanic
 flasker
 foretooth
 faecal
@@ -11122,7 +11123,6 @@ functional
 frugalism
 functionalism
 functionalist
-ferricyanic
 footmenfootpad
 farceuse
 functionalities
