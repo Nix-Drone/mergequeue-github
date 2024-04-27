@@ -9564,7 +9564,6 @@ checkroll
 checkroom
 compathy
 checkrooms
-checkrope
 checkrow
 checkrower
 checkrowing
@@ -22829,6 +22828,7 @@ conservate
 catfaces
 conservation
 conservational
+checkrope
 conservationism
 conservationist
 conservationists
