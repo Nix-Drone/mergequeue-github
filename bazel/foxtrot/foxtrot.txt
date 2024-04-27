@@ -2525,6 +2525,7 @@ ferninst
 fernlike
 farsakh
 ferns
+fossildom
 fernseed
 flustrum
 fernshaw
@@ -8870,7 +8871,6 @@ fossil
 fossilage
 featly
 franking
-fossildom
 fossiliferous
 fossilise
 fossilised
