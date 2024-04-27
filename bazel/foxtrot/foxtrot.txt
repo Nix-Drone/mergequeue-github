@@ -3387,7 +3387,6 @@ fieldsmen
 flosculose
 fieldstrip
 feaking
-fieldwork
 fieldworker
 forcipal
 fieldwort
@@ -4811,6 +4810,7 @@ flags
 flagship
 fuss
 firepower
+fieldwork
 flagstaff
 fainer
 factorylike
