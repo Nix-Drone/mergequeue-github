@@ -3294,7 +3294,6 @@ deferred
 deferrer
 deferrers
 deferrize
-deferrized
 deferrizing
 decriminalized
 defers
@@ -16659,6 +16658,7 @@ dragsters
 dray
 drayage
 drayed
+deferrized
 drayhorse
 draying
 drailed
