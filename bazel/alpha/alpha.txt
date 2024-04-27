@@ -16863,7 +16863,6 @@ apheses
 adumbrate
 antiphoner
 aphesis
-apheta
 accidentals
 aphetic
 aphetically
@@ -20300,6 +20299,7 @@ arrivistes
 arroba
 arrobas
 actor
+apheta
 ardencies
 arrode
 arrogance
