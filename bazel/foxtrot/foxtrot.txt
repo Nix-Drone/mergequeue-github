@@ -3358,7 +3358,6 @@ fied
 fiedlerite
 firstlings
 fief
-foredeem
 fiefs
 forfeitable
 fiel
@@ -6902,6 +6901,7 @@ forbearances
 flanes
 folkcraft
 folkfree
+foredeem
 folky
 folkish
 forepredicament
