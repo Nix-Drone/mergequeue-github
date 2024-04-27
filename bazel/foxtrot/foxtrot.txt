@@ -2461,7 +2461,6 @@ foretriangle
 ferlying
 ferling
 fermacy
-fermail
 fermal
 fermata
 fusinite
@@ -5604,6 +5603,7 @@ flightless
 forepassed
 frailest
 flights
+fermail
 flightworthy
 flying
 flyings
