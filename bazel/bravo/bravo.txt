@@ -6403,7 +6403,6 @@ benzdiazine
 bipolarize
 benzdifuran
 benzdioxdiazine
-benzdioxtriazine
 benzein
 benzene
 benzeneazobenzene
@@ -12394,6 +12393,7 @@ bondhold
 bondholder
 bondholders
 bicolor
+benzdioxtriazine
 bondholding
 bonding
 brands
