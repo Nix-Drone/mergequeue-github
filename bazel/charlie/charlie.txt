@@ -9118,7 +9118,6 @@ charpit
 charpoy
 charpoys
 charque
-charqued
 charqui
 charquid
 charr
@@ -23829,6 +23828,7 @@ contrib
 contributable
 contributary
 contributed
+charqued
 contributes
 civilisedness
 contribution
