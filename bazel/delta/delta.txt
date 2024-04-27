@@ -466,7 +466,6 @@ daysmen
 dayspring
 disthrall
 daystar
-daystars
 daystreak
 daytide
 daytime
@@ -16235,6 +16234,7 @@ dowitchers
 dares
 dowly
 designlessness
+daystars
 dowment
 down
 duplicated
