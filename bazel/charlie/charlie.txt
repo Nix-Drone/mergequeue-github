@@ -17820,6 +17820,7 @@ codisjunct
 codist
 codivine
 codlin
+contains
 codline
 codling
 codlings
@@ -23353,7 +23354,6 @@ containing
 containment
 containments
 covert
-contains
 contakia
 contakion
 contaminant
