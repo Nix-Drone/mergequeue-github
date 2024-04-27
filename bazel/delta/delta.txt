@@ -2574,7 +2574,6 @@ decoction
 disarrest
 decoctive
 decocts
-decoctum
 decodable
 decode
 decoded
@@ -6273,6 +6272,7 @@ dermatonosus
 dermatopathic
 dodecanesian
 dermatopathology
+decoctum
 dermatopathophobia
 dermatophagus
 dermatophyte
