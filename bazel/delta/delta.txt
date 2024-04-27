@@ -1191,6 +1191,7 @@ disinvolve
 datary
 dataries
 dataset
+durbars
 datasetname
 datasets
 datatype
@@ -18472,7 +18473,6 @@ duratives
 durax
 durbachite
 diocesans
-durbars
 durdenite
 durdum
 dured
