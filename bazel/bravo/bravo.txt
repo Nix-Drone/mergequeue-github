@@ -7905,6 +7905,7 @@ bibl
 bardee
 bible
 bibles
+brassavola
 bohmite
 biblic
 bipunctal
@@ -14595,7 +14596,6 @@ brassards
 brassart
 brassarts
 brassate
-brassavola
 bolson
 brassbound
 brassbounder
