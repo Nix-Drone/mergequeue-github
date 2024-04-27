@@ -4476,7 +4476,6 @@ encake
 encalendar
 encamping
 encampment
-encampments
 encamps
 endoparasite
 essene
@@ -11540,6 +11539,7 @@ extrasyllogistic
 erythraeidae
 endometrium
 evictions
+encampments
 eleocharis
 embodying
 evictor
