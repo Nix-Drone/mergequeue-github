@@ -6144,6 +6144,7 @@ benchlet
 benchman
 benchmar
 benchmark
+bipinnatisected
 benchmarked
 benchmarks
 benchmen
@@ -9306,7 +9307,6 @@ bipinnate
 bipinnated
 bipinnatipartite
 bipinnatisect
-bipinnatisected
 bowtie
 bipyramid
 bipyridyl
