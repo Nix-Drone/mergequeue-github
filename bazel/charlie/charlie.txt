@@ -1630,7 +1630,6 @@ calpacked
 calpacks
 calpacs
 calpolli
-calpul
 calpulli
 calque
 calqued
@@ -27624,6 +27623,7 @@ cowman
 connumeration
 coworker
 coworkers
+calpul
 chivage
 cowpat
 cowpats
