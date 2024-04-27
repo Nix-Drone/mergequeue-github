@@ -360,6 +360,7 @@ flaxdrop
 failure
 failures
 factish
+face
 fain
 fainaigue
 fainaigued
@@ -6503,7 +6504,6 @@ flush
 flushboard
 flushers
 flushest
-face
 flushgate
 flushy
 flushing
