@@ -9535,7 +9535,6 @@ enplanement
 epipodium
 eodiscid
 escarps
-escars
 escarteled
 escartelly
 eschalots
@@ -11755,6 +11754,7 @@ exaltate
 exaltation
 exaltations
 endocarditis
+escars
 eviscerations
 exalte
 exaltedness
