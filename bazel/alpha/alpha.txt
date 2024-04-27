@@ -945,6 +945,7 @@ absentness
 absents
 absfarad
 abshenry
+adiposity
 absi
 absinth
 absinthes
@@ -3921,7 +3922,6 @@ adipose
 adiposeness
 adiposes
 adiposis
-adiposity
 abdominoscope
 adiposogenital
 adiposuria
