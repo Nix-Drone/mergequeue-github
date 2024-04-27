@@ -4125,6 +4125,7 @@ cardplaying
 cardroom
 cards
 clearwing
+corrosively
 collunaria
 cardshark
 carbamido
@@ -25768,7 +25769,6 @@ corrosional
 corrosionproof
 corrosive
 corrosived
-corrosively
 corrosiveness
 corrosives
 complexionally
