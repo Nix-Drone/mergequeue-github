@@ -799,7 +799,6 @@ badious
 bookmonger
 badju
 betterer
-badland
 badlands
 bogatyr
 buba
@@ -11554,6 +11553,7 @@ boards
 boardsmanship
 boardwalks
 boarfish
+badland
 boarfishes
 boarhound
 boarish
