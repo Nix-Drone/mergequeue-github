@@ -3209,7 +3209,6 @@ decontrols
 defecters
 demiheavenly
 defectibility
-defectible
 dhangar
 defecting
 diplomacy
@@ -17603,6 +17602,7 @@ drumlins
 drumloidal
 duffing
 drummed
+defectible
 drummer
 drummers
 drumming
