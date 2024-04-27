@@ -17829,6 +17829,7 @@ codman
 codol
 codomain
 codominant
+confutator
 codon
 crystallographical
 codons
@@ -22157,7 +22158,6 @@ confutability
 confutable
 confutation
 confutations
-confutator
 confute
 cyclopaedias
 confuter
