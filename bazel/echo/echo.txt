@@ -4381,7 +4381,6 @@ enamelist
 enamellar
 equiped
 enamellers
-enamelless
 enamels
 enami
 enamines
@@ -5003,6 +5002,7 @@ endemism
 endemisms
 estipulate
 endenization
+enamelless
 endenize
 endenizen
 ender
