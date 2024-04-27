@@ -16090,7 +16090,6 @@ clydesider
 cliency
 client
 clientage
-cliental
 cliented
 clientelage
 clienteles
@@ -27900,6 +27899,7 @@ craftier
 craftiest
 craftiness
 craftless
+cliental
 craftly
 crafts
 craftsman
