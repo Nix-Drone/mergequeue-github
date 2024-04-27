@@ -4534,7 +4534,6 @@ advantageous
 advantageously
 advantageousness
 advantages
-advect
 advected
 advecting
 agamobia
@@ -12739,6 +12738,7 @@ angiocarpian
 angiocarpic
 astronomical
 angiocarpous
+advect
 angiocavernous
 angiocholecystitis
 angiocholitis
