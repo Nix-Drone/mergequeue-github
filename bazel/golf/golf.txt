@@ -4917,7 +4917,6 @@ giveaways
 givey
 given
 givens
-garderobe
 giver
 givers
 gladeye
@@ -10664,6 +10663,7 @@ guruships
 gusain
 guser
 guserid
+garderobe
 gush
 gusher
 goethe
