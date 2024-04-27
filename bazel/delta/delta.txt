@@ -7294,7 +7294,6 @@ daidled
 deti
 detick
 deticked
-deticker
 detickers
 deticks
 detin
@@ -7828,6 +7827,7 @@ dewdrop
 dewdropper
 disklike
 dewdrops
+deticker
 dewed
 dewey
 duiker
