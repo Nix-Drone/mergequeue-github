@@ -5283,6 +5283,7 @@ endorsed
 endorsee
 endorsees
 endere
+epiural
 endorser
 endorsing
 emydosaurian
@@ -8441,7 +8442,6 @@ epitrophy
 epitrophic
 epituberculosis
 epituberculous
-epiural
 epivalve
 epizeuxis
 extravagantes
