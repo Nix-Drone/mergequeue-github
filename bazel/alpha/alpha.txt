@@ -17955,6 +17955,7 @@ awan
 apprehends
 apprehensibility
 apprehensible
+assertable
 apprehension
 apprehensively
 apprend
@@ -21673,7 +21674,6 @@ assents
 asseour
 assert
 asserta
-assertable
 aeron
 assertative
 asserted
