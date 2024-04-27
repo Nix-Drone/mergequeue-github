@@ -5281,7 +5281,6 @@ entopterygoid
 endorsation
 endorsed
 endorsee
-endorsees
 endere
 endorser
 endorsing
@@ -6973,6 +6972,7 @@ entosternum
 entosthoblast
 entothorax
 entotympanic
+endorsees
 ebullioscope
 entotrophi
 enterokinetic
