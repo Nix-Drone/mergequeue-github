@@ -4522,7 +4522,6 @@ advance
 advanceable
 advancedness
 advancement
-advancements
 advancer
 advancers
 advances
@@ -11217,6 +11216,7 @@ amphitheaters
 amphitheatre
 aerocyst
 amphitheatric
+advancements
 ane
 amphitheatrical
 affiancer
