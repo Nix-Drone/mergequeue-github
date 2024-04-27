@@ -13709,7 +13709,6 @@ bovovaccination
 bovver
 bow
 bowable
-bowback
 bowbells
 bowbent
 bowboy
@@ -18211,6 +18210,7 @@ butlerism
 bestab
 butlerlike
 butlers
+bowback
 butlership
 butment
 butolism
