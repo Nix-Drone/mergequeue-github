@@ -431,6 +431,7 @@ backplanes
 backplate
 backpointer
 backpointers
+beraking
 backrest
 backrope
 brimstony
@@ -6607,7 +6608,6 @@ beraked
 belittles
 begat
 basilyst
-beraking
 berakoth
 berapt
 berascal
