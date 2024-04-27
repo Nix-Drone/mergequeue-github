@@ -7804,7 +7804,6 @@ foreman
 foremarch
 forsaker
 foremark
-fullface
 foremartyr
 foremastmen
 foremasts
@@ -7912,6 +7911,7 @@ frenchify
 forerank
 forereach
 forereading
+fullface
 forerecited
 forereckon
 forerehearsed
