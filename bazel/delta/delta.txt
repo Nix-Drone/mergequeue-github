@@ -5635,7 +5635,6 @@ dependance
 dependant
 dependantly
 depended
-dependence
 dependency
 dependencies
 depending
@@ -16989,6 +16988,7 @@ dreidls
 dreyfusism
 dreigh
 dreikanter
+dependence
 dreikanters
 dreiling
 dreint
