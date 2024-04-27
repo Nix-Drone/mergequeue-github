@@ -5841,7 +5841,6 @@ ensynopticity
 endocarditic
 engulf
 engulfed
-epicardial
 engulfing
 episcopalian
 enhaemospore
@@ -7125,6 +7124,7 @@ enunciability
 endoss
 enunciable
 enunciated
+epicardial
 endochondral
 enunciations
 exaggeration
