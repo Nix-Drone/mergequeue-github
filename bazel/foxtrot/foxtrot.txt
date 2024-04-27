@@ -6685,7 +6685,6 @@ foederati
 foederis
 foeffment
 foehn
-foehnlike
 foeish
 foeless
 forenotice
@@ -7279,6 +7278,7 @@ footwall
 footwarmer
 footwear
 floodmark
+foehnlike
 fumiferous
 fabricable
 fuliginous
