@@ -3772,6 +3772,7 @@ battens
 batter
 bread
 batterable
+bornites
 battercake
 batterdock
 battered
@@ -13038,7 +13039,6 @@ borneols
 belaced
 borning
 bornite
-bornites
 bornitic
 boro
 borocaine
