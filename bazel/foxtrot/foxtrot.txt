@@ -6104,7 +6104,6 @@ fragor
 felspar
 furnisher
 flotsams
-fishmeal
 freighter
 film
 forewish
@@ -11200,6 +11199,7 @@ funerary
 funeration
 funereal
 funereality
+fishmeal
 flintwork
 funereally
 freeloaders
