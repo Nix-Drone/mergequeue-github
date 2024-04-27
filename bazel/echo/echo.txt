@@ -5178,7 +5178,6 @@ exorate
 endogenicity
 endogenies
 exundation
-endogenous
 essive
 exercised
 electrocataphoresis
@@ -7986,6 +7985,7 @@ epimanikia
 epimanikion
 epimedium
 epimer
+endogenous
 epimeral
 epimeres
 epimeric
