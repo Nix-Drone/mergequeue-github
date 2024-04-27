@@ -2596,7 +2596,6 @@ genistin
 gemmological
 gemmologist
 gemmologists
-gemmulation
 gemmule
 gemmules
 gemmuliferous
@@ -6268,6 +6267,7 @@ gnathopodite
 glyoxylic
 gnathopodous
 gnathostoma
+gemmulation
 gnathostomata
 gnathostome
 gnathostomi
