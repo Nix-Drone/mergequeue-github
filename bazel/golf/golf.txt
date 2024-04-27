@@ -182,7 +182,6 @@ generalizes
 gaelic
 gynostegia
 gaels
-gaen
 gaes
 goldylocks
 growlier
@@ -9912,6 +9911,7 @@ guard
 guardable
 guardant
 guardedness
+gaen
 guardeen
 guarder
 guardful
