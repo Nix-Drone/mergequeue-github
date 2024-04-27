@@ -4030,7 +4030,6 @@ delegant
 dependants
 delegare
 delegate
-delegated
 delegateship
 dermographism
 delegati
@@ -9431,6 +9430,7 @@ digestibility
 digestible
 downshifting
 digestibleness
+delegated
 digestibly
 digestif
 digesting
