@@ -843,7 +843,6 @@ fanit
 fanjet
 formulism
 fanlight
-fanlights
 firstcomer
 fanmaking
 fanned
@@ -3325,6 +3324,7 @@ faery
 froglet
 fidge
 fidged
+fanlights
 fidges
 frameable
 fidget
