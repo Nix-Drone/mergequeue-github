@@ -3565,7 +3565,6 @@ fuzztail
 flaxwife
 filamentous
 filaments
-filamentule
 filander
 filao
 forsterite
@@ -6119,6 +6118,7 @@ flounces
 flouncy
 flounciest
 flouncing
+filamentule
 flounder
 flounders
 floury
