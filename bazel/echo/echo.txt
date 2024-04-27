@@ -2627,7 +2627,6 @@ electroshocks
 electrosynthesis
 electrosynthetically
 envenoms
-electrosmosis
 electrostatic
 electrostatical
 electrosteel
@@ -13756,6 +13755,7 @@ extrabronchial
 extrabuccal
 emil
 emends
+electrosmosis
 extrabureau
 equipaga
 extraburghal
