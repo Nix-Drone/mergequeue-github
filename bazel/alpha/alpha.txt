@@ -10988,7 +10988,6 @@ amperages
 ampere
 amperemeter
 amperes
-ampery
 amperian
 amperometer
 aciduria
@@ -16782,6 +16781,7 @@ apraxic
 apertly
 amidosulphonal
 antistat
+ampery
 apertness
 apertometer
 apertum
