@@ -1220,7 +1220,6 @@ educability
 educable
 educables
 educand
-educatability
 epicrystalline
 eident
 educatable
@@ -7172,6 +7171,7 @@ envenomous
 enventual
 enverdure
 enviable
+educatability
 enemy
 envied
 explants
