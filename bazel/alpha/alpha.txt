@@ -10532,7 +10532,6 @@ amyloidosis
 amyloleucite
 amylolysis
 amylolytic
-amylom
 amylometer
 amylopectin
 amylophagia
@@ -20603,6 +20602,7 @@ azrael
 arthrogryposis
 arthrolith
 arthrolithiasis
+amylom
 arthromere
 arthromeric
 arthrometer
