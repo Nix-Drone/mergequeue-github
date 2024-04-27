@@ -2000,7 +2000,6 @@ bandpass
 bandrol
 bandsaw
 bandsawed
-bandsawing
 bandsawn
 bandsman
 bandsmen
@@ -3664,6 +3663,7 @@ bathonian
 bathool
 bathophobia
 bathos
+bandsawing
 bibliophiles
 bathoses
 brachiated
