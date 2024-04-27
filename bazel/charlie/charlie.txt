@@ -17017,7 +17017,6 @@ corrasion
 cogency
 coachmaster
 coachmen
-coachs
 chorobates
 coachsmith
 coachsmithing
@@ -30397,6 +30396,7 @@ ctenoid
 ctenoidean
 curatize
 ctenoidei
+coachs
 carrys
 ctenolium
 ctenophora
