@@ -7429,6 +7429,7 @@ forcene
 forceps
 fey
 forceput
+faceplate
 fazing
 forces
 forcet
@@ -9284,7 +9285,6 @@ fragile
 fishpot
 fragileness
 fragility
-faceplate
 fragilities
 fragment
 floorhead
