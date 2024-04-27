@@ -1879,7 +1879,6 @@ bibliopegist
 bipunctate
 band
 bandage
-bandaged
 bandager
 bandages
 bandaging
@@ -2236,6 +2235,7 @@ bapt
 baptised
 baptises
 baptisia
+bandaged
 baptisias
 baptisin
 boneen
