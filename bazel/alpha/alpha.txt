@@ -3682,7 +3682,6 @@ adenohypophysial
 attrib
 adenohypophysis
 adenoid
-adenoidal
 adenoidectomy
 adenoidectomies
 adenoidism
@@ -23488,6 +23487,7 @@ aumildar
 aaronical
 approximate
 aumoniere
+adenoidal
 aumrie
 auncel
 amply
