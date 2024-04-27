@@ -1981,7 +1981,6 @@ daimen
 decagons
 decagram
 decagramme
-decagrams
 decahedra
 decahedral
 decahedron
@@ -4992,6 +4991,7 @@ demoralizingly
 demorphinization
 demorphism
 demos
+decagrams
 depreciates
 demospongiae
 demosthenean
