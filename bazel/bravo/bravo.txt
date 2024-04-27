@@ -9600,7 +9600,6 @@ bisected
 bisecting
 bisection
 bisectional
-bisections
 bisector
 bisectors
 bisectrices
@@ -14977,6 +14976,7 @@ bacteriol
 babite
 budorcas
 breeks
+bisections
 breekums
 binapthyl
 barreleyes
