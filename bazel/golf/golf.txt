@@ -417,7 +417,6 @@ gynobasic
 galangin
 galany
 goto
-gauntries
 grieved
 galant
 galante
@@ -8206,6 +8205,7 @@ graphoscope
 gulpin
 graphostatic
 graphostatical
+gauntries
 garo
 graphostatics
 graphotype
