@@ -5460,6 +5460,7 @@ fleshings
 formatters
 fanjets
 fleshless
+floorages
 fleshlier
 fleshliest
 failingly
@@ -5928,7 +5929,6 @@ floodways
 fistfight
 flooey
 flook
-floorages
 forgottenness
 floorboard
 floorcloth
