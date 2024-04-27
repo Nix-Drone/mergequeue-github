@@ -659,7 +659,6 @@ bacteriopathology
 burnoose
 buckishly
 bacteriophage
-bacteriophages
 bacteriophagy
 bacteriophagic
 bacteriophagous
@@ -6942,6 +6941,7 @@ bescribble
 bescribbled
 bescutcheon
 beseam
+bacteriophages
 beseecher
 beseeches
 beseechingness
