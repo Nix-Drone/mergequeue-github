@@ -2225,7 +2225,6 @@ framers
 farmhouses
 felt
 felted
-felter
 feltyfare
 feltyflier
 felting
@@ -8390,6 +8389,7 @@ formalized
 formalizer
 foreknowledge
 fettuccine
+felter
 formally
 formalness
 fetid
