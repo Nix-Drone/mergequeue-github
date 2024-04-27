@@ -835,6 +835,7 @@ equations
 ectoblastic
 ectobronchium
 ectocardia
+escropulo
 erigenia
 extent
 ectocarpaceae
@@ -12871,7 +12872,6 @@ exp
 embusque
 expalpate
 expanded
-escropulo
 expandedly
 expandedness
 expanders
