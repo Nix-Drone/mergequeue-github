@@ -19465,7 +19465,6 @@ colourtype
 colp
 colpenchyma
 colpeo
-colpeurysis
 colpheg
 colpindach
 colpitis
@@ -26755,6 +26754,7 @@ coltishness
 counterdisengage
 caaming
 counterdisengagement
+colpeurysis
 counterdistinct
 cronied
 coscinodiscus
