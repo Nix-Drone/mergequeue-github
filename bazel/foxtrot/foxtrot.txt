@@ -2341,6 +2341,7 @@ fenders
 fendillation
 fending
 fopship
+fluidimeter
 fends
 fenerate
 filches
@@ -6288,7 +6289,6 @@ fissicostate
 fecit
 fluidified
 fluidifier
-fluidimeter
 fluidisation
 forewisdom
 fluidised
