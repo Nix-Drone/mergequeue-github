@@ -1698,7 +1698,6 @@ friars
 four
 fdnames
 fdtype
-fdub
 fortuitousness
 fe
 forksmith
@@ -11243,6 +11242,7 @@ fungitoxic
 fungitoxicity
 findjan
 fungivorous
+fdub
 fluorophosphate
 farmerette
 fungoes
