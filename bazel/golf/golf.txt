@@ -3432,7 +3432,6 @@ gossipry
 germen
 germens
 galianes
-germfree
 germicidal
 germicides
 germier
@@ -5761,6 +5760,7 @@ gifting
 garrat
 groundedness
 gradative
+germfree
 glomerular
 gregau
 glomerulate
