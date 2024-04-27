@@ -11720,7 +11720,6 @@ analgic
 analgize
 analysability
 analysable
-analysand
 analysation
 analyser
 analysers
@@ -24127,6 +24126,7 @@ autoinductive
 autoinfusion
 autoinhibited
 admonishment
+analysand
 autoinoculable
 autoinoculation
 autointellectual
