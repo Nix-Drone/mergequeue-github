@@ -9937,7 +9937,6 @@ estampage
 estampede
 emender
 estampie
-estancia
 exhumated
 estancias
 estanciero
@@ -14128,6 +14127,7 @@ enriching
 extrusile
 earthen
 extrusion
+estancia
 extrusions
 enigmatology
 extrusive
