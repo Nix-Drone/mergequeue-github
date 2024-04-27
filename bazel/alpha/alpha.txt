@@ -5562,7 +5562,6 @@ afterattack
 afterbay
 appetitive
 afterband
-absorbs
 afterbeat
 afterbirth
 achronical
@@ -19559,6 +19558,7 @@ arglebargle
 arglebargled
 arglebargling
 argled
+absorbs
 argles
 argling
 argoan
