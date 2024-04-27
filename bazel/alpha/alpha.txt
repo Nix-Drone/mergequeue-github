@@ -6876,7 +6876,6 @@ airflows
 airfoil
 airfoils
 airframe
-airglow
 airglows
 acondylous
 airgraph
@@ -20570,6 +20569,7 @@ arthriticine
 arthritics
 arthritides
 auriculariales
+airglow
 arthritis
 arthrobacterium
 aborsive
