@@ -17198,7 +17198,6 @@ coalrake
 coals
 coalsack
 coalsacks
-coalshed
 coalsheds
 cantil
 coalternate
@@ -30069,6 +30068,7 @@ crowkeeper
 crowl
 cyanean
 crownal
+coalshed
 crownation
 crownbeard
 crowned
