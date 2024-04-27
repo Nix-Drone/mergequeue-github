@@ -10612,7 +10612,6 @@ aminophenol
 antischolastic
 aminopherase
 apothec
-arccosine
 aminophylline
 aminopyrine
 aminoplast
@@ -19712,6 +19711,7 @@ ariki
 aril
 albuminiform
 aryl
+arccosine
 arylamine
 arylamino
 amphophilous
