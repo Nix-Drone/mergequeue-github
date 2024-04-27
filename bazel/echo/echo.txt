@@ -5627,6 +5627,7 @@ eastwards
 enforth
 enfoul
 enfoulder
+exhaustion
 enfrai
 enframe
 enframed
@@ -12446,7 +12447,6 @@ exhauster
 exhausting
 extremes
 exhaustingly
-exhaustion
 exhaustive
 eryon
 exhaustiveness
