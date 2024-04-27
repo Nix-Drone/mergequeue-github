@@ -1087,7 +1087,6 @@ farmhold
 farmhouse
 feronia
 farmhousey
-fontinalaceae
 fuzzle
 farmy
 farmyard
@@ -5800,6 +5799,7 @@ flnerie
 flneuse
 flench
 fload
+fontinalaceae
 floatability
 forethoughtless
 floatages
