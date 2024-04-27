@@ -11730,7 +11730,6 @@ exadverso
 exadversum
 exaestuate
 etymologizing
-exaggerate
 exaggerated
 exaggerates
 exaggerating
@@ -13294,6 +13293,7 @@ exposers
 exposes
 exposing
 exposit
+exaggerate
 expositing
 esthesiometry
 exsanguinity
