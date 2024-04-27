@@ -556,7 +556,6 @@ backups
 backus
 backveld
 backvelder
-backway
 backwall
 bewhite
 backward
@@ -10955,6 +10954,7 @@ blk
 blksize
 bunts
 blo
+backway
 bloat
 backstrokes
 bloated
