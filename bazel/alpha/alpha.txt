@@ -1982,7 +1982,6 @@ acetacetic
 acetaldehyde
 acetaldehydrase
 acetaldol
-acetalize
 acetals
 acetamid
 acetamide
@@ -14593,6 +14592,7 @@ affirmingly
 anthropomancy
 alberich
 anthropomantist
+acetalize
 anthropometer
 anthropometry
 agonal
