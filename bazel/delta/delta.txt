@@ -3741,7 +3741,6 @@ dehydrochlorination
 daytale
 dehydrocorydaline
 dehydrocorticosterone
-dehydroffroze
 dehydroffrozen
 dehydrofreeze
 dehydrofreezing
@@ -8749,6 +8748,7 @@ diazohydroxide
 diazoic
 diffident
 diazole
+dehydroffroze
 diazoma
 diazonium
 diazotate
