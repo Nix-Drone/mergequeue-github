@@ -4632,7 +4632,6 @@ enchantery
 enchanters
 enchanting
 enchantingly
-enchantment
 enchantments
 enchantress
 enchants
@@ -11685,6 +11684,7 @@ exacerbates
 enhances
 exacerbating
 exacerbatingly
+enchantment
 exacerbescence
 exacervation
 exact
