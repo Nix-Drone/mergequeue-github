@@ -8340,7 +8340,6 @@ forswornness
 forkmen
 forks
 forksful
-forktail
 fruiterer
 faceup
 flickery
@@ -9392,6 +9391,7 @@ franchisee
 franchisees
 franchisement
 franchisers
+forktail
 franchises
 frivoling
 fireworms
