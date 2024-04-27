@@ -2715,6 +2715,7 @@ canonizant
 canonization
 canonizations
 canonize
+choirwise
 canonized
 catapult
 canonizer
@@ -11496,7 +11497,6 @@ choirman
 choirmaster
 choirmasters
 choyroot
-choirwise
 calumnies
 chok
 chokage
