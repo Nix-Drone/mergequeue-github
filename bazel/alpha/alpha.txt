@@ -3294,7 +3294,6 @@ acuclosure
 acuductor
 acuerdo
 acuesthesia
-acuity
 acuities
 aculea
 antizymic
@@ -25284,6 +25283,7 @@ aflame
 azobenzene
 azobenzil
 arsonvalization
+acuity
 azobenzoic
 azoch
 adenofibroma
