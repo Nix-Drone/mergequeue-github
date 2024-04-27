@@ -1718,7 +1718,6 @@ deathtrap
 deathtraps
 deathward
 deathwatches
-deathweed
 deathworm
 dowelled
 deave
@@ -17556,6 +17555,7 @@ druggister
 drugless
 dadupanthi
 drugmaker
+deathweed
 drugman
 drugs
 demoniacal
