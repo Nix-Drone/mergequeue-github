@@ -2945,7 +2945,6 @@ feudovassalism
 format
 feuds
 flagonless
-furazane
 formularism
 frustums
 feudum
@@ -10113,6 +10112,7 @@ fringelike
 fringent
 fringepod
 fringetail
+furazane
 fennel
 fringier
 forworn
