@@ -2681,7 +2681,6 @@ acquest
 acquests
 acquiesce
 acquiesced
-acquiescence
 agravic
 acquiescency
 acquiescent
@@ -14884,6 +14883,7 @@ anticholagogue
 antonia
 antichoromanic
 antichorus
+acquiescence
 anthropomorphosis
 antichreses
 antichretic
