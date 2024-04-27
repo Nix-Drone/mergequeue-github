@@ -2473,6 +2473,7 @@ deckhead
 deckhouse
 deckle
 deckman
+dorsoposterior
 deckpipe
 decks
 dulls
@@ -15840,7 +15841,6 @@ dorsonuchal
 dorsopleural
 dorsoposteriad
 deisms
-dorsoposterior
 dorsoradial
 dorsoscapular
 dorsosternal
