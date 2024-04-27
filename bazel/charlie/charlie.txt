@@ -5736,7 +5736,6 @@ categorically
 categoricalness
 categories
 categorisation
-categorise
 categorised
 categorising
 categorist
@@ -7529,6 +7528,7 @@ cerci
 cercidiphyllaceae
 cavel
 cercis
+categorise
 cercises
 cercocebus
 cercolabes
