@@ -12693,7 +12693,6 @@ baronry
 barrulety
 bookrest
 bookrests
-bookroom
 bookseller
 berendo
 becloaked
@@ -15741,6 +15740,7 @@ brocolis
 brod
 biretta
 bhaga
+bookroom
 brodder
 balandra
 broddle
