@@ -7509,7 +7509,6 @@ devadasi
 deval
 devall
 devaloka
-devalorize
 devaluate
 devaluated
 devaluates
@@ -12854,6 +12853,7 @@ dorhawk
 disordained
 disordeine
 disordered
+devalorize
 dopant
 disorderer
 drey
