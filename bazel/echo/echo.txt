@@ -628,7 +628,6 @@ echolocation
 echometer
 echopractic
 echopraxia
-echos
 echovirus
 encyclopaedian
 emball
@@ -6923,6 +6922,7 @@ elixirs
 eightsmen
 entomophthorous
 entomosporium
+echos
 endangered
 effluents
 entomostraca
