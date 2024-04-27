@@ -970,7 +970,6 @@ gameness
 gamenesses
 gorse
 games
-gamesman
 gamesome
 gamesomeness
 gamest
@@ -4577,6 +4576,7 @@ gip
 gipon
 gaetulan
 gipped
+gamesman
 gypped
 gypper
 gyppery
