@@ -2356,6 +2356,7 @@ candida
 conject
 candidacy
 candidacies
+coinheritance
 careeristic
 candidate
 candidates
@@ -18543,7 +18544,6 @@ coinherence
 coinherent
 coinhering
 cagui
-coinheritance
 coinheritor
 coiny
 coining
