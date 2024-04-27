@@ -8868,7 +8868,6 @@ dichloramine
 dichlorhydrin
 dichloride
 dichloroacetic
-dichlorobenzene
 dichlorodifluoromethane
 dichlorodiphenyltrichloroethane
 dichlorohydrin
@@ -16239,6 +16238,7 @@ dowment
 down
 duplicated
 downbear
+dichlorobenzene
 depurant
 demonograph
 downbeard
