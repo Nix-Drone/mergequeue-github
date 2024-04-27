@@ -9850,6 +9850,7 @@ chemiculture
 chemigraph
 chemigraphy
 chemigraphic
+cyclothyme
 chemigraphically
 chemiloon
 chemiluminescence
@@ -31857,7 +31858,6 @@ cutpurses
 cuts
 cutset
 cuttable
-cyclothyme
 cuttage
 cuttages
 crowfooted
