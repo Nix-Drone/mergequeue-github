@@ -2586,7 +2586,6 @@ bookmaking
 bargemaster
 balanophore
 booklice
-barger
 bloomage
 barges
 bargh
@@ -15686,6 +15685,7 @@ broadspread
 broadsword
 broadtail
 boolies
+barger
 broadthroat
 broadway
 broadwayite
