@@ -2874,7 +2874,6 @@ genoise
 genome
 genomic
 genoms
-genonema
 gph
 genos
 gerrymandered
@@ -8210,6 +8209,7 @@ garo
 graphostatics
 graphotype
 graphs
+genonema
 getas
 gastropancreatic
 grapier
