@@ -2473,7 +2473,6 @@ assesses
 acinacifoliate
 acinaciform
 acinacious
-acinar
 acouchy
 albardine
 acinary
@@ -12875,6 +12874,7 @@ anglicism
 anglicisms
 anglicization
 anglicize
+acinar
 anglicized
 anglicizes
 anglify
