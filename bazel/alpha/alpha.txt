@@ -3677,7 +3677,6 @@ adenography
 adenographic
 adenographical
 adenohypersthenia
-adenohypophyseal
 adenohypophysial
 attrib
 adenohypophysis
@@ -21184,6 +21183,7 @@ ashrama
 ashstone
 ashthroat
 ashtoreth
+adenohypophyseal
 ashtray
 ashtrays
 aspartic
