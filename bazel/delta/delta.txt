@@ -1188,7 +1188,6 @@ diospyraceae
 datapac
 datapunch
 disinvolve
-datary
 dataries
 dataset
 datasetname
@@ -5439,6 +5438,7 @@ denture
 dentures
 dish
 denuclearized
+datary
 denuclearizing
 denudant
 drogermen
