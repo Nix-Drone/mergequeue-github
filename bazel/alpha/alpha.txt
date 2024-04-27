@@ -7262,7 +7262,6 @@ aneroid
 alamonti
 afgod
 alamort
-alamosite
 alamoth
 alan
 alange
@@ -22330,6 +22329,7 @@ astrophotography
 abrader
 astrophotographic
 astrophotometer
+alamosite
 astrophotometry
 astrophotometrical
 astroscopy
