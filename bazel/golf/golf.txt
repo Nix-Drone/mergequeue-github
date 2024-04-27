@@ -2264,6 +2264,7 @@ gearset
 gearshift
 gearshifts
 gearwheels
+gleaming
 glistening
 gease
 geat
@@ -5298,7 +5299,6 @@ glumella
 gleamily
 gleaminess
 gerardia
-gleaming
 gleamingly
 gleamless
 glabellous
