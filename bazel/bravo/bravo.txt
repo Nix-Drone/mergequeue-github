@@ -3761,7 +3761,6 @@ bimbil
 batteling
 battels
 battement
-basisolute
 battements
 battened
 battener
@@ -5671,6 +5670,7 @@ beleaps
 beleapt
 beleave
 belection
+basisolute
 belecture
 beledgered
 belee
