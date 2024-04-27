@@ -14551,7 +14551,6 @@ cirsectomies
 cirsium
 cirsocele
 cirsoid
-cirsomphalos
 cirsophthalmia
 completable
 cirsotomy
@@ -19699,6 +19698,7 @@ classifiers
 cloudburst
 combiner
 combiners
+cirsomphalos
 combines
 combing
 combings
