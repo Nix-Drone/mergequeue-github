@@ -4678,7 +4678,6 @@ enchodontid
 enchodontidae
 enchodontoid
 enchodus
-enchondroma
 enchondromas
 epimerase
 enchondromata
@@ -12845,6 +12844,7 @@ embossmen
 exotheca
 exothecal
 exothecate
+enchondroma
 exothecium
 exothermal
 exothermally
