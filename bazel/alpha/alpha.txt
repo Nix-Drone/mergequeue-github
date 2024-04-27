@@ -993,7 +993,6 @@ absolutization
 absolutize
 absolutory
 absolvatory
-absolve
 absolved
 absolvent
 absolver
@@ -3469,6 +3468,7 @@ afforded
 adcons
 admires
 adcraft
+absolve
 add
 alane
 addability
