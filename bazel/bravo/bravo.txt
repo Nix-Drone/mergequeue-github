@@ -4517,7 +4517,6 @@ beclogging
 beclogs
 beclothe
 beclothed
-beclothes
 becloud
 beclouded
 beclouding
@@ -6055,6 +6054,7 @@ bravery
 bestirs
 bemirror
 bemist
+beclothes
 biltongue
 bukshi
 bemisted
