@@ -9881,7 +9881,6 @@ chemistries
 chemists
 chemitype
 chemitypy
-chemitypies
 chemizo
 chemmy
 cornucopia
@@ -14037,6 +14036,7 @@ cinquepace
 cohere
 cinques
 cinter
+chemitypies
 cynthia
 cynthiidae
 cintre
