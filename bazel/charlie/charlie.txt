@@ -14071,7 +14071,6 @@ cipherer
 cipherhood
 ciphering
 cyphering
-ciphers
 ciphertext
 ciphertexts
 cyphomandra
@@ -15801,6 +15800,7 @@ clawk
 clawker
 clawless
 clawlike
+ciphers
 claxon
 claxons
 cleach
