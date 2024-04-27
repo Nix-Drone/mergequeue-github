@@ -8831,7 +8831,6 @@ dyce
 decolor
 diceboard
 dicebox
-dicecup
 debituminize
 dicey
 diceman
@@ -15138,6 +15137,7 @@ dolia
 dolichocephali
 dolichocephalism
 denticete
+dicecup
 dactylist
 debe
 disinfectant
