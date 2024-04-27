@@ -6606,7 +6606,6 @@ griffinism
 goldbricks
 guineapig
 glt
-goldbug
 goldbugs
 goldcrest
 grewsome
@@ -8241,6 +8240,7 @@ graspable
 graspers
 grasping
 graspingly
+goldbug
 gleets
 graspingness
 graspless
