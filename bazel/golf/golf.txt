@@ -6481,7 +6481,6 @@ gramophones
 goundou
 grubstaker
 gyromagnetic
-geographic
 glued
 goblins
 gobo
@@ -10709,6 +10708,7 @@ gastralgic
 gulix
 gusty
 gustier
+geographic
 guilefully
 gustiest
 gularis
