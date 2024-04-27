@@ -1103,6 +1103,7 @@ farms
 farmscape
 farmsteads
 farmtown
+fiberglas
 farnesol
 farnesols
 fogas
@@ -3061,7 +3062,6 @@ fibbing
 fiber
 fiberboard
 fibered
-fiberglas
 fendillate
 fiberization
 fiberize
