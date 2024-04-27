@@ -9336,7 +9336,6 @@ demibob
 doddle
 difficulties
 difficultly
-difficultness
 diffide
 diffidentness
 dentirostres
@@ -18093,6 +18092,7 @@ dumby
 dumbing
 dumbly
 dumbness
+difficultness
 dumbstricken
 dumbstruck
 dumbwaiter
