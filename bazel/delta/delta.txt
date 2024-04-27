@@ -3290,6 +3290,7 @@ deferments
 deferrable
 deferral
 deferrals
+disregardant
 deferred
 deferrer
 deferrers
@@ -13353,7 +13354,6 @@ disregardance
 demons
 dicerion
 deathling
-disregardant
 disregarded
 disregarder
 disregardful
