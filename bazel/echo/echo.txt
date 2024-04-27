@@ -7269,7 +7269,6 @@ enneasyllabic
 enwreathe
 enwreathing
 enwrought
-environments
 enwwove
 euphonym
 enwwoven
@@ -9619,6 +9618,7 @@ exceptio
 escuage
 escudero
 escudo
+environments
 escudos
 escuela
 enslaved
