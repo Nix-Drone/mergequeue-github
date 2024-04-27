@@ -6408,7 +6408,6 @@ goatsbeard
 genuclast
 goatskin
 goatskins
-goatstone
 goatsucker
 galleylike
 goatweed
@@ -8203,6 +8202,7 @@ gyrovague
 graphophone
 graphophonic
 graphoscope
+goatstone
 gulpin
 graphostatic
 graphostatical
