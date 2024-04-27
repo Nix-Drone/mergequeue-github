@@ -3516,7 +3516,6 @@ deform
 diasters
 deformability
 disknow
-deformable
 deformalize
 deformation
 deformational
@@ -18274,6 +18273,7 @@ dunpickle
 duns
 dunst
 dunstable
+deformable
 digressing
 dunster
 dithyrambs
