@@ -3104,6 +3104,7 @@ barware
 barwares
 bratticer
 bravoite
+bilaterality
 basad
 backhouse
 basale
@@ -8516,7 +8517,6 @@ bilander
 bilanders
 bilateral
 bilateralism
-bilaterality
 bilateralities
 behaviors
 bilaterally
