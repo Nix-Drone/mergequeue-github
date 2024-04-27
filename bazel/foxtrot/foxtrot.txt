@@ -197,7 +197,6 @@ factorability
 factorable
 factordom
 factoress
-flateria
 factory
 factorial
 factorially
@@ -4906,6 +4905,7 @@ flameouts
 flameproof
 formulize
 flameproofer
+flateria
 flintlocks
 finfishes
 flamer
