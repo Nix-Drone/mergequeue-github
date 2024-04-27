@@ -5071,7 +5071,6 @@ aeropleustic
 aeroscepsy
 aurum
 aeroscepsis
-aeroscope
 aeroscopy
 aeroscopically
 aerose
@@ -22722,6 +22721,7 @@ atmometric
 allheal
 atmos
 atmosphere
+aeroscope
 atmosphereful
 atmosphereless
 atmospheres
