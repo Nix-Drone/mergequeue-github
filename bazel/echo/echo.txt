@@ -1303,6 +1303,7 @@ eelpout
 eelpouts
 emblemology
 eelshop
+enterfeat
 eelskin
 eelware
 eelworm
@@ -6609,7 +6610,6 @@ enterer
 ellipses
 empathizing
 enterers
-enterfeat
 entergogenic
 enteria
 etouffe
