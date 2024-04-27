@@ -10132,6 +10132,7 @@ etalage
 etamin
 equippers
 ever
+exploit
 etamines
 etyma
 etamins
@@ -13205,7 +13206,6 @@ exploder
 exhaustlessness
 exploders
 explodes
-exploit
 ecumenics
 exploitable
 exploitation
