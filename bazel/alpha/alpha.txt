@@ -5359,7 +5359,6 @@ affixial
 affixion
 affixment
 ague
-affixture
 afflate
 afflated
 afflatus
@@ -8701,6 +8700,7 @@ atelectasis
 alligations
 alligator
 alligatored
+affixture
 alligatorfish
 alligatorfishes
 alligators
