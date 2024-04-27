@@ -2664,7 +2664,6 @@ decompose
 decomposed
 delphin
 dimmy
-decomposer
 decomposers
 decomposes
 decomposing
@@ -6249,6 +6248,7 @@ dermatographism
 dermatolysis
 dermatology
 defeudalize
+decomposer
 dermatologic
 dermatological
 desexes
