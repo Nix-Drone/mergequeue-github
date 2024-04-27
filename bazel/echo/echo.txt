@@ -4583,6 +4583,7 @@ encephalomeningocele
 encephalometric
 encephalomyelitic
 encephalomyelitis
+epimeride
 erucin
 encephalomyelopathy
 encephalomyocarditis
@@ -7989,7 +7990,6 @@ epimer
 epimeral
 epimeres
 epimeric
-epimeride
 epimerism
 enorganic
 exhaustibility

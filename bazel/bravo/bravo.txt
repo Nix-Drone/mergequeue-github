@@ -8118,7 +8118,6 @@ biconically
 biconjugate
 biconsonantal
 biconvex
-biconvexity
 bicorn
 buccinae
 bombyx
@@ -12907,6 +12906,7 @@ boracite
 boracium
 boracous
 borage
+biconvexity
 boraginaceous
 borago
 bedamn
