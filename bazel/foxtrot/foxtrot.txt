@@ -4148,7 +4148,6 @@ faithwise
 firebombs
 forestery
 fireboot
-firebox
 frogflower
 familiarism
 foreaccounting
@@ -4872,6 +4871,7 @@ forehead
 flambeau
 flambeaus
 flambee
+firebox
 filasse
 fatherling
 flamberg
