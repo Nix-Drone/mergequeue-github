@@ -4437,6 +4437,7 @@ fishworker
 fishworks
 fringilliformes
 fishworm
+feat
 fisnoga
 frostbound
 fissidentaceous
@@ -10432,7 +10433,6 @@ frontierman
 flusterment
 fibrocartilage
 foresaid
-feat
 frontiersmen
 frontignac
 ferthumlungur
