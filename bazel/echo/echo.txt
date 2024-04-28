@@ -2064,7 +2064,6 @@ elaenia
 elaeoblast
 elaeoblastic
 elaeocarpaceae
-elaeocarpus
 elaeococca
 elaeodendron
 elaeodochon
@@ -13630,6 +13629,7 @@ externalize
 externalized
 externalizes
 externalness
+elaeocarpus
 evolvements
 externat
 externate
