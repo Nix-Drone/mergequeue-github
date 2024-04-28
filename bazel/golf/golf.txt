@@ -2172,6 +2172,7 @@ gargoyles
 gawked
 gianthood
 graminivore
+governable
 gazometer
 gawkhammer
 graptolitoidea
@@ -8810,7 +8811,6 @@ gavel
 greyest
 greyflies
 glyoxilin
-governable
 gingerwort
 ganglioside
 greyiaceae
