@@ -6919,7 +6919,6 @@ freedom
 folkmoot
 flatmate
 flotas
-foreignization
 folkmoots
 fauchard
 folkmoter
@@ -11458,6 +11457,7 @@ frustrable
 furnishes
 furnishing
 facets
+foreignization
 fireboxes
 furnishings
 fudges
