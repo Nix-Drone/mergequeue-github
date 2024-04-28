@@ -6509,7 +6509,6 @@ benzotoluide
 believableness
 benzotriazine
 benzotriazole
-benzotrichloride
 buster
 benzotrifluoride
 benzotrifuran
@@ -11550,6 +11549,7 @@ boardly
 boardlike
 billhead
 boardroom
+benzotrichloride
 boards
 boardsmanship
 boardwalks
