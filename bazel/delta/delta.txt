@@ -1324,7 +1324,6 @@ dauphin
 dauphine
 dauphines
 drapable
-dauphiness
 daur
 dauri
 daurna
@@ -4074,6 +4073,7 @@ deliberalization
 declivate
 deliberalize
 deliberandum
+dauphiness
 deliberant
 deliberate
 deliberated
