@@ -3379,7 +3379,6 @@ consignificate
 capsular
 capsulated
 capsulation
-capsule
 collegatary
 chawbone
 capsulectomy
@@ -10605,6 +10604,7 @@ chylocyst
 chilodon
 chilognatha
 chilognathous
+capsule
 chilogrammo
 chyloid
 chrysophenine
