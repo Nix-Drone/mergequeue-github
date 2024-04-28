@@ -8758,7 +8758,6 @@ allocatee
 allocates
 allocating
 allocation
-amyosthenia
 aqueoglacial
 allocator
 allocators
@@ -16489,6 +16488,7 @@ antlike
 antling
 antlion
 antlions
+amyosthenia
 antlophobia
 antocular
 antodontalgic
