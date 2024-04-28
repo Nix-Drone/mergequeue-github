@@ -2523,7 +2523,6 @@ acknowledge
 acknowledgeable
 acknowledged
 afoam
-acknowledgedly
 acknowledgements
 acknowledger
 acknowledgers
@@ -18039,6 +18038,7 @@ approved
 approvedly
 approvedness
 approver
+acknowledgedly
 antiempirical
 approvers
 approves
