@@ -9984,7 +9984,6 @@ biwa
 byway
 byways
 bushranger
-bywalk
 bywalking
 biweeklies
 biwinter
@@ -13117,6 +13116,7 @@ borzoi
 borzois
 bosc
 boscages
+bywalk
 bosch
 boschbok
 boschneger
