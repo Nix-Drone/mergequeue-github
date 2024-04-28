@@ -1663,7 +1663,6 @@ babby
 balloons
 ballot
 ballota
-balloted
 balloter
 blowsy
 balloting
@@ -13440,6 +13439,7 @@ bouchaleen
 boucharde
 bouche
 bouchee
+balloted
 beseeching
 boucher
 bouchette
