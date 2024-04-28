@@ -84,7 +84,6 @@ epicalyces
 earmuff
 earmuffs
 earn
-earnable
 earned
 earner
 earnest
@@ -10623,6 +10622,7 @@ eucalyptus
 eucarida
 eucaryote
 eucatropine
+earnable
 eucgia
 eucharis
 enheritage
