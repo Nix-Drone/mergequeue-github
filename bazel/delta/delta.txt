@@ -6475,7 +6475,6 @@ descender
 dispunct
 descendibility
 dispar
-descendible
 descending
 dipsos
 descendingly
@@ -8142,6 +8141,7 @@ diactinic
 diactinism
 diaculum
 dyad
+descendible
 deemphasizing
 diathermal
 diadelphia
