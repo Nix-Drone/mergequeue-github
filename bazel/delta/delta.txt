@@ -4380,7 +4380,6 @@ dioptrometer
 demagnetisation
 dode
 demagnetise
-demagnetised
 demagnetiser
 demagnetising
 demagnetization
@@ -11335,6 +11334,7 @@ disciform
 dravida
 discigerous
 discina
+demagnetised
 discinct
 discind
 debit
