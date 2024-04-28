@@ -120,7 +120,6 @@ departments
 dactylonomy
 dactylopatagium
 dactylopore
-dactylopteridae
 disclaimant
 dactylopterus
 dactylorhiza
@@ -3067,6 +3066,7 @@ deerdrive
 deerfly
 decerniture
 deerflies
+dactylopteridae
 deerflys
 dragoness
 dolichocephaly
