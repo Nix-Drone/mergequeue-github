@@ -1717,6 +1717,7 @@ deathtime
 deathtrap
 deathtraps
 deathward
+delian
 deathwatches
 deathweed
 deathworm
@@ -4068,7 +4069,6 @@ decryptograph
 disestablismentarianism
 dely
 delia
-delian
 disclosable
 deliberalization
 declivate
