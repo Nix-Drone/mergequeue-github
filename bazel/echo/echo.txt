@@ -5433,7 +5433,6 @@ endseal
 endshake
 endsheet
 everglade
-execrates
 endue
 exploration
 enduing
@@ -7900,6 +7899,7 @@ eddyroot
 encourager
 epigrammatise
 epigrammatising
+execrates
 epigrammatize
 epigrammatized
 echoingly
