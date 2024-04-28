@@ -17639,7 +17639,6 @@ counternoise
 cockpaddle
 cockpit
 croute
-cockpits
 couched
 cockroach
 comaking
@@ -23283,6 +23282,7 @@ consummation
 consummations
 calamaroid
 consummative
+cockpits
 consummativeness
 consummator
 consummatory
