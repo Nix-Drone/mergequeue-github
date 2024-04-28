@@ -12451,7 +12451,6 @@ bones
 boneset
 bonesets
 bonesetter
-barnyard
 bonesetting
 brushite
 boneshaker
@@ -15579,6 +15578,7 @@ brisure
 brit
 britain
 buzzardlike
+barnyard
 britannia
 britannic
 biting
