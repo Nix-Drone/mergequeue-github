@@ -1742,7 +1742,6 @@ dodecuplet
 demagnetisable
 debarked
 debarking
-debarkment
 debarks
 debarment
 debarrance
@@ -14663,6 +14662,7 @@ dockers
 docket
 docketed
 docketing
+debarkment
 dockets
 dockhand
 dockhouse
