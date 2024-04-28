@@ -2742,6 +2742,7 @@ barmaster
 barmbrack
 barmcloth
 brither
+bogus
 barmecide
 barmen
 barmfel
@@ -11935,7 +11936,6 @@ bogue
 brushers
 boguing
 bogum
-bogus
 bogwoods
 bohairic
 bohawn
