@@ -10579,7 +10579,6 @@ bedarken
 bleachhouse
 bleachyard
 bleaching
-bleachman
 bleachworks
 bepun
 bleaker
@@ -14258,6 +14257,7 @@ brahmanic
 brahmanical
 brahmanism
 brahmanist
+bleachman
 brahmanistic
 brahmanists
 brahmanize
