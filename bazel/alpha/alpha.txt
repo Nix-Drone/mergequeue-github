@@ -4135,7 +4135,6 @@ admissable
 admissibility
 admissible
 admissibly
-admission
 admissions
 admissive
 automaton
@@ -6538,6 +6537,7 @@ aguaji
 aguamiel
 aguardiente
 aguavina
+admission
 athelia
 agudist
 aguey
