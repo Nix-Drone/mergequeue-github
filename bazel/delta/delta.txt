@@ -5980,7 +5980,6 @@ depressurize
 deprest
 depreter
 deprevation
-depriment
 deprint
 depriorize
 dysmerism
@@ -17620,6 +17619,7 @@ drumstick
 drumsticks
 drumwood
 drungar
+depriment
 drunk
 drunkard
 desaturate
