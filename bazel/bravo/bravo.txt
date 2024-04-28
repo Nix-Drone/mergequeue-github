@@ -3010,7 +3010,6 @@ barricados
 barrico
 barricoes
 barrier
-barriers
 barriguda
 barrigudos
 broadaxe
@@ -8089,6 +8088,7 @@ bipartisanism
 boatsmanship
 bick
 belemnitidae
+barriers
 bicker
 bickered
 bickerer
