@@ -2938,7 +2938,6 @@ canvas
 canvasado
 canvasback
 canvasbacks
-canvasers
 canvases
 canvasing
 canvaslike
@@ -24965,6 +24964,7 @@ clavial
 cordial
 cordiality
 cordialities
+canvasers
 cordialize
 cordially
 conelrads
