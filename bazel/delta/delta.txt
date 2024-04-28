@@ -1098,6 +1098,7 @@ decolorize
 das
 drawgear
 dase
+designado
 dasein
 dasewe
 dashboard
@@ -6662,7 +6663,6 @@ deadness
 desight
 design
 designable
-designado
 designate
 designates
 designation
