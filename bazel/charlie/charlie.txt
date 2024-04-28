@@ -11557,6 +11557,7 @@ cholecystectomized
 cholecystenterorrhaphy
 cholecystenterostomy
 cholecystgastrostomy
+crustacean
 cholecystic
 cholecystis
 cholecystitis
@@ -30314,7 +30315,6 @@ crust
 crusta
 corralling
 crustaceal
-crustacean
 crustaceology
 crustaceological
 crustaceologist
