@@ -294,7 +294,6 @@ eastre
 euphoniousness
 eat
 eagerer
-eatability
 eatable
 eatables
 electrolyzability
@@ -3503,6 +3502,7 @@ embloom
 eringoes
 embodied
 endamoebic
+eatability
 embodiers
 embodies
 emancipation
