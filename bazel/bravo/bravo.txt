@@ -2587,6 +2587,7 @@ bargemaster
 balanophore
 booklice
 barger
+burdies
 bloomage
 barges
 bargh
@@ -13377,7 +13378,6 @@ bottlebrush
 bottled
 bottleflower
 bottleful
-burdies
 bdellotomy
 bottlefuls
 bottlehead
