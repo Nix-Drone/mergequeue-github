@@ -5743,6 +5743,7 @@ deplenish
 depletable
 depleteable
 depleted
+demonstrance
 depleting
 depletion
 depletions
@@ -7363,7 +7364,6 @@ detrition
 deselect
 detritivorous
 detrivorous
-demonstrance
 detroiter
 detruck
 detrude
