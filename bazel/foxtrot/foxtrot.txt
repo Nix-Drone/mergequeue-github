@@ -6288,7 +6288,6 @@ fissicostate
 fecit
 fluidified
 fluidifier
-fluidimeter
 fluidisation
 forewisdom
 fluidised
@@ -10891,6 +10890,7 @@ fulgid
 fulgide
 fulgidity
 fulgor
+fluidimeter
 floretum
 fantasizing
 faugh
