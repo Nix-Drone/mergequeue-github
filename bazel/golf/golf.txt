@@ -2649,6 +2649,7 @@ gendarmerie
 gendarmes
 gender
 genderer
+gustable
 genders
 ghoulie
 geneal
@@ -6935,7 +6936,6 @@ galimatias
 gonopores
 gonorrhoea
 gucki
-gustable
 garg
 gonorrhoeal
 gonosome
