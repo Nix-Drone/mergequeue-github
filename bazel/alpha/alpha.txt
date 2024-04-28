@@ -4525,6 +4525,7 @@ advancement
 advancements
 advancer
 advancers
+apiculus
 advances
 advancing
 advancingly
@@ -17008,7 +17009,6 @@ apiculi
 astrographic
 apicultural
 apiculturist
-apiculus
 apiece
 aluminotype
 apieces
