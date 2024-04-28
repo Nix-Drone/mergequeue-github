@@ -8908,6 +8908,7 @@ dub
 dichroic
 dorsum
 disgeneric
+dosed
 dichroism
 dihydride
 dichroite
@@ -15869,7 +15870,6 @@ dosage
 dosages
 dosain
 dose
-dosed
 doser
 dosers
 dosimeter
