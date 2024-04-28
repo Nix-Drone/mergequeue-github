@@ -4658,7 +4658,6 @@ bedclothing
 bedcord
 byplays
 bedcovers
-beddable
 bedders
 bedding
 beddingroll
@@ -11343,6 +11342,7 @@ blued
 bluefin
 blobbing
 bluefins
+beddable
 bluegill
 belonosphaerite
 bluegills
