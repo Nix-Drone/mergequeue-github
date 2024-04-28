@@ -1795,6 +1795,7 @@ featherfew
 featherfoil
 featherhead
 fama
+formatters
 featherheaded
 featherier
 floit
@@ -5457,7 +5458,6 @@ fleshiness
 fourniture
 fleshing
 fleshings
-formatters
 fanjets
 fleshless
 fleshlier
