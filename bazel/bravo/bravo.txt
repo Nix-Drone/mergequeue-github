@@ -641,7 +641,6 @@ bishopbird
 bacteriodiagnosis
 bacteriofluorescin
 bromates
-bacteriogenic
 bacteriogenous
 bacteriohemolysin
 bacterioidal
@@ -9333,6 +9332,7 @@ bipod
 bipods
 baccae
 bipolar
+bacteriogenic
 bipolarity
 bipolarization
 bipont
