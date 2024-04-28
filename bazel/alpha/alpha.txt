@@ -5693,7 +5693,6 @@ afterspeech
 afterspring
 appetisse
 afterstorm
-afterstretch
 afterstudy
 aftersupper
 antidynamic
@@ -11349,6 +11348,7 @@ amra
 amreeta
 amrelle
 ait
+afterstretch
 amrit
 autographical
 amrita
