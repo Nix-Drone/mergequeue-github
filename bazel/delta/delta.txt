@@ -3269,7 +3269,6 @@ defenselessly
 defenselessness
 defenseman
 defensemen
-defenser
 defenses
 defensibility
 defensibleness
@@ -9625,6 +9624,7 @@ dika
 dikage
 dikamali
 dispersedelement
+defenser
 dikaryon
 dikaryophase
 delignated
