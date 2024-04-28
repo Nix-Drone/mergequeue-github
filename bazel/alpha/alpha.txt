@@ -6834,7 +6834,6 @@ aircoaches
 aircraft
 aircraftman
 axometer
-aircraftmen
 aircraftsman
 aircraftsmen
 aircraftswoman
@@ -15047,6 +15046,7 @@ anticontagious
 anticontagiously
 anticontagiousness
 anticonvellent
+aircraftmen
 anticonventional
 anticonventionalist
 anticonventionally
