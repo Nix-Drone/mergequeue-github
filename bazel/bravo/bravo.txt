@@ -6406,7 +6406,6 @@ benzdioxdiazine
 benzdioxtriazine
 benzein
 benzene
-benzeneazobenzene
 bastian
 benzenediazonium
 birthrate
@@ -15675,6 +15674,7 @@ borrow
 broadpiece
 broads
 broadshare
+benzeneazobenzene
 broadside
 broadsided
 broadsider
