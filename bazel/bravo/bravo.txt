@@ -1680,7 +1680,6 @@ ballplayer
 ballplayers
 ballplatz
 bedrabbled
-ballpoint
 ballproof
 ballrooms
 balls
@@ -8264,6 +8263,7 @@ byestreet
 biethnic
 baccar
 bietle
+ballpoint
 byeworker
 byeworkman
 bluejoint
