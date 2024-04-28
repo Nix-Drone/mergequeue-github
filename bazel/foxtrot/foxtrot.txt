@@ -41,7 +41,6 @@ fabrique
 fabronia
 fabroniaceae
 fabula
-fabular
 foreshowing
 fabulate
 fabulist
@@ -6858,6 +6857,7 @@ foliages
 foliaging
 furnishment
 federating
+fabular
 furomonazole
 foliary
 flittern
