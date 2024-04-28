@@ -5673,7 +5673,6 @@ contribute
 catchweight
 catchword
 catchwork
-catclaw
 catdom
 cate
 catechesis
@@ -23397,6 +23396,7 @@ contemplant
 contemplate
 contemplatedly
 contemplates
+catclaw
 contemplating
 contemplation
 contemplations
