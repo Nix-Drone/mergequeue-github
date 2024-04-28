@@ -2969,7 +2969,6 @@ eliminable
 eliminand
 eliminant
 eliminate
-entoplastic
 eliminated
 eliminates
 ellipsometry
@@ -13792,6 +13791,7 @@ elaeothesia
 extracosmical
 energizer
 erlkings
+entoplastic
 extracostal
 ethnozoological
 escapades
