@@ -1184,6 +1184,7 @@ councilist
 calendars
 calendas
 calender
+coinheritor
 calendered
 curvilinearly
 calendering
@@ -18544,7 +18545,6 @@ coinherent
 coinhering
 cagui
 coinheritance
-coinheritor
 coiny
 coining
 coinitial
