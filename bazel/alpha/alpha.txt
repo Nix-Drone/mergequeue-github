@@ -5008,7 +5008,6 @@ aerologist
 aerologists
 antieducationist
 aeromaechanic
-aeromancer
 aeromancy
 aeromechanic
 aeromechanics
@@ -11966,6 +11965,7 @@ apprenticed
 armagnac
 anarthrosis
 anarthrous
+aeromancer
 anarthrously
 anarthrousness
 anartismos
