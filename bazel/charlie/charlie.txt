@@ -14611,7 +14611,6 @@ cist
 cyst
 cista
 cistaceae
-cistaceous
 cystadenoma
 cystadenosarcoma
 cystalgia
@@ -24456,6 +24455,7 @@ copaene
 copaiba
 copaibas
 copaifera
+cistaceous
 copaiye
 copaiva
 courtliness
