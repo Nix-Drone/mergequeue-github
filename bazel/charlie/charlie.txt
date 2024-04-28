@@ -10097,7 +10097,6 @@ chesil
 cheskey
 choices
 cheskeys
-cheslep
 chesoun
 chess
 chessart
@@ -12793,6 +12792,7 @@ chunga
 chungking
 conceits
 confronted
+cheslep
 chunk
 chunked
 chunkhead
