@@ -5955,6 +5955,7 @@ fluidrachm
 floorward
 furniment
 forgivingly
+foreparent
 floorwise
 floosy
 floosies
@@ -7369,7 +7370,6 @@ forbearingly
 forby
 forewarnings
 faunlike
-foreparent
 foreplot
 forbid
 forebodingly
