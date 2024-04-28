@@ -3691,7 +3691,6 @@ calamodendron
 carbohydrase
 carbohydrate
 carbohydrates
-carbohydraturia
 carbohydrazide
 carbohydride
 carbohydrogen
@@ -22383,6 +22382,7 @@ conidioid
 conidiophorous
 conidiospore
 conidium
+carbohydraturia
 conifer
 coniferae
 coniferin
