@@ -3168,7 +3168,6 @@ actinopterygii
 antrotome
 actinopterygious
 actinoscopy
-actinosome
 actinosphaerium
 actinost
 actinostereoscopy
@@ -13587,6 +13586,7 @@ annotates
 annotating
 annotation
 avoiding
+actinosome
 annotations
 annotative
 annotatively
