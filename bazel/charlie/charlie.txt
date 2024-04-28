@@ -15023,7 +15023,6 @@ cytotrophoblast
 cloud
 cytotrophoblastic
 cytotropic
-cytotropism
 circularity
 cytovirin
 cytozoic
@@ -27783,6 +27782,7 @@ crabbery
 crabbers
 chaetangium
 carnivaler
+cytotropism
 crabby
 crabbiest
 codewords

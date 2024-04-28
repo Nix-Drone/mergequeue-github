@@ -3289,7 +3289,6 @@ deferment
 deferments
 deferrable
 deferral
-deferrals
 deferred
 deferrer
 deferrers
@@ -9677,6 +9676,7 @@ dilated
 dilatedly
 demythologized
 disunified
+deferrals
 dilatedness
 disappears
 desolatingly
