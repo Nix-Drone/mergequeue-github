@@ -311,7 +311,6 @@ etruscans
 epitaphless
 eaved
 eavedrop
-eavedropper
 eavedropping
 exsecants
 evenings
@@ -6913,6 +6912,7 @@ entomophagous
 entomophila
 entomophily
 entomophytous
+eavedropper
 entomophobia
 entomophthora
 entomophthoraceae
