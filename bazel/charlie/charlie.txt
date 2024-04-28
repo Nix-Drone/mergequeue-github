@@ -1632,7 +1632,6 @@ calpacs
 calpolli
 calpul
 calpulli
-calque
 calqued
 chambrel
 calques
@@ -9294,6 +9293,7 @@ chatoyant
 chaton
 chatons
 chatot
+calque
 compel
 chetahs
 chats
