@@ -2109,6 +2109,7 @@ banky
 bankings
 bankman
 banality
+bourses
 bankmen
 banknote
 barrelet
@@ -4747,7 +4748,6 @@ bedizenment
 bedizens
 bedkey
 bedlam
-bourses
 bedlamer
 bedlamic
 booked
