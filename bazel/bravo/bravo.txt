@@ -10455,7 +10455,6 @@ blastoneuropore
 bogan
 blastophyllum
 blastophitic
-blastophoral
 blastophoric
 blastophthoria
 blastophthoric
@@ -14248,6 +14247,7 @@ bragwort
 brahm
 brahmachari
 brahmahood
+blastophoral
 brahmaic
 brahmana
 brahmanaspati
