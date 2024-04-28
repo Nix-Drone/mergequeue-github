@@ -8744,7 +8744,6 @@ equipostile
 etoiles
 equipotential
 equipotentiality
-equiprobability
 emits
 equiprobably
 enablers
@@ -14159,6 +14158,7 @@ exudatory
 enrichers
 externalising
 exuded
+equiprobability
 ennoy
 exudence
 exudes
