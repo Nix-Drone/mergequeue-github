@@ -16235,7 +16235,6 @@ clinid
 clinium
 clink
 clinkant
-clinker
 clinkered
 clinkerer
 clinkery
@@ -27750,6 +27749,7 @@ cozie
 cozier
 coziest
 cozily
+clinker
 cp
 contractus
 cpd
