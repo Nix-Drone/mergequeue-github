@@ -1954,6 +1954,7 @@ eisteddfod
 eisteddfodau
 evertebral
 eisteddfodic
+exporters
 eisteddfodism
 eisteddfods
 ecphorization
@@ -13277,7 +13278,6 @@ exported
 enlength
 encyclopediac
 exporter
-exporters
 entireties
 epigenesis
 exporting
