@@ -11850,7 +11850,6 @@ chopine
 chopines
 chopins
 choplogic
-choplogical
 chopped
 chopper
 choppers
@@ -29931,6 +29930,7 @@ crossways
 crosswalk
 crosswalks
 crossweb
+choplogical
 crossweed
 crosswise
 crosswiseness
