@@ -4579,7 +4579,6 @@ encephalomalacia
 encephalomalacosis
 encephalomalaxis
 encephalomas
-encephalomeningocele
 encephalometric
 encephalomyelitic
 encephalomyelitis
@@ -12362,6 +12361,7 @@ exenterating
 exenteritis
 exequial
 exequies
+encephalomeningocele
 exerce
 exercent
 exercisable
