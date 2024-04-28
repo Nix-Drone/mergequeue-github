@@ -2378,6 +2378,7 @@ eimer
 electrocutioner
 entrechat
 exanguin
+eudora
 electrocutions
 emplaces
 electrode
@@ -10283,7 +10284,6 @@ etherized
 etherizes
 etherizing
 edict
-eudora
 ethernet
 etherolate
 expressor
