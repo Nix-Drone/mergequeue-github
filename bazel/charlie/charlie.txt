@@ -4113,7 +4113,6 @@ cardlike
 cardmaker
 cardmaking
 cardo
-cardol
 cardon
 cardona
 cardoncillo
@@ -25819,6 +25818,7 @@ corruptor
 chapper
 corruptress
 corrupts
+cardol
 corsac
 corsacs
 corsage
