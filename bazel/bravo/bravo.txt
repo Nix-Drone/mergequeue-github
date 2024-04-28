@@ -5196,7 +5196,6 @@ befrilled
 befringe
 befringed
 befringes
-befringing
 befrocked
 befrogged
 befrounce
@@ -12663,6 +12662,7 @@ booklift
 booklike
 bookling
 booklists
+befringing
 booklore
 bhavan
 bioecologic
