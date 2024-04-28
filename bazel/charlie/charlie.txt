@@ -6683,7 +6683,6 @@ celerities
 celestas
 celeste
 corned
-celestes
 celestial
 celestialized
 celestially
@@ -17509,6 +17508,7 @@ coccidioides
 coccidioidomycosis
 coprinae
 coccidiomorpha
+celestes
 coccidiosis
 coccidium
 circumflexion
