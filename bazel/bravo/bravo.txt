@@ -3381,6 +3381,7 @@ basnat
 baltic
 basoche
 basocyte
+benzotoluide
 basoga
 braciolas
 broadgage
@@ -6505,7 +6506,6 @@ benzothiodiazole
 benzothiofuran
 benzothiophene
 benzothiopyran
-benzotoluide
 believableness
 benzotriazine
 benzotriazole
