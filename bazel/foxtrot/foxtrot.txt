@@ -1076,6 +1076,7 @@ farmable
 farmed
 farmer
 farmeress
+fasc
 farmery
 filigraned
 farmeries
@@ -1172,7 +1173,6 @@ farts
 ff
 fas
 foreguts
-fasc
 fascinative
 fasces
 fascet
