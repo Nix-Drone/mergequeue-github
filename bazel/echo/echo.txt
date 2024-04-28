@@ -1093,7 +1093,6 @@ edges
 edgeshot
 evaluate
 edgeway
-edgeways
 enshrouded
 edgewise
 edgy
@@ -6618,6 +6617,7 @@ excerpts
 emove
 endothecate
 enterobacterial
+edgeways
 epoxide
 enterobiasis
 enterobiliary
