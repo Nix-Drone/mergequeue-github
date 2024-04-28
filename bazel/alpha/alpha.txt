@@ -14471,7 +14471,6 @@ advantaged
 anthrachrysone
 anthracia
 anthraciferous
-anthracyl
 anthracitic
 anthracitiferous
 anthracitious
@@ -25281,6 +25280,7 @@ azlon
 azo
 azobacter
 aflame
+anthracyl
 azobenzene
 azobenzil
 arsonvalization
