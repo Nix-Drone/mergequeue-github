@@ -3426,7 +3426,6 @@ adapt
 adaptability
 adaptable
 adaptableness
-adaptably
 adaptationally
 adaptations
 adaptative
@@ -19310,6 +19309,7 @@ ardito
 ardoise
 ardors
 ardour
+adaptably
 ardours
 ardri
 ardu
