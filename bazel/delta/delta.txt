@@ -2471,7 +2471,6 @@ daphnioid
 deckhand
 deckhead
 deckhouse
-deckle
 deckman
 deckpipe
 decks
@@ -6936,6 +6935,7 @@ despondencies
 despondent
 despondently
 despondentness
+deckle
 desponder
 desponding
 despondingly
