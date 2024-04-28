@@ -12154,7 +12154,6 @@ anchithere
 anchitherioid
 anchor
 anchorable
-anchorage
 anchorages
 anchorate
 anchored
@@ -24073,6 +24072,7 @@ autogiros
 autogyros
 ambulators
 autognostic
+anchorage
 autograft
 autografting
 autogram
