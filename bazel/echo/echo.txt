@@ -200,7 +200,6 @@ earthslide
 earthsmoke
 earthtongue
 earthwall
-earthwork
 earthworks
 ecdysones
 earthworms
@@ -6427,6 +6426,7 @@ ensisternum
 ensky
 enskied
 esthesia
+earthwork
 enskies
 enskying
 enslave
