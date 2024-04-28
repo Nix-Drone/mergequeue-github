@@ -5553,6 +5553,7 @@ blockline
 bejewelled
 barricading
 bejewelling
+bryon
 bejewels
 backstamp
 beadhouses
@@ -9190,7 +9191,6 @@ byon
 biospeleology
 biosphere
 biospheres
-bryon
 bionomical
 biostatic
 biostatistic
