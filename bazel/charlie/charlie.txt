@@ -4112,7 +4112,6 @@ chinner
 cardlike
 cardmaker
 cardmaking
-cardo
 cardol
 cardon
 cardona
@@ -7926,6 +7925,7 @@ chamberwoman
 cestoidea
 coronize
 cestoidean
+cardo
 cestoids
 ceston
 cestos
