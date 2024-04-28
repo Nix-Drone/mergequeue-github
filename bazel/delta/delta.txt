@@ -8205,7 +8205,6 @@ diagnosis
 diagnostical
 disjunction
 diagnostically
-diagnosticate
 diagnosticated
 diagnosticating
 diagnostication
@@ -16530,6 +16529,7 @@ dunfish
 drumble
 draffiest
 dumbledore
+diagnosticate
 deoxidator
 draffish
 draffman
