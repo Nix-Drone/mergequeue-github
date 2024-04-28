@@ -56,7 +56,6 @@ facebow
 facecloth
 firestone
 faced
-foreladies
 faceharden
 faceless
 flecken
@@ -1236,6 +1235,7 @@ fascioloid
 fascis
 filamentose
 fulup
+foreladies
 flanken
 fixive
 fascism
