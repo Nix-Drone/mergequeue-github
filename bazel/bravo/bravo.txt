@@ -11530,7 +11530,6 @@ bm
 bo
 boa
 backspliced
-boaedon
 belfast
 boagane
 boanbura
@@ -17604,6 +17603,7 @@ burets
 burette
 burettes
 burez
+boaedon
 burfish
 burg
 bimolecular
