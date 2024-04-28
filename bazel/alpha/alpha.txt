@@ -6240,6 +6240,7 @@ agname
 agnamed
 agnat
 agnate
+allothimorph
 agnates
 agnatha
 agnathia
@@ -8936,7 +8937,6 @@ allegorization
 allothigenetically
 allothigenic
 allothigenous
-allothimorph
 allothimorphic
 allothogenic
 allotypes
