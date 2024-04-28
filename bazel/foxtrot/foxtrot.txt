@@ -3124,7 +3124,6 @@ fibrocartilaginous
 fibrocellular
 fibrocement
 fibrochondrosteal
-fibrocyst
 fibrocystoma
 fibrocyte
 fibrocytic
@@ -3682,6 +3681,7 @@ filigrain
 functionalistic
 fretsaws
 filigrained
+fibrocyst
 fanged
 foibles
 firstborn
