@@ -2325,6 +2325,7 @@ cancionero
 canciones
 causeless
 cancri
+collatable
 cancrid
 cancriform
 cancrine
@@ -18883,7 +18884,6 @@ cochal
 cosmetical
 collarless
 collars
-collatable
 collate
 collatee
 correspondentially
