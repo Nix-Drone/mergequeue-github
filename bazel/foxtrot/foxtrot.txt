@@ -2586,7 +2586,6 @@ ferryboat
 ferryboats
 familistery
 ferricyanate
-ferrandin
 furiosity
 ferricyanide
 ferrihydrocyanic
@@ -4612,6 +4611,7 @@ flourisher
 ficoideae
 fixable
 fixage
+ferrandin
 fixate
 fixation
 freakier
