@@ -2920,7 +2920,6 @@ elfwort
 elhi
 etches
 electroanalysis
-elian
 eisodic
 enanthesis
 endoradiosonde
@@ -9107,6 +9106,7 @@ ecumenic
 erysipeloid
 erysipelous
 erysiphe
+elian
 elicitable
 eristic
 eristical
