@@ -3525,6 +3525,7 @@ caract
 caractacus
 caracter
 caraculs
+chemolysis
 caradoc
 carafe
 carafes
@@ -9893,7 +9894,6 @@ chemoautotrophically
 chemoceptor
 chemokinesis
 chemokinetic
-chemolysis
 chemolytic
 coasted
 colpostat
