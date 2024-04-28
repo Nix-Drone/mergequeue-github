@@ -6965,7 +6965,6 @@ besetment
 besets
 besetter
 besetters
-besetting
 besew
 beshackle
 beshade
@@ -7299,6 +7298,7 @@ bestrides
 bestriding
 bestrode
 bhutia
+besetting
 bestrow
 bedrugs
 bisons
