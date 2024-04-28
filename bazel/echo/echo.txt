@@ -9125,7 +9125,6 @@ ensampler
 erythraea
 erythraean
 erythraemia
-entreatable
 erythrasma
 erythrean
 erythremia
@@ -13845,6 +13844,7 @@ extraessential
 extrafascicular
 extrafine
 extrafloral
+entreatable
 etym
 extrafocal
 extrafoliaceous
