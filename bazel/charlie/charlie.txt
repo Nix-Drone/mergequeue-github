@@ -9838,7 +9838,6 @@ chemicocautery
 chemicodynamic
 chemicoluminescence
 chemicoluminescent
-chemicomechanical
 chemicomineralogical
 chemicopharmaceutical
 chemicophysical
@@ -18449,6 +18448,7 @@ cousinship
 cohunes
 cohusband
 chelae
+chemicomechanical
 coyan
 coydog
 ceromez
