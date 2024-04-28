@@ -8194,7 +8194,6 @@ chainomatic
 cultists
 chains
 chainsman
-chainsmen
 cleanups
 chainsmith
 chainwale
@@ -30862,6 +30861,7 @@ cultivations
 cultivative
 cultivator
 cultive
+chainsmen
 cultrate
 cultrated
 cultriform
