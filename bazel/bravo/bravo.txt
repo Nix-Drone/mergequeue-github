@@ -5238,7 +5238,6 @@ begats
 bestrows
 begattal
 bastes
-begaud
 begaudy
 bobbled
 begaze
@@ -17317,6 +17316,7 @@ barricadoed
 bumped
 bumpee
 bumpered
+begaud
 bumperette
 bumpering
 burrowed
