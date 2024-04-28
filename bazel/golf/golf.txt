@@ -4794,7 +4794,6 @@ gra
 gyron
 gironde
 girondin
-gentrice
 gironny
 gyronny
 girons
@@ -6689,6 +6688,7 @@ grit
 golgotha
 golgothas
 goodyness
+gentrice
 goliardic
 garble
 geocentricism
