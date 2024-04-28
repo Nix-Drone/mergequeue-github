@@ -2396,7 +2396,6 @@ gekkonoid
 greedy
 groat
 gel
-gelable
 gelidiaceae
 guideship
 gelandelaufer
@@ -2648,6 +2647,7 @@ geobotanical
 gendarmerie
 gendarmes
 gender
+gelable
 genderer
 genders
 ghoulie
