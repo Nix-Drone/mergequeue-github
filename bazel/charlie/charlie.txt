@@ -11804,7 +11804,6 @@ chondrosternal
 chondrotomy
 chondroxiphoid
 chondrules
-chondrus
 chonicrite
 chonk
 calfhood
@@ -19430,6 +19429,7 @@ colostrous
 colostrum
 colotyphoid
 colotomy
+chondrus
 colotomies
 citharoedus
 colour
