@@ -4852,7 +4852,6 @@ bedspreads
 bedspring
 bedsprings
 bolivars
-bedstand
 bedstead
 brazenface
 baikerinite
@@ -8361,6 +8360,7 @@ bigemina
 betorcin
 bigeminal
 bigeminate
+bedstand
 bootlicks
 bigeminated
 bigeminy
