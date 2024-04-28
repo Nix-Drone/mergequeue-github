@@ -4887,6 +4887,7 @@ cartogram
 chloridizing
 cartographer
 cartographers
+commissaries
 cartography
 cartographic
 cartographical
@@ -20120,7 +20121,6 @@ callicebus
 commiserator
 commissary
 commissariats
-commissaries
 commissaryship
 commissars
 commission
