@@ -3380,6 +3380,7 @@ capsular
 capsulated
 capsulation
 capsule
+cytologists
 collegatary
 chawbone
 capsulectomy
@@ -14938,7 +14939,6 @@ cytology
 cytologically
 cytologist
 coranoch
-cytologists
 caperdewsie
 cytomegalic
 cytomegalovirus
