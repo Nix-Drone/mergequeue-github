@@ -1980,6 +1980,7 @@ acetabulum
 acetabulums
 acetacetic
 acetaldehyde
+amylophosphate
 acetaldehydrase
 acetaldol
 acetalize
@@ -10536,7 +10537,6 @@ amylom
 amylometer
 amylopectin
 amylophagia
-amylophosphate
 amylophosphoric
 amyloplast
 amyloplastic
