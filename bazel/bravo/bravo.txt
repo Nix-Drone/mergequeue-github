@@ -6589,7 +6589,6 @@ bequeath
 bequeathal
 bequeathed
 bequeather
-bequeathing
 brawled
 bequeaths
 bequest
@@ -13033,6 +13032,7 @@ bornan
 bornane
 borne
 bornean
+bequeathing
 borneol
 borneols
 belaced
