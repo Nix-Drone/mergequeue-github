@@ -504,7 +504,6 @@ abjunct
 abjunction
 abjunctive
 abjuration
-abjurations
 abjuratory
 abjure
 abjured
@@ -20391,6 +20390,7 @@ arsenophagy
 arsenophen
 arsenophenylglycin
 arsenophenol
+abjurations
 arsenopyrite
 arsenostyracol
 autopsist
