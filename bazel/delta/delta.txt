@@ -6263,7 +6263,6 @@ dermatomic
 dermatomyces
 divorceuse
 dermatomycosis
-dermatomyoma
 dermatomuscular
 dermatoneural
 dermatoneurology
@@ -14704,6 +14703,7 @@ dramalogue
 doctorfishes
 doctorhood
 doctorial
+dermatomyoma
 doctorially
 deposed
 doctoring
