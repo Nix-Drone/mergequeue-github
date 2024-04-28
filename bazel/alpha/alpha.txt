@@ -9143,7 +9143,6 @@ almsmen
 almswoman
 almswomen
 almuce
-almuces
 almud
 almude
 advocaat
@@ -22408,6 +22407,7 @@ alchitran
 atar
 allegretto
 apocatastatic
+almuces
 ataractic
 ataraxy
 ataraxia
