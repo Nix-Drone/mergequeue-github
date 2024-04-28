@@ -3160,7 +3160,6 @@ adonize
 actinophrys
 actinopod
 actinopraxis
-actinopteran
 actinopteri
 actinopterygian
 amylopsase
@@ -13390,6 +13389,7 @@ accentuation
 ankaramite
 androgenic
 ankaratrite
+actinopteran
 anker
 ankerhold
 ankerite
