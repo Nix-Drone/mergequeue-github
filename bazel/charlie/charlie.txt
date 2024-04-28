@@ -15091,6 +15091,7 @@ civ
 carbonado
 cive
 civet
+coccothraustes
 civetone
 civets
 civy
@@ -17563,7 +17564,6 @@ coccosteid
 coccosteidae
 chicos
 coccosteus
-coccothraustes
 coccothraustine
 coccothrinax
 coccule
