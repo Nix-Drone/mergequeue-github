@@ -8753,7 +8753,6 @@ allobrogical
 allocability
 allocable
 allocatable
-allocate
 allocatee
 allocates
 allocating
@@ -15200,6 +15199,7 @@ antienvironmentalist
 antienvironmentalists
 azimine
 antienzymatic
+allocate
 antienzyme
 antiepicenter
 augury
