@@ -14178,7 +14178,6 @@ circles
 circlet
 circleting
 circlets
-circline
 circling
 cochleas
 circocele
@@ -24141,6 +24140,7 @@ convex
 convexedly
 convexedness
 convexes
+circline
 convexity
 convexities
 convexly
