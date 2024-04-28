@@ -6306,7 +6306,6 @@ gneu
 gnide
 gnome
 gnomed
-gnomes
 gnomesque
 gnomical
 gnomide
@@ -8627,6 +8626,7 @@ greekish
 greekism
 greekist
 garapata
+gnomes
 garoted
 glyph
 greekize
