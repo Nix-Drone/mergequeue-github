@@ -677,6 +677,7 @@ bacteriosolvent
 bacteriostasis
 bacteriostat
 bacteriostatically
+beaked
 bacteriotherapeutic
 bacteriotherapy
 balanophorin
@@ -4081,7 +4082,6 @@ beagle
 beagles
 boilermaking
 beagling
-beaked
 beakerful
 beakerman
 bellite
