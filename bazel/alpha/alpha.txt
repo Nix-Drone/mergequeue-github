@@ -5377,7 +5377,6 @@ archoplasm
 afflictive
 afflictively
 avadavats
-afflicts
 affloof
 affluence
 affluency
@@ -8865,6 +8864,7 @@ allonym
 alongst
 allonymous
 allonymously
+afflicts
 allonyms
 allonomous
 alloo
