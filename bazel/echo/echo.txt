@@ -1814,7 +1814,6 @@ electric
 eyeopener
 eyepiece
 eyepit
-eyepoint
 eyereach
 eyeroot
 electromobilism
@@ -2307,6 +2306,7 @@ electrine
 electrizable
 electrization
 earthenware
+eyepoint
 electro
 electroacoustic
 ecblastpsis
