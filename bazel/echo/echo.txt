@@ -3968,6 +3968,7 @@ exhaustible
 emmers
 emmetrope
 emmetropy
+equidimensional
 emmetropic
 emmetropism
 emmett
@@ -8631,7 +8632,6 @@ equicurve
 equid
 equidiagonal
 equidifferent
-equidimensional
 equidist
 equidistance
 ectal
