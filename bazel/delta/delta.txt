@@ -5176,6 +5176,7 @@ dengues
 deny
 deniability
 deniable
+demultiplexing
 deniably
 denial
 dentinoid
@@ -16884,7 +16885,6 @@ dreadable
 debunk
 dreader
 digladiation
-demultiplexing
 despairingness
 dreadful
 dreadfully
