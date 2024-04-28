@@ -3808,7 +3808,6 @@ butterburr
 battakhin
 battlegrounds
 battlement
-battlements
 battlepiece
 battleplane
 barnstorms
@@ -13099,6 +13098,7 @@ bovines
 besneer
 borsht
 borshts
+battlements
 borty
 borts
 bortsch
