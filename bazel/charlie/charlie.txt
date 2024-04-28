@@ -6504,7 +6504,6 @@ ccw
 cd
 cdf
 cdg
-cdr
 ce
 cesspool
 celibates
@@ -25897,6 +25896,7 @@ corticopeduncular
 corticose
 corticosteroids
 corticosterone
+cdr
 corticostriate
 clandestinity
 corticotrophin
