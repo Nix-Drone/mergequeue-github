@@ -836,6 +836,7 @@ footlike
 fanioned
 fortes
 fanions
+filelike
 fosters
 firebolt
 fides
@@ -2603,7 +2604,6 @@ fribblery
 ferrites
 frailties
 ferritic
-filelike
 ferritins
 fixations
 fiduciaries
