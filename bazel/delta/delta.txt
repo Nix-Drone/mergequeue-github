@@ -1712,7 +1712,6 @@ diagrydium
 deaths
 deathsman
 deathsmen
-depaysee
 deathtime
 deathtrap
 deathtraps
@@ -11593,6 +11592,7 @@ dieselizing
 discontinues
 dreamlessness
 discontinuity
+depaysee
 declamator
 discontinuities
 discontinuously
