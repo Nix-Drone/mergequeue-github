@@ -3809,7 +3809,6 @@ battakhin
 battlegrounds
 battlement
 battlements
-battlepiece
 battleplane
 barnstorms
 battler
@@ -6835,6 +6834,7 @@ berreaving
 berret
 berrettas
 berrettino
+battlepiece
 berri
 beachmen
 berry
