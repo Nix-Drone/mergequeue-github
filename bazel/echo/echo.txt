@@ -2476,7 +2476,6 @@ everydeal
 elephantlike
 electrolysed
 electrolyses
-electrolysing
 electrolysis
 electrolyte
 electrolithotrity
@@ -10834,6 +10833,7 @@ eulogias
 eyelight
 eulogies
 eulogious
+electrolysing
 evermore
 ewing
 eulogising
