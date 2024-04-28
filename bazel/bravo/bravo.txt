@@ -2718,6 +2718,7 @@ barlafummil
 barleduc
 branchiate
 barleducs
+bottleholder
 barley
 barleybrake
 barleybreak
@@ -9775,7 +9776,6 @@ bystreets
 bistres
 bistriate
 bistro
-bottleholder
 bistroic
 boos
 bistros
