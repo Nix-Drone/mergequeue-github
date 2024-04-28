@@ -7114,7 +7114,6 @@ detachable
 detachableness
 detachably
 detache
-detached
 detachedly
 detacher
 detachers
@@ -7794,6 +7793,7 @@ devoutlessly
 devoutlessness
 devoutly
 devoutness
+detached
 devove
 devow
 devs
