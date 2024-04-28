@@ -1838,7 +1838,6 @@ camelman
 cameloid
 cameloidea
 camelopardalis
-camelopardel
 camelopardid
 cinnamomum
 camelopardidae
@@ -11202,6 +11201,7 @@ chloralose
 chloralosed
 chloralum
 chlorambucil
+camelopardel
 chloramin
 crepidomata
 chloramine
