@@ -11570,6 +11570,7 @@ cholecystoduodenostomy
 cholecystogastrostomy
 cholecystogram
 cholecystography
+coalition
 cholecystojejunostomy
 cholecystokinin
 cholecystolithiasis
@@ -17180,7 +17181,6 @@ coalifies
 coalifying
 coaling
 coalite
-coalition
 coalitioner
 coalitionist
 coalitions
