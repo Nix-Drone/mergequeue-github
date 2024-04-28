@@ -4891,7 +4891,6 @@ fergusite
 fill
 flamed
 flamefishes
-flamen
 factionary
 flocking
 felicide
@@ -10687,6 +10686,7 @@ fruitbearing
 fruitcake
 fruitcakey
 fruitcakes
+flamen
 fistulana
 fruiteries
 fruiters
