@@ -11784,7 +11784,6 @@ analogon
 analogous
 analogously
 aristocratically
-analogousness
 analogs
 analphabet
 analphabete
@@ -23551,6 +23550,7 @@ alcaiceria
 aureus
 auribromide
 auric
+analogousness
 aurichalcite
 aurichalcum
 absenting
