@@ -8756,6 +8756,7 @@ allocatable
 allocate
 allocatee
 allocates
+angaria
 allocating
 allocation
 amyosthenia
@@ -12635,7 +12636,6 @@ angareeb
 angarep
 angary
 armstrong
-angaria
 angarias
 angariation
 angaries
