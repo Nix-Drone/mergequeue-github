@@ -2238,7 +2238,6 @@ elds
 elean
 eleanor
 eleazar
-elec
 elecampane
 expilation
 enameller
@@ -7944,6 +7943,7 @@ epilemma
 epileny
 epilepsies
 epileptic
+elec
 epileptical
 epileptically
 epileptics
