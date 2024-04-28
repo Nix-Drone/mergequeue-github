@@ -2940,7 +2940,6 @@ acromiosternal
 acromiothoracic
 acromyotonia
 acromyotonus
-acromphalus
 acron
 acronal
 acronic
@@ -9894,6 +9893,7 @@ autochthony
 ambari
 ambary
 ambas
+acromphalus
 ambash
 ambassade
 ambassadeur
