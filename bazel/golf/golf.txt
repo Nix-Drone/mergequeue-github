@@ -2647,7 +2647,6 @@ gendarmery
 geobotanical
 gendarmerie
 gendarmes
-gender
 genderer
 genders
 ghoulie
@@ -4979,6 +4978,7 @@ gaunter
 glacification
 glaciology
 glaciologic
+gender
 globalist
 griffithite
 glaziest
