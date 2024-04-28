@@ -14172,7 +14172,6 @@ circiter
 circle
 circled
 claudia
-casemate
 circler
 circles
 circlet
@@ -15585,6 +15584,7 @@ clasper
 claspers
 clasping
 clasps
+casemate
 claspt
 class
 chelydridae
