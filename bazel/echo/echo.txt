@@ -5369,7 +5369,6 @@ epitendineum
 endothelial
 endothelioid
 evocatory
-endothelioma
 endotheliomas
 endotheliomata
 ecphory
@@ -13181,6 +13180,7 @@ explicate
 eaglewood
 explicated
 exuvium
+endothelioma
 explicates
 embryoferous
 eventuation
