@@ -7031,7 +7031,6 @@ destrier
 destriers
 destroy
 destroyable
-destroyed
 dismays
 destroyer
 destroyers
@@ -17531,6 +17530,7 @@ drudgers
 docility
 drudges
 drudging
+destroyed
 duplexes
 distributes
 drudgingly
