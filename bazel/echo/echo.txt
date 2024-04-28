@@ -5046,7 +5046,6 @@ eland
 endjunk
 evens
 endleaf
-endleaves
 endless
 excuses
 endlessly
@@ -8066,6 +8065,7 @@ epiphanic
 epiphanies
 elytrum
 epiphanise
+endleaves
 epiphanised
 ealdormen
 epiphanising
