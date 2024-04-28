@@ -19274,6 +19274,7 @@ colonies
 colonisability
 colonisable
 colonisationist
+cooptation
 colonise
 colonised
 colonises
@@ -24408,7 +24409,6 @@ cooping
 coops
 coopt
 cooptate
-cooptation
 cooptative
 coopted
 coopting
