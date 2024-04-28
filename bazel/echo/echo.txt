@@ -2520,7 +2520,6 @@ electrometric
 electrometrical
 electrometrically
 electromyogram
-electromyography
 electromyographically
 electromobile
 electromotive
@@ -12595,6 +12594,7 @@ exiting
 exition
 exitious
 exits
+electromyography
 exiture
 exitus
 exla
