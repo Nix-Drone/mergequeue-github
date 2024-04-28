@@ -2098,7 +2098,6 @@ basti
 bankcard
 blossomhead
 bankcards
-banked
 banker
 bankerdom
 bankeress
@@ -3774,6 +3773,7 @@ bread
 batterable
 battercake
 batterdock
+banked
 battered
 bootstrap
 batterer
