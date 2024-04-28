@@ -1742,6 +1742,7 @@ dodecuplet
 demagnetisable
 debarked
 debarking
+dereferenced
 debarkment
 debarks
 debarment
@@ -11545,7 +11546,6 @@ disconnect
 disconnected
 dandified
 disconnectedly
-dereferenced
 disconnectedness
 diphtheroidal
 disconnecter
