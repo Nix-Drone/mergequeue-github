@@ -6475,7 +6475,6 @@ descender
 dispunct
 descendibility
 dispar
-descendible
 descending
 dipsos
 descendingly
@@ -15038,6 +15037,7 @@ dognapping
 dogplate
 disfavouring
 dogproof
+descendible
 dogra
 dogrib
 dreamwise
