@@ -10826,7 +10826,6 @@ decanormal
 deringa
 direx
 dirge
-dirged
 dirgelike
 dirgeman
 dirgie
@@ -16624,6 +16623,7 @@ decigrams
 dime
 dragonfishes
 dragonfly
+dirged
 dragonflies
 dragonhead
 dragonhood
