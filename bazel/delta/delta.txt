@@ -10828,7 +10828,6 @@ direx
 dirge
 dirged
 dirgelike
-dirgeman
 dirgie
 diriment
 dirgler
@@ -14764,6 +14763,7 @@ documentations
 disposableness
 documenter
 documenters
+dirgeman
 documenting
 documentize
 documents
