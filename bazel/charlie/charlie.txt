@@ -3854,7 +3854,6 @@ carburisation
 carburise
 carburised
 carburiser
-carburization
 carburize
 carburized
 carburizer
@@ -30945,6 +30944,7 @@ courtlet
 cumbha
 cumble
 cumbraite
+carburization
 cumbrance
 cumbre
 celiocentesis
