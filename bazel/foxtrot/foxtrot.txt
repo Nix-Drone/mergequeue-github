@@ -1005,7 +1005,6 @@ fardage
 farde
 farded
 forklifts
-fardel
 fardelet
 farding
 fardo
@@ -3564,6 +3563,7 @@ filamentoid
 fuzztail
 flaxwife
 filamentous
+fardel
 filaments
 filamentule
 filander
