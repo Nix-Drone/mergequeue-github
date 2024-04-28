@@ -3419,7 +3419,6 @@ damnum
 defleas
 deflect
 driftfishes
-deflectable
 deflected
 deflecting
 deflectionization
@@ -8889,6 +8888,7 @@ daschagga
 dichotically
 diminishingly
 dichotomy
+deflectable
 dichotomic
 dichotomically
 dichotomies
