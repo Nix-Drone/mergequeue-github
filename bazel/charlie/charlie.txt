@@ -12442,7 +12442,6 @@ chromiole
 chromism
 chromite
 chromites
-chromitite
 chromium
 chromiums
 clerisy
@@ -31855,6 +31854,7 @@ cutout
 cutpurse
 cutpurses
 cuts
+chromitite
 cutset
 cuttable
 cyclothyme
