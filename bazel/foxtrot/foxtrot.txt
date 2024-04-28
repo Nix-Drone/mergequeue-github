@@ -1694,7 +1694,6 @@ farcin
 fcp
 foehns
 familiar
-friars
 four
 fdnames
 fdtype
@@ -4670,6 +4669,7 @@ fluorocarbons
 fathoms
 fjorded
 fjords
+friars
 fairsome
 fjorgyn
 foretime
