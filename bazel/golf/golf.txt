@@ -9250,7 +9250,6 @@ grot
 gourmandise
 gat
 groceries
-groceryman
 griffonne
 grocers
 gedanken
@@ -10184,6 +10183,7 @@ galgal
 globalism
 gasfiring
 gilgulim
+groceryman
 guild
 gharry
 guilder
