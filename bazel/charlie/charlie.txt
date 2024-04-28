@@ -11463,7 +11463,6 @@ choenix
 choes
 choga
 chogak
-coexclusive
 chogset
 choy
 choya
@@ -19123,6 +19122,7 @@ colloidality
 colloider
 colloidize
 colloidochemical
+coexclusive
 colloids
 collomia
 collop
