@@ -9576,6 +9576,7 @@ dihdroxycholecalciferol
 dihedral
 dihedrals
 dihedron
+dwarves
 discipleship
 dihelium
 dihexahedron
@@ -18663,7 +18664,6 @@ dwarfling
 diplococcal
 dekametre
 dwarfs
-dwarves
 dweeble
 dwell
 dwelled
