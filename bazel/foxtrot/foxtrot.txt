@@ -2225,7 +2225,6 @@ framers
 farmhouses
 felt
 felted
-felter
 feltyfare
 feltyflier
 felting
@@ -6681,6 +6680,7 @@ fries
 fodge
 fodient
 foe
+felter
 foederati
 foederis
 foeffment
