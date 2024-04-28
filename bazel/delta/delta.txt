@@ -8219,7 +8219,6 @@ dele
 diagonal
 diagonalizable
 diagonalization
-diagonalize
 disinteresting
 diagnosing
 diseurs
@@ -12573,6 +12572,7 @@ dereferences
 disjuncture
 disjune
 disk
+diagonalize
 disked
 diskelion
 disker
