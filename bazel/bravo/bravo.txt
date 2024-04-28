@@ -2074,7 +2074,6 @@ banished
 banisher
 banishing
 banishment
-banister
 banisters
 bursting
 banyuls
@@ -12009,6 +12008,7 @@ boiled
 boiler
 boilerful
 boilerless
+banister
 boilermaker
 bradypnoea
 bangtail
