@@ -11311,7 +11311,6 @@ chlorochrous
 chlorococcaceae
 chlorococcales
 chlorococcum
-chlorococcus
 chlorocresol
 chlorocruorin
 chlorodyne
@@ -13478,6 +13477,7 @@ cidaridae
 cidaris
 cidaroida
 cassida
+chlorococcus
 cider
 catchingly
 courageously
