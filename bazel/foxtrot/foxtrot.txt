@@ -3889,7 +3889,6 @@ finale
 finales
 finalis
 finalization
-finalize
 finalized
 fragmenting
 fourstrand
@@ -7483,6 +7482,7 @@ forbearable
 fordoes
 flittingly
 fordrive
+finalize
 fords
 filate
 furling
