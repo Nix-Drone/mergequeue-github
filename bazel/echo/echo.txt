@@ -2602,7 +2602,6 @@ electropsychrometer
 egotisticalness
 electropult
 electropuncturation
-electropuncture
 electroreceptive
 electroreduction
 electrorefine
@@ -8946,6 +8945,7 @@ endotheliolysin
 erewhile
 erewhiles
 erg
+electropuncture
 expuition
 ergane
 ergastic
