@@ -6594,7 +6594,6 @@ ententes
 entepicondylar
 enter
 enterable
-enteraden
 enteradenography
 enteradenographic
 enteradenological
@@ -10546,6 +10545,7 @@ etiology
 etiological
 endrumpf
 etiologist
+enteraden
 emetology
 esthesiometer
 etiologue
