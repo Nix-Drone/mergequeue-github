@@ -3887,7 +3887,6 @@ emf
 emulator
 emforth
 emic
-emicant
 emicate
 emication
 emyde
@@ -4587,6 +4586,7 @@ erucin
 encephalomyelopathy
 encephalomyocarditis
 encephalopathy
+emicant
 euryalae
 emperorship
 electropuncturing
