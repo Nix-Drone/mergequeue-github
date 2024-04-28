@@ -5430,7 +5430,6 @@ endrudge
 eltime
 expendable
 endseal
-endshake
 endsheet
 everglade
 execrates
@@ -9095,6 +9094,7 @@ eryopid
 eryopsid
 erythromycin
 ephemera
+endshake
 eriphyle
 eris
 europhium
