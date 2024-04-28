@@ -2605,7 +2605,6 @@ barguests
 barhop
 buzylene
 barhopped
-barhops
 baria
 brandies
 bariatrician
@@ -15945,6 +15944,7 @@ bromopikrin
 bauk
 bromoprotein
 bromos
+barhops
 bromothymol
 bromouracil
 bromphenol
