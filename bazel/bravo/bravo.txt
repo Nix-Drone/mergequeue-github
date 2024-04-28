@@ -15111,7 +15111,6 @@ brewhouse
 beguilingness
 brewhouses
 brewing
-brewings
 brewis
 brewises
 bocks
@@ -17392,6 +17391,7 @@ bundist
 bundists
 bundle
 bundled
+brewings
 branky
 boardmen
 bundler
