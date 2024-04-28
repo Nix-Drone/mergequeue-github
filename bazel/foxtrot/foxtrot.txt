@@ -554,7 +554,6 @@ fall
 fissirostral
 falla
 fallace
-feltlike
 foretalk
 fidalgo
 flyability
@@ -9122,6 +9121,7 @@ fobs
 fissilingual
 fowells
 foredesign
+feltlike
 fowk
 fowl
 fowled
