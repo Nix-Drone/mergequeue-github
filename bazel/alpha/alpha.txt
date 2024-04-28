@@ -2651,6 +2651,7 @@ allylene
 acoumetry
 autodetector
 airframes
+autotransformer
 acouometer
 acouophonia
 acoluthic
@@ -24448,7 +24449,6 @@ autotoxication
 autotoxin
 autotoxis
 autotractor
-autotransformer
 autotransplantation
 arythmically
 autostethoscope

@@ -2940,7 +2940,6 @@ feuder
 flock
 fumier
 feuding
-feudists
 feudovassalism
 format
 feuds
@@ -7928,6 +7927,7 @@ forerunner
 forerunners
 forerunning
 forerunnings
+feudists
 fittyways
 foreruns
 foresaddle
