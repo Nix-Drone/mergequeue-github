@@ -1601,7 +1601,6 @@ calorimeter
 calorimeters
 calorimetry
 calorimetric
-calorimetrical
 calorimetrically
 calorimotor
 calorisator
@@ -9094,6 +9093,7 @@ charmonium
 charms
 charmwise
 cremated
+calorimetrical
 clavaria
 charneco
 charnels
