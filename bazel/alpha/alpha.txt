@@ -5644,6 +5644,7 @@ afterlifetime
 afterlight
 afterlives
 afterloss
+anionic
 aerarian
 afterlove
 aftermark
@@ -13227,7 +13228,6 @@ animuses
 anion
 anyone
 adendric
-anionic
 anions
 aniridia
 artamus
