@@ -7156,7 +7156,6 @@ detect
 detectability
 daishiki
 detected
-detecter
 detecters
 decentralist
 detectible
@@ -10509,6 +10508,7 @@ drammock
 droopingly
 dipleiodoscope
 dipleura
+detecter
 dipleural
 docetically
 dipleuric
