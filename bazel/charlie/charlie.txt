@@ -2771,7 +2771,6 @@ cantador
 cantala
 cantalever
 certain
-cantalite
 cantaliver
 cackled
 cantaloup
@@ -8742,6 +8741,7 @@ chanted
 chantey
 chanteyman
 chantepleure
+cantalite
 chanter
 chanterelle
 chanters
