@@ -2465,7 +2465,6 @@ decke
 deckedout
 deckel
 deckels
-decken
 decker
 daphnioid
 deckhand
@@ -8289,6 +8288,7 @@ dialectologies
 dialectologist
 dialector
 dargue
+decken
 dimethylsulfoxide
 dialed
 dialer
