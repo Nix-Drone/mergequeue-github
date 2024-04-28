@@ -9241,7 +9241,6 @@ alopecurus
 alopekai
 alopeke
 alophas
-aliases
 alopias
 alopiidae
 alorcinic
@@ -11754,6 +11753,7 @@ anallantoic
 anallantoidea
 anallantoidean
 acies
+aliases
 antipedobaptist
 anallergic
 anally
