@@ -5602,7 +5602,6 @@ enfoldings
 enfoldment
 elevators
 enfolds
-enfollow
 enfoncee
 ephemerae
 enforceability
@@ -13248,6 +13247,7 @@ explosions
 explosively
 explosiveness
 explosives
+enfollow
 expo
 electromyograph
 eloquentness
