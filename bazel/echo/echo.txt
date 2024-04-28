@@ -8277,7 +8277,6 @@ episthotonos
 epistilbite
 epistyle
 epistylis
-exulcerate
 epistle
 epistler
 everness
@@ -11769,6 +11768,7 @@ exam
 examen
 eleometer
 evacuate
+exulcerate
 exameter
 excretions
 eatery
