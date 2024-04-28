@@ -5738,6 +5738,7 @@ deplant
 deplantation
 deplasmolysis
 dictamina
+drawspring
 disposit
 deplenish
 depletable
@@ -16861,7 +16862,6 @@ drawpoint
 draws
 drawshave
 drawsheet
-drawspring
 drawstop
 dispersible
 dribbet
