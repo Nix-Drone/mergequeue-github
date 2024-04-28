@@ -6571,6 +6571,7 @@ bepray
 bepraise
 bepraisement
 bepraiser
+borderers
 beprank
 bepranked
 beyonds
@@ -12949,7 +12950,6 @@ bordereau
 bowstaff
 bordered
 borderer
-borderers
 bordering
 borderings
 borders
