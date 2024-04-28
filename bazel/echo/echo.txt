@@ -6505,7 +6505,6 @@ ensuable
 embolisms
 ensuant
 ensued
-ensues
 ensuingly
 ensurance
 ensurer
@@ -7544,6 +7543,7 @@ ephods
 equipping
 ephor
 essayical
+ensues
 ephoralty
 ephorate
 ephorates
