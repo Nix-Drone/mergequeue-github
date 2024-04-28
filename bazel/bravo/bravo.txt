@@ -12845,7 +12845,6 @@ booting
 bootjacks
 bootlaces
 bootle
-bootleg
 bootleger
 bootlegged
 bootlegger
@@ -12871,6 +12870,7 @@ bangalay
 bootstrapping
 boottop
 booze
+bootleg
 boozed
 boozehound
 boozer
