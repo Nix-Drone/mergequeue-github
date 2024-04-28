@@ -2358,6 +2358,7 @@ fenetre
 fenks
 fenland
 fenman
+failsafe
 fenmen
 furrings
 fennec
@@ -6790,7 +6791,6 @@ foison
 foisonless
 foisons
 flaughts
-failsafe
 foist
 foxtongue
 fibromyomectomy
