@@ -2654,7 +2654,6 @@ cannoneering
 cannoneers
 clownish
 cannoning
-cannonism
 cannonproof
 cannonry
 cannonries
@@ -17118,6 +17117,7 @@ coagulate
 coagulated
 coagulates
 coagulating
+cannonism
 coagulation
 coagulations
 coagulative
