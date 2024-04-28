@@ -8883,7 +8883,6 @@ char
 conveyability
 chara
 charabanc
-charabancer
 charabancs
 charac
 characeae
@@ -17264,6 +17263,7 @@ coassessor
 caravelle
 coassignee
 coassist
+charabancer
 coassistant
 culpas
 coassisting
