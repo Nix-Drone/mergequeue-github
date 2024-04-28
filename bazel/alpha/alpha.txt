@@ -3572,6 +3572,7 @@ addrest
 adds
 addu
 adduce
+angletwitch
 adduceable
 adduced
 adducent
@@ -12854,7 +12855,6 @@ anglepod
 anglepods
 angler
 anglesmith
-angletwitch
 anglewing
 anglewise
 avenger
