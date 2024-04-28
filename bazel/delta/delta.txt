@@ -6671,7 +6671,6 @@ designators
 designatum
 detersive
 designedly
-designedness
 designee
 detachability
 designer
@@ -10296,6 +10295,7 @@ diopters
 dioptograph
 dioptometer
 discophore
+designedness
 dioptometry
 dismemberer
 dioptomiter
