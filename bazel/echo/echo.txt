@@ -298,6 +298,7 @@ eatability
 eatable
 eatables
 electrolyzability
+electrocauteries
 eatberry
 eaten
 emetophobia
@@ -994,7 +995,6 @@ eczema
 eosinate
 erythroblastotic
 eczematoid
-electrocauteries
 eidolology
 endodontic
 enervative
