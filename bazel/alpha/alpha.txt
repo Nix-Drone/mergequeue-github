@@ -2320,6 +2320,7 @@ achromatocyte
 achromatolysis
 achromatope
 achromatophil
+associativity
 achromatophile
 achromatophilia
 achromatophilic
@@ -21862,7 +21863,6 @@ aphakial
 associative
 associatively
 associativeness
-associativity
 associator
 associatory
 associe
