@@ -1971,6 +1971,7 @@ bandlimiting
 bandlimits
 bandman
 bandmaster
+bemocking
 bandmasters
 bando
 bandobust
@@ -6072,7 +6073,6 @@ bemoaningly
 bemoat
 bemock
 bemocked
-bemocking
 bor
 bibliological
 bemocks
