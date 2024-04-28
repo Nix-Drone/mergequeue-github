@@ -9040,7 +9040,6 @@ bioinstrument
 biokinetics
 biol
 biolinguistics
-biolyses
 bludgeoneer
 battlemented
 benzazide
@@ -17911,6 +17910,7 @@ burushaski
 baluga
 bus
 busaos
+biolyses
 busbar
 busbars
 barnburner
