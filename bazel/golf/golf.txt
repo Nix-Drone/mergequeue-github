@@ -2663,6 +2663,7 @@ genecology
 genecologic
 gradienter
 genecological
+genos
 genecor
 griever
 geneki
@@ -2876,7 +2877,6 @@ genomic
 genoms
 genonema
 gph
-genos
 gerrymandered
 genospecies
 genotype
