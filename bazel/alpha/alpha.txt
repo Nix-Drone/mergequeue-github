@@ -4712,6 +4712,7 @@ aecidial
 aecidioform
 aecidiomycetes
 aecidiospore
+arthroempyesis
 aecidiostage
 aecidium
 aeciospore
@@ -13688,7 +13689,6 @@ anodally
 anode
 adinole
 anodes
-arthroempyesis
 anodic
 anodically
 appositively
