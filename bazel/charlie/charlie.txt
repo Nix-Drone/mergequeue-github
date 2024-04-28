@@ -5056,7 +5056,6 @@ collectivity
 casebooks
 casebound
 casebox
-cased
 casefy
 casefied
 casefies
@@ -29386,6 +29385,7 @@ crispily
 crispin
 crispine
 crisping
+cased
 crispins
 crisply
 chalcanthite
