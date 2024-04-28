@@ -5816,7 +5816,6 @@ dwt
 deponing
 depopularize
 depopulates
-depopulating
 depopulation
 depopulative
 decastich
@@ -11048,6 +11047,7 @@ disapprovals
 disapproved
 disapprover
 disapproves
+depopulating
 disapprovingly
 dysaptation
 denitrified
