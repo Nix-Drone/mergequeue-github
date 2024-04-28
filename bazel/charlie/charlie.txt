@@ -17289,7 +17289,6 @@ coastlines
 coastman
 coastmen
 coasts
-coastside
 coastwaiter
 coastward
 coastwards
@@ -20412,6 +20411,7 @@ compander
 companero
 counterword
 companeros
+coastside
 cannels
 company
 companiable
