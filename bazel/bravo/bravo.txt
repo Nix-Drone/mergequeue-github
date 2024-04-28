@@ -8476,7 +8476,6 @@ bloodlettings
 biked
 biker
 bikers
-bikeway
 bikeways
 bikh
 bikhaconitine
@@ -16015,6 +16014,7 @@ bronchostenosis
 burny
 bronchostomies
 bronchotyphus
+bikeway
 bronchotome
 bronchotomy
 bronchotracheal
