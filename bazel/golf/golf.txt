@@ -2875,7 +2875,6 @@ genome
 genomic
 genoms
 genonema
-gph
 genos
 gerrymandered
 genospecies
@@ -10858,6 +10857,7 @@ gwely
 geomagnetician
 gyri
 gestatorium
+gph
 gwendolen
 grumpier
 gwine
