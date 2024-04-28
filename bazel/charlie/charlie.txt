@@ -2401,7 +2401,6 @@ candlebomb
 candled
 candlefish
 candlefishes
-candleholder
 candlelight
 candlelighted
 candlelighter
@@ -18599,6 +18598,7 @@ coypus
 coir
 coirs
 coislander
+candleholder
 coisns
 coistrel
 coistril
