@@ -346,6 +346,7 @@ backfields
 backfiller
 backfilling
 backfills
+baddies
 backfired
 backfires
 backflip
@@ -749,7 +750,6 @@ baddy
 baddie
 barlock
 betimber
-baddies
 baddish
 baddishly
 baddishness
