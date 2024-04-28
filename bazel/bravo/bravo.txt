@@ -3504,7 +3504,6 @@ branchiopulmonate
 bastions
 bastite
 bastnaesite
-bastnasite
 balanoglossus
 basto
 beworms
@@ -10960,6 +10959,7 @@ backstrokes
 bloated
 benefactorship
 bloatedness
+bastnasite
 bloater
 bloaters
 bloating
