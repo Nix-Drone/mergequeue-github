@@ -3127,7 +3127,6 @@ gravamen
 geomaly
 geomalic
 geomancer
-geomancy
 garnered
 gripes
 geomancies
@@ -6534,6 +6533,7 @@ ghostlet
 goggly
 gavialis
 greenwort
+geomancy
 gunnera
 gogglier
 goggliest
