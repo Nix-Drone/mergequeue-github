@@ -2655,7 +2655,6 @@ delinquents
 decompensations
 decompensatory
 decompiler
-decomponent
 decomponible
 decurved
 decomposability
@@ -13551,6 +13550,7 @@ dissettle
 dissettlement
 dissever
 disseverance
+decomponent
 disseveration
 dissevering
 disseverment
