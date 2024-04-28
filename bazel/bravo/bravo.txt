@@ -4991,7 +4991,6 @@ beeped
 beepers
 bunt
 boltless
-beeping
 beeps
 beer
 beerbachite
@@ -11462,6 +11461,7 @@ blunted
 bn
 bluntest
 blunthead
+beeping
 blunthearted
 bluntish
 bluntishness
