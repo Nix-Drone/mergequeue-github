@@ -6148,7 +6148,6 @@ benchmarked
 benchmarks
 benchmen
 bend
-bendable
 benday
 bendayed
 bended
@@ -15421,6 +15420,7 @@ bilboes
 bluecap
 bindheimite
 brimly
+bendable
 breakdowns
 balantidial
 brimmed
