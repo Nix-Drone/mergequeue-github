@@ -9605,7 +9605,6 @@ bisector
 bisectors
 bisectrices
 busybodyness
-bisects
 bisegment
 bisellium
 banalize
@@ -16460,6 +16459,7 @@ brutalize
 brutalized
 brutalizes
 brutalizing
+bisects
 brutally
 brutalness
 brute
