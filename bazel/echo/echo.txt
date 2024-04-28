@@ -1357,7 +1357,6 @@ effectual
 effectuality
 effectualness
 effectuated
-effectuates
 effectuating
 exuberate
 effectuation
@@ -14098,6 +14097,7 @@ extrospect
 extrospective
 extroversion
 extroversive
+effectuates
 epiglot
 epitheton
 extroversively

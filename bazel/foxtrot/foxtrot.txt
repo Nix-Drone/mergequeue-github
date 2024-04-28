@@ -4404,7 +4404,6 @@ fishline
 fishlines
 frondage
 fishling
-fishman
 fishmeals
 fishmonger
 ferociousness
@@ -11065,6 +11064,7 @@ fumigated
 fumigating
 festal
 fumigations
+fishman
 fumigator
 fumigatories
 furzery
