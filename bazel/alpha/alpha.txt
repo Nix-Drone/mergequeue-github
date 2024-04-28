@@ -4426,6 +4426,7 @@ adsorbable
 adsorbates
 adsorbed
 adsorbs
+amyloplastid
 adsorption
 abiston
 abhorred
@@ -10540,7 +10541,6 @@ amylophosphate
 amylophosphoric
 amyloplast
 amyloplastic
-amyloplastid
 amylopsin
 amylose
 apprenticeship
