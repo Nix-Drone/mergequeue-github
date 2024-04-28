@@ -11232,7 +11232,6 @@ chloremia
 chloremic
 chlorenchyma
 coassistance
-chlorguanide
 chlorhexidine
 chlorhydrate
 coemperor
@@ -24815,6 +24814,7 @@ coracler
 coracles
 coracoacromial
 coracobrachial
+chlorguanide
 calcimeter
 coracoclavicular
 coracocostal
