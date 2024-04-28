@@ -4631,6 +4631,7 @@ excitement
 enchantery
 enchanters
 enchanting
+extensionality
 enchantingly
 enchantment
 enchantments
@@ -13546,7 +13547,6 @@ extensible
 extensibleness
 extensile
 extensionalism
-extensionality
 engagedness
 extensionless
 extensions
