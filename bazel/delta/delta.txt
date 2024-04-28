@@ -1710,7 +1710,6 @@ deathliness
 deathrates
 diagrydium
 deaths
-deathsman
 deathsmen
 depaysee
 deathtime
@@ -16535,6 +16534,7 @@ draffish
 draffman
 draffs
 draft
+deathsman
 dishevel
 draftable
 detort
