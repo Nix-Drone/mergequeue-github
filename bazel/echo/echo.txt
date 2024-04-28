@@ -7988,7 +7988,6 @@ epimedium
 epimer
 epimeral
 epimeres
-epimeric
 epimeride
 epimerism
 enorganic
@@ -13799,6 +13798,7 @@ equivocation
 experienceable
 extracranial
 extractable
+epimeric
 extractant
 extracted
 extractibility
