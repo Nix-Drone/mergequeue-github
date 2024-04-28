@@ -5111,7 +5111,6 @@ epistlar
 embolies
 exinanition
 endoclinal
-endocline
 endocoelar
 erosionally
 endocoele
@@ -7282,6 +7281,7 @@ enzyme
 enzymes
 enzymic
 exiguous
+endocline
 enzymolysis
 ericeticolous
 enzymologist
