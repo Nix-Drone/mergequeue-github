@@ -4415,7 +4415,6 @@ adsessor
 adsheart
 adsignify
 adsmith
-adsmithing
 adsorb
 ametabolism
 aphanite
@@ -10620,6 +10619,7 @@ aminoplastic
 aminopolypeptidase
 aminopropionic
 aminopurine
+adsmithing
 aminoquin
 aminosis
 aminosuccinamic
