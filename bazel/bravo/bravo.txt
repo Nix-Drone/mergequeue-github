@@ -534,7 +534,6 @@ backstring
 backstroke
 backstromite
 backswept
-backswimmer
 backsword
 backswording
 bettergates
@@ -3740,6 +3739,7 @@ bransles
 bunsen
 batsmen
 batswing
+backswimmer
 batt
 bammed
 batta
