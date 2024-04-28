@@ -2972,7 +2972,6 @@ eliminate
 entoplastic
 eliminated
 eliminates
-ellipsometry
 equaled
 eliminating
 extirp
@@ -7543,6 +7542,7 @@ ephod
 ephods
 equipping
 ephor
+ellipsometry
 essayical
 ephoralty
 ephorate
