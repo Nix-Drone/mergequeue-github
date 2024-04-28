@@ -2498,6 +2498,7 @@ electromagnetical
 engines
 echoist
 electromagnetics
+evader
 evacuation
 electromagnetism
 electromagnetist
@@ -11258,7 +11259,6 @@ evacuees
 evadable
 evade
 evaded
-evader
 encounterers
 electroergometer
 electroballistics
