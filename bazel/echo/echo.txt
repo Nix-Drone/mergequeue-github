@@ -2435,7 +2435,6 @@ electroengraving
 electroextraction
 expedient
 electroform
-electroforming
 electrofusion
 ethanol
 electrogalvanization
@@ -11673,6 +11672,7 @@ evulsion
 evulsions
 ewe
 ewerer
+electroforming
 ewery
 eweries
 ewes
