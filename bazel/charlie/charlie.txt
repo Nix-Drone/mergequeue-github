@@ -12518,7 +12518,6 @@ chromoplasm
 chromoplasmic
 chromoplast
 chromoplastid
-chromoprotein
 chromopsia
 chromoptometer
 coffle
@@ -25706,6 +25705,7 @@ chainbearer
 centrals
 corrigibleness
 corrigibly
+chromoprotein
 corrigiola
 corrigiolaceae
 corrival
