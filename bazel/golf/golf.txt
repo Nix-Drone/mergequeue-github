@@ -6305,7 +6305,6 @@ gnetums
 gneu
 gnide
 gnome
-gnomed
 gnomes
 gnomesque
 gnomical
@@ -8915,6 +8914,7 @@ giddiness
 griddlecakes
 griddled
 genderless
+gnomed
 griddling
 groundling
 gride
