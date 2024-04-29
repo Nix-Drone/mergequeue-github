@@ -4185,7 +4185,6 @@ footnotes
 firedrake
 firefall
 firefang
-firefanged
 firefangs
 firefighter
 firefighting
@@ -4382,6 +4381,7 @@ fishhooks
 faqir
 fishyard
 farand
+firefanged
 fishyback
 fishified
 friezy
