@@ -16838,7 +16838,6 @@ drawing
 drawings
 drawknives
 drawknot
-deliquescent
 drawlatch
 drawled
 drawly
@@ -18599,6 +18598,7 @@ dynamitist
 dusttight
 dustuk
 dustup
+deliquescent
 dustups
 dialogistically
 digitus
