@@ -5091,7 +5091,6 @@ endoceras
 endoceratidae
 endoceratite
 endoceratitic
-endocervical
 elachista
 endochylous
 endochorion
@@ -7461,6 +7460,7 @@ epenla
 embryotega
 epenthesis
 epenthesize
+endocervical
 epephragmal
 epepophysial
 epepophysis
