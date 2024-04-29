@@ -3591,7 +3591,6 @@ gesticulant
 gutterman
 gesticulate
 gesticulations
-gesticulative
 gesticulatively
 geared
 gestion
@@ -6930,6 +6929,7 @@ gabarit
 gonopodium
 grecque
 gonopodpodia
+gesticulative
 gonopoietic
 galimatias
 gonopores
