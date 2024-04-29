@@ -2133,6 +2133,7 @@ elasmobranchii
 epilimnia
 edgemaker
 elasmothere
+ectoblast
 elastase
 excretory
 elastases
@@ -4805,7 +4806,6 @@ encoding
 electrifiable
 encodings
 encoffinment
-ectoblast
 extense
 esox
 enlimn
