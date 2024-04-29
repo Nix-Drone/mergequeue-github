@@ -611,6 +611,7 @@ bacquet
 bact
 bacteraemia
 bacteremia
+benzoates
 bacteremic
 bacteria
 bacteriaceae
@@ -6439,7 +6440,6 @@ benzines
 benzins
 benzoate
 bisectrix
-benzoates
 benzoazurine
 benzobis
 benzocaine
