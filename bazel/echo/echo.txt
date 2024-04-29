@@ -6462,7 +6462,6 @@ ectocyst
 ensober
 expiscate
 ensophic
-ensorcel
 ensorceled
 emitters
 encephalometer
@@ -10765,6 +10764,7 @@ exclusions
 eximidus
 eugenical
 eugenically
+ensorcel
 eugenicist
 eugenics
 eugenie
