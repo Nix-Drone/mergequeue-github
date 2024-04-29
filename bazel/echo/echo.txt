@@ -1722,6 +1722,7 @@ eyass
 eichhornia
 eichwaldite
 eicosane
+electrostatics
 eide
 eydent
 eremurus
@@ -8309,7 +8310,6 @@ epitactic
 epitaph
 epitapher
 epitaphian
-electrostatics
 epitaphist
 epitaphize
 epicotyleal
