@@ -4178,7 +4178,6 @@ eucephalous
 etnas
 enteromere
 employe
-estado
 employed
 employee
 employees
@@ -6422,6 +6421,7 @@ exsection
 ensilist
 ensilver
 ensindon
+estado
 exarteritis
 ensisternum
 ensky
