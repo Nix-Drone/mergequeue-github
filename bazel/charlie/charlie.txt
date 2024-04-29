@@ -24204,7 +24204,6 @@ convoyed
 convoying
 convoys
 convoke
-convoked
 convoker
 convokers
 convokes
@@ -31621,6 +31620,7 @@ curviness
 curving
 cancrizans
 curvirostral
+convoked
 curvirostres
 curviserial
 curvital
