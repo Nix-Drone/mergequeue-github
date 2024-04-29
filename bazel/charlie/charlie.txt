@@ -9552,7 +9552,6 @@ checkoffs
 checkout
 calor
 checkouts
-checkpoint
 checkpointed
 checkpointing
 checkpoints
@@ -10340,6 +10339,7 @@ clamation
 chickened
 chickenhearted
 chondroid
+checkpoint
 chickenheartedly
 chickenheartedness
 chickening
