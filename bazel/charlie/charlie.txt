@@ -2392,7 +2392,6 @@ candite
 candytuft
 candyweed
 candle
-coehorn
 candleball
 caripeta
 candleberry
@@ -5634,6 +5633,7 @@ catcall
 catcalled
 catcaller
 catcalls
+coehorn
 catch
 catchable
 catchall
