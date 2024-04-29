@@ -1398,7 +1398,6 @@ extraocular
 effervesced
 effervescence
 effervescency
-effervescent
 effervescently
 effervesces
 effervescing
@@ -5760,6 +5759,7 @@ englobed
 englobement
 exophagous
 englobing
+effervescent
 engloom
 englory
 englut
