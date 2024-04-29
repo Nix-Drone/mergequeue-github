@@ -4201,7 +4201,6 @@ carettochelydidae
 careworn
 carex
 cottages
-carfare
 carfares
 carfax
 carfloat
@@ -18477,6 +18476,7 @@ coign
 coigne
 coigned
 coignes
+carfare
 coigny
 coigning
 callitrichidae
