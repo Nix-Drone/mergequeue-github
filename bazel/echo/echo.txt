@@ -5254,7 +5254,6 @@ endopleural
 east
 endopleurite
 electrometry
-endopodite
 esphresis
 endopoditic
 euphonium
@@ -13484,6 +13483,7 @@ exsolve
 engineery
 exsolving
 elegancies
+endopodite
 exspoliation
 epochs
 entosclerite
