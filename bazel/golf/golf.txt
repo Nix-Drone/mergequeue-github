@@ -2872,7 +2872,6 @@ gawp
 genoese
 genoise
 genome
-genomic
 genoms
 genonema
 gph
@@ -7503,6 +7502,7 @@ governmental
 governmentalize
 governmentally
 governmentish
+genomic
 governor
 governorate
 governors
