@@ -3755,6 +3755,7 @@ dehydrogenating
 dehydrogenisation
 dehydrogenised
 dehydrogenization
+diallagoid
 dehydrogenized
 dehydrogenizer
 dehydroretinol
@@ -16522,7 +16523,6 @@ dracontites
 diapason
 dracontium
 drad
-diallagoid
 dradge
 dumpfile
 draegermen
