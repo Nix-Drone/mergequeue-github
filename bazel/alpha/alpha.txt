@@ -8609,7 +8609,6 @@ alleles
 allelic
 allelism
 allelisms
-allelocatalytic
 almes
 autopathic
 arsmetrik
@@ -20891,6 +20890,7 @@ asboline
 amnionate
 asbolite
 ascanian
+allelocatalytic
 ascanius
 ascape
 ascared
