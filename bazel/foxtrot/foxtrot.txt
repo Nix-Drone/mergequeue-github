@@ -53,7 +53,6 @@ facaded
 faceable
 facebar
 facebow
-facecloth
 firestone
 faced
 foreladies
@@ -9256,6 +9255,7 @@ fractiousness
 foolheaded
 frilliest
 fractocumulus
+facecloth
 fads
 foundationally
 fabledom
