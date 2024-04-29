@@ -3770,6 +3770,7 @@ batteners
 battening
 battens
 batter
+blindeyes
 bread
 batterable
 battercake
@@ -10833,7 +10834,6 @@ blindcat
 bevue
 blindedly
 beeyard
-blindeyes
 blinder
 blinders
 blindest
