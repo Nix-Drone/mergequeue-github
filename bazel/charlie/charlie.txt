@@ -16482,6 +16482,7 @@ cuon
 clockmaker
 clockmaking
 crewer
+crystallising
 clockroom
 clocksmith
 clockwatcher
@@ -29436,7 +29437,6 @@ codo
 crystallisation
 creatines
 crystallise
-crystallising
 crystallite
 crystallites
 crystallitic
