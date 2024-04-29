@@ -5074,7 +5074,6 @@ feint
 florigens
 fructure
 flashtube
-flashtubes
 fusobteria
 fanterie
 flask
@@ -7445,6 +7444,7 @@ forjudger
 forcipated
 forcipation
 florette
+flashtubes
 flattest
 forcipiform
 fishhook
