@@ -2288,7 +2288,6 @@ electricalize
 ental
 electrically
 elastic
-electricalness
 espadrille
 encoach
 electricians
@@ -10663,6 +10662,7 @@ emulsifying
 euchroic
 earthiness
 euchromatic
+electricalness
 euchrome
 euchromosome
 ethanols
