@@ -229,6 +229,7 @@ abbreviating
 abbreviation
 ascebc
 abbreviations
+annualized
 abbreviator
 abbreviators
 abbreviature
@@ -13604,7 +13605,6 @@ announcers
 announces
 announcing
 annualize
-annualized
 annually
 annuals
 annuary
