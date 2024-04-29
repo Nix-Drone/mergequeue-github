@@ -5356,6 +5356,7 @@ begrave
 birne
 begrett
 begrim
+border
 begrimed
 begrimer
 begrimes
@@ -12944,7 +12945,6 @@ banquettes
 bordello
 bordels
 backpacker
-border
 bordereau
 bowstaff
 bordered
