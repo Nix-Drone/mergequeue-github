@@ -9136,7 +9136,6 @@ almsful
 almsgiver
 almsgiving
 almshouse
-albertype
 almsman
 actinobacilli
 almsmen
@@ -13156,6 +13155,7 @@ animalistic
 animality
 animalivora
 animalivore
+albertype
 animalivorous
 animalization
 animalize
