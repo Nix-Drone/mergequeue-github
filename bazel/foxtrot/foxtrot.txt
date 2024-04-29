@@ -1691,7 +1691,6 @@ fchar
 fipenny
 fcomp
 farcin
-fcp
 foehns
 familiar
 friars
@@ -6797,6 +6796,7 @@ fibromyomectomy
 foisted
 foisty
 foistiness
+fcp
 foists
 foresworn
 foiter
