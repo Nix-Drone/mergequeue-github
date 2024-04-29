@@ -10505,7 +10505,6 @@ amylenes
 amylenol
 amiles
 amylic
-amylidene
 amylin
 amylo
 amylocellulose
@@ -18907,6 +18906,7 @@ archesporium
 archespsporia
 alsikes
 archest
+amylidene
 archetypal
 abstrude
 authoritarianisms
