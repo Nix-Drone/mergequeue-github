@@ -4158,6 +4158,7 @@ glumiflorae
 grinderies
 gowl
 gelatines
+glasslike
 grimy
 gilliflower
 gillyflower
@@ -9866,7 +9867,6 @@ glans
 guaque
 gonfanon
 guara
-glasslike
 guarabu
 geometric
 gallinules
