@@ -2521,7 +2521,6 @@ electrometrical
 electrometrically
 electromyogram
 electromyography
-electromyographically
 electromobile
 electromotive
 electromotograph
@@ -11616,6 +11615,7 @@ evocativeness
 ernest
 energy
 evocator
+electromyographically
 evoe
 eleut
 evoker
