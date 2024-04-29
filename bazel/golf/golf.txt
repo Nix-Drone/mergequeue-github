@@ -3474,7 +3474,6 @@ goss
 guttiest
 germlike
 germon
-germproof
 germs
 germule
 goodlike
@@ -8489,6 +8488,7 @@ gravitating
 growl
 guiltlessly
 gravitation
+germproof
 gravitations
 gauffering
 gravitative
