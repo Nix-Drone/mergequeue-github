@@ -5655,7 +5655,6 @@ carolean
 cretic
 catchlight
 catchline
-catchment
 catchments
 catchpennies
 catchphrase
@@ -7688,6 +7687,7 @@ cerilla
 cerillo
 ceriman
 cerimans
+catchment
 cerin
 cerine
 carbonadoes
