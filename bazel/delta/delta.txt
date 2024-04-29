@@ -4584,7 +4584,6 @@ dehydrators
 demidome
 demieagle
 demyelinate
-demies
 demifarthing
 demifigure
 demiflouncing
@@ -10582,6 +10581,7 @@ diplomas
 diplomat
 diplomata
 diplomate
+demies
 diplomates
 diplomatically
 diplomatique
