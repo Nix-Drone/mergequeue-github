@@ -1194,6 +1194,7 @@ dataset
 datasetname
 datasets
 datatype
+doling
 datatypes
 datcha
 dynamometry
@@ -5952,7 +5953,6 @@ depressants
 depressed
 depresses
 depressibility
-doling
 depressibilities
 depressible
 declass
