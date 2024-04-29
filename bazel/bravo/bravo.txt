@@ -1903,6 +1903,7 @@ bandcutter
 bande
 bandeau
 bandeaux
+bimbil
 betula
 banded
 bandelet
@@ -3757,7 +3758,6 @@ batteau
 batteaux
 bonnering
 batteler
-bimbil
 batteling
 battels
 battement
