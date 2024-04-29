@@ -4809,7 +4809,6 @@ gyroscopics
 gyrose
 gyrostabilized
 gyrostat
-gyrostats
 gyrotheca
 girouette
 gastroduodenostomies
@@ -7645,6 +7644,7 @@ gradient
 gradientia
 gamopetalae
 gradients
+gyrostats
 gradin
 gradines
 glumpiness
