@@ -3813,7 +3813,6 @@ battlepiece
 battleplane
 barnstorms
 battler
-battles
 battleship
 battleships
 buhr
@@ -6132,6 +6131,7 @@ beholdable
 balalaikas
 benched
 benchers
+battles
 benchership
 benches
 benchfellow
