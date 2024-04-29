@@ -3035,7 +3035,6 @@ geochronological
 geocyclic
 geocline
 griskin
-geococcyx
 geocoronium
 gordunite
 geocratic
@@ -4557,6 +4556,7 @@ gynospore
 gorgons
 galziekte
 goldmist
+geococcyx
 gynostemium
 gynostemiumia
 ginseng
