@@ -2425,6 +2425,7 @@ downstair
 dialogs
 degorder
 decimeters
+diesel
 decimetre
 daysman
 dangering
@@ -11266,7 +11267,6 @@ discase
 discased
 dimit
 dodecant
-diesel
 discases
 discasing
 discatter
