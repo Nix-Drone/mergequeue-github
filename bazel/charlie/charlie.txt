@@ -7078,7 +7078,6 @@ centiares
 centiday
 centifolious
 centigrade
-centigrado
 centigram
 centigramme
 centigrams
@@ -18427,6 +18426,7 @@ cohog
 cohogs
 cohol
 coholder
+centigrado
 coholders
 cohomology
 cill
