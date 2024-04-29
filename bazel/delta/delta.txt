@@ -4700,7 +4700,6 @@ demirep
 demireps
 demirevetment
 demirhumb
-demirilievo
 demirobe
 demonastery
 dol
@@ -13601,6 +13600,7 @@ dissymmetrical
 dissymmetrically
 dissymmettric
 dissympathy
+demirilievo
 dissympathize
 dissimulate
 dissimulates
