@@ -4770,7 +4770,6 @@ bedlids
 bedlight
 bedmaker
 bewrought
-bedmakers
 borak
 bulldozer
 bookdom
@@ -11586,6 +11585,7 @@ boatbuilder
 boatbuilding
 boated
 boatel
+bedmakers
 boatels
 boatheader
 boathook
