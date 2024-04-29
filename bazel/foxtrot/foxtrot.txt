@@ -5948,7 +5948,6 @@ floors
 fiddleback
 floorshift
 fawny
-floorshifts
 floorshow
 floorway
 fluidrachm
@@ -6781,6 +6780,7 @@ foiningly
 foins
 fashionmonging
 fiacre
+floorshifts
 foliageous
 furiously
 farsightedly
