@@ -1422,7 +1422,6 @@ callate
 callback
 callbacks
 callboy
-callboys
 called
 callers
 calles
@@ -17889,6 +17888,7 @@ coelelminthic
 coelentera
 coelenterata
 cubicle
+callboys
 coelenterate
 countersigning
 coelenterates
