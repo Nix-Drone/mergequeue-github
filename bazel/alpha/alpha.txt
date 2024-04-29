@@ -9933,6 +9933,7 @@ amberoids
 ambers
 ambiance
 ambiances
+attendee
 ambicolorate
 ambicoloration
 ambidexterity
@@ -23029,7 +23030,6 @@ attendant
 attendantly
 ascula
 attendants
-attendee
 antiradiant
 attenders
 attending
