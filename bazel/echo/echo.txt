@@ -2463,7 +2463,6 @@ electroindustrial
 electroing
 electroionic
 enzymology
-electrojet
 electrokinetic
 enkolpion
 embarrased
@@ -5385,6 +5384,7 @@ etchings
 endotherm
 endothermal
 exobiologist
+electrojet
 electioneering
 endothermy
 equivocally
