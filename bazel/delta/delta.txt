@@ -2407,7 +2407,6 @@ decimalism
 dueling
 decimalist
 decimalization
-dilogarithm
 decimalize
 decimalizes
 decimally
@@ -16433,6 +16432,7 @@ doxa
 desalts
 doxastic
 doxasticon
+dilogarithm
 doxy
 doxie
 doxies
