@@ -15237,7 +15237,6 @@ antifaction
 antifame
 antifascism
 antifascist
-antifascists
 antifat
 antifatigue
 antifebrin
@@ -17653,6 +17652,7 @@ appeasing
 archenemies
 appeasingly
 ambrosia
+antifascists
 appel
 appellability
 appellable
