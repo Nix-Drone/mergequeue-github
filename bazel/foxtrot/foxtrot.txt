@@ -6308,6 +6308,7 @@ fluidmeter
 faulted
 fluidness
 fluidounce
+frisks
 friskers
 fluidram
 flaff
@@ -10176,7 +10177,6 @@ friskin
 friskiness
 frisking
 friskingly
-frisks
 frislet
 frisolee
 filleter
