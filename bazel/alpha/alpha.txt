@@ -5211,7 +5211,6 @@ af
 afterpart
 automate
 aface
-afaced
 afacing
 afaint
 afara
@@ -25055,6 +25054,7 @@ awoken
 awol
 awols
 awonder
+afaced
 awork
 aworry
 aworth
