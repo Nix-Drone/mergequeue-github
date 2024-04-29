@@ -1480,6 +1480,7 @@ deaconship
 deactivate
 deactivated
 deactivates
+depermed
 discontinuing
 dicranoid
 dehydromucic
@@ -5657,7 +5658,6 @@ davenports
 deperition
 diminutional
 drugstore
-depermed
 deperms
 depersonalise
 disapproval
