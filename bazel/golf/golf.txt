@@ -679,7 +679,6 @@ geopositive
 gunshots
 gnathonize
 gadaea
-geodesy
 galliot
 galliots
 gurnets
@@ -7064,6 +7063,7 @@ googolplex
 goopy
 geoparallelotropic
 goops
+geodesy
 gude
 goorals
 grillade
