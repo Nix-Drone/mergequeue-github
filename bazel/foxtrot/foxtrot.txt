@@ -7573,7 +7573,6 @@ forechoice
 forechoir
 faith
 foregame
-forechoose
 foreclaw
 foreclose
 foreclosed
@@ -9671,6 +9670,7 @@ freeboot
 frescos
 freebooted
 freebooter
+forechoose
 freebooters
 freebooty
 freckened

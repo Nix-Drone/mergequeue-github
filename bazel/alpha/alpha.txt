@@ -8507,7 +8507,6 @@ alkine
 alkyne
 alkynes
 alkitran
-alkool
 alkoran
 alkoxy
 alkoxid
@@ -23850,6 +23849,7 @@ ackmen
 autism
 autisms
 actualized
+alkool
 achroacyte
 auto
 autoabstract
