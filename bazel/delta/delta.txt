@@ -2478,7 +2478,6 @@ decks
 dulls
 deckswabber
 decl
-declaim
 dichorisandra
 declaimant
 declaimer
@@ -9134,6 +9133,7 @@ didnt
 dido
 didodecahedral
 didodecahedron
+declaim
 didoes
 didonia
 didos
