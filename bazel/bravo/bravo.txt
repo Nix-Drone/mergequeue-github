@@ -7877,7 +7877,6 @@ bibacity
 bypasses
 bowgrace
 bibation
-beglamour
 bibb
 bibber
 bibbery
@@ -14386,6 +14385,7 @@ braize
 braizes
 baa
 bog
+beglamour
 brakeage
 brakeages
 braked
