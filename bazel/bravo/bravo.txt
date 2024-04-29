@@ -3452,7 +3452,6 @@ basswoods
 begalling
 basta
 bastaard
-bastant
 bastard
 bastarda
 bastardy
@@ -15377,6 +15376,7 @@ brightsmith
 brightsome
 brightsomeness
 brigittine
+bastant
 bicuspids
 brigous
 borasco

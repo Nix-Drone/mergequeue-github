@@ -443,7 +443,6 @@ dairymen
 dairywoman
 dairywomen
 dayroom
-dayrooms
 dairous
 dairt
 dais
@@ -1122,6 +1121,7 @@ dashnak
 dashnakist
 dashplate
 dropflower
+dayrooms
 dashpot
 dasht
 dashwheel
