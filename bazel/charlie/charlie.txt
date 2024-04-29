@@ -6261,7 +6261,6 @@ causers
 causes
 causeur
 coati
-causeuse
 causeuses
 cajaput
 causeway
@@ -6728,6 +6727,7 @@ celiomyodynia
 celiomyomectomy
 celiomyomotomy
 clearway
+causeuse
 celiomyositis
 celiopyosis
 celiorrhea
