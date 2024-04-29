@@ -9738,7 +9738,6 @@ amalgamative
 amalgamatize
 amalgamator
 amalgamators
-amalgamist
 amalgamization
 amalgamize
 akonge
@@ -21648,6 +21647,7 @@ assembler
 assembles
 assembly
 assemblies
+amalgamist
 assemblyman
 absinthiate
 assemblymen
