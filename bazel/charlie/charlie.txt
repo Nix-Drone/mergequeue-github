@@ -2322,7 +2322,6 @@ crocard
 canchas
 cancion
 cancionero
-canciones
 causeless
 cancri
 cancrid
@@ -20654,6 +20653,7 @@ complementing
 complementizer
 complementoid
 complete
+canciones
 completed
 completely
 cervisia
