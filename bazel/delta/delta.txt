@@ -8738,7 +8738,6 @@ diazide
 diazin
 diazins
 diazo
-diazoalkane
 diazoamin
 depeter
 diazoamine
@@ -16433,6 +16432,7 @@ doxa
 desalts
 doxastic
 doxasticon
+diazoalkane
 doxy
 doxie
 doxies
