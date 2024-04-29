@@ -5352,6 +5352,7 @@ buyable
 benchboard
 begray
 begrain
+beni
 begrave
 birne
 begrett
@@ -6274,7 +6275,6 @@ bengals
 bengola
 buttonbur
 besing
-beni
 benic
 benaming
 benight
