@@ -6406,7 +6406,6 @@ benzdioxdiazine
 benzdioxtriazine
 benzein
 benzene
-benzeneazobenzene
 bastian
 benzenediazonium
 birthrate
@@ -17145,6 +17144,7 @@ bullfoot
 brahmic
 bespray
 blandishment
+benzeneazobenzene
 bullfrog
 bullgine
 bullhead

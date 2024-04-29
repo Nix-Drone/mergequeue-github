@@ -3935,7 +3935,6 @@ fineish
 fineleaf
 frounces
 finement
-fineness
 finer
 finery
 fines
@@ -4182,6 +4181,7 @@ firedamps
 firedog
 firedragon
 footnotes
+fineness
 firedrake
 firefall
 firefang
