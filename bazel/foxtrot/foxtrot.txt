@@ -7410,7 +7410,6 @@ forbow
 forbruise
 fascili
 formalised
-forcarve
 forcat
 force
 fasciculus
@@ -10258,6 +10257,7 @@ flagrant
 finning
 floating
 falcer
+forcarve
 fomented
 frond
 frizzy
