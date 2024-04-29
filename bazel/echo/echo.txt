@@ -198,6 +198,7 @@ electrize
 erythritic
 earthslide
 earthsmoke
+emotion
 earthtongue
 earthwall
 earthwork
@@ -3996,7 +3997,6 @@ eversions
 emoted
 emoting
 emotiomotor
-emotion
 emotionable
 empyreans
 emotional
