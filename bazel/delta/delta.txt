@@ -1477,7 +1477,6 @@ deaconry
 deaconries
 deacons
 deaconship
-deactivate
 deactivated
 deactivates
 discontinuing
@@ -3344,6 +3343,7 @@ denuded
 defile
 defeatment
 defiledness
+deactivate
 defilement
 defilements
 droughermen
