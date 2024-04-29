@@ -10632,7 +10632,6 @@ amyosthenic
 amyotonia
 aconitum
 amyotrophia
-amyotrophic
 amyous
 amir
 amiray
@@ -24928,6 +24927,7 @@ awakable
 awake
 awakeable
 assigner
+amyotrophic
 awaked
 axemaster
 awaken
