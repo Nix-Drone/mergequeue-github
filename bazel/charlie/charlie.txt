@@ -4172,7 +4172,6 @@ carer
 carers
 cares
 caress
-caressable
 caressant
 collinal
 caressed
@@ -22941,6 +22940,7 @@ crusher
 consociated
 consociating
 consociational
+caressable
 consociationism
 consociative
 consocies
