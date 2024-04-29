@@ -682,7 +682,6 @@ gadaea
 geodesy
 galliot
 galliots
-gurnets
 gallipot
 gallipots
 gallirallus
@@ -7109,6 +7108,7 @@ gooserumped
 gregal
 gooses
 gooseskin
+gurnets
 goosewing
 graciosity
 gangplow
