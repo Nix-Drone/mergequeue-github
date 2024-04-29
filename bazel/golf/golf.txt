@@ -2609,7 +2609,6 @@ gemonies
 gemot
 gemote
 gemotes
-gemots
 gems
 genouillere
 gemsbok
@@ -4809,6 +4808,7 @@ gyroscopics
 gyrose
 gyrostabilized
 gyrostat
+gemots
 gyrostats
 gyrotheca
 girouette
