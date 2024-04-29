@@ -4711,7 +4711,6 @@ aecidiaceae
 aecidial
 aecidioform
 aecidiomycetes
-aecidiospore
 aecidiostage
 aecidium
 aeciospore
@@ -18308,6 +18307,7 @@ aquilawood
 aquilege
 aquilegia
 aquilia
+aecidiospore
 aquilian
 aquilid
 aquiline
