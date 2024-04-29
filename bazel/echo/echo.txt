@@ -5766,6 +5766,7 @@ englut
 engluts
 epicaridan
 etagere
+exhaustivity
 englutted
 englutting
 ejurate
@@ -12452,7 +12453,6 @@ eryon
 exhaustiveness
 egyptianism
 epistles
-exhaustivity
 exhaustless
 exhaustlessly
 echites
