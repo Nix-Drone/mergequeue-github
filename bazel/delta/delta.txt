@@ -3432,7 +3432,6 @@ deflectors
 deflects
 deflesh
 deflex
-deflexed
 deflexibility
 deflexible
 deflexing
@@ -15750,6 +15749,7 @@ dorneck
 dornic
 djinny
 decidable
+deflexed
 dornick
 dornicks
 dornock
