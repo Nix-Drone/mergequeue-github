@@ -1718,6 +1718,7 @@ deathtrap
 deathtraps
 deathward
 deathwatches
+deflorations
 deathweed
 deathworm
 dowelled
@@ -3447,7 +3448,6 @@ deflocculator
 deflocculent
 deflorate
 defloration
-deflorations
 deflore
 deflorescence
 deflourish
