@@ -10897,6 +10897,7 @@ chips
 chipwood
 chiquest
 chiquitan
+cinemas
 chiquito
 chiragra
 chiragrical
@@ -13853,7 +13854,6 @@ cinema
 cinemactic
 cinemagoer
 cinemagoers
-cinemas
 cymbal
 cinemascope
 cinematheque
