@@ -3005,6 +3005,7 @@ genuses
 geo
 geoagronomic
 geobiont
+gouts
 geoblast
 geobotany
 galivant
@@ -7473,7 +7474,6 @@ glycopexia
 goutify
 goutish
 gruffiness
-gouts
 goutweed
 griffs
 gouvernante
