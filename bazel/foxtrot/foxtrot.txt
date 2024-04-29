@@ -3612,6 +3612,7 @@ fluidize
 filemark
 filemot
 foreknee
+flippantly
 filename
 filenames
 filer
@@ -3775,7 +3776,6 @@ filmet
 filmgoers
 filmgoing
 filmy
-flippantly
 filmic
 filmically
 flicking
