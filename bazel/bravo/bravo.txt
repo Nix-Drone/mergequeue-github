@@ -4509,6 +4509,7 @@ beclip
 besieged
 becloak
 belchers
+biquintile
 becloaking
 becloaks
 beclog
@@ -9348,7 +9349,6 @@ bipupillate
 biquadrantal
 biquadrate
 biquartz
-biquintile
 biracial
 biracialism
 bawdry
