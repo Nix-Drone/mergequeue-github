@@ -13922,7 +13922,6 @@ distracter
 distractibility
 distractible
 defaulters
-distractile
 dedicator
 distraction
 distractions
@@ -17810,6 +17809,7 @@ ducklar
 ducklet
 duckling
 ducklings
+distractile
 ducklingship
 duckmeat
 duckpin
