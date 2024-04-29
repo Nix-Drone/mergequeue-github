@@ -2221,6 +2221,7 @@ gazetteers
 goon
 gazetteership
 gremlin
+granitification
 gazettes
 gazetting
 gazing
@@ -8004,7 +8005,6 @@ granitelike
 granites
 graniteware
 granitiferous
-granitification
 granitiform
 granitite
 granitization
