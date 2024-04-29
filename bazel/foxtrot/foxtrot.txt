@@ -1184,7 +1184,6 @@ forestaller
 fenite
 fascia
 fogeater
-fasciae
 fasciate
 featherbone
 fasciated
@@ -5412,6 +5411,7 @@ fleyed
 flocci
 fleyedly
 fleing
+fasciae
 flanges
 fleys
 frankfold
