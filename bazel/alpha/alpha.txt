@@ -1196,7 +1196,6 @@ acacatechin
 ajourise
 acacatechol
 acacetin
-auricyanide
 acacia
 acacian
 acacias
@@ -3574,6 +3573,7 @@ addu
 adduce
 adduceable
 adduced
+auricyanide
 adducent
 adducer
 adducers
