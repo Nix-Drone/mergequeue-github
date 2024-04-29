@@ -4354,7 +4354,6 @@ fishbolts
 falchions
 fishbowls
 fisheater
-fisheye
 fisheyes
 fisher
 fenian
@@ -11228,6 +11227,7 @@ fungicidal
 foreshowed
 fungicidally
 foraminulous
+fisheye
 fungicide
 fungicides
 fungiferous
