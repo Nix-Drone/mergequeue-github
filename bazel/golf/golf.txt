@@ -4806,7 +4806,6 @@ gyroscope
 galeopithecus
 gyroscopes
 gyroscopics
-gyrose
 gyrostabilized
 gyrostat
 gyrostats
@@ -10371,6 +10370,7 @@ gulose
 gulosity
 gulosities
 grein
+gyrose
 gillbird
 gynaecocratic
 gossiping
