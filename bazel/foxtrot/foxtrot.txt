@@ -2781,7 +2781,6 @@ fraze
 forbidder
 festiveness
 festivity
-festology
 flowerer
 frasco
 feston
@@ -11755,6 +11754,7 @@ fuzziness
 flacianism
 frowzled
 forestem
+festology
 foo
 fv
 fw
