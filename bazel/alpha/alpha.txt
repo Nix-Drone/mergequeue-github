@@ -7759,7 +7759,6 @@ anconei
 aldolized
 aldolizing
 aldols
-aldononose
 aldopentose
 aldose
 aldoses
@@ -22933,6 +22932,7 @@ attacco
 attach
 attachableness
 attache
+aldononose
 attached
 attachedly
 attacher
