@@ -517,7 +517,6 @@ galerie
 galerum
 galerus
 gales
-galesaur
 galesaurus
 galet
 garrya
@@ -873,6 +872,7 @@ gildhalls
 graf
 gambade
 gambades
+galesaur
 gambado
 gymnosophy
 guttiferal
