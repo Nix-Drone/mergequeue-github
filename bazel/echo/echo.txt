@@ -1302,7 +1302,6 @@ eellike
 eelpout
 eelpouts
 emblemology
-eelshop
 eelskin
 eelware
 eelworm
@@ -13334,6 +13333,7 @@ expound
 expoundable
 expounder
 expounders
+eelshop
 empocket
 expounds
 enthrong
