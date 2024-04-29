@@ -1680,7 +1680,6 @@ ballplayer
 ballplayers
 ballplatz
 bedrabbled
-ballpoint
 ballproof
 ballrooms
 balls
@@ -8473,6 +8472,7 @@ bijwoner
 buisson
 bike
 bloodlettings
+ballpoint
 biked
 biker
 bikers
