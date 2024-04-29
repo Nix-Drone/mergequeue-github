@@ -9042,7 +9042,6 @@ biol
 biolinguistics
 biolyses
 bludgeoneer
-battlemented
 benzazide
 biolite
 biolith
@@ -17228,6 +17227,7 @@ bullshots
 bullskin
 bullsnake
 bullsticker
+battlemented
 bullsucker
 bullswool
 bullterrier
