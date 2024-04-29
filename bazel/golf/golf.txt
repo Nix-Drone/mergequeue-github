@@ -1965,7 +1965,6 @@ gudefather
 guariba
 gatewise
 gatewoman
-gatherable
 gathered
 gilgai
 gatherers
@@ -3377,6 +3376,7 @@ gipons
 guilelessly
 germ
 germain
+gatherable
 german
 germane
 germanesque
