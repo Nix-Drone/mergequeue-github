@@ -3644,7 +3644,6 @@ gnetaceae
 gewgawry
 geneses
 grottos
-gewgaws
 gluttonized
 gez
 galloon
@@ -6185,6 +6184,7 @@ gluttery
 glutting
 gluttingly
 glutton
+gewgaws
 gainspeaking
 gluttoness
 gluttonies
