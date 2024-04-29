@@ -2605,6 +2605,7 @@ barguests
 barhop
 buzylene
 barhopped
+beggable
 barhops
 baria
 brandies
@@ -14643,7 +14644,6 @@ brattie
 buttonwood
 brattiest
 brattishing
-beggable
 brattled
 brattles
 brattling
