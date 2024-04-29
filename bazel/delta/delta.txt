@@ -3274,7 +3274,6 @@ defenses
 defensibility
 defensibleness
 defensibly
-defensive
 defensively
 defensiveness
 defensor
@@ -12013,6 +12012,7 @@ disentangling
 disenter
 dysentery
 dysenteric
+defensive
 dysenterical
 dysenteries
 disenthral

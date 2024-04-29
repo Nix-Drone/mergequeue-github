@@ -4919,7 +4919,6 @@ endosteal
 encushion
 end
 endable
-endamage
 endamageable
 endamagement
 endamages
@@ -5524,6 +5523,7 @@ eneuch
 eneugh
 enface
 enfacement
+endamage
 enfaces
 elatedly
 enfamous
