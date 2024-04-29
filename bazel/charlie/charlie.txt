@@ -5333,6 +5333,7 @@ castles
 cortaderia
 china
 castlet
+cubangle
 chairwoman
 castleward
 castlewards
@@ -30443,7 +30444,6 @@ cuban
 cubane
 clypeaster
 chertier
-cubangle
 cubanite
 cubanize
 cubas
