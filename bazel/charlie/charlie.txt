@@ -15237,6 +15237,7 @@ camuse
 cladosiphonic
 cladothrix
 colyba
+corotation
 cladrastis
 clads
 cladus
@@ -19726,7 +19727,6 @@ comburimeter
 comburivorous
 combust
 combusted
-corotation
 combustibilities
 combustible
 combustibleness
