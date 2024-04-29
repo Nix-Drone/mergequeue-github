@@ -7818,7 +7818,6 @@ alef
 awikiwiki
 alefnull
 alefs
-aleft
 alefzero
 alegar
 aleger
@@ -24948,6 +24947,7 @@ awald
 awalim
 apposable
 awalt
+aleft
 awane
 anagennesis
 awanyu
