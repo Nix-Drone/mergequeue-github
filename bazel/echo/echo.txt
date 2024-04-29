@@ -4043,7 +4043,6 @@ expressibly
 empannel
 empanoply
 empaper
-emparchment
 emparl
 empasma
 everbloomer
@@ -5396,6 +5395,7 @@ evangelium
 endyma
 endothrix
 envergure
+emparchment
 endotys
 endotoxic
 exorcisers
