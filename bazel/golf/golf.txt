@@ -2208,6 +2208,7 @@ galla
 gazeful
 gazeless
 gazella
+glossate
 gazellelike
 gazelline
 gazement
@@ -7825,7 +7826,6 @@ grammars
 gieseckite
 grammaticality
 gateau
-glossate
 grammatically
 grammaticalness
 grammaticaster
