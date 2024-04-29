@@ -2426,7 +2426,6 @@ candleshrift
 candlesnuffer
 candlestand
 committeewoman
-candlestick
 candlesticked
 candlesticks
 candlestickward
@@ -26833,6 +26832,7 @@ countergift
 countergirded
 counterglow
 counterguard
+candlestick
 counterguerilla
 counterguerrilla
 chromogenic
