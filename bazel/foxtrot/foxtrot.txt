@@ -5021,7 +5021,6 @@ flaps
 flare
 flareback
 ferments
-firnification
 fragmentitious
 flareboard
 flared
@@ -11568,6 +11567,7 @@ fuseboard
 fused
 fusees
 fusel
+firnification
 fuselage
 fuselages
 fuselike
