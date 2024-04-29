@@ -2523,7 +2523,6 @@ electromyogram
 electromyography
 electromyographically
 electromobile
-electromotive
 electromotograph
 epimerised
 electromotor
@@ -9005,6 +9004,7 @@ ergotamine
 ergotaminine
 ergoted
 enzone
+electromotive
 ergotic
 ergotine
 etageres
