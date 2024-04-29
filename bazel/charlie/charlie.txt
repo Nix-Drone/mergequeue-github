@@ -8878,7 +8878,6 @@ chaptering
 chapters
 chaptrel
 chapwoman
-chaqueta
 char
 conveyability
 chara
@@ -19304,6 +19303,7 @@ colopexy
 colopexia
 colopexotomy
 colophan
+chaqueta
 colophane
 colophany
 colophene
