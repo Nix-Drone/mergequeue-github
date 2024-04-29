@@ -2209,6 +2209,7 @@ felons
 felonsetter
 fluorescence
 felonweed
+foreloop
 felonwort
 fractionizing
 flancard
@@ -7794,7 +7795,6 @@ florilege
 forelook
 formants
 francisco
-foreloop
 forelooper
 foreloper
 forelouper
