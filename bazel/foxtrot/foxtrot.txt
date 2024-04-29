@@ -4345,6 +4345,7 @@ fish
 fishability
 fishable
 fishback
+fossula
 fishberry
 fleshers
 fishberries
@@ -8896,7 +8897,6 @@ flamefish
 fossor
 fossoria
 fossorious
-fossula
 fossulae
 fossulate
 fostell
