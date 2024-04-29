@@ -6946,7 +6946,6 @@ foll
 foller
 folles
 formalisation
-folletage
 folletti
 folly
 follicle
@@ -8653,6 +8652,7 @@ forswear
 foreanswer
 forswearing
 fairling
+folletage
 fields
 forswears
 fort
