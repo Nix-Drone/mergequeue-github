@@ -840,7 +840,6 @@ extent
 ectocarpaceae
 ectocarpales
 ectocarpic
-ectocarpous
 ectocarpus
 ectocelic
 ectochondral
@@ -3898,6 +3897,7 @@ emydinae
 emydosauria
 emyds
 euphausiacea
+ectocarpous
 emigate
 engendering
 emigates
