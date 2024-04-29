@@ -6292,7 +6292,6 @@ giaours
 gnawn
 gneiss
 gneisses
-gneissitic
 gneissoid
 gombos
 gnessic
@@ -8701,6 +8700,7 @@ gayness
 garni
 greenlets
 gorge
+gneissitic
 greenly
 greenling
 gyving
