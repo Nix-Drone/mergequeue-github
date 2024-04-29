@@ -5093,7 +5093,6 @@ denaturise
 denaturised
 duodiode
 diopsidae
-denaturization
 denaturize
 denaturizer
 denaturizing
@@ -13646,6 +13645,7 @@ dissocial
 dissociality
 dissociant
 dissociated
+denaturization
 demicircle
 dissociates
 dissociating
