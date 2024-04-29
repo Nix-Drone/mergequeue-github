@@ -1008,6 +1008,7 @@ forklifts
 fardel
 fardelet
 farding
+forehinting
 fardo
 fards
 fissiparation
@@ -8034,7 +8035,6 @@ forestay
 forestair
 fireplough
 forestays
-forehinting
 forestaysail
 forestal
 forestalled
