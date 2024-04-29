@@ -2883,7 +2883,6 @@ bostons
 barotropic
 barouche
 barouches
-barouchet
 barouchette
 barouni
 baroxyton
@@ -11401,6 +11400,7 @@ bluetops
 bluets
 blueweed
 bravos
+barouchet
 blintze
 blueweeds
 bluewood
