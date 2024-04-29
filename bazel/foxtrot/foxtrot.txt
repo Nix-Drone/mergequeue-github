@@ -4437,7 +4437,6 @@ fishworker
 fishworks
 fringilliformes
 fishworm
-fisnoga
 frostbound
 fissidentaceous
 fissile
@@ -7161,6 +7160,7 @@ ferruling
 filoselle
 footfalls
 footfarer
+fisnoga
 footfault
 forehandedly
 footfolk
