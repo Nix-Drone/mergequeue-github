@@ -10087,7 +10087,6 @@ ambrosio
 ambrosterol
 ambrotype
 ambsace
-ambsaces
 ambulacra
 ambulacral
 ambulacrum
@@ -14135,6 +14134,7 @@ antefact
 antefix
 antefixa
 anteflected
+ambsaces
 anteflexed
 anteflexion
 antefurca
