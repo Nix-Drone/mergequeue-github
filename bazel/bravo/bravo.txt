@@ -9427,6 +9427,7 @@ brujo
 becrawled
 birdnester
 birds
+boaster
 birdsall
 balanced
 birdseeds
@@ -11569,7 +11570,6 @@ boarwood
 boas
 boast
 boasted
-boaster
 boasters
 boastfully
 boastfulness
