@@ -3159,6 +3159,7 @@ demihuman
 defamy
 defaming
 defamingly
+disownable
 defamous
 deadworks
 darksomeness
@@ -14722,7 +14723,6 @@ diplomacies
 doctrinal
 doctrinalism
 dogdoms
-disownable
 doctrinalist
 doctrinality
 doctrinally
