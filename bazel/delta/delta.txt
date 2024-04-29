@@ -11091,7 +11091,6 @@ dourade
 disassembled
 disassembler
 disassembles
-descriptors
 disassembling
 disassent
 disassiduity
@@ -15700,6 +15699,7 @@ dory
 doria
 dynapolis
 dorian
+descriptors
 doryanthes
 dorical
 doricism
