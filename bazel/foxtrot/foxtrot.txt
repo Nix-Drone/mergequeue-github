@@ -4182,7 +4182,6 @@ firedamps
 firedog
 firedragon
 footnotes
-firedrake
 firefall
 firefang
 firefanged
@@ -7642,6 +7641,7 @@ foredoes
 foredoomer
 fgn
 fails
+firedrake
 flays
 fretter
 fluosilicate
