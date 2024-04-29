@@ -1024,7 +1024,6 @@ absorber
 absorbers
 absorbing
 absorbtion
-absorpt
 absorptance
 absorptiometer
 absorptiometric
@@ -23885,6 +23884,7 @@ antienzymic
 autobiographer
 autobiographers
 autobiography
+absorpt
 autobiographical
 autobiographically
 autobiographist
