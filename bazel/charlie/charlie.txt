@@ -12573,7 +12573,6 @@ censer
 chronicon
 chronics
 chronique
-chronisotherm
 chronist
 chronobarometer
 chronobiology
@@ -29500,6 +29499,7 @@ cristivomer
 crackerberry
 catogene
 cristobalite
+chronisotherm
 circlewise
 crystograph
 cerebrums
