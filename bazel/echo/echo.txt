@@ -6774,7 +6774,6 @@ enthralldom
 enthralling
 enthrallment
 enthrallments
-enthralment
 enthrals
 enthrill
 eliminatory
@@ -13393,6 +13392,7 @@ expropriator
 elve
 expropriatory
 exptl
+enthralment
 expugn
 expugnable
 expulsatory
