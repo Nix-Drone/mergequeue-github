@@ -3850,7 +3850,6 @@ gyascutus
 gyassa
 gib
 gibbals
-gibbar
 gibbartas
 gabe
 gibbed
@@ -9690,6 +9689,7 @@ grumbler
 gnomology
 grumbles
 grumbling
+gibbar
 grumblingly
 greyhounds
 genips
