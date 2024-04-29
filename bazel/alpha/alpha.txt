@@ -2915,7 +2915,6 @@ arboriculturist
 acrologue
 acromastitis
 acromegaly
-acromegalia
 acromegalic
 acromegalies
 acromelalgia
@@ -19712,6 +19711,7 @@ ariki
 aril
 albuminiform
 aryl
+acromegalia
 arylamine
 arylamino
 amphophilous
