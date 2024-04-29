@@ -2409,7 +2409,6 @@ decimalist
 decimalization
 dilogarithm
 decimalize
-decimalizes
 decimally
 decimals
 dressages
@@ -8780,6 +8779,7 @@ dibenzyl
 daltonism
 dibenzoyl
 dibenzophenazine
+decimalizes
 dibenzopyrrole
 decayable
 dibhole
