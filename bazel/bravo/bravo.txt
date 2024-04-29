@@ -2960,7 +2960,6 @@ barrelfuls
 blind
 barrelhead
 barrelhouse
-barrelhouses
 besmearer
 barreling
 broad
@@ -4406,6 +4405,7 @@ boreus
 bebotch
 bebothered
 bebouldered
+barrelhouses
 bayish
 bebrave
 bebreech
