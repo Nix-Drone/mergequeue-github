@@ -4564,6 +4564,7 @@ fitness
 feudalised
 fitout
 finedrawing
+forfex
 fits
 fittage
 fellagha
@@ -8195,7 +8196,6 @@ forfend
 forfended
 forfending
 forfends
-forfex
 fairyologist
 frowner
 forficate
