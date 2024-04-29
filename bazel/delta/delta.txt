@@ -6847,7 +6847,6 @@ dichromasy
 desoxyanisoin
 desoxycorticosterone
 desoxyephedrine
-desoxymorphine
 desoxyribonucleic
 desoxyribonucleoprotein
 desoxyribose
@@ -13242,6 +13241,7 @@ disproportionality
 distinctest
 draco
 disproportionalness
+desoxymorphine
 degausser
 disproportionate
 disproportionately
