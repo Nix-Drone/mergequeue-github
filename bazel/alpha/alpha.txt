@@ -13117,7 +13117,6 @@ arsanilic
 anim
 anima
 animability
-animable
 animableness
 animacule
 animadversal
@@ -14788,6 +14787,7 @@ antiballooner
 antibalm
 antibank
 antibaryon
+animable
 antibasilican
 antibenzaldoxime
 antibibliolatry
