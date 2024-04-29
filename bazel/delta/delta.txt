@@ -10390,7 +10390,6 @@ diphead
 dibase
 diphenan
 diphenhydramine
-diphenyl
 diphenylacetylene
 diphenylamine
 diphenylaminechlorarsine
@@ -13105,6 +13104,7 @@ display
 displayable
 displayed
 displayer
+diphenyl
 displaying
 displays
 defectology
