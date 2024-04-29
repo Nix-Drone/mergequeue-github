@@ -4156,7 +4156,6 @@ delimiter
 delimiters
 delimiting
 displumed
-delimitize
 delimitized
 delimitizing
 delimits
@@ -18358,6 +18357,7 @@ duopolistic
 duopsony
 duopsonies
 duopsonistic
+delimitize
 duos
 duosecant
 duotype
