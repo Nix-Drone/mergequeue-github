@@ -6747,6 +6747,7 @@ deskbound
 deskill
 desklike
 deskman
+diastemata
 deskmen
 desks
 desktop
@@ -8657,7 +8658,6 @@ diastatic
 diastem
 diastema
 deadheading
-diastemata
 decreing
 desalinizing
 diastematic
