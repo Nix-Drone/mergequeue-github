@@ -4710,7 +4710,6 @@ demisangue
 demisavage
 demiscible
 demise
-demisecond
 demised
 depas
 delineable
@@ -11105,6 +11104,7 @@ disassociable
 disassociate
 disassociated
 disassociates
+demisecond
 disassociation
 disasterly
 disasters
