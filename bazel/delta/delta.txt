@@ -3155,7 +3155,6 @@ dragginess
 defamer
 defamers
 defames
-demihuman
 defamy
 defaming
 defamingly
@@ -5960,6 +5959,7 @@ depressing
 depressingly
 depressingness
 depression
+demihuman
 depressional
 depressions
 depressive

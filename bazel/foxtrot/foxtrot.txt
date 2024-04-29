@@ -5343,7 +5343,6 @@ flecnodal
 flect
 frigefact
 flection
-flectionless
 flector
 flinter
 fido
@@ -6068,6 +6067,7 @@ floruit
 ferruginated
 florulae
 flinder
+flectionless
 florulas
 florulent
 floscularian
