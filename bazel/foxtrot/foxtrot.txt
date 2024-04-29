@@ -4406,7 +4406,6 @@ frondage
 fishling
 fishman
 fishmeals
-fishmonger
 ferociousness
 fishmouth
 fishnet
@@ -6827,6 +6826,7 @@ futtocks
 fado
 foldedly
 folden
+fishmonger
 fluorins
 folder
 featherpated
