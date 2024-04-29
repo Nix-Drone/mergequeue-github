@@ -10667,7 +10667,6 @@ backflap
 blendcorn
 bestill
 broomstaff
-blende
 blendes
 buffaloed
 blendwater
@@ -12529,6 +12528,7 @@ bonnyish
 boogeyman
 bonniness
 bonnnes
+blende
 bonnock
 bonnocks
 bonnwis
