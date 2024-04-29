@@ -8721,7 +8721,6 @@ expander
 equipluve
 equipment
 equipments
-equipoised
 equipoising
 equipollence
 equipollency
@@ -13078,6 +13077,7 @@ experted
 ethoxycaffeine
 experting
 exacters
+equipoised
 expertised
 exilarch
 excretion
