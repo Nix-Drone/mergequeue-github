@@ -1811,7 +1811,6 @@ eyeliners
 eyemark
 eyen
 electric
-eyeopener
 eyepiece
 eyepit
 eyepoint
@@ -6523,6 +6522,7 @@ ensweeten
 ephyra
 entablature
 emigrated
+eyeopener
 exstruct
 epitaxially
 entablement
