@@ -1789,7 +1789,6 @@ gastroenteritic
 galenism
 globelike
 gastroenteritis
-gluts
 gastroenteroanastomosis
 gastroenterocolitis
 gastroenterocolostomy
@@ -1855,6 +1854,7 @@ gastroparalysis
 globalized
 geopony
 gastroparesis
+gluts
 gunstocker
 gastroparietal
 gastropathy
