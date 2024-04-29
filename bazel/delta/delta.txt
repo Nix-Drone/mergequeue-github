@@ -5054,7 +5054,6 @@ denarcotization
 denarcotize
 denari
 denaries
-denarii
 denarinarii
 denarius
 denaro
@@ -6940,6 +6939,7 @@ desponder
 desponding
 despondingly
 desponds
+denarii
 desponsage
 despose
 dragontail
