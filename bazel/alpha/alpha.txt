@@ -6874,6 +6874,7 @@ airfield
 airflow
 airflows
 airfoil
+archpriesthood
 airfoils
 airframe
 airglow
@@ -19153,7 +19154,6 @@ aetheogam
 archpresbytery
 archpretender
 archpriest
-archpriesthood
 archpriestship
 archprimate
 anatomy
