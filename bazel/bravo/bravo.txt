@@ -4808,6 +4808,7 @@ bedread
 bedrel
 bedrench
 bedrenched
+boggy
 bedrenches
 bedribble
 bentiness
@@ -10001,7 +10002,6 @@ blazon
 biz
 byzantine
 byzantinesque
-boggy
 byzantinize
 byzantium
 brasser
