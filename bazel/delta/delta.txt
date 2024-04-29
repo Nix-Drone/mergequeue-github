@@ -1549,7 +1549,6 @@ deaerated
 deaeration
 deaerator
 deaf
-deafened
 deafeningly
 deafens
 downcurved
@@ -2574,6 +2573,7 @@ decoction
 disarrest
 decoctive
 decocts
+deafened
 decoctum
 decodable
 decode
