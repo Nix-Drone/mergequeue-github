@@ -6396,7 +6396,6 @@ cavekeeper
 cavelet
 cavelike
 catlin
-caveman
 cavemen
 cavendish
 caver
@@ -26779,6 +26778,7 @@ counterenthusiasm
 counterentry
 counterequivalent
 celioparacentesis
+caveman
 counterermine
 counterespionage
 counterestablishment
