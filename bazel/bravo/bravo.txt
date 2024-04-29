@@ -13071,7 +13071,6 @@ borough
 boroughmaster
 boroughmonger
 boroughmongery
-boroughmongering
 boroughs
 boroughwide
 borowolframic
@@ -15674,6 +15673,7 @@ broadmouth
 borrow
 broadpiece
 broads
+boroughmongering
 broadshare
 broadside
 broadsided
