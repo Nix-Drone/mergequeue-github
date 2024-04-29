@@ -2595,7 +2595,6 @@ bargham
 barghest
 baptism
 barghests
-beslash
 barging
 beerage
 bloodstream
@@ -13531,6 +13530,7 @@ bounceable
 bounceably
 beslipper
 bounceback
+beslash
 bounced
 bouncer
 bouncers
