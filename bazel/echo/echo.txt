@@ -1218,6 +1218,7 @@ eds
 educ
 educability
 educable
+endocondensation
 educables
 educand
 educatability
@@ -11814,7 +11815,6 @@ exanthem
 exanthema
 estrous
 exanthemas
-endocondensation
 exanthems
 espionage
 emberiza
