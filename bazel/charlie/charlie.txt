@@ -16641,6 +16641,7 @@ clorargyrite
 clorinator
 clos
 closable
+cobbler
 close
 closecross
 closed
@@ -17389,7 +17390,6 @@ cobbin
 cobbing
 cobble
 cobbled
-cobbler
 cobblerfish
 county
 cobblerism
