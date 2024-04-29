@@ -7510,6 +7510,7 @@ deval
 devall
 devaloka
 devalorize
+drugmaker
 devaluate
 devaluated
 devaluates
@@ -17555,7 +17556,6 @@ druggist
 druggister
 drugless
 dadupanthi
-drugmaker
 drugman
 drugs
 demoniacal
