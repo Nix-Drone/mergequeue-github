@@ -742,7 +742,6 @@ domination
 dancalite
 dopester
 dance
-danceability
 danceable
 danced
 degasification
@@ -16513,6 +16512,7 @@ draconin
 draconis
 draconites
 dracontian
+danceability
 dracontiasis
 deviascope
 dandies
