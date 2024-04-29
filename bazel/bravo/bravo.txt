@@ -3581,7 +3581,6 @@ batfowls
 batful
 bath
 bathala
-batheable
 bathed
 bellower
 bather
@@ -16209,6 +16208,7 @@ browbeat
 browbeater
 browbeating
 bloomy
+batheable
 beterschap
 browbeats
 browd
