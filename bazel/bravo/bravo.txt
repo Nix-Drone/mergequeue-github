@@ -8654,7 +8654,6 @@ billete
 brantcorn
 brawlis
 billeted
-billeter
 billeters
 billethead
 billety
@@ -15903,6 +15902,7 @@ buying
 bromized
 bromizer
 basified
+billeter
 bromizes
 bromizing
 bromlite
