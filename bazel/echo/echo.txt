@@ -8627,7 +8627,6 @@ equicontinuous
 encompassing
 equicostate
 egrets
-equicurve
 equid
 equidiagonal
 equidifferent
@@ -13839,6 +13838,7 @@ extradoses
 emory
 extradotal
 extraembryonal
+equicurve
 extraembryonic
 extraequilibrium
 extraessential
