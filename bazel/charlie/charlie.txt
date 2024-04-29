@@ -3389,7 +3389,6 @@ capsuler
 capsules
 capsuliferous
 capsuliform
-capsuligerous
 capsuling
 capsulitis
 capsulize
@@ -12253,6 +12252,7 @@ chrysops
 chrysopsis
 chrysorin
 chrysosperm
+capsuligerous
 chrysosplenium
 chrysothamnus
 chrysotherapy
