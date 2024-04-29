@@ -6630,7 +6630,6 @@ colligation
 ceinture
 ceintures
 ceyssatite
-clinked
 ceyx
 ceja
 clovery
@@ -10436,6 +10435,7 @@ chiffoniers
 cooncan
 cryptometer
 chiffonnier
+clinked
 chiffonnieres
 chiffonniers
 chifforobe
