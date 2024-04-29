@@ -2236,7 +2236,6 @@ gazump
 grainer
 graders
 gazzetta
-gcd
 gconv
 gd
 gdinfo
@@ -2611,6 +2610,7 @@ gemote
 gemotes
 gemots
 gems
+gcd
 genouillere
 gemsbok
 glassing
