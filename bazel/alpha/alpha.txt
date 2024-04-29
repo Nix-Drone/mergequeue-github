@@ -3793,7 +3793,6 @@ adhaka
 adhara
 adharma
 adhere
-adhered
 adherences
 adherency
 adherend
@@ -11894,6 +11893,7 @@ anaplasm
 anaplasma
 anaplasmoses
 anaplasmosis
+adhered
 anaplasty
 anaplastic
 archapostle
