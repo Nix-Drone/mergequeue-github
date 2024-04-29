@@ -13266,7 +13266,6 @@ cycle
 cyclecar
 cyclecars
 cycled
-cycledom
 cycler
 cyclers
 cycles
@@ -27697,6 +27696,7 @@ coxcombic
 coxcombical
 coxcombically
 coxcombity
+cycledom
 coxcombries
 coxcomical
 coxcomically
