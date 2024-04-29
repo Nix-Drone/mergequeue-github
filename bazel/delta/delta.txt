@@ -16851,7 +16851,6 @@ drawlink
 drawloom
 drawls
 drawn
-drawnet
 dissyllabise
 diffidence
 drawoff
@@ -17757,6 +17756,7 @@ dubs
 duc
 ducal
 ducally
+drawnet
 ducape
 ducat
 drunt
