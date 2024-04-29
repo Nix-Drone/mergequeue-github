@@ -9659,7 +9659,6 @@ albacea
 acropolises
 alveololingual
 alveolonasal
-alveolosubnasal
 alveolus
 alveus
 alvia
@@ -19733,6 +19732,7 @@ arillus
 arils
 aryls
 arimasp
+alveolosubnasal
 arimaspian
 arimathaean
 arioi
