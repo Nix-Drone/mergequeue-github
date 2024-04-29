@@ -3500,7 +3500,6 @@ blendure
 bastionary
 bastioned
 bastionet
-branchiopulmonate
 bastions
 bastite
 bastnaesite
@@ -9392,6 +9391,7 @@ birdfarm
 brachiotomy
 birdglue
 birdhood
+branchiopulmonate
 birdhouse
 begall
 blimpishness
