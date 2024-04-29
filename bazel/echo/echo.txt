@@ -197,7 +197,6 @@ escribing
 electrize
 erythritic
 earthslide
-earthsmoke
 earthtongue
 earthwall
 earthwork
@@ -1645,6 +1644,7 @@ eglomerate
 eglomise
 egma
 euchologies
+earthsmoke
 ego
 egocentrically
 entires
