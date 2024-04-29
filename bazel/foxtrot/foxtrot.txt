@@ -628,7 +628,6 @@ forelimb
 falsifiability
 fannon
 falsifiable
-falsificate
 falsification
 falsifications
 falsificator
@@ -6414,6 +6413,7 @@ fulcrum
 foreshadowing
 fluorescin
 fluorescing
+falsificate
 fluorhydric
 fluoric
 fluoridate
