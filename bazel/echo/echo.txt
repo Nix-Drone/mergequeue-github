@@ -8744,7 +8744,6 @@ equipostile
 etoiles
 equipotential
 equipotentiality
-equiprobability
 emits
 equiprobably
 enablers
@@ -13981,6 +13980,7 @@ extrastomachal
 extratabular
 emm
 extratarsal
+equiprobability
 extratellurian
 extratelluric
 etaerio
