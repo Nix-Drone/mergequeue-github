@@ -8934,7 +8934,6 @@ allothigene
 allothigenetic
 allegorization
 allothigenetically
-allothigenic
 allothigenous
 allothimorph
 allothimorphic
@@ -21442,6 +21441,7 @@ asperulous
 asphalt
 asphalted
 asphaltene
+allothigenic
 asphalter
 asphaltic
 asphaltlike
