@@ -8754,7 +8754,6 @@ equiproportionality
 equips
 ethnolinguist
 equipt
-equiradial
 echo
 equiradical
 equirotal
@@ -9175,6 +9174,7 @@ ephebeum
 erythrodermia
 erythrogen
 erythrogenesis
+equiradial
 erythrogenic
 educe
 erythroglucin

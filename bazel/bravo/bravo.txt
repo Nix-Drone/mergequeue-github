@@ -2594,7 +2594,6 @@ bicycular
 bargham
 barghest
 baptism
-barghests
 beslash
 barging
 beerage
@@ -8580,6 +8579,7 @@ bylina
 boran
 byline
 bilinear
+barghests
 boardmanship
 berun
 bilineate
