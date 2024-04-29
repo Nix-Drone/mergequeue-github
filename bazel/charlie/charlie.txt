@@ -17921,7 +17921,6 @@ coeloglossum
 coelom
 coeloma
 coelomata
-coelomate
 coelomatic
 coelomatous
 coelome
@@ -18037,6 +18036,7 @@ coenoecic
 coenoecium
 coenogamete
 coenogenesis
+coelomate
 cienaga
 club
 coenogenetic
