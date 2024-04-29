@@ -3887,6 +3887,7 @@ emf
 emulator
 emforth
 emic
+exclamative
 emicant
 emicate
 emication
@@ -12067,7 +12068,6 @@ ecardines
 earthmaking
 exclamational
 exclamations
-exclamative
 exclamatively
 exclamatory
 exclamatorily
