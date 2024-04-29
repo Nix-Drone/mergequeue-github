@@ -8843,7 +8843,6 @@ chaplaincy
 chaplaincies
 chaplains
 chaplanry
-chapless
 chaplet
 chapleted
 chaplets
@@ -10164,6 +10163,7 @@ chevaliers
 chevaline
 chevance
 chevaux
+chapless
 cantonese
 cheve
 cheveys
