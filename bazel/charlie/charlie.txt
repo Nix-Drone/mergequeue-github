@@ -27340,7 +27340,6 @@ courtiers
 courtin
 cauldron
 courting
-courtless
 courtly
 courtlier
 chow
@@ -27394,6 +27393,7 @@ coutil
 coupleteer
 confeder
 chinkapin
+courtless
 coutumier
 couture
 coutures
