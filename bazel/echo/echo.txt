@@ -10399,7 +10399,6 @@ ethmomaxillary
 ethmonasal
 effacer
 ethmopalatal
-ethmopalatine
 ethmophysal
 ethmopresphenoidal
 ethmose
@@ -14082,6 +14081,7 @@ elvish
 extrinsical
 elegantly
 extrinsicality
+ethmopalatine
 eslabon
 enzymically
 erythematic
