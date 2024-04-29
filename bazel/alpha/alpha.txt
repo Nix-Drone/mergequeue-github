@@ -19332,7 +19332,6 @@ areas
 areasoner
 areaways
 amphigenous
-areawide
 areca
 arecaceae
 arecaceous
@@ -20767,6 +20766,7 @@ artistry
 artistries
 artists
 artize
+areawide
 artless
 artlessly
 artlessness
