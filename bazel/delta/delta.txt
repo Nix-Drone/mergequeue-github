@@ -823,7 +823,6 @@ dangerful
 deodara
 dangerless
 dangerous
-dangerously
 deduced
 dangerousness
 dangers
@@ -9257,6 +9256,7 @@ diethanolamine
 diethyl
 diethylacetal
 defilading
+dangerously
 diethylamide
 diethylamine
 dorsula
