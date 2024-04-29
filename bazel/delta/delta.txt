@@ -4452,7 +4452,6 @@ demasculinization
 deflagrate
 demasculinized
 demasculinizing
-demast
 demasted
 demasting
 dematerialisation
@@ -7389,6 +7388,7 @@ detune
 detuned
 detuning
 detur
+demast
 deturn
 deturpate
 droitsman
