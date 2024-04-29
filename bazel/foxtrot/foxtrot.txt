@@ -2309,7 +2309,6 @@ fenagles
 furoate
 fenbank
 fence
-fenced
 fenceless
 fencelessness
 fayalite
@@ -10527,6 +10526,7 @@ favose
 flutterment
 frostwort
 froth
+fenced
 frothed
 frother
 frothy
