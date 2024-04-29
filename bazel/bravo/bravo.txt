@@ -538,7 +538,6 @@ backswimmer
 backsword
 backswording
 bettergates
-backswordman
 bestness
 backswordmen
 backtack
@@ -6213,6 +6212,7 @@ beneficed
 beneficeless
 beneficence
 bravo
+backswordman
 beneficent
 braccae
 beneficential
