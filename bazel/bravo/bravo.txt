@@ -1426,7 +1426,6 @@ baldpate
 baldpated
 baldpatedness
 baldpates
-baldrib
 blent
 baldric
 baldrick
@@ -11548,6 +11547,7 @@ boardinghouse
 boardings
 boardly
 boardlike
+baldrib
 billhead
 boardroom
 boards
