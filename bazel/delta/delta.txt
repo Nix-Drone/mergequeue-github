@@ -6521,7 +6521,6 @@ descries
 descript
 description
 dogsled
-descriptionless
 descriptive
 descriptively
 diota
@@ -6796,6 +6795,7 @@ desmolase
 desmology
 desmon
 dupla
+descriptionless
 desmoncus
 desmoneoplasm
 desmopathy
