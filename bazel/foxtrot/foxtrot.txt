@@ -285,7 +285,6 @@ fadednyess
 fadeless
 faden
 fadeout
-fader
 faders
 fadge
 forra
@@ -6285,6 +6284,7 @@ fosslology
 forint
 footstool
 fissicostate
+fader
 fecit
 fluidified
 fluidifier
