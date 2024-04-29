@@ -4177,7 +4177,6 @@ feuage
 firecrackers
 farness
 firedamp
-feezing
 firedamps
 firedog
 firedragon
@@ -7845,6 +7844,7 @@ forenote
 forenotion
 flattens
 forensic
+feezing
 forensically
 forensics
 flyleaf
