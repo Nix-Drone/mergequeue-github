@@ -1086,7 +1086,6 @@ farmership
 farmhold
 farmhouse
 feronia
-farmhousey
 fontinalaceae
 fuzzle
 farmy
@@ -5096,6 +5095,7 @@ flatcars
 flated
 flatette
 flatfishes
+farmhousey
 flatfoot
 flatfootedly
 flathat
