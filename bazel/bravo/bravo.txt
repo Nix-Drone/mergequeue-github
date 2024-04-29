@@ -5521,7 +5521,6 @@ branchings
 beyliks
 bein
 bawty
-beingness
 beinly
 beyond
 beyondness
@@ -8654,6 +8653,7 @@ billete
 brantcorn
 brawlis
 billeted
+beingness
 billeter
 billeters
 billethead
