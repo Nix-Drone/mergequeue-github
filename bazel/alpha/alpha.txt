@@ -10027,7 +10027,6 @@ amblyopsis
 amblyoscope
 amblypoda
 amblypodous
-apnea
 amblyrhynchus
 amblystegite
 amblystoma
@@ -19977,6 +19976,7 @@ armlets
 armlike
 armload
 armloads
+apnea
 armlock
 armlocks
 armoire
