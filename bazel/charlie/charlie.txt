@@ -9515,6 +9515,7 @@ checkbooks
 checker
 checkerbellies
 checkerberry
+conveyorizing
 checkerberries
 checkerbloom
 checkerboard
@@ -23992,7 +23993,6 @@ conveyorize
 conveyorized
 crenology
 conveyorizer
-conveyorizing
 conveyors
 conveys
 creamsacs
