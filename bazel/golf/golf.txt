@@ -3124,7 +3124,6 @@ guestless
 glassed
 geomagnetist
 gravamen
-geomaly
 geomalic
 geomancer
 geomancy
@@ -4611,6 +4610,7 @@ gipsyhood
 gradate
 gablelike
 gypsyhood
+geomaly
 glycogenous
 grammontine
 gipsying
