@@ -4512,7 +4512,6 @@ belchers
 becloaking
 becloaks
 beclog
-beclogged
 beclogging
 beclogs
 beclothe
@@ -13643,6 +13642,7 @@ bourrees
 bourrelet
 bourrides
 briefs
+beclogged
 bourse
 bourtree
 bezonian
