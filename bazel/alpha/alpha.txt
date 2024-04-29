@@ -5592,7 +5592,6 @@ aftercooler
 aftercost
 aftercrop
 aftercure
-afterdays
 afterdate
 afterdated
 amadou
@@ -24129,6 +24128,7 @@ autoinhibited
 admonishment
 autoinoculable
 autoinoculation
+afterdays
 autointellectual
 autointoxicant
 autointoxication
