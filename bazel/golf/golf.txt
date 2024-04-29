@@ -4759,7 +4759,6 @@ gallery
 guildsman
 golliwogg
 gorkhali
-gyrocompasses
 glassblowers
 gyrodactylidae
 gapa
@@ -9581,6 +9580,7 @@ growsome
 geneva
 growth
 gummite
+gyrocompasses
 growthy
 gorevan
 gavot
