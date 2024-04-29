@@ -3691,7 +3691,6 @@ calamodendron
 carbohydrase
 carbohydrate
 carbohydrates
-carbohydraturia
 carbohydrazide
 carbohydride
 carbohydrogen
@@ -10963,6 +10962,7 @@ chironym
 chironomid
 chironomidae
 coinhabit
+carbohydraturia
 chironomus
 chiropatagium
 chiroplasty
