@@ -6950,7 +6950,6 @@ cenospecies
 custodiam
 cenospecific
 cenotaph
-cenotaphy
 cenotaphies
 cenotaphs
 cenotes
@@ -7371,6 +7370,7 @@ cephalopathy
 cephalopharyngeal
 cephalophyma
 cephalophine
+cenotaphy
 cephalophus
 cephaloplegia
 cephaloplegic
