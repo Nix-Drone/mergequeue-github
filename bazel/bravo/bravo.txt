@@ -7283,7 +7283,6 @@ bestream
 blackhander
 bestrew
 bestrewed
-bestrewing
 bestrewment
 bestrewn
 basses
@@ -7577,6 +7576,7 @@ beveller
 bookbinder
 bevenom
 bever
+bestrewing
 beverage
 beverages
 beverse
