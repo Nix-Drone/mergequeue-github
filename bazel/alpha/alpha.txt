@@ -4717,6 +4717,7 @@ aecidium
 aeciospore
 aeciostage
 abr
+annealing
 aecioteliospore
 aecium
 aedeagal
@@ -13486,7 +13487,6 @@ anneal
 annealed
 annealer
 annealers
-annealing
 appoggiature
 anneals
 annect
