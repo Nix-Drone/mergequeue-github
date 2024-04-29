@@ -6961,7 +6961,6 @@ entoptical
 entoptically
 engraff
 entoptics
-entoptoscope
 entoptoscopic
 entorganism
 enjoyableness
@@ -8121,6 +8120,7 @@ epiplanktonic
 epiplasm
 epiplasmic
 epiplastron
+entoptoscope
 epiplectic
 epipleural
 epiplexis
