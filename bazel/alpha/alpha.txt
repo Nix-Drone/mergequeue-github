@@ -2702,7 +2702,6 @@ acquirable
 antares
 acquire
 acquired
-acquirement
 acquirements
 acquirer
 acquirers
@@ -10480,6 +10479,7 @@ aftershine
 amygdalolith
 amygdaloncus
 amygdalopathy
+acquirement
 amygdalothripsis
 amygdalotome
 appaloosas
