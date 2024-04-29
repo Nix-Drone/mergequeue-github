@@ -13473,7 +13473,6 @@ dropling
 durgen
 dissection
 dissections
-disfrequent
 dissectors
 dissects
 desperadoes
@@ -18546,6 +18545,7 @@ duskily
 dusking
 duskingtide
 duskish
+disfrequent
 duskishly
 duskishness
 duskness

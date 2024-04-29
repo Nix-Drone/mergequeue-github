@@ -17820,7 +17820,6 @@ codisjunct
 codist
 codivine
 codlin
-codline
 codling
 codlings
 consuetitude
@@ -27004,6 +27003,7 @@ counterprotection
 counterpull
 counterpunch
 counterpuncture
+codline
 counterpush
 capsulae
 counterquery
