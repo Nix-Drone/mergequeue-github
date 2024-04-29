@@ -4342,7 +4342,6 @@ encoop
 enabling
 enact
 enactable
-enacted
 enacting
 enactment
 enactments
@@ -8431,6 +8430,7 @@ extraorbital
 epitonion
 epitonium
 epitra
+enacted
 epitrachelia
 epitria
 epitrichial
