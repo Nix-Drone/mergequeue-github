@@ -19076,7 +19076,6 @@ countersway
 clashed
 collyridian
 collyrite
-collyrium
 collyriums
 collis
 collision
@@ -29760,6 +29759,7 @@ croose
 crop
 crophead
 cropland
+collyrium
 croplands
 cropless
 cropman
