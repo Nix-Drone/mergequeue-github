@@ -1170,7 +1170,6 @@ edition
 editions
 electronvolt
 editor
-editorial
 editorialization
 earlobe
 editorialized
@@ -6285,6 +6284,7 @@ enrobe
 equanimity
 enrobed
 enrober
+editorial
 enrockment
 eli
 enrol
