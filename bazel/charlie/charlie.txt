@@ -4749,7 +4749,6 @@ carry
 carriable
 carryable
 carriage
-carriageable
 carriageful
 carriages
 carriagesmith
@@ -30024,6 +30023,7 @@ coarrange
 crousely
 croustade
 curriculum
+carriageable
 crout
 crouth
 croutons
