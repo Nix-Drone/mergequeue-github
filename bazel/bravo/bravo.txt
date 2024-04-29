@@ -12727,6 +12727,7 @@ bookwards
 biddy
 bookworm
 bookworms
+buzzword
 bucketeer
 bookwright
 bool
@@ -18393,7 +18394,6 @@ buzzle
 brewster
 beardfish
 buzzsaw
-buzzword
 buzzwords
 bespring
 bedrift
