@@ -6843,7 +6843,6 @@ celsia
 celsitude
 celsius
 celt
-comnenian
 celtiberi
 celtiberian
 celtic
@@ -8003,6 +8002,7 @@ cezannesque
 cf
 cfd
 cfi
+comnenian
 cfm
 cfs
 carcinoma
