@@ -5358,7 +5358,6 @@ affixes
 affixial
 affixion
 affixment
-ague
 affixture
 afflate
 afflated
@@ -11169,6 +11168,7 @@ arthragra
 amphipoda
 amphipodal
 amphipodan
+ague
 avidious
 amphipodiform
 alterants

@@ -4123,7 +4123,6 @@ fyrd
 fireable
 firearm
 firearms
-fireback
 fumeuses
 favourably
 fireballs
@@ -10576,6 +10575,7 @@ firewarden
 firemen
 foresummer
 frowl
+fireback
 frowned
 fierily
 frowners
