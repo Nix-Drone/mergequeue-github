@@ -4663,7 +4663,6 @@ bedders
 bedding
 beddingroll
 beddings
-bede
 bro
 bogans
 bedeaf
@@ -9049,6 +9048,7 @@ biolith
 blackfoot
 biologic
 biologicohumanistic
+bede
 biologics
 biologies
 biologism
