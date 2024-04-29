@@ -3378,7 +3378,6 @@ fieldleft
 fieldman
 fibrillae
 financist
-fascio
 fieldmice
 fieldmouse
 fieldpieces
@@ -7478,6 +7477,7 @@ fordid
 fordless
 fleyedness
 fourhanded
+fascio
 fordo
 forbearable
 fordoes
