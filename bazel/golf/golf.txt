@@ -1223,7 +1223,6 @@ geologian
 griphosaurus
 gavotte
 ganoidian
-ganoids
 gasterophilus
 ganoine
 ganomalite
@@ -9229,6 +9228,7 @@ grizzliest
 grizzling
 gro
 groaned
+ganoids
 groaner
 gorgonia
 groanful
