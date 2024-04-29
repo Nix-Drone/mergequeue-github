@@ -8895,7 +8895,6 @@ clobberer
 characine
 characinid
 characinidae
-characinoid
 characins
 charact
 cutouts
@@ -28893,6 +28892,7 @@ cheneau
 cribo
 cribose
 cribrate
+characinoid
 cribrately
 cribration
 cribriform
