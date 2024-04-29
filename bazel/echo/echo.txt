@@ -5335,7 +5335,6 @@ endosteoma
 endosteomas
 endosteomata
 endosteum
-endostylar
 exploitative
 endostyle
 endostylic
@@ -13420,6 +13419,7 @@ expurgations
 expurge
 exquire
 exquisite
+endostylar
 ecclesiasticalism
 exquisitism
 exquisitive
