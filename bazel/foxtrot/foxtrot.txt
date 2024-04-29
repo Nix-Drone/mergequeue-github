@@ -5112,6 +5112,7 @@ flatlets
 floorwalker
 flavoprotein
 fatigued
+feedable
 fissionability
 flatly
 flatling
@@ -8476,7 +8477,6 @@ florissant
 formidolous
 formylal
 formylate
-feedable
 formylated
 fiuman
 formylating
