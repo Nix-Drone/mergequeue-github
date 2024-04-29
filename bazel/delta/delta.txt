@@ -2222,6 +2222,7 @@ dustbox
 decelerated
 decelerates
 decelerations
+deprecators
 decelerator
 decelerators
 deceleron
@@ -5913,7 +5914,6 @@ deprecator
 deprecatory
 doppia
 deprecatorily
-deprecators
 depreciable
 dextrorsal
 dianoialogy
