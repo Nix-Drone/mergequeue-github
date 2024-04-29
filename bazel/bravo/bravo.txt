@@ -4853,6 +4853,7 @@ bedspring
 bedsprings
 bolivars
 bedstand
+bookseller
 bedstead
 brazenface
 baikerinite
@@ -12694,7 +12695,6 @@ barrulety
 bookrest
 bookrests
 bookroom
-bookseller
 berendo
 becloaked
 booksellerish
