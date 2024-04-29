@@ -1082,6 +1082,7 @@ farmeries
 farmerish
 farmerly
 farmerlike
+fossilage
 farmership
 farmhold
 farmhouse
@@ -8867,7 +8868,6 @@ fossicks
 fossified
 fossiform
 fossil
-fossilage
 featly
 franking
 fossildom
