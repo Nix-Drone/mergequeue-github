@@ -11587,7 +11587,6 @@ boatbuilding
 boated
 boatel
 boatels
-boatheader
 boathook
 boathouse
 boathouses
@@ -17706,6 +17705,7 @@ burinist
 burys
 banshees
 burk
+boatheader
 burka
 burke
 burked
