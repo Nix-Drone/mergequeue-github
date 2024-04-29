@@ -3435,6 +3435,7 @@ deflex
 deflexed
 deflexibility
 deflexible
+darnix
 deflexing
 deflexion
 deflexionize
@@ -13379,7 +13380,6 @@ disreputableness
 disreputably
 disreputation
 dhuti
-darnix
 disreputed
 disrespect
 disrespectability
