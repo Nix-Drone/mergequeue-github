@@ -5356,7 +5356,6 @@ begrave
 birne
 begrett
 begrim
-begrimed
 begrimer
 begrimes
 bombsight
@@ -16912,6 +16911,7 @@ buglet
 bugleweed
 buglewort
 bugling
+begrimed
 bugloss
 buglosses
 bugong
