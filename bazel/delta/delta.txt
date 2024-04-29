@@ -5992,7 +5992,6 @@ deprivate
 deprivation
 deprive
 deprived
-deprivement
 depriver
 deprivers
 dixit
@@ -12322,6 +12321,7 @@ dynamogenic
 duckmole
 disheriting
 disheritment
+deprivement
 deforms
 disheritor
 disherits
