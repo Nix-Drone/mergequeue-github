@@ -4203,6 +4203,7 @@ carex
 cottages
 carfare
 carfares
+communicatory
 carfax
 carfloat
 codebreak
@@ -20295,7 +20296,6 @@ communications
 communicative
 communicatively
 communicativeness
-communicatory
 communicators
 communion
 communionable
