@@ -501,7 +501,6 @@ abjudication
 abjudicator
 abjugate
 abjunct
-abjunction
 abjunctive
 abjuration
 abjurations
@@ -21761,6 +21760,7 @@ assiento
 assiette
 assify
 apprehensiveness
+abjunction
 assign
 assignability
 assignable
