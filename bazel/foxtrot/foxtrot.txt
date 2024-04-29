@@ -4363,7 +4363,6 @@ faffle
 fisheress
 fragmentate
 fisherfolk
-fishery
 florentium
 fisherman
 flammably
@@ -6719,6 +6718,7 @@ fogbound
 fogbow
 flyblow
 fogdogs
+fishery
 fairways
 fogdom
 figworts
