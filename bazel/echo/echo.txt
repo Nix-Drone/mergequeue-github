@@ -4921,7 +4921,6 @@ end
 endable
 endamage
 endamageable
-endamagement
 endamages
 endamaging
 endameba
@@ -8879,6 +8878,7 @@ erbia
 ethoxy
 erbium
 encroachment
+endamagement
 erd
 eme
 estivate
