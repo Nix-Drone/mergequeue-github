@@ -4992,7 +4992,6 @@ beepers
 bunt
 boltless
 beeping
-beeps
 beer
 beerbachite
 beerbelly
@@ -12662,6 +12661,7 @@ broomy
 booklift
 booklike
 bookling
+beeps
 booklists
 booklore
 bhavan
