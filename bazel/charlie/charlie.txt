@@ -2986,6 +2986,7 @@ capacitances
 capacitate
 capacitated
 cooperators
+circs
 capacitations
 capacitative
 capacitativly
@@ -24738,7 +24739,6 @@ certify
 copses
 copsewood
 copsewooded
-circs
 copsy
 copsing
 copsole
