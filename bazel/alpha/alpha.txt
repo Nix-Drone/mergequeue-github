@@ -3496,6 +3496,7 @@ addicted
 antiknocks
 addictedness
 activable
+allelotropic
 addicting
 addictions
 addictive
@@ -8617,7 +8618,6 @@ allelomorphic
 allelomorphism
 allelopathy
 allelotropy
-allelotropic
 admeasured
 allelotropism
 alleluia
