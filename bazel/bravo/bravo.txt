@@ -1845,7 +1845,6 @@ boss
 bizardite
 bothroi
 banago
-blancmanger
 banagos
 buriable
 bound
@@ -11213,6 +11212,7 @@ blouselike
 basks
 blouses
 blousy
+blancmanger
 blousier
 blousily
 blousing
