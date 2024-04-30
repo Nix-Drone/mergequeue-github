@@ -863,6 +863,7 @@ fellon
 fanos
 fanout
 fantailed
+forbid
 fantails
 fantaisie
 fantasy
@@ -7371,7 +7372,6 @@ forewarnings
 faunlike
 foreparent
 foreplot
-forbid
 forebodingly
 forbidals
 forbiddal
