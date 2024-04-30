@@ -2342,7 +2342,6 @@ electrocatalytic
 explorational
 electrocautery
 evasion
-electroceramic
 electrochemical
 electrochemically
 electrochemistry
@@ -10624,6 +10623,7 @@ eucarida
 eucaryote
 eucatropine
 eucgia
+electroceramic
 eucharis
 enheritage
 eucharises
