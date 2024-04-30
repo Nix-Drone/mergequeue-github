@@ -1791,7 +1791,6 @@ globelike
 gastroenteritis
 gluts
 gastroenteroanastomosis
-gastroenterocolitis
 gastroenterocolostomy
 gastroenterology
 gelatination
@@ -10677,6 +10676,7 @@ gushiness
 gushing
 gusla
 gusle
+gastroenterocolitis
 gearwheel
 guslee
 gibed
