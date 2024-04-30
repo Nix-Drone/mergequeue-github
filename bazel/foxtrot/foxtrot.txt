@@ -2071,7 +2071,6 @@ forestlike
 feinting
 feis
 flatlander
-fogbows
 faultier
 fireflower
 feisty
@@ -8461,6 +8460,7 @@ formicating
 formicicide
 fadaise
 formicid
+fogbows
 formicidae
 formicide
 formicine
