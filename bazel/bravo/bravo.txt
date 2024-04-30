@@ -3639,7 +3639,6 @@ bathythermograph
 bathkol
 barbar
 bathman
-bathmat
 bathmats
 bereaven
 bathmism
@@ -7471,6 +7470,7 @@ blini
 bottles
 baseboards
 bhajan
+bathmat
 boiserie
 betorn
 bistriazole

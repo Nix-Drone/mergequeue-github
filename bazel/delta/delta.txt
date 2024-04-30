@@ -4077,7 +4077,6 @@ deliberandum
 deliberant
 deliberate
 deliberated
-deliberately
 duologue
 deliberateness
 deliberating
@@ -16866,6 +16865,7 @@ drawstop
 dispersible
 dribbet
 dropforging
+deliberately
 dinoceratid
 drawstrings
 drawtongs
