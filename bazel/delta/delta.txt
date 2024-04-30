@@ -6445,7 +6445,6 @@ desaminase
 desanding
 desands
 desc
-descale
 descaling
 descamisado
 descamisados
@@ -14345,6 +14344,7 @@ dungeoner
 divertise
 divertisement
 divertissement
+descale
 divertissements
 divertive
 didrachmal
