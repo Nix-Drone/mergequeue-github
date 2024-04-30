@@ -76,7 +76,6 @@ diarchial
 dacryocystoptosis
 dacryocystosyringotomy
 dacryocystotome
-dacryocystotomy
 dacryohemorrhea
 dacryolithiasis
 dacryoma
@@ -3199,6 +3198,7 @@ deruralize
 dowless
 defecate
 defecated
+dacryocystotomy
 defecates
 dia
 defecation
