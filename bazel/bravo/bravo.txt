@@ -5919,7 +5919,6 @@ beloam
 blastoidea
 belock
 beloeilite
-beloid
 bredstitch
 belomancy
 belone
@@ -15384,6 +15383,7 @@ bimonthly
 brigs
 brigsail
 bismutoplagionite
+beloid
 brigue
 brigued
 basifiers
