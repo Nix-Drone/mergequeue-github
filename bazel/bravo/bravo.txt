@@ -11545,7 +11545,6 @@ boarder
 boarders
 boardy
 boardinghouse
-boardings
 boardly
 boardlike
 billhead
@@ -12261,6 +12260,7 @@ bombardman
 boughless
 biopsies
 bombardmen
+boardings
 bombardment
 bombardments
 bombardo
