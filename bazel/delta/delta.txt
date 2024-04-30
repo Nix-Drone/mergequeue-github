@@ -1987,7 +1987,6 @@ decahedral
 decahedron
 damageableness
 decahedrons
-decahydrate
 decahydronaphthalene
 decay
 decayed
@@ -16724,6 +16723,7 @@ dramaturge
 dramaturgic
 dramaturgically
 diffusibility
+decahydrate
 dramaturgist
 drammach
 devisceration
