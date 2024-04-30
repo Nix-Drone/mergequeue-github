@@ -2396,7 +2396,6 @@ gekkonoid
 greedy
 groat
 gel
-gelable
 gelidiaceae
 guideship
 gelandelaufer
@@ -4871,6 +4870,7 @@ galactic
 galacaceae
 gitanos
 gallotannin
+gelable
 gite
 gitim
 gitksan
