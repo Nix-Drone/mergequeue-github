@@ -11563,7 +11563,6 @@ boars
 boarship
 boarskin
 boarspear
-boart
 boarts
 boarwood
 boas
@@ -18074,6 +18073,7 @@ buss
 benda
 bussed
 busser
+boart
 busses
 bussy
 bussing
