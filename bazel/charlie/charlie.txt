@@ -2028,7 +2028,6 @@ campestrian
 cordelier
 campfight
 campfires
-campground
 canful
 campgrounds
 consarcinate
@@ -31277,6 +31276,7 @@ curculionid
 curculionidae
 curculionist
 curculios
+campground
 curcumas
 curcumin
 conscionably
