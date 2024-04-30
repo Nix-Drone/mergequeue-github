@@ -1218,6 +1218,7 @@ eds
 educ
 educability
 educable
+epochal
 educables
 educand
 educatability
@@ -6469,7 +6470,6 @@ encephalometer
 encheck
 ensorcell
 ensorcellment
-epochal
 ensorcels
 ensorcerize
 ensorrow
