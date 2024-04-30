@@ -2681,7 +2681,6 @@ enschedule
 enrapturer
 entrainer
 endomycetaceae
-electrothermometer
 electrothermostatic
 electrothermotic
 electrotype
@@ -4195,6 +4194,7 @@ ensured
 energetics
 epopt
 emplore
+electrothermometer
 ereptase
 emplume
 eniac
