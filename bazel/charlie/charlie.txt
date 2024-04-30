@@ -3618,7 +3618,6 @@ chemics
 caravaner
 caravaning
 caravanist
-caravanned
 caravanner
 caravans
 caravansary
@@ -30148,6 +30147,7 @@ crucilly
 crucis
 cruck
 crud
+caravanned
 carnivalesque
 crudded
 crudding
