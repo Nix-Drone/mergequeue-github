@@ -13651,7 +13651,6 @@ cedarn
 cymbaler
 cymbalers
 cymbalist
-cymbalists
 cymballed
 cymballike
 cob
@@ -27794,6 +27793,7 @@ crabcatcher
 crabeater
 crabeating
 craber
+cymbalists
 crabfish
 crabgrass
 crabhole
