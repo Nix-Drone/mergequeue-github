@@ -5254,7 +5254,6 @@ begettal
 begetter
 begetters
 broth
-beggardom
 beggared
 beggarer
 beggaress
@@ -6557,6 +6556,7 @@ bepierce
 bepile
 beacher
 butcherliness
+beggardom
 bepill
 bastillion
 bepimple
