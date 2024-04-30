@@ -849,6 +849,7 @@ balefulness
 baffleplate
 bafflers
 baffles
+barid
 breakbones
 baffling
 bafflingly
@@ -2615,7 +2616,6 @@ barycenter
 bemused
 barycentric
 burmite
-barid
 barie
 burgus
 brandle
