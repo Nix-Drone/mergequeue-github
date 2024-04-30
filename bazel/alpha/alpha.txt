@@ -6937,7 +6937,6 @@ airplanist
 acieral
 airplot
 airport
-airports
 airpost
 airposts
 airproof
@@ -24891,6 +24890,7 @@ avowter
 avshar
 avulse
 akrteria
+airports
 avulsed
 antipodagron
 aedility
