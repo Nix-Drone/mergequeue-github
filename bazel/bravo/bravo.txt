@@ -432,6 +432,7 @@ backplate
 backpointer
 backpointers
 backrest
+biauriculate
 backrope
 brimstony
 backropes
@@ -7863,7 +7864,6 @@ biasnesses
 biassedly
 biatomic
 biauricular
-biauriculate
 biaxal
 biaxiality
 biaxillary
