@@ -4343,7 +4343,6 @@ adreamt
 adrectal
 adenalgia
 aregenerative
-adrenal
 adrenalcortical
 adrenalectomy
 adrenalectomies
@@ -25110,6 +25109,7 @@ adjustage
 axilla
 axillae
 aristo
+adrenal
 axillant
 axillar
 axillaries
