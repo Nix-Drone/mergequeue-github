@@ -11366,7 +11366,6 @@ afterwitted
 amsel
 amsterdam
 amt
-amtman
 amtrac
 amtrack
 amtracks
@@ -25005,6 +25004,7 @@ antimatter
 awful
 awfuller
 awfullest
+amtman
 awfully
 awfulness
 awhape
