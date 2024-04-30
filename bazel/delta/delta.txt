@@ -7151,6 +7151,7 @@ detar
 detassel
 detat
 detax
+domiciliation
 detd
 detect
 detectability
@@ -15340,7 +15341,6 @@ domiciliate
 domiciliated
 domiciliating
 dialytically
-domiciliation
 domiciling
 domify
 dovetail
