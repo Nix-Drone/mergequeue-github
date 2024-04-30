@@ -11609,7 +11609,6 @@ anthropomantic
 ade
 anaesthetics
 anaesthetist
-anaesthetization
 anaesthetize
 anaesthetized
 anaesthetizer
@@ -20998,6 +20997,7 @@ asclepiadaceae
 asclepiadaceous
 anywhence
 asclepiadae
+anaesthetization
 asclepiadean
 asclepiadeous
 asclepiadic
