@@ -1803,7 +1803,6 @@ gastroepiploic
 guebre
 gastroesophageal
 gastrogastrotomy
-glucuronide
 gastrogenital
 gastrograph
 griffon
@@ -2440,6 +2439,7 @@ gelatinity
 gelatinizability
 gelatinizable
 gelatinization
+glucuronide
 gruppetto
 gelatinized
 gelatinizer
