@@ -877,6 +877,7 @@ abstractedness
 abrus
 auksinu
 abstruse
+arctangent
 abs
 absalom
 absampere
@@ -19241,7 +19242,6 @@ arcsines
 arctalia
 arctalian
 arctan
-arctangent
 arctation
 arctian
 arctic
