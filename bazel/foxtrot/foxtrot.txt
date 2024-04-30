@@ -8031,7 +8031,6 @@ forestaff
 forestaffs
 forestage
 forestay
-forestair
 fireplough
 forestays
 forehinting
@@ -10309,6 +10308,7 @@ froggies
 froggiest
 fleecy
 fridge
+forestair
 forecloses
 frogginess
 frogging
