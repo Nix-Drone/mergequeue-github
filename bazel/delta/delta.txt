@@ -2519,7 +2519,6 @@ declasses
 declassicize
 declassify
 declassification
-declassifications
 delocalized
 dissimule
 declassifies
@@ -10992,6 +10991,7 @@ disaltern
 disambiguate
 disambiguating
 deoxyribonucleic
+declassifications
 disambiguations
 disamis
 dysanalyte
