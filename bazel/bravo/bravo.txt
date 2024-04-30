@@ -12733,7 +12733,6 @@ bool
 bowline
 boolean
 booleans
-booley
 booleys
 booly
 boolya
@@ -17826,6 +17825,7 @@ burps
 burr
 burratine
 burrawang
+booley
 burrbark
 burree
 burrel
