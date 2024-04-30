@@ -5358,7 +5358,6 @@ affixes
 affixial
 affixion
 affixment
-ague
 affixture
 afflate
 afflated
@@ -17095,6 +17094,7 @@ aplodiorite
 aplodontia
 aplodontiidae
 aplomb
+ague
 aplome
 aperture
 aploperistomatous
