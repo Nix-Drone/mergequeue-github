@@ -15174,7 +15174,6 @@ cumbent
 clabularia
 clabularium
 clach
-clachan
 clachans
 clachs
 clack
@@ -29472,6 +29471,7 @@ crystallograph
 crystallographer
 crystallographers
 crystallography
+clachan
 crystallographic
 crystalloid
 crystalloidal
