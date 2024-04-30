@@ -9798,6 +9798,7 @@ freight
 freightage
 fringe
 fourchette
+fascias
 freightyard
 flagstaves
 fenestral
@@ -11091,7 +11092,6 @@ folderol
 fumous
 fumuli
 fungated
-fascias
 fumulus
 fun
 filles
