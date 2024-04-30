@@ -4476,7 +4476,6 @@ carnies
 carniferrin
 carnifex
 carnifexes
-carnify
 carnification
 carnificial
 carnifies
@@ -17263,6 +17262,7 @@ coasserter
 coassessor
 caravelle
 coassignee
+carnify
 coassist
 coassistant
 culpas
