@@ -5023,6 +5023,7 @@ demulsion
 distinguish
 demultiplex
 demultiplexed
+diaeresis
 demultiplexer
 demultiplexers
 disroot
@@ -8183,7 +8184,6 @@ dioti
 diadumenus
 diaene
 diaereses
-diaeresis
 diaeretic
 deceivableness
 diaetetae
