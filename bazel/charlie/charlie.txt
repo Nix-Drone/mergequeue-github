@@ -8362,7 +8362,6 @@ cephalohumeralis
 chalicotherium
 courtyard
 chalina
-complexity
 corallet
 chalinidae
 chalinitis
@@ -9196,6 +9195,7 @@ chasable
 chase
 chaseable
 chased
+complexity
 corbeilles
 chasers
 chases
