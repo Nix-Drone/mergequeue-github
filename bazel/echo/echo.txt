@@ -4785,7 +4785,6 @@ etymologize
 exegetically
 experimentalists
 enclosed
-elem
 enclosers
 enclosing
 efik
@@ -6604,6 +6603,7 @@ enterate
 enterclose
 enterectomy
 enterectomies
+elem
 exuviates
 enterer
 ellipses
