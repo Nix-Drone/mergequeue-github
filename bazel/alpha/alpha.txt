@@ -6835,6 +6835,7 @@ aircraft
 aircraftman
 axometer
 aircraftmen
+auntre
 aircraftsman
 aircraftsmen
 aircraftswoman
@@ -23504,7 +23505,6 @@ auntly
 auntlier
 auntliest
 auntlike
-auntre
 auntrous
 aunts
 auntsary
