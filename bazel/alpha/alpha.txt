@@ -7752,7 +7752,6 @@ antiphrastical
 aldohexose
 aldoketene
 aldol
-aldolase
 aldolases
 aldolization
 anconei
@@ -22750,6 +22749,7 @@ atomechanics
 atomerg
 atomy
 atomic
+aldolase
 atomical
 atomically
 atomician
