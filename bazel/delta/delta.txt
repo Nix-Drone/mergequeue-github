@@ -2293,7 +2293,6 @@ decentred
 decentres
 decentring
 decephalization
-decephalize
 deceptibility
 deceptible
 deceptional
@@ -18540,6 +18539,7 @@ dusked
 dusken
 dusky
 delubrum
+decephalize
 duskier
 duskiest
 duskily
