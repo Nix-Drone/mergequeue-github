@@ -9284,7 +9284,6 @@ fragile
 fishpot
 fragileness
 fragility
-faceplate
 fragilities
 fragment
 floorhead
@@ -10571,6 +10570,7 @@ frow
 frowardness
 frower
 felstones
+faceplate
 frowy
 firewarden
 firemen
