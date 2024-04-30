@@ -5637,6 +5637,7 @@ catcalls
 catch
 catchable
 catchall
+cossid
 catchcry
 colocates
 catched
@@ -26179,7 +26180,6 @@ cleanliness
 cossetting
 cosshen
 cossic
-cossid
 cossidae
 cossie
 cossyrite
