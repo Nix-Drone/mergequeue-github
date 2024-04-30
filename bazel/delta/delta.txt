@@ -3512,7 +3512,6 @@ deforester
 dentiform
 deforesting
 deforests
-deform
 diasters
 deformability
 disknow
@@ -4630,6 +4629,7 @@ demilitarisation
 demilitarise
 demilitarised
 derencephalocele
+deform
 demilitarising
 demilitarization
 demilitarized
