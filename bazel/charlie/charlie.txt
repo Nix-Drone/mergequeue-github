@@ -15980,7 +15980,6 @@ clergess
 clergy
 clergyable
 clergylike
-cyclos
 clergion
 clergywoman
 clerical
@@ -21100,6 +21099,7 @@ concavities
 concavo
 conceal
 concealable
+cyclos
 culicide
 concealedly
 concealedness
