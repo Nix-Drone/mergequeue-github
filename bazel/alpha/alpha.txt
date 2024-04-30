@@ -2925,7 +2925,6 @@ acromial
 acromicria
 acromimia
 allotype
-acromioclavicular
 acromiocoracoid
 acromyodi
 acromyodic
@@ -20383,6 +20382,7 @@ agleam
 arsenobenzene
 austin
 arsenobenzol
+acromioclavicular
 arsenobismite
 arsenofuran
 arsenohemol
