@@ -15868,6 +15868,7 @@ clearstarcher
 clearstory
 clearstoried
 clearstories
+compensability
 clearwater
 clearweed
 cleat
@@ -20543,7 +20544,6 @@ compendium
 compendiums
 compends
 compenetration
-compensability
 cutlass
 compensable
 compensates
