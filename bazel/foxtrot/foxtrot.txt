@@ -2222,7 +2222,6 @@ felspath
 felspathose
 felstone
 framers
-farmhouses
 felt
 felted
 felter
@@ -8163,6 +8162,7 @@ forewent
 forewing
 forewings
 forewinning
+farmhouses
 flabbiest
 forewit
 forewoman
