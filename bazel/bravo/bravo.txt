@@ -1675,6 +1675,7 @@ buffets
 ballottine
 ballottines
 ballow
+breeders
 blear
 ballplayer
 ballplayers
@@ -14964,7 +14965,6 @@ breedable
 bootee
 breedbate
 breeder
-breeders
 breedy
 breediness
 breeding
