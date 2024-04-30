@@ -5079,7 +5079,6 @@ fusobteria
 fanterie
 flask
 ferricyanhydric
-flasker
 foretooth
 faecal
 flasklet
@@ -8983,6 +8982,7 @@ foundering
 foundership
 foundling
 fabella
+flasker
 fetial
 foundlings
 foundress
