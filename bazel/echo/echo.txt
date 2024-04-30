@@ -6437,7 +6437,6 @@ exarchy
 enslavedness
 enslavements
 enslaver
-enslavers
 enslaves
 espave
 enslaving
@@ -12821,6 +12820,7 @@ encephalomere
 exosporal
 exospore
 exosporium
+enslavers
 exossate
 exosseous
 embrew
