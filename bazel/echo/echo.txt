@@ -2278,7 +2278,6 @@ electragy
 electragist
 electrepeter
 electress
-electret
 electrets
 electrical
 eyrer
@@ -4745,6 +4744,7 @@ enciphers
 encircle
 encircled
 effronted
+electret
 encircles
 encyrtid
 existimation
