@@ -8447,7 +8447,6 @@ diammine
 diamminobromide
 diamminonitrate
 diammonium
-downgrades
 diamond
 diamondback
 derailer
@@ -15426,6 +15425,7 @@ doms
 domus
 dona
 donable
+downgrades
 donaciform
 donack
 dilatometric
