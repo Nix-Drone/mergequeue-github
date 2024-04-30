@@ -54,7 +54,6 @@ faceable
 facebar
 facebow
 facecloth
-firestone
 faced
 foreladies
 faceharden
@@ -772,6 +771,7 @@ forgoing
 fancify
 fanciful
 fancifulness
+firestone
 foredoomed
 fancying
 fanciless
