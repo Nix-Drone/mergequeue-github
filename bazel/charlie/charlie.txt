@@ -8006,7 +8006,6 @@ cfi
 cfm
 cfs
 carcinoma
-cgm
 cgs
 ch
 cha
@@ -26153,6 +26152,7 @@ cosonant
 cosovereignty
 cospecies
 cospecific
+cgm
 cosphered
 cosplendor
 caeciliae
