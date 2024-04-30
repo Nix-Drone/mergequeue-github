@@ -3057,6 +3057,7 @@ ella
 equipoises
 electrothermostat
 ellagic
+exposable
 ellasar
 elvan
 ellebore
@@ -13285,7 +13286,6 @@ exports
 eternals
 eatableness
 easier
-exposable
 emotionalising
 exposals
 exposed
