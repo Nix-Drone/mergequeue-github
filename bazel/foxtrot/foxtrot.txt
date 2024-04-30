@@ -5592,7 +5592,6 @@ fligged
 fligger
 feodum
 flight
-flighted
 flighter
 flightful
 flighty
@@ -5666,6 +5665,7 @@ flintless
 flintlike
 flintlock
 fellatios
+flighted
 flintwood
 flintworker
 flyoff
