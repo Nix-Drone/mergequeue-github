@@ -6875,6 +6875,7 @@ airflow
 airflows
 airfoil
 airfoils
+arthroclisis
 airframe
 airglow
 airglows
@@ -14740,7 +14741,6 @@ antiaquatic
 antiar
 antiarcha
 antiarchi
-arthroclisis
 antiarin
 antilogarithm
 antiarins
