@@ -2209,7 +2209,6 @@ felons
 felonsetter
 fluorescence
 felonweed
-felonwort
 fractionizing
 flancard
 fels
@@ -2645,6 +2644,7 @@ feist
 ferrotitanium
 flamfew
 ferrovanadium
+felonwort
 frolics
 ferrozirconium
 ferruginate
