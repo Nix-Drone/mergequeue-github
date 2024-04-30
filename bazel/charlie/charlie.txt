@@ -3354,7 +3354,6 @@ capsella
 capsheaf
 circumjacent
 capshore
-capsian
 capsicin
 capsicins
 capsicum
@@ -14955,6 +14954,7 @@ cytopahgous
 cytoparaplastin
 cytopathic
 cosmine
+capsian
 cytopathogenic
 cytopathogenicity
 cytopathologic
