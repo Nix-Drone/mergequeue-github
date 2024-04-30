@@ -1090,7 +1090,6 @@ edgeman
 edger
 edgers
 edges
-edgeshot
 evaluate
 edgeway
 edgeways
@@ -13773,6 +13772,7 @@ extendible
 extracerebral
 extrachromosomal
 extracystic
+edgeshot
 extracivic
 extracivically
 extraclassroom
