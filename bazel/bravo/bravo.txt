@@ -763,6 +763,7 @@ badgeman
 barrels
 boraciferous
 badgemen
+bespatterment
 badger
 badgerbrush
 badgered
@@ -7129,7 +7130,6 @@ bespangle
 bespangling
 bespate
 bespattered
-bespatterment
 bespatters
 bespawl
 bespeak
