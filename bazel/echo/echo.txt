@@ -10601,6 +10601,7 @@ eu
 euahlayi
 euascomycetes
 euaster
+enphytotic
 eubacteria
 eubacteriales
 eubacterium
@@ -12279,7 +12280,6 @@ executant
 engines
 execute
 executed
-enphytotic
 encastage
 exhibitorial
 executes
