@@ -2312,6 +2312,7 @@ achromatically
 achromatisation
 achromatism
 achromatizable
+anelectric
 achromatization
 achromatize
 amalgam
@@ -12462,7 +12463,6 @@ antireducing
 adaptation
 anelasticity
 anele
-anelectric
 anelectrode
 anelectrotonus
 aneled
