@@ -4027,7 +4027,6 @@ beachheads
 bnf
 beachy
 beachier
-beaching
 beachless
 beachmaster
 beachside
@@ -7033,6 +7032,7 @@ beslabber
 beslap
 beslave
 beslaved
+beaching
 besleeve
 beslime
 banqueteer
