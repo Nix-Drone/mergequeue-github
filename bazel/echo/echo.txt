@@ -2260,7 +2260,6 @@ electioneer
 elaphurine
 electioneerer
 elections
-elective
 ephemerons
 electives
 electivism
@@ -6409,6 +6408,7 @@ ensigned
 entranceway
 ensignhood
 ensilaged
+elective
 ensilages
 episcopal
 ensilate
