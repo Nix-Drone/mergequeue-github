@@ -6924,7 +6924,6 @@ bassnesses
 bescorching
 bescorn
 bescoundrel
-bescour
 bari
 barhal
 bescourge
@@ -10953,6 +10952,7 @@ burgess
 blizzardous
 blk
 blksize
+bescour
 bunts
 blo
 bloat
