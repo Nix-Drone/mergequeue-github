@@ -2669,7 +2669,6 @@ fences
 ferrum
 freshes
 ferruminating
-ferrumination
 furbearer
 fraters
 ferrums
@@ -5528,6 +5527,7 @@ flexured
 flexures
 flyable
 fascicle
+ferrumination
 flyback
 flyball
 flybane
