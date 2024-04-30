@@ -9838,7 +9838,6 @@ chemicocautery
 chemicodynamic
 chemicoluminescence
 chemicoluminescent
-chemicomechanical
 chemicomineralogical
 chemicopharmaceutical
 chemicophysical
@@ -30818,6 +30817,7 @@ culpae
 culpatory
 carcan
 cervicobasilar
+chemicomechanical
 courbash
 culpeo
 culpose
