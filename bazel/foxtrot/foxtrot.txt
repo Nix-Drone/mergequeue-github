@@ -5537,7 +5537,6 @@ flybelts
 flyby
 flybys
 fluctisonous
-flyblowing
 flyblows
 flyboat
 flyboats
@@ -10832,6 +10831,7 @@ friends
 furrow
 flowcharting
 foreign
+flyblowing
 flank
 fuchsite
 fuchsone
