@@ -3495,7 +3495,6 @@ addict
 addicted
 antiknocks
 addictedness
-activable
 addicting
 addictions
 addictive
@@ -23959,6 +23958,7 @@ autocolony
 autocombustible
 autocombustion
 autoconduction
+activable
 ampullariidae
 aporrhaidae
 autoconvection
