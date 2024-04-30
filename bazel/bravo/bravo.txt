@@ -4637,7 +4637,6 @@ bundeli
 borborus
 bioenergetics
 bedaubing
-bedaubs
 bedlike
 bedawee
 bedaze
@@ -7157,6 +7156,7 @@ bespew
 basseting
 bespy
 bugology
+bedaubs
 bespice
 breadthwise
 butterlike
