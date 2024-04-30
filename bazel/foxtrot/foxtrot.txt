@@ -288,6 +288,7 @@ fadeout
 fader
 faders
 fadge
+fletton
 forra
 fellowless
 fadged
@@ -5479,7 +5480,6 @@ fletcherize
 fletchers
 fletches
 fletchings
-fletton
 fores
 feynesses
 fleur
