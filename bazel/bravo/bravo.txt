@@ -8254,7 +8254,6 @@ byepath
 bier
 broid
 bierbalk
-blest
 byerite
 bierkeller
 byerlite
@@ -12744,6 +12743,7 @@ boomah
 boo
 baritonal
 boomboat
+blest
 boomboxes
 boomdas
 boomed
