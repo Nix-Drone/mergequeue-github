@@ -2292,7 +2292,6 @@ deformism
 decentred
 decentres
 decentring
-decephalization
 decephalize
 deceptibility
 deceptible
@@ -8563,6 +8562,7 @@ diaphragmatic
 diaphragmatically
 discontinual
 diaphragmed
+decephalization
 diaphtherin
 diapyesis
 diapirs
