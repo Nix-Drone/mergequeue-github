@@ -5633,6 +5633,7 @@ dependableness
 dependably
 dependance
 dependant
+descriptionless
 dependantly
 depended
 dependence
@@ -6521,7 +6522,6 @@ descries
 descript
 description
 dogsled
-descriptionless
 descriptive
 descriptively
 diota
