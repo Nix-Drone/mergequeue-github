@@ -2546,6 +2546,7 @@ electronics
 electronography
 ecad
 electrooculogram
+egocentric
 electrooptic
 exul
 electrooptical
@@ -11088,7 +11089,6 @@ expertizing
 eurylaimoid
 eurymus
 eurindic
-egocentric
 expede
 euryphage
 extradict
