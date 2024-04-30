@@ -4110,7 +4110,6 @@ beam
 beambird
 beamed
 beamer
-beamers
 beamfilling
 beamful
 beeware
@@ -11903,6 +11902,7 @@ boghole
 bogy
 bogydom
 bogie
+beamers
 bogieman
 bullfinch
 bogyism
