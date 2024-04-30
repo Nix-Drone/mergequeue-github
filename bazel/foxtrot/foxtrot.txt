@@ -5874,6 +5874,7 @@ frangent
 funned
 flockwise
 flocs
+fouls
 floeberg
 floey
 floerkea
@@ -9211,7 +9212,6 @@ frusta
 frache
 function
 fracid
-fouls
 forklike
 fractal
 fracted
