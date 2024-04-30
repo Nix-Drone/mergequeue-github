@@ -2465,7 +2465,6 @@ decke
 deckedout
 deckel
 deckels
-decken
 decker
 daphnioid
 deckhand
@@ -12687,6 +12686,7 @@ deforcement
 dorsilumbar
 dysluite
 delicto
+decken
 dislustered
 dislustering
 dislustre
