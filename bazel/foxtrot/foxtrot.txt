@@ -7070,6 +7070,7 @@ food
 foody
 foodless
 foodlessness
+foreday
 fulfilled
 foods
 foodstuff
@@ -11260,7 +11261,6 @@ funguslike
 funic
 fistulae
 funicle
-foreday
 funicles
 funicular
 funiculars
