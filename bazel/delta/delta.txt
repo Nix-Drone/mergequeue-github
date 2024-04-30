@@ -9373,7 +9373,6 @@ dechlore
 diffusible
 diffusibleness
 diffusimeter
-diffusing
 diffusiometer
 diffusion
 diffusional
@@ -13441,6 +13440,7 @@ dissatisfactory
 dissatisfactorily
 dissatisfactoriness
 doctorlike
+diffusing
 dissatisfied
 dissatisfiedly
 dissatisfiedness
