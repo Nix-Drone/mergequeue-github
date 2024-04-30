@@ -557,6 +557,7 @@ fallace
 feltlike
 foretalk
 fidalgo
+flankwise
 flyability
 fallage
 fallals
@@ -4974,7 +4975,6 @@ fireshaft
 flanking
 flanks
 faineantise
-flankwise
 flatbeds
 flannelboard
 flannelette
