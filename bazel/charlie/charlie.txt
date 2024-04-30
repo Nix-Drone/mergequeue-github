@@ -20379,7 +20379,6 @@ comp
 compaa
 cistae
 compact
-compactability
 compactable
 compacted
 compactedly
@@ -27412,6 +27411,7 @@ couveuse
 couxia
 covado
 covalences
+compactability
 covalency
 coriander
 covalent
