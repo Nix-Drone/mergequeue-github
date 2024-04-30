@@ -6152,7 +6152,6 @@ flowable
 flowage
 flowcharted
 fulicinae
-flowcharts
 finality
 foldstool
 flowcontrol
@@ -9671,6 +9670,7 @@ freeboot
 frescos
 freebooted
 freebooter
+flowcharts
 freebooters
 freebooty
 freckened
