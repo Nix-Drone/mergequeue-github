@@ -2461,6 +2461,7 @@ foretriangle
 ferlying
 ferling
 fermacy
+fuzziness
 fermail
 fermal
 fermata
@@ -11751,7 +11752,6 @@ filose
 fuzzily
 firestopping
 fertilitate
-fuzziness
 flacianism
 frowzled
 forestem
