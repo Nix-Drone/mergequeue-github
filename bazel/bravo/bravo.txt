@@ -2004,6 +2004,7 @@ bandsawing
 bandsawn
 bandsman
 bandsmen
+bungs
 bandspreading
 bandstand
 bandstands
@@ -9435,7 +9436,6 @@ birdseyes
 birdsnest
 birdstone
 browpiece
-bungs
 birdwise
 breme
 birdwitted
