@@ -9249,7 +9249,6 @@ chaster
 chastest
 chasteweed
 chasty
-chastiment
 chastisable
 chastise
 chastised
@@ -27301,6 +27300,7 @@ courtage
 courtal
 courtby
 courtbred
+chastiment
 courtcraft
 cetacean
 courted
