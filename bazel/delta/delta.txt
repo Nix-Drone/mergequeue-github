@@ -3518,7 +3518,6 @@ deformability
 disknow
 deformable
 deformalize
-deformation
 deformational
 delete
 deformations
@@ -10014,6 +10013,7 @@ dynamoelectrical
 dynamogeneses
 dynamogenesis
 dynamogeny
+deformation
 dynamogenous
 dauphins
 dynamograph
