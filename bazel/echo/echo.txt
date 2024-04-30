@@ -3586,7 +3586,6 @@ excisemen
 embouchement
 embouchment
 embouchures
-embound
 embourgeoisement
 endoabdominal
 embow
@@ -13207,6 +13206,7 @@ exploders
 explodes
 exploit
 ecumenics
+embound
 exploitable
 exploitation
 exploitationist
