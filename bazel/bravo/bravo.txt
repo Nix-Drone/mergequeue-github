@@ -1895,7 +1895,6 @@ bandannas
 bandarlog
 bandbox
 bandboxes
-bandboxy
 barricos
 bandboxical
 bandcase
@@ -11571,6 +11570,7 @@ boast
 boasted
 boaster
 boasters
+bandboxy
 boastfully
 boastfulness
 boastingly
