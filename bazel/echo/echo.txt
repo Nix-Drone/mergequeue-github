@@ -11254,6 +11254,7 @@ evacuator
 evacuators
 exteriors
 evacue
+everywhen
 evacuees
 evadable
 evade
@@ -11498,7 +11499,6 @@ everyplace
 everything
 extermine
 everyway
-everywhen
 everywhereness
 everywhither
 emissarium
