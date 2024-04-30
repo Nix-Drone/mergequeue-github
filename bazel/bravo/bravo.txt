@@ -7908,7 +7908,6 @@ bibles
 bohmite
 biblic
 bipunctal
-biblical
 biblicality
 biblically
 biblicism
@@ -17414,6 +17413,7 @@ bungalow
 bungalows
 bungarum
 breviary
+biblical
 bungarus
 bijection
 bunged
