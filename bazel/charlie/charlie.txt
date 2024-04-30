@@ -3139,7 +3139,6 @@ capitare
 capitasti
 capitate
 capitated
-capitatim
 capitation
 capitations
 capitatum
@@ -27738,6 +27737,7 @@ cozenage
 cozenages
 circulatories
 cozened
+capitatim
 cozener
 cozeners
 cozening
