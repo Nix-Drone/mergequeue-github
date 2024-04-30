@@ -2113,7 +2113,6 @@ campos
 campout
 camps
 campshed
-campshedding
 campsheeting
 campsite
 compasser
@@ -25012,6 +25011,7 @@ chiliadic
 cordwainer
 cordwainery
 carts
+campshedding
 cordwood
 choleraic
 concocting

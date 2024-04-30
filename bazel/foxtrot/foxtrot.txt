@@ -634,7 +634,6 @@ falsifications
 falsificator
 falsified
 finickier
-falsifier
 falsifiers
 falsifying
 falunian
@@ -1094,6 +1093,7 @@ farmyard
 fructuary
 farmyardy
 foremastman
+falsifier
 farmland
 farmost
 farmout
