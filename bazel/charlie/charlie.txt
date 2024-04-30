@@ -5191,7 +5191,6 @@ casse
 caveats
 cassegrain
 chromomeric
-coordinations
 cassegrainian
 cassena
 casserole
@@ -10258,6 +10257,7 @@ chiasmic
 chiasmodon
 chiasmodontid
 chiasmodontidae
+coordinations
 chiasms
 chiasmus
 chiastic
