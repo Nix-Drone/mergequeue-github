@@ -3290,7 +3290,6 @@ deferments
 deferrable
 deferral
 deferrals
-deferred
 deferrer
 deferrers
 deferrize
@@ -12398,6 +12397,7 @@ disyllabizing
 disillude
 destains
 disilluded
+deferred
 disilluminate
 disillusion
 disillusioned
