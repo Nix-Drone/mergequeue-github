@@ -5414,7 +5414,6 @@ addenda
 afforests
 afformative
 affray
-affrayer
 affrayers
 affraying
 affrays
@@ -6907,6 +6906,7 @@ airlike
 airline
 airliner
 airliners
+affrayer
 airlines
 airling
 airlock
