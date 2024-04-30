@@ -8296,7 +8296,6 @@ gobos
 grassland
 grasslike
 gasterosteiform
-gadolinite
 grassman
 guiding
 gazelles
@@ -10204,6 +10203,7 @@ glochis
 guilery
 guiles
 guilfat
+gadolinite
 guyline
 gooney
 guiling
