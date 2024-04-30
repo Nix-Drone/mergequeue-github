@@ -2876,7 +2876,6 @@ elevations
 elevator
 electrophorus
 eleve
-endplate
 escalators
 eleven
 egrid
@@ -8890,6 +8889,7 @@ erechtites
 erectable
 erected
 exclusionist
+endplate
 erecter
 erecters
 erectile
