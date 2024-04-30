@@ -8726,7 +8726,6 @@ fortifications
 fortifier
 florets
 fortifiers
-fortifies
 fafnir
 fortifying
 fortifyingly
@@ -9275,6 +9274,7 @@ fraena
 furcates
 fraenum
 foundationless
+fortifies
 foment
 foreorder
 fulmining
