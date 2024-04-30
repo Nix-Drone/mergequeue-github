@@ -554,7 +554,6 @@ fall
 fissirostral
 falla
 fallace
-feltlike
 foretalk
 fidalgo
 flyability
@@ -5273,6 +5272,7 @@ flawn
 flaws
 fatigated
 flax
+feltlike
 flaxboard
 flaxen
 flaxy
