@@ -1986,7 +1986,6 @@ decahedra
 decahedral
 decahedron
 damageableness
-decahedrons
 decahydrate
 decahydronaphthalene
 decay
@@ -10985,6 +10984,7 @@ disallow
 disallowableness
 disallowance
 diatomean
+decahedrons
 disallowed
 dieselized
 disallows
