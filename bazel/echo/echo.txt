@@ -6404,7 +6404,6 @@ ensign
 embarcation
 ensigncy
 electroplaque
-ensigncies
 ensigned
 entranceway
 ensignhood
@@ -11566,6 +11565,7 @@ equiomnipotent
 excerptive
 eviscerate
 exoergic
+ensigncies
 eviller
 embreathement
 evilmouthed
