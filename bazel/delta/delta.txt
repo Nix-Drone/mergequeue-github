@@ -11308,7 +11308,6 @@ discharacter
 drapery
 dischargeable
 discharged
-dischargee
 discharger
 dischargers
 dolichopodous
@@ -15789,6 +15788,7 @@ dorsel
 dorser
 dorsers
 dorsi
+dischargee
 dorsibranchiata
 dorsibranchiate
 dorsicollar
