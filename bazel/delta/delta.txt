@@ -9859,7 +9859,6 @@ dimers
 dimes
 dimetallic
 dimeter
-dimeters
 dimethyl
 dimethylamine
 dimethylamino
@@ -11489,6 +11488,7 @@ docudrama
 discommodate
 dallyingly
 discommode
+dimeters
 discommoded
 discommodes
 discommoding
