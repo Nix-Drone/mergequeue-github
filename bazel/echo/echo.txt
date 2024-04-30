@@ -1255,7 +1255,6 @@ educive
 educt
 economicalness
 examinability
-eductor
 eductors
 excursionists
 exstill
@@ -6609,6 +6608,7 @@ enterer
 ellipses
 empathizing
 enterers
+eductor
 enterfeat
 entergogenic
 enteria
