@@ -1584,7 +1584,6 @@ caloricity
 calorics
 caloriduct
 calorie
-calories
 circ
 calorifacient
 calorify
@@ -20010,6 +20009,7 @@ commensals
 commensurability
 commensurable
 cajoled
+calories
 commensurableness
 commensurably
 commensurate
