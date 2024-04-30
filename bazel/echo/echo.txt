@@ -6849,7 +6849,6 @@ enows
 entocnemial
 entocondylar
 entocondyle
-electrums
 entocone
 entoconid
 entocornea
@@ -9505,6 +9504,7 @@ equisized
 escapeless
 ew
 escapement
+electrums
 echeneid
 evectic
 escaper
