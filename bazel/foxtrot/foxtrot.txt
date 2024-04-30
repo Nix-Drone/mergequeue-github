@@ -5789,7 +5789,6 @@ flyweight
 flyweights
 forthon
 fribblish
-flywinch
 frankable
 flix
 fll
@@ -11486,6 +11485,7 @@ fatiguable
 furred
 furry
 furriery
+flywinch
 furrieries
 furriers
 flaunching
