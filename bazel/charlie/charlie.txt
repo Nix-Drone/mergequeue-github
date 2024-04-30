@@ -3371,7 +3371,6 @@ capsomer
 capsomere
 capsomers
 capstan
-capstans
 capstone
 capsula
 coached
@@ -11945,6 +11944,7 @@ chorepiscope
 chorepiscopus
 chores
 choreus
+capstans
 choreutic
 chorial
 choriamb
