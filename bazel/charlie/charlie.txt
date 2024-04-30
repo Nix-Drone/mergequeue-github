@@ -17262,7 +17262,6 @@ coassert
 coasserter
 coassessor
 caravelle
-coassignee
 coassist
 coassistant
 culpas
@@ -22203,6 +22202,7 @@ congenerical
 congenerous
 congeners
 congenetic
+coassignee
 congenial
 congeniality
 congenially
