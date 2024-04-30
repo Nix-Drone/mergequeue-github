@@ -2676,7 +2676,6 @@ dogwatches
 decompoundable
 decompoundly
 decompress
-decompresses
 decompressing
 decompression
 detectaphone
@@ -16522,6 +16521,7 @@ dracontites
 diapason
 dracontium
 drad
+decompresses
 diallagoid
 dradge
 dumpfile
