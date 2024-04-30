@@ -1595,7 +1595,6 @@ grainways
 guarded
 gashliness
 gentlemanhood
-greedily
 gashouse
 gashouses
 gasifiable
@@ -3913,6 +3912,7 @@ gynandromorphous
 graphospasm
 giblet
 giblets
+greedily
 giboia
 goyle
 glave
