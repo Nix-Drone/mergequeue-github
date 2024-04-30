@@ -4638,7 +4638,6 @@ borborus
 bioenergetics
 bedaubing
 bedaubs
-bedlike
 bedawee
 bedaze
 bedazed
@@ -9967,6 +9966,7 @@ biverb
 bivial
 beinness
 bivinyl
+bedlike
 bivious
 bivocalized
 bivoluminous
