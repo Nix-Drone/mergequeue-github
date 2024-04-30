@@ -7306,7 +7306,6 @@ craspedote
 cephalaspis
 cocoonery
 cephalata
-cephalate
 cephalemia
 cephaletron
 cephaleuros
@@ -13246,6 +13245,7 @@ cyclamates
 cyclamen
 cyclamens
 carrotwood
+cephalate
 cyclamin
 cyclamine
 cyclammonium
