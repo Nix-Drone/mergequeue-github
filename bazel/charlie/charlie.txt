@@ -11462,6 +11462,7 @@ choel
 choenix
 choes
 choga
+constrained
 chogak
 coexclusive
 chogset
@@ -23144,7 +23145,6 @@ constitutor
 cassiri
 constr
 campholytic
-constrained
 collothun
 constrainedly
 constrainedness
