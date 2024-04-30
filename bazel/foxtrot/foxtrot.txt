@@ -1901,7 +1901,6 @@ fidicinales
 feckulence
 frayn
 feliform
-feculence
 feculency
 fecundate
 fecundated
@@ -7706,6 +7705,7 @@ fleshlily
 foretopsail
 foregut
 forehalf
+feculence
 forehall
 fulfillers
 forehammer
