@@ -17923,7 +17923,6 @@ atmans
 appraisals
 appraised
 appraisement
-appraiser
 appraisers
 appraises
 appraising
@@ -22547,6 +22546,7 @@ athenian
 aerates
 athenianly
 athenians
+appraiser
 athenor
 ambilaevous
 atheology
