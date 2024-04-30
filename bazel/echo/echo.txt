@@ -9819,7 +9819,6 @@ elands
 espoused
 espousement
 essenwood
-espouser
 espouses
 espousing
 espressos
@@ -12438,6 +12437,7 @@ exhales
 exhaling
 exhaust
 exhausted
+espouser
 exhaustedly
 extend
 embryotrophic
