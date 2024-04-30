@@ -4952,7 +4952,6 @@ beefless
 buttonmould
 bristle
 beefsteak
-beefsteaks
 beeftongue
 beefwood
 beefwoods
@@ -17840,6 +17839,7 @@ burrheadedness
 burriest
 burring
 biotechs
+beefsteaks
 burrito
 burritos
 bordellos
