@@ -17759,7 +17759,6 @@ cyathophylline
 codens
 coder
 coderived
-coders
 codes
 codescendant
 codesign
@@ -25446,6 +25445,7 @@ corodiary
 corodiastasis
 convicting
 comitiva
+coders
 corodiastole
 corodies
 corojo
