@@ -2579,7 +2579,6 @@ bargehouse
 bargelike
 bargelli
 bargello
-bargeload
 bargeman
 bromcamphor
 bookmaking
@@ -6241,6 +6240,7 @@ benefiting
 blotchy
 benefits
 bignesses
+bargeload
 benefitted
 blockwood
 beneighbored
