@@ -5244,6 +5244,7 @@ affectation
 affectations
 affected
 affectedly
+answers
 affecter
 affecters
 affectibility
@@ -13987,7 +13988,6 @@ answeringly
 answerless
 ancestresses
 answerlessly
-answers
 amorously
 abstrusely
 ant
