@@ -3631,6 +3631,7 @@ bathyscaphes
 bathyseism
 bathysmal
 bomarea
+bushes
 bathysophic
 bathysophical
 bathysphere
@@ -17957,7 +17958,6 @@ bimester
 busher
 bushers
 bedder
-bushes
 bushet
 bushfighting
 bushfires
