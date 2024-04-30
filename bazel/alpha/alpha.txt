@@ -4626,6 +4626,7 @@ advertizable
 amulets
 advertized
 advertizement
+arrestation
 allobars
 advertizes
 advertizing
@@ -20217,7 +20218,6 @@ arrest
 arrestable
 arrestant
 albi
-arrestation
 anophyte
 arrested
 arrestees
