@@ -6685,6 +6685,7 @@ foederati
 foederis
 foeffment
 foehn
+forestless
 foehnlike
 foeish
 foeless
@@ -8072,7 +8073,6 @@ forestish
 forestland
 frigorimeter
 fimble
-forestless
 forestology
 flashback
 forestral
