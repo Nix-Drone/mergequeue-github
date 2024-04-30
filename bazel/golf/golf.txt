@@ -516,7 +516,6 @@ galericulate
 galerie
 galerum
 galerus
-gales
 galesaur
 galesaurus
 galet
@@ -3240,6 +3239,7 @@ grondwet
 gnawable
 geoscopic
 geoselenic
+gales
 geosid
 geosynclinal
 geosphere
