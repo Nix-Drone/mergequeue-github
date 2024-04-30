@@ -6443,7 +6443,6 @@ desamidase
 desamidization
 desaminase
 desanding
-desands
 desc
 descale
 descaling
@@ -16534,6 +16533,7 @@ deoxidator
 draffish
 draffman
 draffs
+desands
 draft
 dishevel
 draftable
