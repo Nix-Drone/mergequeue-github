@@ -8756,6 +8756,7 @@ ethnolinguist
 equipt
 equiradial
 echo
+experiencing
 equiradical
 equirotal
 escopet
@@ -13038,7 +13039,6 @@ expergefaction
 experience
 experiencer
 experiences
-experiencing
 experient
 experiential
 embedding
