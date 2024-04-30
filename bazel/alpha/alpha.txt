@@ -10098,6 +10098,7 @@ ambulanced
 ambulancer
 ambulances
 ambulant
+anatomy
 alloted
 ambulante
 ambulantes
@@ -19156,7 +19157,6 @@ archpriest
 archpriesthood
 archpriestship
 archprimate
-anatomy
 archprince
 ars
 archprophet
