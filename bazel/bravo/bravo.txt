@@ -2995,6 +2995,7 @@ barrettes
 barry
 boobishness
 barricade
+beltways
 barricaded
 baryes
 brei
@@ -6735,7 +6736,6 @@ bemixes
 berigora
 beryl
 berylate
-beltways
 basepoint
 bitemporal
 beryline
