@@ -2513,6 +2513,7 @@ declarers
 declares
 daneworts
 declaring
+dowable
 declasse
 divisibly
 declasses
@@ -5183,7 +5184,6 @@ denials
 denicotine
 denicotinize
 denicotinized
-dowable
 denicotinizes
 denicotinizing
 destructor
