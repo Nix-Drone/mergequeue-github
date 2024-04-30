@@ -2411,7 +2411,6 @@ fourchet
 feres
 feretory
 firearmed
-feretories
 fiques
 frontes
 ferfel
@@ -7504,6 +7503,7 @@ foreallot
 foreannounce
 flatuses
 foreappoint
+feretories
 foreappointment
 fungate
 forearming
