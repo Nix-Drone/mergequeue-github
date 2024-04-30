@@ -1791,7 +1791,6 @@ globelike
 gastroenteritis
 gluts
 gastroenteroanastomosis
-gastroenterocolitis
 gastroenterocolostomy
 gastroenterology
 gelatination
@@ -2365,6 +2364,7 @@ geisa
 gassiness
 geisenheimer
 gelidium
+gastroenterocolitis
 gazelle
 geyseral
 geyserish
