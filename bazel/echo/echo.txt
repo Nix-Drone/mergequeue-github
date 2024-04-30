@@ -3552,6 +3552,7 @@ embolon
 emboltement
 embolus
 emborder
+exactness
 embordered
 elegant
 embordering
@@ -11713,7 +11714,6 @@ expectedly
 electrohydraulic
 endopolyploid
 exactment
-exactness
 engrosses
 extratensive
 exactor
