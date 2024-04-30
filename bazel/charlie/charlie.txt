@@ -10103,7 +10103,6 @@ chess
 chessart
 chessboard
 chessboards
-chessdom
 chessel
 chesser
 cabinda
@@ -23798,6 +23797,7 @@ contrastiveness
 contrastment
 contrasts
 contrasuggestible
+chessdom
 cruiskeen
 contratempo
 contratenor
