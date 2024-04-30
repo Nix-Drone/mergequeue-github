@@ -6669,7 +6669,6 @@ goldstone
 goldtit
 gnash
 goldurned
-goldurns
 goldwork
 goldworker
 golem
@@ -7702,6 +7701,7 @@ giving
 grossulariaceae
 graft
 graftages
+goldurns
 grafted
 glutition
 glotum
