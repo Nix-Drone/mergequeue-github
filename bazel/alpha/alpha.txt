@@ -12493,7 +12493,6 @@ anemographic
 anemographically
 anemology
 anemologic
-anemological
 anemometer
 anemometers
 anemometrical
@@ -23637,6 +23636,7 @@ aircrafts
 aurorally
 antirattler
 aurore
+anemological
 aurorian
 aurorium
 aurotellurite
