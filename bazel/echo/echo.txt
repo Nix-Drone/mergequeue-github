@@ -5021,7 +5021,6 @@ endexine
 endexines
 eardrum
 endgate
-enfief
 endhand
 endia
 endiablee
@@ -13940,6 +13939,7 @@ extrapolation
 extrapolations
 extrapolator
 extrapolatory
+enfief
 entemple
 extrapopular
 extraposition
