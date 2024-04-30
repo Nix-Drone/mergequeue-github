@@ -570,7 +570,6 @@ dao
 damager
 damagers
 disco
-discretionally
 damayanti
 damalic
 daman
@@ -5456,6 +5455,7 @@ denudement
 dredged
 dispirited
 denuder
+discretionally
 dialysation
 denudes
 denuding
