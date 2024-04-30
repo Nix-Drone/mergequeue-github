@@ -8664,7 +8664,6 @@ diastematic
 diastematomyelia
 diaster
 dyaster
-depolarizing
 diastereoisomerism
 diastereomer
 diastyle
@@ -16149,6 +16148,7 @@ douzepers
 douzieme
 douziemes
 dove
+depolarizing
 dovecot
 dovecote
 dovecotes
