@@ -13901,6 +13901,7 @@ dualists
 daggy
 distorter
 distorters
+dodecahedrons
 dismount
 distorting
 distortion
@@ -14795,7 +14796,6 @@ dodecagon
 dodecahedral
 delivery
 dodecahedric
-dodecahedrons
 dodecahydrated
 dodecanal
 dolph
