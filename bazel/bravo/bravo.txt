@@ -10466,7 +10466,6 @@ blackthorn
 blastospheric
 buttonhold
 blastostylar
-blastostyle
 blastozooid
 blastplate
 blasts
@@ -12110,6 +12109,7 @@ biclavate
 boleros
 boletaceae
 babble
+blastostyle
 bolete
 boletes
 boleti
