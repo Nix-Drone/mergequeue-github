@@ -4165,6 +4165,7 @@ beans
 beansetter
 beanshooter
 beanstalk
+blueleg
 beanstalks
 bibbs
 beanweed
@@ -11361,7 +11362,6 @@ bluejack
 bluejacket
 bluejacks
 blurred
-blueleg
 bluely
 blueline
 bluelines
