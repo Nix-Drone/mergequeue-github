@@ -5244,7 +5244,6 @@ formulators
 fingertips
 flavour
 fencelike
-flavoured
 flavourful
 flavourfully
 flavoury
@@ -6973,6 +6972,7 @@ follow
 followable
 followed
 follower
+flavoured
 foisting
 followers
 followingly
