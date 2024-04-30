@@ -2712,7 +2712,6 @@ deconsider
 deconsideration
 decontaminate
 decontaminated
-decontaminates
 decontaminating
 decontaminations
 decontaminator
@@ -7804,6 +7803,7 @@ devulgarize
 defaulter
 devvel
 devwsor
+decontaminates
 dew
 dewal
 dewan
