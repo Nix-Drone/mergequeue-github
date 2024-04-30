@@ -5986,7 +5986,6 @@ beltmaking
 beltman
 beltmen
 belts
-beltway
 beltwise
 barn
 beluchi
@@ -11537,6 +11536,7 @@ boanbura
 boanerges
 boanergism
 bisontine
+beltway
 boanthropy
 board
 boardbill
