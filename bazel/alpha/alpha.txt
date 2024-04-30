@@ -7728,7 +7728,6 @@ aldermanries
 aldermanship
 aldermen
 aldern
-alderney
 alders
 alderwomen
 aldhafara
@@ -24417,6 +24416,7 @@ autotelegraph
 autotelic
 autotelism
 autotetraploid
+alderney
 autotetraploidy
 aah
 anatomism
