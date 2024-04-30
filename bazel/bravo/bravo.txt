@@ -1905,7 +1905,6 @@ bandeau
 bandeaux
 betula
 banded
-bandelet
 bandelette
 bandeng
 banderlog
@@ -13012,6 +13011,7 @@ beryls
 borghi
 borh
 bori
+bandelet
 babool
 boric
 borid
