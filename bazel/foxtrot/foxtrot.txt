@@ -100,7 +100,6 @@ facias
 faciata
 fantoms
 faciation
-forequoted
 facie
 freeport
 fibroelastic
@@ -7302,6 +7301,7 @@ fop
 fopped
 fossils
 foppery
+forequoted
 fluster
 fopperies
 fopperly
