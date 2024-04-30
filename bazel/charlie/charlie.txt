@@ -5117,6 +5117,7 @@ cashbooks
 cashbox
 cashboxes
 casheen
+cannot
 cashel
 casher
 cashers
@@ -14496,7 +14497,6 @@ cyrillaceous
 cyrillian
 cyrillianism
 cyrillic
-cannot
 cyriologic
 cirl
 commonsensical
