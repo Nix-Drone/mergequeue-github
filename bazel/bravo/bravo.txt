@@ -5639,6 +5639,7 @@ belate
 belated
 belatedness
 belating
+bugwort
 belaud
 belauded
 belauder
@@ -16919,7 +16920,6 @@ bugout
 bugs
 bugsha
 bugweed
-bugwort
 buhl
 buhlbuhl
 bark
