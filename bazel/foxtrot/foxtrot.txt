@@ -1076,6 +1076,7 @@ farmable
 farmed
 farmer
 farmeress
+froth
 farmery
 filigraned
 farmeries
@@ -10526,7 +10527,6 @@ footbridges
 favose
 flutterment
 frostwort
-froth
 frothed
 frother
 frothy
