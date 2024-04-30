@@ -8861,7 +8861,6 @@ allomorphism
 allomorphite
 allonge
 allonges
-allonym
 alongst
 allonymous
 allonymously
@@ -12130,6 +12129,7 @@ aluminography
 ancestorially
 ancestors
 ancestral
+allonym
 ancestress
 ancestry
 ancestrian
