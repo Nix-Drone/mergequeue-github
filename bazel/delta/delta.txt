@@ -1714,7 +1714,6 @@ deathsman
 deathsmen
 depaysee
 deathtime
-deathtrap
 deathtraps
 deathward
 deathwatches
@@ -17314,6 +17313,7 @@ drome
 dromed
 dromedary
 dromedarian
+deathtrap
 dzo
 dromedaries
 drometer

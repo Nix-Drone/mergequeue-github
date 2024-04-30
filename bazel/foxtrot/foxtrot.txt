@@ -5755,6 +5755,7 @@ flytime
 faire
 fliting
 flyting
+forclose
 flytings
 fossulet
 futharks
@@ -7455,7 +7456,6 @@ feminine
 forcleave
 fours
 foreknown
-forclose
 fitnesses
 forconceit
 ferrimagnet
