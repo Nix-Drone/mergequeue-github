@@ -7457,7 +7457,6 @@ fours
 foreknown
 forclose
 fitnesses
-forconceit
 ferrimagnet
 floatative
 forcut
@@ -8753,6 +8752,7 @@ fortnight
 fortnightly
 fortnights
 fortran
+forconceit
 fortranh
 fortravail
 frightenable
