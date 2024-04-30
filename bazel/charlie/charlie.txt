@@ -2347,7 +2347,6 @@ candelabrums
 candelilla
 candent
 cassidony
-candescence
 candescent
 candescently
 candy
@@ -16694,6 +16693,7 @@ cloth
 clothe
 clothed
 clothes
+candescence
 clothesbag
 clothesbasket
 clothesbrush
