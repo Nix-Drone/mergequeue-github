@@ -3470,6 +3470,7 @@ capulet
 capuli
 capulin
 caput
+centuria
 caputium
 cornua
 caque
@@ -7265,7 +7266,6 @@ centuplication
 centupling
 centure
 century
-centuria
 column
 centurial
 covenably
