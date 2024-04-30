@@ -840,7 +840,6 @@ extent
 ectocarpaceae
 ectocarpales
 ectocarpic
-ectocarpous
 ectocarpus
 ectocelic
 ectochondral
@@ -13629,6 +13628,7 @@ externalization
 externalize
 externalized
 externalizes
+ectocarpous
 externalness
 evolvements
 externat
