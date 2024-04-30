@@ -11644,6 +11644,7 @@ cholesteric
 cholesteryl
 cholesterin
 cholesterinemia
+cornerbind
 chappow
 cholesterinic
 cholesterinuria
@@ -25310,7 +25311,6 @@ corneocalcareous
 corneosclerotic
 corneosiliceous
 cornerback
-cornerbind
 cornercap
 cornered
 cornerer
