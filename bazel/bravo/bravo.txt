@@ -7897,7 +7897,6 @@ bibenzyl
 biberon
 bibi
 bibio
-bibionid
 bibionidae
 bibiri
 bibitory
@@ -12412,6 +12411,7 @@ brooders
 bondservant
 bowmaking
 bondship
+bibionid
 bondslave
 bondsman
 bondsmen
