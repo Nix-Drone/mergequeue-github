@@ -4918,7 +4918,6 @@ givey
 given
 givens
 garderobe
-giver
 givers
 gladeye
 gyves
@@ -9063,6 +9062,7 @@ grimmiaceae
 goadster
 gyrostatic
 ganguela
+giver
 grimness
 grimnesses
 griping
