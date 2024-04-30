@@ -200,7 +200,6 @@ earthslide
 earthsmoke
 earthtongue
 earthwall
-earthwork
 earthworks
 ecdysones
 earthworms
@@ -3487,6 +3486,7 @@ emblematology
 encephalonarcosis
 emblemed
 emblement
+earthwork
 emblements
 emblemish
 effectuate
