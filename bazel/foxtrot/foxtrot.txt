@@ -5002,6 +5002,7 @@ ferrite
 flappable
 flapped
 favourless
+foulbrood
 foelike
 flapperdom
 forte
@@ -8946,7 +8947,6 @@ fougasse
 foujdarry
 foul
 foulards
-foulbrood
 foulder
 flourlike
 fouled
