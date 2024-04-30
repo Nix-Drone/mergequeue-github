@@ -1479,7 +1479,6 @@ deacons
 deaconship
 deactivate
 deactivated
-deactivates
 discontinuing
 dicranoid
 dehydromucic
@@ -7218,6 +7217,7 @@ determinable
 dowage
 diffusivity
 determinableness
+deactivates
 desiccative
 disennoble
 determinably
