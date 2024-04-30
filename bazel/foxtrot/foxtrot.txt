@@ -1085,7 +1085,6 @@ farmerlike
 farmership
 farmhold
 farmhouse
-feronia
 farmhousey
 fontinalaceae
 fuzzle
@@ -8127,6 +8126,7 @@ forethrift
 foretoken
 frostproof
 femmes
+feronia
 fretless
 foretop
 foretopman
