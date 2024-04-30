@@ -356,7 +356,6 @@ backframe
 beknot
 backfriend
 borgh
-backfurrow
 backgame
 backgammon
 backgeared
@@ -5162,6 +5161,7 @@ bornyl
 before
 begged
 biotic
+backfurrow
 beforehand
 beforementioned
 bagpod
