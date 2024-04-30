@@ -21805,7 +21805,6 @@ confabbed
 confabs
 confabular
 confabulate
-confabulated
 confabulates
 confabulating
 confabulations
@@ -28891,6 +28890,7 @@ cribellum
 crible
 cheneau
 cribo
+confabulated
 cribose
 cribrate
 cribrately
