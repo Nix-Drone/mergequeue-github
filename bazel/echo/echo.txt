@@ -1576,7 +1576,6 @@ egestion
 egestions
 egg
 eggbeater
-ethmoid
 endosternum
 eggbeaters
 eggcrate
@@ -8265,6 +8264,7 @@ equiprobabilist
 epistemophiliac
 entocoelic
 epistena
+ethmoid
 episternal
 enormities
 emaceration
