@@ -7087,7 +7087,6 @@ desulfurized
 desulfurizer
 desulfurizing
 dynamometric
-desulphur
 desulphurate
 desulphurated
 desulphurating
@@ -8874,6 +8873,7 @@ dichlorodiphenyltrichloroethane
 dichlorohydrin
 dichloromethane
 dichlorvos
+desulphur
 dichocarpism
 dichocarpous
 dichogamic
