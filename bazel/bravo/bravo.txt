@@ -7659,7 +7659,6 @@ blowholes
 bewimple
 bewinged
 bewinter
-bewired
 bewitch
 bewitchedness
 bewitcher
@@ -10194,6 +10193,7 @@ blacksmiths
 blacksnake
 blackstick
 burghbote
+bewired
 baneful
 blacktail
 bliaut
