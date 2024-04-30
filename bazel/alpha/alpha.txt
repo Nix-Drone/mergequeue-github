@@ -8459,6 +8459,7 @@ alkanes
 alkanet
 accurateness
 alkanethiol
+aspis
 alkanets
 alkanna
 alkannin
@@ -12003,7 +12004,6 @@ anastatus
 anastigmat
 anastigmatic
 anastomos
-aspis
 anastomosed
 anastomoses
 anastomosing
