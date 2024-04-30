@@ -3862,7 +3862,6 @@ adiathetic
 antiprism
 adiating
 adiation
-adib
 adibasi
 adicea
 adicity
@@ -10545,6 +10544,7 @@ amylopsin
 amylose
 apprenticeship
 amyloses
+adib
 amylosynthesis
 amylosis
 asthenosphere
