@@ -4371,7 +4371,6 @@ adrenocorticosteroid
 aurorae
 adrenocorticotrophic
 ammonolysis
-adrenocorticotropic
 adrenolysis
 adrenomedullary
 anthracolithic
@@ -21216,6 +21215,7 @@ asilidae
 asyllabia
 asyllabical
 asylum
+adrenocorticotropic
 asylums
 asilus
 asymbiotic
