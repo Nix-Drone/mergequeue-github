@@ -7307,7 +7307,6 @@ gossamers
 gossampine
 gossaniferous
 gossans
-gossard
 gossep
 geomechanics
 goujay
@@ -10135,6 +10134,7 @@ guyandot
 guianese
 guichet
 guidable
+gossard
 guidance
 guide
 gruf
