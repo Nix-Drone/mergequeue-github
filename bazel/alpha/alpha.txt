@@ -15458,7 +15458,6 @@ annunciators
 affixt
 adjutancy
 antiliturgical
-antiliturgist
 antilobium
 antilocapra
 antilochus
@@ -17465,6 +17464,7 @@ apostolian
 apostolical
 apostolically
 apostolici
+antiliturgist
 abstracts
 apostolicity
 apostolize
