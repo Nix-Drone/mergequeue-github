@@ -11619,7 +11619,6 @@ boatmen
 blesbok
 boatowner
 boats
-boatshop
 boatsman
 bobbed
 boatsmen
@@ -11825,6 +11824,7 @@ bodonid
 bromic
 bodrage
 battalions
+boatshop
 benedick
 bodstick
 baalite
