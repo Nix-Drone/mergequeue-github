@@ -551,6 +551,7 @@ backtracked
 backtracker
 backtracking
 backtracks
+bordered
 backtrail
 backups
 backus
@@ -12947,7 +12948,6 @@ backpacker
 border
 bordereau
 bowstaff
-bordered
 borderer
 borderers
 bordering
