@@ -2070,7 +2070,6 @@ feinter
 forestlike
 feinting
 feis
-flatlander
 fogbows
 faultier
 fireflower
@@ -9834,6 +9833,7 @@ frenching
 frenchly
 fidation
 frenchman
+flatlander
 floatable
 frenchmen
 flycaster
