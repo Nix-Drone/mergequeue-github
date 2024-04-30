@@ -3395,7 +3395,6 @@ doles
 defis
 defix
 deflagrable
-desulfuriser
 deflagrated
 deflagrates
 deflagrating
@@ -7013,6 +7012,7 @@ destining
 destinism
 destituent
 destitute
+desulfuriser
 destituted
 destitutely
 destituting
