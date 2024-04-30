@@ -3652,7 +3652,6 @@ embrawn
 embread
 embreathe
 embrectomy
-embrica
 embryectomy
 embryectomies
 embright
@@ -9258,6 +9257,7 @@ erodes
 erodibility
 eroding
 endocrinous
+embrica
 erodium
 erogenesis
 erogenetic
