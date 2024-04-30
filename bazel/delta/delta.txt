@@ -9153,7 +9153,6 @@ die
 delaminating
 dye
 desoxycinchonine
-dyeability
 dyeable
 ditriglyph
 dieb
@@ -11239,6 +11238,7 @@ discamp
 discandy
 discanonization
 drawstring
+dyeability
 dactylologies
 discanonize
 dentalizing
