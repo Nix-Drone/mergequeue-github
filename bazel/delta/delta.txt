@@ -2477,7 +2477,6 @@ deckpipe
 decks
 dulls
 deckswabber
-decl
 declaim
 dichorisandra
 declaimant
@@ -4299,6 +4298,7 @@ dels
 delsarte
 delsartian
 delta
+decl
 deltahedra
 deltaic
 deltaite
