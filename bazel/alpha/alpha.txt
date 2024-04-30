@@ -3433,7 +3433,6 @@ adaptative
 allegorize
 adapted
 adaptedness
-adapter
 adapters
 adapting
 adaption
@@ -18051,6 +18050,7 @@ approximant
 athreptic
 approximants
 approximated
+adapter
 approximately
 acridly
 approximates
