@@ -5376,6 +5376,7 @@ afflictions
 archoplasm
 afflictive
 afflictively
+auguration
 avadavats
 afflicts
 affloof
@@ -23400,7 +23401,6 @@ augrim
 augur
 augural
 augurate
-auguration
 anywhy
 acceder
 augure
