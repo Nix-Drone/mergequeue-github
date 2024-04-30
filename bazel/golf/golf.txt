@@ -1761,7 +1761,6 @@ goniostat
 gramophonical
 gastrocnemial
 gastrocnemian
-gynandromorphic
 gastrocnemii
 gastrocnemius
 gastrocoel
@@ -5608,6 +5607,7 @@ garrick
 glissader
 gadean
 glissades
+gynandromorphic
 glissandi
 glissando
 gompholobium
