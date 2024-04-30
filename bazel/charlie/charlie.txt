@@ -11894,7 +11894,6 @@ chordamesodermic
 chordata
 chordate
 chordates
-chorded
 chordee
 choriso
 chordeiles
@@ -16107,6 +16106,7 @@ cliff
 cliffed
 comenic
 cliffhang
+chorded
 cliffhanger
 cliffhangers
 clammer
