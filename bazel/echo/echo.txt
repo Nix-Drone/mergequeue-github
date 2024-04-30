@@ -6220,7 +6220,6 @@ enqueue
 entered
 enqueued
 enquicken
-enquire
 eten
 enquired
 enquiry
@@ -8443,6 +8442,7 @@ epituberculosis
 epituberculous
 epiural
 epivalve
+enquire
 epizeuxis
 extravagantes
 epizoal
