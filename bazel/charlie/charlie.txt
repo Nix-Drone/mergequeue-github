@@ -5096,7 +5096,6 @@ caserne
 caserns
 cases
 casette
-casettes
 caseum
 caseweed
 casewood
@@ -25801,6 +25800,7 @@ corruptibility
 corruptibleness
 corruptibly
 corrupting
+casettes
 coolant
 corruptingly
 corruption
