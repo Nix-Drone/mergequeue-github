@@ -3423,7 +3423,6 @@ adansonia
 adapa
 adapid
 adapt
-adaptability
 adaptable
 adaptableness
 adaptably
@@ -9763,6 +9762,7 @@ airwaybill
 amanitin
 amanitine
 amanitins
+adaptability
 amanitopsis
 amanori
 amanous
