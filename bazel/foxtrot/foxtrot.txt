@@ -4343,7 +4343,6 @@ forb
 fisetin
 fish
 fishability
-fishable
 fishback
 fishberry
 fleshers
@@ -10334,6 +10333,7 @@ fleshly
 frogs
 furiosa
 frogskin
+fishable
 freesia
 frogspawn
 frogwort
