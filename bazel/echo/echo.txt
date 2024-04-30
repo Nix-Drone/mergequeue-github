@@ -10132,6 +10132,7 @@ etalage
 etamin
 equippers
 ever
+excavations
 etamines
 etyma
 etamins
@@ -11893,7 +11894,6 @@ excathedral
 excaudate
 excavates
 engracing
-excavations
 excavator
 enlace
 excavatory
