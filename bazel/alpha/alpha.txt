@@ -14934,7 +14934,6 @@ anticipator
 amortisable
 anticipators
 anticity
-anticytolysin
 anticytotoxin
 anticivic
 anticivil
@@ -24356,6 +24355,7 @@ agoraphobia
 affodill
 autoschediastically
 autoschediaze
+anticytolysin
 autoscience
 autoscope
 autoscopy
