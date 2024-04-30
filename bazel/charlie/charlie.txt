@@ -4750,6 +4750,7 @@ carriable
 carryable
 carriage
 carriageable
+clacking
 carriageful
 carriages
 carriagesmith
@@ -15184,7 +15185,6 @@ clacker
 clackers
 clacket
 clackety
-clacking
 clacks
 counterpole
 clactonian
