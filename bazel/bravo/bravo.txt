@@ -1901,6 +1901,7 @@ bandboxical
 bandcase
 bandcutter
 bande
+bluepoint
 bandeau
 bandeaux
 betula
@@ -11372,7 +11373,6 @@ burros
 bluenosed
 bluenoser
 bluenoses
-bluepoint
 bicapitate
 bluepoints
 blueprint
