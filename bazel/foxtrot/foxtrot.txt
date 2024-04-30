@@ -4797,6 +4797,7 @@ flagons
 fasciolaria
 frontspiece
 flagpole
+frontals
 faunula
 figurehead
 flagpoles
@@ -10413,7 +10414,6 @@ facewise
 frontalis
 frontally
 footgeld
-frontals
 frontbencher
 favorably
 frontcourt
