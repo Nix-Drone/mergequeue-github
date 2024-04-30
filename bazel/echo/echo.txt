@@ -1115,7 +1115,6 @@ equipper
 edibility
 edible
 expurgatory
-edibleness
 edibles
 edictal
 edictally
@@ -7955,6 +7954,7 @@ epilimnial
 epilimnionia
 echards
 epyllia
+edibleness
 excipula
 erogeneity
 enneastylar
