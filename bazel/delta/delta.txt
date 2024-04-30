@@ -15658,6 +15658,7 @@ dopehead
 doper
 dopes
 dopesheet
+drawbore
 dopy
 dopier
 dopiness
@@ -16809,7 +16810,6 @@ delayage
 dardani
 drawboy
 drawbolt
-drawbore
 deare
 drawbored
 drawbores
