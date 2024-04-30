@@ -1726,6 +1726,7 @@ eide
 eydent
 eremurus
 eider
+electroforming
 ectomorphism
 eiders
 eidograph
@@ -2435,7 +2436,6 @@ electroengraving
 electroextraction
 expedient
 electroform
-electroforming
 electrofusion
 ethanol
 electrogalvanization
