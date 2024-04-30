@@ -3149,7 +3149,6 @@ defalk
 defamation
 defamations
 defamatory
-defame
 defamed
 dragginess
 defamer
@@ -7437,6 +7436,7 @@ deuterocone
 demiseason
 drivels
 deuteroconid
+defame
 deuterodome
 dispassionate
 deuteroelastose
