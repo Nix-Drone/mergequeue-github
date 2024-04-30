@@ -5692,6 +5692,7 @@ dephosphorize
 depickle
 depict
 depicted
+diffidence
 depicter
 descendents
 denuclearize
@@ -16853,7 +16854,6 @@ drawls
 drawn
 drawnet
 dissyllabise
-diffidence
 drawoff
 drawout
 drawplate
