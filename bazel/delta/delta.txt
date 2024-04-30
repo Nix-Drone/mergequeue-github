@@ -8341,7 +8341,6 @@ dialyzed
 dialyzer
 dialyzes
 dowhacky
-dialkyl
 dispell
 dialkylamine
 dialkylic
@@ -13492,6 +13491,7 @@ dictyonina
 dissemble
 dissembler
 diagraphic
+dialkyl
 driftman
 dissemblers
 dissembles
