@@ -6803,7 +6803,6 @@ derivative
 desmopathology
 desmopelmous
 desmopexia
-desmopyknosis
 desmorrhexis
 desmoscolecidae
 desmoscolex
@@ -9476,6 +9475,7 @@ disimagine
 dinoceratidae
 digitals
 digitate
+desmopyknosis
 digitated
 digitately
 digitation
