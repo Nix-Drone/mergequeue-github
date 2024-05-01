@@ -8503,7 +8503,6 @@ gravure
 grazable
 gastight
 grazed
-grazer
 gradus
 globated
 grayish
@@ -9197,6 +9196,7 @@ giltcup
 gnomic
 goaves
 grith
+grazer
 grithbreach
 griths
 gaolerness
