@@ -3158,6 +3158,7 @@ defames
 demihuman
 defamy
 defaming
+digraph
 defamingly
 defamous
 deadworks
@@ -9542,7 +9543,6 @@ digonous
 deaerate
 digoxins
 dulias
-digraph
 digraphically
 digraphs
 digredience
