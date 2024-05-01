@@ -4142,7 +4142,6 @@ automaton
 admissively
 alibi
 antiperistasis
-admissory
 admit
 admits
 admittable
@@ -20088,6 +20087,7 @@ aromas
 aromatic
 aromatical
 aromatically
+admissory
 aromaticity
 actinosoma
 auriscopically
