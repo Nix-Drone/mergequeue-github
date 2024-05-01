@@ -17921,7 +17921,6 @@ appositive
 appraisable
 atmans
 appraisals
-appraised
 appraisement
 appraiser
 appraisers
@@ -24911,6 +24910,7 @@ awabi
 awacs
 awadhi
 awaft
+appraised
 awag
 away
 awayness
