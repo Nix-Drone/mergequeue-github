@@ -2687,7 +2687,6 @@ barkeeps
 byelaws
 bunglesome
 barkey
-barken
 beknights
 barkentine
 barkentines
@@ -9273,6 +9272,7 @@ bypath
 bypaths
 burweed
 bipectinate
+barken
 bullishly
 brulyies
 biped
