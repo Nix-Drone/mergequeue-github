@@ -9193,7 +9193,6 @@ charwoman
 cowards
 charwomen
 chasable
-chase
 chaseable
 chased
 corbeilles
@@ -12527,6 +12526,7 @@ chromos
 chromoscope
 chromoscopy
 chromoscopic
+chase
 chromosomally
 condensate
 chromosomes
