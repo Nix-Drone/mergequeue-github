@@ -3130,7 +3130,6 @@ geomancer
 geomancy
 garnered
 gripes
-geomancies
 geomant
 geobios
 geomantic
@@ -4308,6 +4307,7 @@ gymnospermous
 gyroma
 gymnosporangium
 gymnospore
+geomancies
 gymnosporous
 gymnostomata
 gymnostomous
