@@ -8209,7 +8209,6 @@ chairer
 chairing
 chairlady
 chairladies
-chairless
 chairlift
 chairmaker
 chairmaking
@@ -31556,6 +31555,7 @@ curtilage
 curtis
 curtise
 chestiness
+chairless
 curtness
 curtnesses
 curtsey
