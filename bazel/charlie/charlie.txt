@@ -10112,6 +10112,7 @@ chesset
 chessylite
 chessist
 chessman
+compaternity
 chessmen
 chirimen
 chessner
@@ -11254,7 +11255,6 @@ chlorides
 chloridic
 chloridize
 chloridized
-compaternity
 chloryl
 carlin
 chlorimeter
