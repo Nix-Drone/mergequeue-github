@@ -1808,7 +1808,6 @@ debye
 dryopians
 debyes
 debilissima
-debilitant
 debilitates
 debilitation
 debilitations
@@ -18131,6 +18130,7 @@ dumpcart
 dioptoscopy
 dumpcarts
 dumped
+debilitant
 demerol
 dropper
 dumper
