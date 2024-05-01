@@ -2438,7 +2438,6 @@ galactoside
 genom
 gelatinity
 gelatinizability
-gelatinizable
 gelatinization
 gruppetto
 gelatinized
@@ -5033,6 +5032,7 @@ gladiole
 gladioli
 gypsyesque
 gladys
+gelatinizable
 gladite
 gladius
 gluier
