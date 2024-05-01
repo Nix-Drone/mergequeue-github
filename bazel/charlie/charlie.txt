@@ -4076,7 +4076,6 @@ cardiopyloric
 cardioplegia
 cardiopneumatic
 cardiopneumograph
-cardioptosis
 cardiopulmonary
 cardiorenal
 cardiorespiratory
@@ -4190,6 +4189,7 @@ carest
 cestracion
 caret
 caretake
+cardioptosis
 caretaker
 caretakers
 cattie
