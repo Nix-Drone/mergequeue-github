@@ -12456,7 +12456,6 @@ anecdotical
 anecdotically
 anecdotist
 anecdotists
-anechoic
 anelace
 antireducing
 adaptation
@@ -23992,6 +23991,7 @@ autodecomposition
 autodecrement
 autodecremented
 autodecrements
+anechoic
 aerodynamic
 autodepolymerization
 autodermic
