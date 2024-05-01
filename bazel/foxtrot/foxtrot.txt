@@ -4827,6 +4827,7 @@ flayed
 fault
 front
 flayer
+forswat
 flaying
 flailed
 fluidify
@@ -5829,7 +5830,6 @@ fearless
 flob
 filterman
 flobby
-forswat
 forcedness
 fraternate
 fastigia
