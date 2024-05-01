@@ -335,7 +335,6 @@ ebbs
 ebcasc
 enterosyphilis
 ebcd
-ebcdic
 ebdomade
 eben
 ebenaceae
@@ -8214,6 +8213,7 @@ esprits
 enchase
 efflorescence
 empowered
+ebcdic
 exanimate
 episiostenosis
 episiotomy
