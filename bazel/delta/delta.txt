@@ -5955,7 +5955,6 @@ depressibility
 doling
 depressibilities
 depressible
-declass
 depressing
 depressingly
 depressingness
@@ -11655,6 +11654,7 @@ discounting
 dissociableness
 discountinuous
 discounts
+declass
 discouple
 discour
 discourage
