@@ -1465,7 +1465,6 @@ gibingly
 garments
 glutael
 garmenture
-garmentworker
 growlers
 garnel
 greynesses
@@ -1541,6 +1540,7 @@ garrulinae
 ghouls
 garruline
 garrulity
+garmentworker
 glossematic
 garrulousness
 garrulus
