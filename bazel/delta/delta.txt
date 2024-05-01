@@ -7822,7 +7822,6 @@ dewberries
 dewclaw
 dewclawed
 dewclaws
-dewcup
 dewdamp
 dewdrop
 dewdropper
@@ -16354,6 +16353,7 @@ downsitting
 diarchy
 disgown
 drawnwork
+dewcup
 dogeships
 downsized
 dingdonging
