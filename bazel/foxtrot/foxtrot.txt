@@ -78,7 +78,6 @@ faces
 facesaving
 facet
 foresaying
-faceted
 facetely
 faceteness
 farther
@@ -10362,6 +10361,7 @@ frammit
 foxiness
 fimbrilla
 from
+faceted
 funiculate
 foister
 fossarian
