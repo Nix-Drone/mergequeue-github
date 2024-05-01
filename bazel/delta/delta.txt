@@ -6663,7 +6663,6 @@ desight
 design
 designable
 designado
-designate
 designates
 designation
 designatory
@@ -7258,6 +7257,7 @@ deterministic
 demodicidae
 descend
 deterministically
+designate
 duecentos
 determinists
 deterrability
