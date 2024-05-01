@@ -6539,7 +6539,6 @@ entailed
 entailer
 eggy
 entailments
-entails
 emeutes
 entalent
 entally
@@ -11960,6 +11959,7 @@ exceptive
 exceptiveness
 exceptless
 exceptor
+entails
 ephectic
 excepts
 excercise
