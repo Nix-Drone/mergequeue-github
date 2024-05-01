@@ -8753,7 +8753,6 @@ equiproportional
 equiproportionality
 equips
 ethnolinguist
-equipt
 equiradial
 echo
 equiradical
@@ -9220,6 +9219,7 @@ exultance
 erythroxylon
 erythroxylum
 erythrozyme
+equipt
 eritrean
 endothermism
 erizo
