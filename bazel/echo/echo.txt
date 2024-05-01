@@ -3023,7 +3023,6 @@ elytroid
 elytroposis
 elytrorhagia
 elytrorrhagia
-elytrorrhaphy
 elytrostenosis
 elytrotomy
 elytrtra
@@ -13410,6 +13409,7 @@ expunged
 expunger
 expungers
 expunging
+elytrorrhaphy
 expurgate
 expurgated
 expurgating
