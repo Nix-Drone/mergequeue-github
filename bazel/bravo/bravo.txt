@@ -1959,7 +1959,6 @@ barramundas
 bandits
 banditti
 bandle
-bandleader
 bandless
 bejabers
 bodrag
@@ -5350,6 +5349,7 @@ begowk
 begowned
 buyable
 benchboard
+bandleader
 begray
 begrain
 begrave
