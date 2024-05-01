@@ -4192,7 +4192,6 @@ gasterosteoid
 gim
 gimbal
 gimbaled
-gimballed
 groundsheet
 groining
 guildry
@@ -7711,6 +7710,7 @@ grafts
 graham
 gobangs
 grahamism
+gimballed
 grorudite
 gormed
 glaciolacustrine
