@@ -1067,6 +1067,7 @@ darted
 darters
 dartingly
 dartingness
+dependant
 dartle
 dartled
 dartles
@@ -5632,7 +5633,6 @@ dependabilities
 dependableness
 dependably
 dependance
-dependant
 dependantly
 depended
 dependence
