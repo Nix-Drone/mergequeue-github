@@ -8459,7 +8459,6 @@ alkanes
 alkanet
 accurateness
 alkanethiol
-alkanets
 alkanna
 alkannin
 alkanol
@@ -9583,6 +9582,7 @@ antimonious
 arrhal
 aluminite
 aluminium
+alkanets
 aluminize
 aluminized
 aluminizes
