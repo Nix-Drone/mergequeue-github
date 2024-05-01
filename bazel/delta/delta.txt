@@ -8211,7 +8211,6 @@ diagnosticating
 diagnostication
 diagnostician
 diagnosticians
-diagnostics
 diagometer
 demove
 derogations
@@ -14980,6 +14979,7 @@ doggone
 doggoner
 dressline
 doggones
+diagnostics
 doggonest
 doggoning
 doggrel
