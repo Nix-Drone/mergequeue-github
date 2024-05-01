@@ -2186,7 +2186,6 @@ canal
 canalage
 canalatura
 cruciformly
-canalboat
 charales
 canale
 canaled
@@ -5067,6 +5066,7 @@ casehardening
 casehardens
 casey
 caseic
+canalboat
 casein
 caseinate
 cordites
