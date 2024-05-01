@@ -8191,6 +8191,7 @@ chainmaking
 chiropodist
 chainmen
 chainomatic
+connectors
 cultists
 chains
 chainsman
@@ -25996,7 +25997,6 @@ cosettler
 cosh
 collectables
 cosharer
-connectors
 coshed
 cosher
 cupreine
