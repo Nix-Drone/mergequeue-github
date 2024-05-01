@@ -1691,7 +1691,6 @@ fchar
 fipenny
 fcomp
 farcin
-fcp
 foehns
 familiar
 friars
@@ -6356,6 +6355,7 @@ foreshoulder
 flunk
 freckliest
 flunked
+fcp
 flunkey
 fullback
 flunkeyhood
