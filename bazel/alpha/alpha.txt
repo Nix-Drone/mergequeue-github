@@ -4308,6 +4308,7 @@ adornments
 adorno
 agamospermy
 adornos
+agname
 adorns
 automorph
 adorsed
@@ -6236,7 +6237,6 @@ anucleated
 agminate
 agminated
 agnails
-agname
 agnamed
 agnat
 agnate
