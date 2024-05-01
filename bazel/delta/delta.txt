@@ -12854,6 +12854,7 @@ dorhawk
 disordained
 disordeine
 disordered
+displayable
 dopant
 disorderer
 drey
@@ -13102,7 +13103,6 @@ displacements
 diminuted
 displacing
 display
-displayable
 displayed
 displayer
 displaying
