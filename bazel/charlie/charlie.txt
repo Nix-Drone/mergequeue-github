@@ -1628,7 +1628,6 @@ calpac
 calpack
 calpacked
 calpacks
-calpacs
 calpolli
 calpul
 calpulli
@@ -25905,6 +25904,7 @@ cortile
 cinerary
 cortina
 cortinae
+calpacs
 cortinarious
 cortinarius
 cortinate
