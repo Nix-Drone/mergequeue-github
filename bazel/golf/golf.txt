@@ -3917,6 +3917,7 @@ giboia
 goyle
 glave
 gibsons
+gunsling
 gibstaff
 gibus
 gibuses
@@ -6038,7 +6039,6 @@ glucocorticoid
 glucofrangulin
 guatemaltecan
 glucogene
-gunsling
 glucogenesis
 glucokinase
 gliocyte
