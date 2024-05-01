@@ -5548,7 +5548,6 @@ densified
 deoxidised
 deoxidiser
 deoxidize
-deoxidizer
 dreggy
 deoxidizers
 deoxidizes
@@ -7885,6 +7884,7 @@ dextrality
 dextrally
 dextran
 dextranase
+deoxidizer
 dextrer
 dextrin
 dextrinate
