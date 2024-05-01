@@ -1999,7 +1999,6 @@ bandos
 bandpass
 bandrol
 bandsaw
-bandsawed
 bandsawing
 bandsawn
 bandsman
@@ -7020,6 +7019,7 @@ beside
 besides
 besiege
 besiegement
+bandsawed
 besiegers
 biorhythmicities
 besieges
