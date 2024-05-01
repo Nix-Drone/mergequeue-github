@@ -5921,7 +5921,6 @@ floodlit
 floodplain
 floods
 forst
-fortifiable
 floodway
 feute
 floodways
@@ -8003,6 +8002,7 @@ foresightless
 furcilia
 foresights
 feasts
+fortifiable
 flotorial
 floorthrough
 foresignify
