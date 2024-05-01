@@ -3325,6 +3325,7 @@ faery
 froglet
 fidge
 fidged
+foldout
 fidges
 frameable
 fidget
@@ -6839,7 +6840,6 @@ ferkin
 foldless
 foraminiferan
 fikery
-foldout
 foldouts
 folds
 foldure
