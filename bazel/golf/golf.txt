@@ -3031,7 +3031,6 @@ gentes
 geochemists
 geochrony
 geochronology
-geochronological
 geocyclic
 geocline
 griskin
@@ -4339,6 +4338,7 @@ gynaecic
 gynaecium
 gynaecocracy
 gynaecocrat
+geochronological
 gynaecoid
 gynaecol
 gois
