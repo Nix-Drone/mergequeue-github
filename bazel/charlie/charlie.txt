@@ -9923,7 +9923,6 @@ chemoserotherapy
 chemoses
 chemosynthesis
 chemosynthetic
-chemosis
 chemosmoic
 chemosmoses
 chemosmotic
@@ -23031,6 +23030,7 @@ consoude
 consound
 conspecies
 conspecific
+chemosis
 conspecifics
 conspect
 conspection
