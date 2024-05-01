@@ -1498,7 +1498,6 @@ deadener
 deadeners
 deadening
 deadeningly
-deadfall
 dyssodia
 deadfalls
 dures
@@ -15858,6 +15857,7 @@ dort
 dorter
 diamondize
 dorty
+deadfall
 dortiness
 dortiship
 dortour
