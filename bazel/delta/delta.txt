@@ -8196,7 +8196,6 @@ diaglyph
 diaglyphic
 ductus
 diaglyptic
-diagnosable
 diagnose
 dipus
 diagnosed
@@ -9722,6 +9721,7 @@ dilettantism
 denying
 dilettantist
 displeased
+diagnosable
 denizate
 dilettantship
 diligence
