@@ -580,7 +580,6 @@ encrimson
 echinomys
 erythrene
 echinopanax
-echinops
 echinopsine
 egotist
 echinorhynchus
@@ -13207,6 +13206,7 @@ exploders
 explodes
 exploit
 ecumenics
+echinops
 exploitable
 exploitation
 exploitationist
