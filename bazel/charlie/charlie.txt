@@ -8807,6 +8807,7 @@ chapeless
 chapelet
 chapelgoer
 crenelle
+coing
 chapelgoing
 chapeling
 chapelize
@@ -18534,7 +18535,6 @@ coinferred
 coinferring
 coinfers
 coinfinity
-coing
 ceroma
 coinhabitor
 coinhere
