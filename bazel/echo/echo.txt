@@ -11606,7 +11606,6 @@ evocable
 evocated
 edital
 evocating
-evocation
 evocations
 evocative
 encodement
@@ -12630,6 +12629,7 @@ exoclinal
 exocline
 expensive
 exocoelar
+evocation
 exocoele
 eradiated
 exocoelic
