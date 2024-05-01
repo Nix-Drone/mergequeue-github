@@ -5816,7 +5816,6 @@ dwt
 deponing
 depopularize
 depopulates
-depopulating
 depopulation
 depopulative
 decastich
@@ -7374,6 +7373,7 @@ detrudes
 driblet
 distalia
 detruding
+depopulating
 detruncate
 detruncating
 detruncation
