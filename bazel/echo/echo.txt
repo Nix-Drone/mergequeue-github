@@ -3888,6 +3888,7 @@ emulator
 emforth
 emic
 emicant
+entomofauna
 emicate
 emication
 emyde
@@ -6887,7 +6888,6 @@ elia
 entomere
 entomic
 entomical
-entomofauna
 entomogenous
 emmantle
 entomol
