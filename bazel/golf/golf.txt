@@ -6312,6 +6312,7 @@ gnomical
 gnomide
 gastroid
 gnomish
+gid
 gnomist
 gabert
 gnomologic
@@ -6434,7 +6435,6 @@ gobbledegook
 gobbledygook
 gobbler
 gormandiser
-gid
 gobbles
 gobbling
 gobelin
