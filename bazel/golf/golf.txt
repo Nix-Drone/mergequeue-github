@@ -4802,7 +4802,6 @@ gyrons
 gyrophoraceae
 gyrophoraceous
 giros
-gyroscope
 galeopithecus
 gyroscopes
 gyroscopics
@@ -8565,6 +8564,7 @@ greatening
 greatens
 greater
 geostatics
+gyroscope
 greathead
 garbages
 greathearted
