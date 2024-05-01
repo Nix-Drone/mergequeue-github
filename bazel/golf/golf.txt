@@ -4015,6 +4015,7 @@ gigaton
 gigatons
 gigavolt
 gigawatt
+grade
 gills
 gutser
 goldenfleece
@@ -7625,7 +7626,6 @@ geospiza
 gradationally
 gradationately
 gradatively
-grade
 guptavidya
 graded
 gentlewomanly
