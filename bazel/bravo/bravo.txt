@@ -2818,7 +2818,6 @@ bobberies
 baroness
 baronesses
 baronet
-baronetage
 beswelter
 baronetcy
 baronetcies
@@ -8542,6 +8541,7 @@ bilder
 bilders
 bilection
 bilertinned
+baronetage
 biles
 belve
 bilestone
