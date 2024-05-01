@@ -3171,7 +3171,6 @@ ethanedial
 ethnographist
 else
 endemic
-elsehow
 elseways
 elsewhat
 elsewhen
@@ -10399,6 +10398,7 @@ ethmomaxillary
 ethmonasal
 effacer
 ethmopalatal
+elsehow
 ethmopalatine
 ethmophysal
 ethmopresphenoidal
