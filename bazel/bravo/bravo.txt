@@ -2800,7 +2800,6 @@ barolong
 baromacrometer
 barometer
 boroughship
-barometry
 barometric
 barometrical
 beelzebub
@@ -9195,6 +9194,7 @@ bionomical
 biostatic
 biostatistic
 biostatistics
+barometry
 bungmaker
 barleybird
 biosterin
