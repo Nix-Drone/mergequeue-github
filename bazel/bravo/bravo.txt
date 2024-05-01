@@ -5419,7 +5419,6 @@ behammer
 behang
 behap
 behav
-behave
 behaved
 behaver
 bicollateral
@@ -10758,6 +10757,7 @@ blepharoptosis
 blepharorrhaphy
 blepharosymphysis
 blepharosyndesmitis
+behave
 blotching
 blepharosynechia
 blepharospasm
