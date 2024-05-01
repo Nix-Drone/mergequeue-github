@@ -20347,6 +20347,7 @@ arrowlike
 arrowplate
 automolite
 arrowroots
+atomicism
 arrows
 arrowsmith
 arrowstone
@@ -22754,7 +22755,6 @@ atomical
 atomically
 atomician
 ahnfeltia
-atomicism
 arciferous
 atomicity
 atomies
