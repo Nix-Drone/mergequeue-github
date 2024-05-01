@@ -2206,7 +2206,6 @@ gazebos
 gazed
 galla
 gazeful
-gazeless
 gazella
 gazellelike
 gazelline
@@ -9068,6 +9067,7 @@ grimnesses
 griping
 grimoire
 gainstand
+gazeless
 grimp
 grimsir
 grimsire
