@@ -2561,7 +2561,6 @@ barfs
 bargain
 bargainable
 billbugs
-bargainee
 bargainer
 bargaining
 bargainor
@@ -5231,6 +5230,7 @@ bunkmate
 bilingualism
 begarlanded
 ballistocardiographic
+bargainee
 begarnish
 begartered
 begass
