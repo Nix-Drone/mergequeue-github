@@ -2317,6 +2317,7 @@ fencelet
 fenceplay
 fencepost
 fenceress
+fetch
 fencers
 freeborn
 firebricks
@@ -11641,7 +11642,6 @@ fusspot
 funditor
 fusspots
 fustanelle
-fetch
 fusteric
 fioretti
 fustet
