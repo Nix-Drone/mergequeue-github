@@ -4157,7 +4157,6 @@ delimiters
 delimiting
 displumed
 delimitize
-delimitized
 delimitizing
 delimits
 deline
@@ -6746,6 +6745,7 @@ desk
 deskbound
 deskill
 desklike
+delimitized
 deskman
 deskmen
 desks
