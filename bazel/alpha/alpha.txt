@@ -14292,7 +14292,6 @@ allopathies
 anterooms
 anteroparietal
 anteropygal
-anteroposterior
 anterospinal
 antes
 antescript
@@ -23116,6 +23115,7 @@ attingency
 attingent
 attirail
 attire
+anteroposterior
 attired
 attirer
 attires
