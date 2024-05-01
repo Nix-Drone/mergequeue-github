@@ -1328,7 +1328,6 @@ effable
 emacerate
 efface
 effaceable
-effaced
 effacement
 effacers
 effaces
@@ -8151,6 +8150,7 @@ epirote
 epirotic
 epirrheme
 electrochronographic
+effaced
 exothermicity
 episarcine
 episarkine
