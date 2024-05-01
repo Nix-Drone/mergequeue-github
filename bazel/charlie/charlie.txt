@@ -4631,6 +4631,7 @@ carpeting
 carpetlayer
 carpetless
 carpetmaker
+cobbra
 carpetmaking
 carpetmonger
 carpets
@@ -17401,7 +17402,6 @@ cobblestoned
 cobblestones
 cobbly
 cobbling
-cobbra
 cobbs
 chloritoid
 corsetier
