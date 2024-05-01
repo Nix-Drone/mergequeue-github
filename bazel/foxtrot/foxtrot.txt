@@ -4178,7 +4178,6 @@ firecrackers
 farness
 firedamp
 feezing
-firedamps
 firedog
 firedragon
 footnotes
@@ -8300,6 +8299,7 @@ forints
 forisfamiliate
 forisfamiliation
 forjaskit
+firedamps
 forjesket
 forjudge
 foujdar
