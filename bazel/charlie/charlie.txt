@@ -4121,7 +4121,6 @@ cardoon
 cardoons
 cardophagus
 cardosanto
-cardplaying
 cardroom
 cards
 clearwing
@@ -9841,6 +9840,7 @@ chemicoluminescent
 chemicomechanical
 chemicomineralogical
 chemicopharmaceutical
+cardplaying
 chemicophysical
 chemicophysics
 chemicophysiological
