@@ -514,7 +514,6 @@ galera
 galere
 galericulate
 galerie
-galerum
 galerus
 gales
 galesaur
@@ -6236,6 +6235,7 @@ girr
 gnat
 gnatflower
 gnathal
+galerum
 gnathidium
 gnathite
 gunyah
