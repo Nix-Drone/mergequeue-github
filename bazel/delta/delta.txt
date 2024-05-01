@@ -7387,7 +7387,6 @@ dissocialize
 detumescent
 detune
 detuned
-detuning
 detur
 deturn
 deturpate
@@ -8181,6 +8180,7 @@ diadrome
 diadromous
 dioti
 diadumenus
+detuning
 diaene
 diaereses
 diaeresis
