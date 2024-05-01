@@ -4415,6 +4415,7 @@ adsessor
 adsheart
 adsignify
 adsmith
+armarian
 adsmithing
 adsorb
 ametabolism
@@ -19890,7 +19891,6 @@ armangite
 armary
 armaria
 aminovaleric
-armarian
 adaptivity
 armariolum
 arpanet
