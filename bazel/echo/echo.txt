@@ -780,7 +780,6 @@ ecoute
 ecphonema
 expansivity
 euplastic
-ecphorable
 ecphore
 ecphoria
 ecphoriae
@@ -4778,6 +4777,7 @@ enclitical
 encycl
 enclitics
 encloak
+ecphorable
 eclipsis
 encloister
 enclose
