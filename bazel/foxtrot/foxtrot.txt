@@ -1082,6 +1082,7 @@ farmeries
 farmerish
 farmerly
 farmerlike
+fineries
 farmership
 farmhold
 farmhouse
@@ -3593,7 +3594,6 @@ futurable
 filch
 filched
 francophobe
-fineries
 flagmaking
 filcher
 faventine
