@@ -4109,7 +4109,6 @@ bom
 beam
 beambird
 beamed
-beamer
 beamers
 beamfilling
 beamful
@@ -11191,6 +11190,7 @@ blotless
 blotlessness
 blots
 beaker
+beamer
 blotted
 blotter
 blotters
