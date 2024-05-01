@@ -8832,7 +8832,6 @@ chaperoned
 chaperonless
 chaperons
 chapes
-chapfallen
 chapfallenly
 chapin
 chapiter
@@ -23343,6 +23342,7 @@ containerboard
 containerization
 containerize
 containerizes
+chapfallen
 containerizing
 chemasthenia
 containerport
