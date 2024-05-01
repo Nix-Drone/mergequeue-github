@@ -2642,7 +2642,6 @@ electrosurgery
 elaeocarpaceous
 eleutherodactyli
 electrosurgeries
-electrosurgical
 electrotactic
 electrotautomerism
 enrail
@@ -6975,6 +6974,7 @@ entothorax
 entotympanic
 ebullioscope
 entotrophi
+electrosurgical
 enterokinetic
 entourage
 entourages
