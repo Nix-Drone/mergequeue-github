@@ -9947,6 +9947,7 @@ chemotaxis
 chemotaxonomy
 chemotaxonomic
 chemotaxonomically
+citigrade
 cannular
 comma
 carices
@@ -14833,7 +14834,6 @@ citifies
 citifying
 cityfolk
 citigradae
-citigrade
 cityish
 cigale
 crimes
