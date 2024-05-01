@@ -2463,7 +2463,6 @@ griffinish
 glamourousness
 geldant
 goodnesses
-gelded
 gelder
 gelders
 gobmouthed
@@ -5572,6 +5571,7 @@ glyptic
 glyptician
 glyptics
 gibli
+gelded
 gunl
 glyptodon
 glyptodont
