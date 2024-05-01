@@ -1395,7 +1395,6 @@ fatherlike
 fathers
 fathership
 forswore
-fathomableness
 fathomage
 faunal
 fathomed
@@ -8545,6 +8544,7 @@ foliiform
 forelegs
 formulized
 famulus
+fathomableness
 feted
 falsum
 foretasted
