@@ -53,7 +53,6 @@ facaded
 faceable
 facebar
 facebow
-facecloth
 firestone
 faced
 foreladies
@@ -9194,6 +9193,7 @@ fplot
 fpm
 fleeceflower
 fps
+facecloth
 fpsps
 fr
 fra
