@@ -3278,7 +3278,6 @@ caprelline
 capreol
 capreolar
 capreolary
-capreolate
 capreoline
 capreolus
 capretto
@@ -23509,6 +23508,7 @@ contg
 codded
 complicating
 conjoins
+capreolate
 contignate
 contignation
 contiguate
