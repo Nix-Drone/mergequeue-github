@@ -9269,7 +9269,6 @@ bypass
 bypassed
 bypasser
 bypassing
-bypath
 bypaths
 burweed
 bipectinate
@@ -12679,6 +12678,7 @@ bookmark
 begarie
 bookmarker
 borderline
+bypath
 bookmarks
 bookmate
 bookmobile
