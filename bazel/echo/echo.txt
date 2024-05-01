@@ -1302,7 +1302,6 @@ eellike
 eelpout
 eelpouts
 emblemology
-eelshop
 eelskin
 eelware
 eelworm
@@ -8891,6 +8890,7 @@ erectable
 erected
 exclusionist
 erecter
+eelshop
 erecters
 erectile
 erectility
