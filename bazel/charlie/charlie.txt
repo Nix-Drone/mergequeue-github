@@ -11472,7 +11472,6 @@ choiceful
 choiceless
 cambrics
 choicelessness
-choicely
 choiceness
 caryatides
 choicer
@@ -22559,6 +22558,7 @@ connect
 connectable
 connected
 connectedly
+choicely
 centauries
 connecter
 connectibility
