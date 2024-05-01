@@ -2755,6 +2755,7 @@ canso
 cansos
 congenialize
 canst
+castellum
 canstick
 cant
 cantabank
@@ -5297,7 +5298,6 @@ castellation
 castellatus
 castellet
 castelli
-castellum
 casten
 caster
 casterless
