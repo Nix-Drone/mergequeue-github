@@ -4013,7 +4013,6 @@ adjurations
 analogia
 adjuratory
 adjured
-adjures
 autotyphization
 adjuring
 adjurors
@@ -17299,6 +17298,7 @@ apologizer
 arabesquely
 apologizing
 apologs
+adjures
 apologue
 apologues
 apolousis
