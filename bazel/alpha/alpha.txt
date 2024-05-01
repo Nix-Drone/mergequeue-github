@@ -20008,7 +20008,6 @@ armorplated
 aplopappus
 armorproof
 armors
-armouchiquois
 armour
 armourbearer
 armoured
@@ -25259,6 +25258,7 @@ azilut
 azyme
 azimech
 azimene
+armouchiquois
 antepenultima
 academus
 acier
