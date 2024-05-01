@@ -13950,7 +13950,6 @@ distream
 distress
 distressed
 distressedly
-distressedness
 distressful
 deformer
 distressing
@@ -15246,6 +15245,7 @@ dolorogenic
 dolorous
 divergingly
 dolorousness
+distressedness
 dolors
 dolos
 dolose
