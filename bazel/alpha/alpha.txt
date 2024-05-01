@@ -3726,7 +3726,6 @@ adenophore
 adenophorous
 accumulative
 adenopodous
-adenosarcoma
 adenosarcomas
 adenosclerosis
 adenose
@@ -12210,6 +12209,7 @@ ancients
 ancile
 ancilla
 ancillae
+adenosarcoma
 ancillary
 ancillaries
 aulostomidae
