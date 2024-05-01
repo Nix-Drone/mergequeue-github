@@ -8921,7 +8921,6 @@ characteristics
 characterizable
 characterization
 characterizations
-characterize
 characterizer
 characterizers
 characterizes
@@ -9462,6 +9461,7 @@ cheapest
 cheapies
 cheaping
 cheapish
+characterize
 counterdiscipline
 cheaply
 cheapness
