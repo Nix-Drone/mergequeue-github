@@ -656,7 +656,6 @@ faltered
 falterer
 faltering
 falteringly
-falters
 falutin
 falx
 fringefoot
@@ -4375,6 +4374,7 @@ fishfinger
 fluxionary
 flashet
 fishful
+falters
 fishgarth
 fishgrass
 fishhood
