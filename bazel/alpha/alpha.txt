@@ -830,7 +830,6 @@ abrico
 abricock
 abricot
 abridgable
-abridgeable
 abridged
 anisotropical
 abridgement
@@ -20181,6 +20180,7 @@ arrange
 arrangeable
 arranged
 arrangement
+abridgeable
 arrangements
 aesthetician
 arranger
