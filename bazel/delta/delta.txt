@@ -5733,7 +5733,6 @@ deplace
 deplaceable
 deplane
 deplaned
-deplaning
 deplant
 deplantation
 deplasmolysis
@@ -6348,6 +6347,7 @@ dejeune
 dermophobe
 despatchers
 dermoptera
+deplaning
 disherit
 decarbonylated
 dermopteran
