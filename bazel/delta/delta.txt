@@ -6266,7 +6266,6 @@ dermatomycosis
 dermatomyoma
 dermatomuscular
 dermatoneural
-dermatoneurology
 dermatoneurosis
 dustuck
 dermatonosus
@@ -12136,6 +12135,7 @@ disflesh
 disoccupation
 disfoliage
 disfoliaged
+dermatoneurology
 disforest
 disforestation
 disformity
