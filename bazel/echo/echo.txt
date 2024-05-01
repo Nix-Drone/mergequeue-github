@@ -9759,7 +9759,6 @@ espacement
 espada
 espadon
 espadrilles
-endamaged
 espagnole
 entitles
 espagnolette
@@ -11258,6 +11257,7 @@ evacuees
 evadable
 evade
 evaded
+endamaged
 evader
 encounterers
 electroergometer
