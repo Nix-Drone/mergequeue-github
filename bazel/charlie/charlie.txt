@@ -11892,7 +11892,6 @@ chordamesoderm
 chordamesodermal
 chordamesodermic
 chordata
-chordate
 chordates
 chorded
 chordee
@@ -19460,6 +19459,7 @@ colourize
 colourless
 colourlessness
 colourman
+chordate
 colours
 colourtype
 colp
