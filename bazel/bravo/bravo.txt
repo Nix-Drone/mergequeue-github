@@ -3480,6 +3480,7 @@ basters
 bastide
 briefed
 bastile
+brewers
 bastiles
 bastille
 bastilles
@@ -15105,7 +15106,6 @@ bogier
 butchering
 brewery
 breweries
-brewers
 brewership
 brewhouse
 beguilingness
