@@ -500,7 +500,6 @@ ganglia
 galeodidae
 galeoid
 gnapweed
-galeopsis
 glossoncus
 galeorchis
 goner
@@ -3778,6 +3777,7 @@ grannom
 glossologies
 ghostism
 gowdnook
+galeopsis
 gadgeteer
 ghostland
 glucide
