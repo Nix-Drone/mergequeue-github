@@ -3815,7 +3815,6 @@ deice
 deicers
 deicidal
 deicides
-deicing
 deictical
 deictically
 deidealize
@@ -17586,6 +17585,7 @@ drumfire
 drumfires
 daniglacial
 decuman
+deicing
 drumhead
 drunken
 drumler
