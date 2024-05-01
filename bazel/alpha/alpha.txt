@@ -6877,6 +6877,7 @@ airfoil
 airfoils
 airframe
 airglow
+anthropomorphise
 airglows
 acondylous
 airgraph
@@ -14609,7 +14610,6 @@ anthropomorphically
 arthrocele
 anthropomorphidae
 anthropomorphisation
-anthropomorphise
 anthropomorphised
 admirability
 anthropomorphisms
