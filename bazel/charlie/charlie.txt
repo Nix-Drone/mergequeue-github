@@ -9733,7 +9733,6 @@ cimex
 chromotype
 cheiranthus
 cheirogaleus
-cheiroglossa
 cheirognomy
 cheirography
 cheirolin
@@ -14877,6 +14876,7 @@ cytoblast
 confidences
 cytoblastema
 cytoblastemal
+cheiroglossa
 cytoblastematous
 cytoblastemous
 cytocentrum
