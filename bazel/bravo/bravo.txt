@@ -1967,7 +1967,6 @@ blastoff
 bandlet
 bandlimited
 breadwinners
-bandlimiting
 bandlimits
 bandman
 bandmaster
@@ -14024,6 +14023,7 @@ brachiopode
 brachiopodist
 bureaucratese
 baraca
+bandlimiting
 brachioradialis
 brachiorrheuma
 brachiosaur
