@@ -15918,7 +15918,6 @@ cleidohyoid
 cleidoic
 cleidomancy
 cleidomastoid
-cleidorrhexis
 checkerbelly
 chiripa
 cleidoscapular
@@ -23243,6 +23242,7 @@ consultable
 commote
 consultant
 consultants
+cleidorrhexis
 consultantship
 consultary
 consultation
