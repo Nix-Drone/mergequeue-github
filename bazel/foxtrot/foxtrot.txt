@@ -6155,6 +6155,7 @@ fulicinae
 flowcharts
 finality
 foldstool
+fragmentalize
 flowcontrol
 flanche
 flowed
@@ -9290,7 +9291,6 @@ fragment
 floorhead
 fragmental
 fumously
-fragmentalize
 fragmentally
 fragmentary
 fragmentarily
