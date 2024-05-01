@@ -850,7 +850,6 @@ baffleplate
 bafflers
 baffles
 breakbones
-baffling
 bafflingly
 burls
 brunswick
@@ -13135,6 +13134,7 @@ breadthless
 boshes
 boshvark
 boshvarks
+baffling
 bosjesman
 bosk
 boskage
