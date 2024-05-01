@@ -5307,7 +5307,6 @@ addio
 affiliate
 affiliated
 affiliating
-affiliation
 affiliations
 apery
 abohm
@@ -7728,6 +7727,7 @@ aldermanries
 aldermanship
 aldermen
 aldern
+affiliation
 alderney
 alders
 alderwomen
