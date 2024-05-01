@@ -15431,7 +15431,6 @@ clansmen
 clanswoman
 cyprinodontidae
 clanswomen
-claosaurus
 clap
 clapboarding
 clapboards
@@ -29804,6 +29803,7 @@ cross
 crossability
 crossable
 crossarms
+claosaurus
 calculate
 crossband
 crossbanded
