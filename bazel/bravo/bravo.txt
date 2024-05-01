@@ -2671,7 +2671,6 @@ byres
 bedaff
 barytons
 barytophyllite
-barytosulphate
 bridgelike
 barkan
 bizarrely
@@ -13830,6 +13829,7 @@ bowsprit
 bowsprits
 brokenhearted
 bowstave
+barytosulphate
 bowstring
 bowstringed
 bowstrings
