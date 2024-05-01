@@ -2945,6 +2945,7 @@ feudovassalism
 format
 feuds
 flagonless
+fldxt
 furazane
 formularism
 frustums
@@ -5291,7 +5292,6 @@ flche
 flchette
 flimflam
 fld
-fldxt
 flea
 fiscalize
 flimmer
