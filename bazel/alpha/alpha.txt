@@ -23582,7 +23582,6 @@ auriculidae
 auriculocranial
 auriculoid
 auriculoparietal
-anticreation
 auriculovertical
 auride
 auriferous
@@ -24505,6 +24504,7 @@ auxesis
 auxetic
 auxil
 antacids
+anticreation
 auxiliar
 auxiliary
 agriology
