@@ -7309,7 +7309,6 @@ gossaniferous
 gossans
 gossard
 gossep
-geomechanics
 goujay
 gossy
 grills
@@ -7769,6 +7768,7 @@ grayouts
 glimpse
 greenhorn
 gainable
+geomechanics
 graysby
 goggled
 graisse
