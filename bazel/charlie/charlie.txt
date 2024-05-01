@@ -4758,7 +4758,6 @@ cinchonicin
 carriageway
 carryall
 carrick
-carrycot
 carrie
 carryed
 carrier
@@ -14937,6 +14936,7 @@ cytolytic
 cytology
 cytologically
 cytologist
+carrycot
 coranoch
 cytologists
 caperdewsie
