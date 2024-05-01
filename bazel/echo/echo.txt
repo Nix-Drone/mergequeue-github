@@ -7517,7 +7517,6 @@ ephemerides
 ephemeris
 ephemeromorph
 ephemeromorphic
-ephemeron
 ephemeroptera
 eigne
 ephemerous
@@ -7970,6 +7969,7 @@ epilogize
 erosible
 epinasty
 epilogized
+ephemeron
 epilogizing
 estheses
 epilogued
