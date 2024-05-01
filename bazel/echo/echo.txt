@@ -4184,7 +4184,6 @@ employee
 employees
 employer
 exedral
-employers
 employment
 enthymeme
 entastic
@@ -9595,6 +9594,7 @@ escorts
 escot
 escoted
 endoneurial
+employers
 escoting
 enright
 escots

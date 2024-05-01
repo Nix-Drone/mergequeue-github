@@ -912,6 +912,7 @@ guillemot
 gamble
 gambler
 gamblesome
+guessworker
 gamblesomeness
 genseng
 gambling
@@ -10193,7 +10194,6 @@ guildhall
 guilds
 guildship
 guildsmen
-guessworker
 guile
 guileful
 gyroscopic
