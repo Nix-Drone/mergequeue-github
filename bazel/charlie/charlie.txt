@@ -8599,6 +8599,7 @@ chancelled
 chancellery
 chancelleries
 chancellor
+crance
 chancellorate
 chancelloress
 chancellory
@@ -27071,7 +27072,6 @@ cardialgic
 countershine
 countershout
 counterside
-crance
 countersign
 countersignature
 countersignatures
