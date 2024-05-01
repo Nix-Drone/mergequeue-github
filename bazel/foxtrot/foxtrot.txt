@@ -2925,7 +2925,6 @@ feudalize
 fratching
 feudalized
 feudalizing
-feudary
 fantastical
 feudaries
 feudatary
@@ -6214,6 +6213,7 @@ flayers
 fulling
 fluorogenic
 fluctisonant
+feudary
 fluctuable
 fluctuant
 fundholder

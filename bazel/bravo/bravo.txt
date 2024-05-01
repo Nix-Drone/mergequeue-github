@@ -2074,7 +2074,6 @@ banished
 banisher
 banishing
 banishment
-banister
 banisters
 bursting
 banyuls
@@ -13376,6 +13375,7 @@ baryons
 bottlebrush
 bottled
 bottleflower
+banister
 bottleful
 burdies
 bdellotomy
