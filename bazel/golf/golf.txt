@@ -2649,7 +2649,6 @@ gendarmerie
 gendarmes
 gender
 genderer
-genders
 ghoulie
 geneal
 genealogic
@@ -9537,6 +9536,7 @@ genitival
 gruels
 grovellingly
 grovellings
+genders
 grovers
 groves
 grovet
