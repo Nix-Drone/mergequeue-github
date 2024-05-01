@@ -7854,7 +7854,6 @@ alemmal
 alen
 alencon
 alencons
-arrayers
 alenge
 alength
 autacoid
@@ -9730,6 +9729,7 @@ amalgamate
 attackable
 amalgamates
 amalgamating
+arrayers
 antimonarchical
 amalgamation
 amalgamationist
