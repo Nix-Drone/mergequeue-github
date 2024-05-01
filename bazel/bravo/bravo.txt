@@ -11563,6 +11563,7 @@ boars
 boarship
 boarskin
 boarspear
+bowmaker
 boart
 boarts
 boarwood
@@ -13808,7 +13809,6 @@ bowlings
 bowllike
 bowlmaker
 bacalaos
-bowmaker
 bowman
 brambleberries
 bowsman
