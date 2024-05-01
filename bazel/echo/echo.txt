@@ -5878,7 +5878,6 @@ enhelm
 elysia
 enhemospore
 enherit
-enheritance
 enhydra
 eyewear
 euphemism
@@ -7152,6 +7151,7 @@ enveil
 ecthymata
 envelope
 enveloped
+enheritance
 enveloper
 exurbanites
 envelopers
