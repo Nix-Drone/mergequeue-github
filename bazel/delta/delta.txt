@@ -6519,7 +6519,6 @@ divorce
 deadmen
 descries
 descript
-description
 dogsled
 descriptionless
 descriptive
@@ -6940,6 +6939,7 @@ desponder
 desponding
 despondingly
 desponds
+description
 desponsage
 despose
 dragontail
