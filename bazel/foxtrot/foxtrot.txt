@@ -3265,7 +3265,6 @@ functorial
 fidawi
 feff
 fiddle
-fiddlebow
 fiddlecome
 fiddled
 fiddlededee
@@ -7894,6 +7893,7 @@ foreprize
 foreproduct
 foreproffer
 forepromise
+fiddlebow
 forepromised
 foreprovided
 foreprovision
