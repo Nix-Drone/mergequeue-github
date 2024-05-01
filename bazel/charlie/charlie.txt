@@ -4078,7 +4078,6 @@ cardiopneumatic
 cardiopneumograph
 cardioptosis
 cardiopulmonary
-cardiorenal
 cardiorespiratory
 cardiorrhaphy
 cardiorrheuma
@@ -15290,6 +15289,7 @@ claire
 clairecole
 clairecolle
 catamneses
+cardiorenal
 claires
 clairseach
 cloisteral
