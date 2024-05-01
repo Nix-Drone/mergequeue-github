@@ -3830,7 +3830,6 @@ edged
 emeras
 emerged
 emergence
-emergences
 emergencies
 emergentness
 emergents
@@ -9205,6 +9204,7 @@ electroretinograph
 exploding
 erythrorrhexis
 erythroscope
+emergences
 erythrosiderite
 erythrosin
 exochorda
