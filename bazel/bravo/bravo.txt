@@ -556,7 +556,6 @@ backups
 backus
 backveld
 backvelder
-backway
 backwall
 bewhite
 backward
@@ -17636,6 +17635,7 @@ burggrave
 bitumed
 burgh
 burghal
+backway
 burghalpenny
 burgher
 burgherage
