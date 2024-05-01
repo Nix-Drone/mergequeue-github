@@ -3314,7 +3314,6 @@ caprifolium
 capriform
 caprigenous
 capryl
-caprylate
 caprylene
 caprylic
 caprylyl
@@ -13023,6 +13022,7 @@ compartmentally
 cyanocobalamine
 cyanocrystallin
 cyanoderma
+caprylate
 cyanoethylate
 cyanoethylation
 cataphasia
