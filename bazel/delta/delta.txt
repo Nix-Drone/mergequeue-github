@@ -3435,7 +3435,6 @@ deflex
 deflexed
 deflexibility
 deflexible
-deflexing
 deflexion
 deflexionize
 deflexure
@@ -14303,6 +14302,7 @@ diversifiable
 diversification
 diversified
 diversifier
+deflexing
 dakota
 diversifies
 diversiflorate
