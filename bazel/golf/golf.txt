@@ -2223,7 +2223,6 @@ gazetteership
 gremlin
 gazettes
 gazetting
-gazing
 gazingstock
 gazogene
 gazogenes
@@ -6771,6 +6770,7 @@ gonadotrophin
 gonadotropin
 granivorous
 gonaduct
+gazing
 gonagra
 gluey
 gonalgia
