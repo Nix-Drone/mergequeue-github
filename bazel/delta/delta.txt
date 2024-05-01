@@ -10844,7 +10844,6 @@ disyoke
 disedge
 dirige
 dirigent
-dirigible
 dirigo
 dirity
 dirked
@@ -15265,6 +15264,7 @@ dols
 dolt
 doltish
 doltishly
+dirigible
 dolts
 dolus
 dolven
