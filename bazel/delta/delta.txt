@@ -10026,7 +10026,6 @@ dampnesses
 dispersement
 dynamometer
 dynamometers
-dagoes
 dynamometrical
 dirls
 descriptions
@@ -16644,6 +16643,7 @@ dragoonage
 dragooned
 decuple
 dragooner
+dagoes
 dragooning
 dragrope
 decades
