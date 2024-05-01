@@ -4972,7 +4972,6 @@ falconries
 fringilliform
 fireshaft
 flanking
-flanks
 faineantise
 flankwise
 flatbeds
@@ -8909,6 +8908,7 @@ fosterer
 footstone
 fosterers
 forblow
+flanks
 fosterhood
 fostering
 fosterite
