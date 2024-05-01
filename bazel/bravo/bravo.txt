@@ -2171,7 +2171,6 @@ bannermen
 bannerole
 bannerols
 bannerwise
-bannet
 bannisters
 bannition
 bannock
@@ -14235,6 +14234,7 @@ braggish
 braggishly
 braggite
 braggle
+bannet
 bragi
 bragite
 bragless
