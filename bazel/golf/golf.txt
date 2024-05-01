@@ -8150,7 +8150,6 @@ graphanalysis
 graphed
 gigabit
 grapheme
-graphemic
 glack
 governorships
 glues
@@ -9812,6 +9811,7 @@ guayules
 gastraea
 guajillo
 guajira
+graphemic
 guajiras
 guaka
 gualaca
