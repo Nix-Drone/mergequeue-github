@@ -1478,6 +1478,7 @@ deaconries
 deacons
 deaconship
 deactivate
+droguet
 deactivated
 deactivates
 discontinuing
@@ -5474,7 +5475,6 @@ denunciant
 denunciate
 docilely
 decanate
-droguet
 decrepitly
 denunciated
 denunciation
