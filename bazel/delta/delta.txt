@@ -3383,7 +3383,6 @@ domesticable
 disoccupied
 definitising
 definitive
-deserter
 definitively
 delaying
 definitiveness
@@ -18319,6 +18318,7 @@ duodenation
 degelation
 duodenitis
 dismantled
+deserter
 duodenocholangitis
 duodenocholecystostomy
 duodenocholedochotomy
