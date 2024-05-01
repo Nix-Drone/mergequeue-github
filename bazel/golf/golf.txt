@@ -7298,7 +7298,6 @@ getfd
 gospodar
 gillers
 gospodin
-gosport
 gosports
 gossamer
 gossamered
@@ -7626,6 +7625,7 @@ gradationally
 gradationately
 gradatively
 grade
+gosport
 guptavidya
 graded
 gentlewomanly
