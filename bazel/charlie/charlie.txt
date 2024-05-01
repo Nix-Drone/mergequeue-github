@@ -1838,7 +1838,6 @@ camelman
 cameloid
 cameloidea
 camelopardalis
-camelopardel
 camelopardid
 cinnamomum
 camelopardidae
@@ -24816,6 +24815,7 @@ coracles
 coracoacromial
 coracobrachial
 calcimeter
+camelopardel
 coracoclavicular
 coracocostal
 coracohyoid
