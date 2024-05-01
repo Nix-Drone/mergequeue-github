@@ -6590,6 +6590,7 @@ bequeathal
 bequeathed
 bequeather
 bequeathing
+boomage
 brawled
 bequeaths
 bequest
@@ -17489,7 +17490,6 @@ buns
 bunsenite
 brulots
 bunted
-boomage
 bunter
 blacklight
 bunty
