@@ -13959,7 +13959,6 @@ cinnamene
 cinnamic
 cinnamyl
 cinnamylidene
-cyclodiolefin
 cinnamodendron
 cinnamol
 cinnamon
@@ -31813,6 +31812,7 @@ cutin
 cutinisation
 cutinise
 cutinised
+cyclodiolefin
 cutinises
 cutinising
 cutinization
