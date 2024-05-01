@@ -6404,7 +6404,6 @@ ensign
 embarcation
 ensigncy
 electroplaque
-ensigncies
 ensigned
 entranceway
 ensignhood
@@ -8197,6 +8196,7 @@ episedia
 episememe
 episyllogism
 episynaloephe
+ensigncies
 electrotropism
 episynthetic
 electrodispersive
