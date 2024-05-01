@@ -10740,7 +10740,6 @@ eudesmol
 eudeve
 eudiagnostic
 eudiometer
-eudiometry
 eudiometric
 eudiometrical
 eudiometrically
@@ -12282,6 +12281,7 @@ executed
 enphytotic
 encastage
 exhibitorial
+eudiometry
 executes
 eupathy
 execution
