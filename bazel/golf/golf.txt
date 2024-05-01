@@ -3917,7 +3917,6 @@ giboia
 goyle
 glave
 gibsons
-gibstaff
 gibus
 gibuses
 giddap
@@ -10428,6 +10427,7 @@ guyana
 gummier
 gummiest
 gummiferous
+gibstaff
 gumming
 gummose
 gummoses
