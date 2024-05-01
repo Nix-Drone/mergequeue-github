@@ -3947,7 +3947,6 @@ earthquaked
 emissory
 emitted
 emittent
-emitter
 emitting
 emlen
 emma
@@ -5410,6 +5409,7 @@ enclavement
 ecclesial
 endovasculitis
 equinox
+emitter
 endovenous
 eskimoes
 elsewhither
