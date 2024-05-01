@@ -6291,6 +6291,7 @@ causticness
 caustics
 collencytal
 concessionaries
+coinhering
 caustify
 caustification
 caustified
@@ -18541,7 +18542,6 @@ coinhere
 coinhered
 coinherence
 coinherent
-coinhering
 cagui
 coinheritance
 coinheritor
