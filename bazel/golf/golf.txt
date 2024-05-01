@@ -5378,7 +5378,6 @@ glew
 guitarfish
 gliadine
 geomedicine
-gliadines
 gliadins
 glaucophane
 glib
@@ -8364,6 +8363,7 @@ gratten
 gratters
 gleefully
 grattoir
+gliadines
 globuloid
 gratton
 goutiness
