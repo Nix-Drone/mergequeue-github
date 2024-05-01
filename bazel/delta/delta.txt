@@ -742,7 +742,6 @@ domination
 dancalite
 dopester
 dance
-danceability
 danceable
 danced
 degasification
@@ -5179,6 +5178,7 @@ deniable
 deniably
 denial
 dentinoid
+danceability
 denials
 denicotine
 denicotinize
