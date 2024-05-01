@@ -10455,7 +10455,6 @@ blastoneuropore
 bogan
 blastophyllum
 blastophitic
-blastophoral
 blastophoric
 blastophthoria
 blastophthoric
@@ -13652,6 +13651,7 @@ bouser
 bargoose
 bouses
 bugged
+blastophoral
 bousy
 behooped
 bousing
