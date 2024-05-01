@@ -4222,7 +4222,6 @@ fireproofing
 fireproofness
 fireroom
 ferroconcretor
-firerooms
 fluitant
 firers
 firesafe
@@ -7146,6 +7145,7 @@ footbridge
 frustulum
 footcandle
 footcloths
+firerooms
 finedraw
 facer
 figwort
