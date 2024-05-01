@@ -3079,7 +3079,6 @@ geoform
 gillnet
 geogen
 geogenesis
-gyropilot
 geogenetic
 geogeny
 geogenic
@@ -3515,6 +3514,7 @@ ghosty
 gerrhosaurid
 gerridae
 gastric
+gyropilot
 gerrymander
 gimme
 gerrymanderer
