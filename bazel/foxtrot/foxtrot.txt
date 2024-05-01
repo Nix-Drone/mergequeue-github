@@ -7160,7 +7160,6 @@ footfall
 ferruling
 filoselle
 footfalls
-footfarer
 footfault
 forehandedly
 footfolk
@@ -8560,6 +8559,7 @@ freebootery
 frighty
 fornaxid
 freshing
+footfarer
 forncast
 fornent
 fornical
