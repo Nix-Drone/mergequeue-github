@@ -9406,6 +9406,7 @@ altars
 afghanets
 altazimuth
 alter
+amerceable
 alterability
 alterable
 alterableness
@@ -10259,7 +10260,6 @@ amentum
 amenuse
 adeling
 amerce
-amerceable
 archivers
 amerced
 amercement
