@@ -4816,7 +4816,6 @@ aeolistic
 aeolodion
 aeolomelodicon
 aeolotropy
-aeolotropic
 aureate
 aeolsklavier
 aeolus
@@ -5265,6 +5264,7 @@ affections
 accentors
 affectious
 affective
+aeolotropic
 affectively
 affectivity
 affectless
