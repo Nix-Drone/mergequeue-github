@@ -3383,7 +3383,6 @@ domesticable
 disoccupied
 definitising
 definitive
-deserter
 definitively
 delaying
 definitiveness
@@ -8064,6 +8063,7 @@ diabolisation
 diabolise
 diabolised
 diabolising
+deserter
 draggletail
 diabolist
 diabolization
