@@ -3055,6 +3055,7 @@ fiats
 fiaunt
 fib
 fencibles
+foreclosable
 fibbery
 fibbers
 fibbing
@@ -5940,7 +5941,6 @@ floorcloths
 floored
 flooring
 fascistic
-foreclosable
 flummoxes
 fluidizing
 floorless
