@@ -4794,7 +4794,6 @@ gra
 gyron
 gironde
 girondin
-gentrice
 gironny
 gyronny
 girons
@@ -5867,6 +5866,7 @@ glosses
 glossy
 glossier
 glossies
+gentrice
 glossiest
 granitical
 glossily
