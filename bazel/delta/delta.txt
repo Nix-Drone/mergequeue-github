@@ -6264,7 +6264,6 @@ dermatomyces
 divorceuse
 dermatomycosis
 dermatomyoma
-dermatomuscular
 dermatoneural
 dermatoneurology
 dermatoneurosis
@@ -14063,6 +14062,7 @@ disengagements
 disunions
 disunite
 discernably
+dermatomuscular
 disuniter
 disuniters
 disunites
