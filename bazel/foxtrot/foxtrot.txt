@@ -2930,6 +2930,7 @@ fantastical
 feudaries
 feudatary
 feudatory
+floatless
 feudatorial
 feudatories
 feuded
@@ -5820,7 +5821,6 @@ fallacy
 floatiest
 frederic
 floatingly
-floatless
 floatman
 floatsman
 floatsmen
