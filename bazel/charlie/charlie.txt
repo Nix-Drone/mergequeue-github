@@ -11573,7 +11573,6 @@ cholecystography
 cholecystojejunostomy
 cholecystokinin
 cholecystolithiasis
-cholecystolithotripsy
 cholecystopexy
 cholecystorrhaphy
 cholecystostomy
@@ -16473,6 +16472,7 @@ clockbird
 clockcase
 clocker
 clockface
+cholecystolithotripsy
 clockhouse
 clocking
 clockings
