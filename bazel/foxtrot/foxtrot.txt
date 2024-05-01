@@ -5589,7 +5589,6 @@ flamant
 feoffment
 fissural
 fligged
-fligger
 feodum
 flight
 flighted
@@ -11031,6 +11030,7 @@ fumblingly
 fumblingness
 farewelling
 fume
+fligger
 fumed
 frigging
 fumeless
