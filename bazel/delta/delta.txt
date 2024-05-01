@@ -8130,7 +8130,6 @@ diacoustics
 diacranterian
 diacrisis
 diacritic
-diacritical
 diacromyodi
 demises
 djelab
@@ -12487,6 +12486,7 @@ disinhume
 disinhuming
 disinsection
 disinsectization
+diacritical
 dichroiscope
 dorsoventral
 disinsulation
