@@ -5529,6 +5529,7 @@ flexures
 flyable
 fascicle
 flyback
+forgotten
 flyball
 flybane
 flibbertigibbety
@@ -8274,7 +8275,6 @@ flasher
 fossilological
 forgoes
 forgot
-forgotten
 foussa
 fuzzy
 faraon
