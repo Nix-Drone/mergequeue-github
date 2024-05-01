@@ -7795,7 +7795,6 @@ forelook
 formants
 francisco
 foreloop
-forelooper
 foreloper
 forelouper
 foremade
@@ -8132,6 +8131,7 @@ foretop
 foretopman
 foretopmast
 foretopmen
+forelooper
 foretops
 foretrace
 foreuse
