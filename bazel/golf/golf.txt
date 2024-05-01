@@ -3759,7 +3759,6 @@ galwegian
 gerbe
 ghost
 ghostdom
-gibbered
 generalidad
 ghosted
 ghostess
@@ -10194,6 +10193,7 @@ guilds
 guildship
 guildsmen
 guessworker
+gibbered
 guile
 guileful
 gyroscopic
