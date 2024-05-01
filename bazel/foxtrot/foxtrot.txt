@@ -4311,7 +4311,6 @@ firoloida
 flammability
 facia
 furlongs
-first
 fylker
 forbearer
 freestone
@@ -9133,6 +9132,7 @@ fowlfoot
 fowling
 fowlings
 fowlpox
+first
 fowlpoxes
 fallaciousness
 fowls
