@@ -3089,7 +3089,6 @@ ellipticity
 elliptograph
 elliptoid
 etiolates
-ellops
 earthwards
 ells
 elm
@@ -13904,6 +13903,7 @@ embryogenic
 extraorganismal
 electrolytical
 extraovate
+ellops
 ergamine
 expellant
 epistomata
