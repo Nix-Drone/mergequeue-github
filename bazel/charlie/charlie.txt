@@ -10104,7 +10104,6 @@ chessart
 chessboard
 chessboards
 chessdom
-chessel
 chesser
 cabinda
 chesses
@@ -30024,6 +30023,7 @@ coarrange
 crousely
 croustade
 curriculum
+chessel
 crout
 crouth
 croutons
