@@ -5039,6 +5039,7 @@ flashboard
 flashbulb
 fiendliest
 furazolidone
+formalizable
 flashbulbs
 flinches
 flashcube
@@ -8381,7 +8382,6 @@ formalistically
 formalith
 flange
 formalities
-formalizable
 formalization
 fogyism
 formalizations
