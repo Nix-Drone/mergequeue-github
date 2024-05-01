@@ -86,7 +86,6 @@ dorts
 desmoma
 dizygotic
 dacryops
-dacryorrhea
 dacryosyrinx
 dacryuria
 dactyl
@@ -6273,6 +6272,7 @@ dermatonosus
 dermatopathic
 dodecanesian
 dermatopathology
+dacryorrhea
 dermatopathophobia
 dermatophagus
 dermatophyte
