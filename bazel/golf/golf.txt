@@ -5310,7 +5310,6 @@ gleanable
 grayback
 gleaned
 gleaner
-gleaners
 gleanings
 gleary
 gleba
@@ -10097,6 +10096,7 @@ guesting
 giottesque
 guestmaster
 gabeller
+gleaners
 grizelin
 guetar
 guetare
