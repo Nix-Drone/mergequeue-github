@@ -5024,7 +5024,6 @@ endgate
 enfief
 endhand
 endia
-endiablee
 endiadem
 eyer
 entranced
@@ -6715,6 +6714,7 @@ ebracteolate
 enterostomies
 enterotome
 extemporaneity
+endiablee
 enterotomy
 enterotoxemia
 enterotoxication
