@@ -5705,7 +5705,6 @@ energesis
 enrolment
 engineers
 enginehouse
-engineless
 engineman
 enginemen
 enginery
@@ -5779,6 +5778,7 @@ engouement
 engouled
 engoument
 equipondious
+engineless
 engr
 equant
 engrace
