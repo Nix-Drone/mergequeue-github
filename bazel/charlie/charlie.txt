@@ -144,6 +144,7 @@ cablegrams
 cablelaid
 cableless
 cablelike
+crowdie
 cableman
 cablemen
 cables
@@ -30047,7 +30048,6 @@ crowder
 crowders
 cmdg
 crowdy
-crowdie
 crowdies
 crowding
 crowdle
