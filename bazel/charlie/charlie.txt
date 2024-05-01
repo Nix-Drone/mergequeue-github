@@ -10821,7 +10821,6 @@ cutgrasses
 clavicylinder
 chinooks
 chinos
-chinotoxine
 chinotto
 chinovnik
 chinpiece
@@ -19366,6 +19365,7 @@ colorfast
 colorfastness
 colorful
 colorfully
+chinotoxine
 colorfulness
 colory
 cinnamenyl
