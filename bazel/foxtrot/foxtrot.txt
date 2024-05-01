@@ -54,7 +54,6 @@ faceable
 facebar
 facebow
 facecloth
-firestone
 faced
 foreladies
 faceharden
@@ -1715,6 +1714,7 @@ fealty
 fumigates
 fluorinate
 fear
+firestone
 fanflower
 fimbles
 fusillade
