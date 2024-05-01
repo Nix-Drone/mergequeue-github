@@ -11575,7 +11575,6 @@ cholecystokinin
 cholecystolithiasis
 cholecystolithotripsy
 cholecystopexy
-cholecystorrhaphy
 cholecystostomy
 cholecystostomies
 cholecystotomy
@@ -28972,6 +28971,7 @@ criollos
 criminality
 criminally
 criminalness
+cholecystorrhaphy
 criminaloid
 criminals
 conditorium
