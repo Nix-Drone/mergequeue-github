@@ -1319,6 +1319,7 @@ acanthuses
 acanthuthi
 acapnia
 acapnias
+accel
 acapsular
 acapu
 acara
@@ -1402,7 +1403,6 @@ avellaneous
 acceded
 acceders
 acceding
-accel
 accelerable
 accelerando
 amnesias
