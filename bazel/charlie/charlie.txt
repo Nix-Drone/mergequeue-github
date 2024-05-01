@@ -6590,7 +6590,6 @@ cedrine
 cedrium
 cedrol
 cedron
-centibar
 cedrus
 cedula
 cee
@@ -25404,6 +25403,7 @@ cornstalks
 carida
 cunner
 cornstarch
+centibar
 cornstone
 cornstook
 cornu
