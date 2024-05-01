@@ -683,7 +683,6 @@ geodesy
 galliot
 galliots
 gurnets
-gallipot
 gallipots
 gallirallus
 gallisin
@@ -8237,6 +8236,7 @@ graptolithida
 graptolithina
 graptomancy
 grasp
+gallipot
 graspable
 graspers
 grasping
