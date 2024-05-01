@@ -5815,6 +5815,7 @@ engrave
 engravement
 engraven
 engraver
+extemporaneous
 engravers
 engraves
 easts
@@ -12076,7 +12077,6 @@ exclaves
 exclosure
 entier
 excavational
-extemporaneous
 earthmen
 ebullitions
 excludes
