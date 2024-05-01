@@ -6673,7 +6673,6 @@ aiding
 aidman
 aidmanmen
 aidmen
-aids
 aye
 aiel
 anoraks
@@ -24482,6 +24481,7 @@ autoxidation
 autoxidator
 autoxidizability
 autoxidizable
+aids
 autoxidize
 autoxidizer
 autozooid
