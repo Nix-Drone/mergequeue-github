@@ -1279,7 +1279,6 @@ gruis
 gothic
 gapeseed
 gapeworm
-gapeworms
 gorgonized
 gapingly
 gapingstock
@@ -10706,6 +10705,7 @@ gusted
 gustful
 gustfully
 gastralgic
+gapeworms
 gulix
 gusty
 gustier
