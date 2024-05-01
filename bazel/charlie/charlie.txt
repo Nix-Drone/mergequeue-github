@@ -2424,7 +2424,6 @@ candles
 candleshine
 candleshrift
 candlesnuffer
-candlestand
 committeewoman
 candlestick
 candlesticked
@@ -3323,6 +3322,7 @@ caprylone
 caprimulgi
 caprimulgidae
 caprimulgiformes
+candlestand
 caprimulgine
 caprimulgus
 caprin
