@@ -5360,6 +5360,7 @@ frictional
 fledgling
 flee
 fleece
+farmstead
 fribourg
 feirie
 fianna
@@ -6428,7 +6429,6 @@ fluorides
 fluoridisation
 fluoridised
 frasera
-farmstead
 fluoridization
 fulcral
 fluoridize
