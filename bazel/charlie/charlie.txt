@@ -2692,7 +2692,6 @@ canonical
 cortically
 canonicalization
 canonicalize
-canonicalized
 canonicalizes
 canonicalizing
 circumventive
@@ -22965,6 +22964,7 @@ crossfire
 cuneonavicular
 chambermaids
 consolement
+canonicalized
 consoler
 copist
 consoles
