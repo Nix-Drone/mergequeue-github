@@ -5996,7 +5996,6 @@ agglomerates
 agglomeratic
 agglomerating
 agglomeration
-agglomerative
 agglomerator
 autoing
 aramis
@@ -10220,6 +10219,7 @@ amydon
 amende
 amended
 amender
+agglomerative
 amending
 amendment
 amendments
