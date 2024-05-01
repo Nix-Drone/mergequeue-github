@@ -4404,6 +4404,7 @@ fishline
 fishlines
 frondage
 fishling
+fortifications
 fishman
 fishmeals
 fishmonger
@@ -8722,7 +8723,6 @@ furring
 fortieths
 furbelows
 fortify
-fortifications
 fortifier
 florets
 fortifiers
