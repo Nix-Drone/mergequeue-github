@@ -7285,7 +7285,6 @@ driveboat
 detesters
 detests
 dethronable
-dethroned
 dethronement
 dain
 dethrones
@@ -17200,6 +17199,7 @@ dripolator
 drippage
 drippers
 deionizing
+dethroned
 drippy
 deddy
 drippier
