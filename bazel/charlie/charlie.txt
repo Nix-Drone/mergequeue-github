@@ -7077,7 +7077,6 @@ centiare
 centiares
 centiday
 centifolious
-centigrade
 centigrado
 centigram
 centigramme
@@ -30080,6 +30079,7 @@ crownless
 crownlet
 crownlike
 crownling
+centigrade
 crownmaker
 crownment
 crownpiece
