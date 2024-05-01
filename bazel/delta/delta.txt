@@ -5638,7 +5638,6 @@ depended
 dependence
 dependency
 dependencies
-depending
 dependingly
 depends
 defacingly
@@ -8655,6 +8654,7 @@ diastataxy
 diastataxic
 diastatic
 diastem
+depending
 diastema
 deadheading
 diastemata
