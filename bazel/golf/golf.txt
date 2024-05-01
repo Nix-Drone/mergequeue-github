@@ -4191,6 +4191,7 @@ gilver
 gasterosteoid
 gim
 gimbal
+gauge
 gimbaled
 gimballed
 groundsheet
@@ -9184,7 +9185,6 @@ gaspiness
 greenlet
 grister
 gristle
-gauge
 gasbag
 grottoed
 groomish
