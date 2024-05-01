@@ -4753,7 +4753,6 @@ gathering
 gallies
 giro
 glossae
-gyro
 gyroceran
 gallery
 guildsman
@@ -6590,6 +6589,7 @@ golandause
 golaseccan
 gallstones
 golconda
+gyro
 golcondas
 goldang
 goldarned
