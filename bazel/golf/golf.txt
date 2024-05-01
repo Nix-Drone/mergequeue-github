@@ -9250,7 +9250,6 @@ grot
 gourmandise
 gat
 groceries
-groceryman
 griffonne
 grocers
 gedanken
@@ -10473,6 +10472,7 @@ grannyknot
 guncotton
 greenbacks
 guiled
+groceryman
 gesturing
 gunda
 gundelow
