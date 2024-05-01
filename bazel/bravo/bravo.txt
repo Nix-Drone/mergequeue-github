@@ -432,6 +432,7 @@ backplate
 backpointer
 backpointers
 backrest
+bhikku
 backrope
 brimstony
 backropes
@@ -7780,7 +7781,6 @@ bheestie
 bespangles
 bathyscaphe
 bheesties
-bhikku
 bhikshu
 bhil
 bhili
