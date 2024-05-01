@@ -11553,7 +11553,6 @@ boardroom
 boards
 boardsmanship
 boardwalks
-boarfish
 boarfishes
 boarhound
 boarish
@@ -13694,6 +13693,7 @@ bricksetter
 bovey
 bovenland
 bovidae
+boarfish
 bovids
 bovine
 bovinely
