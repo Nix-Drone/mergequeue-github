@@ -1698,6 +1698,7 @@ friars
 four
 fdnames
 fdtype
+forbidding
 fdub
 fortuitousness
 fe
@@ -7387,7 +7388,6 @@ forbiddenness
 fenestellae
 flames
 foolishness
-forbidding
 fruitery
 forbiddingly
 forbids
