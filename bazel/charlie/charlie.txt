@@ -2024,7 +2024,6 @@ campership
 chiloma
 campesino
 campestral
-campestrian
 cordelier
 campfight
 campfires
@@ -9226,6 +9225,7 @@ chasses
 chasseurs
 chassignite
 coachful
+campestrian
 chassis
 chemisorptive
 chastacosta
