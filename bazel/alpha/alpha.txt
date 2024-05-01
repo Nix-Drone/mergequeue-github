@@ -5306,7 +5306,6 @@ affiliable
 addio
 affiliate
 affiliated
-affiliating
 affiliation
 affiliations
 apery
@@ -9106,6 +9105,7 @@ almohade
 almohades
 almoign
 almon
+affiliating
 almonage
 almond
 almondy
