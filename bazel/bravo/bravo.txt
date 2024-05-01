@@ -1593,6 +1593,7 @@ ballets
 ballfield
 ballflower
 ballgame
+bononian
 ballgames
 ballgowns
 ballhausplatz
@@ -12534,7 +12535,6 @@ bonnocks
 bonnwis
 blowspray
 bono
-bononian
 balcon
 bonorum
 bonaire
