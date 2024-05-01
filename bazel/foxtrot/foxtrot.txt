@@ -2951,7 +2951,6 @@ frustums
 feudum
 feuillage
 foreshows
-feuillemorte
 feuillet
 feuilleton
 feuilletonist
@@ -6649,6 +6648,7 @@ focalised
 focalising
 focalization
 focalizes
+feuillemorte
 focaloid
 fixtures
 focimeter
