@@ -10698,7 +10698,6 @@ downstater
 diprimary
 diprismatic
 dipropargyl
-dipropellant
 dipropyl
 deficit
 diprotic
@@ -15510,6 +15509,7 @@ donnas
 decnet
 donnee
 donnees
+dipropellant
 donnerd
 donnert
 donnybrooks
