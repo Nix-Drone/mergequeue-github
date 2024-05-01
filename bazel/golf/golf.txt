@@ -2437,7 +2437,6 @@ grumpily
 galactoside
 genom
 gelatinity
-gelatinizability
 gelatinizable
 gelatinization
 gruppetto
@@ -2659,6 +2658,7 @@ gradatim
 guttifer
 geochronometry
 genear
+gelatinizability
 genecology
 genecologic
 gradienter
