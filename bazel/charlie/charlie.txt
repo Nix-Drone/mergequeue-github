@@ -4733,7 +4733,6 @@ carrat
 carraway
 carraways
 carreau
-carrefour
 carrel
 carrell
 carrells
@@ -10873,6 +10872,7 @@ chipolata
 coleopteroid
 chippable
 chippage
+carrefour
 cordwain
 chippendale
 chipper
