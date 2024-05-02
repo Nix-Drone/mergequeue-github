@@ -3131,6 +3131,7 @@ geomancy
 garnered
 gripes
 geomancies
+gunships
 geomant
 geobios
 geomantic
@@ -10570,7 +10571,6 @@ gunsels
 gilly
 gunship
 golp
-gunships
 gunshop
 graybeards
 gunshot
