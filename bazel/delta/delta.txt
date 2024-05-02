@@ -10827,7 +10827,6 @@ deringa
 direx
 dirge
 dirged
-dirgelike
 dirgeman
 dirgie
 diriment
@@ -12559,6 +12558,7 @@ disjointed
 disjointedly
 disjointedness
 disjointing
+dirgelike
 disjointly
 disjointness
 disjoints
