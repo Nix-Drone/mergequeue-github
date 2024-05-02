@@ -4203,7 +4203,6 @@ adnerval
 adnescent
 armsize
 amberoid
-adneural
 adnex
 adnexal
 acalephan
@@ -14924,6 +14923,7 @@ anticipatable
 anticipated
 anticipating
 aphoriser
+adneural
 anticipatingly
 authenticating
 anticipation
