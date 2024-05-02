@@ -5433,6 +5433,7 @@ endseal
 endshake
 endsheet
 everglade
+etypic
 execrates
 endue
 exploration
@@ -10556,7 +10557,6 @@ erstwhile
 ensigns
 etioporphyrin
 eversive
-etypic
 estudy
 etypical
 ericius
