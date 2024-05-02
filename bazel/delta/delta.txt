@@ -3565,7 +3565,6 @@ defrosting
 defs
 demoniast
 defterdar
-dodecahedra
 draftiness
 dishonouring
 duckers
@@ -17794,6 +17793,7 @@ ducker
 duckery
 duckfoot
 duckfooted
+dodecahedra
 duckhearted
 duckhood
 disfigurements
