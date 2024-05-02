@@ -1432,7 +1432,6 @@ baldric
 baldrick
 bracketted
 baldricked
-baldrics
 baldricwise
 balds
 balducta
@@ -10054,6 +10053,7 @@ blackarm
 blackback
 blackball
 blackballed
+baldrics
 blackballer
 blackballs
 bridehood
