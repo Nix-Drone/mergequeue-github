@@ -12864,7 +12864,6 @@ churchmanship
 churchmaster
 caesaropapism
 churchmen
-churchreeve
 churchscot
 churchshot
 churchway
@@ -25058,6 +25057,7 @@ corelated
 corelates
 corelating
 corelation
+churchreeve
 corelational
 corelative
 corelatively
