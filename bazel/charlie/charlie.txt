@@ -20345,7 +20345,6 @@ commutatively
 commutativity
 commutator
 commutators
-commute
 commuted
 commuter
 commuters
@@ -23715,6 +23714,7 @@ civile
 contraindicant
 contraindicate
 ciliospinal
+commute
 contraindicated
 contraindicates
 contraindication
