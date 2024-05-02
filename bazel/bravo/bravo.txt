@@ -9847,7 +9847,6 @@ bits
 bitser
 bitsy
 bitstock
-bitstocks
 bitstone
 bitt
 bitted
@@ -16337,6 +16336,7 @@ brumbee
 bacchiuchii
 brumbie
 brumbies
+bitstocks
 brume
 brumes
 boryl
