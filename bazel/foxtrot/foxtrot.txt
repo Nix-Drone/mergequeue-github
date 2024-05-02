@@ -4069,7 +4069,6 @@ finlander
 finlandization
 freshman
 finless
-finlet
 finlike
 finmark
 finmarks
@@ -10525,6 +10524,7 @@ frostroot
 footbridges
 favose
 flutterment
+finlet
 frostwort
 froth
 frothed
