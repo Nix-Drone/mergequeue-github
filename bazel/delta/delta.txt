@@ -5083,7 +5083,6 @@ denaturalized
 denaturant
 denaturants
 denaturate
-denaturational
 diver
 denature
 denatured
@@ -17697,6 +17696,7 @@ duality
 dualities
 dualize
 dualized
+denaturational
 dualizes
 dually
 dualmutef
