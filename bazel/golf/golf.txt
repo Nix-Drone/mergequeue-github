@@ -3914,7 +3914,6 @@ graphospasm
 giblet
 giblets
 giboia
-goyle
 glave
 gibsons
 gibstaff
@@ -5649,6 +5648,7 @@ gamins
 globalists
 guidances
 globality
+goyle
 globalization
 gypsum
 globalize

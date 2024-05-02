@@ -10245,7 +10245,6 @@ chiaroscuro
 chiaroscuros
 chias
 chiasm
-chiasma
 chiasmal
 chiasmas
 chiasmata
@@ -21376,6 +21375,7 @@ conciseness
 clocks
 concision
 concitation
+chiasma
 concite
 conclamation
 conclave
