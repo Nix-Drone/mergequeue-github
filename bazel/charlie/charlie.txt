@@ -8104,7 +8104,6 @@ chaetopterus
 chaetosoma
 chaetosomatidae
 chaetosomidae
-cabocle
 codrus
 chaetotactic
 chaetotaxy
@@ -28080,6 +28079,7 @@ craniology
 craniological
 craniologically
 craniologist
+cabocle
 craniom
 craniomalacia
 cremains
