@@ -4751,7 +4751,6 @@ flagellist
 ferromolybdenum
 filtrated
 folie
-flagellula
 flagellulae
 fortressed
 flagellum
@@ -7604,6 +7603,7 @@ forecourts
 fernwort
 forecover
 fishify
+flagellula
 fried
 flees
 fers
