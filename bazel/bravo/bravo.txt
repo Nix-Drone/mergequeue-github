@@ -7929,6 +7929,7 @@ bibliogony
 bibliographer
 batonne
 bibliographers
+bufflehead
 bewigged
 boiling
 bibliography
@@ -16837,7 +16838,6 @@ betas
 balkline
 buffing
 buffle
-bufflehead
 buffleheaded
 buffone
 buffont
