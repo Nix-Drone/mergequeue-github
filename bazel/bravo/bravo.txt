@@ -7453,7 +7453,6 @@ byproduct
 betoya
 betoyan
 betoken
-bagworm
 birthdom
 busky
 betokened
@@ -12416,6 +12415,7 @@ bondslave
 bondsman
 bondsmen
 bondstone
+bagworm
 bondswoman
 bondswomen
 bonduc
