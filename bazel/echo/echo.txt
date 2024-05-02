@@ -3873,7 +3873,6 @@ emesidae
 emesis
 emetia
 emetic
-emetics
 emetines
 entrapped
 emetins
@@ -6649,6 +6648,7 @@ enteroclysis
 enterococcal
 enterococcus
 enterocoel
+emetics
 enterocoela
 enterocoelous
 easterliness
