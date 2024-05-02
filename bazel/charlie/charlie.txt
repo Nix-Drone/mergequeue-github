@@ -15001,7 +15001,6 @@ cytostatically
 coadjutator
 cytostomal
 cytostome
-cytostroma
 cytostromatic
 cytotactic
 cardioaccelerator
@@ -25356,6 +25355,7 @@ cornhusks
 corny
 cornic
 cornice
+cytostroma
 corniced
 cornices
 collaud
