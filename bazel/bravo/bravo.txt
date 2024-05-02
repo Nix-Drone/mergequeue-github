@@ -8578,7 +8578,6 @@ biliment
 bilin
 bylina
 boran
-byline
 bilinear
 boardmanship
 berun
@@ -13930,6 +13929,7 @@ blander
 basophile
 bracelets
 bracer
+byline
 bracery
 bracero
 bathorse
