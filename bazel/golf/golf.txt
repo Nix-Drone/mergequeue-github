@@ -4551,7 +4551,6 @@ gynogenesis
 gynogenetic
 gynomonoecious
 gynomonoeciously
-gynomonoecism
 ginorite
 gynospore
 gorgons
@@ -9472,6 +9471,7 @@ gandum
 groundward
 groundwards
 group
+gynomonoecism
 groupable
 groupage
 groupageness
