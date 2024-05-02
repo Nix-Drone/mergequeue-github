@@ -2310,7 +2310,6 @@ achromatiaceae
 achromatic
 achromatically
 achromatisation
-achromatism
 achromatizable
 achromatization
 achromatize
@@ -15506,6 +15505,7 @@ antimasks
 antimason
 antimasonry
 antimasque
+achromatism
 antimasquer
 afterstrain
 antimasquerade
