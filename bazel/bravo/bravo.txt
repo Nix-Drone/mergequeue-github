@@ -8590,7 +8590,6 @@ byliner
 bylines
 brave
 baiocco
-bilingual
 bilinguality
 bilingually
 bilinguar
@@ -10720,6 +10719,7 @@ beknit
 blens
 befoul
 bibulus
+bilingual
 bleo
 blepharadenitis
 blepharanthracosis
