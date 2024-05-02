@@ -3073,7 +3073,6 @@ entellus
 embeds
 ellinge
 elliott
-ellipse
 ellipsis
 ellipsograph
 ellipsoid
@@ -13295,6 +13294,7 @@ exposes
 exposing
 exposit
 expositing
+ellipse
 esthesiometry
 exsanguinity
 exposition
