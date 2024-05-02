@@ -2874,7 +2874,6 @@ genoise
 genome
 genomic
 genoms
-genonema
 gph
 genos
 gerrymandered
@@ -9573,6 +9572,7 @@ gothicism
 geoglossum
 gouaree
 grows
+genonema
 gempylid
 grizzlier
 gentlewomanish
