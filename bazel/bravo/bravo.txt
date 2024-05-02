@@ -1227,7 +1227,6 @@ bakery
 bakeries
 bakerite
 bakerless
-bakerly
 bakerlike
 bakers
 beslaver
@@ -6727,6 +6726,7 @@ bridgeboard
 battledore
 berycoidea
 barpost
+bakerly
 boist
 berycoidean
 berycomorphi
