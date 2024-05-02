@@ -12032,6 +12032,7 @@ choroiditis
 choroidocyclitis
 choroidoiritis
 choroids
+cutset
 chorology
 coheres
 chorological
@@ -31855,7 +31856,6 @@ cutout
 cutpurse
 cutpurses
 cuts
-cutset
 cuttable
 cyclothyme
 cuttage
