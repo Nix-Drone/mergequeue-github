@@ -3481,7 +3481,6 @@ deticking
 defog
 defogged
 didymus
-disyllable
 defoggers
 defogging
 defogs
@@ -17586,6 +17585,7 @@ drumfire
 drumfires
 daniglacial
 decuman
+disyllable
 drumhead
 drunken
 drumler
