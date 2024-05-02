@@ -3602,7 +3602,6 @@ filchingly
 file
 fileable
 filecard
-filechar
 filed
 filefishes
 fogie
@@ -4503,6 +4502,7 @@ fistiness
 fisting
 fistinut
 fistlike
+filechar
 fistmele
 forecounsel
 fistnotes
