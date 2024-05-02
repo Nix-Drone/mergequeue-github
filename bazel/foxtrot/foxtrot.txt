@@ -4355,6 +4355,7 @@ falchions
 fishbowls
 fisheater
 fisheye
+foreside
 fisheyes
 fisher
 fenian
@@ -7994,7 +7995,6 @@ foreshower
 foreshown
 foreshroud
 femic
-foreside
 funnelwise
 foresight
 foresightedness
