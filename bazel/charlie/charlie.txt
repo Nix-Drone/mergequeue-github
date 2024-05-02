@@ -6736,6 +6736,7 @@ capless
 contangos
 celioschisis
 celioscope
+cephalometric
 celioscopy
 celiotomy
 cell
@@ -7361,7 +7362,6 @@ cephalomeningitis
 cephalomere
 cyclostylar
 cephalometer
-cephalometric
 cephalomyitis
 cephalomotor
 cephalon
