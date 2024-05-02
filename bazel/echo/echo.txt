@@ -186,7 +186,6 @@ evacuee
 eloigners
 earthset
 electroplated
-electrodeposit
 exprobratory
 epiclesis
 earthsets
@@ -9937,6 +9936,7 @@ estampage
 estampede
 emender
 estampie
+electrodeposit
 estancia
 exhumated
 estancias
