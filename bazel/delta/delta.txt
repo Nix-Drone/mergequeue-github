@@ -9153,7 +9153,6 @@ die
 delaminating
 dye
 desoxycinchonine
-dyeability
 dyeable
 ditriglyph
 dieb
@@ -18457,6 +18456,7 @@ durances
 durandarte
 dialyser
 durangite
+dyeability
 durani
 durant
 duranta
