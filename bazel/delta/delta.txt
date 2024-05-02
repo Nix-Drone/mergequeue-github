@@ -7284,7 +7284,6 @@ detester
 driveboat
 detesters
 detests
-dethronable
 dethroned
 dethronement
 dain
@@ -15870,6 +15869,7 @@ dosages
 dosain
 dose
 dosed
+dethronable
 doser
 dosers
 dosimeter
