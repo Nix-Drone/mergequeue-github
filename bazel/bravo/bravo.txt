@@ -2001,6 +2001,7 @@ bandrol
 bandsaw
 bandsawed
 bandsawing
+bicepses
 bandsawn
 bandsman
 bandsmen
@@ -7269,7 +7270,6 @@ bestowal
 bestowals
 bestower
 bestowing
-bicepses
 bestowment
 bestows
 bestraddle
