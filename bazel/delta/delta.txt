@@ -3574,7 +3574,6 @@ deftness
 deftnesses
 defunct
 deflections
-defunction
 deoxidized
 dollface
 defunctionalization
@@ -11268,6 +11267,7 @@ dimit
 dodecant
 diesel
 discases
+defunction
 discasing
 discatter
 dripped
