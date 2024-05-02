@@ -13070,6 +13070,7 @@ borotungstate
 borough
 boroughmaster
 boroughmonger
+burgoyne
 boroughmongery
 boroughmongering
 boroughs
@@ -17668,7 +17669,6 @@ burgled
 balustraded
 blay
 bacchanalize
-burgoyne
 burgomaster
 burgomastership
 burgoo
