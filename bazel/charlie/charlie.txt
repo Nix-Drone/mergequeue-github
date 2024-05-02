@@ -4075,7 +4075,6 @@ capette
 cardiopyloric
 cardioplegia
 cardiopneumatic
-cardiopneumograph
 cardioptosis
 cardiopulmonary
 cardiorenal
@@ -26228,6 +26227,7 @@ costious
 costipulator
 correctedness
 costispinal
+cardiopneumograph
 costive
 costiveness
 costless
