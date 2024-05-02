@@ -2711,6 +2711,7 @@ deconsecration
 deconsider
 deconsideration
 decontaminate
+dosimetry
 decontaminated
 decontaminates
 decontaminating
@@ -15873,7 +15874,6 @@ dosed
 doser
 dosers
 dosimeter
-dosimetry
 dosimetric
 decant
 dosimetrician
