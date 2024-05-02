@@ -2667,7 +2667,6 @@ dimmy
 decomposer
 decomposers
 decomposes
-decomposing
 decomposition
 decapod
 decomposure
@@ -5634,6 +5633,7 @@ dependably
 dependance
 dependant
 dependantly
+decomposing
 depended
 dependence
 dependency
