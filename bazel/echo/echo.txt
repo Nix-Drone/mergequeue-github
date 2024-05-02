@@ -2911,7 +2911,6 @@ extemporise
 elfkin
 elfland
 elflike
-elflock
 easterlies
 elflocks
 elfship
@@ -13597,6 +13596,7 @@ exteriorized
 erratum
 exteriorizing
 exteriorly
+elflock
 exteriorness
 exterminable
 exoduses
