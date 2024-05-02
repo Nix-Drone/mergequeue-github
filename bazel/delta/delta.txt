@@ -1711,7 +1711,6 @@ deathrates
 diagrydium
 deaths
 deathsman
-deathsmen
 depaysee
 deathtime
 deathtrap
@@ -7021,6 +7020,7 @@ desto
 disvalues
 droshky
 destoolment
+deathsmen
 destour
 developpes
 destress
