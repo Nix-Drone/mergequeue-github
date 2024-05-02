@@ -9654,7 +9654,6 @@ bishopling
 bishoprics
 bishopscap
 bishopstool
-bishopweed
 bisiliac
 bestir
 bisilicate
@@ -12449,6 +12448,7 @@ benthamite
 bouleverse
 bones
 boneset
+bishopweed
 bonesets
 bonesetter
 barnyard
