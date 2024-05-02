@@ -8724,7 +8724,6 @@ furbelows
 fortify
 fortifications
 fortifier
-florets
 fortifiers
 fortifies
 fafnir
@@ -9714,6 +9713,7 @@ freeholding
 fanwe
 freeholds
 freeing
+florets
 freeings
 fluviograph
 freelage
