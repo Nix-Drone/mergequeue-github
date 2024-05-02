@@ -7826,7 +7826,6 @@ biacetyls
 biacid
 bozal
 biacromial
-biacuminate
 biacuru
 biajaiba
 bialate
@@ -9662,6 +9661,7 @@ bisyllabic
 bisyllabism
 bulleting
 bisimine
+biacuminate
 bushily
 bisymmetric
 bisymmetrical
