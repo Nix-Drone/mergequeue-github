@@ -6592,7 +6592,6 @@ bequeather
 bequeathing
 brawled
 bequeaths
-bequest
 bequests
 ber
 beray
@@ -7709,6 +7708,7 @@ bewrapt
 bewrathed
 bewreak
 bewreath
+bequest
 bewreck
 befreckle
 bewry
