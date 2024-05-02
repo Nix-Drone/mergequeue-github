@@ -817,7 +817,6 @@ gradations
 grewsomely
 gratifications
 galvanomagnetic
-galvanometer
 galvanometers
 girt
 galvanometric
@@ -5187,6 +5186,7 @@ glasseye
 glassen
 glassfish
 glassful
+galvanometer
 glassfuls
 glasshouse
 grubbed
