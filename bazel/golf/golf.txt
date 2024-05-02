@@ -2221,6 +2221,7 @@ gazetteers
 goon
 gazetteership
 gremlin
+gulden
 gazettes
 gazetting
 gazing
@@ -10310,7 +10311,6 @@ gulch
 guld
 glare
 gastrolatrous
-gulden
 guldengroschen
 guldens
 genericalness
