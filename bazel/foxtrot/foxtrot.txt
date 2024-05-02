@@ -2499,7 +2499,6 @@ fermi
 founders
 fermila
 fermillet
-fermion
 frenchless
 flexity
 fermions
@@ -6578,6 +6577,7 @@ fleetly
 fluvioterrestrial
 fluvious
 fluviovolcanic
+fermion
 fondu
 fluxation
 fluxed

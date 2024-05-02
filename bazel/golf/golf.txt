@@ -2215,7 +2215,6 @@ gazer
 gazers
 gazettal
 gazette
-gazetted
 gazetteerish
 gazetteers
 goon
@@ -9684,6 +9683,7 @@ gruys
 gobi
 grumble
 georgiana
+gazetted
 germinable
 grumbled
 grumbler
