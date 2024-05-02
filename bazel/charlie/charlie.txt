@@ -2320,6 +2320,7 @@ cancha
 canchalagua
 crocard
 canchas
+casketlike
 cancion
 cancionero
 canciones
@@ -5152,7 +5153,6 @@ casitas
 caskanet
 casket
 casketed
-casketlike
 caskets
 casky
 casking
