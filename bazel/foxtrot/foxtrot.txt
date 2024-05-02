@@ -9802,7 +9802,6 @@ freightyard
 flagstaves
 fenestral
 freightliner
-freightment
 freyja
 freijo
 flemishing
@@ -10417,6 +10416,7 @@ frontals
 frontbencher
 favorably
 frontcourt
+freightment
 fronted
 fronter
 frontier
