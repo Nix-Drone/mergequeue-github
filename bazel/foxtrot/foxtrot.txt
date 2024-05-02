@@ -2472,6 +2472,7 @@ ferme
 familarity
 fullymart
 forespeed
+flashgun
 ferment
 furzechat
 fermentable
@@ -5053,7 +5054,6 @@ flashes
 fishiest
 flashforward
 fubbing
-flashgun
 flashguns
 flashiest
 ferrash
