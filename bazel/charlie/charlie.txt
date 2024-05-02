@@ -8936,6 +8936,7 @@ chincha
 characters
 characterstring
 charade
+cozies
 charadrii
 charadriiform
 charadriiformes
@@ -11560,7 +11561,6 @@ cholecystgastrostomy
 cholecystic
 cholecystis
 cholecystitis
-cozies
 cholecystnephrostomy
 cupellation
 cholecystocolostomy
