@@ -2334,7 +2334,6 @@ electrocapillarity
 electrocardiogram
 electrocardiograms
 escarped
-electrocardiograph
 electrocardiographic
 electrocardiographically
 electrocatalysis
@@ -8839,6 +8838,7 @@ extradites
 embryotome
 ends
 essential
+electrocardiograph
 eightballs
 eradicable
 eradicably
