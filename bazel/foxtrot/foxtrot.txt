@@ -1104,6 +1104,7 @@ farmscape
 farmsteads
 farmtown
 farnesol
+foreknowing
 farnesols
 fogas
 flinger
@@ -7779,7 +7780,6 @@ foreknow
 foreknowableness
 foolhardiest
 foreknower
-foreknowing
 foreknowingly
 forelady
 forelay
