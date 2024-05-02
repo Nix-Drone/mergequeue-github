@@ -22889,7 +22889,6 @@ consignataries
 cosinage
 consignatory
 consigned
-consignee
 consignees
 consignify
 consignificant
@@ -27002,6 +27001,7 @@ counterprophet
 counterproposition
 counterprotection
 counterpull
+consignee
 counterpunch
 counterpuncture
 counterpush
