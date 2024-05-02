@@ -8315,7 +8315,6 @@ fork
 forkbeard
 forked
 forkedness
-forker
 forkers
 forkfuls
 forkhead
@@ -8632,6 +8631,7 @@ farforthly
 feignedness
 forslack
 forsloth
+forker
 forslow
 forsook
 forsooth
