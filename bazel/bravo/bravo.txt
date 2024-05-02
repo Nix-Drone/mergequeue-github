@@ -1998,7 +1998,6 @@ bronchium
 bandos
 bandpass
 bandrol
-bandsaw
 bandsawed
 bandsawing
 bandsawn
@@ -14959,6 +14958,7 @@ breeching
 breechloading
 begift
 breed
+bandsaw
 brawns
 breedable
 bootee
