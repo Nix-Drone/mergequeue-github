@@ -2260,7 +2260,6 @@ gearcases
 gearman
 gears
 guernseys
-gearset
 gearshift
 gearshifts
 gearwheels
@@ -6053,6 +6052,7 @@ gluconeogenetic
 gluconeogenic
 gnattiest
 gluconokinase
+gearset
 glucosaemia
 glucosone
 glucosamine
