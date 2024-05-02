@@ -5631,7 +5631,6 @@ catboat
 catboats
 catbriers
 catcall
-catcalled
 catcaller
 catcalls
 catch
@@ -9310,6 +9309,7 @@ chatted
 chattel
 chattelhood
 chattelism
+catcalled
 chattelization
 chattelize
 chattelized
