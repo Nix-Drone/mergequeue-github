@@ -2664,7 +2664,6 @@ ferrule
 flowerbed
 ferruled
 ferruler
-ferrules
 fences
 ferrum
 freshes
@@ -10859,6 +10858,7 @@ fulciment
 fulcra
 firecrest
 fulcraceous
+ferrules
 fulcrumed
 fulcruming
 fulcrums
