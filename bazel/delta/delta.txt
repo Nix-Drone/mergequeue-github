@@ -3090,7 +3090,6 @@ deers
 deerskin
 deerstalker
 deerstalkers
-deerstalking
 deerstand
 deerstealer
 discourteously
@@ -5789,6 +5788,7 @@ drapeable
 depolarised
 depolariser
 darksome
+deerstalking
 depolarising
 docetic
 depolarization
