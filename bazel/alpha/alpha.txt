@@ -8489,6 +8489,7 @@ alkylamine
 alkylamino
 alkylarylsulfonate
 alkylate
+aniselike
 alkylated
 alkylates
 alkylating
@@ -13250,7 +13251,6 @@ aniseeds
 aniseikonia
 aspirated
 aniseikonic
-aniselike
 amphigoric
 anises
 archhost
