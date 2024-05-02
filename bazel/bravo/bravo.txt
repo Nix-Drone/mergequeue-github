@@ -7575,6 +7575,7 @@ beveling
 bevelled
 beveller
 bookbinder
+burghbote
 bevenom
 bever
 beverage
@@ -10193,7 +10194,6 @@ beastdom
 blacksmiths
 blacksnake
 blackstick
-burghbote
 baneful
 blacktail
 bliaut
