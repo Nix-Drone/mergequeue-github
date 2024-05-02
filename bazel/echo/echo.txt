@@ -7318,7 +7318,6 @@ eolation
 eole
 eolian
 eolipile
-eolipiles
 eolithic
 eolopile
 eolopiles
@@ -7583,6 +7582,7 @@ epibole
 epiboly
 epibolic
 epistyles
+eolipiles
 epibolism
 epiboulangerite
 epical
