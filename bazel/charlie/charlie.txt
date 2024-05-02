@@ -11594,6 +11594,7 @@ choledochoplasty
 choledochorrhaphy
 choledochostomy
 cace
+chace
 choledochostomies
 choledochotomy
 choledochotomies
@@ -12796,7 +12797,6 @@ confronted
 chunk
 chunked
 chunkhead
-chace
 chunky
 coho
 chunkier
