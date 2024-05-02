@@ -2462,6 +2462,7 @@ decivilize
 deck
 dateline
 decke
+defensorship
 deckedout
 deckel
 deckels
@@ -3279,7 +3280,6 @@ defensively
 defensiveness
 defensor
 defensory
-defensorship
 defer
 deference
 deferentially
