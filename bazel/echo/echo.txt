@@ -5259,7 +5259,6 @@ esphresis
 endopoditic
 euphonium
 endopods
-endopolyploidy
 endoprocta
 endoproctous
 endopterygota
@@ -11927,6 +11926,7 @@ excelsior
 endophytic
 embalmment
 excentric
+endopolyploidy
 excentrical
 excentricity
 equaeval
