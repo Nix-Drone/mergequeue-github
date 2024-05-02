@@ -14480,7 +14480,6 @@ bannets
 branchiostegidae
 branchiostoma
 branchiostomid
-branchiostomous
 branchipodidae
 branchipus
 branchireme
@@ -15460,6 +15459,7 @@ behemoth
 bringela
 bringer
 bringers
+branchiostomous
 bringeth
 bringing
 buttal
