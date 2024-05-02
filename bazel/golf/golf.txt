@@ -2354,7 +2354,6 @@ geyerite
 geiger
 gangrel
 gemsboks
-glede
 gantryman
 glunched
 giust
@@ -4760,6 +4759,7 @@ guildsman
 golliwogg
 gorkhali
 gyrocompasses
+glede
 glassblowers
 gyrodactylidae
 gapa

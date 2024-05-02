@@ -7221,7 +7221,6 @@ centroidal
 centroids
 centrolecithal
 centrolepidaceae
-centrolepidaceous
 centrolinead
 centromere
 centromeric
@@ -22539,6 +22538,7 @@ conn
 connaraceous
 connarus
 connascency
+centrolepidaceous
 connascent
 connatal
 connate
