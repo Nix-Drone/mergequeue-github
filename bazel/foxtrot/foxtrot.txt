@@ -711,6 +711,7 @@ famine
 fifteener
 famines
 faena
+fillet
 famished
 famishing
 famishment
@@ -8850,7 +8851,6 @@ fossane
 fidel
 fossate
 fauna
-fillet
 fosse
 fosses
 fibromyomatous
