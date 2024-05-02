@@ -1098,7 +1098,6 @@ farmland
 farmost
 farmout
 fasteners
-fisc
 farms
 farmscape
 farmsteads
@@ -8231,6 +8230,7 @@ foreturn
 fermental
 forgery
 forgeries
+fisc
 forges
 fluctigerous
 forget
