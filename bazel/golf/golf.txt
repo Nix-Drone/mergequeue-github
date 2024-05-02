@@ -167,7 +167,6 @@ greasiness
 gaduin
 gadus
 gadwall
-gadwalls
 ghrush
 gonotokont
 gadzooks
@@ -7239,6 +7238,7 @@ gormand
 grassplat
 gormandised
 gormandism
+gadwalls
 gormandize
 geodetics
 gormandizes
