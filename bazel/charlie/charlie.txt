@@ -3688,7 +3688,6 @@ conrail
 carbodynamite
 carbohemoglobin
 calamodendron
-carbohydrase
 carbohydrate
 carbohydrates
 carbohydraturia
@@ -11622,6 +11621,7 @@ cholera
 choleras
 chappie
 choleric
+carbohydrase
 cholerically
 cholericly
 cholericness
