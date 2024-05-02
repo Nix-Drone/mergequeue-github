@@ -7402,6 +7402,7 @@ cephalotribe
 cephalotrocha
 cephalotus
 cephalous
+chemotaxonomy
 cephas
 cepheid
 conchucu
@@ -9944,7 +9945,6 @@ chemotactic
 chemotactically
 chemotaxy
 chemotaxis
-chemotaxonomy
 chemotaxonomic
 chemotaxonomically
 cannular
