@@ -2811,7 +2811,6 @@ barometz
 baromotor
 baldricks
 baronage
-baronages
 baronduki
 bibliolater
 bobberies
@@ -12334,6 +12333,7 @@ bombs
 bombsights
 belgard
 bombus
+baronages
 bomi
 bomos
 bonace
