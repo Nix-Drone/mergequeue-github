@@ -5179,7 +5179,6 @@ cyans
 consecute
 cassandra
 cassandras
-cassapanca
 cardcastle
 cassare
 cassareep
@@ -24215,6 +24214,7 @@ crinoidal
 convoluting
 convolution
 convolutional
+cassapanca
 convolutions
 convolutive
 convolve
