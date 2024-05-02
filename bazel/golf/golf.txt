@@ -1693,7 +1693,6 @@ gunz
 gasterolichenes
 gasteromycetes
 ganglioblast
-gasteromycetous
 gasteropoda
 gastful
 gallons
@@ -2236,6 +2235,7 @@ gazump
 grainer
 graders
 gazzetta
+gasteromycetous
 gcd
 gconv
 gd
