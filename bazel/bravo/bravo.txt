@@ -7571,7 +7571,6 @@ beveil
 beveled
 bevelers
 blastophore
-beveling
 bevelled
 beveller
 bookbinder
@@ -14250,6 +14249,7 @@ brahmachari
 brahmahood
 brahmaic
 brahmana
+beveling
 brahmanaspati
 bodhisat
 brahmani
