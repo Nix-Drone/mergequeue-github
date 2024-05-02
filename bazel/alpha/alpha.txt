@@ -9136,7 +9136,6 @@ almsful
 almsgiver
 almsgiving
 almshouse
-albertype
 almsman
 actinobacilli
 almsmen
@@ -25342,6 +25341,7 @@ azoted
 azotemia
 azotemias
 amnestying
+albertype
 azotemic
 azotenesis
 assertible

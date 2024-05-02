@@ -11542,7 +11542,6 @@ disconformity
 disconformities
 disconjure
 disconnect
-disconnected
 dandified
 disconnectedly
 dereferenced
@@ -12124,6 +12123,7 @@ disfiguration
 disfigurative
 decertifying
 disfigure
+disconnected
 disfigured
 defencelessness
 disfigurer
