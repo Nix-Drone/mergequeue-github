@@ -4909,6 +4909,7 @@ demonize
 demonized
 demonizes
 demonizing
+disable
 drupaceous
 demonkind
 demonland
@@ -10872,7 +10873,6 @@ dis
 disa
 dashboards
 disabilities
-disable
 disabled
 doorplates
 disablement
