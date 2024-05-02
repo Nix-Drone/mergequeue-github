@@ -9444,7 +9444,6 @@ byre
 birectangular
 birefracting
 birefraction
-birefringent
 bigram
 byreman
 birettas
@@ -10562,6 +10561,7 @@ bld
 bothriocidaris
 blea
 bleach
+birefringent
 bleachability
 bleachable
 bleached
