@@ -1625,6 +1625,7 @@ calotte
 calottes
 calp
 calpac
+carried
 calpack
 calpacked
 calpacks
@@ -3640,7 +3641,6 @@ carbamic
 carbamide
 carbamidine
 carbamyl
-carried
 copunctal
 carbamyls
 carbamine
