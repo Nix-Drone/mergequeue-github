@@ -12895,7 +12895,6 @@ churliest
 churlishly
 churlishness
 churm
-churn
 churnability
 churnable
 churned
@@ -17104,6 +17103,7 @@ coagent
 coagents
 coaggregate
 coaggregated
+churn
 coaggregation
 coagitate
 coagitator
