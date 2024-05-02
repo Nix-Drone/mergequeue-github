@@ -6721,7 +6721,6 @@ enterotoxication
 essence
 enterotoxin
 enteroviral
-enterozoon
 emplastra
 equalization
 ensemble
@@ -8665,6 +8664,7 @@ equilibrator
 equilibria
 equilibrial
 equilibriate
+enterozoon
 equilibrio
 equilibrious
 equilibristat
