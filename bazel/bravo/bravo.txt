@@ -8950,7 +8950,6 @@ botan
 biocidal
 biocide
 biocides
-bioclimatic
 bioclimatician
 bioclimatology
 bioclimatological
@@ -9125,6 +9124,7 @@ bioplastic
 biopoiesis
 biod
 biological
+bioclimatic
 biopotential
 biramose
 bioprecipitation
