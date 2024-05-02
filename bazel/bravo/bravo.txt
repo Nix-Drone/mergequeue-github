@@ -3798,7 +3798,6 @@ battings
 battish
 battledores
 baldly
-boyar
 battledoring
 borehole
 battlefront
@@ -13744,6 +13743,7 @@ boweling
 bowelled
 bowelless
 bowellike
+boyar
 bowelling
 bower
 bowerbird
