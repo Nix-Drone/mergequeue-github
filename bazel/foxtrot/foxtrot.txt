@@ -1185,6 +1185,7 @@ fenite
 fascia
 fogeater
 fasciae
+followership
 fasciate
 featherbone
 fasciated
@@ -8788,7 +8789,6 @@ fortunetelling
 fortuning
 fortunite
 fortunize
-followership
 fortuuned
 forumize
 forvay
