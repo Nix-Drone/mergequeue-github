@@ -2634,6 +2634,7 @@ genae
 genal
 genapp
 gasking
+gilding
 gater
 genapping
 genarch
@@ -4111,7 +4112,6 @@ gilder
 grewhound
 gildhall
 gorgeously
-gilding
 giddyberry
 greenest
 giantlike
