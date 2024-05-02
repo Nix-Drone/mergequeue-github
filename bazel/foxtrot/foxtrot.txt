@@ -4403,7 +4403,6 @@ furlough
 fishline
 fishlines
 frondage
-fishling
 fishman
 fishmeals
 fishmonger
@@ -6935,6 +6934,7 @@ foreyear
 folksay
 folksey
 folksy
+fishling
 folksiest
 folksily
 folksiness
