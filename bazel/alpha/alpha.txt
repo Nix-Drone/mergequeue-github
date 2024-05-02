@@ -2060,7 +2060,6 @@ acetylic
 acetylid
 acetylide
 acetyliodide
-acetylizable
 acetylization
 acetylize
 acetylized
@@ -16701,6 +16700,7 @@ apartheid
 amberies
 aparthrosis
 animately
+acetylizable
 apartmental
 apartments
 anorganic
