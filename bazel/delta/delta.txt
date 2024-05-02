@@ -8868,7 +8868,6 @@ dichloramine
 dichlorhydrin
 dichloride
 dichloroacetic
-dichlorobenzene
 dichlorodifluoromethane
 dichlorodiphenyltrichloroethane
 dichlorohydrin
@@ -13487,6 +13486,7 @@ desolations
 disseizoress
 disseizure
 dissemblance
+dichlorobenzene
 descanter
 dictyonina
 dissemble
