@@ -4169,7 +4169,6 @@ admonish
 admonished
 achango
 admonisher
-admonishes
 admonishing
 anaesthetizing
 admonishingly
@@ -24484,6 +24483,7 @@ autoxidizability
 autoxidizable
 autoxidize
 autoxidizer
+admonishes
 autozooid
 autre
 autrefois
