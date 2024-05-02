@@ -8193,7 +8193,6 @@ diagenetic
 diageotropy
 diageotropic
 diaglyph
-diaglyphic
 ductus
 diaglyptic
 diagnosable
@@ -10320,6 +10319,7 @@ diorites
 diorthoses
 distraint
 diorthosis
+diaglyphic
 diorthotic
 dioscorea
 dioscoreaceous
