@@ -3921,6 +3921,7 @@ electrotonus
 epacme
 emilia
 emim
+expositions
 eminence
 eminences
 eminencies
@@ -13299,7 +13300,6 @@ esthesiometry
 exsanguinity
 exposition
 expositional
-expositions
 expositive
 expositively
 exclude
