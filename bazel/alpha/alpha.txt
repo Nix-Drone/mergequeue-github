@@ -1571,7 +1571,6 @@ angustirostrate
 acclimation
 acclimatisable
 acclimatisation
-acclimatise
 acclimatised
 acclimatiser
 acclimatising
@@ -21443,6 +21442,7 @@ asphalt
 asphalted
 asphaltene
 asphalter
+acclimatise
 asphaltic
 asphaltlike
 asphalts
