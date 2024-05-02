@@ -8870,7 +8870,6 @@ chapstick
 concurbit
 chaptalization
 chaptalize
-chapter
 chapteral
 chaptered
 chapterhouse
@@ -16707,6 +16706,7 @@ clothesman
 cosuitor
 clothesmen
 clothespin
+chapter
 clothespins
 clothespresses
 clothy
