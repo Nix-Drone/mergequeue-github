@@ -5261,7 +5261,6 @@ deess
 denotatively
 denotativeness
 denotatum
-denote
 denoted
 denotement
 denotes
@@ -17764,6 +17763,7 @@ ducaton
 dette
 ducats
 ducdame
+denote
 duce
 duces
 dangerfully
