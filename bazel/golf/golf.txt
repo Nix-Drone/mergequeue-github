@@ -2265,7 +2265,6 @@ gearshift
 gearshifts
 gearwheels
 glistening
-gease
 geat
 geb
 gebanga
@@ -5881,6 +5880,7 @@ galvanomagnet
 glossist
 glossitic
 glossitis
+gease
 garbleable
 glossless
 glossocele
