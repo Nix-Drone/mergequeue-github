@@ -1085,7 +1085,6 @@ farmerlike
 farmership
 farmhold
 farmhouse
-feronia
 farmhousey
 fontinalaceae
 fuzzle
@@ -2159,6 +2158,7 @@ fellatrix
 felled
 fellest
 fellfare
+feronia
 felly
 felliducous
 fretwise
