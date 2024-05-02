@@ -5087,7 +5087,6 @@ denaturational
 diver
 denature
 denatured
-denaturing
 denaturisation
 denaturise
 denaturised
@@ -13077,6 +13076,7 @@ dysphonia
 dysphonic
 dysphoria
 dysphoric
+denaturing
 dysphotic
 dysphrasia
 detrimental
