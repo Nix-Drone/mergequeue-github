@@ -9405,7 +9405,6 @@ altarpieces
 altars
 afghanets
 altazimuth
-alter
 alterability
 alterable
 alterableness
@@ -17964,6 +17963,7 @@ apprentice
 apprenticehood
 apprenticement
 apprenticeships
+alter
 apprenticing
 appress
 appressed
