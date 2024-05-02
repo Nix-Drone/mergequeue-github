@@ -4799,6 +4799,7 @@ frontspiece
 flagpole
 faunula
 figurehead
+foragement
 flagpoles
 flagrance
 flagrancy
@@ -7313,7 +7314,6 @@ forage
 facers
 foraged
 fluttery
-foragement
 forager
 foraging
 foray
