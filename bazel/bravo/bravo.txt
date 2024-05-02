@@ -2818,6 +2818,7 @@ bobberies
 baroness
 baronesses
 baronet
+battlefield
 baronetage
 beswelter
 baronetcy
@@ -10276,7 +10277,6 @@ bittersweetness
 bromocyanid
 blamefully
 blamefulness
-battlefield
 blameless
 beignets
 barrat
