@@ -7072,7 +7072,6 @@ centetid
 conusee
 centgener
 cohesions
-centiar
 centiare
 centiares
 centiday
@@ -18786,6 +18785,7 @@ coliform
 coliforms
 coliidae
 cavil
+centiar
 colilysin
 colima
 colymbidae
