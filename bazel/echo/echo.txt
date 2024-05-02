@@ -2435,6 +2435,7 @@ electroengraving
 electroextraction
 expedient
 electroform
+exploit
 electroforming
 electrofusion
 ethanol
@@ -13205,7 +13206,6 @@ exploder
 exhaustlessness
 exploders
 explodes
-exploit
 ecumenics
 exploitable
 exploitation
