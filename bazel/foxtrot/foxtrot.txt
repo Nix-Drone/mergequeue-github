@@ -5842,7 +5842,6 @@ floccose
 floccosely
 flocculable
 fangas
-flocculation
 flocculator
 forts
 fencing
@@ -10532,6 +10531,7 @@ frother
 frothy
 forebodings
 frothier
+flocculation
 feodary
 frothless
 fitroot
