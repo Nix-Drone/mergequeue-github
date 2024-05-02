@@ -3986,7 +3986,6 @@ adjudgeable
 adjudger
 adjudges
 adjudging
-adjudicata
 appestat
 adjudicate
 adjudicated
@@ -12946,6 +12945,7 @@ anguillulidae
 approaches
 anguine
 anguineal
+adjudicata
 anguineous
 anguinidae
 anguiped
