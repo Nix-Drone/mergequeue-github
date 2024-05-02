@@ -7501,7 +7501,6 @@ foreadvise
 forearmed
 foreallege
 foreallot
-foreannounce
 flatuses
 foreappoint
 foreappointment
@@ -8704,6 +8703,7 @@ forthputting
 forthright
 fetches
 foretake
+foreannounce
 forthset
 fadges
 frickle
