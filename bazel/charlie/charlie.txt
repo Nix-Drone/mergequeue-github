@@ -17200,7 +17200,6 @@ coalsack
 coalsacks
 coalshed
 coalsheds
-cantil
 coalternate
 coalternative
 coaltitude
@@ -20798,6 +20797,7 @@ composant
 composed
 croupily
 composedly
+cantil
 composedness
 composer
 composing
