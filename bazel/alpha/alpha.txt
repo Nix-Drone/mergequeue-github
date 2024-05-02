@@ -5013,7 +5013,6 @@ aeromancy
 aeromechanic
 aeromechanics
 aeromedical
-aeromedicine
 aerometeorograph
 aerometer
 aerometry
@@ -5078,6 +5077,7 @@ aerose
 aerosiderolite
 amphib
 aerosol
+aeromedicine
 aerosolization
 aerosolize
 aerosolized
