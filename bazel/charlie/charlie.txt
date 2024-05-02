@@ -5046,7 +5046,6 @@ casearia
 casease
 caseases
 caseate
-caseated
 caseates
 caseating
 caseation
@@ -28359,6 +28358,7 @@ creamcake
 creamcup
 creamcups
 creamed
+caseated
 creamer
 creamery
 creameries
