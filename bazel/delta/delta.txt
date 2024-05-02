@@ -4853,7 +4853,6 @@ dishwash
 demoiselles
 demolish
 demolished
-demolisher
 demolishing
 diarrhoea
 demolishment
@@ -5632,6 +5631,7 @@ dependabilities
 dependableness
 dependably
 dependance
+demolisher
 dependant
 dependantly
 depended
