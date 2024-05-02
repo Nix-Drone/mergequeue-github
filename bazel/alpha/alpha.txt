@@ -5601,6 +5601,7 @@ afterdeal
 afterdeath
 afterdeck
 afterdrain
+arboret
 aftereffect
 aftereffects
 aftereye
@@ -18607,7 +18608,6 @@ arborescence
 arborescently
 apopyle
 amyotaxia
-arboret
 arbory
 apprizement
 anyplace
