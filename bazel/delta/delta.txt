@@ -10581,7 +10581,6 @@ diplomaing
 diplomas
 diplomat
 diplomata
-diplomate
 diplomates
 diplomatically
 diplomatique
@@ -14757,6 +14756,7 @@ documentarian
 documentaries
 documentarily
 driest
+diplomate
 documentarist
 documentational
 dumky
