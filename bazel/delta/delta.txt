@@ -15623,7 +15623,6 @@ dawdle
 doorsills
 doorstead
 didactics
-doorstep
 doorstone
 doorstop
 deaconize
@@ -16604,6 +16603,7 @@ dibatis
 dragman
 drago
 dragoman
+doorstep
 dragomanate
 dragomanic
 dragomanish
