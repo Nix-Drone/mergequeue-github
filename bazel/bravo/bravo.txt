@@ -3820,6 +3820,7 @@ buhr
 battlesome
 boatfalls
 banderilla
+bearing
 battlestead
 battlewagon
 battleward
@@ -4212,7 +4213,6 @@ bearherd
 bearhug
 bilicyanin
 bearhugs
-bearing
 bearish
 broths
 brockages
