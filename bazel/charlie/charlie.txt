@@ -4750,6 +4750,7 @@ carriable
 carryable
 carriage
 carriageable
+corteise
 carriageful
 carriages
 carriagesmith
@@ -17942,7 +17943,6 @@ chartreuse
 coelosperm
 coelospermous
 coelostat
-corteise
 coelozoic
 coeltera
 coemanate
