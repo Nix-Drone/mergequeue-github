@@ -3883,7 +3883,6 @@ extrabulbar
 emetomorphine
 emeu
 engladden
-emf
 emulator
 emforth
 emic
@@ -5163,6 +5162,7 @@ endoesophagitis
 endofaradism
 endogamy
 endogamic
+emf
 endogamous
 encipherer
 endogastritis
