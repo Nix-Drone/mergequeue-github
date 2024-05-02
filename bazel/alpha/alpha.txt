@@ -137,7 +137,6 @@ abatable
 amoebid
 abated
 abatement
-abatements
 abater
 abaters
 abatic
@@ -1741,6 +1740,7 @@ accretal
 accrete
 accretes
 accreting
+abatements
 accretion
 accretions
 according
