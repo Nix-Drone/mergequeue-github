@@ -2470,7 +2470,6 @@ decker
 daphnioid
 deckhand
 deckhead
-deckhouse
 deckle
 deckman
 deckpipe
@@ -3875,6 +3874,7 @@ deionizations
 deionize
 deionized
 denegate
+deckhouse
 deionizer
 deionizes
 deiphobus
