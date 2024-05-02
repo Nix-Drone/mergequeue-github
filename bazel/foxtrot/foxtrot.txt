@@ -8388,7 +8388,6 @@ formalizations
 formerness
 formalized
 formalizer
-foreknowledge
 fettuccine
 formally
 formalness
@@ -9877,6 +9876,7 @@ frequentness
 furlane
 fimbriation
 fewnesses
+foreknowledge
 frescade
 frescoed
 frontingly
