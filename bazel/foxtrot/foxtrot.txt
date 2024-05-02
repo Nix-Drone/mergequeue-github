@@ -555,6 +555,7 @@ fissirostral
 falla
 fallace
 feltlike
+flights
 foretalk
 fidalgo
 flyability
@@ -5603,7 +5604,6 @@ flightiness
 flightless
 forepassed
 frailest
-flights
 flightworthy
 flying
 flyings
