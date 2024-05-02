@@ -3077,7 +3077,6 @@ ellipse
 ellipsis
 ellipsograph
 ellipsoid
-ellipsoidal
 ellipsoids
 executiveness
 ellipsone
@@ -4204,6 +4203,7 @@ emplunge
 empodia
 eatche
 empoison
+ellipsoidal
 empoisoned
 encaustes
 ephoral
