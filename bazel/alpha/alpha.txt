@@ -5362,7 +5362,6 @@ ague
 affixture
 afflate
 afflated
-afflatus
 afflatuses
 afflict
 algesireceptor
@@ -16793,6 +16792,7 @@ aperu
 aperulosid
 apes
 antiptosis
+afflatus
 apesthetic
 apesthetize
 attachment
