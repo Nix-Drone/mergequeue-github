@@ -2925,7 +2925,6 @@ feudalize
 fratching
 feudalized
 feudalizing
-feudary
 fantastical
 feudaries
 feudatary
@@ -6306,6 +6305,7 @@ fingerflower
 fluidizes
 fluidmeter
 faulted
+feudary
 fluidness
 fluidounce
 friskers
