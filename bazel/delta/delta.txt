@@ -2569,7 +2569,6 @@ decocainize
 decoct
 decoctible
 delawn
-decocting
 decoction
 disarrest
 decoctive
@@ -13808,6 +13807,7 @@ distyle
 distill
 doralium
 deles
+decocting
 distillable
 dollhouse
 distillage
