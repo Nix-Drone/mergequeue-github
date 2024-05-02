@@ -11588,7 +11588,6 @@ boated
 boatel
 boatels
 boatheader
-boathook
 boathouse
 boathouses
 boatyard
@@ -17308,6 +17307,7 @@ bummel
 bummer
 bummery
 bummers
+boathook
 bummil
 bumming
 bummle
