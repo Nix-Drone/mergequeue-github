@@ -1566,7 +1566,6 @@ bouton
 butomus
 ballaster
 ballastic
-ballasting
 ballat
 ballata
 ballate
@@ -3377,6 +3376,7 @@ bucconasal
 basketworm
 basking
 baskish
+ballasting
 basnat
 baltic
 basoche
