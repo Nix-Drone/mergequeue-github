@@ -4799,6 +4799,7 @@ frontspiece
 flagpole
 faunula
 figurehead
+frankhearted
 flagpoles
 flagrance
 flagrancy
@@ -8695,7 +8696,6 @@ forthink
 formicarium
 ficus
 forthinking
-frankhearted
 florescence
 fallibly
 forthought
