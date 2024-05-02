@@ -14402,7 +14402,6 @@ circumpolygon
 circumpose
 circumposition
 condite
-circumquaque
 circumradii
 circumradius
 circumradiuses
@@ -22793,6 +22792,7 @@ consenter
 curium
 consenters
 consentfully
+circumquaque
 casthouse
 consentience
 consentient
