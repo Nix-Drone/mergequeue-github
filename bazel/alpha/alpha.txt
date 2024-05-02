@@ -2697,7 +2697,6 @@ allocated
 auxoflore
 acquiesence
 acquiet
-acquirability
 acquirable
 antares
 acquire
@@ -4511,6 +4510,7 @@ aduncity
 aduncous
 adure
 adurent
+acquirability
 antipuritan
 adust
 adustion
