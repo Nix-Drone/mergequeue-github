@@ -6105,6 +6105,7 @@ felspar
 furnisher
 flotsams
 fishmeal
+forereckon
 freighter
 film
 forewish
@@ -7913,7 +7914,6 @@ forerank
 forereach
 forereading
 forerecited
-forereckon
 forerehearsed
 forerequest
 forerevelation
