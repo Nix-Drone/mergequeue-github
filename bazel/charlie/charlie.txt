@@ -7099,7 +7099,6 @@ centimo
 centimolar
 cheeker
 centimos
-centinel
 centinormal
 centipedes
 centiplume
@@ -20382,6 +20381,7 @@ compact
 compactability
 compactable
 compacted
+centinel
 compactedly
 compactedness
 compacter
