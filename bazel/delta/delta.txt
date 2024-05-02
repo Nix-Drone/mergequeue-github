@@ -5753,6 +5753,7 @@ deploy
 deployed
 deploying
 defilade
+dolia
 deployment
 deployments
 deftest
@@ -15134,7 +15135,6 @@ dolesomely
 deplete
 dolf
 doli
-dolia
 dolichocephali
 dolichocephalism
 denticete
