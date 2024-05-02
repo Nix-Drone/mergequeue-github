@@ -4442,7 +4442,6 @@ demark
 demarkation
 demarked
 decollation
-demarks
 demasculinisation
 demasculinise
 demasculinised
@@ -9862,6 +9861,7 @@ dimeter
 dimeters
 dimethyl
 dimethylamine
+demarks
 dimethylamino
 dimethylanthranilate
 dimethylbenzene
