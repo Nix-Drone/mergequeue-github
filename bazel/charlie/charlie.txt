@@ -1127,7 +1127,6 @@ calculatory
 calculators
 calculer
 calculiform
-calculifrage
 chedar
 calculous
 calculus
@@ -2542,6 +2541,7 @@ canker
 cankerberry
 cankerbird
 crafting
+calculifrage
 cankereat
 cankered
 cankeredly
