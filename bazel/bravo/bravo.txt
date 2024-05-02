@@ -1401,7 +1401,6 @@ blithen
 baldaquin
 baldberry
 brunches
-baldcrown
 balded
 balder
 balderdash
@@ -14434,6 +14433,7 @@ branchellion
 brancher
 branchery
 branches
+baldcrown
 beadle
 branchful
 branchy
