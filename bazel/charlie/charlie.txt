@@ -10102,6 +10102,7 @@ chesoun
 chess
 chessart
 chessboard
+cystoma
 chessboards
 chessdom
 chessel
@@ -14702,7 +14703,6 @@ cystolith
 cystolithiasis
 cystolithic
 carburising
-cystoma
 cystomas
 cystomata
 cystomatous
