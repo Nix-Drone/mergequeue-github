@@ -4177,6 +4177,7 @@ feuage
 firecrackers
 farness
 firedamp
+flipperling
 feezing
 firedamps
 firedog
@@ -9033,7 +9034,6 @@ flaser
 fourberie
 flite
 fourcher
-flipperling
 franklinia
 filea
 foveola
