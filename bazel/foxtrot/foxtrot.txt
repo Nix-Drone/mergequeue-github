@@ -1074,7 +1074,6 @@ freshening
 furriners
 farmable
 farmed
-farmer
 farmeress
 farmery
 filigraned
@@ -10542,6 +10541,7 @@ frotteur
 frotteurs
 forays
 frotting
+farmer
 frottola
 fetishry
 feture
