@@ -4905,7 +4905,6 @@ cartons
 cartoon
 cartoonist
 cartoonists
-condors
 cartoons
 cartop
 cartopper
@@ -14338,6 +14337,7 @@ circumgyrate
 circumgyratory
 circumhorizontal
 camisado
+condors
 circumincession
 circuminsession
 circuminsular
