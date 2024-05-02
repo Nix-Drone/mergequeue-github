@@ -10398,7 +10398,6 @@ ethmolith
 ethmomaxillary
 ethmonasal
 effacer
-ethmopalatal
 ethmopalatine
 ethmophysal
 ethmopresphenoidal
@@ -10468,6 +10467,7 @@ ethnology
 ethnologic
 ethnological
 ethnologically
+ethmopalatal
 ethnologist
 ethnologists
 ethnomanic
