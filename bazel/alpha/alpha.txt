@@ -2697,7 +2697,6 @@ allocated
 auxoflore
 acquiesence
 acquiet
-acquirability
 acquirable
 antares
 acquire
@@ -4904,6 +4903,7 @@ aerobiologist
 amidase
 aerobiont
 aerobioscope
+acquirability
 aerobiosis
 aerobiotic
 aerobiotically
