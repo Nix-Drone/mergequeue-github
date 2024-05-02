@@ -10032,7 +10032,6 @@ fleshhook
 friezer
 frigage
 frigate
-frigates
 frigatoon
 frigged
 frigger
@@ -10801,6 +10800,7 @@ forinsec
 fth
 fthm
 forwardation
+frigates
 ftncmd
 featherlet
 frenetic
