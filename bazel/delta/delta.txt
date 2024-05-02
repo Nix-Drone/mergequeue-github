@@ -5099,7 +5099,6 @@ denaturizer
 denaturizing
 denazify
 denazifies
-denazifying
 dendra
 dendral
 dendraspis
@@ -11649,6 +11648,7 @@ discountenanced
 discountenancer
 discountenances
 discounter
+denazifying
 distastes
 discounters
 discounting
