@@ -2037,6 +2037,7 @@ banff
 banga
 bangalow
 bangash
+bypassed
 boodling
 bangboard
 banger
@@ -9266,7 +9267,6 @@ bipartition
 bipartizan
 bipaschal
 bypass
-bypassed
 bypasser
 bypassing
 bypath
