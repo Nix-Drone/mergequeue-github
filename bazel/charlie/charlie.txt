@@ -21973,7 +21973,6 @@ confinements
 confiner
 confiners
 confines
-confining
 confinity
 confirmability
 chivying
@@ -25721,6 +25720,7 @@ choffer
 corrober
 corroborant
 chaja
+confining
 corroborate
 corroborated
 continuate
