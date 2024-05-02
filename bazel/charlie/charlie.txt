@@ -14875,7 +14875,6 @@ cytoarchitecture
 certioration
 cytoblast
 confidences
-cytoblastema
 cytoblastemal
 cytoblastematous
 cytoblastemous
@@ -20851,6 +20850,7 @@ coumara
 chechehet
 clar
 compoundedness
+cytoblastema
 compounder
 compounders
 compounding
