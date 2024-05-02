@@ -10443,7 +10443,6 @@ blastogranitic
 blastoid
 bodywood
 blastoma
-blastomas
 blastomata
 blastomere
 blastomeric
@@ -14452,6 +14451,7 @@ branchiest
 branchiferous
 beswarming
 branchiform
+blastomas
 branchihyal
 branchiness
 blackcurrant
