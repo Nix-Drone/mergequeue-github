@@ -409,7 +409,6 @@ galaginae
 gimballing
 gangboard
 galago
-galagos
 galahads
 galanas
 grubberies
@@ -974,6 +973,7 @@ gamesman
 gamesome
 gamesomeness
 gamest
+galagos
 gamester
 guaiol
 gametal
