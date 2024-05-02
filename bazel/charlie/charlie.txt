@@ -9857,7 +9857,6 @@ chemiluminescent
 chemin
 cheminee
 chemiotactic
-chemiotaxic
 chemiotaxis
 chemiotropic
 chemiotropism
@@ -23439,6 +23438,7 @@ contend
 contended
 contendent
 contender
+chemiotaxic
 contending
 contendingly
 contendress
