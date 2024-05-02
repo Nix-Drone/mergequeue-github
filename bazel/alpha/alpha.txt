@@ -23832,7 +23832,6 @@ authoritativeness
 authority
 announceable
 authorities
-authorize
 authorized
 authorizer
 alluvions
@@ -24120,6 +24119,7 @@ autoimmunization
 autoimmunize
 autoimmunizing
 autoincrement
+authorize
 autoincrements
 autoindex
 autoindexing
