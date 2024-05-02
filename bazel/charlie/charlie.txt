@@ -11074,6 +11074,7 @@ chitins
 chitlin
 continue
 chitling
+colorbearer
 chitlings
 chewstick
 cowpath
@@ -22543,7 +22544,6 @@ connascent
 connatal
 connate
 connately
-colorbearer
 connateness
 connation
 connatural
