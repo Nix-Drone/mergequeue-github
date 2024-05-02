@@ -1998,7 +1998,6 @@ bronchium
 bandos
 bandpass
 bandrol
-bandsaw
 bandsawed
 bandsawing
 bandsawn
@@ -16863,6 +16862,7 @@ bufonite
 bufotalin
 bufotoxin
 bandi
+bandsaw
 bugaboo
 bugaboos
 bugala
