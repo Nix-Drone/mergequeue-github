@@ -1845,7 +1845,6 @@ feature
 forthrightly
 featured
 featureful
-featurelessness
 featurely
 featureliness
 flywheel
@@ -2560,6 +2559,7 @@ filt
 foulmouth
 ferredoxin
 ferreiro
+featurelessness
 ferreled
 ferreling
 ferrelling
