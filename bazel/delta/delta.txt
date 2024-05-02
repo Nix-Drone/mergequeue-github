@@ -3449,6 +3449,7 @@ deflorate
 defloration
 deflorations
 deflore
+digestor
 deflorescence
 deflourish
 dropforged
@@ -9439,7 +9440,6 @@ digestively
 digestiveness
 dermad
 digestment
-digestor
 defeminization
 digestory
 digestors
