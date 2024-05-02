@@ -113,7 +113,6 @@ earrings
 ears
 earscrew
 earsh
-endoskeletal
 earshot
 edifies
 epistolean
@@ -13595,6 +13594,7 @@ ejects
 encomiendas
 exteriorized
 erratum
+endoskeletal
 exteriorizing
 exteriorly
 exteriorness
