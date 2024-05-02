@@ -2874,6 +2874,7 @@ bitis
 barothermograph
 barothermohygrograph
 baroto
+beroll
 barotrauma
 bulgurs
 barotraumas
@@ -6823,7 +6824,6 @@ beroe
 berogue
 beroida
 beroidae
-beroll
 berossos
 berouged
 beround
