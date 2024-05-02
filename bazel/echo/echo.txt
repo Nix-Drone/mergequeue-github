@@ -7321,6 +7321,7 @@ eolipile
 eolipiles
 eolithic
 eolopile
+extends
 eolopiles
 eggnogs
 eolotropic
@@ -13539,7 +13540,6 @@ extended
 extendedly
 extender
 extending
-extends
 enworthy
 extensibility
 extensible
