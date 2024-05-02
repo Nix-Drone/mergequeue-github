@@ -3568,7 +3568,6 @@ filaments
 filamentule
 filander
 filao
-forsterite
 filaree
 fishboats
 filarees
@@ -9554,6 +9553,7 @@ focalises
 furcating
 fratry
 fulcrate
+forsterite
 foothil
 forcer
 fratricide
