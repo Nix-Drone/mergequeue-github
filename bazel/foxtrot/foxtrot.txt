@@ -7424,6 +7424,7 @@ forcelet
 foglietto
 futhark
 fallacious
+freezable
 forcement
 forcene
 forceps
@@ -9771,7 +9772,6 @@ finch
 freewoman
 freewomen
 figurines
-freezable
 fourths
 farfetch
 faiths
