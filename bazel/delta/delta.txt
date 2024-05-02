@@ -12568,7 +12568,6 @@ disjunctions
 disjunctive
 disjunctively
 disjunctor
-disjuncts
 dereferences
 disjuncture
 disjune
@@ -14516,6 +14515,7 @@ dixenite
 dixie
 dixiecrat
 dixieland
+disjuncts
 dixies
 dixits
 dizain
