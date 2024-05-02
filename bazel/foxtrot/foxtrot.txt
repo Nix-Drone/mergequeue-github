@@ -1090,7 +1090,6 @@ farmhousey
 fontinalaceae
 fuzzle
 farmy
-farmyard
 fructuary
 farmyardy
 foremastman
@@ -1184,6 +1183,7 @@ forestaller
 fenite
 fascia
 fogeater
+farmyard
 fasciae
 fasciate
 featherbone
