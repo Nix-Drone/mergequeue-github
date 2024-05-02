@@ -3587,7 +3587,6 @@ bellower
 bather
 bathers
 bathes
-bathetically
 bathflower
 bathhouse
 bathhouses
@@ -17153,6 +17152,7 @@ bullheads
 bullhide
 bullhoof
 bullhorn
+bathetically
 bullhorns
 bully
 bullyboys
