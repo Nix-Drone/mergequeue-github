@@ -9898,7 +9898,6 @@ chemolytic
 coasted
 colpostat
 culicinae
-chemolyze
 chemonite
 creviced
 chemopallidectomy
@@ -16531,6 +16530,7 @@ clogginess
 clogging
 cloghad
 cloghaun
+chemolyze
 cloghead
 cloglike
 clogmaker
