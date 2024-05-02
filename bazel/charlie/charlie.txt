@@ -5102,7 +5102,6 @@ caseweed
 casewood
 caseworker
 caseworkers
-caseworks
 caseworm
 caseworms
 cash
@@ -15930,6 +15929,7 @@ cleistocarpous
 cleistogamy
 cleistogamic
 cleistogamically
+caseworks
 cleistogamously
 cleistogene
 cleistogeny
