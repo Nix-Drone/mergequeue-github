@@ -5450,7 +5450,6 @@ behear
 behears
 behearse
 beheira
-bandlimit
 behelp
 behemothic
 behemoths
@@ -11848,6 +11847,7 @@ boerhavia
 boethian
 boethusian
 boettner
+bandlimit
 boffin
 boffins
 boffo
