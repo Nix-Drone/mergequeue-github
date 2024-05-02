@@ -5786,6 +5786,7 @@ flyways
 faunas
 further
 flyweight
+forerank
 flyweights
 forthon
 fribblish
@@ -7909,7 +7910,6 @@ figural
 fideles
 frankalmoin
 frenchify
-forerank
 forereach
 forereading
 forerecited
