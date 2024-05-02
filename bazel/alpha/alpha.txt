@@ -11608,7 +11608,6 @@ anaesthetically
 anthropomantic
 ade
 anaesthetics
-anaesthetist
 anaesthetization
 anaesthetize
 anaesthetized
@@ -20520,6 +20519,7 @@ arteriosympathectomy
 airfreight
 arteriospasm
 arteriostenosis
+anaesthetist
 arteriostosis
 arteriostrepsis
 admix
