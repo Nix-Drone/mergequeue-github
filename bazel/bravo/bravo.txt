@@ -1977,6 +1977,7 @@ bandobust
 bandog
 bandogs
 bonfire
+betrothals
 bandoleer
 burlesquely
 bumf
@@ -7495,7 +7496,6 @@ betread
 betrend
 betrinket
 betroth
-betrothals
 betrothing
 betrothment
 betroths
