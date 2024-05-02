@@ -19873,7 +19873,6 @@ arloup
 abundances
 arm
 armadas
-armadilla
 armadillididae
 armadillidium
 armadillos
@@ -21255,6 +21254,7 @@ async
 asynchrony
 asynchronism
 asynchronisms
+armadilla
 asynchronously
 asyndeta
 asyndetic
