@@ -4205,7 +4205,6 @@ armsize
 amberoid
 adneural
 adnex
-adnexal
 acalephan
 adnexed
 adnexitis
@@ -23765,6 +23764,7 @@ autarkist
 aute
 autechoscope
 anomuran
+adnexal
 autoblast
 autecy
 autecious
