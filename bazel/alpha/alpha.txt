@@ -1501,6 +1501,7 @@ althing
 accessless
 achenodia
 accessor
+atomistic
 accessory
 accessories
 anakinetic
@@ -22767,7 +22768,6 @@ atomising
 atomism
 atomisms
 atomist
-atomistic
 atomistical
 atomists
 atomity
