@@ -3895,7 +3895,6 @@ gruffer
 geotactic
 griph
 gibbsites
-gibbus
 gibe
 gnattier
 guarders
@@ -8393,6 +8392,7 @@ grizzlyman
 gravamem
 gravamina
 gravat
+gibbus
 grave
 graveclod
 griquaite
