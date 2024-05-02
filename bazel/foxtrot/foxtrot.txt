@@ -4930,7 +4930,6 @@ forge
 flaminica
 flaminical
 flamless
-flammable
 filmogen
 floorers
 filefish
@@ -5222,6 +5221,7 @@ fidfad
 flavo
 flavone
 flavonoid
+flammable
 flavonol
 flavonols
 fourteenfold
