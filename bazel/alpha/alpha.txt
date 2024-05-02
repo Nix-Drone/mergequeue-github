@@ -229,7 +229,6 @@ abbreviating
 abbreviation
 ascebc
 abbreviations
-abbreviator
 abbreviators
 abbreviature
 abbroachment
@@ -9296,6 +9295,7 @@ alphabetizer
 alphabetizers
 auroras
 adamancies
+abbreviator
 alphabetizes
 alphabetizing
 aptera
