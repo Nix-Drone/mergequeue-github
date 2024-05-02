@@ -1983,7 +1983,6 @@ campaniform
 campanile
 campaniles
 campanili
-campaniliform
 campanini
 campanist
 campanistic
@@ -21656,6 +21655,7 @@ conditionalist
 cassytha
 conditionality
 conditionalities
+campaniliform
 conditionalize
 conditionally
 conditionals
