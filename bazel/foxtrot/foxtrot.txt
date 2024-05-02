@@ -5457,6 +5457,7 @@ fleshiness
 fourniture
 fleshing
 fleshings
+frostfishes
 formatters
 fanjets
 fleshless
@@ -7980,7 +7981,6 @@ foreshoe
 foreshop
 foreshore
 feculae
-frostfishes
 foreshortened
 feedings
 follied
