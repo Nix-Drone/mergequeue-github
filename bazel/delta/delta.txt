@@ -1487,7 +1487,6 @@ deactivation
 deactivations
 deactivator
 deactivators
-defrosts
 deadborn
 deadcenter
 deeryards
@@ -13152,6 +13151,7 @@ displuming
 displuviate
 dyspnea
 dyspneas
+defrosts
 dyspneic
 dyspnoea
 dyspnoeal
