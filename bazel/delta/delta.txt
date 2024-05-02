@@ -1743,7 +1743,6 @@ demagnetisable
 debarked
 debarking
 debarkment
-debarks
 debarment
 debarrance
 diavolo
@@ -4873,6 +4872,7 @@ demonetisation
 delightsomely
 demonetise
 dequeued
+debarks
 demonetising
 demonetize
 dagestan
