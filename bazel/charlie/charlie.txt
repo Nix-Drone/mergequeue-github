@@ -10411,7 +10411,6 @@ chiefling
 chiefs
 chieftain
 chieftaincy
-chieftaincies
 chieftainess
 chieftainry
 chieftainries
@@ -18244,6 +18243,7 @@ cogger
 coggers
 cogging
 culmen
+chieftaincies
 coggle
 coggledy
 cogglety
