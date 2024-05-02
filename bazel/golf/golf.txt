@@ -5696,7 +5696,6 @@ globs
 grumps
 globular
 glossolabial
-gconvert
 ganch
 genuflector
 globularia
@@ -9512,6 +9511,7 @@ gastrogenic
 grouted
 groundkeeper
 grouter
+gconvert
 geothlypis
 grouty
 groutiest

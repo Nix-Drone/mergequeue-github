@@ -2671,7 +2671,6 @@ byres
 bedaff
 barytons
 barytophyllite
-barytosulphate
 bridgelike
 barkan
 bizarrely
@@ -3233,6 +3232,7 @@ bumph
 beegerite
 baltis
 basicities
+barytosulphate
 basics
 basilicalike
 basidia
