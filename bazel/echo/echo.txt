@@ -3944,7 +3944,6 @@ epitheliliums
 emissive
 emissivity
 earthquaked
-emissory
 emitted
 emittent
 emitter
@@ -12814,6 +12813,7 @@ esquamate
 ecchymoses
 exosperm
 expatiater
+emissory
 explicative
 exospheric
 exospherical
