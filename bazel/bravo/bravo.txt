@@ -876,6 +876,7 @@ basicranial
 belltopperdom
 bagattino
 bagaudae
+beknighting
 bagdad
 bagdi
 bagel
@@ -5583,7 +5584,6 @@ beknight
 belfather
 blossoming
 beknighted
-beknighting
 beknived
 ballistite
 beknotted
