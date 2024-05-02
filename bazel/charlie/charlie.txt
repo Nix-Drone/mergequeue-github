@@ -14961,7 +14961,6 @@ cytopathologic
 conservatorio
 coenactor
 cytopathologically
-chasmy
 cytopenia
 cytophaga
 cytophagy
@@ -21955,6 +21954,7 @@ configurations
 concolorous
 configurative
 configure
+chasmy
 configured
 configures
 configuring
