@@ -1643,7 +1643,6 @@ caltha
 calthrop
 calthrops
 caltrap
-caltraps
 caltrop
 caltrops
 crowning
@@ -9841,6 +9840,7 @@ chemicoluminescent
 chemicomechanical
 chemicomineralogical
 chemicopharmaceutical
+caltraps
 chemicophysical
 chemicophysics
 chemicophysiological
