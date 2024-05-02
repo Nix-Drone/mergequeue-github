@@ -2811,7 +2811,6 @@ genio
 genioglossal
 globoids
 genioglossi
-genioglossus
 geniohyoglossal
 gapers
 gracilescent
@@ -3165,6 +3164,7 @@ geomorphology
 geomorphologic
 gleewoman
 geomorphological
+genioglossus
 geomorphologically
 golliwog
 geon
