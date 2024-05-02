@@ -5603,7 +5603,6 @@ afterdeck
 afterdrain
 aftereffect
 aftereffects
-aftereye
 afterfall
 afterfame
 afterfeed
@@ -25283,6 +25282,7 @@ azobacter
 aflame
 azobenzene
 azobenzil
+aftereye
 arsonvalization
 azobenzoic
 azoch
