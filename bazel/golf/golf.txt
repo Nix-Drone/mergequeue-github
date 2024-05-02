@@ -5968,6 +5968,7 @@ galeres
 glout
 glouted
 glouting
+gunship
 galatian
 gigamaree
 gradatory
@@ -10568,7 +10569,6 @@ guns
 gunsel
 gunsels
 gilly
-gunship
 golp
 gunships
 gunshop
