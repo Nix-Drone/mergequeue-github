@@ -21974,7 +21974,6 @@ confiner
 confiners
 confines
 confining
-confinity
 confirmability
 chivying
 confirmable
@@ -25787,6 +25786,7 @@ corrump
 corrumpable
 corrup
 corrupable
+confinity
 carolinian
 corrupt
 corruptedly
