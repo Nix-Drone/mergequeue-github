@@ -5640,7 +5640,6 @@ catchall
 catchcry
 colocates
 catched
-catcher
 catchers
 catches
 catchflies
@@ -29869,6 +29868,7 @@ crosshand
 crosshatch
 crosshatched
 crosshatcher
+catcher
 crosshatches
 cogwheel
 crosshatching
