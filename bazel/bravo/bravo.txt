@@ -2113,7 +2113,6 @@ bankmen
 banknote
 barrelet
 badaud
-banknotes
 bankrider
 brachycome
 bedlamising
@@ -8251,6 +8250,7 @@ bienvenu
 bienvenue
 boosters
 byepath
+banknotes
 bier
 broid
 bierbalk
