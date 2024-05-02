@@ -2839,7 +2839,6 @@ barongs
 barony
 bassets
 baronial
-baronies
 baronize
 baronized
 baronnes
@@ -4753,6 +4752,7 @@ bedlamic
 booked
 braze
 bedlamise
+baronies
 bedlamised
 bedlamism
 bedlamite
