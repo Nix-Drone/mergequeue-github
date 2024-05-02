@@ -1218,6 +1218,7 @@ eds
 educ
 educability
 educable
+ephyrae
 educables
 educand
 educatability
@@ -7536,7 +7537,6 @@ ephidrosis
 eluviums
 ephippia
 ephippium
-ephyrae
 ephyrula
 effluency
 ephod
