@@ -6406,7 +6406,6 @@ ensigncy
 electroplaque
 ensigncies
 ensigned
-entranceway
 ensignhood
 ensilaged
 ensilages
@@ -7261,6 +7260,7 @@ enwrapment
 enwrapping
 enwraps
 effeminising
+entranceway
 endophytically
 enwrapt
 essang
