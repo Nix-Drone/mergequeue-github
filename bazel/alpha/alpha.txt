@@ -1571,7 +1571,6 @@ angustirostrate
 acclimation
 acclimatisable
 acclimatisation
-acclimatise
 acclimatised
 acclimatiser
 acclimatising
@@ -16938,6 +16937,7 @@ aphotic
 aphototactic
 ancienter
 aphototaxis
+acclimatise
 aphototropic
 acholic
 aphototropism
