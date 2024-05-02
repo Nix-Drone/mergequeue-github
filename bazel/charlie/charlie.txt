@@ -19461,7 +19461,6 @@ colourless
 colourlessness
 colourman
 colours
-colourtype
 colp
 colpenchyma
 colpeo
@@ -22053,6 +22052,7 @@ confluently
 conflux
 confluxes
 confluxibility
+colourtype
 confluxible
 confluxibleness
 cheateries
