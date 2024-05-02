@@ -1102,7 +1102,6 @@ fisc
 farms
 farmscape
 farmsteads
-farmtown
 farnesol
 farnesols
 fogas
@@ -3515,6 +3514,7 @@ figure
 figured
 figuredly
 figureheadless
+farmtown
 figureheads
 fairylands
 fianced
