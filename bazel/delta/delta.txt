@@ -5752,7 +5752,6 @@ depletory
 deploy
 deployed
 deploying
-defilade
 deployment
 deployments
 deftest
@@ -9563,6 +9562,7 @@ digressive
 draconically
 digressively
 digressory
+defilade
 digs
 diddering
 diguanide
