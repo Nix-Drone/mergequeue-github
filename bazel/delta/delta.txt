@@ -314,6 +314,7 @@ degeneracies
 demeter
 dahlin
 dahms
+differentiability
 dahoman
 dahomey
 dahomeyan
@@ -9309,7 +9310,6 @@ differency
 differencing
 differencingly
 differentia
-differentiability
 differentiable
 dossiere
 differentiae
