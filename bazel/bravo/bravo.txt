@@ -14823,7 +14823,6 @@ breakers
 bead
 breakfast
 breakfasted
-breakfasting
 breakfasts
 breakfronts
 breaking
@@ -16398,6 +16397,7 @@ brushy
 brushier
 brushiest
 bendys
+breakfasting
 brushiness
 brushland
 brushless
