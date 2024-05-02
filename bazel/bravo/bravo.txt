@@ -10578,7 +10578,6 @@ bleachground
 bedarken
 bleachhouse
 bleachyard
-bleaching
 bleachman
 bleachworks
 bepun
@@ -15613,6 +15612,7 @@ britt
 boonies
 brittany
 brittle
+bleaching
 brittlebush
 bailage
 brittlely
