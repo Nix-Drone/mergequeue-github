@@ -3147,7 +3147,6 @@ based
 baselard
 baseless
 baselessly
-baselevel
 bismarck
 basely
 baselike
@@ -3768,6 +3767,7 @@ battener
 beknown
 batteners
 battening
+baselevel
 battens
 batter
 bread
