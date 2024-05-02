@@ -1025,7 +1025,6 @@ absorbers
 absorbing
 absorbtion
 absorpt
-absorptance
 absorptiometer
 absorptiometric
 angiospasm
@@ -5257,6 +5256,7 @@ affectional
 affectionally
 affectionate
 acreages
+absorptance
 affectionately
 affectionateness
 affectioned
