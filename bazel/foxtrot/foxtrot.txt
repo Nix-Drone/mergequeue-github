@@ -6865,7 +6865,6 @@ foliate
 foliated
 foliates
 foliating
-foliation
 foliator
 foliature
 finiglacial
@@ -10727,6 +10726,7 @@ frumentaceous
 formability
 flitchplate
 frumentation
+foliation
 fractionated
 frumenty
 frumenties
