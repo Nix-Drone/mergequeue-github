@@ -1072,7 +1072,6 @@ farm
 fantad
 freshening
 furriners
-farmable
 farmed
 farmer
 farmeress
@@ -3596,6 +3595,7 @@ francophobe
 fineries
 flagmaking
 filcher
+farmable
 faventine
 filching
 filchingly
