@@ -5076,6 +5076,7 @@ fructure
 flashtube
 flashtubes
 fusobteria
+fluxure
 fanterie
 flask
 ferricyanhydric
@@ -6606,7 +6607,6 @@ fardels
 fluxive
 fluxmeter
 forespent
-fluxure
 fn
 footcloth
 fnese

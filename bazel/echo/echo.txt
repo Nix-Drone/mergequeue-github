@@ -200,7 +200,6 @@ earthslide
 earthsmoke
 earthtongue
 earthwall
-earthwork
 earthworks
 ecdysones
 earthworms
@@ -4540,6 +4539,7 @@ emphatically
 entoderm
 encastre
 encastrement
+earthwork
 encauma
 encaustic
 encaustically
