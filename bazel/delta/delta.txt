@@ -3287,7 +3287,6 @@ deferentitis
 deferents
 deferment
 deferments
-deferrable
 deferral
 deferrals
 deferred
@@ -12614,6 +12613,7 @@ dyslexics
 disappoints
 disli
 dislicense
+deferrable
 dislikable
 dislike
 dislikeable
