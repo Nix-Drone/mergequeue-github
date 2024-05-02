@@ -9153,7 +9153,6 @@ die
 delaminating
 dye
 desoxycinchonine
-dyeability
 dyeable
 ditriglyph
 dieb
@@ -18637,6 +18636,7 @@ duvetynes
 dux
 duennadom
 duxelles
+dyeability
 duxes
 deflagrability
 dvigu
