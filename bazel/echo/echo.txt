@@ -8120,7 +8120,6 @@ epiplankton
 epiplanktonic
 epiplasm
 epiplasmic
-epiplastron
 epiplectic
 epipleural
 epiplexis
@@ -11512,6 +11511,7 @@ evernia
 evernioid
 eversible
 evert
+epiplastron
 empyrean
 emulation
 evertebrata
