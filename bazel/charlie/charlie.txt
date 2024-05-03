@@ -2539,7 +2539,6 @@ canjac
 cank
 clingfish
 canker
-cankerberry
 cankerbird
 crafting
 cankereat
@@ -11890,6 +11889,7 @@ chordaceous
 chordal
 chordamesoderm
 chordamesodermal
+cankerberry
 chordamesodermic
 chordata
 chordate
