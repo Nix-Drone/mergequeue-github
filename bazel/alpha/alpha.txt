@@ -4584,7 +4584,6 @@ adventurousness
 ammoniuria
 adverbial
 adverbiality
-adverbialize
 adverbially
 adverbiation
 adverbless
@@ -6849,6 +6848,7 @@ aerophone
 airdate
 announcement
 airdates
+adverbialize
 airdock
 airdrome
 airdromes
