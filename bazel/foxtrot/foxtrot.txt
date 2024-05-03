@@ -7575,7 +7575,6 @@ faith
 foregame
 forechoose
 foreclaw
-foreclose
 foreclosed
 foreclosure
 feteless
@@ -9394,6 +9393,7 @@ franchisement
 franchisers
 franchises
 frivoling
+foreclose
 fireworms
 foragers
 franchisor
