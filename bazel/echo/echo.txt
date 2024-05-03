@@ -5022,7 +5022,6 @@ endexines
 eardrum
 endgate
 enfief
-endhand
 endia
 endiablee
 endiadem
@@ -12376,6 +12375,7 @@ equilin
 exercite
 exercitor
 exercitorial
+endhand
 exercitorian
 exergual
 exergue
