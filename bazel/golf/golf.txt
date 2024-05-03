@@ -911,7 +911,6 @@ gonotocont
 guillemot
 gamble
 gambler
-gamblesome
 gamblesomeness
 genseng
 gambling
@@ -2101,6 +2100,7 @@ gaurs
 gauss
 gaussage
 gaussbergite
+gamblesome
 grangerite
 gausses
 gaussian
