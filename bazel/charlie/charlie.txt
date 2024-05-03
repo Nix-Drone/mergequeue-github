@@ -7540,6 +7540,7 @@ continent
 cercopidae
 cercopithecid
 coenenchymata
+clubbable
 cercopithecidae
 cercopithecoid
 cercopithecus
@@ -16821,7 +16822,6 @@ cohabit
 clubable
 calciphylactically
 cuculi
-clubbable
 clubbed
 clubby
 clubbiest
