@@ -6137,7 +6137,6 @@ benches
 benchfellow
 burglary
 benchful
-benchy
 benchland
 benchless
 benchlet
@@ -18041,6 +18040,7 @@ betties
 busyhead
 benzbitriazole
 busying
+benchy
 busyish
 busily
 busine
