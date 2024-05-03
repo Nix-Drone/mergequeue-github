@@ -4780,7 +4780,6 @@ enclitics
 encloak
 eclipsis
 encloister
-enclose
 etymologize
 exegetically
 experimentalists
@@ -13273,6 +13272,7 @@ entitled
 exceedingly
 exportation
 exportations
+enclose
 exported
 enlength
 encyclopediac
