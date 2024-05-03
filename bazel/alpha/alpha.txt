@@ -10954,7 +10954,6 @@ amovability
 amovable
 amuser
 altitudinous
-amove
 amoved
 amoving
 amowt
@@ -12593,6 +12592,7 @@ anethols
 anethum
 anetic
 anetiological
+amove
 aneuch
 aneuploid
 alternater
