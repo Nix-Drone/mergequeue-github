@@ -3106,6 +3106,7 @@ annotate
 anisochromia
 actinoidea
 allopelagic
+adenylic
 assuror
 actinoids
 actinolitic
@@ -3646,7 +3647,6 @@ adenectopic
 angelfish
 adenemphractic
 adenyl
-adenylic
 adenylpyrophosphate
 adenin
 adenine
