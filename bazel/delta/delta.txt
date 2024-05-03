@@ -2441,7 +2441,6 @@ dispenser
 decipherability
 decipherable
 disintegrative
-decipherably
 deciphered
 decipherer
 deciphers
@@ -18264,6 +18263,7 @@ dunny
 defence
 dunniewassel
 dunning
+decipherably
 dunnish
 dunnite
 dunnites
