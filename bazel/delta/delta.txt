@@ -1366,6 +1366,7 @@ davis
 dak
 degum
 decurving
+deceleron
 davit
 davits
 disparting
@@ -2224,7 +2225,6 @@ decelerates
 decelerations
 decelerator
 decelerators
-deceleron
 decemberly
 decembrist
 decemcostate
