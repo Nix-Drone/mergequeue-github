@@ -1085,7 +1085,6 @@ farmerlike
 farmership
 farmhold
 farmhouse
-feronia
 farmhousey
 fontinalaceae
 fuzzle
@@ -4144,6 +4143,7 @@ firebomb
 firebombed
 firebombing
 frostlike
+feronia
 faithwise
 firebombs
 forestery
