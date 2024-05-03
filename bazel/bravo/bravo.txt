@@ -2998,7 +2998,6 @@ barricade
 barricaded
 baryes
 brei
-barrette
 barricader
 barricaders
 barricades
@@ -9280,6 +9279,7 @@ bipedal
 bipedality
 bipedism
 bipeds
+barrette
 bipeltate
 blepharophthalmia
 bipennate
