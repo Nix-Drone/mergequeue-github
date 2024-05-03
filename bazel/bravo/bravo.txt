@@ -4031,6 +4031,7 @@ beaching
 beachless
 beachmaster
 beachside
+bonds
 biosynthesis
 beachward
 beachwear
@@ -12271,7 +12272,6 @@ bombast
 bombaster
 bombastic
 biophor
-bonds
 battering
 baniwa
 bombastical
