@@ -7489,7 +7489,6 @@ furling
 fordull
 fumattoria
 fibreware
-fordwine
 foreact
 foreadmonish
 false
@@ -7829,6 +7828,7 @@ foremostly
 functionless
 foremother
 forename
+fordwine
 forenamed
 fattiest
 forenames
