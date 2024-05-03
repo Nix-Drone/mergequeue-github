@@ -10236,6 +10236,7 @@ bladelet
 bladelike
 beleaguerer
 blades
+bookiness
 bladesmith
 bladewise
 blady
@@ -12641,7 +12642,6 @@ bookfold
 bookful
 bookhood
 bookie
-bookiness
 bookings
 bookishly
 batiste
