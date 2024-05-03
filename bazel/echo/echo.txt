@@ -3889,7 +3889,6 @@ emforth
 emic
 emicant
 emicate
-emication
 emyde
 emydea
 ecumenicity
@@ -5214,6 +5213,7 @@ elbowchair
 endomorph
 endomorphy
 endomorphic
+emication
 endoneurium
 endonuclear
 endonucleolus
