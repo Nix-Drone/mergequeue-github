@@ -10116,6 +10116,7 @@ chessmen
 chirimen
 chessner
 chessom
+collated
 claves
 chesstree
 cosmopolitanly
@@ -22857,7 +22858,6 @@ conserver
 conservers
 conserves
 conserving
-collated
 consy
 consider
 childlike
