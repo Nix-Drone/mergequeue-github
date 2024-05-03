@@ -55,7 +55,6 @@ facebar
 facebow
 facecloth
 firestone
-faced
 foreladies
 faceharden
 faceless
@@ -4060,6 +4059,7 @@ finjan
 fink
 finked
 frabbit
+faced
 finkel
 finking
 forex
