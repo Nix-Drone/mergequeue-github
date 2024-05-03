@@ -11622,7 +11622,6 @@ boats
 boatshop
 boatsman
 bobbed
-boatsmen
 boatsteerer
 boatswain
 boatswains
@@ -17757,6 +17756,7 @@ buyer
 burman
 burmannia
 brenthis
+boatsmen
 begazed
 burmanniaceae
 bedclothes
