@@ -468,7 +468,6 @@ disthrall
 daystar
 daystars
 daystreak
-daytide
 daytime
 daytimes
 daiva
@@ -15987,6 +15986,7 @@ dottles
 dottling
 dottrel
 dottrels
+daytide
 douane
 douanes
 douanier
