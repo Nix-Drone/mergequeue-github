@@ -6011,7 +6011,6 @@ extruders
 escheated
 enlaurel
 enleague
-enleagued
 enleen
 er
 ephete
@@ -10315,6 +10314,7 @@ exantlate
 ethicosocial
 enturret
 evicted
+enleagued
 epanorthosis
 embossable
 expoliate
