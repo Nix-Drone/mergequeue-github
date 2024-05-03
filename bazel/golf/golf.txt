@@ -7825,6 +7825,7 @@ grammars
 gieseckite
 grammaticality
 gateau
+griths
 glossate
 grammatically
 grammaticalness
@@ -9198,7 +9199,6 @@ gnomic
 goaves
 grith
 grithbreach
-griths
 gaolerness
 gritless
 gaudete
