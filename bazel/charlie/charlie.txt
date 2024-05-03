@@ -9515,7 +9515,6 @@ checkbooks
 checker
 checkerbellies
 checkerberry
-checkerberries
 checkerbloom
 checkerboard
 calyciform
@@ -27670,6 +27669,7 @@ cowtown
 cowweed
 cowwheat
 cox
+checkerberries
 coxa
 cupronickel
 condition
