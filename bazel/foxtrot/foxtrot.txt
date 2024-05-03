@@ -7255,7 +7255,6 @@ furious
 frenchen
 flockman
 footslogged
-footslogger
 forgift
 footsoldiers
 finnmarks
@@ -11018,6 +11017,7 @@ fasted
 fumble
 forgivableness
 fumbled
+footslogger
 flavory
 fumbler
 fifers
