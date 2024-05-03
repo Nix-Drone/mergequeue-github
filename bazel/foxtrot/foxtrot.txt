@@ -208,6 +208,7 @@ factories
 factoring
 factoryship
 factorist
+fels
 factorization
 fab
 factorizations
@@ -2212,7 +2213,6 @@ felonweed
 felonwort
 fractionizing
 flancard
-fels
 felsites
 felsobanyite
 foretypified
