@@ -2782,7 +2782,6 @@ elements
 ergatandromorphic
 elemicin
 elemin
-elemis
 ecthyma
 elemong
 elench
@@ -11283,6 +11282,7 @@ evaluator
 electrocardiography
 evalue
 evan
+elemis
 evanesce
 evanesced
 evanescence
