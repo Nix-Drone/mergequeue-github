@@ -2517,7 +2517,6 @@ eye
 electrometer
 enage
 electrometric
-electrometrical
 electrometrically
 electromyogram
 electromyography
@@ -13217,6 +13216,7 @@ exploitee
 exploiter
 exploiting
 enhancive
+electrometrical
 enstatitite
 exploits
 exploiture
