@@ -3074,7 +3074,6 @@ embeds
 ellinge
 elliott
 ellipse
-ellipsis
 ellipsograph
 ellipsoid
 ellipsoidal
@@ -3421,6 +3420,7 @@ embergeese
 embergoose
 enthelminthes
 emberizinae
+ellipsis
 emberizine
 embers
 ecthlipsis
