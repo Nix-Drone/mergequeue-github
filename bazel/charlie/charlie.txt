@@ -8821,6 +8821,7 @@ chapelmaster
 chapelry
 colorate
 chapelries
+coincident
 chapels
 cardiologies
 chapelward
@@ -18508,7 +18509,6 @@ coinages
 coincide
 coincided
 coincidences
-coincident
 coincidental
 coincidentally
 coincidently
