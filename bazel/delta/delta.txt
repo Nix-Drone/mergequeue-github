@@ -2661,7 +2661,6 @@ decurved
 decomposability
 decomposable
 decompose
-decomposed
 delphin
 dimmy
 decomposer
@@ -7830,6 +7829,7 @@ disklike
 dewdrops
 dewed
 dewey
+decomposed
 duiker
 deweylite
 dewer
