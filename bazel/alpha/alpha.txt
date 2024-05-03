@@ -3382,7 +3382,6 @@ aerology
 aday
 adays
 adalat
-adam
 adamance
 adamances
 adamancy
@@ -21920,6 +21919,7 @@ avantgarde
 assumably
 assume
 assumed
+adam
 assumedly
 assument
 assumer
