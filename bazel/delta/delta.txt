@@ -2493,6 +2493,7 @@ dheneb
 declarable
 declarant
 declaration
+dsects
 declarations
 dealates
 defendant
@@ -17667,7 +17668,6 @@ demulcents
 dschubba
 dsect
 drinkery
-dsects
 desmodium
 dsname
 dashers
