@@ -764,6 +764,7 @@ barrels
 boraciferous
 badgemen
 badger
+brimming
 badgerbrush
 badgered
 badgerer
@@ -15430,7 +15431,6 @@ brimmered
 bicornuate
 brimmering
 brimmers
-brimming
 brimmingly
 brims
 brimse
