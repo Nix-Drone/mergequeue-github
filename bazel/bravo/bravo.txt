@@ -2874,6 +2874,7 @@ bitis
 barothermograph
 barothermohygrograph
 baroto
+benzofuryl
 barotrauma
 bulgurs
 barotraumas
@@ -6450,7 +6451,6 @@ benzodiazole
 benzofulvene
 bollen
 benzofuran
-benzofuryl
 biozone
 benzofuroquinoxaline
 blindfoldedly
