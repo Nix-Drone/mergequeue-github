@@ -10344,6 +10344,7 @@ amhran
 attribute
 asherites
 araba
+artotype
 amia
 alands
 amiability
@@ -20785,7 +20786,6 @@ artophagous
 artophophoria
 artophoria
 antiproteolysis
-artotype
 ammochryse
 artotypy
 artou
