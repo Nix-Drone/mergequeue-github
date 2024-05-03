@@ -4932,7 +4932,6 @@ flaminical
 flamless
 flammable
 filmogen
-floorers
 filefish
 flammation
 flammed
@@ -7231,6 +7230,7 @@ footpath
 footpaths
 fatidic
 footplate
+floorers
 footpound
 fogs
 footpounds
