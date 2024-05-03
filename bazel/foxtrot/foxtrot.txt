@@ -5874,6 +5874,7 @@ frangent
 funned
 flockwise
 flocs
+foreleg
 floeberg
 floey
 floerkea
@@ -7786,7 +7787,6 @@ forelay
 forelaying
 foreland
 forelands
-foreleg
 forelimbs
 foredevised
 forelive
