@@ -15628,7 +15628,6 @@ doorstone
 doorstop
 deaconize
 doorway
-doorways
 doorward
 doorweed
 doorwise
@@ -17903,6 +17902,7 @@ dissector
 duenna
 decalcified
 dewatering
+doorways
 duennas
 duennaship
 duer
