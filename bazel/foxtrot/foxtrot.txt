@@ -5833,7 +5833,6 @@ forswat
 forcedness
 fraternate
 fastigia
-fname
 floccillation
 floccipend
 freeloader
@@ -8505,6 +8504,7 @@ forthcall
 festinate
 formoxime
 forms
+fname
 formula
 formulae
 formulaically
