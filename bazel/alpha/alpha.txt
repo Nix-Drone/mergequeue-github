@@ -4251,7 +4251,6 @@ adoors
 adoperate
 adoperation
 adopt
-adoptability
 adoptabilities
 adoptant
 armorers
@@ -9066,6 +9065,7 @@ abaft
 authenticatable
 almanacs
 almander
+adoptability
 almandine
 almandines
 almanner
