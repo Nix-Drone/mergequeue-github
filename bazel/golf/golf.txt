@@ -3432,7 +3432,6 @@ gossipry
 germen
 germens
 galianes
-germfree
 germicidal
 germicides
 germier
@@ -7146,6 +7145,7 @@ gorbet
 gorble
 gematria
 gorblimy
+germfree
 gorblin
 gimmicked
 grandchild
