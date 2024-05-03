@@ -3574,7 +3574,6 @@ deftness
 deftnesses
 defunct
 deflections
-defunction
 deoxidized
 dollface
 defunctionalization
@@ -7876,6 +7875,7 @@ dexiotropic
 dexiotropism
 dexter
 dexterous
+defunction
 dedendum
 dexterously
 dexterousness
