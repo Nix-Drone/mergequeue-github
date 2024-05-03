@@ -4262,7 +4262,6 @@ beaters
 beath
 beati
 beatify
-beatific
 beatifical
 beatifically
 blaggard
@@ -6189,6 +6188,7 @@ benedictive
 benedictively
 benedictory
 bonbonnieres
+beatific
 benedicts
 benedictus
 ballpark
