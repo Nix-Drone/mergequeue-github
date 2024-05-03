@@ -5217,7 +5217,6 @@ glassmen
 glassophone
 glassrope
 glassteel
-gnathic
 guestship
 glasswork
 guider
@@ -9286,6 +9285,7 @@ groyne
 groan
 gastaldo
 gypsydom
+gnathic
 goniotropous
 groined
 groinery
