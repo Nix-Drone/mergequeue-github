@@ -2642,7 +2642,6 @@ electrosurgery
 elaeocarpaceous
 eleutherodactyli
 electrosurgeries
-electrosurgical
 electrotactic
 electrotautomerism
 enrail
@@ -9430,6 +9429,7 @@ eruptible
 erupting
 eruption
 erasing
+electrosurgical
 eruptional
 ellen
 estruate
