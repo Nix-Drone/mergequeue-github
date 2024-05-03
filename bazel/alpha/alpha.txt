@@ -14133,7 +14133,6 @@ antiquate
 antedorsal
 antefact
 antefix
-antefixa
 anteflected
 anteflexed
 anteflexion
@@ -17516,6 +17515,7 @@ apothegmatize
 apothegms
 apothem
 apothems
+antefixa
 apotheose
 apotheosis
 albuminimetry
