@@ -9573,7 +9573,6 @@ checkrows
 checks
 checkstrap
 checkstring
-checksum
 construct
 checksummed
 checksumming
@@ -30318,6 +30317,7 @@ crustacean
 crustaceology
 crustaceological
 crustaceologist
+checksum
 crustaceorubrin
 crustaceous
 claughting
