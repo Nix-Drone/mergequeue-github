@@ -3602,7 +3602,6 @@ degasify
 disguise
 definition
 degass
-degassed
 degassing
 degauss
 degaussing
@@ -11809,6 +11808,7 @@ dionymal
 discure
 degradingness
 dacha
+degassed
 disembrangle
 discurre
 discursative
