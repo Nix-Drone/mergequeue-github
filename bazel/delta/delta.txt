@@ -6072,7 +6072,6 @@ dungeonlike
 deputizes
 deputizing
 dequantitate
-dequeue
 dequeues
 dequeuing
 dropshots
@@ -12618,6 +12617,7 @@ dislikable
 dislike
 dislikeable
 diacromyodian
+dequeue
 disliked
 dislikeful
 disliken
