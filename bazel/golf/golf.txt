@@ -1390,7 +1390,6 @@ gardinol
 grippers
 gazania
 gare
-garefowl
 garefowls
 germanhood
 garetta
@@ -6179,6 +6178,7 @@ groucho
 glutoid
 glutose
 gesneraceae
+garefowl
 gluttei
 glutter
 gluttery
