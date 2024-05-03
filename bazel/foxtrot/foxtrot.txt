@@ -4969,6 +4969,7 @@ flanked
 flanker
 flankers
 falconries
+footages
 fringilliform
 fireshaft
 flanking
@@ -7125,7 +7126,6 @@ foosterer
 flaker
 foot
 footage
-footages
 footback
 football
 footballist
