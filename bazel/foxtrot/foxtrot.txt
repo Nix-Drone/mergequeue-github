@@ -1698,6 +1698,7 @@ friars
 four
 fdnames
 fdtype
+flitchplate
 fdub
 fortuitousness
 fe
@@ -10725,7 +10726,6 @@ fictitious
 frument
 frumentaceous
 formability
-flitchplate
 frumentation
 fractionated
 frumenty
