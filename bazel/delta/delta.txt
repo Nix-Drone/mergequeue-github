@@ -8831,7 +8831,6 @@ dyce
 decolor
 diceboard
 dicebox
-dicecup
 debituminize
 dicey
 diceman
@@ -18670,6 +18669,7 @@ dwelled
 dwelling
 dwellings
 dwyka
+dicecup
 dwindled
 dermatoid
 dwindlement
