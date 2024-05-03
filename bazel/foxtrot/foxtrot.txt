@@ -229,6 +229,7 @@ factual
 fipple
 factualism
 factualistic
+flatten
 factuality
 factually
 factualness
@@ -5122,7 +5123,6 @@ flatness
 favi
 flats
 flatted
-flatten
 flimp
 flattening
 flattercap
