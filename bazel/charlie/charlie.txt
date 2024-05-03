@@ -9796,7 +9796,6 @@ chelifer
 chrematistics
 cheliform
 chelinga
-chelingas
 chelingo
 chelingos
 cheliped
@@ -28521,6 +28520,7 @@ credulity
 credulities
 credulous
 credulousness
+chelingas
 cree
 creed
 creedalism
