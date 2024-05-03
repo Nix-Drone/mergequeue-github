@@ -8338,7 +8338,6 @@ dialyzation
 dialyzator
 dialyze
 dialyzed
-dialyzer
 dialyzes
 dowhacky
 dialkyl
@@ -12556,6 +12555,7 @@ dastard
 descendentalist
 disjoins
 disjointed
+dialyzer
 disjointedly
 disjointedness
 disjointing
