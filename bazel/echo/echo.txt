@@ -10401,7 +10401,6 @@ effacer
 ethmopalatal
 ethmopalatine
 ethmophysal
-ethmopresphenoidal
 ethmose
 ethmosphenoid
 epiphyllous
@@ -12812,6 +12811,7 @@ exosmotic
 electre
 esquamate
 ecchymoses
+ethmopresphenoidal
 exosperm
 expatiater
 explicative
