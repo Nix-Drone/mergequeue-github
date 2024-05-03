@@ -200,7 +200,6 @@ earthslide
 earthsmoke
 earthtongue
 earthwall
-earthwork
 earthworks
 ecdysones
 earthworms
@@ -11504,6 +11503,7 @@ everywhither
 emissarium
 eluctation
 everlasting
+earthwork
 everlastingly
 everlastingness
 everly
