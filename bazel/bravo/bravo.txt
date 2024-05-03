@@ -7281,7 +7281,6 @@ bestraw
 bestreak
 bestream
 blackhander
-bestrew
 bestrewed
 bestrewing
 bestrewment
@@ -10342,6 +10341,7 @@ blankety
 blanketing
 betowel
 blanketlike
+bestrew
 bibulous
 blanketmaker
 boatwise
