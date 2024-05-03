@@ -6102,7 +6102,6 @@ bemuddling
 barrowcoat
 bemuffle
 bemurmur
-bemurmure
 bemurmuring
 bemurmurs
 burnings
@@ -7209,6 +7208,7 @@ bessy
 bessie
 best
 burying
+bemurmure
 bestay
 bestayed
 bestain
