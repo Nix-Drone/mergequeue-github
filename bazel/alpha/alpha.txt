@@ -8938,7 +8938,6 @@ allothigenic
 allothigenous
 allothimorph
 allothimorphic
-allothogenic
 allotypes
 allotypy
 allotypical
@@ -16545,6 +16544,7 @@ antrum
 antrustion
 antrustionship
 ants
+allothogenic
 ashpit
 acini
 antsier
