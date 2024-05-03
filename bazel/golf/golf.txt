@@ -5864,7 +5864,6 @@ girondism
 glosser
 glossers
 glosses
-glossy
 glossier
 glossies
 glossiest
@@ -6227,6 +6226,7 @@ glycerogelatin
 gnarrs
 gnars
 guerickian
+glossy
 gnashed
 gnashing
 gobang
