@@ -1475,7 +1475,6 @@ distracting
 disform
 deaconry
 deaconries
-deacons
 deaconship
 deactivate
 deactivated
@@ -16852,6 +16851,7 @@ drawloom
 drawls
 drawn
 drawnet
+deacons
 dissyllabise
 diffidence
 drawoff
