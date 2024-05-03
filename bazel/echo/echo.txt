@@ -4613,7 +4613,6 @@ encephalous
 embeggar
 endoplasma
 enchafe
-enchain
 enchained
 enchainement
 enchainements
@@ -13257,6 +13256,7 @@ expone
 exponency
 exponent
 exponential
+enchain
 exponentially
 exponentials
 elucubration
