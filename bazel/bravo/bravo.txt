@@ -519,7 +519,6 @@ backstick
 backstitch
 backstitched
 backstitches
-backstitching
 backstop
 bejeling
 backstopped
@@ -2628,6 +2627,7 @@ barih
 birk
 bellware
 bluehead
+backstitching
 barylalia
 barile
 barylite
