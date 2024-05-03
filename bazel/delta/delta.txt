@@ -4258,7 +4258,6 @@ disfranchisements
 delocalised
 delocalising
 delocalization
-delocalize
 delocalizing
 delomorphic
 delomorphous
@@ -7841,6 +7840,7 @@ dewiest
 dewiness
 doh
 dewing
+delocalize
 discommon
 dewitt
 detruss
