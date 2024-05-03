@@ -11611,7 +11611,6 @@ cholelithotomy
 crenellate
 cholelithotripsy
 cholelithotrity
-cholemia
 cholent
 cholents
 choleokinase
@@ -28087,6 +28086,7 @@ craniomaxillary
 craniometry
 craniometric
 craniometrically
+cholemia
 craniometrist
 craniopathy
 craniopathic
