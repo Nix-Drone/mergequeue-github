@@ -2452,7 +2452,6 @@ catalan
 candours
 candroy
 candroys
-canduc
 cane
 cities
 canebrake
@@ -21308,6 +21307,7 @@ conchoids
 communicableness
 conchol
 conchology
+canduc
 conchologically
 conchologize
 conchometer
