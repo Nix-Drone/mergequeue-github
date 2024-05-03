@@ -11493,7 +11493,6 @@ choiring
 choirlike
 centinody
 choirman
-choirmaster
 choirmasters
 choyroot
 choirwise
@@ -24745,6 +24744,7 @@ copsole
 copt
 copters
 coptic
+choirmaster
 coptine
 copula
 cavu
