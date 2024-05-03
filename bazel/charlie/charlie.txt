@@ -12518,7 +12518,6 @@ chromoplasm
 chromoplasmic
 chromoplast
 chromoplastid
-chromoprotein
 chromopsia
 chromoptometer
 coffle
@@ -19687,6 +19686,7 @@ combinatorial
 combinatorially
 combinatoric
 combinators
+chromoprotein
 combind
 combined
 candlebeam
