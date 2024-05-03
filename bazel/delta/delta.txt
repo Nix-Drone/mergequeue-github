@@ -14874,7 +14874,6 @@ doeling
 doer
 doers
 depopulate
-diapositive
 does
 doesn
 doesnt
@@ -17397,6 +17396,7 @@ droplike
 drib
 doigt
 dropline
+diapositive
 depletes
 dusts
 diduced
