@@ -2576,7 +2576,6 @@ decoctive
 decocts
 decoctum
 decodable
-decode
 decoded
 decoders
 decodes
@@ -7255,6 +7254,7 @@ determining
 determinism
 determinist
 deterministic
+decode
 demodicidae
 descend
 deterministically
