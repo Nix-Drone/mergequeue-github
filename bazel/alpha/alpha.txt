@@ -2150,7 +2150,6 @@ aglossate
 apologizers
 acetoxime
 acetoxyphthalide
-acetphenetidin
 acetract
 acetum
 aceturic
@@ -6018,6 +6017,7 @@ agglutinin
 agglutinins
 agglutinize
 alls
+acetphenetidin
 agglutinogen
 agglutinogenic
 agglutinoid
