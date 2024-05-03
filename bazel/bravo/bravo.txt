@@ -6122,7 +6122,6 @@ beluga
 barre
 balsamweed
 bename
-benamee
 benami
 bequeathable
 benamidar
@@ -14917,6 +14916,7 @@ breathing
 breathingly
 breathless
 breathlessly
+benamee
 breathlessness
 breaths
 breathseller
