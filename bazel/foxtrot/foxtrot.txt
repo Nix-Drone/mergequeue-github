@@ -1652,7 +1652,6 @@ favourableness
 fallalery
 favouring
 favouringly
-favours
 farce
 favous
 favus
@@ -4344,6 +4343,7 @@ fisetin
 fish
 fishability
 fishable
+favours
 fishback
 fishberry
 fleshers
