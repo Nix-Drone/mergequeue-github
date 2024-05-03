@@ -1702,6 +1702,7 @@ fdub
 fortuitousness
 fe
 forksmith
+finality
 feaberry
 frugivora
 feak
@@ -6153,7 +6154,6 @@ flowage
 flowcharted
 fulicinae
 flowcharts
-finality
 foldstool
 flowcontrol
 flanche
