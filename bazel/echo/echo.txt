@@ -5431,6 +5431,7 @@ eltime
 expendable
 endseal
 endshake
+encephaloma
 endsheet
 everglade
 execrates
@@ -12697,7 +12698,6 @@ exolution
 exolve
 exometritis
 emerse
-encephaloma
 exomis
 exomologesis
 exomorphic
