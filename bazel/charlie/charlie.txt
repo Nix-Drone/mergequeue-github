@@ -9730,7 +9730,6 @@ cheyneys
 cheir
 cheiragra
 cimex
-chromotype
 cheiranthus
 cheirogaleus
 cheiroglossa
@@ -24570,6 +24569,7 @@ copyfitter
 comvia
 copyfitting
 copygraph
+chromotype
 copygraphed
 copyhold
 copyholders
