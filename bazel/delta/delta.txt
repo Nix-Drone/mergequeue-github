@@ -5818,7 +5818,6 @@ depopularize
 depopulates
 depopulating
 depopulation
-depopulative
 decastich
 depopulator
 depopulators
@@ -15215,6 +15214,7 @@ dolmans
 diluviums
 dolmas
 dolmen
+depopulative
 dolmenic
 declaimed
 dolomedes
