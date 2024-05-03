@@ -4139,7 +4139,6 @@ admission
 admissions
 admissive
 automaton
-admissively
 alibi
 antiperistasis
 admissory
@@ -8561,6 +8560,7 @@ allectory
 allegata
 allegations
 allegator
+admissively
 allegatum
 anematosis
 alleged

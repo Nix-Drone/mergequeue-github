@@ -1712,7 +1712,6 @@ diagrydium
 deaths
 deathsman
 deathsmen
-depaysee
 deathtime
 deathtrap
 deathtraps
@@ -4324,6 +4323,7 @@ dialyzing
 dummy
 deltohedron
 deltoidei
+depaysee
 deltoideus
 deltoids
 daviesia
