@@ -3281,6 +3281,7 @@ field
 fiddlery
 fiddles
 foreknowable
+feodum
 fiddlestick
 fiddlesticks
 fiddlewood
@@ -5590,7 +5591,6 @@ feoffment
 fissural
 fligged
 fligger
-feodum
 flight
 flighted
 flighter
