@@ -9847,6 +9847,7 @@ bits
 bitser
 bitsy
 bitstock
+blets
 bitstocks
 bitstone
 bitt
@@ -10796,7 +10797,6 @@ bletilla
 blackbrush
 bronteum
 bibbed
-blets
 bodikin
 bleu
 blew
