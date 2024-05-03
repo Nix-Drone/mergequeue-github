@@ -3090,7 +3090,6 @@ deers
 deerskin
 deerstalker
 deerstalkers
-deerstalking
 deerstand
 deerstealer
 discourteously
@@ -10307,6 +10306,7 @@ dioptric
 dioptrical
 dioptrics
 deaning
+deerstalking
 dioptrometry
 dioptroscopy
 diorama
