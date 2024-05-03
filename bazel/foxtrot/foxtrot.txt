@@ -1901,6 +1901,7 @@ fidicinales
 feckulence
 frayn
 feliform
+fconv
 feculence
 feculency
 fecundate
@@ -3525,7 +3526,6 @@ facebread
 figures
 figuresome
 flueman
-fconv
 foraneous
 figury
 fiddlers
