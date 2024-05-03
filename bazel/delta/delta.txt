@@ -3968,6 +3968,7 @@ delay
 delayable
 demes
 delayer
+disgood
 delayers
 delayful
 delayingly
@@ -12184,7 +12185,6 @@ disglut
 dysgonic
 demonic
 dundavoe
-disgood
 disgorge
 discernible
 dual
