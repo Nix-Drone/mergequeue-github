@@ -8888,7 +8888,6 @@ charabancs
 charac
 characeae
 characetum
-characid
 characids
 characin
 clobberer
@@ -21395,6 +21394,7 @@ concludently
 concluder
 concluders
 concludes
+characid
 concludible
 concluding
 concludingly
