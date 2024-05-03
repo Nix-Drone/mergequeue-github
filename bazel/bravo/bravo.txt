@@ -4135,7 +4135,6 @@ beamlet
 beamman
 beamroom
 beams
-beamsman
 beamwork
 bantlings
 bean
@@ -6248,6 +6247,7 @@ beneme
 benempt
 blanker
 bitters
+beamsman
 barbless
 befinger
 boarishly
