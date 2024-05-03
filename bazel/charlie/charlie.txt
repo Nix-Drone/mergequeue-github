@@ -13504,7 +13504,6 @@ cyesis
 cif
 cig
 cigar
-cigaresque
 cigaret
 cigarets
 cigarette
@@ -18180,6 +18179,7 @@ cuss
 coffeehouse
 coffeehoused
 coffeehouses
+cigaresque
 coffeehousing
 coffeeleaf
 coffeeman
