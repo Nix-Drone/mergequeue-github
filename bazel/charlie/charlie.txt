@@ -16534,7 +16534,6 @@ cloghaun
 cloghead
 cloglike
 clogmaker
-clogmaking
 clogwheel
 charoset
 clogwyn
@@ -24154,6 +24153,7 @@ congelifract
 convictable
 convictfish
 convictible
+clogmaking
 conviction
 convictional
 convictions
