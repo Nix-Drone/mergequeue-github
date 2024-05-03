@@ -5058,7 +5058,6 @@ casebound
 casebox
 cased
 casefy
-casefied
 casefies
 corneter
 caseharden
@@ -15176,6 +15175,7 @@ clabularium
 clach
 clachan
 clachans
+casefied
 clachs
 clack
 clackama
