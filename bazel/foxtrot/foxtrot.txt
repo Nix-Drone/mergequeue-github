@@ -6941,7 +6941,6 @@ folksiness
 folksong
 folksongs
 folktales
-folkvangr
 foll
 foller
 folles
@@ -9013,6 +9012,7 @@ fitchews
 flout
 fibrinogenic
 fountainlike
+folkvangr
 filicite
 forstand
 fountainous
