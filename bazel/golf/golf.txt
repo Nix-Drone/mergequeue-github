@@ -515,7 +515,6 @@ galere
 galericulate
 galerie
 galerum
-galerus
 gales
 galesaur
 galesaurus
@@ -9723,6 +9722,7 @@ grumpish
 grumpishness
 grun
 gtt
+galerus
 grundy
 grundified
 gerents
