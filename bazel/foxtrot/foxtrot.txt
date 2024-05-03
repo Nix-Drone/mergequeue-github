@@ -4400,7 +4400,6 @@ frameworks
 fishlet
 fishlike
 furlough
-fishline
 fishlines
 frondage
 fishling
@@ -9792,6 +9791,7 @@ freibergite
 freycinetia
 fusc
 fulgorous
+fishline
 freieslebenite
 freiezlebenhe
 freight
