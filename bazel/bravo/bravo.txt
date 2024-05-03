@@ -4401,7 +4401,6 @@ biochemist
 beboss
 blessing
 boggish
-bosons
 boreus
 bebotch
 bebothered
@@ -5255,6 +5254,7 @@ begetter
 begetters
 broth
 beggardom
+bosons
 beggared
 beggarer
 beggaress
