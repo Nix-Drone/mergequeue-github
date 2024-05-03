@@ -11366,7 +11366,6 @@ afterwitted
 amsel
 amsterdam
 amt
-amtman
 amtrac
 amtrack
 amtracks
@@ -25046,6 +25045,7 @@ awning
 awninged
 adjustor
 awnings
+amtman
 awnless
 awnlike
 aorists
