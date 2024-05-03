@@ -5980,6 +5980,7 @@ ages
 aget
 agete
 aggadic
+airfare
 aggelation
 asthenic
 aggenerate
@@ -6867,7 +6868,6 @@ airest
 asseverations
 ammoniacal
 abhorrences
-airfare
 amyctic
 airfares
 airfield
