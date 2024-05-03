@@ -1309,7 +1309,6 @@ adalid
 acanthopomatous
 acanthopteran
 acanthopteri
-acanthopterygian
 acanthopterygii
 acanthopterous
 acanthoses
@@ -25051,6 +25050,7 @@ awnlike
 aorists
 awns
 awoke
+acanthopterygian
 awoken
 awol
 awols
