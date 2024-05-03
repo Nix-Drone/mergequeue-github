@@ -1106,7 +1106,6 @@ farmtown
 farnesol
 farnesols
 fogas
-flinger
 farnesses
 faro
 floter
@@ -5781,6 +5780,7 @@ flivver
 fumariaceous
 flyway
 fruit
+flinger
 fungiform
 flyways
 faunas
