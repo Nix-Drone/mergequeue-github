@@ -88,7 +88,6 @@ cabble
 cabbled
 cabbler
 cabda
-cabdriver
 cabdriving
 cabecudo
 capellet
@@ -28781,6 +28780,7 @@ cressy
 cressida
 cressier
 coude
+cabdriver
 cressiest
 cressweed
 cresswort
