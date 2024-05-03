@@ -5629,6 +5629,7 @@ flimsiness
 flinch
 flagleaf
 freighters
+forepaws
 forgone
 flinched
 flincher
@@ -7868,7 +7869,6 @@ forepast
 feedstuffs
 foliously
 forepaw
-forepaws
 forepeak
 foreperiod
 foreplace
