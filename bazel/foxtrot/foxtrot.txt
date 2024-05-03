@@ -2322,7 +2322,6 @@ freeborn
 firebricks
 fsiest
 fenchene
-fenchyl
 fencible
 fencings
 firehouse
@@ -5949,6 +5948,7 @@ fiddleback
 floorshift
 fawny
 floorshifts
+fenchyl
 floorshow
 floorway
 fluidrachm
