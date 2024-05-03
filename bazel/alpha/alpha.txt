@@ -10107,7 +10107,6 @@ ambulate
 ambulated
 atropinism
 ambulates
-ambulatio
 ambulation
 ambulative
 ambulator
@@ -23807,6 +23806,7 @@ aurite
 authored
 arabizing
 authoress
+ambulatio
 authoresses
 authorhood
 acaridae
