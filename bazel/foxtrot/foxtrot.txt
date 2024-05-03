@@ -1094,6 +1094,7 @@ farmyard
 fructuary
 farmyardy
 foremastman
+fireling
 farmland
 farmost
 farmout
@@ -5803,7 +5804,6 @@ fload
 floatability
 forethoughtless
 floatages
-fireling
 floatation
 firesides
 floated
