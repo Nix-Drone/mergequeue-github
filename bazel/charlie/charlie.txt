@@ -8840,7 +8840,6 @@ chapiters
 chapitral
 chaplain
 chaplaincy
-chaplaincies
 chaplains
 chaplanry
 chapless
@@ -23391,6 +23390,7 @@ contemns
 contemp
 contemper
 contemplable
+chaplaincies
 contemplamen
 contemplance
 contemplant
