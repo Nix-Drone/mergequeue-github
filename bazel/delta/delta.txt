@@ -1295,6 +1295,7 @@ dault
 daunch
 damageable
 dauncy
+disposing
 doxantha
 daunder
 dorsilateral
@@ -13181,7 +13182,6 @@ disposedness
 disposement
 disposer
 disposers
-disposing
 disposingly
 dicrotic
 disposition
