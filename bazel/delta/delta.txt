@@ -7111,7 +7111,6 @@ desuvre
 det
 detach
 detachable
-detachableness
 detachably
 detache
 detached
@@ -15512,6 +15511,7 @@ donnee
 donnees
 donnerd
 donnert
+detachableness
 donnybrooks
 donnick
 devoiced
