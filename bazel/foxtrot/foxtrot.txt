@@ -2648,7 +2648,6 @@ ferrovanadium
 frolics
 ferrozirconium
 ferruginate
-flintiness
 flintify
 filigreed
 ferruginating
@@ -8501,6 +8500,7 @@ formols
 formonitrile
 formosan
 formosity
+flintiness
 forthcall
 festinate
 formoxime
