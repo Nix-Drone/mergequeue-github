@@ -6301,7 +6301,6 @@ fluidization
 fiefdom
 fluidized
 followup
-fluidizer
 fingerflower
 fluidizes
 fluidmeter
@@ -10161,6 +10160,7 @@ facette
 frisettes
 friseur
 friseurs
+fluidizer
 flavouring
 frisian
 frisker
