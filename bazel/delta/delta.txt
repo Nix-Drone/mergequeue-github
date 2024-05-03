@@ -3874,6 +3874,7 @@ deionization
 deionizations
 deionize
 deionized
+disarticulator
 denegate
 deionizer
 deionizes
@@ -11083,7 +11084,6 @@ disarticulate
 discernibility
 disarticulating
 disarticulation
-disarticulator
 deputized
 disasinize
 disassemble
