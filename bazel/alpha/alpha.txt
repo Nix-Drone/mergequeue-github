@@ -1841,7 +1841,6 @@ accusatrix
 accusatrixes
 accuse
 accused
-accuser
 accusers
 asport
 aporrhoea
@@ -22450,6 +22449,7 @@ atebrin
 atechny
 atechnic
 atechnical
+accuser
 atees
 ateeter
 atef
