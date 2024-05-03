@@ -2804,7 +2804,6 @@ decreet
 dop
 decrement
 decremental
-decrementing
 decrements
 decremeter
 decrepid
@@ -8048,6 +8047,7 @@ deathwatch
 diablery
 diablerie
 diableries
+decrementing
 diabolarch
 diabolarchy
 diabolatry
