@@ -11901,7 +11901,6 @@ disembarked
 disembarking
 dentoid
 disembarks
-disembarrass
 disembarrassed
 disroots
 disembarrassment
@@ -14668,6 +14667,7 @@ dockhand
 dockhouse
 dockyard
 dockyardman
+disembarrass
 dockyards
 dukkha
 dockization
