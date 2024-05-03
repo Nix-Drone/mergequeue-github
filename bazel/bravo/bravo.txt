@@ -373,7 +373,6 @@ backhands
 backhaul
 backhauls
 backhoe
-backhoes
 boobies
 backhooker
 backhouses
@@ -6145,6 +6144,7 @@ benchman
 benchmar
 benchmark
 benchmarked
+backhoes
 benchmarks
 benchmen
 bend
