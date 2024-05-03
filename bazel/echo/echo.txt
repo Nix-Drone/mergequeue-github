@@ -1115,7 +1115,6 @@ equipper
 edibility
 edible
 expurgatory
-edibleness
 edibles
 edictal
 edictally
@@ -11390,6 +11389,7 @@ enhancer
 evectant
 evected
 evection
+edibleness
 evectional
 ethnographic
 ethion
