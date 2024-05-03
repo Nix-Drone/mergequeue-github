@@ -9012,7 +9012,6 @@ biogenetics
 backspace
 biogeny
 biogenic
-biogens
 biogeochemical
 biogeochemistry
 biogeographer
@@ -12872,6 +12871,7 @@ bootstrapping
 boottop
 booze
 boozed
+biogens
 boozehound
 boozer
 bushelage
