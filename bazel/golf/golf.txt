@@ -1972,7 +1972,6 @@ gatherers
 graplins
 gyrostabilizer
 greenfishes
-gatherings
 gatherum
 geniohyoid
 gathic
@@ -10571,6 +10570,7 @@ gilly
 gunship
 golp
 gunships
+gatherings
 gunshop
 graybeards
 gunshot
