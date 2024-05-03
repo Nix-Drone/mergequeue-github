@@ -6488,7 +6488,6 @@ benzophenoxazine
 benzophloroglucinol
 benzophthalazine
 benzopyran
-benzopyranyl
 benzopyrazolone
 benzopyrylium
 benzoquinoxaline
@@ -16850,6 +16849,7 @@ buffoonish
 buffoonishness
 bedead
 buffoons
+benzopyranyl
 buffos
 barhopping
 buffs
