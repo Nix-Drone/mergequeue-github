@@ -5662,7 +5662,6 @@ catchphrase
 catchpole
 catchpoled
 catchpolery
-catchpoleship
 catchpoling
 catchpoll
 catchpolling
@@ -16991,6 +16990,7 @@ conoids
 confoundable
 cnidosis
 co
+catchpoleship
 coabode
 coabound
 coabsume
