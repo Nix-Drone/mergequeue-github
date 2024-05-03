@@ -3324,7 +3324,6 @@ annelides
 acupuncturation
 acupuncturator
 acupuncture
-acupunctured
 acupuncturing
 acupuncturist
 acus
@@ -24591,6 +24590,7 @@ avast
 avatar
 anoura
 avatars
+acupunctured
 avdp
 ave
 actinophore
