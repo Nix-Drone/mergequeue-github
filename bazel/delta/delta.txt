@@ -14722,7 +14722,6 @@ diplomacies
 doctrinal
 doctrinalism
 dogdoms
-disownable
 doctrinalist
 doctrinality
 doctrinally
@@ -15986,6 +15985,7 @@ dottler
 dottles
 dottling
 dottrel
+disownable
 dottrels
 douane
 douanes
