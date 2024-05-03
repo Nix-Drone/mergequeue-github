@@ -5143,7 +5143,6 @@ embosser
 endocrinopathic
 endocritic
 eruca
-endoderm
 endodermal
 endodermic
 endodermis
@@ -13917,6 +13916,7 @@ ebony
 extraparochial
 extraparochially
 extrapatriarchal
+endoderm
 extrapelvic
 extraperineal
 extraperiodic
