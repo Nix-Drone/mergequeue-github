@@ -15963,7 +15963,6 @@ bronchiogenic
 bronchiolar
 bronchioli
 bronchiolitis
-bronchiolus
 bronchiospasm
 bronchitic
 bronchitis
@@ -17897,6 +17896,7 @@ burthen
 burthened
 bluewing
 burthening
+bronchiolus
 burthens
 berate
 burthensome
