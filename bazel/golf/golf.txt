@@ -4588,6 +4588,7 @@ gips
 gyp
 gyps
 gipseian
+gluers
 gipser
 gipsy
 gypsy
@@ -6088,7 +6089,6 @@ glueman
 gluepot
 gluer
 greetingly
-gluers
 granulize
 glugglug
 gluhwein
