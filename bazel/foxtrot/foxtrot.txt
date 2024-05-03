@@ -1098,7 +1098,6 @@ farmland
 farmost
 farmout
 fasteners
-fisc
 farms
 farmscape
 farmsteads
@@ -3828,6 +3827,7 @@ fruitester
 filterers
 filtering
 frogland
+fisc
 filtermen
 filth
 fountainwise
