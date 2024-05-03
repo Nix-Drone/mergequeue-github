@@ -11955,6 +11955,7 @@ disenabling
 disenact
 disenamor
 disenchant
+durra
 disenchanted
 disenchanter
 disenchanting
@@ -18520,7 +18521,6 @@ duroquinone
 duros
 durous
 durr
-durra
 durry
 durries
 dappled
