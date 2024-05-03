@@ -3156,7 +3156,6 @@ defamer
 defamers
 defames
 demihuman
-defamy
 defaming
 defamingly
 defamous
@@ -11639,6 +11638,7 @@ disbecome
 discos
 discost
 discostate
+defamy
 discostomatous
 discotheque
 discothque
