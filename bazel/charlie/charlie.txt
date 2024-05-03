@@ -9560,6 +9560,7 @@ commonize
 checkrack
 checkrail
 checkrein
+congregable
 checkroll
 checkroom
 compathy
@@ -22292,7 +22293,6 @@ congratulator
 congratulatory
 congree
 congreet
-congregable
 congreganist
 congregant
 congregated
