@@ -9365,7 +9365,6 @@ error
 errordump
 errorist
 extratheistic
-errorless
 errors
 errs
 errsyn
@@ -11614,6 +11613,7 @@ eremiteship
 epitoxoid
 evocativeness
 ernest
+errorless
 energy
 evocator
 evoe
