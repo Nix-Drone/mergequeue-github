@@ -4714,6 +4714,7 @@ gyrenes
 gyrfalcon
 graphometry
 guillotiner
+graphoscope
 grinter
 girgasite
 gyric
@@ -8202,7 +8203,6 @@ gymnastically
 gyrovague
 graphophone
 graphophonic
-graphoscope
 gulpin
 graphostatic
 graphostatical

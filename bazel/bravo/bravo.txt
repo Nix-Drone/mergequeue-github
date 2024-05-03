@@ -10668,7 +10668,6 @@ blendcorn
 bestill
 broomstaff
 blende
-blendes
 buffaloed
 blendwater
 blenheim
@@ -11544,6 +11543,7 @@ boarded
 boarder
 boarders
 boardy
+blendes
 boardinghouse
 boardings
 boardly
