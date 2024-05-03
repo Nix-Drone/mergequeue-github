@@ -27914,7 +27914,6 @@ concubinaries
 craftsperson
 craftswoman
 craftwork
-craftworker
 crag
 craggan
 cragged
@@ -28382,6 +28381,7 @@ creammaker
 creammaking
 creamometer
 creams
+craftworker
 creamware
 cahow
 creance
