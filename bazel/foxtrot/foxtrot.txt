@@ -4927,7 +4927,6 @@ feldsher
 faliscan
 fantaseid
 forge
-flaminica
 flaminical
 flamless
 flammable
@@ -10075,6 +10074,7 @@ frigostable
 frigotherapy
 frigs
 frying
+flaminica
 frija
 frijole
 fiercly
