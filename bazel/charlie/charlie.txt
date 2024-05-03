@@ -3352,7 +3352,6 @@ capsaicin
 cotterite
 capsella
 capsheaf
-circumjacent
 capshore
 capsian
 capsicin
@@ -6310,6 +6309,7 @@ cauterisation
 cauterise
 cauterised
 cauterising
+circumjacent
 cauterism
 cauterization
 cauterize
