@@ -3530,7 +3530,6 @@ carafe
 carafes
 clergymen
 cornicing
-carafon
 coteau
 cocineras
 caragana
@@ -14621,6 +14620,7 @@ cystathionine
 cystatrophy
 conjugation
 cystatrophia
+carafon
 cysteamine
 cystectasia
 contestate
