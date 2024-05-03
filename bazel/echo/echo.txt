@@ -1123,7 +1123,6 @@ edictum
 edicule
 edify
 echolalia
-expectorator
 edificate
 edification
 edificative
@@ -1874,6 +1873,7 @@ eigenvalues
 eigenvectors
 endoenteritis
 eyght
+expectorator
 evaginated
 eightball
 eighteenfold
