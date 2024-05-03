@@ -10850,7 +10850,6 @@ amoebobacterieae
 amoebocyte
 amoebogeniae
 amoeboid
-amoebous
 amoebula
 amoy
 antiphon
@@ -20940,6 +20939,7 @@ ascensive
 ascensor
 ascent
 ascertain
+amoebous
 ascertainability
 ascertainably
 ascertainer
