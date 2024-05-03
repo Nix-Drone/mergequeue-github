@@ -6039,7 +6039,6 @@ enlist
 enlisted
 enlistees
 enlister
-epistrophe
 enlistment
 engraphia
 enlistments
@@ -6216,6 +6215,7 @@ enplaned
 extraphysiological
 enplanes
 enquarter
+epistrophe
 enqueue
 entered
 enqueued
