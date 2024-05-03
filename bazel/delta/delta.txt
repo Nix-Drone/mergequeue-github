@@ -10394,7 +10394,6 @@ diphenyl
 diphenylacetylene
 diphenylamine
 diphenylaminechlorarsine
-diphenylchloroarsine
 diphenylene
 diphenylenimide
 diphenylenimine
@@ -10599,6 +10598,7 @@ dunnaged
 diploneural
 diplont
 diplontic
+diphenylchloroarsine
 diplonts
 diplophase
 diplophyte
