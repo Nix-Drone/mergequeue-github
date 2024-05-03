@@ -27805,7 +27805,6 @@ crabman
 crabmeat
 crabmill
 crabs
-crabsidle
 crabstick
 crabut
 crabweed
@@ -28100,6 +28099,7 @@ conforbably
 cranioscopy
 cranioscopical
 cranioscopist
+crabsidle
 craniospinal
 craniostenosis
 craniota
