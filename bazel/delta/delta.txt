@@ -1487,7 +1487,6 @@ deactivation
 deactivations
 deactivator
 deactivators
-defrosts
 deadborn
 deadcenter
 deeryards
@@ -9070,6 +9069,7 @@ didactic
 didactical
 didacticality
 dispersions
+defrosts
 didactician
 didacticism
 didacticity
