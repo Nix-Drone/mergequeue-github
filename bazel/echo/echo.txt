@@ -3553,6 +3553,7 @@ emboltement
 embolus
 emborder
 embordered
+encountered
 elegant
 embordering
 epidesmine
@@ -4847,7 +4848,6 @@ excitive
 encoronal
 encoronate
 ectoparasitic
-encountered
 encounterer
 entitlement
 encountering
