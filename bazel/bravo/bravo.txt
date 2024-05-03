@@ -12709,7 +12709,6 @@ bookshelf
 bookshelves
 boloney
 bookshop
-bookshops
 babassus
 booksy
 bookstall
@@ -13236,6 +13235,7 @@ boswellize
 boswellized
 boswellizing
 bota
+bookshops
 botany
 botanic
 botanica
