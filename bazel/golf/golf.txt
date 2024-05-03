@@ -1258,7 +1258,6 @@ ganzie
 guffin
 gaol
 gynostegium
-gaoled
 guiltier
 gaoler
 gaolers
@@ -1968,6 +1967,7 @@ gatewoman
 gatherable
 gathered
 gilgai
+gaoled
 gatherers
 graplins
 gyrostabilizer
