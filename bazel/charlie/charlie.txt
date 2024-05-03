@@ -156,7 +156,6 @@ cableways
 cabling
 cablish
 campmaster
-cabmen
 cabob
 caboceer
 caboched
@@ -11253,6 +11252,7 @@ coattail
 chlorides
 chloridic
 chloridize
+cabmen
 chloridized
 compaternity
 chloryl
