@@ -5831,7 +5831,6 @@ engrieve
 engross
 engrossed
 engrossedly
-engrosser
 engrossers
 epistolization
 eduction
@@ -11935,6 +11934,7 @@ excepable
 except
 eppes
 elicited
+engrosser
 exceptant
 entomologise
 excepted
