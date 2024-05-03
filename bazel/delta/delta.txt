@@ -5427,7 +5427,6 @@ dentololabial
 dentonasal
 dielytra
 dentosurgical
-disrate
 dents
 dissipatedness
 diasene
@@ -12842,6 +12841,7 @@ disoperation
 dasnt
 distains
 disposal
+disrate
 disoperculate
 disopinion
 depressionary
