@@ -4217,7 +4217,6 @@ fireplug
 frieze
 fireplugs
 firepot
-fireproofed
 fireproofing
 fireproofness
 fireroom
@@ -6602,6 +6601,7 @@ fluxional
 fluxionally
 fluxionist
 fluxions
+fireproofed
 fardels
 fluxive
 fluxmeter
