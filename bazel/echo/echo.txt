@@ -4959,7 +4959,6 @@ endaze
 escrows
 endboard
 endbrains
-enddamaged
 enddamaging
 ende
 energistic
@@ -9430,6 +9429,7 @@ eruptible
 erupting
 eruption
 erasing
+enddamaged
 eruptional
 ellen
 estruate
