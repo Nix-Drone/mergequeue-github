@@ -4510,6 +4510,7 @@ besieged
 becloak
 belchers
 becloaking
+banyans
 becloaks
 beclog
 beclogged
@@ -18305,7 +18306,6 @@ boiseries
 buttled
 buttling
 buttock
-banyans
 buttocked
 buttocker
 bacteriopsonic
