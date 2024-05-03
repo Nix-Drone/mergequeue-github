@@ -15812,7 +15812,6 @@ cleamer
 clean
 cleanable
 cleaned
-cleaner
 cleanest
 cleanhanded
 cleanhandedness
@@ -29122,6 +29121,7 @@ cryogenies
 cryogens
 cryohydrate
 cryolite
+cleaner
 catwalks
 cryolites
 criolla
