@@ -10571,7 +10571,6 @@ bleacheries
 bleacherite
 bleacherman
 bleachers
-bleaches
 bleachfield
 balr
 bleachground
@@ -15383,6 +15382,7 @@ borasco
 bimonthly
 brigs
 brigsail
+bleaches
 bismutoplagionite
 brigue
 brigued
