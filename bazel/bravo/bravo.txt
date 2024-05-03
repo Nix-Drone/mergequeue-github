@@ -1972,7 +1972,6 @@ bandlimits
 bandman
 bandmaster
 bandmasters
-bando
 bandobust
 bandog
 bandogs
@@ -12807,6 +12806,7 @@ bertrandite
 biuret
 boost
 booster
+bando
 boosterism
 boosting
 bouffante
