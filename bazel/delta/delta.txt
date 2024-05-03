@@ -5636,7 +5636,6 @@ dependant
 dependantly
 depended
 dependence
-dependency
 dependencies
 depending
 dependingly
@@ -16735,6 +16734,7 @@ dramming
 distributedly
 duchesses
 drammocks
+dependency
 drams
 dramseller
 differentiations
