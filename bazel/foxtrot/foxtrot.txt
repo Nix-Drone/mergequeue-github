@@ -4354,6 +4354,7 @@ fishbolts
 falchions
 fishbowls
 fisheater
+faiences
 fisheye
 fisheyes
 fisher
@@ -11709,7 +11710,6 @@ futuric
 feminines
 flippancy
 foreacquaint
-faiences
 forefaces
 futurisms
 foretellableness
