@@ -1988,7 +1988,6 @@ acetamid
 acetamide
 acetamidin
 acetamidine
-acetamido
 acetaminol
 acetaminophen
 acetanilid
@@ -5670,6 +5669,7 @@ afterpiece
 afterplanting
 afterpotential
 autolysis
+acetamido
 afterpressure
 afterproof
 afterrake
