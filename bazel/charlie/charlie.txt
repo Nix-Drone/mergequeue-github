@@ -19684,6 +19684,7 @@ combinative
 combinator
 combinatory
 combinatorial
+congealment
 combinatorially
 combinatoric
 combinators
@@ -22179,7 +22180,6 @@ congealed
 congealedness
 congealing
 counterrate
-congealment
 connusable
 congeals
 conged
