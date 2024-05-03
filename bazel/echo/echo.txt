@@ -11367,7 +11367,6 @@ evaporation
 exams
 evaporations
 euvrou
-evaporators
 engrain
 evaporimeter
 evaporite
@@ -13550,6 +13549,7 @@ extensionality
 engagedness
 extensionless
 extensions
+evaporators
 extensity
 endorsements
 extensive
