@@ -2685,6 +2685,7 @@ electrothermometer
 electrothermostatic
 electrothermotic
 electrotype
+eschel
 electrotyped
 electrotypes
 electrotypy
@@ -9557,7 +9558,6 @@ escheatment
 escheator
 escheatorship
 escheats
-eschel
 eschele
 embroaden
 eschevin
