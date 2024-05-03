@@ -3365,6 +3365,7 @@ capsids
 capsizable
 capsizal
 capsize
+compliantly
 capsized
 capsizes
 capsomer
@@ -20712,7 +20713,6 @@ compliancy
 compliancies
 consimilarity
 compliant
-compliantly
 complicacy
 complicant
 complicate
