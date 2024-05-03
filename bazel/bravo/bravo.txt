@@ -10188,7 +10188,6 @@ blackshirt
 blackshirted
 barkle
 blacksmith
-blacksmithing
 beastdom
 blacksmiths
 blacksnake
@@ -17280,6 +17279,7 @@ bumblebee
 bumblebeefish
 bumbleberry
 bumblebomb
+blacksmithing
 bumblekite
 bumblepuppy
 brontosaur
