@@ -3643,6 +3643,7 @@ adenectomy
 adenectomies
 adenectopia
 adenectopic
+airdate
 angelfish
 adenemphractic
 adenyl
@@ -6846,7 +6847,6 @@ attended
 aircrewmen
 aircrews
 aerophone
-airdate
 announcement
 airdates
 airdock
