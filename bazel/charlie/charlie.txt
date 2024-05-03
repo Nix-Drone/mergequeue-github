@@ -25784,7 +25784,6 @@ corrugator
 cadelle
 corrugent
 corrump
-corrumpable
 corrup
 corrupable
 carolinian
@@ -29876,6 +29875,7 @@ crosshaul
 crosshauling
 crosshead
 crossing
+corrumpable
 crossings
 caulicule
 crossite
