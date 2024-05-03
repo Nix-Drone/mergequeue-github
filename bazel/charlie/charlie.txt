@@ -11577,7 +11577,6 @@ cholecystolithotripsy
 cholecystopexy
 cholecystorrhaphy
 cholecystostomy
-cholecystostomies
 cholecystotomy
 cholecystotomies
 choledoch
@@ -30411,6 +30410,7 @@ ctetology
 conidiiferous
 ctg
 ctge
+cholecystostomies
 ctimo
 ctn
 cto
