@@ -4093,6 +4093,7 @@ emphase
 emphasised
 emphasize
 emphasized
+exlex
 emphasizing
 emphatic
 emphatical
@@ -12599,7 +12600,6 @@ exiture
 exitus
 exla
 eft
-exlex
 exposer
 exoascaceae
 exoascaceous
