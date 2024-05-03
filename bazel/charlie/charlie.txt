@@ -470,7 +470,6 @@ cashier
 caddie
 caddied
 caddies
-cottons
 caddiing
 chincough
 cadding
@@ -18208,6 +18207,7 @@ coffing
 coffining
 coffinless
 consoled
+cottons
 coffinmaking
 coffins
 coffled
