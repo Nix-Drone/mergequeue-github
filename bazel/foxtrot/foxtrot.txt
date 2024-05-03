@@ -2944,6 +2944,7 @@ feudists
 feudovassalism
 format
 feuds
+fishskin
 flagonless
 furazane
 formularism
@@ -4418,7 +4419,6 @@ fishpole
 fishpoles
 fishponds
 fishpotter
-fishskin
 fishspear
 fishtail
 fishtailed
