@@ -15506,7 +15506,6 @@ antimasks
 antimason
 antimasonry
 antimasque
-antimasquer
 afterstrain
 antimasquerade
 antimaterialism
@@ -22777,6 +22776,7 @@ atomize
 atomized
 atomizer
 antiheterolysin
+antimasquer
 atomizers
 atomizing
 atomology
