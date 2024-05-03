@@ -218,7 +218,6 @@ abbozzo
 abbr
 abbrev
 abbreviatable
-abbreviate
 abbreviated
 argotic
 apostolicism
@@ -12106,6 +12105,7 @@ anthrone
 anatum
 anaudic
 anaunter
+abbreviate
 anaunters
 anauxite
 anax
