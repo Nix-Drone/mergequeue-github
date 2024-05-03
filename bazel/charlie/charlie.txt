@@ -11074,7 +11074,6 @@ chitins
 chitlin
 continue
 chitling
-chitlings
 chewstick
 cowpath
 chitlins
@@ -15920,6 +15919,7 @@ cleidomancy
 cleidomastoid
 cleidorrhexis
 checkerbelly
+chitlings
 chiripa
 cleidoscapular
 cleidosternal
