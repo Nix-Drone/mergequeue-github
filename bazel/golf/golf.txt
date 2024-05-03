@@ -681,7 +681,6 @@ gnathonize
 gadaea
 geodesy
 galliot
-galliots
 gurnets
 gallipot
 gallipots
@@ -2447,6 +2446,7 @@ gallanting
 gelatinobromide
 guerdon
 gelatinoid
+galliots
 gaelicize
 gelation
 greaves
