@@ -8821,6 +8821,7 @@ chapelmaster
 chapelry
 colorate
 chapelries
+cyanic
 chapels
 cardiologies
 chapelward
@@ -12983,7 +12984,6 @@ cyanhydrate
 chords
 cyanhydric
 cyanhydrin
-cyanic
 cyanicide
 cyanid
 cyanide
