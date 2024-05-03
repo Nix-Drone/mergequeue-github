@@ -5082,7 +5082,6 @@ aerosolization
 aerosolize
 aerosolized
 aerosols
-aerosporin
 aerostat
 aerostatic
 aerostatical
@@ -18294,6 +18293,7 @@ aquicultural
 aquiculture
 anemotactic
 aquifer
+aerosporin
 aquiferous
 actifier
 aquifers
