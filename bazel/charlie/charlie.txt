@@ -4109,7 +4109,6 @@ carditis
 carditises
 cardium
 chinner
-cardlike
 cardmaker
 cardmaking
 cardo
@@ -18540,6 +18539,7 @@ coinhabitor
 coinhere
 coinhered
 coinherence
+cardlike
 coinherent
 coinhering
 cagui
