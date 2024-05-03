@@ -7308,7 +7308,6 @@ gossampine
 gossaniferous
 gossans
 gossard
-gossep
 geomechanics
 goujay
 gossy
@@ -8232,6 +8231,7 @@ grapsidae
 grapsus
 gondolet
 graptolite
+gossep
 graptolitha
 graptolithida
 graptolithina
