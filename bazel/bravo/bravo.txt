@@ -2962,7 +2962,6 @@ barrelhead
 barrelhouse
 barrelhouses
 besmearer
-barreling
 broad
 barrelled
 brattle
@@ -4384,6 +4383,7 @@ beblooding
 bluestockingism
 bebloods
 bebloom
+barreling
 beblot
 beblotch
 benitoite
