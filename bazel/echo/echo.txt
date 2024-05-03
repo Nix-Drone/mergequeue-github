@@ -5577,7 +5577,6 @@ enflame
 enflamed
 enflames
 enflaming
-encapsulate
 elasmosaurus
 envassalage
 embryotomy
@@ -9323,6 +9322,7 @@ euxanthic
 erpetology
 err
 element
+encapsulate
 embryoid
 errability
 errable
