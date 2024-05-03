@@ -9526,7 +9526,6 @@ checkerbreast
 checkered
 checkery
 checkering
-checkerist
 clavola
 checkers
 checkerspot
@@ -17662,6 +17661,7 @@ cocoas
 cocoawood
 cocobola
 cocobolas
+checkerist
 cocobolos
 countertheory
 cocoyam
