@@ -12006,7 +12006,6 @@ boylas
 bromocresol
 boildown
 boiled
-boiler
 boilerful
 boilerless
 boilermaker
@@ -16394,6 +16393,7 @@ brushes
 bedstock
 brushet
 brushful
+boiler
 brushy
 brushier
 brushiest
