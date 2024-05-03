@@ -7306,7 +7306,6 @@ gossamery
 gossamers
 gossampine
 gossaniferous
-gossans
 gossard
 gossep
 geomechanics
@@ -10741,6 +10740,7 @@ gutlike
 gutling
 gutnish
 guts
+gossans
 gutsy
 gutsier
 gutsily
