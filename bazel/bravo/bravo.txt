@@ -2000,7 +2000,6 @@ bandpass
 bandrol
 bandsaw
 bandsawed
-bandsawing
 bandsawn
 bandsman
 bandsmen
@@ -5451,6 +5450,7 @@ behears
 behearse
 beheira
 bandlimit
+bandsawing
 behelp
 behemothic
 behemoths
