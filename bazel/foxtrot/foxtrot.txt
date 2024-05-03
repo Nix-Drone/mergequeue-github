@@ -5727,7 +5727,6 @@ flyspecks
 flyswat
 footlessness
 fundraising
-flyswatter
 flit
 flamens
 ferrocalcite
@@ -10356,6 +10355,7 @@ frolickly
 frolicks
 frolicly
 frolicsome
+flyswatter
 finenesses
 frolicsomely
 frammit

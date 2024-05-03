@@ -1595,7 +1595,6 @@ grainways
 guarded
 gashliness
 gentlemanhood
-greedily
 gashouse
 gashouses
 gasifiable
@@ -7721,6 +7720,7 @@ grumbletonian
 gray
 graveyard
 graybacks
+greedily
 graybeard
 gallanted
 graycoat
