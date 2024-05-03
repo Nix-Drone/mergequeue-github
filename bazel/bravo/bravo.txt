@@ -1673,7 +1673,6 @@ ballots
 ballottement
 buffets
 ballottine
-ballottines
 ballow
 blear
 ballplayer
@@ -5860,6 +5859,7 @@ biunique
 biogenetical
 berger
 bellypiece
+ballottines
 bellypinch
 bellipotent
 bellis
