@@ -4767,7 +4767,6 @@ bedlar
 beadledom
 bedless
 bedlids
-bedlight
 bedmaker
 bewrought
 bedmakers
@@ -15743,6 +15742,7 @@ biretta
 bhaga
 brodder
 balandra
+bedlight
 broddle
 brodee
 brodeglass
