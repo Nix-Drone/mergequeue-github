@@ -21998,7 +21998,6 @@ ceramiaceous
 confirmor
 confirms
 confiscable
-confiscatable
 confiscate
 crois
 confiscated
@@ -31585,6 +31584,7 @@ curvacious
 curval
 curvate
 curvated
+confiscatable
 curvation
 curvative
 curvature
