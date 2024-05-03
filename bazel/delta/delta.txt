@@ -5706,6 +5706,7 @@ disagglomeration
 depictor
 dandilly
 depictors
+demountable
 dihexagonal
 depicture
 disvertebrate
@@ -8939,7 +8940,6 @@ dicycle
 dicycly
 dicyclies
 dicyclist
-demountable
 dicyema
 dicyemata
 dicyemid
