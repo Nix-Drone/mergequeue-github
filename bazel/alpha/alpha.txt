@@ -5134,6 +5134,7 @@ anticommercialness
 aesculus
 aesir
 acrosarc
+assignability
 aesop
 aesopian
 aesopic
@@ -21762,7 +21763,6 @@ assiette
 assify
 apprehensiveness
 assign
-assignability
 assignable
 assignably
 assignat
