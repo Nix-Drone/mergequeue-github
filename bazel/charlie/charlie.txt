@@ -8936,7 +8936,6 @@ chincha
 characters
 characterstring
 charade
-charadrii
 charadriiform
 charadriiformes
 charadrine
@@ -20972,6 +20971,7 @@ compulsions
 compulsitor
 compulsive
 compulsively
+charadrii
 compulsory
 compulsorily
 caramelan
