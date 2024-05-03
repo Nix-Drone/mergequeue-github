@@ -9936,7 +9936,6 @@ ambiances
 ambicolorate
 ambicoloration
 ambidexterity
-ambidexterities
 ambidextral
 ambidextrous
 andrenid
@@ -22584,6 +22583,7 @@ atherurus
 atmospherology
 atheticize
 athetize
+ambidexterities
 athetized
 athetotic
 athymy
