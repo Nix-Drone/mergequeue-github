@@ -608,7 +608,6 @@ bonjour
 bricoles
 babungera
 bacquet
-bact
 bacteraemia
 bacteremia
 bacteremic
@@ -8734,6 +8733,7 @@ bilobe
 bilobed
 bilobiate
 bilocation
+bact
 bilocular
 biloculate
 biloculina
