@@ -4905,7 +4905,6 @@ flameout
 flameouts
 flameproof
 formulize
-flameproofer
 flintlocks
 finfishes
 flamer
@@ -7689,6 +7688,7 @@ foregallery
 featherdom
 facilitated
 foregate
+flameproofer
 foregift
 foregleam
 ferrocyanide
