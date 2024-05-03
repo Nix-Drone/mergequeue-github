@@ -1587,6 +1587,7 @@ eggcups
 eggeater
 egged
 embog
+extensionality
 egger
 eggers
 envapour
@@ -13546,7 +13547,6 @@ extensible
 extensibleness
 extensile
 extensionalism
-extensionality
 engagedness
 extensionless
 extensions
