@@ -4636,7 +4636,6 @@ besuit
 bundeli
 borborus
 bioenergetics
-bedaubing
 bedaubs
 bedlike
 bedawee
@@ -9585,6 +9584,7 @@ biscuit
 brisked
 biscuitlike
 biscuitmaker
+bedaubing
 biscuitmaking
 biscuitry
 biscuitroot
