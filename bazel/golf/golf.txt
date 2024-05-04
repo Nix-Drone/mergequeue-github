@@ -7965,7 +7965,6 @@ grandparents
 gambiae
 grandpas
 grandsir
-grandson
 grandsons
 garibaldian
 grandsonship
@@ -9899,6 +9898,7 @@ gerundival
 guarantied
 guaranties
 guarantying
+grandson
 guarantor
 guarantors
 guarantorship
