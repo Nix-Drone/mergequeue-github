@@ -8806,7 +8806,6 @@ forwards
 forwardsearch
 forwarn
 forwean
-forwear
 february
 forwearied
 forwearying
@@ -10079,6 +10078,7 @@ frija
 frijole
 fiercly
 frijolillo
+forwear
 frike
 foreshadower
 frilal
