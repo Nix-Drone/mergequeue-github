@@ -5265,7 +5265,6 @@ affections
 accentors
 affectious
 affective
-affectively
 affectivity
 affectless
 affector
@@ -8699,6 +8698,7 @@ abscessroot
 alligation
 atelectasis
 alligations
+affectively
 alligator
 alligatored
 alligatorfish
