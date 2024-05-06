@@ -17258,7 +17258,6 @@ coart
 coarticulate
 coarticulation
 coascend
-coassert
 coasserter
 coassessor
 caravelle
@@ -26558,6 +26557,7 @@ coulombs
 coulometer
 coulter
 coulterneb
+coassert
 coulters
 coulthard
 coulure
