@@ -682,7 +682,6 @@ bacteriotherapy
 balanophorin
 bacteriotoxic
 bechances
-bacteriotoxin
 bal
 bacteriotrypsin
 bynames
@@ -9868,6 +9867,7 @@ bittered
 bitterender
 baffed
 bitterer
+bacteriotoxin
 bitterest
 bitterhead
 bitterhearted
