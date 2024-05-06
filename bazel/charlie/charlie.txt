@@ -2737,7 +2737,6 @@ canopic
 canopid
 canopied
 canopies
-canopying
 cours
 canopus
 canorous
@@ -8984,6 +8983,7 @@ chargable
 charge
 chargeability
 chargeable
+canopying
 chargeableness
 chargeant
 charged
