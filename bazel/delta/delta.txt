@@ -15871,7 +15871,6 @@ dosain
 dose
 dosed
 doser
-dosers
 dosimeter
 dosimetry
 dosimetric
@@ -17671,6 +17670,7 @@ dsects
 desmodium
 dsname
 dashers
+dosers
 dsnames
 dsp
 dsr
