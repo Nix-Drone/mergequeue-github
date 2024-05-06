@@ -2877,7 +2877,6 @@ genoms
 genonema
 gph
 genos
-gerrymandered
 genospecies
 genotype
 gobinism
@@ -6995,6 +6994,7 @@ goodmen
 goodness
 goodrich
 gleesomeness
+gerrymandered
 goodsire
 goodsome
 galician
