@@ -3405,7 +3405,6 @@ deflagrator
 deflate
 deflated
 drynaria
-deflater
 deflates
 delime
 deflating
@@ -17766,6 +17765,7 @@ ducats
 ducdame
 duce
 duces
+deflater
 dangerfully
 duchan
 distrouble
