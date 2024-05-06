@@ -9196,7 +9196,6 @@ chasable
 chase
 chaseable
 chased
-corbeilles
 chasers
 chases
 chashitsu
@@ -30365,6 +30364,7 @@ crystallogenic
 csardas
 csch
 csect
+corbeilles
 cholecystectomies
 csects
 csi
