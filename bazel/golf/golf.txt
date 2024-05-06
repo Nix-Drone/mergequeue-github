@@ -683,7 +683,6 @@ geodesy
 galliot
 galliots
 gurnets
-gallipot
 gallipots
 gallirallus
 gallisin
@@ -7681,6 +7680,7 @@ graduators
 graduses
 graeae
 groundflower
+gallipot
 grass
 graecian
 gemlike
