@@ -9921,6 +9921,7 @@ chemosensitive
 chemosensitivities
 chemoserotherapy
 chemoses
+continuedly
 chemosynthesis
 chemosynthetic
 chemosis
@@ -23557,7 +23558,6 @@ continuatively
 continuativeness
 continuator
 continued
-continuedly
 continuedness
 continuer
 continuers
