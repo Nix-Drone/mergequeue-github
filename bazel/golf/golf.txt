@@ -504,7 +504,6 @@ galeopsis
 glossoncus
 galeorchis
 goner
-geelhout
 galeorhinidae
 galeorhinus
 gamont
@@ -856,6 +855,7 @@ galinaceous
 galvanotonic
 guaco
 galvo
+geelhout
 gangliac
 gleds
 galvvanoscopy
