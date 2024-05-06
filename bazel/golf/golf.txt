@@ -5108,7 +5108,6 @@ glamour
 granita
 glossary
 glamourization
-glamourize
 glamourless
 glamourous
 glance
@@ -9666,6 +9665,7 @@ gammon
 gruffiest
 gruffish
 gruffly
+glamourize
 gruffness
 gruffs
 gaseity
