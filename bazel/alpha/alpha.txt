@@ -13564,7 +13564,6 @@ attributal
 annoyances
 annoyed
 autostandardization
-annoyer
 annoyers
 annoying
 arboreta
@@ -21775,6 +21774,7 @@ assigners
 acidulent
 assignment
 assignments
+annoyer
 assignors
 assigns
 assilag
