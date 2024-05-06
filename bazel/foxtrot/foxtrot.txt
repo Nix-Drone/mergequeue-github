@@ -8978,7 +8978,6 @@ foundations
 founded
 founder
 foundered
-foundery
 foundering
 foundership
 foundling
@@ -9192,6 +9191,7 @@ fielded
 fp
 fplot
 fpm
+foundery
 fleeceflower
 fps
 fpsps
