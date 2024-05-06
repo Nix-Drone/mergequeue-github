@@ -3872,7 +3872,6 @@ dicellate
 discant
 deionization
 deionizations
-deionize
 deionized
 denegate
 deionizer
@@ -11493,6 +11492,7 @@ discommoded
 discommodes
 discommoding
 discommodious
+deionize
 discommodiously
 discommodiousness
 discommodity
