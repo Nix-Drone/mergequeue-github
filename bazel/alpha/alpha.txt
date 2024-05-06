@@ -2315,7 +2315,6 @@ achromatizable
 achromatization
 achromatize
 amalgam
-achromatizing
 achromatocyte
 achromatolysis
 achromatope
@@ -8622,6 +8621,7 @@ admeasured
 allelotropism
 alleluia
 anadicrotic
+achromatizing
 alleluiah
 alleluias
 alleluiatic
