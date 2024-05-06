@@ -5291,7 +5291,6 @@ flche
 flchette
 flimflam
 fld
-fldxt
 flea
 fiscalize
 flimmer
@@ -11004,6 +11003,7 @@ fumaria
 fumariaceae
 fumaric
 fumarin
+fldxt
 fumarium
 fibroplastic
 fumaroidal
