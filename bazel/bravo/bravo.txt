@@ -9037,7 +9037,6 @@ brutes
 bioherm
 bioherms
 bioinstrument
-biokinetics
 biol
 biolinguistics
 biolyses
@@ -18175,6 +18174,7 @@ boundly
 butylene
 butylenes
 butylic
+biokinetics
 benching
 butin
 butyn
