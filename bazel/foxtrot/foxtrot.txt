@@ -287,6 +287,7 @@ faden
 fadeout
 fader
 faders
+footrests
 fadge
 forra
 fellowless
@@ -7239,7 +7240,6 @@ footprint
 flocculating
 footraces
 footrest
-footrests
 footrope
 footropes
 foots
