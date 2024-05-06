@@ -11572,6 +11572,7 @@ cholecystogram
 cholecystography
 cholecystojejunostomy
 cholecystokinin
+cohesion
 cholecystolithiasis
 cholecystolithotripsy
 cholecystopexy
@@ -18407,7 +18408,6 @@ cohesibility
 candidest
 cowthwort
 cohesible
-cohesion
 cohesionless
 cohesive
 cohesiveness
