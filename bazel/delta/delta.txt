@@ -5753,6 +5753,7 @@ deploy
 deployed
 deploying
 defilade
+dimples
 deployment
 deployments
 deftest
@@ -9966,7 +9967,6 @@ dimouts
 dimple
 dimpled
 dimplement
-dimples
 dimply
 dimplier
 dimpliest
