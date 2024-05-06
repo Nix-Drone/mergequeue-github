@@ -4965,7 +4965,6 @@ flangeless
 flangeway
 flankard
 fountainhead
-flanked
 flanker
 flankers
 falconries
@@ -4984,6 +4983,7 @@ flannelleaves
 floc
 flannelly
 flannelling
+flanked
 flannelmouth
 ferries
 fedelini
