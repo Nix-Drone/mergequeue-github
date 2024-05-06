@@ -2666,7 +2666,6 @@ acoustoelectric
 acpt
 acquaint
 acquaintances
-acquaintanceship
 acquaintanceships
 asymmetrocarpous
 acquaintancy
@@ -7750,6 +7749,7 @@ anthozooid
 aldoheptose
 antiphrastical
 aldohexose
+acquaintanceship
 aldoketene
 aldol
 aldolase
