@@ -346,6 +346,7 @@ backfields
 backfiller
 backfilling
 backfills
+beveling
 backfired
 backfires
 backflip
@@ -7571,7 +7572,6 @@ beveil
 beveled
 bevelers
 blastophore
-beveling
 bevelled
 beveller
 bookbinder
