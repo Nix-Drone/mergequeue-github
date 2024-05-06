@@ -3127,7 +3127,6 @@ actinomycetales
 areche
 actinomycete
 actinomycetous
-amebous
 actinomycoma
 allogeneity
 actinomycosis
@@ -5079,6 +5078,7 @@ aerosiderolite
 amphib
 aerosol
 aerosolization
+amebous
 aerosolize
 aerosolized
 aerosols
