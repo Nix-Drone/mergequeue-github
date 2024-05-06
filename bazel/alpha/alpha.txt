@@ -6840,7 +6840,6 @@ aircraftsmen
 aircraftswoman
 aircraftwoman
 ahint
-aircrew
 aircrewman
 attended
 aircrewmen
@@ -8318,6 +8317,7 @@ acappella
 aliptae
 awakener
 alipteria
+aircrew
 alipterion
 aliptes
 aliptic
