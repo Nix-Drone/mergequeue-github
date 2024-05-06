@@ -1579,7 +1579,6 @@ algid
 acclimatizable
 apokreos
 atinkle
-acclimatize
 acclimatizer
 acclimatizes
 acclimatizing
@@ -2987,6 +2986,7 @@ arpeggiated
 abraxas
 acropoleis
 acropolis
+acclimatize
 acropolitan
 acropore
 acrorrheuma
