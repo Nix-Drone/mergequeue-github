@@ -6970,7 +6970,6 @@ entosphere
 entosterna
 entosternal
 entosternum
-entosthoblast
 entothorax
 entotympanic
 ebullioscope
@@ -10320,6 +10319,7 @@ embossable
 expoliate
 ethidene
 ethyl
+entosthoblast
 ethylamide
 ethylamime
 estus
