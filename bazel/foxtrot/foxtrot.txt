@@ -6098,7 +6098,6 @@ fiberizer
 flotages
 favorability
 foregoes
-flote
 fustin
 fragor
 felspar
@@ -8084,6 +8083,7 @@ flayflint
 foalhood
 flecnode
 forests
+flote
 forestside
 forestudy
 focalizing
