@@ -2940,7 +2940,6 @@ acromiosternal
 acromiothoracic
 acromyotonia
 acromyotonus
-acromphalus
 acron
 acronal
 acronic
@@ -18205,6 +18204,7 @@ avarices
 aquage
 aquagreen
 aquake
+acromphalus
 aqualung
 aqualunger
 aquamanile
