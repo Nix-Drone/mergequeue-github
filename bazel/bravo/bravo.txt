@@ -12254,7 +12254,6 @@ bushfighter
 bombardelle
 baetylic
 bombarder
-bombardier
 bombardiers
 bombarding
 bombardman
@@ -17546,6 +17545,7 @@ burbly
 bacitracin
 bemas
 binucleate
+bombardier
 burbliest
 burbolt
 burbs
