@@ -7218,7 +7218,6 @@ centrodesmus
 centrodorsal
 centroid
 centroidal
-centroids
 centrolecithal
 centrolepidaceae
 centrolepidaceous
@@ -18105,6 +18104,7 @@ coesites
 coessential
 conversional
 coessentiality
+centroids
 coessentially
 coestablishment
 coestate

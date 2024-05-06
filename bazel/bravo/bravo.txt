@@ -11045,6 +11045,7 @@ blipping
 bloman
 blomstrandine
 blond
+borders
 blonde
 blondeness
 balonea
@@ -12952,7 +12953,6 @@ borderer
 borderers
 bordering
 borderings
-borders
 borderland
 borderlander
 borderlands
