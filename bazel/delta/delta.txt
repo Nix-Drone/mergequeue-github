@@ -2476,7 +2476,6 @@ deckman
 deckpipe
 decks
 dulls
-deckswabber
 decl
 declaim
 dichorisandra
@@ -13071,6 +13070,7 @@ damps
 dysphemia
 dysphemism
 dysphemistic
+deckswabber
 diamantine
 directiveness
 dysphonia
