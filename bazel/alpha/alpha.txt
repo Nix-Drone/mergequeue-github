@@ -2521,7 +2521,6 @@ astomatal
 acknowing
 acknowledge
 acknowledgeable
-acknowledged
 afoam
 acknowledgedly
 acknowledgements
@@ -6598,6 +6597,7 @@ ahimsas
 antinomian
 amebula
 ahir
+acknowledged
 ahistoric
 ahistorical
 amphicarpous
