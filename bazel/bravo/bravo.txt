@@ -3008,6 +3008,7 @@ barricadoes
 brainsick
 barricados
 barrico
+bestowable
 barricoes
 barrier
 barriers
@@ -7987,7 +7988,6 @@ bibliopolic
 bibliopolical
 bibliopolically
 bibliopolist
-bestowable
 bibliosoph
 bistratose
 bibliotaph
