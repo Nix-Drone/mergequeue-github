@@ -5954,6 +5954,7 @@ floorway
 fluidrachm
 floorward
 furniment
+fonts
 forgivingly
 floorwise
 floosy
@@ -7063,7 +7064,6 @@ fontinas
 fontlet
 foredate
 fratercula
-fonts
 furnitures
 foochowese
 food
