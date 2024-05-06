@@ -5620,6 +5620,7 @@ brandishers
 belait
 biface
 belaites
+brew
 belam
 belamcanda
 belamy
@@ -15098,7 +15099,6 @@ brevity
 brevities
 backboneless
 bretwalda
-brew
 brewage
 brewages
 bogier
