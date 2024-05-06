@@ -4841,7 +4841,6 @@ cartages
 cartboot
 carte
 carted
-cartel
 cartelism
 cimelia
 cakemaker
@@ -14340,6 +14339,7 @@ circumhorizontal
 camisado
 circumincession
 circuminsession
+cartel
 circuminsular
 circumintestinal
 circumitineration
