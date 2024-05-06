@@ -3888,6 +3888,7 @@ final
 finale
 finales
 finalis
+forelooper
 finalization
 finalize
 finalized
@@ -7795,7 +7796,6 @@ forelook
 formants
 francisco
 foreloop
-forelooper
 foreloper
 forelouper
 foremade
