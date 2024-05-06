@@ -11463,7 +11463,6 @@ choenix
 choes
 choga
 chogak
-coexclusive
 chogset
 choy
 choya
@@ -18363,6 +18362,7 @@ capelets
 cogwheels
 cogwood
 cohabitancy
+coexclusive
 cohabitant
 cohabitate
 cohabitation
