@@ -5080,7 +5080,6 @@ fanterie
 flask
 ferricyanhydric
 flasker
-foretooth
 faecal
 flasklet
 flasks
@@ -8291,6 +8290,7 @@ forhow
 fade
 foryield
 furnished
+foretooth
 furnaceman
 ferriage
 felonous
