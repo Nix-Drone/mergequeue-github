@@ -12331,7 +12331,6 @@ bombous
 bombproof
 bombycilla
 bombs
-bombsights
 belgard
 bombus
 bomi
@@ -15642,6 +15641,7 @@ broadacre
 broadax
 broadaxes
 broadbrim
+bombsights
 burred
 broadcast
 broadcaster
