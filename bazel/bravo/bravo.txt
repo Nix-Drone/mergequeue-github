@@ -2562,7 +2562,6 @@ bargain
 bargainable
 billbugs
 bargainee
-bargainer
 bargaining
 bargainor
 bargander
@@ -4977,6 +4976,7 @@ bosher
 beele
 beelike
 bagginess
+bargainer
 bassos
 beelzebul
 beemaster
