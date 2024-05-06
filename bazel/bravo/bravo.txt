@@ -6144,7 +6144,6 @@ benchlet
 benchman
 benchmar
 benchmark
-benchmarked
 benchmarks
 benchmen
 bend
@@ -15285,6 +15284,7 @@ burrow
 bellworts
 broadened
 butcherbird
+benchmarked
 badged
 bridget
 burhinidae
