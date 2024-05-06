@@ -6552,6 +6552,7 @@ bephrase
 big
 bepicture
 bepiece
+bookbinder
 bellyflaught
 bepierce
 bepile
@@ -7574,7 +7575,6 @@ blastophore
 beveling
 bevelled
 beveller
-bookbinder
 bevenom
 bever
 beverage
