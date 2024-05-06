@@ -3715,7 +3715,6 @@ dehypnotize
 dehair
 deheathenize
 dehematize
-decard
 departement
 disoxygenate
 dehepatize
@@ -5768,6 +5767,7 @@ deploration
 deplore
 deplored
 deploredly
+decard
 deploredness
 deplorer
 deplorers
