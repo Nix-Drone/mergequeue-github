@@ -3552,7 +3552,6 @@ embolon
 emboltement
 embolus
 emborder
-embordered
 elegant
 embordering
 epidesmine
@@ -9106,6 +9105,7 @@ ectosome
 ecumenic
 erysipeloid
 erysipelous
+embordered
 erysiphe
 elicitable
 eristic
