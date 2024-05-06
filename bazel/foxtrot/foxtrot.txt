@@ -5934,7 +5934,6 @@ floorboard
 floorcloth
 fala
 forevermore
-frigidity
 featherbedding
 floorcloths
 floored
@@ -8336,6 +8335,7 @@ fayed
 fibrillous
 forklift
 forkman
+frigidity
 forswornness
 forkmen
 forks
