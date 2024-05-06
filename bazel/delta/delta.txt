@@ -3449,7 +3449,6 @@ deflorate
 defloration
 deflorations
 deflore
-deflorescence
 deflourish
 dropforged
 dubash
@@ -13970,6 +13969,7 @@ distribution
 distributional
 decretum
 dispensable
+deflorescence
 distributions
 distributival
 distributive
