@@ -835,7 +835,6 @@ abridged
 anisotropical
 abridgement
 abridgements
-abridger
 abridgers
 abridges
 abridging
@@ -8503,6 +8502,7 @@ alkylogen
 alkyloxy
 alkyls
 alkin
+abridger
 alkine
 alkyne
 alkynes
