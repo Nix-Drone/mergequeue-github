@@ -792,7 +792,6 @@ galvanism
 gratefullest
 goosewinged
 galvanization
-galvanized
 grigri
 gugglet
 galvanizer
@@ -6530,6 +6529,7 @@ goggler
 gogglers
 ganoidal
 goggles
+galvanized
 ghostlet
 goggly
 gavialis
