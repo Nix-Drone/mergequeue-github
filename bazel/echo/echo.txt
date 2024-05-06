@@ -7688,7 +7688,6 @@ enemied
 enviousness
 equiatomic
 epicondylitis
-epicoracohumeral
 epicoracoid
 exocrine
 everduring
@@ -12823,6 +12822,7 @@ exospore
 exosporium
 exossate
 exosseous
+epicoracohumeral
 embrew
 exostosed
 exostoses
