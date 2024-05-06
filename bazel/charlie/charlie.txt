@@ -2110,7 +2110,6 @@ camporee
 camporees
 clopping
 campos
-campout
 camps
 campshed
 campshedding
@@ -13470,6 +13469,7 @@ centipedal
 cicurate
 cicuta
 creches
+campout
 cicutoxin
 crepance
 cid
