@@ -6147,7 +6147,6 @@ glut
 glutamate
 geodesics
 glutamates
-glutamic
 glutaminase
 gallegan
 griots
@@ -9780,6 +9779,7 @@ guadagnini
 guadalcazarite
 guahiban
 guahivo
+glutamic
 guayaba
 gastrohysterotomy
 guayaberas
