@@ -14912,7 +14912,6 @@ cytogenic
 cytogenies
 cytogenous
 cytoglobulin
-cytohyaloplasm
 cytoid
 citoyen
 citoyenne
@@ -15018,6 +15017,7 @@ cytotechnologist
 cytotoxic
 clumpy
 cytotoxin
+cytohyaloplasm
 cytotrophy
 cytotrophoblast
 cloud
