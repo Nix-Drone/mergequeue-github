@@ -3572,6 +3572,7 @@ addrest
 adds
 addu
 adduce
+alterman
 adduceable
 adduced
 adducent
@@ -9428,7 +9429,6 @@ altering
 acupunctuate
 alterity
 alterius
-alterman
 altern
 alternacy
 alternamente
