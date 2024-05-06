@@ -55,6 +55,7 @@ facebar
 facebow
 facecloth
 firestone
+flickered
 faced
 foreladies
 faceharden
@@ -5558,7 +5559,6 @@ flicked
 formication
 flicker
 ferromagnetic
-flickered
 flickeringly
 flickermouse
 flossa
