@@ -2023,6 +2023,7 @@ bins
 barrad
 bdls
 bandwidth
+bedstands
 bandwidths
 bandwork
 bandworm
@@ -9054,7 +9055,6 @@ biologies
 biologism
 biologist
 biologistic
-bedstands
 barguest
 biologists
 biologize
