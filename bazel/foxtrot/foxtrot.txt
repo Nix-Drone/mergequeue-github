@@ -3121,7 +3121,6 @@ fibroblastic
 fibrocalcareous
 fibrocarcinoma
 fibrocartilaginous
-fibrocellular
 fibrocement
 fibrochondrosteal
 fibrocyst
@@ -10180,6 +10179,7 @@ frisks
 frislet
 frisolee
 filleter
+fibrocellular
 friss
 frisson
 fittyfied
