@@ -16482,6 +16482,7 @@ cuon
 clockmaker
 clockmaking
 crewer
+coned
 clockroom
 clocksmith
 clockwatcher
@@ -21774,7 +21775,6 @@ condurangin
 condurrite
 cone
 communistical
-coned
 coneflower
 conehead
 coneine
