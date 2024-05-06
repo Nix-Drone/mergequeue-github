@@ -7471,7 +7471,6 @@ ceratoduses
 ceratoglossal
 ceratoglossus
 ceratohyal
-ceratohyoid
 ceratoid
 ceratomandibular
 ceratomania
@@ -23215,6 +23214,7 @@ consubstantialism
 consubstantialist
 conformism
 consubstantiality
+ceratohyoid
 consubstantially
 clamourist
 consubstantiate
