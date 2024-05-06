@@ -1603,7 +1603,6 @@ calorimetry
 calorimetric
 calorimetrical
 calorimetrically
-calorimotor
 calorisator
 calorist
 calorite
@@ -13876,6 +13875,7 @@ cinematographical
 chkfil
 cantharidin
 cinematographically
+calorimotor
 cinematographies
 cinematographist
 cinemelodrama
