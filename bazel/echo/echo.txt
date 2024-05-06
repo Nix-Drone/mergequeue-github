@@ -2460,7 +2460,6 @@ electrohomeopathy
 embassador
 electroimpulse
 electroindustrial
-electroing
 electroionic
 enzymology
 electrojet
@@ -12934,6 +12933,7 @@ expectant
 embanks
 enteroparalysis
 expectantly
+electroing
 expectation
 expectations
 exordial
