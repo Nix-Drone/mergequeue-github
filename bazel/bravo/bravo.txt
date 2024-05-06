@@ -3770,6 +3770,7 @@ batteners
 battening
 battens
 batter
+bocks
 bread
 batterable
 battercake
@@ -15114,7 +15115,6 @@ brewing
 brewings
 brewis
 brewises
-bocks
 brewmaster
 bibliopolistic
 brews
