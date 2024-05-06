@@ -2948,7 +2948,6 @@ enameloma
 egrimony
 exogastric
 elided
-enameler
 elides
 elidible
 eliding
@@ -8302,6 +8301,7 @@ epistoma
 epistomal
 epistome
 epistropheal
+enameler
 endolaryngeal
 epistropheus
 epit
