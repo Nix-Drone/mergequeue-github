@@ -5629,7 +5629,6 @@ flimsiness
 flinch
 flagleaf
 freighters
-forgone
 flinched
 flincher
 flinching
@@ -7384,6 +7383,7 @@ forbiddenly
 focometry
 fissidens
 forbiddenness
+forgone
 fenestellae
 flames
 foolishness
