@@ -12159,6 +12159,7 @@ anchorages
 anchorate
 anchored
 anchorer
+azimuth
 anchoress
 anchoresses
 anchoret
@@ -25269,7 +25270,6 @@ aziminobenzene
 azymite
 azymous
 apostume
-azimuth
 azimuthal
 azimuthally
 azimuths
