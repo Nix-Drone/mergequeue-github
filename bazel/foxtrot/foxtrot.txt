@@ -4369,7 +4369,6 @@ fisherman
 flammably
 fisherwoman
 fishes
-fishet
 fervours
 fishfinger
 fluxionary
@@ -11064,6 +11063,7 @@ fumify
 fumigated
 fumigating
 festal
+fishet
 fumigations
 fumigator
 fumigatories
