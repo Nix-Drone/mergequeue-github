@@ -12392,6 +12392,7 @@ bondfolk
 basalia
 bondhold
 bondholder
+banking
 bondholders
 bicolor
 bondholding
@@ -12800,7 +12801,6 @@ bedsheet
 bacciform
 boorish
 boorishly
-banking
 boorishness
 boors
 bertrandite
