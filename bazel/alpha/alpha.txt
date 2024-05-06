@@ -16476,7 +16476,6 @@ antjar
 apices
 aleuroscope
 antler
-antlered
 alcoves
 antlerite
 antlerless
@@ -22756,6 +22755,7 @@ atomician
 ahnfeltia
 atomicism
 arciferous
+antlered
 atomicity
 atomies
 atomiferous
