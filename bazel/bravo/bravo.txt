@@ -15641,7 +15641,6 @@ broaching
 broadacre
 broadax
 broadaxes
-broadbrim
 burred
 broadcast
 broadcaster
@@ -17257,6 +17256,7 @@ bultell
 bulten
 bulter
 bandores
+broadbrim
 bultong
 bultow
 bulwand
