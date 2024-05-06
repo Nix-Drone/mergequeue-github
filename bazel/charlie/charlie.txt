@@ -2937,6 +2937,7 @@ canun
 canvas
 canvasado
 canvasback
+corrigiola
 canvasbacks
 canvasers
 canvases
@@ -25706,7 +25707,6 @@ chainbearer
 centrals
 corrigibleness
 corrigibly
-corrigiola
 corrigiolaceae
 corrival
 corrivality
