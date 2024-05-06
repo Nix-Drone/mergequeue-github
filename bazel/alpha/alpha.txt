@@ -10211,7 +10211,6 @@ amenable
 alkalis
 anticheater
 amenableness
-amenably
 amenance
 amend
 amendableness
@@ -18259,6 +18258,7 @@ aquate
 ancylostomum
 aquatic
 aquatically
+amenably
 aquatics
 aquatile
 aquatinta
