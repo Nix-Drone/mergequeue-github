@@ -3455,7 +3455,6 @@ dropforged
 dubash
 deflower
 deflowered
-deflowerer
 deflowering
 defeating
 dissolving
@@ -12103,6 +12102,7 @@ disfaith
 disfame
 disconsolance
 disfashion
+deflowerer
 disfavor
 deaerating
 disproven
