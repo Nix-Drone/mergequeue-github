@@ -4405,7 +4405,6 @@ fishlines
 frondage
 fishling
 fishman
-fishmeals
 fishmonger
 ferociousness
 fishmouth
@@ -6326,6 +6325,7 @@ flukes
 flukeworm
 flukewort
 fluky
+fishmeals
 flukier
 flapjacks
 flukily
