@@ -2008,7 +2008,6 @@ bandspreading
 bandstand
 bandstands
 bandster
-ballroom
 bandstop
 bandstring
 bandura
@@ -17290,6 +17289,7 @@ bumbling
 bumblingly
 bumblings
 bumbo
+ballroom
 bumboat
 bumboatman
 bumboatmen
