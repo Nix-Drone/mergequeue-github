@@ -3604,6 +3604,7 @@ definition
 degass
 degassed
 degassing
+degrade
 degauss
 degaussing
 degelatinize
@@ -6590,7 +6591,6 @@ deserters
 desertful
 diabolonian
 deviants
-degrade
 dipped
 desertfully
 deserticolous
