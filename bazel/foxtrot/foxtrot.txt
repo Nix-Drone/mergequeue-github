@@ -1656,6 +1656,7 @@ favours
 farce
 favous
 favus
+fishability
 foredone
 favuses
 fawe
@@ -4342,7 +4343,6 @@ fise
 forb
 fisetin
 fish
-fishability
 fishable
 fishback
 fishberry
