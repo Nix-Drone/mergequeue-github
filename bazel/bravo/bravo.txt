@@ -2579,6 +2579,7 @@ bargehouse
 bargelike
 bargelli
 bargello
+brewing
 bargeload
 bargeman
 bromcamphor
@@ -15110,7 +15111,6 @@ brewership
 brewhouse
 beguilingness
 brewhouses
-brewing
 brewings
 brewis
 brewises
