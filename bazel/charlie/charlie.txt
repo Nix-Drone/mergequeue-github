@@ -4891,7 +4891,6 @@ cartography
 cartographic
 cartographical
 confessionist
-cartographically
 cartographies
 cartomancy
 cartomancies
@@ -16302,6 +16301,7 @@ clints
 clio
 cliona
 clip
+cartographically
 clipboard
 clipboards
 clype
