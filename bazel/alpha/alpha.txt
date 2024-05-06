@@ -216,7 +216,6 @@ abscision
 abbott
 abbozzo
 abbr
-abbrev
 abbreviatable
 abbreviate
 abbreviated
@@ -12449,6 +12448,7 @@ ambalam
 anecdotalist
 anecdotally
 auxanology
+abbrev
 anecdote
 anecdotes
 anecdotic
