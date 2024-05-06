@@ -1260,7 +1260,6 @@ gaol
 gynostegium
 gaoled
 guiltier
-gaoler
 gaolers
 gaoling
 gaoloring
@@ -10188,6 +10187,7 @@ guild
 gharry
 guilder
 graver
+gaoler
 ghoul
 guildhall
 guilds
