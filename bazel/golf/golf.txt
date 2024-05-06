@@ -2217,7 +2217,6 @@ gazettal
 gazette
 gazetted
 gazetteerish
-gazetteers
 goon
 gazetteership
 gremlin
@@ -7162,6 +7161,7 @@ greyhens
 globical
 gile
 gordon
+gazetteers
 gore
 gorebill
 gutturalization
