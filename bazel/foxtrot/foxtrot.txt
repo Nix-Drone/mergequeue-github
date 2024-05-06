@@ -1105,7 +1105,6 @@ farmsteads
 farmtown
 farnesol
 farnesols
-fogas
 flinger
 farnesses
 faro
@@ -4766,6 +4765,7 @@ flaggelating
 flaggella
 flagger
 falseface
+fogas
 fumiferana
 frogeyes
 flaggy
