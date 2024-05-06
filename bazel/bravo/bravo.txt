@@ -15342,7 +15342,6 @@ bootes
 brigadier
 bitripartite
 brigading
-bequote
 brigalow
 brigand
 brigandage
@@ -17397,6 +17396,7 @@ boardmen
 bundler
 bona
 bundlerooted
+bequote
 bundlers
 bundles
 bundlet
