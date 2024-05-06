@@ -3916,7 +3916,6 @@ giblets
 giboia
 goyle
 glave
-gibsons
 gibstaff
 gibus
 gibuses
@@ -8460,6 +8459,7 @@ gravicembalos
 garrotter
 gascon
 glucic
+gibsons
 gravid
 gravida
 gravidate
