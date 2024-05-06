@@ -11093,7 +11093,6 @@ disassembler
 disassembles
 descriptors
 disassembling
-disassent
 disassiduity
 disassimilate
 dodecastyle
@@ -14101,6 +14100,7 @@ disvulnerability
 demurs
 diswarn
 dehaites
+disassent
 diswarrened
 diswarrening
 diswashing
