@@ -3606,7 +3606,6 @@ carara
 carassow
 carassows
 carat
-caratacus
 caratch
 carate
 carates
@@ -23876,6 +23875,7 @@ controllers
 controlless
 controlling
 cananga
+caratacus
 controls
 controversal
 controverse
