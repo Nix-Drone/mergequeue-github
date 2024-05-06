@@ -3809,7 +3809,6 @@ filmstrips
 filo
 filoplumaceous
 fulmicotton
-filoplume
 filopodia
 filopodium
 filosa
@@ -11450,6 +11449,7 @@ furnariidae
 furnariides
 fossilify
 furnarius
+filoplume
 furnish
 furnishable
 flannelmouthed
