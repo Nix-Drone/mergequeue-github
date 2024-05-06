@@ -3683,6 +3683,7 @@ functionalistic
 fretsaws
 filigrained
 fanged
+fillet
 foibles
 firstborn
 filigrane
@@ -8850,7 +8851,6 @@ fossane
 fidel
 fossate
 fauna
-fillet
 fosse
 fosses
 fibromyomatous
