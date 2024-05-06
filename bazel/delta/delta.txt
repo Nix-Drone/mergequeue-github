@@ -2569,7 +2569,6 @@ decocainize
 decoct
 decoctible
 delawn
-decocting
 decoction
 disarrest
 decoctive
@@ -13605,6 +13604,7 @@ dissympathize
 dissimulate
 dissimulates
 dissimulation
+decocting
 dissimulations
 deipara
 dissimulative
