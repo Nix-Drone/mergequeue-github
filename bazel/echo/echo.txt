@@ -5163,7 +5163,6 @@ endoesophagitis
 endofaradism
 endogamy
 endogamic
-endogamous
 encipherer
 endogastritis
 endogen
@@ -9273,6 +9272,7 @@ erosional
 erythrulose
 erosions
 erosive
+endogamous
 erosiveness
 erosivity
 erostrate
