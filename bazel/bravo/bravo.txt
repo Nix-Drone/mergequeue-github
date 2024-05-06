@@ -1845,7 +1845,6 @@ boss
 bizardite
 bothroi
 banago
-blancmanger
 banagos
 buriable
 bound
@@ -4845,6 +4844,7 @@ bedsitter
 bedsock
 bedsonia
 bedsonias
+blancmanger
 bumblefoot
 bedsore
 bedsores
