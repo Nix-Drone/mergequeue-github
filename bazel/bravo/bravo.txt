@@ -1571,7 +1571,6 @@ ballat
 ballata
 ballate
 ballaton
-ballatoon
 barkbound
 ballbuster
 ballcarrier
@@ -12728,6 +12727,7 @@ biddy
 bookworm
 bookworms
 bucketeer
+ballatoon
 bookwright
 bool
 bowline
