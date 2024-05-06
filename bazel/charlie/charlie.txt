@@ -7263,7 +7263,6 @@ civility
 clawsick
 centuplication
 centupling
-centure
 century
 centuria
 column
@@ -13604,6 +13603,7 @@ chrysophan
 cilioflagellate
 ciliograde
 ciliola
+centure
 ciliolate
 ciliolum
 cilioretinal
