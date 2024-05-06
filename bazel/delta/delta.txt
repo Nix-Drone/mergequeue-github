@@ -1323,7 +1323,6 @@ daunts
 dauphin
 dauphine
 dauphines
-drapable
 dauphiness
 daur
 dauri
@@ -17609,6 +17608,7 @@ drumming
 drummock
 drumread
 drumreads
+drapable
 drumroll
 drumrolls
 demesmerize
