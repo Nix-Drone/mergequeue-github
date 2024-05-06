@@ -77,7 +77,6 @@ fisticuffs
 faces
 facesaving
 facet
-foresaying
 faceted
 facetely
 faceteness
@@ -6866,6 +6865,7 @@ foliated
 foliates
 foliating
 foliation
+foresaying
 foliator
 foliature
 finiglacial
