@@ -8950,7 +8950,6 @@ botan
 biocidal
 biocide
 biocides
-bioclimatic
 bioclimatician
 bioclimatology
 bioclimatological
@@ -15469,6 +15468,7 @@ benadryl
 bringsel
 brynhild
 brailing
+bioclimatic
 brinie
 barbes
 brinier
