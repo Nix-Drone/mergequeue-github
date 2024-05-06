@@ -2348,6 +2348,7 @@ achroodextrinase
 achroous
 achtehalber
 achtel
+arrestable
 achtelthaler
 achterveld
 achuete
@@ -20214,7 +20215,6 @@ arreption
 arreptitious
 anconad
 arrest
-arrestable
 arrestant
 albi
 arrestation
