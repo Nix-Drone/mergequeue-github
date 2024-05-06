@@ -3772,7 +3772,6 @@ battens
 batter
 bread
 batterable
-battercake
 batterdock
 battered
 bootstrap
@@ -6002,6 +6001,7 @@ belverdian
 burbling
 bonhomme
 belzebub
+battercake
 bridaler
 bema
 bemad
