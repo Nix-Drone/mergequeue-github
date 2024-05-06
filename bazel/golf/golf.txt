@@ -1642,6 +1642,7 @@ gasoliers
 gasoline
 gasoliner
 germiparity
+gunslinger
 gasolines
 gasometry
 gastrodisc
@@ -10574,7 +10575,6 @@ gunships
 gunshop
 graybeards
 gunshot
-gunslinger
 gunslingers
 gunslinging
 gunsman
