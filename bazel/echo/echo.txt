@@ -786,7 +786,6 @@ ecphoria
 ecphoriae
 ecphorias
 ecphractic
-ecphrasis
 ecrase
 ecraseur
 ecraseurs
@@ -2345,6 +2344,7 @@ evasion
 electroceramic
 electrochemical
 electrochemically
+ecphrasis
 electrochemistry
 electrochronometer
 equison
