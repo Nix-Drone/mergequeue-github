@@ -16850,6 +16850,7 @@ dichoptic
 drawlink
 drawloom
 drawls
+dispreading
 drawn
 drawnet
 dissyllabise
@@ -17156,7 +17157,6 @@ drilling
 drillings
 drillman
 drillmaster
-dispreading
 drillmasters
 drylots
 drilvis
