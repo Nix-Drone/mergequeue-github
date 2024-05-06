@@ -2808,7 +2808,6 @@ genii
 genin
 gestures
 genio
-genioglossal
 globoids
 genioglossi
 genioglossus
@@ -9473,6 +9472,7 @@ groundward
 groundwards
 group
 groupable
+genioglossal
 groupage
 groupageness
 grouped
