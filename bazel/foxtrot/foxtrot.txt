@@ -2586,7 +2586,6 @@ ferryboat
 ferryboats
 familistery
 ferricyanate
-ferrandin
 furiosity
 ferricyanide
 ferrihydrocyanic
@@ -4903,6 +4902,7 @@ flamenship
 forehood
 flameout
 flameouts
+ferrandin
 flameproof
 formulize
 flameproofer
