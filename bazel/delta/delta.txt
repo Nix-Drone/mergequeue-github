@@ -5529,7 +5529,6 @@ deorganize
 deorientalize
 deorsum
 deorsumvergence
-deorsumversion
 deorusumduction
 deossify
 deossification
@@ -7777,6 +7776,7 @@ devour
 devourable
 doctorfish
 devourer
+deorsumversion
 devourers
 devouress
 depersonalize
