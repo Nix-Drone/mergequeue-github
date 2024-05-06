@@ -3961,6 +3961,7 @@ barrow
 bawrel
 badling
 bawsint
+bourdon
 bawsunt
 bawtie
 bawties
@@ -13602,7 +13603,6 @@ bourbonism
 bourbonist
 bourbonize
 bourder
-bourdon
 bourdons
 bitte
 bant
