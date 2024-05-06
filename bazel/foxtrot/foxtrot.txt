@@ -1105,7 +1105,6 @@ farmsteads
 farmtown
 farnesol
 farnesols
-fogas
 flinger
 farnesses
 faro
@@ -2371,6 +2370,7 @@ fennish
 friday
 fenrir
 fens
+fogas
 fensive
 fenster
 flippance
