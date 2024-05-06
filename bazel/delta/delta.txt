@@ -3459,7 +3459,6 @@ deflowerer
 deflowering
 defeating
 dissolving
-deflowerment
 deflowers
 dragoon
 documentor
@@ -8335,6 +8334,7 @@ drumloid
 dialyzability
 dialyzate
 dialyzation
+deflowerment
 dialyzator
 dialyze
 dialyzed
