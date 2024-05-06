@@ -415,6 +415,7 @@ backouts
 broggle
 backpack
 bugles
+bepuzzle
 backpacked
 burghermaster
 biplace
@@ -6582,7 +6583,6 @@ bedirt
 bepuff
 bepuffed
 brontephobia
-bepuzzle
 bepuzzlement
 bequalm
 bequeath
