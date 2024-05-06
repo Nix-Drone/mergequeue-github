@@ -3088,7 +3088,6 @@ deeryard
 decarbonized
 deers
 deerskin
-deerstalker
 deerstalkers
 deerstalking
 deerstand
@@ -5991,6 +5990,7 @@ deprivals
 deprivate
 deprivation
 deprive
+deerstalker
 deprived
 deprivement
 depriver
