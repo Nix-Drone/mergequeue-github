@@ -4192,7 +4192,6 @@ gasterosteoid
 gim
 gimbal
 gimbaled
-gimballed
 groundsheet
 groining
 guildry
@@ -5509,6 +5508,7 @@ gigartinaceae
 gliders
 gospodipoda
 guttural
+gimballed
 grando
 glides
 glidewort
