@@ -1115,7 +1115,6 @@ equipper
 edibility
 edible
 expurgatory
-edibleness
 edibles
 edictal
 edictally
@@ -1728,6 +1727,7 @@ eremurus
 eider
 ectomorphism
 eiders
+edibleness
 eidograph
 erica
 eidola
