@@ -909,7 +909,6 @@ gambist
 gambits
 gonotocont
 guillemot
-gamble
 gambler
 gamblesome
 gamblesomeness
@@ -1442,6 +1441,7 @@ garlic
 glycolylurea
 garliclike
 gutted
+gamble
 grasswards
 guitermanite
 galloner
