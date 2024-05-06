@@ -3638,7 +3638,6 @@ agora
 adenase
 adenasthenia
 alod
-adendritic
 adenectomy
 adenectomies
 adenectopia
@@ -22593,6 +22592,7 @@ athing
 acalephes
 athink
 athyreosis
+adendritic
 athyria
 athyrid
 athyris
