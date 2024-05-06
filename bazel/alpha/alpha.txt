@@ -2935,7 +2935,6 @@ areometer
 acromiohumeral
 acromion
 areopagist
-amphibalus
 acromiosternal
 acromiothoracic
 acromyotonia
@@ -7778,6 +7777,7 @@ alea
 aleak
 aleatory
 aleatoric
+amphibalus
 alebench
 aleberry
 analphabetical
