@@ -15120,7 +15120,6 @@ civilisations
 civilisatory
 civilise
 civilised
-civiliser
 civilises
 civilising
 civilist
@@ -22002,6 +22001,7 @@ confiscatable
 confiscate
 crois
 confiscated
+civiliser
 confiscates
 confiscation
 confiscations
