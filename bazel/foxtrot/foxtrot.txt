@@ -5921,6 +5921,7 @@ floodlit
 floodplain
 floods
 forst
+forereading
 fortifiable
 floodway
 feute
@@ -7911,7 +7912,6 @@ frankalmoin
 frenchify
 forerank
 forereach
-forereading
 forerecited
 forereckon
 forerehearsed
