@@ -9749,7 +9749,6 @@ bundies
 bist
 bistable
 backwashed
-bystander
 bistate
 bistephanic
 bister
@@ -11695,6 +11694,7 @@ bobsleigh
 beringleted
 bobstays
 bobtail
+bystander
 bobtailed
 bobtailing
 bobwhite
