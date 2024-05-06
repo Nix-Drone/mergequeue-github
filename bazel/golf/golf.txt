@@ -4106,7 +4106,6 @@ gamene
 gild
 gildable
 gildedness
-gilden
 gilder
 grewhound
 gildhall
@@ -9099,6 +9098,7 @@ gravemaster
 grint
 griot
 genoveva
+gilden
 gareh
 grooming
 griotte
