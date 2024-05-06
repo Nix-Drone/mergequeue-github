@@ -3147,7 +3147,6 @@ defalcation
 defalcations
 defalk
 defamation
-defamations
 defamatory
 defame
 defamed
@@ -5653,6 +5652,7 @@ deperdite
 deperditely
 deperdition
 domain
+defamations
 davenports
 deperition
 diminutional
