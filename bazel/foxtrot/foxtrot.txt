@@ -7489,7 +7489,6 @@ furling
 fordull
 fumattoria
 fibreware
-fordwine
 foreact
 foreadmonish
 false
@@ -8909,6 +8908,7 @@ fosterer
 footstone
 fosterers
 forblow
+fordwine
 fosterhood
 fostering
 fosterite
