@@ -5897,7 +5897,6 @@ catheters
 catheti
 cathetometer
 cathetometric
-cephalophorous
 cathetus
 cathetusti
 cathexes
@@ -25343,6 +25342,7 @@ cornflag
 cornflakes
 cornfloor
 cornflour
+cephalophorous
 cornflower
 cornflowers
 corngrower
