@@ -2664,6 +2664,7 @@ curvilineal
 cannstatt
 chebeck
 cannula
+caldarium
 cannulae
 cannulas
 cannulate
@@ -29105,7 +29106,6 @@ cryobiological
 cryobiologist
 criobolium
 cryocautery
-caldarium
 criocephalus
 crioceras
 circulate
