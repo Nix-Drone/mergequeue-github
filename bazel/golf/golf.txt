@@ -1278,7 +1278,6 @@ generalizable
 gruis
 gothic
 gapeseed
-gapeworm
 gapeworms
 gorgonized
 gapingly
@@ -8448,6 +8447,7 @@ gravestead
 gan
 grallatory
 graveolence
+gapeworm
 gonochoristic
 gravette
 graveward
