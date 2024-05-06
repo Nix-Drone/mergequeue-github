@@ -10585,6 +10585,7 @@ diplomate
 diplomates
 diplomatically
 diplomatique
+dreadnoughts
 diplomatism
 diplomatist
 diplomatists
@@ -16899,7 +16900,6 @@ dreadly
 dreadlocks
 dreadness
 dreadnought
-dreadnoughts
 dreads
 dream
 dreamage
