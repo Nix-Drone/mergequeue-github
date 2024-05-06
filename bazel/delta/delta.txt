@@ -4385,7 +4385,6 @@ demagnetiser
 demagnetising
 demagnetization
 deplores
-demagnetize
 demagnetized
 demagnetizes
 demagnetizing
@@ -10558,6 +10557,7 @@ diplogenesis
 doxographical
 diplogenetic
 diplogenic
+demagnetize
 documented
 diplographical
 diplohedral
