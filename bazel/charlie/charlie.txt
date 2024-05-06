@@ -7908,7 +7908,6 @@ countermission
 cesspipe
 cesspit
 cesspits
-centipede
 clamors
 cesspools
 cineraceous
@@ -29934,6 +29933,7 @@ crossweb
 crossweed
 crosswise
 crosswiseness
+centipede
 crossworder
 crosswort
 crostarie
