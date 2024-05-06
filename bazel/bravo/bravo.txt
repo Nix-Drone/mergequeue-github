@@ -4538,7 +4538,6 @@ bestuur
 become
 becomed
 becomes
-becometh
 becoming
 becomingness
 becompass
@@ -15131,6 +15130,7 @@ bryanthus
 briar
 briarberry
 buckbean
+becometh
 briard
 briards
 briarean
