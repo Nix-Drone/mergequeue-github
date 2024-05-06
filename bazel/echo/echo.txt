@@ -6218,6 +6218,7 @@ enplanes
 enquarter
 enqueue
 entered
+exairesis
 enqueued
 enquicken
 enquire
@@ -11743,7 +11744,6 @@ exaggerator
 exaggeratory
 exaggerators
 exagitate
-exairesis
 exalate
 exalbuminose
 exalbuminous
