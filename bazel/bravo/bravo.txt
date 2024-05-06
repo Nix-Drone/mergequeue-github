@@ -7212,6 +7212,7 @@ burying
 bestay
 bestayed
 bestain
+boldfaced
 bestamp
 bestand
 bestar
@@ -12077,7 +12078,6 @@ bolder
 boldest
 boldface
 bostrychoid
-boldfaced
 boldfacedly
 bridler
 boldfacedness
