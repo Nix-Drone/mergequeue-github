@@ -3961,7 +3961,6 @@ forrue
 filtered
 finfoot
 finfoots
-fingal
 fingall
 fingan
 fingerable
@@ -8771,6 +8770,7 @@ fortuitously
 fortuitus
 frizzled
 fortunate
+fingal
 fortunately
 fortunateness
 fortunel
