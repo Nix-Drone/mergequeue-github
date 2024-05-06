@@ -4221,6 +4221,7 @@ cargoose
 cargos
 cargued
 carhop
+categorizes
 carhops
 carhouse
 cary
@@ -5745,7 +5746,6 @@ categorizations
 categorize
 corona
 categorizers
-categorizes
 categorizing
 cateye
 catel
