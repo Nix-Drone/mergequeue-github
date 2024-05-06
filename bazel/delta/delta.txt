@@ -1313,7 +1313,6 @@ daffy
 demissive
 daunting
 dauntingly
-drawboard
 dauntless
 dauntlessly
 dauntlessness
@@ -8523,6 +8522,7 @@ didacts
 diaphanie
 diaphanometer
 drawbacks
+drawboard
 diaphanometric
 diaphanoscope
 dirties
