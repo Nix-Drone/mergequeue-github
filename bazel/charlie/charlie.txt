@@ -1082,7 +1082,6 @@ costiform
 calciprivic
 calypterae
 calcisponge
-calcispongiae
 chromatosphere
 calcite
 calcitestaceous
@@ -29803,6 +29802,7 @@ clumber
 cross
 crossability
 crossable
+calcispongiae
 crossarms
 calculate
 crossband
