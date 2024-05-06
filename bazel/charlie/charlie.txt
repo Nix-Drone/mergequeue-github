@@ -5815,7 +5815,6 @@ creeled
 catfish
 catfoot
 catfooted
-catgut
 catguts
 cath
 catha
@@ -19695,6 +19694,7 @@ combinedly
 cations
 combinedness
 combinement
+catgut
 classifiers
 cloudburst
 combiner
