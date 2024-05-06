@@ -9253,7 +9253,6 @@ chastiment
 chastisable
 chastise
 chastised
-chastiser
 chastisers
 clapperboard
 composture
@@ -22035,6 +22034,7 @@ conflation
 canellaceae
 cajon
 conflexure
+chastiser
 conflict
 chubsucker
 conflicted
