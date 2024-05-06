@@ -5639,7 +5639,6 @@ enfranchisements
 extinct
 enfranchiser
 enallage
-enfranchises
 enhydros
 endued
 extremity
@@ -13233,6 +13232,7 @@ explored
 explorement
 entailers
 explorer
+enfranchises
 explorers
 ethicalities
 explores
