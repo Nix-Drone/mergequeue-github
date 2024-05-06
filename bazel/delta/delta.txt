@@ -7822,7 +7822,6 @@ dewberries
 dewclaw
 dewclawed
 dewclaws
-dewcup
 dewdamp
 dewdrop
 dewdropper
@@ -14591,6 +14590,7 @@ doats
 dob
 dobby
 dobbing
+dewcup
 dobchick
 dobe
 doberman
