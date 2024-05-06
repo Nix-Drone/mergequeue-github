@@ -3602,7 +3602,6 @@ degasify
 disguise
 definition
 degass
-degassed
 degassing
 degauss
 degaussing
@@ -3986,6 +3985,7 @@ dominatingly
 delassation
 delassement
 delated
+degassed
 delater
 delates
 delating
