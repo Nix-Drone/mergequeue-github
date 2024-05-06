@@ -6969,7 +6969,6 @@ entosphenal
 entosphere
 entosterna
 entosternal
-entosternum
 entosthoblast
 entothorax
 entotympanic
@@ -13542,6 +13541,7 @@ extending
 extends
 enworthy
 extensibility
+entosternum
 extensible
 extensibleness
 extensile
