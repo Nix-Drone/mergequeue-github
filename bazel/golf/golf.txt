@@ -6279,6 +6279,7 @@ gnatproof
 glyptographic
 gnats
 gnatsnap
+golee
 gonococcoid
 gnatter
 gnatworm
@@ -9111,7 +9112,6 @@ gripers
 gripgrass
 griphite
 gooral
-golee
 gentisein
 gryphon
 gryphons
