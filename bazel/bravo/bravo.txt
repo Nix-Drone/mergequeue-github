@@ -5637,7 +5637,6 @@ bindweeds
 blarina
 belate
 belated
-belatedness
 belating
 belaud
 belauded
@@ -14229,6 +14228,7 @@ bullpates
 bragging
 beerishly
 bentincks
+belatedness
 braggingly
 biporous
 braggish
