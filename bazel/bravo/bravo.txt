@@ -4028,6 +4028,7 @@ bnf
 beachy
 beachier
 beaching
+buss
 beachless
 beachmaster
 beachside
@@ -18070,7 +18071,6 @@ busks
 busload
 busman
 busmen
-buss
 benda
 bussed
 busser
