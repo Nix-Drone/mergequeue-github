@@ -2396,7 +2396,6 @@ gekkonoid
 greedy
 groat
 gel
-gelable
 gelidiaceae
 guideship
 gelandelaufer
@@ -2439,6 +2438,7 @@ genom
 gelatinity
 gelatinizability
 gelatinizable
+gelable
 gelatinization
 gruppetto
 gelatinized
