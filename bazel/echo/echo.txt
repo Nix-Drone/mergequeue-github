@@ -2390,7 +2390,6 @@ extemporaneousness
 electrification
 electrodeposition
 electrodepositor
-escalation
 electrodes
 electrodesiccation
 electrodiagnosis
@@ -6675,6 +6674,7 @@ enterolysis
 eddies
 ectomorphy
 enterolith
+escalation
 eucleidae
 enuring
 enterology
