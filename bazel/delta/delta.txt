@@ -5097,7 +5097,6 @@ denaturization
 denaturize
 denaturizer
 denaturizing
-denazify
 denazifies
 denazifying
 dendra
@@ -12963,6 +12962,7 @@ dispel
 dispellable
 danubian
 dispelled
+denazify
 diplomyelia
 dispeller
 dorsimedian
