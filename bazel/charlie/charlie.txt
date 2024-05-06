@@ -11892,7 +11892,6 @@ chordamesoderm
 chordamesodermal
 chordamesodermic
 chordata
-chordate
 chordates
 chorded
 chordee
@@ -25711,6 +25710,7 @@ corrigiolaceae
 corrival
 corrivality
 corrivalry
+chordate
 corrivals
 cultigens
 corrivalship
