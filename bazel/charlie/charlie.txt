@@ -7538,6 +7538,7 @@ cercomonadidae
 cercopid
 continent
 cercopidae
+collocutor
 cercopithecid
 coenenchymata
 cercopithecidae
@@ -19103,7 +19104,6 @@ collocatory
 collochemistry
 collochromate
 collocution
-collocutor
 collocutory
 collodion
 collodionization
