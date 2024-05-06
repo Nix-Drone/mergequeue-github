@@ -4756,7 +4756,6 @@ glossae
 gyro
 gyroceran
 gallery
-guildsman
 golliwogg
 gorkhali
 gyrocompasses
@@ -7287,6 +7286,7 @@ gyrostatically
 guze
 gentrification
 genys
+guildsman
 gospelmonger
 gospels
 gospelwards
