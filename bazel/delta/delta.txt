@@ -5426,6 +5426,7 @@ dentolingual
 dentololabial
 dentonasal
 dielytra
+dewdamp
 dentosurgical
 disrate
 dents
@@ -7823,7 +7824,6 @@ dewclaw
 dewclawed
 dewclaws
 dewcup
-dewdamp
 dewdrop
 dewdropper
 disklike
