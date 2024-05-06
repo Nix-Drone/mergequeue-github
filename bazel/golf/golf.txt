@@ -8097,7 +8097,6 @@ granuloadipose
 granuloblast
 granuloblastic
 gammers
-granulocyte
 granulocytic
 geom
 granulocytopoiesis
@@ -10504,6 +10503,7 @@ gunk
 gunkholed
 gurniad
 grandiosely
+granulocyte
 grateman
 grommet
 gunks
