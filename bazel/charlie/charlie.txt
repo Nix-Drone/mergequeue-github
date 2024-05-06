@@ -8440,7 +8440,6 @@ chamaecrista
 chamaeleo
 chamaeleon
 chamaeleontidae
-chamaelirium
 chamaenerion
 chamaepericlymenum
 chamaephyte
@@ -21925,6 +21924,7 @@ confidence
 confidency
 confident
 cynoscion
+chamaelirium
 confidente
 confidential
 confidentially
