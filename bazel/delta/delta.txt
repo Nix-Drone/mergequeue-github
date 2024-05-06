@@ -11222,7 +11222,6 @@ disbursals
 disburse
 disbursements
 disburser
-disburses
 divinistre
 definability
 disbursing
@@ -15835,6 +15834,7 @@ dorsolumbar
 destinations
 dorsomedial
 dorsomedian
+disburses
 dorsonasal
 dorsonuchal
 dorsopleural
