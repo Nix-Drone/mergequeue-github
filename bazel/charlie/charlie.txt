@@ -16719,7 +16719,6 @@ clothlike
 clothmaker
 catharpin
 cloths
-clothworker
 clots
 clottage
 clotted
@@ -22934,6 +22933,7 @@ consistorial
 camellus
 consistorian
 consistories
+clothworker
 consition
 cauponize
 consitutional
