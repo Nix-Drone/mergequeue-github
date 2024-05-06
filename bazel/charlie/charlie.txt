@@ -14188,7 +14188,6 @@ circuit
 circuitable
 circuital
 circuited
-circuiteer
 circuiter
 clyer
 continues
@@ -27474,6 +27473,7 @@ counterindoctrination
 coverlets
 chemins
 consumation
+circuiteer
 coverlid
 coverlids
 covers
