@@ -13657,7 +13657,6 @@ cymballike
 cob
 cymbalo
 cimbalom
-cymbalom
 cimbaloms
 cymbalon
 cymbel
@@ -28149,6 +28148,7 @@ crannying
 compiler
 crannock
 crannoge
+cymbalom
 conscribe
 crannoger
 crannogs
