@@ -3187,7 +3187,6 @@ delphacid
 defeat
 defeated
 directs
-drusean
 defeatee
 drowsihood
 defeatism
@@ -11242,6 +11241,7 @@ drawstring
 dactylologies
 discanonize
 dentalizing
+drusean
 denudates
 discanted
 discanter
