@@ -5908,7 +5908,6 @@ flooder
 flooders
 floodgate
 floodgates
-frontlessly
 floody
 flunkyhood
 flooding
@@ -7555,6 +7554,7 @@ forecabin
 fleetings
 forecaddie
 forecast
+frontlessly
 forecaster
 fiercest
 forecasters
