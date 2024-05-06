@@ -27478,7 +27478,6 @@ coverlid
 coverlids
 covers
 chymosins
-caller
 coversed
 coverside
 coversine
@@ -28145,6 +28144,7 @@ cranny
 crannia
 crannied
 crannies
+caller
 crannying
 compiler
 crannock
