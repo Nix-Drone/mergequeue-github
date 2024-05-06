@@ -1593,7 +1593,6 @@ ballets
 ballfield
 ballflower
 ballgame
-ballgames
 ballgowns
 ballhausplatz
 ballhawk
@@ -9180,6 +9179,7 @@ biosystematic
 biosystematics
 biosystematist
 bradylexia
+ballgames
 biosocial
 biosociology
 beavered
