@@ -10143,6 +10143,7 @@ amdahl
 amdt
 ame
 anchorhold
+archbanc
 ameba
 amebas
 amebean
@@ -18771,7 +18772,6 @@ archantiquary
 archapostate
 archarchitect
 archartist
-archbanc
 archbancs
 archbeacon
 archbeadle
