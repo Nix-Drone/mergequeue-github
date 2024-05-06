@@ -17263,7 +17263,6 @@ coasserter
 coassessor
 caravelle
 coassignee
-coassist
 coassistant
 culpas
 coassisting
@@ -20736,6 +20735,7 @@ compliers
 campodea
 complying
 compliment
+coassist
 complimentable
 complimental
 complimentally
