@@ -627,7 +627,6 @@ falsies
 forelimb
 falsifiability
 fannon
-falsifiable
 falsificate
 falsification
 falsifications
@@ -10046,6 +10045,7 @@ frightening
 frighteningness
 frightens
 fibrotic
+falsifiable
 frighter
 frightfully
 fourierian
