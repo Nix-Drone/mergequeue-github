@@ -6476,7 +6476,6 @@ benzole
 benzoline
 benzolize
 benzols
-benzonaphthol
 benzonitrile
 benzoperoxide
 benzophenanthrazine
@@ -12859,6 +12858,7 @@ bootlick
 bootlicker
 bixin
 bootlicking
+benzonaphthol
 betsy
 bootloader
 bootmaker
