@@ -7712,7 +7712,6 @@ cerithioid
 cerithium
 cerium
 ceriums
-cermet
 cermets
 commissar
 cern
@@ -13304,6 +13303,7 @@ cyclo
 coulometric
 cycloacetylene
 cycloaliphatic
+cermet
 cycloalkane
 cyclobothra
 cyclobutane
