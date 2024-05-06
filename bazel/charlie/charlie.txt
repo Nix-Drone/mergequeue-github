@@ -25655,7 +25655,6 @@ corregidores
 corregimiento
 corregimientos
 correl
-correlatable
 correlated
 correlates
 correlations
@@ -31709,6 +31708,7 @@ cusser
 cusses
 castilian
 cussing
+correlatable
 cussos
 cusswords
 cust
