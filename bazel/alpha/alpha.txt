@@ -3424,7 +3424,6 @@ adapa
 adapid
 adapt
 adaptability
-adaptable
 adaptableness
 adaptably
 adaptationally
@@ -23586,6 +23585,7 @@ anticreation
 auriculovertical
 auride
 auriferous
+adaptable
 appreciational
 aurifex
 aurify
