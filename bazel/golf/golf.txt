@@ -4106,7 +4106,6 @@ gamene
 gild
 gildable
 gildedness
-gilden
 gilder
 grewhound
 gildhall
@@ -8753,6 +8752,7 @@ greffe
 gonostyle
 greffier
 greffotome
+gilden
 greg
 gallomania
 gregale
