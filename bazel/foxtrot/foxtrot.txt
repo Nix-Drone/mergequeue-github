@@ -4312,6 +4312,7 @@ flammability
 facia
 furlongs
 first
+flareboard
 fylker
 forbearer
 freestone
@@ -5023,7 +5024,6 @@ flareback
 ferments
 firnification
 fragmentitious
-flareboard
 flared
 frithborh
 flareless
