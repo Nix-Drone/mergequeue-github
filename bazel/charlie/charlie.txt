@@ -14913,7 +14913,6 @@ cytogenies
 cytogenous
 cytoglobulin
 cytohyaloplasm
-cytoid
 citoyen
 citoyenne
 citoyens
@@ -25563,6 +25562,7 @@ corporas
 corporate
 corporately
 corporateness
+cytoid
 corporation
 corporational
 corporationer
