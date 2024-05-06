@@ -764,7 +764,6 @@ barrels
 boraciferous
 badgemen
 badger
-badgerbrush
 badgered
 badgerer
 badgering
@@ -5624,6 +5623,7 @@ belam
 belamcanda
 belamy
 belamour
+badgerbrush
 belanda
 belander
 belap
