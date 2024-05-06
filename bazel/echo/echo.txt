@@ -1212,7 +1212,6 @@ edriasteroidea
 edrioasteroid
 edrioasteroidea
 elixed
-edriophthalmatous
 edriophthalmian
 eds
 educ
@@ -8723,6 +8722,7 @@ equipment
 equipments
 equipoised
 equipoising
+edriophthalmatous
 equipollence
 equipollency
 evasively
