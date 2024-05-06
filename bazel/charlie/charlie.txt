@@ -11776,7 +11776,6 @@ chondromyxoma
 chondromyxosarcoma
 chondromucoid
 chondropharyngeal
-chondropharyngeus
 chondrophyte
 chondrophore
 chondroplast
@@ -26851,6 +26850,7 @@ counterindented
 counterindicate
 counterindication
 countermining
+chondropharyngeus
 counterinfluence
 countering
 counterinsult
