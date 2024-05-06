@@ -5186,7 +5186,6 @@ banqueteering
 befretted
 befretting
 befriend
-befriended
 befriender
 befriending
 barns
@@ -17557,6 +17556,7 @@ burdenable
 bulking
 burdened
 brawlers
+befriended
 burdener
 burdeners
 burdening
