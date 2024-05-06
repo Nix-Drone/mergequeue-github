@@ -1483,7 +1483,6 @@ deactivates
 discontinuing
 dicranoid
 dehydromucic
-deactivation
 deactivations
 deactivator
 deactivators
@@ -3293,6 +3292,7 @@ deferrals
 deferred
 deferrer
 deferrers
+deactivation
 deferrize
 deferrized
 deferrizing
