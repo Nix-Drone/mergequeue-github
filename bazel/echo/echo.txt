@@ -86,7 +86,6 @@ earmuffs
 earn
 earnable
 earned
-earner
 earnest
 earnestful
 earnestly
@@ -3385,6 +3384,7 @@ embase
 embassadress
 embassy
 embassiate
+earner
 embassies
 embastardize
 evangelizing
