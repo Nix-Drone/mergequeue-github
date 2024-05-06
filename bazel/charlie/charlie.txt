@@ -427,7 +427,6 @@ cacti
 cactiform
 cactoid
 cactus
-civilisable
 cactuses
 cactuslike
 cacumen
@@ -20921,6 +20920,7 @@ creeky
 comprobation
 comproduce
 compromisable
+civilisable
 compromise
 comminister
 clubber
