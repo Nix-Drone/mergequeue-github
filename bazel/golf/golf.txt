@@ -2210,7 +2210,6 @@ gazeless
 gazella
 gazellelike
 gazelline
-gazement
 gazer
 gazers
 gazettal
@@ -7972,6 +7971,7 @@ grandsonship
 grandstand
 grandstanded
 grandstander
+gazement
 grandstanding
 grandstands
 grandtotal
