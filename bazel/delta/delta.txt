@@ -999,6 +999,7 @@ diddles
 dicyanide
 darkeners
 darkening
+deferred
 darkens
 darker
 diploconical
@@ -3290,7 +3291,6 @@ deferments
 deferrable
 deferral
 deferrals
-deferred
 deferrer
 deferrers
 deferrize
