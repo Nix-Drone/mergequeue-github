@@ -4905,7 +4905,6 @@ flameout
 flameouts
 flameproof
 formulize
-flameproofer
 flintlocks
 finfishes
 flamer
@@ -6933,6 +6932,7 @@ folks
 forlana
 foreyear
 folksay
+flameproofer
 folksey
 folksy
 folksiest
