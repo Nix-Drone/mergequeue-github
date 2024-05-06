@@ -13472,6 +13472,7 @@ dissectible
 dropling
 durgen
 dissection
+denned
 dissections
 disfrequent
 dissectors
@@ -15998,7 +15999,6 @@ doubleganger
 doublegear
 doublehanded
 doublehandedly
-denned
 doublehatching
 doubleheader
 doubleheaders
