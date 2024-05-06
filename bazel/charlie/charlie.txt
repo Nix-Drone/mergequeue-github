@@ -7194,7 +7194,6 @@ centring
 centrings
 caped
 centriole
-centripetal
 centripetence
 centripetency
 centriscid
@@ -16442,6 +16441,7 @@ colipuncture
 chervil
 cloakage
 cloaked
+centripetal
 cloakedly
 cloaking
 cloakless
