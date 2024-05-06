@@ -5113,7 +5113,6 @@ floorwalker
 flavoprotein
 fatigued
 fissionability
-flatly
 flatling
 flatlings
 flatlong
@@ -6442,6 +6441,7 @@ fluorimetric
 fluorinated
 fluorinating
 fluorinations
+flatly
 fluorindin
 fluorine
 frippet
