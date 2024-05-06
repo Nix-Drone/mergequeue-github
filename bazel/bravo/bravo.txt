@@ -2961,7 +2961,6 @@ blind
 barrelhead
 barrelhouse
 barrelhouses
-besmearer
 barreling
 broad
 barrelled
@@ -7121,6 +7120,7 @@ besottedness
 besotter
 besotting
 besottingly
+besmearer
 bemusedly
 besour
 besouth
