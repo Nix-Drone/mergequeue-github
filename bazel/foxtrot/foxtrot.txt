@@ -4043,7 +4043,6 @@ finishable
 finisher
 finishers
 finishes
-finishing
 finitary
 finite
 finiteness
@@ -9740,6 +9739,7 @@ figment
 flotations
 freers
 frees
+finishing
 foliosity
 freesheet
 freesias
