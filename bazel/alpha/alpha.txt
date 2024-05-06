@@ -3550,6 +3550,7 @@ addlins
 addn
 addnl
 addoom
+arabians
 abracadabra
 addossed
 addr
@@ -18356,7 +18357,6 @@ arabia
 alsoon
 arabian
 arabianize
-arabians
 andarko
 arabic
 amity
