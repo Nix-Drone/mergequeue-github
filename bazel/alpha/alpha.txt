@@ -1295,7 +1295,6 @@ acanthodidae
 acanthodii
 acanthodini
 acanthoid
-acantholimon
 acanthology
 acanthomas
 acanthomeridae
@@ -16868,6 +16867,7 @@ accidentals
 aphetic
 aphetically
 aphanitic
+acantholimon
 aphetize
 aphicidal
 aphicide
