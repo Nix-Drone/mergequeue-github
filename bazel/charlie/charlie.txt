@@ -9583,7 +9583,6 @@ checkweigher
 checkweighman
 checkweighmen
 checkwork
-checkwriter
 cheddar
 commentating
 cheddaring
@@ -19743,6 +19742,7 @@ catapulting
 comdg
 comdia
 comdr
+checkwriter
 comdt
 come
 comeatable
