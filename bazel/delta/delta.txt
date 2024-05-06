@@ -5687,7 +5687,6 @@ dephlogisticate
 dess
 dephlogisticated
 dephlogistication
-dephosphorization
 dephosphorize
 depickle
 depict
@@ -12299,6 +12298,7 @@ disheartenedly
 disheartener
 disheartening
 dishearteningly
+dephosphorization
 disheartenment
 disnaturing
 disheaven
