@@ -5427,6 +5427,7 @@ dentololabial
 dentonasal
 dielytra
 dentosurgical
+diffusion
 disrate
 dents
 dissipatedness
@@ -9375,7 +9376,6 @@ diffusibleness
 diffusimeter
 diffusing
 diffusiometer
-diffusion
 diffusional
 diffusionism
 diffusionist
