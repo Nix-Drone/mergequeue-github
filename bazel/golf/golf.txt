@@ -2203,7 +2203,6 @@ gaze
 gazebo
 gazeboes
 gazebos
-gazed
 galla
 gazeful
 gazeless
@@ -5616,6 +5615,7 @@ glissette
 glycaemia
 glist
 glisten
+gazed
 geoff
 gulpiest
 glistened
