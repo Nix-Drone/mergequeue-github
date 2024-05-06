@@ -7422,7 +7422,6 @@ forceless
 forcelessness
 forcelet
 foglietto
-futhark
 fallacious
 forcement
 forcene
@@ -8527,6 +8526,7 @@ formulates
 formulating
 formulation
 forgainst
+futhark
 formulations
 formulator
 formulatory
