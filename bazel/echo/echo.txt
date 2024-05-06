@@ -2481,7 +2481,6 @@ electrolysis
 electrolyte
 electrolithotrity
 epitomisation
-exoskeleton
 electrolytic
 electrolytically
 electrolyze
@@ -8714,6 +8713,7 @@ equipedal
 electrofused
 equipede
 equipendent
+exoskeleton
 ephelcystic
 easting
 equiperiodic
