@@ -2583,6 +2583,7 @@ decodes
 decoding
 decodon
 decoherence
+diffusion
 dissightly
 draffy
 dairymaid
@@ -9375,7 +9376,6 @@ diffusibleness
 diffusimeter
 diffusing
 diffusiometer
-diffusion
 diffusional
 diffusionism
 diffusionist
