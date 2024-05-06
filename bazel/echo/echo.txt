@@ -198,7 +198,6 @@ electrize
 erythritic
 earthslide
 earthsmoke
-earthtongue
 earthwall
 earthwork
 earthworks
@@ -9624,6 +9623,7 @@ escuela
 enslaved
 esculapian
 eyehole
+earthtongue
 ensaffron
 esculent
 esculetin
