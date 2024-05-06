@@ -9153,7 +9153,6 @@ die
 delaminating
 dye
 desoxycinchonine
-dyeability
 dyeable
 ditriglyph
 dieb
@@ -18148,6 +18147,7 @@ dumple
 dandyize
 dumpled
 dumpling
+dyeability
 dumplings
 deseret
 dumpoke
