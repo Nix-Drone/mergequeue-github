@@ -199,7 +199,6 @@ factordom
 factoress
 flateria
 factory
-factorial
 factorially
 frizer
 factorials
@@ -11518,6 +11517,7 @@ furtherance
 freelancing
 furtherer
 floodlet
+factorial
 fairleader
 froggery
 furtherly

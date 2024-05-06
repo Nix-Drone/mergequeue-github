@@ -6956,7 +6956,6 @@ airspaces
 ancience
 addled
 apostolic
-airspeed
 airspeeds
 airstream
 akinetic
@@ -14100,6 +14099,7 @@ antecedental
 antecedently
 antecedes
 anteceding
+airspeed
 antispermotoxin
 antecessor
 antechamber
