@@ -1493,6 +1493,7 @@ deadcenter
 deeryards
 deadeye
 deaden
+defogs
 deadened
 deadener
 deadeners
@@ -3484,7 +3485,6 @@ didymus
 disyllable
 defoggers
 defogging
-defogs
 defoil
 daikering
 dawish
