@@ -228,7 +228,6 @@ abbreviates
 abbreviating
 abbreviation
 ascebc
-abbreviations
 abbreviator
 abbreviators
 abbreviature
@@ -9545,6 +9544,7 @@ aluco
 aluconinae
 aludels
 ambier
+abbreviations
 aludra
 apollinian
 alula
