@@ -24140,7 +24140,6 @@ conveth
 convex
 convexedly
 convexedness
-convexes
 convexity
 convexities
 convexly
@@ -25499,6 +25498,7 @@ coronels
 coronene
 coronership
 coroneted
+convexes
 corvets
 coronets
 coronetted
