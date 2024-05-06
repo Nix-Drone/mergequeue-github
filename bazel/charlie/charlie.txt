@@ -1971,7 +1971,6 @@ campagus
 campaign
 campaigner
 campaigners
-campaigning
 campaigns
 campana
 campane
@@ -22264,6 +22263,7 @@ conglomerator
 cabrestas
 conglomeritic
 conglutin
+campaigning
 conglutinant
 conglutinate
 conglutinative
