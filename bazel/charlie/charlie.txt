@@ -14390,7 +14390,6 @@ circumocular
 circumoesophagal
 circumpacific
 circumpallial
-circumparallelogram
 circumpentagon
 convexed
 circumplanetary
@@ -21807,6 +21806,7 @@ confabular
 confabulate
 confabulated
 confabulates
+circumparallelogram
 confabulating
 confabulations
 confabulator
