@@ -6099,7 +6099,6 @@ caucus
 caucused
 caucuses
 caucusing
-caucusses
 caucussing
 cauda
 caudad
@@ -27669,6 +27668,7 @@ cowtail
 cowtown
 cowweed
 cowwheat
+caucusses
 cox
 coxa
 cupronickel
