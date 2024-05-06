@@ -3079,7 +3079,6 @@ geoform
 gillnet
 geogen
 geogenesis
-gyropilot
 geogenetic
 geogeny
 geogenic
@@ -6242,6 +6241,7 @@ gunyah
 graininess
 gnathites
 garuda
+gyropilot
 gynaecomasty
 gnathitis
 grandfatherless
