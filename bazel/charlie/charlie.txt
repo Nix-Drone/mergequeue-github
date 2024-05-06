@@ -1188,7 +1188,6 @@ calendered
 curvilinearly
 calendering
 calenders
-calendric
 calendrical
 calendula
 calendulas
@@ -14662,6 +14661,7 @@ cysticercosis
 cysticle
 cysticolous
 cystid
+calendric
 cystidea
 cystidia
 cystidium
