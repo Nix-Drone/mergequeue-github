@@ -15868,7 +15868,6 @@ clearstarcher
 clearstory
 clearstoried
 clearstories
-clearwater
 clearweed
 cleat
 cleated
@@ -31088,6 +31087,7 @@ cupbearers
 cupboard
 cupcake
 cupcakes
+clearwater
 cupel
 cupeled
 cupelers
