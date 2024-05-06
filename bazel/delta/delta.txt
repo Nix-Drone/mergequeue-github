@@ -9383,6 +9383,7 @@ diffusions
 diffusive
 diffusor
 diffusors
+duodial
 difluence
 disubstitution
 difluoride
@@ -18337,7 +18338,6 @@ duodenostomy
 disrelated
 duodenum
 demioctagonal
-duodial
 duodiodepentode
 duodrama
 divulgers
