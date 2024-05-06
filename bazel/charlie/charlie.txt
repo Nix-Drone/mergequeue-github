@@ -4818,7 +4818,6 @@ carrs
 carrus
 cars
 cheyennes
-carse
 carses
 corial
 covillager
@@ -9567,6 +9566,7 @@ checkrooms
 checkrope
 checkrow
 checkrower
+carse
 checkrowing
 consummatively
 checkrows
