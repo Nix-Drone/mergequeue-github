@@ -2663,7 +2663,6 @@ futilize
 ferrule
 flowerbed
 ferruled
-ferruler
 ferrules
 fences
 ferrum
@@ -11503,6 +11502,7 @@ furfurylidene
 fortitudes
 furrowers
 furrowy
+ferruler
 furrowing
 furrowless
 furrowlike
