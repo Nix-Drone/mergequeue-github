@@ -4475,6 +4475,7 @@ fissura
 fissuration
 fungite
 finesse
+flowages
 frawn
 fissured
 fissurella
@@ -8874,7 +8875,6 @@ fossildom
 fossiliferous
 fossilise
 fossilised
-flowages
 frameableness
 fossilism
 fossilist
