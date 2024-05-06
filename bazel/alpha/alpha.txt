@@ -5202,7 +5202,6 @@ aetolian
 aetomorphae
 aetosaur
 aetosaurian
-aetosaurus
 aettekees
 akov
 aeviternal
@@ -25163,6 +25162,7 @@ axletrees
 axmaker
 axmaking
 axman
+aetosaurus
 axmanship
 axmaster
 axminster
