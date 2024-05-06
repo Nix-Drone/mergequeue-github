@@ -2699,7 +2699,6 @@ acquiesence
 acquiet
 acquirability
 acquirable
-antares
 acquire
 acquired
 acquirement
@@ -8368,6 +8367,7 @@ alive
 aliveness
 alives
 aeolodicon
+antares
 alix
 alizarate
 alizari
