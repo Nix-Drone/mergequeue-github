@@ -2455,6 +2455,7 @@ betatter
 barcaroles
 becut
 barcarolle
+bicolour
 barcas
 barcella
 bumblebees
@@ -8102,7 +8103,6 @@ bicolored
 bleakish
 bicolorous
 bicolors
-bicolour
 bicoloured
 bicolourous
 boutell
