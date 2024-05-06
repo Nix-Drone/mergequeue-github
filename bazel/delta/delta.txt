@@ -5422,7 +5422,6 @@ dentists
 dentition
 dilating
 dentolabial
-dentolingual
 dentololabial
 dentonasal
 dielytra
@@ -16226,6 +16225,7 @@ dowsets
 disworship
 dowiness
 drawnness
+dentolingual
 dowing
 dowitch
 dissimulators
