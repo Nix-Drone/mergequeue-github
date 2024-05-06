@@ -55,7 +55,6 @@ facebar
 facebow
 facecloth
 firestone
-faced
 foreladies
 faceharden
 faceless
@@ -1954,6 +1953,7 @@ federational
 federationist
 federative
 frazil
+faced
 federator
 filagree
 frontiersman
