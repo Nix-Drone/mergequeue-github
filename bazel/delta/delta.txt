@@ -2575,7 +2575,6 @@ disarrest
 decoctive
 decocts
 decoctum
-decodable
 decode
 decoded
 decoders
@@ -8502,6 +8501,7 @@ diapauses
 dispatching
 diapausing
 diapedeses
+decodable
 diapedesis
 defibrillatory
 diapedetic
