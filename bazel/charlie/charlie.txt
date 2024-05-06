@@ -11175,7 +11175,6 @@ chlamydozoa
 chlamydozoan
 chlamyphore
 chlamyphorus
-chlamys
 chlamyses
 chleuh
 chloanthite
@@ -25343,6 +25342,7 @@ cornflag
 cornflakes
 cornfloor
 cornflour
+chlamys
 cornflower
 cornflowers
 corngrower
