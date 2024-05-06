@@ -3104,7 +3104,6 @@ deescalate
 deescalated
 diacritics
 diphtheriaphor
-deescalation
 deescalations
 deeses
 deesis
@@ -12563,6 +12562,7 @@ disjointly
 disjointness
 disjoints
 disjointure
+deescalation
 disjudication
 disjunctions
 disjunctive
