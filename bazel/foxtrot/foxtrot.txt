@@ -4450,7 +4450,6 @@ fissionable
 fissioned
 frays
 fissions
-fissipalmation
 floorboards
 fissiparism
 fauces
@@ -8844,6 +8843,7 @@ flunks
 fole
 flabbier
 flaxes
+fissipalmation
 female
 freighting
 fossane
