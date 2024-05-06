@@ -3974,7 +3974,6 @@ gigacycle
 gigadoid
 gigahertz
 gigahertzes
-gigaherz
 gigolos
 gigant
 gigantean
@@ -4306,6 +4305,7 @@ grippingness
 gymnospermism
 gymnospermous
 gyroma
+gigaherz
 gymnosporangium
 gymnospore
 gymnosporous
