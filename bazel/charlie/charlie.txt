@@ -7712,6 +7712,7 @@ cerithioid
 cerithium
 cerium
 ceriums
+codesigns
 cermet
 cermets
 commissar
@@ -17763,7 +17764,6 @@ coders
 codes
 codescendant
 codesign
-codesigns
 codespairer
 codetermination
 codetermine
