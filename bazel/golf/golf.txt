@@ -2877,7 +2877,6 @@ genoms
 genonema
 gph
 genos
-gerrymandered
 genospecies
 genotype
 gobinism
@@ -10826,6 +10825,7 @@ goatland
 guz
 galium
 gymnodontes
+gerrymandered
 gastroenteroptosis
 goldlike
 guzmania
