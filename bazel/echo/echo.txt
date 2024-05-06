@@ -3671,7 +3671,6 @@ everse
 embryoism
 epithelioglandular
 embryology
-embryologic
 embryological
 embryologically
 eclampsia
@@ -11610,6 +11609,7 @@ evocation
 evocations
 evocative
 encodement
+embryologic
 eremiteship
 epitoxoid
 evocativeness
