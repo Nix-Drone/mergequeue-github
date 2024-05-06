@@ -5116,6 +5116,7 @@ cashbook
 cashbooks
 cashbox
 cashboxes
+cofighter
 casheen
 cashel
 casher
@@ -18216,7 +18217,6 @@ casts
 coffret
 coffrets
 coffs
-cofighter
 cofinal
 coforeknown
 coformulator
