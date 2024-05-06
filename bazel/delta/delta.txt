@@ -2577,7 +2577,6 @@ decocts
 decoctum
 decodable
 decode
-decoded
 decoders
 decodes
 decoding
@@ -4143,6 +4142,7 @@ decimalizing
 delim
 delimed
 delimes
+decoded
 deliming
 delimit
 delimitate
