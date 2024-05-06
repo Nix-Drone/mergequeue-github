@@ -3632,7 +3632,6 @@ bathyseism
 bathysmal
 bomarea
 bathysophic
-bathysophical
 bathysphere
 bathyspheres
 bathythermograph
@@ -12123,6 +12122,7 @@ baklawas
 bolide
 bolides
 bolimba
+bathysophical
 bolivar
 bolivares
 bolivia
