@@ -7808,7 +7808,6 @@ fullface
 foremartyr
 foremastmen
 foremasts
-foremean
 fasciately
 foremeant
 foremen
@@ -11100,6 +11099,7 @@ fulminations
 funambulant
 funambulate
 funambulated
+foremean
 funambulating
 fawningness
 funambulation
