@@ -15844,7 +15844,6 @@ dorsoposterior
 dorsoradial
 dorsoscapular
 dorsosternal
-dorsothoracic
 digitize
 diablotin
 dismalize
@@ -16343,6 +16342,7 @@ downrightness
 downriver
 downrush
 downset
+dorsothoracic
 downshare
 downshift
 downshifted
