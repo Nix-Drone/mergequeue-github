@@ -35,7 +35,6 @@ fabricator
 fabricators
 fabricature
 fabrics
-filters
 fallacies
 fabrique
 fabronia
@@ -3883,6 +3882,7 @@ finagle
 finagler
 finaglers
 fanatical
+filters
 fairstead
 final
 finale
