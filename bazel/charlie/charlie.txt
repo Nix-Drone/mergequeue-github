@@ -3010,7 +3010,6 @@ cape
 capeadores
 capel
 capelan
-capelans
 capelet
 capelin
 capeline
@@ -17814,6 +17813,7 @@ codirect
 codirecting
 codirector
 commonish
+capelans
 codirects
 codiscoverer
 codisjunct
