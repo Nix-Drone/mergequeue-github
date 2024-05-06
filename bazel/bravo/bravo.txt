@@ -662,7 +662,6 @@ bacteriophage
 bacteriophages
 bacteriophagy
 bacteriophagic
-bacteriophagous
 bear
 bacteriopsonin
 bellwethers
@@ -6865,6 +6864,7 @@ blackbirds
 berserks
 bersiamite
 bersil
+bacteriophagous
 berskin
 berstel
 berhyme
