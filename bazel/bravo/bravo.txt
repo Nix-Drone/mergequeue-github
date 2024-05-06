@@ -4031,7 +4031,6 @@ beaching
 beachless
 beachmaster
 beachside
-biosynthesis
 beachward
 beachwear
 beacon
@@ -8633,6 +8632,7 @@ bozos
 billa
 bradycardia
 brusquer
+biosynthesis
 billable
 billabong
 billage
