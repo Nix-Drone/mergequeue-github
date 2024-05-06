@@ -3011,7 +3011,6 @@ barrico
 barricoes
 barrier
 barriers
-barriguda
 barrigudos
 broadaxe
 barrikin
@@ -16530,6 +16529,7 @@ brawny
 bubbletop
 bubbletops
 bubbly
+barriguda
 bubblier
 bubbliness
 bubbling
