@@ -1663,7 +1663,6 @@ amphiphloic
 accordaturas
 accordature
 accorded
-accorder
 accorders
 accordingly
 accordion
@@ -16317,6 +16316,7 @@ antirationalist
 antistrophe
 antistrophic
 antistrophically
+accorder
 antistrophize
 antispiritualist
 antistrophon
