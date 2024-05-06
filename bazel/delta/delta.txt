@@ -3289,7 +3289,6 @@ deferment
 deferments
 deferrable
 deferral
-deferrals
 deferred
 deferrer
 deferrers
@@ -5048,6 +5047,7 @@ driftpin
 diduce
 den
 denay
+deferrals
 dename
 denar
 denarcotization
