@@ -3077,6 +3077,7 @@ gekko
 geomance
 geoform
 gillnet
+glaver
 geogen
 geogenesis
 gyropilot
@@ -5267,7 +5268,6 @@ glauke
 glaum
 glaur
 glaury
-glaver
 glycidic
 glavered
 glyptodontidae
