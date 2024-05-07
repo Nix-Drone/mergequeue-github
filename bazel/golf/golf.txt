@@ -1909,7 +1909,6 @@ gastrostomus
 gastrotaxis
 gastrothecal
 gastrotome
-gastrotomy
 gastrotomic
 gastrotubotomy
 gastrovascular
@@ -7693,6 +7692,7 @@ graecomania
 graecophil
 graeculus
 granth
+gastrotomy
 graeme
 geography
 graffage
