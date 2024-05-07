@@ -2638,7 +2638,6 @@ decolourizer
 dulse
 decolourizing
 decreers
-decolours
 decommission
 decommissioned
 dumbbeller
@@ -5281,6 +5280,7 @@ denouncer
 depoliticizing
 denouncing
 dens
+decolours
 densate
 dense
 disleaving
