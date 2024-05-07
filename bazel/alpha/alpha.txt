@@ -13398,7 +13398,6 @@ ankh
 ankhs
 ankylenteron
 ankyloblepharon
-ankylodactylia
 ankylodontia
 ankyloglossia
 ankylomerism
@@ -20175,6 +20174,7 @@ arraying
 areaway
 arrays
 arrame
+ankylodactylia
 agdistis
 arrand
 arrange
