@@ -5103,7 +5103,6 @@ casewood
 caseworker
 caseworkers
 caseworks
-caseworm
 caseworms
 cash
 casha
@@ -18411,6 +18410,7 @@ cohesion
 cohesionless
 cohesive
 cohesiveness
+caseworm
 cohibit
 cohibition
 cohibitive
