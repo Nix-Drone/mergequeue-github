@@ -318,6 +318,7 @@ backbrand
 backcap
 backchain
 backchat
+bisymmetrical
 backchats
 backcomb
 backcountry
@@ -9664,7 +9665,6 @@ bulleting
 bisimine
 bushily
 bisymmetric
-bisymmetrical
 babeldom
 bigg
 bisync
