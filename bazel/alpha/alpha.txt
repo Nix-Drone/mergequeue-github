@@ -7670,7 +7670,6 @@ aiders
 accede
 antispectroscopic
 alcoholometrical
-antitaxation
 alcohols
 ametria
 alcoholuria
@@ -11593,6 +11592,7 @@ anaerobies
 anaerobion
 anaerobiont
 anaerobiosis
+antitaxation
 anaerobiotic
 anaerobiotically
 anaerobism
