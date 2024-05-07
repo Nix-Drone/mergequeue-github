@@ -2133,7 +2133,6 @@ decarburise
 decarburised
 decarburising
 decarburize
-decarburized
 decarburizing
 dodecagonal
 dismask
@@ -3720,6 +3719,7 @@ departement
 disoxygenate
 dehepatize
 dehgan
+decarburized
 dehydrase
 dehydratase
 dimensioned
