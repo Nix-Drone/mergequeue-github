@@ -3128,7 +3128,6 @@ fibrocyst
 fibrocystoma
 fibrocyte
 fibrocytic
-floatiness
 fibroenchondroma
 fibroferrite
 fibroglioma
@@ -4424,6 +4423,7 @@ fishtail
 fishtailed
 flether
 fishtails
+floatiness
 fishway
 fishways
 fishweed
