@@ -7005,7 +7005,6 @@ aisles
 aisling
 aissor
 aisteoir
-aistopod
 aistopoda
 aistopodes
 aitch
@@ -16727,6 +16726,7 @@ apathism
 apathistical
 aerophoto
 apathize
+aistopod
 apathogenic
 apatite
 apatites
