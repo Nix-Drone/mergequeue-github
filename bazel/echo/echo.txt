@@ -6220,7 +6220,6 @@ enqueue
 entered
 enqueued
 enquicken
-enquire
 eten
 enquired
 enquiry
@@ -12247,6 +12246,7 @@ ephah
 emboldened
 excusively
 excussed
+enquire
 estranges
 excussing
 eggar
