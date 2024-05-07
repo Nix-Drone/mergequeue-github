@@ -5854,7 +5854,6 @@ flocculency
 flocculent
 floccules
 flocculi
-frigidoreceptor
 flocculose
 flocculus
 flockbed
@@ -11617,6 +11616,7 @@ fusionism
 fusionist
 fusionless
 fusions
+frigidoreceptor
 fusobacteria
 fusobacterium
 foliolose
