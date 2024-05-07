@@ -3509,7 +3509,6 @@ deforciant
 deforest
 deforested
 deforester
-dentiform
 deforesting
 deforests
 deform
@@ -15036,6 +15035,7 @@ dognapped
 dognapper
 dognapping
 dogplate
+dentiform
 disfavouring
 dogproof
 dogra
