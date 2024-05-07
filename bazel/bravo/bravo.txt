@@ -8260,7 +8260,6 @@ bierkeller
 byerlite
 bierstube
 bierstuben
-byestreet
 biethnic
 baccar
 bietle
@@ -9991,6 +9990,7 @@ biwinter
 bywoner
 bronchioles
 blackfisher
+byestreet
 byword
 byworks
 bixaceae
