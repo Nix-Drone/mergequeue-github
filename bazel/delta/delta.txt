@@ -2989,6 +2989,7 @@ deductio
 deduction
 deductions
 deductive
+descendibility
 deductively
 dysfunctional
 deductory
@@ -6473,7 +6474,6 @@ descendental
 descendentalistic
 descender
 dispunct
-descendibility
 dispar
 descendible
 descending
