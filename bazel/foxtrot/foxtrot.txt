@@ -1090,7 +1090,6 @@ farmhousey
 fontinalaceae
 fuzzle
 farmy
-farmyard
 fructuary
 farmyardy
 foremastman
@@ -4097,6 +4096,7 @@ featherbrain
 fattable
 fellatrixes
 fletching
+farmyard
 finnish
 finnmark
 finnochio
