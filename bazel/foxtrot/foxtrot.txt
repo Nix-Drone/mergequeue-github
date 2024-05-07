@@ -2944,7 +2944,6 @@ feudists
 feudovassalism
 format
 feuds
-flagonless
 furazane
 formularism
 frustums
@@ -7986,6 +7985,7 @@ feedings
 follied
 forfar
 foreshortens
+flagonless
 foreshot
 foreskirt
 foreshots
