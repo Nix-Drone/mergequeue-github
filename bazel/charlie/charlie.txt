@@ -16841,7 +16841,6 @@ clubfist
 clubfisted
 clubfoot
 clubfooted
-clubhand
 clubhands
 clubhaul
 clubhauled
@@ -21637,6 +21636,7 @@ condylion
 condyloma
 condylomas
 condylomatous
+clubhand
 condylome
 condylopodous
 condylos
