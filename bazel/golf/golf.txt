@@ -1528,7 +1528,6 @@ garrisons
 garrnishable
 garron
 garroo
-garroted
 garroters
 garrotes
 goldweed
@@ -4356,6 +4355,7 @@ grenadiership
 gynandrarchic
 gynandria
 gynandrian
+garroted
 gynandries
 gagers
 gynandrism
