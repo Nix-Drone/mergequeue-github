@@ -15996,7 +15996,6 @@ decrepitude
 double
 doubleganger
 doublegear
-doublehanded
 doublehandedly
 denned
 doublehatching
@@ -17052,6 +17051,7 @@ dry
 dryable
 demibrute
 dryades
+doublehanded
 dryadetum
 dryadic
 dryads
