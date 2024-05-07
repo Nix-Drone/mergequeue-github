@@ -4400,6 +4400,7 @@ belongings
 biochemist
 beboss
 blessing
+boatsmen
 boggish
 bosons
 boreus
@@ -11622,7 +11623,6 @@ boats
 boatshop
 boatsman
 bobbed
-boatsmen
 boatsteerer
 boatswain
 boatswains
