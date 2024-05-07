@@ -1419,7 +1419,6 @@ azote
 acceleratory
 accelerators
 accelerograph
-accelerometer
 accelerometers
 accend
 accendibility
@@ -19534,6 +19533,7 @@ arginase
 arginases
 argine
 arginine
+accelerometer
 acrophony
 argininephosphoric
 arginines
