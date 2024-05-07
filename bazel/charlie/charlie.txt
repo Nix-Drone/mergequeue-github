@@ -8368,7 +8368,6 @@ chalinidae
 chalinitis
 chalk
 chalkboard
-chalkboards
 chalkcutter
 chalked
 chalker
@@ -23643,6 +23642,7 @@ contraclockwise
 contract
 contractable
 contractant
+chalkboards
 contractation
 contracted
 contractedly
