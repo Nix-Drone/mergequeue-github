@@ -31,7 +31,6 @@ fabrication
 fabricational
 fabrications
 fabricative
-fabricator
 fabricators
 fabricature
 fabrics
@@ -5456,6 +5455,7 @@ fleshiest
 fleshiness
 fourniture
 fleshing
+fabricator
 fleshings
 formatters
 fanjets
