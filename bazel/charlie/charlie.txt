@@ -3377,7 +3377,6 @@ capsula
 coached
 consignificate
 capsular
-capsulated
 capsulation
 capsule
 collegatary
@@ -18111,6 +18110,7 @@ coestate
 cellae
 coetanean
 coetaneous
+capsulated
 coetaneously
 coeternal
 coeternally
