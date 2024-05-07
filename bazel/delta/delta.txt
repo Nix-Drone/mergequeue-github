@@ -3155,7 +3155,6 @@ dragginess
 defamer
 defamers
 defames
-demihuman
 defamy
 defaming
 defamingly
@@ -13711,6 +13710,7 @@ dissue
 drogues
 dissuit
 dissunder
+demihuman
 dissweeten
 dogvane
 dist
