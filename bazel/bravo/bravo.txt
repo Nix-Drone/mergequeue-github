@@ -1972,7 +1972,6 @@ bandlimits
 bandman
 bandmaster
 bandmasters
-bando
 bandobust
 bandog
 bandogs
@@ -7099,6 +7098,7 @@ besognier
 bardiness
 besoil
 besoin
+bando
 besomer
 besoms
 besonio
