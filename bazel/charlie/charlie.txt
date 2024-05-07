@@ -11558,7 +11558,6 @@ cholecystenterorrhaphy
 cholecystenterostomy
 cholecystgastrostomy
 cholecystic
-cholecystis
 cholecystitis
 cozies
 cholecystnephrostomy
@@ -18841,6 +18840,7 @@ cyprinine
 collaborative
 collaboratively
 collaborativeness
+cholecystis
 collaborator
 collaborators
 collada
