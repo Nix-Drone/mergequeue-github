@@ -981,7 +981,6 @@ calcanei
 calcaneoastragalar
 calcaneoastragaloid
 cimmerian
-calcaneocuboid
 calcaneonavicular
 calcaneoplantar
 countersale
@@ -4617,6 +4616,7 @@ carpers
 carpet
 carpetbag
 carpetbagged
+calcaneocuboid
 cappy
 carpetbagger
 carpetbaggery
