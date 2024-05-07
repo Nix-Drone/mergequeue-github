@@ -5250,7 +5250,6 @@ begem
 begemmed
 begemming
 beget
-begettal
 begetter
 begetters
 broth
@@ -6878,6 +6877,7 @@ berthed
 berther
 berthierite
 berthing
+begettal
 bilirubinemia
 berthold
 bertie
