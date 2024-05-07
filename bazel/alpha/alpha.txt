@@ -6236,7 +6236,6 @@ anucleated
 agminate
 agminated
 agnails
-agname
 agnamed
 agnat
 agnate
@@ -11725,6 +11724,7 @@ analysation
 analyser
 analysers
 addressee
+agname
 analyses
 analysing
 antimoniate
