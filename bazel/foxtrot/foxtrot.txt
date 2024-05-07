@@ -2060,6 +2060,7 @@ fanfare
 feigners
 feigningly
 feigns
+flet
 feijoa
 feil
 forerunnership
@@ -5468,7 +5469,6 @@ fleshling
 fleshmonger
 fleshpot
 fleshquake
-flet
 flagfall
 fleta
 fletched
