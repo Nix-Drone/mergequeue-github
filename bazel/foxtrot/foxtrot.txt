@@ -1993,7 +1993,6 @@ feedbin
 februarius
 feedboard
 feedbox
-feedboxes
 feeder
 foundationed
 flaxseeds
@@ -6206,6 +6205,7 @@ foreread
 fairgoing
 flubdubberies
 frowstiness
+feedboxes
 flucan
 fluctiferous
 furbished
