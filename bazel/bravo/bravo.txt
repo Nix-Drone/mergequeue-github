@@ -3771,7 +3771,6 @@ battening
 battens
 batter
 bread
-batterable
 battercake
 batterdock
 battered
@@ -8053,6 +8052,7 @@ biceps
 bicetyl
 bichy
 berhyming
+batterable
 bichir
 bichlorides
 bichord
