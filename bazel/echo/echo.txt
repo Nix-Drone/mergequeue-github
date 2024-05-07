@@ -4585,7 +4585,6 @@ encephalomyelitic
 encephalomyelitis
 erucin
 encephalomyelopathy
-encephalomyocarditis
 encephalopathy
 euryalae
 emperorship
@@ -6993,6 +6992,7 @@ entrain
 entrained
 entraining
 entrainment
+encephalomyocarditis
 emulsive
 ethnical
 entrains
