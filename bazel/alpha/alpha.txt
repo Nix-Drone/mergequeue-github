@@ -513,7 +513,6 @@ abjurer
 abjurers
 abjures
 acroblast
-abjuring
 allokinesis
 abkar
 abkari
@@ -5549,6 +5548,7 @@ afrit
 afrite
 attuned
 afrits
+abjuring
 afro
 afrogaea
 afrormosia
