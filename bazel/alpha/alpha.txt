@@ -4442,6 +4442,7 @@ adstipulation
 adstipulator
 adsum
 adterminal
+afterproof
 adtevac
 aduana
 adular
@@ -5671,7 +5672,6 @@ afterplanting
 afterpotential
 autolysis
 afterpressure
-afterproof
 afterrake
 afterreckoning
 auxofluor
