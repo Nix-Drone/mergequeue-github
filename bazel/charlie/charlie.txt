@@ -11644,6 +11644,7 @@ cholesteric
 cholesteryl
 cholesterin
 cholesterinemia
+corpsmen
 chappow
 cholesterinic
 cholesterinuria
@@ -25470,7 +25471,6 @@ corollifloral
 corolliform
 capsidae
 corollitic
-corpsmen
 coromandel
 coromell
 corometer
