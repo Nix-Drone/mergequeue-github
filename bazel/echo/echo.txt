@@ -9166,7 +9166,6 @@ erythrocytometry
 erythrocytorrhexis
 elderly
 erythrocytoschisis
-erythrocytosis
 elementariness
 erythroclasis
 erythroclastic
@@ -10409,6 +10408,7 @@ ethmosphenoidal
 ethmoturbinal
 ethmovomer
 enskyed
+erythrocytosis
 ethnal
 ensignment
 ethnic
