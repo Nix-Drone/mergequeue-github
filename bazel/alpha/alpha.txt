@@ -1693,7 +1693,6 @@ accountancy
 accountant
 accountants
 accountantship
-accounted
 accounter
 accounters
 accounting
@@ -12568,6 +12567,7 @@ anesthesiologist
 anesthesiologists
 anesthesis
 allergens
+accounted
 anesthetically
 anesthetics
 anesthetist
