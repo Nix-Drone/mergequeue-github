@@ -6652,6 +6652,7 @@ focalizes
 focaloid
 fixtures
 focimeter
+flange
 focimetry
 fockle
 focoids
@@ -8379,7 +8380,6 @@ fritting
 formalist
 formalistically
 formalith
-flange
 formalities
 formalizable
 formalization
