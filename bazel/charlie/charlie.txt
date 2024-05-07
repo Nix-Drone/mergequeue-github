@@ -3005,7 +3005,6 @@ caparisons
 capataces
 capataz
 capax
-capcase
 cape
 capeadores
 capel
@@ -27664,6 +27663,7 @@ cowslip
 cowslipped
 cowslips
 cowson
+capcase
 cowsucker
 cowtail
 cowtown
