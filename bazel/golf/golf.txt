@@ -459,7 +459,6 @@ geoponics
 galeass
 galeate
 gastrojejunal
-galeated
 galeche
 galee
 gardenable
@@ -6763,6 +6762,7 @@ gon
 gonadal
 gonadial
 ghostwrite
+galeated
 gonadotrope
 gateward
 grotesquely
