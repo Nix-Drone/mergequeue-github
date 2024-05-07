@@ -12071,7 +12071,6 @@ anatomist
 anatomists
 anatomizable
 anatomization
-anatomize
 anatomized
 anatomizer
 anatomizes
@@ -14127,6 +14126,7 @@ antedates
 antedating
 antediluvial
 antediluvially
+anatomize
 antediluvian
 antedon
 antiquate
