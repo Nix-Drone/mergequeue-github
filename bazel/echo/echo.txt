@@ -834,7 +834,6 @@ episodal
 equations
 ectoblastic
 ectobronchium
-ectocardia
 erigenia
 extent
 ectocarpaceae
@@ -5113,6 +5112,7 @@ exinanition
 endoclinal
 endocline
 endocoelar
+ectocardia
 erosionally
 endocoele
 endocolpitis
