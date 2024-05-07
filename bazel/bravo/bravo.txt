@@ -2113,6 +2113,7 @@ bankmen
 banknote
 barrelet
 badaud
+begets
 banknotes
 bankrider
 brachycome
@@ -8205,7 +8206,6 @@ bidirectional
 bidirectionally
 bidonville
 bidpai
-begets
 baulking
 bidree
 bidri
