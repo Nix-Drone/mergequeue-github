@@ -18204,7 +18204,6 @@ cofferlike
 coffers
 cofferwork
 coffin
-coffing
 coffining
 coffinless
 consoled
@@ -26991,6 +26990,7 @@ counterprocess
 cayubaban
 counterproductive
 counterproductively
+coffing
 counterproductivity
 counterprogramming
 counterpronunciamento
