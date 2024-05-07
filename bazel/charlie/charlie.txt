@@ -6310,7 +6310,6 @@ cauterisation
 cauterise
 cauterised
 cauterising
-cauterism
 cauterization
 cauterize
 cauterized
@@ -7412,6 +7411,7 @@ cephid
 cephidae
 cephus
 cepolidae
+cauterism
 ceps
 cepter
 cequi
