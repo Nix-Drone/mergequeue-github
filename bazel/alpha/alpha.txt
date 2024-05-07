@@ -1024,7 +1024,6 @@ absorber
 absorbers
 absorbing
 absorbtion
-absorpt
 absorptance
 absorptiometer
 absorptiometric
@@ -8213,6 +8212,7 @@ auctors
 alienicola
 alienigenate
 aliening
+absorpt
 alienism
 alienisms
 alienist
