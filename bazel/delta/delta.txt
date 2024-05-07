@@ -7153,6 +7153,7 @@ detat
 detax
 detd
 detect
+disobeyal
 detectability
 daishiki
 detected
@@ -12799,7 +12800,6 @@ dysnomy
 diploperistomic
 disobediently
 disobey
-disobeyal
 disobeyed
 drawspan
 disobeyers
