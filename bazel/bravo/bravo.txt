@@ -1999,6 +1999,7 @@ bandos
 bandpass
 bandrol
 bandsaw
+basilics
 bandsawed
 bandsawing
 bandsawn
@@ -3286,7 +3287,6 @@ basilican
 brownback
 basilicate
 basilicock
-basilics
 basilidan
 basilidian
 basilidianism
