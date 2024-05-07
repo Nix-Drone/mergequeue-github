@@ -11722,7 +11722,6 @@ analysability
 analysable
 analysand
 analysation
-analyser
 analysers
 addressee
 analyses
@@ -16119,6 +16118,7 @@ antirenter
 antirentism
 antirepublican
 antirepublicanism
+analyser
 antireservationist
 antiresonance
 antiresonator
