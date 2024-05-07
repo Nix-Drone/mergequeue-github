@@ -3932,7 +3932,6 @@ doggerelize
 delundung
 damper
 dekalitre
-dekameter
 dekameters
 debutante
 decumani
@@ -18565,6 +18564,7 @@ dustcover
 dusted
 dysoxidize
 dustee
+dekameter
 dwarfish
 duster
 dusterman
