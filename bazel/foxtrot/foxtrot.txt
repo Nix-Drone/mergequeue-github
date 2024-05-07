@@ -4800,7 +4800,6 @@ flagpole
 faunula
 figurehead
 flagpoles
-flagrance
 flagrancy
 filiform
 flagrate
@@ -7239,6 +7238,7 @@ footprint
 flocculating
 footraces
 footrest
+flagrance
 footrests
 footrope
 footropes
