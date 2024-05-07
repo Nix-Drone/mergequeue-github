@@ -4415,7 +4415,6 @@ fishnets
 fishplate
 feste
 fishpole
-fishpoles
 fishponds
 fishpotter
 fishskin
@@ -7247,6 +7246,7 @@ footscald
 footmarks
 fiorded
 farraginous
+fishpoles
 footscraper
 footsy
 feeblehearted
