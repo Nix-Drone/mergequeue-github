@@ -6140,6 +6140,7 @@ derealization
 derecho
 dereference
 dereferencing
+disconnector
 deregister
 deregulate
 deregulated
@@ -11554,7 +11555,6 @@ debitrix
 disconnecting
 disconnection
 disconnective
-disconnector
 disconnects
 disconsent
 dithering
