@@ -3639,7 +3639,6 @@ bathythermograph
 bathkol
 barbar
 bathman
-bathmat
 bathmats
 bereaven
 bathmism
@@ -4312,6 +4311,7 @@ beaus
 beauseant
 beausire
 batetela
+bathmat
 berakot
 beaut
 buffered
