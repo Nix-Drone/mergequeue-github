@@ -4919,6 +4919,7 @@ endosteal
 encushion
 end
 endable
+enterable
 endamage
 endamageable
 endamagement
@@ -6593,7 +6594,6 @@ entente
 ententes
 entepicondylar
 enter
-enterable
 enteraden
 enteradenography
 enteradenographic
