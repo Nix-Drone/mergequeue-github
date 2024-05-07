@@ -8879,7 +8879,6 @@ chapters
 chaptrel
 chapwoman
 chaqueta
-char
 conveyability
 chara
 charabanc
@@ -23130,6 +23129,7 @@ constitutionalist
 constitutionalization
 constitutionalize
 constitutionally
+char
 cutover
 constitutionals
 constitutionary
