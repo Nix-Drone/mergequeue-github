@@ -6526,7 +6526,6 @@ agrotis
 agrufe
 assiduate
 agruif
-agsam
 agst
 agtbasic
 aguacate
@@ -8608,6 +8607,7 @@ allele
 alleles
 allelic
 allelism
+agsam
 allelisms
 allelocatalytic
 almes
