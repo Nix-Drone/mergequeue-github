@@ -3435,7 +3435,6 @@ deflex
 deflexed
 deflexibility
 deflexible
-deflexing
 deflexion
 deflexionize
 deflexure
@@ -16777,6 +16776,7 @@ draughty
 draughtier
 decastylos
 draughtiest
+deflexing
 draughtily
 draughtman
 draughts
