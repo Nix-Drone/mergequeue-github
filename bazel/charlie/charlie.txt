@@ -12620,7 +12620,6 @@ chronometer
 chronometers
 chronometry
 corin
-chronometric
 chronometrical
 chronometrically
 chronon
@@ -15377,6 +15376,7 @@ clampers
 clamping
 clamps
 clamshell
+chronometric
 clamshells
 clamworms
 clan
