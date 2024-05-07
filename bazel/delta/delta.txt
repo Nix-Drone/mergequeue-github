@@ -1490,7 +1490,6 @@ deactivators
 defrosts
 deadborn
 deadcenter
-deeryards
 deadeye
 deaden
 deadened
@@ -6128,6 +6127,7 @@ deratted
 deratting
 distributionist
 docken
+deeryards
 derbend
 derby
 derbies
