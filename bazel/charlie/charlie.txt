@@ -11891,7 +11891,6 @@ chordal
 chordamesoderm
 chordamesodermal
 chordamesodermic
-chordata
 chordate
 chordates
 chorded
@@ -15903,6 +15902,7 @@ cleech
 cleek
 cleeked
 cachaca
+chordata
 cleeky
 calisthenical
 cleeking
