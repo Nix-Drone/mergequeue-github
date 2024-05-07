@@ -2376,6 +2376,7 @@ fenster
 flippance
 fent
 fenter
+forkwise
 flippest
 fenzelia
 feod
@@ -4944,7 +4945,6 @@ flammule
 frosteds
 flams
 flanch
-forkwise
 fact
 flanconnade
 frappeed
