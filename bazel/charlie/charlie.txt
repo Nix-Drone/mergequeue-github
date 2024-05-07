@@ -15780,6 +15780,7 @@ claviers
 claviform
 claviger
 clavigerous
+coerced
 claviharp
 clavilux
 coy
@@ -18072,7 +18073,6 @@ carling
 coequation
 coerce
 coerceable
-coerced
 condylarth
 coercement
 coercend
