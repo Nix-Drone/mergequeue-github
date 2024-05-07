@@ -5324,7 +5324,6 @@ dentality
 dentalium
 dentaliums
 dentalization
-dentalize
 dentalized
 dentally
 dentallia
@@ -14639,6 +14638,7 @@ docile
 dinheiro
 docilities
 directionize
+dentalize
 downcasts
 delimitative
 didepsid
