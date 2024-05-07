@@ -3813,6 +3813,7 @@ battlepiece
 battleplane
 barnstorms
 battler
+blankly
 battles
 battleship
 battleships
@@ -10356,7 +10357,6 @@ botherer
 brazing
 blankit
 blankite
-blankly
 blankminded
 boneless
 beylics
