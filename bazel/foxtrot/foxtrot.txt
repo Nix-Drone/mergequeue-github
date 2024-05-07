@@ -8657,7 +8657,6 @@ fields
 forswears
 fort
 fortake
-fenceful
 flense
 fortaxed
 fortemente
@@ -11632,6 +11631,7 @@ fussier
 fussification
 fussily
 fussiness
+fenceful
 friend
 fussing
 fatigues
