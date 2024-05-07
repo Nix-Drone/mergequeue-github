@@ -5537,7 +5537,6 @@ episcopy
 enfeeblements
 espiritual
 enfeebles
-enfeebling
 enent
 enfeeblish
 enfelon
@@ -12530,6 +12529,7 @@ exigences
 exigency
 exigencies
 epi
+enfeebling
 exigent
 escortment
 exigenter
