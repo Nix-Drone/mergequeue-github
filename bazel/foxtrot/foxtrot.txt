@@ -5775,6 +5775,7 @@ footrill
 flittermouse
 farmlands
 flitters
+fluidist
 flitty
 flitting
 flivver
@@ -6295,7 +6296,6 @@ fluidised
 fallal
 fluidising
 fluidism
-fluidist
 fluidity
 fluidization
 fiefdom
