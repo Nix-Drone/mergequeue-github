@@ -9926,7 +9926,6 @@ chemosynthetic
 chemosis
 chemosmoic
 chemosmoses
-chemosmotic
 calic
 chemosorb
 chemosorption
@@ -14219,6 +14218,7 @@ circularities
 caulerpa
 colanders
 circularization
+chemosmotic
 circularizations
 circularized
 chartology
