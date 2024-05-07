@@ -3123,7 +3123,6 @@ fibrocarcinoma
 fibrocartilaginous
 fibrocellular
 fibrocement
-fibrochondrosteal
 fibrocyst
 fibrocystoma
 fibrocyte
@@ -11265,6 +11264,7 @@ funicles
 funicular
 funiculars
 friborg
+fibrochondrosteal
 funiculitis
 funiculus
 funiform
