@@ -2935,7 +2935,6 @@ areometer
 acromiohumeral
 acromion
 areopagist
-amphibalus
 acromiosternal
 acromiothoracic
 acromyotonia
@@ -17427,6 +17426,7 @@ apostasis
 antiforeign
 apostate
 apostates
+amphibalus
 apostatic
 apostatical
 apostatically
