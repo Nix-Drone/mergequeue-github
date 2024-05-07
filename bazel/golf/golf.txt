@@ -1701,7 +1701,6 @@ gasthauser
 gasting
 gastly
 grego
-gastness
 gastnesses
 gingili
 glossophorous
@@ -10210,6 +10209,7 @@ guiling
 guillem
 guillemet
 gynecophore
+gastness
 guilandina
 guillermo
 guillevat
