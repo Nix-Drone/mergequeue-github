@@ -5864,7 +5864,6 @@ girondism
 glosser
 glossers
 glosses
-glossy
 glossier
 glossies
 glossiest
@@ -7377,6 +7376,7 @@ gotos
 gangliitis
 gimbawawed
 getpenny
+glossy
 gallinuline
 guaranteer
 gowkedness
