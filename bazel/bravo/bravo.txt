@@ -145,7 +145,6 @@ baboot
 banquo
 babouche
 bavarois
-babouvist
 babracot
 babroot
 bipinnately
@@ -291,6 +290,7 @@ backbar
 backbearing
 biotechnologies
 backbencher
+babouvist
 backbend
 backberand
 burely
