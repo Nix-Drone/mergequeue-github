@@ -1661,7 +1661,6 @@ accordancy
 accordatura
 amphiphloic
 accordaturas
-accordature
 accorded
 accorder
 accorders
@@ -13255,6 +13254,7 @@ amphigoric
 anises
 archhost
 anisette
+accordature
 archcity
 anisettes
 anisic
