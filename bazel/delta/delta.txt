@@ -1191,6 +1191,7 @@ disinvolve
 datary
 dataries
 dataset
+dentilingual
 datasetname
 datasets
 datatype
@@ -5383,7 +5384,6 @@ dentilabial
 dentilated
 dentilation
 dentiled
-dentilingual
 dentiloguy
 dentiloquy
 dentiloquist
