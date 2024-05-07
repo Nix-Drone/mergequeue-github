@@ -8652,6 +8652,7 @@ forsung
 forswear
 foreanswer
 forswearing
+flo
 fairling
 fields
 forswears
@@ -10932,7 +10933,6 @@ falter
 fullery
 fulleries
 fullest
-flo
 fictile
 fullgrownness
 fullhearted
