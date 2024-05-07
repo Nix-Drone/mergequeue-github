@@ -11605,7 +11605,6 @@ boxball
 boatlike
 boatlip
 boatload
-boatloader
 bumaloe
 boatloading
 baske
@@ -12511,6 +12510,7 @@ bonnaz
 bonne
 bedplate
 bonnes
+boatloader
 bonnet
 bonneted
 bonneter
