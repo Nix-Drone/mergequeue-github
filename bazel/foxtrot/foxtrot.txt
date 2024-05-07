@@ -5776,6 +5776,7 @@ flittermouse
 farmlands
 flitters
 flitty
+frightable
 flitting
 flivver
 fumariaceous
@@ -10700,7 +10701,6 @@ fruitgrower
 fruitier
 fruitiness
 famish
-frightable
 falsettist
 fruiting
 fruition
