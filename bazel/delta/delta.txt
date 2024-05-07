@@ -828,7 +828,6 @@ deduced
 dangerousness
 dangers
 dangersome
-dangle
 dangleberry
 dangled
 danglers
@@ -8231,6 +8230,7 @@ dicatalexis
 diagonial
 diagram
 diagramed
+dangle
 dammers
 diagrammatic
 diagrammatical
