@@ -439,7 +439,6 @@ boskets
 backrush
 backrushes
 backsaws
-backscatter
 backscattered
 backscattering
 backscraper
@@ -3247,6 +3246,7 @@ basidiolichen
 basidiomycete
 baclava
 basidiomycetous
+backscatter
 basidiophore
 bifrontal
 belesprit
