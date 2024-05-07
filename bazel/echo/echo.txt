@@ -1816,7 +1816,6 @@ eyepiece
 eyepit
 eyepoint
 eyereach
-eyeroot
 electromobilism
 eyes
 endotheliocyte
@@ -2678,6 +2677,7 @@ electrothermancy
 electrothermic
 electrothermics
 enschedule
+eyeroot
 enrapturer
 entrainer
 endomycetaceae
