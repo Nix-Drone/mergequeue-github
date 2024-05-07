@@ -1105,7 +1105,6 @@ farmsteads
 farmtown
 farnesol
 farnesols
-fogas
 flinger
 farnesses
 faro
@@ -8627,6 +8626,7 @@ forset
 forsythia
 forsythias
 fleabugs
+fogas
 fontinalis
 farforthly
 feignedness
