@@ -1217,7 +1217,6 @@ defuse
 dinosaur
 daterman
 daters
-dates
 datil
 dating
 denormalized
@@ -17816,6 +17815,7 @@ duckpin
 dollfish
 duckpond
 dishouse
+dates
 ducks
 deperm
 dotiness

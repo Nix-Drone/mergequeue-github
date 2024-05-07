@@ -2306,7 +2306,6 @@ expert
 electrine
 electrizable
 electrization
-earthenware
 electro
 electroacoustic
 ecblastpsis
@@ -5424,6 +5423,7 @@ endpaper
 extranidal
 endplates
 endpoints
+earthenware
 endrin
 endromididae
 endrudge
