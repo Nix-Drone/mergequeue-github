@@ -763,7 +763,6 @@ badgeman
 barrels
 boraciferous
 badgemen
-badger
 badgerbrush
 badgered
 badgerer
@@ -8593,6 +8592,7 @@ baiocco
 bilingual
 bilinguality
 bilingually
+badger
 bilinguar
 bilinguist
 byliny
