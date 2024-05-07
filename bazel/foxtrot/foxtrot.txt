@@ -10803,6 +10803,7 @@ fthm
 forwardation
 ftncmd
 featherlet
+furlers
 frenetic
 fu
 foreimagine
@@ -11421,7 +11422,6 @@ filiality
 furlana
 firbolg
 furler
-furlers
 furlong
 fiasco
 fluoroscope
