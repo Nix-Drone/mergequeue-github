@@ -16482,6 +16482,7 @@ cuon
 clockmaker
 clockmaking
 crewer
+calisaya
 clockroom
 clocksmith
 clockwatcher
@@ -31936,7 +31937,6 @@ czarisms
 czarists
 chufa
 czaritzas
-calisaya
 countercarte
 czars
 czarship
