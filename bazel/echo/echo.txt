@@ -7517,7 +7517,6 @@ ephemerides
 ephemeris
 ephemeromorph
 ephemeromorphic
-ephemeron
 ephemeroptera
 eigne
 ephemerous
@@ -13687,6 +13686,7 @@ egressive
 extinguishing
 extinguishment
 extypal
+ephemeron
 extipulate
 eosinophil
 extirpating
