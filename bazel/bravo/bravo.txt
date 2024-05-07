@@ -13883,7 +13883,6 @@ boxty
 boxtop
 brager
 boxtops
-boxwood
 bedevil
 boxwoods
 bozine
@@ -16621,6 +16620,7 @@ buck
 bernacle
 buckayro
 buckayros
+boxwood
 buoyant
 bubalis
 buckaroo
