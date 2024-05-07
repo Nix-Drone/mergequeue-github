@@ -21906,7 +21906,6 @@ confessionals
 confessionary
 confessionaries
 cleansed
-confessions
 confessor
 conveners
 confessory
@@ -23435,6 +23434,7 @@ contemptuous
 contemptuously
 contemptuousness
 cholecystocolotomy
+confessions
 contend
 contended
 contendent
