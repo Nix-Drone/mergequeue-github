@@ -4905,6 +4905,7 @@ flameout
 flameouts
 flameproof
 formulize
+faceting
 flameproofer
 flintlocks
 finfishes
@@ -9810,7 +9811,6 @@ freinage
 forehandsel
 freir
 freyr
-faceting
 freith
 freity
 fremd
