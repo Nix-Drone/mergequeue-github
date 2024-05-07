@@ -3452,7 +3452,6 @@ basswoods
 begalling
 basta
 bastaard
-bastant
 bastard
 bastarda
 bastardy
@@ -11337,6 +11336,7 @@ bluecoat
 bluecoated
 bluecoats
 bluecup
+bastant
 berycoidei
 bluecurls
 blued
