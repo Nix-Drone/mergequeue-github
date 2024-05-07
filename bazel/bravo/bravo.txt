@@ -2688,7 +2688,6 @@ byelaws
 bunglesome
 barkey
 barken
-beknights
 barkentine
 barkentines
 barker
@@ -15815,6 +15814,7 @@ broking
 becomma
 battiks
 broletti
+beknights
 broletto
 bedrabble
 brolga
