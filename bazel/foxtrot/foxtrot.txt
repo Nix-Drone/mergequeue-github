@@ -2945,7 +2945,6 @@ feudovassalism
 format
 feuds
 flagonless
-furazane
 formularism
 frustums
 feudum
@@ -11615,6 +11614,7 @@ fusional
 fenestra
 fusionism
 fusionist
+furazane
 fusionless
 fusions
 fusobacteria
