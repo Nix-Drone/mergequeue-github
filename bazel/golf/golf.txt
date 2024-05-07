@@ -595,7 +595,6 @@ galleypot
 galleys
 gamodemes
 galleyworm
-geneat
 galleon
 galleons
 galler
@@ -8094,6 +8093,7 @@ granulite
 granulitis
 granulization
 granuloadipose
+geneat
 granuloblast
 granuloblastic
 gammers

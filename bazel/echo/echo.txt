@@ -318,7 +318,6 @@ evenings
 enunciate
 eaver
 eaves
-eavesdrop
 eavesdropped
 eavesdropper
 enmass
@@ -12713,6 +12712,7 @@ exonarthex
 epicotyledonary
 exonerate
 embaphium
+eavesdrop
 exonerated
 exonerating
 exoneration
