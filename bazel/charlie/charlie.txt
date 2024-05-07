@@ -9367,6 +9367,7 @@ castrate
 chullo
 chauliodes
 chaulmaugra
+currentness
 cupboards
 chaulmoogra
 chaulmoograte
@@ -31447,7 +31448,6 @@ currencies
 current
 currently
 camerieri
-currentness
 currents
 currentwise
 curry
