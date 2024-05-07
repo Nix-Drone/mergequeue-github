@@ -6192,7 +6192,6 @@ agitprops
 aglaia
 atocia
 aglance
-aglaos
 aglare
 aglaspis
 agleaf
@@ -23316,6 +23315,7 @@ audiologies
 aliquid
 audiometer
 amathophobia
+aglaos
 audiometers
 audiometric
 aphaeretic
