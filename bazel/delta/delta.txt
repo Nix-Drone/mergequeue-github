@@ -2481,6 +2481,7 @@ decl
 declaim
 dichorisandra
 declaimant
+dazzled
 declaimer
 declaimers
 declaims
@@ -7210,7 +7211,6 @@ deteriority
 determ
 documentalist
 degasifier
-dazzled
 determent
 discompt
 determents
