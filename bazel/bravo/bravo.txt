@@ -9750,6 +9750,7 @@ bist
 bistable
 backwashed
 bystander
+boroughs
 bistate
 bistephanic
 bister
@@ -13072,7 +13073,6 @@ boroughmaster
 boroughmonger
 boroughmongery
 boroughmongering
-boroughs
 boroughwide
 borowolframic
 borracha
