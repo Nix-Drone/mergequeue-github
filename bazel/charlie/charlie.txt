@@ -11399,7 +11399,6 @@ chlorous
 chlorozincate
 chlorpheniramine
 chlorphenol
-chlorpicrin
 chlorpromazine
 chlorpropamide
 chlorprophenpyridamine
@@ -20946,6 +20945,7 @@ compte
 compted
 compter
 comptie
+chlorpicrin
 compting
 comptly
 comptness
