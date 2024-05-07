@@ -3121,7 +3121,6 @@ fibroblastic
 fibrocalcareous
 fibrocarcinoma
 fibrocartilaginous
-fibrocellular
 fibrocement
 fibrochondrosteal
 fibrocyst
@@ -9958,6 +9957,7 @@ frib
 flirts
 fribble
 fribbler
+fibrocellular
 friskle
 fribbles
 fribbling
