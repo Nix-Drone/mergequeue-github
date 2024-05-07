@@ -8437,6 +8437,7 @@ bigroot
 bigthatch
 biguanide
 biguttulate
+build
 bigwig
 bigwigged
 bigwiggedness
@@ -11332,7 +11333,6 @@ bluebreast
 bluebuck
 bluebush
 bluebutton
-build
 bluecoat
 bluecoated
 bluecoats
