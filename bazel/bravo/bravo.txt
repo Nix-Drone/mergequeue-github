@@ -10504,7 +10504,6 @@ biotelemetric
 blats
 blatta
 bilipyrrhin
-blattariae
 biostrome
 blatted
 blatter
@@ -10565,6 +10564,7 @@ bleach
 bleachability
 bleachable
 bleached
+blattariae
 bleacher
 bleachery
 bleacheries
