@@ -1742,7 +1742,6 @@ accrete
 accretes
 accreting
 accretion
-accretions
 according
 accretive
 accriminate
@@ -19977,6 +19976,7 @@ armlets
 armlike
 armload
 armloads
+accretions
 armlock
 armlocks
 armoire
