@@ -10989,7 +10989,6 @@ ampere
 amperemeter
 amperes
 ampery
-amperian
 amperometer
 aciduria
 amperometric
@@ -19376,6 +19375,7 @@ anagrammed
 arenicolous
 arenig
 arenilitic
+amperian
 arenite
 arenites
 aristas
