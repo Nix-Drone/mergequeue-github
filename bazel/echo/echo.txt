@@ -5018,6 +5018,7 @@ enders
 ergophile
 endevil
 endexine
+exhaustable
 endexines
 eardrum
 endgate
@@ -13115,7 +13116,6 @@ expirations
 expirator
 expiratory
 expire
-exhaustable
 expired
 embale
 expiree
