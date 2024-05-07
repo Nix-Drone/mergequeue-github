@@ -9599,7 +9599,6 @@ brangled
 bisected
 bisecting
 bisection
-bisectional
 bisections
 bisector
 bisectors
@@ -12406,6 +12405,7 @@ bondmanship
 bondmen
 bondminder
 bondoc
+bisectional
 bondon
 bructeri
 brooders
