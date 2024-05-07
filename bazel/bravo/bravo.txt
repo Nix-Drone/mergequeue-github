@@ -5582,6 +5582,7 @@ beknave
 beknight
 belfather
 blossoming
+blendwater
 beknighted
 beknighting
 beknived
@@ -10670,7 +10671,6 @@ broomstaff
 blende
 blendes
 buffaloed
-blendwater
 blenheim
 blenk
 blennadenitis
