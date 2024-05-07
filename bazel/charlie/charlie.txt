@@ -9807,7 +9807,6 @@ chello
 cheloids
 chelonia
 chelonian
-chelonid
 cheloniid
 cheloniidae
 crucialness
@@ -21321,6 +21320,7 @@ coplots
 conchuela
 conciator
 concyclic
+chelonid
 concyclically
 concierge
 creosols
