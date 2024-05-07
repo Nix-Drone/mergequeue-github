@@ -12360,7 +12360,6 @@ dishonors
 dishonour
 dishonourable
 dishonourableness
-dishonourary
 dishonoured
 dishonourer
 dishorn
@@ -12759,6 +12758,7 @@ dismiss
 dismissable
 dismissal
 dismissals
+dishonourary
 dismissed
 dismisser
 doormaking
