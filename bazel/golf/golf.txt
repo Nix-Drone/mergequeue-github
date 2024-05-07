@@ -6406,7 +6406,6 @@ goats
 goatsbane
 goatsbeard
 genuclast
-goatskin
 goatskins
 goatstone
 goatsucker
@@ -10302,6 +10301,7 @@ gulancha
 greenwax
 guland
 gulanganes
+goatskin
 goalies
 gular
 girdle
