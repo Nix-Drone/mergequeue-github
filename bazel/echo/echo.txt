@@ -8743,7 +8743,6 @@ esseda
 equipostile
 etoiles
 equipotential
-equipotentiality
 equiprobability
 emits
 equiprobably
@@ -12989,6 +12988,7 @@ euchromatin
 expeditions
 expeditious
 expeditiously
+equipotentiality
 expeditiousness
 expeditive
 expeditor
