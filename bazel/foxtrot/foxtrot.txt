@@ -1487,6 +1487,7 @@ fatties
 forceable
 fattiness
 funis
+filter
 fattishness
 fattrels
 fatuate
@@ -10008,7 +10009,6 @@ friending
 formose
 friendless
 friendlessness
-filter
 friendliest
 friendliness
 friendliwise
