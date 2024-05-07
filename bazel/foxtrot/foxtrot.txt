@@ -10319,7 +10319,6 @@ finn
 froghopper
 frogleaf
 flintstone
-frogleg
 froglets
 froglike
 frogling
@@ -11051,6 +11050,7 @@ flongs
 felsosphaerite
 fumeuse
 fumy
+frogleg
 flickerproof
 fumid
 furnitureless
