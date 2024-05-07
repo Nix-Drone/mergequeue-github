@@ -3767,7 +3767,6 @@ filmcards
 filmdom
 firebases
 filmed
-filmer
 forepost
 forborn
 fibrocystic
@@ -6435,6 +6434,7 @@ fluoridize
 fluorids
 fourfiusher
 fluoryl
+filmer
 fluorimetry
 franc
 fraterniser
