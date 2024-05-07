@@ -8880,7 +8880,6 @@ chaptrel
 chapwoman
 chaqueta
 char
-conveyability
 chara
 charabanc
 charabancer
@@ -20377,6 +20376,7 @@ ceratiidae
 comox
 comp
 compaa
+conveyability
 cistae
 compact
 compactability
