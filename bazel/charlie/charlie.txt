@@ -10103,6 +10103,7 @@ chess
 chessart
 chessboard
 chessboards
+columbines
 chessdom
 chessel
 chesser
@@ -12871,7 +12872,6 @@ churchway
 churchward
 chemotaxonomist
 churchwardenism
-columbines
 churchwardenize
 churchwardens
 churchwardenship
