@@ -10406,7 +10406,6 @@ diphenylhydantoin
 diphenylmethane
 diphenylquinomethane
 diphenyls
-diphenylthiourea
 diphenoxylate
 diphycercal
 diphycercy
@@ -17759,6 +17758,7 @@ ducal
 ducally
 ducape
 ducat
+diphenylthiourea
 drunt
 ducaton
 dette
