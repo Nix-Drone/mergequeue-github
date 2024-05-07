@@ -5715,7 +5715,6 @@ depiedmontize
 depigment
 depigmentate
 depigmentation
-depigmentize
 depilate
 dagassa
 depilated
@@ -18419,6 +18418,7 @@ duplicity
 dynamite
 duplicities
 duplicitous
+depigmentize
 duplicitously
 duplify
 duplification
