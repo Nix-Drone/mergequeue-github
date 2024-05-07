@@ -11144,7 +11144,6 @@ disbandment
 disbandments
 disbands
 disbar
-dysbarism
 dehydrant
 disbark
 drubbings
@@ -11963,6 +11962,7 @@ disenchantments
 daglock
 dissolute
 deities
+dysbarism
 disenchantress
 disencharm
 drip
