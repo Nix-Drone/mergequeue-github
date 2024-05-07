@@ -16850,7 +16850,6 @@ clubhauls
 clubhouse
 clubhouses
 clubionid
-clubionidae
 clubland
 clubman
 clubmate
@@ -26523,6 +26522,7 @@ couchings
 couchmaker
 couchmaking
 couchmate
+clubionidae
 coud
 characterist
 coue
