@@ -7541,6 +7541,7 @@ glyoxime
 gowpen
 gowpin
 gox
+greenlet
 gozill
 gangism
 gp
@@ -9181,7 +9182,6 @@ grissen
 grisset
 grist
 gaspiness
-greenlet
 grister
 gristle
 gauge
