@@ -1957,7 +1957,6 @@ branle
 banditry
 barramundas
 bandits
-banditti
 bandle
 bandleader
 bandless
@@ -2235,6 +2234,7 @@ bapistery
 bapt
 baptised
 baptises
+banditti
 baptisia
 baptisias
 baptisin
