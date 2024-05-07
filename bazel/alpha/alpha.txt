@@ -20014,6 +20014,7 @@ armourbearer
 armoured
 armourer
 aplustre
+autosoterism
 armouries
 armouring
 armours
@@ -24391,7 +24392,6 @@ autosomes
 autosoteric
 astoundable
 antimiscegenation
-autosoterism
 autospore
 augustest
 autosporic
