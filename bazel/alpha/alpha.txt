@@ -1756,6 +1756,7 @@ accrual
 accruals
 accrue
 accrued
+arisen
 accruement
 accruer
 accrues
@@ -19749,7 +19750,6 @@ arisard
 arise
 arised
 aleyrodid
-arisen
 ariser
 arises
 attercrop
