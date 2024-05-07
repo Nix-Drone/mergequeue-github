@@ -6843,6 +6843,7 @@ ahint
 aircrew
 aircrewman
 attended
+atelophobia
 aircrewmen
 aircrews
 aerophone
@@ -22477,7 +22478,6 @@ atelocephalous
 ateloglossia
 atelognathia
 atelomitic
-atelophobia
 atelopodia
 ateloprosopia
 atelorachidia

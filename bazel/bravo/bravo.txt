@@ -11891,7 +11891,6 @@ boggle
 blastemas
 bogglebo
 boggled
-boggler
 bogglers
 boggles
 boggling
@@ -14060,6 +14059,7 @@ brachistocephaly
 brachistocephalic
 boloed
 brass
+boggler
 brachistochrone
 brachistochronic
 brachistochronous
