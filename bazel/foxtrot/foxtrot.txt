@@ -5593,6 +5593,7 @@ fligger
 feodum
 flight
 flighted
+formalized
 flighter
 flightful
 flighty
@@ -8386,7 +8387,6 @@ formalization
 fogyism
 formalizations
 formerness
-formalized
 formalizer
 foreknowledge
 fettuccine
