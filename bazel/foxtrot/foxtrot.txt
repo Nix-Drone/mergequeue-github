@@ -4342,6 +4342,7 @@ fise
 forb
 fisetin
 fish
+frostbite
 fishability
 fishable
 fishback
@@ -10501,7 +10502,6 @@ flyblew
 forbodes
 frostbit
 flavorful
-frostbite
 frostbites
 frostbiting
 frostbitten
