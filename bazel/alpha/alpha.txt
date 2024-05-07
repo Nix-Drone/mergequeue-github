@@ -5350,7 +5350,6 @@ affirms
 affix
 affixable
 affixal
-affixation
 affixed
 affixer
 affixers
@@ -15548,6 +15547,7 @@ antimerger
 antimerging
 antimeric
 antimerina
+affixation
 antimerism
 antimeristem
 antimesia
