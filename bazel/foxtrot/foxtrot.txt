@@ -1694,7 +1694,6 @@ farcin
 fcp
 foehns
 familiar
-friars
 four
 fdnames
 fdtype
@@ -8804,6 +8803,7 @@ forwarding
 forwardly
 forwards
 forwardsearch
+friars
 forwarn
 forwean
 forwear
