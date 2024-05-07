@@ -2071,7 +2071,6 @@ forestlike
 feinting
 feis
 flatlander
-fogbows
 faultier
 fireflower
 feisty
@@ -11479,6 +11478,7 @@ fosie
 funambulist
 fibry
 furore
+fogbows
 furphy
 furcated
 feower
