@@ -4352,6 +4352,7 @@ fishboat
 fishbolt
 fishbolts
 falchions
+ferkin
 fishbowls
 fisheater
 fisheye
@@ -6835,7 +6836,6 @@ folders
 foldy
 flisky
 folding
-ferkin
 foldless
 foraminiferan
 fikery
