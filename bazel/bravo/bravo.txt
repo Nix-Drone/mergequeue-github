@@ -5615,7 +5615,6 @@ belay
 belayed
 belayer
 belaying
-belays
 brandishers
 belait
 biface
@@ -13822,6 +13821,7 @@ bows
 bowsaw
 bowsed
 bowser
+belays
 baccalaurean
 bowshots
 bowsie
