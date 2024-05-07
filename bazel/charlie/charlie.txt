@@ -20340,7 +20340,6 @@ commutant
 commutate
 commutated
 commutation
-commutative
 commutatively
 commutativity
 commutator
@@ -26960,6 +26959,7 @@ chimneypot
 counterpoint
 counterpointe
 cucurbitaceous
+commutative
 counterpointing
 counterpoints
 counterpoise
