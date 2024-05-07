@@ -7912,6 +7912,7 @@ eftest
 epigraphy
 egyptianization
 epigraphic
+eodiscid
 epigraphical
 epigraphist
 epigraphs
@@ -9533,7 +9534,6 @@ escarping
 escarpment
 enplanement
 epipodium
-eodiscid
 escarps
 escars
 escarteled
