@@ -1761,7 +1761,6 @@ goniostat
 gramophonical
 gastrocnemial
 gastrocnemian
-gynandromorphic
 gastrocnemii
 gastrocnemius
 gastrocoel
@@ -10385,6 +10384,7 @@ gulping
 gulpingly
 gulps
 gangrene
+gynandromorphic
 gult
 gum
 gumby
