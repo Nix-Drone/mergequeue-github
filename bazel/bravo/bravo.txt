@@ -2097,7 +2097,6 @@ baldachini
 basti
 bankcard
 blossomhead
-bankcards
 banked
 banker
 bankerdom
@@ -10377,6 +10376,7 @@ blare
 belibeled
 backyarder
 blares
+bankcards
 blaring
 beechiest
 blarneyed
