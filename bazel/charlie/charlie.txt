@@ -9842,7 +9842,6 @@ chemicomechanical
 chemicomineralogical
 chemicopharmaceutical
 chemicophysical
-chemicophysics
 chemicophysiological
 curtaining
 chemicovital
@@ -20149,6 +20148,7 @@ commissurotomies
 commistion
 caulite
 commit
+chemicophysics
 commitment
 commitments
 commits
