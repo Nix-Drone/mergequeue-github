@@ -16819,7 +16819,6 @@ drawcansir
 drawcard
 disconsonant
 drawcut
-drawdown
 drawee
 drawer
 drawerful
@@ -17613,6 +17612,7 @@ drumroll
 drumrolls
 demesmerize
 dicaryotic
+drawdown
 drums
 drumskin
 drumslade
