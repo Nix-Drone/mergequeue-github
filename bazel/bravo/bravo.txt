@@ -4586,6 +4586,7 @@ becrusts
 becudgel
 becudgeled
 becudgelled
+beparse
 becudgelling
 becudgels
 buckskin
@@ -6531,7 +6532,6 @@ belady
 bepale
 bepaper
 beparch
-beparse
 benefactrix
 bepart
 bepaste
