@@ -7202,7 +7202,6 @@ footlights
 flaggelated
 farrierlike
 footling
-footlock
 footlocker
 footlockers
 footlog
@@ -8770,6 +8769,7 @@ faying
 fortuitously
 fortuitus
 frizzled
+footlock
 fortunate
 fortunately
 fortunateness
