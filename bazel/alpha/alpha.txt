@@ -1584,7 +1584,6 @@ acclimatizer
 acclimatizes
 acclimatizing
 acclinal
-acclinate
 acclivity
 acclivities
 acclivitous
@@ -12862,6 +12861,7 @@ asteraceous
 anglian
 anglians
 anglic
+acclinate
 anglican
 anglicanism
 anglicanisms
