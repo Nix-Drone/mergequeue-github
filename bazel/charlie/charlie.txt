@@ -9564,6 +9564,7 @@ checkroll
 checkroom
 compathy
 checkrooms
+could
 checkrope
 checkrow
 checkrower
@@ -26537,7 +26538,6 @@ coughroot
 coughs
 coughwort
 couhage
-could
 coul
 coulage
 couldest
