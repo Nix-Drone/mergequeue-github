@@ -13099,7 +13099,6 @@ bovines
 besneer
 borsht
 borshts
-borty
 borts
 bortsch
 beworm
@@ -14788,6 +14787,7 @@ breadnuts
 breadroot
 bullety
 breads
+borty
 breadstitch
 breadstuff
 burnet
