@@ -9582,6 +9582,7 @@ checkups
 checkweigher
 checkweighman
 checkweighmen
+cistronic
 checkwork
 checkwriter
 cheddar
@@ -14761,7 +14762,6 @@ cystourethrography
 cystous
 chondrocele
 cistron
-cistronic
 cistrons
 cists
 cistudo
