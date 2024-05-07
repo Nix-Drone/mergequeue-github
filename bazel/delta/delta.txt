@@ -7317,7 +7317,6 @@ deprives
 detonations
 detonative
 detonator
-detonize
 detour
 detoured
 detouring
@@ -10768,6 +10767,7 @@ direcly
 direct
 directable
 directcarving
+detonize
 directdiscourse
 directed
 diastereoisomeric
