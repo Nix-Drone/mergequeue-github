@@ -3264,6 +3264,7 @@ freit
 functorial
 fidawi
 feff
+forwarder
 fiddle
 fiddlebow
 fiddlecome
@@ -8797,7 +8798,6 @@ forwander
 forwardal
 frescoer
 forwarded
-forwarder
 forwarders
 forwardest
 forwarding
