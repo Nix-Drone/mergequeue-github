@@ -135,7 +135,6 @@ earthdrake
 erosionist
 eff
 endothermically
-earthed
 epiphysial
 earthfall
 earthgall
@@ -2100,6 +2099,7 @@ environment
 elance
 elanet
 elans
+earthed
 elanus
 elaphebolion
 elaphine
