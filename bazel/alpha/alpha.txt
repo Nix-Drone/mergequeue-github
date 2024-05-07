@@ -19813,7 +19813,6 @@ aristotype
 aristotle
 arytenoepiglottic
 arytenoid
-arytenoidal
 arith
 arithmancy
 arithmetic
@@ -22166,6 +22165,7 @@ astragalectomy
 astragali
 astragalocalcaneal
 astragalocentral
+arytenoidal
 astragalomancy
 astragalonavicular
 astragaloscaphoid
