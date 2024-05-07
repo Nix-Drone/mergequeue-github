@@ -4421,7 +4421,6 @@ fishpotter
 fishskin
 fishspear
 fishtail
-fishtailed
 flether
 fishtails
 fishway
@@ -11655,6 +11654,7 @@ fustics
 fustier
 fustigated
 foggily
+fishtailed
 fiddleys
 fruittime
 fustigating
