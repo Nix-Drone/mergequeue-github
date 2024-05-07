@@ -4970,7 +4970,6 @@ flanker
 flankers
 falconries
 fringilliform
-fireshaft
 flanking
 flanks
 faineantise
@@ -5009,6 +5008,7 @@ framableness
 fluorography
 flapperism
 flappers
+fireshaft
 flappet
 flappy
 faxes
