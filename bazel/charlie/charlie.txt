@@ -7851,7 +7851,6 @@ cervicolabial
 cervicolingual
 cervicolumbar
 crystal
-cervicomuscular
 cerviconasal
 cervicoscapular
 cervicothoracic
@@ -9052,6 +9051,7 @@ charlatanish
 charlatanism
 charlatanistic
 charlatanry
+cervicomuscular
 circumnutate
 charlatanries
 charlatans
