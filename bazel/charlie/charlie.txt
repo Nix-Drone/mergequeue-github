@@ -1098,7 +1098,6 @@ calcivorous
 calcographer
 calcography
 culturology
-cubatures
 calcographic
 calcrete
 calcsinter
@@ -16644,6 +16643,7 @@ closable
 close
 closecross
 closed
+cubatures
 closedown
 closefistedly
 closefistedness
