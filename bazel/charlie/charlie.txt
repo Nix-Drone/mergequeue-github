@@ -8997,7 +8997,6 @@ chargeman
 charger
 charges
 chargeship
-chargfaires
 charybdian
 charybdis
 charicleia
@@ -25299,6 +25298,7 @@ cornea
 corneagen
 corneal
 corneas
+chargfaires
 cornein
 corneine
 corneitis
