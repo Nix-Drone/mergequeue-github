@@ -235,7 +235,6 @@ abbreviature
 abbroachment
 abc
 abcissa
-abcoulomb
 abd
 abdali
 abdaria
@@ -13051,6 +13050,7 @@ anhydrosis
 anhidrotic
 antimythical
 algraphic
+abcoulomb
 anhydrotic
 anhydrous
 anhydrously
