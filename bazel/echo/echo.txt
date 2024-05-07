@@ -6969,7 +6969,6 @@ entosphenal
 entosphere
 entosterna
 entosternal
-entosternum
 entosthoblast
 entothorax
 entotympanic
@@ -9388,6 +9387,7 @@ erthly
 erthling
 erubescence
 erubescent
+entosternum
 eventerate
 euchlorophyceae
 erubescite
