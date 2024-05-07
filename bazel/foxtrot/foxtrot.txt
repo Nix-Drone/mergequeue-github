@@ -4071,7 +4071,6 @@ freshman
 finless
 finlet
 finlike
-finmark
 finmarks
 finnac
 finnan
@@ -9015,6 +9014,7 @@ fibrinogenic
 fountainlike
 filicite
 forstand
+finmark
 fountainous
 feaze
 fountainously
