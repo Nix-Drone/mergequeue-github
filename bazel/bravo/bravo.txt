@@ -2158,6 +2158,7 @@ bannack
 bannat
 banned
 banner
+battleground
 bannerer
 banneret
 bannerets
@@ -7703,7 +7704,6 @@ beeper
 bewrays
 brushfire
 bewraps
-battleground
 bathycurrent
 bewrapt
 bewrathed
