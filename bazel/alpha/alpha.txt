@@ -2176,7 +2176,6 @@ acharnement
 achate
 amapa
 achatina
-achatinella
 achatinidae
 act
 ache
@@ -17363,6 +17362,7 @@ apophysial
 apophysis
 apophysitis
 apophlegm
+achatinella
 apophlegmatic
 apophlegmatism
 apophony
