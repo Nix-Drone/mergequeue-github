@@ -1608,7 +1608,6 @@ calorisator
 calorist
 calorite
 calorize
-calorized
 calorizer
 calorizes
 calorizing
@@ -12326,6 +12325,7 @@ christology
 courtiership
 christological
 christologist
+calorized
 christophany
 christophe
 christopher
