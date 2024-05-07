@@ -10619,7 +10619,6 @@ aminoplast
 aminoplastic
 aminopolypeptidase
 aminopropionic
-aminopurine
 aminoquin
 aminosis
 aminosuccinamic
@@ -22040,6 +22039,7 @@ asterixis
 astern
 asternal
 adenocancroid
+aminopurine
 asternata
 asternia
 asterochiton
