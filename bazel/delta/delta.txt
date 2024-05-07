@@ -1522,6 +1522,7 @@ deadlight
 deadlihead
 deadlily
 deadlines
+delimited
 deadliness
 deadlock
 deadlocking
@@ -4151,7 +4152,6 @@ dihybrid
 delimitating
 delimitation
 delimitations
-delimited
 delimiter
 delimiters
 delimiting
