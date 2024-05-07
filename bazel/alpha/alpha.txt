@@ -2681,7 +2681,6 @@ acquest
 acquests
 acquiesce
 acquiesced
-acquiescence
 agravic
 acquiescency
 acquiescent
@@ -18619,6 +18618,7 @@ arboricoline
 arboricolous
 arboricultural
 arboriculture
+acquiescence
 arboriform
 arborist
 arborists
