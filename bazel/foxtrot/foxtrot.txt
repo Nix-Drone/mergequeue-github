@@ -4642,7 +4642,6 @@ farming
 fixup
 fixups
 fixure
-fixures
 fiz
 fizelyite
 fizgig
@@ -6816,6 +6815,7 @@ foldage
 foldaway
 foldboater
 farmings
+fixures
 foldboating
 foldboats
 foldcourse
