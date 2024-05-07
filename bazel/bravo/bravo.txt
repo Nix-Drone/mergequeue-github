@@ -2666,7 +2666,6 @@ barytocelestite
 baritone
 barytone
 baritones
-barytones
 byres
 bedaff
 barytons
@@ -3126,6 +3125,7 @@ basculation
 blindfold
 bascule
 baculite
+barytones
 bipropellant
 bascules
 bascunan
