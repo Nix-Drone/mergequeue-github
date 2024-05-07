@@ -4862,6 +4862,7 @@ carthame
 carthamic
 cornell
 carthamin
+consonantalize
 carthamus
 carthorse
 carthusian
@@ -22995,7 +22996,6 @@ consonances
 consonancy
 consonant
 consonantal
-consonantalize
 consonantalized
 consonantally
 consonantic
