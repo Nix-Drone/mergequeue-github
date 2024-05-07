@@ -5256,6 +5256,7 @@ begetters
 broth
 beggardom
 beggared
+bossdom
 beggarer
 beggaress
 bulletheaded
@@ -13177,7 +13178,6 @@ beneficium
 bosquets
 bossage
 bossboy
-bossdom
 bossdoms
 baldachinos
 bosseyed
