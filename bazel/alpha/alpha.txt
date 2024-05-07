@@ -852,7 +852,6 @@ abrocome
 abrogable
 abrogate
 antagonisation
-abrogates
 abrogating
 abrogations
 abrogative
@@ -2418,6 +2417,7 @@ afternoon
 acidosis
 acidosteophyte
 acidotic
+abrogates
 acidproof
 acids
 acidulant
