@@ -13809,7 +13809,6 @@ bowllike
 bowlmaker
 bacalaos
 bowmaker
-bowman
 brambleberries
 bowsman
 bowmen
@@ -17796,6 +17795,7 @@ bejumbled
 burnoosed
 burnous
 burnouts
+bowman
 ballistics
 burnover
 burns
