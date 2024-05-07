@@ -14230,6 +14230,7 @@ circularly
 circularness
 circulars
 circulatable
+continuativeness
 circulated
 circulates
 circulation
@@ -23554,7 +23555,6 @@ continuation
 continuations
 continuative
 continuatively
-continuativeness
 continuator
 continued
 continuedly
