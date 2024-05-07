@@ -1459,6 +1459,7 @@ fatness
 fatnesses
 fylgjur
 fats
+flook
 fatshedera
 ferahan
 fatsia
@@ -5927,7 +5928,6 @@ feute
 floodways
 fistfight
 flooey
-flook
 floorages
 forgottenness
 floorboard
