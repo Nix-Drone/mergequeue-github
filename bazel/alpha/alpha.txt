@@ -5632,7 +5632,6 @@ afterguns
 anaerobious
 afterharm
 afterheat
-afterhelp
 afterhend
 afterhope
 afterhours
@@ -17164,6 +17163,7 @@ apocopated
 apocopating
 artily
 apocopation
+afterhelp
 apocope
 apocopes
 apocopic
