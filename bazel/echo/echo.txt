@@ -835,6 +835,7 @@ equations
 ectoblastic
 ectobronchium
 ectocardia
+entries
 erigenia
 extent
 ectocarpaceae
@@ -7066,7 +7067,6 @@ entrez
 entry
 entria
 expressivity
-entries
 entrike
 entryman
 enteroid
