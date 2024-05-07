@@ -2564,7 +2564,6 @@ billbugs
 bargainee
 bargainer
 bargaining
-bargainor
 bargander
 bumptiously
 barge
@@ -6347,6 +6346,7 @@ benthic
 brights
 benthonic
 bevors
+bargainor
 bicentenarnaries
 benthos
 benthoscope
