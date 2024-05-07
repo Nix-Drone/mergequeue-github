@@ -5224,6 +5224,7 @@ guider
 glassworker
 glassworkers
 glassworm
+gorefish
 gawkier
 glasswort
 gees
@@ -7265,7 +7266,6 @@ gortonite
 gos
 goschen
 goshawk
-gorefish
 goshenite
 goslarite
 goslet
