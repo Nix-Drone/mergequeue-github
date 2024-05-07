@@ -1330,7 +1330,6 @@ garbanzo
 garbardine
 garbed
 garbell
-generator
 garbill
 garbing
 glycerogel
@@ -5942,6 +5941,7 @@ glottalized
 glumiferous
 glottalizing
 guesstimates
+generator
 glottid
 glottidean
 glottides
