@@ -4028,7 +4028,6 @@ delegalized
 delegalizing
 delegant
 dependants
-delegare
 delegate
 delegated
 delegateship
@@ -8200,6 +8199,7 @@ diagnosable
 diagnose
 dipus
 diagnosed
+delegare
 diagnoses
 diagnosis
 diagnostical
