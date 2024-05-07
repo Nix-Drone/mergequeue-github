@@ -8839,7 +8839,6 @@ acrogenic
 alloys
 alloisomer
 alloisomeric
-alloisomerism
 allokinetic
 allokurtic
 allolalia
@@ -17311,6 +17310,7 @@ arcs
 apomecometer
 apomecometry
 apometabolic
+alloisomerism
 apomict
 apomictic
 apomictical
