@@ -14911,7 +14911,6 @@ cytogeny
 cytogenic
 cytogenies
 cytogenous
-cytoglobulin
 cytohyaloplasm
 cytoid
 citoyen
@@ -25776,6 +25775,7 @@ corrosiving
 corrosivity
 corrugant
 corrugate
+cytoglobulin
 corrugated
 corrugates
 corrugating
