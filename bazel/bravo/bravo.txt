@@ -9771,7 +9771,6 @@ bistre
 bedtimes
 bistred
 bystreet
-bystreets
 bistres
 bistriate
 bistro
@@ -14756,6 +14755,7 @@ briefcases
 bridelace
 breaching
 bookless
+bystreets
 breadbasket
 breadberry
 bayard
