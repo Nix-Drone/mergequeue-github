@@ -14630,7 +14630,6 @@ cnidophore
 cisted
 cysted
 cheerless
-cystein
 cysteine
 cysteines
 cysteinic
@@ -21867,6 +21866,7 @@ conferral
 conferred
 conferree
 conferrence
+cystein
 camalig
 conferring
 counterstain
