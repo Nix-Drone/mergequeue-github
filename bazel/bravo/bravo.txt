@@ -1881,7 +1881,6 @@ band
 bandage
 bandaged
 bandager
-bandages
 bandaging
 brakes
 bandagist
@@ -7912,6 +7911,7 @@ biblical
 biblicality
 biblically
 biblicism
+bandages
 biblicist
 biblicolegal
 biblicopsychological
