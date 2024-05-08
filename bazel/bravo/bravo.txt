@@ -1597,7 +1597,6 @@ ballgames
 ballgowns
 ballhausplatz
 ballhawk
-ballhawks
 ballhooter
 balli
 bullwhack
@@ -9321,6 +9320,7 @@ brisque
 bullfrogs
 biplanar
 biplane
+ballhawks
 bobolink
 biplanes
 biplicate
