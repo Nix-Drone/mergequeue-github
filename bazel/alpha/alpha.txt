@@ -1579,7 +1579,6 @@ algid
 acclimatizable
 apokreos
 atinkle
-acclimatize
 acclimatizer
 acclimatizes
 acclimatizing
@@ -15494,6 +15493,7 @@ antimalarial
 apiculation
 antimale
 antimallein
+acclimatize
 antiman
 antimaniac
 antimarian
