@@ -4401,7 +4401,6 @@ fishlet
 fishlike
 furlough
 fishline
-fishlines
 frondage
 fishling
 fishman
@@ -9455,6 +9454,7 @@ flinkite
 forma
 frankest
 fireguard
+fishlines
 falsidical
 frankfurt
 frankfurter
