@@ -751,7 +751,6 @@ abounded
 abounder
 abounding
 aboundingly
-abounds
 about
 abouts
 antefuture
@@ -3493,6 +3492,7 @@ addible
 addicent
 addict
 addicted
+abounds
 antiknocks
 addictedness
 activable
