@@ -5058,6 +5058,7 @@ endmost
 electrocoating
 endnote
 endnotes
+expandible
 endoangiitis
 exemplum
 endoaortitis
@@ -12877,7 +12878,6 @@ expandedness
 expanders
 educabilia
 epitaphic
-expandible
 expanding
 ell
 expandingly
