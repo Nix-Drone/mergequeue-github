@@ -1188,7 +1188,6 @@ diospyraceae
 datapac
 datapunch
 disinvolve
-datary
 dataries
 dataset
 datasetname
@@ -16656,6 +16655,7 @@ dragsmen
 dragstaff
 dragster
 dragsters
+datary
 dray
 drayage
 drayed
