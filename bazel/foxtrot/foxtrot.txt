@@ -4186,7 +4186,6 @@ firedrake
 firefall
 firefang
 firefanged
-firefangs
 firefighter
 firefighting
 foreship
@@ -7856,6 +7855,7 @@ foreordinate
 frizzler
 foreordinated
 foreordinating
+firefangs
 foreordination
 forepale
 forepaled
