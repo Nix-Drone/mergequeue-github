@@ -8454,6 +8454,7 @@ chamaesiphonales
 chamal
 chamar
 chambellan
+collapsed
 chamber
 chamberdeacon
 chambered
@@ -18858,7 +18859,6 @@ collapsable
 collapsar
 cascado
 collapse
-collapsed
 collapses
 contam
 collapsibility
