@@ -6847,7 +6847,6 @@ dichromasy
 desoxyanisoin
 desoxycorticosterone
 desoxyephedrine
-desoxymorphine
 desoxyribonucleic
 desoxyribonucleoprotein
 desoxyribose
@@ -16617,6 +16616,7 @@ denotations
 derelictness
 dragonesque
 dragonet
+desoxymorphine
 dreamwhile
 dragonets
 decancellation
