@@ -6865,7 +6865,6 @@ entoglossal
 epithelilia
 embonpoint
 entoil
-entoiled
 entoiling
 entoils
 entoloma
@@ -13257,6 +13256,7 @@ expone
 exponency
 exponent
 exponential
+entoiled
 exponentially
 exponentials
 elucubration
