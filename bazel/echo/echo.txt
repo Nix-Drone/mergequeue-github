@@ -4582,7 +4582,6 @@ encephalomas
 encephalomeningocele
 encephalometric
 encephalomyelitic
-encephalomyelitis
 erucin
 encephalomyelopathy
 encephalomyocarditis
@@ -12799,6 +12798,7 @@ exordize
 exorhason
 exornate
 exornation
+encephalomyelitis
 enrichers
 exortion
 exoskeletal
