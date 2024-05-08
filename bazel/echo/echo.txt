@@ -8160,7 +8160,6 @@ elect
 episcenium
 episcia
 episclera
-episcleral
 episcopacy
 eyewash
 expensilation
@@ -13401,6 +13400,7 @@ ekphoria
 expulses
 expulsing
 expulsion
+episcleral
 expulsionist
 expunction
 eatanswill
