@@ -157,6 +157,7 @@ cabling
 cablish
 campmaster
 cabmen
+convoke
 cabob
 caboceer
 caboched
@@ -24203,7 +24204,6 @@ convoy
 convoyed
 convoying
 convoys
-convoke
 convoked
 convoker
 convokers
