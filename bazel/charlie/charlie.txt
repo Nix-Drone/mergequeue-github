@@ -2793,7 +2793,6 @@ cantation
 cantatory
 cantatrice
 cantatrices
-chestily
 cantatrici
 cantboard
 cantdog
@@ -16196,6 +16195,7 @@ clepe
 clinandria
 clinandrium
 clinanthia
+chestily
 clinanthium
 clinch
 clinched
