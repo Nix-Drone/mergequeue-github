@@ -6847,7 +6847,6 @@ aircrewmen
 aircrews
 aerophone
 airdate
-announcement
 airdates
 airdock
 airdrome
@@ -12870,6 +12869,7 @@ anglicans
 attitudes
 anglicanum
 anglice
+announcement
 anglicisation
 anglicism
 anglicisms
