@@ -10490,7 +10490,6 @@ childkind
 childless
 childlessness
 childly
-childlier
 constitutioner
 childliest
 childminder
@@ -31287,6 +31286,7 @@ curdy
 curdiest
 curdiness
 curding
+childlier
 curdle
 curdled
 curdler
