@@ -7391,7 +7391,6 @@ cephalotaceae
 cephalotaceous
 cephalotaxus
 cephalothecal
-cephalothoracic
 cephalothoracopagus
 cephalothoraxes
 cephalotomy
@@ -26163,6 +26162,7 @@ cosponsored
 conidiophore
 cosponsoring
 cosponsors
+cephalothoracic
 cosponsorship
 chatteration
 cossack
