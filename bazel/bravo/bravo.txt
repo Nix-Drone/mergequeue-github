@@ -3960,6 +3960,7 @@ bawra
 barrow
 bawrel
 badling
+bowtel
 bawsint
 bawsunt
 bawtie
@@ -13834,7 +13835,6 @@ bowstring
 bowstringed
 bowstrings
 bowstrung
-bowtel
 brichen
 bowtell
 bowwow
