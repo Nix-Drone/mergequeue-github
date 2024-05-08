@@ -5924,7 +5924,6 @@ forst
 fortifiable
 floodway
 feute
-floodways
 fistfight
 flooey
 flook
@@ -10369,6 +10368,7 @@ folkmot
 fromages
 fromenty
 fromenties
+floodways
 fromward
 fromwards
 fronde
