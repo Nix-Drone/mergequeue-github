@@ -2075,7 +2075,6 @@ banisher
 banishing
 banishment
 banister
-banisters
 bursting
 banyuls
 baniva
@@ -6601,6 +6600,7 @@ berairou
 blackheartedness
 berakah
 berake
+banisters
 bewelcome
 bookstack
 beraked
