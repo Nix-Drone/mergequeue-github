@@ -3589,7 +3589,6 @@ bathers
 bathes
 bathetically
 bathflower
-bathhouse
 bathhouses
 bathyal
 bathyanesthesia
@@ -6074,6 +6073,7 @@ bemock
 bemocked
 bemocking
 bor
+bathhouse
 bibliological
 bemocks
 bothersomeness
