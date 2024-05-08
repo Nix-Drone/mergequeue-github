@@ -7909,7 +7909,6 @@ cesspipe
 cesspit
 cesspits
 centipede
-clamors
 cesspools
 cineraceous
 cataphoretic
@@ -28297,6 +28296,7 @@ crawful
 crawl
 cotenants
 crawled
+clamors
 crawley
 crawleyroot
 crawler
