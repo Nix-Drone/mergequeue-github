@@ -5986,7 +5986,6 @@ beltmaking
 beltman
 beltmen
 belts
-beltway
 beltwise
 barn
 beluchi
@@ -9524,6 +9523,7 @@ byrsonima
 birt
 birthbed
 bipinnatifid
+beltway
 barracks
 bartizaned
 birthday
