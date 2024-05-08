@@ -4342,7 +4342,6 @@ fise
 forb
 fisetin
 fish
-fishability
 fishable
 fishback
 fishberry
@@ -9736,6 +9735,7 @@ freemasons
 femineity
 freenesses
 fidgeters
+fishability
 figment
 flotations
 freers
