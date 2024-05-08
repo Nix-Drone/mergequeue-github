@@ -2474,7 +2474,6 @@ deckhouse
 deckle
 deckman
 deckpipe
-decks
 dulls
 deckswabber
 decl
@@ -2762,6 +2761,7 @@ defeaters
 decorticate
 decorticating
 disembrace
+decks
 decortication
 dotlike
 decorticator
