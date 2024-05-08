@@ -5543,6 +5543,7 @@ flyboat
 flyboats
 flybrush
 felsophyre
+footrest
 filesave
 flatulences
 firefight
@@ -7238,7 +7239,6 @@ flanderkin
 footprint
 flocculating
 footraces
-footrest
 footrests
 footrope
 footropes
