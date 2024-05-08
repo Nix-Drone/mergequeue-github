@@ -5344,7 +5344,6 @@ flect
 frigefact
 flection
 flectionless
-flector
 flinter
 fido
 fledged
@@ -10603,6 +10602,7 @@ falderol
 frowziest
 facies
 frowzly
+flector
 froze
 fleapit
 frozenhearted
