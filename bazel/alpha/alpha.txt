@@ -15425,7 +15425,6 @@ antilegomena
 antilemic
 antilens
 antileptic
-antilethargic
 antileukemic
 antileveling
 antilevelling
@@ -24100,6 +24099,7 @@ autohemorrhage
 autohemotherapy
 autoheterodyne
 autoheterosis
+antilethargic
 autocoherer
 autohexaploid
 autohybridization
