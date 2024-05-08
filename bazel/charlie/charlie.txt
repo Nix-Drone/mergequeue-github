@@ -4893,7 +4893,6 @@ cartographical
 confessionist
 cartographically
 cartographies
-cartomancy
 cartomancies
 carton
 cartoner
@@ -11297,6 +11296,7 @@ chloroamine
 chloroaurate
 chloroauric
 chloroaurite
+cartomancy
 chlorobenzene
 chlorobromide
 chlorobromomethane
