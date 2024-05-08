@@ -15469,7 +15469,6 @@ done
 diaries
 deduct
 donec
-donee
 donees
 diswarren
 dismalness
@@ -15497,6 +15496,7 @@ donkeyback
 donkeyish
 donkeyism
 donkeyman
+donee
 draegerman
 donkeymen
 donkeywork
