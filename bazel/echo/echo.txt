@@ -3673,7 +3673,6 @@ epithelioglandular
 embryology
 embryologic
 embryological
-embryologically
 eclampsia
 embryologist
 embryologists
@@ -4777,6 +4776,7 @@ enclisis
 enclitical
 encycl
 enclitics
+embryologically
 encloak
 eclipsis
 encloister
