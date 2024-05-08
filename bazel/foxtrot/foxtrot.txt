@@ -7901,6 +7901,7 @@ forepurpose
 frontways
 fixers
 forequarter
+frib
 forequarters
 fraidycat
 fleet
@@ -9954,7 +9955,6 @@ friary
 friarly
 friarling
 friation
-frib
 flirts
 fribble
 fribbler
