@@ -4441,7 +4441,6 @@ adstipulating
 adstipulation
 adstipulator
 adsum
-adterminal
 adtevac
 aduana
 adular
@@ -24207,6 +24206,7 @@ automatontons
 apodeictically
 automatous
 automats
+adterminal
 automechanical
 avariciousness
 automechanism
