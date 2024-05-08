@@ -2109,7 +2109,6 @@ banky
 bankings
 bankman
 banality
-bankmen
 banknote
 barrelet
 badaud
@@ -3642,6 +3641,7 @@ bathman
 bathmat
 bathmats
 bereaven
+bankmen
 bathmism
 bathmotropism
 bathochromatism
