@@ -1107,7 +1107,6 @@ calcspars
 calctufas
 calctuff
 calculability
-calculable
 calculableness
 calculably
 calculary
@@ -5323,6 +5322,7 @@ castile
 castilla
 castilleja
 castillo
+calculable
 castilloa
 casting
 castings
