@@ -186,6 +186,7 @@ dadu
 demicannon
 daduchus
 dae
+durabilities
 diestocks
 daedal
 dirtier
@@ -18439,7 +18440,6 @@ defray
 denat
 dur
 dubitative
-durabilities
 durableness
 durables
 durably
