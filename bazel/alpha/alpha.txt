@@ -6868,6 +6868,7 @@ asseverations
 ammoniacal
 abhorrences
 airfare
+analyze
 amyctic
 airfares
 airfield
@@ -11742,7 +11743,6 @@ analytique
 analyzability
 analyzable
 analyzation
-analyze
 analyzed
 analyzers
 analyzes
