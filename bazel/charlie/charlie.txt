@@ -9564,7 +9564,6 @@ checkroll
 checkroom
 compathy
 checkrooms
-checkrope
 checkrow
 checkrower
 checkrowing
@@ -27532,6 +27531,7 @@ cowardness
 cowbane
 collided
 convive
+checkrope
 cowbanes
 cariosity
 cowbarn
