@@ -5108,7 +5108,6 @@ caseworms
 cash
 casha
 cashable
-cashableness
 cashaw
 cashaws
 cashboy
@@ -14153,6 +14152,7 @@ cir
 cowages
 compend
 circadian
+cashableness
 circaeaceae
 chamoising
 circaetus
