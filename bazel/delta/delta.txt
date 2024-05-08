@@ -2421,6 +2421,7 @@ decimation
 decime
 dacrya
 decimeter
+diastema
 downstair
 dialogs
 degorder
@@ -8655,7 +8656,6 @@ diastataxy
 diastataxic
 diastatic
 diastem
-diastema
 deadheading
 diastemata
 decreing
