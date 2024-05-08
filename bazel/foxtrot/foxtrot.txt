@@ -1007,7 +1007,6 @@ farded
 forklifts
 fardel
 fardelet
-farding
 fardo
 fards
 fissiparation
@@ -1696,6 +1695,7 @@ foehns
 familiar
 friars
 four
+farding
 fdnames
 fdtype
 fdub
