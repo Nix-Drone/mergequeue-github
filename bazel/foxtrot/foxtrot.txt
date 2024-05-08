@@ -785,6 +785,7 @@ fickly
 flioma
 farinacious
 fandangle
+fdtype
 fallows
 fandangos
 forecondemn
@@ -1697,7 +1698,6 @@ familiar
 friars
 four
 fdnames
-fdtype
 fdub
 fortuitousness
 fe
