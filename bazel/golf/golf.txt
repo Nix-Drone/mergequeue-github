@@ -8501,7 +8501,6 @@ garb
 grabbed
 gravure
 grazable
-gastight
 grazed
 grazer
 gradus
@@ -9481,6 +9480,7 @@ gynecology
 groupers
 glycolipin
 grouping
+gastight
 grouplet
 graven
 groupoid
