@@ -4606,7 +4606,6 @@ embosked
 externize
 encephalothlipsis
 encephalotome
-encephalotomy
 encephalotomies
 earths
 encephalous
@@ -8583,6 +8582,7 @@ equating
 essentializing
 equation
 equational
+encephalotomy
 equationally
 extraviolet
 equationist
