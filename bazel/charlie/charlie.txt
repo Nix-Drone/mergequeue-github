@@ -13846,7 +13846,6 @@ cinecamera
 cinefaction
 cinefilm
 cacosplanchnia
-cynegetic
 cynegild
 cinel
 cinema
@@ -17772,6 +17771,7 @@ codettas
 codette
 codeword
 codfish
+cynegetic
 codfisher
 codfisheries
 coniophora
