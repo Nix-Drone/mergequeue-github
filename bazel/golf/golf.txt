@@ -1791,7 +1791,6 @@ globelike
 gastroenteritis
 gluts
 gastroenteroanastomosis
-gastroenterocolitis
 gastroenterocolostomy
 gastroenterology
 gelatination
@@ -3218,6 +3217,7 @@ georama
 george
 georgemas
 gynecotelic
+gastroenterocolitis
 germanite
 georgia
 georgiadesite
