@@ -5495,7 +5495,6 @@ glycosyls
 gossipingly
 glycosin
 glycosuria
-glycosuric
 glycuronic
 graph
 glidder
@@ -9356,6 +9355,7 @@ grope
 groped
 gropers
 gropes
+glycosuric
 gropingly
 geneserin
 grosbeak
