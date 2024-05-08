@@ -677,7 +677,6 @@ bacteriosolvent
 bacteriostasis
 bacteriostat
 bacteriostatically
-bacteriotherapeutic
 bacteriotherapy
 balanophorin
 bacteriotoxic
@@ -4339,6 +4338,7 @@ beautyship
 buckoes
 bonaci
 beaux
+bacteriotherapeutic
 beaver
 beaverboard
 burgonet
