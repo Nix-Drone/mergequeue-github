@@ -816,7 +816,6 @@ danelaw
 dungeon
 dermititis
 daneweed
-daneweeds
 danged
 detections
 dangerful
@@ -2411,6 +2410,7 @@ dilogarithm
 decimalize
 decimalizes
 decimally
+daneweeds
 decimals
 dressages
 decimate
