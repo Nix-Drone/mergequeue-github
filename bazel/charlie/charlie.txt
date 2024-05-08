@@ -9988,7 +9988,6 @@ chenilles
 chenopod
 chenopodiaceae
 chenopodiaceous
-chenopodiales
 chenopodium
 chenopods
 cheongsam
@@ -11601,6 +11600,7 @@ choledography
 cholee
 cholehematin
 choleic
+chenopodiales
 choleine
 choleinic
 colorization
