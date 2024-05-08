@@ -7431,6 +7431,7 @@ fey
 forceput
 fazing
 forces
+fragrancies
 forcet
 forches
 forcy
@@ -8347,7 +8348,6 @@ flickery
 forlay
 forlain
 forlanas
-fragrancies
 forlane
 forleave
 forleaving
