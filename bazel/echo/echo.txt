@@ -4787,7 +4787,6 @@ experimentalists
 enclosed
 elem
 enclosers
-enclosing
 efik
 enclosures
 excentral
@@ -13463,6 +13462,7 @@ exsectile
 emmarbling
 exsecting
 exsector
+enclosing
 exsects
 exsert
 exserted
