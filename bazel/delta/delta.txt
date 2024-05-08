@@ -11046,7 +11046,6 @@ disapprovable
 diaplasma
 disapprovals
 disapproved
-disapprover
 disapproves
 disapprovingly
 dysaptation
@@ -13748,6 +13747,7 @@ distaves
 dystaxia
 dystaxias
 dystectic
+disapprover
 dysteleology
 dysteleologist
 distelfink
