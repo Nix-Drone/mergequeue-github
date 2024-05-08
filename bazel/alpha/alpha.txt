@@ -4725,7 +4725,6 @@ aedeagus
 aedegi
 aedicula
 aediculae
-aedicule
 aedile
 aediles
 aedileship
@@ -18173,6 +18172,7 @@ anconeal
 aptian
 aptiana
 aptychus
+aedicule
 aproning
 aptitude
 anaudia
