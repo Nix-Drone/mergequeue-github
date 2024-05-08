@@ -5900,7 +5900,6 @@ encrinoidea
 enhorror
 enhort
 ectozoic
-encolor
 enhuile
 enhunger
 enhungered
@@ -8158,6 +8157,7 @@ eavesing
 extracalicular
 elect
 episcenium
+encolor
 episcia
 episclera
 episcleral
