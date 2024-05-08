@@ -2647,7 +2647,6 @@ decommissions
 deepens
 decompensate
 decompensated
-decompensates
 decompensating
 diverge
 decompensation
@@ -8713,6 +8712,7 @@ diatomicity
 diatomin
 diatomine
 diatomist
+decompensates
 diatomous
 diatoms
 diatonic
