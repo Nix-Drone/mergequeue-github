@@ -7425,7 +7425,6 @@ ceramiaceae
 cayuco
 ceramicist
 ceramicite
-ceramics
 cledge
 ceramidium
 ceramist
@@ -9935,6 +9934,7 @@ chemosphere
 chemospheric
 christenhead
 chemostat
+ceramics
 collateral
 cancers
 chemosterilants
