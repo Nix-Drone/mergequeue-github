@@ -3957,7 +3957,6 @@ adjectitious
 adjectival
 adjectivally
 autoactivation
-adjective
 adjectively
 adjectives
 adjectivism
@@ -4631,6 +4630,7 @@ advertizes
 advertizing
 adverts
 adviceful
+adjective
 advices
 advisable
 advisableness
