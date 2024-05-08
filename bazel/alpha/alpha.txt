@@ -18789,7 +18789,6 @@ archcheater
 archchemic
 archchronicler
 archconfraternity
-archconsoler
 archconspirator
 archcorrupter
 archcorsair
@@ -23947,6 +23946,7 @@ autoclasis
 autoclave
 autocomplexes
 autoclaves
+archconsoler
 autoclaving
 autocoder
 autocoenobium
