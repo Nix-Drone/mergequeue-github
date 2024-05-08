@@ -5976,7 +5976,6 @@ grain
 glovemaker
 gametes
 gloveman
-glover
 gloves
 glow
 girnel
@@ -6162,6 +6161,7 @@ gonepoietic
 glutelins
 glutenin
 glutenous
+glover
 glutens
 gluteofemoral
 gluteoinguinal
