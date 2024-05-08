@@ -4446,6 +4446,7 @@ formatting
 fissility
 formatter
 fission
+foreassign
 fissionable
 fissioned
 frays
@@ -7512,7 +7513,6 @@ foxtail
 frappeing
 franklinite
 forearms
-foreassign
 fossage
 foreassurance
 forebackwardly
