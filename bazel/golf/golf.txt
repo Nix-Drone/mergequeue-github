@@ -1464,7 +1464,6 @@ garmentmaker
 gibingly
 garments
 glutael
-garmenture
 garmentworker
 growlers
 garnel
@@ -7655,6 +7654,7 @@ gradiometer
 gnaw
 general
 granters
+garmenture
 gradiometric
 grads
 granzita
