@@ -5358,7 +5358,6 @@ affixes
 affixial
 affixion
 affixment
-ague
 affixture
 afflate
 afflated
@@ -15386,6 +15385,7 @@ antihormone
 antihum
 achenia
 antihuman
+ague
 antihumanism
 antihumanist
 antihumanistic
