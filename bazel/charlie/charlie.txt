@@ -4634,7 +4634,6 @@ carpetmaker
 carpetmaking
 carpetmonger
 carpets
-carpetweb
 carpetweed
 carpetwork
 carpetwoven
@@ -31521,6 +31520,7 @@ curstful
 curstfully
 curstness
 curt
+carpetweb
 curtail
 curtailed
 curtailedly
