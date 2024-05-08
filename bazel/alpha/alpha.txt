@@ -8801,7 +8801,6 @@ asherim
 allodiary
 amphistomoid
 allodiaries
-allodification
 allodium
 allods
 apiaries
@@ -22071,6 +22070,7 @@ asthenolith
 apposes
 aphidophagous
 asthenology
+allodification
 asthenope
 asthenophobia
 asthenopia
