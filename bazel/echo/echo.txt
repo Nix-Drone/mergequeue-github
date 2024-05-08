@@ -2920,7 +2920,6 @@ elfwort
 elhi
 etches
 electroanalysis
-elian
 eisodic
 enanthesis
 endoradiosonde
@@ -3067,6 +3066,7 @@ ellerian
 ellfish
 ellice
 ellick
+elian
 encirclements
 elling
 entellus
