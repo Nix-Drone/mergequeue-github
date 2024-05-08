@@ -2968,7 +2968,6 @@ eutechnic
 eliminable
 eliminand
 eliminant
-eliminate
 entoplastic
 eliminated
 eliminates
@@ -7840,6 +7839,7 @@ epigastria
 epigastric
 epigastrical
 epigastriocele
+eliminate
 epigastrium
 epigastrocele
 eliminations
