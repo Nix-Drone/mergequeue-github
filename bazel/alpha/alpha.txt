@@ -7874,7 +7874,6 @@ aleppo
 alerce
 alerion
 alerse
-alert
 alerta
 anorak
 alerted
@@ -24489,6 +24488,7 @@ autre
 autrefois
 autumn
 autumnal
+alert
 autumnally
 autumnian
 autumnity
