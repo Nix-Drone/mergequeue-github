@@ -4267,7 +4267,6 @@ gymnoderinae
 gymnodiniaceous
 gymnodiniidae
 gymnodinium
-gymnodont
 garn
 goatling
 gouge
@@ -4809,6 +4808,7 @@ gyroscopics
 gyrose
 gyrostabilized
 gyrostat
+gymnodont
 gyrostats
 gyrotheca
 girouette
