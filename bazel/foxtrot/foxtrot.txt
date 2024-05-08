@@ -5344,7 +5344,6 @@ flect
 frigefact
 flection
 flectionless
-flector
 flinter
 fido
 fledged
@@ -7127,6 +7126,7 @@ foot
 footage
 footages
 footback
+flector
 football
 footballist
 footballs
