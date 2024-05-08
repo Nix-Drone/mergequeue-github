@@ -5046,7 +5046,6 @@ eland
 endjunk
 evens
 endleaf
-endleaves
 endless
 excuses
 endlessly
@@ -12048,6 +12047,7 @@ excitometabolic
 excitomotor
 excitomotory
 exciton
+endleaves
 excitonic
 excitons
 excitonutrient
