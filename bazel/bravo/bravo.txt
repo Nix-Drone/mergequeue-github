@@ -517,7 +517,6 @@ backstays
 backster
 backstick
 backstitch
-backstitched
 backstitches
 backstitching
 backstop
@@ -7930,6 +7929,7 @@ bibliographer
 batonne
 bibliographers
 bewigged
+backstitched
 boiling
 bibliography
 bibliographic
