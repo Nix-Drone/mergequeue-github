@@ -4902,7 +4902,6 @@ aerobiological
 aerobiologically
 aerobiologist
 amidase
-aerobiont
 aerobioscope
 aerobiosis
 aerobiotic
@@ -7777,6 +7776,7 @@ ale
 alea
 aleak
 aleatory
+aerobiont
 aleatoric
 alebench
 aleberry
