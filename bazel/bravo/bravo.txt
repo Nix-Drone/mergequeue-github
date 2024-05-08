@@ -9278,7 +9278,6 @@ brulyies
 biped
 bipedal
 bipedality
-bipedism
 bipeds
 bipeltate
 blepharophthalmia
@@ -10730,6 +10729,7 @@ blephariglottis
 blepharism
 blepharitic
 blepharoadenitis
+bipedism
 blepharoadenoma
 belles
 blepharoatheroma
