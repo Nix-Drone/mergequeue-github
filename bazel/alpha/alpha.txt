@@ -10717,7 +10717,6 @@ ammocoetes
 ammocoetid
 ammocoetidae
 abides
-ammocoetoid
 ammodyte
 arteriole
 ammodytes
@@ -20366,6 +20365,7 @@ autothermy
 arsenicked
 arsenicophagy
 arsenics
+ammocoetoid
 arsenide
 arsenides
 arseniferous
