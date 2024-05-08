@@ -927,7 +927,6 @@ agglutinating
 absences
 absent
 ascochyta
-absentation
 absented
 absentee
 absentees
@@ -4955,6 +4954,7 @@ aerofoils
 algine
 arisaema
 aerogel
+absentation
 aerogels
 antilogous
 assigned
