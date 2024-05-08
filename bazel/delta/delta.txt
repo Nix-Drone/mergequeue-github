@@ -2468,7 +2468,6 @@ deckels
 decken
 decker
 daphnioid
-deckhand
 deckhead
 deckhouse
 deckle
@@ -4577,6 +4576,7 @@ dodgiest
 demidigested
 desperateness
 discircumspection
+deckhand
 demidistance
 demiditone
 demidog
