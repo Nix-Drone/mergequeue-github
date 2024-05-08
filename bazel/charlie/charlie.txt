@@ -11293,7 +11293,6 @@ chloroacetic
 chloroacetone
 chloroacetophenone
 chloroamide
-chloroamine
 chloroaurate
 chloroauric
 chloroaurite
@@ -11949,6 +11948,7 @@ choreutic
 chorial
 choriamb
 choriambi
+chloroamine
 choriambic
 choriambize
 choriambs
