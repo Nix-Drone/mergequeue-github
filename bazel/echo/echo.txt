@@ -2306,7 +2306,6 @@ expert
 electrine
 electrizable
 electrization
-earthenware
 electro
 electroacoustic
 ecblastpsis
@@ -4901,6 +4900,7 @@ encrust
 encrustant
 encrustation
 encrusted
+earthenware
 encrusting
 eversporting
 enculturation
