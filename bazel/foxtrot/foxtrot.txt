@@ -5469,7 +5469,6 @@ fleshmonger
 fleshpot
 fleshquake
 flet
-flagfall
 fleta
 fletched
 fletcherism
@@ -10227,6 +10226,7 @@ frivoller
 flatweed
 frivolling
 frivolous
+flagfall
 frivolousness
 frivols
 fundus
