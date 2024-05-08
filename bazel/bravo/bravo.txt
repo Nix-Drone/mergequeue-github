@@ -12688,7 +12688,6 @@ bookplates
 barwise
 bookpress
 bookrack
-bookracks
 baronry
 barrulety
 bookrest
@@ -13277,6 +13276,7 @@ botchers
 botches
 botchy
 botchier
+bookracks
 botchily
 botchiness
 bairnteem
