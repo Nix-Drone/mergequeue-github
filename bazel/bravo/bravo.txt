@@ -4251,7 +4251,6 @@ beastlings
 beastship
 beat
 beata
-beatable
 beatably
 beatae
 beatas
@@ -4354,6 +4353,7 @@ beaverroot
 beavers
 beaverskin
 beaverteen
+beatable
 beaverwood
 beback
 bebay
