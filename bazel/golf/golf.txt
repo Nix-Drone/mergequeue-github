@@ -2695,7 +2695,6 @@ generalistic
 generalists
 generaliter
 generalities
-generalizations
 generalize
 genl
 gyrations
@@ -5886,6 +5885,7 @@ glossless
 glossocele
 glossaries
 glossocoma
+generalizations
 gynaecomastia
 glossocomium
 gonotheca
