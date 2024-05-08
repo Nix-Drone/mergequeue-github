@@ -5560,6 +5560,7 @@ afteract
 afterage
 afterattack
 afterbay
+autoluminescence
 appetitive
 afterband
 absorbs
@@ -24167,7 +24168,6 @@ autology
 autological
 autologist
 autologous
-autoluminescence
 alienicolae
 autoluminescent
 automa
