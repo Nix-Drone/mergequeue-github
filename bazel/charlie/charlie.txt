@@ -8608,6 +8608,7 @@ chancellorships
 chancelor
 chancelry
 calathidium
+convert
 chancels
 chanceman
 chancemen
@@ -24114,7 +24115,6 @@ catoptrics
 conversive
 converso
 conversusi
-convert
 convertaplane
 converted
 convertend
