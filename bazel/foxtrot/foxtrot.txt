@@ -7219,7 +7219,6 @@ footmen
 footnote
 footnoted
 footpace
-footpaces
 forefather
 feriae
 fifer
@@ -9082,6 +9081,7 @@ fourth
 fixated
 fourther
 fourthly
+footpaces
 foute
 ferity
 federal
