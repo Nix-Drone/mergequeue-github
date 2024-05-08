@@ -4660,7 +4660,6 @@ byplays
 bedcovers
 beddable
 bedders
-bedding
 beddingroll
 beddings
 bede
@@ -13578,6 +13577,7 @@ buddhahood
 borrelomycetaceae
 brochan
 bacbakiri
+bedding
 bountihead
 bountyless
 bountiousness
