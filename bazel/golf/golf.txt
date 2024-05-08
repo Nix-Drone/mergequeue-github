@@ -1391,6 +1391,7 @@ grippers
 gazania
 gare
 garefowl
+geopony
 garefowls
 germanhood
 garetta
@@ -1853,7 +1854,6 @@ guardfish
 gastronosus
 gastroparalysis
 globalized
-geopony
 gastroparesis
 gunstocker
 gastroparietal
