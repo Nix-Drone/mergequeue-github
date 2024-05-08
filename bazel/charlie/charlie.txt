@@ -14875,7 +14875,6 @@ cytoarchitecture
 certioration
 cytoblast
 confidences
-cytoblastema
 cytoblastemal
 cytoblastematous
 cytoblastemous
@@ -22490,6 +22489,7 @@ circumcision
 conjunction
 conjunctional
 coohee
+cytoblastema
 conjunctionally
 conjunctions
 conjunctiva
