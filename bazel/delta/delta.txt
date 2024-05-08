@@ -4698,7 +4698,6 @@ demirelief
 dourahs
 demirep
 demireps
-demirevetment
 demirhumb
 demirilievo
 demirobe
@@ -13461,6 +13460,7 @@ dissceptered
 dissceptre
 dissceptred
 doat
+demirevetment
 dissceptring
 disscussive
 disseat
