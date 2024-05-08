@@ -1696,6 +1696,7 @@ foehns
 familiar
 friars
 four
+flintlocks
 fdnames
 fdtype
 fdub
@@ -4906,7 +4907,6 @@ flameouts
 flameproof
 formulize
 flameproofer
-flintlocks
 finfishes
 flamer
 flamers
