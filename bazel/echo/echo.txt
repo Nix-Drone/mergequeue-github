@@ -5045,7 +5045,6 @@ endive
 eland
 endjunk
 evens
-endleaf
 endleaves
 endless
 excuses
@@ -6103,6 +6102,7 @@ enneagons
 enneahedra
 ependyma
 enneahedral
+endleaf
 enneahedria
 enneahedron
 eyepoints
