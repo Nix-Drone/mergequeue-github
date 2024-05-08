@@ -7517,7 +7517,6 @@ ephemerides
 ephemeris
 ephemeromorph
 ephemeromorphic
-ephemeron
 ephemeroptera
 eigne
 ephemerous
@@ -11997,6 +11996,7 @@ excided
 exocataphoria
 excides
 equinoxes
+ephemeron
 encephalitis
 exciding
 excipient
