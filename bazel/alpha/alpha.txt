@@ -2772,7 +2772,6 @@ acrider
 acridest
 achromaticity
 acridid
-acrididae
 acridiidae
 acridyl
 acridin
@@ -8758,6 +8757,7 @@ allocatee
 allocates
 allocating
 allocation
+acrididae
 amyosthenia
 aqueoglacial
 allocator
