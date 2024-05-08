@@ -5343,6 +5343,7 @@ flecnodal
 flect
 frigefact
 flection
+fusiform
 flectionless
 flector
 flinter
@@ -11582,7 +11583,6 @@ footlight
 fusibleness
 fusibly
 fusicladium
-fusiform
 fusil
 fusilade
 fusiladed
