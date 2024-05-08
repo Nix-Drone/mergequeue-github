@@ -4646,7 +4646,6 @@ advisees
 advisement
 atli
 advisements
-adviser
 advisers
 advisership
 advises
@@ -13552,6 +13551,7 @@ annihilatory
 annihilators
 anniversalily
 anniversary
+adviser
 arthrorrhagia
 anniversariness
 anniverse
