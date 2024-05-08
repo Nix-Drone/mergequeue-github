@@ -2411,7 +2411,6 @@ fourchet
 feres
 feretory
 firearmed
-feretories
 fiques
 frontes
 ferfel
@@ -4623,6 +4622,7 @@ fixator
 fixature
 fixe
 farmsteading
+feretories
 fixed
 foveated
 fennecs
