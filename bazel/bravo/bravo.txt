@@ -3642,6 +3642,7 @@ bathman
 bathmat
 bathmats
 bereaven
+bluffable
 bathmism
 bathmotropism
 bathochromatism
@@ -11406,7 +11407,6 @@ blueweeds
 bluewood
 bluewoods
 bluff
-bluffable
 berith
 brunette
 bluffed
