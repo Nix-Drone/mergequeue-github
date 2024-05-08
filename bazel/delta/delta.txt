@@ -1740,7 +1740,6 @@ debarkations
 dobroes
 dodecuplet
 demagnetisable
-debarked
 debarking
 debarkment
 debarks
@@ -11351,6 +11350,7 @@ disciplelike
 disciples
 disciplinability
 disciplinable
+debarked
 disciplinableness
 disciplinal
 disciplinant
