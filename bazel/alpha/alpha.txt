@@ -6456,7 +6456,6 @@ agrionidae
 agriot
 arborescent
 agriotype
-agriotypidae
 agriotypus
 agrypnia
 agrypniai
@@ -20608,6 +20607,7 @@ arthromeric
 arthrometer
 arthrometry
 arthron
+agriotypidae
 arthroncus
 arthroneuralgia
 ambitioned
