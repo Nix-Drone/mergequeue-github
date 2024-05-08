@@ -1587,7 +1587,6 @@ acclinal
 acclinate
 acclivity
 acclivities
-acclivitous
 acclivous
 accloy
 archengineer
@@ -17571,6 +17570,7 @@ appalto
 appanage
 appanaged
 acrocera
+acclivitous
 appanages
 appanaging
 audiogenic
