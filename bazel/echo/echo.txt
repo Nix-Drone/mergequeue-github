@@ -9160,7 +9160,6 @@ erythrocytolysin
 erythrocytolysis
 engl
 erythrocytolytic
-eelier
 erythrocytometer
 erythrocytometry
 erythrocytorrhexis
@@ -12685,6 +12684,7 @@ exogenic
 epipleurae
 exogenous
 exogenously
+eelier
 excurvation
 exogyra
 exognathion
