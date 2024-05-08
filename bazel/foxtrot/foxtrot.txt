@@ -6714,7 +6714,6 @@ foetus
 fofarraw
 flanger
 fog
-fogbank
 fogbound
 fogbow
 flyblow
@@ -8355,6 +8354,7 @@ forleit
 futuristic
 forlese
 forlet
+fogbank
 ferulaic
 frenziedness
 forletting
