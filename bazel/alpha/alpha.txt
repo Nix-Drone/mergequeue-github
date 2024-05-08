@@ -5670,6 +5670,7 @@ afterpiece
 afterplanting
 afterpotential
 autolysis
+allylation
 afterpressure
 afterproof
 afterrake
@@ -8708,7 +8709,6 @@ allyic
 allying
 allyl
 allylate
-allylation
 allylic
 allylthiourea
 allineate
