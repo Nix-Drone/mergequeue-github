@@ -1,4 +1,3 @@
-emotes
 e
 epigramme
 eschoppe
@@ -11279,6 +11278,7 @@ etherin
 evaluating
 evaluations
 evaluative
+emotes
 evaluator
 electrocardiography
 evalue
