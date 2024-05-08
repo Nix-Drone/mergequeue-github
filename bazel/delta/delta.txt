@@ -11179,7 +11179,6 @@ disbloom
 disboard
 disbody
 disbodied
-disbogue
 disboscation
 disbosom
 disbosomed
@@ -18506,6 +18505,7 @@ durmast
 durmasts
 durndest
 durned
+disbogue
 durneder
 durnedest
 durns
