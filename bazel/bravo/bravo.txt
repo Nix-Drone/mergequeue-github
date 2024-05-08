@@ -12215,6 +12215,7 @@ bowenite
 bolter
 bolters
 boltheader
+burez
 behold
 boltheading
 bolthole
@@ -17603,7 +17604,6 @@ buret
 burets
 burette
 burettes
-burez
 burfish
 burg
 bimolecular
