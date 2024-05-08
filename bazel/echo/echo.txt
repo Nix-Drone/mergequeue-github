@@ -3872,7 +3872,6 @@ emeses
 emesidae
 emesis
 emetia
-emetic
 emetics
 emetines
 entrapped
@@ -7902,6 +7901,7 @@ epigrammatise
 epigrammatising
 epigrammatize
 epigrammatized
+emetic
 echoingly
 epigrammatizer
 epigrammatizing
