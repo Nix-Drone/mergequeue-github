@@ -1964,7 +1964,6 @@ bandless
 bejabers
 bodrag
 blastoff
-bandlet
 bandlimited
 breadwinners
 bandlimiting
@@ -11385,6 +11384,7 @@ bluestem
 bluestems
 bluestocking
 bluestockingish
+bandlet
 bogwort
 bethreaten
 bluestockings
