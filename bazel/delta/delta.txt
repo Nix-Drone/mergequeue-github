@@ -3541,7 +3541,6 @@ defrayable
 defrayal
 defrayals
 decadarchy
-defrayed
 defrayer
 defrayers
 defraying
@@ -15995,6 +15994,7 @@ distortedness
 decrepitude
 double
 doubleganger
+defrayed
 doublegear
 doublehanded
 doublehandedly
