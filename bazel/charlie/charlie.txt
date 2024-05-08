@@ -3243,6 +3243,7 @@ caporals
 counterweighing
 capot
 capotasto
+conformational
 capotastos
 capote
 capotes
@@ -3841,7 +3842,6 @@ carbureted
 carburetest
 carbureting
 carburetion
-conformational
 carburetors
 carburets
 cuffer
