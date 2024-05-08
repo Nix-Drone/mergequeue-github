@@ -15679,7 +15679,6 @@ clattertraps
 clatty
 clauber
 claucht
-claude
 claudent
 claudetite
 claudetites
@@ -18074,6 +18073,7 @@ coerce
 coerceable
 coerced
 condylarth
+claude
 coercement
 coercend
 coercer
