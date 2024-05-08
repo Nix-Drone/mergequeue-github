@@ -6309,6 +6309,7 @@ faulted
 fluidness
 fluidounce
 friskers
+forbit
 fluidram
 flaff
 fluorapatite
@@ -10242,7 +10243,6 @@ felonries
 frizel
 frizers
 frizes
-forbit
 frizette
 frizettes
 frizing
