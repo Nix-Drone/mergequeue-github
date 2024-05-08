@@ -3932,7 +3932,6 @@ doggerelize
 delundung
 damper
 dekalitre
-dekameter
 dekameters
 debutante
 decumani
@@ -12871,6 +12870,7 @@ disconsider
 dysorexia
 disorganic
 disorganise
+dekameter
 disorganised
 despisal
 dispapalize
