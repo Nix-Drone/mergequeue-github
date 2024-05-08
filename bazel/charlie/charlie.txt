@@ -7860,7 +7860,6 @@ cervid
 cervinae
 cervine
 cervisial
-cervix
 cervixes
 cervoid
 cervuline
@@ -9154,6 +9153,7 @@ charterer
 charterers
 charterhouse
 chartering
+cervix
 charterism
 charterist
 charterless
