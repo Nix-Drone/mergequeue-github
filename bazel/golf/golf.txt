@@ -1345,7 +1345,6 @@ graveldiver
 goodship
 grex
 garbline
-garbling
 gushes
 garblings
 garbo
@@ -9484,6 +9483,7 @@ grouping
 grouplet
 graven
 groupoid
+garbling
 giddying
 groupthink
 grivets
