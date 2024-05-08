@@ -2802,7 +2802,6 @@ dunker
 decrees
 decreet
 dop
-decrement
 decremental
 decrementing
 decrements
@@ -18077,6 +18076,7 @@ dumba
 dumbbell
 demesnes
 dumbbells
+decrement
 dumbcow
 damia
 dumbed
