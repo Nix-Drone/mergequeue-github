@@ -7154,7 +7154,6 @@ detax
 detd
 detect
 detectability
-daishiki
 detected
 detecter
 detecters
@@ -12048,6 +12047,7 @@ dojiggy
 disentrancing
 depotentiation
 disentwined
+daishiki
 diagnoseable
 disentwining
 disenchants
