@@ -2565,7 +2565,6 @@ bargainee
 bargainer
 bargaining
 bargainor
-bargander
 bumptiously
 barge
 bargeboard
@@ -15114,6 +15113,7 @@ brewing
 brewings
 brewis
 brewises
+bargander
 bocks
 brewmaster
 bibliopolistic
