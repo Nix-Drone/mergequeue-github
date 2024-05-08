@@ -9538,6 +9538,7 @@ checkhook
 checky
 checklaton
 checkle
+cohesiveness
 checkless
 checklist
 checklists
@@ -18410,7 +18411,6 @@ cohesible
 cohesion
 cohesionless
 cohesive
-cohesiveness
 cohibit
 cohibition
 cohibitive
