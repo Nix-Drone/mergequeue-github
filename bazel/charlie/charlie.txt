@@ -14495,7 +14495,6 @@ cyrilla
 cyrillaceous
 cyrillian
 cyrillianism
-cyrillic
 cannot
 cyriologic
 cirl
@@ -24305,6 +24304,7 @@ cookhouses
 caught
 cooky
 cookie
+cyrillic
 cookish
 cookishly
 charbroiling
