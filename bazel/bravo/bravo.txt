@@ -6586,7 +6586,6 @@ bepuzzle
 bepuzzlement
 bequalm
 bequeath
-bequeathal
 bequeathed
 bequeather
 bequeathing
@@ -8521,6 +8520,7 @@ bilateralities
 behaviors
 bilaterally
 bothriums
+bequeathal
 bilati
 bylawman
 bylaws
