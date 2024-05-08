@@ -2217,6 +2217,7 @@ antecedents
 ardor
 achievements
 achievers
+adherents
 achieves
 aiguillesque
 acoin
@@ -3799,7 +3800,6 @@ adherency
 adherend
 adherends
 adherently
-adherents
 adherer
 adherers
 adheres
