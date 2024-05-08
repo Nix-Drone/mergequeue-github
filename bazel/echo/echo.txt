@@ -1118,6 +1118,7 @@ expurgatory
 edibleness
 edibles
 edictal
+energist
 edictally
 edictum
 edicule
@@ -5502,7 +5503,6 @@ energiser
 energising
 energism
 eupatrids
-energist
 energize
 enharmonically
 energized
