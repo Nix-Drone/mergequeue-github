@@ -78,7 +78,6 @@ gomphosis
 gables
 gablet
 genapped
-gablewindowed
 gorst
 gogga
 gablewise
@@ -1908,6 +1907,7 @@ gastrostomize
 gastrostomus
 gastrotaxis
 gastrothecal
+gablewindowed
 gastrotome
 gastrotomy
 gastrotomic
