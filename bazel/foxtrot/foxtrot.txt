@@ -3614,7 +3614,6 @@ filemot
 foreknee
 filename
 filenames
-filer
 fanons
 filers
 files
@@ -8094,6 +8093,7 @@ foresummon
 foreswear
 foreswearing
 funkiest
+filer
 foresweat
 foreswore
 fumacious
