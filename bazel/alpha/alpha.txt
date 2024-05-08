@@ -8956,7 +8956,6 @@ allotriophagia
 allotriuria
 allotrope
 allotropy
-allotropic
 allotropical
 allotropically
 allotropicity
@@ -15666,6 +15665,7 @@ antimusical
 antimusically
 antimusicalness
 antinarcotic
+allotropic
 antinarcotics
 antinationalistic
 antinationalistically
