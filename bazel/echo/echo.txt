@@ -11254,6 +11254,7 @@ evacuator
 evacuators
 exteriors
 evacue
+exhaust
 evacuees
 evadable
 evade
@@ -12436,7 +12437,6 @@ exhalent
 exhalents
 exhales
 exhaling
-exhaust
 exhausted
 exhaustedly
 extend
