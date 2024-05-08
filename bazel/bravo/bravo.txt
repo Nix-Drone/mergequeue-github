@@ -3807,7 +3807,6 @@ battleful
 butterburr
 battakhin
 battlegrounds
-battlement
 battlements
 battlepiece
 battleplane
@@ -16146,6 +16145,7 @@ broos
 broose
 broquery
 ballgown
+battlement
 bros
 broses
 bloodhound
