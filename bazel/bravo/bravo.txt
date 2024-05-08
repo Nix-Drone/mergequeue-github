@@ -1271,7 +1271,6 @@ bruke
 bromochlorophenol
 balaenicipites
 balaenidae
-balaenoid
 balaenoidea
 balaenoidean
 balaenoptera
@@ -5932,6 +5931,7 @@ belonger
 belonging
 basisphenoid
 bailiffship
+balaenoid
 belongs
 belonid
 belonidae
