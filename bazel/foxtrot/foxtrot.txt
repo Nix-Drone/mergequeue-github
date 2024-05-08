@@ -4806,7 +4806,6 @@ filiform
 flagrate
 frostbiter
 fibrinuria
-flagroot
 flags
 flagship
 fuss
@@ -7923,6 +7922,7 @@ fulminic
 foredates
 flannelbush
 foreroyal
+flagroot
 forerun
 forerunner
 forerunners
