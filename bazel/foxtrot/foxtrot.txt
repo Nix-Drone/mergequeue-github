@@ -3614,7 +3614,6 @@ filemot
 foreknee
 filename
 filenames
-filer
 fanons
 filers
 files
@@ -8207,6 +8206,7 @@ forfication
 forficiform
 fiercening
 forficulate
+filer
 fungosity
 fioriture
 forficulidae
