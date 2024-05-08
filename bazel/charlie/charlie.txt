@@ -142,7 +142,6 @@ catholici
 cabled
 cablegrams
 cablelaid
-cableless
 cablelike
 cableman
 cablemen
@@ -5300,6 +5299,7 @@ castelli
 castellum
 casten
 caster
+cableless
 casterless
 casters
 castes
