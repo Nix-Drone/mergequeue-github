@@ -2670,7 +2670,6 @@ barytones
 byres
 bedaff
 barytons
-barytophyllite
 barytosulphate
 bridgelike
 barkan
@@ -11089,6 +11088,7 @@ bloodletter
 bloodlines
 bloodlusting
 bloodmobile
+barytophyllite
 broguing
 bertholletia
 brachiopodous
