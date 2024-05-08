@@ -4193,7 +4193,6 @@ gim
 gimbal
 gimbaled
 gimballed
-groundsheet
 groining
 guildry
 gimberjawed
@@ -6531,6 +6530,7 @@ gogglers
 ganoidal
 goggles
 ghostlet
+groundsheet
 goggly
 gavialis
 greenwort
