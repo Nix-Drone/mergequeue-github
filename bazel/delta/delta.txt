@@ -2472,6 +2472,7 @@ deckhand
 deckhead
 deckhouse
 deckle
+delations
 deckman
 deckpipe
 decks
@@ -3993,7 +3994,6 @@ delatinization
 delatinize
 delation
 dispermy
-delations
 delator
 delators
 delaw
