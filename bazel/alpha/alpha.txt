@@ -3907,7 +3907,6 @@ adipogenous
 adipoid
 adipolysis
 adipolytic
-adipoma
 adipomata
 adipomatous
 adipometer
@@ -18620,6 +18619,7 @@ arboricolous
 arboricultural
 arboriculture
 arboriform
+adipoma
 arborist
 arborists
 acidophilous
