@@ -6481,7 +6481,6 @@ gramophones
 goundou
 grubstaker
 gyromagnetic
-geographic
 glued
 goblins
 gobo
@@ -10150,6 +10149,7 @@ guidelines
 guidepost
 guideposts
 guiders
+geographic
 ghess
 guidership
 genial
