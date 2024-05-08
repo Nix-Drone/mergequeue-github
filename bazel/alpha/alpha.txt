@@ -2416,7 +2416,6 @@ acidophilic
 acidoses
 afternoon
 acidosis
-acidosteophyte
 acidotic
 acidproof
 acids
@@ -9645,6 +9644,7 @@ alveolation
 alveole
 alveolectomy
 alveoli
+acidosteophyte
 accidie
 alveoliform
 aduncated
