@@ -2643,7 +2643,6 @@ administratorship
 acost
 acotyledon
 aircoach
-acotyledonous
 acouasm
 acouchi
 acoumeter
@@ -12356,6 +12355,7 @@ androclinia
 androclinium
 androclus
 androconia
+acotyledonous
 androconium
 abbeystede
 absorbition
