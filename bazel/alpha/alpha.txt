@@ -3901,7 +3901,6 @@ anthropological
 adipoceriform
 adipocerite
 adipocyte
-adipofibroma
 adipogenic
 adipogenous
 adipoid
@@ -4851,6 +4850,7 @@ aerations
 aerenchyma
 aery
 aerial
+adipofibroma
 aerialist
 accomplishing
 aeriality
