@@ -4415,7 +4415,6 @@ enantiomeric
 enantiomorph
 enantiomorphy
 enantiomorphic
-enantiomorphous
 ensconce
 enantiomorphously
 encephalosclerosis
@@ -11985,6 +11984,7 @@ exchangeability
 exchangeable
 exchanged
 emmeniopathy
+enantiomorphous
 exchangee
 exchanges
 exchanging
