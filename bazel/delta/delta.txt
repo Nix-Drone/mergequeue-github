@@ -4949,7 +4949,6 @@ demonstrability
 demonstrable
 destructing
 demonstrableness
-demonstrably
 demonstrandum
 demonstratability
 demonstratable
@@ -8396,6 +8395,7 @@ dialogued
 dialogues
 dialoguing
 dialonian
+demonstrably
 dials
 dialup
 dialuric
