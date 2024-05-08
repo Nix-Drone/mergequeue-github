@@ -6771,7 +6771,6 @@ celli
 celliferous
 celliform
 celling
-cellist
 cellists
 cellite
 continua
@@ -14138,6 +14137,7 @@ cypselid
 cypselidae
 cypseliform
 cypseliformes
+cellist
 copal
 cypseline
 colorist
