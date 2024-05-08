@@ -4217,7 +4217,6 @@ fireplug
 frieze
 fireplugs
 firepot
-fireproofed
 fireproofing
 fireproofness
 fireroom
@@ -10141,6 +10140,7 @@ frippery
 frankensteins
 fris
 fluoresage
+fireproofed
 frisado
 frisbee
 frisca
