@@ -3185,7 +3185,6 @@ actinouranium
 actinozoa
 actinozoan
 actinozoon
-actins
 actinula
 actinulae
 action
@@ -10987,6 +10986,7 @@ amper
 amperages
 ampere
 amperemeter
+actins
 amperes
 ampery
 amperian
