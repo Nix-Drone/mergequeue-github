@@ -9223,7 +9223,6 @@ biotype
 biotypes
 biotypic
 biotypology
-biotite
 biotites
 biotome
 buoys
@@ -11227,6 +11226,7 @@ blowbacks
 blowball
 backdrop
 blowballs
+biotite
 bon
 blowbys
 blowdown
