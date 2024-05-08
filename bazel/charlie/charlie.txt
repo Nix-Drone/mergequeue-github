@@ -8799,7 +8799,6 @@ chapattis
 chapbook
 chape
 chapeau
-chaped
 chapel
 cobriform
 chapeled
@@ -21305,6 +21304,7 @@ conchoid
 conchoidal
 conchoidally
 conchoids
+chaped
 communicableness
 conchol
 conchology
