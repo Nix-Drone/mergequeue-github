@@ -5975,6 +5975,7 @@ gloveless
 grain
 glovemaker
 gametes
+generatrix
 gloveman
 glover
 gloves
@@ -7466,7 +7467,6 @@ gluemaking
 gobiesocidae
 gout
 grigs
-generatrix
 getmesost
 goutiest
 glycopexia
