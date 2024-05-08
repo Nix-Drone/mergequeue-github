@@ -1627,7 +1627,6 @@ ballistocardiogram
 ballistocardiograph
 ballistocardiography
 ballistophobia
-ballywack
 ballywrack
 ballmine
 ballo
@@ -4831,6 +4830,7 @@ bedrop
 bedrown
 bedrowse
 bedrugged
+ballywack
 bedrugging
 beds
 bedscrew
