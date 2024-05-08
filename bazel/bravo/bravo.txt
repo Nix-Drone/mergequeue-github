@@ -3626,7 +3626,6 @@ babesiasis
 bathyplankton
 buglers
 baygall
-bathyscaph
 bathyscaphes
 bathyseism
 bathysmal
@@ -8101,6 +8100,7 @@ biclinium
 bicolored
 bleakish
 bicolorous
+bathyscaph
 bicolors
 bicolour
 bicoloured
