@@ -6439,7 +6439,6 @@ benzines
 benzins
 benzoate
 bisectrix
-benzoates
 benzoazurine
 benzobis
 benzocaine
@@ -13485,6 +13484,7 @@ bougie
 bougies
 bouillabaisse
 bouilli
+benzoates
 bouillone
 boodlers
 bouillons
