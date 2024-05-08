@@ -17918,7 +17918,6 @@ coelodont
 coelogastrula
 coelogyne
 coeloglossum
-coelom
 coeloma
 coelomata
 coelomate
@@ -27161,6 +27160,7 @@ countervairy
 countervallation
 countervalue
 countervaunt
+coelom
 coxarthrocace
 countervenom
 countervibration
