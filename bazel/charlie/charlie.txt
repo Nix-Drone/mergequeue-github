@@ -12616,7 +12616,6 @@ chronomancy
 chronomantic
 committed
 chronomastix
-chronometer
 chronometers
 chronometry
 corin
@@ -22797,6 +22796,7 @@ casthouse
 consentience
 consentient
 consentiently
+chronometer
 caliciform
 consenting
 consentingly
