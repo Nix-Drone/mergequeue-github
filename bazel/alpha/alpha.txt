@@ -1982,6 +1982,7 @@ acetacetic
 acetaldehyde
 acetaldehydrase
 acetaldol
+analysation
 acetalize
 acetals
 acetamid
@@ -11721,7 +11722,6 @@ analgize
 analysability
 analysable
 analysand
-analysation
 analyser
 analysers
 addressee
