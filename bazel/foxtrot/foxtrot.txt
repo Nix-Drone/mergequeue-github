@@ -4933,7 +4933,6 @@ flamless
 flammable
 filmogen
 floorers
-filefish
 flammation
 flammed
 fountains
@@ -8130,6 +8129,7 @@ femmes
 fretless
 foretop
 foretopman
+filefish
 foretopmast
 foretopmen
 foretops
