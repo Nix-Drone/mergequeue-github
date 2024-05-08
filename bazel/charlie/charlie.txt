@@ -1222,6 +1222,7 @@ clavicembali
 calibogus
 colunar
 calibrate
+carbonatization
 calibrated
 canichana
 calibrater
@@ -6789,7 +6790,6 @@ cells
 cellucotton
 cellular
 caloris
-carbonatization
 cellularity
 cellularly
 cellulase
