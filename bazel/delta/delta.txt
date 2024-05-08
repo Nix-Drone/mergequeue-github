@@ -3488,7 +3488,6 @@ defogs
 defoil
 daikering
 dawish
-defoliage
 defoliant
 dorsobranchiata
 defoliants
@@ -13309,6 +13308,7 @@ disquietedly
 disquietedness
 disquieten
 disquieter
+defoliage
 disquietingly
 disquietingness
 disquietly
