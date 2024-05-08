@@ -7285,7 +7285,6 @@ driveboat
 detesters
 detests
 dethronable
-dethroned
 dethronement
 dain
 dethrones
@@ -14934,6 +14933,7 @@ dogfighting
 delichon
 destroys
 dogfights
+dethroned
 dogfish
 dogfoot
 dogfought
