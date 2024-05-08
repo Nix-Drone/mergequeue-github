@@ -5590,7 +5590,6 @@ feoffment
 fissural
 fligged
 fligger
-feodum
 flight
 flighted
 flighter
@@ -9832,6 +9831,7 @@ frenches
 frenchification
 frenching
 frenchly
+feodum
 fidation
 frenchman
 floatable
