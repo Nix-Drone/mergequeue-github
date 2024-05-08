@@ -165,7 +165,6 @@ gastroscope
 grimliness
 greasiness
 gaduin
-gadus
 gadwall
 gadwalls
 ghrush
@@ -3308,6 +3307,7 @@ graftage
 geraniol
 geranium
 geophyte
+gadus
 geraniums
 getatability
 geranomorph
