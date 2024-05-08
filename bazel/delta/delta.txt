@@ -6210,7 +6210,6 @@ derives
 discontentment
 deriving
 derma
-dermabrasion
 dermal
 dermalgia
 dermalith
@@ -16873,6 +16872,7 @@ defortify
 drawtube
 decanically
 drawtubes
+dermabrasion
 declaiming
 drazel
 drch
