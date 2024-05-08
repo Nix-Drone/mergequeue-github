@@ -3364,7 +3364,6 @@ capsidal
 capsids
 capsizable
 capsizal
-capsize
 capsized
 capsizes
 capsomer
@@ -28924,6 +28923,7 @@ cricoarytenoid
 cricoid
 cricoids
 cricopharyngeal
+capsize
 cricothyreoid
 cricothyreotomy
 cricothyroid
