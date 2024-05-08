@@ -9576,7 +9576,6 @@ checkstring
 checksum
 construct
 checksummed
-checksumming
 checkup
 checkups
 checkweigher
@@ -24103,6 +24102,7 @@ conversibility
 contrition
 codirected
 conversible
+checksumming
 conversing
 conversion
 coraled
