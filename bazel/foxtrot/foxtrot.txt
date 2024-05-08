@@ -1841,7 +1841,6 @@ feats
 featural
 fainness
 fibrinogen
-feature
 forthrightly
 featured
 featureful
@@ -4804,6 +4803,7 @@ flagrance
 flagrancy
 filiform
 flagrate
+feature
 frostbiter
 fibrinuria
 flagroot
