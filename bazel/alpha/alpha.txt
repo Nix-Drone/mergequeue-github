@@ -2500,7 +2500,6 @@ acipenseres
 aedes
 acipenseridae
 acipenserine
-acipenseroid
 acipenseroidei
 acyrology
 acyrological
@@ -9632,6 +9631,7 @@ alvearium
 alveated
 archegoniophore
 anticynicism
+acipenseroid
 alvelos
 alveola
 alveolar
