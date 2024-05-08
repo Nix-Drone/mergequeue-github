@@ -5728,7 +5728,6 @@ categorem
 categorematic
 categorematical
 category
-categorial
 categoric
 chondrified
 categorical
@@ -7947,6 +7946,7 @@ cetaceous
 cetaceum
 cetane
 cetanes
+categorial
 cete
 ceteosaur
 cetera
