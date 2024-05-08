@@ -1683,7 +1683,6 @@ fawns
 fawnskin
 fax
 faxed
-fructuosity
 faxing
 fazes
 fc
@@ -6300,6 +6299,7 @@ fluidity
 fluidization
 fiefdom
 fluidized
+fructuosity
 followup
 fluidizer
 fingerflower
