@@ -13607,7 +13607,6 @@ bourdons
 bitte
 bant
 bourg
-befoolable
 bourgade
 bourgeois
 bourgeoisie
@@ -15173,6 +15172,7 @@ bryce
 brick
 brickbat
 brickbats
+befoolable
 borish
 brickbatted
 brickbatting
