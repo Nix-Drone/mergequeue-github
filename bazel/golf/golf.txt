@@ -5219,7 +5219,6 @@ glassrope
 glassteel
 gnathic
 guestship
-glasswork
 guider
 glassworker
 glassworkers
@@ -7510,6 +7509,7 @@ gobian
 grubbiest
 governs
 gothics
+glasswork
 graze
 globalism
 gowan
