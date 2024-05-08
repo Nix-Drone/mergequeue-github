@@ -4917,7 +4917,6 @@ encurl
 encurtain
 endosteal
 encushion
-end
 endable
 endamage
 endamageable
@@ -11769,6 +11768,7 @@ exam
 examen
 eleometer
 evacuate
+end
 exameter
 excretions
 eatery
