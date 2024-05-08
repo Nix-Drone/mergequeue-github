@@ -8487,7 +8487,6 @@ agone
 alkies
 alkylamine
 alkylamino
-alkylarylsulfonate
 alkylate
 alkylated
 alkylates
@@ -24393,6 +24392,7 @@ astoundable
 antimiscegenation
 autosoterism
 autospore
+alkylarylsulfonate
 augustest
 autosporic
 autospray
