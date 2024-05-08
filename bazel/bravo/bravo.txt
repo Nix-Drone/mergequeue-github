@@ -4415,6 +4415,7 @@ bebrother
 bebrush
 bidactyle
 bemirrorment
+brimfullness
 bebusy
 bebuttoned
 bec
@@ -15414,7 +15415,6 @@ brimborium
 brimful
 banns
 brimfully
-brimfullness
 brimfulness
 brimless
 bilboes
