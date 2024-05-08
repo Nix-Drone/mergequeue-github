@@ -15610,7 +15610,6 @@ doorless
 doormaid
 doormaker
 doorman
-doormat
 doormats
 doormen
 doornails
@@ -17703,6 +17702,7 @@ dualmutef
 dispense
 dualogue
 duals
+doormat
 duan
 duant
 dichotomistic
