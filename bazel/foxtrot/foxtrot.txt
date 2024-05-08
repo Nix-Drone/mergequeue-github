@@ -627,7 +627,6 @@ falsies
 forelimb
 falsifiability
 fannon
-falsifiable
 falsificate
 falsification
 falsifications
@@ -5202,6 +5201,7 @@ fluidiser
 flavanone
 fringiest
 flavanthrone
+falsifiable
 flavedo
 fiscals
 flatus
