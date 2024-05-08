@@ -1383,7 +1383,6 @@ bag
 blere
 balcony
 balconies
-bald
 bedmaking
 betrayal
 baldacchino
@@ -7499,6 +7498,7 @@ betrothals
 betrothing
 betrothment
 betroths
+bald
 betrousered
 betrumpet
 betrunk
