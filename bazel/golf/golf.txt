@@ -5975,7 +5975,6 @@ gloveless
 grain
 glovemaker
 gametes
-gloveman
 glover
 gloves
 glow
@@ -9850,6 +9849,7 @@ guanin
 gonothecae
 guanines
 gnatty
+gloveman
 guanize
 guano
 glideness
