@@ -6876,6 +6876,7 @@ airflows
 airfoil
 airfoils
 airframe
+annueller
 airglow
 airglows
 acondylous
@@ -13610,7 +13611,6 @@ annuals
 annuary
 annuation
 annueler
-annueller
 annuent
 annuisance
 annuitant
