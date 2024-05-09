@@ -8097,7 +8097,6 @@ granuloadipose
 granuloblast
 granuloblastic
 gammers
-granulocyte
 granulocytic
 geom
 granulocytopoiesis
@@ -9762,6 +9761,7 @@ grutched
 grutches
 grutching
 gt
+granulocyte
 gtc
 gentlemanlike
 gteau
