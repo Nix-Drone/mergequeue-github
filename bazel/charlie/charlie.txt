@@ -14659,7 +14659,6 @@ chondrule
 cysticercoid
 cysticercoidal
 cysticercosis
-cysticle
 cysticolous
 cystid
 cystidea
@@ -22261,6 +22260,7 @@ circumorbital
 conglomerations
 conglomerative
 conglomerator
+cysticle
 cabrestas
 conglomeritic
 conglutin
