@@ -556,7 +556,6 @@ backups
 backus
 backveld
 backvelder
-backway
 backwall
 bewhite
 backward
@@ -17853,6 +17852,7 @@ burroughs
 burroweed
 burrower
 burrowing
+backway
 burrows
 burrowstown
 benevolent
