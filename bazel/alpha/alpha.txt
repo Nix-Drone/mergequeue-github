@@ -5091,6 +5091,7 @@ amalett
 antisepticist
 aerostation
 aerostats
+airbags
 aerosteam
 aerotactic
 aerotaxis
@@ -6812,7 +6813,6 @@ airable
 airampo
 airan
 airbag
-airbags
 airbills
 airboat
 airboats

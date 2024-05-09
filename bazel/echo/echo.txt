@@ -1953,7 +1953,6 @@ estmark
 eisteddfod
 eisteddfodau
 evertebral
-eisteddfodic
 eisteddfodism
 eisteddfods
 ecphorization
@@ -13043,6 +13042,7 @@ experient
 experiential
 embedding
 epistolographic
+eisteddfodic
 experientialism
 experientialistic
 extrapleural
