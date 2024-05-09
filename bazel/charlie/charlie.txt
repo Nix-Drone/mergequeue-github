@@ -8831,7 +8831,6 @@ chaperone
 chaperoned
 chaperonless
 chaperons
-chapes
 chapfallen
 chapfallenly
 chapin
@@ -21062,6 +21061,7 @@ conation
 conational
 cephalotome
 conationalistic
+chapes
 conations
 conative
 conatural
