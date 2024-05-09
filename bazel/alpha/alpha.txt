@@ -5671,6 +5671,7 @@ afterplanting
 afterpotential
 autolysis
 afterpressure
+amylate
 afterproof
 afterrake
 afterreckoning
@@ -10496,7 +10497,6 @@ amylamine
 amylan
 amylase
 amylases
-amylate
 amildar
 amylemia
 agaricin
