@@ -863,7 +863,6 @@ fellon
 fanos
 fanout
 fantailed
-fantails
 fantaisie
 fantasy
 favoured
@@ -8867,6 +8866,7 @@ fossicks
 fossified
 fossiform
 fossil
+fantails
 fossilage
 featly
 franking
