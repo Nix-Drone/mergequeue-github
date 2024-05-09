@@ -10509,7 +10509,6 @@ amylidene
 amylin
 amylo
 amylocellulose
-amyloclastic
 aponogetonaceae
 antiredeposition
 amylocoagulase
@@ -18035,6 +18034,7 @@ approvably
 approval
 approvals
 approvance
+amyloclastic
 approved
 approvedly
 approvedness
