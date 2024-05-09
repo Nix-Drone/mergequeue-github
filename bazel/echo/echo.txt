@@ -1115,7 +1115,6 @@ equipper
 edibility
 edible
 expurgatory
-edibleness
 edibles
 edictal
 edictally
@@ -4560,6 +4559,7 @@ encyclical
 encephalic
 encephalin
 encephalitic
+edibleness
 exocolitis
 emprosthotonus
 emulators
