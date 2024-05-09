@@ -4743,7 +4743,6 @@ encipherments
 epigean
 enciphers
 encircle
-encircled
 effronted
 encircles
 encyrtid
@@ -12138,6 +12137,7 @@ excremental
 excrementally
 excrementary
 excrementitial
+encircled
 electioneers
 elsewise
 excusers
