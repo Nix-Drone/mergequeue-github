@@ -9765,6 +9765,7 @@ chela
 chelatable
 chelate
 chelated
+consistency
 chelates
 chelating
 chelation
@@ -22922,7 +22923,6 @@ consisted
 consistence
 contractured
 consistences
-consistency
 catalytic
 consistencies
 claypan
