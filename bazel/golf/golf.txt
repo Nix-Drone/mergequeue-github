@@ -517,6 +517,7 @@ galerie
 galerum
 galerus
 gales
+generaliter
 galesaur
 galesaurus
 galet
@@ -2693,7 +2694,6 @@ gesticulated
 generalist
 generalistic
 generalists
-generaliter
 generalities
 generalizations
 generalize
