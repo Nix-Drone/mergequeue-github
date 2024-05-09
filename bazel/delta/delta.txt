@@ -287,7 +287,6 @@ dagomba
 dagos
 dagswain
 daguerrean
-daguerreotype
 daguerreotyped
 daguerreotyper
 daguerreotypic
@@ -6156,6 +6155,7 @@ detrusive
 derelicta
 dereliction
 derelictly
+daguerreotype
 derelicts
 dereligion
 dereligionize
