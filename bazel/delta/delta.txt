@@ -5752,7 +5752,6 @@ depletory
 deploy
 deployed
 deploying
-defilade
 deployment
 deployments
 deftest
@@ -11646,6 +11645,7 @@ discount
 discountable
 depoliticize
 discountenanced
+defilade
 discountenancer
 discountenances
 discounter
