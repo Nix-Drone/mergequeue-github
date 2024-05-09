@@ -11971,7 +11971,6 @@ choriocarcinomas
 choriocarcinomata
 choriocele
 chorioepithelioma
-chorioepitheliomas
 covens
 chorioepitheliomata
 chiefdom
@@ -19641,6 +19640,7 @@ comatous
 comatula
 comb
 combaron
+chorioepitheliomas
 conventicler
 combasou
 combat
