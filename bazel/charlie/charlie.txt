@@ -2676,7 +2676,6 @@ canoeist
 canoeists
 canoeload
 canoeman
-canoes
 canoewood
 crescendi
 cuprammonium
@@ -31938,6 +31937,7 @@ chufa
 czaritzas
 calisaya
 countercarte
+canoes
 czars
 czarship
 czech
