@@ -3367,7 +3367,6 @@ capsizal
 capsize
 capsized
 capsizes
-capsomer
 capsomere
 capsomers
 capstan
@@ -18459,6 +18458,7 @@ coyest
 coif
 coiffe
 coiffed
+capsomer
 coiffes
 coiffeur
 coiffeurs
