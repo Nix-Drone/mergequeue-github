@@ -5627,7 +5627,6 @@ depel
 depencil
 depend
 dependability
-deadhead
 dependabilities
 dependableness
 dependably
@@ -13122,6 +13121,7 @@ displeasant
 displease
 displeasedly
 diether
+deadhead
 displeases
 dielec
 displeasing
