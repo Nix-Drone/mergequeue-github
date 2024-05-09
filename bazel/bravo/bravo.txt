@@ -2406,6 +2406,7 @@ barbettes
 barbican
 barbicanage
 barbicans
+bundles
 barbicel
 barbicels
 brines
@@ -17398,7 +17399,6 @@ bundler
 bona
 bundlerooted
 bundlers
-bundles
 bundlet
 ballons
 bundlings
