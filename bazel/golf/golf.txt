@@ -3006,6 +3006,7 @@ geo
 geoagronomic
 geobiont
 geoblast
+gingiva
 geobotany
 galivant
 geobotanic
@@ -4459,7 +4460,6 @@ gingerspice
 ginghams
 goodwilled
 glockenspiel
-gingiva
 gingivae
 gingival
 girded
