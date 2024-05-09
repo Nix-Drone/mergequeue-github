@@ -4910,6 +4910,7 @@ goaltending
 gyve
 giveable
 gederite
+gripers
 gipsyweed
 giveaway
 gelidly
@@ -9107,7 +9108,6 @@ genie
 gripeful
 gnu
 gripey
-gripers
 gripgrass
 griphite
 gooral
