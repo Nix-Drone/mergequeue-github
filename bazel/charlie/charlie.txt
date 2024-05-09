@@ -3629,6 +3629,7 @@ caravel
 confuse
 caravels
 colorability
+codomain
 caraway
 costate
 caraways
@@ -17827,7 +17828,6 @@ consuetitude
 codlins
 codman
 codol
-codomain
 codominant
 codon
 crystallographical
