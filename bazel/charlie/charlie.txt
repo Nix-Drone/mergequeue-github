@@ -5095,7 +5095,6 @@ casern
 caserne
 caserns
 cases
-casette
 casettes
 caseum
 caseweed
@@ -20784,6 +20783,7 @@ components
 compony
 comport
 comportable
+casette
 comportance
 comported
 comporting
