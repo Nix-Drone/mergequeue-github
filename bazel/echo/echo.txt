@@ -3884,7 +3884,6 @@ emetomorphine
 emeu
 engladden
 emf
-emulator
 emforth
 emic
 emicant
@@ -8615,6 +8614,7 @@ equiaxe
 elaborately
 equiaxed
 equiaxial
+emulator
 exedrae
 essoiner
 equibalance
