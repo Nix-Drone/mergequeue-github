@@ -2247,7 +2247,6 @@ elecives
 electability
 electable
 electant
-electary
 epithet
 enthraldom
 elysee
@@ -12903,6 +12902,7 @@ expansions
 effluvias
 emargination
 expansive
+electary
 expansively
 expansiveness
 eggplant
