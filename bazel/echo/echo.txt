@@ -332,7 +332,6 @@ ebbets
 ebbing
 ebbman
 ebbs
-ebcasc
 enterosyphilis
 ebcd
 ebcdic
@@ -2345,6 +2344,7 @@ evasion
 electroceramic
 electrochemical
 electrochemically
+ebcasc
 electrochemistry
 electrochronometer
 equison
