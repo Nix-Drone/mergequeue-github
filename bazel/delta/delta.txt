@@ -16380,7 +16380,6 @@ downswings
 downtake
 downthrow
 downthrown
-downthrust
 downtime
 downtimes
 downton
@@ -17217,6 +17216,7 @@ dripstone
 dript
 drys
 drysaltery
+downthrust
 dislocatedly
 drysalteries
 drisheen
