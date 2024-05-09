@@ -4442,7 +4442,6 @@ adstipulation
 adstipulator
 adsum
 adterminal
-adtevac
 aduana
 adular
 adularescence
@@ -5886,6 +5885,7 @@ agathin
 agathis
 agathism
 agathist
+adtevac
 authorism
 agathodaemonic
 agathokakological
