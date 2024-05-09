@@ -2849,7 +2849,6 @@ cantic
 canticle
 canticles
 cantico
-cantiga
 cantilated
 cantilating
 cantilena
@@ -18907,6 +18906,7 @@ collative
 collator
 cairds
 collators
+cantiga
 collaudation
 colleague
 coenobitic
