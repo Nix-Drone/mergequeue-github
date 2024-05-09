@@ -2179,7 +2179,6 @@ bowlines
 bannockburn
 bannocks
 bannut
-banovina
 banquet
 banqueted
 banqueter
@@ -12777,6 +12776,7 @@ boondock
 boondocker
 boondocks
 boondoggle
+banovina
 boondoggler
 boondogglers
 bradykinesia
