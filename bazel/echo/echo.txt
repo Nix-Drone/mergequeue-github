@@ -4488,7 +4488,6 @@ elaboratory
 ethicists
 encapsulation
 encapsulations
-encapsule
 encapsuled
 enjeopardy
 encapsules
@@ -13418,6 +13417,7 @@ expurgational
 ethan
 expurgations
 expurge
+encapsule
 exquire
 exquisite
 ecclesiasticalism
