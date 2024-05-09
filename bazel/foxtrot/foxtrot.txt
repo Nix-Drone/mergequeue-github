@@ -7428,7 +7428,6 @@ forcement
 forcene
 forceps
 fey
-forceput
 fazing
 forces
 forcet
@@ -10754,6 +10753,7 @@ frumple
 flam
 frumpled
 frumpling
+forceput
 fermentability
 frumps
 frundel
