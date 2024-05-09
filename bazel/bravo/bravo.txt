@@ -4853,7 +4853,6 @@ bedspring
 bedsprings
 bolivars
 bedstand
-bedstead
 brazenface
 baikerinite
 beshrouded
@@ -11430,6 +11429,7 @@ blufter
 bluggy
 bluings
 bluish
+bedstead
 bombload
 blume
 blumea
