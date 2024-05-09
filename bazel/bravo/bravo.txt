@@ -1878,7 +1878,6 @@ banco
 bibliopegist
 bipunctate
 band
-bandage
 bandaged
 bandager
 bandages
@@ -4538,6 +4537,7 @@ bestuur
 become
 becomed
 becomes
+bandage
 becometh
 becoming
 becomingness
