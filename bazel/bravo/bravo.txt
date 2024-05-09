@@ -11622,7 +11622,6 @@ boats
 boatshop
 boatsman
 bobbed
-boatsmen
 boatsteerer
 boatswain
 boatswains
@@ -15781,6 +15780,7 @@ blueprinting
 bunds
 broiled
 butters
+boatsmen
 broiler
 broilery
 billard
