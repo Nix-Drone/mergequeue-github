@@ -6746,7 +6746,6 @@ fuseless
 fogo
 fogon
 fogou
-fogproof
 fogram
 fellowshiping
 fogramity
@@ -11678,6 +11677,7 @@ flushable
 fut
 futchel
 fute
+fogproof
 futhermore
 freshwater
 futhorc
