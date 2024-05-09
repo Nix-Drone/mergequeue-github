@@ -5250,6 +5250,7 @@ begem
 begemmed
 begemming
 beget
+booly
 begettal
 begetter
 begetters
@@ -12735,7 +12736,6 @@ boolean
 booleans
 booley
 booleys
-booly
 boolya
 blebs
 boom
