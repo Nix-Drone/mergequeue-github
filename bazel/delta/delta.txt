@@ -7517,7 +7517,6 @@ devaluation
 devaluations
 devalue
 devalued
-devalues
 devaluing
 devanagari
 devance
@@ -7980,6 +7979,7 @@ dharmas
 dharmashastra
 dumpies
 dharmasutra
+devalues
 dharmic
 dharmsala
 dharna
