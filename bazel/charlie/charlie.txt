@@ -8882,6 +8882,7 @@ chaqueta
 char
 conveyability
 chara
+chemosmotic
 charabanc
 charabancer
 charabancs
@@ -9926,7 +9927,6 @@ chemosynthetic
 chemosis
 chemosmoic
 chemosmoses
-chemosmotic
 calic
 chemosorb
 chemosorption
