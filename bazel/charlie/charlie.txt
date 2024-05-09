@@ -11617,7 +11617,6 @@ cholents
 choleokinase
 cholepoietic
 cooks
-choler
 cholera
 choleras
 chappie
@@ -14187,6 +14186,7 @@ circue
 circuit
 circuitable
 circuital
+choler
 circuited
 circuiteer
 circuiter
