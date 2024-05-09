@@ -3602,7 +3602,6 @@ degasify
 disguise
 definition
 degass
-degassed
 degassing
 degauss
 degaussing
@@ -13777,6 +13776,7 @@ distensile
 distension
 dimwittedness
 distensions
+degassed
 distensive
 disprison
 distention
