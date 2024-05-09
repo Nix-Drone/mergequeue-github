@@ -5076,7 +5076,6 @@ caseinogen
 caseins
 caseless
 caselessly
-caseload
 caseloads
 caselty
 casemaker
@@ -29288,6 +29287,7 @@ cryptographist
 cryptoheresy
 cryptoheretic
 cryptolite
+caseload
 cryptolith
 cryptology
 cryptological
