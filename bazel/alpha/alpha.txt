@@ -3661,7 +3661,6 @@ adenocarcinomata
 akepiros
 adenocele
 adenochondroma
-adenochondrosarcoma
 adenochrome
 adenocyst
 adenocystoma
@@ -18425,6 +18424,7 @@ arachnoidean
 arachnoiditis
 arachnology
 arachnological
+adenochondrosarcoma
 arachnomorphae
 arachnophagous
 arachnopia
