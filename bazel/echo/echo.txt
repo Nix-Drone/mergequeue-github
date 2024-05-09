@@ -4475,7 +4475,6 @@ economization
 encake
 encalendar
 encamping
-encampment
 encampments
 encamps
 endoparasite
@@ -13463,6 +13462,7 @@ exsectile
 emmarbling
 exsecting
 exsector
+encampment
 exsects
 exsert
 exserted
