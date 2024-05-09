@@ -6895,7 +6895,6 @@ entomolegist
 entomolite
 entomology
 entomologic
-entomological
 entomologically
 entomologies
 entomologised
@@ -10402,6 +10401,7 @@ ethmopalatal
 ethmopalatine
 ethmophysal
 ethmopresphenoidal
+entomological
 ethmose
 ethmosphenoid
 epiphyllous
