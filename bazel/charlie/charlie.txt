@@ -17564,7 +17564,6 @@ coccosteidae
 chicos
 coccosteus
 coccothraustes
-coccothraustine
 coccothrinax
 coccule
 cocculiferous
@@ -20669,6 +20668,7 @@ completers
 completes
 chemosmosis
 completest
+coccothraustine
 completing
 completion
 completions
