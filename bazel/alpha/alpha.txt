@@ -4035,7 +4035,6 @@ adjutant
 adjutants
 adjutantship
 anesthetic
-adjutator
 adjute
 adjutor
 adjutory
@@ -8984,6 +8983,7 @@ anteport
 allowableness
 allowance
 allowanced
+adjutator
 auricularly
 allowancing
 allowed
