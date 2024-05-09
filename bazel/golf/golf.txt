@@ -8999,7 +8999,6 @@ geog
 gyrograph
 grilladed
 grillades
-grillages
 grilled
 grillee
 griller
@@ -10576,6 +10575,7 @@ graybeards
 gunshot
 gunslinger
 gunslingers
+grillages
 gunslinging
 gunsman
 goujon
