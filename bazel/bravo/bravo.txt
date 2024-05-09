@@ -1430,7 +1430,6 @@ baldrib
 blent
 baldric
 baldrick
-bracketted
 baldricked
 baldrics
 baldricwise
@@ -17213,6 +17212,7 @@ belibeling
 bullpup
 bullragged
 bullragging
+bracketted
 bullrings
 bullrush
 bullrushes
