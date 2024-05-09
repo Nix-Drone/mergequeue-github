@@ -2226,6 +2226,7 @@ farmhouses
 felt
 felted
 felter
+flamen
 feltyfare
 feltyflier
 felting
@@ -4891,7 +4892,6 @@ fergusite
 fill
 flamed
 flamefishes
-flamen
 factionary
 flocking
 felicide
