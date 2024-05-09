@@ -3631,7 +3631,6 @@ bathyscaphes
 bathyseism
 bathysmal
 bomarea
-bathysophic
 bathysophical
 bathysphere
 bathyspheres
@@ -9939,6 +9938,7 @@ bivalence
 bivalency
 bivalencies
 bivalent
+bathysophic
 bivalents
 biognosis
 bivalve
