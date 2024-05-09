@@ -3602,7 +3602,6 @@ degasify
 disguise
 definition
 degass
-degassed
 degassing
 degauss
 degaussing
@@ -12102,6 +12101,7 @@ disexercise
 disfaith
 disfame
 disconsolance
+degassed
 disfashion
 disfavor
 deaerating
