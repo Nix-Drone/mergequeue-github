@@ -7231,7 +7231,6 @@ footpath
 footpaths
 fatidic
 footplate
-footpound
 fogs
 footpounds
 flanderkin
@@ -8695,6 +8694,7 @@ forthink
 formicarium
 ficus
 forthinking
+footpound
 frankhearted
 florescence
 fallibly
