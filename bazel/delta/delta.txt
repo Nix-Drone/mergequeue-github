@@ -2480,7 +2480,6 @@ deckswabber
 decl
 declaim
 dichorisandra
-declaimant
 declaimer
 declaimers
 declaims
@@ -14675,6 +14674,7 @@ dockland
 dobras
 docklands
 dockmackie
+declaimant
 dominica
 dockman
 dockmaster
