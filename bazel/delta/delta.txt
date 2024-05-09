@@ -8211,7 +8211,6 @@ diagnosticating
 diagnostication
 diagnostician
 diagnosticians
-diagnostics
 diagometer
 demove
 derogations
@@ -10676,6 +10675,7 @@ dipodid
 decad
 dipodidae
 dipodies
+diagnostics
 device
 demonstrators
 dipodomyinae
