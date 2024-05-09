@@ -2538,7 +2538,6 @@ druxey
 declinal
 declinational
 declinations
-declinator
 declinatory
 declinature
 decline
@@ -3908,6 +3907,7 @@ deja
 decandently
 deject
 decamps
+declinator
 dejectedly
 dejectedness
 dejectile
