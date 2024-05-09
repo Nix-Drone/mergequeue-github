@@ -11570,6 +11570,7 @@ cholecystoduodenostomy
 cholecystogastrostomy
 cholecystogram
 cholecystography
+cnemidium
 cholecystojejunostomy
 cholecystokinin
 cholecystolithiasis
@@ -16967,7 +16968,6 @@ cml
 cnemial
 cnemic
 cnemides
-cnemidium
 cnemidophorus
 cnemis
 cneorum
