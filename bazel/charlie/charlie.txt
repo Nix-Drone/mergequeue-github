@@ -3242,7 +3242,6 @@ caporal
 caporals
 counterweighing
 capot
-capotasto
 capotastos
 capote
 capotes
@@ -13534,6 +13533,7 @@ cilia
 ciliary
 ciliata
 ciliate
+capotasto
 ciliated
 ciliately
 ciliates
