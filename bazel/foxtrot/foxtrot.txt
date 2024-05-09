@@ -4160,7 +4160,6 @@ freedmen
 fucaceae
 frogmouth
 firebrick
-firebug
 firebugs
 fanhouse
 flagstones
@@ -6653,6 +6652,7 @@ focaloid
 fixtures
 focimeter
 focimetry
+firebug
 fockle
 focoids
 focsle
