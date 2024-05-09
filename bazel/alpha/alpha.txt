@@ -260,6 +260,7 @@ araeometer
 abdomens
 abdomina
 abdominal
+affixment
 abdominalia
 abdominalian
 abdominally
@@ -5357,7 +5358,6 @@ affixers
 affixes
 affixial
 affixion
-affixment
 ague
 affixture
 afflate
