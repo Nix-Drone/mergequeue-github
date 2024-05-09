@@ -546,6 +546,7 @@ egilops
 eelpot
 echinidan
 echinidea
+extends
 echiniform
 emmets
 expy
@@ -13539,7 +13540,6 @@ extended
 extendedly
 extender
 extending
-extends
 enworthy
 extensibility
 extensible
