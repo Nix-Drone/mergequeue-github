@@ -5432,7 +5432,6 @@ expendable
 endseal
 endshake
 endsheet
-everglade
 execrates
 endue
 exploration
@@ -12137,6 +12136,7 @@ excortication
 excremental
 excrementally
 excrementary
+everglade
 excrementitial
 electioneers
 elsewise
