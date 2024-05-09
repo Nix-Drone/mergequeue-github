@@ -14751,7 +14751,6 @@ cystostomy
 cystostomies
 cystotome
 cystotomy
-cystotomies
 castellan
 cystotrachelotomy
 cystourethritis
@@ -16737,6 +16736,7 @@ cloudage
 cloudberry
 cloudberries
 cloudbursts
+cystotomies
 cloudcap
 cloudful
 cloudy
