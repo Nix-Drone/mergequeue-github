@@ -4928,7 +4928,6 @@ faliscan
 fantaseid
 forge
 flaminica
-flaminical
 flamless
 flammable
 filmogen
@@ -9901,6 +9900,7 @@ fulminator
 fundable
 frowardly
 freshmen
+flaminical
 freshness
 freesp
 freshwoman
