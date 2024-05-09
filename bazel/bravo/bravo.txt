@@ -12636,6 +12636,7 @@ bookends
 booker
 bookery
 bookers
+bookseller
 bookfair
 bookfold
 bookful
@@ -12694,7 +12695,6 @@ barrulety
 bookrest
 bookrests
 bookroom
-bookseller
 berendo
 becloaked
 booksellerish
