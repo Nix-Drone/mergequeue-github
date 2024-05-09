@@ -518,6 +518,7 @@ galerum
 galerus
 gales
 galesaur
+galleon
 galesaurus
 galet
 garrya
@@ -596,7 +597,6 @@ galleys
 gamodemes
 galleyworm
 geneat
-galleon
 galleons
 galler
 gaucher
