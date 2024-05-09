@@ -1580,7 +1580,6 @@ calorescent
 calory
 caloric
 calorically
-caloricity
 calorics
 caloriduct
 calorie
@@ -24313,6 +24312,7 @@ cookout
 cookouts
 cookroom
 cookshop
+caloricity
 cyanomethaemoglobin
 cookshops
 cookstove
