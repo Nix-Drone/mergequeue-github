@@ -3360,6 +3360,7 @@ firstlings
 fief
 foredeem
 fiefs
+flambe
 forfeitable
 fiel
 fieldball
@@ -4866,7 +4867,6 @@ fatiscence
 flamb
 flambage
 flambant
-flambe
 foreboded
 forehead
 flambeau
