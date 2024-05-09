@@ -5069,7 +5069,6 @@ endobatholithic
 edicts
 endobiotic
 endoblast
-endoblastic
 endobronchial
 enunciation
 eucaryotic
@@ -13416,6 +13415,7 @@ expurgating
 expurgation
 expurgational
 ethan
+endoblastic
 expurgations
 expurge
 exquire
