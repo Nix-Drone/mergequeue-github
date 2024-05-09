@@ -8111,7 +8111,6 @@ bicompact
 biconcave
 bidder
 bicone
-biconic
 boundlessness
 biconical
 biconically
@@ -14948,6 +14947,7 @@ bredestitch
 bredi
 betainogen
 breech
+biconic
 breechblock
 breechcloth
 brimfull
