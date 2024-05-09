@@ -833,7 +833,6 @@ fanion
 flusher
 furtiveness
 footlike
-fanioned
 fortes
 fanions
 fosters
@@ -2992,6 +2991,7 @@ feverous
 fillmass
 feverously
 feverroot
+fanioned
 fevertwig
 fevertwitch
 feverwort
