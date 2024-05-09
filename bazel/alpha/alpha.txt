@@ -5367,7 +5367,6 @@ afflatuses
 afflict
 algesireceptor
 afflicted
-afflictedness
 afflicter
 afflicting
 afflictingly
@@ -13771,6 +13770,7 @@ anomia
 anomiacea
 anomic
 atrabilarian
+afflictedness
 anomie
 anomiidae
 anomite
