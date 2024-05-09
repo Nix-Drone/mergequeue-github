@@ -5220,7 +5220,6 @@ glassteel
 gnathic
 guestship
 glasswork
-guider
 glassworker
 glassworkers
 glassworm
@@ -7292,6 +7291,7 @@ gospels
 gospelwards
 gosplan
 girlies
+guider
 gospoda
 grecizing
 getfd
