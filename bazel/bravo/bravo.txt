@@ -2092,6 +2092,7 @@ boardman
 bank
 bankalachi
 bankbooks
+ballistics
 bulanda
 baldachini
 basti
@@ -17796,7 +17797,6 @@ bejumbled
 burnoosed
 burnous
 burnouts
-ballistics
 burnover
 burns
 bumfs
