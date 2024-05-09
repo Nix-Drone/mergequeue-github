@@ -10032,7 +10032,6 @@ dirls
 descriptions
 dynamomorphic
 dynamoneure
-dynamophone
 dynamos
 dynamostatic
 dynamotor
@@ -10284,6 +10283,7 @@ diglottism
 dyophysitical
 dyophone
 diopside
+dynamophone
 diopsides
 decultivate
 decolorised
