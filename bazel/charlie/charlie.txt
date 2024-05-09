@@ -11066,7 +11066,6 @@ checksums
 chitin
 coappears
 chitinocalcareous
-chitinogenous
 chitinoid
 chesterbed
 chitinous
@@ -28993,6 +28992,7 @@ criminologic
 criminological
 criminologically
 criminologies
+chitinogenous
 criminologist
 criminologists
 criminous
