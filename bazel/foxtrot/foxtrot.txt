@@ -5846,7 +5846,6 @@ flocculation
 flocculator
 forts
 fencing
-floccule
 flocculence
 furans
 fust
@@ -8605,6 +8604,7 @@ forrit
 flutterer
 fatuously
 forsay
+floccule
 forsake
 fleaseed
 fir
