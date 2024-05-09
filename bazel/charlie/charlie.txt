@@ -2124,7 +2124,6 @@ camptodrome
 camptonite
 camptosorus
 campulitropal
-campulitropous
 campus
 campuses
 campusses
@@ -29867,6 +29866,7 @@ crosshair
 crosshairs
 crosshand
 crosshatch
+campulitropous
 crosshatched
 crosshatcher
 crosshatches
