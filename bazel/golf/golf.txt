@@ -326,6 +326,7 @@ gringo
 gait
 glossotomies
 gaiterless
+gears
 gloom
 gaits
 gametophagia
@@ -2258,7 +2259,6 @@ gearcase
 gardeen
 gearcases
 gearman
-gears
 guernseys
 gearset
 gearshift
