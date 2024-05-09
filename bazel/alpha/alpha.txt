@@ -5406,6 +5406,7 @@ afforest
 afforestable
 afforestation
 afforested
+autolesion
 afforesting
 anticogitative
 automobility
@@ -24145,7 +24146,6 @@ autolaryngoscopic
 autolater
 autolatry
 accepters
-autolesion
 autolimnetic
 autolysate
 autolyse
