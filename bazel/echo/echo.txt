@@ -352,6 +352,7 @@ ebionize
 eblis
 eboe
 ebon
+extends
 endites
 equiproducing
 exuviable
@@ -13539,7 +13540,6 @@ extended
 extendedly
 extender
 extending
-extends
 enworthy
 extensibility
 extensible
