@@ -3510,7 +3510,6 @@ carack
 caracks
 caracoa
 caracol
-caracoled
 caracoler
 caracoles
 caracoli
@@ -16816,6 +16815,7 @@ cloxacillin
 crinkle
 cloze
 clr
+caracoled
 clinorhombic
 cohabit
 clubable
