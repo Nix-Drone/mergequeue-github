@@ -1790,6 +1790,7 @@ accumber
 accumulable
 accumulate
 accumulated
+adherents
 accumulating
 accumulation
 accumulativ
@@ -3799,7 +3800,6 @@ adherency
 adherend
 adherends
 adherently
-adherents
 adherer
 adherers
 adheres
