@@ -7847,7 +7847,6 @@ cervicobregmatic
 cervicobuccal
 cervicodynia
 cervicofacial
-cervicolabial
 cervicolingual
 cervicolumbar
 crystal
@@ -16034,6 +16033,7 @@ cleruchial
 cleruchic
 cleruchies
 clerum
+cervicolabial
 clerus
 cletch
 clethraceae
