@@ -6205,7 +6205,6 @@ aglycone
 asphodels
 aufklarung
 aglycones
-aglycons
 aglycosuric
 aglimmer
 aglint
@@ -10159,6 +10158,7 @@ auximone
 adjustoring
 amebobacter
 amebocyte
+aglycons
 ameboid
 ameboidism
 askance
