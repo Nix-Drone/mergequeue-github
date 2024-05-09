@@ -7822,7 +7822,6 @@ dewberries
 dewclaw
 dewclawed
 dewclaws
-dewcup
 dewdamp
 dewdrop
 dewdropper
@@ -10136,6 +10135,7 @@ dingus
 dinguses
 disciplined
 dinic
+dewcup
 dinical
 dinichthys
 dining
