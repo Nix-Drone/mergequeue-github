@@ -5729,7 +5729,6 @@ beliers
 belies
 believability
 bolis
-believable
 believably
 believed
 believer
@@ -11824,6 +11823,7 @@ bodoni
 bodonid
 bromic
 bodrage
+believable
 battalions
 benedick
 bodstick
