@@ -6322,6 +6322,7 @@ benomyls
 benorth
 bensail
 backwrap
+blackface
 bensall
 bensell
 bensh
@@ -10098,7 +10099,6 @@ baronetical
 blackens
 blackest
 blacketeer
-blackface
 blackfeet
 bypast
 blackfellow
