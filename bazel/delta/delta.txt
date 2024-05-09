@@ -3150,7 +3150,6 @@ defamation
 defamations
 defamatory
 defame
-defamed
 dragginess
 defamer
 defamers
@@ -16872,6 +16871,7 @@ drawtongs
 defortify
 drawtube
 decanically
+defamed
 drawtubes
 declaiming
 drazel
