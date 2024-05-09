@@ -2101,6 +2101,7 @@ bankcards
 banked
 banker
 bankerdom
+bugologist
 bankeress
 bacteriophobia
 banket
@@ -8814,7 +8815,6 @@ bin
 broadswords
 binal
 baconic
-bugologist
 byname
 binaphthyl
 binary
