@@ -5389,7 +5389,6 @@ beguess
 beguileful
 beguilement
 beguilements
-beguiler
 bottlelike
 beguilers
 beguiles
@@ -13450,6 +13449,7 @@ boucle
 boucles
 boudeuse
 boudin
+beguiler
 boudoir
 boudoirs
 bagman
