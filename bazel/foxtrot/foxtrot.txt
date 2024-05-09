@@ -395,6 +395,7 @@ faintly
 faintling
 faints
 faipule
+familiar
 fair
 flows
 folsom
@@ -1693,7 +1694,6 @@ fcomp
 farcin
 fcp
 foehns
-familiar
 friars
 four
 fdnames
