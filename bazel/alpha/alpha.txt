@@ -3262,7 +3262,6 @@ actualization
 actualize
 actualizes
 actually
-actualness
 actuals
 agena
 appearanced
@@ -24983,6 +24982,7 @@ awd
 awe
 awearied
 aweband
+actualness
 awed
 awedly
 awedness
