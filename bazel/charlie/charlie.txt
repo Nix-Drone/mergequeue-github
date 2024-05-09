@@ -2989,7 +2989,6 @@ cooperators
 capacitations
 capacitative
 capacitativly
-capacitator
 capacity
 capacities
 capacitive
@@ -3234,6 +3233,7 @@ caponization
 caponize
 crispate
 caponized
+capacitator
 caponizer
 coiling
 caponizing
