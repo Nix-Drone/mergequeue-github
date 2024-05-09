@@ -4195,7 +4195,6 @@ caretakers
 cattie
 caretaking
 caretook
-carets
 caretta
 carettochelydidae
 careworn
@@ -24767,6 +24766,7 @@ chausses
 copus
 coque
 coquecigrue
+carets
 coquelicot
 coqueluche
 calibanism
