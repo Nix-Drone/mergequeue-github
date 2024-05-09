@@ -3815,7 +3815,6 @@ carboxylated
 carboxylating
 carboxylation
 carboxylic
-carboxyls
 carboxypeptidase
 carbro
 carbromal
@@ -6505,6 +6504,7 @@ cd
 cdf
 cdg
 cdr
+carboxyls
 ce
 cesspool
 celibates
