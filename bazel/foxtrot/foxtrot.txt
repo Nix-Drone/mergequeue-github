@@ -802,6 +802,7 @@ fellowlike
 favor
 footslogging
 fanfaronade
+fish
 fanfarons
 funnellike
 fanfishes
@@ -4341,7 +4342,6 @@ fisk
 fise
 forb
 fisetin
-fish
 fishability
 fishable
 fishback
