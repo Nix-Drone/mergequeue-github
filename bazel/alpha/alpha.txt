@@ -291,7 +291,6 @@ abducting
 abduction
 abductions
 ampullar
-abductor
 abducts
 abe
 abeam
@@ -3323,6 +3322,7 @@ acupunctuation
 annelides
 acupuncturation
 acupuncturator
+abductor
 acupuncture
 acupunctured
 acupuncturing
