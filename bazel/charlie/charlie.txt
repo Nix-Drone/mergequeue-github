@@ -21285,7 +21285,6 @@ conchies
 ceboid
 conchifera
 conchiferous
-conchiform
 conchyle
 conchylia
 conchyliated
@@ -31094,6 +31093,7 @@ cupelers
 cupeling
 clinometria
 cupelled
+conchiform
 cupeller
 conscripts
 cupellers
