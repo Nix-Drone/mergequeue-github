@@ -1262,6 +1262,7 @@ exstill
 environ
 epitrite
 edulcorating
+electrodiagnosis
 edulcoration
 edulcorator
 eduskunta
@@ -2393,7 +2394,6 @@ electrodepositor
 escalation
 electrodes
 electrodesiccation
-electrodiagnosis
 entoblast
 electrodiagnostic
 electrodiagnostically
