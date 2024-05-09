@@ -2667,7 +2667,6 @@ cannula
 cannulae
 cannulas
 cannulate
-cannulated
 cannulating
 cannulation
 canoe
@@ -31294,6 +31293,7 @@ curdlers
 curdly
 curdling
 curdoo
+cannulated
 curds
 curdwort
 cure
