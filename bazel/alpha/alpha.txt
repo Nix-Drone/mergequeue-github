@@ -19990,7 +19990,6 @@ armor
 armoracia
 armorbearer
 armorer
-armory
 armchairs
 ampoules
 armorials
@@ -24503,6 +24502,7 @@ auxanometer
 auxeses
 auxesis
 auxetic
+armory
 auxil
 antacids
 auxiliar
