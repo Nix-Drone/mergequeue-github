@@ -2578,7 +2578,6 @@ decoctum
 decodable
 decode
 decoded
-decoders
 decodes
 decoding
 decodon
@@ -6566,6 +6565,7 @@ deselecting
 deselects
 datums
 desemer
+decoders
 dichotomised
 devitrifiable
 deuteroglobulose
