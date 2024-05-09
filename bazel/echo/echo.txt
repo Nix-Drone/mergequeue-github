@@ -1304,7 +1304,6 @@ eelpouts
 emblemology
 eelshop
 eelskin
-eelware
 eelworm
 estragon
 een
@@ -7817,6 +7816,7 @@ entrapper
 epidiplosis
 euphorbiaceae
 epidote
+eelware
 epiproct
 epidotic
 epidotiferous
