@@ -3858,7 +3858,6 @@ batwomen
 bishopship
 batz
 batzen
-barreler
 baubee
 baubees
 bethunder
@@ -14460,6 +14459,7 @@ branchiomere
 branchiomerism
 branchiopallial
 branchiopod
+barreler
 branchiopoda
 bioassays
 branchiopodan
