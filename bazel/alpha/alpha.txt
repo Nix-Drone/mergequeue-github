@@ -3383,7 +3383,6 @@ aday
 adays
 adalat
 adam
-adamance
 adamances
 adamancy
 assistor
@@ -24644,6 +24643,7 @@ averageness
 avocets
 averages
 averaging
+adamance
 avery
 averia
 alai
