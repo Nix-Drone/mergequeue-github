@@ -2056,6 +2056,7 @@ feign
 fieldwards
 feignedly
 feigner
+floater
 fanfare
 feigners
 feigningly
@@ -5808,7 +5809,6 @@ floatation
 firesides
 floated
 filical
-floater
 fierasfer
 floaters
 follows
