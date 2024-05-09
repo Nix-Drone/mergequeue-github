@@ -14949,7 +14949,6 @@ bredi
 betainogen
 breech
 breechblock
-breechcloth
 brimfull
 breechcloths
 breechclout
@@ -17406,6 +17405,7 @@ bundobust
 bundocks
 bundook
 bundts
+breechcloth
 bundu
 bundweed
 bunga
