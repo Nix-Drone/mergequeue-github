@@ -3278,7 +3278,6 @@ caprelline
 capreol
 capreolar
 capreolary
-capreolate
 capreoline
 capreolus
 capretto
@@ -19122,6 +19121,7 @@ colloidal
 colloidality
 colloider
 colloidize
+capreolate
 colloidochemical
 colloids
 collomia
