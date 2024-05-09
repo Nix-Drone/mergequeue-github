@@ -12807,7 +12807,6 @@ chunkiness
 chunking
 chunks
 chunner
-chuntered
 chuntering
 chunters
 chupak
@@ -20505,6 +20504,7 @@ compassment
 compatibility
 compatibilities
 compatible
+chuntered
 circumambages
 compatibleness
 compatibles
