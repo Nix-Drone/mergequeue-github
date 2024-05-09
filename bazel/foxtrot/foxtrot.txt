@@ -4253,7 +4253,6 @@ feculent
 flail
 fireward
 floundering
-flickering
 firewater
 flounderingly
 fireweed
@@ -10275,6 +10274,7 @@ frizzlier
 frizzliest
 fiddley
 fro
+flickering
 fortyfive
 ferryage
 foggages
