@@ -3693,7 +3693,6 @@ embryopathology
 embryophagous
 embryophyta
 embryophyte
-embryophore
 embryoplastic
 etiolation
 embryos
@@ -7192,6 +7191,7 @@ eyebolts
 environic
 enunciators
 environing
+embryophore
 environmental
 environmentalism
 environmentalist
