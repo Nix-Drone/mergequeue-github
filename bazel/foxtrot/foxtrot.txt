@@ -1074,7 +1074,6 @@ freshening
 furriners
 farmable
 farmed
-farmer
 farmeress
 farmery
 filigraned
@@ -9766,6 +9765,7 @@ fecklessly
 freewheeling
 fulcrumage
 freewill
+farmer
 fei
 finch
 freewoman
