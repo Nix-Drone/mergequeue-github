@@ -4748,6 +4748,7 @@ carri
 carry
 carriable
 carryable
+cosmeticize
 carriage
 carriageable
 carriageful
@@ -26043,7 +26044,6 @@ cosmetic
 cosmetically
 cosmetician
 claimless
-cosmeticize
 cosmetics
 cosmetiste
 cosmetology
