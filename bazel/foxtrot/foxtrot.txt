@@ -1692,6 +1692,7 @@ fipenny
 fcomp
 farcin
 fcp
+frostbound
 foehns
 familiar
 friars
@@ -4438,7 +4439,6 @@ fishworks
 fringilliformes
 fishworm
 fisnoga
-frostbound
 fissidentaceous
 fissile
 fissilinguia
