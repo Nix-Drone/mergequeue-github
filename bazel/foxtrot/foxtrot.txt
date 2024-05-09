@@ -7217,7 +7217,6 @@ flathe
 footmark
 footmen
 footnote
-footnoted
 footpace
 footpaces
 forefather
@@ -7996,6 +7995,7 @@ foreshroud
 femic
 foreside
 funnelwise
+footnoted
 foresight
 foresightedness
 foresightful
