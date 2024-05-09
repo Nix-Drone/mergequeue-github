@@ -983,7 +983,6 @@ calcaneoastragaloid
 cimmerian
 calcaneocuboid
 calcaneonavicular
-calcaneoplantar
 countersale
 calcaneoscaphoid
 calcaneotibial
@@ -8534,6 +8533,7 @@ champagne
 champagned
 champagneless
 champagnes
+calcaneoplantar
 champagning
 champagnize
 colourlessly
