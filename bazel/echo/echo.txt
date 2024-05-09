@@ -4041,7 +4041,6 @@ empanelment
 empanels
 expressibly
 empannel
-empanoply
 empaper
 emparchment
 emparl
@@ -8414,6 +8413,7 @@ epitomes
 epitomic
 epitomical
 epitomically
+empanoply
 endoscopy
 epitomise
 eructate
