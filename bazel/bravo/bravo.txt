@@ -689,7 +689,6 @@ bynames
 bacteriotropic
 blepharedema
 bacterious
-bacteririum
 bacteritic
 barbotte
 bacteriuria
@@ -3511,6 +3510,7 @@ beworms
 baston
 bastonet
 bastonite
+bacteririum
 basts
 basural
 basuto
