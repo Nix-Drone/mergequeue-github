@@ -5193,7 +5193,6 @@ endognath
 endognathion
 endointoxication
 endolabyrinthitis
-endolymph
 endolymphatic
 etiotropic
 endolymphic
@@ -7517,6 +7516,7 @@ ephemerides
 ephemeris
 ephemeromorph
 ephemeromorphic
+endolymph
 ephemeron
 ephemeroptera
 eigne
