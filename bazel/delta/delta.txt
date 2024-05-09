@@ -8782,6 +8782,7 @@ dibenzoyl
 dibenzophenazine
 dibenzopyrrole
 decayable
+dispensable
 dibhole
 diblastula
 diborate
@@ -13969,7 +13970,6 @@ distributing
 distribution
 distributional
 decretum
-dispensable
 distributions
 distributival
 distributive
