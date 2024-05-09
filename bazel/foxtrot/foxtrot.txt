@@ -2968,6 +2968,7 @@ feus
 fever
 feverberry
 foreheaded
+formatters
 feverberries
 flowery
 feverbush
@@ -5457,7 +5458,6 @@ fleshiness
 fourniture
 fleshing
 fleshings
-formatters
 fanjets
 fleshless
 fleshlier
