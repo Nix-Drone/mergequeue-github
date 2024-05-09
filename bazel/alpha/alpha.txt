@@ -6979,7 +6979,6 @@ aln
 airview
 airway
 airwayman
-armless
 airways
 airward
 airwards
@@ -20875,6 +20874,7 @@ asbest
 asbestic
 asbestiform
 acumens
+armless
 asbestine
 asbestinize
 asbestoid
