@@ -2520,7 +2520,6 @@ electrometric
 electrometrical
 electrometrically
 electromyogram
-electromyography
 electromyographically
 electromobile
 electromotive
@@ -9382,6 +9381,7 @@ ersh
 erst
 ertebolle
 erth
+electromyography
 erthen
 eumorphous
 erthly
