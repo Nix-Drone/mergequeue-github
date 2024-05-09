@@ -3274,7 +3274,6 @@ anacahuita
 actuate
 actuated
 actuates
-actuating
 actuation
 actuator
 abdominohysterectomy
@@ -7877,6 +7876,7 @@ alerse
 alert
 alerta
 anorak
+actuating
 alerted
 anabasis
 alertedly
