@@ -1724,7 +1724,6 @@ annule
 archpresbyter
 accreditations
 accredited
-accreditee
 animal
 accrediting
 accreditment
@@ -14674,6 +14673,7 @@ aliency
 anthropotoxin
 anthropozoic
 anthropurgic
+accreditee
 anthroropolith
 anthroxan
 anthroxanic
