@@ -3620,6 +3620,7 @@ filers
 files
 frailly
 filesmith
+furcated
 filesniff
 flagships
 filespec
@@ -11480,7 +11481,6 @@ funambulist
 fibry
 furore
 furphy
-furcated
 feower
 fatiguable
 furred
