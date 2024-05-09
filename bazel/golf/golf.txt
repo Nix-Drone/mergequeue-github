@@ -1968,6 +1968,7 @@ gatewoman
 gatherable
 gathered
 gilgai
+gomerils
 gatherers
 graplins
 gyrostabilizer
@@ -7562,7 +7563,6 @@ grabby
 grabbings
 ganoin
 gitaligenin
-gomerils
 grabble
 glottogonic
 generation
