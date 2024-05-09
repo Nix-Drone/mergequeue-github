@@ -5469,7 +5469,6 @@ fleshmonger
 fleshpot
 fleshquake
 flet
-flagfall
 fleta
 fletched
 fletcherism
@@ -8943,6 +8942,7 @@ fougade
 flunkies
 ferrotyper
 fougasse
+flagfall
 foujdarry
 foul
 foulards
