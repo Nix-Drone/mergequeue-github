@@ -409,7 +409,6 @@ galaginae
 gimballing
 gangboard
 galago
-galagos
 galahads
 galanas
 grubberies
@@ -6041,6 +6040,7 @@ glucogene
 gunsling
 glucogenesis
 glucokinase
+galagos
 gliocyte
 glucokinin
 gravimetric
