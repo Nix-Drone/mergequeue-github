@@ -9019,7 +9019,6 @@ chariots
 chariotway
 charism
 coked
-charisma
 charismas
 charismata
 consuete
@@ -30445,6 +30444,7 @@ clypeaster
 chertier
 cubangle
 cubanite
+charisma
 cubanize
 cubas
 cubatory
