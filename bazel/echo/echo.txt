@@ -8631,6 +8631,7 @@ equicurve
 equid
 equidiagonal
 equidifferent
+expectoration
 equidimensional
 equidist
 equidistance
@@ -12956,7 +12957,6 @@ emblematising
 essonite
 exactly
 expectorates
-expectoration
 expectorations
 expectorative
 expectorators
