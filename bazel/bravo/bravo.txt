@@ -9538,7 +9538,6 @@ birthless
 birthmark
 birthmarks
 birthmate
-birthnight
 birthplace
 birthplaces
 backfilled
@@ -12758,6 +12757,7 @@ boominess
 booming
 boomingly
 boomkin
+birthnight
 boomkins
 barnabite
 boomless
