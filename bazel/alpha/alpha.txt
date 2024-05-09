@@ -21154,7 +21154,6 @@ ashir
 ashiver
 ashkey
 ashkenazi
-ashkenazic
 ashlar
 ashlared
 ashlaring
@@ -25119,6 +25118,7 @@ axils
 axin
 axine
 axing
+ashkenazic
 axiniform
 axinite
 axinomancy
