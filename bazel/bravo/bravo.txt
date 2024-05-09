@@ -10561,6 +10561,7 @@ blazons
 bld
 bothriocidaris
 blea
+burglarproof
 bleach
 bleachability
 bleachable
@@ -17656,7 +17657,6 @@ bearlet
 burglarized
 burglarizes
 burglarizing
-burglarproof
 burglarproofed
 berat
 burglarproofing
