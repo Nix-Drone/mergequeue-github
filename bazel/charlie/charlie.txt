@@ -11320,7 +11320,6 @@ chlorodized
 chlorodizing
 chloroethene
 chloroethylene
-chlorofluorocarbon
 chloroformate
 chloroformed
 chloroformic
@@ -16078,6 +16077,7 @@ collen
 chelp
 clicking
 clinkers
+chlorofluorocarbon
 clickless
 clicks
 clidastes
