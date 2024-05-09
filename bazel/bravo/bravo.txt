@@ -594,6 +594,7 @@ backwraps
 baclin
 bacon
 baconer
+boldfacing
 brainache
 bacony
 bitterful
@@ -12081,7 +12082,6 @@ boldfaced
 boldfacedly
 bridler
 boldfacedness
-boldfacing
 batodendron
 boldhearted
 boldheartedly
