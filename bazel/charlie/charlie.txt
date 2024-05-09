@@ -4078,7 +4078,6 @@ cardiopneumatic
 cardiopneumograph
 cardioptosis
 cardiopulmonary
-cardiorenal
 cardiorespiratory
 cardiorrhaphy
 cardiorrheuma
@@ -12589,6 +12588,7 @@ chronogenesis
 chronogram
 chronogrammatic
 chronogrammatically
+cardiorenal
 cheetah
 chronogrammatist
 cloture
