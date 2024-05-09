@@ -11032,6 +11032,7 @@ blockmaker
 blockpate
 blocks
 bhunder
+boniness
 blockship
 blocs
 blodite
@@ -12490,7 +12491,6 @@ bonification
 bonyfish
 boniform
 bonilass
-boniness
 boninesses
 boning
 bakemeat
