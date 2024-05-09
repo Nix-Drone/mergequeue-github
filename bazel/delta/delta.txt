@@ -10032,7 +10032,6 @@ dirls
 descriptions
 dynamomorphic
 dynamoneure
-dynamophone
 dynamos
 dynamostatic
 dynamotor
@@ -10292,6 +10291,7 @@ diopsimeter
 disillusionizing
 dioptases
 diopter
+dynamophone
 diopters
 dioptograph
 dioptometer
