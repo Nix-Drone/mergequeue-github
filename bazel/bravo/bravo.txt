@@ -2009,6 +2009,7 @@ bandstand
 bandstands
 bandster
 ballroom
+biomaterial
 bandstop
 bandstring
 bandura
@@ -14924,7 +14925,6 @@ breathtaking
 breathtakingly
 breba
 breccial
-biomaterial
 brecciate
 brecciated
 brecciating
