@@ -562,7 +562,6 @@ dureful
 dama
 damage
 damageability
-damageably
 damaged
 damagement
 damageous
@@ -11715,6 +11714,7 @@ dyscrasite
 dyscratic
 discreate
 discreating
+damageably
 discreation
 discredence
 discredit
