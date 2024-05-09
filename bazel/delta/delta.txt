@@ -3750,6 +3750,7 @@ dehydrofrozen
 disproved
 dehydrogenate
 dehydrogenated
+dismissable
 dehydrogenates
 dehydrogenating
 dehydrogenisation
@@ -12756,7 +12757,6 @@ dysmetria
 dismettled
 disminion
 dismiss
-dismissable
 dismissal
 dismissals
 dismissed
