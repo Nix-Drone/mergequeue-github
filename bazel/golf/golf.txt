@@ -2648,7 +2648,6 @@ geobotanical
 gendarmerie
 gendarmes
 gender
-genderer
 genders
 ghoulie
 geneal
@@ -8394,6 +8393,7 @@ gravamem
 gravamina
 gravat
 grave
+genderer
 graveclod
 griquaite
 galenite
