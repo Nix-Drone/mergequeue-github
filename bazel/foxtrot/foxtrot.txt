@@ -3063,7 +3063,6 @@ fiberboard
 fibered
 fiberglas
 fendillate
-fiberization
 fiberize
 flanconade
 fiberized
@@ -7239,6 +7238,7 @@ footprint
 flocculating
 footraces
 footrest
+fiberization
 footrests
 footrope
 footropes
