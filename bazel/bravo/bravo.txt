@@ -6478,7 +6478,6 @@ benzolize
 benzols
 benzonaphthol
 benzonitrile
-benzoperoxide
 benzophenanthrazine
 benzophenazine
 benzophenol
@@ -16230,6 +16229,7 @@ browniness
 browningesque
 bindwith
 brownish
+benzoperoxide
 brownishness
 brownist
 brownistic
