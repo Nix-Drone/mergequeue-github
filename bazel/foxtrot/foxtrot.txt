@@ -6863,7 +6863,6 @@ foliary
 flittern
 foliate
 foliated
-foliates
 foliating
 foliation
 foliator
@@ -7805,6 +7804,7 @@ foremarch
 forsaker
 foremark
 fullface
+foliates
 foremartyr
 foremastmen
 foremasts
