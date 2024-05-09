@@ -4656,6 +4656,7 @@ bedchamber
 bratstva
 bedclothing
 bedcord
+bhili
 byplays
 bedcovers
 beddable
@@ -7783,7 +7784,6 @@ bheesties
 bhikku
 bhikshu
 bhil
-bhili
 bursa
 bhindi
 bhishti
