@@ -3230,7 +3230,6 @@ gambier
 goofs
 georgics
 gripy
-georgium
 geoscience
 geoscientist
 geoscientists
@@ -10094,6 +10093,7 @@ guested
 guesten
 guesthouse
 guesting
+georgium
 giottesque
 guestmaster
 gabeller
