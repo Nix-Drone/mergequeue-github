@@ -5594,7 +5594,6 @@ feodum
 flight
 flighted
 flighter
-flightful
 flighty
 flightier
 flightiest
@@ -8441,6 +8440,7 @@ fidding
 formfeeds
 fixion
 formful
+flightful
 formy
 feoffers
 formic
