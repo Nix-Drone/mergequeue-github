@@ -4547,7 +4547,6 @@ demibarrel
 demibastion
 demibastioned
 demibath
-demibeast
 demibelt
 demibrassart
 demibrigade
@@ -16164,6 +16163,7 @@ dovelet
 dovelike
 dovelikeness
 doveling
+demibeast
 discepting
 dovened
 dovening
