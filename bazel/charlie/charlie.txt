@@ -6904,7 +6904,6 @@ cementoblast
 cementoma
 cements
 cementum
-cementwork
 cemetary
 cemetaries
 cemetery
@@ -26607,6 +26606,7 @@ counsellor
 counsellors
 counsellorship
 counselor
+cementwork
 counsels
 count
 countability
