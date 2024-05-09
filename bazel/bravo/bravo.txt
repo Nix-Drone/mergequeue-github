@@ -12412,7 +12412,6 @@ brooders
 bondservant
 bowmaking
 bondship
-bondslave
 bondsman
 bondsmen
 bondstone
@@ -13228,6 +13227,7 @@ batrachoid
 bencite
 boswellia
 boswellian
+bondslave
 boswelliana
 bowge
 boswellism
