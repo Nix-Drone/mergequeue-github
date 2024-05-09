@@ -22622,7 +22622,6 @@ connotate
 connotation
 connotational
 connotations
-connotative
 connotatively
 connote
 connoted
@@ -25338,6 +25337,7 @@ corneule
 corneum
 cornfactor
 cornfed
+connotative
 cornfields
 cornflag
 cornflakes
