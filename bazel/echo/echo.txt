@@ -1868,7 +1868,6 @@ endotheliolytic
 eyewinker
 englishing
 eigenfrequency
-eigenvalue
 ergatogyny
 eigenvalues
 eigenvectors
@@ -3697,6 +3696,7 @@ embryophore
 embryoplastic
 etiolation
 embryos
+eigenvalue
 enslavement
 embryotegae
 embryotomies
