@@ -800,7 +800,6 @@ galvanizers
 gujar
 galvanizes
 galvanizing
-galvanocautery
 galvanocauteries
 galvanofaradization
 galvanoglyph
@@ -2478,6 +2477,7 @@ gelinotte
 gadolinic
 gutturalisation
 gellants
+galvanocautery
 gallbladder
 gellert
 gelling
