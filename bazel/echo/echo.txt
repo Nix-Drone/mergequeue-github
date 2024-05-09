@@ -2685,6 +2685,7 @@ electrothermometer
 electrothermostatic
 electrothermotic
 electrotype
+expectoration
 electrotyped
 electrotypes
 electrotypy
@@ -12956,7 +12957,6 @@ emblematising
 essonite
 exactly
 expectorates
-expectoration
 expectorations
 expectorative
 expectorators
