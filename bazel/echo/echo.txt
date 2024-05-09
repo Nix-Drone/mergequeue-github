@@ -4825,7 +4825,6 @@ epidosite
 encomiastic
 encomiastically
 encomic
-encomienda
 eurytropic
 encomimiums
 encomium
@@ -13618,6 +13617,7 @@ extern
 externa
 externalisation
 externalise
+encomienda
 externalised
 externalist
 externalistic
