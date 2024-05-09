@@ -6962,6 +6962,7 @@ censers
 censitaire
 curiosity
 coordinateness
+convex
 chondriosomal
 censor
 censorable
@@ -24137,7 +24138,6 @@ convertor
 convertors
 converts
 conveth
-convex
 convexedly
 convexedness
 convexes
