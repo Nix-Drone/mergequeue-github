@@ -13395,7 +13395,6 @@ ankerhold
 ankerite
 ankerites
 ankh
-ankhs
 ankylenteron
 ankyloblepharon
 ankylodactylia
@@ -22091,6 +22090,7 @@ astyanax
 astichous
 astigmat
 aeroneurosis
+ankhs
 anachronically
 astigmatic
 alguazil
