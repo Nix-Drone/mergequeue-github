@@ -2724,7 +2724,6 @@ decontrolled
 dermahemia
 deconventionalize
 deconvolution
-deconvolve
 decopperization
 decopperize
 decor
@@ -17361,6 +17360,7 @@ drools
 droop
 drooped
 dehydrogenize
+deconvolve
 dicoelious
 dextrines
 drooper
