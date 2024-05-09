@@ -3779,7 +3779,6 @@ bootstrap
 batterer
 bkcy
 bressummer
-batterie
 breck
 batteried
 batteries
@@ -4962,6 +4961,7 @@ bedrock
 beeheaded
 beeherd
 bouncing
+batterie
 beehive
 beehives
 breathes
