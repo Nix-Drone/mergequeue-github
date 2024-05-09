@@ -4350,7 +4350,6 @@ fleshers
 fishberries
 fishboat
 fishbolt
-fishbolts
 falchions
 fishbowls
 fisheater
@@ -11126,6 +11125,7 @@ ferricyanic
 footmenfootpad
 farceuse
 functionalities
+fishbolts
 fistiana
 formatively
 firemaster
