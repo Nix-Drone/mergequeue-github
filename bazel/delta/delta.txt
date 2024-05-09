@@ -6073,7 +6073,6 @@ deputizes
 deputizing
 dequantitate
 dequeue
-dequeues
 dequeuing
 dropshots
 der
@@ -10120,6 +10119,7 @@ dolichocephal
 disrating
 dingier
 disallowing
+dequeues
 dinging
 dingleberry
 dinglebird
