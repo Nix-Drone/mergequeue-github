@@ -2495,7 +2495,6 @@ acinous
 anatomicophysiological
 aggrate
 acinus
-acipenser
 acipenseres
 aedes
 acipenseridae
@@ -13404,6 +13403,7 @@ ankyloglossia
 ankylomerism
 ankylophobia
 ankylopodia
+acipenser
 ankyloproctia
 ankylos
 ankylosaur
