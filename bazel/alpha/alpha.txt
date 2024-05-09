@@ -10348,7 +10348,6 @@ amia
 alands
 amiability
 amiable
-amiableness
 amiably
 annonce
 amiant
@@ -23093,6 +23092,7 @@ attester
 attesters
 attesting
 attestive
+amiableness
 attestor
 attestors
 attests
