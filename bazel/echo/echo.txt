@@ -1012,7 +1012,6 @@ edacities
 edam
 edana
 edaphology
-enerve
 edaphon
 edaphosauria
 edaphosaurid
@@ -6555,6 +6554,7 @@ empyrical
 entamoebic
 entangle
 entangleable
+enerve
 entangled
 endotrachelitis
 evensong
