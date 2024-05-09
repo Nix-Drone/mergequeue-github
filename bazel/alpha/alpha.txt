@@ -10426,7 +10426,6 @@ anlaute
 amidophosphoric
 amidoplast
 amaryllid
-amidoplastid
 amidosuccinamic
 amidoxy
 amidoxyl
@@ -25303,6 +25302,7 @@ aspirates
 azofier
 azoflavine
 azoformamide
+amidoplastid
 azoformic
 azogallein
 azogreen
