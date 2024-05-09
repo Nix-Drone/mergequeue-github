@@ -5820,7 +5820,6 @@ catguts
 cath
 catha
 convolutionary
-cestodes
 classman
 cathay
 cathayan
@@ -31919,6 +31918,7 @@ cwrite
 cwt
 czar
 czardas
+cestodes
 czardom
 czardoms
 czarevitch
