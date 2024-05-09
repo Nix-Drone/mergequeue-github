@@ -4244,7 +4244,6 @@ glamours
 gentilities
 gymnasium
 gymnasiums
-gymnastic
 gazon
 gittith
 glamoury
@@ -5367,6 +5366,7 @@ guardsman
 galbanum
 glenlike
 glomerulus
+gymnastic
 glenohumeral
 glenoid
 goateed
