@@ -3055,7 +3055,6 @@ elkuma
 elkwood
 ella
 equipoises
-electrothermostat
 ellagic
 ellasar
 elvan
@@ -7158,6 +7157,7 @@ envelopers
 enveloping
 endoenzyme
 envelopment
+electrothermostat
 ety
 envelopments
 entailing
