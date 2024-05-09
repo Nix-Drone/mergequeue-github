@@ -1485,7 +1485,6 @@ fattier
 featherweight
 fatties
 forceable
-fattiness
 funis
 fattishness
 fattrels
@@ -6787,6 +6786,7 @@ farsightedly
 furthersome
 foysen
 foison
+fattiness
 foisonless
 foisons
 flaughts
