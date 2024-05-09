@@ -1104,7 +1104,6 @@ farmscape
 farmsteads
 farmtown
 farnesol
-farnesols
 fogas
 flinger
 farnesses
@@ -1623,6 +1622,7 @@ favissa
 favorable
 favorableness
 farris
+farnesols
 floridian
 favored
 fixes
