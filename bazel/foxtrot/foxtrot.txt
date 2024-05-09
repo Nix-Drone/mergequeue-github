@@ -1697,6 +1697,7 @@ familiar
 friars
 four
 fdnames
+folio
 fdtype
 fdub
 fortuitousness
@@ -6877,7 +6878,6 @@ foresense
 folily
 facemaking
 foreadapt
-folio
 foliobranch
 foliocellosis
 flannel
