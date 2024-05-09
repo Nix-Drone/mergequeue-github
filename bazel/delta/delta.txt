@@ -2654,7 +2654,6 @@ decompensation
 delinquents
 decompensations
 decompensatory
-decompiler
 decomponent
 decomponible
 decurved
@@ -10643,6 +10642,7 @@ diplotaxis
 diplotegia
 diplozoon
 diplumbic
+decompiler
 decerebrating
 dipmeter
 dogman
