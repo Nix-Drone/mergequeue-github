@@ -4141,7 +4141,6 @@ delilah
 deliliria
 decimalizing
 delim
-delimed
 delimes
 deliming
 delimit
@@ -17359,6 +17358,7 @@ droolier
 drooling
 drools
 droop
+delimed
 drooped
 dehydrogenize
 dicoelious
