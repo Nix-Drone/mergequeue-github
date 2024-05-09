@@ -6660,7 +6660,6 @@ enteroepiplocele
 enterogastrone
 egrimonle
 enterogenous
-enterogram
 enterograph
 enterography
 enterohemorrhage
@@ -7396,6 +7395,7 @@ epanorthidae
 epanorthoses
 enserfed
 epanorthotic
+enterogram
 epanthous
 epapillate
 epapophysis
