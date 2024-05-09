@@ -4071,7 +4071,6 @@ freshman
 finless
 finlet
 finlike
-finmark
 finmarks
 finnac
 finnan
@@ -9961,6 +9960,7 @@ fribbler
 friskle
 fribbles
 fribbling
+finmark
 flustered
 friable
 folkmote
