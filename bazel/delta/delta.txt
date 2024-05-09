@@ -1176,7 +1176,6 @@ dogtrot
 datableness
 datably
 datacell
-datafile
 dataflow
 datagram
 datagrams
@@ -6560,6 +6559,7 @@ decontamination
 desegregates
 desegregating
 desegregation
+datafile
 duststorm
 deselected
 deselecting
