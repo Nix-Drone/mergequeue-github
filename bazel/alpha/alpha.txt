@@ -1671,6 +1671,7 @@ accordionist
 accordionists
 accordions
 accords
+auxanometer
 accorporate
 accorporation
 accost
@@ -24499,7 +24500,6 @@ auturgy
 abasio
 apx
 auxanogram
-auxanometer
 auxeses
 auxesis
 auxetic
