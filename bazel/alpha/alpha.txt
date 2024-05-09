@@ -12784,7 +12784,6 @@ arcabucero
 angionosis
 angioparalysis
 anglish
-angioparalytic
 angioparesis
 angiopathy
 ambilogy
@@ -20939,6 +20938,7 @@ apophasis
 ascensive
 ascensor
 ascent
+angioparalytic
 ascertain
 ascertainability
 ascertainably
