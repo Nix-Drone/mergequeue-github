@@ -5621,7 +5621,6 @@ belait
 biface
 belaites
 belam
-belamcanda
 belamy
 belamour
 belanda
@@ -7882,6 +7881,7 @@ bibb
 bibber
 bibbery
 bibberies
+belamcanda
 bibbers
 bibby
 bibbing
