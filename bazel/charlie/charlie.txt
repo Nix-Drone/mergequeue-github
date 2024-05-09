@@ -1982,7 +1982,6 @@ cecils
 campaniform
 campanile
 campaniles
-campanili
 campaniliform
 campanini
 campanist
@@ -25729,6 +25728,7 @@ corroborating
 corroboration
 cancellated
 cephalotheca
+campanili
 corroborations
 countersecure
 caddish
