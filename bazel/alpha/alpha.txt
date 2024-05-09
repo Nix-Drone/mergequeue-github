@@ -2064,7 +2064,6 @@ acetylizable
 acetylization
 acetylize
 acetylized
-acetylizer
 acetylizing
 acetylmethylcarbinol
 acetylperoxide
@@ -10116,6 +10115,7 @@ ambulatoria
 aphanitism
 ambulatorial
 agraphias
+acetylizer
 ambulatories
 ambulatorily
 ambulatorium
