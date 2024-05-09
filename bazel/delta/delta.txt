@@ -3603,7 +3603,6 @@ disguise
 definition
 degass
 degassed
-degassing
 degauss
 degaussing
 degelatinize
@@ -18542,6 +18541,7 @@ dusky
 delubrum
 duskier
 duskiest
+degassing
 duskily
 dusking
 duskingtide
