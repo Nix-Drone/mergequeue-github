@@ -3600,7 +3600,6 @@ gestural
 gallimaufries
 gangwaymen
 gesture
-gestureless
 gesturers
 gesturist
 geswarp
@@ -4920,6 +4919,7 @@ givens
 garderobe
 giver
 givers
+gestureless
 gladeye
 gyves
 giveth
