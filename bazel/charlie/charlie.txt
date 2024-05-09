@@ -14704,7 +14704,6 @@ cystolithic
 carburising
 cystoma
 cystomas
-cystomata
 cystomatous
 cystomyoma
 cystomyxoma
@@ -25356,6 +25355,7 @@ cornhusks
 corny
 cornic
 cornice
+cystomata
 corniced
 cornices
 collaud
