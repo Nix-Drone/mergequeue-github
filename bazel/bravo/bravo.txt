@@ -3519,7 +3519,6 @@ bander
 bat
 bataan
 batable
-batad
 brocket
 batak
 bataleur
@@ -10506,6 +10505,7 @@ blatta
 bilipyrrhin
 blattariae
 biostrome
+batad
 blatted
 blatter
 buoying
