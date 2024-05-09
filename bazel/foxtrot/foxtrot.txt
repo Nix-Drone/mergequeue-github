@@ -4404,7 +4404,6 @@ fishline
 fishlines
 frondage
 fishling
-fishman
 fishmeals
 fishmonger
 ferociousness
@@ -6056,6 +6055,7 @@ floristics
 frowning
 floristry
 funker
+fishman
 frecken
 florisugent
 fretwork
