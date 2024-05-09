@@ -6407,7 +6407,6 @@ electroplaque
 ensigncies
 ensigned
 entranceway
-ensignhood
 ensilaged
 ensilages
 episcopal
@@ -12148,6 +12147,7 @@ excrementive
 extrasensory
 entomoid
 excrementous
+ensignhood
 exurbanite
 excresce
 excrescence
