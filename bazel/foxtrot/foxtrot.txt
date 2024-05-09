@@ -3359,6 +3359,7 @@ fiedlerite
 firstlings
 fief
 foredeem
+fortuning
 fiefs
 forfeitable
 fiel
@@ -8785,7 +8786,6 @@ fortunetell
 forchase
 forbiddable
 fortunetelling
-fortuning
 fortunite
 fortunize
 followership
