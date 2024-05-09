@@ -3798,7 +3798,6 @@ battings
 battish
 battledores
 baldly
-boyar
 battledoring
 borehole
 battlefront
@@ -12547,6 +12546,7 @@ brigantine
 bonser
 bestad
 biotomy
+boyar
 bonsoir
 backscatters
 bonspell
