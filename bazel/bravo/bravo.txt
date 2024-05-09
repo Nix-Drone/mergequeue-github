@@ -2250,6 +2250,7 @@ baptistry
 baptistries
 baptizable
 baptized
+beweep
 baptizement
 baptizer
 baptizers
@@ -7621,7 +7622,6 @@ batterfang
 beweary
 bewearies
 basilateral
-beweep
 bloodleaf
 beweeper
 beweeping
