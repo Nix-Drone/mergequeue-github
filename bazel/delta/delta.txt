@@ -5815,7 +5815,6 @@ depones
 dwt
 deponing
 depopularize
-depopulates
 depopulating
 depopulation
 depopulative
@@ -6186,6 +6185,7 @@ derisiveness
 derisory
 derivability
 derivable
+depopulates
 dirigibility
 derival
 duellers
