@@ -6143,7 +6143,6 @@ graille
 gluneamie
 glusid
 gluside
-glut
 glutamate
 geodesics
 glutamates
@@ -7514,6 +7513,7 @@ graze
 globalism
 gowan
 grabbler
+glut
 gowd
 gowdy
 gowdie
