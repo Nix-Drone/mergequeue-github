@@ -12728,7 +12728,6 @@ dismastment
 disme
 dismeasured
 darkrooms
-dismember
 dismembered
 dismembering
 dismemberments
@@ -18388,6 +18387,7 @@ duplex
 duplexer
 duplexers
 duplexing
+dismember
 donis
 duply
 dynasties
