@@ -1125,7 +1125,6 @@ edify
 echolalia
 expectorator
 edificate
-edification
 edificative
 edificator
 elderhood
@@ -6334,6 +6333,7 @@ endosiphon
 ecotypic
 enscrolling
 envenomation
+edification
 enchalice
 enscrolls
 expediate
