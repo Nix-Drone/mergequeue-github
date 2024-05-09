@@ -3883,7 +3883,6 @@ extrabulbar
 emetomorphine
 emeu
 engladden
-emf
 emulator
 emforth
 emic
@@ -12694,6 +12693,7 @@ exogonium
 exograph
 exolete
 exolution
+emf
 exolve
 exometritis
 emerse
