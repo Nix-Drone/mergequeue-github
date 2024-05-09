@@ -4197,7 +4197,6 @@ benefited
 bearding
 bruting
 beardlessness
-beardlike
 bv
 beardom
 beards
@@ -11542,6 +11541,7 @@ board
 boardbill
 boarded
 boarder
+beardlike
 boarders
 boardy
 boardinghouse
