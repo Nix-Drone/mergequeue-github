@@ -4910,7 +4910,6 @@ goaltending
 gyve
 giveable
 gederite
-gipsyweed
 giveaway
 gelidly
 giveaways
@@ -5248,6 +5247,7 @@ glaucolite
 glaucoma
 goldcup
 guilloche
+gipsyweed
 glaucomys
 glauconia
 glauconiferous
