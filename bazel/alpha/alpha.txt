@@ -6170,7 +6170,6 @@ allocheiria
 agitable
 agitant
 agitate
-agitated
 agitatedly
 agitates
 agitation
@@ -24641,6 +24640,7 @@ avenues
 aver
 averagely
 averageness
+agitated
 avocets
 averages
 averaging
