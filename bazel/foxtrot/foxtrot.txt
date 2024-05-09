@@ -1329,6 +1329,7 @@ fibber
 fumigate
 fastigiate
 fastigiated
+findable
 fogies
 fastigiately
 fibbed
@@ -3919,7 +3920,6 @@ finchery
 finches
 find
 finalizes
-findable
 flabellinerved
 findhorn
 finding
