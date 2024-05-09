@@ -4187,7 +4187,6 @@ beard
 bankrupts
 bodysurfs
 bearded
-beardedness
 bearder
 beardfishes
 beardy
@@ -5169,6 +5168,7 @@ beforeness
 beforesaid
 beforested
 beforetimes
+beardedness
 befortune
 biolytic
 baffled
