@@ -9404,7 +9404,6 @@ altarlet
 altarpieces
 altars
 afghanets
-altazimuth
 alter
 alterability
 alterable
@@ -13987,6 +13986,7 @@ answeringly
 answerless
 ancestresses
 answerlessly
+altazimuth
 answers
 amorously
 abstrusely
