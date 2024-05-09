@@ -16647,7 +16647,6 @@ bucket
 bucketed
 bucketer
 bucketful
-bucketfull
 bucketmaker
 bucketmaking
 bucketman
@@ -18222,6 +18221,7 @@ buts
 betook
 butsu
 butsudan
+bucketfull
 butt
 butter
 butteraceous
