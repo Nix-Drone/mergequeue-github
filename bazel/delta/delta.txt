@@ -5958,7 +5958,6 @@ depressible
 declass
 depressing
 depressingly
-depressingness
 depression
 depressional
 depressions
@@ -6055,6 +6054,7 @@ dislocation
 didynamy
 displume
 deputed
+depressingness
 deputes
 dimera
 deputy
