@@ -14401,7 +14401,6 @@ circumpolar
 circumpolygon
 circumpose
 circumposition
-condite
 circumquaque
 circumradii
 circumradius
@@ -25058,6 +25057,7 @@ corelated
 corelates
 corelating
 corelation
+condite
 corelational
 corelative
 corelatively
