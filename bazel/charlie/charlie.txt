@@ -11501,7 +11501,6 @@ calumnies
 chok
 chokage
 choke
-chokeable
 chokeberry
 chokeberries
 chokebore
@@ -17830,6 +17829,7 @@ codol
 codomain
 codominant
 codon
+chokeable
 crystallographical
 codons
 citola
