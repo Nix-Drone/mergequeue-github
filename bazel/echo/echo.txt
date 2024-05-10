@@ -1171,6 +1171,7 @@ editions
 electronvolt
 editor
 editorial
+expects
 editorialization
 earlobe
 editorialized
@@ -12403,7 +12404,6 @@ entermise
 exeunt
 exfetation
 economiser
-expects
 exfiguration
 exfigure
 exfiltrate
