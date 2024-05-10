@@ -12567,6 +12567,7 @@ disjudication
 disjunctions
 disjunctive
 disjunctively
+dowress
 disjunctor
 disjuncts
 dereferences
@@ -16411,7 +16412,6 @@ downwind
 dogma
 downwith
 dowp
-dowress
 dowry
 drabness
 dimensionality
