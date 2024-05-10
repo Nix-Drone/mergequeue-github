@@ -3328,7 +3328,6 @@ fidged
 fidges
 frameable
 fidget
-fidgetation
 fidgeted
 flitching
 fractals
@@ -4642,6 +4641,7 @@ farming
 fixup
 fixups
 fixure
+fidgetation
 fixures
 fiz
 fizelyite
