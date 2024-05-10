@@ -2108,7 +2108,6 @@ acetonaemia
 acetonaemic
 acetonaphthone
 acetonate
-acetonation
 acetone
 acetonemia
 acetonemic
@@ -13624,6 +13623,7 @@ annular
 annulary
 annularia
 annularity
+acetonation
 annulate
 annulated
 annulately
