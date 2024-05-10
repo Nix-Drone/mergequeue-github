@@ -4092,7 +4092,6 @@ administerings
 administers
 administrable
 aubin
-administrant
 administrants
 administrates
 administrating
@@ -21309,6 +21308,7 @@ askoye
 askos
 askr
 asks
+administrant
 aslake
 aslant
 aslantwise
