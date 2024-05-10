@@ -19153,7 +19153,6 @@ aetheogam
 archpresbytery
 archpretender
 archpriest
-archpriesthood
 archpriestship
 archprimate
 anatomy
@@ -19562,6 +19561,7 @@ argled
 argles
 argling
 argoan
+archpriesthood
 afforestational
 argol
 argolet
