@@ -2668,7 +2668,6 @@ ferrules
 fences
 ferrum
 freshes
-ferruminating
 ferrumination
 furbearer
 fraters
@@ -6280,6 +6279,7 @@ fluidextract
 fluidglycerate
 fluidible
 forcepslike
+ferruminating
 fluidic
 fosslology
 forint
