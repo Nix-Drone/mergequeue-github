@@ -193,6 +193,7 @@ factive
 fisherboat
 fossule
 facto
+fishbolts
 factorability
 factorable
 factordom
@@ -4350,7 +4351,6 @@ fleshers
 fishberries
 fishboat
 fishbolt
-fishbolts
 falchions
 fishbowls
 fisheater
