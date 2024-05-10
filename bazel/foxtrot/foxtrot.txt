@@ -8638,6 +8638,7 @@ forsooth
 forspeak
 forspend
 farstepped
+forcer
 ferally
 footing
 forspoke
@@ -9555,7 +9556,6 @@ furcating
 fratry
 fulcrate
 foothil
-forcer
 fratricide
 fording
 fratricides
