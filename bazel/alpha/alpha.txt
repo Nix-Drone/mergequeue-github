@@ -11610,7 +11610,6 @@ ade
 anaesthetics
 anaesthetist
 anaesthetization
-anaesthetize
 anaesthetized
 anaesthetizer
 arbalester
@@ -18851,6 +18850,7 @@ arched
 archegay
 acyls
 archegone
+anaesthetize
 archegony
 archegonia
 archegonial
