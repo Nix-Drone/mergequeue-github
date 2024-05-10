@@ -5840,7 +5840,6 @@ freeloader
 forcipressure
 floccose
 floccosely
-flocculable
 fangas
 flocculation
 flocculator
@@ -10380,6 +10379,7 @@ fertilizations
 fluoridising
 frondescent
 foofaraw
+flocculable
 funiliform
 fingerleaf
 frondescing
