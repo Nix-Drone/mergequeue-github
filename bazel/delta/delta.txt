@@ -6744,7 +6744,6 @@ dolomitized
 desize
 desk
 deskbound
-deskill
 desklike
 deskman
 deskmen
@@ -9774,6 +9773,7 @@ dilo
 differentially
 dilogy
 dilos
+deskill
 dilucid
 dilucidate
 diluendo
