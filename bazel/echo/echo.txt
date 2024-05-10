@@ -6760,7 +6760,6 @@ entete
 enthalpy
 enthalpies
 enthean
-entheasm
 enfuddle
 entheate
 enthelminthic
@@ -11767,6 +11766,7 @@ exaltment
 exalts
 exam
 examen
+entheasm
 eleometer
 evacuate
 exameter
