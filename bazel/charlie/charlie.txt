@@ -3887,7 +3887,6 @@ carcels
 carcer
 carceral
 carcerate
-carcerated
 carcerating
 carceration
 concertise
@@ -18935,6 +18934,7 @@ counterfallacy
 collectioner
 collections
 collective
+carcerated
 collectively
 collectives
 collectivise
