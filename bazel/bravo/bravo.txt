@@ -804,7 +804,6 @@ badlands
 bogatyr
 buba
 badly
-badman
 badmash
 badmen
 besodden
@@ -17211,6 +17210,7 @@ bullpens
 bullpoll
 belibeling
 bullpup
+badman
 bullragged
 bullragging
 bullrings
