@@ -479,7 +479,6 @@ abyssinia
 abyssinian
 abyssobenthonic
 abyssolith
-abyssopelagic
 abyssus
 abit
 abiuret
@@ -19435,6 +19434,7 @@ arew
 arf
 arfillite
 aroar
+abyssopelagic
 argaile
 absolution
 absorptively
