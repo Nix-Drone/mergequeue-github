@@ -986,7 +986,6 @@ calcaneonavicular
 calcaneoplantar
 countersale
 calcaneoscaphoid
-calcaneotibial
 calcaneum
 calcannea
 calcannei
@@ -5279,6 +5278,7 @@ castaway
 carabiner
 castaways
 caste
+calcaneotibial
 casted
 curvetting
 casteism
