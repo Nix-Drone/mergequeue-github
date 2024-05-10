@@ -2175,7 +2175,6 @@ bannet
 bannisters
 bannition
 bannock
-bowlines
 bannockburn
 bannocks
 bannut
@@ -14628,6 +14627,7 @@ brassware
 brasswork
 brassworker
 brassworks
+bowlines
 brast
 brat
 bratina
