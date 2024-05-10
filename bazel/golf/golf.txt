@@ -7705,7 +7705,6 @@ graftages
 grafted
 glutition
 glotum
-graftproof
 gravestones
 grafts
 graham
@@ -8425,6 +8424,7 @@ graveside
 geraty
 gallflower
 gratuitously
+graftproof
 gravelstone
 gravemaker
 gigantomachy
