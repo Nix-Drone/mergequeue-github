@@ -3481,7 +3481,6 @@ bastide
 briefed
 bastile
 bastiles
-bastille
 bastilles
 biggah
 bastiment
@@ -17768,6 +17767,7 @@ boilerhouse
 burnbeat
 bombshell
 burned
+bastille
 burner
 burnetize
 bloodstain
