@@ -374,6 +374,7 @@ backhaul
 backhauls
 backhoe
 backhoes
+beweeper
 boobies
 backhooker
 backhouses
@@ -7623,7 +7624,6 @@ bewearies
 basilateral
 beweep
 bloodleaf
-beweeper
 beweeping
 beweeps
 bastardize
