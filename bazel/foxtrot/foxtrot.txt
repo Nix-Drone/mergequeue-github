@@ -3824,6 +3824,7 @@ foodful
 faut
 furil
 forebridge
+folding
 fruitester
 filterers
 filtering
@@ -6834,7 +6835,6 @@ folderols
 folders
 foldy
 flisky
-folding
 ferkin
 foldless
 foraminiferan
