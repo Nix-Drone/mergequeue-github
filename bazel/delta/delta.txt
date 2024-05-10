@@ -2677,7 +2677,6 @@ decompoundable
 decompoundly
 decompress
 decompresses
-decompressing
 decompression
 detectaphone
 delegacy
@@ -3917,6 +3916,7 @@ dejections
 dejectly
 dejectory
 desmonosology
+decompressing
 dejects
 dejecture
 dejeration
