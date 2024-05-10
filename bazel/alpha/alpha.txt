@@ -276,7 +276,6 @@ abdominoscopy
 agas
 abdominothoracic
 abdominous
-abdominovaginal
 abdominovesical
 abduce
 abduced
@@ -11954,6 +11953,7 @@ anargyroi
 anargyros
 anarya
 anaryan
+abdominovaginal
 anarithia
 anarithmia
 anarthria
