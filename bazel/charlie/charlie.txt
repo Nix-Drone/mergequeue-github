@@ -5067,7 +5067,6 @@ casehardening
 casehardens
 casey
 caseic
-casein
 caseinate
 cordites
 canvaser
@@ -26323,6 +26322,7 @@ cotemporaneously
 cotemporary
 cotemporaries
 cotemporarily
+casein
 cotenancy
 cotenant
 cotenure
