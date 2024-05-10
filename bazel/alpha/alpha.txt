@@ -12055,7 +12055,6 @@ anatomic
 anatomical
 anatomicals
 anatomicobiological
-anatomicochirurgical
 anatomicomedical
 anatomicopathologic
 anatomicopathological
@@ -23956,6 +23955,7 @@ autocollimation
 autocollimator
 autocollimators
 autocolony
+anatomicochirurgical
 autocombustible
 autocombustion
 autoconduction
