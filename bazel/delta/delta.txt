@@ -11177,7 +11177,6 @@ disbind
 disblame
 disbloom
 disboard
-disbody
 disbodied
 disbogue
 disboscation
@@ -16800,6 +16799,7 @@ derelictions
 drawarm
 dentello
 drawback
+disbody
 drawbar
 drawbars
 drawbeam
