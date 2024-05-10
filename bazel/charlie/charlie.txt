@@ -6061,6 +6061,7 @@ cattlebush
 cattlefold
 cattlegate
 cattlehide
+cotys
 cattleya
 cattleyak
 cattleyas
@@ -11152,7 +11153,6 @@ chizz
 chizzel
 chkalik
 chkfile
-cotys
 chondrite
 chlamyd
 chlamydate
