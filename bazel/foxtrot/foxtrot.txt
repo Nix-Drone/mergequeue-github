@@ -1092,6 +1092,7 @@ fuzzle
 farmy
 farmyard
 fructuary
+face
 farmyardy
 foremastman
 farmland
@@ -6503,7 +6504,6 @@ flush
 flushboard
 flushers
 flushest
-face
 flushgate
 flushy
 flushing
