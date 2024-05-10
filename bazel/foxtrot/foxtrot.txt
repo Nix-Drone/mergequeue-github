@@ -7788,7 +7788,6 @@ foreland
 forelands
 foreleg
 forelimbs
-foredevised
 forelive
 florilege
 forelook
@@ -9920,6 +9919,7 @@ fretsaw
 fuds
 frett
 frettage
+foredevised
 frettation
 fiducial
 frette
