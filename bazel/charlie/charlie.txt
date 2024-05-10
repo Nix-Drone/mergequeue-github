@@ -7154,7 +7154,6 @@ centreboard
 centrechinoida
 centred
 centref
-centrefold
 centreless
 centrepiece
 canephoroe
@@ -13003,6 +13002,7 @@ contingent
 cyanite
 cyanitic
 cyanize
+centrefold
 cyanized
 cyanizing
 cyanmethemoglobin
