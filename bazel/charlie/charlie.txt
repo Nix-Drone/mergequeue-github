@@ -18465,7 +18465,6 @@ coiffeurs
 coiffeuse
 coiffeuses
 coiffing
-coiffure
 coiffured
 coiffures
 coiffuring
@@ -20820,6 +20819,7 @@ compositor
 compositorial
 compositors
 cashed
+coiffure
 compositous
 compositure
 compossibility
