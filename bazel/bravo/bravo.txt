@@ -609,7 +609,6 @@ bricoles
 babungera
 bacquet
 bact
-bacteraemia
 bacteremia
 bacteremic
 bacteria
@@ -15273,6 +15272,7 @@ bridgebuilder
 bridgebuilding
 bridged
 bridgehead
+bacteraemia
 bridgeless
 bridgemaking
 bridgemaster
