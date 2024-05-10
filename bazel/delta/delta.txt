@@ -5990,7 +5990,6 @@ disprofit
 deprivals
 deprivate
 deprivation
-deprive
 deprived
 deprivement
 depriver
@@ -8949,6 +8948,7 @@ dicier
 diciest
 dicing
 dicynodont
+deprive
 dicynodontia
 demeanor
 disproportions
