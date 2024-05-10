@@ -14892,7 +14892,6 @@ cytoclastic
 coalheugh
 celiolymph
 crioboly
-cytococci
 cytococcus
 cytode
 cytoderm
@@ -30103,6 +30102,7 @@ crozzle
 crozzly
 crpe
 crs
+cytococci
 crts
 cru
 crub
