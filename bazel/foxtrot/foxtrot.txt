@@ -1700,6 +1700,7 @@ fdnames
 fdtype
 fdub
 fortuitousness
+finagling
 fe
 forksmith
 feaberry
@@ -2913,7 +2914,6 @@ feudalising
 fuchsias
 fendy
 feudalism
-finagling
 fideism
 feudalist
 feathering
