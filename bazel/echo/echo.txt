@@ -9491,7 +9491,6 @@ escalops
 escambron
 escamotage
 exudate
-escapable
 escapado
 escape
 enframement
@@ -13037,6 +13036,7 @@ expergefacient
 expergefaction
 experience
 experiencer
+escapable
 experiences
 experiencing
 experient
