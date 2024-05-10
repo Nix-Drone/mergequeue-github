@@ -4179,7 +4179,6 @@ farness
 firedamp
 feezing
 firedamps
-firedog
 firedragon
 footnotes
 firedrake
@@ -4435,6 +4434,7 @@ fico
 fishwood
 fishworker
 fishworks
+firedog
 fringilliformes
 fishworm
 fisnoga
