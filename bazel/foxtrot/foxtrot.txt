@@ -1441,7 +1441,6 @@ felids
 fleshlike
 fatiha
 fatihah
-formicinae
 fatil
 fusicoccum
 friendships
@@ -5783,6 +5782,7 @@ flyway
 fruit
 fungiform
 flyways
+formicinae
 faunas
 further
 flyweight
