@@ -27914,6 +27914,7 @@ concubinaries
 craftsperson
 craftswoman
 craftwork
+crizzel
 craftworker
 crag
 craggan
@@ -29558,7 +29559,6 @@ crittur
 critturs
 consular
 crivetz
-crizzel
 crizzled
 crescent
 cro
