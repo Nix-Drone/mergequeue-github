@@ -4834,7 +4834,6 @@ caviteno
 carstone
 cart
 chromatinic
-cartable
 cartaceous
 cartage
 cartages
@@ -6510,6 +6509,7 @@ cesspool
 celibates
 ceanothus
 cearin
+cartable
 cognoscible
 cease
 ceased
