@@ -6487,7 +6487,6 @@ benzophenothiazine
 benzophenoxazine
 benzophloroglucinol
 benzophthalazine
-benzopyran
 benzopyranyl
 benzopyrazolone
 benzopyrylium
@@ -14858,6 +14857,7 @@ breams
 breards
 beclowns
 breastband
+benzopyran
 breastbeam
 breastbone
 breastbones
