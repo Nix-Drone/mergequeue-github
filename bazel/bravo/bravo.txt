@@ -10230,7 +10230,6 @@ bladderweed
 bladderwort
 bladderwrack
 brabbler
-blade
 bladebone
 bladelet
 bladelike
@@ -15909,6 +15908,7 @@ bromlite
 bromo
 bromoacetone
 bromoaurate
+blade
 bromoaurates
 bromoauric
 bromochloromethane
