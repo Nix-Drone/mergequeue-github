@@ -9762,7 +9762,6 @@ chekist
 chekker
 chekmak
 chela
-chelatable
 chelate
 chelated
 chelates
@@ -13340,6 +13339,7 @@ cycloid
 cycloidally
 coalternation
 cycloidean
+chelatable
 cogswellia
 cycloidei
 cycloidotrope
