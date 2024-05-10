@@ -5595,7 +5595,6 @@ bel
 bela
 belabor
 basementward
-bruscus
 beachcomber
 belaboring
 belabours
@@ -14762,6 +14761,7 @@ bayard
 baviere
 breadboard
 breadboards
+bruscus
 breadbox
 brazilian
 billycock
