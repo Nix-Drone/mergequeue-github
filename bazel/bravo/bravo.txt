@@ -10464,7 +10464,6 @@ blastopore
 blastosphere
 blackthorn
 blastospheric
-buttonhold
 blastostylar
 blastostyle
 blastozooid
@@ -17938,6 +17937,7 @@ busheled
 beauship
 brachyure
 busheler
+buttonhold
 bezique
 bivium
 bushelers
