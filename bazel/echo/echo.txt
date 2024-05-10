@@ -7121,6 +7121,7 @@ enumerations
 euphone
 enlinked
 enumerator
+exogenous
 enunciability
 endoss
 enunciable
@@ -12683,7 +12684,6 @@ exogeny
 encratism
 exogenic
 epipleurae
-exogenous
 exogenously
 excurvation
 exogyra
