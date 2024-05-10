@@ -6513,7 +6513,6 @@ ensures
 ergatogyne
 ensuring
 enswathe
-enswathed
 enswathement
 encephalola
 enswathes
@@ -7317,6 +7316,7 @@ endosepsis
 eolation
 eole
 eolian
+enswathed
 eolipile
 eolipiles
 eolithic
