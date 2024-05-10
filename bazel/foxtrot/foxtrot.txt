@@ -5834,7 +5834,6 @@ forcedness
 fraternate
 fastigia
 fname
-floccillation
 floccipend
 freeloader
 forcipressure
@@ -6864,6 +6863,7 @@ flittern
 foliate
 foliated
 foliates
+floccillation
 foliating
 foliation
 foliator
