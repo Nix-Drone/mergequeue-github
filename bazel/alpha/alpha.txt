@@ -14285,7 +14285,6 @@ anterointerior
 anterointernal
 anterolateral
 anterolaterally
-anteromedial
 anteromedian
 anteroom
 allopathies
@@ -15459,6 +15458,7 @@ affixt
 adjutancy
 antiliturgical
 antiliturgist
+anteromedial
 antilobium
 antilocapra
 antilochus
