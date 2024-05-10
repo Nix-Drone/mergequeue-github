@@ -9380,7 +9380,6 @@ besogne
 birdcage
 baroscope
 birdcages
-birdcall
 birdcalls
 birdcatching
 birdcraft
@@ -16707,6 +16706,7 @@ bucktail
 bedfoot
 bucktooth
 bucktoothed
+birdcall
 bucku
 ballooning
 buckwagon
