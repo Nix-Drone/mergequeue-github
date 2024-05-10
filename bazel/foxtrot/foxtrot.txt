@@ -1075,6 +1075,7 @@ furriners
 farmable
 farmed
 farmer
+fodder
 farmeress
 farmery
 filigraned
@@ -6672,7 +6673,6 @@ focusses
 focussing
 fod
 fodda
-fodder
 fodderer
 foddering
 fodderless
