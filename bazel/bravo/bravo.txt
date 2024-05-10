@@ -1592,7 +1592,6 @@ balletomania
 ballets
 ballfield
 ballflower
-ballgame
 ballgames
 ballgowns
 ballhausplatz
@@ -7593,6 +7592,7 @@ bidarkees
 bevilled
 bemuzzling
 bevined
+ballgame
 bevoiled
 bevomit
 bevomited
