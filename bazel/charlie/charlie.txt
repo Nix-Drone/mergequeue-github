@@ -8762,7 +8762,6 @@ chanting
 chantingly
 chantment
 chantor
-chantors
 chantress
 chantry
 chantries
@@ -18546,6 +18545,7 @@ cagui
 coinheritance
 coinheritor
 coiny
+chantors
 coining
 coinitial
 coinmaking
