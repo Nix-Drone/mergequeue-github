@@ -5002,7 +5002,6 @@ ferrite
 flappable
 flapped
 favourless
-foelike
 flapperdom
 forte
 framableness
@@ -6835,6 +6834,7 @@ folders
 foldy
 flisky
 folding
+foelike
 ferkin
 foldless
 foraminiferan
