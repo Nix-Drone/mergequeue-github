@@ -2964,6 +2964,7 @@ barrelhouses
 besmearer
 barreling
 broad
+bestench
 barrelled
 brattle
 barrelmaker
@@ -7230,7 +7231,6 @@ bedcover
 bested
 besteer
 bioflavonoid
-bestench
 bester
 bestial
 bestialise
