@@ -8319,7 +8319,6 @@ bifrost
 bifunctional
 bifurcal
 bifurcate
-bifurcated
 bifurcately
 bifurcates
 bifurcating
@@ -17555,6 +17554,7 @@ brosse
 burden
 burdenable
 bulking
+bifurcated
 burdened
 brawlers
 burdener
