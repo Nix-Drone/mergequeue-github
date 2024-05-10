@@ -1086,6 +1086,7 @@ emulsor
 edgeless
 executing
 edgeling
+enfile
 edgeman
 edger
 edgers
@@ -11749,7 +11750,6 @@ exalbuminose
 exalbuminous
 exallotriote
 exalt
-enfile
 elfins
 exaltate
 exaltation
