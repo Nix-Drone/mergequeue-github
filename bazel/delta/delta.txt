@@ -13474,6 +13474,7 @@ durgen
 dissection
 dissections
 disfrequent
+dispowder
 dissectors
 dissects
 desperadoes
@@ -13608,7 +13609,6 @@ dissimulation
 dissimulations
 deipara
 dissimulative
-dispowder
 dissimulator
 daidling
 dissimuler
