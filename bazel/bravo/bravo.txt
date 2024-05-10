@@ -2144,7 +2144,6 @@ bankside
 bumbaste
 buxeous
 banksides
-banksman
 barebone
 banksmen
 bankweed
@@ -9971,6 +9970,7 @@ bivious
 bivocalized
 bivoluminous
 bivouaced
+banksman
 bivouacked
 bivouacking
 brawlys
