@@ -4194,6 +4194,7 @@ gimbal
 gimbaled
 gimballed
 groundsheet
+gravat
 groining
 guildry
 gimberjawed
@@ -8392,7 +8393,6 @@ gammadia
 grizzlyman
 gravamem
 gravamina
-gravat
 grave
 graveclod
 griquaite
