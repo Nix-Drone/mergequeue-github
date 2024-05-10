@@ -322,6 +322,7 @@ backchats
 backcomb
 backcountry
 backcourt
+belligerency
 backcourtman
 backcross
 backdated
@@ -5843,7 +5844,6 @@ bellyfish
 bellyful
 belligerence
 bestrews
-belligerency
 belligerent
 belligerently
 belligerents
