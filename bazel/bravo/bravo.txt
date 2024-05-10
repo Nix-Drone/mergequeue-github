@@ -4110,7 +4110,6 @@ beam
 beambird
 beamed
 beamer
-beamers
 beamfilling
 beamful
 beeware
@@ -11955,6 +11954,7 @@ bohorok
 beltis
 bohunk
 bohunks
+beamers
 beverly
 bosser
 boy
