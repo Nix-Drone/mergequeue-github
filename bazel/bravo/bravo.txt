@@ -11787,6 +11787,7 @@ bodies
 becrowding
 boucan
 bodyguards
+blintz
 beribers
 bodykins
 bodiless
@@ -12369,7 +12370,6 @@ breathalyse
 bonbons
 belvederes
 banisterine
-blintz
 bonchief
 bond
 berberins
