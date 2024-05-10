@@ -587,7 +587,6 @@ caeciliidae
 caecity
 caecocolic
 caecostomy
-caecotomy
 caecum
 caedmonian
 caedmonic
@@ -14739,6 +14738,7 @@ cystorrhaphy
 cystorrhea
 cystosarcoma
 cystoschisis
+caecotomy
 cystoscope
 cystoscopic
 cystoscopies
