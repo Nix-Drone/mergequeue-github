@@ -1897,7 +1897,6 @@ debted
 debtee
 debtful
 debtless
-debtor
 debtors
 debugger
 debuggers
@@ -12614,6 +12613,7 @@ dyslexics
 disappoints
 disli
 dislicense
+debtor
 dislikable
 dislike
 dislikeable
