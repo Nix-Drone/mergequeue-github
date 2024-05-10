@@ -4631,6 +4631,7 @@ carpeting
 carpetlayer
 carpetless
 carpetmaker
+confinements
 carpetmaking
 carpetmonger
 carpets
@@ -21969,7 +21970,6 @@ confinedness
 confinement
 crosstied
 chirurgic
-confinements
 confiner
 confiners
 confines
