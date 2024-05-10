@@ -2945,6 +2945,7 @@ feudovassalism
 format
 feuds
 flagonless
+firmers
 furazane
 formularism
 frustums
@@ -4287,7 +4288,6 @@ firmation
 firmed
 fruitlet
 firmer
-firmers
 firming
 firmisternal
 fronded
