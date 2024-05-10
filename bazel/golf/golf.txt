@@ -3622,7 +3622,6 @@ granddaughterly
 getling
 getmjlkost
 goners
-getspace
 getsul
 gnawingly
 guidons
@@ -5575,6 +5574,7 @@ gibli
 gunl
 glyptodon
 glyptodont
+getspace
 goosecap
 grandness
 gletty
