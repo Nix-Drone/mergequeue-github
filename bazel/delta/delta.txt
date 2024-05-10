@@ -6303,7 +6303,6 @@ degausses
 dermatoskeleton
 dermatotherapy
 depurated
-dermatotome
 dermatotomy
 dermatozoon
 desalinates
@@ -16629,6 +16628,7 @@ dragonhead
 dragonhood
 downily
 decompositional
+dermatotome
 dragonish
 dragonize
 dragonkind
