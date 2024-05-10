@@ -9559,6 +9559,7 @@ checkpoints
 commonize
 checkrack
 checkrail
+cospecific
 checkrein
 checkroll
 checkroom
@@ -26152,7 +26153,6 @@ cosmozoism
 cosonant
 cosovereignty
 cospecies
-cospecific
 cosphered
 cosplendor
 caeciliae
