@@ -4419,7 +4419,6 @@ fishpoles
 fishponds
 fishpotter
 fishskin
-fishspear
 fishtail
 fishtailed
 flether
@@ -9137,6 +9136,7 @@ fowlpoxes
 fallaciousness
 fowls
 fringillid
+fishspear
 fox
 foxbane
 foxberry
