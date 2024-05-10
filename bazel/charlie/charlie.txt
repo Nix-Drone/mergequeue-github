@@ -1104,7 +1104,6 @@ calcrete
 calcsinter
 calcspar
 calcspars
-calctufas
 calctuff
 calculability
 calculable
@@ -14997,6 +14996,7 @@ cytospora
 cytosporina
 cytost
 cradlelike
+calctufas
 cytostatically
 coadjutator
 cytostomal
