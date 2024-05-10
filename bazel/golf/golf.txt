@@ -3921,7 +3921,6 @@ gibstaff
 gibus
 gibuses
 giddap
-guideless
 giddy
 goff
 giddybrain
@@ -6993,6 +6992,7 @@ goodmanship
 glycosidase
 goodmen
 goodness
+guideless
 goodrich
 gleesomeness
 goodsire
