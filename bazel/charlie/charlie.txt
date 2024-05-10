@@ -7865,7 +7865,6 @@ cervixes
 cervoid
 cervuline
 cervulus
-cervus
 cesare
 cesarean
 cesareans
@@ -8308,6 +8307,7 @@ chalcids
 chalcioecus
 chalcis
 chalcites
+cervus
 chalcocite
 chalcogen
 chalcogenide
