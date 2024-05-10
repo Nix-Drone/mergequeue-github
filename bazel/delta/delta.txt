@@ -2131,7 +2131,6 @@ decarburation
 decarburisation
 decarburise
 decarburised
-decarburising
 decarburize
 decarburized
 decarburizing
@@ -2359,6 +2358,7 @@ deciatine
 debilitated
 decibel
 decibels
+decarburising
 deciceronize
 decidability
 decidedly
