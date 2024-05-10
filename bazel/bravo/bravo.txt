@@ -8744,7 +8744,6 @@ biloquist
 bilos
 biloxi
 bilsh
-bilskirnir
 bilsteds
 bembex
 biltong
@@ -18340,6 +18339,7 @@ buttresses
 buttressing
 buttressless
 buttresslike
+bilskirnir
 butts
 buttstrap
 bolita
