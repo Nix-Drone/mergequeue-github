@@ -450,6 +450,7 @@ burgle
 behavers
 bluebird
 backsets
+borders
 backsetting
 backsettler
 backshish
@@ -12952,7 +12953,6 @@ borderer
 borderers
 bordering
 borderings
-borders
 borderland
 borderlander
 borderlands
