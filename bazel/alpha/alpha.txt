@@ -3943,7 +3943,6 @@ adytta
 adytum
 aditus
 adj
-adjacence
 adjacency
 adjacencies
 amated
@@ -6211,6 +6210,7 @@ aglimmer
 aglint
 aglipayan
 aglipayano
+adjacence
 aglypha
 aglyphodont
 aglyphodonta
