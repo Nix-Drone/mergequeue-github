@@ -4190,7 +4190,6 @@ gilttail
 gilver
 gasterosteoid
 gim
-gimbal
 gimbaled
 gimballed
 groundsheet
@@ -7958,6 +7957,7 @@ grandparent
 gruesomely
 greenishness
 grandparentage
+gimbal
 galeidae
 geatas
 gatten
