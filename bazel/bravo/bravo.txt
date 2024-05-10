@@ -2959,7 +2959,6 @@ barrelful
 barrelfuls
 blind
 barrelhead
-barrelhouse
 barrelhouses
 besmearer
 barreling
@@ -4175,6 +4174,7 @@ bearance
 bearbaiter
 bearbane
 bearberry
+barrelhouse
 bearberries
 bearbind
 bearcat
