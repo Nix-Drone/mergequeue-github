@@ -39,6 +39,7 @@ filters
 fallacies
 fabrique
 fabronia
+fishbolt
 fabroniaceae
 fabula
 fabular
@@ -4349,7 +4350,6 @@ fishberry
 fleshers
 fishberries
 fishboat
-fishbolt
 fishbolts
 falchions
 fishbowls
