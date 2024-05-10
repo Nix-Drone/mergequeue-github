@@ -5933,7 +5933,6 @@ entirety
 eurylaimus
 enisling
 enjail
-enjamb
 enjambed
 enjambement
 exemplary
@@ -13296,6 +13295,7 @@ exposing
 exposit
 expositing
 esthesiometry
+enjamb
 exsanguinity
 exposition
 expositional
