@@ -8916,7 +8916,6 @@ bioaccumulation
 bioactivities
 bioassaying
 bioastronautical
-bioastronautics
 bioavailability
 biobibliographer
 biobibliography
@@ -12258,6 +12257,7 @@ bombardier
 bombardiers
 bombarding
 bombardman
+bioastronautics
 boughless
 biopsies
 bombardmen
