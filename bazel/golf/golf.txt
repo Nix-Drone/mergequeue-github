@@ -3243,7 +3243,6 @@ geoselenic
 geosid
 geosynclinal
 geosphere
-geostationary
 grizel
 graphologic
 gluttonism
@@ -6489,6 +6488,7 @@ gobonated
 gobonee
 gobony
 gobs
+geostationary
 gluttonise
 gobstick
 gobstopper
