@@ -6519,7 +6519,6 @@ benzoxyacetic
 benzoxycamphor
 benzoxyphenanthrene
 benzpinacone
-benzpyrene
 benztrioxazine
 biostratigraphy
 beothuk
@@ -17185,6 +17184,7 @@ buckramed
 baubles
 bullyrock
 bullyrook
+benzpyrene
 bullish
 bullishness
 bullism
