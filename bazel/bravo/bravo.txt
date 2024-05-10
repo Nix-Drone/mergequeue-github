@@ -1409,7 +1409,6 @@ blithebread
 baldest
 broadhearted
 baldhead
-baldheaded
 baldheads
 bussu
 baldy
@@ -10408,6 +10407,7 @@ blastematic
 blastemic
 blaster
 blastful
+baldheaded
 blastid
 blastie
 blastier
