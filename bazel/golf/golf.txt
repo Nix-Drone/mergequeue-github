@@ -1644,7 +1644,6 @@ gasoliner
 germiparity
 gasolines
 gasometry
-gastrodisc
 glutaminic
 gasometric
 grype
@@ -7635,6 +7634,7 @@ grader
 grades
 gradgrind
 gud
+gastrodisc
 gradgrindian
 gillenia
 gingelies
