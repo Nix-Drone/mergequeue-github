@@ -5237,6 +5237,7 @@ begass
 begats
 bestrows
 begattal
+biodegrading
 bastes
 begaud
 begaudy
@@ -8968,7 +8969,6 @@ biodegradation
 becassocked
 biodegrade
 biodegraded
-biodegrading
 biodynamical
 biodynamics
 biodyne
