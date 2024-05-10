@@ -262,7 +262,6 @@ douceurs
 dagesh
 dagga
 daggar
-dagger
 daggerboard
 daggered
 dextrogyration
@@ -13924,6 +13923,7 @@ distractible
 defaulters
 distractile
 dedicator
+dagger
 distraction
 distractions
 derout
