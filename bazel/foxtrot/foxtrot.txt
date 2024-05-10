@@ -4905,7 +4905,6 @@ flameout
 flameouts
 flameproof
 formulize
-flameproofer
 flintlocks
 finfishes
 flamer
@@ -11330,6 +11329,7 @@ furanose
 fixates
 fellahin
 ferrimagnetic
+flameproofer
 furanoses
 furanoside
 furazan
