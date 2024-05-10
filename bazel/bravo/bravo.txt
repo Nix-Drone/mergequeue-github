@@ -7251,7 +7251,6 @@ bevelling
 bene
 bestially
 bestian
-bestiary
 bestiarian
 bestiaries
 bestiarist
@@ -16707,6 +16706,7 @@ bucktail
 bedfoot
 bucktooth
 bucktoothed
+bestiary
 bucku
 ballooning
 buckwagon
