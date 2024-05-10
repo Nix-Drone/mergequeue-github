@@ -1960,7 +1960,6 @@ bandits
 banditti
 bandle
 bandleader
-bandless
 bejabers
 bodrag
 blastoff
@@ -6515,6 +6514,7 @@ benzotrifluoride
 benzotrifuran
 benzoxate
 bolection
+bandless
 benzoxyacetic
 benzoxycamphor
 benzoxyphenanthrene
