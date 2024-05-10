@@ -4586,7 +4586,6 @@ gypping
 gyppo
 gips
 gyp
-gyps
 gipseian
 gipser
 gipsy
@@ -7867,6 +7866,7 @@ groupment
 gullishly
 grams
 goodeniaceae
+gyps
 grana
 granada
 granado
