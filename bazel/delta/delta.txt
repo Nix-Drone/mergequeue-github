@@ -12232,7 +12232,6 @@ disguisal
 disguised
 disguisedly
 disguisedness
-disguiseless
 disguisement
 disguiser
 disguises
@@ -16152,6 +16151,7 @@ dove
 dovecot
 dovecote
 dovecotes
+disguiseless
 dramaticule
 dovecots
 doveflower
