@@ -6970,7 +6970,6 @@ follis
 feuille
 fatheads
 follow
-followable
 followed
 follower
 foisting
@@ -11194,6 +11193,7 @@ funeral
 funeralize
 frit
 floorage
+followable
 funerally
 foresettle
 funerary
