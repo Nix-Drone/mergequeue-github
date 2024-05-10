@@ -8291,7 +8291,6 @@ forhow
 fade
 foryield
 furnished
-furnaceman
 ferriage
 felonous
 fitly
@@ -11419,6 +11418,7 @@ furlable
 furlan
 filiality
 furlana
+furnaceman
 firbolg
 furler
 furlers
