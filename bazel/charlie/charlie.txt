@@ -9541,7 +9541,6 @@ checkle
 checkless
 checklist
 checklists
-checkman
 congruencies
 clipeus
 checkmark
@@ -18256,6 +18255,7 @@ cogit
 cogitability
 cogitabund
 cogitabundity
+checkman
 cogitabundly
 chainstitch
 cogitabundous
