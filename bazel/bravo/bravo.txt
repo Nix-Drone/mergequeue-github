@@ -2561,7 +2561,6 @@ barfs
 bargain
 bargainable
 billbugs
-bargainee
 bargainer
 bargaining
 bargainor
@@ -12487,6 +12486,7 @@ boniest
 boniface
 bonifaces
 bonification
+bargainee
 bonyfish
 boniform
 bonilass
