@@ -6652,7 +6652,6 @@ bereareft
 bereason
 bereave
 bereavement
-bereavements
 bereaver
 bullfist
 bereavers
@@ -16255,6 +16254,7 @@ browsed
 browser
 browsers
 browses
+bereavements
 butyr
 browsick
 browsing
