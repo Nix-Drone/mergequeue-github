@@ -11352,7 +11352,6 @@ chloronaphthalene
 chloronitrate
 chloropal
 chloropalladates
-chloropalladic
 chlorophaeite
 chlorophane
 chlorophenol
@@ -27731,6 +27730,7 @@ coze
 cozed
 cozey
 cozeier
+chloropalladic
 cozeiest
 cozeys
 cozen
