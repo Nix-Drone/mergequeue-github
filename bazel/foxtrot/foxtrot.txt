@@ -3809,7 +3809,6 @@ filmstrips
 filo
 filoplumaceous
 fulmicotton
-filoplume
 filopodia
 filopodium
 filosa
@@ -10116,6 +10115,7 @@ fringetail
 fennel
 fringier
 forworn
+filoplume
 fringilla
 fringillaceous
 favors
