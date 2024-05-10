@@ -4083,7 +4083,6 @@ cardiorespiratory
 cardiorrhaphy
 cardiorrheuma
 cardiorrhexis
-cardiosclerosis
 cardioscope
 cardiosymphysis
 cardiospasm
@@ -19773,6 +19772,7 @@ comely
 comelier
 comeliest
 comelily
+cardiosclerosis
 comeliness
 comeling
 comendite
