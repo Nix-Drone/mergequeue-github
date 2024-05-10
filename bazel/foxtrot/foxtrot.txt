@@ -2954,6 +2954,7 @@ foreshows
 feuillemorte
 feuillet
 feuilleton
+forestage
 feuilletonist
 feuilletonistic
 feuilletons
@@ -8029,7 +8030,6 @@ forest
 forthteller
 forestaff
 forestaffs
-forestage
 forestay
 forestair
 fireplough
