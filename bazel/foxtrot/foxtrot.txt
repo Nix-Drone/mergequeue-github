@@ -4216,7 +4216,6 @@ fleeceable
 fireplug
 frieze
 fireplugs
-firepot
 fireproofed
 fireproofing
 fireproofness
@@ -7730,6 +7729,7 @@ foziest
 flaggelation
 forehill
 forehock
+firepot
 forehoof
 flagrantness
 flotter
