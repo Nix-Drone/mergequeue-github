@@ -4913,7 +4913,6 @@ flamers
 ferneries
 fallback
 flamethrowers
-forcepses
 frankpledge
 fraternity
 flamy
@@ -5606,6 +5605,7 @@ frailest
 flights
 flightworthy
 flying
+forcepses
 flyings
 flyleaves
 flyless
