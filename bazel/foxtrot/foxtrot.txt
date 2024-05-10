@@ -1082,7 +1082,6 @@ farmeries
 farmerish
 farmerly
 farmerlike
-farmership
 farmhold
 farmhouse
 feronia
@@ -1336,6 +1335,7 @@ fastigiums
 fastiia
 fasting
 fastings
+farmership
 fellator
 framed
 fastish
