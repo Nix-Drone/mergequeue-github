@@ -9728,6 +9728,7 @@ amalg
 amalgamable
 amalgamate
 attackable
+anopheline
 amalgamates
 amalgamating
 antimonarchical
@@ -13815,7 +13816,6 @@ anopheles
 alligatoring
 anophelinae
 aralia
-anopheline
 anophoria
 anophthalmia
 anophthalmos
