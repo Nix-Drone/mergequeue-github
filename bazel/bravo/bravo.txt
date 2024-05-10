@@ -4805,7 +4805,6 @@ bedraped
 bedrapes
 bedraping
 bedread
-bedrel
 bedrench
 bedrenched
 bedrenches
@@ -12620,6 +12619,7 @@ boohoos
 boojum
 book
 bookable
+bedrel
 bookbind
 boughed
 bookbindery
