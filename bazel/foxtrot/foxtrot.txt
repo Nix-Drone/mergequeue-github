@@ -1688,6 +1688,7 @@ faxing
 fazes
 fc
 fchar
+fluidize
 fipenny
 fcomp
 farcin
@@ -3608,7 +3609,6 @@ filefishes
 fogie
 firelight
 filemaker
-fluidize
 filemark
 filemot
 foreknee
