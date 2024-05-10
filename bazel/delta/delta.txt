@@ -2816,7 +2816,6 @@ decrepitation
 decrepity
 decrepitness
 decreptitude
-decresc
 decrescendo
 duodecahedron
 dedan
@@ -10315,6 +10314,7 @@ driftpiece
 dioramic
 diordinal
 duplet
+decresc
 diorite
 diorites
 diorthoses
