@@ -2865,7 +2865,6 @@ barostat
 bruta
 blasphemers
 baroswitch
-barotactic
 barotaxy
 butling
 barotaxis
@@ -6362,6 +6361,7 @@ bentonite
 bentonitic
 bents
 bentstar
+barotactic
 bentwoods
 benu
 benumbed
