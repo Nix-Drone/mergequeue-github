@@ -2222,7 +2222,6 @@ felspath
 felspathose
 felstone
 framers
-farmhouses
 felt
 felted
 felter
@@ -9261,6 +9260,7 @@ foundationally
 fabledom
 fractonimbus
 fractostratus
+farmhouses
 fractur
 fracturable
 federations
