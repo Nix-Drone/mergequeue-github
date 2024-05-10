@@ -16864,7 +16864,6 @@ clubroots
 clubs
 clubstart
 clubster
-clubweed
 clubwoman
 clubwomen
 clubwood
@@ -29584,6 +29583,7 @@ croatian
 croc
 crinion
 crocanthemum
+clubweed
 croceic
 croceine
 croceines
