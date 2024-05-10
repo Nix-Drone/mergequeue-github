@@ -4253,7 +4253,6 @@ emprize
 emulgent
 emprizes
 emprosthotonic
-emprosthotonos
 equidominant
 emptiable
 euros
@@ -5432,6 +5431,7 @@ expendable
 endseal
 endshake
 endsheet
+emprosthotonos
 everglade
 execrates
 endue
