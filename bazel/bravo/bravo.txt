@@ -3623,7 +3623,6 @@ bulreedy
 bathypelagic
 bastinadoes
 babesiasis
-bathyplankton
 buglers
 baygall
 bathyscaph
@@ -4608,6 +4607,7 @@ becushioned
 bed
 bedabble
 bedabbled
+bathyplankton
 bedabbles
 bedabbling
 bedad
