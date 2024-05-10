@@ -6331,7 +6331,6 @@ agonists
 agonize
 agonized
 agonizedly
-agonizer
 avenged
 agonizing
 autoinduction
@@ -20388,6 +20387,7 @@ arsenofuran
 arsenohemol
 arsenolite
 arsenophagy
+agonizer
 arsenophen
 arsenophenylglycin
 arsenophenol
