@@ -2860,6 +2860,7 @@ genizah
 gleek
 genizero
 genny
+grappling
 gamogenetical
 gibelite
 garvance
@@ -8227,7 +8228,6 @@ grapple
 grappled
 grappler
 grapples
-grappling
 grapsidae
 grapsus
 gondolet
