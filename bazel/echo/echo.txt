@@ -298,6 +298,7 @@ eatability
 eatable
 eatables
 electrolyzability
+exobasidiaceae
 eatberry
 eaten
 emetophobia
@@ -12604,7 +12605,6 @@ exposer
 exoascaceae
 exoascaceous
 exoascales
-exobasidiaceae
 erymanthian
 exobasidiales
 exclaim
