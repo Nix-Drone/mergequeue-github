@@ -3579,7 +3579,6 @@ embossments
 embost
 exembryonate
 embosture
-embottle
 entases
 expostulation
 excisemen
@@ -12879,6 +12878,7 @@ educabilia
 epitaphic
 expandible
 expanding
+embottle
 ell
 expandingly
 expanse
