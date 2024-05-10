@@ -5002,6 +5002,7 @@ aeroliths
 aerolitic
 aerolitics
 aerologic
+autochanger
 aerological
 aerologies
 aerologist
@@ -5221,7 +5222,6 @@ aumail
 afear
 afebrile
 afenil
-autochanger
 afer
 afernan
 afetal
