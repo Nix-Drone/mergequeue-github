@@ -16535,7 +16535,6 @@ cloghead
 cloglike
 clogmaker
 clogmaking
-clogwheel
 charoset
 clogwyn
 clogwood
@@ -26536,6 +26535,7 @@ coughing
 coughroot
 coughs
 coughwort
+clogwheel
 couhage
 could
 coul
