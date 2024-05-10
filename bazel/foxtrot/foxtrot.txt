@@ -4908,7 +4908,6 @@ formulize
 flameproofer
 flintlocks
 finfishes
-flamer
 flamers
 ferneries
 fallback
@@ -10772,6 +10771,7 @@ frustrating
 foretokened
 frustration
 frustrative
+flamer
 frustratory
 frustula
 frustule
