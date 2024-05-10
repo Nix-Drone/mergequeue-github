@@ -4652,7 +4652,6 @@ bedcap
 bedcase
 bedchair
 bedchairs
-bedchamber
 bratstva
 bedclothing
 bedcord
@@ -6720,6 +6719,7 @@ babiroussa
 beriberis
 berycid
 berycidae
+bedchamber
 beryciform
 berycine
 berycoid
