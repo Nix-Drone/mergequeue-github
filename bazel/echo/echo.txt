@@ -6758,6 +6758,7 @@ entertissue
 emetine
 entete
 enthalpy
+expansile
 enthalpies
 enthean
 entheasm
@@ -12885,7 +12886,6 @@ expanse
 expansibility
 expansible
 expansibly
-expansile
 expansion
 epileptologist
 emmet
