@@ -1403,7 +1403,6 @@ acceded
 acceders
 acceding
 accel
-accelerable
 accelerando
 amnesias
 accelerant
@@ -4991,6 +4990,7 @@ aquavalent
 aerohydrous
 anodine
 aerolite
+accelerable
 apocopate
 aerolites
 anteoccupation
