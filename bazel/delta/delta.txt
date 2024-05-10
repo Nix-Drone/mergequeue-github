@@ -12367,7 +12367,6 @@ dishorn
 dishorner
 dishorse
 dishpan
-dishpanful
 dishpans
 dishrags
 dishtowels
@@ -13679,6 +13678,7 @@ dissolvent
 dissolves
 dreamboat
 damndests
+dishpanful
 dessertspoon
 dolesomeness
 diabetogenous
