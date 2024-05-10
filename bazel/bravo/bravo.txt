@@ -2009,7 +2009,6 @@ bandstand
 bandstands
 bandster
 ballroom
-bandstop
 bandstring
 bandura
 bandurria
@@ -17166,6 +17165,7 @@ bulliform
 bullyhuff
 builder
 bullying
+bandstop
 bullyingly
 bullyism
 bintangor
