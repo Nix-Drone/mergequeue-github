@@ -7635,7 +7635,6 @@ grader
 grades
 gradgrind
 gud
-gradgrindian
 gillenia
 gingelies
 gradgrindish
@@ -7777,6 +7776,7 @@ geodiatropism
 gephyrophobia
 grummeter
 guestimate
+gradgrindian
 grossirete
 grammarianism
 guerison
