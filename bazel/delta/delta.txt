@@ -9577,6 +9577,7 @@ dihedral
 dihedrals
 dihedron
 discipleship
+drawcansir
 dihelium
 dihexahedron
 dihybridism
@@ -16815,7 +16816,6 @@ drawbored
 drawbores
 deodars
 dorsomesal
-drawcansir
 drawcard
 disconsonant
 drawcut
