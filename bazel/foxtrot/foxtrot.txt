@@ -4360,6 +4360,7 @@ fisher
 fenian
 fisherboy
 faffle
+flinched
 fisheress
 fragmentate
 fisherfolk
@@ -5630,7 +5631,6 @@ flinch
 flagleaf
 freighters
 forgone
-flinched
 flincher
 flinching
 founce
