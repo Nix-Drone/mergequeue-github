@@ -18161,7 +18161,6 @@ cofather
 cartoned
 cofathership
 cofeature
-cofeatures
 coferment
 cofermentation
 coffea
@@ -25845,6 +25844,7 @@ convertable
 callisaurus
 corsesque
 corset
+cofeatures
 corseted
 corsetiere
 conicalness
