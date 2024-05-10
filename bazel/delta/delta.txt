@@ -650,6 +650,7 @@ damnable
 daiquiris
 damnableness
 damnably
+dereferences
 declassed
 desterilizing
 damned
@@ -12569,7 +12570,6 @@ disjunctive
 disjunctively
 disjunctor
 disjuncts
-dereferences
 disjuncture
 disjune
 disk
