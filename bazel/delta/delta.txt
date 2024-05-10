@@ -1989,7 +1989,6 @@ damageableness
 decahedrons
 decahydrate
 decahydronaphthalene
-decay
 decayed
 decayedness
 decayers
@@ -11114,6 +11113,7 @@ disastrous
 disastrously
 decemberish
 disattaint
+decay
 disattune
 disauthentic
 disauthenticate
