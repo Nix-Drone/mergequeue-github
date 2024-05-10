@@ -3119,7 +3119,6 @@ frozen
 fibroadipose
 fibroblastic
 fibrocalcareous
-fibrocarcinoma
 fibrocartilaginous
 fibrocellular
 fibrocement
@@ -10532,6 +10531,7 @@ frother
 frothy
 forebodings
 frothier
+fibrocarcinoma
 feodary
 frothless
 fitroot
