@@ -5893,7 +5893,6 @@ catheterization
 catheterize
 catheterized
 catheterizes
-catheters
 catheti
 cathetometer
 cathetometric
@@ -15204,6 +15203,7 @@ cladoceran
 cladocerans
 cladocerous
 cladodial
+catheters
 cladodium
 cladodont
 chlamydomonas
