@@ -3173,7 +3173,6 @@ geonavigation
 gabbart
 gnawing
 geonyctinastic
-geonim
 geonoma
 ganglion
 geophagy
@@ -7342,6 +7341,7 @@ gossipping
 gossipred
 gossips
 groupist
+geonim
 guacin
 gossoons
 gestor
