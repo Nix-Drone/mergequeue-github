@@ -6276,7 +6276,6 @@ buttonbur
 besing
 beni
 benic
-benaming
 benight
 benighted
 benightedness
@@ -13089,6 +13088,7 @@ borrowable
 borrower
 borrowers
 borrows
+benaming
 bors
 blow
 borsches
