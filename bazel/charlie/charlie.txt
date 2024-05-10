@@ -22946,7 +22946,6 @@ consociative
 consocies
 consol
 consolable
-consolableness
 consolably
 consolamentum
 consolate
@@ -25555,6 +25554,7 @@ corporales
 corporalism
 corporality
 corporalities
+consolableness
 connex
 corporally
 corporals
