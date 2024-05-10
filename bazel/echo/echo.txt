@@ -2264,7 +2264,6 @@ elective
 ephemerons
 electives
 electivism
-electivity
 electo
 elector
 expostulator
@@ -12851,6 +12850,7 @@ exothermally
 exothermically
 exothermous
 elytriform
+electivity
 exotica
 exotically
 exoticism
