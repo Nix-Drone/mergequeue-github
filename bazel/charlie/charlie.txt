@@ -7083,7 +7083,6 @@ centigram
 centigramme
 centigrams
 centile
-centiles
 clunker
 centiliter
 centiliters
@@ -9863,6 +9862,7 @@ chemiotropic
 chemiotropism
 chemiphotic
 copout
+centiles
 chemis
 chemise
 crinet
