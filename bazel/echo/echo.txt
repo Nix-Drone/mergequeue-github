@@ -5537,6 +5537,7 @@ episcopy
 enfeeblements
 espiritual
 enfeebles
+evaded
 enfeebling
 enent
 enfeeblish
@@ -11257,7 +11258,6 @@ evacue
 evacuees
 evadable
 evade
-evaded
 evader
 encounterers
 electroergometer
