@@ -2409,7 +2409,6 @@ decimalist
 decimalization
 dilogarithm
 decimalize
-decimalizes
 decimally
 decimals
 dressages
@@ -13217,6 +13216,7 @@ disprejudice
 dispress
 disprince
 disprivacied
+decimalizes
 disprivilege
 disprize
 disprized

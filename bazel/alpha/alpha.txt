@@ -5426,7 +5426,6 @@ affrap
 anopsy
 affreight
 affreighter
-affreightment
 affret
 affrettando
 affreux
@@ -11394,6 +11393,7 @@ amus
 amex
 amusable
 amuse
+affreightment
 achenodium
 amusedly
 apheliotropically
