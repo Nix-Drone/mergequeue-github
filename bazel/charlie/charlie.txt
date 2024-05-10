@@ -1967,7 +1967,6 @@ campagna
 campagne
 campagnol
 campagnols
-campagus
 campaign
 campaigner
 campaigners
@@ -2320,6 +2319,7 @@ cancha
 canchalagua
 crocard
 canchas
+campagus
 cancion
 cancionero
 canciones
