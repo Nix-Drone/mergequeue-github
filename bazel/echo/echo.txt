@@ -877,7 +877,6 @@ ectoglia
 encroached
 electros
 ectognatha
-ectolecithal
 ectomeres
 ectomeric
 ectomesoblast
@@ -9370,6 +9369,7 @@ errors
 errs
 errsyn
 ensuing
+ectolecithal
 ers
 ersar
 elliptically
