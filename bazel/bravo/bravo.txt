@@ -12956,7 +12956,6 @@ borders
 borderland
 borderlander
 borderlands
-borderless
 borderlight
 bordermark
 blastoporphyritic
@@ -17407,6 +17406,7 @@ bundocks
 bundook
 bundts
 bundu
+borderless
 bundweed
 bunga
 bungaloid
