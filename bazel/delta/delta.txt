@@ -1897,7 +1897,6 @@ debted
 debtee
 debtful
 debtless
-debtor
 debtors
 debugger
 debuggers
@@ -15258,6 +15257,7 @@ dolphin
 dolphinfish
 dolphinfishes
 dolphinlike
+debtor
 dolphins
 dolphus
 demerits
