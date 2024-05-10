@@ -15981,7 +15981,6 @@ clergy
 clergyable
 clergylike
 cyclos
-clergion
 clergywoman
 clerical
 cheapens
@@ -20701,6 +20700,7 @@ complexive
 complexly
 complexness
 complexometry
+clergion
 complexometric
 complexus
 comply
