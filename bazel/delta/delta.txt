@@ -2802,7 +2802,6 @@ dunker
 decrees
 decreet
 dop
-decrement
 decremental
 decrementing
 decrements
@@ -7129,6 +7128,7 @@ detailer
 detailers
 demarcators
 detailing
+decrement
 detailism
 detailist
 details
