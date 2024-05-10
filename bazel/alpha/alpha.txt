@@ -877,7 +877,6 @@ abstractedness
 abrus
 auksinu
 abstruse
-abs
 absalom
 absampere
 awanting
@@ -4609,6 +4608,7 @@ adversities
 adversus
 adverted
 advertence
+abs
 advertency
 advertent
 advertently
