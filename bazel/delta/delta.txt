@@ -7308,7 +7308,6 @@ detonable
 detonatability
 depersonalised
 detonate
-detonated
 detonates
 detonating
 detonation
@@ -10469,6 +10468,7 @@ diphthongized
 deaner
 diphthongizing
 diversifoliate
+detonated
 diphthongs
 dipicrate
 downfalling
