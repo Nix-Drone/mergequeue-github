@@ -578,7 +578,6 @@ fallible
 frigga
 falling
 fakeries
-falloff
 falloffs
 fallopian
 fallout
@@ -11142,6 +11141,7 @@ functioning
 functionize
 fract
 functionlessness
+falloff
 functionnaire
 fumosity
 functions
