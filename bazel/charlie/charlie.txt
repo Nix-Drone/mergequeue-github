@@ -11577,7 +11577,6 @@ cholecystolithotripsy
 cholecystopexy
 cholecystorrhaphy
 cholecystostomy
-cholecystostomies
 cholecystotomy
 cholecystotomies
 choledoch
@@ -21819,6 +21818,7 @@ confarreate
 confarreated
 confarreation
 cardiometry
+cholecystostomies
 confated
 confected
 confecting
