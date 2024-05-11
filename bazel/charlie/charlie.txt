@@ -5519,6 +5519,7 @@ catalogs
 catalogued
 cataloguer
 catalogues
+cryptograph
 cataloguing
 cataloguish
 cataloguist
@@ -29279,7 +29280,6 @@ combinatorics
 cryptogrammic
 craggedly
 cryptograms
-cryptograph
 cryptographal
 cryptography
 cryptographic
