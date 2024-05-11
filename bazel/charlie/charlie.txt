@@ -3601,7 +3601,6 @@ coachable
 carapidae
 carapine
 cresting
-carapus
 carara
 carassow
 carassows
@@ -31636,6 +31635,7 @@ curvulate
 curwillet
 cuscohygrin
 cuscohygrine
+carapus
 cusconin
 cusconine
 crossbreeds
