@@ -1599,7 +1599,6 @@ calorifier
 calorigenic
 calorimeter
 calorimeters
-calorimetry
 calorimetric
 calorimetrical
 calorimetrically
@@ -17425,6 +17424,7 @@ cobishop
 cobitis
 craniometer
 climacium
+calorimetry
 coble
 cobleman
 coblentzian
