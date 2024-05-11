@@ -14177,6 +14177,7 @@ circler
 circles
 circlet
 circleting
+continuative
 circlets
 circline
 circling
@@ -23552,7 +23553,6 @@ continuateness
 copyholder
 continuation
 continuations
-continuative
 continuatively
 continuativeness
 continuator
