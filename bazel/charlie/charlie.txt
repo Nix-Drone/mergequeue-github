@@ -16705,7 +16705,6 @@ clothesline
 clotheslines
 clothesman
 cosuitor
-clothesmen
 clothespin
 clothespins
 clothespresses
@@ -21780,6 +21779,7 @@ conehead
 coneine
 coneys
 conelike
+clothesmen
 cixiidae
 conelrad
 continentalism
