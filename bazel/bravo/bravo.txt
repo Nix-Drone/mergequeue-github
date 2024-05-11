@@ -4508,7 +4508,6 @@ beclaw
 beclip
 besieged
 becloak
-belchers
 becloaking
 becloaks
 beclog
@@ -8936,6 +8935,7 @@ biochemy
 biochemic
 biochemically
 biochemics
+belchers
 biochemistry
 bifanged
 biochemistries
