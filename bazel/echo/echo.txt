@@ -6401,6 +6401,7 @@ ensiferi
 encastered
 ensiform
 ensign
+equal
 embarcation
 ensigncy
 electroplaque
@@ -8547,7 +8548,6 @@ emphases
 elastance
 equableness
 equably
-equal
 editorials
 electropneumatically
 equaling
