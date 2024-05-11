@@ -6076,6 +6076,7 @@ dequeue
 dequeues
 dequeuing
 dropshots
+disjointing
 der
 derabbinize
 deracialize
@@ -12558,7 +12559,6 @@ disjoins
 disjointed
 disjointedly
 disjointedness
-disjointing
 disjointly
 disjointness
 disjoints
