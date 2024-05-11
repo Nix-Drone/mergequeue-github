@@ -2262,7 +2262,6 @@ gears
 guernseys
 gearset
 gearshift
-gearshifts
 gearwheels
 glistening
 gease
@@ -8568,6 +8567,7 @@ geostatics
 greathead
 garbages
 greathearted
+gearshifts
 greatheartedly
 greatly
 gaz
