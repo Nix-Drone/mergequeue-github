@@ -2064,7 +2064,6 @@ acetylizable
 acetylization
 acetylize
 acetylized
-acetylizer
 acetylizing
 acetylmethylcarbinol
 acetylperoxide
@@ -13616,6 +13615,7 @@ annuisance
 annuitant
 annuitants
 aquarists
+acetylizer
 annuity
 annuities
 annul
