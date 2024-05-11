@@ -3853,7 +3853,6 @@ entertainments
 emerituti
 empaneled
 emerized
-emerizing
 emerod
 emerods
 emeroid
@@ -12594,6 +12593,7 @@ expulser
 exiting
 exition
 exitious
+emerizing
 exits
 exiture
 exitus
