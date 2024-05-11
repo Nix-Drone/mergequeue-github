@@ -4198,6 +4198,7 @@ demisolde
 disagreeables
 deliracy
 drama
+deprecated
 delirate
 dianthuses
 deliration
@@ -5894,7 +5895,6 @@ dentaries
 depravity
 deprecable
 deutochloride
-deprecated
 demythologise
 deprecatingly
 danes
