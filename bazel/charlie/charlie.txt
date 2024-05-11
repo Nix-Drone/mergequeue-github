@@ -3362,6 +3362,7 @@ capsicums
 capsid
 capsidal
 capsids
+cartop
 capsizable
 capsizal
 capsize
@@ -4907,7 +4908,6 @@ cartoonist
 cartoonists
 condors
 cartoons
-cartop
 cartopper
 chrysomonadina
 cartouch
