@@ -3740,7 +3740,6 @@ bransles
 bunsen
 batsmen
 batswing
-batt
 bammed
 batta
 battable
@@ -13252,6 +13251,7 @@ botanises
 botanising
 botanist
 botanize
+batt
 botanized
 botanizes
 botanomancy
