@@ -11590,7 +11590,6 @@ anaerobian
 anaerobic
 anaerobically
 anaerobies
-anaerobion
 anaerobiont
 anaerobiosis
 anaerobiotic
@@ -21505,6 +21504,7 @@ aspirations
 aspiratory
 aspirators
 aspired
+anaerobion
 aspiree
 aspirer
 aspirers
