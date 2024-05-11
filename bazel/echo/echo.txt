@@ -5060,7 +5060,6 @@ endnote
 endnotes
 endoangiitis
 exemplum
-endoaortitis
 endoarteritis
 enamelled
 elan
@@ -12621,6 +12620,7 @@ exochorion
 engaged
 exocyclic
 exocyclica
+endoaortitis
 epistylar
 explosible
 engraftation
