@@ -3367,6 +3367,7 @@ capsizal
 capsize
 capsized
 capsizes
+clonks
 capsomer
 capsomere
 capsomers
@@ -16612,7 +16613,6 @@ calenderer
 clonk
 clonked
 clonking
-clonks
 clonorchiasis
 clonorchis
 chapeaus
