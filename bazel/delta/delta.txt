@@ -2480,7 +2480,6 @@ deckswabber
 decl
 declaim
 dichorisandra
-declaimant
 declaimer
 declaimers
 declaims
@@ -3305,6 +3304,7 @@ downtowner
 defervesced
 defervescent
 defervescing
+declaimant
 diversiflorous
 defy
 disesteem
