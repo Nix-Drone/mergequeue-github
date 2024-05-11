@@ -6502,7 +6502,6 @@ agronomist
 agronomists
 aberrate
 agroof
-agrope
 agropyron
 agrostemma
 agrosteral
@@ -21309,6 +21308,7 @@ askoye
 askos
 askr
 asks
+agrope
 aslake
 aslant
 aslantwise
