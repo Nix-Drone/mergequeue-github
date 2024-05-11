@@ -6100,6 +6100,7 @@ favorability
 foregoes
 flote
 fustin
+fathogram
 fragor
 felspar
 furnisher
@@ -8112,7 +8113,6 @@ flyboy
 fraus
 foretell
 foretellable
-fathogram
 foreteller
 foretellers
 foretells
