@@ -1904,7 +1904,6 @@ gastrostege
 gastrostenosis
 gastrostomy
 gastrostomies
-gastrostomize
 gastrostomus
 gastrotaxis
 gastrothecal
@@ -2963,6 +2962,7 @@ glassite
 gentler
 gentles
 genuflection
+gastrostomize
 gentlest
 gentlewomanhood
 glossoid
