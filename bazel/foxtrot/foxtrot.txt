@@ -6157,6 +6157,7 @@ finality
 foldstool
 flowcontrol
 flanche
+footpound
 flowed
 flower
 flowerage
@@ -7231,7 +7232,6 @@ footpath
 footpaths
 fatidic
 footplate
-footpound
 fogs
 footpounds
 flanderkin
