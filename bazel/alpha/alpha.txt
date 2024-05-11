@@ -21673,7 +21673,6 @@ assents
 asseour
 assert
 asserta
-assertable
 aeron
 assertative
 asserted
@@ -24759,6 +24758,7 @@ avidin
 abacot
 angioasthenia
 alexines
+assertable
 avidiously
 avidity
 avidities
