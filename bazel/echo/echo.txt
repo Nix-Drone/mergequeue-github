@@ -4921,6 +4921,7 @@ end
 endable
 endamage
 endamageable
+enzymically
 endamagement
 endamages
 endamaging
@@ -14083,7 +14084,6 @@ extrinsical
 elegantly
 extrinsicality
 eslabon
-enzymically
 erythematic
 extrinsically
 extrinsicalness
