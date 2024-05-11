@@ -3564,7 +3564,6 @@ filamentoid
 fuzztail
 flaxwife
 filamentous
-filaments
 filamentule
 filander
 filao
@@ -10112,6 +10111,7 @@ fringelet
 fringelike
 fringent
 fringepod
+filaments
 fringetail
 fennel
 fringier
