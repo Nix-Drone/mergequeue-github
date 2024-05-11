@@ -3077,6 +3077,7 @@ gekko
 geomance
 geoform
 gillnet
+ganglier
 geogen
 geogenesis
 gyropilot
@@ -8938,7 +8939,6 @@ gerodontics
 gnathion
 ganglioneural
 griefful
-ganglier
 grieffully
 griefless
 griefs
