@@ -3708,7 +3708,6 @@ adenomyofibroma
 adenomyoma
 agapornis
 adenomyxosarcoma
-adenoncus
 adenoneural
 adenoneure
 adenopharyngeal
@@ -14175,6 +14174,7 @@ antemetic
 antemillennial
 antemingent
 antemortal
+adenoncus
 antemortem
 antemundane
 antemural
