@@ -2605,7 +2605,6 @@ barguests
 barhop
 buzylene
 barhopped
-barhops
 baria
 brandies
 bariatrician
@@ -13403,6 +13402,7 @@ bottomers
 bottoming
 birkremite
 bottomland
+barhops
 bottomless
 bourage
 biotelemetry
