@@ -1624,7 +1624,6 @@ accommodators
 accomodate
 accompanable
 arrivage
-accompanier
 australorp
 accompanies
 accompanying
@@ -7679,6 +7678,7 @@ alcoothionic
 alcor
 alcoran
 alcoranic
+accompanier
 alcoranist
 administrated
 alcosol
