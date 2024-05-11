@@ -1278,7 +1278,6 @@ generalizable
 gruis
 gothic
 gapeseed
-gapeworm
 gapeworms
 gorgonized
 gapingly
@@ -10092,6 +10091,7 @@ guirlande
 gazetteer
 guested
 guesten
+gapeworm
 guesthouse
 guesting
 giottesque
