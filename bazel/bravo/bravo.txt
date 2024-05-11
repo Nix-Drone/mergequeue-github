@@ -6385,7 +6385,6 @@ benzaldoxime
 benumb
 bandeaus
 benzalethylamine
-benzalphenylhydrazone
 benzalphthalide
 benzamide
 benzamido
@@ -15107,6 +15106,7 @@ brewery
 breweries
 brewers
 brewership
+benzalphenylhydrazone
 brewhouse
 beguilingness
 brewhouses
