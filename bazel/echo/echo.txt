@@ -6602,6 +6602,7 @@ enteral
 enterally
 enterate
 enterclose
+exotery
 enterectomy
 enterectomies
 exuviates
@@ -13605,7 +13606,6 @@ exterminate
 exterminated
 extremistic
 exterminates
-exotery
 extermination
 exterminative
 exterminator
