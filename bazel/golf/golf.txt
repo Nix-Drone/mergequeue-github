@@ -747,6 +747,7 @@ galls
 gallstone
 grimmer
 galluses
+getid
 gallweed
 gonimoblast
 gallwort
@@ -5896,7 +5897,6 @@ gratuity
 glossoepiglottidean
 goldsmithery
 glossographer
-getid
 glossohyal
 glossokinesthetic
 glossolaly
