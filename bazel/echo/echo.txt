@@ -5900,7 +5900,6 @@ encrinoidea
 enhorror
 enhort
 ectozoic
-encolor
 enhuile
 enhunger
 enhungered
@@ -14168,6 +14167,7 @@ ethane
 exulcerating
 established
 exulcerative
+encolor
 exulceratory
 exulding
 exult
