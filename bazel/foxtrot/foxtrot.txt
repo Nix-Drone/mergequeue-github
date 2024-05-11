@@ -5922,6 +5922,7 @@ floodplain
 floods
 forst
 fortifiable
+footlock
 floodway
 feute
 floodways
@@ -7202,7 +7203,6 @@ footlights
 flaggelated
 farrierlike
 footling
-footlock
 footlocker
 footlockers
 footlog
