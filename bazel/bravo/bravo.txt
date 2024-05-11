@@ -638,7 +638,6 @@ bacterioblast
 bacteriochlorophyll
 bacteriocin
 bishopbird
-bacteriodiagnosis
 bacteriofluorescin
 bromates
 bacteriogenic
@@ -5530,6 +5529,7 @@ belier
 beyrichite
 beys
 beisa
+bacteriodiagnosis
 beisance
 beyship
 bulgarians
