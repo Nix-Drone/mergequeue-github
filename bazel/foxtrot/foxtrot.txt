@@ -4160,7 +4160,6 @@ freedmen
 fucaceae
 frogmouth
 firebrick
-firebug
 firebugs
 fanhouse
 flagstones
@@ -5516,6 +5515,7 @@ flexitime
 ferdiad
 flexive
 flexographic
+firebug
 flexographically
 flexor
 flexors
