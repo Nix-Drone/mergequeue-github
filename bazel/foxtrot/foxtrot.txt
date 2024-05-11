@@ -6974,7 +6974,6 @@ followable
 followed
 follower
 foisting
-followers
 followingly
 floppers
 flushed
@@ -9210,6 +9209,7 @@ fracases
 frusta
 frache
 function
+followers
 fracid
 fouls
 forklike
