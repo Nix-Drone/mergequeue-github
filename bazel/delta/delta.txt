@@ -7825,6 +7825,7 @@ dewclaws
 dewcup
 dewdamp
 dewdrop
+dustpan
 dewdropper
 disklike
 dewdrops
@@ -18586,7 +18587,6 @@ dustman
 dustmen
 dustoori
 dustour
-dustpan
 dustrag
 detracts
 dustrags
