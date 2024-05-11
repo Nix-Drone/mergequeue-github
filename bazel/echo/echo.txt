@@ -5428,7 +5428,6 @@ endrin
 endromididae
 endrudge
 eltime
-expendable
 endseal
 endshake
 endsheet
@@ -5759,6 +5758,7 @@ englobe
 englobed
 englobement
 exophagous
+expendable
 englobing
 engloom
 englory
