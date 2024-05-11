@@ -4508,6 +4508,7 @@ beclaw
 beclip
 besieged
 becloak
+bowleggedness
 belchers
 becloaking
 becloaks
@@ -13793,7 +13794,6 @@ bordelaise
 bowldery
 bowldering
 bowleg
-bowleggedness
 blaming
 bowlers
 bowles
