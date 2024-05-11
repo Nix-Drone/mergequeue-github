@@ -16456,6 +16456,7 @@ cloakroom
 cloakrooms
 caterwaul
 cloakwise
+corrosional
 cloam
 cloamen
 cloamer
@@ -25764,7 +25765,6 @@ corrodies
 corroding
 corrosibility
 corrosibleness
-corrosional
 corrosionproof
 corrosive
 corrosived
