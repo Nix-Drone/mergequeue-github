@@ -7574,6 +7574,7 @@ forechoir
 faith
 foregame
 forechoose
+fusile
 foreclaw
 foreclose
 foreclosed
@@ -11589,7 +11590,6 @@ fusiladed
 fusilades
 flavedos
 fusilading
-fusile
 fusileer
 fatalistic
 fusileers
