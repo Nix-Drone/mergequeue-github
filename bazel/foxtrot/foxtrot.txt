@@ -7217,7 +7217,6 @@ flathe
 footmark
 footmen
 footnote
-footnoted
 footpace
 footpaces
 forefather
@@ -9235,6 +9234,7 @@ foveolate
 fractionating
 fractionation
 flab
+footnoted
 fossorial
 fractioned
 fractioning
