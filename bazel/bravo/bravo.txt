@@ -2007,7 +2007,6 @@ bandsmen
 bandspreading
 bandstand
 bandstands
-bandster
 ballroom
 bandstop
 bandstring
@@ -6257,6 +6256,7 @@ betipple
 beneplacity
 beneplacito
 benes
+bandster
 benet
 benetnasch
 benetted
