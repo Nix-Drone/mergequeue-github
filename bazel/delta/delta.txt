@@ -2394,7 +2394,6 @@ deciles
 decylic
 drippings
 deciliter
-deciliters
 decilitre
 dripstick
 disaffects
@@ -4536,6 +4535,7 @@ demetricize
 demi
 deceits
 demy
+deciliters
 demiadult
 diffinity
 demiangel
