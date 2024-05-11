@@ -2840,6 +2840,7 @@ barony
 bassets
 baronial
 baronies
+billhook
 baronize
 baronized
 baronnes
@@ -8670,7 +8671,6 @@ billfolds
 burel
 billheads
 billholder
-billhook
 baptisteries
 boopic
 burnouses
