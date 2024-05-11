@@ -1538,7 +1538,6 @@ gn
 garrotte
 garrotted
 garrulinae
-ghouls
 garruline
 garrulity
 glossematic
@@ -8495,6 +8494,7 @@ gravitative
 gravity
 gravities
 gravitometer
+ghouls
 graviton
 gravitons
 garb
