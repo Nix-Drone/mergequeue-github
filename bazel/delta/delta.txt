@@ -3582,7 +3582,6 @@ defunctionalize
 defunctive
 defused
 defuses
-defusion
 dingles
 dolman
 defuzed
@@ -5824,6 +5823,7 @@ depopulator
 depopulators
 deportability
 deportation
+defusion
 deportations
 deporte
 deportee
