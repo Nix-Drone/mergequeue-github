@@ -2918,6 +2918,7 @@ cantref
 cantrip
 cantrips
 coveting
+clings
 cantus
 cantut
 cantuta
@@ -16217,7 +16218,6 @@ clingiest
 clinginess
 clinging
 clingingly
-clings
 clingstone
 clinia
 clinic
