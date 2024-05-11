@@ -1459,7 +1459,6 @@ fatness
 fatnesses
 fylgjur
 fats
-fatshedera
 ferahan
 fatsia
 fatso
@@ -8131,6 +8130,7 @@ fretless
 foretop
 foretopman
 foretopmast
+fatshedera
 foretopmen
 foretops
 foretrace
