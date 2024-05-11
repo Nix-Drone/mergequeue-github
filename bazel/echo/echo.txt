@@ -2676,6 +2676,7 @@ expurgates
 epiperipheral
 electrothermancy
 electrothermic
+estruation
 electrothermics
 enschedule
 enrapturer
@@ -10102,7 +10103,6 @@ estrogenicity
 estrogens
 estrone
 estrones
-estruation
 elk
 esperantidist
 estrums
