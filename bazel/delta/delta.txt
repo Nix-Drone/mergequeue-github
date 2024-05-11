@@ -8216,7 +8216,6 @@ diagometer
 demove
 derogations
 dele
-diagonal
 diagonalizable
 diagonalization
 diagonalize
@@ -13014,6 +13013,7 @@ dispeoplement
 dispeopling
 dyspepsy
 dyspepsies
+diagonal
 dyspeptic
 diversifying
 dyspeptical
