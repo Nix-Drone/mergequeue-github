@@ -1915,6 +1915,7 @@ acer
 aceraceous
 acerae
 acerate
+atomy
 acerated
 acerates
 acerathere
@@ -22748,7 +22749,6 @@ atom
 atomatic
 atomechanics
 atomerg
-atomy
 atomic
 atomical
 atomically
