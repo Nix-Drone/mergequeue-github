@@ -9058,7 +9058,6 @@ bedstands
 barguest
 biologists
 biologize
-bioluminescence
 biomagnetic
 biomagnetism
 biomass
@@ -10894,6 +10893,7 @@ bliss
 branchiostegous
 birdcatcher
 blissful
+bioluminescence
 blissfully
 blissfulness
 blissless
