@@ -2424,7 +2424,6 @@ electroencephalograms
 electroencephalograph
 exciting
 evenhandedly
-electroencephalography
 electroencephalographical
 electroencephalographs
 erstwhiles
@@ -6610,6 +6609,7 @@ ellipses
 empathizing
 enterers
 enterfeat
+electroencephalography
 entergogenic
 enteria
 etouffe
