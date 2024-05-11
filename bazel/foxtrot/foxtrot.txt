@@ -1088,7 +1088,6 @@ farmhouse
 feronia
 farmhousey
 fontinalaceae
-fuzzle
 farmy
 farmyard
 fructuary
@@ -4168,6 +4167,7 @@ fireburn
 fibrocaseous
 fireclay
 federals
+fuzzle
 fireclays
 firecoat
 firecracker
