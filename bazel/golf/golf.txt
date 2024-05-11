@@ -2644,7 +2644,6 @@ genarchaship
 gonangiums
 gendarme
 gendarmery
-geobotanical
 gendarmerie
 gendarmes
 gender
@@ -8496,6 +8495,7 @@ gravity
 gravities
 gravitometer
 graviton
+geobotanical
 gravitons
 garb
 grabbed
