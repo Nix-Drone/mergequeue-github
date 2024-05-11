@@ -2802,6 +2802,7 @@ dunker
 decrees
 decreet
 dop
+degustate
 decrement
 decremental
 decrementing
@@ -15048,7 +15049,6 @@ damningness
 disencumbering
 dogskin
 dogsleds
-degustate
 disconformable
 dogsleep
 dogstones
