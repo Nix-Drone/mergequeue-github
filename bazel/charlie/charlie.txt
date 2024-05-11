@@ -8006,7 +8006,6 @@ cfi
 cfm
 cfs
 carcinoma
-cgm
 cgs
 ch
 cha
@@ -22003,6 +22002,7 @@ confiscate
 crois
 confiscated
 confiscates
+cgm
 confiscation
 confiscations
 confiscator
