@@ -16964,6 +16964,7 @@ cmd
 catalecta
 cmdr
 cml
+codifier
 cnemial
 cnemic
 cnemides
@@ -17800,7 +17801,6 @@ codifiability
 codification
 codifications
 codified
-codifier
 codifiers
 codifies
 codifying
