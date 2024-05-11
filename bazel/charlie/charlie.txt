@@ -10100,6 +10100,7 @@ cheskeys
 cheslep
 chesoun
 chess
+chromonematal
 chessart
 chessboard
 chessboards
@@ -12492,7 +12493,6 @@ chromone
 chromonema
 chromonemal
 chromonemata
-chromonematal
 chromonemic
 chromophage
 chromophane
