@@ -9657,7 +9657,6 @@ alveolodental
 alveololabial
 albacea
 acropolises
-alveololingual
 alveolonasal
 alveolosubnasal
 alveolus
@@ -15377,6 +15376,7 @@ archaic
 antihypochondriac
 antihypophora
 antihistamine
+alveololingual
 antihistamines
 antihistaminic
 aspection
