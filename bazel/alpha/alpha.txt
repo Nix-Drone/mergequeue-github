@@ -2054,7 +2054,6 @@ acetylenogen
 acetylfluoride
 appendix
 acetylglycin
-acetylglycine
 acetylhydrazine
 acetylic
 acetylid
@@ -2101,6 +2100,7 @@ acetometer
 acetometry
 acetometric
 acetometrical
+acetylglycine
 accroachment
 acetometrically
 acetomorphin
