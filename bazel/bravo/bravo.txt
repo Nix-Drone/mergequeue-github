@@ -1090,7 +1090,6 @@ bailies
 bailieship
 bailiff
 bailiffry
-bailiffs
 bailiffwick
 bailing
 bailiwick
@@ -11368,6 +11367,7 @@ bluelines
 blueness
 bluenose
 beri
+bailiffs
 burros
 bluenosed
 bluenoser
