@@ -2743,7 +2743,6 @@ fesels
 fess
 fesse
 fessed
-fesses
 fessewise
 fest
 festae
@@ -6150,6 +6149,7 @@ flaring
 foredoor
 flowable
 flowage
+fesses
 flowcharted
 fulicinae
 flowcharts
