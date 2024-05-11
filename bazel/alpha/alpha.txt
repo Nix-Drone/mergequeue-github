@@ -503,7 +503,6 @@ abjugate
 abjunct
 abjunction
 abjunctive
-abjuration
 abjurations
 abjuratory
 abjure
@@ -21031,6 +21030,7 @@ ascoma
 ascomata
 ascomycetal
 ascomycete
+abjuration
 ascomycetes
 ascomycetous
 ascon
