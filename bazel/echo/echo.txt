@@ -6605,6 +6605,7 @@ enterclose
 enterectomy
 enterectomies
 exuviates
+etcher
 enterer
 ellipses
 empathizing
@@ -10149,7 +10150,6 @@ etch
 enthrallingly
 esmeraldite
 etched
-etcher
 etchers
 etching
 esodic
