@@ -1954,7 +1954,6 @@ banjoist
 biostatics
 bandit
 branle
-banditry
 barramundas
 bandits
 banditti
@@ -12742,6 +12741,7 @@ boom
 boomable
 boomah
 boo
+banditry
 baritonal
 boomboat
 boomboxes
