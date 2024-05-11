@@ -296,6 +296,7 @@ eat
 eagerer
 eatability
 eatable
+elkhound
 eatables
 electrolyzability
 eatberry
@@ -4721,7 +4722,6 @@ enciente
 encina
 encinal
 encinas
-elkhound
 exsequatur
 epichristian
 everybody
