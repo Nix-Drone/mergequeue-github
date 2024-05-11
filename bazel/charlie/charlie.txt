@@ -2413,7 +2413,6 @@ candlemaker
 candlemaking
 candlemas
 candlenut
-candlepins
 candlepower
 chemist
 camelion
@@ -15525,6 +15524,7 @@ clarioning
 clarissa
 cufflinks
 certification
+candlepins
 continuist
 costrel
 clarisse
