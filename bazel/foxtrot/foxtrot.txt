@@ -5529,6 +5529,7 @@ flexures
 flyable
 fascicle
 flyback
+forswearing
 flyball
 flybane
 flibbertigibbety
@@ -8651,7 +8652,6 @@ feverishly
 forsung
 forswear
 foreanswer
-forswearing
 fairling
 fields
 forswears
