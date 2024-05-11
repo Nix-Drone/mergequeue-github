@@ -4076,7 +4076,6 @@ cardiopyloric
 cardioplegia
 cardiopneumatic
 cardiopneumograph
-cardioptosis
 cardiopulmonary
 cardiorenal
 cardiorespiratory
@@ -18074,6 +18073,7 @@ coerce
 coerceable
 coerced
 condylarth
+cardioptosis
 coercement
 coercend
 coercer
