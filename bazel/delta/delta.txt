@@ -1739,7 +1739,6 @@ debark
 debarkations
 dobroes
 dodecuplet
-demagnetisable
 debarked
 debarking
 debarkment
@@ -13254,6 +13253,7 @@ dip
 dysprosia
 disprovable
 disproval
+demagnetisable
 disprover
 disproves
 disprovide
