@@ -7943,7 +7943,6 @@ epilator
 epilemma
 epileny
 epilepsies
-epileptic
 epileptical
 epileptically
 epileptics
@@ -9260,6 +9259,7 @@ eroding
 endocrinous
 erodium
 erogenesis
+epileptic
 erogenetic
 erogeny
 enginelike
