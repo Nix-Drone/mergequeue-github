@@ -7529,7 +7529,6 @@ cerci
 cercidiphyllaceae
 cavel
 cercis
-cercises
 cercocebus
 cercolabes
 cercolabidae
@@ -11666,6 +11665,7 @@ cholinic
 cholinolytic
 cholla
 cryogen
+cercises
 chollas
 choller
 cholo
