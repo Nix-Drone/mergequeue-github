@@ -2720,6 +2720,7 @@ catapult
 canonizer
 canonizes
 canonizing
+conservatorship
 canonlike
 canonry
 canonries
@@ -22848,7 +22849,6 @@ conservatory
 conservatorial
 conservatorium
 conservators
-conservatorship
 coordinator
 conservatrix
 conserve
