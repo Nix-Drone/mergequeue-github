@@ -9859,6 +9859,7 @@ dimers
 dimes
 dimetallic
 dimeter
+disenorm
 dimeters
 dimethyl
 dimethylamine
@@ -11995,7 +11996,6 @@ disengaging
 disengirdle
 disenjoyment
 disenmesh
-disenorm
 deacon
 dissipativity
 disensanity
