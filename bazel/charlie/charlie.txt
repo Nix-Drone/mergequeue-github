@@ -8574,7 +8574,6 @@ championless
 champions
 championships
 champlainic
-champlev
 champleve
 champs
 chams
@@ -21425,6 +21424,7 @@ concoctions
 concoctive
 concoctor
 crowfoot
+champlev
 concocts
 chilostomata
 concolor
