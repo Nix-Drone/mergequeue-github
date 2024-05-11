@@ -7538,6 +7538,7 @@ cercomonadidae
 cercopid
 continent
 cercopidae
+curatize
 cercopithecid
 coenenchymata
 cercopithecidae
@@ -30395,7 +30396,6 @@ ctenodont
 ctenodus
 ctenoid
 ctenoidean
-curatize
 ctenoidei
 carrys
 ctenolium
