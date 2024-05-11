@@ -10538,7 +10538,6 @@ amylopectin
 amylophagia
 amylophosphate
 amylophosphoric
-amyloplast
 amyloplastic
 amyloplastid
 amylopsin
@@ -12699,6 +12698,7 @@ angered
 angering
 angerless
 angerly
+amyloplast
 angerona
 angeronalia
 angers
