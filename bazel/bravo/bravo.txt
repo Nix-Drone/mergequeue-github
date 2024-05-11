@@ -1651,7 +1651,6 @@ ballooners
 bowfront
 balloonet
 balloonfish
-buddah
 bonnetman
 bananalander
 balloonfishes
@@ -3207,6 +3206,7 @@ basial
 basialveolar
 biaswise
 backstone
+buddah
 basiarachnitis
 bashment
 basiarachnoiditis
