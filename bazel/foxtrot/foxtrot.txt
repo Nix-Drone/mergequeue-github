@@ -2469,7 +2469,6 @@ fermatas
 fermate
 fleshed
 ferme
-familarity
 fullymart
 forespeed
 ferment
@@ -4786,6 +4785,7 @@ flagitation
 fraudful
 flagitiously
 forevers
+familarity
 flagitiousness
 fumers
 flaglet
