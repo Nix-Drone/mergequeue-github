@@ -4909,6 +4909,7 @@ flameproofer
 flintlocks
 finfishes
 flamer
+further
 flamers
 ferneries
 fallback
@@ -5784,7 +5785,6 @@ fruit
 fungiform
 flyways
 faunas
-further
 flyweight
 flyweights
 forthon
