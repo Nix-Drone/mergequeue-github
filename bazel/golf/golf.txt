@@ -4703,7 +4703,6 @@ girella
 girellidae
 gapperi
 grapewort
-grout
 gluelike
 gyrencephala
 gyrencephalic
@@ -9316,6 +9315,7 @@ groom
 gallinula
 groomed
 groomers
+grout
 glossas
 garrotting
 gorges
