@@ -5194,7 +5194,6 @@ endognathion
 endointoxication
 endolabyrinthitis
 endolymph
-endolymphatic
 etiotropic
 endolymphic
 estafette
@@ -12808,6 +12807,7 @@ exosmose
 exosmoses
 exosmosis
 empty
+endolymphatic
 exosmotic
 electre
 esquamate
