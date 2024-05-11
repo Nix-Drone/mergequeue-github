@@ -2745,7 +2745,6 @@ decoration
 decorationist
 decorations
 decorative
-decorator
 decoratory
 dualizing
 decorators
@@ -9826,6 +9825,7 @@ dinmont
 dimber
 dimberdamber
 diplotene
+decorator
 dimble
 dimedon
 dimenhydrinate
