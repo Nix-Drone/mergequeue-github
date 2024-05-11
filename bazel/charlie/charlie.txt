@@ -21099,7 +21099,6 @@ concavity
 concavities
 concavo
 conceal
-concealable
 culicide
 concealedly
 concealedness
@@ -28633,6 +28632,7 @@ cheverons
 crenelation
 crenelations
 crenele
+concealable
 creneled
 crenelee
 crenelet
