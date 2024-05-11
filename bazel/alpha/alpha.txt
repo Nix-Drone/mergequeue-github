@@ -867,6 +867,7 @@ abrosias
 abrotanum
 abrotin
 abrotine
+analyzers
 abrupter
 abruptest
 abruption
@@ -11744,7 +11745,6 @@ analyzable
 analyzation
 analyze
 analyzed
-analyzers
 analyzes
 analyzing
 analkalinity
