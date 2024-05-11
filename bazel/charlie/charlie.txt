@@ -4615,7 +4615,6 @@ carpenterworm
 carpentry
 carpers
 carpet
-carpetbag
 carpetbagged
 cappy
 carpetbagger
@@ -15981,6 +15980,7 @@ clergy
 clergyable
 clergylike
 cyclos
+carpetbag
 clergion
 clergywoman
 clerical
