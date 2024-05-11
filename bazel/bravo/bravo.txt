@@ -316,7 +316,6 @@ beatus
 backbones
 backbrand
 backcap
-backchain
 backchat
 backchats
 backcomb
@@ -6621,6 +6620,7 @@ berating
 berattle
 beraunite
 berbamine
+backchain
 berber
 binoculate
 borickite
