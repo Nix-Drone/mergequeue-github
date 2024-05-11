@@ -2799,7 +2799,6 @@ decreeing
 decreement
 decreer
 dunker
-decrees
 decreet
 dop
 decrement
@@ -13481,6 +13480,7 @@ disseise
 disseised
 disseisee
 disseized
+decrees
 donorship
 disseizes
 desolations
