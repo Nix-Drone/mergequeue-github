@@ -2441,7 +2441,6 @@ barbula
 barbulate
 barbule
 barbulyie
-barbut
 barbute
 barbuts
 barrooms
@@ -4510,6 +4509,7 @@ besieged
 becloak
 belchers
 becloaking
+barbut
 becloaks
 beclog
 beclogged
