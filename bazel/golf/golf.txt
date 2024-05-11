@@ -8503,7 +8503,6 @@ gravure
 grazable
 gastight
 grazed
-grazer
 gradus
 globated
 grayish
@@ -10309,6 +10308,7 @@ gulash
 gulch
 guld
 glare
+grazer
 gastrolatrous
 gulden
 guldengroschen
