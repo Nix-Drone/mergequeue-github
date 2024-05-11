@@ -7075,7 +7075,6 @@ cohesions
 centiar
 centiare
 centiares
-centiday
 centifolious
 centigrade
 centigrado
@@ -25637,6 +25636,7 @@ correctionalist
 correctioner
 corrections
 corrective
+centiday
 correctively
 correctiveness
 correctives
