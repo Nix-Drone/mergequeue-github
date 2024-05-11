@@ -5079,7 +5079,6 @@ caselessly
 caseload
 caseloads
 caselty
-casemaker
 casemaking
 casemated
 casemates
@@ -23940,6 +23939,7 @@ cumulophyric
 conurbation
 conurbations
 conure
+casemaker
 conuropsis
 conurus
 conus
