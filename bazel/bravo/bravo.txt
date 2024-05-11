@@ -2007,6 +2007,7 @@ bandsmen
 bandspreading
 bandstand
 bandstands
+bittered
 bandster
 ballroom
 bandstop
@@ -9864,7 +9865,6 @@ bitterbump
 boobook
 bedpad
 bitterbur
-bittered
 bitterender
 baffed
 bitterer
