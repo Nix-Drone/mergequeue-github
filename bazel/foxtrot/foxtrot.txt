@@ -1691,6 +1691,7 @@ fchar
 fipenny
 fcomp
 farcin
+fromenty
 fcp
 foehns
 familiar
@@ -10367,7 +10368,6 @@ foister
 fossarian
 folkmot
 fromages
-fromenty
 fromenties
 fromward
 fromwards
