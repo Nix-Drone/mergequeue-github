@@ -7908,7 +7908,6 @@ bibles
 bohmite
 biblic
 bipunctal
-biblical
 biblicality
 biblically
 biblicism
@@ -13393,6 +13392,7 @@ bottlers
 bottlestone
 bottling
 blink
+biblical
 brigbote
 borstall
 bottomchrome
