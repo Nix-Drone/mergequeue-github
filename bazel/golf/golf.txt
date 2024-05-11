@@ -9470,7 +9470,6 @@ germaneness
 groundwall
 gandum
 groundward
-groundwards
 group
 groupable
 groupage
@@ -9513,6 +9512,7 @@ grouted
 groundkeeper
 grouter
 geothlypis
+groundwards
 grouty
 groutiest
 grouting
