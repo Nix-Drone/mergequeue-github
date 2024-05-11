@@ -6657,7 +6657,6 @@ fockle
 focoids
 focsle
 focus
-focusable
 fatalistically
 floscularia
 floodlighting
@@ -11513,6 +11512,7 @@ fursemide
 foreglimpse
 furstone
 falcunculus
+focusable
 foresightedly
 furtherance
 freelancing
