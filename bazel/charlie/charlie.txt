@@ -16702,7 +16702,6 @@ clotheshorses
 clothesyard
 clothesless
 clothesline
-clotheslines
 clothesman
 cosuitor
 clothesmen
@@ -24356,6 +24355,7 @@ coolung
 coolweed
 coolwort
 coom
+clotheslines
 coomb
 counterflow
 coombes
