@@ -2316,7 +2316,6 @@ fayalite
 fencelet
 fenceplay
 fencepost
-fenceress
 fencers
 freeborn
 firebricks
@@ -4800,6 +4799,7 @@ flagpole
 faunula
 figurehead
 flagpoles
+fenceress
 flagrance
 flagrancy
 filiform
