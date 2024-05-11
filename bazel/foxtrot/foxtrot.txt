@@ -4908,7 +4908,6 @@ formulize
 flameproofer
 flintlocks
 finfishes
-flamer
 flamers
 ferneries
 fallback
@@ -5523,6 +5522,7 @@ fluffed
 flexuosity
 frangula
 flexuously
+flamer
 flexuousness
 flexured
 flexures
