@@ -1610,7 +1610,6 @@ accommodate
 accommodated
 adscriptive
 accommodateness
-accommodates
 accommodating
 accommodatingly
 accommodatingness
@@ -11490,6 +11489,7 @@ anacephalize
 aporose
 anaces
 anacharis
+accommodates
 anachoret
 anachorism
 anachromasis
