@@ -11554,7 +11554,6 @@ boards
 boardsmanship
 boardwalks
 boarfish
-boarfishes
 boarhound
 boarish
 bursar
@@ -17474,6 +17473,7 @@ bunn
 bunnell
 bunny
 bunnia
+boarfishes
 benettle
 bunnies
 bunning
