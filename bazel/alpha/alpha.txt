@@ -2663,7 +2663,6 @@ acousticolateral
 acousticon
 acousticophobia
 acoustoelectric
-acpt
 acquaint
 acquaintances
 acquaintanceship
@@ -6829,6 +6828,7 @@ antonina
 airbuses
 airbusses
 aircheck
+acpt
 airchecks
 aircoaches
 aircraft
