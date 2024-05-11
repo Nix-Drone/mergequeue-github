@@ -3227,7 +3227,6 @@ buffi
 basichromatinic
 babai
 basichromiole
-basicity
 bodybuilder
 bumph
 beegerite
@@ -8441,6 +8440,7 @@ bigwig
 bigwigged
 bigwiggedness
 bigwiggery
+basicity
 bigwiggism
 bummerish
 bigwigs
