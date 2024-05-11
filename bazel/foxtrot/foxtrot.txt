@@ -1698,6 +1698,7 @@ friars
 four
 fdnames
 fdtype
+francs
 fdub
 fortuitousness
 fe
@@ -8953,7 +8954,6 @@ fouled
 falsifies
 foulest
 foulings
-francs
 feuterer
 foulish
 febronianism
