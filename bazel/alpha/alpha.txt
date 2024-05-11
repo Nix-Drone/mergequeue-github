@@ -11742,7 +11742,6 @@ analytique
 analyzability
 analyzable
 analyzation
-analyze
 analyzed
 analyzers
 analyzes
@@ -15411,6 +15410,7 @@ antiking
 aposematic
 anthropomorphize
 antikings
+analyze
 antiknock
 aviatory
 antilaborist
