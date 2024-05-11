@@ -1221,7 +1221,6 @@ bakeout
 bakeoven
 bakepan
 bimillenniums
-baker
 bakeress
 bakery
 bakeries
@@ -16871,6 +16870,7 @@ bugara
 bugbane
 bugbanes
 bugbear
+baker
 berreave
 bugbearish
 bugbite
