@@ -3316,7 +3316,6 @@ basing
 buzzwigs
 basins
 bandaite
-basioccipital
 basion
 barbell
 basions
@@ -6503,6 +6502,7 @@ bannerette
 benzothiazoline
 benzothiodiazole
 benzothiofuran
+basioccipital
 benzothiophene
 benzothiopyran
 benzotoluide
