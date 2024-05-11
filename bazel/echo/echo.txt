@@ -2309,6 +2309,7 @@ electrization
 earthenware
 electro
 electroacoustic
+examine
 ecblastpsis
 electroacoustical
 electroacoustically
@@ -11782,7 +11783,6 @@ examinationist
 examinator
 examinatory
 examinatorial
-examine
 excrescently
 examined
 examinee
