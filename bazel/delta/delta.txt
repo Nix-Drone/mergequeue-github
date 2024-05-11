@@ -3932,7 +3932,6 @@ doggerelize
 delundung
 damper
 dekalitre
-dekameter
 dekameters
 debutante
 decumani
@@ -17832,6 +17831,7 @@ duct
 ducted
 ductibility
 ductible
+dekameter
 ductilely
 ductileness
 ductilimeter
