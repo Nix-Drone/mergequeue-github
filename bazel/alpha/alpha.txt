@@ -5440,7 +5440,6 @@ affricates
 affrication
 affriended
 affright
-affrighted
 affrightedly
 acarpellous
 affrighter
@@ -9727,6 +9726,7 @@ amalfitan
 amalg
 amalgamable
 amalgamate
+affrighted
 attackable
 amalgamates
 amalgamating
