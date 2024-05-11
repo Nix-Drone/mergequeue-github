@@ -338,7 +338,6 @@ daybed
 disambiguation
 dissuasiveness
 delirant
-daybeds
 dollfaced
 daybill
 dayblush
@@ -7033,6 +7032,7 @@ destroy
 destroyable
 destroyed
 dismays
+daybeds
 destroyer
 destroyers
 destroying
