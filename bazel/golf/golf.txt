@@ -4014,7 +4014,6 @@ gigasecond
 gigaton
 gigatons
 gigavolt
-gigawatt
 gills
 gutser
 goldenfleece
@@ -5692,6 +5691,7 @@ globosity
 globous
 gastroplenic
 globousness
+gigawatt
 globs
 grumps
 globular
