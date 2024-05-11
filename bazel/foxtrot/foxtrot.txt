@@ -4345,7 +4345,6 @@ fish
 fishability
 fishable
 fishback
-fishberry
 fleshers
 fishberries
 fishboat
@@ -5962,6 +5961,7 @@ floozy
 floozie
 flop
 floperoo
+fishberry
 flophouse
 flophouses
 flopover
