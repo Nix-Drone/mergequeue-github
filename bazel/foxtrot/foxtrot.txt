@@ -7704,6 +7704,7 @@ foreguess
 faq
 fleshlily
 foretopsail
+foretopmast
 foregut
 forehalf
 forehall
@@ -8130,7 +8131,6 @@ femmes
 fretless
 foretop
 foretopman
-foretopmast
 foretopmen
 foretops
 foretrace
