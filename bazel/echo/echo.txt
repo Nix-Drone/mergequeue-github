@@ -10141,6 +10141,7 @@ etape
 eadish
 etapes
 ensearch
+exactness
 etatisme
 etatist
 etc
@@ -11713,7 +11714,6 @@ expectedly
 electrohydraulic
 endopolyploid
 exactment
-exactness
 engrosses
 extratensive
 exactor
