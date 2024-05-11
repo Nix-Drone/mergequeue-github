@@ -1888,7 +1888,6 @@ bandagist
 bandaid
 bandala
 bandalore
-bandana
 bandanaed
 bandannaed
 bandannas
@@ -4015,6 +4014,7 @@ beachcombing
 bowed
 bespatter
 biotin
+bandana
 beached
 basiation
 bronchomucormycosis
