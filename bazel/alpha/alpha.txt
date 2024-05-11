@@ -2701,7 +2701,6 @@ acquirability
 acquirable
 antares
 acquire
-acquired
 acquirement
 acquirements
 acquirer
@@ -18674,6 +18673,7 @@ arcadias
 aulos
 arcadic
 arcading
+acquired
 arcadings
 arcana
 arcanal
