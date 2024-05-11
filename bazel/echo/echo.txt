@@ -2675,7 +2675,6 @@ electrothermal
 expurgates
 epiperipheral
 electrothermancy
-electrothermic
 electrothermics
 enschedule
 enrapturer
@@ -9815,6 +9814,7 @@ espontoon
 espousage
 espousals
 espouse
+electrothermic
 elands
 espoused
 espousement
