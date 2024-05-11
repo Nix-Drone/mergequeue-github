@@ -15834,7 +15834,6 @@ cleanskin
 cleanskins
 cleanup
 clear
-chelaship
 clearable
 clearage
 clearance
@@ -20807,6 +20806,7 @@ composite
 composited
 compositely
 compositeness
+chelaship
 composites
 compositing
 composition
