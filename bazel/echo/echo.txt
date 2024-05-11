@@ -854,7 +854,6 @@ ectocondyle
 ectocondyloid
 epizoites
 efficient
-erroneous
 ectocuneiform
 ectocuniform
 ectodermosis
@@ -6972,6 +6971,7 @@ entosternal
 entosternum
 entosthoblast
 entothorax
+erroneous
 entotympanic
 ebullioscope
 entotrophi
