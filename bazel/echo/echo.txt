@@ -5430,7 +5430,6 @@ endrudge
 eltime
 expendable
 endseal
-endshake
 endsheet
 everglade
 execrates
@@ -8101,6 +8100,7 @@ epiphytic
 epiphytically
 epiphytism
 extensum
+endshake
 easing
 epiphytotic
 epiphytous
