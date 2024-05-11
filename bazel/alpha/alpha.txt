@@ -1280,7 +1280,6 @@ annectent
 acanthocephala
 acanthocephali
 acanthocephalous
-acanthocereus
 acanthocladous
 argenton
 acanthodean
@@ -20573,6 +20572,7 @@ auriculariales
 arthritis
 arthrobacterium
 aborsive
+acanthocereus
 arthrobranch
 autotransplant
 arthrocarcinoma
