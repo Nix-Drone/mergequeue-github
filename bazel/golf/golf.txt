@@ -8238,7 +8238,6 @@ graptolithina
 graptomancy
 grasp
 graspable
-graspers
 grasping
 graspingly
 gleets
@@ -10541,6 +10540,7 @@ gunnysack
 grandame
 gunnung
 glossmeter
+graspers
 gudgeoned
 goldenmouth
 gunong
