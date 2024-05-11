@@ -1444,7 +1444,6 @@ deceived
 dcb
 dclass
 dcollet
-dcor
 ddname
 disillusionise
 damnatory
@@ -2632,6 +2631,7 @@ decolourisation
 dissyllabize
 decolourised
 dogmatism
+dcor
 decolouriser
 decempeda
 decolourizer
