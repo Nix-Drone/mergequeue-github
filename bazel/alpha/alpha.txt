@@ -1392,7 +1392,6 @@ anthracemia
 acaulescent
 acauline
 acaulose
-acaulous
 acc
 acca
 accable
@@ -17274,6 +17273,7 @@ apollonic
 apodosis
 apollonicon
 apollos
+acaulous
 apolloship
 anagrammatised
 apolog
