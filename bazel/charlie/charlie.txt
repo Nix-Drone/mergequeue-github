@@ -29992,6 +29992,7 @@ crouchant
 crouchback
 crouche
 crouched
+cusps
 croucher
 crouches
 crouchie
@@ -31700,7 +31701,6 @@ cuspidors
 cuspids
 cusping
 cuspis
-cusps
 cuspule
 cussed
 cussedly
