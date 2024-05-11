@@ -10395,7 +10395,6 @@ diphenylacetylene
 diphenylamine
 diphenylaminechlorarsine
 diphenylchloroarsine
-diphenylene
 diphenylenimide
 diphenylenimine
 decern
@@ -13212,6 +13211,7 @@ dispraised
 dispraiser
 dispraising
 dispraisingly
+diphenylene
 dispreads
 disprejudice
 dispress
