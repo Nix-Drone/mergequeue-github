@@ -3558,7 +3558,6 @@ addressability
 allotheistic
 ammine
 addressable
-addressees
 addresser
 addressers
 addresses
@@ -6229,6 +6228,7 @@ aglow
 aglucon
 aglucone
 agma
+addressees
 agmas
 agmatine
 agmatology
