@@ -7777,7 +7777,6 @@ ale
 alea
 aleak
 aleatory
-aleatoric
 alebench
 aleberry
 analphabetical
@@ -10169,6 +10168,7 @@ ameer
 ameerate
 ameerates
 ameers
+aleatoric
 ameiosis
 ameiotic
 ameiuridae
