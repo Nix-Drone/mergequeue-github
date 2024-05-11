@@ -7148,6 +7148,7 @@ footcandle
 footcloths
 finedraw
 facer
+foresheet
 figwort
 foeniculum
 footed
@@ -7971,7 +7972,6 @@ foreshaft
 fadme
 foreshank
 foreshape
-foresheet
 foresheets
 foreshock
 favonian
