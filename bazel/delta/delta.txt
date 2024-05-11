@@ -5562,6 +5562,7 @@ deoxyribonucleoprotein
 deozonization
 dowlas
 deozonizer
+diecase
 dep
 depaganize
 depainted
@@ -9159,7 +9160,6 @@ ditriglyph
 dieb
 diebacks
 dyebeck
-diecase
 diecious
 diectasis
 died
