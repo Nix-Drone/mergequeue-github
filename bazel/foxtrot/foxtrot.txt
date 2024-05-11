@@ -2227,6 +2227,7 @@ felt
 felted
 felter
 feltyfare
+filesmith
 feltyflier
 felting
 feltings
@@ -3619,7 +3620,6 @@ fanons
 filers
 files
 frailly
-filesmith
 filesniff
 flagships
 filespec
