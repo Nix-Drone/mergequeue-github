@@ -7205,6 +7205,7 @@ dicyan
 deteriorationist
 deteriorative
 deteriorator
+dispell
 deteriorism
 deteriority
 determ
@@ -8342,7 +8343,6 @@ dialyzer
 dialyzes
 dowhacky
 dialkyl
-dispell
 dialkylamine
 dialkylic
 detentes
