@@ -14838,7 +14838,6 @@ breakout
 breakouts
 breakover
 biphenyl
-breakpoint
 breakpoints
 breaks
 breakshugh
@@ -17538,6 +17537,7 @@ blastomycete
 basal
 boyg
 burberry
+breakpoint
 burble
 burbler
 burblers
