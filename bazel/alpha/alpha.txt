@@ -2087,7 +2087,6 @@ acetins
 acetize
 acetla
 acetmethylanilide
-acetnaphthalide
 acetoacetanilide
 acetoacetate
 acetoacetic
@@ -21016,6 +21015,7 @@ ascocarps
 anteposthumous
 asparaguses
 ascogenous
+acetnaphthalide
 ascogone
 ascogonia
 ascogonial
