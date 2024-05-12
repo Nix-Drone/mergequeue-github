@@ -3010,7 +3010,6 @@ barricados
 barrico
 barricoes
 barrier
-barriers
 barriguda
 barrigudos
 broadaxe
@@ -9199,6 +9198,7 @@ bungmaker
 barleybird
 biosterin
 bletting
+barriers
 biosterol
 beefburger
 barrowist
