@@ -2954,6 +2954,7 @@ foreshows
 feuillemorte
 feuillet
 feuilleton
+foehnlike
 feuilletonist
 feuilletonistic
 feuilletons
@@ -6685,7 +6686,6 @@ foederati
 foederis
 foeffment
 foehn
-foehnlike
 foeish
 foeless
 forenotice
