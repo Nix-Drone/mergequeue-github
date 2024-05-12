@@ -12450,7 +12450,6 @@ bouleverse
 bones
 boneset
 bonesets
-bonesetter
 barnyard
 bonesetting
 brushite
@@ -14632,6 +14631,7 @@ brast
 brat
 bratina
 bratling
+bonesetter
 bratstvo
 blunderer
 brattach
