@@ -8478,7 +8478,6 @@ alkene
 alkenes
 alkenyl
 alkenna
-alkermes
 alkes
 alky
 alkide
@@ -12249,6 +12248,7 @@ ancon
 ancona
 angoumian
 anconagra
+alkermes
 anconal
 anticipate
 anconas
