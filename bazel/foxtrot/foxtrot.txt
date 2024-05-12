@@ -4350,7 +4350,6 @@ fleshers
 fishberries
 fishboat
 fishbolt
-fishbolts
 falchions
 fishbowls
 fisheater
@@ -9878,6 +9877,7 @@ furlane
 fimbriation
 fewnesses
 frescade
+fishbolts
 frescoed
 frontingly
 fresh
