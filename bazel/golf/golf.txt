@@ -3076,7 +3076,6 @@ geoffroyin
 gekko
 geomance
 geoform
-gillnet
 geogen
 geogenesis
 gyropilot
@@ -8987,6 +8986,7 @@ grifting
 gunther
 grig
 gneissose
+gillnet
 griggles
 gradal
 grigris
