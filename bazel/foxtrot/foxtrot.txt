@@ -676,6 +676,7 @@ felicitator
 fameworthy
 forereport
 familial
+floran
 familiarisation
 familiarise
 familiarised
@@ -7863,7 +7864,6 @@ forepart
 foredesk
 foreparts
 forepass
-floran
 forepast
 feedstuffs
 foliously
