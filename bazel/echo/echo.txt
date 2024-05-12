@@ -6830,7 +6830,6 @@ entitatively
 entities
 epineurium
 entitle
-enriched
 epochally
 entitling
 entitule
@@ -7786,6 +7785,7 @@ epidermically
 epidermidalization
 epidermis
 epidermization
+enriched
 epidermoid
 epidermolysis
 exscriptural
