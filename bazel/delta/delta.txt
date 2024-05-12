@@ -1023,7 +1023,6 @@ darkmans
 disannexation
 darkness
 darknesses
-darkroom
 dragomen
 dineutron
 darks
@@ -5373,6 +5372,7 @@ denticular
 denticulate
 denticulated
 denticule
+darkroom
 dentiferous
 dentification
 dentifrice
