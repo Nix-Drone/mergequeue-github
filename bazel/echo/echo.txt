@@ -9943,7 +9943,6 @@ estancias
 estanciero
 erosion
 eserin
-estang
 estate
 episkotister
 estately
@@ -10705,6 +10704,7 @@ eudaemon
 eudaemony
 eyefuls
 eudaemonical
+estang
 etiologic
 ecosystem
 eudaemonics
