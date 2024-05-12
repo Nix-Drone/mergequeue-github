@@ -2557,7 +2557,6 @@ cankering
 cankerous
 cankerroot
 cankerweed
-cankerwort
 canli
 coff
 canmaker
@@ -29474,6 +29473,7 @@ crystallographers
 crystallography
 crystallographic
 crystalloid
+cankerwort
 crystalloidal
 crystallology
 crystalloluminescence
