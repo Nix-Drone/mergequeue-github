@@ -11894,7 +11894,6 @@ doorba
 disembay
 dwells
 disembalm
-disembark
 disembarkation
 disembarkations
 disembarked
@@ -16540,6 +16539,7 @@ draftable
 detort
 draftage
 docimastic
+disembark
 dolabre
 drafted
 draftee
