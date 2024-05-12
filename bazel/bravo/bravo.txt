@@ -11599,7 +11599,6 @@ boatings
 boation
 boatkeeper
 bodyplate
-bittacle
 beclamoring
 boxball
 boatlike
@@ -12063,6 +12062,7 @@ bolag
 bolar
 bolas
 bearcoot
+bittacle
 billion
 bolases
 bartsia
