@@ -7908,7 +7908,6 @@ bibles
 bohmite
 biblic
 bipunctal
-biblical
 biblicality
 biblically
 biblicism
@@ -12206,6 +12205,7 @@ bolsterer
 bolsterers
 bolsters
 bunters
+biblical
 brake
 boltage
 boltcutter
