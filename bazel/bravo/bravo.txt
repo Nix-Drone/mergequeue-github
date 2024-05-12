@@ -15185,7 +15185,6 @@ brickfield
 brickfielder
 brickhood
 buddhists
-brickyard
 brickier
 broadness
 bred
@@ -17777,6 +17776,7 @@ blastophaga
 burnfire
 burnie
 baskonize
+brickyard
 burniebee
 burnies
 burning
