@@ -3288,7 +3288,6 @@ deferents
 deferment
 deferments
 deferrable
-deferral
 deferrals
 deferred
 deferrer
@@ -7574,6 +7573,7 @@ dignation
 developments
 developoid
 develops
+deferral
 daguerreotypy
 devels
 devenustate
