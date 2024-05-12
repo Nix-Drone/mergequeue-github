@@ -678,7 +678,6 @@ bacteriostasis
 bacteriostat
 bacteriostatically
 bacteriotherapeutic
-bacteriotherapy
 balanophorin
 bacteriotoxic
 bechances
@@ -7662,6 +7661,7 @@ bewinter
 bewired
 bewitch
 bewitchedness
+bacteriotherapy
 bewitcher
 bewitchery
 buchite
