@@ -11904,7 +11904,6 @@ collectiveness
 chordoid
 chordomesoderm
 chordophone
-chordotomy
 chordotonal
 chore
 caviare
@@ -23201,6 +23200,7 @@ constructors
 constructorship
 constructs
 construe
+chordotomy
 construer
 construers
 construes
