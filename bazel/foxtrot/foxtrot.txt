@@ -4122,6 +4122,7 @@ firca
 fyrd
 fireable
 firearm
+flamefish
 firearms
 fireback
 fumeuses
@@ -8892,7 +8893,6 @@ fosslfying
 fosslify
 folkways
 fishwife
-flamefish
 fossor
 fossoria
 fossorious
