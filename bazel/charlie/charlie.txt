@@ -9776,6 +9776,7 @@ chelicera
 chelicerae
 cheliceral
 chelicerate
+colonising
 cysts
 chelide
 chelydidae
@@ -19278,7 +19279,6 @@ colonise
 colonised
 colonises
 capture
-colonising
 colonist
 chiromancer
 colonizability
