@@ -4216,7 +4216,6 @@ fleeceable
 fireplug
 frieze
 fireplugs
-firepot
 fireproofed
 fireproofing
 fireproofness
@@ -7426,6 +7425,7 @@ futhark
 fallacious
 forcement
 forcene
+firepot
 forceps
 fey
 forceput
