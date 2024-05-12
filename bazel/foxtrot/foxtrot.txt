@@ -2780,7 +2780,6 @@ federary
 fraze
 forbidder
 festiveness
-festivity
 festology
 flowerer
 frasco
@@ -3525,6 +3524,7 @@ facebread
 figures
 figuresome
 flueman
+festivity
 fconv
 foraneous
 figury
