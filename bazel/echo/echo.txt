@@ -5140,7 +5140,6 @@ endocrinologist
 endocrinopath
 ecphasis
 embosser
-endocrinopathic
 endocritic
 eruca
 endoderm
@@ -6758,6 +6757,7 @@ entertissue
 emetine
 entete
 enthalpy
+endocrinopathic
 enthalpies
 enthean
 entheasm
