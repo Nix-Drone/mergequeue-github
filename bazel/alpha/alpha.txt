@@ -4953,6 +4953,7 @@ aporphin
 aerofoil
 aerofoils
 algine
+amphibian
 arisaema
 aerogel
 aerogels
@@ -11013,7 +11014,6 @@ amphiarthrosis
 amphiaster
 amphibali
 amphibial
-amphibian
 amphibians
 amphibichnite
 amphibiety
