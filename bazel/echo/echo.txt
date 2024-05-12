@@ -1358,7 +1358,6 @@ effectuality
 effectualness
 effectuated
 effectuates
-effectuating
 exuberate
 effectuation
 ecologist
@@ -13292,6 +13291,7 @@ exposed
 exposedness
 exposers
 exposes
+effectuating
 exposing
 exposit
 expositing
