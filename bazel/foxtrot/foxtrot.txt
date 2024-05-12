@@ -4362,7 +4362,6 @@ fisherboy
 faffle
 fisheress
 fragmentate
-fisherfolk
 fishery
 florentium
 fisherman
@@ -10700,6 +10699,7 @@ fruitgrower
 fruitier
 fruitiness
 famish
+fisherfolk
 frightable
 falsettist
 fruiting
