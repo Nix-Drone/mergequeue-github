@@ -1020,7 +1020,6 @@ absorbency
 antagonisable
 absorbencies
 absorbents
-absorber
 absorbers
 absorbing
 absorbtion
@@ -6146,6 +6145,7 @@ aginner
 aginners
 agynous
 agios
+absorber
 agiotage
 agiotages
 agyrate
