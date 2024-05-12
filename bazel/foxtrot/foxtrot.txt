@@ -3623,6 +3623,7 @@ filesmith
 filesniff
 flagships
 filespec
+firecrackers
 forficula
 fossores
 fileting
@@ -4174,7 +4175,6 @@ firecracker
 frontiers
 frockless
 feuage
-firecrackers
 farness
 firedamp
 feezing
