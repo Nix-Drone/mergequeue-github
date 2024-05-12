@@ -7279,6 +7279,7 @@ footwall
 footwarmer
 footwear
 floodmark
+flecnode
 fumiferous
 fabricable
 fuliginous
@@ -8082,7 +8083,6 @@ fluorescent
 firebrats
 flayflint
 foalhood
-flecnode
 forests
 forestside
 forestudy
