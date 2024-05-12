@@ -5451,6 +5451,7 @@ behears
 behearse
 beheira
 bandlimit
+bordereau
 behelp
 behemothic
 behemoths
@@ -12945,7 +12946,6 @@ bordello
 bordels
 backpacker
 border
-bordereau
 bowstaff
 bordered
 borderer
