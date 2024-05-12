@@ -15827,6 +15827,7 @@ cleansable
 cleanse
 cleanser
 cleansers
+cupeled
 calcicole
 cleanses
 cleansing
@@ -31089,7 +31090,6 @@ cupboard
 cupcake
 cupcakes
 cupel
-cupeled
 cupelers
 cupeling
 clinometria
