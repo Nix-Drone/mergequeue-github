@@ -2944,7 +2944,6 @@ feudists
 feudovassalism
 format
 feuds
-flagonless
 furazane
 formularism
 frustums
@@ -6362,6 +6361,7 @@ flunkeyhood
 flunkeyistic
 flightshot
 flunker
+flagonless
 foetid
 flunky
 flunkyite
