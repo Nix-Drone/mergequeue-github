@@ -2626,7 +2626,6 @@ electroshock
 electroshocks
 electrosynthesis
 electrosynthetically
-envenoms
 electrosmosis
 electrostatic
 electrostatical
@@ -8320,6 +8319,7 @@ epitasis
 epitaxy
 endball
 ectosteally
+envenoms
 epitaxic
 epitaxies
 epitaxis
