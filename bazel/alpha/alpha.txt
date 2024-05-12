@@ -1984,7 +1984,6 @@ acetaldehydrase
 acetaldol
 acetalize
 acetals
-acetamid
 acetamide
 acetamidin
 acetamidine
@@ -5880,6 +5879,7 @@ agate
 agatelike
 agates
 agatha
+acetamid
 agathaea
 agathaumas
 agathin
