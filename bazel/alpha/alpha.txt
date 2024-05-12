@@ -367,7 +367,6 @@ abevacuation
 attributiveness
 abfarads
 abhenry
-abhenries
 abhenrys
 antigone
 abhinaya
@@ -2648,6 +2647,7 @@ acouasm
 acouchi
 acoumeter
 allylene
+abhenries
 acoumetry
 autodetector
 airframes
