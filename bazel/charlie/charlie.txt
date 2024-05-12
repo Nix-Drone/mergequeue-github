@@ -4847,7 +4847,6 @@ cimelia
 cakemaker
 cartelist
 cartelistic
-cartelization
 cartelize
 cartelizing
 cartellist
@@ -22890,6 +22889,7 @@ cosinage
 consignatory
 consigned
 consignee
+cartelization
 consignees
 consignify
 consignificant
