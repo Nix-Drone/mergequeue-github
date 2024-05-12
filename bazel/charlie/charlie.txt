@@ -15821,7 +15821,6 @@ cleanings
 cleanish
 cleanlier
 cleanliest
-cleanness
 cleanout
 cleansable
 cleanse
@@ -18998,6 +18997,7 @@ collet
 colletarium
 colleted
 colleter
+cleanness
 counterquartered
 colleterium
 chelone
