@@ -2654,7 +2654,6 @@ airframes
 acouometer
 acouophonia
 acoluthic
-acoup
 acoupa
 acousmatic
 acoustical
@@ -11776,6 +11775,7 @@ anteroventral
 analogising
 analogism
 analogize
+acoup
 antimedievally
 argentite
 analogized
