@@ -6837,7 +6837,6 @@ celosia
 celosias
 celotex
 celotomy
-consultee
 celotomies
 celsia
 celsitude
@@ -14514,6 +14513,7 @@ cirrhosed
 cirrhosis
 cirrhotic
 cirrhous
+consultee
 cirrhus
 cirri
 cirribranch
