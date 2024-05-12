@@ -9204,7 +9204,6 @@ chasid
 chasidim
 chasings
 chasm
-chasma
 chasmed
 chasmic
 coffinite
@@ -9856,6 +9855,7 @@ chemiluminescence
 chemiluminescent
 chemin
 cheminee
+chasma
 chemiotactic
 chemiotaxic
 chemiotaxis
