@@ -5862,7 +5862,6 @@ glossemes
 glossemic
 girondism
 glosser
-glossers
 glosses
 glossy
 glossier
@@ -6369,6 +6368,7 @@ gonidiferous
 gestured
 goalkeeper
 goalkeeping
+glossers
 gambusias
 goals
 goaltender
