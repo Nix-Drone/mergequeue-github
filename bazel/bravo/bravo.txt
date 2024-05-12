@@ -9019,7 +9019,6 @@ biogeographer
 biogeography
 biogeographic
 biogeographical
-biogeographically
 biographee
 biographer
 biographers
@@ -11550,6 +11549,7 @@ boardly
 boardlike
 billhead
 boardroom
+biogeographically
 boards
 boardsmanship
 boardwalks
