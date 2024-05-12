@@ -1864,7 +1864,6 @@ ace
 aceacenaphthene
 asphyxies
 aceanthrene
-aceanthrenequinone
 acecaffin
 acecaffine
 aced
@@ -7306,6 +7305,7 @@ alarmism
 alarmisms
 alarmist
 alarmists
+aceanthrenequinone
 alarms
 anthesterol
 alarodian
