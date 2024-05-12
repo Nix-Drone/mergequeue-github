@@ -3610,7 +3610,6 @@ firelight
 filemaker
 fluidize
 filemark
-filemot
 foreknee
 filename
 filenames
@@ -11394,6 +11393,7 @@ fortalice
 furfurous
 feminism
 furial
+filemot
 fervorless
 favourite
 furibund
