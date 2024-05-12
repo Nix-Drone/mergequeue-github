@@ -5299,7 +5299,6 @@ begirds
 begirt
 beglad
 begladding
-beglare
 beglerbeg
 beglerbeglic
 beglerbeglik
@@ -6062,6 +6061,7 @@ bakings
 bialy
 bemistress
 bemitered
+beglare
 bemitred
 bemix
 bellow
