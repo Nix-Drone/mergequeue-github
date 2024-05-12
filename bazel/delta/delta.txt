@@ -8341,7 +8341,6 @@ dialyzed
 dialyzer
 dialyzes
 dowhacky
-dialkyl
 dispell
 dialkylamine
 dialkylic
@@ -9586,6 +9585,7 @@ dihydrate
 dihydrated
 disfunctions
 dihydrazone
+dialkyl
 dihydric
 disulphonic
 daemonian
