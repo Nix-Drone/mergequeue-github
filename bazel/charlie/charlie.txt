@@ -10251,7 +10251,6 @@ chiasmas
 chiasmata
 chiasmatic
 connaraceae
-chiasmatype
 chiasmatypy
 chiasmi
 chiasmic
@@ -22892,6 +22891,7 @@ consigned
 consignee
 consignees
 consignify
+chiasmatype
 consignificant
 consignification
 consignificative
