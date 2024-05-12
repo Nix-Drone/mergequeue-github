@@ -3437,6 +3437,7 @@ fifo
 fifteen
 fifteenfold
 fifteens
+fishability
 fifteenthly
 fifteenths
 fifthly
@@ -4342,7 +4343,6 @@ fise
 forb
 fisetin
 fish
-fishability
 fishable
 fishback
 fishberry
