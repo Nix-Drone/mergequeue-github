@@ -1085,7 +1085,6 @@ farmerlike
 farmership
 farmhold
 farmhouse
-feronia
 farmhousey
 fontinalaceae
 fuzzle
@@ -6619,6 +6618,7 @@ foothill
 filace
 foaly
 foaling
+feronia
 foals
 forestick
 foam
