@@ -17333,7 +17333,6 @@ coauthered
 coauthor
 coauthored
 coauthoring
-connectedness
 coauthority
 coauthors
 coauthorship
@@ -23912,6 +23911,7 @@ contumaciousness
 contumacity
 chipyard
 contumacities
+connectedness
 contumax
 cantel
 contumely
