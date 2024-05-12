@@ -4176,7 +4176,6 @@ good
 gillotype
 gillstoup
 gilo
-gilour
 gilpey
 gilravage
 gilravager
@@ -8236,6 +8235,7 @@ graptolitha
 graptolithida
 graptolithina
 graptomancy
+gilour
 grasp
 graspable
 graspers
