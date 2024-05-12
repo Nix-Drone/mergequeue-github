@@ -11397,7 +11397,6 @@ chlorotic
 chlorotrifluoroethylene
 chlorous
 chlorozincate
-chlorpheniramine
 chlorphenol
 chlorpicrin
 chlorpromazine
@@ -18789,6 +18788,7 @@ cavil
 colilysin
 colima
 colymbidae
+chlorpheniramine
 coarcted
 colymbiform
 colymbion
