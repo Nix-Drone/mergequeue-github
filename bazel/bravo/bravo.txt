@@ -9037,7 +9037,6 @@ brutes
 bioherm
 bioherms
 bioinstrument
-biokinetics
 biol
 biolinguistics
 biolyses
@@ -12772,6 +12771,7 @@ boomtown
 bergamiol
 boomtowns
 boon
+biokinetics
 brumalia
 boondock
 boondocker
