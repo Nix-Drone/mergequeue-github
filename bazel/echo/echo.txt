@@ -6220,7 +6220,6 @@ enqueue
 entered
 enqueued
 enquicken
-enquire
 eten
 enquired
 enquiry
@@ -11964,6 +11963,7 @@ ephectic
 excepts
 excercise
 excerebrate
+enquire
 excerebration
 excern
 ennoble
