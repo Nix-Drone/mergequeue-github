@@ -13394,6 +13394,7 @@ anker
 ankerhold
 ankerite
 ankerites
+autopolar
 ankh
 ankhs
 ankylenteron
@@ -24292,7 +24293,6 @@ autoplastic
 autopneumatic
 autopoint
 autopoisonous
-autopolar
 autopolyploid
 autopolyploidy
 autopolo
