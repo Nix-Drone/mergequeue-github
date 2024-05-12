@@ -16702,7 +16702,6 @@ clotheshorses
 clothesyard
 clothesless
 clothesline
-clotheslines
 clothesman
 cosuitor
 clothesmen
@@ -20714,6 +20713,7 @@ consimilarity
 compliant
 compliantly
 complicacy
+clotheslines
 complicant
 complicate
 complicated
