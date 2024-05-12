@@ -13510,6 +13510,7 @@ annerre
 anneslia
 annet
 annette
+assertable
 adjurers
 annex
 annexa
@@ -21673,7 +21674,6 @@ assents
 asseour
 assert
 asserta
-assertable
 aeron
 assertative
 asserted
