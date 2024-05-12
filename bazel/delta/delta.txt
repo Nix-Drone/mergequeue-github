@@ -1193,7 +1193,6 @@ dataries
 dataset
 datasetname
 datasets
-datatype
 datatypes
 datcha
 dynamometry
@@ -1720,6 +1719,7 @@ deathward
 deathwatches
 deathweed
 deathworm
+datatype
 dowelled
 deave
 disomic
