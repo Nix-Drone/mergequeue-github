@@ -11870,6 +11870,7 @@ bulbocavernous
 bogberry
 bogeyed
 bogeying
+bool
 bogeyman
 bogeymen
 bogeys
@@ -12729,7 +12730,6 @@ bookworm
 bookworms
 bucketeer
 bookwright
-bool
 bowline
 boolean
 booleans
