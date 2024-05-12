@@ -4913,6 +4913,7 @@ flamers
 ferneries
 fallback
 flamethrowers
+flophouses
 forcepses
 frankpledge
 fraternity
@@ -5963,7 +5964,6 @@ floozie
 flop
 floperoo
 flophouse
-flophouses
 flopover
 flopovers
 finish
