@@ -6212,7 +6212,6 @@ aglint
 aglipayan
 aglipayano
 aglypha
-aglyphodont
 aglyphodonta
 aglyphodontia
 andries
@@ -24449,6 +24448,7 @@ autotoxin
 autotoxis
 autotractor
 autotransformer
+aglyphodont
 autotransplantation
 arythmically
 autostethoscope
