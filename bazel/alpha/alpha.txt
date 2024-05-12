@@ -7885,7 +7885,6 @@ alerters
 alertest
 agrees
 alerting
-alertly
 alertness
 alerts
 ales
@@ -25327,6 +25326,7 @@ archplayer
 azophenetole
 azophenyl
 azophenine
+alertly
 azophosphore
 azoprotein
 azorian
