@@ -2434,7 +2434,6 @@ electroengrave
 electroengraving
 electroextraction
 expedient
-electroform
 electroforming
 electrofusion
 ethanol
@@ -12684,6 +12683,7 @@ encratism
 exogenic
 epipleurae
 exogenous
+electroform
 exogenously
 excurvation
 exogyra
