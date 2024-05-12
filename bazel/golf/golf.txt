@@ -4757,6 +4757,7 @@ gyro
 gyroceran
 gallery
 guildsman
+gravegarth
 golliwogg
 gorkhali
 gyrocompasses
@@ -8404,7 +8405,6 @@ genophobia
 gravediggers
 grudgment
 gravedo
-gravegarth
 gravel
 graveled
 gravely
