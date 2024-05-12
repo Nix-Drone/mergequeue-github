@@ -5614,6 +5614,7 @@ billingsgate
 belay
 belayed
 belayer
+branchful
 belaying
 belays
 brandishers
@@ -14435,7 +14436,6 @@ brancher
 branchery
 branches
 beadle
-branchful
 branchy
 branchia
 branchiae
