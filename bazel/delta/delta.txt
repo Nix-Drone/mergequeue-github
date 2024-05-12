@@ -470,6 +470,7 @@ daystars
 daystreak
 daytide
 daytime
+disbowel
 daytimes
 daiva
 dobbed
@@ -11186,7 +11187,6 @@ disbosomed
 disbosoming
 disbosoms
 disbound
-disbowel
 disboweled
 divinity
 disboweling
