@@ -5866,7 +5866,6 @@ cathedra
 cathedrae
 charlotte
 cathedral
-cathedraled
 cathedralesque
 cavorter
 cathedralic
@@ -29281,6 +29280,7 @@ craggedly
 cryptograms
 cryptograph
 cryptographal
+cathedraled
 cryptography
 cryptographic
 cryptographical
