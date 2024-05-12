@@ -6312,7 +6312,6 @@ enroot
 enrooted
 enroots
 encirclement
-enround
 enruin
 enrut
 ens
@@ -10803,6 +10802,7 @@ embedder
 euhemerize
 euhemerized
 euhemerizing
+enround
 euhyostyly
 euhyostylic
 eukairite
