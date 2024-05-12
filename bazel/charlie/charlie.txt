@@ -18073,6 +18073,7 @@ coequation
 coerce
 coerceable
 coerced
+cowhand
 condylarth
 coercement
 coercend
@@ -27573,7 +27574,6 @@ cowgrass
 crappers
 cowhage
 cowhages
-cowhand
 chiral
 cowhands
 cowheart
