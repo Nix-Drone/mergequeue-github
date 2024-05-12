@@ -7546,6 +7546,7 @@ devaunt
 devchar
 deveined
 deveining
+droplight
 devel
 develed
 denaturising
@@ -17392,7 +17393,6 @@ descriptives
 dropkicks
 droplet
 droplets
-droplight
 droplike
 drib
 doigt
