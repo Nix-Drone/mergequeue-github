@@ -140,7 +140,6 @@ faconde
 faconne
 facsim
 frena
-facsimile
 facsimiled
 fastest
 facsimileing
@@ -4941,6 +4940,7 @@ flaughter
 flammulated
 flammulation
 flammule
+facsimile
 frosteds
 flams
 flanch
