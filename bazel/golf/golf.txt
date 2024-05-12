@@ -4963,7 +4963,6 @@ ghostfish
 grawls
 gryphite
 glacialism
-glacialist
 glacialize
 glaciaria
 graphemes
@@ -6607,6 +6606,7 @@ goldbricks
 guineapig
 glt
 goldbug
+glacialist
 goldbugs
 goldcrest
 grewsome
