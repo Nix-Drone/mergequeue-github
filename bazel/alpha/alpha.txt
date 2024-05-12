@@ -12528,7 +12528,6 @@ anemotaxis
 anemotropism
 anencephaly
 anencephalic
-apochromat
 anencephalous
 arvo
 anencephalus
@@ -25238,6 +25237,7 @@ azeotropy
 andriana
 azeotropic
 azeotropism
+apochromat
 azerbaijanese
 azerbaijani
 azerbaijanian
