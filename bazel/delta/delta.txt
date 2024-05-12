@@ -17671,7 +17671,6 @@ dsects
 desmodium
 dsname
 dashers
-dsnames
 dsp
 dsr
 dsri
@@ -17896,6 +17895,7 @@ duello
 duellos
 duels
 duenas
+dsnames
 dracaena
 dueness
 duenesses
