@@ -1899,7 +1899,6 @@ debtful
 debtless
 debtor
 debtors
-debugger
 debuggers
 desilverized
 debugs
@@ -7297,6 +7296,7 @@ deticked
 deticker
 detickers
 deticks
+debugger
 detin
 detinet
 detinue
