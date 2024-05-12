@@ -8377,6 +8377,7 @@ alizarine
 alizarins
 aljama
 aljamado
+armoires
 assistances
 aljamia
 aljamiado
@@ -19980,7 +19981,6 @@ armloads
 armlock
 armlocks
 armoire
-armoires
 armomancy
 armoniac
 agla
