@@ -7515,7 +7515,6 @@ ephemerida
 ephemeridae
 ephemerides
 ephemeris
-ephemeromorph
 ephemeromorphic
 ephemeron
 ephemeroptera
@@ -9463,6 +9462,7 @@ escaladed
 escalader
 escalades
 escalading
+ephemeromorph
 escalan
 escalate
 enlute
