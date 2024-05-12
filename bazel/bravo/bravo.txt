@@ -2249,7 +2249,6 @@ baptistic
 baptistry
 baptistries
 baptizable
-baptized
 baptizement
 baptizer
 baptizers
@@ -14389,6 +14388,7 @@ bog
 brakeage
 brakeages
 braked
+baptized
 brakehead
 brakeless
 brakeload
