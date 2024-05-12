@@ -10684,7 +10684,6 @@ amlacra
 amlet
 amli
 amlikar
-amlong
 amman
 ammelide
 ammelin
@@ -16236,6 +16235,7 @@ antisiphonal
 allocations
 assets
 assistency
+amlong
 aidable
 aphid
 antiskeptic
