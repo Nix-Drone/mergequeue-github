@@ -7153,7 +7153,6 @@ detat
 detax
 detd
 detect
-detectability
 daishiki
 detected
 detecter
@@ -12106,6 +12105,7 @@ disfashion
 disfavor
 deaerating
 disproven
+detectability
 dustcloths
 dha
 disfavorer
