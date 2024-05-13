@@ -1701,7 +1701,6 @@ gasthauser
 gasting
 gastly
 grego
-gastness
 gastnesses
 gingili
 glossophorous
@@ -7927,6 +7926,7 @@ grandiloquous
 grandiose
 grandioseness
 grandiosity
+gastness
 grandioso
 grandisonant
 grandisonianism
