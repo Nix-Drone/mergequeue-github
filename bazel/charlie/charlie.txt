@@ -11400,7 +11400,6 @@ chlorozincate
 chlorpheniramine
 chlorphenol
 chlorpicrin
-chlorpromazine
 chlorpropamide
 chlorprophenpyridamine
 cheerfulsome
@@ -29777,6 +29776,7 @@ crops
 cropshin
 cropsick
 cropweed
+chlorpromazine
 casekeeper
 croqueted
 croqueting
