@@ -12329,7 +12329,6 @@ bombonne
 bombora
 bombous
 bombproof
-bombycilla
 bombs
 bombsights
 belgard
@@ -15268,6 +15267,7 @@ bridewort
 bedimplies
 bridge
 bridgeable
+bombycilla
 bridgebote
 bridgebuilder
 bridgebuilding
