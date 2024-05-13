@@ -3908,7 +3908,6 @@ carcinogenic
 croceus
 colorimetry
 circumnutation
-carcinoid
 carcinolysin
 carcinological
 carcinologist
@@ -25625,6 +25624,7 @@ correa
 correality
 correct
 correctable
+carcinoid
 correctant
 corrected
 correctest
