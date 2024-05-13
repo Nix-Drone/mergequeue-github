@@ -5872,7 +5872,6 @@ cavorter
 cathedralic
 cathedrallike
 cathedrals
-cathedralwise
 cathedras
 cathedrated
 cathedratic
@@ -20252,6 +20251,7 @@ commotions
 commotive
 commove
 chem
+cathedralwise
 commoved
 conjectured
 cephalometry
