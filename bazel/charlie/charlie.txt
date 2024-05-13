@@ -88,7 +88,6 @@ cabble
 cabbled
 cabbler
 cabda
-cabdriver
 cabdriving
 cabecudo
 capellet
@@ -25059,6 +25058,7 @@ corelates
 corelating
 corelation
 corelational
+cabdriver
 corelative
 corelatively
 colius
