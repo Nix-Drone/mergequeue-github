@@ -8196,7 +8196,6 @@ diaglyph
 diaglyphic
 ductus
 diaglyptic
-diagnosable
 diagnose
 dipus
 diagnosed
@@ -16553,6 +16552,7 @@ draftiest
 draftily
 drafting
 draftings
+diagnosable
 draftman
 dactylioglyphtic
 defendress
