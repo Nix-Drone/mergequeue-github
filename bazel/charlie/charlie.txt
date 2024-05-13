@@ -3469,7 +3469,6 @@ capucine
 capulet
 capuli
 capulin
-caput
 caputium
 cornua
 caque
@@ -24062,6 +24061,7 @@ coexchangeable
 converged
 convergement
 cirrolite
+caput
 convergence
 convergences
 convergency
