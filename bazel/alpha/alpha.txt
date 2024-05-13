@@ -10254,7 +10254,6 @@ amentias
 amentiferae
 amentiform
 aments
-amentulum
 amentum
 amenuse
 adeling
@@ -22598,6 +22597,7 @@ athyrid
 athyris
 archit
 averruncate
+amentulum
 athyroidism
 athyrosis
 abcess
