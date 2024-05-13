@@ -7255,6 +7255,7 @@ bestiary
 bestiarian
 bestiaries
 bestiarist
+boggling
 besting
 bestirred
 bloodroots
@@ -11894,7 +11895,6 @@ boggled
 boggler
 bogglers
 boggles
-boggling
 bobization
 bogglingly
 bielid
