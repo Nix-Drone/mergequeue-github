@@ -3456,7 +3456,6 @@ clientless
 captress
 capturable
 captured
-captures
 capturing
 capuan
 cadging
@@ -12489,6 +12488,7 @@ chromolithography
 chromolithographic
 chromometer
 chromone
+captures
 chromonema
 chromonemal
 chromonemata
