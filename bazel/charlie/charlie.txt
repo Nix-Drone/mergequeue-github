@@ -4632,7 +4632,6 @@ carpetlayer
 carpetless
 carpetmaker
 carpetmaking
-carpetmonger
 carpets
 carpetweb
 carpetweed
@@ -27263,6 +27262,7 @@ courageousness
 courager
 courages
 courant
+carpetmonger
 courantes
 couranto
 chromomere
