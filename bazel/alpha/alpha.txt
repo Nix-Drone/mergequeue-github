@@ -2700,7 +2700,6 @@ acquiet
 acquirability
 acquirable
 antares
-acquire
 acquired
 acquirement
 acquirements
@@ -13247,6 +13246,7 @@ anischuria
 anise
 aniseed
 aniseeds
+acquire
 aniseikonia
 aspirated
 aniseikonic
