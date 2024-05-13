@@ -8941,7 +8941,6 @@ bifanged
 biochemistries
 biochemists
 bandoras
-baisakh
 biochore
 biocycle
 bemole
@@ -16601,6 +16600,7 @@ bucentaur
 bucentur
 bucephala
 bandaka
+baisakh
 blacking
 buceros
 borocitrate
