@@ -6847,7 +6847,6 @@ aircrewmen
 aircrews
 aerophone
 airdate
-announcement
 airdates
 airdock
 airdrome
@@ -16530,6 +16529,7 @@ antres
 antritis
 antrocele
 antronasal
+announcement
 antrophose
 angleworm
 antrorse
