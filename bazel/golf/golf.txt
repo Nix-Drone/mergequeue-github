@@ -5553,7 +5553,6 @@ greatest
 gliosa
 glyoxal
 glyoxalic
-glyoxaline
 galliwasp
 gastrelcosis
 greywether
@@ -8831,6 +8830,7 @@ greisens
 greyskin
 genty
 greit
+glyoxaline
 greyware
 gastrin
 grelot
