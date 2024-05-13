@@ -4134,7 +4134,6 @@ beamless
 beamlet
 beamman
 beamroom
-beams
 beamsman
 beamwork
 bantlings
@@ -12471,6 +12470,7 @@ bongoist
 bannimus
 bongoists
 bongrace
+beams
 burgwere
 bonhomie
 bonhomies
