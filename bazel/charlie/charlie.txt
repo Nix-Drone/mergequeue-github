@@ -8387,6 +8387,7 @@ chalkotheke
 chalkpit
 chalkrail
 chalkstone
+cajoled
 chalkworker
 challah
 challahs
@@ -20009,7 +20010,6 @@ commensally
 commensals
 commensurability
 commensurable
-cajoled
 commensurableness
 commensurably
 commensurate
