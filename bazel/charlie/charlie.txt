@@ -4772,7 +4772,6 @@ carriole
 carrioles
 carrion
 carryon
-carrions
 carryons
 carryout
 carryouts
@@ -17509,6 +17508,7 @@ coccidioides
 coccidioidomycosis
 coprinae
 coccidiomorpha
+carrions
 coccidiosis
 coccidium
 circumflexion
