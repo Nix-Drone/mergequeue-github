@@ -441,6 +441,7 @@ fairs
 fairship
 fairway
 fairwater
+filer
 fays
 fondlings
 faisan
@@ -3614,7 +3615,6 @@ filemot
 foreknee
 filename
 filenames
-filer
 fanons
 filers
 files
