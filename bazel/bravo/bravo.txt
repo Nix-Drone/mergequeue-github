@@ -9306,7 +9306,6 @@ bipinnate
 bipinnated
 bipinnatipartite
 bipinnatisect
-bipinnatisected
 bowtie
 bipyramid
 bipyridyl
@@ -13267,6 +13266,7 @@ botaurus
 beeswings
 botch
 botched
+bipinnatisected
 botcher
 bridgeman
 botchery
