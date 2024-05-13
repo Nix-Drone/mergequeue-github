@@ -4417,7 +4417,6 @@ feste
 fishpole
 fishpoles
 fishponds
-fishpotter
 fishskin
 fishspear
 fishtail
@@ -11001,6 +11000,7 @@ fumarases
 fumarate
 fumarates
 fumaria
+fishpotter
 fumariaceae
 fumaric
 fumarin
