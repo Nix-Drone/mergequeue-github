@@ -443,6 +443,7 @@ dairymen
 dairywoman
 dairywomen
 dayroom
+dishmop
 dayrooms
 dairous
 dairt
@@ -12344,7 +12345,6 @@ doeskins
 dishley
 dishmaker
 dishmonger
-dishmop
 dishome
 dishonest
 dishonesty
