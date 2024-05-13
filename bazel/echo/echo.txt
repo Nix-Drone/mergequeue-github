@@ -5294,7 +5294,6 @@ endoscope
 exostema
 endomysium
 endoscopes
-endoscopic
 endoscopically
 endoscopies
 endoscopist
@@ -10026,6 +10025,7 @@ ecospecifically
 estimations
 eudemonistically
 estimator
+endoscopic
 exhaustively
 estimatingly
 earlduck
