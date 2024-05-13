@@ -3437,7 +3437,6 @@ bassists
 bassly
 bassness
 basson
-bassoon
 bedash
 bassoonist
 bassoonists
@@ -12719,6 +12718,7 @@ bookstand
 bookstore
 bookstores
 biforked
+bassoon
 bonks
 bookways
 bloody
