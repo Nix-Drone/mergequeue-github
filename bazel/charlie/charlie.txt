@@ -7852,7 +7852,6 @@ cervicolingual
 cervicolumbar
 crystal
 cervicomuscular
-cerviconasal
 cervicoscapular
 cervicothoracic
 cervicovesical
@@ -30655,6 +30654,7 @@ cerebrology
 cueca
 connecters
 cuecas
+cerviconasal
 cued
 cueing
 coeffects
