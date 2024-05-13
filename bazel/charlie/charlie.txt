@@ -9552,7 +9552,6 @@ checkoffs
 checkout
 calor
 checkouts
-checkpoint
 checkpointed
 checkpointing
 checkpoints
@@ -26668,6 +26667,7 @@ caenogenetically
 counterattacks
 counterattestation
 counterattired
+checkpoint
 counterattraction
 counterattractive
 counteravouch
