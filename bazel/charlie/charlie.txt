@@ -3913,7 +3913,6 @@ carcinolysin
 carcinological
 carcinologist
 carcinomas
-carcinomata
 carcinomatoid
 carcinomatosis
 cholers
@@ -7197,6 +7196,7 @@ centriole
 centripetal
 centripetence
 centripetency
+carcinomata
 centriscid
 centriscidae
 centrisciform
