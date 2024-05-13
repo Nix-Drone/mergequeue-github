@@ -1174,6 +1174,7 @@ fas
 foreguts
 fasc
 fascinative
+ferrum
 fasces
 fascet
 foldskirt
@@ -2666,7 +2667,6 @@ ferruled
 ferruler
 ferrules
 fences
-ferrum
 freshes
 ferruminating
 ferrumination
