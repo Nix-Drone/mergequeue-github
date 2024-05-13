@@ -11957,7 +11957,6 @@ disenamor
 disenchant
 disenchanted
 disenchanter
-disenchanting
 disenchantingly
 disenchantments
 daglock
@@ -13358,6 +13357,7 @@ disregarded
 disregarder
 disregardful
 disregardfully
+disenchanting
 disregardfulness
 disregarding
 disregular
