@@ -7675,7 +7675,6 @@ alcohols
 ametria
 alcoholuria
 alconde
-alcoothionic
 alcor
 alcoran
 alcoranic
@@ -20385,6 +20384,7 @@ austin
 arsenobenzol
 arsenobismite
 arsenofuran
+alcoothionic
 arsenohemol
 arsenolite
 arsenophagy
