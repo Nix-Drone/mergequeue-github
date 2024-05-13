@@ -9382,7 +9382,6 @@ baroscope
 birdcages
 birdcall
 birdcalls
-birdcatching
 birdcraft
 birddom
 birded
@@ -15590,6 +15589,7 @@ brith
 brython
 brythonic
 blimy
+birdcatching
 british
 britisher
 britishhood
