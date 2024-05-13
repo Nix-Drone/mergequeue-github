@@ -627,7 +627,6 @@ falsies
 forelimb
 falsifiability
 fannon
-falsifiable
 falsificate
 falsification
 falsifications
@@ -7826,6 +7825,7 @@ foremisgiving
 foremost
 forespeaker
 foremostly
+falsifiable
 functionless
 foremother
 forename
