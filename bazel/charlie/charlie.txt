@@ -12794,7 +12794,6 @@ chungking
 conceits
 confronted
 chunk
-chunked
 chunkhead
 chace
 chunky
@@ -29454,6 +29453,7 @@ collectable
 crystallizes
 crystallizing
 crystalloblastic
+chunked
 crystallochemical
 crystallochemistry
 crystallod
