@@ -2616,7 +2616,6 @@ decolonize
 decolonizes
 decoloration
 decolorimeter
-decoloring
 decolorisation
 decoloriser
 decolorising
@@ -13598,6 +13597,7 @@ dissymmetry
 drumbeating
 dissymmetric
 dissymmetrical
+decoloring
 dissymmetrically
 dissymmettric
 dissympathy
