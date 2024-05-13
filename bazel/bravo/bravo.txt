@@ -3012,6 +3012,7 @@ barricoes
 barrier
 barriers
 barriguda
+breveted
 barrigudos
 broadaxe
 barrikin
@@ -15064,7 +15065,6 @@ breve
 brevet
 brevetcies
 brevete
-breveted
 beneficiaries
 breveting
 brevetted
