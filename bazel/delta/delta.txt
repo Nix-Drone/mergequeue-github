@@ -3604,6 +3604,7 @@ definition
 degass
 degassed
 degassing
+deletions
 degauss
 degaussing
 degelatinize
@@ -5615,7 +5616,6 @@ depauperate
 draught
 depauperation
 depauperize
-deletions
 depauperized
 depe
 depeach
