@@ -9276,7 +9276,6 @@ decolorant
 dietitian
 dietitians
 dtset
-dietotherapeutics
 dietotherapy
 dietotoxic
 dietrichite
@@ -9779,6 +9778,7 @@ dilucidate
 diluendo
 droops
 diluent
+dietotherapeutics
 dilutant
 dilute
 devours
