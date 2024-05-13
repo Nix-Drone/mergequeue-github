@@ -3090,7 +3090,6 @@ fibrilated
 foxes
 fibrilation
 fibrilla
-fibrillar
 fibrillate
 freend
 fibrillating
@@ -4444,6 +4443,7 @@ fissile
 fissilinguia
 formatting
 fissility
+fibrillar
 formatter
 fission
 fissionable
