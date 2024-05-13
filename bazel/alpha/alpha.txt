@@ -13585,7 +13585,6 @@ annotater
 amputated
 annotates
 annotating
-annotation
 avoiding
 annotations
 annotative
@@ -21420,6 +21419,7 @@ asperser
 aerifies
 aspersers
 asperses
+annotation
 aegerian
 aspersing
 aspersion
