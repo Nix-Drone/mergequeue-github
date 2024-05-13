@@ -5093,6 +5093,7 @@ aerostation
 aerostats
 aerosteam
 aerotactic
+appendicular
 aerotaxis
 argo
 aerotechnical
@@ -17708,7 +17709,6 @@ appendicitis
 appendicle
 appendicocaecostomy
 appendicostomy
-appendicular
 appendicularia
 appendicularian
 abanic
