@@ -2111,7 +2111,6 @@ ensnarements
 elaphurus
 elapid
 elapidae
-elapids
 endent
 erotophobia
 euthyneural
@@ -8375,6 +8374,7 @@ epitheliotoxin
 epithelium
 epitheliums
 epithelization
+elapids
 epidictic
 epithelize
 epitheloid
