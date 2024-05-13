@@ -19274,7 +19274,6 @@ colonies
 colonisability
 colonisable
 colonisationist
-colonise
 colonised
 colonises
 capture
@@ -29296,6 +29295,7 @@ cryptolunatic
 cryptomere
 cryptomeria
 cryptomerous
+colonise
 cryptomnesia
 cryptomnesic
 cryptomonadales
