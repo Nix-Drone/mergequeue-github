@@ -3360,6 +3360,7 @@ firstlings
 fief
 foredeem
 fiefs
+fluorescent
 forfeitable
 fiel
 fieldball
@@ -8078,7 +8079,6 @@ flashback
 forestral
 flatuosity
 forestries
-fluorescent
 firebrats
 flayflint
 foalhood
