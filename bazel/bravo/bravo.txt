@@ -6402,7 +6402,6 @@ buhrstone
 benzdiazine
 bipolarize
 benzdifuran
-benzdioxdiazine
 benzdioxtriazine
 benzein
 benzene
@@ -9728,6 +9727,7 @@ byssaceous
 byssal
 bebization
 bissellia
+benzdioxdiazine
 bissext
 bissextile
 bissextus
