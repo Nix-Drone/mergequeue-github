@@ -10712,6 +10712,7 @@ chymous
 chimp
 chimpanzees
 chimps
+commutatively
 chimu
 chin
 colonitis
@@ -20341,7 +20342,6 @@ commutate
 commutated
 commutation
 commutative
-commutatively
 commutativity
 commutator
 commutators
