@@ -11459,7 +11459,6 @@ calcomp
 choctaw
 choctaws
 choel
-choenix
 choes
 choga
 chogak
@@ -22393,6 +22392,7 @@ conifers
 cnidoscolus
 conification
 coniform
+choenix
 conyger
 coniine
 chemosensitivity
