@@ -9752,7 +9752,6 @@ freestanding
 fibula
 freestones
 freet
-footwalls
 freety
 freeway
 freeward
@@ -10336,6 +10335,7 @@ furiosa
 frogskin
 freesia
 frogspawn
+footwalls
 frogwort
 filtrate
 frogfishes
