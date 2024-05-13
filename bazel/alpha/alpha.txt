@@ -18698,7 +18698,6 @@ arcform
 arch
 archabomination
 archae
-archaean
 archaeoceti
 archaeocyathidae
 archaeocyathus
@@ -18910,6 +18909,7 @@ archest
 archetypal
 abstrude
 authoritarianisms
+archaean
 archetypally
 aubrite
 almaciga
