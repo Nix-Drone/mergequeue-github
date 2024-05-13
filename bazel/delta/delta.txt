@@ -6322,7 +6322,6 @@ downs
 dermoblast
 diaplasis
 dermobranchiata
-dermobranchiate
 dermochelys
 dermococcus
 decolonise
@@ -17754,6 +17753,7 @@ duboisine
 dubonnet
 dubonnets
 dubs
+dermobranchiate
 duc
 ducal
 ducally
