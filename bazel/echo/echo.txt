@@ -11256,6 +11256,7 @@ exteriors
 evacue
 evacuees
 evadable
+exclusionary
 evade
 evaded
 evader
@@ -12084,7 +12085,6 @@ endpoint
 excludingly
 exampleship
 exclusion
-exclusionary
 eigenspace
 exclusioner
 epsilon
