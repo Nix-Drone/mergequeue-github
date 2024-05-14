@@ -3540,7 +3540,6 @@ addleheadedness
 addleness
 addlepate
 addlepated
-addlepatedness
 addleplot
 addles
 addling
@@ -23314,6 +23313,7 @@ audiology
 audiological
 audiologies
 aliquid
+addlepatedness
 audiometer
 amathophobia
 audiometers
