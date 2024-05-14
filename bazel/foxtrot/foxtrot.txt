@@ -3597,7 +3597,6 @@ fineries
 flagmaking
 filcher
 faventine
-filching
 filchingly
 file
 fileable
@@ -5933,6 +5932,7 @@ forgottenness
 floorboard
 floorcloth
 fala
+filching
 forevermore
 frigidity
 featherbedding
