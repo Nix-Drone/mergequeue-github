@@ -26609,7 +26609,6 @@ counsellorship
 counselor
 counsels
 count
-countability
 countable
 countableness
 countdom
@@ -31318,6 +31317,7 @@ curetting
 curfew
 curfewed
 curfews
+countability
 concordats
 curfs
 cury
