@@ -2712,7 +2712,6 @@ deconsider
 deconsideration
 decontaminate
 decontaminated
-decontaminates
 decontaminating
 decontaminations
 decontaminator
@@ -10125,6 +10124,7 @@ dingleberry
 dinglebird
 dingled
 dingledangle
+decontaminates
 dunkirk
 decemvirs
 dingly
