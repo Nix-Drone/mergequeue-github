@@ -4212,7 +4212,6 @@ frat
 fireplace
 fireplaces
 fireplow
-fleeceable
 fireplug
 frieze
 fireplugs
@@ -5875,6 +5874,7 @@ funned
 flockwise
 flocs
 floeberg
+fleeceable
 floey
 floerkea
 flog
