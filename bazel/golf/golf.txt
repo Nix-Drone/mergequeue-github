@@ -514,7 +514,6 @@ galera
 galere
 galericulate
 galerie
-galerum
 galerus
 gales
 galesaur
@@ -6388,6 +6387,7 @@ goat
 goatbeard
 goatbrush
 gatepost
+galerum
 goatbush
 goatee
 gervase
