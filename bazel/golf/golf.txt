@@ -4756,7 +4756,6 @@ glossae
 gyro
 gyroceran
 gallery
-guildsman
 golliwogg
 gorkhali
 gyrocompasses
@@ -8898,6 +8897,7 @@ gribble
 grice
 gator
 glimmery
+guildsman
 gilgamesh
 grieko
 gelatins
