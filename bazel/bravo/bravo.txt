@@ -1967,7 +1967,6 @@ blastoff
 bandlet
 bandlimited
 breadwinners
-bandlimiting
 bandlimits
 bandman
 bandmaster
@@ -7387,6 +7386,7 @@ biosis
 batitinan
 betelnut
 betelnuts
+bandlimiting
 betels
 bethank
 bethanked
