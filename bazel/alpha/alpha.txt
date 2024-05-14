@@ -6828,7 +6828,6 @@ airbursts
 antonina
 airbuses
 airbusses
-aircheck
 airchecks
 aircoaches
 aircraft
@@ -16324,6 +16323,7 @@ antistrumatic
 antisubmarine
 antisubstance
 antisudoral
+aircheck
 awarding
 antisudorific
 antisuffrage
