@@ -6515,6 +6515,7 @@ benzotrifluoride
 benzotrifuran
 benzoxate
 bolection
+bowline
 benzoxyacetic
 benzoxycamphor
 benzoxyphenanthrene
@@ -12730,7 +12731,6 @@ bookworms
 bucketeer
 bookwright
 bool
-bowline
 boolean
 booleans
 booley
