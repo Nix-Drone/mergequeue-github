@@ -1983,7 +1983,6 @@ acetaldehyde
 acetaldehydrase
 acetaldol
 acetalize
-acetals
 acetamid
 acetamide
 acetamidin
@@ -22277,6 +22276,7 @@ astrolithology
 anaesthesiant
 astrolog
 astrologaster
+acetals
 astrologe
 astrologers
 astrology
