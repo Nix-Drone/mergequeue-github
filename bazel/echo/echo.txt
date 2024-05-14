@@ -3682,7 +3682,6 @@ elects
 embryomas
 embryon
 embryonal
-earthmoving
 embryonary
 embryonated
 embryony
@@ -12737,6 +12736,7 @@ exophasic
 exophoria
 exophoric
 exophthalmos
+earthmoving
 exophthalmus
 exoplasm
 exopod
