@@ -909,7 +909,6 @@ gambist
 gambits
 gonotocont
 guillemot
-gamble
 gambler
 gamblesome
 gamblesomeness
@@ -5557,6 +5556,7 @@ glyoxaline
 galliwasp
 gastrelcosis
 greywether
+gamble
 glyphic
 gastraeadae
 gus
