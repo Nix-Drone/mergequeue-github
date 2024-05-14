@@ -1104,6 +1104,7 @@ farmscape
 farmsteads
 farmtown
 farnesol
+furanes
 farnesols
 fogas
 flinger
@@ -11324,7 +11325,6 @@ furaldehyde
 fumigant
 furan
 forecasted
-furanes
 furanoid
 furanose
 fixates
