@@ -2220,7 +2220,6 @@ felspars
 friendlily
 felspath
 felspathose
-felstone
 framers
 farmhouses
 felt
@@ -2983,6 +2982,7 @@ fudgy
 forefault
 fevering
 feverish
+felstone
 fantasias
 fixity
 fifed
