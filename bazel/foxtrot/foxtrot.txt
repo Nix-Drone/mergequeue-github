@@ -424,7 +424,6 @@ flux
 fairkeeper
 farcy
 fairlead
-foraramina
 firetrap
 feer
 fairleads
@@ -5837,6 +5836,7 @@ fname
 floccillation
 floccipend
 freeloader
+foraramina
 forcipressure
 floccose
 floccosely
