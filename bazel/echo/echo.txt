@@ -3057,7 +3057,6 @@ ella
 equipoises
 electrothermostat
 ellagic
-ellasar
 elvan
 ellebore
 elleck
@@ -13890,6 +13889,7 @@ extraneous
 epipleura
 epixylous
 extraneousness
+ellasar
 extranormal
 extranuclear
 extraofficial
