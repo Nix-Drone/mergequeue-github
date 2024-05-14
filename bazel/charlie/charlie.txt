@@ -24138,7 +24138,6 @@ convertors
 converts
 conveth
 convex
-convexedly
 convexedness
 convexes
 convexity
@@ -27248,6 +27247,7 @@ coupler
 couplers
 couples
 couplings
+convexedly
 coupon
 cornbrash
 couponed
