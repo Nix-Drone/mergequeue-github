@@ -5861,7 +5861,6 @@ grenado
 glossemes
 glossemic
 girondism
-glosser
 glossers
 glosses
 glossy
@@ -8709,6 +8708,7 @@ gigues
 greenovite
 greenroom
 greens
+glosser
 gastroscopies
 gilty
 greensauce
