@@ -5603,7 +5603,6 @@ afterdeck
 afterdrain
 aftereffect
 aftereffects
-aftereye
 afterfall
 afterfame
 afterfeed
@@ -22379,6 +22378,7 @@ atabal
 atabals
 alluviate
 antisymmetry
+aftereye
 atabeg
 atabek
 alexandreid
