@@ -2134,6 +2134,7 @@ acetopiperone
 acetopyrin
 acetosalicylic
 acetose
+analysable
 acetosity
 acetosoluble
 acetostearin
@@ -11719,7 +11720,6 @@ analgias
 analgic
 analgize
 analysability
-analysable
 analysand
 analysation
 analyser
