@@ -3638,7 +3638,6 @@ bathyspheres
 bathythermograph
 bathkol
 barbar
-bathman
 bathmat
 bathmats
 bereaven
@@ -8622,6 +8621,7 @@ bilkers
 belle
 bilking
 bisaccate
+bathman
 bilkis
 behovely
 bilks
