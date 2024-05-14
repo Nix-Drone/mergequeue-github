@@ -1799,7 +1799,6 @@ gastroenterologic
 gastroenterological
 gastroenterologically
 gastroenterostomies
-gastroepiploic
 guebre
 gastroesophageal
 gastrogastrotomy
@@ -8095,6 +8094,7 @@ granulitis
 granulization
 granuloadipose
 granuloblast
+gastroepiploic
 granuloblastic
 gammers
 granulocyte
