@@ -346,6 +346,7 @@ backfields
 backfiller
 backfilling
 backfills
+brushfires
 backfired
 backfires
 backflip
@@ -1391,7 +1392,6 @@ bywords
 bacule
 baldachin
 baldachined
-brushfires
 bristliest
 baldachino
 baldachins
