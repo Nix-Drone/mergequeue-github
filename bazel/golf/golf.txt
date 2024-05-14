@@ -1247,6 +1247,7 @@ gantline
 genteeler
 gantlines
 gantlopes
+gavelkind
 garial
 ganton
 gantries
@@ -5100,7 +5101,6 @@ glamorizes
 glamorizing
 glamorous
 glamorously
-gavelkind
 glamorousness
 glamors
 goodwily
