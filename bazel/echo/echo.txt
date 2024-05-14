@@ -4583,7 +4583,6 @@ encephalomeningocele
 encephalometric
 encephalomyelitic
 encephalomyelitis
-erucin
 encephalomyelopathy
 encephalomyocarditis
 encephalopathy
@@ -10529,6 +10528,7 @@ extraessentially
 ensmall
 etymologists
 etymologizable
+erucin
 etymologization
 eupatory
 etymologized
