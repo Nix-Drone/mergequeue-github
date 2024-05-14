@@ -3711,7 +3711,6 @@ adenomyxosarcoma
 adenoncus
 adenoneural
 adenoneure
-adenopharyngeal
 archosyrinx
 autosensitization
 adenopharyngitis
@@ -10257,6 +10256,7 @@ aments
 amentulum
 amentum
 amenuse
+adenopharyngeal
 adeling
 amerce
 amerceable
