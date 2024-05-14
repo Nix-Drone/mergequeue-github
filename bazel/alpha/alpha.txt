@@ -1664,7 +1664,6 @@ accordaturas
 accordature
 accorded
 accorder
-accorders
 accordingly
 accordion
 accordionist
@@ -15376,6 +15375,7 @@ antihypnotic
 archaic
 antihypochondriac
 antihypophora
+accorders
 antihistamine
 antihistamines
 antihistaminic
