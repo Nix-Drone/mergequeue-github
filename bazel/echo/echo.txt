@@ -4784,7 +4784,6 @@ enclose
 etymologize
 exegetically
 experimentalists
-enclosed
 elem
 enclosers
 enclosing
@@ -5336,6 +5335,7 @@ endosteomas
 endosteomata
 endosteum
 endostylar
+enclosed
 exploitative
 endostyle
 endostylic
