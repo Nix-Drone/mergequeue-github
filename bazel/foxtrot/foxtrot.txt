@@ -4315,7 +4315,6 @@ first
 fylker
 forbearer
 freestone
-firster
 feerie
 forrel
 firsthand
@@ -4384,6 +4383,7 @@ fishyard
 farand
 fishyback
 fishified
+firster
 friezy
 fishifying
 fishily
