@@ -29832,7 +29832,6 @@ crossbow
 crossbowmen
 coazervate
 crossbows
-crossbred
 crossbreds
 crossbreed
 crossbreeding
@@ -31500,6 +31499,7 @@ cursitor
 cursive
 cursively
 cursiveness
+crossbred
 conveyal
 cursives
 cursor
