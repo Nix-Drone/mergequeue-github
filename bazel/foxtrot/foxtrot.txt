@@ -7807,7 +7807,6 @@ foremark
 fullface
 foremartyr
 foremastmen
-foremasts
 foremean
 fasciately
 foremeant
@@ -8469,6 +8468,7 @@ forboded
 formicoidea
 freethinker
 formidable
+foremasts
 formidableness
 floormen
 formidably
