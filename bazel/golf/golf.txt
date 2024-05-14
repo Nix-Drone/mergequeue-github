@@ -2469,7 +2469,6 @@ gelders
 gobmouthed
 geldesprung
 gelding
-geldings
 gelechia
 geleem
 gelees
@@ -6832,6 +6831,7 @@ giantism
 goniaster
 goniatites
 goniatitic
+geldings
 goniatitid
 gonyaulax
 gonycampsis
