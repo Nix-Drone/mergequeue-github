@@ -11728,7 +11728,6 @@ addressee
 analyses
 analysing
 antimoniate
-analysis
 analyst
 aurei
 analyt
@@ -17320,6 +17319,7 @@ apomixes
 apomixis
 apomorphia
 apomorphin
+analysis
 archimago
 apomorphine
 aponeurology
