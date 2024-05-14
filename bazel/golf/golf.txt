@@ -1769,7 +1769,6 @@ gastrocolic
 goriest
 gastrocoloptosis
 gastrocolostomy
-gastrocolotomy
 gastrodermal
 glutaraldehyde
 gastrodermis
@@ -2440,6 +2439,7 @@ gelatinity
 gelatinizability
 gelatinizable
 gelatinization
+gastrocolotomy
 gruppetto
 gelatinized
 gelatinizer
