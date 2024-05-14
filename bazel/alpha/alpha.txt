@@ -1190,7 +1190,6 @@ abvolt
 abvolts
 abwab
 abwatt
-abwatts
 ac
 acacatechin
 ajourise
@@ -7106,6 +7105,7 @@ akebia
 actinia
 armature
 aked
+abwatts
 akee
 akees
 akehorne
