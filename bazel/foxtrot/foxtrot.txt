@@ -11256,7 +11256,6 @@ fungosities
 fungused
 funguses
 fireball
-funguslike
 funic
 fistulae
 funicle
@@ -11640,6 +11639,7 @@ ferreted
 fusspot
 funditor
 fusspots
+funguslike
 fustanelle
 fetch
 fusteric
