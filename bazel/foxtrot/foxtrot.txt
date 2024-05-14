@@ -553,7 +553,6 @@ flummox
 fall
 fissirostral
 falla
-fallace
 feltlike
 foretalk
 fidalgo
@@ -6843,6 +6842,7 @@ foldout
 foldouts
 folds
 foldure
+fallace
 fairyisms
 ferities
 foleye
