@@ -2998,7 +2998,6 @@ barricade
 barricaded
 baryes
 brei
-barrette
 barricader
 barricaders
 barricades
@@ -12549,6 +12548,7 @@ bestad
 biotomy
 bonsoir
 backscatters
+barrette
 bonspell
 bonspells
 brike
