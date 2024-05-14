@@ -3967,7 +3967,6 @@ delactation
 delay
 delayable
 demes
-delayer
 delayers
 delayful
 delayingly
@@ -8423,6 +8422,7 @@ deciares
 diffusedly
 diametral
 diametrally
+delayer
 diametric
 diametrical
 diamicton
