@@ -3354,6 +3354,7 @@ capsella
 capsheaf
 circumjacent
 capshore
+cutline
 capsian
 capsicin
 capsicins
@@ -31845,7 +31846,6 @@ combwright
 cutlers
 cutlet
 cutlets
-cutline
 currycombed
 cutlines
 cutlings
