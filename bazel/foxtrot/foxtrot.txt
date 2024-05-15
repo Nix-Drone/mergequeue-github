@@ -4347,7 +4347,6 @@ fishable
 fishback
 fishberry
 fleshers
-fishberries
 fishboat
 fishbolt
 fishbolts
@@ -10741,6 +10740,7 @@ fenny
 facelift
 fellifluous
 forelaid
+fishberries
 frumpy
 frumpier
 frumpiest
