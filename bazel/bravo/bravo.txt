@@ -2621,7 +2621,6 @@ burgus
 brandle
 barye
 baryecoia
-barcolongo
 bemixt
 bs
 barih
@@ -9149,6 +9148,7 @@ byordinary
 bioreaction
 bidented
 bioresearch
+barcolongo
 biorhythm
 biorhythmic
 biorhythmicity
