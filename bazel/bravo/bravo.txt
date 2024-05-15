@@ -9224,7 +9224,6 @@ biotypes
 biotypic
 biotypology
 biotite
-biotites
 biotome
 buoys
 bogtrot
@@ -13700,6 +13699,7 @@ bovinely
 bovinity
 blushfulness
 bovinities
+biotites
 bovista
 blesseder
 bovld
