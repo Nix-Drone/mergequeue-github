@@ -11977,7 +11977,6 @@ chorioepitheliomata
 chiefdom
 chorioiditis
 chorioidocyclitis
-chorioidoiritis
 chorioidoretinitis
 chorioids
 chorioma
@@ -27300,6 +27299,7 @@ court
 courtage
 courtal
 courtby
+chorioidoiritis
 courtbred
 courtcraft
 cetacean
