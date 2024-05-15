@@ -23490,7 +23490,6 @@ contestee
 contester
 contesters
 contesting
-contestingly
 contestless
 contests
 constatations
@@ -25627,6 +25626,7 @@ correct
 correctable
 correctant
 corrected
+contestingly
 correctest
 correctible
 cubicly
