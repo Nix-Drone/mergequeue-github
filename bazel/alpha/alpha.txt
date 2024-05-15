@@ -2514,6 +2514,7 @@ ackey
 ackeys
 acker
 argemone
+adjoust
 ackman
 argentojarosite
 acknew
@@ -3979,7 +3980,6 @@ adjourned
 adjourning
 adjournment
 adjourns
-adjoust
 adjt
 adjudge
 adjudgeable
