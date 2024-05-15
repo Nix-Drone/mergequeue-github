@@ -8918,7 +8918,6 @@ characteristically
 characteristicalness
 characteristicness
 characteristics
-characterizable
 characterization
 characterizations
 characterize
@@ -10189,6 +10188,7 @@ chevin
 cheviot
 cheviots
 chevisance
+characterizable
 chevise
 chevon
 chevre
