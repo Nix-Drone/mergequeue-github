@@ -1341,7 +1341,6 @@ balanta
 bottine
 balantidic
 balantidiosis
-balantidium
 balanus
 biconnected
 ballium
@@ -5660,6 +5659,7 @@ bacchar
 britten
 belderroot
 beleaf
+balantidium
 bombazeen
 bodgie
 beleaguered
