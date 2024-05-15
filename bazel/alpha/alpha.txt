@@ -11606,6 +11606,7 @@ anaesthesis
 anaesthetic
 anaesthetically
 anthropomantic
+atmospheres
 ade
 anaesthetics
 anaesthetist
@@ -22724,7 +22725,6 @@ atmos
 atmosphere
 atmosphereful
 atmosphereless
-atmospheres
 atmospheric
 atmospherical
 atmospherically
