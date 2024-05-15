@@ -3919,7 +3919,6 @@ glave
 gibsons
 gibstaff
 gibus
-gibuses
 giddap
 guideless
 giddy
@@ -6997,6 +6996,7 @@ goodrich
 gleesomeness
 goodsire
 goodsome
+gibuses
 galician
 geromorphism
 gras
