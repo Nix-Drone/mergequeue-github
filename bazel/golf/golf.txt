@@ -6483,6 +6483,7 @@ grubstaker
 gyromagnetic
 geographic
 glued
+greenlet
 goblins
 gobo
 gobonated
@@ -9181,7 +9182,6 @@ grissen
 grisset
 grist
 gaspiness
-greenlet
 grister
 gristle
 gauge
