@@ -14584,7 +14584,6 @@ ciscos
 cise
 comprisable
 ciseaux
-cisele
 courante
 ciseleurs
 cising
@@ -24137,6 +24136,7 @@ convertor
 convertors
 converts
 conveth
+cisele
 convex
 convexedly
 convexedness
