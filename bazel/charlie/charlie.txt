@@ -4914,7 +4914,6 @@ cartouch
 cartouche
 chiclero
 cartouches
-cartridge
 curlicued
 catalecticant
 canalman
@@ -11393,6 +11392,7 @@ chlorosilicate
 chlorosis
 chlorospinel
 chlorosulphonic
+cartridge
 chlorotic
 chlorotrifluoroethylene
 chlorous
