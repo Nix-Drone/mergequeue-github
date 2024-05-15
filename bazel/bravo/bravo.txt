@@ -2071,7 +2071,6 @@ baning
 banyoro
 banish
 banished
-banisher
 banishing
 banishment
 banister
@@ -13533,6 +13532,7 @@ beslipper
 bounceback
 bounced
 bouncer
+banisher
 bouncers
 bounces
 bouncier
