@@ -16697,7 +16697,6 @@ clothes
 clothesbag
 clothesbasket
 clothesbrush
-clotheshorse
 clotheshorses
 clothesyard
 clothesless
@@ -22194,6 +22193,7 @@ congeing
 congelation
 congelative
 congelifraction
+clotheshorse
 congeliturbate
 congeliturbation
 corneous
