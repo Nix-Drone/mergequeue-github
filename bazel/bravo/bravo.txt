@@ -6486,6 +6486,7 @@ benzophenone
 benzophenothiazine
 benzophenoxazine
 benzophloroglucinol
+biogen
 benzophthalazine
 benzopyran
 benzopyranyl
@@ -8996,7 +8997,6 @@ butchered
 biog
 blacknob
 biogases
-biogen
 ballogan
 biogenase
 briny
