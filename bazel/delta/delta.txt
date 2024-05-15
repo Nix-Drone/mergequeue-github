@@ -1894,7 +1894,6 @@ debruising
 debs
 debt
 debted
-debtee
 debtful
 debtless
 debtor
@@ -8201,6 +8200,7 @@ diagnose
 dipus
 diagnosed
 diagnoses
+debtee
 diagnosis
 diagnostical
 disjunction
