@@ -5146,7 +5146,6 @@ eruca
 endoderm
 endodermal
 endodermic
-endodermis
 endoderms
 endodynamomorphic
 endodontia
@@ -13901,6 +13900,7 @@ extraordinaries
 enduement
 extraordinariness
 embryogenic
+endodermis
 extraorganismal
 electrolytical
 extraovate
