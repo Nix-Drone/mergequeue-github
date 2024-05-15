@@ -9798,6 +9798,7 @@ freight
 freightage
 fringe
 fourchette
+frugivorous
 freightyard
 flagstaves
 fenestral
@@ -10672,7 +10673,6 @@ fruggin
 frugging
 frugiferous
 frugiferousness
-frugivorous
 frugs
 fruitade
 fraughtage
