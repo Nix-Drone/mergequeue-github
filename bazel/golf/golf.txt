@@ -1761,7 +1761,6 @@ goniostat
 gramophonical
 gastrocnemial
 gastrocnemian
-gynandromorphic
 gastrocnemii
 gastrocnemius
 gastrocoel
@@ -2909,6 +2908,7 @@ gentiana
 gentianales
 gentianella
 gentianic
+gynandromorphic
 gentianose
 gentians
 gentianwort
