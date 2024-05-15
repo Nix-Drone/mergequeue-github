@@ -6757,7 +6757,6 @@ encaging
 entertissue
 emetine
 entete
-enthalpy
 enthalpies
 enthean
 entheasm
@@ -13421,6 +13420,7 @@ expurge
 exquire
 exquisite
 ecclesiasticalism
+enthalpy
 exquisitism
 exquisitive
 exquisitively
