@@ -1646,7 +1646,6 @@ ballonette
 bethroot
 ballonne
 ballonnes
-balloon
 ballooners
 bowfront
 balloonet
@@ -5874,6 +5873,7 @@ bellmouth
 bello
 blemishing
 bialystoker
+balloon
 bellona
 bellonion
 bibiru
