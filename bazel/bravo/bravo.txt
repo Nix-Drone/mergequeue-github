@@ -6480,6 +6480,7 @@ benzonaphthol
 benzonitrile
 benzoperoxide
 benzophenanthrazine
+botches
 benzophenazine
 benzophenol
 benzophenone
@@ -13274,7 +13275,6 @@ botcheries
 botcherly
 bloodmobiles
 botchers
-botches
 botchy
 botchier
 botchily
