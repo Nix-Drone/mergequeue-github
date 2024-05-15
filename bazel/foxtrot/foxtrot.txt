@@ -7576,6 +7576,7 @@ foregame
 forechoose
 foreclaw
 foreclose
+funambulo
 foreclosed
 foreclosure
 feteless
@@ -11110,7 +11111,6 @@ frontality
 felty
 funambulic
 funambulism
-funambulo
 funambuloes
 funaria
 finestill
