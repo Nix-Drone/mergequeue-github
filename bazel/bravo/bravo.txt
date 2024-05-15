@@ -431,7 +431,6 @@ backplanes
 backplate
 backpointer
 backpointers
-backrest
 backrope
 brimstony
 backropes
@@ -14064,6 +14063,7 @@ brachistochrone
 brachistochronic
 brachistochronous
 brachystomata
+backrest
 brachystomatous
 brachystomous
 brachytic
