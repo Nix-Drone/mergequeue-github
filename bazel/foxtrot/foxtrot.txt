@@ -4339,7 +4339,6 @@ foresleeve
 friendlies
 fisk
 fise
-forb
 fisetin
 fish
 fishability
@@ -9808,6 +9807,7 @@ freijo
 flemishing
 freinage
 forehandsel
+forb
 freir
 freyr
 faceting
