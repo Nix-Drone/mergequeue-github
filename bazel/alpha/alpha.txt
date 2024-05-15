@@ -3942,7 +3942,6 @@ adits
 adytta
 adytum
 aditus
-adj
 adjacence
 adjacency
 adjacencies
@@ -22144,6 +22143,7 @@ astore
 astound
 aranga
 astounded
+adj
 astoundingly
 astoundment
 astounds
