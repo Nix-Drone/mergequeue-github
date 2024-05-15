@@ -3850,6 +3850,7 @@ gyascutus
 gyassa
 gib
 gibbals
+gte
 gibbar
 gibbartas
 gabe
@@ -5228,7 +5229,6 @@ gawkier
 glasswort
 gees
 glathsheim
-gte
 galeeny
 glathsheimr
 gigglish
