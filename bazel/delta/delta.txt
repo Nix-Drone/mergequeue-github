@@ -331,6 +331,7 @@ dayakker
 dayal
 dayan
 dayanim
+deprecator
 diau
 daybeacon
 dipylon
@@ -5909,7 +5910,6 @@ deprecative
 deprecatively
 doke
 drainages
-deprecator
 deprecatory
 doppia
 deprecatorily
