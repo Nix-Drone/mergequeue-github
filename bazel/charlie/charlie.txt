@@ -8728,6 +8728,7 @@ channelling
 channels
 channelure
 chanoyu
+classable
 chansonette
 chansonnette
 chansonnier
@@ -15588,7 +15589,6 @@ clasps
 claspt
 class
 chelydridae
-classable
 classbook
 classed
 classer
