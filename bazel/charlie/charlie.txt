@@ -18465,7 +18465,6 @@ coiffeurs
 coiffeuse
 coiffeuses
 coiffing
-coiffure
 coiffured
 coiffures
 coiffuring
@@ -28330,6 +28329,7 @@ crazing
 crazingmill
 conies
 crazyweed
+coiffure
 circuitous
 crc
 crcao
