@@ -6615,7 +6615,6 @@ cainite
 ceilings
 ceilingward
 ceilingwards
-ceilometer
 ceylon
 ceylonese
 concurrence
@@ -8076,6 +8075,7 @@ chaetal
 chaetangiaceae
 chaetetes
 cipher
+ceilometer
 chaetetidae
 chaetifera
 chaetiferous
