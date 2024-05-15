@@ -11092,7 +11092,6 @@ disassembled
 disassembler
 disassembles
 descriptors
-disassembling
 disassent
 disassiduity
 disassimilate
@@ -12005,6 +12004,7 @@ disenslave
 disensoul
 disensure
 disentail
+disassembling
 disentailment
 disentangle
 dentine
