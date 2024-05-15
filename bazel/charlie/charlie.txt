@@ -11288,7 +11288,6 @@ chlorize
 chlormethane
 chlormethylic
 chlornal
-chloro
 chloroacetic
 chloroacetone
 chloroacetophenone
@@ -18583,6 +18582,7 @@ coyo
 coetaneousness
 cortisone
 coyol
+chloro
 clubridden
 coyos
 coyote
