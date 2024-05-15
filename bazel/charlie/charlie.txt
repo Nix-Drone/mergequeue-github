@@ -3379,7 +3379,6 @@ consignificate
 capsular
 capsulated
 capsulation
-capsule
 collegatary
 chawbone
 capsulectomy
@@ -25747,6 +25746,7 @@ corrodant
 corrode
 corrodent
 corroder
+capsule
 corroders
 cneoraceae
 corrodes
