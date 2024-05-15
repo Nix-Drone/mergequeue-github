@@ -1147,7 +1147,6 @@ farset
 frogged
 fregatidae
 farsighted
-farsightedness
 flatteringly
 forkedly
 farth
@@ -4165,6 +4164,7 @@ firebugs
 fanhouse
 flagstones
 fireburn
+farsightedness
 fibrocaseous
 fireclay
 federals
