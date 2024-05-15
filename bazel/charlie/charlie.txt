@@ -4636,6 +4636,7 @@ carpetmonger
 carpets
 carpetweb
 carpetweed
+coffeegrowing
 carpetwork
 carpetwoven
 carphiophiops
@@ -18175,7 +18176,6 @@ coffeecup
 concessionary
 chartings
 coffeegrower
-coffeegrowing
 cuss
 coffeehouse
 coffeehoused
