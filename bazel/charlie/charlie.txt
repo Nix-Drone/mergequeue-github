@@ -12572,7 +12572,6 @@ chronicling
 censer
 chronicon
 chronics
-chronique
 chronisotherm
 chronist
 chronobarometer
@@ -18859,6 +18858,7 @@ collapsar
 cascado
 collapse
 collapsed
+chronique
 collapses
 contam
 collapsibility
