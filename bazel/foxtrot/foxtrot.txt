@@ -3358,7 +3358,6 @@ fied
 fiedlerite
 firstlings
 fief
-foredeem
 fiefs
 forfeitable
 fiel
@@ -6820,6 +6819,7 @@ foldboating
 foldboats
 foldcourse
 festin
+foredeem
 flaccidity
 farweltered
 folded
