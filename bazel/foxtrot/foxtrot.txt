@@ -4215,7 +4215,6 @@ fireplow
 fleeceable
 fireplug
 frieze
-fireplugs
 firepot
 fireproofed
 fireproofing
@@ -10151,6 +10150,7 @@ frisco
 flarfish
 frigidaire
 frise
+fireplugs
 frises
 frisesomorum
 frisette
