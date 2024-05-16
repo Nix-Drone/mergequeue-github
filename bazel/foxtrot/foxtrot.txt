@@ -5610,6 +5610,7 @@ flyings
 flyleaves
 flyless
 flyman
+forgery
 flymen
 flimflammed
 flimflammery
@@ -8229,7 +8230,6 @@ forgeable
 forged
 foreturn
 fermental
-forgery
 forgeries
 forges
 fluctigerous
