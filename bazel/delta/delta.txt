@@ -12567,7 +12567,6 @@ disjudication
 disjunctions
 disjunctive
 disjunctively
-disjunctor
 disjuncts
 dereferences
 disjuncture
@@ -13444,6 +13443,7 @@ doctorlike
 dissatisfied
 dissatisfiedly
 dissatisfiedness
+disjunctor
 doubleleaf
 dissatisfies
 dacryadenitis
