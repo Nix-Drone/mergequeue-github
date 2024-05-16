@@ -2646,7 +2646,6 @@ decommissioning
 decommissions
 deepens
 decompensate
-decompensated
 decompensates
 decompensating
 diverge
@@ -12494,6 +12493,7 @@ disinsure
 disintegrable
 disintegrant
 disintegrate
+decompensated
 disparately
 disintegrated
 disintegrates
