@@ -5173,7 +5173,6 @@ befortune
 biolytic
 baffled
 befouled
-befouler
 befoulers
 brunizem
 befouling
@@ -14521,6 +14520,7 @@ brandisher
 biochron
 brandishes
 brandishing
+befouler
 brandisite
 brandywine
 bibliothec
