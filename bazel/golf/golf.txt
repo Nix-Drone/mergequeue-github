@@ -7318,7 +7318,6 @@ gossipdom
 gossiped
 gossipee
 gossiper
-gossipers
 gossiphood
 gatehouses
 gossipy
@@ -9413,6 +9412,7 @@ geryonidae
 grouch
 grouches
 gearbox
+gossipers
 greeing
 grouchiest
 galactin
