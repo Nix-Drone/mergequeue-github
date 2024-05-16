@@ -6446,7 +6446,6 @@ enslumber
 ensnare
 ensnared
 explosive
-ensnarement
 ensnarer
 ensnarers
 ensnares
@@ -8919,6 +8918,7 @@ espied
 ecoid
 eremochaeta
 eremochaetous
+ensnarement
 eremology
 eremophilous
 eremuri
