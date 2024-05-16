@@ -18059,7 +18059,6 @@ coenzymatically
 coenzymes
 coequal
 coequality
-coequalize
 coequally
 coequalness
 coequals
@@ -29548,6 +29547,7 @@ criticsm
 critique
 critiqued
 critiquing
+coequalize
 critize
 critling
 critter
