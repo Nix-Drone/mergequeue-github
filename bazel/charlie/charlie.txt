@@ -3365,7 +3365,6 @@ capsids
 capsizable
 capsizal
 capsize
-capsized
 capsizes
 capsomer
 capsomere
@@ -19105,6 +19104,7 @@ collochromate
 collocution
 collocutor
 collocutory
+capsized
 collodion
 collodionization
 collodionize
