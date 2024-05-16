@@ -4887,6 +4887,7 @@ cartogram
 chloridizing
 cartographer
 cartographers
+consulage
 cartography
 cartographic
 cartographical
@@ -23228,7 +23229,6 @@ consuetude
 consuetudinal
 consuetudinary
 consul
-consulage
 consulary
 consularity
 consulate
