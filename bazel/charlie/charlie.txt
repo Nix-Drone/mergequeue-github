@@ -8918,7 +8918,6 @@ characteristically
 characteristicalness
 characteristicness
 characteristics
-characterizable
 characterization
 characterizations
 characterize
@@ -23683,6 +23682,7 @@ contradictious
 contradictiously
 contradictiousness
 contradictive
+characterizable
 contradictory
 contradictories
 chug
