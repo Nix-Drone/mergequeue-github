@@ -1019,6 +1019,7 @@ edaphosaurid
 edaphosaurus
 edda
 explosibility
+epithet
 eddaic
 edder
 eddie
@@ -2248,7 +2249,6 @@ electability
 electable
 electant
 electary
-epithet
 enthraldom
 elysee
 electees

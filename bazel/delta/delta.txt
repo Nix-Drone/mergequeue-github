@@ -4789,6 +4789,7 @@ demobilizations
 demobilize
 demobilizes
 diaheliotropism
+divariant
 demobilizing
 democracy
 democracies
@@ -14255,7 +14256,6 @@ divalent
 divan
 divans
 divaporation
-divariant
 divaricating
 divaricatingly
 divarication
