@@ -15208,6 +15208,7 @@ brickmaker
 brickmaking
 brickmason
 brockage
+bullocker
 bethylid
 bricktimber
 bricktop
@@ -17200,7 +17201,6 @@ bullnoses
 bullnut
 ballon
 bullock
-bullocker
 blastulae
 bullockite
 bullose
