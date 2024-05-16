@@ -7280,7 +7280,6 @@ footwarmer
 footwear
 floodmark
 fumiferous
-fabricable
 fuliginous
 firefly
 footweary
@@ -8639,6 +8638,7 @@ forspeak
 forspend
 farstepped
 ferally
+fabricable
 footing
 forspoke
 forspread
