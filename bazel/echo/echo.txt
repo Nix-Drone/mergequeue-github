@@ -5121,7 +5121,6 @@ epinastically
 endoconidia
 endoconidium
 endocrania
-endocranial
 esquimau
 endocranium
 equiconvex
@@ -10216,6 +10215,7 @@ ethenyl
 ethenoid
 ethenoidal
 ethenol
+endocranial
 ethmolachrymal
 elevatedly
 etheostominae
