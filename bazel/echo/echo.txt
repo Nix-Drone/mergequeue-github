@@ -7365,7 +7365,6 @@ epa
 epacmaic
 eliciting
 enricher
-epacrid
 engird
 emblemized
 epacris
@@ -9630,6 +9629,7 @@ esculetin
 esculic
 esculin
 escurialize
+epacrid
 escutcheoned
 escutcheons
 eugenesis
