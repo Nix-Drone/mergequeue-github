@@ -4098,7 +4098,6 @@ fattable
 fellatrixes
 fletching
 finnish
-finnmark
 finnochio
 filiopietistic
 finns
@@ -4915,6 +4914,7 @@ fallback
 flamethrowers
 forcepses
 frankpledge
+finnmark
 fraternity
 flamy
 flamiest
