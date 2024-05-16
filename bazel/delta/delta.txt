@@ -3367,7 +3367,6 @@ defines
 definienda
 definiendum
 dippy
-definiens
 definientia
 definish
 definite
@@ -16190,6 +16189,7 @@ dow
 dowager
 daddock
 dowagerism
+definiens
 dowagers
 dowcet
 divisi
