@@ -2954,7 +2954,6 @@ elidible
 eliding
 elydoric
 eligenda
-eligibility
 eligibilities
 eligible
 eligibles
@@ -3196,6 +3195,7 @@ elucidator
 elucidatory
 electroplate
 elucidators
+eligibility
 eluctate
 elucubrate
 elude
