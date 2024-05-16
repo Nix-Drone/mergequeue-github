@@ -9012,7 +9012,6 @@ biogenetics
 backspace
 biogeny
 biogenic
-biogens
 biogeochemical
 biogeochemistry
 biogeographer
@@ -12888,6 +12887,7 @@ bopeep
 bopyrid
 bopyridae
 bopyridian
+biogens
 bopped
 brigadiers
 bopper
