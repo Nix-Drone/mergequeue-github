@@ -6669,7 +6669,6 @@ goldstone
 goldtit
 gnash
 goldurned
-goldurns
 goldwork
 goldworker
 golem
@@ -7817,6 +7816,7 @@ gravitational
 graminology
 grovy
 graminological
+goldurns
 grammalogue
 glorioles
 gymnocarpous
