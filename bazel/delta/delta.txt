@@ -8908,7 +8908,6 @@ dub
 dichroic
 dorsum
 disgeneric
-dichroism
 dihydride
 dichroite
 dichroitic
@@ -11607,6 +11606,7 @@ disconvenient
 daktylos
 disconventicle
 discophora
+dichroism
 discophoran
 discoplacenta
 discoplacental
