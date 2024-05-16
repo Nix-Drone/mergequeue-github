@@ -1528,7 +1528,6 @@ garrisons
 garrnishable
 garron
 garroo
-garroted
 garroters
 garrotes
 goldweed
@@ -8453,6 +8452,7 @@ gravette
 graveward
 gravewards
 gaskins
+garroted
 gourmand
 gravicembali
 gravicembalo
