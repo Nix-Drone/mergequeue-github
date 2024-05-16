@@ -3448,6 +3448,7 @@ bumblingness
 berascaled
 basswood
 byrrus
+blacksmiths
 basswoods
 begalling
 basta
@@ -10190,7 +10191,6 @@ barkle
 blacksmith
 blacksmithing
 beastdom
-blacksmiths
 blacksnake
 blackstick
 burghbote
