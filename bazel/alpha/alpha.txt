@@ -928,7 +928,6 @@ absences
 absent
 ascochyta
 absentation
-absented
 absentee
 absentees
 absenter
@@ -14856,6 +14855,7 @@ amygdalaceae
 anticathode
 anticausotic
 anticaustic
+absented
 anticensorial
 anticensorious
 anticensoriousness
