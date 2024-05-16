@@ -26241,6 +26241,7 @@ clericalist
 costoabdominal
 costoapical
 costocentral
+counterdoctrine
 costochondral
 costocolic
 costocoracoid
@@ -26760,7 +26761,6 @@ cronied
 coscinodiscus
 counterdistinction
 counterdistinguish
-counterdoctrine
 counterdogmatism
 counterdraft
 chylopoietic
