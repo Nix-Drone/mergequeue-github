@@ -5046,7 +5046,6 @@ casearia
 casease
 caseases
 caseate
-caseated
 caseates
 caseating
 caseation
@@ -15394,6 +15393,7 @@ clanged
 clangful
 clanging
 clangingly
+caseated
 clangor
 clangored
 clangorous
