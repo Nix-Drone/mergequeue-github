@@ -2013,6 +2013,7 @@ bandstop
 bandstring
 bandura
 bandurria
+bromothymol
 bandurrias
 bandusia
 bandusian
@@ -15945,7 +15946,6 @@ bromopikrin
 bauk
 bromoprotein
 bromos
-bromothymol
 bromouracil
 bromphenol
 brompicrin
