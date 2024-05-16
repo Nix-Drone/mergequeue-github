@@ -6012,7 +6012,6 @@ glucaemia
 geaster
 glucagon
 guarea
-glucagons
 gynoecium
 glucate
 glucemia
@@ -9109,6 +9108,7 @@ gnu
 gripey
 gripers
 gripgrass
+glucagons
 griphite
 gooral
 golee
