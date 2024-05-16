@@ -1790,6 +1790,7 @@ featheredges
 families
 featherer
 featherers
+flusker
 forejudgment
 featherfew
 featherfoil
@@ -6509,7 +6510,6 @@ flushy
 flushing
 flushingly
 flusk
-flusker
 flusterated
 flusterating
 flusteration
