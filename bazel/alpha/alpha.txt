@@ -11727,6 +11727,7 @@ analysers
 addressee
 analyses
 analysing
+anemobiagraph
 antimoniate
 analysis
 analyst
@@ -12480,7 +12481,6 @@ achetidae
 argify
 acuteness
 anemious
-anemobiagraph
 anemochore
 acetonuria
 anemochoric
