@@ -1698,6 +1698,7 @@ friars
 four
 fdnames
 fdtype
+friandise
 fdub
 fortuitousness
 fe
@@ -9945,7 +9946,6 @@ fry
 friand
 fub
 foretrysail
-friandise
 friar
 fairings
 francophobia
