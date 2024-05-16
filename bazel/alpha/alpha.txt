@@ -6877,7 +6877,6 @@ airfoil
 airfoils
 airframe
 airglow
-airglows
 acondylous
 airgraph
 airgraphics
@@ -9135,6 +9134,7 @@ almsfolk
 almsful
 almsgiver
 almsgiving
+airglows
 almshouse
 albertype
 almsman
