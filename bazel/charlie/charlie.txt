@@ -19346,7 +19346,6 @@ colorative
 coloraturas
 colorature
 colorblind
-colorblindness
 colorbreed
 colorcast
 colorcasted
@@ -21433,6 +21432,7 @@ concomitance
 concomitant
 concomitantly
 concomitate
+colorblindness
 concommitant
 concommitantly
 conconscious

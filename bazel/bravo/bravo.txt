@@ -4299,7 +4299,6 @@ broker
 beaconed
 beaufet
 beaufin
-beaufort
 beaugregory
 beaugregories
 beaujolais
@@ -12847,6 +12846,7 @@ bootlaces
 bootle
 bootleg
 bootleger
+beaufort
 bootlegged
 bootlegger
 benzazimide
