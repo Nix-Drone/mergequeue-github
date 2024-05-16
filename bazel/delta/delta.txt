@@ -5264,7 +5264,6 @@ denotatum
 denote
 denoted
 denotement
-denotes
 denoting
 denotive
 denouement
@@ -13928,6 +13927,7 @@ distraction
 distractions
 derout
 distractive
+denotes
 distractively
 distracts
 distrail
