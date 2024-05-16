@@ -3812,6 +3812,7 @@ battlements
 battlepiece
 battleplane
 barnstorms
+bonework
 battler
 battles
 battleship
@@ -12460,7 +12461,6 @@ boneshaw
 bonetail
 bonetta
 bonewood
-bonework
 bonewort
 bonging
 bharti
