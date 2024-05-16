@@ -382,7 +382,6 @@ dayless
 daily
 daylight
 daylighted
-daylights
 daylilies
 dayman
 daymare
@@ -2807,6 +2806,7 @@ decremental
 decrementing
 decrements
 decremeter
+daylights
 decrepid
 decrepit
 decrepitate
