@@ -1278,7 +1278,6 @@ eaceworm
 eegrass
 emulsion
 eeyuch
-equiv
 eel
 epitympa
 eelbobber
@@ -12564,6 +12563,7 @@ exinite
 exintine
 endsweep
 exist
+equiv
 existability
 existed
 existence
