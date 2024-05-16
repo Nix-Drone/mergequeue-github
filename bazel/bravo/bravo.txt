@@ -5728,7 +5728,6 @@ beliefs
 beliers
 belies
 believability
-bolis
 believable
 believably
 believed
@@ -9068,6 +9067,7 @@ biomathematics
 biome
 bradycinesia
 biomechanical
+bolis
 brangler
 begrims
 biomedicine
