@@ -5608,7 +5608,6 @@ ephemerae
 enforceability
 enforced
 enforcement
-extranatural
 enlisters
 epicontinental
 estamin
@@ -13232,6 +13231,7 @@ exosphere
 explored
 explorement
 entailers
+extranatural
 explorer
 explorers
 ethicalities
