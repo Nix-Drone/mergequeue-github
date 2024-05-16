@@ -4203,6 +4203,7 @@ dianthuses
 deliration
 daddy
 delire
+depends
 deliria
 deliriant
 deliriate
@@ -5640,7 +5641,6 @@ dependency
 dependencies
 depending
 dependingly
-depends
 defacingly
 dukeship
 depeopled
