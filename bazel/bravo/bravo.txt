@@ -431,6 +431,7 @@ backplanes
 backplate
 backpointer
 backpointers
+bannerols
 backrest
 backrope
 brimstony
@@ -2169,7 +2170,6 @@ bannerline
 bannerman
 bannermen
 bannerole
-bannerols
 bannerwise
 bannet
 bannisters
