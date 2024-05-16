@@ -16845,6 +16845,7 @@ clubhand
 clubhands
 clubhaul
 clubhauled
+counterlighted
 clubhauling
 clubhauls
 clubhouse
@@ -26878,7 +26879,6 @@ counterly
 creeshie
 counterlife
 counterlight
-counterlighted
 counterlilit
 candlewood
 counterlode
