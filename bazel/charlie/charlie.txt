@@ -9857,7 +9857,6 @@ chemiluminescent
 chemin
 cheminee
 chemiotactic
-chemiotaxic
 chemiotaxis
 chemiotropic
 chemiotropism
@@ -14734,6 +14733,7 @@ cystopteris
 cystoptosis
 cystopus
 cystoradiography
+chemiotaxic
 cistori
 cystorrhaphy
 cystorrhea
