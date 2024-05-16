@@ -3330,6 +3330,7 @@ gerb
 gypsography
 gerbera
 gardencraft
+grapewise
 gerbil
 gerbilles
 groutnoll
@@ -8144,7 +8145,6 @@ gelatinizing
 grapeskin
 grapestalk
 grapevines
-grapewise
 graphalloy
 graphanalysis
 graphed
