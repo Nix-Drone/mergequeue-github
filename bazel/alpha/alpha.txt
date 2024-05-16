@@ -1023,7 +1023,6 @@ absorbents
 absorber
 absorbers
 absorbing
-absorbtion
 absorpt
 absorptance
 absorptiometer
@@ -14142,6 +14141,7 @@ antefurcae
 antefurcal
 antegarden
 antegrade
+absorbtion
 antehall
 antehypophysis
 aquaculture
