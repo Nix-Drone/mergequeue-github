@@ -13398,7 +13398,6 @@ ankh
 ankhs
 ankylenteron
 ankyloblepharon
-ankylodactylia
 ankylodontia
 ankyloglossia
 ankylomerism
@@ -13815,6 +13814,7 @@ anopheles
 alligatoring
 anophelinae
 aralia
+ankylodactylia
 anopheline
 anophoria
 anophthalmia
