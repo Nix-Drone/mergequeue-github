@@ -612,7 +612,6 @@ bact
 bacteraemia
 bacteremia
 bacteremic
-bacteria
 bacteriaceae
 britannian
 bacteriaemia
@@ -11530,6 +11529,7 @@ bm
 bo
 boa
 backspliced
+bacteria
 boaedon
 belfast
 boagane
