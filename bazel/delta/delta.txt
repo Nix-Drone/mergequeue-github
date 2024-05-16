@@ -7669,7 +7669,6 @@ deviscerate
 devise
 devised
 devisee
-devisees
 deviser
 devisers
 devising
@@ -17766,6 +17765,7 @@ ducats
 ducdame
 duce
 duces
+devisees
 dangerfully
 duchan
 distrouble
