@@ -7386,7 +7386,6 @@ detumescence
 dissocialize
 detumescent
 detune
-detuned
 detuning
 detur
 deturn
@@ -16756,6 +16755,7 @@ disregards
 draperies
 downline
 drapes
+detuned
 drapet
 draping
 drapping
