@@ -1275,7 +1275,6 @@ balaenoid
 balaenoidea
 balaenoidean
 balaenoptera
-balaenopteridae
 balafo
 bcf
 bambocciade
@@ -15954,6 +15953,7 @@ bromus
 bromvoel
 bronc
 bronchi
+balaenopteridae
 bronchia
 brooding
 bronchiarctia
