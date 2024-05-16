@@ -3031,7 +3031,6 @@ gentes
 geochemists
 geochrony
 geochronology
-geochronological
 geocyclic
 geocline
 griskin
@@ -6210,6 +6209,7 @@ gravitate
 gnar
 gnarl
 gnarled
+geochronological
 gnarly
 greatcoats
 gillies
