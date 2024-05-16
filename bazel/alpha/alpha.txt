@@ -14283,7 +14283,6 @@ anteroinferior
 alismaceae
 anterointerior
 anterointernal
-anterolateral
 anterolaterally
 anteromedial
 anteromedian
@@ -16822,6 +16821,7 @@ aphagias
 afterswell
 acrodrome
 aphakia
+anterolateral
 astipulate
 aphanapteryx
 aphanes
