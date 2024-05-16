@@ -2632,7 +2632,6 @@ electrostatic
 electrostatical
 electrosteel
 electrostenolysis
-electrostenolytic
 exciples
 electrostriction
 elinvar
@@ -7107,6 +7106,7 @@ enucleate
 ensuer
 eau
 enucleated
+electrostenolytic
 enucleator
 excitomuscular
 enumerability

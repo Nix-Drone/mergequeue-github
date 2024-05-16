@@ -13397,7 +13397,6 @@ ankerites
 ankh
 ankhs
 ankylenteron
-ankyloblepharon
 ankylodactylia
 ankylodontia
 ankyloglossia
@@ -19082,6 +19081,7 @@ archleveler
 archlexicographer
 archly
 archlute
+ankyloblepharon
 archmachine
 archmagician
 archmagirist
