@@ -3325,7 +3325,6 @@ acupuncturation
 acupuncturator
 acupuncture
 acupunctured
-acupuncturing
 acupuncturist
 acus
 acusector
@@ -21436,6 +21435,7 @@ aspersorium
 aspersoriums
 aspersors
 asperugo
+acupuncturing
 asperula
 asperuloside
 asperulous
