@@ -3512,6 +3512,7 @@ caracoa
 caracol
 caracoled
 caracoler
+cyclically
 caracoles
 caracoli
 caracoling
@@ -13277,7 +13278,6 @@ crookbilled
 cyclic
 cyclical
 cyclicality
-cyclically
 cyclicalness
 cyclicism
 cyclicity
