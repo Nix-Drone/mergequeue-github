@@ -296,7 +296,6 @@ eat
 eagerer
 eatability
 eatable
-eatables
 electrolyzability
 eatberry
 eaten
@@ -5341,6 +5340,7 @@ endostyle
 endostylic
 excarnate
 endostitis
+eatables
 excommunicable
 endostoma
 engrossing
