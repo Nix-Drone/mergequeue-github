@@ -1521,7 +1521,6 @@ faulds
 faulter
 frighten
 faultfind
-faultfinder
 faultfinders
 faultfinding
 fervescent
@@ -10502,6 +10501,7 @@ forbodes
 frostbit
 flavorful
 frostbite
+faultfinder
 frostbites
 frostbiting
 frostbitten
