@@ -4036,6 +4036,7 @@ adjutants
 adjutantship
 anesthetic
 adjutator
+allanturic
 adjute
 adjutor
 adjutory
@@ -8765,7 +8766,6 @@ allocators
 allocatur
 antimasonic
 allochetia
-allanturic
 allochetite
 allochiral
 allochiria
