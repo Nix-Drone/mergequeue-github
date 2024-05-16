@@ -2699,7 +2699,6 @@ generalizations
 generalize
 genl
 gyrations
-generalizeable
 genappe
 generalized
 glassily
@@ -7636,6 +7635,7 @@ grades
 gradgrind
 gud
 gradgrindian
+generalizeable
 gillenia
 gingelies
 gradgrindish
