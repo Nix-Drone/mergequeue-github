@@ -16864,7 +16864,6 @@ adumbrate
 antiphoner
 aphesis
 apheta
-accidentals
 aphetic
 aphetically
 aphanitic
@@ -19630,6 +19629,7 @@ arguses
 attemperator
 argusfishes
 argusianus
+accidentals
 arguslike
 antireticular
 ankara
