@@ -2490,7 +2490,6 @@ brickiest
 brobdingnagian
 barding
 bardings
-blindages
 bardism
 bardlet
 boothian
@@ -3003,6 +3002,7 @@ barricader
 barricaders
 barricades
 bedplates
+blindages
 barricado
 barricadoes
 brainsick
