@@ -4014,7 +4014,6 @@ gigasecond
 gigaton
 gigatons
 gigavolt
-gigawatt
 gills
 gutser
 goldenfleece
@@ -6992,6 +6991,7 @@ goodliness
 goodmanship
 glycosidase
 goodmen
+gigawatt
 goodness
 goodrich
 gleesomeness
