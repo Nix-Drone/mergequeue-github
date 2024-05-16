@@ -9380,7 +9380,6 @@ diffusional
 diffusionism
 diffusionist
 diffusions
-diffusive
 diffusor
 diffusors
 difluence
@@ -16522,6 +16521,7 @@ dracontites
 diapason
 dracontium
 drad
+diffusive
 diallagoid
 dradge
 dumpfile
