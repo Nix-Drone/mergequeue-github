@@ -11418,7 +11418,6 @@ choanate
 choanephora
 choanocytal
 choanocyte
-choanoflagellate
 choanoflagellida
 choanoflagellidae
 choanoid
@@ -26554,6 +26553,7 @@ coulisses
 couloir
 coulomb
 coulombmeter
+choanoflagellate
 coulombs
 coulometer
 coulter
