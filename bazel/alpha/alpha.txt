@@ -2684,7 +2684,6 @@ acquiesced
 acquiescence
 agravic
 acquiescency
-acquiescent
 ansate
 acquiescently
 acquiescer
@@ -4536,6 +4535,7 @@ advantageousness
 advantages
 advect
 advected
+acquiescent
 advecting
 agamobia
 amniorrhea
