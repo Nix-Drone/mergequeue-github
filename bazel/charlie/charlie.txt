@@ -24206,7 +24206,6 @@ convoys
 convoke
 convoked
 convoker
-convokers
 convokes
 convoluta
 convoluted
@@ -31221,6 +31220,7 @@ curarine
 curarines
 curaris
 curarization
+convokers
 curarizes
 curarizing
 curassow
