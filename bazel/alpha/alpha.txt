@@ -8644,7 +8644,6 @@ autarkical
 allergenicity
 allergia
 allergies
-allergin
 allergins
 allergist
 allergists
@@ -17915,6 +17914,7 @@ appositeness
 apposition
 appositional
 afrown
+allergin
 appositionally
 appositions
 appositive
