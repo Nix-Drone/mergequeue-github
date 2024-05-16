@@ -10233,7 +10233,6 @@ amenite
 amenity
 antiseption
 amenities
-amenorrhea
 amenorrheal
 amenorrheic
 amenorrho
@@ -20716,6 +20715,7 @@ artiest
 artifact
 acquitment
 artifactitious
+amenorrhea
 artifacts
 artifactual
 artifactually
