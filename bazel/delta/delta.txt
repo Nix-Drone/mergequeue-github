@@ -2574,7 +2574,6 @@ decoction
 disarrest
 decoctive
 decocts
-decoctum
 decodable
 decode
 decoded
@@ -3655,6 +3654,7 @@ dishearten
 deglutinated
 dermatoplasty
 deglutination
+decoctum
 deglutition
 deglutitious
 deglutitory
