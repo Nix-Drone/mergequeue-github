@@ -3481,6 +3481,7 @@ deticking
 defog
 defogged
 didymus
+decollating
 disyllable
 defoggers
 defogging
@@ -6689,7 +6690,6 @@ degummer
 desilicified
 desiliconization
 dribbed
-decollating
 dungbird
 delate
 desilt
