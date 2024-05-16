@@ -8602,7 +8602,6 @@ allegro
 alley
 alleyite
 alleys
-alleyway
 anarchs
 allele
 alleles
@@ -22183,6 +22182,7 @@ astrantia
 astraphobia
 astrapophobia
 astre
+alleyway
 anis
 astream
 astrean
