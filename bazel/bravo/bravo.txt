@@ -3502,7 +3502,6 @@ bastioned
 bastionet
 branchiopulmonate
 bastions
-bastite
 bastnaesite
 bastnasite
 balanoglossus
@@ -4657,6 +4656,7 @@ bratstva
 bedclothing
 bedcord
 byplays
+bastite
 bedcovers
 beddable
 bedders
