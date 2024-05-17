@@ -19027,7 +19027,6 @@ collidine
 cetacea
 collie
 collied
-collielike
 collier
 colliery
 cuber
@@ -25215,6 +25214,7 @@ corixa
 corixidae
 coryza
 coryzal
+collielike
 coryzas
 cork
 corkage
