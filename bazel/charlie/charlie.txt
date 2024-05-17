@@ -15211,7 +15211,6 @@ chubbily
 cladodontidae
 cladodus
 cladogenesis
-cladogenetic
 cladogenetically
 cladogenous
 cladonia
@@ -31701,6 +31700,7 @@ cuspids
 cusping
 cuspis
 cusps
+cladogenetic
 cuspule
 cussed
 cussedly
