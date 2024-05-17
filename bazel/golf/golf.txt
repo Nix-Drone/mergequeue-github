@@ -6146,6 +6146,7 @@ gluside
 glut
 glutamate
 geodesics
+gossamery
 glutamates
 glutamic
 glutaminase
@@ -7302,7 +7303,6 @@ gosport
 gosports
 gossamer
 gossamered
-gossamery
 gossamers
 gossampine
 gossaniferous
