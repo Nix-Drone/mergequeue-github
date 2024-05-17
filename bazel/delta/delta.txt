@@ -3268,6 +3268,7 @@ decumana
 defenselessly
 defenselessness
 defenseman
+digger
 defensemen
 defenser
 defenses
@@ -9449,7 +9450,6 @@ digesture
 diggable
 destrer
 digged
-digger
 digging
 dight
 dighted
