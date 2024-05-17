@@ -2415,7 +2415,6 @@ candlemas
 candlenut
 candlepins
 candlepower
-chemist
 camelion
 candler
 candlerent
@@ -11307,6 +11306,7 @@ chlorochromates
 clothbound
 casuistries
 chlorochromic
+chemist
 chlorochrous
 chlorococcaceae
 chlorococcales
