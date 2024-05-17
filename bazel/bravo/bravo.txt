@@ -7262,7 +7262,6 @@ bestock
 bessemerize
 broadhead
 billy
-bestore
 bestorm
 bestow
 bestowal
@@ -10994,6 +10993,7 @@ breakable
 basketball
 blockbusting
 blocked
+bestore
 blocker
 beechdrops
 blockers
