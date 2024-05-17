@@ -6020,7 +6020,6 @@ agglutinize
 alls
 agglutinogen
 agglutinogenic
-agglutinoid
 agglutinoscope
 agglutogenic
 aleshot
@@ -19263,6 +19262,7 @@ arctoid
 arctoidea
 arctoidean
 arctomys
+agglutinoid
 arctos
 axonic
 aspredinidae
