@@ -8216,7 +8216,6 @@ diagometer
 demove
 derogations
 dele
-diagonal
 diagonalizable
 diagonalization
 diagonalize
@@ -17129,6 +17128,7 @@ diobely
 driftlet
 drifts
 driftwind
+diagonal
 drygoodsman
 drying
 ducture
