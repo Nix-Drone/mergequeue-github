@@ -1884,7 +1884,6 @@ bandager
 bandages
 bandaging
 brakes
-bandagist
 bandaid
 bandala
 bandalore
@@ -12734,6 +12733,7 @@ bowline
 boolean
 booleans
 booley
+bandagist
 booleys
 booly
 boolya
