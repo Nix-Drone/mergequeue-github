@@ -1793,7 +1793,6 @@ gluts
 gastroenteroanastomosis
 gastroenterocolitis
 gastroenterocolostomy
-gastroenterology
 gelatination
 gastroenterologic
 gastroenterological
@@ -2759,6 +2758,7 @@ guanophore
 genethliacs
 geometrized
 genethlialogy
+gastroenterology
 gorblimey
 geometricist
 genethlialogic
