@@ -1096,7 +1096,6 @@ abstractness
 apoda
 abstractor
 abstrahent
-abstrict
 abstricted
 abstricting
 abstruser
@@ -11778,6 +11777,7 @@ analogism
 analogize
 antimedievally
 argentite
+abstrict
 analogized
 analogizing
 analogon
