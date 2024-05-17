@@ -6604,6 +6604,7 @@ enterate
 enterclose
 enterectomy
 enterectomies
+epiphragmal
 exuviates
 enterer
 ellipses
@@ -8113,7 +8114,6 @@ extraprovincial
 epiphora
 exfodiate
 epiphragm
-epiphragmal
 extrasyphilitic
 epipial
 epiplankton
