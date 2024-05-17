@@ -3489,7 +3489,6 @@ bastinaded
 bastinades
 baroi
 berend
-burbots
 bastinado
 bastinadoed
 bastinadoing
@@ -5618,6 +5617,7 @@ belaying
 belays
 brandishers
 belait
+burbots
 biface
 belaites
 belam
