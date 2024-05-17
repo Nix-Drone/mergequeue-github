@@ -2007,7 +2007,6 @@ bandsmen
 bandspreading
 bandstand
 bandstands
-bandster
 ballroom
 bandstop
 bandstring
@@ -12120,6 +12119,7 @@ boleweed
 bolewort
 bolyaian
 baklawas
+bandster
 bolide
 bolides
 bolimba
