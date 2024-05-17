@@ -9030,7 +9030,6 @@ dihexahedral
 dictynidae
 doneness
 dictyodromous
-dictyogen
 dictyograptus
 dictyoid
 diction
@@ -15906,6 +15905,7 @@ dossier
 dextromanual
 dossil
 dossils
+dictyogen
 dartos
 dossman
 dormition
