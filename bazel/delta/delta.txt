@@ -7302,7 +7302,6 @@ detinet
 detinue
 detinues
 detinuit
-detn
 detonability
 detonable
 detonatability
@@ -12060,6 +12059,7 @@ disequality
 disequalization
 disequalizer
 disequilibrate
+detn
 disequilibration
 disequilibria
 drudgery
