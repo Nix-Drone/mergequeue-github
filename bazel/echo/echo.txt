@@ -4817,7 +4817,6 @@ equitangential
 encolour
 encolpia
 encolpion
-encolumn
 encolure
 encomy
 encomia
@@ -6384,6 +6383,7 @@ ensheaths
 enshell
 enshelter
 enshield
+encolumn
 eprouvette
 enumerating
 enshielded
