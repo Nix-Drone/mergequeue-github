@@ -4622,7 +4622,6 @@ advertisements
 advertiser
 advertisers
 advertising
-advertizable
 amulets
 advertized
 advertizement
@@ -4736,6 +4735,7 @@ aedilic
 acanthoma
 almocrebe
 aedilities
+advertizable
 aevia
 aedine
 aedoeagi
