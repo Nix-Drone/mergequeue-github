@@ -5639,6 +5639,7 @@ catchable
 catchall
 catchcry
 colocates
+contagionist
 catched
 catcher
 catchers
@@ -23325,7 +23326,6 @@ cotes
 contagia
 contagion
 contagioned
-contagionist
 computation
 colibert
 contagions
