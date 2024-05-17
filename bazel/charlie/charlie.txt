@@ -9847,7 +9847,6 @@ chemicophysiological
 curtaining
 chemicovital
 chemiculture
-chemigraph
 chemigraphy
 chemigraphic
 chemigraphically
@@ -25724,6 +25723,7 @@ chaja
 corroborate
 corroborated
 continuate
+chemigraph
 corroborates
 corroborating
 corroboration
