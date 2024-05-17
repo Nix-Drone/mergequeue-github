@@ -5635,7 +5635,6 @@ catcalled
 catcaller
 catcalls
 catch
-catchable
 catchall
 catchcry
 colocates
@@ -18610,6 +18609,7 @@ chittak
 coitional
 coitions
 coitophobia
+catchable
 coiture
 coitus
 coituses
