@@ -11363,7 +11363,6 @@ commands
 chlorophyceous
 chlorophyl
 chlorophyll
-chlorophyllaceous
 chlorophyllase
 chlorophyllian
 chlorophyllide
@@ -28625,6 +28624,7 @@ crenately
 crenation
 crenature
 crenel
+chlorophyllaceous
 crenelated
 coloniser
 crenelates
