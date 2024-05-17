@@ -2278,7 +2278,6 @@ cancelier
 collaborated
 canceling
 cancellability
-cancellable
 cancellarius
 cancellate
 cancellation
@@ -17136,6 +17135,7 @@ coaid
 coaita
 coak
 coakum
+cancellable
 coala
 coalas
 coalbag
