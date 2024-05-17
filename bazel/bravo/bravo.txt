@@ -2836,7 +2836,6 @@ baronetship
 barong
 baronga
 barongs
-barony
 bassets
 baronial
 baronies
@@ -6468,6 +6467,7 @@ benzoylformic
 benzoylglycine
 botanizing
 bilge
+barony
 benzoin
 benzoinated
 benzoiodohydrin
