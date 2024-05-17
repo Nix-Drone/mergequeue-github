@@ -6136,7 +6136,6 @@ benchership
 benches
 benchfellow
 burglary
-benchful
 benchy
 benchland
 benchless
@@ -7952,6 +7951,7 @@ bibliologies
 bismuthite
 bibliologist
 biometrics
+benchful
 bibliomancy
 bibliomane
 bibliomania
