@@ -9253,7 +9253,6 @@ chastiment
 chastisable
 chastise
 chastised
-chastiser
 chastisers
 clapperboard
 composture
@@ -12503,6 +12502,7 @@ chromophile
 chromophilia
 chromophilic
 chromophyll
+chastiser
 chromophobe
 chromophobia
 chromophobic
