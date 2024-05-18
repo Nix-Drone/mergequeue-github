@@ -3919,7 +3919,6 @@ finchery
 finches
 find
 finalizes
-findable
 flabellinerved
 findhorn
 finding
@@ -4364,6 +4363,7 @@ fisheress
 fragmentate
 fisherfolk
 fishery
+findable
 florentium
 fisherman
 flammably
