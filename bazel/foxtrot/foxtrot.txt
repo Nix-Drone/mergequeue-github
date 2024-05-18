@@ -54,7 +54,6 @@ faceable
 facebar
 facebow
 facecloth
-firestone
 faced
 foreladies
 faceharden
@@ -11167,6 +11166,7 @@ fundatrices
 fundatrix
 funder
 fruz
+firestone
 forecarriage
 fundi
 fundic
