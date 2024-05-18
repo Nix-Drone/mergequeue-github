@@ -7672,7 +7672,6 @@ foreorlop
 forefigure
 forefin
 forefinger
-forjudged
 forefingers
 figlike
 foreflank
@@ -11024,6 +11023,7 @@ fifers
 fumblers
 fumbles
 fumbling
+forjudged
 flemings
 forlornest
 froward
