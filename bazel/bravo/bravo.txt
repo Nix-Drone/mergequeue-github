@@ -3805,7 +3805,6 @@ battlefront
 battlefronts
 battleful
 butterburr
-battakhin
 battlegrounds
 battlement
 battlements
@@ -15330,6 +15329,7 @@ bedstaves
 brier
 briered
 briery
+battakhin
 brainwasher
 brierroot
 brierwood
