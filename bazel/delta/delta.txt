@@ -3583,6 +3583,7 @@ defunctive
 defused
 defuses
 defusion
+dentalization
 dingles
 dolman
 defuzed
@@ -5323,7 +5324,6 @@ diamagnetically
 dentality
 dentalium
 dentaliums
-dentalization
 dentalize
 dentalized
 dentally
