@@ -5416,7 +5416,6 @@ flanges
 fleys
 frankfold
 fleysome
-flem
 fleme
 flemer
 fleming
@@ -5951,6 +5950,7 @@ fawny
 floorshifts
 floorshow
 floorway
+flem
 fluidrachm
 floorward
 furniment
