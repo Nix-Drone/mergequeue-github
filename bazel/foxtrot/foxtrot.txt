@@ -6727,7 +6727,6 @@ foretype
 feeders
 fogfruits
 fogger
-foggers
 fairgrass
 foggier
 furrier
@@ -7584,6 +7583,7 @@ forecome
 forecommend
 foreconceive
 formalism
+foggers
 foreconclude
 flops
 foreconscious
