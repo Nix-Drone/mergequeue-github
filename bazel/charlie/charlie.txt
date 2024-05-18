@@ -9923,7 +9923,6 @@ chemoserotherapy
 chemoses
 chemosynthesis
 chemosynthetic
-chemosis
 chemosmoic
 chemosmoses
 chemosmotic
@@ -12590,6 +12589,7 @@ chronogram
 chronogrammatic
 chronogrammatically
 cheetah
+chemosis
 chronogrammatist
 cloture
 conchological
