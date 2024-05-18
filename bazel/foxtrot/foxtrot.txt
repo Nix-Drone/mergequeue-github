@@ -2348,7 +2348,6 @@ fizzes
 fenestellid
 fenestellidae
 fenestrae
-fenestrate
 fifth
 fenestrated
 fenestration
@@ -5437,6 +5436,7 @@ flerry
 flerried
 flerrying
 flesh
+fenestrate
 fricassee
 fleshbrush
 foremention
