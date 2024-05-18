@@ -8488,7 +8488,6 @@ chameleonic
 chameleonize
 chameleonlike
 chameleons
-chamfer
 chamfered
 chamferer
 chamfering
@@ -24518,6 +24517,7 @@ copens
 copeognatha
 copepod
 copepoda
+chamfer
 chromolithograph
 copepodan
 copepodous
