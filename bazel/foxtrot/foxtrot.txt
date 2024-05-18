@@ -8291,7 +8291,6 @@ forhow
 fade
 foryield
 furnished
-furnaceman
 ferriage
 felonous
 fitly
@@ -8337,6 +8336,7 @@ fibrillous
 forklift
 forkman
 forswornness
+furnaceman
 forkmen
 forks
 forksful
