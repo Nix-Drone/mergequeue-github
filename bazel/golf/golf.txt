@@ -4587,7 +4587,6 @@ gyppo
 gips
 gyp
 gyps
-gipseian
 gipser
 gipsy
 gypsy
@@ -8524,6 +8523,7 @@ garlandwise
 grazings
 gullion
 grazioso
+gipseian
 gre
 galvanoplastics
 greable
