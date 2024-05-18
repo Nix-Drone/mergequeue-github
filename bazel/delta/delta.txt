@@ -1220,7 +1220,6 @@ daters
 dates
 datil
 dating
-denormalized
 dation
 datisca
 datiscaceae
@@ -13481,6 +13480,7 @@ disseise
 disseised
 disseisee
 disseized
+denormalized
 donorship
 disseizes
 desolations
