@@ -4797,7 +4797,6 @@ carroms
 carroon
 casework
 carrosserie
-carrot
 carrotage
 carroter
 carroty
@@ -22214,6 +22213,7 @@ curvicostate
 congenitalness
 congenite
 congeon
+carrot
 conger
 congeree
 congery
