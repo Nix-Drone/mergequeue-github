@@ -20925,7 +20925,6 @@ ascendent
 ascenders
 ascendible
 ascending
-ascendingly
 ascends
 avgases
 ascenseur
@@ -24648,6 +24647,7 @@ avery
 averia
 alai
 averil
+ascendingly
 andesite
 averish
 averment
