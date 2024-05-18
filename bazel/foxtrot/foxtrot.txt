@@ -1098,6 +1098,7 @@ farmland
 farmost
 farmout
 fasteners
+fumaroid
 fisc
 farms
 farmscape
@@ -3231,7 +3232,6 @@ fictioneer
 fictioner
 fogging
 forehent
-fumaroid
 fieldfare
 fictionisation
 furunculosis
