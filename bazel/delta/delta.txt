@@ -3134,7 +3134,6 @@ defacing
 defacto
 digressiveness
 defade
-defaillance
 defailment
 defaitisme
 defaitiste
@@ -15508,6 +15507,7 @@ discusser
 donnard
 donnas
 decnet
+defaillance
 donnee
 donnees
 donnerd
