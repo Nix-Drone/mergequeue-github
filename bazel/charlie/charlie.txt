@@ -7212,7 +7212,6 @@ centro
 centroacinar
 centrobarical
 centroclinal
-centrode
 centrodesmose
 centrodesmus
 centrodorsal
@@ -10570,6 +10569,7 @@ chilled
 conter
 chiller
 chillers
+centrode
 chillest
 chiromance
 chilli
