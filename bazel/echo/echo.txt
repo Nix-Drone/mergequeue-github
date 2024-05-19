@@ -7485,7 +7485,6 @@ evaporativity
 epharmonic
 ephas
 ephebea
-equipped
 enrols
 ephebeibeia
 ephebeion
@@ -13119,6 +13118,7 @@ exhaustable
 expired
 embale
 expiree
+equipped
 expirer
 expirers
 expires
