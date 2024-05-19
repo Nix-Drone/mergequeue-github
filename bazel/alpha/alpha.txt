@@ -6878,7 +6878,6 @@ airfoils
 airframe
 airglow
 airglows
-acondylous
 airgraph
 airgraphics
 areopagus
@@ -7770,6 +7769,7 @@ aldosterone
 aldosteronism
 aldrin
 aldrins
+acondylous
 aldrovanda
 aldus
 alchemically
