@@ -2192,7 +2192,6 @@ fruited
 fells
 floruits
 fellside
-fellsman
 finger
 feloid
 feloness
@@ -8870,6 +8869,7 @@ fossil
 fossilage
 featly
 franking
+fellsman
 fossildom
 fossiliferous
 fossilise
