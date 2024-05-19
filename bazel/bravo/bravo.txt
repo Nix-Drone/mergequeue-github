@@ -1562,6 +1562,7 @@ ballastage
 bulbiform
 blanchi
 balanoglossida
+bathorse
 bouton
 butomus
 ballaster
@@ -13932,7 +13933,6 @@ bracelets
 bracer
 bracery
 bracero
-bathorse
 bioactivity
 belialist
 braceros
