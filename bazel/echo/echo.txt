@@ -295,7 +295,6 @@ euphoniousness
 eat
 eagerer
 eatability
-eatable
 eatables
 electrolyzability
 eatberry
@@ -1832,6 +1831,7 @@ eyeshield
 equvalent
 eyeshine
 eyeshot
+eatable
 enumerated
 etherialise
 eyeshots
