@@ -8400,6 +8400,7 @@ galenite
 gravecloth
 graveclothes
 gravedigger
+greencoat
 genophobia
 gravediggers
 grudgment
@@ -8651,7 +8652,6 @@ greenbrier
 greenbug
 greenbugs
 greencloth
-greencoat
 gormandising
 greeney
 greenery
