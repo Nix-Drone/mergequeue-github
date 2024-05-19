@@ -14911,7 +14911,6 @@ cytogeny
 cytogenic
 cytogenies
 cytogenous
-cytoglobulin
 cytohyaloplasm
 cytoid
 citoyen
@@ -18728,6 +18727,7 @@ carles
 coleophoridae
 coleopter
 coleoptera
+cytoglobulin
 coleopteran
 coleopterist
 coleopterology
