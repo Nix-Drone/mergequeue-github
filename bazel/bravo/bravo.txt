@@ -9380,7 +9380,6 @@ besogne
 birdcage
 baroscope
 birdcages
-birdcall
 birdcalls
 birdcatching
 birdcraft
@@ -10434,6 +10433,7 @@ bobfly
 blastoffs
 bedeswoman
 blastogenesis
+birdcall
 blastogenetic
 blastogeny
 blastogenic
