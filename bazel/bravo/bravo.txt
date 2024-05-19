@@ -3279,7 +3279,6 @@ basilian
 biconcavity
 bicorporeal
 basilic
-basilica
 basilicae
 basilical
 basilican
@@ -13850,6 +13849,7 @@ boxcars
 bowpin
 boxed
 boxen
+basilica
 boxerism
 bobsledder
 broquineer
