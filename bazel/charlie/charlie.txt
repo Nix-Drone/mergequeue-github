@@ -3414,6 +3414,7 @@ captainry
 cesure
 captainship
 captainships
+carshops
 captan
 captance
 captandum
@@ -4825,7 +4826,6 @@ covillager
 complainingness
 carshop
 cogitable
-carshops
 carsick
 carsickness
 carsmith
