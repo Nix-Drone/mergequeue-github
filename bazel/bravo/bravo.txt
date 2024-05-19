@@ -2752,6 +2752,7 @@ barmote
 barms
 barmskin
 barnabas
+bedeaf
 barnaby
 barnacle
 barnacled
@@ -4666,7 +4667,6 @@ beddings
 bede
 bro
 bogans
-bedeaf
 bedeafen
 ballett
 bedeafened
