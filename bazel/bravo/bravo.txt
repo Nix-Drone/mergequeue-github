@@ -750,7 +750,6 @@ baddie
 barlock
 betimber
 baddies
-baddish
 baddishly
 baddishness
 baddock
@@ -4843,6 +4842,7 @@ bangkoks
 bedsite
 bedsitter
 bedsock
+baddish
 bedsonia
 bedsonias
 bumblefoot
