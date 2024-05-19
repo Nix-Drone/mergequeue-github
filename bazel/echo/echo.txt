@@ -3139,7 +3139,6 @@ elong
 elongate
 eryx
 elongating
-elongation
 elongations
 engem
 epiplastral
@@ -10393,6 +10392,7 @@ enrank
 eemis
 ethmoidal
 ethmoiditis
+elongation
 entomb
 ethmolith
 ethmomaxillary
