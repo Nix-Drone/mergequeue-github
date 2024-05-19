@@ -5629,7 +5629,6 @@ depend
 dependability
 deadhead
 dependabilities
-dependableness
 dependably
 dependance
 dependant
@@ -13623,6 +13622,7 @@ dissipaters
 drawdowns
 deplaster
 dissipates
+dependableness
 dimmish
 dissipating
 dissipation
