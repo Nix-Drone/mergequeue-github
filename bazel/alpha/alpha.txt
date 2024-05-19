@@ -945,6 +945,7 @@ absentness
 absents
 absfarad
 abshenry
+agba
 absi
 absinth
 absinthes
@@ -5908,7 +5909,6 @@ agaves
 agaz
 agaze
 agazed
-agba
 abrenunciation
 age
 ageable
