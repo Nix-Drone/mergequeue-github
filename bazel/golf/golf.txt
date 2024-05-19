@@ -1966,7 +1966,6 @@ guariba
 gatewise
 gatewoman
 gatherable
-gathered
 gilgai
 gatherers
 graplins
@@ -3666,6 +3665,7 @@ gastronomy
 gregarinaria
 gharries
 gentlewomanly
+gathered
 gigas
 ghassanid
 ghast
