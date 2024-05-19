@@ -994,7 +994,6 @@ absolutize
 absolutory
 absolvatory
 absolve
-absolved
 absolvent
 absolver
 absolvers
@@ -12813,6 +12812,7 @@ angiosperm
 angiospermae
 attacks
 angiospermal
+absolved
 angiospermic
 angiospermous
 angiosperms
