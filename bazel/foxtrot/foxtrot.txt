@@ -8276,7 +8276,6 @@ forgoes
 forgot
 forgotten
 foussa
-fuzzy
 faraon
 forgrow
 forhaile
@@ -9365,6 +9364,7 @@ fram
 framable
 frambesia
 frame
+fuzzy
 frowzily
 framea
 frameae
