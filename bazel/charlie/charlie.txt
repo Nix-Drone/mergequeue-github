@@ -5300,6 +5300,7 @@ castelli
 castellum
 casten
 caster
+chloridation
 casterless
 casters
 castes
@@ -11244,7 +11245,6 @@ chloric
 chlorid
 chloridate
 consuls
-chloridation
 chloride
 chloridella
 chloridellidae
