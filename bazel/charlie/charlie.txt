@@ -8985,7 +8985,6 @@ charge
 chargeability
 chargeable
 chargeableness
-chargeant
 charged
 chargedness
 chargee
@@ -22410,6 +22409,7 @@ conynge
 cosiest
 coninidia
 conins
+chargeant
 coniogramme
 coniology
 coniomycetes
