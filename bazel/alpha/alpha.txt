@@ -3309,7 +3309,6 @@ appropriate
 aculeolate
 abscam
 aculeus
-acuminate
 acuminated
 acuminating
 acumination
@@ -7860,6 +7859,7 @@ alength
 autacoid
 alenu
 aleochara
+acuminate
 aleph
 alephs
 alephzero

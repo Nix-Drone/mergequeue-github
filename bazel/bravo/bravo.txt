@@ -4038,7 +4038,6 @@ beacon
 beaconage
 berchta
 beaconless
-business
 beacons
 beaded
 bequirtle
@@ -9741,6 +9740,7 @@ bedridden
 byssine
 byssinosis
 byssogenous
+business
 byssoid
 byssolite
 bisson
