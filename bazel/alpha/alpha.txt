@@ -3740,7 +3740,6 @@ adenotyphus
 adenotome
 adenotomic
 adenous
-adenoviral
 adenoviruses
 adeodatus
 adeona
@@ -21250,6 +21249,7 @@ asymtotic
 asymtotically
 asynapsis
 asynaptic
+adenoviral
 asynartete
 async
 asynchrony
