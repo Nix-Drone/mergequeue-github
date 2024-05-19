@@ -5074,7 +5074,6 @@ feint
 florigens
 fructure
 flashtube
-flashtubes
 fusobteria
 fanterie
 flask
@@ -8536,6 +8535,7 @@ formulisation
 friaries
 flunkeyish
 formulising
+flashtubes
 flinchers
 formulist
 formulistic
