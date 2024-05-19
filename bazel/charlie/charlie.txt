@@ -3379,7 +3379,6 @@ consignificate
 capsular
 capsulated
 capsulation
-capsule
 collegatary
 chawbone
 capsulectomy
@@ -13244,6 +13243,7 @@ cyclamate
 climbable
 cyclamates
 cyclamen
+capsule
 cyclamens
 carrotwood
 cyclamin
