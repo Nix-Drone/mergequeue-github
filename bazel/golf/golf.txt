@@ -683,7 +683,6 @@ geodesy
 galliot
 galliots
 gurnets
-gallipot
 gallipots
 gallirallus
 gallisin
@@ -5077,6 +5076,7 @@ gurjun
 grisard
 glaires
 gibraltar
+gallipot
 glairy
 gedeckt
 glairier
