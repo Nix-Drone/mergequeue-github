@@ -7825,7 +7825,6 @@ grammars
 gieseckite
 grammaticality
 gateau
-glossate
 grammatically
 grammaticalness
 grammaticaster
@@ -9057,6 +9056,7 @@ goyetian
 gynaecologic
 guanos
 glossiness
+glossate
 grimmest
 guillotinement
 grimmiaceae
