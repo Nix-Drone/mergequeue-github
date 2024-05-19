@@ -236,7 +236,6 @@ abbroachment
 abc
 abcissa
 abcoulomb
-abd
 abdali
 abdaria
 abdat
@@ -3384,6 +3383,7 @@ adays
 adalat
 adam
 adamance
+abd
 adamances
 adamancy
 assistor
