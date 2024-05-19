@@ -1501,7 +1501,6 @@ althing
 accessless
 achenodia
 accessor
-accessory
 accessories
 anakinetic
 accessorily
@@ -20036,6 +20035,7 @@ armure
 activistic
 armures
 arn
+accessory
 achromatinic
 appeasableness
 arnatta
