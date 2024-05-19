@@ -2964,7 +2964,6 @@ barrelhouses
 besmearer
 barreling
 broad
-barrelled
 brattle
 barrelmaker
 barrelmaking
@@ -12153,6 +12152,7 @@ beastman
 buffy
 bollock
 bolloxes
+barrelled
 bolloxing
 bolls
 bollworm
