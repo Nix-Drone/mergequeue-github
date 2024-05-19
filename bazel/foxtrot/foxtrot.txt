@@ -6650,7 +6650,6 @@ focalising
 focalization
 focalizes
 focaloid
-fixtures
 focimeter
 focimetry
 fockle
@@ -9041,6 +9040,7 @@ fourchite
 fourer
 fourflusher
 fourflushers
+fixtures
 fourgon
 fatigueless
 fourier
