@@ -4588,6 +4588,7 @@ gips
 gyp
 gyps
 gipseian
+gubernator
 gipser
 gipsy
 gypsy
@@ -9981,7 +9982,6 @@ gumbolike
 greyfish
 gubernative
 ghostliest
-gubernator
 gubernatorial
 geobiologic
 gymnospermal
