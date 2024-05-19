@@ -6575,6 +6575,7 @@ ceder
 ceders
 cedes
 cedilla
+conule
 cedillas
 ceding
 cedis
@@ -28728,7 +28729,6 @@ crescence
 crescendo
 crescendoed
 crescendoing
-conule
 crescendos
 crescentade
 crescentader
