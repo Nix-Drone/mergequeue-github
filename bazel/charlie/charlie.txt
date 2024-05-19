@@ -15449,7 +15449,6 @@ clapped
 clapper
 clapperclaw
 clapperclawer
-clapperdudgeon
 clappered
 corrade
 clappermaclaw
@@ -20344,6 +20343,7 @@ commutative
 commutatively
 commutativity
 commutator
+clapperdudgeon
 commutators
 commute
 commuted
