@@ -2472,7 +2472,6 @@ bardane
 bulgur
 bardash
 bardcraft
-balate
 barde
 butylation
 bardes
@@ -11601,6 +11600,7 @@ boatkeeper
 bodyplate
 bittacle
 beclamoring
+balate
 boxball
 boatlike
 boatlip
