@@ -2216,7 +2216,6 @@ gazers
 gazettal
 gazette
 gazetted
-gazetteerish
 gazetteers
 goon
 gazetteership
@@ -7257,6 +7256,7 @@ glazed
 gharri
 gorsedd
 gorsy
+gazetteerish
 germanic
 giddyish
 grayware
