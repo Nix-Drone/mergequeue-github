@@ -8755,6 +8755,7 @@ allocable
 allocatable
 allocate
 allocatee
+anticlea
 allocates
 allocating
 allocation
@@ -14957,7 +14958,6 @@ apprehend
 anticlassicism
 anticlassicist
 anticlastic
-anticlea
 anticlergy
 anticlerical
 anticlericalism
