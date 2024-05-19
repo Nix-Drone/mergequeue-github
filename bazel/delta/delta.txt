@@ -2804,6 +2804,7 @@ decreet
 dop
 decrement
 decremental
+disdainer
 decrementing
 decrements
 decremeter
@@ -11841,7 +11842,6 @@ discutient
 disdain
 disdainable
 disdained
-disdainer
 deterrable
 disdainful
 disdainfully
