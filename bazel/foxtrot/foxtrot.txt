@@ -1700,6 +1700,7 @@ fdnames
 fdtype
 fdub
 fortuitousness
+fearless
 fe
 forksmith
 feaberry
@@ -5825,7 +5826,6 @@ floatman
 floatsman
 floatsmen
 floatstone
-fearless
 flob
 filterman
 flobby
