@@ -12896,7 +12896,6 @@ churlishly
 churlishness
 churm
 churn
-churnability
 churnable
 churned
 cladophoraceae
@@ -20713,6 +20712,7 @@ compliancies
 consimilarity
 compliant
 compliantly
+churnability
 complicacy
 complicant
 complicate
