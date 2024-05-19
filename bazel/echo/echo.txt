@@ -9990,7 +9990,6 @@ esthesioblast
 esthesiogen
 esthesiogeny
 empusa
-electrofuse
 esthesiogenic
 evisceration
 enamelware
@@ -13671,6 +13670,7 @@ extinctions
 extinctive
 extincts
 extine
+electrofuse
 extinguised
 escobedo
 ententophil
