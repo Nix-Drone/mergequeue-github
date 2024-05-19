@@ -10715,7 +10715,6 @@ addlement
 ammocoete
 ammocoetes
 ammocoetid
-ammocoetidae
 abides
 ammocoetoid
 ammodyte
@@ -15490,6 +15489,7 @@ antimachine
 antimagistratical
 antimagnetic
 antimalaria
+ammocoetidae
 antimalarial
 apiculation
 antimale
