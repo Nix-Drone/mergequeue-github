@@ -10187,7 +10187,6 @@ biofeedback
 blackshirt
 blackshirted
 barkle
-blacksmith
 blacksmithing
 beastdom
 blacksmiths
@@ -14467,6 +14466,7 @@ branchiopodous
 branchiopoo
 baktun
 branchiopulmonata
+blacksmith
 branchiosaur
 branchiosauria
 branchiosaurian
