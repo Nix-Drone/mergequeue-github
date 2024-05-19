@@ -12662,7 +12662,6 @@ broomy
 booklift
 booklike
 bookling
-booklists
 booklore
 bhavan
 bioecologic
@@ -17676,6 +17675,7 @@ burgoos
 bhakta
 burgraves
 burgraviate
+booklists
 burgs
 burgul
 burgundy
