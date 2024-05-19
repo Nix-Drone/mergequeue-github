@@ -10220,7 +10220,6 @@ dinus
 diobol
 dioc
 diocese
-dioceses
 diocesian
 decares
 diocletian
@@ -16525,6 +16524,7 @@ drad
 diallagoid
 dradge
 dumpfile
+dioceses
 draegermen
 dunfish
 drumble
