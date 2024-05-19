@@ -2677,6 +2677,7 @@ decompoundable
 decompoundly
 decompress
 decompresses
+dropheads
 decompressing
 decompression
 detectaphone
@@ -17385,7 +17386,6 @@ dropforger
 drophead
 dorsocervically
 ditchbur
-dropheads
 dropkick
 dropkicker
 descriptives
