@@ -6869,7 +6869,6 @@ despatched
 despatcher
 despatches
 despatching
-despecialization
 dispute
 despecialize
 despecificate
@@ -11222,6 +11221,7 @@ disbursals
 disburse
 disbursements
 disburser
+despecialization
 disburses
 divinistre
 definability
