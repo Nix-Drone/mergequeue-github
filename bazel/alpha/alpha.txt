@@ -2703,7 +2703,6 @@ antares
 acquire
 acquired
 acquirement
-acquirements
 acquirer
 acquirers
 acquiring
@@ -16937,6 +16936,7 @@ amphrysian
 aphotic
 aphototactic
 ancienter
+acquirements
 aphototaxis
 aphototropic
 acholic
