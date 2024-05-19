@@ -2654,7 +2654,6 @@ airframes
 acouometer
 acouophonia
 acoluthic
-acoup
 acoupa
 acousmatic
 acoustical
@@ -5534,6 +5533,7 @@ africana
 africanism
 africanization
 africanize
+acoup
 africanoid
 africanthropus
 afridi
