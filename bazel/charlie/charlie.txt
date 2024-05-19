@@ -1604,7 +1604,6 @@ calorimetric
 calorimetrical
 calorimetrically
 calorimotor
-calorisator
 calorist
 calorite
 calorize
@@ -4114,6 +4113,7 @@ cardmaker
 cardmaking
 cardo
 cardol
+calorisator
 cardon
 cardona
 cardoncillo
