@@ -1781,7 +1781,6 @@ gastroduodenitis
 gastroduodenoscopy
 gastroduodenostomy
 gastroduodenotomy
-gastroelytrotomy
 gastroenteralgia
 gibson
 gastroenteric
@@ -4712,6 +4711,7 @@ greatheart
 gyrene
 gyrenes
 gyrfalcon
+gastroelytrotomy
 graphometry
 guillotiner
 grinter
