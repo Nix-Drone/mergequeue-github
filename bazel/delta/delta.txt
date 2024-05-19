@@ -10594,6 +10594,7 @@ diplomats
 diplonema
 detroit
 diplonephridia
+destroys
 detritus
 dunnaged
 diploneural
@@ -14932,7 +14933,6 @@ dogfight
 depravedly
 dogfighting
 delichon
-destroys
 dogfights
 dogfish
 dogfoot
