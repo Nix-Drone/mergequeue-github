@@ -2452,7 +2452,6 @@ ballyhooer
 bullpout
 barcarole
 betatter
-barcaroles
 becut
 barcarolle
 barcas
@@ -13695,6 +13694,7 @@ bovey
 bovenland
 bovidae
 bovids
+barcaroles
 bovine
 bovinely
 bovinity
