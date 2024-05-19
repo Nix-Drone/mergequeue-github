@@ -1695,6 +1695,7 @@ fcp
 foehns
 familiar
 friars
+frazer
 four
 fdnames
 fdtype
@@ -9603,7 +9604,6 @@ fraxin
 fraxinus
 frazed
 fiscus
-frazer
 frazing
 frazzle
 fuzzing
