@@ -15648,7 +15648,6 @@ classmate
 classmen
 classroom
 classrooms
-classwise
 classwork
 clastic
 clastics
@@ -29924,6 +29923,7 @@ crosstie
 crossties
 crosstoes
 crosstown
+classwise
 crosstrack
 crosstree
 crossway
