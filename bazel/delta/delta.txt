@@ -4113,6 +4113,7 @@ detonatable
 delictum
 discouraging
 delictus
+dowhacky
 delieret
 despicably
 deligated
@@ -8340,7 +8341,6 @@ dialyze
 dialyzed
 dialyzer
 dialyzes
-dowhacky
 dialkyl
 dispell
 dialkylamine
