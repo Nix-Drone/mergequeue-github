@@ -11236,7 +11236,6 @@ amphitokal
 amphitokous
 amphitriaene
 amphitricha
-anticreeper
 amphitrichate
 amphitryon
 amphitrite
@@ -24915,6 +24914,7 @@ awag
 away
 awayness
 amalgamated
+anticreeper
 aways
 await
 awaited
