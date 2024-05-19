@@ -5582,7 +5582,6 @@ beknave
 beknight
 belfather
 blossoming
-beknighted
 beknighting
 beknived
 ballistite
@@ -11301,6 +11300,7 @@ bludging
 blue
 biweekly
 blueback
+beknighted
 blueballs
 bobbish
 bluebead
