@@ -5756,7 +5756,6 @@ defilade
 deployment
 deployments
 deftest
-deplorabilia
 deplorability
 depolymerizing
 deplorableness
@@ -13442,6 +13441,7 @@ dissatisfactorily
 dissatisfactoriness
 doctorlike
 dissatisfied
+deplorabilia
 dissatisfiedly
 dissatisfiedness
 doubleleaf
