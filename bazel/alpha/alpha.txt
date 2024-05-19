@@ -12057,7 +12057,6 @@ anatomicals
 anatomicobiological
 anatomicochirurgical
 anatomicomedical
-anatomicopathologic
 anatomicopathological
 acronyms
 anatomicophysiologic
@@ -15630,6 +15629,7 @@ anoxemic
 antimonarchistic
 antimonarchists
 antimonate
+anatomicopathologic
 antimony
 attentional
 adventuresomeness
