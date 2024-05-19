@@ -2345,7 +2345,6 @@ evasion
 electroceramic
 electrochemical
 electrochemically
-electrochemistry
 electrochronometer
 equison
 electrochronometric
@@ -8411,6 +8410,7 @@ epitomator
 equivocating
 epitome
 epitomes
+electrochemistry
 epitomic
 epitomical
 epitomically
