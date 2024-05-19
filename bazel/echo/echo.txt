@@ -2307,7 +2307,6 @@ electrine
 electrizable
 electrization
 earthenware
-electro
 electroacoustic
 ecblastpsis
 electroacoustical
@@ -10578,6 +10577,7 @@ etta
 encrypted
 ending
 eremophyte
+electro
 ettercap
 ettirone
 ettle
