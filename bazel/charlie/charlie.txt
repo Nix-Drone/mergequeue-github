@@ -9226,7 +9226,6 @@ chasses
 chasseurs
 chassignite
 coachful
-chassis
 chemisorptive
 chastacosta
 chaste
@@ -24954,6 +24953,7 @@ cordelia
 cordeliere
 cordelle
 cadmean
+chassis
 cordelled
 cordelling
 corder
