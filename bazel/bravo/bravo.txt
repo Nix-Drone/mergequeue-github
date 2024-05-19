@@ -7907,7 +7907,6 @@ bible
 bibles
 bohmite
 biblic
-bipunctal
 biblical
 biblicality
 biblically
@@ -13202,6 +13201,7 @@ bowler
 bosslet
 bossship
 bonnyvis
+bipunctal
 bevellers
 bosniac
 bhaiachari
