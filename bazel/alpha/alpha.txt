@@ -6959,7 +6959,6 @@ apostolic
 airspeed
 airspeeds
 airstream
-akinetic
 allegory
 airstrip
 airstrips
@@ -13918,6 +13917,7 @@ adelia
 anotta
 anotus
 anounou
+akinetic
 anour
 anourous
 asher
