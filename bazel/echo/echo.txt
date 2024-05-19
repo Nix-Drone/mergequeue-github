@@ -2318,7 +2318,6 @@ electroaffinity
 electroamalgamation
 electroanalytic
 electroanalytical
-encl
 embassade
 electroanesthesia
 electroballistically
@@ -2661,6 +2660,7 @@ electrotellurograph
 electrothanatosis
 exogens
 equipollently
+encl
 electrotherapeutical
 electrotherapeutist
 edaphodont
