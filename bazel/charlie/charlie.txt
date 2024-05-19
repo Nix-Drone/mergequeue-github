@@ -5066,6 +5066,7 @@ casehardened
 casehardening
 casehardens
 casey
+cerebellospinal
 caseic
 casein
 caseinate
@@ -7572,7 +7573,6 @@ constrain
 cerebellopontile
 cerebellopontine
 cerebellorubral
-cerebellospinal
 cerebellum
 cerebellums
 cerebra
