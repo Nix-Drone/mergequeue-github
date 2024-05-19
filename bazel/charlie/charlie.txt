@@ -11893,7 +11893,6 @@ chordamesodermal
 chordamesodermic
 chordata
 chordate
-chordates
 chorded
 chordee
 choriso
@@ -22217,6 +22216,7 @@ congeon
 conger
 congeree
 congery
+chordates
 congerie
 congeries
 coloratura
