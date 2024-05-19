@@ -5782,6 +5782,7 @@ agallochs
 afunction
 agallochum
 agallop
+alabaster
 agalma
 antipeptone
 agalmatolite
@@ -7200,7 +7201,6 @@ alabamine
 acetoin
 alabandine
 alabarch
-alabaster
 alabastoi
 alabastra
 alabastrian
