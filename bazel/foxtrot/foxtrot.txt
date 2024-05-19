@@ -833,7 +833,6 @@ fanion
 flusher
 furtiveness
 footlike
-fanioned
 fortes
 fanions
 fosters
@@ -4685,6 +4684,7 @@ finalizations
 flabbergasting
 flabbergastingly
 flabbergasts
+fanioned
 flabel
 flabella
 flabellate
