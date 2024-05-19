@@ -12498,6 +12498,7 @@ anemometer
 anemometers
 anemometrical
 avoided
+astay
 anemometrically
 asculae
 anemometrograph
@@ -21972,7 +21973,6 @@ astable
 astacian
 astacidae
 astacus
-astay
 astakiwi
 astalk
 astarboard

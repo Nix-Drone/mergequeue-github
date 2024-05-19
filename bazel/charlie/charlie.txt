@@ -8997,7 +8997,6 @@ chargeman
 charger
 charges
 chargeship
-chargfaires
 charybdian
 charybdis
 charicleia
@@ -31156,6 +31155,7 @@ cuprite
 cuprites
 cuproammonium
 cunningly
+chargfaires
 cuprobismutite
 cytherella
 cuproiodargyrite
