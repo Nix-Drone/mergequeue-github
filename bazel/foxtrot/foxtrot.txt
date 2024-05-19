@@ -648,6 +648,7 @@ falstaffian
 fandango
 faltboat
 flugelmen
+fightable
 faltche
 faltere
 folksier
@@ -3475,7 +3476,6 @@ figging
 figgle
 figgum
 funniment
-fightable
 forel
 fighteress
 fanwort
