@@ -6216,7 +6216,6 @@ enplaned
 extraphysiological
 enplanes
 enquarter
-enqueue
 entered
 enqueued
 enquicken
@@ -8408,6 +8407,7 @@ ensue
 epitomate
 excubittoria
 epitomator
+enqueue
 equivocating
 epitome
 epitomes
