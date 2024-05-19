@@ -6280,6 +6280,7 @@ fluidextract
 fluidglycerate
 fluidible
 forcepslike
+furrower
 fluidic
 fosslology
 forint
@@ -11498,7 +11499,6 @@ furriness
 feudist
 flaccidly
 furrowed
-furrower
 furfurylidene
 fortitudes
 furrowers
