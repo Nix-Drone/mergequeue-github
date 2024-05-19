@@ -13829,7 +13829,6 @@ bowsing
 bowsprit
 bowsprits
 brokenhearted
-bowstave
 bowstring
 bowstringed
 bowstrings
@@ -14909,6 +14908,7 @@ boarstaff
 breathful
 breathy
 burleys
+bowstave
 breathier
 breathily
 bigot
