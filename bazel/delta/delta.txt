@@ -5865,6 +5865,7 @@ deposits
 depositum
 daimon
 doumaist
+downloading
 decasualise
 deposure
 depot
@@ -16319,7 +16320,6 @@ downlinked
 downlinking
 downloadable
 downloaded
-downloading
 downloads
 downlooked
 downlooker
