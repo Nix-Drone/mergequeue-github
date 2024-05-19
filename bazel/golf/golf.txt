@@ -5306,7 +5306,6 @@ geodynamicist
 gleams
 gifture
 glean
-gleanable
 grayback
 gleaned
 gleaner
@@ -6455,6 +6454,7 @@ gobiesox
 gobiid
 gnotobiotic
 gobylike
+gleanable
 granddam
 gorier
 gobinist
