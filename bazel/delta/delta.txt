@@ -12759,7 +12759,6 @@ dismiss
 dismissable
 dismissal
 dismissals
-dismissed
 dismisser
 doormaking
 dismissers
@@ -18482,6 +18481,7 @@ diumvirate
 duress
 duresses
 duressor
+dismissed
 deglutitive
 duret
 duretto
