@@ -8106,7 +8106,6 @@ chaetosomatidae
 chaetosomidae
 cabocle
 codrus
-chaetotactic
 chaetotaxy
 chaetura
 chafe
@@ -29252,6 +29251,7 @@ cryptodira
 cryptodiran
 cookings
 calcify
+chaetotactic
 cryptodire
 cryptodirous
 cryptodouble
