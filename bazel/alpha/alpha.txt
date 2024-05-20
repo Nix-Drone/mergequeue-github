@@ -9053,7 +9053,6 @@ allwhither
 allwork
 allworthy
 audios
-alma
 almacantar
 almacenista
 almacigo
@@ -15590,6 +15589,7 @@ antimissioner
 antimystic
 antimystical
 antimystically
+alma
 afferent
 agentries
 antimysticalness
