@@ -1396,7 +1396,6 @@ efferents
 efferous
 extraocular
 effervesced
-effervescence
 effervescency
 effervescent
 effervescently
@@ -4752,6 +4751,7 @@ etherealize
 encyrtidae
 elasticate
 encist
+effervescence
 encyst
 encysted
 electralize
