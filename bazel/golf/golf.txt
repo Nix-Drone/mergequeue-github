@@ -2644,7 +2644,6 @@ genarchaship
 gonangiums
 gendarme
 gendarmery
-geobotanical
 gendarmerie
 gendarmes
 gender
@@ -6683,6 +6682,7 @@ golfing
 gie
 glazer
 golfings
+geobotanical
 golfs
 golgi
 grit
