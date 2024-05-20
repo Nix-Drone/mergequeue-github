@@ -504,7 +504,6 @@ galeopsis
 glossoncus
 galeorchis
 goner
-geelhout
 galeorhinidae
 galeorhinus
 gamont
@@ -7711,6 +7710,7 @@ grafts
 graham
 gobangs
 grahamism
+geelhout
 grorudite
 gormed
 glaciolacustrine
