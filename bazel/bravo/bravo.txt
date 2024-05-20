@@ -4858,7 +4858,6 @@ brazenface
 baikerinite
 beshrouded
 bedstraw
-bedstraws
 bedstring
 bedswerver
 bedtick
@@ -9376,6 +9375,7 @@ birdbath
 birdbaths
 birdbrained
 birdbrains
+bedstraws
 besogne
 birdcage
 baroscope
