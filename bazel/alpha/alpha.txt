@@ -13640,7 +13640,6 @@ annuli
 annullable
 annullate
 annullation
-annulled
 annuller
 annulling
 annulment
@@ -17415,6 +17414,7 @@ apositia
 apositic
 aposoro
 apospory
+annulled
 apospories
 archpatriarch
 aposporogony
