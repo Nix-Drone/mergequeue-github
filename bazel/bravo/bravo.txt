@@ -5932,7 +5932,6 @@ belonger
 belonging
 basisphenoid
 bailiffship
-belongs
 belonid
 belonidae
 belonite
@@ -12688,6 +12687,7 @@ bookplates
 barwise
 bookpress
 bookrack
+belongs
 bookracks
 baronry
 barrulety
