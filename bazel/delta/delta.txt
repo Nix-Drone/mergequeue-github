@@ -3715,6 +3715,7 @@ dehypnotize
 dehair
 deheathenize
 dehematize
+disarmed
 decard
 departement
 disoxygenate
@@ -11060,7 +11061,6 @@ depair
 digitise
 dices
 disarmature
-disarmed
 disarmer
 disennui
 disarmers
