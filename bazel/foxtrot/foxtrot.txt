@@ -4186,7 +4186,6 @@ firedrake
 firefall
 firefang
 firefanged
-firefangs
 firefighter
 firefighting
 foreship
@@ -6166,6 +6165,7 @@ floweret
 flowerfly
 floweriest
 flouse
+firefangs
 flowerily
 flirtling
 floweriness
