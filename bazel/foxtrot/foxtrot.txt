@@ -248,7 +248,6 @@ faculty
 font
 frags
 faculties
-facultize
 firmest
 forestall
 facundity
@@ -1085,6 +1084,7 @@ farmerlike
 farmership
 farmhold
 farmhouse
+facultize
 feronia
 farmhousey
 fontinalaceae
