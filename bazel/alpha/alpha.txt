@@ -5302,7 +5302,6 @@ affied
 affies
 affying
 affile
-affiliable
 addio
 affiliate
 affiliated
@@ -11087,6 +11086,7 @@ astrogator
 amphictyonic
 amphictyonies
 amphictyons
+affiliable
 amphid
 amphide
 astrosphere
