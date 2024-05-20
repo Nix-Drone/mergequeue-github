@@ -1277,6 +1277,7 @@ ethnobiology
 eaceworm
 eegrass
 emulsion
+extraboldface
 eeyuch
 equiv
 eel
@@ -3707,7 +3708,6 @@ embrittled
 embrittling
 embryulci
 embryulcia
-extraboldface
 embryulculci
 expositionary
 etagre
