@@ -6746,7 +6746,6 @@ desk
 deskbound
 deskill
 desklike
-deskman
 deskmen
 desks
 desktop
@@ -16758,6 +16757,7 @@ downline
 drapes
 drapet
 draping
+deskman
 drapping
 decapods
 drawhorse
