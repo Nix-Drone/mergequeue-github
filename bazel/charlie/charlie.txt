@@ -7340,7 +7340,6 @@ cucujidae
 cephaloclast
 cephalocone
 cephaloconic
-cephalodia
 cephalodymia
 cephalodymus
 cephalodiscid
@@ -28923,6 +28922,7 @@ chandrakanta
 cricoarytenoid
 cricoid
 cricoids
+cephalodia
 cricopharyngeal
 cricothyreoid
 cricothyreotomy
