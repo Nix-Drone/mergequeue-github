@@ -1880,7 +1880,6 @@ bipunctate
 band
 bandage
 bandaged
-bandager
 bandages
 bandaging
 brakes
@@ -11590,6 +11589,7 @@ boatels
 boatheader
 boathook
 boathouse
+bandager
 boathouses
 boatyard
 boatie
