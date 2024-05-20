@@ -1593,6 +1593,7 @@ ballets
 ballfield
 ballflower
 ballgame
+bohor
 ballgames
 ballgowns
 ballhausplatz
@@ -11949,7 +11950,6 @@ bohemium
 braula
 bohereen
 bohireen
-bohor
 bohora
 bohorok
 beltis
