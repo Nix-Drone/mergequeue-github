@@ -11955,7 +11955,6 @@ disenabling
 disenact
 disenamor
 disenchant
-disenchanted
 disenchanter
 disenchanting
 disenchantingly
@@ -18277,6 +18276,7 @@ dunstable
 digressing
 dunster
 dithyrambs
+disenchanted
 dunstone
 dunt
 dunted
