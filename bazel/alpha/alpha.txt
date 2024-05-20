@@ -1690,7 +1690,6 @@ accountableness
 alicyclic
 accountably
 accountancy
-accountant
 accountants
 accountantship
 accounted
@@ -4661,6 +4660,7 @@ advisory
 advisories
 autoirrigation
 advisorily
+accountant
 advisors
 advitant
 advocacy
