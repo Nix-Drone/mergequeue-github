@@ -2189,6 +2189,7 @@ banquets
 banquette
 bans
 bansalague
+boardings
 bansela
 banshies
 banstickle
@@ -11545,7 +11546,6 @@ boarder
 boarders
 boardy
 boardinghouse
-boardings
 boardly
 boardlike
 billhead

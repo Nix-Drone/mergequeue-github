@@ -5457,6 +5457,7 @@ fleshiness
 fourniture
 fleshing
 fleshings
+fulmine
 formatters
 fanjets
 fleshless
@@ -8810,7 +8811,6 @@ forwear
 february
 forwearied
 forwearying
-fulmine
 fribbled
 forweend
 forweep
