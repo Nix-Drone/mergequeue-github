@@ -2260,7 +2260,6 @@ gearcases
 gearman
 gears
 guernseys
-gearset
 gearshift
 gearshifts
 gearwheels
@@ -10211,6 +10210,7 @@ guillem
 guillemet
 gynecophore
 guilandina
+gearset
 guillermo
 guillevat
 guillochee
