@@ -5465,7 +5465,6 @@ affronts
 anticlnoria
 afft
 affuse
-affusion
 affusions
 afghan
 afghani
@@ -8603,6 +8602,7 @@ alley
 alleyite
 alleys
 alleyway
+affusion
 anarchs
 allele
 alleles
