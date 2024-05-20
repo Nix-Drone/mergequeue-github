@@ -8815,7 +8815,6 @@ broadswords
 binal
 baconic
 bugologist
-byname
 binaphthyl
 binary
 binaries
@@ -11129,6 +11128,7 @@ bloodwood
 bloodworm
 blab
 bloodwort
+byname
 brubru
 bloodworthy
 blearily
