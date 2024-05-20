@@ -8992,7 +8992,6 @@ dicruridae
 dyable
 dict
 dicta
-dictaen
 dictagraph
 dictamen
 dictamnus
@@ -12968,6 +12967,7 @@ dispeller
 dorsimedian
 dispells
 dispels
+dictaen
 decliners
 danegeld
 dispence
