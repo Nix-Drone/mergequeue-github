@@ -16840,7 +16840,6 @@ clubfellow
 clubfist
 clubfisted
 clubfoot
-clubfooted
 clubhand
 clubhands
 clubhaul
@@ -17346,6 +17345,7 @@ coaxer
 canneries
 coaxers
 coaxes
+clubfooted
 coaxy
 cordigeri
 coaxial
