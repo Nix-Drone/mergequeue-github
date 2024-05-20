@@ -16863,6 +16863,7 @@ drawshave
 drawsheet
 drawspring
 drawstop
+dryfoot
 dispersible
 dribbet
 dropforging
@@ -17103,7 +17104,6 @@ dryfarmer
 dryfat
 dingwall
 dryfist
-dryfoot
 driftage
 driftages
 dispensated
