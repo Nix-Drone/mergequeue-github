@@ -11557,7 +11557,6 @@ cholecystectomized
 cholecystenterorrhaphy
 cholecystenterostomy
 cholecystgastrostomy
-cholecystic
 cholecystis
 cholecystitis
 cozies
@@ -14222,6 +14221,7 @@ circularization
 circularizations
 circularized
 chartology
+cholecystic
 chromophotolithograph
 circularizers
 circularizes
