@@ -5324,6 +5324,7 @@ autogeneal
 affinite
 aggerate
 affinity
+antileveling
 affinities
 antifanatic
 affinition
@@ -15427,7 +15428,6 @@ antilens
 antileptic
 antilethargic
 antileukemic
-antileveling
 antilevelling
 autosuggestive
 antilia
