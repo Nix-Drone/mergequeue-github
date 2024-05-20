@@ -12569,6 +12569,7 @@ disjunctive
 disjunctively
 disjunctor
 disjuncts
+deperm
 dereferences
 disjuncture
 disjune
@@ -17817,7 +17818,6 @@ dollfish
 duckpond
 dishouse
 ducks
-deperm
 dotiness
 duckstone
 decussion
