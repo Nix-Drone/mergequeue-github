@@ -2477,6 +2477,7 @@ deckpipe
 decks
 dulls
 deckswabber
+derive
 decl
 declaim
 dichorisandra
@@ -5872,7 +5873,6 @@ desistance
 depotentiate
 directorship
 depots
-derive
 depr
 deliberatively
 depravation
