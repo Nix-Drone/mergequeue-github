@@ -5640,7 +5640,6 @@ dependency
 dependencies
 depending
 dependingly
-depends
 defacingly
 dukeship
 depeopled
@@ -7862,6 +7861,7 @@ dewrot
 dews
 dewtry
 diamondbacks
+depends
 dietician
 defect
 dewworm
