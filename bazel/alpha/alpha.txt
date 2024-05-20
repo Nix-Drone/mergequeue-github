@@ -4370,6 +4370,7 @@ adrenocortical
 adrenocorticosteroid
 aurorae
 adrenocorticotrophic
+adversative
 ammonolysis
 adrenocorticotropic
 adrenolysis
@@ -4595,7 +4596,6 @@ adversary
 adversaria
 adversaries
 adversarious
-adversative
 adversatively
 adverse
 adversed
