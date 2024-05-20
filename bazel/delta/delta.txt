@@ -686,7 +686,6 @@ damone
 damonico
 damosel
 damosels
-decapitalize
 damp
 dampcourse
 damped
@@ -12348,6 +12347,7 @@ dishmop
 dishome
 dishonest
 dishonesty
+decapitalize
 dishonesties
 dishonestly
 dishonor
