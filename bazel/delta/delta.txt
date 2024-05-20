@@ -4946,7 +4946,6 @@ demonry
 divines
 demonship
 demonstrability
-demonstrable
 destructing
 demonstrableness
 demonstrably
@@ -6413,6 +6412,7 @@ derrises
 derth
 dertra
 dertrum
+demonstrable
 deruinate
 dissimulating
 derust
