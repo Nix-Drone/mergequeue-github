@@ -1525,7 +1525,6 @@ deadlines
 deadliness
 deadlock
 deadlocking
-deadman
 direfulness
 deadmelt
 deadnesses
@@ -10635,6 +10634,7 @@ depthometer
 dismayed
 diplosphenal
 diplosphene
+deadman
 doradilla
 diplospondylism
 diplostemonous
