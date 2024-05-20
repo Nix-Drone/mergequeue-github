@@ -18800,6 +18800,7 @@ archcritic
 archcrown
 archcupbearer
 archd
+artifice
 archdapifer
 archdeacon
 archdeaconess
@@ -20721,7 +20722,6 @@ artifactual
 artifactually
 antipellagric
 artifex
-artifice
 artificer
 artificers
 artificership
