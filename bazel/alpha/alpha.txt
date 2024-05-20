@@ -2524,7 +2524,6 @@ acknowledgeable
 acknowledged
 afoam
 acknowledgedly
-acknowledgements
 acknowledger
 acknowledgers
 acknowledges
@@ -6209,6 +6208,7 @@ aglycons
 aglycosuric
 aglimmer
 aglint
+acknowledgements
 aglipayan
 aglipayano
 aglypha
