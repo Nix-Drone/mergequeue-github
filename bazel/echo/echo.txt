@@ -5070,7 +5070,6 @@ edicts
 endobiotic
 endoblast
 endoblastic
-endobronchial
 enunciation
 eucaryotic
 epipterygoid
@@ -5131,6 +5130,7 @@ endocrine
 endocrines
 endocrinic
 endocrinism
+endobronchial
 etatisms
 endocrinology
 endocrinologic
