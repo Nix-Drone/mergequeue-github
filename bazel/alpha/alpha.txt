@@ -1758,7 +1758,6 @@ accrue
 accrued
 accruement
 accruer
-accrues
 accruing
 accts
 aventail
@@ -2526,6 +2525,7 @@ afoam
 acknowledgedly
 acknowledgements
 acknowledger
+accrues
 acknowledgers
 acknowledges
 acknowledging
