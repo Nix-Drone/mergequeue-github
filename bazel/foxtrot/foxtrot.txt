@@ -1175,7 +1175,6 @@ foreguts
 fasc
 fascinative
 fasces
-fascet
 foldskirt
 foraminiferous
 fingerlike
@@ -4351,6 +4350,7 @@ fishberries
 fishboat
 fishbolt
 fishbolts
+fascet
 falchions
 fishbowls
 fisheater
