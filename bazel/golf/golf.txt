@@ -3918,7 +3918,6 @@ goyle
 glave
 gibsons
 gibstaff
-gibus
 gibuses
 giddap
 guideless
@@ -9544,6 +9543,7 @@ gymnocalycium
 growan
 gordiacean
 granulitic
+gibus
 growed
 grower
 generatively
