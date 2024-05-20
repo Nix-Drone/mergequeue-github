@@ -7877,7 +7877,6 @@ alerse
 alert
 alerta
 anorak
-alerted
 anabasis
 alertedly
 arrivederci
@@ -13581,6 +13580,7 @@ annomination
 annonaceae
 annonaceous
 annot
+alerted
 annotater
 amputated
 annotates
