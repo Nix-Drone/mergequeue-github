@@ -5078,7 +5078,6 @@ aerose
 aerosiderolite
 amphib
 aerosol
-aerosolization
 aerosolize
 aerosolized
 aerosols
@@ -12897,6 +12896,7 @@ anglomania
 anglophil
 anglophile
 anglophiles
+aerosolization
 acinetaria
 anglophilia
 apparel
