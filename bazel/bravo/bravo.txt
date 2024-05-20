@@ -947,6 +947,7 @@ byronics
 bagpiped
 biophysiological
 bagpiper
+bishophood
 bagpipers
 bagpipes
 bagpiping
@@ -9643,7 +9644,6 @@ bishopdom
 bishoped
 biborate
 bishopful
-bishophood
 bishopless
 bishoplet
 bishoplike
