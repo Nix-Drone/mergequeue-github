@@ -9605,7 +9605,6 @@ bisector
 bisectors
 bisectrices
 busybodyness
-bisects
 bisegment
 bisellium
 banalize
@@ -10338,6 +10337,7 @@ beetmister
 blanketer
 bimestrial
 blanketers
+bisects
 blankety
 blanketing
 betowel
