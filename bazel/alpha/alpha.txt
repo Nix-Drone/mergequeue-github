@@ -234,7 +234,6 @@ abbreviators
 abbreviature
 abbroachment
 abc
-abcissa
 abcoulomb
 abd
 abdali
@@ -21539,6 +21538,7 @@ atrienses
 asquat
 asqueal
 aenean
+abcissa
 authorcraft
 asquint
 asquirm
