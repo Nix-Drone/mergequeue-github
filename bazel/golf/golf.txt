@@ -5721,6 +5721,7 @@ gyrochrome
 gravestone
 globulysis
 globulite
+gynoecium
 globulous
 globus
 goldseed
@@ -6013,7 +6014,6 @@ geaster
 glucagon
 guarea
 glucagons
-gynoecium
 glucate
 glucemia
 galipoidine
