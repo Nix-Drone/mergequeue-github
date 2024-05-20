@@ -5625,7 +5625,6 @@ depeculate
 depeinct
 depel
 depencil
-depend
 dependability
 deadhead
 dependabilities
@@ -9979,6 +9978,7 @@ demethylchlortetracycline
 diapaused
 din
 dynactinometer
+depend
 dynagraph
 dynam
 dynametric
