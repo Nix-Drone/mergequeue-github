@@ -2262,7 +2262,6 @@ gears
 guernseys
 gearset
 gearshift
-gearshifts
 gearwheels
 glistening
 gease
@@ -9160,6 +9159,7 @@ griqualander
 grisailles
 grisbet
 grysbok
+gearshifts
 goldenly
 grise
 griseous
