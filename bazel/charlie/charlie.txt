@@ -7367,7 +7367,6 @@ cephalomotor
 cephalon
 clysis
 cephalonasal
-cephalopathy
 cephalopharyngeal
 cephalophyma
 cephalophine
@@ -13278,6 +13277,7 @@ cyclic
 cyclical
 cyclicality
 cyclically
+cephalopathy
 cyclicalness
 cyclicism
 cyclicity
