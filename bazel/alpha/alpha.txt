@@ -19182,7 +19182,6 @@ archsee
 archsewer
 archshepherd
 archsin
-archsynagogue
 archspy
 archspirit
 archsteward
@@ -21639,6 +21638,7 @@ assembl
 assemblable
 artiodactyl
 assemblage
+archsynagogue
 assemblance
 assemble
 assembled
