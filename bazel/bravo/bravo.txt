@@ -12242,7 +12242,6 @@ boltwork
 bolus
 boluses
 benn
-bomb
 bombable
 bombacaceae
 bombace
@@ -16427,6 +16426,7 @@ brusker
 bruskest
 burrhel
 bruskly
+bomb
 bruskness
 benames
 barbeled
