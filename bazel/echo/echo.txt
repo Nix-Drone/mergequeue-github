@@ -4609,7 +4609,6 @@ encephalotome
 encephalotomy
 encephalotomies
 earths
-encephalous
 embeggar
 endoplasma
 enchafe
@@ -12272,6 +12271,7 @@ epiblastema
 execratively
 execrator
 emusive
+encephalous
 execrators
 exect
 executable
