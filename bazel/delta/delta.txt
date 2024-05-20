@@ -5743,6 +5743,7 @@ deplenish
 depletable
 depleteable
 depleted
+descendant
 depleting
 depletion
 depletions
@@ -16129,7 +16130,6 @@ dourness
 dournesses
 douroucouli
 douse
-descendant
 douser
 dousers
 dispurpose
