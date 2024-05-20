@@ -3308,7 +3308,6 @@ eurycerotidae
 emandibulate
 emane
 emanium
-emarcid
 emarginate
 emarginated
 eucalyptian
@@ -8661,6 +8660,7 @@ enwrapped
 endocannibalism
 equilibrations
 equilibrative
+emarcid
 equilibrator
 equilibria
 equilibrial
