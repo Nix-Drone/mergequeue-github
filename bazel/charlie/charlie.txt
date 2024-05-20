@@ -5333,6 +5333,7 @@ castles
 cortaderia
 china
 castlet
+commandoman
 chairwoman
 castleward
 castlewards
@@ -19925,7 +19926,6 @@ commandments
 commando
 commandoes
 cordaites
-commandoman
 commandos
 commandress
 commandry
