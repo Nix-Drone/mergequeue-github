@@ -2845,7 +2845,6 @@ genitive
 genitocrural
 geniculum
 glug
-grasps
 grouses
 genitor
 gemmoid
@@ -9118,6 +9117,7 @@ gryphons
 gryphosaurus
 griphus
 gripier
+grasps
 gripman
 girderless
 gripment
