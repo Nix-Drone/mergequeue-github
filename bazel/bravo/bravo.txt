@@ -12948,7 +12948,6 @@ border
 bordereau
 bowstaff
 bordered
-borderer
 borderers
 bordering
 borderings
@@ -13420,6 +13419,7 @@ bottu
 barrelsful
 bradykinesis
 botuliform
+borderer
 botulinal
 botulins
 burghemot
