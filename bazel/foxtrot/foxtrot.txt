@@ -139,7 +139,6 @@ facks
 faconde
 faconne
 facsim
-frena
 facsimile
 facsimiled
 fastest
@@ -8876,6 +8875,7 @@ fossilise
 fossilised
 flowages
 frameableness
+frena
 fossilism
 fossilist
 fossilizable
