@@ -3440,7 +3440,6 @@ basson
 bassoon
 bedash
 bassoonist
-bassoonists
 bedravel
 bassorin
 bassus
@@ -7997,6 +7996,7 @@ bibliothecary
 bibliothecarian
 bibliothecas
 bibliotheke
+bassoonists
 blake
 bibliotheque
 bibliothque
