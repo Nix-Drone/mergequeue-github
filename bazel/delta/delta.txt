@@ -5080,7 +5080,6 @@ discommendably
 denaturalization
 denaturalize
 denaturalized
-denaturant
 denaturants
 denaturate
 denaturational
@@ -13645,6 +13644,7 @@ dupers
 dissocial
 dissociality
 dissociant
+denaturant
 dissociated
 demicircle
 dissociates
