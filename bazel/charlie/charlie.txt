@@ -19681,7 +19681,6 @@ combination
 combinational
 combinations
 combinative
-combinator
 combinatory
 combinatorial
 combinatorially
@@ -28107,6 +28106,7 @@ craniotabes
 craniotomy
 craniotomies
 craniotopography
+combinator
 craniovertebral
 cranium
 craniums
