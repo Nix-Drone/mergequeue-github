@@ -564,7 +564,6 @@ damage
 damageability
 damageably
 damaged
-damagement
 damageous
 dao
 damager
@@ -12480,6 +12479,7 @@ dungyard
 ditrematous
 disinheritances
 dhole
+damagement
 disinheriting
 disinherits
 disinhibition
