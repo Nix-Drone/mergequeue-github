@@ -13426,7 +13426,6 @@ cleaners
 cyclostyle
 cyclostoma
 cyclostomata
-cyclostomate
 cyclostomatidae
 charadriidae
 coremia
@@ -23313,6 +23312,7 @@ contacting
 czechoslovakia
 contaction
 contactor
+cyclostomate
 contacts
 contactual
 contactually
