@@ -9931,7 +9931,6 @@ biunial
 bulltoad
 bronchiole
 biuniquely
-biuniqueness
 biunivocal
 biurate
 biurea
@@ -11239,6 +11238,7 @@ bristling
 blowfly
 blowflies
 blowgun
+biuniqueness
 blowguns
 blowhard
 blowhole
