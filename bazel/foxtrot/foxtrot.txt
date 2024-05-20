@@ -4711,6 +4711,7 @@ flacon
 foulminded
 fibrovasal
 foundry
+fallback
 flacons
 flacourtiaceae
 flaffer
@@ -4911,7 +4912,6 @@ finfishes
 flamer
 flamers
 ferneries
-fallback
 flamethrowers
 forcepses
 frankpledge
