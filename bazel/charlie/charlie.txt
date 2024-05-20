@@ -27086,7 +27086,6 @@ countersynod
 countersleight
 counterslope
 countersnarl
-counterspy
 counterspies
 counterspying
 counterstand
@@ -27468,6 +27467,7 @@ calculagraph
 coverer
 campfire
 coverers
+counterspy
 coverings
 coverlet
 counterindoctrination
