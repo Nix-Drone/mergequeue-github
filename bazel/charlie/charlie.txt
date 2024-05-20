@@ -10001,7 +10001,6 @@ chequer
 chequerboard
 chequered
 chequering
-chapatties
 chequers
 chequerwork
 cheques
@@ -30720,6 +30719,7 @@ conepate
 cuke
 cukes
 cul
+chapatties
 culation
 culavamsa
 credits
