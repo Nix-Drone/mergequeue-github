@@ -1791,7 +1791,6 @@ globelike
 gastroenteritis
 gluts
 gastroenteroanastomosis
-gastroenterocolitis
 gastroenterocolostomy
 gastroenterology
 gelatination
@@ -5692,6 +5691,7 @@ globosity
 globous
 gastroplenic
 globousness
+gastroenterocolitis
 globs
 grumps
 globular
