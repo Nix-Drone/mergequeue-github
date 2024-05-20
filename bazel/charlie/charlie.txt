@@ -7364,7 +7364,6 @@ cephalometer
 cephalometric
 cephalomyitis
 cephalomotor
-cephalon
 clysis
 cephalonasal
 cephalopathy
@@ -29272,6 +29271,7 @@ cryptoglaux
 cryptoglioma
 cryptogram
 cryptogramma
+cephalon
 cryptogrammatic
 cryptogrammatical
 cryptogrammatist
