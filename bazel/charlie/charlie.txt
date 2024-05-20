@@ -2900,7 +2900,6 @@ cantonments
 cantons
 countergager
 cantoral
-cantoria
 cantorial
 cantorian
 cantoris
@@ -12594,6 +12593,7 @@ chronogrammatist
 cloture
 conchological
 cytoglobin
+cantoria
 chronogrammic
 chronograph
 chronographer
