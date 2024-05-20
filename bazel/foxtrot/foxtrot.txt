@@ -1074,6 +1074,7 @@ freshening
 furriners
 farmable
 farmed
+floodlike
 farmer
 farmeress
 farmery
@@ -5915,7 +5916,6 @@ flooding
 floodless
 floodlight
 fearlessly
-floodlike
 floodlilit
 floodlit
 floodplain
