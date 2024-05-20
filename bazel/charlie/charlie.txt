@@ -3919,7 +3919,6 @@ carcinomatosis
 cholers
 carcinomatous
 carcinophagous
-carcinopolypus
 carcinosarcoma
 chloralide
 carcinosarcomas
@@ -25352,6 +25351,7 @@ cornhusk
 cornhusker
 chamades
 cornhusking
+carcinopolypus
 cornhusks
 corny
 cornic
