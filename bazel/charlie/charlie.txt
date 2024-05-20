@@ -8455,7 +8455,6 @@ chamal
 chamar
 chambellan
 chamber
-chamberdeacon
 chambered
 chamberer
 catocala
@@ -18325,6 +18324,7 @@ cognizee
 cognizer
 cognizes
 cognizing
+chamberdeacon
 cognizor
 cognomen
 cognomens
