@@ -11417,6 +11417,7 @@ furl
 fatalisms
 furlable
 furlan
+fetch
 filiality
 furlana
 firbolg
@@ -11641,7 +11642,6 @@ fusspot
 funditor
 fusspots
 fustanelle
-fetch
 fusteric
 fioretti
 fustet
