@@ -11609,6 +11609,7 @@ anthropomantic
 ade
 anaesthetics
 anaesthetist
+autosepticemia
 anaesthetization
 anaesthetize
 anaesthetized
@@ -24361,7 +24362,6 @@ autoscope
 autoscopy
 autoscopic
 autosender
-autosepticemia
 amphigonous
 autoserotherapy
 autoserum
