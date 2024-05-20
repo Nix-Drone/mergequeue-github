@@ -3543,7 +3543,6 @@ defrayals
 decadarchy
 defrayed
 defrayer
-defrayers
 defraying
 defraudation
 defrauded
@@ -9864,6 +9863,7 @@ dimethyl
 dimethylamine
 dimethylamino
 dimethylanthranilate
+defrayers
 dimethylbenzene
 disneyland
 dimethyldiketone
