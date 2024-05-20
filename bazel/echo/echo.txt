@@ -6037,7 +6037,6 @@ embossment
 enlinkment
 enlist
 enlisted
-enlistees
 enlister
 epistrophe
 enlistment
@@ -8467,6 +8466,7 @@ epizootiological
 equip
 eglogue
 epizootology
+enlistees
 eplot
 epoch
 epocha
