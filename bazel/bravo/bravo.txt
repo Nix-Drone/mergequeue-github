@@ -9771,7 +9771,6 @@ bistre
 bedtimes
 bistred
 bystreet
-bystreets
 bistres
 bistriate
 bistro
@@ -11576,6 +11575,7 @@ boastfulness
 boastingly
 boastings
 boastive
+bystreets
 boasts
 boatable
 bosket
