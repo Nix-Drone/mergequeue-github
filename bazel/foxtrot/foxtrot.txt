@@ -7159,7 +7159,6 @@ footers
 footfall
 ferruling
 filoselle
-footfalls
 footfarer
 footfault
 forehandedly
@@ -9032,6 +9031,7 @@ fourball
 flaser
 fourberie
 flite
+footfalls
 fourcher
 flipperling
 franklinia
