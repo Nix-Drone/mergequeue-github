@@ -1101,6 +1101,7 @@ fasteners
 fisc
 farms
 farmscape
+fregata
 farmsteads
 farmtown
 farnesol
@@ -9781,7 +9782,6 @@ freezes
 freezy
 freezing
 freezingly
-fregata
 fortitude
 fregit
 fendable
