@@ -4406,7 +4406,6 @@ frondage
 fishling
 fishman
 fishmeals
-fishmonger
 ferociousness
 fishmouth
 fishnet
@@ -9990,6 +9989,7 @@ frictionized
 fictively
 filibusters
 frictionless
+fishmonger
 frictionproof
 frictions
 festering
