@@ -1695,6 +1695,7 @@ fcp
 foehns
 familiar
 friars
+feud
 four
 fdnames
 fdtype
@@ -5015,7 +5016,6 @@ faxes
 flapping
 flywire
 feckless
-feud
 fuligo
 flaps
 flare
