@@ -4607,7 +4607,6 @@ afternote
 adversing
 adversities
 adversus
-adverted
 advertence
 advertency
 advertent
@@ -5623,6 +5622,7 @@ aftergood
 aftergrave
 aftergrief
 armpad
+adverted
 adglutinate
 aftergrind
 aftergrowth
