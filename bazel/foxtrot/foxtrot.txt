@@ -1686,7 +1686,6 @@ faxed
 fructuosity
 faxing
 fazes
-fc
 fchar
 fipenny
 fcomp
@@ -6561,6 +6560,7 @@ freshened
 florula
 fluttering
 favn
+fc
 flutteringly
 flutterless
 frightened
