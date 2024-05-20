@@ -3176,7 +3176,6 @@ fibrositis
 fibrospongiae
 formative
 fibrotuberculosis
-fibrous
 fibrously
 fidded
 fleer
@@ -5524,6 +5523,7 @@ flexuosity
 frangula
 flexuously
 flexuousness
+fibrous
 flexured
 flexures
 flyable
