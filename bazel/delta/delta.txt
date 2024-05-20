@@ -4027,6 +4027,7 @@ domiculture
 delegalized
 delegalizing
 delegant
+detecter
 dependants
 delegare
 delegate
@@ -7156,7 +7157,6 @@ detect
 detectability
 daishiki
 detected
-detecter
 detecters
 decentralist
 detectible
