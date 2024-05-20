@@ -10519,7 +10519,6 @@ anthriscus
 amylogen
 amylogenesis
 amylogenic
-amylogens
 amylohydrolysis
 amylohydrolytic
 amyloid
@@ -12135,6 +12134,7 @@ ancestry
 ancestrian
 ancestries
 allodge
+amylogens
 ancha
 anchat
 anchietin
