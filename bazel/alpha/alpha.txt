@@ -2091,7 +2091,6 @@ acetnaphthalide
 acetoacetanilide
 acetoacetate
 acetoacetic
-acetoamidophenol
 acetoarsenite
 acetobenzoic
 acetol
@@ -13317,6 +13316,7 @@ anisole
 alfas
 anisoles
 archangels
+acetoamidophenol
 anisoleucocytosis
 agglutinability
 anisomeles
