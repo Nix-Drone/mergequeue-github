@@ -6409,7 +6409,6 @@ ensigned
 entranceway
 ensignhood
 ensilaged
-ensilages
 episcopal
 ensilate
 ensilation
@@ -13022,6 +13021,7 @@ expenditure
 enfonced
 expenditures
 expense
+ensilages
 ephedrin
 expensed
 expenseful
