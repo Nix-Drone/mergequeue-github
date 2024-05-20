@@ -4915,7 +4915,6 @@ aerobus
 aerocamera
 aerocar
 anatolic
-aerocartograph
 aerocartography
 aerocharidae
 azophenylene
@@ -15186,6 +15185,7 @@ antielectrons
 antiemetic
 antiemperor
 antiempiric
+aerocartograph
 antiempirically
 antiempiricism
 antiendotoxin
