@@ -1839,7 +1839,6 @@ apectomy
 accusatorial
 accusatrix
 accusatrixes
-accuse
 accused
 accuser
 accusers
@@ -11722,6 +11721,7 @@ analysability
 analysable
 analysand
 analysation
+accuse
 analyser
 analysers
 addressee
