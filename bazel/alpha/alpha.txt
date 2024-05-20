@@ -1664,7 +1664,6 @@ accordaturas
 accordature
 accorded
 accorder
-accorders
 accordingly
 accordion
 accordionist
@@ -10397,6 +10396,7 @@ amidin
 amidine
 amidins
 amidism
+accorders
 armenians
 algenib
 amido
