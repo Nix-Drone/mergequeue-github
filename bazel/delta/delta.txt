@@ -469,7 +469,6 @@ daystar
 daystars
 daystreak
 daytide
-daytime
 daytimes
 daiva
 dobbed
@@ -8732,6 +8731,7 @@ diaxon
 diaxone
 diazepams
 diazeutic
+daytime
 deanthropomorphic
 diazeuxis
 diazide
