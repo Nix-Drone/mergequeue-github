@@ -2233,7 +2233,6 @@ feltings
 feltmaking
 feltman
 foulard
-foredeep
 feltmonger
 felts
 feltwort
@@ -4234,6 +4233,7 @@ fireside
 firesider
 firesideship
 firespout
+foredeep
 follily
 freshmanship
 forestiera
