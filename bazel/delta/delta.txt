@@ -1996,6 +1996,7 @@ decayers
 diarial
 decaying
 decayless
+designers
 demideify
 dextrans
 decays
@@ -6675,7 +6676,6 @@ designedness
 designee
 detachability
 designer
-designers
 designful
 designfully
 designfulness
