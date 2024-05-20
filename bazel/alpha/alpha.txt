@@ -24958,7 +24958,6 @@ awardable
 adroit
 awarded
 awardee
-awardees
 awarder
 awarders
 awardment
@@ -25354,6 +25353,7 @@ azoths
 azotic
 autocoid
 azotise
+awardees
 azotises
 azotising
 azotize
