@@ -14511,7 +14511,6 @@ cirratulus
 cirrhopetalum
 cirrhose
 cirrhosed
-cirrhosis
 cirrhotic
 cirrhous
 cirrhus
@@ -22448,6 +22447,7 @@ conjecturing
 conjee
 cellulose
 conjegates
+cirrhosis
 conjobble
 conjoin
 conjoinedly
