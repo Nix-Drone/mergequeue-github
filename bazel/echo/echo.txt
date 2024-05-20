@@ -4195,7 +4195,6 @@ ensured
 energetics
 epopt
 emplore
-ereptase
 emplume
 eniac
 epomophorus
@@ -10603,6 +10602,7 @@ euascomycetes
 euaster
 eubacteria
 eubacteriales
+ereptase
 eubacterium
 effusing
 entreaties
