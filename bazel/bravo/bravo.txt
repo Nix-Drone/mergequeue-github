@@ -12552,7 +12552,6 @@ backscatters
 bonspell
 bonspells
 brike
-bonspiel
 bontebok
 bonteboks
 bontebuck
@@ -17762,6 +17761,7 @@ burmanniaceae
 bedclothes
 beaverpelt
 burmanniaceous
+bonspiel
 bradded
 burn
 boilerhouse
