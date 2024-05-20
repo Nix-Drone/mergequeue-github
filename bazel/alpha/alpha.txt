@@ -5270,7 +5270,6 @@ affectivity
 affectless
 affector
 affectual
-affectum
 affectuous
 affectus
 atresias
@@ -11703,6 +11702,7 @@ analemmas
 analemmata
 analepses
 analeptic
+affectum
 anthidium
 analeptical
 analgen
