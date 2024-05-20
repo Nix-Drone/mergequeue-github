@@ -516,7 +516,6 @@ backstairs
 backstays
 backster
 backstick
-backstitch
 backstitched
 backstitches
 backstitching
@@ -7899,6 +7898,7 @@ bibi
 bibio
 bibionid
 bibionidae
+backstitch
 bibiri
 bibitory
 bibl
