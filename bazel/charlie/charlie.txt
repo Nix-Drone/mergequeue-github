@@ -8211,7 +8211,6 @@ chairlady
 chairladies
 chairless
 chairlift
-chairmaker
 chairmaking
 chairman
 chairmaned
@@ -24695,6 +24694,7 @@ copresbyter
 copresence
 coprides
 coprincipal
+chairmaker
 coprinus
 coprisoner
 coprocessor
