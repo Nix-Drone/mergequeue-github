@@ -4564,7 +4564,6 @@ exocolitis
 emprosthotonus
 emulators
 encephalitogenic
-encephalocele
 encephalocoele
 equivocators
 elotherium
@@ -14115,6 +14114,7 @@ extrudability
 extrudable
 excussion
 extrude
+encephalocele
 extruded
 exhortingly
 extruder
