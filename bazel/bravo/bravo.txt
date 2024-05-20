@@ -2671,7 +2671,6 @@ byres
 bedaff
 barytons
 barytophyllite
-barytosulphate
 bridgelike
 barkan
 bizarrely
@@ -11362,6 +11361,7 @@ bluejacket
 bluejacks
 blurred
 blueleg
+barytosulphate
 bluely
 blueline
 bluelines
