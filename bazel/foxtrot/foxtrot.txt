@@ -1687,7 +1687,6 @@ fructuosity
 faxing
 fazes
 fc
-fchar
 fipenny
 fcomp
 farcin
@@ -1974,6 +1973,7 @@ francas
 flowerlike
 feeble
 feeblebrained
+fchar
 foreword
 feebleheartedness
 feebleminded
