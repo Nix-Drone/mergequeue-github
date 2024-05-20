@@ -1754,7 +1754,6 @@ accroides
 accruable
 accrual
 accruals
-accrue
 accrued
 accruement
 accruer
@@ -24652,6 +24651,7 @@ andesite
 averish
 averment
 apholate
+accrue
 acinetarian
 averments
 admove
