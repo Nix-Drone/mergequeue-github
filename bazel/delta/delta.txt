@@ -1712,6 +1712,7 @@ diagrydium
 deaths
 deathsman
 deathsmen
+diode
 depaysee
 deathtime
 deathtrap
@@ -4232,7 +4233,6 @@ dressmaker
 deliverer
 disincorporate
 deliverers
-diode
 deliveress
 deliveries
 deliveryman
