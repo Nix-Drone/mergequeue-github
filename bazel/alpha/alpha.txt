@@ -2732,7 +2732,6 @@ acquittance
 acquitted
 ashkenazim
 acquitter
-acquitting
 acquophonia
 acrab
 acracy
@@ -5077,6 +5076,7 @@ aeroscopically
 aerose
 aerosiderolite
 amphib
+acquitting
 aerosol
 aerosolization
 aerosolize
