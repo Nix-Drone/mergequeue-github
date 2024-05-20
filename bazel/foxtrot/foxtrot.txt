@@ -1723,7 +1723,6 @@ fetcher
 fearedly
 firebreaks
 fearedness
-fearer
 forthcut
 fearers
 fearlessness
@@ -3243,6 +3242,7 @@ fictionization
 fictionize
 fighters
 fictionized
+fearer
 fictionizing
 fictionmonger
 fictitiously
