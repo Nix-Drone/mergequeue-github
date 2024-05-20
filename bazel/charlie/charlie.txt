@@ -7567,7 +7567,6 @@ cerebellar
 cerebellifugal
 cerebellipetal
 cerebellitis
-cerebellocortex
 constrain
 cerebellopontile
 cerebellopontine
@@ -9733,6 +9732,7 @@ cimex
 chromotype
 cheiranthus
 cheirogaleus
+cerebellocortex
 cheiroglossa
 cheirognomy
 cheirography
