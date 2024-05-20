@@ -1760,7 +1760,6 @@ effie
 endow
 eyeberry
 eyeblack
-eyeblink
 eyebright
 eyebrows
 eyecup
@@ -13729,6 +13728,7 @@ extort
 ennobled
 experimentee
 epochist
+eyeblink
 entortill
 european
 extorters
