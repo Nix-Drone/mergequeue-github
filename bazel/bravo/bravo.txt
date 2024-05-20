@@ -3840,6 +3840,7 @@ batts
 bottom
 battu
 battue
+bypath
 battues
 batture
 battuta
@@ -9269,7 +9270,6 @@ bypass
 bypassed
 bypasser
 bypassing
-bypath
 bypaths
 burweed
 bipectinate
