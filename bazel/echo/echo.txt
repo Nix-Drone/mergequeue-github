@@ -4184,6 +4184,7 @@ employee
 employees
 employer
 exedral
+enterozoon
 employers
 employment
 enthymeme
@@ -6721,7 +6722,6 @@ enterotoxication
 essence
 enterotoxin
 enteroviral
-enterozoon
 emplastra
 equalization
 ensemble
