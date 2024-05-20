@@ -6486,6 +6486,7 @@ benzophenone
 benzophenothiazine
 benzophenoxazine
 benzophloroglucinol
+beforehandedness
 benzophthalazine
 benzopyran
 benzopyranyl
@@ -15926,7 +15927,6 @@ bromoil
 bromoiodid
 bromoiodism
 battle
-beforehandedness
 bromoiodized
 bromoketone
 bromol
