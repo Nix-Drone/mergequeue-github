@@ -5924,6 +5924,7 @@ forst
 fortifiable
 floodway
 feute
+fresnel
 floodways
 fistfight
 flooey
@@ -9905,7 +9906,6 @@ freshness
 freesp
 freshwoman
 facework
-fresnel
 foretimes
 fraudless
 fresno
