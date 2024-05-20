@@ -5991,7 +5991,6 @@ deprivals
 deprivate
 deprivation
 deprive
-deprived
 deprivement
 depriver
 deprivers
@@ -15915,6 +15914,7 @@ dost
 dostoevsky
 dyssystole
 dewaxes
+deprived
 dot
 dotages
 doubleword
