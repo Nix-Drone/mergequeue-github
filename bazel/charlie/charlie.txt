@@ -3423,7 +3423,6 @@ caption
 captioned
 captioning
 captionless
-captions
 captious
 childridden
 captiously
@@ -17221,6 +17220,7 @@ churrigueresque
 coapparition
 coappear
 coappearance
+captions
 coappeared
 coappearing
 coapprehend
