@@ -5995,7 +5995,6 @@ agglomerated
 agglomerates
 agglomeratic
 agglomerating
-agglomeration
 agglomerative
 agglomerator
 autoing
@@ -21863,6 +21862,7 @@ associative
 associatively
 associativeness
 associativity
+agglomeration
 associator
 associatory
 associe
