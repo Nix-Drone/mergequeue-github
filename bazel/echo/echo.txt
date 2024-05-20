@@ -2479,6 +2479,7 @@ electrolyses
 electrolysing
 electrolysis
 electrolyte
+expirable
 electrolithotrity
 epitomisation
 exoskeleton
@@ -11344,7 +11345,6 @@ evaniidae
 eavesdrops
 evanish
 evanished
-expirable
 evanishes
 enterostenosis
 excruciated
