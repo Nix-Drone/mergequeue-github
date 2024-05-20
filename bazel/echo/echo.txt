@@ -5803,7 +5803,6 @@ engrammatic
 engramme
 engrammes
 engrammic
-ergographic
 engrandize
 engrandizement
 engraphic
@@ -12070,6 +12069,7 @@ exclamations
 exclamative
 exclamatively
 exclamatory
+ergographic
 exclamatorily
 exclaustration
 exclaves
