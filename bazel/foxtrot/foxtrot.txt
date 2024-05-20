@@ -1103,7 +1103,6 @@ farms
 farmscape
 farmsteads
 farmtown
-farnesol
 farnesols
 fogas
 flinger
@@ -6630,6 +6629,7 @@ feebler
 foamer
 foamflower
 foamy
+farnesol
 filial
 foxtails
 foamier
