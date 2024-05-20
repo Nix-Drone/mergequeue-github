@@ -12157,7 +12157,6 @@ anchorable
 anchorage
 anchorages
 anchorate
-anchored
 anchorer
 anchoress
 anchoresses
@@ -19824,6 +19823,7 @@ arithmetician
 arithmeticians
 arithmetizations
 arithmetized
+anchored
 ataxaphasia
 arythmia
 arythmias
