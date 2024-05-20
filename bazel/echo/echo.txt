@@ -9718,6 +9718,7 @@ endfile
 esopgi
 esophagometer
 esophagomycosis
+exteriorise
 esophagopathy
 esophagoplasty
 esophagoplication
@@ -13583,7 +13584,6 @@ exterior
 equisegmented
 exterioration
 exteriorisation
-exteriorise
 exteriorised
 epicyesis
 exteriorising
