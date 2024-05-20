@@ -4591,7 +4591,6 @@ adverbless
 adverbs
 adversa
 adversant
-adversary
 adversaria
 adversaries
 adversarious
@@ -15231,6 +15230,7 @@ antiexpressive
 antiexpressively
 antiexpressiveness
 antepredicament
+adversary
 antiextreme
 antiface
 antifaction
