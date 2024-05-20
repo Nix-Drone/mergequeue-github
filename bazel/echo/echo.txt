@@ -11546,7 +11546,6 @@ evictor
 epulones
 evictors
 evicts
-evidence
 evidences
 evidencing
 evidencive
@@ -12849,6 +12848,7 @@ exothecium
 exothermal
 exothermally
 exothermically
+evidence
 exothermous
 elytriform
 exotica
