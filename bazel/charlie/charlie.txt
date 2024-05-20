@@ -17103,7 +17103,6 @@ coagencies
 coagent
 coagents
 coaggregate
-coaggregated
 coaggregation
 coagitate
 coagitator
@@ -27694,6 +27693,7 @@ catacaustic
 coxcombhood
 coxcomby
 coxcombic
+coaggregated
 coxcombical
 coxcombically
 coxcombity
