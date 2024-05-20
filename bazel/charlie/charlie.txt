@@ -11865,7 +11865,6 @@ chopsticks
 chopunnish
 chora
 choragi
-choragic
 choragion
 choragus
 choraguses
@@ -18440,6 +18439,7 @@ chronosemic
 cohosted
 cohosting
 cohosts
+choragic
 cohow
 chevrons
 closetful
