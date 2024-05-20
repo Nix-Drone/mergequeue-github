@@ -3985,7 +3985,6 @@ adjudge
 adjudgeable
 adjudger
 adjudges
-adjudging
 adjudicata
 appestat
 adjudicate
@@ -5244,6 +5243,7 @@ affectation
 affectations
 affected
 affectedly
+adjudging
 affecter
 affecters
 affectibility
