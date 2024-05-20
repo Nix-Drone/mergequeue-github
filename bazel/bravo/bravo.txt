@@ -7885,7 +7885,6 @@ bibberies
 bibbers
 bibby
 bibbing
-bibble
 beclose
 bocking
 bibbons
@@ -10040,6 +10039,7 @@ blabbered
 blabberer
 bird
 blabbering
+bibble
 blabbermouth
 blabbermouths
 blabbers
