@@ -1970,7 +1970,6 @@ campagnols
 campagus
 campaign
 campaigner
-campaigners
 campaigning
 campaigns
 campana
@@ -9697,6 +9696,7 @@ cheetie
 cheetul
 cheewink
 cheezit
+campaigners
 chef
 chefdom
 chefdoms
