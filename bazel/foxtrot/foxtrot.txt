@@ -4405,7 +4405,6 @@ fishlines
 frondage
 fishling
 fishman
-fishmeals
 fishmonger
 ferociousness
 fishmouth
@@ -11633,6 +11632,7 @@ fussification
 fussily
 fussiness
 friend
+fishmeals
 fussing
 fatigues
 fussle
