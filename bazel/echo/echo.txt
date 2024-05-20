@@ -6971,6 +6971,7 @@ entosterna
 entosternal
 entosternum
 entosthoblast
+exp
 entothorax
 entotympanic
 ebullioscope
@@ -12867,7 +12868,6 @@ emigrate
 exotropia
 effluent
 exotropic
-exp
 embusque
 expalpate
 expanded
