@@ -4679,7 +4679,6 @@ bedecking
 bedecks
 bedecorate
 bedegar
-bedeguar
 bedehouse
 bedehouses
 bedell
@@ -16700,6 +16699,7 @@ buckshee
 buckshees
 bottier
 buckshot
+bedeguar
 borsch
 buckskinned
 buckstone
