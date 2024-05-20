@@ -15748,7 +15748,6 @@ clavers
 clavi
 chirres
 clavy
-claviature
 clavicembalist
 clavicembalo
 claviceps
@@ -17050,6 +17049,7 @@ coadjacent
 coadjacently
 coadjudicator
 coadjument
+claviature
 coadjustment
 coadjutant
 campement
