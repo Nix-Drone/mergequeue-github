@@ -4145,6 +4145,7 @@ delimed
 delimes
 deliming
 delimit
+drawshave
 delimitate
 drogherman
 dihybrid
@@ -16859,7 +16860,6 @@ drawout
 drawplate
 drawpoint
 draws
-drawshave
 drawsheet
 drawspring
 drawstop
