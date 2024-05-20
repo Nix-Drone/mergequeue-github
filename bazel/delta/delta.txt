@@ -1445,7 +1445,6 @@ dcb
 dclass
 dcollet
 dcor
-ddname
 disillusionise
 damnatory
 dea
@@ -3103,6 +3102,7 @@ deerwood
 deescalate
 deescalated
 diacritics
+ddname
 diphtheriaphor
 deescalation
 deescalations
