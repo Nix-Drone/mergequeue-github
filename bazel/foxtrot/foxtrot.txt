@@ -3455,6 +3455,7 @@ fiftypenny
 figary
 fight
 figaro
+floatboard
 faster
 figbird
 figboy
@@ -3626,7 +3627,6 @@ filespec
 forficula
 fossores
 fileting
-floatboard
 fylfot
 fili
 findfault
