@@ -10106,6 +10106,7 @@ chessboards
 chessdom
 chessel
 chesser
+circumgyration
 cabinda
 chesses
 chesset
@@ -27132,7 +27133,6 @@ countertime
 countertype
 countertouch
 chait
-circumgyration
 countertraction
 countertransference
 countertranslation
