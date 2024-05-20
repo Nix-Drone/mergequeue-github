@@ -6493,7 +6493,6 @@ benzopyrazolone
 benzopyrylium
 benzoquinoxaline
 baltimorean
-benzosulfimide
 benzosulphimide
 benzotetrazine
 benzotetrazole
@@ -12958,6 +12957,7 @@ borderlander
 borderlands
 borderless
 borderlight
+benzosulfimide
 bordermark
 blastoporphyritic
 bordman
