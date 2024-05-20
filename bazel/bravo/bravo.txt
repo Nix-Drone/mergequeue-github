@@ -1885,7 +1885,6 @@ bandages
 bandaging
 brakes
 bandagist
-bandaid
 bandala
 bandalore
 bandana
@@ -17648,6 +17647,7 @@ beprose
 burghership
 burghmaster
 burglaries
+bandaid
 burglarious
 burglarise
 burglarising
