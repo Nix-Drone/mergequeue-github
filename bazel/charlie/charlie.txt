@@ -14402,7 +14402,6 @@ circumpolygon
 circumpose
 circumposition
 condite
-circumquaque
 circumradii
 circumradius
 circumradiuses
@@ -29494,6 +29493,7 @@ cryste
 cristy
 crystic
 cristiform
+circumquaque
 cristino
 cristispira
 cristivomer
