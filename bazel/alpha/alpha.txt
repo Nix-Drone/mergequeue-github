@@ -759,7 +759,6 @@ above
 abovedeck
 ambuscading
 abovementioned
-aboveproof
 aboves
 abovesaid
 abovestairs
@@ -1075,6 +1074,7 @@ abstr
 abstract
 abstractable
 abstracted
+aboveproof
 abstractedly
 abstracter
 abstracters
