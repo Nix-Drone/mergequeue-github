@@ -6668,7 +6668,6 @@ gnathopod
 goldstone
 goldtit
 gnash
-goldurned
 goldurns
 goldwork
 goldworker
@@ -6740,6 +6739,7 @@ gise
 gomer
 grassweed
 gladstone
+goldurned
 gomerec
 gomerel
 glandarious
