@@ -9021,6 +9021,7 @@ charism
 coked
 charisma
 charismas
+connoted
 charismata
 consuete
 charismatic
@@ -22625,7 +22626,6 @@ connotations
 connotative
 connotatively
 connote
-connoted
 connotes
 connoting
 connotive
