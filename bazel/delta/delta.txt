@@ -1739,7 +1739,6 @@ debark
 debarkations
 dobroes
 dodecuplet
-demagnetisable
 debarked
 debarking
 debarkment
@@ -17605,6 +17604,7 @@ duffing
 drummed
 drummer
 drummers
+demagnetisable
 drumming
 drummock
 drumread
