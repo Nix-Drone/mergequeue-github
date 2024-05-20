@@ -7064,7 +7064,6 @@ fontlet
 foredate
 fratercula
 fonts
-furnitures
 foochowese
 food
 foody
@@ -11672,6 +11671,7 @@ fusulas
 fusuma
 feathery
 fusure
+furnitures
 frustraneous
 fusus
 flushable
