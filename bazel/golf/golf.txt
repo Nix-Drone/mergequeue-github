@@ -5378,7 +5378,6 @@ glew
 guitarfish
 gliadine
 geomedicine
-gliadines
 gliadins
 glaucophane
 glib
@@ -6868,6 +6867,7 @@ goniometrical
 gonion
 graminivorous
 galactophagous
+gliadines
 grabbling
 goura
 gymnics
