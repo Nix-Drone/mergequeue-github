@@ -10415,7 +10415,6 @@ chieftaincies
 chieftainess
 chieftainry
 chieftainries
-chieftains
 chieftainship
 chiefty
 chiel
@@ -17781,6 +17780,7 @@ codger
 codhead
 chrestomathy
 cachaemia
+chieftains
 codheaded
 codiaceae
 chondrotome
