@@ -24593,7 +24593,6 @@ copiosity
 copious
 copiously
 copiousness
-copyread
 copyreader
 copyreaders
 copyreading
@@ -27093,6 +27092,7 @@ counterstand
 counterstatant
 counterstatement
 counterstep
+copyread
 counterstimulate
 counterstimulation
 counterstimulus
