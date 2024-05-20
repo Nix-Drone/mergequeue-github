@@ -7562,7 +7562,6 @@ cocceian
 citrinous
 cereals
 cerebbella
-cerebella
 cerebellar
 cerebellifugal
 cerebellipetal
@@ -29205,6 +29204,7 @@ cryptesthesia
 cryptesthetic
 cryptic
 creoles
+cerebella
 cryptical
 cryptically
 covings
