@@ -1898,7 +1898,6 @@ bandboxes
 bandboxy
 barricos
 bandboxical
-bandcase
 bandcutter
 bande
 bandeau
@@ -8908,6 +8907,7 @@ binoxide
 bints
 binturong
 binuclear
+bandcase
 binucleated
 bigoniac
 binucleolate
