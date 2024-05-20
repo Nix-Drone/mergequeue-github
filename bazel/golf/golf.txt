@@ -1909,7 +1909,6 @@ gastrostomus
 gastrotaxis
 gastrothecal
 gastrotome
-gastrotomy
 gastrotomic
 gastrotubotomy
 gastrovascular
@@ -6985,6 +6984,7 @@ goodless
 gulsach
 goodly
 goodlier
+gastrotomy
 goodliest
 gingerly
 goodlihead
