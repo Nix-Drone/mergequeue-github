@@ -8650,7 +8650,6 @@ fumistery
 feverishly
 forsung
 forswear
-foreanswer
 forswearing
 fairling
 fields
@@ -9653,6 +9652,7 @@ fred
 freddy
 freddie
 fusee
+foreanswer
 freddo
 foined
 fishwives
