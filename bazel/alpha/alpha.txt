@@ -11585,7 +11585,6 @@ anaemotropy
 anaeretic
 anaerobation
 anaerobe
-anaerobes
 anaerobian
 anaerobic
 anaerobically
@@ -23462,6 +23461,7 @@ aulic
 aulical
 aulicism
 auloi
+anaerobes
 anthropotomist
 allesthesia
 aulophyte
