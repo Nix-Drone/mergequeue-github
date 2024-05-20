@@ -6293,7 +6293,6 @@ collencytal
 concessionaries
 caustify
 caustification
-caustified
 causus
 cautela
 cautelous
@@ -19825,6 +19824,7 @@ comfortabilities
 comfortable
 comfortableness
 comfortably
+caustified
 comfortation
 comfortative
 comforted
