@@ -4476,6 +4476,7 @@ encake
 encalendar
 encamping
 encampment
+explosimeter
 encampments
 encamps
 endoparasite
@@ -13239,7 +13240,6 @@ explores
 eclipsareon
 exploringly
 encephalodialysis
-explosimeter
 englishmen
 explosion
 explosionist
