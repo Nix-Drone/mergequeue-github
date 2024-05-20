@@ -2005,6 +2005,7 @@ bandsawn
 bandsman
 bandsmen
 bandspreading
+bobization
 bandstand
 bandstands
 bandster
@@ -11895,7 +11896,6 @@ boggler
 bogglers
 boggles
 boggling
-bobization
 bogglingly
 bielid
 bogglish
