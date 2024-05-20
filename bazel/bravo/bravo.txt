@@ -5655,7 +5655,6 @@ benjoin
 beldames
 bylaw
 beldams
-beldamship
 bacchar
 britten
 belderroot
@@ -11997,6 +11996,7 @@ boii
 boyish
 brunion
 boyishly
+beldamship
 boiko
 boil
 busheller
