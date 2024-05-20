@@ -7612,7 +7612,6 @@ bewailingly
 bewails
 bewake
 bewall
-beware
 bewary
 bewaring
 bewash
@@ -10156,6 +10155,7 @@ blacklegs
 blacklist
 blacklisted
 blacklister
+beware
 blacklisting
 blacklists
 beachman
