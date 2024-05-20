@@ -4810,7 +4810,6 @@ extense
 esox
 enlimn
 encoil
-encolden
 encollar
 euryalean
 equitangential
@@ -13296,6 +13295,7 @@ exposing
 exposit
 expositing
 esthesiometry
+encolden
 exsanguinity
 exposition
 expositional
