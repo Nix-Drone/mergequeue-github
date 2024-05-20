@@ -1904,6 +1904,7 @@ bande
 bandeau
 bandeaux
 betula
+boluses
 banded
 bandelet
 bandelette
@@ -12240,7 +12241,6 @@ boltspreet
 boltuprightness
 boltwork
 bolus
-boluses
 benn
 bomb
 bombable
