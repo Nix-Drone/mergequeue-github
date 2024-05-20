@@ -4044,6 +4044,7 @@ beaded
 bequirtle
 beadeye
 beadeyes
+backwrap
 banderols
 beader
 beadflush
@@ -6321,7 +6322,6 @@ benomyl
 benomyls
 benorth
 bensail
-backwrap
 bensall
 bensell
 bensh
