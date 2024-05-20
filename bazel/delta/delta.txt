@@ -3487,6 +3487,7 @@ defogging
 defogs
 defoil
 daikering
+disgarrison
 dawish
 defoliage
 defoliant
@@ -9929,7 +9930,6 @@ downfalls
 disciplines
 diminutions
 diminutival
-disgarrison
 dimiss
 deindustrialization
 dimissaries
