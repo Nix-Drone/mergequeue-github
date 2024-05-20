@@ -7513,7 +7513,6 @@ devalorize
 devaluate
 devaluated
 devaluates
-devaluation
 devaluations
 devalue
 devalued
@@ -17152,6 +17151,7 @@ disannulling
 drillet
 dakir
 devarshi
+devaluation
 drilling
 drillings
 drillman
