@@ -8815,7 +8815,6 @@ broadswords
 binal
 baconic
 bugologist
-byname
 binaphthyl
 binary
 binaries
@@ -11448,6 +11447,7 @@ blunderheaded
 blundering
 blunderings
 blunge
+byname
 blunged
 blunger
 blungers
