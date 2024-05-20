@@ -11726,6 +11726,7 @@ analyser
 analysers
 addressee
 analyses
+asklepios
 analysing
 antimoniate
 analysis
@@ -21302,7 +21303,6 @@ askingly
 askings
 askip
 asklent
-asklepios
 askoi
 actiniohematin
 askoye
