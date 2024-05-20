@@ -482,7 +482,6 @@ eccoproticophoric
 eccrine
 eccrinology
 eccrisis
-endmatcher
 ecdemic
 ecderon
 emersion
@@ -8663,6 +8662,7 @@ equilibrations
 equilibrative
 equilibrator
 equilibria
+endmatcher
 equilibrial
 equilibriate
 equilibrio
