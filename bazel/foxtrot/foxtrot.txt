@@ -667,7 +667,6 @@ fisheries
 fame
 frill
 famed
-fameflower
 fameless
 famelic
 fames
@@ -5062,6 +5061,7 @@ foeture
 flashiness
 flashingly
 flashings
+fameflower
 flashlamp
 flashlight
 flashlike
