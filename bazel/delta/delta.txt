@@ -5788,6 +5788,7 @@ depolarise
 drapeable
 depolarised
 depolariser
+drawshave
 darksome
 depolarising
 docetic
@@ -16859,7 +16860,6 @@ drawout
 drawplate
 drawpoint
 draws
-drawshave
 drawsheet
 drawspring
 drawstop
