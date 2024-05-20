@@ -7062,7 +7062,6 @@ elenchus
 entresols
 endocardial
 exposits
-entrez
 entry
 entria
 expressivity
@@ -9985,6 +9984,7 @@ esther
 evenforth
 estherian
 esthesio
+entrez
 ecbatic
 esthesioblast
 esthesiogen
