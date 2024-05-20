@@ -5668,7 +5668,6 @@ flintlock
 fellatios
 flintwood
 flintworker
-flyoff
 flyover
 flyovers
 fustanella
@@ -6120,6 +6119,7 @@ flouncy
 flounciest
 flouncing
 flounder
+flyoff
 flounders
 floury
 flourish
