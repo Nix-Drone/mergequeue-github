@@ -9926,7 +9926,6 @@ chemosynthetic
 chemosis
 chemosmoic
 chemosmoses
-chemosmotic
 calic
 chemosorb
 chemosorption
@@ -10020,6 +10019,7 @@ cherenkov
 cherie
 cheries
 cherimoya
+chemosmotic
 chiquero
 cherimoyer
 cherimolla
