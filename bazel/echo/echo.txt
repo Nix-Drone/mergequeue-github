@@ -10011,7 +10011,6 @@ encompasses
 ecdysons
 esthetics
 esthetology
-enabled
 esthiomene
 esthiomenus
 estimable
@@ -13632,6 +13631,7 @@ externalizes
 externalness
 evolvements
 externat
+enabled
 externate
 externe
 externes
