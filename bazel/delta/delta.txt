@@ -5380,6 +5380,7 @@ dentifrices
 dentil
 diabantite
 dentilabial
+disjunction
 dentilated
 dentilation
 dentiled
@@ -8203,7 +8204,6 @@ diagnosed
 diagnoses
 diagnosis
 diagnostical
-disjunction
 diagnostically
 diagnosticate
 diagnosticated
