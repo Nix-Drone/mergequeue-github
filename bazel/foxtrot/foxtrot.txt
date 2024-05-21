@@ -3568,7 +3568,6 @@ filaments
 filamentule
 filander
 filao
-forsterite
 filaree
 fishboats
 filarees
@@ -9184,6 +9183,7 @@ fuage
 filibuster
 foxtrot
 founte
+forsterite
 fozy
 fiendishness
 foziness
