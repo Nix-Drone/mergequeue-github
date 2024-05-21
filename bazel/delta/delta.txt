@@ -3482,7 +3482,6 @@ defog
 defogged
 didymus
 disyllable
-defoggers
 defogging
 defogs
 defoil
@@ -9573,6 +9572,7 @@ dihalo
 discommendable
 dihalogen
 dihdroxycholecalciferol
+defoggers
 dihedral
 dihedrals
 dihedron
