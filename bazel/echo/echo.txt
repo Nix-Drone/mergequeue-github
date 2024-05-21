@@ -8484,7 +8484,6 @@ eponym
 eponymy
 edaphic
 eponymies
-eponymist
 eponymous
 eponyms
 eponymus
@@ -12692,6 +12691,7 @@ enterological
 exognathite
 exogonium
 exograph
+eponymist
 exolete
 exolution
 exolve
