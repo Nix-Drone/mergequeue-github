@@ -8484,7 +8484,6 @@ eponym
 eponymy
 edaphic
 eponymies
-eponymist
 eponymous
 eponyms
 eponymus
@@ -11697,6 +11696,7 @@ exacter
 eunuchise
 exactest
 exacting
+eponymist
 electroirrigation
 embattling
 eburnian
