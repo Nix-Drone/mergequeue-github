@@ -3406,7 +3406,6 @@ bassa
 bassalia
 baculum
 bassalian
-bassan
 bicarbonate
 bassanite
 bassara
@@ -11588,6 +11587,7 @@ boated
 boatel
 boatels
 boatheader
+bassan
 boathook
 boathouse
 boathouses
