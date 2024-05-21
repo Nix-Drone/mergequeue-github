@@ -8222,7 +8222,6 @@ diagonalization
 diagonalize
 disinteresting
 diagnosing
-diseurs
 diagonally
 diagonals
 diagonalwise
@@ -17378,6 +17377,7 @@ drop
 desquamation
 dropax
 dropberry
+diseurs
 dropcloth
 dropforge
 dorsicommissure
