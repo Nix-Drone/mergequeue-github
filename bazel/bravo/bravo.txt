@@ -3360,7 +3360,6 @@ basketfuls
 barramundi
 basketing
 basketlike
-basketmaker
 basketmaking
 buyback
 biotope
@@ -10237,6 +10236,7 @@ bladelike
 beleaguerer
 blades
 bladesmith
+basketmaker
 bladewise
 blady
 bladygrass
