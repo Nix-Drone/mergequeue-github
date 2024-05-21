@@ -534,7 +534,6 @@ backstring
 backstroke
 backstromite
 backswept
-backswimmer
 backsword
 backswording
 bettergates
@@ -18129,6 +18128,7 @@ butcha
 blowen
 bedoyo
 bolbanac
+backswimmer
 butcher
 butcherbroom
 bipalium
