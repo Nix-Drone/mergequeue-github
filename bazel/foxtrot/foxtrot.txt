@@ -7494,7 +7494,6 @@ foreact
 foreadmonish
 false
 flashpan
-foreadvertise
 fractionlet
 foreadvice
 foreadvise
@@ -8801,6 +8800,7 @@ forwarder
 forwarders
 forwardest
 forwarding
+foreadvertise
 forwardly
 forwards
 forwardsearch
