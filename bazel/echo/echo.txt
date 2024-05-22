@@ -11546,6 +11546,7 @@ evictor
 epulones
 evictors
 evicts
+extrusive
 evidence
 evidences
 evidencing
@@ -14130,7 +14131,6 @@ earthen
 extrusion
 extrusions
 enigmatology
-extrusive
 exite
 extrusory
 examinations
