@@ -17766,7 +17766,6 @@ codesign
 codesigns
 codespairer
 codetermination
-codetermine
 codetta
 codettas
 codette
@@ -18572,6 +18571,7 @@ cointer
 cointerest
 cointerred
 cointerring
+codetermine
 cointers
 cointersecting
 cointise
