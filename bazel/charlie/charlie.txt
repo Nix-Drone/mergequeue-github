@@ -3516,7 +3516,6 @@ caracoles
 caracoli
 caracoling
 caracolite
-caracolled
 caracoller
 caracolling
 caracora
@@ -5653,6 +5652,7 @@ cakebread
 catching
 carolean
 cretic
+caracolled
 catchlight
 catchline
 catchment
