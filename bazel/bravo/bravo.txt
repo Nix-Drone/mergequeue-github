@@ -61,7 +61,6 @@ babel
 bursters
 bolbonac
 babelet
-babelike
 babelish
 babelism
 bongar
@@ -1469,6 +1468,7 @@ balestra
 balete
 bali
 balian
+babelike
 bucare
 broadband
 balibago
