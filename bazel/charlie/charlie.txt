@@ -11286,7 +11286,6 @@ chloritize
 culicid
 chlorize
 chlormethane
-chlormethylic
 chlornal
 chloro
 chloroacetic
@@ -30296,6 +30295,7 @@ coastways
 crusadoes
 crusados
 cruse
+chlormethylic
 catalog
 cruset
 crush
