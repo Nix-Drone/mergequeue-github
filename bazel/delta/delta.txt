@@ -1986,7 +1986,6 @@ decahedra
 decahedral
 decahedron
 damageableness
-decahedrons
 decahydrate
 decahydronaphthalene
 decay
@@ -8620,6 +8619,7 @@ diascia
 donia
 diascope
 dewater
+decahedrons
 daubentoniidae
 diascord
 diabetogenic
