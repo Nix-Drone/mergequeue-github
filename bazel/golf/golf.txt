@@ -2439,7 +2439,6 @@ genom
 gelatinity
 gelatinizability
 gelatinizable
-gelatinization
 gruppetto
 gelatinized
 gelatinizer
@@ -8229,6 +8228,7 @@ grappler
 grapples
 grappling
 grapsidae
+gelatinization
 grapsus
 gondolet
 graptolite
