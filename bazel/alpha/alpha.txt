@@ -4519,7 +4519,6 @@ adustiosis
 adustive
 adv
 advance
-advanceable
 advancedness
 advancement
 advancements
@@ -11938,6 +11937,7 @@ anarchically
 anarchies
 affrights
 amortize
+advanceable
 anarchism
 anarchist
 anarchistic
