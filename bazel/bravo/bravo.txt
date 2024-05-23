@@ -1997,6 +1997,7 @@ bandore
 bronchium
 bandos
 bandpass
+baselard
 bandrol
 bandsaw
 bandsawed
@@ -3144,7 +3145,6 @@ baseburner
 blup
 basecourt
 based
-baselard
 baseless
 baselessly
 baselevel
