@@ -15205,7 +15205,6 @@ bricklike
 bricklining
 bobac
 brickmaker
-brickmaking
 brickmason
 brockage
 bethylid
@@ -17217,6 +17216,7 @@ bullrings
 bullrush
 bullrushes
 bulls
+brickmaking
 bullseye
 bullshit
 bullshits
