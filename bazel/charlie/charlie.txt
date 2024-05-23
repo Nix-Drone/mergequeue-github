@@ -1438,6 +1438,7 @@ cedulas
 callidness
 calligram
 calligraph
+corviser
 calligrapha
 criticule
 calligrapher
@@ -25952,7 +25953,6 @@ corvinae
 creolize
 cyriological
 corvinas
-corviser
 corvo
 corvoid
 corvorant
