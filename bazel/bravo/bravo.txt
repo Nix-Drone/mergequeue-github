@@ -5774,7 +5774,6 @@ biltongs
 bellatrix
 burglar
 bellbind
-buckjump
 bellbinder
 bellbine
 batekes
@@ -17633,6 +17632,7 @@ burgers
 brigands
 burgessdom
 burggrave
+buckjump
 bitumed
 burgh
 burghal
