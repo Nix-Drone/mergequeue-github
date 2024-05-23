@@ -3528,7 +3528,6 @@ caraculs
 caradoc
 carafe
 carafes
-clergymen
 cornicing
 carafon
 coteau
@@ -20789,6 +20788,7 @@ comported
 comporting
 comports
 capacitors
+clergymen
 compos
 chrismary
 corpulence
