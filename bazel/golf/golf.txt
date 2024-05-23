@@ -3466,7 +3466,6 @@ girkin
 germinative
 germinator
 germing
-gustus
 germless
 geniohyoglossus
 gymkhanas
@@ -5527,6 +5526,7 @@ griddles
 glimmer
 glutinousness
 glucosid
+gustus
 glimmering
 glimmeringly
 glimmerous
