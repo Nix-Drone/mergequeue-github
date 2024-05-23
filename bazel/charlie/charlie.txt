@@ -11776,7 +11776,6 @@ chondromyxoma
 chondromyxosarcoma
 chondromucoid
 chondropharyngeal
-chondropharyngeus
 chondrophyte
 chondrophore
 chondroplast
@@ -12444,6 +12443,7 @@ chromite
 chromites
 chromitite
 chromium
+chondropharyngeus
 chromiums
 clerisy
 chromize
