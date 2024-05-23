@@ -8745,7 +8745,6 @@ etoiles
 equipotential
 equipotentiality
 equiprobability
-emits
 equiprobably
 enablers
 eberthella
@@ -11582,6 +11581,7 @@ evilspeaker
 evilspeaking
 evilwishing
 eunuchize
+emits
 evince
 evincement
 evincible
