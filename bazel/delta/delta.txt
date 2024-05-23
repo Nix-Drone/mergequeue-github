@@ -5634,7 +5634,6 @@ dependably
 dependance
 dependant
 dependantly
-depended
 dependence
 dependency
 dependencies
@@ -6451,6 +6450,7 @@ descamisado
 descamisados
 descant
 disencumber
+depended
 dimerizes
 deranged
 descanted
