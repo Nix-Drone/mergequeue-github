@@ -956,7 +956,6 @@ gossan
 gamelang
 gamelans
 gameless
-gentian
 gamely
 gamelike
 gymnast
@@ -5741,6 +5740,7 @@ garnice
 gradable
 gloeosporium
 gelfomino
+gentian
 glogg
 gloggs
 gloy
