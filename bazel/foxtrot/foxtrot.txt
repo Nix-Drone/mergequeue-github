@@ -1699,7 +1699,6 @@ four
 fdnames
 fdtype
 fdub
-fortuitousness
 fe
 forksmith
 feaberry
@@ -9251,6 +9250,7 @@ fractionized
 fasciculately
 fractions
 fractious
+fortuitousness
 frontierlike
 fractiousness
 foolheaded
