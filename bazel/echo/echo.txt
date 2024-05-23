@@ -4380,7 +4380,6 @@ enolization
 enamelist
 enamellar
 equiped
-enamellers
 enamelless
 enamels
 enami
@@ -5064,6 +5063,7 @@ endoaortitis
 endoarteritis
 enamelled
 elan
+enamellers
 endoauscultation
 endobatholithic
 edicts
