@@ -6028,7 +6028,6 @@ bemar
 bemask
 blephillia
 bemaster
-bemat
 bembecidae
 beme
 bemean
@@ -13546,6 +13545,7 @@ boundary
 backdate
 bountith
 bounded
+bemat
 boundedly
 boundedness
 bonfires
