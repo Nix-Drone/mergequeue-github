@@ -8755,6 +8755,7 @@ equips
 ethnolinguist
 equipt
 equiradial
+ethylidyne
 echo
 equiradical
 equirotal
@@ -10347,7 +10348,6 @@ enhearse
 epithelial
 ethylic
 ethylidene
-ethylidyne
 ethylin
 ethylmorphine
 enflowering
