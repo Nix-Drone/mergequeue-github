@@ -2268,6 +2268,7 @@ cancans
 canccelli
 cancelability
 cancelable
+caret
 cancelation
 canceled
 canceleer
@@ -4188,7 +4189,6 @@ caressive
 caressively
 carest
 cestracion
-caret
 caretake
 caretaker
 caretakers
