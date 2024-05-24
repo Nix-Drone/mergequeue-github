@@ -4437,6 +4437,7 @@ fishworker
 fishworks
 fringilliformes
 fishworm
+fumarine
 fisnoga
 frostbound
 fissidentaceous
@@ -9493,7 +9494,6 @@ featless
 franz
 forbear
 franzy
-fumarine
 fliers
 foreteeth
 flagfish
