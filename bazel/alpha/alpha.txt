@@ -8511,7 +8511,6 @@ alkool
 alkoran
 alkoxy
 alkoxid
-alkoxyl
 all
 allachesthesia
 allaeanthus
@@ -20898,6 +20897,7 @@ aphasias
 ascariasis
 ascaricidal
 ascaricide
+alkoxyl
 ascarid
 ascaridae
 ascarides
