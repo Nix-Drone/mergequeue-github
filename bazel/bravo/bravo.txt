@@ -12948,7 +12948,6 @@ border
 bordereau
 bowstaff
 bordered
-borderer
 borderers
 bordering
 borderings
@@ -14540,6 +14539,7 @@ brankier
 branks
 brankursine
 branles
+borderer
 branner
 brannerite
 blackneb
