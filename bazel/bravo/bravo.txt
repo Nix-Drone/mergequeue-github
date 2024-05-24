@@ -2706,7 +2706,6 @@ barkless
 barklyite
 barkometer
 barkpeel
-barkpeeler
 bijugate
 barkpeeling
 beheld
@@ -12009,6 +12008,7 @@ boiled
 boiler
 boilerful
 boilerless
+barkpeeler
 boilermaker
 bradypnoea
 bangtail
