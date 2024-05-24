@@ -10031,7 +10031,6 @@ bklr
 backsey
 bkpt
 bocasine
-bks
 bkt
 bl
 blaasop
@@ -11949,6 +11948,7 @@ bohemium
 braula
 bohereen
 bohireen
+bks
 bohor
 bohora
 bohorok
