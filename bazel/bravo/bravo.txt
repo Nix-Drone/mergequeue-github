@@ -4853,6 +4853,7 @@ bedspring
 bedsprings
 bolivars
 bedstand
+boatlip
 bedstead
 brazenface
 baikerinite
@@ -11603,7 +11604,6 @@ bittacle
 beclamoring
 boxball
 boatlike
-boatlip
 boatload
 boatloader
 bumaloe
