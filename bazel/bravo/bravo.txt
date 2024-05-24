@@ -4483,7 +4483,6 @@ beckoned
 bearings
 beckoner
 beckoners
-beckoning
 beckoningly
 barfed
 byward
@@ -18240,6 +18239,7 @@ buttercup
 buttercups
 buttered
 butterfat
+beckoning
 butterfingered
 butterfingers
 butterfish
