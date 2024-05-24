@@ -10764,7 +10764,6 @@ driftpins
 dirdum
 dirdums
 dire
-direcly
 direct
 directable
 directcarving
@@ -14282,6 +14281,7 @@ divergement
 divergence
 divergences
 divergencies
+direcly
 distensible
 desecate
 divergenge
