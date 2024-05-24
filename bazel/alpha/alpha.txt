@@ -1309,7 +1309,6 @@ adalid
 acanthopomatous
 acanthopteran
 acanthopteri
-acanthopterygian
 acanthopterygii
 acanthopterous
 acanthoses
@@ -4074,6 +4073,7 @@ admetus
 admi
 admin
 adminicle
+acanthopterygian
 aarrgh
 adminicula
 adminicular
