@@ -3147,6 +3147,7 @@ defalcation
 defalcations
 defalk
 defamation
+disclosive
 defamations
 defamatory
 defame
@@ -11394,7 +11395,6 @@ disclosed
 discloser
 discloses
 disclosing
-disclosive
 disclosure
 disclosures
 discloud
