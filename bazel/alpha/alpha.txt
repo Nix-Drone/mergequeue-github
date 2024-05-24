@@ -6940,6 +6940,7 @@ airport
 airports
 airpost
 airposts
+amalgamate
 airproof
 airproofs
 aggrieving
@@ -9726,7 +9727,6 @@ amalfian
 amalfitan
 amalg
 amalgamable
-amalgamate
 attackable
 amalgamates
 amalgamating
