@@ -1599,7 +1599,6 @@ calorifier
 calorigenic
 calorimeter
 calorimeters
-calorimetry
 calorimetric
 calorimetrical
 calorimetrically
@@ -13143,6 +13142,7 @@ ciboule
 ciboules
 cyc
 cicad
+calorimetry
 cycad
 cicada
 cycadaceae
