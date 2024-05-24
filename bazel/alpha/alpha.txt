@@ -3942,7 +3942,6 @@ adits
 adytta
 adytum
 aditus
-adj
 adjacence
 adjacency
 adjacencies
@@ -9558,6 +9557,7 @@ alumel
 alumen
 alumian
 apometabolous
+adj
 alumic
 alumiferous
 alchemised
