@@ -2444,7 +2444,6 @@ epichlorohydrin
 electrogenic
 etherialism
 electrogild
-electrogilding
 electrogilt
 electrogram
 electrography
@@ -6715,6 +6714,7 @@ ebracteolate
 enterostomies
 enterotome
 extemporaneity
+electrogilding
 enterotomy
 enterotoxemia
 enterotoxication
