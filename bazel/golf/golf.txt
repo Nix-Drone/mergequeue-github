@@ -6442,7 +6442,6 @@ gobet
 geodic
 ganglander
 gamogenetic
-goby
 geed
 gobia
 goliad
@@ -7657,6 +7656,7 @@ general
 granters
 gradiometric
 grads
+goby
 granzita
 gradual
 gradualist
