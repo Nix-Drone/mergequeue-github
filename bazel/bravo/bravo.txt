@@ -611,7 +611,6 @@ bacquet
 bact
 bacteraemia
 bacteremia
-bacteremic
 bacteria
 bacteriaceae
 britannian
@@ -17473,6 +17472,7 @@ bunkoed
 bunn
 bunnell
 bunny
+bacteremic
 bunnia
 benettle
 bunnies
