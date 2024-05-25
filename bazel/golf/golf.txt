@@ -5865,7 +5865,6 @@ glosser
 glossers
 glosses
 glossy
-glossier
 glossies
 glossiest
 granitical
@@ -9534,6 +9533,7 @@ groveller
 gascromh
 groundwork
 genitival
+glossier
 gruels
 grovellingly
 grovellings
