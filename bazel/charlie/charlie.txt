@@ -5095,7 +5095,6 @@ casern
 caserne
 caserns
 cases
-casette
 casettes
 caseum
 caseweed
@@ -14869,6 +14868,7 @@ citizens
 citizenship
 cytoanalyzer
 copremia
+casette
 cytoarchitectural
 cytoarchitecturally
 cytoarchitecture
