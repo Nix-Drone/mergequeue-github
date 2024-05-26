@@ -3544,7 +3544,6 @@ addlepatedness
 addleplot
 addles
 addling
-addlings
 antral
 addlins
 addn
@@ -15059,6 +15058,7 @@ anticorrosive
 anticorrosively
 anticorrosiveness
 anticorrosives
+addlings
 anticorset
 anticosine
 anticosmetic
