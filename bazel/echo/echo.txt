@@ -4814,7 +4814,6 @@ encolden
 encollar
 euryalean
 equitangential
-encolour
 encolpia
 encolpion
 encolumn
@@ -12850,6 +12849,7 @@ exothermal
 exothermally
 exothermically
 exothermous
+encolour
 elytriform
 exotica
 exotically
