@@ -9938,6 +9938,7 @@ chemostat
 collateral
 cancers
 chemosterilants
+cholecyanine
 chemosurgery
 chemosurgical
 chemotactic
@@ -11549,7 +11550,6 @@ cholates
 contestation
 chold
 choleate
-cholecyanine
 cholecyst
 cholecystectasia
 cholecystectomy
