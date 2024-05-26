@@ -1673,7 +1673,6 @@ accordions
 accords
 accorporate
 accorporation
-accost
 accosted
 accosts
 accouche
@@ -12966,6 +12965,7 @@ angularity
 angularities
 assoluto
 angularly
+accost
 angulate
 angulated
 angulately
