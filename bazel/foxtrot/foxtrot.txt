@@ -3964,7 +3964,6 @@ finfoots
 fingal
 fingall
 fingan
-fingerable
 fingerberry
 fingerboard
 fingerboards
@@ -10375,6 +10374,7 @@ fronde
 frondent
 forestep
 foredoing
+fingerable
 factor
 fertilizations
 fluoridising
