@@ -10412,7 +10412,6 @@ chiefs
 chieftain
 chieftaincy
 chieftaincies
-chieftainess
 chieftainry
 chieftainries
 chieftains
@@ -21986,6 +21985,7 @@ confirmations
 confirmatively
 confirmatory
 cattily
+chieftainess
 confirmatorily
 confirmed
 confirmedly
