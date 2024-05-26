@@ -9153,7 +9153,6 @@ almuerzo
 almugs
 almuredin
 alnage
-alnager
 alnaschar
 alnath
 alnein
@@ -24930,6 +24929,7 @@ awakeable
 assigner
 awaked
 axemaster
+alnager
 awaken
 awakened
 amarna
