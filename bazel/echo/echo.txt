@@ -5430,7 +5430,6 @@ endrudge
 eltime
 expendable
 endseal
-endshake
 endsheet
 everglade
 execrates
@@ -7102,6 +7101,7 @@ entwinement
 entwines
 entwist
 endoplast
+endshake
 entwite
 enucleate
 ensuer
