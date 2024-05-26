@@ -12620,6 +12620,7 @@ chronometer
 chronometers
 chronometry
 corin
+collimation
 chronometric
 chronometrical
 chronometrically
@@ -19049,7 +19050,6 @@ chiefess
 collimated
 collimates
 collimating
-collimation
 collimator
 collimators
 collin
