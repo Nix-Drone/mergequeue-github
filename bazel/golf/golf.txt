@@ -4966,7 +4966,6 @@ glacialism
 glacialist
 glacialize
 glaciaria
-graphemes
 glaciarium
 glaciated
 glaciates
@@ -7552,6 +7551,7 @@ ginnery
 generationism
 gpm
 gps
+graphemes
 gr
 gies
 glucogenic
