@@ -3406,7 +3406,6 @@ deflate
 deflated
 drynaria
 deflater
-deflates
 delime
 deflating
 deflation
@@ -12116,6 +12115,7 @@ disfavoured
 disfavourer
 disfeature
 disfeatured
+deflates
 discursion
 disfeaturement
 disfellowship
