@@ -6840,7 +6840,6 @@ aircraftsmen
 aircraftswoman
 aircraftwoman
 ahint
-aircrew
 aircrewman
 attended
 aircrewmen
@@ -23804,6 +23803,7 @@ authigene
 authigenetic
 authigenous
 aurite
+aircrew
 authored
 arabizing
 authoress
