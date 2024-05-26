@@ -6226,7 +6226,6 @@ beneficially
 beneficialness
 beneficiaryship
 bananaquit
-beneficiate
 beneficiated
 beneficiating
 beneficiation
@@ -10981,6 +10980,7 @@ blocage
 block
 blockade
 blockaded
+beneficiate
 blockader
 blockaders
 blockading
