@@ -1841,7 +1841,6 @@ feats
 featural
 fainness
 fibrinogen
-feature
 forthrightly
 featured
 featureful
@@ -6050,6 +6049,7 @@ fitment
 frivolously
 florin
 florins
+feature
 floriscope
 faba
 floristics
