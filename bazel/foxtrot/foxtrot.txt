@@ -5922,7 +5922,6 @@ floodplain
 floods
 forst
 fortifiable
-floodway
 feute
 floodways
 fistfight
@@ -6066,6 +6065,7 @@ floroscope
 floroun
 floruit
 ferruginated
+floodway
 florulae
 flinder
 florulas
