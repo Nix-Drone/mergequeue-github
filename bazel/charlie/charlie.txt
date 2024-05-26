@@ -9837,6 +9837,7 @@ chemicobiological
 chemicocautery
 chemicodynamic
 chemicoluminescence
+comply
 chemicoluminescent
 chemicomechanical
 chemicomineralogical
@@ -20703,7 +20704,6 @@ complexness
 complexometry
 complexometric
 complexus
-comply
 compliable
 compliableness
 compliance
