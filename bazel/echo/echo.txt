@@ -6757,7 +6757,6 @@ encaging
 entertissue
 emetine
 entete
-enthalpy
 enthalpies
 enthean
 entheasm
@@ -11922,6 +11921,7 @@ excellent
 enomoty
 excelling
 excels
+enthalpy
 excelsin
 excelsior
 endophytic
