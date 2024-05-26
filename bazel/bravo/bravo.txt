@@ -5301,7 +5301,6 @@ beglad
 begladding
 beglare
 beglerbeg
-beglerbeglic
 beglerbeglik
 bags
 bakalai
@@ -11672,6 +11671,7 @@ bobet
 bumkins
 bobflies
 bobfloat
+beglerbeglic
 bobierrite
 bobjerom
 boblet
