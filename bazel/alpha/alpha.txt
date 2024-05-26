@@ -8542,7 +8542,6 @@ allantoidea
 allantoidean
 allantoides
 allantoin
-analyzer
 allantoinase
 allantoinuria
 acetoxim
@@ -10523,6 +10522,7 @@ amylogens
 amylohydrolysis
 amylohydrolytic
 amyloid
+analyzer
 amyloidal
 arawakan
 adossee
