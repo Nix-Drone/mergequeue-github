@@ -1716,7 +1716,6 @@ depaysee
 deathtime
 deathtrap
 deathtraps
-deathward
 deathwatches
 deathweed
 deathworm
@@ -11433,6 +11432,7 @@ dekaliter
 discographies
 disruptability
 discoid
+deathward
 daubry
 discoidal
 discoideae
