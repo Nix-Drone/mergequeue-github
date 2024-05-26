@@ -3663,7 +3663,6 @@ adenocele
 adenochondroma
 adenochondrosarcoma
 adenochrome
-adenocyst
 adenocystoma
 antepectoral
 adenocystomatous
@@ -16032,6 +16031,7 @@ antiquaries
 antiquarium
 ascriptitii
 antiquartan
+adenocyst
 americas
 antiquated
 antiquates
