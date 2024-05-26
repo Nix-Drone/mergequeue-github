@@ -3820,6 +3820,7 @@ buhr
 battlesome
 boatfalls
 banderilla
+bibl
 battlestead
 battlewagon
 battleward
@@ -7901,7 +7902,6 @@ bibionid
 bibionidae
 bibiri
 bibitory
-bibl
 bardee
 bible
 bibles
