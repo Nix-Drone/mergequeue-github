@@ -3818,7 +3818,6 @@ battleship
 battleships
 buhr
 battlesome
-boatfalls
 banderilla
 battlestead
 battlewagon
@@ -10332,6 +10331,7 @@ burgrave
 bandar
 blankest
 blanket
+boatfalls
 blanketed
 blanketeer
 beetmister
