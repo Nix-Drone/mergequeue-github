@@ -3386,7 +3386,6 @@ capsulectomy
 caliculus
 capsuled
 capsuler
-capsules
 capsuliferous
 capsuliform
 capsuligerous
@@ -11215,6 +11214,7 @@ chloranthaceae
 craniopagus
 chloranthaceous
 chloranthy
+capsules
 chloranthus
 chlorastrolite
 chlorate
