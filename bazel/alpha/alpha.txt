@@ -1026,7 +1026,6 @@ absorbing
 absorbtion
 absorpt
 absorptance
-absorptiometer
 absorptiometric
 angiospasm
 absorptional
@@ -4373,6 +4372,7 @@ adrenocorticotrophic
 ammonolysis
 adrenocorticotropic
 adrenolysis
+absorptiometer
 adrenomedullary
 anthracolithic
 adrenosterone
