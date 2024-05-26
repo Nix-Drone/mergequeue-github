@@ -2496,7 +2496,6 @@ bardlet
 boothian
 bardlike
 burut
-bardling
 beswinge
 bardo
 bardocucullus
@@ -18237,6 +18236,7 @@ butterbump
 butterbur
 butterbush
 buttercup
+bardling
 buttercups
 buttered
 butterfat
