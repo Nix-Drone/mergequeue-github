@@ -8224,6 +8224,7 @@ grappas
 gymnolaema
 grassfinch
 grapple
+graviton
 grappled
 grappler
 grapples
@@ -8495,7 +8496,6 @@ gravitative
 gravity
 gravities
 gravitometer
-graviton
 gravitons
 garb
 grabbed
