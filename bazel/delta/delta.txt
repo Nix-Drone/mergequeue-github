@@ -8793,7 +8793,6 @@ diaconus
 dibranchia
 dibranchiata
 dibranchiate
-dibrom
 dibromide
 dibromoacetaldehyde
 dibromobenzene
@@ -12599,6 +12598,7 @@ disleaf
 disleafed
 dagon
 disleafing
+dibrom
 disleal
 diffrangibility
 disleave
