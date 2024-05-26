@@ -4950,7 +4950,6 @@ aeroelasticity
 antalkalis
 aeroelastics
 aporphin
-aerofoil
 aerofoils
 algine
 arisaema
@@ -22533,6 +22532,7 @@ atheize
 atheizer
 athel
 atheling
+aerofoil
 abongo
 anthropoteleological
 athelings
