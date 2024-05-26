@@ -10138,7 +10138,6 @@ guidable
 guidance
 guide
 gruf
-guideboard
 greediness
 guidebooky
 guidebookish
@@ -10284,6 +10283,7 @@ gametic
 glopnen
 gurgle
 gelly
+guideboard
 gigameter
 gossipiness
 gul
