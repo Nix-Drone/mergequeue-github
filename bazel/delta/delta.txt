@@ -3041,7 +3041,6 @@ deepeners
 drearisomeness
 deepening
 deeper
-deepest
 deepfreeze
 deepfreezing
 deepgoing
@@ -13497,6 +13496,7 @@ dissemblers
 dissembles
 dissemblies
 dissembling
+deepest
 dissemblingly
 dissemilative
 disseminated
