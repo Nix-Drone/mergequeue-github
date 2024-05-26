@@ -2317,7 +2317,6 @@ fencelet
 fenceplay
 fencepost
 fenceress
-fencers
 freeborn
 firebricks
 fsiest
@@ -8152,6 +8151,7 @@ fruitages
 foreward
 forewarm
 forewarmer
+fencers
 flourishable
 forewarn
 forewarns
