@@ -5620,7 +5620,6 @@ brandishers
 belait
 biface
 belaites
-belam
 belamcanda
 belamy
 belamour
@@ -13363,6 +13362,7 @@ bonos
 biophotometer
 barrens
 botswana
+belam
 blueprints
 botte
 bibliopoly
