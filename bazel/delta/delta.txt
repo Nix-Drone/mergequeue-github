@@ -6745,7 +6745,6 @@ desize
 desk
 deskbound
 deskill
-desklike
 deskman
 deskmen
 desks
@@ -7615,6 +7614,7 @@ devicefulness
 damnii
 devices
 devide
+desklike
 devil
 devildom
 deviled
