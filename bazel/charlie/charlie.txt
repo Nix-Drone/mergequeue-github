@@ -4084,7 +4084,6 @@ cardiorrhaphy
 cardiorrheuma
 cardiorrhexis
 cardiosclerosis
-cardioscope
 cardiosymphysis
 cardiospasm
 cardiospermum
@@ -19481,6 +19480,7 @@ colporrhaphy
 colporrhea
 colporrhexis
 colport
+cardioscope
 colportage
 colporter
 colporteur
