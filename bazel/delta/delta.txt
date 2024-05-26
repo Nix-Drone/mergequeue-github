@@ -2464,7 +2464,6 @@ dateline
 decke
 deckedout
 deckel
-deckels
 decken
 decker
 daphnioid
@@ -16109,6 +16108,7 @@ doundake
 doup
 douper
 douping
+deckels
 dour
 doura
 dowdier
