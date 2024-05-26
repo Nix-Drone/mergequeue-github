@@ -2110,7 +2110,6 @@ bankings
 bankman
 banality
 bankmen
-banknote
 barrelet
 badaud
 banknotes
@@ -11817,6 +11816,7 @@ barmybrained
 bodkinwise
 bodle
 bodleian
+banknote
 bodo
 braird
 bodock
