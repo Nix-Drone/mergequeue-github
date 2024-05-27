@@ -7372,7 +7372,6 @@ cephalopharyngeal
 cephalophyma
 cephalophine
 cephalophus
-cephaloplegia
 cephaloplegic
 cephalopod
 cephalopoda
@@ -9768,6 +9767,7 @@ chelated
 chelates
 chelating
 chelation
+cephaloplegia
 chelator
 chelators
 chelerythrine
