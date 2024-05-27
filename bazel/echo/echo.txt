@@ -3023,6 +3023,7 @@ elytroid
 elytroposis
 elytrorhagia
 elytrorrhagia
+endogenicity
 elytrorrhaphy
 elytrostenosis
 elytrotomy
@@ -5175,7 +5176,6 @@ endogenesis
 endogeny
 eyebolt
 exorate
-endogenicity
 endogenies
 exundation
 endogenous
