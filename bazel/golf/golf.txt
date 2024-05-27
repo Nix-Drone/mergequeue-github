@@ -6434,7 +6434,6 @@ gobbledegook
 gobbledygook
 gobbler
 gormandiser
-gid
 gobbles
 gobbling
 gobelin
@@ -7863,6 +7862,7 @@ grampus
 gaddish
 grampuses
 galvanograph
+gid
 groupment
 gullishly
 grams
