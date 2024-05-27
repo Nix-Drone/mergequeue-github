@@ -9992,7 +9992,6 @@ ambivalency
 aiger
 agua
 ambivalent
-ambivalently
 ambiversion
 ambivert
 ambiverts
@@ -11726,6 +11725,7 @@ analyser
 analysers
 addressee
 analyses
+ambivalently
 analysing
 antimoniate
 analysis
