@@ -1304,7 +1304,6 @@ eelpouts
 emblemology
 eelshop
 eelskin
-eelware
 eelworm
 estragon
 een
@@ -11836,6 +11835,7 @@ exarchist
 exareolate
 exarillate
 eireannach
+eelware
 eth
 exarticulate
 exarticulation
