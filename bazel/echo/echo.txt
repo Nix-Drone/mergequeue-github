@@ -3078,6 +3078,7 @@ ellipsis
 ellipsograph
 ellipsoid
 ellipsoidal
+epicentrum
 ellipsoids
 executiveness
 ellipsone
@@ -7620,7 +7621,6 @@ epicenes
 epicenism
 epicentral
 eaux
-epicentrum
 eozoic
 existences
 exr
