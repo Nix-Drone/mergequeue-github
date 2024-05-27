@@ -4216,7 +4216,6 @@ fleeceable
 fireplug
 frieze
 fireplugs
-firepot
 fireproofed
 fireproofing
 fireproofness
@@ -10198,6 +10197,7 @@ frithsoken
 frithstool
 frithwork
 fritillary
+firepot
 flexuosities
 fritillaria
 fritillaries
