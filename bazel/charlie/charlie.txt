@@ -9942,7 +9942,6 @@ chemosurgery
 chemosurgical
 chemotactic
 chemotactically
-chemotaxy
 chemotaxis
 chemotaxonomy
 chemotaxonomic
@@ -31168,6 +31167,7 @@ cuprosilicon
 catamaran
 cuprotungstite
 cuprous
+chemotaxy
 coelector
 cuprum
 cuprums
