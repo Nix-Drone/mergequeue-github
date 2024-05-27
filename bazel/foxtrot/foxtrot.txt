@@ -4353,7 +4353,6 @@ fishbolt
 fishbolts
 falchions
 fishbowls
-fisheater
 fisheye
 fisheyes
 fisher
@@ -4909,6 +4908,7 @@ flameproofer
 flintlocks
 finfishes
 flamer
+fisheater
 flamers
 ferneries
 fallback
