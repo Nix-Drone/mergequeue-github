@@ -5639,7 +5639,6 @@ enfranchisements
 extinct
 enfranchiser
 enallage
-enfranchises
 enhydros
 endued
 extremity
@@ -7660,6 +7659,7 @@ epiclastic
 epicleidian
 epicleidium
 estivage
+enfranchises
 epicly
 epiclidal
 epicycle
