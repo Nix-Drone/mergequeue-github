@@ -316,7 +316,6 @@ beatus
 backbones
 backbrand
 backcap
-backchain
 backchat
 backchats
 backcomb
@@ -9766,6 +9765,7 @@ bistort
 bathylimnetic
 bistorta
 bistorts
+backchain
 bistournage
 bistre
 bedtimes
