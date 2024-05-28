@@ -5790,7 +5790,6 @@ electrosherardizing
 engrafter
 engraftment
 engrafts
-engrail
 engrailed
 engrailment
 engrails
@@ -6896,6 +6895,7 @@ entomolite
 entomology
 entomologic
 entomological
+engrail
 entomologically
 entomologies
 entomologised
