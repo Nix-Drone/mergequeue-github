@@ -5882,7 +5882,6 @@ glossist
 glossitic
 glossitis
 garbleable
-glossless
 glossocele
 glossaries
 glossocoma
@@ -9057,6 +9056,7 @@ goyetian
 gynaecologic
 guanos
 glossiness
+glossless
 grimmest
 guillotinement
 grimmiaceae
