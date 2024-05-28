@@ -139,6 +139,7 @@ facks
 faconde
 faconne
 facsim
+feu
 frena
 facsimile
 facsimiled
@@ -11597,7 +11598,6 @@ fluyts
 fossilising
 fcs
 fusiliers
-feu
 fusilladed
 fetterless
 fibrinogenetic
