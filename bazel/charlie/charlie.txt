@@ -14514,6 +14514,7 @@ cirrhosed
 cirrhosis
 cirrhotic
 cirrhous
+corticolous
 cirrhus
 cirri
 cirribranch
@@ -25890,7 +25891,6 @@ corticoafferent
 corticoefferent
 corticole
 corticoline
-corticolous
 clammish
 correlate
 corticopeduncular
