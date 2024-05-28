@@ -3004,7 +3004,6 @@ genupectoral
 genuses
 geo
 geoagronomic
-geobiont
 geoblast
 geobotany
 galivant
@@ -8379,6 +8378,7 @@ gratuitousness
 gratulate
 glauconitization
 gratulated
+geobiont
 gratulation
 gratulatory
 graunt
