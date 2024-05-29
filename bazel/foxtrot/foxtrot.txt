@@ -1083,7 +1083,6 @@ farmerish
 farmerly
 farmerlike
 farmership
-farmhold
 farmhouse
 feronia
 farmhousey
@@ -6691,6 +6690,7 @@ foeless
 forenotice
 foemanship
 foemen
+farmhold
 formicative
 foenngreek
 flysch
