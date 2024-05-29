@@ -1123,7 +1123,6 @@ edictum
 edicule
 edify
 echolalia
-expectorator
 edificate
 edification
 edificative
@@ -9510,6 +9509,7 @@ evectic
 escaper
 escapers
 excitate
+expectorator
 escapes
 electiveness
 enleaf

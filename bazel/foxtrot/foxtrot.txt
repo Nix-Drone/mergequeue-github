@@ -4409,7 +4409,6 @@ fishmeals
 fishmonger
 ferociousness
 fishmouth
-fishnet
 frank
 fishnets
 fishplate
@@ -9487,6 +9486,7 @@ formaldehydesulphoxylic
 frantic
 franticly
 freeloading
+fishnet
 flybook
 functionalizing
 featless
