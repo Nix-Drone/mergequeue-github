@@ -12245,7 +12245,6 @@ benn
 bomb
 bombable
 bombacaceae
-bombace
 bombay
 bombarde
 byrls
@@ -13411,6 +13410,7 @@ betweenness
 bottomlessly
 bottomlessness
 bottomry
+bombace
 benefic
 bottomried
 bottomrying
