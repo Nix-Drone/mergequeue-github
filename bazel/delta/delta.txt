@@ -3967,7 +3967,6 @@ delactation
 delay
 delayable
 demes
-delayer
 delayers
 delayful
 delayingly
@@ -14689,6 +14688,7 @@ docoglossate
 docosane
 docosanoic
 dipteral
+delayer
 docquet
 docs
 doctor
