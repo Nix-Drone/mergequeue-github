@@ -2873,7 +2873,6 @@ acrochordidae
 acrochordinae
 acrochordon
 acrocyanosis
-acrocyst
 achenocarp
 acrock
 acrospore
@@ -23261,6 +23260,7 @@ aucht
 angiosteosis
 armseye
 auckland
+acrocyst
 auctary
 auction
 auctionary
