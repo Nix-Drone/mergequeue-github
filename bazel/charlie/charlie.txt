@@ -8180,6 +8180,7 @@ chain
 chainage
 chainbreak
 conceptions
+cumulative
 chaine
 chained
 chainer
@@ -30995,7 +30996,6 @@ cumulately
 cumulating
 cumulation
 cumulatist
-cumulative
 cumulatively
 cumulativeness
 chorioallantois
