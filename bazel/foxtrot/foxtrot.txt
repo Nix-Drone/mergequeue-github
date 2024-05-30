@@ -9864,6 +9864,7 @@ fuzee
 frequent
 frequentable
 forced
+frontwise
 factored
 frequentage
 frequented
@@ -10486,7 +10487,6 @@ frontstall
 featurish
 fronture
 frontwards
-frontwise
 fairbanks
 froom
 froppish
