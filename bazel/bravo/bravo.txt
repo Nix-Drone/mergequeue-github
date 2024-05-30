@@ -11858,6 +11858,7 @@ boffos
 bandanas
 boffs
 bugseed
+borrow
 boga
 bogach
 bogard
@@ -15671,7 +15672,6 @@ bedriveled
 broadlooms
 broadmindedly
 broadmouth
-borrow
 broadpiece
 broads
 broadshare
