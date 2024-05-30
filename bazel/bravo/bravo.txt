@@ -9267,7 +9267,6 @@ bipartizan
 bipaschal
 bypass
 bypassed
-bypasser
 bypassing
 bypath
 bypaths
@@ -12951,6 +12950,7 @@ bordered
 borderer
 borderers
 bordering
+bypasser
 borderings
 borders
 borderland
