@@ -10186,7 +10186,6 @@ gasfiring
 gilgulim
 guild
 gharry
-guilder
 graver
 ghoul
 guildhall
@@ -10604,6 +10603,7 @@ gunzian
 glorifiers
 gup
 guppy
+guilder
 guppies
 gusting
 gur
