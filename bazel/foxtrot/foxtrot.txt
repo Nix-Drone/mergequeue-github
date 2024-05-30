@@ -5012,7 +5012,6 @@ flappers
 flappet
 flappy
 faxes
-flapping
 flywire
 feckless
 feud
@@ -6887,6 +6886,7 @@ folioed
 foreporch
 foliolate
 foliole
+flapping
 finecomb
 folios
 formfitting
