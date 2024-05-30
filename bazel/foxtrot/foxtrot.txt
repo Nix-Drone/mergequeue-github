@@ -1700,7 +1700,6 @@ fdnames
 fdtype
 fdub
 fortuitousness
-fe
 forksmith
 feaberry
 frugivora
@@ -5603,6 +5602,7 @@ flightiness
 flightless
 forepassed
 frailest
+fe
 flights
 flightworthy
 flying
