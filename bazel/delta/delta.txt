@@ -3149,7 +3149,6 @@ defalk
 defamation
 defamations
 defamatory
-defame
 defamed
 dragginess
 defamer
@@ -12693,6 +12692,7 @@ dislustre
 deictic
 demonstrant
 decorticated
+defame
 dislustred
 dismay
 dismayable
