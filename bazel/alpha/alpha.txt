@@ -4646,7 +4646,6 @@ advisees
 advisement
 atli
 advisements
-adviser
 advisers
 advisership
 advises
@@ -5881,6 +5880,7 @@ agatelike
 agates
 agatha
 agathaea
+adviser
 agathaumas
 agathin
 agathis
