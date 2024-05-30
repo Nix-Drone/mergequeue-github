@@ -2041,7 +2041,6 @@ acetylbenzene
 amenders
 acetylbenzoate
 acetylbenzoic
-acetylcarbazole
 acetylcellulose
 anamnesis
 acetylcholine
@@ -13330,6 +13329,7 @@ anisometric
 anisometrope
 anisomyarian
 anisomyodi
+acetylcarbazole
 anisomyodian
 anisomyodous
 anisopetalous
