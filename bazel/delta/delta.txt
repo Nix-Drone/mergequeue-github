@@ -9180,7 +9180,6 @@ dyeings
 dieldrin
 decahedrodra
 dieldrins
-dyeleaves
 dielectric
 dielectrical
 dielectrically
@@ -12805,6 +12804,7 @@ drawspan
 disobeyers
 disobeying
 disobligation
+dyeleaves
 demobilised
 disobligatory
 disoblige
