@@ -639,7 +639,6 @@ bacteriochlorophyll
 bacteriocin
 bishopbird
 bacteriodiagnosis
-bacteriofluorescin
 bromates
 bacteriogenic
 bacteriogenous
@@ -1758,6 +1757,7 @@ balsamaceous
 balsamation
 balsamed
 balsamer
+bacteriofluorescin
 balsamic
 balsamical
 balsamically
