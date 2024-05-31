@@ -2004,7 +2004,6 @@ bandsawing
 bandsawn
 bandsman
 bandsmen
-bandspreading
 bandstand
 bandstands
 bandster
@@ -7154,6 +7153,7 @@ bespelled
 bespend
 benzoflavine
 bespew
+bandspreading
 basseting
 bespy
 bugology
