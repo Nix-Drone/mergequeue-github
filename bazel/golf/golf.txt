@@ -2242,7 +2242,6 @@ gd
 gdinfo
 gds
 grayfish
-globously
 ge
 gorrel
 geadephaga
@@ -8517,6 +8516,7 @@ grazierdom
 graziery
 greenuk
 graziers
+globously
 grazing
 growthful
 gantlope
