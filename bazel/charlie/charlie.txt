@@ -25198,7 +25198,6 @@ cladode
 coryphaei
 coryphaena
 coryphaenid
-coryphaenidae
 coryphaenoididae
 coryphaeus
 coryphee
@@ -26374,6 +26373,7 @@ cotyledonar
 cotyledonary
 cotyledonoid
 cotyledonous
+coryphaenidae
 cotyledons
 cotyligerous
 cotyliscus
