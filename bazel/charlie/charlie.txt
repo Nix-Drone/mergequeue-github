@@ -18182,7 +18182,6 @@ coffeehoused
 coffeehouses
 coffeehousing
 coffeeleaf
-coffeeman
 coffeepot
 coffeepots
 coffeeroom
@@ -20046,6 +20045,7 @@ comments
 commerce
 commerced
 commerceless
+coffeeman
 commercia
 commerciable
 commercialisation
