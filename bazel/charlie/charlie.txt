@@ -2116,7 +2116,6 @@ campshed
 campshedding
 campsheeting
 campsite
-compasser
 campsites
 campstool
 campstools
@@ -13836,6 +13835,7 @@ cindie
 cine
 cineangiocardiography
 cineangiocardiographic
+compasser
 cineangiography
 cineangiographic
 cuffless
