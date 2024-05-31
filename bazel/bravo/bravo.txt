@@ -10229,7 +10229,6 @@ bladderseed
 bladderweed
 bladderwort
 bladderwrack
-brabbler
 blade
 bladebone
 bladelet
@@ -12272,6 +12271,7 @@ bombaster
 bombastic
 biophor
 bonds
+brabbler
 battering
 baniwa
 bombastical
