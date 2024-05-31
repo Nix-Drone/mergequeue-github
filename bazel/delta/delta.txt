@@ -5529,7 +5529,6 @@ deorganize
 deorientalize
 deorsum
 deorsumvergence
-deorsumversion
 deorusumduction
 deossify
 deossification
@@ -8420,6 +8419,7 @@ diamesogamous
 diameter
 diameters
 deciares
+deorsumversion
 diffusedly
 diametral
 diametrally
