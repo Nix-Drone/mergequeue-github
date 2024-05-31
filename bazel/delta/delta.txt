@@ -2411,7 +2411,6 @@ dilogarithm
 decimalize
 decimalizes
 decimally
-decimals
 dressages
 decimate
 decimated
@@ -11983,6 +11982,7 @@ deveins
 disenfranchisement
 disenfranchisements
 decumaria
+decimals
 disenfranchises
 dollarbird
 dromaeus
