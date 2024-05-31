@@ -4260,7 +4260,6 @@ delocalising
 delocalization
 delocalize
 delocalizing
-delomorphic
 delomorphous
 deloo
 deloul
@@ -9684,6 +9683,7 @@ dilatement
 dilater
 dilaters
 dilates
+delomorphic
 dilatingly
 dardaol
 dilation
