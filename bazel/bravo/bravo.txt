@@ -14842,6 +14842,7 @@ breakpoint
 breakpoints
 breaks
 breakshugh
+brownout
 besselian
 breakstone
 breakthrough
@@ -16237,7 +16238,6 @@ brownly
 brownness
 brownnose
 brownnoser
-brownout
 brownouts
 babus
 brownshirt
