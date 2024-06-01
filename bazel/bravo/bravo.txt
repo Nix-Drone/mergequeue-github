@@ -2110,7 +2110,6 @@ bankings
 bankman
 banality
 bankmen
-banknote
 barrelet
 badaud
 banknotes
@@ -17769,6 +17768,7 @@ burnbeat
 bombshell
 burned
 burner
+banknote
 burnetize
 bloodstain
 burnettize
