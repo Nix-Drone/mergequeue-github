@@ -6951,7 +6951,6 @@ entophytous
 epimere
 entopic
 entoplasm
-entoplastron
 entopopliteal
 eightyfold
 entoprocta
@@ -9754,6 +9753,7 @@ esotropia
 esotropic
 exponentiate
 esp
+entoplastron
 espace
 espacement
 espada
