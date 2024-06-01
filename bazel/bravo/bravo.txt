@@ -7705,6 +7705,7 @@ brushfire
 bewraps
 battleground
 bathycurrent
+belatedly
 bewrapt
 bewrathed
 bewreak
@@ -13538,7 +13539,6 @@ bounces
 bouncier
 bounciest
 bouncily
-belatedly
 bounciness
 bouncingly
 boundable
