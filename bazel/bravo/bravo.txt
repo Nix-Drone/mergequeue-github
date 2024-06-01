@@ -4352,7 +4352,6 @@ beaverkin
 beaverlike
 beaverroot
 beavers
-beaverskin
 beaverteen
 beaverwood
 beback
@@ -5893,6 +5892,7 @@ bellowsmaker
 bellowsmaking
 brassie
 bellowsman
+beaverskin
 bellpull
 bellpulls
 burhead
