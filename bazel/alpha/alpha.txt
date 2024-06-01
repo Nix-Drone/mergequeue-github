@@ -1880,7 +1880,6 @@ aceldama
 aceldamas
 acellular
 acemila
-antilepton
 acerb
 acenaphthene
 acenaphthylene
@@ -8904,6 +8903,7 @@ allophore
 alloplasm
 alloplasmatic
 alloplasmic
+antilepton
 alloplast
 alloplastic
 allopolyploid
