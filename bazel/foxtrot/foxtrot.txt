@@ -9132,7 +9132,6 @@ fowlers
 fowlfoot
 fowling
 fowlings
-fowlpox
 fowlpoxes
 fallaciousness
 fowls
@@ -11328,6 +11327,7 @@ furanes
 furanoid
 furanose
 fixates
+fowlpox
 fellahin
 ferrimagnetic
 furanoses
