@@ -12731,6 +12731,7 @@ bucketeer
 bookwright
 bool
 bowline
+bordure
 boolean
 booleans
 booley
@@ -12968,7 +12969,6 @@ beringite
 bordroom
 borinqueno
 bordun
-bordure
 bordures
 bore
 boreable
