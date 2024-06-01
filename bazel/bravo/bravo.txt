@@ -9936,7 +9936,6 @@ biunivocal
 biurate
 biurea
 bivalence
-bivalency
 bivalencies
 bivalent
 bivalents
@@ -17080,6 +17079,7 @@ bullberry
 bullbird
 bullboat
 bullcart
+bivalency
 brownprint
 bullcomber
 bulldog
