@@ -12172,6 +12172,7 @@ angiometer
 almach
 anchory
 anchorite
+afterdischarge
 astate
 anchorites
 anchoritess
@@ -17848,7 +17849,6 @@ applicatory
 applicatorily
 applicators
 appliedly
-afterdischarge
 applier
 autocab
 applies
