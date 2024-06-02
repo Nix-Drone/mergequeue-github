@@ -2221,7 +2221,6 @@ gazetteers
 goon
 gazetteership
 gremlin
-gazettes
 gazetting
 gazing
 gazingstock
@@ -7782,6 +7781,7 @@ grammarianism
 guerison
 graywacke
 graywether
+gazettes
 geophone
 grallatores
 goldminer
