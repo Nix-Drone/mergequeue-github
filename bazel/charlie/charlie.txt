@@ -18858,7 +18858,6 @@ collapsable
 collapsar
 cascado
 collapse
-collapsed
 collapses
 contam
 collapsibility
@@ -30944,6 +30943,7 @@ cameramen
 courtlet
 cumbha
 cumble
+collapsed
 cumbraite
 cumbrance
 cumbre
