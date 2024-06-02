@@ -4662,6 +4662,7 @@ beddable
 bedders
 bedding
 beddingroll
+bkt
 beddings
 bede
 bro
@@ -10032,7 +10033,6 @@ backsey
 bkpt
 bocasine
 bks
-bkt
 bl
 blaasop
 blabbed
