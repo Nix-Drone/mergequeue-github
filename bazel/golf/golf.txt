@@ -5695,7 +5695,6 @@ globousness
 globs
 grumps
 globular
-glossolabial
 gconvert
 ganch
 genuflector
@@ -7425,6 +7424,7 @@ gourami
 gadhelic
 guib
 gouramis
+glossolabial
 gourde
 gourded
 gourdes
