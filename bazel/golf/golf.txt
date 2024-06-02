@@ -681,7 +681,6 @@ gnathonize
 gadaea
 geodesy
 galliot
-galliots
 gurnets
 gallipot
 gallipots
@@ -756,6 +755,7 @@ grapplers
 galop
 galopade
 galopin
+galliots
 grammies
 galops
 galore
