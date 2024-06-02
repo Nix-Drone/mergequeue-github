@@ -7271,7 +7271,6 @@ enwreathing
 enwrought
 environments
 enwwove
-euphonym
 enwwoven
 enzym
 ensample
@@ -12565,6 +12564,7 @@ exintine
 endsweep
 exist
 existability
+euphonym
 existed
 existence
 existent
