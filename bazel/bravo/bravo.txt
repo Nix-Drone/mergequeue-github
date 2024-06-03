@@ -1845,6 +1845,7 @@ boss
 bizardite
 bothroi
 banago
+biochemy
 blancmanger
 banagos
 buriable
@@ -8932,7 +8933,6 @@ biocenology
 bananas
 biocenosis
 biocentric
-biochemy
 biochemic
 biochemically
 biochemics
