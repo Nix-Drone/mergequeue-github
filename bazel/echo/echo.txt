@@ -4579,7 +4579,6 @@ encephalomalacia
 encephalomalacosis
 encephalomalaxis
 encephalomas
-encephalomeningocele
 encephalometric
 encephalomyelitic
 encephalomyelitis
@@ -11243,6 +11242,7 @@ extensionally
 euxenites
 endopterygotous
 empresario
+encephalomeningocele
 evacuant
 evacuated
 eurystheus
