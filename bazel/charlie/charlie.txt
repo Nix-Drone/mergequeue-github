@@ -3423,7 +3423,6 @@ caption
 captioned
 captioning
 captionless
-captions
 captious
 childridden
 captiously
@@ -16665,6 +16664,7 @@ cleruch
 closes
 closest
 closeting
+captions
 closets
 closeups
 closewing
