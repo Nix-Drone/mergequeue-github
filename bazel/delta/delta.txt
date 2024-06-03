@@ -3149,7 +3149,6 @@ defalk
 defamation
 defamations
 defamatory
-defame
 defamed
 dragginess
 defamer
@@ -18382,6 +18381,7 @@ duping
 dupion
 dishlike
 dupioni
+defame
 duplation
 duple
 duplex
