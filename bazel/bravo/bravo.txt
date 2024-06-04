@@ -2649,7 +2649,6 @@ barish
 barysilite
 barit
 baryta
-barebacked
 bloodlike
 barytas
 barite
@@ -13049,6 +13048,7 @@ borofluorin
 boroglycerate
 boroglycerine
 borohydride
+barebacked
 boronatrocalcite
 barranco
 boronia
