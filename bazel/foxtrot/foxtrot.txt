@@ -286,6 +286,7 @@ fadeless
 faden
 fadeout
 fader
+farad
 faders
 fadge
 forra
@@ -937,7 +938,6 @@ faquir
 filaze
 faquirs
 far
-farad
 faraday
 faradaic
 faradays
