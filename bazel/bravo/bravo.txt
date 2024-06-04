@@ -6276,7 +6276,6 @@ buttonbur
 besing
 beni
 benic
-benaming
 benight
 benighted
 benightedness
@@ -9269,6 +9268,7 @@ bypass
 bypassed
 bypasser
 bypassing
+benaming
 bypath
 bypaths
 burweed
