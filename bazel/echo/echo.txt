@@ -298,7 +298,6 @@ eatability
 eatable
 eatables
 electrolyzability
-eatberry
 eaten
 emetophobia
 empeirema
@@ -13914,6 +13913,7 @@ extraparental
 extraparietal
 extraparliamentary
 ebony
+eatberry
 extraparochial
 extraparochially
 extrapatriarchal
