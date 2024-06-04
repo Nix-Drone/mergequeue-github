@@ -13505,6 +13505,7 @@ cif
 cig
 cigar
 cigaresque
+coumarin
 cigaret
 cigarets
 cigarette
@@ -26567,7 +26568,6 @@ coumaphos
 coumaran
 coumaric
 coumarilic
-coumarin
 coumarinic
 coumarins
 coumarone
