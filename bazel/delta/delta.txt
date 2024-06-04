@@ -2991,7 +2991,6 @@ deductions
 deductive
 deductively
 dysfunctional
-deductory
 deducts
 deduit
 deduplication
@@ -5022,6 +5021,7 @@ demulsifier
 demulsion
 distinguish
 demultiplex
+deductory
 demultiplexed
 demultiplexer
 demultiplexers
