@@ -5293,7 +5293,6 @@ broadsheet
 begirded
 begirding
 begirdled
-begirdles
 begirdling
 begirds
 begirt
@@ -12207,6 +12206,7 @@ bolsterers
 bolsters
 bunters
 brake
+begirdles
 boltage
 boltcutter
 buckstay
