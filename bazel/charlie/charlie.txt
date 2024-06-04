@@ -1602,7 +1602,6 @@ calorimeters
 calorimetry
 calorimetric
 calorimetrical
-calorimetrically
 calorimotor
 calorisator
 calorist
@@ -3753,6 +3752,7 @@ catalyzed
 carbonemia
 coccolith
 carbones
+calorimetrically
 carbonic
 carbonide
 convalescent
