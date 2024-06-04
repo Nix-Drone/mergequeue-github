@@ -3278,7 +3278,6 @@ caprelline
 capreol
 capreolar
 capreolary
-capreolate
 capreoline
 capreolus
 capretto
@@ -15464,6 +15463,7 @@ claptrap
 chicane
 claptraps
 clapwort
+capreolate
 culbuter
 claque
 claquer
