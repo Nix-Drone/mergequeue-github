@@ -3437,6 +3437,7 @@ fifo
 fifteen
 fifteenfold
 fifteens
+fungibles
 fifteenthly
 fifteenths
 fifthly
@@ -11136,7 +11137,6 @@ functionated
 furunculus
 functionating
 forebay
-fungibles
 functioned
 functioning
 functionize
