@@ -4750,7 +4750,6 @@ carriable
 carryable
 carriage
 carriageable
-carriageful
 carriages
 carriagesmith
 cloddy
@@ -20676,6 +20675,7 @@ completive
 completively
 cneoraceous
 completory
+carriageful
 completories
 complex
 complexation
