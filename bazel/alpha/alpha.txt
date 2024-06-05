@@ -11212,7 +11212,6 @@ amphithalami
 amphithalamus
 azygobranchia
 amphitheater
-amphitheatered
 amphitheaters
 amphitheatre
 aerocyst
@@ -14294,6 +14293,7 @@ anteroparietal
 anteropygal
 anteroposterior
 anterospinal
+amphitheatered
 antes
 antescript
 antesignanus
