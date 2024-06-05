@@ -8680,7 +8680,6 @@ changeability
 changeable
 cycloses
 chuckram
-changeableness
 composit
 changeably
 changeabout
@@ -12399,6 +12398,7 @@ chromatopsia
 chromatoptometer
 chromatoptometry
 chromatoscope
+changeableness
 chromatoscopy
 chromatosis
 castro
