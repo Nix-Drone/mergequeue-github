@@ -5108,7 +5108,6 @@ glamour
 granita
 glossary
 glamourization
-glamourize
 glamourless
 glamourous
 glance
@@ -9341,6 +9340,7 @@ grooved
 groovelike
 groover
 gumtree
+glamourize
 grooverhead
 groovers
 granitic
