@@ -1803,6 +1803,7 @@ accumulator
 accupy
 accur
 accuracy
+armure
 accuracies
 accurately
 approvement
@@ -20032,7 +20033,6 @@ arms
 armscye
 avarice
 armsful
-armure
 activistic
 armures
 arn
