@@ -2744,7 +2744,6 @@ fess
 fesse
 fessed
 fesses
-fessewise
 fest
 festae
 fixatifs
@@ -6621,6 +6620,7 @@ foaly
 foaling
 foals
 forestick
+fessewise
 foam
 foambow
 foamed
