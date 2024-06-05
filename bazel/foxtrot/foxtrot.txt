@@ -604,7 +604,6 @@ funt
 forerib
 falseheartedly
 falseheartedness
-falsehood
 falsehoods
 falsely
 falseness
@@ -8876,6 +8875,7 @@ fossilise
 fossilised
 flowages
 frameableness
+falsehood
 fossilism
 fossilist
 fossilizable
