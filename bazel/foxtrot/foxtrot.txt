@@ -1395,7 +1395,6 @@ fatherlike
 fathers
 fathership
 forswore
-fathomableness
 fathomage
 faunal
 fathomed
@@ -1761,6 +1760,7 @@ feasted
 fillingness
 feaster
 floats
+fathomableness
 ficary
 filicin
 flashflood
