@@ -4747,6 +4747,7 @@ carretta
 carri
 carry
 carriable
+curricling
 carryable
 carriage
 carriageable
@@ -31453,7 +31454,6 @@ currentwise
 curry
 curricle
 curricles
-curricling
 currycomb
 currycombing
 currycombs
