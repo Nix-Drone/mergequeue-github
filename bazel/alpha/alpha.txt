@@ -8837,7 +8837,6 @@ alloiometric
 adjustments
 acrogenic
 alloys
-alloisomer
 alloisomeric
 alloisomerism
 allokinetic
@@ -24737,6 +24736,7 @@ aviatress
 aviatrice
 aviatrices
 aviatrix
+alloisomer
 avicennia
 avicenniaceae
 avicennism
