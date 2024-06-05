@@ -6017,7 +6017,6 @@ catproof
 catrigged
 cats
 catskill
-coll
 catskin
 catslide
 catso
@@ -9010,6 +9009,7 @@ coatracks
 chariot
 charioted
 chariotee
+coll
 charioteer
 charioting
 chariotlike
