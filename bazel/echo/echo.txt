@@ -6446,7 +6446,6 @@ enslumber
 ensnare
 ensnared
 explosive
-ensnarement
 ensnarer
 ensnarers
 ensnares
@@ -13625,6 +13624,7 @@ explorativeness
 externality
 eths
 externalities
+ensnarement
 externalization
 externalize
 externalized
