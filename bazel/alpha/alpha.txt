@@ -13394,6 +13394,7 @@ anker
 ankerhold
 ankerite
 ankerites
+autosauri
 ankh
 ankhs
 ankylenteron
@@ -24347,7 +24348,6 @@ autorotational
 autoroute
 autorrhaphy
 autos
-autosauri
 autosauria
 autoschediasm
 autoschediastic
