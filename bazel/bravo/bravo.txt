@@ -7707,6 +7707,7 @@ battleground
 bathycurrent
 bewrapt
 bewrathed
+blest
 bewreak
 bewreath
 bewreck
@@ -8254,7 +8255,6 @@ byepath
 bier
 broid
 bierbalk
-blest
 byerite
 bierkeller
 byerlite
