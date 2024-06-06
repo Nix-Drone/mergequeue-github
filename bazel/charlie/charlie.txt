@@ -4753,7 +4753,6 @@ carriageable
 carriageful
 carriages
 carriagesmith
-cloddy
 cinchonicin
 carriageway
 carryall
@@ -9907,6 +9906,7 @@ chemopause
 congregativeness
 chemophysiology
 chemoprophyalctic
+cloddy
 chemoprophylaxis
 condensative
 chemoreception
