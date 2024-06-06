@@ -5335,7 +5335,6 @@ affirmance
 affirmant
 affirmation
 affirmations
-affirmative
 affirmatively
 affirmativeness
 antioptimistical
@@ -12756,6 +12755,7 @@ angiogenic
 angioglioma
 angiography
 angiographic
+affirmative
 angiohemophilia
 angiohyalinosis
 angiohypertonia
