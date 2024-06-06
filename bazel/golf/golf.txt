@@ -2239,7 +2239,6 @@ gazzetta
 gcd
 gconv
 gd
-gdinfo
 gds
 grayfish
 globously
@@ -7435,6 +7434,7 @@ gourdlike
 gourds
 gigging
 granuliferous
+gdinfo
 grabbier
 geminal
 gulper
