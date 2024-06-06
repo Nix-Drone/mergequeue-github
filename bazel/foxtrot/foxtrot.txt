@@ -5668,7 +5668,6 @@ flintlock
 fellatios
 flintwood
 flintworker
-flyoff
 flyover
 flyovers
 fustanella
@@ -6287,6 +6286,7 @@ footstool
 fissicostate
 fecit
 fluidified
+flyoff
 fluidifier
 fluidimeter
 fluidisation

@@ -11031,7 +11031,6 @@ chirurgeon
 chirurgeonly
 chirurgery
 chis
-chiseled
 curuba
 chiseler
 chiselers
@@ -23830,6 +23829,7 @@ contributable
 contributary
 contributed
 contributes
+chiseled
 civilisedness
 contribution
 cephalob
