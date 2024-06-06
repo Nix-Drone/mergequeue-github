@@ -2728,7 +2728,6 @@ deconvolve
 decopperization
 decopperize
 decor
-decorability
 decorable
 decorably
 doubtfulness
@@ -9928,6 +9927,7 @@ dohter
 downfalls
 disciplines
 diminutions
+decorability
 diminutival
 disgarrison
 dimiss
