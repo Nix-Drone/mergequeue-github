@@ -3454,7 +3454,6 @@ deflourish
 dropforged
 dubash
 deflower
-deflowered
 deflowerer
 deflowering
 defeating
@@ -12439,6 +12438,7 @@ defensing
 destructivism
 diaconia
 disinfected
+deflowered
 decigram
 dichogamy
 duettist
