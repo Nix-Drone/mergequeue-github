@@ -79,7 +79,6 @@ earmarking
 earmarkings
 epithelioblastoma
 equitation
-exteroceptive
 epicalyces
 earmuff
 earmuffs
@@ -10402,6 +10401,7 @@ ethmopalatal
 ethmopalatine
 ethmophysal
 ethmopresphenoidal
+exteroceptive
 ethmose
 ethmosphenoid
 epiphyllous
