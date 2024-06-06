@@ -9558,7 +9558,6 @@ checkpointing
 checkpoints
 commonize
 checkrack
-checkrail
 checkrein
 checkroll
 checkroom
@@ -21654,6 +21653,7 @@ conditionalism
 coplotting
 conditionalist
 cassytha
+checkrail
 conditionality
 conditionalities
 conditionalize
