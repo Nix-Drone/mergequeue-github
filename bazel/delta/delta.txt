@@ -11154,7 +11154,6 @@ disbarring
 disbars
 disbase
 disbelief
-disbeliefs
 disbelieved
 disbeliever
 disbelievers
@@ -18233,6 +18232,7 @@ duniewassal
 dunite
 dunitic
 duniwassal
+disbeliefs
 dunk
 dunkadoo
 dogged
