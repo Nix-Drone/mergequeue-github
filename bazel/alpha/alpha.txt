@@ -4822,6 +4822,7 @@ aeolsklavier
 aeolus
 aeon
 aeonic
+affixable
 aeonicaeonist
 aeonist
 aeons
@@ -5348,7 +5349,6 @@ affirmed
 affirmers
 affirms
 affix
-affixable
 affixal
 affixation
 affixed
