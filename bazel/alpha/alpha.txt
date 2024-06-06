@@ -927,7 +927,6 @@ agglutinating
 absences
 absent
 ascochyta
-absentation
 absented
 absentee
 absentees
@@ -23583,6 +23582,7 @@ auriculocranial
 auriculoid
 auriculoparietal
 anticreation
+absentation
 auriculovertical
 auride
 auriferous
