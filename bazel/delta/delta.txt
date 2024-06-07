@@ -5733,7 +5733,6 @@ deplace
 deplaceable
 deplane
 deplaned
-deplaning
 deplant
 deplantation
 deplasmolysis
@@ -6490,6 +6489,7 @@ descensories
 dilemi
 descent
 draconitic
+deplaning
 descents
 deschampsia
 deschool
