@@ -12685,7 +12685,6 @@ bookmobile
 bookmobiles
 bookplate
 bookplates
-barwise
 bookpress
 bookrack
 bookracks
@@ -14043,6 +14042,7 @@ brachypleural
 blastoporic
 bispore
 brachypnea
+barwise
 brachypodine
 barquantine
 brachyprism
