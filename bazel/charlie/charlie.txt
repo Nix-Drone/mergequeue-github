@@ -11891,6 +11891,7 @@ chordal
 chordamesoderm
 chordamesodermal
 chordamesodermic
+copen
 chordata
 chordate
 chordates
@@ -24510,7 +24511,6 @@ copellidine
 copeman
 copemate
 copemates
-copen
 copending
 copenetrate
 copenhagen
