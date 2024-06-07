@@ -1379,7 +1379,6 @@ balbutiate
 balbutient
 balconet
 balconette
-bag
 blere
 balcony
 balconies
@@ -5350,6 +5349,7 @@ begowk
 begowned
 buyable
 benchboard
+bag
 begray
 begrain
 begrave
