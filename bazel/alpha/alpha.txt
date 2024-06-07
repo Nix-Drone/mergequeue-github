@@ -10618,7 +10618,6 @@ aminopyrine
 aminoplast
 aminoplastic
 aminopolypeptidase
-aminopropionic
 aminopurine
 aminoquin
 aminosis
@@ -20229,6 +20228,7 @@ autodigestive
 anaqua
 arrestment
 arrestor
+aminopropionic
 arrestors
 arrests
 arret
