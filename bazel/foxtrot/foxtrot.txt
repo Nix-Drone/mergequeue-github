@@ -6940,7 +6940,6 @@ folksily
 folksiness
 folksong
 folksongs
-folktales
 folkvangr
 foll
 foller
@@ -7918,6 +7917,7 @@ forerehearsed
 forerequest
 forerevelation
 foreribs
+folktales
 forerigging
 fulminic
 foredates
