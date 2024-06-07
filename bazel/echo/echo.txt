@@ -2471,7 +2471,6 @@ electrokinetics
 electroless
 electrolier
 electrolysation
-electrolyse
 everydeal
 elephantlike
 electrolysed
@@ -2505,6 +2504,7 @@ escalloping
 electromagnets
 electromassage
 electromechanical
+electrolyse
 electromechanics
 electromedical
 esquireship
