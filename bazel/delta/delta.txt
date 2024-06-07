@@ -270,6 +270,7 @@ daggerlike
 daggerproof
 daggers
 dagging
+detruncate
 disavaunce
 daggled
 daggles
@@ -7374,7 +7375,6 @@ detrudes
 driblet
 distalia
 detruding
-detruncate
 detruncating
 detruncation
 damneder
