@@ -4043,7 +4043,6 @@ finishable
 finisher
 finishers
 finishes
-finishing
 finitary
 finite
 finiteness
@@ -7495,6 +7494,7 @@ foreadmonish
 false
 flashpan
 foreadvertise
+finishing
 fractionlet
 foreadvice
 foreadvise
