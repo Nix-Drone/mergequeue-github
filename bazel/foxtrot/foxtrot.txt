@@ -3381,7 +3381,6 @@ financist
 fascio
 fieldmice
 fieldmouse
-fieldpieces
 fieldsman
 fieldsmen
 flosculose
@@ -6655,6 +6654,7 @@ focimeter
 focimetry
 fockle
 focoids
+fieldpieces
 focsle
 focus
 focusable
