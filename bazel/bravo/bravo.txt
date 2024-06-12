@@ -5595,7 +5595,6 @@ bel
 bela
 belabor
 basementward
-bruscus
 beachcomber
 belaboring
 belabours
@@ -11453,6 +11452,7 @@ blunger
 blungers
 blunges
 blunk
+bruscus
 blunker
 blunket
 blunks
