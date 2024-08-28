@@ -1829,7 +1829,6 @@ angiomatous
 accusation
 accusations
 accusative
-accusatively
 accusativeness
 accusatives
 accusator
@@ -3206,6 +3205,7 @@ actionize
 actionized
 actionizing
 anaesthesia
+accusatively
 actionless
 arrectary
 actions
