@@ -7194,7 +7194,6 @@ centring
 centrings
 caped
 centriole
-centripetal
 centripetence
 centripetency
 centriscid
@@ -28788,6 +28787,7 @@ crest
 counterbalance
 crestal
 crested
+centripetal
 crestfallen
 crestfallenly
 crestfallenness
