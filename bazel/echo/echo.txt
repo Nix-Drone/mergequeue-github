@@ -10134,7 +10134,6 @@ equippers
 ever
 etamines
 etyma
-etamins
 etang
 etceteras
 etape
@@ -10484,6 +10483,7 @@ execrable
 enthuses
 ectopia
 echinostome
+etamins
 ethnotechnics
 ethnotechnography
 ethnozoology
