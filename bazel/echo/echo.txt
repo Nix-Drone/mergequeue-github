@@ -4926,7 +4926,6 @@ endamages
 endamaging
 endameba
 endamebae
-excipule
 endamebiasis
 extradictable
 endamnify
@@ -6653,6 +6652,7 @@ enterocoela
 enterocoelous
 easterliness
 enterocolitis
+excipule
 enterocolostomy
 epistemically
 enterodynia
