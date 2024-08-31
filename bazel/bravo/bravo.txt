@@ -4138,6 +4138,7 @@ beams
 beamsman
 beamwork
 bantlings
+becapping
 bean
 badawi
 beanbag
@@ -4426,7 +4427,6 @@ becalming
 becalmment
 becalms
 becap
-becapping
 brassylic
 becaps
 becard
