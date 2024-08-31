@@ -2945,6 +2945,7 @@ feudovassalism
 format
 feuds
 flagonless
+flecked
 furazane
 formularism
 frustums
@@ -5325,7 +5326,6 @@ fleche
 flechette
 flechettes
 fleck
-flecked
 fleckering
 flecky
 fogyisms
