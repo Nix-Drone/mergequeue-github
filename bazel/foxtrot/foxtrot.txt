@@ -1102,7 +1102,6 @@ fisc
 farms
 farmscape
 farmsteads
-farmtown
 farnesol
 farnesols
 fogas
@@ -7429,6 +7428,7 @@ forcene
 forceps
 fey
 forceput
+farmtown
 fazing
 forces
 forcet
