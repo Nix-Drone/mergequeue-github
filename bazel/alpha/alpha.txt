@@ -6415,7 +6415,6 @@ agremens
 agrement
 agrest
 agrestal
-agrestial
 agrestic
 agrestical
 agria
@@ -9241,6 +9240,7 @@ alopecurus
 alopekai
 alopeke
 alophas
+agrestial
 aliases
 alopias
 alopiidae
