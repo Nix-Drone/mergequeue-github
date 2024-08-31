@@ -3811,6 +3811,7 @@ battlement
 battlements
 battlepiece
 battleplane
+basifiers
 barnstorms
 battler
 battles
@@ -15386,7 +15387,6 @@ brigsail
 bismutoplagionite
 brigue
 brigued
-basifiers
 briguing
 brill
 brillante
