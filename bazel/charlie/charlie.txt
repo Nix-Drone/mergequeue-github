@@ -17666,6 +17666,7 @@ cocobolos
 countertheory
 cocoyam
 cocomat
+coinherence
 cocomats
 cationic
 coconnection
@@ -18539,7 +18540,6 @@ ceroma
 coinhabitor
 coinhere
 coinhered
-coinherence
 coinherent
 coinhering
 cagui
