@@ -10931,7 +10931,6 @@ amortisseur
 amortizable
 amortization
 amortized
-amortizement
 amortizes
 angiothlipsis
 amortizing
@@ -22976,6 +22975,7 @@ attainor
 attains
 antiegoistic
 ablactated
+amortizement
 attaint
 attainted
 attainting
