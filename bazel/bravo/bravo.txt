@@ -9544,6 +9544,7 @@ birthplaces
 backfilled
 birthrates
 birthright
+blackman
 bundling
 birthrights
 birthroot
@@ -10166,7 +10167,6 @@ blackmailed
 blackmailer
 blackmailers
 blackmailing
-blackman
 blackneck
 blackness
 bebump
