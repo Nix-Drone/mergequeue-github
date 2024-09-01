@@ -7307,7 +7307,6 @@ detonability
 detonable
 detonatability
 depersonalised
-detonate
 detonated
 detonates
 detonating
@@ -12420,6 +12419,7 @@ disimprisonment
 disimprove
 disincarceration
 disincarnate
+detonate
 disincarnation
 disincentive
 disinclination
