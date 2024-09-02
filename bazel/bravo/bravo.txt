@@ -5595,6 +5595,7 @@ bel
 bela
 belabor
 basementward
+benzonitrile
 bruscus
 beachcomber
 belaboring
@@ -6477,7 +6478,6 @@ benzoline
 benzolize
 benzols
 benzonaphthol
-benzonitrile
 benzoperoxide
 benzophenanthrazine
 benzophenazine
