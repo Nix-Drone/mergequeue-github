@@ -78,6 +78,7 @@ gomphosis
 gables
 gablet
 genapped
+geometries
 gablewindowed
 gorst
 gogga
@@ -821,7 +822,6 @@ galvanometer
 galvanometers
 girt
 galvanometric
-geometries
 generously
 gouldian
 galvanometrical
