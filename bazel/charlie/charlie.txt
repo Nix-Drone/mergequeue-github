@@ -17841,7 +17841,6 @@ cods
 codshead
 codswallop
 coueism
-codworm
 coe
 cabstand
 coecum
@@ -25597,6 +25596,7 @@ corpselikeness
 corpses
 corpsy
 cleverness
+codworm
 corpsman
 corpulences
 corpulency
