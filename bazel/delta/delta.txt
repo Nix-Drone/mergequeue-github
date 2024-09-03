@@ -1598,7 +1598,6 @@ dealkalize
 dealkylate
 dealkylation
 deallocate
-deallocated
 daunter
 deallocates
 deallocating
@@ -10273,6 +10272,7 @@ dionysia
 dionysiac
 dionysiacally
 degenerates
+deallocated
 dionysus
 dentelated
 dionize
