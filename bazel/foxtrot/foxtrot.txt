@@ -1827,6 +1827,7 @@ featy
 forbesite
 fluters
 fluxweed
+feyness
 featishly
 flasket
 flak
@@ -10287,7 +10288,6 @@ froeman
 feared
 freon
 friendly
-feyness
 ferrado
 frog
 frogbit
