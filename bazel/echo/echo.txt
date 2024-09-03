@@ -5430,6 +5430,7 @@ endrudge
 eltime
 expendable
 endseal
+exstipulate
 endshake
 endsheet
 everglade
@@ -13491,7 +13492,6 @@ exspuition
 exsputory
 exstemporal
 exstemporaneous
-exstipulate
 exstrophy
 exsuction
 exsudate
