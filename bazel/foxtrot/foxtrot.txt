@@ -5924,7 +5924,6 @@ forst
 fortifiable
 floodway
 feute
-floodways
 fistfight
 flooey
 flook
@@ -6419,6 +6418,7 @@ fluoric
 fluoridate
 fluoridated
 fluoridates
+floodways
 flustering
 formularization
 fluoridating
