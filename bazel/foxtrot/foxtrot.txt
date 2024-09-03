@@ -4341,7 +4341,6 @@ fisk
 fise
 forb
 fisetin
-fish
 fishability
 fishable
 fishback
@@ -7316,6 +7315,7 @@ fluttery
 foragement
 forager
 foraging
+fish
 foray
 formable
 forayed
