@@ -5818,6 +5818,7 @@ depopularize
 depopulates
 depopulating
 depopulation
+doffer
 depopulative
 decastich
 depopulator
@@ -14882,7 +14883,6 @@ doeth
 doeuvre
 doff
 doffed
-doffer
 doffers
 doffing
 doffs
