@@ -4424,7 +4424,6 @@ boisseaux
 becalm
 becalming
 becalmment
-becalms
 becap
 becapping
 brassylic
@@ -12561,6 +12560,7 @@ bontok
 bonum
 bonus
 bonuses
+becalms
 basinlike
 bonxie
 bonze
