@@ -9878,6 +9878,7 @@ amazons
 amazulu
 amb
 ambach
+authenticators
 ambage
 ambages
 ambagiosity
@@ -23796,7 +23797,6 @@ authenticates
 authentication
 authentications
 athetosic
-authenticators
 authenticities
 authenticly
 authenticness
