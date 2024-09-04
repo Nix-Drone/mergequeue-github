@@ -8601,7 +8601,6 @@ chancelleries
 chancellor
 chancellorate
 chancelloress
-chancellory
 chancellors
 chancellorship
 chancellorships
@@ -9884,6 +9883,7 @@ chemitypy
 chemitypies
 chemizo
 chemmy
+chancellory
 cornucopia
 cols
 chemoautotrophy
