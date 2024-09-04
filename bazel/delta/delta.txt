@@ -1192,7 +1192,6 @@ datary
 dataries
 dataset
 datasetname
-datasets
 datatype
 datatypes
 datcha
@@ -14668,6 +14667,7 @@ dockhand
 dockhouse
 dockyard
 dockyardman
+datasets
 dockyards
 dukkha
 dockization
