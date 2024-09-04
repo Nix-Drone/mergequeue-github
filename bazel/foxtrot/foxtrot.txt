@@ -3360,7 +3360,6 @@ firstlings
 fief
 foredeem
 fiefs
-forfeitable
 fiel
 fieldball
 fieldbird
@@ -6330,6 +6329,7 @@ flukier
 flapjacks
 flukily
 flukiness
+forfeitable
 faldistory
 fenagling
 fluking

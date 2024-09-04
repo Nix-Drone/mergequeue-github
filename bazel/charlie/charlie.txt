@@ -11322,7 +11322,6 @@ chloroethene
 chloroethylene
 chlorofluorocarbon
 chloroformate
-chloroformed
 chloroformic
 chatino
 chloroforming
@@ -25167,6 +25166,7 @@ corimelaenidae
 corindon
 corynebacteria
 corynebacterial
+chloroformed
 coreless
 corynebacterium
 coryneform
