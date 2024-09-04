@@ -2880,7 +2880,6 @@ cantle
 cameograph
 cantles
 cantlet
-cantline
 cantling
 canto
 canton
@@ -20888,6 +20887,7 @@ compressedly
 compresses
 compressibility
 compressibilities
+cantline
 compressible
 compressibleness
 compressibly
