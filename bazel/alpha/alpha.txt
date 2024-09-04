@@ -8756,7 +8756,6 @@ allocatable
 allocate
 allocatee
 allocates
-allocating
 allocation
 amyosthenia
 aqueoglacial
@@ -15738,6 +15737,7 @@ antiochianism
 autoeducation
 antiodont
 achuas
+allocating
 antisepsin
 antiope
 antiopelmous
