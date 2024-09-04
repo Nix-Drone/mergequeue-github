@@ -1465,7 +1465,6 @@ bepaid
 baler
 bales
 boun
-balestra
 balete
 bali
 balian
@@ -5664,6 +5663,7 @@ bombazeen
 bodgie
 beleaguered
 beleaguering
+balestra
 beleaguers
 beleap
 bedsteads
