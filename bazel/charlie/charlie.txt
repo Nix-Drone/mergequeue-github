@@ -8519,7 +8519,6 @@ cumbers
 chamoisite
 campilan
 chamoline
-chamomile
 chamomilla
 chamorro
 chamos
@@ -18090,6 +18089,7 @@ coercions
 coercitive
 coercive
 coercively
+chamomile
 coerciveness
 coercivity
 coerebidae
