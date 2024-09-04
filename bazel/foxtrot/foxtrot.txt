@@ -1689,6 +1689,7 @@ fazes
 fc
 fchar
 fipenny
+filicauline
 fcomp
 farcin
 fcp
@@ -9074,7 +9075,6 @@ fourteen
 fellies
 fourteener
 fourteens
-filicauline
 fourteenth
 fourteenthly
 fourteenths
