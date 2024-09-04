@@ -8785,7 +8785,6 @@ chapah
 charlie
 chapapote
 chaparajos
-chaparejos
 chaparral
 chaparrals
 chaparraz
@@ -11570,6 +11569,7 @@ cholecystoduodenostomy
 cholecystogastrostomy
 cholecystogram
 cholecystography
+chaparejos
 cholecystojejunostomy
 cholecystokinin
 cholecystolithiasis
