@@ -1913,6 +1913,7 @@ eikons
 epicoracoidal
 eyl
 eila
+electrothermometer
 eild
 eileen
 eyliad
@@ -2681,7 +2682,6 @@ enschedule
 enrapturer
 entrainer
 endomycetaceae
-electrothermometer
 electrothermostatic
 electrothermotic
 electrotype
