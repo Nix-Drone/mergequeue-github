@@ -4918,7 +4918,6 @@ encurtain
 endosteal
 encushion
 end
-endable
 endamage
 endamageable
 endamagement
@@ -11131,6 +11130,7 @@ eurythmical
 eurythmics
 eurythmies
 eurytomid
+endable
 eurytomidae
 euroaquilo
 eurobin
