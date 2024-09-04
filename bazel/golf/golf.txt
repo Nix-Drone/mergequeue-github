@@ -1527,7 +1527,6 @@ garrisonism
 garrisons
 garrnishable
 garron
-garroo
 garroted
 garroters
 garrotes
@@ -2725,6 +2724,7 @@ generativeness
 gameball
 generators
 generatrices
+garroo
 generic
 generically
 gabeler
