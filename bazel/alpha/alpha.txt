@@ -1188,6 +1188,7 @@ abuzz
 anodendron
 abvolt
 abvolts
+autophotoelectric
 abwab
 abwatt
 abwatts
@@ -24280,7 +24281,6 @@ autophone
 argyroneta
 ambrica
 aragonese
-autophotoelectric
 ailerons
 autophthalmoscope
 autopilot
