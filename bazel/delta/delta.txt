@@ -1987,6 +1987,7 @@ decahedral
 decahedron
 damageableness
 decahedrons
+drawlatch
 decahydrate
 decahydronaphthalene
 decay
@@ -16839,7 +16840,6 @@ drawings
 drawknives
 drawknot
 deliquescent
-drawlatch
 drawled
 drawly
 diaphanoscopy
