@@ -4143,7 +4143,6 @@ fireboy
 firebomb
 firebombed
 firebombing
-frostlike
 faithwise
 firebombs
 forestery
@@ -7371,6 +7370,7 @@ forewarnings
 faunlike
 foreparent
 foreplot
+frostlike
 forbid
 forebodingly
 forbidals
