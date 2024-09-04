@@ -1607,7 +1607,6 @@ deresinize
 deallocation
 deallocations
 deals
-dealt
 deambulate
 dorsigerous
 diamondiferous
@@ -6466,6 +6465,7 @@ descendance
 descendants
 dilemmatically
 descendence
+dealt
 descendent
 demonlike
 diglot
