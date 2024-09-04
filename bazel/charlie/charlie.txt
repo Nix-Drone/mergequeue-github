@@ -1973,7 +1973,6 @@ campaigner
 campaigners
 campaigning
 campaigns
-campana
 campane
 campanella
 campanero
@@ -26559,6 +26558,7 @@ coulometer
 coulter
 coulterneb
 coulters
+campana
 coulthard
 coulure
 coumalic
