@@ -2154,6 +2154,7 @@ botel
 beuniformed
 byzant
 banlieue
+begrave
 bannack
 bannat
 banned
@@ -5352,7 +5353,6 @@ buyable
 benchboard
 begray
 begrain
-begrave
 birne
 begrett
 begrim
