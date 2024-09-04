@@ -1698,6 +1698,7 @@ friars
 four
 fdnames
 fdtype
+forerunnership
 fdub
 fortuitousness
 fe
@@ -2062,7 +2063,6 @@ feigningly
 feigns
 feijoa
 feil
-forerunnership
 feinschmecker
 filacer
 feinted
