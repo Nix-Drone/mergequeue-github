@@ -5865,7 +5865,6 @@ glosser
 glossers
 glosses
 glossy
-glossier
 glossies
 glossiest
 granitical
@@ -8105,6 +8104,7 @@ granuloma
 gnathometer
 gambogic
 gambroon
+glossier
 granulometric
 gaspereaus
 granulosa
