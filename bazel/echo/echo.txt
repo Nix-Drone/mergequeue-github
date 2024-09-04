@@ -107,6 +107,7 @@ earpiece
 earplugs
 extemporizer
 earreach
+electromotor
 earring
 earringed
 earrings
@@ -2526,7 +2527,6 @@ electromobile
 electromotive
 electromotograph
 epimerised
-electromotor
 escadrilles
 electromuscular
 electronarcosis
