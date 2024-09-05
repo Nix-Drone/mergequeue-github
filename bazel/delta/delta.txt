@@ -2468,6 +2468,7 @@ deckels
 decken
 decker
 daphnioid
+diplogenic
 deckhand
 deckhead
 deckhouse
@@ -10557,7 +10558,6 @@ diplogangliate
 diplogenesis
 doxographical
 diplogenetic
-diplogenic
 documented
 diplographical
 diplohedral
