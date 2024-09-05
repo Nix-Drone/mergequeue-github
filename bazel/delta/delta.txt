@@ -8829,7 +8829,6 @@ diccon
 dice
 dyce
 decolor
-diceboard
 dicebox
 dicecup
 debituminize
@@ -10565,6 +10564,7 @@ diazoles
 dishwater
 diplohedron
 diploic
+diceboard
 diploid
 diene
 diploidic
