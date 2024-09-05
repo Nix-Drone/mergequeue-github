@@ -431,6 +431,7 @@ backplanes
 backplate
 backpointer
 backpointers
+bungo
 backrest
 backrope
 brimstony
@@ -6987,7 +6988,6 @@ begreen
 brainwater
 beshaming
 beshawled
-bungo
 beshear
 beshell
 brontosauri
