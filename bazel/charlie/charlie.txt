@@ -4970,7 +4970,6 @@ carvene
 carver
 copaibic
 carvers
-carvership
 cuisten
 carves
 carvestrene
@@ -11891,6 +11890,7 @@ chordal
 chordamesoderm
 chordamesodermal
 chordamesodermic
+carvership
 chordata
 chordate
 chordates
