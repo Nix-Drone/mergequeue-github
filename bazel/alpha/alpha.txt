@@ -4422,7 +4422,6 @@ aphanite
 argyranthemous
 adsorbability
 amoreuxia
-adsorbable
 adsorbates
 adsorbed
 adsorbs
@@ -7432,6 +7431,7 @@ albinuria
 albion
 albireo
 albite
+adsorbable
 albitic
 albitical
 albitite
