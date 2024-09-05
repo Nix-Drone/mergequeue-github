@@ -8403,7 +8403,6 @@ defenestrated
 diam
 diamagnet
 diamagnetic
-diamagnetism
 diamagnetize
 dredging
 diamagnetometer
@@ -18398,6 +18397,7 @@ duplicando
 duplicately
 duplicates
 duplication
+diamagnetism
 duplications
 duplicators
 daidle
