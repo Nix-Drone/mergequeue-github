@@ -3559,7 +3559,6 @@ allotheistic
 ammine
 addressable
 addressees
-addresser
 addressers
 addresses
 auxetics
@@ -4605,6 +4604,7 @@ adversifoliate
 anesthetized
 afternote
 adversing
+addresser
 adversities
 adversus
 adverted
