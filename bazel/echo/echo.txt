@@ -7906,7 +7906,6 @@ echoingly
 epigrammatizer
 epigrammatizing
 epigrams
-epigraph
 epigrapher
 eftest
 epigraphy
@@ -9389,6 +9388,7 @@ erthling
 erubescence
 erubescent
 eventerate
+epigraph
 euchlorophyceae
 erubescite
 eruc
