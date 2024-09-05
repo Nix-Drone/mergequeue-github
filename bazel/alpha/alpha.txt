@@ -15501,7 +15501,6 @@ antepagments
 antimartyr
 antimask
 antimasker
-alar
 antimasks
 antimason
 antimasonry
@@ -16637,6 +16636,7 @@ aortomalaxis
 aortopathy
 aortoptosia
 aortoptosis
+alar
 aortorrhaphy
 aortostenosis
 aosmic
