@@ -5093,6 +5093,7 @@ aerostation
 aerostats
 aerosteam
 aerotactic
+anthelices
 aerotaxis
 argo
 aerotechnical
@@ -14327,7 +14328,6 @@ alegars
 anthela
 anthelae
 anthelia
-anthelices
 anthelion
 anthelions
 anthelix
