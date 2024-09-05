@@ -3813,6 +3813,7 @@ battlepiece
 battleplane
 barnstorms
 battler
+belute
 battles
 battleship
 battleships
@@ -5993,7 +5994,6 @@ beluchi
 belucki
 belue
 belugas
-belute
 balloonist
 belvedere
 baywood
