@@ -1253,7 +1253,6 @@ educible
 excretive
 educive
 educt
-economicalness
 examinability
 eductor
 eductors
@@ -6540,6 +6539,7 @@ entailer
 eggy
 entailments
 entails
+economicalness
 emeutes
 entalent
 entally
