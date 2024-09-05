@@ -2604,6 +2604,7 @@ electropult
 electropuncturation
 electropuncture
 electroreceptive
+encases
 electroreduction
 electrorefine
 electroresection
@@ -4523,7 +4524,6 @@ encarpus
 encarpuspi
 eutopia
 encasement
-encases
 euryzygous
 encash
 encashable
