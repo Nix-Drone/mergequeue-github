@@ -5836,7 +5836,6 @@ fastigia
 fname
 floccillation
 floccipend
-freeloader
 forcipressure
 floccose
 floccosely
@@ -6991,6 +6990,7 @@ fomenters
 famular
 franks
 fomenting
+freeloader
 fica
 foments
 footrace
