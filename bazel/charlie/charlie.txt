@@ -8194,7 +8194,6 @@ chainomatic
 cultists
 chains
 chainsman
-chainsmen
 cleanups
 chainsmith
 chainwale
@@ -25103,6 +25102,7 @@ coreveler
 coreveller
 corevolve
 cryometer
+chainsmen
 corfiote
 cathartae
 corge
