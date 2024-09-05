@@ -2502,7 +2502,6 @@ evacuation
 electromagnetism
 electromagnetist
 escalloping
-electromagnets
 electromassage
 electromechanical
 electromechanics
@@ -7431,6 +7430,7 @@ epee
 epeeist
 embue
 epeira
+electromagnets
 epeiric
 epeirid
 epeiridae
