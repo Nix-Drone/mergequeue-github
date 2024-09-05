@@ -3758,7 +3758,6 @@ batteaux
 bonnering
 batteler
 bimbil
-batteling
 battels
 battement
 basisolute
@@ -15270,6 +15269,7 @@ bridge
 bridgeable
 bridgebote
 bridgebuilder
+batteling
 bridgebuilding
 bridged
 bridgehead
