@@ -5550,7 +5550,6 @@ eventualities
 enfeoffing
 enfeoffment
 enfester
-enfettered
 endogenic
 enfettering
 enfetters
@@ -12034,6 +12033,7 @@ eiresione
 excitation
 effecting
 excitator
+enfettered
 excitatory
 excite
 emanation
