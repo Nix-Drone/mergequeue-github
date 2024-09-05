@@ -407,6 +407,7 @@ fogged
 fastigated
 fairground
 fairy
+fe
 fairyhood
 futharc
 fairyish
@@ -1700,7 +1701,6 @@ fdnames
 fdtype
 fdub
 fortuitousness
-fe
 forksmith
 feaberry
 frugivora
