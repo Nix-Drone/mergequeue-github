@@ -588,7 +588,6 @@ galley
 goniatitidae
 gyrowheel
 goldfields
-gallein
 galipoidin
 galleins
 galleypot
@@ -5439,6 +5438,7 @@ glycogen
 galactogogue
 glycogenase
 glycogeny
+gallein
 glycogenic
 glycogenize
 glycogenolytic
