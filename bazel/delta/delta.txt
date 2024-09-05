@@ -1925,6 +1925,7 @@ danger
 duggler
 debut
 downligging
+depletions
 debutant
 dau
 dactylotheca
@@ -5745,7 +5746,6 @@ depleteable
 depleted
 depleting
 depletion
-depletions
 depletive
 decarboxylating
 depletory
