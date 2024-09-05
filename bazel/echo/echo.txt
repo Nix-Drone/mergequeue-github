@@ -1871,7 +1871,6 @@ eigenfrequency
 eigenvalue
 ergatogyny
 eigenvalues
-eigenvectors
 endoenteritis
 eyght
 evaginated
@@ -9823,6 +9822,7 @@ espouser
 espouses
 espousing
 espressos
+eigenvectors
 espriella
 espringal
 esprise
