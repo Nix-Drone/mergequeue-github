@@ -5922,6 +5922,7 @@ floodplain
 floods
 forst
 fortifiable
+foraminulate
 floodway
 feute
 floodways
@@ -7344,7 +7345,6 @@ foraminiferal
 frontrunner
 fumitory
 foraminose
-foraminulate
 foraminule
 foraminulose
 forecomingness
