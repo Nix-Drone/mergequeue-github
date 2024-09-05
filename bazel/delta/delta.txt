@@ -4382,6 +4382,7 @@ dode
 demagnetise
 demagnetised
 demagnetiser
+disalign
 demagnetising
 demagnetization
 deplores
@@ -10974,7 +10975,6 @@ degeneracy
 diagraming
 demitone
 disalicylide
-disalign
 disaligned
 disaligning
 disalike
