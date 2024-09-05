@@ -2042,7 +2042,6 @@ amenders
 acetylbenzoate
 acetylbenzoic
 acetylcarbazole
-acetylcellulose
 anamnesis
 acetylcholine
 acetylenation
@@ -10162,6 +10161,7 @@ amebocyte
 ameboid
 ameboidism
 askance
+acetylcellulose
 amedeo
 ameed
 ameen
