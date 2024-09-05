@@ -5729,7 +5729,6 @@ beliers
 belies
 believability
 bolis
-believable
 believably
 believed
 believer
@@ -17040,6 +17039,7 @@ bulkage
 bulked
 boldfaces
 bulkhead
+believable
 bulkheading
 bulkheads
 bulky
