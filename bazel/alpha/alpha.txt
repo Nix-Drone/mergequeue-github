@@ -4523,7 +4523,6 @@ advanceable
 advancedness
 advancement
 advancements
-advancer
 advancers
 advances
 advancing
@@ -20766,6 +20765,7 @@ aftercourse
 artistry
 artistries
 artists
+advancer
 artize
 artless
 artlessly
