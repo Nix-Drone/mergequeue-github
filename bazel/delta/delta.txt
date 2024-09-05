@@ -16840,7 +16840,6 @@ drawknives
 drawknot
 deliquescent
 drawlatch
-drawled
 drawly
 diaphanoscopy
 drawlier
@@ -18071,6 +18070,7 @@ dum
 dendric
 dumaist
 dumas
+drawled
 dumb
 despeche
 dumba
