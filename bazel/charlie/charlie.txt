@@ -11651,6 +11651,7 @@ cholesterol
 cholesterolemia
 cholesteroluria
 conepatls
+cnidoblast
 cholesterosis
 choletelin
 choletherapy
@@ -16980,7 +16981,6 @@ cnidaria
 cnidarian
 cnidian
 crayoned
-cnidoblast
 cnidocell
 cnidocil
 cnidocyst
