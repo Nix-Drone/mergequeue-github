@@ -1994,7 +1994,6 @@ bandonion
 bandor
 bandora
 bandore
-bronchium
 bandos
 bandpass
 bandrol
@@ -5144,6 +5143,7 @@ beflower
 beflowered
 biotas
 beflowering
+bronchium
 beflum
 befluster
 befog
