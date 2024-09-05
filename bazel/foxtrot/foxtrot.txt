@@ -201,7 +201,6 @@ flateria
 factory
 factorial
 factorially
-frizer
 factorials
 foilsman
 factories
@@ -5035,6 +5034,7 @@ flyspeck
 flarfishes
 flary
 fellatee
+frizer
 flashboard
 flashbulb
 fiendliest
