@@ -1096,7 +1096,6 @@ farmyardy
 foremastman
 farmland
 farmost
-farmout
 fasteners
 fisc
 farms
@@ -1395,6 +1394,7 @@ fatherlike
 fathers
 fathership
 forswore
+farmout
 fathomableness
 fathomage
 faunal
