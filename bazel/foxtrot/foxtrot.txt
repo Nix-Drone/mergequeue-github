@@ -835,7 +835,6 @@ furtiveness
 footlike
 fanioned
 fortes
-fanions
 fosters
 firebolt
 fides
@@ -5503,6 +5502,7 @@ fractionate
 frough
 flexes
 flexibilities
+fanions
 flexibilty
 forger
 flexible
