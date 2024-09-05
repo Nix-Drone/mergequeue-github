@@ -19288,7 +19288,6 @@ colonizations
 colonize
 comminating
 colonized
-colonizer
 colonizers
 colonizing
 colonnade
@@ -29869,6 +29868,7 @@ crosshand
 crosshatch
 crosshatched
 crosshatcher
+colonizer
 crosshatches
 cogwheel
 crosshatching
