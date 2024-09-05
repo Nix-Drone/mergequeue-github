@@ -7906,7 +7906,6 @@ cessment
 cessor
 countermission
 cesspipe
-cesspit
 cesspits
 centipede
 clamors
@@ -11278,6 +11277,7 @@ chlorins
 chloriodide
 chlorion
 chlorioninae
+cesspit
 chlorite
 censurer
 chloritic
