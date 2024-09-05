@@ -1681,7 +1681,6 @@ ballplayers
 ballplatz
 bedrabbled
 ballpoint
-ballproof
 ballrooms
 balls
 ballsy
@@ -11926,6 +11925,7 @@ bogomilian
 bogong
 bogota
 bogotana
+ballproof
 bogs
 bogsucker
 bogtrotter
