@@ -1987,7 +1987,6 @@ decahedral
 decahedron
 damageableness
 decahedrons
-decahydrate
 decahydronaphthalene
 decay
 decayed
@@ -4380,6 +4379,7 @@ dioptrometer
 demagnetisation
 dode
 demagnetise
+decahydrate
 demagnetised
 demagnetiser
 demagnetising
