@@ -5406,7 +5406,6 @@ genomes
 glistens
 glycerins
 glycerite
-glycerize
 glycerizin
 glycerol
 glycerolate
@@ -6923,6 +6922,7 @@ gthite
 gonophoric
 gonophorous
 gonophs
+glycerize
 geohydrologic
 gonopodial
 gimmaled
