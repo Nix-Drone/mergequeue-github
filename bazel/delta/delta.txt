@@ -3212,7 +3212,6 @@ defectibility
 defectible
 dhangar
 defecting
-diplomacy
 departmentalizing
 defection
 defectious
@@ -14029,6 +14028,7 @@ disulfate
 disulfid
 dichastasis
 disorderedly
+diplomacy
 disulfide
 disanimate
 disulfiram
