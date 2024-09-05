@@ -13332,7 +13332,6 @@ cyclohexanol
 cyclohexanone
 cyclohexatriene
 cyclohexene
-cyclohexyl
 cyclohexylamine
 cycloheximide
 chemiatry
@@ -15740,6 +15739,7 @@ clavelization
 clavelize
 clavellate
 clavellated
+cyclohexyl
 controllingly
 claver
 clavered
