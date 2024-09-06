@@ -1718,7 +1718,6 @@ deathtrap
 deathtraps
 deathward
 deathwatches
-deathweed
 deathworm
 dowelled
 deave
@@ -15300,6 +15299,7 @@ domesday
 domesdays
 domesticability
 domesticality
+deathweed
 domestically
 domesticate
 domesticated
