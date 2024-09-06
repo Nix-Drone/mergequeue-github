@@ -5338,7 +5338,6 @@ castleward
 castlewards
 castlewise
 castock
-castoff
 castoffs
 castor
 castores
@@ -18388,6 +18387,7 @@ coheirs
 coheirship
 cohelper
 cohelpership
+castoff
 cohen
 cohenite
 cohens
