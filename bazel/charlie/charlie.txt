@@ -7364,7 +7364,6 @@ cephalometer
 cephalometric
 cephalomyitis
 cephalomotor
-cephalon
 clysis
 cephalonasal
 cephalopathy
@@ -11872,6 +11871,7 @@ choraguses
 chorai
 choral
 choralcelo
+cephalon
 chorale
 choraleon
 chorales
