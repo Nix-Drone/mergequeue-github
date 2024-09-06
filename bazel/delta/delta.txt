@@ -1189,7 +1189,6 @@ datapac
 datapunch
 disinvolve
 datary
-dataries
 dataset
 datasetname
 datasets
@@ -18403,6 +18402,7 @@ duplicators
 daidle
 duplicature
 disulphuret
+dataries
 duplicatus
 dragonism
 duplicia
