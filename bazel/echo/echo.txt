@@ -9940,6 +9940,7 @@ estampie
 estancia
 exhumated
 estancias
+embusque
 estanciero
 erosion
 eserin
@@ -12868,7 +12869,6 @@ exotropia
 effluent
 exotropic
 exp
-embusque
 expalpate
 expanded
 escropulo
