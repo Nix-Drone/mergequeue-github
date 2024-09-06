@@ -2677,7 +2677,6 @@ audivision
 acquaintedness
 acquainting
 acquereur
-acquest
 acquests
 acquiesce
 acquiesced
@@ -23652,6 +23651,7 @@ aurure
 arnoldist
 auscultascope
 autoregenerator
+acquest
 auscultate
 adzes
 auscultated
