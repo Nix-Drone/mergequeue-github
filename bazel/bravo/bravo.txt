@@ -1973,6 +1973,7 @@ bandman
 bandmaster
 bandmasters
 bando
+benzine
 bandobust
 bandog
 bandogs
@@ -6434,7 +6435,6 @@ benzyls
 benziminazole
 benzinduline
 bethinking
-benzine
 benzines
 benzins
 benzoate
