@@ -3928,6 +3928,7 @@ dekadarchy
 dekadrachm
 dekagramme
 dekagrams
+decompile
 doggerelize
 delundung
 damper
@@ -17444,7 +17445,6 @@ drosometer
 drosophila
 drosophilae
 drosophilas
-decompile
 drosophilidae
 dipyramid
 drosophyllum
