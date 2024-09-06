@@ -17251,7 +17251,6 @@ coarsened
 coarseness
 coarsening
 coarsens
-coarser
 coarsest
 coarsish
 coart
@@ -30287,6 +30286,7 @@ crus
 crusade
 crusaded
 clingstones
+coarser
 crusaders
 crusades
 cleche
