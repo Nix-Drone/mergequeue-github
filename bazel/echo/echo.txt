@@ -3074,7 +3074,6 @@ embeds
 ellinge
 elliott
 ellipse
-ellipsis
 ellipsograph
 ellipsoid
 ellipsoidal
@@ -10445,6 +10444,7 @@ epencephal
 ectromelian
 ethnogenic
 ethnogenies
+ellipsis
 eleutherozoa
 ethnogeographer
 ethnogeographic
