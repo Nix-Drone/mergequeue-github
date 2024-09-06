@@ -7533,7 +7533,6 @@ galavanted
 gowning
 gownlet
 gowns
-gownsman
 gallflies
 gemmates
 gownsmen
@@ -9107,6 +9106,7 @@ genie
 gripeful
 gnu
 gripey
+gownsman
 gripers
 gripgrass
 griphite
