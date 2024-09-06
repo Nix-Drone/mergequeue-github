@@ -11067,7 +11067,6 @@ chitin
 coappears
 chitinocalcareous
 chitinogenous
-chitinoid
 chesterbed
 chitinous
 chitins
@@ -25907,6 +25906,7 @@ cortina
 cortinae
 cortinarious
 cortinarius
+chitinoid
 cortinate
 cortisol
 curf
