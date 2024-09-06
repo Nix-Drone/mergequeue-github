@@ -3077,7 +3077,6 @@ gekko
 geomance
 geoform
 gillnet
-geogen
 geogenesis
 gyropilot
 geogenetic
@@ -9904,6 +9903,7 @@ guarantors
 guarantorship
 greenhide
 genevoise
+geogen
 geode
 guarapucu
 gracefully
