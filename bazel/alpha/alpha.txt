@@ -14935,7 +14935,6 @@ amortisable
 anticipators
 anticity
 anticytolysin
-anticytotoxin
 anticivic
 anticivil
 anticivilian
@@ -18265,6 +18264,7 @@ aquatinta
 aquatinted
 aquatinter
 aquatinting
+anticytotoxin
 aquatintist
 aquatints
 aquation
