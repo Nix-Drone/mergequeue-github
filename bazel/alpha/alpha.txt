@@ -8937,7 +8937,6 @@ allothigenetically
 allothigenic
 allothigenous
 allothimorph
-allothimorphic
 allothogenic
 allotypes
 allotypy
@@ -11853,6 +11852,7 @@ anapaest
 anapaestic
 anapaestical
 anapaestically
+allothimorphic
 anapaests
 anapaganize
 anapaite
