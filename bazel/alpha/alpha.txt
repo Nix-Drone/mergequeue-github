@@ -4954,7 +4954,6 @@ aerofoil
 aerofoils
 algine
 arisaema
-aerogel
 aerogels
 antilogous
 assigned
@@ -7899,6 +7898,7 @@ alethiology
 alethiologic
 alethiologist
 alethopteis
+aerogel
 alethopteroid
 alethoscope
 agreements
