@@ -4759,7 +4759,6 @@ gallery
 guildsman
 golliwogg
 gorkhali
-gyrocompasses
 glassblowers
 gyrodactylidae
 gapa
@@ -10229,6 +10228,7 @@ gorhen
 gastroptosis
 geldable
 guiltsick
+gyrocompasses
 guimbard
 guimpe
 guimpes
