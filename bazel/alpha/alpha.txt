@@ -2131,7 +2131,6 @@ asitia
 acetophenine
 acetophenone
 acetopiperone
-acetopyrin
 acetosalicylic
 acetose
 acetosity
@@ -14521,6 +14520,7 @@ anthraquinol
 anthraquinone
 allotropes
 anthraquinonyl
+acetopyrin
 anthrarufin
 anthrasilicosis
 agalinis
