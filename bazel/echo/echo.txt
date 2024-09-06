@@ -6593,7 +6593,6 @@ entente
 ententes
 entepicondylar
 enter
-enterable
 enteraden
 enteradenography
 enteradenographic
@@ -12453,6 +12452,7 @@ exhaustiveness
 egyptianism
 epistles
 exhaustivity
+enterable
 exhaustless
 exhaustlessly
 echites
