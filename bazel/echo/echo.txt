@@ -4789,7 +4789,6 @@ elem
 enclosers
 enclosing
 efik
-enclosures
 excentral
 extraction
 enclothe
@@ -10482,6 +10481,7 @@ ethnoses
 extrema
 execrable
 enthuses
+enclosures
 ectopia
 echinostome
 ethnotechnics
