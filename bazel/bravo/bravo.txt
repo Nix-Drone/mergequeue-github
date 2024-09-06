@@ -8961,7 +8961,6 @@ bioclimatologies
 bioclimatologist
 biocoenose
 biocoenoses
-biocoenotic
 biodegradability
 biodegradable
 biodegradation
@@ -9774,6 +9773,7 @@ bystreet
 bystreets
 bistres
 bistriate
+biocoenotic
 bistro
 bottleholder
 bistroic
