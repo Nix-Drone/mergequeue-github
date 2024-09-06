@@ -7766,7 +7766,6 @@ certif
 certifiability
 certifiable
 coliiformes
-certifiableness
 certificate
 certificated
 certificates
@@ -12622,6 +12621,7 @@ chronometry
 corin
 chronometric
 chronometrical
+certifiableness
 chronometrically
 chronon
 chrononomy
