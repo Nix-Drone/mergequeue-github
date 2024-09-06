@@ -3115,7 +3115,6 @@ actinomere
 actinomeric
 actinometry
 actinometric
-actinometrical
 actinometricy
 actinomyces
 actinomycese
@@ -24091,6 +24090,7 @@ autographist
 autographometer
 autographs
 autogravure
+actinometrical
 apographal
 autoharp
 autoheader
