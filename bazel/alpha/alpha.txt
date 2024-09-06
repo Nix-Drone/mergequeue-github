@@ -8615,7 +8615,6 @@ autopathic
 arsmetrik
 allelomorphic
 allelomorphism
-allelopathy
 allelotropy
 allelotropic
 admeasured
@@ -9946,6 +9945,7 @@ ambiency
 ambiens
 ambient
 acrodus
+allelopathy
 ambients
 ambigenal
 acrogamy
