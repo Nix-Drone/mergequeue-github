@@ -5406,7 +5406,6 @@ genomes
 glistens
 glycerins
 glycerite
-glycerize
 glycerizin
 glycerol
 glycerolate
@@ -8516,6 +8515,7 @@ gomuti
 grazierdom
 graziery
 greenuk
+glycerize
 graziers
 grazing
 growthful
