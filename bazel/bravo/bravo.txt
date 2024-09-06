@@ -1912,7 +1912,6 @@ banderlog
 banderma
 banderol
 banderole
-biochemical
 banderoled
 banderoles
 banders
@@ -9662,6 +9661,7 @@ bisyllabic
 bisyllabism
 bulleting
 bisimine
+biochemical
 bushily
 bisymmetric
 bisymmetrical
