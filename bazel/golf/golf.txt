@@ -3331,6 +3331,7 @@ gypsography
 gerbera
 gardencraft
 gerbil
+glamours
 gerbilles
 groutnoll
 gunbearer
@@ -4240,7 +4241,6 @@ gymnasic
 gonif
 gymnasisia
 generability
-glamours
 gentilities
 gymnasium
 gymnasiums
