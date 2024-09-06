@@ -2693,7 +2693,6 @@ fertility
 ferroprussiate
 fertilization
 fertilizational
-fertilize
 fertilized
 formers
 fertilizer
@@ -5022,6 +5021,7 @@ flare
 flareback
 ferments
 firnification
+fertilize
 fragmentitious
 flareboard
 flared
