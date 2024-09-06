@@ -10563,7 +10563,6 @@ bothriocidaris
 blea
 bleach
 bleachability
-bleachable
 bleached
 bleacher
 bleachery
@@ -12910,6 +12909,7 @@ borage
 boraginaceous
 borago
 bedamn
+bleachable
 boral
 borana
 borane
