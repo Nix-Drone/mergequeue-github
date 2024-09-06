@@ -4036,7 +4036,6 @@ adjutants
 adjutantship
 anesthetic
 adjutator
-adjute
 adjutor
 adjutory
 adjutorious
@@ -6011,6 +6010,7 @@ alehoof
 agglutination
 arenaceous
 agglutinative
+adjute
 agglutinatively
 agglutinator
 agamobium
