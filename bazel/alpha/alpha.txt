@@ -219,7 +219,6 @@ abbr
 abbrev
 abbreviatable
 abbreviate
-abbreviated
 argotic
 apostolicism
 afdecho
@@ -2712,6 +2711,7 @@ acquisible
 amaranthoid
 acquisita
 acquisite
+abbreviated
 acquisited
 anam
 acclimating
