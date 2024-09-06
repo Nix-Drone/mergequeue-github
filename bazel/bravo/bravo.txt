@@ -2997,6 +2997,7 @@ boobishness
 barricade
 barricaded
 baryes
+birdsong
 brei
 barrette
 barricader
@@ -15317,7 +15318,6 @@ briefcase
 breccias
 briefer
 briefers
-birdsong
 bot
 briefest
 briefing
