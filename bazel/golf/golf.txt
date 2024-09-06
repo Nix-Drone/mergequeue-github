@@ -2651,7 +2651,6 @@ gender
 genderer
 genders
 ghoulie
-geneal
 genealogic
 genealogical
 genealogists
@@ -4403,6 +4402,7 @@ gynecologic
 gynecological
 gliadin
 gynecologies
+geneal
 gynecologist
 gremmie
 gantang
