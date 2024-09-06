@@ -2475,7 +2475,6 @@ deckle
 deckman
 deckpipe
 decks
-dulls
 deckswabber
 decl
 declaim
@@ -7280,6 +7279,7 @@ dominate
 detestations
 detested
 decasualise
+dulls
 detester
 driveboat
 detesters
