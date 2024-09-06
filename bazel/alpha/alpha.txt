@@ -3221,7 +3221,6 @@ activates
 activating
 activation
 activations
-activator
 activators
 active
 actively
@@ -14178,6 +14177,7 @@ antemortal
 antemortem
 antemundane
 antemural
+activator
 antenarial
 antenatalitial
 antenati
