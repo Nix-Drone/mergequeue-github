@@ -6941,6 +6941,7 @@ airports
 airpost
 airposts
 airproof
+allness
 airproofs
 aggrieving
 airscape
@@ -8739,7 +8740,6 @@ antiministerialist
 allivalite
 allmouth
 allmouths
-allness
 allo
 alloantibody
 anoesia
