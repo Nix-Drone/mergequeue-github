@@ -7563,7 +7563,6 @@ citrinous
 cereals
 cerebbella
 cerebella
-cerebellar
 cerebellifugal
 cerebellipetal
 cerebellitis
@@ -18737,6 +18736,7 @@ coleopterous
 coleoptile
 chromosomal
 coleoptilum
+cerebellar
 coleopttera
 coleorhiza
 coleorhizae
