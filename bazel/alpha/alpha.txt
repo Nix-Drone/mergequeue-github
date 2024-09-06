@@ -2779,7 +2779,6 @@ acridin
 acridine
 acridines
 acridinic
-acridinium
 acridity
 acridities
 acridium
@@ -17516,6 +17515,7 @@ apothegmatize
 apothegms
 apothem
 apothems
+acridinium
 apotheose
 apotheosis
 albuminimetry
