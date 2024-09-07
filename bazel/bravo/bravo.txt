@@ -12414,6 +12414,7 @@ bowmaking
 bondship
 bondslave
 bondsman
+bourgade
 bondsmen
 bondstone
 bondswoman
@@ -13608,7 +13609,6 @@ bitte
 bant
 bourg
 befoolable
-bourgade
 bourgeois
 bourgeoisie
 brashness
