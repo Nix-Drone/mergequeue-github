@@ -5254,6 +5254,7 @@ endopleural
 east
 endopleurite
 electrometry
+enterostomy
 endopodite
 esphresis
 endopoditic
@@ -10423,7 +10424,6 @@ ethnicity
 ethnicon
 ethnish
 extracorpuscular
-enterostomy
 ethnobiological
 ethnobotany
 ethnobotanic
