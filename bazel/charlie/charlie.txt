@@ -9890,7 +9890,6 @@ chemoautotrophy
 chastizer
 chemoautotrophic
 chemoautotrophically
-chemoceptor
 chemokinesis
 chemokinetic
 chemolysis
@@ -11894,6 +11893,7 @@ chordamesodermic
 chordata
 chordate
 chordates
+chemoceptor
 chorded
 chordee
 choriso
