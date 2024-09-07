@@ -3912,6 +3912,7 @@ carcinoid
 carcinolysin
 carcinological
 carcinologist
+cd
 carcinomas
 carcinomata
 carcinomatoid
@@ -6501,7 +6502,6 @@ ccm
 ccoya
 charcuterie
 ccw
-cd
 cdf
 cdg
 cdr
