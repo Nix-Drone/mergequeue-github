@@ -5427,7 +5427,6 @@ endpoints
 endrin
 endromididae
 endrudge
-eltime
 expendable
 endseal
 endshake
@@ -11999,6 +11998,7 @@ excides
 equinoxes
 encephalitis
 exciding
+eltime
 excipient
 exciple
 excipulaceae
