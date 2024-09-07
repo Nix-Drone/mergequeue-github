@@ -3178,7 +3178,6 @@ elsewhen
 elsewhere
 elsewheres
 elsholtzia
-elsin
 elt
 eltrot
 eluant
@@ -8567,6 +8566,7 @@ equality
 emendation
 equalize
 equalized
+elsin
 equalizer
 equalizers
 equalizes
