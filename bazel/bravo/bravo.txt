@@ -4799,7 +4799,6 @@ bedragglement
 bedrail
 bogway
 bedrails
-bedral
 bedrape
 bedraped
 bedrapes
@@ -13533,6 +13532,7 @@ beslipper
 bounceback
 bounced
 bouncer
+bedral
 bouncers
 bounces
 bouncier
