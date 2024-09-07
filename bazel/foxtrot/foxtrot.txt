@@ -1086,7 +1086,6 @@ farmership
 farmhold
 farmhouse
 feronia
-farmhousey
 fontinalaceae
 fuzzle
 farmy
@@ -1525,6 +1524,7 @@ faultfinder
 faultfinders
 faultfinding
 fervescent
+farmhousey
 faultful
 faultfully
 fungillus
