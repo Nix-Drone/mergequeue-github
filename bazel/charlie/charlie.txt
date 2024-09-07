@@ -6714,7 +6714,6 @@ celiectomy
 celiemia
 celiitis
 celiocele
-celiocyesis
 celiocolpotomy
 celiodynia
 celioelytrotomy
@@ -16384,6 +16383,7 @@ clite
 clitella
 clitellar
 clitelliferous
+celiocyesis
 clitellus
 compile
 crappin
