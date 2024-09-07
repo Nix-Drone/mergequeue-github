@@ -2164,7 +2164,6 @@ bannerets
 bannerfish
 beduke
 bannerless
-bannerlike
 bannerline
 bannerman
 bannermen
@@ -7875,6 +7874,7 @@ bibaciousness
 balche
 bibacity
 bypasses
+bannerlike
 bowgrace
 bibation
 beglamour
