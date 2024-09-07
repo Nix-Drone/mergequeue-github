@@ -8445,6 +8445,7 @@ chamaenerion
 chamaepericlymenum
 chamaephyte
 chamaeprosopic
+cirratulus
 chamaerops
 chamaerrhine
 chamaesaura
@@ -14507,7 +14508,6 @@ cirrate
 cirrated
 compounds
 cirratulidae
-cirratulus
 cirrhopetalum
 cirrhose
 cirrhosed
