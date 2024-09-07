@@ -4785,7 +4785,6 @@ etymologize
 exegetically
 experimentalists
 enclosed
-elem
 enclosers
 enclosing
 efik
@@ -13047,6 +13046,7 @@ experientialism
 experientialistic
 extrapleural
 experiment
+elem
 eschaufe
 experimental
 experimentalism
