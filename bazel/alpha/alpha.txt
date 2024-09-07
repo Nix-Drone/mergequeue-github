@@ -766,7 +766,6 @@ abovestairs
 abow
 abox
 abrachia
-abradable
 abradant
 abradants
 abrade
@@ -17251,6 +17250,7 @@ argyric
 apokatastatic
 antiserum
 anchoring
+abradable
 apokrea
 anhydrite
 apolar
