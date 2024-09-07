@@ -5115,7 +5115,6 @@ cashboy
 cashbook
 cashbooks
 cashbox
-cashboxes
 casheen
 cashel
 casher
@@ -29630,6 +29629,7 @@ crocodiline
 crocodilite
 crocodility
 crocodiloid
+cashboxes
 coriin
 chemosterilant
 crocodilus

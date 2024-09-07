@@ -10826,7 +10826,6 @@ decanormal
 deringa
 direx
 dirge
-dirged
 dirgelike
 dirgeman
 dirgie
@@ -13476,6 +13475,7 @@ dissections
 disfrequent
 dissectors
 dissects
+dirged
 desperadoes
 disseise
 disseised
