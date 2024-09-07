@@ -5670,6 +5670,7 @@ catchup
 catchups
 catchwater
 contribute
+chondrified
 catchweight
 catchword
 catchwork
@@ -5730,7 +5731,6 @@ categorematical
 category
 categorial
 categoric
-chondrified
 categorical
 categorically
 categoricalness
