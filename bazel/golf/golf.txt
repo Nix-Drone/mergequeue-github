@@ -282,7 +282,6 @@ gym
 gibs
 gainfulness
 gaingiving
-gainyield
 grafter
 gaining
 gainlessness
@@ -5327,6 +5326,7 @@ glecoma
 gled
 grottesco
 gledes
+gainyield
 gledy
 gleditsia
 glee
