@@ -12525,6 +12525,7 @@ afront
 anemoses
 anemosis
 anemotaxis
+antiheterolysin
 anemotropism
 anencephaly
 anencephalic
@@ -22776,7 +22777,6 @@ atomization
 atomize
 atomized
 atomizer
-antiheterolysin
 atomizers
 atomizing
 atomology
