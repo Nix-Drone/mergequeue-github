@@ -12566,7 +12566,6 @@ anesthesiologies
 alumstone
 anesthesiologist
 anesthesiologists
-anesthesis
 allergens
 anesthetically
 anesthetics
@@ -15529,6 +15528,7 @@ antimedical
 antimedically
 antimedication
 antimedicine
+anesthesis
 antimedieval
 antimedievalism
 antimedievalist
