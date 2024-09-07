@@ -1342,7 +1342,6 @@ acnodes
 acaridomatia
 acariform
 acarina
-acarine
 acarines
 arcuately
 acarinosis
@@ -20880,6 +20879,7 @@ asbestinize
 asbestoid
 asbestoidal
 airfields
+acarine
 asbestoses
 asbestosis
 asbestous
