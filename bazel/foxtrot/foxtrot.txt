@@ -7067,7 +7067,6 @@ fonts
 furnitures
 foochowese
 food
-foody
 foodless
 foodlessness
 fulfilled
@@ -10299,6 +10298,7 @@ flagrantly
 fortuneteller
 frogfish
 fargood
+foody
 flubs
 frogfoot
 feldspathic
