@@ -2713,7 +2713,6 @@ flouncier
 ferv
 fervanite
 frontad
-fervence
 farmplace
 fervency
 fervencies
@@ -5175,6 +5174,7 @@ flaunch
 fullfaces
 flaunched
 ferie
+fervence
 flaunt
 flaunter
 featurally
