@@ -6575,7 +6575,6 @@ fluvioglacial
 fluviolacustrine
 fluviology
 fleetly
-fluvioterrestrial
 fluvious
 fluviovolcanic
 fondu
@@ -9289,6 +9288,7 @@ fragilities
 fragment
 floorhead
 fragmental
+fluvioterrestrial
 fumously
 fragmentalize
 fragmentally
