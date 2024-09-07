@@ -9311,7 +9311,6 @@ bowtie
 bipyramid
 bipyridyl
 bubale
-byplace
 bombard
 bagged
 byplay
@@ -16381,6 +16380,7 @@ bruscha
 brush
 brushability
 brushable
+byplace
 brushback
 brushbird
 brushcut
