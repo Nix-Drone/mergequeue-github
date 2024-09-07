@@ -5594,7 +5594,6 @@ beknow
 bel
 bela
 belabor
-basementward
 bruscus
 beachcomber
 belaboring
@@ -13764,6 +13763,7 @@ blended
 bowhead
 bacterium
 bang
+basementward
 bast
 bowheads
 bowyang
