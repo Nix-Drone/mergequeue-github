@@ -1661,7 +1661,6 @@ accordancy
 accordatura
 amphiphloic
 accordaturas
-accordature
 accorded
 accorder
 accorders
@@ -6916,6 +6915,7 @@ abietite
 airmark
 atomizes
 allantois
+accordature
 airmarker
 airmen
 apanages
