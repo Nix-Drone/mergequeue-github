@@ -972,7 +972,6 @@ farandole
 farandoles
 faraway
 farawayness
-farced
 farcelike
 farcemeat
 farcer
@@ -4072,6 +4071,7 @@ finless
 finlet
 finlike
 finmark
+farced
 finmarks
 finnac
 finnan
