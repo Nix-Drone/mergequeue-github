@@ -7905,6 +7905,7 @@ bibl
 bardee
 bible
 bibles
+bn
 bohmite
 biblic
 bipunctal
@@ -11459,7 +11460,6 @@ blunks
 blunnen
 blunt
 blunted
-bn
 bluntest
 blunthead
 blunthearted
