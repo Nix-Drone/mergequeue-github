@@ -9387,7 +9387,6 @@ birdcraft
 birddom
 birded
 birdeye
-birder
 birdfarm
 brachiotomy
 birdglue
@@ -12775,6 +12774,7 @@ boon
 brumalia
 boondock
 boondocker
+birder
 boondocks
 boondoggle
 boondoggler
