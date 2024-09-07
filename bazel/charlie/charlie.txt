@@ -3853,7 +3853,6 @@ carburettor
 carburisation
 carburise
 carburised
-carburiser
 carburization
 carburize
 carburized
@@ -6442,6 +6441,7 @@ ceraunogram
 cognizably
 cavilingness
 cavillation
+carburiser
 cavilled
 caviller
 cavillers
