@@ -3916,7 +3916,6 @@ finbacks
 finca
 forspeaking
 finchery
-finches
 find
 finalizes
 findable
@@ -8277,6 +8276,7 @@ forgot
 forgotten
 foussa
 fuzzy
+finches
 faraon
 forgrow
 forhaile
