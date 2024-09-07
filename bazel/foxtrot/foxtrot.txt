@@ -6099,7 +6099,6 @@ flotages
 favorability
 foregoes
 flote
-fustin
 fragor
 felspar
 furnisher
@@ -8043,6 +8042,7 @@ formalizing
 forestalling
 forestalls
 funerals
+fustin
 foss
 forestation
 foreheaded
