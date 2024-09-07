@@ -15625,7 +15625,6 @@ doorstead
 didactics
 doorstep
 doorstone
-doorstop
 deaconize
 doorway
 doorways
@@ -16490,6 +16489,7 @@ drabler
 doubtingly
 dandifies
 drably
+doorstop
 drabnesses
 drabs
 dracaenas
