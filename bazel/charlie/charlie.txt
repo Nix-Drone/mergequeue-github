@@ -13655,6 +13655,7 @@ cymbalists
 cymballed
 cymballike
 cob
+cuspate
 cymbalo
 cimbalom
 cymbalom
@@ -18527,7 +18528,6 @@ coiner
 coiners
 crossrow
 coyness
-cuspate
 coynesses
 coinfer
 coinferred
