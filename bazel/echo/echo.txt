@@ -6445,7 +6445,6 @@ epiphyseolysis
 enslumber
 ensnare
 ensnared
-explosive
 ensnarement
 ensnarer
 ensnarers
@@ -6702,6 +6701,7 @@ enteropneusta
 enteropneustan
 enteroptosis
 enterorrhagia
+explosive
 ethions
 evocatively
 enterorrhaphy
