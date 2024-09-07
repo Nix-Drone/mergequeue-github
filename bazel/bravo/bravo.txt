@@ -372,7 +372,6 @@ backhanding
 backhands
 backhaul
 backhauls
-backhoe
 backhoes
 boobies
 backhooker
@@ -9700,6 +9699,7 @@ bedouin
 bismuthate
 bismuthide
 bismuthiferous
+backhoe
 bismuthyl
 btise
 bismuthine
