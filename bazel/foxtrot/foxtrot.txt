@@ -5233,7 +5233,6 @@ fusetron
 flavoriness
 flavoring
 fructoses
-flavorless
 fulgently
 flavorousness
 flavors
@@ -6302,6 +6301,7 @@ fiefdom
 fluidized
 followup
 fluidizer
+flavorless
 fingerflower
 fluidizes
 fluidmeter
