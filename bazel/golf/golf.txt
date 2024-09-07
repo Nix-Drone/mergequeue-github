@@ -374,7 +374,6 @@ graveship
 galactolipin
 galactolysis
 galactoma
-galactometer
 grandmama
 galactopathy
 galactophygous
@@ -5698,6 +5697,7 @@ globular
 glossolabial
 gconvert
 ganch
+galactometer
 genuflector
 globularia
 globulariaceae
