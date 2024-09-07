@@ -6963,7 +6963,6 @@ akinetic
 allegory
 airstrip
 airstrips
-airt
 airted
 ablepharia
 airthed
@@ -10347,6 +10346,7 @@ araba
 amia
 alands
 amiability
+airt
 amiable
 amiableness
 amiably
