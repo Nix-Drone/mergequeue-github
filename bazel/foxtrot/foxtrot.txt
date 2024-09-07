@@ -1395,7 +1395,6 @@ fatherlike
 fathers
 fathership
 forswore
-fathomableness
 fathomage
 faunal
 fathomed
@@ -2244,6 +2243,7 @@ fem
 femaleness
 females
 femality
+fathomableness
 forestalment
 femcee
 fastuously
