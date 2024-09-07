@@ -5022,7 +5022,6 @@ endexines
 eardrum
 endgate
 enfief
-endhand
 endia
 endiablee
 endiadem
@@ -9388,6 +9387,7 @@ erthly
 erthling
 erubescence
 erubescent
+endhand
 eventerate
 euchlorophyceae
 erubescite
