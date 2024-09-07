@@ -5614,6 +5614,7 @@ billingsgate
 belay
 belayed
 belayer
+besselian
 belaying
 belays
 brandishers
@@ -14842,7 +14843,6 @@ breakpoint
 breakpoints
 breaks
 breakshugh
-besselian
 breakstone
 breakthrough
 breakthroughs
