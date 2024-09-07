@@ -1170,6 +1170,7 @@ ballard
 baiting
 baits
 baittle
+blasty
 belavendered
 baywoods
 bayz
@@ -16805,7 +16806,6 @@ buffable
 buffalo
 buffaloback
 birkenia
-blasty
 buffaloes
 botheration
 buffaloing
