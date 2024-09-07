@@ -3126,7 +3126,6 @@ basculation
 blindfold
 bascule
 baculite
-bipropellant
 bascules
 bascunan
 base
@@ -10965,6 +10964,7 @@ bloaters
 bloating
 bloats
 bermudian
+bipropellant
 blob
 bicentrically
 benzoylate
