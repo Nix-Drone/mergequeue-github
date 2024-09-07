@@ -10032,7 +10032,6 @@ dirls
 descriptions
 dynamomorphic
 dynamoneure
-dynamophone
 dynamos
 dynamostatic
 dynamotor
@@ -13121,6 +13120,7 @@ doab
 displeasant
 displease
 displeasedly
+dynamophone
 diether
 displeases
 dielec
