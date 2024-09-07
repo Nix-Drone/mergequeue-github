@@ -4759,7 +4759,6 @@ carriageway
 carryall
 carrick
 carrycot
-carrie
 carryed
 carrier
 carriers
@@ -22201,6 +22200,7 @@ congener
 congeneracy
 congenerical
 congenerous
+carrie
 congeners
 congenetic
 congenial
