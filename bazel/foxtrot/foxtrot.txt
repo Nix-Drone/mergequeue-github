@@ -2635,7 +2635,6 @@ ferromanganese
 ferrometer
 ferronatrite
 ferronickel
-ferrophosphorus
 filicologist
 frustulose
 ferrotype
@@ -5531,6 +5530,7 @@ fascicle
 flyback
 flyball
 flybane
+ferrophosphorus
 flibbertigibbety
 flybelt
 flybelts
