@@ -9725,7 +9725,6 @@ amalekite
 amalfian
 amalfitan
 amalg
-amalgamable
 amalgamate
 attackable
 amalgamates
@@ -23049,6 +23048,7 @@ attentate
 attention
 attentionality
 acce
+amalgamable
 attentions
 attentive
 attentiveness
