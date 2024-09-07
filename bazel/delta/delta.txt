@@ -9859,7 +9859,6 @@ dimers
 dimes
 dimetallic
 dimeter
-dimeters
 dimethyl
 dimethylamine
 dimethylamino
@@ -18475,6 +18474,7 @@ diocesans
 durbars
 durdenite
 durdum
+dimeters
 dured
 duree
 dureresque
