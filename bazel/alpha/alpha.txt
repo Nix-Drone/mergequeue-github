@@ -5632,7 +5632,6 @@ afterguns
 anaerobious
 afterharm
 afterheat
-afterhelp
 afterhend
 afterhope
 afterhours
@@ -16444,6 +16443,7 @@ antivenine
 antivenins
 antivenomous
 antivermicular
+afterhelp
 antivibrating
 antivibrator
 antivibratory
