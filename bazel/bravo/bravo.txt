@@ -5292,7 +5292,6 @@ begird
 broadsheet
 begirded
 begirding
-begirdled
 begirdles
 begirdling
 begirds
@@ -9859,6 +9858,7 @@ bitterblain
 besee
 bitterbloom
 breadth
+begirdled
 bitterbrush
 bitterbump
 boobook
