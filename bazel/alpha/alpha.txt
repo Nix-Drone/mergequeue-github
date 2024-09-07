@@ -1790,7 +1790,6 @@ accumber
 accumulable
 accumulate
 accumulated
-accumulating
 accumulation
 accumulativ
 aquatones
@@ -18206,6 +18205,7 @@ aquage
 aquagreen
 aquake
 aqualung
+accumulating
 aqualunger
 aquamanile
 aquamaniles
