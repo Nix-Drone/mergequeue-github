@@ -1646,6 +1646,7 @@ ballonette
 bethroot
 ballonne
 ballonnes
+bcd
 balloon
 ballooners
 bowfront
@@ -3980,7 +3981,6 @@ buffoonism
 bazookas
 bazzite
 bbs
-bcd
 bch
 bchs
 bd
