@@ -1493,7 +1493,6 @@ deadcenter
 deeryards
 deadeye
 deaden
-deadened
 deadener
 deadeners
 deadening
@@ -2555,6 +2554,7 @@ declivent
 declivity
 daynet
 delegates
+deadened
 decartelized
 declivities
 declivous
