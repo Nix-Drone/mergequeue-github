@@ -2375,6 +2375,7 @@ geyserite
 geysers
 goads
 geisha
+guildship
 groundenell
 geishas
 geissoloma
@@ -10191,7 +10192,6 @@ graver
 ghoul
 guildhall
 guilds
-guildship
 guildsmen
 guessworker
 guile
