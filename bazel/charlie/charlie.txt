@@ -820,7 +820,6 @@ cajang
 cajanus
 cajaputs
 cajava
-cajeput
 cajeputol
 cajeputole
 cajeputs
@@ -15980,6 +15979,7 @@ clergess
 clergy
 clergyable
 clergylike
+cajeput
 cyclos
 clergion
 clergywoman
