@@ -2308,7 +2308,6 @@ electrizable
 electrization
 earthenware
 electro
-electroacoustic
 ecblastpsis
 electroacoustical
 electroacoustically
@@ -12823,6 +12822,7 @@ exospore
 exosporium
 exossate
 exosseous
+electroacoustic
 embrew
 exostosed
 exostoses
