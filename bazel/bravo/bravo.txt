@@ -7495,7 +7495,6 @@ betread
 betrend
 betrinket
 betroth
-betrothals
 betrothing
 betrothment
 betroths
@@ -13692,6 +13691,7 @@ bovaristic
 bovate
 bricksetter
 bovey
+betrothals
 bovenland
 bovidae
 bovids
