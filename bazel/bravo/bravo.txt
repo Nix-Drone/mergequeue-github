@@ -12951,7 +12951,6 @@ bordered
 borderer
 borderers
 bordering
-borderings
 borders
 borderland
 borderlander
@@ -16749,6 +16748,7 @@ buddhology
 buddy
 buddie
 buddies
+borderings
 budding
 buddle
 buddled
