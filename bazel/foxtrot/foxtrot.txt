@@ -1301,7 +1301,6 @@ fastbacks
 fastball
 fastened
 fastener
-fastening
 fastenings
 flagrante
 fishhouse
@@ -7458,6 +7457,7 @@ foreknown
 forclose
 fitnesses
 forconceit
+fastening
 ferrimagnet
 floatative
 forcut
