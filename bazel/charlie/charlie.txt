@@ -15162,6 +15162,7 @@ cyzicene
 cophasal
 ck
 ckw
+closestool
 combine
 cl
 clabber
@@ -25601,7 +25602,6 @@ corpsman
 corpulences
 corpulency
 corpulencies
-closestool
 corpulently
 corpulentness
 corpus
