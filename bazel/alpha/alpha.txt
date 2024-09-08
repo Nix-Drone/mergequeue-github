@@ -5587,7 +5587,6 @@ afterclap
 afterclause
 aftercome
 aftercomer
-aftercoming
 aftercooler
 aftercost
 aftercrop
@@ -24501,6 +24500,7 @@ apx
 auxanogram
 auxanometer
 auxeses
+aftercoming
 auxesis
 auxetic
 auxil
