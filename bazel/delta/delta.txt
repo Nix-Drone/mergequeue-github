@@ -2654,7 +2654,6 @@ decompensation
 delinquents
 decompensations
 decompensatory
-decompiler
 decomponent
 decomponible
 decurved
@@ -11523,6 +11522,7 @@ dominionist
 discomposedly
 discomposedness
 durrie
+decompiler
 discomposingly
 diazoimido
 disconanthae
