@@ -4857,7 +4857,6 @@ bedstead
 brazenface
 baikerinite
 beshrouded
-bedstraw
 bedstraws
 bedstring
 bedswerver
@@ -12642,6 +12641,7 @@ bookful
 bookhood
 bookie
 bookiness
+bedstraw
 bookings
 bookishly
 batiste
