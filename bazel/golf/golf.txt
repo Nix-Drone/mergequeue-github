@@ -1248,6 +1248,7 @@ genteeler
 gantlines
 gantlopes
 garial
+greets
 ganton
 gantries
 gantsl
@@ -8747,7 +8748,6 @@ greeshoch
 greeter
 googly
 greeting
-greets
 gliffing
 greffe
 gonostyle
