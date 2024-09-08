@@ -5732,6 +5732,7 @@ depit
 deplace
 deplaceable
 deplane
+diadokokinesis
 deplaned
 deplaning
 deplant
@@ -17087,7 +17088,6 @@ driech
 dover
 dried
 driegh
-diadokokinesis
 disconcertedness
 dryer
 drierman
