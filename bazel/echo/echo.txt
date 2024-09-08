@@ -839,7 +839,6 @@ erigenia
 extent
 ectocarpaceae
 ectocarpales
-ectocarpic
 ectocarpous
 ectocarpus
 ectocelic
@@ -1393,6 +1392,7 @@ ectrogeny
 efferently
 engraving
 efferents
+ectocarpic
 efferous
 extraocular
 effervesced
