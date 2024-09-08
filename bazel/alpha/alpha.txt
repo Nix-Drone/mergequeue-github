@@ -5091,6 +5091,7 @@ amalett
 antisepticist
 aerostation
 aerostats
+astrometrical
 aerosteam
 aerotactic
 aerotaxis
@@ -22297,7 +22298,6 @@ astrometeorological
 astrometeorologist
 astrometry
 astrometric
-astrometrical
 astron
 astronaut
 astronautically
