@@ -2251,7 +2251,6 @@ baptistries
 baptizable
 baptized
 baptizement
-baptizer
 baptizers
 buggyman
 baptizing
@@ -17318,6 +17317,7 @@ bumped
 bumpee
 bumpered
 bumperette
+baptizer
 bumpering
 burrowed
 blobber
