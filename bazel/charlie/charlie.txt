@@ -16852,7 +16852,6 @@ clubhouses
 clubionid
 clubionidae
 clubland
-clubman
 clubmate
 clubmen
 clubmonger
@@ -23183,6 +23182,7 @@ constructer
 chowk
 constructibility
 connectant
+clubman
 constructible
 construction
 constructional
