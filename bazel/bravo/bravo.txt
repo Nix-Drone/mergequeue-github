@@ -10979,7 +10979,6 @@ blobs
 bloc
 blocage
 block
-blockade
 blockaded
 blockader
 blockaders
@@ -14735,6 +14734,7 @@ ballooner
 burgheress
 brazil
 bilgewater
+blockade
 birth
 butted
 brazilein
