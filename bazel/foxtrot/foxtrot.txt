@@ -5608,6 +5608,7 @@ flightworthy
 flying
 flyings
 flyleaves
+forebody
 flyless
 flyman
 flymen
@@ -7536,7 +7537,6 @@ forebode
 forebodement
 forbbore
 forebodes
-forebody
 forebodies
 foreboding
 forebodingness
