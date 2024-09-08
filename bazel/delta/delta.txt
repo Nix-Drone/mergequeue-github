@@ -15921,6 +15921,7 @@ doubleword
 dotal
 dotant
 dekagram
+dsects
 dotard
 dotardism
 durene
@@ -17667,7 +17668,6 @@ demulcents
 dschubba
 dsect
 drinkery
-dsects
 desmodium
 dsname
 dashers
