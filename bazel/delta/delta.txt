@@ -2436,7 +2436,6 @@ denizenize
 designs
 decyne
 decinormal
-decipher
 dispenser
 decipherability
 decipherable
@@ -17467,6 +17466,7 @@ droud
 drought
 dancer
 droughtiest
+decipher
 droughtiness
 droughts
 deaminizing
