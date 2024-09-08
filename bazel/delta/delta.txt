@@ -11876,6 +11876,7 @@ diseases
 diseasy
 diseasing
 droopier
+direction
 disecondary
 diseconomy
 disedify
@@ -17422,7 +17423,6 @@ dropshot
 dropsical
 dropsicalness
 dropsied
-direction
 decream
 dropsies
 disconcord

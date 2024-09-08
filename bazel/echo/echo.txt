@@ -1118,7 +1118,6 @@ expurgatory
 edibleness
 edibles
 edictal
-edictally
 edictum
 edicule
 edify
@@ -13969,6 +13968,7 @@ extrasystole
 extrasocial
 ectophyte
 eulachons
+edictally
 eshin
 extrasolar
 extrasomatic
