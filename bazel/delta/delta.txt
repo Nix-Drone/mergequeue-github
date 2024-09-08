@@ -6285,6 +6285,7 @@ dermatoplasm
 dermatoplast
 dermatoplastic
 dysgenesic
+dup
 dermatopnagic
 dermatopsy
 dermatoptera
@@ -18369,7 +18370,6 @@ duotones
 duotriacontane
 duotriode
 duoviri
-dup
 dupable
 despairingly
 dupatta
