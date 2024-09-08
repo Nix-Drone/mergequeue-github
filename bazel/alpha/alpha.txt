@@ -235,7 +235,6 @@ abbreviature
 abbroachment
 abc
 abcissa
-abcoulomb
 abd
 abdali
 abdaria
@@ -14418,6 +14417,7 @@ anthologically
 anthologies
 anthologion
 anthologise
+abcoulomb
 anthologised
 anthologising
 anthologist
