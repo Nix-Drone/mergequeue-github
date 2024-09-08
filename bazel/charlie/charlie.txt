@@ -7081,7 +7081,6 @@ centigrade
 centigrado
 centigram
 centigramme
-centigrams
 centile
 centiles
 clunker
@@ -31167,6 +31166,7 @@ cuprose
 cuprosilicon
 catamaran
 cuprotungstite
+centigrams
 cuprous
 coelector
 cuprum
