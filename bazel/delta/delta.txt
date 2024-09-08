@@ -4785,6 +4785,7 @@ demobilisation
 demobilise
 disremember
 demobilising
+disinfestation
 demobilizations
 demobilize
 demobilizes
@@ -12453,7 +12454,6 @@ dochter
 disinfects
 disinfest
 disinfestant
-disinfestation
 disinfeudation
 divagation
 disinflame
