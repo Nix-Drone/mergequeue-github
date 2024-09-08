@@ -17564,7 +17564,6 @@ coccosteidae
 chicos
 coccosteus
 coccothraustes
-coccothraustine
 coccothrinax
 coccule
 cocculiferous
@@ -25253,6 +25252,7 @@ cormlike
 cormogen
 cormoid
 cormophyta
+coccothraustine
 cormophyte
 cormophytic
 cormorant
