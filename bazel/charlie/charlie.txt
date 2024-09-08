@@ -14067,6 +14067,7 @@ cypher
 cipherable
 cipherdom
 cyphered
+clave
 cipherer
 cipherhood
 ciphering
@@ -15731,7 +15732,6 @@ clavate
 cosignatory
 clavated
 clavately
-clave
 cytoryctes
 clavecin
 clavecinist
