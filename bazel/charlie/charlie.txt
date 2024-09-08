@@ -5874,7 +5874,6 @@ cathedrallike
 cathedrals
 cathedralwise
 cathedras
-cathedrated
 cathedratic
 cathedratica
 cathedratical
@@ -9525,6 +9524,7 @@ checkerboards
 checkerbreast
 checkered
 checkery
+cathedrated
 checkering
 checkerist
 clavola
