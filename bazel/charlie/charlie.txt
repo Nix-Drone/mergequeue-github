@@ -14232,7 +14232,6 @@ circulars
 circulatable
 circulated
 circulates
-circulation
 circulations
 circulative
 commodities
@@ -26096,6 +26095,7 @@ cosmoline
 cosmolining
 cosmology
 cosmologic
+circulation
 cosmological
 cosmologically
 cosmologies
