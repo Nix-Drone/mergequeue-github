@@ -5949,7 +5949,6 @@ fiddleback
 floorshift
 fawny
 floorshifts
-floorshow
 floorway
 fluidrachm
 floorward
@@ -7255,6 +7254,7 @@ furious
 frenchen
 flockman
 footslogged
+floorshow
 footslogger
 forgift
 footsoldiers
