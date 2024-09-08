@@ -5361,6 +5361,7 @@ affixment
 ague
 affixture
 afflate
+aureolae
 afflated
 afflatus
 afflatuses
@@ -23534,7 +23535,6 @@ aurelius
 aurene
 aureocasidium
 aureola
-aureolae
 aureolas
 aureole
 aureoled
