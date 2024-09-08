@@ -7344,6 +7344,7 @@ eos
 eosate
 earthquaking
 eoside
+evaporativity
 eosin
 eosine
 enhusk
@@ -7481,7 +7482,6 @@ epexegetically
 elevate
 ensilability
 epha
-evaporativity
 epharmonic
 ephas
 ephebea
