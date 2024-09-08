@@ -511,6 +511,7 @@ echar
 echard
 eche
 echea
+engraff
 eched
 echelette
 echelle
@@ -6959,7 +6960,6 @@ entoproctous
 entoptic
 entoptical
 entoptically
-engraff
 entoptics
 entoptoscope
 entoptoscopic
