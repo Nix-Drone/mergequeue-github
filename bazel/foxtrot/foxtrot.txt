@@ -1103,6 +1103,7 @@ farms
 farmscape
 farmsteads
 farmtown
+friskers
 farnesol
 farnesols
 fogas
@@ -6308,7 +6309,6 @@ fluidmeter
 faulted
 fluidness
 fluidounce
-friskers
 fluidram
 flaff
 fluorapatite
