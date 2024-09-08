@@ -3638,6 +3638,7 @@ bathyspheres
 bathythermograph
 bathkol
 barbar
+beek
 bathman
 bathmat
 bathmats
@@ -4967,7 +4968,6 @@ beehives
 breathes
 breakfaster
 beeish
-beek
 beekeepers
 betulaceous
 beekeeping
