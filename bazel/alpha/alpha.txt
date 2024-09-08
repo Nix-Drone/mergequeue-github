@@ -3943,7 +3943,6 @@ adytta
 adytum
 aditus
 adj
-adjacence
 adjacency
 adjacencies
 amated
@@ -24399,6 +24398,7 @@ autospray
 autostability
 autostarter
 autostyly
+adjacence
 airmanship
 autostylism
 autostoper
