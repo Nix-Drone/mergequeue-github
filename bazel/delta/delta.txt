@@ -1181,6 +1181,7 @@ dataflow
 datagram
 datagrams
 deescalating
+drillmaster
 datakit
 datamation
 datana
@@ -17155,7 +17156,6 @@ devarshi
 drilling
 drillings
 drillman
-drillmaster
 dispreading
 drillmasters
 drylots
