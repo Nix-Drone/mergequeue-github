@@ -7665,7 +7665,6 @@ epiclidal
 epicycle
 expectance
 epiclike
-epiclinal
 epicnemial
 epicoele
 epicoelia
@@ -11254,6 +11253,7 @@ evacuator
 evacuators
 exteriors
 evacue
+epiclinal
 evacuees
 evadable
 evade
