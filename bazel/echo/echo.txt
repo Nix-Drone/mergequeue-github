@@ -3383,7 +3383,6 @@ epionynychia
 embars
 embase
 embassadress
-embassy
 embassiate
 embassies
 embastardize
@@ -12611,6 +12610,7 @@ exclaim
 enneandrous
 ecmnesia
 exobasidium
+embassy
 eating
 exobiologists
 exocardiac
