@@ -4656,7 +4656,6 @@ bedchamber
 bratstva
 bedclothing
 bedcord
-byplays
 bedcovers
 beddable
 bedders
@@ -9374,6 +9373,7 @@ birdbander
 birdbanding
 birdbath
 birdbaths
+byplays
 birdbrained
 birdbrains
 besogne
