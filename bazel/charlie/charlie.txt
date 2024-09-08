@@ -4692,7 +4692,6 @@ carpopedal
 carpophagous
 carpophalangeal
 carpophyl
-carpophyll
 carpophyte
 carpophore
 carpopodite
@@ -24304,6 +24303,7 @@ cookhouse
 cookhouses
 caught
 cooky
+carpophyll
 cookie
 cookish
 cookishly
