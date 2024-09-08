@@ -7080,7 +7080,6 @@ centifolious
 centigrade
 centigrado
 centigram
-centigramme
 centigrams
 centile
 centiles
@@ -30852,6 +30851,7 @@ cultivar
 cultivars
 cultivatability
 cultivatable
+centigramme
 cultivate
 cultivated
 cultivates
