@@ -4807,7 +4807,6 @@ galeopithecus
 gyroscopes
 gyroscopics
 gyrose
-gyrostabilized
 gyrostat
 gyrostats
 gyrotheca
@@ -9071,6 +9070,7 @@ gainstand
 grimp
 grimsir
 grimsire
+gyrostabilized
 grin
 germination
 grinch
