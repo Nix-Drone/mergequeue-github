@@ -8495,7 +8495,6 @@ bikukulla
 bilaan
 biogenous
 ballottable
-bilabial
 bilabials
 bilabiate
 bilaciniate
@@ -11906,6 +11905,7 @@ bogie
 bogieman
 bullfinch
 bogyism
+bilabial
 bradypodoid
 bogyland
 bogyman
