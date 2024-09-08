@@ -10311,7 +10311,6 @@ dioptrometry
 dioptroscopy
 diorama
 dioramas
-driftpiece
 dioramic
 diordinal
 duplet
@@ -16820,6 +16819,7 @@ drawcard
 disconsonant
 drawcut
 drawdown
+driftpiece
 drawee
 drawer
 drawerful
