@@ -4999,6 +4999,7 @@ demote
 demoted
 demothball
 demotion
+depots
 demotions
 demotist
 demotists
@@ -5871,7 +5872,6 @@ depot
 desistance
 depotentiate
 directorship
-depots
 derive
 depr
 deliberatively
