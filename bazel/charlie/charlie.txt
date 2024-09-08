@@ -15450,7 +15450,6 @@ clapper
 clapperclaw
 clapperclawer
 clapperdudgeon
-clappered
 corrade
 clappermaclaw
 clappers
@@ -31826,6 +31825,7 @@ cutis
 cutisector
 cutises
 cutiterebra
+clappered
 cutitis
 cutization
 cutlas
