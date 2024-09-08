@@ -6014,6 +6014,7 @@ depsid
 depside
 depsides
 dept
+distempering
 depth
 depthen
 depthless
@@ -13762,7 +13763,6 @@ dancery
 distemperedly
 distemperedness
 distemperer
-distempering
 distemperment
 distemperoid
 distemperure
