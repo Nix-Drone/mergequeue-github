@@ -6586,7 +6586,6 @@ bepuzzle
 bepuzzlement
 bequalm
 bequeath
-bequeathal
 bequeathed
 bequeather
 bequeathing
@@ -11275,6 +11274,7 @@ blowzier
 blowzily
 bedrug
 blowziness
+bequeathal
 bicephalic
 bls
 bifidities
