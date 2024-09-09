@@ -1847,7 +1847,6 @@ bothroi
 banago
 blancmanger
 banagos
-buriable
 bound
 banak
 banakite
@@ -12211,6 +12210,7 @@ boltage
 boltcutter
 buckstay
 bolted
+buriable
 bowenite
 bolter
 bolters
