@@ -5814,6 +5814,7 @@ engraulis
 engrave
 engravement
 engraven
+extraperitoneal
 engraver
 engravers
 engraves
@@ -13923,7 +13924,6 @@ extraperiodic
 emplacement
 extraperiosteal
 endonuclease
-extraperitoneal
 extraphysical
 extrapyramidal
 extraplacental
