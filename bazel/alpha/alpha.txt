@@ -12059,6 +12059,7 @@ anatomicochirurgical
 anatomicomedical
 anatomicopathologic
 anatomicopathological
+angiogenic
 acronyms
 anatomicophysiologic
 arteriofibrosis
@@ -12752,7 +12753,6 @@ atrabile
 angiofibroma
 angiogenesis
 angiogeny
-angiogenic
 angioglioma
 angiography
 angiographic
