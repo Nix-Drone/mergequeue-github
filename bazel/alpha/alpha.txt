@@ -7818,7 +7818,6 @@ alef
 awikiwiki
 alefnull
 alefs
-aleft
 alefzero
 alegar
 aleger
@@ -9057,6 +9056,7 @@ alma
 almacantar
 almacenista
 almacigo
+aleft
 abrupt
 almadie
 almagests
