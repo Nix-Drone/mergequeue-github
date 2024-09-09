@@ -236,7 +236,6 @@ abbroachment
 abc
 abcissa
 abcoulomb
-abd
 abdali
 abdaria
 abdat
@@ -11673,6 +11672,7 @@ anagrammatization
 anagrammatize
 anagrammatizing
 anagrams
+abd
 anagraph
 anahau
 anahita
