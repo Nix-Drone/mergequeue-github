@@ -7088,7 +7088,6 @@ clunker
 centiliter
 centiliters
 centilitre
-centillionth
 centiloquy
 centimes
 centimeters
@@ -9162,6 +9161,7 @@ charters
 charthouse
 charting
 chartism
+centillionth
 chartist
 chartists
 chartless
