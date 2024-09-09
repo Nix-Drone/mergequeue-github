@@ -21415,7 +21415,6 @@ caseful
 concoagulate
 concoagulation
 concoct
-caravan
 crackable
 cannaled
 concocted
@@ -22997,6 +22996,7 @@ consonant
 consonantal
 consonantalize
 consonantalized
+caravan
 consonantally
 consonantic
 consonantise
