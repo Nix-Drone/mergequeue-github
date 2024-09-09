@@ -2928,7 +2928,6 @@ feudalizing
 feudary
 fantastical
 feudaries
-feudatary
 feudatory
 feudatorial
 feudatories
@@ -5143,6 +5142,7 @@ flatters
 frockmaker
 feedingstuff
 flatting
+feudatary
 falciparum
 flattish
 flatulence
