@@ -562,6 +562,7 @@ bewhite
 backward
 backwardation
 backwardly
+banknote
 backwardness
 backwards
 bipartible
@@ -2110,7 +2111,6 @@ bankings
 bankman
 banality
 bankmen
-banknote
 barrelet
 badaud
 banknotes
