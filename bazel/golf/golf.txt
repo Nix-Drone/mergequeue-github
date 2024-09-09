@@ -5309,7 +5309,6 @@ glean
 gleanable
 grayback
 gleaned
-gleaner
 gleaners
 gleanings
 gleary
@@ -9429,6 +9428,7 @@ grough
 groundably
 groundberry
 gesneria
+gleaner
 groundbird
 groundbreaker
 grounded
