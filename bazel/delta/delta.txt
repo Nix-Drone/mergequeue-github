@@ -5097,7 +5097,6 @@ denaturization
 denaturize
 denaturizer
 denaturizing
-denazify
 denazifies
 denazifying
 dendra
@@ -16216,6 +16215,7 @@ discover
 doweries
 dowering
 dowerless
+denazify
 deathlessly
 dowf
 dowfart
