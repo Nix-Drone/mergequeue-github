@@ -149,7 +149,6 @@ cablemen
 cables
 cablese
 cablet
-cablets
 cableway
 cocain
 cableways
@@ -29823,6 +29822,7 @@ crossbench
 crossbencher
 crossbill
 crossbirth
+cablets
 crossbite
 curriculums
 crossbolt
