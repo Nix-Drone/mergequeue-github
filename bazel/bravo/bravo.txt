@@ -6136,6 +6136,7 @@ benchership
 benches
 benchfellow
 burglary
+booksellers
 benchful
 benchy
 benchland
@@ -12703,7 +12704,6 @@ barmkin
 biyearly
 booksellerism
 banderilleros
-booksellers
 bookselling
 bookshelf
 bookshelves
