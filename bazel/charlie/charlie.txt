@@ -9196,7 +9196,6 @@ chasable
 chase
 chaseable
 chased
-corbeilles
 chasers
 chases
 chashitsu
@@ -28706,6 +28705,7 @@ crepitant
 crepitate
 crepitated
 crepitating
+corbeilles
 crumblings
 crepitous
 crepitus
