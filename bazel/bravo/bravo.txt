@@ -10128,7 +10128,6 @@ blackguards
 blackgum
 bullfighter
 blackgums
-blackhead
 blackheads
 blackheart
 blackhearted
@@ -13830,6 +13829,7 @@ bowsprit
 bowsprits
 brokenhearted
 bowstave
+blackhead
 bowstring
 bowstringed
 bowstrings
