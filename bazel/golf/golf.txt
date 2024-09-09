@@ -5985,7 +5985,6 @@ glowerer
 garrulous
 grasshopperish
 gloweringly
-glowfly
 glowflies
 glowingly
 glows
@@ -8482,6 +8481,7 @@ gravipause
 gravisphere
 gemelled
 gravispheric
+glowfly
 gravitated
 gravitater
 gravitates
