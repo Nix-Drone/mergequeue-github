@@ -4853,7 +4853,6 @@ bedspring
 bedsprings
 bolivars
 bedstand
-bedstead
 brazenface
 baikerinite
 beshrouded
@@ -13542,6 +13541,7 @@ belatedly
 bounciness
 bouncingly
 boundable
+bedstead
 boundary
 backdate
 bountith
