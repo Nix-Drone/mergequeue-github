@@ -1685,7 +1685,6 @@ accoucheuses
 accounsel
 account
 accountability
-accountable
 accountableness
 alicyclic
 accountably
@@ -24528,6 +24527,7 @@ auxochrome
 auxochromism
 auxochromous
 auxocyte
+accountable
 auxograph
 auxographic
 auxology
