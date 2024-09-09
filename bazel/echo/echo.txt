@@ -4381,6 +4381,7 @@ enamelist
 enamellar
 equiped
 enamellers
+ebullitions
 enamelless
 enamels
 enami
@@ -12078,7 +12079,6 @@ entier
 excavational
 extemporaneous
 earthmen
-ebullitions
 excludes
 endpoint
 excludingly
