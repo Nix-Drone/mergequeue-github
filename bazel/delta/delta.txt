@@ -9373,6 +9373,7 @@ dechlore
 diffusible
 diffusibleness
 diffusimeter
+dysphotic
 diffusing
 diffusiometer
 diffusion
@@ -13077,7 +13078,6 @@ dysphonia
 dysphonic
 dysphoria
 dysphoric
-dysphotic
 dysphrasia
 detrimental
 dysphrenia
