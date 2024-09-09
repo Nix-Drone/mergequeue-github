@@ -5638,6 +5638,7 @@ depended
 dependence
 dependency
 dependencies
+diamicton
 depending
 dependingly
 depends
@@ -8425,7 +8426,6 @@ diametral
 diametrally
 diametric
 diametrical
-diamicton
 diamide
 diamides
 dogsbody
