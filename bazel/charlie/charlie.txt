@@ -9939,7 +9939,6 @@ collateral
 cancers
 chemosterilants
 chemosurgery
-chemosurgical
 chemotactic
 chemotactically
 chemotaxy
@@ -19259,6 +19258,7 @@ colonialised
 colonialising
 chelem
 colonialism
+chemosurgical
 colonialist
 colonialists
 colonialization
