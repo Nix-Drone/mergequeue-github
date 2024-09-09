@@ -7090,7 +7090,6 @@ centiliters
 centilitre
 centillionth
 centiloquy
-centimes
 centimeters
 centimetre
 cashmerette
@@ -22926,6 +22925,7 @@ consistency
 catalytic
 consistencies
 claypan
+centimes
 consistent
 consistently
 consistible
