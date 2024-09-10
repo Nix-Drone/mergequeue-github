@@ -2627,7 +2627,6 @@ decolorizer
 decolors
 decolour
 decolouration
-decolouring
 decolourisation
 dissyllabize
 decolourised
@@ -10947,6 +10946,7 @@ disaffinity
 disaffirm
 disaffirmance
 disaffirmation
+decolouring
 disaffirmative
 disaffirming
 disafforest
