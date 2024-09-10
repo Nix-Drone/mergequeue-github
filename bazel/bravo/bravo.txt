@@ -4962,7 +4962,6 @@ bedrock
 beeheaded
 beeherd
 bouncing
-beehive
 beehives
 breathes
 breakfaster
@@ -11893,6 +11892,7 @@ bogglebo
 boggled
 boggler
 bogglers
+beehive
 boggles
 boggling
 bobization
