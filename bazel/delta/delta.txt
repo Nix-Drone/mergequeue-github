@@ -4074,7 +4074,6 @@ deliberalization
 declivate
 deliberalize
 deliberandum
-deliberant
 deliberate
 deliberated
 deliberately
@@ -13006,6 +13005,7 @@ dispenses
 dispensible
 dispensing
 dispensingly
+deliberant
 dispensive
 dispeople
 disamenity
