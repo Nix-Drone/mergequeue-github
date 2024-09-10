@@ -11727,6 +11727,7 @@ analysers
 addressee
 analyses
 analysing
+atypic
 antimoniate
 analysis
 analyst
@@ -22650,7 +22651,6 @@ archaeologically
 atingle
 atip
 atypy
-atypic
 atypical
 alkalimetrical
 atypicality
