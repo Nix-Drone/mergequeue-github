@@ -16698,6 +16698,7 @@ clothesbag
 clothesbasket
 clothesbrush
 clotheshorse
+coral
 clotheshorses
 clothesyard
 clothesless
@@ -24844,7 +24845,6 @@ corah
 coraise
 cashless
 coraji
-coral
 coralbells
 coralberries
 coralbush
