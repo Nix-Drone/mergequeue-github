@@ -1081,7 +1081,6 @@ filigraned
 farmeries
 farmerish
 farmerly
-farmerlike
 farmership
 farmhold
 farmhouse
@@ -2326,6 +2325,7 @@ fenchyl
 fencible
 fencings
 firehouse
+farmerlike
 fend
 fended
 ferric
