@@ -3560,6 +3560,7 @@ ammine
 addressable
 addressees
 addresser
+allwhere
 addressers
 addresses
 auxetics
@@ -9047,7 +9048,6 @@ alluvium
 antecell
 alluviums
 alluvivia
-allwhere
 accipitres
 allwhither
 allwork
