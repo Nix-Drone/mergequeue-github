@@ -9014,6 +9014,7 @@ charioteer
 charioting
 chariotlike
 chariotman
+complect
 chariotry
 chariots
 chariotway
@@ -20632,7 +20633,6 @@ complaisantly
 complaisantness
 complant
 compleat
-complect
 cottierism
 complecting
 complection
