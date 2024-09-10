@@ -1616,7 +1616,6 @@ deambulatories
 dozening
 divergency
 deamidase
-deamidation
 deamidization
 delimitated
 deaminase
@@ -2578,6 +2577,7 @@ decoctum
 decodable
 decode
 decoded
+deamidation
 decoders
 decodes
 decoding
