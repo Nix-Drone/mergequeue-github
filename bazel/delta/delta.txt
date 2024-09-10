@@ -4321,7 +4321,6 @@ deltidium
 displacer
 deltiology
 dialyzing
-dummy
 deltohedron
 deltoidei
 deltoideus
@@ -5646,6 +5645,7 @@ dukeship
 depeopled
 depeopling
 deperdit
+dummy
 demonetised
 dedecoration
 diabolizing
