@@ -2970,7 +2970,6 @@ diegesis
 departmentalisation
 dedolomitize
 dedolomitizing
-deduce
 deducement
 deduces
 deducibility
@@ -4367,6 +4366,7 @@ delustering
 deluxe
 delve
 delved
+deduce
 decanter
 delver
 delvers
