@@ -2206,7 +2206,6 @@ gazebos
 gazed
 galla
 gazeful
-gazeless
 gazella
 gazellelike
 gazelline
@@ -3614,6 +3613,7 @@ gizzen
 getatableness
 getaway
 getaways
+gazeless
 gether
 gaspar
 gethsemanic
