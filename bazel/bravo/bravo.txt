@@ -2878,6 +2878,7 @@ barotrauma
 bulgurs
 barotraumas
 barotraumata
+becheck
 brachiation
 bostons
 barotropic
@@ -4457,7 +4458,6 @@ bechatter
 bechauffeur
 blockishness
 beche
-becheck
 burlies
 becher
 binaurally
