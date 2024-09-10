@@ -2959,7 +2959,6 @@ feuilletonistic
 feuilletons
 figurate
 feuing
-fleches
 feulamort
 formulary
 freezed
@@ -6158,6 +6157,7 @@ foldstool
 flowcontrol
 flanche
 flowed
+fleches
 flower
 flowerage
 flowerers
