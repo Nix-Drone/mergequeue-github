@@ -6865,7 +6865,6 @@ foliate
 foliated
 foliates
 foliating
-foliation
 foliator
 foliature
 finiglacial
@@ -11467,6 +11466,7 @@ furnishness
 foreranks
 fragged
 furnit
+foliation
 furniture
 furodiazole
 furoic
