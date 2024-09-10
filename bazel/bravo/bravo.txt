@@ -4654,6 +4654,7 @@ bedchair
 bedchairs
 bedchamber
 bratstva
+barkle
 bedclothing
 bedcord
 byplays
@@ -10186,7 +10187,6 @@ blackseed
 biofeedback
 blackshirt
 blackshirted
-barkle
 blacksmith
 blacksmithing
 beastdom
