@@ -5537,7 +5537,6 @@ africanize
 africanoid
 africanthropus
 afridi
-afright
 akamnik
 afrikaans
 afrikander
@@ -17478,6 +17477,7 @@ apostrophic
 apostrophied
 apostrophise
 apostrophised
+afright
 apostrophising
 apostrophize
 apostrophizes
