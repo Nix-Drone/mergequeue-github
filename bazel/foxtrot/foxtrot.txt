@@ -790,7 +790,6 @@ fandangos
 forecondemn
 fandom
 fandoms
-fane
 fanegadas
 fanegas
 fanes
@@ -1644,6 +1643,7 @@ favosite
 flinchingly
 flowerpots
 favosites
+fane
 forecovert
 favositoid
 findal
