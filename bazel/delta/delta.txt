@@ -4948,7 +4948,6 @@ demonship
 demonstrability
 demonstrable
 destructing
-demonstrableness
 demonstrably
 demonstrandum
 demonstratability
@@ -16812,6 +16811,7 @@ drawbolt
 drawbore
 deare
 drawbored
+demonstrableness
 drawbores
 deodars
 dorsomesal
