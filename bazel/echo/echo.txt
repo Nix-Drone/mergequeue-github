@@ -788,7 +788,6 @@ ecphorias
 ecphractic
 ecphrasis
 ecrase
-ecraseur
 ecraseurs
 ecrasite
 ecroulement
@@ -13804,6 +13803,7 @@ extracted
 extractibility
 extractible
 evections
+ecraseur
 extractiform
 extracting
 extractions
