@@ -3156,7 +3156,6 @@ defamer
 defamers
 defames
 demihuman
-defamy
 defaming
 defamingly
 defamous
@@ -9437,6 +9436,7 @@ digesting
 digestion
 digestively
 digestiveness
+defamy
 dermad
 digestment
 digestor
