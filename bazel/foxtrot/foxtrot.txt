@@ -6715,7 +6715,6 @@ fofarraw
 flanger
 fog
 fogbank
-fogbound
 fogbow
 flyblow
 fogdogs
@@ -9516,6 +9515,7 @@ frass
 frasse
 ferntickled
 fratch
+fogbound
 flints
 fratched
 fratcher
