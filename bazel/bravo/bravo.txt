@@ -12685,6 +12685,7 @@ bookmobile
 bookmobiles
 bookplate
 bookplates
+boxhaul
 barwise
 bookpress
 bookrack
@@ -13856,7 +13857,6 @@ broquineer
 boxes
 boxful
 boxfuls
-boxhaul
 boxhauled
 brierberry
 boxhauling
