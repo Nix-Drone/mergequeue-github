@@ -764,7 +764,6 @@ barrels
 boraciferous
 badgemen
 badger
-badgerbrush
 badgered
 badgerer
 badgering
@@ -9950,6 +9949,7 @@ bivalvian
 bivalvous
 bivalvular
 being
+badgerbrush
 bajulate
 bivane
 bivariant
