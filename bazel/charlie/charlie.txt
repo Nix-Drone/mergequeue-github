@@ -3456,6 +3456,7 @@ clientless
 captress
 capturable
 captured
+conterminate
 captures
 capturing
 capuan
@@ -8342,7 +8343,6 @@ chaldee
 chalder
 chaldron
 chaldrons
-conterminate
 chaleh
 chalehs
 chalet
