@@ -5745,7 +5745,6 @@ categorizations
 categorize
 corona
 categorizers
-categorizes
 categorizing
 cateye
 catel
@@ -25559,6 +25558,7 @@ connex
 corporally
 corporals
 corporalship
+categorizes
 corporas
 corporate
 corporately
