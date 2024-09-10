@@ -804,7 +804,6 @@ badlands
 bogatyr
 buba
 badly
-badman
 badmash
 badmen
 besodden
@@ -9521,6 +9520,7 @@ birse
 birsy
 birsit
 byrsonima
+badman
 birt
 birthbed
 bipinnatifid
