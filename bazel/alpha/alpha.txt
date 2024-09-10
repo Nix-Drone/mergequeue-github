@@ -11747,7 +11747,6 @@ analyzed
 analyzers
 analyzes
 analyzing
-analkalinity
 anallagmatic
 anallagmatis
 anallantoic
@@ -20203,6 +20202,7 @@ arrearage
 arrearages
 arrears
 arrect
+analkalinity
 arrector
 alumetize
 arrendation
