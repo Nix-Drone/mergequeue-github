@@ -8608,7 +8608,6 @@ chancellorships
 chancelor
 chancelry
 calathidium
-chancels
 chanceman
 chancemen
 conoscente
@@ -16841,6 +16840,7 @@ clubfist
 clubfisted
 clubfoot
 clubfooted
+chancels
 clubhand
 clubhands
 clubhaul
