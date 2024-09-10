@@ -7370,7 +7370,6 @@ forby
 forewarnings
 faunlike
 foreparent
-foreplot
 forbid
 forebodingly
 forbidals
@@ -8136,6 +8135,7 @@ foretops
 foretrace
 foreuse
 foreutter
+foreplot
 fittable
 flamier
 forever
