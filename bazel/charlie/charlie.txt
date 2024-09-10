@@ -2756,7 +2756,6 @@ cansos
 congenialize
 canst
 canstick
-cant
 cantabank
 cantabile
 cantabri
@@ -2899,6 +2898,7 @@ cantonment
 cantonments
 cantons
 countergager
+cant
 cantoral
 cantoria
 cantorial
