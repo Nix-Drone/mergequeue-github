@@ -9198,7 +9198,6 @@ chaseable
 chased
 corbeilles
 chasers
-chases
 chashitsu
 chasid
 chasidim
@@ -17641,6 +17640,7 @@ cockpit
 croute
 cockpits
 couched
+chases
 cockroach
 comaking
 confraternity
