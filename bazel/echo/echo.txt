@@ -5606,7 +5606,6 @@ enfollow
 enfoncee
 ephemerae
 enforceability
-enforced
 enforcement
 extranatural
 enlisters
@@ -12290,6 +12289,7 @@ executioner
 executioneress
 executioners
 executions
+enforced
 emulates
 executively
 entangledly
