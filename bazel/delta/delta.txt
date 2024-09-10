@@ -7304,7 +7304,6 @@ detinues
 detinuit
 detn
 detonability
-detonable
 detonatability
 depersonalised
 detonate
@@ -9354,6 +9353,7 @@ diffractional
 diffractions
 defense
 demilitarizing
+detonable
 directionless
 damaskeening
 diffractively
