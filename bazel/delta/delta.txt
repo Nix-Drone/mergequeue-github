@@ -1715,6 +1715,7 @@ deathsmen
 depaysee
 deathtime
 deathtrap
+derotremata
 deathtraps
 deathward
 deathwatches
@@ -6391,7 +6392,6 @@ derogatorily
 deromanticize
 derotrema
 dihydronaphthalene
-derotremata
 derotrematous
 derrick
 disadvanced
