@@ -3527,6 +3527,7 @@ caracter
 caraculs
 caradoc
 carafe
+convenience
 carafes
 clergymen
 cornicing
@@ -24007,7 +24008,6 @@ convener
 convenery
 conveneries
 convenes
-convenience
 convenienced
 conveniences
 conveniency
