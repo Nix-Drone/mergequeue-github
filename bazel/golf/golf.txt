@@ -2609,7 +2609,6 @@ gemonies
 gemot
 gemote
 gemotes
-gemots
 gems
 genouillere
 gemsbok
@@ -4974,6 +4973,7 @@ glaciation
 glaciered
 glacieret
 glacierist
+gemots
 gant
 gaunter
 glacification
