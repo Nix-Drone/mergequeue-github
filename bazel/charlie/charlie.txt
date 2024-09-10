@@ -16231,7 +16231,6 @@ clinicist
 clinicopathological
 clinicopathologically
 clinics
-clinid
 clinium
 clink
 clinkant
@@ -18785,6 +18784,7 @@ cocinero
 coliform
 coliforms
 coliidae
+clinid
 cavil
 colilysin
 colima
