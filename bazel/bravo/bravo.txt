@@ -801,6 +801,7 @@ badju
 betterer
 badland
 badlands
+basicerite
 bogatyr
 buba
 badly
@@ -3220,7 +3221,6 @@ bauld
 basic
 browner
 basically
-basicerite
 basichromatic
 basichromatin
 buffi

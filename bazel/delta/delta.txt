@@ -3581,7 +3581,6 @@ defunctionalization
 defunctionalize
 defunctive
 defused
-defuses
 defusion
 dingles
 dolman
@@ -5326,6 +5325,7 @@ dentaliums
 dentalization
 dentalize
 dentalized
+defuses
 dentally
 dentallia
 dentalman
