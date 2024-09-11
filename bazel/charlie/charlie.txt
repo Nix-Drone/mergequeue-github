@@ -11905,7 +11905,6 @@ chordoid
 chordomesoderm
 chordophone
 chordotomy
-chordotonal
 chore
 caviare
 chorea
@@ -21993,6 +21992,7 @@ confirmedness
 confirmer
 confirming
 confirmity
+chordotonal
 confirmment
 ceramiaceous
 confirmor
