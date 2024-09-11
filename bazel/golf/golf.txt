@@ -5221,6 +5221,7 @@ gnathic
 guestship
 glasswork
 guider
+glauconitization
 glassworker
 glassworkers
 glassworm
@@ -8377,7 +8378,6 @@ gratuito
 gratuitous
 gratuitousness
 gratulate
-glauconitization
 gratulated
 gratulation
 gratulatory
