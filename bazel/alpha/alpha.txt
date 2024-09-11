@@ -2653,7 +2653,6 @@ autodetector
 airframes
 acouometer
 acouophonia
-acoluthic
 acoup
 acoupa
 acousmatic
@@ -5079,6 +5078,7 @@ aerosiderolite
 amphib
 aerosol
 aerosolization
+acoluthic
 aerosolize
 aerosolized
 aerosols
