@@ -7575,7 +7575,6 @@ faith
 foregame
 forechoose
 foreclaw
-foreclose
 foreclosed
 foreclosure
 feteless
@@ -8219,6 +8218,7 @@ forgat
 forgather
 finickiness
 forgathered
+foreclose
 flamelet
 forgathering
 furzed
