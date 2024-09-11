@@ -9390,7 +9390,6 @@ chauri
 chaus
 chausse
 chaussee
-chausseemeile
 cotangent
 cuppa
 chaussees
@@ -28636,6 +28635,7 @@ crenele
 creneled
 crenelee
 crenelet
+chausseemeile
 creneling
 crenellated
 crenellating
