@@ -3575,7 +3575,6 @@ adduce
 adduceable
 adduced
 adducent
-adducer
 adducers
 ancestrally
 anticommercially
@@ -22290,6 +22289,7 @@ astrologize
 astrologous
 astromancer
 astromancy
+adducer
 astromantic
 astromeda
 algogenic
