@@ -6291,7 +6291,6 @@ enrol
 enfeebled
 enroll
 enrolle
-enrolled
 enrollee
 embryologies
 efformative
@@ -12697,6 +12696,7 @@ exolution
 exolve
 exometritis
 emerse
+enrolled
 encephaloma
 exomis
 exomologesis
