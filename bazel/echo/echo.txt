@@ -6743,7 +6743,6 @@ enters
 entertainable
 entertained
 enquires
-entertainer
 entertainers
 emotionalization
 entertaining
@@ -12740,6 +12739,7 @@ exophthalmos
 exophthalmus
 exoplasm
 exopod
+entertainer
 exopodite
 exopterygota
 exopterygote
