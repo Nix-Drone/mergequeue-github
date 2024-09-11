@@ -3361,6 +3361,7 @@ capsicum
 capsicums
 capsid
 capsidal
+clustering
 capsids
 capsizable
 capsizal
@@ -16938,7 +16939,6 @@ clusterberry
 clustered
 clusterfist
 clustery
-clustering
 clusteringly
 clusterings
 clutch
