@@ -7305,7 +7305,6 @@ detinuit
 detn
 detonability
 detonable
-detonatability
 depersonalised
 detonate
 detonated
@@ -12139,6 +12138,7 @@ disfoliaged
 disforest
 disforestation
 disformity
+detonatability
 disfortune
 disframe
 disfranchisement
