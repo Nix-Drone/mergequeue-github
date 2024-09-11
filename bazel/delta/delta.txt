@@ -565,7 +565,6 @@ damageability
 damageably
 damaged
 damagement
-damageous
 dao
 damager
 damagers
@@ -9078,6 +9077,7 @@ duodecagon
 didactylism
 didactylous
 didal
+damageous
 didappers
 didascalos
 didder
