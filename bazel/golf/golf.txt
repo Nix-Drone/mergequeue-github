@@ -4967,7 +4967,6 @@ glacialist
 glacialize
 glaciaria
 graphemes
-glaciarium
 glaciated
 glaciates
 glaciation
@@ -8722,6 +8721,7 @@ greenskeeper
 greenslade
 greenstick
 greenstone
+glaciarium
 gibeonite
 gauntree
 greensward
