@@ -17397,7 +17397,6 @@ cobblers
 cobblership
 cobbles
 cobblestone
-cobblestoned
 cobblestones
 cobbly
 cobbling
@@ -25551,6 +25550,7 @@ corporacies
 corporal
 corporalcy
 corporale
+cobblestoned
 corporales
 corporalism
 corporality
