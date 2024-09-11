@@ -3449,7 +3449,6 @@ captiving
 captivity
 comatulae
 captivities
-cojoin
 captor
 captors
 clientless
@@ -28626,6 +28625,7 @@ crenation
 crenature
 crenel
 crenelated
+cojoin
 coloniser
 crenelates
 compose
