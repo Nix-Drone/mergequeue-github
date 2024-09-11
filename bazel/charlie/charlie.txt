@@ -2402,6 +2402,7 @@ candled
 candlefish
 candlefishes
 candleholder
+crocodiloid
 candlelight
 candlelighted
 candlelighter
@@ -29629,7 +29630,6 @@ crocodylidae
 crocodiline
 crocodilite
 crocodility
-crocodiloid
 coriin
 chemosterilant
 crocodilus
