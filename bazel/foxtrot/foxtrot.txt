@@ -3360,6 +3360,7 @@ firstlings
 fief
 foredeem
 fiefs
+ftncmd
 forfeitable
 fiel
 fieldball
@@ -10801,7 +10802,6 @@ forinsec
 fth
 fthm
 forwardation
-ftncmd
 featherlet
 frenetic
 fu
