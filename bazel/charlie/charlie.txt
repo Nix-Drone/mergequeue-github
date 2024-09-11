@@ -19609,7 +19609,6 @@ carillon
 comacine
 comade
 comae
-comagmatic
 comake
 comaker
 comal
@@ -20679,6 +20678,7 @@ completory
 completories
 complex
 complexation
+comagmatic
 complexedness
 complexer
 complexes
