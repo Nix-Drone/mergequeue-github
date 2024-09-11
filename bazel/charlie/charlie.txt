@@ -3910,7 +3910,6 @@ colorimetry
 circumnutation
 carcinoid
 carcinolysin
-carcinological
 carcinologist
 carcinomas
 carcinomata
@@ -8452,6 +8451,7 @@ chamaesyce
 chamaesiphonaceae
 chamaesiphonales
 chamal
+carcinological
 chamar
 chambellan
 chamber
