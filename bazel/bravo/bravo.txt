@@ -9935,7 +9935,6 @@ biuniqueness
 biunivocal
 biurate
 biurea
-bivalence
 bivalency
 bivalencies
 bivalent
@@ -10590,6 +10589,7 @@ bleaky
 bleakly
 buist
 bleakness
+bivalence
 bleaks
 bleared
 blearedness
