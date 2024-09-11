@@ -9228,7 +9228,6 @@ diestock
 death
 diestrous
 drawbridge
-diestrual
 diestrum
 diestrums
 diestruses
@@ -12723,6 +12722,7 @@ dervishhood
 daguerreotypes
 dismarketing
 dismast
+diestrual
 dismasted
 dismastment
 disme
