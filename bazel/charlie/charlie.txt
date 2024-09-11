@@ -7851,6 +7851,7 @@ cervicolabial
 cervicolingual
 cervicolumbar
 crystal
+convoys
 cervicomuscular
 cerviconasal
 cervicoscapular
@@ -24202,7 +24203,6 @@ convocator
 convoy
 convoyed
 convoying
-convoys
 convoke
 convoked
 convoker
