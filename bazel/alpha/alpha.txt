@@ -4032,7 +4032,6 @@ adjustores
 adjutage
 adjutancies
 adjutant
-adjutants
 adjutantship
 anesthetic
 adjutator
@@ -12852,6 +12851,7 @@ angledog
 anglehook
 anglepod
 anglepods
+adjutants
 angler
 anglesmith
 angletwitch
