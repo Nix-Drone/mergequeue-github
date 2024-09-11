@@ -4632,7 +4632,6 @@ fixer
 freedstool
 fixidity
 fixing
-fixings
 fixities
 flannelleaf
 fixt
@@ -5075,6 +5074,7 @@ florigens
 fructure
 flashtube
 flashtubes
+fixings
 fusobteria
 fanterie
 flask
