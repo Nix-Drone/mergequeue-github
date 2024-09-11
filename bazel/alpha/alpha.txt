@@ -2616,7 +2616,6 @@ axoplasm
 aconites
 aconitia
 aconitin
-aconitine
 aconitums
 acontia
 acontium
@@ -5713,6 +5712,7 @@ aftertime
 aftertimes
 apastron
 aftertrial
+aconitine
 assortive
 afterturn
 arosaguntacook
