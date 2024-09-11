@@ -11066,7 +11066,6 @@ checksums
 chitin
 coappears
 chitinocalcareous
-chitinogenous
 chitinoid
 chesterbed
 chitinous
@@ -31755,6 +31754,7 @@ customly
 citronade
 customs
 customshouse
+chitinogenous
 custos
 custrel
 custron
