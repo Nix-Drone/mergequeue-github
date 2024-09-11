@@ -2132,7 +2132,6 @@ elasmobranch
 elasmobranchii
 epilimnia
 edgemaker
-elasmothere
 elastase
 excretory
 elastases
@@ -10813,6 +10812,7 @@ euktolite
 ecdemite
 eulachan
 eulachans
+elasmothere
 eulachon
 eulalia
 eulamellibranchiata
