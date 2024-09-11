@@ -4261,7 +4261,6 @@ adopted
 archmock
 adoptedly
 adoptee
-alcid
 adoptees
 adopter
 adopters
@@ -14379,6 +14378,7 @@ anthicidae
 anthill
 anthills
 anthinae
+alcid
 anthine
 anthypnotic
 anthypophora
