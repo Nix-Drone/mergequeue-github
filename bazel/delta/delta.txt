@@ -5637,7 +5637,6 @@ dependantly
 depended
 dependence
 dependency
-dependencies
 depending
 dependingly
 depends
@@ -15732,6 +15731,7 @@ dormantly
 dormer
 dammara
 dormered
+dependencies
 dormers
 dormette
 dormeuse
