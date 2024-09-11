@@ -3565,7 +3565,6 @@ addresses
 auxetics
 addressful
 addressing
-acanthocephalan
 addressograph
 addressor
 addrest
@@ -16913,6 +16912,7 @@ aphonias
 aphonic
 aphonous
 aphorise
+acanthocephalan
 aphorised
 aphorises
 aphorising
