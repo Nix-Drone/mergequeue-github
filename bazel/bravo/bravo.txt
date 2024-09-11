@@ -7281,7 +7281,6 @@ bestraw
 bestreak
 bestream
 blackhander
-bestrew
 bestrewed
 bestrewing
 bestrewment
@@ -17894,6 +17893,7 @@ bursts
 botein
 burt
 burthen
+bestrew
 burthened
 bluewing
 burthening
