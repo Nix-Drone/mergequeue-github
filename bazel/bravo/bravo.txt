@@ -2100,6 +2100,7 @@ blossomhead
 bankcards
 banked
 banker
+byhand
 bankerdom
 bankeress
 bacteriophobia
@@ -8451,7 +8452,6 @@ babushka
 biham
 besprinkle
 blaine
-byhand
 bihari
 biharmonic
 barbells
