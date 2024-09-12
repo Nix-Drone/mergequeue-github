@@ -14661,7 +14661,6 @@ cysticercoidal
 cysticercosis
 cysticle
 cysticolous
-cystid
 cystidea
 cystidia
 cystidium
@@ -21340,6 +21339,7 @@ compensated
 conciliate
 conciliated
 conciliates
+cystid
 conciliating
 conciliatingly
 conciliation
