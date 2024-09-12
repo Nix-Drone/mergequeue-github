@@ -9286,6 +9286,7 @@ fragileness
 fragility
 faceplate
 fragilities
+fashion
 fragment
 floorhead
 fragmental
@@ -10064,7 +10065,6 @@ fylgja
 frigiferous
 frigolabile
 fadlike
-fashion
 frigor
 fylfots
 frigoric
