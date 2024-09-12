@@ -11788,7 +11788,6 @@ becrowding
 boucan
 bodyguards
 beribers
-bodykins
 bodiless
 bodyless
 bodiliness
@@ -14425,6 +14424,7 @@ brame
 bramia
 bran
 bolivarite
+bodykins
 brancard
 brancardier
 branchiomeric
