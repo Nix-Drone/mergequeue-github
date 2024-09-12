@@ -6948,7 +6948,6 @@ cenosite
 cenosity
 cenospecies
 custodiam
-cenospecific
 cenotaph
 cenotaphy
 cenotaphies
@@ -19571,6 +19570,7 @@ columnate
 columnated
 columnates
 columnating
+cenospecific
 columnation
 columnea
 crinkleroot
