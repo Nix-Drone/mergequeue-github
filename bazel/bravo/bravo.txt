@@ -9475,7 +9475,6 @@ birles
 birlieman
 birling
 birlings
-birlinn
 birls
 birma
 birmingham
@@ -16943,6 +16942,7 @@ buildingless
 buildings
 balers
 betimes
+birlinn
 backseats
 binominous
 bezette
