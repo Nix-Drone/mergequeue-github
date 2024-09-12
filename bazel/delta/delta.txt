@@ -4367,7 +4367,6 @@ delustering
 deluxe
 delve
 delved
-decanter
 delver
 delvers
 delves
@@ -8222,6 +8221,7 @@ diagonalization
 diagonalize
 disinteresting
 diagnosing
+decanter
 diseurs
 diagonally
 diagonals
