@@ -3985,7 +3985,6 @@ bch
 bchs
 bd
 bde
-bdellatomy
 brotan
 bdellium
 bdelliums
@@ -12075,6 +12074,7 @@ bolded
 bolden
 bolder
 boldest
+bdellatomy
 boldface
 bostrychoid
 boldfaced

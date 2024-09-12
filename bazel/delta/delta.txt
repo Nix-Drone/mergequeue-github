@@ -832,7 +832,6 @@ dangle
 dangleberry
 dangled
 danglers
-dangles
 danglin
 dangling
 deices
@@ -9373,6 +9372,7 @@ dechlore
 diffusible
 diffusibleness
 diffusimeter
+dangles
 diffusing
 diffusiometer
 diffusion
