@@ -3652,7 +3652,6 @@ balourdise
 bathochromic
 bathoflore
 bathofloric
-batholith
 batholithic
 batholiths
 batholitic
@@ -11063,6 +11062,7 @@ bloodbird
 befrets
 blancs
 bloodcurdler
+batholith
 bloodcurdling
 bloodcurdlingly
 blooddrop
