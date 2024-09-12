@@ -1922,7 +1922,6 @@ bandfile
 bandfiled
 bandfish
 bandgap
-bandh
 brownism
 bandhava
 bandhook
@@ -7482,6 +7481,7 @@ bequeathment
 bimarginate
 bummest
 bryophyte
+bandh
 betrayers
 betraying
 broodlet
