@@ -4166,7 +4166,6 @@ fanhouse
 flagstones
 fireburn
 fibrocaseous
-fireclay
 federals
 fireclays
 firecoat
@@ -10956,6 +10955,7 @@ foothook
 fullwords
 frescoes
 fulmar
+fireclay
 fulmina
 fulminant
 flighthead
