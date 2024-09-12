@@ -4450,6 +4450,7 @@ fissionable
 fissioned
 frays
 fissions
+fulcrate
 fissipalmation
 floorboards
 fissiparism
@@ -9553,7 +9554,6 @@ fraticelli
 focalises
 furcating
 fratry
-fulcrate
 foothil
 forcer
 fratricide
