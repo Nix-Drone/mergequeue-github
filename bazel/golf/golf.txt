@@ -957,7 +957,6 @@ gamelang
 gamelans
 gameless
 gentian
-gamely
 gamelike
 gymnast
 goracco
@@ -8430,6 +8429,7 @@ gravemaker
 gigantomachy
 graveman
 graveness
+gamely
 gravenstein
 gaping
 gesan
