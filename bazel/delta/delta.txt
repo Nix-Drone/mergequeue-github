@@ -342,6 +342,7 @@ daybeds
 dollfaced
 daybill
 dayblush
+discolorations
 dayboy
 daybooks
 discerptibility
@@ -11442,7 +11443,6 @@ discolith
 discolorated
 decarburization
 discoloration
-discolorations
 discolored
 discoloredness
 discoloring
