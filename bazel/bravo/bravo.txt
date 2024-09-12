@@ -1923,6 +1923,7 @@ bandfiled
 bandfish
 bandgap
 bandh
+bordrage
 brownism
 bandhava
 bandhook
@@ -12962,7 +12963,6 @@ bordermark
 blastoporphyritic
 bordman
 bordrag
-bordrage
 biophysicochemical
 beringite
 bordroom
