@@ -7835,7 +7835,6 @@ cervelliere
 cervical
 cervicapra
 cervicaprine
-cervicectomy
 catachresti
 cervicicardiac
 cervicide
@@ -17158,6 +17157,7 @@ coalescency
 coalescent
 coalesces
 coalescing
+cervicectomy
 coalface
 coalfield
 coalfish
