@@ -13094,7 +13094,6 @@ countrypeople
 cyathiform
 cyathium
 cyatholith
-cyathophyllidae
 cyathophylloid
 cyathophyllum
 cyathos
@@ -25626,6 +25625,7 @@ correality
 correct
 correctable
 correctant
+cyathophyllidae
 corrected
 correctest
 correctible
