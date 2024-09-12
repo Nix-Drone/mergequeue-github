@@ -957,7 +957,6 @@ gamelang
 gamelans
 gameless
 gentian
-gamely
 gamelike
 gymnast
 goracco
@@ -4433,6 +4432,7 @@ gynetype
 gushers
 gingal
 gingalls
+gamely
 gingeleys
 gingely
 glyceric
