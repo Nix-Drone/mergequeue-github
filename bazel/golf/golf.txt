@@ -2875,6 +2875,7 @@ genome
 genomic
 genoms
 genonema
+glycyl
 gph
 genos
 gerrymandered
@@ -5421,7 +5422,6 @@ glycic
 glycid
 glycide
 galoshed
-glycyl
 glycyls
 gutte
 glycine
