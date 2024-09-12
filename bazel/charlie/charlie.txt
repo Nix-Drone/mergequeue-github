@@ -6507,6 +6507,7 @@ cdg
 cdr
 ce
 cesspool
+corpusculum
 celibates
 ceanothus
 cearin
@@ -25611,7 +25612,6 @@ corpuscularity
 corpusculated
 corpuscule
 corpusculous
-corpusculum
 corraded
 corradial
 corradiate
