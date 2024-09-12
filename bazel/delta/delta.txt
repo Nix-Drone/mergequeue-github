@@ -7304,7 +7304,6 @@ detinues
 detinuit
 detn
 detonability
-detonable
 detonatability
 depersonalised
 detonate
@@ -8140,6 +8139,7 @@ diactinal
 diactine
 diactinic
 diactinism
+detonable
 diaculum
 dyad
 deemphasizing
