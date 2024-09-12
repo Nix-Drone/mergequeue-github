@@ -7392,7 +7392,6 @@ cephalotaceous
 cephalotaxus
 cephalothecal
 cephalothoracic
-cephalothoracopagus
 cephalothoraxes
 cephalotomy
 capman
@@ -19254,6 +19253,7 @@ colongitude
 colony
 colonial
 candidas
+cephalothoracopagus
 colonialise
 colonialised
 colonialising
