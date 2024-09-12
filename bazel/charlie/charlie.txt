@@ -8388,7 +8388,6 @@ chalkpit
 chalkrail
 chalkstone
 chalkworker
-challah
 challahs
 challas
 challengable
@@ -24630,6 +24629,7 @@ copolymers
 copopoda
 coportion
 copouts
+challah
 coley
 coppa
 coppaelite
