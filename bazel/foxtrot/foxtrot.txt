@@ -711,6 +711,7 @@ famine
 fifteener
 famines
 faena
+flaunch
 famished
 famishing
 famishment
@@ -5171,7 +5172,6 @@ flaubertian
 flaught
 fiot
 frugal
-flaunch
 fullfaces
 flaunched
 ferie
