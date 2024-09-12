@@ -13689,7 +13689,6 @@ cimicidae
 cimicide
 cimiciform
 cimicifuga
-cryptonym
 cimicifugin
 cimicoid
 cimier
@@ -22519,6 +22518,7 @@ conjured
 conjurement
 conjurer
 conjurers
+cryptonym
 conjures
 conjury
 conjuring
