@@ -15440,6 +15440,7 @@ clapdish
 clape
 clapholt
 clapmatch
+crafter
 clapnest
 clapnet
 clapotis
@@ -18772,7 +18773,6 @@ colicines
 colicins
 colicystitis
 coappellee
-crafter
 colicystopyelitis
 colicker
 colicolitis
