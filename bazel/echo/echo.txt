@@ -4047,6 +4047,7 @@ emparchment
 emparl
 empasma
 everbloomer
+entities
 empassion
 embarrassingly
 empathetic
@@ -6827,7 +6828,6 @@ entiris
 entirities
 entitative
 entitatively
-entities
 epineurium
 entitle
 enriched
