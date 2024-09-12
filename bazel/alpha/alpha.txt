@@ -6078,7 +6078,6 @@ aggregates
 aggregating
 aggregation
 aggregations
-aggregative
 aggregatively
 aggregator
 antiroll
@@ -16039,6 +16038,7 @@ antiquating
 antiquation
 antique
 antiquely
+aggregative
 antiqueness
 antiquers
 antiques
