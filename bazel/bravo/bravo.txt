@@ -2999,7 +2999,6 @@ barricaded
 baryes
 brei
 barrette
-barricader
 barricaders
 barricades
 bedplates
@@ -15104,6 +15103,7 @@ brewages
 bogier
 butchering
 brewery
+barricader
 breweries
 brewers
 brewership
