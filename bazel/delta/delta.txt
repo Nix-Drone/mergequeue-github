@@ -8211,7 +8211,6 @@ diagnosticating
 diagnostication
 diagnostician
 diagnosticians
-diagnostics
 diagometer
 demove
 derogations
@@ -17072,6 +17071,7 @@ dribblet
 dribblets
 drybeard
 dragnets
+diagnostics
 drybrush
 dribs
 drycoal
