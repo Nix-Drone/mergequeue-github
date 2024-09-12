@@ -2122,7 +2122,6 @@ campstool
 campstools
 camptodrome
 camptonite
-camptosorus
 campulitropal
 campulitropous
 campus
@@ -6022,6 +6021,7 @@ catskin
 catslide
 catso
 catspaw
+camptosorus
 catspaws
 catstane
 catstep
