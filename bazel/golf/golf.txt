@@ -7174,6 +7174,7 @@ gorged
 guignardia
 groundplot
 glossic
+graphemic
 gorgeous
 gorgeret
 gorgers
@@ -8150,7 +8151,6 @@ graphanalysis
 graphed
 gigabit
 grapheme
-graphemic
 glack
 governorships
 glues
