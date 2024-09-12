@@ -5364,7 +5364,6 @@ afflate
 afflated
 afflatus
 afflatuses
-afflict
 algesireceptor
 afflicted
 afflictedness
@@ -23622,6 +23621,7 @@ auriscopic
 aurist
 aurists
 aurited
+afflict
 aurivorous
 auroauric
 aurobromide
