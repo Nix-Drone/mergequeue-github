@@ -2463,6 +2463,7 @@ deck
 dateline
 decke
 deckedout
+dottore
 deckel
 deckels
 decken
@@ -7682,7 +7683,6 @@ devitalised
 ducatus
 devitalising
 devitalize
-dottore
 demanders
 devitalizes
 devitaminize
