@@ -5675,6 +5675,7 @@ belecture
 beledgered
 belee
 beleed
+buildingless
 belemnid
 belemnite
 belemnites
@@ -16939,7 +16940,6 @@ buildable
 builded
 bizarre
 building
-buildingless
 buildings
 balers
 betimes
