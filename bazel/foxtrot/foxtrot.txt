@@ -6718,6 +6718,7 @@ fogbank
 fogbound
 fogbow
 flyblow
+fokker
 fogdogs
 fairways
 fogdom
@@ -6800,7 +6801,6 @@ foistiness
 foists
 foresworn
 foiter
-fokker
 fol
 folacin
 folacins
