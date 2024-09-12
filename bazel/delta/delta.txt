@@ -10123,7 +10123,6 @@ disallowing
 dinging
 dingleberry
 dinglebird
-dingled
 dingledangle
 dunkirk
 decemvirs
@@ -16419,6 +16418,7 @@ dows
 dowsabels
 dowse
 dowsed
+dingled
 dowser
 dowsers
 daemonies
