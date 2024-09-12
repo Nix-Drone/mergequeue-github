@@ -19978,6 +19978,7 @@ armlike
 armload
 armloads
 armlock
+alestake
 armlocks
 armoire
 armoires
@@ -23603,7 +23604,6 @@ aurigerous
 aurignacian
 aurigo
 aurigraphy
-alestake
 aurin
 aurinasal
 aurine
