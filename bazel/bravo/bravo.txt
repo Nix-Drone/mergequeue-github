@@ -8278,7 +8278,6 @@ biffies
 biffin
 biffs
 bifid
-bifidate
 bifidated
 bifidity
 bifilar
@@ -18050,6 +18049,7 @@ busynesses
 bowled
 businessese
 businesslike
+bifidate
 benevolence
 businesslikeness
 businessmen
