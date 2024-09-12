@@ -9329,7 +9329,6 @@ banishments
 biplosion
 biplosive
 bries
-bipod
 bipods
 baccae
 bipolar
@@ -10852,6 +10851,7 @@ blindish
 blindless
 blindly
 blindling
+bipod
 boilery
 blindman
 brachyoura
