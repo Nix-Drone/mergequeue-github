@@ -6933,7 +6933,6 @@ airplane
 airplaned
 airplaner
 airplanes
-airplanist
 acieral
 airplot
 airport
@@ -9444,6 +9443,7 @@ alternat
 alternate
 alternated
 alternately
+airplanist
 alternateness
 alternating
 alternatingly
