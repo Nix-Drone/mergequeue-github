@@ -8193,7 +8193,6 @@ diagenetic
 diageotropy
 diageotropic
 diaglyph
-diaglyphic
 ductus
 diaglyptic
 diagnosable
@@ -9630,6 +9629,7 @@ dikaryophase
 delignated
 dikaryophasic
 dikaryophyte
+diaglyphic
 dikaryophytic
 dikaryotic
 depopulated
