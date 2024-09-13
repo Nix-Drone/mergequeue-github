@@ -1933,7 +1933,6 @@ gatecrasher
 gatecrashers
 gated
 gatefold
-grapefruits
 gatehouse
 gatekeep
 glovemaking
@@ -10195,6 +10194,7 @@ guildship
 guildsmen
 guessworker
 guile
+grapefruits
 guileful
 gyroscopic
 guilefulness
