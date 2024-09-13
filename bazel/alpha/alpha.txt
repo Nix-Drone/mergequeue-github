@@ -6960,7 +6960,6 @@ airspeed
 airspeeds
 airstream
 akinetic
-allegory
 airstrip
 airstrips
 airt
@@ -12985,6 +12984,7 @@ angulometer
 angulose
 aquiform
 angulosplenial
+allegory
 angulous
 angulus
 anguria
