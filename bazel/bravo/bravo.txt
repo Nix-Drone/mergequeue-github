@@ -2818,7 +2818,6 @@ bobberies
 baroness
 baronesses
 baronet
-baronetage
 beswelter
 baronetcy
 baronetcies
@@ -4292,6 +4291,7 @@ beauts
 beatuti
 bowls
 beau
+baronetage
 beaucoup
 banting
 balzacian
