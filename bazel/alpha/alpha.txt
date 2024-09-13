@@ -1421,7 +1421,6 @@ accelerators
 accelerograph
 accelerometer
 accelerometers
-accend
 accendibility
 accendible
 anticatholic
@@ -3733,6 +3732,7 @@ adenose
 arrant
 adenoses
 adenosine
+accend
 adenostemonous
 adenostoma
 adenotyphoid
