@@ -6477,7 +6477,6 @@ benzoline
 benzolize
 benzols
 benzonaphthol
-benzonitrile
 benzoperoxide
 benzophenanthrazine
 benzophenazine
@@ -15821,6 +15820,7 @@ brolga
 beggarman
 broll
 brolly
+benzonitrile
 bepat
 brollies
 beriberi
