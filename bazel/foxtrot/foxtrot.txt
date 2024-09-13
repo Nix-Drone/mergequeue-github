@@ -4927,6 +4927,7 @@ feldsher
 faliscan
 fantaseid
 forge
+fishify
 flaminica
 flaminical
 flamless
@@ -7603,7 +7604,6 @@ fainted
 forecourts
 fernwort
 forecover
-fishify
 fried
 flees
 fers
