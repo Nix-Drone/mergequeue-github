@@ -5222,6 +5222,7 @@ guestship
 glasswork
 guider
 glassworker
+grig
 glassworkers
 glassworm
 gawkier
@@ -8985,7 +8986,6 @@ grifters
 gluttonised
 grifting
 gunther
-grig
 gneissose
 griggles
 gradal
