@@ -8839,7 +8839,6 @@ acrogenic
 alloys
 alloisomer
 alloisomeric
-alloisomerism
 allokinetic
 allokurtic
 allolalia
@@ -19473,6 +19472,7 @@ atomistics
 argentan
 argentarii
 argentarius
+alloisomerism
 adjure
 argentation
 argenteous
