@@ -6252,7 +6252,6 @@ defeudalize
 dermatologic
 dermatological
 desexes
-dermatologies
 dermatologists
 dermatoma
 dermatome
@@ -8655,6 +8654,7 @@ diastataxy
 diastataxic
 diastatic
 diastem
+dermatologies
 diastema
 deadheading
 diastemata
