@@ -5425,7 +5425,6 @@ dentolabial
 dentolingual
 dentololabial
 dentonasal
-dielytra
 dentosurgical
 disrate
 dents
@@ -6688,6 +6687,7 @@ desilicated
 degummer
 desilicified
 desiliconization
+dielytra
 dribbed
 decollating
 dungbird
