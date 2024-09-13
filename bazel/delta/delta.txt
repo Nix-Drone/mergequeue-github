@@ -5082,7 +5082,6 @@ denaturalize
 denaturalized
 denaturant
 denaturants
-denaturate
 denaturational
 diver
 denature
@@ -5469,6 +5468,7 @@ denumeral
 denumerant
 denumerantive
 denumerative
+denaturate
 denunciable
 denunciant
 denunciate
