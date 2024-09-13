@@ -6589,7 +6589,6 @@ bequeath
 bequeathal
 bequeathed
 bequeather
-bequeathing
 brawled
 bequeaths
 bequest
@@ -12026,6 +12025,7 @@ boiloff
 boiloffs
 brackishness
 boilover
+bequeathing
 boils
 boing
 boyo
