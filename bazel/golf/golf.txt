@@ -2714,7 +2714,6 @@ generalships
 generalty
 generant
 greige
-generate
 generated
 generater
 gurdy
@@ -9316,6 +9315,7 @@ groom
 gallinula
 groomed
 groomers
+generate
 glossas
 garrotting
 gorges
