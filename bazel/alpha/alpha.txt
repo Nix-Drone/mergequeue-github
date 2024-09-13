@@ -21188,6 +21188,7 @@ ashtray
 ashtrays
 aspartic
 ashvamedha
+allheal
 ashweed
 ashwort
 asia
@@ -22719,7 +22720,6 @@ antapoplectic
 atmologist
 atmometry
 atmometric
-allheal
 atmos
 atmosphere
 atmosphereful
