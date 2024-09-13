@@ -1845,7 +1845,6 @@ boss
 bizardite
 bothroi
 banago
-blancmanger
 banagos
 buriable
 bound
@@ -3633,6 +3632,7 @@ bathysmal
 bomarea
 bathysophic
 bathysophical
+blancmanger
 bathysphere
 bathyspheres
 bathythermograph
