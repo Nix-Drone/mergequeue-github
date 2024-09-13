@@ -5094,6 +5094,7 @@ aerostats
 aerosteam
 aerotactic
 aerotaxis
+amninions
 argo
 aerotechnical
 aerotechnics
@@ -15543,7 +15544,6 @@ abitibi
 archisperm
 antimere
 antimeres
-amninions
 antimerger
 antimerging
 antimeric
