@@ -5021,6 +5021,7 @@ endexine
 endexines
 eardrum
 endgate
+ean
 enfief
 endhand
 endia
@@ -7790,7 +7791,6 @@ epidermoid
 epidermolysis
 exscriptural
 eogaean
-ean
 epidermophyton
 englify
 epidermophytosis
