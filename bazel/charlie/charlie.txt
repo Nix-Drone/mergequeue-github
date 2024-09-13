@@ -19658,7 +19658,6 @@ combativeness
 combats
 combattant
 combatter
-combatting
 combe
 comber
 combers
@@ -26821,6 +26820,7 @@ counterforce
 counterformula
 counterfort
 counterfugue
+combatting
 countergabble
 countergabion
 countergage
