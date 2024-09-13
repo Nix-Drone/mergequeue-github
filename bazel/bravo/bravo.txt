@@ -5235,6 +5235,7 @@ begarnish
 begartered
 begass
 begats
+bl
 bestrows
 begattal
 bastes
@@ -10033,7 +10034,6 @@ bkpt
 bocasine
 bks
 bkt
-bl
 blaasop
 blabbed
 blabbered
