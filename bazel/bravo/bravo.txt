@@ -6392,7 +6392,6 @@ benzamido
 benzamine
 benzaminic
 benzamino
-benzanalgen
 benzanilide
 benzanthracene
 bibs
@@ -16573,6 +16572,7 @@ buccheros
 bioacoustics
 buccin
 buccina
+benzanalgen
 biometry
 buccinatory
 buccinoid
