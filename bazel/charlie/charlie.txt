@@ -10256,7 +10256,6 @@ chiasmatypy
 chiasmi
 chiasmic
 chiasmodon
-chiasmodontid
 chiasmodontidae
 chiasms
 chiasmus
@@ -31830,6 +31829,7 @@ cutitis
 cutization
 cutlas
 cutlases
+chiasmodontid
 cutlash
 cutlasses
 cutlassfish
