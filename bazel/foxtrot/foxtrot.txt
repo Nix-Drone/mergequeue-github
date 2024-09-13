@@ -6195,6 +6195,7 @@ filicoid
 flrie
 flu
 fluate
+forelook
 fluavile
 father
 fieldmen
@@ -7791,7 +7792,6 @@ forelimbs
 foredevised
 forelive
 florilege
-forelook
 formants
 francisco
 foreloop
