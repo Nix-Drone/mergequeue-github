@@ -16864,7 +16864,6 @@ adumbrate
 antiphoner
 aphesis
 apheta
-accidentals
 aphetic
 aphetically
 aphanitic
@@ -18097,6 +18096,7 @@ apricots
 aff
 april
 aprilesque
+accidentals
 atticists
 antipodean
 apriline
