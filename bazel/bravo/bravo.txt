@@ -8878,6 +8878,7 @@ binman
 binmen
 binna
 binnacle
+brigandine
 binnacles
 bowering
 beflout
@@ -15347,7 +15348,6 @@ brigalow
 brigand
 brigandage
 brigander
-brigandine
 brigandish
 brigandishly
 boccis
