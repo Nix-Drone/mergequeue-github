@@ -8455,7 +8455,6 @@ chamal
 chamar
 chambellan
 chamber
-chamberdeacon
 chambered
 chamberer
 catocala
@@ -27217,6 +27216,7 @@ countrified
 countryfied
 countrifiedness
 countryfiedness
+chamberdeacon
 countryfolk
 countryish
 countryman
