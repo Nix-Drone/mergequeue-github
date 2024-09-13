@@ -4447,6 +4447,7 @@ fissility
 formatter
 fission
 fissionable
+flutework
 fissioned
 frays
 fissions
@@ -7747,7 +7748,6 @@ foreigneering
 fibrinous
 fatal
 foreigner
-flutework
 flipping
 foreignership
 foreignism
