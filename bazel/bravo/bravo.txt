@@ -3009,7 +3009,6 @@ brainsick
 barricados
 barrico
 barricoes
-barrier
 barriers
 barriguda
 barrigudos
@@ -15910,6 +15909,7 @@ bromo
 bromoacetone
 bromoaurate
 bromoaurates
+barrier
 bromoauric
 bromochloromethane
 bromocyanide
