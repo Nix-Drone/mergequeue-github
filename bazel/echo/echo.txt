@@ -5846,6 +5846,7 @@ engulfing
 episcopalian
 enhaemospore
 enhallow
+echo
 enhalo
 enhaloes
 explees
@@ -8755,7 +8756,6 @@ equips
 ethnolinguist
 equipt
 equiradial
-echo
 equiradical
 equirotal
 escopet
