@@ -1795,7 +1795,6 @@ eyeish
 eyelash
 enumerative
 eyelast
-eyelessness
 eyelet
 eyeleted
 experts
@@ -13293,6 +13292,7 @@ exposedness
 exposers
 exposes
 exposing
+eyelessness
 exposit
 expositing
 esthesiometry
