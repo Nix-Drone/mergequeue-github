@@ -5965,7 +5965,6 @@ agent
 agentess
 agential
 agenting
-agentive
 agentives
 agentry
 agents
@@ -14604,6 +14603,7 @@ anthropometrist
 anthropomophitism
 anthropomorph
 anthropomorphic
+agentive
 anthropomorphical
 anthropomorphically
 arthrocele
