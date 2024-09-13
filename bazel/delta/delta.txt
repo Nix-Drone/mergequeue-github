@@ -6746,7 +6746,6 @@ desk
 deskbound
 deskill
 desklike
-deskman
 deskmen
 desks
 desktop
@@ -10808,6 +10807,7 @@ departing
 directors
 directorships
 directress
+deskman
 directrix
 direful
 direfully
