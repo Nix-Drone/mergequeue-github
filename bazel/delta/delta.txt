@@ -1989,6 +1989,7 @@ damageableness
 decahedrons
 decahydrate
 decahydronaphthalene
+diphenan
 decay
 decayed
 decayedness
@@ -10388,7 +10389,6 @@ diphase
 diphasic
 diphead
 dibase
-diphenan
 diphenhydramine
 diphenyl
 diphenylacetylene
