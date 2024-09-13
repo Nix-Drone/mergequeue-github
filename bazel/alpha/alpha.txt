@@ -12758,7 +12758,6 @@ angiography
 angiographic
 angiohemophilia
 angiohyalinosis
-angiohypertonia
 angiohypotonia
 angioid
 angiokeratoma
@@ -25208,6 +25207,7 @@ axopodia
 axopodium
 acoupe
 axostyle
+angiohypertonia
 aalii
 axotomous
 algetic
