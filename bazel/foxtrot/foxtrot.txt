@@ -3597,6 +3597,7 @@ fineries
 flagmaking
 filcher
 faventine
+fdname
 filching
 filchingly
 file
@@ -4883,7 +4884,6 @@ feminacy
 frizzers
 flowerful
 fatherhood
-fdname
 flamboyantize
 flamboyantly
 flamboyer
