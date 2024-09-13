@@ -1690,7 +1690,6 @@ fc
 fchar
 fipenny
 fcomp
-farcin
 fcp
 foehns
 familiar
@@ -9906,6 +9905,7 @@ freesp
 freshwoman
 facework
 fresnel
+farcin
 foretimes
 fraudless
 fresno
