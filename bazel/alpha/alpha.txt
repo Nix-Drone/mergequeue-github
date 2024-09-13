@@ -12816,7 +12816,6 @@ angiospermal
 angiospermic
 angiospermous
 angiosperms
-angiosporous
 angiostegnosis
 angiostenosis
 angiostomy
@@ -17372,6 +17371,7 @@ apophorometer
 apophthegmatic
 apophthegmatical
 apoplastogamous
+angiosporous
 apoplectical
 apoplectically
 apoplectoid
