@@ -8855,7 +8855,6 @@ averager
 allometry
 autolavage
 allomorph
-allomorphic
 aerobiologic
 allomorphism
 allomorphite
@@ -16231,6 +16230,7 @@ antisine
 alcedines
 antisynod
 antisyphilitic
+allomorphic
 antisiphon
 antisiphonal
 allocations
