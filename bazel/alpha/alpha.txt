@@ -5425,6 +5425,7 @@ affranchisement
 affrap
 anopsy
 affreight
+aplobasalt
 affreighter
 affreightment
 affret
@@ -17090,7 +17091,6 @@ aplysia
 aplite
 aplites
 aplitic
-aplobasalt
 aplodiorite
 aplodontia
 aplodontiidae
