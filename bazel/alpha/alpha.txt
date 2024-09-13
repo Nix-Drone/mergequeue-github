@@ -2113,7 +2113,6 @@ acetone
 acetonemia
 acetonemic
 acetonic
-acetonyl
 acetonylacetone
 acetonylidene
 acetonitrile
@@ -5296,6 +5295,7 @@ affiches
 affidare
 affidation
 affidavy
+acetonyl
 affidavit
 aviso
 affied
