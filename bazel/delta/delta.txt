@@ -5425,7 +5425,6 @@ dentolabial
 dentolingual
 dentololabial
 dentonasal
-dielytra
 dentosurgical
 disrate
 dents
@@ -11218,6 +11217,7 @@ disburdenment
 disburdens
 disburgeon
 disbury
+dielytra
 disbursals
 disburse
 disbursements
