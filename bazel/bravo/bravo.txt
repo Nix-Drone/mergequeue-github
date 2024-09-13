@@ -9073,7 +9073,6 @@ begrims
 biomedicine
 biomes
 biometeorology
-biometric
 biometrical
 bicentennially
 biometrically
@@ -18236,6 +18235,7 @@ breek
 butterbump
 butterbur
 butterbush
+biometric
 buttercup
 buttercups
 buttered
