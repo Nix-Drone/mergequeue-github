@@ -4077,7 +4077,6 @@ cardioplegia
 cardiopneumatic
 cardiopneumograph
 cardioptosis
-cardiopulmonary
 cardiorenal
 cardiorespiratory
 cardiorrhaphy
@@ -23212,6 +23211,7 @@ cadaverousness
 consubsistency
 consubstantial
 consubstantialism
+cardiopulmonary
 consubstantialist
 conformism
 consubstantiality
