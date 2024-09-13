@@ -8372,7 +8372,6 @@ epitheliomuscular
 epitheliosis
 enaliosaur
 epitheliotoxin
-epithelium
 epitheliums
 epithelization
 epidictic
@@ -12676,6 +12675,7 @@ exogamic
 exogamous
 exogastrically
 exogastritis
+epithelium
 exogen
 exogenae
 ekaha
