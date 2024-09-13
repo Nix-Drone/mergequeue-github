@@ -2653,7 +2653,6 @@ barebacked
 bloodlike
 barytas
 barite
-baryte
 baritenor
 barytes
 barythymia
@@ -10959,6 +10958,7 @@ bloat
 backstrokes
 bloated
 benefactorship
+baryte
 bloatedness
 bloater
 bloaters
