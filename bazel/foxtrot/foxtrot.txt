@@ -3919,7 +3919,6 @@ finchery
 finches
 find
 finalizes
-findable
 flabellinerved
 findhorn
 finding
@@ -8810,6 +8809,7 @@ forwear
 february
 forwearied
 forwearying
+findable
 fulmine
 fribbled
 forweend
