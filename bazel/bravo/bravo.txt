@@ -6026,6 +6026,7 @@ bemangle
 bemantle
 bemar
 bemask
+byword
 blephillia
 bemaster
 bemat
@@ -9991,7 +9992,6 @@ biwinter
 bywoner
 bronchioles
 blackfisher
-byword
 byworks
 bixaceae
 bixaceous
