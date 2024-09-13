@@ -7144,7 +7144,6 @@ footboys
 footbreadth
 footbridge
 frustulum
-footcandle
 footcloths
 finedraw
 facer
@@ -7413,6 +7412,7 @@ formalised
 forcarve
 forcat
 force
+footcandle
 fasciculus
 finback
 fumagine
