@@ -6089,7 +6089,6 @@ enmities
 enmoss
 enmove
 enmuffle
-enneacontahedron
 ennead
 enhaloing
 enneadic
@@ -11384,6 +11383,7 @@ encephalomeric
 eve
 evea
 eveck
+enneacontahedron
 eelbob
 enforcers
 enhancer
