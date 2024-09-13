@@ -3422,7 +3422,6 @@ captation
 caption
 captioned
 captioning
-captionless
 captions
 captious
 childridden
@@ -17814,6 +17813,7 @@ codirect
 codirecting
 codirector
 commonish
+captionless
 codirects
 codiscoverer
 codisjunct
