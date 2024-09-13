@@ -638,7 +638,6 @@ bacterioblast
 bacteriochlorophyll
 bacteriocin
 bishopbird
-bacteriodiagnosis
 bacteriofluorescin
 bromates
 bacteriogenic
@@ -7138,6 +7137,7 @@ blackstrap
 bushing
 backs
 bespeakable
+bacteriodiagnosis
 bespeaking
 bespeaks
 bouzouki
