@@ -3363,6 +3363,7 @@ fiefs
 forfeitable
 fiel
 fieldball
+folkmoots
 fieldbird
 fielden
 fielder
@@ -6920,7 +6921,6 @@ folkmoot
 flatmate
 flotas
 foreignization
-folkmoots
 fauchard
 folkmoter
 formuliser
