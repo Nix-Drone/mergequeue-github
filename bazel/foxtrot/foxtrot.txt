@@ -4146,6 +4146,7 @@ firebombing
 frostlike
 faithwise
 firebombs
+formatter
 forestery
 fireboot
 firebox
@@ -4444,7 +4445,6 @@ fissile
 fissilinguia
 formatting
 fissility
-formatter
 fission
 fissionable
 fissioned
