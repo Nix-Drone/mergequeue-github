@@ -5429,7 +5429,6 @@ endromididae
 endrudge
 eltime
 expendable
-endseal
 endshake
 endsheet
 everglade
@@ -9527,6 +9526,7 @@ escargots
 escarole
 escaroles
 entoplastral
+endseal
 enduringness
 escarp
 escarping
