@@ -2329,7 +2329,6 @@ epicenity
 electrobrasser
 epistroma
 electrobus
-electrocapillary
 electrocapillarity
 electrocardiogram
 electrocardiograms
@@ -7879,6 +7878,7 @@ epigones
 epigoni
 epigonic
 egriot
+electrocapillary
 epigonichthyidae
 epigonism
 euconjugatae
