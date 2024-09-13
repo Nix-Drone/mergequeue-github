@@ -379,7 +379,6 @@ fideicommissor
 fainter
 finspot
 faintheart
-fainthearted
 faintheartedly
 faintheartedness
 fainty
@@ -1710,6 +1709,7 @@ fleying
 flocks
 footcandles
 frowny
+fainthearted
 feal
 fealty
 fumigates
