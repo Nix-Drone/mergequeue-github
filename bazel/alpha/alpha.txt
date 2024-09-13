@@ -8458,7 +8458,6 @@ alkanal
 alkanes
 alkanet
 accurateness
-alkanethiol
 alkanets
 alkanna
 alkannin
@@ -20917,6 +20916,7 @@ ascendance
 ascendancy
 ascendant
 ascendantly
+alkanethiol
 ascendants
 ascendence
 ascendency
