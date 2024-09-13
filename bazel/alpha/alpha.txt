@@ -5582,6 +5582,7 @@ aftercast
 aftercataract
 adversive
 afterchance
+alerts
 afterchurch
 afterclap
 afterclause
@@ -7887,7 +7888,6 @@ agrees
 alerting
 alertly
 alertness
-alerts
 ales
 alesan
 aletap
