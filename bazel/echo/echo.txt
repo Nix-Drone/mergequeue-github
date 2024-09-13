@@ -3692,7 +3692,6 @@ embryons
 embryopathology
 embryophagous
 embryophyta
-embryophyte
 embryophore
 embryoplastic
 etiolation
@@ -6337,6 +6336,7 @@ envenomation
 enchalice
 enscrolls
 expediate
+embryophyte
 ensculpture
 ense
 enseal
