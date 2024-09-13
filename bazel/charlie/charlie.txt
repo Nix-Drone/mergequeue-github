@@ -6884,6 +6884,7 @@ cemental
 cementation
 coaugment
 chapeaux
+chincapin
 cementatory
 cemented
 cementer
@@ -9322,7 +9323,6 @@ chyme
 chatterbox
 chatterboxes
 chattered
-chincapin
 chatterers
 chattererz
 chattery
