@@ -10739,7 +10739,6 @@ eudendrium
 eudesmol
 eudeve
 eudiagnostic
-eudiometer
 eudiometry
 eudiometric
 eudiometrical
@@ -11685,6 +11684,7 @@ exacerbates
 enhances
 exacerbating
 exacerbatingly
+eudiometer
 exacerbescence
 exacervation
 exact
