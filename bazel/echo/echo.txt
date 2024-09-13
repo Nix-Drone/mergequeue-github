@@ -4046,7 +4046,6 @@ empaper
 emparchment
 emparl
 empasma
-everbloomer
 empassion
 embarrassingly
 empathetic
@@ -5308,6 +5307,7 @@ endoskeletons
 endosmic
 endosmometric
 eyr
+everbloomer
 evaders
 erasions
 electroplax
