@@ -3485,7 +3485,6 @@ bastille
 bastilles
 biggah
 bastiment
-bastinaded
 bastinades
 baroi
 berend
@@ -12204,6 +12203,7 @@ bolsons
 bolstered
 bolsterer
 bolsterers
+bastinaded
 bolsters
 bunters
 brake
