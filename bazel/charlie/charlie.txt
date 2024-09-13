@@ -9889,7 +9889,6 @@ cols
 chemoautotrophy
 chastizer
 chemoautotrophic
-chemoautotrophically
 chemoceptor
 chemokinesis
 chemokinetic
@@ -21266,6 +21265,7 @@ concessiveness
 concessor
 concessory
 concetti
+chemoautotrophically
 concettism
 conch
 concha
