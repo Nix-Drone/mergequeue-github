@@ -6719,7 +6719,6 @@ enterotomy
 enterotoxemia
 enterotoxication
 essence
-enterotoxin
 enteroviral
 enterozoon
 emplastra
@@ -13179,6 +13178,7 @@ explicably
 explicanda
 explicate
 eaglewood
+enterotoxin
 explicated
 exuvium
 explicates
