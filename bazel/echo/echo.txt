@@ -7571,7 +7571,6 @@ euskera
 epibatus
 essayish
 epibenthic
-epibenthos
 epibiotic
 epiblast
 epiblastic
@@ -13879,6 +13878,7 @@ excludable
 extramoral
 emprise
 enflagellate
+epibenthos
 extramundane
 expatriation
 extramurally
