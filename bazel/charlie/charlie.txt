@@ -2118,6 +2118,7 @@ campsheeting
 campsite
 compasser
 campsites
+corsy
 campstool
 campstools
 camptodrome
@@ -25852,7 +25853,6 @@ corseting
 corsetry
 corsets
 contra
-corsy
 corsican
 circumscribes
 corsie
