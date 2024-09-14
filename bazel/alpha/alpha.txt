@@ -5439,7 +5439,6 @@ airlight
 affricates
 affrication
 affriended
-affright
 affrighted
 affrightedly
 acarpellous
@@ -7550,6 +7549,7 @@ alcayde
 alcaydes
 alcalde
 alcaldes
+affright
 alcaldeship
 alcaldia
 alcali
