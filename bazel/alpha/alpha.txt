@@ -5671,7 +5671,6 @@ afterplanting
 afterpotential
 autolysis
 afterpressure
-afterproof
 afterrake
 afterreckoning
 auxofluor
@@ -22332,6 +22331,7 @@ astrophotographic
 astrophotometer
 astrophotometry
 astrophotometrical
+afterproof
 astroscopy
 autocratorical
 astroscopus
