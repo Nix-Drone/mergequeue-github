@@ -4788,6 +4788,7 @@ enclosed
 elem
 enclosers
 enclosing
+eryopsid
 efik
 enclosures
 excentral
@@ -9092,7 +9093,6 @@ eriophyid
 eriophyidae
 eriophyllous
 eryopid
-eryopsid
 erythromycin
 ephemera
 eriphyle
