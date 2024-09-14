@@ -6099,7 +6099,6 @@ flotages
 favorability
 foregoes
 flote
-fustin
 fragor
 felspar
 furnisher
@@ -6110,6 +6109,7 @@ film
 forewish
 fleecelike
 freebies
+fustin
 flotsen
 flotson
 flotten
