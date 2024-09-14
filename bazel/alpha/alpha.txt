@@ -6929,7 +6929,6 @@ airometer
 airpark
 airphobia
 airplay
-airplane
 airplaned
 airplaner
 airplanes
@@ -23364,6 +23363,7 @@ aufait
 aufgabe
 auftakt
 aug
+airplane
 auganite
 augend
 adders
