@@ -596,6 +596,7 @@ galleys
 gamodemes
 galleyworm
 geneat
+groundout
 galleon
 galleons
 galler
@@ -9451,7 +9452,6 @@ groundneedle
 groundnut
 gentleship
 gyrolite
-groundout
 grounds
 gros
 ghegish
