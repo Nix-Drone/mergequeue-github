@@ -17736,7 +17736,6 @@ coddles
 code
 codebooks
 codebreaker
-codebtor
 codebtors
 codec
 codeclination
@@ -31471,6 +31470,7 @@ cleridae
 curryfavour
 curriing
 currying
+codebtor
 currijong
 curring
 currishly
