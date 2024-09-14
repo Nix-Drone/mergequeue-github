@@ -15325,7 +15325,6 @@ clamber
 clamberer
 colfox
 cassique
-chaining
 clambering
 clambers
 clamcracker
@@ -24569,6 +24568,7 @@ copies
 copyfitter
 comvia
 copyfitting
+chaining
 copygraph
 copygraphed
 copyhold
