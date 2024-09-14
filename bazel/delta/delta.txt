@@ -7037,7 +7037,6 @@ destroyer
 destroyers
 destroying
 diagnostic
-destruct
 destructibility
 diluvian
 destructible
@@ -18490,6 +18489,7 @@ desulfurization
 durgan
 durham
 durian
+destruct
 durians
 duricrust
 duridine
