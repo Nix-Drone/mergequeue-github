@@ -8821,7 +8821,6 @@ chapelmaster
 chapelry
 colorate
 chapelries
-chapels
 cardiologies
 chapelward
 chaperno
@@ -16454,6 +16453,7 @@ constrainer
 cloakmaking
 cloakroom
 cloakrooms
+chapels
 caterwaul
 cloakwise
 cloam
