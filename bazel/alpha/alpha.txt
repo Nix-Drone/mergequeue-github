@@ -13656,7 +13656,6 @@ annulus
 annuluses
 aerotow
 annum
-annumerate
 annunciable
 annunciade
 annunciate
@@ -23535,6 +23534,7 @@ aurene
 aureocasidium
 aureola
 aureolae
+annumerate
 aureolas
 aureole
 aureoled
