@@ -121,6 +121,7 @@ facilitations
 facilitative
 fromfile
 facility
+favoredness
 facilities
 facings
 francophile
@@ -457,7 +458,6 @@ formyl
 flacourtiaceous
 faithfully
 faithfulness
-favoredness
 federates
 fraik
 faithless
