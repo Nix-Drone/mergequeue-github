@@ -5975,6 +5975,7 @@ gloveless
 grain
 glovemaker
 gametes
+gorbelly
 gloveman
 glover
 gloves
@@ -7137,7 +7138,6 @@ gorals
 goran
 gorb
 gorbal
-gorbelly
 grasserie
 gorbellied
 gorbellies
