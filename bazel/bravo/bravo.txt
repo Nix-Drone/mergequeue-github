@@ -766,7 +766,6 @@ badgemen
 badger
 badgerbrush
 badgered
-badgerer
 badgering
 blundersome
 boltant
@@ -6546,6 +6545,7 @@ byrlawmen
 bepen
 bepepper
 beperiwigged
+badgerer
 bepewed
 bephilter
 bephrase
