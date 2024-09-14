@@ -4034,7 +4034,6 @@ adjutancies
 adjutant
 adjutants
 adjutantship
-anesthetic
 adjutator
 adjute
 adjutor
@@ -13025,6 +13024,7 @@ anhedron
 anhelation
 anhele
 anhelose
+anesthetic
 anhelous
 anhematopoiesis
 anhemitonic
