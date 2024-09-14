@@ -634,7 +634,6 @@ graptolitic
 greyhound
 gallicism
 gushingness
-gallicisms
 gallicization
 glottises
 glutch
@@ -7318,6 +7317,7 @@ gossipdom
 gossiped
 gossipee
 gossiper
+gallicisms
 gossipers
 gossiphood
 gatehouses
