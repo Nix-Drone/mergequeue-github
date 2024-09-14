@@ -200,7 +200,6 @@ factoress
 flateria
 factory
 factorial
-factorially
 frizer
 factorials
 foilsman
@@ -6304,6 +6303,7 @@ followup
 fluidizer
 fingerflower
 fluidizes
+factorially
 fluidmeter
 faulted
 fluidness
