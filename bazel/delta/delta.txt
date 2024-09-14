@@ -5795,7 +5795,6 @@ depolarization
 depolarize
 depolarizers
 droves
-depolarizes
 debater
 depolymerization
 depolymerize
@@ -12226,6 +12225,7 @@ disgross
 disgruntled
 disgruntlement
 discuss
+depolarizes
 dextrotropic
 disguisay
 disguisal
