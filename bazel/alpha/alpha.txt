@@ -3811,7 +3811,6 @@ adhesion
 adhesional
 adhesive
 adhesively
-adhesiveness
 adhesives
 adhibit
 adhibited
@@ -12527,6 +12526,7 @@ anemosis
 anemotaxis
 anemotropism
 anencephaly
+adhesiveness
 anencephalic
 apochromat
 anencephalous
