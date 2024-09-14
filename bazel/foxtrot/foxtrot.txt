@@ -1428,7 +1428,6 @@ fullerboard
 fazendas
 frits
 fatigating
-fatigation
 fatiguability
 filicoids
 futtock
@@ -2636,6 +2635,7 @@ ferrometer
 ferronatrite
 ferronickel
 ferrophosphorus
+fatigation
 filicologist
 frustulose
 ferrotype
