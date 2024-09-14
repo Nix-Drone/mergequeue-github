@@ -7540,7 +7540,6 @@ forebody
 forebodies
 foreboding
 forebodingness
-foreboom
 forebowels
 forebowline
 farceur
@@ -11589,6 +11588,7 @@ fusiladed
 fusilades
 flavedos
 fusilading
+foreboom
 fusile
 fusileer
 fatalistic
