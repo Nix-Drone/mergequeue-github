@@ -24203,7 +24203,6 @@ convoy
 convoyed
 convoying
 convoys
-convoke
 convoked
 convoker
 convokers
@@ -27892,6 +27891,7 @@ cradles
 cradleside
 cradlesong
 cradlesongs
+convoke
 cradling
 crafted
 crafty
