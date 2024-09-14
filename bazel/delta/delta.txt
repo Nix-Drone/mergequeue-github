@@ -6303,7 +6303,6 @@ degausses
 dermatoskeleton
 dermatotherapy
 depurated
-dermatotome
 dermatotomy
 dermatozoon
 desalinates
@@ -16758,6 +16757,7 @@ downline
 drapes
 drapet
 draping
+dermatotome
 drapping
 decapods
 drawhorse
