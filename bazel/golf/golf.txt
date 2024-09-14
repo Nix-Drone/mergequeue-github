@@ -518,7 +518,6 @@ galerum
 galerus
 gales
 galesaur
-galesaurus
 galet
 garrya
 galeus
@@ -964,6 +963,7 @@ goracco
 gamelin
 gamelion
 grakle
+galesaurus
 gamelotte
 gazi
 gameness
