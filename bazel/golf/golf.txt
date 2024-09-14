@@ -5370,7 +5370,6 @@ glomerulus
 glenohumeral
 glenoid
 goateed
-glenoidal
 glent
 gedrite
 glenwood
@@ -6147,6 +6146,7 @@ glut
 glutamate
 geodesics
 glutamates
+glenoidal
 glutamic
 glutaminase
 gallegan
