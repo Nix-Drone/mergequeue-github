@@ -5952,7 +5952,6 @@ floorshifts
 floorshow
 floorway
 fluidrachm
-floorward
 furniment
 forgivingly
 floorwise
@@ -10364,6 +10363,7 @@ fimbrilla
 from
 funiculate
 foister
+floorward
 fossarian
 folkmot
 fromages
