@@ -4187,6 +4187,7 @@ firefall
 firefang
 firefanged
 firefangs
+frequentable
 firefighter
 firefighting
 foreship
@@ -9862,7 +9863,6 @@ frequency
 frequencies
 fuzee
 frequent
-frequentable
 forced
 factored
 frequentage
