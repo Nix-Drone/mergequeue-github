@@ -3603,6 +3603,7 @@ disguise
 definition
 degass
 degassed
+dupers
 degassing
 degauss
 degaussing
@@ -13641,7 +13642,6 @@ dyssnite
 dissociability
 dissociable
 dissociably
-dupers
 dissocial
 dissociality
 dissociant
