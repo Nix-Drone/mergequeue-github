@@ -29991,6 +29991,7 @@ crouch
 crouchant
 crouchback
 crouche
+ctetology
 crouched
 croucher
 crouches
@@ -30407,7 +30408,6 @@ codesigning
 ctenophoric
 ctenoplana
 ctenostomata
-ctetology
 conidiiferous
 ctg
 ctge
