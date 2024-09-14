@@ -920,7 +920,6 @@ fee
 flavor
 fantom
 fanums
-fanweed
 fanwise
 fanwork
 forefront
@@ -8667,6 +8666,7 @@ flanchard
 fortescue
 fortescure
 forth
+fanweed
 forthby
 freeze
 forthbring
