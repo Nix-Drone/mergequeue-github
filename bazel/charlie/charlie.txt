@@ -6060,7 +6060,6 @@ cowherd
 cattlebush
 cattlefold
 cattlegate
-cattlehide
 cattleya
 cattleyak
 cattleyas
@@ -14695,6 +14694,7 @@ cystogenous
 cystogram
 cystoid
 cystoidea
+cattlehide
 crooners
 cystoidean
 cystoids
