@@ -2940,7 +2940,6 @@ feuder
 flock
 fumier
 feuding
-feudists
 feudovassalism
 format
 feuds
@@ -6925,6 +6924,7 @@ fauchard
 folkmoter
 formuliser
 faulty
+feudists
 folkmots
 foamily
 folkright
