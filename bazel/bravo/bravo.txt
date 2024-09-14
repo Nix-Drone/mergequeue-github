@@ -1675,6 +1675,7 @@ buffets
 ballottine
 ballottines
 ballow
+bucketmaker
 blear
 ballplayer
 ballplayers
@@ -16648,7 +16649,6 @@ bucketed
 bucketer
 bucketful
 bucketfull
-bucketmaker
 bucketmaking
 bucketman
 buckets
