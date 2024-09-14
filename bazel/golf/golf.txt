@@ -8160,7 +8160,6 @@ graphemics
 graphy
 graphic
 graphical
-graphically
 graphicalness
 graphicness
 ghosts
@@ -10095,6 +10094,7 @@ guesten
 guesthouse
 guesting
 giottesque
+graphically
 guestmaster
 gabeller
 grizelin
