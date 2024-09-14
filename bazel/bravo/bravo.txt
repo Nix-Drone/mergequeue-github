@@ -767,7 +767,6 @@ badger
 badgerbrush
 badgered
 badgerer
-badgering
 blundersome
 boltant
 booking
@@ -10041,6 +10040,7 @@ blabberer
 bird
 blabbering
 blabbermouth
+badgering
 blabbermouths
 blabbers
 blabbing
