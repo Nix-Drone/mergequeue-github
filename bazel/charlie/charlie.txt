@@ -7079,6 +7079,7 @@ centiday
 centifolious
 centigrade
 centigrado
+corticosterone
 centigram
 centigramme
 centigrams
@@ -25896,7 +25897,6 @@ correlate
 corticopeduncular
 corticose
 corticosteroids
-corticosterone
 corticostriate
 clandestinity
 corticotrophin
