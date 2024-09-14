@@ -6411,7 +6411,6 @@ ensignhood
 ensilaged
 ensilages
 episcopal
-ensilate
 ensilation
 ensile
 ensiled
@@ -9013,6 +9012,7 @@ extrastate
 ergotism
 ergotisms
 ergotist
+ensilate
 endosiphonate
 ergotize
 ergotized
