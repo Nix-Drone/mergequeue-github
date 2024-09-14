@@ -4185,7 +4185,6 @@ footnotes
 firedrake
 firefall
 firefang
-firefanged
 firefangs
 firefighter
 firefighting
@@ -9415,6 +9414,7 @@ francize
 fallalishly
 franco
 francois
+firefanged
 francolin
 fontainea
 francolite
