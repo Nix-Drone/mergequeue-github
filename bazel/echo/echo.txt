@@ -3825,7 +3825,6 @@ enscale
 emer
 emerald
 emeraldine
-emeralds
 edged
 emeras
 emerged
@@ -12456,6 +12455,7 @@ exhaustivity
 exhaustless
 exhaustlessly
 echites
+emeralds
 exhausts
 exhbn
 essencing
