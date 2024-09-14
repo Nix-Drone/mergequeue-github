@@ -6835,7 +6835,6 @@ aircraft
 aircraftman
 axometer
 aircraftmen
-aircraftsman
 aircraftsmen
 aircraftswoman
 aircraftwoman
@@ -22905,6 +22904,7 @@ atrophying
 atrophoderma
 atrophous
 armoury
+aircraftsman
 atropia
 apiary
 atropic
