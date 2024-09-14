@@ -4968,7 +4968,6 @@ glacialize
 glaciaria
 graphemes
 glaciarium
-glaciated
 glaciates
 glaciation
 glaciered
@@ -9842,6 +9841,7 @@ groundable
 guanidine
 guanidins
 gasholder
+glaciated
 guaniferous
 goliardery
 guanyl
