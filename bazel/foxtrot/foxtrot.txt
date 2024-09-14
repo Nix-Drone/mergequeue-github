@@ -202,7 +202,6 @@ factory
 factorial
 factorially
 frizer
-factorials
 foilsman
 factories
 factoring
@@ -3442,6 +3441,7 @@ fifteenths
 fifthly
 forche
 flukeless
+factorials
 fabricate
 fifty
 fantastic
