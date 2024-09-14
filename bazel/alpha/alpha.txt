@@ -10537,7 +10537,6 @@ amylometer
 amylopectin
 amylophagia
 amylophosphate
-amylophosphoric
 amyloplast
 amyloplastic
 amyloplastid
@@ -20335,6 +20334,7 @@ arrouse
 arrow
 arrowbush
 arrowhead
+amylophosphoric
 arrowheaded
 arrowheads
 arrowy
