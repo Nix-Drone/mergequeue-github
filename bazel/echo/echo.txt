@@ -4632,7 +4632,6 @@ enchantery
 enchanters
 enchanting
 enchantingly
-enchantment
 enchantments
 enchantress
 enchants
@@ -9096,6 +9095,7 @@ eryopsid
 erythromycin
 ephemera
 eriphyle
+enchantment
 eris
 europhium
 erysimum
