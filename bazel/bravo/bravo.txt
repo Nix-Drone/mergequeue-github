@@ -3771,7 +3771,6 @@ battening
 battens
 batter
 bread
-batterable
 battercake
 batterdock
 battered
@@ -4088,6 +4087,7 @@ bellite
 beakermen
 beakers
 beakful
+batterable
 bisubstituted
 beakhead
 beaky
