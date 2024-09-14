@@ -16640,7 +16640,6 @@ coachwork
 clorargyrite
 clorinator
 clos
-closable
 close
 closecross
 closed
@@ -27698,6 +27697,7 @@ coxcombical
 coxcombically
 coxcombity
 coxcombries
+closable
 coxcomical
 coxcomically
 coxed
