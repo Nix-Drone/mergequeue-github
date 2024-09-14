@@ -4558,7 +4558,6 @@ encephalartos
 encephalasthenia
 encyclical
 encephalic
-encephalin
 encephalitic
 exocolitis
 emprosthotonus
@@ -6783,6 +6782,7 @@ enthronements
 essede
 enthronised
 enthronization
+encephalin
 enthronize
 etymologising
 endostracal
