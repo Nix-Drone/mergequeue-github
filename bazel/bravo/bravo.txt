@@ -3961,6 +3961,7 @@ barrow
 bawrel
 badling
 bawsint
+bock
 bawsunt
 bawtie
 bawties
@@ -11734,7 +11735,6 @@ bocher
 boches
 beewort
 bochism
-bock
 bockey
 bocoy
 bod
