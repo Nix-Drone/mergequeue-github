@@ -111,7 +111,6 @@ earring
 earringed
 earrings
 ears
-earscrew
 earsh
 endoskeletal
 earshot
@@ -2940,6 +2939,7 @@ electrooptics
 elicitation
 elicitor
 elicitory
+earscrew
 elicitors
 elicits
 expensefulness
