@@ -8382,7 +8382,6 @@ chalklike
 chalkline
 chalkone
 chalkos
-chalkosideric
 chalkotheke
 chalkpit
 chalkrail
@@ -20993,6 +20992,7 @@ computable
 computably
 craniopuncture
 computate
+chalkosideric
 counterdash
 computational
 computationally
