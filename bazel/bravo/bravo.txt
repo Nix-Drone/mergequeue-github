@@ -949,7 +949,6 @@ biophysiological
 bagpiper
 bagpipers
 bagpipes
-bagpiping
 bagplant
 boscage
 bagpudding
@@ -14612,6 +14611,7 @@ brassica
 brassicaceae
 brassicaceous
 brassicas
+bagpiping
 brassidic
 blighter
 backworm
