@@ -2114,6 +2114,7 @@ banknote
 barrelet
 badaud
 banknotes
+bepuzzle
 bankrider
 brachycome
 bedlamising
@@ -6582,7 +6583,6 @@ bedirt
 bepuff
 bepuffed
 brontephobia
-bepuzzle
 bepuzzlement
 bequalm
 bequeath
