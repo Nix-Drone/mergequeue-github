@@ -1466,7 +1466,6 @@ baler
 bales
 boun
 balestra
-balete
 bali
 balian
 bucare
@@ -18386,6 +18385,7 @@ buzzgloak
 buzzier
 buzzies
 buzziest
+balete
 buzzing
 buzzingly
 baffler
