@@ -1860,7 +1860,6 @@ gastroparietal
 gastropathy
 gastropathic
 gurjan
-gastroperiodynia
 gu
 goodman
 gastropyloric
@@ -10347,6 +10346,7 @@ gullery
 gullet
 gulleting
 gullets
+gastroperiodynia
 gigantical
 gully
 graveless
