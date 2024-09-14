@@ -4855,7 +4855,6 @@ bolivars
 bedstand
 bedstead
 brazenface
-baikerinite
 beshrouded
 bedstraw
 bedstraws
@@ -10889,6 +10888,7 @@ bleaberry
 blippers
 barkeep
 blips
+baikerinite
 blirt
 bliss
 branchiostegous
