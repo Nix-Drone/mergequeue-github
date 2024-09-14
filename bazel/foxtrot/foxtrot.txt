@@ -6286,6 +6286,7 @@ forint
 footstool
 fissicostate
 fecit
+fermental
 fluidified
 fluidifier
 fluidimeter
@@ -8228,7 +8229,6 @@ forgeability
 forgeable
 forged
 foreturn
-fermental
 forgery
 forgeries
 forges
