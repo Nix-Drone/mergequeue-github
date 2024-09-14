@@ -12212,6 +12212,7 @@ boltcutter
 buckstay
 bolted
 bowenite
+brauronian
 bolter
 bolters
 boltheader
@@ -14658,7 +14659,6 @@ braunites
 braunschweiger
 brauronia
 badon
-brauronian
 brava
 bravade
 bravado
