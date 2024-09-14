@@ -9385,6 +9385,7 @@ diffusor
 diffusors
 difluence
 disubstitution
+downcast
 difluoride
 dipaschal
 diformin
@@ -16250,7 +16251,6 @@ downbent
 dalradian
 downby
 downbye
-downcast
 downcastness
 delenda
 downcome
