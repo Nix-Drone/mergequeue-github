@@ -10032,6 +10032,7 @@ backsey
 bkpt
 bocasine
 bks
+bomos
 bkt
 bl
 blaasop
@@ -12335,7 +12336,6 @@ bombsights
 belgard
 bombus
 bomi
-bomos
 bonace
 bonacis
 bonagh
