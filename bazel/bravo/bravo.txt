@@ -2668,7 +2668,6 @@ barytone
 baritones
 barytones
 byres
-bedaff
 barytons
 barytophyllite
 barytosulphate
@@ -4576,6 +4575,7 @@ becrowded
 buttering
 becrown
 bearhide
+bedaff
 becrush
 buffering
 becrust
