@@ -5911,7 +5911,6 @@ bellweather
 blinkard
 bellweed
 bellwether
-bellwind
 bellwine
 bellwood
 bellwort
@@ -15146,6 +15145,7 @@ bribability
 bribable
 bribe
 bribeability
+bellwind
 bulblet
 bribeable
 bribed
