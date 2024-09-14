@@ -3216,7 +3216,6 @@ diplomacy
 departmentalizing
 defection
 defectious
-dribbled
 defectively
 defectiveness
 defectless
@@ -10394,6 +10393,7 @@ diphenyl
 diphenylacetylene
 diphenylamine
 diphenylaminechlorarsine
+dribbled
 diphenylchloroarsine
 diphenylene
 diphenylenimide
