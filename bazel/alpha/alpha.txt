@@ -1660,7 +1660,6 @@ accordances
 accordancy
 accordatura
 amphiphloic
-accordaturas
 accordature
 accorded
 accorder
@@ -8600,6 +8599,7 @@ allegresse
 allegrettos
 allegro
 alley
+accordaturas
 alleyite
 alleys
 alleyway
