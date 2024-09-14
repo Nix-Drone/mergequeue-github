@@ -3668,7 +3668,6 @@ gharries
 gentlewomanly
 gigas
 ghassanid
-ghast
 ghastfully
 ghastfulness
 gingersnap
@@ -6277,6 +6276,7 @@ gladdy
 gnatlike
 gnatproof
 glyptographic
+ghast
 gnats
 gnatsnap
 gonococcoid

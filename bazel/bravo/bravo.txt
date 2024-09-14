@@ -2998,7 +2998,6 @@ barricade
 barricaded
 baryes
 brei
-barrette
 barricader
 barricaders
 barricades
@@ -11397,6 +11396,7 @@ bulbul
 bluetongue
 bedmates
 bluetop
+barrette
 bluetops
 bluets
 blueweed
