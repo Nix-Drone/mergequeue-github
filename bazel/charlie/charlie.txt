@@ -3595,6 +3595,7 @@ couloirs
 carapaces
 carapacho
 carapacic
+crioceras
 carapax
 carapaxes
 coachable
@@ -29107,7 +29108,6 @@ criobolium
 cryocautery
 caldarium
 criocephalus
-crioceras
 circulate
 crioceratite
 crioceratitic
