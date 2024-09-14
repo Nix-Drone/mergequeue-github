@@ -1814,7 +1814,6 @@ electric
 eyeopener
 eyepiece
 eyepit
-eyepoint
 eyereach
 eyeroot
 electromobilism
@@ -5403,6 +5402,7 @@ endotoxin
 endotracheal
 endotrophic
 endotropic
+eyepoint
 endoubt
 endoute
 endovaccination
