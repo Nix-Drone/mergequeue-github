@@ -3962,7 +3962,6 @@ bawrel
 badling
 bawsint
 bawsunt
-bawtie
 bawties
 baxter
 baxterian
@@ -13832,6 +13831,7 @@ brokenhearted
 bowstave
 bowstring
 bowstringed
+bawtie
 bowstrings
 bowstrung
 bowtel
