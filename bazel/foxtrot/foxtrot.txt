@@ -2471,7 +2471,6 @@ fleshed
 ferme
 familarity
 fullymart
-forespeed
 ferment
 furzechat
 fermentable
@@ -8775,6 +8774,7 @@ fortunately
 fortunateness
 fortunel
 froe
+forespeed
 formated
 forefield
 fortuneless
