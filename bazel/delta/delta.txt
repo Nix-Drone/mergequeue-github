@@ -10782,6 +10782,7 @@ drain
 directionality
 directionalize
 directionally
+donees
 duny
 directions
 directitude
@@ -15470,7 +15471,6 @@ diaries
 deduct
 donec
 donee
-donees
 diswarren
 dismalness
 donenesses
