@@ -3628,6 +3628,7 @@ caravanserial
 caravel
 confuse
 caravels
+cobber
 colorability
 caraway
 costate
@@ -17379,7 +17380,6 @@ cobalts
 cobang
 cobb
 cobbed
-cobber
 crosstrees
 cobberer
 cobbers
