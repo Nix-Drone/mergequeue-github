@@ -16486,7 +16486,6 @@ clockroom
 clocksmith
 clockwatcher
 clockworked
-clockworks
 clod
 clodbreaker
 clodded
@@ -31118,6 +31117,7 @@ cupless
 criticises
 cavities
 cuplike
+clockworks
 cupmaker
 cupman
 cupola
