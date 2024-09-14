@@ -546,6 +546,7 @@ cadmus
 cados
 cadouk
 cadrans
+chiasmi
 cadre
 cadres
 cads
@@ -10253,7 +10254,6 @@ chiasmatic
 connaraceae
 chiasmatype
 chiasmatypy
-chiasmi
 chiasmic
 chiasmodon
 chiasmodontid
