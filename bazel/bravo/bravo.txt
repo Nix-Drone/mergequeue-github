@@ -3585,6 +3585,7 @@ batheable
 bathed
 bellower
 bather
+bookable
 bathers
 bathes
 bathetically
@@ -12619,7 +12620,6 @@ besilver
 boohoos
 boojum
 book
-bookable
 bookbind
 boughed
 bookbindery
