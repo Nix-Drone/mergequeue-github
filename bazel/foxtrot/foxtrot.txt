@@ -5540,7 +5540,6 @@ fluctisonous
 flyblowing
 flyblows
 flyboat
-flyboats
 flybrush
 felsophyre
 filesave
@@ -9324,6 +9323,7 @@ fabulists
 fraid
 frayedly
 frayedness
+flyboats
 flashier
 fausant
 fraying
