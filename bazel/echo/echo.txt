@@ -2037,7 +2037,6 @@ elabor
 elaborate
 elaborated
 epilatory
-evictees
 elaborateness
 emulsic
 eradiculose
@@ -9730,6 +9729,7 @@ esophagostenosis
 esophagostomy
 endorsor
 esophagotome
+evictees
 esophagus
 esophoria
 esophoric
