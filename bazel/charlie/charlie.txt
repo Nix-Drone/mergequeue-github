@@ -27126,7 +27126,6 @@ counterterrorist
 countertheme
 counterthought
 counterthreat
-counterthwarting
 countertierce
 countertime
 countertype
@@ -27904,6 +27903,7 @@ craftly
 crafts
 craftsman
 craftsmanly
+counterthwarting
 charactonym
 craftsmanlike
 craftsmanship

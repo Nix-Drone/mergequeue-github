@@ -7820,7 +7820,6 @@ dewaxing
 dewberry
 dewberries
 dewclaw
-dewclawed
 dewclaws
 dewcup
 dewdamp
@@ -9927,6 +9926,7 @@ diminution
 dohter
 downfalls
 disciplines
+dewclawed
 diminutions
 diminutival
 disgarrison
