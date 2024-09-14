@@ -5907,7 +5907,6 @@ flinthead
 flooder
 flooders
 floodgate
-floodgates
 frontlessly
 floody
 flunkyhood
@@ -6643,6 +6642,7 @@ foamlike
 foams
 fobbing
 flirtier
+floodgates
 frequents
 focal
 focalised
