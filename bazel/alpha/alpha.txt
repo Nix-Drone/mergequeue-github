@@ -8239,7 +8239,6 @@ alighted
 alighting
 alightment
 align
-aligned
 aligners
 aligning
 alignment
@@ -19830,6 +19829,7 @@ arythmias
 arithmic
 arythmic
 arythmical
+aligned
 acenesthesia
 arithmocracy
 arithmocratic
