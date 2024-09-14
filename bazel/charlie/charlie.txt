@@ -13277,7 +13277,6 @@ crookbilled
 cyclic
 cyclical
 cyclicality
-cyclically
 cyclicalness
 cyclicism
 cyclicity
@@ -27094,6 +27093,7 @@ counterstatant
 counterstatement
 counterstep
 counterstimulate
+cyclically
 counterstimulation
 counterstimulus
 counterstock
