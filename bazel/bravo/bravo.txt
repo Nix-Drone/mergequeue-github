@@ -9540,6 +9540,7 @@ birthmarks
 birthmate
 birthnight
 birthplace
+beigy
 birthplaces
 backfilled
 birthrates
@@ -11612,7 +11613,6 @@ baske
 boatloads
 boatman
 boatless
-beigy
 boatmanship
 boatmaster
 boatmen
