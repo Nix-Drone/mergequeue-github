@@ -334,6 +334,7 @@ ebbman
 ebbs
 ebcasc
 enterosyphilis
+esocyclic
 ebcd
 ebcdic
 ebdomade
@@ -9688,7 +9689,6 @@ esnecy
 esoanhydride
 esocataphoria
 embellishment
-esocyclic
 excelse
 estivation
 esocidae
