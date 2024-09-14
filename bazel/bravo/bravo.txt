@@ -5391,6 +5391,7 @@ beguilement
 beguilements
 beguiler
 bottlelike
+bovids
 beguilers
 beguiles
 breakdown
@@ -13694,7 +13695,6 @@ bricksetter
 bovey
 bovenland
 bovidae
-bovids
 bovine
 bovinely
 bovinity
