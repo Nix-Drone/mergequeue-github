@@ -8196,6 +8196,7 @@ chains
 chainsman
 chainsmen
 cleanups
+coalize
 chainsmith
 chainwale
 chainwork
@@ -17184,7 +17185,6 @@ coalition
 coalitioner
 coalitionist
 coalitions
-coalize
 coalized
 coinclude
 coalizer
