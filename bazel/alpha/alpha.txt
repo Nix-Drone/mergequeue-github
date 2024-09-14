@@ -14409,7 +14409,6 @@ anthography
 anthoid
 anthokyan
 anthol
-antholysis
 antholite
 antholyza
 anthology
@@ -21031,6 +21030,7 @@ ascoma
 ascomata
 ascomycetal
 ascomycete
+antholysis
 ascomycetes
 ascomycetous
 ascon
