@@ -3889,6 +3889,7 @@ emforth
 emic
 emicant
 emicate
+endear
 emication
 emyde
 emydea
@@ -13553,7 +13554,6 @@ extensions
 extensity
 endorsements
 extensive
-endear
 ecstasies
 empathizing
 extensivity
