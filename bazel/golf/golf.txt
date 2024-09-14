@@ -4105,7 +4105,6 @@ gaddi
 gamene
 gild
 gildable
-gildedness
 gilden
 gilder
 grewhound
@@ -4908,6 +4907,7 @@ glomming
 give
 goaltending
 gyve
+gildedness
 giveable
 gederite
 gipsyweed
