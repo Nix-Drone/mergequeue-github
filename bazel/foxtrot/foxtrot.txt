@@ -4353,7 +4353,6 @@ fishbolt
 fishbolts
 falchions
 fishbowls
-fisheater
 fisheye
 fisheyes
 fisher
@@ -10447,6 +10446,7 @@ frontis
 forcaria
 filchery
 frictionlessly
+fisheater
 firsts
 fishy
 frontispiece
