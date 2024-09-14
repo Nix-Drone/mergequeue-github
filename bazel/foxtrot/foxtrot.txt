@@ -39,7 +39,6 @@ filters
 fallacies
 fabrique
 fabronia
-fabroniaceae
 fabula
 fabular
 foreshowing
@@ -4426,6 +4425,7 @@ flether
 fishtails
 fishway
 fishways
+fabroniaceae
 fishweed
 foothils
 fatiguing
