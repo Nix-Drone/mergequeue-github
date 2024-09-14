@@ -4350,6 +4350,7 @@ fleshers
 fishberries
 fishboat
 fishbolt
+floatage
 fishbolts
 falchions
 fishbowls
@@ -10941,7 +10942,6 @@ fertilely
 frison
 fully
 fullmouth
-floatage
 forworden
 fullom
 fripperies
