@@ -13393,7 +13393,6 @@ ankaratrite
 anker
 ankerhold
 ankerite
-ankerites
 ankh
 ankhs
 ankylenteron
@@ -24418,6 +24417,7 @@ autotelic
 autotelism
 autotetraploid
 autotetraploidy
+ankerites
 aah
 anatomism
 autothaumaturgist
