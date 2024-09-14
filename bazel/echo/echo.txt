@@ -2804,7 +2804,6 @@ edificant
 eleolite
 eleomargaric
 eleonorite
-eleoplast
 eleoptene
 eleostearate
 eigenfunction
@@ -8757,6 +8756,7 @@ equipt
 equiradial
 echo
 equiradical
+eleoplast
 equirotal
 escopet
 equisetaceous
