@@ -15849,7 +15849,6 @@ digitize
 diablotin
 dismalize
 dorsoventrad
-dorsoventrality
 dorsoventrally
 diabolo
 demonesses
@@ -16346,6 +16345,7 @@ downset
 downshare
 downshift
 downshifted
+dorsoventrality
 degradability
 downshifts
 downshore
