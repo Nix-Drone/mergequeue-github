@@ -1490,6 +1490,7 @@ funis
 fattishness
 fattrels
 fatuate
+forklike
 fatuism
 fatuity
 futhork
@@ -9212,7 +9213,6 @@ frache
 function
 fracid
 fouls
-forklike
 fractal
 fracted
 fungify
