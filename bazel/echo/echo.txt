@@ -5790,6 +5790,7 @@ electrosherardizing
 engrafter
 engraftment
 engrafts
+expressage
 engrail
 engrailed
 engrailment
@@ -13341,7 +13342,6 @@ expreme
 express
 expressable
 exophagy
-expressage
 expressed
 expresser
 expresses
