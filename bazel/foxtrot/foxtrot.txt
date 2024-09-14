@@ -4970,7 +4970,6 @@ flanker
 flankers
 falconries
 fringilliform
-fireshaft
 flanking
 flanks
 faineantise
@@ -10791,6 +10790,7 @@ frutilla
 frwy
 faintish
 formular
+fireshaft
 feldspathoidal
 fs
 ferr
