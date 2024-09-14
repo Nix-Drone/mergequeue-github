@@ -4033,7 +4033,6 @@ cardiodilator
 cardiodynia
 cardiodysneuria
 cardiogenesis
-cardiogenic
 cardiogram
 cardiograms
 cardiograph
@@ -4514,6 +4513,7 @@ carobs
 caroch
 caroche
 caroches
+cardiogenic
 caroid
 caroigne
 carol
