@@ -8605,7 +8605,6 @@ chancellory
 chancellors
 chancellorship
 chancellorships
-chancelor
 chancelry
 calathidium
 chancels
@@ -12003,6 +12002,7 @@ chorist
 choristate
 chorister
 choristers
+chancelor
 choristership
 choristic
 choristoblastoma
