@@ -12630,7 +12630,6 @@ bookboard
 bookcase
 bookcases
 bookcraft
-bookdealer
 bushmaster
 bookends
 booker
@@ -16924,6 +16923,7 @@ buhl
 buhlbuhl
 bark
 buhls
+bookdealer
 buhlwork
 buhlworks
 burgout
