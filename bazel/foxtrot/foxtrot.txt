@@ -1689,6 +1689,7 @@ fazes
 fc
 fchar
 fipenny
+forelaying
 fcomp
 farcin
 fcp
@@ -7783,7 +7784,6 @@ foreknowing
 foreknowingly
 forelady
 forelay
-forelaying
 foreland
 forelands
 foreleg
