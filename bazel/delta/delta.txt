@@ -7370,7 +7370,6 @@ detrude
 darbha
 detruded
 deem
-detrudes
 driblet
 distalia
 detruding
@@ -16725,6 +16724,7 @@ dramaturgic
 dramaturgically
 diffusibility
 dramaturgist
+detrudes
 drammach
 devisceration
 dcbname
