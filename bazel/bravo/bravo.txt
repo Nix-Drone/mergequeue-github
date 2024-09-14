@@ -3581,7 +3581,6 @@ batfowls
 batful
 bath
 bathala
-batheable
 bathed
 bellower
 bather
@@ -6376,6 +6375,7 @@ benzacridine
 biasses
 benzalacetone
 benzalazine
+batheable
 benzalcohol
 bakupari
 briguer
