@@ -8840,7 +8840,6 @@ alloys
 alloisomer
 alloisomeric
 alloisomerism
-allokinetic
 allokurtic
 allolalia
 allolalic
@@ -10006,6 +10005,7 @@ amahs
 amblycephalidae
 adiposities
 amblycephalus
+allokinetic
 amblychromatic
 amblydactyla
 amblygeusia
