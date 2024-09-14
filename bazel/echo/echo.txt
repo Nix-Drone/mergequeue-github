@@ -6038,6 +6038,7 @@ enlinkment
 enlist
 enlisted
 enlistees
+expurgational
 enlister
 epistrophe
 enlistment
@@ -13414,7 +13415,6 @@ expurgate
 expurgated
 expurgating
 expurgation
-expurgational
 ethan
 expurgations
 expurge
