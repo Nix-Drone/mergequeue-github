@@ -4710,6 +4710,7 @@ bedfordshire
 bedframes
 bedgoer
 bedgowns
+brickwork
 bediademed
 bediamonded
 bediaper
@@ -15212,7 +15213,6 @@ bethylid
 bricktimber
 bricktop
 brickwall
-brickwork
 backstrip
 brid
 bucketing
