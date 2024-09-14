@@ -2741,6 +2741,7 @@ barman
 barmaster
 barmbrack
 barmcloth
+beswarmed
 brither
 barmecide
 barmen
@@ -7330,7 +7331,6 @@ bibliograph
 besugar
 besully
 beswarm
-beswarmed
 beswarms
 besweatered
 beswim

@@ -2249,7 +2249,6 @@ electable
 electant
 electary
 epithet
-enthraldom
 elysee
 electees
 electic
@@ -10527,6 +10526,7 @@ etymologies
 etymologise
 extraessentially
 ensmall
+enthraldom
 etymologists
 etymologizable
 etymologization
