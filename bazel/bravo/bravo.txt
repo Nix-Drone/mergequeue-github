@@ -4412,7 +4412,6 @@ bebreech
 bluster
 bebrine
 bebrother
-bebrush
 bidactyle
 bemirrorment
 bebusy
@@ -5586,6 +5585,7 @@ beknighted
 beknighting
 beknived
 ballistite
+bebrush
 beknotted
 beknottedly
 blase
