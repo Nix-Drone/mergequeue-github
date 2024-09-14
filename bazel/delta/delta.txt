@@ -14576,7 +14576,6 @@ disinherit
 divid
 dmod
 dn
-dnieper
 do
 doability
 doable
@@ -16589,6 +16588,7 @@ dodecarchy
 draggily
 draggle
 draggled
+dnieper
 draggletailed
 draggletailedly
 discous
