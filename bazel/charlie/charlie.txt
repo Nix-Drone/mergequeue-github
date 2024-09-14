@@ -5778,7 +5778,6 @@ cateran
 chemung
 caterans
 caterbrawl
-catercap
 catercorner
 catercornered
 catercornerways
@@ -24661,6 +24660,7 @@ coppersidesman
 copperskin
 ciderist
 coppersmith
+catercap
 collock
 coppersmithing
 copperware
