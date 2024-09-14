@@ -7900,7 +7900,6 @@ foreprovision
 forepurpose
 frontways
 fixers
-forequarter
 forequarters
 fraidycat
 fleet
@@ -8990,6 +8989,7 @@ featness
 foundryman
 fragilariaceae
 foundrymen
+forequarter
 fallency
 faddishly
 foundrous
