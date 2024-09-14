@@ -12055,7 +12055,6 @@ anatomic
 anatomical
 anatomicals
 anatomicobiological
-anatomicochirurgical
 anatomicomedical
 anatomicopathologic
 anatomicopathological
@@ -17865,6 +17864,7 @@ appliques
 allianced
 applosion
 applosive
+anatomicochirurgical
 applotment
 appmt
 authorizations
