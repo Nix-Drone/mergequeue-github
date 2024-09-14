@@ -1081,6 +1081,7 @@ filigraned
 farmeries
 farmerish
 farmerly
+fishplate
 farmerlike
 farmership
 farmhold
@@ -4412,7 +4413,6 @@ fishmouth
 fishnet
 frank
 fishnets
-fishplate
 feste
 fishpole
 fishpoles
