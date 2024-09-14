@@ -7844,7 +7844,6 @@ cervicispinal
 cervicitis
 cervicoauricular
 cervicobregmatic
-cervicobuccal
 cervicodynia
 cervicofacial
 cervicolabial
@@ -30534,6 +30533,7 @@ cornemuse
 caldera
 cuboides
 cuboids
+cervicobuccal
 cubomedusae
 cubomedusan
 campbellism
