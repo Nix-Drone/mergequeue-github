@@ -1837,7 +1837,6 @@ deblock
 dijudicate
 deboise
 dispunge
-dalespeople
 deboite
 deboites
 debonair
@@ -5767,6 +5766,7 @@ diving
 deploration
 deplore
 deplored
+dalespeople
 deploredly
 deploredness
 deplorer
