@@ -2700,7 +2700,6 @@ acquiet
 acquirability
 acquirable
 antares
-acquire
 acquired
 acquirement
 acquirements
@@ -23963,6 +23962,7 @@ ampullariidae
 aporrhaidae
 autoconvection
 autoconverter
+acquire
 algocyan
 autocopist
 autocoprophagous
