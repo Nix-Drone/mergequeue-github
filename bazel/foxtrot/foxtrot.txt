@@ -4212,7 +4212,6 @@ frat
 fireplace
 fireplaces
 fireplow
-fleeceable
 fireplug
 frieze
 fireplugs
@@ -11485,6 +11484,7 @@ feower
 fatiguable
 furred
 furry
+fleeceable
 furriery
 furrieries
 furriers
