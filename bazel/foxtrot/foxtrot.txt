@@ -2071,7 +2071,6 @@ forestlike
 feinting
 feis
 flatlander
-fogbows
 faultier
 fireflower
 feisty
@@ -7340,6 +7339,7 @@ foramination
 foraminifer
 flyflapper
 freethinkers
+fogbows
 foraminiferal
 frontrunner
 fumitory
