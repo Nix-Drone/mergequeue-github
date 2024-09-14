@@ -8997,6 +8997,7 @@ chargeman
 charger
 charges
 chargeship
+cycloaliphatic
 chargfaires
 charybdian
 charybdis
@@ -13303,7 +13304,6 @@ cyclocoelous
 cyclo
 coulometric
 cycloacetylene
-cycloaliphatic
 cycloalkane
 cyclobothra
 cyclobutane
