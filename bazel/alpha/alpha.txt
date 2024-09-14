@@ -3247,7 +3247,6 @@ actorish
 actorship
 actress
 actresses
-acts
 aminic
 actu
 actualisation
@@ -13044,6 +13043,7 @@ anhydridization
 anhydridize
 anhydrization
 anhydroglocose
+acts
 anhydromyelia
 anhidrosis
 abstrusion
