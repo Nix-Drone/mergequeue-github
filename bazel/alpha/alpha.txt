@@ -8679,7 +8679,6 @@ alliance
 amidships
 accoast
 alliances
-acromioscapular
 alliant
 alliaria
 allicampane
@@ -17512,6 +17511,7 @@ apothegmatic
 apothegmatical
 apothegmatically
 apothegmatist
+acromioscapular
 apothegmatize
 apothegms
 apothem
