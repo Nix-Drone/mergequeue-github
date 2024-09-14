@@ -7147,7 +7147,6 @@ frustulum
 footcandle
 footcloths
 finedraw
-facer
 figwort
 foeniculum
 footed
@@ -7895,6 +7894,7 @@ foreproduct
 foreproffer
 forepromise
 forepromised
+facer
 foreprovided
 foreprovision
 forepurpose
