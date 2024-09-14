@@ -2675,7 +2675,6 @@ electrothermal
 expurgates
 epiperipheral
 electrothermancy
-electrothermic
 electrothermics
 enschedule
 enrapturer
@@ -12066,6 +12065,7 @@ exclam
 ecardines
 earthmaking
 exclamational
+electrothermic
 exclamations
 exclamative
 exclamatively
