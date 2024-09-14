@@ -8397,6 +8397,7 @@ grave
 graveclod
 griquaite
 galenite
+guilds
 gravecloth
 graveclothes
 gravedigger
@@ -10190,7 +10191,6 @@ guilder
 graver
 ghoul
 guildhall
-guilds
 guildship
 guildsmen
 guessworker
