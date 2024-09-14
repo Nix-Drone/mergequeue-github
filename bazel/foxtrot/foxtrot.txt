@@ -2744,7 +2744,6 @@ fess
 fesse
 fessed
 fesses
-fessewise
 fest
 festae
 fixatifs
@@ -7276,6 +7275,7 @@ footways
 footwalk
 foulnesses
 footwall
+fessewise
 footwarmer
 footwear
 floodmark
