@@ -4084,7 +4084,6 @@ cardiorrhaphy
 cardiorrheuma
 cardiorrhexis
 cardiosclerosis
-cardioscope
 cardiosymphysis
 cardiospasm
 cardiospermum
@@ -8769,6 +8768,7 @@ chantries
 chanukah
 chao
 chaogenous
+cardioscope
 chaology
 chaori
 chaos
