@@ -466,7 +466,6 @@ daysmen
 dayspring
 disthrall
 daystar
-daystars
 daystreak
 daytide
 daytime
@@ -17595,6 +17594,7 @@ dinosaurs
 drumlier
 doolee
 deputization
+daystars
 drumlike
 drumlin
 drumline
