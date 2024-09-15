@@ -6141,7 +6141,6 @@ benchy
 benchland
 benchless
 benchlet
-benchman
 benchmar
 benchmark
 benchmarked
@@ -15320,6 +15319,7 @@ briefers
 birdsong
 bot
 briefest
+benchman
 briefing
 briefings
 brieflessly
