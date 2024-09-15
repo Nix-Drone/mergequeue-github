@@ -1216,7 +1216,6 @@ edriophthalmatous
 edriophthalmian
 eds
 educ
-educability
 educable
 educables
 educand
@@ -12445,6 +12444,7 @@ exhaustedness
 exhauster
 exhausting
 extremes
+educability
 exhaustingly
 exhaustion
 exhaustive
