@@ -3517,7 +3517,6 @@ caracoli
 caracoling
 caracolite
 caracolled
-caracoller
 caracolling
 caracora
 caracore
@@ -15440,6 +15439,7 @@ clapdish
 clape
 clapholt
 clapmatch
+caracoller
 clapnest
 clapnet
 clapotis
