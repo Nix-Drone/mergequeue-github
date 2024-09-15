@@ -4966,7 +4966,6 @@ glacialism
 glacialist
 glacialize
 glaciaria
-graphemes
 glaciarium
 glaciated
 glaciates
@@ -6180,6 +6179,7 @@ glutoid
 glutose
 gesneraceae
 gluttei
+graphemes
 glutter
 gluttery
 glutting
