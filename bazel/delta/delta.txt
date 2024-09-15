@@ -2673,7 +2673,6 @@ decapod
 decomposure
 decompound
 dogwatches
-decompoundable
 decompoundly
 decompress
 decompresses
@@ -3282,6 +3281,7 @@ defensory
 defensorship
 defer
 deference
+decompoundable
 deferentially
 deferentitis
 deferents
