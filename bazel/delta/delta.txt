@@ -6749,7 +6749,6 @@ desklike
 deskman
 deskmen
 desks
-desktop
 destined
 deslime
 dusio
@@ -15525,6 +15524,7 @@ donnism
 donnock
 disprepare
 donnot
+desktop
 donors
 diplomatics
 donought
