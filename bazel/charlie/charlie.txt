@@ -11568,6 +11568,7 @@ cognisability
 crazies
 cholecystoduodenostomy
 cholecystogastrostomy
+continuant
 cholecystogram
 cholecystography
 cholecystojejunostomy
@@ -18188,7 +18189,6 @@ coffeepots
 coffeeroom
 coffees
 counterview
-continuant
 coffeetime
 coffeewood
 coffer
