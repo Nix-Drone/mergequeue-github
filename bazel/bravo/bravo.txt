@@ -800,7 +800,6 @@ bookmonger
 badju
 betterer
 badland
-badlands
 bogatyr
 buba
 badly
@@ -3352,6 +3351,7 @@ burma
 bask
 basked
 basker
+badlands
 baskerville
 bonavist
 basket
