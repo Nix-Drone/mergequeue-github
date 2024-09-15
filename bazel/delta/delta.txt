@@ -1598,7 +1598,6 @@ dealkalize
 dealkylate
 dealkylation
 deallocate
-deallocated
 daunter
 deallocates
 deallocating
@@ -2990,6 +2989,7 @@ deduction
 deductions
 deductive
 deductively
+deallocated
 dysfunctional
 deductory
 deducts
