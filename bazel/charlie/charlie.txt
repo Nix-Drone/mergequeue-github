@@ -24663,7 +24663,6 @@ ciderist
 coppersmith
 collock
 coppersmithing
-copperware
 copperwing
 coppet
 coppy
@@ -26242,6 +26241,7 @@ costoabdominal
 costoapical
 costocentral
 costochondral
+copperware
 costocolic
 costocoracoid
 costogenic
