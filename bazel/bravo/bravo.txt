@@ -5455,7 +5455,6 @@ behelp
 behemothic
 behemoths
 behen
-behenate
 behenic
 binominal
 behest
@@ -9382,6 +9381,7 @@ baroscope
 birdcages
 birdcall
 birdcalls
+behenate
 birdcatching
 birdcraft
 birddom
