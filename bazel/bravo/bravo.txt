@@ -3987,7 +3987,6 @@ bd
 bde
 bdellatomy
 brotan
-bdellium
 bdelliums
 bdelloid
 bdelloida
@@ -11403,6 +11402,7 @@ blueweed
 bravos
 blintze
 blueweeds
+bdellium
 bluewood
 bluewoods
 bluff
