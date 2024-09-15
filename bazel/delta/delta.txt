@@ -5951,7 +5951,6 @@ depressanth
 depressants
 depressed
 depresses
-depressibility
 doling
 depressibilities
 depressible
@@ -14081,6 +14080,7 @@ disbarments
 disbranching
 disused
 disuses
+depressibility
 disusing
 disutility
 deported
