@@ -10600,7 +10600,6 @@ enablement
 eu
 euahlayi
 euascomycetes
-euaster
 eubacteria
 eubacteriales
 eubacterium
@@ -11482,6 +11481,7 @@ everest
 everglades
 epeirogeny
 euflavine
+euaster
 evergreen
 evergreens
 everyday
