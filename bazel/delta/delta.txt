@@ -3581,7 +3581,6 @@ defunctionalization
 defunctionalize
 defunctive
 defused
-defuses
 defusion
 dingles
 dolman
@@ -14001,6 +14000,7 @@ distritos
 dystrophy
 denticate
 dystrophia
+defuses
 deducer
 dystrophic
 distrouser
