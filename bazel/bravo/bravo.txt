@@ -3632,6 +3632,7 @@ bathyseism
 bathysmal
 bomarea
 bathysophic
+bibber
 bathysophical
 bathysphere
 bathyspheres
@@ -7879,7 +7880,6 @@ bowgrace
 bibation
 beglamour
 bibb
-bibber
 bibbery
 bibberies
 bibbers
