@@ -11307,7 +11307,6 @@ discession
 discharacter
 drapery
 dischargeable
-discharged
 dischargee
 discharger
 dischargers
@@ -13730,6 +13729,7 @@ decasyllables
 duograph
 distanceless
 distancy
+discharged
 distancing
 distannic
 distant
