@@ -4883,7 +4883,6 @@ cartloads
 cartmaker
 cartmaking
 cartobibliography
-cartogram
 chloridizing
 cartographer
 cartographers
@@ -7862,6 +7861,7 @@ cervine
 cervisial
 cervix
 cervixes
+cartogram
 cervoid
 cervuline
 cervulus
