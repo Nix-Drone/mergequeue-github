@@ -6519,7 +6519,6 @@ benzoxyacetic
 benzoxycamphor
 benzoxyphenanthrene
 benzpinacone
-benzpyrene
 benztrioxazine
 biostratigraphy
 beothuk
@@ -6529,6 +6528,7 @@ bepaint
 bepainted
 belady
 bepale
+benzpyrene
 bepaper
 beparch
 beparse
