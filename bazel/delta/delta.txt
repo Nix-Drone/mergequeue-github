@@ -2293,7 +2293,6 @@ decentred
 decentres
 decentring
 decephalization
-decephalize
 deceptibility
 deceptible
 deceptional
@@ -18015,6 +18014,7 @@ damping
 dulcineas
 dulcinist
 dulcite
+decephalize
 dulcity
 dulcitol
 dulcitude
