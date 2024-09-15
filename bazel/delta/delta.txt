@@ -3666,7 +3666,6 @@ degradable
 drupetum
 degradational
 daggering
-degradations
 degradative
 degraded
 degradedly
@@ -11081,6 +11080,7 @@ dysarthria
 dysarthric
 disarticulate
 discernibility
+degradations
 disarticulating
 disarticulation
 disarticulator
