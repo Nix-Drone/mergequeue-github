@@ -4488,7 +4488,6 @@ elaboratory
 ethicists
 encapsulation
 encapsulations
-encapsule
 encapsuled
 enjeopardy
 encapsules
@@ -8737,6 +8736,7 @@ equiponderancy
 equiponderant
 equiponderate
 equiponderated
+encapsule
 escheve
 equiponderating
 esseda
