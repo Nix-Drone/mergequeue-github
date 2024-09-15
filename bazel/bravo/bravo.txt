@@ -6201,7 +6201,6 @@ benefactive
 benefactor
 benefactors
 bhikhari
-benefactress
 benefactresses
 benefactrices
 bukat
@@ -17430,6 +17429,7 @@ bunging
 bungle
 bungler
 benefactrixes
+benefactress
 bunglers
 bungles
 bungling
