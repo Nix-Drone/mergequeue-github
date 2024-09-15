@@ -2206,7 +2206,6 @@ gazebos
 gazed
 galla
 gazeful
-gazeless
 gazella
 gazellelike
 gazelline
@@ -5253,6 +5252,7 @@ glauconia
 glauconiferous
 glauconiidae
 grandaddy
+gazeless
 glauconitic
 glaucophanite
 glaucophanization
