@@ -9601,7 +9601,6 @@ bisecting
 bisection
 bisectional
 bisections
-bisector
 bisectors
 bisectrices
 busybodyness
@@ -16910,6 +16909,7 @@ bugled
 badmouth
 buglet
 bugleweed
+bisector
 buglewort
 bugling
 bugloss
