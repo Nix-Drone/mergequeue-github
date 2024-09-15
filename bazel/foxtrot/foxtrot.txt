@@ -2585,7 +2585,6 @@ ferriages
 ferryboat
 ferryboats
 familistery
-ferricyanate
 ferrandin
 furiosity
 ferricyanide
@@ -8732,6 +8731,7 @@ fortifying
 fortifyingly
 fortifys
 fortyfives
+ferricyanate
 fortyish
 fortilage
 fortin
