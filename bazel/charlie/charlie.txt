@@ -16691,7 +16691,6 @@ clapbread
 clote
 chaquetas
 cloth
-clothe
 clothed
 clothes
 clothesbag
@@ -17106,6 +17105,7 @@ coaggregate
 coaggregated
 coaggregation
 coagitate
+clothe
 coagitator
 coagment
 coagmentation
