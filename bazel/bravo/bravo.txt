@@ -2874,7 +2874,6 @@ bitis
 barothermograph
 barothermohygrograph
 baroto
-barotrauma
 bulgurs
 barotraumas
 barotraumata
@@ -9373,6 +9372,7 @@ brindle
 birdbander
 birdbanding
 birdbath
+barotrauma
 birdbaths
 birdbrained
 birdbrains
