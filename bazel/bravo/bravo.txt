@@ -2583,6 +2583,7 @@ bargeload
 bargeman
 bromcamphor
 bookmaking
+bioluminescent
 bargemaster
 balanophore
 booklice
@@ -7645,7 +7646,6 @@ bewig
 brokery
 barbudos
 bewigging
-bioluminescent
 bewilder
 bewildered
 bewilderedly
