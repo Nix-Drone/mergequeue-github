@@ -8200,7 +8200,6 @@ diagnosable
 diagnose
 dipus
 diagnosed
-diagnoses
 diagnosis
 diagnostical
 disjunction
@@ -16732,6 +16731,7 @@ drammage
 dramme
 drammed
 dramming
+diagnoses
 distributedly
 duchesses
 drammocks
