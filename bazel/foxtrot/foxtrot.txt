@@ -2174,7 +2174,6 @@ felloes
 fermentatory
 fellow
 fishfall
-fellowcraft
 fellowheirship
 fellowing
 fellowman
@@ -3617,6 +3616,7 @@ filenames
 filer
 fanons
 filers
+fellowcraft
 files
 frailly
 filesmith
