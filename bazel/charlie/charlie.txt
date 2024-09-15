@@ -20339,7 +20339,6 @@ commutableness
 commutant
 commutate
 commutated
-commutation
 commutative
 commutatively
 commutativity
@@ -20608,6 +20607,7 @@ complacency
 complacent
 cantor
 complacentially
+commutation
 complacently
 complain
 complainable
