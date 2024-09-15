@@ -16485,7 +16485,6 @@ crewer
 clockroom
 clocksmith
 clockwatcher
-clockworked
 clockworks
 clod
 clodbreaker
@@ -18187,6 +18186,7 @@ coffeepot
 coffeepots
 coffeeroom
 coffees
+clockworked
 counterview
 continuant
 coffeetime
