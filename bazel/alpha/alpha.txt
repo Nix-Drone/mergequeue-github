@@ -1393,7 +1393,6 @@ acaulescent
 acauline
 acaulose
 acaulous
-acc
 acca
 accable
 accademia
@@ -5624,6 +5623,7 @@ aftergrave
 aftergrief
 armpad
 adglutinate
+acc
 aftergrind
 aftergrowth
 accidentally
