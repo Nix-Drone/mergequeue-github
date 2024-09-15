@@ -3915,7 +3915,6 @@ carcinologist
 carcinomas
 carcinomata
 carcinomatoid
-carcinomatosis
 cholers
 carcinomatous
 carcinophagous
@@ -19462,6 +19461,7 @@ colourlessness
 colourman
 colours
 colourtype
+carcinomatosis
 colp
 colpenchyma
 colpeo
