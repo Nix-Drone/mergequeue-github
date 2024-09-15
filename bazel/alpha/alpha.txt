@@ -14989,7 +14989,6 @@ airparks
 anticodon
 anticoincidence
 anticold
-anticolic
 anticombination
 anticomment
 anticommercial
@@ -23863,6 +23862,7 @@ autoalarm
 autoalkylation
 autoallogamy
 autoallogamous
+anticolic
 autoanalysis
 autoanalytic
 autoantibody
