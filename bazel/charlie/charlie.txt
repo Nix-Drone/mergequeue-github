@@ -7620,7 +7620,6 @@ carbolating
 cerebrometer
 cerebron
 cerebronic
-cerebroparietal
 cerebropedal
 cerebropontile
 cerebropsychosis
@@ -15965,6 +15964,7 @@ cleped
 clepes
 cleping
 clepsydra
+cerebroparietal
 clepsydrae
 clepsydras
 clepsine
