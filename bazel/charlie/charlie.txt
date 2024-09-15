@@ -8895,7 +8895,6 @@ clobberer
 characine
 characinid
 characinidae
-characinoid
 characins
 charact
 cutouts
@@ -13726,6 +13725,7 @@ cymol
 cimolite
 cymols
 cymometer
+characinoid
 colature
 cymophane
 cymophanous
