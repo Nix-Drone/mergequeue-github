@@ -9226,7 +9226,6 @@ chasses
 chasseurs
 chassignite
 coachful
-chassis
 chemisorptive
 chastacosta
 chaste
@@ -14141,6 +14140,7 @@ cypseliformes
 copal
 cypseline
 colorist
+chassis
 cypseloid
 cypselomorph
 coutel
