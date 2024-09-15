@@ -4084,7 +4084,6 @@ cardiorrhaphy
 cardiorrheuma
 cardiorrhexis
 cardiosclerosis
-cardioscope
 cardiosymphysis
 cardiospasm
 cardiospermum
@@ -14210,6 +14209,7 @@ clochan
 cardioneural
 circulant
 circular
+cardioscope
 circularisation
 circularised
 circulariser
