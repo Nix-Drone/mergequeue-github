@@ -4353,6 +4353,7 @@ fishbolt
 fishbolts
 falchions
 fishbowls
+fungosities
 fisheater
 fisheye
 fisheyes
@@ -11252,7 +11253,6 @@ failles
 fungologist
 fungose
 frescoists
-fungosities
 fungused
 funguses
 fireball
