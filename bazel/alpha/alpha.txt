@@ -3220,7 +3220,6 @@ activated
 activates
 activating
 activation
-activations
 activator
 activators
 active
@@ -9976,6 +9975,7 @@ ambit
 ambital
 ambitendency
 ambitendencies
+activations
 ambitendent
 ambition
 ambitioning
