@@ -8589,7 +8589,6 @@ clow
 chanced
 certifiably
 chanceful
-chancefully
 chancefulness
 chancey
 chancel
@@ -18264,6 +18263,7 @@ cogitant
 cogitantly
 cogitate
 cogitated
+chancefully
 cogitates
 cogitating
 cogitation
