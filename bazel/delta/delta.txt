@@ -4598,7 +4598,6 @@ dendrite
 demigod
 demigoddess
 demigods
-demigorge
 demigrate
 demigriffin
 dermochrome
@@ -16731,6 +16730,7 @@ dcbname
 drammage
 dramme
 drammed
+demigorge
 dramming
 distributedly
 duchesses
