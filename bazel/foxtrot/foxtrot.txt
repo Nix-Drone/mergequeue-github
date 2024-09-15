@@ -1686,7 +1686,6 @@ faxed
 fructuosity
 faxing
 fazes
-fc
 fchar
 fipenny
 fcomp
@@ -10741,6 +10740,7 @@ fenny
 facelift
 fellifluous
 forelaid
+fc
 frumpy
 frumpier
 frumpiest
