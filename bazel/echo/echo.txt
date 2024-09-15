@@ -5874,7 +5874,6 @@ elaborates
 enheart
 enheaven
 enhedge
-enhelm
 elysia
 enhemospore
 enherit
@@ -10155,6 +10154,7 @@ etching
 esodic
 electrotest
 eteoclus
+enhelm
 eteostic
 eterminable
 eternal
