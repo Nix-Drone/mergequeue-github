@@ -10825,7 +10825,6 @@ direr
 decanormal
 deringa
 direx
-dirge
 dirged
 dirgelike
 dirgeman
@@ -11004,6 +11003,7 @@ disanimal
 disanimated
 disanimation
 disanney
+dirge
 disannex
 despots
 disannul
