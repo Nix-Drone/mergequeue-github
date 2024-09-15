@@ -7073,7 +7073,6 @@ enteroid
 entrymen
 entryway
 entryways
-episcopes
 entrochite
 eutectoid
 entropy
@@ -12589,6 +12588,7 @@ exists
 epistemological
 exit
 exited
+episcopes
 exitial
 expulser
 exiting
