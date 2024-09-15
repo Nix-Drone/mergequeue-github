@@ -6022,7 +6022,6 @@ depths
 demonetization
 depthways
 disoccupy
-depthwise
 depucel
 drayages
 depudorate
@@ -7617,6 +7616,7 @@ devices
 devide
 devil
 devildom
+depthwise
 deviled
 demonically
 deviler
