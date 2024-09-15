@@ -4983,7 +4983,6 @@ aerogun
 aerohydrodynamic
 aerohydropathy
 automorphic
-aerohydroplane
 aerohydrotherapy
 archdapifership
 autophotometry
@@ -9421,6 +9420,7 @@ altercate
 altercated
 altercating
 altercations
+aerohydroplane
 altercative
 altered
 alterers
