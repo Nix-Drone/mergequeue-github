@@ -2119,7 +2119,6 @@ campsite
 compasser
 campsites
 campstool
-campstools
 camptodrome
 camptonite
 camptosorus
@@ -26604,6 +26603,7 @@ counselled
 coronofacial
 counselling
 counsellor
+campstools
 counsellors
 counsellorship
 counselor
