@@ -18699,7 +18699,6 @@ arch
 archabomination
 archae
 archaean
-archaeoceti
 archaeocyathidae
 archaeocyathus
 archaeographic
@@ -23803,6 +23802,7 @@ authenticness
 authigene
 authigenetic
 authigenous
+archaeoceti
 aurite
 authored
 arabizing
