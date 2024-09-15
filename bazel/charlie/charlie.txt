@@ -1347,7 +1347,6 @@ calipering
 calipers
 calipeva
 caliph
-caliphal
 clincher
 caliphate
 colt
@@ -27423,6 +27422,7 @@ covary
 covariable
 covariables
 coal
+caliphal
 campanularia
 covariant
 covariate
