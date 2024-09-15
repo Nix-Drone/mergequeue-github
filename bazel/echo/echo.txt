@@ -2248,7 +2248,6 @@ electability
 electable
 electant
 electary
-epithet
 enthraldom
 elysee
 electees
@@ -4687,6 +4686,7 @@ enchondrosis
 etiotropically
 enchorial
 enchoric
+epithet
 enchurch
 enantiomeride
 electrophonically
