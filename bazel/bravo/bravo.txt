@@ -1598,6 +1598,7 @@ ballgowns
 ballhausplatz
 ballhawk
 ballhawks
+bedcord
 ballhooter
 balli
 bullwhack
@@ -4655,7 +4656,6 @@ bedchairs
 bedchamber
 bratstva
 bedclothing
-bedcord
 byplays
 bedcovers
 beddable
