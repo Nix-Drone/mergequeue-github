@@ -4772,7 +4772,6 @@ carriole
 carrioles
 carrion
 carryon
-carrions
 carryons
 carryout
 carryouts
@@ -20263,6 +20262,7 @@ commulative
 communa
 communal
 communalise
+carrions
 communalised
 communaliser
 cattalo
