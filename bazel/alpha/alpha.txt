@@ -16249,6 +16249,7 @@ atheris
 antislip
 antismoking
 antismut
+aromaticity
 antisnapper
 antisnob
 antisocial
@@ -20088,7 +20089,6 @@ aromas
 aromatic
 aromatical
 aromatically
-aromaticity
 actinosoma
 auriscopically
 aromatics
