@@ -6943,7 +6943,6 @@ folksongs
 folktales
 folkvangr
 foll
-foller
 folles
 formalisation
 folletage
@@ -9641,6 +9640,7 @@ freckle
 fenagle
 freckled
 freckledness
+foller
 freckleproof
 favouress
 freckles
