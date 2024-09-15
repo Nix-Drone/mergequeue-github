@@ -3484,7 +3484,6 @@ bastiles
 bastille
 bastilles
 biggah
-bastiment
 bastinaded
 bastinades
 baroi
@@ -12597,6 +12596,7 @@ boodler
 boodles
 booed
 boof
+bastiment
 bedizened
 boogeymen
 booger
