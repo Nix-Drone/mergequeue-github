@@ -4794,7 +4794,6 @@ gra
 gyron
 gironde
 girondin
-gentrice
 gironny
 gyronny
 girons
@@ -7142,6 +7141,7 @@ grasserie
 gorbellied
 gorbellies
 gyttja
+gentrice
 gorbet
 gorble
 gematria
