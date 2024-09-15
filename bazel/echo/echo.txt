@@ -6038,7 +6038,6 @@ enlinkment
 enlist
 enlisted
 enlistees
-enlister
 epistrophe
 enlistment
 engraphia
@@ -6440,6 +6439,7 @@ enslaver
 enslavers
 enslaves
 espave
+enlister
 enslaving
 epiphyseolysis
 enslumber
