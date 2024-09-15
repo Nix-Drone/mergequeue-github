@@ -8996,7 +8996,6 @@ chargeless
 chargeman
 charger
 charges
-chargeship
 chargfaires
 charybdian
 charybdis
@@ -24609,6 +24608,7 @@ coplaintiff
 coplanar
 coplanarity
 climatotherapies
+chargeship
 coplanarities
 controvertibly
 copleased
