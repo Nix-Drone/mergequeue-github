@@ -2436,7 +2436,6 @@ denizenize
 designs
 decyne
 decinormal
-decipher
 dispenser
 decipherability
 decipherable
@@ -16555,6 +16554,7 @@ drafting
 draftings
 draftman
 dactylioglyphtic
+decipher
 defendress
 diesinker
 draftmanship
