@@ -335,6 +335,7 @@ diau
 daybeacon
 dipylon
 daybed
+dismisses
 disambiguation
 dissuasiveness
 delirant
@@ -12764,7 +12765,6 @@ dismisser
 doormaking
 dismissers
 dunged
-dismisses
 dismissible
 dismissing
 dodrantal
