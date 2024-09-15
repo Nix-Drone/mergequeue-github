@@ -7715,7 +7715,6 @@ alderamin
 alderfly
 alderling
 alderman
-aldermanate
 aldermancy
 aldermaness
 aldermanic
@@ -14622,6 +14621,7 @@ aftwards
 anthropomorphology
 anthropomorphological
 anthropomorphologically
+aldermanate
 anthropomorphously
 anthroponym
 astroscope
