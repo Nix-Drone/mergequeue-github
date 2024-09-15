@@ -2182,6 +2182,7 @@ bannut
 banovina
 banquet
 banqueted
+biborate
 banqueter
 banqueters
 banqueting
@@ -9641,7 +9642,6 @@ bishop
 backbeats
 bishopdom
 bishoped
-biborate
 bishopful
 bishophood
 bishopless
