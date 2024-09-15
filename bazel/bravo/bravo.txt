@@ -416,6 +416,7 @@ broggle
 backpack
 bugles
 backpacked
+brightens
 burghermaster
 biplace
 bibliophagic
@@ -15367,7 +15368,6 @@ bright
 brighteyes
 brighten
 brightening
-brightens
 blennoid
 brightest
 brightish
