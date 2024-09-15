@@ -54,7 +54,6 @@ faceable
 facebar
 facebow
 facecloth
-firestone
 faced
 foreladies
 faceharden
@@ -4968,6 +4967,7 @@ fountainhead
 flanked
 flanker
 flankers
+firestone
 falconries
 fringilliform
 fireshaft
