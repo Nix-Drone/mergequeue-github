@@ -610,7 +610,6 @@ babungera
 bacquet
 bact
 bacteraemia
-bacteremia
 bacteremic
 bacteria
 bacteriaceae
@@ -15414,6 +15413,7 @@ brimborium
 brimful
 banns
 brimfully
+bacteremia
 brimfullness
 brimfulness
 brimless
