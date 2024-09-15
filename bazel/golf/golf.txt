@@ -5893,7 +5893,6 @@ glossodynamometer
 grizzlies
 glossoepiglottic
 gratuity
-glossoepiglottidean
 goldsmithery
 glossographer
 getid
@@ -6210,6 +6209,7 @@ gravitate
 gnar
 gnarl
 gnarled
+glossoepiglottidean
 gnarly
 greatcoats
 gillies
