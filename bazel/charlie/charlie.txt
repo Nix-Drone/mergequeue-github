@@ -470,7 +470,6 @@ cashier
 caddie
 caddied
 caddies
-cottons
 caddiing
 chincough
 cadding
@@ -16211,6 +16210,7 @@ cline
 clines
 clinged
 clinger
+cottons
 clingfishes
 clingy
 clingiest

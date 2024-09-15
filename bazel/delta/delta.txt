@@ -5784,7 +5784,6 @@ deplump
 depoetize
 depoh
 depolarisation
-depolarise
 drapeable
 depolarised
 depolariser
@@ -10460,6 +10459,7 @@ diphthonging
 diphthongisation
 deisticalness
 diphthongise
+depolarise
 dissenterism
 dalar
 diphthongising
