@@ -6307,7 +6307,6 @@ cropsickness
 cautery
 cauteries
 cauterisation
-cauterise
 cauterised
 cauterising
 cauterism
@@ -9955,6 +9954,7 @@ chemotherapeutical
 chemotherapeutically
 chemotherapeutics
 chemotherapy
+cauterise
 chemotherapies
 chemotherapist
 chemotherapists
