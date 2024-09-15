@@ -3834,6 +3834,7 @@ emergences
 emergencies
 emergentness
 emergents
+exposable
 emerges
 emiction
 enring
@@ -13285,7 +13286,6 @@ exports
 eternals
 eatableness
 easier
-exposable
 emotionalising
 exposals
 exposed
