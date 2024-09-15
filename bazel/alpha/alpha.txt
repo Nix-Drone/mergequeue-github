@@ -3196,7 +3196,6 @@ allotrophic
 azoxyanisole
 actionability
 anadems
-actionably
 assoc
 actionary
 actioner
@@ -23792,6 +23791,7 @@ apoplectiform
 authentically
 authenticate
 authenticated
+actionably
 authenticates
 authentication
 authentications
