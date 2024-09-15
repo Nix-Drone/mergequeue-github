@@ -6438,7 +6438,6 @@ agriculture
 agricultures
 agriculturist
 agriculturists
-admittible
 agrief
 agrilus
 agrimony
@@ -10519,6 +10518,7 @@ anthriscus
 amylogen
 amylogenesis
 amylogenic
+admittible
 amylogens
 amylohydrolysis
 amylohydrolytic
