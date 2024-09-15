@@ -4893,7 +4893,6 @@ cartographical
 confessionist
 cartographically
 cartographies
-cartomancy
 cartomancies
 carton
 cartoner
@@ -31173,6 +31172,7 @@ cuprum
 cuprums
 cups
 chardock
+cartomancy
 cupseed
 cornwallis
 cupsful
