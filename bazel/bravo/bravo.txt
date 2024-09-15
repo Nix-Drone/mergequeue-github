@@ -4226,7 +4226,6 @@ bearskins
 beartongue
 birdwatch
 bearward
-bearwort
 beastbane
 beasthood
 beasties
@@ -4617,6 +4616,7 @@ basecoat
 bedaggle
 bibless
 beday
+bearwort
 bedrid
 bedamned
 bedamp
