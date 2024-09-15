@@ -10544,7 +10544,6 @@ amyloplastid
 amylopsin
 amylose
 apprenticeship
-amyloses
 amylosynthesis
 amylosis
 asthenosphere
@@ -16863,6 +16862,7 @@ apheses
 adumbrate
 antiphoner
 aphesis
+amyloses
 apheta
 accidentals
 aphetic

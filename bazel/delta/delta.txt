@@ -8741,7 +8741,6 @@ diazo
 diazoalkane
 diazoamin
 depeter
-diazoamine
 diazoaminobenzene
 diazoanhydride
 diazobenzene
@@ -11417,6 +11416,7 @@ disbelieving
 discocarpium
 dispansive
 discocarpous
+diazoamine
 discocephalous
 discodactyl
 discogastrula
