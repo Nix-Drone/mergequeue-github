@@ -4835,6 +4835,7 @@ aequian
 arariba
 aequiculi
 aequipalpia
+atwitch
 aequor
 aequoreal
 aequorin
@@ -23224,7 +23225,6 @@ atwind
 atwirl
 atwist
 audiotapes
-atwitch
 atwite
 appendixing
 atwitter
