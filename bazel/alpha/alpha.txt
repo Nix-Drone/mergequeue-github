@@ -13174,7 +13174,6 @@ autoimmune
 animate
 animated
 animatedly
-actionable
 animater
 animaters
 animates
@@ -21372,6 +21371,7 @@ artefact
 asperating
 asperation
 aspergation
+actionable
 asperge
 asperges
 asperggilla
