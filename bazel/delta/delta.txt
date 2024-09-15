@@ -5990,7 +5990,6 @@ disprofit
 deprivals
 deprivate
 deprivation
-deprive
 deprived
 deprivement
 depriver
@@ -14913,6 +14912,7 @@ dogcatcher
 defluent
 digestive
 dogcatchers
+deprive
 dogdom
 drumsler
 deprogram
