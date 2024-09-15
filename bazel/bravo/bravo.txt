@@ -10955,7 +10955,6 @@ blk
 blksize
 bunts
 blo
-bloat
 backstrokes
 bloated
 benefactorship
@@ -16242,6 +16241,7 @@ brownouts
 babus
 brownshirt
 brownstone
+bloat
 brownstones
 browntail
 brownweed
