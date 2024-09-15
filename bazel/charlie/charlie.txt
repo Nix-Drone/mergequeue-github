@@ -11337,7 +11337,6 @@ chlorohydrocarbon
 chlorohydroquinone
 chloroid
 chloroleucite
-chloroma
 copelidine
 chloromata
 chloromelanite
@@ -14665,6 +14664,7 @@ cystid
 cystidea
 cystidia
 cystidium
+chloroma
 cystidiums
 cystiferous
 cystiform
