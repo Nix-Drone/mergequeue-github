@@ -20957,6 +20957,7 @@ comptrol
 comptroller
 comptrollers
 comptrollership
+crosspoint
 compts
 compulsative
 compulsatively
@@ -29908,7 +29909,6 @@ crossovers
 crosspatch
 crosspatches
 crosspiece
-crosspoint
 crossrail
 crossroad
 crossroading
