@@ -7364,7 +7364,6 @@ deselect
 detritivorous
 detrivorous
 demonstrance
-detroiter
 detruck
 detrude
 darbha
@@ -13106,6 +13105,7 @@ displayable
 displayed
 displayer
 displaying
+detroiter
 displays
 defectology
 disentanglements
