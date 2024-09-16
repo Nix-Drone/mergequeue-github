@@ -2666,7 +2666,6 @@ delphin
 dimmy
 decomposer
 decomposers
-decomposes
 decomposing
 decomposition
 decapod
@@ -16187,6 +16186,7 @@ decibar
 draughting
 dovishness
 dow
+decomposes
 dowager
 daddock
 dowagerism
