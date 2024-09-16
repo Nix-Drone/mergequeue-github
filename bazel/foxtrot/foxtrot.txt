@@ -7066,7 +7066,6 @@ fratercula
 fonts
 furnitures
 foochowese
-food
 foody
 foodless
 foodlessness
@@ -11431,6 +11430,7 @@ furls
 feminized
 furmenty
 furmenties
+food
 felling
 furmeties
 furmint
