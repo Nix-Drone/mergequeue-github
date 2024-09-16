@@ -12524,6 +12524,7 @@ anemoscope
 afront
 anemoses
 anemosis
+artemia
 anemotaxis
 anemotropism
 anencephaly
@@ -20449,7 +20450,6 @@ assentation
 artel
 artels
 artemas
-artemia
 alphabetics
 artemis
 aramaic
