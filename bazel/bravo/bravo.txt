@@ -431,7 +431,6 @@ backplanes
 backplate
 backpointer
 backpointers
-backrest
 backrope
 brimstony
 backropes
@@ -8291,6 +8290,7 @@ biflecnode
 biflected
 biflex
 biflorate
+backrest
 biflorous
 bifluorid
 bifluoride
