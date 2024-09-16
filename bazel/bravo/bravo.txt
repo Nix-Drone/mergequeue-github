@@ -6100,7 +6100,6 @@ bemuddles
 blephara
 bemuddling
 barrowcoat
-bemuffle
 bemurmur
 bemurmure
 bemurmuring
@@ -12818,6 +12817,7 @@ boot
 bootable
 beachdrops
 bootblack
+bemuffle
 bootblacks
 bloomingness
 bootees
