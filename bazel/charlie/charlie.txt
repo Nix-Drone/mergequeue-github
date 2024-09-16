@@ -8937,7 +8937,6 @@ characters
 characterstring
 charade
 charadrii
-charadriiform
 charadriiformes
 charadrine
 charadrioid
@@ -30403,6 +30402,7 @@ ctenophora
 ctenophoral
 ctenophoran
 ctenophore
+charadriiform
 codesigning
 ctenophoric
 ctenoplana
