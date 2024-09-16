@@ -10581,7 +10581,6 @@ diplomaing
 diplomas
 diplomat
 diplomata
-diplomate
 diplomates
 diplomatically
 diplomatique
@@ -12941,6 +12940,7 @@ dioecism
 dispassionateness
 daughterhood
 dispassioned
+diplomate
 dispatch
 dispatched
 dispatcher
