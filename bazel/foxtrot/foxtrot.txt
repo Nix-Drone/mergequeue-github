@@ -4143,6 +4143,7 @@ fireboy
 firebomb
 firebombed
 firebombing
+foul
 frostlike
 faithwise
 firebombs
@@ -8944,7 +8945,6 @@ flunkies
 ferrotyper
 fougasse
 foujdarry
-foul
 foulards
 foulbrood
 foulder
