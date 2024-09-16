@@ -3816,6 +3816,7 @@ battler
 battles
 battleship
 battleships
+bejan
 buhr
 battlesome
 boatfalls
@@ -5535,7 +5536,6 @@ beyship
 bulgarians
 beja
 bejade
-bejan
 bejant
 bloodwit
 bechamels
