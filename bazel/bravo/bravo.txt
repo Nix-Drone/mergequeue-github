@@ -4160,7 +4160,6 @@ beanlike
 beano
 beanos
 beanpole
-beanpoles
 beans
 beansetter
 beanshooter
@@ -14558,6 +14557,7 @@ brantle
 brantness
 brants
 branular
+beanpoles
 braquemard
 bras
 brasen
