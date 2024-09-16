@@ -5703,7 +5703,6 @@ autotherapeutic
 afterswarming
 aftertask
 aftertastes
-afterthinker
 achromatium
 afterthought
 afterthoughted
@@ -7921,6 +7920,7 @@ aleurodes
 accedence
 aleurodidae
 aleuromancy
+afterthinker
 anilinophilous
 aleurometer
 aleuron
