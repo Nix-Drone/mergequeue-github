@@ -2657,7 +2657,6 @@ baryte
 baritenor
 barytes
 barythymia
-barytic
 barytine
 barytocalcite
 barytocelestine
@@ -12977,6 +12976,7 @@ boreal
 borealis
 branchedness
 borean
+barytic
 boreas
 borecole
 borecoles
