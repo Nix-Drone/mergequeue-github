@@ -4144,7 +4144,6 @@ delim
 delimed
 delimes
 deliming
-delimit
 delimitate
 drogherman
 dihybrid
@@ -11198,6 +11197,7 @@ disbrain
 disbranch
 duffies
 dharmakaya
+delimit
 disbranched
 disquiparation
 diacle
