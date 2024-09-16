@@ -5154,6 +5154,7 @@ casket
 casketed
 casketlike
 caskets
+counterdecree
 casky
 casking
 casklike
@@ -26739,7 +26740,6 @@ countercurrentwise
 counterdance
 counterdecision
 counterdeclaration
-counterdecree
 counterdefender
 counterdemonstrate
 cerebrophysiology
