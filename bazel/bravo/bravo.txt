@@ -4653,7 +4653,6 @@ bedcase
 bedchair
 bedchairs
 bedchamber
-bratstva
 bedclothing
 bedcord
 byplays
@@ -17438,6 +17437,7 @@ bungos
 bungstarter
 bungtown
 bungwall
+bratstva
 bunya
 bunyah
 bigheartedly
