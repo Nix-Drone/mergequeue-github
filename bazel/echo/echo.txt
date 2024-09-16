@@ -1829,7 +1829,6 @@ eyeserver
 eyeservice
 eyeshade
 eyeshield
-equvalent
 eyeshine
 eyeshot
 enumerated
@@ -3825,6 +3824,7 @@ enscale
 emer
 emerald
 emeraldine
+equvalent
 emeralds
 edged
 emeras
