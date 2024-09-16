@@ -1073,6 +1073,7 @@ fantad
 freshening
 furriners
 farmable
+fungian
 farmed
 farmer
 farmeress
@@ -11219,7 +11220,6 @@ fungation
 funge
 fungi
 fungia
-fungian
 fungibility
 fungible
 feloniously
