@@ -6948,7 +6948,6 @@ cenosite
 cenosity
 cenospecies
 custodiam
-cenospecific
 cenotaph
 cenotaphy
 cenotaphies
@@ -15723,6 +15722,7 @@ clausure
 claut
 clava
 clavacin
+cenospecific
 clavae
 claval
 clavariaceae
