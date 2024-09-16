@@ -14067,7 +14067,6 @@ cypher
 cipherable
 cipherdom
 cyphered
-cipherer
 cipherhood
 ciphering
 cyphering
@@ -25717,6 +25716,7 @@ corrivalship
 corrivate
 corrivation
 corrive
+cipherer
 choffer
 corrober
 corroborant
