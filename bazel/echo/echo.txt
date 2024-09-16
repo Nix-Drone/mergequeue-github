@@ -6605,7 +6605,6 @@ enterclose
 enterectomy
 enterectomies
 exuviates
-enterer
 ellipses
 empathizing
 enterers
@@ -12795,6 +12794,7 @@ epiceratodus
 echiuroidea
 exordium
 exordiums
+enterer
 exordize
 exorhason
 exornate
