@@ -8430,6 +8430,7 @@ epitonic
 extraorbital
 epitonion
 epitonium
+extends
 epitra
 epitrachelia
 epitria
@@ -13539,7 +13540,6 @@ extended
 extendedly
 extender
 extending
-extends
 enworthy
 extensibility
 extensible
