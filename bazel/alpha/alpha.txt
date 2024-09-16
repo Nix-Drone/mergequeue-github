@@ -5334,7 +5334,6 @@ affirmably
 affirmance
 affirmant
 affirmation
-affirmations
 affirmative
 affirmatively
 affirmativeness
@@ -20520,6 +20519,7 @@ arteriosympathectomy
 airfreight
 arteriospasm
 arteriostenosis
+affirmations
 arteriostosis
 arteriostrepsis
 admix
