@@ -7469,7 +7469,6 @@ ceratodontidae
 ceratodus
 ceratoduses
 ceratoglossal
-ceratoglossus
 ceratohyal
 ceratohyoid
 ceratoid
@@ -24082,6 +24081,7 @@ coactor
 conversational
 conversationalists
 conversationally
+ceratoglossus
 conversationism
 conversationist
 conversationize
