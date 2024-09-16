@@ -19177,7 +19177,6 @@ archruler
 archsacrificator
 archsaint
 archsatrap
-archseducer
 archsee
 archsewer
 archshepherd
@@ -24331,6 +24330,7 @@ autoradiography
 autorail
 autokinetic
 autoreduction
+archseducer
 autoreflection
 autoregulation
 algomian
