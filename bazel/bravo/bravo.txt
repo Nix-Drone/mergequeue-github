@@ -6479,7 +6479,6 @@ benzols
 benzonaphthol
 benzonitrile
 benzoperoxide
-benzophenanthrazine
 benzophenazine
 benzophenol
 benzophenone
@@ -12271,6 +12270,7 @@ bombast
 bombaster
 bombastic
 biophor
+benzophenanthrazine
 bonds
 battering
 baniwa
