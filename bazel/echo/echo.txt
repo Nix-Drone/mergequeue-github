@@ -3921,7 +3921,6 @@ electrotonus
 epacme
 emilia
 emim
-eminence
 eminences
 eminencies
 eminent
@@ -6467,6 +6466,7 @@ ensorceled
 emitters
 encephalometer
 encheck
+eminence
 ensorcell
 ensorcellment
 epochal
