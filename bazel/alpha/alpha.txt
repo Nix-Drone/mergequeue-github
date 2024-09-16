@@ -20217,7 +20217,6 @@ arrest
 arrestable
 arrestant
 albi
-arrestation
 anophyte
 arrested
 arrestees
@@ -23241,6 +23240,7 @@ aubergiste
 aubergistes
 aubrey
 aubretia
+arrestation
 aubretias
 aubrieta
 aubrietas
