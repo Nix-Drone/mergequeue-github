@@ -1389,7 +1389,6 @@ acaudate
 acaudelescent
 acaulescence
 anthracemia
-acaulescent
 acauline
 acaulose
 acaulous
@@ -8135,6 +8134,7 @@ algosis
 algous
 algovite
 algraphy
+acaulescent
 alguacil
 alguifou
 algum
