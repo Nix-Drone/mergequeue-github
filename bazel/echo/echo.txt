@@ -5938,6 +5938,7 @@ enjambed
 enjambement
 exemplary
 enjambments
+externals
 enjelly
 enjeopard
 encumbrancer
@@ -10920,7 +10921,6 @@ eupeptic
 eupepticity
 euphausia
 euphausid
-externals
 euphausiid
 endostomata
 erraticness
