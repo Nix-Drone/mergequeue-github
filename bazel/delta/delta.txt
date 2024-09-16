@@ -3120,6 +3120,7 @@ deewans
 def
 deface
 dehydrogenising
+drawstring
 defaceable
 defacement
 defacements
@@ -11238,7 +11239,6 @@ discalceate
 discamp
 discandy
 discanonization
-drawstring
 dactylologies
 discanonize
 dentalizing
