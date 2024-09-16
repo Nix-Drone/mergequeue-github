@@ -5946,7 +5946,6 @@ fluidizing
 floorless
 floors
 fiddleback
-floorshift
 fawny
 floorshifts
 floorshow
@@ -8823,6 +8822,7 @@ forwhy
 federacies
 forwoden
 femicide
+floorshift
 froughy
 forwore
 fiendliness
