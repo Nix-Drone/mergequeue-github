@@ -5744,7 +5744,6 @@ categorization
 categorizations
 categorize
 corona
-categorizers
 categorizes
 categorizing
 cateye
@@ -16619,6 +16618,7 @@ chapeaus
 circut
 clonos
 clonothrix
+categorizers
 clons
 clonus
 clonuses
