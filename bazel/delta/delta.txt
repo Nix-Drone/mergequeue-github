@@ -6014,7 +6014,6 @@ depsid
 depside
 depsides
 dept
-depth
 depthen
 depthless
 depthlessness
@@ -11270,6 +11269,7 @@ diesel
 discases
 discasing
 discatter
+depth
 dripped
 deadly
 disced
