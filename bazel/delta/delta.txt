@@ -468,7 +468,6 @@ disthrall
 daystar
 daystars
 daystreak
-daytide
 daytime
 daytimes
 daiva
@@ -2590,6 +2589,7 @@ decohesion
 decoy
 decoic
 decoyer
+daytide
 dissertator
 decoyers
 diluents
