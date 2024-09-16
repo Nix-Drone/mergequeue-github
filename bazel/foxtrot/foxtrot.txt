@@ -3457,7 +3457,6 @@ fight
 figaro
 faster
 figbird
-figboy
 fightwite
 floccus
 figeater
@@ -7076,6 +7075,7 @@ foodstuff
 foodstuffs
 flacked
 fooyoung
+figboy
 fooyung
 fraternization
 fool
