@@ -10675,7 +10675,6 @@ euclidian
 eucnemidae
 eucommiaceae
 eucone
-euconic
 eucopepoda
 eucosia
 eucosmid
@@ -13033,6 +13032,7 @@ expensing
 expensively
 epidermomycosis
 expensiveness
+euconic
 expergefacient
 expergefaction
 experience
