@@ -9662,7 +9662,6 @@ cheeseboard
 cheesebox
 cheeseburger
 cheeseburgers
-cheesecake
 cheesecakes
 cheesecloth
 cheesecloths
@@ -13575,6 +13574,7 @@ cylindrically
 cylindricalness
 cylindricity
 cylindricule
+cheesecake
 cylindriform
 cylindrite
 cylindrocellular
