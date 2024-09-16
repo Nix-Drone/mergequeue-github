@@ -8880,7 +8880,6 @@ chaptrel
 chapwoman
 chaqueta
 char
-conveyability
 chara
 charabanc
 charabancer
@@ -19529,6 +19528,7 @@ columbeion
 columbella
 columbia
 collarinos
+conveyability
 columbiad
 columbid
 columbidae
