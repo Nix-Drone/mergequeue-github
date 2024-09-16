@@ -1215,7 +1215,6 @@ calfs
 calfskin
 calgary
 caliban
-caliber
 calibers
 cunas
 clavicembali
@@ -14213,6 +14212,7 @@ circular
 circularisation
 circularised
 circulariser
+caliber
 circularising
 circularism
 circularities
