@@ -4256,6 +4256,7 @@ adoptabilities
 adoptant
 armorers
 adoptative
+aircraftman
 abruptiones
 adopted
 archmock
@@ -6832,7 +6833,6 @@ aircheck
 airchecks
 aircoaches
 aircraft
-aircraftman
 axometer
 aircraftmen
 aircraftsman
