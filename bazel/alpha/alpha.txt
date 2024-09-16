@@ -11905,6 +11905,7 @@ anapnoeic
 aesthesia
 attend
 anapnograph
+anelectrode
 anapnoic
 anapnometer
 anapodeictic
@@ -12463,7 +12464,6 @@ adaptation
 anelasticity
 anele
 anelectric
-anelectrode
 anelectrotonus
 aneled
 aneles
