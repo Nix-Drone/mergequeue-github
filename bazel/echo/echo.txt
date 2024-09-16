@@ -10360,7 +10360,6 @@ emulge
 ethyne
 ethynes
 ethinyl
-ethynyl
 endophasic
 ethinyls
 exponence
@@ -12709,6 +12708,7 @@ exomphalus
 expandibility
 entame
 exon
+ethynyl
 exonarthex
 epicotyledonary
 exonerate
