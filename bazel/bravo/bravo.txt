@@ -5136,6 +5136,7 @@ ballpoints
 beflecks
 bombycinous
 beflounce
+bidi
 bombshells
 brays
 beflour
@@ -8196,7 +8197,6 @@ bencher
 bidet
 ballader
 bidets
-bidi
 bidiagonal
 bidialectalism
 bidimensional
