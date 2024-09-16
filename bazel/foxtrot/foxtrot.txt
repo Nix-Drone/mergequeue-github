@@ -6117,7 +6117,6 @@ flounce
 flounced
 flounces
 flouncy
-flounciest
 flouncing
 flounder
 flounders
@@ -8724,6 +8723,7 @@ furbelows
 fortify
 fortifications
 fortifier
+flounciest
 florets
 fortifiers
 fortifies
