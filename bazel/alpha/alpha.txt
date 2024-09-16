@@ -478,7 +478,6 @@ apimania
 abyssinia
 abyssinian
 abyssobenthonic
-abyssolith
 abyssopelagic
 abyssus
 abit
@@ -11229,6 +11228,7 @@ antepartum
 amphithyra
 amphithura
 allocrotonic
+abyssolith
 amphithurons
 amphithurthura
 alloquy
