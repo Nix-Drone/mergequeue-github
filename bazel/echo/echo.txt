@@ -7903,7 +7903,6 @@ epigrammatising
 epigrammatize
 epigrammatized
 echoingly
-epigrammatizer
 epigrammatizing
 epigrams
 epigraph
@@ -8196,6 +8195,7 @@ episcotister
 episedia
 episememe
 episyllogism
+epigrammatizer
 episynaloephe
 electrotropism
 episynthetic
