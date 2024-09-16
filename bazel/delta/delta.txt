@@ -8178,7 +8178,6 @@ diadochokinetic
 diadoumenos
 diadrom
 diadrome
-diadromous
 dioti
 diadumenus
 diaene
@@ -9609,6 +9608,7 @@ dhaks
 dihydroxyacetone
 dihydroxysuccinic
 dosshouse
+diadromous
 dolcissimo
 delative
 diiambus
