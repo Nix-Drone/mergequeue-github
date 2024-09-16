@@ -565,7 +565,6 @@ damageability
 damageably
 damaged
 damagement
-damageous
 dao
 damager
 damagers
@@ -12191,6 +12190,7 @@ dual
 disgorged
 disgorger
 disgorges
+damageous
 disgorging
 disgospel
 disgospelize
