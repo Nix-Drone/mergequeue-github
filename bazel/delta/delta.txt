@@ -3150,6 +3150,7 @@ defamation
 defamations
 defamatory
 defame
+deed
 defamed
 dragginess
 defamer
@@ -6080,7 +6081,6 @@ der
 derabbinize
 deracialize
 deracinate
-deed
 deracinating
 deracination
 deracine
