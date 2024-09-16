@@ -2438,6 +2438,7 @@ electroform
 electroforming
 electrofusion
 ethanol
+entered
 electrogalvanization
 electrogenetic
 epichlorohydrin
@@ -6217,7 +6218,6 @@ extraphysiological
 enplanes
 enquarter
 enqueue
-entered
 enqueued
 enquicken
 enquire
