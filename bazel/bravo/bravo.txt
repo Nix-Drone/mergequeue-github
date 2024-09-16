@@ -5442,7 +5442,6 @@ behaviours
 bandying
 beheadal
 beheaded
-beheader
 beanfeaster
 beheadlined
 beheads
@@ -9762,6 +9761,7 @@ bisti
 bistipulate
 bouchees
 bistipuled
+beheader
 bistort
 bathylimnetic
 bistorta
