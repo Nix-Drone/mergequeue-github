@@ -2742,7 +2742,6 @@ barmaster
 barmbrack
 barmcloth
 brither
-barmecide
 barmen
 barmfel
 becoward
@@ -8548,6 +8547,7 @@ bilestone
 biforous
 bileve
 bilewhit
+barmecide
 bilged
 bootjack
 bouteloua
