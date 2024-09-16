@@ -5005,7 +5005,6 @@ demotists
 demount
 demountability
 demounted
-demounting
 demounts
 disgage
 dempster
@@ -12685,6 +12684,7 @@ disloyalties
 dislove
 deforcement
 dorsilumbar
+demounting
 dysluite
 delicto
 dislustered
