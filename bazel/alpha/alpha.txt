@@ -5097,7 +5097,6 @@ aerotaxis
 argo
 aerotechnical
 aerotechnics
-anilidoxime
 allthorn
 aerotherapeutics
 aerotherapy
@@ -24482,6 +24481,7 @@ autoxidation
 autoxidator
 autoxidizability
 autoxidizable
+anilidoxime
 autoxidize
 autoxidizer
 autozooid
