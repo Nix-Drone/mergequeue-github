@@ -5877,7 +5877,6 @@ enhedge
 enhelm
 elysia
 enhemospore
-enherit
 enheritance
 enhydra
 eyewear
@@ -6070,6 +6069,7 @@ enlure
 emasculation
 enmagazine
 enmarble
+enherit
 elytron
 enmarbling
 enmask
