@@ -8495,7 +8495,6 @@ gravitative
 gravity
 gravities
 gravitometer
-graviton
 gravitons
 garb
 grabbed
@@ -10655,6 +10654,7 @@ gurr
 gurrah
 gurry
 gurries
+graviton
 gurshes
 gurts
 guru
