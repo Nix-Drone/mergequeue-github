@@ -3993,7 +3993,6 @@ forsee
 fingerpost
 forfeited
 fingerprint
-fingerprints
 fingerroot
 forleft
 fingers
@@ -5678,6 +5677,7 @@ flypasts
 flipe
 flype
 freezers
+fingerprints
 flipflop
 fliping
 federalizing
