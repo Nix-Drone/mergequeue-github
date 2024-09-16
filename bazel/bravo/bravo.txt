@@ -9300,7 +9300,6 @@ biphenyls
 biphenol
 berretta
 bipinnaria
-bipinnariae
 bipinnarias
 bipinnate
 bipinnated
@@ -15113,6 +15112,7 @@ brewhouses
 brewing
 brewings
 brewis
+bipinnariae
 brewises
 bocks
 brewmaster
