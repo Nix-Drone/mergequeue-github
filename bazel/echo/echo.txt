@@ -4745,7 +4745,6 @@ enciphers
 encircle
 encircled
 effronted
-encircles
 encyrtid
 existimation
 etherealize
@@ -7722,6 +7721,7 @@ epicurish
 epicurishly
 exogenetic
 epicurize
+encircles
 epicuticle
 epicuticular
 entomotomist
