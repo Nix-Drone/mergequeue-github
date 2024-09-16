@@ -1302,7 +1302,6 @@ balancelle
 balancement
 balancers
 balancing
-balander
 balandrana
 balaneutics
 balangay
@@ -17558,6 +17557,7 @@ bulking
 burdened
 brawlers
 burdener
+balander
 burdeners
 burdening
 burdenless
