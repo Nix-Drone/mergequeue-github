@@ -4637,7 +4637,6 @@ fixities
 flannelleaf
 fixt
 fusiformis
-fixtureless
 farming
 fixup
 fixups
@@ -8340,6 +8339,7 @@ forswornness
 forkmen
 forks
 forksful
+fixtureless
 forktail
 fruiterer
 faceup
