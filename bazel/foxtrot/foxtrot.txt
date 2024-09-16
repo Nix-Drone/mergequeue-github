@@ -2586,7 +2586,6 @@ ferryboat
 ferryboats
 familistery
 ferricyanate
-ferrandin
 furiosity
 ferricyanide
 ferrihydrocyanic
@@ -4399,6 +4398,7 @@ fishless
 frameworks
 fishlet
 fishlike
+ferrandin
 furlough
 fishline
 fishlines
