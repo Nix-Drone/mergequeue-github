@@ -8855,7 +8855,6 @@ averager
 allometry
 autolavage
 allomorph
-allomorphic
 aerobiologic
 allomorphism
 allomorphite
@@ -21052,6 +21051,7 @@ ascribable
 ascribe
 ascribed
 ascribes
+allomorphic
 ascribing
 ascript
 ascription
