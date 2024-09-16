@@ -10894,7 +10894,6 @@ canezou
 clocher
 chypre
 chips
-chipwood
 chiquest
 chiquitan
 chiquito
@@ -31868,6 +31867,7 @@ cutter
 cutterhead
 cutters
 cutthroat
+chipwood
 cutthroats
 cutty
 classicize
