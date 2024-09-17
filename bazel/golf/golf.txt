@@ -6675,6 +6675,7 @@ goldworker
 golem
 golems
 goles
+gazetteer
 golet
 gossypium
 golfer
@@ -10089,7 +10090,6 @@ guesstimating
 guesswork
 grammarian
 guirlande
-gazetteer
 guested
 guesten
 guesthouse
