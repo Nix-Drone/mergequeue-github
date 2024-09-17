@@ -17290,7 +17290,6 @@ coastman
 coastmen
 coasts
 coastside
-coastwaiter
 coastward
 coastwards
 coastwise
@@ -23156,6 +23155,7 @@ constraints
 cawnie
 constrict
 connarite
+coastwaiter
 claudio
 constricted
 constricting
