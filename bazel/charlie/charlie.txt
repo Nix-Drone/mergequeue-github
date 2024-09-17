@@ -3366,7 +3366,6 @@ capsizable
 capsizal
 capsize
 capsized
-capsizes
 capsomer
 capsomere
 capsomers
@@ -24012,6 +24011,7 @@ convenienced
 conveniences
 conveniency
 conveniencies
+capsizes
 conveniens
 convenient
 conveniently
