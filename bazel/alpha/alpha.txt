@@ -10533,7 +10533,6 @@ amyloleucite
 amylolysis
 amylolytic
 amylom
-amylometer
 amylopectin
 amylophagia
 amylophosphate
@@ -12602,6 +12601,7 @@ aneuric
 aneurilemmic
 aneurin
 aneurine
+amylometer
 aneurism
 aneurysm
 aneurismal
