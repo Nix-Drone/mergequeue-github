@@ -7310,7 +7310,6 @@ gossans
 gossard
 gossep
 geomechanics
-goujay
 gossy
 grills
 gossip
@@ -8520,6 +8519,7 @@ graziers
 grazing
 growthful
 gantlope
+goujay
 garlandwise
 grazings
 gullion
