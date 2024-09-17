@@ -6519,7 +6519,6 @@ divorce
 deadmen
 descries
 descript
-description
 dogsled
 descriptionless
 descriptive
@@ -11339,6 +11338,7 @@ discinct
 discind
 debit
 discing
+description
 darwinian
 daggletail
 discinoid
