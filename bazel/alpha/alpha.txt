@@ -10428,7 +10428,6 @@ amidoplast
 amaryllid
 amidoplastid
 amidosuccinamic
-amidoxy
 amidoxyl
 amidoxime
 analogist
@@ -24795,6 +24794,7 @@ avion
 avionic
 avionics
 avions
+amidoxy
 adieux
 allegros
 avirulent
