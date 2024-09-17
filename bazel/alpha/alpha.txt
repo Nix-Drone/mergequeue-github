@@ -6741,6 +6741,7 @@ aillt
 ayllu
 ailment
 ailments
+avoids
 ails
 ailsyte
 ailuridae
@@ -24841,7 +24842,6 @@ avoidant
 avoider
 avoiders
 avoidment
-avoids
 avoyer
 avoyership
 avoirdupois
