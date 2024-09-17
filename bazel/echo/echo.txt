@@ -6303,7 +6303,6 @@ enroller
 enrollers
 equidense
 exoterics
-enrollment
 enrollments
 earnful
 erzahler
@@ -13292,6 +13291,7 @@ exposed
 exposedness
 exposers
 exposes
+enrollment
 exposing
 exposit
 expositing
