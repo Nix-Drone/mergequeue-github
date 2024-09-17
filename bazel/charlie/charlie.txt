@@ -2986,7 +2986,6 @@ capacitances
 capacitate
 capacitated
 cooperators
-capacitations
 capacitative
 capacitativly
 capacitator
@@ -8550,6 +8549,7 @@ champe
 champed
 champer
 cardinalate
+capacitations
 champerator
 champers
 campanula

@@ -2461,7 +2461,6 @@ embassador
 electroimpulse
 electroindustrial
 electroing
-electroionic
 enzymology
 electrojet
 electrokinetic
@@ -5779,6 +5778,7 @@ engouement
 engouled
 engoument
 equipondious
+electroionic
 engr
 equant
 engrace
