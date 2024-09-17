@@ -10114,6 +10114,7 @@ chessist
 chessman
 chessmen
 chirimen
+cholecystgastrostomy
 chessner
 chessom
 claves
@@ -11556,7 +11557,6 @@ cholecystectomy
 cholecystectomized
 cholecystenterorrhaphy
 cholecystenterostomy
-cholecystgastrostomy
 cholecystic
 cholecystis
 cholecystitis
