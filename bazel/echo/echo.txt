@@ -9795,6 +9795,7 @@ eucleid
 espieglerie
 espiegleries
 espies
+extensionless
 espigle
 edulcorated
 euryon
@@ -13548,7 +13549,6 @@ extensile
 extensionalism
 extensionality
 engagedness
-extensionless
 extensions
 extensity
 endorsements
