@@ -1080,6 +1080,7 @@ farmery
 filigraned
 farmeries
 farmerish
+fabricable
 farmerly
 farmerlike
 farmership
@@ -7280,7 +7281,6 @@ footwarmer
 footwear
 floodmark
 fumiferous
-fabricable
 fuliginous
 firefly
 footweary
