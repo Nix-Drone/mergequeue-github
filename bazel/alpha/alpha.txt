@@ -216,7 +216,6 @@ abscision
 abbott
 abbozzo
 abbr
-abbrev
 abbreviatable
 abbreviate
 abbreviated
@@ -19951,6 +19950,7 @@ accessable
 armilla
 armillae
 armillary
+abbrev
 armillaria
 annist
 armillas
