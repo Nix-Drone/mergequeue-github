@@ -14504,7 +14504,6 @@ cirmcumferential
 cirque
 cirques
 cirrate
-cirrated
 compounds
 cirratulidae
 cirratulus
@@ -24691,6 +24690,7 @@ coprecipitated
 coprecipitating
 copremias
 copremic
+cirrated
 copresbyter
 copresence
 coprides
