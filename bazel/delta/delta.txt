@@ -3492,7 +3492,6 @@ defoliage
 defoliant
 dorsobranchiata
 defoliants
-defoliate
 defoliates
 defoliating
 defoliation
@@ -5566,6 +5565,7 @@ dep
 depaganize
 depainted
 depainting
+defoliate
 depayse
 depancreatization
 depardieu
