@@ -6376,7 +6376,6 @@ ensete
 enshade
 enshawl
 ensheath
-ensheathe
 ensheathed
 embiotocid
 ensheathing
@@ -10151,6 +10150,7 @@ esmeraldite
 etched
 etcher
 etchers
+ensheathe
 etching
 esodic
 electrotest
