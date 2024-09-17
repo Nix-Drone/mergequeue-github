@@ -3626,7 +3626,6 @@ babesiasis
 bathyplankton
 buglers
 baygall
-bathyscaph
 bathyscaphes
 bathyseism
 bathysmal
@@ -7795,6 +7794,7 @@ bhojpuri
 brim
 busboy
 bhokra
+bathyscaph
 brogans
 bhoosa
 blennioid
