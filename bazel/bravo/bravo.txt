@@ -5302,7 +5302,6 @@ begladding
 beglare
 beglerbeg
 beglerbeglic
-beglerbeglik
 bags
 bakalai
 bogwood
@@ -8894,6 +8893,7 @@ bellarmine
 binode
 binodose
 battery
+beglerbeglik
 binomen
 balsamiferous
 binomenclature
