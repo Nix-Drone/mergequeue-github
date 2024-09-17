@@ -3887,6 +3887,7 @@ emf
 emulator
 emforth
 emic
+excitosecretory
 emicant
 emicate
 emication
@@ -12052,7 +12053,6 @@ excitonic
 excitons
 excitonutrient
 excitor
-excitosecretory
 excitovascular
 excitron
 exclaimed
