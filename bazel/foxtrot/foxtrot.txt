@@ -4502,7 +4502,6 @@ fisticuffery
 fistiness
 fisting
 fistinut
-fistlike
 fistmele
 forecounsel
 fistnotes
@@ -5543,6 +5542,7 @@ flyboat
 flyboats
 flybrush
 felsophyre
+fistlike
 filesave
 flatulences
 firefight
