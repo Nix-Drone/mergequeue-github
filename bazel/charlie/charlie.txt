@@ -9964,7 +9964,6 @@ chemotrophic
 chemotropic
 chemotropically
 chemotropism
-chempaduk
 chemurgic
 chemurgical
 chemurgies
@@ -14242,6 +14241,7 @@ circulator
 centenar
 circulatory
 circulators
+chempaduk
 circulet
 caslon
 circulin
