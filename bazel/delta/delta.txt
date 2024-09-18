@@ -2474,7 +2474,6 @@ deckhouse
 deckle
 deckman
 deckpipe
-decks
 dulls
 deckswabber
 decl
@@ -2693,6 +2692,7 @@ deconcentration
 discomorula
 deconcentrator
 decondition
+decks
 devilizing
 decongest
 decongestant
