@@ -12523,7 +12523,6 @@ anemopsis
 anemoscope
 afront
 anemoses
-anemosis
 anemotaxis
 anemotropism
 anencephaly
@@ -15355,6 +15354,7 @@ azulejo
 antihydrophobic
 autogiro
 antihydropic
+anemosis
 ambitionlessly
 antihydropin
 antihidrotic
