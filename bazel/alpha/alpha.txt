@@ -274,7 +274,6 @@ abdominohysterotomy
 abdominoposterior
 abdominoscopy
 agas
-abdominothoracic
 abdominous
 abdominovaginal
 abdominovesical
@@ -3836,6 +3835,7 @@ adiamorphism
 adiantiform
 adeniform
 adiantum
+abdominothoracic
 angelizing
 adiaphanous
 adiaphon
