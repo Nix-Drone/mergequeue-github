@@ -15866,7 +15866,6 @@ clearsightedness
 clearskins
 clearstarcher
 clearstory
-clearstoried
 clearstories
 clearwater
 clearweed
@@ -27027,6 +27026,7 @@ counterreply
 counterreplied
 clypeastroida
 counterreplies
+clearstoried
 cryophorus
 counterreplying
 counterreprisal
