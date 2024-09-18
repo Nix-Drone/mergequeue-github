@@ -5660,7 +5660,6 @@ drugstore
 depermed
 deperms
 depersonalise
-disapproval
 depersonalising
 depersonalization
 depersonalized
@@ -7527,6 +7526,7 @@ devas
 devast
 dird
 devastates
+disapproval
 devastating
 devastatingly
 dewax
