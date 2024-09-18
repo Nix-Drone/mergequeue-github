@@ -1104,6 +1104,7 @@ calcrete
 calcsinter
 calcspar
 calcspars
+consignificate
 calctufas
 calctuff
 calculability
@@ -3375,7 +3376,6 @@ capstans
 capstone
 capsula
 coached
-consignificate
 capsular
 capsulated
 capsulation

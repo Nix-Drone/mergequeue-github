@@ -1193,7 +1193,6 @@ dataries
 dataset
 datasetname
 datasets
-datatype
 datatypes
 datcha
 dynamometry
@@ -14127,6 +14126,7 @@ ditched
 ditchers
 deathwards
 disproportionably
+datatype
 derivatist
 ditchless
 ditchside
