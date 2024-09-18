@@ -101,6 +101,7 @@ faciata
 fantoms
 faciation
 forequoted
+fibbing
 facie
 freeport
 fibroelastic
@@ -3057,7 +3058,6 @@ fib
 fencibles
 fibbery
 fibbers
-fibbing
 fiber
 fiberboard
 fibered
