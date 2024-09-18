@@ -20975,7 +20975,6 @@ ascidiferous
 ascidiform
 ascidioid
 ascidioida
-ascidioidea
 ascidiozoa
 ascidiozooid
 ascidium
@@ -22835,6 +22834,7 @@ amphineura
 atrail
 atrament
 atramental
+ascidioidea
 atramentary
 armet
 atramentous
