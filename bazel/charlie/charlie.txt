@@ -2692,7 +2692,6 @@ canonical
 cortically
 canonicalization
 canonicalize
-canonicalized
 canonicalizes
 canonicalizing
 circumventive
@@ -21547,6 +21546,7 @@ concussing
 cosounding
 concussional
 cribbled
+canonicalized
 crowners
 concussions
 concussive
