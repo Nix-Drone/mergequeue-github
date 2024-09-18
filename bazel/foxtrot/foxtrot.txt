@@ -4316,7 +4316,6 @@ fylker
 forbearer
 freestone
 firster
-feerie
 forrel
 firsthand
 firstly
@@ -6684,6 +6683,7 @@ foe
 foederati
 foederis
 foeffment
+feerie
 foehn
 foehnlike
 foeish
