@@ -4337,6 +4337,7 @@ en
 enable
 expertising
 exothermic
+excavates
 ectorganism
 encoop
 enabling
@@ -11891,7 +11892,6 @@ expended
 enweaving
 excathedral
 excaudate
-excavates
 engracing
 excavations
 excavator
