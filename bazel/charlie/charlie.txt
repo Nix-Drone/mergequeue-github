@@ -8919,7 +8919,6 @@ characteristicalness
 characteristicness
 characteristics
 characterizable
-characterization
 characterizations
 characterize
 characterizer
@@ -13609,6 +13608,7 @@ ciliolum
 cilioretinal
 corenounce
 cilioscleral
+characterization
 ciliotomy
 cylix
 cyllenian
