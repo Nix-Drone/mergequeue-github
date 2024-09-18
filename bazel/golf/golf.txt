@@ -800,7 +800,6 @@ galvanizers
 gujar
 galvanizes
 galvanizing
-galvanocautery
 galvanocauteries
 galvanofaradization
 galvanoglyph
@@ -5962,6 +5961,7 @@ glottogonist
 gulfs
 glottologic
 glottological
+galvanocautery
 glottologist
 goniometer
 galeres
