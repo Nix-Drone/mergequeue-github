@@ -5350,6 +5350,7 @@ affirms
 affix
 affixable
 affixal
+antipoles
 affixation
 affixed
 affixer
@@ -13069,7 +13070,6 @@ ani
 any
 aniba
 anybody
-antipoles
 anybodyd
 anybodies
 authenticity
