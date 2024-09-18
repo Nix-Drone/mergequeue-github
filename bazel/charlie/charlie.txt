@@ -95,7 +95,6 @@ capellet
 cabeliau
 caber
 cabernet
-cabernets
 clusters
 cabestro
 cabestros
@@ -19435,6 +19434,7 @@ citharoedus
 colour
 colourability
 colourable
+cabernets
 colourably
 cometical
 colouration
