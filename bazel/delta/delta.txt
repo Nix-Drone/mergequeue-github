@@ -5876,7 +5876,6 @@ derive
 depr
 deliberatively
 depravation
-deprave
 divelled
 depraved
 deceptivity
@@ -16512,6 +16511,7 @@ draconid
 draconin
 draconis
 draconites
+deprave
 dracontian
 dracontiasis
 deviascope
