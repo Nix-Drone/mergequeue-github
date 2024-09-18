@@ -554,7 +554,6 @@ fall
 fissirostral
 falla
 fallace
-feltlike
 foretalk
 fidalgo
 flyability
@@ -7046,6 +7045,7 @@ frothing
 fontanelle
 fraenums
 fontanels
+feltlike
 fantastry
 fontange
 fonted
