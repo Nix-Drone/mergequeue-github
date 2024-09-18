@@ -22138,7 +22138,6 @@ confucianism
 confucians
 confucius
 confusability
-confusably
 confused
 confusedly
 confusedness
@@ -29196,6 +29195,7 @@ capybara
 cryptanalyzed
 cryptanalyzing
 cryptarch
+confusably
 communism
 cryptarchy
 crypted

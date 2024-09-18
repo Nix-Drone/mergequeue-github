@@ -6870,7 +6870,6 @@ despatcher
 despatches
 despatching
 despecialization
-dispute
 despecialize
 despecificate
 despecification
@@ -13549,6 +13548,7 @@ disserviceably
 disservices
 dissettle
 dissettlement
+dispute
 dissever
 disseverance
 disseveration
