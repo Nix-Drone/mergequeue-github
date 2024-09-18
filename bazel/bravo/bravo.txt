@@ -3627,7 +3627,6 @@ bathyplankton
 buglers
 baygall
 bathyscaph
-bathyscaphes
 bathyseism
 bathysmal
 bomarea
@@ -7069,6 +7068,7 @@ besmoke
 besmoked
 besmokes
 besmoking
+bathyscaphes
 besmooth
 barbarian
 besmoothed
