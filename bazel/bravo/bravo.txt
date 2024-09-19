@@ -6551,7 +6551,6 @@ bephilter
 bephrase
 big
 bepicture
-bepiece
 bellyflaught
 bepierce
 bepile
@@ -10117,6 +10116,7 @@ blackflies
 bibasic
 bassing
 blackfriars
+bepiece
 blackguard
 bos
 blackguardize
