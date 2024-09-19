@@ -11319,7 +11319,6 @@ chlorodize
 chlorodized
 chlorodizing
 chloroethene
-chloroethylene
 chlorofluorocarbon
 chloroformate
 chloroformed
@@ -19723,6 +19722,7 @@ combure
 comburent
 comburgess
 comburimeter
+chloroethylene
 comburivorous
 combust
 combusted
