@@ -2810,7 +2810,6 @@ gestures
 genio
 genioglossal
 globoids
-genioglossi
 genioglossus
 geniohyoglossal
 gapers
@@ -5609,6 +5608,7 @@ glissader
 gadean
 glissades
 glissandi
+genioglossi
 glissando
 gompholobium
 gleyde
