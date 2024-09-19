@@ -8381,7 +8381,6 @@ chalking
 chalklike
 chalkline
 chalkone
-chalkos
 chalkosideric
 chalkotheke
 chalkpit
@@ -28355,6 +28354,7 @@ crureus
 creaks
 cream
 creambush
+chalkos
 creamcake
 creamcup
 creamcups
