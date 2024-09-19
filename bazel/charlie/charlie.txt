@@ -11287,7 +11287,6 @@ culicid
 chlorize
 chlormethane
 chlormethylic
-chlornal
 chloro
 chloroacetic
 chloroacetone
@@ -22724,6 +22723,7 @@ consanguineously
 consanguinity
 consanguinities
 consarn
+chlornal
 conscience
 conscienceless
 chati
