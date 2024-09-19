@@ -13131,6 +13131,7 @@ animadverts
 anthochlor
 animala
 alterant
+applicatory
 animalculae
 animalcular
 animalcule
@@ -17844,7 +17845,6 @@ application
 applications
 applicative
 applicatively
-applicatory
 applicatorily
 applicators
 appliedly
