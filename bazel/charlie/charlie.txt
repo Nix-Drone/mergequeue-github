@@ -3856,7 +3856,6 @@ carburised
 carburiser
 carburization
 carburize
-carburized
 carburizer
 carburizes
 carburizing
@@ -21643,6 +21642,7 @@ condylos
 condylotomy
 condylure
 cervicoaxillary
+carburized
 condiment
 condimental
 condimentary
