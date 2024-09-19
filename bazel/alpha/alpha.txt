@@ -10930,7 +10930,6 @@ amortissement
 amortisseur
 amortizable
 amortization
-amortized
 amortizement
 amortizes
 angiothlipsis
@@ -15209,6 +15208,7 @@ antierysipelas
 awash
 antierosion
 antierosive
+amortized
 antiestablishment
 antiethnic
 antieugenic
