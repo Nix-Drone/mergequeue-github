@@ -4063,6 +4063,7 @@ babul
 beadleship
 beadlet
 beadman
+blksize
 beadmen
 billjim
 beadroll
@@ -10952,7 +10953,6 @@ bankrupted
 burgess
 blizzardous
 blk
-blksize
 bunts
 blo
 bloat
