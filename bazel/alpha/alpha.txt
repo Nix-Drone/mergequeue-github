@@ -7634,7 +7634,6 @@ alcohate
 alcohol
 alcoholate
 alcoholature
-alcoholdom
 alcoholemia
 alcoholic
 alcoholically
@@ -8838,6 +8837,7 @@ adjustments
 acrogenic
 alloys
 alloisomer
+alcoholdom
 alloisomeric
 alloisomerism
 allokinetic
