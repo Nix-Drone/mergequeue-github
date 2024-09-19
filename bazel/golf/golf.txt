@@ -3006,7 +3006,6 @@ geo
 geoagronomic
 geobiont
 geoblast
-geobotany
 galivant
 geobotanic
 goitre
@@ -5799,6 +5798,7 @@ gloppy
 gaudful
 glor
 glore
+geobotany
 glory
 gloriana
 gomarite
