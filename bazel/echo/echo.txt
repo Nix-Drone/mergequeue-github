@@ -1227,7 +1227,6 @@ educatable
 educate
 evitate
 educated
-educatedly
 educatedness
 enuresis
 educating
@@ -5346,6 +5345,7 @@ endostoma
 engrossing
 endostosis
 endostraca
+educatedly
 endostracum
 enteromycosis
 endosulfan
