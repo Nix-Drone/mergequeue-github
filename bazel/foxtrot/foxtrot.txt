@@ -1524,6 +1524,7 @@ faultfind
 faultfinder
 faultfinders
 faultfinding
+fastigia
 fervescent
 faultful
 faultfully
@@ -5832,7 +5833,6 @@ flobby
 forswat
 forcedness
 fraternate
-fastigia
 fname
 floccillation
 floccipend
