@@ -2396,6 +2396,7 @@ ballooned
 barbero
 barberry
 bluestone
+belt
 benzoles
 bubaline
 barbershops
@@ -10593,7 +10594,6 @@ bleakness
 bleaks
 bleared
 blearedness
-belt
 bleary
 blearyeyedness
 blearier
