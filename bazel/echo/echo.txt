@@ -6536,7 +6536,6 @@ entail
 entailable
 esophagectomy
 entailed
-entailer
 eggy
 entailments
 entails
@@ -11346,6 +11345,7 @@ evanish
 evanished
 expirable
 evanishes
+entailer
 enterostenosis
 excruciated
 evanishing
