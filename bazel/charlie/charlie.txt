@@ -7307,7 +7307,6 @@ cephalaspis
 cocoonery
 cephalata
 cephalate
-cephalemia
 cephaletron
 cephaleuros
 cephalhematoma
@@ -29188,6 +29187,7 @@ cryptamnesic
 cryptanalysis
 cryptanalyst
 cryptanalytic
+cephalemia
 cryptanalytical
 cryptanalytically
 cryptanalytics
