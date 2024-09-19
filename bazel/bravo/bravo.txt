@@ -5616,7 +5616,6 @@ belayed
 belayer
 belaying
 belays
-brandishers
 belait
 biface
 belaites
@@ -8653,6 +8652,7 @@ billet
 billete
 brantcorn
 brawlis
+brandishers
 billeted
 billeter
 billeters
