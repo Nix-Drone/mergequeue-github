@@ -2937,7 +2937,6 @@ canun
 canvas
 canvasado
 canvasback
-canvasbacks
 canvasers
 canvases
 canvasing
@@ -6915,6 +6914,7 @@ cenaculum
 cenanthy
 cecily
 cenanthous
+canvasbacks
 cenation
 cencerro
 cencerros
