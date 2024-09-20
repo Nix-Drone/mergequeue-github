@@ -4942,7 +4942,6 @@ emptional
 endangeitis
 endanger
 endangering
-endangerment
 endangerments
 endangitis
 endangium
@@ -13906,6 +13905,7 @@ electrolytical
 extraovate
 ergamine
 expellant
+endangerment
 epistomata
 enseat
 extraovular
