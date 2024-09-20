@@ -7519,7 +7519,6 @@ devalue
 devalued
 devalues
 devaluing
-devanagari
 devance
 devaporation
 devaraja
@@ -11400,6 +11399,7 @@ disclosures
 discloud
 disclout
 disclusion
+devanagari
 dislimb
 discoactine
 documentation
