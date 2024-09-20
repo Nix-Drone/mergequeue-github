@@ -5266,6 +5266,7 @@ beggary
 beggaring
 beggarism
 bicrescentic
+boxlike
 beggarly
 beggarlice
 birdlet
@@ -13870,7 +13871,6 @@ boxiana
 boxier
 boxing
 boxkeeper
-boxlike
 boxmaker
 bicycloheptane
 boxman
