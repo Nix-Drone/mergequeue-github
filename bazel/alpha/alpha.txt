@@ -8679,7 +8679,6 @@ alliance
 amidships
 accoast
 alliances
-acromioscapular
 alliant
 alliaria
 allicampane
@@ -25267,6 +25266,7 @@ azimin
 azimino
 aziminobenzene
 azymite
+acromioscapular
 azymous
 apostume
 azimuth
