@@ -763,7 +763,6 @@ aboveproof
 aboves
 abovesaid
 abovestairs
-abow
 abox
 abrachia
 abradable
@@ -18514,6 +18513,7 @@ ararauna
 araroba
 ararobas
 arase
+abow
 aragonite
 arati
 austringer
