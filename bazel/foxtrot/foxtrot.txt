@@ -5833,7 +5833,6 @@ forswat
 forcedness
 fraternate
 fastigia
-fname
 floccillation
 floccipend
 freeloader
@@ -8904,6 +8903,7 @@ featureless
 foster
 fordeal
 fosterage
+fname
 fostered
 fosterer
 footstone
