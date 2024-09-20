@@ -7909,6 +7909,7 @@ bohmite
 biblic
 bipunctal
 biblical
+blackman
 biblicality
 biblically
 biblicism
@@ -10166,7 +10167,6 @@ blackmailed
 blackmailer
 blackmailers
 blackmailing
-blackman
 blackneck
 blackness
 bebump
