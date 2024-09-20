@@ -2953,7 +2953,6 @@ feuillage
 foreshows
 feuillemorte
 feuillet
-feuilleton
 feuilletonist
 feuilletonistic
 feuilletons
@@ -9954,6 +9953,7 @@ friary
 friarly
 friarling
 friation
+feuilleton
 frib
 flirts
 fribble
