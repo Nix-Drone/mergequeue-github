@@ -1091,6 +1091,7 @@ edger
 edgers
 edges
 edgeshot
+embull
 evaluate
 edgeway
 edgeways
@@ -3765,7 +3766,6 @@ exogenism
 encyclopedize
 embulk
 expecters
-embull
 embus
 embush
 eyeleting
