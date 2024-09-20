@@ -2164,7 +2164,6 @@ bannerets
 bannerfish
 beduke
 bannerless
-bannerlike
 bannerline
 bannerman
 bannermen
@@ -2702,6 +2701,7 @@ barkiest
 barking
 barkingly
 barkinji
+bannerlike
 barkless
 barklyite
 barkometer
