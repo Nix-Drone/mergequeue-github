@@ -8438,7 +8438,6 @@ bigthatch
 biguanide
 biguttulate
 bigwig
-bigwigged
 bigwiggedness
 bigwiggery
 bigwiggism
@@ -12979,6 +12978,7 @@ branchedness
 borean
 boreas
 borecole
+bigwigged
 borecoles
 bored
 boredoms
