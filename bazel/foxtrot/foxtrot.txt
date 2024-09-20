@@ -5764,7 +5764,6 @@ ferrochrome
 flytraps
 flitted
 felsite
-flitterbat
 flittered
 flittering
 fecund
@@ -6904,6 +6903,7 @@ folkcraft
 folkfree
 folky
 folkish
+flitterbat
 forepredicament
 folkishness
 folklike
