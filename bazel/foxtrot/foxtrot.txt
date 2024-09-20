@@ -662,7 +662,6 @@ falx
 fringefoot
 fam
 famacide
-famble
 fisheries
 fame
 frill
@@ -11511,6 +11510,7 @@ foredid
 flixweed
 fursemide
 foreglimpse
+famble
 furstone
 falcunculus
 foresightedly
