@@ -16475,7 +16475,6 @@ clocker
 clockface
 clockhouse
 clocking
-clockings
 clockkeeper
 clockless
 cuon
@@ -31708,6 +31707,7 @@ cussedness
 cusser
 cusses
 castilian
+clockings
 cussing
 cussos
 cusswords
