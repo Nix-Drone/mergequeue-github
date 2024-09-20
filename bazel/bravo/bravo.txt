@@ -3408,7 +3408,6 @@ baculum
 bassalian
 bassan
 bicarbonate
-bassanite
 bassara
 bassariscus
 bassarisk
@@ -8895,6 +8894,7 @@ binode
 binodose
 battery
 binomen
+bassanite
 balsamiferous
 binomenclature
 binomy
