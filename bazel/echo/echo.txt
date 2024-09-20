@@ -2626,7 +2626,6 @@ electroshock
 electroshocks
 electrosynthesis
 electrosynthetically
-envenoms
 electrosmosis
 electrostatic
 electrostatical
@@ -5833,6 +5832,7 @@ engrossed
 engrossedly
 engrosser
 engrossers
+envenoms
 epistolization
 eduction
 engrossingness
