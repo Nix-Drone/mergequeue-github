@@ -596,7 +596,6 @@ caelometer
 caelum
 caelus
 caenogaea
-caenogaean
 cresson
 caenogenesis
 coderives
@@ -23471,6 +23470,7 @@ conterminal
 conterminant
 conterminous
 conterminously
+caenogaean
 coverslut
 conterminousness
 conterraneous

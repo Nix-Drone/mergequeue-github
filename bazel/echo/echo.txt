@@ -334,6 +334,7 @@ ebbman
 ebbs
 ebcasc
 enterosyphilis
+endamageable
 ebcd
 ebcdic
 ebdomade
@@ -4920,7 +4921,6 @@ encushion
 end
 endable
 endamage
-endamageable
 endamagement
 endamages
 endamaging
