@@ -10098,7 +10098,6 @@ cheskey
 choices
 cheskeys
 cheslep
-chesoun
 chess
 chessart
 chessboard
@@ -30924,6 +30923,7 @@ cumarins
 cumarone
 cumaru
 cumber
+chesoun
 consumptiveness
 clacked
 cumbered
