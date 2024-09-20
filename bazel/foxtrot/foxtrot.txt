@@ -2215,7 +2215,6 @@ flancard
 fels
 felsites
 felsobanyite
-foretypified
 felspars
 friendlily
 felspath
@@ -5954,6 +5953,7 @@ floorway
 fluidrachm
 floorward
 furniment
+foretypified
 forgivingly
 floorwise
 floosy
