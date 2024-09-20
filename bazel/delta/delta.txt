@@ -9628,7 +9628,6 @@ dispersedelement
 dikaryon
 dikaryophase
 delignated
-dikaryophasic
 dikaryophyte
 dikaryophytic
 dikaryotic
@@ -13100,6 +13099,7 @@ displaced
 displacement
 displacements
 diminuted
+dikaryophasic
 displacing
 display
 displayable
