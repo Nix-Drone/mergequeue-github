@@ -5016,7 +5016,6 @@ flapping
 flywire
 feckless
 feud
-fuligo
 flaps
 flare
 flareback
@@ -5468,6 +5467,7 @@ fleshling
 fleshmonger
 fleshpot
 fleshquake
+fuligo
 flet
 flagfall
 fleta
