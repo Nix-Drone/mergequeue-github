@@ -679,7 +679,6 @@ bacteriostat
 bacteriostatically
 bacteriotherapeutic
 bacteriotherapy
-balanophorin
 bacteriotoxic
 bechances
 bacteriotoxin
@@ -6414,6 +6413,7 @@ benzenes
 benzenyl
 benzenoid
 billsticking
+balanophorin
 belittlers
 benzidine
 bladed
