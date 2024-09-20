@@ -2613,7 +2613,6 @@ bariatrics
 baric
 barycenter
 bemused
-barycentric
 burmite
 barid
 barie
@@ -5292,6 +5291,7 @@ begird
 broadsheet
 begirded
 begirding
+barycentric
 begirdled
 begirdles
 begirdling
