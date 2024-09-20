@@ -5460,6 +5460,7 @@ fleshings
 formatters
 fanjets
 fleshless
+freightless
 fleshlier
 fleshliest
 failingly
@@ -9510,7 +9511,6 @@ foamingly
 ferfet
 foreseers
 frontoparietal
-freightless
 frasier
 frass
 frasse
