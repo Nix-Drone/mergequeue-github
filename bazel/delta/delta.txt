@@ -5529,6 +5529,7 @@ deorganize
 deorientalize
 deorsum
 deorsumvergence
+droppage
 deorsumversion
 deorusumduction
 deossify
@@ -17404,7 +17405,6 @@ dropmeal
 dropout
 dolce
 dinitrobenzene
-droppage
 dropped
 diphenol
 dropperful
