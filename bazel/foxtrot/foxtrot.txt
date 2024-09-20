@@ -5590,7 +5590,6 @@ feoffment
 fissural
 fligged
 fligger
-feodum
 flight
 flighted
 flighter
@@ -7228,6 +7227,7 @@ footpad
 footpads
 fibs
 footpath
+feodum
 footpaths
 fatidic
 footplate
