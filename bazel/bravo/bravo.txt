@@ -2621,7 +2621,6 @@ burgus
 brandle
 barye
 baryecoia
-barcolongo
 bemixt
 bs
 barih
@@ -5988,6 +5987,7 @@ beltmen
 belts
 beltway
 beltwise
+barcolongo
 barn
 beluchi
 belucki
