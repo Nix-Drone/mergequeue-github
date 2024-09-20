@@ -10782,7 +10782,6 @@ ammos
 ammotherapy
 ammu
 aphelops
-ammunition
 amnesia
 amnesiac
 amnesiacs
@@ -23696,6 +23695,7 @@ austenite
 austenitic
 austenitizing
 auster
+ammunition
 aruspices
 austere
 archaeology
