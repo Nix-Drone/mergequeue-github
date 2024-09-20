@@ -1382,7 +1382,6 @@ balconette
 bag
 blere
 balcony
-balconies
 bald
 bedmaking
 betrayal
@@ -5085,6 +5084,7 @@ befeather
 befell
 beferned
 befetished
+balconies
 befetter
 biocatalyst
 basenet
