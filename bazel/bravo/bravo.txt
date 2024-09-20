@@ -4657,7 +4657,6 @@ bratstva
 bedclothing
 bedcord
 byplays
-bedcovers
 beddable
 bedders
 bedding
@@ -10327,6 +10326,7 @@ blandness
 blank
 blankard
 blankbook
+bedcovers
 biopoesis
 burgrave
 bandar
