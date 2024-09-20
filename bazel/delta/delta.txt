@@ -1742,7 +1742,6 @@ dodecuplet
 demagnetisable
 debarked
 debarking
-debarkment
 debarks
 debarment
 debarrance
@@ -4027,6 +4026,7 @@ domiculture
 delegalized
 delegalizing
 delegant
+debarkment
 dependants
 delegare
 delegate
