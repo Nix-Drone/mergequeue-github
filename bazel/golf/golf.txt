@@ -1227,7 +1227,6 @@ ganoids
 gasterophilus
 ganoine
 ganomalite
-ganosis
 geometrical
 gansa
 gondite
@@ -2355,6 +2354,7 @@ geiger
 gangrel
 gemsboks
 glede
+ganosis
 gantryman
 glunched
 giust
