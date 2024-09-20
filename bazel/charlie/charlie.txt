@@ -10245,7 +10245,6 @@ chiaroscuro
 chiaroscuros
 chias
 chiasm
-chiasma
 chiasmal
 chiasmas
 chiasmata
@@ -24883,6 +24882,7 @@ corallorhiza
 corallum
 corallus
 coralroot
+chiasma
 corals
 coram
 corambis
