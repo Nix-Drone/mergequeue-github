@@ -496,7 +496,6 @@ backspang
 backspear
 backspeir
 backspier
-backspierer
 backspin
 backspins
 backsplicing
@@ -17396,6 +17395,7 @@ branky
 boardmen
 bundler
 bona
+backspierer
 bundlerooted
 bundlers
 bundles
