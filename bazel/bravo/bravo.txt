@@ -3011,7 +3011,6 @@ barrico
 barricoes
 barrier
 barriers
-barriguda
 barrigudos
 broadaxe
 barrikin
@@ -3119,6 +3118,7 @@ basalts
 basaltware
 blenny
 basaree
+barriguda
 basat
 bascinet
 bascology
