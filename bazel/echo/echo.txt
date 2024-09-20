@@ -2601,7 +2601,6 @@ electropower
 electropsychrometer
 egotisticalness
 electropult
-electropuncturation
 electropuncture
 electroreceptive
 electroreduction
@@ -4089,6 +4088,7 @@ empestic
 empetraceous
 empetrum
 empexa
+electropuncturation
 emphase
 emphasised
 emphasize
