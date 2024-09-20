@@ -5129,7 +5129,6 @@ cashiered
 cashierer
 cashiering
 cashierment
-cashkeeper
 cashmere
 cashmeres
 cashmirian
@@ -26644,6 +26643,7 @@ catagories
 counteraffirmation
 counteragency
 counteragent
+cashkeeper
 counteragitate
 counteragitation
 counteralliance
