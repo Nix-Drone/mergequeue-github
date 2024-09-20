@@ -8657,6 +8657,7 @@ fields
 forswears
 fort
 fortake
+foreright
 fenceful
 flense
 fortaxed
@@ -9912,7 +9913,6 @@ fresno
 fress
 forstraught
 fretfully
-foreright
 fallibleness
 fretish
 farrows
