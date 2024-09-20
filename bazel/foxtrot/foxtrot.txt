@@ -5076,6 +5076,7 @@ fructure
 flashtube
 flashtubes
 fusobteria
+fusilades
 fanterie
 flask
 ferricyanhydric
@@ -11586,7 +11587,6 @@ fusiform
 fusil
 fusilade
 fusiladed
-fusilades
 flavedos
 fusilading
 fusile
