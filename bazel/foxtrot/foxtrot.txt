@@ -4423,7 +4423,6 @@ fishspear
 fishtail
 fishtailed
 flether
-fishtails
 fishway
 fishways
 fishweed
@@ -10880,6 +10879,7 @@ fulful
 fulfulde
 fulfullment
 fistulariidae
+fishtails
 fishpool
 fulgence
 ferrimagnetism
