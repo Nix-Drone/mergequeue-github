@@ -5374,7 +5374,6 @@ glenoidal
 glent
 gedrite
 glenwood
-glew
 guitarfish
 gliadine
 geomedicine
@@ -9247,6 +9246,7 @@ grobianism
 grocer
 groceress
 grot
+glew
 gourmandise
 gat
 groceries
