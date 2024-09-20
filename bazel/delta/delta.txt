@@ -16837,6 +16837,7 @@ drawhead
 drawing
 drawings
 drawknives
+dextrane
 drawknot
 deliquescent
 drawlatch
@@ -17560,7 +17561,6 @@ drugman
 drugs
 demoniacal
 drugstores
-dextrane
 druid
 druidess
 druidic
