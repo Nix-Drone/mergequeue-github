@@ -7342,6 +7342,7 @@ cephalocone
 cephaloconic
 cephalodia
 cephalodymia
+criticalness
 cephalodymus
 cephalodiscid
 cephalodiscida
@@ -29524,7 +29525,6 @@ critic
 critical
 criticality
 critically
-criticalness
 criticaster
 criticasterism
 criticastry
