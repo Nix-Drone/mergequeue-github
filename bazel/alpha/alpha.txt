@@ -20027,7 +20027,6 @@ armplate
 armrack
 aniline
 armrest
-armrests
 arms
 armscye
 avarice
@@ -24632,6 +24631,7 @@ aventayle
 aventails
 aventine
 aventre
+armrests
 aventure
 aventurin
 absumption
