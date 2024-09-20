@@ -11723,7 +11723,6 @@ analysable
 analysand
 analysation
 analyser
-analysers
 addressee
 analyses
 analysing
@@ -16632,6 +16631,7 @@ aortographic
 augelite
 aortoiliac
 amurcous
+analysers
 aortomalacia
 aortomalaxis
 aortopathy
