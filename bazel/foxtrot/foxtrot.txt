@@ -4402,6 +4402,7 @@ fishlike
 furlough
 fishline
 fishlines
+fusionless
 frondage
 fishling
 fishman
@@ -11615,7 +11616,6 @@ fusional
 fenestra
 fusionism
 fusionist
-fusionless
 fusions
 fusobacteria
 fusobacterium
