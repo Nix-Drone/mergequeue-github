@@ -1974,7 +1974,6 @@ bandmaster
 bandmasters
 bando
 bandobust
-bandog
 bandogs
 bonfire
 bandoleer
@@ -9956,6 +9955,7 @@ bivariant
 bivariate
 bivascular
 binodous
+bandog
 bivector
 biventer
 bayonetting
