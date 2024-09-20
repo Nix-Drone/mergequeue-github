@@ -5627,6 +5627,7 @@ eastwards
 enforth
 enfoul
 enfoulder
+episcopization
 enfrai
 enframe
 enframed
@@ -8186,7 +8187,6 @@ ern
 episcopature
 engyscope
 episcopised
-episcopization
 episcopize
 episcopized
 episcopizing
