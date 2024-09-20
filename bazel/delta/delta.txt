@@ -1714,6 +1714,7 @@ deathsman
 deathsmen
 depaysee
 deathtime
+dialogize
 deathtrap
 deathtraps
 deathward
@@ -8384,7 +8385,6 @@ dialogist
 dialogistical
 dialogite
 departements
-dialogize
 decouple
 divia
 dialogized
