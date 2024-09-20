@@ -1899,7 +1899,6 @@ debtful
 debtless
 debtor
 debtors
-debugger
 debuggers
 desilverized
 debugs
@@ -10818,6 +10817,7 @@ direness
 direnesses
 demophil
 desiring
+debugger
 diletant
 digit
 direption
