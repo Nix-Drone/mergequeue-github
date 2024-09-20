@@ -4440,7 +4440,6 @@ carnaria
 carnassial
 carnate
 carnation
-carnationed
 carnationist
 carnations
 carnauba
@@ -23958,6 +23957,7 @@ convalescence
 convalescently
 convalescents
 convalesces
+carnationed
 convalescing
 convallaria
 convallariaceae
