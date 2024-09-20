@@ -100,7 +100,6 @@ facias
 faciata
 fantoms
 faciation
-forequoted
 facie
 freeport
 fibroelastic
@@ -11753,6 +11752,7 @@ firestopping
 fertilitate
 fuzziness
 flacianism
+forequoted
 frowzled
 forestem
 foo
