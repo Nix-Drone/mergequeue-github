@@ -2098,6 +2098,7 @@ basti
 bankcard
 blossomhead
 bankcards
+blastemas
 banked
 banker
 bankerdom
@@ -11888,7 +11889,6 @@ boggin
 bogginess
 bercelet
 boggle
-blastemas
 bogglebo
 boggled
 boggler
