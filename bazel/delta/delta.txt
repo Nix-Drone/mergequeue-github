@@ -1178,7 +1178,6 @@ datably
 datacell
 datafile
 dataflow
-datagram
 datagrams
 deescalating
 datakit
@@ -6090,6 +6089,7 @@ deradelphus
 deradenitis
 deradenoncus
 derah
+datagram
 deray
 deraigned
 deraigning
