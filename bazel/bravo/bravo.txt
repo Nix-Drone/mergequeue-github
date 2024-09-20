@@ -6199,7 +6199,6 @@ brookie
 benefaction
 benefactive
 benefactor
-benefactors
 bhikhari
 benefactress
 benefactresses
@@ -13629,6 +13628,7 @@ broideress
 bourlaw
 bourne
 bournes
+benefactors
 bourns
 bourock
 bourout
