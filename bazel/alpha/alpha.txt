@@ -22751,7 +22751,6 @@ atomerg
 atomy
 atomic
 atomical
-atomically
 atomician
 ahnfeltia
 atomicism
@@ -23596,6 +23595,7 @@ auriflamme
 auriform
 auriga
 aurigal
+atomically
 amethysts
 aurigation
 agrionid
