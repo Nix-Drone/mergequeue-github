@@ -5281,7 +5281,6 @@ entopterygoid
 endorsation
 endorsed
 endorsee
-endorsees
 endere
 endorser
 endorsing
@@ -11301,6 +11300,7 @@ evangelary
 elaeosia
 evangeliary
 evangeliaries
+endorsees
 endorses
 enanthema
 evangeliarium
