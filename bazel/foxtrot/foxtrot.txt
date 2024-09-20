@@ -558,6 +558,7 @@ feltlike
 foretalk
 fidalgo
 flyability
+funguslike
 fallage
 fallals
 fallaway
@@ -11256,7 +11257,6 @@ fungosities
 fungused
 funguses
 fireball
-funguslike
 funic
 fistulae
 funicle
