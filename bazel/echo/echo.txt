@@ -1805,6 +1805,7 @@ eyelid
 eyelids
 engining
 eyeliner
+endamageable
 eatage
 epilogate
 eyeliners
@@ -4920,7 +4921,6 @@ encushion
 end
 endable
 endamage
-endamageable
 endamagement
 endamages
 endamaging
