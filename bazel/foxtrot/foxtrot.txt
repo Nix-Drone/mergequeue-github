@@ -1073,6 +1073,7 @@ fantad
 freshening
 furriners
 farmable
+fishworker
 farmed
 farmer
 farmeress
@@ -4433,7 +4434,6 @@ fishwoman
 fluidly
 fico
 fishwood
-fishworker
 fishworks
 fringilliformes
 fishworm
