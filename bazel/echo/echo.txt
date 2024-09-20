@@ -4961,7 +4961,6 @@ endboard
 endbrains
 enddamaged
 enddamaging
-ende
 energistic
 endearance
 endearedly
@@ -12272,6 +12271,7 @@ epiblastema
 execratively
 execrator
 emusive
+ende
 execrators
 exect
 executable
