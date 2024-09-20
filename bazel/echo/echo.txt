@@ -4743,7 +4743,6 @@ encipherments
 epigean
 enciphers
 encircle
-encircled
 effronted
 encircles
 encyrtid
@@ -8700,6 +8699,7 @@ equinoctially
 equinovarus
 empight
 equinumerally
+encircled
 equinus
 ethrogs
 electrolyzing
