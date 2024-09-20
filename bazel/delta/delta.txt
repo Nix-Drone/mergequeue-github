@@ -1601,6 +1601,7 @@ deallocate
 deallocated
 daunter
 deallocates
+diagonalize
 deallocating
 designating
 deresinize
@@ -8219,7 +8220,6 @@ dele
 diagonal
 diagonalizable
 diagonalization
-diagonalize
 disinteresting
 diagnosing
 diseurs

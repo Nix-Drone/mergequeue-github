@@ -2555,7 +2555,6 @@ engulfment
 electrooptically
 electroori
 elinor
-electroosmosis
 eirenicon
 electroosmotically
 expiatoriness
@@ -5316,6 +5315,7 @@ endosmoses
 endosmosic
 euphoniously
 endosmosis
+electroosmosis
 extremal
 endosmotic
 endosome
