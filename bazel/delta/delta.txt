@@ -5006,7 +5006,6 @@ demount
 demountability
 demounted
 demounting
-demounts
 disgage
 dempster
 dempsters
@@ -6424,6 +6423,7 @@ des
 desaccharification
 desacralization
 desacralize
+demounts
 drizzled
 drugshop
 desagrement
