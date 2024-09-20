@@ -4213,7 +4213,6 @@ fireplace
 fireplaces
 fireplow
 fleeceable
-fireplug
 frieze
 fireplugs
 firepot
@@ -6832,6 +6831,7 @@ folder
 featherpated
 folderols
 folders
+fireplug
 foldy
 flisky
 folding
