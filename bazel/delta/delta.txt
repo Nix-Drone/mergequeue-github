@@ -2658,7 +2658,6 @@ decompiler
 decomponent
 decomponible
 decurved
-decomposability
 decomposable
 decompose
 decomposed
@@ -4392,6 +4391,7 @@ demagnetizing
 durning
 distillates
 demagogy
+decomposability
 dystrophies
 demagogic
 demagogical
