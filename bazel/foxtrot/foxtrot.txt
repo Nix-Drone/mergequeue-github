@@ -4821,7 +4821,6 @@ fitchy
 flagstick
 falconers
 flagworm
-flay
 feridji
 flayed
 fault
@@ -10126,6 +10125,7 @@ fringilloid
 felicify
 firman
 flood
+flay
 fringiness
 frypan
 frypans
