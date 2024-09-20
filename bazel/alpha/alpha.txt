@@ -8981,7 +8981,6 @@ alodialist
 allow
 allowable
 anteport
-allowableness
 allowance
 allowanced
 auricularly
@@ -12474,6 +12473,7 @@ anematize
 anematized
 anematizing
 anemias
+allowableness
 anemic
 anemically
 achetidae
