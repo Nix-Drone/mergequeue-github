@@ -538,6 +538,7 @@ backswimmer
 backsword
 backswording
 bettergates
+bowmen
 backswordman
 bestness
 backswordmen
@@ -13812,7 +13813,6 @@ bowmaker
 bowman
 brambleberries
 bowsman
-bowmen
 bown
 bowne
 bowpot
