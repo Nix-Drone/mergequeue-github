@@ -3563,7 +3563,6 @@ addresser
 addressers
 addresses
 auxetics
-addressful
 addressing
 acanthocephalan
 addressograph
@@ -13144,6 +13143,7 @@ animalian
 animalic
 animalier
 animalillio
+addressful
 arracacia
 animalisation
 animalise
