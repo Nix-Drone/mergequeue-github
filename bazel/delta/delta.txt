@@ -2624,7 +2624,6 @@ dispose
 decolorization
 decolorized
 decolorizer
-decolors
 decolour
 decolouration
 decolouring
@@ -4586,6 +4585,7 @@ demieagle
 demyelinate
 demies
 demifarthing
+decolors
 demifigure
 demiflouncing
 demigardebras
