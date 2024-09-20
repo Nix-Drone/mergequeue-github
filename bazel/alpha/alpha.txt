@@ -10233,6 +10233,7 @@ amenite
 amenity
 antiseption
 amenities
+apothecium
 amenorrhea
 amenorrheal
 amenorrheic
@@ -17500,7 +17501,6 @@ apothece
 apotheces
 apothecia
 apothecial
-apothecium
 autocriticism
 atrede
 aphasiology
