@@ -2462,6 +2462,7 @@ electroimpulse
 electroindustrial
 electroing
 electroionic
+exclude
 enzymology
 electrojet
 electrokinetic
@@ -13302,7 +13303,6 @@ expositional
 expositions
 expositive
 expositively
-exclude
 evestar
 encup
 encratic
