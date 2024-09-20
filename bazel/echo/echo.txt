@@ -2476,7 +2476,6 @@ everydeal
 elephantlike
 electrolysed
 electrolyses
-electrolysing
 electrolysis
 electrolyte
 electrolithotrity
@@ -2802,6 +2801,7 @@ elengely
 eleoblast
 edificant
 eleolite
+electrolysing
 eleomargaric
 eleonorite
 eleoplast
