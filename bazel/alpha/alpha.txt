@@ -4032,7 +4032,6 @@ adjustores
 adjutage
 adjutancies
 adjutant
-adjutants
 adjutantship
 anesthetic
 adjutator
@@ -18456,6 +18455,7 @@ arake
 araks
 araliaceae
 araliaceous
+adjutants
 araliad
 araliaephyllum
 aralie
