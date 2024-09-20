@@ -295,7 +295,6 @@ euphoniousness
 eat
 eagerer
 eatability
-eatable
 eatables
 electrolyzability
 eatberry
@@ -6405,6 +6404,7 @@ embarcation
 ensigncy
 electroplaque
 ensigncies
+eatable
 ensigned
 entranceway
 ensignhood
