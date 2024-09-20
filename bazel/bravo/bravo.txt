@@ -8267,7 +8267,6 @@ bietle
 byeworker
 byeworkman
 bluejoint
-bifaces
 bifacial
 bifara
 bedress
@@ -10600,6 +10599,7 @@ blearier
 bleariest
 brominism
 bleariness
+bifaces
 brabbles
 blearing
 blearness
