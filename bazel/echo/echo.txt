@@ -1688,7 +1688,6 @@ errorful
 egremoigne
 egress
 egresses
-egressing
 estadal
 egressor
 exiler
@@ -8696,6 +8695,7 @@ equine
 exostracize
 equinity
 equinoctial
+egressing
 equinoctially
 equinovarus
 empight
