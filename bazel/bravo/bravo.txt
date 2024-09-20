@@ -10752,7 +10752,6 @@ blepharoncosis
 blepharoncus
 blepharophyma
 blepharoplast
-blepharoplastic
 blepharoplegia
 blepharoptosis
 blepharorrhaphy
@@ -16998,6 +16997,7 @@ bulbourethral
 bulbous
 bulbously
 bulbs
+blepharoplastic
 bulbule
 bulbus
 bulchin
