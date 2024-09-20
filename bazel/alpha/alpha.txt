@@ -20739,6 +20739,7 @@ artiller
 artillery
 avodire
 adjourn
+atua
 artilleryman
 artillerymen
 artilleryship
@@ -23210,7 +23211,6 @@ attune
 attunely
 attunement
 attunes
-atua
 atule
 atumble
 atune
