@@ -849,7 +849,6 @@ balefulness
 baffleplate
 bafflers
 baffles
-breakbones
 baffling
 bafflingly
 burls
@@ -5228,6 +5227,7 @@ bighorn
 bisiliquous
 bicentenary
 bunkmate
+breakbones
 bilingualism
 begarlanded
 ballistocardiographic
