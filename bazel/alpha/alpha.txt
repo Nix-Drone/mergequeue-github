@@ -3571,6 +3571,7 @@ addressor
 addrest
 adds
 addu
+aftercooler
 adduce
 adduceable
 adduced
@@ -5588,7 +5589,6 @@ afterclause
 aftercome
 aftercomer
 aftercoming
-aftercooler
 aftercost
 aftercrop
 aftercure
