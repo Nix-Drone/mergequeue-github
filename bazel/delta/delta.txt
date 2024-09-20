@@ -4598,7 +4598,6 @@ dendrite
 demigod
 demigoddess
 demigods
-demigorge
 demigrate
 demigriffin
 dermochrome
@@ -14664,6 +14663,7 @@ docket
 docketed
 docketing
 dockets
+demigorge
 dockhand
 dockhouse
 dockyard
