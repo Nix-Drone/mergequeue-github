@@ -10089,7 +10089,6 @@ ambrotype
 ambsace
 ambsaces
 ambulacra
-ambulacral
 ambulacrum
 ambulance
 acheilary
@@ -19790,6 +19789,7 @@ aristogenetic
 aristogenic
 aristogenics
 aristoi
+ambulacral
 aristol
 aristolochia
 ankee
