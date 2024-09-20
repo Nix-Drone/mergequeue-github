@@ -9599,7 +9599,6 @@ brangled
 bisected
 bisecting
 bisection
-bisectional
 bisections
 bisector
 bisectors
@@ -13929,6 +13928,7 @@ braceleted
 blander
 basophile
 bracelets
+bisectional
 bracer
 bracery
 bracero
