@@ -2914,7 +2914,6 @@ elflike
 elflock
 easterlies
 elflocks
-elfship
 elfwife
 elfwort
 elhi
@@ -10471,6 +10470,7 @@ ethnologically
 ethnologist
 ethnologists
 ethnomanic
+elfship
 ethnomusicological
 existant
 elytra
