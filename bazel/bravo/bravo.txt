@@ -2835,7 +2835,6 @@ baronets
 baronetship
 barong
 baronga
-barongs
 barony
 bassets
 baronial
@@ -9899,6 +9898,7 @@ bootlickers
 bittock
 bittocks
 budders
+barongs
 bittor
 bitts
 bitubercular
