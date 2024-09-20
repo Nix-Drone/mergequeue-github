@@ -5094,6 +5094,7 @@ caserios
 casern
 caserne
 caserns
+contuses
 cases
 casette
 casettes
@@ -23923,7 +23924,6 @@ conturb
 conturbation
 contuse
 contused
-contuses
 contusing
 contusion
 contusioned
