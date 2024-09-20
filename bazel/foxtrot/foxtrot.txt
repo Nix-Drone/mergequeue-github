@@ -4045,7 +4045,6 @@ finishers
 finishes
 finishing
 finitary
-finite
 finiteness
 fungology
 finites
@@ -5423,6 +5422,7 @@ fleming
 flemish
 flemishes
 fontanges
+finite
 flawlessly
 flus
 flenched
