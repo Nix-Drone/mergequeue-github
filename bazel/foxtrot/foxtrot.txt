@@ -1008,7 +1008,6 @@ forklifts
 fardel
 fardelet
 farding
-fardo
 fards
 fissiparation
 fare
@@ -3456,6 +3455,7 @@ figary
 fight
 figaro
 faster
+fardo
 figbird
 figboy
 fightwite
