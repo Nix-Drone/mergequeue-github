@@ -9263,7 +9263,6 @@ corf
 chastity
 chastities
 chasuble
-chasubled
 chasubles
 chat
 chataka
@@ -12546,6 +12545,7 @@ chromotrope
 chromotropy
 chromotropic
 concepts
+chasubled
 chromotropism
 chromous
 chromoxylograph
