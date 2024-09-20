@@ -13272,7 +13272,6 @@ disputableness
 disputacity
 disputant
 disputants
-disputation
 deflators
 disputations
 disputatious
@@ -16638,6 +16637,7 @@ dragonroot
 dragons
 dragonwort
 dismality
+disputation
 dragoonable
 dragoonade
 dragoonage
