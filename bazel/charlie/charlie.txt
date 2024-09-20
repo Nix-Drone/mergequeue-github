@@ -8879,7 +8879,6 @@ chapters
 chaptrel
 chapwoman
 chaqueta
-char
 conveyability
 chara
 charabanc
@@ -17435,6 +17434,7 @@ cobless
 cobloaf
 chronogrammatical
 cobnut
+char
 castlery
 cobnuts
 cobol
