@@ -9605,7 +9605,6 @@ bisector
 bisectors
 bisectrices
 busybodyness
-bisects
 bisegment
 bisellium
 banalize
@@ -11233,6 +11232,7 @@ blowdown
 bureaucratical
 blower
 blowfish
+bisects
 boodle
 borating
 bristling
