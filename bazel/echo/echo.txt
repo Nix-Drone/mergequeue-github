@@ -3675,7 +3675,6 @@ embryologic
 embryological
 embryologically
 eclampsia
-embryologist
 embryologists
 embryoma
 elects
@@ -6972,6 +6971,7 @@ entosternal
 entosternum
 entosthoblast
 entothorax
+embryologist
 entotympanic
 ebullioscope
 entotrophi
