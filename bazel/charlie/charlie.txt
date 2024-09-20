@@ -6022,7 +6022,6 @@ catskin
 catslide
 catso
 catspaw
-catspaws
 catstane
 catstep
 catstick
@@ -12151,6 +12150,7 @@ chrysalidian
 chrysaline
 chrysalis
 chrysalises
+catspaws
 chrysaloid
 chrysamine
 chrysammic
