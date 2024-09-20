@@ -9578,7 +9578,6 @@ dihedrals
 dihedron
 discipleship
 dihelium
-dihexahedron
 dihybridism
 dihybrids
 dryad
@@ -13565,6 +13564,7 @@ disshroud
 dissidence
 dissidently
 dissiliency
+dihexahedron
 dissilient
 dissilition
 dissyllabic
