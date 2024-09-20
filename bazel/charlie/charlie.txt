@@ -4583,7 +4583,6 @@ conjurership
 carousal
 carousals
 carouse
-caroused
 carousel
 carousels
 carouser
@@ -9557,6 +9556,7 @@ checkpointed
 checkpointing
 checkpoints
 commonize
+caroused
 checkrack
 checkrail
 checkrein
