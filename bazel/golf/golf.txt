@@ -3032,7 +3032,6 @@ geochemists
 geochrony
 geochronology
 geochronological
-geocyclic
 geocline
 griskin
 geococcyx
@@ -3756,6 +3755,7 @@ geoaesthesia
 glops
 ghorkhar
 galwegian
+geocyclic
 gerbe
 ghost
 ghostdom
