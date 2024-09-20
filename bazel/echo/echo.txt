@@ -2793,6 +2793,7 @@ elves
 elenchize
 electrovital
 endamask
+emitted
 epipubic
 epicardium
 elenctical
@@ -3945,7 +3946,6 @@ emissive
 emissivity
 earthquaked
 emissory
-emitted
 emittent
 emitter
 emitting
