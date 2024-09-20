@@ -3916,7 +3916,6 @@ giblets
 giboia
 goyle
 glave
-gibsons
 gibstaff
 gibus
 gibuses
@@ -9935,6 +9934,7 @@ gelasimus
 guardroom
 guards
 guarico
+gibsons
 gatewards
 greased
 guarish
