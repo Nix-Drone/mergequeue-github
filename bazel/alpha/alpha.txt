@@ -2110,7 +2110,6 @@ acetonaphthone
 acetonate
 acetonation
 acetone
-acetonemia
 acetonemic
 acetonic
 acetonyl
@@ -10992,6 +10991,7 @@ ampery
 amperian
 amperometer
 aciduria
+acetonemia
 amperometric
 arteriology
 abstinent
