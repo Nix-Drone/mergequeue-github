@@ -460,7 +460,6 @@ faithfulness
 favoredness
 federates
 fraik
-faithless
 faithlessly
 faithlessness
 faithworthy
@@ -4624,6 +4623,7 @@ fixature
 fixe
 farmsteading
 fixed
+faithless
 foveated
 fennecs
 fructescence
