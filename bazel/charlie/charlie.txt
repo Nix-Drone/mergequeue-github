@@ -27457,6 +27457,7 @@ coverable
 coverages
 coverall
 coveralled
+curt
 coveralls
 coverchief
 cerberean
@@ -31520,7 +31521,6 @@ curst
 curstful
 curstfully
 curstness
-curt
 curtail
 curtailed
 curtailedly
