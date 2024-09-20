@@ -440,6 +440,7 @@ backrush
 backrushes
 backsaws
 backscatter
+biocoenotic
 backscattered
 backscattering
 backscraper
@@ -8961,7 +8962,6 @@ bioclimatologies
 bioclimatologist
 biocoenose
 biocoenoses
-biocoenotic
 biodegradability
 biodegradable
 biodegradation
