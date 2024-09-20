@@ -2969,7 +2969,6 @@ eliminable
 eliminand
 eliminant
 eliminate
-entoplastic
 eliminated
 eliminates
 ellipsometry
@@ -3635,6 +3634,7 @@ embracingness
 embracive
 embraciveg
 embraid
+entoplastic
 embrail
 embranchment
 emeraude
