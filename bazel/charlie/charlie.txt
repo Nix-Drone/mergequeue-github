@@ -15748,7 +15748,6 @@ clavers
 clavi
 chirres
 clavy
-claviature
 clavicembalist
 clavicembalo
 claviceps
@@ -20123,6 +20122,7 @@ commissariats
 commissaries
 commissaryship
 commissars
+claviature
 commission
 commissionaire
 clematis
