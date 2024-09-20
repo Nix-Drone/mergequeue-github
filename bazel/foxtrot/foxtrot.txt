@@ -2635,7 +2635,6 @@ ferromanganese
 ferrometer
 ferronatrite
 ferronickel
-ferrophosphorus
 filicologist
 frustulose
 ferrotype
@@ -4124,6 +4123,7 @@ fireable
 firearm
 firearms
 fireback
+ferrophosphorus
 fumeuses
 favourably
 fireballs
