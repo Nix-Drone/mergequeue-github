@@ -12748,7 +12748,6 @@ boomboxes
 boomdas
 boomed
 boomer
-boomeranged
 boomeranging
 boomers
 boomy
@@ -12944,6 +12943,7 @@ banquettes
 bordello
 bordels
 backpacker
+boomeranged
 border
 bordereau
 bowstaff
