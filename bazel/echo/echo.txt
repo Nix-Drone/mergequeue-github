@@ -6401,7 +6401,6 @@ ensiferi
 encastered
 ensiform
 ensign
-embarcation
 ensigncy
 electroplaque
 ensigncies
@@ -14016,6 +14015,7 @@ es
 extravagance
 extravagances
 extravagancy
+embarcation
 epiphenomena
 extravagant
 extravagantly
