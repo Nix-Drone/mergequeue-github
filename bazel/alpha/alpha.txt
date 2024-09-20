@@ -8579,7 +8579,6 @@ allegoric
 allegorical
 allegorically
 allegories
-archvagabond
 allegorisation
 allegorise
 allegorised
@@ -12526,6 +12525,7 @@ anemoses
 anemosis
 anemotaxis
 anemotropism
+archvagabond
 anencephaly
 anencephalic
 apochromat
