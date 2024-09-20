@@ -1522,7 +1522,6 @@ deadlight
 deadlihead
 deadlily
 deadlines
-deadliness
 deadlock
 deadlocking
 deadman
@@ -2562,6 +2561,7 @@ declutch
 deco
 decoagulated
 dorms
+deadliness
 decoagulation
 decoat
 downsinking
