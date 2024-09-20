@@ -2113,6 +2113,7 @@ campos
 campout
 camps
 campshed
+cosuggestion
 campshedding
 campsheeting
 campsite
@@ -26288,7 +26289,6 @@ clarify
 cochlospermaceous
 cosuffer
 chants
-cosuggestion
 cosurety
 caracole
 cosuretyship
