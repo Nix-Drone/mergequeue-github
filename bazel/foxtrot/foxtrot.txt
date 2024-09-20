@@ -4175,6 +4175,7 @@ frontiers
 frockless
 feuage
 firecrackers
+flukes
 farness
 firedamp
 feezing
@@ -6322,7 +6323,6 @@ fluked
 flappered
 filix
 feridgi
-flukes
 flukeworm
 flukewort
 fluky
