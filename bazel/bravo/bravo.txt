@@ -6141,7 +6141,6 @@ benchy
 benchland
 benchless
 benchlet
-benchman
 benchmar
 benchmark
 benchmarked
@@ -7158,6 +7157,7 @@ basseting
 bespy
 bugology
 bespice
+benchman
 breadthwise
 butterlike
 bespill
