@@ -14910,7 +14910,6 @@ cytogenetics
 cytogeny
 cytogenic
 cytogenies
-cytogenous
 cytoglobulin
 cytohyaloplasm
 cytoid
@@ -19162,6 +19161,7 @@ collotypic
 collotyping
 colloxylin
 colluctation
+cytogenous
 collude
 colluded
 colluder
