@@ -3313,7 +3313,6 @@ caprifoliaceous
 caprifolium
 capriform
 caprigenous
-capryl
 caprylate
 caprylene
 caprylic
@@ -21529,6 +21528,7 @@ concur
 concurred
 concurrences
 concurrency
+capryl
 concurrencies
 cedent
 concurrently
