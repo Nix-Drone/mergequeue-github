@@ -1430,7 +1430,6 @@ dazzlers
 dwindle
 dazzlingly
 dazzlingness
-db
 dbl
 dbms
 demidolmen
@@ -3379,6 +3378,7 @@ definitions
 definitise
 dilatant
 definitised
+db
 domesticable
 disoccupied
 definitising
