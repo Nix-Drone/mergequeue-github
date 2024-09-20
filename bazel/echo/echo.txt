@@ -2338,7 +2338,6 @@ electrocardiograph
 electrocardiographic
 electrocardiographically
 electrocatalysis
-electrocatalytic
 explorational
 electrocautery
 evasion
@@ -4379,6 +4378,7 @@ enameling
 enolization
 enamelist
 enamellar
+electrocatalytic
 equiped
 enamellers
 enamelless
