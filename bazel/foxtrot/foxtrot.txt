@@ -1147,7 +1147,6 @@ farset
 frogged
 fregatidae
 farsighted
-farsightedness
 flatteringly
 forkedly
 farth
@@ -5743,6 +5742,7 @@ fructification
 flyted
 flites
 frothiness
+farsightedness
 flitfold
 flytier
 factice
