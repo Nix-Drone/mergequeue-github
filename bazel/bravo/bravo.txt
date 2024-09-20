@@ -5638,7 +5638,6 @@ blarina
 belate
 belated
 belatedness
-belating
 belaud
 belauded
 belauder
@@ -14907,6 +14906,7 @@ breathed
 breather
 boarstaff
 breathful
+belating
 breathy
 burleys
 breathier
