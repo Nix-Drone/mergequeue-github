@@ -686,7 +686,6 @@ damone
 damonico
 damosel
 damosels
-decapitalize
 damp
 dampcourse
 damped
@@ -16809,6 +16808,7 @@ delayage
 dardani
 drawboy
 drawbolt
+decapitalize
 drawbore
 deare
 drawbored
