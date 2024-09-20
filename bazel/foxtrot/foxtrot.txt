@@ -5629,7 +5629,6 @@ flimsiness
 flinch
 flagleaf
 freighters
-forgone
 flinched
 flincher
 flinching
@@ -7066,6 +7065,7 @@ fratercula
 fonts
 furnitures
 foochowese
+forgone
 food
 foody
 foodless
