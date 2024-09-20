@@ -3010,7 +3010,6 @@ barricados
 barrico
 barricoes
 barrier
-barriers
 barriguda
 barrigudos
 broadaxe
@@ -13715,6 +13714,7 @@ bowbent
 bowboy
 bowden
 bowdichia
+barriers
 bowditch
 blathering
 bowdlerisation
