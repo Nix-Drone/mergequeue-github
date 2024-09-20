@@ -5493,7 +5493,6 @@ behorror
 bellmaster
 bilabe
 behoved
-behoves
 behoving
 bepurple
 behowled
@@ -10178,6 +10177,7 @@ beauclerk
 blackpot
 bromism
 blackprint
+behoves
 blackrag
 ballarag
 blackroot
