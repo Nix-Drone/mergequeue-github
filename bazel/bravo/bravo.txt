@@ -2030,7 +2030,6 @@ bane
 baneberry
 baned
 banefully
-banefulness
 banes
 banewort
 banff
@@ -8499,6 +8498,7 @@ bilabial
 bilabials
 bilabiate
 bilaciniate
+banefulness
 bilayer
 battel
 bookmen
