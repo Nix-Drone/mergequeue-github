@@ -764,7 +764,6 @@ barrels
 boraciferous
 badgemen
 badger
-badgerbrush
 badgered
 badgerer
 badgering
@@ -12329,6 +12328,7 @@ bombonne
 bombora
 bombous
 bombproof
+badgerbrush
 bombycilla
 bombs
 bombsights
