@@ -3804,7 +3804,6 @@ frocklike
 forties
 filmsetting
 filmslide
-filmstrip
 filmstrips
 filo
 filoplumaceous
@@ -5468,6 +5467,7 @@ fleshling
 fleshmonger
 fleshpot
 fleshquake
+filmstrip
 flet
 flagfall
 fleta
