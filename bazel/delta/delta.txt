@@ -5613,7 +5613,6 @@ depasture
 dispergation
 depauperate
 draught
-depauperation
 depauperize
 deletions
 depauperized
@@ -7383,6 +7382,7 @@ detrusion
 detrusor
 detubation
 detumescence
+depauperation
 dissocialize
 detumescent
 detune
