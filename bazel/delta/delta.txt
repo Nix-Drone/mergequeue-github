@@ -1097,6 +1097,7 @@ darwinite
 decolorize
 das
 drawgear
+dissaves
 dase
 dasein
 dasewe
@@ -13452,7 +13453,6 @@ dissava
 dissavage
 decart
 dissaved
-dissaves
 dissaving
 dissavs
 disscepter
