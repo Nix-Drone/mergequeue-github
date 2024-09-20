@@ -11140,7 +11140,6 @@ bloomery
 bricks
 bloomeries
 baluchi
-bloomfell
 bitstalk
 bloomier
 boodleize
@@ -12685,6 +12684,7 @@ bookmobile
 bookmobiles
 bookplate
 bookplates
+bloomfell
 barwise
 bookpress
 bookrack
