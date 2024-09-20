@@ -2471,6 +2471,7 @@ daphnioid
 deckhand
 deckhead
 deckhouse
+dimout
 deckle
 deckman
 deckpipe
@@ -9961,7 +9962,6 @@ dertrotheca
 dimorphotheca
 discussionism
 dogwood
-dimout
 dimouts
 dimple
 dimpled
