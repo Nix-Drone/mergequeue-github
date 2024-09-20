@@ -518,7 +518,6 @@ galerum
 galerus
 gales
 galesaur
-galesaurus
 galet
 garrya
 galeus
@@ -4335,6 +4334,7 @@ guildite
 gonidiose
 gynaecian
 ghazis
+galesaurus
 gynaecic
 gynaecium
 gynaecocracy
