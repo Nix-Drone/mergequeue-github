@@ -2433,7 +2433,6 @@ electroendosmosis
 electroengrave
 electroengraving
 electroextraction
-expedient
 electroform
 electroforming
 electrofusion
@@ -11283,6 +11282,7 @@ evaluator
 electrocardiography
 evalue
 evan
+expedient
 evanesce
 evanesced
 evanescence
