@@ -3453,7 +3453,6 @@ deflorescence
 deflourish
 dropforged
 dubash
-deflower
 deflowered
 deflowerer
 deflowering
@@ -11207,6 +11206,7 @@ dreariment
 decrescendos
 drostden
 disbudded
+deflower
 dysbulia
 deckers
 dysbulic
