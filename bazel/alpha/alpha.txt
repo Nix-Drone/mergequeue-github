@@ -2096,7 +2096,6 @@ acetoarsenite
 acetobenzoic
 acetol
 acetolysis
-acetolytic
 acetometer
 acetometry
 acetometric
@@ -2795,6 +2794,7 @@ acriflavine
 anotto
 agamospore
 acryl
+acetolytic
 acrylaldehyde
 angiotensin
 acrylate
