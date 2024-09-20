@@ -3369,7 +3369,6 @@ bombline
 banyai
 baskets
 basketware
-basketweaving
 basketwoman
 basketwood
 basketwork
@@ -17149,6 +17148,7 @@ bullfrog
 bullgine
 bullhead
 bullheaded
+basketweaving
 bullheads
 bullhide
 bullhoof
