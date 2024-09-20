@@ -16476,7 +16476,6 @@ antjar
 apices
 aleuroscope
 antler
-antlered
 alcoves
 antlerite
 antlerless
@@ -25058,6 +25057,7 @@ awonder
 awork
 aworry
 aworth
+antlered
 avascular
 awreck
 antietam
