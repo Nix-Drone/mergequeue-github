@@ -11224,7 +11224,6 @@ disbursements
 disburser
 disburses
 divinistre
-definability
 disbursing
 drylot
 disburthen
@@ -18468,6 +18467,7 @@ duration
 durational
 durationless
 durative
+definability
 duratives
 durax
 durbachite
