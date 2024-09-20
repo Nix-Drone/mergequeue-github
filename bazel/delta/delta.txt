@@ -5988,7 +5988,6 @@ deprivable
 deprival
 disprofit
 deprivals
-deprivate
 deprivation
 deprive
 deprived
@@ -8995,6 +8994,7 @@ dicta
 dictaen
 dictagraph
 dictamen
+deprivate
 dictamnus
 dictaphone
 dictaphones
