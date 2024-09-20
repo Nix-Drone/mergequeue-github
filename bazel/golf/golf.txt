@@ -1777,7 +1777,6 @@ gestations
 gnotobiote
 gastrodynia
 gastrodisk
-gastroduodenitis
 gastroduodenoscopy
 gastroduodenostomy
 gastroduodenotomy
@@ -6233,6 +6232,7 @@ gobang
 gnashingly
 gnast
 girr
+gastroduodenitis
 gnat
 gnatflower
 gnathal
