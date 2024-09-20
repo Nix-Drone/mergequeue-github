@@ -3774,7 +3774,6 @@ bread
 batterable
 battercake
 batterdock
-battered
 bootstrap
 batterer
 bkcy
@@ -9276,6 +9275,7 @@ bipectinate
 bullishly
 brulyies
 biped
+battered
 bipedal
 bipedality
 bipedism
