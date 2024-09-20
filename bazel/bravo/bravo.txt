@@ -2498,6 +2498,7 @@ bardlike
 burut
 bardling
 beswinge
+beseechment
 bardo
 bardocucullus
 bardolater
@@ -6945,7 +6946,6 @@ beseam
 beseecher
 beseeches
 beseechingness
-beseechment
 beseek
 bioscience
 beseem
