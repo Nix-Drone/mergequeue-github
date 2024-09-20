@@ -10598,7 +10598,6 @@ aright
 amynodont
 aminoformic
 aminogen
-aminoglutaric
 aminoguanidine
 aminoid
 aminoketone
@@ -17589,6 +17588,7 @@ apparats
 apparatus
 arist
 apparatuses
+aminoglutaric
 appareled
 appareling
 apparelment
