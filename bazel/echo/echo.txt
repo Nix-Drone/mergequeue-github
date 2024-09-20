@@ -5630,7 +5630,6 @@ enfoulder
 enfrai
 enframe
 enframed
-enframing
 enfranch
 enfranchised
 erasability
@@ -8571,6 +8570,7 @@ equalizer
 equalizers
 equalizes
 equaller
+enframing
 equalling
 equals
 equanimously
