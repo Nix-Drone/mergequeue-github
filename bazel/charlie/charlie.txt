@@ -4879,7 +4879,6 @@ carting
 cartisane
 cartist
 cartload
-cartloads
 cartmaker
 cartmaking
 cartobibliography
@@ -14166,6 +14165,7 @@ circensian
 circinal
 circinate
 circinately
+cartloads
 coxcombs
 circination
 circiter
