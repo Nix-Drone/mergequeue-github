@@ -5223,7 +5223,6 @@ glasswork
 guider
 glassworker
 glassworkers
-glassworm
 gawkier
 glasswort
 gees
@@ -7309,6 +7308,7 @@ gossaniferous
 gossans
 gossard
 gossep
+glassworm
 geomechanics
 goujay
 gossy
