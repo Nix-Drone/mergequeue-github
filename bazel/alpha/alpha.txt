@@ -4952,7 +4952,6 @@ aeroelastics
 aporphin
 aerofoil
 aerofoils
-algine
 arisaema
 aerogel
 aerogels
@@ -7247,6 +7246,7 @@ alaloi
 alalonga
 alalus
 alamannian
+algine
 alamannic
 alambique
 alamedas
