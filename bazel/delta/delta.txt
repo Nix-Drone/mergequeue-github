@@ -6842,7 +6842,6 @@ desorbed
 desorbs
 desorption
 desoxalate
-desoxalic
 dichromasy
 desoxyanisoin
 desoxycorticosterone
@@ -9904,6 +9903,7 @@ dehydrofroze
 diminishment
 dairy
 diminishments
+desoxalic
 diminue
 dulcet
 diminuendoed
