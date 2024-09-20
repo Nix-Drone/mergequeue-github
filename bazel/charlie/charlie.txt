@@ -19361,7 +19361,6 @@ colorer
 chantable
 colorers
 cinerea
-carpocervical
 colorfast
 colorfastness
 colorful
@@ -27295,6 +27294,7 @@ coursers
 courses
 coursy
 coursing
+carpocervical
 coursings
 court
 courtage
