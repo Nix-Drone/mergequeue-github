@@ -2565,7 +2565,6 @@ dorms
 decoagulation
 decoat
 downsinking
-decocainize
 decoct
 decoctible
 delawn
@@ -2807,6 +2806,7 @@ decremental
 decrementing
 decrements
 decremeter
+decocainize
 decrepid
 decrepit
 decrepitate
