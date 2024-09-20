@@ -1087,7 +1087,6 @@ edgeless
 executing
 edgeling
 edgeman
-edger
 edgers
 edges
 edgeshot
@@ -2954,6 +2953,7 @@ elidible
 eliding
 elydoric
 eligenda
+edger
 eligibility
 eligibilities
 eligible
