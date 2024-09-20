@@ -3087,7 +3087,6 @@ emperors
 ellipticalness
 ellipticity
 elliptograph
-elliptoid
 etiolates
 ellops
 earthwards
@@ -4609,6 +4608,7 @@ encephalotome
 encephalotomy
 encephalotomies
 earths
+elliptoid
 encephalous
 embeggar
 endoplasma
