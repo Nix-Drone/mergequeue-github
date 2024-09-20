@@ -4419,6 +4419,7 @@ fishpoles
 fishponds
 fishpotter
 fishskin
+furrow
 fishspear
 fishtail
 fishtailed
@@ -10829,7 +10830,6 @@ forefeeling
 furfurole
 fuchsins
 friends
-furrow
 flowcharting
 foreign
 flank
