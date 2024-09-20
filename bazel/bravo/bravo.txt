@@ -5616,6 +5616,7 @@ belayed
 belayer
 belaying
 belays
+bombardiers
 brandishers
 belait
 biface
@@ -12255,7 +12256,6 @@ bombardelle
 baetylic
 bombarder
 bombardier
-bombardiers
 bombarding
 bombardman
 boughless
