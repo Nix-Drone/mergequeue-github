@@ -12616,6 +12616,7 @@ chronomancy
 chronomantic
 committed
 chronomastix
+constate
 chronometer
 chronometers
 chronometry
@@ -23093,7 +23094,6 @@ constantly
 constantness
 constat
 constatation
-constate
 constatory
 constellate
 coystrel
