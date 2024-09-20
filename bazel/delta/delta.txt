@@ -469,6 +469,7 @@ daystar
 daystars
 daystreak
 daytide
+depurator
 daytime
 daytimes
 daiva
@@ -6033,7 +6034,6 @@ depurate
 depurating
 depuration
 depurative
-depurator
 depuratory
 depure
 depurge
