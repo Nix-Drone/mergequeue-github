@@ -4138,7 +4138,6 @@ beams
 beamsman
 beamwork
 bantlings
-bean
 badawi
 beanbag
 beanbags
@@ -11343,6 +11342,7 @@ blued
 bluefin
 blobbing
 bluefins
+bean
 bluegill
 belonosphaerite
 bluegills
