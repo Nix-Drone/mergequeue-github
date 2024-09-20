@@ -13510,6 +13510,7 @@ cigarets
 cigarette
 cigarettes
 cigarfish
+coverlid
 cigarillo
 craspedum
 cigarillos
@@ -27474,7 +27475,6 @@ counterindoctrination
 coverlets
 chemins
 consumation
-coverlid
 coverlids
 covers
 chymosins
