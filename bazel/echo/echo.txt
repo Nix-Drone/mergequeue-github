@@ -4911,7 +4911,6 @@ enrichment
 encumberment
 encumbers
 encumbrance
-electrometeor
 ectoderm
 encurl
 encurtain
@@ -6020,6 +6019,7 @@ extrapolates
 enlief
 encounters
 enlight
+electrometeor
 enlighten
 erratums
 enlightened
