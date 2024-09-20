@@ -5090,6 +5090,7 @@ aerostatics
 amalett
 antisepticist
 aerostation
+assistants
 aerostats
 aerosteam
 aerotactic
@@ -15888,7 +15889,6 @@ antiphonies
 antiphonon
 aborigine
 antiphons
-assistants
 antiphrases
 antiphrasis
 autogamy
