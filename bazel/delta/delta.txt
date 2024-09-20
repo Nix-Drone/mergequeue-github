@@ -1961,7 +1961,6 @@ desensitizer
 decadrachma
 decadrachmae
 dimorphic
-desugars
 decaedron
 decaesarize
 decaffeinate
@@ -7501,6 +7500,7 @@ deutzia
 deuzan
 dev
 darwinistic
+desugars
 deva
 demonization
 devachan
