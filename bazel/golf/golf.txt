@@ -2873,7 +2873,6 @@ genoese
 genoise
 genome
 genomic
-genoms
 genonema
 gph
 genos
@@ -5186,6 +5185,7 @@ glassblowing
 glasseye
 glassen
 glassfish
+genoms
 glassful
 glassfuls
 glasshouse
