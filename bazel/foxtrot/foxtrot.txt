@@ -5908,7 +5908,6 @@ flooder
 flooders
 floodgate
 floodgates
-frontlessly
 floody
 flunkyhood
 flooding
@@ -6455,6 +6454,7 @@ fluoroform
 flaminian
 fluoroformol
 fluorogen
+frontlessly
 fluorometer
 fluorometry
 fluoroscopes
