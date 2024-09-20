@@ -9336,7 +9336,6 @@ demibob
 doddle
 difficulties
 difficultly
-difficultness
 diffide
 diffidentness
 dentirostres
@@ -14427,6 +14426,7 @@ divisa
 devonport
 dimethylketol
 divise
+difficultness
 divisibility
 delacrimation
 diabases
