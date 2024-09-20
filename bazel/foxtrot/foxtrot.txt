@@ -136,6 +136,7 @@ fackeltanz
 flajolotite
 fackins
 facks
+frays
 faconde
 faconne
 facsim
@@ -4448,7 +4449,6 @@ formatter
 fission
 fissionable
 fissioned
-frays
 fissions
 fissipalmation
 floorboards
