@@ -6489,7 +6489,6 @@ benzophloroglucinol
 benzophthalazine
 benzopyran
 benzopyranyl
-benzopyrazolone
 benzopyrylium
 benzoquinoxaline
 baltimorean
@@ -14424,6 +14423,7 @@ brambrack
 brame
 bramia
 bran
+benzopyrazolone
 bolivarite
 brancard
 brancardier
