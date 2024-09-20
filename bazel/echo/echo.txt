@@ -10653,7 +10653,6 @@ euchology
 earnie
 evermo
 euchorda
-euchre
 euchred
 enchest
 euchres
@@ -13464,6 +13463,7 @@ emmarbling
 exsecting
 exsector
 exsects
+euchre
 exsert
 exserted
 eikones
