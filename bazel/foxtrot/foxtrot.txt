@@ -1103,7 +1103,6 @@ farms
 farmscape
 farmsteads
 farmtown
-farnesol
 farnesols
 fogas
 flinger
@@ -7789,6 +7788,7 @@ forelands
 foreleg
 forelimbs
 foredevised
+farnesol
 forelive
 florilege
 forelook
