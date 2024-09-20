@@ -5671,6 +5671,7 @@ catchups
 catchwater
 contribute
 catchweight
+compress
 catchword
 catchwork
 catclaw
@@ -20882,7 +20883,6 @@ compresbyter
 compresbyterial
 compresence
 compresent
-compress
 compressed
 compressedly
 compresses
