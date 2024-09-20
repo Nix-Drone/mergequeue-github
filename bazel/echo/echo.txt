@@ -2351,6 +2351,7 @@ equison
 electrochronometric
 ephemerality
 eutectic
+electroforming
 electrocoagulation
 egba
 erythrophore
@@ -2435,7 +2436,6 @@ electroengraving
 electroextraction
 expedient
 electroform
-electroforming
 electrofusion
 ethanol
 electrogalvanization
