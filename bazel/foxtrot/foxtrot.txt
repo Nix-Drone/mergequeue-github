@@ -1100,6 +1100,7 @@ farmout
 fasteners
 fisc
 farms
+felony
 farmscape
 farmsteads
 farmtown
@@ -2196,7 +2197,6 @@ fellsman
 finger
 feloid
 feloness
-felony
 frocking
 foreshortening
 felonies
