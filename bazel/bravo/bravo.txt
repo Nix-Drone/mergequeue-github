@@ -2883,7 +2883,6 @@ bostons
 barotropic
 barouche
 barouches
-barouchet
 barouchette
 barouni
 baroxyton
@@ -5775,6 +5774,7 @@ bellatrix
 burglar
 bellbind
 buckjump
+barouchet
 bellbinder
 bellbine
 batekes
