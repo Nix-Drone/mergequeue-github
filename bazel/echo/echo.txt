@@ -5127,6 +5127,7 @@ endocranium
 equiconvex
 endocrin
 ember
+explorator
 endocrine
 endocrines
 endocrinic
@@ -13225,7 +13226,6 @@ encloser
 explorable
 exploratively
 exfiltration
-explorator
 empyemata
 exploratory
 exosphere
