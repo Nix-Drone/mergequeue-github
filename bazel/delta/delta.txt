@@ -3090,6 +3090,7 @@ deers
 deerskin
 deerstalker
 deerstalkers
+dinomys
 deerstalking
 deerstand
 deerstealer
@@ -10186,7 +10187,6 @@ dinoflagellata
 dinoflagellida
 distresses
 dinomic
-dinomys
 dinophyceae
 dinophilea
 dinophilus
