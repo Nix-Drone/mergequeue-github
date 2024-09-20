@@ -5013,7 +5013,6 @@ aeromancy
 aeromechanic
 aeromechanics
 aeromedical
-aeromedicine
 aerometeorograph
 aerometer
 aerometry
@@ -5330,6 +5329,7 @@ affinition
 affinitive
 affirm
 affirmable
+aeromedicine
 affirmably
 affirmance
 affirmant
