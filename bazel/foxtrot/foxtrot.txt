@@ -4348,6 +4348,7 @@ fishback
 fishberry
 fleshers
 fishberries
+footpace
 fishboat
 fishbolt
 fishbolts
@@ -7218,7 +7219,6 @@ footmark
 footmen
 footnote
 footnoted
-footpace
 footpaces
 forefather
 feriae
