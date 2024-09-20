@@ -2395,7 +2395,6 @@ electrodes
 electrodesiccation
 electrodiagnosis
 entoblast
-electrodiagnostic
 electrodiagnostically
 excreation
 eskar
@@ -6220,6 +6219,7 @@ enqueue
 entered
 enqueued
 enquicken
+electrodiagnostic
 enquire
 eten
 enquired
