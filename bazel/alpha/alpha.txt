@@ -11236,7 +11236,6 @@ amphitokal
 amphitokous
 amphitriaene
 amphitricha
-anticreeper
 amphitrichate
 amphitryon
 amphitrite
@@ -19980,6 +19979,7 @@ armloads
 armlock
 armlocks
 armoire
+anticreeper
 armoires
 armomancy
 armoniac
