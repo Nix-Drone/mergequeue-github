@@ -1111,6 +1111,7 @@ edh
 edhs
 edibile
 earthlike
+endostracum
 equipper
 edibility
 edible
@@ -5346,7 +5347,6 @@ endostoma
 engrossing
 endostosis
 endostraca
-endostracum
 enteromycosis
 endosulfan
 endothecal
