@@ -2932,6 +2932,7 @@ biverbal
 barrancos
 barrandite
 braconniere
+blade
 barras
 boeotia
 barrater
@@ -10230,7 +10231,6 @@ bladderweed
 bladderwort
 bladderwrack
 brabbler
-blade
 bladebone
 bladelet
 bladelike
