@@ -3183,7 +3183,6 @@ actinotrichium
 actinotrocha
 actinouranium
 actinozoa
-actinozoan
 actinozoon
 actins
 actinula
@@ -18700,6 +18699,7 @@ archabomination
 archae
 archaean
 archaeoceti
+actinozoan
 archaeocyathidae
 archaeocyathus
 archaeographic
