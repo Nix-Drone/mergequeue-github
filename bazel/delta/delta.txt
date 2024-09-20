@@ -13808,7 +13808,6 @@ distyle
 distill
 doralium
 deles
-distillable
 dollhouse
 distillage
 debunking
@@ -15710,6 +15709,7 @@ doryline
 dyemaker
 dorymen
 doryphoros
+distillable
 dewools
 divining
 doryphorus
