@@ -2093,7 +2093,6 @@ acetoacetate
 acetoacetic
 acetoamidophenol
 acetoarsenite
-acetobenzoic
 acetol
 acetolysis
 acetolytic
@@ -9498,6 +9497,7 @@ anthema
 altimetry
 antithrombic
 altimetrical
+acetobenzoic
 altimetrically
 attacolite
 altingiaceae
