@@ -2668,7 +2668,6 @@ electrotherapy
 electrophotography
 encumbrances
 electrotherapist
-electrotheraputic
 electrotheraputical
 electrotheraputically
 electrothermal
@@ -3728,6 +3727,7 @@ elshin
 embrocation
 embrocations
 esterifies
+electrotheraputic
 embroglios
 enrooting
 exotic
