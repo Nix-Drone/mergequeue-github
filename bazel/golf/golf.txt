@@ -4013,7 +4013,6 @@ gigartinales
 gigasecond
 gigaton
 gigatons
-gigavolt
 gigawatt
 gills
 gutser
@@ -10766,6 +10765,7 @@ gutteral
 ganoidean
 gutterblood
 gurneys
+gigavolt
 guttered
 guttery
 guttering
