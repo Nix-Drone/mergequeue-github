@@ -5305,7 +5305,6 @@ casters
 castes
 casteth
 castice
-castigable
 castigate
 coincidency
 castigates
@@ -12488,6 +12487,7 @@ childbeds
 chromolithography
 chromolithographic
 chromometer
+castigable
 chromone
 chromonema
 chromonemal
