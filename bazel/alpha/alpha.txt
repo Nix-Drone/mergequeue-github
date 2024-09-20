@@ -3293,6 +3293,7 @@ acuchi
 acuclosure
 acuductor
 acuerdo
+alerters
 acuesthesia
 acuity
 acuities
@@ -7881,7 +7882,6 @@ alerted
 anabasis
 alertedly
 arrivederci
-alerters
 alertest
 agrees
 alerting
