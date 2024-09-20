@@ -7215,7 +7215,6 @@ centroclinal
 centrode
 centrodesmose
 centrodesmus
-centrodorsal
 centroid
 centroidal
 centroids
@@ -22763,6 +22762,7 @@ coticular
 clovers
 consecration
 cabers
+centrodorsal
 consecrations
 chochos
 consecrative
