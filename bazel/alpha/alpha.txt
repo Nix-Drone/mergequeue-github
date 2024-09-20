@@ -5603,7 +5603,6 @@ afterdeck
 afterdrain
 aftereffect
 aftereffects
-aftereye
 afterfall
 afterfame
 afterfeed
@@ -9740,6 +9739,7 @@ amalgamator
 amalgamators
 amalgamist
 amalgamization
+aftereye
 amalgamize
 akonge
 amalgams
