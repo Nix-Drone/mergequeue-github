@@ -2264,7 +2264,6 @@ elective
 ephemerons
 electives
 electivism
-electivity
 electo
 elector
 expostulator
@@ -10886,6 +10885,7 @@ exormia
 eunomia
 eunomian
 empiriological
+electivity
 eunomianism
 effeminization
 eunuchism
