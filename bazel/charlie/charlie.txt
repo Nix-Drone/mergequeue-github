@@ -7551,6 +7551,7 @@ cercospora
 cercosporella
 cercus
 cerdonian
+coevolve
 cere
 cereal
 cerealian
@@ -8268,7 +8269,6 @@ chalaze
 cloak
 chalazia
 chalazian
-coevolve
 cranely
 cercomonas
 concertanti
