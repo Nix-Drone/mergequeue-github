@@ -9733,6 +9733,7 @@ cimex
 chromotype
 cheiranthus
 cheirogaleus
+cocircularity
 cheiroglossa
 cheirognomy
 cheirography
@@ -17618,7 +17619,6 @@ cocin
 cocinera
 cocircular
 commutual
-cocircularity
 cocitizen
 cocitizenship
 cocytus
