@@ -2074,7 +2074,6 @@ banished
 banisher
 banishing
 banishment
-banister
 banisters
 bursting
 banyuls
@@ -15712,6 +15711,7 @@ broch
 bismuths
 beauism
 brochant
+banister
 brochantite
 broche
 brochettes
