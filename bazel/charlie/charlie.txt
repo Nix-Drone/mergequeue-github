@@ -3407,6 +3407,7 @@ captacula
 captaculum
 captain
 captaincy
+casehardened
 captaincies
 captained
 captainly
@@ -5062,7 +5063,6 @@ casefied
 casefies
 corneter
 caseharden
-casehardened
 casehardening
 casehardens
 casey
