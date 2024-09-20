@@ -8108,7 +8108,6 @@ cabocle
 codrus
 chaetotactic
 chaetotaxy
-chaetura
 chafe
 chafed
 chafery
@@ -16476,6 +16475,7 @@ clockface
 clockhouse
 clocking
 clockings
+chaetura
 clockkeeper
 clockless
 cuon
