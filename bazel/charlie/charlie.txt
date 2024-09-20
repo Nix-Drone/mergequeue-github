@@ -20121,7 +20121,6 @@ commiserator
 commissary
 commissariats
 commissaries
-commissaryship
 commissars
 commission
 commissionaire
@@ -25724,6 +25723,7 @@ chaja
 corroborate
 corroborated
 continuate
+commissaryship
 corroborates
 corroborating
 corroboration
