@@ -5951,7 +5951,6 @@ fawny
 floorshifts
 floorshow
 floorway
-fluidrachm
 floorward
 furniment
 forgivingly
@@ -10284,6 +10283,7 @@ froebelian
 froebelism
 froebelist
 froeman
+fluidrachm
 feared
 freon
 friendly

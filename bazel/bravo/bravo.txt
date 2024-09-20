@@ -2843,7 +2843,6 @@ baronies
 baronize
 baronized
 baronnes
-baronries
 blackbush
 barons
 briggs
@@ -8531,6 +8530,7 @@ bilby
 bilbie
 bilbies
 bilbo
+baronries
 bobadilism
 bilboa
 bilboas
