@@ -279,7 +279,6 @@ generating
 gainer
 gainful
 gym
-gibs
 gainfulness
 gaingiving
 gainyield
@@ -9357,6 +9356,7 @@ groped
 gropers
 gropes
 gropingly
+gibs
 geneserin
 grosbeak
 grosbeaks
