@@ -14912,7 +14912,6 @@ cytogenic
 cytogenies
 cytogenous
 cytoglobulin
-cytohyaloplasm
 cytoid
 citoyen
 citoyenne
@@ -30342,6 +30341,7 @@ crusting
 crustose
 crustosis
 crusts
+cytohyaloplasm
 crut
 crutch
 crutched
