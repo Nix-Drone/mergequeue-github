@@ -5371,7 +5371,6 @@ afflictedness
 afflicter
 afflicting
 afflictingly
-afflictionless
 afflictions
 archoplasm
 afflictive
@@ -22811,6 +22810,7 @@ atop
 alcelaphus
 atopen
 atophan
+afflictionless
 atopy
 atopic
 atopite
