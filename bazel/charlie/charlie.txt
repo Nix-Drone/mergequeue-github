@@ -10478,7 +10478,6 @@ childage
 childbearing
 childbed
 childbirths
-childcrowing
 childe
 childermas
 childes
@@ -19925,6 +19924,7 @@ commandments
 commando
 commandoes
 cordaites
+childcrowing
 commandoman
 commandos
 commandress
