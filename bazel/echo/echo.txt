@@ -4284,6 +4284,7 @@ ervipiame
 eerie
 emrode
 ems
+engraver
 emu
 evokers
 emulant
@@ -5814,7 +5815,6 @@ engraulis
 engrave
 engravement
 engraven
-engraver
 engravers
 engraves
 easts
