@@ -2497,7 +2497,6 @@ canfuls
 cangan
 cangy
 cangia
-cangle
 cangues
 canham
 canhoop
@@ -18072,6 +18071,7 @@ carling
 coequation
 coerce
 coerceable
+cangle
 coerced
 condylarth
 coercement
