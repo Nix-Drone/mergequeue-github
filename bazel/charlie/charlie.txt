@@ -17159,7 +17159,6 @@ coalescent
 coalesces
 coalescing
 coalface
-coalfield
 coalfish
 coalfishes
 coalfitter
@@ -21280,6 +21279,7 @@ conches
 cunonia
 conchfishes
 conchy
+coalfield
 conchie
 conchies
 ceboid
