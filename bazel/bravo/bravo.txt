@@ -5250,7 +5250,6 @@ begem
 begemmed
 begemming
 beget
-begettal
 begetter
 begetters
 broth
@@ -5376,6 +5375,7 @@ begrudger
 begrudgingly
 begruntle
 biographical
+begettal
 biasness
 beqwete
 begrutten
