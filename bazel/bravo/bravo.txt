@@ -2100,7 +2100,6 @@ blossomhead
 bankcards
 banked
 banker
-bankerdom
 bankeress
 bacteriophobia
 banket
@@ -9452,6 +9451,7 @@ byrewards
 byrewoman
 birgand
 biriani
+bankerdom
 birken
 blimps
 birkenhead
