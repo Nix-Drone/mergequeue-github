@@ -15749,7 +15749,6 @@ clavi
 chirres
 clavy
 claviature
-clavicembalist
 clavicembalo
 claviceps
 clavichord
@@ -29693,6 +29692,7 @@ confess
 cromorne
 cromster
 cromwell
+clavicembalist
 countermissile
 congestion
 cromwellian
