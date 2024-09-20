@@ -11585,6 +11585,7 @@ anaemotropy
 anaeretic
 anaerobation
 anaerobe
+artotype
 anaerobes
 anaerobian
 anaerobic
@@ -20785,7 +20786,6 @@ artophagous
 artophophoria
 artophoria
 antiproteolysis
-artotype
 ammochryse
 artotypy
 artou
