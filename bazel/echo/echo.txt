@@ -2380,7 +2380,6 @@ entrechat
 exanguin
 electrocutions
 emplaces
-electrode
 electrodeless
 entremets
 ergatomorph
@@ -11591,6 +11590,7 @@ evincingly
 evincive
 eviscerates
 enrive
+electrode
 edwards
 eviscerator
 eumerogenetic
