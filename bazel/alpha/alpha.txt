@@ -5082,6 +5082,7 @@ aerosolization
 aerosolize
 aerosolized
 aerosols
+allophore
 aerosporin
 aerostat
 aerostatic
@@ -8900,7 +8901,6 @@ allophone
 allophones
 allophonic
 allophonically
-allophore
 alloplasm
 alloplasmatic
 alloplasmic
