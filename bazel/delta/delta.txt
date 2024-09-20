@@ -3565,7 +3565,6 @@ defrosting
 defs
 demoniast
 defterdar
-dodecahedra
 draftiness
 dishonouring
 duckers
@@ -8667,6 +8666,7 @@ dyaster
 depolarizing
 diastereoisomerism
 diastereomer
+dodecahedra
 diastyle
 diapers
 diastimeter
