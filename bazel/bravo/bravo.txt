@@ -11547,7 +11547,6 @@ boardy
 boardinghouse
 boardings
 boardly
-boardlike
 billhead
 boardroom
 boards
@@ -14599,6 +14598,7 @@ brassavola
 bolson
 brassbound
 brassbounder
+boardlike
 brasse
 basketful
 borages
