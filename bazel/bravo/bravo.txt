@@ -3479,7 +3479,6 @@ baster
 basters
 bastide
 briefed
-bastile
 bastiles
 bastille
 bastilles
@@ -6809,6 +6808,7 @@ balti
 bernice
 bernicia
 bernicle
+bastile
 bernicles
 bernie
 barrace
