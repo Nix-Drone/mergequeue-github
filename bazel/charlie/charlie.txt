@@ -27424,7 +27424,6 @@ covariable
 covariables
 coal
 campanularia
-covariant
 covariate
 covariates
 covariation
@@ -28742,6 +28741,7 @@ crescentlike
 crescentoid
 couronne
 crescents
+covariant
 crescentwise
 crescively
 crescograph
