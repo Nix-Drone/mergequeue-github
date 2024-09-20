@@ -5859,7 +5859,6 @@ dumbheaded
 depositive
 deposito
 depositor
-depositories
 depositors
 deposits
 depositum
@@ -13600,6 +13599,7 @@ dissymmetric
 dissymmetrical
 dissymmetrically
 dissymmettric
+depositories
 dissympathy
 dissympathize
 dissimulate
