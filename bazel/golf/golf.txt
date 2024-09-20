@@ -4244,7 +4244,6 @@ glamours
 gentilities
 gymnasium
 gymnasiums
-gymnastic
 gazon
 gittith
 glamoury
@@ -6794,6 +6793,7 @@ gruss
 gondola
 gondolas
 gondoletta
+gymnastic
 gangliform
 gondolier
 gondoliere
