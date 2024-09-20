@@ -8030,7 +8030,6 @@ forthteller
 forestaff
 forestaffs
 forestage
-forestay
 forestair
 fireplough
 forestays
@@ -9674,6 +9673,7 @@ freebooter
 freebooters
 freebooty
 freckened
+forestay
 freebooting
 freechurchism
 freedman
