@@ -2659,7 +2659,6 @@ electrotelethermometer
 endplay
 electrotellurograph
 electrothanatosis
-exogens
 equipollently
 electrotherapeutical
 electrotherapeutist
@@ -13777,6 +13776,7 @@ extracivic
 extracivically
 extraclassroom
 extraclaustral
+exogens
 extracloacal
 extracollegiate
 extracolumella
