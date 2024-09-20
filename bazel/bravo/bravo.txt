@@ -3588,7 +3588,6 @@ bather
 bathers
 bathes
 bathetically
-bathflower
 bathhouse
 bathhouses
 bathyal
@@ -9946,6 +9945,7 @@ bivalved
 bivalves
 bivalvia
 bonnyclabber
+bathflower
 bivalvian
 bivalvous
 bivalvular
