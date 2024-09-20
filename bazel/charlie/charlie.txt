@@ -16321,7 +16321,6 @@ clypeolate
 clypeole
 clypeus
 collapsible
-clippable
 clipped
 clipperman
 clippers
@@ -31554,6 +31553,7 @@ curtesies
 curtest
 curtilage
 curtis
+clippable
 curtise
 chestiness
 curtness
