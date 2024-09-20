@@ -5468,7 +5468,6 @@ degradation
 denumeral
 denumerant
 denumerantive
-denumerative
 denunciable
 denunciant
 denunciate
@@ -9692,6 +9691,7 @@ dilations
 dilatometer
 depressant
 derri
+denumerative
 dilatometry
 dilatometrically
 dilator
