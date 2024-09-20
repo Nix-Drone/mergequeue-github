@@ -286,7 +286,6 @@ eastlins
 eastman
 eponymic
 extraparenchymal
-external
 erythrophobia
 eccentricity
 eastness
@@ -1815,6 +1814,7 @@ eyeopener
 eyepiece
 eyepit
 eyepoint
+external
 eyereach
 eyeroot
 electromobilism
