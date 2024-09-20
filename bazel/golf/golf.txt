@@ -5976,6 +5976,7 @@ grain
 glovemaker
 gametes
 gloveman
+gritstone
 glover
 gloves
 glow
@@ -9204,7 +9205,6 @@ gritless
 gaudete
 gritrock
 grits
-gritstone
 gritted
 gritten
 gritty
