@@ -2651,6 +2651,7 @@ chittered
 cannoneer
 cushioncraft
 cannoneering
+clochette
 cannoneers
 clownish
 cannoning
@@ -16466,7 +16467,6 @@ clobbering
 clobbers
 clochard
 cloche
-clochette
 cladodes
 cecidologist
 clockbird
