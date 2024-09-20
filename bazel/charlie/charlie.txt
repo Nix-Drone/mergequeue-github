@@ -7468,7 +7468,6 @@ ceratodidae
 ceratodontidae
 ceratodus
 ceratoduses
-ceratoglossal
 ceratoglossus
 ceratohyal
 ceratohyoid
@@ -10576,6 +10575,7 @@ chilli
 crank
 chilly
 compartmentalize
+ceratoglossal
 chilliest
 chillily
 chilliness
