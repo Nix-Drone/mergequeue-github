@@ -5239,7 +5239,6 @@ bestrows
 begattal
 bastes
 begaud
-begaudy
 bobbled
 begaze
 begazes
@@ -10342,6 +10341,7 @@ blankety
 blanketing
 betowel
 blanketlike
+begaudy
 bibulous
 blanketmaker
 boatwise
