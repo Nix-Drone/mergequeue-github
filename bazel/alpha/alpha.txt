@@ -12598,7 +12598,6 @@ aneuploid
 alternater
 aneuploidy
 aneuria
-aneuric
 aneurilemmic
 aneurin
 aneurine
@@ -22781,6 +22780,7 @@ atomizers
 atomizing
 atomology
 atoms
+aneuric
 aortoclasis
 antiepithelial
 atonable
