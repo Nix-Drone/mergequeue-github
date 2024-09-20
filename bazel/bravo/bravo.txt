@@ -11355,7 +11355,6 @@ blueheads
 bombers
 bluehearted
 bluehearts
-bluey
 blueys
 bluejack
 bluejacket
@@ -13696,6 +13695,7 @@ bovenland
 bovidae
 bovids
 bovine
+bluey
 bovinely
 bovinity
 blushfulness
