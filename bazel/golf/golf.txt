@@ -4802,7 +4802,6 @@ gyrons
 gyrophoraceae
 gyrophoraceous
 giros
-gyroscope
 galeopithecus
 gyroscopes
 gyroscopics
@@ -9686,6 +9685,7 @@ grumble
 georgiana
 germinable
 grumbled
+gyroscope
 grumbler
 gnomology
 grumbles
