@@ -4811,6 +4811,7 @@ flags
 flagship
 fuss
 firepower
+fourness
 flagstaff
 fainer
 factorylike
@@ -11103,7 +11104,6 @@ funambulated
 funambulating
 fawningness
 funambulation
-fourness
 funambulatory
 funambule
 frontality
