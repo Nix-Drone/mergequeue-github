@@ -9661,6 +9661,7 @@ alveololingual
 alveolonasal
 alveolosubnasal
 alveolus
+antipyryl
 alveus
 alvia
 alviducous
@@ -15905,7 +15906,6 @@ antipyonin
 antipyresis
 antithrombin
 antipyretics
-antipyryl
 antipyrin
 antipyrine
 antipyrotic
