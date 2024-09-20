@@ -4035,6 +4035,7 @@ eyebridled
 etheostoma
 empaneling
 empanelled
+excludes
 excommunicant
 empanelling
 empanelment
@@ -12079,7 +12080,6 @@ excavational
 extemporaneous
 earthmen
 ebullitions
-excludes
 endpoint
 excludingly
 exampleship
