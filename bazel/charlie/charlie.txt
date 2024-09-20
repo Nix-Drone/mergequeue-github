@@ -5299,7 +5299,6 @@ castellet
 castelli
 castellum
 casten
-caster
 casterless
 casters
 castes
@@ -27701,6 +27700,7 @@ coxcombries
 coxcomical
 coxcomically
 coxed
+caster
 cissing
 collinear
 congratulate
