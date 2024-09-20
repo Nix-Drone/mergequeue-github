@@ -7285,6 +7285,7 @@ driveboat
 detesters
 detests
 dethronable
+derate
 dethroned
 dethronement
 dain
@@ -9914,7 +9915,6 @@ duction
 denticulation
 diminuent
 dawnlight
-derate
 devonian
 diminutal
 diminute
