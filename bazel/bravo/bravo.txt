@@ -3784,7 +3784,6 @@ breck
 batteried
 batteries
 batteryman
-batterman
 batters
 batteuse
 batty
@@ -12004,6 +12003,7 @@ boyla
 boilable
 boylas
 bromocresol
+batterman
 boildown
 boiled
 boiler

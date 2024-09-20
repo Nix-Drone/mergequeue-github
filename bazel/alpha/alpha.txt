@@ -8901,7 +8901,6 @@ allophones
 allophonic
 allophonically
 allophore
-alloplasm
 alloplasmatic
 alloplasmic
 alloplast
@@ -19089,6 +19088,7 @@ archmarshal
 archmediocrity
 archmessenger
 archmilitarist
+alloplasm
 archmocker
 archmockery
 archmonarch
