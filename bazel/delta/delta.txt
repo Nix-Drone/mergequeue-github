@@ -3518,7 +3518,6 @@ deformability
 disknow
 deformable
 deformalize
-deformation
 deformational
 delete
 deformations
@@ -17551,6 +17550,7 @@ druggeting
 druggets
 druggy
 depurates
+deformation
 druggist
 druggister
 drugless
