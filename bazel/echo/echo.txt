@@ -2626,7 +2626,6 @@ electroshock
 electroshocks
 electrosynthesis
 electrosynthetically
-envenoms
 electrosmosis
 electrostatic
 electrostatical
@@ -5525,6 +5524,7 @@ eneugh
 enface
 enfacement
 enfaces
+envenoms
 elatedly
 enfamous
 effector
