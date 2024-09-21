@@ -18865,6 +18865,7 @@ collapsibility
 collapsing
 collar
 collarband
+coreless
 collarbird
 collarbone
 collarbones
@@ -25167,7 +25168,6 @@ corimelaenidae
 corindon
 corynebacteria
 corynebacterial
-coreless
 corynebacterium
 coryneform
 corineus
