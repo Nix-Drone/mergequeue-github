@@ -3611,7 +3611,6 @@ filemaker
 fluidize
 filemark
 filemot
-foreknee
 filename
 filenames
 filer
@@ -8312,6 +8311,7 @@ forjudging
 foiler
 forjudgment
 fork
+foreknee
 forkbeard
 forked
 forkedness
