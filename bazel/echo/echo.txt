@@ -2344,7 +2344,6 @@ electrocautery
 evasion
 electroceramic
 electrochemical
-electrochemically
 electrochemistry
 electrochronometer
 equison
@@ -7459,6 +7458,7 @@ enaliornis
 epenetic
 epenla
 embryotega
+electrochemically
 epenthesis
 epenthesize
 epephragmal
