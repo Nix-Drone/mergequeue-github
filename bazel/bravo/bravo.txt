@@ -4609,7 +4609,6 @@ bed
 bedabble
 bedabbled
 bedabbles
-bedabbling
 bedad
 bladeless
 bedaggered
@@ -18236,6 +18235,7 @@ breek
 butterbump
 butterbur
 butterbush
+bedabbling
 buttercup
 buttercups
 buttered
