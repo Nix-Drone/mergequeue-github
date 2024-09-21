@@ -1802,7 +1802,6 @@ accumulativeness
 accumulator
 accupy
 accur
-accuracy
 accuracies
 accurately
 approvement
@@ -8369,6 +8368,7 @@ aliveness
 alives
 aeolodicon
 alix
+accuracy
 alizarate
 alizari
 alizarin
