@@ -1974,7 +1974,6 @@ bandmaster
 bandmasters
 bando
 bandobust
-bandog
 bandogs
 bonfire
 bandoleer
@@ -9523,6 +9522,7 @@ birsit
 byrsonima
 birt
 birthbed
+bandog
 bipinnatifid
 barracks
 bartizaned
