@@ -8162,7 +8162,6 @@ graphic
 graphical
 graphically
 graphicalness
-graphicness
 ghosts
 graphidiaceae
 geissospermin
@@ -8532,6 +8531,7 @@ grease
 grainery
 gorgerins
 greaseball
+graphicness
 glyceral
 gastrotricha
 greaseless
