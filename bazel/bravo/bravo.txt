@@ -4099,7 +4099,6 @@ backhatch
 beakless
 beaklike
 beaks
-beal
 beala
 bealach
 beallach
@@ -8733,6 +8732,7 @@ bilobated
 bilobe
 bilobed
 bilobiate
+beal
 bilocation
 bilocular
 biloculate
