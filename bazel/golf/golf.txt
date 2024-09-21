@@ -3250,7 +3250,6 @@ gluttonism
 geostrategy
 geostrategist
 geostrophic
-geostrophically
 geotactically
 giaour
 geotaxes
@@ -4757,6 +4756,7 @@ gyro
 gyroceran
 gallery
 guildsman
+geostrophically
 golliwogg
 gorkhali
 gyrocompasses
