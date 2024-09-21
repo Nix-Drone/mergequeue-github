@@ -7269,7 +7269,6 @@ enneasyllabic
 enwreathe
 enwreathing
 enwrought
-environments
 enwwove
 euphonym
 enwwoven
@@ -7711,6 +7710,7 @@ epicrates
 epicrises
 epicrisis
 eigenstate
+environments
 engagingly
 epics
 epictetian
