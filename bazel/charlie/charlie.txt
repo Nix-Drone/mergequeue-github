@@ -981,7 +981,6 @@ calcanei
 calcaneoastragalar
 calcaneoastragaloid
 cimmerian
-calcaneocuboid
 calcaneonavicular
 calcaneoplantar
 countersale
@@ -16430,6 +16429,7 @@ clo
 cloaca
 cloacae
 cloacal
+calcaneocuboid
 cloacaline
 cholonan
 cheveron
