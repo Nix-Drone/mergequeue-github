@@ -5549,6 +5549,7 @@ deoxidised
 deoxidiser
 deoxidize
 deoxidizer
+drawbridge
 dreggy
 deoxidizers
 deoxidizes
@@ -9227,7 +9228,6 @@ displant
 diestock
 death
 diestrous
-drawbridge
 diestrual
 diestrum
 diestrums
