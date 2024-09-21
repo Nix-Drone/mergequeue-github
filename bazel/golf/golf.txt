@@ -2809,7 +2809,6 @@ genin
 gestures
 genio
 genioglossal
-globoids
 genioglossi
 genioglossus
 geniohyoglossal
@@ -7796,6 +7795,7 @@ gemmae
 grasscutter
 gramary
 gramarye
+globoids
 gramaries
 gramaryes
 goosebird
