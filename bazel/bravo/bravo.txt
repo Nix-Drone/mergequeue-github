@@ -2175,7 +2175,6 @@ bannet
 bannisters
 bannition
 bannock
-bowlines
 bannockburn
 bannocks
 bannut
@@ -8059,6 +8058,7 @@ bichord
 borazons
 bichos
 bichromate
+bowlines
 bichromated
 bichromatize
 begulfs
