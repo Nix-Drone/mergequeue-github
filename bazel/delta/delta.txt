@@ -2752,6 +2752,7 @@ decorators
 decore
 decorement
 decorist
+demultiplexers
 decorous
 doorplate
 decorously
@@ -5024,7 +5025,6 @@ distinguish
 demultiplex
 demultiplexed
 demultiplexer
-demultiplexers
 disroot
 diazepam
 dimedone
