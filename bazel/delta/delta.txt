@@ -4152,7 +4152,6 @@ delimitating
 delimitation
 delimitations
 delimited
-delimiter
 delimiters
 delimiting
 displumed
@@ -12213,6 +12212,7 @@ dwarfness
 disgracive
 durbar
 disgradation
+delimiter
 dappleness
 dazzlement
 desmopathologist
