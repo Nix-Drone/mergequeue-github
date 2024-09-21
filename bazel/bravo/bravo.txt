@@ -684,7 +684,6 @@ bacteriotoxic
 bechances
 bacteriotoxin
 bal
-bacteriotrypsin
 bynames
 bacteriotropic
 blepharedema
@@ -14596,6 +14595,7 @@ brassart
 brassarts
 brassate
 brassavola
+bacteriotrypsin
 bolson
 brassbound
 brassbounder

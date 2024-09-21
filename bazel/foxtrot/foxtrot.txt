@@ -460,7 +460,6 @@ faithfulness
 favoredness
 federates
 fraik
-faithless
 faithlessly
 faithlessness
 faithworthy
@@ -5258,6 +5257,7 @@ flavours
 flavoursome
 frothiest
 flaw
+faithless
 flawed
 flawedness
 flawflower
