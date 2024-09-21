@@ -156,6 +156,7 @@ cableways
 cabling
 cablish
 campmaster
+cashiers
 cabmen
 cabob
 caboceer
@@ -20279,7 +20280,6 @@ communbus
 commune
 communed
 communer
-cashiers
 cric
 communes
 communicability
