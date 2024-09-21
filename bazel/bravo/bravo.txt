@@ -3858,7 +3858,6 @@ batwomen
 bishopship
 batz
 batzen
-barreler
 baubee
 baubees
 bethunder
@@ -6663,6 +6662,7 @@ becapped
 berengaria
 bursate
 bemixing
+barreler
 berengarian
 berengelite
 berengena
