@@ -1699,7 +1699,6 @@ gastful
 gallons
 gasthauser
 gasting
-gastly
 grego
 gastness
 gastnesses
@@ -5649,6 +5648,7 @@ gamins
 globalists
 guidances
 globality
+gastly
 globalization
 gypsum
 globalize
