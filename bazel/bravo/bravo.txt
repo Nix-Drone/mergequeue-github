@@ -9540,7 +9540,6 @@ birthmarks
 birthmate
 birthnight
 birthplace
-birthplaces
 backfilled
 birthrates
 birthright
@@ -11019,6 +11018,7 @@ blocky
 blockier
 blockiest
 blockiness
+birthplaces
 bigothero
 blocking
 boti
