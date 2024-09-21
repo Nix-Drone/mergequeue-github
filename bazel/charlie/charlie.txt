@@ -12564,7 +12564,6 @@ chronical
 chronically
 cismarine
 chronicle
-chronicled
 chronicler
 chroniclers
 chronicles
@@ -26772,6 +26771,7 @@ countereffort
 counterembattled
 counterembowed
 counterend
+chronicled
 counterenergy
 counterengagement
 counterengine
