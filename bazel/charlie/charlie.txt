@@ -3203,6 +3203,7 @@ capmaker
 capmakers
 cordmaker
 capmaking
+chisled
 capnodium
 capnoides
 colonizes
@@ -11044,7 +11045,6 @@ chisellike
 chiselling
 chiselmouth
 chisels
-chisled
 clarkeites
 chistera
 chistka
