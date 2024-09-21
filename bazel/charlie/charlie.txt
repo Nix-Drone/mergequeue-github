@@ -5517,7 +5517,6 @@ catalogistic
 catalogize
 catalogs
 catalogued
-cataloguer
 catalogues
 cataloguing
 cataloguish
@@ -30765,6 +30764,7 @@ cullen
 cullender
 culler
 cullers
+cataloguer
 cullet
 cullets
 cully
