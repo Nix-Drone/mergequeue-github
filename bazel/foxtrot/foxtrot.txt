@@ -286,6 +286,7 @@ fadeless
 faden
 fadeout
 fader
+figurante
 faders
 fadge
 forra
@@ -3501,7 +3502,6 @@ fixture
 figurae
 figurant
 foredeserved
-figurante
 figurately
 figuration
 flunkyize
