@@ -3130,6 +3130,7 @@ bipropellant
 bascules
 bascunan
 base
+bicyclo
 baseball
 bojite
 belzebuth
@@ -8076,7 +8077,6 @@ bicyclism
 bicyclist
 becharms
 bicyclists
-bicyclo
 biciliated
 bicylindrical
 bicipital
