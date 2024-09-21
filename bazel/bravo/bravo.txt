@@ -3639,7 +3639,6 @@ bathythermograph
 bathkol
 barbar
 bathman
-bathmat
 bathmats
 bereaven
 bathmism
@@ -10603,6 +10602,7 @@ bleariness
 brabbles
 blearing
 blearness
+bathmat
 blears
 bambinos
 bespurt
