@@ -11889,7 +11889,6 @@ cystometer
 chordaceous
 chordal
 chordamesoderm
-chordamesodermal
 chordamesodermic
 chordata
 chordate
@@ -19424,6 +19423,7 @@ charcoals
 calculi
 colostration
 chufas
+chordamesodermal
 colostric
 cylindrical
 colostrous
