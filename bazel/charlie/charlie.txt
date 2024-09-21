@@ -8189,7 +8189,6 @@ chainlike
 chainmaker
 chainmaking
 chiropodist
-chainmen
 chainomatic
 cultists
 chains
@@ -23453,6 +23452,7 @@ contented
 contentedly
 contentedness
 contenting
+chainmen
 contention
 contentional
 contentions
