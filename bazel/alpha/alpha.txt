@@ -2093,7 +2093,6 @@ acetoacetate
 acetoacetic
 acetoamidophenol
 acetoarsenite
-acetobenzoic
 acetol
 acetolysis
 acetolytic
@@ -8032,6 +8031,7 @@ algas
 algate
 algates
 adradial
+acetobenzoic
 algazel
 algebra
 aquatical
