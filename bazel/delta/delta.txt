@@ -8182,7 +8182,6 @@ diadromous
 dioti
 diadumenus
 diaene
-diaereses
 diaeresis
 diaeretic
 deceivableness
@@ -15837,6 +15836,7 @@ dorsomedial
 dorsomedian
 dorsonasal
 dorsonuchal
+diaereses
 dorsopleural
 dorsoposteriad
 deisms
