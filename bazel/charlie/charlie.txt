@@ -4905,7 +4905,6 @@ cartons
 cartoon
 cartoonist
 cartoonists
-condors
 cartoons
 cartop
 cartopper
@@ -16357,6 +16356,7 @@ cliquism
 cliseometer
 clisere
 coffee
+condors
 clyses
 clishmaclaver
 commissarial
