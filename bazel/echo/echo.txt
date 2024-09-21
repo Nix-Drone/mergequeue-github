@@ -1110,7 +1110,6 @@ enormous
 edh
 edhs
 edibile
-earthlike
 equipper
 edibility
 edible
@@ -8190,6 +8189,7 @@ episcopization
 episcopize
 episcopized
 episcopizing
+earthlike
 episcopolatry
 eyeteeth
 episcotister
