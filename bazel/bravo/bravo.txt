@@ -2818,7 +2818,6 @@ bobberies
 baroness
 baronesses
 baronet
-baronetage
 beswelter
 baronetcy
 baronetcies
@@ -7367,6 +7366,7 @@ betassel
 birde
 betatron
 betatrons
+baronetage
 betattered
 blastment
 beclothing
