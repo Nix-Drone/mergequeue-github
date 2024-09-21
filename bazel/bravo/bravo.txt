@@ -12411,7 +12411,6 @@ bructeri
 brooders
 bondservant
 bowmaking
-bondship
 bondslave
 bondsman
 bondsmen
@@ -13992,6 +13991,7 @@ binzuru
 brachydomatic
 brachydome
 brachydont
+bondship
 buffbar
 brachydontism
 brachyfacial
