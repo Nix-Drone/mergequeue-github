@@ -4415,6 +4415,7 @@ bebrother
 bebrush
 bidactyle
 bemirrorment
+bulletproof
 bebusy
 bebuttoned
 bec
@@ -17126,7 +17127,6 @@ battalia
 burghmote
 breadseller
 bulletmaking
-bulletproof
 bulletproofed
 bulletproofing
 bullets
