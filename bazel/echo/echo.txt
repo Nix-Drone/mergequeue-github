@@ -294,7 +294,6 @@ eastre
 euphoniousness
 eat
 eagerer
-eatability
 eatable
 eatables
 electrolyzability
@@ -3143,6 +3142,7 @@ elongation
 elongations
 engem
 epiplastral
+eatability
 elohist
 elope
 eichbergite
