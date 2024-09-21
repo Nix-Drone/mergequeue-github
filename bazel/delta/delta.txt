@@ -5641,6 +5641,7 @@ dependencies
 depending
 dependingly
 depends
+disaggregate
 defacingly
 dukeship
 depeopled
@@ -10950,7 +10951,6 @@ disaffirmation
 disaffirmative
 disaffirming
 disafforest
-disaggregate
 disaggregated
 disaggregation
 disaggregative
