@@ -646,7 +646,6 @@ gutturize
 gobiidae
 gallied
 gallify
-gallification
 galliform
 gomphrena
 galliformes
@@ -1144,6 +1143,7 @@ ganglioid
 ganglioma
 grav
 gangliomas
+gallification
 gangliomata
 ganglionate
 grayness
