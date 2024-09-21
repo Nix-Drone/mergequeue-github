@@ -6074,7 +6074,6 @@ deputizing
 dequantitate
 dequeue
 dequeues
-dequeuing
 dropshots
 der
 derabbinize
@@ -7351,6 +7350,7 @@ detrained
 decoymen
 detraining
 detrainment
+dequeuing
 detraque
 detrench
 detribalization
