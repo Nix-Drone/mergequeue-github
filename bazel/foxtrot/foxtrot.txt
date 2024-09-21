@@ -1073,6 +1073,7 @@ fantad
 freshening
 furriners
 farmable
+firns
 farmed
 farmer
 farmeress
@@ -4306,7 +4307,6 @@ frocked
 firn
 forethought
 floreate
-firns
 firoloida
 flammability
 facia
