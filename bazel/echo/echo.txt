@@ -4607,7 +4607,6 @@ externize
 encephalothlipsis
 encephalotome
 encephalotomy
-encephalotomies
 earths
 encephalous
 embeggar
@@ -6593,6 +6592,7 @@ entente
 ententes
 entepicondylar
 enter
+encephalotomies
 enterable
 enteraden
 enteradenography
