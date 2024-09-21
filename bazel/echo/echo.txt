@@ -1114,7 +1114,6 @@ earthlike
 equipper
 edibility
 edible
-expurgatory
 edibleness
 edibles
 edictal
@@ -8613,6 +8612,7 @@ equiangularity
 epigeous
 equiaxe
 elaborately
+expurgatory
 equiaxed
 equiaxial
 exedrae
