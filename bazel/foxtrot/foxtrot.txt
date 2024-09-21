@@ -103,6 +103,7 @@ faciation
 forequoted
 facie
 freeport
+fasts
 fibroelastic
 faciend
 faciends
@@ -1346,7 +1347,6 @@ fromage
 fastnesses
 feed
 frogskins
-fasts
 fastuous
 fastuousness
 fastwalk
