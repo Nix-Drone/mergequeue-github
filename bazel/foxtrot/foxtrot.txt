@@ -4421,7 +4421,6 @@ fishpotter
 fishskin
 fishspear
 fishtail
-fishtailed
 flether
 fishtails
 fishway
@@ -4531,6 +4530,7 @@ footnoting
 fernland
 fistulose
 fistulous
+fishtailed
 fit
 fitch
 fishpond
