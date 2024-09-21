@@ -4014,7 +4014,6 @@ emotionize
 emotionless
 emotions
 emotively
-emotiveness
 emotivity
 euglenidae
 exorability
@@ -9158,6 +9157,7 @@ erythrocytes
 erythrocytoblast
 erythrocytolysin
 erythrocytolysis
+emotiveness
 engl
 erythrocytolytic
 eelier
