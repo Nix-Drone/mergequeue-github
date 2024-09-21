@@ -2346,7 +2346,6 @@ electroceramic
 electrochemical
 electrochemically
 electrochemistry
-electrochronometer
 equison
 electrochronometric
 ephemerality
@@ -4521,6 +4520,7 @@ encarpium
 evangelian
 encarpus
 encarpuspi
+electrochronometer
 eutopia
 encasement
 encases
