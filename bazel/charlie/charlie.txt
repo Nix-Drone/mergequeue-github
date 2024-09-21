@@ -18080,6 +18080,7 @@ coercer
 coercers
 coercibility
 cardiaplegia
+corrections
 coercible
 coercibleness
 coercibly
@@ -25635,7 +25636,6 @@ correction
 correctional
 correctionalist
 correctioner
-corrections
 corrective
 correctively
 correctiveness
