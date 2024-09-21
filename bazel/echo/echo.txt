@@ -5429,7 +5429,6 @@ endromididae
 endrudge
 eltime
 expendable
-endseal
 endshake
 endsheet
 everglade
@@ -12007,6 +12006,7 @@ excipuliform
 earmindedness
 excipulum
 excircle
+endseal
 excisable
 esker
 excise
