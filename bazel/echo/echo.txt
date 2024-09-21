@@ -8541,6 +8541,7 @@ epural
 epuration
 eq
 eqpt
+equidimensional
 equability
 exacerbescent
 emphases
@@ -8631,7 +8632,6 @@ equicurve
 equid
 equidiagonal
 equidifferent
-equidimensional
 equidist
 equidistance
 ectal
