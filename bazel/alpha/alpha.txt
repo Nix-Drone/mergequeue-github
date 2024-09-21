@@ -8838,6 +8838,7 @@ adjustments
 acrogenic
 alloys
 alloisomer
+aminopolypeptidase
 alloisomeric
 alloisomerism
 allokinetic
@@ -10617,7 +10618,6 @@ aminophylline
 aminopyrine
 aminoplast
 aminoplastic
-aminopolypeptidase
 aminopropionic
 aminopurine
 aminoquin
