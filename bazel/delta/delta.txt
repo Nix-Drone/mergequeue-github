@@ -1716,7 +1716,6 @@ depaysee
 deathtime
 deathtrap
 deathtraps
-deathward
 deathwatches
 deathweed
 deathworm
@@ -1735,6 +1734,7 @@ debamboozle
 debar
 debarbarization
 debarbarize
+deathward
 debark
 debarkations
 dobroes
