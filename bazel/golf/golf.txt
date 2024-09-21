@@ -1790,7 +1790,6 @@ galenism
 globelike
 gastroenteritis
 gluts
-gastroenteroanastomosis
 gastroenterocolitis
 gastroenterocolostomy
 gastroenterology
@@ -7503,6 +7502,7 @@ governmental
 governmentalize
 governmentally
 governmentish
+gastroenteroanastomosis
 governor
 governorate
 governors
