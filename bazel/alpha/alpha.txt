@@ -13236,7 +13236,6 @@ angustifoliate
 anisal
 anisalcohol
 anisaldehyde
-anisaldoxime
 anisamide
 anisandrous
 anisanilide
@@ -25180,6 +25179,7 @@ archcharlatan
 axon
 axonemal
 axoneme
+anisaldoxime
 asynartetic
 axones
 axoneure
