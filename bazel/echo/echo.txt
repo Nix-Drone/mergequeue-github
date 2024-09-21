@@ -4633,7 +4633,6 @@ enchanters
 enchanting
 enchantingly
 enchantment
-enchantments
 enchantress
 enchants
 euclidean
@@ -9466,6 +9465,7 @@ escalading
 escalan
 escalate
 enlute
+enchantments
 escalates
 escalating
 escalations
