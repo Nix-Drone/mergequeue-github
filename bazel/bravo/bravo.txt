@@ -4825,6 +4825,7 @@ bedrocks
 bedroll
 bedrolls
 bedroom
+bestick
 bedrooms
 bisymmetrically
 bedrop
@@ -16384,7 +16385,6 @@ brushable
 brushback
 brushbird
 brushcut
-bestick
 braker
 betrace
 brushed
