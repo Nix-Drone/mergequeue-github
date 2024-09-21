@@ -7907,7 +7907,6 @@ epigrammatizer
 epigrammatizing
 epigrams
 epigraph
-epigrapher
 eftest
 epigraphy
 egyptianization
@@ -9675,6 +9674,7 @@ elaidinic
 emollient
 eskuara
 eslisor
+epigrapher
 existentially
 executives
 esmayle
