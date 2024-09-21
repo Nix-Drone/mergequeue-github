@@ -5422,7 +5422,6 @@ dentists
 dentition
 dilating
 dentolabial
-dentolingual
 dentololabial
 dentonasal
 dielytra
@@ -6000,6 +5999,7 @@ dawks
 deproceduring
 discussible
 dayfly
+dentolingual
 deprogrammed
 deprogrammer
 deprogramming
