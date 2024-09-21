@@ -12494,7 +12494,6 @@ anemographically
 anemology
 anemologic
 anemological
-anemometer
 anemometers
 anemometrical
 avoided
@@ -20512,6 +20511,7 @@ arteriopathy
 arterioplania
 arterioplasty
 arteriopressor
+anemometer
 arteriorrhagia
 arteriorrhaphy
 arteriorrhexis
