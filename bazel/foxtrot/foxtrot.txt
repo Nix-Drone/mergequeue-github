@@ -2225,7 +2225,6 @@ framers
 farmhouses
 felt
 felted
-felter
 feltyfare
 feltyflier
 felting
@@ -3562,6 +3561,7 @@ filamented
 filamentiferous
 filamentoid
 fuzztail
+felter
 flaxwife
 filamentous
 filaments
