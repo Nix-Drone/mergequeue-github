@@ -3376,7 +3376,6 @@ capstone
 capsula
 coached
 consignificate
-capsular
 capsulated
 capsulation
 capsule
@@ -8829,6 +8828,7 @@ chaperon
 chaperonage
 chaperone
 chaperoned
+capsular
 chaperonless
 chaperons
 chapes
