@@ -4045,7 +4045,6 @@ cardioid
 cardioids
 cardiolysis
 cardiology
-chondroclast
 cardiologic
 cardiological
 cardiologists
@@ -8083,6 +8082,7 @@ chaetites
 chaetitidae
 chaetochloa
 chaetodon
+chondroclast
 chaetodont
 cinquanter
 chaetodontid
