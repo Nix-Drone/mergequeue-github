@@ -5220,6 +5220,7 @@ glassteel
 gnathic
 guestship
 glasswork
+growls
 guider
 glassworker
 glassworkers
@@ -9561,7 +9562,6 @@ gemses
 gastornis
 gilgul
 growlingly
-growls
 guzerat
 grandnieces
 grown
