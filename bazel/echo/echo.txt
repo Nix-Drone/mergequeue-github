@@ -10599,7 +10599,6 @@ etwite
 enablement
 eu
 euahlayi
-euascomycetes
 euaster
 eubacteria
 eubacteriales
@@ -13821,6 +13820,7 @@ extracurial
 extracurricular
 extracurriculum
 extracutaneous
+euascomycetes
 electropoion
 extradialectal
 extradicted
