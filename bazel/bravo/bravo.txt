@@ -288,7 +288,6 @@ backarrows
 backout
 backband
 backbar
-backbearing
 biotechnologies
 backbencher
 backbend
@@ -4114,6 +4113,7 @@ beamers
 beamfilling
 beamful
 beeware
+backbearing
 beamhouse
 beamy
 beamier
