@@ -4112,7 +4112,6 @@ beamed
 beamer
 beamers
 beamfilling
-beamful
 beeware
 beamhouse
 beamy
@@ -5677,6 +5676,7 @@ belee
 beleed
 belemnid
 belemnite
+beamful
 belemnites
 belemnitic
 belemnoid
