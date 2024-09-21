@@ -3467,7 +3467,6 @@ germinative
 germinator
 germing
 gustus
-germless
 geniohyoglossus
 gymkhanas
 goss
@@ -5446,6 +5445,7 @@ glycogenosis
 gingals
 glycogens
 glycohaemia
+germless
 glycol
 glycolaldehyde
 goback
