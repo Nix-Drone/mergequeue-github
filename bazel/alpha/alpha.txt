@@ -20010,6 +20010,7 @@ armorproof
 armors
 armouchiquois
 armour
+arthral
 armourbearer
 armoured
 armourer
@@ -20554,7 +20555,6 @@ arthra
 arterialising
 abbotcy
 absenteeship
-arthral
 assurant
 arthralgia
 arthralgic
