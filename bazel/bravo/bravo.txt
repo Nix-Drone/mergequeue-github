@@ -2387,7 +2387,6 @@ barbequed
 barber
 barbera
 budlike
-barbered
 barberfish
 barberite
 barbermonger
@@ -9913,6 +9912,7 @@ bituminiferous
 bituminisation
 biose
 bituminise
+barbered
 bituminising
 bituminization
 bituminize
