@@ -5387,7 +5387,6 @@ busies
 beguard
 beguess
 beguileful
-beguilement
 beguilements
 beguiler
 bottlelike
@@ -12413,6 +12412,7 @@ bondservant
 bowmaking
 bondship
 bondslave
+beguilement
 bondsman
 bondsmen
 bondstone
