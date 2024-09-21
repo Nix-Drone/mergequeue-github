@@ -3831,7 +3831,6 @@ emeras
 emerged
 emergence
 emergences
-emergencies
 emergentness
 emergents
 emerges
@@ -11277,6 +11276,7 @@ evaluated
 evaluates
 etherin
 evaluating
+emergencies
 evaluations
 evaluative
 evaluator
