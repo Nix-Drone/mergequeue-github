@@ -2635,7 +2635,6 @@ electrostenolysis
 electrostenolytic
 exciples
 electrostriction
-elinvar
 eupione
 extradecretal
 electrosurgery
@@ -12709,6 +12708,7 @@ exomphalus
 expandibility
 entame
 exon
+elinvar
 exonarthex
 epicotyledonary
 exonerate
