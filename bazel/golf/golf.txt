@@ -3475,7 +3475,6 @@ guttiest
 germlike
 germon
 germproof
-germs
 germule
 goodlike
 gerocomia
@@ -5184,6 +5183,7 @@ gyrencephalate
 glassblower
 glassblowing
 glasseye
+germs
 glassen
 glassfish
 glassful
