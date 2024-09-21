@@ -3917,7 +3917,6 @@ giboia
 goyle
 glave
 gibsons
-gibstaff
 gibus
 gibuses
 giddap
@@ -5627,6 +5626,7 @@ glisteringly
 gibers
 glitches
 glitterance
+gibstaff
 grandparenthood
 glittery
 glitteringly
