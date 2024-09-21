@@ -9264,7 +9264,6 @@ alpeen
 alpen
 alpenglow
 alpenhorns
-alpenstock
 alpenstocker
 alpenstocks
 alpestral
@@ -24017,6 +24016,7 @@ autodiffusion
 autodigestion
 autodyne
 antisplitting
+alpenstock
 aspermic
 autodynes
 autodrainage
