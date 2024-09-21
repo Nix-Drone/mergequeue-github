@@ -8121,7 +8121,6 @@ biconvex
 biconvexity
 bicorn
 buccinae
-bombyx
 bicornate
 bicorne
 bicorned
@@ -10956,6 +10955,7 @@ blksize
 bunts
 blo
 bloat
+bombyx
 backstrokes
 bloated
 benefactorship
