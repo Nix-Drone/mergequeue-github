@@ -2659,7 +2659,6 @@ decomponent
 decomponible
 decurved
 decomposability
-decomposable
 decompose
 decomposed
 delphin
@@ -14160,6 +14159,7 @@ disturbs
 dithioic
 deb
 dithiol
+decomposable
 desexualization
 dithion
 dithionate
