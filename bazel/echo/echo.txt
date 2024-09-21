@@ -1088,7 +1088,6 @@ executing
 edgeling
 edgeman
 edger
-edgers
 edges
 edgeshot
 evaluate
@@ -5123,6 +5122,7 @@ endoconidium
 endocrania
 endocranial
 esquimau
+edgers
 endocranium
 equiconvex
 endocrin
