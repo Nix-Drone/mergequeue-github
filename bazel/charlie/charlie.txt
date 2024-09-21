@@ -25596,7 +25596,6 @@ corpse
 corpselikeness
 corpses
 corpsy
-cleverness
 corpsman
 corpulences
 corpulency
@@ -26008,6 +26007,7 @@ coshering
 coshers
 coshes
 coshing
+cleverness
 cosy
 carapacial
 cosie
