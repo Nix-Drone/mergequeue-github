@@ -3452,6 +3452,7 @@ deflore
 deflorescence
 deflourish
 dropforged
+dufter
 dubash
 deflower
 deflowered
@@ -17934,7 +17935,6 @@ duffs
 dufoil
 defaecate
 dufrenoysite
-dufter
 dufterdar
 duftery
 duftite
