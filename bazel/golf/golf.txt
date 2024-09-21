@@ -3920,7 +3920,6 @@ gibsons
 gibstaff
 gibus
 gibuses
-giddap
 guideless
 giddy
 goff
@@ -8405,6 +8404,7 @@ gravediggers
 grudgment
 gravedo
 gravegarth
+giddap
 gravel
 graveled
 gravely
