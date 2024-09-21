@@ -2911,6 +2911,7 @@ cantos
 canterelle
 cantraip
 cantraips
+cephalothorax
 cantrap
 cantraps
 cantred
@@ -16877,7 +16878,6 @@ clue
 clued
 clueing
 clueless
-cephalothorax
 clues
 cluff
 cluing
