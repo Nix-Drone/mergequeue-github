@@ -5867,7 +5867,6 @@ glosses
 glossy
 glossier
 glossies
-glossiest
 granitical
 glossily
 glossina
@@ -8280,6 +8279,7 @@ grasshouse
 gaeltacht
 gammoning
 gushet
+glossiest
 grassy
 graminaceae
 gallycrow
