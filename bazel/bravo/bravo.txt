@@ -1559,7 +1559,6 @@ ballan
 ballas
 ballast
 ballastage
-bulbiform
 blanchi
 balanoglossida
 bouton
@@ -9601,6 +9600,7 @@ bisecting
 bisection
 bisectional
 bisections
+bulbiform
 bisector
 bisectors
 bisectrices
