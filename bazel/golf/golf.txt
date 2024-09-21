@@ -1780,7 +1780,6 @@ gastrodisk
 gastroduodenitis
 gastroduodenoscopy
 gastroduodenostomy
-gastroduodenotomy
 gastroelytrotomy
 gastroenteralgia
 gibson
@@ -3031,6 +3030,7 @@ gentes
 geochemists
 geochrony
 geochronology
+gastroduodenotomy
 geochronological
 geocyclic
 geocline
