@@ -9408,7 +9408,6 @@ altazimuth
 alter
 alterability
 alterable
-alterableness
 alterably
 alterate
 autoimmunized
@@ -12727,6 +12726,7 @@ anginose
 anginous
 angioataxia
 areality
+alterableness
 angioblast
 angioblastic
 angiocardiography
