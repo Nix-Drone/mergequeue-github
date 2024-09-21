@@ -5316,7 +5316,6 @@ beglitter
 begloom
 begloomed
 beglooming
-beglooms
 begloze
 begluc
 businessman
@@ -8915,6 +8914,7 @@ binukau
 bioaccumulation
 bioactivities
 bioassaying
+beglooms
 bioastronautical
 bioastronautics
 bioavailability
