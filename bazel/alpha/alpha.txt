@@ -7851,6 +7851,7 @@ alembics
 alembroth
 alemite
 alemmal
+astrometric
 alen
 alencon
 alencons
@@ -22296,7 +22297,6 @@ algogenic
 astrometeorological
 astrometeorologist
 astrometry
-astrometric
 astrometrical
 astron
 astronaut
