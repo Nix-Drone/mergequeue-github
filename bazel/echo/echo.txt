@@ -198,7 +198,6 @@ electrize
 erythritic
 earthslide
 earthsmoke
-earthtongue
 earthwall
 earthwork
 earthworks
@@ -4215,6 +4214,7 @@ empolder
 encallow
 emporetic
 embarren
+earthtongue
 emporeutic
 egging
 empory
