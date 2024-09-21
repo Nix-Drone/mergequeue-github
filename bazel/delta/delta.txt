@@ -1741,7 +1741,6 @@ dobroes
 dodecuplet
 demagnetisable
 debarked
-debarking
 debarkment
 debarks
 debarment
@@ -16822,6 +16821,7 @@ drawcut
 drawdown
 drawee
 drawer
+debarking
 drawerful
 declamation
 drawers
