@@ -1207,7 +1207,6 @@ edomitish
 exorbitate
 edoni
 edp
-edplot
 edriasteroidea
 edrioasteroid
 edrioasteroidea
@@ -12315,6 +12314,7 @@ epipsychidion
 exegeses
 exegesis
 exegesist
+edplot
 exegete
 exegetic
 exegetics
