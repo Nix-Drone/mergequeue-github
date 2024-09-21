@@ -5523,6 +5523,7 @@ deoperculate
 deoppilant
 deoppilate
 deoppilation
+dibenzopyrrole
 deorganization
 divaricate
 deorganize
@@ -8780,7 +8781,6 @@ dibenzyl
 daltonism
 dibenzoyl
 dibenzophenazine
-dibenzopyrrole
 decayable
 dibhole
 diblastula
