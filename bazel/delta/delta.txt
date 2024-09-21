@@ -6303,7 +6303,6 @@ degausses
 dermatoskeleton
 dermatotherapy
 depurated
-dermatotome
 dermatotomy
 dermatozoon
 desalinates
@@ -8690,6 +8689,7 @@ drudger
 diathermy
 diathermic
 discifloral
+dermatotome
 demoting
 diathermies
 dislimned
