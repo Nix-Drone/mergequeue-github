@@ -10099,6 +10099,7 @@ choices
 cheskeys
 cheslep
 chesoun
+crimpier
 chess
 chessart
 chessboard
@@ -29015,7 +29016,6 @@ crimper
 crimpers
 creosoter
 crimpy
-crimpier
 crimpiness
 crimping
 crimple
