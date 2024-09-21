@@ -2929,7 +2929,6 @@ feudary
 fantastical
 feudaries
 feudatary
-feudatory
 feudatorial
 feudatories
 feuded
@@ -11276,6 +11275,7 @@ funked
 funkers
 fracture
 funky
+feudatory
 funkia
 flocked
 funkias
