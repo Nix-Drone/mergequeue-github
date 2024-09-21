@@ -1075,7 +1075,6 @@ furriners
 farmable
 farmed
 farmer
-farmeress
 farmery
 filigraned
 farmeries
@@ -5715,6 +5714,7 @@ flisk
 flotative
 fanback
 fliskier
+farmeress
 fliskiest
 fribbleism
 fetologist
