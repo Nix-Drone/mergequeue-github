@@ -12073,7 +12073,6 @@ anatomizable
 anatomization
 anatomize
 anatomized
-anatomizer
 anatomizes
 anatomizing
 anatomopathologic
@@ -12746,6 +12745,7 @@ ankylocheilia
 angiochondroma
 angiocyst
 angiodermatitis
+anatomizer
 angiodiascopy
 angioelephantiasis
 atrabile
