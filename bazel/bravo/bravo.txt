@@ -4661,7 +4661,6 @@ bedcovers
 beddable
 bedders
 bedding
-beddingroll
 beddings
 bede
 bro
@@ -6649,6 +6648,7 @@ betons
 bere
 bien
 bereareft
+beddingroll
 bereason
 bereave
 bereavement
