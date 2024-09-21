@@ -1496,6 +1496,7 @@ deaden
 deadened
 deadener
 deadeners
+delimiting
 deadening
 deadeningly
 deadfall
@@ -4154,7 +4155,6 @@ delimitations
 delimited
 delimiter
 delimiters
-delimiting
 displumed
 delimitize
 delimitized
