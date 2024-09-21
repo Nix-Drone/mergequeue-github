@@ -1305,6 +1305,7 @@ emblemology
 eelshop
 eelskin
 eelware
+entreatable
 eelworm
 estragon
 een
@@ -9125,7 +9126,6 @@ ensampler
 erythraea
 erythraean
 erythraemia
-entreatable
 erythrasma
 erythrean
 erythremia
