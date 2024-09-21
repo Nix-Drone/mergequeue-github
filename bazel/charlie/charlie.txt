@@ -17398,7 +17398,6 @@ cobblership
 cobbles
 cobblestone
 cobblestoned
-cobblestones
 cobbly
 cobbling
 cobbra
@@ -26969,6 +26968,7 @@ ceriferous
 counterpoison
 conventical
 counterpoles
+cobblestones
 counterponderate
 catecheses
 cathead
