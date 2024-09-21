@@ -634,7 +634,6 @@ falsifications
 falsificator
 falsified
 finickier
-falsifier
 falsifiers
 falsifying
 falunian
@@ -4924,6 +4923,7 @@ flamingant
 flamingo
 flamingos
 feldsher
+falsifier
 faliscan
 fantaseid
 forge
