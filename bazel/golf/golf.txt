@@ -2239,7 +2239,6 @@ gazzetta
 gcd
 gconv
 gd
-gdinfo
 gds
 grayfish
 globously
@@ -3621,6 +3620,7 @@ getic
 granddaughterly
 getling
 getmjlkost
+gdinfo
 goners
 getspace
 getsul
