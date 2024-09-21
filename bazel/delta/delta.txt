@@ -11957,6 +11957,7 @@ disenamor
 disenchant
 disenchanted
 disenchanter
+duct
 disenchanting
 disenchantingly
 disenchantments
@@ -17828,7 +17829,6 @@ duckwife
 duckwing
 discrete
 ducs
-duct
 ducted
 ductibility
 ductible
