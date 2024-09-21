@@ -8087,7 +8087,6 @@ gemmiparity
 granulators
 granules
 gripper
-granulet
 galuth
 gloomful
 granulite
@@ -8883,6 +8882,7 @@ gesticulation
 grunch
 grewia
 gemming
+granulet
 grooty
 gingras
 grewsomeness
