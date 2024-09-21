@@ -860,7 +860,6 @@ gangliac
 gleds
 galvvanoscopy
 galways
-gamaliel
 gamari
 gamash
 granjeno
@@ -5309,6 +5308,7 @@ glean
 gleanable
 grayback
 gleaned
+gamaliel
 gleaner
 gleaners
 gleanings
