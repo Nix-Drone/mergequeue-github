@@ -7492,7 +7492,6 @@ fibreware
 fordwine
 foreact
 foreadmonish
-false
 flashpan
 foreadvertise
 fractionlet
@@ -10664,6 +10663,7 @@ frug
 fibrocrystalline
 forwaste
 flatnesses
+false
 frugalities
 frugalness
 fruggan
