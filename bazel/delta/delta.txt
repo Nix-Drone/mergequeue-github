@@ -12193,7 +12193,6 @@ disgorger
 disgorges
 disgorging
 disgospel
-disgospelize
 disgout
 disgrace
 disgraced
@@ -18420,6 +18419,7 @@ dynamite
 duplicities
 duplicitous
 duplicitously
+disgospelize
 duplify
 duplification
 diadematoida
