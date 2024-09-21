@@ -17615,7 +17615,6 @@ demesmerize
 dicaryotic
 drums
 drumskin
-drumslade
 drumstick
 drumsticks
 drumwood
@@ -18126,6 +18125,7 @@ dumous
 dentigerous
 dump
 dumpage
+drumslade
 dit
 dumpcart
 dioptoscopy
