@@ -3393,7 +3393,6 @@ antitheological
 adamantine
 adamantinoma
 adamantly
-adamantness
 adamantoblast
 adamantoblastoma
 adamantoma
@@ -8208,6 +8207,7 @@ aliene
 aliened
 atmophile
 alienee
+adamantness
 aliener
 auctors
 alienicola
