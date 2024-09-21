@@ -1528,7 +1528,6 @@ garrisons
 garrnishable
 garron
 garroo
-garroted
 garroters
 garrotes
 goldweed
@@ -6218,6 +6217,7 @@ gnarliest
 gnarliness
 gnarls
 gradates
+garroted
 gallicolous
 gnarr
 gnarred
