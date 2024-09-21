@@ -3266,7 +3266,6 @@ gluing
 geotectonics
 geoteuthis
 gomeril
-geotherm
 gadbush
 geothermally
 geothermic
@@ -8451,6 +8450,7 @@ graveolence
 gonochoristic
 gravette
 graveward
+geotherm
 gravewards
 gaskins
 gourmand
