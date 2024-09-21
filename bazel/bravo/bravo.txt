@@ -6485,7 +6485,6 @@ benzophenol
 benzophenone
 benzophenothiazine
 benzophenoxazine
-benzophloroglucinol
 benzophthalazine
 benzopyran
 benzopyranyl
@@ -13165,6 +13164,7 @@ bosominess
 bulker
 bosoming
 bosoms
+benzophloroglucinol
 breastworks
 bosonic
 bosporan
