@@ -5361,7 +5361,6 @@ fledgling
 flee
 fleece
 fribourg
-feirie
 fianna
 forechurch
 fleeceless
@@ -6798,6 +6797,7 @@ foisted
 foisty
 foistiness
 foists
+feirie
 foresworn
 foiter
 fokker
