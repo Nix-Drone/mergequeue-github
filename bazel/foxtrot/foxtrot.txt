@@ -5115,7 +5115,6 @@ fatigued
 fissionability
 flatly
 flatling
-flatlings
 flatlong
 flatman
 flatness
@@ -5503,6 +5502,7 @@ fractionate
 frough
 flexes
 flexibilities
+flatlings
 flexibilty
 forger
 flexible
