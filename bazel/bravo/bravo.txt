@@ -2840,7 +2840,6 @@ barony
 bassets
 baronial
 baronies
-baronize
 baronized
 baronnes
 baronries
@@ -11705,6 +11704,7 @@ boc
 biopyribole
 boca
 bocaccio
+baronize
 bocaccios
 bluisness
 bocage
