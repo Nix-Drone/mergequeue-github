@@ -4203,7 +4203,6 @@ carex
 cottages
 carfare
 carfares
-carfax
 carfloat
 codebreak
 comprizable
@@ -24030,6 +24029,7 @@ conventional
 conventionalisation
 conventionalise
 counterquip
+carfax
 conventionalised
 conoscope
 conventionalising
