@@ -5325,7 +5325,6 @@ endosomes
 endospermic
 endospermous
 endospore
-encharm
 endows
 endostea
 epiphyte
@@ -8380,6 +8379,7 @@ epithelize
 epitheloid
 epithem
 emulating
+encharm
 epitheme
 epithermal
 ensilaging
