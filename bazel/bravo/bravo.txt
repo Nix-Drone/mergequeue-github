@@ -13446,6 +13446,7 @@ bouchette
 bouchon
 bouchons
 boucl
+brushable
 boucle
 boucles
 boudeuse
@@ -16380,7 +16381,6 @@ brunts
 bruscha
 brush
 brushability
-brushable
 brushback
 brushbird
 brushcut
