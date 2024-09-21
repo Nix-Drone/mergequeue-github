@@ -5915,7 +5915,6 @@ enigmas
 enigmata
 enigmatical
 elephantiasic
-enigmaticalness
 ephphatha
 enigmatist
 enigmatize
@@ -13348,6 +13347,7 @@ expresses
 endergonic
 expressio
 expression
+enigmaticalness
 expressionable
 expressional
 extrinsic
