@@ -6410,7 +6410,6 @@ entranceway
 ensignhood
 ensilaged
 ensilages
-episcopal
 ensilate
 ensilation
 ensile
@@ -6521,6 +6520,7 @@ enswathing
 ensweep
 ensweeten
 ephyra
+episcopal
 entablature
 emigrated
 exstruct
