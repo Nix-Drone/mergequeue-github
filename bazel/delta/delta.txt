@@ -6256,7 +6256,6 @@ dermatologies
 dermatologists
 dermatoma
 dermatome
-daubing
 dermatomere
 desugar
 dermatomic
@@ -17058,6 +17057,7 @@ dryads
 drias
 dryas
 deifier
+daubing
 dryasdust
 dribber
 dichelyma
