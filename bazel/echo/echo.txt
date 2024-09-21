@@ -5143,7 +5143,6 @@ embosser
 endocrinopathic
 endocritic
 eruca
-endoderm
 endodermal
 endodermic
 endodermis
@@ -10656,6 +10655,7 @@ euchorda
 euchre
 euchred
 enchest
+endoderm
 euchres
 excoecaria
 erotomania
