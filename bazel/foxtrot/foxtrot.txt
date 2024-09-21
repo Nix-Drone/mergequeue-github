@@ -4408,7 +4408,6 @@ fishman
 fishmeals
 fishmonger
 ferociousness
-fishmouth
 fishnet
 frank
 fishnets
@@ -5097,6 +5096,7 @@ flated
 flatette
 flatfishes
 flatfoot
+fishmouth
 flatfootedly
 flathat
 flathead
