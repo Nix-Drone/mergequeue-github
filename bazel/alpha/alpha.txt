@@ -11611,6 +11611,7 @@ anaesthetics
 anaesthetist
 anaesthetization
 anaesthetize
+adjournments
 anaesthetized
 anaesthetizer
 arbalester
@@ -12340,7 +12341,6 @@ anthralin
 aortolith
 andrias
 amphigouris
-adjournments
 andric
 andrite
 androcentric
