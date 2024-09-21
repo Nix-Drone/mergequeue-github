@@ -2817,7 +2817,6 @@ bibliolater
 bobberies
 baroness
 baronesses
-baronet
 baronetage
 beswelter
 baronetcy
@@ -9660,6 +9659,7 @@ bestir
 bisilicate
 bisyllabic
 bisyllabism
+baronet
 bulleting
 bisimine
 bushily
