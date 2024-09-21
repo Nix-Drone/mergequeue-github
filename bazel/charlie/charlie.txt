@@ -11553,6 +11553,7 @@ cholecyanine
 cholecyst
 cholecystectasia
 cholecystectomy
+circularized
 cholecystectomized
 cholecystenterorrhaphy
 cholecystenterostomy
@@ -14220,7 +14221,6 @@ caulerpa
 colanders
 circularization
 circularizations
-circularized
 chartology
 chromophotolithograph
 circularizers
