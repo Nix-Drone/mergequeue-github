@@ -15270,7 +15270,6 @@ claylike
 clayman
 claimant
 claimants
-claimed
 composograph
 claimer
 consumables
@@ -31751,6 +31750,7 @@ customizer
 customizers
 customizes
 customizing
+claimed
 customly
 citronade
 customs
