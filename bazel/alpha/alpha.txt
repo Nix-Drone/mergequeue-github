@@ -4610,7 +4610,6 @@ adversus
 adverted
 advertence
 advertency
-advertent
 advertently
 adverting
 advertisable
@@ -10186,6 +10185,7 @@ amelia
 amelification
 ameliorable
 ameliorableness
+advertent
 ameliorant
 ameliorate
 ameliorated
