@@ -4759,7 +4759,6 @@ bedlamite
 bedlamitish
 bedlamize
 bedlamized
-bedlamizing
 bedlamp
 bedlamps
 bedlams
@@ -13103,6 +13102,7 @@ borty
 borts
 bortsch
 beworm
+bedlamizing
 ballasts
 bortz
 bilateralness
