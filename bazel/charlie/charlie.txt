@@ -9662,7 +9662,6 @@ cheeseboard
 cheesebox
 cheeseburger
 cheeseburgers
-cheesecake
 cheesecakes
 cheesecloth
 cheesecloths
@@ -25146,6 +25145,7 @@ corylaceae
 corylaceous
 corylin
 corylopsis
+cheesecake
 corylus
 corymb
 corymbed
