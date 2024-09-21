@@ -14458,7 +14458,6 @@ anthos
 anthosiderite
 anthospermum
 anthotaxy
-anthotaxis
 anthotropic
 anthotropism
 anthoxanthum
@@ -17325,6 +17324,7 @@ apomorphine
 aponeurology
 aponeurorrhaphy
 aponeuroses
+anthotaxis
 aponeurosis
 aponeurositis
 antivirus
