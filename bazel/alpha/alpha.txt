@@ -10532,7 +10532,6 @@ amyloidosis
 amyloleucite
 amylolysis
 amylolytic
-amylom
 amylometer
 amylopectin
 amylophagia
@@ -16840,6 +16839,7 @@ aphasia
 aphasiacs
 aphasic
 aphasics
+amylom
 aphelandra
 aphelenchus
 aphelia
