@@ -2022,7 +2022,6 @@ baahling
 bins
 barrad
 bdls
-bandwidth
 bandwidths
 bandwork
 bandworm
@@ -13776,6 +13775,7 @@ bilious
 bowing
 bowings
 bowk
+bandwidth
 badinage
 bowkail
 bowknots
