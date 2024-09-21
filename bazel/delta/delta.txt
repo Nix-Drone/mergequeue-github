@@ -9159,7 +9159,6 @@ ditriglyph
 dieb
 diebacks
 dyebeck
-diecase
 diecious
 diectasis
 died
@@ -15458,6 +15457,7 @@ donatives
 donator
 donators
 donatress
+diecase
 donax
 digitizer
 doncella
