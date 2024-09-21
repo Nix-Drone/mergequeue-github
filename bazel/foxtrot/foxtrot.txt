@@ -6099,7 +6099,6 @@ flotages
 favorability
 foregoes
 flote
-fustin
 fragor
 felspar
 furnisher
@@ -9474,6 +9473,7 @@ foredetermine
 frails
 frankliniana
 franklinic
+fustin
 fraser
 franklinization
 franklins
