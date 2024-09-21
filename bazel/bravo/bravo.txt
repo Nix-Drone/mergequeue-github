@@ -548,7 +548,6 @@ backtender
 backtenter
 backtrack
 backtracked
-backtracker
 backtracking
 backtracks
 backtrail
@@ -1190,6 +1189,7 @@ boxer
 beelzebubian
 bajocco
 bajochi
+backtracker
 bajocian
 bajoire
 beliquor
