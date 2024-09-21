@@ -5908,7 +5908,6 @@ flooder
 flooders
 floodgate
 floodgates
-frontlessly
 floody
 flunkyhood
 flooding
@@ -8534,6 +8533,7 @@ fontinal
 frostbird
 formulisation
 friaries
+frontlessly
 flunkeyish
 formulising
 flinchers
