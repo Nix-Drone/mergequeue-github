@@ -54,6 +54,7 @@ faceable
 facebar
 facebow
 facecloth
+fraist
 firestone
 faced
 foreladies
@@ -9350,7 +9351,6 @@ futilely
 fixgig
 fraises
 fascinery
-fraist
 formalazine
 fikie
 frontispieced
