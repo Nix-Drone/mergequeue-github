@@ -1925,6 +1925,7 @@ bandgap
 bandh
 brownism
 bandhava
+bransolder
 bandhook
 borer
 bandhu
@@ -14550,7 +14551,6 @@ branniness
 babas
 branning
 bransle
-bransolder
 branta
 brantail
 brantails
