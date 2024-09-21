@@ -3360,6 +3360,7 @@ firstlings
 fief
 foredeem
 fiefs
+fantod
 forfeitable
 fiel
 fieldball
@@ -7295,7 +7296,6 @@ foozle
 fustianist
 fiord
 foozled
-fantod
 foozler
 foozlers
 fop
