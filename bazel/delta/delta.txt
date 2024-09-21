@@ -6869,7 +6869,6 @@ despatched
 despatcher
 despatches
 despatching
-despecialization
 dispute
 despecialize
 despecificate
@@ -11454,6 +11453,7 @@ dure
 discoloured
 discolouring
 discolourization
+despecialization
 discombobulate
 dummerer
 discombobulated
