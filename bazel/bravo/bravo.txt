@@ -4600,7 +4600,6 @@ becurry
 bondland
 becurse
 becursed
-becurses
 becursing
 becurst
 becurtained
@@ -5810,6 +5809,7 @@ bellyache
 bellmaker
 burgling
 bellyached
+becurses
 bismethyl
 bellyfuls
 bdl
