@@ -1082,7 +1082,6 @@ edge
 edgebone
 emyd
 edgeboned
-emulsor
 edgeless
 executing
 edgeling
@@ -5818,6 +5817,7 @@ engraver
 engravers
 engraves
 easts
+emulsor
 engysseismology
 endophytous
 engravings
