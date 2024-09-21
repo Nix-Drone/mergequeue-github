@@ -3519,7 +3519,6 @@ disknow
 deformable
 deformalize
 deformation
-deformational
 delete
 deformations
 deformative
@@ -14763,6 +14762,7 @@ dumky
 documentations
 disposableness
 documenter
+deformational
 documenters
 documenting
 documentize
