@@ -13819,7 +13819,6 @@ bowpot
 bowpots
 blitheful
 bows
-bowsaw
 bowsed
 bowser
 baccalaurean
@@ -13860,6 +13859,7 @@ boxhaul
 boxhauled
 brierberry
 boxhauling
+bowsaw
 boxhauls
 biathlons
 boxhead
