@@ -9937,7 +9937,6 @@ christenhead
 chemostat
 collateral
 cancers
-chemosterilants
 chemosurgery
 chemosurgical
 chemotactic
@@ -27840,6 +27839,7 @@ correal
 crackerjack
 crackerjacks
 crackers
+chemosterilants
 cracket
 crackhemp
 cracky
