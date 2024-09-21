@@ -9212,7 +9212,6 @@ frache
 function
 fracid
 fouls
-forklike
 fractal
 fracted
 fungify
@@ -10108,6 +10107,7 @@ fringed
 fulgora
 fringehead
 fringeless
+forklike
 fringelet
 fringelike
 fringent
