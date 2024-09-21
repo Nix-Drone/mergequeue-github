@@ -3995,6 +3995,7 @@ forfeited
 fingerprint
 fingerprints
 fingerroot
+forkedness
 forleft
 fingers
 fragrance
@@ -8314,7 +8315,6 @@ forjudgment
 fork
 forkbeard
 forked
-forkedness
 forker
 forkers
 forkfuls
