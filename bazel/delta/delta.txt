@@ -10725,6 +10725,7 @@ dipsy
 dipsie
 dipsomaniacs
 dipsopathy
+drawpoint
 dipsosaurus
 dipsosis
 dipstick
@@ -16857,7 +16858,6 @@ diffidence
 drawoff
 drawout
 drawplate
-drawpoint
 draws
 drawshave
 drawsheet
