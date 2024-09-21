@@ -1897,6 +1897,7 @@ debted
 debtee
 debtful
 debtless
+disordering
 debtor
 debtors
 debugger
@@ -12857,7 +12858,6 @@ disordered
 dopant
 disorderer
 drey
-disordering
 disciplinatory
 disorderly
 drupal
