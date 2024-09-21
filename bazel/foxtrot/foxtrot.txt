@@ -4827,6 +4827,7 @@ flayed
 fault
 front
 flayer
+footrests
 flaying
 flailed
 fluidify
@@ -7239,7 +7240,6 @@ footprint
 flocculating
 footraces
 footrest
-footrests
 footrope
 footropes
 foots
