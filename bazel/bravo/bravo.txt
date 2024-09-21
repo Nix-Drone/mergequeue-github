@@ -5979,6 +5979,7 @@ belting
 beltings
 beltir
 benumbing
+biplicate
 biparous
 beltless
 beltmaker
@@ -9323,7 +9324,6 @@ biplanar
 biplane
 bobolink
 biplanes
-biplicate
 biplicity
 banishments
 biplosion
