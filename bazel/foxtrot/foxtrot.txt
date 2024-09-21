@@ -7150,6 +7150,7 @@ finedraw
 facer
 figwort
 foeniculum
+foretrace
 footed
 footeite
 fenouillette
@@ -8133,7 +8134,6 @@ foretopman
 foretopmast
 foretopmen
 foretops
-foretrace
 foreuse
 foreutter
 fittable
