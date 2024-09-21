@@ -3885,7 +3885,6 @@ emeu
 engladden
 emf
 emulator
-emforth
 emic
 emicant
 emicate
@@ -12311,6 +12310,7 @@ executrices
 executrixes
 executrixship
 exede
+emforth
 epipsychidion
 exegeses
 exegesis
