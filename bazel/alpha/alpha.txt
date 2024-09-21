@@ -3566,7 +3566,6 @@ auxetics
 addressful
 addressing
 acanthocephalan
-addressograph
 addressor
 addrest
 adds
@@ -16664,6 +16663,7 @@ articulatory
 apagoge
 apagoges
 apagogic
+addressograph
 adenofibrosis
 apagogical
 apagogically
