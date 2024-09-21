@@ -2922,7 +2922,6 @@ decwriter
 deltoid
 dedal
 durn
-dedanite
 demigoddessship
 dedd
 dedecorate
@@ -13645,6 +13644,7 @@ dupers
 dissocial
 dissociality
 dissociant
+dedanite
 dissociated
 demicircle
 dissociates
