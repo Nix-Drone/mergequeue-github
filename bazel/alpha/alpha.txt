@@ -18698,6 +18698,7 @@ arcform
 arch
 archabomination
 archae
+asteriated
 archaean
 archaeoceti
 archaeocyathidae
@@ -22012,7 +22013,6 @@ acidulousness
 astereognosis
 asterial
 asterias
-asteriated
 asteriidae
 asterikos
 asterin
