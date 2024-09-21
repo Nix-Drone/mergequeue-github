@@ -8506,7 +8506,6 @@ alkin
 alkine
 alkyne
 alkynes
-alkitran
 alkool
 alkoran
 alkoxy
@@ -22752,6 +22751,7 @@ atomy
 atomic
 atomical
 atomically
+alkitran
 atomician
 ahnfeltia
 atomicism
