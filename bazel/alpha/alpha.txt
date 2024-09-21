@@ -5248,7 +5248,6 @@ affecter
 affecters
 affectibility
 accus
-affectible
 affecting
 acrorhagus
 affectingly
@@ -22231,6 +22230,7 @@ astrocytoma
 astrocytomas
 astrocytomata
 asperger
+affectible
 astrocompass
 astrodiagnosis
 astrodynamic
