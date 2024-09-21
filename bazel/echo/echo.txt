@@ -1760,7 +1760,6 @@ effie
 endow
 eyeberry
 eyeblack
-eyeblink
 eyebright
 eyebrows
 eyecup
@@ -10951,6 +10950,7 @@ euphemistically
 euphemization
 embryonally
 etymologic
+eyeblink
 euphemizer
 euphemous
 euphenic
