@@ -5260,7 +5260,6 @@ endopoditic
 euphonium
 endopods
 endopolyploidy
-endoprocta
 endoproctous
 endopterygota
 endopterygote
@@ -13583,6 +13582,7 @@ exterior
 equisegmented
 exterioration
 exteriorisation
+endoprocta
 exteriorise
 exteriorised
 epicyesis
