@@ -3858,7 +3858,6 @@ carburization
 carburize
 carburized
 carburizer
-carburizes
 carburizing
 carburometer
 coedits
@@ -27904,6 +27903,7 @@ craftly
 crafts
 craftsman
 craftsmanly
+carburizes
 charactonym
 craftsmanlike
 craftsmanship
