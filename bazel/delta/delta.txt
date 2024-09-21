@@ -10661,7 +10661,6 @@ dipnoan
 dipnoans
 dipnoi
 diphaser
-dipnoid
 dasyure
 dypnone
 doublewords
@@ -16857,6 +16856,7 @@ diffidence
 drawoff
 drawout
 drawplate
+dipnoid
 drawpoint
 draws
 drawshave
