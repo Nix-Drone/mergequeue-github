@@ -633,7 +633,6 @@ bacteriemia
 bacteriform
 bacterin
 borofluoric
-bacterioagglutinin
 bacterioblast
 bacteriochlorophyll
 bacteriocin
@@ -11805,6 +11804,7 @@ bewelter
 bodysurfed
 bodysurfer
 bodysurfing
+bacterioagglutinin
 bodywear
 balas
 bodywise
