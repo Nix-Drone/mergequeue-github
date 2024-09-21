@@ -3047,7 +3047,6 @@ bartended
 betrayer
 bartender
 bess
-bartenders
 bartending
 barter
 barterer
@@ -10032,6 +10031,7 @@ backsey
 bkpt
 bocasine
 bks
+bartenders
 bkt
 bl
 blaasop
