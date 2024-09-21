@@ -5619,7 +5619,6 @@ belays
 brandishers
 belait
 biface
-belaites
 belam
 belamcanda
 belamy
@@ -9750,6 +9749,7 @@ bist
 bistable
 backwashed
 bystander
+belaites
 bistate
 bistephanic
 bister
