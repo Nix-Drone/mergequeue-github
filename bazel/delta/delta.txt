@@ -12567,7 +12567,6 @@ disjudication
 disjunctions
 disjunctive
 disjunctively
-disjunctor
 disjuncts
 dereferences
 disjuncture
@@ -13438,6 +13437,7 @@ dissait
 dissatisfaction
 dissatisfactions
 dissatisfactory
+disjunctor
 dissatisfactorily
 dissatisfactoriness
 doctorlike
