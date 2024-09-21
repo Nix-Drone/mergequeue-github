@@ -7120,6 +7120,7 @@ beknots
 besottedness
 besotter
 besotting
+bool
 besottingly
 bemusedly
 besour
@@ -12729,7 +12730,6 @@ bookworm
 bookworms
 bucketeer
 bookwright
-bool
 bowline
 boolean
 booleans
