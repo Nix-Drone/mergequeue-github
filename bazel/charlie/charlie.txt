@@ -3006,7 +3006,6 @@ capataces
 capataz
 capax
 capcase
-cape
 capeadores
 capel
 capelan
@@ -8598,6 +8597,7 @@ chanceless
 chancelled
 chancellery
 chancelleries
+cape
 chancellor
 chancellorate
 chancelloress
