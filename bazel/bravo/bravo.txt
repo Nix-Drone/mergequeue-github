@@ -2916,6 +2916,7 @@ bridebowl
 barragan
 barrage
 barnmen
+becovet
 barraged
 barrages
 barraging
@@ -12085,7 +12086,6 @@ boldfacing
 batodendron
 boldhearted
 boldheartedly
-becovet
 boldin
 boldine
 bolding
