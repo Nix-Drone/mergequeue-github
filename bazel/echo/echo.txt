@@ -5741,7 +5741,6 @@ engler
 euchologion
 extrasystolic
 english
-englishable
 englisher
 enshrines
 epinikia
@@ -11556,6 +11555,7 @@ evidential
 evidentially
 evidentiary
 evidently
+englishable
 ectene
 evidentness
 evigilation
