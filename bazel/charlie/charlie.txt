@@ -9565,6 +9565,7 @@ checkroom
 compathy
 checkrooms
 checkrope
+ctr
 checkrow
 checkrower
 checkrowing
@@ -30415,7 +30416,6 @@ ctimo
 ctn
 cto
 carbo
-ctr
 cts
 cu
 cuadra
