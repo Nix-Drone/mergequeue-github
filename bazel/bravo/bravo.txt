@@ -12732,7 +12732,6 @@ bookwright
 bool
 bowline
 boolean
-booleans
 booley
 booleys
 booly
@@ -14917,6 +14916,7 @@ breathing
 breathingly
 breathless
 breathlessly
+booleans
 breathlessness
 breaths
 breathseller
