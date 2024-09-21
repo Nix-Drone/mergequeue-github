@@ -4658,6 +4658,7 @@ bedclothing
 bedcord
 byplays
 bedcovers
+barn
 beddable
 bedders
 bedding
@@ -14263,7 +14264,6 @@ brahmanists
 brahmanize
 brahmapootra
 brahmas
-barn
 brahmi
 blowback
 brahmin
