@@ -3622,7 +3622,6 @@ frailly
 filesmith
 filesniff
 flagships
-filespec
 forficula
 fossores
 fileting
@@ -10291,6 +10290,7 @@ feyness
 ferrado
 frog
 frogbit
+filespec
 figurette
 frogeye
 frogeyed
