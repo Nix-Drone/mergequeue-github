@@ -823,7 +823,6 @@ girt
 galvanometric
 geometries
 generously
-gouldian
 galvanometrical
 galvanoplasty
 galvanoplastic
@@ -5439,6 +5438,7 @@ glycogen
 galactogogue
 glycogenase
 glycogeny
+gouldian
 glycogenic
 glycogenize
 glycogenolytic
