@@ -2474,7 +2474,6 @@ bardash
 bardcraft
 balate
 barde
-butylation
 bardes
 bardesanite
 barwin
@@ -3611,6 +3610,7 @@ bathylite
 bowshot
 barnumize
 bathylithic
+butylation
 bathylitic
 bathymeter
 blithesomeness
