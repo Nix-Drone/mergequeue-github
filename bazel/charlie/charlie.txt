@@ -16302,7 +16302,6 @@ clints
 clio
 cliona
 clip
-clipboard
 clipboards
 clype
 clypeal
@@ -31640,6 +31639,7 @@ cusconin
 cusconine
 crossbreeds
 cuscus
+clipboard
 cuscuses
 cuscuta
 cuscutaceae
