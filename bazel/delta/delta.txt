@@ -2474,7 +2474,6 @@ deckhouse
 deckle
 deckman
 deckpipe
-decks
 dulls
 deckswabber
 decl
@@ -9972,6 +9971,7 @@ dimplier
 dimpliest
 dimps
 dimpsy
+decks
 dimwit
 djinn
 dimwittedly
