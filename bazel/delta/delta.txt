@@ -7031,6 +7031,7 @@ destrier
 destriers
 destroy
 destroyable
+discomposure
 destroyed
 dismays
 destroyer
@@ -13136,7 +13137,6 @@ decedents
 displenish
 disgress
 deflocculation
-discomposure
 displicence
 displicency
 displode
