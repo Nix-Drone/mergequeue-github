@@ -3725,7 +3725,6 @@ dehydratase
 dimensioned
 doolies
 dehydrate
-dehydrates
 dehydrating
 disruptiveness
 dicyanin
@@ -15729,6 +15728,7 @@ dormancies
 dammar
 dormant
 dormantly
+dehydrates
 dormer
 dammara
 dormered
