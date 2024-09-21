@@ -3383,7 +3383,6 @@ epionynychia
 embars
 embase
 embassadress
-embassy
 embassiate
 embassies
 embastardize
@@ -10505,6 +10504,7 @@ electropositive
 epicenters
 ethopoeia
 ethoses
+embassy
 ethoxide
 ethoxyethane
 eriosoma
