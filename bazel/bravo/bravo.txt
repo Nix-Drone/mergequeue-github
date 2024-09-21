@@ -3961,6 +3961,7 @@ barrow
 bawrel
 badling
 bawsint
+browned
 bawsunt
 bawtie
 bawties
@@ -16218,7 +16219,6 @@ batlan
 browis
 browless
 brown
-browned
 brownest
 browny
 brownian
