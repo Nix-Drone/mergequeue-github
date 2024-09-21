@@ -2343,7 +2343,6 @@ explorational
 electrocautery
 evasion
 electroceramic
-electrochemical
 electrochemically
 electrochemistry
 electrochronometer
@@ -7071,6 +7070,7 @@ entrike
 entryman
 enteroid
 entrymen
+electrochemical
 entryway
 entryways
 episcopes
