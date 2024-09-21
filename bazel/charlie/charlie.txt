@@ -8824,7 +8824,6 @@ chapelries
 chapels
 cardiologies
 chapelward
-chaperno
 chaperon
 chaperonage
 chaperone
@@ -20024,6 +20023,7 @@ commentable
 commentary
 commentarial
 commentarialism
+chaperno
 colpoperineoplasty
 commentaries
 centralisation
