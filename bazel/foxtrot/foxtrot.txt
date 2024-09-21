@@ -1700,7 +1700,6 @@ fdnames
 fdtype
 fdub
 fortuitousness
-fe
 forksmith
 feaberry
 frugivora
@@ -5130,6 +5129,7 @@ flatterdock
 flattered
 fragmentized
 foolheadedness
+fe
 floggings
 flatterer
 flatteress
