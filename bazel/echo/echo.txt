@@ -6598,7 +6598,6 @@ enteraden
 enteradenography
 enteradenographic
 enteradenological
-enteral
 enterally
 enterate
 enterclose
@@ -13346,6 +13345,7 @@ expressed
 expresser
 expresses
 endergonic
+enteral
 expressio
 expression
 expressionable
