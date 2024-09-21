@@ -4181,7 +4181,6 @@ employe
 estado
 employed
 employee
-employees
 employer
 exedral
 employers
@@ -12224,6 +12223,7 @@ excursiveness
 excursus
 excursuses
 excurvated
+employees
 excurvature
 esclavage
 excurved
