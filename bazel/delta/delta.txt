@@ -13478,6 +13478,7 @@ dissectors
 dissects
 desperadoes
 disseise
+domitable
 disseised
 disseisee
 disseized
@@ -15409,7 +15410,6 @@ dominos
 discontentful
 dominule
 dominus
-domitable
 dozy
 domite
 domitian
