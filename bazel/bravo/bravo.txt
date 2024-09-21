@@ -1892,7 +1892,6 @@ bandana
 bandanaed
 bandannaed
 bandannas
-bandarlog
 bandbox
 bandboxes
 bandboxy
@@ -6689,6 +6688,7 @@ beezers
 blowers
 bergaptene
 buoyance
+bandarlog
 bergeret
 bergfall
 benefactions
