@@ -9136,6 +9136,7 @@ almsful
 almsgiver
 almsgiving
 almshouse
+arrestable
 albertype
 almsman
 actinobacilli
@@ -20214,7 +20215,6 @@ arreption
 arreptitious
 anconad
 arrest
-arrestable
 arrestant
 albi
 arrestation
