@@ -1074,7 +1074,6 @@ abstort
 abstr
 abstract
 abstractable
-abstracted
 abstractedly
 abstracter
 abstracters
@@ -11263,6 +11262,7 @@ amphora
 amphorae
 amphoral
 amphore
+abstracted
 amphorette
 amphoric
 amphoriloquy
