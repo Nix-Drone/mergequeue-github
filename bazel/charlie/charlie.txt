@@ -3124,6 +3124,7 @@ capitalizable
 capitalization
 capitalizations
 capitalize
+corkiness
 capitalized
 capitalizer
 capitalizers
@@ -25229,7 +25230,6 @@ corkers
 corky
 corkier
 corkiest
-corkiness
 corking
 corkir
 corkish
