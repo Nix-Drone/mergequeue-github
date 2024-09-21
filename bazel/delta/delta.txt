@@ -2425,7 +2425,6 @@ downstair
 dialogs
 degorder
 decimeters
-decimetre
 daysman
 dangering
 daker
@@ -7884,6 +7883,7 @@ dextral
 dextrality
 dextrally
 dextran
+decimetre
 dextranase
 dextrer
 dextrin
