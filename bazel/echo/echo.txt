@@ -6155,7 +6155,6 @@ enodation
 enode
 enoil
 enoint
-enol
 enolase
 enolases
 enolic
@@ -7936,6 +7935,7 @@ epil
 epilabra
 epilamellar
 epilate
+enol
 epilating
 enforceable
 epilation
