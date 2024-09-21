@@ -5692,7 +5692,6 @@ aftersound
 afterspeech
 afterspring
 appetisse
-afterstorm
 afterstretch
 afterstudy
 aftersupper
@@ -6661,6 +6660,7 @@ aichmophobia
 aidance
 aidant
 anhedonia
+afterstorm
 aide
 aided
 aydendron
