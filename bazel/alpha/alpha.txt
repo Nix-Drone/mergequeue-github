@@ -7548,7 +7548,6 @@ alembicate
 alcaide
 alcayde
 alcaydes
-alcalde
 alcaldes
 alcaldeship
 alcaldia
@@ -7851,6 +7850,7 @@ alembics
 alembroth
 alemite
 alemmal
+alcalde
 alen
 alencon
 alencons
