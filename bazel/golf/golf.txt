@@ -5113,7 +5113,6 @@ glamourless
 glamourous
 glance
 glanced
-glancing
 glancingly
 growled
 gland
@@ -8498,6 +8497,7 @@ gravitometer
 graviton
 gravitons
 garb
+glancing
 grabbed
 gravure
 grazable
