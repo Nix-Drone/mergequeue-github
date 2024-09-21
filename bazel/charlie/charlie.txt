@@ -27104,7 +27104,6 @@ counterstroke
 counterstruggle
 countersubject
 countersuit
-countersun
 countersunken
 cowls
 countersurprise
@@ -27476,6 +27475,7 @@ chemins
 consumation
 coverlid
 coverlids
+countersun
 covers
 chymosins
 caller
