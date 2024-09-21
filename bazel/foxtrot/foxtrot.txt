@@ -4422,6 +4422,7 @@ fishskin
 fishspear
 fishtail
 fishtailed
+fleerer
 flether
 fishtails
 fishway
@@ -5390,7 +5391,6 @@ fling
 fleecing
 fleeing
 festinance
-fleerer
 fleering
 frisii
 fleerish
