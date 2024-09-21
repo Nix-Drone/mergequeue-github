@@ -2579,7 +2579,6 @@ decodable
 decode
 decoded
 decoders
-decodes
 decoding
 decodon
 decoherence
@@ -14853,6 +14852,7 @@ dodonaea
 dodonaeaceae
 dodonaean
 dodonaena
+decodes
 disanagrammatize
 dodonean
 dehydrated
