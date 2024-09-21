@@ -7332,7 +7332,6 @@ besully
 beswarm
 beswarmed
 beswarms
-besweatered
 beswim
 beswink
 bet
@@ -12633,6 +12632,7 @@ bookcraft
 bookdealer
 bushmaster
 bookends
+besweatered
 booker
 bookery
 bookers
