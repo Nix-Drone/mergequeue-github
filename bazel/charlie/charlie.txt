@@ -4583,7 +4583,6 @@ conjurership
 carousal
 carousals
 carouse
-caroused
 carousel
 carousels
 carouser
@@ -28591,6 +28590,7 @@ cremate
 cremates
 crosspoints
 cremating
+caroused
 cremation
 cremationism
 cremationist
