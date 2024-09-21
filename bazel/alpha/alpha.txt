@@ -12060,7 +12060,6 @@ anatomicomedical
 anatomicopathologic
 anatomicopathological
 acronyms
-anatomicophysiologic
 arteriofibrosis
 anatomies
 anatomiless
@@ -24357,6 +24356,7 @@ affodill
 autoschediastically
 autoschediaze
 autoscience
+anatomicophysiologic
 autoscope
 autoscopy
 autoscopic
