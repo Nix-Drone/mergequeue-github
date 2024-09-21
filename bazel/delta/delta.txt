@@ -3061,6 +3061,7 @@ deepwaterman
 deepwatermen
 deer
 desulfurs
+diplomates
 deerberry
 deerdog
 deerdrive
@@ -10582,7 +10583,6 @@ diplomas
 diplomat
 diplomata
 diplomate
-diplomates
 diplomatically
 diplomatique
 diplomatism
