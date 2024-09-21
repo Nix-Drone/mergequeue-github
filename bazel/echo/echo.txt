@@ -3888,7 +3888,6 @@ emulator
 emforth
 emic
 emicant
-emicate
 emication
 emyde
 emydea
@@ -13551,6 +13550,7 @@ engagedness
 extensionless
 extensions
 extensity
+emicate
 endorsements
 extensive
 endear
