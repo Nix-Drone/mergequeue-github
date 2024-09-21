@@ -2458,6 +2458,7 @@ barcarolle
 barcas
 barcella
 bumblebees
+bulkheading
 barcelona
 boxwork
 barchan
@@ -17040,7 +17041,6 @@ bulkage
 bulked
 boldfaces
 bulkhead
-bulkheading
 bulkheads
 bulky
 bulkier
