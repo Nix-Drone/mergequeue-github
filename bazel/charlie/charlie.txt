@@ -11773,7 +11773,6 @@ chondromata
 chondromatous
 chondromyces
 chondromyxoma
-chondromyxosarcoma
 chondromucoid
 chondropharyngeal
 chondropharyngeus
@@ -15100,6 +15099,7 @@ countermachination
 civical
 centaurs
 civically
+chondromyxosarcoma
 civicism
 civicisms
 civics
