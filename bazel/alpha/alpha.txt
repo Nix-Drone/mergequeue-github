@@ -3160,7 +3160,6 @@ adonize
 actinophrys
 actinopod
 actinopraxis
-actinopteran
 actinopteri
 actinopterygian
 amylopsase
@@ -21586,6 +21585,7 @@ assamites
 assapan
 assapanic
 assapanick
+actinopteran
 assary
 assart
 assassin
