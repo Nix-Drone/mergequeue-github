@@ -9226,6 +9226,7 @@ biotypology
 biotite
 biotites
 biotome
+buffaloback
 buoys
 bogtrot
 brothered
@@ -16803,7 +16804,6 @@ bufagin
 buffability
 buffable
 buffalo
-buffaloback
 birkenia
 blasty
 buffaloes
