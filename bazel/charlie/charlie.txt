@@ -18858,6 +18858,7 @@ collapsable
 collapsar
 cascado
 collapse
+compositionally
 collapsed
 collapses
 contam
@@ -20811,7 +20812,6 @@ composites
 compositing
 composition
 compositional
-compositionally
 compositions
 conspirational
 compositive
