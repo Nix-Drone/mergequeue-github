@@ -7155,6 +7155,7 @@ detd
 detect
 detectability
 daishiki
+discriminate
 detected
 detecter
 detecters
@@ -11970,7 +11971,6 @@ disenclose
 disencourage
 disencumbered
 disencumberment
-discriminate
 disencumbers
 disencumbrance
 disendow
