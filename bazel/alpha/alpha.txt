@@ -9404,7 +9404,6 @@ altarlet
 altarpieces
 altars
 afghanets
-altazimuth
 alter
 alterability
 alterable
@@ -15461,6 +15460,7 @@ antiliturgical
 antiliturgist
 antilobium
 antilocapra
+altazimuth
 antilochus
 anaglypton
 antiloemic
