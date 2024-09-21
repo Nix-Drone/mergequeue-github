@@ -9898,7 +9898,6 @@ chemolytic
 coasted
 colpostat
 culicinae
-chemolyze
 chemonite
 creviced
 chemopallidectomy
@@ -23272,6 +23271,7 @@ consumer
 consumerist
 consumership
 consumes
+chemolyze
 consuming
 consumingly
 consumingness
