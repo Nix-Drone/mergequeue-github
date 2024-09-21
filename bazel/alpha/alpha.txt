@@ -6958,7 +6958,6 @@ addled
 apostolic
 airspeed
 airspeeds
-airstream
 akinetic
 allegory
 airstrip
@@ -13032,6 +13031,7 @@ anhemolytic
 anhyd
 anhydraemia
 anhydraemic
+airstream
 anhydrated
 amgarn
 anhydrating
