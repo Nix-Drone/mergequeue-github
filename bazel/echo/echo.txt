@@ -2947,7 +2947,6 @@ elide
 enameloma
 egrimony
 exogastric
-elided
 enameler
 elides
 elidible
@@ -13123,6 +13122,7 @@ expirer
 expirers
 expires
 enacture
+elided
 euploidies
 expiry
 expiries
