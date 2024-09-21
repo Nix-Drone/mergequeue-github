@@ -1676,7 +1676,6 @@ ballottine
 ballottines
 ballow
 blear
-ballplayer
 ballplayers
 ballplatz
 bedrabbled
@@ -6589,6 +6588,7 @@ bequeath
 bequeathal
 bequeathed
 bequeather
+ballplayer
 bequeathing
 brawled
 bequeaths
