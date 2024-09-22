@@ -7805,6 +7805,7 @@ foremarch
 forsaker
 foremark
 fullface
+foreranks
 foremartyr
 foremastmen
 foremasts
@@ -11464,7 +11465,6 @@ fudges
 felup
 filaceous
 furnishness
-foreranks
 fragged
 furnit
 furniture
