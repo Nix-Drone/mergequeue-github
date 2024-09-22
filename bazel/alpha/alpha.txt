@@ -938,7 +938,6 @@ absently
 abridge
 aflatus
 absentment
-absentminded
 absentmindedly
 absentmindedness
 absentness
@@ -22272,6 +22271,7 @@ astrolabes
 assisa
 astrolater
 agathology
+absentminded
 astrolatry
 astrolithology
 anaesthesiant
