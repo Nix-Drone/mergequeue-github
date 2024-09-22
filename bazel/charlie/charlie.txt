@@ -14392,7 +14392,6 @@ circumpacific
 circumpallial
 circumparallelogram
 circumpentagon
-convexed
 circumplanetary
 circumplect
 circumplicate
@@ -25868,6 +25867,7 @@ corteges
 cortes
 cortex
 cortexes
+convexed
 cortez
 cortian
 cortical
