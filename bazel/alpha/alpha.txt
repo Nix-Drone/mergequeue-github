@@ -947,6 +947,7 @@ absfarad
 abshenry
 absi
 absinth
+adverbs
 absinthes
 absinthial
 absinthiated
@@ -4588,7 +4589,6 @@ adverbialize
 adverbially
 adverbiation
 adverbless
-adverbs
 adversa
 adversant
 adversary
