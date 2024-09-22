@@ -7575,6 +7575,7 @@ faith
 foregame
 forechoose
 foreclaw
+fractostratus
 foreclose
 foreclosed
 foreclosure
@@ -9260,7 +9261,6 @@ fads
 foundationally
 fabledom
 fractonimbus
-fractostratus
 fractur
 fracturable
 federations
