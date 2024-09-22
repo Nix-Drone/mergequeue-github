@@ -14,7 +14,6 @@ caback
 cabaho
 cabal
 corruptibilities
-cryptostoma
 cabala
 cabalassou
 cabaletta
@@ -9311,6 +9310,7 @@ chattel
 chattelhood
 chattelism
 chattelization
+cryptostoma
 chattelize
 chattelized
 chattelizing
