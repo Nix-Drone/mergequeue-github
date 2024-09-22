@@ -1900,6 +1900,7 @@ barricos
 bandboxical
 bandcase
 bandcutter
+blockade
 bande
 bandeau
 bandeaux
@@ -10979,7 +10980,6 @@ blobs
 bloc
 blocage
 block
-blockade
 blockaded
 blockader
 blockaders
