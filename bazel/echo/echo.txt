@@ -6218,7 +6218,6 @@ enplanes
 enquarter
 enqueue
 entered
-enqueued
 enquicken
 enquire
 eten
@@ -6258,6 +6257,7 @@ embolden
 enzootically
 enravishingly
 eassel
+enqueued
 enravishment
 etherealism
 eloined
