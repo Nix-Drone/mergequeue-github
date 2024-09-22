@@ -800,7 +800,6 @@ galvanizers
 gujar
 galvanizes
 galvanizing
-galvanocautery
 galvanocauteries
 galvanofaradization
 galvanoglyph
@@ -9743,6 +9742,7 @@ grunion
 groveled
 grunt
 gashly
+galvanocautery
 grunter
 grunters
 gipsylike
