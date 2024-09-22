@@ -1791,6 +1791,7 @@ families
 featherer
 featherers
 forejudgment
+footed
 featherfew
 featherfoil
 featherhead
@@ -7150,7 +7151,6 @@ finedraw
 facer
 figwort
 foeniculum
-footed
 footeite
 fenouillette
 footer
