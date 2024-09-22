@@ -1698,7 +1698,6 @@ friars
 four
 fdnames
 fdtype
-fdub
 fortuitousness
 fe
 forksmith
@@ -6130,6 +6129,7 @@ flourishing
 fashioning
 flourishingly
 flourless
+fdub
 flours
 foregoing
 falcated
