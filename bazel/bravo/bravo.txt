@@ -6409,7 +6409,6 @@ benzene
 benzeneazobenzene
 bastian
 benzenediazonium
-birthrate
 benzenes
 benzenyl
 benzenoid
@@ -14462,6 +14461,7 @@ branchiopallial
 branchiopod
 branchiopoda
 bioassays
+birthrate
 branchiopodan
 branchiopodous
 branchiopoo
