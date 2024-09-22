@@ -4751,7 +4751,6 @@ flagellist
 ferromolybdenum
 filtrated
 folie
-flagellula
 flagellulae
 fortressed
 flagellum
@@ -11268,6 +11267,7 @@ friborg
 funiculitis
 funiculus
 funiform
+flagellula
 funipendulous
 funje
 facinorous
