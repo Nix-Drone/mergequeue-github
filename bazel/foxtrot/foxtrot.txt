@@ -4910,6 +4910,7 @@ flintlocks
 finfishes
 flamer
 flamers
+forspoken
 ferneries
 fallback
 flamethrowers
@@ -9430,7 +9431,6 @@ franger
 frangibility
 frangible
 flossy
-forspoken
 filets
 frangipani
 fathoming
