@@ -3369,7 +3369,6 @@ capsized
 capsizes
 capsomer
 capsomere
-capsomers
 capstan
 capstans
 capstone
@@ -20655,6 +20654,7 @@ complementizer
 complementoid
 complete
 completed
+capsomers
 completely
 cervisia
 completement
