@@ -5442,6 +5442,7 @@ affriended
 affright
 affrighted
 affrightedly
+altazimuth
 acarpellous
 affrighter
 adry
@@ -9404,7 +9405,6 @@ altarlet
 altarpieces
 altars
 afghanets
-altazimuth
 alter
 alterability
 alterable
