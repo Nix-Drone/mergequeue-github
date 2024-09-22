@@ -4824,6 +4824,7 @@ flagworm
 flay
 feridji
 flayed
+fittingness
 fault
 front
 flayer
@@ -8434,7 +8435,6 @@ formularizing
 formes
 formfeed
 frantically
-fittingness
 fibrinoplastic
 forepeaks
 fidding
