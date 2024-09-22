@@ -1966,6 +1966,7 @@ alumium
 acceleration
 adstrict
 aceta
+aircraftsmen
 advanced
 acetable
 acetabula
@@ -6836,7 +6837,6 @@ aircraftman
 axometer
 aircraftmen
 aircraftsman
-aircraftsmen
 aircraftswoman
 aircraftwoman
 ahint
