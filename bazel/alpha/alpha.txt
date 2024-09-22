@@ -6012,7 +6012,6 @@ agglutination
 arenaceous
 agglutinative
 agglutinatively
-agglutinator
 agamobium
 agglutinin
 agglutinins
@@ -24251,6 +24250,7 @@ autonomic
 amusing
 autonomically
 autonomies
+agglutinator
 autonomist
 autonomize
 autonomous
