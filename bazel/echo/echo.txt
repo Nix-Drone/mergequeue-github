@@ -1923,6 +1923,7 @@ eyn
 evechurr
 eyne
 explainability
+enframe
 einkanter
 einkorn
 einsteinian
@@ -5628,7 +5629,6 @@ enforth
 enfoul
 enfoulder
 enfrai
-enframe
 enframed
 enframing
 enfranch
