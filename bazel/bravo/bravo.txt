@@ -3861,7 +3861,6 @@ batzen
 barreler
 baubee
 baubees
-bethunder
 bauble
 baublery
 bossa
@@ -7491,6 +7490,7 @@ belgians
 betrap
 bodyworks
 betravel
+bethunder
 betread
 betrend
 betrinket
