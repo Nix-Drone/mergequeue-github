@@ -5261,7 +5261,6 @@ deess
 denotatively
 denotativeness
 denotatum
-denote
 denoted
 denotement
 denotes
@@ -10442,6 +10441,7 @@ diphtheritically
 disparaging
 disarraying
 duopoly
+denote
 diphtheritis
 diphtheroid
 diphtherotoxin
