@@ -1896,7 +1896,6 @@ debt
 debted
 debtee
 debtful
-debtless
 debtor
 debtors
 debugger
@@ -2485,6 +2484,7 @@ declaimer
 declaimers
 declaims
 declamando
+debtless
 disillusionize
 declamations
 declamatory
