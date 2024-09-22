@@ -197,7 +197,6 @@ escribing
 electrize
 erythritic
 earthslide
-earthsmoke
 earthtongue
 earthwall
 earthwork
@@ -12387,6 +12386,7 @@ extinctor
 exerting
 entozoan
 elpidite
+earthsmoke
 exertion
 exertionless
 emictory
