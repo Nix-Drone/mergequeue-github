@@ -11463,7 +11463,6 @@ bn
 bluntest
 blunthead
 blunthearted
-bluntish
 bluntishness
 bluntly
 badinaged
@@ -12109,6 +12108,7 @@ bolero
 biclavate
 boleros
 boletaceae
+bluntish
 babble
 bolete
 boletes
