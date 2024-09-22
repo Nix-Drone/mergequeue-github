@@ -3741,7 +3741,6 @@ bunsen
 batsmen
 batswing
 batt
-bammed
 batta
 battable
 battailant
@@ -6549,6 +6548,7 @@ beperiwigged
 bepewed
 bephilter
 bephrase
+bammed
 big
 bepicture
 bepiece
