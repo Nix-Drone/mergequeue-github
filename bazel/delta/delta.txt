@@ -566,6 +566,7 @@ damageably
 damaged
 damagement
 damageous
+decrement
 dao
 damager
 damagers
@@ -2802,7 +2803,6 @@ dunker
 decrees
 decreet
 dop
-decrement
 decremental
 decrementing
 decrements
