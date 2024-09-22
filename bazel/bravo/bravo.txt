@@ -3672,7 +3672,6 @@ balneophysiology
 bathroom
 bathroomed
 bathrooms
-bathroot
 ballyragging
 boutade
 bastinading
@@ -10729,6 +10728,7 @@ blepharydatis
 blephariglottis
 blepharism
 blepharitic
+bathroot
 blepharoadenitis
 blepharoadenoma
 belles
