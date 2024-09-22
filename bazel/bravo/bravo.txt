@@ -3559,6 +3559,7 @@ bateleur
 batell
 bouchal
 bubos
+binding
 blawort
 babelic
 birdie
@@ -8833,7 +8834,6 @@ binders
 banjos
 bloodstone
 bulliest
-binding
 bindingness
 bindings
 bindis
