@@ -1458,7 +1458,6 @@ fatlings
 fatness
 fatnesses
 fylgjur
-fats
 fatshedera
 ferahan
 fatsia
@@ -8207,6 +8206,7 @@ forfication
 forficiform
 fiercening
 forficulate
+fats
 fungosity
 fioriture
 forficulidae
