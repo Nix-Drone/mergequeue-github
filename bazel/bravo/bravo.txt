@@ -1225,6 +1225,7 @@ baker
 bakeress
 bakery
 bakeries
+biggest
 bakerite
 bakerless
 bakerly
@@ -8378,7 +8379,6 @@ biggen
 biggened
 biggening
 bigger
-biggest
 bacons
 biggy
 biggie
