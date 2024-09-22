@@ -2510,7 +2510,6 @@ fermorite
 fern
 fastigium
 floripondio
-fernandinite
 fernando
 furoid
 fernbrake
@@ -5923,6 +5922,7 @@ floods
 forst
 fortifiable
 floodway
+fernandinite
 feute
 floodways
 fistfight
