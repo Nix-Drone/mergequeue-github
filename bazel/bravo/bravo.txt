@@ -13070,7 +13070,6 @@ borotungstate
 borough
 boroughmaster
 boroughmonger
-boroughmongery
 boroughmongering
 boroughs
 boroughwide
@@ -13981,6 +13980,7 @@ brachydactyl
 belltopper
 brachydactyly
 brachydactylia
+boroughmongery
 brachydactylic
 brachydactylism
 brachydactylous
