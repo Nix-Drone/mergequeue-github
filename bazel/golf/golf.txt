@@ -2810,7 +2810,6 @@ gestures
 genio
 genioglossal
 globoids
-genioglossi
 genioglossus
 geniohyoglossal
 gapers
@@ -6622,6 +6621,7 @@ goldener
 goldenhair
 goldenknop
 gradualism
+genioglossi
 gent
 gurt
 guary
