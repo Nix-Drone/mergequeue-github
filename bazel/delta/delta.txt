@@ -1984,7 +1984,6 @@ decagramme
 decagrams
 decahedra
 decahedral
-decahedron
 damageableness
 decahedrons
 decahydrate
@@ -13901,6 +13900,7 @@ dualists
 daggy
 distorter
 distorters
+decahedron
 dismount
 distorting
 distortion
