@@ -5404,7 +5404,6 @@ akaroa
 affords
 afforest
 afforestable
-afforestation
 afforested
 afforesting
 anticogitative
@@ -11498,6 +11497,7 @@ anachronical
 anachronism
 aerospace
 apodes
+afforestation
 affectationist
 acicularly
 antitrypsin
