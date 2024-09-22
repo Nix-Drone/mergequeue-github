@@ -5415,6 +5415,7 @@ fleing
 flanges
 fleys
 frankfold
+fuzzy
 fleysome
 flem
 fleme
@@ -8276,7 +8277,6 @@ forgoes
 forgot
 forgotten
 foussa
-fuzzy
 faraon
 forgrow
 forhaile
