@@ -6586,7 +6586,6 @@ bepuzzle
 bepuzzlement
 bequalm
 bequeath
-bequeathal
 bequeathed
 bequeather
 bequeathing
@@ -12022,6 +12021,7 @@ boylike
 boilingly
 boilinglike
 bladdernose
+bequeathal
 boiloff
 boiloffs
 brackishness
