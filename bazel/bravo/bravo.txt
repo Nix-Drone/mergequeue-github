@@ -4105,7 +4105,6 @@ bealach
 beallach
 bealtared
 bealtine
-bom
 beam
 beambird
 beamed
@@ -12268,6 +12267,7 @@ bowdrill
 bombards
 bombasine
 bombast
+bom
 bombaster
 bombastic
 biophor
