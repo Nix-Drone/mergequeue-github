@@ -6736,7 +6736,6 @@ capless
 contangos
 celioschisis
 celioscope
-celioscopy
 celiotomy
 cell
 cella
@@ -17115,6 +17114,7 @@ coagula
 coagulability
 coagulants
 coagulate
+celioscopy
 coagulated
 coagulates
 coagulating
