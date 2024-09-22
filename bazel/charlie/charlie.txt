@@ -3124,7 +3124,6 @@ capitalizable
 capitalization
 capitalizations
 capitalize
-capitalized
 capitalizer
 capitalizers
 capitalizes
@@ -21590,6 +21589,7 @@ condenser
 condensery
 comether
 condenseries
+capitalized
 condensers
 condenses
 condensible
