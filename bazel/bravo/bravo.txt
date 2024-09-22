@@ -6117,7 +6117,6 @@ bemuzzles
 ben
 bena
 benab
-benacus
 beluga
 barre
 balsamweed
@@ -11603,6 +11602,7 @@ bittacle
 beclamoring
 boxball
 boatlike
+benacus
 boatlip
 boatload
 boatloader
