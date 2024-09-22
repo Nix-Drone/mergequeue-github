@@ -15744,6 +15744,7 @@ controllingly
 claver
 clavered
 clavering
+chemosmosis
 clavers
 clavi
 chirres
@@ -20667,7 +20668,6 @@ completer
 coelian
 completers
 completes
-chemosmosis
 completest
 completing
 completion
