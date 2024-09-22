@@ -16842,7 +16842,6 @@ clubfisted
 clubfoot
 clubfooted
 clubhand
-clubhands
 clubhaul
 clubhauled
 clubhauling
@@ -26594,6 +26593,7 @@ councilwoman
 counderstand
 counite
 counsel
+clubhands
 counselable
 copita
 counseled
