@@ -1065,7 +1065,6 @@ calcinosis
 calciobiotite
 calciocarnotite
 calcioferrite
-calcioscheelite
 calciovolborthite
 calcipexy
 clarity
@@ -19785,6 +19784,7 @@ chinchilla
 comestible
 cyclostrophic
 comestibles
+calcioscheelite
 craters
 comestion
 comet
