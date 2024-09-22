@@ -427,6 +427,7 @@ backpedaled
 backpedaling
 backpiece
 backplane
+biventer
 backplanes
 backplate
 backpointer
@@ -9957,7 +9958,6 @@ bivariate
 bivascular
 binodous
 bivector
-biventer
 bayonetting
 blights
 bizarrerie
