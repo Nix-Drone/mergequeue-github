@@ -261,7 +261,6 @@ abdomens
 abdomina
 abdominal
 abdominalia
-abdominalian
 abdominally
 abdominals
 abdominoanterior
@@ -20288,6 +20287,7 @@ animalcula
 arrivals
 arrive
 arrived
+abdominalian
 arrivederla
 arriver
 arrives
