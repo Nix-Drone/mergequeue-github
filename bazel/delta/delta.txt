@@ -2677,7 +2677,6 @@ decompoundable
 decompoundly
 decompress
 decompresses
-decompressing
 decompression
 detectaphone
 delegacy
@@ -14248,6 +14247,7 @@ diva
 divagated
 divagates
 diphthongal
+decompressing
 divagational
 divagationally
 divagatory
