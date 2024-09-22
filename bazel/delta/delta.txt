@@ -3489,7 +3489,6 @@ defoil
 daikering
 dawish
 defoliage
-defoliant
 dorsobranchiata
 defoliants
 defoliate
@@ -13734,6 +13733,7 @@ distancing
 distannic
 distant
 distantly
+defoliant
 distantness
 distaste
 distasted
