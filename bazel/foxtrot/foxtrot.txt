@@ -5471,6 +5471,7 @@ fleshquake
 flet
 flagfall
 fleta
+forint
 fletched
 fletcherism
 fletcherite
@@ -6282,7 +6283,6 @@ fluidible
 forcepslike
 fluidic
 fosslology
-forint
 footstool
 fissicostate
 fecit
