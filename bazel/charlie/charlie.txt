@@ -4735,7 +4735,6 @@ carraways
 carreau
 carrefour
 carrel
-carrell
 carrells
 caffeinism
 carrels
@@ -11572,6 +11571,7 @@ cholecystogram
 cholecystography
 cholecystojejunostomy
 cholecystokinin
+carrell
 cholecystolithiasis
 cholecystolithotripsy
 cholecystopexy
