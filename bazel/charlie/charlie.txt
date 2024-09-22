@@ -2942,7 +2942,6 @@ canvasers
 canvases
 canvasing
 canvaslike
-canvasser
 canvassers
 canvasses
 carbostyril
@@ -10543,6 +10542,7 @@ chilidog
 chilidogs
 chylidrosis
 chylifaction
+canvasser
 chylifactive
 chylifactory
 counterpreparation
