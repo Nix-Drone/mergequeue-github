@@ -3470,7 +3470,6 @@ defoam
 defoamer
 despotisms
 defoamers
-defoaming
 discontented
 defoams
 defocus
@@ -7037,6 +7036,7 @@ destroyer
 destroyers
 destroying
 diagnostic
+defoaming
 destruct
 destructibility
 diluvian
