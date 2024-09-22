@@ -7748,7 +7748,6 @@ cerotypes
 cerous
 ceroxyle
 copetitioner
-ceroxylon
 cerrero
 cerrial
 cerris
@@ -30077,6 +30076,7 @@ crownet
 crownets
 crownland
 crownless
+ceroxylon
 crownlet
 crownlike
 crownling
