@@ -12291,6 +12291,7 @@ bombed
 bomber
 bedirty
 bombernickel
+boxful
 begroaning
 bombes
 bombesins
@@ -13854,7 +13855,6 @@ boxerism
 bobsledder
 broquineer
 boxes
-boxful
 boxfuls
 boxhaul
 boxhauled
