@@ -5109,7 +5109,6 @@ granita
 glossary
 glamourization
 glamourize
-glamourless
 glamourous
 glance
 glanced
@@ -6318,6 +6317,7 @@ gnomologic
 gnomological
 geitonogamous
 gnomologist
+glamourless
 goodenoviaceae
 gambone
 gyre
