@@ -4780,7 +4780,6 @@ enclitics
 encloak
 eclipsis
 encloister
-enclose
 etymologize
 exegetically
 experimentalists
@@ -8679,6 +8678,7 @@ equilobate
 equilobed
 equilocation
 ecstasy
+enclose
 equimodal
 entoptoscopy
 equimolal
