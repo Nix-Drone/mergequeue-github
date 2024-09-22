@@ -15963,7 +15963,6 @@ bronchiogenic
 bronchiolar
 bronchioli
 bronchiolitis
-bronchiolus
 bronchiospasm
 bronchitic
 bronchitis
@@ -16817,6 +16816,7 @@ beauish
 buffed
 backings
 buffer
+bronchiolus
 bohemians
 bufferrers
 buffers
