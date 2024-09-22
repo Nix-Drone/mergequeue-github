@@ -4339,7 +4339,6 @@ expertising
 exothermic
 ectorganism
 encoop
-enabling
 enact
 enactable
 enacted
@@ -9145,6 +9144,7 @@ erythroblast
 erythroblastic
 exoperidium
 electrocardiographs
+enabling
 erythroblastosis
 erythrocarpous
 erythrocatalysis
