@@ -3967,7 +3967,6 @@ delactation
 delay
 delayable
 demes
-delayer
 delayers
 delayful
 delayingly
@@ -17664,6 +17663,7 @@ druxiness
 druze
 ds
 demulcents
+delayer
 dschubba
 dsect
 drinkery
