@@ -1224,6 +1224,7 @@ griphosaurus
 gavotte
 ganoidian
 ganoids
+guesdist
 gasterophilus
 ganoine
 ganomalite
@@ -10069,7 +10070,6 @@ guesdism
 gymnura
 guid
 gravigrade
-guesdist
 gamodeme
 guessed
 gunnysacks
