@@ -3624,6 +3624,7 @@ filesniff
 flagships
 filespec
 forficula
+foreshown
 fossores
 fileting
 floatboard
@@ -7991,7 +7992,6 @@ foreskirt
 foreshots
 foreshow
 foreshower
-foreshown
 foreshroud
 femic
 foreside
