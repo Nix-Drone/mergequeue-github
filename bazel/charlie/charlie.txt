@@ -14871,7 +14871,6 @@ cytoanalyzer
 copremia
 cytoarchitectural
 cytoarchitecturally
-cytoarchitecture
 certioration
 cytoblast
 confidences
@@ -28091,6 +28090,7 @@ craniometrist
 craniopathy
 craniopathic
 craniopharyngeal
+cytoarchitecture
 craniophore
 cranioplasty
 craniorhachischisis
