@@ -3631,7 +3631,6 @@ bathyscaphes
 bathyseism
 bathysmal
 bomarea
-bathysophic
 bathysophical
 bathysphere
 bathyspheres
@@ -7851,6 +7850,7 @@ biarcuate
 biarcuated
 biarticulate
 biarticulated
+bathysophic
 bias
 blurted
 biasedly
