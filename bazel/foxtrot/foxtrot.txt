@@ -3728,6 +3728,7 @@ fishweir
 filler
 fillercap
 fewsome
+fissionable
 fractionator
 fillers
 filleted
@@ -4446,7 +4447,6 @@ formatting
 fissility
 formatter
 fission
-fissionable
 fissioned
 frays
 fissions
