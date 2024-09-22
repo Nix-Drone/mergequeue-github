@@ -3157,7 +3157,6 @@ defamers
 defames
 demihuman
 defamy
-defaming
 defamingly
 defamous
 deadworks
@@ -10921,6 +10920,7 @@ dogies
 disadvantageously
 disadvantageousness
 disadvantaging
+defaming
 disadventure
 disadvise
 dulcorate
