@@ -676,7 +676,6 @@ enshrouding
 exungulate
 eclipsation
 eclipse
-eclipsed
 eclipses
 elumbated
 endocortex
@@ -9205,6 +9204,7 @@ electroretinograph
 exploding
 erythrorrhexis
 erythroscope
+eclipsed
 erythrosiderite
 erythrosin
 exochorda
