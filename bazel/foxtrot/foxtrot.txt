@@ -3525,7 +3525,6 @@ facebread
 figures
 figuresome
 flueman
-fconv
 foraneous
 figury
 fiddlers
@@ -9806,6 +9805,7 @@ freightment
 freyja
 freijo
 flemishing
+fconv
 freinage
 forehandsel
 freir
