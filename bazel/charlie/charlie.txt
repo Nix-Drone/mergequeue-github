@@ -7345,7 +7345,6 @@ cephalodymia
 cephalodymus
 cephalodiscid
 cephalodiscida
-cephalodiscus
 cephalodium
 cephalofacial
 cephalogram
@@ -7375,6 +7374,7 @@ cephalophus
 cephaloplegia
 cephaloplegic
 cephalopod
+cephalodiscus
 cephalopoda
 cephalopodan
 cephalopodous
