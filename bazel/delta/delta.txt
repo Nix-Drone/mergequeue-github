@@ -11410,6 +11410,7 @@ digladiated
 discoblastula
 discoboli
 discobolos
+drawknot
 discobolus
 destructiveness
 discocarp
@@ -16837,7 +16838,6 @@ drawhead
 drawing
 drawings
 drawknives
-drawknot
 deliquescent
 drawlatch
 drawled
