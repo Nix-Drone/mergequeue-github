@@ -5831,7 +5831,6 @@ engrieve
 engross
 engrossed
 engrossedly
-engrosser
 engrossers
 epistolization
 eduction
@@ -6333,6 +6332,7 @@ enscroll
 endosiphon
 ecotypic
 enscrolling
+engrosser
 envenomation
 enchalice
 enscrolls
