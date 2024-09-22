@@ -3944,7 +3944,6 @@ adytum
 aditus
 adj
 adjacence
-adjacency
 adjacencies
 amated
 adjacently
@@ -10544,6 +10543,7 @@ amyloplastid
 amylopsin
 amylose
 apprenticeship
+adjacency
 amyloses
 amylosynthesis
 amylosis
