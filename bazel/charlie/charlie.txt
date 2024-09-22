@@ -16965,6 +16965,7 @@ catalecta
 cmdr
 cml
 cnemial
+controlled
 cnemic
 cnemides
 cnemidium
@@ -23869,7 +23870,6 @@ controllability
 controllable
 controllableness
 controllably
-controlled
 controller
 costophrenic
 controllers
