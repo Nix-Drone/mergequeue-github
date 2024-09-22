@@ -2700,6 +2700,7 @@ fertilizer
 fillagreing
 fertilizers
 foremelt
+franchisee
 ferula
 foghorns
 ferulaceous
@@ -9388,7 +9389,6 @@ france
 frontward
 frances
 franchise
-franchisee
 franchisees
 franchisement
 franchisers
