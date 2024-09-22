@@ -2234,7 +2234,6 @@ feltmaking
 feltman
 foulard
 foredeep
-feltmonger
 felts
 feltwort
 felucca
@@ -2471,6 +2470,7 @@ fleshed
 ferme
 familarity
 fullymart
+feltmonger
 forespeed
 ferment
 furzechat
