@@ -9559,6 +9559,7 @@ checkpoints
 commonize
 checkrack
 checkrail
+crane
 checkrein
 checkroll
 checkroom
@@ -28033,7 +28034,6 @@ crandall
 curded
 cynicism
 crandallite
-crane
 craned
 craney
 cranelike
