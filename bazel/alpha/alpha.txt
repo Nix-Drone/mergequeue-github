@@ -1788,7 +1788,6 @@ accumbency
 accumbent
 accumber
 accumulable
-accumulate
 accumulated
 accumulating
 accumulation
@@ -14142,6 +14141,7 @@ antefurcae
 antefurcal
 antegarden
 antegrade
+accumulate
 antehall
 antehypophysis
 aquaculture
