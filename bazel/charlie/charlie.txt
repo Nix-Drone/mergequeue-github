@@ -3624,7 +3624,6 @@ caravans
 caravansary
 caravansaries
 caravanserai
-caravanserial
 caravel
 confuse
 caravels
@@ -12546,6 +12545,7 @@ chromotrope
 chromotropy
 chromotropic
 concepts
+caravanserial
 chromotropism
 chromous
 chromoxylograph
