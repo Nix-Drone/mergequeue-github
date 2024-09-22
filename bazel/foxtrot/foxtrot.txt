@@ -1076,6 +1076,7 @@ farmable
 farmed
 farmer
 farmeress
+forjudges
 farmery
 filigraned
 farmeries
@@ -8307,7 +8308,6 @@ folliculosis
 fibrin
 frot
 fenberry
-forjudges
 forjudging
 foiler
 forjudgment
