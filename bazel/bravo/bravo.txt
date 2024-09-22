@@ -3774,6 +3774,7 @@ bread
 batterable
 battercake
 batterdock
+beechen
 battered
 bootstrap
 batterer
@@ -4912,7 +4913,6 @@ beebees
 beebread
 beebreads
 beech
-beechen
 beecher
 beechy
 beechnut
