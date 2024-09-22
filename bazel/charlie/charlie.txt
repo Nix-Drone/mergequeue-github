@@ -2411,7 +2411,6 @@ candlelighting
 candlelit
 candlemaker
 candlemaking
-candlemas
 candlenut
 candlepins
 candlepower
@@ -16090,6 +16089,7 @@ clydesider
 cliency
 client
 clientage
+candlemas
 cliental
 cliented
 clientelage
