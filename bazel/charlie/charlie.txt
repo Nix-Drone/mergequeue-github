@@ -2315,7 +2315,6 @@ curare
 cancerroot
 cancerweed
 cancerwort
-canch
 cancha
 canchalagua
 crocard
@@ -11624,6 +11623,7 @@ chappie
 choleric
 cholerically
 cholericly
+canch
 cholericness
 choleriform
 cholerigenous
