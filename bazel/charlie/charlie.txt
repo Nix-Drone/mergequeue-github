@@ -16684,7 +16684,6 @@ coagulase
 clostridium
 closure
 closures
-closuring
 clot
 clotbur
 clapbread
@@ -28069,6 +28068,7 @@ cranioclast
 cranioclasty
 craniofacial
 craniognomic
+closuring
 craniognosy
 craniograph
 craniographer
