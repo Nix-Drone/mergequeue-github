@@ -6853,7 +6853,6 @@ berrylike
 berryman
 baikalite
 berrypicker
-berrypicking
 berrugate
 bersagliere
 bersaglieri
@@ -8497,6 +8496,7 @@ biogenous
 ballottable
 bilabial
 bilabials
+berrypicking
 bilabiate
 bilaciniate
 bilayer
