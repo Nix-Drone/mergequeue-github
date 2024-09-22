@@ -6506,7 +6506,6 @@ embolisms
 ensuant
 ensued
 ensues
-ensuingly
 ensurance
 ensurer
 ensures
@@ -8827,6 +8826,7 @@ equulei
 equuleus
 eucalypt
 equus
+ensuingly
 erade
 eradiate
 exhedra
