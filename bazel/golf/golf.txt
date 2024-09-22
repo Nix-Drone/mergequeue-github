@@ -3330,7 +3330,6 @@ gerb
 gypsography
 gerbera
 gardencraft
-gerbil
 gerbilles
 groutnoll
 gunbearer
@@ -4968,6 +4967,7 @@ glacialize
 glaciaria
 graphemes
 glaciarium
+gerbil
 glaciated
 glaciates
 glaciation
