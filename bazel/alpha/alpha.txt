@@ -8770,7 +8770,6 @@ allochetite
 allochiral
 allochiria
 allochlorophyll
-allochroic
 allochroite
 allochromatic
 allochthon
@@ -14646,6 +14645,7 @@ anthropophagit
 anthropophagite
 anthropophagize
 anthropophagous
+allochroic
 anthropophagously
 anthropophilous
 anthropophysiography
