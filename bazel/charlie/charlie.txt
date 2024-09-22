@@ -3367,7 +3367,6 @@ capsizal
 capsize
 capsized
 capsizes
-capsomer
 capsomere
 capsomers
 capstan
@@ -5753,6 +5752,7 @@ catelectrode
 capstones
 concitizen
 catelectrotonic
+capsomer
 catelectrotonus
 chaffier
 catella
