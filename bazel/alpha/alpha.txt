@@ -4167,7 +4167,6 @@ admixture
 admixtures
 admonish
 admonished
-achango
 admonisher
 admonishes
 admonishing
@@ -11340,6 +11339,7 @@ amputate
 amputates
 amputating
 amputation
+achango
 amputational
 amputations
 amputator
