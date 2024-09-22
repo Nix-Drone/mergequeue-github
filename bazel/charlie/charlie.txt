@@ -7392,6 +7392,7 @@ cephalotaceous
 cephalotaxus
 cephalothecal
 cephalothoracic
+chorded
 cephalothoracopagus
 cephalothoraxes
 cephalotomy
@@ -11894,7 +11895,6 @@ chordamesodermic
 chordata
 chordate
 chordates
-chorded
 chordee
 choriso
 chordeiles
