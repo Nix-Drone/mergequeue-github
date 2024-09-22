@@ -1221,7 +1221,6 @@ bakeout
 bakeoven
 bakepan
 bimillenniums
-baker
 bakeress
 bakery
 bakeries
@@ -9305,6 +9304,7 @@ bipinnarias
 bipinnate
 bipinnated
 bipinnatipartite
+baker
 bipinnatisect
 bipinnatisected
 bowtie
