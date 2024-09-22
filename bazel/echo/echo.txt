@@ -5841,7 +5841,6 @@ ensynopticity
 endocarditic
 engulf
 engulfed
-epicardial
 engulfing
 episcopalian
 enhaemospore
@@ -13555,6 +13554,7 @@ endorsements
 extensive
 endear
 ecstasies
+epicardial
 empathizing
 extensivity
 extensometer
