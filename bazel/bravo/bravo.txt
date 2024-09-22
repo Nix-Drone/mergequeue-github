@@ -9223,7 +9223,6 @@ biotype
 biotypes
 biotypic
 biotypology
-biotite
 biotites
 biotome
 buoys
@@ -13265,6 +13264,7 @@ briquets
 botas
 botaurus
 beeswings
+biotite
 botch
 botched
 botcher
