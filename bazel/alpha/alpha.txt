@@ -3229,6 +3229,7 @@ aweather
 activeness
 alforge
 actives
+anglicism
 activin
 activism
 activisms
@@ -12871,7 +12872,6 @@ attitudes
 anglicanum
 anglice
 anglicisation
-anglicism
 anglicisms
 anglicization
 anglicize
