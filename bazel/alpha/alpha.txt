@@ -1990,7 +1990,6 @@ acetamidin
 acetamidine
 acetamido
 acetaminol
-acetaminophen
 acetanilid
 acetanilide
 asmear
@@ -11096,6 +11095,7 @@ amphidiploid
 amphidiploidy
 amphidisc
 amphidiscophora
+acetaminophen
 amphidiscophoran
 amphidisk
 amphidromic
