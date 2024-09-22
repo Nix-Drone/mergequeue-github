@@ -11587,7 +11587,6 @@ anaerobation
 anaerobe
 anaerobes
 anaerobian
-anaerobic
 anaerobically
 anaerobies
 anaerobion
@@ -23386,6 +23385,7 @@ augmentable
 augmentation
 augmentations
 augmentative
+anaerobic
 augmentatively
 augmented
 augmentedly
