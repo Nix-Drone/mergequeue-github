@@ -3405,7 +3405,6 @@ deflagrator
 deflate
 deflated
 drynaria
-deflater
 deflates
 delime
 deflating
@@ -10979,6 +10978,7 @@ disaligned
 disaligning
 disalike
 disally
+deflater
 deplumed
 disalliege
 disallow
