@@ -18793,7 +18793,6 @@ archconsoler
 archconspirator
 archcorrupter
 archcorsair
-archcount
 archcozener
 archcriminal
 archcritic
@@ -20517,6 +20516,7 @@ arteriorrhaphy
 arteriorrhexis
 arteriosclerosis
 arteriosympathectomy
+archcount
 airfreight
 arteriospasm
 arteriostenosis
