@@ -8471,7 +8471,6 @@ eplot
 epoch
 epocha
 eumitosis
-epoche
 epochism
 epode
 epodes
@@ -8607,6 +8606,7 @@ eques
 equestrial
 equestrian
 equiparate
+epoche
 equestrianize
 equestrians
 equiangularity
