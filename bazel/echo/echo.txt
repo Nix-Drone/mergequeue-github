@@ -2675,7 +2675,6 @@ electrothermal
 expurgates
 epiperipheral
 electrothermancy
-electrothermic
 electrothermics
 enschedule
 enrapturer
@@ -11510,6 +11509,7 @@ everly
 everliving
 evernia
 evernioid
+electrothermic
 eversible
 evert
 empyrean
