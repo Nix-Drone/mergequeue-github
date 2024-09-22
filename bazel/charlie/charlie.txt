@@ -3610,7 +3610,6 @@ caratacus
 caratch
 carate
 carates
-carats
 carauna
 caraunda
 caravaneer
@@ -23526,6 +23525,7 @@ continentals
 continents
 contineu
 contingence
+carats
 contingency
 contingencies
 chills
