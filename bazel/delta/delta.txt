@@ -1620,7 +1620,6 @@ deamidation
 deamidization
 delimitated
 deaminase
-deaminate
 deaminated
 deaminating
 durango
@@ -16813,6 +16812,7 @@ drawbore
 deare
 drawbored
 drawbores
+deaminate
 deodars
 dorsomesal
 drawcansir
