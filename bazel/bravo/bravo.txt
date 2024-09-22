@@ -2957,7 +2957,6 @@ barrelfishes
 bonair
 barrelful
 barrelfuls
-blind
 barrelhead
 barrelhouse
 barrelhouses
@@ -17656,6 +17655,7 @@ bearlet
 burglarized
 burglarizes
 burglarizing
+blind
 burglarproof
 burglarproofed
 berat
