@@ -2649,7 +2649,6 @@ gendarmerie
 gendarmes
 gender
 genderer
-genders
 ghoulie
 geneal
 genealogic
@@ -7179,6 +7178,7 @@ gorgeret
 gorgers
 geotic
 grandnephews
+genders
 gumphion
 gorgets
 gorgia
