@@ -2643,7 +2643,6 @@ decommission
 decommissioned
 dumbbeller
 decommissioning
-decommissions
 deepens
 decompensate
 decompensated
@@ -13721,6 +13720,7 @@ distain
 distained
 distrusting
 depolish
+decommissions
 distaining
 distal
 distalwards
