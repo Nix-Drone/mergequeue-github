@@ -4309,7 +4309,6 @@ floreate
 firns
 firoloida
 flammability
-facia
 furlongs
 first
 fylker
@@ -6724,6 +6723,7 @@ fogdom
 figworts
 fogfruit
 foretype
+facia
 feeders
 fogfruits
 fogger
