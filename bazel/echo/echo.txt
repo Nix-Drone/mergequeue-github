@@ -4185,7 +4185,6 @@ employees
 employer
 exedral
 employers
-employment
 enthymeme
 entastic
 epilithic
@@ -13328,6 +13327,7 @@ epanaphoral
 etude
 exposure
 excalfaction
+employment
 enframes
 exposures
 expound
