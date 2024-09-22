@@ -3571,7 +3571,6 @@ addressor
 addrest
 adds
 addu
-adduce
 adduceable
 adduced
 adducent
@@ -13895,6 +13894,7 @@ anoscopy
 anatomicosurgical
 anosmatic
 anosmia
+adduce
 anosmias
 amyelonic
 anosmic
