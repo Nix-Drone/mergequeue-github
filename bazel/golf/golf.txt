@@ -1794,7 +1794,6 @@ gastroenteroanastomosis
 gastroenterocolitis
 gastroenterocolostomy
 gastroenterology
-gelatination
 gastroenterologic
 gastroenterological
 gastroenterologically
@@ -4633,6 +4632,7 @@ gypsywort
 gradine
 gettableness
 griffin
+gelatination
 gartered
 gipsology
 gypsology
