@@ -4041,7 +4041,6 @@ cardiography
 cardiographic
 cardiographies
 cardiohepatic
-cardioid
 cardioids
 cardiolysis
 cardiology
@@ -14656,6 +14655,7 @@ circulable
 cysticercerci
 cysticerci
 chondrule
+cardioid
 cysticercoid
 cysticercoidal
 cysticercosis
