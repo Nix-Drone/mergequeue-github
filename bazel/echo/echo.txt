@@ -7485,7 +7485,6 @@ evaporativity
 epharmonic
 ephas
 ephebea
-equipped
 enrols
 ephebeibeia
 ephebeion
@@ -7541,6 +7540,7 @@ ephyrula
 effluency
 ephod
 ephods
+equipped
 equipping
 ephor
 essayical
