@@ -9580,6 +9580,7 @@ checksumming
 checkup
 checkups
 checkweigher
+councilmen
 checkweighman
 checkweighmen
 checkwork
@@ -26584,7 +26585,6 @@ councillors
 councillorship
 councilman
 councilmanic
-councilmen
 councilor
 councilors
 chester
