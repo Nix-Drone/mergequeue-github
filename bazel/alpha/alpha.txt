@@ -14279,7 +14279,6 @@ anteroflexion
 aeroscopic
 anterofrontal
 anterograde
-anteroinferior
 alismaceae
 anterointerior
 anterointernal
@@ -20521,6 +20520,7 @@ airfreight
 arteriospasm
 arteriostenosis
 arteriostosis
+anteroinferior
 arteriostrepsis
 admix
 arteriotome
