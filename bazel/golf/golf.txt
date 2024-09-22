@@ -3003,7 +3003,6 @@ genuinely
 genupectoral
 genuses
 geo
-geoagronomic
 geobiont
 geoblast
 geobotany
@@ -5004,6 +5003,7 @@ glade
 gladelike
 gladen
 glades
+geoagronomic
 gladful
 gnomonics
 ghatti
