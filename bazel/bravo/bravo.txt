@@ -434,7 +434,6 @@ backpointers
 backrest
 backrope
 brimstony
-backropes
 boskets
 backrush
 backrushes
@@ -3628,6 +3627,7 @@ buglers
 baygall
 bathyscaph
 bathyscaphes
+backropes
 bathyseism
 bathysmal
 bomarea
