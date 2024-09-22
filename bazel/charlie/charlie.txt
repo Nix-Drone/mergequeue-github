@@ -6732,7 +6732,6 @@ celiomyositis
 celiopyosis
 celiorrhea
 celiosalpingotomy
-capless
 contangos
 celioschisis
 celioscope
@@ -14655,6 +14654,7 @@ cysticarpium
 circulable
 cysticercerci
 cysticerci
+capless
 chondrule
 cysticercoid
 cysticercoidal
