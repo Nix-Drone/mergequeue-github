@@ -9042,7 +9042,6 @@ biol
 biolinguistics
 biolyses
 bludgeoneer
-battlemented
 benzazide
 biolite
 biolith
@@ -16381,6 +16380,7 @@ bruscha
 brush
 brushability
 brushable
+battlemented
 brushback
 brushbird
 brushcut
