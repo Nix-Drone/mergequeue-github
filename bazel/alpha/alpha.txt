@@ -2511,6 +2511,7 @@ adsignification
 ackee
 ackees
 ackey
+anatomicopathological
 ackeys
 acker
 argemone
@@ -12058,7 +12059,6 @@ anatomicobiological
 anatomicochirurgical
 anatomicomedical
 anatomicopathologic
-anatomicopathological
 acronyms
 anatomicophysiologic
 arteriofibrosis
