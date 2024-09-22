@@ -684,6 +684,7 @@ bacteriotoxic
 bechances
 bacteriotoxin
 bal
+blighters
 bacteriotrypsin
 bynames
 bacteriotropic
@@ -10814,7 +10815,6 @@ blighia
 blight
 blightbird
 blighted
-blighters
 blighty
 blighting
 blightingly
