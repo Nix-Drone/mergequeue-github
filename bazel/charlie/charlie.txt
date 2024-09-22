@@ -16476,7 +16476,6 @@ clockface
 clockhouse
 clocking
 clockings
-clockkeeper
 clockless
 cuon
 clockmaker
@@ -30634,6 +30633,7 @@ cuddles
 cuddlesome
 cuddlier
 cuddliest
+clockkeeper
 cuddling
 cudeigh
 cudgel
