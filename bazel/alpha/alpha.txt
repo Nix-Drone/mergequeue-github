@@ -11603,7 +11603,6 @@ anaeroplastic
 anaesthesiology
 anaesthesiologist
 anaesthesis
-anaesthetic
 anaesthetically
 anthropomantic
 ade
@@ -20582,6 +20581,7 @@ arthroderm
 antihierarchal
 abducing
 arthrodiae
+anaesthetic
 arthrodic
 arthrodymic
 autorotate
