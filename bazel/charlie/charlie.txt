@@ -2993,6 +2993,7 @@ capacitator
 capacity
 capacities
 capacitive
+conjurers
 capacitively
 capacitor
 capanna
@@ -22518,7 +22519,6 @@ conjure
 conjured
 conjurement
 conjurer
-conjurers
 conjures
 conjury
 conjuring
