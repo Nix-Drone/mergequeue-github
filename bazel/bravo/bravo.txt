@@ -12671,7 +12671,6 @@ booklores
 booklouse
 booklover
 bookmaker
-bookmakers
 bedot
 bookman
 bidarka
@@ -15225,6 +15224,7 @@ bacterins
 bridalty
 boneheads
 brimstonewort
+bookmakers
 bride
 blowout
 bogies
