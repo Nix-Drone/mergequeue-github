@@ -909,7 +909,6 @@ gambist
 gambits
 gonotocont
 guillemot
-gamble
 gambler
 gamblesome
 gamblesomeness
@@ -7086,6 +7085,7 @@ goosefishes
 gooseflesh
 goosefoot
 gambet
+gamble
 goosegirl
 goosegog
 goosegrass
