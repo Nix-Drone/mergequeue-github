@@ -19681,7 +19681,6 @@ combination
 combinational
 combinations
 combinative
-combinator
 combinatory
 combinatorial
 combinatorially
@@ -22964,6 +22963,7 @@ console
 crossfire
 cuneonavicular
 chambermaids
+combinator
 consolement
 consoler
 copist
