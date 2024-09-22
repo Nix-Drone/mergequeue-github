@@ -2169,7 +2169,6 @@ gawk
 grubs
 ginglmi
 gargoyles
-gawked
 gianthood
 graminivore
 gazometer
@@ -8909,6 +8908,7 @@ gypsyish
 gyration
 grater
 griddle
+gawked
 griddlecake
 gymnothorax
 giddiness
