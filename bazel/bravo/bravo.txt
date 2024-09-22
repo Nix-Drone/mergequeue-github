@@ -10194,7 +10194,6 @@ blacksmiths
 blacksnake
 blackstick
 burghbote
-baneful
 blacktail
 bliaut
 boogaloo
@@ -14903,6 +14902,7 @@ boaters
 beslow
 breathe
 breatheableness
+baneful
 breathed
 breather
 boarstaff
