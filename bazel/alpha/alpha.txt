@@ -4038,7 +4038,6 @@ anesthetic
 adjutator
 adjute
 adjutor
-adjutory
 adjutorious
 adjutrice
 adjutrix
@@ -23530,6 +23529,7 @@ aureation
 aureity
 aurelia
 aurelian
+adjutory
 aurelius
 aurene
 aureocasidium
