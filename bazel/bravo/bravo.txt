@@ -4031,7 +4031,6 @@ beaching
 beachless
 beachmaster
 beachside
-biosynthesis
 beachward
 beachwear
 beacon
@@ -14246,6 +14245,7 @@ brags
 braguette
 bragwort
 brahm
+biosynthesis
 brahmachari
 brahmahood
 brahmaic
