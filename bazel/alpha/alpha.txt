@@ -2866,7 +2866,6 @@ acrocentric
 assassinator
 acrocephaly
 acrocephalic
-acrocephalous
 acroceratidae
 acroceraunian
 acrochordidae
@@ -12778,6 +12777,7 @@ atrochal
 angiomyoma
 angiomyosarcoma
 angioneoplasm
+acrocephalous
 angioneurosis
 angionoma
 arcabucero
