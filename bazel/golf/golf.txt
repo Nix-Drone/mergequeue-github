@@ -2240,6 +2240,7 @@ gcd
 gconv
 gd
 gdinfo
+glagolitic
 gds
 grayfish
 globously
@@ -7619,7 +7620,6 @@ grackles
 gradated
 gradating
 grisping
-glagolitic
 gradational
 geospiza
 gradationally
