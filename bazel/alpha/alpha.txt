@@ -9407,6 +9407,7 @@ afghanets
 altazimuth
 alter
 alterability
+ansarian
 alterable
 alterableness
 alterably
@@ -13949,7 +13950,6 @@ anre
 ans
 ansae
 ansar
-ansarian
 ansarie
 ansated
 anklebone
