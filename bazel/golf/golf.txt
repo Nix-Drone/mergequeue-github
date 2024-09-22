@@ -1242,7 +1242,6 @@ gantangs
 gynosporangium
 gantelope
 gantlet
-gantleted
 gantline
 genteeler
 gantlines
@@ -6663,6 +6662,7 @@ goldsmithry
 glider
 goldsmiths
 gasterotricha
+gantleted
 goldspink
 gnathopod
 goldstone
