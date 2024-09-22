@@ -3152,7 +3152,6 @@ defamatory
 defame
 defamed
 dragginess
-defamer
 defamers
 defames
 demihuman
@@ -11483,6 +11482,7 @@ discommend
 dani
 discommendation
 discommender
+defamer
 discommission
 dreaminess
 docudrama
