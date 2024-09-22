@@ -7670,7 +7670,6 @@ ceres
 ceresin
 ceresine
 cereuses
-cerevis
 cerevisial
 cereza
 cerfoil
@@ -16962,6 +16961,7 @@ clutterment
 cm
 cmd
 catalecta
+cerevis
 cmdr
 cml
 cnemial
