@@ -2275,7 +2275,6 @@ concipiency
 canceler
 cancelers
 cancelier
-collaborated
 canceling
 cancellability
 cancellable
@@ -21082,6 +21081,7 @@ concatenated
 concatenates
 concatenating
 coequating
+collaborated
 concatenation
 concatenations
 concatenator
