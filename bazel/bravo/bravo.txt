@@ -9545,6 +9545,7 @@ backfilled
 birthrates
 birthright
 bundling
+bondholder
 birthrights
 birthroot
 births
@@ -12391,7 +12392,6 @@ bonders
 bondfolk
 basalia
 bondhold
-bondholder
 bondholders
 bicolor
 bondholding
