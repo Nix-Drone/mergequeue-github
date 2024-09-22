@@ -6595,6 +6595,7 @@ bequeaths
 bequest
 bequests
 ber
+bronchi
 beray
 berain
 berairou
@@ -15953,7 +15954,6 @@ breakfront
 bromus
 bromvoel
 bronc
-bronchi
 bronchia
 brooding
 bronchiarctia
