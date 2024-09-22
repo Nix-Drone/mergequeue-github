@@ -7307,7 +7307,6 @@ detonability
 detonable
 detonatability
 depersonalised
-detonate
 detonated
 detonates
 detonating
@@ -7388,6 +7387,7 @@ detumescent
 detune
 detuned
 detuning
+detonate
 detur
 deturn
 deturpate
