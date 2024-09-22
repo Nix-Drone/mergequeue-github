@@ -1104,6 +1104,7 @@ calcrete
 calcsinter
 calcspar
 calcspars
+cycloolefine
 calctufas
 calctuff
 calculability
@@ -13367,7 +13368,6 @@ cyclonologist
 cyclonometer
 cycloolefin
 chrysophyll
-cycloolefine
 cycloolefinic
 cyclop
 cyclopaedia
