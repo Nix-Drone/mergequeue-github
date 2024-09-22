@@ -10594,7 +10594,6 @@ diplomats
 diplonema
 detroit
 diplonephridia
-detritus
 dunnaged
 diploneural
 diplont
@@ -18329,6 +18328,7 @@ duodenocystostomy
 duodenoenterostomy
 duodenogram
 duodenojejunal
+detritus
 duodenojejunostomy
 duodenojejunostomies
 duodenopancreatectomy
