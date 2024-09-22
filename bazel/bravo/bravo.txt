@@ -3539,7 +3539,6 @@ bumbass
 batched
 brachia
 batcher
-batches
 batching
 bargemen
 batea
@@ -15963,6 +15962,7 @@ bronchiogenic
 bronchiolar
 bronchioli
 bronchiolitis
+batches
 bronchiolus
 bronchiospasm
 bronchitic
