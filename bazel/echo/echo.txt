@@ -1354,7 +1354,6 @@ effectors
 effectress
 effects
 effectual
-effectuality
 effectualness
 effectuated
 effectuates
@@ -11330,6 +11329,7 @@ evangelistarion
 eightfoil
 evangelistarium
 epidictical
+effectuality
 evangelistics
 evangelists
 evangelistship
