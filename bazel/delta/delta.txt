@@ -3394,7 +3394,6 @@ definitor
 doles
 defis
 defix
-deflagrable
 desulfuriser
 deflagrated
 deflagrates
@@ -15735,6 +15734,7 @@ dormered
 dormers
 dormette
 dormeuse
+deflagrable
 dormice
 dormie
 disqualify
