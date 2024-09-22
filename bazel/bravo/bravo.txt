@@ -2114,6 +2114,7 @@ banknote
 barrelet
 badaud
 banknotes
+bijections
 bankrider
 brachycome
 bedlamising
@@ -8459,7 +8460,6 @@ bihydrazine
 bihourly
 bija
 bijasal
-bijections
 bocca
 bree
 barkantine
