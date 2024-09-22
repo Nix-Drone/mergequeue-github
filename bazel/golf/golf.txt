@@ -2469,7 +2469,6 @@ gelders
 gobmouthed
 geldesprung
 gelding
-geldings
 gelechia
 geleem
 gelees
@@ -9187,6 +9186,7 @@ gristle
 gauge
 gasbag
 grottoed
+geldings
 groomish
 gristliest
 gristliness
