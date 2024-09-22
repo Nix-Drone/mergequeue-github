@@ -14737,7 +14737,6 @@ cystoradiography
 cistori
 cystorrhaphy
 cystorrhea
-cystosarcoma
 cystoschisis
 cystoscope
 cystoscopic
@@ -19325,6 +19324,7 @@ coloproctitis
 coloptosis
 colopuncture
 coloquies
+cystosarcoma
 coloquintid
 coloquintida
 checkstone
