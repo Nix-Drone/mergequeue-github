@@ -6815,7 +6815,6 @@ fevers
 foldage
 foldaway
 foldboater
-farmings
 foldboating
 foldboats
 foldcourse
@@ -10859,6 +10858,7 @@ fulciment
 fulcra
 firecrest
 fulcraceous
+farmings
 fulcrumed
 fulcruming
 fulcrums
