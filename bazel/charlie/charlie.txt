@@ -159,6 +159,7 @@ campmaster
 cabmen
 cabob
 caboceer
+cityless
 caboched
 caboclo
 coploughing
@@ -14838,7 +14839,6 @@ cityish
 cigale
 crimes
 coordinate
-cityless
 citylike
 cytinaceae
 cityness
