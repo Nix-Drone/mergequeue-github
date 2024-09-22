@@ -5628,7 +5628,6 @@ depencil
 depend
 dependability
 deadhead
-dependabilities
 dependableness
 dependably
 dependance
@@ -16255,6 +16254,7 @@ downcastness
 delenda
 downcome
 downcomer
+dependabilities
 downcomes
 downcoming
 downcourt
