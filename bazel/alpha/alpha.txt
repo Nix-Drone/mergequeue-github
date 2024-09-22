@@ -6958,6 +6958,7 @@ addled
 apostolic
 airspeed
 airspeeds
+analyze
 airstream
 akinetic
 allegory
@@ -11742,7 +11743,6 @@ analytique
 analyzability
 analyzable
 analyzation
-analyze
 analyzed
 analyzers
 analyzes
