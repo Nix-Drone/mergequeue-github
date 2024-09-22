@@ -2622,7 +2622,6 @@ encheiria
 endpapers
 electroscopic
 electrosensitive
-electroshock
 electroshocks
 electrosynthesis
 electrosynthetically
@@ -10357,6 +10356,7 @@ ethylthioether
 ethinamate
 ethine
 emulge
+electroshock
 ethyne
 ethynes
 ethinyl
