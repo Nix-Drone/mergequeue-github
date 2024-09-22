@@ -1947,7 +1947,6 @@ camote
 cytologic
 camoudie
 camouflage
-camouflageable
 cryptocrystallization
 camouflager
 camouflagers
@@ -15139,6 +15138,7 @@ civilizer
 catalufa
 civilizers
 coheritage
+camouflageable
 civilizing
 civilly
 civilness
