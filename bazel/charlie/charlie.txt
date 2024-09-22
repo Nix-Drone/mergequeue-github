@@ -10862,6 +10862,7 @@ chip
 chipboard
 chipchap
 chipchop
+craterkin
 chipewyan
 chiplet
 chipling
@@ -28240,7 +28241,6 @@ craterid
 carabineer
 crateriform
 cratering
-craterkin
 craterless
 craterlet
 craterlike
