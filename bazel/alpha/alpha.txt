@@ -2703,7 +2703,6 @@ antares
 acquire
 acquired
 acquirement
-acquirements
 acquirer
 acquirers
 acquiring
@@ -14880,6 +14879,7 @@ antichlor
 antichlorine
 antichloristic
 antichlorotic
+acquirements
 anticholagogue
 antonia
 antichoromanic
