@@ -664,7 +664,6 @@ bacteriophagy
 bacteriophagic
 bacteriophagous
 bear
-bacteriopsonin
 bellwethers
 bacteriopurpurin
 banshee
@@ -17849,6 +17848,7 @@ burrock
 blueblack
 breakback
 bayoneting
+bacteriopsonin
 burroughs
 burroweed
 burrower
