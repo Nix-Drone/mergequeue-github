@@ -5817,6 +5817,7 @@ catfoot
 catfooted
 catgut
 catguts
+copens
 cath
 catha
 convolutionary
@@ -24514,7 +24515,6 @@ copen
 copending
 copenetrate
 copenhagen
-copens
 copeognatha
 copepod
 copepoda
