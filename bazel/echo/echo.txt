@@ -5112,7 +5112,6 @@ embolies
 exinanition
 endoclinal
 endocline
-endocoelar
 erosionally
 endocoele
 endocolpitis
@@ -8473,6 +8472,7 @@ epocha
 eumitosis
 epoche
 epochism
+endocoelar
 epode
 epodes
 epoist
