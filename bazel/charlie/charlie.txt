@@ -4628,7 +4628,6 @@ carpeted
 chlamydospore
 cellarway
 carpeting
-carpetlayer
 carpetless
 carpetmaker
 carpetmaking
@@ -17650,6 +17649,7 @@ cockscombed
 cockscombs
 casel
 chesboil
+carpetlayer
 cocksfoot
 coco
 cocoa
