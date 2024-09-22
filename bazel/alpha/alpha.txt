@@ -1216,7 +1216,6 @@ academicals
 academician
 academicians
 academicianship
-academicism
 academics
 academie
 academies
@@ -11187,6 +11186,7 @@ admiralships
 amphisbaenas
 amphisbaenian
 amphisbaenid
+academicism
 amphisbaenidae
 amphisbaenoid
 amphiscians
