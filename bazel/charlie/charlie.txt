@@ -7510,7 +7510,6 @@ ceraunograph
 ceraunomancy
 costmary
 ceraunophone
-ceraunoscope
 ceraunoscopy
 cerberic
 cerberus
@@ -30064,6 +30063,7 @@ crowhop
 crowhopper
 crowing
 circa
+ceraunoscope
 crowingly
 crowkeeper
 crowl
