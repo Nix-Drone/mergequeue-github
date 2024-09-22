@@ -2479,7 +2479,6 @@ dulls
 deckswabber
 decl
 declaim
-dichorisandra
 declaimant
 declaimer
 declaimers
@@ -17165,6 +17164,7 @@ drynesses
 dringle
 dognaping
 drink
+dichorisandra
 decius
 drinkability
 drinkable
