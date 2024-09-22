@@ -5425,6 +5425,7 @@ affranchisement
 affrap
 anopsy
 affreight
+allergies
 affreighter
 affreightment
 affret
@@ -8643,7 +8644,6 @@ allergenic
 autarkical
 allergenicity
 allergia
-allergies
 allergin
 allergins
 allergist
