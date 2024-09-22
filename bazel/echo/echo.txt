@@ -4950,7 +4950,6 @@ endaortic
 endaortitis
 endarch
 endarchy
-endarchies
 endarterectomy
 endarterial
 endarterium
@@ -5496,6 +5495,7 @@ energical
 energico
 energid
 energids
+endarchies
 energise
 epirot
 energiser
