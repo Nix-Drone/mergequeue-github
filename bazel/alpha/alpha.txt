@@ -1678,7 +1678,6 @@ accosted
 accosts
 accouche
 accouchement
-accouchements
 accoucheur
 accoucheurs
 accoucheuses
@@ -11724,6 +11723,7 @@ analysand
 analysation
 analyser
 analysers
+accouchements
 addressee
 analyses
 analysing
