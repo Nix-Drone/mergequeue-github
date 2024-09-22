@@ -7298,7 +7298,6 @@ getfd
 gospodar
 gillers
 gospodin
-gosport
 gosports
 gossamer
 gossamered
@@ -10463,6 +10462,7 @@ glitter
 gramenite
 gun
 guna
+gosport
 gunarchy
 gunated
 grudgeons
