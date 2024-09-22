@@ -4829,6 +4829,7 @@ carshops
 carsick
 carsickness
 carsmith
+commute
 carson
 caviteno
 carstone
@@ -20345,7 +20346,6 @@ commutatively
 commutativity
 commutator
 commutators
-commute
 commuted
 commuter
 commuters
