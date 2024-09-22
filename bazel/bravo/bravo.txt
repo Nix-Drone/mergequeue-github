@@ -7135,7 +7135,6 @@ bespawl
 bespeak
 biremes
 blackstrap
-bushing
 backs
 bespeakable
 bespeaking
@@ -17854,6 +17853,7 @@ burroweed
 burrower
 burrowing
 burrows
+bushing
 burrowstown
 benevolent
 burrstone
