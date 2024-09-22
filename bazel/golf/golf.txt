@@ -3213,7 +3213,6 @@ geoponic
 gravimeter
 gettering
 geopotential
-geoprumnon
 georama
 george
 georgemas
@@ -5946,6 +5945,7 @@ glottid
 glottidean
 glottides
 galeenies
+geoprumnon
 glottis
 galvanocontractility
 glazings
