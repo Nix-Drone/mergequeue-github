@@ -17288,6 +17288,7 @@ coastland
 coastlines
 coastman
 coastmen
+cleche
 coasts
 coastside
 coastwaiter
@@ -30289,7 +30290,6 @@ crusaded
 clingstones
 crusaders
 crusades
-cleche
 crusading
 crusado
 coastways
