@@ -3872,7 +3872,6 @@ emeses
 emesidae
 emesis
 emetia
-emetic
 emetics
 emetines
 entrapped
@@ -13600,6 +13599,7 @@ exteriorly
 exteriorness
 exterminable
 exoduses
+emetic
 emigated
 exterminate
 exterminated
