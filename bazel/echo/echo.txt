@@ -4737,6 +4737,7 @@ ersatzes
 ease
 enciphered
 enciphering
+eurindic
 encipherment
 evolutional
 encipherments
@@ -11087,7 +11088,6 @@ editorializations
 expertizing
 eurylaimoid
 eurymus
-eurindic
 egocentric
 expede
 euryphage
