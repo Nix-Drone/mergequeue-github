@@ -1223,7 +1223,6 @@ educand
 educatability
 epicrystalline
 eident
-educatable
 educate
 evitate
 educated
@@ -2575,6 +2574,7 @@ electrophorese
 electrophoreses
 electrophoresing
 electrophoretically
+educatable
 excerpted
 electrophoretogram
 exturb
