@@ -1529,6 +1529,7 @@ clericalize
 callum
 calluna
 callus
+crosswalks
 cispadane
 callused
 calluses
@@ -29929,7 +29930,6 @@ crosstree
 crossway
 crossways
 crosswalk
-crosswalks
 crossweb
 crossweed
 crosswise
