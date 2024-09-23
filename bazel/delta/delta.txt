@@ -10032,7 +10032,6 @@ dirls
 descriptions
 dynamomorphic
 dynamoneure
-dynamophone
 dynamos
 dynamostatic
 dynamotor
@@ -17926,6 +17925,7 @@ duffel
 duffels
 duffer
 dufferdom
+dynamophone
 disrange
 duffers
 duffy
