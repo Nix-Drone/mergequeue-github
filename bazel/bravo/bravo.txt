@@ -649,7 +649,6 @@ benzin
 bacteriolysin
 bletherskate
 bemingle
-bacteriolytic
 bacteriolyze
 bacteriology
 bacteriologic
@@ -15274,6 +15273,7 @@ bridgebuilding
 bridged
 bridgehead
 bridgeless
+bacteriolytic
 bridgemaking
 bridgemaster
 bridgemen
