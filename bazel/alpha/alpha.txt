@@ -5018,7 +5018,6 @@ aerometeorograph
 aerometer
 aerometry
 abluted
-aerometric
 aeromotor
 aeronat
 aeronaut
@@ -14138,6 +14137,7 @@ anteflected
 anteflexed
 anteflexion
 antefurca
+aerometric
 antefurcae
 antefurcal
 antegarden
