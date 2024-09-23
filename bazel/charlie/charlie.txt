@@ -9765,7 +9765,6 @@ chela
 chelatable
 chelate
 chelated
-chelates
 chelating
 chelation
 chelator
@@ -13622,6 +13621,7 @@ caridoid
 chondrocostal
 colluviums
 cyma
+chelates
 companionable
 cymae
 cymagraph
