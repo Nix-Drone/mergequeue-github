@@ -1449,7 +1449,6 @@ gasproof
 gervao
 gibier
 garlicwort
-garlion
 garlopa
 garment
 goaded
@@ -10564,6 +10563,7 @@ guest
 gracile
 grossierete
 gunrunning
+garlion
 guns
 gunsel
 gunsels
