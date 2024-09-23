@@ -1967,7 +1967,6 @@ acceleration
 adstrict
 aceta
 advanced
-acetable
 acetabula
 acetabular
 acetabularia
@@ -22872,6 +22871,7 @@ atriocoelomic
 atriopore
 advertize
 atrip
+acetable
 atrypa
 atriplex
 atrypoid
