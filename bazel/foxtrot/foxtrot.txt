@@ -503,7 +503,6 @@ falbalas
 falbelo
 fumados
 falcata
-falcate
 falces
 falchion
 forgeman
@@ -8029,6 +8028,7 @@ forest
 forthteller
 forestaff
 forestaffs
+falcate
 forestage
 forestay
 forestair
