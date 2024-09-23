@@ -2357,7 +2357,6 @@ ficaria
 fenetre
 fenks
 fenland
-fenman
 fenmen
 furrings
 fennec
@@ -5121,6 +5120,7 @@ flatman
 flatness
 favi
 flats
+fenman
 flatted
 flatten
 flimp
