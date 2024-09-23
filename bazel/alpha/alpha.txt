@@ -2656,7 +2656,6 @@ acouophonia
 acoluthic
 acoup
 acoupa
-acousmatic
 acoustical
 acoustically
 acousticolateral
@@ -4049,6 +4048,7 @@ ambassage
 adlegation
 adlerian
 adless
+acousmatic
 adlet
 adlumia
 adlumidin
