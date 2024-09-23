@@ -3872,7 +3872,6 @@ emeses
 emesidae
 emesis
 emetia
-emetic
 emetics
 emetines
 entrapped
@@ -5153,6 +5152,7 @@ endodontia
 endodontically
 endodontist
 endodontium
+emetic
 endodontology
 enteron
 endodontologist
