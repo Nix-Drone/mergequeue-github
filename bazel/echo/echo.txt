@@ -335,7 +335,6 @@ ebbs
 ebcasc
 enterosyphilis
 ebcd
-ebcdic
 ebdomade
 eben
 ebenaceae
@@ -6313,6 +6312,7 @@ enrooted
 enroots
 encirclement
 enround
+ebcdic
 enruin
 enrut
 ens
