@@ -2876,7 +2876,6 @@ genomic
 genoms
 genonema
 gph
-genos
 gerrymandered
 genospecies
 genotype
@@ -9832,6 +9831,7 @@ groow
 guanche
 guanases
 guanethidine
+genos
 gallbush
 geikielite
 guango
