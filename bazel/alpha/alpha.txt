@@ -3331,7 +3331,6 @@ acus
 acusector
 atresy
 acustom
-antagonized
 acutance
 acutances
 acutate
@@ -20308,6 +20307,7 @@ arrogancy
 arrogant
 arrogantly
 arrogated
+antagonized
 arrogates
 arrogating
 arrogatingly
