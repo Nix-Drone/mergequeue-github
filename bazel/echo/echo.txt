@@ -6446,7 +6446,6 @@ enslumber
 ensnare
 ensnared
 explosive
-ensnarement
 ensnarer
 ensnarers
 ensnares
@@ -12064,6 +12063,7 @@ exclaimingly
 exclaims
 exclam
 ecardines
+ensnarement
 earthmaking
 exclamational
 exclamations
