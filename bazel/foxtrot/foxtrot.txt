@@ -8878,7 +8878,6 @@ flowages
 frameableness
 fossilism
 fossilist
-fossilizable
 fossilized
 fossilizing
 furcular
@@ -9741,6 +9740,7 @@ flotations
 freers
 frees
 foliosity
+fossilizable
 freesheet
 freesias
 freesilverism
