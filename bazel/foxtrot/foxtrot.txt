@@ -1460,6 +1460,7 @@ fatnesses
 fylgjur
 fats
 fatshedera
+forespake
 ferahan
 fatsia
 fatso
@@ -8014,7 +8015,6 @@ foreslack
 flipper
 foreslow
 foresound
-forespake
 forespeak
 faming
 flatteur
