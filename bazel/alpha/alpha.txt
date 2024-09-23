@@ -272,7 +272,6 @@ abdominogenital
 affiant
 abdominohysterotomy
 abdominoposterior
-abdominoscopy
 agas
 abdominothoracic
 abdominous
@@ -12280,6 +12279,7 @@ andamento
 antiinflammatories
 andamentos
 andante
+abdominoscopy
 andantes
 andantini
 andantino
