@@ -4392,6 +4392,7 @@ fleeten
 fishing
 frenum
 flanched
+flukes
 fum
 feluccas
 fishingly
@@ -6322,7 +6323,6 @@ fluked
 flappered
 filix
 feridgi
-flukes
 flukeworm
 flukewort
 fluky
