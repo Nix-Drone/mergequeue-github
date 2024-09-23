@@ -679,7 +679,6 @@ geopositive
 gunshots
 gnathonize
 gadaea
-geodesy
 galliot
 galliots
 gurnets
@@ -3053,6 +3052,7 @@ geodesies
 geodesist
 gentilhomme
 gooseflower
+geodesy
 gleeishly
 geodesists
 glycerination
