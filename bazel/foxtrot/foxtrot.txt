@@ -2991,7 +2991,6 @@ feverlike
 feverous
 fillmass
 feverously
-feverroot
 fevertwig
 fevertwitch
 feverwort
@@ -8840,6 +8839,7 @@ fouler
 fosite
 fossa
 fibreglass
+feverroot
 flunks
 fole
 flabbier
