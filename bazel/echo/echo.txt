@@ -4557,7 +4557,6 @@ endolithic
 encephalartos
 encephalasthenia
 encyclical
-encephalic
 encephalin
 encephalitic
 exocolitis
@@ -10489,6 +10488,7 @@ ethnotechnography
 ethnozoology
 ethography
 etholide
+encephalic
 ethology
 ethologic
 ethological
