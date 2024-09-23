@@ -11288,7 +11288,6 @@ chlorize
 chlormethane
 chlormethylic
 chlornal
-chloro
 chloroacetic
 chloroacetone
 chloroacetophenone
@@ -22159,6 +22158,7 @@ confutation
 confutations
 confutator
 confute
+chloro
 cyclopaedias
 confuter
 confuters
