@@ -6604,6 +6604,7 @@ enterate
 enterclose
 enterectomy
 enterectomies
+externally
 exuviates
 enterer
 ellipses
@@ -7773,7 +7774,6 @@ earwort
 ex
 excellently
 epidermatous
-externally
 extracanonical
 epirogeny
 effront
