@@ -9152,7 +9152,6 @@ didus
 die
 delaminating
 dye
-desoxycinchonine
 dyeability
 dyeable
 ditriglyph
@@ -17426,6 +17425,7 @@ direction
 decream
 dropsies
 disconcord
+desoxycinchonine
 dropsywort
 dropsonde
 donuts
