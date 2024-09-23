@@ -5310,7 +5310,6 @@ endosmometric
 eyr
 evaders
 erasions
-electroplax
 endosmose
 endosmoses
 endosmosic
@@ -6708,6 +6707,7 @@ enterorrhaphy
 enteroscope
 eternity
 enteroscopy
+electroplax
 enterosepsis
 enterospasm
 enterostasis
