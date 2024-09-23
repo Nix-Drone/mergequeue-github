@@ -12571,6 +12571,7 @@ disjunctor
 disjuncts
 dereferences
 disjuncture
+domicilement
 disjune
 disk
 disked
@@ -15331,7 +15332,6 @@ domicella
 domicil
 domicile
 domiciled
-domicilement
 domiciles
 domiciliar
 duodene
