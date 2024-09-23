@@ -1076,7 +1076,6 @@ farmable
 farmed
 farmer
 farmeress
-farmery
 filigraned
 farmeries
 farmerish
@@ -6935,6 +6934,7 @@ foreyear
 folksay
 folksey
 folksy
+farmery
 folksiest
 folksily
 folksiness
