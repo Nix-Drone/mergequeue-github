@@ -9578,7 +9578,6 @@ construct
 checksummed
 checksumming
 checkup
-checkups
 checkweigher
 checkweighman
 checkweighmen
@@ -18938,6 +18937,7 @@ collective
 collectively
 collectives
 collectivise
+checkups
 compensate
 collectivism
 collectivist
