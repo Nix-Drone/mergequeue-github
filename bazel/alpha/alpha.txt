@@ -8247,6 +8247,7 @@ allochezia
 alignments
 aligns
 aligreek
+anatomiless
 aliya
 aliyah
 aliyahaliyahs
@@ -12063,7 +12064,6 @@ acronyms
 anatomicophysiologic
 arteriofibrosis
 anatomies
-anatomiless
 anatomise
 anatomiser
 anatomising
