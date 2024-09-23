@@ -12642,7 +12642,6 @@ chronostichon
 chronothermal
 chronothermometer
 chronotropic
-chronotropism
 chroococcaceae
 chroococcales
 chroococcoid
@@ -25617,6 +25616,7 @@ corradial
 corradiate
 corradiated
 corradiating
+chronotropism
 corrading
 corral
 corralled
