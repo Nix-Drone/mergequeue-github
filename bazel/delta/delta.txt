@@ -5734,7 +5734,6 @@ deplaceable
 deplane
 deplaned
 deplaning
-deplant
 deplantation
 deplasmolysis
 dictamina
@@ -15503,6 +15502,7 @@ donkeywork
 diatomaceoid
 donmeh
 donn
+deplant
 donna
 discusser
 donnard
