@@ -2693,7 +2693,6 @@ barkentine
 barkentines
 barker
 barkery
-barkevikite
 barkevikitic
 bub
 barkhan
@@ -11030,6 +11029,7 @@ blocklike
 broil
 blockmaker
 blockpate
+barkevikite
 blocks
 bhunder
 blockship
