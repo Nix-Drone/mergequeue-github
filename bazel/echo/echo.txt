@@ -2062,7 +2062,6 @@ examinational
 eked
 elaenia
 elaeoblast
-elaeoblastic
 elaeocarpaceae
 elaeocarpus
 elaeococca
@@ -11256,6 +11255,7 @@ exteriors
 evacue
 evacuees
 evadable
+elaeoblastic
 evade
 evaded
 evader
