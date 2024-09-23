@@ -683,7 +683,6 @@ balanophorin
 bacteriotoxic
 bechances
 bacteriotoxin
-bal
 bacteriotrypsin
 bynames
 bacteriotropic
@@ -9761,6 +9760,7 @@ bistetrazole
 bisti
 bistipulate
 bouchees
+bal
 bistipuled
 bistort
 bathylimnetic
