@@ -5985,7 +5985,6 @@ beltmaker
 beltmaking
 beltman
 beltmen
-belts
 beltway
 beltwise
 barn
@@ -11609,6 +11608,7 @@ boatloader
 bumaloe
 boatloading
 baske
+belts
 boatloads
 boatman
 boatless
