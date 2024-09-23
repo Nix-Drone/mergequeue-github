@@ -863,7 +863,6 @@ fellon
 fanos
 fanout
 fantailed
-fantails
 fantaisie
 fantasy
 favoured
@@ -5772,6 +5771,7 @@ flittermice
 fluviation
 flittermmice
 footrill
+fantails
 flittermouse
 farmlands
 flitters
