@@ -3242,7 +3242,6 @@ caporal
 caporals
 counterweighing
 capot
-capotasto
 capotastos
 capote
 capotes
@@ -13855,6 +13854,7 @@ cinemagoer
 cinemagoers
 cinemas
 cymbal
+capotasto
 cinemascope
 cinematheque
 comakers
