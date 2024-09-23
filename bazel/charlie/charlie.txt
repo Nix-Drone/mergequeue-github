@@ -408,7 +408,6 @@ cacotheline
 cacothes
 cacothesis
 cacothymia
-cacotype
 cacotopia
 cytologies
 cacotrophia
@@ -9542,6 +9541,7 @@ checkless
 checklist
 checklists
 checkman
+cacotype
 congruencies
 clipeus
 checkmark
