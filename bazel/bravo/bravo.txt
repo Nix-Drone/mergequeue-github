@@ -1884,6 +1884,7 @@ bandager
 bandages
 bandaging
 brakes
+bistephanic
 bandagist
 bandaid
 bandala
@@ -9751,7 +9752,6 @@ bistable
 backwashed
 bystander
 bistate
-bistephanic
 bister
 bistered
 bisters
