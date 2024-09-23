@@ -2995,7 +2995,6 @@ acrose
 acrosome
 acrosomes
 acrosphacelus
-acrospire
 affirming
 acrospiring
 adnexa
@@ -4719,6 +4718,7 @@ aeciostage
 abr
 aecioteliospore
 aecium
+acrospire
 aedeagal
 aedeagi
 aedeagus
