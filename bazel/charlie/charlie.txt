@@ -20887,7 +20887,6 @@ compressed
 compressedly
 compresses
 compressibility
-compressibilities
 compressible
 compressibleness
 compressibly
@@ -27282,6 +27281,7 @@ courge
 carcaneted
 courgette
 courida
+compressibilities
 courie
 couriers
 couril
