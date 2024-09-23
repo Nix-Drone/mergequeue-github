@@ -2550,7 +2550,6 @@ gasterosteus
 geminous
 goosebill
 guardian
-gemless
 gemma
 gemmaceous
 greenhood
@@ -9474,6 +9473,7 @@ groundwards
 group
 groupable
 groupage
+gemless
 groupageness
 grouped
 grouper
