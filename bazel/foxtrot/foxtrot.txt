@@ -4450,6 +4450,7 @@ fissionable
 fissioned
 frays
 fissions
+floriform
 fissipalmation
 floorboards
 fissiparism
@@ -9729,7 +9730,6 @@ freemartin
 freemason
 freemasonic
 foredefine
-floriform
 fishbowl
 freemasonical
 freemasons
