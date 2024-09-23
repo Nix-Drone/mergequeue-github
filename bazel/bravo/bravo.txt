@@ -1560,6 +1560,7 @@ ballas
 ballast
 ballastage
 bulbiform
+bikes
 blanchi
 balanoglossida
 bouton
@@ -9922,7 +9923,6 @@ bedivere
 beslushed
 bituminizing
 bituminoid
-bikes
 bituminosis
 bituminous
 bitwise
