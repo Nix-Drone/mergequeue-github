@@ -3565,7 +3565,6 @@ fuzztail
 flaxwife
 filamentous
 filaments
-filamentule
 filander
 filao
 forsterite
@@ -3857,6 +3856,7 @@ feeblemindedly
 fimbriating
 ferriferous
 fimbriatum
+filamentule
 feral
 frigidness
 fimbricate
