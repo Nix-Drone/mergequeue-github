@@ -5143,6 +5143,7 @@ embosser
 endocrinopathic
 endocritic
 eruca
+extends
 endoderm
 endodermal
 endodermic
@@ -13539,7 +13540,6 @@ extended
 extendedly
 extender
 extending
-extends
 enworthy
 extensibility
 extensible
