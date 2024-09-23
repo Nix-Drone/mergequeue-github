@@ -12354,7 +12354,6 @@ anisotropic
 androcles
 androclinia
 androclinium
-androclus
 androconia
 androconium
 abbeystede
@@ -16938,6 +16937,7 @@ aphotic
 aphototactic
 ancienter
 aphototaxis
+androclus
 aphototropic
 acholic
 aphototropism
