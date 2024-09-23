@@ -5241,7 +5241,6 @@ bastes
 begaud
 begaudy
 bobbled
-begaze
 begazes
 begazing
 blinds
@@ -12994,6 +12993,7 @@ bugseeds
 boodleism
 banjore
 boreism
+begaze
 borel
 borele
 betrample
