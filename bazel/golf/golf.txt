@@ -2697,7 +2697,6 @@ generaliter
 generalities
 generalizations
 generalize
-genl
 gyrations
 generalizeable
 genappe
@@ -10363,6 +10362,7 @@ gulling
 goffers
 gullish
 gulliver
+genl
 gulllike
 gulls
 glucosidal
