@@ -14140,6 +14140,7 @@ anteflexion
 antefurca
 antefurcae
 antefurcal
+aurinasal
 antegarden
 antegrade
 antehall
@@ -23605,7 +23606,6 @@ aurigo
 aurigraphy
 alestake
 aurin
-aurinasal
 aurine
 acicula
 auriphone
