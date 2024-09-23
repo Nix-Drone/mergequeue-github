@@ -4192,6 +4192,7 @@ gasterosteoid
 gim
 gimbal
 gimbaled
+gelandejump
 gimballed
 groundsheet
 groining
@@ -5490,7 +5491,6 @@ grant
 glycosidically
 glycosyl
 gusseted
-gelandejump
 glycosyls
 gossipingly
 glycosin
