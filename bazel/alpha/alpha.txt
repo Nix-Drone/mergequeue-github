@@ -7753,6 +7753,7 @@ aldohexose
 aldoketene
 aldol
 aldolase
+apache
 aldolases
 aldolization
 anconei
@@ -16653,7 +16654,6 @@ ap
 apa
 apabhramsa
 apace
-apache
 apachette
 apachite
 apadana
