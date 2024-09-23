@@ -11552,7 +11552,6 @@ billhead
 boardroom
 boards
 boardsmanship
-boardwalks
 boarfish
 boarfishes
 boarhound
@@ -14159,6 +14158,7 @@ buzzy
 bradyphrenia
 bradypnea
 bayhead
+boardwalks
 bradypode
 bradypodidae
 borotungstic
