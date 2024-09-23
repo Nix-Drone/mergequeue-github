@@ -6458,7 +6458,6 @@ arborescent
 agriotype
 agriotypidae
 agriotypus
-agrypnia
 agrypniai
 aristulate
 agrypnias
@@ -7890,6 +7889,7 @@ alertness
 alerts
 ales
 alesan
+agrypnia
 aletap
 aletaster
 alethea
