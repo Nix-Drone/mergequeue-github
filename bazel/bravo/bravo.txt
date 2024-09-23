@@ -6283,7 +6283,6 @@ benightedness
 besiren
 benighter
 benightment
-benign
 benignancy
 brinston
 benignancies
@@ -8950,6 +8949,7 @@ botan
 biocidal
 biocide
 biocides
+benign
 bioclimatic
 bioclimatician
 bioclimatology
