@@ -5202,7 +5202,6 @@ aetolian
 aetomorphae
 aetosaur
 aetosaurian
-aetosaurus
 aettekees
 akov
 aeviternal
@@ -17623,6 +17622,7 @@ appeal
 appealable
 arsono
 appealed
+aetosaurus
 appealer
 appealers
 appealing
