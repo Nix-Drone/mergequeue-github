@@ -5990,7 +5990,6 @@ disprofit
 deprivals
 deprivate
 deprivation
-deprive
 deprived
 deprivement
 depriver
@@ -10627,6 +10626,7 @@ diplopteryga
 diplopterous
 disaccordance
 defiler
+deprive
 diploses
 dikdiks
 diplosis
