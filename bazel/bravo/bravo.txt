@@ -3129,6 +3129,7 @@ baculite
 bipropellant
 bascules
 bascunan
+bammed
 base
 baseball
 bojite
@@ -3741,7 +3742,6 @@ bunsen
 batsmen
 batswing
 batt
-bammed
 batta
 battable
 battailant
