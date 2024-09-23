@@ -8333,7 +8333,6 @@ canadianisms
 chalcotrichite
 chalcus
 chaldaei
-chaldaic
 chaldaical
 chaldaism
 chaldean
@@ -23327,6 +23326,7 @@ contagion
 contagioned
 contagionist
 computation
+chaldaic
 colibert
 contagions
 contagiosity
