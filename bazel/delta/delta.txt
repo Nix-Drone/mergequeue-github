@@ -349,6 +349,7 @@ daybreak
 daybreaks
 daibutsu
 desand
+docked
 dynamoscope
 daydawn
 daidly
@@ -14657,7 +14658,6 @@ docity
 dock
 dockage
 dilatancy
-docked
 docker
 dockers
 docket
