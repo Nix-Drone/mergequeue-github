@@ -15807,7 +15807,6 @@ cleach
 clead
 cleaded
 cleading
-cleam
 cleamer
 clean
 cleanable
@@ -18861,6 +18860,7 @@ collapse
 collapsed
 collapses
 contam
+cleam
 collapsibility
 collapsing
 collar
