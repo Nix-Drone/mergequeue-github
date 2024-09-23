@@ -8677,7 +8677,6 @@ alliage
 arragonite
 alliance
 amidships
-accoast
 alliances
 acromioscapular
 alliant
@@ -21627,6 +21626,7 @@ assedat
 assegai
 assegaied
 acaudal
+accoast
 assegaiing
 americanized
 assegaing
