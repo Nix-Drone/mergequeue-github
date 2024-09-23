@@ -25777,7 +25777,6 @@ corrosivity
 corrugant
 corrugate
 corrugated
-corrugates
 corrugating
 corrugation
 corrugator
@@ -26518,6 +26517,7 @@ couches
 cantillate
 couchette
 couchy
+corrugates
 couching
 couchings
 couchmaker
