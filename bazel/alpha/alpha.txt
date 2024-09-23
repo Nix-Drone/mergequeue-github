@@ -1403,7 +1403,6 @@ acceded
 acceders
 acceding
 accel
-accelerable
 accelerando
 amnesias
 accelerant
@@ -24645,6 +24644,7 @@ avocets
 averages
 averaging
 avery
+accelerable
 averia
 alai
 averil
