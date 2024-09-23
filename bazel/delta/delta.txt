@@ -5002,7 +5002,6 @@ demotion
 demotions
 demotist
 demotists
-demount
 demountability
 demounted
 demounting
@@ -14259,6 +14258,7 @@ divariant
 divaricating
 divaricatingly
 divarication
+demount
 diagrammatize
 divaricator
 divas
