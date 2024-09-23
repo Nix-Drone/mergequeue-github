@@ -1967,7 +1967,6 @@ blastoff
 bandlet
 bandlimited
 breadwinners
-bandlimiting
 bandlimits
 bandman
 bandmaster
@@ -7011,6 +7010,7 @@ beshrews
 beshriek
 beshrivel
 beshroud
+bandlimiting
 borlase
 beaned
 beshrouding
