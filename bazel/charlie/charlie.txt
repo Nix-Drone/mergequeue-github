@@ -24927,7 +24927,6 @@ chymosin
 corbula
 corcass
 corchat
-corchorus
 corcir
 corcyraean
 corcle
@@ -28406,6 +28405,7 @@ creatable
 crosier
 create
 created
+corchorus
 createdness
 cheliferous
 creates
