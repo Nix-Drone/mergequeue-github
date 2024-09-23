@@ -18183,7 +18183,6 @@ coffeehouses
 coffeehousing
 coffeeleaf
 coffeeman
-coffeepot
 coffeepots
 coffeeroom
 coffees
@@ -20244,6 +20243,7 @@ commorient
 commorse
 commorth
 communiqu
+coffeepot
 commos
 commot
 commotion
