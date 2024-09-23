@@ -1953,6 +1953,7 @@ estmark
 eisteddfod
 eisteddfodau
 evertebral
+enphytotic
 eisteddfodic
 eisteddfodism
 eisteddfods
@@ -12279,7 +12280,6 @@ executant
 engines
 execute
 executed
-enphytotic
 encastage
 exhibitorial
 executes
