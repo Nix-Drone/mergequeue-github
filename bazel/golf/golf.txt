@@ -6235,7 +6235,6 @@ gnast
 girr
 gnat
 gnatflower
-gnathal
 gnathidium
 gnathite
 gunyah
@@ -8805,6 +8804,7 @@ glis
 greybeard
 grouseless
 greycoat
+gnathal
 greyed
 gavel
 greyest
