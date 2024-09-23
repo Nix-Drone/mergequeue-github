@@ -1996,7 +1996,6 @@ bandora
 bandore
 bronchium
 bandos
-bandpass
 bandrol
 bandsaw
 bandsawed
@@ -11919,6 +11918,7 @@ bogledom
 boglet
 bogmire
 bogo
+bandpass
 binodal
 bogomil
 bogomile
