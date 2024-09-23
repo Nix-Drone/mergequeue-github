@@ -1211,6 +1211,7 @@ calfless
 calflike
 calfling
 calfret
+cradletime
 calfs
 calfskin
 calgary
@@ -27523,7 +27524,6 @@ coward
 cowardy
 cowardice
 chrobat
-cradletime
 cowardish
 cowardly
 cowardliness
