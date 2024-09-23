@@ -10300,7 +10300,6 @@ blancard
 blanch
 blanche
 blanched
-blancher
 blanchers
 blanches
 blanchimeter
@@ -12680,6 +12679,7 @@ begarie
 bookmarker
 borderline
 bookmarks
+blancher
 bookmate
 bookmobile
 bookmobiles
