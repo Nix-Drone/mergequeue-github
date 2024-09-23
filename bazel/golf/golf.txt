@@ -1528,7 +1528,6 @@ garrisons
 garrnishable
 garron
 garroo
-garroted
 garroters
 garrotes
 goldweed
@@ -9186,6 +9185,7 @@ grister
 gristle
 gauge
 gasbag
+garroted
 grottoed
 groomish
 gristliest
