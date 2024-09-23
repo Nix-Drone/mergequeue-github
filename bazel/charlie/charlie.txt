@@ -2320,7 +2320,6 @@ cancha
 canchalagua
 crocard
 canchas
-cancion
 cancionero
 canciones
 causeless
@@ -30747,6 +30746,7 @@ culicifugal
 culicifuge
 culicine
 chiffon
+cancion
 culicines
 culicoides
 culilawan
