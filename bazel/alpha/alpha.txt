@@ -4033,6 +4033,7 @@ adjutage
 adjutancies
 adjutant
 adjutants
+airlight
 adjutantship
 anesthetic
 adjutator
@@ -5435,7 +5436,6 @@ affricate
 atrepsy
 affricated
 agnosticism
-airlight
 affricates
 affrication
 affriended
