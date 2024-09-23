@@ -16455,7 +16455,6 @@ cloakmaking
 cloakroom
 cloakrooms
 caterwaul
-cloakwise
 cloam
 cloamen
 cloamer
@@ -17701,6 +17700,7 @@ cocreated
 conelet
 cocreating
 cocreator
+cloakwise
 cocreatorship
 cocreditor
 cocrucify
