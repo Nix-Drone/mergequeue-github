@@ -5942,7 +5942,6 @@ agency
 agencies
 agend
 ampyx
-agenda
 agendaless
 agendas
 agendum
@@ -8394,6 +8393,7 @@ anesthesiometer
 alumroots
 arcadia
 alkalescent
+agenda
 alkali
 alkalic
 alkalies
