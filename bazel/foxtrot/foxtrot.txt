@@ -3359,7 +3359,6 @@ fiedlerite
 firstlings
 fief
 foredeem
-fiefs
 forfeitable
 fiel
 fieldball
@@ -4107,6 +4106,7 @@ fruiter
 finochio
 finochios
 fins
+fiefs
 fintadores
 ferth
 fiords
