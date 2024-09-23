@@ -4946,7 +4946,6 @@ demonry
 divines
 demonship
 demonstrability
-demonstrable
 destructing
 demonstrableness
 demonstrably
@@ -18385,6 +18384,7 @@ dupioni
 duplation
 duple
 duplex
+demonstrable
 duplexer
 duplexers
 duplexing
