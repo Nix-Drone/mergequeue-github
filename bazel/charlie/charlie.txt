@@ -9956,7 +9956,6 @@ chemotherapeutically
 chemotherapeutics
 chemotherapy
 chemotherapies
-chemotherapist
 chemotherapists
 chemotic
 chemotroph
@@ -22074,6 +22073,7 @@ crwths
 couvert
 conformations
 conformator
+chemotherapist
 conformed
 conformer
 conformers
