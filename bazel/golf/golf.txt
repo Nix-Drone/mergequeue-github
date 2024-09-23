@@ -167,7 +167,6 @@ greasiness
 gaduin
 gadus
 gadwall
-gadwalls
 ghrush
 gonotokont
 gadzooks
@@ -3753,6 +3752,7 @@ gildsman
 ghole
 ghoom
 geoaesthesia
+gadwalls
 glops
 ghorkhar
 galwegian
