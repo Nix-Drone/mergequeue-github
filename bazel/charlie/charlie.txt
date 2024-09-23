@@ -6703,7 +6703,6 @@ celialgia
 celibacy
 celibacies
 celibatarian
-celibate
 celibatic
 celibatist
 celibatory
@@ -20651,6 +20650,7 @@ complemented
 complementer
 complementers
 complementing
+celibate
 complementizer
 complementoid
 complete
