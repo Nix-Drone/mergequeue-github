@@ -1297,7 +1297,6 @@ damageable
 dauncy
 doxantha
 daunder
-dorsilateral
 departure
 daundered
 daundering
@@ -17038,6 +17037,7 @@ dressmake
 dressmakery
 dressmakers
 dressmaking
+dorsilateral
 dressoir
 dressoirs
 drest
