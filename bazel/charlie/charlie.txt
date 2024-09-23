@@ -12488,7 +12488,6 @@ childbeds
 chromolithography
 chromolithographic
 chromometer
-chromone
 chromonema
 chromonemal
 chromonemata
@@ -21291,6 +21290,7 @@ conchylia
 conchyliated
 conchyliferous
 conchylium
+chromone
 conchinin
 conchinine
 conchiolin
