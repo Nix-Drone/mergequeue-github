@@ -8290,7 +8290,6 @@ forelock
 forhow
 fade
 foryield
-furnished
 furnaceman
 ferriage
 felonous
@@ -10768,6 +10767,7 @@ frustrates
 flaskets
 furling
 foldboat
+furnished
 frustrating
 foretokened
 frustration
