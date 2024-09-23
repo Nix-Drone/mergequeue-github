@@ -8609,7 +8609,6 @@ alleles
 allelic
 allelism
 allelisms
-allelocatalytic
 almes
 autopathic
 arsmetrik
@@ -13054,6 +13053,7 @@ algraphic
 anhydrotic
 anhydrous
 anhydrously
+allelocatalytic
 anhydroxime
 anhima
 anhimae
