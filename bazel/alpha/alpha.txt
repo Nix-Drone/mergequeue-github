@@ -5582,7 +5582,6 @@ aftercast
 aftercataract
 adversive
 afterchance
-afterchurch
 afterclap
 afterclause
 aftercome
@@ -22290,6 +22289,7 @@ astrologize
 astrologous
 astromancer
 astromancy
+afterchurch
 astromantic
 astromeda
 algogenic
