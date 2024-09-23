@@ -6502,7 +6502,6 @@ benzothiazine
 bannerette
 benzothiazoline
 benzothiodiazole
-benzothiofuran
 benzothiophene
 benzothiopyran
 benzotoluide
@@ -18176,6 +18175,7 @@ butylene
 butylenes
 butylic
 benching
+benzothiofuran
 butin
 butyn
 butyraldehyde
