@@ -561,7 +561,6 @@ echinococcosis
 echinococcus
 echinoderidae
 echinoderm
-echinoderma
 echinodermal
 erythroderma
 extrapituitary
@@ -5876,6 +5875,7 @@ enheaven
 enhedge
 enhelm
 elysia
+echinoderma
 enhemospore
 enherit
 enheritance
