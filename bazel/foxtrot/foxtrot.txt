@@ -8082,7 +8082,6 @@ fluorescent
 firebrats
 flayflint
 foalhood
-flecnode
 forests
 forestside
 forestudy
@@ -11259,6 +11258,7 @@ fireball
 funguslike
 funic
 fistulae
+flecnode
 funicle
 foreday
 funicles
