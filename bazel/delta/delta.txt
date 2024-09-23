@@ -1985,7 +1985,6 @@ decagrams
 decahedra
 decahedral
 decahedron
-damageableness
 decahedrons
 decahydrate
 decahydronaphthalene
@@ -3866,6 +3865,7 @@ demagnetizable
 deinsularize
 deynt
 deintellectualization
+damageableness
 deintellectualize
 deciduous
 dicellate
