@@ -5673,6 +5673,7 @@ flyover
 flyovers
 fustanella
 flypapers
+forerank
 flypast
 flypasts
 flipe
@@ -7909,7 +7910,6 @@ figural
 fideles
 frankalmoin
 frenchify
-forerank
 forereach
 forereading
 forerecited
