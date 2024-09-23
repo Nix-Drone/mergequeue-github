@@ -5993,7 +5993,6 @@ agglomerant
 agglomerate
 agglomerated
 agglomerates
-agglomeratic
 agglomerating
 agglomeration
 agglomerative
@@ -22168,6 +22167,7 @@ astragalocalcaneal
 astragalocentral
 astragalomancy
 astragalonavicular
+agglomeratic
 astragaloscaphoid
 astragalotibial
 astragals
