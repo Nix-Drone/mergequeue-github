@@ -1445,6 +1445,7 @@ dcb
 dclass
 dcollet
 dcor
+dezinc
 ddname
 disillusionise
 damnatory
@@ -7938,7 +7939,6 @@ driftier
 dextroversion
 dezaley
 dezymotize
-dezinc
 dezincify
 dezincification
 dezincified
