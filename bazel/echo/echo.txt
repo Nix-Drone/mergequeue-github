@@ -199,7 +199,6 @@ erythritic
 earthslide
 earthsmoke
 earthtongue
-earthwall
 earthwork
 earthworks
 ecdysones
@@ -4925,6 +4924,7 @@ endamagement
 endamages
 endamaging
 endameba
+earthwall
 endamebae
 excipule
 endamebiasis
