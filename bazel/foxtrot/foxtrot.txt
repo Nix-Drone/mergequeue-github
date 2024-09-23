@@ -1485,7 +1485,6 @@ fattier
 featherweight
 fatties
 forceable
-fattiness
 funis
 fattishness
 fattrels
@@ -8804,6 +8803,7 @@ forwarding
 forwardly
 forwards
 forwardsearch
+fattiness
 forwarn
 forwean
 forwear
