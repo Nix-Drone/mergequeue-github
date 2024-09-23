@@ -6585,7 +6585,6 @@ forblack
 formativeness
 fluxes
 fire
-fluxgraph
 fob
 frack
 furile
@@ -10074,6 +10073,7 @@ frigorifico
 frigostable
 frigotherapy
 frigs
+fluxgraph
 frying
 frija
 frijole
