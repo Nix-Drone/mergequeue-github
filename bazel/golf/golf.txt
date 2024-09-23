@@ -871,6 +871,7 @@ gamasoidea
 gamba
 gildhalls
 graf
+guildsmen
 gambade
 gambades
 gambado
@@ -10192,7 +10193,6 @@ ghoul
 guildhall
 guilds
 guildship
-guildsmen
 guessworker
 guile
 guileful
