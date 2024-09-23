@@ -11107,6 +11107,7 @@ bloodshotten
 bloodspiller
 bloodstained
 bloodstainedness
+bootable
 bloodstains
 bloodstanch
 bloodstreams
@@ -12815,7 +12816,6 @@ burgensic
 brachigerous
 barleysick
 boot
-bootable
 beachdrops
 bootblack
 bootblacks
