@@ -2211,7 +2211,6 @@ gazella
 gazellelike
 gazelline
 gazement
-gazer
 gazers
 gazettal
 gazette
@@ -6836,6 +6835,7 @@ goniatitid
 gonyaulax
 gonycampsis
 gonid
+gazer
 gallberry
 gonydeal
 gonidial
