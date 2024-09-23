@@ -2029,7 +2029,6 @@ cordelier
 campfight
 campfires
 campground
-canful
 campgrounds
 consarcinate
 camphane
@@ -9616,6 +9615,7 @@ cheekless
 cheeks
 cheeney
 cheep
+canful
 cheeped
 cheeper
 cheepers
