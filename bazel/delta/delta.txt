@@ -4480,7 +4480,6 @@ drawk
 dactylograph
 demeanored
 demeanors
-demeanour
 demegoric
 demele
 demembration
@@ -11388,6 +11387,7 @@ disclike
 disclimax
 discloak
 discloister
+demeanour
 dissuader
 debug
 disclosed
