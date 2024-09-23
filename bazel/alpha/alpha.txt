@@ -7625,7 +7625,6 @@ actual
 alclad
 alcmene
 alco
-alcoate
 alcogel
 alchemical
 andiroba
@@ -8603,6 +8602,7 @@ alley
 alleyite
 alleys
 alleyway
+alcoate
 anarchs
 allele
 alleles
