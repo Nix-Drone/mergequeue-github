@@ -11572,7 +11572,6 @@ cholecystogram
 cholecystography
 cholecystojejunostomy
 cholecystokinin
-cholecystolithiasis
 cholecystolithotripsy
 cholecystopexy
 cholecystorrhaphy
@@ -31918,6 +31917,7 @@ cwo
 cwrite
 cwt
 czar
+cholecystolithiasis
 czardas
 czardom
 czardoms
