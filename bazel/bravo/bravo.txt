@@ -12332,7 +12332,6 @@ bombproof
 bombycilla
 bombs
 bombsights
-belgard
 bombus
 bomi
 bomos
@@ -15101,6 +15100,7 @@ bretwalda
 brew
 brewage
 brewages
+belgard
 bogier
 butchering
 brewery
