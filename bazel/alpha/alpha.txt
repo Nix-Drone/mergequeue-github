@@ -1791,7 +1791,6 @@ accumulable
 accumulate
 accumulated
 accumulating
-accumulation
 accumulativ
 aquatones
 ambisporangiate
@@ -20098,6 +20097,7 @@ aromatitae
 agamogenesis
 aromatite
 aromatites
+accumulation
 aromatize
 aromatized
 aromatizer
