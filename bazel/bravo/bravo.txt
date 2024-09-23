@@ -327,6 +327,7 @@ backcross
 backdated
 backdates
 backdating
+billholder
 backstair
 backdoor
 boogie
@@ -8669,7 +8670,6 @@ billfish
 billfolds
 burel
 billheads
-billholder
 billhook
 baptisteries
 boopic
