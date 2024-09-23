@@ -2966,7 +2966,6 @@ barreling
 broad
 barrelled
 brattle
-barrelmaker
 barrelmaking
 birdwomen
 barrelwise
@@ -13047,6 +13046,7 @@ basnet
 borofluohydric
 borofluorin
 boroglycerate
+barrelmaker
 boroglycerine
 borohydride
 boronatrocalcite
