@@ -7220,6 +7220,7 @@ centroid
 centroidal
 centroids
 centrolecithal
+corylus
 centrolepidaceae
 centrolepidaceous
 centrolinead
@@ -25146,7 +25147,6 @@ corylaceae
 corylaceous
 corylin
 corylopsis
-corylus
 corymb
 corymbed
 corymbiate
