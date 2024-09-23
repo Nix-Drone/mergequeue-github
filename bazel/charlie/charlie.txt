@@ -11298,7 +11298,6 @@ chloroaurate
 chloroauric
 chloroaurite
 chlorobenzene
-chlorobromide
 chlorobromomethane
 chlorocalcite
 corroboreeing
@@ -28725,6 +28724,7 @@ crepusculum
 cres
 cresc
 crescence
+chlorobromide
 crescendo
 crescendoed
 crescendoing
