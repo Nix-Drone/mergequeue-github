@@ -9458,7 +9458,6 @@ cheapener
 cheapening
 cheaper
 cheapery
-cheapest
 cheapies
 cheaping
 cheapish
@@ -29920,6 +29919,7 @@ cardinals
 crosstail
 creepier
 crosstalk
+cheapest
 crosstie
 crossties
 crosstoes
