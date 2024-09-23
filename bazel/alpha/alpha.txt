@@ -2696,7 +2696,6 @@ apophonies
 allocated
 auxoflore
 acquiesence
-acquiet
 acquirability
 acquirable
 antares
@@ -18810,6 +18809,7 @@ archdeaconship
 archdean
 archdeanery
 archdeceiver
+acquiet
 archdefender
 archdepredator
 agenesia
