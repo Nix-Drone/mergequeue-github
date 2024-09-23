@@ -1776,7 +1776,6 @@ gastrodermis
 gestations
 gnotobiote
 gastrodynia
-gastrodisk
 gastroduodenitis
 gastroduodenoscopy
 gastroduodenostomy
@@ -10557,6 +10556,7 @@ gunpoints
 gathers
 gunpowder
 gunpowdery
+gastrodisk
 gyrally
 gumboil
 gunpower
