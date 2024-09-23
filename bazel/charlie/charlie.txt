@@ -1205,7 +1205,6 @@ calesin
 calf
 calfbound
 calfdozer
-calfish
 calfkill
 calfless
 calflike
@@ -31122,6 +31121,7 @@ cupmaker
 cupman
 cupola
 cupolaed
+calfish
 cupolaing
 cupolaman
 cupolar
