@@ -7510,7 +7510,6 @@ deval
 devall
 devaloka
 devalorize
-devaluate
 devaluated
 devaluates
 devaluation
@@ -18040,6 +18039,7 @@ duller
 dullest
 diwans
 dullhearted
+devaluate
 dully
 dullify
 dullification
