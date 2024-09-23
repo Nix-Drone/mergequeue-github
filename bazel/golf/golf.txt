@@ -1642,7 +1642,6 @@ gasoliers
 gasoline
 gasoliner
 germiparity
-gasolines
 gasometry
 gastrodisc
 glutaminic
@@ -4444,6 +4443,7 @@ gingerbready
 gingered
 gingery
 gingerin
+gasolines
 glowers
 gingering
 gingerleaf
