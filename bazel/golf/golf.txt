@@ -3100,7 +3100,6 @@ grocerdom
 geoids
 gladioluses
 geoisotherm
-geol
 geolatry
 gusseting
 geologer
@@ -7438,6 +7437,7 @@ granuliferous
 grabbier
 geminal
 gulper
+geol
 gourmanderie
 gourmandism
 gourmandize
