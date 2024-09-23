@@ -24151,7 +24151,6 @@ conviciate
 convicinity
 convict
 congelifract
-convictable
 convictfish
 convictible
 conviction
@@ -28489,6 +28488,7 @@ credible
 credibleness
 credibly
 credit
+convictable
 cady
 creditability
 creditabilities
