@@ -504,7 +504,6 @@ falbelo
 fumados
 falcata
 falcate
-falces
 falchion
 forgeman
 falcial
@@ -1809,6 +1808,7 @@ featherpate
 feathers
 featherstitch
 folktale
+falces
 feathertop
 flagellation
 featherweed
