@@ -6092,6 +6092,7 @@ boathead
 bemartyr
 bemouth
 bemuck
+booly
 bemuddy
 bemuddle
 bemuddled
@@ -12735,7 +12736,6 @@ boolean
 booleans
 booley
 booleys
-booly
 boolya
 blebs
 boom
