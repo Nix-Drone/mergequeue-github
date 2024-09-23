@@ -9563,6 +9563,7 @@ checkrein
 checkroll
 checkroom
 compathy
+coalless
 checkrooms
 checkrope
 checkrow
@@ -17188,7 +17189,6 @@ coalize
 coalized
 coinclude
 coalizer
-coalless
 coalmonger
 coalmouse
 cogitos
