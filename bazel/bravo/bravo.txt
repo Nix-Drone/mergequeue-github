@@ -2648,7 +2648,6 @@ baris
 barish
 barysilite
 barit
-baryta
 barebacked
 bloodlike
 barytas
@@ -4642,6 +4641,7 @@ bedlike
 bedawee
 bedaze
 bedazed
+baryta
 bedazement
 bedazzled
 bedazzles
