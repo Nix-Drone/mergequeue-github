@@ -9365,7 +9365,6 @@ error
 errordump
 errorist
 extratheistic
-errorless
 errors
 errs
 errsyn
@@ -9566,6 +9565,7 @@ eschewal
 eschewals
 eschewance
 explorate
+errorless
 eschewed
 expand
 eschewer
