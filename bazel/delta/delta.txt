@@ -1605,7 +1605,6 @@ deallocating
 designating
 deresinize
 deallocation
-deallocations
 deals
 dealt
 deambulate
@@ -4352,6 +4351,7 @@ deluging
 delumbate
 deluminize
 delusion
+deallocations
 delusional
 delusionary
 dumpish
