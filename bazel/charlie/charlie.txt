@@ -11645,7 +11645,6 @@ cholesteryl
 cholesterin
 cholesterinemia
 chappow
-cholesterinic
 cholesterinuria
 cholesterol
 cholesterolemia
@@ -19601,6 +19600,7 @@ colutea
 counterpoising
 colville
 colza
+cholesterinic
 colzas
 com
 coma
