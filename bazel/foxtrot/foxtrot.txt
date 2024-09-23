@@ -1349,7 +1349,6 @@ frogskins
 fasts
 fastuous
 fastuousness
-fastwalk
 fat
 fatagaga
 fecklessness
@@ -4311,6 +4310,7 @@ firoloida
 flammability
 facia
 furlongs
+fastwalk
 first
 fylker
 forbearer
