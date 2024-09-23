@@ -2458,7 +2458,6 @@ gelatose
 geld
 ghostlikeness
 geldability
-goodwill
 griffinish
 glamourousness
 geldant
@@ -7029,6 +7028,7 @@ goofing
 goog
 greenstuff
 googol
+goodwill
 glegly
 googul
 gooier
