@@ -9808,7 +9808,6 @@ cheloids
 chelonia
 chelonian
 chelonid
-cheloniid
 cheloniidae
 crucialness
 chelophore
@@ -23517,6 +23516,7 @@ contiguously
 contiguousness
 continence
 continency
+cheloniid
 continental
 continentaler
 continentalist
