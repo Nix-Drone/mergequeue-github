@@ -7472,7 +7472,6 @@ ceratoglossal
 ceratoglossus
 ceratohyal
 ceratohyoid
-ceratoid
 ceratomandibular
 ceratomania
 ceratonia
@@ -21360,6 +21359,7 @@ concinnities
 cystoenterocele
 concinnously
 comparts
+ceratoid
 concio
 concion
 concional
