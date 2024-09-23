@@ -4852,7 +4852,6 @@ bedspreads
 bedspring
 bedsprings
 bolivars
-bedstand
 bedstead
 brazenface
 baikerinite
@@ -10924,6 +10923,7 @@ blithers
 blithesome
 blithesomely
 bkgd
+bedstand
 beldam
 blithest
 blitter
