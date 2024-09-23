@@ -4674,7 +4674,6 @@ bedeafening
 botanised
 bedebt
 bedeck
-bedecked
 bedecking
 bedecks
 bedecorate
@@ -11397,6 +11396,7 @@ bulbul
 bluetongue
 bedmates
 bluetop
+bedecked
 bluetops
 bluets
 blueweed
