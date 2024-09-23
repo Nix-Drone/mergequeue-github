@@ -5733,7 +5733,6 @@ categoric
 chondrified
 categorical
 categorically
-categoricalness
 categories
 categorisation
 categorise
@@ -7812,6 +7811,7 @@ cerumens
 ceruminal
 casa
 ceruminiferous
+categoricalness
 ceruminous
 cerumniparous
 ceruse
