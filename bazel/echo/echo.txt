@@ -1182,7 +1182,6 @@ editorializers
 enation
 editorializes
 editors
-editorship
 editorships
 epistemic
 editress
@@ -8631,6 +8630,7 @@ equicurve
 equid
 equidiagonal
 equidifferent
+editorship
 equidimensional
 equidist
 equidistance

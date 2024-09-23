@@ -6135,7 +6135,6 @@ benchers
 benchership
 benches
 benchfellow
-burglary
 benchful
 benchy
 benchland
@@ -12257,6 +12256,7 @@ bombarder
 bombardier
 bombardiers
 bombarding
+burglary
 bombardman
 boughless
 biopsies
