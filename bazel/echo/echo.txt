@@ -1,5 +1,4 @@
 emotes
-e
 epigramme
 eschoppe
 ea
@@ -13152,6 +13151,7 @@ explanator
 expurgator
 explanatory
 explanatorily
+e
 explanatoriness
 explanitory
 explant
