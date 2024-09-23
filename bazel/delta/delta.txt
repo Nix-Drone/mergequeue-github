@@ -2478,7 +2478,6 @@ decks
 dulls
 deckswabber
 decl
-declaim
 dichorisandra
 declaimant
 declaimer
@@ -8046,6 +8045,7 @@ demineralize
 diverticulum
 deathwatch
 diablery
+declaim
 diablerie
 diableries
 diabolarch
