@@ -21603,7 +21603,6 @@ azans
 assassinist
 assate
 assault
-assaultable
 antiquer
 assaulted
 assaulter
@@ -22744,6 +22743,7 @@ anyhow
 assonate
 allege
 atolls
+assaultable
 atom
 atomatic
 atomechanics
