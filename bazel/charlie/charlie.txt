@@ -22074,6 +22074,7 @@ crwths
 couvert
 conformations
 conformator
+curbside
 conformed
 conformer
 conformers
@@ -31262,7 +31263,6 @@ cotonam
 curblike
 curbline
 curbs
-curbside
 curbstone
 curbstoner
 curbstones
