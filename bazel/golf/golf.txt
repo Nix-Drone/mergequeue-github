@@ -1279,7 +1279,6 @@ gruis
 gothic
 gapeseed
 gapeworm
-gapeworms
 gorgonized
 gapingly
 gapingstock
@@ -2888,6 +2887,7 @@ gunfire
 genotypically
 genotypicity
 glop
+gapeworms
 grocerwise
 growingly
 genre
