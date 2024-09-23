@@ -8939,7 +8939,6 @@ allothigenous
 allothimorph
 allothimorphic
 allothogenic
-allotypes
 allotypy
 allotypical
 allotypies
@@ -14157,6 +14156,7 @@ arryish
 antelation
 antelegal
 antelocation
+allotypes
 accord
 antelope
 antelopes
