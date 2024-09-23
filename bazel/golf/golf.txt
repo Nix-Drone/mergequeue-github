@@ -4808,7 +4808,6 @@ gyroscopes
 gyroscopics
 gyrose
 gyrostabilized
-gyrostat
 gyrostats
 gyrotheca
 girouette
@@ -7606,6 +7605,7 @@ gracility
 gracing
 greyly
 gracioso
+gyrostat
 graciosos
 gracious
 gargles
