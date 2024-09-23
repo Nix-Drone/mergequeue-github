@@ -2583,6 +2583,7 @@ bargeload
 bargeman
 bromcamphor
 bookmaking
+biomes
 bargemaster
 balanophore
 booklice
@@ -9071,7 +9072,6 @@ biomechanical
 brangler
 begrims
 biomedicine
-biomes
 biometeorology
 biometric
 biometrical
