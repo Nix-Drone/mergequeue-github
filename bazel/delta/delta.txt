@@ -1598,7 +1598,6 @@ dealkalize
 dealkylate
 dealkylation
 deallocate
-deallocated
 daunter
 deallocates
 deallocating
@@ -18555,6 +18554,7 @@ dust
 danseurs
 dustband
 dustbin
+deallocated
 dustbins
 dustblu
 discombobulates
