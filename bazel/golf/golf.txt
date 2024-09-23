@@ -513,7 +513,6 @@ garcons
 galera
 galere
 galericulate
-galerie
 galerum
 galerus
 gales
@@ -9913,6 +9912,7 @@ guardable
 guardant
 guardedness
 guardeen
+galerie
 guarder
 guardful
 guardfully
