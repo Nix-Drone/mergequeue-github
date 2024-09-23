@@ -10029,7 +10029,6 @@ bkbndr
 bkg
 bklr
 backsey
-bkpt
 bocasine
 bks
 bkt
@@ -14799,6 +14798,7 @@ breadths
 breadthways
 breadwinner
 brighella
+bkpt
 bedded
 breadwinning
 break
