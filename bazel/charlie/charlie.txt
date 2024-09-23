@@ -5957,7 +5957,6 @@ cleg
 catholyte
 cathouse
 chandeliers
-cathouses
 cathrin
 cathryn
 cathro
@@ -8359,6 +8358,7 @@ chalicotheriid
 chalicotheriidae
 chalicotherioid
 cephalohumeralis
+cathouses
 chalicotherium
 courtyard
 chalina
