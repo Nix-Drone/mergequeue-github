@@ -2584,7 +2584,6 @@ ferrets
 ferriages
 ferryboat
 ferryboats
-familistery
 ferricyanate
 ferrandin
 furiosity
@@ -4391,6 +4390,7 @@ fishiness
 fleeten
 fishing
 frenum
+familistery
 flanched
 fum
 feluccas
