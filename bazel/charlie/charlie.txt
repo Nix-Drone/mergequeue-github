@@ -2309,7 +2309,6 @@ cancerogenic
 cancerophobe
 cancerophobia
 cancerous
-cancerously
 cancerousness
 curare
 cancerroot
@@ -11734,6 +11733,7 @@ chondrites
 chondritic
 chondritis
 chondroadenoma
+cancerously
 chondroalbuminoid
 chondroangioma
 credential
