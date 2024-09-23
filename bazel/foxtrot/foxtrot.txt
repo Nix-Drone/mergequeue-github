@@ -7993,7 +7993,6 @@ foreshow
 foreshower
 foreshown
 foreshroud
-femic
 foreside
 funnelwise
 foresight
@@ -9533,6 +9532,7 @@ fraternality
 faultlessness
 floccilation
 fraternally
+femic
 fraternation
 fraternisation
 fraternise
