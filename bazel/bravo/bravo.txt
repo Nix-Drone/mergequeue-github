@@ -6147,7 +6147,6 @@ benchmark
 benchmarked
 benchmarks
 benchmen
-bend
 bendable
 benday
 bendayed
@@ -10820,6 +10819,7 @@ blighting
 blightingly
 blijver
 blimbing
+bend
 beautied
 blimey
 blimpishly
