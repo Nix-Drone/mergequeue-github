@@ -682,6 +682,7 @@ gadaea
 geodesy
 galliot
 galliots
+guttler
 gurnets
 gallipot
 gallipots
@@ -10789,7 +10790,6 @@ guttiform
 guttiness
 gauging
 gutting
-guttler
 guttlers
 guttula
 guttulae
