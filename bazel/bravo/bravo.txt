@@ -3439,6 +3439,7 @@ bassness
 basson
 bassoon
 bedash
+brassiere
 bassoonist
 bassoonists
 bedravel
@@ -5970,7 +5971,6 @@ bimetalic
 beltcourse
 beltene
 begrutch
-brassiere
 belter
 beltian
 ballistic
