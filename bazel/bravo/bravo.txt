@@ -8495,7 +8495,6 @@ bikukulla
 bilaan
 biogenous
 ballottable
-bilabial
 bilabials
 bilabiate
 bilaciniate
@@ -15174,6 +15173,7 @@ brick
 brickbat
 brickbats
 borish
+bilabial
 brickbatted
 brickbatting
 brickcroft
