@@ -9661,7 +9661,6 @@ cheers
 cheeseboard
 cheesebox
 cheeseburger
-cheeseburgers
 cheesecake
 cheesecakes
 cheesecloth
@@ -16703,6 +16702,7 @@ clothesyard
 clothesless
 clothesline
 clotheslines
+cheeseburgers
 clothesman
 cosuitor
 clothesmen
