@@ -4219,7 +4219,6 @@ delist
 delisted
 delisting
 delists
-delit
 delitescence
 delitescency
 delitescent
@@ -11835,6 +11834,7 @@ discussionis
 discussions
 discussment
 discustom
+delit
 discutable
 drunks
 discutient
