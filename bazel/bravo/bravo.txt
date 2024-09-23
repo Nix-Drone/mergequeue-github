@@ -1679,7 +1679,6 @@ blear
 ballplayer
 ballplayers
 ballplatz
-bedrabbled
 ballpoint
 ballproof
 ballrooms
@@ -3647,6 +3646,7 @@ bathmotropism
 bathochromatism
 barks
 bathochrome
+bedrabbled
 bathochromy
 balourdise
 bathochromic
