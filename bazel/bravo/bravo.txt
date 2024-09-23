@@ -15109,7 +15109,6 @@ brewers
 brewership
 brewhouse
 beguilingness
-brewhouses
 brewing
 brewings
 brewis
@@ -18361,6 +18360,7 @@ buxerries
 brushbush
 beery
 buxine
+brewhouses
 buxom
 buxomer
 buxomest
