@@ -9576,6 +9576,7 @@ checkstring
 checksum
 construct
 checksummed
+crambe
 checksumming
 checkup
 checkups
@@ -27976,7 +27977,6 @@ cramasie
 crambambulee
 crosswind
 crambambuli
-crambe
 cystidicolous
 crambes
 crambid
