@@ -5844,7 +5844,6 @@ agapeti
 agapetid
 agapetidae
 agaphite
-agennetic
 agar
 agaricaceae
 agaricaceous
@@ -13189,6 +13188,7 @@ animative
 animato
 androseme
 animator
+agennetic
 animators
 anime
 anteva
