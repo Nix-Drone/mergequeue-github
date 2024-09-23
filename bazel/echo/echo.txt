@@ -5606,7 +5606,6 @@ enfollow
 enfoncee
 ephemerae
 enforceability
-enforced
 enforcement
 extranatural
 enlisters
@@ -13402,6 +13401,7 @@ expulses
 expulsing
 expulsion
 expulsionist
+enforced
 expunction
 eatanswill
 expunge
