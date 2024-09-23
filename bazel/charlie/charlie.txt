@@ -5153,7 +5153,6 @@ caskanet
 casket
 casketed
 casketlike
-caskets
 casky
 casking
 casklike
@@ -16484,6 +16483,7 @@ clockmaking
 crewer
 clockroom
 clocksmith
+caskets
 clockwatcher
 clockworked
 clockworks
