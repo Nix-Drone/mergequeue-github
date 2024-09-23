@@ -6086,7 +6086,6 @@ glueyness
 gluelikeness
 glueman
 gluepot
-gluer
 greetingly
 gluers
 granulize
@@ -10556,6 +10555,7 @@ gunpoint
 gunpoints
 gathers
 gunpowder
+gluer
 gunpowdery
 gyrally
 gumboil
