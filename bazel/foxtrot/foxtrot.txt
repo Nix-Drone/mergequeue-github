@@ -5604,7 +5604,6 @@ flightless
 forepassed
 frailest
 flights
-flightworthy
 flying
 flyings
 flyleaves
@@ -8764,6 +8763,7 @@ furors
 fortuity
 fortuitism
 forgiver
+flightworthy
 fortuitous
 feiseanna
 faying
