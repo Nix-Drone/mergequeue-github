@@ -5302,7 +5302,6 @@ begladding
 beglare
 beglerbeg
 beglerbeglic
-beglerbeglik
 bags
 bakalai
 bogwood
@@ -8083,6 +8082,7 @@ bicipital
 boh
 bespatterer
 banged
+beglerbeglik
 bicircular
 bicirrose
 bipartisanism
