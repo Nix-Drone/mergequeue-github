@@ -3873,7 +3873,6 @@ discant
 deionization
 deionizations
 deionize
-deionized
 denegate
 deionizer
 deionizes
@@ -12525,6 +12524,7 @@ dispiteously
 disintertwine
 disyntheme
 disintoxicate
+deionized
 disintoxication
 deliberator
 dosimeters
