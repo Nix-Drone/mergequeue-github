@@ -11381,7 +11381,6 @@ chloropicrin
 chloroplast
 chloroplastic
 chloroplastid
-complanate
 chloroplasts
 chloroplatinate
 chloroplatinite
@@ -28297,6 +28296,7 @@ crawful
 crawl
 cotenants
 crawled
+complanate
 crawley
 crawleyroot
 crawler
