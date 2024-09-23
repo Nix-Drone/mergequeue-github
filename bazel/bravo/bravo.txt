@@ -2489,7 +2489,6 @@ bardily
 brickiest
 brobdingnagian
 barding
-bardings
 blindages
 bardism
 bardlet
@@ -6471,6 +6470,7 @@ bilge
 benzoin
 benzoinated
 benzoiodohydrin
+bardings
 benzol
 benzole
 benzoline
