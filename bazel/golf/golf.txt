@@ -2841,7 +2841,6 @@ geniting
 ghostlier
 gryllidae
 genitivally
-genitive
 genitocrural
 geniculum
 glug
@@ -10207,6 +10206,7 @@ guilfat
 guyline
 gooney
 guiling
+genitive
 guillem
 guillemet
 gynecophore
