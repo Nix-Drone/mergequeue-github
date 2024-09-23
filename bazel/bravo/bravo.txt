@@ -926,7 +926,6 @@ beadlery
 baglike
 bagmaker
 bagmaking
-bagmen
 bagne
 bagnes
 bagnet
@@ -2666,6 +2665,7 @@ barytocelestite
 baritone
 barytone
 baritones
+bagmen
 barytones
 byres
 bedaff
