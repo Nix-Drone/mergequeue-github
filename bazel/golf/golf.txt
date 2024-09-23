@@ -5552,7 +5552,6 @@ glioma
 greatest
 gliosa
 glyoxal
-glyoxalic
 glyoxaline
 galliwasp
 gastrelcosis
@@ -6779,6 +6778,7 @@ gonangial
 gola
 gonangium
 grub
+glyoxalic
 gastriloquy
 gonapod
 gonarthritis
