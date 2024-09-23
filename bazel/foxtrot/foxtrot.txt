@@ -4408,7 +4408,6 @@ fishman
 fishmeals
 fishmonger
 ferociousness
-fishmouth
 fishnet
 frank
 fishnets
@@ -6973,6 +6972,7 @@ follow
 followable
 followed
 follower
+fishmouth
 foisting
 followers
 followingly
