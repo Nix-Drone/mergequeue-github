@@ -1395,7 +1395,6 @@ fatherlike
 fathers
 fathership
 forswore
-fathomableness
 fathomage
 faunal
 fathomed
@@ -4316,6 +4315,7 @@ fylker
 forbearer
 freestone
 firster
+fathomableness
 feerie
 forrel
 firsthand
