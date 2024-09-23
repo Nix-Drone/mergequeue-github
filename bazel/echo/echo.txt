@@ -7517,7 +7517,6 @@ ephemerides
 ephemeris
 ephemeromorph
 ephemeromorphic
-ephemeron
 ephemeroptera
 eigne
 ephemerous
@@ -11876,6 +11875,7 @@ estuous
 excamb
 extrajudicial
 excamber
+ephemeron
 emigrational
 excambion
 excandescence
