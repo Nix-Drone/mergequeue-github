@@ -2704,6 +2704,7 @@ ferula
 foghorns
 ferulaceous
 ferular
+flectionless
 ferulas
 ferule
 feruled
@@ -5343,7 +5344,6 @@ flecnodal
 flect
 frigefact
 flection
-flectionless
 flector
 flinter
 fido
