@@ -643,7 +643,6 @@ bacteriofluorescin
 bromates
 bacteriogenic
 bacteriogenous
-bacteriohemolysin
 bacterioidal
 benzin
 bacteriolysin
@@ -12101,6 +12100,7 @@ boldu
 bole
 bolectioned
 boled
+bacteriohemolysin
 boleite
 bolelia
 bolelike
