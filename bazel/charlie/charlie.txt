@@ -25338,7 +25338,6 @@ corneule
 corneum
 cornfactor
 cornfed
-cornfields
 cornflag
 cornflakes
 cornfloor
@@ -26943,6 +26942,7 @@ counterpassant
 counterpassion
 counterpenalty
 counterpendent
+cornfields
 circumventer
 counterpetition
 counterpicture
