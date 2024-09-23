@@ -6156,6 +6156,7 @@ enode
 enoil
 enoint
 enol
+exocyclic
 enolase
 enolases
 enolic
@@ -12619,7 +12620,6 @@ emendicate
 exocentric
 exochorion
 engaged
-exocyclic
 exocyclica
 epistylar
 explosible
