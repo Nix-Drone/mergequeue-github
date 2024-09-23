@@ -343,7 +343,6 @@ dollfaced
 daybill
 dayblush
 dayboy
-daybooks
 discerptibility
 daybreak
 daybreaks
@@ -17559,6 +17558,7 @@ drugmaker
 drugman
 drugs
 demoniacal
+daybooks
 drugstores
 dextrane
 druid
