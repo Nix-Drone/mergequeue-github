@@ -2994,7 +2994,6 @@ capacity
 capacities
 capacitive
 capacitively
-capacitor
 capanna
 capanne
 cystolithectomy
@@ -7498,6 +7497,7 @@ ceratospongian
 ceratostomataceae
 cowbell
 ceratostomella
+capacitor
 ceratotheca
 cleaning
 ceratothecae
