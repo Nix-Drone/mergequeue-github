@@ -5003,6 +5003,7 @@ demotions
 demotist
 demotists
 demount
+describes
 demountability
 demounted
 demounting
@@ -6511,7 +6512,6 @@ dissatisfy
 described
 describent
 describers
-describes
 descried
 descrier
 descriers
