@@ -2676,6 +2676,7 @@ dogwatches
 decompoundable
 decompoundly
 decompress
+despeed
 decompresses
 decompressing
 decompression
@@ -6874,7 +6875,6 @@ dispute
 despecialize
 despecificate
 despecification
-despeed
 despend
 desperado
 ddt
