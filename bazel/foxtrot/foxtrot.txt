@@ -963,7 +963,6 @@ flattener
 fabric
 faradmeter
 ferny
-faradocontractility
 faradomuscular
 farandman
 farandmen
@@ -5118,6 +5117,7 @@ flatling
 flatlings
 flatlong
 flatman
+faradocontractility
 flatness
 favi
 flats
