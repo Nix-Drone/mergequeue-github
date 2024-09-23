@@ -2474,7 +2474,6 @@ deckhouse
 deckle
 deckman
 deckpipe
-decks
 dulls
 deckswabber
 decl
@@ -16690,6 +16689,7 @@ debouchure
 drays
 draisene
 drapetomania
+decks
 draisine
 darnel
 drake
