@@ -8823,6 +8823,7 @@ colorate
 chapelries
 chapels
 cardiologies
+compatibly
 chapelward
 chaperno
 chaperon
@@ -20089,7 +20090,6 @@ comminative
 coannex
 comminator
 comminatory
-compatibly
 commingle
 commingled
 comminglement
