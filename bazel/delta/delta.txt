@@ -1598,7 +1598,6 @@ dealkalize
 dealkylate
 dealkylation
 deallocate
-deallocated
 daunter
 deallocates
 deallocating
@@ -17776,6 +17775,7 @@ disaproned
 dicarbonic
 dasypaedes
 depeche
+deallocated
 duchy
 duchies
 duci
