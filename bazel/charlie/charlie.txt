@@ -8251,7 +8251,6 @@ chakra
 chakram
 chakras
 chakravartin
-chaksi
 chal
 cronk
 chalaco
@@ -23345,6 +23344,7 @@ containerize
 containerizes
 containerizing
 chemasthenia
+chaksi
 containerport
 cyrtostyle
 containership
