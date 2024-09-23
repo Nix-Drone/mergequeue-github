@@ -3861,6 +3861,7 @@ batzen
 barreler
 baubee
 baubees
+bleachery
 bethunder
 bauble
 baublery
@@ -10566,7 +10567,6 @@ bleachability
 bleachable
 bleached
 bleacher
-bleachery
 bleacheries
 bleacherite
 bleacherman
