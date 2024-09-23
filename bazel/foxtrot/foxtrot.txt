@@ -3624,7 +3624,6 @@ filesniff
 flagships
 filespec
 forficula
-fossores
 fileting
 floatboard
 fylfot
@@ -4517,6 +4516,7 @@ foxchop
 frayed
 filmist
 fistula
+fossores
 fourche
 fistular
 fistularia
