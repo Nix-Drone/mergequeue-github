@@ -5632,7 +5632,6 @@ freighters
 forgone
 flinched
 flincher
-flinching
 founce
 flagged
 flinders
@@ -8783,6 +8782,7 @@ frenchism
 frankfort
 fortunetell
 forchase
+flinching
 forbiddable
 fortunetelling
 fortuning
