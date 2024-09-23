@@ -2519,7 +2519,6 @@ argentojarosite
 acknew
 astomatal
 acknowing
-acknowledge
 acknowledgeable
 acknowledged
 afoam
@@ -23795,6 +23794,7 @@ authenticated
 authenticates
 authentication
 authentications
+acknowledge
 athetosic
 authenticators
 authenticities
