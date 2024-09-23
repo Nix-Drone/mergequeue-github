@@ -7868,7 +7868,6 @@ cervulus
 cervus
 cesare
 cesarean
-cesareans
 cesarevitch
 cesarian
 cesarians
@@ -19209,6 +19208,7 @@ colocate
 colocated
 colocating
 colocephali
+cesareans
 colocynth
 colocynthin
 contemperature
