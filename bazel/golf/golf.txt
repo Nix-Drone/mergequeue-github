@@ -2261,7 +2261,6 @@ gearman
 gears
 guernseys
 gearset
-gearshift
 gearshifts
 gearwheels
 glistening
@@ -9214,6 +9213,7 @@ gawain
 gripmen
 grittiest
 grooveless
+gearshift
 gritting
 gazolyte
 grivation
