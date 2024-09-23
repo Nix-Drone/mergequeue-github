@@ -2312,7 +2312,6 @@ fence
 fenced
 fenceless
 fencelessness
-fayalite
 fencelet
 fenceplay
 fencepost
@@ -10404,6 +10403,7 @@ frons
 factful
 frontage
 feldspars
+fayalite
 frontager
 fertilised
 frontages
