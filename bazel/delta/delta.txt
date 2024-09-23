@@ -825,6 +825,7 @@ dangerless
 dangerous
 dangerously
 deduced
+decode
 dangerousness
 dangers
 dangersome
@@ -2576,7 +2577,6 @@ decoctive
 decocts
 decoctum
 decodable
-decode
 decoded
 decoders
 decodes
