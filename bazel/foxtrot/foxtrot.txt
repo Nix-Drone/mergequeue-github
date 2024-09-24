@@ -5776,6 +5776,7 @@ flittermouse
 farmlands
 flitters
 flitty
+ferriage
 flitting
 flivver
 fumariaceous
@@ -8292,7 +8293,6 @@ fade
 foryield
 furnished
 furnaceman
-ferriage
 felonous
 fitly
 farcical
