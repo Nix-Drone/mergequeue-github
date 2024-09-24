@@ -6871,7 +6871,6 @@ airfare
 amyctic
 airfares
 airfield
-airflow
 airflows
 airfoil
 airfoils
@@ -15177,6 +15176,7 @@ antieducationalist
 antieducationally
 antiegoism
 antiegoist
+airflow
 antiegotist
 antiegotistic
 antieyestrain
