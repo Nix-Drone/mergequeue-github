@@ -3509,7 +3509,6 @@ caracara
 carack
 caracks
 caracoa
-caracol
 caracoled
 caracoler
 caracoles
@@ -6488,6 +6487,7 @@ cazibi
 cazimi
 cazique
 caziques
+caracol
 cb
 cc
 ccesser
