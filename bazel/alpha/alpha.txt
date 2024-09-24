@@ -12756,7 +12756,6 @@ angiogenic
 angioglioma
 angiography
 angiographic
-angiohemophilia
 angiohyalinosis
 angiohypertonia
 angiohypotonia
@@ -25126,6 +25125,7 @@ axiolite
 axiolitic
 axiology
 axiological
+angiohemophilia
 axiologically
 axiologist
 axiom
