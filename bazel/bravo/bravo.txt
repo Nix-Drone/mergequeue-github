@@ -4251,7 +4251,6 @@ beastlings
 beastship
 beat
 beata
-beatable
 beatably
 beatae
 beatas
@@ -15693,6 +15692,7 @@ broadways
 bamangwato
 broadwise
 broadwives
+beatable
 boutel
 brob
 brobdingnag
