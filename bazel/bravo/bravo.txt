@@ -9606,6 +9606,7 @@ bisectors
 bisectrices
 busybodyness
 bisects
+bladelet
 bisegment
 bisellium
 banalize
@@ -10232,7 +10233,6 @@ bladderwrack
 brabbler
 blade
 bladebone
-bladelet
 bladelike
 beleaguerer
 blades
