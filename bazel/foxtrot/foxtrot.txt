@@ -7001,6 +7001,7 @@ forbearance
 forgrown
 fon
 fonctionnaire
+foreprovided
 fond
 fondaco
 foredo
@@ -7895,7 +7896,6 @@ foreproduct
 foreproffer
 forepromise
 forepromised
-foreprovided
 foreprovision
 forepurpose
 frontways
