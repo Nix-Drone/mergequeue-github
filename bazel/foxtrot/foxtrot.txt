@@ -8395,7 +8395,6 @@ formalness
 fetid
 fireblende
 fricatives
-formamide
 formamidine
 formamidoxime
 formanilide
@@ -9838,6 +9837,7 @@ floatable
 frenchmen
 flycaster
 fevery
+formamide
 frenchness
 finders
 frenchwomen
