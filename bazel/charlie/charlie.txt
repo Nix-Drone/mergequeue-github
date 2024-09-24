@@ -1616,7 +1616,6 @@ calosoma
 calotermes
 calotermitid
 calotermitidae
-calothrix
 calotin
 calotype
 calotypic
@@ -13662,6 +13661,7 @@ cimbaloms
 cymbalon
 cymbel
 cymbella
+calothrix
 cymbid
 cymbidium
 cymbiform
