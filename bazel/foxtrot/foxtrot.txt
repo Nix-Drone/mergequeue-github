@@ -1074,7 +1074,6 @@ freshening
 furriners
 farmable
 farmed
-farmer
 farmeress
 farmery
 filigraned
@@ -8677,6 +8676,7 @@ forthcame
 fudge
 fellowshipping
 forthcomer
+farmer
 floss
 freely
 flapless
