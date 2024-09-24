@@ -8581,7 +8581,6 @@ equate
 equates
 equating
 essentializing
-equation
 equational
 equationally
 extraviolet
@@ -10352,6 +10351,7 @@ ethylin
 ethylmorphine
 enflowering
 ethylsulphuric
+equation
 ethylthioethane
 ethylthioether
 ethinamate
