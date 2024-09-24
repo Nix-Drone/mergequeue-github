@@ -3820,6 +3820,7 @@ buhr
 battlesome
 boatfalls
 banderilla
+berserker
 battlestead
 battlewagon
 battleward
@@ -6860,7 +6861,6 @@ bersaglieri
 berseem
 berseems
 berserk
-berserker
 blackbirds
 berserks
 bersiamite
