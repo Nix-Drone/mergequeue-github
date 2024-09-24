@@ -2521,7 +2521,6 @@ declassify
 declassification
 declassifications
 delocalized
-dissimule
 declassifies
 declassifying
 declassing
@@ -3289,6 +3288,7 @@ deferment
 deferments
 deferrable
 deferral
+dissimule
 deferrals
 deferred
 deferrer
