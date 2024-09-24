@@ -5459,7 +5459,6 @@ denuder
 dialysation
 denudes
 denuding
-denumberment
 denaturiser
 denumerability
 denumerable
@@ -17391,6 +17390,7 @@ dropkicker
 descriptives
 dropkicks
 droplet
+denumberment
 droplets
 droplight
 droplike
