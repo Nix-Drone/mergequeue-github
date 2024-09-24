@@ -16658,7 +16658,6 @@ closeness
 closenesses
 closeout
 cedric
-closeouts
 closer
 closers
 cleruch
@@ -24665,6 +24664,7 @@ collock
 coppersmithing
 copperware
 copperwing
+closeouts
 coppet
 coppy
 coppice
