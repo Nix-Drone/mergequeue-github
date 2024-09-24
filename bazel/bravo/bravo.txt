@@ -610,7 +610,6 @@ babungera
 bacquet
 bact
 bacteraemia
-bacteremia
 bacteremic
 bacteria
 bacteriaceae
@@ -3655,6 +3654,7 @@ bathofloric
 batholith
 batholithic
 batholiths
+bacteremia
 batholitic
 blinded
 bathomania
