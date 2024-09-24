@@ -3749,6 +3749,7 @@ gamin
 ghis
 ghizite
 glassware
+golem
 gildsman
 ghole
 ghoom
@@ -6672,7 +6673,6 @@ goldurned
 goldurns
 goldwork
 goldworker
-golem
 golems
 goles
 golet
