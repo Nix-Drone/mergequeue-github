@@ -2106,6 +2106,7 @@ gausses
 gaussian
 gageite
 gaussmeter
+gestio
 gauster
 granville
 gausterer
@@ -5709,7 +5710,6 @@ globularness
 garavance
 globule
 gtd
-gestio
 globulicide
 generality
 globuliform
