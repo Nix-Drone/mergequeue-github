@@ -7431,6 +7431,7 @@ fey
 forceput
 fazing
 forces
+fractioning
 forcet
 forches
 forcy
@@ -9237,7 +9238,6 @@ fractionation
 flab
 fossorial
 fractioned
-fractioning
 fractionisation
 fractionise
 fractionised
