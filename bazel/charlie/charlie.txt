@@ -19508,7 +19508,6 @@ colubaria
 coluber
 colubridae
 colubrids
-colubriform
 colubrina
 colubrinae
 colubrine
@@ -28455,6 +28454,7 @@ creatures
 carapo
 creatureship
 creaturize
+colubriform
 churchanity
 creaze
 crebricostate
