@@ -2097,7 +2097,6 @@ chaetopoda
 campo
 campodean
 creedbound
-campodeid
 campodeidae
 campodeiform
 campodeoid
@@ -11466,6 +11465,7 @@ chogak
 coexclusive
 chogset
 choy
+campodeid
 choya
 choiak
 choiceful
