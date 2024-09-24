@@ -556,7 +556,6 @@ backups
 backus
 backveld
 backvelder
-backway
 backwall
 bewhite
 backward
@@ -7710,6 +7709,7 @@ bewrathed
 bewreak
 bewreath
 bewreck
+backway
 befreckle
 bewry
 bewrite
