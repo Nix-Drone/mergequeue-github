@@ -11564,6 +11564,7 @@ boarship
 boarskin
 boarspear
 boart
+branchia
 boarts
 boarwood
 boas
@@ -14437,7 +14438,6 @@ branches
 beadle
 branchful
 branchy
-branchia
 branchiae
 borstals
 bathetic
