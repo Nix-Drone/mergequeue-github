@@ -1592,7 +1592,6 @@ balletomania
 ballets
 ballfield
 ballflower
-ballgame
 ballgames
 ballgowns
 ballhausplatz
@@ -11942,6 +11941,7 @@ bohawn
 bohea
 bohemia
 beylical
+ballgame
 bickern
 bohemian
 bohemianism
