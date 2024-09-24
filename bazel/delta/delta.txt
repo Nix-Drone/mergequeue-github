@@ -4381,6 +4381,7 @@ demagnetisation
 dode
 demagnetise
 demagnetised
+distance
 demagnetiser
 demagnetising
 demagnetization
@@ -13724,7 +13725,6 @@ depolish
 distaining
 distal
 distalwards
-distance
 distanced
 decasyllables
 duograph
