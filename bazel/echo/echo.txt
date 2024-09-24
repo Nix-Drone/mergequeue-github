@@ -5137,7 +5137,6 @@ endocrinologic
 endocrinological
 endocrinologies
 endocrinologist
-endocrinopath
 ecphasis
 embosser
 endocrinopathic
@@ -10154,6 +10153,7 @@ etchers
 etching
 esodic
 electrotest
+endocrinopath
 eteoclus
 eteostic
 eterminable
