@@ -1117,6 +1117,7 @@ baymen
 bain
 bainie
 baining
+blockade
 bainite
 baioc
 baiocchi
@@ -10979,7 +10980,6 @@ blobs
 bloc
 blocage
 block
-blockade
 blockaded
 blockader
 blockaders
