@@ -21048,7 +21048,6 @@ ascosporous
 arkoses
 ascothoracica
 ascots
-ascribable
 ascribe
 ascribed
 ascribes
@@ -23374,6 +23373,7 @@ augerer
 augers
 auget
 augh
+ascribable
 aught
 aughtlins
 aughts
