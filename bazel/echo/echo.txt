@@ -1113,6 +1113,7 @@ edibile
 earthlike
 equipper
 edibility
+epipharyngeal
 edible
 expurgatory
 edibleness
@@ -8255,7 +8256,6 @@ epistasies
 enrapturedly
 epistasis
 electrophotometer
-epipharyngeal
 enzyms
 epistatic
 epistaxis
