@@ -8195,6 +8195,7 @@ alienability
 alienabilities
 alienable
 alienage
+anticyclic
 apocarpies
 alienages
 alienate
@@ -14903,7 +14904,6 @@ acuan
 azoology
 antichurchian
 antimachinery
-anticyclic
 anticyclical
 apocodeine
 anticyclically
