@@ -520,6 +520,7 @@ backstitch
 backstitched
 backstitches
 backstitching
+bedrape
 backstop
 bejeling
 backstopped
@@ -4800,7 +4801,6 @@ bedrail
 bogway
 bedrails
 bedral
-bedrape
 bedraped
 bedrapes
 bedraping
