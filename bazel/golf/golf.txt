@@ -5863,7 +5863,6 @@ glossemic
 girondism
 glosser
 glossers
-glosses
 glossy
 glossier
 glossies
@@ -6127,6 +6126,7 @@ glumness
 glumnesses
 gyrovagi
 ghain
+glosses
 genus
 glumose
 gestapo
