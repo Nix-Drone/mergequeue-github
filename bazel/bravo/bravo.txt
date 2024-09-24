@@ -3771,6 +3771,7 @@ battening
 battens
 batter
 bread
+briefless
 batterable
 battercake
 batterdock
@@ -8348,7 +8349,6 @@ bygane
 byganging
 bigarade
 bigarades
-briefless
 bigaroons
 brats
 butterflyfish
