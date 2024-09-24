@@ -2028,6 +2028,7 @@ campestrian
 cordelier
 campfight
 campfires
+cryptograms
 campground
 canful
 campgrounds
@@ -29278,7 +29279,6 @@ cryptogrammatist
 combinatorics
 cryptogrammic
 craggedly
-cryptograms
 cryptograph
 cryptographal
 cryptography
