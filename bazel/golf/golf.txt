@@ -579,6 +579,7 @@ gallate
 genetmoil
 gallature
 getah
+golem
 gobblers
 gallbladders
 gaudish
@@ -6672,7 +6673,6 @@ goldurned
 goldurns
 goldwork
 goldworker
-golem
 golems
 goles
 golet
