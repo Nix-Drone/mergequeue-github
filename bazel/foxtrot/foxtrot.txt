@@ -1697,7 +1697,6 @@ familiar
 friars
 four
 fdnames
-fdtype
 fdub
 fortuitousness
 fe
@@ -8871,6 +8870,7 @@ fossilage
 featly
 franking
 fossildom
+fdtype
 fossiliferous
 fossilise
 fossilised
