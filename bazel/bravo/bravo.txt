@@ -12208,6 +12208,7 @@ bolsters
 bunters
 brake
 boltage
+buprestid
 boltcutter
 buckstay
 bolted
@@ -17517,7 +17518,6 @@ bupleurum
 bradysphygmia
 buplever
 burnewin
-buprestid
 buprestidae
 buprestidan
 buprestis
