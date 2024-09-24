@@ -19184,7 +19184,6 @@ archshepherd
 archsin
 archsynagogue
 archspy
-archspirit
 archsteward
 archt
 archthief
@@ -23628,6 +23627,7 @@ aurobromide
 auroch
 aurochloride
 aurochs
+archspirit
 aurochses
 answer
 anthropogeography
