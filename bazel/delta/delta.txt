@@ -1717,6 +1717,7 @@ deathtime
 deathtrap
 deathtraps
 deathward
+delations
 deathwatches
 deathweed
 deathworm
@@ -3993,7 +3994,6 @@ delatinization
 delatinize
 delation
 dispermy
-delations
 delator
 delators
 delaw
