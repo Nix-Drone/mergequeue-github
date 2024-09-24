@@ -21805,7 +21805,6 @@ confabbed
 confabs
 confabular
 confabulate
-confabulated
 confabulates
 confabulating
 confabulations
@@ -28531,6 +28530,7 @@ creedist
 creedite
 creedless
 creedmore
+confabulated
 creeds
 collat
 creedsman
