@@ -10504,7 +10504,6 @@ amylene
 amylenes
 amylenol
 amiles
-amylic
 amylidene
 amylin
 amylo
@@ -25373,6 +25372,7 @@ azox
 azoxazole
 azoxy
 azoxybenzene
+amylic
 azoxime
 azoxynaphthalene
 azoxine
