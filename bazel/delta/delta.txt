@@ -6035,7 +6035,6 @@ depuration
 depurative
 depurator
 depuratory
-depure
 depurge
 depurged
 depurging
@@ -17924,6 +17923,7 @@ doublers
 degasser
 duffel
 duffels
+depure
 duffer
 dufferdom
 disrange
