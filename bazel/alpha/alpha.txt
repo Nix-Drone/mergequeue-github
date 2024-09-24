@@ -1573,7 +1573,6 @@ acclimatisable
 acclimatisation
 acclimatise
 acclimatised
-acclimatiser
 acclimatising
 algid
 acclimatizable
@@ -12764,6 +12763,7 @@ angioid
 angiokeratoma
 angiokinesis
 angioleucitis
+acclimatiser
 angiolymphoma
 angiolipoma
 angiolith
