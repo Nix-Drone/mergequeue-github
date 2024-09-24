@@ -2942,7 +2942,6 @@ fumier
 feuding
 feudists
 feudovassalism
-format
 feuds
 flagonless
 furazane
@@ -10775,6 +10774,7 @@ frustrative
 frustratory
 frustula
 frustule
+format
 frustulent
 frustules
 frustum
