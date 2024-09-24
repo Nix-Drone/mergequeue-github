@@ -506,7 +506,6 @@ abjunctive
 abjuration
 abjurations
 abjuratory
-abjure
 abjured
 abjurement
 abjurer
@@ -6328,6 +6327,7 @@ agonistical
 acacin
 agonistics
 agonists
+abjure
 agonize
 agonized
 agonizedly
