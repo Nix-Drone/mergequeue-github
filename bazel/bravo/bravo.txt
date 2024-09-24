@@ -3726,7 +3726,6 @@ breadbaskets
 beauty
 batrachidae
 batrachite
-batrachium
 batrachophagous
 batrachophidia
 bats
@@ -11036,6 +11035,7 @@ blockship
 blocs
 blodite
 bbl
+batrachium
 bathe
 bloedite
 ballistically
