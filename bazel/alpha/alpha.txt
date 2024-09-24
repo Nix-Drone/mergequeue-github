@@ -6963,7 +6963,6 @@ akinetic
 allegory
 airstrip
 airstrips
-airt
 airted
 ablepharia
 airthed
@@ -20951,6 +20950,7 @@ asceses
 ascesis
 ascetic
 ascetical
+airt
 ascetically
 asceticism
 ataraxias
