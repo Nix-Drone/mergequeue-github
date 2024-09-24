@@ -3973,7 +3973,6 @@ adjoiningness
 adjoins
 adjoint
 adjoints
-adjournal
 aitkenite
 adjourned
 adjourning
@@ -24092,6 +24091,7 @@ autographometer
 autographs
 autogravure
 apographal
+adjournal
 autoharp
 autoheader
 axone
