@@ -4213,7 +4213,6 @@ fireplace
 fireplaces
 fireplow
 fleeceable
-fireplug
 frieze
 fireplugs
 firepot
@@ -6502,6 +6501,7 @@ flurt
 flush
 flushboard
 flushers
+fireplug
 flushest
 face
 flushgate
