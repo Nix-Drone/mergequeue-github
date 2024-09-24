@@ -10892,7 +10892,6 @@ chippings
 chipproof
 canezou
 clocher
-chypre
 chips
 chipwood
 chiquest
@@ -18901,6 +18900,7 @@ collation
 collationer
 collations
 cesti
+chypre
 collatitious
 cloine
 collative
