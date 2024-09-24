@@ -6102,6 +6102,7 @@ flote
 fustin
 fragor
 felspar
+fearable
 furnisher
 flotsams
 fishmeal
@@ -7694,7 +7695,6 @@ foregleam
 ferrocyanide
 foreglow
 forego
-fearable
 fables
 fasciolidae
 flannelet
