@@ -2759,7 +2759,6 @@ branchiostegite
 bewaitered
 barnard
 barnbrack
-barndoor
 barney
 barneys
 barnhardtite
@@ -16380,6 +16379,7 @@ brunts
 bruscha
 brush
 brushability
+barndoor
 brushable
 brushback
 brushbird
