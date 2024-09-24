@@ -4918,7 +4918,6 @@ encurtain
 endosteal
 encushion
 end
-endable
 endamage
 endamageable
 endamagement
@@ -7436,6 +7435,7 @@ epeirid
 epeiridae
 etourderie
 epeirogenesis
+endable
 epilogue
 encased
 epeirogenetic
