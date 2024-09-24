@@ -4698,7 +4698,6 @@ demirelief
 dourahs
 demirep
 demireps
-demirevetment
 demirhumb
 demirilievo
 demirobe
@@ -14504,6 +14503,7 @@ divulsing
 disdaining
 divulsion
 divulsive
+demirevetment
 divulsor
 divvy
 divvied
