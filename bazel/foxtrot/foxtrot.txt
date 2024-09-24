@@ -713,7 +713,6 @@ famines
 faena
 famished
 famishing
-famishment
 famose
 famous
 famousness
@@ -5079,6 +5078,7 @@ fusobteria
 fanterie
 flask
 ferricyanhydric
+famishment
 flasker
 foretooth
 faecal
