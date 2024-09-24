@@ -3796,7 +3796,6 @@ fricti
 filmmaker
 fullword
 filmography
-filmographies
 films
 filmsets
 filmsetter
@@ -3814,6 +3813,7 @@ filopodia
 filopodium
 filosa
 filosofe
+filmographies
 filosus
 fils
 filterability
