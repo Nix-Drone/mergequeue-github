@@ -6587,6 +6587,7 @@ bepuzzlement
 bequalm
 bequeath
 bequeathal
+bipedal
 bequeathed
 bequeather
 bequeathing
@@ -9276,7 +9277,6 @@ bipectinate
 bullishly
 brulyies
 biped
-bipedal
 bipedality
 bipedism
 bipeds
