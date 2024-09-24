@@ -2402,7 +2402,6 @@ candled
 candlefish
 candlefishes
 candleholder
-candlelight
 candlelighted
 candlelighter
 cytogenesis
@@ -27353,6 +27352,7 @@ courtman
 courtney
 courtnoll
 courtroll
+candlelight
 courtroom
 courts
 courtship
