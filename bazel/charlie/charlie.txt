@@ -7465,7 +7465,6 @@ ceratobranchial
 ceratocystis
 ceratocricoid
 ceratodidae
-ceratodontidae
 ceratodus
 ceratoduses
 ceratoglossal
@@ -12397,6 +12396,7 @@ cnidophobia
 chromatoplasm
 chromatopsia
 chromatoptometer
+ceratodontidae
 chromatoptometry
 chromatoscope
 chromatoscopy
