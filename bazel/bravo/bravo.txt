@@ -147,7 +147,6 @@ babouche
 bavarois
 babouvist
 babracot
-babroot
 bipinnately
 biestings
 babs
@@ -949,6 +948,7 @@ biophysiological
 bagpiper
 bagpipers
 bagpipes
+babroot
 bagpiping
 bagplant
 boscage
