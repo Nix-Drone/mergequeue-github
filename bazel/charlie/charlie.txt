@@ -17104,7 +17104,6 @@ coagent
 coagents
 coaggregate
 coaggregated
-coaggregation
 coagitate
 coagitator
 coagment
@@ -22722,6 +22721,7 @@ consanguinean
 consanguineous
 consanguineously
 consanguinity
+coaggregation
 consanguinities
 consarn
 conscience
