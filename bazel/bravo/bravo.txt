@@ -5300,7 +5300,6 @@ begirt
 beglad
 begladding
 beglare
-beglerbeg
 beglerbeglic
 beglerbeglik
 bags
@@ -9224,6 +9223,7 @@ biotypes
 biotypic
 biotypology
 biotite
+beglerbeg
 biotites
 biotome
 buoys
