@@ -6718,6 +6718,7 @@ fogbank
 fogbound
 fogbow
 flyblow
+footlights
 fogdogs
 fairways
 fogdom
@@ -7198,7 +7199,6 @@ frangulin
 footless
 frequentative
 falcones
-footlights
 flaggelated
 farrierlike
 footling
