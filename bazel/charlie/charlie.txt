@@ -17818,7 +17818,6 @@ codirects
 codiscoverer
 codisjunct
 codist
-codivine
 codlin
 codline
 codling
@@ -22436,6 +22435,7 @@ conjective
 conjecturableness
 conjecturably
 coronetlike
+codivine
 conjectural
 conjecturalist
 conjecturality
