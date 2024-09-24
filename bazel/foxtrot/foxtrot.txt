@@ -5606,7 +5606,6 @@ frailest
 flights
 flightworthy
 flying
-flyings
 flyleaves
 flyless
 flyman
@@ -10604,6 +10603,7 @@ frowziest
 facies
 frowzly
 froze
+flyings
 fleapit
 frozenhearted
 frozenly
