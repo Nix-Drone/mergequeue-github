@@ -356,7 +356,6 @@ backframe
 beknot
 backfriend
 borgh
-backfurrow
 backgame
 backgammon
 backgeared
@@ -12314,6 +12313,7 @@ bombing
 brushball
 bombings
 byronize
+backfurrow
 buffalofishes
 bombyxes
 brigades
