@@ -5071,7 +5071,6 @@ aeropleustic
 aeroscepsy
 aurum
 aeroscepsis
-aeroscope
 aeroscopy
 aeroscopically
 aerose
@@ -12154,6 +12153,7 @@ anchithere
 anchitherioid
 anchor
 anchorable
+aeroscope
 anchorage
 anchorages
 anchorate
