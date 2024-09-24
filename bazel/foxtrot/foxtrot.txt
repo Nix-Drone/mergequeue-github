@@ -4415,6 +4415,7 @@ fishnets
 fishplate
 feste
 fishpole
+fratricidal
 fishpoles
 fishponds
 fishpotter
@@ -8052,7 +8053,6 @@ fairyism
 forestcraft
 forested
 foresteep
-fratricidal
 fluidises
 formlessly
 forester
