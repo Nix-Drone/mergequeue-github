@@ -4507,7 +4507,6 @@ bickers
 beclaw
 beclip
 besieged
-becloak
 belchers
 becloaking
 becloaks
@@ -11441,6 +11440,7 @@ benighting
 blunderbuss
 blunderbusses
 blunderful
+becloak
 bangia
 blunderhead
 beachie
