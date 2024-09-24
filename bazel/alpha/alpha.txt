@@ -5560,7 +5560,6 @@ afteract
 afterage
 afterattack
 afterbay
-appetitive
 afterband
 absorbs
 afterbeat
@@ -23108,6 +23107,7 @@ aeromantic
 atticizing
 atticomastoid
 attid
+appetitive
 apiculture
 attidae
 attila
