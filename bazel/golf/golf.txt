@@ -683,7 +683,6 @@ geodesy
 galliot
 galliots
 gurnets
-gallipot
 gallipots
 gallirallus
 gallisin
@@ -4988,6 +4987,7 @@ glaciologists
 glaciomarine
 glaciometer
 glacionatant
+gallipot
 gamb
 guidebook
 glacious
