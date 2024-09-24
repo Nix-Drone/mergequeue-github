@@ -2023,6 +2023,7 @@ glacier
 gauffers
 gauffre
 garvie
+greediness
 gauffred
 gaufre
 gaufrette
@@ -10139,7 +10140,6 @@ guidance
 guide
 gruf
 guideboard
-greediness
 guidebooky
 guidebookish
 genres
