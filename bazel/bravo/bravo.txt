@@ -14960,7 +14960,6 @@ breechloading
 begift
 breed
 brawns
-breedable
 bootee
 breedbate
 breeder
@@ -15307,6 +15306,7 @@ bority
 bridlers
 boredom
 bridles
+breedable
 bridling
 ballerine
 bridoons
