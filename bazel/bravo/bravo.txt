@@ -660,7 +660,6 @@ burnoose
 buckishly
 bacteriophage
 bacteriophages
-bacteriophagy
 bacteriophagic
 bacteriophagous
 bear
@@ -11885,6 +11884,7 @@ bogged
 boggier
 boggiest
 boggin
+bacteriophagy
 bogginess
 bercelet
 boggle
