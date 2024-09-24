@@ -15772,7 +15772,6 @@ clavicotomy
 clavicular
 clavicularium
 claviculate
-claviculus
 clavier
 clavierist
 clavierists
@@ -29873,6 +29872,7 @@ crosshatches
 cogwheel
 crosshatching
 crosshaul
+claviculus
 crosshauling
 crosshead
 crossing
