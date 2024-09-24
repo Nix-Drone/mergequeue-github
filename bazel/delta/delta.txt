@@ -7305,7 +7305,6 @@ detinuit
 detn
 detonability
 detonable
-detonatability
 depersonalised
 detonate
 detonated
@@ -17535,6 +17534,7 @@ duplexes
 distributes
 drudgingly
 drudgism
+detonatability
 dispope
 druffen
 drug
