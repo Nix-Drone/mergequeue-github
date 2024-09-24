@@ -4401,7 +4401,6 @@ fishlet
 fishlike
 furlough
 fishline
-fishlines
 frondage
 fishling
 fishman
@@ -6008,6 +6007,7 @@ floreted
 forethoughted
 floretty
 flory
+fishlines
 floria
 floriage
 floriated
