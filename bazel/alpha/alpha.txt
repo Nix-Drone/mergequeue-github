@@ -12767,7 +12767,6 @@ angioleucitis
 angiolymphoma
 angiolipoma
 angiolith
-angiology
 angioma
 angiomalacia
 angiomas
@@ -16367,6 +16366,7 @@ antithetical
 antithetically
 antithetics
 achropsia
+angiology
 antithyroid
 anilid
 antitintinnabularian
