@@ -9642,7 +9642,6 @@ backbeats
 bishopdom
 bishoped
 biborate
-bishopful
 bishophood
 bishopless
 bishoplet
@@ -12955,6 +12954,7 @@ borderings
 borders
 borderland
 borderlander
+bishopful
 borderlands
 borderless
 borderlight
