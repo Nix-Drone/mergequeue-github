@@ -2091,7 +2091,6 @@ acetnaphthalide
 acetoacetanilide
 acetoacetate
 acetoacetic
-acetoamidophenol
 acetoarsenite
 acetobenzoic
 acetol
@@ -5248,6 +5247,7 @@ affecter
 affecters
 affectibility
 accus
+acetoamidophenol
 affectible
 affecting
 acrorhagus
