@@ -2928,7 +2928,6 @@ allotype
 acromioclavicular
 acromiocoracoid
 acromyodi
-acromyodic
 acromyodous
 acromiohyoid
 areometer
@@ -18673,6 +18672,7 @@ arcadians
 arcadias
 aulos
 arcadic
+acromyodic
 arcading
 arcadings
 arcana
