@@ -1627,6 +1627,7 @@ calp
 calpac
 calpack
 calpacked
+countershade
 calpacks
 calpacs
 calpolli
@@ -27062,7 +27063,6 @@ countersecurity
 counterselection
 countersense
 counterservice
-countershade
 clione
 countershading
 countershaft
