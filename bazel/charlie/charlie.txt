@@ -9230,7 +9230,6 @@ chassis
 chemisorptive
 chastacosta
 chaste
-chastelain
 chastely
 carbonados
 chasten
@@ -28115,6 +28114,7 @@ crankcases
 crankdisk
 cranked
 cranker
+chastelain
 crankily
 crankiness
 cranking
