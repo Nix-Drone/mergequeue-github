@@ -2448,7 +2448,6 @@ gelatinobromide
 guerdon
 gelatinoid
 gaelicize
-gelation
 greaves
 gravilea
 gardon
@@ -8186,6 +8185,7 @@ glacioaqueous
 gingall
 graphitizing
 graphoanalytical
+gelation
 grapholite
 gargoylishly
 graphological
