@@ -1597,7 +1597,6 @@ dealings
 dealkalize
 dealkylate
 dealkylation
-deallocate
 deallocated
 daunter
 deallocates
@@ -15309,6 +15308,7 @@ draftsperson
 domesticative
 domesticator
 domesticity
+deallocate
 disenactment
 deipotent
 downhearted
