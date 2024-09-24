@@ -4294,7 +4294,6 @@ adorer
 adorers
 adoretus
 adoringly
-adorn
 adornation
 adorned
 adorner
@@ -9661,6 +9660,7 @@ alveololingual
 alveolonasal
 alveolosubnasal
 alveolus
+adorn
 alveus
 alvia
 alviducous
