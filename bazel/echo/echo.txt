@@ -6663,7 +6663,6 @@ enterogenous
 enterogram
 enterograph
 enterography
-enterohemorrhage
 enterohydrocele
 emanative
 exchangite
@@ -7921,6 +7920,7 @@ epihyal
 electromagnetize
 epihydric
 electroetching
+enterohemorrhage
 epihippus
 epikeia
 eggheaded
