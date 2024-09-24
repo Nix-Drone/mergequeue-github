@@ -2656,7 +2656,6 @@ acouophonia
 acoluthic
 acoup
 acoupa
-acousmatic
 acoustical
 acoustically
 acousticolateral
@@ -5305,6 +5304,7 @@ affile
 affiliable
 addio
 affiliate
+acousmatic
 affiliated
 affiliating
 affiliation
