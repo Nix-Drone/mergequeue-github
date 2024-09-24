@@ -5356,7 +5356,6 @@ affixer
 affixers
 affixes
 affixial
-affixion
 affixment
 ague
 affixture
@@ -5405,6 +5404,7 @@ affords
 afforest
 afforestable
 afforestation
+affixion
 afforested
 afforesting
 anticogitative
