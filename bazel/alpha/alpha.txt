@@ -6847,6 +6847,7 @@ aircrewmen
 aircrews
 aerophone
 airdate
+almoners
 announcement
 airdates
 airdock
@@ -9113,7 +9114,6 @@ almondlike
 almonds
 almoner
 atwo
-almoners
 almonership
 almonry
 almonries
