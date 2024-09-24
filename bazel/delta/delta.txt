@@ -5096,7 +5096,6 @@ diopsidae
 denaturization
 denaturize
 denaturizer
-denaturizing
 denazify
 denazifies
 denazifying
@@ -8123,6 +8122,7 @@ drung
 defiladed
 diaconal
 diaconica
+denaturizing
 diaconicon
 diaconicum
 diacope
