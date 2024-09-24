@@ -4402,6 +4402,7 @@ fishlike
 furlough
 fishline
 fishlines
+forswat
 frondage
 fishling
 fishman
@@ -5829,7 +5830,6 @@ fearless
 flob
 filterman
 flobby
-forswat
 forcedness
 fraternate
 fastigia
