@@ -1698,7 +1698,6 @@ friars
 four
 fdnames
 fdtype
-fdub
 fortuitousness
 fe
 forksmith
@@ -6507,6 +6506,7 @@ face
 flushgate
 flushy
 flushing
+fdub
 flushingly
 flusk
 flusker
