@@ -10668,7 +10668,6 @@ blendcorn
 bestill
 broomstaff
 blende
-blendes
 buffaloed
 blendwater
 blenheim
@@ -12177,6 +12176,7 @@ boloism
 boloman
 bolomen
 bolometer
+blendes
 bolometric
 bolometrically
 boloroot
