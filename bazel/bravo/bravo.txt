@@ -2832,7 +2832,6 @@ baronetising
 baronetize
 baronetizing
 baronets
-baronetship
 barong
 baronga
 barongs
@@ -8429,6 +8428,7 @@ bygones
 bigonial
 boyarisms
 bigotedly
+baronetship
 bigotedness
 besotted
 bigots
