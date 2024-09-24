@@ -5360,7 +5360,6 @@ affixion
 affixment
 ague
 affixture
-afflate
 afflated
 afflatus
 afflatuses
@@ -13677,6 +13676,7 @@ anobiidae
 anobing
 aminoquinoline
 anocathartic
+afflate
 abilene
 anociassociation
 anociation
