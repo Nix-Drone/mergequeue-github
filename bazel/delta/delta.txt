@@ -5692,6 +5692,7 @@ dephosphorize
 depickle
 depict
 depicted
+daub
 depicter
 descendents
 denuclearize
@@ -18158,7 +18159,6 @@ dumsola
 dun
 dunair
 dunal
-daub
 dunamis
 duncan
 diazotic
