@@ -3884,7 +3884,6 @@ geobiology
 gibbons
 grippal
 gibbose
-gibbosely
 gibbosity
 gibbosities
 gibbous
@@ -5435,6 +5434,7 @@ glycyrrhizin
 groundman
 glycocoll
 glycogelatin
+gibbosely
 glycogen
 galactogogue
 glycogenase
