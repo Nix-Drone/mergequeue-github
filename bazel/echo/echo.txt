@@ -828,7 +828,6 @@ ecthlipses
 ectypal
 embrasure
 ectype
-ectypography
 ectiris
 episodal
 equations
@@ -6860,6 +6859,7 @@ entodermal
 entodermic
 entogastric
 entogenous
+ectypography
 enstyle
 entoglossal
 epithelilia
