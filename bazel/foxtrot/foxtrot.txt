@@ -4907,7 +4907,6 @@ flameproof
 formulize
 flameproofer
 flintlocks
-finfishes
 flamer
 flamers
 ferneries
@@ -9580,6 +9579,7 @@ fraudproof
 frauds
 forewarning
 fraudulence
+finfishes
 fraudulency
 flexibility
 fingerfishes
