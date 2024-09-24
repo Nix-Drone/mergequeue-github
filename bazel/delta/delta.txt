@@ -1477,7 +1477,6 @@ deaconry
 deaconries
 deacons
 deaconship
-deactivate
 deactivated
 deactivates
 discontinuing
@@ -3220,6 +3219,7 @@ dribbled
 defectively
 defectiveness
 defectless
+deactivate
 defectlessness
 defector
 defectors
