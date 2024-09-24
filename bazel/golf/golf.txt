@@ -595,6 +595,7 @@ galleypot
 galleys
 gamodemes
 galleyworm
+gozill
 geneat
 galleon
 galleons
@@ -7541,7 +7542,6 @@ glyoxime
 gowpen
 gowpin
 gox
-gozill
 gangism
 gp
 gpad
