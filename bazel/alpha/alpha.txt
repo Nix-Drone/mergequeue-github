@@ -12066,7 +12066,6 @@ anatomies
 anatomiless
 anatomise
 anatomiser
-anatomising
 anatomist
 anatomists
 anatomizable
@@ -13586,6 +13585,7 @@ amputated
 annotates
 annotating
 annotation
+anatomising
 avoiding
 annotations
 annotative
