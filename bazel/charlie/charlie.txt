@@ -14878,6 +14878,7 @@ confidences
 cytoblastema
 cytoblastemal
 cytoblastematous
+coralist
 cytoblastemous
 cytocentrum
 cytochalasin
@@ -24850,7 +24851,6 @@ coralberries
 coralbush
 coralene
 coralflower
-coralist
 coralita
 circumventable
 coralla
