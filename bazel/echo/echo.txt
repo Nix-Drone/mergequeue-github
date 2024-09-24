@@ -11261,7 +11261,6 @@ evaded
 evader
 encounterers
 electroergometer
-electroballistics
 extratubal
 evades
 embezzle
@@ -14001,6 +14000,7 @@ encorpore
 extrathecal
 equestrianism
 extrathermodynamic
+electroballistics
 extratympanic
 einkorns
 extratorrid
