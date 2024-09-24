@@ -5077,7 +5077,6 @@ flashtube
 flashtubes
 fusobteria
 fanterie
-flask
 ferricyanhydric
 flasker
 foretooth
@@ -6361,6 +6360,7 @@ fullback
 flunkeyhood
 flunkeyistic
 flightshot
+flask
 flunker
 foetid
 flunky
