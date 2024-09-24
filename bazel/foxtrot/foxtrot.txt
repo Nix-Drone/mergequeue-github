@@ -208,7 +208,6 @@ factories
 factoring
 factoryship
 factorist
-factorization
 fab
 factorizations
 fluviose
@@ -1919,6 +1918,7 @@ fecundify
 fecundity
 fecundize
 fundless
+factorization
 fed
 frs
 fedayee
