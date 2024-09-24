@@ -2401,7 +2401,6 @@ candlebomb
 candled
 candlefish
 candlefishes
-candleholder
 candlelight
 candlelighted
 candlelighter
@@ -5839,6 +5838,7 @@ catharizing
 chattelship
 catharping
 correlating
+candleholder
 counterreason
 cathars
 catharses
