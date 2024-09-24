@@ -19054,7 +19054,6 @@ collimator
 collimators
 collin
 colline
-collinearity
 collineation
 caecias
 colling
@@ -21367,6 +21366,7 @@ concionary
 concionate
 concionator
 concionatory
+collinearity
 credulously
 conciousness
 concipient
