@@ -14691,7 +14691,6 @@ cystoepithelioma
 cystofibroma
 cystoflagellata
 cystogenesis
-cystogenous
 cystogram
 cystoid
 cystoidea
@@ -29036,6 +29035,7 @@ crin
 crinal
 crinanite
 curricular
+cystogenous
 columbus
 camerina
 crinate
