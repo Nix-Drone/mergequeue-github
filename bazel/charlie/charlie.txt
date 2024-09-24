@@ -9253,6 +9253,7 @@ chastiment
 chastisable
 chastise
 chastised
+clearish
 chastiser
 chastisers
 clapperboard
@@ -15854,7 +15855,6 @@ clearing
 clearinghouse
 clearinghouses
 clearings
-clearish
 clearly
 clearminded
 clearness
