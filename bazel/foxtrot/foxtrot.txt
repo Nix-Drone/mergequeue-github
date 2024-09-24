@@ -2036,7 +2036,6 @@ feering
 fees
 feest
 feet
-feeze
 feezed
 feezes
 finis
@@ -5900,6 +5899,7 @@ floodable
 fineable
 fullfil
 floodage
+feeze
 floodboard
 fabiform
 flooded
