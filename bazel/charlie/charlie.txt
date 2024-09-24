@@ -1602,7 +1602,6 @@ calorimeters
 calorimetry
 calorimetric
 calorimetrical
-calorimetrically
 calorimotor
 calorisator
 calorist
@@ -15809,6 +15808,7 @@ cleaded
 cleading
 cleam
 cleamer
+calorimetrically
 clean
 cleanable
 cleaned
