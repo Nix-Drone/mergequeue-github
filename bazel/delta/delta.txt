@@ -7543,7 +7543,6 @@ devastators
 devata
 devaul
 devaunt
-devchar
 deveined
 deveining
 devel
@@ -11904,6 +11903,7 @@ disembarks
 disembarrass
 disembarrassed
 disroots
+devchar
 disembarrassment
 disembitter
 disembocation
