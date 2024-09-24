@@ -2665,6 +2665,7 @@ gradienter
 genecological
 genecor
 griever
+gyrostats
 geneki
 ganglionated
 genep
@@ -4809,7 +4810,6 @@ gyroscopics
 gyrose
 gyrostabilized
 gyrostat
-gyrostats
 gyrotheca
 girouette
 gastroduodenostomies
