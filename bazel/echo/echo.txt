@@ -2649,7 +2649,6 @@ enrail
 electrotaxis
 electrotechnic
 electrotechnician
-earthlier
 ericetum
 extendibility
 electrotechnics
@@ -3173,6 +3172,7 @@ else
 endemic
 elsehow
 elseways
+earthlier
 elsewhat
 elsewhen
 elsewhere
