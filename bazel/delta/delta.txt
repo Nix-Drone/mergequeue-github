@@ -7086,7 +7086,6 @@ desulfurize
 desulfurized
 desulfurizer
 desulfurizing
-dynamometric
 desulphur
 desulphurate
 desulphurated
@@ -15994,6 +15993,7 @@ doub
 distortedness
 decrepitude
 double
+dynamometric
 doubleganger
 doublegear
 doublehanded
