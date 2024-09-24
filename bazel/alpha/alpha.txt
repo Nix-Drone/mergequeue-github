@@ -8237,7 +8237,6 @@ alight
 afterplay
 alighted
 alighting
-alightment
 align
 aligned
 aligners
@@ -8433,6 +8432,7 @@ alkalise
 alkalised
 affrayed
 alkaliser
+alightment
 alkalises
 audivise
 alkalising
