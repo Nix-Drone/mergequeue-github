@@ -344,6 +344,7 @@ backfield
 bangala
 backfields
 backfiller
+bints
 backfilling
 backfills
 backfired
@@ -8905,7 +8906,6 @@ binormal
 binotonous
 binous
 binoxide
-bints
 binturong
 binuclear
 binucleated
