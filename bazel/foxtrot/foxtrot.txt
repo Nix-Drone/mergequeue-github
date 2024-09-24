@@ -1349,7 +1349,6 @@ frogskins
 fasts
 fastuous
 fastuousness
-fastwalk
 fat
 fatagaga
 fecklessness
@@ -8907,6 +8906,7 @@ fosterage
 fostered
 fosterer
 footstone
+fastwalk
 fosterers
 forblow
 fosterhood
