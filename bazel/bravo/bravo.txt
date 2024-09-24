@@ -3785,7 +3785,6 @@ batteried
 batteries
 batteryman
 batterman
-batters
 batteuse
 batty
 bemadamed
@@ -13450,6 +13449,7 @@ boucle
 boucles
 boudeuse
 boudin
+batters
 boudoir
 boudoirs
 bagman
