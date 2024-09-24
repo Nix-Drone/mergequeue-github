@@ -5627,7 +5627,6 @@ depel
 depencil
 depend
 dependability
-deadhead
 dependabilities
 dependableness
 dependably
@@ -7782,6 +7781,7 @@ devouress
 depersonalize
 diedral
 devouring
+deadhead
 discourseless
 defiances
 devouringly
