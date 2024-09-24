@@ -2477,6 +2477,7 @@ deckpipe
 decks
 dulls
 deckswabber
+directness
 decl
 declaim
 dichorisandra
@@ -10793,7 +10794,6 @@ deckles
 directivity
 directly
 discording
-directness
 diphthongised
 dijudicating
 dasycladaceae
