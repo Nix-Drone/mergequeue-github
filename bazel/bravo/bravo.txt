@@ -4109,7 +4109,6 @@ bom
 beam
 beambird
 beamed
-beamer
 beamers
 beamfilling
 beamful
@@ -8830,6 +8829,7 @@ binbashi
 bind
 binderies
 binders
+beamer
 banjos
 bloodstone
 bulliest
