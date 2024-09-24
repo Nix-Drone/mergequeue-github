@@ -5743,7 +5743,6 @@ deplenish
 depletable
 depleteable
 depleted
-depleting
 depletion
 depletions
 depletive
@@ -7863,6 +7862,7 @@ dews
 dewtry
 diamondbacks
 dietician
+depleting
 defect
 dewworm
 dex
