@@ -8473,7 +8473,6 @@ bijwoner
 buisson
 bike
 bloodlettings
-biked
 biker
 bikers
 bikeway
@@ -11905,6 +11904,7 @@ bogydom
 bogie
 bogieman
 bullfinch
+biked
 bogyism
 bradypodoid
 bogyland
