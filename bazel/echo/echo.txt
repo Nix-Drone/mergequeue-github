@@ -5815,6 +5815,7 @@ engrave
 engravement
 engraven
 engraver
+etherism
 engravers
 engraves
 easts
@@ -10275,7 +10276,6 @@ emboweled
 emphasizes
 etherion
 etherish
-etherism
 etherization
 einsteinium
 etherize
