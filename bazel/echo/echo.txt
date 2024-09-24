@@ -197,7 +197,6 @@ escribing
 electrize
 erythritic
 earthslide
-earthsmoke
 earthtongue
 earthwall
 earthwork
@@ -8456,6 +8455,7 @@ essera
 epizoon
 epizooty
 epizootic
+earthsmoke
 epizootically
 eighteen
 entrada
