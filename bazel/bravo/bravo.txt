@@ -760,7 +760,6 @@ badge
 badgeless
 berrendo
 badgeman
-barrels
 boraciferous
 badgemen
 badger
@@ -1993,6 +1992,7 @@ bandoline
 bandonion
 bandor
 bandora
+barrels
 bandore
 bronchium
 bandos
