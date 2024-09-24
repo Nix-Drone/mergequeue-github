@@ -7150,7 +7150,6 @@ finedraw
 facer
 figwort
 foeniculum
-footed
 footeite
 fenouillette
 footer
@@ -7238,6 +7237,7 @@ flanderkin
 footprint
 flocculating
 footraces
+footed
 footrest
 footrests
 footrope
