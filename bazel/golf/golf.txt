@@ -5112,7 +5112,6 @@ glamourize
 glamourless
 glamourous
 glance
-glanced
 glancing
 glancingly
 growled
@@ -8352,6 +8351,7 @@ gratinating
 gonakie
 grating
 gratingly
+glanced
 gratings
 gratins
 gratiola
