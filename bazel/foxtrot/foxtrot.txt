@@ -7808,6 +7808,7 @@ fullface
 foremartyr
 foremastmen
 foremasts
+friarhood
 foremean
 fasciately
 foremeant
@@ -9297,7 +9298,6 @@ fragmentarily
 floroon
 freeish
 faldetta
-friarhood
 fragmentariness
 fuliguline
 fibrochondroma
