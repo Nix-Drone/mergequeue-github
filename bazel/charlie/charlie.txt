@@ -9808,7 +9808,6 @@ cheloids
 chelonia
 chelonian
 chelonid
-cheloniid
 cheloniidae
 crucialness
 chelophore
@@ -29827,6 +29826,7 @@ crossbite
 curriculums
 crossbolt
 crossbolted
+cheloniid
 crossbones
 crossbow
 crossbowmen
