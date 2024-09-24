@@ -4184,6 +4184,7 @@ employee
 employees
 employer
 exedral
+ecbatic
 employers
 employment
 enthymeme
@@ -9985,7 +9986,6 @@ esther
 evenforth
 estherian
 esthesio
-ecbatic
 esthesioblast
 esthesiogen
 esthesiogeny
