@@ -4630,7 +4630,6 @@ enchanter
 excitement
 enchantery
 enchanters
-enchanting
 enchantingly
 enchantment
 enchantments
@@ -5965,6 +5964,7 @@ enjoins
 enkennel
 enkernel
 esthesises
+enchanting
 ecardinal
 email
 estampedero
