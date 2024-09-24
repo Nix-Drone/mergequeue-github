@@ -1475,7 +1475,6 @@ distracting
 disform
 deaconry
 deaconries
-deacons
 deaconship
 deactivate
 deactivated
@@ -2667,6 +2666,7 @@ dimmy
 decomposer
 decomposers
 decomposes
+deacons
 decomposing
 decomposition
 decapod
