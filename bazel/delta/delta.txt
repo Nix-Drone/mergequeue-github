@@ -5785,7 +5785,6 @@ depoetize
 depoh
 depolarisation
 depolarise
-drapeable
 depolarised
 depolariser
 darksome
@@ -6322,6 +6321,7 @@ downs
 dermoblast
 diaplasis
 dermobranchiata
+drapeable
 dermobranchiate
 dermochelys
 dermococcus
