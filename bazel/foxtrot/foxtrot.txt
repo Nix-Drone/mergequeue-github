@@ -135,6 +135,7 @@ fairlike
 fackeltanz
 flajolotite
 fackins
+fdtype
 facks
 faconde
 faconne
@@ -1697,7 +1698,6 @@ familiar
 friars
 four
 fdnames
-fdtype
 fdub
 fortuitousness
 fe
