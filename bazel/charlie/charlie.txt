@@ -18376,7 +18376,6 @@ cohabits
 cohanim
 cohanims
 coharmonious
-coharmonize
 cohead
 coheading
 coheads
@@ -21503,6 +21502,7 @@ concretization
 concretize
 concretized
 concretizing
+coharmonize
 concretor
 concrew
 concrfsce
