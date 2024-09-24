@@ -1076,7 +1076,6 @@ farmable
 farmed
 farmer
 farmeress
-farmery
 filigraned
 farmeries
 farmerish
@@ -9506,6 +9505,7 @@ frapping
 frary
 flouriness
 frase
+farmery
 foamingly
 ferfet
 foreseers
