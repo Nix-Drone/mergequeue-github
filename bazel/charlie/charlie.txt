@@ -12356,7 +12356,6 @@ chromaticness
 capillation
 chromatics
 chromatid
-chromatin
 cyclonoscope
 chromatioideae
 chromatype
@@ -28027,6 +28026,7 @@ cranage
 cranberries
 cranch
 cranched
+chromatin
 cranches
 cranching
 crandall
