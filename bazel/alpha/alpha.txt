@@ -2093,7 +2093,6 @@ acetoacetate
 acetoacetic
 acetoamidophenol
 acetoarsenite
-acetobenzoic
 acetol
 acetolysis
 acetolytic
@@ -13738,6 +13737,7 @@ anolis
 anolyte
 anomaly
 anomalies
+acetobenzoic
 anomaliflorous
 anomaliped
 anomalipod
