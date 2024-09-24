@@ -5956,7 +5956,6 @@ agenesias
 agenesic
 agenesis
 agenetic
-agenize
 agenized
 agenizes
 agenizing
@@ -25107,6 +25106,7 @@ axilemma
 axilemmas
 axilemmata
 adjustage
+agenize
 axilla
 axillae
 aristo
