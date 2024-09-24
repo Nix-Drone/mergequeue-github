@@ -5307,7 +5307,6 @@ ephetic
 endoskeletons
 endosmic
 endosmometric
-eyr
 evaders
 erasions
 electroplax
@@ -7694,6 +7693,7 @@ exocrine
 everduring
 enterohelcosis
 epicormic
+eyr
 epicorolline
 epicortical
 epicostal
