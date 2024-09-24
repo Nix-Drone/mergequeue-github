@@ -3047,7 +3047,6 @@ bartended
 betrayer
 bartender
 bess
-bartenders
 bartending
 barter
 barterer
@@ -4805,6 +4804,7 @@ bedraped
 bedrapes
 bedraping
 bedread
+bartenders
 bedrel
 bedrench
 bedrenched
