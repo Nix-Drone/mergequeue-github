@@ -5306,7 +5306,6 @@ beglerbeglik
 bags
 bakalai
 bogwood
-beglerbegluc
 beglerbegship
 beglerbey
 beglew
@@ -8151,6 +8150,7 @@ bicursal
 bicuspid
 bicuspidal
 bicuspidate
+beglerbegluc
 bemixed
 burrobrush
 bid
