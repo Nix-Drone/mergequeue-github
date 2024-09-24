@@ -8267,7 +8267,6 @@ bietle
 byeworker
 byeworkman
 bluejoint
-bifaces
 bifacial
 bifara
 bedress
@@ -11525,6 +11524,7 @@ blusteringly
 blusterous
 blusterously
 blusters
+bifaces
 bromobenzyl
 bm
 bo
