@@ -11644,7 +11644,6 @@ cholesteric
 cholesteryl
 cholesterin
 cholesterinemia
-chappow
 cholesterinic
 cholesterinuria
 cholesterol
@@ -19279,6 +19278,7 @@ colonised
 colonises
 capture
 colonising
+chappow
 colonist
 chiromancer
 colonizability
