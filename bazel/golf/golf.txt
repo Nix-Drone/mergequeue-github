@@ -8043,6 +8043,7 @@ gradely
 granospherite
 grantable
 geochemistry
+guilds
 genoblastic
 gloomth
 grins
@@ -10190,7 +10191,6 @@ guilder
 graver
 ghoul
 guildhall
-guilds
 guildship
 guildsmen
 guessworker
