@@ -2466,7 +2466,6 @@ goodnesses
 gelded
 gelder
 gelders
-gobmouthed
 geldesprung
 gelding
 geldings
@@ -2587,6 +2586,7 @@ gemminess
 genistein
 gemmingia
 gemmipara
+gobmouthed
 gemmipares
 gemmiparous
 gemmiparously
