@@ -2700,7 +2700,6 @@ fertilizer
 fillagreing
 fertilizers
 foremelt
-ferula
 foghorns
 ferulaceous
 ferular
@@ -4146,6 +4145,7 @@ firebombing
 frostlike
 faithwise
 firebombs
+ferula
 forestery
 fireboot
 firebox
