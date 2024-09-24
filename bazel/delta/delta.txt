@@ -6311,7 +6311,6 @@ dermatozoonosis
 dermatozzoa
 dermatrophia
 dermatropic
-dermestes
 dermestid
 dermestidae
 dermis
@@ -15827,6 +15826,7 @@ dorsocephalic
 dorsocervical
 dorsodynia
 dorsoepitrochlear
+dermestes
 dorsointercostal
 dorsolateral
 dequeen

@@ -3872,7 +3872,6 @@ emeses
 emesidae
 emesis
 emetia
-emetic
 emetics
 emetines
 entrapped
@@ -11744,6 +11743,7 @@ exaggeratory
 exaggerators
 exagitate
 exairesis
+emetic
 exalate
 exalbuminose
 exalbuminous
