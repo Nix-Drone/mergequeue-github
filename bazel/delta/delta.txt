@@ -12962,7 +12962,6 @@ divorceable
 dispel
 dispellable
 danubian
-dispelled
 diplomyelia
 dispeller
 dorsimedian
@@ -13440,6 +13439,7 @@ dissatisfactions
 dissatisfactory
 dissatisfactorily
 dissatisfactoriness
+dispelled
 doctorlike
 dissatisfied
 dissatisfiedly
