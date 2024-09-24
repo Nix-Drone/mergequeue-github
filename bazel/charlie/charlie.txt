@@ -7907,7 +7907,6 @@ cessor
 countermission
 cesspipe
 cesspit
-cesspits
 centipede
 clamors
 cesspools
@@ -17575,6 +17574,7 @@ coch
 cuckoomaiden
 cochair
 cochairing
+cesspits
 chlorothiazide
 cochairman
 cocher
