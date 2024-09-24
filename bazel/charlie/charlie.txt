@@ -26608,7 +26608,6 @@ counsellors
 counsellorship
 counselor
 counsels
-count
 countability
 countable
 countableness
@@ -27196,6 +27195,7 @@ counties
 counting
 clothespress
 countinghouse
+count
 countys
 countywide
 countless
