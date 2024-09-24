@@ -12688,6 +12688,7 @@ bookplates
 barwise
 bookpress
 bookrack
+buck
 bookracks
 baronry
 barrulety
@@ -16617,7 +16618,6 @@ buchmanite
 buchnerite
 buchonite
 bewildering
-buck
 bernacle
 buckayro
 buckayros
