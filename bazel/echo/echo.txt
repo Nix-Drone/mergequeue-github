@@ -5630,7 +5630,6 @@ enfoulder
 enfrai
 enframe
 enframed
-enframing
 enfranch
 enfranchised
 erasability
@@ -9146,6 +9145,7 @@ erythroblastic
 exoperidium
 electrocardiographs
 erythroblastosis
+enframing
 erythrocarpous
 erythrocatalysis
 eurygnathism
