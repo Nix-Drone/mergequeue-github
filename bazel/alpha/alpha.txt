@@ -1623,7 +1623,6 @@ allez
 accommodators
 accomodate
 accompanable
-arrivage
 accompanier
 australorp
 accompanies
@@ -2648,6 +2647,7 @@ acouasm
 acouchi
 acoumeter
 allylene
+arrivage
 acoumetry
 autodetector
 airframes
