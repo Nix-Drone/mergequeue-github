@@ -2665,7 +2665,6 @@ flowerbed
 ferruled
 ferruler
 ferrules
-fences
 ferrum
 freshes
 ferruminating
@@ -6527,6 +6526,7 @@ flustroid
 forbar
 flutebird
 foils
+fences
 fluted
 filagreeing
 flabby
