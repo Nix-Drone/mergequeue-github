@@ -6485,7 +6485,6 @@ benzophenol
 benzophenone
 benzophenothiazine
 benzophenoxazine
-benzophloroglucinol
 benzophthalazine
 benzopyran
 benzopyranyl
@@ -17341,6 +17340,7 @@ bumpology
 bumps
 bumpsy
 borschts
+benzophloroglucinol
 bumptious
 bitypic
 blanketweed
