@@ -4538,7 +4538,6 @@ bestuur
 become
 becomed
 becomes
-becometh
 becoming
 becomingness
 becompass
@@ -7256,6 +7255,7 @@ bestiarian
 bestiaries
 bestiarist
 besting
+becometh
 bestirred
 bloodroots
 bestock
