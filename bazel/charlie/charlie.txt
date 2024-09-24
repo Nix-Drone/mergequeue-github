@@ -19463,7 +19463,6 @@ colourman
 colours
 colourtype
 colp
-colpenchyma
 colpeo
 colpeurysis
 colpheg
@@ -22289,6 +22288,7 @@ coevalneity
 congratulational
 congratulations
 congratulator
+colpenchyma
 congratulatory
 congree
 congreet
