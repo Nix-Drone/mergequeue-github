@@ -7912,7 +7912,6 @@ eftest
 epigraphy
 egyptianization
 epigraphic
-epigraphical
 epigraphist
 epigraphs
 epiguanine
@@ -13567,6 +13566,7 @@ extentions
 extents
 extenuate
 extenuated
+epigraphical
 extenuates
 extenuating
 extenuatingly
