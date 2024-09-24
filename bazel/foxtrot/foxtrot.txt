@@ -2823,7 +2823,6 @@ filanders
 fetchers
 fetching
 floreat
-feterita
 fetes
 fetialis
 fusser
@@ -5908,6 +5907,7 @@ flooder
 flooders
 floodgate
 floodgates
+feterita
 frontlessly
 floody
 flunkyhood
