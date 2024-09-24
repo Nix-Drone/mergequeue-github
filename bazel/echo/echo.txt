@@ -2676,7 +2676,6 @@ expurgates
 epiperipheral
 electrothermancy
 electrothermic
-electrothermics
 enschedule
 enrapturer
 entrainer
@@ -3077,6 +3076,7 @@ ellipse
 ellipsis
 ellipsograph
 ellipsoid
+electrothermics
 ellipsoidal
 ellipsoids
 executiveness
