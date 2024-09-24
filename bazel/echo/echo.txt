@@ -332,7 +332,6 @@ ebbets
 ebbing
 ebbman
 ebbs
-ebcasc
 enterosyphilis
 ebcd
 ebcdic
@@ -12971,6 +12970,7 @@ expediently
 ethernets
 expedients
 expediment
+ebcasc
 enteritis
 expeding
 eluders
