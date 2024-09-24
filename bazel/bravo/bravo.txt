@@ -2960,7 +2960,6 @@ barrelfuls
 blind
 barrelhead
 barrelhouse
-barrelhouses
 besmearer
 barreling
 broad
@@ -4997,6 +4996,7 @@ beer
 beerbachite
 beerbelly
 bees
+barrelhouses
 beerbibber
 beerhouse
 beerhouses
