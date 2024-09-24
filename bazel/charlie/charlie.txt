@@ -17516,7 +17516,6 @@ coccids
 cocciferous
 cocciform
 coccygalgia
-coccygeal
 coccygean
 coccygectomy
 coccigenic
@@ -28291,6 +28290,7 @@ crawfishes
 castelet
 crawfishing
 crawfoot
+coccygeal
 crawfoots
 contortional
 crawful
