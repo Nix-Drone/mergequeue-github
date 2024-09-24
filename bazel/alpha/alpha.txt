@@ -2702,7 +2702,6 @@ acquirable
 antares
 acquire
 acquired
-acquirement
 acquirements
 acquirer
 acquirers
@@ -15283,6 +15282,7 @@ adarticulation
 antifowl
 arthrolite
 anthropomorphization
+acquirement
 antifreeze
 antifreezes
 antifreezing
