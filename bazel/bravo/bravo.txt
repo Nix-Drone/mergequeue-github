@@ -5620,7 +5620,6 @@ brandishers
 belait
 biface
 belaites
-belam
 belamcanda
 belamy
 belamour
@@ -11936,6 +11935,7 @@ brushers
 boguing
 bogum
 bogus
+belam
 bogwoods
 bohairic
 bohawn
