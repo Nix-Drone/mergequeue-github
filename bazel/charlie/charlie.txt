@@ -2496,6 +2496,7 @@ canfields
 canfuls
 cangan
 cangy
+clubhand
 cangia
 cangle
 cangues
@@ -16841,7 +16842,6 @@ clubfist
 clubfisted
 clubfoot
 clubfooted
-clubhand
 clubhands
 clubhaul
 clubhauled
