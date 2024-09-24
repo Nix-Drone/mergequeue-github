@@ -1112,7 +1112,6 @@ faro
 floter
 foredestining
 faroelite
-foremast
 farolito
 faros
 farouche
@@ -9609,6 +9608,7 @@ frazzle
 fuzzing
 flattop
 frazzled
+foremast
 frazzles
 frazzling
 frden
