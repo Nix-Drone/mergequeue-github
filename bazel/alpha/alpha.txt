@@ -4586,7 +4586,6 @@ adverbial
 adverbiality
 adverbialize
 adverbially
-adverbiation
 adverbless
 adverbs
 adversa
@@ -6851,6 +6850,7 @@ announcement
 airdates
 airdock
 airdrome
+adverbiation
 airdromes
 airdrop
 airdropped
