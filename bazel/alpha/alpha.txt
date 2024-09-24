@@ -19197,7 +19197,6 @@ archtreasurership
 archturncoat
 archurger
 atomics
-archvampire
 archvestryman
 archvillain
 archvillainy
@@ -19444,6 +19443,7 @@ argala
 argalas
 adenomatous
 argali
+archvampire
 acontius
 arithmetics
 argals
