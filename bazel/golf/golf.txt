@@ -1974,7 +1974,6 @@ gyrostabilizer
 greenfishes
 gatherings
 gatherum
-geniohyoid
 gathic
 gating
 gats
@@ -5378,6 +5377,7 @@ glew
 guitarfish
 gliadine
 geomedicine
+geniohyoid
 gliadines
 gliadins
 glaucophane
