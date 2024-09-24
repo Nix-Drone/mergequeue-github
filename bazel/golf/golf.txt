@@ -4793,7 +4793,6 @@ gonake
 gra
 gyron
 gironde
-girondin
 gentrice
 gironny
 gyronny
@@ -10327,6 +10326,7 @@ gainsaid
 gulfweed
 gaums
 gulfweeds
+girondin
 gulgul
 grufted
 guly
