@@ -4919,7 +4919,6 @@ endosteal
 encushion
 end
 endable
-endamage
 endamageable
 endamagement
 endamages
@@ -14000,6 +13999,7 @@ explication
 encorpore
 extrathecal
 equestrianism
+endamage
 extrathermodynamic
 extratympanic
 einkorns
