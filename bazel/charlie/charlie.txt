@@ -1630,7 +1630,6 @@ calpacked
 calpacks
 calpacs
 calpolli
-calpul
 calpulli
 calque
 calqued
@@ -7092,6 +7091,7 @@ centillionth
 centiloquy
 centimes
 centimeters
+calpul
 centimetre
 cashmerette
 centimetres
