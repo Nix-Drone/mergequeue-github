@@ -11321,7 +11321,6 @@ chlorodizing
 chloroethene
 chloroethylene
 chlorofluorocarbon
-chloroformate
 chloroformed
 chloroformic
 chatino
@@ -17829,6 +17828,7 @@ codman
 codol
 codomain
 codominant
+chloroformate
 codon
 crystallographical
 codons
