@@ -4824,6 +4824,7 @@ bedrizzle
 bedrocks
 bedroll
 bedrolls
+buffball
 bedroom
 bedrooms
 bisymmetrically
@@ -16810,7 +16811,6 @@ buffaloes
 botheration
 buffaloing
 buffalos
-buffball
 buffcoat
 buffe
 beauish
