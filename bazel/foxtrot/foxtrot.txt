@@ -4799,7 +4799,6 @@ frontspiece
 flagpole
 faunula
 figurehead
-flagpoles
 flagrance
 flagrancy
 filiform
@@ -11460,6 +11459,7 @@ furnishing
 facets
 fireboxes
 furnishings
+flagpoles
 fudges
 felup
 filaceous
