@@ -4834,7 +4834,6 @@ aequi
 aequian
 arariba
 aequiculi
-aequipalpia
 aequor
 aequoreal
 aequorin
@@ -23302,6 +23301,7 @@ audiencia
 aerobacters
 audiencier
 audient
+aequipalpia
 audients
 audile
 angelique
