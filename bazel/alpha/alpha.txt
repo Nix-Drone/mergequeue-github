@@ -6871,6 +6871,7 @@ airfare
 amyctic
 airfares
 airfield
+asterolepis
 airflow
 airflows
 airfoil
@@ -22046,7 +22047,6 @@ asterochiton
 asteroid
 asteroids
 asterolepidae
-asterolepis
 asterope
 asterophyllite
 asterophyllites
