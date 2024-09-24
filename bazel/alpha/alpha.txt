@@ -10534,7 +10534,6 @@ amylolysis
 amylolytic
 amylom
 amylometer
-amylopectin
 amylophagia
 amylophosphate
 amylophosphoric
@@ -13838,6 +13837,7 @@ anoplotheriidae
 accompli
 anoplotherioid
 anoplotherium
+amylopectin
 arrowed
 anoplura
 anopluriform
