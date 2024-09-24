@@ -6087,7 +6087,6 @@ enmity
 ethicizes
 enmities
 enmoss
-enmove
 enmuffle
 enneacontahedron
 ennead
@@ -6649,6 +6648,7 @@ enteroclysis
 enterococcal
 enterococcus
 enterocoel
+enmove
 enterocoela
 enterocoelous
 easterliness
