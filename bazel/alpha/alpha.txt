@@ -4818,7 +4818,6 @@ aeolomelodicon
 aeolotropy
 aeolotropic
 aureate
-aeolsklavier
 aeolus
 aeon
 aeonic
@@ -13348,6 +13347,7 @@ anisopodal
 anisopogonous
 anisoptera
 anisopteran
+aeolsklavier
 arunta
 anisopterous
 anisosepalous
