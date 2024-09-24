@@ -15343,7 +15343,6 @@ antihelixes
 antihelminthic
 antihemagglutinin
 antihemisphere
-antihemolysin
 antihemophilic
 antihemorrhagic
 antihemorrheidal
@@ -15431,6 +15430,7 @@ antileveling
 antilevelling
 autosuggestive
 antilia
+antihemolysin
 antiliberal
 antiliberalist
 antiliberalistic
