@@ -9554,7 +9554,6 @@ calor
 checkouts
 checkpoint
 checkpointed
-checkpointing
 checkpoints
 commonize
 checkrack
@@ -22910,6 +22909,7 @@ consilience
 consilient
 consimilar
 consimilate
+checkpointing
 carnified
 consimilated
 consimilating
