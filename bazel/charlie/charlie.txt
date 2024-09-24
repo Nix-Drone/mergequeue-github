@@ -17152,7 +17152,6 @@ coaled
 coaler
 coalers
 coalesce
-coalescence
 cellarless
 coalescency
 coalescent
@@ -24747,6 +24746,7 @@ copters
 coptic
 coptine
 copula
+coalescence
 cavu
 copulable
 coroscopy
