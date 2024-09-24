@@ -9848,6 +9848,7 @@ bitser
 bitsy
 bitstock
 bitstocks
+blypes
 bitstone
 bitt
 bitted
@@ -10884,7 +10885,6 @@ blintzes
 blip
 biassed
 bluming
-blypes
 bleaberry
 blippers
 barkeep
