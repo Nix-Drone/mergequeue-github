@@ -7861,7 +7861,6 @@ cervinae
 cervine
 cervisial
 cervix
-cervixes
 cervoid
 cervuline
 cervulus
@@ -14743,6 +14742,7 @@ cystoscope
 cystoscopic
 cystoscopies
 cystose
+cervixes
 cystosyrinx
 cystospasm
 cystospastic
