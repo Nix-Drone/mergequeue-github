@@ -3507,7 +3507,6 @@ carabus
 caracal
 caracara
 carack
-caracks
 caracoa
 caracol
 caracoled
@@ -14937,6 +14936,7 @@ cytolytic
 cytology
 cytologically
 cytologist
+caracks
 coranoch
 cytologists
 caperdewsie
