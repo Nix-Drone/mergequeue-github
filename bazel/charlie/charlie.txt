@@ -23201,7 +23201,6 @@ constructors
 constructorship
 constructs
 construe
-construer
 construers
 construes
 constuctor
@@ -28224,6 +28223,7 @@ cratches
 cratchins
 crate
 crated
+construer
 cytotoxicity
 crateful
 cratemaker
