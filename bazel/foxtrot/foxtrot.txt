@@ -5469,6 +5469,7 @@ fleshmonger
 fleshpot
 fleshquake
 flet
+forgivable
 flagfall
 fleta
 fletched
@@ -8248,7 +8249,6 @@ forgetters
 forgettingly
 forgings
 finnip
-forgivable
 forgive
 foundational
 forgiveable
