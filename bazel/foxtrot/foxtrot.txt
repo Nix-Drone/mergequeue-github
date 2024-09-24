@@ -4043,6 +4043,7 @@ finishable
 finisher
 finishers
 finishes
+footfault
 finishing
 finitary
 finite
@@ -7161,7 +7162,6 @@ ferruling
 filoselle
 footfalls
 footfarer
-footfault
 forehandedly
 footfolk
 foveolated
