@@ -3614,7 +3614,6 @@ filemot
 foreknee
 filename
 filenames
-filer
 fanons
 filers
 files
@@ -4686,6 +4685,7 @@ flabbergasting
 flabbergastingly
 flabbergasts
 flabel
+filer
 flabella
 flabellate
 fibrinogenically
