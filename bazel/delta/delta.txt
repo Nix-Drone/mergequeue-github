@@ -3417,6 +3417,7 @@ deflea
 defleaed
 damnum
 defleas
+devotions
 deflect
 driftfishes
 deflectable
@@ -7769,7 +7770,6 @@ devotionary
 deckhands
 devotionate
 diadochokinesis
-devotions
 discorrespondency
 dimensions
 devoto
