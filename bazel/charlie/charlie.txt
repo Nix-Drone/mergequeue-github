@@ -2119,7 +2119,6 @@ campsite
 compasser
 campsites
 campstool
-campstools
 camptodrome
 camptonite
 camptosorus
@@ -11044,6 +11043,7 @@ chisellike
 chiselling
 chiselmouth
 chisels
+campstools
 chisled
 clarkeites
 chistera
