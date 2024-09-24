@@ -7374,7 +7374,6 @@ detrudes
 driblet
 distalia
 detruding
-detruncate
 detruncating
 detruncation
 damneder
@@ -16610,6 +16609,7 @@ dragomanish
 debruise
 disspreading
 dragomans
+detruncate
 dragon
 dragonade
 dactylopius
