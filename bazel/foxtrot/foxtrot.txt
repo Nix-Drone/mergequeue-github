@@ -2235,7 +2235,6 @@ feltman
 foulard
 foredeep
 feltmonger
-felts
 feltwort
 felucca
 felwort
@@ -8508,6 +8507,7 @@ forms
 formula
 formulae
 formulaically
+felts
 foggy
 formularies
 formularisation
