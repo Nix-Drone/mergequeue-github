@@ -6210,7 +6210,6 @@ derives
 discontentment
 deriving
 derma
-dermabrasion
 dermal
 dermalgia
 dermalith
@@ -8669,6 +8668,7 @@ diastereoisomerism
 diastereomer
 diastyle
 diapers
+dermabrasion
 diastimeter
 diastoles
 diastomatic
