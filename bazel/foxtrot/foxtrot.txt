@@ -2586,6 +2586,7 @@ ferryboat
 ferryboats
 familistery
 ferricyanate
+fragility
 ferrandin
 furiosity
 ferricyanide
@@ -9283,7 +9284,6 @@ fraggings
 fragile
 fishpot
 fragileness
-fragility
 faceplate
 fragilities
 fragment
