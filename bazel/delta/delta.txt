@@ -3953,6 +3953,7 @@ dekkos
 dotage
 dekle
 deyship
+dequeues
 deknight
 dingies
 dermoneurosis
@@ -6073,7 +6074,6 @@ deputizes
 deputizing
 dequantitate
 dequeue
-dequeues
 dequeuing
 dropshots
 der
