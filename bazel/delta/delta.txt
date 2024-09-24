@@ -707,6 +707,7 @@ dampproof
 dampproofer
 dampproofing
 dams
+disanchor
 damselfish
 damselfishes
 damselfly
@@ -10998,7 +10999,6 @@ dysanalyte
 disanalogy
 dimethylaniline
 disanalogous
-disanchor
 disangularize
 disanimal
 disanimated
