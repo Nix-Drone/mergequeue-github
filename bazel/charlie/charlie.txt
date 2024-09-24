@@ -2992,7 +2992,6 @@ capacitativly
 capacitator
 capacity
 capacities
-capacitive
 capacitively
 capacitor
 capanna
@@ -14647,6 +14646,7 @@ cysterethism
 cisterna
 cisternae
 cisternal
+capacitive
 cisterns
 cistic
 cystic
