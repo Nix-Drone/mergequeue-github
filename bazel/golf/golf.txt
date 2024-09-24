@@ -3291,6 +3291,7 @@ ger
 geraera
 gobernadora
 galban
+greeting
 geogony
 gerah
 gerahs
@@ -8746,7 +8747,6 @@ greese
 greeshoch
 greeter
 googly
-greeting
 greets
 gliffing
 greffe
