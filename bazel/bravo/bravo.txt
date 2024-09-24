@@ -4748,6 +4748,7 @@ bedizens
 bedkey
 bedlam
 bourses
+beneficiaire
 bedlamer
 bedlamic
 booked
@@ -6218,7 +6219,6 @@ braccae
 beneficential
 benefices
 beshrew
-beneficiaire
 blacker
 blotchily
 beneficial
