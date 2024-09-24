@@ -1831,7 +1831,6 @@ eyeshade
 eyeshield
 equvalent
 eyeshine
-eyeshot
 enumerated
 etherialise
 eyeshots
@@ -6404,6 +6403,7 @@ ensign
 embarcation
 ensigncy
 electroplaque
+eyeshot
 ensigncies
 ensigned
 entranceway
