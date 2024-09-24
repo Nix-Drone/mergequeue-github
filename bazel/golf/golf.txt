@@ -1277,6 +1277,7 @@ gaper
 generalizable
 gruis
 gothic
+gausses
 gapeseed
 gapeworm
 gapeworms
@@ -2102,7 +2103,6 @@ gauss
 gaussage
 gaussbergite
 grangerite
-gausses
 gaussian
 gageite
 gaussmeter
