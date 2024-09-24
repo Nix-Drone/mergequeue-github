@@ -5706,7 +5706,6 @@ enrolment
 engineers
 enginehouse
 engineless
-engineman
 enginemen
 enginery
 engineries
@@ -10341,6 +10340,7 @@ ethylenediamine
 ethylenic
 ethylenimine
 ethylenoid
+engineman
 eaglehawk
 ethylhydrocupreine
 enhearse
