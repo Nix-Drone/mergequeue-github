@@ -5022,6 +5022,7 @@ endexines
 eardrum
 endgate
 enfief
+ensnared
 endhand
 endia
 endiablee
@@ -6444,7 +6445,6 @@ enslaving
 epiphyseolysis
 enslumber
 ensnare
-ensnared
 explosive
 ensnarement
 ensnarer
