@@ -2185,6 +2185,7 @@ banqueted
 banqueter
 banqueters
 banqueting
+boomable
 banquets
 banquette
 bans
@@ -12739,7 +12740,6 @@ booly
 boolya
 blebs
 boom
-boomable
 boomah
 boo
 baritonal
