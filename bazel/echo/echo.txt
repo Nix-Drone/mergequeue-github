@@ -580,7 +580,6 @@ encrimson
 echinomys
 erythrene
 echinopanax
-echinops
 echinopsine
 egotist
 echinorhynchus
@@ -6662,6 +6661,7 @@ egrimonle
 enterogenous
 enterogram
 enterograph
+echinops
 enterography
 enterohemorrhage
 enterohydrocele
