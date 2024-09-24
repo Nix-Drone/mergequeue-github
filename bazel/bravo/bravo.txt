@@ -1680,7 +1680,6 @@ ballplayer
 ballplayers
 ballplatz
 bedrabbled
-ballpoint
 ballproof
 ballrooms
 balls
@@ -5233,6 +5232,7 @@ begarlanded
 ballistocardiographic
 begarnish
 begartered
+ballpoint
 begass
 begats
 bestrows
