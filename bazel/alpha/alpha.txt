@@ -8490,7 +8490,6 @@ alkylamino
 alkylarylsulfonate
 alkylate
 alkylated
-alkylates
 alkylating
 alkylation
 alkylbenzenesulfonate
@@ -22382,6 +22381,7 @@ antisymmetry
 atabeg
 atabek
 alexandreid
+alkylates
 atabrine
 atacaman
 atacamenan
