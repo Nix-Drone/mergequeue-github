@@ -9539,7 +9539,6 @@ birthmark
 birthmarks
 birthmate
 birthnight
-birthplace
 birthplaces
 backfilled
 birthrates
@@ -17250,6 +17249,7 @@ bulrushy
 blechnoid
 bulrushlike
 biomorphic
+birthplace
 bulse
 bult
 bultey
