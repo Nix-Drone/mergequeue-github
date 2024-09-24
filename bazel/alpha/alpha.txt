@@ -8644,7 +8644,6 @@ autarkical
 allergenicity
 allergia
 allergies
-allergin
 allergins
 allergist
 allergists
@@ -20974,6 +20973,7 @@ ascidicolous
 ascidiferous
 ascidiform
 ascidioid
+allergin
 ascidioida
 ascidioidea
 ascidiozoa
