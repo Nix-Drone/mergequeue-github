@@ -853,7 +853,6 @@ glomeruli
 galvanothermy
 galvanothermometer
 galinaceous
-galvanotonic
 guaco
 galvo
 gangliac
@@ -8187,6 +8186,7 @@ gingall
 graphitizing
 graphoanalytical
 grapholite
+galvanotonic
 gargoylishly
 graphological
 geomorphologist
