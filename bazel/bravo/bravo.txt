@@ -2390,7 +2390,6 @@ budlike
 barbered
 barberfish
 barberite
-barbermonger
 benedictional
 ballooned
 barbero
@@ -12968,6 +12967,7 @@ beringite
 bordroom
 borinqueno
 bordun
+barbermonger
 bordure
 bordures
 bore
