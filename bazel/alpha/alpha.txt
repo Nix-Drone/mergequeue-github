@@ -5670,7 +5670,6 @@ afterpiece
 afterplanting
 afterpotential
 autolysis
-afterpressure
 afterproof
 afterrake
 afterreckoning
@@ -10979,6 +10978,7 @@ ampelopsidin
 ampelopsin
 abirritative
 ampelopsis
+afterpressure
 acetamids
 ampelosicyos
 arline
