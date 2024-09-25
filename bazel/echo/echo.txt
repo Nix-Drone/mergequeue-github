@@ -6524,6 +6524,7 @@ ephyra
 entablature
 emigrated
 exstruct
+epoch
 epitaxially
 entablement
 entablements
@@ -8468,7 +8469,6 @@ equip
 eglogue
 epizootology
 eplot
-epoch
 epocha
 eumitosis
 epoche
