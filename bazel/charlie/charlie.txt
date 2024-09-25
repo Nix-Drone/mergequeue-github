@@ -2993,7 +2993,6 @@ capacitator
 capacity
 capacities
 capacitive
-capacitively
 capacitor
 capanna
 capanne
@@ -24546,6 +24545,7 @@ cophosis
 cophouse
 copy
 copia
+capacitively
 cogitativeness
 copiable
 copiapite
