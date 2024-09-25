@@ -3801,7 +3801,6 @@ baldly
 boyar
 battledoring
 borehole
-battlefront
 battlefronts
 battleful
 butterburr
@@ -14606,6 +14605,7 @@ bronzesmith
 brasserie
 brasses
 brakehand
+battlefront
 biographically
 brassy
 brassica
