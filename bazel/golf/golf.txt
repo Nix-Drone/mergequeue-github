@@ -282,6 +282,7 @@ gym
 gibs
 gainfulness
 gaingiving
+gearshifts
 gainyield
 grafter
 gaining
@@ -2262,7 +2263,6 @@ gears
 guernseys
 gearset
 gearshift
-gearshifts
 gearwheels
 glistening
 gease
