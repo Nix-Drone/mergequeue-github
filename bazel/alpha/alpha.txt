@@ -2314,6 +2314,7 @@ achromatism
 achromatizable
 achromatization
 achromatize
+aneuric
 amalgam
 achromatizing
 achromatocyte
@@ -12598,7 +12599,6 @@ aneuploid
 alternater
 aneuploidy
 aneuria
-aneuric
 aneurilemmic
 aneurin
 aneurine
