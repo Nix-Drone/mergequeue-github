@@ -6504,7 +6504,6 @@ benzothiazoline
 benzothiodiazole
 benzothiofuran
 benzothiophene
-benzothiopyran
 benzotoluide
 believableness
 benzotriazine
@@ -10673,6 +10672,7 @@ buffaloed
 blendwater
 blenheim
 blenk
+benzothiopyran
 blennadenitis
 basihyal
 burbled
