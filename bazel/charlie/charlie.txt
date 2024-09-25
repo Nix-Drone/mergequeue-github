@@ -2279,7 +2279,6 @@ collaborated
 canceling
 cancellability
 cancellable
-cancellarius
 cancellate
 cancellation
 cancellations
@@ -16703,6 +16702,7 @@ clothesyard
 clothesless
 clothesline
 clotheslines
+cancellarius
 clothesman
 cosuitor
 clothesmen
