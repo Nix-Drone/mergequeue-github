@@ -3052,7 +3052,6 @@ economizing
 electrophoretic
 elkslip
 elkuma
-elkwood
 ella
 equipoises
 electrothermostat
@@ -7666,6 +7665,7 @@ epicycle
 expectance
 epiclike
 epiclinal
+elkwood
 epicnemial
 epicoele
 epicoelia
