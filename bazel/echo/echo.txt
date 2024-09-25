@@ -2604,7 +2604,6 @@ electropult
 electropuncturation
 electropuncture
 electroreceptive
-electroreduction
 electrorefine
 electroresection
 ecophobia
@@ -6706,6 +6705,7 @@ ethions
 evocatively
 enterorrhaphy
 enteroscope
+electroreduction
 eternity
 enteroscopy
 enterosepsis
