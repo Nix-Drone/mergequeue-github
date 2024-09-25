@@ -3802,7 +3802,6 @@ dehumidify
 dehumidified
 dehumidifier
 dehumidifiers
-dehumidifies
 dehumidifying
 duds
 dignosce
@@ -12569,6 +12568,7 @@ disjunctive
 disjunctively
 disjunctor
 disjuncts
+dehumidifies
 dereferences
 disjuncture
 disjune
