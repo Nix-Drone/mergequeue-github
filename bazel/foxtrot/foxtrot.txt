@@ -6944,6 +6944,7 @@ folktales
 folkvangr
 foll
 foller
+foredays
 folles
 formalisation
 folletage
@@ -7610,7 +7611,6 @@ fers
 fulmen
 farmhands
 furuncles
-foredays
 fanal
 farers
 fivefoldness
