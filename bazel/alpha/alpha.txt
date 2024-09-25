@@ -19198,7 +19198,6 @@ archturncoat
 archurger
 atomics
 archvampire
-archvestryman
 archvillain
 archvillainy
 archvisitor
@@ -19313,6 +19312,7 @@ ardour
 ardours
 ardri
 ardu
+archvestryman
 accessit
 agitpropist
 arduous
