@@ -8351,7 +8351,6 @@ fragrancies
 forlane
 forleave
 forleaving
-forleit
 futuristic
 forlese
 forlet
@@ -10034,6 +10033,7 @@ frigage
 frigate
 frigates
 frigatoon
+forleit
 frigged
 frigger
 fright
