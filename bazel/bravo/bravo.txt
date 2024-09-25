@@ -1900,7 +1900,6 @@ barricos
 bandboxical
 bandcase
 bandcutter
-bande
 bandeau
 bandeaux
 betula
@@ -7924,6 +7923,7 @@ bibliog
 bibliogenesis
 bibliognost
 benzophenanthroline
+bande
 bibliognostic
 bibliogony
 bibliographer
