@@ -2309,7 +2309,6 @@ achromate
 achromatiaceae
 achromatic
 achromatically
-achromatisation
 achromatism
 achromatizable
 achromatization
@@ -20494,6 +20493,7 @@ arterin
 arterioarctia
 arteriocapillary
 arteriococcygeal
+achromatisation
 arteriodialysis
 arteriogenesis
 arteriograph
