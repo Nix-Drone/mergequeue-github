@@ -6403,7 +6403,6 @@ ensiform
 ensign
 embarcation
 ensigncy
-electroplaque
 ensigncies
 ensigned
 entranceway
@@ -6534,6 +6533,7 @@ endpleasure
 entada
 entail
 entailable
+electroplaque
 esophagectomy
 entailed
 entailer
