@@ -2781,7 +2781,6 @@ fraze
 forbidder
 festiveness
 festivity
-festology
 flowerer
 frasco
 feston
@@ -8455,6 +8454,7 @@ formicarioid
 formicaroid
 formicate
 folkland
+festology
 formicated
 franchiser
 formicating
