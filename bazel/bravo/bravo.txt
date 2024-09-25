@@ -2113,7 +2113,6 @@ bankmen
 banknote
 barrelet
 badaud
-banknotes
 bankrider
 brachycome
 bedlamising
@@ -6080,6 +6079,7 @@ bothersomeness
 bemoil
 bemoisten
 bemolt
+banknotes
 bort
 biogeographers
 bemonster
