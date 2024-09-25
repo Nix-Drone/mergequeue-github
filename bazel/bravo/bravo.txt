@@ -2833,7 +2833,6 @@ baronetize
 baronetizing
 baronets
 baronetship
-barong
 baronga
 barongs
 barony
@@ -8505,6 +8504,7 @@ bookmen
 bilalo
 bilamellar
 bilamellate
+barong
 bilamellated
 bilaminar
 bilaminate
