@@ -1987,6 +1987,7 @@ decahedral
 decahedron
 damageableness
 decahedrons
+defaceable
 decahydrate
 decahydronaphthalene
 decay
@@ -3120,7 +3121,6 @@ deewans
 def
 deface
 dehydrogenising
-defaceable
 defacement
 defacements
 diffractive
