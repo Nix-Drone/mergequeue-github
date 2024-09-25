@@ -5217,6 +5217,7 @@ glassmen
 glassophone
 glassrope
 glassteel
+geographics
 gnathic
 guestship
 glasswork
@@ -7975,7 +7976,6 @@ grandstander
 grandstanding
 grandstands
 grandtotal
-geographics
 granduncle
 granduncles
 grane
