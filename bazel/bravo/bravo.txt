@@ -12407,6 +12407,7 @@ bondmen
 bondminder
 bondoc
 bondon
+bowsman
 bructeri
 brooders
 bondservant
@@ -13811,7 +13812,6 @@ bacalaos
 bowmaker
 bowman
 brambleberries
-bowsman
 bowmen
 bown
 bowne
