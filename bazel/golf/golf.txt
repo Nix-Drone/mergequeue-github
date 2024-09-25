@@ -2982,6 +2982,7 @@ gentries
 gigged
 glowing
 galaxies
+glew
 genu
 glycogenetic
 genua
@@ -5374,7 +5375,6 @@ glenoidal
 glent
 gedrite
 glenwood
-glew
 guitarfish
 gliadine
 geomedicine
