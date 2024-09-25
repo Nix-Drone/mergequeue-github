@@ -8132,7 +8132,6 @@ foretop
 foretopman
 foretopmast
 foretopmen
-foretops
 foretrace
 foreuse
 foreutter
@@ -11481,6 +11480,7 @@ fibry
 furore
 furphy
 furcated
+foretops
 feower
 fatiguable
 furred
