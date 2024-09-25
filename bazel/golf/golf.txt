@@ -4754,7 +4754,6 @@ gallies
 giro
 glossae
 gyro
-gyroceran
 gallery
 guildsman
 golliwogg
@@ -7539,6 +7538,7 @@ gemmates
 gownsmen
 glyoxime
 gowpen
+gyroceran
 gowpin
 gox
 gozill
