@@ -6137,7 +6137,6 @@ benches
 benchfellow
 burglary
 benchful
-benchy
 benchland
 benchless
 benchlet
@@ -11791,6 +11790,7 @@ beribers
 bodykins
 bodiless
 bodyless
+benchy
 bodiliness
 bodilize
 bodymaking
