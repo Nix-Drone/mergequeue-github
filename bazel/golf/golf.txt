@@ -1223,7 +1223,6 @@ geologian
 griphosaurus
 gavotte
 ganoidian
-ganoids
 gasterophilus
 ganoine
 ganomalite
@@ -10755,6 +10754,7 @@ guttae
 guttate
 gulfwards
 gaylussacia
+ganoids
 gasconader
 guttated
 guttation
