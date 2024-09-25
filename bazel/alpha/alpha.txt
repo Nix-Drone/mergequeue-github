@@ -9052,7 +9052,6 @@ accipitres
 allwhither
 allwork
 allworthy
-audios
 alma
 almacantar
 almacenista
@@ -19667,6 +19666,7 @@ arias
 aryballi
 aryballoi
 antithesize
+audios
 aryballoid
 aryballos
 aryballus
