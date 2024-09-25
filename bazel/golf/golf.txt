@@ -500,7 +500,6 @@ ganglia
 galeodidae
 galeoid
 gnapweed
-galeopsis
 glossoncus
 galeorchis
 goner
@@ -1629,6 +1628,7 @@ gasman
 gasmen
 gasmetophytic
 gasogen
+galeopsis
 gasogene
 gasogenic
 gasohol
