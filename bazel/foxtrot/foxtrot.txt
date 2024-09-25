@@ -2220,7 +2220,6 @@ felspars
 friendlily
 felspath
 felspathose
-felstone
 framers
 farmhouses
 felt
@@ -8192,6 +8191,7 @@ fluormeter
 forfeits
 forfeitures
 forfend
+felstone
 forfended
 forfending
 forfends
