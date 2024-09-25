@@ -8843,7 +8843,6 @@ alloisomerism
 allokinetic
 allokurtic
 allolalia
-allolalic
 allomerism
 allomerization
 allomerize
@@ -13651,6 +13650,7 @@ annuloida
 annulosa
 annulosan
 annulose
+allolalic
 annuls
 annulus
 annuluses
