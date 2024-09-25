@@ -1561,7 +1561,6 @@ acclamator
 acclamatory
 acclimatable
 acclimatation
-acclimate
 absinthian
 acclimated
 acclimatement
@@ -5275,6 +5274,7 @@ affectuous
 affectus
 atresias
 affeer
+acclimate
 affeerer
 affeerment
 affeeror
