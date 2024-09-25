@@ -451,7 +451,6 @@ eccyesis
 eccl
 eccles
 entropies
-ecclesia
 ecclesiarchy
 esthetician
 ecclesiast
@@ -2389,6 +2388,7 @@ electrodepositable
 extemporaneousness
 electrification
 electrodeposition
+ecclesia
 electrodepositor
 escalation
 electrodes
