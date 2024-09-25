@@ -3051,6 +3051,7 @@ bartenders
 bartending
 barter
 barterer
+beringite
 barterers
 bartering
 barters
@@ -12964,7 +12965,6 @@ bordman
 bordrag
 bordrage
 biophysicochemical
-beringite
 bordroom
 borinqueno
 bordun

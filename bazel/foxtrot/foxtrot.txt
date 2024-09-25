@@ -1845,7 +1845,6 @@ feature
 forthrightly
 featured
 featureful
-featurelessness
 featurely
 featureliness
 flywheel
@@ -5961,6 +5960,7 @@ floosies
 floozy
 floozie
 flop
+featurelessness
 floperoo
 flophouse
 flophouses
