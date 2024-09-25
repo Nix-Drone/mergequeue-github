@@ -2757,7 +2757,6 @@ congenialize
 canst
 canstick
 cant
-cantabank
 cantabile
 cantabri
 christianism
@@ -31036,6 +31035,7 @@ cunea
 cuneal
 cuneately
 cuneatic
+cantabank
 cuneator
 cunei
 cuneiform
