@@ -549,7 +549,6 @@ backtenter
 backtrack
 backtracked
 backtracker
-backtracking
 backtracks
 backtrail
 backups
@@ -3259,6 +3258,7 @@ bathtub
 baccate
 basification
 basifier
+backtracking
 basifies
 basifying
 basifixed
