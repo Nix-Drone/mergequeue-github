@@ -6847,7 +6847,6 @@ dichromasy
 desoxyanisoin
 desoxycorticosterone
 desoxyephedrine
-desoxymorphine
 desoxyribonucleic
 desoxyribonucleoprotein
 desoxyribose
@@ -12939,6 +12938,7 @@ disparts
 dispassion
 dioecism
 dispassionateness
+desoxymorphine
 daughterhood
 dispassioned
 dispatch
