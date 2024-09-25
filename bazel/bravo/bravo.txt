@@ -13816,7 +13816,6 @@ bowmen
 bown
 bowne
 bowpot
-bowpots
 blitheful
 bows
 bowsaw
@@ -18029,6 +18028,7 @@ bushwood
 busy
 busybody
 busybodied
+bowpots
 busybodies
 busybodyish
 busybodyism
