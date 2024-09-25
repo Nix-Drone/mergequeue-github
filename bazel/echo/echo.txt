@@ -7939,7 +7939,6 @@ epilate
 epilating
 enforceable
 epilation
-epilator
 epilemma
 epileny
 epilepsies
@@ -12551,6 +12550,7 @@ exiling
 escheatable
 exility
 exilition
+epilator
 eximious
 eximiously
 exinanite
