@@ -2980,6 +2980,7 @@ eliminator
 earmarked
 engineering
 eliminators
+envois
 elymus
 elinguate
 elinguated
@@ -7217,7 +7218,6 @@ evangelicism
 enshadow
 envoi
 envoy
-envois
 envoys
 envoyship
 envolume
