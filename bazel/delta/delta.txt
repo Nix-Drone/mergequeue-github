@@ -3580,7 +3580,6 @@ dollface
 defunctionalization
 defunctionalize
 defunctive
-defused
 defuses
 defusion
 dingles
@@ -5528,6 +5527,7 @@ divaricate
 deorganize
 deorientalize
 deorsum
+defused
 deorsumvergence
 deorsumversion
 deorusumduction
