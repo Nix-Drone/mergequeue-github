@@ -800,7 +800,6 @@ galvanizers
 gujar
 galvanizes
 galvanizing
-galvanocautery
 galvanocauteries
 galvanofaradization
 galvanoglyph
@@ -5705,6 +5704,7 @@ globulariaceous
 globularity
 gelilah
 gainsome
+galvanocautery
 globularness
 garavance
 globule
