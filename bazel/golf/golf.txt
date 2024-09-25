@@ -3333,7 +3333,6 @@ gardencraft
 gerbil
 gerbilles
 groutnoll
-gunbearer
 gerbillus
 gerbils
 gourmands
@@ -4932,6 +4931,7 @@ gizmos
 gizz
 glamourizer
 glossanthrax
+gunbearer
 gizzard
 gladdon
 gussy
