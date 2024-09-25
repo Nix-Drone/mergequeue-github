@@ -6740,6 +6740,7 @@ celioscopy
 celiotomy
 cell
 cella
+cytocyst
 cellager
 cellar
 casaque
@@ -14886,7 +14887,6 @@ cytochemistry
 cytochylema
 cytochrome
 cytocide
-cytocyst
 cytoclasis
 cytoclastic
 coalheugh
