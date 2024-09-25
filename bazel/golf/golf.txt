@@ -2895,6 +2895,7 @@ gens
 glyoxyl
 ghyll
 gensengs
+glossary
 gynocardia
 glike
 gaulin
@@ -5106,7 +5107,6 @@ glamors
 goodwily
 glamour
 granita
-glossary
 glamourization
 glamourize
 glamourless
