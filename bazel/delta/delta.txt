@@ -3457,7 +3457,6 @@ deflower
 deflowered
 deflowerer
 deflowering
-defeating
 dissolving
 deflowerment
 deflowers
@@ -8759,6 +8758,7 @@ diazotization
 diazotize
 diazotized
 dib
+defeating
 dibasicity
 dishonorable
 dibbed
