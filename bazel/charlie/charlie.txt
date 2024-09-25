@@ -6903,7 +6903,6 @@ cementmaking
 cementoblast
 cementoma
 cements
-cementum
 cementwork
 cemetary
 cemetaries
@@ -29355,6 +29354,7 @@ crypts
 chapbooks
 crazedness
 crypturi
+cementum
 crypturidae
 cris
 cinemese
