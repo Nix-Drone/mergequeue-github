@@ -2056,6 +2056,7 @@ appendix
 acetylglycin
 acetylglycine
 acetylhydrazine
+alleles
 acetylic
 acetylid
 acetylide
@@ -8605,7 +8606,6 @@ alleys
 alleyway
 anarchs
 allele
-alleles
 allelic
 allelism
 allelisms
