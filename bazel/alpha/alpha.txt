@@ -5673,7 +5673,6 @@ autolysis
 afterpressure
 afterproof
 afterrake
-afterreckoning
 auxofluor
 afterrider
 afterripening
@@ -10505,6 +10504,7 @@ amylenes
 amylenol
 amiles
 amylic
+afterreckoning
 amylidene
 amylin
 amylo
