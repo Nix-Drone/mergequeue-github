@@ -1209,6 +1209,7 @@ calfish
 calfkill
 calfless
 calflike
+chant
 calfling
 calfret
 calfs
@@ -8733,7 +8734,6 @@ chansonnette
 chansonnier
 chansonniers
 chanst
-chant
 celandine
 chera
 chantant
