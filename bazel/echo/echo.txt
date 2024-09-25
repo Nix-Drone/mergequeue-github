@@ -6312,7 +6312,6 @@ enroot
 enrooted
 enroots
 encirclement
-enround
 enruin
 enrut
 ens
@@ -9761,6 +9760,7 @@ espadon
 espadrilles
 endamaged
 espagnole
+enround
 entitles
 espagnolette
 espaliered
