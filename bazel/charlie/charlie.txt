@@ -9318,6 +9318,7 @@ chattels
 chatter
 cerned
 chatterbag
+cordage
 chyme
 chatterbox
 chatterboxes
@@ -24934,7 +24935,6 @@ corcle
 corcopali
 cord
 continuums
-cordage
 cordages
 contin
 cordaitaceae
