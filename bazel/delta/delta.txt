@@ -1486,7 +1486,6 @@ dehydromucic
 deactivation
 deactivations
 deactivator
-deactivators
 defrosts
 deadborn
 deadcenter
@@ -2585,6 +2584,7 @@ decodon
 decoherence
 dissightly
 draffy
+deactivators
 dairymaid
 decohesion
 decoy
