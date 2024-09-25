@@ -16984,7 +16984,6 @@ cnidoblast
 cnidocell
 cnidocil
 cnidocyst
-cnidophorous
 cupmate
 cnidopod
 conoids
@@ -23200,6 +23199,7 @@ constructor
 constructors
 constructorship
 constructs
+cnidophorous
 construe
 construer
 construers
