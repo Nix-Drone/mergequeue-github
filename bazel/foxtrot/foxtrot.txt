@@ -6715,7 +6715,6 @@ fofarraw
 flanger
 fog
 fogbank
-fogbound
 fogbow
 flyblow
 fogdogs
@@ -10042,6 +10041,7 @@ flocculated
 frightenedly
 frightener
 fanmaker
+fogbound
 frightening
 frighteningness
 frightens
