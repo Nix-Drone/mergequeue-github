@@ -1921,7 +1921,6 @@ bandersnatch
 bandfile
 bandfiled
 bandfish
-bandgap
 bandh
 brownism
 bandhava
@@ -11270,6 +11269,7 @@ blowtorches
 blowtube
 blowup
 blowups
+bandgap
 blowzy
 blowzier
 blowzily
