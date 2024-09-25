@@ -5629,7 +5629,6 @@ flimsiness
 flinch
 flagleaf
 freighters
-forgone
 flinched
 flincher
 flinching
@@ -9839,6 +9838,7 @@ frenchmen
 flycaster
 fevery
 frenchness
+forgone
 finders
 frenchwomen
 frenetical
