@@ -13453,7 +13453,6 @@ dissavage
 decart
 dissaved
 dissaves
-dissaving
 dissavs
 disscepter
 drumbeater
@@ -16780,6 +16779,7 @@ draughtiest
 draughtily
 draughtman
 draughts
+dissaving
 draughtsboard
 draughtsman
 draughtsmanship
