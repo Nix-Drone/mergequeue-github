@@ -7844,6 +7844,7 @@ cervicispinal
 cervicitis
 cervicoauricular
 cervicobregmatic
+csi
 cervicobuccal
 cervicodynia
 cervicofacial
@@ -30367,7 +30368,6 @@ csch
 csect
 cholecystectomies
 csects
-csi
 csk
 csmp
 csp
