@@ -2232,7 +2232,6 @@ felting
 feltings
 feltmaking
 feltman
-foulard
 foredeep
 feltmonger
 felts
@@ -8361,6 +8360,7 @@ forletting
 forlive
 forloin
 forlore
+foulard
 forlorn
 foredestined
 forlornly
