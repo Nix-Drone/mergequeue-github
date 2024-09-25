@@ -2093,6 +2093,7 @@ decapodan
 decapodiform
 dissective
 decapodous
+drawplate
 decapper
 decapsulate
 decapsulation
@@ -16856,7 +16857,6 @@ dissyllabise
 diffidence
 drawoff
 drawout
-drawplate
 drawpoint
 draws
 drawshave
