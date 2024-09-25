@@ -9294,7 +9294,6 @@ bipetalous
 bucciniform
 biphase
 biphasic
-bps
 biphenylene
 biphenyls
 biphenol
@@ -12677,6 +12676,7 @@ bookman
 bidarka
 bookmark
 begarie
+bps
 bookmarker
 borderline
 bookmarks
