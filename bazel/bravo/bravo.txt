@@ -3047,7 +3047,6 @@ bartended
 betrayer
 bartender
 bess
-bartenders
 bartending
 barter
 barterer
@@ -13049,6 +13048,7 @@ borofluorin
 boroglycerate
 boroglycerine
 borohydride
+bartenders
 boronatrocalcite
 barranco
 boronia
