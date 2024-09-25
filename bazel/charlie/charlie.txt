@@ -16485,6 +16485,7 @@ crewer
 clockroom
 clocksmith
 clockwatcher
+crawlier
 clockworked
 clockworks
 clod
@@ -28304,7 +28305,6 @@ crawlerize
 crawlers
 crawly
 crawlie
-crawlier
 crawliest
 crawling
 crawlingly
