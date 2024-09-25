@@ -15191,7 +15191,6 @@ broadness
 bred
 bricking
 brickish
-brickkiln
 bricklayer
 bricklayers
 bisques
@@ -16923,6 +16922,7 @@ bugwort
 buhl
 buhlbuhl
 bark
+brickkiln
 buhls
 buhlwork
 buhlworks
