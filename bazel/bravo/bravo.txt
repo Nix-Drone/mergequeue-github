@@ -1896,6 +1896,7 @@ bandarlog
 bandbox
 bandboxes
 bandboxy
+bl
 barricos
 bandboxical
 bandcase
@@ -10033,7 +10034,6 @@ bkpt
 bocasine
 bks
 bkt
-bl
 blaasop
 blabbed
 blabbered
