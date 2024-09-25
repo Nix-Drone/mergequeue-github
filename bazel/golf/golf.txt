@@ -953,7 +953,6 @@ gemologies
 grooviness
 giltheads
 gossan
-gamelang
 gamelans
 gameless
 gentian
@@ -9555,6 +9554,7 @@ growlery
 growleries
 gowds
 growly
+gamelang
 germinally
 growliest
 gemses
