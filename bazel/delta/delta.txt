@@ -3406,7 +3406,6 @@ deflate
 deflated
 drynaria
 deflater
-deflates
 delime
 deflating
 deflation
@@ -6537,6 +6536,7 @@ dished
 deseasonalize
 desecrate
 desecrater
+deflates
 dipole
 desecrates
 demythologizes
