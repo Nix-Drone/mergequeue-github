@@ -5638,7 +5638,6 @@ catch
 catchable
 catchall
 catchcry
-colocates
 catched
 catcher
 catchers
@@ -9097,6 +9096,7 @@ cremated
 clavaria
 charneco
 charnels
+colocates
 carbolineate
 charnockite
 charnockites
