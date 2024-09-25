@@ -2263,7 +2263,6 @@ guernseys
 gearset
 gearshift
 gearshifts
-gearwheels
 glistening
 gease
 geat
@@ -4210,6 +4209,7 @@ gimirrai
 gymkhana
 gimlet
 glorification
+gearwheels
 gimleted
 grift
 gimleteyed
