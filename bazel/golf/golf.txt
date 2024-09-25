@@ -2264,7 +2264,6 @@ gearset
 gearshift
 gearshifts
 gearwheels
-glistening
 gease
 geat
 geb
@@ -4349,6 +4348,7 @@ germling
 gynaeolater
 gelatigenous
 gynander
+glistening
 gingeley
 griffinhood
 gilts
