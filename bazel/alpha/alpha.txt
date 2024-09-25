@@ -5014,7 +5014,6 @@ aeromechanic
 aeromechanics
 aeromedical
 aeromedicine
-aerometeorograph
 aerometer
 aerometry
 abluted
@@ -21919,6 +21918,7 @@ assumable
 avantgarde
 assumably
 assume
+aerometeorograph
 assumed
 assumedly
 assument
