@@ -2171,7 +2171,6 @@ bannermen
 bannerole
 bannerols
 bannerwise
-bannet
 bannisters
 bannition
 bannock
@@ -12461,6 +12460,7 @@ bonetail
 bonetta
 bonewood
 bonework
+bannet
 bonewort
 bonging
 bharti
