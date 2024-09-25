@@ -3197,6 +3197,7 @@ ficelle
 fluidise
 fices
 fiche
+forcipressure
 fruitwomen
 fiches
 fichtean
@@ -5837,7 +5838,6 @@ fname
 floccillation
 floccipend
 freeloader
-forcipressure
 floccose
 floccosely
 flocculable
