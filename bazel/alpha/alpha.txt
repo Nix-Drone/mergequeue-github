@@ -5922,7 +5922,6 @@ agednesses
 agee
 ageing
 ageings
-ageism
 ageisms
 ageist
 ageists
@@ -15913,6 +15912,7 @@ antiplague
 antiplanet
 antiplastic
 almeries
+ageism
 antiplatelet
 awarn
 antipleion
