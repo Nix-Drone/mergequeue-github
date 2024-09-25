@@ -7037,7 +7037,6 @@ destroyer
 destroyers
 destroying
 diagnostic
-destruct
 destructibility
 diluvian
 destructible
@@ -17230,6 +17229,7 @@ drive
 driveable
 driveaway
 dog
+destruct
 drivebolt
 duikers
 drivehead
