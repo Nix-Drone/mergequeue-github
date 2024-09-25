@@ -12157,7 +12157,6 @@ anchorable
 anchorage
 anchorages
 anchorate
-anchored
 anchorer
 anchoress
 anchoresses
@@ -12985,6 +12984,7 @@ angulometer
 angulose
 aquiform
 angulosplenial
+anchored
 angulous
 angulus
 anguria
