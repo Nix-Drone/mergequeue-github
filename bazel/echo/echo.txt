@@ -2519,7 +2519,6 @@ enage
 electrometric
 electrometrical
 electrometrically
-electromyogram
 electromyography
 electromyographically
 electromobile
@@ -6041,6 +6040,7 @@ enlistees
 enlister
 epistrophe
 enlistment
+electromyogram
 engraphia
 enlistments
 enlists
