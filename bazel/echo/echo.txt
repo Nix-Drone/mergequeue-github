@@ -5292,7 +5292,6 @@ endosarcs
 endosclerite
 endoscope
 exostema
-endomysium
 endoscopes
 endoscopic
 endoscopically
@@ -7323,6 +7322,7 @@ eolithic
 eolopile
 eolopiles
 eggnogs
+endomysium
 eolotropic
 encincture
 extraenteric
