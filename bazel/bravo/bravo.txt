@@ -5492,7 +5492,6 @@ bacterioprotein
 behorror
 bellmaster
 bilabe
-behoved
 behoves
 behoving
 bepurple
@@ -7595,6 +7594,7 @@ bemuzzling
 bevined
 bevoiled
 bevomit
+behoved
 bevomited
 bevomiting
 bevomits
