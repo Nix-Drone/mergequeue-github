@@ -2500,7 +2500,6 @@ echoist
 electromagnetics
 evacuation
 electromagnetism
-electromagnetist
 escalloping
 electromagnets
 electromassage
@@ -8831,6 +8830,7 @@ erade
 eradiate
 exhedra
 extumescence
+electromagnetist
 epicerebral
 enfeebler
 eradiating
