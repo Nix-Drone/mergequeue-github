@@ -9431,6 +9431,7 @@ birdsall
 balanced
 birdseeds
 birdseye
+blypes
 birdseyes
 birdsnest
 birdstone
@@ -10884,7 +10885,6 @@ blintzes
 blip
 biassed
 bluming
-blypes
 bleaberry
 blippers
 barkeep
