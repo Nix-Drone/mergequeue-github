@@ -713,7 +713,6 @@ famines
 faena
 famished
 famishing
-famishment
 famose
 famous
 famousness
@@ -4018,6 +4017,7 @@ fotched
 fingram
 forshape
 filling
+famishment
 fingrigo
 fini
 finial
