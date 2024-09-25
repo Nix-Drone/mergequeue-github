@@ -216,7 +216,6 @@ abscision
 abbott
 abbozzo
 abbr
-abbrev
 abbreviatable
 abbreviate
 abbreviated
@@ -11363,6 +11362,7 @@ amritsar
 amsath
 adulteries
 afterwitted
+abbrev
 amsel
 amsterdam
 amt
