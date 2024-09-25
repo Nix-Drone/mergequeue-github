@@ -1990,7 +1990,6 @@ bandolier
 blellum
 bixa
 bandoline
-bandonion
 bandor
 bandora
 bandore
@@ -3208,6 +3207,7 @@ basialveolar
 biaswise
 backstone
 basiarachnitis
+bandonion
 bashment
 basiarachnoiditis
 basiate
