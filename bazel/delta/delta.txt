@@ -1488,7 +1488,6 @@ deactivations
 deactivator
 deactivators
 defrosts
-deadborn
 deadcenter
 deeryards
 deadeye
@@ -8444,6 +8443,7 @@ diobolons
 diaminogene
 diamins
 diammine
+deadborn
 diamminobromide
 diamminonitrate
 diammonium
