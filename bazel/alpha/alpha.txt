@@ -1020,7 +1020,6 @@ absorbency
 antagonisable
 absorbencies
 absorbents
-absorber
 absorbers
 absorbing
 absorbtion
@@ -20432,6 +20431,7 @@ arsonist
 antalgic
 afferently
 arsonists
+absorber
 arsonium
 arsonous
 arsons
