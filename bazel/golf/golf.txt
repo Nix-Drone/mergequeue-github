@@ -1227,7 +1227,6 @@ ganoids
 gasterophilus
 ganoine
 ganomalite
-ganosis
 geometrical
 gansa
 gondite
@@ -3552,6 +3551,7 @@ gangliated
 gobbin
 gesseron
 gesso
+ganosis
 gessoes
 gest
 gestalt
