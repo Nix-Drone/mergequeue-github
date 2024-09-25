@@ -4961,7 +4961,6 @@ endboard
 endbrains
 enddamaged
 enddamaging
-ende
 energistic
 endearance
 endearedly
@@ -5001,6 +5000,7 @@ endemiology
 examiner
 endemism
 endemisms
+ende
 estipulate
 endenization
 endenize
