@@ -863,6 +863,7 @@ fellon
 fanos
 fanout
 fantailed
+flagships
 fantails
 fantaisie
 fantasy
@@ -3621,7 +3622,6 @@ files
 frailly
 filesmith
 filesniff
-flagships
 filespec
 forficula
 fossores
