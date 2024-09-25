@@ -3770,6 +3770,7 @@ filmed
 filmer
 forepost
 forborn
+foreuse
 fibrocystic
 filmet
 filmgoers
@@ -8134,7 +8135,6 @@ foretopmast
 foretopmen
 foretops
 foretrace
-foreuse
 foreutter
 fittable
 flamier
