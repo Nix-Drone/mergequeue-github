@@ -5492,7 +5492,6 @@ bacterioprotein
 behorror
 bellmaster
 bilabe
-behoved
 behoves
 behoving
 bepurple
@@ -11318,6 +11317,7 @@ bluebill
 bluebills
 bluebirds
 backlist
+behoved
 bayness
 blueblaw
 blueblood

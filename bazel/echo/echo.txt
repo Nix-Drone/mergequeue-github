@@ -4818,7 +4818,6 @@ encolour
 encolpia
 encolpion
 encolumn
-encolure
 encomy
 encomia
 epidosite
@@ -13440,6 +13439,7 @@ exsanguine
 exsanguineous
 enorthotrope
 exsanguinous
+encolure
 expose
 exsanguious
 electrocauterization
