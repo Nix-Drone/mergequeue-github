@@ -1072,7 +1072,6 @@ farm
 fantad
 freshening
 furriners
-farmable
 farmed
 farmer
 farmeress
@@ -4621,6 +4620,7 @@ fixative
 frecked
 fixator
 fixature
+farmable
 fixe
 farmsteading
 fixed
