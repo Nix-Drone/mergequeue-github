@@ -11176,7 +11176,6 @@ dispair
 disbind
 disblame
 disbloom
-disboard
 disbody
 disbodied
 disbogue
@@ -11558,6 +11557,7 @@ disconnector
 disconnects
 disconsent
 dithering
+disboard
 disconsideration
 disconsolate
 disconsolately
