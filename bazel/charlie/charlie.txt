@@ -12367,7 +12367,6 @@ chromatize
 chromatocyte
 chromatogenous
 chromatogram
-chromatograph
 chromatography
 chromatographic
 chromatographically
@@ -30015,6 +30014,7 @@ croupiers
 croupiest
 croupiness
 croupon
+chromatograph
 croupous
 croups
 crouse
