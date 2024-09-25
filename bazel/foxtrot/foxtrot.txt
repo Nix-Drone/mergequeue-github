@@ -5408,6 +5408,7 @@ fleets
 fleetwing
 flegm
 fley
+flyless
 fleyed
 flocci
 fleyedly
@@ -5608,7 +5609,6 @@ flightworthy
 flying
 flyings
 flyleaves
-flyless
 flyman
 flymen
 flimflammed
