@@ -9577,7 +9577,6 @@ checksum
 construct
 checksummed
 checksumming
-checkup
 checkups
 checkweigher
 checkweighman
@@ -22982,6 +22981,7 @@ consolidator
 consolidators
 consoling
 consolingly
+checkup
 consolitorily
 consolitoriness
 consols
