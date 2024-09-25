@@ -11966,7 +11966,6 @@ deities
 disenchantress
 disencharm
 drip
-disenclose
 disencourage
 disencumbered
 disencumberment
@@ -14593,6 +14592,7 @@ dobby
 dobbing
 dobchick
 dobe
+disenclose
 doberman
 dobermans
 doby
