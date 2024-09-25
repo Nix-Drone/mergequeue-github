@@ -2802,7 +2802,6 @@ dunker
 decrees
 decreet
 dop
-decrement
 decremental
 decrementing
 decrements
@@ -6533,6 +6532,7 @@ descure
 desdemona
 deseam
 depancreatize
+decrement
 dished
 deseasonalize
 desecrate
