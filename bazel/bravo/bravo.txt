@@ -8933,7 +8933,6 @@ bananas
 biocenosis
 biocentric
 biochemy
-biochemic
 biochemically
 biochemics
 biochemistry
@@ -13203,6 +13202,7 @@ bosslet
 bossship
 bonnyvis
 bevellers
+biochemic
 bosniac
 bhaiachari
 bucketfuls
