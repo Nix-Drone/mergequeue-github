@@ -7065,7 +7065,6 @@ foredate
 fratercula
 fonts
 furnitures
-foochowese
 food
 foody
 foodless
@@ -8523,6 +8522,7 @@ formularistic
 formularized
 formulate
 formulated
+foochowese
 formulates
 formulating
 formulation
