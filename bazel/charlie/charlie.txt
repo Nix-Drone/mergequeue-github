@@ -2975,7 +2975,6 @@ capable
 capableness
 capabler
 capablest
-capably
 capacify
 capacious
 capaciously
@@ -6645,6 +6644,7 @@ cerograph
 celastraceous
 celastrus
 celation
+capably
 canonicate
 cabler
 celative
