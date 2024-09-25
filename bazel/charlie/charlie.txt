@@ -3907,6 +3907,7 @@ carcinogenesis
 carcinogenic
 croceus
 colorimetry
+contrastimulation
 circumnutation
 carcinoid
 carcinolysin
@@ -4484,7 +4485,6 @@ carniform
 carnitine
 carnival
 carnivaller
-contrastimulation
 carnivals
 carnivora
 carnivoracity
