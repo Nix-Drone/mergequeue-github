@@ -5124,7 +5124,6 @@ endocrania
 endocranial
 esquimau
 endocranium
-equiconvex
 endocrin
 ember
 endocrine
@@ -5280,6 +5279,7 @@ eater
 entopterygoid
 endorsation
 endorsed
+equiconvex
 endorsee
 endorsees
 endere
