@@ -4860,7 +4860,6 @@ beshrouded
 bedstraw
 bedstraws
 bedstring
-bedswerver
 bedtick
 bedticks
 bices
@@ -13005,6 +13004,7 @@ blockmaking
 boresight
 boresome
 boresomely
+bedswerver
 beira
 borg
 borghalpenny
