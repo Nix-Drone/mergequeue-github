@@ -2954,6 +2954,7 @@ foreshows
 feuillemorte
 feuillet
 feuilleton
+frow
 feuilletonist
 feuilletonistic
 feuilletons
@@ -10567,7 +10568,6 @@ frouzy
 finalities
 friendlike
 frouziest
-frow
 frowardness
 frower
 felstones
