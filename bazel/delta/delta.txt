@@ -1837,7 +1837,6 @@ deblock
 dijudicate
 deboise
 dispunge
-dalespeople
 deboite
 deboites
 debonair
@@ -6670,6 +6669,7 @@ designatory
 designators
 designatum
 detersive
+dalespeople
 designedly
 designedness
 designee
