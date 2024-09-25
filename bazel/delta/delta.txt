@@ -7254,7 +7254,6 @@ determiner
 determining
 determinism
 determinist
-deterministic
 demodicidae
 descend
 deterministically
@@ -17405,6 +17404,7 @@ dropout
 dolce
 dinitrobenzene
 droppage
+deterministic
 dropped
 diphenol
 dropperful
