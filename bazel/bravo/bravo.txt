@@ -6853,7 +6853,6 @@ berrylike
 berryman
 baikalite
 berrypicker
-berrypicking
 berrugate
 bersagliere
 bersaglieri
@@ -14440,6 +14439,7 @@ branchy
 branchia
 branchiae
 borstals
+berrypicking
 bathetic
 branchial
 branchiata
