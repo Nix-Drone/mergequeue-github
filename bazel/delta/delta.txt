@@ -2506,7 +2506,6 @@ declarators
 declare
 declaredly
 declaredness
-declarer
 dodgeries
 doorjamb
 declarers
@@ -13374,6 +13373,7 @@ disreport
 decrepitating
 disreputability
 dialyzable
+declarer
 disreputable
 disreputableness
 disreputably
