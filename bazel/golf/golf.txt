@@ -409,6 +409,7 @@ galaginae
 gimballing
 gangboard
 galago
+glycerite
 galagos
 galahads
 galanas
@@ -5405,7 +5406,6 @@ guarri
 genomes
 glistens
 glycerins
-glycerite
 glycerize
 glycerizin
 glycerol
