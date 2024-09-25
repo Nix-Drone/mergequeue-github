@@ -2012,7 +2012,6 @@ flatfoots
 forebears
 feeds
 feedsman
-feedstock
 feedstuff
 feedway
 fictions
@@ -6156,6 +6155,7 @@ flowcharts
 finality
 foldstool
 flowcontrol
+feedstock
 flanche
 flowed
 flower
