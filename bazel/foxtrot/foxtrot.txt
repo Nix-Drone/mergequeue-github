@@ -4043,6 +4043,7 @@ finishable
 finisher
 finishers
 finishes
+funambulism
 finishing
 finitary
 finite
@@ -11109,7 +11110,6 @@ funambule
 frontality
 felty
 funambulic
-funambulism
 funambulo
 funambuloes
 funaria
