@@ -7175,7 +7175,6 @@ bespotted
 bespottedness
 bespotting
 bespouse
-bespoused
 bespouses
 bespout
 bespread
@@ -10355,6 +10354,7 @@ blankish
 botherer
 brazing
 blankit
+bespoused
 blankite
 blankly
 blankminded
