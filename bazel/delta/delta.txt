@@ -5022,6 +5022,7 @@ demulsifier
 demulsion
 distinguish
 demultiplex
+dissectible
 demultiplexed
 demultiplexer
 demultiplexers
@@ -13468,7 +13469,6 @@ disseating
 disseats
 dissect
 dissected
-dissectible
 dropling
 durgen
 dissection
