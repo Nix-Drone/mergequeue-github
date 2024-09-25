@@ -104,7 +104,6 @@ forequoted
 facie
 freeport
 fibroelastic
-faciend
 faciends
 facient
 faciest
@@ -6438,6 +6437,7 @@ fluoryl
 fluorimetry
 franc
 fraterniser
+faciend
 fluorimetric
 fluorinated
 fluorinating
