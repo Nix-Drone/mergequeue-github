@@ -9404,6 +9404,7 @@ altarlet
 altarpieces
 altars
 afghanets
+attestors
 altazimuth
 alter
 alterability
@@ -23094,7 +23095,6 @@ attesters
 attesting
 attestive
 attestor
-attestors
 attests
 attic
 attical
