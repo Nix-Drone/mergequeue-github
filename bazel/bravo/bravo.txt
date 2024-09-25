@@ -2783,7 +2783,6 @@ baroclinicity
 baroco
 barodynamic
 barodynamics
-barognosis
 barogram
 barograms
 barograph
@@ -10645,6 +10644,7 @@ blellums
 blemish
 burlecue
 balisaur
+barognosis
 blemished
 bacteriorhodopsin
 barbudo
