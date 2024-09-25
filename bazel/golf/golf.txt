@@ -1224,7 +1224,6 @@ griphosaurus
 gavotte
 ganoidian
 ganoids
-gasterophilus
 ganoine
 ganomalite
 ganosis
@@ -1423,6 +1422,7 @@ gary
 gristbite
 gulled
 gariba
+gasterophilus
 gleaning
 garishly
 gaffsail
