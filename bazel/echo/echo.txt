@@ -8826,7 +8826,6 @@ equoidean
 equulei
 equuleus
 eucalypt
-equus
 erade
 eradiate
 exhedra
@@ -13412,6 +13411,7 @@ expungers
 expunging
 expurgate
 expurgated
+equus
 expurgating
 expurgation
 expurgational
