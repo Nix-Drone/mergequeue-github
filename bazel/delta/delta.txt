@@ -11139,6 +11139,7 @@ disband
 duraplasty
 disbanded
 disoppilate
+dosers
 disbanding
 disbandment
 disbandments
@@ -15871,7 +15872,6 @@ dosain
 dose
 dosed
 doser
-dosers
 dosimeter
 dosimetry
 dosimetric
