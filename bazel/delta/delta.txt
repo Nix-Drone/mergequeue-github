@@ -2541,7 +2541,6 @@ declinations
 declinator
 declinatory
 declinature
-decline
 declined
 decliner
 djalmaite
@@ -6504,6 +6503,7 @@ dialypetalae
 describability
 degradedness
 describable
+decline
 diasyrm
 diaphoretic
 describably
