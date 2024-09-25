@@ -4142,6 +4142,7 @@ bean
 badawi
 beanbag
 beanbags
+beliers
 brickred
 beanball
 beancod
@@ -5725,7 +5726,6 @@ belieffulness
 beliefless
 beauties
 beliefs
-beliers
 belies
 believability
 bolis
