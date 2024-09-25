@@ -5457,7 +5457,6 @@ fleshiness
 fourniture
 fleshing
 fleshings
-formatters
 fanjets
 fleshless
 fleshlier
@@ -11616,6 +11615,7 @@ fenestra
 fusionism
 fusionist
 fusionless
+formatters
 fusions
 fusobacteria
 fusobacterium
