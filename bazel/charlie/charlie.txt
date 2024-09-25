@@ -7162,7 +7162,6 @@ centrer
 chol
 coxofemoral
 centres
-centrev
 centrex
 centry
 calyon
@@ -11670,6 +11669,7 @@ chollas
 choller
 cholo
 cholochrome
+centrev
 cholocyanine
 caperer
 choloepus
