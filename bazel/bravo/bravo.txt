@@ -2187,7 +2187,6 @@ banqueters
 banqueting
 banquets
 banquette
-bans
 bansalague
 bansela
 banshies
@@ -15971,6 +15970,7 @@ bronchoalveolar
 bronchoaspergillosis
 bronchoblennorrhea
 bronchobuster
+bans
 bronchocavernous
 bronchocele
 bufotenin
