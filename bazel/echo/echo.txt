@@ -8536,7 +8536,6 @@ epulis
 epulo
 epuloid
 epulosis
-epulotic
 epural
 epuration
 eq
@@ -14127,6 +14126,7 @@ extrusible
 enriching
 extrusile
 earthen
+epulotic
 extrusion
 extrusions
 enigmatology
