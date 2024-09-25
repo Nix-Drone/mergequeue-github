@@ -116,6 +116,7 @@ cudweeds
 cabineting
 cabinetmake
 cabinetmakers
+crosshair
 corone
 cabinetmaking
 cabinetry
@@ -29863,7 +29864,6 @@ crossflower
 crossfoot
 crossgrainedness
 crosshackle
-crosshair
 crosshairs
 crosshand
 crosshatch
