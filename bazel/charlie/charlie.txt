@@ -10259,7 +10259,6 @@ chiasmodon
 chiasmodontid
 chiasmodontidae
 chiasms
-chiasmus
 chiastic
 chiastolite
 cantoon
@@ -24756,6 +24755,7 @@ copularium
 copulas
 copulate
 crang
+chiasmus
 copulated
 copulates
 copulation
