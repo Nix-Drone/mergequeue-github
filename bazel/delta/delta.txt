@@ -1597,7 +1597,6 @@ dealings
 dealkalize
 dealkylate
 dealkylation
-deallocate
 deallocated
 daunter
 deallocates
@@ -15170,6 +15169,7 @@ dolina
 dolioform
 daedalist
 dioritic
+deallocate
 dissilience
 dyingness
 doliolum
