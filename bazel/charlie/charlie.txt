@@ -11826,6 +11826,7 @@ choose
 chooseable
 copaljocote
 caprock
+coauthor
 chooser
 choosers
 cadilesker
@@ -17330,7 +17331,6 @@ coaudience
 cancelled
 cobitidae
 coauthered
-coauthor
 coauthored
 coauthoring
 connectedness
