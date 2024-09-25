@@ -1691,7 +1691,6 @@ fchar
 fipenny
 fcomp
 farcin
-fcp
 foehns
 familiar
 friars
@@ -5689,6 +5688,7 @@ flipped
 fraileros
 flippers
 flyproof
+fcp
 forbearantly
 flips
 flirt
