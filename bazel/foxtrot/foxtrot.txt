@@ -6288,7 +6288,6 @@ fissicostate
 fecit
 fluidified
 fluidifier
-fluidimeter
 fluidisation
 forewisdom
 fluidised
@@ -11570,6 +11569,7 @@ fusees
 fusel
 fuselage
 fuselages
+fluidimeter
 fuselike
 fusels
 fableist
