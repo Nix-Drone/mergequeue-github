@@ -3948,7 +3948,6 @@ adjacency
 adjacencies
 amated
 adjacently
-adjag
 adject
 adjection
 archicleistogamy
@@ -23805,6 +23804,7 @@ authigenetic
 authigenous
 aurite
 authored
+adjag
 arabizing
 authoress
 authoresses
