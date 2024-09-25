@@ -3383,7 +3383,6 @@ aday
 adays
 adalat
 adam
-adamance
 adamances
 adamancy
 assistor
@@ -23560,6 +23559,7 @@ auricyanhydric
 atpoints
 auricle
 auricles
+adamance
 auricomous
 auricula
 auriculae
