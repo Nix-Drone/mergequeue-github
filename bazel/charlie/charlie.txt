@@ -8369,7 +8369,6 @@ chalinitis
 chalk
 chalkboard
 chalkboards
-chalkcutter
 chalked
 chalker
 chalky
@@ -20711,6 +20710,7 @@ compliances
 compliancy
 compliancies
 consimilarity
+chalkcutter
 compliant
 compliantly
 complicacy
