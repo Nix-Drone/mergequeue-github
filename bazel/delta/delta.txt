@@ -3290,7 +3290,6 @@ deferments
 deferrable
 deferral
 deferrals
-deferred
 deferrer
 deferrers
 deferrize
@@ -5063,6 +5062,7 @@ denasalize
 denasalized
 doppelkummel
 detachedness
+deferred
 disjoinable
 denasalizing
 denationalisation
