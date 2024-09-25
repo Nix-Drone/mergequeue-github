@@ -13456,7 +13456,6 @@ dissaves
 dissaving
 dissavs
 disscepter
-drumbeater
 dissceptered
 dissceptre
 dissceptred
@@ -15049,6 +15048,7 @@ disencumbering
 dogskin
 dogsleds
 degustate
+drumbeater
 disconformable
 dogsleep
 dogstones
