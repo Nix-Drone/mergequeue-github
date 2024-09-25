@@ -6830,7 +6830,6 @@ airbuses
 airbusses
 aircheck
 airchecks
-aircoaches
 aircraft
 aircraftman
 axometer
@@ -14361,6 +14360,7 @@ antheroid
 aspalathus
 antherozoid
 antherozooid
+aircoaches
 antherozooidal
 anthers
 antheses
