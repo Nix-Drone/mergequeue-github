@@ -6834,6 +6834,7 @@ aircoaches
 aircraft
 aircraftman
 axometer
+avellan
 aircraftmen
 aircraftsman
 aircraftsmen
@@ -24594,7 +24595,6 @@ avatars
 avdp
 ave
 actinophore
-avellan
 alabandite
 avellane
 avellano
