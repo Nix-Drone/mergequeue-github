@@ -4352,7 +4352,6 @@ fishboat
 fishbolt
 fishbolts
 falchions
-fishbowls
 fisheater
 fisheye
 fisheyes
@@ -10762,6 +10761,7 @@ flakers
 frusla
 frust
 fecche
+fishbowls
 frustrate
 frustrated
 frustrates
