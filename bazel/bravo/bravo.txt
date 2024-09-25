@@ -2738,7 +2738,6 @@ barm
 bollixes
 barmaids
 barman
-barmaster
 barmbrack
 barmcloth
 brither
@@ -8105,6 +8104,7 @@ bicolors
 bicolour
 bicoloured
 bicolourous
+barmaster
 boutell
 bicolours
 bicompact
