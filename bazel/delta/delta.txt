@@ -1989,7 +1989,6 @@ damageableness
 decahedrons
 decahydrate
 decahydronaphthalene
-decay
 decayed
 decayedness
 decayers
@@ -13498,6 +13497,7 @@ dissembles
 dissemblies
 dissembling
 dissemblingly
+decay
 dissemilative
 disseminated
 disseminates
