@@ -2872,7 +2872,6 @@ gawp
 genoese
 genoise
 genome
-genomic
 genoms
 genonema
 gph
@@ -3050,6 +3049,7 @@ geodesical
 gingilis
 grouching
 geodesies
+genomic
 geodesist
 gentilhomme
 gooseflower
