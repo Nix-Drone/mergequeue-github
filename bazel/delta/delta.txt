@@ -1543,7 +1543,6 @@ deadrise
 deadtongue
 deadweight
 ditto
-deadwork
 deaving
 deaerated
 deaeration
@@ -18403,6 +18402,7 @@ duplicators
 daidle
 duplicature
 disulphuret
+deadwork
 duplicatus
 dragonism
 duplicia
