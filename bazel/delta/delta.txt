@@ -350,7 +350,6 @@ daybreaks
 daibutsu
 desand
 dynamoscope
-daydawn
 daidly
 daidlie
 daydream
@@ -14683,6 +14682,7 @@ docks
 dockside
 dockworker
 docmac
+daydawn
 docoglossa
 docoglossan
 docoglossate
