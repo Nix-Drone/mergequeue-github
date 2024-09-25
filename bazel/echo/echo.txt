@@ -6405,7 +6405,6 @@ embarcation
 ensigncy
 electroplaque
 ensigncies
-ensigned
 entranceway
 ensignhood
 ensilaged
@@ -14196,6 +14195,7 @@ energies
 eternise
 exuviability
 exuviae
+ensigned
 exuvial
 exuviate
 exuviated
