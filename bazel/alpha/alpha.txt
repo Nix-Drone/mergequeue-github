@@ -5106,7 +5106,6 @@ aerothermodynamic
 aerothermodynamics
 aerotonometer
 aerotonometry
-aerotonometric
 aerotropic
 angiocarpy
 aerotropism
@@ -21008,6 +21007,7 @@ antedawn
 asclepidoid
 asclepieion
 adamant
+aerotonometric
 aerogenesis
 ascocarp
 ascocarpous
