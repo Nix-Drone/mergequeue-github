@@ -5904,7 +5904,6 @@ glossolalia
 glossolaryngeal
 glossolysis
 glossology
-glossologist
 gowiddie
 glossopalatine
 glossopalatinus
@@ -8567,6 +8566,7 @@ greater
 geostatics
 greathead
 garbages
+glossologist
 greathearted
 greatheartedly
 greatly
