@@ -8716,7 +8716,6 @@ diatomist
 diatomous
 diatoms
 diatonic
-diatonical
 diatonically
 diatonicism
 durzi
@@ -15608,6 +15607,7 @@ doorknob
 doorknobs
 doorless
 doormaid
+diatonical
 doormaker
 doorman
 doormat
