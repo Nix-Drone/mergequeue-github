@@ -2070,6 +2070,7 @@ feinter
 forestlike
 feinting
 feis
+faceplate
 flatlander
 fogbows
 faultier
@@ -9284,7 +9285,6 @@ fragile
 fishpot
 fragileness
 fragility
-faceplate
 fragilities
 fragment
 floorhead
