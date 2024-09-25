@@ -1526,7 +1526,6 @@ garrisoning
 garrisonism
 garrisons
 garrnishable
-garron
 garroo
 garroted
 garroters
@@ -5709,6 +5708,7 @@ globularness
 garavance
 globule
 gtd
+garron
 gestio
 globulicide
 generality
