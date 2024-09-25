@@ -18770,6 +18770,7 @@ colichemarde
 colicine
 colicines
 colicins
+cost
 colicystitis
 coappellee
 crafter
@@ -26183,7 +26184,6 @@ cossid
 cossidae
 cossie
 cossyrite
-cost
 costa
 costae
 costage
