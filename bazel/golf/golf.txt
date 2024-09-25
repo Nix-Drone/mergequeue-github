@@ -4306,7 +4306,6 @@ grippingness
 gymnospermism
 gymnospermous
 gyroma
-gymnosporangium
 gymnospore
 gymnosporous
 gymnostomata
@@ -10464,6 +10463,7 @@ gramenite
 gun
 guna
 gunarchy
+gymnosporangium
 gunated
 grudgeons
 gunboats
