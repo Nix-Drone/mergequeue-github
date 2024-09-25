@@ -10211,6 +10211,7 @@ dinotherium
 dins
 dint
 dinted
+disjunctor
 dinting
 dianite
 dintless
@@ -12567,7 +12568,6 @@ disjudication
 disjunctions
 disjunctive
 disjunctively
-disjunctor
 disjuncts
 dereferences
 disjuncture
