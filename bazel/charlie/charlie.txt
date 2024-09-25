@@ -4221,7 +4221,6 @@ cargoose
 cargos
 cargued
 carhop
-carhops
 carhouse
 cary
 cariacus
@@ -8357,6 +8356,7 @@ chalicosis
 chalicothere
 chalicotheriid
 chalicotheriidae
+carhops
 chalicotherioid
 cephalohumeralis
 chalicotherium
