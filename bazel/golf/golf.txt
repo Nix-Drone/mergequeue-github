@@ -909,7 +909,6 @@ gambist
 gambits
 gonotocont
 guillemot
-gamble
 gambler
 gamblesome
 gamblesomeness
@@ -5213,6 +5212,7 @@ gunman
 gormless
 grief
 gluten
+gamble
 glassmen
 glassophone
 glassrope
