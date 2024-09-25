@@ -8602,7 +8602,6 @@ chancellor
 chancellorate
 chancelloress
 chancellory
-chancellors
 chancellorship
 chancellorships
 chancelor
@@ -10144,6 +10143,7 @@ cheths
 chetopod
 chetrum
 chemicoengineering
+chancellors
 chetty
 culminated
 chlorohydrin
