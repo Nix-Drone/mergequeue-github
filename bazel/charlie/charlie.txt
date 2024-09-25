@@ -14402,7 +14402,6 @@ circumpolygon
 circumpose
 circumposition
 condite
-circumquaque
 circumradii
 circumradius
 circumradiuses
@@ -21555,6 +21554,7 @@ concutient
 cond
 condalia
 condecent
+circumquaque
 convexo
 cytogenetically
 condemn
