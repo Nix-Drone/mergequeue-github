@@ -610,7 +610,6 @@ babungera
 bacquet
 bact
 bacteraemia
-bacteremia
 bacteremic
 bacteria
 bacteriaceae
@@ -6009,6 +6008,7 @@ bemadam
 bullaria
 bacterioprecipitin
 brambly
+bacteremia
 bemadams
 barothermohygrogram
 bemadden
