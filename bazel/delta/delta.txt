@@ -8415,6 +8415,7 @@ diamantoid
 diamat
 diamber
 diambic
+drawlatch
 diamegnetism
 diamesogamous
 diameter
@@ -16839,7 +16840,6 @@ drawings
 drawknives
 drawknot
 deliquescent
-drawlatch
 drawled
 drawly
 diaphanoscopy
