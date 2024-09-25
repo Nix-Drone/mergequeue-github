@@ -4136,6 +4136,7 @@ admissibility
 admissible
 admissibly
 admission
+afterchurch
 admissions
 admissive
 automaton
@@ -5582,7 +5583,6 @@ aftercast
 aftercataract
 adversive
 afterchance
-afterchurch
 afterclap
 afterclause
 aftercome
