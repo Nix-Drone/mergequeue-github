@@ -10304,7 +10304,6 @@ carnalities
 chicer
 committer
 cougnar
-coverage
 chicest
 chich
 chicha
@@ -20184,6 +20183,7 @@ commodation
 capmint
 carosella
 commodatum
+coverage
 commode
 commoderate
 commodes
