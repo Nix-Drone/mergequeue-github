@@ -3165,6 +3165,7 @@ geomorphology
 geomorphologic
 gleewoman
 geomorphological
+gossiper
 geomorphologically
 golliwog
 geon
@@ -7317,7 +7318,6 @@ gossip
 gossipdom
 gossiped
 gossipee
-gossiper
 gossipers
 gossiphood
 gatehouses
