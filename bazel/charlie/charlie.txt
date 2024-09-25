@@ -5191,7 +5191,6 @@ casse
 caveats
 cassegrain
 chromomeric
-coordinations
 cassegrainian
 cassena
 casserole
@@ -30528,6 +30527,7 @@ cubocube
 cubocuneiform
 cheaps
 cubododecahedral
+coordinations
 cuboid
 cuboidal
 cornemuse
