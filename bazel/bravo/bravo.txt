@@ -553,7 +553,6 @@ backtracking
 backtracks
 backtrail
 backups
-backus
 backveld
 backvelder
 backway
@@ -14921,6 +14920,7 @@ breathlessness
 breaths
 breathseller
 breathtaking
+backus
 breathtakingly
 breba
 breccial
