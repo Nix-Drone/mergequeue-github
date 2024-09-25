@@ -13892,7 +13892,6 @@ anoscope
 angstrom
 aqueduct
 anoscopy
-anatomicosurgical
 anosmatic
 anosmia
 anosmias
@@ -23186,6 +23185,7 @@ archicerebra
 attributer
 attributes
 attributing
+anatomicosurgical
 attribution
 affrontingness
 attributions
