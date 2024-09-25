@@ -5354,7 +5354,6 @@ estrade
 extorter
 euchite
 endothecia
-endothecial
 empoisoner
 elateridae
 endothecium
@@ -6711,6 +6710,7 @@ enteroscopy
 enterosepsis
 enterospasm
 enterostasis
+endothecial
 ebracteolate
 enterostomies
 enterotome
