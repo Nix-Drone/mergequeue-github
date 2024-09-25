@@ -2941,6 +2941,7 @@ canvasbacks
 canvasers
 canvases
 canvasing
+captress
 canvaslike
 canvasser
 canvassers
@@ -3453,7 +3454,6 @@ cojoin
 captor
 captors
 clientless
-captress
 capturable
 captured
 captures
