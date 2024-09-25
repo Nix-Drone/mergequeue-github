@@ -8593,6 +8593,7 @@ baiocco
 bilingual
 bilinguality
 bilingually
+biotypology
 bilinguar
 bilinguist
 byliny
@@ -9222,7 +9223,6 @@ biotins
 biotype
 biotypes
 biotypic
-biotypology
 biotite
 biotites
 biotome
