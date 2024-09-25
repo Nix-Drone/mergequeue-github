@@ -1665,7 +1665,6 @@ accordature
 accorded
 accorder
 accorders
-accordingly
 accordion
 accordionist
 accordionists
@@ -10439,6 +10438,7 @@ aurous
 accoy
 amidulin
 absinthiating
+accordingly
 amidward
 amie
 amyelencephalia
