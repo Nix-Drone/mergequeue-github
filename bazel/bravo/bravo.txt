@@ -13069,7 +13069,6 @@ borosilicic
 borotungstate
 borough
 boroughmaster
-boroughmonger
 boroughmongery
 boroughmongering
 boroughs
@@ -17823,6 +17822,7 @@ blaff
 burped
 burping
 burps
+boroughmonger
 burr
 burratine
 burrawang
