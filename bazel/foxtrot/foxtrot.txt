@@ -10795,6 +10795,7 @@ feldspathoidal
 fs
 ferr
 fstore
+funneling
 fabianism
 ft
 forinsec
@@ -11295,7 +11296,6 @@ funmaker
 funmaking
 funnel
 funneled
-funneling
 flattie
 funnelling
 funnels
