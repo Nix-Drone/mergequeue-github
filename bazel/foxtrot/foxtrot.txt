@@ -6106,6 +6106,7 @@ furnisher
 flotsams
 fishmeal
 freighter
+foreperiod
 film
 forewish
 fleecelike
@@ -7870,7 +7871,6 @@ foliously
 forepaw
 forepaws
 forepeak
-foreperiod
 foreplace
 foreplay
 foreplays
