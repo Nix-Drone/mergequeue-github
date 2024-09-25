@@ -5733,7 +5733,6 @@ deplace
 deplaceable
 deplane
 deplaned
-deplaning
 deplant
 deplantation
 deplasmolysis
@@ -9639,6 +9638,7 @@ dil
 doorcase
 dilacerated
 dilacerating
+deplaning
 demisovereign
 dilaceration
 doused
