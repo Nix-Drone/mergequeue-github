@@ -5402,7 +5402,6 @@ affordable
 affording
 akaroa
 affords
-afforest
 afforestable
 afforestation
 afforested
@@ -24321,6 +24320,7 @@ autoptic
 autoptically
 autopticity
 autoput
+afforest
 alpinists
 autor
 aquaducts
