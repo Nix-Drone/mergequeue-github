@@ -15650,6 +15650,7 @@ classroom
 classrooms
 classwise
 classwork
+controlled
 clastic
 clastics
 clat
@@ -23869,7 +23870,6 @@ controllability
 controllable
 controllableness
 controllably
-controlled
 controller
 costophrenic
 controllers
