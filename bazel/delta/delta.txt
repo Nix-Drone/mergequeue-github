@@ -8865,7 +8865,6 @@ discountenancing
 disestablish
 dichloramin
 dichloramine
-dichlorhydrin
 dichloride
 dichloroacetic
 dichlorobenzene
@@ -11390,6 +11389,7 @@ discloak
 discloister
 dissuader
 debug
+dichlorhydrin
 disclosed
 discloser
 discloses
