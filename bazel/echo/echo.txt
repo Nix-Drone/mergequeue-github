@@ -2624,7 +2624,6 @@ electroscopic
 electrosensitive
 electroshock
 electroshocks
-electrosynthesis
 electrosynthetically
 envenoms
 electrosmosis
@@ -5670,6 +5669,7 @@ engagingness
 engallant
 endothelioblastoma
 engarb
+electrosynthesis
 engarble
 engarland
 engarment
