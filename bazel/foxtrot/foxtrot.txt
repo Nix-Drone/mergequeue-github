@@ -1478,6 +1478,7 @@ fatteners
 frondescence
 fattening
 fattens
+finedraw
 funambulator
 fattest
 fatty
@@ -7146,7 +7147,6 @@ footbridge
 frustulum
 footcandle
 footcloths
-finedraw
 facer
 figwort
 foeniculum
