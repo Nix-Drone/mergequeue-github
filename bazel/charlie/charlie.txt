@@ -7513,7 +7513,6 @@ ceraunophone
 ceraunoscope
 ceraunoscopy
 cerberic
-cerberus
 cercal
 cercaria
 canroyer
@@ -23068,6 +23067,7 @@ conspue
 const
 cryptorrhesis
 constable
+cerberus
 constablery
 cowgate
 constables
