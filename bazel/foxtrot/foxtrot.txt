@@ -4343,7 +4343,6 @@ forb
 fisetin
 fish
 fishability
-fishable
 fishback
 fishberry
 fleshers
@@ -7573,6 +7572,7 @@ forechoice
 forechoir
 faith
 foregame
+fishable
 forechoose
 foreclaw
 foreclose
