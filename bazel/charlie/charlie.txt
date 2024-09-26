@@ -1102,7 +1102,6 @@ cubatures
 calcographic
 calcrete
 calcsinter
-calcspar
 calcspars
 calctufas
 calctuff
@@ -13772,6 +13771,7 @@ cincher
 cinches
 crankcase
 cinching
+calcspar
 cincholoipon
 cincholoiponic
 cinchomeronic
