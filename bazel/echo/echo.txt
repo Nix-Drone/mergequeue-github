@@ -6709,7 +6709,6 @@ enteroscope
 eternity
 enteroscopy
 enterosepsis
-enterospasm
 enterostasis
 ebracteolate
 enterostomies
@@ -10472,6 +10471,7 @@ ethnologist
 ethnologists
 ethnomanic
 ethnomusicological
+enterospasm
 existant
 elytra
 ethnomusicologist
