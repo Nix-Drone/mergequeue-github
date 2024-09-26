@@ -2408,7 +2408,6 @@ dueling
 decimalist
 decimalization
 dilogarithm
-decimalize
 decimalizes
 decimally
 decimals
@@ -17651,6 +17650,7 @@ drupiferous
 dysphagic
 druse
 divekeeper
+decimalize
 demonophobia
 drusedom
 druses
