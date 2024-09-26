@@ -9303,7 +9303,6 @@ bipinnaria
 bipinnariae
 bipinnarias
 bipinnate
-bipinnated
 bipinnatipartite
 bipinnatisect
 bipinnatisected
@@ -11826,6 +11825,7 @@ bromic
 bodrage
 battalions
 benedick
+bipinnated
 bodstick
 baalite
 bodword
