@@ -5483,6 +5483,7 @@ fletton
 fores
 feynesses
 fleur
+forehinting
 fleuret
 flypaper
 fleurette
@@ -8034,7 +8035,6 @@ forestay
 forestair
 fireplough
 forestays
-forehinting
 forestaysail
 forestal
 forestalled
