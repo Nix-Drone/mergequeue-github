@@ -3705,7 +3705,6 @@ adenomatome
 adenometritis
 adenomycosis
 adenomyofibroma
-adenomyoma
 agapornis
 adenomyxosarcoma
 adenoncus
@@ -14124,6 +14123,7 @@ antecurvature
 anted
 antedate
 antedates
+adenomyoma
 antedating
 antediluvial
 antediluvially
