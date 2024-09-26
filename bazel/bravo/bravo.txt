@@ -5356,6 +5356,7 @@ begrave
 birne
 begrett
 begrim
+began
 begrimed
 begrimer
 begrimes
@@ -6930,7 +6931,6 @@ barhal
 bescourge
 bescours
 bescramble
-began
 bescrape
 bescratch
 bescreen
