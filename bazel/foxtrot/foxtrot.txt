@@ -712,7 +712,6 @@ fifteener
 famines
 faena
 famished
-famishing
 famishment
 famose
 famous
@@ -6067,6 +6066,7 @@ floroun
 floruit
 ferruginated
 florulae
+famishing
 flinder
 florulas
 florulent
