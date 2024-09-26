@@ -2005,7 +2005,6 @@ bandsawn
 bandsman
 bandsmen
 bandspreading
-bandstand
 bandstands
 bandster
 ballroom
@@ -12575,6 +12574,7 @@ bedgown
 barff
 boobialla
 byrri
+bandstand
 blethers
 boobyalla
 bebat
