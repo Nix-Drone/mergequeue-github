@@ -3012,7 +3012,6 @@ barricoes
 barrier
 barriers
 barriguda
-barrigudos
 broadaxe
 barrikin
 burled
@@ -11700,6 +11699,7 @@ bobtailing
 bobwhite
 bellhanging
 bobwhites
+barrigudos
 bobwood
 boc
 biopyribole
