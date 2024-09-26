@@ -3962,7 +3962,6 @@ filtered
 finfoot
 finfoots
 fingal
-fingall
 fingan
 fingerable
 fingerberry
@@ -10586,6 +10585,7 @@ frowns
 frows
 frowsy
 frowsier
+fingall
 frowsily
 frowsiness
 fondling
