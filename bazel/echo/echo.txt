@@ -1763,7 +1763,6 @@ eyeblack
 eyeblink
 eyebright
 eyebrows
-eyecup
 experimently
 eyed
 eluviating
@@ -5849,6 +5848,7 @@ enhallow
 enhalo
 enhaloes
 explees
+eyecup
 ergates
 ecarinate
 enhance
