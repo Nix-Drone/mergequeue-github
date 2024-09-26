@@ -1605,7 +1605,6 @@ accolle
 accolled
 accollee
 accommodable
-accommodableness
 accommodate
 accommodated
 adscriptive
@@ -13122,6 +13121,7 @@ animableness
 animacule
 animadversal
 animadversion
+accommodableness
 animadversional
 almuten
 animadverted
