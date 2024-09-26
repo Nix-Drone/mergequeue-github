@@ -2392,7 +2392,6 @@ electrodeposition
 electrodepositor
 escalation
 electrodes
-electrodesiccation
 electrodiagnosis
 entoblast
 electrodiagnostic
@@ -7604,6 +7603,7 @@ epicarp
 exauthorize
 epicarpal
 epicarps
+electrodesiccation
 espiglerie
 epicede
 epicedia
