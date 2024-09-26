@@ -5628,6 +5628,7 @@ enforth
 enfoul
 enfoulder
 enfrai
+eunuchized
 enframe
 enframed
 enframing
@@ -6026,7 +6027,6 @@ enlightened
 enlightenedly
 enlightenedness
 enlightener
-eunuchized
 electrophonic
 endomysial
 enlighteners
