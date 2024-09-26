@@ -14514,7 +14514,6 @@ anthranyl
 anthranilic
 anthranoyl
 anthranol
-anthranone
 anthrapyridine
 anthrapurpurin
 anthraquinol
@@ -24384,6 +24383,7 @@ alascan
 afterdinner
 autoslip
 autosomal
+anthranone
 autosomally
 autosomatognostic
 autosome
