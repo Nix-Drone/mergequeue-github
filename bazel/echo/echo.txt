@@ -6217,7 +6217,6 @@ extraphysiological
 enplanes
 enquarter
 enqueue
-entered
 enqueued
 enquicken
 enquire
@@ -11375,6 +11374,7 @@ erythrolitmin
 evaporitic
 exhibitive
 evaporize
+entered
 evapotranspiration
 erythremomelalgia
 evasible
