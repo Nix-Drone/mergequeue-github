@@ -366,7 +366,6 @@ abettors
 abevacuation
 attributiveness
 abfarads
-abhenry
 abhenries
 abhenrys
 antigone
@@ -11093,6 +11092,7 @@ astrosphere
 amphidetic
 amphidiarthrosis
 amphidiploid
+abhenry
 amphidiploidy
 amphidisc
 amphidiscophora
