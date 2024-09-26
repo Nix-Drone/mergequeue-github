@@ -18181,7 +18181,6 @@ coffeehouse
 coffeehoused
 coffeehouses
 coffeehousing
-coffeeleaf
 coffeeman
 coffeepot
 coffeepots
@@ -19126,6 +19125,7 @@ colloidochemical
 colloids
 collomia
 collop
+coffeeleaf
 colloped
 collophane
 collophanite
