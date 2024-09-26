@@ -1900,7 +1900,6 @@ debtless
 debtor
 debtors
 debugger
-debuggers
 desilverized
 debugs
 debullition
@@ -11284,6 +11283,7 @@ discepts
 discern
 discernable
 denigrators
+debuggers
 discerned
 discerner
 dumpler
