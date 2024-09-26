@@ -3799,7 +3799,6 @@ adherency
 adherend
 adherends
 adherently
-adherents
 adherer
 adherers
 adheres
@@ -24773,6 +24772,7 @@ avifauna
 avifaunae
 avifaunal
 armaments
+adherents
 avifaunas
 avifaunistic
 avigate
