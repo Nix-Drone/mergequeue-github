@@ -7908,7 +7908,6 @@ epigrammatizing
 epigrams
 epigraph
 epigrapher
-eftest
 epigraphy
 egyptianization
 epigraphic
@@ -13138,6 +13137,7 @@ explain
 extras
 explainable
 explainableness
+eftest
 explained
 explainer
 explainers
