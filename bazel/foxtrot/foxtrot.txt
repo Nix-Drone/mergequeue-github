@@ -1863,7 +1863,6 @@ febricula
 fore
 fermentology
 febrifacient
-febriferous
 febrific
 figged
 fougue
@@ -7151,6 +7150,7 @@ facer
 figwort
 foeniculum
 footed
+febriferous
 footeite
 fenouillette
 footer
