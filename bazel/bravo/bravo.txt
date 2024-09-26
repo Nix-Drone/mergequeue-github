@@ -5174,7 +5174,6 @@ biolytic
 baffled
 befouled
 befouler
-befoulers
 brunizem
 befouling
 befoulment
@@ -7038,6 +7037,7 @@ beslime
 banqueteer
 balaenid
 beslimer
+befoulers
 beslimes
 besliming
 beslings
