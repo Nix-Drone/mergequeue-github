@@ -5078,7 +5078,6 @@ denaturalised
 denaturalising
 discommendably
 denaturalization
-denaturalize
 denaturalized
 denaturant
 denaturants
@@ -11825,6 +11824,7 @@ delicateness
 discuses
 discussed
 discusses
+denaturalize
 deflection
 discussing
 discussion
