@@ -3816,6 +3816,7 @@ battler
 battles
 battleship
 battleships
+brailles
 buhr
 battlesome
 boatfalls
@@ -14306,7 +14307,6 @@ brayette
 braying
 brailed
 brailled
-brailles
 bursiform
 braillewriter
 bambino
