@@ -2346,7 +2346,6 @@ candelabrum
 candelabrums
 candelilla
 candent
-cassidony
 candescence
 candescent
 candescently
@@ -5520,6 +5519,7 @@ catalogued
 cataloguer
 catalogues
 cataloguing
+cassidony
 cataloguish
 cataloguist
 cataloguize
