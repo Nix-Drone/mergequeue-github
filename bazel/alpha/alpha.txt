@@ -10251,7 +10251,6 @@ ankylopoietic
 amenty
 amentia
 amentias
-amentiferae
 amentiform
 aments
 amentulum
@@ -24123,6 +24122,7 @@ autoincrement
 autoincrements
 autoindex
 autoindexing
+amentiferae
 autoinductive
 autoinfusion
 autoinhibited
