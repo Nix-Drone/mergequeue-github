@@ -1968,6 +1968,7 @@ gatewoman
 gatherable
 gathered
 gilgai
+gemologist
 gatherers
 graplins
 gyrostabilizer
@@ -2604,7 +2605,6 @@ garbel
 graniferous
 glycohemia
 gemological
-gemologist
 gemonies
 gemot
 gemote
