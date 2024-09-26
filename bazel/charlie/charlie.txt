@@ -6307,7 +6307,6 @@ cropsickness
 cautery
 cauteries
 cauterisation
-cauterise
 cauterised
 cauterising
 cauterism
@@ -29156,6 +29155,7 @@ cryospheric
 criosphinx
 criosphinxes
 commissariat
+cauterise
 cryostase
 cryostat
 cryostats
