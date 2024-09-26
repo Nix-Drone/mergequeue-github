@@ -2713,7 +2713,6 @@ deconsideration
 decontaminate
 decontaminated
 decontaminates
-decontaminating
 decontaminations
 decontaminator
 decontaminators
@@ -13258,6 +13257,7 @@ disprover
 disproves
 disprovide
 depredating
+decontaminating
 disproving
 dispulp
 dispunishable
