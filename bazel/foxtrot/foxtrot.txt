@@ -2210,7 +2210,6 @@ felonsetter
 fluorescence
 felonweed
 felonwort
-fractionizing
 flancard
 fels
 felsites
@@ -7462,6 +7461,7 @@ ferrimagnet
 floatative
 forcut
 floes
+fractionizing
 fivers
 flabbergastation
 finds
