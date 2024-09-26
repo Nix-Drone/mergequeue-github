@@ -8742,6 +8742,7 @@ diazoalkane
 diazoamin
 depeter
 diazoamine
+dsname
 diazoaminobenzene
 diazoanhydride
 diazobenzene
@@ -17669,7 +17670,6 @@ dsect
 drinkery
 dsects
 desmodium
-dsname
 dashers
 dsnames
 dsp
