@@ -4348,7 +4348,6 @@ fishback
 fishberry
 fleshers
 fishberries
-fishboat
 fishbolt
 fishbolts
 falchions
@@ -7386,6 +7385,7 @@ fissidens
 forbiddenness
 fenestellae
 flames
+fishboat
 foolishness
 forbidding
 fruitery
