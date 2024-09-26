@@ -4262,7 +4262,6 @@ archmock
 adoptedly
 adoptee
 alcid
-adoptees
 adopter
 adopters
 adoptian
@@ -12427,6 +12426,7 @@ androscoggin
 androsin
 androsphinges
 androsphinx
+adoptees
 androsporangium
 androspore
 androsterone
