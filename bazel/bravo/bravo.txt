@@ -1904,7 +1904,6 @@ bande
 bandeau
 bandeaux
 betula
-banded
 bandelet
 bandelette
 bandeng
@@ -3725,6 +3724,7 @@ batrachians
 breadbaskets
 beauty
 batrachidae
+banded
 batrachite
 batrachium
 batrachophagous
