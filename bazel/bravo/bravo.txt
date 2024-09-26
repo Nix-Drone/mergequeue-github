@@ -1922,7 +1922,6 @@ bandfile
 bandfiled
 bandfish
 bandgap
-bandh
 brownism
 bandhava
 bandhook
@@ -4887,6 +4886,7 @@ bourgeon
 billian
 boomorah
 beduncing
+bandh
 bevatrons
 botchiest
 bagobo
