@@ -2653,7 +2653,6 @@ barebacked
 bloodlike
 barytas
 barite
-baryte
 baritenor
 barytes
 barythymia
@@ -5327,6 +5326,7 @@ beglue
 begnaw
 begnawed
 begnawn
+baryte
 begob
 budgero
 begobs
