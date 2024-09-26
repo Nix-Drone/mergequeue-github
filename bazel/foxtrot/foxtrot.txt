@@ -377,7 +377,6 @@ fainly
 faint
 fideicommissor
 fainter
-finspot
 faintheart
 fainthearted
 faintheartedly
@@ -6247,6 +6246,7 @@ fluentness
 foretelling
 fawner
 frizzlers
+finspot
 formalisms
 fraticellian
 ferroprint
