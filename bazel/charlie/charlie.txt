@@ -7481,7 +7481,6 @@ cardamoms
 ceratophyllaceous
 ceratophyllum
 ceratophyta
-colocephalous
 ceratophrys
 changepocket
 crozier
@@ -11345,6 +11344,7 @@ chlorometer
 chloromethane
 chlorometry
 chlorometric
+colocephalous
 chalices
 chloromycetin
 cotraitor
