@@ -22380,7 +22380,6 @@ conidae
 conidial
 conidian
 conidioid
-conidiophorous
 conidiospore
 conidium
 conifer
@@ -29291,6 +29290,7 @@ cryptolite
 cryptolith
 cryptology
 cryptological
+conidiophorous
 cryptologist
 cryptolunatic
 cryptomere
