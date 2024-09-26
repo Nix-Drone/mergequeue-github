@@ -2005,6 +2005,7 @@ bandsawn
 bandsman
 bandsmen
 bandspreading
+bays
 bandstand
 bandstands
 bandster
@@ -3420,7 +3421,6 @@ bemata
 bughouse
 bassette
 bassetted
-bays
 bassetting
 bassi
 bassy
