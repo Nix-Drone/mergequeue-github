@@ -6936,7 +6936,6 @@ bescratch
 bescreen
 bescreened
 belleek
-bescreening
 bescreens
 bescribble
 bescribbled
@@ -11545,6 +11544,7 @@ boarder
 boarders
 boardy
 boardinghouse
+bescreening
 boardings
 boardly
 boardlike
