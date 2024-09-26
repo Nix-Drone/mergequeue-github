@@ -6019,7 +6019,6 @@ cats
 catskill
 coll
 catskin
-catslide
 catso
 catspaw
 catspaws
@@ -27776,6 +27775,7 @@ craals
 crabapple
 cattle
 crabbed
+catslide
 crabbedness
 crabber
 caribisi
