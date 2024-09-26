@@ -4712,7 +4712,6 @@ encyclopedias
 emblemize
 encyclopediast
 encamp
-encyclopedic
 encyclopedical
 encyclopedically
 encyclopedism
@@ -10324,6 +10323,7 @@ ethylamide
 ethylamime
 estus
 ethylamine
+encyclopedic
 ethylate
 ethylated
 enregister
