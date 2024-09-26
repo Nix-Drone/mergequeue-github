@@ -8629,6 +8629,7 @@ equicostate
 egrets
 equicurve
 equid
+exarch
 equidiagonal
 equidifferent
 equidimensional
@@ -11825,7 +11826,6 @@ exappendiculate
 exarate
 exorcista
 exaration
-exarch
 exarchal
 exarchate
 exarchateship
