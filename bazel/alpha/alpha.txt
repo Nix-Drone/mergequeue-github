@@ -1022,7 +1022,6 @@ absorbencies
 absorbents
 absorber
 absorbers
-absorbing
 absorbtion
 absorpt
 absorptance
@@ -13770,6 +13769,7 @@ anomy
 anomia
 anomiacea
 anomic
+absorbing
 atrabilarian
 anomie
 anomiidae
