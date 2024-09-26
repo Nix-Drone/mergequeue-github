@@ -8907,6 +8907,7 @@ demographic
 dub
 dichroic
 dorsum
+diffusible
 disgeneric
 dichroism
 dihydride
@@ -9370,7 +9371,6 @@ diffuseness
 diffusers
 diffuses
 dechlore
-diffusible
 diffusibleness
 diffusimeter
 diffusing
