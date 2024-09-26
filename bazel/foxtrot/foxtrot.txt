@@ -248,7 +248,6 @@ faculty
 font
 frags
 faculties
-facultize
 firmest
 forestall
 facundity
@@ -7409,6 +7408,7 @@ forborne
 forbow
 forbruise
 fascili
+facultize
 formalised
 forcarve
 forcat
