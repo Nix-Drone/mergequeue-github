@@ -8087,7 +8087,6 @@ chaetodont
 cinquanter
 chaetodontid
 chaetodontidae
-chaetognatha
 chaetognathan
 chaetophobia
 chaetophora
@@ -21121,6 +21120,7 @@ conceited
 conceitedness
 conceity
 conceiting
+chaetognatha
 compartmental
 conceitless
 conceivability
