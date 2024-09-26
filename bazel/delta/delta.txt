@@ -824,6 +824,7 @@ deodara
 dangerless
 dangerous
 dangerously
+destroyer
 deduced
 dangerousness
 dangers
@@ -7033,7 +7034,6 @@ destroy
 destroyable
 destroyed
 dismays
-destroyer
 destroyers
 destroying
 diagnostic
