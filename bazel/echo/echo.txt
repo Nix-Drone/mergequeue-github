@@ -6407,7 +6407,6 @@ electroplaque
 ensigncies
 ensigned
 entranceway
-ensignhood
 ensilaged
 ensilages
 episcopal
@@ -7139,6 +7138,7 @@ evadible
 enuresises
 equiform
 enurny
+ensignhood
 env
 eventuations
 envaye
