@@ -831,7 +831,6 @@ ectype
 ectypography
 ectiris
 episodal
-equations
 ectoblastic
 ectobronchium
 ectocardia
@@ -13506,6 +13505,7 @@ exsuscitate
 ext
 embroiders
 extance
+equations
 extancy
 extbook
 extemporal
