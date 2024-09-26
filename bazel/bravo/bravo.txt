@@ -4432,7 +4432,6 @@ becaps
 becard
 becarpet
 becarpeted
-becarpeting
 becarve
 becasse
 becassine
@@ -15482,6 +15481,7 @@ brachycephalous
 brinishness
 brinjaree
 brinjarry
+becarpeting
 balut
 brinjarries
 brink
