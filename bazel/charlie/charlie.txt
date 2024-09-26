@@ -4779,7 +4779,6 @@ carryouts
 carryover
 carryovers
 carritch
-carritches
 carriwitchet
 conform
 carrizo
@@ -15088,6 +15087,7 @@ ciudad
 cyul
 cosmesis
 civ
+carritches
 carbonado
 cive
 civet
