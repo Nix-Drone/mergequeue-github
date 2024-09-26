@@ -11825,6 +11825,7 @@ cycloidal
 choose
 chooseable
 copaljocote
+clavi
 caprock
 chooser
 choosers
@@ -15745,7 +15746,6 @@ claver
 clavered
 clavering
 clavers
-clavi
 chirres
 clavy
 claviature
