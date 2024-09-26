@@ -810,7 +810,6 @@ commendador
 choup
 cosmothetic
 cayuga
-cayugan
 cayugas
 cayuse
 cayuses
@@ -11301,6 +11300,7 @@ chlorobenzene
 chlorobromide
 chlorobromomethane
 chlorocalcite
+cayugan
 corroboreeing
 chlorocarbonate
 chlorochromates
