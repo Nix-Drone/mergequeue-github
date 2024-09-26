@@ -2817,7 +2817,6 @@ bibliolater
 bobberies
 baroness
 baronesses
-baronet
 baronetage
 beswelter
 baronetcy
@@ -16399,6 +16398,7 @@ brushier
 brushiest
 bendys
 brushiness
+baronet
 brushland
 brushless
 brushlessness
