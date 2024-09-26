@@ -2409,7 +2409,6 @@ cytogenesis
 confraternities
 candlelighting
 candlelit
-candlemaker
 candlemaking
 candlemas
 candlenut
@@ -21998,6 +21997,7 @@ ceramiaceous
 confirmor
 confirms
 confiscable
+candlemaker
 confiscatable
 confiscate
 crois
