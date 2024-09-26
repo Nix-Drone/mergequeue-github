@@ -5672,7 +5672,6 @@ flyoff
 flyover
 flyovers
 fustanella
-flypapers
 flypast
 flypasts
 flipe
@@ -9868,6 +9867,7 @@ factored
 frequentage
 frequented
 frequenters
+flypapers
 freakpot
 flogging
 fessways
