@@ -6407,7 +6407,6 @@ electroplaque
 ensigncies
 ensigned
 entranceway
-ensignhood
 ensilaged
 ensilages
 episcopal
@@ -6877,6 +6876,7 @@ expressionful
 entombed
 erudite
 enl
+ensignhood
 exculpated
 entombing
 expolish
