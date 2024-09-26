@@ -462,7 +462,6 @@ gastrojejunal
 galeated
 galeche
 galee
-gardenable
 grignet
 gunnery
 gammexane
@@ -4895,6 +4894,7 @@ greenwood
 gitter
 ganocephalan
 goad
+gardenable
 gagor
 gitterns
 giulio
