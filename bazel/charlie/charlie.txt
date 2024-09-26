@@ -19699,7 +19699,6 @@ classifiers
 cloudburst
 combiner
 combiners
-combines
 combing
 combings
 cocowort
@@ -27975,6 +27974,7 @@ cram
 cramasie
 crambambulee
 crosswind
+combines
 crambambuli
 crambe
 cystidicolous
