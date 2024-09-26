@@ -17288,7 +17288,6 @@ coastland
 coastlines
 coastman
 coastmen
-coasts
 coastside
 coastwaiter
 coastward
@@ -25029,6 +25028,7 @@ chlorargyrite
 causeries
 coredeems
 coredemptress
+coasts
 coreductase
 coree
 coreflexed
