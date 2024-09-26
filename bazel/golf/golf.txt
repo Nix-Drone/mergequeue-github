@@ -844,6 +844,7 @@ gustiness
 gunner
 galvanoscopic
 galvanosurgery
+golems
 guarantee
 galvanotaxis
 gooseherd
@@ -6673,7 +6674,6 @@ goldurns
 goldwork
 goldworker
 golem
-golems
 goles
 golet
 gossypium
