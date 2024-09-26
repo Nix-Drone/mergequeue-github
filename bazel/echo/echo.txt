@@ -8633,7 +8633,6 @@ equidiagonal
 equidifferent
 equidimensional
 equidist
-equidistance
 ectal
 embranglement
 equidistantial
@@ -10186,6 +10185,7 @@ etesian
 etesians
 ethal
 ethambutol
+equidistance
 ethanal
 ethmovomerine
 ethanamide
