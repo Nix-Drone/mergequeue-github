@@ -1710,7 +1710,6 @@ deathliness
 deathrates
 diagrydium
 deaths
-deathsman
 deathsmen
 depaysee
 deathtime
@@ -15541,6 +15540,7 @@ doo
 doob
 doodab
 dipsacaceae
+deathsman
 doodad
 doodads
 doodah
