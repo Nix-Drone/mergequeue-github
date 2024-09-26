@@ -6697,6 +6697,7 @@ flysch
 fairgrounds
 filemarks
 foeship
+franchisee
 foetal
 flaringly
 foetalism
@@ -9388,7 +9389,6 @@ france
 frontward
 frances
 franchise
-franchisee
 franchisees
 franchisement
 franchisers
