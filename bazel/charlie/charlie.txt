@@ -8922,7 +8922,6 @@ characterizable
 characterization
 characterizations
 characterize
-characterizer
 characterizers
 characterizes
 characterizing
@@ -9916,6 +9915,7 @@ chemoreceptivities
 castrating
 chemoreceptor
 chemoreflex
+characterizer
 chemoresistance
 chemosensitive
 chemosensitivities
