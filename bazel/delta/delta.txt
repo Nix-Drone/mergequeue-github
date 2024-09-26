@@ -5958,7 +5958,6 @@ depressible
 declass
 depressing
 depressingly
-depressingness
 depression
 depressional
 depressions
@@ -16689,6 +16688,7 @@ draintile
 debouchure
 drays
 draisene
+depressingness
 drapetomania
 draisine
 darnel
