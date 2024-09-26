@@ -4448,7 +4448,6 @@ formatter
 fission
 fissionable
 fissioned
-frays
 fissions
 fissipalmation
 floorboards
@@ -5659,6 +5658,7 @@ firelike
 featlier
 flinthearted
 flinty
+frays
 flintier
 flyblown
 formularizer
