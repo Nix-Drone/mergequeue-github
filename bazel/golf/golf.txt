@@ -6406,6 +6406,7 @@ goats
 goatsbane
 goatsbeard
 genuclast
+greasing
 goatskin
 goatskins
 goatstone
@@ -10026,7 +10027,6 @@ guelf
 guelph
 guelphish
 gastrins
-greasing
 goalers
 gook
 guemal
