@@ -2874,7 +2874,6 @@ genoise
 genome
 genomic
 genoms
-genonema
 gph
 genos
 gerrymandered
@@ -8749,6 +8748,7 @@ googly
 greeting
 greets
 gliffing
+genonema
 greffe
 gonostyle
 greffier
