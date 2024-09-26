@@ -8575,7 +8575,6 @@ bankbook
 bilimbing
 bilimbis
 biliment
-bilin
 bylina
 boran
 byline
@@ -16418,6 +16417,7 @@ brushpopper
 brushproof
 brushup
 brushups
+bilin
 brushwood
 bronchophonic
 brushwork
