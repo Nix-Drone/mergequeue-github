@@ -2166,7 +2166,6 @@ beduke
 bannerless
 bannerlike
 bannerline
-bannerman
 bannermen
 bannerole
 bannerols
@@ -7160,6 +7159,7 @@ bugology
 bespice
 breadthwise
 butterlike
+bannerman
 bespill
 bespin
 bastardies
