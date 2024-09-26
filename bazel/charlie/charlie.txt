@@ -4203,7 +4203,6 @@ carex
 cottages
 carfare
 carfares
-carfax
 carfloat
 codebreak
 comprizable
@@ -31824,6 +31823,7 @@ cutins
 cutireaction
 cutis
 cutisector
+carfax
 cutises
 cutiterebra
 cutitis
