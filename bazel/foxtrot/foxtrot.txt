@@ -4123,7 +4123,6 @@ fyrd
 fireable
 firearm
 firearms
-fireback
 fumeuses
 favourably
 fireballs
@@ -9103,6 +9102,7 @@ fovent
 foveolae
 foveolarious
 forewarner
+fireback
 foveolas
 fullnesses
 fistle
