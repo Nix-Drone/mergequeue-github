@@ -10894,7 +10894,6 @@ canezou
 clocher
 chypre
 chips
-chipwood
 chiquest
 chiquitan
 chiquito
@@ -28569,6 +28568,7 @@ creepmousy
 creeps
 crees
 creese
+chipwood
 creeses
 chiefship
 creesh
