@@ -425,6 +425,7 @@ backpacking
 backpedal
 backpedaled
 backpedaling
+boatyard
 backpiece
 backplane
 backplanes
@@ -11591,7 +11592,6 @@ boatheader
 boathook
 boathouse
 boathouses
-boatyard
 boatie
 backbends
 boating
