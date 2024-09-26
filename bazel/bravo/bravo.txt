@@ -1383,6 +1383,7 @@ bag
 blere
 balcony
 balconies
+bewizard
 bald
 bedmaking
 betrayal
@@ -7673,7 +7674,6 @@ bewitchingly
 bewitchingness
 bewitchment
 bewitchments
-bewizard
 bework
 bewormed
 biordinal
