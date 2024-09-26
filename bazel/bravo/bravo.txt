@@ -3630,7 +3630,6 @@ bathyscaph
 bathyscaphes
 bathyseism
 bathysmal
-bomarea
 bathysophic
 bathysophical
 bathysphere
@@ -12639,6 +12638,7 @@ bookers
 bookfair
 bookfold
 bookful
+bomarea
 bookhood
 bookie
 bookiness
