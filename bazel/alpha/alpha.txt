@@ -1712,7 +1712,6 @@ acemetic
 accouters
 accoutre
 accoutrements
-accoutres
 accoutring
 accra
 accredit
@@ -23897,6 +23896,7 @@ autobusses
 ariettes
 autocade
 autocades
+accoutres
 autocall
 antilogarithms
 autocamper
