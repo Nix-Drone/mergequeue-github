@@ -888,7 +888,6 @@ allergy
 abscessed
 abscesses
 abscessing
-abscession
 abscind
 abscised
 abscises
@@ -13324,6 +13323,7 @@ anisomelia
 accentuator
 anisomelus
 anisomeric
+abscession
 anisomerous
 arraignability
 anisometric
