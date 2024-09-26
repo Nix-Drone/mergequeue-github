@@ -2593,6 +2593,7 @@ amoebicidal
 acolytes
 acolyth
 acolythate
+autothermy
 acolytus
 acology
 absciss
@@ -20362,7 +20363,6 @@ arsenicate
 arsenicated
 arsenicating
 arsenicism
-autothermy
 arsenicked
 arsenicophagy
 arsenics
