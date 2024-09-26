@@ -1210,7 +1210,6 @@ edp
 edplot
 edriasteroidea
 edrioasteroid
-edrioasteroidea
 elixed
 edriophthalmatous
 edriophthalmian
@@ -8344,6 +8343,7 @@ epithalamus
 enquirer
 epithalline
 einstein
+edrioasteroidea
 eeriest
 epitheca
 epithecal
