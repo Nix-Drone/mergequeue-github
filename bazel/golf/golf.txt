@@ -5416,7 +5416,6 @@ ganof
 glycerolysis
 glycerophosphoric
 glycerose
-glyceroxide
 glycic
 glycid
 glycide
@@ -5908,6 +5907,7 @@ glossologist
 gowiddie
 glossopalatine
 glossopalatinus
+glyceroxide
 glossophaga
 glossopharyngeus
 glossophobia
