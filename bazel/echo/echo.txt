@@ -628,7 +628,6 @@ echolocation
 echometer
 echopractic
 echopraxia
-echos
 echovirus
 encyclopaedian
 emball
@@ -9732,6 +9731,7 @@ endorsor
 esophagotome
 esophagus
 esophoria
+echos
 esophoric
 eremacausis
 esopus
