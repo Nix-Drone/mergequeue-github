@@ -7089,7 +7089,6 @@ centiliter
 centiliters
 centilitre
 centillionth
-centiloquy
 centimes
 centimeters
 centimetre
@@ -20401,6 +20400,7 @@ compacture
 compadre
 compadres
 compage
+centiloquy
 compaginate
 corundums
 compagnie
