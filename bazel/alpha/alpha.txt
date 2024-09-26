@@ -8457,6 +8457,7 @@ alkamine
 alkanal
 alkanes
 alkanet
+alternation
 accurateness
 alkanethiol
 alkanets
@@ -9447,7 +9448,6 @@ alternately
 alternateness
 alternating
 alternatingly
-alternation
 afterend
 alternatively
 alternativeness
