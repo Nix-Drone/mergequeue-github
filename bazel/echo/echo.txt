@@ -5606,7 +5606,6 @@ enfollow
 enfoncee
 ephemerae
 enforceability
-enforced
 enforcement
 extranatural
 enlisters
@@ -13682,6 +13681,7 @@ electroneutrality
 extinguisher
 extinguishers
 extinguishes
+enforced
 esture
 egressive
 extinguishing
