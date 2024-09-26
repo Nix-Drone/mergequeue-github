@@ -12063,7 +12063,6 @@ acronyms
 anatomicophysiologic
 arteriofibrosis
 anatomies
-anatomiless
 anatomise
 anatomiser
 anatomising
@@ -16076,6 +16075,7 @@ antimetropic
 antirationalistic
 antirationality
 antirationally
+anatomiless
 antireacting
 antireaction
 antireactionary
