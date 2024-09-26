@@ -8504,7 +8504,6 @@ alkyloxy
 alkyls
 alkin
 alkine
-alkyne
 alkynes
 alkitran
 alkool
@@ -20534,6 +20533,7 @@ arcticology
 arteriovenous
 arterioversion
 apperceptionistic
+alkyne
 archetype
 acropetally
 arterioverter
