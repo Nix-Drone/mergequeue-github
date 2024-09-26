@@ -3558,7 +3558,6 @@ addressability
 allotheistic
 ammine
 addressable
-addressees
 addresser
 addressers
 addresses
@@ -11269,6 +11268,7 @@ amphoriloquy
 actinolite
 amphoriskoi
 amphoriskos
+addressees
 amphorous
 amphoteric
 amphotericin
