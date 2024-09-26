@@ -2090,7 +2090,6 @@ acetmethylanilide
 acetnaphthalide
 acetoacetanilide
 acetoacetate
-acetoacetic
 acetoamidophenol
 acetoarsenite
 acetobenzoic
@@ -7129,6 +7128,7 @@ akerite
 aketon
 akha
 akhara
+acetoacetic
 akhyana
 akhissar
 akhlame
