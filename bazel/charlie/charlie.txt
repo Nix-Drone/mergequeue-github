@@ -7571,6 +7571,7 @@ cerebellocortex
 constrain
 cerebellopontile
 cerebellopontine
+covalency
 cerebellorubral
 cerebellospinal
 cerebellum
@@ -27412,7 +27413,6 @@ couveuse
 couxia
 covado
 covalences
-covalency
 coriander
 covalent
 covalently
