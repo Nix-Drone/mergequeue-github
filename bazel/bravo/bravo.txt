@@ -3640,7 +3640,6 @@ bathkol
 barbar
 bathman
 bathmat
-bathmats
 bereaven
 bathmism
 bathmotropism
@@ -15587,6 +15586,7 @@ britchel
 britches
 britchka
 brith
+bathmats
 brython
 brythonic
 blimy
