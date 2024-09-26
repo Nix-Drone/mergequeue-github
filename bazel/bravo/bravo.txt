@@ -3824,6 +3824,7 @@ battlestead
 battlewagon
 battleward
 battlewise
+backhauled
 bronchiectasis
 bliest
 battology
@@ -16841,7 +16842,6 @@ bufflehead
 buffleheaded
 buffone
 buffont
-backhauled
 buffoon
 buffoonery
 buffooneries
