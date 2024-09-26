@@ -3751,7 +3751,6 @@ disproved
 dehydrogenate
 dehydrogenated
 dehydrogenates
-dehydrogenating
 dehydrogenisation
 dehydrogenised
 dehydrogenization
@@ -6782,6 +6781,7 @@ desmine
 desmitis
 desmocytoma
 desmodactyli
+dehydrogenating
 desmodynia
 desmodont
 desmodontidae
