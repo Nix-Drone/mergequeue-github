@@ -1878,7 +1878,6 @@ banco
 bibliopegist
 bipunctate
 band
-bandage
 bandaged
 bandager
 bandages
@@ -3446,6 +3445,7 @@ bassorin
 bassus
 bumblingness
 berascaled
+bandage
 basswood
 byrrus
 basswoods
