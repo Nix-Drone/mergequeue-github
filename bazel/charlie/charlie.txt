@@ -15832,7 +15832,6 @@ cleanses
 cleansing
 cleanskin
 cleanskins
-cleanup
 clear
 chelaship
 clearable
@@ -28787,6 +28786,7 @@ cresswort
 crest
 counterbalance
 crestal
+cleanup
 crested
 crestfallen
 crestfallenly
