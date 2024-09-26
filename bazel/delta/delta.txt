@@ -1995,7 +1995,6 @@ decayedness
 decayers
 diarial
 decaying
-decayless
 demideify
 dextrans
 decays
@@ -5431,6 +5430,7 @@ disrate
 dents
 dissipatedness
 diasene
+decayless
 dentulous
 dentural
 democratical
