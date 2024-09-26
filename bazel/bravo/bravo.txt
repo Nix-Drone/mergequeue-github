@@ -1676,7 +1676,6 @@ ballottine
 ballottines
 ballow
 blear
-ballplayer
 ballplayers
 ballplatz
 bedrabbled
@@ -17569,6 +17568,7 @@ burdensome
 bewray
 burdensomely
 beleaped
+ballplayer
 bottomries
 burlesque
 burdie
