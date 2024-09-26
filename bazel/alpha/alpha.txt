@@ -4834,7 +4834,6 @@ aequi
 aequian
 arariba
 aequiculi
-aequipalpia
 aequor
 aequoreal
 aequorin
@@ -17992,6 +17991,7 @@ affects
 approach
 approachabl
 approachable
+aequipalpia
 approachableness
 approached
 argillitic
