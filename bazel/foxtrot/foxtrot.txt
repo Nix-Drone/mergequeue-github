@@ -1090,6 +1090,7 @@ farmhousey
 fontinalaceae
 fuzzle
 farmy
+filtratable
 farmyard
 fructuary
 farmyardy
@@ -3841,7 +3842,6 @@ filthily
 filthiness
 filthless
 feminie
-filtratable
 femorocaudal
 filtrates
 filtrating
