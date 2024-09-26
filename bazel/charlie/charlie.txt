@@ -1608,7 +1608,6 @@ calorisator
 calorist
 calorite
 calorize
-calorized
 calorizer
 calorizes
 calorizing
@@ -16997,6 +16996,7 @@ coabsume
 coacceptor
 coacervate
 coacervated
+calorized
 coacervating
 coacervation
 coach
