@@ -1709,7 +1709,6 @@ dustwoman
 deathliness
 deathrates
 diagrydium
-deaths
 deathsman
 deathsmen
 depaysee
@@ -2312,6 +2311,7 @@ decerebration
 dustpoint
 decerebrize
 decerned
+deaths
 dresser
 dropsy
 decerning
