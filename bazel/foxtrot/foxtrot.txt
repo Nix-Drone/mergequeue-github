@@ -7462,6 +7462,7 @@ ferrimagnet
 floatative
 forcut
 floes
+fresnel
 fivers
 flabbergastation
 finds
@@ -9905,7 +9906,6 @@ freshness
 freesp
 freshwoman
 facework
-fresnel
 foretimes
 fraudless
 fresno
