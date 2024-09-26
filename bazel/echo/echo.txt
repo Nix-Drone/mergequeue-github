@@ -1221,6 +1221,7 @@ educable
 educables
 educand
 educatability
+ethologies
 epicrystalline
 eident
 educatable
@@ -10492,7 +10493,6 @@ etholide
 ethology
 ethologic
 ethological
-ethologies
 ethologist
 explains
 eugene
