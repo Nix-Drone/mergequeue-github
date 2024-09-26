@@ -1967,6 +1967,7 @@ feds
 feeable
 fathead
 flavin
+follower
 feeb
 frostproofing
 fadelessly
@@ -6972,7 +6973,6 @@ fatheads
 follow
 followable
 followed
-follower
 foisting
 followers
 followingly
