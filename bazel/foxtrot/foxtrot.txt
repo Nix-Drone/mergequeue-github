@@ -1104,7 +1104,6 @@ farmscape
 farmsteads
 farmtown
 farnesol
-farnesols
 fogas
 flinger
 farnesses
@@ -7005,6 +7004,7 @@ fond
 fondaco
 foredo
 fondant
+farnesols
 fondants
 fondateur
 fonded
