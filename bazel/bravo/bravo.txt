@@ -8964,7 +8964,6 @@ biocoenoses
 biocoenotic
 biodegradability
 biodegradable
-biodegradation
 becassocked
 biodegrade
 biodegraded
@@ -10166,6 +10165,7 @@ blackmailed
 blackmailer
 blackmailers
 blackmailing
+biodegradation
 blackman
 blackneck
 blackness
