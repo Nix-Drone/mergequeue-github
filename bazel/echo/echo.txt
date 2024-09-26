@@ -1304,6 +1304,7 @@ eelpouts
 emblemology
 eelshop
 eelskin
+escudos
 eelware
 eelworm
 estragon
@@ -9619,7 +9620,6 @@ exceptio
 escuage
 escudero
 escudo
-escudos
 escuela
 enslaved
 esculapian
