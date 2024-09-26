@@ -4581,7 +4581,6 @@ encephalomalaxis
 encephalomas
 encephalomeningocele
 encephalometric
-encephalomyelitic
 encephalomyelitis
 erucin
 encephalomyelopathy
@@ -7001,6 +7000,7 @@ epidendron
 emissaryship
 externation
 entrancedly
+encephalomyelitic
 entrancement
 entrances
 entrants
