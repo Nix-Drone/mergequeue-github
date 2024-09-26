@@ -4221,7 +4221,6 @@ cargoose
 cargos
 cargued
 carhop
-carhops
 carhouse
 cary
 cariacus
@@ -27458,6 +27457,7 @@ coverages
 coverall
 coveralled
 coveralls
+carhops
 coverchief
 cerberean
 cochairmanship
