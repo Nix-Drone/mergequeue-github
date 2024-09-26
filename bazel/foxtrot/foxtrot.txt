@@ -4122,6 +4122,7 @@ firca
 fyrd
 fireable
 firearm
+fresison
 firearms
 fireback
 fumeuses
@@ -4198,7 +4199,6 @@ firehalls
 fronton
 feverweed
 fluff
-fresison
 firehouses
 fireless
 flosh
