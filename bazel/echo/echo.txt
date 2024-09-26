@@ -2318,7 +2318,6 @@ electroaffinity
 electroamalgamation
 electroanalytic
 electroanalytical
-encl
 embassade
 electroanesthesia
 electroballistically
@@ -11282,6 +11281,7 @@ evaluative
 evaluator
 electrocardiography
 evalue
+encl
 evan
 evanesce
 evanesced
