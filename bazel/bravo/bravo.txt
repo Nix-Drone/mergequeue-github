@@ -9847,6 +9847,7 @@ bits
 bitser
 bitsy
 bitstock
+botling
 bitstocks
 bitstone
 bitt
@@ -13327,7 +13328,6 @@ bothsidedness
 boththridia
 bothway
 byth
-botling
 botocudo
 botoyan
 botone
