@@ -4352,6 +4352,7 @@ fishboat
 fishbolt
 fishbolts
 falchions
+footsies
 fishbowls
 fisheater
 fisheye
@@ -4700,7 +4701,6 @@ flaccid
 flaccidness
 flachery
 flacian
-footsies
 flacianist
 flack
 flacker
