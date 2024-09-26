@@ -954,6 +954,7 @@ distended
 darbs
 darbukka
 darci
+dependant
 decolorate
 darcy
 dard
@@ -5632,7 +5633,6 @@ dependabilities
 dependableness
 dependably
 dependance
-dependant
 dependantly
 depended
 dependence
