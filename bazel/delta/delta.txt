@@ -76,7 +76,6 @@ diarchial
 dacryocystoptosis
 dacryocystosyringotomy
 dacryocystotome
-dacryocystotomy
 dacryohemorrhea
 dacryolithiasis
 dacryoma
@@ -5602,6 +5601,7 @@ departmentize
 departs
 demicolumn
 depascent
+dacryocystotomy
 depass
 disintensify
 delphinoid
