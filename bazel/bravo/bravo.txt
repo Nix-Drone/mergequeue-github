@@ -538,7 +538,6 @@ backswimmer
 backsword
 backswording
 bettergates
-backswordman
 bestness
 backswordmen
 backtack
@@ -1955,6 +1954,7 @@ biostatics
 bandit
 branle
 banditry
+backswordman
 barramundas
 bandits
 banditti
