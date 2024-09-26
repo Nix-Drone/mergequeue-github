@@ -8083,7 +8083,6 @@ chaetites
 chaetitidae
 chaetochloa
 chaetodon
-chaetodont
 cinquanter
 chaetodontid
 chaetodontidae
@@ -13141,6 +13140,7 @@ chinotti
 ciboria
 ciboule
 ciboules
+chaetodont
 cyc
 cicad
 cycad
