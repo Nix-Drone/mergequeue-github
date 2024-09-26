@@ -4142,7 +4142,6 @@ automaton
 admissively
 alibi
 antiperistasis
-admissory
 admit
 admits
 admittable
@@ -18554,6 +18553,7 @@ aviates
 arbinose
 arbiter
 arbith
+admissory
 arbitrage
 alcaic
 arbitrager
