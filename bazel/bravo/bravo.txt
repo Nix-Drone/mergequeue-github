@@ -1960,7 +1960,6 @@ bandits
 banditti
 bandle
 bandleader
-bandless
 bejabers
 bodrag
 blastoff
@@ -15353,6 +15352,7 @@ brigandishly
 boccis
 brigantia
 brigantinebrigantines
+bandless
 brigantines
 brigatry
 brigetty
