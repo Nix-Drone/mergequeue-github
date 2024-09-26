@@ -7894,7 +7894,6 @@ foreprize
 foreproduct
 foreproffer
 forepromise
-forepromised
 foreprovided
 foreprovision
 forepurpose
@@ -11718,6 +11717,7 @@ falus
 futuristically
 futurists
 futurity
+forepromised
 futurities
 futurition
 futurize
