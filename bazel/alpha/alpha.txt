@@ -4989,6 +4989,7 @@ archdapifership
 autophotometry
 aquavalent
 aerohydrous
+apprompt
 anodine
 aerolite
 apocopate
@@ -18006,7 +18007,6 @@ approbations
 approbative
 approbativeness
 approbator
-apprompt
 approof
 appropinquate
 appropinquation
