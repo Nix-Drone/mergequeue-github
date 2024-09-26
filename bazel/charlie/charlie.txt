@@ -3857,7 +3857,6 @@ carburiser
 carburization
 carburize
 carburized
-carburizer
 carburizes
 carburizing
 carburometer
@@ -18211,6 +18210,7 @@ consoled
 coffinmaking
 coffins
 coffled
+carburizer
 coffling
 casts
 coffret
