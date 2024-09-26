@@ -3486,7 +3486,6 @@ adder
 abridgment
 adderfish
 adderspit
-adderwort
 addy
 addibility
 addible
@@ -8753,6 +8752,7 @@ allobrogical
 allocability
 allocable
 allocatable
+adderwort
 allocate
 allocatee
 allocates
