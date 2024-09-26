@@ -2678,7 +2678,6 @@ acquaintedness
 acquainting
 acquereur
 acquest
-acquests
 acquiesce
 acquiesced
 acquiescence
@@ -24642,6 +24641,7 @@ aver
 averagely
 averageness
 avocets
+acquests
 averages
 averaging
 avery
