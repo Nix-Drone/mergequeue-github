@@ -4850,7 +4850,6 @@ cartelistic
 cartelization
 cartelize
 cartelizing
-cartellist
 carter
 carters
 cartes
@@ -14873,6 +14872,7 @@ cytoarchitectural
 cytoarchitecturally
 cytoarchitecture
 certioration
+cartellist
 cytoblast
 confidences
 cytoblastema
