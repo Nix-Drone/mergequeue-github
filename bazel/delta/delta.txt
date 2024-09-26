@@ -8284,6 +8284,7 @@ diplois
 dialectology
 dialectologic
 dialectological
+dunder
 dialectologically
 dialectologies
 dialectologist
@@ -18183,7 +18184,6 @@ dundee
 dunderpates
 dundees
 deadlocks
-dunder
 decurrent
 dunderbolt
 dunderfunk
