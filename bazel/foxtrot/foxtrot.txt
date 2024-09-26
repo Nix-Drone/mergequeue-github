@@ -7537,7 +7537,6 @@ forebodement
 forbbore
 forebodes
 forebody
-forebodies
 foreboding
 forebodingness
 foreboom
@@ -9610,6 +9609,7 @@ fuzzing
 flattop
 frazzled
 frazzles
+forebodies
 frazzling
 frden
 filariidae
