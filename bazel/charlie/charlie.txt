@@ -6949,7 +6949,6 @@ cenosity
 cenospecies
 custodiam
 cenospecific
-cenotaph
 cenotaphy
 cenotaphies
 cenotaphs
@@ -27030,6 +27029,7 @@ counterreplies
 cryophorus
 counterreplying
 counterreprisal
+cenotaph
 counterrestoration
 counterrevolutionary
 counterrevolutionaries
