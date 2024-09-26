@@ -4143,7 +4143,6 @@ badawi
 beanbag
 beanbags
 brickred
-beanball
 beancod
 beaner
 beanery
@@ -16859,6 +16858,7 @@ bufo
 bufonid
 bromoethylene
 bufonidae
+beanball
 bufonite
 bufotalin
 bufotoxin
