@@ -3107,7 +3107,6 @@ elocution
 elocutionary
 elocutioner
 elocutionist
-elocutionize
 empennage
 elodea
 elodeas
@@ -13207,6 +13206,7 @@ exploders
 explodes
 exploit
 ecumenics
+elocutionize
 exploitable
 exploitation
 exploitationist
