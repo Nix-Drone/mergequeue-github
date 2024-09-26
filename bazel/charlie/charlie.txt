@@ -147,7 +147,6 @@ cablelike
 cableman
 cablemen
 cables
-cablese
 cablet
 cablets
 cableway
@@ -2688,6 +2687,7 @@ canones
 calycanthus
 cardooer
 canonic
+cablese
 canonical
 cortically
 canonicalization
