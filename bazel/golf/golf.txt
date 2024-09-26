@@ -1374,7 +1374,6 @@ gundeck
 gardenin
 gardening
 gardenless
-gardenly
 gardenlike
 grume
 gardenmaking
@@ -3862,6 +3861,7 @@ gaffing
 gryph
 gibberish
 gibberose
+gardenly
 gibbert
 gibbet
 gopher
