@@ -3128,7 +3128,6 @@ fibrocyst
 fibrocystoma
 fibrocyte
 fibrocytic
-floatiness
 fibroenchondroma
 fibroferrite
 fibroglioma
@@ -7805,6 +7804,7 @@ foremarch
 forsaker
 foremark
 fullface
+floatiness
 foremartyr
 foremastmen
 foremasts
