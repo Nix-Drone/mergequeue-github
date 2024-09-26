@@ -2475,6 +2475,7 @@ electrolyse
 everydeal
 elephantlike
 electrolysed
+exterritorial
 electrolyses
 electrolysing
 electrolysis
@@ -8649,7 +8650,6 @@ equilater
 equilateral
 epigonichthys
 equilaterally
-exterritorial
 enthrones
 equilibrant
 equilibrate
