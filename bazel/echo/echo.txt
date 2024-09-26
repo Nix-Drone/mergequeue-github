@@ -7218,7 +7218,6 @@ enshadow
 envoi
 envoy
 envois
-envoys
 envoyship
 envolume
 envolupen
@@ -13603,6 +13602,7 @@ exoduses
 emigated
 exterminate
 exterminated
+envoys
 extremistic
 exterminates
 exotery
