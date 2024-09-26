@@ -4165,7 +4165,6 @@ beans
 beansetter
 beanshooter
 beanstalk
-beanstalks
 bibbs
 beanweed
 beaproned
@@ -10851,6 +10850,7 @@ bescoured
 blindish
 blindless
 blindly
+beanstalks
 blindling
 boilery
 blindman
