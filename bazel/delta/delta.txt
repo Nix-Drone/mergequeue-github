@@ -1479,7 +1479,6 @@ deacons
 deaconship
 deactivate
 deactivated
-deactivates
 discontinuing
 dicranoid
 dehydromucic
@@ -10333,6 +10332,7 @@ diosma
 diosmin
 diosmosed
 deposition
+deactivates
 diosmosing
 departures
 diosmosis
