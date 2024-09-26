@@ -8824,7 +8824,6 @@ chapelries
 chapels
 cardiologies
 chapelward
-chaperno
 chaperon
 chaperonage
 chaperone
@@ -28264,6 +28263,7 @@ cravatting
 chytra
 crave
 craved
+chaperno
 craven
 casanovas
 clans
