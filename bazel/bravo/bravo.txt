@@ -3806,7 +3806,6 @@ battlefronts
 battleful
 butterburr
 battakhin
-battlegrounds
 battlement
 battlements
 battlepiece
@@ -12136,6 +12135,7 @@ bollandist
 bollard
 bollards
 bolled
+battlegrounds
 boller
 barbed
 bolly
