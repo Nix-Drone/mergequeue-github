@@ -6941,6 +6941,7 @@ airports
 airpost
 airposts
 airproof
+alferez
 airproofs
 aggrieving
 airscape
@@ -7981,7 +7982,6 @@ alfaquins
 alfaquis
 alfenide
 alferes
-alferez
 alfet
 authentical
 alfilaria
