@@ -6714,7 +6714,6 @@ foetus
 fofarraw
 flanger
 fog
-fogbank
 fogbound
 fogbow
 flyblow
@@ -10581,6 +10580,7 @@ fierily
 frowners
 fudgy
 frenchiness
+fogbank
 frownful
 frowns
 frows
