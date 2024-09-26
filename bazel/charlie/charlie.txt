@@ -24565,7 +24565,6 @@ copydesk
 copied
 copier
 copiers
-copies
 copyfitter
 comvia
 copyfitting
@@ -29253,6 +29252,7 @@ cryptodiran
 cookings
 calcify
 cryptodire
+copies
 cryptodirous
 cryptodouble
 coadventurer
