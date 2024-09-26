@@ -10675,7 +10675,6 @@ euclidian
 eucnemidae
 eucommiaceae
 eucone
-euconic
 eucopepoda
 eucosia
 eucosmid
@@ -11412,6 +11411,7 @@ errite
 exolemma
 evenest
 equivalencing
+euconic
 evenfall
 evenfalls
 exclusively
