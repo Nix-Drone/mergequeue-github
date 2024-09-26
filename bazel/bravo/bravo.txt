@@ -11598,7 +11598,6 @@ boating
 boatings
 boation
 boatkeeper
-bodyplate
 bittacle
 beclamoring
 boxball
@@ -16672,6 +16671,7 @@ befallen
 buckled
 buckleya
 bared
+bodyplate
 bebilya
 buckleless
 buckler
