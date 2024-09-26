@@ -3087,7 +3087,6 @@ emperors
 ellipticalness
 ellipticity
 elliptograph
-elliptoid
 etiolates
 ellops
 earthwards
@@ -6913,6 +6912,7 @@ entomophagous
 entomophila
 entomophily
 entomophytous
+elliptoid
 entomophobia
 entomophthora
 entomophthoraceae
