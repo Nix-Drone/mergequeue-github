@@ -9197,7 +9197,6 @@ dimnesses
 dictynid
 diencephala
 diencephalic
-diencephalon
 diener
 dienes
 dier
@@ -10332,6 +10331,7 @@ didelphian
 diosma
 diosmin
 diosmosed
+diencephalon
 deposition
 diosmosing
 departures
