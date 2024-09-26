@@ -713,6 +713,7 @@ famines
 faena
 famished
 famishing
+fescue
 famishment
 famose
 famous
@@ -988,7 +989,6 @@ freshet
 farcial
 farcialize
 farcicality
-fescue
 farcically
 farcicalness
 farcies
