@@ -1688,7 +1688,6 @@ deassimilation
 deathbed
 deathbeds
 deathcup
-degree
 deathcups
 donatary
 deathday
@@ -4709,6 +4708,7 @@ demisang
 demisangue
 demisavage
 demiscible
+degree
 demise
 demisecond
 demised
