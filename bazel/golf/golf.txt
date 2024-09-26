@@ -682,6 +682,7 @@ gadaea
 geodesy
 galliot
 galliots
+guruships
 gurnets
 gallipot
 gallipots
@@ -10660,7 +10661,6 @@ gurts
 guru
 gurus
 glairing
-guruships
 gusain
 guser
 guserid
