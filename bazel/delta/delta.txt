@@ -7363,7 +7363,6 @@ detrition
 deselect
 detritivorous
 detrivorous
-demonstrance
 detroiter
 detruck
 detrude
@@ -8397,6 +8396,7 @@ dialogues
 dialoguing
 dialonian
 dials
+demonstrance
 dialup
 dialuric
 defenestrated
