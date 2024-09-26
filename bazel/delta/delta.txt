@@ -9031,7 +9031,6 @@ dictynidae
 doneness
 dictyodromous
 dictyogen
-dictyograptus
 dictyoid
 diction
 disparage
@@ -13475,6 +13474,7 @@ dissection
 dissections
 disfrequent
 dissectors
+dictyograptus
 dissects
 desperadoes
 disseise
