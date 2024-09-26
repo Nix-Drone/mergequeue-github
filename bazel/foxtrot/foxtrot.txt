@@ -2234,7 +2234,6 @@ feltmaking
 feltman
 foulard
 foredeep
-feltmonger
 felts
 feltwort
 felucca
@@ -2276,6 +2275,7 @@ feminise
 ferrety
 feminising
 fructiparous
+feltmonger
 feminist
 feministic
 freeloads
