@@ -2245,7 +2245,6 @@ enameller
 enterprises
 elecives
 electability
-electable
 electant
 electary
 epithet
@@ -9993,6 +9992,7 @@ empusa
 electrofuse
 esthesiogenic
 evisceration
+electable
 enamelware
 esthesiography
 emblazers
