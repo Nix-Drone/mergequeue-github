@@ -15275,7 +15275,6 @@ composograph
 claimer
 consumables
 claimers
-claymore
 claims
 claimsman
 claimsmen
@@ -30780,6 +30779,7 @@ cullionry
 cullis
 cullisance
 cullises
+claymore
 culls
 culm
 culmed
