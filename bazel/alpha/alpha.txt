@@ -2927,7 +2927,6 @@ acromimia
 allotype
 acromioclavicular
 acromiocoracoid
-acromyodi
 acromyodic
 acromyodous
 acromiohyoid
@@ -13750,6 +13749,7 @@ anomalocephalus
 anomaloflorous
 anomalogonatae
 allioniaceae
+acromyodi
 annulata
 anomalogonatous
 anomalon
