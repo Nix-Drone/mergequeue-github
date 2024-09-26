@@ -2262,7 +2262,6 @@ electioneerer
 elections
 elective
 ephemerons
-electives
 electivism
 electivity
 electo
@@ -11924,6 +11923,7 @@ excelling
 excels
 excelsin
 excelsior
+electives
 endophytic
 embalmment
 excentric
