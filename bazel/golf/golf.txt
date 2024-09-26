@@ -2659,7 +2659,6 @@ gradatim
 guttifer
 geochronometry
 genear
-genecology
 genecologic
 gradienter
 genecological
@@ -8998,6 +8997,7 @@ grill
 geog
 gyrograph
 grilladed
+genecology
 grillades
 grillages
 grilled
