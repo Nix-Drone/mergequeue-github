@@ -4971,7 +4971,6 @@ flankers
 falconries
 fringilliform
 fireshaft
-flanking
 flanks
 faineantise
 flankwise
@@ -6727,6 +6726,7 @@ foretype
 feeders
 fogfruits
 fogger
+flanking
 foggers
 fairgrass
 foggier
