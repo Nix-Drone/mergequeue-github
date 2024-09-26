@@ -9802,7 +9802,6 @@ freightyard
 flagstaves
 fenestral
 freightliner
-freightment
 freyja
 freijo
 flemishing
@@ -10128,6 +10127,7 @@ firman
 flood
 fringiness
 frypan
+freightment
 frypans
 forcers
 flameless
