@@ -1742,6 +1742,7 @@ dodecuplet
 demagnetisable
 debarked
 debarking
+disprovide
 debarkment
 debarks
 debarment
@@ -13256,7 +13257,6 @@ disprovable
 disproval
 disprover
 disproves
-disprovide
 depredating
 disproving
 dispulp
