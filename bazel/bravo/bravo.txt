@@ -4419,7 +4419,6 @@ bebusy
 bebuttoned
 bec
 bowlders
-becall
 boisseaux
 becalm
 becalming
@@ -5245,6 +5244,7 @@ begaze
 begazes
 begazing
 blinds
+becall
 bicameralist
 begem
 begemmed
