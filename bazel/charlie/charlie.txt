@@ -14890,7 +14890,6 @@ cytocyst
 cytoclasis
 cytoclastic
 coalheugh
-celiolymph
 crioboly
 cytococci
 cytococcus
@@ -19571,6 +19570,7 @@ columnate
 columnated
 columnates
 columnating
+celiolymph
 columnation
 columnea
 crinkleroot
