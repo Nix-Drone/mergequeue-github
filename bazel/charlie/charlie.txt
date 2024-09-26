@@ -20486,7 +20486,6 @@ compartner
 compass
 compassability
 compassable
-compassed
 compasses
 compassing
 compassion
@@ -26586,6 +26585,7 @@ councilman
 councilmanic
 councilmen
 councilor
+compassed
 councilors
 chester
 conessine
