@@ -6851,7 +6851,6 @@ announcement
 airdates
 airdock
 airdrome
-airdromes
 airdrop
 airdropped
 airdropping
@@ -19361,6 +19360,7 @@ areic
 areito
 aren
 arena
+airdromes
 arenariae
 arenas
 addressed
