@@ -8512,7 +8512,6 @@ alkoran
 alkoxy
 alkoxid
 alkoxyl
-all
 allachesthesia
 allaeanthus
 allagite
@@ -16219,6 +16218,7 @@ antishipping
 antisi
 antisialagogue
 alisma
+all
 antisiccative
 antisideric
 antisilverite
