@@ -279,7 +279,6 @@ generating
 gainer
 gainful
 gym
-gibs
 gainfulness
 gaingiving
 gainyield
@@ -5739,6 +5738,7 @@ glub
 gemology
 garnice
 gradable
+gibs
 gloeosporium
 gelfomino
 glogg
