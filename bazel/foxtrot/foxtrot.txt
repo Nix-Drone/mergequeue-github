@@ -1101,7 +1101,6 @@ fasteners
 fisc
 farms
 farmscape
-farmsteads
 farmtown
 farnesol
 farnesols
@@ -10777,6 +10776,7 @@ frustula
 frustule
 frustulent
 frustules
+farmsteads
 frustum
 frutescent
 frutex
