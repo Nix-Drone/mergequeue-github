@@ -6832,7 +6832,6 @@ aircheck
 airchecks
 aircoaches
 aircraft
-aircraftman
 axometer
 aircraftmen
 aircraftsman
@@ -20113,6 +20112,7 @@ aroph
 agitating
 abash
 arose
+aircraftman
 around
 arousable
 abominably
