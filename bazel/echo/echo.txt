@@ -2665,6 +2665,7 @@ electrotherapeutical
 electrotherapeutist
 edaphodont
 electrotherapy
+earcap
 electrophotography
 encumbrances
 electrotherapist
@@ -8361,7 +8362,6 @@ epithelioid
 entosphenoid
 epitheliolysin
 epitheliolysis
-earcap
 embrown
 epitheliolytic
 epithelioma
