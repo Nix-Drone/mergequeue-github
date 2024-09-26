@@ -5844,6 +5844,7 @@ defats
 deposer
 deposers
 deposes
+diocese
 discouragement
 deposing
 deposit
@@ -10219,7 +10220,6 @@ dinumeration
 dinus
 diobol
 dioc
-diocese
 dioceses
 diocesian
 decares
