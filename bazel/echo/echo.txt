@@ -7514,7 +7514,6 @@ ephemerid
 ephemerida
 ephemeridae
 ephemerides
-ephemeris
 ephemeromorph
 ephemeromorphic
 ephemeron
@@ -8419,6 +8418,7 @@ epitomise
 eructate
 epitomiser
 epitomising
+ephemeris
 epitomist
 egency
 erucic
