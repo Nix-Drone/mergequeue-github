@@ -2742,6 +2742,7 @@ barmaster
 barmbrack
 barmcloth
 brither
+bigonial
 barmecide
 barmen
 barmfel
@@ -8426,7 +8427,6 @@ bygo
 bygoing
 bygone
 bygones
-bigonial
 boyarisms
 bigotedly
 bigotedness
