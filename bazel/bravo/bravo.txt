@@ -6390,7 +6390,6 @@ benzalphthalide
 benzamide
 benzamido
 benzamine
-benzaminic
 benzamino
 benzanalgen
 benzanilide
@@ -8964,6 +8963,7 @@ biocoenoses
 biocoenotic
 biodegradability
 biodegradable
+benzaminic
 biodegradation
 becassocked
 biodegrade
