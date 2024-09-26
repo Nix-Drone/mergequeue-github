@@ -3369,7 +3369,6 @@ capsized
 capsizes
 capsomer
 capsomere
-capsomers
 capstan
 capstans
 capstone
@@ -4481,6 +4480,7 @@ carnification
 carnificial
 carnifies
 carniform
+capsomers
 carnitine
 carnival
 carnivaller
