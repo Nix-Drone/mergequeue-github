@@ -2469,7 +2469,6 @@ fermatas
 fermate
 fleshed
 ferme
-familarity
 fullymart
 forespeed
 ferment
@@ -11644,6 +11643,7 @@ fustanelle
 fetch
 fusteric
 fioretti
+familarity
 fustet
 fusty
 farmage
