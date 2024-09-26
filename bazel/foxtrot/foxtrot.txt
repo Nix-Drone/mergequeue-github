@@ -3974,7 +3974,6 @@ fingerer
 fingerers
 foreschooling
 firebolted
-fingerfish
 fingerhold
 fingerhook
 fingering
@@ -10246,6 +10245,7 @@ forbit
 frizette
 frizettes
 frizing
+fingerfish
 frizz
 fleam
 frizzante
