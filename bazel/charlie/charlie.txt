@@ -16577,6 +16577,7 @@ cloisters
 cloisterwise
 cloistral
 chid
+creatable
 cloistress
 cloit
 comites
@@ -28402,7 +28403,6 @@ counterretreat
 consistory
 creasol
 creasot
-creatable
 crosier
 create
 created
