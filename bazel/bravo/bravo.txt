@@ -2580,7 +2580,6 @@ bargelike
 bargelli
 bargello
 bargeload
-bargeman
 bromcamphor
 bookmaking
 bargemaster
@@ -13616,6 +13615,7 @@ bourgeoisitic
 breadlessness
 basiliscus
 bourgeoned
+bargeman
 bourgeoning
 bourgeons
 bourgs
