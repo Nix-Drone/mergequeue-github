@@ -683,7 +683,6 @@ geodesy
 galliot
 galliots
 gurnets
-gallipot
 gallipots
 gallirallus
 gallisin
@@ -5952,6 +5951,7 @@ glazings
 glottiscope
 glottitis
 garrulously
+gallipot
 goony
 griped
 gymnemic
