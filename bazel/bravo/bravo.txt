@@ -442,6 +442,7 @@ backsaws
 backscatter
 backscattered
 backscattering
+bicyclical
 backscraper
 backscratcher
 backset
@@ -8070,7 +8071,6 @@ bicycler
 bicyclers
 backgrounds
 bicyclic
-bicyclical
 bicycling
 bicyclism
 bicyclist
