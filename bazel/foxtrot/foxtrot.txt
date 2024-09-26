@@ -4343,6 +4343,7 @@ forb
 fisetin
 fish
 fishability
+floristic
 fishable
 fishback
 fishberry
@@ -9635,7 +9636,6 @@ forfear
 freck
 fumewort
 fluidities
-floristic
 frecket
 freckle
 fenagle
