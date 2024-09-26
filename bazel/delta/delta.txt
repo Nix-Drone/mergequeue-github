@@ -1177,6 +1177,7 @@ datableness
 datably
 datacell
 datafile
+dockman
 dataflow
 datagram
 datagrams
@@ -14676,7 +14677,6 @@ dobras
 docklands
 dockmackie
 dominica
-dockman
 dockmaster
 diazotizable
 docks
