@@ -9606,7 +9606,6 @@ bisectors
 bisectrices
 busybodyness
 bisects
-bisegment
 bisellium
 banalize
 bysen
@@ -12024,6 +12023,7 @@ boilinglike
 bladdernose
 boiloff
 boiloffs
+bisegment
 brackishness
 boilover
 boils
