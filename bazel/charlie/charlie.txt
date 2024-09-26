@@ -11205,7 +11205,6 @@ chlorambucil
 chloramin
 crepidomata
 chloramine
-chloramphenicol
 chloranaemia
 chloranemia
 chloranemic
@@ -22477,6 +22476,7 @@ conjugateness
 conjugates
 conduplicated
 conjugational
+chloramphenicol
 conjugationally
 conjugations
 conjugative
