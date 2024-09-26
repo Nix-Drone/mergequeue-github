@@ -1203,6 +1203,7 @@ acacias
 acaciin
 acclimatized
 acad
+autonavigator
 academe
 academes
 academy
@@ -20585,7 +20586,6 @@ arthrodiae
 arthrodic
 arthrodymic
 autorotate
-autonavigator
 assimilations
 arthrodira
 arthrodiran
