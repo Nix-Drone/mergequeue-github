@@ -4354,7 +4354,6 @@ beaverroot
 beavers
 beaverskin
 beaverteen
-beaverwood
 beback
 bebay
 bebait
@@ -4857,6 +4856,7 @@ bedstead
 brazenface
 baikerinite
 beshrouded
+beaverwood
 bedstraw
 bedstraws
 bedstring
