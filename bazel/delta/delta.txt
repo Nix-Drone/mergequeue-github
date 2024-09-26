@@ -15606,7 +15606,6 @@ doorjambs
 doorkeeper
 doorknob
 doorknobs
-doorless
 doormaid
 doormaker
 doorman
@@ -18540,6 +18539,7 @@ dusked
 dusken
 dusky
 delubrum
+doorless
 duskier
 duskiest
 duskily
