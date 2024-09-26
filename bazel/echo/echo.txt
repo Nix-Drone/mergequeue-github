@@ -2520,7 +2520,6 @@ electrometric
 electrometrical
 electrometrically
 electromyogram
-electromyography
 electromyographically
 electromobile
 electromotive
@@ -10335,6 +10334,7 @@ eunuchised
 ethylbenzene
 epiphytology
 ethyldichloroarsine
+electromyography
 enforcible
 epistolographer
 ethylenediamine
