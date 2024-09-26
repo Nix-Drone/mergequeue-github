@@ -5120,7 +5120,6 @@ flatlong
 flatman
 flatness
 favi
-flats
 flatted
 flatten
 flimp
@@ -6289,6 +6288,7 @@ fecit
 fluidified
 fluidifier
 fluidimeter
+flats
 fluidisation
 forewisdom
 fluidised
