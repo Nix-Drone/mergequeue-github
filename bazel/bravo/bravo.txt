@@ -3620,7 +3620,6 @@ bathymetrical
 bathinette
 bathing
 bulreedy
-bathypelagic
 bastinadoes
 babesiasis
 bathyplankton
@@ -10684,6 +10683,7 @@ bogijiab
 bishopric
 blenniid
 blenniidae
+bathypelagic
 blenniiform
 blenniiformes
 bavarian
