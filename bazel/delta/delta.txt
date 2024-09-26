@@ -1481,6 +1481,7 @@ deactivate
 deactivated
 deactivates
 discontinuing
+deal
 dicranoid
 dehydromucic
 deactivation
@@ -5109,7 +5110,6 @@ dendrites
 demeritorious
 dendritic
 dendritical
-deal
 dendritiform
 defension
 dendrium
