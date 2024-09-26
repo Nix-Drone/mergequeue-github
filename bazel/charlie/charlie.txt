@@ -4826,7 +4826,6 @@ complainingness
 carshop
 cogitable
 carshops
-carsick
 carsickness
 carsmith
 carson
@@ -30724,6 +30723,7 @@ culation
 culavamsa
 credits
 culbert
+carsick
 culbut
 copain
 culbute
