@@ -910,6 +910,7 @@ gambits
 gonotocont
 guillemot
 gamble
+graphalloy
 gambler
 gamblesome
 gamblesomeness
@@ -8145,7 +8146,6 @@ grapeskin
 grapestalk
 grapevines
 grapewise
-graphalloy
 graphanalysis
 graphed
 gigabit
