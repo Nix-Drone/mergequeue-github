@@ -2433,7 +2433,6 @@ electroendosmosis
 electroengrave
 electroengraving
 electroextraction
-expedient
 electroform
 electroforming
 electrofusion
@@ -8537,6 +8536,7 @@ epulo
 epuloid
 epulosis
 epulotic
+expedient
 epural
 epuration
 eq
