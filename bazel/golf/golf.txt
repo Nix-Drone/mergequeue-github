@@ -1466,6 +1466,7 @@ garments
 glutael
 garmenture
 garmentworker
+gardon
 growlers
 garnel
 greynesses
@@ -2451,7 +2452,6 @@ gaelicize
 gelation
 greaves
 gravilea
-gardon
 glunching
 gelations
 gelatose
