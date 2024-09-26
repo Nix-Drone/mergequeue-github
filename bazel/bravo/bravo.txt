@@ -2557,7 +2557,6 @@ barfing
 blarny
 britzka
 barfish
-barfs
 bargain
 bargainable
 billbugs
@@ -13451,6 +13450,7 @@ boucles
 boudeuse
 boudin
 boudoir
+barfs
 boudoirs
 bagman
 bouet
