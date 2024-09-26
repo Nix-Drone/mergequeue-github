@@ -9197,7 +9197,6 @@ dimnesses
 dictynid
 diencephala
 diencephalic
-diencephalon
 diener
 dienes
 dier
@@ -13790,6 +13789,7 @@ dwelt
 disthrone
 disciplinarian
 disthroned
+diencephalon
 darwinical
 disthroning
 disty
