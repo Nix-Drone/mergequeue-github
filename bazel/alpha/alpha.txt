@@ -9026,7 +9026,6 @@ allurer
 allures
 alluring
 alluringly
-alluringness
 allusion
 allusions
 allusive
@@ -18261,6 +18260,7 @@ aquatic
 aquatically
 aquatics
 aquatile
+alluringness
 aquatinta
 aquatinted
 aquatinter
