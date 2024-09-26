@@ -3568,7 +3568,6 @@ filaments
 filamentule
 filander
 filao
-forsterite
 filaree
 fishboats
 filarees
@@ -5324,6 +5323,7 @@ flutists
 fleche
 flechette
 flechettes
+forsterite
 fleck
 flecked
 fleckering
