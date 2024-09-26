@@ -4141,7 +4141,6 @@ admissive
 automaton
 admissively
 alibi
-antiperistasis
 admissory
 admit
 admits
@@ -8744,6 +8743,7 @@ allo
 alloantibody
 anoesia
 agreers
+antiperistasis
 adstringe
 allobar
 allobaric
