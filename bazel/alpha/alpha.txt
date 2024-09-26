@@ -11401,7 +11401,6 @@ amusee
 amusement
 amusements
 amusers
-attractors
 amuses
 amusette
 amusgo
@@ -19133,6 +19132,7 @@ archpirate
 aira
 acrotretidae
 adactylism
+attractors
 archplagiarist
 artifices
 archplotter
