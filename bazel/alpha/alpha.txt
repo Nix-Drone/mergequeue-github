@@ -6225,7 +6225,6 @@ aspartokinase
 aglossa
 aglossal
 aglossia
-aglow
 aglucon
 aglucone
 agma
@@ -6816,6 +6815,7 @@ airbags
 airbills
 airboat
 airboats
+aglow
 airborn
 airbound
 airbrained
