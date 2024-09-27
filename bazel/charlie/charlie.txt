@@ -5186,7 +5186,6 @@ cassareep
 cassata
 cassatas
 cassation
-cassava
 casse
 caveats
 cassegrain
@@ -24946,6 +24945,7 @@ cordant
 cordate
 cordately
 compensative
+cassava
 cordax
 cordeau
 corded
