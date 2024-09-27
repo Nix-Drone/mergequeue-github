@@ -10136,6 +10136,7 @@ guianese
 guichet
 guidable
 guidance
+guttable
 guide
 gruf
 guideboard
@@ -10750,7 +10751,6 @@ goths
 gutt
 gpcd
 gygis
-guttable
 guttae
 guttate
 gulfwards
