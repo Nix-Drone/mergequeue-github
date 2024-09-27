@@ -5837,7 +5837,6 @@ fname
 floccillation
 floccipend
 freeloader
-forcipressure
 floccose
 floccosely
 flocculable
@@ -6016,6 +6015,7 @@ floribunda
 floricin
 floricomous
 fellinic
+forcipressure
 floriculturally
 floriculture
 floriculturist
