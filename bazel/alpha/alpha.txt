@@ -928,7 +928,6 @@ absences
 absent
 ascochyta
 absentation
-absented
 absentee
 absentees
 absenter
@@ -13486,6 +13485,7 @@ anneal
 annealed
 annealer
 annealers
+absented
 annealing
 appoggiature
 anneals
