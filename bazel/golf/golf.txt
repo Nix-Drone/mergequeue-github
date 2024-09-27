@@ -2714,7 +2714,6 @@ generalships
 generalty
 generant
 greige
-generate
 generated
 generater
 gurdy
@@ -5920,6 +5919,7 @@ grinder
 glossoplasty
 glossoplegia
 glossopodium
+generate
 glossopteris
 glossoptosis
 glossorrhaphy
