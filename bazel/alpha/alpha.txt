@@ -3799,7 +3799,6 @@ adherency
 adherend
 adherends
 adherently
-adherents
 adherer
 adherers
 adheres
@@ -12727,6 +12726,7 @@ anginose
 anginous
 angioataxia
 areality
+adherents
 angioblast
 angioblastic
 angiocardiography
