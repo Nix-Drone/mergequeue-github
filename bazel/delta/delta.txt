@@ -1965,7 +1965,6 @@ desugars
 decaedron
 decaesarize
 decaffeinate
-decaffeinated
 decaffeinates
 deadpanner
 decaffeinating
@@ -11012,6 +11011,7 @@ disannuller
 disannulment
 disincarcerate
 disannuls
+decaffeinated
 disanswerable
 dysaphia
 disapostle
