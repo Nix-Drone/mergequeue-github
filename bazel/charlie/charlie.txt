@@ -17847,7 +17847,6 @@ cabstand
 coecum
 coed
 chantage
-coedit
 coedited
 coediting
 coeditor
@@ -26275,6 +26274,7 @@ costumery
 costumers
 costumes
 costumic
+coedit
 costumier
 costumiere
 costumiers
