@@ -4381,6 +4381,7 @@ enamelist
 enamellar
 equiped
 enamellers
+euornithic
 enamelless
 enamels
 enami
@@ -10897,7 +10898,6 @@ euonym
 euonymy
 euonymous
 euonymus
-euornithic
 echinid
 euripos
 ermelin
