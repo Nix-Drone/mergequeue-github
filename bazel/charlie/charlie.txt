@@ -9940,7 +9940,6 @@ cancers
 chemosterilants
 chemosurgery
 chemosurgical
-chemotactic
 chemotactically
 chemotaxy
 chemotaxis
@@ -13959,6 +13958,7 @@ cinnamene
 cinnamic
 cinnamyl
 cinnamylidene
+chemotactic
 cyclodiolefin
 cinnamodendron
 cinnamol
