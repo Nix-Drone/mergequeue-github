@@ -2669,7 +2669,6 @@ baritones
 barytones
 byres
 bedaff
-barytons
 barytophyllite
 barytosulphate
 bridgelike
@@ -10228,6 +10227,7 @@ bladderpod
 bladderseed
 bladderweed
 bladderwort
+barytons
 bladderwrack
 brabbler
 blade
