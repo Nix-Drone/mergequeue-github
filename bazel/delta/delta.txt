@@ -4322,7 +4322,6 @@ displacer
 deltiology
 dialyzing
 dummy
-deltohedron
 deltoidei
 deltoideus
 deltoids
@@ -17376,6 +17375,7 @@ disphenoid
 droopt
 drop
 desquamation
+deltohedron
 dropax
 dropberry
 dropcloth
