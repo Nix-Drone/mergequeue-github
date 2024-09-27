@@ -4896,6 +4896,7 @@ cartographies
 cartomancy
 cartomancies
 carton
+complicator
 cartoner
 cartonful
 cartoning
@@ -20724,7 +20725,6 @@ complicates
 complication
 complications
 complicative
-complicator
 complicators
 complice
 complices
