@@ -2341,6 +2341,7 @@ cand
 candace
 candareen
 candelabra
+cursor
 candelabras
 candelabrum
 candelabrums
@@ -31502,7 +31503,6 @@ cursively
 cursiveness
 conveyal
 cursives
-cursor
 cundite
 cursores
 cursory
