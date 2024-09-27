@@ -8922,7 +8922,6 @@ biobibliographer
 biobibliography
 biobibliographic
 biobibliographical
-biobibliographies
 bioblast
 bioblastic
 bronchotyphoid
@@ -12956,6 +12955,7 @@ borders
 borderland
 borderlander
 borderlands
+biobibliographies
 borderless
 borderlight
 bordermark
