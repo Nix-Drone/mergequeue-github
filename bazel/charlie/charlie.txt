@@ -17338,6 +17338,7 @@ coauthority
 coauthors
 coauthorship
 coawareness
+comvia
 coax
 coaxal
 coaxation
@@ -24567,7 +24568,6 @@ copier
 copiers
 copies
 copyfitter
-comvia
 copyfitting
 copygraph
 copygraphed
