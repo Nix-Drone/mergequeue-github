@@ -13661,6 +13661,7 @@ cymbalom
 cimbaloms
 cymbalon
 cymbel
+commanded
 cymbella
 cymbid
 cymbidium
@@ -19902,7 +19903,6 @@ commandable
 conveyable
 commandant
 commandatory
-commanded
 commandedness
 commandeer
 centenarians
