@@ -4372,7 +4372,6 @@ aurorae
 adrenocorticotrophic
 ammonolysis
 adrenocorticotropic
-adrenolysis
 adrenomedullary
 anthracolithic
 adrenosterone
@@ -10747,6 +10746,7 @@ ammonifies
 ammonifying
 ammoniojarosite
 arctiidae
+adrenolysis
 ammonion
 ammonite
 ammonites
