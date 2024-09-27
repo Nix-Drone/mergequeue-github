@@ -1541,7 +1541,6 @@ dibstones
 deadpans
 deadrise
 deadtongue
-deadweight
 ditto
 deadwork
 deaving
@@ -17180,6 +17179,7 @@ drinkproof
 drinks
 drinn
 dryobalanops
+deadweight
 dryopes
 decolorizing
 decorums
