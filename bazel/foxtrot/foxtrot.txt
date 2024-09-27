@@ -6099,6 +6099,7 @@ flotages
 favorability
 foregoes
 flote
+forequarters
 fustin
 fragor
 felspar
@@ -7901,7 +7902,6 @@ forepurpose
 frontways
 fixers
 forequarter
-forequarters
 fraidycat
 fleet
 forerake
