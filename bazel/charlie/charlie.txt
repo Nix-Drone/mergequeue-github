@@ -15395,7 +15395,6 @@ clangful
 clanging
 clangingly
 clangor
-clangored
 clangorous
 clangorously
 clangors
@@ -24069,6 +24068,7 @@ convergent
 converges
 convergescence
 converginerved
+clangored
 converging
 conversable
 conversableness
