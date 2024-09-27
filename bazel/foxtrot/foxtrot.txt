@@ -1485,7 +1485,6 @@ fattier
 featherweight
 fatties
 forceable
-fattiness
 funis
 fattishness
 fattrels
@@ -8999,6 +8998,7 @@ fount
 fountain
 felinely
 ficins
+fattiness
 fountained
 fountaineer
 fearfulness
