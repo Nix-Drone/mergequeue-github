@@ -442,7 +442,6 @@ cadalene
 cadamba
 cryptocrystalline
 cadaster
-cadasters
 cadastral
 churnstaff
 cadastration
@@ -9894,6 +9893,7 @@ chemoceptor
 chemokinesis
 chemokinetic
 chemolysis
+cadasters
 chemolytic
 coasted
 colpostat
