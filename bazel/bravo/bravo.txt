@@ -5637,6 +5637,7 @@ bindweeds
 blarina
 belate
 belated
+bloc
 belatedness
 belating
 belaud
@@ -10976,7 +10977,6 @@ blobbiness
 beaued
 backed
 blobs
-bloc
 blocage
 block
 blockade
