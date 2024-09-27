@@ -2954,7 +2954,6 @@ canzona
 canzonas
 canzones
 canzonet
-canzonets
 canzonetta
 canzoni
 canzos
@@ -27912,6 +27911,7 @@ craftsmen
 craftspeople
 concubinaries
 craftsperson
+canzonets
 craftswoman
 craftwork
 craftworker
