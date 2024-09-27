@@ -1104,6 +1104,7 @@ farmscape
 farmsteads
 farmtown
 farnesol
+flautist
 farnesols
 fogas
 flinger
@@ -5189,7 +5190,6 @@ flauntily
 flaunting
 flauntingly
 flautino
-flautist
 flautists
 formulas
 floodcock
