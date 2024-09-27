@@ -4400,7 +4400,6 @@ frameworks
 fishlet
 fishlike
 furlough
-fishline
 fishlines
 frondage
 fishling
@@ -11266,6 +11265,7 @@ funicular
 funiculars
 friborg
 funiculitis
+fishline
 funiculus
 funiform
 funipendulous
