@@ -3481,6 +3481,7 @@ deticking
 defog
 defogged
 didymus
+disconformity
 disyllable
 defoggers
 defogging
@@ -11538,7 +11539,6 @@ disconfirmation
 deosculate
 dosology
 disconformably
-disconformity
 disconformities
 disconjure
 disconnect
