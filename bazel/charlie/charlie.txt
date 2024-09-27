@@ -4872,7 +4872,6 @@ cartilages
 cartilaginean
 cartilaginei
 cartilagineous
-cartilagines
 cartilaginoid
 cartilaginous
 carting
@@ -7380,6 +7379,7 @@ cephalopodan
 cephalopodous
 cephalopterus
 cephalorhachidian
+cartilagines
 cephaloridine
 cephalosome
 cephalospinal
