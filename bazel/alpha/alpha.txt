@@ -12492,7 +12492,6 @@ anemography
 anemographic
 anemographically
 anemology
-anemologic
 anemological
 anemometer
 anemometers
@@ -12966,6 +12965,7 @@ angularity
 angularities
 assoluto
 angularly
+anemologic
 angulate
 angulated
 angulately
