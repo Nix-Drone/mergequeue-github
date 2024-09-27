@@ -5357,7 +5357,6 @@ birne
 begrett
 begrim
 begrimed
-begrimer
 begrimes
 bombsight
 begrimmed
@@ -6125,6 +6124,7 @@ bename
 benamee
 benami
 bequeathable
+begrimer
 benamidar
 bangiaceae
 benasty
