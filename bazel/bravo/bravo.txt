@@ -800,7 +800,6 @@ bookmonger
 badju
 betterer
 badland
-badlands
 bogatyr
 buba
 badly
@@ -2901,6 +2900,7 @@ barracan
 barrack
 barracked
 barracker
+badlands
 barracking
 barraclade
 barracoon
