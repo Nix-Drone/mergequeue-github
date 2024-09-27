@@ -7787,7 +7787,6 @@ epidermidalization
 epidermis
 epidermization
 epidermoid
-epidermolysis
 exscriptural
 eogaean
 ean
@@ -8826,6 +8825,7 @@ equoidean
 equulei
 equuleus
 eucalypt
+epidermolysis
 equus
 erade
 eradiate
