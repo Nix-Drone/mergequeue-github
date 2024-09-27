@@ -12492,7 +12492,6 @@ anemography
 anemographic
 anemographically
 anemology
-anemologic
 anemological
 anemometer
 anemometers
@@ -13358,6 +13357,7 @@ anisostichus
 anisostomous
 anisotonic
 anisotrope
+anemologic
 anisotropy
 anisotropically
 anencephalotrophia
