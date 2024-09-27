@@ -2506,6 +2506,7 @@ fermions
 frutage
 fermis
 fermium
+folly
 fermorite
 fern
 fastigium
@@ -6948,7 +6949,6 @@ folles
 formalisation
 folletage
 folletti
-folly
 follicle
 follicles
 forcemeat
