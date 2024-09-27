@@ -4921,7 +4921,6 @@ garderobe
 giver
 givers
 gladeye
-gyves
 giveth
 givin
 glaux
@@ -6431,6 +6430,7 @@ gobbled
 gomari
 gutsiest
 gobbledegook
+gyves
 gobbledygook
 gobbler
 gormandiser
