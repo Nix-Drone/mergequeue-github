@@ -11618,6 +11618,7 @@ boatmaster
 boatmen
 blesbok
 boatowner
+boatbills
 boats
 boatshop
 boatsman
@@ -17926,7 +17927,6 @@ bushbeck
 bushbody
 bushbodies
 bushbuck
-boatbills
 bacteriocyte
 bushbucks
 bearbush
