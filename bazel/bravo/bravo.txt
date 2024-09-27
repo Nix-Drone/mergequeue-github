@@ -7281,7 +7281,6 @@ bestraw
 bestreak
 bestream
 blackhander
-bestrew
 bestrewed
 bestrewing
 bestrewment
@@ -16689,6 +16688,7 @@ bucklum
 bucko
 buckone
 buckpot
+bestrew
 buckram
 buckraming
 buckrams
