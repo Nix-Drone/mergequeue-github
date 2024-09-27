@@ -1901,7 +1901,6 @@ bandboxical
 bandcase
 bandcutter
 bande
-bandeau
 bandeaux
 betula
 banded
@@ -14553,6 +14552,7 @@ bransle
 bransolder
 branta
 brantail
+bandeau
 brantails
 brantle
 brantness
