@@ -713,7 +713,6 @@ famines
 faena
 famished
 famishing
-famishment
 famose
 famous
 famousness
@@ -5820,6 +5819,7 @@ fallacy
 floatiest
 frederic
 floatingly
+famishment
 floatless
 floatman
 floatsman
