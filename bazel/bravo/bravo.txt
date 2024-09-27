@@ -5250,6 +5250,7 @@ begem
 begemmed
 begemming
 beget
+bordermark
 begettal
 begetter
 begetters
@@ -12958,7 +12959,6 @@ borderlander
 borderlands
 borderless
 borderlight
-bordermark
 blastoporphyritic
 bordman
 bordrag
