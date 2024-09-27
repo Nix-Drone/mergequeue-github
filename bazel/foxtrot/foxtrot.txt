@@ -2220,7 +2220,6 @@ felspars
 friendlily
 felspath
 felspathose
-felstone
 framers
 farmhouses
 felt
@@ -11344,6 +11343,7 @@ furbish
 freakery
 furbishable
 furbishes
+felstone
 furbishment
 florikan
 furca
