@@ -1465,7 +1465,6 @@ gibingly
 garments
 glutael
 garmenture
-garmentworker
 growlers
 garnel
 greynesses
@@ -4909,6 +4908,7 @@ give
 goaltending
 gyve
 giveable
+garmentworker
 gederite
 gipsyweed
 giveaway
