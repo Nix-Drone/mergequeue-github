@@ -5743,7 +5743,6 @@ deplenish
 depletable
 depleteable
 depleted
-depleting
 depletion
 depletions
 depletive
@@ -12924,6 +12923,7 @@ dromiceiidae
 disparatum
 dyspareunia
 disparison
+depleting
 disparity
 disparities
 disparition
