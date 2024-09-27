@@ -3819,6 +3819,7 @@ battleships
 buhr
 battlesome
 boatfalls
+bellweather
 banderilla
 battlestead
 battlewagon
@@ -5907,7 +5908,6 @@ bellum
 becobweb
 bellwaver
 bluer
-bellweather
 blinkard
 bellweed
 bellwether
