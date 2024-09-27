@@ -13304,7 +13304,6 @@ cyclo
 coulometric
 cycloacetylene
 cycloaliphatic
-cycloalkane
 cyclobothra
 cyclobutane
 caesuras
@@ -28132,6 +28131,7 @@ crankness
 companionably
 crankous
 crankpin
+cycloalkane
 crankpins
 crankplate
 cranks
