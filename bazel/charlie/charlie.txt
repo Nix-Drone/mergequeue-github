@@ -6200,7 +6200,6 @@ caulopteris
 caulosarc
 caulotaxy
 caulotaxis
-caulote
 cauls
 caum
 cauma
@@ -20521,6 +20520,7 @@ compearance
 compearant
 comped
 compeer
+caulote
 compeered
 compeering
 compeers
