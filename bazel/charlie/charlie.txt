@@ -158,7 +158,6 @@ cablish
 campmaster
 cabmen
 cabob
-caboceer
 caboched
 caboclo
 coploughing
@@ -16740,6 +16739,7 @@ cloudbursts
 cloudcap
 cloudful
 cloudy
+caboceer
 cloudier
 catalogue
 cloudiest
