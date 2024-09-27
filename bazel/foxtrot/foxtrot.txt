@@ -7903,7 +7903,6 @@ fixers
 forequarter
 forequarters
 fraidycat
-fleet
 forerake
 figural
 fideles
@@ -10074,6 +10073,7 @@ frigorifico
 frigostable
 frigotherapy
 frigs
+fleet
 frying
 frija
 frijole
