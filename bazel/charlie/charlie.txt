@@ -2050,7 +2050,6 @@ culvert
 campholide
 camphols
 camphor
-camphoraceous
 camphorated
 camphorates
 camphorating
@@ -2918,6 +2917,7 @@ cantref
 cantrip
 cantrips
 coveting
+camphoraceous
 cantus
 cantut
 cantuta
