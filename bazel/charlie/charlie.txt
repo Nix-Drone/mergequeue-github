@@ -5518,7 +5518,6 @@ catalogize
 catalogs
 catalogued
 cataloguer
-catalogues
 cataloguing
 cataloguish
 cataloguist
@@ -18242,6 +18241,7 @@ cogently
 cogged
 cogger
 coggers
+catalogues
 cogging
 culmen
 coggle
