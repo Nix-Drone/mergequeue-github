@@ -11093,7 +11093,6 @@ disassembler
 disassembles
 descriptors
 disassembling
-disassent
 disassiduity
 disassimilate
 dodecastyle
@@ -16615,6 +16614,7 @@ dragonade
 dactylopius
 denotations
 derelictness
+disassent
 dragonesque
 dragonet
 dreamwhile
