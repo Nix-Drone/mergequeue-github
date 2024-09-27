@@ -5687,7 +5687,6 @@ dephlogisticate
 dess
 dephlogisticated
 dephlogistication
-dephosphorization
 dephosphorize
 depickle
 depict
@@ -14938,6 +14937,7 @@ dogfish
 dogfoot
 dogfought
 doggedly
+dephosphorization
 divus
 doggedness
 dogger
