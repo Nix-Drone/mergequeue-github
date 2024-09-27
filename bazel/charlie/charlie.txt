@@ -5066,7 +5066,6 @@ casehardened
 casehardening
 casehardens
 casey
-caseic
 casein
 caseinate
 cordites
@@ -26275,6 +26274,7 @@ costumery
 costumers
 costumes
 costumic
+caseic
 costumier
 costumiere
 costumiers
