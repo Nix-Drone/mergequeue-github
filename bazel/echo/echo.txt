@@ -2797,6 +2797,7 @@ epipubic
 epicardium
 elenctical
 ectocornea
+end
 elenge
 elengely
 eleoblast
@@ -4917,7 +4918,6 @@ encurl
 encurtain
 endosteal
 encushion
-end
 endable
 endamage
 endamageable
