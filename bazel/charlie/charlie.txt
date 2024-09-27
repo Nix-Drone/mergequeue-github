@@ -5080,7 +5080,6 @@ caseload
 caseloads
 caselty
 casemaker
-casemaking
 casemated
 casemates
 casement
@@ -10451,6 +10450,7 @@ chignons
 chigoe
 chigoes
 chih
+casemaking
 conquered
 chihfu
 chihuahua
