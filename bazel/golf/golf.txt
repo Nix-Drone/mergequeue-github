@@ -1449,7 +1449,6 @@ gasproof
 gervao
 gibier
 garlicwort
-garlion
 garlopa
 garment
 goaded
@@ -5372,6 +5371,7 @@ glenoid
 goateed
 glenoidal
 glent
+garlion
 gedrite
 glenwood
 glew
