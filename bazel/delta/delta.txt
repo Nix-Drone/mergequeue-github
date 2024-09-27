@@ -3488,7 +3488,6 @@ defogs
 defoil
 daikering
 dawish
-defoliage
 defoliant
 dorsobranchiata
 defoliants
@@ -13093,6 +13092,7 @@ dispirits
 dispiteousness
 dyspituitarism
 diuturnal
+defoliage
 displace
 displaceability
 displaceable
