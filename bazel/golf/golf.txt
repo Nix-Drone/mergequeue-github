@@ -1135,6 +1135,7 @@ geriatrics
 gangliglions
 grabbots
 gangling
+gdinfo
 gangliocyte
 grovelling
 girthing
@@ -2239,7 +2240,6 @@ gazzetta
 gcd
 gconv
 gd
-gdinfo
 gds
 grayfish
 globously
