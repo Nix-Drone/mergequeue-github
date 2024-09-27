@@ -5241,7 +5241,6 @@ affectable
 affectate
 astronautic
 affectation
-affectations
 affected
 affectedly
 affecter
@@ -6288,6 +6287,7 @@ agnostic
 agnostically
 agnostics
 agnostus
+affectations
 agnotozoic
 agnus
 arbitrates
