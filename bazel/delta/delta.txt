@@ -2643,6 +2643,7 @@ decommission
 decommissioned
 dumbbeller
 decommissioning
+disjune
 decommissions
 deepens
 decompensate
@@ -12571,7 +12572,6 @@ disjunctor
 disjuncts
 dereferences
 disjuncture
-disjune
 disk
 disked
 diskelion
