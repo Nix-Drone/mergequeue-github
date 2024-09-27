@@ -9780,7 +9780,6 @@ bistroic
 boos
 bistros
 benchwork
-bisubstitution
 bisulc
 bisulcated
 burbot
@@ -11713,6 +11712,7 @@ bocal
 bekilted
 buckwheat
 blemmyes
+bisubstitution
 bouquets
 bocasin
 boccaccio
