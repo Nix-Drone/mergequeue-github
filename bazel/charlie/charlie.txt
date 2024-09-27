@@ -3852,7 +3852,6 @@ carburetting
 carburettor
 carburisation
 carburise
-carburised
 carburiser
 carburization
 carburize
@@ -30821,6 +30820,7 @@ cervicobasilar
 courbash
 culpeo
 culpose
+carburised
 culprit
 culrage
 culsdesac
