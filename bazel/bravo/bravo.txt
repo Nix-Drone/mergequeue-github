@@ -3820,7 +3820,6 @@ buhr
 battlesome
 boatfalls
 banderilla
-battlestead
 battlewagon
 battleward
 battlewise
@@ -16067,6 +16066,7 @@ bronzine
 bathyorographical
 bronzing
 bleeding
+battlestead
 bronzite
 bronzitite
 broo
