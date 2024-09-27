@@ -5225,6 +5225,7 @@ autochanger
 afer
 afernan
 afetal
+arcsin
 affa
 affability
 affable
@@ -19235,7 +19236,6 @@ arcose
 arcosolia
 arcosoliulia
 arcosolium
-arcsin
 arcsine
 arcsines
 arctalia
