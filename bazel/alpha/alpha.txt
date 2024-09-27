@@ -5013,7 +5013,6 @@ aeromancy
 aeromechanic
 aeromechanics
 aeromedical
-aeromedicine
 aerometeorograph
 aerometer
 aerometry
@@ -18880,6 +18879,7 @@ archeology
 archeologically
 archeologist
 archeopteryx
+aeromedicine
 archeostome
 archeozoic
 anastomose
