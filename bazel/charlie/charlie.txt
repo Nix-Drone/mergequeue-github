@@ -11944,7 +11944,6 @@ chalcopyrite
 chorepiscope
 chorepiscopus
 chores
-choreus
 choreutic
 chorial
 choriamb
@@ -13333,6 +13332,7 @@ cyclohexanone
 cyclohexatriene
 cyclohexene
 cyclohexyl
+choreus
 cyclohexylamine
 cycloheximide
 chemiatry
