@@ -2407,7 +2407,6 @@ acidogenic
 acidoid
 acidolysis
 acidology
-acidometer
 archont
 acidometry
 acidophil
@@ -8762,6 +8761,7 @@ amyosthenia
 aqueoglacial
 allocator
 allocators
+acidometer
 allocatur
 antimasonic
 allochetia
