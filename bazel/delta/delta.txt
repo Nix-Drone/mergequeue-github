@@ -1716,6 +1716,7 @@ depaysee
 deathtime
 deathtrap
 deathtraps
+duresses
 deathward
 deathwatches
 deathweed
@@ -18480,7 +18481,6 @@ duree
 dureresque
 diumvirate
 duress
-duresses
 duressor
 deglutitive
 duret
