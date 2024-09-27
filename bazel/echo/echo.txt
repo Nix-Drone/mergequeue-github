@@ -3552,7 +3552,6 @@ embolon
 emboltement
 embolus
 emborder
-embordered
 elegant
 embordering
 epidesmine
@@ -12073,6 +12072,7 @@ exclamatory
 exclamatorily
 exclaustration
 exclaves
+embordered
 exclosure
 entier
 excavational
