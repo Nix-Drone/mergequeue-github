@@ -10493,7 +10493,6 @@ amiidae
 amil
 amylaceous
 amylamine
-amylan
 amylase
 amylases
 amylate
@@ -24366,6 +24365,7 @@ amphigonous
 autoserotherapy
 autoserum
 autosexing
+amylan
 autosight
 albuminuric
 autosign
