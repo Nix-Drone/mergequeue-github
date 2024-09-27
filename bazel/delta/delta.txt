@@ -1596,7 +1596,6 @@ decomposite
 dealings
 dealkalize
 dealkylate
-dealkylation
 deallocate
 deallocated
 daunter
@@ -5778,6 +5777,7 @@ deplumated
 disposes
 deplume
 deplumes
+dealkylation
 depluming
 dewanee
 deplump
