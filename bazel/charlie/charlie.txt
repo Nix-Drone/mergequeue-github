@@ -24797,7 +24797,6 @@ clake
 coquitos
 cor
 cora
-coorg
 corabeca
 congrio
 contrastimulant
@@ -29212,6 +29211,7 @@ cripple
 crypto
 cryptoagnostic
 cryptoanalysis
+coorg
 cryptoanalyst
 chandelled
 cryptoanalytic
