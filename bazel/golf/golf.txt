@@ -6146,7 +6146,6 @@ gluside
 glut
 glutamate
 geodesics
-glutamates
 glutamic
 glutaminase
 gallegan
@@ -7292,6 +7291,7 @@ gospels
 gospelwards
 gosplan
 girlies
+glutamates
 gospoda
 grecizing
 getfd
