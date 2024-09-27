@@ -4785,7 +4785,6 @@ etymologize
 exegetically
 experimentalists
 enclosed
-elem
 enclosers
 enclosing
 efik
@@ -11397,6 +11396,7 @@ evector
 evehood
 evejar
 evelight
+elem
 eveline
 evelong
 even
