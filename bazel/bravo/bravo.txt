@@ -621,7 +621,6 @@ biblist
 bacterial
 bacterially
 bacterian
-bacteric
 buttstock
 bactericidal
 bactericidally
@@ -2183,6 +2182,7 @@ banovina
 banquet
 banqueted
 banqueter
+bacteric
 banqueters
 banqueting
 banquets
