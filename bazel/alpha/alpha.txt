@@ -3902,7 +3902,6 @@ adipoceriform
 adipocerite
 adipocyte
 adipofibroma
-adipogenic
 adipogenous
 adipoid
 adipolysis
@@ -4860,6 +4859,7 @@ aeric
 aerical
 aerides
 aeried
+adipogenic
 aerier
 aeries
 aeriest
