@@ -505,7 +505,6 @@ emerge
 exarchs
 ecstatica
 equimolecular
-echappe
 echappee
 echar
 echard
@@ -13330,6 +13329,7 @@ exposure
 excalfaction
 enframes
 exposures
+echappe
 expound
 expoundable
 expounder
