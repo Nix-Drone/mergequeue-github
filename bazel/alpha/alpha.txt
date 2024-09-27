@@ -2698,7 +2698,6 @@ auxoflore
 acquiesence
 acquiet
 acquirability
-acquirable
 antares
 acquire
 acquired
@@ -3799,6 +3798,7 @@ adherency
 adherend
 adherends
 adherently
+acquirable
 adherents
 adherer
 adherers
