@@ -1775,7 +1775,6 @@ glutaraldehyde
 gastrodermis
 gestations
 gnotobiote
-gastrodynia
 gastrodisk
 gastroduodenitis
 gastroduodenoscopy
@@ -5870,6 +5869,7 @@ glossies
 glossiest
 granitical
 glossily
+gastrodynia
 glossina
 glossinas
 glossing
