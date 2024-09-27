@@ -4770,6 +4770,7 @@ bedlids
 bedlight
 bedmaker
 bewrought
+beffroy
 bedmakers
 borak
 bulldozer
@@ -5089,7 +5090,6 @@ befetter
 biocatalyst
 basenet
 befezzed
-beffroy
 befiddle
 beggaries
 befile
