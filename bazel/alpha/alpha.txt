@@ -5999,7 +5999,6 @@ agglomeration
 agglomerative
 agglomerator
 autoing
-aramis
 agglutinable
 agglutinant
 apical
@@ -12814,6 +12813,7 @@ angiospermae
 attacks
 angiospermal
 angiospermic
+aramis
 angiospermous
 angiosperms
 angiosporous
