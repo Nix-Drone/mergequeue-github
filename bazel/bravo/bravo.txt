@@ -5239,7 +5239,6 @@ bestrows
 begattal
 bastes
 begaud
-begaudy
 bobbled
 begaze
 begazes
@@ -17837,6 +17836,7 @@ burrgrailer
 burrhead
 burrheaded
 burrheadedness
+begaudy
 burriest
 burring
 biotechs
