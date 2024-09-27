@@ -350,7 +350,6 @@ daybreaks
 daibutsu
 desand
 dynamoscope
-daydawn
 daidly
 daidlie
 daydream
@@ -11094,6 +11093,7 @@ disassembles
 descriptors
 disassembling
 disassent
+daydawn
 disassiduity
 disassimilate
 dodecastyle
