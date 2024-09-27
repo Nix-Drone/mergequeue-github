@@ -1211,7 +1211,6 @@ edplot
 edriasteroidea
 edrioasteroid
 edrioasteroidea
-elixed
 edriophthalmatous
 edriophthalmian
 eds
@@ -5301,6 +5300,7 @@ endoscopist
 endosecretory
 empyreumatical
 endosymbiosis
+elixed
 emeus
 endosiphuncle
 ephetic
