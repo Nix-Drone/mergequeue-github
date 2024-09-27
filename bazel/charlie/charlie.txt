@@ -16686,7 +16686,6 @@ closure
 closures
 closuring
 clot
-clotbur
 clapbread
 clote
 chaquetas
@@ -23246,6 +23245,7 @@ consultants
 consultantship
 consultary
 consultation
+clotbur
 consultatively
 consultatory
 counterparallel
