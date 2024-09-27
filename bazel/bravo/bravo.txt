@@ -4419,7 +4419,6 @@ bebusy
 bebuttoned
 bec
 bowlders
-becall
 boisseaux
 becalm
 becalming
@@ -4896,6 +4895,7 @@ bedur
 bedway
 battuto
 bedways
+becall
 blackwashing
 bedwards
 bedwarf
