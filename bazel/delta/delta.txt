@@ -6343,7 +6343,6 @@ drassid
 dermoosseous
 dermopathy
 dysarthrosis
-dermophytic
 dejeune
 dermophobe
 despatchers
@@ -12677,6 +12676,7 @@ disloyal
 disloyalist
 disloyally
 dieback
+dermophytic
 disconduce
 diminutiveness
 diablene
