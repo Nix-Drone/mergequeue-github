@@ -235,7 +235,6 @@ abbreviature
 abbroachment
 abc
 abcissa
-abcoulomb
 abd
 abdali
 abdaria
@@ -6526,6 +6525,7 @@ agrotis
 agrufe
 assiduate
 agruif
+abcoulomb
 agsam
 agst
 agtbasic
