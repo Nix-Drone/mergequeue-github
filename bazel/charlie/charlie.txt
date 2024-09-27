@@ -11731,7 +11731,6 @@ chondriosomes
 colubriformia
 chondriosphere
 chondrites
-chondritic
 chondritis
 chondroadenoma
 chondroalbuminoid
@@ -23944,6 +23943,7 @@ conuropsis
 conurus
 conus
 conusable
+chondritic
 conusance
 conusant
 conuses
