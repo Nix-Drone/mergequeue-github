@@ -16476,7 +16476,6 @@ clockface
 clockhouse
 clocking
 clockings
-clockkeeper
 clockless
 cuon
 clockmaker
@@ -20076,6 +20075,7 @@ chapanec
 corpselike
 commie
 cribella
+clockkeeper
 commies
 commigration
 composers
