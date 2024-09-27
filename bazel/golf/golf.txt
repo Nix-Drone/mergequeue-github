@@ -3006,7 +3006,6 @@ geo
 geoagronomic
 geobiont
 geoblast
-geobotany
 galivant
 geobotanic
 goitre
@@ -9092,6 +9091,7 @@ grinned
 galilei
 grinner
 grinners
+geobotany
 gwantus
 grinning
 grinningly
