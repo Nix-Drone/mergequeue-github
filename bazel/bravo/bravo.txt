@@ -3779,7 +3779,6 @@ bootstrap
 batterer
 bkcy
 bressummer
-batterie
 breck
 batteried
 batteries
@@ -11597,6 +11596,7 @@ backbends
 boating
 boatings
 boation
+batterie
 boatkeeper
 bodyplate
 bittacle
