@@ -11178,7 +11178,6 @@ disblame
 disbloom
 disboard
 disbody
-disbodied
 disbogue
 disboscation
 disbosom
@@ -12548,6 +12547,7 @@ disjasket
 disjaskit
 disject
 disjected
+disbodied
 disjection
 disjoin
 disjoined
