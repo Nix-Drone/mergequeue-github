@@ -5796,7 +5796,6 @@ fll
 feoffed
 flamingoes
 finder
-flnerie
 flneuse
 flench
 fload
@@ -8806,6 +8805,7 @@ forwards
 forwardsearch
 forwarn
 forwean
+flnerie
 forwear
 february
 forwearied
