@@ -5517,7 +5517,6 @@ catalogistic
 catalogize
 catalogs
 catalogued
-cataloguer
 catalogues
 cataloguing
 cataloguish
@@ -11496,6 +11495,7 @@ choirman
 choirmaster
 choirmasters
 choyroot
+cataloguer
 choirwise
 calumnies
 chok
