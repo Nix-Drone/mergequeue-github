@@ -2865,7 +2865,6 @@ barostat
 bruta
 blasphemers
 baroswitch
-barotactic
 barotaxy
 butling
 barotaxis
@@ -16548,6 +16547,7 @@ bubonic
 bluebeard
 bubonidae
 bealing
+barotactic
 bytime
 bubonocele
 bubonoceze
