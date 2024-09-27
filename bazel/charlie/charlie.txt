@@ -11606,7 +11606,6 @@ choleinic
 colorization
 cholelith
 cholelithiasis
-cholelithic
 cholelithotomy
 crenellate
 cholelithotripsy
@@ -27911,6 +27910,7 @@ craftsmaster
 craftsmen
 craftspeople
 concubinaries
+cholelithic
 craftsperson
 craftswoman
 craftwork
