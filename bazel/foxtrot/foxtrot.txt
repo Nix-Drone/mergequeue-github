@@ -6640,7 +6640,6 @@ foaminess
 foaming
 foamless
 foamlike
-foams
 fobbing
 flirtier
 frequents
@@ -6867,6 +6866,7 @@ foliates
 foliating
 foliation
 foliator
+foams
 foliature
 finiglacial
 foliicolous
