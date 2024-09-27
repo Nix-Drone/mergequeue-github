@@ -3260,7 +3260,6 @@ actuality
 actualities
 actualization
 actualize
-actualizes
 actually
 actualness
 actuals
@@ -22738,6 +22737,7 @@ airbrushes
 atocha
 atokal
 atoke
+actualizes
 atokous
 atoll
 anyhow
