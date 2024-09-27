@@ -12795,7 +12795,6 @@ conceits
 confronted
 chunk
 chunked
-chunkhead
 chace
 chunky
 coho
@@ -22277,6 +22276,7 @@ congolese
 congoleum
 congou
 congous
+chunkhead
 congrats
 congratulable
 congratulant
