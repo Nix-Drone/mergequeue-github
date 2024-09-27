@@ -2684,7 +2684,6 @@ endomycetaceae
 electrothermometer
 electrothermostatic
 electrothermotic
-electrotype
 electrotyped
 electrotypes
 electrotypy
@@ -11828,6 +11827,7 @@ exaration
 exarch
 exarchal
 exarchate
+electrotype
 exarchateship
 euripidean
 exarchic
