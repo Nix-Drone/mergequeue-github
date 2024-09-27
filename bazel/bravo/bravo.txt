@@ -5294,7 +5294,6 @@ begirded
 begirding
 begirdled
 begirdles
-begirdling
 begirds
 begirt
 beglad
@@ -17111,6 +17110,7 @@ buller
 bullescene
 bullet
 barspoon
+begirdling
 bulleted
 bullethead
 bulletheadedness
