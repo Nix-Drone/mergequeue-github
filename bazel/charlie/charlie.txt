@@ -5410,7 +5410,6 @@ catabolite
 catabolize
 catabolized
 clerkdom
-claim
 catabolizing
 catachreses
 catachresis
@@ -21427,6 +21426,7 @@ concoctor
 crowfoot
 concocts
 chilostomata
+claim
 concolor
 concolour
 concomitance
