@@ -4032,7 +4032,6 @@ beachless
 beachmaster
 beachside
 biosynthesis
-beachward
 beachwear
 beacon
 beaconage
@@ -4167,6 +4166,7 @@ beanshooter
 beanstalk
 beanstalks
 bibbs
+beachward
 beanweed
 beaproned
 bearability
