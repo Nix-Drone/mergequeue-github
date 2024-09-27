@@ -3939,7 +3939,6 @@ decumani
 dekaparsec
 dactylioglyphy
 dekapode
-dekarch
 dekare
 dekares
 dekastere
@@ -15737,6 +15736,7 @@ dormette
 dormeuse
 dormice
 dormie
+dekarch
 disqualify
 dormient
 dormilona
