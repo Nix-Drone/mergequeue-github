@@ -9223,6 +9223,7 @@ biotype
 biotypes
 biotypic
 biotypology
+bitumed
 biotite
 biotites
 biotome
@@ -17633,7 +17634,6 @@ burgers
 brigands
 burgessdom
 burggrave
-bitumed
 burgh
 burghal
 burghalpenny
