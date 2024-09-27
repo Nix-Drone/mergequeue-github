@@ -5733,7 +5733,6 @@ deplace
 deplaceable
 deplane
 deplaned
-deplaning
 deplant
 deplantation
 deplasmolysis
@@ -5758,6 +5757,7 @@ deployments
 deftest
 deplorabilia
 deplorability
+deplaning
 depolymerizing
 deplorableness
 deplorably
