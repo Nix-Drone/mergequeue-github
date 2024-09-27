@@ -6638,7 +6638,6 @@ downrange
 desiccated
 desiccating
 desiccations
-desiccator
 desiccatory
 desiccators
 desiderable
@@ -9543,6 +9542,7 @@ deaerate
 digoxins
 dulias
 digraph
+desiccator
 digraphically
 digraphs
 digredience
