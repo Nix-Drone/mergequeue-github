@@ -19475,7 +19475,6 @@ colpohyperplasia
 colpohysterotomy
 colpoperineorrhaphy
 colpoplasty
-colpoptosis
 colporrhagia
 colporrhaphy
 colporrhea
@@ -24062,6 +24061,7 @@ coexchangeable
 converged
 convergement
 cirrolite
+colpoptosis
 convergence
 convergences
 convergency
