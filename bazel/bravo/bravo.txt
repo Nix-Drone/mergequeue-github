@@ -3014,6 +3014,7 @@ barriers
 barriguda
 barrigudos
 broadaxe
+brasswork
 barrikin
 burled
 barriness
@@ -14625,7 +14626,6 @@ brassiness
 brassish
 brasslike
 brassware
-brasswork
 brassworker
 brassworks
 brast
