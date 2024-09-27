@@ -5022,7 +5022,6 @@ demulsifier
 demulsion
 distinguish
 demultiplex
-demultiplexed
 demultiplexer
 demultiplexers
 disroot
@@ -16966,6 +16965,7 @@ dredger
 dredgers
 dredges
 dree
+demultiplexed
 dreed
 dreeing
 dreep
