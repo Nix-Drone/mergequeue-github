@@ -6741,7 +6741,6 @@ enterprisingness
 enterprize
 enters
 entertainable
-entertained
 enquires
 entertainer
 entertainers
@@ -13326,6 +13325,7 @@ expostulatory
 exposture
 epanaphoral
 etude
+entertained
 exposure
 excalfaction
 enframes
