@@ -9472,7 +9472,6 @@ gandum
 groundward
 groundwards
 group
-groupable
 groupage
 groupageness
 grouped
@@ -10122,6 +10121,7 @@ guglia
 guglio
 guhayna
 glareless
+groupable
 gratinate
 gaggers
 guy
