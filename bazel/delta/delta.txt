@@ -1430,7 +1430,6 @@ dazzlers
 dwindle
 dazzlingly
 dazzlingness
-db
 dbl
 dbms
 demidolmen
@@ -4819,6 +4818,7 @@ democraw
 democritean
 demode
 demodectic
+db
 dejected
 demodex
 driftway
