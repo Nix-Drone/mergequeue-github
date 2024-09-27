@@ -12573,6 +12573,7 @@ censer
 chronicon
 chronics
 chronique
+clerihews
 chronisotherm
 chronist
 chronobarometer
@@ -16000,7 +16001,6 @@ clericum
 clerid
 clerihew
 comfrey
-clerihews
 clerisies
 clerk
 clerkage
