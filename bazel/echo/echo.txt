@@ -3683,7 +3683,6 @@ embryomas
 embryon
 embryonal
 earthmoving
-embryonary
 embryonated
 embryony
 embryonic
@@ -12661,6 +12660,7 @@ exopt
 exodic
 empiristic
 exodium
+embryonary
 ejecting
 exodontic
 empover
