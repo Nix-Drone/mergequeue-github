@@ -18059,7 +18059,6 @@ coenzymatically
 coenzymes
 coequal
 coequality
-coequalize
 coequally
 coequalness
 coequals
@@ -18332,6 +18331,7 @@ chelonidae
 cognominal
 cognominally
 cognominate
+coequalize
 cognominated
 cognomination
 cognosce
