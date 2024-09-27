@@ -1797,7 +1797,6 @@ debel
 diplasiasmus
 debellate
 debellation
-debellator
 deben
 debenture
 debentured
@@ -8673,6 +8672,7 @@ diastimeter
 diastoles
 diastomatic
 diastral
+debellator
 diastrophy
 diastrophic
 devilment
