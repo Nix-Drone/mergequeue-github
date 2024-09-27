@@ -1227,7 +1227,6 @@ canichana
 calibrater
 calibrates
 calibrating
-calibrations
 calibre
 calibred
 calibres
@@ -4870,6 +4869,7 @@ cartiest
 cartilage
 cartilages
 cartilaginean
+calibrations
 cartilaginei
 cartilagineous
 cartilagines
