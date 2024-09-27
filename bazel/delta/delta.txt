@@ -1991,7 +1991,6 @@ decahydrate
 decahydronaphthalene
 decay
 decayed
-decayedness
 decayers
 diarial
 decaying
@@ -2520,6 +2519,7 @@ declassicize
 declassify
 declassification
 declassifications
+decayedness
 delocalized
 dissimule
 declassifies
