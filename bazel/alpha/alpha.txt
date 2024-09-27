@@ -2649,7 +2649,6 @@ acouchi
 acoumeter
 allylene
 acoumetry
-autodetector
 airframes
 acouometer
 acouophonia
@@ -20721,6 +20720,7 @@ artifactual
 artifactually
 antipellagric
 artifex
+autodetector
 artifice
 artificer
 artificers
