@@ -8917,6 +8917,7 @@ bioactivities
 bioassaying
 bioastronautical
 bioastronautics
+biotransformation
 bioavailability
 biobibliographer
 biobibliography
@@ -9230,7 +9231,6 @@ buoys
 bogtrot
 brothered
 biotoxin
-biotransformation
 biotron
 biotrons
 byous
