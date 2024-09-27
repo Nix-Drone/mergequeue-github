@@ -3915,6 +3915,7 @@ giblet
 giblets
 giboia
 goyle
+gowpen
 glave
 gibsons
 gibstaff
@@ -7538,7 +7539,6 @@ gallflies
 gemmates
 gownsmen
 glyoxime
-gowpen
 gowpin
 gox
 gozill
