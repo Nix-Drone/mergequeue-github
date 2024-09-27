@@ -6137,6 +6137,7 @@ benches
 benchfellow
 burglary
 benchful
+boti
 benchy
 benchland
 benchless
@@ -11021,7 +11022,6 @@ blockiest
 blockiness
 bigothero
 blocking
-boti
 benzimidazole
 blockish
 blockishly
