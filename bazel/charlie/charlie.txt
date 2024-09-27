@@ -7853,7 +7853,6 @@ cervicolumbar
 crystal
 cervicomuscular
 cerviconasal
-cervicoscapular
 cervicothoracic
 cervicovesical
 cervid
@@ -30092,6 +30091,7 @@ crowstepped
 crowstick
 crowstone
 crowtoe
+cervicoscapular
 crozer
 combustor
 crozers
