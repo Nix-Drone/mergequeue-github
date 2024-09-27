@@ -1539,7 +1539,6 @@ deadpanning
 descrial
 dibstones
 deadpans
-deadrise
 deadtongue
 deadweight
 ditto
@@ -16487,6 +16486,7 @@ drabbletail
 difflugia
 drabbling
 drabler
+deadrise
 doubtingly
 dandifies
 drably
