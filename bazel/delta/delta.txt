@@ -3271,6 +3271,7 @@ defenseman
 defensemen
 defenser
 defenses
+disgaveled
 defensibility
 defensibleness
 defensibly
@@ -17171,7 +17172,6 @@ drinkable
 drinkables
 drinkably
 drinker
-disgaveled
 drinkers
 disputatively
 drinking
