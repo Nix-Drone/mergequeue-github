@@ -12053,7 +12053,6 @@ anatolian
 acapulco
 anatomic
 anatomical
-anatomicals
 anatomicobiological
 anatomicochirurgical
 anatomicomedical
@@ -15818,6 +15817,7 @@ antipathic
 arethuse
 antipathida
 aquacades
+anatomicals
 antipathist
 antipathize
 antiabrasion
