@@ -16844,7 +16844,6 @@ clubfooted
 clubhand
 clubhands
 clubhaul
-clubhauled
 clubhauling
 clubhauls
 clubhouse
@@ -31267,6 +31266,7 @@ curbstone
 curbstoner
 curbstones
 curcas
+clubhauled
 catoism
 curch
 curchef
