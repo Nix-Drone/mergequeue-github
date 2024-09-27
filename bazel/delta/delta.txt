@@ -7552,7 +7552,6 @@ denaturising
 develing
 diegueno
 develop
-developable
 develope
 developed
 defervescence
@@ -16318,6 +16317,7 @@ downlink
 downlinked
 downlinking
 downloadable
+developable
 downloaded
 downloading
 downloads
