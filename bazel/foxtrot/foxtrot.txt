@@ -248,7 +248,6 @@ faculty
 font
 frags
 faculties
-facultize
 firmest
 forestall
 facundity
@@ -10462,6 +10461,7 @@ fantasticate
 frontogenesis
 frontolysis
 frostweed
+facultize
 faucal
 frontomallar
 ferngrower
