@@ -14208,7 +14208,6 @@ antenumber
 adrostal
 antenuptial
 amphibious
-alarming
 anteopercle
 anteoperculum
 anteorbital
@@ -17812,6 +17811,7 @@ applejack
 applejohn
 applemonger
 applenut
+alarming
 appleroot
 apples
 applesauce
