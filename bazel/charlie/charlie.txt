@@ -2993,6 +2993,7 @@ capacitator
 capacity
 capacities
 capacitive
+characterless
 capacitively
 capacitor
 capanna
@@ -8927,7 +8928,6 @@ characterizers
 characterizes
 characterizing
 cashews
-characterless
 characterlessness
 characterology
 characterologically
