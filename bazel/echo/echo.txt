@@ -4958,6 +4958,7 @@ endaspidean
 endaze
 escrows
 endboard
+enframement
 endbrains
 enddamaged
 enddamaging
@@ -9494,7 +9495,6 @@ exudate
 escapable
 escapado
 escape
-enframement
 escaped
 escapee
 escapees
