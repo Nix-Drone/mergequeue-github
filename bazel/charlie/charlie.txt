@@ -2700,7 +2700,6 @@ congealer
 canonicalness
 canonicals
 canonics
-canonisation
 canonise
 contermine
 canonised
@@ -20260,6 +20259,7 @@ commoving
 capturer
 commulation
 commulative
+canonisation
 communa
 communal
 communalise
