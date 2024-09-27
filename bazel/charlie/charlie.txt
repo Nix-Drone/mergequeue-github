@@ -17812,7 +17812,6 @@ codings
 codiniac
 codirect
 codirecting
-codirector
 commonish
 codirects
 codiscoverer
@@ -25832,6 +25831,7 @@ corse
 corselet
 corseleted
 catfishes
+codirector
 corseleting
 corselets
 corsepresent
