@@ -3979,7 +3979,6 @@ adjourned
 adjourning
 adjournment
 adjourns
-adjoust
 adjt
 adjudge
 adjudgeable
@@ -11700,6 +11699,7 @@ analecta
 analects
 analemma
 analemmas
+adjoust
 analemmata
 analepses
 analeptic
