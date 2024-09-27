@@ -6745,7 +6745,6 @@ desize
 desk
 deskbound
 deskill
-desklike
 deskman
 deskmen
 desks
@@ -7521,6 +7520,7 @@ devalues
 devaluing
 devanagari
 devance
+desklike
 devaporation
 devaraja
 devas
