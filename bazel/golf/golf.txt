@@ -3965,7 +3965,6 @@ giftwrapping
 gig
 giga
 globoseness
-gigabyte
 gigabytes
 gurjara
 gigabits
@@ -4195,6 +4194,7 @@ gimbaled
 gimballed
 groundsheet
 groining
+gigabyte
 guildry
 gimberjawed
 gimble
