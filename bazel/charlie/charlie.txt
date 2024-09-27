@@ -9915,7 +9915,6 @@ chemoreceptivity
 chemoreceptivities
 castrating
 chemoreceptor
-chemoreflex
 chemoresistance
 chemosensitive
 chemosensitivities
@@ -31725,6 +31724,7 @@ custodial
 custodian
 custodians
 custodianship
+chemoreflex
 custodier
 custodies
 custom
