@@ -2446,7 +2446,6 @@ etherialism
 electrogild
 electrogilding
 electrogilt
-electrogram
 electrography
 electrographic
 eudyptes
@@ -3586,6 +3585,7 @@ excisemen
 embouchement
 embouchment
 embouchures
+electrogram
 embound
 embourgeoisement
 endoabdominal
