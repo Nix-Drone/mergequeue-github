@@ -4135,6 +4135,7 @@ beamlet
 beamman
 beamroom
 beams
+bishopscap
 beamsman
 beamwork
 bantlings
@@ -9652,7 +9653,6 @@ baptists
 brucella
 bishopling
 bishoprics
-bishopscap
 bishopstool
 bishopweed
 bisiliac
