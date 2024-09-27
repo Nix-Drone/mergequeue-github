@@ -5351,7 +5351,6 @@ affix
 affixable
 affixal
 affixation
-affixed
 affixer
 affixers
 affixes
@@ -6018,6 +6017,7 @@ agglutinin
 agglutinins
 agglutinize
 alls
+affixed
 agglutinogen
 agglutinogenic
 agglutinoid
