@@ -1689,7 +1689,6 @@ fazes
 fc
 fchar
 fipenny
-fcomp
 farcin
 fcp
 foehns
@@ -10112,6 +10111,7 @@ fringelet
 fringelike
 fringent
 fringepod
+fcomp
 fringetail
 fennel
 fringier
