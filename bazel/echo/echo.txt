@@ -1209,7 +1209,6 @@ edoni
 edp
 edplot
 edriasteroidea
-edrioasteroid
 edrioasteroidea
 elixed
 edriophthalmatous
@@ -6859,6 +6858,7 @@ erin
 entodermal
 entodermic
 entogastric
+edrioasteroid
 entogenous
 enstyle
 entoglossal
