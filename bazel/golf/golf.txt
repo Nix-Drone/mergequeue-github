@@ -1630,7 +1630,6 @@ gasmen
 gasmetophytic
 gasogen
 gasogene
-gasogenic
 gasohol
 gasolene
 gasolenes
@@ -7483,6 +7482,7 @@ gouvernantes
 gymnogen
 gove
 govern
+gasogenic
 governableness
 governably
 grafship
