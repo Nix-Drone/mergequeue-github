@@ -6071,7 +6071,6 @@ disminister
 dungeonlike
 deputizes
 deputizing
-dequantitate
 dequeue
 dequeues
 dequeuing
@@ -6591,6 +6590,7 @@ desertful
 diabolonian
 deviants
 degrade
+dequantitate
 dipped
 desertfully
 deserticolous
