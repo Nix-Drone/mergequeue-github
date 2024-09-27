@@ -5367,7 +5367,6 @@ epigoneion
 ecalcavate
 epitendineum
 endothelial
-endothelioid
 evocatory
 endothelioma
 endotheliomas
@@ -7745,6 +7744,7 @@ epidemiography
 ejulation
 epidemiographist
 elytroplastic
+endothelioid
 epidemiology
 enterorrhexis
 equilibration
