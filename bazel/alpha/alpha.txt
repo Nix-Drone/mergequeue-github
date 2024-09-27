@@ -4205,7 +4205,6 @@ armsize
 amberoid
 adneural
 adnex
-adnexal
 acalephan
 adnexed
 adnexitis
@@ -8946,6 +8945,7 @@ allotypies
 albopruinose
 aquabib
 allotment
+adnexal
 allotransplant
 allotransplantation
 allotriodontia
