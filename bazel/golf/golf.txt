@@ -3921,6 +3921,7 @@ gibstaff
 gibus
 gibuses
 giddap
+gorged
 guideless
 giddy
 goff
@@ -7170,7 +7171,6 @@ gresil
 gorer
 gores
 gorfly
-gorged
 guignardia
 groundplot
 glossic
