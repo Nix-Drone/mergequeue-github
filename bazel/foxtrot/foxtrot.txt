@@ -3610,7 +3610,6 @@ firelight
 filemaker
 fluidize
 filemark
-filemot
 foreknee
 filename
 filenames
@@ -8184,6 +8183,7 @@ forfars
 forfault
 fractionalization
 forfaulture
+filemot
 flaglike
 forfeit
 flanerie
