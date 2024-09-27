@@ -2951,6 +2951,7 @@ frustums
 feudum
 feuillage
 foreshows
+flory
 feuillemorte
 feuillet
 feuilleton
@@ -6007,7 +6008,6 @@ floret
 floreted
 forethoughted
 floretty
-flory
 floria
 floriage
 floriated
