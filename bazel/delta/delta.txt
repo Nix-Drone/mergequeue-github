@@ -5379,7 +5379,6 @@ dentifrice
 dentifrices
 dentil
 diabantite
-dentilabial
 dentilated
 dentilation
 dentiled
@@ -9424,6 +9423,7 @@ disparateness
 digestant
 digested
 digestedly
+dentilabial
 daddynut
 digestedness
 digesters
