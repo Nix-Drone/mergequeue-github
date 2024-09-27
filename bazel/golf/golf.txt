@@ -2648,7 +2648,6 @@ geobotanical
 gendarmerie
 gendarmes
 gender
-genderer
 genders
 ghoulie
 geneal
@@ -4835,6 +4834,7 @@ girting
 girtonian
 girts
 gyrus
+genderer
 gromet
 gis
 gemmed
