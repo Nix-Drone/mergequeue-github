@@ -5306,7 +5306,6 @@ beglerbeglik
 bags
 bakalai
 bogwood
-beglerbegluc
 beglerbegship
 beglerbey
 beglew
@@ -10696,6 +10695,7 @@ bottega
 blennogenic
 blennogenous
 blennoma
+beglerbegluc
 blennophlogisma
 blennophlogosis
 blennophobia
