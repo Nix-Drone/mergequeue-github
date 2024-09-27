@@ -4456,7 +4456,6 @@ demast
 demasted
 demasting
 dematerialisation
-dematerialise
 duchery
 decubation
 dematerialised
@@ -11408,6 +11407,7 @@ discoblastic
 deriv
 digladiated
 discoblastula
+dematerialise
 discoboli
 discobolos
 discobolus
