@@ -4965,6 +4965,7 @@ flangeless
 flangeway
 flankard
 fountainhead
+foreface
 flanked
 flanker
 flankers
@@ -7647,7 +7648,6 @@ fretter
 fluosilicate
 fridila
 foredune
-foreface
 firy
 ferroglass
 forefatherly
