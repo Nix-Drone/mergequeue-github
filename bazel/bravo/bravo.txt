@@ -6863,7 +6863,6 @@ berserk
 berserker
 blackbirds
 berserks
-bersiamite
 bersil
 berskin
 berstel
@@ -14279,6 +14278,7 @@ brahms
 brahmsian
 brahmsite
 biotitic
+bersiamite
 brahui
 bray
 braid
