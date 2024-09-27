@@ -14186,7 +14186,6 @@ antenna
 antennae
 antiprelatist
 antennal
-antennary
 antennariid
 antennariidae
 antennas
@@ -20509,6 +20508,7 @@ arteriomotor
 arterionecrosis
 arteriopalmus
 arteriopathy
+antennary
 arterioplania
 arterioplasty
 arteriopressor
