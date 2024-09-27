@@ -6662,7 +6662,6 @@ deadness
 desight
 design
 designable
-designado
 designate
 designates
 designation
@@ -12811,6 +12810,7 @@ disoblige
 disobliged
 disobliges
 disobliging
+designado
 duodynatron
 disobligingly
 disobstruct
