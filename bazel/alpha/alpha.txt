@@ -2938,7 +2938,6 @@ areopagist
 amphibalus
 acromiosternal
 acromiothoracic
-acromyotonia
 acromyotonus
 acromphalus
 acron
@@ -5549,6 +5548,7 @@ afrit
 afrite
 attuned
 afrits
+acromyotonia
 afro
 afrogaea
 afrormosia
