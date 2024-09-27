@@ -3604,6 +3604,7 @@ fileable
 filecard
 filechar
 filed
+fronts
 filefishes
 fogie
 firelight
@@ -9689,7 +9690,6 @@ freedwoman
 floriferous
 freedwomen
 freefd
-fronts
 frecklier
 freeform
 fissurellidae
