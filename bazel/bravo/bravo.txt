@@ -3479,7 +3479,6 @@ baster
 basters
 bastide
 briefed
-bastile
 bastiles
 bastille
 bastilles
@@ -7433,6 +7432,7 @@ bashilange
 busked
 betide
 betided
+bastile
 betides
 bourgeoise
 bego
