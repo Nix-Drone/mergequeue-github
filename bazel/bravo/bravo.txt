@@ -9444,7 +9444,6 @@ byre
 birectangular
 birefracting
 birefraction
-birefringent
 bigram
 byreman
 birettas
@@ -11950,6 +11949,7 @@ braula
 bohereen
 bohireen
 bohor
+birefringent
 bohora
 bohorok
 beltis
