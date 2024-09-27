@@ -4881,7 +4881,6 @@ cartist
 cartload
 cartloads
 cartmaker
-cartmaking
 cartobibliography
 cartogram
 chloridizing
@@ -8322,6 +8321,7 @@ chalcographist
 chalcolite
 chalcolithic
 cringe
+cartmaking
 chalcomancy
 chalcomenite
 chalcone
