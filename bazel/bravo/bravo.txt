@@ -8744,7 +8744,6 @@ biloquist
 bilos
 biloxi
 bilsh
-bilskirnir
 bilsteds
 bembex
 biltong
@@ -15962,6 +15961,7 @@ babyship
 bronchiogenic
 bronchiolar
 bronchioli
+bilskirnir
 bronchiolitis
 bronchiolus
 bronchiospasm
