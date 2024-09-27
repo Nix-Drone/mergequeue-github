@@ -7905,7 +7905,6 @@ bibl
 bardee
 bible
 bibles
-bohmite
 biblic
 bipunctal
 biblical
@@ -18249,6 +18248,7 @@ bottlesful
 butterflied
 bunkums
 butterflyer
+bohmite
 brutisms
 beclasp
 butterflies
