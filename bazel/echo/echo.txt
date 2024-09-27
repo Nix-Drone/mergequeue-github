@@ -6381,7 +6381,6 @@ ensheathed
 embiotocid
 ensheathing
 ensheaths
-enshell
 enshelter
 enshield
 eprouvette
@@ -12713,6 +12712,7 @@ exonarthex
 epicotyledonary
 exonerate
 embaphium
+enshell
 exonerated
 exonerating
 exoneration
