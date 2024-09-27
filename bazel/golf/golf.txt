@@ -3378,7 +3378,6 @@ guilelessly
 germ
 germain
 german
-germane
 germanesque
 germany
 glassier
@@ -5884,6 +5883,7 @@ glossitis
 garbleable
 glossless
 glossocele
+germane
 glossaries
 glossocoma
 gynaecomastia
