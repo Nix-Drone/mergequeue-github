@@ -10571,6 +10571,7 @@ conter
 chiller
 chillers
 chillest
+coequating
 chiromance
 chilli
 crank
@@ -21081,7 +21082,6 @@ concatenate
 concatenated
 concatenates
 concatenating
-coequating
 concatenation
 concatenations
 concatenator
