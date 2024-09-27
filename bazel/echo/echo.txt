@@ -13466,7 +13466,6 @@ exsector
 exsects
 exsert
 exserted
-eikones
 exserting
 exsertion
 exserts
@@ -13671,6 +13670,7 @@ extinctions
 extinctive
 extincts
 extine
+eikones
 extinguised
 escobedo
 ententophil
