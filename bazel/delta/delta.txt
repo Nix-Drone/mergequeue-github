@@ -2663,7 +2663,6 @@ decomposable
 decompose
 decomposed
 delphin
-dimmy
 decomposer
 decomposers
 decomposes
@@ -15834,6 +15833,7 @@ dorsolum
 dorsolumbar
 destinations
 dorsomedial
+dimmy
 dorsomedian
 dorsonasal
 dorsonuchal
