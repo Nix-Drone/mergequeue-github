@@ -504,6 +504,7 @@ ecgonine
 emerge
 exarchs
 ecstatica
+equisignal
 equimolecular
 echappe
 echappee
@@ -8766,7 +8767,6 @@ equisetic
 equisetum
 equisided
 edaphically
-equisignal
 epicyclic
 equisonance
 equispatial
