@@ -6804,6 +6804,7 @@ fokker
 fol
 folacin
 folacins
+forces
 franklandite
 folate
 folates
@@ -7430,7 +7431,6 @@ forceps
 fey
 forceput
 fazing
-forces
 forcet
 forches
 forcy
