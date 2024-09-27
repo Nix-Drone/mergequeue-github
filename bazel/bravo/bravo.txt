@@ -13859,7 +13859,6 @@ boxfuls
 boxhaul
 boxhauled
 brierberry
-boxhauling
 boxhauls
 biathlons
 boxhead
@@ -15189,6 +15188,7 @@ brickyard
 brickier
 broadness
 bred
+boxhauling
 bricking
 brickish
 brickkiln
