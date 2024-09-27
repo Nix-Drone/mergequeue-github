@@ -7486,6 +7486,7 @@ epharmonic
 ephas
 ephebea
 equipped
+existent
 enrols
 ephebeibeia
 ephebeion
@@ -12567,7 +12568,6 @@ exist
 existability
 existed
 existence
-existent
 existentialism
 existentialist
 existentialistic
