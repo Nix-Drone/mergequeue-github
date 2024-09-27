@@ -2080,6 +2080,7 @@ bursting
 banyuls
 baniva
 buckra
+bladelike
 banjo
 battutas
 banjoists
@@ -10233,7 +10234,6 @@ brabbler
 blade
 bladebone
 bladelet
-bladelike
 beleaguerer
 blades
 bladesmith
