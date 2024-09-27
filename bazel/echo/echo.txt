@@ -8628,7 +8628,6 @@ encompassing
 equicostate
 egrets
 equicurve
-equid
 equidiagonal
 equidifferent
 equidimensional
@@ -11297,6 +11296,7 @@ evanescing
 evang
 evangel
 eupnea
+equid
 evangelary
 elaeosia
 evangeliary
