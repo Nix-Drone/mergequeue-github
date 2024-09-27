@@ -6743,7 +6743,6 @@ enters
 entertainable
 entertained
 enquires
-entertainer
 entertainers
 emotionalization
 entertaining
@@ -11717,6 +11716,7 @@ exactness
 engrosses
 extratensive
 exactor
+entertainer
 exactors
 exactress
 exacts
