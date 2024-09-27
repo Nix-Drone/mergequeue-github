@@ -8255,6 +8255,7 @@ bier
 broid
 bierbalk
 blest
+bookcase
 byerite
 bierkeller
 byerlite
@@ -12627,7 +12628,6 @@ baianism
 bookbinders
 bookbinding
 bookboard
-bookcase
 bookcases
 bookcraft
 bookdealer
