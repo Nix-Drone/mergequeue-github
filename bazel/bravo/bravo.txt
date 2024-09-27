@@ -3640,7 +3640,6 @@ bathkol
 barbar
 bathman
 bathmat
-bathmats
 bereaven
 bathmism
 bathmotropism
@@ -8124,6 +8123,7 @@ buccinae
 bombyx
 bicornate
 bicorne
+bathmats
 bicorned
 bicornes
 bochur
