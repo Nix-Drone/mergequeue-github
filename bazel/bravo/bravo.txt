@@ -2602,7 +2602,6 @@ bloodstream
 bargir
 bassetite
 barguests
-barhop
 buzylene
 barhopped
 barhops
@@ -10545,6 +10544,7 @@ blaze
 blazed
 blazers
 blazes
+barhop
 blazy
 blazing
 blazingly
