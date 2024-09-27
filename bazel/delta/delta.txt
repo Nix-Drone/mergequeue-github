@@ -12713,7 +12713,6 @@ dismals
 disman
 dismantlement
 dismantler
-dismantles
 dismarble
 dwarflike
 dismarch
@@ -16335,6 +16334,7 @@ downplay
 downplays
 downpour
 downpouring
+dismantles
 desray
 downpours
 downright
