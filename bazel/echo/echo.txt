@@ -4206,7 +4206,6 @@ eatche
 empoison
 empoisoned
 encaustes
-ephoral
 evocators
 etherol
 empoisonment
@@ -5224,6 +5223,7 @@ exhilaration
 endoparasitism
 endopathic
 endopelvic
+ephoral
 endopeptidase
 endopericarditis
 endoperidium
