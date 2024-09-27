@@ -3435,6 +3435,7 @@ deflex
 deflexed
 deflexibility
 deflexible
+droiture
 deflexing
 deflexion
 deflexionize
@@ -17289,7 +17290,6 @@ droyl
 droit
 droits
 droitural
-droiture
 drokpa
 drolerie
 droll
