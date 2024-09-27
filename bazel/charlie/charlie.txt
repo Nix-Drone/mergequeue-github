@@ -4989,6 +4989,7 @@ carwashes
 carwitchet
 chider
 carzey
+craftsperson
 casaba
 casabas
 casabe
@@ -27911,7 +27912,6 @@ craftsmaster
 craftsmen
 craftspeople
 concubinaries
-craftsperson
 craftswoman
 craftwork
 craftworker
