@@ -7155,7 +7155,6 @@ detd
 detect
 detectability
 daishiki
-detected
 detecter
 detecters
 decentralist
@@ -16426,6 +16425,7 @@ deprecating
 dowses
 dowset
 dowsing
+detected
 drolled
 diestrus
 dowve
