@@ -3973,6 +3973,7 @@ fingered
 fingerer
 fingerers
 foreschooling
+fuselages
 firebolted
 fingerfish
 fingerhold
@@ -11569,7 +11570,6 @@ fused
 fusees
 fusel
 fuselage
-fuselages
 fuselike
 fusels
 fableist
