@@ -11745,7 +11745,6 @@ chondroclasis
 chondrocoracoid
 chondrocranial
 coendured
-chondrodystrophy
 chondrodystrophia
 chondroditic
 chondroendothelioma
@@ -30284,6 +30283,7 @@ crurogenital
 cruroinguinal
 crurotarsal
 crus
+chondrodystrophy
 crusade
 crusaded
 clingstones
