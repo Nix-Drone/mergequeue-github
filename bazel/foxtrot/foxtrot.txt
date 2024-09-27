@@ -5590,6 +5590,7 @@ feoffment
 fissural
 fligged
 fligger
+foin
 feodum
 flight
 flighted
@@ -6775,7 +6776,6 @@ foil
 foiled
 foiling
 foilsmen
-foin
 foining
 foiningly
 foins
