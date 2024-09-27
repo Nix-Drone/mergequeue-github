@@ -7646,7 +7646,6 @@ flays
 fretter
 fluosilicate
 fridila
-foredune
 foreface
 firy
 ferroglass
@@ -11292,6 +11291,7 @@ falcade
 frontispieces
 funks
 funmaker
+foredune
 funmaking
 funnel
 funneled
