@@ -2920,7 +2920,6 @@ elfwort
 elhi
 etches
 electroanalysis
-elian
 eisodic
 enanthesis
 endoradiosonde
@@ -7337,6 +7336,7 @@ extraneity
 eopalaeozoic
 eopaleozoic
 eophytic
+elian
 eophyton
 exteriorization
 eorhyolite
