@@ -10712,7 +10712,6 @@ flyeater
 fruitlets
 furzes
 fruitlike
-fruitling
 fivepenny
 fruits
 fruitstalk
@@ -10775,6 +10774,7 @@ frustrative
 frustratory
 frustula
 frustule
+fruitling
 frustulent
 frustules
 frustum
