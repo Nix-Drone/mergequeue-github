@@ -12616,7 +12616,6 @@ chronomancy
 chronomantic
 committed
 chronomastix
-chronometer
 chronometers
 chronometry
 corin
@@ -19683,6 +19682,7 @@ combinations
 combinative
 combinator
 combinatory
+chronometer
 combinatorial
 combinatorially
 combinatoric
