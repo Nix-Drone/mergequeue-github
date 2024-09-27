@@ -1172,7 +1172,6 @@ farts
 ff
 fas
 foreguts
-fasc
 fascinative
 fasces
 fascet
@@ -4797,6 +4796,7 @@ flagons
 fasciolaria
 frontspiece
 flagpole
+fasc
 faunula
 figurehead
 flagpoles
