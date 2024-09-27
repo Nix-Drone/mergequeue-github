@@ -2389,7 +2389,6 @@ electrodepositable
 extemporaneousness
 electrification
 electrodeposition
-electrodepositor
 escalation
 electrodes
 electrodesiccation
@@ -6164,6 +6163,7 @@ enolizable
 encompass
 enolized
 enolizing
+electrodepositor
 entrenchments
 essayists
 enology
