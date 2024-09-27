@@ -7700,7 +7700,6 @@ fasciolidae
 flannelet
 foreground
 foregrounds
-foreguess
 faq
 fleshlily
 foretopsail
@@ -9156,6 +9155,7 @@ foxglove
 fledge
 falun
 foxgloves
+foreguess
 foxhole
 flexionless
 foxholes
