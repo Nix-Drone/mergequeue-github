@@ -1176,7 +1176,6 @@ dogtrot
 datableness
 datably
 datacell
-datafile
 dataflow
 datagram
 datagrams
@@ -15192,6 +15191,7 @@ dollhood
 dollhouses
 dollia
 deuteranopic
+datafile
 dollie
 dingmaul
 dollied
