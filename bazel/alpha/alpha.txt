@@ -4949,7 +4949,6 @@ aeroelastic
 aeroelasticity
 antalkalis
 aeroelastics
-aporphin
 aerofoil
 aerofoils
 algine
@@ -20737,6 +20736,7 @@ artificious
 artilize
 artiller
 artillery
+aporphin
 avodire
 adjourn
 artilleryman
