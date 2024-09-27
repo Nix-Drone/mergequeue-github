@@ -392,7 +392,6 @@ fieldfight
 faqirs
 firmisternial
 faintly
-faintling
 faints
 faipule
 fair
@@ -10895,6 +10894,7 @@ floretum
 fantasizing
 faugh
 fulgorid
+faintling
 fulgoridae
 fulgourous
 fulgur
