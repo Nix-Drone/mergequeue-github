@@ -5655,6 +5655,7 @@ benjoin
 beldames
 bylaw
 beldams
+bleachable
 beldamship
 bacchar
 britten
@@ -10563,7 +10564,6 @@ bothriocidaris
 blea
 bleach
 bleachability
-bleachable
 bleached
 bleacher
 bleachery
