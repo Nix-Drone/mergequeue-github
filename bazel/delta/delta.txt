@@ -1991,6 +1991,7 @@ decahydrate
 decahydronaphthalene
 decay
 decayed
+deflagrated
 decayedness
 decayers
 diarial
@@ -3396,7 +3397,6 @@ defis
 defix
 deflagrable
 desulfuriser
-deflagrated
 deflagrates
 deflagrating
 dermatoheteroplasty
