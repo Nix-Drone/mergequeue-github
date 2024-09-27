@@ -8875,7 +8875,6 @@ binits
 beplaster
 bink
 binman
-binmen
 binna
 binnacle
 binnacles
@@ -16418,6 +16417,7 @@ brushpopper
 brushproof
 brushup
 brushups
+binmen
 brushwood
 bronchophonic
 brushwork
