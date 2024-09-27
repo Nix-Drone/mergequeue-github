@@ -4808,7 +4808,6 @@ gyroscopes
 gyroscopics
 gyrose
 gyrostabilized
-gyrostat
 gyrostats
 gyrotheca
 girouette
@@ -10478,6 +10477,7 @@ gunda
 gundelow
 gutturality
 gypsous
+gyrostat
 guaycuruan
 ghawazee
 grainsmen
