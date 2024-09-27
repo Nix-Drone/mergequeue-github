@@ -482,7 +482,6 @@ eccoproticophoric
 eccrine
 eccrinology
 eccrisis
-endmatcher
 ecdemic
 ecderon
 emersion
@@ -7857,6 +7856,7 @@ epigeum
 epigyne
 epigyny
 epiphyses
+endmatcher
 epigynies
 epigynous
 epigynum
