@@ -264,7 +264,6 @@ abdominalia
 abdominalian
 abdominally
 abdominals
-abdominoanterior
 abdominocardiac
 abdominocentesis
 abdominocystic
@@ -17332,6 +17331,7 @@ aponeurotomy
 autoregressive
 aponia
 aponic
+abdominoanterior
 aponogeton
 altarpiece
 aponogetonaceous
