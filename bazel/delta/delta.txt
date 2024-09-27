@@ -2659,7 +2659,6 @@ decomponent
 decomponible
 decurved
 decomposability
-decomposable
 decompose
 decomposed
 delphin
@@ -13434,6 +13433,7 @@ dismaw
 disrupts
 drainage
 diss
+decomposable
 dissait
 dissatisfaction
 dissatisfactions
