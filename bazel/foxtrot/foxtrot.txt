@@ -6502,7 +6502,6 @@ flurt
 flush
 flushboard
 flushers
-flushest
 face
 flushgate
 flushy
@@ -6791,6 +6790,7 @@ foisonless
 foisons
 flaughts
 failsafe
+flushest
 foist
 foxtongue
 fibromyomectomy
