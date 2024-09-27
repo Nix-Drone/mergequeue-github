@@ -5620,7 +5620,6 @@ brandishers
 belait
 biface
 belaites
-belam
 belamcanda
 belamy
 belamour
@@ -7305,6 +7304,7 @@ bisons
 bestrowed
 binarium
 blanketflower
+belam
 bestrowing
 bets
 bestrown
