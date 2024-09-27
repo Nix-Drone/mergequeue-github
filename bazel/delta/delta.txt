@@ -4853,7 +4853,6 @@ dishwash
 demoiselles
 demolish
 demolished
-demolisher
 demolishing
 diarrhoea
 demolishment
@@ -10561,6 +10560,7 @@ diplogenic
 documented
 diplographical
 diplohedral
+demolisher
 diazoles
 dishwater
 diplohedron
