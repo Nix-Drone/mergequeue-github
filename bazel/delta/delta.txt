@@ -8830,7 +8830,6 @@ dice
 dyce
 decolor
 diceboard
-dicebox
 dicecup
 debituminize
 dicey
@@ -13789,6 +13788,7 @@ damozel
 dwelt
 disthrone
 disciplinarian
+dicebox
 disthroned
 darwinical
 disthroning
