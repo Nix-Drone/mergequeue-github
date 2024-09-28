@@ -17707,7 +17707,6 @@ cocrucify
 coct
 coctile
 coction
-coctoantigen
 coctoprecipitin
 cocuyo
 cocuisa
@@ -29659,6 +29658,7 @@ croy
 croyden
 croydon
 croiik
+coctoantigen
 croyl
 croisad
 converses
