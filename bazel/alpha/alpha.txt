@@ -3560,7 +3560,6 @@ ammine
 addressable
 addressees
 addresser
-addressers
 addresses
 auxetics
 addressful
@@ -15779,6 +15778,7 @@ antipapistic
 anaglyptic
 antipapistical
 antiparabema
+addressers
 and
 antiparabemata
 antiparagraphe
