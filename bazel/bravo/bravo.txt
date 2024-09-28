@@ -4079,7 +4079,6 @@ bowerly
 bibliothecaire
 beagle
 beagles
-boilermaking
 beagling
 beaked
 beakerful
@@ -12730,6 +12729,7 @@ bookworms
 bucketeer
 bookwright
 bool
+boilermaking
 bowline
 boolean
 booleans
