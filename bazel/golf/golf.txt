@@ -4757,7 +4757,6 @@ gyro
 gyroceran
 gallery
 guildsman
-golliwogg
 gorkhali
 gyrocompasses
 glassblowers
@@ -5744,6 +5743,7 @@ gelfomino
 glogg
 gloggs
 gloy
+golliwogg
 ganefs
 gloiosiphonia
 geographism
