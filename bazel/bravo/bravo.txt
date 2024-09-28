@@ -9594,7 +9594,6 @@ biscutate
 bisdiapason
 babbitter
 bisdimethylamino
-bisect
 brangled
 bisected
 bisecting
@@ -10352,6 +10351,7 @@ blanky
 backflash
 blanking
 blankish
+bisect
 botherer
 brazing
 blankit
