@@ -2437,7 +2437,6 @@ expedient
 electroform
 electroforming
 electrofusion
-ethanol
 electrogalvanization
 electrogenetic
 epichlorohydrin
@@ -5759,6 +5758,7 @@ englobe
 englobed
 englobement
 exophagous
+ethanol
 englobing
 engloom
 englory
