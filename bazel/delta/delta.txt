@@ -3968,7 +3968,6 @@ delay
 delayable
 demes
 delayer
-delayers
 delayful
 delayingly
 delaine
@@ -6255,6 +6254,7 @@ desexes
 dermatologies
 dermatologists
 dermatoma
+delayers
 dermatome
 daubing
 dermatomere
