@@ -20882,7 +20882,6 @@ compresbyter
 compresbyterial
 compresence
 compresent
-compress
 compressed
 compressedly
 compresses
@@ -30512,6 +30511,7 @@ categorized
 coeno
 cubitocarpal
 cubitocutaneous
+compress
 cubitometacarpal
 cumaean
 cubitoplantar
