@@ -8831,7 +8831,6 @@ dyce
 decolor
 diceboard
 dicebox
-dicecup
 debituminize
 dicey
 diceman
@@ -13097,6 +13096,7 @@ displace
 displaceability
 displaceable
 displaced
+dicecup
 displacement
 displacements
 diminuted
