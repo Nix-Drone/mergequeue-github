@@ -5884,7 +5884,6 @@ flogger
 floggers
 facilely
 forehand
-flogmaster
 freethinking
 flogs
 flogster
@@ -11741,6 +11740,7 @@ ferfathmur
 fuzils
 fuzz
 fuzzball
+flogmaster
 fuzzed
 fuzzes
 flexura
