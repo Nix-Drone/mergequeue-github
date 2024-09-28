@@ -6503,6 +6503,7 @@ charcuterie
 ccw
 cd
 cdf
+cripple
 cdg
 cdr
 ce
@@ -29208,7 +29209,6 @@ creoles
 cryptical
 cryptically
 covings
-cripple
 crypto
 cryptoagnostic
 cryptoanalysis
