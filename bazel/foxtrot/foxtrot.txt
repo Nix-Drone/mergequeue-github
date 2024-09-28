@@ -7576,7 +7576,6 @@ foregame
 forechoose
 foreclaw
 foreclose
-foreclosed
 foreclosure
 feteless
 foreclosures
@@ -8652,6 +8651,7 @@ forsung
 forswear
 foreanswer
 forswearing
+foreclosed
 fairling
 fields
 forswears
