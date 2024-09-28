@@ -4375,7 +4375,6 @@ expulsive
 enameled
 enamelers
 electromotion
-enameling
 enolization
 enamelist
 enamellar
@@ -8310,6 +8309,7 @@ epitaph
 epitapher
 epitaphian
 electrostatics
+enameling
 epitaphist
 epitaphize
 epicotyleal
