@@ -4013,7 +4013,6 @@ gigartinales
 gigasecond
 gigaton
 gigatons
-gigavolt
 gigawatt
 gills
 gutser
@@ -7384,6 +7383,7 @@ gotra
 gotraja
 gotta
 gotten
+gigavolt
 gottfried
 geest
 globetrotting
