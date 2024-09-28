@@ -2221,7 +2221,6 @@ gazetteers
 goon
 gazetteership
 gremlin
-gazettes
 gazetting
 gazing
 gazingstock
@@ -5697,6 +5696,7 @@ grumps
 globular
 glossolabial
 gconvert
+gazettes
 ganch
 genuflector
 globularia
