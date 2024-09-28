@@ -5951,6 +5951,7 @@ fawny
 floorshifts
 floorshow
 floorway
+fluorescent
 fluidrachm
 floorward
 furniment
@@ -8078,7 +8079,6 @@ flashback
 forestral
 flatuosity
 forestries
-fluorescent
 firebrats
 flayflint
 foalhood
