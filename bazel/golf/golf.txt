@@ -7297,7 +7297,6 @@ grecizing
 getfd
 gospodar
 gillers
-gospodin
 gosport
 gosports
 gossamer
@@ -9492,6 +9491,7 @@ gam
 groupwise
 grouseberry
 groused
+gospodin
 gonglike
 gem
 grouser
