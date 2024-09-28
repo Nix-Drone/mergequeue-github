@@ -8824,7 +8824,6 @@ chapelries
 chapels
 cardiologies
 chapelward
-chaperno
 chaperon
 chaperonage
 chaperone
@@ -23769,6 +23768,7 @@ contrarevolutionary
 contrary
 contrariant
 contrariantly
+chaperno
 contraries
 contrariety
 contrarieties
