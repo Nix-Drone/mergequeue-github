@@ -1189,7 +1189,6 @@ anodendron
 abvolt
 abvolts
 abwab
-abwatt
 abwatts
 ac
 acacatechin
@@ -16168,6 +16167,7 @@ antiscepticism
 antischolasticism
 antischool
 antiscia
+abwatt
 adherence
 atoner
 antiscians
