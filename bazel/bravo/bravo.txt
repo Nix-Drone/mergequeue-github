@@ -1465,7 +1465,6 @@ bepaid
 baler
 bales
 boun
-balestra
 balete
 bali
 balian
@@ -15650,6 +15649,7 @@ broadcastings
 broadcloth
 broaden
 broadeners
+balestra
 broadening
 broadenings
 broadens
