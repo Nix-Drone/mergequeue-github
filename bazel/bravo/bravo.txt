@@ -12415,7 +12415,6 @@ bondship
 bondslave
 bondsman
 bondsmen
-bondstone
 bondswoman
 bondswomen
 bonduc
@@ -16575,6 +16574,7 @@ buccin
 buccina
 biometry
 buccinatory
+bondstone
 buccinoid
 buccinum
 blend
