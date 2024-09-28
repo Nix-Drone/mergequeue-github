@@ -470,7 +470,6 @@ cashier
 caddie
 caddied
 caddies
-cottons
 caddiing
 chincough
 cadding
@@ -21314,6 +21313,7 @@ conchometer
 conchometry
 conchospiral
 conchostraca
+cottons
 conchotome
 conchs
 conchubar
