@@ -3627,6 +3627,7 @@ bathyplankton
 buglers
 baygall
 bathyscaph
+belsire
 bathyscaphes
 bathyseism
 bathysmal
@@ -5963,7 +5964,6 @@ belozenged
 bels
 belshazzar
 belshazzaresque
-belsire
 beltane
 bactericholia
 bimetalic
