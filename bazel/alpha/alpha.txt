@@ -8605,7 +8605,6 @@ alleys
 alleyway
 anarchs
 allele
-alleles
 allelic
 allelism
 allelisms
@@ -15702,6 +15701,7 @@ antinicotine
 antinihilism
 allentando
 antinihilist
+alleles
 arcus
 antinihilistic
 antinion
