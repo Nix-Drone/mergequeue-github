@@ -1156,7 +1156,6 @@ baisemain
 boardable
 baysmelt
 bridesmaids
-baister
 barrenest
 bait
 burgality
@@ -10869,6 +10868,7 @@ blackamoor
 blackbeetle
 blinis
 blinkards
+baister
 blinked
 beanfest
 blinker
