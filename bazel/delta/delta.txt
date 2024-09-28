@@ -4712,7 +4712,6 @@ demiscible
 demise
 demisecond
 demised
-depas
 delineable
 demisemitone
 demisheath
@@ -8830,6 +8829,7 @@ dice
 dyce
 decolor
 diceboard
+depas
 dicebox
 dicecup
 debituminize
