@@ -1293,7 +1293,6 @@ daukin
 daulias
 dault
 daunch
-damageable
 dauncy
 doxantha
 daunder
@@ -10320,6 +10319,7 @@ diorites
 diorthoses
 distraint
 diorthosis
+damageable
 diorthotic
 dioscorea
 dioscoreaceous
