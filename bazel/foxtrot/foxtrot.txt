@@ -2962,6 +2962,7 @@ feuing
 fleches
 feulamort
 formulary
+flyblow
 freezed
 faradising
 feus
@@ -6717,7 +6718,6 @@ fog
 fogbank
 fogbound
 fogbow
-flyblow
 fogdogs
 fairways
 fogdom
