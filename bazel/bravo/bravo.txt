@@ -2838,7 +2838,6 @@ baronga
 barongs
 barony
 bassets
-baronial
 baronies
 baronize
 baronized
@@ -6413,6 +6412,7 @@ birthrate
 benzenes
 benzenyl
 benzenoid
+baronial
 billsticking
 belittlers
 benzidine
