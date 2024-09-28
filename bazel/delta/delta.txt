@@ -1709,7 +1709,6 @@ dustwoman
 deathliness
 deathrates
 diagrydium
-deaths
 deathsman
 deathsmen
 depaysee
@@ -17159,6 +17158,7 @@ drillmaster
 dispreading
 drillmasters
 drylots
+deaths
 drilvis
 dryness
 drynesses
