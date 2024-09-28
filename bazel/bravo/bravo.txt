@@ -7909,7 +7909,6 @@ bohmite
 biblic
 bipunctal
 biblical
-biblicality
 biblically
 biblicism
 biblicist
@@ -16474,6 +16473,7 @@ bruteness
 brutify
 bimorphemic
 brutification
+biblicality
 badness
 brutified
 barbarianize
