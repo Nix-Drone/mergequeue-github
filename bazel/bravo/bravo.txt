@@ -677,6 +677,7 @@ bacteriosolvent
 bacteriostasis
 bacteriostat
 bacteriostatically
+bonds
 bacteriotherapeutic
 bacteriotherapy
 balanophorin
@@ -12271,7 +12272,6 @@ bombast
 bombaster
 bombastic
 biophor
-bonds
 battering
 baniwa
 bombastical
