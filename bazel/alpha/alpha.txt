@@ -16209,6 +16209,7 @@ advection
 autolysin
 antiseptize
 antisera
+aposporogony
 antiminsia
 antiserums
 antiserumsera
@@ -17417,7 +17418,6 @@ aposoro
 apospory
 apospories
 archpatriarch
-aposporogony
 apostacy
 apostacies
 apostacize
