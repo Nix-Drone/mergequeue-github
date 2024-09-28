@@ -1111,7 +1111,6 @@ edh
 edhs
 edibile
 earthlike
-equipper
 edibility
 edible
 expurgatory
@@ -8972,6 +8971,7 @@ enshrine
 ecstasize
 ergatoid
 ergatomorphic
+equipper
 ergatomorphism
 ergo
 ergodic
