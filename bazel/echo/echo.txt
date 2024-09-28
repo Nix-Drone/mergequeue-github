@@ -84,6 +84,7 @@ epicalyces
 earmuff
 earmuffs
 earn
+entailments
 earnable
 earned
 earner
@@ -6538,7 +6539,6 @@ esophagectomy
 entailed
 entailer
 eggy
-entailments
 entails
 emeutes
 entalent
