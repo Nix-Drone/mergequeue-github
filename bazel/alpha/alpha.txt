@@ -5607,7 +5607,6 @@ aftereye
 afterfall
 afterfame
 afterfeed
-afterform
 afterfriend
 afterfruits
 afterfuture
@@ -11980,6 +11979,7 @@ awakenable
 anaschistic
 anaseismic
 anasitch
+afterform
 anaspadias
 anaspalin
 amphitheatrically
