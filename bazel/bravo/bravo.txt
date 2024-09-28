@@ -7274,7 +7274,6 @@ bestowment
 bestows
 bestraddle
 bestraddled
-bitewings
 bestraddling
 bestraught
 bestraw
@@ -13142,6 +13141,7 @@ boskages
 breunnerite
 bosker
 blueings
+bitewings
 bosky
 boskier
 boskopoid
