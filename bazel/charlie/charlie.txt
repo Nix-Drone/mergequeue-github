@@ -22073,7 +22073,6 @@ conformationally
 crwths
 couvert
 conformations
-conformator
 conformed
 conformer
 conformers
@@ -28632,6 +28631,7 @@ compose
 cheverons
 crenelation
 crenelations
+conformator
 crenele
 creneled
 crenelee
