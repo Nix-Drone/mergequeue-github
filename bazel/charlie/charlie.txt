@@ -10096,7 +10096,6 @@ cheshire
 chesil
 cheskey
 choices
-cheskeys
 cheslep
 chesoun
 chess
@@ -19867,6 +19866,7 @@ cubbish
 comida
 comiferous
 cominform
+cheskeys
 cominformist
 cominformists
 confederal
