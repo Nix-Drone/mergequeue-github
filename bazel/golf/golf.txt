@@ -5552,7 +5552,6 @@ glioma
 greatest
 gliosa
 glyoxal
-glyoxalic
 glyoxaline
 galliwasp
 gastrelcosis
@@ -8417,6 +8416,7 @@ geoglyphic
 gravelliness
 glaziness
 gravelling
+glyoxalic
 goshdarn
 gyroceras
 gravelous
