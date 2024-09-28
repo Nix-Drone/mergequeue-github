@@ -12420,7 +12420,6 @@ bondswoman
 bondswomen
 bonduc
 bonducnut
-bonducs
 bondwoman
 bondwomen
 bone
@@ -12673,6 +12672,7 @@ booklover
 bookmaker
 bookmakers
 bedot
+bonducs
 bookman
 bidarka
 bookmark
