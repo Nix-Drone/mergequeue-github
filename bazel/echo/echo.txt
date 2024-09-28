@@ -838,7 +838,6 @@ ectocardia
 erigenia
 extent
 ectocarpaceae
-ectocarpales
 ectocarpic
 ectocarpous
 ectocarpus
@@ -2644,6 +2643,7 @@ eleutherodactyli
 electrosurgeries
 electrosurgical
 electrotactic
+ectocarpales
 electrotautomerism
 enrail
 electrotaxis
