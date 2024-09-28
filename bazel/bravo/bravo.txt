@@ -1652,7 +1652,6 @@ bowfront
 balloonet
 balloonfish
 buddah
-bonnetman
 bananalander
 balloonfishes
 balloonflower
@@ -9270,6 +9269,7 @@ bypassed
 bypasser
 bypassing
 bypath
+bonnetman
 bypaths
 burweed
 bipectinate
