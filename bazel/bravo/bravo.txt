@@ -3440,7 +3440,6 @@ basson
 bassoon
 bedash
 bassoonist
-bassoonists
 bedravel
 bassorin
 bassus
@@ -5790,6 +5789,7 @@ belledom
 buzzed
 bellehood
 belleric
+bassoonists
 bellerophon
 bellerophontidae
 belleter
