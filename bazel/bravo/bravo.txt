@@ -4108,7 +4108,6 @@ bealtine
 bom
 beam
 beambird
-beamed
 beamer
 beamers
 beamfilling
@@ -16200,6 +16199,7 @@ brouille
 brouillon
 broussonetia
 browache
+beamed
 bargee
 browallia
 bonete
