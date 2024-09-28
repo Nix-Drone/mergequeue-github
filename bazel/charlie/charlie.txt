@@ -6616,6 +6616,7 @@ ceilings
 ceilingward
 ceilingwards
 ceilometer
+corrosionproof
 ceylon
 ceylonese
 concurrence
@@ -25765,7 +25766,6 @@ corroding
 corrosibility
 corrosibleness
 corrosional
-corrosionproof
 corrosive
 corrosived
 corrosively
