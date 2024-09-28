@@ -953,7 +953,6 @@ gemologies
 grooviness
 giltheads
 gossan
-gamelang
 gamelans
 gameless
 gentian
@@ -8501,6 +8500,7 @@ garb
 grabbed
 gravure
 grazable
+gamelang
 gastight
 grazed
 grazer
