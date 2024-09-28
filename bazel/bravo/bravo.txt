@@ -2692,7 +2692,6 @@ beknights
 barkentine
 barkentines
 barker
-barkery
 barkevikite
 barkevikitic
 bub
@@ -10196,6 +10195,7 @@ blackstick
 burghbote
 baneful
 blacktail
+barkery
 bliaut
 boogaloo
 blackthorns
