@@ -3172,7 +3172,6 @@ default
 duringly
 defaultant
 defaulted
-defaultless
 defaults
 defaulture
 dowie
@@ -11968,6 +11967,7 @@ disencharm
 drip
 disenclose
 disencourage
+defaultless
 disencumbered
 disencumberment
 discriminate
