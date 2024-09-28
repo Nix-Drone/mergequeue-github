@@ -8915,7 +8915,6 @@ characterism
 characteristic
 characteristical
 characteristically
-characteristicalness
 characteristicness
 characteristics
 characterizable
@@ -30936,6 +30935,7 @@ cumberlandite
 cumberless
 cumberment
 coordinative
+characteristicalness
 cumbersome
 cumbersomely
 cumbersomeness
