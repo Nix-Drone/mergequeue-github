@@ -102,7 +102,6 @@ fantoms
 faciation
 forequoted
 facie
-freeport
 fibroelastic
 faciend
 faciends
@@ -1202,6 +1201,7 @@ fasciculite
 fluorite
 frijoles
 foetuses
+freeport
 feller
 fungistatic
 figeaters
