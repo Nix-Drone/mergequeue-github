@@ -3455,7 +3455,6 @@ adarme
 adat
 adati
 adaty
-adatis
 adatom
 adaunt
 adawe
@@ -10955,6 +10954,7 @@ amovable
 amuser
 altitudinous
 amove
+adatis
 amoved
 amoving
 amowt
