@@ -1343,7 +1343,6 @@ feasances
 fastland
 fastnacht
 fromage
-fastnesses
 feed
 frogskins
 fasts
@@ -2996,6 +2995,7 @@ fevertwig
 fevertwitch
 feverwort
 few
+fastnesses
 fewest
 fewmand
 fogle
