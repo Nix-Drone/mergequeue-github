@@ -8214,7 +8214,6 @@ diagnosticians
 diagnostics
 diagometer
 demove
-derogations
 dele
 diagonal
 diagonalizable
@@ -11727,6 +11726,7 @@ discreet
 discreeter
 discreetest
 dermography
+derogations
 discreetly
 discreetness
 discrepancy
