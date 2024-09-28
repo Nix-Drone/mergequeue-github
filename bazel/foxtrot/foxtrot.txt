@@ -4098,6 +4098,7 @@ fattable
 fellatrixes
 fletching
 finnish
+flocky
 finnmark
 finnochio
 filiopietistic
@@ -5861,7 +5862,6 @@ flockbed
 forbysening
 flushes
 flocker
-flocky
 flockiest
 flockings
 flitter
