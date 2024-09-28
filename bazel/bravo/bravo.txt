@@ -1999,7 +1999,6 @@ bandos
 bandpass
 bandrol
 bandsaw
-bandsawed
 bandsawing
 bandsawn
 bandsman
@@ -17984,6 +17983,7 @@ bronchadenitis
 bushless
 bushlet
 blepharohematidrosis
+bandsawed
 bushlike
 bareness
 bushmaker
