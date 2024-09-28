@@ -3621,7 +3621,6 @@ files
 frailly
 filesmith
 filesniff
-flagships
 filespec
 forficula
 fossores
@@ -6407,6 +6406,7 @@ foveolar
 fluoresceine
 fluorescer
 fluoresces
+flagships
 frisked
 fluorescigenic
 fluorescigenous
