@@ -9980,7 +9980,6 @@ chenet
 chenfish
 cheng
 chengal
-chenica
 chenier
 chenille
 cheniller
@@ -20680,6 +20679,7 @@ completories
 complex
 complexation
 complexedness
+chenica
 complexer
 complexes
 cebatha
