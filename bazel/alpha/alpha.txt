@@ -1757,7 +1757,6 @@ accruals
 accrue
 accrued
 accruement
-accruer
 accrues
 accruing
 accts
@@ -10266,6 +10265,7 @@ amercement
 amercements
 amercer
 amercers
+accruer
 amerces
 amerciable
 amerciament
