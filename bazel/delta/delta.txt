@@ -13493,7 +13493,6 @@ dissemble
 dissembler
 diagraphic
 driftman
-dissemblers
 dissembles
 dissemblies
 dissembling
@@ -13610,6 +13609,7 @@ deipara
 dissimulative
 dispowder
 dissimulator
+dissemblers
 daidling
 dissimuler
 dyssynergy
