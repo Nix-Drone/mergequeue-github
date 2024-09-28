@@ -3921,7 +3921,6 @@ find
 finalizes
 findable
 flabellinerved
-findhorn
 finding
 findon
 failing
@@ -6721,6 +6720,7 @@ flyblow
 fogdogs
 fairways
 fogdom
+findhorn
 figworts
 fogfruit
 foretype
