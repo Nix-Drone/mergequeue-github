@@ -14134,7 +14134,6 @@ antedorsal
 antefact
 antefix
 antefixa
-anteflected
 anteflexed
 anteflexion
 antefurca
@@ -17759,6 +17758,7 @@ appetent
 appetently
 appetibility
 appetible
+anteflected
 appetibleness
 anthophore
 appetiser
