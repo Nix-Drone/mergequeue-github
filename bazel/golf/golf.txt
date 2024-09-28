@@ -5919,6 +5919,7 @@ gorling
 grinder
 glossoplasty
 glossoplegia
+guesdist
 glossopodium
 glossopteris
 glossoptosis
@@ -10069,7 +10070,6 @@ guesdism
 gymnura
 guid
 gravigrade
-guesdist
 gamodeme
 guessed
 gunnysacks
