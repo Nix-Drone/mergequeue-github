@@ -219,7 +219,6 @@ abbr
 abbrev
 abbreviatable
 abbreviate
-abbreviated
 argotic
 apostolicism
 afdecho
@@ -22741,6 +22740,7 @@ atoke
 atokous
 atoll
 anyhow
+abbreviated
 assonate
 allege
 atolls
