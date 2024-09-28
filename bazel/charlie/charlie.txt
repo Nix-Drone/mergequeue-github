@@ -6765,6 +6765,7 @@ cellblocks
 celled
 centennium
 cellepora
+containerizes
 cellepore
 cellfalcicula
 celli
@@ -23342,7 +23343,6 @@ container
 containerboard
 containerization
 containerize
-containerizes
 containerizing
 chemasthenia
 containerport
