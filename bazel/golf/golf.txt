@@ -3331,7 +3331,6 @@ gypsography
 gerbera
 gardencraft
 gerbil
-gerbilles
 groutnoll
 gunbearer
 gerbillus
@@ -3952,6 +3951,7 @@ gierfalcon
 grievant
 giffgaff
 gifola
+gerbilles
 gift
 giftbook
 giftedly
