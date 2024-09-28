@@ -953,7 +953,6 @@ gemologies
 grooviness
 giltheads
 gossan
-gamelang
 gamelans
 gameless
 gentian
@@ -5381,6 +5380,7 @@ geomedicine
 gliadines
 gliadins
 glaucophane
+gamelang
 glib
 glibber
 grippy
