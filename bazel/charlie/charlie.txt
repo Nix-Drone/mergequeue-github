@@ -8489,7 +8489,6 @@ chameleonize
 chameleonlike
 chameleons
 chamfer
-chamfered
 chamferer
 chamfering
 chamfers
@@ -18244,6 +18243,7 @@ cogger
 coggers
 cogging
 culmen
+chamfered
 coggle
 coggledy
 cogglety
