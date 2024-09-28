@@ -1173,7 +1173,6 @@ ff
 fas
 foreguts
 fasc
-fascinative
 fasces
 fascet
 foldskirt
@@ -8655,6 +8654,7 @@ forswearing
 fairling
 fields
 forswears
+fascinative
 fort
 fortake
 fenceful
