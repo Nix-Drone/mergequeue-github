@@ -9945,7 +9945,6 @@ chemotactically
 chemotaxy
 chemotaxis
 chemotaxonomy
-chemotaxonomic
 chemotaxonomically
 cannular
 comma
@@ -10112,6 +10111,7 @@ chesset
 chessylite
 chessist
 chessman
+chemotaxonomic
 chessmen
 chirimen
 chessner
