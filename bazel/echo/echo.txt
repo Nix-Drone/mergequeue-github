@@ -7486,6 +7486,7 @@ epharmonic
 ephas
 ephebea
 equipped
+epulones
 enrols
 ephebeibeia
 ephebeion
@@ -11543,7 +11544,6 @@ evictions
 eleocharis
 embodying
 evictor
-epulones
 evictors
 evicts
 evidence
