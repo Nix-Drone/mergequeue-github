@@ -8481,7 +8481,6 @@ graving
 gravipause
 gravisphere
 gemelled
-gravispheric
 gravitated
 gravitater
 gravitates
@@ -10096,6 +10095,7 @@ guesthouse
 guesting
 giottesque
 guestmaster
+gravispheric
 gabeller
 grizelin
 guetar
