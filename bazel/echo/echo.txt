@@ -1576,7 +1576,6 @@ egestion
 egestions
 egg
 eggbeater
-ethmoid
 endosternum
 eggbeaters
 eggcrate
@@ -6232,6 +6231,7 @@ enraged
 electrofishing
 enragedly
 extraepiphyseal
+ethmoid
 enragedness
 exosepsis
 emanent
