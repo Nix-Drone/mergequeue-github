@@ -2226,7 +2226,6 @@ farmhouses
 felt
 felted
 felter
-feltyfare
 feltyflier
 felting
 feltings
@@ -3190,6 +3189,7 @@ fibulae
 fashional
 fibular
 ficoides
+feltyfare
 fomento
 fibulocalcaneal
 ficaries
