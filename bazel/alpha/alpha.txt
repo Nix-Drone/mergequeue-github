@@ -6839,6 +6839,7 @@ aircraftsman
 aircraftsmen
 aircraftswoman
 aircraftwoman
+ascitb
 ahint
 aircrew
 aircrewman
@@ -20986,7 +20987,6 @@ ascyphous
 ascyrum
 authorizable
 accumulators
-ascitb
 ascite
 aceconitic
 ascites
