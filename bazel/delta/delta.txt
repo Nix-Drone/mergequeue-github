@@ -3501,7 +3501,6 @@ defoliator
 deforce
 deuteroprism
 deforced
-dogstail
 dinner
 deforcer
 deforces
@@ -16346,6 +16345,7 @@ downset
 downshare
 downshift
 downshifted
+dogstail
 degradability
 downshifts
 downshore
