@@ -4597,7 +4597,6 @@ demiglobe
 dendrite
 demigod
 demigoddess
-demigods
 demigorge
 demigrate
 demigriffin
@@ -7676,6 +7675,7 @@ devising
 diacetic
 decussorium
 devisors
+demigods
 devitalisation
 devitalise
 devitalised
