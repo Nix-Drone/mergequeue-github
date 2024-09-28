@@ -11602,7 +11602,6 @@ anaeroplasty
 anaeroplastic
 anaesthesiology
 anaesthesiologist
-anaesthesis
 anaesthetic
 anaesthetically
 anthropomantic
@@ -23625,6 +23624,7 @@ aurited
 aurivorous
 auroauric
 aurobromide
+anaesthesis
 auroch
 aurochloride
 aurochs
