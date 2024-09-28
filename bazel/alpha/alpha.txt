@@ -11331,7 +11331,6 @@ asepticize
 ampullated
 arrondissements
 ampulliform
-ampullosity
 ampullula
 ampullulae
 airiness
@@ -18675,6 +18674,7 @@ aulos
 arcadic
 arcading
 arcadings
+ampullosity
 arcana
 arcanal
 arcane
