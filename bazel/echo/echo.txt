@@ -877,7 +877,6 @@ ectoglia
 encroached
 electros
 ectognatha
-ectolecithal
 ectomeres
 ectomeric
 ectomesoblast
@@ -13800,6 +13799,7 @@ experienceable
 extracranial
 extractable
 extractant
+ectolecithal
 extracted
 extractibility
 extractible
