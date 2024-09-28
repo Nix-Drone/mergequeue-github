@@ -1247,7 +1247,6 @@ gantline
 genteeler
 gantlines
 gantlopes
-garial
 ganton
 gantries
 gantsl
@@ -1376,6 +1375,7 @@ gardening
 gardenless
 gardenly
 gardenlike
+garial
 grume
 gardenmaking
 gardens
