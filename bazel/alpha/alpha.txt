@@ -5328,6 +5328,7 @@ affinities
 antifanatic
 affinition
 affinitive
+ascription
 affirm
 affirmable
 affirmably
@@ -21054,7 +21055,6 @@ ascribed
 ascribes
 ascribing
 ascript
-ascription
 ascriptions
 adumbratively
 ascriptitious
