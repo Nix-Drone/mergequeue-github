@@ -15818,7 +15818,6 @@ depreciations
 dorsiventrally
 dorsoabdominal
 dorsoanterior
-dorsoapical
 dorsocaudad
 dorsocentral
 diminishing
@@ -18427,6 +18426,7 @@ duplified
 duplifying
 duplone
 dupondidii
+dorsoapical
 dupondius
 dissembled
 duppa
