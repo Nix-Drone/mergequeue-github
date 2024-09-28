@@ -16324,6 +16324,7 @@ collapsible
 clippable
 clipped
 clipperman
+comparator
 clippers
 clippie
 clipping
@@ -20454,7 +20455,6 @@ comparatives
 contratabular
 comparativist
 consultancy
-comparator
 comparators
 comparcioner
 compared
