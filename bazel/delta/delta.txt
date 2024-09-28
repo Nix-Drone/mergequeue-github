@@ -3030,6 +3030,7 @@ dendroid
 dang
 deemstership
 deener
+dequeue
 deeny
 deep
 dueled
@@ -6072,7 +6073,6 @@ dungeonlike
 deputizes
 deputizing
 dequantitate
-dequeue
 dequeues
 dequeuing
 dropshots
