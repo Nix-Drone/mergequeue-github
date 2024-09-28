@@ -1146,7 +1146,6 @@ farseer
 farset
 frogged
 fregatidae
-farsighted
 farsightedness
 flatteringly
 forkedly
@@ -4992,6 +4991,7 @@ foliums
 flannels
 flanning
 flanque
+farsighted
 flapcake
 flapdock
 furcately
