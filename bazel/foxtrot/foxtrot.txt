@@ -5940,7 +5940,6 @@ floorcloths
 floored
 flooring
 fascistic
-foreclosable
 flummoxes
 fluidizing
 floorless
@@ -10456,6 +10455,7 @@ frontlash
 frontlessness
 fistnote
 frontoauricular
+foreclosable
 frontoethmoid
 fashionize
 fantasticate
