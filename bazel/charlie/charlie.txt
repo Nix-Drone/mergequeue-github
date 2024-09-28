@@ -2851,7 +2851,6 @@ canticles
 cantico
 cantiga
 cantilated
-cantilating
 cantilena
 cantilene
 cantilenes
@@ -7327,6 +7326,7 @@ cephalocaudal
 cephalocele
 cephalocentesis
 coprocessors
+cantilating
 cristina
 cephalocercal
 cephalochorda
