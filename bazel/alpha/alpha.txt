@@ -6613,6 +6613,7 @@ aholds
 ahom
 astrophotographer
 ahong
+arrowheads
 ahorse
 ahorseback
 ahousaht
@@ -20336,7 +20337,6 @@ arrow
 arrowbush
 arrowhead
 arrowheaded
-arrowheads
 arrowy
 arrowing
 arrowleaf
