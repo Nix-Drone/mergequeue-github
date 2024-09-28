@@ -2222,6 +2222,7 @@ felspath
 felspathose
 felstone
 framers
+foreganger
 farmhouses
 felt
 felted
@@ -7057,7 +7058,6 @@ fonticulus
 flywheels
 fontina
 feelingly
-foreganger
 fontinalaceous
 fontinas
 fontlet
