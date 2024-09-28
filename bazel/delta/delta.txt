@@ -5740,7 +5740,6 @@ deplasmolysis
 dictamina
 disposit
 deplenish
-depletable
 depleteable
 depleted
 depleting
@@ -18104,6 +18103,7 @@ delectable
 dumfounded
 discuren
 dumfounderment
+depletable
 dumfounds
 dahlia
 duplicate
