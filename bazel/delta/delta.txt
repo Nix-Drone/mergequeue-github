@@ -5755,7 +5755,6 @@ deploying
 defilade
 deployment
 deployments
-deftest
 deplorabilia
 deplorability
 depolymerizing
@@ -16496,6 +16495,7 @@ dracaenas
 drachen
 drachma
 devolatilisation
+deftest
 discomposes
 drachmai
 drachmal
