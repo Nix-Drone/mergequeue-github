@@ -1919,6 +1919,7 @@ banders
 banjara
 bandersnatch
 bandfile
+bldr
 bandfiled
 bandfish
 bandgap
@@ -18353,7 +18354,6 @@ butut
 bututs
 buvette
 buxaceae
-bldr
 buxaceous
 buxbaumia
 buxbaumiaceae
