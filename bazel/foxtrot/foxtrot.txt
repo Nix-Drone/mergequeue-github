@@ -6501,6 +6501,7 @@ futile
 flurt
 flush
 flushboard
+fs
 flushers
 flushest
 face
@@ -10792,7 +10793,6 @@ frwy
 faintish
 formular
 feldspathoidal
-fs
 ferr
 fstore
 fabianism
