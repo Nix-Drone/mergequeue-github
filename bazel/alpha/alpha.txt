@@ -4403,7 +4403,6 @@ ads
 adsbud
 adscendent
 adscititious
-adscript
 adscripted
 adscription
 adscriptitious
@@ -19521,6 +19520,7 @@ argyll
 argillic
 argilliferous
 argillite
+adscript
 argillocalcareous
 argillocalcite
 argilloferruginous
