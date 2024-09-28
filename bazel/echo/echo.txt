@@ -2764,7 +2764,6 @@ elementalism
 elementalist
 elementalistic
 elementality
-elementalize
 elementally
 elementaloid
 eluded
@@ -4621,6 +4620,7 @@ euphemized
 enchaining
 excrementitious
 enchainments
+elementalize
 epiblema
 enchancement
 extension
