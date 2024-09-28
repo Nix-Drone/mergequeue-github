@@ -5104,7 +5104,6 @@ gavelkind
 glamorousness
 glamors
 goodwily
-glamour
 granita
 glossary
 glamourization
@@ -6667,6 +6666,7 @@ goldspink
 gnathopod
 goldstone
 goldtit
+glamour
 gnash
 goldurned
 goldurns
