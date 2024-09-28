@@ -9595,6 +9595,7 @@ bisdiapason
 babbitter
 bisdimethylamino
 bisect
+bootprint
 brangled
 bisected
 bisecting
@@ -13999,7 +14000,6 @@ brachyglossal
 brachygnathia
 brachygnathism
 brachygrapher
-bootprint
 brachygraphic
 brachygraphical
 brachyhieric
