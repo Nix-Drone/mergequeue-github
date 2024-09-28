@@ -7270,7 +7270,6 @@ bestowals
 bestower
 bestowing
 bicepses
-bestowment
 bestows
 bestraddle
 bestraddled
@@ -11501,6 +11500,7 @@ bedels
 blurts
 blush
 blushed
+bestowment
 blusher
 blushes
 blushful
