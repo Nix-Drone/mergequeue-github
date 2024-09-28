@@ -2810,7 +2810,6 @@ gestures
 genio
 genioglossal
 globoids
-genioglossi
 genioglossus
 geniohyoglossal
 gapers
@@ -9567,6 +9566,7 @@ grandnieces
 grown
 grownup
 grownups
+genioglossi
 guardship
 gladlier
 gothicism
