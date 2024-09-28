@@ -6620,6 +6620,7 @@ filace
 foaly
 foaling
 foals
+foraged
 forestick
 foam
 foambow
@@ -7311,7 +7312,6 @@ footstep
 fora
 forage
 facers
-foraged
 fluttery
 foragement
 forager
