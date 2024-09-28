@@ -8730,7 +8730,6 @@ alliterations
 alliterative
 autocatalepsy
 alliteratively
-alliterativeness
 alliterator
 allituric
 allium
@@ -15466,6 +15465,7 @@ anaglypton
 antiloemic
 antilog
 antilogarithmic
+alliterativeness
 antilogy
 antilogic
 atropinize
