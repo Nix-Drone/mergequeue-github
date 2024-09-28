@@ -1825,7 +1825,6 @@ erpetologist
 eyeseed
 eyeservant
 enfranchisement
-eyeserver
 eyeservice
 eyeshade
 eyeshield
@@ -13601,6 +13600,7 @@ exteriorness
 exterminable
 exoduses
 emigated
+eyeserver
 exterminate
 exterminated
 extremistic
