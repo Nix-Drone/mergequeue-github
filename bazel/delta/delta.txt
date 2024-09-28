@@ -13272,7 +13272,6 @@ disputableness
 disputacity
 disputant
 disputants
-disputation
 deflators
 disputations
 disputatious
@@ -18026,6 +18025,7 @@ duly
 debacles
 dulia
 dull
+disputation
 dullard
 dullardism
 deckload
