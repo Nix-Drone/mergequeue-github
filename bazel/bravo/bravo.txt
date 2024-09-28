@@ -10442,7 +10442,6 @@ beleaguer
 blastogranitic
 blastoid
 bodywood
-blastoma
 blastomas
 blastomata
 blastomere
@@ -14450,6 +14449,7 @@ besoothing
 branchier
 branchiest
 branchiferous
+blastoma
 beswarming
 branchiform
 branchihyal
