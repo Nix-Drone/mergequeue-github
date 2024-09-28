@@ -3178,7 +3178,6 @@ elsewhen
 elsewhere
 elsewheres
 elsholtzia
-elsin
 elt
 eltrot
 eluant
@@ -3438,6 +3437,7 @@ embiid
 embiidina
 exsuccous
 eductive
+elsin
 embillow
 embind
 embiodea
