@@ -4829,7 +4829,6 @@ bedrooms
 bisymmetrically
 bedrop
 bedrown
-bedrowse
 bedrugged
 bedrugging
 beds
@@ -11892,6 +11891,7 @@ blastemas
 bogglebo
 boggled
 boggler
+bedrowse
 bogglers
 boggles
 boggling
