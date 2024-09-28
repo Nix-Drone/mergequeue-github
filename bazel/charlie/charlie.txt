@@ -11504,6 +11504,7 @@ choke
 chokeable
 chokeberry
 chokeberries
+coalized
 chokebore
 chokecherry
 chokecherries
@@ -17185,7 +17186,6 @@ coalitioner
 coalitionist
 coalitions
 coalize
-coalized
 coinclude
 coalizer
 coalless
