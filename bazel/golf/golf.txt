@@ -799,7 +799,6 @@ galvanizer
 galvanizers
 gujar
 galvanizes
-galvanizing
 galvanocautery
 galvanocauteries
 galvanofaradization
@@ -8253,6 +8252,7 @@ grasschat
 grasscut
 guha
 grassed
+galvanizing
 goodwillit
 glod
 geegaws
