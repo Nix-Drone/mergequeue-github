@@ -9279,6 +9279,7 @@ chateaux
 chatelain
 chatelaine
 chatelaines
+culex
 chatelainry
 chatelains
 chatelet
@@ -30736,7 +30737,6 @@ culets
 culett
 culeus
 centrifugalized
-culex
 culgee
 culices
 culicidae
