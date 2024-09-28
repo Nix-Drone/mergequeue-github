@@ -479,7 +479,6 @@ abyssinia
 abyssinian
 abyssobenthonic
 abyssolith
-abyssopelagic
 abyssus
 abit
 abiuret
@@ -3161,6 +3160,7 @@ actinophrys
 actinopod
 actinopraxis
 actinopteran
+abyssopelagic
 actinopteri
 actinopterygian
 amylopsase
