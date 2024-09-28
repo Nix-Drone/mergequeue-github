@@ -6595,7 +6595,6 @@ entepicondylar
 enter
 enterable
 enteraden
-enteradenography
 enteradenographic
 enteradenological
 enteral
@@ -13324,6 +13323,7 @@ expostulative
 expostulatively
 expostulatory
 exposture
+enteradenography
 epanaphoral
 etude
 exposure
