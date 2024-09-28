@@ -470,6 +470,7 @@ daystars
 daystreak
 daytide
 daytime
+diplomatism
 daytimes
 daiva
 dobbed
@@ -10585,7 +10586,6 @@ diplomate
 diplomates
 diplomatically
 diplomatique
-diplomatism
 diplomatist
 diplomatists
 diplomatology
