@@ -6829,7 +6829,6 @@ antonina
 airbuses
 airbusses
 aircheck
-airchecks
 aircoaches
 aircraft
 aircraftman
@@ -23349,6 +23348,7 @@ auditor
 auditory
 auditorial
 auditorially
+airchecks
 alleviaters
 auditorily
 auditorium
