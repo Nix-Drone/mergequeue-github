@@ -1934,7 +1934,6 @@ bandicoy
 bandicoot
 bandicoots
 bidiurnal
-bpt
 bloodier
 bandido
 bandidos
@@ -9212,6 +9211,7 @@ basilemma
 biotechnologically
 botanists
 behaves
+bpt
 biotelemetries
 biotical
 bromogelatin
