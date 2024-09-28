@@ -5112,6 +5112,7 @@ flatlets
 floorwalker
 flavoprotein
 fatigued
+fet
 fissionability
 flatly
 flatling
@@ -7528,7 +7529,6 @@ finises
 forebespeak
 forebitt
 flaucht
-fet
 forebitten
 forebitter
 fizzing
