@@ -6014,7 +6014,6 @@ depsid
 depside
 depsides
 dept
-depth
 depthen
 depthless
 depthlessness
@@ -12565,6 +12564,7 @@ disjoints
 disjointure
 disjudication
 disjunctions
+depth
 disjunctive
 disjunctively
 disjunctor
