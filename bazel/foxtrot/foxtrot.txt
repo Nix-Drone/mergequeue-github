@@ -5785,7 +5785,6 @@ fungiform
 flyways
 faunas
 further
-flyweight
 flyweights
 forthon
 fribblish
@@ -8879,6 +8878,7 @@ frameableness
 fossilism
 fossilist
 fossilizable
+flyweight
 fossilized
 fossilizing
 furcular
