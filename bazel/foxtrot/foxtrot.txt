@@ -2700,7 +2700,6 @@ fertilizer
 fillagreing
 fertilizers
 foremelt
-ferula
 foghorns
 ferulaceous
 ferular
@@ -4126,6 +4125,7 @@ firearms
 fireback
 fumeuses
 favourably
+ferula
 fireballs
 fundament
 firebase
