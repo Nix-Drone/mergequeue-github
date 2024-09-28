@@ -13834,7 +13834,6 @@ bowstring
 bowstringed
 bowstrings
 bowstrung
-bowtel
 brichen
 bowtell
 bowwow
@@ -14992,6 +14991,7 @@ breezeways
 besanctify
 breezy
 breezier
+bowtel
 breeziest
 breezily
 breeziness
