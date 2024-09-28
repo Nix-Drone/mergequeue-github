@@ -5781,6 +5781,7 @@ caterbrawl
 catercap
 catercorner
 catercornered
+ciruses
 catercornerways
 catercousin
 catered
@@ -24897,7 +24898,6 @@ coraveca
 corban
 corbe
 corbeau
-ciruses
 corbed
 corbeille
 corbeils
