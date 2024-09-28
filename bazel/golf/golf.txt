@@ -3077,7 +3077,6 @@ gekko
 geomance
 geoform
 gillnet
-geogen
 geogenesis
 gyropilot
 geogenetic
@@ -9578,6 +9577,7 @@ grizzlier
 gentlewomanish
 growse
 growsome
+geogen
 geneva
 growth
 gummite
