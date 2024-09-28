@@ -1659,7 +1659,6 @@ accordance
 accordances
 accordancy
 accordatura
-amphiphloic
 accordaturas
 accordature
 accorded
@@ -11264,6 +11263,7 @@ amphorae
 amphoral
 amphore
 amphorette
+amphiphloic
 amphoric
 amphoriloquy
 actinolite
