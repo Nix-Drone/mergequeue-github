@@ -3815,7 +3815,6 @@ deice
 deicers
 deicidal
 deicides
-deicing
 deictical
 deictically
 deidealize
@@ -7885,6 +7884,7 @@ dextrality
 dextrally
 dextran
 dextranase
+deicing
 dextrer
 dextrin
 dextrinate
