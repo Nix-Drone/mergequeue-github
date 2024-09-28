@@ -4077,6 +4077,7 @@ cardioplegia
 cardiopneumatic
 cardiopneumograph
 cardioptosis
+clonorchiasis
 cardiopulmonary
 cardiorenal
 cardiorespiratory
@@ -16613,7 +16614,6 @@ clonk
 clonked
 clonking
 clonks
-clonorchiasis
 clonorchis
 chapeaus
 circut
