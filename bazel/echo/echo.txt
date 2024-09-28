@@ -2686,7 +2686,6 @@ electrothermostatic
 electrothermotic
 electrotype
 electrotyped
-electrotypes
 electrotypy
 escarmouche
 elating
@@ -4431,6 +4430,7 @@ euornithes
 enantiotropy
 enantobiosis
 enapt
+electrotypes
 enarbor
 enarbour
 effusion
