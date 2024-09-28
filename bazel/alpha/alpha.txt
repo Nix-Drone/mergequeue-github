@@ -13,7 +13,6 @@ ammiral
 autoimmunities
 aani
 aardvark
-aardvarks
 aardwolf
 archerfish
 aardwolves
@@ -1362,6 +1361,7 @@ audrey
 amative
 acarpelous
 acarpous
+aardvarks
 acarus
 acastus
 acatalectic
