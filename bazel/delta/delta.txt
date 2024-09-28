@@ -2625,7 +2625,6 @@ decolorization
 decolorized
 decolorizer
 decolors
-decolour
 decolouration
 decolouring
 decolourisation
@@ -5518,6 +5517,7 @@ deodorizes
 dogging
 deontology
 deontological
+decolour
 deontologist
 deoperculate
 deoppilant
