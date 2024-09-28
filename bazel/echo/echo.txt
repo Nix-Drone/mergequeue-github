@@ -6713,7 +6713,6 @@ enterospasm
 enterostasis
 ebracteolate
 enterostomies
-enterotome
 extemporaneity
 enterotomy
 enterotoxemia
@@ -11552,6 +11551,7 @@ evidencing
 evidencive
 evident
 ergasterion
+enterotome
 evidential
 evidentially
 evidentiary
