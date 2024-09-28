@@ -7257,7 +7257,6 @@ centuples
 chaldese
 centuply
 centuplicate
-centuplicated
 centuplicating
 civility
 clawsick
@@ -28955,6 +28954,7 @@ crime
 crimea
 cheiroptera
 countersconce
+centuplicated
 crimean
 crimeful
 crimeless
