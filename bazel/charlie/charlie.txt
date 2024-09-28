@@ -3396,6 +3396,7 @@ capsulize
 capsulized
 capsulizing
 cabman
+cutins
 capsulogenous
 capsulolenticular
 capsulopupillary
@@ -31820,7 +31821,6 @@ cutinize
 cutinized
 cutinizes
 cutinizing
-cutins
 cutireaction
 cutis
 cutisector
