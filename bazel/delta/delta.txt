@@ -4267,6 +4267,7 @@ deloul
 decocted
 deloused
 delouses
+diffusibleness
 decolourized
 delousing
 decimal
@@ -9371,7 +9372,6 @@ diffusers
 diffuses
 dechlore
 diffusible
-diffusibleness
 diffusimeter
 diffusing
 diffusiometer
