@@ -8657,7 +8657,6 @@ fields
 forswears
 fort
 fortake
-fenceful
 flense
 fortaxed
 fortemente
@@ -8859,6 +8858,7 @@ fossettes
 flneur
 flon
 fossick
+fenceful
 fumbulator
 fossicked
 fossicker
