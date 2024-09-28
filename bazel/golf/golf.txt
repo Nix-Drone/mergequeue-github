@@ -499,7 +499,6 @@ galeodes
 ganglia
 galeodidae
 galeoid
-gnapweed
 galeopsis
 glossoncus
 galeorchis
@@ -2912,6 +2911,7 @@ gentianic
 gentianose
 gentians
 gentianwort
+gnapweed
 gristly
 gentiin
 gentil
