@@ -4440,7 +4440,6 @@ adstipulated
 adstipulating
 adstipulation
 adstipulator
-adsum
 adterminal
 adtevac
 aduana
@@ -17250,6 +17249,7 @@ apokatastasis
 argyric
 apokatastatic
 antiserum
+adsum
 anchoring
 apokrea
 anhydrite
