@@ -4747,7 +4747,6 @@ carretta
 carri
 carry
 carriable
-carryable
 carriage
 carriageable
 carriageful
@@ -25963,6 +25962,7 @@ cosaque
 coppled
 coscet
 coscinomancy
+carryable
 copywise
 chn
 cose
