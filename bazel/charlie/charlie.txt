@@ -11589,7 +11589,6 @@ choledochoenterostomy
 clomb
 choledocholithiasis
 choledocholithotomy
-choledocholithotripsy
 choledochoplasty
 choledochorrhaphy
 choledochostomy
@@ -16094,6 +16093,7 @@ cliental
 cliented
 clientelage
 clienteles
+choledocholithotripsy
 cycloidian
 clientry
 clients
