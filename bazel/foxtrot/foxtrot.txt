@@ -711,7 +711,6 @@ famine
 fifteener
 famines
 faena
-famished
 famishing
 famishment
 famose
@@ -11382,6 +11381,7 @@ furfuramid
 furfuran
 furfurans
 ferroelectricity
+famished
 fictional
 furfuration
 furfures
