@@ -2650,7 +2650,6 @@ gendarmes
 gender
 genderer
 genders
-ghoulie
 geneal
 genealogic
 genealogical
@@ -10367,6 +10366,7 @@ gulllike
 gulls
 glucosidal
 gulonic
+ghoulie
 gulose
 gulosity
 gulosities
