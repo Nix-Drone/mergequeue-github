@@ -3011,7 +3011,6 @@ barrico
 barricoes
 barrier
 barriers
-barriguda
 barrigudos
 broadaxe
 barrikin
@@ -9946,6 +9945,7 @@ bivalved
 bivalves
 bivalvia
 bonnyclabber
+barriguda
 bivalvian
 bivalvous
 bivalvular
