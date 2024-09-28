@@ -5789,7 +5789,6 @@ flyweight
 flyweights
 forthon
 fribblish
-flywinch
 frankable
 flix
 fll
@@ -8862,6 +8861,7 @@ fossick
 fumbulator
 fossicked
 fossicker
+flywinch
 fossicking
 fossicks
 fossified
