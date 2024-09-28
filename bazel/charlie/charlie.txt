@@ -7364,7 +7364,6 @@ cephalometer
 cephalometric
 cephalomyitis
 cephalomotor
-cephalon
 clysis
 cephalonasal
 cephalopathy
@@ -16221,6 +16220,7 @@ clings
 clingstone
 clinia
 clinic
+cephalon
 clinical
 clinically
 clinician
