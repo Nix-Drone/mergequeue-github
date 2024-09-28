@@ -16475,7 +16475,6 @@ clocker
 clockface
 clockhouse
 clocking
-clockings
 clockkeeper
 clockless
 cuon
@@ -28024,6 +28023,7 @@ clatchy
 crams
 cran
 cranage
+clockings
 cranberries
 cranch
 cranched
