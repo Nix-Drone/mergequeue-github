@@ -2964,6 +2964,7 @@ barrelhouses
 besmearer
 barreling
 broad
+bismuthic
 barrelled
 brattle
 barrelmaker
@@ -10986,7 +10987,6 @@ blockaders
 blockading
 blockage
 blockages
-bismuthic
 blockboard
 blockbusters
 birefractive
