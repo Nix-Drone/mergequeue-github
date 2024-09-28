@@ -9106,7 +9106,6 @@ biophysical
 biophysicist
 biophysics
 biophysiography
-biophysiology
 biophysiologist
 brunellia
 biophyte
@@ -10744,6 +10743,7 @@ blepharoceridae
 blepharochromidrosis
 blepharoclonus
 blepharocoloboma
+biophysiology
 blepharodiastasis
 blepharodyschroia
 blepharolithiasis
