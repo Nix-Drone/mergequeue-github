@@ -3970,7 +3970,6 @@ adjoinedly
 adjoiner
 adjoining
 adjoiningness
-adjoins
 adjoint
 adjoints
 adjournal
@@ -20794,6 +20793,7 @@ artsman
 artus
 anicular
 artware
+adjoins
 artwork
 artworks
 aru
