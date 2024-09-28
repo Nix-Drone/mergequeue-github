@@ -5352,7 +5352,6 @@ buyable
 benchboard
 begray
 begrain
-begrave
 birne
 begrett
 begrim
@@ -11463,6 +11462,7 @@ bn
 bluntest
 blunthead
 blunthearted
+begrave
 bluntish
 bluntishness
 bluntly
