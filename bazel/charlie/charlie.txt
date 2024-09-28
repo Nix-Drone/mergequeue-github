@@ -3422,7 +3422,6 @@ captation
 caption
 captioned
 captioning
-captionless
 captions
 captious
 childridden
@@ -6317,6 +6316,7 @@ cauterized
 cauterizer
 cauterizes
 cauterizing
+captionless
 cautio
 caution
 cautionary
