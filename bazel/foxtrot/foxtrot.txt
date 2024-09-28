@@ -1467,6 +1467,7 @@ fatsoes
 fatalize
 frederick
 fatstock
+forecount
 fatstocks
 fatted
 fatten
@@ -7594,7 +7595,6 @@ flagonet
 forgivably
 forecool
 forecooler
-forecount
 frizzier
 forecourt
 forpined
