@@ -5230,7 +5230,6 @@ flavorer
 flavorers
 flavorfully
 fusetron
-flavoriness
 flavoring
 fructoses
 flavorless
@@ -10605,6 +10604,7 @@ facies
 frowzly
 froze
 fleapit
+flavoriness
 frozenhearted
 frozenly
 frozenness
