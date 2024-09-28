@@ -4911,7 +4911,6 @@ finfishes
 flamer
 flamers
 ferneries
-fallback
 flamethrowers
 forcepses
 frankpledge
@@ -9647,6 +9646,7 @@ freckles
 freckly
 foredescribe
 freckliness
+fallback
 flighting
 freckling
 fred
