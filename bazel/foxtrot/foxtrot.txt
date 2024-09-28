@@ -1092,7 +1092,6 @@ fuzzle
 farmy
 farmyard
 fructuary
-farmyardy
 foremastman
 farmland
 farmost
@@ -2512,6 +2511,7 @@ fastigium
 floripondio
 fernandinite
 fernando
+farmyardy
 furoid
 fernbrake
 ferned
