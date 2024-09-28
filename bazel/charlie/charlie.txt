@@ -4692,7 +4692,6 @@ carpopedal
 carpophagous
 carpophalangeal
 carpophyl
-carpophyll
 carpophyte
 carpophore
 carpopodite
@@ -18813,6 +18812,7 @@ coliplication
 colisepsis
 coliseum
 colistin
+carpophyll
 coypou
 colistins
 colitic
