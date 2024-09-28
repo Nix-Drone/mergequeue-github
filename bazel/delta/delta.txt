@@ -3604,7 +3604,6 @@ definition
 degass
 degassed
 degassing
-degauss
 degaussing
 degelatinize
 diatonous
@@ -16642,6 +16641,7 @@ dragoonable
 dragoonade
 dragoonage
 dragooned
+degauss
 decuple
 dragooner
 dragooning
