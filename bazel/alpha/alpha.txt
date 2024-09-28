@@ -3460,7 +3460,6 @@ adatom
 adaunt
 adawe
 adawn
-adaxial
 adazzle
 adc
 adcon
@@ -18205,6 +18204,7 @@ avarices
 aquage
 aquagreen
 aquake
+adaxial
 aqualung
 aqualunger
 aquamanile
