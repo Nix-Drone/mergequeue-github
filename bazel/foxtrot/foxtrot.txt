@@ -5674,7 +5674,6 @@ flyovers
 fustanella
 flypapers
 flypast
-flypasts
 flipe
 flype
 freezers
@@ -8256,6 +8255,7 @@ faroff
 forgiveably
 forgiveless
 forgiven
+flypasts
 fimetic
 foxiest
 frounceless
