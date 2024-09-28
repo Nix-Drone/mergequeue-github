@@ -2461,7 +2461,6 @@ decitizenize
 decivilize
 deck
 dateline
-decke
 deckedout
 deckel
 deckels
@@ -9553,6 +9552,7 @@ digredient
 digressed
 digresser
 doctordom
+decke
 digressingly
 deerskins
 digressional
