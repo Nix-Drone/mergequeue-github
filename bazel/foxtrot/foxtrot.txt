@@ -4908,6 +4908,7 @@ formulize
 flameproofer
 flintlocks
 finfishes
+frostnipped
 flamer
 flamers
 ferneries
@@ -10517,7 +10518,6 @@ frostily
 frostiness
 frosting
 frostings
-frostnipped
 forfoughen
 foxfinger
 ferberite
