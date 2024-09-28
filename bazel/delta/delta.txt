@@ -6519,7 +6519,6 @@ divorce
 deadmen
 descries
 descript
-description
 dogsled
 descriptionless
 descriptive
@@ -18017,6 +18016,7 @@ dulcinist
 dulcite
 dulcity
 dulcitol
+description
 dulcitude
 dulcor
 dulcose
