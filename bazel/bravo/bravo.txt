@@ -10192,6 +10192,7 @@ blacksmithing
 beastdom
 blacksmiths
 blacksnake
+brongniardite
 blackstick
 burghbote
 baneful
@@ -16027,7 +16028,6 @@ broncobusting
 broncos
 bumbershoot
 bludgeoning
-brongniardite
 bronk
 boxwallah
 burgullian
