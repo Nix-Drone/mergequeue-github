@@ -6654,7 +6654,6 @@ fixtures
 focimeter
 focimetry
 fockle
-focoids
 focsle
 focus
 focusable
@@ -10768,6 +10767,7 @@ frustrates
 flaskets
 furling
 foldboat
+focoids
 frustrating
 foretokened
 frustration
