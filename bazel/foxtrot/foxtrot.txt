@@ -4073,6 +4073,7 @@ finlet
 finlike
 finmark
 finmarks
+forecontrive
 finnac
 finnan
 finned
@@ -7588,7 +7589,6 @@ foreconclude
 flops
 foreconscious
 foreconsider
-forecontrive
 fastus
 flagonet
 forgivably
