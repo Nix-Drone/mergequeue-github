@@ -8867,6 +8867,7 @@ chaprasi
 chaps
 cholic
 chapstick
+coalescent
 concurbit
 chaptalization
 chaptalize
@@ -17155,7 +17156,6 @@ coalesce
 coalescence
 cellarless
 coalescency
-coalescent
 coalesces
 coalescing
 coalface
