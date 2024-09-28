@@ -1697,7 +1697,6 @@ familiar
 friars
 four
 fdnames
-fdtype
 fdub
 fortuitousness
 fe
@@ -2580,6 +2579,7 @@ ferreting
 freebee
 foreimagination
 fetisheer
+fdtype
 ferrets
 ferriages
 ferryboat
