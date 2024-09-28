@@ -1897,7 +1897,6 @@ debted
 debtee
 debtful
 debtless
-debtor
 debtors
 debugger
 debuggers
@@ -14590,6 +14589,7 @@ doating
 doats
 dob
 dobby
+debtor
 dobbing
 dobchick
 dobe
