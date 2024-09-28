@@ -4349,6 +4349,7 @@ fishberry
 fleshers
 fishberries
 fishboat
+frangible
 fishbolt
 fishbolts
 falchions
@@ -9428,7 +9429,6 @@ fanneling
 francophone
 franger
 frangibility
-frangible
 flossy
 forspoken
 filets
