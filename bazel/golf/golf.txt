@@ -5726,7 +5726,6 @@ globus
 goldseed
 gravemaking
 glochchidia
-glochid
 glochidial
 glochidian
 glochidiate
@@ -10579,6 +10578,7 @@ gunslingers
 gunslinging
 gunsman
 goujon
+glochid
 gunsmith
 gunsmithery
 gunsmithing
