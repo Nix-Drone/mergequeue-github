@@ -9276,7 +9276,6 @@ decolorant
 dietitian
 dietitians
 dtset
-dietotherapeutics
 dietotherapy
 dietotoxic
 dietrichite
@@ -18205,6 +18204,7 @@ decimalisation
 dungaree
 dungarees
 dimensional
+dietotherapeutics
 dungari
 dungas
 deliquescence
