@@ -7306,7 +7306,6 @@ eobionts
 eocene
 eof
 eoghanacht
-eohippus
 eohippuses
 eoith
 eoiths
@@ -7382,6 +7381,7 @@ epalpebrate
 epanadiplosis
 epidermose
 epanalepsis
+eohippus
 evanition
 escruage
 enolize
