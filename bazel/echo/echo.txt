@@ -7943,7 +7943,6 @@ epilator
 epilemma
 epileny
 epilepsies
-epileptic
 epileptical
 epileptically
 epileptics
@@ -13703,6 +13702,7 @@ elaterium
 extispices
 extispicy
 extispicious
+epileptic
 extogenous
 extol
 extoled
