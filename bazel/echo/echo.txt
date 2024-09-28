@@ -298,7 +298,6 @@ eatability
 eatable
 eatables
 electrolyzability
-eatberry
 eaten
 emetophobia
 empeirema
@@ -11510,6 +11509,7 @@ everly
 everliving
 evernia
 evernioid
+eatberry
 eversible
 evert
 empyrean
