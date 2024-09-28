@@ -19077,6 +19077,7 @@ archivists
 archivolt
 archjockey
 archknave
+assignable
 archlet
 archleveler
 archlexicographer
@@ -21763,7 +21764,6 @@ assify
 apprehensiveness
 assign
 assignability
-assignable
 assignably
 assignat
 assignation
