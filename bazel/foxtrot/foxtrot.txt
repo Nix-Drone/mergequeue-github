@@ -1692,6 +1692,7 @@ fipenny
 fcomp
 farcin
 fcp
+fod
 foehns
 familiar
 friars
@@ -6670,7 +6671,6 @@ feudally
 fluminose
 focusses
 focussing
-fod
 fodda
 fodder
 fodderer
