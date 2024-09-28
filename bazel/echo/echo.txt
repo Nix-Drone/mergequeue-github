@@ -6609,7 +6609,6 @@ enterer
 ellipses
 empathizing
 enterers
-enterfeat
 entergogenic
 enteria
 etouffe
@@ -8674,6 +8673,7 @@ equilibrity
 equilibriums
 executional
 escapage
+enterfeat
 equiliria
 equilobate
 equilobed
