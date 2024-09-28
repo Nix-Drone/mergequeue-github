@@ -20505,7 +20505,6 @@ arterioloscleroses
 arteriolosclerosis
 arteriomalacia
 arteriometer
-arteriomotor
 arterionecrosis
 arteriopalmus
 arteriopathy
@@ -23856,6 +23855,7 @@ autoabstract
 amphibiousness
 acrology
 autoactive
+arteriomotor
 autoagglutinating
 autoagglutinin
 anthoecology
