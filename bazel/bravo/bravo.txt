@@ -3820,7 +3820,6 @@ buhr
 battlesome
 boatfalls
 banderilla
-battlestead
 battlewagon
 battleward
 battlewise
@@ -11084,6 +11083,7 @@ blooding
 bloodings
 bitonal
 bloodlessly
+battlestead
 brookiest
 bloodletter
 bloodlines
