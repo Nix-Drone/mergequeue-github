@@ -12984,7 +12984,6 @@ chords
 cyanhydric
 cyanhydrin
 cyanic
-cyanicide
 cyanid
 cyanide
 cyanided
@@ -18499,6 +18498,7 @@ coils
 coilsmith
 coimmense
 coimplicant
+cyanicide
 coimplicate
 coimplore
 coyn
