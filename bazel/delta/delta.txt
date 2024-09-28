@@ -5154,6 +5154,7 @@ dendrometer
 dendron
 drills
 dendrons
+dispatch
 dendrophagous
 dasyurid
 dendrophil
@@ -12941,7 +12942,6 @@ dioecism
 dispassionateness
 daughterhood
 dispassioned
-dispatch
 dispatched
 dispatcher
 dispatchers
