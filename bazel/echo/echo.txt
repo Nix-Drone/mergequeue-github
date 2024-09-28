@@ -6313,7 +6313,6 @@ enrooted
 enroots
 encirclement
 enround
-enruin
 enrut
 ens
 ensafe
@@ -12051,6 +12050,7 @@ exciton
 excitonic
 excitons
 excitonutrient
+enruin
 excitor
 excitosecretory
 excitovascular
