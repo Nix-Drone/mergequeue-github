@@ -4658,7 +4658,6 @@ bedclothing
 bedcord
 byplays
 bedcovers
-beddable
 bedders
 bedding
 beddingroll
@@ -12598,6 +12597,7 @@ boodles
 booed
 boof
 bedizened
+beddable
 boogeymen
 booger
 blockout
