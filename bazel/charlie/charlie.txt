@@ -2346,7 +2346,6 @@ candelabrum
 candelabrums
 candelilla
 candent
-cassidony
 candescence
 candescent
 candescently
@@ -4055,6 +4054,7 @@ cardiomelanosis
 cardiometer
 cardiometric
 cardiomyomalacia
+cassidony
 cardiomyopathy
 cardiomotility
 cookey
