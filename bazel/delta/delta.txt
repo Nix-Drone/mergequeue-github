@@ -11060,7 +11060,6 @@ depair
 digitise
 dices
 disarmature
-disarmed
 disarmer
 disennui
 disarmers
@@ -15802,6 +15801,7 @@ dorsifixed
 dorsiflex
 dorsiflexion
 discussionist
+disarmed
 dorsigrade
 deuteron
 dorsimeson
