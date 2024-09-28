@@ -12629,6 +12629,7 @@ bookbinding
 bookboard
 bookcase
 bookcases
+buntine
 bookcraft
 bookdealer
 bushmaster
@@ -17493,7 +17494,6 @@ boomage
 bunter
 blacklight
 bunty
-buntine
 bunting
 brawlie
 bastardizing
