@@ -85,7 +85,6 @@ cabby
 cabbie
 cabbies
 cabble
-cabbled
 cabbler
 cabda
 cabdriver
@@ -8830,6 +8829,7 @@ chaperonage
 chaperone
 chaperoned
 chaperonless
+cabbled
 chaperons
 chapes
 chapfallen
