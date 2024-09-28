@@ -12495,7 +12495,6 @@ chromonemata
 chromonematal
 chromonemic
 chromophage
-chromophane
 chromophil
 chasmal
 chromophyl
@@ -15001,6 +15000,7 @@ cytostatically
 coadjutator
 cytostomal
 cytostome
+chromophane
 cytostroma
 cytostromatic
 cytotactic
