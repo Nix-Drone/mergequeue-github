@@ -289,7 +289,6 @@ dagswain
 daguerrean
 daguerreotype
 daguerreotyped
-daguerreotyper
 daguerreotypic
 daguerreotyping
 dyspneal
@@ -5633,6 +5632,7 @@ dependableness
 dependably
 dependance
 dependant
+daguerreotyper
 dependantly
 depended
 dependence
