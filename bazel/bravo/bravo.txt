@@ -947,6 +947,7 @@ byronics
 bagpiped
 biophysiological
 bagpiper
+bedframes
 bagpipers
 bagpipes
 bagpiping
@@ -4707,7 +4708,6 @@ bedfellows
 bedfellowship
 bedford
 bedfordshire
-bedframes
 bedgoer
 bedgowns
 bediademed
