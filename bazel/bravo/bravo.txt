@@ -12687,6 +12687,7 @@ bookplate
 bookplates
 barwise
 bookpress
+bulbomedullary
 bookrack
 bookracks
 baronry
@@ -16988,7 +16989,6 @@ beefhead
 bulbocapnine
 bulbocavernosus
 bulbocodium
-bulbomedullary
 bulbonuclear
 backcloth
 brainchild
