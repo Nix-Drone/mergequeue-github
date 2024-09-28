@@ -4191,6 +4191,7 @@ gilver
 gasterosteoid
 gim
 gimbal
+glenoidal
 gimbaled
 gimballed
 groundsheet
@@ -5370,7 +5371,6 @@ glomerulus
 glenohumeral
 glenoid
 goateed
-glenoidal
 glent
 gedrite
 glenwood
