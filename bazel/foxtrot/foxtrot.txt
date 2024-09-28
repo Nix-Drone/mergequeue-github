@@ -4314,7 +4314,6 @@ furlongs
 first
 fylker
 forbearer
-freestone
 firster
 feerie
 forrel
@@ -6062,6 +6061,7 @@ fretwork
 fussify
 florizine
 fractures
+freestone
 floroscope
 floroun
 floruit
