@@ -20570,7 +20570,6 @@ compete
 cumbly
 competed
 competence
-competency
 competencies
 competent
 competes
@@ -26712,6 +26711,7 @@ counterclaim
 counterclaimant
 counterclaiming
 cirriform
+competency
 counterclaims
 counterclassification
 counterclassifications
