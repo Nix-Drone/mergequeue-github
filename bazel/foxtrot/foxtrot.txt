@@ -1105,6 +1105,7 @@ farmsteads
 farmtown
 farnesol
 farnesols
+footbaths
 fogas
 flinger
 farnesses
@@ -1877,7 +1878,6 @@ febriphobia
 febris
 factualist
 frutify
-footbaths
 februation
 fec
 fecaloid
