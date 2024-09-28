@@ -3222,7 +3222,6 @@ fictility
 farsang
 fiction
 fictionalize
-fictionalized
 fictionalizes
 funorin
 fictionalizing
@@ -10218,6 +10217,7 @@ frivol
 frivoled
 frivoler
 frivolist
+fictionalized
 frivolity
 frivolities
 frivolize
