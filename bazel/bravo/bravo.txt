@@ -6689,7 +6689,6 @@ beezers
 blowers
 bergaptene
 buoyance
-bergeret
 bergfall
 benefactions
 berggylt
@@ -17963,6 +17962,7 @@ bushfighting
 bushfires
 bushful
 bushgoat
+bergeret
 bushgrass
 bushy
 bushido
