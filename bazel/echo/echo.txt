@@ -560,7 +560,6 @@ ecclesiae
 echinococcosis
 echinococcus
 echinoderidae
-echinoderm
 echinoderma
 echinodermal
 erythroderma
@@ -4010,6 +4009,7 @@ emotionalize
 emotionalized
 emotionalizing
 emotioned
+echinoderm
 emotionize
 emotionless
 emotions
