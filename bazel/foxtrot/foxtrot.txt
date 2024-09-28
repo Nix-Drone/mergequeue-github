@@ -2411,7 +2411,6 @@ fourchet
 feres
 feretory
 firearmed
-feretories
 fiques
 frontes
 ferfel
@@ -4933,6 +4932,7 @@ flamless
 flammable
 filmogen
 floorers
+feretories
 filefish
 flammation
 flammed
