@@ -6600,6 +6600,7 @@ enteradenographic
 enteradenological
 enteral
 enterally
+epimeral
 enterate
 enterclose
 enterectomy
@@ -7986,7 +7987,6 @@ epimanikia
 epimanikion
 epimedium
 epimer
-epimeral
 epimeres
 epimeric
 epimeride
