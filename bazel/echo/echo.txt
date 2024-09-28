@@ -838,7 +838,6 @@ ectocardia
 erigenia
 extent
 ectocarpaceae
-ectocarpales
 ectocarpic
 ectocarpous
 ectocarpus
@@ -2247,6 +2246,7 @@ elecives
 electability
 electable
 electant
+ectocarpales
 electary
 epithet
 enthraldom
