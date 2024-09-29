@@ -5101,7 +5101,6 @@ caseum
 caseweed
 casewood
 caseworker
-caseworkers
 caseworks
 caseworm
 caseworms
@@ -15744,6 +15743,7 @@ controllingly
 claver
 clavered
 clavering
+caseworkers
 clavers
 clavi
 chirres

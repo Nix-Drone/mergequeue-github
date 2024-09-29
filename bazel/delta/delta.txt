@@ -14121,6 +14121,7 @@ ditation
 ditch
 ditchdigger
 ditchdigging
+downtimes
 defensible
 ditchdown
 ditched
@@ -16382,7 +16383,6 @@ downthrow
 downthrown
 downthrust
 downtime
-downtimes
 downton
 downtown
 downtowns
