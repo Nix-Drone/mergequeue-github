@@ -11726,7 +11726,6 @@ analyser
 analysers
 addressee
 analyses
-analysing
 antimoniate
 analysis
 analyst
@@ -23319,6 +23318,7 @@ amathophobia
 audiometers
 audiometric
 aphaeretic
+analysing
 audiometrically
 audiometries
 audiometrist
