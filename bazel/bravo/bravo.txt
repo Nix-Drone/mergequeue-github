@@ -1270,7 +1270,6 @@ bottomer
 bruke
 bromochlorophenol
 balaenicipites
-balaenidae
 balaenoid
 balaenoidea
 balaenoidean
@@ -1560,6 +1559,7 @@ ballas
 ballast
 ballastage
 bulbiform
+balaenidae
 blanchi
 balanoglossida
 bouton
