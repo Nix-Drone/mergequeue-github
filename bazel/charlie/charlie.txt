@@ -9671,7 +9671,6 @@ cheesecutter
 cheesed
 caramba
 cheeselep
-cheeselip
 cheesemaker
 cheesemaking
 cheesemongery
@@ -19285,6 +19284,7 @@ colonizability
 colonizable
 colonizationist
 colonizations
+cheeselip
 colonize
 comminating
 colonized
