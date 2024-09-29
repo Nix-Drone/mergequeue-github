@@ -1379,7 +1379,6 @@ gardenlike
 grume
 gardenmaking
 gardens
-gardeviance
 gardevin
 gabionage
 gardevisure
@@ -7343,6 +7342,7 @@ gossipred
 gossips
 groupist
 guacin
+gardeviance
 gossoons
 gestor
 goster
