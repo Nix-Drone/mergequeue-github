@@ -23274,7 +23274,6 @@ consumership
 consumes
 consuming
 consumingly
-consumingness
 consummated
 consummately
 consummates
@@ -27450,6 +27449,7 @@ covenantor
 covenants
 covent
 coventrate
+consumingness
 coventry
 coventrize
 cover
