@@ -3775,6 +3775,7 @@ batterable
 battercake
 batterdock
 battered
+breathes
 bootstrap
 batterer
 bkcy
@@ -4964,7 +4965,6 @@ beeherd
 bouncing
 beehive
 beehives
-breathes
 breakfaster
 beeish
 beek
