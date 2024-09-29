@@ -16257,7 +16257,6 @@ clinochlore
 charlatanically
 clinoclase
 clinoclasite
-clinodiagonal
 clinodomatic
 clinodome
 clinograph
@@ -22022,6 +22021,7 @@ conflab
 carf
 conflagrant
 conflagrated
+clinodiagonal
 conflagrating
 conflagration
 conflagrations
