@@ -2670,6 +2670,7 @@ barytones
 byres
 bedaff
 barytons
+bilineate
 barytophyllite
 barytosulphate
 bridgelike
@@ -8582,7 +8583,6 @@ byline
 bilinear
 boardmanship
 berun
-bilineate
 bilineated
 bylined
 billfold
