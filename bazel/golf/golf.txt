@@ -4969,7 +4969,6 @@ glaciaria
 graphemes
 glaciarium
 glaciated
-glaciates
 glaciation
 glaciered
 glacieret
@@ -10382,6 +10381,7 @@ geepound
 gulph
 gulpy
 gulping
+glaciates
 gulpingly
 gulps
 gangrene
