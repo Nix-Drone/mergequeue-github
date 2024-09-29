@@ -5849,7 +5849,6 @@ agar
 agaricaceae
 agaricaceous
 agaricales
-agaricic
 agaricine
 agaricoid
 agarics
@@ -14546,6 +14545,7 @@ anthrophore
 anthropic
 anthropical
 anthropidae
+agaricic
 armorwise
 anthropobiology
 arthritism
