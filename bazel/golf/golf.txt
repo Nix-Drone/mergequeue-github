@@ -702,7 +702,6 @@ gallize
 gallnut
 gallnuts
 galloflavin
-gimps
 galloman
 gantleting
 guideline
@@ -10773,6 +10772,7 @@ gutters
 gerrhosauridae
 guttersnipe
 guttersnipes
+gimps
 grooper
 guttersnipish
 gutterspout
