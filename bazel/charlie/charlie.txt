@@ -2791,7 +2791,6 @@ corolline
 cantate
 cantation
 cantatory
-cantatrice
 cantatrices
 chestily
 cantatrici
@@ -23204,6 +23203,7 @@ construe
 construer
 construers
 construes
+cantatrice
 constuctor
 constuprate
 constupration
