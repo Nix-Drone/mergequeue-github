@@ -536,6 +536,7 @@ backstromite
 backswept
 backswimmer
 backsword
+blindfolds
 backswording
 bettergates
 backswordman
@@ -7437,7 +7438,6 @@ betides
 bourgeoise
 bego
 betiding
-blindfolds
 betime
 betinge
 betire
