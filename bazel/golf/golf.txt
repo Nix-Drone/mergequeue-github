@@ -2240,6 +2240,7 @@ gcd
 gconv
 gd
 gdinfo
+graplines
 gds
 grayfish
 globously
@@ -6342,7 +6343,6 @@ gastrotheca
 gnotobiologies
 geadephagous
 gnotobiosis
-graplines
 gnotobiotically
 gnow
 gns
