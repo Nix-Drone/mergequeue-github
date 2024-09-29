@@ -6387,7 +6387,6 @@ bandeaus
 benzalethylamine
 benzalphenylhydrazone
 benzalphthalide
-benzamide
 benzamido
 benzamine
 benzaminic
@@ -15971,6 +15970,7 @@ bronchoalveolar
 bronchoaspergillosis
 bronchoblennorrhea
 bronchobuster
+benzamide
 bronchocavernous
 bronchocele
 bufotenin
