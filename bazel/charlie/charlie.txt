@@ -2539,7 +2539,6 @@ canjac
 cank
 clingfish
 canker
-cankerberry
 cankerbird
 crafting
 cankereat
@@ -19979,6 +19978,7 @@ commence
 commenced
 commencement
 commencements
+cankerberry
 commencer
 commencing
 commend
