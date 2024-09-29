@@ -3212,7 +3212,6 @@ defectibility
 defectible
 dhangar
 defecting
-diplomacy
 departmentalizing
 defection
 defectious
@@ -11625,6 +11624,7 @@ dipetalous
 discordantly
 discordantness
 deresinate
+diplomacy
 dysteleological
 discorded
 discorder
