@@ -12762,7 +12762,6 @@ boomkins
 barnabite
 boomless
 boomlets
-booms
 boomslang
 boomslange
 birkies
@@ -16919,6 +16918,7 @@ bugout
 bugs
 bugsha
 bugweed
+booms
 bugwort
 buhl
 buhlbuhl
