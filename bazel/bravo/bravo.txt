@@ -4583,7 +4583,6 @@ bandies
 becrusted
 becrusting
 becrusts
-becudgel
 becudgeled
 becudgelled
 becudgelling
@@ -9751,6 +9750,7 @@ bistable
 backwashed
 bystander
 bistate
+becudgel
 bistephanic
 bister
 bistered
