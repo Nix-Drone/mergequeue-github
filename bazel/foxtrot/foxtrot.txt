@@ -7257,7 +7257,6 @@ flockman
 footslogged
 footslogger
 forgift
-footsoldiers
 finnmarks
 footsore
 footsores
@@ -11356,6 +11355,7 @@ flexure
 famishes
 forepiece
 furcation
+footsoldiers
 fellen
 furcellate
 furciferine
