@@ -7221,7 +7221,6 @@ determinableness
 desiccative
 disennoble
 determinably
-determinacy
 distruss
 determinant
 determinantal
@@ -16345,6 +16344,7 @@ downrush
 downset
 downshare
 downshift
+determinacy
 downshifted
 degradability
 downshifts
