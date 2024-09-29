@@ -2323,7 +2323,6 @@ dielike
 databases
 decertify
 decertificaton
-decertified
 distances
 decess
 decession
@@ -7683,6 +7682,7 @@ ducatus
 devitalising
 devitalize
 dottore
+decertified
 demanders
 devitalizes
 devitaminize
