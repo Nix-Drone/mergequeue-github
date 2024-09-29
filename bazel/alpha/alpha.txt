@@ -6873,7 +6873,6 @@ airfares
 airfield
 airflow
 airflows
-airfoil
 airfoils
 airframe
 airglow
@@ -14609,6 +14608,7 @@ anthropomorphically
 arthrocele
 anthropomorphidae
 anthropomorphisation
+airfoil
 anthropomorphise
 anthropomorphised
 admirability
