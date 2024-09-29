@@ -13097,6 +13097,7 @@ bridgeheads
 borsholder
 bovines
 besneer
+backstrip
 borsht
 borshts
 borty
@@ -15213,7 +15214,6 @@ bricktimber
 bricktop
 brickwall
 brickwork
-backstrip
 brid
 bucketing
 bastinade
