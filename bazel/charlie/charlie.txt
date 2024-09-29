@@ -14691,7 +14691,6 @@ cystoepithelioma
 cystofibroma
 cystoflagellata
 cystogenesis
-cystogenous
 cystogram
 cystoid
 cystoidea
@@ -15857,6 +15856,7 @@ clearings
 clearish
 clearly
 clearminded
+cystogenous
 clearness
 clears
 clearsighted
