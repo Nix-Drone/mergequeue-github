@@ -302,6 +302,7 @@ finbone
 furyl
 fadings
 flirted
+flocculable
 fadmonger
 fadmongery
 fadmongering
@@ -5840,7 +5841,6 @@ freeloader
 forcipressure
 floccose
 floccosely
-flocculable
 fangas
 flocculation
 flocculator
