@@ -2442,7 +2442,6 @@ gelatinizable
 gelatinization
 gruppetto
 gelatinized
-gelatinizer
 gallanting
 gelatinobromide
 guerdon
@@ -7305,6 +7304,7 @@ gossamered
 gossamery
 gossamers
 gossampine
+gelatinizer
 gossaniferous
 gossans
 gossard
