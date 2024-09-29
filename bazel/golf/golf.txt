@@ -3079,6 +3079,7 @@ geoform
 gillnet
 geogen
 geogenesis
+goldsmiths
 gyropilot
 geogenetic
 geogeny
@@ -6661,7 +6662,6 @@ goldonian
 goldsinny
 goldsmithry
 glider
-goldsmiths
 gasterotricha
 goldspink
 gnathopod
