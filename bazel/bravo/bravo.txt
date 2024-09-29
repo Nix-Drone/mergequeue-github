@@ -4042,6 +4042,7 @@ business
 beacons
 beaded
 bequirtle
+biplicity
 beadeye
 beadeyes
 banderols
@@ -9324,7 +9325,6 @@ biplane
 bobolink
 biplanes
 biplicate
-biplicity
 banishments
 biplosion
 biplosive
