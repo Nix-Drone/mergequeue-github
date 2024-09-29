@@ -7295,7 +7295,6 @@ aggerose
 alaria
 alaric
 alarm
-alarmclock
 alexanders
 alarmed
 alarmedly
@@ -19180,6 +19179,7 @@ archsatrap
 archseducer
 archsee
 archsewer
+alarmclock
 archshepherd
 archsin
 archsynagogue
