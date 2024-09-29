@@ -4205,6 +4205,7 @@ empodia
 eatche
 empoison
 empoisoned
+epigrapher
 encaustes
 ephoral
 evocators
@@ -7907,7 +7908,6 @@ epigrammatizer
 epigrammatizing
 epigrams
 epigraph
-epigrapher
 eftest
 epigraphy
 egyptianization
