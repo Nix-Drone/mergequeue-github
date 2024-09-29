@@ -5507,6 +5507,7 @@ aforethought
 aforetime
 arrhinia
 aforetimes
+atomically
 aforeward
 afortiori
 afoul
@@ -22751,7 +22752,6 @@ atomerg
 atomy
 atomic
 atomical
-atomically
 atomician
 ahnfeltia
 atomicism
