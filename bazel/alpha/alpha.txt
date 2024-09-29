@@ -5004,7 +5004,6 @@ aerolitics
 aerologic
 aerological
 aerologies
-aerologist
 aerologists
 antieducationist
 aeromaechanic
@@ -16811,6 +16810,7 @@ antichurch
 aph
 antilogical
 asserters
+aerologist
 aphacia
 aphacial
 alcaides
