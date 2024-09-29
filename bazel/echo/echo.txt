@@ -7084,7 +7084,6 @@ entrough
 entrust
 epilegomenon
 entrusted
-emote
 entrusting
 entrustment
 entrusts
@@ -9754,6 +9753,7 @@ esotropia
 esotropic
 exponentiate
 esp
+emote
 espace
 espacement
 espada
