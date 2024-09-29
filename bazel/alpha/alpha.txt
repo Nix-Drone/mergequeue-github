@@ -2023,7 +2023,6 @@ acetifies
 acetifying
 acetyl
 acetylacetonates
-acetylacetone
 acetylamine
 acetylaminobenzene
 acetylaniline
@@ -18311,6 +18310,7 @@ aquilia
 aquilian
 aquilid
 aquiline
+acetylacetone
 aquilinity
 aquilino
 aquilon
