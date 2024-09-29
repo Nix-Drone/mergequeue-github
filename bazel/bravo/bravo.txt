@@ -8803,7 +8803,6 @@ bimodulus
 bimong
 bimonthlies
 bimorph
-bimorphs
 bimotor
 bimotored
 bimotors
@@ -12956,6 +12955,7 @@ borders
 borderland
 borderlander
 borderlands
+bimorphs
 borderless
 borderlight
 bordermark
