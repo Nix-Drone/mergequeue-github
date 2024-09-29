@@ -360,6 +360,7 @@ backfurrow
 backgame
 backgammon
 backgeared
+boardable
 barbarical
 background
 backhand
@@ -1153,7 +1154,6 @@ bairntime
 bairnwort
 bais
 baisemain
-boardable
 baysmelt
 bridesmaids
 baister
