@@ -2282,6 +2282,7 @@ cancellable
 cancellarius
 cancellate
 cancellation
+catchall
 cancellations
 charitableness
 chromocytometer
@@ -5636,7 +5637,6 @@ catcaller
 catcalls
 catch
 catchable
-catchall
 catchcry
 colocates
 catched
