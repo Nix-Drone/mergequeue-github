@@ -6516,7 +6516,6 @@ benzotrifuran
 benzoxate
 bolection
 benzoxyacetic
-benzoxycamphor
 benzoxyphenanthrene
 benzpinacone
 benzpyrene
@@ -8682,6 +8681,7 @@ billiards
 billyboy
 billycans
 billyer
+benzoxycamphor
 billies
 billyhood
 bergerette
