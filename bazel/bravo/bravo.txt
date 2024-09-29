@@ -1680,7 +1680,6 @@ ballplayer
 ballplayers
 ballplatz
 bedrabbled
-ballpoint
 ballproof
 ballrooms
 balls
@@ -2128,6 +2127,7 @@ bankruptcy
 bankruptcies
 bankrupting
 bankruptism
+ballpoint
 babylonia
 bankruptlike
 betraise
