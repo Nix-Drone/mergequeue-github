@@ -20382,7 +20382,6 @@ compact
 compactability
 compactable
 compacted
-compactedly
 compactedness
 compacter
 compactible
@@ -30123,6 +30122,7 @@ cruciated
 cruciately
 cruciating
 cruciation
+compactedly
 crucible
 crucibles
 crucibulum

@@ -8831,7 +8831,6 @@ bind
 binderies
 binders
 banjos
-bloodstone
 bulliest
 binding
 bindingness
@@ -11578,6 +11577,7 @@ boastings
 boastive
 boasts
 boatable
+bloodstone
 bosket
 boatage
 boatbill
