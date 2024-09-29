@@ -13733,6 +13733,7 @@ distancy
 distancing
 distannic
 distant
+durables
 distantly
 distantness
 distaste
@@ -18441,7 +18442,6 @@ dur
 dubitative
 durabilities
 durableness
-durables
 durably
 discolorate
 dreidl
