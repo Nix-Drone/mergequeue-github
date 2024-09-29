@@ -7825,6 +7825,7 @@ grammars
 gieseckite
 grammaticality
 gateau
+gusto
 glossate
 grammatically
 grammaticalness
@@ -10716,7 +10717,6 @@ globulin
 gonorrhea
 gustless
 gerendum
-gusto
 gustoes
 gustoish
 gerald
