@@ -1895,7 +1895,6 @@ debs
 debt
 debted
 debtee
-debtful
 debtless
 debtor
 debtors
@@ -17268,6 +17267,7 @@ drizzles
 dacryolith
 drizzly
 drizzlier
+debtful
 drizzliest
 drizzlingly
 drochuil
