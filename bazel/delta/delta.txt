@@ -14101,7 +14101,6 @@ disvulnerability
 demurs
 diswarn
 dehaites
-diswarrened
 diswarrening
 diswashing
 disweapon
@@ -15538,6 +15537,7 @@ donut
 donzel
 donzels
 doo
+diswarrened
 doob
 doodab
 dipsacaceae
