@@ -6408,7 +6408,6 @@ goatsbeard
 genuclast
 goatskin
 goatskins
-goatstone
 goatsucker
 galleylike
 goatweed
@@ -10498,6 +10497,7 @@ guniter
 gunj
 gunstock
 gunja
+goatstone
 gunjah
 gona
 gunk
