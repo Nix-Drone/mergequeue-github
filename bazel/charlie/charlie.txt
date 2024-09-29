@@ -15274,7 +15274,6 @@ claimed
 composograph
 claimer
 consumables
-claimers
 claymore
 claims
 claimsman
@@ -19575,6 +19574,7 @@ columnation
 columnea
 crinkleroot
 columned
+claimers
 columner
 crosspieces
 columniation
