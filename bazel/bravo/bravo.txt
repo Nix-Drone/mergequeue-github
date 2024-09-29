@@ -2575,7 +2575,6 @@ bargees
 biogasses
 bargeese
 bergere
-bargehouse
 bargelike
 bargelli
 bargello
@@ -11580,6 +11579,7 @@ boasts
 boatable
 bosket
 boatage
+bargehouse
 boatbill
 bacterioscopical
 boatbuilder
