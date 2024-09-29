@@ -2654,7 +2654,6 @@ cannoneering
 cannoneers
 clownish
 cannoning
-cannonism
 cannonproof
 cannonry
 cannonries
@@ -14911,6 +14910,7 @@ cytogeny
 cytogenic
 cytogenies
 cytogenous
+cannonism
 cytoglobulin
 cytohyaloplasm
 cytoid
