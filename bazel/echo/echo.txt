@@ -8630,6 +8630,7 @@ egrets
 equicurve
 equid
 equidiagonal
+estramazone
 equidifferent
 equidimensional
 equidist
@@ -10066,7 +10067,6 @@ equicellular
 estrayed
 estraying
 estral
-estramazone
 estrange
 estranged
 estrangedness
