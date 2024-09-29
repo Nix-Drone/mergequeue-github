@@ -3262,6 +3262,7 @@ actualization
 actualize
 actualizes
 actually
+algebraize
 actualness
 actuals
 agena
@@ -8040,7 +8041,6 @@ algebraically
 algebraist
 algebraists
 algebraization
-algebraize
 anodization
 algedo
 algedonic
