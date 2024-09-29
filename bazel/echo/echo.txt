@@ -4584,7 +4584,6 @@ encephalometric
 encephalomyelitic
 encephalomyelitis
 erucin
-encephalomyelopathy
 encephalomyocarditis
 encephalopathy
 euryalae
@@ -9021,6 +9020,7 @@ ergotizing
 erratuta
 ergotoxin
 evading
+encephalomyelopathy
 ergotoxine
 ergots
 evap
