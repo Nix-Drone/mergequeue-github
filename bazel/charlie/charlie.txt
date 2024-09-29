@@ -5102,7 +5102,6 @@ caseweed
 casewood
 caseworker
 caseworkers
-caseworks
 caseworm
 caseworms
 cash
@@ -13122,6 +13121,7 @@ cybernetically
 cybernetician
 cyberneticist
 cyberneticists
+caseworks
 cybernetics
 cirriferous
 cybernion
