@@ -2986,6 +2986,7 @@ deductibles
 deductile
 donacidae
 deductio
+dialyzer
 deduction
 deductions
 deductive
@@ -8338,7 +8339,6 @@ dialyzation
 dialyzator
 dialyze
 dialyzed
-dialyzer
 dialyzes
 dowhacky
 dialkyl
