@@ -5782,6 +5782,7 @@ catercap
 catercorner
 catercornered
 catercornerways
+conversional
 catercousin
 catered
 conclusible
@@ -18103,7 +18104,6 @@ careeners
 coesite
 coesites
 coessential
-conversional
 coessentiality
 coessentially
 coestablishment
