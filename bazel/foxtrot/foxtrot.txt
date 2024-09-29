@@ -5080,6 +5080,7 @@ fanterie
 flask
 ferricyanhydric
 flasker
+forstand
 foretooth
 faecal
 flasklet
@@ -9014,7 +9015,6 @@ flout
 fibrinogenic
 fountainlike
 filicite
-forstand
 fountainous
 feaze
 fountainously
