@@ -4540,7 +4540,6 @@ becomed
 becomes
 becometh
 becoming
-becomingness
 becompass
 becompliment
 becoom
@@ -11470,6 +11469,7 @@ badinaged
 bluntness
 barbs
 blur
+becomingness
 blurb
 blurbist
 bonded
