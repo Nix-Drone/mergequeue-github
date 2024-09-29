@@ -1391,6 +1391,7 @@ bywords
 bacule
 baldachin
 baldachined
+bases
 brushfires
 bristliest
 baldachino
@@ -3177,7 +3178,6 @@ baseplug
 baser
 baserunning
 brember
-bases
 bardish
 basest
 bash
