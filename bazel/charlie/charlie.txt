@@ -5670,7 +5670,6 @@ catchup
 catchups
 catchwater
 contribute
-catchweight
 catchword
 catchwork
 catclaw
@@ -8892,6 +8891,7 @@ characid
 characids
 characin
 clobberer
+catchweight
 characine
 characinid
 characinidae
