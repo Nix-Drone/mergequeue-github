@@ -13585,7 +13585,6 @@ annotater
 amputated
 annotates
 annotating
-annotation
 avoiding
 annotations
 annotative
@@ -14633,6 +14632,7 @@ anthropopathically
 anthropopathism
 anthropopathite
 anthropophagy
+annotation
 aikuchi
 anthropophagic
 anthropophagical
