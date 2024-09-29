@@ -4052,7 +4052,6 @@ cardiologists
 camacey
 cardiomegaly
 cardiomelanosis
-cardiometer
 cardiometric
 cardiomyomalacia
 cardiomyopathy
@@ -7639,6 +7638,7 @@ cerebrosuria
 cerebrotomy
 cerebrotonia
 contestants
+cardiometer
 cerebrovascular
 cerebrovisceral
 cerebrum
