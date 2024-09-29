@@ -5009,7 +5009,6 @@ aerologists
 antieducationist
 aeromaechanic
 aeromancer
-aeromancy
 aeromechanic
 aeromechanics
 aeromedical
@@ -5931,6 +5930,7 @@ arithmetical
 agelacrinitidae
 agelast
 agelaus
+aeromancy
 aristocracies
 ageless
 agranulocyte
