@@ -3944,7 +3944,6 @@ cardcases
 cardecu
 carded
 cardel
-carder
 carders
 cardholder
 cardia
@@ -4150,6 +4149,7 @@ career
 careered
 careerers
 comeupance
+carder
 careeringly
 carefox
 carefree
