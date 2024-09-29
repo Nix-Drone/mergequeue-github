@@ -631,7 +631,6 @@ falsifiable
 falsificate
 falsification
 falsifications
-falsificator
 falsified
 finickier
 falsifier
@@ -2232,6 +2231,7 @@ felting
 feltings
 feltmaking
 feltman
+falsificator
 foulard
 foredeep
 feltmonger
