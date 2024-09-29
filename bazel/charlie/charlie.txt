@@ -5355,7 +5355,6 @@ castra
 castrametation
 castrated
 castrater
-castrates
 classic
 castrati
 castration
@@ -19279,6 +19278,7 @@ colonised
 colonises
 capture
 colonising
+castrates
 colonist
 chiromancer
 colonizability
