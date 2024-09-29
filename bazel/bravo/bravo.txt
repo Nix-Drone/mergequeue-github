@@ -485,7 +485,6 @@ backsliding
 backslidingness
 backspaced
 backspacefile
-backspacer
 blastocoelic
 backspaces
 backspacing
@@ -7150,6 +7149,7 @@ besped
 bespeech
 bespeed
 bespell
+backspacer
 bespelled
 bespend
 benzoflavine
