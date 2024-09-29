@@ -9473,6 +9473,7 @@ groundward
 groundwards
 group
 groupable
+gutturalness
 groupage
 groupageness
 grouped
@@ -10810,7 +10811,6 @@ gutturalize
 glycerolize
 gutturalized
 gutturalizing
-gutturalness
 gyniatry
 gutturals
 graphometer
