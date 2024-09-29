@@ -14292,7 +14292,6 @@ allopathies
 anterooms
 anteroparietal
 anteropygal
-anteroposterior
 anterospinal
 antes
 antescript
@@ -17023,6 +17022,7 @@ apina
 aciculated
 armillated
 apinae
+anteroposterior
 apinch
 aping
 apio
