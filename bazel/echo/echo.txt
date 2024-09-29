@@ -1149,7 +1149,6 @@ edile
 exanthematous
 entocranial
 epyllion
-ectocranial
 ediles
 evodia
 edility
@@ -3926,6 +3925,7 @@ eminences
 eminencies
 eminent
 eminently
+ectocranial
 expressionless
 ebullition
 emir
