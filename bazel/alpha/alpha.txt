@@ -3572,6 +3572,7 @@ addrest
 adds
 addu
 adduce
+agglomerant
 adduceable
 adduced
 adducent
@@ -5989,7 +5990,6 @@ aggest
 aggie
 aggies
 aggiornamenti
-agglomerant
 agglomerate
 agglomerated
 agglomerates
