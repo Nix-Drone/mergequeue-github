@@ -12412,7 +12412,6 @@ brooders
 bondservant
 bowmaking
 bondship
-bondslave
 bondsman
 bondsmen
 bondstone
@@ -17437,6 +17436,7 @@ bunglings
 bungos
 bungstarter
 bungtown
+bondslave
 bungwall
 bunya
 bunyah
