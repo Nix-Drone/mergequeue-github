@@ -2293,7 +2293,6 @@ decentred
 decentres
 decentring
 decephalization
-decephalize
 deceptibility
 deceptible
 deceptional
@@ -16459,6 +16458,7 @@ dozes
 dozier
 doziest
 dozily
+decephalize
 dozinesses
 dozing
 deviousness
