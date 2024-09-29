@@ -4906,6 +4906,7 @@ cartoon
 cartoonist
 cartoonists
 condors
+centered
 cartoons
 cartop
 cartopper
@@ -7038,7 +7039,6 @@ chromene
 center
 centerable
 centerboards
-centered
 centeredly
 centerer
 centerfold
