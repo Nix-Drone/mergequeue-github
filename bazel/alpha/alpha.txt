@@ -945,7 +945,6 @@ absentness
 absents
 absfarad
 abshenry
-absi
 absinth
 absinthes
 absinthial
@@ -6512,6 +6511,7 @@ agrostis
 agrostographer
 agrostography
 agrostographical
+absi
 algesthesis
 antivenom
 agrostology
