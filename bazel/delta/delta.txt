@@ -3874,6 +3874,7 @@ deionization
 deionizations
 deionize
 deionized
+duplet
 denegate
 deionizer
 deionizes
@@ -10314,7 +10315,6 @@ dioramas
 driftpiece
 dioramic
 diordinal
-duplet
 diorite
 diorites
 diorthoses
