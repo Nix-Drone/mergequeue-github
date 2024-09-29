@@ -11775,7 +11775,6 @@ chondromyces
 chondromyxoma
 chondromyxosarcoma
 chondromucoid
-chondropharyngeal
 chondropharyngeus
 chondrophyte
 chondrophore
@@ -15957,6 +15956,7 @@ clenchers
 clenches
 clenching
 cleoid
+chondropharyngeal
 cleome
 chimbs
 clep
