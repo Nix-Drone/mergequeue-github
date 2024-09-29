@@ -12705,7 +12705,6 @@ booksellerism
 banderilleros
 booksellers
 bookselling
-bookshelf
 bookshelves
 boloney
 bookshop
@@ -14850,6 +14849,7 @@ breakups
 breakwater
 breakweather
 barky
+bookshelf
 breakwind
 bream
 breamed
