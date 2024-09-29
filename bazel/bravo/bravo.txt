@@ -4042,7 +4042,6 @@ business
 beacons
 beaded
 bequirtle
-beadeye
 beadeyes
 banderols
 beader
@@ -6622,6 +6621,7 @@ berattle
 beraunite
 berbamine
 berber
+beadeye
 binoculate
 borickite
 berberi
