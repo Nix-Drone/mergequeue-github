@@ -2691,7 +2691,6 @@ fertilise
 fertiliser
 fertility
 ferroprussiate
-fertilization
 fertilizational
 fertilize
 fertilized
@@ -6472,6 +6471,7 @@ fluorosis
 fluorotic
 fishier
 fluorotype
+fertilization
 fluorouracil
 fluors
 feedback
