@@ -1541,7 +1541,6 @@ dibstones
 deadpans
 deadrise
 deadtongue
-deadweight
 ditto
 deadwork
 deaving
@@ -5788,6 +5787,7 @@ depolarise
 drapeable
 depolarised
 depolariser
+deadweight
 darksome
 depolarising
 docetic
