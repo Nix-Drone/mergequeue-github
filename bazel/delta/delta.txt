@@ -3150,7 +3150,6 @@ defamation
 defamations
 defamatory
 defame
-defamed
 dragginess
 defamer
 defamers
@@ -15047,6 +15046,7 @@ dogsbodies
 damningness
 disencumbering
 dogskin
+defamed
 dogsleds
 degustate
 disconformable
