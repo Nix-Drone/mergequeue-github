@@ -7394,7 +7394,6 @@ cephalothecal
 cephalothoracic
 cephalothoracopagus
 cephalothoraxes
-cephalotomy
 capman
 contrate
 cephalotractor
@@ -10602,6 +10601,7 @@ chylocaulous
 chylocaulously
 chylocele
 chylocyst
+cephalotomy
 chilodon
 chilognatha
 chilognathous
