@@ -4750,7 +4750,6 @@ dees
 demitint
 demitoilet
 demitrain
-demitranslucence
 demits
 demitted
 denticulately
@@ -8724,6 +8723,7 @@ diatoric
 diatreme
 diatribe
 diatribist
+demitranslucence
 diatryma
 diatropic
 diaulic
