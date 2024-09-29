@@ -20759,7 +20759,6 @@ artisanship
 artist
 artistdom
 artistes
-artistic
 artistical
 artistically
 aftercourse
@@ -24012,6 +24011,7 @@ autodials
 autodidact
 autodidactic
 autodidactically
+artistic
 autodifferentiation
 autodiffusion
 autodigestion
