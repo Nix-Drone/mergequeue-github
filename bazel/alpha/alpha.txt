@@ -2522,7 +2522,6 @@ acknowing
 acknowledge
 acknowledgeable
 acknowledged
-afoam
 acknowledgedly
 acknowledgements
 acknowledger
@@ -17161,6 +17160,7 @@ apocynthions
 apocyte
 acetylcyanide
 apocopated
+afoam
 apocopating
 artily
 apocopation
