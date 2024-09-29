@@ -7513,7 +7513,6 @@ devalorize
 devaluate
 devaluated
 devaluates
-devaluation
 devaluations
 devalue
 devalued
@@ -14573,6 +14572,7 @@ didymium
 dm
 dmarche
 disinherit
+devaluation
 divid
 dmod
 dn
