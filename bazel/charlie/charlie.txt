@@ -20667,6 +20667,7 @@ completer
 coelian
 completers
 completes
+cosmogenesis
 chemosmosis
 completest
 completing
@@ -26069,7 +26070,6 @@ cosmochemistry
 cosmocracy
 cosmocrat
 cosmocratic
-cosmogenesis
 cosmogenetic
 chutzpas
 cosmogeny
