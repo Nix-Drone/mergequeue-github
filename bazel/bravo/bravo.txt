@@ -7576,6 +7576,7 @@ bevelled
 beveller
 bookbinder
 bevenom
+bisymmetrical
 bever
 beverage
 beverages
@@ -9664,7 +9665,6 @@ bulleting
 bisimine
 bushily
 bisymmetric
-bisymmetrical
 babeldom
 bigg
 bisync
