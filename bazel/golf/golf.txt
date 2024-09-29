@@ -2876,7 +2876,6 @@ genomic
 genoms
 genonema
 gph
-genos
 gerrymandered
 genospecies
 genotype
@@ -3123,6 +3122,7 @@ geomagnetics
 guestless
 glassed
 geomagnetist
+genos
 gravamen
 geomaly
 geomalic
