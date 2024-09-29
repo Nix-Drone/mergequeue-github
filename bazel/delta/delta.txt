@@ -6697,7 +6697,6 @@ declared
 desilvered
 desilvering
 desilverization
-desilverizer
 desilverizing
 desilvers
 desynapsis
@@ -12321,6 +12320,7 @@ deamidize
 dynamogenic
 duckmole
 disheriting
+desilverizer
 disheritment
 deforms
 disheritor
