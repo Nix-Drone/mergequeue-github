@@ -1488,6 +1488,7 @@ forceable
 fattiness
 funis
 fattishness
+fathom
 fattrels
 fatuate
 fatuism
@@ -5403,7 +5404,6 @@ fleetest
 fleeting
 formalistic
 fleetingness
-fathom
 fleets
 fleetwing
 flegm
