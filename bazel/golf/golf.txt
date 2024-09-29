@@ -3917,7 +3917,6 @@ giboia
 goyle
 glave
 gibsons
-gibstaff
 gibus
 gibuses
 giddap
@@ -10467,6 +10466,7 @@ gunarchy
 gunated
 grudgeons
 gunboats
+gibstaff
 gemitores
 gunbuilder
 grannyknot
