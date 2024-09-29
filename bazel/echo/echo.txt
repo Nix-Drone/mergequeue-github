@@ -10602,7 +10602,6 @@ euahlayi
 euascomycetes
 euaster
 eubacteria
-eubacteriales
 eubacterium
 effusing
 entreaties
@@ -10781,6 +10780,7 @@ euglenales
 ensigning
 euglenas
 euglenineae
+eubacteriales
 euglenoid
 epistrophic
 euglenoidina
