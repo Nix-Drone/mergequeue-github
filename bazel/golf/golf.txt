@@ -5865,6 +5865,7 @@ glosser
 glossers
 glosses
 glossy
+glossosteresis
 glossier
 glossies
 glossiest
@@ -5926,7 +5927,6 @@ glossorrhaphy
 glossoscopy
 galleasses
 goings
-glossosteresis
 glossotype
 grimmish
 glosts
