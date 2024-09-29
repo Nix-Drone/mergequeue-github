@@ -14511,7 +14511,6 @@ cirratulus
 cirrhopetalum
 cirrhose
 cirrhosed
-cirrhosis
 cirrhotic
 cirrhous
 cirrhus
@@ -19439,6 +19438,7 @@ colourably
 cometical
 colouration
 colourational
+cirrhosis
 colourationally
 colourative
 colourer
