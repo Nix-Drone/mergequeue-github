@@ -7494,7 +7494,6 @@ ceratopteris
 ceratorhine
 ceratosa
 ceratospongiae
-ceratospongian
 ceratostomataceae
 cowbell
 ceratostomella
@@ -8329,6 +8328,7 @@ chalcophanite
 chalcophyllite
 chalcosiderite
 chalcosine
+ceratospongian
 canadianisms
 chalcotrichite
 chalcus
