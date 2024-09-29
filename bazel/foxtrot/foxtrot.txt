@@ -53,7 +53,6 @@ facaded
 faceable
 facebar
 facebow
-facecloth
 firestone
 faced
 foreladies
@@ -1875,6 +1874,7 @@ febrility
 finickingness
 febriphobia
 febris
+facecloth
 factualist
 frutify
 footbaths
