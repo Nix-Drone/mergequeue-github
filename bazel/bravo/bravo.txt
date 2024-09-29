@@ -5442,7 +5442,6 @@ behaviours
 bandying
 beheadal
 beheaded
-beheader
 beanfeaster
 beheadlined
 beheads
@@ -6965,6 +6964,7 @@ besetment
 besets
 besetter
 besetters
+beheader
 besetting
 besew
 beshackle
