@@ -2929,7 +2929,6 @@ feudary
 fantastical
 feudaries
 feudatary
-feudatory
 feudatorial
 feudatories
 feuded
@@ -6986,6 +6985,7 @@ fomentations
 fidley
 fomenter
 foresty
+feudatory
 fictionary
 fomenters
 famular
