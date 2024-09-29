@@ -1102,7 +1102,6 @@ fisc
 farms
 farmscape
 farmsteads
-farmtown
 farnesol
 farnesols
 fogas
@@ -5323,6 +5322,7 @@ finicky
 flutists
 fleche
 flechette
+farmtown
 flechettes
 fleck
 flecked
