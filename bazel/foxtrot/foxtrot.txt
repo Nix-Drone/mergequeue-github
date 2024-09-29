@@ -3599,6 +3599,7 @@ filcher
 faventine
 filching
 filchingly
+foregame
 file
 fileable
 filecard
@@ -7572,7 +7573,6 @@ forechase
 forechoice
 forechoir
 faith
-foregame
 forechoose
 foreclaw
 foreclose
