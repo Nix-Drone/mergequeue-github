@@ -3365,7 +3365,6 @@ basketmaking
 buyback
 biotope
 basketries
-bombline
 banyai
 baskets
 basketware
@@ -9051,6 +9050,7 @@ biologic
 biologicohumanistic
 biologics
 biologies
+bombline
 biologism
 biologist
 biologistic
