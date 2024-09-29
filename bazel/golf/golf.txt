@@ -6460,6 +6460,7 @@ gorier
 gobinist
 gobio
 gomeral
+grapheme
 glove
 garnet
 gobioidea
@@ -8149,7 +8150,6 @@ graphalloy
 graphanalysis
 graphed
 gigabit
-grapheme
 graphemic
 glack
 governorships
