@@ -4642,7 +4642,6 @@ bedlike
 bedawee
 bedaze
 bedazed
-bedazement
 bedazzled
 bedazzles
 bulborectal
@@ -13804,6 +13803,7 @@ bowly
 burghs
 bowlike
 bowlin
+bedazement
 bowlings
 bowllike
 bowlmaker
