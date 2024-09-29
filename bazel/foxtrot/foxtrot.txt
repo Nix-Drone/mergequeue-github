@@ -6720,7 +6720,6 @@ fogbow
 flyblow
 fogdogs
 fairways
-fogdom
 figworts
 fogfruit
 foretype
@@ -10240,6 +10239,7 @@ frize
 frized
 felonries
 frizel
+fogdom
 frizers
 frizes
 forbit
