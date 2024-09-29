@@ -6343,7 +6343,6 @@ drassid
 dermoosseous
 dermopathy
 dysarthrosis
-dermophytic
 dejeune
 dermophobe
 despatchers
@@ -9397,6 +9396,7 @@ digametic
 deboned
 digamy
 digamies
+dermophytic
 digamma
 digammas
 dirgy
