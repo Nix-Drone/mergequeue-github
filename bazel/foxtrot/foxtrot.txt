@@ -233,7 +233,6 @@ factuality
 factually
 factualness
 facture
-factures
 facula
 flatway
 faculae
@@ -10421,6 +10420,7 @@ fronted
 fronter
 frontier
 frontierless
+factures
 farmyards
 fertilizing
 fictor
