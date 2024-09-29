@@ -4081,7 +4081,6 @@ cardiopulmonary
 cardiorenal
 cardiorespiratory
 cardiorrhaphy
-cardiorrheuma
 cardiorrhexis
 cardiosclerosis
 cardioscope
@@ -5619,6 +5618,7 @@ catathymic
 catatony
 catatonic
 catawampous
+cardiorrheuma
 catawampously
 catawamptious
 catawamptiously
