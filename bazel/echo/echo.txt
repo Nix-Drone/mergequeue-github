@@ -9186,7 +9186,6 @@ ensurers
 erythrolytic
 erythromelalgia
 erythroneocytosis
-erythronium
 erythropenia
 erythrophage
 erythrophagous
@@ -12238,6 +12237,7 @@ excusatory
 excused
 excuseful
 excusefully
+erythronium
 exostome
 excuseless
 excuser
