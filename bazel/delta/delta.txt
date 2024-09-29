@@ -1716,7 +1716,6 @@ depaysee
 deathtime
 deathtrap
 deathtraps
-deathward
 deathwatches
 deathweed
 deathworm
@@ -8338,6 +8337,7 @@ dialyzation
 dialyzator
 dialyze
 dialyzed
+deathward
 dialyzer
 dialyzes
 dowhacky
