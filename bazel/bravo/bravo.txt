@@ -2901,7 +2901,6 @@ barracan
 barrack
 barracked
 barracker
-barracking
 barraclade
 barracoon
 barracouta
@@ -8268,6 +8267,7 @@ byeworker
 byeworkman
 bluejoint
 bifaces
+barracking
 bifacial
 bifara
 bedress
