@@ -5951,6 +5951,7 @@ fawny
 floorshifts
 floorshow
 floorway
+forestry
 fluidrachm
 floorward
 furniment
@@ -11607,7 +11608,6 @@ fusils
 federated
 fusing
 fiendlike
-forestry
 forestress
 fusinist
 floodometer
