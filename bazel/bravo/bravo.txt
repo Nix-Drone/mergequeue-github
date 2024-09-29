@@ -4858,7 +4858,6 @@ brazenface
 baikerinite
 beshrouded
 bedstraw
-bedstraws
 bedstring
 bedswerver
 bedtick
@@ -11025,6 +11024,7 @@ boti
 benzimidazole
 blockish
 blockishly
+bedstraws
 blocklayer
 blocklike
 broil
