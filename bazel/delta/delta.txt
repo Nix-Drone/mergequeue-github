@@ -5421,7 +5421,6 @@ dentistries
 dentists
 dentition
 dilating
-dentolabial
 dentolingual
 dentololabial
 dentonasal
@@ -11174,6 +11173,7 @@ disbenchment
 disbend
 dispair
 disbind
+dentolabial
 disblame
 disbloom
 disboard
