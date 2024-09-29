@@ -1816,6 +1816,7 @@ eyepiece
 eyepit
 eyepoint
 eyereach
+elision
 eyeroot
 electromobilism
 eyes
@@ -3000,7 +3001,6 @@ echelonment
 elishah
 elysian
 elysiidae
-elision
 elisions
 elysium
 elisor
