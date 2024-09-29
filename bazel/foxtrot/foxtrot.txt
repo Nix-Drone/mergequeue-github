@@ -6191,6 +6191,7 @@ flown
 firebreak
 flowstone
 flambeaux
+formalize
 filicoid
 flrie
 flu
@@ -7559,7 +7560,6 @@ forecaster
 fiercest
 forecasters
 faujdar
-formalize
 ferrocyanhydric
 forecastle
 flagellator
