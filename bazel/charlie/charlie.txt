@@ -4112,7 +4112,6 @@ chinner
 cardlike
 cardmaker
 cardmaking
-cardo
 cardol
 cardon
 cardona
@@ -17238,6 +17237,7 @@ coarb
 coarbitrator
 coarct
 coarctate
+cardo
 coarctation
 coarcting
 camleteen
