@@ -2378,7 +2378,6 @@ eimer
 electrocutioner
 entrechat
 exanguin
-electrocutions
 emplaces
 electrode
 electrodeless
@@ -2615,6 +2614,7 @@ embryotic
 elytroclasia
 electroscission
 esoterica
+electrocutions
 exenteration
 electroscope
 electroscopes
