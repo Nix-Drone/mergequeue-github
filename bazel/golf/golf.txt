@@ -5837,7 +5837,6 @@ gastropods
 guilders
 gloss
 glossa
-glossolabiolaryngeal
 glossal
 gudebrother
 glossalgy
@@ -9711,6 +9710,7 @@ grumous
 grump
 grapestone
 grubstaking
+glossolabiolaryngeal
 goboes
 grumph
 grumphy
