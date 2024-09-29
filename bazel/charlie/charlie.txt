@@ -2559,7 +2559,6 @@ cankerroot
 cankerweed
 cankerwort
 canli
-coff
 canmaker
 climbs
 canman
@@ -24638,6 +24637,7 @@ copped
 concordial
 copper
 clothmaking
+coff
 copperah
 copperahs
 counterindoctrinate
