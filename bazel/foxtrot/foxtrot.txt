@@ -10796,7 +10796,6 @@ fs
 ferr
 fstore
 fabianism
-ft
 forinsec
 fth
 fthm
@@ -11066,6 +11065,7 @@ fumigating
 festal
 fumigations
 fumigator
+ft
 fumigatories
 furzery
 fumigatorium
