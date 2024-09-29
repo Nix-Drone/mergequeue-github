@@ -2970,7 +2970,6 @@ diegesis
 departmentalisation
 dedolomitize
 dedolomitizing
-deduce
 deducement
 deduces
 deducibility
@@ -14711,6 +14710,7 @@ doctorization
 doctorize
 doctorless
 doctors
+deduce
 doctorship
 disfranchise
 doctress
