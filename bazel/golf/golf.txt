@@ -2261,7 +2261,6 @@ gearman
 gears
 guernseys
 gearset
-gearshift
 gearshifts
 gearwheels
 glistening
@@ -4282,6 +4281,7 @@ guarapo
 gambas
 gymnolaemata
 gymnolaematous
+gearshift
 germinability
 glimed
 gymnonoti
