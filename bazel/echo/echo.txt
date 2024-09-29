@@ -8478,7 +8478,6 @@ epodes
 epoist
 epollicate
 eponge
-eponychium
 enwood
 eponym
 eponymy
@@ -8796,6 +8795,7 @@ equivalents
 equivaliant
 equivaluer
 equivalve
+eponychium
 electrocystoscope
 equivalved
 encloses
