@@ -3911,7 +3911,6 @@ gybing
 ganglionectomy
 gynandromorphous
 graphospasm
-giblet
 giblets
 giboia
 goyle
@@ -10446,6 +10445,7 @@ gumpus
 gums
 globularly
 gumshield
+giblet
 gramicidin
 gastroxynsis
 gunstone
