@@ -5906,7 +5906,6 @@ flooded
 flinthead
 flooder
 flooders
-floodgate
 floodgates
 frontlessly
 floody
@@ -7529,6 +7528,7 @@ forebespeak
 forebitt
 flaucht
 fet
+floodgate
 forebitten
 forebitter
 fizzing
