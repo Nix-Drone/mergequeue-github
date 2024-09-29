@@ -4637,7 +4637,6 @@ bundeli
 borborus
 bioenergetics
 bedaubing
-bedaubs
 bedlike
 bedawee
 bedaze
@@ -18134,6 +18133,7 @@ butcherbroom
 bipalium
 biovular
 butcherdom
+bedaubs
 butcherer
 ballyrag
 biternate
