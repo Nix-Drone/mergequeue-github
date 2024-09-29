@@ -2661,7 +2661,6 @@ decurved
 decomposability
 decomposable
 decompose
-decomposed
 delphin
 dimmy
 decomposer
@@ -6999,6 +6998,7 @@ destin
 destinal
 destinate
 destination
+decomposed
 destine
 demagnetizer
 dechlorinating
