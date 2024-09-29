@@ -7304,7 +7304,6 @@ detinues
 detinuit
 detn
 detonability
-detonable
 detonatability
 depersonalised
 detonate
@@ -12028,6 +12027,7 @@ deled
 disentitle
 diffuser
 disentitled
+detonable
 disentitlement
 disentitling
 drepanaspis
