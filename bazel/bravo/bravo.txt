@@ -4664,7 +4664,6 @@ bedding
 beddingroll
 beddings
 bede
-bro
 bogans
 bedeaf
 bedeafen
@@ -8799,6 +8798,7 @@ bimodal
 bimodality
 bipontine
 bimodule
+bro
 bimodulus
 bimong
 bimonthlies
