@@ -6501,7 +6501,6 @@ futile
 flurt
 flush
 flushboard
-flushers
 flushest
 face
 flushgate
@@ -8128,6 +8127,7 @@ foretoken
 frostproof
 femmes
 fretless
+flushers
 foretop
 foretopman
 foretopmast
