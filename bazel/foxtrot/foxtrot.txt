@@ -5989,7 +5989,6 @@ floras
 florate
 floreal
 floreated
-furnaced
 floreating
 folletto
 florent
@@ -7468,6 +7467,7 @@ finds
 ford
 fordable
 flaunche
+furnaced
 fordableness
 fordays
 forded
