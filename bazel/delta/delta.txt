@@ -2439,7 +2439,6 @@ decinormal
 decipher
 dispenser
 decipherability
-decipherable
 disintegrative
 decipherably
 deciphered
@@ -10175,6 +10174,7 @@ dinnerless
 dinnerly
 dinners
 dinnertime
+decipherable
 dinnerware
 dinning
 dinoceras
