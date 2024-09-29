@@ -4578,7 +4578,6 @@ becrown
 bearhide
 becrush
 buffering
-becrust
 bandies
 becrusted
 becrusting
@@ -15150,6 +15149,7 @@ bulblet
 bribeable
 bribed
 bribees
+becrust
 barnacles
 bindweb
 bribegiver
