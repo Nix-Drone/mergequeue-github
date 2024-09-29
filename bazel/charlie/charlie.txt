@@ -3909,7 +3909,6 @@ croceus
 colorimetry
 circumnutation
 carcinoid
-carcinolysin
 carcinological
 carcinologist
 carcinomas
@@ -18150,6 +18149,7 @@ coextend
 coextended
 coextends
 coextension
+carcinolysin
 coextensive
 coextensively
 coextent
