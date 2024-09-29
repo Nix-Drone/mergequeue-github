@@ -5222,7 +5222,6 @@ afear
 afebrile
 afenil
 autochanger
-afer
 afernan
 afetal
 affa
@@ -12528,6 +12527,7 @@ anemotaxis
 anemotropism
 anencephaly
 anencephalic
+afer
 apochromat
 anencephalous
 arvo
