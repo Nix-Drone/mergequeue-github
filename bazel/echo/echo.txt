@@ -5046,7 +5046,6 @@ eland
 endjunk
 evens
 endleaf
-endleaves
 endless
 excuses
 endlessly
@@ -12547,6 +12546,7 @@ enneagynous
 exilement
 exiles
 exilian
+endleaves
 exiling
 escheatable
 exility
