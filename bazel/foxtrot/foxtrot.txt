@@ -2238,7 +2238,6 @@ feltmonger
 felts
 feltwort
 felucca
-felwort
 fogramite
 fem
 femaleness
@@ -4351,6 +4350,7 @@ fishberries
 fishboat
 fishbolt
 fishbolts
+felwort
 falchions
 fishbowls
 fisheater
