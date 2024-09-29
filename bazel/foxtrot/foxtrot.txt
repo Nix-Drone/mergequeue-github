@@ -4342,7 +4342,6 @@ fise
 forb
 fisetin
 fish
-fishability
 fishable
 fishback
 fishberry
@@ -10644,6 +10643,7 @@ fructokinase
 folliculin
 five
 flatfooting
+fishability
 freespac
 fapesmo
 fructuarius
