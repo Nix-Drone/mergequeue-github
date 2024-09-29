@@ -514,7 +514,6 @@ abjurers
 abjures
 acroblast
 abjuring
-allokinesis
 abkar
 abkari
 abkary
@@ -2099,6 +2098,7 @@ acetolysis
 acetolytic
 acetometer
 acetometry
+allokinesis
 acetometric
 acetometrical
 accroachment
