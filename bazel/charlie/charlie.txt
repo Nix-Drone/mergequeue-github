@@ -2797,7 +2797,6 @@ chestily
 cantatrici
 cantboard
 cantdog
-cantdogs
 canted
 canteen
 canteens
@@ -21246,6 +21245,7 @@ concertment
 concerto
 communally
 concertos
+cantdogs
 contempt
 concerts
 concertstuck
