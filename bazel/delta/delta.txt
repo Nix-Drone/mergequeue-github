@@ -1684,7 +1684,6 @@ deaspirate
 decostate
 diplopias
 deaspiration
-deassimilation
 deathbed
 deathbeds
 deathcup
@@ -6018,6 +6017,7 @@ depth
 depthen
 depthless
 depthlessness
+deassimilation
 depths
 demonetization
 depthways
