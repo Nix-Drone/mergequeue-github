@@ -18161,7 +18161,6 @@ cofather
 cartoned
 cofathership
 cofeature
-cofeatures
 coferment
 cofermentation
 coffea
@@ -20386,6 +20385,7 @@ compactedly
 compactedness
 compacter
 compactible
+cofeatures
 compactify
 compactification
 cinderlike
