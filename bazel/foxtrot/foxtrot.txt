@@ -1458,6 +1458,7 @@ fatlings
 fatness
 fatnesses
 fylgjur
+foreswearing
 fats
 fatshedera
 ferahan
@@ -8092,7 +8093,6 @@ flowerets
 forestwards
 foresummon
 foreswear
-foreswearing
 funkiest
 foresweat
 foreswore
