@@ -8501,7 +8501,6 @@ alkylize
 aphidiinae
 alkylogen
 alkyloxy
-alkyls
 alkin
 alkine
 alkyne
@@ -12258,6 +12257,7 @@ ancones
 anconeus
 adenocellulitis
 ancony
+alkyls
 anconitis
 aegopodium
 anconoid
