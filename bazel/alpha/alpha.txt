@@ -5332,7 +5332,6 @@ affirm
 affirmable
 affirmably
 affirmance
-affirmant
 affirmation
 affirmations
 affirmative
@@ -11904,6 +11903,7 @@ anapnea
 anapnoeic
 aesthesia
 attend
+affirmant
 anapnograph
 anapnoic
 anapnometer
