@@ -1906,7 +1906,6 @@ gastrostomy
 gastrostomies
 gastrostomize
 gastrostomus
-gastrotaxis
 gastrothecal
 gastrotome
 gastrotomy
@@ -10085,6 +10084,7 @@ ginning
 gigmania
 grainland
 guesstimated
+gastrotaxis
 guesstimating
 guesswork
 grammarian
