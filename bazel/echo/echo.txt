@@ -3178,7 +3178,6 @@ elsewhen
 elsewhere
 elsewheres
 elsholtzia
-elsin
 elt
 eltrot
 eluant
@@ -3395,6 +3394,7 @@ excel
 embattle
 epeidia
 embattled
+elsin
 eudipleural
 exacerbations
 embattlement
