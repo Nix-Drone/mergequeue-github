@@ -2521,7 +2521,6 @@ electrometrical
 electrometrically
 electromyogram
 electromyography
-electromyographically
 electromobile
 electromotive
 electromotograph
@@ -6918,6 +6917,7 @@ entomophthora
 entomophthoraceae
 entomophthoraceous
 eschalot
+electromyographically
 entomophthorales
 elixirs
 eightsmen
