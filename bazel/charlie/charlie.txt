@@ -1107,7 +1107,6 @@ calcspars
 calctufas
 calctuff
 calculability
-calculable
 calculableness
 calculably
 calculary
@@ -20867,6 +20866,7 @@ colonnades
 comprehender
 comprehendible
 comedos
+calculable
 comprehendingly
 comprehense
 comprehensibility
