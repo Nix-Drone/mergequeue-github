@@ -4284,7 +4284,6 @@ ervipiame
 eerie
 emrode
 ems
-emu
 evokers
 emulant
 emulations
@@ -13934,6 +13933,7 @@ extrapolate
 epistolist
 extrapolated
 extrapolating
+emu
 ebbed
 excised
 extrapolation
