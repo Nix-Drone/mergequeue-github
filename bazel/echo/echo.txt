@@ -1013,7 +1013,6 @@ edam
 edana
 edaphology
 enerve
-edaphon
 edaphosauria
 edaphosaurid
 edaphosaurus
@@ -4917,6 +4916,7 @@ encurl
 encurtain
 endosteal
 encushion
+edaphon
 end
 endable
 endamage
