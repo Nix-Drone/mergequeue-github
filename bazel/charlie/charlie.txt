@@ -5101,7 +5101,6 @@ caseum
 caseweed
 casewood
 caseworker
-caseworkers
 caseworks
 caseworm
 caseworms
@@ -14213,6 +14212,7 @@ circular
 circularisation
 circularised
 circulariser
+caseworkers
 circularising
 circularism
 circularities
