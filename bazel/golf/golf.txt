@@ -971,7 +971,6 @@ gamenesses
 gorse
 games
 gamesman
-gamesome
 gamesomeness
 gamest
 gamester
@@ -1412,6 +1411,7 @@ gargle
 gargled
 granilla
 gargler
+gamesome
 garglers
 gargling
 gargoyle
