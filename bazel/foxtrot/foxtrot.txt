@@ -7698,7 +7698,6 @@ fearable
 fables
 fasciolidae
 flannelet
-foreground
 foregrounds
 foreguess
 faq
@@ -8592,6 +8591,7 @@ forpine
 forpining
 fortunella
 forprise
+foreground
 forrad
 finnoc
 forrader
