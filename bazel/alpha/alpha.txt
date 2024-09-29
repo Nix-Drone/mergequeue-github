@@ -3660,7 +3660,6 @@ adenocarcinomas
 adenocarcinomata
 akepiros
 adenocele
-adenochondroma
 adenochondrosarcoma
 adenochrome
 adenocyst
@@ -14451,6 +14450,7 @@ acediast
 apometabolism
 anthophobia
 achingly
+adenochondroma
 anthophora
 aedilitian
 anthorine
