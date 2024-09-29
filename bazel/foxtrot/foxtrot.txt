@@ -1468,7 +1468,6 @@ fatalize
 frederick
 fatstock
 fatstocks
-fatted
 fatten
 fattenable
 fragilaria
@@ -4798,6 +4797,7 @@ fasciolaria
 frontspiece
 flagpole
 faunula
+fatted
 figurehead
 flagpoles
 flagrance
