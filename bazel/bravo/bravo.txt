@@ -3813,6 +3813,7 @@ battlepiece
 battleplane
 barnstorms
 battler
+boswell
 battles
 battleship
 battleships
@@ -13223,7 +13224,6 @@ bange
 bostrychidae
 bostrychoidal
 bostryx
-boswell
 batrachoid
 bencite
 boswellia
