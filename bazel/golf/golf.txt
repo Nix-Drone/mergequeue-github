@@ -2210,7 +2210,6 @@ gazeless
 gazella
 gazellelike
 gazelline
-gazement
 gazer
 gazers
 gazettal
@@ -7275,6 +7274,7 @@ gospeler
 gunung
 gospelers
 groutier
+gazement
 genet
 gospelist
 grossing

@@ -2235,7 +2235,6 @@ feltman
 foulard
 foredeep
 feltmonger
-felts
 feltwort
 felucca
 felwort
@@ -4086,6 +4085,7 @@ finnick
 forward
 furnacite
 finnicky
+felts
 figless
 finnickier
 formazyl
