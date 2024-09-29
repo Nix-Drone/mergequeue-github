@@ -20343,7 +20343,6 @@ commutation
 commutative
 commutatively
 commutativity
-commutator
 commutators
 commute
 commuted
@@ -25015,6 +25014,7 @@ carts
 cordwood
 choleraic
 concocting
+commutator
 cordwoods
 core
 coreceiver
