@@ -2692,7 +2692,6 @@ beknights
 barkentine
 barkentines
 barker
-barkery
 barkevikite
 barkevikitic
 bub
@@ -7582,6 +7581,7 @@ beverages
 beverse
 bevesseled
 brinks
+barkery
 benjamite
 boneache
 bevil
