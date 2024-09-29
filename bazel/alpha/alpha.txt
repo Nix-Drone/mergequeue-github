@@ -8921,7 +8921,6 @@ acanthodea
 allose
 allosematic
 allosyndesis
-allosyndetic
 allosome
 allosteric
 allosterically
@@ -22070,6 +22069,7 @@ asthenies
 asthenolith
 apposes
 aphidophagous
+allosyndetic
 asthenology
 asthenope
 asthenophobia
