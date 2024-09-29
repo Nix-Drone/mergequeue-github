@@ -4510,6 +4510,7 @@ besieged
 becloak
 belchers
 becloaking
+boree
 becloaks
 beclog
 beclogged
@@ -12983,7 +12984,6 @@ borecoles
 bored
 boredoms
 brooked
-boree
 boreen
 burdash
 boregat
