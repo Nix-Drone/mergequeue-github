@@ -2127,6 +2127,7 @@ emblematist
 elapsed
 elapses
 elapsing
+extensions
 elargement
 elasmobranch
 elasmobranchii
@@ -13549,7 +13550,6 @@ extensionalism
 extensionality
 engagedness
 extensionless
-extensions
 extensity
 endorsements
 extensive
