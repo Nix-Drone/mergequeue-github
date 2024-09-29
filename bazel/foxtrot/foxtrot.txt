@@ -1301,7 +1301,6 @@ fastbacks
 fastball
 fastened
 fastener
-fastening
 fastenings
 flagrante
 fishhouse
@@ -6974,6 +6973,7 @@ followable
 followed
 follower
 foisting
+fastening
 followers
 followingly
 floppers
