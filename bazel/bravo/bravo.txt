@@ -2840,7 +2840,6 @@ barony
 bassets
 baronial
 baronies
-baronize
 baronized
 baronnes
 baronries
@@ -8907,6 +8906,7 @@ binous
 binoxide
 bints
 binturong
+baronize
 binuclear
 binucleated
 bigoniac
