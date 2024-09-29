@@ -4827,7 +4827,6 @@ carshop
 cogitable
 carshops
 carsick
-carsickness
 carsmith
 carson
 caviteno
@@ -5808,6 +5807,7 @@ catesbeiana
 catface
 catfaced
 catfacing
+carsickness
 catfall
 catfalls
 catfight
