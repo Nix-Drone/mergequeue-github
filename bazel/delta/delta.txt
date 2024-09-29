@@ -2526,7 +2526,6 @@ declassifies
 declassifying
 declassing
 declension
-declensional
 declensionally
 diaphragming
 deiced
@@ -5264,6 +5263,7 @@ denotatum
 denote
 denoted
 denotement
+declensional
 denotes
 denoting
 denotive
