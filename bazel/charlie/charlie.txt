@@ -7402,7 +7402,6 @@ cephalotribe
 cephalotrocha
 cephalotus
 cephalous
-cephas
 cepheid
 conchucu
 cepheids
@@ -19647,6 +19646,7 @@ combat
 combatable
 chroma
 combatant
+cephas
 combatants
 combater
 combaters
