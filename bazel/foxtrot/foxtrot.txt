@@ -3304,6 +3304,7 @@ faction
 ferrying
 fidejussion
 fidejussionary
+foreright
 furlanas
 fidejussor
 fidejussory
@@ -9912,7 +9913,6 @@ fresno
 fress
 forstraught
 fretfully
-foreright
 fallibleness
 fretish
 farrows
