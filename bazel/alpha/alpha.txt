@@ -6241,7 +6241,6 @@ agnamed
 agnat
 agnate
 agnates
-agnatha
 agnathia
 agnathic
 archiblast
@@ -24094,6 +24093,7 @@ autogravure
 apographal
 autoharp
 autoheader
+agnatha
 axone
 autohemolytic
 autohemorrhage
