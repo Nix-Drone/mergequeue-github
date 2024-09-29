@@ -4812,6 +4812,7 @@ gyrostat
 gyrostats
 gyrotheca
 girouette
+geodesia
 gastroduodenostomies
 gazet
 gyrous
@@ -10103,7 +10104,6 @@ guetare
 guetre
 gufa
 galloperdix
-geodesia
 guffawing
 guffaws
 guffer
