@@ -1974,7 +1974,6 @@ bandmaster
 bandmasters
 bando
 bandobust
-bandog
 bandogs
 bonfire
 bandoleer
@@ -12832,6 +12831,7 @@ bootheel
 boother
 boothes
 boothite
+bandog
 booths
 bootid
 bootie
