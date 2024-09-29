@@ -79,6 +79,7 @@ gables
 gablet
 genapped
 gablewindowed
+gainturn
 gorst
 gogga
 gablewise
@@ -305,7 +306,6 @@ galliard
 gainst
 gainstrive
 gayal
-gainturn
 gringos
 gonoph
 grayout
