@@ -2850,6 +2850,7 @@ briggs
 baronship
 baroque
 bureaus
+bookpress
 baroquely
 barites
 bitterweed
@@ -12686,7 +12687,6 @@ bookmobiles
 bookplate
 bookplates
 barwise
-bookpress
 bookrack
 bookracks
 baronry
