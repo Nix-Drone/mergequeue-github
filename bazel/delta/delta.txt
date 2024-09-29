@@ -6296,7 +6296,6 @@ dermatorrhagia
 dashy
 dermatorrhea
 dermatosclerosis
-dermatoscopy
 dermatoses
 dermatosiophobia
 degausses
@@ -13706,6 +13705,7 @@ dissuasions
 dissuasively
 duckpins
 dissuasory
+dermatoscopy
 divisibilities
 dissue
 drogues
