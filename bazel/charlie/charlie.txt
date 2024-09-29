@@ -9958,7 +9958,6 @@ chemotherapy
 chemotherapies
 chemotherapist
 chemotherapists
-chemotic
 chemotroph
 chemotrophic
 chemotropic
@@ -21577,6 +21576,7 @@ condensability
 condensable
 condensance
 condensary
+chemotic
 condensaries
 condensates
 condensation
