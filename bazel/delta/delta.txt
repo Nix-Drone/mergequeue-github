@@ -1983,6 +1983,7 @@ decagram
 decagramme
 decagrams
 decahedra
+decrepitness
 decahedral
 decahedron
 damageableness
@@ -2814,7 +2815,6 @@ duodecahedral
 decrepitated
 decrepitation
 decrepity
-decrepitness
 decreptitude
 decresc
 decrescendo
