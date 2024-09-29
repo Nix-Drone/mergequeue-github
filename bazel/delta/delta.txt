@@ -2730,6 +2730,7 @@ decopperize
 decor
 decorability
 decorable
+diver
 decorably
 doubtfulness
 desertic
@@ -5084,7 +5085,6 @@ denaturant
 denaturants
 denaturate
 denaturational
-diver
 denature
 denatured
 denaturing
