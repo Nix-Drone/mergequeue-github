@@ -3150,7 +3150,6 @@ defamation
 defamations
 defamatory
 defame
-defamed
 dragginess
 defamer
 defamers
@@ -5400,6 +5399,7 @@ dentines
 denting
 dentinitis
 delineatory
+defamed
 dreamingful
 dentinoblast
 dentinocemental
