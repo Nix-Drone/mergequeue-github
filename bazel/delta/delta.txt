@@ -5732,7 +5732,6 @@ depit
 deplace
 deplaceable
 deplane
-deplaned
 deplaning
 deplant
 deplantation
@@ -6224,6 +6223,7 @@ dermapterous
 dermas
 dermaskeleton
 dermasurgery
+deplaned
 dedolomitization
 dermatagra
 dermatalgia
