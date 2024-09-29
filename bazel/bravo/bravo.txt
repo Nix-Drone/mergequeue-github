@@ -12237,7 +12237,6 @@ boltsmith
 b
 bawds
 boltspreet
-boltuprightness
 boltwork
 bolus
 boluses
@@ -18322,6 +18321,7 @@ bedel
 buttonholes
 buttonholing
 bowlegs
+boltuprightness
 buttonhook
 buttony
 buttoning
