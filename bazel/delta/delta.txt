@@ -2620,6 +2620,7 @@ decoloring
 decolorisation
 decoloriser
 decolorising
+duration
 dispose
 decolorization
 decolorized
@@ -18464,7 +18465,6 @@ deaconing
 durante
 duras
 duraspinalis
-duration
 durational
 durationless
 durative
