@@ -2898,7 +2898,6 @@ cantonize
 cantonment
 cantonments
 cantons
-countergager
 cantoral
 cantoria
 cantorial
@@ -22955,6 +22954,7 @@ consolation
 consolations
 consolato
 consolator
+countergager
 callipered
 consolatory
 consolatorily
