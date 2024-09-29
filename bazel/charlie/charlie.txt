@@ -3912,7 +3912,6 @@ carcinoid
 carcinolysin
 carcinological
 carcinologist
-carcinomas
 carcinomata
 carcinomatoid
 carcinomatosis
@@ -6908,6 +6907,7 @@ cementwork
 cemetary
 cemetaries
 cemetery
+carcinomas
 cemeterial
 cemeteries
 cen
