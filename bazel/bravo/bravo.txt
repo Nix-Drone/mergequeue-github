@@ -9034,6 +9034,7 @@ bootstraps
 biographize
 biohazard
 brutes
+booker
 bioherm
 bioherms
 bioinstrument
@@ -12633,7 +12634,6 @@ bookcraft
 bookdealer
 bushmaster
 bookends
-booker
 bookery
 bookers
 bookfair
