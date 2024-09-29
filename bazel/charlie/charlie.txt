@@ -5054,7 +5054,6 @@ casebearer
 casebook
 collectivity
 casebooks
-casebound
 casebox
 cased
 casefy
@@ -20341,6 +20340,7 @@ commutate
 commutated
 commutation
 commutative
+casebound
 commutatively
 commutativity
 commutator
