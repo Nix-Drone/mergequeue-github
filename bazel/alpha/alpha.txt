@@ -1671,7 +1671,6 @@ accordionist
 accordionists
 accordions
 accords
-accorporate
 accorporation
 accost
 accosted
@@ -12877,6 +12876,7 @@ anglicization
 anglicize
 anglicized
 anglicizes
+accorporate
 anglify
 anglification
 anglimaniac
