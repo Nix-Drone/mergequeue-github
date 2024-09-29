@@ -5619,7 +5619,6 @@ afterglow
 alloclasite
 afterglows
 aftergo
-aftergood
 aftergrave
 aftergrief
 armpad
@@ -5677,6 +5676,7 @@ afterreckoning
 auxofluor
 afterrider
 afterripening
+aftergood
 afterroll
 afters
 afterschool
