@@ -6972,7 +6972,6 @@ entosternal
 entosternum
 entosthoblast
 entothorax
-entotympanic
 ebullioscope
 entotrophi
 enterokinetic
@@ -9089,6 +9088,7 @@ eriometer
 extraspherical
 erionite
 eriophyid
+entotympanic
 eriophyidae
 eriophyllous
 eryopid
