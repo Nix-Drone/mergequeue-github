@@ -6486,6 +6486,7 @@ benzophenone
 benzophenothiazine
 benzophenoxazine
 benzophloroglucinol
+birthplace
 benzophthalazine
 benzopyran
 benzopyranyl
@@ -9539,7 +9540,6 @@ birthmark
 birthmarks
 birthmate
 birthnight
-birthplace
 birthplaces
 backfilled
 birthrates
