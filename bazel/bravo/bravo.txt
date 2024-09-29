@@ -642,7 +642,6 @@ bacteriodiagnosis
 bacteriofluorescin
 bromates
 bacteriogenic
-bacteriogenous
 bacteriohemolysin
 bacterioidal
 benzin
@@ -13213,6 +13212,7 @@ bostanji
 bosthoon
 boston
 bobtails
+bacteriogenous
 batakan
 bostonian
 blitheness
