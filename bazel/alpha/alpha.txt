@@ -845,7 +845,6 @@ abrim
 abrin
 abrine
 abris
-aerosphere
 abristle
 abroach
 abrocome
@@ -1697,6 +1696,7 @@ accounted
 accounter
 accounters
 accounting
+aerosphere
 accountment
 accountrement
 accounts
