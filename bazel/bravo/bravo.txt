@@ -2400,7 +2400,6 @@ benzoles
 bubaline
 barbershops
 barbet
-barbette
 bears
 barbettes
 barbican
@@ -3629,6 +3628,7 @@ baygall
 bathyscaph
 bathyscaphes
 bathyseism
+barbette
 bathysmal
 bomarea
 bathysophic
