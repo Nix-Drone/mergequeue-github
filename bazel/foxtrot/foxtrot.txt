@@ -4967,7 +4967,6 @@ flankard
 fountainhead
 flanked
 flanker
-flankers
 falconries
 fringilliform
 fireshaft
@@ -7244,6 +7243,7 @@ footrope
 footropes
 foots
 footscald
+flankers
 footmarks
 fiorded
 farraginous
