@@ -2876,7 +2876,6 @@ genomic
 genoms
 genonema
 gph
-genos
 gerrymandered
 genospecies
 genotype
@@ -4019,6 +4018,7 @@ gills
 gutser
 goldenfleece
 gigawatts
+genos
 gigback
 gouter
 glacify
