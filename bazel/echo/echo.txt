@@ -4204,6 +4204,7 @@ emplunge
 empodia
 eatche
 empoison
+electrostatics
 empoisoned
 encaustes
 ephoral
@@ -8309,7 +8310,6 @@ epitactic
 epitaph
 epitapher
 epitaphian
-electrostatics
 epitaphist
 epitaphize
 epicotyleal
