@@ -1667,7 +1667,6 @@ accorder
 accorders
 accordingly
 accordion
-accordionist
 accordionists
 accordions
 accords
@@ -11394,6 +11393,7 @@ amus
 amex
 amusable
 amuse
+accordionist
 achenodium
 amusedly
 apheliotropically
