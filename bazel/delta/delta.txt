@@ -1175,6 +1175,7 @@ deleted
 dogtrot
 datableness
 datably
+dateableness
 datacell
 datafile
 dataflow
@@ -1198,7 +1199,6 @@ datatypes
 datcha
 dynamometry
 dialyzers
-dateableness
 datebook
 dated
 dod
