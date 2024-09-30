@@ -12060,6 +12060,7 @@ choruser
 choruses
 chorusing
 chanceries
+cogwheel
 crusca
 choruslike
 chorusmaster
@@ -29870,7 +29871,6 @@ crosshatch
 crosshatched
 crosshatcher
 crosshatches
-cogwheel
 crosshatching
 crosshaul
 crosshauling
