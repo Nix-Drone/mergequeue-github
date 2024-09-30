@@ -8602,7 +8602,6 @@ chancellor
 chancellorate
 chancelloress
 chancellory
-chancellors
 chancellorship
 chancellorships
 chancelor
@@ -27032,6 +27031,7 @@ counterreplying
 counterreprisal
 counterrestoration
 counterrevolutionary
+chancellors
 counterrevolutionaries
 chivaring
 codiaceous
