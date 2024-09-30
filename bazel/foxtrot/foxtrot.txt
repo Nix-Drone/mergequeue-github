@@ -1458,7 +1458,6 @@ fatlings
 fatness
 fatnesses
 fylgjur
-fats
 fatshedera
 ferahan
 fatsia
@@ -6367,6 +6366,7 @@ flunky
 flunkyite
 felonsetting
 flunking
+fats
 formol
 fluoaluminic
 ficklehearted
