@@ -14137,6 +14137,7 @@ criterion
 cypselid
 cypselidae
 cypseliform
+compression
 cypseliformes
 copal
 cypseline
@@ -20891,7 +20892,6 @@ compressibilities
 compressible
 compressibleness
 compressibly
-compression
 compressional
 compressive
 compressively
