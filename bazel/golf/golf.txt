@@ -2261,7 +2261,6 @@ gearman
 gears
 guernseys
 gearset
-gearshift
 gearshifts
 gearwheels
 glistening
@@ -8946,6 +8945,7 @@ grivoise
 grieshuckle
 grievance
 grievances
+gearshift
 gabelles
 grievants
 grieve
