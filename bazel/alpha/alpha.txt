@@ -849,7 +849,6 @@ aerosphere
 abristle
 abroach
 abrocome
-abrogable
 abrogate
 antagonisation
 abrogates
@@ -16993,6 +16992,7 @@ apiator
 apically
 apician
 apicifixed
+abrogable
 apicillary
 apicitis
 apickback
