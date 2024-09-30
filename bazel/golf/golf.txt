@@ -5440,7 +5440,6 @@ galactogogue
 glycogenase
 glycogeny
 glycogenic
-glycogenize
 glycogenolytic
 glycogenosis
 gingals
@@ -8272,6 +8271,7 @@ grasshop
 grasshopper
 grasshopperdom
 gry
+glycogenize
 gnarling
 genovino
 garnisher
