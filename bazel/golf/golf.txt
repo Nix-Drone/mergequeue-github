@@ -3232,7 +3232,6 @@ georgics
 gripy
 georgium
 geoscience
-geoscientist
 geoscientists
 geoscopy
 gelasian
@@ -7837,6 +7836,7 @@ gundie
 grammatics
 grammatistical
 gratinated
+geoscientist
 grammatite
 grammatology
 glossotherium
