@@ -218,7 +218,6 @@ abbozzo
 abbr
 abbrev
 abbreviatable
-abbreviate
 abbreviated
 argotic
 apostolicism
@@ -24428,6 +24427,7 @@ autotheist
 autotherapy
 autotimer
 autotypy
+abbreviate
 autotypic
 autotypies
 autotomy
