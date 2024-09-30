@@ -2262,7 +2262,6 @@ gears
 guernseys
 gearset
 gearshift
-gearshifts
 gearwheels
 glistening
 gease
@@ -5381,6 +5380,7 @@ geomedicine
 gliadines
 gliadins
 glaucophane
+gearshifts
 glib
 glibber
 grippy
