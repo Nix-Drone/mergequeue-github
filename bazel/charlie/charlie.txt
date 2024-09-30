@@ -17155,6 +17155,7 @@ coalesce
 coalescence
 cellarless
 coalescency
+colourable
 coalescent
 coalesces
 coalescing
@@ -19434,7 +19435,6 @@ colotomies
 citharoedus
 colour
 colourability
-colourable
 colourably
 cometical
 colouration
