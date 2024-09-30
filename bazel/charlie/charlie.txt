@@ -4748,6 +4748,7 @@ carri
 carry
 carriable
 carryable
+chastelain
 carriage
 carriageable
 carriageful
@@ -9230,7 +9231,6 @@ chassis
 chemisorptive
 chastacosta
 chaste
-chastelain
 chastely
 carbonados
 chasten
