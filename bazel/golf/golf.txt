@@ -6236,7 +6236,6 @@ girr
 gnat
 gnatflower
 gnathal
-gnathidium
 gnathite
 gunyah
 graininess
@@ -6671,6 +6670,7 @@ gnash
 goldurned
 goldurns
 goldwork
+gnathidium
 goldworker
 golem
 golems
