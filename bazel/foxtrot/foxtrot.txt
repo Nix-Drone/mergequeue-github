@@ -4966,7 +4966,6 @@ flangeway
 flankard
 fountainhead
 flanked
-flanker
 flankers
 falconries
 fringilliform
@@ -8489,6 +8488,7 @@ fozinesses
 forminate
 forming
 formless
+flanker
 formlessness
 formnail
 formolit
