@@ -8395,7 +8395,6 @@ epithets
 enwreathed
 epithyme
 ectodermic
-epithymetical
 epithumetic
 epitimesis
 epitympanic
@@ -13594,6 +13593,7 @@ exteriorize
 ejects
 encomiendas
 exteriorized
+epithymetical
 erratum
 exteriorizing
 exteriorly
