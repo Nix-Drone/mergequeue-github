@@ -6097,7 +6097,6 @@ divest
 deraignment
 derail
 derailed
-derailing
 derailleur
 derailleurs
 derailment
@@ -8330,6 +8329,7 @@ dialister
 dehorts
 dialists
 dialytic
+derailing
 directories
 drumloid
 dialyzability
