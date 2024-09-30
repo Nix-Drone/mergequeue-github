@@ -2499,7 +2499,6 @@ engines
 echoist
 electromagnetics
 evacuation
-electromagnetism
 electromagnetist
 escalloping
 electromagnets
@@ -9572,6 +9571,7 @@ eschewer
 eam
 eschewers
 eschewing
+electromagnetism
 everwho
 eschews
 erythron
