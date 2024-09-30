@@ -2728,7 +2728,6 @@ generatrices
 generic
 generically
 gabeler
-genericness
 globosphaerite
 gorger
 glaumrie
@@ -5222,6 +5221,7 @@ guestship
 glasswork
 guider
 glassworker
+genericness
 glassworkers
 glassworm
 gawkier
