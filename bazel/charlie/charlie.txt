@@ -7832,7 +7832,6 @@ cervelats
 cerveliere
 chirpling
 cervelliere
-cervical
 cervicapra
 cervicaprine
 cervicectomy
@@ -20152,6 +20151,7 @@ commit
 commitment
 commitments
 commits
+cervical
 committable
 committedly
 committedness
