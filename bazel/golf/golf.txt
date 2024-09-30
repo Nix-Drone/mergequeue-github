@@ -8239,6 +8239,7 @@ graptomancy
 grasp
 graspable
 graspers
+guarding
 grasping
 graspingly
 gleets
@@ -9926,7 +9927,6 @@ guester
 guardianly
 guardians
 guardianship
-guarding
 guardless
 guardo
 guardrail
