@@ -5430,7 +5430,6 @@ endrudge
 eltime
 expendable
 endseal
-endshake
 endsheet
 everglade
 execrates
@@ -11362,6 +11361,7 @@ eutaxy
 evaporated
 evaporates
 enemylike
+endshake
 evaporating
 evaporation
 exams
