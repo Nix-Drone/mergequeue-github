@@ -1663,7 +1663,6 @@ babby
 balloons
 ballot
 ballota
-balloted
 balloter
 blowsy
 balloting
@@ -15246,6 +15245,7 @@ brideless
 bridelike
 bridelope
 bridemaid
+balloted
 bridemaiden
 basketry
 balayeuse
