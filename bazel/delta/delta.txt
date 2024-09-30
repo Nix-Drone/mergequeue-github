@@ -5752,6 +5752,7 @@ depletory
 deploy
 deployed
 deploying
+dog
 defilade
 deployment
 deployments
@@ -17229,7 +17230,6 @@ drivable
 drive
 driveable
 driveaway
-dog
 drivebolt
 duikers
 drivehead
