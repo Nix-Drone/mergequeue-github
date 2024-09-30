@@ -3488,7 +3488,6 @@ bastiment
 bastinaded
 bastinades
 baroi
-berend
 burbots
 bastinado
 bastinadoed
@@ -11312,6 +11311,7 @@ bluebelled
 bluebells
 bepistoled
 blueberry
+berend
 books
 blueberries
 bluebill
