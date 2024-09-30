@@ -15050,6 +15050,7 @@ dogskin
 dogsleds
 degustate
 disconformable
+drawshave
 dogsleep
 dogstones
 dogtail
@@ -16859,7 +16860,6 @@ drawout
 drawplate
 drawpoint
 draws
-drawshave
 drawsheet
 drawspring
 drawstop
