@@ -7751,6 +7751,7 @@ genearch
 grainers
 gastrocystic
 gunboat
+gatling
 glacial
 geront
 grainfield
@@ -9268,7 +9269,6 @@ groggery
 groggeries
 groggy
 groggier
-gatling
 grogginess
 grogging
 gunfighters
