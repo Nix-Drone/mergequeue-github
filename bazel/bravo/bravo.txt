@@ -3818,6 +3818,7 @@ battleship
 battleships
 buhr
 battlesome
+boltropes
 boatfalls
 banderilla
 battlestead
@@ -12231,7 +12232,6 @@ boltonite
 boltrope
 bittern
 boatside
-boltropes
 bolts
 boltsmith
 b
