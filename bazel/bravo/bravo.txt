@@ -434,7 +434,6 @@ backpointers
 backrest
 backrope
 brimstony
-backropes
 boskets
 backrush
 backrushes
@@ -3797,6 +3796,7 @@ batting
 battings
 battish
 battledores
+backropes
 baldly
 boyar
 battledoring
