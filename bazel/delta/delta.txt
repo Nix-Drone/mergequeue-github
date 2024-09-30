@@ -77,7 +77,6 @@ dacryocystoptosis
 dacryocystosyringotomy
 dacryocystotome
 dacryocystotomy
-dacryohemorrhea
 dacryolithiasis
 dacryoma
 dacryon
@@ -16866,6 +16865,7 @@ drawstop
 dispersible
 dribbet
 dropforging
+dacryohemorrhea
 dinoceratid
 drawstrings
 drawtongs
