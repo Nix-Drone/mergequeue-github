@@ -8259,7 +8259,6 @@ byerite
 bierkeller
 byerlite
 bierstube
-bierstuben
 byestreet
 biethnic
 baccar
@@ -10001,6 +10000,7 @@ blazon
 biz
 byzantine
 byzantinesque
+bierstuben
 boggy
 byzantinize
 byzantium
