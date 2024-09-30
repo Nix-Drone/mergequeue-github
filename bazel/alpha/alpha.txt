@@ -5609,7 +5609,6 @@ afterfame
 afterfeed
 afterform
 afterfriend
-afterfruits
 afterfuture
 anadem
 aftergame
@@ -12140,6 +12139,7 @@ anchat
 anchietin
 anchietine
 analysed
+afterfruits
 anchieutectic
 anchylose
 anchylosing
