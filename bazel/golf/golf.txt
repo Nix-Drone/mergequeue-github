@@ -2220,7 +2220,6 @@ gazetteerish
 gazetteers
 goon
 gazetteership
-gremlin
 gazettes
 gazetting
 gazing
@@ -10630,6 +10629,7 @@ gurgoyle
 gurgulation
 gurgulio
 grasswork
+gremlin
 guric
 gurk
 gurkha
