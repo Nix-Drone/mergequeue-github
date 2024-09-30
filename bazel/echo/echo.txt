@@ -7909,7 +7909,6 @@ epigrams
 epigraph
 epigrapher
 eftest
-epigraphy
 egyptianization
 epigraphic
 epigraphical
@@ -12299,6 +12298,7 @@ enfect
 executor
 executory
 excur
+epigraphy
 erodable
 executorial
 executors
