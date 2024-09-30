@@ -1525,7 +1525,6 @@ deadlines
 deadliness
 deadlock
 deadlocking
-deadman
 direfulness
 deadmelt
 deadnesses
@@ -15216,6 +15215,7 @@ diluviums
 dolmas
 dolmen
 dolmenic
+deadman
 declaimed
 dolomedes
 dolomite
