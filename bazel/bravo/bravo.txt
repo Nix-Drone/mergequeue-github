@@ -4956,7 +4956,6 @@ beefsteaks
 beeftongue
 beefwood
 beefwoods
-blackcock
 beehead
 bedrock
 beeheaded
@@ -14509,6 +14508,7 @@ brasero
 balsamea
 brandied
 brandify
+blackcock
 brandyman
 branding
 brandiron
