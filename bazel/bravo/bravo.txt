@@ -13842,7 +13842,6 @@ bowwows
 box
 boxberry
 boxberries
-buttonless
 boxbush
 boxcar
 bonify
@@ -15792,6 +15791,7 @@ broils
 brokage
 brokages
 bridehead
+buttonless
 blighties
 broke
 burglariously
