@@ -4943,7 +4943,6 @@ aerodrome
 aerodromes
 acetyltannin
 aeroduct
-auge
 aeroducts
 aeroelastic
 aeroelasticity
@@ -12813,6 +12812,7 @@ angiosperm
 angiospermae
 attacks
 angiospermal
+auge
 angiospermic
 angiospermous
 angiosperms
