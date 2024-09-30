@@ -11661,7 +11661,6 @@ cholick
 choline
 cholinergic
 cholines
-cholinesterase
 cholinic
 cholinolytic
 cholla
@@ -17598,6 +17597,7 @@ cerulescent
 cochleiform
 cochleitis
 cochleleae
+cholinesterase
 cochleleas
 cochleous
 cochlidiid
