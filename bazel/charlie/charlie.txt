@@ -1585,7 +1585,6 @@ calorics
 caloriduct
 calorie
 calories
-circ
 calorifacient
 calorify
 calorific
@@ -21363,6 +21362,7 @@ comparts
 concio
 concion
 concional
+circ
 concionary
 concionate
 concionator
