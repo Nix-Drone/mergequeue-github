@@ -6851,6 +6851,7 @@ announcement
 airdates
 airdock
 airdrome
+apronstring
 airdromes
 airdrop
 airdropped
@@ -18118,7 +18119,6 @@ aproneer
 apronful
 apronless
 aprons
-apronstring
 aprosopia
 amphigenetic
 aprosopous
