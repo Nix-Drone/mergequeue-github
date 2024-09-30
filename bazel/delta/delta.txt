@@ -469,7 +469,6 @@ daystar
 daystars
 daystreak
 daytide
-daytime
 daytimes
 daiva
 dobbed
@@ -17337,6 +17336,7 @@ drone
 droned
 dronel
 dronepipe
+daytime
 droners
 drones
 drony
