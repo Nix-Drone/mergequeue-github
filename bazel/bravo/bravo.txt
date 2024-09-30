@@ -2165,7 +2165,6 @@ bannerfish
 beduke
 bannerless
 bannerlike
-bannerline
 bannerman
 bannermen
 bannerole
@@ -15705,6 +15704,7 @@ brocardic
 brocatel
 brocatelle
 brocatello
+bannerline
 brocatels
 broccoli
 broccolis
