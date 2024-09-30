@@ -1858,7 +1858,6 @@ gastroparesis
 gunstocker
 gastroparietal
 gastropathy
-gastropathic
 gurjan
 gastroperiodynia
 gu
@@ -3610,6 +3609,7 @@ getable
 getae
 glycolide
 geoty
+gastropathic
 gizzen
 getatableness
 getaway
