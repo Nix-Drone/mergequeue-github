@@ -3624,7 +3624,6 @@ caravans
 caravansary
 caravansaries
 caravanserai
-caravanserial
 caravel
 confuse
 caravels
@@ -28471,6 +28470,7 @@ carapaced
 credencive
 credenciveness
 credenda
+caravanserial
 credendum
 credens
 credensive
