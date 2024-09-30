@@ -9835,6 +9835,7 @@ amateur
 amateurish
 amateurishly
 amateurishness
+atomically
 amateurship
 amati
 amating
@@ -22751,7 +22752,6 @@ atomerg
 atomy
 atomic
 atomical
-atomically
 atomician
 ahnfeltia
 atomicism
