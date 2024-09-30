@@ -3623,7 +3623,6 @@ bulreedy
 bathypelagic
 bastinadoes
 babesiasis
-bathyplankton
 buglers
 baygall
 bathyscaph
@@ -5060,6 +5059,7 @@ beeves
 beevish
 beeway
 beeweed
+bathyplankton
 beewinged
 beewise
 beezer
