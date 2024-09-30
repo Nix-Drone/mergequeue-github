@@ -1763,7 +1763,6 @@ accruing
 accts
 aventail
 accubation
-accubita
 accubitum
 accubitus
 accueil
@@ -15272,6 +15271,7 @@ antiflux
 antifoaming
 antilabor
 antifogmatic
+accubita
 antiforeignism
 antiformant
 altometer
