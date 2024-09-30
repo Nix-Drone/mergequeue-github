@@ -5545,7 +5545,6 @@ dibbles
 deoxidisation
 deadest
 densified
-deoxidised
 deoxidiser
 deoxidize
 deoxidizer
@@ -12566,6 +12565,7 @@ disjointure
 disjudication
 disjunctions
 disjunctive
+deoxidised
 disjunctively
 disjunctor
 disjuncts
