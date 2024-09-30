@@ -4585,7 +4585,6 @@ carousals
 carouse
 caroused
 carousel
-carousels
 carouser
 cuddly
 carousers
@@ -9819,6 +9818,7 @@ chemiatric
 cardiodynamics
 chemiatrist
 chemic
+carousels
 chemical
 chemicalization
 chemicalize
