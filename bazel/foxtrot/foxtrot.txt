@@ -4473,7 +4473,6 @@ fissirostres
 fissle
 fissura
 fissuration
-fungite
 finesse
 frawn
 fissured
@@ -8244,6 +8243,7 @@ forgets
 forgettably
 forgette
 forgettery
+fungite
 forgetters
 forgettingly
 forgings
