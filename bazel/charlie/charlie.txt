@@ -15295,7 +15295,6 @@ clairseach
 cloisteral
 clairsentience
 clairsentient
-clairvoyance
 clairvoyances
 clairvoyancy
 clairvoyant
@@ -17425,6 +17424,7 @@ cobishop
 cobitis
 craniometer
 climacium
+clairvoyance
 coble
 cobleman
 coblentzian
