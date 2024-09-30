@@ -13712,6 +13712,7 @@ bowable
 bowback
 bowbells
 bowbent
+bridgebuilder
 bowboy
 bowden
 bowdichia
@@ -15269,7 +15270,6 @@ bedimplies
 bridge
 bridgeable
 bridgebote
-bridgebuilder
 bridgebuilding
 bridged
 bridgehead
