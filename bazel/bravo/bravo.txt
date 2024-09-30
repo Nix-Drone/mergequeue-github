@@ -8507,7 +8507,6 @@ bilamellar
 bilamellate
 bilamellated
 bilaminar
-bilaminate
 bilaminated
 biland
 bigly
@@ -11283,6 +11282,7 @@ blub
 blubbed
 blubber
 blubberer
+bilaminate
 blubbery
 blubbering
 balanism
