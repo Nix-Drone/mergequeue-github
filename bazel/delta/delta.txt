@@ -12945,6 +12945,7 @@ dispatch
 dispatched
 dispatcher
 dispatchers
+drowsy
 dispatches
 days
 dispatchful
@@ -17504,7 +17505,6 @@ drowse
 drowsed
 drowses
 diamondbacked
-drowsy
 drowsier
 detant
 discarder
