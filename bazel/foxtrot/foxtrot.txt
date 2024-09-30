@@ -1095,7 +1095,6 @@ fructuary
 farmyardy
 foremastman
 farmland
-farmost
 farmout
 fasteners
 fisc
@@ -5778,6 +5777,7 @@ flitters
 flitty
 flitting
 flivver
+farmost
 fumariaceous
 flyway
 fruit
