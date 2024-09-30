@@ -5424,7 +5424,6 @@ affranchise
 affranchisement
 affrap
 anopsy
-affreight
 affreighter
 affreightment
 affret
@@ -16857,6 +16856,7 @@ anglers
 aphengoscope
 aphenoscope
 apheresis
+affreight
 apheretic
 acounter
 apheses
