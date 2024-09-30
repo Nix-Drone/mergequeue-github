@@ -5348,7 +5348,6 @@ begotten
 begottenness
 begowk
 begowned
-buyable
 benchboard
 begray
 begrain
@@ -15471,6 +15470,7 @@ brynhild
 brailing
 brinie
 barbes
+buyable
 brinier
 bloodless
 beglads
