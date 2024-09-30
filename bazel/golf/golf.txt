@@ -6163,7 +6163,6 @@ glutelins
 glutenin
 glutenous
 glutens
-gluteofemoral
 gluteoinguinal
 glutethimide
 gluteus
@@ -8445,6 +8444,7 @@ governments
 graves
 gravest
 gravestead
+gluteofemoral
 gan
 grallatory
 graveolence
