@@ -3693,7 +3693,6 @@ embryopathology
 embryophagous
 embryophyta
 embryophyte
-embryophore
 embryoplastic
 etiolation
 embryos
@@ -4907,6 +4906,7 @@ enculturation
 encumbered
 encumberer
 encumberingly
+embryophore
 enrichment
 encumberment
 encumbers
