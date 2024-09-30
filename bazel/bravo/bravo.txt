@@ -2121,7 +2121,6 @@ bicollaterality
 brinkless
 bankrolled
 bankrolling
-bankrupcy
 bankrupt
 borate
 bankruptcy
@@ -18327,6 +18326,7 @@ buttony
 buttoning
 bosks
 buttonlike
+bankrupcy
 buttonmold
 bestiarianism
 barometrically
