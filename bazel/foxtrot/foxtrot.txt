@@ -6945,6 +6945,7 @@ folkvangr
 foll
 foller
 folles
+floodproof
 formalisation
 folletage
 folletti
@@ -7210,7 +7211,6 @@ figurants
 footmanhood
 footmanry
 finished
-floodproof
 feretrum
 footmanship
 flathe
