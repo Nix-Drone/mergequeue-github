@@ -6671,7 +6671,6 @@ gnash
 goldurned
 goldurns
 goldwork
-goldworker
 golem
 golems
 goles
@@ -8085,6 +8084,7 @@ granulator
 giggling
 gemmiparity
 granulators
+goldworker
 granules
 gripper
 granulet
