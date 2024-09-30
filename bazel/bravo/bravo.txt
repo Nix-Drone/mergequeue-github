@@ -3960,6 +3960,7 @@ bawra
 barrow
 bawrel
 badling
+banalize
 bawsint
 bawsunt
 bawtie
@@ -9608,7 +9609,6 @@ busybodyness
 bisects
 bisegment
 bisellium
-banalize
 bysen
 biseptate
 biserial
