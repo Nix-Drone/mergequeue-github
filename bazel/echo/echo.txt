@@ -2512,7 +2512,6 @@ electromer
 extrasacerdotal
 efficaciousness
 electrometallurgy
-electrometallurgical
 eye
 electrometer
 enage
@@ -3128,6 +3127,7 @@ eloiner
 eloiners
 eustachium
 eloining
+electrometallurgical
 expurgators
 exactiveness
 eloinment
