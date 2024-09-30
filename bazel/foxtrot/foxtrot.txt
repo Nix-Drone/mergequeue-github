@@ -4908,6 +4908,7 @@ formulize
 flameproofer
 flintlocks
 finfishes
+fr
 flamer
 flamers
 ferneries
@@ -9195,7 +9196,6 @@ fpm
 fleeceflower
 fps
 fpsps
-fr
 fra
 faulkner
 fanfish
