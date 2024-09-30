@@ -5814,7 +5814,6 @@ catfight
 creeled
 catfish
 catfoot
-catfooted
 catgut
 catguts
 cath
@@ -26637,6 +26636,7 @@ counteractivity
 counteracts
 counterintelligence
 counteraddress
+catfooted
 counteradvance
 counteradvantage
 counteradvice
