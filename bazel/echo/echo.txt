@@ -6601,7 +6601,6 @@ enteradenological
 enteral
 enterally
 enterate
-enterclose
 enterectomy
 enterectomies
 exuviates
@@ -13835,6 +13834,7 @@ extradosed
 electrogalvanize
 electrotyper
 embololalia
+enterclose
 extradoses
 emory
 extradotal
