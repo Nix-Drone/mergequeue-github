@@ -4738,7 +4738,6 @@ ease
 enciphered
 enciphering
 encipherment
-evolutional
 encipherments
 epigean
 enciphers
@@ -6610,6 +6609,7 @@ ellipses
 empathizing
 enterers
 enterfeat
+evolutional
 entergogenic
 enteria
 etouffe
