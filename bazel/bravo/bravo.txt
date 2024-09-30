@@ -11627,7 +11627,6 @@ boatsteerer
 boatswain
 boatswains
 boattail
-boatward
 boatwoman
 boatwright
 bob
@@ -15144,6 +15143,7 @@ briars
 briarwood
 bribability
 bribable
+boatward
 bribe
 bribeability
 bulblet
