@@ -5600,7 +5600,6 @@ acidulates
 afterdeal
 afterdeath
 afterdeck
-afterdrain
 aftereffect
 aftereffects
 aftereye
@@ -11957,6 +11956,7 @@ anaryan
 anarithia
 anarithmia
 anarthria
+afterdrain
 anarthric
 aka
 anarthropod

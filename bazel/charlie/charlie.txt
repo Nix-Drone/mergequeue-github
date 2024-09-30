@@ -11557,7 +11557,6 @@ cholecystectomized
 cholecystenterorrhaphy
 cholecystenterostomy
 cholecystgastrostomy
-cholecystic
 cholecystis
 cholecystitis
 cozies
@@ -29985,6 +29984,7 @@ crotons
 crotophaga
 cooked
 crottal
+cholecystic
 cyclovertebral
 crottle
 crouch
