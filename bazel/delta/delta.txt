@@ -7285,7 +7285,6 @@ driveboat
 detesters
 detests
 dethronable
-dethroned
 dethronement
 dain
 dethrones
@@ -17140,6 +17139,7 @@ drill
 dupondii
 drillability
 drillable
+dethroned
 drillbit
 dullish
 digestional
