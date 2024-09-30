@@ -13392,7 +13392,6 @@ androgenic
 ankaratrite
 anker
 ankerhold
-ankerite
 ankerites
 ankh
 ankhs
@@ -24502,6 +24501,7 @@ auxanogram
 auxanometer
 auxeses
 auxesis
+ankerite
 auxetic
 auxil
 antacids
