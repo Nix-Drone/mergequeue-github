@@ -24137,7 +24137,6 @@ convertor
 convertors
 converts
 conveth
-convex
 convexedly
 convexedness
 convexes
@@ -29362,6 +29361,7 @@ crises
 chairperson
 crisic
 crisis
+convex
 crisle
 connach
 crisp
