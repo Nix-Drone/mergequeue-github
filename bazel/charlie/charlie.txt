@@ -3839,7 +3839,6 @@ carburet
 carburetant
 carbureted
 carburetest
-carbureting
 carburetion
 conformational
 carburetors
@@ -11319,6 +11318,7 @@ chlorodize
 chlorodized
 chlorodizing
 chloroethene
+carbureting
 chloroethylene
 chlorofluorocarbon
 chloroformate
