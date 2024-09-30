@@ -4604,7 +4604,6 @@ carped
 carpel
 carpellary
 carpellate
-carpellum
 cytinaceous
 carpenter
 carpentered
@@ -23264,6 +23263,7 @@ consumate
 caroli
 consumated
 consumating
+carpellum
 consume
 consumed
 consumedly
