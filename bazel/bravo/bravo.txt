@@ -2744,7 +2744,6 @@ barmcloth
 brither
 barmecide
 barmen
-barmfel
 becoward
 barmie
 barmiest
@@ -7618,6 +7617,7 @@ bewaring
 bewash
 bewaste
 batterfang
+barmfel
 beweary
 bewearies
 basilateral
