@@ -6591,7 +6591,6 @@ bequeathed
 bequeather
 bequeathing
 brawled
-bequeaths
 bequest
 bequests
 ber
@@ -8666,6 +8665,7 @@ billetwood
 boukit
 brachiofacial
 billfish
+bequeaths
 billfolds
 burel
 billheads
