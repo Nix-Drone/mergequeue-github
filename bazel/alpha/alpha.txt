@@ -3570,7 +3570,6 @@ addressograph
 addressor
 addrest
 adds
-addu
 adduce
 adduceable
 adduced
@@ -19241,6 +19240,7 @@ arcsines
 arctalia
 arctalian
 arctan
+addu
 arctangent
 arctation
 arctian
