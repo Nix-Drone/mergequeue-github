@@ -2111,7 +2111,6 @@ felicity
 felicities
 felicitous
 felid
-felidae
 felinae
 feline
 feru
@@ -4401,6 +4400,7 @@ fishlet
 fishlike
 furlough
 fishline
+felidae
 fishlines
 frondage
 fishling

@@ -6447,7 +6447,6 @@ ensnare
 ensnared
 explosive
 ensnarement
-ensnarer
 ensnarers
 ensnares
 evangelistic
@@ -10817,6 +10816,7 @@ eulachon
 eulalia
 eulamellibranchiata
 eulamellibranchiate
+ensnarer
 euler
 eulerian
 etrier
