@@ -2119,7 +2119,6 @@ campsite
 compasser
 campsites
 campstool
-campstools
 camptodrome
 camptonite
 camptosorus
@@ -28650,6 +28649,7 @@ crenic
 crenitic
 crenotherapy
 crenothrix
+campstools
 crenula
 crenulate
 crenulated
