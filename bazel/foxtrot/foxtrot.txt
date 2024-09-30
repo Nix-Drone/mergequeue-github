@@ -1845,7 +1845,6 @@ feature
 forthrightly
 featured
 featureful
-featurelessness
 featurely
 featureliness
 flywheel
@@ -8496,6 +8495,7 @@ fluid
 faultless
 fluencies
 formolite
+featurelessness
 forewarned
 formols
 formonitrile
