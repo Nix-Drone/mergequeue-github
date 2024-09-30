@@ -3759,7 +3759,6 @@ convalescent
 collatress
 carboniferous
 carbonify
-carbonification
 carbonyl
 carbonylated
 carbonylating
@@ -10099,6 +10098,7 @@ choices
 cheskeys
 cheslep
 chesoun
+carbonification
 chess
 chessart
 chessboard
