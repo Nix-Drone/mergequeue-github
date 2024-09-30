@@ -3588,7 +3588,6 @@ bather
 bathers
 bathes
 bathetically
-bathflower
 bathhouse
 bathhouses
 bathyal
@@ -6565,6 +6564,7 @@ bepimples
 bepimpling
 blastide
 bepinch
+bathflower
 bepity
 bassanello
 bepray
