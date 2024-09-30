@@ -1162,7 +1162,6 @@ ganglioplexus
 gentile
 gangman
 gangmaster
-gangplank
 gangplows
 glycerine
 gonimous
@@ -8688,6 +8687,7 @@ greenish
 gravy
 grutten
 greenkeeper
+gangplank
 greenkeeping
 ghostliness
 greenland
