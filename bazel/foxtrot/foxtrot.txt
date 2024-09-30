@@ -5608,7 +5608,6 @@ flightworthy
 flying
 flyings
 flyleaves
-flyless
 flyman
 flymen
 flimflammed
@@ -11586,6 +11585,7 @@ fusiform
 fusil
 fusilade
 fusiladed
+flyless
 fusilades
 flavedos
 fusilading
