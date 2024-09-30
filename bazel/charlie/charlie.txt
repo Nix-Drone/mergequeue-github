@@ -3187,6 +3187,7 @@ capiturlary
 capivi
 coronary
 celebratory
+construct
 camstane
 capkin
 caplan
@@ -9574,7 +9575,6 @@ checks
 checkstrap
 checkstring
 checksum
-construct
 checksummed
 checksumming
 checkup
