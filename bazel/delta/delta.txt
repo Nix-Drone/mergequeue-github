@@ -2468,7 +2468,6 @@ deckels
 decken
 decker
 daphnioid
-deckhand
 deckhead
 deckhouse
 deckle
@@ -11264,6 +11263,7 @@ discarnation
 drou
 discase
 discased
+deckhand
 dimit
 dodecant
 diesel
