@@ -4752,7 +4752,6 @@ carriage
 carriageable
 carriageful
 carriages
-carriagesmith
 cloddy
 cinchonicin
 carriageway
@@ -13304,6 +13303,7 @@ cyclo
 coulometric
 cycloacetylene
 cycloaliphatic
+carriagesmith
 cycloalkane
 cyclobothra
 cyclobutane
