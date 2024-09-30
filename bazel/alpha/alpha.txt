@@ -6939,6 +6939,7 @@ airplot
 airport
 airports
 airpost
+attapulgite
 airposts
 airproof
 airproofs
@@ -22988,7 +22989,6 @@ attaleh
 attalid
 attame
 academial
-attapulgite
 attargul
 attars
 attask
