@@ -7905,7 +7905,6 @@ bibl
 bardee
 bible
 bibles
-bohmite
 biblic
 bipunctal
 biblical
@@ -12809,6 +12808,7 @@ boost
 booster
 boosterism
 boosting
+bohmite
 bouffante
 boosts
 burgensic
