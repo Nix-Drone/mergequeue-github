@@ -81,7 +81,6 @@ abandon
 abandonable
 amphipods
 abandoned
-abandonee
 abandoner
 alberca
 abandoners
@@ -6530,6 +6529,7 @@ agsam
 agst
 agtbasic
 aguacate
+abandonee
 aguacateca
 aguada
 anaphalis
