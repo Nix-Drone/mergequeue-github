@@ -4983,7 +4983,6 @@ aerogun
 aerohydrodynamic
 aerohydropathy
 automorphic
-aerohydroplane
 aerohydrotherapy
 archdapifership
 autophotometry
@@ -12758,6 +12757,7 @@ angiography
 angiographic
 angiohemophilia
 angiohyalinosis
+aerohydroplane
 angiohypertonia
 angiohypotonia
 angioid
