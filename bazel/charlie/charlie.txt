@@ -15372,7 +15372,6 @@ clamp
 clampdown
 clamped
 curricularization
-clamper
 clampers
 clamping
 clamps
@@ -17211,6 +17210,7 @@ coaming
 coamings
 coan
 cotangential
+clamper
 coanimate
 coannexed
 coannexes
