@@ -498,7 +498,6 @@ galeod
 galeodes
 ganglia
 galeodidae
-galeoid
 gnapweed
 galeopsis
 glossoncus
@@ -3918,6 +3917,7 @@ goyle
 glave
 gibsons
 gibstaff
+galeoid
 gibus
 gibuses
 giddap
