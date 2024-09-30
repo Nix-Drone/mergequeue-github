@@ -3596,6 +3596,7 @@ francophobe
 fineries
 flagmaking
 filcher
+function
 faventine
 filching
 filchingly
@@ -9209,7 +9210,6 @@ fracas
 fracases
 frusta
 frache
-function
 fracid
 fouls
 forklike
