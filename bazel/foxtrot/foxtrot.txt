@@ -3622,7 +3622,6 @@ frailly
 filesmith
 filesniff
 flagships
-filespec
 forficula
 fossores
 fileting
@@ -7961,6 +7960,7 @@ foresend
 faience
 foremanship
 foresentence
+filespec
 foreset
 foresettled
 foreshadow
