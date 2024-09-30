@@ -2458,7 +2458,6 @@ exacinate
 electrohydraulically
 electrohomeopathy
 embassador
-electroimpulse
 electroindustrial
 electroing
 electroionic
@@ -10324,6 +10323,7 @@ ethylamide
 ethylamime
 estus
 ethylamine
+electroimpulse
 ethylate
 ethylated
 enregister
