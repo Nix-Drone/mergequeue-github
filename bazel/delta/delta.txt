@@ -2642,7 +2642,6 @@ decolours
 decommission
 decommissioned
 dumbbeller
-decommissioning
 decommissions
 deepens
 decompensate
@@ -13818,6 +13817,7 @@ distillator
 distillatory
 deflagrations
 distilled
+decommissioning
 durwan
 distiller
 distillery
