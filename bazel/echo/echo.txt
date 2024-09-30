@@ -2064,7 +2064,6 @@ elaenia
 elaeoblast
 elaeoblastic
 elaeocarpaceae
-elaeocarpus
 elaeococca
 elaeodendron
 elaeodochon
@@ -9125,6 +9124,7 @@ ensampler
 erythraea
 erythraean
 erythraemia
+elaeocarpus
 entreatable
 erythrasma
 erythrean
