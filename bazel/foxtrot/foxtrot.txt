@@ -833,7 +833,6 @@ fanion
 flusher
 furtiveness
 footlike
-fanioned
 fortes
 fanions
 fosters
@@ -6624,6 +6623,7 @@ forestick
 foam
 foambow
 foamed
+fanioned
 fluotitanate
 frounce
 feebler
