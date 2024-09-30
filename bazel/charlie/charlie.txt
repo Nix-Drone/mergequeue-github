@@ -5779,7 +5779,6 @@ chemung
 caterans
 caterbrawl
 catercap
-catercorner
 catercornered
 catercornerways
 catercousin
@@ -21583,6 +21582,7 @@ condensation
 condensator
 crateris
 condense
+catercorner
 condensed
 condensedly
 condensedness
