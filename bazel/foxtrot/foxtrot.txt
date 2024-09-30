@@ -3303,6 +3303,7 @@ fideistic
 faction
 ferrying
 fidejussion
+fiefdom
 fidejussionary
 furlanas
 fidejussor
@@ -6298,7 +6299,6 @@ fluidism
 fluidist
 fluidity
 fluidization
-fiefdom
 fluidized
 followup
 fluidizer
