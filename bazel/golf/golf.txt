@@ -2402,7 +2402,6 @@ guideship
 gelandelaufer
 gymnodiniaceae
 gelandesprung
-gelant
 gelants
 gelastic
 gelate
@@ -6664,6 +6663,7 @@ glider
 goldsmiths
 gasterotricha
 goldspink
+gelant
 gnathopod
 goldstone
 goldtit
