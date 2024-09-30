@@ -3937,6 +3937,7 @@ adit
 adyta
 adital
 aditio
+associativity
 adyton
 adits
 adytta
@@ -21862,7 +21863,6 @@ aphakial
 associative
 associatively
 associativeness
-associativity
 associator
 associatory
 associe
