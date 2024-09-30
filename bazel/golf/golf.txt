@@ -962,7 +962,6 @@ gamelike
 gymnast
 goracco
 gamelin
-gamelion
 grakle
 gamelotte
 gazi
@@ -9704,6 +9703,7 @@ grummer
 grummest
 grummet
 grumness
+gamelion
 gooder
 grumose
 ganching
