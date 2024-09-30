@@ -9932,7 +9932,6 @@ chemosorb
 chemosorption
 chemosorptive
 chemosphere
-chemospheric
 christenhead
 chemostat
 collateral
@@ -15592,6 +15591,7 @@ classable
 classbook
 classed
 classer
+chemospheric
 classers
 classfellow
 classy
