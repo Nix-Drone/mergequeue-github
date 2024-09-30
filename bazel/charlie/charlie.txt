@@ -7152,7 +7152,6 @@ centraxonial
 centre
 centreboard
 centrechinoida
-centred
 centref
 centrefold
 centreless
@@ -25519,6 +25518,7 @@ coronograph
 coronographic
 canvasman
 coronoid
+centred
 coronopus
 coronule
 coroparelcysis
