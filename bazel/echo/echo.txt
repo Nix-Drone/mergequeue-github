@@ -2345,7 +2345,6 @@ evasion
 electroceramic
 electrochemical
 electrochemically
-electrochemistry
 electrochronometer
 equison
 electrochronometric
@@ -4920,6 +4919,7 @@ encushion
 end
 endable
 endamage
+electrochemistry
 endamageable
 endamagement
 endamages
