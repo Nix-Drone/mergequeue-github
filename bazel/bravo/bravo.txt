@@ -5672,7 +5672,6 @@ beleapt
 beleave
 belection
 belecture
-beledgered
 belee
 beleed
 belemnid
@@ -10301,6 +10300,7 @@ blanch
 blanche
 blanched
 blancher
+beledgered
 blanchers
 blanches
 blanchimeter
