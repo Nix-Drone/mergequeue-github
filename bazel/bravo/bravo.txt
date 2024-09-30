@@ -2191,7 +2191,6 @@ bans
 bansalague
 bansela
 banshies
-banstickle
 bantay
 bantayan
 bidstand
@@ -10201,6 +10200,7 @@ boogaloo
 blackthorns
 blacktongue
 blacktopped
+banstickle
 breechloader
 blacktopping
 blacktops
