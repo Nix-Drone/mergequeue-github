@@ -13529,7 +13529,6 @@ boulterer
 bounce
 bounceable
 bounceably
-beslipper
 bounceback
 bounced
 bouncer
@@ -13873,6 +13872,7 @@ boxkeeper
 boxlike
 boxmaker
 bicycloheptane
+beslipper
 boxman
 booky
 boxroom
