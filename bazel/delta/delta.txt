@@ -7110,7 +7110,6 @@ desuperheater
 desuvre
 det
 detach
-detachable
 detachableness
 detachably
 detache
@@ -9591,6 +9590,7 @@ disulphonic
 daemonian
 dihydrite
 dihydrochloride
+detachable
 dihydrocuprin
 dollyman
 dihydroergotamine
