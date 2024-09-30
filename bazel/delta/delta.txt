@@ -1600,7 +1600,6 @@ dealkylation
 deallocate
 deallocated
 daunter
-deallocates
 deallocating
 designating
 deresinize
@@ -17727,6 +17726,7 @@ dubbin
 dubbing
 discriminable
 dubbins
+deallocates
 dubhgall
 dubiety
 dubieties
