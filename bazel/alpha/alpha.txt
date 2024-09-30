@@ -376,7 +376,6 @@ asg
 abhominable
 abhor
 archoplasma
-abhorrence
 abhorrency
 abhorrent
 aflicker
@@ -3586,6 +3585,7 @@ auriculo
 adduct
 adducted
 adducting
+abhorrence
 adduction
 adductor
 agcy
