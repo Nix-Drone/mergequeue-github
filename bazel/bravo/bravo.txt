@@ -2649,6 +2649,7 @@ barish
 barysilite
 barit
 baryta
+breakfront
 barebacked
 bloodlike
 barytas
@@ -15949,7 +15950,6 @@ bromothymol
 bromouracil
 bromphenol
 brompicrin
-breakfront
 bromus
 bromvoel
 bronc
