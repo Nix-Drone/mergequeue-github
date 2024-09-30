@@ -6715,7 +6715,6 @@ fofarraw
 flanger
 fog
 fogbank
-fogbound
 fogbow
 flyblow
 fogdogs
@@ -10826,6 +10825,7 @@ fuchsine
 fuchsinophil
 fuchsinophilous
 forefeeling
+fogbound
 furfurole
 fuchsins
 friends
