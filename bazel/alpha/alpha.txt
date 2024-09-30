@@ -1803,7 +1803,6 @@ accumulator
 accupy
 accur
 accuracy
-accuracies
 accurately
 approvement
 affliction
@@ -23277,6 +23276,7 @@ allophanamide
 aucupate
 acrostics
 audace
+accuracies
 audacious
 ampalea
 alighten
