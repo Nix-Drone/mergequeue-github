@@ -5987,7 +5987,6 @@ dysmerism
 deprivable
 deprival
 disprofit
-deprivals
 deprivate
 deprivation
 deprive
@@ -14446,6 +14445,7 @@ dematerialization
 divisively
 divisiveness
 discriminous
+deprivals
 divisor
 divisory
 dondine
