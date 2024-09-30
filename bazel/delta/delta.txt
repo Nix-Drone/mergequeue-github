@@ -6849,7 +6849,6 @@ desoxycorticosterone
 desoxyephedrine
 desoxymorphine
 desoxyribonucleic
-desoxyribonucleoprotein
 desoxyribose
 despair
 doomful
@@ -10875,6 +10874,7 @@ disabilities
 disable
 disabled
 doorplates
+desoxyribonucleoprotein
 disablement
 doldrums
 disableness
