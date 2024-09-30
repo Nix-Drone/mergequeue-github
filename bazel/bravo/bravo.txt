@@ -9547,6 +9547,7 @@ birthright
 bundling
 birthrights
 birthroot
+bisector
 births
 birthstone
 bristletail
@@ -9601,7 +9602,6 @@ bisecting
 bisection
 bisectional
 bisections
-bisector
 bisectors
 bisectrices
 busybodyness
