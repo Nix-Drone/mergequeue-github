@@ -11071,7 +11071,6 @@ disarms
 disarray
 disarrays
 dodgasted
-disarrange
 disarranged
 disarrangement
 disarranger
@@ -15367,6 +15366,7 @@ dominators
 dif
 domine
 domineer
+disarrange
 domineered
 domineerer
 distinguishing
