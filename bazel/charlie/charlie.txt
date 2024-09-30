@@ -22141,7 +22141,6 @@ confusability
 confusably
 confused
 confusedly
-confusedness
 confuser
 confuses
 confusing
@@ -28005,6 +28004,7 @@ crampedness
 cramper
 crampette
 crampfish
+confusedness
 crampfishes
 crampy
 cramping
