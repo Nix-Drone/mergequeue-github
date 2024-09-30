@@ -1825,7 +1825,6 @@ erpetologist
 eyeseed
 eyeservant
 enfranchisement
-eyeserver
 eyeservice
 eyeshade
 eyeshield
@@ -6438,6 +6437,7 @@ enslavedness
 enslavements
 enslaver
 enslavers
+eyeserver
 enslaves
 espave
 enslaving
