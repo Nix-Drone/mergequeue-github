@@ -4102,7 +4102,6 @@ beaks
 beal
 beala
 bealach
-beallach
 bealtared
 bealtine
 bom
@@ -17600,6 +17599,7 @@ boltholes
 boehmenist
 burelly
 buret
+beallach
 burets
 burette
 burettes
