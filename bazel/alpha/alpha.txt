@@ -3941,7 +3941,6 @@ adyton
 adits
 adytta
 adytum
-aditus
 adj
 adjacence
 adjacency
@@ -17236,6 +17235,7 @@ apogon
 apogonid
 apogonidae
 apograph
+aditus
 apographic
 apographical
 apohyal
