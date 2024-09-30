@@ -2220,7 +2220,6 @@ felspars
 friendlily
 felspath
 felspathose
-felstone
 framers
 farmhouses
 felt
@@ -8092,6 +8091,7 @@ flowerets
 forestwards
 foresummon
 foreswear
+felstone
 foreswearing
 funkiest
 foresweat
