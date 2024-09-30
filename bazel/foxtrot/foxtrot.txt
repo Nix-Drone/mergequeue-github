@@ -1086,6 +1086,7 @@ farmership
 farmhold
 farmhouse
 feronia
+foison
 farmhousey
 fontinalaceae
 fuzzle
@@ -6786,7 +6787,6 @@ furiously
 farsightedly
 furthersome
 foysen
-foison
 foisonless
 foisons
 flaughts
