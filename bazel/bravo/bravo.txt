@@ -3626,7 +3626,6 @@ babesiasis
 bathyplankton
 buglers
 baygall
-bathyscaph
 bathyscaphes
 bathyseism
 bathysmal
@@ -13334,6 +13333,7 @@ botone
 botonee
 botony
 botonn
+bathyscaph
 brushing
 botonnee
 blastomycosis
