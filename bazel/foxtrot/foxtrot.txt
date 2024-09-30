@@ -5080,6 +5080,7 @@ fanterie
 flask
 ferricyanhydric
 flasker
+foretake
 foretooth
 faecal
 flasklet
@@ -8703,7 +8704,6 @@ freed
 forthputting
 forthright
 fetches
-foretake
 forthset
 fadges
 frickle
