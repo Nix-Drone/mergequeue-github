@@ -1187,7 +1187,6 @@ gloater
 gangue
 garotte
 gangues
-geogenous
 gangway
 grenadilla
 gangwayed
@@ -2215,6 +2214,7 @@ gazer
 gazers
 gazettal
 gazette
+geogenous
 gazetted
 gazetteerish
 gazetteers
