@@ -6590,7 +6590,6 @@ cedrine
 cedrium
 cedrol
 cedron
-centibar
 cedrus
 cedula
 cee
@@ -16691,6 +16690,7 @@ clapbread
 clote
 chaquetas
 cloth
+centibar
 clothe
 clothed
 clothes
