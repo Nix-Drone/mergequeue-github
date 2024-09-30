@@ -1479,6 +1479,7 @@ deacons
 deaconship
 deactivate
 deactivated
+disobeying
 deactivates
 discontinuing
 dicranoid
@@ -12803,7 +12804,6 @@ disobeyal
 disobeyed
 drawspan
 disobeyers
-disobeying
 disobligation
 demobilised
 disobligatory
