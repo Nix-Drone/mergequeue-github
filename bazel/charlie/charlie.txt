@@ -11034,6 +11034,7 @@ chis
 chiseled
 curuba
 chiseler
+counterstand
 chiselers
 chiseling
 commoned
@@ -27089,7 +27090,6 @@ countersnarl
 counterspy
 counterspies
 counterspying
-counterstand
 counterstatant
 counterstatement
 counterstep
