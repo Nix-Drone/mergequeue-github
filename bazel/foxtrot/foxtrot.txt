@@ -4352,6 +4352,7 @@ fishboat
 fishbolt
 fishbolts
 falchions
+foresworn
 fishbowls
 fisheater
 fisheye
@@ -6798,7 +6799,6 @@ foisted
 foisty
 foistiness
 foists
-foresworn
 foiter
 fokker
 fol
