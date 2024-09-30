@@ -2469,7 +2469,6 @@ fermatas
 fermate
 fleshed
 ferme
-familarity
 fullymart
 forespeed
 ferment
@@ -4910,6 +4909,7 @@ flintlocks
 finfishes
 flamer
 flamers
+familarity
 ferneries
 fallback
 flamethrowers
