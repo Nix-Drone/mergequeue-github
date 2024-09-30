@@ -12241,7 +12241,6 @@ boltuprightness
 boltwork
 bolus
 boluses
-benn
 bomb
 bombable
 bombacaceae
@@ -15684,6 +15683,7 @@ broadsides
 broadsiding
 broadspread
 broadsword
+benn
 broadtail
 boolies
 broadthroat
