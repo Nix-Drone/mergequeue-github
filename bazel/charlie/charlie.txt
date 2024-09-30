@@ -7534,7 +7534,6 @@ cercocebus
 cercolabes
 cercolabidae
 cercomonad
-cercomonadidae
 cercopid
 continent
 cercopidae
@@ -19134,6 +19133,7 @@ colloq
 colloque
 colloquia
 colloquial
+cercomonadidae
 colloquialism
 colloquialisms
 colloquialist
