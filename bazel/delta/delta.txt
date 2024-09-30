@@ -4155,6 +4155,7 @@ delimited
 delimiter
 delimiters
 delimiting
+demode
 displumed
 delimitize
 delimitized
@@ -4817,7 +4818,6 @@ democratizing
 democrats
 democraw
 democritean
-demode
 demodectic
 dejected
 demodex
