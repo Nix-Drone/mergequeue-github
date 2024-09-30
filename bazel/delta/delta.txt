@@ -470,6 +470,7 @@ daystars
 daystreak
 daytide
 daytime
+dhan
 daytimes
 daiva
 dobbed
@@ -7969,7 +7970,6 @@ dimension
 dhaman
 dhamnoo
 dynamist
-dhan
 dhanuk
 dhanush
 duetto
