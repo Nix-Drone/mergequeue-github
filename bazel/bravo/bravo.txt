@@ -2251,7 +2251,6 @@ baptistries
 baptizable
 baptized
 baptizement
-baptizer
 baptizers
 buggyman
 baptizing
@@ -8272,6 +8271,7 @@ bifacial
 bifara
 bedress
 bifarious
+baptizer
 bifariously
 biff
 biffies
