@@ -8828,7 +8828,6 @@ chaperno
 chaperon
 chaperonage
 chaperone
-chaperoned
 chaperonless
 chaperons
 chapes
@@ -23762,6 +23761,7 @@ contrapuntally
 contrapuntist
 contrapunto
 contrarational
+chaperoned
 contraregular
 contraregularity
 contraremonstrance
