@@ -2238,7 +2238,6 @@ feltmonger
 felts
 feltwort
 felucca
-felwort
 fogramite
 fem
 femaleness
@@ -6692,6 +6691,7 @@ forenotice
 foemanship
 foemen
 formicative
+felwort
 foenngreek
 flysch
 fairgrounds
