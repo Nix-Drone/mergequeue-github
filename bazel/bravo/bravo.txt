@@ -1594,7 +1594,6 @@ ballfield
 ballflower
 ballgame
 ballgames
-ballgowns
 ballhausplatz
 ballhawk
 ballhawks
@@ -9018,6 +9017,7 @@ biogeochemistry
 biogeographer
 biogeography
 biogeographic
+ballgowns
 biogeographical
 biogeographically
 biographee
