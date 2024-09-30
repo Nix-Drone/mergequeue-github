@@ -8395,6 +8395,7 @@ formalness
 fetid
 fireblende
 fricatives
+fascias
 formamide
 formamidine
 formamidoxime
@@ -11091,7 +11092,6 @@ folderol
 fumous
 fumuli
 fungated
-fascias
 fumulus
 fun
 filles
