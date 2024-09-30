@@ -7265,7 +7265,6 @@ gortonite
 gos
 goschen
 goshawk
-gorefish
 goshenite
 goslarite
 goslet
@@ -9111,6 +9110,7 @@ gripers
 gripgrass
 griphite
 gooral
+gorefish
 golee
 gentisein
 gryphon
