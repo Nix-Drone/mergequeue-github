@@ -9134,6 +9134,7 @@ auricular
 almsfolk
 almsful
 almsgiver
+aristarch
 almsgiving
 almshouse
 albertype
@@ -11559,7 +11560,6 @@ anacrotism
 anacruses
 anacrusis
 anacrustic
-aristarch
 anaculture
 anacusia
 anacusic
