@@ -2026,7 +2026,6 @@ campesino
 campestral
 campestrian
 cordelier
-campfight
 campfires
 campground
 canful
@@ -26295,6 +26294,7 @@ cosuretyship
 collisional
 cosustain
 coswearer
+campfight
 cot
 cotabulate
 carya
