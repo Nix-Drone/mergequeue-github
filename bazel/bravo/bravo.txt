@@ -3800,6 +3800,7 @@ battledores
 baldly
 boyar
 battledoring
+bookworms
 borehole
 battlefront
 battlefronts
@@ -12726,7 +12727,6 @@ bookward
 bookwards
 biddy
 bookworm
-bookworms
 bucketeer
 bookwright
 bool
