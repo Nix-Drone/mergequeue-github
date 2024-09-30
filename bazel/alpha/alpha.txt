@@ -4816,7 +4816,6 @@ aeolistic
 aeolodion
 aeolomelodicon
 aeolotropy
-aeolotropic
 aureate
 aeolsklavier
 aeolus
@@ -5075,6 +5074,7 @@ aeroscope
 aeroscopy
 aeroscopically
 aerose
+aeolotropic
 aerosiderolite
 amphib
 aerosol
