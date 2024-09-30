@@ -5931,7 +5931,6 @@ flook
 floorages
 forgottenness
 floorboard
-floorcloth
 fala
 forevermore
 frigidity
@@ -7271,6 +7270,7 @@ footstick
 footstock
 fortlet
 footstools
+floorcloth
 fleeches
 footways
 footwalk
