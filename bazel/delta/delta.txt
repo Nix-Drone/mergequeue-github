@@ -7154,7 +7154,6 @@ detax
 detd
 detect
 detectability
-daishiki
 detected
 detecter
 detecters
@@ -10561,6 +10560,7 @@ diplogenic
 documented
 diplographical
 diplohedral
+daishiki
 diazoles
 dishwater
 diplohedron
