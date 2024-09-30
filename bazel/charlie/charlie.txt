@@ -22454,7 +22454,6 @@ conjoinedly
 conjoiner
 conjoining
 conjointly
-conjointment
 conjointness
 conjoints
 conjon
@@ -25275,6 +25274,7 @@ cornbind
 corticospinal
 cornbinks
 coidentity
+conjointment
 cornbird
 chaplainship
 cornbole
