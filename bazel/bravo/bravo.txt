@@ -8253,7 +8253,6 @@ boosters
 byepath
 bier
 broid
-bierbalk
 blest
 byerite
 bierkeller
@@ -11435,6 +11434,7 @@ blume
 blumea
 blumed
 blumes
+bierbalk
 brinjaul
 blunder
 benighting

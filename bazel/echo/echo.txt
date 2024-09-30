@@ -1017,7 +1017,6 @@ edaphon
 edaphosauria
 edaphosaurid
 edaphosaurus
-edda
 explosibility
 eddaic
 edder
@@ -2440,6 +2439,7 @@ electrofusion
 ethanol
 electrogalvanization
 electrogenetic
+edda
 epichlorohydrin
 electrogenic
 etherialism
