@@ -7263,7 +7263,6 @@ grayware
 gortonian
 gortonite
 gos
-goschen
 goshawk
 gorefish
 goshenite
@@ -10231,6 +10230,7 @@ geldable
 guiltsick
 guimbard
 guimpe
+goschen
 guimpes
 gouging
 guinde
