@@ -4191,6 +4191,7 @@ cestracion
 caret
 caretake
 caretaker
+cowslip
 caretakers
 cattie
 caretaking
@@ -27660,7 +27661,6 @@ cowshot
 cowshut
 cowskin
 countercommand
-cowslip
 cowslipped
 cowslips
 cowson
