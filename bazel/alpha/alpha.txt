@@ -12059,7 +12059,6 @@ anatomicochirurgical
 anatomicomedical
 anatomicopathologic
 anatomicopathological
-acronyms
 anatomicophysiologic
 arteriofibrosis
 anatomies
@@ -16361,6 +16360,7 @@ arthrocace
 antitheology
 antitheologizing
 antithermic
+acronyms
 antithermin
 antithetic
 antithetical
