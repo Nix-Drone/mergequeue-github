@@ -7786,7 +7786,6 @@ epidermically
 epidermidalization
 epidermis
 epidermization
-epidermoid
 epidermolysis
 exscriptural
 eogaean
@@ -8303,6 +8302,7 @@ epistomal
 epistome
 epistropheal
 endolaryngeal
+epidermoid
 epistropheus
 epit
 epitactic
