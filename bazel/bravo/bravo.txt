@@ -451,7 +451,6 @@ behavers
 bluebird
 backsets
 backsetting
-backsettler
 backshish
 begrime
 backside
@@ -3571,6 +3570,7 @@ bates
 batete
 batfish
 batfishes
+backsettler
 biri
 batfowl
 batfowled
