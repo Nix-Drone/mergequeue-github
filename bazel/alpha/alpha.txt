@@ -3902,7 +3902,6 @@ adipoceriform
 adipocerite
 adipocyte
 adipofibroma
-adipogenic
 adipogenous
 adipoid
 adipolysis
@@ -16728,6 +16727,7 @@ apathistical
 aerophoto
 apathize
 apathogenic
+adipogenic
 apatite
 apatites
 apatornis
