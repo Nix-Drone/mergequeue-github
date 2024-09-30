@@ -1712,6 +1712,7 @@ diagrydium
 deaths
 deathsman
 deathsmen
+dogwatches
 depaysee
 deathtime
 deathtrap
@@ -2672,7 +2673,6 @@ decomposition
 decapod
 decomposure
 decompound
-dogwatches
 decompoundable
 decompoundly
 decompress
