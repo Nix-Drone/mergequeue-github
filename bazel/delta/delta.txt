@@ -6562,7 +6562,6 @@ desegregating
 desegregation
 duststorm
 deselected
-deselecting
 deselects
 datums
 desemer
@@ -7375,6 +7374,7 @@ driblet
 distalia
 detruding
 detruncate
+deselecting
 detruncating
 detruncation
 damneder
