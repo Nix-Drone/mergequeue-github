@@ -4476,7 +4476,6 @@ encake
 encalendar
 encamping
 encampment
-encampments
 encamps
 endoparasite
 essene
@@ -13609,6 +13608,7 @@ exotery
 extermination
 exterminative
 exterminator
+encampments
 exterminatory
 exoticalness
 exterminators
