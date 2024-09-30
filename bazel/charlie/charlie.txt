@@ -9253,6 +9253,7 @@ chastiment
 chastisable
 chastise
 chastised
+credulity
 chastiser
 chastisers
 clapperboard
@@ -28517,7 +28518,6 @@ crustaceans
 chirred
 credo
 credos
-credulity
 credulities
 credulous
 credulousness
