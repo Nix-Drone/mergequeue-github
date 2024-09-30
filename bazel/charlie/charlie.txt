@@ -1983,7 +1983,6 @@ campaniform
 campanile
 campaniles
 campanili
-campaniliform
 campanini
 campanist
 campanistic
@@ -27489,6 +27488,7 @@ covertness
 coverts
 coverup
 circularizer
+campaniliform
 cadency
 coves
 covet
