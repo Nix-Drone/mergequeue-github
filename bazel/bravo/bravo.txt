@@ -1568,7 +1568,6 @@ ballaster
 ballastic
 ballasting
 ballat
-ballata
 ballate
 ballaton
 ballatoon
@@ -15988,6 +15987,7 @@ baghouse
 benamed
 bronchography
 bronchographic
+ballata
 bronchohemorrhagia
 broncholemmitis
 broncholith
