@@ -798,7 +798,6 @@ gugglet
 galvanizer
 galvanizers
 gujar
-galvanizes
 galvanizing
 galvanocautery
 galvanocauteries
@@ -4500,6 +4499,7 @@ glarily
 glaive
 ginhound
 ginhouse
+galvanizes
 gyniatrics
 gyniatries
 gynic
