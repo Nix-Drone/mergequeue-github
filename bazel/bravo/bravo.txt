@@ -4600,7 +4600,6 @@ becurry
 bondland
 becurse
 becursed
-becurses
 becursing
 becurst
 becurtained
@@ -6442,6 +6441,7 @@ bisectrix
 benzoates
 benzoazurine
 benzobis
+becurses
 benzocaine
 benzocoumaran
 businesswomen
