@@ -4905,7 +4905,6 @@ cartons
 cartoon
 cartoonist
 cartoonists
-condors
 cartoons
 cartop
 cartopper
@@ -8621,6 +8620,7 @@ cyetic
 chancewise
 chanche
 chitties
+condors
 chanchito
 chancy
 cavalla
