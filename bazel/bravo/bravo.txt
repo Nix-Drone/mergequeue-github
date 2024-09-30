@@ -757,7 +757,6 @@ baddock
 bade
 badenite
 badge
-badgeless
 berrendo
 badgeman
 barrels
@@ -5914,6 +5913,7 @@ bellwether
 bellwind
 bellwine
 bellwood
+badgeless
 bellwort
 beloam
 blastoidea
