@@ -12252,7 +12252,6 @@ byrls
 bombarded
 bushfighter
 bombardelle
-baetylic
 bombarder
 bombardier
 bombardiers
@@ -13837,6 +13836,7 @@ bowstrung
 bowtel
 brichen
 bowtell
+baetylic
 bowwow
 bowwows
 box
