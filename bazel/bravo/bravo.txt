@@ -3043,7 +3043,6 @@ barstool
 barstools
 bart
 bartend
-bartended
 betrayer
 bartender
 bess
@@ -4454,6 +4453,7 @@ becharming
 byssuses
 bechase
 bechatter
+bartended
 bechauffeur
 blockishness
 beche
