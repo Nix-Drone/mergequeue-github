@@ -5526,7 +5526,6 @@ deoppilation
 deorganization
 divaricate
 deorganize
-deorientalize
 deorsum
 deorsumvergence
 deorsumversion
@@ -5719,6 +5718,7 @@ depigmentize
 depilate
 dagassa
 depilated
+deorientalize
 deadlocked
 depilates
 depilating
