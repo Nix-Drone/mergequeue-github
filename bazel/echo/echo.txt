@@ -2504,7 +2504,6 @@ electromagnetist
 escalloping
 electromagnets
 electromassage
-electromechanical
 electromechanics
 electromedical
 esquireship
@@ -6924,6 +6923,7 @@ eightsmen
 entomophthorous
 entomosporium
 endangered
+electromechanical
 effluents
 entomostraca
 entomostracan
