@@ -1770,7 +1770,6 @@ goriest
 gastrocoloptosis
 gastrocolostomy
 gastrocolotomy
-gastrodermal
 glutaraldehyde
 gastrodermis
 gestations
@@ -8143,6 +8142,7 @@ grapeshot
 gelatinizing
 grapeskin
 grapestalk
+gastrodermal
 grapevines
 grapewise
 graphalloy
