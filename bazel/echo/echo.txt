@@ -1829,7 +1829,6 @@ eyeserver
 eyeservice
 eyeshade
 eyeshield
-equvalent
 eyeshine
 eyeshot
 enumerated
@@ -5618,6 +5617,7 @@ enforcibility
 enforcingly
 enforcively
 enforest
+equvalent
 enfork
 embassage
 enform
