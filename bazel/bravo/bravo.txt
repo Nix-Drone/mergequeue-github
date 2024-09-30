@@ -10116,7 +10116,6 @@ blackfly
 blackflies
 bibasic
 bassing
-blackfriars
 blackguard
 bos
 blackguardize
@@ -14390,6 +14389,7 @@ brakeage
 brakeages
 braked
 brakehead
+blackfriars
 brakeless
 brakeload
 brakemaker
