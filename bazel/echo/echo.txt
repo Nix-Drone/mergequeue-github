@@ -1133,7 +1133,6 @@ earock
 edificatory
 edifice
 embolomeri
-edificed
 edifices
 equilibrating
 edificial
@@ -2393,6 +2392,7 @@ electrodepositor
 escalation
 electrodes
 electrodesiccation
+edificed
 electrodiagnosis
 entoblast
 electrodiagnostic
