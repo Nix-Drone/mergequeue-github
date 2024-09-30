@@ -1868,7 +1868,6 @@ endotheliolytic
 eyewinker
 englishing
 eigenfrequency
-eigenvalue
 ergatogyny
 eigenvalues
 eigenvectors
@@ -10721,6 +10720,7 @@ epistolography
 eudaemons
 eudaimonia
 eductions
+eigenvalue
 eudaimonism
 eudaimonist
 eudemian
