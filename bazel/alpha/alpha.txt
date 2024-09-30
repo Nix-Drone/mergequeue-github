@@ -16862,7 +16862,6 @@ acounter
 apheses
 adumbrate
 antiphoner
-aphesis
 apheta
 accidentals
 aphetic
@@ -23821,6 +23820,7 @@ accordant
 authoriser
 authorish
 abactinally
+aphesis
 authorising
 authoritarian
 authoritarianism
