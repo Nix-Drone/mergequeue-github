@@ -84,7 +84,6 @@ epicalyces
 earmuff
 earmuffs
 earn
-earnable
 earned
 earner
 earnest
@@ -10473,6 +10472,7 @@ ethnologists
 ethnomanic
 ethnomusicological
 existant
+earnable
 elytra
 ethnomusicologist
 ethnopsychology
