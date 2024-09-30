@@ -921,7 +921,6 @@ flavor
 fantom
 fanums
 fanweed
-fanwise
 fanwork
 forefront
 fanworts
@@ -4299,6 +4298,7 @@ fibulare
 firmly
 firmness
 firmnesses
+fanwise
 feelingless
 firms
 firmware
