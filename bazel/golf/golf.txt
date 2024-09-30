@@ -500,7 +500,6 @@ ganglia
 galeodidae
 galeoid
 gnapweed
-galeopsis
 glossoncus
 galeorchis
 goner
@@ -9112,6 +9111,7 @@ gripgrass
 griphite
 gooral
 golee
+galeopsis
 gentisein
 gryphon
 gryphons
