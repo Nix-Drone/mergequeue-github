@@ -2917,7 +2917,6 @@ cantred
 cantref
 cantrip
 cantrips
-coveting
 cantus
 cantut
 cantuta
@@ -6708,6 +6707,7 @@ celibatic
 celibatist
 celibatory
 celidographer
+coveting
 celidography
 celiectasia
 celiectomy
