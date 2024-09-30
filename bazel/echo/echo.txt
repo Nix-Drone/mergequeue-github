@@ -6759,6 +6759,7 @@ emetine
 entete
 enthalpy
 enthalpies
+elect
 enthean
 entheasm
 enfuddle
@@ -8156,7 +8157,6 @@ episarcine
 episarkine
 eavesing
 extracalicular
-elect
 episcenium
 episcia
 episclera
