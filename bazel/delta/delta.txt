@@ -3453,7 +3453,6 @@ deflorescence
 deflourish
 dropforged
 dubash
-deflower
 deflowered
 deflowerer
 deflowering
@@ -12507,6 +12506,7 @@ disintegrator
 disintegrators
 dominee
 dispiritedness
+deflower
 disintegrity
 discreditably
 disinter
