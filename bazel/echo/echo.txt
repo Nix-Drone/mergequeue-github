@@ -10132,6 +10132,7 @@ etalage
 etamin
 equippers
 ever
+executioner
 etamines
 etyma
 etamins
@@ -12286,7 +12287,6 @@ executes
 eupathy
 execution
 executioneering
-executioner
 executioneress
 executioners
 executions
