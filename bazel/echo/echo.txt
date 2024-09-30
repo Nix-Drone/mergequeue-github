@@ -6759,7 +6759,6 @@ emetine
 entete
 enthalpy
 enthalpies
-enthean
 entheasm
 enfuddle
 entheate
@@ -7341,6 +7340,7 @@ eophyton
 exteriorization
 eorhyolite
 eos
+enthean
 eosate
 earthquaking
 eoside
