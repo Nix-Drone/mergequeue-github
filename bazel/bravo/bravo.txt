@@ -2688,7 +2688,6 @@ byelaws
 bunglesome
 barkey
 barken
-beknights
 barkentine
 barkentines
 barker
@@ -18082,6 +18081,7 @@ bussock
 biosatellite
 bust
 bustards
+beknights
 busted
 bottler
 busters
