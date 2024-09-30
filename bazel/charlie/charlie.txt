@@ -26239,7 +26239,6 @@ costliest
 costliness
 clericalist
 costoabdominal
-costoapical
 costocentral
 costochondral
 costocolic
@@ -31531,6 +31530,7 @@ curtailments
 curtails
 curtain
 cowlicks
+costoapical
 curtained
 curtainless
 curtains
