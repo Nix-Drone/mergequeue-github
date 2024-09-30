@@ -9575,7 +9575,6 @@ checkstrap
 checkstring
 checksum
 construct
-checksummed
 checksumming
 checkup
 checkups
@@ -17506,6 +17505,7 @@ coccidiidea
 coccydynia
 coccidioidal
 coccidioides
+checksummed
 coccidioidomycosis
 coprinae
 coccidiomorpha
