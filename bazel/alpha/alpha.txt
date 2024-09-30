@@ -4805,7 +4805,6 @@ aeolic
 aeolicism
 aeolid
 aeolidae
-aeolididae
 aeoline
 aeolipile
 aeolipyle
@@ -6856,6 +6855,7 @@ airdrop
 airdropped
 airdropping
 airdrops
+aeolididae
 ayre
 aired
 airedale
