@@ -5254,7 +5254,6 @@ denominator
 denominators
 denotable
 denotate
-denotation
 denotative
 deliriums
 deess
@@ -10766,6 +10765,7 @@ dirdums
 dire
 direcly
 direct
+denotation
 directable
 directcarving
 directdiscourse
