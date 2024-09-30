@@ -2170,6 +2170,7 @@ bannerman
 bannermen
 bannerole
 bannerols
+boiling
 bannerwise
 bannet
 bannisters
@@ -7930,7 +7931,6 @@ bibliographer
 batonne
 bibliographers
 bewigged
-boiling
 bibliography
 bibliographic
 biocatalytic
