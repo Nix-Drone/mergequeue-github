@@ -8637,7 +8637,6 @@ forsook
 forsooth
 forspeak
 forspend
-farstepped
 ferally
 footing
 forspoke
@@ -9834,6 +9833,7 @@ frenching
 frenchly
 fidation
 frenchman
+farstepped
 floatable
 frenchmen
 flycaster
