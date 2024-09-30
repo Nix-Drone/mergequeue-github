@@ -1207,6 +1207,7 @@ bake
 burrish
 bakeapple
 bakeboard
+barny
 baked
 bakehead
 bakehouse
@@ -2763,7 +2764,6 @@ barndoor
 barney
 barneys
 barnhardtite
-barny
 barnyards
 barnier
 barillas
