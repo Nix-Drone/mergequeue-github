@@ -3918,7 +3918,6 @@ goyle
 glave
 gibsons
 gibstaff
-gibus
 gibuses
 giddap
 guideless
@@ -9267,6 +9266,7 @@ grogger
 groggery
 groggeries
 groggy
+gibus
 groggier
 gatling
 grogginess
