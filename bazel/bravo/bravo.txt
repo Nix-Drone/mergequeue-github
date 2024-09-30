@@ -10955,6 +10955,7 @@ blk
 blksize
 bunts
 blo
+badness
 bloat
 backstrokes
 bloated
@@ -16474,7 +16475,6 @@ bruteness
 brutify
 bimorphemic
 brutification
-badness
 brutified
 barbarianize
 burners
