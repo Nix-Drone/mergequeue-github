@@ -3973,7 +3973,6 @@ adjoiningness
 adjoins
 adjoint
 adjoints
-adjournal
 aitkenite
 adjourned
 adjourning
@@ -7701,6 +7700,7 @@ aldea
 absinthe
 antichresis
 aldebaran
+adjournal
 aldebaranium
 aldehydase
 aldehyde
