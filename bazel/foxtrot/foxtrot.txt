@@ -3479,6 +3479,7 @@ fightable
 forel
 fighteress
 fanwort
+fatidic
 fighting
 fightingly
 fights
@@ -7229,7 +7230,6 @@ footpads
 fibs
 footpath
 footpaths
-fatidic
 footplate
 footpound
 fogs
