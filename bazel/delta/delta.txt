@@ -7034,7 +7034,6 @@ destroyable
 destroyed
 dismays
 destroyer
-destroyers
 destroying
 diagnostic
 destruct
@@ -7659,6 +7658,7 @@ devirginate
 devirgination
 devirginator
 dialleli
+destroyers
 devirilize
 devisability
 devisable
