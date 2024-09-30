@@ -1955,7 +1955,6 @@ decadianome
 druery
 dauerlauf
 drysalter
-decadic
 decadrachm
 desensitizer
 decadrachma
@@ -1998,6 +1997,7 @@ decaying
 decayless
 demideify
 dextrans
+decadic
 decays
 defaced
 decal
