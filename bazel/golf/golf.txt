@@ -797,7 +797,6 @@ grigri
 gugglet
 galvanizer
 galvanizers
-gujar
 galvanizes
 galvanizing
 galvanocautery
@@ -5190,6 +5189,7 @@ glassful
 glassfuls
 glasshouse
 grubbed
+gujar
 glasshouses
 glassy
 glassie
