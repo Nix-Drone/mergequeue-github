@@ -17705,7 +17705,6 @@ appendicectomies
 appendices
 appendicial
 appendicitis
-appendicle
 appendicocaecostomy
 appendicostomy
 appendicular
@@ -22255,6 +22254,7 @@ anniversaries
 astroglia
 asteriskless
 astrognosy
+appendicle
 astrogony
 astrogonic
 astrograph

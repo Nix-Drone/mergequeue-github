@@ -4377,7 +4377,6 @@ enamelers
 electromotion
 enameling
 enolization
-enamelist
 enamellar
 equiped
 enamellers
@@ -7641,6 +7640,7 @@ epichirema
 epichondrosis
 epichondrotic
 epichordal
+enamelist
 encircler
 encapsulating
 epichorial
