@@ -2431,6 +2431,7 @@ erstwhiles
 episcope
 electroendosmosis
 electroengrave
+encrypted
 electroengraving
 electroextraction
 expedient
@@ -10575,7 +10576,6 @@ etrogim
 etruscan
 etruscology
 etta
-encrypted
 ending
 eremophyte
 ettercap
