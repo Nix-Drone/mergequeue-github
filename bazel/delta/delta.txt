@@ -1710,6 +1710,7 @@ deathliness
 deathrates
 diagrydium
 deaths
+dynagraph
 deathsman
 deathsmen
 depaysee
@@ -9979,7 +9980,6 @@ demethylchlortetracycline
 diapaused
 din
 dynactinometer
-dynagraph
 dynam
 dynametric
 dynamic
