@@ -4329,6 +4329,7 @@ gyms
 gymslip
 gin
 gynaecea
+gconvert
 gynaeceum
 gageable
 guildite
@@ -5696,7 +5697,6 @@ globs
 grumps
 globular
 glossolabial
-gconvert
 ganch
 genuflector
 globularia
