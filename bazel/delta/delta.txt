@@ -5021,7 +5021,6 @@ demulsified
 demulsifier
 demulsion
 distinguish
-demultiplex
 demultiplexed
 demultiplexer
 demultiplexers
@@ -8138,6 +8137,7 @@ diact
 diactin
 diactinal
 diactine
+demultiplex
 diactinic
 diactinism
 diaculum
