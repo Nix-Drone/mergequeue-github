@@ -12691,7 +12691,6 @@ bookrack
 bookracks
 baronry
 barrulety
-bookrest
 bookrests
 bookroom
 bookseller
@@ -15877,6 +15876,7 @@ backbiter
 bromidically
 bromidrosiphobia
 bromidrosis
+bookrest
 bromids
 brominate
 brominated
