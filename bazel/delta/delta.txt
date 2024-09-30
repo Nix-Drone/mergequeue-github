@@ -4329,6 +4329,7 @@ deltoids
 daviesia
 delubra
 delubrubra
+dogbodies
 deluce
 deludable
 delude
@@ -14905,7 +14906,6 @@ dogblow
 dogboat
 dogbody
 dimorphs
-dogbodies
 dogbush
 dogcart
 diathermacy
