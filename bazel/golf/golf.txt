@@ -6145,7 +6145,6 @@ glusid
 gluside
 glut
 glutamate
-geodesics
 glutamates
 glutamic
 glutaminase
@@ -7805,6 +7804,7 @@ gratiano
 gemauve
 gramineae
 gyres
+geodesics
 gramineal
 gramineous
 gramineousness
