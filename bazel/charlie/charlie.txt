@@ -14247,7 +14247,6 @@ caslon
 circulin
 circulus
 circumaction
-circumadjacent
 circumagitate
 circumagitation
 circumambagious
@@ -26931,6 +26930,7 @@ counterorator
 counterorder
 counterorganization
 counterpace
+circumadjacent
 counterpaled
 counterpane
 counterpaned
