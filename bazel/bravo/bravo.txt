@@ -3043,7 +3043,6 @@ barstool
 barstools
 bart
 bartend
-bartended
 betrayer
 bartender
 bess
@@ -5599,6 +5598,7 @@ bruscus
 beachcomber
 belaboring
 belabours
+bartended
 belace
 bewigs
 beladied
