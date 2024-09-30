@@ -4946,6 +4946,7 @@ flams
 flanch
 forkwise
 fact
+fiberfill
 flanconnade
 frappeed
 flashbacks
@@ -11176,7 +11177,6 @@ funding
 fameful
 fundmonger
 funds
-fiberfill
 fanega
 filmdoms
 fundulinae
