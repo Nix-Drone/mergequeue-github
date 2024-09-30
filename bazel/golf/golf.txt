@@ -7321,7 +7321,6 @@ gossiper
 gossipers
 gossiphood
 gatehouses
-gossipy
 gravitationally
 gossypin
 gossypine
@@ -8724,6 +8723,7 @@ greenstick
 greenstone
 gibeonite
 gauntree
+gossipy
 greensward
 greenswarded
 greentail
