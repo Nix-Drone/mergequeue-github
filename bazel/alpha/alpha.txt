@@ -5268,7 +5268,6 @@ affective
 affectively
 affectivity
 affectless
-affector
 affectual
 affectum
 affectuous
@@ -20951,6 +20950,7 @@ asceses
 ascesis
 ascetic
 ascetical
+affector
 ascetically
 asceticism
 ataraxias
