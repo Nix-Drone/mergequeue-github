@@ -6017,6 +6017,7 @@ dept
 depth
 depthen
 depthless
+dyadic
 depthlessness
 depths
 demonetization
@@ -14413,7 +14414,6 @@ divinisation
 divinised
 doubledamn
 divinises
-dyadic
 divinising
 divinister
 divinityship
