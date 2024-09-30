@@ -23488,7 +23488,6 @@ contestant
 contested
 contestee
 contester
-contesters
 contesting
 contestingly
 contestless
@@ -28465,6 +28464,7 @@ chalukyan
 crebrous
 creche
 creda
+contesters
 credal
 creddock
 carapaced
