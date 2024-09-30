@@ -16224,7 +16224,6 @@ clinic
 clinical
 clinically
 clinician
-clinicians
 condensations
 cask
 clinicist
@@ -28406,6 +28405,7 @@ creatable
 crosier
 create
 created
+clinicians
 createdness
 cheliferous
 creates
