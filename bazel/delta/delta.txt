@@ -2463,6 +2463,7 @@ deck
 dateline
 decke
 deckedout
+dismeasured
 deckel
 deckels
 decken
@@ -12726,7 +12727,6 @@ dismast
 dismasted
 dismastment
 disme
-dismeasured
 darkrooms
 dismember
 dismembered
