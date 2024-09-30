@@ -8287,7 +8287,6 @@ dialectological
 dialectologically
 dialectologies
 dialectologist
-dialector
 dargue
 dimethylsulfoxide
 dialed
@@ -13650,6 +13649,7 @@ demicircle
 dissociates
 dissociating
 dissociations
+dialector
 dissoconch
 dissogeny
 deprivative
