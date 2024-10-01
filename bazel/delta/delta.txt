@@ -12967,6 +12967,7 @@ diplomyelia
 dispeller
 dorsimedian
 dispells
+drossy
 dispels
 decliners
 danegeld
@@ -17454,7 +17455,6 @@ dibasic
 drossel
 disturbed
 drosser
-drossy
 drossiness
 drossing
 densation
