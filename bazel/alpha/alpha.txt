@@ -2554,7 +2554,6 @@ acmes
 acmesthesia
 acmispon
 acmite
-anosia
 acne
 acned
 acneiform
@@ -6833,6 +6832,7 @@ airchecks
 aircoaches
 aircraft
 aircraftman
+anosia
 axometer
 aircraftmen
 aircraftsman
