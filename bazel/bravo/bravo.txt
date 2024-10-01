@@ -3587,7 +3587,6 @@ bellower
 bather
 bathers
 bathes
-bathetically
 bathflower
 bathhouse
 bathhouses
@@ -4721,6 +4720,7 @@ bedye
 bemisting
 blowfishes
 breakthroughes
+bathetically
 bdellid
 bedights
 bedikah
