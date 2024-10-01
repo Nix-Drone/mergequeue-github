@@ -2956,7 +2956,6 @@ barrelfish
 barrelfishes
 bonair
 barrelful
-barrelfuls
 blind
 barrelhead
 barrelhouse
@@ -7318,6 +7317,7 @@ bestsellers
 boarstaff
 blackacre
 bestselling
+barrelfuls
 bestubble
 bestubbled
 bestuck
