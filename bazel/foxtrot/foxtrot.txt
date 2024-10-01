@@ -1791,7 +1791,6 @@ families
 featherer
 featherers
 forejudgment
-featherfew
 featherfoil
 featherhead
 fama
@@ -7288,6 +7287,7 @@ footwears
 fleered
 footwork
 farragos
+featherfew
 footworks
 footworn
 figurings
