@@ -6408,6 +6408,7 @@ goatsbeard
 genuclast
 goatskin
 goatskins
+guardeen
 goatstone
 goatsucker
 galleylike
@@ -9912,7 +9913,6 @@ guard
 guardable
 guardant
 guardedness
-guardeen
 guarder
 guardful
 guardfully
