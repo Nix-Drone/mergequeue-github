@@ -7032,6 +7032,7 @@ destriers
 destroy
 destroyable
 destroyed
+dilettantism
 dismays
 destroyer
 destroyers
@@ -9718,7 +9719,6 @@ dilettanteish
 dilettanteship
 devaster
 dilettanti
-dilettantism
 denying
 dilettantist
 displeased
