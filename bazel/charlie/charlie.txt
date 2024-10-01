@@ -4584,7 +4584,6 @@ carousal
 carousals
 carouse
 caroused
-carousel
 carousels
 carouser
 cuddly
@@ -27384,6 +27383,7 @@ couth
 couthe
 couther
 couthest
+carousel
 couthy
 couthie
 couthier
