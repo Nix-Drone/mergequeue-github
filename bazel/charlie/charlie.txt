@@ -31259,7 +31259,6 @@ curbing
 curbings
 curbless
 cotonam
-curblike
 curbline
 curbs
 curbside
@@ -31432,6 +31431,7 @@ currack
 curragh
 curraghs
 currajong
+curblike
 curran
 currance
 currans
