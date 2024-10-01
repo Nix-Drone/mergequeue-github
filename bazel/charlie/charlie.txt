@@ -17829,7 +17829,6 @@ codman
 codol
 codomain
 codominant
-codon
 crystallographical
 codons
 citola
@@ -25746,6 +25745,7 @@ corrobori
 corrodant
 corrode
 corrodent
+codon
 corroder
 corroders
 cneoraceae
