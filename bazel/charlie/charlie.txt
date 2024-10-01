@@ -2674,7 +2674,6 @@ canoe
 canoed
 canoeist
 canoeists
-canoeload
 canoeman
 canoes
 canoewood
@@ -12607,6 +12606,7 @@ curvedness
 chronology
 ciborium
 chronological
+canoeload
 chronologically
 chronologies
 chronologist
