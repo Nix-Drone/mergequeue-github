@@ -1978,7 +1978,6 @@ bandog
 bandogs
 bonfire
 bandoleer
-burlesquely
 bumf
 bancus
 bandoleers
@@ -12216,6 +12215,7 @@ bolter
 bolters
 boltheader
 behold
+burlesquely
 boltheading
 bolthole
 bolti
