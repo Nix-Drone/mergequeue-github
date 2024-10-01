@@ -4630,7 +4630,6 @@ cellarway
 carpeting
 carpetlayer
 carpetless
-carpetmaker
 carpetmaking
 carpetmonger
 carpets
@@ -26263,6 +26262,7 @@ costotransverse
 costovertebral
 costoxiphoid
 costraight
+carpetmaker
 costrels
 costs
 costulation
