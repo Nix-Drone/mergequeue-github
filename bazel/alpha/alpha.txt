@@ -5270,7 +5270,6 @@ affectivity
 affectless
 affector
 affectual
-affectum
 affectuous
 affectus
 atresias
@@ -24189,6 +24188,7 @@ automatically
 automaticity
 automatin
 autunite
+affectum
 automation
 autocoids
 automatism
