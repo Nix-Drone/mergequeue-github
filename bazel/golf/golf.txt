@@ -1781,7 +1781,6 @@ gastroduodenitis
 gastroduodenoscopy
 gastroduodenostomy
 gastroduodenotomy
-gastroelytrotomy
 gastroenteralgia
 gibson
 gastroenteric
@@ -5381,6 +5380,7 @@ geomedicine
 gliadines
 gliadins
 glaucophane
+gastroelytrotomy
 glib
 glibber
 grippy
