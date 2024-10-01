@@ -3968,7 +3968,6 @@ delay
 delayable
 demes
 delayer
-delayers
 delayful
 delayingly
 delaine
@@ -12449,6 +12448,7 @@ disinfection
 disinfections
 disinfective
 disinfector
+delayers
 dochter
 disinfects
 disinfest
