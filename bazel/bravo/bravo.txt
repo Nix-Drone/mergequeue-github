@@ -9539,7 +9539,6 @@ birthmark
 birthmarks
 birthmate
 birthnight
-birthplace
 birthplaces
 backfilled
 birthrates
@@ -10987,6 +10986,7 @@ blockading
 blockage
 blockages
 bismuthic
+birthplace
 blockboard
 blockbusters
 birefractive
