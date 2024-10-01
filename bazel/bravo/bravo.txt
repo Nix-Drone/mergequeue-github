@@ -13711,7 +13711,6 @@ bow
 bowable
 bowback
 bowbells
-bowbent
 bowboy
 bowden
 bowdichia
@@ -13936,6 +13935,7 @@ bathorse
 bioactivity
 belialist
 braceros
+bowbent
 bracers
 backtrick
 baloghia
