@@ -4598,7 +4598,6 @@ enwiden
 encephalos
 expediters
 encephaloscope
-encapsulated
 epipastic
 encephalosepsis
 encephalospinal
@@ -9099,6 +9098,7 @@ eriphyle
 eris
 europhium
 erysimum
+encapsulated
 erysipelas
 erysipelatoid
 erotized
