@@ -10030,7 +10030,6 @@ farrow
 fiberizes
 fleshhook
 friezer
-frigage
 frigate
 frigates
 frigatoon
@@ -10906,6 +10905,7 @@ foeman
 fulgurated
 fulgurating
 facade
+frigage
 fulguration
 fulgurite
 fluxroot
