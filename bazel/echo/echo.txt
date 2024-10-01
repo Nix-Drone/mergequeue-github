@@ -1113,6 +1113,7 @@ edibile
 earthlike
 equipper
 edibility
+exophasia
 edible
 expurgatory
 edibleness
@@ -12732,7 +12733,6 @@ elmer
 exonym
 exonuclease
 exopathic
-exophasia
 exophasic
 exophoria
 exophoric
