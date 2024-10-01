@@ -6145,7 +6145,6 @@ benchman
 benchmar
 benchmark
 benchmarked
-benchmarks
 benchmen
 bend
 bendable
@@ -6660,6 +6659,7 @@ bereaves
 berede
 bereft
 becapped
+benchmarks
 berengaria
 bursate
 bemixing
