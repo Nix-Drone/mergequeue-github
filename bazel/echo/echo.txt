@@ -4606,7 +4606,6 @@ embosked
 externize
 encephalothlipsis
 encephalotome
-encephalotomy
 encephalotomies
 earths
 encephalous
@@ -10271,6 +10270,7 @@ etherifying
 embryoscope
 eliza
 etheriidae
+encephalotomy
 emboweled
 emphasizes
 etherion
