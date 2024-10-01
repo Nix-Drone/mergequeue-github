@@ -18797,7 +18797,6 @@ archcount
 archcozener
 archcriminal
 archcritic
-archcrown
 archcupbearer
 archd
 archdapifer
@@ -23642,6 +23641,7 @@ aurorium
 aurotellurite
 aurothiosulphate
 additionally
+archcrown
 aurrescu
 aurulent
 actinically
