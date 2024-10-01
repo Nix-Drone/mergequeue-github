@@ -16785,7 +16785,6 @@ antistat
 apertness
 apertometer
 apertum
-apertural
 apertured
 apertures
 antship
@@ -19109,6 +19108,7 @@ archon
 archonship
 archonships
 archontia
+apertural
 archontic
 archoplasmic
 archoptoma
