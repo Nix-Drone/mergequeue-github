@@ -3222,6 +3222,7 @@ activating
 activation
 activations
 activator
+antefact
 activators
 active
 actively
@@ -14131,7 +14132,6 @@ antediluvian
 antedon
 antiquate
 antedorsal
-antefact
 antefix
 antefixa
 anteflected
