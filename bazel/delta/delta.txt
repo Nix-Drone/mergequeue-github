@@ -468,6 +468,7 @@ disthrall
 daystar
 daystars
 daystreak
+detainable
 daytide
 daytime
 daytimes
@@ -7135,7 +7136,6 @@ details
 desiringly
 dipterans
 detain
-detainable
 detainal
 detained
 detainee
