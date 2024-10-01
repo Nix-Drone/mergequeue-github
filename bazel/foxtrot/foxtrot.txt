@@ -1992,7 +1992,6 @@ feedbags
 feedbin
 februarius
 feedboard
-feedbox
 feedboxes
 feeder
 foundationed
@@ -8086,6 +8085,7 @@ flecnode
 forests
 forestside
 forestudy
+feedbox
 focalizing
 flue
 flowerets
