@@ -11088,7 +11088,6 @@ deputized
 disasinize
 disassemble
 dourade
-disassembled
 disassembler
 disassembles
 descriptors
@@ -18469,6 +18468,7 @@ durational
 durationless
 durative
 duratives
+disassembled
 durax
 durbachite
 diocesans
