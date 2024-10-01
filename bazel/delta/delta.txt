@@ -561,7 +561,6 @@ dam
 dureful
 dama
 damage
-damageability
 damageably
 damaged
 damagement
@@ -1398,6 +1397,7 @@ dawpate
 dentatosetaceous
 dobber
 dawson
+damageability
 dawsonia
 dawsoniaceous
 dawsonite
