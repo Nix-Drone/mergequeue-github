@@ -3941,7 +3941,6 @@ cardanic
 cardanol
 cardboard
 cardcases
-cardecu
 carded
 cardel
 carder
@@ -26248,6 +26247,7 @@ costogenic
 costoinferior
 consultative
 costopleural
+cardecu
 costopneumopexy
 costopulmonary
 costoscapular
