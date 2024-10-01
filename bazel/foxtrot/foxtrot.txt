@@ -4343,6 +4343,7 @@ forb
 fisetin
 fish
 fishability
+focalising
 fishable
 fishback
 fishberry
@@ -6646,7 +6647,6 @@ flirtier
 frequents
 focal
 focalised
-focalising
 focalization
 focalizes
 focaloid
