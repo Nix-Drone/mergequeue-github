@@ -4807,7 +4807,6 @@ galeopithecus
 gyroscopes
 gyroscopics
 gyrose
-gyrostabilized
 gyrostat
 gyrostats
 gyrotheca
@@ -6701,6 +6700,7 @@ golilla
 goldfield
 goll
 glaikitness
+gyrostabilized
 golland
 gollar
 goller
