@@ -4905,7 +4905,6 @@ flameout
 flameouts
 flameproof
 formulize
-flameproofer
 flintlocks
 finfishes
 flamer
@@ -9757,6 +9756,7 @@ freety
 freeway
 freeward
 flavorings
+flameproofer
 freewheel
 followeth
 freewheeler
