@@ -2805,7 +2805,6 @@ dop
 decrement
 decremental
 decrementing
-decrements
 decremeter
 decrepid
 decrepit
@@ -15376,6 +15375,7 @@ domineeringness
 disinherited
 domineers
 domines
+decrements
 demiturned
 doming
 domini
