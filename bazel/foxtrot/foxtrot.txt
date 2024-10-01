@@ -2996,7 +2996,6 @@ fevertwig
 fevertwitch
 feverwort
 few
-fewest
 fewmand
 fogle
 foreflap
@@ -10221,6 +10220,7 @@ frivolist
 frivolity
 frivolities
 frivolize
+fewest
 frivolized
 frivolizing
 frivoller
