@@ -5949,7 +5949,6 @@ fiddleback
 floorshift
 fawny
 floorshifts
-floorshow
 floorway
 fluidrachm
 floorward
@@ -10415,6 +10414,7 @@ frontally
 footgeld
 frontals
 frontbencher
+floorshow
 favorably
 frontcourt
 fronted
