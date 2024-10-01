@@ -5741,7 +5741,6 @@ engler
 euchologion
 extrasystolic
 english
-englishable
 englisher
 enshrines
 epinikia
@@ -10721,6 +10720,7 @@ epistolography
 eudaemons
 eudaimonia
 eductions
+englishable
 eudaimonism
 eudaimonist
 eudemian
