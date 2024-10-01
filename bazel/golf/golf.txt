@@ -166,7 +166,6 @@ grimliness
 greasiness
 gaduin
 gadus
-gadwall
 gadwalls
 ghrush
 gonotokont
@@ -9437,6 +9436,7 @@ groundedly
 grounden
 grounder
 grounders
+gadwall
 groundhog
 galvanotactic
 guar
