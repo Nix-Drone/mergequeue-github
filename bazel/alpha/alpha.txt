@@ -6834,7 +6834,6 @@ aircoaches
 aircraft
 aircraftman
 axometer
-aircraftmen
 aircraftsman
 aircraftsmen
 aircraftswoman
@@ -10021,6 +10020,7 @@ amblyomma
 amblyopia
 acrocephalia
 amblyopic
+aircraftmen
 alodially
 amblyopsidae
 amblyopsis
