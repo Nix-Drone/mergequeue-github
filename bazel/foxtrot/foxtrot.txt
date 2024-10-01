@@ -7990,7 +7990,6 @@ foreshot
 foreskirt
 foreshots
 foreshow
-foreshower
 foreshown
 foreshroud
 femic
@@ -10908,6 +10907,7 @@ fulgurating
 facade
 fulguration
 fulgurite
+foreshower
 fluxroot
 fulgurous
 fistify
