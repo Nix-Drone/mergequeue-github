@@ -1835,7 +1835,6 @@ accusatives
 accusator
 associates
 accusatory
-apectomy
 accusatorial
 accusatrix
 accusatrixes
@@ -20491,6 +20490,7 @@ architectural
 absey
 arterying
 arterin
+apectomy
 arterioarctia
 arteriocapillary
 arteriococcygeal
