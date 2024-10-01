@@ -3942,7 +3942,6 @@ adits
 adytta
 adytum
 aditus
-adj
 adjacence
 adjacency
 adjacencies
@@ -10905,6 +10904,7 @@ amoroso
 amorous
 aeciotelium
 amorousness
+adj
 amorph
 amorpha
 amorphi
