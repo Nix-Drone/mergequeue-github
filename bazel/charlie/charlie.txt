@@ -13426,7 +13426,6 @@ cleaners
 cyclostyle
 cyclostoma
 cyclostomata
-cyclostomate
 cyclostomatidae
 charadriidae
 coremia
@@ -22639,6 +22638,7 @@ conteur
 connubium
 connumerate
 childing
+cyclostomate
 contagiously
 conocarp
 conocarpus
