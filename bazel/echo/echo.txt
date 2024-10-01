@@ -1814,7 +1814,6 @@ electric
 eyeopener
 eyepiece
 eyepit
-eyepoint
 eyereach
 eyeroot
 electromobilism
@@ -12617,6 +12616,7 @@ exocardiac
 exocarps
 emendicate
 exocentric
+eyepoint
 exochorion
 engaged
 exocyclic
