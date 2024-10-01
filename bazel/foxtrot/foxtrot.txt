@@ -3603,6 +3603,7 @@ file
 fileable
 filecard
 filechar
+fumosity
 filed
 filefishes
 fogie
@@ -11143,7 +11144,6 @@ functionize
 fract
 functionlessness
 functionnaire
-fumosity
 functions
 functor
 functors
