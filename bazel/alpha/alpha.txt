@@ -5602,7 +5602,6 @@ afterdeath
 afterdeck
 afterdrain
 aftereffect
-aftereffects
 aftereye
 afterfall
 afterfame
@@ -6545,6 +6544,7 @@ aguelike
 alkalescency
 agueproof
 agues
+aftereffects
 agueweeds
 axal
 aguglia
