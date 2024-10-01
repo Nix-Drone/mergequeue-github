@@ -3970,7 +3970,6 @@ gigabytes
 gurjara
 gigabits
 glacon
-gigacycle
 gigadoid
 gigahertz
 gigahertzes
@@ -5862,6 +5861,7 @@ glossemes
 glossemic
 girondism
 glosser
+gigacycle
 glossers
 glosses
 glossy
