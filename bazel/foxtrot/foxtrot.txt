@@ -1691,7 +1691,6 @@ fchar
 fipenny
 fcomp
 farcin
-fcp
 foehns
 familiar
 friars
@@ -7678,6 +7677,7 @@ figlike
 foreflank
 fistulized
 foreflipper
+fcp
 fuddledness
 flusherman
 forefoot
