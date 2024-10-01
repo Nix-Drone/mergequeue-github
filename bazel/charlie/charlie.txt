@@ -8049,7 +8049,6 @@ chacmas
 chaco
 chacoli
 chacona
-chaconne
 chaconnes
 chacra
 codirectional
@@ -17324,6 +17323,7 @@ coattest
 coattestation
 courteously
 coattestator
+chaconne
 coattested
 coattesting
 coaudience
