@@ -3826,7 +3826,6 @@ avalanched
 adiabolist
 adiactinic
 adiadochokinesia
-adiadochokinesis
 adiadokokinesi
 adiadokokinesia
 adventurers
@@ -11272,6 +11271,7 @@ amphoriskos
 amphorous
 amphoteric
 amphotericin
+adiadochokinesis
 ampicillin
 ampyxes
 ample
