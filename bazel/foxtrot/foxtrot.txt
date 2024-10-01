@@ -1468,7 +1468,6 @@ fatalize
 frederick
 fatstock
 fatstocks
-fatted
 fatten
 fattenable
 fragilaria
@@ -7797,6 +7796,7 @@ francisco
 foreloop
 forelooper
 foreloper
+fatted
 forelouper
 foremade
 fiascoes
