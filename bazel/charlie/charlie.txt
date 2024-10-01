@@ -7212,7 +7212,6 @@ centro
 centroacinar
 centrobarical
 centroclinal
-centrode
 centrodesmose
 centrodesmus
 centrodorsal
@@ -16123,6 +16122,7 @@ cliffside
 cliffsman
 cliffweed
 clift
+centrode
 clifty
 cliftonite
 cognizability
