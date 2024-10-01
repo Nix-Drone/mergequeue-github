@@ -2684,7 +2684,6 @@ endomycetaceae
 electrothermometer
 electrothermostatic
 electrothermotic
-electrotype
 electrotyped
 electrotypes
 electrotypy
@@ -8401,6 +8400,7 @@ epitimesis
 epitympanic
 epitympanum
 epityphlitis
+electrotype
 elopers
 epityphlon
 endogenetic
