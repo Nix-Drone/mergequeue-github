@@ -762,7 +762,6 @@ berrendo
 badgeman
 barrels
 boraciferous
-badgemen
 badger
 badgerbrush
 badgered
@@ -2904,6 +2903,7 @@ barracker
 barracking
 barraclade
 barracoon
+badgemen
 barracouta
 barracoutas
 barracuda
