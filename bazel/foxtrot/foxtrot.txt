@@ -5845,7 +5845,6 @@ fangas
 flocculation
 flocculator
 forts
-fencing
 floccule
 flocculence
 furans
@@ -7298,6 +7297,7 @@ foozled
 fantod
 foozler
 foozlers
+fencing
 fop
 fopped
 fossils
