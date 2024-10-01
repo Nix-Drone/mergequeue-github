@@ -9600,7 +9600,6 @@ bisected
 bisecting
 bisection
 bisectional
-bisections
 bisector
 bisectors
 bisectrices
@@ -16865,6 +16864,7 @@ bufotoxin
 bandi
 bugaboo
 bugaboos
+bisections
 bugala
 bugan
 bugara
