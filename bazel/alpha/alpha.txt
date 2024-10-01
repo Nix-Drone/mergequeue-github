@@ -1586,7 +1586,6 @@ acclimatizing
 acclinal
 acclinate
 acclivity
-acclivities
 acclivitous
 acclivous
 accloy
@@ -22772,6 +22771,7 @@ atomistical
 atomists
 atomity
 abrocoma
+acclivities
 atomization
 atomize
 atomized
