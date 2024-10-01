@@ -1913,6 +1913,7 @@ debunks
 deburr
 deburse
 debus
+dependencies
 debused
 debusing
 dreamers
@@ -5637,7 +5638,6 @@ dependantly
 depended
 dependence
 dependency
-dependencies
 depending
 dependingly
 depends
