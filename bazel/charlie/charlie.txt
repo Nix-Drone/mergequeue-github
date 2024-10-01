@@ -1422,6 +1422,7 @@ callate
 callback
 callbacks
 callboy
+climatology
 callboys
 called
 callers
@@ -16152,7 +16153,6 @@ climatical
 climatius
 climatize
 climatographical
-climatology
 climatologic
 climatological
 climatologically
