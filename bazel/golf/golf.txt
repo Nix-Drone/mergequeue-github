@@ -8632,6 +8632,7 @@ glyph
 greekize
 greekless
 greekling
+groats
 geranials
 greeks
 green
@@ -9239,7 +9240,6 @@ gravelroot
 groaning
 groans
 gammer
-groats
 groatsworth
 grobian
 gimcrackiness
