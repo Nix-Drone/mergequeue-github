@@ -16230,7 +16230,6 @@ cask
 clinicist
 clinicopathological
 clinicopathologically
-clinics
 clinid
 clinium
 clink
@@ -23897,6 +23896,7 @@ controverted
 controverter
 controvertibility
 controvertible
+clinics
 controverting
 controvertist
 craton
