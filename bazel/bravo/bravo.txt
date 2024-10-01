@@ -5492,7 +5492,6 @@ bacterioprotein
 behorror
 bellmaster
 bilabe
-behoved
 behoves
 behoving
 bepurple
@@ -6725,6 +6724,7 @@ berycine
 berycoid
 bridgeboard
 battledore
+behoved
 berycoidea
 barpost
 boist
