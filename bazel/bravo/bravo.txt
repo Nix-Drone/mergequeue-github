@@ -4281,7 +4281,6 @@ beatitudes
 beatles
 beatless
 beatnik
-beatniks
 beatrix
 bookwise
 bonged
@@ -6142,6 +6141,7 @@ benchland
 benchless
 benchlet
 benchman
+beatniks
 benchmar
 benchmark
 benchmarked
