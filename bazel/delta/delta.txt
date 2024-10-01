@@ -1198,7 +1198,6 @@ datatypes
 datcha
 dynamometry
 dialyzers
-dateableness
 datebook
 dated
 dod
@@ -4781,6 +4780,7 @@ demnition
 demo
 demob
 dismaying
+dateableness
 demobilisation
 demobilise
 disremember
