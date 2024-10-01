@@ -1955,6 +1955,7 @@ biostatics
 bandit
 branle
 banditry
+beglare
 barramundas
 bandits
 banditti
@@ -5299,7 +5300,6 @@ begirds
 begirt
 beglad
 begladding
-beglare
 beglerbeg
 beglerbeglic
 beglerbeglik
