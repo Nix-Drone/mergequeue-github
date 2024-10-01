@@ -386,7 +386,6 @@ daylights
 daylilies
 dayman
 daymare
-daymares
 daymark
 daymen
 doupion
@@ -13477,6 +13476,7 @@ disfrequent
 dissectors
 dissects
 desperadoes
+daymares
 disseise
 disseised
 disseisee
