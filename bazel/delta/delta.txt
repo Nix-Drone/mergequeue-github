@@ -3932,7 +3932,6 @@ doggerelize
 delundung
 damper
 dekalitre
-dekameter
 dekameters
 debutante
 decumani
@@ -17444,6 +17443,7 @@ drosometer
 drosophila
 drosophilae
 drosophilas
+dekameter
 decompile
 drosophilidae
 dipyramid
