@@ -185,7 +185,6 @@ ectoplacenta
 evacuee
 eloigners
 earthset
-electroplated
 electrodeposit
 exprobratory
 epiclesis
@@ -13379,6 +13378,7 @@ exprobrate
 expromission
 expromissor
 ef
+electroplated
 expropriable
 expropriate
 epiloguing
