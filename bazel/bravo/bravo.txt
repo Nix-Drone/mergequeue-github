@@ -8760,7 +8760,6 @@ bundt
 bodysurf
 bimanual
 bournless
-bimanually
 bimarine
 bimas
 bimasty
@@ -12452,6 +12451,7 @@ boneset
 bonesets
 bonesetter
 barnyard
+bimanually
 bonesetting
 brushite
 boneshaker
