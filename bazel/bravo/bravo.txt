@@ -496,7 +496,6 @@ backspang
 backspear
 backspeir
 backspier
-backspierer
 backspin
 backspins
 backsplicing
@@ -3754,6 +3753,7 @@ battalion
 battarism
 battarismus
 batteau
+backspierer
 batteaux
 bonnering
 batteler
