@@ -5307,6 +5307,7 @@ casteth
 castice
 castigable
 castigate
+completable
 coincidency
 castigates
 castigating
@@ -14553,7 +14554,6 @@ cirsocele
 cirsoid
 cirsomphalos
 cirsophthalmia
-completable
 cirsotomy
 cirsotomies
 cyrtandraceae
