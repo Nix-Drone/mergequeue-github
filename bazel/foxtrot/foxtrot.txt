@@ -1021,6 +1021,7 @@ flaneries
 faretta
 farewell
 farewelled
+flighter
 fuchsin
 farfal
 forebroads
@@ -5593,7 +5594,6 @@ fligger
 feodum
 flight
 flighted
-flighter
 flightful
 flighty
 flightier
