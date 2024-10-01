@@ -6282,7 +6282,6 @@ dermatophone
 dermatophony
 discounted
 dermatoplasm
-dermatoplast
 dermatoplastic
 dysgenesic
 dermatopnagic
@@ -15654,6 +15653,7 @@ dopas
 dopatta
 dopebook
 doped
+dermatoplast
 dopehead
 doper
 dopes
