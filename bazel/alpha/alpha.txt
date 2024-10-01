@@ -13892,7 +13892,6 @@ anoscope
 angstrom
 aqueduct
 anoscopy
-anatomicosurgical
 anosmatic
 anosmia
 anosmias
@@ -19446,6 +19445,7 @@ adenomatous
 argali
 acontius
 arithmetics
+anatomicosurgical
 argals
 agastroneuria
 arrayer
