@@ -6513,7 +6513,6 @@ ensures
 ergatogyne
 ensuring
 enswathe
-enswathed
 enswathement
 encephalola
 enswathes
@@ -14162,6 +14161,7 @@ exuded
 ennoy
 exudence
 exudes
+enswathed
 exuding
 exulate
 ethane
