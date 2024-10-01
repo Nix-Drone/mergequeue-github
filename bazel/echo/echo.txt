@@ -2801,7 +2801,6 @@ elenge
 elengely
 eleoblast
 edificant
-eleolite
 eleomargaric
 eleonorite
 eleoplast
@@ -6646,6 +6645,7 @@ eristics
 excluding
 enteroclisis
 enteroclysis
+eleolite
 enterococcal
 enterococcus
 enterocoel
