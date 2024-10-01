@@ -2334,6 +2334,7 @@ electrocapillarity
 electrocardiogram
 electrocardiograms
 escarped
+enforcer
 electrocardiograph
 electrocardiographic
 electrocardiographically
@@ -9789,7 +9790,6 @@ espy
 earhead
 ectophloic
 espial
-enforcer
 espichellite
 eucleid
 espieglerie
