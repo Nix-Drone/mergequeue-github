@@ -6491,7 +6491,6 @@ benzopyran
 benzopyranyl
 benzopyrazolone
 benzopyrylium
-benzoquinoxaline
 baltimorean
 benzosulfimide
 benzosulphimide
@@ -17582,6 +17581,7 @@ bureau
 bureaucracy
 bureaucracies
 bushie
+benzoquinoxaline
 bureaucratic
 burweeds
 bureaucratically
