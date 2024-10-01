@@ -1122,7 +1122,6 @@ edictally
 edictum
 edicule
 edify
-echolalia
 expectorator
 edificate
 edification
@@ -5796,6 +5795,7 @@ engrailment
 engrails
 engrained
 epizoicide
+echolalia
 engrainer
 engraining
 engram
