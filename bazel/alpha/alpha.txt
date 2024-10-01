@@ -9727,7 +9727,6 @@ amalfitan
 amalg
 amalgamable
 amalgamate
-attackable
 amalgamates
 amalgamating
 antimonarchical
@@ -20991,6 +20990,7 @@ ascite
 aceconitic
 ascites
 ascitical
+attackable
 ascititious
 asclent
 asclepiad
