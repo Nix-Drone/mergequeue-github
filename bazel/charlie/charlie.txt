@@ -5058,7 +5058,6 @@ casebound
 casebox
 cased
 casefy
-casefied
 casefies
 corneter
 caseharden
@@ -17689,6 +17688,7 @@ cocopan
 cocopans
 cocoroot
 cocos
+casefied
 cocotte
 cocottes
 cocobolo
