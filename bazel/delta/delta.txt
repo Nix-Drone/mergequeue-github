@@ -1190,6 +1190,7 @@ datapunch
 disinvolve
 datary
 dataries
+darwinian
 dataset
 datasetname
 datasets
@@ -11339,7 +11340,6 @@ discinct
 discind
 debit
 discing
-darwinian
 daggletail
 discinoid
 disciple
