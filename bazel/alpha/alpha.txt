@@ -3664,6 +3664,7 @@ adenochondroma
 adenochondrosarcoma
 adenochrome
 adenocyst
+anterior
 adenocystoma
 antepectoral
 adenocystomatous
@@ -14263,7 +14264,6 @@ anteri
 anteriad
 anterin
 anterioyancer
-anterior
 achech
 anteriorly
 anteriorness
