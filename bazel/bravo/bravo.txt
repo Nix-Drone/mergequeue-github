@@ -3126,7 +3126,6 @@ basculation
 blindfold
 bascule
 baculite
-bipropellant
 bascules
 bascunan
 base
@@ -15587,6 +15586,7 @@ britchel
 britches
 britchka
 brith
+bipropellant
 brython
 brythonic
 blimy
