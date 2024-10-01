@@ -2351,7 +2351,6 @@ griseofulvin
 gorgonacean
 geic
 geyerite
-geiger
 gangrel
 gemsboks
 glede
@@ -4135,6 +4134,7 @@ gradometer
 guaneide
 giliak
 gilim
+geiger
 gill
 gillar
 gunating
