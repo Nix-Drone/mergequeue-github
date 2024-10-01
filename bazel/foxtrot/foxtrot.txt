@@ -4925,7 +4925,6 @@ flamingo
 flamingos
 feldsher
 faliscan
-fantaseid
 forge
 flaminica
 flaminical
@@ -5868,6 +5867,7 @@ flitter
 flocklike
 flockmaster
 footway
+fantaseid
 florigraphy
 flockowner
 frangent
