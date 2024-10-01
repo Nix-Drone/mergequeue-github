@@ -8242,7 +8242,6 @@ align
 aligned
 aligners
 aligning
-alignment
 allochezia
 alignments
 aligns
@@ -22166,6 +22165,7 @@ astragalectomy
 astragali
 astragalocalcaneal
 astragalocentral
+alignment
 astragalomancy
 astragalonavicular
 astragaloscaphoid
