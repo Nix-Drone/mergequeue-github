@@ -3616,7 +3616,6 @@ bathymeter
 blithesomeness
 bathymetry
 bathymetric
-bathymetrical
 bathinette
 bathing
 bulreedy
@@ -4224,6 +4223,7 @@ bearship
 bearskin
 bearskins
 beartongue
+bathymetrical
 birdwatch
 bearward
 bearwort
