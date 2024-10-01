@@ -3587,7 +3587,6 @@ bellower
 bather
 bathers
 bathes
-bathetically
 bathflower
 bathhouse
 bathhouses
@@ -6684,6 +6683,7 @@ bergamasche
 biogenies
 bergamask
 bergamo
+bathetically
 bergander
 beezers
 blowers
