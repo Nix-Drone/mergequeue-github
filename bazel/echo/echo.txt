@@ -8718,7 +8718,6 @@ ephelcystic
 easting
 equiperiodic
 expander
-equipluve
 equipment
 equipments
 equipoised
@@ -8875,6 +8874,7 @@ erasures
 erat
 erato
 erava
+equipluve
 erbia
 ethoxy
 erbium
