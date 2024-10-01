@@ -4430,7 +4430,6 @@ becapping
 brassylic
 becaps
 becard
-becarpet
 becarpeted
 becarpeting
 becarve
@@ -10325,6 +10324,7 @@ blandishingly
 blandishments
 blandness
 blank
+becarpet
 blankard
 blankbook
 biopoesis
