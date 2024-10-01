@@ -139,7 +139,6 @@ gadidae
 gramaphone
 gadinic
 generals
-gaditan
 gadman
 gujerat
 gadoids
@@ -10580,6 +10579,7 @@ gunslinging
 gunsman
 goujon
 gunsmith
+gaditan
 gunsmithery
 gunsmithing
 gloomiest
