@@ -6551,7 +6551,6 @@ bephilter
 bephrase
 big
 bepicture
-bepiece
 bellyflaught
 bepierce
 bepile
@@ -10926,6 +10925,7 @@ blithesomely
 bkgd
 beldam
 blithest
+bepiece
 blitter
 blitum
 blitz
