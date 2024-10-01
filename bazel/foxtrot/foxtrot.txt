@@ -3035,6 +3035,7 @@ fianchetti
 fianchetto
 fiancing
 fevertrap
+fanback
 flocoon
 fiant
 fiants
@@ -5713,7 +5714,6 @@ fortification
 flysches
 flisk
 flotative
-fanback
 fliskier
 fliskiest
 fribbleism
