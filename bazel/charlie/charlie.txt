@@ -20953,7 +20953,6 @@ comptoir
 confederation
 comptometer
 comptonite
-comptrol
 comptroller
 comptrollers
 comptrollership
@@ -31182,6 +31181,7 @@ cupula
 cupulae
 cupular
 cupulate
+comptrol
 cupule
 ceratophyte
 cowskins
