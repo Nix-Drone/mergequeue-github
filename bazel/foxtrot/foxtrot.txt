@@ -3523,6 +3523,7 @@ figureless
 figurer
 facebread
 figures
+formedon
 figuresome
 flueman
 fconv
@@ -8417,7 +8418,6 @@ freehanded
 formboard
 forme
 formed
-formedon
 formee
 formel
 formelt
