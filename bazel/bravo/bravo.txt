@@ -4430,7 +4430,6 @@ becapping
 brassylic
 becaps
 becard
-becarpet
 becarpeted
 becarpeting
 becarve
@@ -12793,6 +12792,7 @@ boonless
 buckplate
 boons
 boophilus
+becarpet
 boopis
 boor
 boorga
