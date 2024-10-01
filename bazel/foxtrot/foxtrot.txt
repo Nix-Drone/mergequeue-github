@@ -406,6 +406,7 @@ fairgoer
 fogged
 fastigated
 fairground
+finishing
 fairy
 fairyhood
 futharc
@@ -4043,7 +4044,6 @@ finishable
 finisher
 finishers
 finishes
-finishing
 finitary
 finite
 finiteness
