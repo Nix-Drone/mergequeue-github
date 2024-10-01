@@ -17598,7 +17598,6 @@ apparency
 almucantar
 apparens
 apparent
-apparentement
 apparentements
 apparently
 apparentness
@@ -18116,6 +18115,7 @@ apron
 aproned
 aproneer
 apronful
+apparentement
 apronless
 aprons
 apronstring
