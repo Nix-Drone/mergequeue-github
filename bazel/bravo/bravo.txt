@@ -11617,7 +11617,6 @@ boatmanship
 boatmaster
 boatmen
 blesbok
-boatowner
 boats
 boatshop
 boatsman
@@ -15209,6 +15208,7 @@ brickmaking
 brickmason
 brockage
 bethylid
+boatowner
 bricktimber
 bricktop
 brickwall
