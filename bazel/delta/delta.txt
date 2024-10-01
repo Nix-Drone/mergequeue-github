@@ -1523,7 +1523,6 @@ deadlihead
 deadlily
 deadlines
 deadliness
-deadlock
 deadlocking
 deadman
 direfulness
@@ -16412,6 +16411,7 @@ dogma
 downwith
 dowp
 dowress
+deadlock
 dowry
 drabness
 dimensionality
