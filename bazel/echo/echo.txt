@@ -4211,7 +4211,6 @@ evocators
 etherol
 empoisonment
 empoisons
-empolder
 encallow
 emporetic
 embarren
@@ -13198,6 +13197,7 @@ explodable
 explode
 exploded
 eucarpous
+empolder
 explodent
 eponymize
 entozoarian
