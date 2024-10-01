@@ -7906,7 +7906,6 @@ echoingly
 epigrammatizer
 epigrammatizing
 epigrams
-epigraph
 epigrapher
 eftest
 epigraphy
@@ -7963,6 +7962,7 @@ epilobium
 epilog
 elaphure
 epilogation
+epigraph
 epilogic
 enstatitic
 epilogical
