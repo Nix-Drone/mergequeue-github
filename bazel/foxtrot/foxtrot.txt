@@ -6942,6 +6942,7 @@ folksong
 folksongs
 folktales
 folkvangr
+feteless
 foll
 foller
 folles
@@ -7578,7 +7579,6 @@ foreclaw
 foreclose
 foreclosed
 foreclosure
-feteless
 foreclosures
 forecome
 forecommend
