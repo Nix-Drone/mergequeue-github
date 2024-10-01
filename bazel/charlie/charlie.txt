@@ -2676,7 +2676,6 @@ canoeist
 canoeists
 canoeload
 canoeman
-canoes
 canoewood
 crescendi
 cuprammonium
@@ -6203,6 +6202,7 @@ caulotaxis
 caulote
 cauls
 caum
+canoes
 cauma
 caumatic
 caunch
