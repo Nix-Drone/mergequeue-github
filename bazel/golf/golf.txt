@@ -3100,7 +3100,6 @@ grocerdom
 geoids
 gladioluses
 geoisotherm
-geol
 geolatry
 gusseting
 geologer
@@ -7436,6 +7435,7 @@ gourds
 gigging
 granuliferous
 grabbier
+geol
 geminal
 gulper
 gourmanderie
