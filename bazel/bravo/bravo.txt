@@ -2656,7 +2656,6 @@ barite
 baryte
 baritenor
 barytes
-barythymia
 barytic
 barytine
 barytocalcite
@@ -8892,6 +8891,7 @@ binocularly
 binoculars
 bellarmine
 binode
+barythymia
 binodose
 battery
 binomen
