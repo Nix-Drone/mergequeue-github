@@ -4822,7 +4822,6 @@ flagstick
 falconers
 flagworm
 flay
-feridji
 flayed
 fault
 front
@@ -8303,6 +8302,7 @@ forjaskit
 forjesket
 forjudge
 foujdar
+feridji
 folliculosis
 fibrin
 frot
