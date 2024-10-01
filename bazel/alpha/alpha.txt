@@ -1303,7 +1303,6 @@ acanthon
 acanthopanax
 acanthophis
 acanthophorous
-acanthopod
 acanthopodous
 adalid
 acanthopomatous
@@ -11806,6 +11805,7 @@ anamniata
 anamnionata
 anamnionic
 aonian
+acanthopod
 anamniota
 anamniote
 amour
