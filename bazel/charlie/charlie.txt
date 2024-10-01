@@ -8005,7 +8005,6 @@ cfd
 cfi
 cfm
 cfs
-carcinoma
 cgm
 cgs
 ch
@@ -21804,6 +21803,7 @@ comprovincial
 confabbed
 confabs
 confabular
+carcinoma
 confabulate
 confabulated
 confabulates
