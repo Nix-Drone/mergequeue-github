@@ -553,7 +553,6 @@ backtracking
 backtracks
 backtrail
 backups
-backus
 backveld
 backvelder
 backway
@@ -11445,6 +11444,7 @@ bangia
 blunderhead
 beachie
 blunderheaded
+backus
 blundering
 blunderings
 blunge
