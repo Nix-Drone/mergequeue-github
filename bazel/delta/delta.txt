@@ -1895,7 +1895,6 @@ debs
 debt
 debted
 debtee
-debtful
 debtless
 debtor
 debtors
@@ -5779,6 +5778,7 @@ disposes
 deplume
 deplumes
 depluming
+debtful
 dewanee
 deplump
 depoetize

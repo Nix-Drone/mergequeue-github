@@ -2008,7 +2008,6 @@ bandspreading
 bandstand
 bandstands
 bandster
-ballroom
 bandstop
 bandstring
 bandura
@@ -11833,6 +11832,7 @@ boe
 boebera
 beylik
 boedromion
+ballroom
 bloodthirstiest
 boehmenism
 boehmenite
