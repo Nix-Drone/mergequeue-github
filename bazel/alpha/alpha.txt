@@ -19922,7 +19922,6 @@ armeriaceae
 armets
 armful
 armfuls
-armgaunt
 armguard
 asidehand
 armhole
@@ -20465,6 +20464,7 @@ autoptical
 arenae
 arter
 artery
+armgaunt
 arteria
 associating
 arteriac
