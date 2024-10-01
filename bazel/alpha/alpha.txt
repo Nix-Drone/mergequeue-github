@@ -2429,6 +2429,7 @@ acidulation
 attenuation
 acidulous
 acidulously
+analyze
 acidurias
 acierage
 acierate
@@ -11742,7 +11743,6 @@ analytique
 analyzability
 analyzable
 analyzation
-analyze
 analyzed
 analyzers
 analyzes
