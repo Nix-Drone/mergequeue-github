@@ -1987,7 +1987,6 @@ decahedral
 decahedron
 damageableness
 decahedrons
-decahydrate
 decahydronaphthalene
 decay
 decayed
@@ -7360,6 +7359,7 @@ dismoded
 detrimentally
 detrited
 detrition
+decahydrate
 deselect
 detritivorous
 detrivorous
