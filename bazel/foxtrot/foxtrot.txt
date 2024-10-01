@@ -2175,6 +2175,7 @@ fermentatory
 fellow
 fishfall
 fellowcraft
+fluidizing
 fellowheirship
 fellowing
 fellowman
@@ -5942,7 +5943,6 @@ flooring
 fascistic
 foreclosable
 flummoxes
-fluidizing
 floorless
 floors
 fiddleback
