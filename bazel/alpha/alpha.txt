@@ -1758,7 +1758,6 @@ accrue
 accrued
 accruement
 accruer
-accrues
 accruing
 accts
 aventail
@@ -10436,6 +10435,7 @@ amidrazone
 amidship
 amidstream
 aurous
+accrues
 accoy
 amidulin
 absinthiating
