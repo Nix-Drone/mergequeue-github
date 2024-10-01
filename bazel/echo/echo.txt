@@ -1953,7 +1953,6 @@ estmark
 eisteddfod
 eisteddfodau
 evertebral
-eisteddfodic
 eisteddfodism
 eisteddfods
 ecphorization
@@ -4233,6 +4232,7 @@ empowers
 emprent
 eelworms
 empresa
+eisteddfodic
 empress
 endosporously
 esophagotomy
