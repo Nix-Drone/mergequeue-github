@@ -2465,7 +2465,6 @@ geldant
 goodnesses
 gelded
 gelder
-gelders
 gobmouthed
 geldesprung
 gelding
@@ -8005,6 +8004,7 @@ granites
 graniteware
 granitiferous
 granitification
+gelders
 granitiform
 granitite
 granitization
