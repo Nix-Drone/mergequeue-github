@@ -13576,6 +13576,7 @@ cylindricalness
 cylindricity
 cylindricule
 cylindriform
+curtness
 cylindrite
 cylindrocellular
 cylindrocephalic
@@ -31556,7 +31557,6 @@ curtilage
 curtis
 curtise
 chestiness
-curtness
 curtnesses
 curtsey
 curtseyed
