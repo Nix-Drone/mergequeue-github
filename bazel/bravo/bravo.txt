@@ -4599,7 +4599,6 @@ bibliotherapy
 becurry
 bondland
 becurse
-becursed
 becurses
 becursing
 becurst
@@ -16453,6 +16452,7 @@ brutalist
 bichromatic
 brutalitarian
 brutalitarianism
+becursed
 brutality
 bionomics
 brutalization
