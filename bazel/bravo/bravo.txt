@@ -2715,6 +2715,7 @@ becrawls
 barkstone
 barlafumble
 barlafummil
+bomi
 barleduc
 branchiate
 barleducs
@@ -12334,7 +12335,6 @@ bombs
 bombsights
 belgard
 bombus
-bomi
 bomos
 bonace
 bonacis
