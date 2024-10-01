@@ -1754,7 +1754,6 @@ accroides
 accruable
 accrual
 accruals
-accrue
 accrued
 accruement
 accruer
@@ -3129,6 +3128,7 @@ actinomycete
 actinomycetous
 amebous
 actinomycoma
+accrue
 allogeneity
 actinomycosis
 analcime
