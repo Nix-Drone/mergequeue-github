@@ -5020,7 +5020,6 @@ endevil
 endexine
 endexines
 eardrum
-endgate
 enfief
 endhand
 endia
@@ -13466,6 +13465,7 @@ exsector
 exsects
 exsert
 exserted
+endgate
 eikones
 exserting
 exsertion
