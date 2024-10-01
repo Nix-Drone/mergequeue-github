@@ -1918,7 +1918,6 @@ banderoles
 banders
 banjara
 bandersnatch
-bandfile
 bandfiled
 bandfish
 bandgap
@@ -6251,6 +6250,7 @@ bitters
 barbless
 befinger
 boarishly
+bandfile
 benempted
 beneplacit
 betipple
