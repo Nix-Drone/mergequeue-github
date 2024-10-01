@@ -2972,7 +2972,6 @@ acroparalysis
 acroparesthesia
 amidopyrine
 acropathy
-acropathology
 angili
 achromatin
 acropetal
@@ -14140,6 +14139,7 @@ anteflexion
 antefurca
 antefurcae
 antefurcal
+acropathology
 antegarden
 antegrade
 antehall
