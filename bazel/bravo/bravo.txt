@@ -4039,7 +4039,6 @@ beaconage
 berchta
 beaconless
 business
-beacons
 beaded
 bequirtle
 beadeye
@@ -18339,6 +18338,7 @@ buttle
 buttresses
 buttressing
 buttressless
+beacons
 buttresslike
 butts
 buttstrap
