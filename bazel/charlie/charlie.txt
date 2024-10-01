@@ -6677,6 +6677,7 @@ celemines
 celery
 celeriac
 celeriacs
+clockmaker
 celeries
 celerity
 celerities
@@ -16479,7 +16480,6 @@ clockings
 clockkeeper
 clockless
 cuon
-clockmaker
 clockmaking
 crewer
 clockroom
