@@ -135,6 +135,7 @@ earthdrake
 erosionist
 eff
 endothermically
+emissivity
 earthed
 epiphysial
 earthfall
@@ -3942,7 +3943,6 @@ ekoi
 eudialyte
 epitheliliums
 emissive
-emissivity
 earthquaked
 emissory
 emitted
