@@ -6191,7 +6191,6 @@ flown
 firebreak
 flowstone
 flambeaux
-filicoid
 flrie
 flu
 fluate
@@ -7258,6 +7257,7 @@ footslogged
 footslogger
 forgift
 footsoldiers
+filicoid
 finnmarks
 footsore
 footsores
