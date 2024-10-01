@@ -5222,7 +5222,6 @@ guestship
 glasswork
 guider
 glassworker
-glassworkers
 glassworm
 gawkier
 glasswort
@@ -7380,6 +7379,7 @@ getpenny
 gallinuline
 guaranteer
 gowkedness
+glassworkers
 gotra
 gotraja
 gotta
