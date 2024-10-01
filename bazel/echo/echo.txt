@@ -3058,7 +3058,6 @@ equipoises
 electrothermostat
 ellagic
 ellasar
-elvan
 ellebore
 elleck
 ellenyard
@@ -12846,6 +12845,7 @@ exotheca
 exothecal
 exothecate
 exothecium
+elvan
 exothermal
 exothermally
 exothermically
