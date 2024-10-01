@@ -5938,7 +5938,6 @@ frigidity
 featherbedding
 floorcloths
 floored
-flooring
 fascistic
 foreclosable
 flummoxes
@@ -8771,6 +8770,7 @@ fortuitously
 fortuitus
 frizzled
 fortunate
+flooring
 fortunately
 fortunateness
 fortunel
