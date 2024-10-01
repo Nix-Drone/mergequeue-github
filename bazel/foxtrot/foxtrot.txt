@@ -4310,6 +4310,7 @@ firns
 firoloida
 flammability
 facia
+fluxive
 furlongs
 first
 fylker
@@ -6603,7 +6604,6 @@ fluxionally
 fluxionist
 fluxions
 fardels
-fluxive
 fluxmeter
 forespent
 fluxure
