@@ -2841,7 +2841,6 @@ bassets
 baronial
 baronies
 baronize
-baronized
 baronnes
 baronries
 blackbush
@@ -4932,6 +4931,7 @@ beefaloes
 botanizer
 bogyisms
 beefalos
+baronized
 brig
 beefburgers
 beefcake
