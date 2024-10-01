@@ -22470,7 +22470,6 @@ conjugally
 conjugant
 conjugata
 conjugatae
-conjugate
 conjugated
 conjugately
 conjugateness
@@ -26291,6 +26290,7 @@ chants
 cosuggestion
 cosurety
 caracole
+conjugate
 cosuretyship
 collisional
 cosustain
