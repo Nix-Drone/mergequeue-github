@@ -10096,7 +10096,6 @@ cheshire
 chesil
 cheskey
 choices
-cheskeys
 cheslep
 chesoun
 chess
@@ -15727,6 +15726,7 @@ clavae
 claval
 clavariaceae
 clavariaceous
+cheskeys
 clavate
 cosignatory
 clavated

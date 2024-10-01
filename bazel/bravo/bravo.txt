@@ -433,6 +433,7 @@ backpointer
 backpointers
 backrest
 backrope
+borer
 brimstony
 backropes
 boskets
@@ -1926,7 +1927,6 @@ bandh
 brownism
 bandhava
 bandhook
-borer
 bandhu
 begulfing
 bandyball
