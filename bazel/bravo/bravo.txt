@@ -3726,7 +3726,6 @@ breadbaskets
 beauty
 batrachidae
 batrachite
-batrachium
 batrachophagous
 batrachophidia
 bats
@@ -15854,6 +15853,7 @@ bioinstrumentation
 bromeliaceae
 bromeliaceous
 bromeliad
+batrachium
 bromelin
 bromelins
 batler
