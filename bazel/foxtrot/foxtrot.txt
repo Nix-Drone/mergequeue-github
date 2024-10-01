@@ -3803,6 +3803,7 @@ filmsetter
 frocklike
 forties
 filmsetting
+forelook
 filmslide
 filmstrip
 filmstrips
@@ -7791,7 +7792,6 @@ forelimbs
 foredevised
 forelive
 florilege
-forelook
 formants
 francisco
 foreloop
