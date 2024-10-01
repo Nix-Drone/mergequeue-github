@@ -15326,7 +15326,6 @@ clamberer
 colfox
 cassique
 chaining
-clambering
 clambers
 clamcracker
 clame
@@ -30034,6 +30033,7 @@ crowbar
 crowbars
 crowbell
 crowberry
+clambering
 crowboot
 crowd
 columbo
