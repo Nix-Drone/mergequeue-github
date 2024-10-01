@@ -6199,7 +6199,6 @@ caulophyllum
 caulopteris
 caulosarc
 caulotaxy
-caulotaxis
 caulote
 cauls
 caum
@@ -25774,6 +25773,7 @@ corrosives
 complexionally
 corrosiving
 corrosivity
+caulotaxis
 corrugant
 corrugate
 corrugated
