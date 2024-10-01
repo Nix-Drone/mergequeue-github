@@ -10575,6 +10575,7 @@ bleaches
 bleachfield
 balr
 bleachground
+bolides
 bedarken
 bleachhouse
 bleachyard
@@ -12121,7 +12122,6 @@ bolewort
 bolyaian
 baklawas
 bolide
-bolides
 bolimba
 bolivar
 bolivares
