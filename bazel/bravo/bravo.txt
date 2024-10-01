@@ -2092,7 +2092,6 @@ boardman
 bank
 bankalachi
 bankbooks
-bulanda
 baldachini
 basti
 bankcard
@@ -9108,6 +9107,7 @@ biophysics
 biophysiography
 biophysiology
 biophysiologist
+bulanda
 brunellia
 biophyte
 biophotophone
