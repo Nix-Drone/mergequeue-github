@@ -5359,7 +5359,6 @@ affixial
 affixion
 affixment
 ague
-affixture
 afflate
 afflated
 afflatus
@@ -21188,6 +21187,7 @@ ashtray
 ashtrays
 aspartic
 ashvamedha
+affixture
 ashweed
 ashwort
 asia
