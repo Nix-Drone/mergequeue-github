@@ -5103,7 +5103,6 @@ aerotherapeutics
 aerotherapy
 amreetas
 aerothermodynamic
-aerothermodynamics
 aerotonometer
 aerotonometry
 aerotonometric
@@ -22117,6 +22116,7 @@ astir
 astogeny
 aglutition
 astomatous
+aerothermodynamics
 astomia
 architecturalist
 astond
