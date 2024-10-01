@@ -11319,7 +11319,6 @@ chlorodize
 chlorodized
 chlorodizing
 chloroethene
-chloroethylene
 chlorofluorocarbon
 chloroformate
 chloroformed
@@ -30895,6 +30894,7 @@ chloroform
 culverfoot
 culverhouse
 culverineer
+chloroethylene
 culveriner
 culverins
 culverkey
