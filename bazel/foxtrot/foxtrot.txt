@@ -4215,6 +4215,7 @@ fireplow
 fleeceable
 fireplug
 frieze
+funded
 fireplugs
 firepot
 fireproofed
@@ -7178,7 +7179,6 @@ footholds
 foothot
 fedn
 flippantness
-funded
 footy
 footie
 footier
