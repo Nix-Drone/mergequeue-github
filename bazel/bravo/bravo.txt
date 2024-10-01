@@ -11619,7 +11619,6 @@ boatmen
 blesbok
 boatowner
 boats
-boatshop
 boatsman
 bobbed
 boatsmen
@@ -14529,6 +14528,7 @@ banda
 brandling
 brandon
 brandreth
+boatshop
 brandrith
 brangle
 brangling
