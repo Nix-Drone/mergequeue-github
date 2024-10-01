@@ -1444,7 +1444,6 @@ deceived
 dcb
 dclass
 dcollet
-dcor
 ddname
 disillusionise
 damnatory
@@ -13376,6 +13375,7 @@ disreputability
 dialyzable
 disreputable
 disreputableness
+dcor
 disreputably
 disreputation
 dhuti
