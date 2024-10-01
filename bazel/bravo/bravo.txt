@@ -3769,7 +3769,6 @@ beknown
 batteners
 battening
 battens
-batter
 bread
 batterable
 battercake
@@ -9303,6 +9302,7 @@ bipinnaria
 bipinnariae
 bipinnarias
 bipinnate
+batter
 bipinnated
 bipinnatipartite
 bipinnatisect
