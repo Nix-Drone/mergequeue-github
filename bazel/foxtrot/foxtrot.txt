@@ -491,7 +491,6 @@ fakiness
 footmaker
 faking
 fluoaluminate
-fakir
 fakirs
 falafel
 falange
@@ -1695,6 +1694,7 @@ fcp
 foehns
 familiar
 friars
+fakir
 four
 fdnames
 fdtype
