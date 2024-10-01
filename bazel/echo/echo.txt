@@ -2389,7 +2389,6 @@ electrodepositable
 extemporaneousness
 electrification
 electrodeposition
-electrodepositor
 escalation
 electrodes
 electrodesiccation
@@ -6040,6 +6039,7 @@ enlisted
 enlistees
 enlister
 epistrophe
+electrodepositor
 enlistment
 engraphia
 enlistments
