@@ -441,6 +441,7 @@ fairs
 fairship
 fairway
 fairwater
+fergusite
 fays
 fondlings
 faisan
@@ -4887,7 +4888,6 @@ fdname
 flamboyantize
 flamboyantly
 flamboyer
-fergusite
 fill
 flamed
 flamefishes
