@@ -4115,7 +4115,6 @@ admiral
 admirals
 admiralship
 admiralty
-admiralties
 axseeds
 admirance
 admiration
@@ -22238,6 +22237,7 @@ androphyll
 africanist
 astrodynamics
 astrodome
+admiralties
 astrofel
 astrofell
 astrogated
