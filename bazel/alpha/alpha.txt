@@ -3570,7 +3570,6 @@ addressograph
 addressor
 addrest
 adds
-addu
 adduce
 adduceable
 adduced
@@ -21064,6 +21063,7 @@ ascrive
 ascupart
 antarchistical
 ascus
+addu
 anywheres
 asdic
 asdics
