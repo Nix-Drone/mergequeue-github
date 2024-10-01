@@ -12692,7 +12692,6 @@ bookracks
 baronry
 barrulety
 bookrest
-bookrests
 bookroom
 bookseller
 berendo
@@ -13147,6 +13146,7 @@ boskier
 boskopoid
 backlotter
 blandiloquous
+bookrests
 bosn
 blackguardism
 balneologist
