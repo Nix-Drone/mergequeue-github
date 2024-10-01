@@ -957,7 +957,6 @@ gamelang
 gamelans
 gameless
 gentian
-gamely
 gamelike
 gymnast
 goracco
@@ -5645,6 +5644,7 @@ global
 geulah
 galvanocauterization
 globosely
+gamely
 gamins
 globalists
 guidances
