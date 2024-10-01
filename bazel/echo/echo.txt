@@ -5433,7 +5433,6 @@ endseal
 endshake
 endsheet
 everglade
-execrates
 endue
 exploration
 enduing
@@ -12236,6 +12235,7 @@ ethaldehyde
 englishes
 excusatory
 excused
+execrates
 excuseful
 excusefully
 exostome
