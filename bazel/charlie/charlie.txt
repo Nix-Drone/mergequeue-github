@@ -3688,7 +3688,6 @@ conrail
 carbodynamite
 carbohemoglobin
 calamodendron
-carbohydrase
 carbohydrate
 carbohydrates
 carbohydraturia
@@ -17050,6 +17049,7 @@ coadjacent
 coadjacently
 coadjudicator
 coadjument
+carbohydrase
 coadjustment
 coadjutant
 campement
