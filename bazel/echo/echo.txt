@@ -5421,6 +5421,7 @@ entypies
 endozoa
 endozoic
 endpaper
+emit
 extranidal
 endplates
 endpoints
@@ -6474,7 +6475,6 @@ ensorcels
 ensorcerize
 ensorrow
 eucalyn
-emit
 evaporator
 educement
 ensoul
