@@ -3128,7 +3128,6 @@ fibrocyst
 fibrocystoma
 fibrocyte
 fibrocytic
-floatiness
 fibroenchondroma
 fibroferrite
 fibroglioma
@@ -5663,6 +5662,7 @@ flintier
 flyblown
 formularizer
 flintless
+floatiness
 flintlike
 flintlock
 fellatios
