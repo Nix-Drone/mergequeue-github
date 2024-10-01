@@ -850,7 +850,6 @@ abristle
 abroach
 abrocome
 abrogable
-abrogate
 antagonisation
 abrogates
 abrogating
@@ -12498,6 +12497,7 @@ anemometer
 anemometers
 anemometrical
 avoided
+abrogate
 anemometrically
 asculae
 anemometrograph
