@@ -7694,7 +7694,6 @@ exocrine
 everduring
 enterohelcosis
 epicormic
-epicorolline
 epicortical
 epicostal
 enterogastritis
@@ -7840,6 +7839,7 @@ epigastria
 epigastric
 epigastrical
 epigastriocele
+epicorolline
 epigastrium
 epigastrocele
 eliminations
