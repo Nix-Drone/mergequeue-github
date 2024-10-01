@@ -13475,7 +13475,6 @@ dissection
 dissections
 disfrequent
 dissectors
-dissects
 desperadoes
 disseise
 disseised
@@ -13725,6 +13724,7 @@ distaining
 distal
 distalwards
 distance
+dissects
 distanced
 decasyllables
 duograph
