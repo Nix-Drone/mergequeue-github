@@ -16701,7 +16701,6 @@ clotheshorse
 clotheshorses
 clothesyard
 clothesless
-clothesline
 clotheslines
 clothesman
 cosuitor
@@ -18521,6 +18520,7 @@ coinclination
 coincline
 coincorporate
 coindicant
+clothesline
 coindication
 coindwelling
 coiner
