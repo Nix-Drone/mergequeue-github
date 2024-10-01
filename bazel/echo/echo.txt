@@ -2380,7 +2380,6 @@ entrechat
 exanguin
 electrocutions
 emplaces
-electrode
 electrodeless
 entremets
 ergatomorph
@@ -3545,6 +3544,7 @@ embolium
 embolization
 embolize
 embolo
+electrode
 embolomalerism
 ectoskeleton
 embolomycotic
