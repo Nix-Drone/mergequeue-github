@@ -1074,7 +1074,6 @@ freshening
 furriners
 farmable
 farmed
-farmer
 farmeress
 farmery
 filigraned
@@ -6418,6 +6417,7 @@ fluorhydric
 fluoric
 fluoridate
 fluoridated
+farmer
 fluoridates
 flustering
 formularization
