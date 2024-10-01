@@ -4637,6 +4637,7 @@ advisableness
 advisably
 advisal
 advise
+autodiagnostic
 aune
 advisedly
 advisedness
@@ -23997,7 +23998,6 @@ autodepolymerization
 autodermic
 autodestruction
 autodiagnosis
-autodiagnostic
 autodiagrammatic
 autodial
 adobe
