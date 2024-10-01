@@ -4343,7 +4343,6 @@ forb
 fisetin
 fish
 fishability
-fishable
 fishback
 fishberry
 fleshers
@@ -10646,6 +10645,7 @@ five
 flatfooting
 freespac
 fapesmo
+fishable
 fructuarius
 floralia
 feuilletonism
