@@ -6399,7 +6399,6 @@ bibs
 benzanthrone
 bocklogged
 buhrstone
-benzdiazine
 bipolarize
 benzdifuran
 benzdioxdiazine
@@ -12292,6 +12291,7 @@ bomber
 bedirty
 bombernickel
 begroaning
+benzdiazine
 bombes
 bombesins
 bombiccite
