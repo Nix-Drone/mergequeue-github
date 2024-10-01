@@ -15981,6 +15981,7 @@ antipriestcraft
 antipriesthood
 antiprime
 antiprimer
+awaits
 antiprinciple
 antiproductionist
 antiproductive
@@ -24923,7 +24924,6 @@ awaiter
 awaiters
 awaiting
 awaitlala
-awaits
 awakable
 awake
 awakeable
