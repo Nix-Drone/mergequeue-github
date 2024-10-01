@@ -5782,7 +5782,6 @@ catercap
 catercorner
 catercornered
 catercornerways
-catercousin
 catered
 conclusible
 caterer
@@ -29993,6 +29992,7 @@ crouchback
 crouche
 crouched
 croucher
+catercousin
 crouches
 crouchie
 cahnite
