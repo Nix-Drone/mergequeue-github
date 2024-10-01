@@ -820,7 +820,6 @@ galvanomagnetic
 galvanometer
 galvanometers
 girt
-galvanometric
 geometries
 generously
 gouldian
@@ -8710,6 +8709,7 @@ greenovite
 greenroom
 greens
 gastroscopies
+galvanometric
 gilty
 greensauce
 gentilism
