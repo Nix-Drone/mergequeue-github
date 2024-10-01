@@ -2918,7 +2918,6 @@ barrage
 barnmen
 barraged
 barrages
-barraging
 barragon
 bowle
 bosun
@@ -17272,6 +17271,7 @@ bumbailiff
 bumbailiffship
 bumbard
 bumbaze
+barraging
 bumbee
 bumbelo
 bumble
