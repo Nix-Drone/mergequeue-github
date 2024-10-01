@@ -10100,7 +10100,6 @@ cheskeys
 cheslep
 chesoun
 chess
-chessart
 chessboard
 chessboards
 chessdom
@@ -13900,6 +13899,7 @@ cineplastics
 cineradiography
 cabouca
 cinerama
+chessart
 cinerararia
 cineraria
 credence
