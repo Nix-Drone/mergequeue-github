@@ -16457,6 +16457,7 @@ cloakrooms
 caterwaul
 cloakwise
 cloam
+countermanded
 cloamen
 cloamer
 clobber
@@ -26887,7 +26888,6 @@ countermaid
 counterman
 countermand
 countermandable
-countermanded
 countermanding
 countermaneuver
 countermanifesto
