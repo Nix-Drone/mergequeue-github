@@ -7329,7 +7329,6 @@ alastors
 alate
 alated
 alatern
-alaternus
 alation
 anticaste
 alations
@@ -10545,6 +10544,7 @@ amylopsin
 amylose
 apprenticeship
 amyloses
+alaternus
 amylosynthesis
 amylosis
 asthenosphere
