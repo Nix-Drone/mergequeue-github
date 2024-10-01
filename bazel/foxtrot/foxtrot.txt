@@ -6154,7 +6154,6 @@ flowcharted
 fulicinae
 flowcharts
 finality
-foldstool
 flowcontrol
 flanche
 flowed
@@ -10373,6 +10372,7 @@ fromward
 fromwards
 fronde
 frondent
+foldstool
 forestep
 foredoing
 factor
