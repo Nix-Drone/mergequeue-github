@@ -12852,7 +12852,6 @@ angledog
 anglehook
 anglepod
 anglepods
-angler
 anglesmith
 angletwitch
 anglewing
@@ -22844,6 +22843,7 @@ alloploidy
 atrazines
 atrebates
 atremata
+angler
 atremate
 atrematous
 atremble
