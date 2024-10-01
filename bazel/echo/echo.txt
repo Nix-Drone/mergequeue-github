@@ -9371,6 +9371,7 @@ errs
 errsyn
 ensuing
 ers
+exportations
 ersar
 elliptically
 ersatz
@@ -13272,7 +13273,6 @@ exportable
 entitled
 exceedingly
 exportation
-exportations
 exported
 enlength
 encyclopediac
