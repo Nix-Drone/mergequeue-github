@@ -11367,7 +11367,6 @@ chlorophyllaceous
 chlorophyllase
 chlorophyllian
 chlorophyllide
-chlorophylligenous
 chlorophylligerous
 chlorophyllin
 chlorophyllite
@@ -27425,6 +27424,7 @@ covariables
 coal
 campanularia
 covariant
+chlorophylligenous
 covariate
 covariates
 covariation
