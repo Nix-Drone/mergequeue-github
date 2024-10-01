@@ -4488,7 +4488,6 @@ elaboratory
 ethicists
 encapsulation
 encapsulations
-encapsule
 encapsuled
 enjeopardy
 encapsules
@@ -9728,6 +9727,7 @@ esophagoscopy
 euphrosyne
 esophagostenosis
 esophagostomy
+encapsule
 endorsor
 esophagotome
 esophagus
