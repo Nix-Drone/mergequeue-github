@@ -941,7 +941,6 @@ absentment
 absentminded
 absentmindedly
 absentmindedness
-absentness
 absents
 absfarad
 abshenry
@@ -6870,6 +6869,7 @@ abhorrences
 airfare
 amyctic
 airfares
+absentness
 airfield
 airflow
 airflows
