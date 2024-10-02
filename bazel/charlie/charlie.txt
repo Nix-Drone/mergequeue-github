@@ -8732,7 +8732,6 @@ chansonette
 chansonnette
 chansonnier
 chansonniers
-chanst
 chant
 celandine
 chera
@@ -26557,6 +26556,7 @@ coulombmeter
 coulombs
 coulometer
 coulter
+chanst
 coulterneb
 coulters
 coulthard
