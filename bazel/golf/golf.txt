@@ -5975,7 +5975,6 @@ gloveless
 grain
 glovemaker
 gametes
-gloveman
 glover
 gloves
 glow
@@ -6714,6 +6713,7 @@ gallop
 goloch
 gallicanism
 golosh
+gloveman
 groundage
 goloshes
 golpe
