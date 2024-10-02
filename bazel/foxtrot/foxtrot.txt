@@ -2220,7 +2220,6 @@ felspars
 friendlily
 felspath
 felspathose
-felstone
 framers
 farmhouses
 felt
@@ -9746,6 +9745,7 @@ freesias
 freesilverism
 freesilverite
 freespace
+felstone
 freest
 firebrands
 freestanding
