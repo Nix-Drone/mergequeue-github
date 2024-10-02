@@ -2770,7 +2770,6 @@ elementaloid
 eluded
 escorting
 elementals
-elementary
 evasive
 elementarily
 elementarist
@@ -5317,6 +5316,7 @@ endosmosic
 euphoniously
 endosmosis
 extremal
+elementary
 endosmotic
 endosome
 equilibrist
