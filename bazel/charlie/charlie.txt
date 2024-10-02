@@ -5735,6 +5735,7 @@ categorical
 categorically
 categoricalness
 categories
+cli
 categorisation
 categorise
 categorised
@@ -16057,7 +16058,6 @@ clewed
 clewgarnet
 clewing
 clews
-cli
 cly
 cliack
 calcaemia
