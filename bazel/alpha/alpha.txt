@@ -436,7 +436,6 @@ abiogeneses
 abiogenesis
 abiogenesist
 abiogenetic
-abiogenetical
 abiogenetically
 abiogeny
 abiogenist
@@ -3547,6 +3546,7 @@ addling
 addlings
 antral
 addlins
+abiogenetical
 addn
 addnl
 addoom
