@@ -12972,7 +12972,6 @@ bordure
 bordures
 bore
 boreable
-boread
 boreal
 borealis
 branchedness
@@ -13329,6 +13328,7 @@ bothway
 byth
 botling
 botocudo
+boread
 botoyan
 botone
 botonee
