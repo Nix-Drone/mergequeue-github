@@ -4637,7 +4637,6 @@ enchantments
 enchantress
 enchants
 euclidean
-encharge
 encharged
 encharging
 enchased
@@ -6339,6 +6338,7 @@ enscrolls
 expediate
 ensculpture
 ense
+encharge
 enseal
 ensealed
 ensealing
