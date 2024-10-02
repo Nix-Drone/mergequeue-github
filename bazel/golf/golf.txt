@@ -3006,6 +3006,7 @@ geo
 geoagronomic
 geobiont
 geoblast
+gammaridae
 geobotany
 galivant
 geobotanic
@@ -8420,7 +8421,6 @@ gravelling
 goshdarn
 gyroceras
 gravelous
-gammaridae
 graveside
 geraty
 gallflower
