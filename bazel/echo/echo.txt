@@ -9472,7 +9472,6 @@ escalations
 entrance
 enkindle
 escalator
-escalier
 escalin
 escallonia
 expendability
@@ -11111,6 +11110,7 @@ eurypterus
 euripupi
 elytrigerous
 eruptions
+escalier
 euryscope
 ephthianure
 eurystomatous
