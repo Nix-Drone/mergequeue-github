@@ -986,7 +986,6 @@ calcaneonavicular
 calcaneoplantar
 countersale
 calcaneoscaphoid
-calcaneotibial
 calcaneum
 calcannea
 calcannei
@@ -23339,6 +23338,7 @@ contained
 colligance
 containedly
 container
+calcaneotibial
 containerboard
 containerization
 containerize
