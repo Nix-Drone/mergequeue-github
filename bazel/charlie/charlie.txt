@@ -7537,7 +7537,6 @@ cercomonad
 cercomonadidae
 cercopid
 continent
-cercopidae
 cercopithecid
 coenenchymata
 cercopithecidae
@@ -10487,6 +10486,7 @@ childhood
 childishly
 childishness
 childkind
+cercopidae
 childless
 childlessness
 childly
