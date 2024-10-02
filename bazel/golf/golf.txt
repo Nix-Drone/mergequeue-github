@@ -2877,7 +2877,6 @@ genoms
 genonema
 gph
 genos
-gerrymandered
 genospecies
 genotype
 gobinism
@@ -7449,6 +7448,7 @@ ghbor
 groundwater
 gourmet
 gourmetism
+gerrymandered
 gourmets
 gournard
 gourounut
