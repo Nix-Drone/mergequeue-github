@@ -6969,7 +6969,6 @@ fauconnier
 follis
 feuille
 fatheads
-follow
 followable
 followed
 follower
@@ -10412,6 +10411,7 @@ foolhardier
 facewise
 frontalis
 frontally
+follow
 footgeld
 frontals
 frontbencher
