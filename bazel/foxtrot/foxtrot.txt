@@ -7912,7 +7912,6 @@ frenchify
 forerank
 forereach
 forereading
-forerecited
 forereckon
 forerehearsed
 forerequest
@@ -10792,6 +10791,7 @@ frwy
 faintish
 formular
 feldspathoidal
+forerecited
 fs
 ferr
 fstore
