@@ -7466,7 +7466,6 @@ fivers
 flabbergastation
 finds
 ford
-fordable
 flaunche
 fordableness
 fordays
@@ -9714,6 +9713,7 @@ freeholding
 fanwe
 freeholds
 freeing
+fordable
 freeings
 fluviograph
 freelage
