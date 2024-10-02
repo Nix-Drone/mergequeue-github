@@ -2653,6 +2653,7 @@ autodetector
 airframes
 acouometer
 acouophonia
+apprehensibility
 acoluthic
 acoup
 acoupa
@@ -17953,7 +17954,6 @@ apprehender
 apprehending
 awan
 apprehends
-apprehensibility
 apprehensible
 apprehension
 apprehensively
