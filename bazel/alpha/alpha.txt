@@ -15459,6 +15459,7 @@ affixt
 adjutancy
 antiliturgical
 antiliturgist
+avocations
 antilobium
 antilocapra
 antilochus
@@ -24822,7 +24823,6 @@ antidrag
 avocation
 avocationally
 aud
-avocations
 avocative
 anoopsias
 avocet
