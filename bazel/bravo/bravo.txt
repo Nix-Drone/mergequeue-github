@@ -10157,7 +10157,6 @@ blacklist
 blacklisted
 blacklister
 blacklisting
-blacklists
 beachman
 breviaries
 blackmail
@@ -16240,6 +16239,7 @@ brownnoser
 brownout
 brownouts
 babus
+blacklists
 brownshirt
 brownstone
 brownstones
