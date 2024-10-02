@@ -20343,7 +20343,6 @@ commutation
 commutative
 commutatively
 commutativity
-commutator
 commutators
 commute
 commuted
@@ -23169,6 +23168,7 @@ constricts
 constringe
 comburendo
 chirrups
+commutator
 creeler
 constringency
 constringent
