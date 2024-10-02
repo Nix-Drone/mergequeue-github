@@ -7753,7 +7753,6 @@ aldohexose
 aldoketene
 aldol
 aldolase
-aldolases
 aldolization
 anconei
 aldolized
@@ -24839,6 +24838,7 @@ avoidance
 avoidances
 avoidant
 avoider
+aldolases
 avoiders
 avoidment
 avoids
