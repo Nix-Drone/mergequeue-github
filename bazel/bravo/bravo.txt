@@ -1971,6 +1971,7 @@ bandlimiting
 bandlimits
 bandman
 bandmaster
+boniform
 bandmasters
 bando
 bandobust
@@ -12488,7 +12489,6 @@ boniface
 bonifaces
 bonification
 bonyfish
-boniform
 bonilass
 boniness
 boninesses
