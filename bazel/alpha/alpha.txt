@@ -6016,7 +6016,6 @@ agglutinator
 agamobium
 agglutinin
 agglutinins
-agglutinize
 alls
 agglutinogen
 agglutinogenic
@@ -11761,6 +11760,7 @@ analog
 alfridary
 analoga
 analogal
+agglutinize
 analogy
 analogic
 autocratically
