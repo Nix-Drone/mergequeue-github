@@ -4636,7 +4636,6 @@ enchantment
 enchantments
 enchantress
 enchants
-euclidean
 encharge
 encharged
 encharging
@@ -8244,6 +8243,7 @@ evaluable
 epispermic
 epispinal
 episplenitis
+euclidean
 epispore
 equivalently
 effeminisation
