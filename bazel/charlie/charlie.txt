@@ -8191,6 +8191,7 @@ chainmaking
 chiropodist
 chainmen
 chainomatic
+chiropraxis
 cultists
 chains
 chainsman
@@ -10979,7 +10980,6 @@ chiropractic
 cubicular
 chiropractor
 chiropractors
-chiropraxis
 chiroptera
 chiropteran
 chiropterygian
