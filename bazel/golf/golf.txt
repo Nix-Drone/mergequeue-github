@@ -2877,7 +2877,6 @@ genoms
 genonema
 gph
 genos
-gerrymandered
 genospecies
 genotype
 gobinism
@@ -6556,6 +6555,7 @@ gusts
 goidelic
 goyim
 glommed
+gerrymandered
 galeproof
 greyfly
 goyish
