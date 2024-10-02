@@ -6398,7 +6398,6 @@ ethmoids
 elevato
 ensient
 ensiferi
-encastered
 ensiform
 ensign
 embarcation
@@ -9455,6 +9454,7 @@ enstate
 esbatement
 enlock
 esc
+encastered
 esca
 escalade
 emotionally
