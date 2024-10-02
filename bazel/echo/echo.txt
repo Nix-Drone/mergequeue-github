@@ -2781,7 +2781,6 @@ elementish
 elements
 ergatandromorphic
 elemicin
-elemin
 elemis
 ecthyma
 elemong
@@ -11360,6 +11359,7 @@ evaporable
 evaporate
 eutaxy
 evaporated
+elemin
 evaporates
 enemylike
 evaporating
