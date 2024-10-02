@@ -4606,6 +4606,7 @@ forages
 fm
 fivesome
 fivestones
+foreplot
 fivish
 fix
 flourisher
@@ -7370,7 +7371,6 @@ forby
 forewarnings
 faunlike
 foreparent
-foreplot
 forbid
 forebodingly
 forbidals
