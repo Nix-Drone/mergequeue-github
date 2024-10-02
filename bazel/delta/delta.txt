@@ -10991,7 +10991,6 @@ disallows
 disaltern
 disambiguate
 disambiguating
-deoxyribonucleic
 disambiguations
 disamis
 dysanalyte
@@ -18008,6 +18007,7 @@ dulciloquy
 dulcimer
 dulcimers
 dulcimore
+deoxyribonucleic
 detailed
 dulcin
 dulcinea
