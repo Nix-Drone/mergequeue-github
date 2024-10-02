@@ -335,7 +335,6 @@ ebbs
 ebcasc
 enterosyphilis
 ebcd
-ebcdic
 ebdomade
 eben
 ebenaceae
@@ -10351,6 +10350,7 @@ ethylidyne
 ethylin
 ethylmorphine
 enflowering
+ebcdic
 ethylsulphuric
 ethylthioethane
 ethylthioether
