@@ -5101,6 +5101,7 @@ caseum
 caseweed
 casewood
 caseworker
+chariotee
 caseworkers
 caseworks
 caseworm
@@ -9009,7 +9010,6 @@ charing
 coatracks
 chariot
 charioted
-chariotee
 charioteer
 charioting
 chariotlike
