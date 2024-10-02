@@ -140,7 +140,6 @@ faconde
 faconne
 facsim
 frena
-facsimile
 facsimiled
 fastest
 facsimileing
@@ -4631,6 +4630,7 @@ fibroreticulate
 fixer
 freedstool
 fixidity
+facsimile
 fixing
 fixings
 fixities
