@@ -6666,7 +6666,6 @@ designado
 designate
 designates
 designation
-designatory
 designators
 designatum
 detersive
@@ -15627,6 +15626,7 @@ doorstep
 doorstone
 doorstop
 deaconize
+designatory
 doorway
 doorways
 doorward
