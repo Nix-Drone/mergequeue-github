@@ -3250,6 +3250,7 @@ elwood
 enigmatically
 elzevir
 em
+equatable
 ektene
 essentials
 emacerated
@@ -8576,7 +8577,6 @@ equals
 equanimously
 equanimousness
 equatability
-equatable
 equate
 equates
 equating
