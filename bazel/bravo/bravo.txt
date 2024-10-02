@@ -5492,7 +5492,6 @@ bacterioprotein
 behorror
 bellmaster
 bilabe
-behoved
 behoves
 behoving
 bepurple
@@ -12304,6 +12303,7 @@ bombycine
 bombidae
 bombilate
 bombilation
+behoved
 bombyliidae
 bombilla
 burrio
