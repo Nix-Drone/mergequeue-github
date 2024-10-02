@@ -3625,6 +3625,7 @@ flagships
 filespec
 forficula
 fossores
+femalize
 fileting
 floatboard
 fylfot
@@ -10055,7 +10056,6 @@ frightless
 flaggingly
 frights
 frightsome
-femalize
 frigidarium
 frigiddaria
 frigidly
