@@ -1105,7 +1105,6 @@ calcsinter
 calcspar
 calcspars
 calctufas
-calctuff
 calculability
 calculable
 calculableness
@@ -11262,6 +11261,7 @@ credensiveness
 chlorimetry
 chlorimetric
 chlorin
+calctuff
 casuariidae
 chlorinated
 chlorinates
