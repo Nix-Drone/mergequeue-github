@@ -8572,7 +8572,6 @@ equalizers
 equalizes
 equaller
 equalling
-equals
 equanimously
 equanimousness
 equatability
@@ -12083,6 +12082,7 @@ excludes
 endpoint
 excludingly
 exampleship
+equals
 exclusion
 exclusionary
 eigenspace
