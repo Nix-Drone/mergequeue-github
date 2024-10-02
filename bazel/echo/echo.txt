@@ -13409,7 +13409,6 @@ expungeable
 expunged
 expunger
 expungers
-expunging
 expurgate
 expurgated
 expurgating
@@ -13539,6 +13538,7 @@ extended
 extendedly
 extender
 extending
+expunging
 extends
 enworthy
 extensibility
