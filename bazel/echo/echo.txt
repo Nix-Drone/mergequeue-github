@@ -9934,7 +9934,6 @@ estaminet
 estaminets
 emittance
 estampage
-estampede
 emender
 estampie
 estancia
@@ -13310,6 +13309,7 @@ eurypterid
 expositor
 expository
 expositorial
+estampede
 expositorially
 expositorily
 expositors
