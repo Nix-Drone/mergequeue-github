@@ -2424,7 +2424,6 @@ decimeter
 downstair
 dialogs
 degorder
-decimeters
 decimetre
 daysman
 dangering
@@ -5590,6 +5589,7 @@ departmentalise
 departmentalised
 dactyliographic
 departmentalising
+decimeters
 dimmock
 departmentalism
 departmentalization
