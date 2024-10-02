@@ -5057,7 +5057,6 @@ casebooks
 casebound
 casebox
 cased
-casefy
 casefied
 casefies
 corneter
@@ -28283,6 +28282,7 @@ comportment
 cravo
 craw
 califate
+casefy
 crawberry
 crawdad
 crawdads
