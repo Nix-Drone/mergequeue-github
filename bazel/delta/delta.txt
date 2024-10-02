@@ -470,7 +470,6 @@ daystars
 daystreak
 daytide
 daytime
-daytimes
 daiva
 dobbed
 dentately
@@ -15366,6 +15365,7 @@ diabetics
 dominators
 dif
 domine
+daytimes
 domineer
 domineered
 domineerer
