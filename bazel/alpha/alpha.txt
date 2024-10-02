@@ -4711,7 +4711,6 @@ aecidiaceae
 aecidial
 aecidioform
 aecidiomycetes
-aecidiospore
 aecidiostage
 aecidium
 aeciospore
@@ -18058,6 +18057,7 @@ approximating
 approximation
 approximations
 aesthetical
+aecidiospore
 adamic
 amucks
 approximative
