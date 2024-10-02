@@ -3917,7 +3917,6 @@ giboia
 goyle
 glave
 gibsons
-gibstaff
 gibus
 gibuses
 giddap
@@ -8246,6 +8245,7 @@ graspingness
 graspless
 gibberosity
 grassant
+gibstaff
 gypsiologist
 grassbird
 glossographical
