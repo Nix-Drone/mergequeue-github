@@ -5812,6 +5812,7 @@ engrapple
 engrasp
 engraulis
 engrave
+ell
 engravement
 engraven
 engraver
@@ -12879,7 +12880,6 @@ educabilia
 epitaphic
 expandible
 expanding
-ell
 expandingly
 expanse
 expansibility
