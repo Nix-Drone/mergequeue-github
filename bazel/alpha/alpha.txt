@@ -230,7 +230,6 @@ abbreviation
 ascebc
 abbreviations
 abbreviator
-abbreviators
 abbreviature
 abbroachment
 abc
@@ -12474,6 +12473,7 @@ anematize
 anematized
 anematizing
 anemias
+abbreviators
 anemic
 anemically
 achetidae
