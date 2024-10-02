@@ -5713,7 +5713,6 @@ aftertime
 aftertimes
 apastron
 aftertrial
-assortive
 afterturn
 arosaguntacook
 aboudikro
@@ -12154,6 +12153,7 @@ anchithere
 anchitherioid
 anchor
 anchorable
+assortive
 anchorage
 anchorages
 anchorate
