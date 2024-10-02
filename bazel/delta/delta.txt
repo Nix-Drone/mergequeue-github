@@ -2625,7 +2625,6 @@ decolorization
 decolorized
 decolorizer
 decolors
-decolour
 decolouration
 decolouring
 decolourisation
@@ -12973,6 +12972,7 @@ danegeld
 dispence
 direly
 dispend
+decolour
 dispended
 dispender
 dinotheres
