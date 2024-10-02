@@ -4126,6 +4126,7 @@ cardroom
 cards
 clearwing
 collunaria
+crackpot
 cardshark
 carbamido
 cardsharp
@@ -27859,7 +27860,6 @@ cracklings
 crackmans
 cracknel
 cracknels
-crackpot
 crackpotism
 crackpots
 crackpottedness
