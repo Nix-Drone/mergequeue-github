@@ -11161,7 +11161,6 @@ chlamydes
 cliftonia
 chlamydobacteriaceae
 chlamydobacteriaceous
-chlamydobacteriales
 chlamydomonadaceae
 chlamydomonadidae
 chlamydophore
@@ -23829,6 +23828,7 @@ contrib
 contributable
 contributary
 contributed
+chlamydobacteriales
 contributes
 civilisedness
 contribution
