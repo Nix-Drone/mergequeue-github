@@ -2655,7 +2655,6 @@ cannoneers
 clownish
 cannoning
 cannonism
-cannonproof
 cannonry
 cannonries
 cannons
@@ -24697,6 +24696,7 @@ coprides
 coprincipal
 coprinus
 coprisoner
+cannonproof
 coprocessor
 coprodaeum
 coproduce
