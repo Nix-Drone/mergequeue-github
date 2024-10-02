@@ -122,7 +122,6 @@ facilitative
 fromfile
 facility
 facilities
-facings
 francophile
 foldable
 functionally
@@ -9132,6 +9131,7 @@ fowlers
 fowlfoot
 fowling
 fowlings
+facings
 fowlpox
 fowlpoxes
 fallaciousness
