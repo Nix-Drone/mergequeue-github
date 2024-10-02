@@ -7371,7 +7371,6 @@ forewarnings
 faunlike
 foreparent
 foreplot
-forbid
 forebodingly
 forbidals
 forbiddal
@@ -9279,6 +9278,7 @@ foment
 foreorder
 fulmining
 fragging
+forbid
 fraggings
 fragile
 fishpot
