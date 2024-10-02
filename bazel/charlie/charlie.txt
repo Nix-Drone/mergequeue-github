@@ -29477,7 +29477,6 @@ crystalloid
 crystalloidal
 crystallology
 crystalloluminescence
-crystallomagnetic
 crystallomancy
 crystallometry
 crystallometric
@@ -29596,6 +29595,7 @@ crocheted
 crocheter
 crocheters
 crocheteur
+crystallomagnetic
 crocheting
 codebook
 crochets
