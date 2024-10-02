@@ -1630,6 +1630,7 @@ calpacked
 calpacks
 calpacs
 calpolli
+connaturality
 calpul
 calpulli
 calque
@@ -22547,7 +22548,6 @@ colorbearer
 connateness
 connation
 connatural
-connaturality
 cultelli
 connaturalize
 connaturally
