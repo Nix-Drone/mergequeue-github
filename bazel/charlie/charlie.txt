@@ -2394,6 +2394,7 @@ candyweed
 candle
 coehorn
 candleball
+clubhands
 caripeta
 candleberry
 candleberries
@@ -16842,7 +16843,6 @@ clubfisted
 clubfoot
 clubfooted
 clubhand
-clubhands
 clubhaul
 clubhauled
 clubhauling
