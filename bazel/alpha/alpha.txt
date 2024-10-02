@@ -2653,6 +2653,7 @@ autodetector
 airframes
 acouometer
 acouophonia
+animized
 acoluthic
 acoup
 acoupa
@@ -13210,7 +13211,6 @@ anabatic
 animists
 accretionary
 animize
-animized
 animo
 anymore
 animose
