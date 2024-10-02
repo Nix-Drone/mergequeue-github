@@ -329,7 +329,6 @@ backdates
 backdating
 backstair
 backdoor
-boogie
 barmier
 backdown
 brailler
@@ -5615,6 +5614,7 @@ belay
 belayed
 belayer
 belaying
+boogie
 belays
 brandishers
 belait
