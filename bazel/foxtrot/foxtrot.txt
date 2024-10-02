@@ -4800,7 +4800,6 @@ flagpole
 faunula
 figurehead
 flagpoles
-flagrance
 flagrancy
 filiform
 flagrate
@@ -11296,6 +11295,7 @@ funmaking
 funnel
 funneled
 funneling
+flagrance
 flattie
 funnelling
 funnels
