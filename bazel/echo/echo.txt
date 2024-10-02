@@ -2263,7 +2263,6 @@ elections
 elective
 ephemerons
 electives
-electivism
 electivity
 electo
 elector
@@ -6726,6 +6725,7 @@ emplastra
 equalization
 ensemble
 enterozoan
+electivism
 erepsins
 equilibriria
 ejaculators
