@@ -4364,7 +4364,6 @@ fisheress
 fragmentate
 fisherfolk
 fishery
-florentium
 fisherman
 flammably
 fisherwoman
@@ -5668,6 +5667,7 @@ flintlock
 fellatios
 flintwood
 flintworker
+florentium
 flyoff
 flyover
 flyovers
