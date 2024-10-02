@@ -21860,7 +21860,6 @@ associationistic
 associations
 aphakial
 associative
-associatively
 associativeness
 associativity
 associator
@@ -23800,6 +23799,7 @@ authenticators
 authenticities
 authenticly
 authenticness
+associatively
 authigene
 authigenetic
 authigenous
