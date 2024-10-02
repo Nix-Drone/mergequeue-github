@@ -12277,7 +12277,6 @@ exect
 executable
 executant
 engines
-execute
 executed
 enphytotic
 encastage
@@ -12521,6 +12520,7 @@ exhumer
 exhumers
 exhumes
 exhuming
+execute
 exies
 exigeant
 entreaty
