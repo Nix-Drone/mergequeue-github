@@ -1979,7 +1979,6 @@ campanella
 campanero
 campania
 cecils
-campaniform
 campanile
 campaniles
 campanili
@@ -21058,6 +21057,7 @@ conant
 czardases
 conarial
 conarium
+campaniform
 conation
 conational
 cephalotome
