@@ -10111,6 +10111,7 @@ chesses
 chesset
 chessylite
 chessist
+copsing
 chessman
 chessmen
 chirimen
@@ -24740,7 +24741,6 @@ copsewood
 copsewooded
 circs
 copsy
-copsing
 copsole
 copt
 copters
