@@ -4625,7 +4625,6 @@ advertising
 advertizable
 amulets
 advertized
-advertizement
 allobars
 advertizes
 advertizing
@@ -18162,6 +18161,7 @@ alcicornium
 apterium
 apteryx
 apteryxes
+advertizement
 agentship
 apteroid
 apterous
