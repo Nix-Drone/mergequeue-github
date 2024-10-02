@@ -4632,7 +4632,6 @@ fixer
 freedstool
 fixidity
 fixing
-fixings
 fixities
 flannelleaf
 fixt
@@ -8621,6 +8620,7 @@ forsar
 fardh
 flagellative
 forseeable
+fixings
 forseek
 forseen
 forset
