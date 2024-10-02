@@ -5299,7 +5299,6 @@ castellet
 castelli
 castellum
 casten
-caster
 casterless
 casters
 castes
@@ -25582,6 +25581,7 @@ corporealist
 cirsotome
 corporeality
 corporealization
+caster
 corporeally
 corporeals
 corporeity
