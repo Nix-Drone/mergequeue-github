@@ -1222,7 +1222,6 @@ educables
 educand
 educatability
 epicrystalline
-eident
 educatable
 educate
 evitate
@@ -12412,6 +12411,7 @@ earthward
 exflagellation
 exflect
 exfodiation
+eident
 exfoliate
 endower
 endemically
