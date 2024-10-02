@@ -3273,7 +3273,6 @@ defenser
 defenses
 defensibility
 defensibleness
-defensibly
 defensive
 defensively
 defensiveness
@@ -3400,6 +3399,7 @@ deflagrated
 deflagrates
 deflagrating
 dermatoheteroplasty
+defensibly
 deflagration
 deflagrator
 deflate
