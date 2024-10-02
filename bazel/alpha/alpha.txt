@@ -5639,7 +5639,6 @@ afterhours
 afterimpression
 afterings
 afterking
-afterknowledge
 afterlifetime
 afterlight
 afterlives
@@ -6140,6 +6139,7 @@ agynary
 agynarious
 aging
 agings
+afterknowledge
 amidmost
 agynic
 aginner
