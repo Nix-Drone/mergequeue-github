@@ -3515,7 +3515,6 @@ deforests
 deform
 diasters
 deformability
-disknow
 deformable
 deformalize
 deformation
@@ -4684,6 +4683,7 @@ demiplate
 demipomada
 demipremise
 demipremiss
+disknow
 demipronation
 diazid
 demipuppet
