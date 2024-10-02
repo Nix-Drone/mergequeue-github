@@ -2434,7 +2434,6 @@ candlewaster
 candlewasting
 candlewick
 candlewicking
-candlewicks
 candlewright
 candling
 candock
@@ -14945,6 +14944,7 @@ cytomegalovirus
 cytomere
 cytometer
 cytomicrosome
+candlewicks
 citrated
 cytomitome
 cytomorphology
