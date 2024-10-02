@@ -4958,6 +4958,7 @@ endaspidean
 endaze
 escrows
 endboard
+exsert
 endbrains
 enddamaged
 enddamaging
@@ -13464,7 +13465,6 @@ emmarbling
 exsecting
 exsector
 exsects
-exsert
 exserted
 eikones
 exserting
