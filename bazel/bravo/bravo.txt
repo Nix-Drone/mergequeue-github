@@ -1109,6 +1109,7 @@ bailout
 bails
 bayou
 bailsman
+burglarproofing
 bailsmen
 bailwood
 becense
@@ -17659,7 +17660,6 @@ burglarizing
 burglarproof
 burglarproofed
 berat
-burglarproofing
 baikerite
 barricadoing
 burglarproofs
