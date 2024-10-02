@@ -4381,6 +4381,7 @@ enamelist
 enamellar
 equiped
 enamellers
+extinguishers
 enamelless
 enamels
 enami
@@ -13680,7 +13681,6 @@ extinguishant
 extinguished
 electroneutrality
 extinguisher
-extinguishers
 extinguishes
 esture
 egressive
