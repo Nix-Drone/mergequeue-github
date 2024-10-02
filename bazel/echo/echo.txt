@@ -13448,7 +13448,6 @@ exscind
 exscinding
 exscinds
 exscissor
-exscript
 exsculp
 exsculptate
 exscutellate
@@ -13937,6 +13936,7 @@ extrapolating
 ebbed
 excised
 extrapolation
+exscript
 extrapolations
 extrapolator
 extrapolatory
