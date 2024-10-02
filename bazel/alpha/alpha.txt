@@ -2150,7 +2150,6 @@ aglossate
 apologizers
 acetoxime
 acetoxyphthalide
-acetphenetidin
 acetract
 acetum
 aceturic
@@ -2702,6 +2701,7 @@ acquirable
 antares
 acquire
 acquired
+acetphenetidin
 acquirement
 acquirements
 acquirer
