@@ -135,6 +135,7 @@ earthdrake
 erosionist
 eff
 endothermically
+evocation
 earthed
 epiphysial
 earthfall
@@ -11606,7 +11607,6 @@ evocable
 evocated
 edital
 evocating
-evocation
 evocations
 evocative
 encodement
