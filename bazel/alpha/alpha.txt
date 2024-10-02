@@ -20738,7 +20738,6 @@ artilize
 artiller
 artillery
 avodire
-adjourn
 artilleryman
 artillerymen
 artilleryship
@@ -24057,6 +24056,7 @@ autogauge
 adjuncts
 ataunt
 antiprecipitin
+adjourn
 abfarad
 autogeneses
 autogenesis
