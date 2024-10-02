@@ -10256,7 +10256,6 @@ chiasmatypy
 chiasmi
 chiasmic
 chiasmodon
-chiasmodontid
 chiasmodontidae
 chiasms
 chiasmus
@@ -14063,6 +14062,7 @@ curneys
 cyphella
 cyphellae
 cyphellate
+chiasmodontid
 cypher
 cipherable
 cipherdom
