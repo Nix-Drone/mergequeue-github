@@ -1696,6 +1696,7 @@ foehns
 familiar
 friars
 four
+forastero
 fdnames
 fdtype
 fdub
@@ -7353,7 +7354,6 @@ flabbily
 foraneen
 foraramens
 frequentation
-forastero
 forbad
 fie
 forbade
