@@ -9797,7 +9797,6 @@ freiezlebenhe
 freight
 freightage
 fringe
-fourchette
 freightyard
 flagstaves
 fenestral
@@ -11069,6 +11068,7 @@ fumigator
 fumigatories
 furzery
 fumigatorium
+fourchette
 fuminess
 figworm
 filum
