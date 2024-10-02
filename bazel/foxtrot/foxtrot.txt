@@ -4437,7 +4437,6 @@ fishworker
 fishworks
 fringilliformes
 fishworm
-fisnoga
 frostbound
 fissidentaceous
 fissile
@@ -11238,6 +11237,7 @@ fallfishes
 frenzelite
 fungistatically
 forcipes
+fisnoga
 flittiness
 fungitoxic
 fungitoxicity
