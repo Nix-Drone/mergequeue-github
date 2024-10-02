@@ -7030,7 +7030,6 @@ desynchronizing
 destrier
 destriers
 destroy
-destroyable
 destroyed
 dismays
 destroyer
@@ -16659,6 +16658,7 @@ dragsters
 dray
 drayage
 drayed
+destroyable
 drayhorse
 draying
 drailed
