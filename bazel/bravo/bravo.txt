@@ -5307,7 +5307,6 @@ bags
 bakalai
 bogwood
 beglerbegluc
-beglerbegship
 beglerbey
 beglew
 beglide
@@ -6229,6 +6228,7 @@ bananaquit
 beneficiate
 beneficiated
 beneficiating
+beglerbegship
 beneficiation
 brassiest
 brutalities
