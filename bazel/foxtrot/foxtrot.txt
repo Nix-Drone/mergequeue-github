@@ -55,6 +55,7 @@ facebar
 facebow
 facecloth
 firestone
+farthing
 faced
 foreladies
 faceharden
@@ -1154,7 +1155,6 @@ farth
 farthermore
 farthermost
 farthest
-farthing
 fleabitten
 farthingale
 farsalah
