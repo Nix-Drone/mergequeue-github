@@ -1595,7 +1595,6 @@ dealfishes
 decomposite
 dealings
 dealkalize
-dealkylate
 dealkylation
 deallocate
 deallocated
@@ -9545,6 +9544,7 @@ dulias
 digraph
 digraphically
 digraphs
+dealkylate
 digredience
 digrediency
 donatory
