@@ -1987,6 +1987,7 @@ decahedral
 decahedron
 damageableness
 decahedrons
+deposes
 decahydrate
 decahydronaphthalene
 decay
@@ -5843,7 +5844,6 @@ decarboniser
 defats
 deposer
 deposers
-deposes
 discouragement
 deposing
 deposit
