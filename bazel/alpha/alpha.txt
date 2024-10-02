@@ -18926,7 +18926,6 @@ archexorcist
 archfelon
 archfiend
 archfiends
-archfire
 archflamen
 archfoe
 archfool
@@ -23684,6 +23683,7 @@ auspice
 auspices
 auspicy
 auspicious
+archfire
 auspiciously
 auspiciousness
 aussie
