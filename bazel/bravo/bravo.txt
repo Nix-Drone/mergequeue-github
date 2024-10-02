@@ -2008,7 +2008,6 @@ bandspreading
 bandstand
 bandstands
 bandster
-ballroom
 bandstop
 bandstring
 bandura
@@ -2413,6 +2412,7 @@ bentwood
 binful
 barbierite
 barbigerous
+ballroom
 barbing
 barbion
 barbita
