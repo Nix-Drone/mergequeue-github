@@ -7076,6 +7076,7 @@ bushrope
 besmoothing
 besmooths
 besmother
+breakweather
 besmottered
 besmouch
 besmudge
@@ -14848,7 +14849,6 @@ breakthrough
 breakthroughs
 breakups
 breakwater
-breakweather
 barky
 breakwind
 bream
