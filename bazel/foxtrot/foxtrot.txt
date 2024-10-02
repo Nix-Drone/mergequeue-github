@@ -7217,7 +7217,6 @@ flathe
 footmark
 footmen
 footnote
-footnoted
 footpace
 footpaces
 forefather
@@ -9650,6 +9649,7 @@ freckliness
 flighting
 freckling
 fred
+footnoted
 freddy
 freddie
 fusee
