@@ -14625,7 +14625,6 @@ brassiness
 brassish
 brasslike
 brassware
-brasswork
 brassworker
 brassworks
 brast
@@ -14957,6 +14956,7 @@ breeched
 breechesflower
 breeching
 breechloading
+brasswork
 begift
 breed
 brawns
