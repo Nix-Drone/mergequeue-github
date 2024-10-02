@@ -3059,6 +3059,7 @@ electrothermostat
 ellagic
 ellasar
 elvan
+encoders
 ellebore
 elleck
 ellenyard
@@ -3734,7 +3735,6 @@ exotic
 embroidered
 embroiderers
 embroideress
-encoders
 eliminative
 embroidery
 embroideries
