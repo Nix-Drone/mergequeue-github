@@ -3505,7 +3505,6 @@ bastions
 bastite
 bastnaesite
 bastnasite
-balanoglossus
 basto
 beworms
 baston
@@ -14565,6 +14564,7 @@ braseros
 be
 billheading
 brash
+balanoglossus
 brasher
 brashest
 brashy
