@@ -2965,7 +2965,6 @@ besmearer
 barreling
 broad
 barrelled
-brattle
 barrelmaker
 barrelmaking
 birdwomen
@@ -6406,6 +6405,7 @@ benzdioxdiazine
 benzdioxtriazine
 benzein
 benzene
+brattle
 benzeneazobenzene
 bastian
 benzenediazonium
