@@ -20709,7 +20709,6 @@ compliableness
 compliance
 compliances
 compliancy
-compliancies
 consimilarity
 compliant
 compliantly
@@ -29865,6 +29864,7 @@ crossgrainedness
 crosshackle
 crosshair
 crosshairs
+compliancies
 crosshand
 crosshatch
 crosshatched
