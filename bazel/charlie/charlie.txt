@@ -7468,7 +7468,6 @@ ceratodidae
 ceratodontidae
 ceratodus
 ceratoduses
-ceratoglossal
 ceratoglossus
 ceratohyal
 ceratohyoid
@@ -10197,6 +10196,7 @@ chevret
 chevreuil
 chevrolet
 chevrolets
+ceratoglossal
 chevron
 chevrone
 chevronel
