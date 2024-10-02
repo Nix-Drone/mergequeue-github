@@ -12254,7 +12254,6 @@ bushfighter
 bombardelle
 baetylic
 bombarder
-bombardier
 bombardiers
 bombarding
 bombardman
@@ -17204,6 +17203,7 @@ bullocker
 blastulae
 bullockite
 bullose
+bombardier
 bullous
 bulbotuber
 bullpen
