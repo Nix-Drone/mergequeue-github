@@ -1843,7 +1843,6 @@ fainness
 fibrinogen
 feature
 forthrightly
-featured
 featureful
 featurelessness
 featurely
@@ -3892,6 +3891,7 @@ finalization
 finalize
 finalized
 fragmenting
+featured
 fourstrand
 foulsome
 fionnuala
