@@ -1216,7 +1216,6 @@ bakelite
 bakelize
 borley
 bakemeats
-baken
 bakeout
 bakeoven
 bakepan
@@ -4693,6 +4692,7 @@ bedesman
 bedeswomen
 bedeviling
 bedevilled
+baken
 bitangent
 bedevilling
 bbls
