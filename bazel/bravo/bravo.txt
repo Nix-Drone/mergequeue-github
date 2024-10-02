@@ -6696,6 +6696,7 @@ berggylt
 bibliographical
 burstwort
 bergh
+blocklike
 berghaan
 bergy
 bergylt
@@ -11026,7 +11027,6 @@ benzimidazole
 blockish
 blockishly
 blocklayer
-blocklike
 broil
 blockmaker
 blockpate
