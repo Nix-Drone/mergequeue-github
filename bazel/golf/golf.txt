@@ -6147,7 +6147,6 @@ glut
 glutamate
 geodesics
 glutamates
-glutamic
 glutaminase
 gallegan
 griots
@@ -9249,6 +9248,7 @@ groceress
 grot
 gourmandise
 gat
+glutamic
 groceries
 groceryman
 griffonne
