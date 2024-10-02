@@ -8617,7 +8617,6 @@ allelomorphic
 allelomorphism
 allelopathy
 allelotropy
-allelotropic
 admeasured
 allelotropism
 alleluia
@@ -25132,6 +25131,7 @@ axiom
 ambisyllabic
 axiomatic
 axiomatical
+allelotropic
 axiomatically
 adept
 axiomatization
