@@ -7574,6 +7574,7 @@ cerebellopontine
 cerebellorubral
 cerebellospinal
 cerebellum
+comae
 cerebellums
 cerebra
 cerebral
@@ -19608,7 +19609,6 @@ comprobate
 carillon
 comacine
 comade
-comae
 comagmatic
 comake
 comaker
