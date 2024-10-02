@@ -2002,6 +2002,7 @@ decays
 defaced
 decal
 decalage
+disabling
 decalcifier
 decalcifies
 dendrography
@@ -10881,7 +10882,6 @@ disableness
 demonstrativeness
 disablers
 disables
-disabling
 deafforest
 dignitas
 dialysers
