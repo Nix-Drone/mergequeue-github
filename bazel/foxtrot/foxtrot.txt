@@ -4639,7 +4639,6 @@ fixt
 fusiformis
 fixtureless
 farming
-fixup
 fixups
 fixure
 fixures
@@ -11461,6 +11460,7 @@ facets
 fireboxes
 furnishings
 fudges
+fixup
 felup
 filaceous
 furnishness
