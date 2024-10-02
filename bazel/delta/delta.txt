@@ -2562,6 +2562,7 @@ declutch
 deco
 decoagulated
 dorms
+dynamites
 decoagulation
 decoat
 downsinking
@@ -9999,7 +10000,6 @@ duplexs
 definitization
 dynamited
 dynamiters
-dynamites
 dynamitic
 dynamitical
 dynamitically
