@@ -5696,7 +5696,6 @@ globs
 grumps
 globular
 glossolabial
-gconvert
 ganch
 genuflector
 globularia
@@ -8295,6 +8294,7 @@ geast
 gobos
 grassland
 grasslike
+gconvert
 gasterosteiform
 gadolinite
 grassman
