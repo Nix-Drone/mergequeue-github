@@ -6390,7 +6390,6 @@ caved
 canell
 coagel
 cavefish
-cavefishes
 cavey
 cavekeeper
 cavelet
@@ -12462,6 +12461,7 @@ chromocyte
 chromocollograph
 chromocollography
 chromocollographic
+cavefishes
 chromocollotype
 chromocollotypy
 chromocratic
