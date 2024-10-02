@@ -1515,6 +1515,7 @@ accessors
 acciaccatura
 acciaccaturas
 acetite
+aneurysmatic
 acciaccature
 accidence
 annotto
@@ -12609,7 +12610,6 @@ aneurysmal
 aeriferous
 aneurysmally
 aneurismatic
-aneurysmatic
 aneurisms
 aneurysms
 anezeh
