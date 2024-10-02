@@ -8129,7 +8129,6 @@ algorisms
 algorist
 algoristic
 algorithmic
-algorithmically
 algors
 algosis
 algous
@@ -8748,6 +8747,7 @@ adstringe
 allobar
 allobaric
 ammonolyses
+algorithmically
 allobroges
 allobrogical
 allocability
