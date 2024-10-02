@@ -19978,6 +19978,7 @@ armlike
 armload
 armloads
 armlock
+awshar
 armlocks
 armoire
 armoires
@@ -25064,7 +25065,6 @@ antietam
 awry
 awrist
 awrong
-awshar
 awunctive
 ax
 axbreaker
