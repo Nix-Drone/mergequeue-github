@@ -1927,7 +1927,6 @@ geobotanist
 gastruran
 gasworks
 gatch
-gate
 gateage
 gatecrasher
 gatecrashers
@@ -4859,6 +4858,7 @@ gist
 git
 guaranty
 goalpost
+gate
 gitana
 glucolysis
 galeae
