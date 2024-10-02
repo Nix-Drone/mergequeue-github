@@ -8382,7 +8382,6 @@ chalklike
 chalkline
 chalkone
 chalkos
-chalkosideric
 chalkotheke
 chalkpit
 chalkrail
@@ -27198,6 +27197,7 @@ clothespress
 countinghouse
 countys
 countywide
+chalkosideric
 countless
 countlessness
 countor
