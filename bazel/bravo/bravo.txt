@@ -9221,7 +9221,6 @@ bruted
 biotins
 biotype
 biotypes
-biotypic
 biotypology
 biotite
 biotites
@@ -12700,6 +12699,7 @@ becloaked
 booksellerish
 boce
 barmkin
+biotypic
 biyearly
 booksellerism
 banderilleros
