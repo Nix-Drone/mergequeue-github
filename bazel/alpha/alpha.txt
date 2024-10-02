@@ -17754,7 +17754,6 @@ appestats
 appet
 appete
 appetence
-appetency
 appetent
 appetently
 appetibility
@@ -18622,6 +18621,7 @@ arboriculture
 arboriform
 arborist
 arborists
+appetency
 acidophilous
 arborize
 absorption
