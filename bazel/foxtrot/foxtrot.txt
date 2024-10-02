@@ -5360,6 +5360,7 @@ frictional
 fledgling
 flee
 fleece
+fossate
 fribourg
 feirie
 fianna
@@ -8848,7 +8849,6 @@ female
 freighting
 fossane
 fidel
-fossate
 fauna
 fillet
 fosse
