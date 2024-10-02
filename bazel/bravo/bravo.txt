@@ -1881,6 +1881,7 @@ band
 bandage
 bandaged
 bandager
+bulbocavernous
 bandages
 bandaging
 brakes
@@ -11866,7 +11867,6 @@ barographs
 bogart
 bogbean
 bogbeans
-bulbocavernous
 bogberry
 bogeyed
 bogeying
