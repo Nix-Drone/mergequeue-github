@@ -5081,7 +5081,6 @@ caseloads
 caselty
 casemaker
 casemaking
-casemated
 casemates
 casement
 casemented
@@ -23007,6 +23006,7 @@ consonantize
 codding
 consonantized
 consonantizing
+casemated
 cylindrosporium
 consonantly
 consonantness
