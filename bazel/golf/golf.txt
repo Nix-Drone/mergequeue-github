@@ -1968,7 +1968,6 @@ gatewoman
 gatherable
 gathered
 gilgai
-gatherers
 graplins
 gyrostabilizer
 greenfishes
@@ -9078,6 +9077,7 @@ grincome
 grimgribber
 grindable
 glycerinated
+gatherers
 grinded
 grinderman
 grinders
