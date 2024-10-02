@@ -3290,6 +3290,7 @@ deferments
 deferrable
 deferral
 deferrals
+desynaptic
 deferred
 deferrer
 deferrers
@@ -6701,7 +6702,6 @@ desilverizer
 desilverizing
 desilvers
 desynapsis
-desynaptic
 dulcarnon
 desynchronize
 demikindred
