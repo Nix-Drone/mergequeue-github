@@ -5221,7 +5221,6 @@ gnathic
 guestship
 glasswork
 guider
-glassworker
 glassworkers
 glassworm
 gawkier
@@ -8015,6 +8014,7 @@ granitoidal
 girlish
 geneserine
 granivore
+glassworker
 grank
 grands
 grannam
