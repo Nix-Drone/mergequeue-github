@@ -24141,7 +24141,6 @@ convex
 convexedly
 convexedness
 convexes
-convexity
 convexities
 convexly
 crampet
@@ -27947,6 +27946,7 @@ crayfishes
 coxwaining
 crayfishing
 craig
+convexity
 craighle
 craigmontite
 craik
