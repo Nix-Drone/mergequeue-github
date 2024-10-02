@@ -643,7 +643,6 @@ bacteriofluorescin
 bromates
 bacteriogenic
 bacteriogenous
-bacteriohemolysin
 bacterioidal
 benzin
 bacteriolysin
@@ -16045,6 +16044,7 @@ buckskins
 brontology
 brontophobia
 brontosaurs
+bacteriohemolysin
 brontosaurus
 brontosauruses
 brontoscopy
