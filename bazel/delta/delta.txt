@@ -9629,7 +9629,6 @@ dikaryon
 dikaryophase
 delignated
 dikaryophasic
-dikaryophyte
 dikaryophytic
 dikaryotic
 depopulated
@@ -14686,6 +14685,7 @@ docmac
 docoglossa
 docoglossan
 docoglossate
+dikaryophyte
 docosane
 docosanoic
 dipteral
