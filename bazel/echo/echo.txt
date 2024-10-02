@@ -2876,7 +2876,6 @@ elevations
 elevator
 electrophorus
 eleve
-endplate
 escalators
 eleven
 egrid
@@ -5549,6 +5548,7 @@ etherlike
 eventualities
 enfeoffing
 enfeoffment
+endplate
 enfester
 enfettered
 endogenic
