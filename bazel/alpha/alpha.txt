@@ -5593,7 +5593,6 @@ aftercost
 aftercrop
 aftercure
 afterdays
-afterdate
 afterdated
 amadou
 acidulates
@@ -7119,6 +7118,7 @@ akene
 airworthier
 arthropathy
 akenes
+afterdate
 abolishments
 apehood
 akenobeite
