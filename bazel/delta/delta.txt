@@ -2411,7 +2411,6 @@ dilogarithm
 decimalize
 decimalizes
 decimally
-decimals
 dressages
 decimate
 decimated
@@ -17324,6 +17323,7 @@ dromoi
 dromomania
 dromometer
 dromon
+decimals
 dromond
 dromonds
 defoul
