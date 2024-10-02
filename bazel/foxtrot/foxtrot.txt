@@ -1097,6 +1097,7 @@ foremastman
 farmland
 farmost
 farmout
+foggers
 fasteners
 fisc
 farms
@@ -6727,7 +6728,6 @@ foretype
 feeders
 fogfruits
 fogger
-foggers
 fairgrass
 foggier
 furrier
