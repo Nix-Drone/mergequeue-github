@@ -1528,7 +1528,6 @@ garrisons
 garrnishable
 garron
 garroo
-garroted
 garroters
 garrotes
 goldweed
@@ -3254,6 +3253,7 @@ geostrophically
 geotactically
 giaour
 geotaxes
+garroted
 geotaxy
 gulches
 geotechnic
