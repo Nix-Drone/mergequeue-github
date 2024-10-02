@@ -5283,7 +5283,6 @@ endorsed
 endorsee
 endorsees
 endere
-endorser
 endorsing
 emydosaurian
 endosalpingitis
@@ -10339,6 +10338,7 @@ enforcible
 epistolographer
 ethylenediamine
 ethylenic
+endorser
 ethylenimine
 ethylenoid
 eaglehawk
