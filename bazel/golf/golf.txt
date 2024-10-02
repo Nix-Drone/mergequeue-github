@@ -1391,7 +1391,6 @@ grippers
 gazania
 gare
 garefowl
-garefowls
 germanhood
 garetta
 garewaite
@@ -9124,6 +9123,7 @@ gripment
 grypotherium
 grippe
 gridlock
+garefowls
 gangbuster
 griege
 goatees
