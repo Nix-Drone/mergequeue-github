@@ -5702,7 +5702,6 @@ ancientness
 autotherapeutic
 afterswarming
 aftertask
-aftertastes
 afterthinker
 achromatium
 afterthought
@@ -8068,6 +8067,7 @@ anionics
 algidity
 algidities
 algidness
+aftertastes
 algieba
 algin
 alginate
