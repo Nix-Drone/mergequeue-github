@@ -5646,7 +5646,6 @@ afterlives
 afterloss
 aerarian
 afterlove
-aftermark
 aftermarriage
 aftermass
 aftermast
@@ -16365,6 +16364,7 @@ antithermin
 antithetic
 antithetical
 antithetically
+aftermark
 antithetics
 achropsia
 antithyroid
