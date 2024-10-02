@@ -6744,6 +6744,7 @@ entertainable
 entertained
 enquires
 entertainer
+expiratory
 entertainers
 emotionalization
 entertaining
@@ -13113,7 +13114,6 @@ expiration
 epaxial
 expirations
 expirator
-expiratory
 expire
 exhaustable
 expired
