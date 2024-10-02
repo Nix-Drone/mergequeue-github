@@ -3665,6 +3665,7 @@ estates
 embryogenesis
 embryogenetic
 embryogony
+extractable
 embryographer
 embryographic
 everse
@@ -13798,7 +13799,6 @@ escapades
 equivocation
 experienceable
 extracranial
-extractable
 extractant
 extracted
 extractibility
