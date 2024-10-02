@@ -2096,7 +2096,6 @@ acetoarsenite
 acetobenzoic
 acetol
 acetolysis
-acetolytic
 acetometer
 acetometry
 acetometric
@@ -24946,6 +24945,7 @@ awakes
 awaking
 awald
 awalim
+acetolytic
 apposable
 awalt
 awane
