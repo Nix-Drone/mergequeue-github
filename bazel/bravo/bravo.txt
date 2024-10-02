@@ -4662,7 +4662,6 @@ beddable
 bedders
 bedding
 beddingroll
-beddings
 bede
 bro
 bogans
@@ -11349,6 +11348,7 @@ bluegills
 bummie
 bluegrass
 bluegum
+beddings
 broma
 bluegums
 blueheads
