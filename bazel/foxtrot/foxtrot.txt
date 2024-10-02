@@ -3525,7 +3525,6 @@ facebread
 figures
 figuresome
 flueman
-fconv
 foraneous
 figury
 fiddlers
@@ -5235,6 +5234,7 @@ flavoring
 fructoses
 flavorless
 fulgently
+fconv
 flavorousness
 flavors
 formant
