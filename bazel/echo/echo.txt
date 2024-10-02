@@ -9501,7 +9501,6 @@ escapees
 empark
 etherical
 escapeful
-equisized
 escapeless
 ew
 escapement
@@ -12277,6 +12276,7 @@ exect
 executable
 executant
 engines
+equisized
 execute
 executed
 enphytotic
