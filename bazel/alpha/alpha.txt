@@ -1018,7 +1018,6 @@ afterhold
 absorbefacient
 absorbency
 antagonisable
-absorbencies
 absorbents
 absorber
 absorbers
@@ -18357,6 +18356,7 @@ alsoon
 arabian
 arabianize
 arabians
+absorbencies
 andarko
 arabic
 amity
