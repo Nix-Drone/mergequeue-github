@@ -6449,7 +6449,6 @@ fluorines
 forepoling
 fluorobenzene
 fluoroborate
-fluorocarbon
 fluorochrome
 fluoroform
 flaminian
@@ -8623,6 +8622,7 @@ flagellative
 forseeable
 forseek
 forseen
+fluorocarbon
 forset
 forsythia
 forsythias
