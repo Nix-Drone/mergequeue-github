@@ -6020,6 +6020,7 @@ catskill
 coll
 catskin
 catslide
+cicatrizate
 catso
 catspaw
 catspaws
@@ -13199,7 +13200,6 @@ crackability
 cicatrising
 cicatrisive
 cicatrix
-cicatrizate
 cicatrization
 cicatrize
 cicatrized
