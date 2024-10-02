@@ -4473,7 +4473,6 @@ fissirostres
 fissle
 fissura
 fissuration
-fungite
 finesse
 frawn
 fissured
@@ -10223,6 +10222,7 @@ frivolities
 frivolize
 frivolized
 frivolizing
+fungite
 frivoller
 flatweed
 frivolling
