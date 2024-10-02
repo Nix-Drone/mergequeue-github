@@ -2027,7 +2027,6 @@ campestral
 campestrian
 cordelier
 campfight
-campfires
 campground
 canful
 campgrounds
@@ -10333,6 +10332,7 @@ chickees
 chickell
 chicken
 chickenberry
+campfires
 chickenbill
 chickenbreasted
 clerks
