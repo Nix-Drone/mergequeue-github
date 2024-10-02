@@ -14396,6 +14396,7 @@ convexed
 circumplanetary
 circumplect
 circumplicate
+conveth
 circumplication
 circumpolar
 circumpolygon
@@ -24136,7 +24137,6 @@ crimples
 convertor
 convertors
 converts
-conveth
 convex
 convexedly
 convexedness
