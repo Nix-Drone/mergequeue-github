@@ -6964,6 +6964,7 @@ allegory
 airstrip
 airstrips
 airt
+artilleryship
 airted
 ablepharia
 airthed
@@ -20741,7 +20742,6 @@ avodire
 adjourn
 artilleryman
 artillerymen
-artilleryship
 artillerist
 artillerists
 artiness
