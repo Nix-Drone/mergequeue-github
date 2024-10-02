@@ -10423,7 +10423,6 @@ frontier
 frontierless
 farmyards
 fertilizing
-fictor
 fewmets
 flowerfence
 finely
@@ -11344,6 +11343,7 @@ furbish
 freakery
 furbishable
 furbishes
+fictor
 furbishment
 florikan
 furca
