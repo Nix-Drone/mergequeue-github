@@ -517,7 +517,6 @@ galerie
 galerum
 galerus
 gales
-galesaur
 galesaurus
 galet
 garrya
@@ -954,6 +953,7 @@ grooviness
 giltheads
 gossan
 gamelang
+galesaur
 gamelans
 gameless
 gentian
