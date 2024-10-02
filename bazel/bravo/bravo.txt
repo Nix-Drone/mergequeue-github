@@ -5292,7 +5292,6 @@ begird
 broadsheet
 begirded
 begirding
-begirdled
 begirdles
 begirdling
 begirds
@@ -13883,6 +13882,7 @@ boxty
 boxtop
 brager
 boxtops
+begirdled
 boxwood
 bedevil
 boxwoods
