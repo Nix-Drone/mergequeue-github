@@ -3484,7 +3484,6 @@ bastiles
 bastille
 bastilles
 biggah
-bastiment
 bastinaded
 bastinades
 baroi
@@ -10633,6 +10632,7 @@ biferous
 bleekbok
 bleep
 barretries
+bastiment
 balletically
 bleeped
 bleeps
