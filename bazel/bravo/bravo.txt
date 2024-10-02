@@ -11622,7 +11622,6 @@ boats
 boatshop
 boatsman
 bobbed
-boatsmen
 boatsteerer
 boatswain
 boatswains
@@ -11650,6 +11649,7 @@ bobbin
 bobbiner
 bobbinet
 bobbinets
+boatsmen
 bobbing
 bobbinite
 bobbins
