@@ -16926,6 +16926,7 @@ clupeids
 clupeiform
 clupeine
 clupeiod
+coversine
 clupeodei
 clupien
 cluppe
@@ -27481,7 +27482,6 @@ chymosins
 caller
 coversed
 coverside
-coversine
 coverslip
 covertical
 covertly
