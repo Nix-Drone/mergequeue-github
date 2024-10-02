@@ -1695,6 +1695,7 @@ fcp
 foehns
 familiar
 friars
+frogger
 four
 fdnames
 fdtype
@@ -6541,7 +6542,6 @@ foolisher
 fluther
 fluty
 flutier
-frogger
 flutiest
 fluctuate
 filius

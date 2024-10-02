@@ -6212,6 +6212,7 @@ deriving
 derma
 dermabrasion
 dermal
+drivewell
 dermalgia
 dermalith
 dermamycosis
@@ -17257,7 +17258,6 @@ dredgings
 drivescrew
 driveway
 driveways
-drivewell
 driving
 distressfulness
 drivingly
