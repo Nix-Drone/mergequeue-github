@@ -6474,7 +6474,6 @@ benzoiodohydrin
 benzol
 benzole
 benzoline
-benzolize
 benzols
 benzonaphthol
 benzonitrile
@@ -15127,6 +15126,7 @@ bryaceous
 bryales
 bryanism
 bryanite
+benzolize
 bryanthus
 briar
 briarberry
