@@ -5530,6 +5530,7 @@ deorientalize
 deorsum
 deorsumvergence
 deorsumversion
+dichlorobenzene
 deorusumduction
 deossify
 deossification
@@ -8868,7 +8869,6 @@ dichloramine
 dichlorhydrin
 dichloride
 dichloroacetic
-dichlorobenzene
 dichlorodifluoromethane
 dichlorodiphenyltrichloroethane
 dichlorohydrin
