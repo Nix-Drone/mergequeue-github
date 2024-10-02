@@ -4092,7 +4092,6 @@ empexa
 emphase
 emphasised
 emphasize
-emphasized
 emphasizing
 emphatic
 emphatical
@@ -9165,6 +9164,7 @@ erythrocytometer
 erythrocytometry
 erythrocytorrhexis
 elderly
+emphasized
 erythrocytoschisis
 erythrocytosis
 elementariness
