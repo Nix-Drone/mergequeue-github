@@ -4918,7 +4918,6 @@ givey
 given
 givens
 garderobe
-giver
 givers
 gladeye
 gyves
@@ -8273,6 +8272,7 @@ grasshopper
 grasshopperdom
 gry
 gnarling
+giver
 genovino
 garnisher
 grasshoppers
