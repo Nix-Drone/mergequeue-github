@@ -8025,6 +8025,7 @@ forespeech
 forespencer
 forespoke
 forespoken
+fixedness
 forest
 forthteller
 forestaff
@@ -9241,7 +9242,6 @@ fractioning
 fractionisation
 fractionise
 fractionised
-fixedness
 fractionising
 favonius
 fiercehearted
