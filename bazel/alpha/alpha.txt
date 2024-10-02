@@ -4261,7 +4261,6 @@ adopted
 archmock
 adoptedly
 adoptee
-alcid
 adoptees
 adopter
 adopters
@@ -8656,6 +8655,7 @@ alleviate
 alleviated
 alleviater
 alleviates
+alcid
 alleviating
 alleviatingly
 alleviation
