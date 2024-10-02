@@ -1102,6 +1102,7 @@ cubatures
 calcographic
 calcrete
 calcsinter
+candiru
 calcspar
 calcspars
 calctufas
@@ -2386,7 +2387,6 @@ candil
 candymaker
 candymaking
 candiot
-candiru
 candys
 candite
 candytuft
