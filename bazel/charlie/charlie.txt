@@ -3693,6 +3693,7 @@ carbohydrate
 carbohydrates
 carbohydraturia
 carbohydrazide
+cyclicity
 carbohydride
 carbohydrogen
 carboy
@@ -13280,7 +13281,6 @@ cyclicality
 cyclically
 cyclicalness
 cyclicism
-cyclicity
 cyclicly
 cyclide
 cyclindroid
