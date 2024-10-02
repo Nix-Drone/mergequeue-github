@@ -2824,7 +2824,6 @@ baronetcy
 baronetcies
 buboed
 bookies
-baroneted
 baroneting
 baronetise
 baronetised
@@ -6476,6 +6475,7 @@ benzole
 benzoline
 benzolize
 benzols
+baroneted
 benzonaphthol
 benzonitrile
 benzoperoxide
