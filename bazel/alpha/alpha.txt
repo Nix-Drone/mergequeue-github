@@ -8917,7 +8917,6 @@ autobolide
 allosaur
 arsnicker
 allosaurus
-acanthodea
 allose
 allosematic
 allosyndesis
@@ -21773,6 +21772,7 @@ assignee
 assignees
 assigners
 acidulent
+acanthodea
 assignment
 assignments
 assignors
