@@ -1958,7 +1958,6 @@ banditry
 barramundas
 bandits
 banditti
-bandle
 bandleader
 bandless
 bejabers
@@ -13708,6 +13707,7 @@ beheading
 bovovaccination
 bovver
 bow
+bandle
 bowable
 bowback
 bowbells

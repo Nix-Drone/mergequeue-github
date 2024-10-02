@@ -1643,7 +1643,6 @@ caltha
 calthrop
 calthrops
 caltrap
-caltraps
 caltrop
 caltrops
 crowning
@@ -21080,6 +21079,7 @@ concatenary
 concatenate
 concatenated
 concatenates
+caltraps
 concatenating
 coequating
 concatenation
