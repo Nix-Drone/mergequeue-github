@@ -8569,7 +8569,6 @@ equalize
 equalized
 equalizer
 equalizers
-equalizes
 equaller
 equalling
 equals
@@ -12111,6 +12110,7 @@ egbert
 elastics
 epicycloidal
 extendedness
+equalizes
 excommunicated
 excommunicating
 excommunication
