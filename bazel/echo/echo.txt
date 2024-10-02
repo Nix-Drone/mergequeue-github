@@ -5179,6 +5179,7 @@ endogenicity
 endogenies
 exundation
 endogenous
+exogen
 essive
 exercised
 electrocataphoresis
@@ -12676,7 +12677,6 @@ exogamic
 exogamous
 exogastrically
 exogastritis
-exogen
 exogenae
 ekaha
 exogeny
