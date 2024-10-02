@@ -2437,6 +2437,7 @@ expedient
 electroform
 electroforming
 electrofusion
+ethanediol
 ethanol
 electrogalvanization
 electrogenetic
@@ -10189,7 +10190,6 @@ ethambutol
 ethanal
 ethmovomerine
 ethanamide
-ethanediol
 expurgatorial
 ethanedithiol
 ethanes
