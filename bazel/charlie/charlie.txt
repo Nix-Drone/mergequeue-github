@@ -1627,7 +1627,6 @@ calp
 calpac
 calpack
 calpacked
-calpacks
 calpacs
 calpolli
 calpul
@@ -15187,6 +15186,7 @@ clackety
 clacking
 clacks
 counterpole
+calpacks
 clactonian
 clad
 cladanthous
