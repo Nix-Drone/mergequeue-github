@@ -3469,7 +3469,6 @@ capucine
 capulet
 capuli
 capulin
-caput
 caputium
 cornua
 caque
@@ -12486,6 +12485,7 @@ concanavalin
 chromolithographer
 childbeds
 chromolithography
+caput
 chromolithographic
 chromometer
 chromone
