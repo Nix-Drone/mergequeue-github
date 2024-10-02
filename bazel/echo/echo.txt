@@ -5650,7 +5650,6 @@ enfroward
 elites
 enfume
 endangers
-enfurrow
 erysipelothrix
 eng
 engage
@@ -10153,6 +10152,7 @@ etcher
 etchers
 etching
 esodic
+enfurrow
 electrotest
 eteoclus
 eteostic
