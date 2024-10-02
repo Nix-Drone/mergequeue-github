@@ -4351,6 +4351,7 @@ fishberries
 fishboat
 fishbolt
 fishbolts
+formylate
 falchions
 fishbowls
 fisheater
@@ -8475,7 +8476,6 @@ formidably
 florissant
 formidolous
 formylal
-formylate
 feedable
 formylated
 fiuman
