@@ -6331,7 +6331,6 @@ ectypes
 ensconcing
 enscroll
 endosiphon
-ecotypic
 enscrolling
 envenomation
 enchalice
@@ -10065,6 +10064,7 @@ estray
 equicellular
 estrayed
 estraying
+ecotypic
 estral
 estramazone
 estrange
