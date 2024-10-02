@@ -5216,7 +5216,6 @@ bohemias
 beg
 begabled
 begad
-begalled
 begalls
 boarcite
 bepaints
@@ -14306,6 +14305,7 @@ brayette
 braying
 brailed
 brailled
+begalled
 brailles
 bursiform
 braillewriter
