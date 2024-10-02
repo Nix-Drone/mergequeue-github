@@ -7396,6 +7396,7 @@ cephalothoracopagus
 cephalothoraxes
 cephalotomy
 capman
+clitellus
 contrate
 cephalotractor
 cephalotribe
@@ -16384,7 +16385,6 @@ clite
 clitella
 clitellar
 clitelliferous
-clitellus
 compile
 crappin
 clites
