@@ -2100,6 +2100,7 @@ environment
 elance
 elanet
 elans
+eyeglass
 elanus
 elaphebolion
 elaphine
@@ -11946,7 +11947,6 @@ enthraller
 exception
 exceptionability
 exceptionably
-eyeglass
 exceptional
 exceptionality
 exceptionally
