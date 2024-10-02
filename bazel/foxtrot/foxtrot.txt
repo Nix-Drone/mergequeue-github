@@ -4314,7 +4314,6 @@ furlongs
 first
 fylker
 forbearer
-freestone
 firster
 feerie
 forrel
@@ -5021,6 +5020,7 @@ flaps
 flare
 flareback
 ferments
+freestone
 firnification
 fragmentitious
 flareboard
