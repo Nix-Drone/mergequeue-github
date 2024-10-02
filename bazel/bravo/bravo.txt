@@ -685,6 +685,7 @@ bechances
 bacteriotoxin
 bal
 bacteriotrypsin
+bicycular
 bynames
 bacteriotropic
 blepharedema
@@ -2590,7 +2591,6 @@ barger
 bloomage
 barges
 bargh
-bicycular
 bargham
 barghest
 baptism
