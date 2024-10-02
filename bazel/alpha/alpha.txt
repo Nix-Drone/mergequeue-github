@@ -8752,7 +8752,6 @@ allobroges
 allobrogical
 allocability
 allocable
-allocatable
 allocate
 allocatee
 allocates
@@ -13264,6 +13263,7 @@ anisidine
 avocational
 anisidino
 anisyl
+allocatable
 anisilic
 antirational
 anisylidene
