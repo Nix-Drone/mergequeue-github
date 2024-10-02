@@ -5591,7 +5591,6 @@ aftercoming
 aftercooler
 aftercost
 aftercrop
-aftercure
 afterdays
 afterdate
 afterdated
@@ -25266,6 +25265,7 @@ azimide
 azimin
 azimino
 aziminobenzene
+aftercure
 azymite
 azymous
 apostume
