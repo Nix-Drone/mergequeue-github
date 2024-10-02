@@ -6155,7 +6155,6 @@ enodation
 enode
 enoil
 enoint
-enol
 enolase
 enolases
 enolic
@@ -10349,6 +10348,7 @@ ethylic
 ethylidene
 ethylidyne
 ethylin
+enol
 ethylmorphine
 enflowering
 ethylsulphuric
