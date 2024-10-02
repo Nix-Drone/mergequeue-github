@@ -4608,6 +4608,7 @@ encephalothlipsis
 encephalotome
 encephalotomy
 encephalotomies
+extrude
 earths
 encephalous
 embeggar
@@ -14114,7 +14115,6 @@ extinction
 extrudability
 extrudable
 excussion
-extrude
 extruded
 exhortingly
 extruder
