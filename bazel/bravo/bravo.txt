@@ -1884,7 +1884,6 @@ bandager
 bandages
 bandaging
 brakes
-bandagist
 bandaid
 bandala
 bandalore
@@ -6862,6 +6861,7 @@ berseems
 berserk
 berserker
 blackbirds
+bandagist
 berserks
 bersiamite
 bersil
