@@ -3801,7 +3801,6 @@ baldly
 boyar
 battledoring
 borehole
-battlefront
 battlefronts
 battleful
 butterburr
@@ -9016,6 +9015,7 @@ biogens
 biogeochemical
 biogeochemistry
 biogeographer
+battlefront
 biogeography
 biogeographic
 biogeographical
