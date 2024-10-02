@@ -4055,7 +4055,6 @@ cardiomelanosis
 cardiometer
 cardiometric
 cardiomyomalacia
-cardiomyopathy
 cardiomotility
 cookey
 cardioncus
@@ -26068,6 +26067,7 @@ cheese
 cosmochemistry
 cosmocracy
 cosmocrat
+cardiomyopathy
 cosmocratic
 cosmogenesis
 cosmogenetic
