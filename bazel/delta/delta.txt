@@ -3519,7 +3519,6 @@ disknow
 deformable
 deformalize
 deformation
-deformational
 delete
 deformations
 deformative
@@ -10404,6 +10403,7 @@ deltafication
 diphenylguanidine
 diphenylhydantoin
 diphenylmethane
+deformational
 diphenylquinomethane
 diphenyls
 diphenylthiourea
