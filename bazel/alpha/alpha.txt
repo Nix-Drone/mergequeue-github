@@ -1841,6 +1841,7 @@ accusatrix
 accusatrixes
 accuse
 accused
+admiralties
 accuser
 accusers
 asport
@@ -4115,7 +4116,6 @@ admiral
 admirals
 admiralship
 admiralty
-admiralties
 axseeds
 admirance
 admiration
