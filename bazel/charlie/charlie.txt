@@ -3857,7 +3857,6 @@ carburiser
 carburization
 carburize
 carburized
-carburizer
 carburizes
 carburizing
 carburometer
@@ -31032,6 +31031,7 @@ connectionless
 cundum
 cundums
 cundurango
+carburizer
 cunea
 cuneal
 cuneately
