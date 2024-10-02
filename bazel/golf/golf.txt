@@ -6042,7 +6042,6 @@ gunsling
 glucogenesis
 glucokinase
 gliocyte
-glucokinin
 gravimetric
 glucolipin
 glaizie
@@ -9583,6 +9582,7 @@ growth
 gummite
 growthy
 gorevan
+glucokinin
 gavot
 growthiness
 growthless
