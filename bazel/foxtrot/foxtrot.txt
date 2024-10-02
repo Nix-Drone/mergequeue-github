@@ -103,7 +103,6 @@ faciation
 forequoted
 facie
 freeport
-fibroelastic
 faciend
 faciends
 facient
@@ -7440,6 +7439,7 @@ flaggers
 forcibly
 fundraise
 forcingly
+fibroelastic
 forcipate
 forjudger
 forcipated
