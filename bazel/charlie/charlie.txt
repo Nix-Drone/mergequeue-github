@@ -8193,7 +8193,6 @@ chainmen
 chainomatic
 cultists
 chains
-chainsman
 chainsmen
 cleanups
 chainsmith
@@ -17231,6 +17230,7 @@ coaptate
 canonically
 coaptation
 coapted
+chainsman
 coapting
 coapts
 coaration
