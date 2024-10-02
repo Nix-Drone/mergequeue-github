@@ -12241,7 +12241,6 @@ boltuprightness
 boltwork
 bolus
 boluses
-benn
 bomb
 bombable
 bombacaceae
@@ -12946,6 +12945,7 @@ bordels
 backpacker
 border
 bordereau
+benn
 bowstaff
 bordered
 borderer
