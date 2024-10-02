@@ -14074,6 +14074,7 @@ cyphering
 ciphers
 ciphertext
 ciphertexts
+crax
 cyphomandra
 cyphonautes
 ciphony
@@ -21664,7 +21665,6 @@ conditionate
 conditione
 casson
 casper
-crax
 cinchonism
 conditioned
 conditioner
