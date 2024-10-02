@@ -2685,7 +2685,6 @@ electrothermometer
 electrothermostatic
 electrothermotic
 electrotype
-electrotyped
 electrotypes
 electrotypy
 escarmouche
@@ -6893,6 +6892,7 @@ emmantle
 entomol
 entomolegist
 entomolite
+electrotyped
 entomology
 entomologic
 entomological
