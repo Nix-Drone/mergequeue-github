@@ -2100,7 +2100,6 @@ creedbound
 campodeid
 campodeidae
 campodeiform
-campodeoid
 campody
 campong
 campongs
@@ -19295,6 +19294,7 @@ colonnade
 colonnaded
 colonnette
 colonopexy
+campodeoid
 colonoscope
 cellated
 concaver
