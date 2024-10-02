@@ -76,7 +76,6 @@ diarchial
 dacryocystoptosis
 dacryocystosyringotomy
 dacryocystotome
-dacryocystotomy
 dacryohemorrhea
 dacryolithiasis
 dacryoma
@@ -14826,6 +14825,7 @@ dodecatylic
 dodecatoic
 dodecyl
 dodecylic
+dacryocystotomy
 discomedusan
 disgregation
 distrustfulness
