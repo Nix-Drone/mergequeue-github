@@ -2137,7 +2137,6 @@ elastase
 excretory
 elastases
 elastica
-elastically
 elastician
 elasticin
 elasticity
@@ -9883,6 +9882,7 @@ essenize
 essentialism
 essentialist
 essentiality
+elastically
 essentialities
 essentialization
 essentially
