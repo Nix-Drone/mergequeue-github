@@ -5219,6 +5219,7 @@ glassrope
 glassteel
 gnathic
 guestship
+graveolence
 glasswork
 guider
 glassworker
@@ -8447,7 +8448,6 @@ gravest
 gravestead
 gan
 grallatory
-graveolence
 gonochoristic
 gravette
 graveward
