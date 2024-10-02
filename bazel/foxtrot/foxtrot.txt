@@ -1487,7 +1487,6 @@ fatties
 forceable
 fattiness
 funis
-fattishness
 fattrels
 fatuate
 fatuism
@@ -7426,6 +7425,7 @@ futhark
 fallacious
 forcement
 forcene
+fattishness
 forceps
 fey
 forceput
