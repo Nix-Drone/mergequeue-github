@@ -4808,7 +4808,6 @@ bedread
 bedrel
 bedrench
 bedrenched
-bedrenches
 bedribble
 bentiness
 bedright
@@ -14021,6 +14020,7 @@ brachiopod
 bogusness
 brachiopoda
 brachiopode
+bedrenches
 brachiopodist
 bureaucratese
 baraca
