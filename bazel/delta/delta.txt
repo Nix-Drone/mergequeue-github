@@ -3435,6 +3435,7 @@ deflex
 deflexed
 deflexibility
 deflexible
+dryad
 deflexing
 deflexion
 deflexionize
@@ -9581,7 +9582,6 @@ dihelium
 dihexahedron
 dihybridism
 dihybrids
-dryad
 dihydrate
 dihydrated
 disfunctions
