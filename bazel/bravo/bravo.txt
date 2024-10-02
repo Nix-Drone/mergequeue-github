@@ -2718,7 +2718,6 @@ barlafummil
 barleduc
 branchiate
 barleducs
-barley
 barleybrake
 barleybreak
 barleycorn
@@ -6114,6 +6113,7 @@ bemuzzled
 bol
 belswagger
 bemuzzles
+barley
 ben
 bena
 benab
