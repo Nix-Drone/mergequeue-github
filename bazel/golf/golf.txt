@@ -3918,7 +3918,6 @@ goyle
 glave
 gibsons
 gibstaff
-gibus
 gibuses
 giddap
 guideless
@@ -3927,6 +3926,7 @@ goff
 giddybrain
 grabbles
 gerontologic
+gibus
 giddied
 giddier
 galyac
