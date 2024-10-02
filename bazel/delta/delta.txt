@@ -2469,7 +2469,6 @@ decken
 decker
 daphnioid
 deckhand
-deckhead
 deckhouse
 deckle
 deckman
@@ -10334,6 +10333,7 @@ diosmin
 diosmosed
 deposition
 diosmosing
+deckhead
 departures
 diosmosis
 diospyraceous
