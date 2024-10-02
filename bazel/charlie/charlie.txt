@@ -4588,7 +4588,6 @@ carousel
 carousels
 carouser
 cuddly
-carousers
 carousing
 carousingly
 carp
@@ -10259,6 +10258,7 @@ chiasmodon
 chiasmodontid
 chiasmodontidae
 chiasms
+carousers
 chiasmus
 chiastic
 chiastolite
