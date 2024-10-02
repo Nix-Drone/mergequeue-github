@@ -5076,6 +5076,7 @@ fructure
 flashtube
 flashtubes
 fusobteria
+fresser
 fanterie
 flask
 ferricyanhydric
@@ -9314,7 +9315,6 @@ furled
 fishbed
 fragrancy
 fragrant
-fresser
 fragrantly
 facts
 fragrantness
