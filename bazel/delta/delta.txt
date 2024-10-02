@@ -5551,7 +5551,6 @@ deoxidize
 deoxidizer
 dreggy
 deoxidizers
-deoxidizes
 deoxidizing
 deoxygenated
 deoxygenating
@@ -15238,6 +15237,7 @@ dolores
 dolorific
 dolorimeter
 dolorimetric
+deoxidizes
 desaurin
 drinky
 dolorimetrically
