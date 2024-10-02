@@ -3327,7 +3327,6 @@ acupuncture
 acupunctured
 acupuncturing
 acupuncturist
-acus
 acusector
 atresy
 acustom
@@ -17694,6 +17693,7 @@ appenders
 appendicalgia
 appendicate
 ausonian
+acus
 amoibite
 ascii
 alienees

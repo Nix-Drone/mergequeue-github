@@ -662,7 +662,6 @@ bacteriophage
 bacteriophages
 bacteriophagy
 bacteriophagic
-bacteriophagous
 bear
 bacteriopsonin
 bellwethers
@@ -6340,6 +6339,7 @@ bentang
 billowed
 bentgrass
 belaboured
+bacteriophagous
 benthal
 benthamic
 benthamism
