@@ -1265,6 +1265,7 @@ dipleidoscope
 dryermen
 daubries
 daubs
+debug
 daubster
 daud
 dauded
@@ -11389,7 +11390,6 @@ disclimax
 discloak
 discloister
 dissuader
-debug
 disclosed
 discloser
 discloses
