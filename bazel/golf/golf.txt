@@ -2219,7 +2219,6 @@ gazetted
 gazetteerish
 gazetteers
 goon
-gazetteership
 gremlin
 gazettes
 gazetting
@@ -6958,6 +6957,7 @@ goodby
 goodbye
 goodbyes
 goodenia
+gazetteership
 guineas
 gonadectomies
 gingerwort
