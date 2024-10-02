@@ -5239,7 +5239,6 @@ bestrows
 begattal
 bastes
 begaud
-begaudy
 bobbled
 begaze
 begazes
@@ -8937,6 +8936,7 @@ biochemic
 biochemically
 biochemics
 biochemistry
+begaudy
 bifanged
 biochemistries
 biochemists
