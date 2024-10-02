@@ -12783,6 +12783,7 @@ chumulu
 chun
 chunam
 chunari
+controllable
 crewellery
 chuncho
 chundari
@@ -23866,7 +23867,6 @@ control
 controled
 controling
 controllability
-controllable
 controllableness
 controllably
 controlled
