@@ -3363,7 +3363,6 @@ capsid
 capsidal
 capsids
 capsizable
-capsizal
 capsize
 capsized
 capsizes
@@ -19293,6 +19292,7 @@ colonizers
 colonizing
 colonnade
 colonnaded
+capsizal
 colonnette
 colonopexy
 colonoscope
