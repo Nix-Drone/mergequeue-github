@@ -4414,7 +4414,6 @@ enantiomer
 enantiomeric
 enantiomorph
 enantiomorphy
-enantiomorphic
 enantiomorphous
 ensconce
 enantiomorphously
@@ -11445,6 +11444,7 @@ eventfulness
 eventide
 exuvia
 entozoa
+enantiomorphic
 exululate
 endways
 eventides
