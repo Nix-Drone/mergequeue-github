@@ -4250,6 +4250,7 @@ beastling
 beastlings
 beastship
 beat
+buckjump
 beata
 beatable
 beatably
@@ -5774,7 +5775,6 @@ biltongs
 bellatrix
 burglar
 bellbind
-buckjump
 bellbinder
 bellbine
 batekes
