@@ -4950,7 +4950,6 @@ endaortic
 endaortitis
 endarch
 endarchy
-endarchies
 endarterectomy
 endarterial
 endarterium
@@ -12707,6 +12706,7 @@ exomphalous
 embryogeny
 exomphalus
 expandibility
+endarchies
 entame
 exon
 exonarthex
