@@ -3555,7 +3555,6 @@ fil
 fattish
 frontless
 filagreed
-filagrees
 filagreing
 filament
 filamented
@@ -7585,6 +7584,7 @@ forecommend
 foreconceive
 formalism
 foreconclude
+filagrees
 flops
 foreconscious
 foreconsider
