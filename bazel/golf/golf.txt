@@ -2663,7 +2663,6 @@ genecology
 genecologic
 gradienter
 genecological
-genecor
 griever
 geneki
 ganglionated
@@ -3607,6 +3606,7 @@ geswarp
 geta
 gallivorous
 getable
+genecor
 getae
 glycolide
 geoty
