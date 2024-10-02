@@ -2993,7 +2993,6 @@ capacitator
 capacity
 capacities
 capacitive
-capacitively
 capacitor
 capanna
 capanne
@@ -22092,6 +22091,7 @@ chowderhead
 confounded
 comfits
 cumin
+capacitively
 chironomic
 confoundedly
 confoundedness
