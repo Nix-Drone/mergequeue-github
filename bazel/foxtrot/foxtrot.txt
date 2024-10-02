@@ -3478,6 +3478,7 @@ funniment
 fightable
 forel
 fighteress
+fungistat
 fanwort
 fighting
 fightingly
@@ -11233,7 +11234,6 @@ fungicides
 fungiferous
 fivefold
 fungin
-fungistat
 fallfishes
 frenzelite
 fungistatically
