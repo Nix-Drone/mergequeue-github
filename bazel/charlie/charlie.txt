@@ -4056,7 +4056,6 @@ cardiometer
 cardiometric
 cardiomyomalacia
 cardiomyopathy
-cardiomotility
 cookey
 cardioncus
 cardionecrosis
@@ -11028,6 +11027,7 @@ chirrupper
 chirt
 chiru
 chirurgeon
+cardiomotility
 chirurgeonly
 chirurgery
 chis
