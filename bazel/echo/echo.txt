@@ -1218,7 +1218,6 @@ eds
 educ
 educability
 educable
-educables
 educand
 educatability
 epicrystalline
@@ -14144,6 +14143,7 @@ extusion
 exuberance
 exuberantly
 exuberantness
+educables
 exuberated
 echowise
 earldom
