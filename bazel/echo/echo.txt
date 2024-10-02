@@ -4923,7 +4923,6 @@ endamage
 endamageable
 endamagement
 endamages
-endamaging
 endameba
 endamebae
 excipule
@@ -10371,6 +10370,7 @@ entincture
 erpetoichthys
 ethionamide
 ethionic
+endamaging
 epilogist
 enspangle
 elasticizer
