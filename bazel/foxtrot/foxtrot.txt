@@ -6718,6 +6718,7 @@ fogbank
 fogbound
 fogbow
 flyblow
+fustle
 fogdogs
 fairways
 fogdom
@@ -9018,7 +9019,6 @@ forstand
 fountainous
 feaze
 fountainously
-fustle
 fives
 founts
 frizziness
