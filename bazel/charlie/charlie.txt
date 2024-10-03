@@ -9538,7 +9538,6 @@ checkhook
 checky
 checklaton
 checkle
-checkless
 checklist
 checklists
 checkman
@@ -10407,6 +10406,7 @@ chiefest
 chiefish
 chiefless
 cytisus
+checkless
 chiefling
 chiefs
 chieftain
