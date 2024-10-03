@@ -3623,7 +3623,6 @@ bulreedy
 bathypelagic
 bastinadoes
 babesiasis
-bathyplankton
 buglers
 baygall
 bathyscaph
@@ -10175,6 +10174,7 @@ blackpatch
 blackplate
 blackpoll
 beauclerk
+bathyplankton
 blackpot
 bromism
 blackprint
