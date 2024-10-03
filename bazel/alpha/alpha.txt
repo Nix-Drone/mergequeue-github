@@ -477,7 +477,6 @@ abysses
 apimania
 abyssinia
 abyssinian
-abyssobenthonic
 abyssolith
 abyssopelagic
 abyssus
@@ -5923,6 +5922,7 @@ agee
 ageing
 ageings
 ageism
+abyssobenthonic
 ageisms
 ageist
 ageists
