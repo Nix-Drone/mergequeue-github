@@ -21556,6 +21556,7 @@ assay
 assayable
 assayed
 assayer
+alarmable
 assayers
 assaying
 assail
@@ -25390,7 +25391,6 @@ azulene
 azuline
 azulmic
 azure
-alarmable
 amazonite
 accoutrement
 azurean
