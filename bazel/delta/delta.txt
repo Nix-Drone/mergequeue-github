@@ -10586,7 +10586,6 @@ diplomates
 diplomatically
 diplomatique
 diplomatism
-diplomatist
 diplomatists
 diplomatology
 diauli
@@ -15605,6 +15604,7 @@ dooring
 doorjambs
 doorkeeper
 doorknob
+diplomatist
 doorknobs
 doorless
 doormaid
