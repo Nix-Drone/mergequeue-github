@@ -3226,7 +3226,6 @@ activators
 active
 actively
 aweather
-activeness
 alforge
 actives
 activin
@@ -15863,6 +15862,7 @@ antiphylloxeric
 antiphilosophic
 antiphilosophical
 antiphilosophies
+activeness
 antiphilosophism
 antiphysic
 antiphysical
