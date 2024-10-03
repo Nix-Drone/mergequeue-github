@@ -166,7 +166,6 @@ grimliness
 greasiness
 gaduin
 gadus
-gadwall
 gadwalls
 ghrush
 gonotokont
@@ -7560,6 +7559,7 @@ graal
 grab
 grabby
 grabbings
+gadwall
 ganoin
 gitaligenin
 gomerils
