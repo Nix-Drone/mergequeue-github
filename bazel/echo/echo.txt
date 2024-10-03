@@ -1092,6 +1092,7 @@ edgers
 edges
 edgeshot
 evaluate
+electrodesiccation
 edgeway
 edgeways
 enshrouded
@@ -2392,7 +2393,6 @@ electrodeposition
 electrodepositor
 escalation
 electrodes
-electrodesiccation
 electrodiagnosis
 entoblast
 electrodiagnostic
