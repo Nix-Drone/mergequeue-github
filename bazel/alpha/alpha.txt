@@ -5732,7 +5732,6 @@ agathodemon
 aint
 afterworld
 afterwort
-afterwrath
 aftonian
 aftosa
 aftosas
@@ -23997,6 +23996,7 @@ autodepolymerization
 autodermic
 autodestruction
 autodiagnosis
+afterwrath
 autodiagnostic
 autodiagrammatic
 autodial
