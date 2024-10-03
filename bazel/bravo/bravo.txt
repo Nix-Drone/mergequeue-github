@@ -3369,7 +3369,6 @@ bombline
 banyai
 baskets
 basketware
-basketweaving
 basketwoman
 basketwood
 basketwork
@@ -11174,6 +11173,7 @@ blossomy
 blossomless
 blossoms
 blot
+basketweaving
 blotch
 blotched
 beestride
