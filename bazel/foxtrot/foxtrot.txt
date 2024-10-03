@@ -1146,7 +1146,6 @@ farseer
 farset
 frogged
 fregatidae
-farsighted
 farsightedness
 flatteringly
 forkedly
@@ -5227,6 +5226,7 @@ flavonols
 fourteenfold
 flavored
 flavorer
+farsighted
 flavorers
 flavorfully
 fusetron
