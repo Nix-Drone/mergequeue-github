@@ -1224,7 +1224,6 @@ colunar
 calibrate
 calibrated
 canichana
-calibrater
 calibrates
 calibrating
 calibrations
@@ -10320,6 +10319,7 @@ carvyl
 chichis
 calctuffs
 chichituna
+calibrater
 chichling
 chick
 chickabiddy
