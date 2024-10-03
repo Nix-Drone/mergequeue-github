@@ -16837,7 +16837,6 @@ drawhead
 drawing
 drawings
 drawknives
-drawknot
 deliquescent
 drawlatch
 drawled
@@ -17507,6 +17506,7 @@ diamondbacked
 drowsy
 drowsier
 detant
+drawknot
 discarder
 drowsiest
 drowsihead
