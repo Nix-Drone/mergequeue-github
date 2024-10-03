@@ -2911,7 +2911,6 @@ extemporise
 elfkin
 elfland
 elflike
-elflock
 easterlies
 elflocks
 elfship
@@ -11406,6 +11405,7 @@ evenblush
 evendown
 evene
 extrametaphysical
+elflock
 evener
 enrapture
 errite
