@@ -5285,7 +5285,6 @@ begiggle
 begild
 bangster
 beginger
-beginner
 beginning
 beginnings
 begird
@@ -16310,6 +16309,7 @@ bruit
 bullroarer
 bruited
 bruiter
+beginner
 bruiters
 bruiting
 bruits
