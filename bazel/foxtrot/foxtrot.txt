@@ -8649,7 +8649,6 @@ fallibilist
 fumistery
 feverishly
 forsung
-forswear
 foreanswer
 forswearing
 fairling
@@ -8924,6 +8923,7 @@ filestatus
 fostress
 fot
 flyspecking
+forswear
 fother
 fothering
 foreshorten
