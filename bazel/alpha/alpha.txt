@@ -13585,7 +13585,6 @@ annotater
 amputated
 annotates
 annotating
-annotation
 avoiding
 annotations
 annotative
@@ -16265,6 +16264,7 @@ antisophism
 antisophist
 alluvia
 antisophistic
+annotation
 antisophistication
 antisophistry
 antisoporific
