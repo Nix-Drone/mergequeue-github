@@ -5737,7 +5737,6 @@ categoricalness
 categories
 categorisation
 categorise
-categorised
 categorising
 categorist
 categorization
@@ -11482,6 +11481,7 @@ choicier
 choiciest
 choil
 choile
+categorised
 choiler
 chelicere
 choir
