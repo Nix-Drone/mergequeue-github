@@ -1478,7 +1478,6 @@ deaconries
 deacons
 deaconship
 deactivate
-deactivated
 deactivates
 discontinuing
 dicranoid
@@ -18260,6 +18259,7 @@ dunned
 dunner
 dunness
 dunnesses
+deactivated
 dunny
 defence
 dunniewassel
