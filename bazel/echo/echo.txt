@@ -2262,7 +2262,6 @@ electioneerer
 elections
 elective
 ephemerons
-electives
 electivism
 electivity
 electo
@@ -12854,6 +12853,7 @@ elytriform
 exotica
 exotically
 exoticism
+electives
 exoticist
 esthetically
 exoticness
