@@ -4630,7 +4630,6 @@ enchanter
 excitement
 enchantery
 enchanters
-enchanting
 enchantingly
 enchantment
 enchantments
@@ -7921,6 +7920,7 @@ epihyal
 electromagnetize
 epihydric
 electroetching
+enchanting
 epihippus
 epikeia
 eggheaded

@@ -7794,7 +7794,6 @@ florilege
 forelook
 formants
 francisco
-foreloop
 forelooper
 foreloper
 forelouper
@@ -11112,6 +11111,7 @@ funambulic
 funambulism
 funambulo
 funambuloes
+foreloop
 funaria
 finestill
 funariaceae
