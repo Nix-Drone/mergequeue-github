@@ -4326,6 +4326,7 @@ deltohedron
 deltoidei
 deltoideus
 deltoids
+disburdens
 daviesia
 delubra
 delubrubra
@@ -11215,7 +11216,6 @@ disburdened
 disburdening
 defi
 disburdenment
-disburdens
 disburgeon
 disbury
 disbursals
