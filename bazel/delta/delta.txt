@@ -743,6 +743,7 @@ dancalite
 dopester
 dance
 danceability
+decrescent
 danceable
 danced
 degasification
@@ -2820,7 +2821,6 @@ decresc
 decrescendo
 duodecahedron
 dedan
-decrescent
 decretal
 decretalist
 dogey
