@@ -5089,7 +5089,6 @@ denature
 denatured
 denaturing
 denaturisation
-denaturise
 denaturised
 duodiode
 diopsidae
@@ -12219,6 +12218,7 @@ desmopathologist
 disgrade
 disorganising
 disgraded
+denaturise
 disgrading
 disgradulate
 dysgraphia
