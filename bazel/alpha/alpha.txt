@@ -1658,7 +1658,6 @@ accordable
 accordance
 accordances
 accordancy
-accordatura
 amphiphloic
 accordaturas
 accordature
@@ -8318,6 +8317,7 @@ acappella
 aliptae
 awakener
 alipteria
+accordatura
 alipterion
 aliptes
 aliptic
