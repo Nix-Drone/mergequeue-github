@@ -5761,7 +5761,6 @@ futharks
 fleuronee
 flytrap
 ferrochrome
-flytraps
 flitted
 felsite
 flitterbat
@@ -7068,6 +7067,7 @@ furnitures
 foochowese
 food
 foody
+flytraps
 foodless
 foodlessness
 fulfilled
