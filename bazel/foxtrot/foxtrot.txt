@@ -3964,7 +3964,6 @@ finfoots
 fingal
 fingall
 fingan
-fingerable
 fingerberry
 fingerboard
 fingerboards
@@ -11506,6 +11505,7 @@ furrowy
 furrowing
 furrowless
 furrowlike
+fingerable
 furrure
 foredid
 flixweed
