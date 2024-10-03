@@ -4581,7 +4581,6 @@ encephalomalaxis
 encephalomas
 encephalomeningocele
 encephalometric
-encephalomyelitic
 encephalomyelitis
 erucin
 encephalomyelopathy
@@ -13336,6 +13335,7 @@ expounder
 expounders
 empocket
 expounds
+encephalomyelitic
 enthrong
 expreme
 express
