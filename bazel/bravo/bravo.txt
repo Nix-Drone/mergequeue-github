@@ -927,7 +927,6 @@ baglike
 bagmaker
 bagmaking
 bagmen
-bagne
 bagnes
 bagnet
 bronchoscopically
@@ -6388,6 +6387,7 @@ benzalethylamine
 benzalphenylhydrazone
 benzalphthalide
 benzamide
+bagne
 benzamido
 benzamine
 benzaminic
