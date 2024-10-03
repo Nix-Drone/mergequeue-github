@@ -5082,7 +5082,6 @@ aerosolization
 aerosolize
 aerosolized
 aerosols
-aerosporin
 aerostat
 aerostatic
 aerostatical
@@ -14360,6 +14359,7 @@ antherogenous
 antheroid
 aspalathus
 antherozoid
+aerosporin
 antherozooid
 antherozooidal
 anthers
