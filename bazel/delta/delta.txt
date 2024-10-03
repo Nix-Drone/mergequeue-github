@@ -5631,7 +5631,6 @@ deadhead
 dependabilities
 dependableness
 dependably
-dependance
 dependant
 dependantly
 depended
@@ -8227,6 +8226,7 @@ diagonally
 diagonals
 diagonalwise
 dedans
+dependance
 dicatalexis
 diagonial
 diagram
