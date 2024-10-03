@@ -1443,7 +1443,6 @@ accentuates
 accentus
 accept
 acceptability
-acceptable
 acceptableness
 acceptance
 acceptances
@@ -11297,6 +11296,7 @@ amplify
 assais
 amplifiable
 amplificate
+acceptable
 avirulence
 amplification
 amplifications
