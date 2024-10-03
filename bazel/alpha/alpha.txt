@@ -19156,7 +19156,6 @@ archpriest
 archpriesthood
 archpriestship
 archprimate
-anatomy
 archprince
 ars
 archprophet
@@ -20565,6 +20564,7 @@ arthritic
 arrased
 arthritical
 afterswarm
+anatomy
 arthritically
 arthriticine
 arthritics
