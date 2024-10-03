@@ -11649,7 +11649,6 @@ cholesterinic
 cholesterinuria
 cholesterol
 cholesterolemia
-cholesteroluria
 conepatls
 cholesterosis
 choletelin
@@ -18397,6 +18396,7 @@ cohered
 coherence
 cataractal
 coherent
+cholesteroluria
 coherer
 coherers
 coheretic
