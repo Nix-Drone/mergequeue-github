@@ -1149,7 +1149,6 @@ bumpkinish
 bairns
 bairnteam
 bootful
-bairntime
 bairnwort
 bais
 baisemain
@@ -1921,6 +1920,7 @@ bandersnatch
 bandfile
 bandfiled
 bandfish
+bairntime
 bandgap
 bandh
 brownism
