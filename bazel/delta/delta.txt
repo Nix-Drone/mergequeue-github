@@ -3431,7 +3431,6 @@ deflector
 deflectors
 deflects
 deflesh
-deflex
 deflexed
 deflexibility
 deflexible
@@ -17412,6 +17411,7 @@ delirament
 droppers
 droppy
 dropping
+deflex
 droppingly
 droppings
 drops
