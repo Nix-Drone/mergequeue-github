@@ -5602,7 +5602,6 @@ afterdeath
 afterdeck
 afterdrain
 aftereffect
-aftereffects
 aftereye
 afterfall
 afterfame
@@ -12565,6 +12564,7 @@ anesthesiology
 anesthesiologies
 alumstone
 anesthesiologist
+aftereffects
 anesthesiologists
 anesthesis
 allergens
