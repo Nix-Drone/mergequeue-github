@@ -5840,7 +5840,6 @@ engs
 ensynopticity
 endocarditic
 engulf
-engulfed
 epicardial
 engulfing
 episcopalian
@@ -11793,6 +11792,7 @@ ephydrid
 extg
 examinership
 examines
+engulfed
 examiningly
 examplar
 example
