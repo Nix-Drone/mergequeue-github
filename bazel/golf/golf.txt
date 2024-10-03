@@ -4783,7 +4783,6 @@ geologise
 gowkit
 gumfield
 gyromancy
-gyromele
 germanous
 gyromitra
 gnawers
@@ -5284,6 +5283,7 @@ glb
 gerodontia
 genipap
 gld
+gyromele
 ghostlify
 gleam
 geyserine
