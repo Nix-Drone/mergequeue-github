@@ -2160,7 +2160,6 @@ banned
 banner
 bannerer
 banneret
-bannerets
 bannerfish
 beduke
 bannerless
@@ -5225,6 +5224,7 @@ begar
 begari
 bedazzle
 bighorn
+bannerets
 bisiliquous
 bicentenary
 bunkmate
