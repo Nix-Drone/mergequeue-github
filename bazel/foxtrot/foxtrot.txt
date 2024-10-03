@@ -4637,6 +4637,7 @@ fixities
 flannelleaf
 fixt
 fusiformis
+forints
 fixtureless
 farming
 fixup
@@ -8296,7 +8297,6 @@ ferriage
 felonous
 fitly
 farcical
-forints
 forisfamiliate
 forisfamiliation
 forjaskit
