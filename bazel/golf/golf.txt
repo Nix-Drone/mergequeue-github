@@ -5222,7 +5222,6 @@ guestship
 glasswork
 guider
 glassworker
-glassworkers
 glassworm
 gawkier
 glasswort
@@ -7976,6 +7975,7 @@ grandstanding
 grandstands
 grandtotal
 geographics
+glassworkers
 granduncle
 granduncles
 grane
