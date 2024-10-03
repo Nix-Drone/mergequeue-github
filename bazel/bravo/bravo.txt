@@ -5254,7 +5254,6 @@ begettal
 begetter
 begetters
 broth
-beggardom
 beggared
 beggarer
 beggaress
@@ -12088,6 +12087,7 @@ boldheartedly
 becovet
 boldin
 boldine
+beggardom
 bolding
 boldly
 boldness
