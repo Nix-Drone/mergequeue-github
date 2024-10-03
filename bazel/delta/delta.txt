@@ -1597,7 +1597,6 @@ dealings
 dealkalize
 dealkylate
 dealkylation
-deallocate
 deallocated
 daunter
 deallocates
@@ -6678,6 +6677,7 @@ designer
 designers
 designful
 designfully
+deallocate
 designfulness
 designing
 decontaminative
