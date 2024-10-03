@@ -5009,6 +5009,7 @@ ender
 entosarc
 edgerman
 endermatic
+emove
 endermic
 endogastric
 endermically
@@ -6615,7 +6616,6 @@ enteria
 etouffe
 enteric
 excerpts
-emove
 endothecate
 enterobacterial
 epoxide
