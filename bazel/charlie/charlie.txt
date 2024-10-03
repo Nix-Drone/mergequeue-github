@@ -3423,7 +3423,6 @@ caption
 captioned
 captioning
 captionless
-captions
 captious
 childridden
 captiously
@@ -23039,6 +23038,7 @@ corner
 cornigeous
 corsetless
 conspectuses
+captions
 courtling
 consperg
 consperse
