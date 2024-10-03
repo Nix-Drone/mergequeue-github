@@ -8035,7 +8035,6 @@ forestair
 fireplough
 forestays
 forehinting
-forestaysail
 forestal
 forestalled
 francisca
@@ -11450,6 +11449,7 @@ furnariidae
 furnariides
 fossilify
 furnarius
+forestaysail
 furnish
 furnishable
 flannelmouthed
