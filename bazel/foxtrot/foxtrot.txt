@@ -4421,6 +4421,7 @@ fishpotter
 fishskin
 fishspear
 fishtail
+frailest
 fishtailed
 flether
 fishtails
@@ -5602,7 +5603,6 @@ flightily
 flightiness
 flightless
 forepassed
-frailest
 flights
 flightworthy
 flying
