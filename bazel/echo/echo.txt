@@ -1688,7 +1688,6 @@ errorful
 egremoigne
 egress
 egresses
-egressing
 estadal
 egressor
 exiler
@@ -5650,6 +5649,7 @@ enfroward
 elites
 enfume
 endangers
+egressing
 enfurrow
 erysipelothrix
 eng
