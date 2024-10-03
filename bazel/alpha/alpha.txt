@@ -834,7 +834,6 @@ abridgeable
 abridged
 anisotropical
 abridgement
-abridgements
 abridger
 abridgers
 abridges
@@ -11673,6 +11672,7 @@ anagrammatization
 anagrammatize
 anagrammatizing
 anagrams
+abridgements
 anagraph
 anahau
 anahita
