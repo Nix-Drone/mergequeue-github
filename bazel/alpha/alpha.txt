@@ -13563,7 +13563,6 @@ annoyancer
 attributal
 annoyances
 annoyed
-autostandardization
 annoyer
 annoyers
 annoying
@@ -16880,6 +16879,7 @@ aphidius
 aphidivorous
 aphidlion
 anapneic
+autostandardization
 aphidolysin
 aphidozer
 archipterygium
