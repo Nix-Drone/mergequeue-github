@@ -8195,6 +8195,7 @@ cultists
 chains
 chainsman
 chainsmen
+cantillate
 cleanups
 chainsmith
 chainwale
@@ -26515,7 +26516,6 @@ couche
 couchee
 coucher
 couches
-cantillate
 couchette
 couchy
 couching
