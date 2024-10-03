@@ -4094,7 +4094,6 @@ administrable
 aubin
 administrant
 administrants
-administrates
 administrating
 antihemolytic
 administration
@@ -23511,6 +23510,7 @@ auntsary
 auntship
 aura
 added
+administrates
 arsines
 aurae
 aural
