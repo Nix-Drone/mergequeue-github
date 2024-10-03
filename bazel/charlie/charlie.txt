@@ -2432,7 +2432,6 @@ candlesticks
 candlestickward
 candlewaster
 candlewasting
-candlewick
 candlewicking
 candlewicks
 candlewright
@@ -9027,6 +9026,7 @@ charismatic
 charisms
 charissa
 charisticary
+candlewick
 charitable
 charitably
 charitative
