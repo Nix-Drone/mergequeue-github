@@ -7570,7 +7570,6 @@ bevatron
 beveil
 beveled
 bevelers
-blastophore
 beveling
 bevelled
 beveller
@@ -12412,6 +12411,7 @@ brooders
 bondservant
 bowmaking
 bondship
+blastophore
 bondslave
 bondsman
 bondsmen
