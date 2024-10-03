@@ -4147,7 +4147,6 @@ frostlike
 faithwise
 firebombs
 forestery
-fireboot
 firebox
 frogflower
 familiarism
@@ -11009,6 +11008,7 @@ fibroplastic
 fumaroidal
 fumaroles
 fumarolic
+fireboot
 fumatory
 fumatoria
 fetlock
