@@ -4943,6 +4943,7 @@ aerodrome
 aerodromes
 acetyltannin
 aeroduct
+anchory
 auge
 aeroducts
 aeroelastic
@@ -12170,7 +12171,6 @@ anchorets
 alfuro
 angiometer
 almach
-anchory
 anchorite
 astate
 anchorites
