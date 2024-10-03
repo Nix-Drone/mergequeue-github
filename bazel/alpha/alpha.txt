@@ -1585,7 +1585,6 @@ acclimatizes
 acclimatizing
 acclinal
 acclinate
-acclivity
 acclivities
 acclivitous
 acclivous
@@ -20404,6 +20403,7 @@ arsenous
 arsenoxide
 arses
 arsesmart
+acclivity
 arsheen
 arshin
 afterimage
