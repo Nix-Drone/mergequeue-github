@@ -2503,7 +2503,6 @@ declarator
 declaratory
 declaratorily
 declarators
-declare
 declaredly
 declaredness
 declarer
@@ -12124,6 +12123,7 @@ disfiguration
 disfigurative
 decertifying
 disfigure
+declare
 disfigured
 defencelessness
 disfigurer

@@ -2677,7 +2677,6 @@ canoeists
 canoeload
 canoeman
 canoes
-canoewood
 crescendi
 cuprammonium
 canoing
@@ -23959,6 +23958,7 @@ convalescently
 convalescents
 convalesces
 convalescing
+canoewood
 convallaria
 convallariaceae
 chondrodite
