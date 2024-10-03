@@ -725,7 +725,6 @@ baculitic
 baculiticone
 baculoid
 baculus
-bacury
 bad
 badaga
 badan
@@ -3816,6 +3815,7 @@ battler
 battles
 battleship
 battleships
+bacury
 buhr
 battlesome
 boatfalls
