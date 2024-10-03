@@ -4968,6 +4968,7 @@ fountainhead
 flanked
 flanker
 flankers
+footplate
 falconries
 fringilliform
 fireshaft
@@ -7230,7 +7231,6 @@ fibs
 footpath
 footpaths
 fatidic
-footplate
 footpound
 fogs
 footpounds
