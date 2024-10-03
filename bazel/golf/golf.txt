@@ -3080,7 +3080,6 @@ gillnet
 geogen
 geogenesis
 gyropilot
-geogenetic
 geogeny
 geogenic
 goldney
@@ -9903,6 +9902,7 @@ guarantor
 guarantors
 guarantorship
 greenhide
+geogenetic
 genevoise
 geode
 guarapucu
