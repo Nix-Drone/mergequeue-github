@@ -2010,7 +2010,6 @@ bandstands
 bandster
 ballroom
 bandstop
-bandstring
 bandura
 bandurria
 bandurrias
@@ -7402,6 +7401,7 @@ brodekin
 boulimy
 bethesda
 bucking
+bandstring
 bethesdas
 bethflower
 bethylidae
