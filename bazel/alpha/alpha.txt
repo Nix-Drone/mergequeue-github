@@ -3559,6 +3559,7 @@ allotheistic
 ammine
 addressable
 addressees
+arguer
 addresser
 addressers
 addresses
@@ -19593,7 +19594,6 @@ arguably
 argue
 argued
 attender
-arguer
 arguers
 argues
 argufy
