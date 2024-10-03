@@ -5249,7 +5249,6 @@ bicameralist
 begem
 begemmed
 begemming
-beget
 begettal
 begetter
 begetters
@@ -14787,6 +14786,7 @@ breadnut
 breadnuts
 breadroot
 bullety
+beget
 breads
 breadstitch
 breadstuff
