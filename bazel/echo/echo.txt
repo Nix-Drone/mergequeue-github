@@ -4287,6 +4287,7 @@ ems
 emu
 evokers
 emulant
+exampleless
 emulations
 emulative
 emulatively
@@ -11798,7 +11799,6 @@ examplar
 example
 exampled
 enigmatization
-exampleless
 ectrodactylia
 embliss
 echinoderes
