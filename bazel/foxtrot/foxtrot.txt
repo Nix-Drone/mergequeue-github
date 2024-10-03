@@ -2993,7 +2993,6 @@ fillmass
 feverously
 feverroot
 fevertwig
-fevertwitch
 feverwort
 few
 fewest
@@ -8224,6 +8223,7 @@ forgathering
 furzed
 forgathers
 forgave
+fevertwitch
 forgeability
 forgeable
 forged
