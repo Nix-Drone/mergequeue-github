@@ -4918,7 +4918,6 @@ encurtain
 endosteal
 encushion
 end
-endable
 endamage
 endamageable
 endamagement
@@ -8037,6 +8036,7 @@ effervesce
 echoized
 epinikion
 epinine
+endable
 epionychia
 epiopticon
 epiotic
