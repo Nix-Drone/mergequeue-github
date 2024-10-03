@@ -5592,7 +5592,6 @@ aftercooler
 aftercost
 aftercrop
 aftercure
-afterdays
 afterdate
 afterdated
 amadou
@@ -11675,6 +11674,7 @@ anagrammatizing
 anagrams
 anagraph
 anahau
+afterdays
 anahita
 anay
 anakes
