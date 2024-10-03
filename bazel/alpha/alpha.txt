@@ -3682,6 +3682,7 @@ adenohypophysial
 attrib
 adenohypophysis
 adenoid
+anisotropic
 adenoidal
 adenoidectomy
 adenoidectomies
@@ -12350,7 +12351,6 @@ androcephalum
 audits
 androcyte
 androclclinia
-anisotropic
 androcles
 androclinia
 androclinium
