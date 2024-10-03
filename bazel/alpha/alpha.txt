@@ -22747,7 +22747,6 @@ atolls
 atom
 atomatic
 atomechanics
-atomerg
 atomy
 atomic
 atomical
@@ -23455,6 +23454,7 @@ auletes
 atalaya
 auletic
 auletrides
+atomerg
 aetiophyllin
 antlid
 auletris
