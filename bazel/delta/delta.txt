@@ -2624,7 +2624,6 @@ dispose
 decolorization
 decolorized
 decolorizer
-decolors
 decolour
 decolouration
 decolouring
@@ -4839,6 +4838,7 @@ demodulator
 demogenic
 demographer
 demography
+decolors
 disemploys
 demographical
 demographically
