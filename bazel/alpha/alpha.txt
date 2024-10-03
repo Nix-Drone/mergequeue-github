@@ -4141,7 +4141,6 @@ admissive
 automaton
 admissively
 alibi
-antiperistasis
 admissory
 admit
 admits
@@ -8803,6 +8802,7 @@ amphistomoid
 allodiaries
 allodification
 allodium
+antiperistasis
 allods
 apiaries
 alloeostropha
