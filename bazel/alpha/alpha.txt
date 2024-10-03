@@ -3709,7 +3709,6 @@ adenomyoma
 agapornis
 adenomyxosarcoma
 adenoncus
-adenoneural
 adenoneure
 adenopharyngeal
 archosyrinx
@@ -9799,6 +9798,7 @@ amaryllidaceae
 amaryllidaceous
 applicant
 amaryllideous
+adenoneural
 adjudicating
 amaryllis
 amaryllises
