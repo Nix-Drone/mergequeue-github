@@ -4188,6 +4188,7 @@ firefang
 firefanged
 firefangs
 firefighter
+followable
 firefighting
 foreship
 fireflaught
@@ -6970,7 +6971,6 @@ follis
 feuille
 fatheads
 follow
-followable
 followed
 follower
 foisting
