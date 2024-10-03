@@ -1718,6 +1718,7 @@ deathtrap
 deathtraps
 deathward
 deathwatches
+demise
 deathweed
 deathworm
 dowelled
@@ -4709,7 +4710,6 @@ demisang
 demisangue
 demisavage
 demiscible
-demise
 demisecond
 demised
 depas
