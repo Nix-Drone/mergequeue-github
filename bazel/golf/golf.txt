@@ -3031,7 +3031,6 @@ gentes
 geochemists
 geochrony
 geochronology
-geochronological
 geocyclic
 geocline
 griskin
@@ -4486,6 +4485,7 @@ ginglymodian
 guddling
 ginglymoid
 gravic
+geochronological
 gunnel
 ginglymoidal
 galoping
