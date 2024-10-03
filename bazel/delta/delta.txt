@@ -1194,7 +1194,6 @@ dataset
 datasetname
 datasets
 datatype
-datatypes
 datcha
 dynamometry
 dialyzers
@@ -1936,6 +1935,7 @@ debutants
 debuted
 debuting
 desirable
+datatypes
 dec
 dichromatopsia
 decadactylous
