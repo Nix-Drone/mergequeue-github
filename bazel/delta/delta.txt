@@ -6075,7 +6075,6 @@ dequantitate
 dequeue
 dequeues
 dequeuing
-dropshots
 der
 derabbinize
 deracialize
@@ -18173,6 +18172,7 @@ dinucleotide
 duncical
 duncify
 duncifying
+dropshots
 dharani
 dispensary
 duncish
