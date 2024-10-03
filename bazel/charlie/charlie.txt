@@ -15448,6 +15448,7 @@ clappe
 clapped
 clapper
 clapperclaw
+clubhands
 clapperclawer
 clapperdudgeon
 clappered
@@ -16842,7 +16843,6 @@ clubfisted
 clubfoot
 clubfooted
 clubhand
-clubhands
 clubhaul
 clubhauled
 clubhauling
