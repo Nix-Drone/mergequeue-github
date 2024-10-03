@@ -3359,7 +3359,6 @@ fiedlerite
 firstlings
 fief
 foredeem
-fiefs
 forfeitable
 fiel
 fieldball
@@ -5115,6 +5114,7 @@ fatigued
 fissionability
 flatly
 flatling
+fiefs
 flatlings
 flatlong
 flatman
