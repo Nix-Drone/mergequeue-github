@@ -1539,6 +1539,7 @@ deadpanning
 descrial
 dibstones
 deadpans
+dorsibranch
 deadrise
 deadtongue
 deadweight
@@ -5974,7 +5975,6 @@ depressomotor
 depressor
 dinos
 depressors
-dorsibranch
 diversifications
 depressurize
 deprest
