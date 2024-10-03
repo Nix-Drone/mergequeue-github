@@ -13426,7 +13426,6 @@ cleaners
 cyclostyle
 cyclostoma
 cyclostomata
-cyclostomate
 cyclostomatidae
 charadriidae
 coremia
@@ -15032,6 +15031,7 @@ citraconate
 citral
 copperas
 citrals
+cyclostomate
 citramide
 citramontane
 calography
