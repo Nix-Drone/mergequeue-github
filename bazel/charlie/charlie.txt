@@ -141,7 +141,6 @@ cablecast
 catholici
 cabled
 cablegrams
-cablelaid
 cableless
 cablelike
 cableman
@@ -7132,6 +7131,7 @@ centralities
 centripetally
 centralization
 centralize
+cablelaid
 consociate
 centralized
 centralizers
