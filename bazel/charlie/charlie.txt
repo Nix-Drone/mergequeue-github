@@ -1601,6 +1601,7 @@ calorimeter
 calorimeters
 calorimetry
 calorimetric
+coalbin
 calorimetrical
 calorimetrically
 calorimotor
@@ -17140,7 +17141,6 @@ coala
 coalas
 coalbag
 coalbagger
-coalbin
 coalbins
 conjoint
 coalbox
