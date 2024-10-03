@@ -5517,7 +5517,6 @@ catalogistic
 catalogize
 catalogs
 catalogued
-cataloguer
 catalogues
 cataloguing
 cataloguish
@@ -31552,6 +31551,7 @@ curtesy
 cremule
 curtesies
 curtest
+cataloguer
 curtilage
 curtis
 curtise
