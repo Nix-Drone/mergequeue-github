@@ -2399,6 +2399,7 @@ candleberry
 candleberries
 candlebomb
 candled
+certificatory
 candlefish
 candlefishes
 candleholder
@@ -7775,7 +7776,6 @@ collisions
 certifications
 certificative
 certificator
-certificatory
 certified
 certifier
 certifiers
