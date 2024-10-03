@@ -5957,7 +5957,6 @@ depressibilities
 depressible
 declass
 depressing
-depressingly
 depressingness
 depression
 depressional
@@ -6677,6 +6676,7 @@ detachability
 designer
 designers
 designful
+depressingly
 designfully
 designfulness
 designing
