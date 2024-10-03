@@ -4029,7 +4029,6 @@ cardioclasia
 cardioclasis
 cothe
 cardiod
-cardiodilator
 cardiodynia
 cardiodysneuria
 cardiogenesis
@@ -12575,6 +12574,7 @@ chronics
 chronique
 chronisotherm
 chronist
+cardiodilator
 chronobarometer
 chronobiology
 chronocarator
