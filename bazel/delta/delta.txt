@@ -2727,6 +2727,7 @@ deconvolution
 deconvolve
 decopperization
 decopperize
+deidealize
 decor
 decorability
 decorable
@@ -3818,7 +3819,6 @@ deicides
 deicing
 deictical
 deictically
-deidealize
 devilkin
 deidesheimer
 deific
