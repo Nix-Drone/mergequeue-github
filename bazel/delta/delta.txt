@@ -4631,7 +4631,6 @@ demilitarise
 demilitarised
 derencephalocele
 demilitarising
-demilitarization
 demilitarized
 demilitarizes
 demiliterate
@@ -5737,6 +5736,7 @@ deplaning
 deplant
 deplantation
 deplasmolysis
+demilitarization
 dictamina
 disposit
 deplenish
