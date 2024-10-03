@@ -3259,7 +3259,6 @@ actualistic
 actuality
 actualities
 actualization
-actualize
 actualizes
 actually
 actualness
@@ -20909,6 +20908,7 @@ ascarids
 ascaris
 ascaron
 ascella
+actualize
 ascelli
 ascellus
 ascend
