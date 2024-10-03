@@ -4809,7 +4809,6 @@ gyroscopics
 gyrose
 gyrostabilized
 gyrostat
-gyrostats
 gyrotheca
 girouette
 gastroduodenostomies
@@ -7739,6 +7738,7 @@ grailer
 grayling
 gittite
 glovey
+gyrostats
 graysbies
 graylings
 graymalkin
