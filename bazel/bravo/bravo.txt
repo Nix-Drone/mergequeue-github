@@ -4655,7 +4655,6 @@ bedchairs
 bedchamber
 bratstva
 bedclothing
-bedcord
 byplays
 bedcovers
 beddable
@@ -5397,6 +5396,7 @@ breakdown
 beadsman
 beguilingly
 bandy
+bedcord
 beguin
 bridesman
 beguines
