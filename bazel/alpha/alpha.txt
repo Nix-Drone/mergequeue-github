@@ -6844,6 +6844,7 @@ aircrew
 aircrewman
 attended
 aircrewmen
+anecdotic
 aircrews
 aerophone
 airdate
@@ -12451,7 +12452,6 @@ anecdotally
 auxanology
 anecdote
 anecdotes
-anecdotic
 anecdotical
 anecdotically
 anecdotist
