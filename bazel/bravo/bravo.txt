@@ -6646,6 +6646,7 @@ berdaches
 berdash
 birotation
 betons
+bleachhouse
 bere
 bien
 bereareft
@@ -10576,7 +10577,6 @@ bleachfield
 balr
 bleachground
 bedarken
-bleachhouse
 bleachyard
 bleaching
 bleachman
