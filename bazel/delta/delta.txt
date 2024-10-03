@@ -289,7 +289,6 @@ dagswain
 daguerrean
 daguerreotype
 daguerreotyped
-daguerreotyper
 daguerreotypic
 daguerreotyping
 dyspneal
@@ -3802,6 +3801,7 @@ dehumidify
 dehumidified
 dehumidifier
 dehumidifiers
+daguerreotyper
 dehumidifies
 dehumidifying
 duds
