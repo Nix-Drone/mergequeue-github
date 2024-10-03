@@ -8400,6 +8400,7 @@ galenite
 gravecloth
 graveclothes
 gravedigger
+goldsmithing
 genophobia
 gravediggers
 grudgment
@@ -9679,7 +9680,6 @@ gruyere
 gruiform
 gruiformes
 gruine
-goldsmithing
 gruys
 gobi
 grumble
