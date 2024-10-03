@@ -6287,7 +6287,6 @@ footstool
 fissicostate
 fecit
 fluidified
-fluidifier
 fluidimeter
 fluidisation
 forewisdom
@@ -8341,6 +8340,7 @@ forkmen
 forks
 forksful
 forktail
+fluidifier
 fruiterer
 faceup
 flickery
