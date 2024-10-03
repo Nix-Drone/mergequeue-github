@@ -6671,7 +6671,6 @@ designators
 designatum
 detersive
 designedly
-designedness
 designee
 detachability
 designer
@@ -10927,6 +10926,7 @@ dulcorate
 disadvised
 disadvising
 dysaesthesia
+designedness
 dysaesthetic
 disaffect
 dropvie
