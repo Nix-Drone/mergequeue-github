@@ -6959,7 +6959,6 @@ apostolic
 airspeed
 airspeeds
 airstream
-akinetic
 allegory
 airstrip
 airstrips
@@ -13491,6 +13490,7 @@ appoggiature
 anneals
 annect
 annectant
+akinetic
 antiegoistically
 annection
 annelid
