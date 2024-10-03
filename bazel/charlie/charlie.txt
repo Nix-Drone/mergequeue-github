@@ -10862,7 +10862,6 @@ chip
 chipboard
 chipchap
 chipchop
-chipewyan
 chiplet
 chipling
 chipmuck
@@ -24306,6 +24305,7 @@ caught
 cooky
 cookie
 cookish
+chipewyan
 cookishly
 charbroiling
 cookless
