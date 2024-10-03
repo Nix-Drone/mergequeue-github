@@ -3962,7 +3962,6 @@ filtered
 finfoot
 finfoots
 fingal
-fingall
 fingan
 fingerable
 fingerberry
@@ -7675,6 +7674,7 @@ forefinger
 forjudged
 forefingers
 figlike
+fingall
 foreflank
 fistulized
 foreflipper
