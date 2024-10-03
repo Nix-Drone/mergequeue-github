@@ -1354,7 +1354,6 @@ effectors
 effectress
 effects
 effectual
-effectuality
 effectualness
 effectuated
 effectuates
@@ -5197,6 +5196,7 @@ endolymph
 endolymphatic
 etiotropic
 endolymphic
+effectuality
 estafette
 endolysin
 endolumbar
