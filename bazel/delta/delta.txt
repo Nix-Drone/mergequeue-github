@@ -1741,7 +1741,6 @@ dobroes
 dodecuplet
 demagnetisable
 debarked
-debarking
 debarkment
 debarks
 debarment
@@ -5278,6 +5277,7 @@ denouncements
 digladiate
 deprehensible
 denouncer
+debarking
 depoliticizing
 denouncing
 dens
