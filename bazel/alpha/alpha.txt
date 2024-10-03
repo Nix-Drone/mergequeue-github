@@ -1444,6 +1444,7 @@ accentus
 accept
 acceptability
 acceptable
+antlerless
 acceptableness
 acceptance
 acceptances
@@ -16479,7 +16480,6 @@ antler
 antlered
 alcoves
 antlerite
-antlerless
 antlers
 alphabeted
 antlia
