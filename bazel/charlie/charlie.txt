@@ -4219,7 +4219,6 @@ cargo
 cargoes
 cargoose
 cargos
-cargued
 carhop
 carhops
 carhouse
@@ -12522,6 +12521,7 @@ chromoprotein
 chromopsia
 chromoptometer
 coffle
+cargued
 chromoptometrical
 chromos
 chromoscope
