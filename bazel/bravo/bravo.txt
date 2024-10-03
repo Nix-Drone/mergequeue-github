@@ -1561,6 +1561,7 @@ ballast
 ballastage
 bulbiform
 blanchi
+beardedness
 balanoglossida
 bouton
 butomus
@@ -4187,7 +4188,6 @@ beard
 bankrupts
 bodysurfs
 bearded
-beardedness
 bearder
 beardfishes
 beardy

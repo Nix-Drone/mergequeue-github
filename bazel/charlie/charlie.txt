@@ -9950,7 +9950,6 @@ chemotaxonomically
 cannular
 comma
 carices
-chemotherapeutic
 chemotherapeutical
 chemotherapeutically
 chemotherapeutics
@@ -27850,6 +27849,7 @@ crackle
 crackled
 crackles
 crackless
+chemotherapeutic
 crackleware
 crackly
 cracklier
