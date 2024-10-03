@@ -2436,7 +2436,6 @@ denizenize
 designs
 decyne
 decinormal
-decipher
 dispenser
 decipherability
 decipherable
@@ -9569,6 +9568,7 @@ diguanide
 digue
 dihalid
 dihalide
+decipher
 dihalo
 discommendable
 dihalogen
