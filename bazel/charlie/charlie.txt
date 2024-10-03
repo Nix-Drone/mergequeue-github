@@ -18897,7 +18897,6 @@ collateralness
 collaterals
 canzone
 collates
-collation
 collationer
 collations
 cesti
@@ -21360,6 +21359,7 @@ concinnities
 cystoenterocele
 concinnously
 comparts
+collation
 concio
 concion
 concional
