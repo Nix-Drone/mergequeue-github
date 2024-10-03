@@ -7618,7 +7618,6 @@ endrins
 enddamage
 epicenes
 epicenism
-epicentral
 eaux
 epicentrum
 eozoic
@@ -8873,6 +8872,7 @@ erastus
 erasure
 erasures
 erat
+epicentral
 erato
 erava
 erbia
