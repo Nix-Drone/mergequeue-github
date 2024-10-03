@@ -10198,7 +10198,6 @@ baneful
 blacktail
 bliaut
 boogaloo
-blackthorns
 blacktongue
 blacktopped
 breechloader
@@ -13879,6 +13878,7 @@ boxroom
 boxthorn
 borghese
 boxthorns
+blackthorns
 boxty
 boxtop
 brager
