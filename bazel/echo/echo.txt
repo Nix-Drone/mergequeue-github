@@ -5877,7 +5877,6 @@ enhedge
 enhelm
 elysia
 enhemospore
-enherit
 enheritance
 enhydra
 eyewear
@@ -12057,6 +12056,7 @@ excitovascular
 excitron
 exclaimed
 exclaimer
+enherit
 exclaimers
 erethic
 exclaiming
