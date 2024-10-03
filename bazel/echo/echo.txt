@@ -7161,7 +7161,6 @@ envelopment
 ety
 envelopments
 entailing
-envelops
 envenom
 envenomed
 envenoming
@@ -9473,6 +9472,7 @@ entrance
 enkindle
 escalator
 escalier
+envelops
 escalin
 escallonia
 expendability
