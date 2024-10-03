@@ -200,7 +200,6 @@ earthslide
 earthsmoke
 earthtongue
 earthwall
-earthwork
 earthworks
 ecdysones
 earthworms
@@ -9729,6 +9728,7 @@ euphrosyne
 esophagostenosis
 esophagostomy
 endorsor
+earthwork
 esophagotome
 esophagus
 esophoria
