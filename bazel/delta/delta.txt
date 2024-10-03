@@ -7822,7 +7822,6 @@ dewberries
 dewclaw
 dewclawed
 dewclaws
-dewcup
 dewdamp
 dewdrop
 dewdropper
@@ -18373,6 +18372,7 @@ dup
 dupable
 despairingly
 dupatta
+dewcup
 disarrayed
 dupe
 dupedom
