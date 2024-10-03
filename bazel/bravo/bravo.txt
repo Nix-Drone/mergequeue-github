@@ -4660,7 +4660,6 @@ byplays
 bedcovers
 beddable
 bedders
-bedding
 beddingroll
 beddings
 bede
@@ -6177,6 +6176,7 @@ benedicite
 benedicks
 benedicta
 benedictine
+bedding
 bletonism
 benedictinism
 benediction
