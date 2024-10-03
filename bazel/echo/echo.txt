@@ -3661,7 +3661,6 @@ embrighten
 exscinded
 embryocardia
 embryoctonic
-estates
 embryogenesis
 embryogenetic
 embryogony
@@ -6831,6 +6830,7 @@ entities
 epineurium
 entitle
 enriched
+estates
 epochally
 entitling
 entitule
