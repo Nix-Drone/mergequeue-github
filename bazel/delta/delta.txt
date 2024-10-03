@@ -4029,7 +4029,6 @@ delegalizing
 delegant
 dependants
 delegare
-delegate
 delegated
 delegateship
 dermographism
@@ -13501,6 +13500,7 @@ dissemblingly
 dissemilative
 disseminated
 disseminates
+delegate
 disseminating
 dissemination
 disseminations
