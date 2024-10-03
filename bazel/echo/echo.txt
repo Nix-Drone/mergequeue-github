@@ -9817,7 +9817,6 @@ espousals
 espouse
 elands
 espoused
-espousement
 essenwood
 espouser
 espouses
@@ -13412,6 +13411,7 @@ expungers
 expunging
 expurgate
 expurgated
+espousement
 expurgating
 expurgation
 expurgational
