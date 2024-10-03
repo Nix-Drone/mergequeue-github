@@ -4416,6 +4416,7 @@ fishplate
 feste
 fishpole
 fishpoles
+fistlike
 fishponds
 fishpotter
 fishskin
@@ -4502,7 +4503,6 @@ fisticuffery
 fistiness
 fisting
 fistinut
-fistlike
 fistmele
 forecounsel
 fistnotes
