@@ -3616,7 +3616,6 @@ filename
 filenames
 filer
 fanons
-filers
 files
 frailly
 filesmith
@@ -7926,6 +7925,7 @@ foreroyal
 forerun
 forerunner
 forerunners
+filers
 forerunning
 forerunnings
 fittyways
