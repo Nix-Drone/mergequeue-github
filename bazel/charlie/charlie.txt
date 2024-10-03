@@ -15808,7 +15808,6 @@ clead
 cleaded
 cleading
 cleam
-cleamer
 clean
 cleanable
 cleaned
@@ -23675,6 +23674,7 @@ contradebt
 contradict
 contradictable
 contradicted
+cleamer
 contradictedness
 contradicter
 contradiction
