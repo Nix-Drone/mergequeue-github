@@ -9063,7 +9063,6 @@ almagests
 almagra
 alman
 abaft
-authenticatable
 almanacs
 almander
 almandine
@@ -10396,6 +10395,7 @@ antileft
 amidin
 amidine
 amidins
+authenticatable
 amidism
 armenians
 algenib
