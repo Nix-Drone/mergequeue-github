@@ -332,7 +332,6 @@ ebbets
 ebbing
 ebbman
 ebbs
-ebcasc
 enterosyphilis
 ebcd
 ebcdic
@@ -2532,6 +2531,7 @@ electromuscular
 electronarcosis
 eleutherarch
 ectethmoid
+ebcasc
 ethnarchy
 electronegativity
 electronervous
