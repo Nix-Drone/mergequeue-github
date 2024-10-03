@@ -4749,7 +4749,6 @@ carry
 carriable
 carryable
 carriage
-carriageable
 carriageful
 carriages
 carriagesmith
@@ -16434,6 +16433,7 @@ cloacaline
 cholonan
 cheveron
 cloacas
+carriageable
 cloacean
 cloacinal
 cloacinean
