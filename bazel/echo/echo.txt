@@ -3921,7 +3921,6 @@ electrotonus
 epacme
 emilia
 emim
-eminence
 eminences
 eminencies
 eminent
@@ -13014,6 +13013,7 @@ eccritic
 expending
 expenditor
 exurbias
+eminence
 elogium
 expenditrix
 elegits
