@@ -6104,7 +6104,6 @@ fragor
 felspar
 furnisher
 flotsams
-fishmeal
 freighter
 film
 forewish
@@ -9355,6 +9354,7 @@ formalazine
 fikie
 frontispieced
 flitwite
+fishmeal
 fraktur
 frakturs
 framboise
