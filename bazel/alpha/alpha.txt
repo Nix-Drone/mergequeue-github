@@ -2403,7 +2403,6 @@ acidly
 acidness
 aurorean
 acidnesses
-acidogenic
 acidoid
 acidolysis
 acidology
@@ -11717,6 +11716,7 @@ analgetic
 analgia
 analgias
 analgic
+acidogenic
 analgize
 analysability
 analysable
