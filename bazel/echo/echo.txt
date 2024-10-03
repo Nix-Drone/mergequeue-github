@@ -2351,7 +2351,6 @@ equison
 electrochronometric
 ephemerality
 eutectic
-electrocoagulation
 egba
 erythrophore
 episteme
@@ -11757,6 +11756,7 @@ exaltations
 endocarditis
 eviscerations
 exalte
+electrocoagulation
 exaltedness
 exalters
 enigmatic
