@@ -12907,7 +12907,6 @@ churnmilk
 clamflat
 churns
 churoya
-churoyan
 churr
 churrasco
 churred
@@ -13656,6 +13655,7 @@ cymballed
 cymballike
 cob
 cymbalo
+churoyan
 cimbalom
 cymbalom
 cimbaloms
