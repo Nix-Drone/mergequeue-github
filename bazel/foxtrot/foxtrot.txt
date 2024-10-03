@@ -839,7 +839,6 @@ fanions
 fosters
 firebolt
 fides
-fanit
 fanjet
 formulism
 fanlight
@@ -2226,6 +2225,7 @@ farmhouses
 felt
 felted
 felter
+fanit
 feltyfare
 feltyflier
 felting
