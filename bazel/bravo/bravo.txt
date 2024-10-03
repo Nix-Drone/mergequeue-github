@@ -8729,7 +8729,6 @@ bacterize
 billsticker
 billtong
 bilobate
-bilobated
 bilobe
 bilobed
 bilobiate
@@ -16009,6 +16008,7 @@ bronchoscopy
 bronchoscopic
 bronchoscopist
 bronchospasm
+bilobated
 blenches
 bellbottle
 bronchostenosis
