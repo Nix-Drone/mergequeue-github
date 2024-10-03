@@ -8806,6 +8806,7 @@ forwards
 forwardsearch
 forwarn
 forwean
+fuzz
 forwear
 february
 forwearied
@@ -11739,7 +11740,6 @@ fuzil
 facingly
 ferfathmur
 fuzils
-fuzz
 fuzzball
 fuzzed
 fuzzes
