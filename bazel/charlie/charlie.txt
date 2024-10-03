@@ -3241,7 +3241,6 @@ capons
 caporal
 caporals
 counterweighing
-capot
 capotasto
 capotastos
 capote
@@ -14908,6 +14907,7 @@ cytogenetic
 cytogenetical
 cytogenetics
 cytogeny
+capot
 cytogenic
 cytogenies
 cytogenous
