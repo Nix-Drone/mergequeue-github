@@ -7262,7 +7262,6 @@ bestock
 bessemerize
 broadhead
 billy
-bestore
 bestorm
 bestow
 bestowal
@@ -17727,6 +17726,7 @@ burladero
 blackfin
 buttery
 burlaps
+bestore
 buicks
 burleycue
 becker
