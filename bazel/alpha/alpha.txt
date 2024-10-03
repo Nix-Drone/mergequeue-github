@@ -5360,7 +5360,6 @@ affixion
 affixment
 ague
 affixture
-afflate
 afflated
 afflatus
 afflatuses
@@ -7343,6 +7342,7 @@ alawi
 alazor
 antitropical
 antedonin
+afflate
 alba
 albacora
 albacore
