@@ -3572,7 +3572,6 @@ duckers
 deftly
 deftness
 deftnesses
-defunct
 deflections
 defunction
 deoxidized
@@ -8748,6 +8747,7 @@ diazobenzene
 diazohydroxide
 diazoic
 diffident
+defunct
 diazole
 diazoma
 diazonium
