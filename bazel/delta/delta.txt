@@ -3290,6 +3290,7 @@ deferments
 deferrable
 deferral
 deferrals
+detained
 deferred
 deferrer
 deferrers
@@ -7137,7 +7138,6 @@ dipterans
 detain
 detainable
 detainal
-detained
 detainee
 detainees
 detainer
