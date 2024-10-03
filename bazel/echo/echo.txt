@@ -1692,6 +1692,7 @@ egressing
 estadal
 egressor
 exiler
+equals
 egret
 egretta
 egritude
@@ -8572,7 +8573,6 @@ equalizers
 equalizes
 equaller
 equalling
-equals
 equanimously
 equanimousness
 equatability
