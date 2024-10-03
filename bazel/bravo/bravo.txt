@@ -5681,6 +5681,7 @@ belemnites
 belemnitic
 belemnoid
 bowssen
+bool
 boer
 belemnoidea
 beleper
@@ -12729,7 +12730,6 @@ bookworm
 bookworms
 bucketeer
 bookwright
-bool
 bowline
 boolean
 booleans
