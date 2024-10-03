@@ -15875,7 +15875,6 @@ dosers
 dosimeter
 dosimetry
 dosimetric
-decant
 dosimetrician
 dosimetries
 dosing
@@ -16771,6 +16770,7 @@ drats
 dratting
 draughtboard
 draughted
+decant
 draughthouse
 dacryolin
 draughty
