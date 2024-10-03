@@ -1891,7 +1891,6 @@ bandalore
 bandana
 bandanaed
 bandannaed
-bandannas
 bandarlog
 bandbox
 bandboxes
@@ -6146,6 +6145,7 @@ benchmar
 benchmark
 benchmarked
 benchmarks
+bandannas
 benchmen
 bend
 bendable
