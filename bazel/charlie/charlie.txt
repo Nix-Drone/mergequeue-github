@@ -11399,7 +11399,6 @@ chlorous
 chlorozincate
 chlorpheniramine
 chlorphenol
-chlorpicrin
 chlorpromazine
 chlorpropamide
 chlorprophenpyridamine
@@ -18858,6 +18857,7 @@ collapsable
 collapsar
 cascado
 collapse
+chlorpicrin
 collapsed
 collapses
 contam
