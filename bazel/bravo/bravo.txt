@@ -11890,7 +11890,6 @@ bercelet
 boggle
 blastemas
 bogglebo
-boggled
 boggler
 bogglers
 boggles
@@ -17550,6 +17549,7 @@ burbliest
 burbolt
 burbs
 burd
+boggled
 burdalone
 brosse
 burden
