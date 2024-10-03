@@ -6275,7 +6275,6 @@ gnathotheca
 gillot
 gladdy
 gnatlike
-gnatproof
 glyptographic
 gnats
 gnatsnap
@@ -9562,6 +9561,7 @@ gastornis
 gilgul
 growlingly
 growls
+gnatproof
 guzerat
 grandnieces
 grown
