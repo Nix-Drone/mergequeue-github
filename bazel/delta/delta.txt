@@ -5732,6 +5732,7 @@ depit
 deplace
 deplaceable
 deplane
+declaiming
 deplaned
 deplaning
 deplant
@@ -16873,7 +16874,6 @@ defortify
 drawtube
 decanically
 drawtubes
-declaiming
 drazel
 drch
 dread
