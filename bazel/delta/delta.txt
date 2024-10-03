@@ -6564,7 +6564,6 @@ duststorm
 deselected
 deselecting
 deselects
-datums
 desemer
 dichotomised
 devitrifiable
@@ -11963,6 +11962,7 @@ disenchantments
 daglock
 dissolute
 deities
+datums
 disenchantress
 disencharm
 drip
