@@ -2239,7 +2239,6 @@ gazzetta
 gcd
 gconv
 gd
-gdinfo
 gds
 grayfish
 globously
@@ -5311,6 +5310,7 @@ grayback
 gleaned
 gleaner
 gleaners
+gdinfo
 gleanings
 gleary
 gleba
