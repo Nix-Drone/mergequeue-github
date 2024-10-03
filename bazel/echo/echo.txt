@@ -2332,7 +2332,6 @@ electrobus
 electrocapillary
 electrocapillarity
 electrocardiogram
-electrocardiograms
 escarped
 electrocardiograph
 electrocardiographic
@@ -11740,6 +11739,7 @@ exaggerative
 exaggeratively
 eyelets
 exaggerator
+electrocardiograms
 exaggeratory
 exaggerators
 exagitate
