@@ -6794,7 +6794,6 @@ cellularity
 cellularly
 cellulase
 cellulate
-cellulated
 cellulating
 cellule
 correctly
@@ -22100,6 +22099,7 @@ chowing
 confounders
 confounding
 consulting
+cellulated
 confoundment
 caraho
 caufle
