@@ -195,7 +195,6 @@ fossule
 facto
 factorability
 factorable
-factordom
 factoress
 flateria
 factory
@@ -11221,6 +11220,7 @@ fungi
 fungia
 fungian
 fungibility
+factordom
 fungible
 feloniously
 fungic
