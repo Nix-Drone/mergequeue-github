@@ -7338,7 +7338,6 @@ eopalaeozoic
 eopaleozoic
 eophytic
 eophyton
-exteriorization
 eorhyolite
 eos
 eosate
@@ -13193,6 +13192,7 @@ explicit
 explicitly
 explicitness
 explicits
+exteriorization
 explida
 explodable
 explode
