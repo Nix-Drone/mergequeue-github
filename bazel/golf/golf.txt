@@ -2406,7 +2406,6 @@ gelant
 gelants
 gelastic
 gelate
-gelated
 gelates
 grandchildren
 guises
@@ -10191,6 +10190,7 @@ graver
 ghoul
 guildhall
 guilds
+gelated
 guildship
 guildsmen
 guessworker
