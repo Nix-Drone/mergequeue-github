@@ -1780,6 +1780,7 @@ gastrodisk
 gastroduodenitis
 gastroduodenoscopy
 gastroduodenostomy
+germarium
 gastroduodenotomy
 gastroelytrotomy
 gastroenteralgia
@@ -10240,7 +10241,6 @@ gauzelike
 guinean
 gnathism
 gazoz
-germarium
 gorman
 guinevere
 guinfo
