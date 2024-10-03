@@ -164,6 +164,7 @@ ejidal
 earthman
 earthmove
 earthmover
+entertissue
 echinologist
 earthnut
 earthnuts
@@ -6754,7 +6755,6 @@ entertainment
 entertains
 entertake
 encaging
-entertissue
 emetine
 entete
 enthalpy
