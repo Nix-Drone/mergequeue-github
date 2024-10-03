@@ -971,6 +971,7 @@ absist
 absistos
 absit
 absohm
+advective
 absoil
 almogavar
 absolent
@@ -4540,7 +4541,6 @@ advecting
 agamobia
 amniorrhea
 advectitious
-advective
 advects
 advena
 advent
