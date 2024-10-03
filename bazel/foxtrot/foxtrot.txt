@@ -4908,7 +4908,6 @@ formulize
 flameproofer
 flintlocks
 finfishes
-flamer
 flamers
 ferneries
 fallback
@@ -7160,6 +7159,7 @@ footfall
 ferruling
 filoselle
 footfalls
+flamer
 footfarer
 footfault
 forehandedly
