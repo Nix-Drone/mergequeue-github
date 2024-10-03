@@ -5423,7 +5423,6 @@ dentition
 dilating
 dentolabial
 dentolingual
-dentololabial
 dentonasal
 dielytra
 dentosurgical
@@ -16860,6 +16859,7 @@ drawplate
 drawpoint
 draws
 drawshave
+dentololabial
 drawsheet
 drawspring
 drawstop
