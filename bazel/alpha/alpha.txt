@@ -10496,7 +10496,6 @@ amylamine
 amylan
 amylase
 amylases
-amylate
 amildar
 amylemia
 agaricin
@@ -18037,6 +18036,7 @@ approvals
 approvance
 approved
 approvedly
+amylate
 approvedness
 approver
 antiempirical
