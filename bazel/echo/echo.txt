@@ -4604,7 +4604,6 @@ encephalosepsis
 encephalospinal
 embosked
 externize
-encephalothlipsis
 encephalotome
 encephalotomy
 encephalotomies
@@ -9536,6 +9535,7 @@ epipodium
 eodiscid
 escarps
 escars
+encephalothlipsis
 escarteled
 escartelly
 eschalots
