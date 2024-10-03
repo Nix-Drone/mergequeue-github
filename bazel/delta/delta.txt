@@ -3722,7 +3722,6 @@ dehepatize
 dehgan
 dehydrase
 dehydratase
-dimensioned
 doolies
 dehydrate
 dehydrates
@@ -8527,6 +8526,7 @@ diaphanometric
 diaphanoscope
 dirties
 diaphanotype
+dimensioned
 diaphanous
 diaclasite
 dewfall
