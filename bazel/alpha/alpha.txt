@@ -3248,7 +3248,6 @@ actorship
 actress
 actresses
 acts
-aminic
 actu
 actualisation
 actualise
@@ -13359,6 +13358,7 @@ anisostomous
 anisotonic
 anisotrope
 anisotropy
+aminic
 anisotropically
 anencephalotrophia
 archimorphic
