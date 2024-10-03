@@ -6390,7 +6390,6 @@ benzalphthalide
 benzamide
 benzamido
 benzamine
-benzaminic
 benzamino
 benzanalgen
 benzanilide
@@ -10021,6 +10020,7 @@ bizonal
 bizones
 bizonia
 bizz
+benzaminic
 bizzarro
 bjorne
 bk
