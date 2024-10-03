@@ -3736,7 +3736,6 @@ adenosine
 adenostemonous
 adenostoma
 adenotyphoid
-adenotyphus
 adenotome
 adenotomic
 adenous
@@ -10383,6 +10382,7 @@ amicron
 amicronucleate
 amictus
 amicus
+adenotyphus
 amid
 amidate
 amidating
