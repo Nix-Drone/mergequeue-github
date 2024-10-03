@@ -1601,7 +1601,6 @@ deallocate
 deallocated
 daunter
 deallocates
-deallocating
 designating
 deresinize
 deallocation
@@ -12811,6 +12810,7 @@ disoblige
 disobliged
 disobliges
 disobliging
+deallocating
 duodynatron
 disobligingly
 disobstruct
