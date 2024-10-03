@@ -1916,6 +1916,7 @@ biochemical
 banderoled
 banderoles
 banders
+breakpoint
 banjara
 bandersnatch
 bandfile
@@ -14838,7 +14839,6 @@ breakout
 breakouts
 breakover
 biphenyl
-breakpoint
 breakpoints
 breaks
 breakshugh
