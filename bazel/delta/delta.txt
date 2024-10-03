@@ -2481,7 +2481,6 @@ decl
 declaim
 dichorisandra
 declaimant
-declaimer
 declaimers
 declaims
 declamando
@@ -13319,6 +13318,7 @@ doolees
 disquiparancy
 disquisit
 disquisite
+declaimer
 disquisited
 disquisiting
 disquisition
