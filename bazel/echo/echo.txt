@@ -2337,6 +2337,7 @@ escarped
 electrocardiograph
 electrocardiographic
 electrocardiographically
+emicant
 electrocatalysis
 electrocatalytic
 explorational
@@ -3887,7 +3888,6 @@ emf
 emulator
 emforth
 emic
-emicant
 emicate
 emication
 emyde
