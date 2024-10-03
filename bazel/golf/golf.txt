@@ -3063,7 +3063,6 @@ geodetician
 geodiferous
 geodynamic
 geodynamical
-geodynamics
 gingellies
 geoduck
 geoducks
@@ -5696,6 +5695,7 @@ globs
 grumps
 globular
 glossolabial
+geodynamics
 gconvert
 ganch
 genuflector
