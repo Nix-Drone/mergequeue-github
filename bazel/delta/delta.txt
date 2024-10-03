@@ -3810,7 +3810,6 @@ drummy
 dehwar
 deia
 deicate
-dateable
 deice
 deicers
 deicidal
@@ -4656,6 +4655,7 @@ demineralization
 demineralized
 demineralizer
 demineralizes
+dateable
 demineralizing
 deminudity
 demioctangular
