@@ -957,7 +957,6 @@ gamelang
 gamelans
 gameless
 gentian
-gamely
 gamelike
 gymnast
 goracco
@@ -9022,6 +9021,7 @@ ghetto
 grilse
 grilses
 gucks
+gamely
 grim
 grimaced
 grimacers
