@@ -2744,7 +2744,6 @@ fess
 fesse
 fessed
 fesses
-fessewise
 fest
 festae
 fixatifs
@@ -7566,6 +7565,7 @@ flagellator
 forecastlehead
 forecastles
 frighted
+fessewise
 forecastors
 fatbrained
 forechase
