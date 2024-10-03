@@ -2481,6 +2481,7 @@ decl
 declaim
 dichorisandra
 declaimant
+doorknobs
 declaimer
 declaimers
 declaims
@@ -15605,7 +15606,6 @@ dooring
 doorjambs
 doorkeeper
 doorknob
-doorknobs
 doorless
 doormaid
 doormaker
