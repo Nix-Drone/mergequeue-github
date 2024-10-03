@@ -3452,7 +3452,6 @@ basswoods
 begalling
 basta
 bastaard
-bastant
 bastard
 bastarda
 bastardy
@@ -10148,6 +10147,7 @@ blackjacking
 blackjacks
 blackland
 blacklead
+bastant
 blacklegged
 blackleggery
 broiderer
