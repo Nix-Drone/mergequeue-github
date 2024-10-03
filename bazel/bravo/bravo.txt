@@ -971,7 +971,6 @@ baguettes
 baguio
 baguios
 bagwash
-bagwig
 bagwigged
 bogey
 bagwigs
@@ -3047,6 +3046,7 @@ bartended
 betrayer
 bartender
 bess
+bagwig
 bartenders
 bartending
 barter
