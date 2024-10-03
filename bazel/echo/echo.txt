@@ -2395,7 +2395,6 @@ electrodes
 electrodesiccation
 electrodiagnosis
 entoblast
-electrodiagnostic
 electrodiagnostically
 excreation
 eskar
@@ -8580,6 +8579,7 @@ equatable
 equate
 equates
 equating
+electrodiagnostic
 essentializing
 equation
 equational
