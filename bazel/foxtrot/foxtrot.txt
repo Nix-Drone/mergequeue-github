@@ -4796,6 +4796,7 @@ fellers
 flagons
 fasciolaria
 frontspiece
+frictionable
 flagpole
 faunula
 figurehead
@@ -9982,7 +9983,6 @@ fireboats
 fricative
 fricatrice
 friction
-frictionable
 frictionally
 flowering
 finically
