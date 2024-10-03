@@ -5862,7 +5862,6 @@ depositor
 depositories
 depositors
 deposits
-depositum
 daimon
 doumaist
 decasualise
@@ -11097,6 +11096,7 @@ disassent
 disassiduity
 disassimilate
 dodecastyle
+depositum
 disassimilated
 dissentive
 disassimilation
