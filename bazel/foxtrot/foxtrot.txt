@@ -5919,6 +5919,7 @@ floodlike
 floodlilit
 floodlit
 floodplain
+floatable
 floods
 forst
 fortifiable
@@ -9834,7 +9835,6 @@ frenching
 frenchly
 fidation
 frenchman
-floatable
 frenchmen
 flycaster
 fevery
