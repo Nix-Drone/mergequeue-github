@@ -7824,6 +7824,7 @@ grammarless
 grammars
 gieseckite
 grammaticality
+gulping
 gateau
 glossate
 grammatically
@@ -10381,7 +10382,6 @@ growing
 geepound
 gulph
 gulpy
-gulping
 gulpingly
 gulps
 gangrene
