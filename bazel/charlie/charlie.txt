@@ -13141,7 +13141,6 @@ chinotti
 ciboria
 ciboule
 ciboules
-cyc
 cicad
 cycad
 cicada
@@ -28452,6 +28451,7 @@ creaturely
 creatureliness
 creatureling
 creatures
+cyc
 carapo
 creatureship
 creaturize
