@@ -760,7 +760,6 @@ abovedeck
 ambuscading
 abovementioned
 aboveproof
-aboves
 abovesaid
 abovestairs
 abow
@@ -13744,6 +13743,7 @@ anomalipod
 anomalism
 anomalist
 anomalistic
+aboves
 anomalistical
 aspace
 anomalocephalus
