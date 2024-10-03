@@ -5326,6 +5326,7 @@ aggerate
 affinity
 affinities
 antifanatic
+attachers
 affinition
 affinitive
 affirm
@@ -9926,7 +9927,6 @@ amberite
 actuaries
 amberjack
 amberjacks
-attachers
 amberlike
 antisepticise
 amberoids
