@@ -3274,7 +3274,6 @@ defenses
 defensibility
 defensibleness
 defensibly
-defensive
 defensively
 defensiveness
 defensor
@@ -9077,6 +9076,7 @@ didactyl
 duodecagon
 didactylism
 didactylous
+defensive
 didal
 didappers
 didascalos
