@@ -3603,7 +3603,6 @@ gesture
 gestureless
 gesturers
 gesturist
-geswarp
 geta
 gallivorous
 getable
@@ -4949,6 +4948,7 @@ gunless
 glabellar
 gelatinousness
 glabellum
+geswarp
 glabrate
 glabreity
 glabrescent
