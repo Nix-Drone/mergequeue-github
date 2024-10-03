@@ -5558,7 +5558,6 @@ backstamp
 beadhouses
 bestowed
 bejig
-bejuco
 bajri
 bejuggle
 bejumbles
@@ -9069,6 +9068,7 @@ biome
 bradycinesia
 biomechanical
 brangler
+bejuco
 begrims
 biomedicine
 biomes
