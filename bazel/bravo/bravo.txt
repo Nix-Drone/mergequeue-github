@@ -553,7 +553,6 @@ backtracking
 backtracks
 backtrail
 backups
-backus
 backveld
 backvelder
 backway
@@ -1892,6 +1891,7 @@ bandana
 bandanaed
 bandannaed
 bandannas
+backus
 bandarlog
 bandbox
 bandboxes
