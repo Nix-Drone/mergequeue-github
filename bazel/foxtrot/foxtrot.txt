@@ -712,7 +712,6 @@ fifteener
 famines
 faena
 famished
-famishing
 famishment
 famose
 famous
@@ -1068,6 +1067,7 @@ farles
 feast
 farls
 fetal
+famishing
 farm
 fantad
 freshening
