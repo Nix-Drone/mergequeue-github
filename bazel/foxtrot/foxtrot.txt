@@ -2953,7 +2953,6 @@ feuillage
 foreshows
 feuillemorte
 feuillet
-feuilleton
 feuilletonist
 feuilletonistic
 feuilletons
@@ -8112,6 +8111,7 @@ flyboy
 fraus
 foretell
 foretellable
+feuilleton
 fathogram
 foreteller
 foretellers
