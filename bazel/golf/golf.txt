@@ -3918,6 +3918,7 @@ goyle
 glave
 gibsons
 gibstaff
+genian
 gibus
 gibuses
 giddap
@@ -10245,7 +10246,6 @@ gorman
 guinevere
 guinfo
 gemmy
-genian
 guinness
 ganggang
 gristmilling
