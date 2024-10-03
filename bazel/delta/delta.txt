@@ -5636,7 +5636,6 @@ dependant
 dependantly
 depended
 dependence
-dependency
 dependencies
 depending
 dependingly
@@ -12184,6 +12183,7 @@ disglut
 dysgonic
 demonic
 dundavoe
+dependency
 disgood
 disgorge
 discernible
