@@ -3311,6 +3311,7 @@ basinets
 bai
 berakes
 brooklynite
+bioclimatic
 basinful
 basing
 buzzwigs
@@ -8950,7 +8951,6 @@ botan
 biocidal
 biocide
 biocides
-bioclimatic
 bioclimatician
 bioclimatology
 bioclimatological
