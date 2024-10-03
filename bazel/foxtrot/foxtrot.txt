@@ -6277,7 +6277,6 @@ feigning
 fluidacetextract
 fluidally
 fluidextract
-fluidglycerate
 fluidible
 forcepslike
 fluidic
@@ -7283,6 +7282,7 @@ fumiferous
 fabricable
 fuliginous
 firefly
+fluidglycerate
 footweary
 footwears
 fleered
