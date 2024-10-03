@@ -9775,7 +9775,6 @@ chelicer
 chelicera
 chelicerae
 cheliceral
-chelicerate
 cysts
 chelide
 chelydidae
@@ -17264,6 +17263,7 @@ coassessor
 caravelle
 coassignee
 coassist
+chelicerate
 coassistant
 culpas
 coassisting
