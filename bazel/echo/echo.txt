@@ -2343,7 +2343,6 @@ explorational
 electrocautery
 evasion
 electroceramic
-electrochemical
 electrochemically
 electrochemistry
 electrochronometer
@@ -13410,6 +13409,7 @@ expunged
 expunger
 expungers
 expunging
+electrochemical
 expurgate
 expurgated
 expurgating
