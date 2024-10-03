@@ -4137,7 +4137,6 @@ beamroom
 beams
 beamsman
 beamwork
-bantlings
 bean
 badawi
 beanbag
@@ -8567,6 +8566,7 @@ bilifaction
 biliferous
 backfall
 benzazole
+bantlings
 bacchian
 bilify
 buncombes
