@@ -6843,6 +6843,7 @@ ahint
 aircrew
 aircrewman
 attended
+astre
 aircrewmen
 aircrews
 aerophone
@@ -22182,7 +22183,6 @@ astrand
 astrantia
 astraphobia
 astrapophobia
-astre
 anis
 astream
 astrean
