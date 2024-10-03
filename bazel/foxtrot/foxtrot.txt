@@ -6156,7 +6156,6 @@ flowcharts
 finality
 foldstool
 flowcontrol
-flanche
 flowed
 flower
 flowerage
@@ -8786,6 +8785,7 @@ forchase
 forbiddable
 fortunetelling
 fortuning
+flanche
 fortunite
 fortunize
 followership
