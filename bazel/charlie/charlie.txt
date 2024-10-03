@@ -6765,7 +6765,6 @@ cellblocks
 celled
 centennium
 cellepora
-cellepore
 cellfalcicula
 celli
 celliferous
@@ -7470,6 +7469,7 @@ ceratodus
 ceratoduses
 ceratoglossal
 ceratoglossus
+cellepore
 ceratohyal
 ceratohyoid
 ceratoid
