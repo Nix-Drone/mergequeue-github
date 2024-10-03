@@ -7920,7 +7920,6 @@ biblike
 biblioclasm
 biblioclast
 bibliofilm
-bibliog
 bibliogenesis
 bibliognost
 benzophenanthroline
@@ -10176,6 +10175,7 @@ blackplate
 blackpoll
 beauclerk
 blackpot
+bibliog
 bromism
 blackprint
 blackrag
