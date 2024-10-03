@@ -1914,7 +1914,6 @@ acequias
 acer
 aceraceous
 acerae
-acerate
 acerated
 acerates
 acerathere
@@ -8062,6 +8061,7 @@ algesimeter
 algesiometer
 algesis
 algy
+acerate
 algicidal
 algicide
 anionics
