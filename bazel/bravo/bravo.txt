@@ -1906,6 +1906,7 @@ bandeaux
 betula
 banded
 bandelet
+bipyramid
 bandelette
 bandeng
 banderlog
@@ -9308,7 +9309,6 @@ bipinnatipartite
 bipinnatisect
 bipinnatisected
 bowtie
-bipyramid
 bipyridyl
 bubale
 byplace
