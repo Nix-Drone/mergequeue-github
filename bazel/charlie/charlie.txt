@@ -2100,7 +2100,6 @@ creedbound
 campodeid
 campodeidae
 campodeiform
-campodeoid
 campody
 campong
 campongs
@@ -14675,6 +14674,7 @@ cystin
 colove
 cystine
 cystines
+campodeoid
 criminology
 cystis
 cystitides
