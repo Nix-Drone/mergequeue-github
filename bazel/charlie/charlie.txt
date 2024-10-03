@@ -20484,6 +20484,7 @@ compartmentize
 compartments
 compartner
 compass
+cubby
 compassability
 compassable
 compassed
@@ -30450,7 +30451,6 @@ cubas
 cubatory
 cubature
 counterweighed
-cubby
 cubbies
 cubbyhole
 cubbyholes
