@@ -296,7 +296,6 @@ eat
 eagerer
 eatability
 eatable
-eatables
 electrolyzability
 eatberry
 eaten
@@ -4056,6 +4055,7 @@ empathic
 edgrew
 empathies
 eluate
+eatables
 empathized
 empathizes
 empatron
