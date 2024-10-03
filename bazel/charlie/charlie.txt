@@ -3370,7 +3370,6 @@ capsizes
 capsomer
 capsomere
 capsomers
-capstan
 capstans
 capstone
 capsula
@@ -28690,6 +28689,7 @@ crepey
 crepeier
 crepeiest
 croquettes
+capstan
 crepes
 coincides
 crepy
