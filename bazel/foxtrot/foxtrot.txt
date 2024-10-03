@@ -1690,7 +1690,6 @@ fc
 fchar
 fipenny
 fcomp
-farcin
 fcp
 foehns
 familiar
@@ -2483,6 +2482,7 @@ fermentation
 fermentativeness
 fisticuffing
 floatplane
+farcin
 fermenter
 fermentescible
 forbiddingness
