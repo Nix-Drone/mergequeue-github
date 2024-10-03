@@ -2406,7 +2406,6 @@ acidnesses
 acidogenic
 acidoid
 acidolysis
-acidology
 acidometer
 archont
 acidometry
@@ -13712,6 +13711,7 @@ abys
 anodos
 anoegenetic
 anoesis
+acidology
 anoestrous
 anoestrum
 anoetic
