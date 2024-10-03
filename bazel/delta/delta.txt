@@ -3454,7 +3454,6 @@ deflourish
 dropforged
 dubash
 deflower
-deflowered
 deflowerer
 deflowering
 defeating
@@ -10355,6 +10354,7 @@ diotocardia
 diotrephes
 dioxan
 dioxane
+deflowered
 dioxanes
 dioxy
 dioxid
