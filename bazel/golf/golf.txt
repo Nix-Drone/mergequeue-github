@@ -3077,7 +3077,6 @@ gekko
 geomance
 geoform
 gillnet
-geogen
 geogenesis
 gyropilot
 geogenetic
@@ -8766,6 +8765,7 @@ glycaemic
 gregarinae
 gingeli
 grovels
+geogen
 get
 gregarinida
 gregarinidal
