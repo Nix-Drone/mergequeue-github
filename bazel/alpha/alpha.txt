@@ -9047,6 +9047,7 @@ alluvium
 antecell
 alluviums
 alluvivia
+assembler
 allwhere
 accipitres
 allwhither
@@ -21644,7 +21645,6 @@ assemble
 assembled
 assemblement
 anniv
-assembler
 assembles
 assembly
 assemblies
