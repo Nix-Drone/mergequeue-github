@@ -7294,7 +7294,6 @@ daidled
 deti
 detick
 deticked
-deticker
 detickers
 deticks
 detin
@@ -9232,6 +9231,7 @@ diestrual
 diestrum
 diestrums
 diestruses
+deticker
 daikering
 danuri
 dyestuff
