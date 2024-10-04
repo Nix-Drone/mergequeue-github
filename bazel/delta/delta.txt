@@ -442,6 +442,7 @@ dairyman
 dairymen
 dairywoman
 dairywomen
+druids
 dayroom
 dayrooms
 dairous
@@ -17570,7 +17571,6 @@ druidisms
 desalinized
 druidology
 druidry
-druids
 druith
 drawlingness
 drukpa
