@@ -139,6 +139,7 @@ facks
 faconde
 faconne
 facsim
+forensics
 frena
 facsimile
 facsimiled
@@ -7846,7 +7847,6 @@ forenotion
 flattens
 forensic
 forensically
-forensics
 flyleaf
 foreordain
 foreordainment
