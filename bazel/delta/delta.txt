@@ -2222,7 +2222,6 @@ dustbox
 decelerated
 decelerates
 decelerations
-decelerator
 decelerators
 deceleron
 decemberly
@@ -18334,6 +18333,7 @@ duodenojejunostomies
 duodenopancreatectomy
 duodenoscopy
 duodenostomy
+decelerator
 disrelated
 duodenum
 demioctagonal
