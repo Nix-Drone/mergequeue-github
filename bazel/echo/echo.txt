@@ -1109,7 +1109,6 @@ edgrow
 enormous
 edh
 edhs
-edibile
 earthlike
 equipper
 edibility
@@ -4447,6 +4446,7 @@ enascent
 enatant
 ekphorias
 enates
+edibile
 enatic
 enations
 eucalyptography
