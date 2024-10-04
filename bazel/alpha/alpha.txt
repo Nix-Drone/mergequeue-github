@@ -4648,7 +4648,6 @@ atli
 advisements
 adviser
 advisers
-advisership
 advises
 advisy
 advising
@@ -6910,6 +6909,7 @@ airliners
 airlines
 airling
 airlock
+advisership
 airlocks
 airmailing
 abietite
