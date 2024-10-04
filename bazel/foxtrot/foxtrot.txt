@@ -2214,7 +2214,6 @@ fractionizing
 flancard
 fels
 felsites
-felsobanyite
 foretypified
 felspars
 friendlily
@@ -11251,6 +11250,7 @@ fungological
 failles
 fungologist
 fungose
+felsobanyite
 frescoists
 fungosities
 fungused
