@@ -1603,7 +1603,6 @@ calorimetry
 calorimetric
 calorimetrical
 calorimetrically
-calorimotor
 calorisator
 calorist
 calorite
@@ -4355,6 +4354,7 @@ carked
 carking
 carkingly
 carkled
+calorimotor
 carl
 carlage
 cabalas
