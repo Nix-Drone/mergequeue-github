@@ -3825,7 +3825,6 @@ adiabatic
 avalanched
 adiabolist
 adiactinic
-adiadochokinesia
 adiadochokinesis
 adiadokokinesi
 adiadokokinesia
@@ -15287,6 +15286,7 @@ antifreeze
 antifreezes
 antifreezing
 antifriction
+adiadochokinesia
 antifrictional
 antifrost
 adjudgment
