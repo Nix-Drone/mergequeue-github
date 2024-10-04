@@ -19155,7 +19155,6 @@ archpretender
 archpriest
 archpriesthood
 archpriestship
-archprimate
 anatomy
 archprince
 ars
@@ -22497,6 +22496,7 @@ alexipharmacon
 atfalati
 appellatively
 avitaminotic
+archprimate
 athabasca
 athabascan
 athalline
