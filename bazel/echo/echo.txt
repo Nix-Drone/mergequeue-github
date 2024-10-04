@@ -4604,7 +4604,6 @@ encephalosepsis
 encephalospinal
 embosked
 externize
-encephalothlipsis
 encephalotome
 encephalotomy
 encephalotomies
@@ -6619,6 +6618,7 @@ emove
 endothecate
 enterobacterial
 epoxide
+encephalothlipsis
 enterobiasis
 enterobiliary
 elates
