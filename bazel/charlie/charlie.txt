@@ -9940,7 +9940,6 @@ cancers
 chemosterilants
 chemosurgery
 chemosurgical
-chemotactic
 chemotactically
 chemotaxy
 chemotaxis
@@ -28499,6 +28498,7 @@ creditably
 caracaras
 cephalexin
 credited
+chemotactic
 crediting
 comd
 creditive
