@@ -1274,7 +1274,6 @@ balaenidae
 balaenoid
 balaenoidea
 balaenoidean
-balaenoptera
 balaenopteridae
 balafo
 bcf
@@ -8323,6 +8322,7 @@ bifurcated
 bifurcately
 bifurcates
 bifurcating
+balaenoptera
 blepharoconjunctivitis
 bifurcation
 bifurcations
