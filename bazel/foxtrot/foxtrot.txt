@@ -4800,7 +4800,6 @@ flagpole
 faunula
 figurehead
 flagpoles
-flagrance
 flagrancy
 filiform
 flagrate
@@ -5615,6 +5614,7 @@ flimflammed
 flimflammery
 flimflamming
 flimflams
+flagrance
 frontlets
 freethink
 flimsy
