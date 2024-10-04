@@ -1606,6 +1606,7 @@ calorimetrically
 calorimotor
 calorisator
 calorist
+circulant
 calorite
 calorize
 calorized
@@ -14208,7 +14209,6 @@ circuits
 circuituously
 clochan
 cardioneural
-circulant
 circular
 circularisation
 circularised
