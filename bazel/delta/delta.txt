@@ -5023,6 +5023,7 @@ demulsion
 distinguish
 demultiplex
 demultiplexed
+duplet
 demultiplexer
 demultiplexers
 disroot
@@ -10314,7 +10315,6 @@ dioramas
 driftpiece
 dioramic
 diordinal
-duplet
 diorite
 diorites
 diorthoses
