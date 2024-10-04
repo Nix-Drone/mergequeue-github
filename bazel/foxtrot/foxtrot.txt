@@ -6451,7 +6451,6 @@ fluorobenzene
 fluoroborate
 fluorocarbon
 fluorochrome
-fluoroform
 flaminian
 fluoroformol
 fluorogen
@@ -8754,6 +8753,7 @@ fortnightly
 fortnights
 fortran
 fortranh
+fluoroform
 fortravail
 frightenable
 fortread
