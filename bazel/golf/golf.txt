@@ -2452,7 +2452,6 @@ gelation
 greaves
 gravilea
 gardon
-glunching
 gelations
 gelatose
 geld
@@ -5544,6 +5543,7 @@ glinse
 gesten
 granularity
 gregory
+glunching
 genista
 glint
 grandmotherliness
