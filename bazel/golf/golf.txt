@@ -2877,6 +2877,7 @@ genoms
 genonema
 gph
 genos
+giftbook
 gerrymandered
 genospecies
 genotype
@@ -3953,7 +3954,6 @@ grievant
 giffgaff
 gifola
 gift
-giftbook
 giftedly
 gymnanthes
 giftlike
