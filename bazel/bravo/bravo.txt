@@ -10669,7 +10669,6 @@ bestill
 broomstaff
 blende
 blendes
-buffaloed
 blendwater
 blenheim
 blenk
@@ -13923,6 +13922,7 @@ baldling
 braccate
 bracciale
 braccianite
+buffaloed
 braccio
 bracelet
 braceleted
