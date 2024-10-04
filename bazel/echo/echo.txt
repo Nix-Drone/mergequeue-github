@@ -5111,7 +5111,6 @@ epistlar
 embolies
 exinanition
 endoclinal
-endocline
 endocoelar
 erosionally
 endocoele
@@ -9464,6 +9463,7 @@ escalader
 escalades
 escalading
 escalan
+endocline
 escalate
 enlute
 escalates
