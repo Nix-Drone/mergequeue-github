@@ -9058,6 +9058,7 @@ almacantar
 almacenista
 almacigo
 abrupt
+assignors
 almadie
 almagests
 almagra
@@ -21775,7 +21776,6 @@ assigners
 acidulent
 assignment
 assignments
-assignors
 assigns
 assilag
 assimilability
