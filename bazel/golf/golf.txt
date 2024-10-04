@@ -1305,6 +1305,7 @@ gluemaker
 garage
 garaged
 gyved
+golems
 gowk
 glandless
 garageman
@@ -6673,7 +6674,6 @@ goldurns
 goldwork
 goldworker
 golem
-golems
 goles
 golet
 gossypium
