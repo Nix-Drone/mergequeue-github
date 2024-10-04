@@ -861,7 +861,6 @@ fano
 fanon
 fellon
 fanos
-fanout
 fantailed
 fantails
 fantaisie
@@ -8472,6 +8471,7 @@ formidable
 formidableness
 floormen
 formidably
+fanout
 florissant
 formidolous
 formylal
