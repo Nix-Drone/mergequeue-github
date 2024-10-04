@@ -1466,6 +1466,7 @@ baler
 bales
 boun
 balestra
+breads
 balete
 bali
 balian
@@ -14787,7 +14788,6 @@ breadnut
 breadnuts
 breadroot
 bullety
-breads
 breadstitch
 breadstuff
 burnet
