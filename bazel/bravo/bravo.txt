@@ -638,7 +638,6 @@ bacterioblast
 bacteriochlorophyll
 bacteriocin
 bishopbird
-bacteriodiagnosis
 bacteriofluorescin
 bromates
 bacteriogenic
@@ -10725,6 +10724,7 @@ blepharadenitis
 blepharanthracosis
 blepharelcosis
 blepharemphysema
+bacteriodiagnosis
 blepharydatis
 blephariglottis
 blepharism
