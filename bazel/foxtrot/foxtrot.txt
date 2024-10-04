@@ -4404,6 +4404,7 @@ fishline
 fishlines
 frondage
 fishling
+fuzzy
 fishman
 fishmeals
 fishmonger
@@ -8276,7 +8277,6 @@ forgoes
 forgot
 forgotten
 foussa
-fuzzy
 faraon
 forgrow
 forhaile
