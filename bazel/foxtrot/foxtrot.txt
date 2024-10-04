@@ -1105,6 +1105,7 @@ farmsteads
 farmtown
 farnesol
 farnesols
+funerealness
 fogas
 flinger
 farnesses
@@ -11203,7 +11204,6 @@ funereality
 flintwork
 funereally
 freeloaders
-funerealness
 funestal
 funfair
 funfairs
