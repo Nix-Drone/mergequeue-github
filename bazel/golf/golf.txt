@@ -3914,7 +3914,6 @@ graphospasm
 giblet
 giblets
 giboia
-goyle
 glave
 gibsons
 gibstaff
@@ -6492,6 +6491,7 @@ gobs
 gluttonise
 gobstick
 gobstopper
+goyle
 ghawazi
 gocart
 goclenian
