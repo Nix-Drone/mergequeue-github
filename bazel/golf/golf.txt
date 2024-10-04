@@ -2263,7 +2263,6 @@ guernseys
 gearset
 gearshift
 gearshifts
-gearwheels
 glistening
 gease
 geat
@@ -7064,6 +7063,7 @@ googolplex
 goopy
 geoparallelotropic
 goops
+gearwheels
 gude
 goorals
 grillade
