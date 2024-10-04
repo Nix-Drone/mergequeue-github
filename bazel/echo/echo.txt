@@ -5144,7 +5144,6 @@ endocrinopathic
 endocritic
 eruca
 endoderm
-endodermal
 endodermic
 endodermis
 endoderms
@@ -8827,6 +8826,7 @@ equulei
 equuleus
 eucalypt
 equus
+endodermal
 erade
 eradiate
 exhedra
