@@ -7415,7 +7415,6 @@ brisa
 beleft
 bethorn
 bethorned
-burthenman
 bethorning
 bethorns
 bethought
@@ -17655,6 +17654,7 @@ burglarize
 bearlet
 burglarized
 burglarizes
+burthenman
 burglarizing
 burglarproof
 burglarproofed
