@@ -5516,7 +5516,6 @@ chiton
 catalogistic
 catalogize
 catalogs
-catalogued
 cataloguer
 catalogues
 cataloguing
@@ -8326,6 +8325,7 @@ chalcomancy
 chalcomenite
 chalcone
 chalcophanite
+catalogued
 chalcophyllite
 chalcosiderite
 chalcosine
