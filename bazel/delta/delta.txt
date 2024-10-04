@@ -1478,7 +1478,6 @@ deaconries
 deacons
 deaconship
 deactivate
-deactivated
 deactivates
 discontinuing
 dicranoid
@@ -8096,6 +8095,7 @@ diaceturia
 diachaenium
 dromiacea
 diarch
+deactivated
 debile
 diachyma
 diachoretic
