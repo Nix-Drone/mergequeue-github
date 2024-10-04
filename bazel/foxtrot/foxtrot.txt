@@ -9798,7 +9798,6 @@ freight
 freightage
 fringe
 fourchette
-freightyard
 flagstaves
 fenestral
 freightliner
@@ -11040,6 +11039,7 @@ fumerel
 fumeroot
 fritts
 faldage
+freightyard
 fumes
 fumet
 frightfulness
