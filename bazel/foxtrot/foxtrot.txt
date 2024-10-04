@@ -5934,7 +5934,6 @@ floorboard
 floorcloth
 fala
 forevermore
-frigidity
 featherbedding
 floorcloths
 floored
@@ -8755,6 +8754,7 @@ fortnights
 fortran
 fortranh
 fortravail
+frigidity
 frightenable
 fortread
 foreordains
