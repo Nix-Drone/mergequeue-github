@@ -3756,7 +3756,6 @@ dehydrogenisation
 dehydrogenised
 dehydrogenization
 dehydrogenized
-dehydrogenizer
 dehydroretinol
 dehydrosparteine
 dehydrotestosterone
@@ -16687,6 +16686,7 @@ drains
 drainspout
 draintile
 debouchure
+dehydrogenizer
 drays
 draisene
 drapetomania
