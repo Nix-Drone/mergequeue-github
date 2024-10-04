@@ -458,6 +458,7 @@ daisy
 daisybush
 defensative
 dayside
+decode
 daysides
 daisied
 daisies
@@ -2576,7 +2577,6 @@ decoctive
 decocts
 decoctum
 decodable
-decode
 decoded
 decoders
 decodes
