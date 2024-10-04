@@ -538,7 +538,6 @@ backswimmer
 backsword
 backswording
 bettergates
-backswordman
 bestness
 backswordmen
 backtack
@@ -7682,6 +7681,7 @@ beworn
 beworry
 boliche
 butanones
+backswordman
 briquetting
 beworried
 bardel
