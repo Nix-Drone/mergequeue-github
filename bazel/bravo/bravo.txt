@@ -2594,7 +2594,6 @@ bicycular
 bargham
 barghest
 baptism
-barghests
 beslash
 barging
 beerage
@@ -5454,6 +5453,7 @@ bandlimit
 behelp
 behemothic
 behemoths
+barghests
 behen
 behenate
 behenic
