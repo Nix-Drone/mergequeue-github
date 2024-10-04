@@ -4230,7 +4230,6 @@ firesafeness
 firesafety
 farasula
 fireshine
-fireside
 firesider
 firesideship
 firespout
@@ -11675,6 +11674,7 @@ fusure
 frustraneous
 fusus
 flushable
+fireside
 fut
 futchel
 fute
