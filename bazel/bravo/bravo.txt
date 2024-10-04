@@ -12746,7 +12746,6 @@ baritonal
 boomboat
 boomboxes
 boomdas
-boomed
 boomer
 boomeranged
 boomeranging
@@ -14053,6 +14052,7 @@ brachysclereid
 brachyskelic
 brachysm
 brachystaphylic
+boomed
 brachystegia
 banditism
 brachistocephali
