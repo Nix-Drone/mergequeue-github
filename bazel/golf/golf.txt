@@ -2845,7 +2845,6 @@ genitive
 genitocrural
 geniculum
 glug
-grasps
 grouses
 genitor
 gemmoid
@@ -9467,6 +9466,7 @@ groundspeed
 groundswell
 groundswells
 germaneness
+grasps
 groundwall
 gandum
 groundward
