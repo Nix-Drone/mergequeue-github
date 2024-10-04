@@ -1902,7 +1902,6 @@ bandcase
 bandcutter
 bande
 bandeau
-bandeaux
 betula
 banded
 bandelet
@@ -9878,6 +9877,7 @@ bitterishness
 bitterling
 bitterness
 bitterns
+bandeaux
 bitternut
 bioseston
 brooklime
