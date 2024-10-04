@@ -5307,6 +5307,7 @@ ephetic
 endoskeletons
 endosmic
 endosmometric
+earthquaking
 eyr
 evaders
 erasions
@@ -7342,7 +7343,6 @@ exteriorization
 eorhyolite
 eos
 eosate
-earthquaking
 eoside
 eosin
 eosine
