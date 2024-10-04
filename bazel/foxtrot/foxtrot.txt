@@ -2944,7 +2944,6 @@ feudists
 feudovassalism
 format
 feuds
-flagonless
 furazane
 formularism
 frustums
@@ -5524,6 +5523,7 @@ flexuosity
 frangula
 flexuously
 flexuousness
+flagonless
 flexured
 flexures
 flyable
