@@ -3112,7 +3112,6 @@ capitaldom
 capitaled
 capitaling
 capitalisable
-capitalise
 capitalised
 capitaliser
 capitalising
@@ -21480,6 +21479,7 @@ concremation
 concrement
 concresce
 concrescence
+capitalise
 concrescences
 concrescent
 concrescible
