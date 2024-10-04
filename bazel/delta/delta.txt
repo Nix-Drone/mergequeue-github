@@ -5990,7 +5990,6 @@ disprofit
 deprivals
 deprivate
 deprivation
-deprive
 deprived
 deprivement
 depriver
@@ -15455,6 +15454,7 @@ donatistic
 donatistical
 donative
 donatives
+deprive
 donator
 donators
 donatress
