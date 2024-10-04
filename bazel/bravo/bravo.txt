@@ -6590,7 +6590,6 @@ bequeathal
 bequeathed
 bequeather
 bequeathing
-brawled
 bequeaths
 bequest
 bequests
@@ -14221,6 +14220,7 @@ bragger
 braggery
 brasseries
 braggers
+brawled
 bragget
 braggy
 braggier
