@@ -6647,7 +6647,6 @@ excluding
 enteroclisis
 enteroclysis
 enterococcal
-enterococcus
 enterocoel
 enterocoela
 enterocoelous
@@ -10501,6 +10500,7 @@ ethonomic
 ethonomics
 ethonone
 epiphanize
+enterococcus
 electropositive
 epicenters
 ethopoeia
