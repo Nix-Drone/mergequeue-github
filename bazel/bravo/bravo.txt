@@ -1675,7 +1675,6 @@ buffets
 ballottine
 ballottines
 ballow
-blear
 ballplayer
 ballplayers
 ballplatz
@@ -8444,6 +8443,7 @@ bigwiggery
 bigwiggism
 bummerish
 bigwigs
+blear
 bihai
 bihalve
 boatly
