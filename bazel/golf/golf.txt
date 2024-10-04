@@ -2261,7 +2261,6 @@ gearman
 gears
 guernseys
 gearset
-gearshift
 gearshifts
 gearwheels
 glistening
@@ -3087,6 +3086,7 @@ goldney
 geoglossaceae
 graphitized
 ginn
+gearshift
 geognosy
 geognosies
 geognost
