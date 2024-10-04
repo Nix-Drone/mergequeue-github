@@ -2655,7 +2655,6 @@ cannoneers
 clownish
 cannoning
 cannonism
-cannonproof
 cannonry
 cannonries
 cannons
@@ -17181,6 +17180,7 @@ coalifying
 coaling
 coalite
 coalition
+cannonproof
 coalitioner
 coalitionist
 coalitions
