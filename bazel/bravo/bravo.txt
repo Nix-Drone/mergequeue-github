@@ -4862,7 +4862,6 @@ bedstraws
 bedstring
 bedswerver
 bedtick
-bedticks
 bices
 bate
 bedtime
@@ -9734,6 +9733,7 @@ bissextus
 byssi
 byssiferous
 borolanite
+bedticks
 balding
 botticellian
 byssin
