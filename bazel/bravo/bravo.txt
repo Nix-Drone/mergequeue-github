@@ -1649,7 +1649,6 @@ ballonnes
 balloon
 ballooners
 bowfront
-balloonet
 balloonfish
 buddah
 bonnetman
@@ -3378,6 +3377,7 @@ basketworm
 basking
 baskish
 basnat
+balloonet
 baltic
 basoche
 basocyte
