@@ -12693,7 +12693,6 @@ baronry
 barrulety
 bookrest
 bookrests
-bookroom
 bookseller
 berendo
 becloaked
@@ -12732,6 +12731,7 @@ bookwright
 bool
 bowline
 boolean
+bookroom
 booleans
 booley
 booleys
