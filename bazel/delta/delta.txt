@@ -6696,7 +6696,6 @@ desilt
 declared
 desilvered
 desilvering
-desilverization
 desilverizer
 desilverizing
 desilvers
@@ -11369,6 +11368,7 @@ discipline
 discipliner
 discipliners
 discipling
+desilverization
 disciplining
 discipular
 discission
