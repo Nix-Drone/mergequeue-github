@@ -683,7 +683,6 @@ balanophorin
 bacteriotoxic
 bechances
 bacteriotoxin
-bal
 bacteriotrypsin
 bynames
 bacteriotropic
@@ -1409,6 +1408,7 @@ blithebread
 baldest
 broadhearted
 baldhead
+bal
 baldheaded
 baldheads
 bussu
