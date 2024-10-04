@@ -2664,7 +2664,6 @@ acousticon
 acousticophobia
 acoustoelectric
 acpt
-acquaint
 acquaintances
 acquaintanceship
 acquaintanceships
@@ -14975,6 +14974,7 @@ anticlinal
 anticlines
 anticlinoria
 anticlinorium
+acquaint
 anticlockwise
 anticlogging
 anticoagulan
