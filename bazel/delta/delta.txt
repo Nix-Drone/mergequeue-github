@@ -219,7 +219,6 @@ daemonology
 dekes
 daemons
 daemonurgy
-daemonurgist
 disciplinarianism
 daffadilly
 dorsad
@@ -5644,6 +5643,7 @@ depends
 defacingly
 dukeship
 depeopled
+daemonurgist
 depeopling
 deperdit
 demonetised
