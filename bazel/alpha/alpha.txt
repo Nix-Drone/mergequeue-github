@@ -12578,7 +12578,6 @@ anesthetization
 anesthetize
 anesthetizes
 anesthetizing
-anesthyl
 anestri
 anestrous
 anestrus
@@ -24470,6 +24469,7 @@ alkalinization
 als
 autoturning
 autourine
+anesthyl
 autovaccination
 autovaccine
 autovalet
