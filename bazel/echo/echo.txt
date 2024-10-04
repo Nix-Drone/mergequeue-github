@@ -2698,7 +2698,6 @@ electrotrephine
 electrotropic
 egoize
 electrovalence
-electrovalent
 ectocarpaceous
 electrovalently
 electrovection
@@ -4636,6 +4635,7 @@ enchantment
 enchantments
 enchantress
 enchants
+electrovalent
 euclidean
 encharge
 encharged
