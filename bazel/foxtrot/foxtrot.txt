@@ -2348,7 +2348,6 @@ fizzes
 fenestellid
 fenestellidae
 fenestrae
-fenestrate
 fifth
 fenestrated
 fenestration
@@ -3512,6 +3511,7 @@ figuratively
 figurato
 folioliferous
 figure
+fenestrate
 figured
 figuredly
 figureheadless
