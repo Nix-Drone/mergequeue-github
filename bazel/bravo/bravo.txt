@@ -4912,6 +4912,7 @@ beebees
 beebread
 beebreads
 beech
+bitstocks
 beechen
 beecher
 beechy
@@ -9847,7 +9848,6 @@ bits
 bitser
 bitsy
 bitstock
-bitstocks
 bitstone
 bitt
 bitted
