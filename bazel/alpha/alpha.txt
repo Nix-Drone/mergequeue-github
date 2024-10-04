@@ -5980,6 +5980,7 @@ ages
 aget
 agete
 aggadic
+avertible
 aggelation
 asthenic
 aggenerate
@@ -24689,7 +24690,6 @@ avertable
 averted
 avertedly
 averter
-avertible
 ambulia
 avertiment
 avertive
