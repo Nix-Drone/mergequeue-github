@@ -1691,6 +1691,7 @@ fchar
 fipenny
 fcomp
 farcin
+ferae
 fcp
 foehns
 familiar
@@ -2400,7 +2401,6 @@ farriers
 featherstitching
 feracious
 feracities
-ferae
 fairyship
 feralin
 ferash
