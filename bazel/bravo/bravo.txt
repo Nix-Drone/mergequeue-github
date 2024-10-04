@@ -5236,7 +5236,6 @@ begartered
 begass
 begats
 bestrows
-begattal
 bastes
 begaud
 begaudy
@@ -16980,6 +16979,7 @@ bustee
 buettneria
 bulbil
 bulbilis
+begattal
 bulbilla
 bulbils
 bulblike
