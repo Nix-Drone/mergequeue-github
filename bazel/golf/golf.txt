@@ -683,7 +683,6 @@ geodesy
 galliot
 galliots
 gurnets
-gallipot
 gallipots
 gallirallus
 gallisin
@@ -703,6 +702,7 @@ gallnut
 gallnuts
 galloflavin
 gimps
+gallipot
 galloman
 gantleting
 guideline
