@@ -7493,7 +7493,6 @@ fordwine
 foreact
 foreadmonish
 false
-flashpan
 foreadvertise
 fractionlet
 foreadvice
@@ -11512,6 +11511,7 @@ flixweed
 fursemide
 foreglimpse
 furstone
+flashpan
 falcunculus
 foresightedly
 furtherance
