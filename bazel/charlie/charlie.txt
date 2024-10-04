@@ -2540,6 +2540,7 @@ cank
 clingfish
 canker
 cankerberry
+collating
 cankerbird
 crafting
 cankereat
@@ -20901,7 +20902,6 @@ compressure
 comprest
 compriest
 comprint
-collating
 comprisal
 casseroles
 comprise
