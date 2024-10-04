@@ -3810,7 +3810,6 @@ carboxydomonas
 carboxyl
 caupones
 carboxylase
-carboxylate
 carboxylated
 carboxylating
 carboxylation
@@ -9267,6 +9266,7 @@ chasubled
 chasubles
 chat
 chataka
+carboxylate
 chatchka
 chatchkas
 chatchke
