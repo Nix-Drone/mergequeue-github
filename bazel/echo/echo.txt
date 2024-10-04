@@ -8291,7 +8291,6 @@ epistoler
 epistolic
 enviably
 epistolical
-epistolise
 epistolised
 epistolising
 epistolize
@@ -13408,6 +13407,7 @@ expunge
 expungeable
 expunged
 expunger
+epistolise
 expungers
 expunging
 expurgate
