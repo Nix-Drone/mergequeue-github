@@ -2240,7 +2240,6 @@ gcd
 gconv
 gd
 gdinfo
-gds
 grayfish
 globously
 ge
@@ -8177,6 +8176,7 @@ graphiter
 gummaker
 graphites
 graphitic
+gds
 gynecicgynecidal
 gleeked
 galaxian
