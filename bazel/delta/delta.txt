@@ -3670,7 +3670,6 @@ degradations
 degradative
 degraded
 degradedly
-degradement
 dixy
 degrader
 dehydrogenase
@@ -6601,6 +6600,7 @@ desertion
 desertism
 desertless
 desertlessly
+degradement
 desertness
 desertress
 desertrice
