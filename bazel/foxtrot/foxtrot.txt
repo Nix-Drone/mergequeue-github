@@ -6651,7 +6651,6 @@ focalization
 focalizes
 focaloid
 fixtures
-focimeter
 focimetry
 fockle
 focoids
@@ -7867,6 +7866,7 @@ floran
 forepast
 feedstuffs
 foliously
+focimeter
 forepaw
 forepaws
 forepeak
