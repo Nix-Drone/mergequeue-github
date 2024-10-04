@@ -8304,7 +8304,6 @@ chalcididae
 chalcidiform
 chalcidoid
 chalcidoidea
-chalcids
 chalcioecus
 chalcis
 chalcites
@@ -15522,6 +15521,7 @@ clarion
 clarionet
 calcarine
 clarioning
+chalcids
 clarissa
 cufflinks
 certification
