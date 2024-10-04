@@ -3483,7 +3483,6 @@ addends
 addendum
 addendums
 adder
-abridgment
 adderfish
 adderspit
 adderwort
@@ -12542,6 +12541,7 @@ anepigraphic
 acneform
 anepigraphous
 anepiploic
+abridgment
 anepithymia
 anerethisia
 acinetarian
