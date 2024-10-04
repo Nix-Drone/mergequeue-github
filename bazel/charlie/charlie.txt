@@ -18545,7 +18545,6 @@ coinhering
 cagui
 coinheritance
 coinheritor
-coiny
 coining
 coinitial
 coinmaking
@@ -26587,6 +26586,7 @@ councilmanic
 councilmen
 councilor
 councilors
+coiny
 chester
 conessine
 councils
