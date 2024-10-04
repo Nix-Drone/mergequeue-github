@@ -2321,7 +2321,6 @@ canchalagua
 crocard
 canchas
 cancion
-cancionero
 canciones
 causeless
 cancri
@@ -7214,6 +7213,7 @@ centrobarical
 centroclinal
 centrode
 centrodesmose
+cancionero
 centrodesmus
 centrodorsal
 centroid
