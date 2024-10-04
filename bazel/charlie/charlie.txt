@@ -3389,7 +3389,6 @@ capsuler
 capsules
 capsuliferous
 capsuliform
-capsuligerous
 capsuling
 capsulitis
 capsulize
@@ -15750,6 +15749,7 @@ chirres
 clavy
 claviature
 clavicembalist
+capsuligerous
 clavicembalo
 claviceps
 clavichord
