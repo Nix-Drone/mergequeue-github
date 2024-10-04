@@ -7539,6 +7539,7 @@ cercopid
 continent
 cercopidae
 cercopithecid
+crit
 coenenchymata
 cercopithecidae
 cercopithecoid
@@ -29506,7 +29507,6 @@ cerebrums
 crystoleum
 crystolon
 crystosphene
-crit
 critch
 critchfield
 criteria
