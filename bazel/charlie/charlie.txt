@@ -13332,7 +13332,6 @@ cyclohexanol
 cyclohexanone
 cyclohexatriene
 cyclohexene
-cyclohexyl
 cyclohexylamine
 cycloheximide
 chemiatry
@@ -18669,6 +18668,7 @@ colazione
 colback
 colberter
 colbertine
+cyclohexyl
 colbertism
 colcannon
 colchian
