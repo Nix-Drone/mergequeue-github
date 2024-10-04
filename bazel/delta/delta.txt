@@ -6519,6 +6519,7 @@ divorce
 deadmen
 descries
 descript
+diatoms
 description
 dogsled
 descriptionless
@@ -8714,7 +8715,6 @@ diatomin
 diatomine
 diatomist
 diatomous
-diatoms
 diatonic
 diatonical
 diatonically
