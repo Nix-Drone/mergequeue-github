@@ -2338,7 +2338,6 @@ electrocardiograph
 electrocardiographic
 electrocardiographically
 electrocatalysis
-electrocatalytic
 explorational
 electrocautery
 evasion
@@ -7859,6 +7858,7 @@ epigyny
 epiphyses
 epigynies
 epigynous
+electrocatalytic
 epigynum
 epiglottal
 evolutility
