@@ -3961,7 +3961,6 @@ barrow
 bawrel
 badling
 bawsint
-bawsunt
 bawtie
 bawties
 baxter
@@ -17895,6 +17894,7 @@ botein
 burt
 burthen
 burthened
+bawsunt
 bluewing
 burthening
 burthens
