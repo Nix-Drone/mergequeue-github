@@ -13484,7 +13484,6 @@ anthroposcopy
 anne
 anneal
 annealed
-annealer
 annealers
 annealing
 appoggiature
@@ -19101,6 +19100,7 @@ archness
 actuarial
 archnesses
 astronautical
+annealer
 augmentationer
 archocele
 archocystosyrinx
