@@ -4796,7 +4796,6 @@ fellers
 flagons
 fasciolaria
 frontspiece
-flagpole
 faunula
 figurehead
 flagpoles
@@ -10885,6 +10884,7 @@ fulgence
 ferrimagnetism
 flavous
 fulgency
+flagpole
 fulgent
 fulgentness
 fulgid
