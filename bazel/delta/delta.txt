@@ -1196,7 +1196,6 @@ datasets
 datatype
 datatypes
 datcha
-dynamometry
 dialyzers
 dateableness
 datebook
@@ -18490,6 +18489,7 @@ desulfurization
 durgan
 durham
 durian
+dynamometry
 durians
 duricrust
 duridine
