@@ -100,7 +100,6 @@ facias
 faciata
 fantoms
 faciation
-forequoted
 facie
 freeport
 fibroelastic
@@ -1450,6 +1449,7 @@ fatima
 fating
 fatiscent
 fatless
+forequoted
 fatly
 fatling
 fourieristic
