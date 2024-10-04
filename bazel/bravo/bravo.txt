@@ -2184,7 +2184,6 @@ banquet
 banqueted
 banqueter
 banqueters
-banqueting
 banquets
 banquette
 bans
@@ -9108,6 +9107,7 @@ biophysics
 biophysiography
 biophysiology
 biophysiologist
+banqueting
 brunellia
 biophyte
 biophotophone
