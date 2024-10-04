@@ -3705,7 +3705,6 @@ adenomatome
 adenometritis
 adenomycosis
 adenomyofibroma
-adenomyoma
 agapornis
 adenomyxosarcoma
 adenoncus
@@ -21474,6 +21473,7 @@ asphodel
 asphodelaceae
 asphodelus
 aspy
+adenomyoma
 aspic
 aspics
 aspiculate
