@@ -4634,7 +4634,6 @@ carpetmaker
 carpetmaking
 carpetmonger
 carpets
-carpetweb
 carpetweed
 carpetwork
 carpetwoven
@@ -6720,6 +6719,7 @@ celiodynia
 celioelytrotomy
 coreplasty
 celioenterotomy
+carpetweb
 counterearth
 chary
 celiohysterotomy
