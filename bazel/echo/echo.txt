@@ -1506,7 +1506,6 @@ effund
 effuse
 endew
 extrications
-effused
 effusely
 effuses
 effusiometer
@@ -11294,6 +11293,7 @@ evanescently
 evanesces
 evanescible
 evanescing
+effused
 evang
 evangel
 eupnea
