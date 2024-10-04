@@ -4293,7 +4293,6 @@ firmisternal
 fronded
 firmisternous
 firmity
-firmitude
 firmland
 fibulare
 firmly
@@ -7503,6 +7502,7 @@ foreallege
 foreallot
 foreannounce
 flatuses
+firmitude
 foreappoint
 foreappointment
 fungate
