@@ -4769,7 +4769,6 @@ bedless
 bedlids
 bedlight
 bedmaker
-bewrought
 bedmakers
 borak
 bulldozer
@@ -9383,6 +9382,7 @@ birdcages
 birdcall
 birdcalls
 birdcatching
+bewrought
 birdcraft
 birddom
 birded
