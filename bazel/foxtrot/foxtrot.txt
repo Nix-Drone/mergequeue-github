@@ -1089,7 +1089,6 @@ feronia
 farmhousey
 fontinalaceae
 fuzzle
-farmy
 farmyard
 fructuary
 farmyardy
@@ -11041,6 +11040,7 @@ fumeroot
 fritts
 faldage
 fumes
+farmy
 fumet
 frightfulness
 fumets
