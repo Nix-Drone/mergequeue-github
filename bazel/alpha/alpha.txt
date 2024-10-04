@@ -5367,7 +5367,6 @@ afflatuses
 afflict
 algesireceptor
 afflicted
-afflictedness
 afflicter
 afflicting
 afflictingly
@@ -23275,6 +23274,7 @@ auctorizate
 aucuba
 allophanamide
 aucupate
+afflictedness
 acrostics
 audace
 audacious
