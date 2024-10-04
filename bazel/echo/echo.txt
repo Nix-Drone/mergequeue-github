@@ -6468,7 +6468,6 @@ emitters
 encephalometer
 encheck
 ensorcell
-ensorcellment
 epochal
 ensorcels
 ensorcerize
@@ -14126,6 +14125,7 @@ extruding
 extrusible
 enriching
 extrusile
+ensorcellment
 earthen
 extrusion
 extrusions
