@@ -7143,7 +7143,6 @@ ferules
 footboys
 footbreadth
 footbridge
-frustulum
 footcandle
 footcloths
 finedraw
@@ -8271,6 +8270,7 @@ forgo
 forgoer
 forgoers
 flasher
+frustulum
 fossilological
 forgoes
 forgot
