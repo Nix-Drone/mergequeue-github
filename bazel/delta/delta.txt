@@ -77,7 +77,6 @@ dacryocystoptosis
 dacryocystosyringotomy
 dacryocystotome
 dacryocystotomy
-dacryohemorrhea
 dacryolithiasis
 dacryoma
 dacryon
@@ -6552,6 +6551,7 @@ daps
 desegmentation
 desegmented
 disordination
+dacryohemorrhea
 digitally
 desegregate
 dephlegmated
