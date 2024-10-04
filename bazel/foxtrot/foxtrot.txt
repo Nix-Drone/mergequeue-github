@@ -2712,7 +2712,6 @@ ferulic
 flouncier
 ferv
 fervanite
-frontad
 fervence
 farmplace
 fervency
@@ -5899,6 +5898,7 @@ ferrotungsten
 floodable
 fineable
 fullfil
+frontad
 floodage
 floodboard
 fabiform
