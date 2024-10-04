@@ -1106,7 +1106,6 @@ farmtown
 farnesol
 farnesols
 fogas
-flinger
 farnesses
 faro
 floter
@@ -8092,6 +8091,7 @@ flowerets
 forestwards
 foresummon
 foreswear
+flinger
 foreswearing
 funkiest
 foresweat
