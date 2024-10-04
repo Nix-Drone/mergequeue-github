@@ -2118,6 +2118,7 @@ campsheeting
 campsite
 compasser
 campsites
+coeffects
 campstool
 campstools
 camptodrome
@@ -30657,7 +30658,6 @@ connecters
 cuecas
 cued
 cueing
-coeffects
 cueist
 coempts
 cueman
