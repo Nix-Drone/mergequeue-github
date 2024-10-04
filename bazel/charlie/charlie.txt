@@ -9557,6 +9557,7 @@ checkpointed
 checkpointing
 checkpoints
 commonize
+chipchop
 checkrack
 checkrail
 checkrein
@@ -10861,7 +10862,6 @@ chiotilla
 chip
 chipboard
 chipchap
-chipchop
 chipewyan
 chiplet
 chipling
