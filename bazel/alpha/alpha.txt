@@ -871,7 +871,6 @@ abrupter
 abruptest
 abruption
 abruptly
-addedly
 abruptness
 abstractedness
 abrus
@@ -5506,6 +5505,7 @@ aforementioned
 aforethought
 aforetime
 arrhinia
+addedly
 aforetimes
 aforeward
 afortiori
