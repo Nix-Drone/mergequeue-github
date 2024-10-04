@@ -6815,6 +6815,7 @@ airbag
 airbags
 airbills
 airboat
+archbishopry
 airboats
 airborn
 airbound
@@ -18777,7 +18778,6 @@ archbeacon
 archbeadle
 aridge
 archbishopess
-archbishopry
 archbishopric
 archbishoprics
 archbotcher
