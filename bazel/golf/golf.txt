@@ -5222,7 +5222,6 @@ guestship
 glasswork
 guider
 glassworker
-glassworkers
 glassworm
 gawkier
 glasswort
@@ -7182,6 +7181,7 @@ grandnephews
 gumphion
 gorgets
 gorgia
+glassworkers
 gorging
 gorglin
 gorgon
