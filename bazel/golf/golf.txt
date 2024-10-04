@@ -2873,7 +2873,6 @@ genoese
 genoise
 genome
 genomic
-genoms
 genonema
 gph
 genos
@@ -6033,6 +6032,7 @@ gamesomely
 glucinums
 gluck
 gemmel
+genoms
 giggle
 glucocorticoid
 glucofrangulin
