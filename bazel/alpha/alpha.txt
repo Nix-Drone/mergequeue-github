@@ -19978,7 +19978,6 @@ armlike
 armload
 armloads
 armlock
-armlocks
 armoire
 armoires
 armomancy
@@ -24223,6 +24222,7 @@ automobile
 automobiled
 accidia
 automobiles
+armlocks
 ail
 arthrobranchia
 anoxias
