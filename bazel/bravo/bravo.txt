@@ -1555,7 +1555,6 @@ ballads
 ballahoo
 ballahou
 ballam
-ballan
 ballas
 ballast
 ballastage
@@ -6616,6 +6615,7 @@ berascals
 blender
 brustled
 berated
+ballan
 berates
 berating
 berattle
