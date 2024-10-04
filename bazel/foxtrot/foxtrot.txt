@@ -1693,7 +1693,6 @@ fcomp
 farcin
 fcp
 foehns
-familiar
 friars
 four
 fdnames
@@ -11739,6 +11738,7 @@ fuzil
 facingly
 ferfathmur
 fuzils
+familiar
 fuzz
 fuzzball
 fuzzed
