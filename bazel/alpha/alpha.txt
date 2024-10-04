@@ -4534,7 +4534,6 @@ advantageous
 advantageously
 advantageousness
 advantages
-advect
 advected
 advecting
 agamobia
@@ -13491,6 +13490,7 @@ appoggiature
 anneals
 annect
 annectant
+advect
 antiegoistically
 annection
 annelid
