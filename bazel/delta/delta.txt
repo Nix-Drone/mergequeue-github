@@ -3041,7 +3041,6 @@ deepeners
 drearisomeness
 deepening
 deeper
-deepest
 deepfreeze
 deepfreezing
 deepgoing
@@ -3609,6 +3608,7 @@ degaussing
 degelatinize
 diatonous
 degender
+deepest
 degener
 dillydallying
 degeneralize
