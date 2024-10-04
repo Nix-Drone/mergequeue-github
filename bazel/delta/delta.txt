@@ -4547,7 +4547,6 @@ demibarrel
 demibastion
 demibastioned
 demibath
-demibeast
 demibelt
 demibrassart
 demibrigade
@@ -15144,6 +15143,7 @@ disinfectant
 dysphemize
 damnit
 dolichocephalous
+demibeast
 dolichocercic
 diazine
 dolichocnemic
