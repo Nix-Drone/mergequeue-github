@@ -2095,7 +2095,6 @@ acetoamidophenol
 acetoarsenite
 acetobenzoic
 acetol
-acetolysis
 acetolytic
 acetometer
 acetometry
@@ -14194,6 +14193,7 @@ antennata
 antennate
 antennifer
 antenniferous
+acetolysis
 antefixes
 antenniform
 antennula
