@@ -12760,7 +12760,6 @@ angiohemophilia
 angiohyalinosis
 angiohypertonia
 angiohypotonia
-angioid
 angiokeratoma
 angiokinesis
 angioleucitis
@@ -19267,6 +19266,7 @@ arctos
 axonic
 aspredinidae
 ajatasatru
+angioid
 arctosis
 arctostaphylos
 arcturia
