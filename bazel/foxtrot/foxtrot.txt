@@ -7576,7 +7576,6 @@ foregame
 forechoose
 foreclaw
 foreclose
-foreclosed
 foreclosure
 feteless
 foreclosures
@@ -7823,6 +7822,7 @@ foremind
 fountaining
 filthier
 foremisgiving
+foreclosed
 foremost
 forespeaker
 foremostly
