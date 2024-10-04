@@ -11609,7 +11609,6 @@ anthropomantic
 ade
 anaesthetics
 anaesthetist
-anaesthetization
 anaesthetize
 anaesthetized
 anaesthetizer
@@ -22765,6 +22764,7 @@ atomised
 atomises
 atomising
 atomism
+anaesthetization
 atomisms
 atomist
 atomistic
