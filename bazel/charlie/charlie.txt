@@ -1947,7 +1947,6 @@ camote
 cytologic
 camoudie
 camouflage
-camouflageable
 cryptocrystallization
 camouflager
 camouflagers
@@ -26799,6 +26798,7 @@ counterfactual
 counterfactually
 counterfaller
 counterfeisance
+camouflageable
 counterfeit
 counterfeiter
 counterfeiting
