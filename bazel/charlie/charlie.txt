@@ -9577,6 +9577,7 @@ checksum
 construct
 checksummed
 checksumming
+circumsession
 checkup
 checkups
 checkweigher
@@ -14424,7 +14425,6 @@ circumscript
 circumscriptions
 circumscriptive
 circumscriptively
-circumsession
 circumsinous
 canroy
 circumsolar
