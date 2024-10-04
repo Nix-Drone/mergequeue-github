@@ -5077,7 +5077,6 @@ flashtube
 flashtubes
 fusobteria
 fanterie
-flask
 ferricyanhydric
 flasker
 foretooth
@@ -5456,6 +5455,7 @@ fleshiest
 fleshiness
 fourniture
 fleshing
+flask
 fleshings
 formatters
 fanjets
