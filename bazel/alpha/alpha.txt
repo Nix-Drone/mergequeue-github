@@ -2778,7 +2778,6 @@ acridyl
 acridin
 acridine
 acridines
-acridinic
 acridinium
 acridity
 acridities
@@ -3900,6 +3899,7 @@ adipocere
 anthropological
 adipoceriform
 adipocerite
+acridinic
 adipocyte
 adipofibroma
 adipogenic
