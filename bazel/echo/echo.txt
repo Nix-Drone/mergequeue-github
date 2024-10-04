@@ -2601,7 +2601,6 @@ electropower
 electropsychrometer
 egotisticalness
 electropult
-electropuncturation
 electropuncture
 electroreceptive
 electroreduction
@@ -12425,6 +12424,7 @@ exfoliative
 exfoliatory
 entopical
 explicantia
+electropuncturation
 exhalable
 egocentristic
 exhalants
