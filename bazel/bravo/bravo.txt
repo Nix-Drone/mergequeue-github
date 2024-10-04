@@ -3638,6 +3638,7 @@ bathyspheres
 bathythermograph
 bathkol
 barbar
+bournes
 bathman
 bathmat
 bathmats
@@ -13628,7 +13629,6 @@ bourkha
 broideress
 bourlaw
 bourne
-bournes
 bourns
 bourock
 bourout
