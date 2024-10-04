@@ -20738,6 +20738,7 @@ artilize
 artiller
 artillery
 avodire
+avion
 adjourn
 artilleryman
 artillerymen
@@ -24791,7 +24792,6 @@ avilement
 avine
 accusatival
 aviolite
-avion
 avionic
 avionics
 avions
