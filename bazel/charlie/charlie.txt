@@ -7482,7 +7482,6 @@ ceratophyllaceous
 ceratophyllum
 ceratophyta
 colocephalous
-ceratophrys
 changepocket
 crozier
 ceratopsian
@@ -11362,6 +11361,7 @@ convenee
 commands
 chlorophyceous
 chlorophyl
+ceratophrys
 chlorophyll
 chlorophyllaceous
 chlorophyllase
