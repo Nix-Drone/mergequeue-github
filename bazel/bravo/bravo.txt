@@ -562,7 +562,6 @@ bewhite
 backward
 backwardation
 backwardly
-backwardness
 backwards
 bipartible
 backwash
@@ -13709,6 +13708,7 @@ bovovaccination
 bovver
 bow
 bowable
+backwardness
 bowback
 bowbells
 bowbent
