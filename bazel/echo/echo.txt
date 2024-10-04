@@ -5058,7 +5058,6 @@ endmost
 electrocoating
 endnote
 endnotes
-endoangiitis
 exemplum
 endoaortitis
 endoarteritis
@@ -13902,6 +13901,7 @@ enduement
 extraordinariness
 embryogenic
 extraorganismal
+endoangiitis
 electrolytical
 extraovate
 ergamine
