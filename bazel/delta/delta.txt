@@ -6066,7 +6066,6 @@ deputise
 deputised
 deputyship
 deputising
-dehumanise
 disminister
 dungeonlike
 deputizes
@@ -14884,6 +14883,7 @@ doff
 doffed
 doffer
 doffers
+dehumanise
 doffing
 doffs
 demiracle
