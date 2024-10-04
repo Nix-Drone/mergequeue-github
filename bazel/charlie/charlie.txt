@@ -16,6 +16,7 @@ cabal
 corruptibilities
 cryptostoma
 cabala
+cerement
 cabalassou
 cabaletta
 cabalic
@@ -7645,7 +7646,6 @@ cerebrum
 chaumontel
 cerecloth
 cered
-cerement
 cerements
 ceremony
 chrysoeriol
