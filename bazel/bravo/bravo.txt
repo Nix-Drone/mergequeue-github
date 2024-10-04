@@ -4511,7 +4511,6 @@ becloak
 belchers
 becloaking
 becloaks
-beclog
 beclogged
 beclogging
 beclogs
@@ -12460,6 +12459,7 @@ boneshaw
 bonetail
 bonetta
 bonewood
+beclog
 bonework
 bonewort
 bonging
