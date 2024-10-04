@@ -6146,7 +6146,6 @@ gluside
 glut
 glutamate
 geodesics
-glutamates
 glutamic
 glutaminase
 gallegan
@@ -7864,6 +7863,7 @@ gaddish
 grampuses
 galvanograph
 groupment
+glutamates
 gullishly
 grams
 goodeniaceae
