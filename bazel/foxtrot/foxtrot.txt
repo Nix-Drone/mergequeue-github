@@ -4754,7 +4754,6 @@ folie
 flagellula
 flagellulae
 fortressed
-flagellum
 flageolet
 fannings
 flageolets
@@ -7287,6 +7286,7 @@ footweary
 footwears
 fleered
 footwork
+flagellum
 farragos
 footworks
 footworn
