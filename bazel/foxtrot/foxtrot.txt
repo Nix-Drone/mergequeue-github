@@ -1697,7 +1697,6 @@ familiar
 friars
 four
 fdnames
-fdtype
 fdub
 fortuitousness
 fe
@@ -10523,6 +10522,7 @@ foxfinger
 ferberite
 frostroot
 footbridges
+fdtype
 favose
 flutterment
 frostwort

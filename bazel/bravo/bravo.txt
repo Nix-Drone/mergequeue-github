@@ -10392,7 +10392,6 @@ bengal
 blasia
 blason
 blaspheme
-blasphemed
 blasphemes
 blasphemy
 blasphemies
@@ -16380,6 +16379,7 @@ brunts
 bruscha
 brush
 brushability
+blasphemed
 brushable
 brushback
 brushbird
