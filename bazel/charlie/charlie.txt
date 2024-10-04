@@ -1101,7 +1101,6 @@ culturology
 cubatures
 calcographic
 calcrete
-calcsinter
 calcspar
 calcspars
 calctufas
@@ -23279,6 +23278,7 @@ consummated
 consummately
 consummates
 consummating
+calcsinter
 consummation
 consummations
 calamaroid
