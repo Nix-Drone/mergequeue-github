@@ -2476,6 +2476,7 @@ deckman
 deckpipe
 decks
 dulls
+derogately
 deckswabber
 decl
 declaim
@@ -6377,7 +6378,6 @@ derog
 derogate
 denuclearization
 derogated
-derogately
 derogates
 derogating
 derogation
