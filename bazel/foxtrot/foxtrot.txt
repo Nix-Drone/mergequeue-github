@@ -5343,7 +5343,6 @@ flecnodal
 flect
 frigefact
 flection
-flectionless
 flector
 flinter
 fido
@@ -9281,6 +9280,7 @@ fulmining
 fragging
 fraggings
 fragile
+flectionless
 fishpot
 fragileness
 fragility
