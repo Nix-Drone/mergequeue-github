@@ -8738,7 +8738,6 @@ diazide
 diazin
 diazins
 diazo
-diazoalkane
 diazoamin
 depeter
 diazoamine
@@ -12367,6 +12366,7 @@ dishorn
 dishorner
 dishorse
 dishpan
+diazoalkane
 dishpanful
 dishpans
 dishrags
