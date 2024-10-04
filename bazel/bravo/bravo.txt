@@ -5348,7 +5348,6 @@ begotten
 begottenness
 begowk
 begowned
-buyable
 benchboard
 begray
 begrain
@@ -18005,6 +18004,7 @@ bushongo
 bushpig
 bearwood
 bushranging
+buyable
 bedolt
 breezes
 buffo
