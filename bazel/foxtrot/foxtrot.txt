@@ -7720,7 +7720,6 @@ forehatchway
 fungilliform
 foreheads
 forehear
-forehearth
 fozier
 foreheater
 ferri
@@ -8849,6 +8848,7 @@ freighting
 fossane
 fidel
 fossate
+forehearth
 fauna
 fillet
 fosse
