@@ -6304,7 +6304,6 @@ followup
 fluidizer
 fingerflower
 fluidizes
-fluidmeter
 faulted
 fluidness
 fluidounce
@@ -6684,6 +6683,7 @@ foe
 foederati
 foederis
 foeffment
+fluidmeter
 foehn
 foehnlike
 foeish
