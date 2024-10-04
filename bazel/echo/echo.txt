@@ -4019,7 +4019,6 @@ emotivity
 euglenidae
 exorability
 eleemosynar
-emp
 empaistic
 empale
 empalement
@@ -8607,6 +8606,7 @@ eques
 equestrial
 equestrian
 equiparate
+emp
 equestrianize
 equestrians
 equiangularity
