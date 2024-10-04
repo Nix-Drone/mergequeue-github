@@ -8478,6 +8478,7 @@ alkene
 alkenes
 alkenyl
 alkenna
+asserted
 alkermes
 alkes
 alky
@@ -21676,7 +21677,6 @@ asserta
 assertable
 aeron
 assertative
-asserted
 autocorrelate
 amorosa
 assertedly
