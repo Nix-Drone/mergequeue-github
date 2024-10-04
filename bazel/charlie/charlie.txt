@@ -15834,7 +15834,6 @@ cleanskin
 cleanskins
 cleanup
 clear
-chelaship
 clearable
 clearage
 clearance
@@ -21619,6 +21618,7 @@ ctrl
 condictious
 condiddle
 condiddled
+chelaship
 condiddlement
 condiddling
 cevadilla
