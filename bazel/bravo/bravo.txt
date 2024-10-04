@@ -2396,7 +2396,6 @@ ballooned
 barbero
 barberry
 bluestone
-benzoles
 bubaline
 barbershops
 barbet
@@ -12936,6 +12935,7 @@ borborygmus
 bacteriolysis
 bord
 bren
+benzoles
 bordar
 bordarius
 bordeaux
