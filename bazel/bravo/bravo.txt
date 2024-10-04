@@ -1102,7 +1102,6 @@ baillone
 baillonella
 bailment
 bailments
-bailo
 bailor
 bailors
 bailout
@@ -2209,6 +2208,7 @@ bristler
 bantery
 boxfishes
 bantering
+bailo
 banteringly
 banters
 banty
