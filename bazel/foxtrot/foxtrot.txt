@@ -6941,7 +6941,6 @@ folksiness
 folksong
 folksongs
 folktales
-folkvangr
 foll
 foller
 folles
@@ -8773,6 +8772,7 @@ frizzled
 fortunate
 fortunately
 fortunateness
+folkvangr
 fortunel
 froe
 formated
