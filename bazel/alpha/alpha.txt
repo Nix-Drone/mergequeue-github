@@ -16249,7 +16249,6 @@ atheris
 antislip
 antismoking
 antismut
-antisnapper
 antisnob
 antisocial
 aforesaid
@@ -21818,6 +21817,7 @@ assisi
 autostage
 assist
 assistance
+antisnapper
 assistant
 assistanted
 armadillo
