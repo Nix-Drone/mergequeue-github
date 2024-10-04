@@ -6754,7 +6754,6 @@ entertainment
 entertains
 entertake
 encaging
-entertissue
 emetine
 entete
 enthalpy
@@ -13413,6 +13412,7 @@ expunging
 expurgate
 expurgated
 expurgating
+entertissue
 expurgation
 expurgational
 ethan
