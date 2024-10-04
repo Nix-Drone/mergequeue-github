@@ -4475,7 +4475,6 @@ economization
 encake
 encalendar
 encamping
-encampment
 encampments
 encamps
 endoparasite
@@ -8949,6 +8948,7 @@ erg
 expuition
 ergane
 ergastic
+encampment
 ergastoplasm
 ergastoplasmic
 excreters
