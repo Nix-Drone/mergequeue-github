@@ -1501,7 +1501,6 @@ althing
 accessless
 achenodia
 accessor
-accessory
 accessories
 anakinetic
 accessorily
@@ -9740,6 +9739,7 @@ amalgamator
 amalgamators
 amalgamist
 amalgamization
+accessory
 amalgamize
 akonge
 amalgams
