@@ -4444,7 +4444,6 @@ adsum
 adterminal
 adtevac
 aduana
-adular
 adularescence
 assertorial
 adularescent
@@ -13147,6 +13146,7 @@ animalillio
 arracacia
 animalisation
 animalise
+adular
 animalised
 animalising
 animalism
