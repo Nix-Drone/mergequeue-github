@@ -17270,7 +17270,6 @@ coassisting
 coassists
 coassume
 coassumed
-coassumes
 coassuming
 coinsured
 coast
@@ -29360,6 +29359,7 @@ cris
 cinemese
 crises
 chairperson
+coassumes
 crisic
 crisis
 crisle
