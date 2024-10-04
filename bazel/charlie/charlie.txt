@@ -2403,7 +2403,6 @@ candlefish
 candlefishes
 candleholder
 candlelight
-candlelighted
 candlelighter
 cytogenesis
 confraternities
@@ -16554,6 +16553,7 @@ cloiochoanitic
 coronale
 cloys
 cloysome
+candlelighted
 cloison
 crinivorous
 cloisonless
