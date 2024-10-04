@@ -4546,6 +4546,7 @@ demiatheism
 demibarrel
 demibastion
 demibastioned
+disables
 demibath
 demibeast
 demibelt
@@ -10880,7 +10881,6 @@ doldrums
 disableness
 demonstrativeness
 disablers
-disables
 disabling
 deafforest
 dignitas
