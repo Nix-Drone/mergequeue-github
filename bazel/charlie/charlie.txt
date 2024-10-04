@@ -12063,6 +12063,7 @@ chanceries
 crusca
 choruslike
 chorusmaster
+counteragent
 chorussed
 chorusses
 chorussing
@@ -26643,7 +26644,6 @@ counteradvice
 catagories
 counteraffirmation
 counteragency
-counteragent
 counteragitate
 counteragitation
 counteralliance
