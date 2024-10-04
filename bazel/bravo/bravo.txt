@@ -3028,7 +3028,6 @@ botts
 barristerial
 barristers
 barristress
-barroom
 barrowful
 barrowman
 barrulee
@@ -13090,6 +13089,7 @@ borrower
 borrowers
 borrows
 bors
+barroom
 blow
 borsches
 borscht
