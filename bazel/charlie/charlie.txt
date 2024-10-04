@@ -9581,6 +9581,7 @@ checkup
 checkups
 checkweigher
 checkweighman
+cheilotomy
 checkweighmen
 checkwork
 checkwriter
@@ -9721,7 +9722,6 @@ cheiloplasty
 cheiloplasties
 cheilostomata
 cheilostomatous
-cheilotomy
 cheimaphobia
 cheimatophobia
 cheyney
