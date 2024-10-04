@@ -6488,7 +6488,6 @@ benzophenoxazine
 benzophloroglucinol
 benzophthalazine
 benzopyran
-benzopyranyl
 benzopyrazolone
 benzopyrylium
 benzoquinoxaline
@@ -9892,6 +9891,7 @@ bittie
 bepillared
 bittier
 bittiest
+benzopyranyl
 bitting
 bittings
 bittium
