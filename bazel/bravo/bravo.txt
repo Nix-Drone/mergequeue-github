@@ -8949,7 +8949,6 @@ biocycles
 botan
 biocidal
 biocide
-biocides
 bioclimatic
 bioclimatician
 bioclimatology
@@ -14812,6 +14811,7 @@ breakably
 breakage
 breakages
 breakaway
+biocides
 breakax
 babasco
 breaker
