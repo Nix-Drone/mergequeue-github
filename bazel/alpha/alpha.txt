@@ -9944,7 +9944,6 @@ ambidextrously
 ambience
 ambiency
 ambiens
-ambient
 acrodus
 ambients
 ambigenal
@@ -24381,6 +24380,7 @@ autosite
 autositic
 autoskeleton
 alascan
+ambient
 afterdinner
 autoslip
 autosomal
