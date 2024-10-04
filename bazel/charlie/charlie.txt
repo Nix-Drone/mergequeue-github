@@ -4769,7 +4769,6 @@ carrying
 carryings
 carryke
 carriole
-carrioles
 carrion
 carryon
 carrions
@@ -18586,6 +18585,7 @@ coyol
 clubridden
 coyos
 coyote
+carrioles
 coyotero
 coyotes
 cryptographers
