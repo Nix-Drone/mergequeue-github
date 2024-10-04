@@ -6938,6 +6938,7 @@ acieral
 airplot
 airport
 airports
+amphichromatic
 airpost
 airposts
 airproof
@@ -11061,7 +11062,6 @@ amphicarpogenous
 amphicentric
 amphichroic
 amphichrom
-amphichromatic
 amphichromy
 amphicyon
 amphicyonidae
