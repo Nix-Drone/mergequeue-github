@@ -256,7 +256,6 @@ aclu
 abditory
 abdom
 abdomen
-araeometer
 abdomens
 abdomina
 abdominal
@@ -2095,6 +2094,7 @@ acetoamidophenol
 acetoarsenite
 acetobenzoic
 acetol
+araeometer
 acetolysis
 acetolytic
 acetometer
