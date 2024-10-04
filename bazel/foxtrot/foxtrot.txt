@@ -5604,7 +5604,6 @@ flightless
 forepassed
 frailest
 flights
-flightworthy
 flying
 flyings
 flyleaves
@@ -8921,6 +8920,7 @@ fosterlings
 fistulize
 fostership
 filestatus
+flightworthy
 fostress
 fot
 flyspecking
