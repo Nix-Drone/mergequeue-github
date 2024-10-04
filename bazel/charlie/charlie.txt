@@ -8189,7 +8189,6 @@ chainlike
 chainmaker
 chainmaking
 chiropodist
-chainmen
 chainomatic
 cultists
 chains
@@ -26390,6 +26389,7 @@ cotylosaur
 cotylosauria
 cotylosaurian
 cotingid
+chainmen
 cotingidae
 cotingoid
 cotinus
