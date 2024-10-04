@@ -3176,7 +3176,6 @@ elseways
 elsewhat
 elsewhen
 elsewhere
-elsewheres
 elsholtzia
 elsin
 elt
@@ -11499,6 +11498,7 @@ everything
 extermine
 everyway
 everywhen
+elsewheres
 everywhereness
 everywhither
 emissarium

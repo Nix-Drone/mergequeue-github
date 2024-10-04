@@ -21960,7 +21960,6 @@ configures
 configuring
 coxcombry
 confinable
-confine
 confineable
 confined
 chalcophile
@@ -24359,6 +24358,7 @@ coom
 coomb
 counterflow
 coombes
+confine
 coombs
 coomy
 coon
