@@ -139,6 +139,7 @@ facks
 faconde
 faconne
 facsim
+filmgoer
 frena
 facsimile
 facsimiled
@@ -1116,7 +1117,6 @@ foremast
 farolito
 faros
 farouche
-filmgoer
 farrage
 frizzed
 favella
