@@ -635,7 +635,6 @@ bacterin
 borofluoric
 bacterioagglutinin
 bacterioblast
-bacteriochlorophyll
 bacteriocin
 bishopbird
 bacteriodiagnosis
@@ -13025,6 +13024,7 @@ borings
 borism
 borith
 borities
+bacteriochlorophyll
 borize
 born
 brannier
