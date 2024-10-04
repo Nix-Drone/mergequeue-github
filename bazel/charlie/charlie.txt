@@ -5765,7 +5765,6 @@ catenas
 catenate
 crooisite
 catenates
-catenating
 catenation
 catenative
 catenoid
@@ -21751,6 +21750,7 @@ conductively
 conductivity
 conductivities
 counterwill
+catenating
 crusets
 conductometer
 coworking
