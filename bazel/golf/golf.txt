@@ -5282,7 +5282,6 @@ greet
 glazing
 glb
 gerodontia
-genipap
 gld
 ghostlify
 gleam
@@ -5855,6 +5854,7 @@ glossator
 gumflower
 grillading
 glossectomy
+genipap
 glossed
 glossematics
 grenado
