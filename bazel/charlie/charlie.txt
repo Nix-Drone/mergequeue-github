@@ -27617,6 +27617,7 @@ cowleeching
 cowlike
 cowling
 cowlings
+craftworker
 cowlitz
 cowlstaff
 caramoussal
@@ -27914,7 +27915,6 @@ concubinaries
 craftsperson
 craftswoman
 craftwork
-craftworker
 crag
 craggan
 cragged
