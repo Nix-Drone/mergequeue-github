@@ -571,6 +571,7 @@ damager
 damagers
 disco
 discretionally
+disbind
 damayanti
 damalic
 daman
@@ -11173,7 +11174,6 @@ disbenching
 disbenchment
 disbend
 dispair
-disbind
 disblame
 disbloom
 disboard
