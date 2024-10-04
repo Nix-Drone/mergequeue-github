@@ -16841,7 +16841,6 @@ clubfist
 clubfisted
 clubfoot
 clubfooted
-clubhand
 clubhands
 clubhaul
 clubhauled
@@ -20095,6 +20094,7 @@ commingled
 comminglement
 commingler
 commingles
+clubhand
 commingling
 comminuted
 comminuting
