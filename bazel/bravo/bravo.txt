@@ -8591,7 +8591,6 @@ bylines
 brave
 baiocco
 bilingual
-bilinguality
 bilingually
 bilinguar
 bilinguist
@@ -17725,6 +17724,7 @@ burlace
 birgus
 burladero
 blackfin
+bilinguality
 buttery
 burlaps
 buicks
