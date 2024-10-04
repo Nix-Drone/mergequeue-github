@@ -6910,7 +6910,6 @@ airliners
 airlines
 airling
 airlock
-airlocks
 airmailing
 abietite
 airmark
@@ -11265,6 +11264,7 @@ amphoral
 amphore
 amphorette
 amphoric
+airlocks
 amphoriloquy
 actinolite
 amphoriskoi
