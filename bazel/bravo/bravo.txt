@@ -4301,7 +4301,6 @@ beaufet
 beaufin
 beaufort
 beaugregory
-beaugregories
 beaujolais
 beaume
 beaumont
@@ -16939,6 +16938,7 @@ buildable
 builded
 bizarre
 building
+beaugregories
 buildingless
 buildings
 balers
