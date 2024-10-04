@@ -11587,7 +11587,6 @@ choledochectomy
 choledochoduodenostomy
 choledochoenterostomy
 clomb
-choledocholithiasis
 choledocholithotomy
 choledocholithotripsy
 choledochoplasty
@@ -25954,6 +25953,7 @@ cyriological
 corvinas
 corviser
 corvo
+choledocholithiasis
 corvoid
 corvorant
 corvus
