@@ -10106,7 +10106,6 @@ chessboards
 chessdom
 chessel
 chesser
-cabinda
 chesses
 chesset
 chessylite
@@ -24215,6 +24214,7 @@ crinoidal
 convoluting
 convolution
 convolutional
+cabinda
 convolutions
 convolutive
 convolve
