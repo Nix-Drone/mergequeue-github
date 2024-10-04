@@ -11160,7 +11160,6 @@ chlamydeous
 chlamydes
 cliftonia
 chlamydobacteriaceae
-chlamydobacteriaceous
 chlamydobacteriales
 chlamydomonadaceae
 chlamydomonadidae
@@ -20638,6 +20637,7 @@ complecting
 complection
 complects
 complement
+chlamydobacteriaceous
 complementalness
 complementary
 cognition
