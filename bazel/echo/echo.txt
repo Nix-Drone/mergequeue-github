@@ -4378,7 +4378,6 @@ electromotion
 enameling
 enolization
 enamelist
-enamellar
 equiped
 enamellers
 enamelless
@@ -8041,6 +8040,7 @@ epionychia
 epiopticon
 epiotic
 epipactis
+enamellar
 epirrhematic
 emetin
 eriophorum
