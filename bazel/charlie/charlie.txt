@@ -11294,7 +11294,6 @@ chloroacetone
 chloroacetophenone
 chloroamide
 chloroamine
-chloroaurate
 chloroauric
 chloroaurite
 chlorobenzene
@@ -14992,6 +14991,7 @@ conducted
 celebrationis
 cytosines
 cytosome
+chloroaurate
 cytospectrophotometry
 cytospora
 cytosporina
