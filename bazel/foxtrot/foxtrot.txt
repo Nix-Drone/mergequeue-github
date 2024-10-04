@@ -5923,6 +5923,7 @@ floods
 forst
 fortifiable
 floodway
+formal
 feute
 floodways
 fistfight
@@ -8368,7 +8369,6 @@ flotilla
 forlornness
 form
 formagen
-formal
 formaldehyd
 froufrous
 formaldehyde
