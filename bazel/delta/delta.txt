@@ -8283,7 +8283,6 @@ dialectologer
 diplois
 dialectology
 dialectologic
-dialectological
 dialectologically
 dialectologies
 dialectologist
@@ -12521,6 +12520,7 @@ disinterment
 disinterred
 disinterring
 disinters
+dialectological
 dispiteously
 disintertwine
 disyntheme
