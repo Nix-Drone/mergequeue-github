@@ -6276,7 +6276,6 @@ folkloristic
 feigning
 fluidacetextract
 fluidally
-fluidextract
 fluidglycerate
 fluidible
 forcepslike
@@ -11295,6 +11294,7 @@ funmaker
 funmaking
 funnel
 funneled
+fluidextract
 funneling
 flattie
 funnelling
