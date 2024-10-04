@@ -1162,7 +1162,6 @@ ganglioplexus
 gentile
 gangman
 gangmaster
-gangplank
 gangplows
 glycerine
 gonimous
@@ -5801,6 +5800,7 @@ glor
 glore
 glory
 gloriana
+gangplank
 gomarite
 glorias
 gloriation
