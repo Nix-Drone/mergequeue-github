@@ -11621,6 +11621,7 @@ boatowner
 boats
 boatshop
 boatsman
+booker
 bobbed
 boatsmen
 boatsteerer
@@ -12633,7 +12634,6 @@ bookcraft
 bookdealer
 bushmaster
 bookends
-booker
 bookery
 bookers
 bookfair
