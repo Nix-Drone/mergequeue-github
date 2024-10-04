@@ -3010,6 +3010,7 @@ cape
 capeadores
 capel
 capelan
+convocant
 capelans
 capelet
 capelin
@@ -24188,7 +24189,6 @@ convives
 convivial
 convivially
 convivio
-convocant
 convocate
 convocated
 convocating
