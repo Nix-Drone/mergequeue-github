@@ -432,6 +432,7 @@ backplate
 backpointer
 backpointers
 backrest
+biverb
 backrope
 brimstony
 backropes
@@ -9963,7 +9964,6 @@ blights
 bizarrerie
 bield
 biventral
-biverb
 bivial
 beinness
 bivinyl
