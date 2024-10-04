@@ -9526,7 +9526,6 @@ birthbed
 bipinnatifid
 barracks
 bartizaned
-birthday
 birthdays
 bisaltae
 birthed
@@ -11860,6 +11859,7 @@ boffs
 bugseed
 boga
 bogach
+birthday
 bogard
 bushelwoman
 barographs
