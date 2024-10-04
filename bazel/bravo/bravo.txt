@@ -2496,7 +2496,6 @@ bardlet
 boothian
 bardlike
 burut
-bardling
 beswinge
 bardo
 bardocucullus
@@ -4618,6 +4617,7 @@ bedaggle
 bibless
 beday
 bedrid
+bardling
 bedamned
 bedamp
 bituberculated
