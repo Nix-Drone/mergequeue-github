@@ -3660,7 +3660,6 @@ adenocarcinomas
 adenocarcinomata
 akepiros
 adenocele
-adenochondroma
 adenochondrosarcoma
 adenochrome
 adenocyst
@@ -21561,6 +21560,7 @@ assaying
 assail
 assailableness
 assailant
+adenochondroma
 attomy
 anteporch
 anotropia
