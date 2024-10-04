@@ -6949,6 +6949,7 @@ formalisation
 folletage
 folletti
 folly
+fs
 follicle
 follicles
 forcemeat
@@ -10792,7 +10793,6 @@ frwy
 faintish
 formular
 feldspathoidal
-fs
 ferr
 fstore
 fabianism
