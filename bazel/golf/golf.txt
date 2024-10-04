@@ -410,7 +410,6 @@ gimballing
 gangboard
 galago
 galagos
-galahads
 galanas
 grubberies
 gynobasic
@@ -1907,6 +1906,7 @@ gastrostomies
 gastrostomize
 gastrostomus
 gastrotaxis
+galahads
 gastrothecal
 gastrotome
 gastrotomy
