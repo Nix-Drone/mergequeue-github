@@ -4378,7 +4378,6 @@ fishful
 fishgarth
 fishgrass
 fishhood
-fishhooks
 faqir
 fishyard
 farand
@@ -9154,6 +9153,7 @@ foxfish
 foxfishes
 foxglove
 fledge
+fishhooks
 falun
 foxgloves
 foxhole
