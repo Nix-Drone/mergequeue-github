@@ -9769,7 +9769,6 @@ chelates
 chelating
 chelation
 chelator
-chelators
 chelerythrine
 chelicer
 chelicera
@@ -29290,6 +29289,7 @@ cryptoheretic
 cryptolite
 cryptolith
 cryptology
+chelators
 cryptological
 cryptologist
 cryptolunatic
