@@ -3945,7 +3945,6 @@ emissive
 emissivity
 earthquaked
 emissory
-emitted
 emittent
 emitter
 emitting
@@ -12829,6 +12828,7 @@ exostoses
 extorting
 endoproct
 enhydris
+emitted
 exostosis
 exostotic
 exostra
