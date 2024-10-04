@@ -3763,7 +3763,6 @@ battels
 battement
 basisolute
 battements
-battened
 battener
 beknown
 batteners
@@ -5899,6 +5898,7 @@ burhead
 bellrags
 bells
 belltail
+battened
 blanco
 biomicroscopy
 blemishes
