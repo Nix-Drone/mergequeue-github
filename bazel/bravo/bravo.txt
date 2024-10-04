@@ -5492,7 +5492,6 @@ bacterioprotein
 behorror
 bellmaster
 bilabe
-behoved
 behoves
 behoving
 bepurple
@@ -7551,6 +7550,7 @@ betusked
 betutor
 betutored
 betweenbrain
+behoved
 betweenity
 betweenmaid
 betweens
