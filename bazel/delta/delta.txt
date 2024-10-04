@@ -7513,7 +7513,6 @@ devalorize
 devaluate
 devaluated
 devaluates
-devaluation
 devaluations
 devalue
 devalued
@@ -8211,6 +8210,7 @@ diagnosticating
 diagnostication
 diagnostician
 diagnosticians
+devaluation
 diagnostics
 diagometer
 demove
