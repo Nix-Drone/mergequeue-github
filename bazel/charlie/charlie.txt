@@ -11423,7 +11423,6 @@ choanoflagellida
 choanoflagellidae
 choanoid
 choanophorous
-choanosomal
 choanosome
 choate
 choaty
@@ -25600,6 +25599,7 @@ cleverness
 corpsman
 corpulences
 corpulency
+choanosomal
 corpulencies
 closestool
 corpulently
