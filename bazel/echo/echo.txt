@@ -2685,7 +2685,6 @@ electrothermometer
 electrothermostatic
 electrothermotic
 electrotype
-electrotyped
 electrotypes
 electrotypy
 escarmouche
@@ -13374,6 +13373,7 @@ excipular
 etas
 expressway
 expressways
+electrotyped
 exprimable
 exprobrate
 expromission
