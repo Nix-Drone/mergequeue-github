@@ -9132,6 +9132,7 @@ fowlers
 fowlfoot
 fowling
 fowlings
+fungitoxicity
 fowlpox
 fowlpoxes
 fallaciousness
@@ -11240,7 +11241,6 @@ fungistatically
 forcipes
 flittiness
 fungitoxic
-fungitoxicity
 findjan
 fungivorous
 fluorophosphate
