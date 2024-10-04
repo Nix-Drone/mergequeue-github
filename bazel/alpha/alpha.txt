@@ -5095,7 +5095,6 @@ aerosteam
 aerotactic
 aerotaxis
 argo
-aerotechnical
 aerotechnics
 anilidoxime
 allthorn
@@ -21677,6 +21676,7 @@ assertable
 aeron
 assertative
 asserted
+aerotechnical
 autocorrelate
 amorosa
 assertedly
