@@ -3486,7 +3486,6 @@ bastilles
 biggah
 bastiment
 bastinaded
-bastinades
 baroi
 berend
 burbots
@@ -7127,6 +7126,7 @@ besouth
 bespake
 bespangle
 bespangling
+bastinades
 bespate
 bespattered
 bespatterment
