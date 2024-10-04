@@ -5552,7 +5552,6 @@ deoxidizer
 dreggy
 deoxidizers
 deoxidizes
-deoxidizing
 deoxygenated
 deoxygenating
 deoxygenation
@@ -6761,6 +6760,7 @@ delph
 desmans
 desmanthus
 desmarestiaceae
+deoxidizing
 desmatippus
 desmectasia
 desmepithelium
