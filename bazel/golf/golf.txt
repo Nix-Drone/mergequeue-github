@@ -2661,6 +2661,7 @@ geochronometry
 genear
 genecology
 genecologic
+guttler
 gradienter
 genecological
 genecor
@@ -10789,7 +10790,6 @@ guttiform
 guttiness
 gauging
 gutting
-guttler
 guttlers
 guttula
 guttulae
