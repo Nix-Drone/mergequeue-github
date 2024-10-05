@@ -2666,7 +2666,6 @@ ferruled
 ferruler
 ferrules
 fences
-ferrum
 freshes
 ferruminating
 ferrumination
@@ -5665,6 +5664,7 @@ formularizer
 flintless
 flintlike
 flintlock
+ferrum
 fellatios
 flintwood
 flintworker
