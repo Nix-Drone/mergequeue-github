@@ -5657,7 +5657,6 @@ catchlight
 catchline
 catchment
 catchments
-catchpennies
 catchphrase
 catchpole
 catchpoled
@@ -7555,6 +7554,7 @@ cere
 cereal
 cerealian
 cerealin
+catchpennies
 cerealism
 cerealist
 cerealose
