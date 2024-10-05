@@ -3832,7 +3832,6 @@ emerged
 emergence
 emergences
 emergencies
-emergentness
 emergents
 emerges
 emiction
@@ -4795,6 +4794,7 @@ extraction
 enclothe
 encloud
 encode
+emergentness
 existible
 encoded
 encoder
