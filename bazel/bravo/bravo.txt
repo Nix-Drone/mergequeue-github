@@ -2652,7 +2652,6 @@ baryta
 barebacked
 bloodlike
 barytas
-barite
 baryte
 baritenor
 barytes
@@ -15678,6 +15677,7 @@ broadshare
 broadside
 broadsided
 broadsider
+barite
 borrovian
 botanophile
 broadsides
