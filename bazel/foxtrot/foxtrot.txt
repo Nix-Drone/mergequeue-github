@@ -3932,7 +3932,6 @@ foggage
 franchisal
 fined
 fineish
-fineleaf
 frounces
 finement
 fineness
@@ -10489,6 +10488,7 @@ frontwards
 frontwise
 fairbanks
 froom
+fineleaf
 froppish
 frore
 frory
