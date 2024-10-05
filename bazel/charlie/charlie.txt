@@ -9552,7 +9552,6 @@ checkoffs
 checkout
 calor
 checkouts
-checkpoint
 checkpointed
 checkpointing
 checkpoints
@@ -10445,6 +10444,7 @@ chigetais
 chigga
 chiggak
 chigger
+checkpoint
 chiggers
 chignoned
 chignons
