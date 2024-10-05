@@ -6878,6 +6878,7 @@ airfoils
 airframe
 airglow
 airglows
+availabilities
 acondylous
 airgraph
 airgraphics
@@ -24547,7 +24548,6 @@ avail
 availabile
 availability
 agitationist
-availabilities
 arteriographic
 available
 aciliate
