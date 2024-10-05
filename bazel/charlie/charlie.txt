@@ -24621,7 +24621,6 @@ copolar
 copolymer
 copolymeric
 copolymerism
-copolymerization
 copolymerizations
 copolymerize
 copolymerized
@@ -29539,6 +29538,7 @@ criticist
 criticizable
 criticize
 criticized
+copolymerization
 criticizer
 criticizers
 criticizingly
