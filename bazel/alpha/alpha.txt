@@ -4714,6 +4714,7 @@ aecidiomycetes
 aecidiospore
 aecidiostage
 aecidium
+arvicola
 aeciospore
 aeciostage
 abr
@@ -20829,7 +20830,6 @@ agaricinic
 arvejon
 arvel
 arverni
-arvicola
 arvicole
 anhydrate
 arvicolinae
