@@ -6638,7 +6638,6 @@ fullness
 fossilizes
 foaminess
 foaming
-foamless
 foamlike
 foams
 fobbing
@@ -11738,6 +11737,7 @@ fuzes
 fuzil
 facingly
 ferfathmur
+foamless
 fuzils
 fuzz
 fuzzball
