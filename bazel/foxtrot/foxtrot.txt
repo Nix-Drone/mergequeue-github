@@ -7936,7 +7936,6 @@ foresay
 fusillades
 foresail
 foresails
-foresays
 foresaw
 forescene
 forescent
@@ -8421,6 +8420,7 @@ formedon
 formee
 formel
 formelt
+foresays
 furthering
 fieldpiece
 febronian
