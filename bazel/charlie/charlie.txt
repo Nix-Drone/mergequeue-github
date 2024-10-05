@@ -10438,6 +10438,7 @@ cryptometer
 chiffonnier
 chiffonnieres
 chiffonniers
+cloths
 chifforobe
 chifforobes
 chigetai
@@ -16718,7 +16719,6 @@ clothings
 clothlike
 clothmaker
 catharpin
-cloths
 clothworker
 clots
 clottage
