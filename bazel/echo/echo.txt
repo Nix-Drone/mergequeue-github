@@ -3918,7 +3918,6 @@ emigre
 equivote
 excression
 electrotonus
-epacme
 emilia
 emim
 eminence
@@ -4379,6 +4378,7 @@ enameling
 enolization
 enamelist
 enamellar
+epacme
 equiped
 enamellers
 enamelless
