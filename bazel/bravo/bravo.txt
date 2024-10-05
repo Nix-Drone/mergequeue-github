@@ -2839,7 +2839,6 @@ barongs
 barony
 bassets
 baronial
-baronies
 baronize
 baronized
 baronnes
@@ -10409,6 +10408,7 @@ blastemic
 blaster
 blastful
 blastid
+baronies
 blastie
 blastier
 blasting
