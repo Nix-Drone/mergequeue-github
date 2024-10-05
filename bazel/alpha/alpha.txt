@@ -8154,6 +8154,7 @@ antifoam
 alhenna
 alhet
 alia
+allocations
 aliamenta
 ad
 antidepressants
@@ -16233,7 +16234,6 @@ antisynod
 antisyphilitic
 antisiphon
 antisiphonal
-allocations
 assets
 assistency
 aidable
