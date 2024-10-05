@@ -6157,6 +6157,7 @@ finality
 foldstool
 flowcontrol
 flanche
+fragging
 flowed
 flower
 flowerage
@@ -9278,7 +9279,6 @@ foundationless
 foment
 foreorder
 fulmining
-fragging
 fraggings
 fragile
 fishpot
