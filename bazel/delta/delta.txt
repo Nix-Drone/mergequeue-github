@@ -11177,7 +11177,6 @@ disbind
 disblame
 disbloom
 disboard
-disbody
 disbodied
 disbogue
 disboscation
@@ -13069,6 +13068,7 @@ dispositive
 dysphasic
 damps
 dysphemia
+disbody
 dysphemism
 dysphemistic
 diamantine
