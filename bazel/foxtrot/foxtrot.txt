@@ -8052,6 +8052,7 @@ fairyism
 forestcraft
 forested
 foresteep
+function
 fratricidal
 fluidises
 formlessly
@@ -9209,7 +9210,6 @@ fracas
 fracases
 frusta
 frache
-function
 fracid
 fouls
 forklike
