@@ -1973,7 +1973,6 @@ bandman
 bandmaster
 bandmasters
 bando
-bandobust
 bandog
 bandogs
 bonfire
@@ -10981,6 +10980,7 @@ blocage
 block
 blockade
 blockaded
+bandobust
 blockader
 blockaders
 blockading
