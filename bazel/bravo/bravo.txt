@@ -8660,7 +8660,6 @@ billethead
 billety
 billets
 billette
-broomtail
 billetty
 billetwood
 boukit
@@ -15350,6 +15349,7 @@ brigander
 brigandine
 brigandish
 brigandishly
+broomtail
 boccis
 brigantia
 brigantinebrigantines
