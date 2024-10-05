@@ -10177,7 +10177,6 @@ blackpoll
 beauclerk
 blackpot
 bromism
-blackprint
 blackrag
 ballarag
 blackroot
@@ -11895,6 +11894,7 @@ boggler
 bogglers
 boggles
 boggling
+blackprint
 bobization
 bogglingly
 bielid
