@@ -4989,7 +4989,6 @@ archdapifership
 autophotometry
 aquavalent
 aerohydrous
-anodine
 aerolite
 apocopate
 aerolites
@@ -20972,6 +20971,7 @@ ascidians
 ascidiate
 ascidicolous
 ascidiferous
+anodine
 ascidiform
 ascidioid
 ascidioida
