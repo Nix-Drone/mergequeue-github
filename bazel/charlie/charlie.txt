@@ -3959,7 +3959,6 @@ cardiagram
 carcinomorphic
 cardiagraph
 cardiagraphy
-cardial
 cardialgy
 centaurian
 cardialgia
@@ -12511,6 +12510,7 @@ chromophore
 chromophoric
 chromophorous
 chromophotograph
+cardial
 chromophotography
 chromophotographic
 cranky
