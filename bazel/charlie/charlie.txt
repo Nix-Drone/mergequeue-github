@@ -18205,7 +18205,6 @@ coffers
 cofferwork
 coffin
 coffing
-coffining
 coffinless
 consoled
 coffinmaking
@@ -27878,6 +27877,7 @@ cradle
 cradleboard
 cradlechild
 coroplastae
+coffining
 cradled
 cradlefellow
 cradleland
