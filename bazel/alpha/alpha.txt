@@ -5781,7 +5781,6 @@ agalloch
 agallochs
 afunction
 agallochum
-agallop
 agalma
 antipeptone
 agalmatolite
@@ -6913,6 +6912,7 @@ airlock
 airlocks
 airmailing
 abietite
+agallop
 airmark
 atomizes
 allantois
