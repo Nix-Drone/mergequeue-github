@@ -2214,6 +2214,7 @@ fractionizing
 flancard
 fels
 felsites
+foretooth
 felsobanyite
 foretypified
 felspars
@@ -5080,7 +5081,6 @@ fanterie
 flask
 ferricyanhydric
 flasker
-foretooth
 faecal
 flasklet
 flasks
