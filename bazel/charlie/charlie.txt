@@ -14176,7 +14176,6 @@ casemate
 circler
 circles
 circlet
-circleting
 circlets
 circline
 circling
@@ -15917,6 +15916,7 @@ cleidocranial
 cleidohyoid
 cleidoic
 cleidomancy
+circleting
 cleidomastoid
 cleidorrhexis
 checkerbelly
