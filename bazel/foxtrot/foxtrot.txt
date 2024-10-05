@@ -4450,6 +4450,7 @@ fissionable
 fissioned
 frays
 fissions
+follyproof
 fissipalmation
 floorboards
 fissiparism
@@ -10389,7 +10390,6 @@ frondeur
 frondeurs
 frondiferous
 frondiform
-follyproof
 frondigerous
 fraenula
 floodlighted
