@@ -14684,7 +14684,6 @@ cystoadenoma
 cystocarp
 cystocele
 cystocyte
-cystodynia
 cystoelytroplasty
 cystoepiplocele
 cystoepithelioma
@@ -26598,6 +26597,7 @@ counselable
 copita
 counseled
 counselee
+cystodynia
 counseling
 counsellable
 counselled
