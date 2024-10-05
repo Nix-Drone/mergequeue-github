@@ -4147,7 +4147,6 @@ frostlike
 faithwise
 firebombs
 forestery
-fireboot
 firebox
 frogflower
 familiarism
@@ -7318,6 +7317,7 @@ forager
 foraging
 foray
 formable
+fireboot
 forayed
 fodientia
 functionality
