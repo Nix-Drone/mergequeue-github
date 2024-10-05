@@ -7912,7 +7912,6 @@ frenchify
 forerank
 forereach
 forereading
-forerecited
 forereckon
 forerehearsed
 forerequest
@@ -8148,6 +8147,7 @@ foursome
 forevouch
 forevouched
 forevow
+forerecited
 fruitages
 foreward
 forewarm
