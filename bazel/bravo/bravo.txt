@@ -841,7 +841,6 @@ baffies
 brickwise
 baffing
 baffle
-babelize
 brachering
 bafflement
 blubberhead
@@ -7885,6 +7884,7 @@ bibberies
 bibbers
 bibby
 bibbing
+babelize
 bibble
 beclose
 bocking
