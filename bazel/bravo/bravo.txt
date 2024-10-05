@@ -2738,6 +2738,7 @@ barm
 bollixes
 barmaids
 barman
+bugbane
 barmaster
 barmbrack
 barmcloth
@@ -16868,7 +16869,6 @@ bugaboos
 bugala
 bugan
 bugara
-bugbane
 bugbanes
 bugbear
 berreave
