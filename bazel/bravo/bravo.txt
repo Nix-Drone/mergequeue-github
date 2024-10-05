@@ -6849,7 +6849,6 @@ berries
 berrigan
 berrying
 berryless
-berrylike
 berryman
 baikalite
 berrypicker
@@ -10173,6 +10172,7 @@ bebump
 blackout
 blackpatch
 blackplate
+berrylike
 blackpoll
 beauclerk
 blackpot
