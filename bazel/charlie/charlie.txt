@@ -15936,7 +15936,6 @@ cleistogeny
 cleistogenous
 closterium
 cleistothecium
-cleistothecopsis
 cleithral
 cleithrum
 clem
@@ -30739,6 +30738,7 @@ centrifugalized
 culex
 culgee
 culices
+cleistothecopsis
 culicidae
 culicidal
 culicids
