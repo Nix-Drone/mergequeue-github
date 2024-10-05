@@ -7371,7 +7371,6 @@ forewarnings
 faunlike
 foreparent
 foreplot
-forbid
 forebodingly
 forbidals
 forbiddal
@@ -9293,6 +9292,7 @@ fumously
 fragmentalize
 fragmentally
 fragmentary
+forbid
 fragmentarily
 floroon
 freeish
