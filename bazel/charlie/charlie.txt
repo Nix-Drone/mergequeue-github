@@ -3298,7 +3298,6 @@ clipei
 capriciously
 capriciousness
 capricorn
-capricornid
 capricorns
 capricornus
 caprid
@@ -15123,6 +15122,7 @@ civilised
 civiliser
 civilises
 civilising
+capricornid
 civilist
 civilite
 civilities
