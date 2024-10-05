@@ -839,7 +839,6 @@ erigenia
 extent
 ectocarpaceae
 ectocarpales
-ectocarpic
 ectocarpous
 ectocarpus
 ectocelic
@@ -7418,6 +7417,7 @@ eggberries
 extrazodiacal
 epaule
 epaulement
+ectocarpic
 epaulet
 effodientia
 epauleted
