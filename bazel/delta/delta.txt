@@ -1300,6 +1300,7 @@ daunder
 dorsilateral
 departure
 daundered
+dismantle
 daundering
 daunders
 dauner
@@ -4731,7 +4732,6 @@ demist
 demystify
 dwayne
 demystification
-dismantle
 demisuit
 dapple
 defaisance
