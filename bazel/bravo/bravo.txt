@@ -2741,7 +2741,6 @@ barman
 barmaster
 barmbrack
 barmcloth
-brither
 barmecide
 barmen
 barmfel
@@ -8068,6 +8067,7 @@ bicycled
 baroni
 bicycler
 bicyclers
+brither
 backgrounds
 bicyclic
 bicyclical
