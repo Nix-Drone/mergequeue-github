@@ -1923,6 +1923,7 @@ divvies
 debussing
 danger
 duggler
+depots
 debut
 downligging
 debutant
@@ -5871,7 +5872,6 @@ depot
 desistance
 depotentiate
 directorship
-depots
 derive
 depr
 deliberatively
