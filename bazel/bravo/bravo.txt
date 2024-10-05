@@ -4418,7 +4418,6 @@ bemirrorment
 bebusy
 bebuttoned
 bec
-bowlders
 becall
 boisseaux
 becalm
@@ -8980,6 +8979,7 @@ bioelectric
 bioelectrical
 bioelectricity
 bioelectricities
+bowlders
 bioelectrogenesis
 bioelectronics
 babiche
