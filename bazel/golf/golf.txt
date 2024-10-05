@@ -1227,6 +1227,7 @@ ganoids
 gasterophilus
 ganoine
 ganomalite
+gnast
 ganosis
 geometrical
 gansa
@@ -6231,7 +6232,6 @@ gnashed
 gnashing
 gobang
 gnashingly
-gnast
 girr
 gnat
 gnatflower
