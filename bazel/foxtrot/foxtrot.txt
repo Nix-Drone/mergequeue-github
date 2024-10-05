@@ -231,7 +231,6 @@ factualism
 factualistic
 factuality
 factually
-factualness
 facture
 factures
 facula
@@ -3889,6 +3888,7 @@ finale
 finales
 finalis
 finalization
+factualness
 finalize
 finalized
 fragmenting
