@@ -7598,7 +7598,6 @@ grumblers
 gyros
 gyroidally
 grocerly
-gracileness
 graciles
 gracilis
 grillage
@@ -10314,6 +10313,7 @@ gulden
 guldengroschen
 guldens
 genericalness
+gracileness
 gule
 gorlin
 guanaco
