@@ -5332,6 +5332,7 @@ affirm
 affirmable
 affirmably
 affirmance
+ambagious
 affirmant
 affirmation
 affirmations
@@ -9881,7 +9882,6 @@ ambach
 ambage
 ambages
 ambagiosity
-ambagious
 ambagiously
 ambagitory
 ambay
