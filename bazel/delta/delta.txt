@@ -2727,7 +2727,6 @@ deconvolution
 deconvolve
 decopperization
 decopperize
-decor
 decorability
 decorable
 decorably
@@ -17442,6 +17441,7 @@ droskies
 drosograph
 drosometer
 drosophila
+decor
 drosophilae
 drosophilas
 decompile
