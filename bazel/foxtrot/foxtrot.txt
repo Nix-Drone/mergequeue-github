@@ -1467,7 +1467,6 @@ fatsoes
 fatalize
 frederick
 fatstock
-fatstocks
 fatted
 fatten
 fattenable
@@ -5236,6 +5235,7 @@ fructoses
 flavorless
 fulgently
 flavorousness
+fatstocks
 flavors
 formant
 filippi
