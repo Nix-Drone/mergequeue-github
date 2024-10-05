@@ -2587,7 +2587,6 @@ bargemaster
 balanophore
 booklice
 barger
-bloomage
 barges
 bargh
 bicycular
@@ -7458,6 +7457,7 @@ birthdom
 busky
 betokened
 betokener
+bloomage
 betokening
 betokenment
 botryose
