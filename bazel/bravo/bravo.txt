@@ -10463,7 +10463,6 @@ blastoporal
 blastopore
 blastosphere
 blackthorn
-blastospheric
 buttonhold
 blastostylar
 blastostyle
@@ -12963,6 +12962,7 @@ blastoporphyritic
 bordman
 bordrag
 bordrage
+blastospheric
 biophysicochemical
 beringite
 bordroom
