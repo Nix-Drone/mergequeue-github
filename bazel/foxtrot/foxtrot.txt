@@ -3130,7 +3130,6 @@ fibrocyte
 fibrocytic
 floatiness
 fibroenchondroma
-fibroferrite
 fibroglioma
 fissive
 fibrohemorrhagic
@@ -8882,6 +8881,7 @@ fossilizable
 fossilized
 fossilizing
 furcular
+fibroferrite
 fossillike
 foozles
 formly
