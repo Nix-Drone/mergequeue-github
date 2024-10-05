@@ -2467,7 +2467,6 @@ gelded
 gelder
 gelders
 gobmouthed
-geldesprung
 gelding
 geldings
 gelechia
@@ -8142,6 +8141,7 @@ grapes
 grapeshot
 gelatinizing
 grapeskin
+geldesprung
 grapestalk
 grapevines
 grapewise
