@@ -6039,6 +6039,7 @@ depure
 depurge
 depurged
 depurging
+directionally
 depurition
 depursement
 deputable
@@ -10781,7 +10782,6 @@ directional
 drain
 directionality
 directionalize
-directionally
 duny
 directions
 directitude
