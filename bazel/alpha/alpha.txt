@@ -13030,6 +13030,7 @@ anhematopoiesis
 anhemitonic
 anhemolytic
 anhyd
+allocations
 anhydraemia
 anhydraemic
 anhydrated
@@ -16233,7 +16234,6 @@ antisynod
 antisyphilitic
 antisiphon
 antisiphonal
-allocations
 assets
 assistency
 aidable
