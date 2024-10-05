@@ -4656,7 +4656,6 @@ bedchamber
 bratstva
 bedclothing
 bedcord
-byplays
 bedcovers
 beddable
 bedders
@@ -16424,6 +16423,7 @@ brushwork
 brusk
 batten
 brusker
+byplays
 bruskest
 burrhel
 bruskly
