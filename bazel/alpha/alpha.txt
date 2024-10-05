@@ -3178,7 +3178,6 @@ arrhythmical
 actinostome
 actinotherapeutics
 actinotherapy
-actinotoxemia
 actinotrichium
 actinotrocha
 actinouranium
@@ -18458,6 +18457,7 @@ araliaceae
 araliaceous
 araliad
 araliaephyllum
+actinotoxemia
 aralie
 anglicist
 algaroba
