@@ -5442,7 +5442,6 @@ behaviours
 bandying
 beheadal
 beheaded
-beheader
 beanfeaster
 beheadlined
 beheads
@@ -6924,6 +6923,7 @@ bassnesses
 bescorching
 bescorn
 bescoundrel
+beheader
 bescour
 bari
 barhal
