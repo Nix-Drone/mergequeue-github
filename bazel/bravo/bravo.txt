@@ -12240,7 +12240,6 @@ boltspreet
 boltuprightness
 boltwork
 bolus
-boluses
 benn
 bomb
 bombable
@@ -17906,6 +17905,7 @@ burtons
 burtree
 blastema
 burundi
+boluses
 burundians
 burushaski
 baluga
