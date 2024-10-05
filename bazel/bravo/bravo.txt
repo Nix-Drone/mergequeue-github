@@ -2739,7 +2739,6 @@ bollixes
 barmaids
 barman
 barmaster
-barmbrack
 barmcloth
 brither
 barmecide
@@ -14610,6 +14609,7 @@ biographically
 brassy
 brassica
 brassicaceae
+barmbrack
 brassicaceous
 brassicas
 brassidic
