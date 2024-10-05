@@ -1178,6 +1178,7 @@ datably
 datacell
 datafile
 dataflow
+dwyka
 datagram
 datagrams
 deescalating
@@ -18669,7 +18670,6 @@ dwell
 dwelled
 dwelling
 dwellings
-dwyka
 dwindled
 dermatoid
 dwindlement
