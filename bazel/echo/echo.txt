@@ -6661,7 +6661,6 @@ enterogastrone
 egrimonle
 enterogenous
 enterogram
-enterograph
 enterography
 enterohemorrhage
 enterohydrocele
@@ -8269,6 +8268,7 @@ episternal
 enormities
 emaceration
 episternite
+enterograph
 episternum
 elemental
 exitance
