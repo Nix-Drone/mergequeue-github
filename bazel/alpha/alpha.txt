@@ -10403,7 +10403,6 @@ amido
 arsine
 amidoacetal
 amidoacetic
-amidoacetophenone
 amidoaldehyde
 amidoazo
 amidocaffeine
@@ -20886,6 +20885,7 @@ asbestous
 asbestuses
 asbolan
 asbolane
+amidoacetophenone
 asbolin
 asboline
 amnionate
