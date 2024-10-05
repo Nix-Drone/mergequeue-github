@@ -3145,7 +3145,6 @@ capitations
 capitatum
 capite
 capiteaux
-capitellar
 capitellate
 citadel
 catabatic
@@ -7432,6 +7431,7 @@ ceramist
 ceramists
 ceramium
 ceramographic
+capitellar
 counterlocking
 cerasein
 cerasin
