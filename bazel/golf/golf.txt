@@ -2217,7 +2217,6 @@ gazettal
 gazette
 gazetted
 gazetteerish
-gazetteers
 goon
 gazetteership
 gremlin
@@ -3625,6 +3624,7 @@ goners
 getspace
 getsul
 gnawingly
+gazetteers
 guidons
 gitalin
 gilt
