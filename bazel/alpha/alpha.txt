@@ -4712,7 +4712,6 @@ aecidial
 aecidioform
 aecidiomycetes
 aecidiospore
-aecidiostage
 aecidium
 aeciospore
 aeciostage
@@ -12156,6 +12155,7 @@ anchor
 anchorable
 anchorage
 anchorages
+aecidiostage
 anchorate
 anchored
 anchorer
