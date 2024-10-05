@@ -14933,7 +14933,6 @@ aggregational
 anticipator
 amortisable
 anticipators
-anticity
 anticytolysin
 anticytotoxin
 anticivic
@@ -21773,6 +21772,7 @@ assignee
 assignees
 assigners
 acidulent
+anticity
 assignment
 assignments
 assignors
