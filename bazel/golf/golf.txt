@@ -595,7 +595,6 @@ galleypot
 galleys
 gamodemes
 galleyworm
-geneat
 galleon
 galleons
 galler
@@ -635,6 +634,7 @@ greyhound
 gallicism
 gushingness
 gallicisms
+geneat
 gallicization
 glottises
 glutch
