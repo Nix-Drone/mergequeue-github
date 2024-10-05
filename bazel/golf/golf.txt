@@ -5444,7 +5444,6 @@ glycogenize
 glycogenolytic
 glycogenosis
 gingals
-glycogens
 glycohaemia
 glycol
 glycolaldehyde
@@ -9318,6 +9317,7 @@ groomed
 groomers
 glossas
 garrotting
+glycogens
 gorges
 groomy
 glazieries
