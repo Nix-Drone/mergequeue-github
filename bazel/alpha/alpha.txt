@@ -8491,7 +8491,6 @@ alkylarylsulfonate
 alkylate
 alkylated
 alkylates
-alkylating
 alkylation
 alkylbenzenesulfonate
 alkylbenzenesulfonates
@@ -23674,6 +23673,7 @@ animalia
 auslander
 auslaut
 auslaute
+alkylating
 ausones
 auspex
 anisopodous
