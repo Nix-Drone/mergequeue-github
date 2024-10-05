@@ -7822,6 +7822,7 @@ aleft
 alefzero
 alegar
 aleger
+allokurtic
 alehouse
 alehouses
 aleyard
@@ -8841,7 +8842,6 @@ alloisomer
 alloisomeric
 alloisomerism
 allokinetic
-allokurtic
 allolalia
 allolalic
 allomerism
