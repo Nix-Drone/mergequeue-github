@@ -10940,7 +10940,6 @@ disaffections
 disaffiliate
 disaffiliated
 disaffiliates
-disaffiliating
 disaffiliation
 disaffiliations
 disaffinity
@@ -12713,6 +12712,7 @@ dismals
 disman
 dismantlement
 dismantler
+disaffiliating
 dismantles
 dismarble
 dwarflike
