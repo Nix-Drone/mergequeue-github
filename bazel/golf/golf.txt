@@ -7320,7 +7320,6 @@ gossipee
 gossiper
 gossipers
 gossiphood
-gatehouses
 gossipy
 gravitationally
 gossypin
@@ -9769,6 +9768,7 @@ guaba
 glabbella
 guacacoa
 guachamaca
+gatehouses
 guacharo
 guacharoes
 grimacer
