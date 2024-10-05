@@ -562,7 +562,6 @@ bewhite
 backward
 backwardation
 backwardly
-backwardness
 backwards
 bipartible
 backwash
@@ -5068,6 +5067,7 @@ befall
 bodying
 bisphenoid
 brawest
+backwardness
 benzomorpholine
 bisellia
 boneshave
