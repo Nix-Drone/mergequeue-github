@@ -6836,7 +6836,6 @@ aircraftman
 axometer
 aircraftmen
 aircraftsman
-aircraftsmen
 aircraftswoman
 aircraftwoman
 ahint
@@ -9886,6 +9885,7 @@ ambagiously
 ambagitory
 ambay
 amban
+aircraftsmen
 ambar
 abele
 ambarella
