@@ -5721,7 +5721,6 @@ gyrochrome
 gravestone
 globulysis
 globulite
-globulous
 globus
 goldseed
 gravemaking
@@ -6846,6 +6845,7 @@ googols
 gonidiophore
 gonifs
 gonimic
+globulous
 gonimium
 gonimolobe
 gouged
