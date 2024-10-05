@@ -19464,7 +19464,6 @@ colours
 colourtype
 colp
 colpenchyma
-colpeo
 colpeurysis
 colpheg
 colpindach
@@ -20596,6 +20595,7 @@ compilation
 compilations
 compilator
 compileable
+colpeo
 compiled
 compilement
 compiling
