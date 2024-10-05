@@ -5044,6 +5044,7 @@ calculating
 case
 casearia
 casease
+circuited
 caseases
 caseate
 caseated
@@ -14187,7 +14188,6 @@ circue
 circuit
 circuitable
 circuital
-circuited
 circuiteer
 circuiter
 clyer
