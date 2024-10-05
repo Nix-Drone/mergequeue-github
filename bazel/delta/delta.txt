@@ -6040,6 +6040,7 @@ depurge
 depurged
 depurging
 depurition
+discontiguous
 depursement
 deputable
 dichotomously
@@ -11578,7 +11579,6 @@ discontenting
 discontentments
 discontents
 discontiguity
-discontiguous
 discontiguousness
 discontinuable
 dacryocystorhinostomy
