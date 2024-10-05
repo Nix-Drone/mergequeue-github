@@ -5008,6 +5008,7 @@ aerologist
 aerologists
 antieducationist
 aeromaechanic
+antipellagric
 aeromancer
 aeromancy
 aeromechanic
@@ -20719,7 +20720,6 @@ artifactitious
 artifacts
 artifactual
 artifactually
-antipellagric
 artifex
 artifice
 artificer
