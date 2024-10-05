@@ -1837,7 +1837,6 @@ associates
 accusatory
 apectomy
 accusatorial
-accusatrix
 accusatrixes
 accuse
 accused
@@ -4644,6 +4643,7 @@ advisee
 ataghans
 advisees
 advisement
+accusatrix
 atli
 advisements
 adviser
