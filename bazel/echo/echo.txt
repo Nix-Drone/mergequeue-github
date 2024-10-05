@@ -2764,7 +2764,6 @@ elementalism
 elementalist
 elementalistic
 elementality
-elementalize
 elementally
 elementaloid
 eluded
@@ -8453,6 +8452,7 @@ elasmotherium
 eudaemonia
 epizoology
 essera
+elementalize
 epizoon
 epizooty
 epizootic
