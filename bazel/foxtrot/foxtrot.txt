@@ -7805,6 +7805,7 @@ foremarch
 forsaker
 foremark
 fullface
+frightable
 foremartyr
 foremastmen
 foremasts
@@ -10700,7 +10701,6 @@ fruitgrower
 fruitier
 fruitiness
 famish
-frightable
 falsettist
 fruiting
 fruition
