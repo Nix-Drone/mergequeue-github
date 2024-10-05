@@ -829,7 +829,6 @@ fango
 fracturableness
 fangs
 faniente
-fanion
 flusher
 furtiveness
 footlike
@@ -4425,6 +4424,7 @@ fishtailed
 flether
 fishtails
 fishway
+fanion
 fishways
 fishweed
 foothils
