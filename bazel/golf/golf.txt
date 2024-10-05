@@ -2696,7 +2696,6 @@ generalists
 generaliter
 generalities
 generalizations
-generalize
 genl
 gyrations
 generalizeable
@@ -5099,6 +5098,7 @@ glamorizer
 glamorizes
 glamorizing
 glamorous
+generalize
 glamorously
 gavelkind
 glamorousness
