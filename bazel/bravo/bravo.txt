@@ -6479,6 +6479,7 @@ benzols
 benzonaphthol
 benzonitrile
 benzoperoxide
+bowline
 benzophenanthrazine
 benzophenazine
 benzophenol
@@ -12730,7 +12731,6 @@ bookworms
 bucketeer
 bookwright
 bool
-bowline
 boolean
 booleans
 booley
