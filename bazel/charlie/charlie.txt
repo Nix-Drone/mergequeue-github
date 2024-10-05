@@ -18206,7 +18206,6 @@ cofferwork
 coffin
 coffing
 coffining
-coffinless
 consoled
 coffinmaking
 coffins
@@ -25616,6 +25615,7 @@ corraded
 corradial
 corradiate
 corradiated
+coffinless
 corradiating
 corrading
 corral
