@@ -1601,7 +1601,6 @@ deallocate
 deallocated
 daunter
 deallocates
-deallocating
 designating
 deresinize
 deallocation
@@ -10828,6 +10827,7 @@ direx
 dirge
 dirged
 dirgelike
+deallocating
 dirgeman
 dirgie
 diriment
