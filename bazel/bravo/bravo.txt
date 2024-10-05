@@ -6404,6 +6404,7 @@ bipolarize
 benzdifuran
 benzdioxdiazine
 benzdioxtriazine
+betail
 benzein
 benzene
 benzeneazobenzene
@@ -7341,7 +7342,6 @@ beta
 betacaine
 betacismus
 betag
-betail
 blashy
 betailor
 blanked
