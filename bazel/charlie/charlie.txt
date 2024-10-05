@@ -11472,7 +11472,6 @@ choiceful
 choiceless
 cambrics
 choicelessness
-choicely
 choiceness
 caryatides
 choicer
@@ -22213,6 +22212,7 @@ congenitally
 curvicostate
 congenitalness
 congenite
+choicely
 congeon
 conger
 congeree
