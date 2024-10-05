@@ -4707,7 +4707,6 @@ chibouk
 carposporangial
 cerebropathy
 carposporangium
-catalase
 carpospore
 carposporous
 carpostome
@@ -29532,6 +29531,7 @@ criticisable
 criticise
 criticised
 criticising
+catalase
 criticisingly
 criticism
 criticisms
