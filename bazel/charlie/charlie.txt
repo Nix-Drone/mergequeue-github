@@ -5291,7 +5291,6 @@ castellanies
 castellano
 castellans
 castellanship
-castellate
 castellated
 castellation
 castellatus
@@ -16864,6 +16863,7 @@ clubroots
 clubs
 clubstart
 clubster
+castellate
 clubweed
 clubwoman
 clubwomen
