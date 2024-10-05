@@ -4447,6 +4447,7 @@ fissility
 formatter
 fission
 fissionable
+flusterate
 fissioned
 frays
 fissions
@@ -8517,7 +8518,6 @@ formularised
 filmiest
 formularising
 formularist
-flusterate
 figs
 formularistic
 formularized
