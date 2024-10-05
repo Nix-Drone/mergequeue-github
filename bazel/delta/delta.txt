@@ -1446,6 +1446,7 @@ dclass
 dcollet
 dcor
 ddname
+demitube
 disillusionise
 damnatory
 dea
@@ -4755,7 +4756,6 @@ demits
 demitted
 denticulately
 demitting
-demitube
 diglyph
 demiurgeous
 demiurgic
