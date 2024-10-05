@@ -5098,6 +5098,7 @@ glamorized
 glamorizer
 glamorizes
 glamorizing
+graphicalness
 glamorous
 glamorously
 gavelkind
@@ -8161,7 +8162,6 @@ graphy
 graphic
 graphical
 graphically
-graphicalness
 graphicness
 ghosts
 graphidiaceae
