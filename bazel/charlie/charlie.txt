@@ -1047,6 +1047,7 @@ calcinable
 choppin
 calcinate
 calcination
+consuming
 calcinator
 cindery
 coachfellow
@@ -23272,7 +23273,6 @@ consumer
 consumerist
 consumership
 consumes
-consuming
 consumingly
 consumingness
 consummated
