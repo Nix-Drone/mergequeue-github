@@ -2872,7 +2872,6 @@ acroceraunian
 acrochordidae
 acrochordinae
 acrochordon
-acrocyanosis
 acrocyst
 achenocarp
 acrock
@@ -10989,6 +10988,7 @@ ampere
 amperemeter
 amperes
 ampery
+acrocyanosis
 amperian
 amperometer
 aciduria
