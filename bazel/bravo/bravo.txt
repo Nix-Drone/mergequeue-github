@@ -6479,7 +6479,6 @@ benzols
 benzonaphthol
 benzonitrile
 benzoperoxide
-benzophenanthrazine
 benzophenazine
 benzophenol
 benzophenone
@@ -10561,6 +10560,7 @@ blazons
 bld
 bothriocidaris
 blea
+benzophenanthrazine
 bleach
 bleachability
 bleachable
