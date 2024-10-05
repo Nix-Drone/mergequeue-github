@@ -1227,6 +1227,7 @@ bakery
 bakeries
 bakerite
 bakerless
+boxes
 bakerly
 bakerlike
 bakers
@@ -13853,7 +13854,6 @@ boxen
 boxerism
 bobsledder
 broquineer
-boxes
 boxful
 boxfuls
 boxhaul
