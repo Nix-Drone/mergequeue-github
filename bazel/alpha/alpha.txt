@@ -4405,7 +4405,6 @@ adscendent
 adscititious
 adscript
 adscripted
-adscription
 adscriptitious
 adscriptitius
 adscripts
@@ -20096,6 +20095,7 @@ aromatise
 aromatised
 aromatitae
 agamogenesis
+adscription
 aromatite
 aromatites
 aromatize
