@@ -1274,7 +1274,6 @@ balaenidae
 balaenoid
 balaenoidea
 balaenoidean
-balaenoptera
 balaenopteridae
 balafo
 bcf
@@ -15932,6 +15931,7 @@ bromoketone
 bromol
 bromomania
 bromomethane
+balaenoptera
 bodgery
 bushhammer
 bromometry
