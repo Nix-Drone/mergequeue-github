@@ -199,7 +199,6 @@ erythritic
 earthslide
 earthsmoke
 earthtongue
-earthwall
 earthwork
 earthworks
 ecdysones
@@ -10241,6 +10240,7 @@ etherealness
 epoptes
 escherichia
 etherean
+earthwall
 ethered
 etherene
 etabelli
