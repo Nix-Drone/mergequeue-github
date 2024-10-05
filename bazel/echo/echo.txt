@@ -6600,7 +6600,6 @@ enteradenographic
 enteradenological
 enteral
 enterally
-enterate
 enterclose
 enterectomy
 enterectomies
@@ -7674,6 +7673,7 @@ epicoelian
 epicoeloma
 epicoelous
 ep
+enterate
 ecbolics
 elephas
 epicolic
