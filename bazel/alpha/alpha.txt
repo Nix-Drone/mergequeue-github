@@ -3279,7 +3279,6 @@ actuation
 actuator
 abdominohysterectomy
 actuators
-actuose
 acture
 ascents
 acturience
@@ -12347,6 +12346,7 @@ androcentric
 acervuli
 androcephalous
 androcephalum
+actuose
 audits
 androcyte
 androclclinia
