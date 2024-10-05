@@ -7319,7 +7319,6 @@ gossiped
 gossipee
 gossiper
 gossipers
-gossiphood
 gatehouses
 gossipy
 gravitationally
@@ -7871,6 +7870,7 @@ grana
 granada
 granado
 granage
+gossiphood
 granam
 granary
 gawsy
