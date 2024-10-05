@@ -4222,7 +4222,6 @@ bearm
 bearpaw
 bearship
 bearskin
-bearskins
 beartongue
 birdwatch
 bearward
@@ -13062,6 +13061,7 @@ borosalicylate
 borosalicylic
 bellhops
 bemired
+bearskins
 borosilicate
 broncs
 bucktails
