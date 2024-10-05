@@ -3625,6 +3625,7 @@ flagships
 filespec
 forficula
 fossores
+foreread
 fileting
 floatboard
 fylfot
@@ -6202,7 +6203,6 @@ flub
 flubbed
 flubbing
 flubdub
-foreread
 fairgoing
 flubdubberies
 frowstiness
