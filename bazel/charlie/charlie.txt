@@ -9545,7 +9545,6 @@ checkman
 congruencies
 clipeus
 checkmark
-checkmate
 chirosophist
 checkmating
 checkoffs
@@ -16688,6 +16687,7 @@ closuring
 clot
 clotbur
 clapbread
+checkmate
 clote
 chaquetas
 cloth
