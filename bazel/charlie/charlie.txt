@@ -8192,7 +8192,6 @@ chiropodist
 chainmen
 chainomatic
 cultists
-chains
 chainsman
 chainsmen
 cleanups
@@ -9874,6 +9873,7 @@ chemisorb
 chemisorption
 cantator
 counteraverment
+chains
 coprophilic
 chemistry
 crooking
