@@ -11008,6 +11008,7 @@ disannex
 despots
 disannul
 disannulled
+doms
 disannuller
 disannulment
 disincarcerate
@@ -15422,7 +15423,6 @@ dural
 domoid
 dompt
 dompteuse
-doms
 domus
 dona
 donable
