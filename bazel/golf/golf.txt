@@ -2875,7 +2875,6 @@ genome
 genomic
 genoms
 genonema
-gph
 genos
 gerrymandered
 genospecies
@@ -6404,6 +6403,7 @@ geckotoid
 goatpox
 goats
 goatsbane
+gph
 goatsbeard
 genuclast
 goatskin
