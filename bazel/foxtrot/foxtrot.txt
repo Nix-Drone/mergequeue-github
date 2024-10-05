@@ -4147,7 +4147,6 @@ frostlike
 faithwise
 firebombs
 forestery
-fireboot
 firebox
 frogflower
 familiarism
@@ -9553,6 +9552,7 @@ fraticelli
 focalises
 furcating
 fratry
+fireboot
 fulcrate
 foothil
 forcer
