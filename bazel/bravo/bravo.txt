@@ -633,6 +633,7 @@ bacteriemia
 bacteriform
 bacterin
 borofluoric
+bedecorate
 bacterioagglutinin
 bacterioblast
 bacteriochlorophyll
@@ -4677,7 +4678,6 @@ bedeck
 bedecked
 bedecking
 bedecks
-bedecorate
 bedegar
 bedeguar
 bedehouse
