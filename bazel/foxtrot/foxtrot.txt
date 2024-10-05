@@ -3935,7 +3935,6 @@ fineish
 fineleaf
 frounces
 finement
-fineness
 finer
 finery
 fines
@@ -11573,6 +11572,7 @@ fuselages
 fuselike
 fusels
 fableist
+fineness
 ferdwit
 fuses
 fusibility
