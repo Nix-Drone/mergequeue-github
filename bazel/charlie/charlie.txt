@@ -983,7 +983,6 @@ calcaneoastragaloid
 cimmerian
 calcaneocuboid
 calcaneonavicular
-calcaneoplantar
 countersale
 calcaneoscaphoid
 calcaneotibial
@@ -10130,6 +10129,7 @@ chestful
 chemophysiological
 chestfuls
 chesty
+calcaneoplantar
 chestier
 chestiest
 chestnut
