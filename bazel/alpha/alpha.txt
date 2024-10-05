@@ -5070,7 +5070,6 @@ aeroplankton
 aeropleustic
 aeroscepsy
 aurum
-aeroscepsis
 aeroscope
 aeroscopy
 aeroscopically
@@ -19187,6 +19186,7 @@ archspy
 archspirit
 archsteward
 archt
+aeroscepsis
 archthief
 anagrammatist
 archtyrant
