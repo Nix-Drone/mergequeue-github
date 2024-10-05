@@ -3626,6 +3626,7 @@ babesiasis
 bathyplankton
 buglers
 baygall
+bornite
 bathyscaph
 bathyscaphes
 bathyseism
@@ -13037,7 +13038,6 @@ borneol
 borneols
 belaced
 borning
-bornite
 bornites
 bornitic
 boro
