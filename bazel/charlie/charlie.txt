@@ -5814,6 +5814,7 @@ catfight
 creeled
 catfish
 catfoot
+coffeeman
 catfooted
 catgut
 catguts
@@ -18182,7 +18183,6 @@ coffeehoused
 coffeehouses
 coffeehousing
 coffeeleaf
-coffeeman
 coffeepot
 coffeepots
 coffeeroom
