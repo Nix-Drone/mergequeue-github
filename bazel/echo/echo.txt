@@ -1354,7 +1354,6 @@ effectors
 effectress
 effects
 effectual
-effectuality
 effectualness
 effectuated
 effectuates
@@ -4577,6 +4576,7 @@ enforcing
 eromania
 encephalomalacia
 encephalomalacosis
+effectuality
 encephalomalaxis
 encephalomas
 encephalomeningocele
