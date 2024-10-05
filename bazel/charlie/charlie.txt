@@ -5336,6 +5336,7 @@ castlet
 chairwoman
 castleward
 castlewards
+chaine
 castlewise
 castock
 castoff
@@ -8180,7 +8181,6 @@ chain
 chainage
 chainbreak
 conceptions
-chaine
 chained
 chainer
 chainless
