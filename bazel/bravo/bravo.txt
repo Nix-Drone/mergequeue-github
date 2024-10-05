@@ -1679,7 +1679,6 @@ blear
 ballplayer
 ballplayers
 ballplatz
-bedrabbled
 ballpoint
 ballproof
 ballrooms
@@ -9930,6 +9929,7 @@ biune
 biunial
 bulltoad
 bronchiole
+bedrabbled
 biuniquely
 biuniqueness
 biunivocal
