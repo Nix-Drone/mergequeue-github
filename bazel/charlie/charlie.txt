@@ -10102,7 +10102,6 @@ chesoun
 chess
 chessart
 chessboard
-chessboards
 chessdom
 chessel
 chesser
@@ -17227,6 +17226,7 @@ coapprehend
 coapprentice
 coappriser
 coapt
+chessboards
 coaptate
 canonically
 coaptation
