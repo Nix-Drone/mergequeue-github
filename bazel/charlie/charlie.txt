@@ -8607,7 +8607,6 @@ chancellorship
 chancellorships
 chancelor
 chancelry
-calathidium
 chancels
 chanceman
 chancemen
@@ -10875,6 +10874,7 @@ chippable
 chippage
 cordwain
 chippendale
+calathidium
 chipper
 chippered
 chippering
