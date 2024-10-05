@@ -1998,7 +1998,6 @@ bronchium
 bandos
 bandpass
 bandrol
-bandsaw
 bandsawed
 bandsawing
 bandsawn
@@ -2592,6 +2591,7 @@ barges
 bargh
 bicycular
 bargham
+bandsaw
 barghest
 baptism
 barghests
