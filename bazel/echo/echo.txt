@@ -5226,7 +5226,6 @@ endopathic
 endopelvic
 endopeptidase
 endopericarditis
-endoperidium
 etoffe
 endoperitonitis
 elimination
@@ -5403,6 +5402,7 @@ endotoxin
 endotracheal
 endotrophic
 endotropic
+endoperidium
 endoubt
 endoute
 endovaccination
