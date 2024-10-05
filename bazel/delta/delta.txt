@@ -3435,7 +3435,6 @@ deflex
 deflexed
 deflexibility
 deflexible
-deflexing
 deflexion
 deflexionize
 deflexure
@@ -15533,6 +15532,7 @@ dons
 donsie
 donsky
 devocation
+deflexing
 donum
 donut
 donzel
