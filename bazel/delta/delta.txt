@@ -4952,7 +4952,6 @@ demonstrableness
 demonstrably
 demonstrandum
 demonstratability
-demonstratable
 demonstrate
 demonstrated
 demonstratedly
@@ -12538,6 +12537,7 @@ deepfroze
 disinvite
 dargsman
 disinvolvement
+demonstratable
 disyoked
 disyokes
 demogorgon
