@@ -2160,7 +2160,6 @@ elatcha
 elate
 elated
 engrafting
-elatedness
 elater
 elatery
 elaterids
@@ -11399,6 +11398,7 @@ evejar
 evelight
 eveline
 evelong
+elatedness
 even
 enticeful
 engagedly
