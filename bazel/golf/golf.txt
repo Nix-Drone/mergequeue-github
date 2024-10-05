@@ -2239,7 +2239,6 @@ gazzetta
 gcd
 gconv
 gd
-gdinfo
 gds
 grayfish
 globously
@@ -7339,6 +7338,7 @@ guarachas
 gossipped
 grandrelle
 gossipping
+gdinfo
 gossipred
 gossips
 groupist
