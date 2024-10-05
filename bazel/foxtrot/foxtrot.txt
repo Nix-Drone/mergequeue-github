@@ -4824,6 +4824,7 @@ flagworm
 flay
 feridji
 flayed
+forebode
 fault
 front
 flayer
@@ -7532,7 +7533,6 @@ fet
 forebitten
 forebitter
 fizzing
-forebode
 forebodement
 forbbore
 forebodes
