@@ -3455,7 +3455,6 @@ captors
 clientless
 captress
 capturable
-captured
 captures
 capturing
 capuan
@@ -28185,6 +28184,7 @@ crash
 crashed
 confronting
 crasher
+captured
 crashers
 crashes
 crashing
