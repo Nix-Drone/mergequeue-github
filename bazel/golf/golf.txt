@@ -590,7 +590,6 @@ gyrowheel
 goldfields
 gallein
 galipoidin
-galleins
 galleypot
 galleys
 gamodemes
@@ -6682,6 +6681,7 @@ golfers
 golfing
 gie
 glazer
+galleins
 golfings
 golfs
 golgi
