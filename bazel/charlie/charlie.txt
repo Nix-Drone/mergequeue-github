@@ -8121,7 +8121,6 @@ chafes
 chafewax
 chafeweed
 chaff
-chaffcutter
 chaffed
 chaffer
 chemotherapeuticness
@@ -20594,6 +20593,7 @@ competitrix
 compilable
 compilation
 compilations
+chaffcutter
 compilator
 compileable
 compiled
