@@ -14912,7 +14912,6 @@ cytogenic
 cytogenies
 cytogenous
 cytoglobulin
-cytohyaloplasm
 cytoid
 citoyen
 citoyenne
@@ -26112,6 +26111,7 @@ cosmonauts
 cosmoplastic
 cosmopoietic
 cosmopolicy
+cytohyaloplasm
 cosmopolis
 cosmopolises
 cosmopolitan
