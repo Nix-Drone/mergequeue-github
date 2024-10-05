@@ -16865,7 +16865,6 @@ clubs
 clubstart
 clubster
 clubweed
-clubwoman
 clubwomen
 clubwood
 clucked
@@ -25125,6 +25124,7 @@ coriaus
 chonolith
 corybant
 corybantian
+clubwoman
 corybantiasm
 corybantic
 corybantine
