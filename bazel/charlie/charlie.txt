@@ -5815,6 +5815,7 @@ creeled
 catfish
 catfoot
 catfooted
+chan
 catgut
 catguts
 cath
@@ -8579,7 +8580,6 @@ champleve
 champs
 chams
 chamsin
-chan
 carbocinchomeronic
 chanabal
 chanca
