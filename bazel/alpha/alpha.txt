@@ -3855,7 +3855,6 @@ adiapneustia
 articles
 adiate
 adiated
-adiathermal
 adiathermancy
 adiathermic
 adiathetic
@@ -25046,6 +25045,7 @@ awning
 awninged
 adjustor
 awnings
+adiathermal
 awnless
 awnlike
 aorists
