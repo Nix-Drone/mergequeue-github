@@ -4043,6 +4043,7 @@ finishable
 finisher
 finishers
 finishes
+flocci
 finishing
 finitary
 finite
@@ -5409,7 +5410,6 @@ fleetwing
 flegm
 fley
 fleyed
-flocci
 fleyedly
 fleing
 flanges
