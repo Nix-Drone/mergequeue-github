@@ -9838,6 +9838,7 @@ bookbinderies
 bytownite
 bytownitite
 basilosaurus
+boldfaces
 bemoon
 bitreadle
 bitripinnatifid
@@ -17038,7 +17039,6 @@ bulk
 bishoping
 bulkage
 bulked
-boldfaces
 bulkhead
 bulkheading
 bulkheads
