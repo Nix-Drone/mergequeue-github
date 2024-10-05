@@ -1906,7 +1906,6 @@ gastrostomy
 gastrostomies
 gastrostomize
 gastrostomus
-gastrotaxis
 gastrothecal
 gastrotome
 gastrotomy
@@ -8586,6 +8585,7 @@ guisards
 grebo
 grecale
 galvanising
+gastrotaxis
 goods
 grece
 gulas
