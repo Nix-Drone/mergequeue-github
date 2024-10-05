@@ -763,7 +763,6 @@ badgeman
 barrels
 boraciferous
 badgemen
-badger
 badgerbrush
 badgered
 badgerer
@@ -5606,6 +5605,7 @@ beladies
 biscuiting
 beladying
 bodhi
+badger
 brokenness
 beladle
 belage
