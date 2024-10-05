@@ -1105,7 +1105,6 @@ bailments
 bailo
 bailor
 bailors
-bailout
 bails
 bayou
 bailsman
@@ -3840,6 +3839,7 @@ batts
 bottom
 battu
 battue
+bailout
 battues
 batture
 battuta
