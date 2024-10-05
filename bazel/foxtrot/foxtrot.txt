@@ -5590,7 +5590,6 @@ feoffment
 fissural
 fligged
 fligger
-feodum
 flight
 flighted
 flighter
@@ -10967,6 +10966,7 @@ fluvial
 flame
 fulminatory
 fulmined
+feodum
 fulmines
 fulminurate
 fulminuric
