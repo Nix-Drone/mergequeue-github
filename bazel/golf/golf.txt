@@ -5837,7 +5837,6 @@ gastropods
 guilders
 gloss
 glossa
-glossolabiolaryngeal
 glossal
 gudebrother
 glossalgy
@@ -9179,6 +9178,7 @@ gametogeny
 grisoutine
 grissen
 grisset
+glossolabiolaryngeal
 grist
 gaspiness
 greenlet
