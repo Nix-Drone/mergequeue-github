@@ -6972,7 +6972,6 @@ fatheads
 follow
 followable
 followed
-follower
 foisting
 followers
 followingly
@@ -11012,6 +11011,7 @@ fumarolic
 fumatory
 fumatoria
 fetlock
+follower
 fumatorium
 fumatoriums
 fasted
