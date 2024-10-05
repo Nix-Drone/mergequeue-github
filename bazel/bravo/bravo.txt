@@ -630,7 +630,6 @@ bidget
 bibliothecal
 bacterid
 bacteriemia
-bacteriform
 bacterin
 borofluoric
 bacterioagglutinin
@@ -9007,6 +9006,7 @@ biogenesist
 biogenetic
 beingless
 biogenetically
+bacteriform
 bacteriotropin
 biogenetics
 backspace
