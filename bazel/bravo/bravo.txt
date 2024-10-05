@@ -4962,7 +4962,6 @@ bedrock
 beeheaded
 beeherd
 bouncing
-beehive
 beehives
 breathes
 breakfaster
@@ -13229,6 +13228,7 @@ bencite
 boswellia
 boswellian
 boswelliana
+beehive
 bowge
 boswellism
 berean
