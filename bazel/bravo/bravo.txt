@@ -6110,7 +6110,6 @@ bemuse
 bemuses
 bemusk
 bemuzzle
-bemuzzled
 bol
 belswagger
 bemuzzles
@@ -6529,6 +6528,7 @@ bepaint
 bepainted
 belady
 bepale
+bemuzzled
 bepaper
 beparch
 beparse
