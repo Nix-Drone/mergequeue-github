@@ -11639,7 +11639,6 @@ coxalgic
 cholesteatoma
 cholesteatomatous
 cholestene
-cholesteremia
 cholesteric
 cholesteryl
 cholesterin
@@ -18342,6 +18341,7 @@ cognoscibility
 cognoscing
 cognoscitive
 cognoscitively
+cholesteremia
 cognovit
 cognovits
 cogonal
