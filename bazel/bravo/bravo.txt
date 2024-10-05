@@ -459,7 +459,6 @@ backsides
 backsight
 blolly
 backsite
-boll
 bellyfulls
 backslapped
 backslapper
@@ -4863,6 +4862,7 @@ bedstring
 bedswerver
 bedtick
 bedticks
+boll
 bices
 bate
 bedtime
