@@ -4460,7 +4460,6 @@ dematerialise
 duchery
 decubation
 dematerialised
-daimyo
 dematerialising
 dematerialize
 dematerialized
@@ -12308,6 +12307,7 @@ dishelm
 dishelmed
 dishelming
 dishelms
+daimyo
 disher
 damas
 disherent
