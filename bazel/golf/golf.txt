@@ -517,7 +517,6 @@ galerie
 galerum
 galerus
 gales
-galesaur
 galesaurus
 galet
 garrya
@@ -10608,6 +10607,7 @@ guppies
 gusting
 gur
 guran
+galesaur
 gurdle
 gurdwara
 gurged
