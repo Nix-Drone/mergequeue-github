@@ -1438,7 +1438,6 @@ garlandlike
 garlandry
 galvanist
 garle
-garlic
 glycolylurea
 garliclike
 gutted
@@ -5381,6 +5380,7 @@ geomedicine
 gliadines
 gliadins
 glaucophane
+garlic
 glib
 glibber
 grippy
