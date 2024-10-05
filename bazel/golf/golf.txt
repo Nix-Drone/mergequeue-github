@@ -3600,7 +3600,6 @@ gestural
 gallimaufries
 gangwaymen
 gesture
-gestureless
 gesturers
 gesturist
 geswarp
@@ -10518,6 +10517,7 @@ gamesmanship
 gunmaking
 guelphic
 gunmen
+gestureless
 gunmetal
 genesis
 gunmetals
