@@ -6690,7 +6690,6 @@ aigialosauridae
 aigialosaurus
 aiglet
 antsy
-aiglets
 aiglette
 aigre
 aigremore
@@ -22168,6 +22167,7 @@ astragalocalcaneal
 astragalocentral
 astragalomancy
 astragalonavicular
+aiglets
 astragaloscaphoid
 astragalotibial
 astragals
