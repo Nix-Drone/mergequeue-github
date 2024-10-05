@@ -16107,7 +16107,6 @@ cliff
 cliffed
 comenic
 cliffhang
-cliffhanger
 cliffhangers
 clammer
 cliffhanging
@@ -23334,6 +23333,7 @@ contagious
 contagiousness
 contagium
 contain
+cliffhanger
 containable
 contained
 colligance
