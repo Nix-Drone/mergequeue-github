@@ -450,6 +450,7 @@ erf
 eccyesis
 eccl
 eccles
+exciples
 entropies
 ecclesia
 ecclesiarchy
@@ -2633,7 +2634,6 @@ electrostatical
 electrosteel
 electrostenolysis
 electrostenolytic
-exciples
 electrostriction
 elinvar
 eupione
