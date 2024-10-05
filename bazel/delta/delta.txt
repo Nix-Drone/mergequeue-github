@@ -2133,7 +2133,6 @@ decarburise
 decarburised
 decarburising
 decarburize
-decarburized
 decarburizing
 dodecagonal
 dismask
@@ -11555,6 +11554,7 @@ disconnecting
 disconnection
 disconnective
 disconnector
+decarburized
 disconnects
 disconsent
 dithering
