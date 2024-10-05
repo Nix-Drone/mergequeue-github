@@ -12807,6 +12807,7 @@ chunkiness
 chunking
 chunks
 chunner
+cofound
 chuntered
 chuntering
 chunters
@@ -18220,7 +18221,6 @@ cofighter
 cofinal
 coforeknown
 coformulator
-cofound
 cofounded
 cofounder
 cofounding
