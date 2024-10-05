@@ -434,6 +434,7 @@ backpointers
 backrest
 backrope
 brimstony
+bewhisker
 backropes
 boskets
 backrush
@@ -7631,7 +7632,6 @@ bewend
 bewept
 bewest
 bewhig
-bewhisker
 bewhiskered
 bewhisper
 bromatology
