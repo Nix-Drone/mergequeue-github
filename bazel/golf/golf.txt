@@ -2872,7 +2872,6 @@ gawp
 genoese
 genoise
 genome
-genomic
 genoms
 genonema
 gph
@@ -6353,6 +6352,7 @@ goa
 grammar
 gorgonaceous
 grammaticize
+genomic
 glycosidic
 garibaldi
 goadlike
