@@ -6384,7 +6384,6 @@ benzaldehyde
 benzaldoxime
 benumb
 bandeaus
-benzalethylamine
 benzalphenylhydrazone
 benzalphthalide
 benzamide
@@ -14510,6 +14509,7 @@ balsamea
 brandied
 brandify
 brandyman
+benzalethylamine
 branding
 brandiron
 bombloads
