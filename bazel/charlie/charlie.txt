@@ -5728,7 +5728,6 @@ categorem
 categorematic
 categorematical
 category
-categorial
 categoric
 chondrified
 categorical
@@ -24093,6 +24092,7 @@ conversazione
 conversaziones
 conversazioni
 converse
+categorial
 copybooks
 conversed
 converser
