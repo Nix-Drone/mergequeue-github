@@ -9880,7 +9880,6 @@ crooking
 chemistries
 chemists
 chemitype
-chemitypy
 chemitypies
 chemizo
 chemmy
@@ -20939,6 +20938,7 @@ compromitted
 compsilura
 compsoa
 cremnophobia
+chemitypy
 compsognathus
 compsothlypidae
 compt
