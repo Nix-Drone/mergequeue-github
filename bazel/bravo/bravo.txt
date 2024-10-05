@@ -3104,6 +3104,7 @@ barware
 barwares
 bratticer
 bravoite
+barometrograph
 basad
 backhouse
 basale
@@ -15749,7 +15750,6 @@ brodeglass
 broderer
 brodiaea
 bilateralistic
-barometrograph
 berberin
 brodyaga
 bilirubin
