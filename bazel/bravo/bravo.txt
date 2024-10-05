@@ -2752,6 +2752,7 @@ barmote
 barms
 barmskin
 barnabas
+bronchi
 barnaby
 barnacle
 barnacled
@@ -15953,7 +15954,6 @@ breakfront
 bromus
 bromvoel
 bronc
-bronchi
 bronchia
 brooding
 bronchiarctia
