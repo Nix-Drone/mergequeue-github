@@ -3648,7 +3648,6 @@ adenemphractic
 adenyl
 adenylic
 adenylpyrophosphate
-adenin
 adenine
 adenitis
 adenitises
@@ -8843,6 +8842,7 @@ alloisomerism
 allokinetic
 allokurtic
 allolalia
+adenin
 allolalic
 allomerism
 allomerization
