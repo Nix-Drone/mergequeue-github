@@ -3380,6 +3380,7 @@ baskish
 basnat
 baltic
 basoche
+bulleted
 basocyte
 basoga
 braciolas
@@ -17111,7 +17112,6 @@ buller
 bullescene
 bullet
 barspoon
-bulleted
 bullethead
 bulletheadedness
 brennage
