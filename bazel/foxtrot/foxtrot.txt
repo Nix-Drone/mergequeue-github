@@ -1718,7 +1718,6 @@ fear
 fanflower
 fimbles
 fusillade
-filterable
 fetcher
 fearedly
 firebreaks
@@ -9126,6 +9125,7 @@ fowk
 fowl
 fowled
 fowler
+filterable
 fowlery
 fowlerite
 fowlers
