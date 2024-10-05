@@ -737,7 +737,6 @@ gallow
 galloway
 gallowglass
 gallows
-glar
 gallowses
 giterne
 graduale
@@ -2237,6 +2236,7 @@ grainer
 graders
 gazzetta
 gcd
+glar
 gconv
 gd
 gdinfo
