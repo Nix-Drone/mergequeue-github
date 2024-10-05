@@ -1816,7 +1816,6 @@ eyepiece
 eyepit
 eyepoint
 eyereach
-eyeroot
 electromobilism
 eyes
 endotheliocyte
@@ -8864,6 +8863,7 @@ erasers
 erases
 erasion
 elod
+eyeroot
 erasmian
 erasmus
 ethnomaniac
