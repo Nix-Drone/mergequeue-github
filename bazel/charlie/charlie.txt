@@ -9938,6 +9938,7 @@ chemostat
 collateral
 cancers
 chemosterilants
+compensated
 chemosurgery
 chemosurgical
 chemotactic
@@ -21336,7 +21337,6 @@ centremost
 conciliar
 conciliarism
 conciliarly
-compensated
 conciliate
 conciliated
 conciliates
