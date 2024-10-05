@@ -6586,6 +6586,7 @@ bepuzzle
 bepuzzlement
 bequalm
 bequeath
+boundedly
 bequeathal
 bequeathed
 bequeather
@@ -13546,7 +13547,6 @@ boundary
 backdate
 bountith
 bounded
-boundedly
 boundedness
 bonfires
 bounder
