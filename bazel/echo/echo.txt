@@ -7338,7 +7338,6 @@ eopalaeozoic
 eopaleozoic
 eophytic
 eophyton
-exteriorization
 eorhyolite
 eos
 eosate
@@ -8919,6 +8918,7 @@ espied
 ecoid
 eremochaeta
 eremochaetous
+exteriorization
 eremology
 eremophilous
 eremuri
