@@ -20217,7 +20217,6 @@ arrest
 arrestable
 arrestant
 albi
-arrestation
 anophyte
 arrested
 arrestees
@@ -20362,6 +20361,7 @@ arsenicate
 arsenicated
 arsenicating
 arsenicism
+arrestation
 autothermy
 arsenicked
 arsenicophagy
