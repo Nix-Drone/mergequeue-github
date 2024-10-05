@@ -5672,6 +5672,7 @@ depertible
 depetalize
 depetticoat
 dephase
+disassembles
 dephased
 dephasing
 dephycercal
@@ -11090,7 +11091,6 @@ disassemble
 dourade
 disassembled
 disassembler
-disassembles
 descriptors
 disassembling
 disassent
