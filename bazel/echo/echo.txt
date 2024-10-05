@@ -189,7 +189,6 @@ electroplated
 electrodeposit
 exprobratory
 epiclesis
-earthsets
 earthshaker
 earthshaking
 earthshattering
@@ -6328,6 +6327,7 @@ echinal
 ensconced
 emporium
 ectypes
+earthsets
 ensconcing
 enscroll
 endosiphon
