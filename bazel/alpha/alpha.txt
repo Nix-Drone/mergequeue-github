@@ -11259,7 +11259,6 @@ ampholytic
 abaff
 amphophile
 amphophilic
-amphora
 amphorae
 amphoral
 amphore
@@ -24412,6 +24411,7 @@ autosuggestion
 autosuggestionist
 arak
 autosuppression
+amphora
 autota
 autotelegraph
 autotelic
