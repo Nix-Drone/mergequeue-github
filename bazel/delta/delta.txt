@@ -269,6 +269,7 @@ dextrogyration
 daggerlike
 daggerproof
 daggers
+doorways
 dagging
 disavaunce
 daggled
@@ -15628,7 +15629,6 @@ doorstone
 doorstop
 deaconize
 doorway
-doorways
 doorward
 doorweed
 doorwise
