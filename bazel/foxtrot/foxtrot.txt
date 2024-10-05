@@ -4124,6 +4124,7 @@ fireable
 firearm
 firearms
 fireback
+fortifies
 fumeuses
 favourably
 fireballs
@@ -8726,7 +8727,6 @@ fortifications
 fortifier
 florets
 fortifiers
-fortifies
 fafnir
 fortifying
 fortifyingly
