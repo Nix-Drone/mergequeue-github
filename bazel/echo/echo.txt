@@ -3180,7 +3180,6 @@ elsewheres
 elsholtzia
 elsin
 elt
-eltrot
 eluant
 episcleritis
 enterophthisis
@@ -4911,6 +4910,7 @@ enrichment
 encumberment
 encumbers
 encumbrance
+eltrot
 electrometeor
 ectoderm
 encurl
