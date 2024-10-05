@@ -5357,7 +5357,6 @@ birne
 begrett
 begrim
 begrimed
-begrimer
 begrimes
 bombsight
 begrimmed
@@ -14710,6 +14709,7 @@ bove
 braxy
 braxies
 braza
+begrimer
 brazas
 brazed
 brazee
