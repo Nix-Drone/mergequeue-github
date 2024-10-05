@@ -9164,7 +9164,6 @@ charting
 chartism
 chartist
 chartists
-chartless
 chartlet
 chartographer
 chartography
@@ -12024,6 +12023,7 @@ corresol
 chorogi
 chorograph
 chorographer
+chartless
 chorography
 chorographical
 chorographically
