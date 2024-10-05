@@ -2247,7 +2247,6 @@ elecives
 electability
 electable
 electant
-electary
 epithet
 enthraldom
 elysee
@@ -9188,6 +9187,7 @@ erythromelalgia
 erythroneocytosis
 erythronium
 erythropenia
+electary
 erythrophage
 erythrophagous
 erythrophyll
