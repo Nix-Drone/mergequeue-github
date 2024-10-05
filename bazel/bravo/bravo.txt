@@ -10031,6 +10031,7 @@ bklr
 backsey
 bkpt
 bocasine
+blepharoptosis
 bks
 bkt
 bl
@@ -10754,7 +10755,6 @@ blepharophyma
 blepharoplast
 blepharoplastic
 blepharoplegia
-blepharoptosis
 blepharorrhaphy
 blepharosymphysis
 blepharosyndesmitis
