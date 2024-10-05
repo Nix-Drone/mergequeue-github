@@ -9572,7 +9572,6 @@ consummatively
 checkrows
 checks
 checkstrap
-checkstring
 checksum
 construct
 checksummed
@@ -29893,6 +29892,7 @@ crosslighted
 crosslike
 carbosilicate
 crossline
+checkstring
 cymas
 crosslink
 crossness
