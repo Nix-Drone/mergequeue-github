@@ -3800,7 +3800,6 @@ battledores
 baldly
 boyar
 battledoring
-borehole
 battlefront
 battlefronts
 battleful
@@ -6285,6 +6284,7 @@ benighter
 benightment
 benign
 benignancy
+borehole
 brinston
 benignancies
 barked
