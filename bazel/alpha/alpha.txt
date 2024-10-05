@@ -5383,7 +5383,6 @@ affluence
 affluency
 affluent
 affluently
-affluentness
 affluents
 abscise
 afflux
@@ -22834,6 +22833,7 @@ atragene
 amphineura
 atrail
 atrament
+affluentness
 atramental
 atramentary
 armet
