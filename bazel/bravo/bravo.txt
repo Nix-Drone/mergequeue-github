@@ -12971,7 +12971,6 @@ bordun
 bordure
 bordures
 bore
-boreable
 boread
 boreal
 borealis
@@ -17118,6 +17117,7 @@ brennage
 bogman
 bulletined
 bulletining
+boreable
 bulletins
 bulletless
 bulletlike
