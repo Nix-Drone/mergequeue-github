@@ -3330,7 +3330,6 @@ gerb
 gypsography
 gerbera
 gardencraft
-gerbil
 gerbilles
 groutnoll
 gunbearer
@@ -8490,6 +8489,7 @@ growl
 guiltlessly
 gravitation
 gravitations
+gerbil
 gauffering
 gravitative
 gravity
