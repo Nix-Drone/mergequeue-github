@@ -8341,6 +8341,7 @@ dialyzed
 dialyzer
 dialyzes
 dowhacky
+diplomatist
 dialkyl
 dispell
 dialkylamine
@@ -10586,7 +10587,6 @@ diplomates
 diplomatically
 diplomatique
 diplomatism
-diplomatist
 diplomatists
 diplomatology
 diauli
