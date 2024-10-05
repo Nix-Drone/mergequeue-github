@@ -1113,6 +1113,7 @@ floter
 foredestining
 faroelite
 foremast
+forepointer
 farolito
 faros
 farouche
@@ -7881,7 +7882,6 @@ forepleasure
 flits
 fearnaught
 forepoint
-forepointer
 forepole
 forepoled
 fruitions
