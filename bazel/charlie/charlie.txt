@@ -2100,7 +2100,6 @@ creedbound
 campodeid
 campodeidae
 campodeiform
-campodeoid
 campody
 campong
 campongs
@@ -10064,6 +10063,7 @@ chersydridae
 chert
 chainon
 cherte
+campodeoid
 chertiest
 cherts
 cherub
