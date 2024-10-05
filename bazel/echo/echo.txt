@@ -1805,6 +1805,7 @@ eyelid
 eyelids
 engining
 eyeliner
+edict
 eatage
 epilogate
 eyeliners
@@ -10282,7 +10283,6 @@ etherize
 etherized
 etherizes
 etherizing
-edict
 eudora
 ethernet
 etherolate
