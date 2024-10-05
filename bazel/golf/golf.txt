@@ -5859,7 +5859,6 @@ glossed
 glossematics
 grenado
 glossemes
-glossemic
 girondism
 glosser
 glossers
@@ -10522,6 +10521,7 @@ gunmetal
 genesis
 gunmetals
 gunnage
+glossemic
 gunnar
 gobbing
 gunne
