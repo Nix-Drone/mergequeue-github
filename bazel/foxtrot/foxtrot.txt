@@ -4969,7 +4969,6 @@ flanked
 flanker
 flankers
 falconries
-fringilliform
 fireshaft
 flanking
 flanks
@@ -10480,6 +10479,7 @@ frontoorbital
 frontosphenoidal
 frontotemporal
 frontozygomatic
+fringilliform
 frontsman
 frontspieces
 frontstall
