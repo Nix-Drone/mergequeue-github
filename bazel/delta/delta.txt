@@ -3379,7 +3379,6 @@ definitions
 definitise
 dilatant
 definitised
-domesticable
 disoccupied
 definitising
 definitive
@@ -10311,6 +10310,7 @@ dioptrometry
 dioptroscopy
 diorama
 dioramas
+domesticable
 driftpiece
 dioramic
 diordinal
