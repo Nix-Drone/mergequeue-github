@@ -11369,7 +11369,6 @@ amt
 amtman
 amtrac
 amtrack
-amtracks
 amtracs
 aeroporotomy
 amtrak
@@ -20187,6 +20186,7 @@ arranger
 arrangers
 arranges
 arranging
+amtracks
 arrantly
 arrantness
 arras
