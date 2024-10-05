@@ -4197,7 +4197,6 @@ firehall
 firehalls
 fronton
 feverweed
-fluff
 fresison
 firehouses
 fireless
@@ -5778,6 +5777,7 @@ flitters
 flitty
 flitting
 flivver
+fluff
 fumariaceous
 flyway
 fruit
