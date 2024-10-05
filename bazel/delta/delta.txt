@@ -2980,7 +2980,6 @@ deducibly
 deducing
 deducive
 deducted
-deductibility
 deductible
 deductibles
 deductile
@@ -7817,6 +7816,7 @@ disard
 desmocyte
 dewaxed
 dewaxing
+deductibility
 dewberry
 dewberries
 dewclaw
