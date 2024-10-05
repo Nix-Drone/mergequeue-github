@@ -2268,7 +2268,6 @@ cancans
 canccelli
 cancelability
 cancelable
-cancelation
 canceled
 canceleer
 concipiency
@@ -14584,6 +14583,7 @@ ciscos
 cise
 comprisable
 ciseaux
+cancelation
 cisele
 courante
 ciseleurs
