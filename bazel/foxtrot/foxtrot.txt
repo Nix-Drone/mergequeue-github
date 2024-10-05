@@ -141,7 +141,6 @@ faconne
 facsim
 frena
 facsimile
-facsimiled
 fastest
 facsimileing
 fyttes
@@ -6039,6 +6038,7 @@ flatterable
 florification
 fishermen
 florigen
+facsimiled
 floriken
 florilage
 furtherances
