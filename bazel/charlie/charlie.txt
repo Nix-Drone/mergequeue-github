@@ -8457,6 +8457,7 @@ chambellan
 chamber
 chamberdeacon
 chambered
+consumed
 chamberer
 catocala
 colonopathy
@@ -23265,7 +23266,6 @@ caroli
 consumated
 consumating
 consume
-consumed
 consumedly
 consumeless
 consumer
