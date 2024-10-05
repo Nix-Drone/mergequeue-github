@@ -8821,7 +8821,6 @@ chapelmaster
 chapelry
 colorate
 chapelries
-chapels
 cardiologies
 chapelward
 chaperno
@@ -26850,6 +26849,7 @@ counterindentation
 counterindented
 counterindicate
 counterindication
+chapels
 countermining
 counterinfluence
 countering
