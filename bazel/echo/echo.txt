@@ -5819,7 +5819,6 @@ engravers
 engraves
 easts
 engysseismology
-endophytous
 engravings
 engreaten
 engrege
@@ -12413,6 +12412,7 @@ exflagellation
 exflect
 exfodiation
 exfoliate
+endophytous
 endower
 endemically
 exfoliated
