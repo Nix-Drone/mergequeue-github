@@ -16791,7 +16791,6 @@ cloverleaf
 cloverleafs
 cloverleaves
 cloverley
-cloveroot
 cloverroot
 cloves
 clovewort
@@ -31616,6 +31615,7 @@ curvilinear
 curvilinearity
 curvimeter
 curvinervate
+cloveroot
 curvinerved
 curviness
 curving
