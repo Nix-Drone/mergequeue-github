@@ -7031,7 +7031,6 @@ destrier
 destriers
 destroy
 destroyable
-destroyed
 dismays
 destroyer
 destroyers
@@ -14575,6 +14574,7 @@ dmarche
 disinherit
 divid
 dmod
+destroyed
 dn
 dnieper
 do
