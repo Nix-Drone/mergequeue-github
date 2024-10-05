@@ -6275,6 +6275,7 @@ dodecanesian
 dermatopathology
 dermatopathophobia
 dermatophagus
+drawfile
 dermatophyte
 dermatophytosis
 devocalised
@@ -16825,7 +16826,6 @@ drawer
 drawerful
 declamation
 drawers
-drawfile
 disallowances
 dissuited
 drawfiling
