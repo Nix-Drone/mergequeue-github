@@ -3721,6 +3721,7 @@ gherkin
 gnathalgia
 gap
 glutathione
+gippy
 galyaks
 ghettoed
 ghettoes
@@ -4581,7 +4582,6 @@ gypped
 gypper
 gyppery
 gippers
-gippy
 gypping
 gyppo
 gips
