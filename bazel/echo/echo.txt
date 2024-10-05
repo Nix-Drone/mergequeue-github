@@ -4580,7 +4580,6 @@ encephalomalacosis
 encephalomalaxis
 encephalomas
 encephalomeningocele
-encephalometric
 encephalomyelitic
 encephalomyelitis
 erucin
@@ -4622,6 +4621,7 @@ enchaining
 excrementitious
 enchainments
 epiblema
+encephalometric
 enchancement
 extension
 enchanted
