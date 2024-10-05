@@ -8505,7 +8505,6 @@ alkyls
 alkin
 alkine
 alkyne
-alkynes
 alkitran
 alkool
 alkoran
@@ -12076,6 +12075,7 @@ anatomized
 anatomizer
 anatomizes
 anatomizing
+alkynes
 anatomopathologic
 anatopism
 anatosaurus
