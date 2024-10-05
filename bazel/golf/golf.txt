@@ -9471,7 +9471,6 @@ groundwall
 gandum
 groundward
 groundwards
-group
 groupable
 groupage
 groupageness
@@ -10440,6 +10439,7 @@ galactagoguic
 gumption
 gumptionless
 garnishing
+group
 gibbon
 gumptious
 gumpus
