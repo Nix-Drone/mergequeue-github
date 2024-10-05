@@ -1935,7 +1935,6 @@ ectad
 eirack
 eyrant
 eyras
-eire
 eyre
 eyren
 eirenarch
@@ -2631,6 +2630,7 @@ electrosmosis
 electrostatic
 electrostatical
 electrosteel
+eire
 electrostenolysis
 electrostenolytic
 exciples
