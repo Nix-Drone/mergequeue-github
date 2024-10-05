@@ -14136,7 +14136,6 @@ antefix
 antefixa
 anteflected
 anteflexed
-anteflexion
 antefurca
 antefurcae
 antefurcal
@@ -22032,6 +22031,7 @@ asterisking
 asconia
 asteriskos
 asterisks
+anteflexion
 assoils
 asterism
 asterismal
