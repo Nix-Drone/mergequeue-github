@@ -1111,6 +1111,7 @@ farnesses
 faro
 floter
 foredestining
+forleave
 faroelite
 foremast
 farolito
@@ -8349,7 +8350,6 @@ forlain
 forlanas
 fragrancies
 forlane
-forleave
 forleaving
 forleit
 futuristic
