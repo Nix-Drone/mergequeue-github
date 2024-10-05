@@ -6475,7 +6475,6 @@ benzol
 benzole
 benzoline
 benzolize
-benzols
 benzonaphthol
 benzonitrile
 benzoperoxide
@@ -11697,6 +11696,7 @@ bobstays
 bobtail
 bobtailed
 bobtailing
+benzols
 bobwhite
 bellhanging
 bobwhites
