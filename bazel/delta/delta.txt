@@ -9228,7 +9228,6 @@ diestock
 death
 diestrous
 drawbridge
-diestrual
 diestrum
 diestrums
 diestruses
@@ -17541,6 +17540,7 @@ drug
 drugeteria
 drugge
 drugger
+diestrual
 dislodge
 duplon
 deliverability
