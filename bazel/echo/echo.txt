@@ -7911,7 +7911,6 @@ epigrapher
 eftest
 epigraphy
 egyptianization
-epigraphic
 epigraphical
 epigraphist
 epigraphs
@@ -8267,6 +8266,7 @@ entocoelic
 epistena
 episternal
 enormities
+epigraphic
 emaceration
 episternite
 episternum
