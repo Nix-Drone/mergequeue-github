@@ -2393,7 +2393,6 @@ gekkones
 gekkonid
 gomeisa
 gekkonoid
-greedy
 groat
 gel
 gelable
@@ -6725,6 +6724,7 @@ gelechiidae
 goma
 gametophobia
 guestchamber
+greedy
 gruffily
 gomart
 gomashta
