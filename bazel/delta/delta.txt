@@ -1183,7 +1183,6 @@ datagrams
 deescalating
 datakit
 datamation
-datana
 diospyraceae
 datapac
 datapunch
@@ -4491,6 +4490,7 @@ dobule
 dement
 dementate
 dementation
+datana
 dementedly
 dementedness
 dementholize
