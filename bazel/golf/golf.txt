@@ -2256,7 +2256,6 @@ genocides
 grieving
 gearcase
 gardeen
-gearcases
 gearman
 gears
 guernseys
@@ -5717,6 +5716,7 @@ gossipmonger
 globulimeter
 gurges
 globulins
+gearcases
 gyrochrome
 gravestone
 globulysis
