@@ -2438,7 +2438,6 @@ galactoside
 genom
 gelatinity
 gelatinizability
-gelatinizable
 gelatinization
 gruppetto
 gelatinized
@@ -2700,6 +2699,7 @@ generalize
 genl
 gyrations
 generalizeable
+gelatinizable
 genappe
 generalized
 glassily
