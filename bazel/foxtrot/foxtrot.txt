@@ -1621,7 +1621,6 @@ fledglings
 findability
 favissa
 favorable
-favorableness
 farris
 floridian
 favored
@@ -7167,6 +7166,7 @@ footfolk
 foveolated
 footganger
 footgears
+favorableness
 footgrip
 fruticulture
 foothalt
