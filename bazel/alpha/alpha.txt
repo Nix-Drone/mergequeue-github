@@ -506,7 +506,6 @@ abjunctive
 abjuration
 abjurations
 abjuratory
-abjure
 abjured
 abjurement
 abjurer
@@ -8058,6 +8057,7 @@ accustomize
 algerite
 algernon
 algesia
+abjure
 algesimeter
 algesiometer
 algesis
