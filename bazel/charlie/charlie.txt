@@ -12564,7 +12564,6 @@ chronical
 chronically
 cismarine
 chronicle
-chronicled
 chronicler
 chroniclers
 chronicles
@@ -24099,6 +24098,7 @@ converser
 cordovan
 conversi
 cordon
+chronicled
 conversibility
 contrition
 codirected
