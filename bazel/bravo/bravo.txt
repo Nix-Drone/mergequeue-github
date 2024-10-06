@@ -3013,7 +3013,6 @@ barrier
 barriers
 barriguda
 barrigudos
-broadaxe
 barrikin
 burled
 barriness
@@ -9280,6 +9279,7 @@ bipedal
 bipedality
 bipedism
 bipeds
+broadaxe
 bipeltate
 blepharophthalmia
 bipennate
