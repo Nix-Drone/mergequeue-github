@@ -1317,7 +1317,6 @@ acanthotic
 acanthous
 acanthuses
 acanthuthi
-acapnia
 acapnias
 acapsular
 acapu
@@ -20921,6 +20920,7 @@ ascendants
 ascendence
 ascendency
 alloeosis
+acapnia
 ascendent
 ascenders
 ascendible
