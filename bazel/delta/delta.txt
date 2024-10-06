@@ -3872,7 +3872,6 @@ dicellate
 discant
 deionization
 deionizations
-deionize
 deionized
 denegate
 deionizer
@@ -11742,6 +11741,7 @@ discrepated
 discrepating
 discrepation
 discrepencies
+deionize
 database
 distally
 disported
