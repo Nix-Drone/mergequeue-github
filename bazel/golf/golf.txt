@@ -410,7 +410,6 @@ gimballing
 gangboard
 galago
 galagos
-galahads
 galanas
 grubberies
 gynobasic
@@ -3478,6 +3477,7 @@ germproof
 germs
 germule
 goodlike
+galahads
 gerocomia
 gerocomical
 geroderma
