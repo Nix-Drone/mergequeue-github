@@ -3479,6 +3479,7 @@ addebted
 addeem
 addend
 anchylosed
+annotations
 addends
 addendum
 addendums
@@ -13587,7 +13588,6 @@ annotates
 annotating
 annotation
 avoiding
-annotations
 annotative
 annotatively
 annotativeness
