@@ -5215,6 +5215,7 @@ grief
 gluten
 glassmen
 glassophone
+gleets
 glassrope
 glassteel
 gnathic
@@ -8241,7 +8242,6 @@ graspable
 graspers
 grasping
 graspingly
-gleets
 graspingness
 graspless
 gibberosity
