@@ -4071,7 +4071,6 @@ freshman
 finless
 finlet
 finlike
-finmark
 finmarks
 finnac
 finnan
@@ -5073,6 +5072,7 @@ flashover
 feint
 florigens
 fructure
+finmark
 flashtube
 flashtubes
 fusobteria
