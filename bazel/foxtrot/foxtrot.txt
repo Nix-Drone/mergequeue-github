@@ -1184,7 +1184,6 @@ forestaller
 fenite
 fascia
 fogeater
-fasciae
 fasciate
 featherbone
 fasciated
@@ -11259,6 +11258,7 @@ fireball
 funguslike
 funic
 fistulae
+fasciae
 funicle
 foreday
 funicles
