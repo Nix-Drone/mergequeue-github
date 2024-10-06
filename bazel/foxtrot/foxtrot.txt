@@ -1075,7 +1075,6 @@ furriners
 farmable
 farmed
 farmer
-farmeress
 farmery
 filigraned
 farmeries
@@ -1181,6 +1180,7 @@ foraminiferous
 fingerlike
 frogeater
 forestaller
+farmeress
 fenite
 fascia
 fogeater
