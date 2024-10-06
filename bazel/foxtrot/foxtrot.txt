@@ -713,7 +713,6 @@ famines
 faena
 famished
 famishing
-famishment
 famose
 famous
 famousness
@@ -6525,6 +6524,7 @@ flustration
 flustrine
 flustroid
 forbar
+famishment
 flutebird
 foils
 fluted
