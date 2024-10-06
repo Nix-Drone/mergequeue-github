@@ -1375,7 +1375,6 @@ gardenin
 gardening
 gardenless
 gardenly
-gardenlike
 grume
 gardenmaking
 gardens
@@ -7825,6 +7824,7 @@ grammars
 gieseckite
 grammaticality
 gateau
+gardenlike
 glossate
 grammatically
 grammaticalness
