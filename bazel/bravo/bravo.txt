@@ -1464,6 +1464,7 @@ baleless
 bepaid
 baler
 bales
+bookshelves
 boun
 balestra
 balete
@@ -12706,7 +12707,6 @@ banderilleros
 booksellers
 bookselling
 bookshelf
-bookshelves
 boloney
 bookshop
 bookshops
