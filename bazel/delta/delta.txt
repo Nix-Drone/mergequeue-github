@@ -13454,7 +13454,6 @@ decart
 dissaved
 dissaves
 dissaving
-dissavs
 disscepter
 drumbeater
 dissceptered
@@ -16245,6 +16244,7 @@ downbeard
 downbeats
 doughfoot
 downbend
+dissavs
 daredevilism
 downbent
 dalradian

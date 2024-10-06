@@ -2226,7 +2226,6 @@ farmhouses
 felt
 felted
 felter
-feltyfare
 feltyflier
 felting
 feltings
@@ -6061,6 +6060,7 @@ florisugent
 fretwork
 fussify
 florizine
+feltyfare
 fractures
 floroscope
 floroun
