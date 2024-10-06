@@ -19155,7 +19155,6 @@ archpretender
 archpriest
 archpriesthood
 archpriestship
-archprimate
 anatomy
 archprince
 ars
@@ -24004,6 +24003,7 @@ adobe
 autodialed
 autodialer
 autodialers
+archprimate
 autodialing
 autodialled
 antilacrosse
