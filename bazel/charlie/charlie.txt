@@ -10097,7 +10097,6 @@ chesil
 cheskey
 choices
 cheskeys
-cheslep
 chesoun
 chess
 chessart
@@ -14691,6 +14690,7 @@ cystoepithelioma
 cystofibroma
 cystoflagellata
 cystogenesis
+cheslep
 cystogenous
 cystogram
 cystoid
