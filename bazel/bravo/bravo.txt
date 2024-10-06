@@ -12627,7 +12627,6 @@ baianism
 bookbinders
 bookbinding
 bookboard
-bookcase
 bookcases
 bookcraft
 bookdealer
@@ -17216,6 +17215,7 @@ bullragging
 bullrings
 bullrush
 bullrushes
+bookcase
 bulls
 bullseye
 bullshit
