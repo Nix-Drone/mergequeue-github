@@ -6571,6 +6571,7 @@ entapophysis
 entasia
 entasias
 entasis
+equipped
 entea
 erns
 enaction
@@ -7485,7 +7486,6 @@ evaporativity
 epharmonic
 ephas
 ephebea
-equipped
 enrols
 ephebeibeia
 ephebeion
