@@ -2307,6 +2307,7 @@ cancerite
 cancerization
 cancerogenic
 cancerophobe
+clocksmith
 cancerophobia
 cancerous
 cancerously
@@ -16483,7 +16484,6 @@ clockmaker
 clockmaking
 crewer
 clockroom
-clocksmith
 clockwatcher
 clockworked
 clockworks
