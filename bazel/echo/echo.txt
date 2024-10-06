@@ -8722,7 +8722,6 @@ equipluve
 equipment
 equipments
 equipoised
-equipoising
 equipollence
 equipollency
 evasively
@@ -13245,6 +13244,7 @@ explosion
 explosionist
 epithecate
 explosions
+equipoising
 explosively
 explosiveness
 explosives
