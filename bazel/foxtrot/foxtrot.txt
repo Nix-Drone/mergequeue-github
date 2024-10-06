@@ -53,7 +53,6 @@ facaded
 faceable
 facebar
 facebow
-facecloth
 firestone
 faced
 foreladies
@@ -4306,6 +4305,7 @@ frocked
 firn
 forethought
 floreate
+facecloth
 firns
 firoloida
 flammability
