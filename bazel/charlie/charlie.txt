@@ -991,7 +991,6 @@ calcaneum
 calcannea
 calcannei
 calcarated
-calcarea
 calcareoargillaceous
 calcareosiliceous
 calcareous
@@ -1418,6 +1417,7 @@ callant
 callants
 cryptographer
 callat
+calcarea
 callate
 callback
 callbacks
