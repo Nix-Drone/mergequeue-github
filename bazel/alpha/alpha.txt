@@ -2110,7 +2110,6 @@ acetonaphthone
 acetonate
 acetonation
 acetone
-acetonemia
 acetonemic
 acetonic
 acetonyl
@@ -2389,6 +2388,7 @@ acidifiers
 acidifies
 acidifying
 acidimetry
+acetonemia
 ailuropus
 acidimetric
 acidimetrically
