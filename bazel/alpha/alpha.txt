@@ -4714,7 +4714,6 @@ aecidiomycetes
 aecidiospore
 aecidiostage
 aecidium
-aeciospore
 aeciostage
 abr
 aecioteliospore
@@ -11359,6 +11358,7 @@ ajugas
 aneroids
 amritas
 astomous
+aeciospore
 amritsar
 amsath
 adulteries
