@@ -10519,7 +10519,6 @@ anthriscus
 amylogen
 amylogenesis
 amylogenic
-amylogens
 amylohydrolysis
 amylohydrolytic
 amyloid
@@ -14102,6 +14101,7 @@ antecedes
 anteceding
 antispermotoxin
 antecessor
+amylogens
 antechamber
 anelastic
 alonso
