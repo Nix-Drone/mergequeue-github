@@ -2737,7 +2737,6 @@ barlows
 barm
 bollixes
 barmaids
-barman
 barmaster
 barmbrack
 barmcloth
@@ -7075,6 +7074,7 @@ besmoothed
 bushrope
 besmoothing
 besmooths
+barman
 besmother
 besmottered
 besmouch
