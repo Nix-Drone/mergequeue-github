@@ -4636,6 +4636,7 @@ carpetmonger
 carpets
 carpetweb
 carpetweed
+citronwood
 carpetwork
 carpetwoven
 carphiophiops
@@ -15071,7 +15072,6 @@ citronellol
 citronin
 citronize
 citrons
-citronwood
 circumaxile
 citropsis
 citropten
