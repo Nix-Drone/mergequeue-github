@@ -2293,7 +2293,6 @@ decentred
 decentres
 decentring
 decephalization
-decephalize
 deceptibility
 deceptible
 deceptional
@@ -12101,6 +12100,7 @@ dramaturgy
 disexercise
 disfaith
 disfame
+decephalize
 disconsolance
 disfashion
 disfavor
