@@ -4205,7 +4205,6 @@ carfare
 carfares
 carfax
 carfloat
-codebreak
 comprizable
 carfour
 carfuffle
@@ -24679,6 +24678,7 @@ coppling
 coppra
 cyclospondylic
 coppras
+codebreak
 copr
 copra
 copraemia
