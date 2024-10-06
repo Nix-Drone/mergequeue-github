@@ -1929,6 +1929,7 @@ gasworks
 gatch
 gate
 gateage
+glacialize
 gatecrasher
 gatecrashers
 gated
@@ -4964,7 +4965,6 @@ grawls
 gryphite
 glacialism
 glacialist
-glacialize
 glaciaria
 graphemes
 glaciarium
