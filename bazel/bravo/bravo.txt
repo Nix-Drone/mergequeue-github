@@ -2447,6 +2447,7 @@ barbuts
 barrooms
 basis
 barbwire
+boscages
 barbwires
 ballyhooer
 bullpout
@@ -13116,7 +13117,6 @@ bumper
 borzoi
 borzois
 bosc
-boscages
 bosch
 boschbok
 boschneger
