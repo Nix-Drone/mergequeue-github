@@ -4647,7 +4647,6 @@ advisement
 atli
 advisements
 adviser
-advisers
 advisership
 advises
 advisy
@@ -21713,6 +21712,7 @@ antitartaric
 assessably
 archplagiary
 assessed
+advisers
 assessee
 assessing
 assession
