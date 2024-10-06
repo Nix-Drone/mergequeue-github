@@ -506,7 +506,6 @@ abjunctive
 abjuration
 abjurations
 abjuratory
-abjure
 abjured
 abjurement
 abjurer
@@ -4253,6 +4252,7 @@ adoperation
 adopt
 adoptability
 adoptabilities
+abjure
 adoptant
 armorers
 adoptative
