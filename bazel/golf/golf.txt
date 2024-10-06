@@ -2242,7 +2242,6 @@ gd
 gdinfo
 gds
 grayfish
-globously
 ge
 gorrel
 geadephaga
@@ -7656,6 +7655,7 @@ gnaw
 general
 granters
 gradiometric
+globously
 grads
 granzita
 gradual
