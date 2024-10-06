@@ -5074,7 +5074,6 @@ feint
 florigens
 fructure
 flashtube
-flashtubes
 fusobteria
 fanterie
 flask
@@ -6388,6 +6387,7 @@ fluochloride
 fellowess
 feedhead
 fluophosphate
+flashtubes
 fluor
 fluoran
 foxship
