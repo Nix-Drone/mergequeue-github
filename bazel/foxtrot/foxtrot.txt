@@ -2585,7 +2585,6 @@ ferriages
 ferryboat
 ferryboats
 familistery
-ferricyanate
 ferrandin
 furiosity
 ferricyanide
@@ -8595,6 +8594,7 @@ forprise
 forrad
 finnoc
 forrader
+ferricyanate
 forrard
 forensical
 flammigerous
