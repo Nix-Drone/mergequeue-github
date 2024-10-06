@@ -6746,7 +6746,6 @@ desk
 deskbound
 deskill
 desklike
-deskman
 deskmen
 desks
 desktop
@@ -7224,6 +7223,7 @@ determinably
 determinacy
 distruss
 determinant
+deskman
 determinantal
 domage
 deflectional
