@@ -2039,7 +2039,6 @@ albatrosses
 acetylator
 acetylbenzene
 amenders
-acetylbenzoate
 acetylbenzoic
 acetylcarbazole
 acetylcellulose
@@ -12990,6 +12989,7 @@ angulus
 anguria
 angus
 anguses
+acetylbenzoate
 angust
 anticrotalic
 anthophorous
