@@ -2697,7 +2697,6 @@ canonicalizes
 canonicalizing
 circumventive
 congealer
-canonicalness
 canonicals
 canonics
 canonisation
@@ -23354,6 +23353,7 @@ containment
 containments
 covert
 contains
+canonicalness
 contakia
 contakion
 contaminant
