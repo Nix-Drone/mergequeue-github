@@ -7850,6 +7850,7 @@ cervicofacial
 cervicolabial
 cervicolingual
 cervicolumbar
+chiquest
 crystal
 cervicomuscular
 cerviconasal
@@ -10895,7 +10896,6 @@ clocher
 chypre
 chips
 chipwood
-chiquest
 chiquitan
 chiquito
 chiragra
