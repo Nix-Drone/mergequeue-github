@@ -3600,7 +3600,6 @@ faventine
 filching
 filchingly
 file
-fileable
 filecard
 filechar
 filed
@@ -6362,6 +6361,7 @@ flunkeyhood
 flunkeyistic
 flightshot
 flunker
+fileable
 foetid
 flunky
 flunkyite
