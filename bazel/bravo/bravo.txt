@@ -2691,6 +2691,7 @@ barken
 beknights
 barkentine
 barkentines
+bitt
 barker
 barkery
 barkevikite
@@ -9849,7 +9850,6 @@ bitsy
 bitstock
 bitstocks
 bitstone
-bitt
 bitted
 bitten
 battled
