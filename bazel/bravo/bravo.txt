@@ -1912,7 +1912,6 @@ banderlog
 banderma
 banderol
 banderole
-biochemical
 banderoled
 banderoles
 banders
@@ -16229,6 +16228,7 @@ browniest
 browniness
 browningesque
 bindwith
+biochemical
 brownish
 brownishness
 brownist
