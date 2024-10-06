@@ -4349,6 +4349,7 @@ fishberry
 fleshers
 fishberries
 fishboat
+functions
 fishbolt
 fishbolts
 falchions
@@ -11144,7 +11145,6 @@ fract
 functionlessness
 functionnaire
 fumosity
-functions
 functor
 functors
 functus
