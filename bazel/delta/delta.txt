@@ -998,7 +998,6 @@ darkeys
 diddles
 dicyanide
 darkeners
-darkening
 darkens
 darker
 diploconical
@@ -3473,6 +3472,7 @@ defoamers
 defoaming
 discontented
 defoams
+darkening
 defocus
 disprobative
 defocusses
