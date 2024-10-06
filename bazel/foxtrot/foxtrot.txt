@@ -212,7 +212,6 @@ factorization
 fab
 factorizations
 fluviose
-factorize
 factorized
 factorizing
 factors
@@ -6857,6 +6856,7 @@ foliaged
 foliages
 foliaging
 furnishment
+factorize
 federating
 furomonazole
 foliary
