@@ -13303,7 +13303,6 @@ cyclocoelous
 cyclo
 coulometric
 cycloacetylene
-cycloaliphatic
 cycloalkane
 cyclobothra
 cyclobutane
@@ -19262,6 +19261,7 @@ colonialism
 colonialist
 colonialists
 colonialization
+cycloaliphatic
 colonialize
 colonialized
 colonializing
