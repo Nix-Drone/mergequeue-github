@@ -3505,7 +3505,6 @@ dogstail
 dinner
 deforcer
 deforces
-deforciant
 deforest
 deforested
 deforester
@@ -13272,6 +13271,7 @@ disputableness
 disputacity
 disputant
 disputants
+deforciant
 disputation
 deflators
 disputations
