@@ -1373,7 +1373,6 @@ gardenia
 gundeck
 gardenin
 gardening
-gardenless
 gardenly
 gardenlike
 grume
@@ -6703,6 +6702,7 @@ goll
 glaikitness
 golland
 gollar
+gardenless
 goller
 golly
 gobbets
