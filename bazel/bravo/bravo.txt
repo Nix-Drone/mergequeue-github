@@ -4226,6 +4226,7 @@ bearskins
 beartongue
 birdwatch
 bearward
+blacklegging
 bearwort
 beastbane
 beasthood
@@ -15445,7 +15446,6 @@ brindlish
 bryndza
 brine
 bleaters
-blacklegging
 brined
 brinehouse
 brineless
