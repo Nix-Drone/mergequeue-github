@@ -3250,7 +3250,6 @@ defend
 defendable
 demimondaine
 dejeuners
-defendants
 defended
 defender
 defenders
@@ -16816,6 +16815,7 @@ drawbores
 deodars
 dorsomesal
 drawcansir
+defendants
 drawcard
 disconsonant
 drawcut
