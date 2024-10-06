@@ -3041,7 +3041,6 @@ deepeners
 drearisomeness
 deepening
 deeper
-deepest
 deepfreeze
 deepfreezing
 deepgoing
@@ -15303,6 +15302,7 @@ domesticality
 domestically
 domesticate
 domesticated
+deepest
 domesticates
 domesticating
 draftsperson
