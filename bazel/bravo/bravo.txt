@@ -4508,7 +4508,6 @@ beclaw
 beclip
 besieged
 becloak
-belchers
 becloaking
 becloaks
 beclog
@@ -16553,6 +16552,7 @@ bubonocele
 bubonoceze
 beamster
 bubs
+belchers
 bubukle
 bucayo
 bucca
