@@ -2582,7 +2582,6 @@ bargello
 bargeload
 bargeman
 bromcamphor
-bookmaking
 bargemaster
 balanophore
 booklice
@@ -2817,6 +2816,7 @@ bibliolater
 bobberies
 baroness
 baronesses
+bookmaking
 baronet
 baronetage
 beswelter
