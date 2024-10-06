@@ -2098,6 +2098,7 @@ campo
 campodean
 creedbound
 campodeid
+curableness
 campodeidae
 campodeiform
 campodeoid
@@ -31196,7 +31197,6 @@ curability
 cisandine
 charer
 curable
-curableness
 cotyloidal
 curably
 curacao
