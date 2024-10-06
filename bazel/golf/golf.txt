@@ -7965,7 +7965,6 @@ grandparents
 gambiae
 grandpas
 grandsir
-grandson
 grandsons
 garibaldian
 grandsonship
@@ -10064,6 +10063,7 @@ guerrila
 guerrilla
 guerrillaism
 guerrillas
+grandson
 guerrillaship
 guesdism
 gymnura
