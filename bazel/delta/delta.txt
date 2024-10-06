@@ -5530,7 +5530,6 @@ deorientalize
 deorsum
 deorsumvergence
 deorsumversion
-deorusumduction
 deossify
 deossification
 deota
@@ -13371,6 +13370,7 @@ discouragements
 disrelishable
 disrepair
 disreport
+deorusumduction
 decrepitating
 disreputability
 dialyzable
