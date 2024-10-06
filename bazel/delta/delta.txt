@@ -5786,7 +5786,6 @@ depoh
 depolarisation
 depolarise
 drapeable
-depolarised
 depolariser
 darksome
 depolarising
@@ -16873,6 +16872,7 @@ defortify
 drawtube
 decanically
 drawtubes
+depolarised
 declaiming
 drazel
 drch
