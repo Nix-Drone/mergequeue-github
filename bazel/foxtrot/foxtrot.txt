@@ -6714,7 +6714,6 @@ foetus
 fofarraw
 flanger
 fog
-fogbank
 fogbound
 fogbow
 flyblow
@@ -10221,6 +10220,7 @@ frivolist
 frivolity
 frivolities
 frivolize
+fogbank
 frivolized
 frivolizing
 frivoller
