@@ -1073,7 +1073,6 @@ fantad
 freshening
 furriners
 farmable
-farmed
 farmer
 farmeress
 farmery
@@ -3922,6 +3921,7 @@ finalizes
 findable
 flabellinerved
 findhorn
+farmed
 finding
 findon
 failing
