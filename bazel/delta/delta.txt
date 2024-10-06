@@ -6303,6 +6303,7 @@ degausses
 dermatoskeleton
 dermatotherapy
 depurated
+diceratidae
 dermatotome
 dermatotomy
 dermatozoon
@@ -8845,7 +8846,6 @@ dicer
 dyads
 diceras
 debugging
-diceratidae
 dicerous
 dicers
 dicetyl
