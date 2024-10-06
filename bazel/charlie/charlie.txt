@@ -6945,7 +6945,6 @@ cenogenetically
 cenogonous
 cenomanian
 cenosite
-cenosity
 cenospecies
 custodiam
 cenospecific
@@ -16156,6 +16155,7 @@ climatology
 climatologic
 climatological
 climatologically
+cenosity
 climatologist
 climatologists
 climatometer
