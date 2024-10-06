@@ -13494,7 +13494,6 @@ dissembler
 diagraphic
 driftman
 dissemblers
-dissembles
 dissemblies
 dissembling
 dissemblingly
@@ -16171,6 +16170,7 @@ dovens
 doubtingness
 doves
 desireless
+dissembles
 dovetailed
 dovetailer
 dovetailing
