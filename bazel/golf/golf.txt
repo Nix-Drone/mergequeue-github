@@ -2260,7 +2260,6 @@ gearcases
 gearman
 gears
 guernseys
-gearset
 gearshift
 gearshifts
 gearwheels
@@ -5304,6 +5303,7 @@ gleamless
 glabellous
 geodynamicist
 gleams
+gearset
 gifture
 glean
 gleanable

@@ -2338,7 +2338,6 @@ electrocardiograph
 electrocardiographic
 electrocardiographically
 electrocatalysis
-electrocatalytic
 explorational
 electrocautery
 evasion
@@ -5312,6 +5311,7 @@ evaders
 erasions
 electroplax
 endosmose
+electrocatalytic
 endosmoses
 endosmosic
 euphoniously
