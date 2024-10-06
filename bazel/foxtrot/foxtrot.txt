@@ -5785,7 +5785,6 @@ fungiform
 flyways
 faunas
 further
-flyweight
 flyweights
 forthon
 fribblish
@@ -8082,6 +8081,7 @@ fluorescent
 firebrats
 flayflint
 foalhood
+flyweight
 flecnode
 forests
 forestside
