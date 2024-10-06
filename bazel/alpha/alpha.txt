@@ -6702,7 +6702,6 @@ aigrette
 adenomeningeal
 afloat
 aiguelle
-askewness
 aiguellette
 aiguiere
 aiguille
@@ -11871,6 +11870,7 @@ anaphe
 anaphylactic
 ancille
 anaphylactically
+askewness
 anaphylactin
 anaphylactogen
 anaphylactogenic
