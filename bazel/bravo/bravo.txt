@@ -145,7 +145,6 @@ baboot
 banquo
 babouche
 bavarois
-babouvist
 babracot
 babroot
 bipinnately
@@ -12826,6 +12825,7 @@ booter
 blunging
 bootery
 booth
+babouvist
 boothage
 boothale
 bootheel
