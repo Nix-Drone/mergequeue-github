@@ -2115,7 +2115,6 @@ camps
 campshed
 campshedding
 campsheeting
-campsite
 compasser
 campsites
 campstool
@@ -14380,6 +14379,7 @@ corollike
 circumnavigating
 circumnavigation
 circumnavigations
+campsite
 coelia
 circumnavigator
 circumnavigatory
