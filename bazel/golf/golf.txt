@@ -338,7 +338,6 @@ grammaticism
 gyrocompass
 grieben
 gaize
-gaj
 gal
 gala
 gangrels
@@ -3039,6 +3038,7 @@ geococcyx
 geocoronium
 gordunite
 geocratic
+gaj
 geraniols
 geocronite
 geodaesia
