@@ -1954,7 +1954,6 @@ eisteddfod
 eisteddfodau
 evertebral
 eisteddfodic
-eisteddfodism
 eisteddfods
 ecphorization
 equalizing
@@ -3128,6 +3127,7 @@ eloiner
 eloiners
 eustachium
 eloining
+eisteddfodism
 expurgators
 exactiveness
 eloinment
