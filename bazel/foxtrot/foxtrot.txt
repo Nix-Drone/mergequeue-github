@@ -3616,7 +3616,6 @@ filename
 filenames
 filer
 fanons
-filers
 files
 frailly
 filesmith
@@ -8371,6 +8370,7 @@ formagen
 formal
 formaldehyd
 froufrous
+filers
 formaldehyde
 formalesque
 formalise
