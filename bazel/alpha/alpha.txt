@@ -10538,7 +10538,6 @@ amylopectin
 amylophagia
 amylophosphate
 amylophosphoric
-amyloplast
 amyloplastic
 amyloplastid
 amylopsin
@@ -25359,6 +25358,7 @@ azotising
 azotize
 azotizing
 azotoluene
+amyloplast
 atrioventricular
 azotorrhea
 androecium
