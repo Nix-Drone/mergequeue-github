@@ -12713,7 +12713,6 @@ dismals
 disman
 dismantlement
 dismantler
-dismantles
 dismarble
 dwarflike
 dismarch
@@ -13439,6 +13438,7 @@ dissatisfaction
 dissatisfactions
 dissatisfactory
 dissatisfactorily
+dismantles
 dissatisfactoriness
 doctorlike
 dissatisfied
