@@ -4017,6 +4017,7 @@ fooling
 fotched
 fingram
 forshape
+forblack
 filling
 fingrigo
 fini
@@ -6581,7 +6582,6 @@ fluviovolcanic
 fondu
 fluxation
 fluxed
-forblack
 formativeness
 fluxes
 fire
