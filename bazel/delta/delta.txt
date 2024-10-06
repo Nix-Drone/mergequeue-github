@@ -1982,6 +1982,7 @@ decagons
 decagram
 decagramme
 decagrams
+dialysable
 decahedra
 decahedral
 decahedron
@@ -8306,7 +8307,6 @@ dialyphyllous
 dialysability
 devoutless
 deplanes
-dialysable
 dorobo
 dialysate
 dinitrophenylhydrazine
