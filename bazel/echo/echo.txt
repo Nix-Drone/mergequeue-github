@@ -7218,7 +7218,6 @@ enshadow
 envoi
 envoy
 envois
-envoys
 envoyship
 envolume
 envolupen
@@ -13221,6 +13220,7 @@ enstatitite
 exploits
 exploiture
 embiidae
+envoys
 encloser
 explorable
 exploratively
