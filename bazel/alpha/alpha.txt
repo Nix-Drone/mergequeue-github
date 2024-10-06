@@ -18037,7 +18037,6 @@ approvals
 approvance
 approved
 approvedly
-approvedness
 approver
 antiempirical
 approvers
@@ -20512,6 +20511,7 @@ arteriopathy
 arterioplania
 arterioplasty
 arteriopressor
+approvedness
 arteriorrhagia
 arteriorrhaphy
 arteriorrhexis
