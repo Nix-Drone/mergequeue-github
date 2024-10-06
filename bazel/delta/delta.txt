@@ -1180,6 +1180,7 @@ datafile
 dataflow
 datagram
 datagrams
+dear
 deescalating
 datakit
 datamation
@@ -1643,7 +1644,6 @@ deanships
 deanthropomorphism
 deanthropomorphization
 deappetizing
-dear
 docksides
 dearborn
 dearer
