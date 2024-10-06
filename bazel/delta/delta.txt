@@ -4459,7 +4459,6 @@ dematerialisation
 dematerialise
 duchery
 decubation
-dematerialised
 daimyo
 dematerialising
 dematerialize
@@ -11160,6 +11159,7 @@ disbeliever
 disbelievers
 dazingly
 dories
+dematerialised
 disbelieves
 disbelievingly
 disbench
