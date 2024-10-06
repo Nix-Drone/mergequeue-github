@@ -1448,7 +1448,6 @@ galloner
 gasproof
 gervao
 gibier
-garlicwort
 garlion
 garlopa
 garment
@@ -6013,6 +6012,7 @@ geaster
 glucagon
 guarea
 glucagons
+garlicwort
 gynoecium
 glucate
 glucemia
