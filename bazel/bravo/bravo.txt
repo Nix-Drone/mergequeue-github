@@ -4140,7 +4140,6 @@ beamwork
 bantlings
 bean
 badawi
-beanbag
 beanbags
 brickred
 beanball
@@ -16814,6 +16813,7 @@ buffball
 buffcoat
 buffe
 beauish
+beanbag
 buffed
 backings
 buffer
