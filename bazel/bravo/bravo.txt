@@ -9541,6 +9541,7 @@ birthmate
 birthnight
 birthplace
 birthplaces
+bondmen
 backfilled
 birthrates
 birthright
@@ -12403,7 +12404,6 @@ boohoo
 bondmaids
 bondman
 bondmanship
-bondmen
 bondminder
 bondoc
 bondon
