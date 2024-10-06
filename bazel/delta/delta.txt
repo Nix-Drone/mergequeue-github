@@ -8178,7 +8178,6 @@ diadochokinetic
 diadoumenos
 diadrom
 diadrome
-diadromous
 dioti
 diadumenus
 diaene
@@ -16587,6 +16586,7 @@ draggy
 draggier
 dodecarchy
 draggily
+diadromous
 draggle
 draggled
 draggletailed
