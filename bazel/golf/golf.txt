@@ -2205,6 +2205,7 @@ gazeboes
 gazebos
 gazed
 galla
+geonim
 gazeful
 gazeless
 gazella
@@ -3173,7 +3174,6 @@ geonavigation
 gabbart
 gnawing
 geonyctinastic
-geonim
 geonoma
 ganglion
 geophagy
