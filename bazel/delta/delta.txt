@@ -5208,7 +5208,6 @@ denis
 directives
 denitrate
 denitrated
-daemon
 denitration
 denitrator
 deathly
@@ -16537,6 +16536,7 @@ draffs
 draft
 dishevel
 draftable
+daemon
 detort
 draftage
 docimastic
