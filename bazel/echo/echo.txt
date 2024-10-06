@@ -6602,7 +6602,6 @@ enteral
 enterally
 enterate
 enterclose
-enterectomy
 enterectomies
 exuviates
 enterer
@@ -10388,6 +10387,7 @@ ethize
 ethmyphitis
 ethmofrontal
 escorial
+enterectomy
 emirship
 enrank
 eemis
