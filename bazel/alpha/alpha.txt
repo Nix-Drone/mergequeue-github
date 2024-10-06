@@ -20834,6 +20834,7 @@ arvicole
 anhydrate
 arvicolinae
 arvicoline
+authenticators
 atka
 arvicolous
 arvos
@@ -23796,7 +23797,6 @@ authenticates
 authentication
 authentications
 athetosic
-authenticators
 authenticities
 authenticly
 authenticness
