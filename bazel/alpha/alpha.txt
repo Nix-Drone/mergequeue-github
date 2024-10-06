@@ -272,7 +272,6 @@ abdominogenital
 affiant
 abdominohysterotomy
 abdominoposterior
-abdominoscopy
 agas
 abdominothoracic
 abdominous
@@ -7814,6 +7813,7 @@ alectrion
 alectryon
 alecup
 alee
+abdominoscopy
 alef
 awikiwiki
 alefnull
