@@ -2316,7 +2316,6 @@ cancerroot
 cancerweed
 cancerwort
 canch
-cancha
 canchalagua
 crocard
 canchas
@@ -8709,6 +8708,7 @@ changers
 changes
 changing
 changoan
+cancha
 changos
 changs
 changuina
