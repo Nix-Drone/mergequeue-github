@@ -5426,6 +5426,7 @@ endplates
 endpoints
 endrin
 endromididae
+eroding
 endrudge
 eltime
 expendable
@@ -9256,7 +9257,6 @@ erode
 erodent
 erodes
 erodibility
-eroding
 endocrinous
 erodium
 erogenesis
