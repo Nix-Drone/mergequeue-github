@@ -8829,6 +8829,7 @@ diccon
 dice
 dyce
 decolor
+dreader
 diceboard
 dicebox
 dicecup
@@ -16882,7 +16883,6 @@ degassers
 deprocedured
 dreadable
 debunk
-dreader
 digladiation
 demultiplexing
 despairingness
