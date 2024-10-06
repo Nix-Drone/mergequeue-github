@@ -6103,6 +6103,7 @@ barrowcoat
 bemuffle
 bemurmur
 bemurmure
+biochemy
 bemurmuring
 bemurmurs
 burnings
@@ -8932,7 +8933,6 @@ biocenology
 bananas
 biocenosis
 biocentric
-biochemy
 biochemic
 biochemically
 biochemics
