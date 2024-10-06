@@ -8404,7 +8404,6 @@ diam
 diamagnet
 diamagnetic
 diamagnetism
-diamagnetize
 dredging
 diamagnetometer
 diamant
@@ -17673,6 +17672,7 @@ dsname
 dashers
 dsnames
 dsp
+diamagnetize
 dsr
 dsri
 democratizes
