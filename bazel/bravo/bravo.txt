@@ -4043,6 +4043,7 @@ beacons
 beaded
 bequirtle
 beadeye
+backspeer
 beadeyes
 banderols
 beader
@@ -16344,7 +16345,6 @@ brummagem
 biosynthetic
 brummagen
 brummer
-backspeer
 brummy
 blutwurst
 brumous
