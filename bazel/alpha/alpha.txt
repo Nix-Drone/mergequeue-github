@@ -8639,7 +8639,6 @@ auditioned
 allentiacan
 aller
 allergen
-allergenic
 autarkical
 allergenicity
 allergia
@@ -21846,6 +21845,7 @@ assobre
 associability
 associable
 associableness
+allergenic
 associated
 associatedness
 associateship
