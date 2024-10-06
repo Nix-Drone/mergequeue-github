@@ -5457,6 +5457,7 @@ fleshiness
 fourniture
 fleshing
 fleshings
+flunks
 formatters
 fanjets
 fleshless
@@ -8840,7 +8841,6 @@ fouler
 fosite
 fossa
 fibreglass
-flunks
 fole
 flabbier
 flaxes
