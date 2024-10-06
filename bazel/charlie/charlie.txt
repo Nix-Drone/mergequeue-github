@@ -3840,7 +3840,6 @@ carburetant
 carbureted
 carburetest
 carbureting
-carburetion
 conformational
 carburetors
 carburets
@@ -22927,6 +22926,7 @@ catalytic
 consistencies
 claypan
 consistent
+carburetion
 consistently
 consistible
 consisting
