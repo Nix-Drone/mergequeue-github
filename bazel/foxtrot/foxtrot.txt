@@ -5928,7 +5928,6 @@ floodways
 fistfight
 flooey
 flook
-floorages
 forgottenness
 floorboard
 floorcloth
@@ -9498,6 +9497,7 @@ fliers
 foreteeth
 flagfish
 frape
+floorages
 fraple
 frapp
 frappe
