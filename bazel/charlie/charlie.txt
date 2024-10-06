@@ -20342,7 +20342,6 @@ commutated
 commutation
 commutative
 commutatively
-commutativity
 commutator
 commutators
 commute
@@ -24657,6 +24656,7 @@ copperleaf
 coppernosed
 copperplate
 copperplated
+commutativity
 coppersidesman
 copperskin
 ciderist
