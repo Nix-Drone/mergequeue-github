@@ -4186,7 +4186,6 @@ firedrake
 firefall
 firefang
 firefanged
-firefangs
 firefighter
 firefighting
 foreship
@@ -9115,6 +9114,7 @@ fow
 frangibleness
 finalisms
 fustian
+firefangs
 fowage
 fractus
 feminists

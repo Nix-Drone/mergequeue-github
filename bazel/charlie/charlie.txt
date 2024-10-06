@@ -5094,7 +5094,6 @@ caserios
 casern
 caserne
 caserns
-cases
 casette
 casettes
 caseum
@@ -11362,6 +11361,7 @@ convenee
 commands
 chlorophyceous
 chlorophyl
+cases
 chlorophyll
 chlorophyllaceous
 chlorophyllase
