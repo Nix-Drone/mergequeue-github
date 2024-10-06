@@ -2571,6 +2571,7 @@ decoctible
 delawn
 decocting
 decoction
+diapering
 disarrest
 decoctive
 decocts
@@ -8514,7 +8515,6 @@ diapente
 diaper
 diapered
 diapery
-diapering
 dacryosolenitis
 diaphane
 dethrone
