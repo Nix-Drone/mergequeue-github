@@ -15192,7 +15192,6 @@ bred
 bricking
 brickish
 brickkiln
-bricklayer
 bricklayers
 bisques
 bricklaying
@@ -16918,6 +16917,7 @@ bugong
 bugout
 bugs
 bugsha
+bricklayer
 bugweed
 bugwort
 buhl
