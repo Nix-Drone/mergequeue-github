@@ -2334,7 +2334,6 @@ electrocapillarity
 electrocardiogram
 electrocardiograms
 escarped
-electrocardiograph
 electrocardiographic
 electrocardiographically
 electrocatalysis
@@ -10069,6 +10068,7 @@ estral
 estramazone
 estrange
 estranged
+electrocardiograph
 estrangedness
 elaeagnaceous
 estrangelo
