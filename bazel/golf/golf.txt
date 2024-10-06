@@ -3079,6 +3079,7 @@ geoform
 gillnet
 geogen
 geogenesis
+granam
 gyropilot
 geogenetic
 geogeny
@@ -7871,7 +7872,6 @@ grana
 granada
 granado
 granage
-granam
 granary
 gawsy
 glutinously
