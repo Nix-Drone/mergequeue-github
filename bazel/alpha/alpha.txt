@@ -8855,6 +8855,7 @@ averager
 allometry
 autolavage
 allomorph
+artophagous
 allomorphic
 aerobiologic
 allomorphism
@@ -20781,7 +20782,6 @@ artocarpous
 artolater
 artolatry
 amianthiform
-artophagous
 artophophoria
 artophoria
 antiproteolysis
