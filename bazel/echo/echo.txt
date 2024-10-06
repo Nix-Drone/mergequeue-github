@@ -4920,6 +4920,7 @@ encushion
 end
 endable
 endamage
+enginelike
 endamageable
 endamagement
 endamages
@@ -9262,7 +9263,6 @@ erodium
 erogenesis
 erogenetic
 erogeny
-enginelike
 erogenous
 erose
 elrage
