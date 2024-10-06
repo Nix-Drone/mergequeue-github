@@ -1208,7 +1208,6 @@ calfdozer
 calfish
 calfkill
 calfless
-calflike
 calfling
 calfret
 calfs
@@ -2097,6 +2096,7 @@ chaetopoda
 campo
 campodean
 creedbound
+calflike
 campodeid
 campodeidae
 campodeiform
