@@ -2827,7 +2827,6 @@ bookies
 baroneted
 baroneting
 baronetise
-baronetised
 baronetising
 baronetize
 baronetizing
@@ -5984,6 +5983,7 @@ beltless
 beltmaker
 beltmaking
 beltman
+baronetised
 beltmen
 belts
 beltway
