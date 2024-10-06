@@ -1090,6 +1090,7 @@ farmhousey
 fontinalaceae
 fuzzle
 farmy
+falun
 farmyard
 fructuary
 farmyardy
@@ -9154,7 +9155,6 @@ foxfish
 foxfishes
 foxglove
 fledge
-falun
 foxgloves
 foxhole
 flexionless
