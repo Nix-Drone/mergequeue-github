@@ -7415,7 +7415,6 @@ drosera
 deutencephalon
 dovekey
 deuteragonist
-dumfounding
 deuteranomal
 deuteranomaly
 deuteranope
@@ -16859,6 +16858,7 @@ drawout
 drawplate
 drawpoint
 draws
+dumfounding
 drawshave
 drawsheet
 drawspring
