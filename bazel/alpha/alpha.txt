@@ -11093,7 +11093,6 @@ astrosphere
 amphidetic
 amphidiarthrosis
 amphidiploid
-amphidiploidy
 amphidisc
 amphidiscophora
 amphidiscophoran
@@ -17406,6 +17405,7 @@ admittee
 acridan
 aposia
 aposiopeses
+amphidiploidy
 aposiopesis
 aposiopestic
 archearl
