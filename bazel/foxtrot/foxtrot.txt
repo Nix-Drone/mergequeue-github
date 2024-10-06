@@ -9926,7 +9926,6 @@ frette
 fretted
 fretten
 fretters
-flowoff
 flagellums
 frettier
 fauld
@@ -10347,6 +10346,7 @@ fletch
 frolic
 frolicful
 frolicked
+flowoff
 features
 frenetics
 frolicker
