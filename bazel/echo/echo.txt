@@ -3335,7 +3335,6 @@ emballonuridae
 embalm
 expounded
 empathize
-embalmed
 envelopes
 embalmer
 embalmers
@@ -6775,6 +6774,7 @@ enthralling
 enthrallment
 enthrallments
 enthralment
+embalmed
 enthrals
 enthrill
 eliminatory
