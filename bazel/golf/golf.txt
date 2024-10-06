@@ -5861,7 +5861,6 @@ grenado
 glossemes
 glossemic
 girondism
-glosser
 glossers
 glosses
 glossy
@@ -7694,6 +7693,7 @@ graecophil
 graeculus
 granth
 graeme
+glosser
 geography
 graffage
 gunbarrel
