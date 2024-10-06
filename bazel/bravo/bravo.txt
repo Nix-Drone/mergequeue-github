@@ -4769,7 +4769,6 @@ bedless
 bedlids
 bedlight
 bedmaker
-bewrought
 bedmakers
 borak
 bulldozer
@@ -11159,6 +11158,7 @@ byes
 bronchiloquy
 blooper
 bloopers
+bewrought
 blooping
 bloops
 balachan
