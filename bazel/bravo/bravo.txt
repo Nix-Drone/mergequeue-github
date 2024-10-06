@@ -4535,6 +4535,7 @@ becolor
 becombed
 builders
 bestuur
+bifidate
 become
 becomed
 becomes
@@ -8278,7 +8279,6 @@ biffies
 biffin
 biffs
 bifid
-bifidate
 bifidated
 bifidity
 bifilar
