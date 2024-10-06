@@ -6761,7 +6761,6 @@ enthalpy
 enthalpies
 enthean
 entheasm
-enfuddle
 entheate
 enthelminthic
 etrog
@@ -12136,6 +12135,7 @@ extinguishable
 excortication
 excremental
 excrementally
+enfuddle
 excrementary
 excrementitial
 electioneers
