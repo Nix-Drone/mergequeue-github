@@ -2479,7 +2479,6 @@ electrolyses
 electrolysing
 electrolysis
 electrolyte
-electrolithotrity
 epitomisation
 exoskeleton
 electrolytic
@@ -8458,6 +8457,7 @@ epizooty
 epizootic
 epizootically
 eighteen
+electrolithotrity
 entrada
 epizooties
 efferent
