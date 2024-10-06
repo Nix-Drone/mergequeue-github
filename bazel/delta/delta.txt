@@ -6563,6 +6563,7 @@ desegregation
 duststorm
 deselected
 deselecting
+dihedron
 deselects
 datums
 desemer
@@ -9575,7 +9576,6 @@ dihalogen
 dihdroxycholecalciferol
 dihedral
 dihedrals
-dihedron
 discipleship
 dihelium
 dihexahedron
