@@ -234,6 +234,7 @@ abbreviators
 abbreviature
 abbroachment
 abc
+avirulence
 abcissa
 abcoulomb
 abd
@@ -11297,7 +11298,6 @@ amplify
 assais
 amplifiable
 amplificate
-avirulence
 amplification
 amplifications
 amplificative
