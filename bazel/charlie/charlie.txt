@@ -9203,7 +9203,6 @@ chashitsu
 chasid
 chasidim
 chasings
-chasm
 chasma
 chasmed
 chasmic
@@ -28703,6 +28702,7 @@ crepis
 crepitacula
 crepitaculum
 crepitant
+chasm
 crepitate
 crepitated
 crepitating
