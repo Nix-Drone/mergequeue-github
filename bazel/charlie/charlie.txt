@@ -8984,7 +8984,6 @@ chargable
 charge
 chargeability
 chargeable
-chargeableness
 chargeant
 charged
 chargedness
@@ -24296,6 +24295,7 @@ cookdom
 cookee
 corncutting
 cookeys
+chargeableness
 cookeite
 cooker
 cookery
