@@ -194,7 +194,6 @@ fisherboat
 fossule
 facto
 factorability
-factorable
 factordom
 factoress
 flateria
@@ -9486,6 +9485,7 @@ facing
 formaldehydesulphoxylic
 frantic
 franticly
+factorable
 freeloading
 flybook
 functionalizing
