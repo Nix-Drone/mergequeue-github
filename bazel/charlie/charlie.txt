@@ -8771,7 +8771,6 @@ chao
 chaogenous
 chaology
 chaori
-chaos
 chaotic
 chaoticness
 chaoua
@@ -19679,6 +19678,7 @@ combinant
 combinate
 combination
 combinational
+chaos
 combinations
 combinative
 combinator
