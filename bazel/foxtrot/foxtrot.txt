@@ -1073,7 +1073,6 @@ fantad
 freshening
 furriners
 farmable
-farmed
 farmer
 farmeress
 farmery
@@ -8023,6 +8022,7 @@ forespecified
 finniest
 forespeech
 forespencer
+farmed
 forespoke
 forespoken
 forest
