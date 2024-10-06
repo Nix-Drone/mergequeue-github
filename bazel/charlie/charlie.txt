@@ -2432,7 +2432,6 @@ candlesticks
 candlestickward
 candlewaster
 candlewasting
-candlewick
 candlewicking
 candlewicks
 candlewright
@@ -10072,6 +10071,7 @@ cherubfishes
 cherubic
 cherubical
 cherubically
+candlewick
 cherubim
 cherubimic
 cherubimical
