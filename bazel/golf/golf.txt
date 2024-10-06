@@ -1905,7 +1905,6 @@ gastrostenosis
 gastrostomy
 gastrostomies
 gastrostomize
-gastrostomus
 gastrotaxis
 gastrothecal
 gastrotome
@@ -6038,6 +6037,7 @@ glucocorticoid
 glucofrangulin
 guatemaltecan
 glucogene
+gastrostomus
 gunsling
 glucogenesis
 glucokinase
