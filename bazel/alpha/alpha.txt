@@ -22773,7 +22773,6 @@ atomists
 atomity
 abrocoma
 atomization
-atomize
 atomized
 atomizer
 antiheterolysin
@@ -24610,6 +24609,7 @@ avenant
 avenary
 avener
 avenery
+atomize
 avenge
 actinomycin
 affirmly
