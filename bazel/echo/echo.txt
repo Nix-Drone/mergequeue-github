@@ -3335,7 +3335,6 @@ emballonuridae
 embalm
 expounded
 empathize
-embalmed
 envelopes
 embalmer
 embalmers
@@ -7781,6 +7780,7 @@ epidermic
 ecclesiastical
 expos
 extracardial
+embalmed
 epidermical
 epidermically
 epidermidalization
