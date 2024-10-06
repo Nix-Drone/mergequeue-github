@@ -9225,7 +9225,6 @@ biotypic
 biotypology
 biotite
 biotites
-biotome
 buoys
 bogtrot
 brothered
@@ -15156,6 +15155,7 @@ bribegiver
 bribeless
 briber
 briberies
+biotome
 bribers
 bribes
 bribetaker
