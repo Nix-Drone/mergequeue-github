@@ -9570,7 +9570,6 @@ checkrower
 checkrowing
 consummatively
 checkrows
-checks
 checkstrap
 checkstring
 checksum
@@ -20731,6 +20730,7 @@ complices
 complicity
 complicitous
 complied
+checks
 complier
 compliers
 campodea
