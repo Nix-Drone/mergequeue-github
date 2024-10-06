@@ -5586,7 +5586,6 @@ afterchurch
 afterclap
 afterclause
 aftercome
-aftercomer
 aftercoming
 aftercooler
 aftercost
@@ -21183,6 +21182,7 @@ analyse
 ashrama
 ashstone
 ashthroat
+aftercomer
 ashtoreth
 ashtray
 ashtrays
