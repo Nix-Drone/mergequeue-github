@@ -4033,7 +4033,6 @@ adjutage
 adjutancies
 adjutant
 adjutants
-adjutantship
 anesthetic
 adjutator
 adjute
@@ -7708,6 +7707,7 @@ aldehydes
 aldehydic
 aldehydine
 aldehol
+adjutantship
 accompanists
 almadia
 alden
