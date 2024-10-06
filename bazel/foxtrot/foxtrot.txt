@@ -195,7 +195,6 @@ fossule
 facto
 factorability
 factorable
-factordom
 factoress
 flateria
 factory
@@ -6648,6 +6647,7 @@ focal
 focalised
 focalising
 focalization
+factordom
 focalizes
 focaloid
 fixtures
