@@ -21396,7 +21396,6 @@ concluder
 concluders
 concludes
 concludible
-concluding
 concludingly
 conclusion
 conclusional
@@ -24813,6 +24812,7 @@ coracine
 coracle
 coracler
 coracles
+concluding
 coracoacromial
 coracobrachial
 calcimeter
