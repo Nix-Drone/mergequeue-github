@@ -6907,7 +6907,6 @@ cementum
 cementwork
 cemetary
 cemetaries
-cemetery
 cemeterial
 cemeteries
 cen
@@ -16460,6 +16459,7 @@ cloam
 cloamen
 cloamer
 clobber
+cemetery
 clobbered
 cradleman
 clobbering
