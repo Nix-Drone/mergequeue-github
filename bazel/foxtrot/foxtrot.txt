@@ -287,7 +287,6 @@ faden
 fadeout
 fader
 faders
-fadge
 forra
 fellowless
 fadged
@@ -4381,6 +4380,7 @@ fishhood
 fishhooks
 faqir
 fishyard
+fadge
 farand
 fishyback
 fishified
