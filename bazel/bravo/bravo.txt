@@ -3149,6 +3149,7 @@ baseless
 baselessly
 baselevel
 bismarck
+boggler
 basely
 baselike
 baseline
@@ -11891,7 +11892,6 @@ boggle
 blastemas
 bogglebo
 boggled
-boggler
 bogglers
 boggles
 boggling
