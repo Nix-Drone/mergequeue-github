@@ -6238,6 +6238,7 @@ agminated
 agnails
 agname
 agnamed
+axes
 agnat
 agnate
 agnates
@@ -25086,7 +25087,6 @@ archphylarch
 ausforms
 axerophthol
 axers
-axes
 axfetch
 axhammer
 ascidian
