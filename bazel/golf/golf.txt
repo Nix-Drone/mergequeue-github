@@ -2653,7 +2653,6 @@ genders
 ghoulie
 geneal
 genealogic
-genealogical
 genealogists
 gradatim
 guttifer
@@ -7285,6 +7284,7 @@ gospellike
 garancine
 gyrostatically
 guze
+genealogical
 gentrification
 genys
 gospelmonger
