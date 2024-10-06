@@ -5705,7 +5705,6 @@ catechizable
 catechization
 catechize
 catechized
-catechizer
 catechizes
 catechizing
 catechol
@@ -19398,6 +19397,7 @@ colorrhaphy
 colors
 colortype
 cutose
+catechizer
 cleptomania
 colorum
 coloslossi
