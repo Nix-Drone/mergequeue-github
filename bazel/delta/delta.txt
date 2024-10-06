@@ -6097,6 +6097,7 @@ divest
 deraignment
 derail
 derailed
+duplicately
 derailing
 derailleur
 derailleurs
@@ -18395,7 +18396,6 @@ duplicability
 duplicable
 duplicand
 duplicando
-duplicately
 duplicates
 duplication
 duplications
