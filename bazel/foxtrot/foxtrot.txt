@@ -5161,7 +5161,6 @@ footpaddery
 fingery
 fanleaf
 frontate
-flatwoods
 flatworm
 furmente
 flatworms
@@ -11569,6 +11568,7 @@ fused
 fusees
 fusel
 fuselage
+flatwoods
 fuselages
 fuselike
 fusels
