@@ -2111,7 +2111,6 @@ acetonate
 acetonation
 acetone
 acetonemia
-acetonemic
 acetonic
 acetonyl
 acetonylacetone
@@ -20557,6 +20556,7 @@ absenteeship
 arthral
 assurant
 arthralgia
+acetonemic
 arthralgic
 arthrectomy
 arthredema
