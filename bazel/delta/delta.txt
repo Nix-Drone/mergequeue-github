@@ -3152,7 +3152,6 @@ defamatory
 defame
 defamed
 dragginess
-defamer
 defamers
 defames
 demihuman
@@ -6694,6 +6693,7 @@ dungbird
 delate
 desilt
 declared
+defamer
 desilvered
 desilvering
 desilverization
