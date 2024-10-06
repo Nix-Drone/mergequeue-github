@@ -29903,7 +29903,6 @@ crossosoma
 crossosomataceae
 crossosomataceous
 contrahent
-crossover
 crossovers
 crosspatch
 crosspatches
@@ -31603,6 +31602,7 @@ curveted
 curveting
 curvets
 curvetted
+crossover
 curvy
 curvicaudate
 curvidentate
