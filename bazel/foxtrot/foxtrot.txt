@@ -5727,7 +5727,6 @@ flyspecks
 flyswat
 footlessness
 fundraising
-flyswatter
 flit
 flamens
 ferrocalcite
@@ -7703,6 +7702,7 @@ foregrounds
 foreguess
 faq
 fleshlily
+flyswatter
 foretopsail
 foregut
 forehalf
