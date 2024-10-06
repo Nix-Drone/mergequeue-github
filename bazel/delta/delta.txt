@@ -4584,6 +4584,7 @@ dehydrators
 demidome
 demieagle
 demyelinate
+dithymol
 demies
 demifarthing
 demifigure
@@ -14151,7 +14152,6 @@ dither
 dithered
 ditherer
 dithery
-dithymol
 dithiobenzoic
 dithioglycol
 donating
