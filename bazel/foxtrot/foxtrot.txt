@@ -212,7 +212,6 @@ factorization
 fab
 factorizations
 fluviose
-factorize
 factorized
 factorizing
 factors
@@ -5254,6 +5253,7 @@ forthbrought
 fieldy
 flavourless
 flavourous
+factorize
 flavours
 flavoursome
 frothiest
