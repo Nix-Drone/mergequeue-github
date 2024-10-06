@@ -16700,7 +16700,6 @@ clothesbrush
 clotheshorse
 clotheshorses
 clothesyard
-clothesless
 clothesline
 clotheslines
 clothesman
@@ -26386,6 +26385,7 @@ cotylopubic
 catatonics
 criminalist
 cotylosacral
+clothesless
 cotylosaur
 cotylosauria
 cotylosaurian
