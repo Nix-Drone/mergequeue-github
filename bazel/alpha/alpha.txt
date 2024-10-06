@@ -3555,7 +3555,6 @@ addossed
 addr
 address
 addressability
-allotheistic
 ammine
 addressable
 addressees
@@ -7825,6 +7824,7 @@ aleger
 alehouse
 alehouses
 aleyard
+allotheistic
 aleikoum
 aleikum
 aleiptes
