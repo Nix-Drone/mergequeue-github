@@ -5953,7 +5953,6 @@ absolves
 agenes
 ageneses
 agenesias
-agenesic
 agenesis
 agenetic
 agenize
@@ -17699,6 +17698,7 @@ ascii
 alienees
 appendiceal
 appendicectasis
+agenesic
 appendicectomy
 antithet
 appendicectomies
