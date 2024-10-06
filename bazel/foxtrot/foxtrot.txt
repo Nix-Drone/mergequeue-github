@@ -2460,7 +2460,6 @@ ferlies
 foretriangle
 ferlying
 ferling
-fermacy
 fermail
 fermal
 fermata
@@ -10767,6 +10766,7 @@ frustrated
 frustrates
 flaskets
 furling
+fermacy
 foldboat
 frustrating
 foretokened
