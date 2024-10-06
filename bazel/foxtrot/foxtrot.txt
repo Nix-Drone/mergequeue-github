@@ -7218,7 +7218,6 @@ footmark
 footmen
 footnote
 footnoted
-footpace
 footpaces
 forefather
 feriae
@@ -7586,6 +7585,7 @@ foreconceive
 formalism
 foreconclude
 flops
+footpace
 foreconscious
 foreconsider
 forecontrive
