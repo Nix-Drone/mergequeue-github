@@ -16230,7 +16230,6 @@ cask
 clinicist
 clinicopathological
 clinicopathologically
-clinics
 clinid
 clinium
 clink
@@ -20684,6 +20683,7 @@ complexer
 complexes
 cebatha
 complexest
+clinics
 complexify
 complexification
 complexing
