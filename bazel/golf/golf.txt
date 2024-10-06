@@ -1632,6 +1632,7 @@ gasogen
 gasogene
 gasogenic
 gasohol
+generators
 gasolene
 gasolenes
 gasolier
@@ -2723,7 +2724,6 @@ generations
 generative
 generativeness
 gameball
-generators
 generatrices
 generic
 generically
