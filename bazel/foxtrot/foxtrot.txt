@@ -5080,7 +5080,6 @@ fanterie
 flask
 ferricyanhydric
 flasker
-foretooth
 faecal
 flasklet
 flasks
@@ -7387,6 +7386,7 @@ forbiddenness
 fenestellae
 flames
 foolishness
+foretooth
 forbidding
 fruitery
 forbiddingly
