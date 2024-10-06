@@ -4920,7 +4920,6 @@ encushion
 end
 endable
 endamage
-endamageable
 endamagement
 endamages
 endamaging
@@ -10905,6 +10904,7 @@ euosmite
 euouae
 eupad
 eupanorthidae
+endamageable
 eupanorthus
 encharnel
 endarteria
