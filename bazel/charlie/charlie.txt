@@ -4121,7 +4121,6 @@ cardoon
 cardoons
 cardophagus
 cardosanto
-cardplaying
 cardroom
 cards
 clearwing
@@ -9762,6 +9761,7 @@ chekist
 chekker
 chekmak
 chela
+cardplaying
 chelatable
 chelate
 chelated
