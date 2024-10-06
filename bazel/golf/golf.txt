@@ -4104,7 +4104,6 @@ gilbertine
 gaddi
 gamene
 gild
-gildable
 gildedness
 gilden
 gilder
@@ -7443,6 +7442,7 @@ gourmandism
 gourmandize
 gourmandizer
 gomerals
+gildable
 geosynclines
 giornatate
 ghbor
