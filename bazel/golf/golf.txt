@@ -957,7 +957,6 @@ gamelang
 gamelans
 gameless
 gentian
-gamely
 gamelike
 gymnast
 goracco
@@ -9352,6 +9351,7 @@ garnishry
 groovier
 grooviest
 grooving
+gamely
 grope
 groped
 gropers
