@@ -2586,6 +2586,7 @@ ferryboat
 ferryboats
 familistery
 ferricyanate
+floridities
 ferrandin
 furiosity
 ferricyanide
@@ -6881,7 +6882,6 @@ folio
 foliobranch
 foliocellosis
 flannel
-floridities
 forejudger
 folioed
 foreporch
