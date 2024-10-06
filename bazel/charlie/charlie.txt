@@ -8383,6 +8383,7 @@ chalkline
 chalkone
 chalkos
 chalkosideric
+courtroll
 chalkotheke
 chalkpit
 chalkrail
@@ -27352,7 +27353,6 @@ courtlike
 courtman
 courtney
 courtnoll
-courtroll
 courtroom
 courts
 courtship
