@@ -3514,7 +3514,6 @@ deforesting
 deforests
 deform
 diasters
-deformability
 disknow
 deformable
 deformalize
@@ -11371,6 +11370,7 @@ discipliners
 discipling
 disciplining
 discipular
+deformability
 discission
 discitis
 disclaim
