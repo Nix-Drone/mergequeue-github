@@ -4126,6 +4126,7 @@ cardroom
 cards
 clearwing
 collunaria
+catapetalous
 cardshark
 carbamido
 cardsharp
@@ -5546,7 +5547,6 @@ catan
 catanadromous
 concentive
 catapasm
-catapetalous
 caducity
 cataphatic
 cataphyll
