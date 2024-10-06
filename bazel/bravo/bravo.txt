@@ -5293,7 +5293,6 @@ broadsheet
 begirded
 begirding
 begirdled
-begirdles
 begirdling
 begirds
 begirt
@@ -15882,6 +15881,7 @@ brominate
 brominated
 bromination
 bromine
+begirdles
 buzzbomb
 bromines
 brominize
