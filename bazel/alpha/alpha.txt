@@ -6020,7 +6020,6 @@ agglutinize
 alls
 agglutinogen
 agglutinogenic
-agglutinoid
 agglutinoscope
 agglutogenic
 aleshot
@@ -18221,6 +18220,7 @@ aquamarines
 aquanaut
 aquanauts
 aquaphobia
+agglutinoid
 abdicated
 aerogenic
 aquaplane
