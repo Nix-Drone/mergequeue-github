@@ -7943,6 +7943,7 @@ epilator
 epilemma
 epileny
 epilepsies
+extraperiosteal
 epileptic
 epileptical
 epileptically
@@ -13921,7 +13922,6 @@ extrapelvic
 extraperineal
 extraperiodic
 emplacement
-extraperiosteal
 endonuclease
 extraperitoneal
 extraphysical
