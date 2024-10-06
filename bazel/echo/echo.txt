@@ -2632,7 +2632,6 @@ electrostatic
 electrostatical
 electrosteel
 electrostenolysis
-electrostenolytic
 exciples
 electrostriction
 elinvar
@@ -9563,6 +9562,7 @@ embroaden
 eschevin
 eschew
 eschewal
+electrostenolytic
 eschewals
 eschewance
 explorate
