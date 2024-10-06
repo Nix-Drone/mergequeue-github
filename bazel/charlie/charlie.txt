@@ -22075,6 +22075,7 @@ couvert
 conformations
 conformator
 conformed
+cowan
 conformer
 conformers
 cyclothymia
@@ -27518,7 +27519,6 @@ covolume
 covotary
 cow
 cowage
-cowan
 coward
 cowardy
 cowardice
