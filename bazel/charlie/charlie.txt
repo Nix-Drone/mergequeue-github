@@ -14693,7 +14693,6 @@ cystoflagellata
 cystogenesis
 cystogenous
 cystogram
-cystoid
 cystoidea
 crooners
 cystoidean
@@ -25399,6 +25398,7 @@ cornroot
 cornrow
 cornrows
 corns
+cystoid
 cornsack
 cornstalks
 carida
