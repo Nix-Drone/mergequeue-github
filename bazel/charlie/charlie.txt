@@ -2790,7 +2790,6 @@ cantatas
 corolline
 cantate
 cantation
-cantatory
 cantatrice
 cantatrices
 chestily
@@ -6835,6 +6834,7 @@ celoms
 celoscope
 celosia
 celosias
+cantatory
 celotex
 celotomy
 consultee
