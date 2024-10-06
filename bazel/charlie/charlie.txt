@@ -9011,6 +9011,7 @@ chariot
 charioted
 chariotee
 charioteer
+compactability
 charioting
 chariotlike
 chariotman
@@ -20379,7 +20380,6 @@ comp
 compaa
 cistae
 compact
-compactability
 compactable
 compacted
 compactedly
