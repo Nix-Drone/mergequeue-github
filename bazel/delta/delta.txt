@@ -5989,7 +5989,6 @@ deprival
 disprofit
 deprivals
 deprivate
-deprivation
 deprive
 deprived
 deprivement
@@ -17381,6 +17380,7 @@ dropberry
 dropcloth
 dropforge
 dorsicommissure
+deprivation
 dropforger
 drophead
 dorsocervically
