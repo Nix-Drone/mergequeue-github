@@ -8255,7 +8255,6 @@ bier
 broid
 bierbalk
 blest
-byerite
 bierkeller
 byerlite
 bierstube
@@ -14516,6 +14515,7 @@ bombloads
 brandise
 ballotade
 brandish
+byerite
 brandished
 brandisher
 biochron
