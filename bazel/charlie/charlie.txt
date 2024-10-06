@@ -10099,6 +10099,7 @@ choices
 cheskeys
 cheslep
 chesoun
+chromatopsia
 chess
 chessart
 chessboard
@@ -12395,7 +12396,6 @@ chromatophoric
 chalukya
 cnidophobia
 chromatoplasm
-chromatopsia
 chromatoptometer
 chromatoptometry
 chromatoscope
