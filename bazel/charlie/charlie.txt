@@ -22889,7 +22889,6 @@ consignataries
 cosinage
 consignatory
 consigned
-consignee
 consignees
 consignify
 consignificant
@@ -27721,6 +27720,7 @@ coxoceritic
 coxodynia
 coupee
 coxopodite
+consignee
 coxswain
 coxswained
 coxswains
