@@ -5018,7 +5018,6 @@ aerometeorograph
 aerometer
 aerometry
 abluted
-aerometric
 aeromotor
 aeronat
 aeronaut
@@ -21926,6 +21925,7 @@ assumer
 assumers
 ambagiousness
 assumes
+aerometric
 assuming
 assumingly
 adrenalone
