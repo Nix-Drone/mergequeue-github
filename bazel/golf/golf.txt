@@ -3914,7 +3914,6 @@ graphospasm
 giblet
 giblets
 giboia
-goyle
 glave
 gibsons
 gibstaff
@@ -6656,6 +6655,7 @@ goldie
 golding
 gesning
 goldish
+goyle
 goldless
 goldonian
 goldsinny
