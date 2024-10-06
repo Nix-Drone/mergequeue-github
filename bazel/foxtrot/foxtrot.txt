@@ -5931,7 +5931,6 @@ flook
 floorages
 forgottenness
 floorboard
-floorcloth
 fala
 forevermore
 frigidity
@@ -9883,6 +9882,7 @@ frontingly
 fresh
 freshed
 fraxinella
+floorcloth
 freshen
 farrantly
 fresheners
