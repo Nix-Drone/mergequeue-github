@@ -5904,6 +5904,7 @@ floodboard
 fabiform
 flooded
 flinthead
+foredo
 flooder
 flooders
 floodgate
@@ -7003,7 +7004,6 @@ fon
 fonctionnaire
 fond
 fondaco
-foredo
 fondant
 fondants
 fondateur
