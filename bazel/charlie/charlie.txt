@@ -14188,7 +14188,6 @@ circuit
 circuitable
 circuital
 circuited
-circuiteer
 circuiter
 clyer
 continues
@@ -17917,6 +17916,7 @@ charioteers
 coelodont
 coelogastrula
 coelogyne
+circuiteer
 coeloglossum
 coelom
 coeloma
