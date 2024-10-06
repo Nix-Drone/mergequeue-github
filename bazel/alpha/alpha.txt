@@ -6827,7 +6827,6 @@ arresting
 airbursts
 antonina
 airbuses
-airbusses
 aircheck
 airchecks
 aircoaches
@@ -16649,6 +16648,7 @@ aouads
 aoudad
 aouellimiden
 antiopiumite
+airbusses
 ap
 apa
 apabhramsa
