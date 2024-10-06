@@ -4928,6 +4928,7 @@ faliscan
 fantaseid
 forge
 flaminica
+foredetermine
 flaminical
 flamless
 flammable
@@ -9470,7 +9471,6 @@ frankish
 familia
 franklin
 franklinian
-foredetermine
 frails
 frankliniana
 franklinic
