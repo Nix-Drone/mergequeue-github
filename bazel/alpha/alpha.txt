@@ -8756,6 +8756,7 @@ allocatable
 allocate
 allocatee
 allocates
+arches
 allocating
 allocation
 amyosthenia
@@ -18898,7 +18899,6 @@ archership
 acetonurometer
 abstentions
 autoagglutination
-arches
 archespore
 archespores
 autonephrectomy
