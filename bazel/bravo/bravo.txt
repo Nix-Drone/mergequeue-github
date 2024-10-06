@@ -12706,7 +12706,6 @@ banderilleros
 booksellers
 bookselling
 bookshelf
-bookshelves
 boloney
 bookshop
 bookshops
@@ -17784,6 +17783,7 @@ burningly
 burnish
 burnishable
 brazening
+bookshelves
 burnisher
 burnishers
 burnishes
