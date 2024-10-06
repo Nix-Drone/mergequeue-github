@@ -6401,7 +6401,6 @@ bocklogged
 buhrstone
 benzdiazine
 bipolarize
-benzdifuran
 benzdioxdiazine
 benzdioxtriazine
 benzein
@@ -17067,6 +17066,7 @@ bullarium
 bullate
 bullation
 bullback
+benzdifuran
 botfly
 bullbaiting
 bullbat
