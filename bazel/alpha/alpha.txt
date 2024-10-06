@@ -4588,7 +4588,6 @@ adverbialize
 adverbially
 adverbiation
 adverbless
-adverbs
 adversa
 adversant
 adversary
@@ -13570,6 +13569,7 @@ annoying
 arboreta
 annoyingly
 authigenic
+adverbs
 acropodia
 annoyingness
 annoyment
