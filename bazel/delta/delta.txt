@@ -6870,7 +6870,6 @@ despatcher
 despatches
 despatching
 despecialization
-dispute
 despecialize
 despecificate
 despecification
@@ -14697,6 +14696,7 @@ doctorally
 dumontite
 doctorate
 downspout
+dispute
 doctorates
 doctorbird
 doctoress
