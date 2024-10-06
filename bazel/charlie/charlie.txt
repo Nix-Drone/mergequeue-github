@@ -7851,7 +7851,6 @@ cervicolabial
 cervicolingual
 cervicolumbar
 crystal
-cervicomuscular
 cerviconasal
 cervicoscapular
 cervicothoracic
@@ -27272,6 +27271,7 @@ courants
 courap
 couratari
 courb
+cervicomuscular
 courbache
 courbaril
 courbe
