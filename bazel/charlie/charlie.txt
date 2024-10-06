@@ -9566,7 +9566,6 @@ compathy
 checkrooms
 checkrope
 checkrow
-checkrower
 checkrowing
 consummatively
 checkrows
@@ -15178,6 +15177,7 @@ clachan
 clachans
 clachs
 clack
+checkrower
 clackama
 circumtropical
 clacker
