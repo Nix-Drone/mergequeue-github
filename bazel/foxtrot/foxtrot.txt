@@ -2584,7 +2584,6 @@ ferrets
 ferriages
 ferryboat
 ferryboats
-familistery
 ferricyanate
 ferrandin
 furiosity
@@ -9782,6 +9781,7 @@ freezy
 freezing
 freezingly
 fregata
+familistery
 fortitude
 fregit
 fendable
