@@ -5874,6 +5874,7 @@ elaborates
 enheart
 enheaven
 enhedge
+exclusion
 enhelm
 elysia
 enhemospore
@@ -12083,7 +12084,6 @@ excludes
 endpoint
 excludingly
 exampleship
-exclusion
 exclusionary
 eigenspace
 exclusioner
