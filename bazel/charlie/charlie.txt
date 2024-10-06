@@ -6576,7 +6576,6 @@ ceders
 cedes
 cedilla
 cedillas
-ceding
 cedis
 cosheath
 cedrat
@@ -9383,6 +9382,7 @@ chaunt
 chaunted
 chaunter
 capillaritis
+ceding
 chaunters
 chaunting
 chaunts
