@@ -2515,6 +2515,7 @@ daneworts
 declaring
 declasse
 divisibly
+dsname
 declasses
 declassicize
 declassify
@@ -17669,7 +17670,6 @@ dsect
 drinkery
 dsects
 desmodium
-dsname
 dashers
 dsnames
 dsp
