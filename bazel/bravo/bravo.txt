@@ -6144,6 +6144,7 @@ benchlet
 benchman
 benchmar
 benchmark
+binucleated
 benchmarked
 benchmarks
 benchmen
@@ -8908,7 +8909,6 @@ binoxide
 bints
 binturong
 binuclear
-binucleated
 bigoniac
 binucleolate
 binukau
