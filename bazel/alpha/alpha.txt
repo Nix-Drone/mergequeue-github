@@ -3682,7 +3682,6 @@ adenohypophysial
 attrib
 adenohypophysis
 adenoid
-adenoidal
 adenoidectomy
 adenoidectomies
 adenoidism
@@ -25018,6 +25017,7 @@ awhirl
 awide
 awiggle
 archicleistogamous
+adenoidal
 awin
 awing
 awingly
