@@ -5551,7 +5551,6 @@ deoxidize
 deoxidizer
 dreggy
 deoxidizers
-deoxidizes
 deoxidizing
 deoxygenated
 deoxygenating
@@ -12012,6 +12011,7 @@ disentanglement
 disentangling
 disenter
 dysentery
+deoxidizes
 dysenteric
 dysenterical
 dysenteries
