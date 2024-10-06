@@ -11380,7 +11380,6 @@ chloropia
 chloropicrin
 chloroplast
 chloroplastic
-chloroplastid
 complanate
 chloroplasts
 chloroplatinate
@@ -14233,6 +14232,7 @@ circulatable
 circulated
 circulates
 circulation
+chloroplastid
 circulations
 circulative
 commodities
