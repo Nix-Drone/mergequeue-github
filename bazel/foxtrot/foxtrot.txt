@@ -1082,6 +1082,7 @@ farmeries
 farmerish
 farmerly
 farmerlike
+forgather
 farmership
 farmhold
 farmhouse
@@ -8216,7 +8217,6 @@ forfouchten
 forfoughten
 finestra
 forgat
-forgather
 finickiness
 forgathered
 flamelet
