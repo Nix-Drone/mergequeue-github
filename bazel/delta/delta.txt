@@ -2812,7 +2812,6 @@ decrepit
 decrepitate
 duodecahedral
 decrepitated
-decrepitation
 decrepity
 decrepitness
 decreptitude
@@ -5209,6 +5208,7 @@ directives
 denitrate
 denitrated
 daemon
+decrepitation
 denitration
 denitrator
 deathly
