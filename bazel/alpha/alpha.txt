@@ -4587,7 +4587,6 @@ adverbiality
 adverbialize
 adverbially
 adverbiation
-adverbless
 adverbs
 adversa
 adversant
@@ -5005,6 +5004,7 @@ aerologic
 aerological
 aerologies
 aerologist
+adverbless
 aerologists
 antieducationist
 aeromaechanic
