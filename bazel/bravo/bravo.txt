@@ -762,7 +762,6 @@ berrendo
 badgeman
 barrels
 boraciferous
-badgemen
 badger
 badgerbrush
 badgered
@@ -8779,6 +8778,7 @@ bimedial
 bimesters
 bimetal
 bimetalism
+badgemen
 bimetallic
 belching
 bulldoggish
