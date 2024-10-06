@@ -5208,7 +5208,6 @@ denis
 directives
 denitrate
 denitrated
-daemon
 denitration
 denitrator
 deathly
@@ -8895,6 +8894,7 @@ dichotomies
 dichotomisation
 dichotomise
 dimethoxymethane
+daemon
 dimerous
 dichotomization
 disattire
