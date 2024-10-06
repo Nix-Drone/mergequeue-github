@@ -5919,6 +5919,7 @@ floodlike
 floodlilit
 floodlit
 floodplain
+foxhounds
 floods
 forst
 fortifiable
@@ -9160,7 +9161,6 @@ foxhole
 flexionless
 foxholes
 foxhound
-foxhounds
 filterer
 frumpishness
 foxie
