@@ -2873,7 +2873,6 @@ barothermogram
 bitis
 barothermograph
 barothermohygrograph
-baroto
 barotrauma
 bulgurs
 barotraumas
@@ -13386,6 +13385,7 @@ bottlemaker
 bottleman
 bottleneck
 brayer
+baroto
 bottlenest
 bottlemaking
 bottlenose
