@@ -861,7 +861,6 @@ fano
 fanon
 fellon
 fanos
-fanout
 fantailed
 fantails
 fantaisie
@@ -6774,6 +6773,7 @@ foyers
 foil
 foiled
 foiling
+fanout
 foilsmen
 foin
 foining
