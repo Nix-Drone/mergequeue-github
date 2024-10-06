@@ -2635,7 +2635,6 @@ ferromanganese
 ferrometer
 ferronatrite
 ferronickel
-ferrophosphorus
 filicologist
 frustulose
 ferrotype
@@ -5065,6 +5064,7 @@ flashings
 flashlamp
 flashlight
 flashlike
+ferrophosphorus
 futilitarian
 forellenstein
 frothi
