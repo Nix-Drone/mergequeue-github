@@ -8729,6 +8729,7 @@ fortifiers
 fortifies
 fafnir
 fortifying
+functors
 fortifyingly
 fortifys
 fortyfives
@@ -11146,7 +11147,6 @@ functionnaire
 fumosity
 functions
 functor
-functors
 functus
 fund
 fundal
