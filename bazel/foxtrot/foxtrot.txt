@@ -1993,7 +1993,6 @@ feedbin
 februarius
 feedboard
 feedbox
-feedboxes
 feeder
 foundationed
 flaxseeds
@@ -6742,6 +6741,7 @@ fogyish
 fogless
 foolship
 fogmen
+feedboxes
 fuseless
 fogo
 fogon
