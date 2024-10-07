@@ -22438,7 +22438,6 @@ conjecturably
 coronetlike
 conjectural
 conjecturalist
-conjecturality
 conjecturally
 conjecture
 conjecturer
@@ -29284,6 +29283,7 @@ cryptographal
 cryptography
 cryptographic
 cryptographical
+conjecturality
 cryptographist
 cryptoheresy
 cryptoheretic
