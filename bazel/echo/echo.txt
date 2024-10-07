@@ -5814,7 +5814,6 @@ engraulis
 engrave
 engravement
 engraven
-engraver
 engravers
 engraves
 easts
@@ -12580,6 +12579,7 @@ existentialize
 existently
 existents
 exister
+engraver
 existibility
 extant
 engastrimyth
