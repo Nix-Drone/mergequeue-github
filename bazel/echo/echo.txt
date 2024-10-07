@@ -2331,7 +2331,6 @@ epistroma
 electrobus
 electrocapillary
 electrocapillarity
-electrocardiogram
 electrocardiograms
 escarped
 electrocardiograph
@@ -9041,6 +9040,7 @@ ericad
 edison
 emptive
 erical
+electrocardiogram
 endosmotically
 ericales
 ericas
