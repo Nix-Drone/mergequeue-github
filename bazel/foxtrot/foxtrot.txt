@@ -3597,6 +3597,7 @@ fineries
 flagmaking
 filcher
 faventine
+freeholdership
 filching
 filchingly
 file
@@ -9707,7 +9708,6 @@ freehold
 freeholder
 feltmaker
 freeholders
-freeholdership
 foreigners
 fungusy
 freeholding
