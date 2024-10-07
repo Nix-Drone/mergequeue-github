@@ -355,7 +355,6 @@ backfold
 backframe
 beknot
 backfriend
-borgh
 backfurrow
 backgame
 backgammon
@@ -1859,6 +1858,7 @@ banalities
 banally
 banana
 bananaland
+borgh
 banande
 bananist
 bananivorous
