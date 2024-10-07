@@ -2116,7 +2116,6 @@ campshed
 campshedding
 campsheeting
 campsite
-compasser
 campsites
 campstool
 campstools
@@ -8902,6 +8901,7 @@ cutouts
 charactered
 characterful
 charactery
+compasser
 characterial
 characteries
 charactering
