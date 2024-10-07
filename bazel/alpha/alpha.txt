@@ -9584,7 +9584,6 @@ arrhal
 aluminite
 aluminium
 aluminize
-aluminized
 aluminizes
 aluminizing
 aluminoferric
@@ -16868,6 +16867,7 @@ accidentals
 aphetic
 aphetically
 aphanitic
+aluminized
 aphetize
 aphicidal
 aphicide
