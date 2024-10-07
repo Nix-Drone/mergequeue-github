@@ -1821,6 +1821,7 @@ debitable
 dermostenosis
 debite
 debiteuse
+deferred
 debiting
 dregless
 debitor
@@ -3290,7 +3291,6 @@ deferments
 deferrable
 deferral
 deferrals
-deferred
 deferrer
 deferrers
 deferrize
