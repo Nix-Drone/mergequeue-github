@@ -1811,7 +1811,6 @@ eyeliners
 eyemark
 eyen
 electric
-eyeopener
 eyepiece
 eyepit
 eyepoint
@@ -3609,6 +3608,7 @@ embowered
 embowering
 embowerment
 embowers
+eyeopener
 estimates
 effectualize
 ectomere
