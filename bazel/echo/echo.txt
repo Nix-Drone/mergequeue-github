@@ -2128,7 +2128,6 @@ elapsed
 elapses
 elapsing
 elargement
-elasmobranch
 elasmobranchii
 epilimnia
 edgemaker
@@ -5436,6 +5435,7 @@ everglade
 execrates
 endue
 exploration
+elasmobranch
 enduing
 endura
 esthesioneurosis
