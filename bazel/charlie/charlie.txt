@@ -14155,7 +14155,6 @@ compend
 circadian
 circaeaceae
 chamoising
-circaetus
 coriandrol
 circassic
 corpuscle
@@ -25603,6 +25602,7 @@ corpulency
 corpulencies
 closestool
 corpulently
+circaetus
 corpulentness
 corpus
 cynocrambaceae
