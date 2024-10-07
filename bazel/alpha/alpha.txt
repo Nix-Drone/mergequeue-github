@@ -4441,7 +4441,6 @@ adstipulating
 adstipulation
 adstipulator
 adsum
-adterminal
 adtevac
 aduana
 adular
@@ -14422,6 +14421,7 @@ anthologised
 anthologising
 anthologist
 anthologists
+adterminal
 anthologize
 anthologized
 anthologizer
