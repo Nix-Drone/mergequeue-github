@@ -18903,7 +18903,6 @@ collations
 cesti
 collatitious
 cloine
-collative
 collator
 cairds
 collators
@@ -30911,6 +30910,7 @@ cumay
 cumal
 cumaldehyde
 cumaphytic
+collative
 cachou
 cumaphytism
 coronaled
