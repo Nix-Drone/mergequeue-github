@@ -4004,7 +4004,6 @@ aversely
 adjugate
 airbus
 adjument
-adjunct
 adjunctive
 adjunctively
 adjunctly
@@ -7400,6 +7399,7 @@ albian
 albicans
 albicant
 albication
+adjunct
 albicore
 albicores
 albiculi
