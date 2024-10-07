@@ -1910,7 +1910,6 @@ eightvos
 eikon
 eikonology
 eikons
-epicoracoidal
 eyl
 eila
 eild
@@ -7666,6 +7665,7 @@ epicycle
 expectance
 epiclike
 epiclinal
+epicoracoidal
 epicnemial
 epicoele
 epicoelia
