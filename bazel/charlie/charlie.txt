@@ -5678,7 +5678,6 @@ catdom
 cate
 catechesis
 catechetic
-congenator
 conduceability
 catechetical
 catechetically
@@ -12571,6 +12570,7 @@ chronicles
 chronicling
 censer
 chronicon
+congenator
 chronics
 chronique
 chronisotherm
