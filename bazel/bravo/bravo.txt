@@ -555,7 +555,6 @@ backtrail
 backups
 backus
 backveld
-backvelder
 backway
 backwall
 bewhite
@@ -13647,6 +13646,7 @@ bourse
 bourtree
 bezonian
 bouse
+backvelder
 boused
 bouser
 bargoose
