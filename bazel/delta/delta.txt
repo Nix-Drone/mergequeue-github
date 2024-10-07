@@ -8871,6 +8871,7 @@ dichloroacetic
 dichlorobenzene
 dichlorodifluoromethane
 dichlorodiphenyltrichloroethane
+dispeller
 dichlorohydrin
 dichloromethane
 dichlorvos
@@ -12964,7 +12965,6 @@ dispellable
 danubian
 dispelled
 diplomyelia
-dispeller
 dorsimedian
 dispells
 dispels
