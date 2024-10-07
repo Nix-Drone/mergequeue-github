@@ -908,7 +908,6 @@ gambirs
 gambist
 gambits
 gonotocont
-guillemot
 gamble
 gambler
 gamblesome
@@ -5299,6 +5298,7 @@ gleamily
 gleaminess
 gerardia
 gleaming
+guillemot
 gleamingly
 gleamless
 glabellous
