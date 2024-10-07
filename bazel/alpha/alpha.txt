@@ -12033,7 +12033,6 @@ anathematiser
 anathematising
 anathematism
 anathematization
-anathematize
 anathematized
 anathematizer
 anathematizes
@@ -24013,6 +24012,7 @@ autodidact
 autodidactic
 autodidactically
 autodifferentiation
+anathematize
 autodiffusion
 autodigestion
 autodyne
