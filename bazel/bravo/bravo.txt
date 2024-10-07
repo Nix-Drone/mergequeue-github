@@ -8582,7 +8582,6 @@ byline
 bilinear
 boardmanship
 berun
-bilineate
 bilineated
 bylined
 billfold
@@ -12661,6 +12660,7 @@ booklets
 broomy
 booklift
 booklike
+bilineate
 bookling
 booklists
 booklore
