@@ -31856,7 +31856,6 @@ cutpurse
 cutpurses
 cuts
 cutset
-cuttable
 cyclothyme
 cuttage
 cuttages
@@ -31944,6 +31943,7 @@ czech
 czechic
 cloriodid
 czechish
+cuttable
 czechization
 czechoslovak
 czechoslovakian
