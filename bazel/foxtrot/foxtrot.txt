@@ -6250,6 +6250,7 @@ frizzlers
 formalisms
 fraticellian
 ferroprint
+forereach
 fervour
 fluer
 fourrier
@@ -7910,7 +7911,6 @@ fideles
 frankalmoin
 frenchify
 forerank
-forereach
 forereading
 forerecited
 forereckon
