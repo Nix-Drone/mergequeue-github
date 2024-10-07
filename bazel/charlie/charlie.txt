@@ -1425,7 +1425,6 @@ callboy
 callboys
 called
 callers
-calles
 callet
 callets
 calli
@@ -18561,6 +18560,7 @@ cartonnier
 coinstantaneous
 coinstantaneously
 causeful
+calles
 coinstantaneousness
 coinsurance
 coinsurer
