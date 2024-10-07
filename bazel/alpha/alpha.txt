@@ -9637,7 +9637,6 @@ alveola
 alveolar
 alveolae
 alveolary
-alveolariform
 alveolarly
 alveolars
 alveolate
@@ -19351,6 +19350,7 @@ arecolin
 arecoline
 arecuna
 ared
+alveolariform
 areek
 areel
 arefact
