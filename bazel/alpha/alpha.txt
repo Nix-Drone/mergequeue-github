@@ -1007,7 +1007,6 @@ arius
 adiathermanous
 absorbability
 absorbable
-absorbance
 absorbancy
 absorbant
 absorbed
@@ -5149,6 +5148,7 @@ aestheticism
 aestheticist
 aestheticize
 aesthetics
+absorbance
 aesthiology
 aesthophysiology
 aestii
