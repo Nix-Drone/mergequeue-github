@@ -1981,7 +1981,6 @@ daimen
 decagons
 decagram
 decagramme
-decagrams
 decahedra
 decahedral
 decahedron
@@ -18353,6 +18352,7 @@ duomi
 duomos
 doyst
 duopolies
+decagrams
 duopolist
 duopolistic
 duopsony
