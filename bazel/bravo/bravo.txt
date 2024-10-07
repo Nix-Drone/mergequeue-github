@@ -1964,7 +1964,6 @@ bandless
 bejabers
 bodrag
 blastoff
-bandlet
 bandlimited
 breadwinners
 bandlimiting
@@ -6211,6 +6210,7 @@ buffalofish
 bisulfite
 beneficed
 beneficeless
+bandlet
 beneficence
 bravo
 beneficent
