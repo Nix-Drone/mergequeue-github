@@ -3479,7 +3479,6 @@ fightable
 forel
 fighteress
 fanwort
-fighting
 fightingly
 fights
 figitidae
@@ -8355,6 +8354,7 @@ forleit
 futuristic
 forlese
 forlet
+fighting
 ferulaic
 frenziedness
 forletting
