@@ -5457,7 +5457,6 @@ fleshiness
 fourniture
 fleshing
 fleshings
-formatters
 fanjets
 fleshless
 fleshlier
@@ -9663,6 +9662,7 @@ free
 fluorid
 freebees
 foetors
+formatters
 freeby
 fantasmagoric
 freebie
