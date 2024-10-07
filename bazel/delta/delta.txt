@@ -1491,6 +1491,7 @@ defrosts
 deadborn
 deadcenter
 deeryards
+docetic
 deadeye
 deaden
 deadened
@@ -5790,7 +5791,6 @@ depolarised
 depolariser
 darksome
 depolarising
-docetic
 depolarization
 depolarize
 depolarizers
