@@ -3944,7 +3944,6 @@ cardcases
 cardecu
 carded
 cardel
-carder
 carders
 cardholder
 cardia
@@ -8846,6 +8845,7 @@ chaplanry
 chapless
 chaplet
 chapleted
+carder
 chaplets
 chapman
 chapmanship
