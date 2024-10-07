@@ -2799,7 +2799,6 @@ cantboard
 cantdog
 cantdogs
 canted
-canteen
 canteens
 cantefable
 canter
@@ -17164,6 +17163,7 @@ coalfish
 coalfishes
 coalfitter
 coalhole
+canteen
 coalholes
 catacrotism
 coaly
