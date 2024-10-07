@@ -2317,7 +2317,6 @@ fencelet
 fenceplay
 fencepost
 fenceress
-fencers
 freeborn
 firebricks
 fsiest
@@ -11521,6 +11520,7 @@ floodlet
 fairleader
 froggery
 furtherly
+fencers
 fresnels
 flaughtbred
 furthermore
