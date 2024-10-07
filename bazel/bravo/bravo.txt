@@ -1905,7 +1905,6 @@ bandeau
 bandeaux
 betula
 banded
-bandelet
 bandelette
 bandeng
 banderlog
@@ -7737,6 +7736,7 @@ beziques
 bezoar
 benelux
 brittles
+bandelet
 bezoardic
 bezoars
 birdweed

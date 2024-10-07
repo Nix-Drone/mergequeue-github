@@ -1966,6 +1966,7 @@ guariba
 gatewise
 gatewoman
 gatherable
+guinfo
 gathered
 gilgai
 gatherers
@@ -10243,7 +10244,6 @@ gazoz
 germarium
 gorman
 guinevere
-guinfo
 gemmy
 genian
 guinness
