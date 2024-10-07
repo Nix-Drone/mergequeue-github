@@ -10754,7 +10754,6 @@ blepharophyma
 blepharoplast
 blepharoplastic
 blepharoplegia
-blepharoptosis
 blepharorrhaphy
 blepharosymphysis
 blepharosyndesmitis
@@ -12210,6 +12209,7 @@ brake
 boltage
 boltcutter
 buckstay
+blepharoptosis
 bolted
 bowenite
 bolter
