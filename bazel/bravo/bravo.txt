@@ -1921,7 +1921,6 @@ bandersnatch
 bandfile
 bandfiled
 bandfish
-bandgap
 bandh
 brownism
 bandhava
@@ -13528,6 +13527,7 @@ boulter
 boulterer
 bounce
 bounceable
+bandgap
 bounceably
 beslipper
 bounceback
