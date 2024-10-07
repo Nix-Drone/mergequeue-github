@@ -5086,7 +5086,6 @@ denaturate
 denaturational
 diver
 denature
-denatured
 denaturing
 denaturisation
 denaturise
@@ -14112,6 +14111,7 @@ diswont
 diswood
 disworth
 dita
+denatured
 dital
 ditali
 ditalini
