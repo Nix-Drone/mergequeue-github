@@ -75,7 +75,6 @@ defailance
 diarchial
 dacryocystoptosis
 dacryocystosyringotomy
-dacryocystotome
 dacryocystotomy
 dacryohemorrhea
 dacryolithiasis
@@ -3784,6 +3783,7 @@ dehort
 dumbnesses
 dehortative
 dehorted
+dacryocystotome
 dehorter
 dehorting
 dehumanisation
