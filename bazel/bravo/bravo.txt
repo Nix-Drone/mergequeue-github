@@ -309,7 +309,6 @@ backblocks
 backblow
 backboard
 backboards
-backbone
 backboned
 backbonelessness
 beatus
@@ -9645,6 +9644,7 @@ biborate
 bishopful
 bishophood
 bishopless
+backbone
 bishoplet
 bishoplike
 barbarianism
