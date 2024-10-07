@@ -1676,6 +1676,7 @@ ballottine
 ballottines
 ballow
 blear
+bowtie
 ballplayer
 ballplayers
 ballplatz
@@ -9307,7 +9308,6 @@ bipinnated
 bipinnatipartite
 bipinnatisect
 bipinnatisected
-bowtie
 bipyramid
 bipyridyl
 bubale
