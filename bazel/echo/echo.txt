@@ -1815,6 +1815,7 @@ eyeopener
 eyepiece
 eyepit
 eyepoint
+electrooculogram
 eyereach
 eyeroot
 electromobilism
@@ -2545,7 +2546,6 @@ electronically
 electronics
 electronography
 ecad
-electrooculogram
 electrooptic
 exul
 electrooptical
