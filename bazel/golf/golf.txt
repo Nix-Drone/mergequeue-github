@@ -6275,7 +6275,6 @@ gnathotheca
 gillot
 gladdy
 gnatlike
-gnatproof
 glyptographic
 gnats
 gnatsnap
@@ -8265,6 +8264,7 @@ gestalten
 getters
 grassflat
 grassflower
+gnatproof
 geneticism
 grasshook
 golds
