@@ -1727,7 +1727,6 @@ accredited
 accreditee
 animal
 accrediting
-accreditment
 accredits
 accrementitial
 aeraria
@@ -8309,6 +8308,7 @@ aliped
 architectonic
 alipeds
 aliphatic
+accreditment
 alipin
 alypin
 abbie
