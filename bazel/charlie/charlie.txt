@@ -3380,6 +3380,7 @@ capsular
 capsulated
 capsulation
 capsule
+cardiomyomalacia
 collegatary
 chawbone
 capsulectomy
@@ -4054,7 +4055,6 @@ cardiomegaly
 cardiomelanosis
 cardiometer
 cardiometric
-cardiomyomalacia
 cardiomyopathy
 cardiomotility
 cookey
