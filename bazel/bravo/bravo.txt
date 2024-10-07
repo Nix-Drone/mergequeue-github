@@ -2872,7 +2872,6 @@ barotaxis
 barothermogram
 bitis
 barothermograph
-barothermohygrograph
 baroto
 barotrauma
 bulgurs
@@ -15481,6 +15480,7 @@ brining
 brachycephalous
 brinishness
 brinjaree
+barothermohygrograph
 brinjarry
 balut
 brinjarries
