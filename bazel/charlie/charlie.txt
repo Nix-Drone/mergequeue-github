@@ -7472,7 +7472,6 @@ ceratoglossal
 ceratoglossus
 ceratohyal
 ceratohyoid
-ceratoid
 ceratomandibular
 ceratomania
 ceratonia
@@ -18802,6 +18801,7 @@ cabins
 colinearity
 colinephritis
 coling
+ceratoid
 colins
 colinus
 colyonic
