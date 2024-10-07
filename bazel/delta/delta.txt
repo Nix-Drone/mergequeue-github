@@ -7295,7 +7295,6 @@ deti
 detick
 deticked
 deticker
-detickers
 deticks
 detin
 detinet
@@ -7872,6 +7871,7 @@ dexes
 dexies
 dexiocardia
 dexiotrope
+detickers
 dexiotropic
 dexiotropism
 dexter
