@@ -12716,7 +12716,6 @@ embaphium
 exonerated
 exonerating
 exoneration
-exonerations
 exonerative
 exonerator
 exonerators
@@ -13138,6 +13137,7 @@ explain
 extras
 explainable
 explainableness
+exonerations
 explained
 explainer
 explainers
