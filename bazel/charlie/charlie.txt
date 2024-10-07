@@ -17915,7 +17915,6 @@ coprology
 coelococcus
 charioteers
 coelodont
-coelogastrula
 coelogyne
 coeloglossum
 coelom
@@ -30478,6 +30477,7 @@ cubhood
 cubi
 cubic
 chattering
+coelogastrula
 chayotes
 cubical
 cubically
