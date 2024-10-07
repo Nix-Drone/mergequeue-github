@@ -2494,7 +2494,6 @@ blindages
 bardism
 bardlet
 boothian
-bardlike
 burut
 bardling
 beswinge
@@ -5352,6 +5351,7 @@ buyable
 benchboard
 begray
 begrain
+bardlike
 begrave
 birne
 begrett
