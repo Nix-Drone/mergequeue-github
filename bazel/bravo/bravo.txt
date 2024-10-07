@@ -7179,7 +7179,6 @@ bespoused
 bespouses
 bespout
 bespread
-bespreading
 bespreads
 bespreng
 besprent
@@ -10956,6 +10955,7 @@ blksize
 bunts
 blo
 bloat
+bespreading
 backstrokes
 bloated
 benefactorship
