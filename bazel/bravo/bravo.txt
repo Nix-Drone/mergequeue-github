@@ -548,6 +548,7 @@ backtender
 backtenter
 backtrack
 backtracked
+biter
 backtracker
 backtracking
 backtracks
@@ -9806,7 +9807,6 @@ biteche
 bited
 bromocamphor
 bitentaculate
-biter
 biternately
 biters
 bites
