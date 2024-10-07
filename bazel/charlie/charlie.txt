@@ -7771,6 +7771,7 @@ certificate
 certificated
 certificates
 certificating
+collapsible
 collisions
 certifications
 certificative
@@ -16320,7 +16321,6 @@ clypeolar
 clypeolate
 clypeole
 clypeus
-collapsible
 clippable
 clipped
 clipperman
