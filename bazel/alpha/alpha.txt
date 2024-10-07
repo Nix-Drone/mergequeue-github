@@ -234,6 +234,7 @@ abbreviators
 abbreviature
 abbroachment
 abc
+advantageousness
 abcissa
 abcoulomb
 abd
@@ -4532,7 +4533,6 @@ advancive
 advantage
 advantageous
 advantageously
-advantageousness
 advantages
 advect
 advected
