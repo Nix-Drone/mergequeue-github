@@ -4919,6 +4919,7 @@ given
 givens
 garderobe
 giver
+gunfires
 givers
 gladeye
 gyves
@@ -10488,7 +10489,6 @@ gabari
 gundog
 gastronomic
 gunfights
-gunfires
 gearless
 gung
 gunge
