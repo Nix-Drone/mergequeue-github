@@ -4160,7 +4160,6 @@ freedmen
 fucaceae
 frogmouth
 firebrick
-firebug
 firebugs
 fanhouse
 flagstones
@@ -4266,6 +4265,7 @@ firework
 fireworky
 fireworkless
 fireworks
+firebug
 firiness
 festa
 firing
