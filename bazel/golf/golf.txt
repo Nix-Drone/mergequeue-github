@@ -3644,7 +3644,6 @@ gnetaceae
 gewgawry
 geneses
 grottos
-gewgaws
 gluttonized
 gez
 galloon
@@ -9586,6 +9585,7 @@ gorevan
 gavot
 growthiness
 growthless
+gewgaws
 grs
 growths
 guacico
