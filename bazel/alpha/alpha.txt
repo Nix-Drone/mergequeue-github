@@ -4949,7 +4949,6 @@ aeroelastic
 aeroelasticity
 antalkalis
 aeroelastics
-aporphin
 aerofoil
 aerofoils
 algine
@@ -10483,6 +10482,7 @@ amygdalopathy
 amygdalothripsis
 amygdalotome
 appaloosas
+aporphin
 amygdonitrile
 amygdophenin
 amygdule
