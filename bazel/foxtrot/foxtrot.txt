@@ -1099,7 +1099,6 @@ farmost
 farmout
 fasteners
 fisc
-farms
 farmscape
 farmsteads
 farmtown
@@ -4696,6 +4695,7 @@ fullage
 flabile
 flabrum
 flabs
+farms
 flaccid
 flaccidness
 flachery
