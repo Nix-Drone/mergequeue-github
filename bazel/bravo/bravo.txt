@@ -2741,6 +2741,7 @@ barman
 barmaster
 barmbrack
 barmcloth
+begut
 brither
 barmecide
 barmen
@@ -5410,7 +5411,6 @@ begumming
 begums
 begun
 begunk
-begut
 behale
 behalf
 behallow
