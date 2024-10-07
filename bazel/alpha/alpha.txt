@@ -12755,6 +12755,7 @@ angiogeny
 angiogenic
 angioglioma
 angiography
+autosight
 angiographic
 angiohemophilia
 angiohyalinosis
@@ -24366,7 +24367,6 @@ amphigonous
 autoserotherapy
 autoserum
 autosexing
-autosight
 albuminuric
 autosign
 autosymbolic
