@@ -3107,7 +3107,6 @@ elocution
 elocutionary
 elocutioner
 elocutionist
-elocutionize
 empennage
 elodea
 elodeas
@@ -4918,6 +4917,7 @@ encurtain
 endosteal
 encushion
 end
+elocutionize
 endable
 endamage
 endamageable
