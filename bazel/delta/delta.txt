@@ -3604,6 +3604,7 @@ definition
 degass
 degassed
 degassing
+deprave
 degauss
 degaussing
 degelatinize
@@ -5876,7 +5877,6 @@ derive
 depr
 deliberatively
 depravation
-deprave
 divelled
 depraved
 deceptivity
