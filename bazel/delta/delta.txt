@@ -571,6 +571,7 @@ damager
 damagers
 disco
 discretionally
+deaths
 damayanti
 damalic
 daman
@@ -1709,7 +1710,6 @@ dustwoman
 deathliness
 deathrates
 diagrydium
-deaths
 deathsman
 deathsmen
 depaysee
