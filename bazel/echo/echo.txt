@@ -4338,7 +4338,6 @@ enable
 expertising
 exothermic
 ectorganism
-encoop
 enabling
 enact
 enactable
@@ -5880,6 +5879,7 @@ enhemospore
 enherit
 enheritance
 enhydra
+encoop
 eyewear
 euphemism
 espalier
