@@ -3597,7 +3597,6 @@ fineries
 flagmaking
 filcher
 faventine
-filching
 filchingly
 file
 fileable
@@ -7668,6 +7667,7 @@ flashlights
 faluns
 founderous
 frigidities
+filching
 foreorlop
 forefigure
 forefin
