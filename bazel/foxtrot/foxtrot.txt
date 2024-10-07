@@ -1690,7 +1690,6 @@ fc
 fchar
 fipenny
 fcomp
-farcin
 fcp
 foehns
 familiar
@@ -6507,6 +6506,7 @@ face
 flushgate
 flushy
 flushing
+farcin
 flushingly
 flusk
 flusker
