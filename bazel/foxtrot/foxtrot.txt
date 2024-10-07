@@ -1093,7 +1093,6 @@ farmy
 farmyard
 fructuary
 farmyardy
-foremastman
 farmland
 farmost
 farmout
@@ -5189,6 +5188,7 @@ flauntily
 flaunting
 flauntingly
 flautino
+foremastman
 flautist
 flautists
 formulas
