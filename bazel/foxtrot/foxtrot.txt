@@ -138,7 +138,6 @@ fackins
 facks
 faconde
 faconne
-facsim
 frena
 facsimile
 facsimiled
@@ -3717,6 +3716,7 @@ foujdary
 fortified
 filipuncture
 flywort
+facsim
 formity
 foreleech
 fledges
