@@ -790,7 +790,6 @@ ecphrasis
 ecrase
 ecraseur
 ecraseurs
-ecrasite
 ecroulement
 emydidae
 emptores
@@ -13327,6 +13326,7 @@ exposture
 epanaphoral
 etude
 exposure
+ecrasite
 excalfaction
 enframes
 exposures
