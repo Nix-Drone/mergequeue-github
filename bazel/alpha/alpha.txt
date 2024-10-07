@@ -10236,7 +10236,6 @@ amenities
 amenorrhea
 amenorrheal
 amenorrheic
-amenorrho
 amenorrhoea
 amenorrhoeal
 aeronauts
@@ -21989,6 +21988,7 @@ astasia
 astasias
 astatic
 astatically
+amenorrho
 actings
 astaticism
 astatine
