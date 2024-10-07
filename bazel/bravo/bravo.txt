@@ -6391,7 +6391,6 @@ benzamide
 benzamido
 benzamine
 benzaminic
-benzamino
 benzanalgen
 benzanilide
 benzanthracene
@@ -13535,6 +13534,7 @@ bounced
 bouncer
 bouncers
 bounces
+benzamino
 bouncier
 bounciest
 bouncily
