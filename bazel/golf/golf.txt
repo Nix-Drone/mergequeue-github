@@ -4190,7 +4190,6 @@ gilttail
 gilver
 gasterosteoid
 gim
-gimbal
 gimbaled
 gimballed
 groundsheet
@@ -6229,6 +6228,7 @@ gnars
 guerickian
 gnashed
 gnashing
+gimbal
 gobang
 gnashingly
 gnast
