@@ -14574,7 +14574,6 @@ dm
 dmarche
 disinherit
 divid
-dmod
 dn
 dnieper
 do
@@ -18357,6 +18356,7 @@ duopolist
 duopolistic
 duopsony
 duopsonies
+dmod
 duopsonistic
 duos
 duosecant
