@@ -9888,7 +9888,6 @@ cornucopia
 cols
 chemoautotrophy
 chastizer
-chemoautotrophic
 chemoautotrophically
 chemoceptor
 chemokinesis
@@ -15223,6 +15222,7 @@ cladonioid
 compendiate
 cladophyllum
 cladophora
+chemoautotrophic
 cladophoraceous
 cladophorales
 cladoptosis
