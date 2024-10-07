@@ -2409,6 +2409,7 @@ decimalist
 decimalization
 dilogarithm
 decimalize
+demisability
 decimalizes
 decimally
 decimals
@@ -4704,7 +4705,6 @@ demirilievo
 demirobe
 demonastery
 dol
-demisability
 demisang
 demisangue
 demisavage
