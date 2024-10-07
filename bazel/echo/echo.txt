@@ -5604,7 +5604,6 @@ elevators
 enfolds
 enfollow
 enfoncee
-ephemerae
 enforceability
 enforced
 enforcement
@@ -11586,6 +11585,7 @@ evince
 evincement
 evincible
 epicoela
+ephemerae
 evincing
 evincingly
 evincive
