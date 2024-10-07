@@ -1110,7 +1110,6 @@ enormous
 edh
 edhs
 edibile
-earthlike
 equipper
 edibility
 edible
@@ -1576,6 +1575,7 @@ egestion
 egestions
 egg
 eggbeater
+earthlike
 ethmoid
 endosternum
 eggbeaters
