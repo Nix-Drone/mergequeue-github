@@ -5600,7 +5600,6 @@ acidulates
 afterdeal
 afterdeath
 afterdeck
-afterdrain
 aftereffect
 aftereffects
 aftereye
@@ -6139,6 +6138,7 @@ agin
 agynary
 agynarious
 aging
+afterdrain
 agings
 amidmost
 agynic
