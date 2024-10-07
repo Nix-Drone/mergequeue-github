@@ -1375,7 +1375,6 @@ gardenin
 gardening
 gardenless
 gardenly
-gardenlike
 grume
 gardenmaking
 gardens
@@ -5944,6 +5943,7 @@ glottalizing
 guesstimates
 glottid
 glottidean
+gardenlike
 glottides
 galeenies
 glottis
