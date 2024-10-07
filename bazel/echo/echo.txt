@@ -8468,7 +8468,6 @@ equip
 eglogue
 epizootology
 eplot
-epoch
 epocha
 eumitosis
 epoche
@@ -11522,6 +11521,7 @@ evertor
 evertors
 everts
 euglandina
+epoch
 everwhich
 evese
 eolith
