@@ -11363,7 +11363,6 @@ commands
 chlorophyceous
 chlorophyl
 chlorophyll
-chlorophyllaceous
 chlorophyllase
 chlorophyllian
 chlorophyllide
@@ -16750,6 +16749,7 @@ cloudland
 cloudless
 centimeter
 cloudlet
+chlorophyllaceous
 cloudlike
 cloudology
 clouds
