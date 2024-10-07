@@ -630,7 +630,6 @@ bidget
 bibliothecal
 bacterid
 bacteriemia
-bacteriform
 bacterin
 borofluoric
 bacterioagglutinin
@@ -7708,6 +7707,7 @@ bathycurrent
 bewrapt
 bewrathed
 bewreak
+bacteriform
 bewreath
 bewreck
 befreckle
