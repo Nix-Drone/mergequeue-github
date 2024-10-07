@@ -1112,7 +1112,6 @@ edhs
 edibile
 earthlike
 equipper
-edibility
 edible
 expurgatory
 edibleness
@@ -1785,6 +1784,7 @@ erratics
 eyeglance
 etudes
 eyeground
+edibility
 epornitically
 employless
 estheria
