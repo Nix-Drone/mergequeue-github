@@ -3243,7 +3243,6 @@ geoselenic
 geosid
 geosynclinal
 geosphere
-geostationary
 grizel
 graphologic
 gluttonism
@@ -8176,6 +8175,7 @@ graphite
 graphiter
 gummaker
 graphites
+geostationary
 graphitic
 gynecicgynecidal
 gleeked
