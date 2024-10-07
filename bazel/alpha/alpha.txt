@@ -132,7 +132,6 @@ abasic
 abask
 abassin
 abastard
-abastardize
 abatable
 amoebid
 abated
@@ -3336,6 +3335,7 @@ acutance
 acutances
 acutate
 acute
+abastardize
 acutely
 acutenaculum
 acuter
