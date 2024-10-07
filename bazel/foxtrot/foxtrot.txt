@@ -2587,6 +2587,7 @@ ferryboats
 familistery
 ferricyanate
 ferrandin
+fortification
 furiosity
 ferricyanide
 ferrihydrocyanic
@@ -5709,7 +5710,6 @@ flirtish
 faunological
 favorers
 feoffee
-fortification
 flysches
 flisk
 flotative
