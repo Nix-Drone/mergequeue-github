@@ -4444,7 +4444,6 @@ adsum
 adterminal
 adtevac
 aduana
-adular
 adularescence
 assertorial
 adularescent
@@ -13309,6 +13308,7 @@ anisoiconia
 anisoyl
 anisoin
 anisokonia
+adular
 articulation
 aminotransferase
 angiospermatous
