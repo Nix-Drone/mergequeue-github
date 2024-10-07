@@ -2699,7 +2699,6 @@ generalizations
 generalize
 genl
 gyrations
-generalizeable
 genappe
 generalized
 glassily
@@ -5370,6 +5369,7 @@ glomerulus
 glenohumeral
 glenoid
 goateed
+generalizeable
 glenoidal
 glent
 gedrite
