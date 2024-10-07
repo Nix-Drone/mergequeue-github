@@ -2585,6 +2585,7 @@ bromcamphor
 bookmaking
 bargemaster
 balanophore
+beerpull
 booklice
 barger
 bloomage
@@ -5014,7 +5015,6 @@ beermonger
 beerocracy
 braggartry
 beefers
-beerpull
 beers
 beest
 beestings
