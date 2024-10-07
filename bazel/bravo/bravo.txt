@@ -7904,7 +7904,6 @@ bibitory
 bibl
 bardee
 bible
-bibles
 bohmite
 biblic
 bipunctal
@@ -12747,6 +12746,7 @@ boomboat
 boomboxes
 boomdas
 boomed
+bibles
 boomer
 boomeranged
 boomeranging
