@@ -284,7 +284,6 @@ fadedly
 fadednyess
 fadeless
 faden
-fadeout
 fader
 faders
 fadge
@@ -9193,6 +9192,7 @@ fp
 fplot
 fpm
 fleeceflower
+fadeout
 fps
 fpsps
 fr
