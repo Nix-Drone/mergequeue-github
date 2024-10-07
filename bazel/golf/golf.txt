@@ -167,7 +167,6 @@ greasiness
 gaduin
 gadus
 gadwall
-gadwalls
 ghrush
 gonotokont
 gadzooks
@@ -3669,6 +3668,7 @@ gentlewomanly
 gigas
 ghassanid
 ghast
+gadwalls
 ghastfully
 ghastfulness
 gingersnap
