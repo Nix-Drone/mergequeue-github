@@ -4589,7 +4589,6 @@ gyp
 gyps
 gipseian
 gipser
-gipsy
 gypsy
 gipsydom
 gypsydoms
@@ -8829,6 +8828,7 @@ greisen
 grihastha
 greisens
 greyskin
+gipsy
 genty
 greit
 greyware
