@@ -3722,7 +3722,6 @@ carbolxylol
 carbomethene
 carbomethoxy
 carbomethoxyl
-carbomycin
 carbon
 carbona
 carbonaceous
@@ -15304,6 +15303,7 @@ clays
 claystone
 claith
 claithes
+carbomycin
 clayton
 claytonia
 claiver
