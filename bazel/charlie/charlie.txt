@@ -6291,7 +6291,6 @@ causticness
 caustics
 collencytal
 concessionaries
-caustify
 caustification
 caustified
 causus
@@ -31851,6 +31850,7 @@ cutlines
 cutlings
 cutoff
 cutoffs
+caustify
 cutout
 cutpurse
 cutpurses
