@@ -11742,7 +11742,6 @@ analytique
 analyzability
 analyzable
 analyzation
-analyze
 analyzed
 analyzers
 analyzes
@@ -13293,6 +13292,7 @@ anisodactylic
 anisodont
 anisogamete
 anisogametes
+analyze
 anisogametic
 algarde
 anisogamic
