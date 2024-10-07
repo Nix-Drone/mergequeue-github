@@ -5689,7 +5689,6 @@ dephlogisticated
 dephlogistication
 dephosphorization
 dephosphorize
-depickle
 depict
 depicted
 depicter
@@ -18572,6 +18571,7 @@ dusters
 dustfall
 dustheap
 dustheaps
+depickle
 dusty
 dustier
 dustiest
