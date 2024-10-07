@@ -1101,7 +1101,6 @@ fasteners
 fisc
 farms
 farmscape
-farmsteads
 farmtown
 farnesol
 farnesols
@@ -6667,6 +6666,7 @@ focusing
 focusless
 focussed
 feudally
+farmsteads
 fluminose
 focusses
 focussing
