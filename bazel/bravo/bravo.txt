@@ -3675,6 +3675,7 @@ bathrooms
 bathroot
 ballyragging
 boutade
+buried
 bastinading
 baron
 by
@@ -17694,7 +17695,6 @@ bury
 bombic
 burian
 bisie
-buried
 barbacou
 buriels
 bino
