@@ -6330,7 +6330,6 @@ dermogastric
 dermographia
 dermohemal
 dermohemia
-dermohumeral
 dermoid
 dermoidal
 dermoidectomy
@@ -17831,6 +17830,7 @@ ducs
 duct
 ducted
 ductibility
+dermohumeral
 ductible
 ductilely
 ductileness
