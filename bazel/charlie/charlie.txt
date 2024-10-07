@@ -9914,6 +9914,7 @@ chemoreceptive
 chemoreceptivity
 chemoreceptivities
 castrating
+cutpurses
 chemoreceptor
 chemoreflex
 chemoresistance
@@ -31853,7 +31854,6 @@ cutoff
 cutoffs
 cutout
 cutpurse
-cutpurses
 cuts
 cutset
 cuttable
