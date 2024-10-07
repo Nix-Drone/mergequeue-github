@@ -3655,7 +3655,6 @@ adenitises
 adenization
 adenoacanthoma
 adenoblast
-adenocarcinoma
 adenocarcinomas
 adenocarcinomata
 akepiros
@@ -18869,6 +18868,7 @@ archelon
 archemastry
 archemperor
 archencephala
+adenocarcinoma
 archencephalic
 archenemy
 archenia
