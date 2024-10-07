@@ -556,6 +556,7 @@ echinocactus
 echinocaris
 echinocereus
 echinochrome
+electroform
 ecclesiae
 echinococcosis
 echinococcus
@@ -2434,7 +2435,6 @@ electroengrave
 electroengraving
 electroextraction
 expedient
-electroform
 electroforming
 electrofusion
 ethanol
