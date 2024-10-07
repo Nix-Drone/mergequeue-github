@@ -3649,7 +3649,6 @@ adenyl
 adenylic
 adenylpyrophosphate
 adenin
-adenine
 adenitis
 adenitises
 adenization
@@ -8821,6 +8820,7 @@ actinodermatitis
 aerie
 allogeneous
 allogenically
+adenine
 allograft
 alameda
 allograph
