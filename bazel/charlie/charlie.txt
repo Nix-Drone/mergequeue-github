@@ -14917,7 +14917,6 @@ cytoid
 citoyen
 citoyenne
 citoyens
-cytokinesis
 cytokinetic
 cytokinin
 cytol
@@ -27702,6 +27701,7 @@ coxcomical
 coxcomically
 coxed
 cissing
+cytokinesis
 collinear
 congratulate
 coxendix
