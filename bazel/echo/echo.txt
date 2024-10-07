@@ -6773,7 +6773,6 @@ enthral
 enthralldom
 enthralling
 enthrallment
-enthrallments
 enthralment
 enthrals
 enthrill
@@ -7225,6 +7224,7 @@ envolupen
 electrorefining
 enwall
 enwallow
+enthrallments
 enweave
 entonement
 enweb
