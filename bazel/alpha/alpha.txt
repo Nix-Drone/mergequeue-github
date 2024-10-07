@@ -5199,7 +5199,6 @@ aetites
 aetobatidae
 aetobatus
 aetolian
-aetomorphae
 aetosaur
 aetosaurian
 aetosaurus
@@ -20900,6 +20899,7 @@ ascaricidal
 ascaricide
 ascarid
 ascaridae
+aetomorphae
 ascarides
 ascaridia
 ascaridiasis
