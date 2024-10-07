@@ -1720,6 +1720,7 @@ fimbles
 fusillade
 filterable
 fetcher
+forelooper
 fearedly
 firebreaks
 fearedness
@@ -7795,7 +7796,6 @@ forelook
 formants
 francisco
 foreloop
-forelooper
 foreloper
 forelouper
 foremade
