@@ -3380,7 +3380,6 @@ fibrillae
 financist
 fascio
 fieldmice
-fieldmouse
 fieldpieces
 fieldsman
 fieldsmen
@@ -9092,6 +9091,7 @@ fouty
 fantasied
 fovea
 foveae
+fieldmouse
 foveate
 fingallian
 foveation
