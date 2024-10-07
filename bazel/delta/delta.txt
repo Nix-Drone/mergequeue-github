@@ -2416,7 +2416,6 @@ dressages
 decimate
 decimated
 decimates
-decimating
 decimation
 decime
 dacrya
@@ -2960,6 +2959,7 @@ deditician
 dediticiancy
 dedition
 dedoggerelize
+decimating
 dedogmatize
 dedolation
 dedolence
