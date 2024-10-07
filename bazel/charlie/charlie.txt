@@ -2111,7 +2111,6 @@ camporees
 clopping
 campos
 campout
-camps
 campshed
 campshedding
 campsheeting
@@ -30256,6 +30255,7 @@ crunchable
 crunched
 cruncher
 crunchers
+camps
 crunches
 crunchy
 crunchiest
