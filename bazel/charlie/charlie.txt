@@ -20336,6 +20336,7 @@ commutability
 commutable
 clothier
 commutableness
+concretism
 commutant
 commutate
 commutated
@@ -21495,7 +21496,6 @@ concretion
 concretional
 concretionary
 concretions
-concretism
 concretist
 concretive
 concretively
