@@ -9409,7 +9409,6 @@ alter
 alterability
 alterable
 alterableness
-alterably
 alterate
 autoimmunized
 alteration
@@ -20718,6 +20717,7 @@ acquitment
 artifactitious
 artifacts
 artifactual
+alterably
 artifactually
 antipellagric
 artifex
