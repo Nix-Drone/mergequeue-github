@@ -2152,7 +2152,6 @@ elastivity
 elastomer
 enfamish
 elastomers
-elastometer
 elastometry
 endocrinopathy
 engarde
@@ -13531,6 +13530,7 @@ extemporized
 enfant
 experientially
 extemporizes
+elastometer
 extemporizing
 electrotheraputics
 eking
