@@ -1636,7 +1636,6 @@ accompanist
 accomplement
 anathemize
 accomplice
-accomplices
 accompliceship
 accomplicity
 accomplis
@@ -11557,6 +11556,7 @@ anacrotic
 ammonal
 anacrotism
 anacruses
+accomplices
 anacrusis
 anacrustic
 aristarch
