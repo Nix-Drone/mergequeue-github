@@ -15788,7 +15788,6 @@ dorse
 dorsel
 dorser
 dorsers
-dorsi
 dorsibranchiata
 dorsibranchiate
 dorsicollar
@@ -18128,6 +18127,7 @@ dump
 dumpage
 dit
 dumpcart
+dorsi
 dioptoscopy
 dumpcarts
 dumped
