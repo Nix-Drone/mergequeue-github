@@ -2318,7 +2318,6 @@ amalgam
 achromatizing
 achromatocyte
 achromatolysis
-achromatope
 achromatophil
 achromatophile
 achromatophilia
@@ -16630,6 +16629,7 @@ aortoclasia
 aortography
 aortographic
 augelite
+achromatope
 aortoiliac
 amurcous
 aortomalacia
