@@ -6530,7 +6530,6 @@ agsam
 agst
 agtbasic
 aguacate
-aguacateca
 aguada
 anaphalis
 aguador
@@ -12926,6 +12925,7 @@ angouleme
 angraecum
 angry
 alkoxide
+aguacateca
 angrier
 angriest
 angriness
