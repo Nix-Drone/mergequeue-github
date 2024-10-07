@@ -2262,6 +2262,7 @@ electioneerer
 elections
 elective
 ephemerons
+evigilation
 electives
 electivism
 electivity
@@ -11558,7 +11559,6 @@ evidentiary
 evidently
 ectene
 evidentness
-evigilation
 evildoer
 evildoing
 evilest
