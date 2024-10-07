@@ -3155,6 +3155,7 @@ dragginess
 defamer
 defamers
 defames
+doorsill
 demihuman
 defamy
 defaming
@@ -13165,7 +13166,6 @@ dispondee
 dispone
 disponed
 disponent
-doorsill
 disponer
 disponge
 dispopularize
