@@ -8131,6 +8131,7 @@ fretless
 foretop
 foretopman
 foretopmast
+foreigners
 foretopmen
 foretops
 foretrace
@@ -9708,7 +9709,6 @@ freeholder
 feltmaker
 freeholders
 freeholdership
-foreigners
 fungusy
 freeholding
 fanwe
