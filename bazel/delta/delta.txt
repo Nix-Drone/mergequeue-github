@@ -7374,6 +7374,7 @@ detrudes
 driblet
 distalia
 detruding
+dismarble
 detruncate
 detruncating
 detruncation
@@ -12714,7 +12715,6 @@ disman
 dismantlement
 dismantler
 dismantles
-dismarble
 dwarflike
 dismarch
 dismarket
