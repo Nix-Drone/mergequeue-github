@@ -10895,7 +10895,6 @@ clocher
 chypre
 chips
 chipwood
-chiquest
 chiquitan
 chiquito
 chiragra
@@ -26302,6 +26301,7 @@ cotangents
 cotans
 cotarius
 cotarnine
+chiquest
 cotbetty
 cotch
 cote
