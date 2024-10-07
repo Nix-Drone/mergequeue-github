@@ -1006,7 +1006,6 @@ farde
 farded
 forklifts
 fardel
-fardelet
 farding
 fardo
 fards
@@ -9892,6 +9891,7 @@ fresher
 freshest
 fluidifying
 freshets
+fardelet
 fioritura
 freshhearted
 freshish
