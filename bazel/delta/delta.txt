@@ -6342,7 +6342,6 @@ digitalis
 drassid
 dermoosseous
 dermopathy
-dysarthrosis
 dermophytic
 dejeune
 dermophobe
@@ -9032,6 +9031,7 @@ doneness
 dictyodromous
 dictyogen
 dictyograptus
+dysarthrosis
 dictyoid
 diction
 disparage
