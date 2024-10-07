@@ -3803,7 +3803,6 @@ battledoring
 borehole
 battlefront
 battlefronts
-battleful
 butterburr
 battakhin
 battlegrounds
@@ -9698,6 +9697,7 @@ bismuth
 bismuthal
 bedouin
 bismuthate
+battleful
 bismuthide
 bismuthiferous
 bismuthyl
