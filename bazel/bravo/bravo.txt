@@ -5493,7 +5493,6 @@ behorror
 bellmaster
 bilabe
 behoved
-behoves
 behoving
 bepurple
 behowled
@@ -15306,6 +15305,7 @@ bridleless
 bority
 bridlers
 boredom
+behoves
 bridles
 bridling
 ballerine
