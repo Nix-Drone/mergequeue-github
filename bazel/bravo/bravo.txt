@@ -10565,7 +10565,6 @@ bleach
 bleachability
 bleachable
 bleached
-bleacher
 bleachery
 bleacheries
 bleacherite
@@ -12917,6 +12916,7 @@ boranes
 borani
 boras
 beaverite
+bleacher
 balsamum
 borasca
 bemeet
