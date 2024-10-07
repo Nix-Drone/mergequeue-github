@@ -4711,7 +4711,6 @@ bedframes
 bedgoer
 bedgowns
 bediademed
-bediamonded
 bediaper
 bediapered
 bediapering
@@ -8378,6 +8377,7 @@ biggen
 biggened
 biggening
 bigger
+bediamonded
 biggest
 bacons
 biggy
