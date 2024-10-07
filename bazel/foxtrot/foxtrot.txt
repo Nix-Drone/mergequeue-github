@@ -1471,6 +1471,7 @@ fatstocks
 fatted
 fatten
 fattenable
+frigate
 fragilaria
 fattened
 fattener
@@ -10031,7 +10032,6 @@ fiberizes
 fleshhook
 friezer
 frigage
-frigate
 frigates
 frigatoon
 frigged
