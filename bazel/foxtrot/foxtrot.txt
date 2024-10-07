@@ -1090,7 +1090,6 @@ farmhousey
 fontinalaceae
 fuzzle
 farmy
-farmyard
 fructuary
 farmyardy
 foremastman
@@ -5872,6 +5871,7 @@ florigraphy
 flockowner
 frangent
 funned
+farmyard
 flockwise
 flocs
 floeberg
