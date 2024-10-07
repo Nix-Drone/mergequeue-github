@@ -12367,7 +12367,6 @@ chromatize
 chromatocyte
 chromatogenous
 chromatogram
-chromatograph
 chromatography
 chromatographic
 chromatographically
@@ -20309,6 +20308,7 @@ communis
 communisation
 communise
 communised
+chromatograph
 communising
 carrotier
 crump
