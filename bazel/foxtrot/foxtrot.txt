@@ -2339,6 +2339,7 @@ fendering
 fenderless
 fenders
 fendillation
+forelooper
 fending
 fopship
 fends
@@ -7795,7 +7796,6 @@ forelook
 formants
 francisco
 foreloop
-forelooper
 foreloper
 forelouper
 foremade
