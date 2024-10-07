@@ -5934,7 +5934,6 @@ basisphenoid
 bailiffship
 belongs
 belonid
-belonidae
 belonite
 belonoid
 belord
@@ -6463,6 +6462,7 @@ benzoic
 benzoid
 bankera
 benzoylating
+belonidae
 benzoylation
 benzoylformic
 benzoylglycine
