@@ -4908,7 +4908,6 @@ glomming
 give
 goaltending
 gyve
-giveable
 gederite
 gipsyweed
 giveaway
@@ -6623,6 +6622,7 @@ goldenhair
 goldenknop
 gradualism
 gent
+giveable
 gurt
 guary
 gauchest
