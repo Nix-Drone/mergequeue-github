@@ -9926,7 +9926,6 @@ chemosynthetic
 chemosis
 chemosmoic
 chemosmoses
-chemosmotic
 calic
 chemosorb
 chemosorption
@@ -18710,6 +18709,7 @@ coldturkey
 coleader
 colecannon
 colectomies
+chemosmotic
 clytemnestra
 colegatee
 colegislator
