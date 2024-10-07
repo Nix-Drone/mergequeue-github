@@ -1844,6 +1844,7 @@ banaba
 boss
 bizardite
 bothroi
+bonesetter
 banago
 blancmanger
 banagos
@@ -12450,7 +12451,6 @@ bouleverse
 bones
 boneset
 bonesets
-bonesetter
 barnyard
 bonesetting
 brushite
