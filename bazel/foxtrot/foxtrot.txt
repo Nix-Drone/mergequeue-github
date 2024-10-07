@@ -5837,7 +5837,6 @@ fname
 floccillation
 floccipend
 freeloader
-forcipressure
 floccose
 floccosely
 flocculable
@@ -10417,6 +10416,7 @@ frontals
 frontbencher
 favorably
 frontcourt
+forcipressure
 fronted
 fronter
 frontier
