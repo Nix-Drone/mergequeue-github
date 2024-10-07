@@ -3623,7 +3623,6 @@ getling
 getmjlkost
 goners
 getspace
-getsul
 gnawingly
 guidons
 gitalin
@@ -8153,6 +8152,7 @@ grapheme
 graphemic
 glack
 governorships
+getsul
 glues
 graphemically
 gastroblennorrhea
