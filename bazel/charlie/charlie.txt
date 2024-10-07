@@ -17618,7 +17618,6 @@ cocin
 cocinera
 cocircular
 commutual
-cocircularity
 cocitizen
 cocitizenship
 cocytus
@@ -27908,6 +27907,7 @@ charactonym
 craftsmanlike
 craftsmanship
 craftsmaster
+cocircularity
 craftsmen
 craftspeople
 concubinaries
