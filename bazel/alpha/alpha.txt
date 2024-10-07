@@ -10138,6 +10138,7 @@ ambushes
 ambushlike
 ambushment
 ambustion
+avoidances
 amchoor
 amdahl
 amdt
@@ -24836,7 +24837,6 @@ avoid
 avoidable
 avoidably
 avoidance
-avoidances
 avoidant
 avoider
 avoiders
