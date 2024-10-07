@@ -4322,7 +4322,6 @@ displacer
 deltiology
 dialyzing
 dummy
-deltohedron
 deltoidei
 deltoideus
 deltoids
@@ -4789,6 +4788,7 @@ demobilizations
 demobilize
 demobilizes
 diaheliotropism
+deltohedron
 demobilizing
 democracy
 democracies

@@ -5940,6 +5940,7 @@ floorcloths
 floored
 flooring
 fascistic
+foresummon
 foreclosable
 flummoxes
 fluidizing
@@ -8090,7 +8091,6 @@ focalizing
 flue
 flowerets
 forestwards
-foresummon
 foreswear
 foreswearing
 funkiest
