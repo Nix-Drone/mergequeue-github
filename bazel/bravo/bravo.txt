@@ -6319,7 +6319,6 @@ benni
 bennies
 benomyl
 benomyls
-benorth
 bensail
 backwrap
 bensall
@@ -10565,6 +10564,7 @@ bleach
 bleachability
 bleachable
 bleached
+benorth
 bleacher
 bleachery
 bleacheries
