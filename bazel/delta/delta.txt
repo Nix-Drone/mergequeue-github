@@ -3042,7 +3042,6 @@ drearisomeness
 deepening
 deeper
 deepest
-deepfreeze
 deepfreezing
 deepgoing
 deeping
@@ -3605,6 +3604,7 @@ degass
 degassed
 degassing
 degauss
+deepfreeze
 degaussing
 degelatinize
 diatonous
