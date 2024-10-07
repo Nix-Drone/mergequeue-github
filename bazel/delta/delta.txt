@@ -7510,7 +7510,6 @@ deval
 devall
 devaloka
 devalorize
-devaluate
 devaluated
 devaluates
 devaluation
@@ -15786,6 +15785,7 @@ dorsalward
 dorsalwards
 dorse
 dorsel
+devaluate
 dorser
 dorsers
 dorsi
