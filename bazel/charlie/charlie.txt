@@ -9136,7 +9136,6 @@ charro
 charros
 charrs
 charruas
-chars
 charshaf
 charsingha
 cruder
@@ -19119,6 +19118,7 @@ colloid
 caseconv
 cinerins
 colloidal
+chars
 colloidality
 colloider
 colloidize
