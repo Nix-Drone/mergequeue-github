@@ -3173,7 +3173,6 @@ else
 endemic
 elsehow
 elseways
-elsewhat
 elsewhen
 elsewhere
 elsewheres
@@ -4486,6 +4485,7 @@ exposited
 encapsulates
 elaboratory
 ethicists
+elsewhat
 encapsulation
 encapsulations
 encapsule
