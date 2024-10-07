@@ -6464,7 +6464,6 @@ benzoid
 bankera
 benzoylating
 benzoylation
-benzoylformic
 benzoylglycine
 botanizing
 bilge
@@ -7157,6 +7156,7 @@ bespew
 basseting
 bespy
 bugology
+benzoylformic
 bespice
 breadthwise
 butterlike
