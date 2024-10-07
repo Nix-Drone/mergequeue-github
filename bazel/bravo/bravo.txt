@@ -5653,7 +5653,6 @@ beld
 beldame
 benjoin
 beldames
-bylaw
 beldams
 beldamship
 bacchar
@@ -6596,6 +6595,7 @@ bequest
 bequests
 ber
 beray
+bylaw
 berain
 berairou
 blackheartedness
