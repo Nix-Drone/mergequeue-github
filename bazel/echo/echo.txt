@@ -4584,6 +4584,7 @@ encephalometric
 encephalomyelitic
 encephalomyelitis
 erucin
+esogastritis
 encephalomyelopathy
 encephalomyocarditis
 encephalopathy
@@ -7142,7 +7143,6 @@ enurny
 env
 eventuations
 envaye
-esogastritis
 evoked
 envassal
 envault
