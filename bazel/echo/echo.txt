@@ -11251,7 +11251,6 @@ evacuations
 evulse
 evacuative
 evacuator
-evacuators
 exteriors
 evacue
 evacuees
@@ -13468,6 +13467,7 @@ exsert
 exserted
 eikones
 exserting
+evacuators
 exsertion
 exserts
 exsheath
