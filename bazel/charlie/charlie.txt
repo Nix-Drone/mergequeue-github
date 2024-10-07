@@ -3503,7 +3503,6 @@ carabinieri
 carabins
 caraboa
 caraboid
-carabus
 caracal
 caracara
 carack
@@ -24572,6 +24571,7 @@ copyfitting
 copygraph
 copygraphed
 copyhold
+carabus
 copyholders
 copyholding
 copyholds
