@@ -1180,7 +1180,6 @@ datafile
 dataflow
 datagram
 datagrams
-deescalating
 datakit
 datamation
 datana
@@ -16026,6 +16025,7 @@ divides
 doublette
 doublewidth
 doubly
+deescalating
 dermatosis
 doubloon
 doublure
