@@ -627,7 +627,6 @@ falsies
 forelimb
 falsifiability
 fannon
-falsifiable
 falsificate
 falsification
 falsifications
@@ -9878,6 +9877,7 @@ furlane
 fimbriation
 fewnesses
 frescade
+falsifiable
 frescoed
 frontingly
 fresh
