@@ -5655,7 +5655,6 @@ carolean
 cretic
 catchlight
 catchline
-catchment
 catchments
 catchpennies
 catchphrase
@@ -6235,6 +6234,7 @@ causalgia
 causality
 causalities
 causally
+catchment
 causals
 causans
 chilopodan
