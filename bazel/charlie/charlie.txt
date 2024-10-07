@@ -15436,7 +15436,6 @@ clap
 clapboarding
 clapboards
 clapcake
-clapdish
 clape
 clapholt
 clapmatch
@@ -30788,6 +30787,7 @@ culmicolous
 critteria
 culmiferous
 culmigenous
+clapdish
 culminal
 culminant
 culminate
