@@ -6512,6 +6512,7 @@ ensurer
 ensures
 ergatogyne
 ensuring
+enstyle
 enswathe
 enswathed
 enswathement
@@ -6860,7 +6861,6 @@ entodermal
 entodermic
 entogastric
 entogenous
-enstyle
 entoglossal
 epithelilia
 embonpoint
