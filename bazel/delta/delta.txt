@@ -13480,7 +13480,6 @@ desperadoes
 disseise
 disseised
 disseisee
-disseized
 donorship
 disseizes
 desolations
@@ -18395,6 +18394,7 @@ duplicability
 duplicable
 duplicand
 duplicando
+disseized
 duplicately
 duplicates
 duplication
