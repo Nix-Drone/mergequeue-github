@@ -4745,7 +4745,6 @@ carretera
 carreton
 carretta
 carri
-carry
 carriable
 carryable
 carriage
@@ -10862,6 +10861,7 @@ chip
 chipboard
 chipchap
 chipchop
+carry
 chipewyan
 chiplet
 chipling
