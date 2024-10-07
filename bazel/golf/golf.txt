@@ -2648,7 +2648,6 @@ geobotanical
 gendarmerie
 gendarmes
 gender
-genderer
 genders
 ghoulie
 geneal
@@ -3968,6 +3967,7 @@ globoseness
 gigabyte
 gigabytes
 gurjara
+genderer
 gigabits
 glacon
 gigacycle
