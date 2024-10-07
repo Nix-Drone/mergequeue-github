@@ -14659,7 +14659,6 @@ chondrule
 cysticercoid
 cysticercoidal
 cysticercosis
-cysticle
 cysticolous
 cystid
 cystidea
@@ -31518,6 +31517,7 @@ cursorius
 cursors
 curst
 curstful
+cysticle
 curstfully
 curstness
 curt
