@@ -11949,7 +11949,6 @@ choreutic
 chorial
 choriamb
 choriambi
-choriambic
 choriambize
 choriambs
 choriambus
@@ -31849,6 +31848,7 @@ cutline
 currycombed
 cutlines
 cutlings
+choriambic
 cutoff
 cutoffs
 cutout
