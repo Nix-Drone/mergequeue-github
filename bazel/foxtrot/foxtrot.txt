@@ -5909,7 +5909,6 @@ flooders
 floodgate
 floodgates
 frontlessly
-floody
 flunkyhood
 flooding
 floodless
@@ -6652,6 +6651,7 @@ focalizes
 focaloid
 fixtures
 focimeter
+floody
 focimetry
 fockle
 focoids
