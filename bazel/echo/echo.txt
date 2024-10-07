@@ -5175,7 +5175,6 @@ endogenesis
 endogeny
 eyebolt
 exorate
-endogenicity
 endogenies
 exundation
 endogenous
@@ -6766,6 +6765,7 @@ entheate
 enthelminthic
 etrog
 enthetic
+endogenicity
 enthymematic
 entremess
 exterminist
