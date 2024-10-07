@@ -9573,7 +9573,6 @@ checkrows
 checks
 checkstrap
 checkstring
-checksum
 construct
 checksummed
 checksumming
@@ -30078,6 +30077,7 @@ crownets
 crownland
 crownless
 crownlet
+checksum
 crownlike
 crownling
 crownmaker
