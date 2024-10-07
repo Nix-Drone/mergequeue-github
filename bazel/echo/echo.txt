@@ -2037,7 +2037,6 @@ elabor
 elaborate
 elaborated
 epilatory
-evictees
 elaborateness
 emulsic
 eradiculose
@@ -2266,6 +2265,7 @@ electives
 electivism
 electivity
 electo
+evictees
 elector
 expostulator
 eugenicists
