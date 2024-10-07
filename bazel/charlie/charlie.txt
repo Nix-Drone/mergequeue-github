@@ -6629,6 +6629,7 @@ ceinte
 colligation
 ceinture
 ceintures
+countersignatures
 ceyssatite
 clinked
 ceyx
@@ -27074,7 +27075,6 @@ counterside
 crance
 countersign
 countersignature
-countersignatures
 countersigned
 countersigns
 countersympathy
