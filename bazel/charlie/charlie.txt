@@ -6879,7 +6879,6 @@ cembalo
 cembalon
 cembalos
 cement
-cementa
 cemental
 cementation
 coaugment
@@ -24949,6 +24948,7 @@ compensative
 cordax
 cordeau
 corded
+cementa
 cordel
 cordelia
 cordeliere
