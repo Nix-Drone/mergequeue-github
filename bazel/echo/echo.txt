@@ -2337,7 +2337,6 @@ escarped
 electrocardiograph
 electrocardiographic
 electrocardiographically
-electrocatalysis
 electrocatalytic
 explorational
 electrocautery
@@ -6671,6 +6670,7 @@ extratension
 enteroischiocele
 enterokinase
 enterokinesia
+electrocatalysis
 enterolysis
 eddies
 ectomorphy
