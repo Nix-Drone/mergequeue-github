@@ -1762,7 +1762,6 @@ eyeberry
 eyeblack
 eyeblink
 eyebright
-eyebrows
 eyecup
 experimently
 eyed
@@ -7222,6 +7221,7 @@ envoys
 envoyship
 envolume
 envolupen
+eyebrows
 electrorefining
 enwall
 enwallow
