@@ -2520,7 +2520,6 @@ electrometric
 electrometrical
 electrometrically
 electromyogram
-electromyography
 electromyographically
 electromobile
 electromotive
@@ -10725,6 +10724,7 @@ eudaimonism
 eudaimonist
 eudemian
 eudemon
+electromyography
 eclaircise
 eudemony
 epicism
