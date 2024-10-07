@@ -11669,7 +11669,6 @@ cryogen
 chollas
 choller
 cholo
-cholochrome
 cholocyanine
 caperer
 choloepus
@@ -14901,6 +14900,7 @@ cytodieresis
 cytodieretic
 cytodifferentiation
 cytoecology
+cholochrome
 cytogamy
 cytogene
 cosmographist
