@@ -1108,7 +1108,6 @@ edgings
 edgrow
 enormous
 edh
-edhs
 edibile
 earthlike
 equipper
@@ -5602,6 +5601,7 @@ enfoldings
 enfoldment
 elevators
 enfolds
+edhs
 enfollow
 enfoncee
 ephemerae
