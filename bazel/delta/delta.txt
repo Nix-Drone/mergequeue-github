@@ -3103,7 +3103,6 @@ deerwood
 deescalate
 deescalated
 diacritics
-diphtheriaphor
 deescalation
 deescalations
 deeses
@@ -5860,6 +5859,7 @@ depositive
 deposito
 depositor
 depositories
+diphtheriaphor
 depositors
 deposits
 depositum
