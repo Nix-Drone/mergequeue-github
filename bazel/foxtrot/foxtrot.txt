@@ -3606,7 +3606,6 @@ filechar
 filed
 filefishes
 fogie
-firelight
 filemaker
 fluidize
 filemark
@@ -4146,6 +4145,7 @@ firebombing
 frostlike
 faithwise
 firebombs
+firelight
 forestery
 fireboot
 firebox
