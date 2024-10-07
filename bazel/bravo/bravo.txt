@@ -12289,6 +12289,7 @@ bombe
 basin
 bombed
 bomber
+bulletproof
 bedirty
 bombernickel
 begroaning
@@ -17126,7 +17127,6 @@ battalia
 burghmote
 breadseller
 bulletmaking
-bulletproof
 bulletproofed
 bulletproofing
 bullets
