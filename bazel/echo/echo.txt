@@ -1108,7 +1108,6 @@ edgings
 edgrow
 enormous
 edh
-edhs
 edibile
 earthlike
 equipper
@@ -5395,6 +5394,7 @@ endothoracic
 evangelium
 endyma
 endothrix
+edhs
 envergure
 endotys
 endotoxic
