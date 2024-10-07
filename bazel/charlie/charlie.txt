@@ -17562,7 +17562,6 @@ coccosphere
 coccosteid
 coccosteidae
 chicos
-coccosteus
 coccothraustes
 coccothraustine
 coccothrinax
@@ -26453,6 +26452,7 @@ cottas
 cotte
 cotted
 cotter
+coccosteus
 cottered
 cotterel
 cottering
