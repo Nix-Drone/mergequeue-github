@@ -15277,7 +15277,6 @@ consumables
 claimers
 claymore
 claims
-claimsman
 claimsmen
 clayoquot
 claypans
@@ -18781,6 +18780,7 @@ colics
 counteractor
 colicwort
 colies
+claimsman
 cocinero
 coliform
 coliforms
