@@ -7509,7 +7509,6 @@ ceraunite
 ceraunograph
 ceraunomancy
 costmary
-ceraunophone
 ceraunoscope
 ceraunoscopy
 cerberic
@@ -17737,6 +17736,7 @@ code
 codebooks
 codebreaker
 codebtor
+ceraunophone
 codebtors
 codec
 codeclination
