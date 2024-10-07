@@ -13773,6 +13773,7 @@ cinches
 crankcase
 cinching
 cincholoipon
+coreless
 cincholoiponic
 cinchomeronic
 cinchona
@@ -25167,7 +25168,6 @@ corimelaenidae
 corindon
 corynebacteria
 corynebacterial
-coreless
 corynebacterium
 coryneform
 corineus
