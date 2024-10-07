@@ -2063,7 +2063,6 @@ cabbalah
 clerkliest
 camphorone
 camphorphorone
-camphors
 camphorweed
 camphorwood
 callitype
@@ -5482,6 +5481,7 @@ catalina
 contentful
 catalineta
 catalinite
+camphors
 catalyse
 catalyses
 catalysis
