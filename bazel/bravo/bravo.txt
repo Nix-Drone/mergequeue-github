@@ -5637,7 +5637,6 @@ bindweeds
 blarina
 belate
 belated
-belatedness
 belating
 belaud
 belauded
@@ -10725,6 +10724,7 @@ blepharadenitis
 blepharanthracosis
 blepharelcosis
 blepharemphysema
+belatedness
 blepharydatis
 blephariglottis
 blepharism
