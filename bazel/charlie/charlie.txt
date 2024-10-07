@@ -583,7 +583,6 @@ caecectomy
 ctenodipterini
 caecilia
 caecilian
-caeciliidae
 caecity
 caecocolic
 caecostomy
@@ -9988,6 +9987,7 @@ chenilles
 chenopod
 chenopodiaceae
 chenopodiaceous
+caeciliidae
 chenopodiales
 chenopodium
 chenopods
