@@ -6748,7 +6748,6 @@ deskill
 desklike
 deskman
 deskmen
-desks
 desktop
 destined
 deslime
@@ -9808,6 +9807,7 @@ diluvialist
 dainteth
 diluvianism
 draggingly
+desks
 diluviate
 diluvions
 dhoul
