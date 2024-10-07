@@ -4632,7 +4632,6 @@ fixer
 freedstool
 fixidity
 fixing
-fixings
 fixities
 flannelleaf
 fixt
@@ -11448,6 +11447,7 @@ fieldward
 furnacing
 furnariidae
 furnariides
+fixings
 fossilify
 furnarius
 furnish
