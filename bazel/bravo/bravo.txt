@@ -532,7 +532,6 @@ backstretches
 butomaceous
 backstring
 backstroke
-backstromite
 backswept
 backswimmer
 backsword
@@ -11032,6 +11031,7 @@ blockmaker
 blockpate
 blocks
 bhunder
+backstromite
 blockship
 blocs
 blodite
