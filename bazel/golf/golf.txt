@@ -1965,7 +1965,6 @@ gudefather
 guariba
 gatewise
 gatewoman
-gatherable
 gathered
 gilgai
 gatherers
@@ -6514,6 +6513,7 @@ goetic
 goetical
 gloriosa
 gofer
+gatherable
 grecized
 goffer
 grousy
