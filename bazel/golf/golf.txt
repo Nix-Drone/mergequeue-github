@@ -6354,7 +6354,6 @@ grammar
 gorgonaceous
 grammaticize
 glycosidic
-garibaldi
 goadlike
 goadsman
 guarantine
@@ -9565,6 +9564,7 @@ growls
 guzerat
 grandnieces
 grown
+garibaldi
 grownup
 grownups
 guardship
