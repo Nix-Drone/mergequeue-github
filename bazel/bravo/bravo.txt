@@ -5356,7 +5356,6 @@ begrave
 birne
 begrett
 begrim
-begrimed
 begrimer
 begrimes
 bombsight
@@ -18373,6 +18372,7 @@ buzane
 buzukis
 buzz
 buzzard
+begrimed
 bursted
 buzzards
 boanergean
