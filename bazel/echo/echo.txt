@@ -1170,7 +1170,6 @@ edition
 editions
 electronvolt
 editor
-editorial
 editorialization
 earlobe
 editorialized
@@ -10796,6 +10795,7 @@ euhages
 euhedral
 emotionalistic
 euhemerise
+editorial
 euhemerising
 euhemerism
 euhemeristically
