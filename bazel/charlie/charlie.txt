@@ -8879,7 +8879,6 @@ chapters
 chaptrel
 chapwoman
 chaqueta
-char
 conveyability
 chara
 charabanc
@@ -16311,6 +16310,7 @@ clypeastrina
 clypeastroid
 clypeastroidea
 clypeate
+char
 caraco
 clypeated
 clypei
