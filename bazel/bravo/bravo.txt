@@ -2001,7 +2001,6 @@ bandrol
 bandsaw
 bandsawed
 bandsawing
-bandsawn
 bandsman
 bandsmen
 bandspreading
@@ -14441,6 +14440,7 @@ branchia
 branchiae
 borstals
 bathetic
+bandsawn
 branchial
 branchiata
 brachyuranic
