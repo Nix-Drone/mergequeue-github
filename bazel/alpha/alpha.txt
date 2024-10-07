@@ -3393,7 +3393,6 @@ antitheological
 adamantine
 adamantinoma
 adamantly
-adamantness
 adamantoblast
 adamantoblastoma
 adamantoma
@@ -19522,6 +19521,7 @@ argillic
 argilliferous
 argillite
 argillocalcareous
+adamantness
 argillocalcite
 argilloferruginous
 argilloid
