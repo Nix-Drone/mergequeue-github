@@ -24474,7 +24474,6 @@ coparcener
 coparceny
 coparenary
 coparent
-coparents
 copart
 coparty
 copartiment
@@ -30487,6 +30486,7 @@ chalcidid
 cubicities
 cubicles
 cubicone
+coparents
 cubicontravariant
 cubics
 cubicula
