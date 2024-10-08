@@ -5431,7 +5431,6 @@ eltime
 expendable
 endseal
 endshake
-endsheet
 everglade
 execrates
 endue
@@ -5815,6 +5814,7 @@ engrave
 engravement
 engraven
 engraver
+endsheet
 engravers
 engraves
 easts
