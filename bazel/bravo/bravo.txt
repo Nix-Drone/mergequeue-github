@@ -3811,7 +3811,6 @@ battlement
 battlements
 battlepiece
 battleplane
-barnstorms
 battler
 battles
 battleship
@@ -9433,6 +9432,7 @@ birdseeds
 birdseye
 birdseyes
 birdsnest
+barnstorms
 birdstone
 browpiece
 bungs
