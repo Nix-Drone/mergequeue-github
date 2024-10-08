@@ -841,7 +841,6 @@ baffies
 brickwise
 baffing
 baffle
-babelize
 brachering
 bafflement
 blubberhead
@@ -11298,6 +11297,7 @@ bludgeon
 bludgeons
 bludger
 bludging
+babelize
 blue
 biweekly
 blueback
