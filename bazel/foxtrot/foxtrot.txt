@@ -1102,6 +1102,7 @@ fisc
 farms
 farmscape
 farmsteads
+favourers
 farmtown
 farnesol
 farnesols
@@ -9548,7 +9549,6 @@ fulyie
 fraternizer
 fraternizes
 fraternizing
-favourers
 fraticelli
 focalises
 furcating
