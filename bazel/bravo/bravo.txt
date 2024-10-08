@@ -2172,7 +2172,6 @@ bannerole
 bannerols
 bannerwise
 bannet
-bannisters
 bannition
 bannock
 bowlines
@@ -16416,6 +16415,7 @@ brushoff
 brushoffs
 brushpopper
 brushproof
+bannisters
 brushup
 brushups
 brushwood
