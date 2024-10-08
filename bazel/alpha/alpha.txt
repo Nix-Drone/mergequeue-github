@@ -478,7 +478,6 @@ apimania
 abyssinia
 abyssinian
 abyssobenthonic
-abyssolith
 abyssopelagic
 abyssus
 abit
@@ -8906,6 +8905,7 @@ alloplasmatic
 alloplasmic
 alloplast
 alloplastic
+abyssolith
 allopolyploid
 allopolyploidy
 allopsychic
