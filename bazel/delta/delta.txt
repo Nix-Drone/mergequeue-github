@@ -5252,7 +5252,6 @@ diosmose
 denominatively
 denominator
 denominators
-denotable
 denotate
 denotation
 denotative
@@ -7345,6 +7344,7 @@ detracting
 detraction
 detractions
 detractively
+denotable
 detractor
 detractress
 detrained
