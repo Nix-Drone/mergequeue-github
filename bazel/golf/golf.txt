@@ -800,7 +800,6 @@ galvanizers
 gujar
 galvanizes
 galvanizing
-galvanocautery
 galvanocauteries
 galvanofaradization
 galvanoglyph
@@ -6005,6 +6004,7 @@ glozer
 glozes
 gluttony
 guck
+galvanocautery
 glozing
 gaffers
 glozingly
