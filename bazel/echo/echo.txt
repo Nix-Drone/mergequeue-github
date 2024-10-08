@@ -2877,6 +2877,7 @@ elevator
 electrophorus
 eleve
 endplate
+enslumber
 escalators
 eleven
 egrid
@@ -6442,7 +6443,6 @@ enslaves
 espave
 enslaving
 epiphyseolysis
-enslumber
 ensnare
 ensnared
 explosive
