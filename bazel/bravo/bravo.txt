@@ -1845,7 +1845,6 @@ boss
 bizardite
 bothroi
 banago
-blancmanger
 banagos
 buriable
 bound
@@ -12326,6 +12325,7 @@ bergeres
 bombo
 bombola
 bombonne
+blancmanger
 bombora
 bombous
 bombproof
