@@ -3615,7 +3615,6 @@ carauna
 caraunda
 caravaneer
 chemics
-caravaner
 caravaning
 caravanist
 caravanned
@@ -16343,6 +16342,7 @@ cliqueiest
 cliqueyness
 cytome
 cliqueless
+caravaner
 cliques
 cliquy
 cliquier
