@@ -1218,6 +1218,7 @@ dinosaur
 daterman
 daters
 dates
+dependantly
 datil
 dating
 denormalized
@@ -5633,7 +5634,6 @@ dependableness
 dependably
 dependance
 dependant
-dependantly
 depended
 dependence
 dependency
