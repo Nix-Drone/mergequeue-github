@@ -1777,7 +1777,6 @@ gestations
 gnotobiote
 gastrodynia
 gastrodisk
-gastroduodenitis
 gastroduodenoscopy
 gastroduodenostomy
 gastroduodenotomy
@@ -6768,6 +6767,7 @@ gateward
 grotesquely
 gonadotrophic
 gonadotrophin
+gastroduodenitis
 gonadotropin
 granivorous
 gonaduct
