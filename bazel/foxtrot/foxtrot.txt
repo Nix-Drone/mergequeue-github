@@ -5944,7 +5944,6 @@ foreclosable
 flummoxes
 fluidizing
 floorless
-floors
 fiddleback
 floorshift
 fawny
@@ -6642,6 +6641,7 @@ foamless
 foamlike
 foams
 fobbing
+floors
 flirtier
 frequents
 focal
