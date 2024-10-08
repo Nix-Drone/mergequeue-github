@@ -2234,7 +2234,6 @@ feltmaking
 feltman
 foulard
 foredeep
-feltmonger
 felts
 feltwort
 felucca
@@ -7799,6 +7798,7 @@ forelooper
 foreloper
 forelouper
 foremade
+feltmonger
 fiascoes
 foreman
 foremarch
