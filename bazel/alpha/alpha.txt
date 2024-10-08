@@ -6239,7 +6239,6 @@ agnails
 agname
 agnamed
 agnat
-agnate
 agnates
 agnatha
 agnathia
@@ -18787,6 +18786,7 @@ archbuilder
 archchampion
 archcheater
 archchemic
+agnate
 archchronicler
 archconfraternity
 archconsoler
