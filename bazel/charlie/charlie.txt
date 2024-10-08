@@ -3530,7 +3530,6 @@ carafe
 carafes
 clergymen
 cornicing
-carafon
 coteau
 cocineras
 caragana
@@ -29183,6 +29182,7 @@ crypt
 crypta
 cryptaesthesia
 cryptal
+carafon
 cryptamnesia
 cryptamnesic
 cryptanalysis
