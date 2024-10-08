@@ -6371,7 +6371,6 @@ goalkeeper
 goalkeeping
 gambusias
 goals
-goaltender
 goaltenders
 geognosist
 gauderies
@@ -9969,6 +9968,7 @@ geitjie
 guavaberry
 grunswel
 guaza
+goaltender
 gubat
 gubbertush
 gubbin
