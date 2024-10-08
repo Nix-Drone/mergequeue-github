@@ -634,7 +634,6 @@ bacteriform
 bacterin
 borofluoric
 bacterioagglutinin
-bacterioblast
 bacteriochlorophyll
 bacteriocin
 bishopbird
@@ -10135,6 +10134,7 @@ blackhearted
 blackheartedly
 blacky
 blackie
+bacterioblast
 bemuslined
 blebby
 blackings
