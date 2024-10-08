@@ -1621,6 +1621,7 @@ fledglings
 findability
 favissa
 favorable
+foliaging
 favorableness
 farris
 floridian
@@ -6855,7 +6856,6 @@ foliage
 fakofo
 foliaged
 foliages
-foliaging
 furnishment
 federating
 furomonazole
