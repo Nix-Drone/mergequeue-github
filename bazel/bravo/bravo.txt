@@ -72,6 +72,7 @@ bunkermen
 babeship
 babesia
 boardinghouses
+bonded
 babesias
 babesiosis
 babhan
@@ -11472,7 +11473,6 @@ barbs
 blur
 blurb
 blurbist
-bonded
 basimesostasis
 blurbs
 bargained
