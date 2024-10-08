@@ -10894,7 +10894,6 @@ canezou
 clocher
 chypre
 chips
-chipwood
 chiquest
 chiquitan
 chiquito
@@ -31393,6 +31392,7 @@ curly
 curlicue
 curlycue
 curlicues
+chipwood
 curlycues
 curlicuing
 curliest
