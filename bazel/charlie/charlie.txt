@@ -10112,6 +10112,7 @@ chesset
 chessylite
 chessist
 chessman
+coplotter
 chessmen
 chirimen
 chessner
@@ -24615,7 +24616,6 @@ copleased
 coplot
 coplotted
 coneen
-coplotter
 coplowing
 copolar
 copolymer
