@@ -19461,7 +19461,6 @@ colourless
 colourlessness
 colourman
 colours
-colourtype
 colp
 colpenchyma
 colpeo
@@ -21591,6 +21590,7 @@ condensery
 comether
 condenseries
 condensers
+colourtype
 condenses
 condensible
 condensing
