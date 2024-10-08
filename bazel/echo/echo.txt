@@ -686,7 +686,6 @@ ecliptic
 ecliptical
 ecliptically
 eidetically
-ecliptics
 eclogic
 eclogite
 eclogites
@@ -5626,6 +5625,7 @@ enfort
 eastwards
 enforth
 enfoul
+ecliptics
 enfoulder
 enfrai
 enframe
