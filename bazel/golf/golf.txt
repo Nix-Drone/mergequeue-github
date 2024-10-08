@@ -8648,7 +8648,6 @@ girn
 greenbone
 gaudsman
 greenbrier
-greenbug
 greenbugs
 greencloth
 greencoat
@@ -10487,6 +10486,7 @@ gundygut
 gabari
 gundog
 gastronomic
+greenbug
 gunfights
 gunfires
 gearless
