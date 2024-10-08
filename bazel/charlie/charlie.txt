@@ -8576,7 +8576,6 @@ championships
 champlainic
 champlev
 champleve
-champs
 chams
 chamsin
 chan
@@ -24570,6 +24569,7 @@ copyfitter
 comvia
 copyfitting
 copygraph
+champs
 copygraphed
 copyhold
 copyholders
