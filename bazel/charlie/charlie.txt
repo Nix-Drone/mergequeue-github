@@ -22556,7 +22556,6 @@ connaturalness
 connature
 connaught
 connect
-connectable
 connected
 connectedly
 centauries
@@ -27848,6 +27847,7 @@ cracking
 crackings
 crackle
 crackled
+connectable
 crackles
 crackless
 crackleware
