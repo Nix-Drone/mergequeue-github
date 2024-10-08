@@ -2964,7 +2964,6 @@ barrelhouses
 besmearer
 barreling
 broad
-barrelled
 brattle
 barrelmaker
 barrelmaking
@@ -9448,6 +9447,7 @@ birefringent
 bigram
 byreman
 birettas
+barrelled
 byrewards
 byrewoman
 birgand
