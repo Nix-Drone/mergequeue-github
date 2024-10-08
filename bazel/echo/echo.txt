@@ -1221,7 +1221,6 @@ educable
 educables
 educand
 educatability
-epicrystalline
 eident
 educatable
 educate
@@ -10476,6 +10475,7 @@ existant
 elytra
 ethnomusicologist
 ethnopsychology
+epicrystalline
 ethnopsychological
 enalite
 ethnoses
