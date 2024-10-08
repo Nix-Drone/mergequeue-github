@@ -16864,7 +16864,6 @@ adumbrate
 antiphoner
 aphesis
 apheta
-accidentals
 aphetic
 aphetically
 aphanitic
@@ -21374,6 +21373,7 @@ asperation
 aspergation
 asperge
 asperges
+accidentals
 asperggilla
 asperggilli
 aspergil
