@@ -4707,7 +4707,6 @@ chibouk
 carposporangial
 cerebropathy
 carposporangium
-catalase
 carpospore
 carposporous
 carpostome
@@ -12161,6 +12160,7 @@ chrysanilin
 chrysaniline
 chrysanisic
 chrysanthemin
+catalase
 chrysanthemum
 chrysanthemums
 chrysanthous
