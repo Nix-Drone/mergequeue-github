@@ -10053,7 +10053,6 @@ blackamoors
 blackarm
 blackback
 blackball
-blackballed
 blackballer
 blackballs
 bridehood
@@ -13549,6 +13548,7 @@ bounded
 boundedly
 boundedness
 bonfires
+blackballed
 bounder
 bounderishly
 bounders
