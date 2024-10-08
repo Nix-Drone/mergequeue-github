@@ -6435,7 +6435,6 @@ emulate
 epimerising
 exarchy
 enslavedness
-enslavements
 enslaver
 enslavers
 enslaves
@@ -8795,6 +8794,7 @@ equivalent
 equivalents
 equivaliant
 equivaluer
+enslavements
 equivalve
 electrocystoscope
 equivalved
