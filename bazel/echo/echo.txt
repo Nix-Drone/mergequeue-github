@@ -9621,7 +9621,6 @@ escudero
 escudo
 escudos
 escuela
-enslaved
 esculapian
 eyehole
 ensaffron
@@ -12319,6 +12318,7 @@ exegete
 exegetic
 exegetics
 exegetist
+enslaved
 exemplar
 evertile
 exemplaric
