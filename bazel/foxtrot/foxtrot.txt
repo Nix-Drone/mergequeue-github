@@ -6654,7 +6654,6 @@ fixtures
 focimeter
 focimetry
 fockle
-focoids
 focsle
 focus
 focusable
@@ -8712,6 +8711,7 @@ femalist
 floodwater
 flanging
 forthwith
+focoids
 forty
 flamelike
 furcellaria
