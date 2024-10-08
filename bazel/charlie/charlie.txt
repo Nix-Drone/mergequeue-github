@@ -4883,7 +4883,6 @@ cartloads
 cartmaker
 cartmaking
 cartobibliography
-cartogram
 chloridizing
 cartographer
 cartographers
@@ -10516,6 +10515,7 @@ chylemia
 chilenite
 chiles
 catatoniac
+cartogram
 chyles
 chili
 chiliad
