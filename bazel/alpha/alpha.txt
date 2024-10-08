@@ -3898,7 +3898,6 @@ adipinic
 adipocellulose
 adipocere
 anthropological
-adipoceriform
 adipocerite
 adipocyte
 adipofibroma
@@ -23523,6 +23522,7 @@ aurantiaceae
 aurar
 aurata
 aurate
+adipoceriform
 aurated
 aureal
 aureately
