@@ -4586,7 +4586,6 @@ carouse
 caroused
 carousel
 carousels
-carouser
 cuddly
 carousers
 carousing
@@ -29780,6 +29779,7 @@ cropweed
 casekeeper
 croqueted
 croqueting
+carouser
 croquets
 croquette
 celiogastrotomy
