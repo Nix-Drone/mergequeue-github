@@ -4951,6 +4951,7 @@ antalkalis
 aeroelastics
 aporphin
 aerofoil
+azimuthal
 aerofoils
 algine
 arisaema
@@ -25270,7 +25271,6 @@ azymite
 azymous
 apostume
 azimuth
-azimuthal
 azimuthally
 azimuths
 azine
