@@ -5310,7 +5310,6 @@ gleanable
 grayback
 gleaned
 gleaner
-gleaners
 gleanings
 gleary
 gleba
@@ -9511,6 +9510,7 @@ greyish
 gastrogenic
 grouted
 groundkeeper
+gleaners
 grouter
 geothlypis
 grouty
