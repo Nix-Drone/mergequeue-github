@@ -3496,7 +3496,6 @@ figulated
 figuline
 figulines
 figurability
-figurable
 fixture
 figurae
 figurant
@@ -6453,6 +6452,7 @@ fluorocarbon
 fluorochrome
 fluoroform
 flaminian
+figurable
 fluoroformol
 fluorogen
 fluorometer
