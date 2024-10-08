@@ -2929,7 +2929,6 @@ broadcasts
 barranca
 barrancas
 biverbal
-barrancos
 barrandite
 braconniere
 barras
@@ -11754,6 +11753,7 @@ bodegones
 belook
 betoil
 bodement
+barrancos
 balloonation
 bodements
 boden
