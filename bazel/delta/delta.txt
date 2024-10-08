@@ -1718,7 +1718,6 @@ deathtrap
 deathtraps
 deathward
 deathwatches
-deathweed
 deathworm
 dowelled
 deave
@@ -10662,6 +10661,7 @@ dipnoans
 dipnoi
 diphaser
 dipnoid
+deathweed
 dasyure
 dypnone
 doublewords
