@@ -1103,7 +1103,6 @@ baillonella
 bailment
 bailments
 bailo
-bailor
 bailors
 bailout
 bails
@@ -8782,6 +8781,7 @@ bimetalism
 bimetallic
 belching
 bulldoggish
+bailor
 bimetallism
 bimetallist
 bimetallistic
