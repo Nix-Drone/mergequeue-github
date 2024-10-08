@@ -7369,7 +7369,6 @@ detruck
 detrude
 darbha
 detruded
-deem
 detrudes
 driblet
 distalia
@@ -14746,6 +14745,7 @@ descenders
 doctrix
 doctus
 docudramas
+deem
 deglut
 document
 diaphoresis
