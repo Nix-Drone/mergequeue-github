@@ -2469,7 +2469,6 @@ gelders
 gobmouthed
 geldesprung
 gelding
-geldings
 gelechia
 geleem
 gelees
@@ -9197,6 +9196,7 @@ giltcup
 gnomic
 goaves
 grith
+geldings
 grithbreach
 griths
 gaolerness
