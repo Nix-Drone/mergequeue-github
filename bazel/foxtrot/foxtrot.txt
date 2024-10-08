@@ -2226,7 +2226,6 @@ farmhouses
 felt
 felted
 felter
-feltyfare
 feltyflier
 felting
 feltings
@@ -5404,6 +5403,7 @@ fleeting
 formalistic
 fleetingness
 fathom
+feltyfare
 fleets
 fleetwing
 flegm
