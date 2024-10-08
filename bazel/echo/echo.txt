@@ -4414,7 +4414,6 @@ enantiomer
 enantiomeric
 enantiomorph
 enantiomorphy
-enantiomorphic
 enantiomorphous
 ensconce
 enantiomorphously
@@ -7649,6 +7648,7 @@ elytropolypus
 epichorion
 epichoristic
 epapophysial
+enantiomorphic
 exalted
 epicyemate
 experiments
