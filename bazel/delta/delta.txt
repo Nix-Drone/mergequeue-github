@@ -2316,6 +2316,7 @@ dresser
 dropsy
 decerning
 donne
+destroyed
 decerns
 decerp
 decertation
@@ -7031,7 +7032,6 @@ destrier
 destriers
 destroy
 destroyable
-destroyed
 dismays
 destroyer
 destroyers
