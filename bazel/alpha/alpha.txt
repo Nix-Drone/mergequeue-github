@@ -12767,7 +12767,6 @@ angioleucitis
 angiolymphoma
 angiolipoma
 angiolith
-angiology
 angioma
 angiomalacia
 angiomas
@@ -21461,6 +21460,7 @@ asphyxiant
 asphyxias
 asoka
 asphyxiate
+angiology
 auxoaction
 asphyxiated
 asphyxiating
