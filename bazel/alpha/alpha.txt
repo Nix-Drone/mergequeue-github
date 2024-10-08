@@ -5732,7 +5732,6 @@ agathodemon
 aint
 afterworld
 afterwort
-afterwrath
 aftonian
 aftosa
 aftosas
@@ -9278,6 +9277,7 @@ akenbold
 acerose
 alphabetic
 alphabetical
+afterwrath
 adnumber
 alphabetically
 arthrostraca
