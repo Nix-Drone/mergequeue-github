@@ -1698,7 +1698,6 @@ friars
 four
 fdnames
 fdtype
-fdub
 fortuitousness
 fe
 forksmith
@@ -1924,6 +1923,7 @@ frs
 fedayee
 fedarie
 feddan
+fdub
 feddans
 fedellini
 federalese
