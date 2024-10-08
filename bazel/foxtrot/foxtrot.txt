@@ -7795,7 +7795,6 @@ forelook
 formants
 francisco
 foreloop
-forelooper
 foreloper
 forelouper
 foremade
@@ -8027,6 +8026,7 @@ forespoke
 forespoken
 forest
 forthteller
+forelooper
 forestaff
 forestaffs
 forestage
