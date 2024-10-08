@@ -4097,7 +4097,6 @@ beakiron
 bosselated
 backhatch
 beakless
-beaklike
 beaks
 beal
 beala
@@ -17114,6 +17113,7 @@ barspoon
 bulleted
 bullethead
 bulletheadedness
+beaklike
 brennage
 bogman
 bulletined
