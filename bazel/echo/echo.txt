@@ -3921,7 +3921,6 @@ electrotonus
 epacme
 emilia
 emim
-eminence
 eminences
 eminencies
 eminent
@@ -8184,6 +8183,7 @@ episcopation
 exedra
 ern
 episcopature
+eminence
 engyscope
 episcopised
 episcopization

@@ -17477,7 +17477,6 @@ apostrophi
 apostrophic
 apostrophied
 apostrophise
-apostrophised
 apostrophising
 apostrophize
 apostrophizes
@@ -21780,6 +21779,7 @@ assigns
 assilag
 assimilability
 assimilable
+apostrophised
 amiced
 assimilate
 assimilated
