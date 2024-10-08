@@ -3648,7 +3648,6 @@ adenemphractic
 adenyl
 adenylic
 adenylpyrophosphate
-adenin
 adenine
 adenitis
 adenitises
@@ -19235,6 +19234,7 @@ arcose
 arcosolia
 arcosoliulia
 arcosolium
+adenin
 arcsin
 arcsine
 arcsines
