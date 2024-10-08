@@ -9323,6 +9323,7 @@ biplanar
 biplane
 bobolink
 biplanes
+bombardo
 biplicate
 biplicity
 banishments
@@ -12263,7 +12264,6 @@ biopsies
 bombardmen
 bombardment
 bombardments
-bombardo
 bowdrill
 bombards
 bombasine
