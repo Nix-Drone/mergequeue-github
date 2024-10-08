@@ -5971,7 +5971,6 @@ beltcourse
 beltene
 begrutch
 brassiere
-belter
 beltian
 ballistic
 beltie
@@ -14837,6 +14836,7 @@ breakoff
 breakout
 breakouts
 breakover
+belter
 biphenyl
 breakpoint
 breakpoints
