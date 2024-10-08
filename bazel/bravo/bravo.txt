@@ -5359,7 +5359,6 @@ begrim
 begrimed
 begrimer
 begrimes
-bombsight
 begrimmed
 begrimming
 beseemly
@@ -7637,6 +7636,7 @@ bewhisper
 bromatology
 bewhistle
 bewhiten
+bombsight
 barnstormer
 bewhore
 bewidow
