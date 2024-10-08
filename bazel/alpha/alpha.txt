@@ -4996,6 +4996,7 @@ aerolites
 anteoccupation
 admonitioner
 aerolith
+animable
 aerolithology
 aggrievance
 aeroliths
@@ -13117,7 +13118,6 @@ arsanilic
 anim
 anima
 animability
-animable
 animableness
 animacule
 animadversal
