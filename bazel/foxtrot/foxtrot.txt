@@ -4421,7 +4421,6 @@ fishpotter
 fishskin
 fishspear
 fishtail
-fishtailed
 flether
 fishtails
 fishway
@@ -9747,6 +9746,7 @@ freesilverism
 freesilverite
 freespace
 freest
+fishtailed
 firebrands
 freestanding
 fibula
