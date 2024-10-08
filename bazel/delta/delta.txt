@@ -4433,7 +4433,6 @@ disnaturalize
 demarcature
 demarch
 demarche
-demarches
 demarchy
 demaree
 demargarinate
@@ -5640,6 +5639,7 @@ dependency
 dependencies
 depending
 dependingly
+demarches
 depends
 defacingly
 dukeship
