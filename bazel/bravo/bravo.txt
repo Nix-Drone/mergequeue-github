@@ -4484,6 +4484,7 @@ bearings
 beckoner
 beckoners
 beckoning
+beswarms
 beckoningly
 barfed
 byward
@@ -7331,7 +7332,6 @@ besugar
 besully
 beswarm
 beswarmed
-beswarms
 besweatered
 beswim
 beswink
