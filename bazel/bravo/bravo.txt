@@ -1994,7 +1994,6 @@ bandonion
 bandor
 bandora
 bandore
-bronchium
 bandos
 bandpass
 bandrol
@@ -16544,6 +16543,7 @@ bubo
 buboes
 bacillary
 bubonalgia
+bronchium
 bubonic
 bluebeard
 bubonidae
