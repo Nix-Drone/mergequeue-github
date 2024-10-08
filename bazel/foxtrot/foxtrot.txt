@@ -1185,7 +1185,6 @@ fenite
 fascia
 fogeater
 fasciae
-fasciate
 featherbone
 fasciated
 fasciation
@@ -6978,6 +6977,7 @@ followers
 followingly
 floppers
 flushed
+fasciate
 followings
 fomalhaut
 forebooms
