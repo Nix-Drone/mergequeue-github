@@ -2251,7 +2251,6 @@ baptistries
 baptizable
 baptized
 baptizement
-baptizer
 baptizers
 buggyman
 baptizing
@@ -8003,6 +8002,7 @@ bibliothque
 birdeen
 batoka
 brendice
+baptizer
 bibliotist
 byblis
 biblism
