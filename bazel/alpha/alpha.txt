@@ -998,7 +998,6 @@ absolved
 absolvent
 absolver
 absolvers
-absolving
 absolvitor
 absonant
 absonous
@@ -5358,6 +5357,7 @@ affixes
 affixial
 affixion
 affixment
+absolving
 ague
 affixture
 afflate
