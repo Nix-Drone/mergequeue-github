@@ -29927,7 +29927,6 @@ crosstown
 crosstrack
 crosstree
 crossway
-crossways
 crosswalk
 crosswalks
 crossweb
@@ -31271,6 +31270,7 @@ catoism
 curch
 curchef
 curchy
+crossways
 curcuddoch
 curculio
 curculionid
