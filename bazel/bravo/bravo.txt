@@ -3822,7 +3822,6 @@ boatfalls
 banderilla
 battlestead
 battlewagon
-battleward
 battlewise
 bronchiectasis
 bliest
@@ -16863,6 +16862,7 @@ bufonite
 bufotalin
 bufotoxin
 bandi
+battleward
 bugaboo
 bugaboos
 bugala
