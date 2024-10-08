@@ -10404,7 +10404,6 @@ deltafication
 diphenylguanidine
 diphenylhydantoin
 diphenylmethane
-diphenylquinomethane
 diphenyls
 diphenylthiourea
 diphenoxylate
@@ -15201,6 +15200,7 @@ dollying
 dollin
 dolliness
 disuniform
+diphenylquinomethane
 dollishly
 dollishness
 dishtowel
