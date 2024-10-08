@@ -4639,7 +4639,6 @@ fixt
 fusiformis
 fixtureless
 farming
-fixup
 fixups
 fixure
 fixures
@@ -7148,6 +7147,7 @@ footcandle
 footcloths
 finedraw
 facer
+fixup
 figwort
 foeniculum
 footed
