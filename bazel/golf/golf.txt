@@ -3214,6 +3214,7 @@ gravimeter
 gettering
 geopotential
 geoprumnon
+gantry
 georama
 george
 georgemas
@@ -3574,7 +3575,6 @@ gullygut
 gestation
 gestational
 gratify
-gantry
 gestative
 gestatory
 gestatorial
