@@ -9356,7 +9356,6 @@ fikie
 frontispieced
 flitwite
 fraktur
-frakturs
 framboise
 fasciolet
 fecula
@@ -11733,6 +11732,7 @@ futwa
 fibdom
 fuze
 fuzed
+frakturs
 fuzees
 fuzes
 fuzil
