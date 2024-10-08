@@ -4666,6 +4666,7 @@ beddings
 bede
 bro
 bogans
+brigands
 bedeaf
 bedeafen
 ballett
@@ -17630,7 +17631,6 @@ bonnive
 burgeons
 burger
 burgers
-brigands
 burgessdom
 burggrave
 bitumed
