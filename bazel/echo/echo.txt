@@ -3946,7 +3946,6 @@ emissivity
 earthquaked
 emissory
 emitted
-emittent
 emitter
 emitting
 emlen
@@ -4859,6 +4858,7 @@ excreting
 elutor
 encouragements
 ephydriad
+emittent
 expertise
 encouragers
 eosinophilous
