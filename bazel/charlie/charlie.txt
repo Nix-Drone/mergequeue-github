@@ -9964,7 +9964,6 @@ chemotrophic
 chemotropic
 chemotropically
 chemotropism
-chempaduk
 chemurgic
 chemurgical
 chemurgies
@@ -13477,6 +13476,7 @@ cidarid
 cidaridae
 cidaris
 cidaroida
+chempaduk
 cassida
 cider
 catchingly
