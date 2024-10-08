@@ -1074,6 +1074,7 @@ deboist
 dartlike
 dartling
 dissecting
+deadlocking
 dartman
 deucedly
 diffluence
@@ -1524,7 +1525,6 @@ deadlily
 deadlines
 deadliness
 deadlock
-deadlocking
 deadman
 direfulness
 deadmelt
