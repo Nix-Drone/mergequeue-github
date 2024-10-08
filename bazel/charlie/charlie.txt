@@ -2357,7 +2357,6 @@ conject
 candidacy
 candidacies
 careeristic
-candidate
 candidates
 candidateship
 candidating
@@ -5708,6 +5707,7 @@ catechized
 catechizer
 catechizes
 catechizing
+candidate
 catechol
 catecholamine
 catecholamines
