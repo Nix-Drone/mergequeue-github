@@ -5421,7 +5421,6 @@ dentistries
 dentists
 dentition
 dilating
-dentolabial
 dentolingual
 dentololabial
 dentonasal
@@ -15344,6 +15343,7 @@ domiciliation
 domiciling
 domify
 dovetail
+dentolabial
 domification
 decempedate
 domina
