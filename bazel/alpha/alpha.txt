@@ -3661,6 +3661,7 @@ adenocarcinomata
 akepiros
 adenocele
 adenochondroma
+anteromedial
 adenochondrosarcoma
 adenochrome
 adenocyst
@@ -14285,7 +14286,6 @@ anterointerior
 anterointernal
 anterolateral
 anterolaterally
-anteromedial
 anteromedian
 anteroom
 allopathies
