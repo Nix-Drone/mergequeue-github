@@ -14198,7 +14198,6 @@ antefixes
 antenniform
 antennula
 antennular
-antennulary
 antennule
 adelopod
 antenodal
@@ -24626,6 +24625,7 @@ ammonium
 avenine
 avenolith
 avenous
+antennulary
 avens
 avenses
 aventayle
