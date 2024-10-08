@@ -3406,7 +3406,6 @@ deflate
 deflated
 drynaria
 deflater
-deflates
 delime
 deflating
 deflation
@@ -5845,6 +5844,7 @@ deposer
 deposers
 deposes
 discouragement
+deflates
 deposing
 deposit
 diamondwork
