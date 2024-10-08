@@ -12568,7 +12568,6 @@ disjunctions
 disjunctive
 disjunctively
 disjunctor
-disjuncts
 dereferences
 disjuncture
 disjune
@@ -14681,6 +14680,7 @@ dockmaster
 diazotizable
 docks
 dockside
+disjuncts
 dockworker
 docmac
 docoglossa
