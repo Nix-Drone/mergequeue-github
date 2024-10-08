@@ -2462,7 +2462,6 @@ ferlying
 ferling
 fermacy
 fermail
-fermal
 fermata
 fusinite
 fermatas
@@ -5236,6 +5235,7 @@ fructoses
 flavorless
 fulgently
 flavorousness
+fermal
 flavors
 formant
 filippi
