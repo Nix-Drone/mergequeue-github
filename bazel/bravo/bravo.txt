@@ -5458,6 +5458,7 @@ behen
 behenate
 behenic
 binominal
+byeworker
 behest
 behests
 behew
@@ -8264,7 +8265,6 @@ byestreet
 biethnic
 baccar
 bietle
-byeworker
 byeworkman
 bluejoint
 bifaces
