@@ -949,6 +949,7 @@ biophysiological
 bagpiper
 bagpipers
 bagpipes
+ballistics
 bagpiping
 bagplant
 boscage
@@ -17796,7 +17797,6 @@ bejumbled
 burnoosed
 burnous
 burnouts
-ballistics
 burnover
 burns
 bumfs
