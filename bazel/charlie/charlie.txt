@@ -7348,7 +7348,6 @@ cephalodiscida
 cephalodiscus
 cephalodium
 cephalofacial
-cephalogram
 cephalograph
 cephalohumeral
 cephaloid
@@ -12738,6 +12737,7 @@ colewort
 chukar
 chukchi
 chukka
+cephalogram
 chukkar
 chukkars
 chukkas
