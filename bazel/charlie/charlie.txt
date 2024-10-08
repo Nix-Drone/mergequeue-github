@@ -4070,6 +4070,7 @@ cardiopathic
 cardiopericarditis
 cardiophobe
 cardiophobia
+consumable
 cardiophrenia
 capette
 cardiopyloric
@@ -23257,7 +23258,6 @@ consulto
 consultor
 consultory
 consults
-consumable
 comagistracy
 caucussed
 consumate
