@@ -3503,7 +3503,6 @@ bastionet
 branchiopulmonate
 bastions
 bastite
-bastnaesite
 bastnasite
 balanoglossus
 basto
@@ -11063,6 +11062,7 @@ bloodbird
 befrets
 blancs
 bloodcurdler
+bastnaesite
 bloodcurdling
 bloodcurdlingly
 blooddrop
