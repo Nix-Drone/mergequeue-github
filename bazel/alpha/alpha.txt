@@ -6530,6 +6530,7 @@ agsam
 agst
 agtbasic
 aguacate
+archlute
 aguacateca
 aguada
 anaphalis
@@ -19081,7 +19082,6 @@ archlet
 archleveler
 archlexicographer
 archly
-archlute
 archmachine
 archmagician
 archmagirist
