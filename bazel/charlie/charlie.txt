@@ -2390,7 +2390,6 @@ candiru
 candys
 candite
 candytuft
-candyweed
 candle
 coehorn
 candleball
@@ -15444,6 +15443,7 @@ clapnest
 clapnet
 clapotis
 cricketed
+candyweed
 clappe
 clapped
 clapper
