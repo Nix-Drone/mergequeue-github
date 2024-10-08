@@ -17516,7 +17516,6 @@ coccids
 cocciferous
 cocciform
 coccygalgia
-coccygeal
 coccygean
 coccygectomy
 coccigenic
@@ -26348,6 +26347,7 @@ cardiant
 cothy
 cothish
 cerenkov
+coccygeal
 cothon
 cothouse
 cothurn
