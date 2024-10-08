@@ -14749,7 +14749,6 @@ cystospastic
 cystospore
 cystostomy
 cystostomies
-cystotome
 cystotomy
 cystotomies
 castellan
@@ -28545,6 +28544,7 @@ creel
 climatography
 creeling
 creels
+cystotome
 creem
 creen
 creep
