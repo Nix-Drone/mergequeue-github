@@ -2263,7 +2263,6 @@ elections
 elective
 ephemerons
 electives
-electivism
 electivity
 electo
 elector
@@ -14184,6 +14183,7 @@ elderbrotherly
 exuperable
 exurb
 exurban
+electivism
 exurbia
 exurbs
 exurge
