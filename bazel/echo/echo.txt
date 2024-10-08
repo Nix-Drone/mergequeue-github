@@ -6721,7 +6721,6 @@ enterotoxication
 essence
 enterotoxin
 enteroviral
-enterozoon
 emplastra
 equalization
 ensemble
@@ -13376,6 +13375,7 @@ expressway
 expressways
 exprimable
 exprobrate
+enterozoon
 expromission
 expromissor
 ef
