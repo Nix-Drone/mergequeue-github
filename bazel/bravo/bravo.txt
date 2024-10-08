@@ -633,7 +633,6 @@ bacteriemia
 bacteriform
 bacterin
 borofluoric
-bacterioagglutinin
 bacterioblast
 bacteriochlorophyll
 bacteriocin
@@ -9225,6 +9224,7 @@ biotypic
 biotypology
 biotite
 biotites
+bacterioagglutinin
 biotome
 buoys
 bogtrot
