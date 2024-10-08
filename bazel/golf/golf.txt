@@ -7977,6 +7977,7 @@ grandstands
 grandtotal
 geographics
 granduncle
+gearless
 granduncles
 grane
 grittle
@@ -10489,7 +10490,6 @@ gundog
 gastronomic
 gunfights
 gunfires
-gearless
 gung
 gunge
 gunhouse
