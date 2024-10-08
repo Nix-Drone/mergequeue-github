@@ -11872,7 +11872,6 @@ choraguses
 chorai
 choral
 choralcelo
-chorale
 choraleon
 chorales
 choralist
@@ -30286,6 +30285,7 @@ crurotarsal
 crus
 crusade
 crusaded
+chorale
 clingstones
 crusaders
 crusades
