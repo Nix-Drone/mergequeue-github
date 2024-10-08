@@ -10617,7 +10617,6 @@ aminophylline
 aminopyrine
 aminoplast
 aminoplastic
-aminopolypeptidase
 aminopropionic
 aminopurine
 aminoquin
@@ -11081,6 +11080,7 @@ amphicrania
 acclimature
 amphicreatinine
 amphictyon
+aminopolypeptidase
 amphictyony
 amphictyonian
 astrogator
