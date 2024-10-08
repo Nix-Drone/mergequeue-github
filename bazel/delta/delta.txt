@@ -11090,7 +11090,6 @@ disassemble
 dourade
 disassembled
 disassembler
-disassembles
 descriptors
 disassembling
 disassent
@@ -14456,6 +14455,7 @@ divorced
 divorcee
 divorcees
 divorcement
+disassembles
 divorcements
 dichotomal
 demisemiquaver
