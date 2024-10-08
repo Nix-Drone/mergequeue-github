@@ -3625,7 +3625,6 @@ caravansary
 caravansaries
 caravanserai
 caravanserial
-caravel
 confuse
 caravels
 colorability
@@ -15871,6 +15870,7 @@ clearstories
 clearwater
 clearweed
 cleat
+caravel
 cleated
 cleats
 cheilitis
