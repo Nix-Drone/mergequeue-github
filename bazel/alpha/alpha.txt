@@ -2704,7 +2704,6 @@ acquire
 acquired
 acquirement
 acquirements
-acquirer
 acquirers
 acquiring
 agglutinationist
@@ -14429,6 +14428,7 @@ aposporous
 anthologizes
 anthologizing
 anthomania
+acquirer
 anthomaniac
 anthomedusae
 anthomedusan
