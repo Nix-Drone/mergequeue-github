@@ -3497,6 +3497,7 @@ antiknocks
 addictedness
 activable
 addicting
+athymy
 addictions
 addictive
 addictively
@@ -22586,7 +22587,6 @@ atheticize
 athetize
 athetized
 athetotic
-athymy
 athymia
 athymic
 athing
