@@ -12630,6 +12630,7 @@ bookboard
 bookcase
 bookcases
 bookcraft
+borshts
 bookdealer
 bushmaster
 bookends
@@ -13098,7 +13099,6 @@ borsholder
 bovines
 besneer
 borsht
-borshts
 borty
 borts
 bortsch
