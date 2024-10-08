@@ -11590,7 +11590,6 @@ clomb
 choledocholithiasis
 choledocholithotomy
 choledocholithotripsy
-choledochoplasty
 choledochorrhaphy
 choledochostomy
 cace
@@ -16321,6 +16320,7 @@ clypeolate
 clypeole
 clypeus
 collapsible
+choledochoplasty
 clippable
 clipped
 clipperman
