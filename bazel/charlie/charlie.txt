@@ -12063,7 +12063,6 @@ chanceries
 crusca
 choruslike
 chorusmaster
-chorussed
 chorusses
 chorussing
 curcuma
@@ -21863,6 +21862,7 @@ conferencing
 conferential
 conferment
 conferrable
+chorussed
 conferral
 conferred
 conferree
