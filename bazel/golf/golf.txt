@@ -3603,7 +3603,6 @@ gesture
 gestureless
 gesturers
 gesturist
-geswarp
 geta
 gallivorous
 getable
@@ -5965,6 +5964,7 @@ glottological
 glottologist
 goniometer
 galeres
+geswarp
 glout
 glouted
 glouting
