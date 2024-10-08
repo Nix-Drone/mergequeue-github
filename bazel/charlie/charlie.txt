@@ -2378,6 +2378,7 @@ candids
 countermands
 coasters
 candier
+chemosynthetic
 candies
 candify
 candyh
@@ -9922,7 +9923,6 @@ chemosensitivities
 chemoserotherapy
 chemoses
 chemosynthesis
-chemosynthetic
 chemosis
 chemosmoic
 chemosmoses
