@@ -7226,7 +7226,6 @@ distruss
 determinant
 determinantal
 domage
-deflectional
 decidual
 determinate
 determinated
@@ -7277,6 +7276,7 @@ detest
 detestability
 detestation
 dominate
+deflectional
 detestations
 detested
 decasualise
