@@ -8459,7 +8459,6 @@ alkanes
 alkanet
 accurateness
 alkanethiol
-alkanets
 alkanna
 alkannin
 alkanol
@@ -10832,6 +10831,7 @@ amoebalike
 amoeban
 amoebas
 alkalamide
+alkanets
 amoebean
 amoebeum
 amoebian
