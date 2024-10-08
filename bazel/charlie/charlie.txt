@@ -5010,7 +5010,6 @@ crowsteps
 casave
 casavi
 casbah
-casbahs
 cascabel
 cascabels
 cascable
@@ -28335,6 +28334,7 @@ crc
 crcao
 crche
 cenchrus
+casbahs
 cre
 crea
 creach
