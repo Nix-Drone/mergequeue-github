@@ -5331,6 +5331,7 @@ castled
 castlelike
 castles
 cortaderia
+clow
 china
 castlet
 chairwoman
@@ -8585,7 +8586,6 @@ chanabal
 chanca
 chance
 chanceably
-clow
 chanced
 certifiably
 chanceful
