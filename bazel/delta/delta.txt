@@ -6070,7 +6070,6 @@ dehumanise
 disminister
 dungeonlike
 deputizes
-deputizing
 dequantitate
 dequeue
 dequeues
@@ -11575,6 +11574,7 @@ discontentedness
 dollymen
 droiturel
 discontenting
+deputizing
 discontentments
 discontents
 discontiguity
