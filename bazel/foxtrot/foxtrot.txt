@@ -939,7 +939,6 @@ faquirs
 far
 farad
 faraday
-faradaic
 faradays
 faradic
 faradisation
@@ -2639,6 +2638,7 @@ ferrophosphorus
 filicologist
 frustulose
 ferrotype
+faradaic
 ferrotyped
 ferrotyping
 feist
