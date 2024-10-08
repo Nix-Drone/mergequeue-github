@@ -5383,6 +5383,7 @@ buzzes
 begs
 brevipen
 begster
+boatels
 busies
 beguard
 beguess
@@ -11586,7 +11587,6 @@ boatbuilder
 boatbuilding
 boated
 boatel
-boatels
 boatheader
 boathook
 boathouse
