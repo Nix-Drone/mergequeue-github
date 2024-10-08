@@ -19476,7 +19476,6 @@ colpohysterotomy
 colpoperineorrhaphy
 colpoplasty
 colpoptosis
-colporrhagia
 colporrhaphy
 colporrhea
 colporrhexis
@@ -27601,6 +27600,7 @@ cowing
 crizzle
 carcinosarcomata
 cowinner
+colporrhagia
 cowinners
 cowish
 cowishness
