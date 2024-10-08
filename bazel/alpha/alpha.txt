@@ -12071,7 +12071,6 @@ anatomist
 anatomists
 anatomizable
 anatomization
-anatomize
 anatomized
 anatomizer
 anatomizes
@@ -21092,6 +21091,7 @@ asemasia
 asemia
 asemic
 asepalous
+anatomize
 asepses
 anagogical
 aseptate
