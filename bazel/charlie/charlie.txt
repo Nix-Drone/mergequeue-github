@@ -2940,7 +2940,6 @@ canvasback
 canvasbacks
 canvasers
 canvases
-canvasing
 canvaslike
 canvasser
 canvassers
@@ -28909,6 +28908,7 @@ crick
 cricked
 crickey
 cricket
+canvasing
 cricketer
 cricketers
 cicindelid
