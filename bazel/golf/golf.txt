@@ -3076,7 +3076,6 @@ geoffroyin
 gekko
 geomance
 geoform
-gillnet
 geogen
 geogenesis
 gyropilot
@@ -6832,6 +6831,7 @@ giantism
 goniaster
 goniatites
 goniatitic
+gillnet
 goniatitid
 gonyaulax
 gonycampsis
