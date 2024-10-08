@@ -2817,7 +2817,6 @@ bibliolater
 bobberies
 baroness
 baronesses
-baronet
 baronetage
 beswelter
 baronetcy
@@ -15661,6 +15660,7 @@ beholder
 broadish
 broadleaf
 baylike
+baronet
 broadleaves
 broadly
 broadling
