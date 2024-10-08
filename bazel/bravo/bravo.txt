@@ -13819,7 +13819,6 @@ bowpot
 bowpots
 blitheful
 bows
-bowsaw
 bowsed
 bowser
 baccalaurean
@@ -14361,6 +14360,7 @@ brainwashes
 bluefishes
 brainwashing
 bimah
+bowsaw
 bubblies
 bisymmetry
 bigamy
