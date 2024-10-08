@@ -12732,6 +12732,7 @@ bookwright
 bool
 bowline
 boolean
+billeting
 booleans
 booley
 booleys
@@ -15400,7 +15401,6 @@ bedote
 brilliantine
 brilliantined
 beiges
-billeting
 brilliantly
 bayonet
 brilliantness
