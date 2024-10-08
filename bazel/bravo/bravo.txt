@@ -6488,6 +6488,7 @@ benzophenoxazine
 benzophloroglucinol
 benzophthalazine
 benzopyran
+blastulation
 benzopyranyl
 benzopyrazolone
 benzopyrylium
@@ -10474,7 +10475,6 @@ blastula
 butterier
 blastular
 blastulas
-blastulation
 blat
 blatancy
 blatant
