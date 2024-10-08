@@ -8380,7 +8380,6 @@ chalkiness
 chalking
 chalklike
 chalkline
-chalkone
 chalkos
 chalkosideric
 chalkotheke
@@ -25914,6 +25913,7 @@ condylopoda
 cortisols
 cortlandtite
 corton
+chalkone
 convolute
 coruco
 coassisted
