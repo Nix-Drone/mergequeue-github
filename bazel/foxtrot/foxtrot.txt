@@ -1852,6 +1852,7 @@ flywheel
 ficoes
 freelancer
 featuring
+futhark
 feazed
 feazes
 febres
@@ -7422,7 +7423,6 @@ forceless
 forcelessness
 forcelet
 foglietto
-futhark
 fallacious
 forcement
 forcene
