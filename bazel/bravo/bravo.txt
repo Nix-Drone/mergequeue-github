@@ -12731,6 +12731,7 @@ bucketeer
 bookwright
 bool
 bowline
+britishism
 boolean
 booleans
 booley
@@ -15593,7 +15594,6 @@ blimy
 british
 britisher
 britishhood
-britishism
 bankers
 britishly
 boultell
