@@ -5242,7 +5242,6 @@ begaud
 begaudy
 bobbled
 begaze
-begazes
 begazing
 blinds
 bicameralist
@@ -8271,6 +8270,7 @@ bifaces
 bifacial
 bifara
 bedress
+begazes
 bifarious
 bifariously
 biff
