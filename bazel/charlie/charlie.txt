@@ -1996,7 +1996,6 @@ campanologists
 campanulaceae
 campanulaceous
 campanulales
-campanular
 campanulariae
 campanularidae
 campanulatae
@@ -30300,6 +30299,7 @@ catalog
 cruset
 crush
 crushable
+campanular
 crushed
 catamenial
 codefendants
