@@ -4315,6 +4315,7 @@ first
 fylker
 forbearer
 freestone
+forloin
 firster
 feerie
 forrel
@@ -8359,7 +8360,6 @@ ferulaic
 frenziedness
 forletting
 forlive
-forloin
 forlore
 forlorn
 foredestined
