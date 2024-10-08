@@ -2717,6 +2717,7 @@ greige
 generate
 generated
 generater
+grapples
 gurdy
 gombroons
 generations
@@ -8226,7 +8227,6 @@ grassfinch
 grapple
 grappled
 grappler
-grapples
 grappling
 grapsidae
 grapsus
