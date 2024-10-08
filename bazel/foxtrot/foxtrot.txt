@@ -2567,7 +2567,6 @@ forwake
 flammeous
 ferrels
 ferren
-fossilisable
 floatmaker
 fairhead
 ferreous
@@ -3097,6 +3096,7 @@ fibrillating
 fibrillation
 forky
 fibrilled
+fossilisable
 fibrillose
 fibrination
 fibrinocellular
