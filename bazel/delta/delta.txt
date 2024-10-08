@@ -1196,7 +1196,6 @@ datasets
 datatype
 datatypes
 datcha
-dynamometry
 dialyzers
 dateableness
 datebook
@@ -12393,6 +12392,7 @@ disilicate
 disilicide
 disyllabic
 disyllabism
+dynamometry
 disyllabized
 disyllabizing
 disillude
