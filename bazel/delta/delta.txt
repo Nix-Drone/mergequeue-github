@@ -9636,6 +9636,7 @@ depopulated
 dikast
 dikdik
 dil
+diswont
 doorcase
 dilacerated
 dilacerating
@@ -14108,7 +14109,6 @@ disweapon
 diswench
 diswere
 diswit
-diswont
 diswood
 disworth
 dita
