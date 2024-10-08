@@ -2013,6 +2013,7 @@ bandstop
 bandstring
 bandura
 bandurria
+brickfielder
 bandurrias
 bandusia
 bandusian
@@ -15182,7 +15183,6 @@ brickel
 bricken
 bricker
 brickfield
-brickfielder
 brickhood
 buddhists
 brickyard
