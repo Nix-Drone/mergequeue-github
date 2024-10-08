@@ -4506,6 +4506,7 @@ gynic
 gynics
 gink
 ginkgoales
+gos
 geometdecrne
 grides
 goldfishes
@@ -7262,7 +7263,6 @@ giddyish
 grayware
 gortonian
 gortonite
-gos
 goschen
 goshawk
 gorefish
