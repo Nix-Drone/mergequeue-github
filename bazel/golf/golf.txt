@@ -2696,7 +2696,6 @@ generalists
 generaliter
 generalities
 generalizations
-generalize
 genl
 gyrations
 generalizeable
@@ -7950,6 +7949,7 @@ gymnospermic
 gratitude
 gasolinic
 grotesco
+generalize
 gonolobus
 gemse
 grandpapa
