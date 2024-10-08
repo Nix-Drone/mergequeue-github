@@ -5815,7 +5815,6 @@ creeled
 catfish
 catfoot
 catfooted
-catgut
 catguts
 cath
 catha
@@ -6567,6 +6566,7 @@ cedary
 careering
 colobin
 cedars
+catgut
 cedarwood
 ceded
 chondrosamine
