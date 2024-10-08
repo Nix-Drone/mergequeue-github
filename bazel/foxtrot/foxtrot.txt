@@ -195,6 +195,7 @@ fossule
 facto
 factorability
 factorable
+findable
 factordom
 factoress
 flateria
@@ -3919,7 +3920,6 @@ finchery
 finches
 find
 finalizes
-findable
 flabellinerved
 findhorn
 finding
