@@ -1311,7 +1311,6 @@ acanthopteran
 acanthopteri
 acanthopterygian
 acanthopterygii
-acanthopterous
 acanthoses
 acanthotic
 acanthous
@@ -19239,6 +19238,7 @@ arcsin
 arcsine
 arcsines
 arctalia
+acanthopterous
 arctalian
 arctan
 arctangent
