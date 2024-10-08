@@ -2685,6 +2685,7 @@ electrothermometer
 electrothermostatic
 electrothermotic
 electrotype
+ethynes
 electrotyped
 electrotypes
 electrotypy
@@ -10358,7 +10359,6 @@ ethinamate
 ethine
 emulge
 ethyne
-ethynes
 ethinyl
 ethynyl
 endophasic
