@@ -7574,7 +7574,6 @@ forechoir
 faith
 foregame
 forechoose
-foreclaw
 foreclose
 foreclosed
 foreclosure
@@ -9060,6 +9059,7 @@ fourquine
 frouzier
 firmans
 fourragere
+foreclaw
 flotsam
 fourrageres
 fourre
