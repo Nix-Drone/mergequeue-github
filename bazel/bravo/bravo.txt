@@ -3052,6 +3052,7 @@ bartending
 barter
 barterer
 barterers
+birdcage
 bartering
 barters
 barth
@@ -9377,7 +9378,6 @@ birdbaths
 birdbrained
 birdbrains
 besogne
-birdcage
 baroscope
 birdcages
 birdcall
