@@ -16811,6 +16811,7 @@ drawboy
 drawbolt
 drawbore
 deare
+dupable
 drawbored
 drawbores
 deodars
@@ -18370,7 +18371,6 @@ duotriacontane
 duotriode
 duoviri
 dup
-dupable
 despairingly
 dupatta
 disarrayed
