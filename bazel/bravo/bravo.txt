@@ -4656,7 +4656,6 @@ bedchamber
 bratstva
 bedclothing
 bedcord
-byplays
 bedcovers
 beddable
 bedders
@@ -5759,6 +5758,7 @@ belittle
 barometers
 belittled
 belittlement
+byplays
 belittler
 bowieful
 brace
