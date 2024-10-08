@@ -1709,7 +1709,6 @@ dustwoman
 deathliness
 deathrates
 diagrydium
-deaths
 deathsman
 deathsmen
 depaysee
@@ -6582,6 +6581,7 @@ desensitizers
 desensitizes
 desensitizing
 desentimentalize
+deaths
 deperming
 desert
 deserted
