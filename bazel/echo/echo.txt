@@ -5059,7 +5059,6 @@ electrocoating
 endnote
 endnotes
 endoangiitis
-exemplum
 endoaortitis
 endoarteritis
 enamelled
@@ -6379,6 +6378,7 @@ ensheath
 ensheathe
 ensheathed
 embiotocid
+exemplum
 ensheathing
 ensheaths
 enshell
