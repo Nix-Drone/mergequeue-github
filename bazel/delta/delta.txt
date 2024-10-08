@@ -2668,7 +2668,6 @@ decomposer
 decomposers
 decomposes
 decomposing
-decomposition
 decapod
 decomposure
 decompound
@@ -5587,6 +5586,7 @@ departmental
 depreciant
 drily
 departmentalise
+decomposition
 departmentalised
 dactyliographic
 departmentalising
