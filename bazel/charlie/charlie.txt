@@ -15437,7 +15437,6 @@ clapboarding
 clapboards
 clapcake
 clapdish
-clape
 clapholt
 clapmatch
 clapnest
@@ -16702,6 +16701,7 @@ clotheshorses
 clothesyard
 clothesless
 clothesline
+clape
 clotheslines
 clothesman
 cosuitor
