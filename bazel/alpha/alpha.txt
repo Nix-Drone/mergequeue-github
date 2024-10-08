@@ -12462,6 +12462,7 @@ antireducing
 adaptation
 anelasticity
 anele
+arthroplastic
 anelectric
 anelectrode
 anelectrotonus
@@ -20617,7 +20618,6 @@ arthrophyma
 arthrophlogosis
 arthropyosis
 arthroplasty
-arthroplastic
 arthropleura
 arthropod
 arthropoda
