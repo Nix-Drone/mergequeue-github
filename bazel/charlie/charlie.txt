@@ -6325,7 +6325,6 @@ compurgatorial
 cautioned
 cautioner
 cautioners
-cautiones
 cautioning
 cautionings
 cautionry
@@ -22384,6 +22383,7 @@ conidiophorous
 conidiospore
 conidium
 conifer
+cautiones
 coniferae
 coniferin
 coniferophyte
