@@ -1445,7 +1445,6 @@ dcb
 dclass
 dcollet
 dcor
-ddname
 disillusionise
 damnatory
 dea
@@ -8062,6 +8061,7 @@ diabolification
 decoder
 diabolisation
 diabolise
+ddname
 diabolised
 diabolising
 draggletail
