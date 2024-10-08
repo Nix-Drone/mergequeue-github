@@ -5691,7 +5691,6 @@ dephosphorization
 dephosphorize
 depickle
 depict
-depicted
 depicter
 descendents
 denuclearize
@@ -14725,6 +14724,7 @@ dogdoms
 disownable
 doctrinalist
 doctrinality
+depicted
 doctrinally
 doctrinary
 doctrinarian
