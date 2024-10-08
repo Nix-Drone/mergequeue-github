@@ -6386,7 +6386,6 @@ benumb
 bandeaus
 benzalethylamine
 benzalphenylhydrazone
-benzalphthalide
 benzamide
 benzamido
 benzamine
@@ -14833,6 +14832,7 @@ breaklist
 belis
 bostonians
 breakneck
+benzalphthalide
 breakoff
 breakout
 breakouts
