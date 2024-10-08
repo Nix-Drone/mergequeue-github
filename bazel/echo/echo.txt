@@ -2152,7 +2152,6 @@ elastivity
 elastomer
 enfamish
 elastomers
-elastometer
 elastometry
 endocrinopathy
 engarde
@@ -6443,6 +6442,7 @@ espave
 enslaving
 epiphyseolysis
 enslumber
+elastometer
 ensnare
 ensnared
 explosive
