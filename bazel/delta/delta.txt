@@ -1490,6 +1490,7 @@ deactivators
 defrosts
 deadborn
 deadcenter
+diobolons
 deeryards
 deadeye
 deaden
@@ -8440,7 +8441,6 @@ diamines
 dapperest
 disinthrall
 diaminogen
-diobolons
 diaminogene
 diamins
 diammine
