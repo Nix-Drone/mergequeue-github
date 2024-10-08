@@ -5633,6 +5633,7 @@ anaerobious
 afterharm
 afterheat
 afterhelp
+autoagglutinating
 afterhend
 afterhope
 afterhours
@@ -23856,7 +23857,6 @@ autoabstract
 amphibiousness
 acrology
 autoactive
-autoagglutinating
 autoagglutinin
 anthoecology
 autoalarm
