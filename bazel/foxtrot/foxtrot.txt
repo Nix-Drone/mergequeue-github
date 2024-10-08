@@ -5560,7 +5560,6 @@ flicker
 ferromagnetic
 flickered
 flickeringly
-flickermouse
 flossa
 flickers
 flickertail
@@ -8589,6 +8588,7 @@ fantast
 forpass
 forpet
 forpine
+flickermouse
 forpining
 fortunella
 forprise
