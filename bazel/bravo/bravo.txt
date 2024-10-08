@@ -3963,7 +3963,6 @@ badling
 bawsint
 bawsunt
 bawtie
-bawties
 baxter
 baxterian
 baxterianism
@@ -8979,6 +8978,7 @@ bioecologist
 bioelectric
 bioelectrical
 bioelectricity
+bawties
 bioelectricities
 bioelectrogenesis
 bioelectronics
