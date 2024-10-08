@@ -7449,7 +7449,6 @@ balklines
 betises
 betitle
 betocsin
-byproduct
 betoya
 betoyan
 betoken
@@ -10829,6 +10828,7 @@ blindage
 biggity
 blindball
 bindable
+byproduct
 blindcat
 bevue
 blindedly
