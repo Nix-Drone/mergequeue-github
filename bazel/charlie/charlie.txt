@@ -11861,7 +11861,6 @@ choppiness
 chopping
 chops
 chopstick
-chopsticks
 chopunnish
 chora
 choragi
@@ -16094,6 +16093,7 @@ cliental
 cliented
 clientelage
 clienteles
+chopsticks
 cycloidian
 clientry
 clients
