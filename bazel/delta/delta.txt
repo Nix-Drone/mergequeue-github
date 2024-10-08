@@ -1479,6 +1479,7 @@ deacons
 deaconship
 deactivate
 deactivated
+dustyfoot
 deactivates
 discontinuing
 dicranoid
@@ -18575,7 +18576,6 @@ dustheaps
 dusty
 dustier
 dustiest
-dustyfoot
 dustily
 dustin
 dustiness
