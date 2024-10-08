@@ -2426,7 +2426,6 @@ candleshrift
 candlesnuffer
 candlestand
 committeewoman
-candlestick
 candlesticked
 candlesticks
 candlestickward
@@ -2824,6 +2823,7 @@ cantharidean
 cantharides
 cantharidian
 cantharidize
+candlestick
 cantharidized
 cantharidizing
 cantharophilous
