@@ -2648,7 +2648,6 @@ acouasm
 acouchi
 acoumeter
 allylene
-acoumetry
 autodetector
 airframes
 acouometer
@@ -6981,6 +6980,7 @@ airway
 airwayman
 armless
 airways
+acoumetry
 airward
 airwards
 archliar
