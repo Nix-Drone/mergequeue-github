@@ -4310,7 +4310,6 @@ firns
 firoloida
 flammability
 facia
-furlongs
 first
 fylker
 forbearer
@@ -11285,6 +11284,7 @@ fatherkin
 freemasonism
 forepayment
 funkiness
+furlongs
 forgetness
 flocculant
 fete
