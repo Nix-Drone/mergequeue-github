@@ -284,7 +284,6 @@ fadedly
 fadednyess
 fadeless
 faden
-fadeout
 fader
 faders
 fadge
@@ -5139,6 +5138,7 @@ flatteringness
 footpick
 flatterous
 ferroelectrically
+fadeout
 flatters
 frockmaker
 feedingstuff
