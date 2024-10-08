@@ -5113,7 +5113,6 @@ deal
 dendritiform
 defension
 dendrium
-dendrobatinae
 dendrobium
 dendrocalamus
 dendroceratina
@@ -11390,6 +11389,7 @@ discloak
 discloister
 dissuader
 debug
+dendrobatinae
 disclosed
 discloser
 discloses
