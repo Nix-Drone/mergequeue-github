@@ -2742,7 +2742,6 @@ barmaster
 barmbrack
 barmcloth
 brither
-barmecide
 barmen
 barmfel
 becoward
@@ -5122,6 +5121,7 @@ beflannel
 bureaucrat
 beflap
 beflatter
+barmecide
 beflea
 befleaing
 begirdle
