@@ -6407,7 +6407,6 @@ electroplaque
 ensigncies
 ensigned
 entranceway
-ensignhood
 ensilaged
 ensilages
 episcopal
@@ -7307,6 +7306,7 @@ eocene
 eof
 eoghanacht
 eohippus
+ensignhood
 eohippuses
 eoith
 eoiths
