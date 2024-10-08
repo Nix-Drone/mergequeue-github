@@ -4186,7 +4186,6 @@ firedrake
 firefall
 firefang
 firefanged
-firefangs
 firefighter
 firefighting
 foreship
@@ -5215,6 +5214,7 @@ flavicant
 frayne
 flavid
 flavines
+firefangs
 frigorify
 fireproof
 flavins
