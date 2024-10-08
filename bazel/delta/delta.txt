@@ -3518,7 +3518,6 @@ deformability
 disknow
 deformable
 deformalize
-deformation
 deformational
 delete
 deformations
@@ -7239,6 +7238,7 @@ drownding
 draggletailedness
 dessa
 determinating
+deformation
 determinations
 dissenting
 determinative
