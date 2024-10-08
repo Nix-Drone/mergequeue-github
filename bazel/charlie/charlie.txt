@@ -2719,7 +2719,6 @@ canonized
 catapult
 canonizer
 canonizes
-canonizing
 canonlike
 canonry
 canonries
@@ -5679,6 +5678,7 @@ cate
 catechesis
 catechetic
 congenator
+canonizing
 conduceability
 catechetical
 catechetically
