@@ -1222,7 +1222,6 @@ clavicembali
 calibogus
 colunar
 calibrate
-calibrated
 canichana
 calibrater
 calibrates
@@ -23271,6 +23270,7 @@ consumeless
 consumer
 consumerist
 consumership
+calibrated
 consumes
 consuming
 consumingly
