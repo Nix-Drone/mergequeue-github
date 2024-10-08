@@ -4960,6 +4960,7 @@ escrows
 endboard
 endbrains
 enddamaged
+equiform
 enddamaging
 ende
 energistic
@@ -7137,7 +7138,6 @@ enures
 enureses
 evadible
 enuresises
-equiform
 enurny
 env
 eventuations
