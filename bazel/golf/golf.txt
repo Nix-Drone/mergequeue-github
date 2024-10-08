@@ -1305,7 +1305,6 @@ gluemaker
 garage
 garaged
 gyved
-gowk
 glandless
 garageman
 garaging
@@ -4344,6 +4343,7 @@ gynaecol
 gois
 gynaecological
 goalkeepers
+gowk
 gynaecomorphous
 germling
 gynaeolater
