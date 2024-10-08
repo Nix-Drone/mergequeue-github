@@ -1491,7 +1491,6 @@ defrosts
 deadborn
 deadcenter
 deeryards
-deadeye
 deaden
 deadened
 deadener
@@ -9625,6 +9624,7 @@ dika
 dikage
 dikamali
 dispersedelement
+deadeye
 dikaryon
 dikaryophase
 delignated
