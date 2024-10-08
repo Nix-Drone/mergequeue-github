@@ -9034,7 +9034,6 @@ bootstraps
 biographize
 biohazard
 brutes
-bioherm
 bioherms
 bioinstrument
 biokinetics
@@ -17891,6 +17890,7 @@ baccies
 burstiness
 burstone
 bursts
+bioherm
 botein
 burt
 burthen
