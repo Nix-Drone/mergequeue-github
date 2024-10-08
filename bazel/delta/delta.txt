@@ -10578,6 +10578,7 @@ diplokaryon
 diploma
 diplomaed
 diplomaing
+donable
 diplomas
 diplomat
 diplomata
@@ -15425,7 +15426,6 @@ dompteuse
 doms
 domus
 dona
-donable
 donaciform
 donack
 dilatometric
