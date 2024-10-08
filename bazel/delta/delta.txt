@@ -12025,7 +12025,6 @@ disenthrone
 disenthroned
 disenthronement
 deled
-disentitle
 diffuser
 disentitled
 disentitlement
@@ -16146,6 +16145,7 @@ douzainier
 douzeper
 domic
 douzepers
+disentitle
 douzieme
 douziemes
 dove
