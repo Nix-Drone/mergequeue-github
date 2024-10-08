@@ -986,7 +986,6 @@ calcaneonavicular
 calcaneoplantar
 countersale
 calcaneoscaphoid
-calcaneotibial
 calcaneum
 calcannea
 calcannei
@@ -18803,6 +18802,7 @@ colinearity
 colinephritis
 coling
 colins
+calcaneotibial
 colinus
 colyonic
 coliphage
