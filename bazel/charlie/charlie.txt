@@ -5813,7 +5813,6 @@ catfalls
 catfight
 creeled
 catfish
-catfoot
 catfooted
 catgut
 catguts
@@ -31324,6 +31323,7 @@ cury
 curia
 consolers
 curiae
+catfoot
 curiage
 curialism
 curialist
