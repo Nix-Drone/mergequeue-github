@@ -2653,7 +2653,6 @@ barebacked
 bloodlike
 barytas
 barite
-baryte
 baritenor
 barytes
 barythymia
@@ -6553,6 +6552,7 @@ big
 bepicture
 bepiece
 bellyflaught
+baryte
 bepierce
 bepile
 beacher
