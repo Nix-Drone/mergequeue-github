@@ -2796,7 +2796,6 @@ cantatrices
 chestily
 cantatrici
 cantboard
-cantdog
 cantdogs
 canted
 canteen
@@ -20228,6 +20227,7 @@ commonplaceness
 commonplacer
 commonplaces
 corrodingly
+cantdog
 commons
 commonsense
 carpels
