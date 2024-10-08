@@ -4193,7 +4193,6 @@ gim
 gimbal
 gimbaled
 gimballed
-groundsheet
 groining
 guildry
 gimberjawed
@@ -8760,6 +8759,7 @@ gregaloid
 glucosin
 guileless
 graduals
+groundsheet
 gregarian
 gregarina
 glycaemic
