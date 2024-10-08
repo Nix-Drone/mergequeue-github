@@ -3620,7 +3620,6 @@ bathymetrical
 bathinette
 bathing
 bulreedy
-bathypelagic
 bastinadoes
 babesiasis
 bathyplankton
@@ -14453,6 +14452,7 @@ branchiferous
 beswarming
 branchiform
 branchihyal
+bathypelagic
 branchiness
 blackcurrant
 branchiogenous
