@@ -12732,6 +12732,7 @@ bookwright
 bool
 bowline
 boolean
+bezzant
 booleans
 booley
 booleys
@@ -16118,7 +16119,6 @@ broombush
 broomcorn
 broomed
 broomer
-bezzant
 betrough
 bugproof
 broomiest
