@@ -4967,7 +4967,6 @@ flankard
 fountainhead
 flanked
 flanker
-flankers
 falconries
 fringilliform
 fireshaft
@@ -6843,6 +6842,7 @@ foldout
 foldouts
 folds
 foldure
+flankers
 fairyisms
 ferities
 foleye
