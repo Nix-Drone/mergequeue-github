@@ -5638,7 +5638,6 @@ depended
 dependence
 dependency
 dependencies
-depending
 dependingly
 depends
 defacingly
@@ -11022,6 +11021,7 @@ disappearance
 disjoint
 disappeared
 disappearer
+depending
 denmark
 disarticulated
 disjunct
