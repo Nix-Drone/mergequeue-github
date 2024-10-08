@@ -2040,7 +2040,6 @@ acetylator
 acetylbenzene
 amenders
 acetylbenzoate
-acetylbenzoic
 acetylcarbazole
 acetylcellulose
 anamnesis
@@ -12238,6 +12237,7 @@ ancyroid
 ancistrocladaceous
 ancistrocladus
 ancistrodon
+acetylbenzoic
 ancistroid
 anarcotin
 automanipulative

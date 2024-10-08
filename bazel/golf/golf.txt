@@ -4920,6 +4920,7 @@ givens
 garderobe
 giver
 givers
+glew
 gladeye
 gyves
 giveth
@@ -5374,7 +5375,6 @@ glenoidal
 glent
 gedrite
 glenwood
-glew
 guitarfish
 gliadine
 geomedicine
