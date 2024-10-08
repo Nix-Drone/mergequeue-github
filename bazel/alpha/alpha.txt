@@ -16864,7 +16864,6 @@ adumbrate
 antiphoner
 aphesis
 apheta
-accidentals
 aphetic
 aphetically
 aphanitic
@@ -19705,6 +19704,7 @@ amunam
 absorbingly
 ariettas
 ariette
+accidentals
 arigue
 ariidae
 arikara
