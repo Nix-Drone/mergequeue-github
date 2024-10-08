@@ -4911,7 +4911,6 @@ enrichment
 encumberment
 encumbers
 encumbrance
-electrometeor
 ectoderm
 encurl
 encurtain
@@ -12981,6 +12980,7 @@ expeditely
 expediteness
 expediter
 expedites
+electrometeor
 expediting
 expedition
 expeditionary
