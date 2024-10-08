@@ -799,7 +799,6 @@ galvanizer
 galvanizers
 gujar
 galvanizes
-galvanizing
 galvanocautery
 galvanocauteries
 galvanofaradization
@@ -6764,6 +6763,7 @@ gonadal
 gonadial
 ghostwrite
 gonadotrope
+galvanizing
 gateward
 grotesquely
 gonadotrophic
