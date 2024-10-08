@@ -3704,7 +3704,6 @@ embryotrophe
 embryotrophy
 embrittle
 embrittled
-embrittling
 embryulci
 embryulcia
 extraboldface
@@ -5558,6 +5557,7 @@ enfever
 enfevered
 enfevering
 enfevers
+embrittling
 eyeline
 enfierce
 enfigure
