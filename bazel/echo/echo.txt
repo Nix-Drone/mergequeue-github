@@ -10742,7 +10742,6 @@ eudiagnostic
 eudiometer
 eudiometry
 eudiometric
-eudiometrical
 eudiometrically
 eudist
 eudorina
@@ -12589,6 +12588,7 @@ exists
 epistemological
 exit
 exited
+eudiometrical
 exitial
 expulser
 exiting
