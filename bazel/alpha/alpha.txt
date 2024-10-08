@@ -6959,7 +6959,6 @@ apostolic
 airspeed
 airspeeds
 airstream
-akinetic
 allegory
 airstrip
 airstrips
@@ -8439,6 +8438,7 @@ alkalising
 alkalizable
 alkalizate
 alkalization
+akinetic
 alkalize
 alkalized
 alkalizer
