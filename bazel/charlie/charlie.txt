@@ -2913,6 +2913,7 @@ cantraip
 cantraips
 cantrap
 cantraps
+cenesthesis
 cantred
 cantref
 cantrip
@@ -6922,7 +6923,6 @@ cendre
 cene
 conductibility
 chappe
-cenesthesis
 cenesthetic
 cenizo
 cenobe
