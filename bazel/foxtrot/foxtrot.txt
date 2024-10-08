@@ -1696,6 +1696,7 @@ foehns
 familiar
 friars
 four
+fettling
 fdnames
 fdtype
 fdub
@@ -5351,7 +5352,6 @@ fledged
 friskets
 fledgeless
 fooder
-fettling
 fledgeling
 fauteuils
 fledgy
