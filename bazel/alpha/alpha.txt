@@ -6826,7 +6826,6 @@ airburst
 arresting
 airbursts
 antonina
-airbuses
 airbusses
 aircheck
 airchecks
@@ -11914,6 +11913,7 @@ anapsid
 australopithecus
 anapsida
 anapsidan
+airbuses
 anapterygota
 aladinist
 anapterygote
