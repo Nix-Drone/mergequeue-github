@@ -4110,7 +4110,6 @@ beam
 beambird
 beamed
 beamer
-beamers
 beamfilling
 beamful
 beeware
@@ -7551,6 +7550,7 @@ betusked
 betutor
 betutored
 betweenbrain
+beamers
 betweenity
 betweenmaid
 betweens
