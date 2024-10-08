@@ -2799,7 +2799,6 @@ barology
 barolong
 baromacrometer
 barometer
-boroughship
 barometry
 barometric
 barometrical
@@ -9982,6 +9981,7 @@ barques
 bivvy
 biwa
 byway
+boroughship
 byways
 bushranger
 bywalk
