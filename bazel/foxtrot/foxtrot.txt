@@ -140,6 +140,7 @@ faconde
 faconne
 facsim
 frena
+fumbler
 facsimile
 facsimiled
 fastest
@@ -11019,7 +11020,6 @@ fumble
 forgivableness
 fumbled
 flavory
-fumbler
 fifers
 fumblers
 fumbles
