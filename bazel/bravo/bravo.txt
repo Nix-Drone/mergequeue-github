@@ -5932,7 +5932,6 @@ belonger
 belonging
 basisphenoid
 bailiffship
-belongs
 belonid
 belonidae
 belonite
@@ -10471,6 +10470,7 @@ blastozooid
 blastplate
 blasts
 blastula
+belongs
 butterier
 blastular
 blastulas
