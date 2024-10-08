@@ -7907,7 +7907,6 @@ epigrammatizer
 epigrammatizing
 epigrams
 epigraph
-epigrapher
 eftest
 epigraphy
 egyptianization
@@ -10159,6 +10158,7 @@ eteostic
 eterminable
 eternal
 eternalise
+epigrapher
 eternalised
 eternalising
 eternalism
