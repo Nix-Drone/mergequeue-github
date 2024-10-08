@@ -2628,7 +2628,6 @@ electrosynthesis
 electrosynthetically
 envenoms
 electrosmosis
-electrostatic
 electrostatical
 electrosteel
 electrostenolysis
@@ -8858,6 +8857,7 @@ eranist
 eranthemum
 electrotherapeutics
 erasable
+electrostatic
 erased
 eraser
 erasers
