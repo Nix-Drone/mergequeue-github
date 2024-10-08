@@ -1690,7 +1690,6 @@ fc
 fchar
 fipenny
 fcomp
-farcin
 fcp
 foehns
 familiar
@@ -10070,6 +10069,7 @@ fylfots
 frigoric
 flacourtia
 frigorific
+farcin
 frigorifico
 frigostable
 frigotherapy
