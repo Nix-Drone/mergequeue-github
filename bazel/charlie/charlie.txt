@@ -2317,6 +2317,7 @@ cancerweed
 cancerwort
 canch
 cancha
+collunaria
 canchalagua
 crocard
 canchas
@@ -4125,7 +4126,6 @@ cardplaying
 cardroom
 cards
 clearwing
-collunaria
 cardshark
 carbamido
 cardsharp
