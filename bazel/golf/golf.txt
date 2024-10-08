@@ -5539,7 +5539,6 @@ grylle
 glimpses
 glims
 glyn
-glynn
 glinse
 gesten
 granularity
@@ -7667,6 +7666,7 @@ gradually
 gleir
 gradualness
 graduands
+glynn
 graduate
 glucase
 gilse
