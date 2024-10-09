@@ -7062,7 +7062,6 @@ centesimal
 centesimally
 centesimation
 centesimi
-centesimo
 centesimos
 centesis
 centesm
@@ -19114,6 +19113,7 @@ collogen
 collogue
 collogued
 colloguing
+centesimo
 chiropter
 colloid
 caseconv
