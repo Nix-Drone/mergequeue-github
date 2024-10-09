@@ -5444,7 +5444,6 @@ glycogenize
 glycogenolytic
 glycogenosis
 gingals
-glycogens
 glycohaemia
 glycol
 glycolaldehyde
@@ -10782,6 +10781,7 @@ gutty
 galilean
 guttie
 gelatinously
+glycogens
 guttiferae
 ganglioneuron
 guttiferales
