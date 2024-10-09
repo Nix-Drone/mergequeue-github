@@ -14912,7 +14912,6 @@ cytogenic
 cytogenies
 cytogenous
 cytoglobulin
-cytohyaloplasm
 cytoid
 citoyen
 citoyenne
@@ -20290,6 +20289,7 @@ communicate
 communicates
 communicating
 communication
+cytohyaloplasm
 communicational
 communications
 communicative
