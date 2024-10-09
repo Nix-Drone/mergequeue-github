@@ -11624,7 +11624,6 @@ chappie
 choleric
 cholerically
 cholericly
-cholericness
 choleriform
 cholerigenous
 cholerine
@@ -25276,6 +25275,7 @@ corticospinal
 cornbinks
 coidentity
 cornbird
+cholericness
 chaplainship
 cornbole
 cornbottle
