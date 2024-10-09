@@ -1403,7 +1403,6 @@ acceded
 acceders
 acceding
 accel
-accelerable
 accelerando
 amnesias
 accelerant
@@ -21918,6 +21917,7 @@ assuetude
 assumable
 avantgarde
 assumably
+accelerable
 assume
 assumed
 assumedly
