@@ -5175,7 +5175,6 @@ aethalia
 aethalioid
 aethalium
 aetheogamic
-aetheogamous
 airth
 aether
 aethereal
@@ -22749,6 +22748,7 @@ atomatic
 atomechanics
 atomerg
 atomy
+aetheogamous
 atomic
 atomical
 atomically
