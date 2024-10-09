@@ -5178,7 +5178,6 @@ exorate
 endogenicity
 endogenies
 exundation
-endogenous
 essive
 exercised
 electrocataphoresis
@@ -7636,6 +7635,7 @@ epichilium
 exergonic
 epistapedial
 epichindrotic
+endogenous
 epistomian
 epichirema
 epichondrosis
