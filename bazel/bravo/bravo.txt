@@ -287,7 +287,6 @@ backarrow
 backarrows
 backout
 backband
-backbar
 backbearing
 biotechnologies
 backbencher
@@ -2409,6 +2408,7 @@ barbicans
 barbicel
 barbicels
 brines
+backbar
 bentwood
 binful
 barbierite
