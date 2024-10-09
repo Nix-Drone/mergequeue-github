@@ -20337,6 +20337,7 @@ commutable
 clothier
 commutableness
 commutant
+cumulately
 commutate
 commutated
 commutation
@@ -30991,7 +30992,6 @@ cumulant
 cumular
 cumulate
 cumulated
-cumulately
 cumulating
 cumulation
 cumulatist
