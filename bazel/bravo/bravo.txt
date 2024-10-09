@@ -1681,7 +1681,6 @@ ballplayers
 ballplatz
 bedrabbled
 ballpoint
-ballproof
 ballrooms
 balls
 ballsy
@@ -3316,6 +3315,7 @@ basing
 buzzwigs
 basins
 bandaite
+ballproof
 basioccipital
 basion
 barbell
