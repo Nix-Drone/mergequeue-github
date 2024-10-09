@@ -9284,7 +9284,6 @@ fragile
 fishpot
 fragileness
 fragility
-faceplate
 fragilities
 fragment
 floorhead
@@ -10886,6 +10885,7 @@ ferrimagnetism
 flavous
 fulgency
 fulgent
+faceplate
 fulgentness
 fulgid
 fulgide
