@@ -10395,7 +10395,6 @@ diphenylacetylene
 diphenylamine
 diphenylaminechlorarsine
 diphenylchloroarsine
-diphenylene
 diphenylenimide
 diphenylenimine
 decern
@@ -13510,6 +13509,7 @@ disseminule
 dissensualize
 dissent
 dissentaneousness
+diphenylene
 dissentation
 dissented
 dissenter
