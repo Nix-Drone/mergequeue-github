@@ -8131,7 +8131,6 @@ fretless
 foretop
 foretopman
 foretopmast
-foretopmen
 foretops
 foretrace
 foreuse
@@ -10761,6 +10760,7 @@ frush
 flakers
 frusla
 frust
+foretopmen
 fecche
 frustrate
 frustrated
