@@ -8741,7 +8741,6 @@ chantecler
 chanted
 chantey
 chanteyman
-chantepleure
 chanter
 chanterelle
 chanters
@@ -20861,6 +20860,7 @@ catechumen
 compradore
 comprecation
 compreg
+chantepleure
 compregnate
 comprehend
 colonnades
