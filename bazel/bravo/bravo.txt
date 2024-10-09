@@ -8117,7 +8117,6 @@ biconical
 biconically
 biconjugate
 biconsonantal
-biconvex
 biconvexity
 bicorn
 buccinae
@@ -17858,6 +17857,7 @@ burrowstown
 benevolent
 burrstone
 burs
+biconvex
 bude
 bursae
 bursary
