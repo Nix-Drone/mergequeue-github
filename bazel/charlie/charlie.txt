@@ -2717,7 +2717,6 @@ canonizations
 canonize
 canonized
 catapult
-canonizer
 canonizes
 canonizing
 canonlike
@@ -13674,6 +13673,7 @@ cymbocephalous
 cymbopogon
 cimborio
 cimbrian
+canonizer
 cimbric
 cimcumvention
 cyme
