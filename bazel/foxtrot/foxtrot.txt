@@ -1103,7 +1103,6 @@ farms
 farmscape
 farmsteads
 farmtown
-farnesol
 farnesols
 fogas
 flinger
@@ -6189,6 +6188,7 @@ framework
 fimetarious
 flown
 firebreak
+farnesol
 flowstone
 flambeaux
 filicoid
