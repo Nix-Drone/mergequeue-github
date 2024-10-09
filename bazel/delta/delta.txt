@@ -5630,7 +5630,6 @@ dependability
 deadhead
 dependabilities
 dependableness
-dependably
 dependance
 dependant
 dependantly
@@ -8253,6 +8252,7 @@ diagraphs
 diagredium
 diaguitas
 diaguite
+dependably
 datiscin
 diaheliotropic
 diaheliotropically
