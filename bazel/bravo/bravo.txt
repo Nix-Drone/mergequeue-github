@@ -633,7 +633,6 @@ bacteriemia
 bacteriform
 bacterin
 borofluoric
-bacterioagglutinin
 bacterioblast
 bacteriochlorophyll
 bacteriocin
@@ -2612,6 +2611,7 @@ bariatrician
 bariatrics
 baric
 barycenter
+bacterioagglutinin
 bemused
 barycentric
 burmite
