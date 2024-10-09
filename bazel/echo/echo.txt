@@ -2476,7 +2476,6 @@ everydeal
 elephantlike
 electrolysed
 electrolyses
-electrolysing
 electrolysis
 electrolyte
 electrolithotrity
@@ -10180,6 +10179,7 @@ eternising
 endopod
 eternization
 eternize
+electrolysing
 eternized
 eternizes
 etesian
