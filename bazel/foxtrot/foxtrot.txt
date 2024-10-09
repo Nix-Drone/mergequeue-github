@@ -1146,7 +1146,6 @@ farseer
 farset
 frogged
 fregatidae
-farsighted
 farsightedness
 flatteringly
 forkedly
@@ -7556,6 +7555,7 @@ fleetings
 forecaddie
 forecast
 forecaster
+farsighted
 fiercest
 forecasters
 faujdar
