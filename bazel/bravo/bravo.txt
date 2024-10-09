@@ -7494,6 +7494,7 @@ betravel
 betread
 betrend
 betrinket
+brawlers
 betroth
 betrothals
 betrothing
@@ -17556,7 +17557,6 @@ burden
 burdenable
 bulking
 burdened
-brawlers
 burdener
 burdeners
 burdening
