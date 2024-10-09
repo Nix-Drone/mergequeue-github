@@ -3173,7 +3173,6 @@ else
 endemic
 elsehow
 elseways
-elsewhat
 elsewhen
 elsewhere
 elsewheres
@@ -7917,6 +7916,7 @@ epigraphist
 epigraphs
 epiguanine
 epigastrial
+elsewhat
 epihyal
 electromagnetize
 epihydric
