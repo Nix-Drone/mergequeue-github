@@ -15036,6 +15036,7 @@ dognapped
 dognapper
 dognapping
 dogplate
+dsnames
 disfavouring
 dogproof
 dogra
@@ -17671,7 +17672,6 @@ dsects
 desmodium
 dsname
 dashers
-dsnames
 dsp
 dsr
 dsri
