@@ -11748,6 +11748,7 @@ analyzers
 analyzes
 analyzing
 analkalinity
+astrometry
 anallagmatic
 anallagmatis
 anallantoic
@@ -22295,7 +22296,6 @@ astromeda
 algogenic
 astrometeorological
 astrometeorologist
-astrometry
 astrometric
 astrometrical
 astron
