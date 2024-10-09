@@ -837,7 +837,6 @@ fanioned
 fortes
 fanions
 fosters
-firebolt
 fides
 fanit
 fanjet
@@ -8229,6 +8228,7 @@ forgeable
 forged
 foreturn
 fermental
+firebolt
 forgery
 forgeries
 forges
