@@ -1192,7 +1192,6 @@ datary
 dataries
 dataset
 datasetname
-datasets
 datatype
 datatypes
 datcha
@@ -14164,6 +14163,7 @@ desexualization
 dithion
 dithionate
 dithionite
+datasets
 dithionous
 dithyramb
 dithyrambos
