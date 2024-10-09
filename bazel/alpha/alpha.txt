@@ -6841,7 +6841,6 @@ aircraftswoman
 aircraftwoman
 ahint
 aircrew
-aircrewman
 attended
 aircrewmen
 aircrews
@@ -19050,6 +19049,7 @@ architective
 architectonica
 architectonically
 architectress
+aircrewman
 architects
 architecture
 architectures
