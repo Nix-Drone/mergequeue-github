@@ -5175,6 +5175,7 @@ flaunch
 fullfaces
 flaunched
 ferie
+fullface
 flaunt
 flaunter
 featurally
@@ -7804,7 +7805,6 @@ foreman
 foremarch
 forsaker
 foremark
-fullface
 foremartyr
 foremastmen
 foremasts
