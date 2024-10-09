@@ -6562,6 +6562,7 @@ desegregating
 desegregation
 duststorm
 deselected
+discriminator
 deselecting
 deselects
 datums
@@ -11778,7 +11779,6 @@ ditchbank
 discriminatively
 discriminativeness
 demyship
-discriminator
 dislodges
 discriminatory
 discriminatorily
