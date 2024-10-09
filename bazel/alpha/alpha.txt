@@ -17844,7 +17844,6 @@ application
 applications
 applicative
 applicatively
-applicatory
 applicatorily
 applicators
 appliedly
@@ -23902,6 +23901,7 @@ antilogarithms
 autocamper
 autocamping
 autocar
+applicatory
 auspicate
 antiwar
 autocarp
