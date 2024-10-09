@@ -4991,6 +4991,7 @@ frontenis
 foliums
 flannels
 flanning
+flowcontrol
 flanque
 flapcake
 flapdock
@@ -6155,7 +6156,6 @@ fulicinae
 flowcharts
 finality
 foldstool
-flowcontrol
 flanche
 flowed
 flower
