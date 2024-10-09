@@ -6218,7 +6218,6 @@ enplanes
 enquarter
 enqueue
 entered
-enqueued
 enquicken
 enquire
 eten
@@ -12204,6 +12203,7 @@ especial
 evirato
 excerptor
 exculpatorily
+enqueued
 excurrent
 excurse
 estotiland
