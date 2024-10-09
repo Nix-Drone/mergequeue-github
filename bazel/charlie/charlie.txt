@@ -3375,7 +3375,6 @@ capstans
 capstone
 capsula
 coached
-consignificate
 capsular
 capsulated
 capsulation
@@ -15124,6 +15123,7 @@ civiliser
 civilises
 civilising
 civilist
+consignificate
 civilite
 civilities
 civilizable
