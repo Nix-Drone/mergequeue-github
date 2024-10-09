@@ -3479,6 +3479,7 @@ fightable
 forel
 fighteress
 fanwort
+fluidising
 fighting
 fightingly
 fights
@@ -6293,7 +6294,6 @@ fluidisation
 forewisdom
 fluidised
 fallal
-fluidising
 fluidism
 fluidist
 fluidity
