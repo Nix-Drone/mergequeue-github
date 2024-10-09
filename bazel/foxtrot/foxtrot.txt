@@ -199,7 +199,6 @@ factordom
 factoress
 flateria
 factory
-factorial
 factorially
 frizer
 factorials
@@ -778,6 +777,7 @@ fanciless
 fancily
 fancymonger
 fanciness
+factorial
 fancysick
 fancywork
 fand
