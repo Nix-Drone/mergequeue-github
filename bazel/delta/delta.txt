@@ -10582,7 +10582,6 @@ diplomas
 diplomat
 diplomata
 diplomate
-diplomates
 diplomatically
 diplomatique
 diplomatism
@@ -15779,6 +15778,7 @@ dorsal
 dorsale
 dioscoreaceae
 dorsales
+diplomates
 dorsalgia
 dorsally
 dorsals
