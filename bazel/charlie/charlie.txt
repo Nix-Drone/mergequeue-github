@@ -15921,7 +15921,6 @@ cleidomastoid
 cleidorrhexis
 checkerbelly
 chiripa
-cleidoscapular
 cleidosternal
 cleidotomy
 cleidotripsy
@@ -28093,6 +28092,7 @@ craniopathic
 craniopharyngeal
 craniophore
 cranioplasty
+cleidoscapular
 craniorhachischisis
 craniosacral
 cranioschisis
