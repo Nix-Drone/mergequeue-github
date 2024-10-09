@@ -19901,7 +19901,6 @@ command
 commandable
 conveyable
 commandant
-commandatory
 commanded
 commandedness
 commandeer
@@ -30588,6 +30587,7 @@ cephaloclasia
 cuculine
 cuculla
 coleopteral
+commandatory
 cucullate
 cucullated
 cucullately
