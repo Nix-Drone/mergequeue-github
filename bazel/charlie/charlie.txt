@@ -1371,7 +1371,6 @@ calypter
 calypters
 confect
 calyptoblastea
-calyptoblastic
 calyptorhynchus
 calyptraea
 calyptranthes
@@ -24192,6 +24191,7 @@ convocant
 convocate
 convocated
 convocating
+calyptoblastic
 convocation
 convocational
 convocationist
