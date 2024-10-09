@@ -4378,7 +4378,6 @@ electromotion
 enameling
 enolization
 enamelist
-enamellar
 equiped
 enamellers
 enamelless
@@ -14128,6 +14127,7 @@ enriching
 extrusile
 earthen
 extrusion
+enamellar
 extrusions
 enigmatology
 extrusive
