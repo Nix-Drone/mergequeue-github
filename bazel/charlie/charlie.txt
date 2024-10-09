@@ -6893,7 +6893,6 @@ cyborgs
 cementin
 cementing
 cementite
-cementitious
 chingpaw
 cementless
 cementlike
@@ -11601,6 +11600,7 @@ choledography
 cholee
 cholehematin
 choleic
+cementitious
 choleine
 choleinic
 colorization
