@@ -1844,7 +1844,6 @@ fibrinogen
 feature
 forthrightly
 featured
-featureful
 featurelessness
 featurely
 featureliness
@@ -6753,6 +6752,7 @@ fogramity
 fogrum
 fibroadenoma
 fogscoffer
+featureful
 fogus
 foh
 fohat
