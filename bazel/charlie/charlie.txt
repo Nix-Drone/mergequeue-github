@@ -1102,6 +1102,7 @@ cubatures
 calcographic
 calcrete
 calcsinter
+clarifying
 calcspar
 calcspars
 calctufas
@@ -15501,7 +15502,6 @@ clarified
 clarifier
 clarifiers
 clarifies
-clarifying
 clarigate
 clarigation
 clarigold
