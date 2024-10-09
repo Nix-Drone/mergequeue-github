@@ -6878,7 +6878,6 @@ airfoils
 airframe
 airglow
 airglows
-acondylous
 airgraph
 airgraphics
 areopagus
@@ -25173,6 +25172,7 @@ axoid
 axoidean
 axolemma
 axolysis
+acondylous
 axolotls
 arseniosiderite
 axometry
