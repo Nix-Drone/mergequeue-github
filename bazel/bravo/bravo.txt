@@ -5454,6 +5454,7 @@ bandlimit
 behelp
 behemothic
 behemoths
+bicycling
 behen
 behenate
 behenic
@@ -8071,7 +8072,6 @@ bicyclers
 backgrounds
 bicyclic
 bicyclical
-bicycling
 bicyclism
 bicyclist
 becharms
