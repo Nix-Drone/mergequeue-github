@@ -331,7 +331,6 @@ dayakker
 dayal
 dayan
 dayanim
-diau
 daybeacon
 dipylon
 daybed
@@ -6747,6 +6746,7 @@ deskbound
 deskill
 desklike
 deskman
+diau
 deskmen
 desks
 desktop
