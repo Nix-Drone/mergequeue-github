@@ -3061,7 +3061,6 @@ bartholomean
 bartholomewtide
 bartholomite
 bartisan
-bartisans
 bartizan
 bartizans
 balconied
@@ -4684,6 +4683,7 @@ bedehouse
 bedehouses
 bedell
 boxfish
+bartisans
 bedelve
 bedeman
 boud
