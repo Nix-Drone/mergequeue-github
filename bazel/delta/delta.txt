@@ -1991,6 +1991,7 @@ decahydrate
 decahydronaphthalene
 decay
 decayed
+deemphasis
 decayedness
 decayers
 diarial
@@ -3020,7 +3021,6 @@ deemer
 deemie
 dopamines
 deeming
-deemphasis
 darkest
 deemphasize
 deemphasized
