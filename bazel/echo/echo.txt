@@ -4911,7 +4911,6 @@ enrichment
 encumberment
 encumbers
 encumbrance
-electrometeor
 ectoderm
 encurl
 encurtain
@@ -10778,6 +10777,7 @@ eugeosynclinal
 euglenaceae
 egoistic
 euglenales
+electrometeor
 ensigning
 euglenas
 euglenineae
