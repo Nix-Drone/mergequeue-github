@@ -3242,7 +3242,6 @@ geoscopic
 geoselenic
 geosid
 geosynclinal
-geosphere
 geostationary
 grizel
 graphologic
@@ -5611,6 +5610,7 @@ glissades
 glissandi
 glissando
 gompholobium
+geosphere
 gleyde
 glissette
 glycaemia
