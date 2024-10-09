@@ -3304,7 +3304,6 @@ faction
 ferrying
 fidejussion
 fidejussionary
-furlanas
 fidejussor
 fidejussory
 fidele
@@ -9006,6 +9005,7 @@ fountainheads
 forasmuch
 forkful
 flections
+furlanas
 floorman
 fountainlet
 flamingly
