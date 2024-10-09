@@ -2899,6 +2899,7 @@ acrogen
 acrogenous
 acrogenously
 acrogynous
+autoheterodyne
 acrography
 acrolein
 acroleins
@@ -24098,7 +24099,6 @@ axone
 autohemolytic
 autohemorrhage
 autohemotherapy
-autoheterodyne
 autoheterosis
 autocoherer
 autohexaploid
