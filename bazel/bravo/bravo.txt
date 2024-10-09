@@ -2817,7 +2817,6 @@ bibliolater
 bobberies
 baroness
 baronesses
-baronet
 baronetage
 beswelter
 baronetcy
@@ -10021,6 +10020,7 @@ bizonal
 bizones
 bizonia
 bizz
+baronet
 bizzarro
 bjorne
 bk
