@@ -2579,7 +2579,6 @@ bargehouse
 bargelike
 bargelli
 bargello
-bargeload
 bargeman
 bromcamphor
 bookmaking
@@ -2930,6 +2929,7 @@ barranca
 barrancas
 biverbal
 barrancos
+bargeload
 barrandite
 braconniere
 barras
