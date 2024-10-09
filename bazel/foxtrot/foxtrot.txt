@@ -5929,7 +5929,6 @@ fistfight
 flooey
 flook
 floorages
-forgottenness
 floorboard
 floorcloth
 fala
@@ -10219,6 +10218,7 @@ frivoled
 frivoler
 frivolist
 frivolity
+forgottenness
 frivolities
 frivolize
 frivolized
