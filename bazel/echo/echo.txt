@@ -1220,7 +1220,6 @@ educability
 educable
 educables
 educand
-educatability
 epicrystalline
 eident
 educatable
@@ -8473,6 +8472,7 @@ epocha
 eumitosis
 epoche
 epochism
+educatability
 epode
 epodes
 epoist
