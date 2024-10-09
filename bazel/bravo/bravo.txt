@@ -428,6 +428,7 @@ backpedaling
 backpiece
 backplane
 backplanes
+beslimes
 backplate
 backpointer
 backpointers
@@ -7038,7 +7039,6 @@ beslime
 banqueteer
 balaenid
 beslimer
-beslimes
 besliming
 beslings
 brigid
