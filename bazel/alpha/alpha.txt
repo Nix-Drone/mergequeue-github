@@ -7875,7 +7875,6 @@ alerce
 alerion
 alerse
 alert
-alerta
 anorak
 alerted
 anabasis
@@ -23637,6 +23636,7 @@ aircrafts
 aurorally
 antirattler
 aurore
+alerta
 aurorian
 aurorium
 aurotellurite
