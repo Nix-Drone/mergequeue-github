@@ -4641,6 +4641,7 @@ bedaubs
 bedlike
 bedawee
 bedaze
+birthplace
 bedazed
 bedazement
 bedazzled
@@ -9539,7 +9540,6 @@ birthmark
 birthmarks
 birthmate
 birthnight
-birthplace
 birthplaces
 backfilled
 birthrates
