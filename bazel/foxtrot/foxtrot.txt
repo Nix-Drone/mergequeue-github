@@ -1349,7 +1349,6 @@ frogskins
 fasts
 fastuous
 fastuousness
-fastwalk
 fat
 fatagaga
 fecklessness
@@ -3232,6 +3231,7 @@ fictioner
 fogging
 forehent
 fumaroid
+fastwalk
 fieldfare
 fictionisation
 furunculosis
