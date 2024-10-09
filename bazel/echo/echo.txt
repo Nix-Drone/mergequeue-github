@@ -6103,6 +6103,7 @@ enneagons
 enneahedra
 ependyma
 enneahedral
+equipoising
 enneahedria
 enneahedron
 eyepoints
@@ -8722,7 +8723,6 @@ equipluve
 equipment
 equipments
 equipoised
-equipoising
 equipollence
 equipollency
 evasively
