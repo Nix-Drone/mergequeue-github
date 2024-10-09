@@ -4113,6 +4113,7 @@ cardlike
 cardmaker
 cardmaking
 cardo
+crystallography
 cardol
 cardon
 cardona
@@ -29471,7 +29472,6 @@ crystallogram
 crystallograph
 crystallographer
 crystallographers
-crystallography
 crystallographic
 crystalloid
 crystalloidal
