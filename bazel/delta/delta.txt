@@ -5078,7 +5078,6 @@ denaturalised
 denaturalising
 discommendably
 denaturalization
-denaturalize
 denaturalized
 denaturant
 denaturants
@@ -6913,6 +6912,7 @@ despited
 despiteful
 despitefully
 despitefulness
+denaturalize
 despiteous
 despiteously
 despites
