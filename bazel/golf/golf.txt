@@ -6675,7 +6675,6 @@ goldworker
 golem
 golems
 goles
-golet
 gossypium
 golfer
 golfers
@@ -8609,6 +8608,7 @@ gullability
 greed
 gynodioeciously
 greedier
+golet
 gregor
 greediest
 grandfilial
