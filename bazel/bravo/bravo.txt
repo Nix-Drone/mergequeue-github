@@ -3799,7 +3799,6 @@ battish
 battledores
 baldly
 boyar
-battledoring
 borehole
 battlefront
 battlefronts
@@ -10751,6 +10750,7 @@ blepharomelasma
 blepharoncosis
 blepharoncus
 blepharophyma
+battledoring
 blepharoplast
 blepharoplastic
 blepharoplegia
