@@ -6402,7 +6402,6 @@ buhrstone
 benzdiazine
 bipolarize
 benzdifuran
-benzdioxdiazine
 benzdioxtriazine
 benzein
 benzene
@@ -12611,6 +12610,7 @@ boogymen
 boogum
 bourd
 bolshevism
+benzdioxdiazine
 bartered
 boondoggled
 beginners
