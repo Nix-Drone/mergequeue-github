@@ -7085,7 +7085,6 @@ entrust
 epilegomenon
 entrusted
 emote
-entrusting
 entrustment
 entrusts
 entte
@@ -10066,6 +10065,7 @@ equicellular
 estrayed
 estraying
 estral
+entrusting
 estramazone
 estrange
 estranged
