@@ -1975,7 +1975,6 @@ campaigning
 campaigns
 campana
 campane
-campanella
 campanero
 campania
 cecils
@@ -11504,6 +11503,7 @@ choke
 chokeable
 chokeberry
 chokeberries
+campanella
 chokebore
 chokecherry
 chokecherries
