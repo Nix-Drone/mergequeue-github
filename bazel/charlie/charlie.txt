@@ -6601,7 +6601,6 @@ cursorial
 ceibo
 ceibos
 counterthrust
-ceil
 clamoring
 ceylanite
 celestine
@@ -16719,6 +16718,7 @@ clothlike
 clothmaker
 catharpin
 cloths
+ceil
 clothworker
 clots
 clottage
