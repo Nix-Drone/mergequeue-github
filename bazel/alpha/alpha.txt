@@ -3944,7 +3944,6 @@ adytum
 aditus
 adj
 adjacence
-adjacency
 adjacencies
 amated
 adjacently
@@ -4078,6 +4077,7 @@ aarrgh
 adminicula
 adminicular
 adminiculation
+adjacency
 arriccios
 adminiculum
 administer
