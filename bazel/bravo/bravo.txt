@@ -10990,7 +10990,6 @@ bismuthic
 blockboard
 blockbusters
 birefractive
-breakable
 basketball
 blockbusting
 blocked
@@ -11706,6 +11705,7 @@ biopyribole
 boca
 bocaccio
 bocaccios
+breakable
 bluisness
 bocage
 bellybutton
