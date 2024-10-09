@@ -5980,7 +5980,6 @@ glover
 gloves
 glow
 girnel
-glowbard
 glowerer
 garrulous
 grasshopperish
@@ -9910,6 +9909,7 @@ gracefully
 guarauno
 guard
 guardable
+glowbard
 guardant
 guardedness
 guardeen
