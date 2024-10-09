@@ -7720,7 +7720,6 @@ forehatchway
 fungilliform
 foreheads
 forehear
-forehearth
 fozier
 foreheater
 ferri
@@ -10777,6 +10776,7 @@ frustula
 frustule
 frustulent
 frustules
+forehearth
 frustum
 frutescent
 frutex
