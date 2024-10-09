@@ -6660,7 +6660,6 @@ enteroepiplocele
 enterogastrone
 egrimonle
 enterogenous
-enterogram
 enterograph
 enterography
 enterohemorrhage
@@ -13280,6 +13279,7 @@ exporter
 exporters
 entireties
 epigenesis
+enterogram
 exporting
 exports
 eternals
