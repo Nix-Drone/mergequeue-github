@@ -6492,7 +6492,6 @@ benzopyranyl
 benzopyrazolone
 benzopyrylium
 benzoquinoxaline
-baltimorean
 benzosulfimide
 benzosulphimide
 benzotetrazine
@@ -10980,6 +10979,7 @@ bloc
 blocage
 block
 blockade
+baltimorean
 blockaded
 blockader
 blockaders
