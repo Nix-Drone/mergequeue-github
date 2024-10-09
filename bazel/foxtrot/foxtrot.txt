@@ -2230,7 +2230,6 @@ feltyfare
 feltyflier
 felting
 feltings
-feltmaking
 feltman
 foulard
 foredeep
@@ -9397,6 +9396,7 @@ frivoling
 fireworms
 foragers
 franchisor
+feltmaking
 flukey
 francia
 francic
