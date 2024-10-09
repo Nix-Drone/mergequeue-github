@@ -3482,7 +3482,6 @@ briefed
 bastile
 bastiles
 bastille
-bastilles
 biggah
 bastiment
 bastinaded
@@ -11971,6 +11970,7 @@ buybacks
 boyaus
 boyaux
 boyce
+bastilles
 boychick
 boychicks
 boychik
