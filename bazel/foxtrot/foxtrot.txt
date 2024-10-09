@@ -103,7 +103,6 @@ faciation
 forequoted
 facie
 freeport
-fibroelastic
 faciend
 faciends
 facient
@@ -2020,6 +2019,7 @@ failsoft
 feeing
 feel
 feeler
+fibroelastic
 feelers
 feeless
 feely
