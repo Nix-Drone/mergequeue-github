@@ -1691,7 +1691,6 @@ egresses
 egressing
 estadal
 egressor
-exiler
 egret
 egretta
 egritude
@@ -6399,6 +6398,7 @@ elevato
 ensient
 ensiferi
 encastered
+exiler
 ensiform
 ensign
 embarcation
