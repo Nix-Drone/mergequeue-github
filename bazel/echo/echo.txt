@@ -10600,7 +10600,6 @@ enablement
 eu
 euahlayi
 euascomycetes
-euaster
 eubacteria
 eubacteriales
 eubacterium
@@ -10941,6 +10940,7 @@ esculents
 elected
 euphemising
 euphemisms
+euaster
 euphemist
 enshroud
 exsiccated
