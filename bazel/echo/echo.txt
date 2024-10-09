@@ -125,7 +125,6 @@ equisetaceae
 earstones
 eartab
 enneateric
-eartag
 eartagged
 earth
 earthboard
@@ -5102,6 +5101,7 @@ engrains
 endocyclic
 endocyemate
 enfield
+eartag
 endocyst
 epicyclical
 endocystitis
