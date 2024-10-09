@@ -4264,7 +4264,6 @@ firewoods
 flamandize
 firework
 fireworky
-fireworkless
 fireworks
 firiness
 festa
@@ -10372,6 +10371,7 @@ fromenties
 fromward
 fromwards
 fronde
+fireworkless
 frondent
 forestep
 foredoing
