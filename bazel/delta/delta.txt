@@ -8182,7 +8182,6 @@ diadromous
 dioti
 diadumenus
 diaene
-diaereses
 diaeresis
 diaeretic
 deceivableness
@@ -13843,6 +13842,7 @@ distinctiveness
 distinctly
 dermic
 distinctness
+diaereses
 distinctor
 distingue
 distinguee
