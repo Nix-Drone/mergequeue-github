@@ -6488,7 +6488,6 @@ agrom
 agromania
 agromyza
 astian
-agromyzid
 agromyzidae
 agron
 agronome
@@ -19115,6 +19114,7 @@ archoptoma
 archorrhagia
 archorrhea
 antipersonnel
+agromyzid
 archostegnosis
 archostenosis
 archoverseer
