@@ -3585,7 +3585,6 @@ batheable
 bathed
 bellower
 bather
-bathers
 bathes
 bathetically
 bathflower
@@ -14880,6 +14879,7 @@ breastpin
 breastplate
 breastplates
 breastplough
+bathers
 breastplow
 breastrail
 breastrope
