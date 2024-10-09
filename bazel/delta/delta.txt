@@ -6522,6 +6522,7 @@ descript
 description
 dogsled
 descriptionless
+deprocedured
 descriptive
 descriptively
 diota
@@ -16879,7 +16880,6 @@ drch
 dread
 dowels
 degassers
-deprocedured
 dreadable
 debunk
 dreader
