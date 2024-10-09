@@ -2942,7 +2942,6 @@ canvasers
 canvases
 canvasing
 canvaslike
-canvasser
 canvassers
 canvasses
 carbostyril
@@ -18600,6 +18599,7 @@ coir
 coirs
 coislander
 coisns
+canvasser
 coistrel
 coistril
 coistrils
