@@ -21096,7 +21096,6 @@ concaveness
 concaves
 concaving
 concavity
-concavities
 concavo
 conceal
 concealable
@@ -23483,6 +23482,7 @@ contest
 contestability
 contestableness
 contestably
+concavities
 churled
 contestant
 contested
