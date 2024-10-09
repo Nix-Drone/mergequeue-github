@@ -1304,7 +1304,6 @@ eelpouts
 emblemology
 eelshop
 eelskin
-eelware
 eelworm
 estragon
 een
@@ -14082,6 +14081,7 @@ elvish
 extrinsical
 elegantly
 extrinsicality
+eelware
 eslabon
 enzymically
 erythematic
