@@ -515,7 +515,6 @@ galere
 galericulate
 galerie
 galerum
-galerus
 gales
 galesaur
 galesaurus
@@ -6872,6 +6871,7 @@ grabbling
 goura
 gymnics
 gynophagite
+galerus
 generates
 gallops
 grossart
