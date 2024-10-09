@@ -1220,7 +1220,6 @@ educability
 educable
 educables
 educand
-educatability
 epicrystalline
 eident
 educatable
@@ -9470,6 +9469,7 @@ escalates
 escalating
 escalations
 entrance
+educatability
 enkindle
 escalator
 escalier
