@@ -15611,6 +15611,7 @@ doormaid
 doormaker
 doorman
 doormat
+dronepipe
 doormats
 doormen
 doornails
@@ -17336,7 +17337,6 @@ dronage
 drone
 droned
 dronel
-dronepipe
 droners
 drones
 drony
