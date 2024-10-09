@@ -5492,7 +5492,6 @@ fleury
 fleuronne
 flew
 flewed
-flewit
 flews
 flibbertigibbets
 flex
@@ -7719,6 +7718,7 @@ forehatch
 forehatchway
 fungilliform
 foreheads
+flewit
 forehear
 forehearth
 fozier
