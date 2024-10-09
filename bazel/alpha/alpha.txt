@@ -8647,7 +8647,6 @@ allergies
 allergin
 allergins
 allergist
-allergists
 allergology
 allerion
 allethrin
@@ -24553,6 +24552,7 @@ available
 aciliate
 arthrodynia
 availableness
+allergists
 availably
 availed
 availer
