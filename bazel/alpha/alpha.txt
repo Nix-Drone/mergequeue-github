@@ -8476,7 +8476,6 @@ alkedavy
 alkekengi
 alkene
 alkenes
-alkenyl
 alkenna
 alkermes
 alkes
@@ -20447,6 +20446,7 @@ artefac
 artefacts
 assentation
 artel
+alkenyl
 artels
 artemas
 artemia
