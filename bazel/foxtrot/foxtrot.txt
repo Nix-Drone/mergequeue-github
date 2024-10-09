@@ -2669,7 +2669,6 @@ fences
 ferrum
 freshes
 ferruminating
-ferrumination
 furbearer
 fraters
 ferrums
@@ -5431,6 +5430,7 @@ flensed
 flenser
 flensers
 funnelled
+ferrumination
 flenses
 flentes
 flerry
