@@ -2494,7 +2494,6 @@ blindages
 bardism
 bardlet
 boothian
-bardlike
 burut
 bardling
 beswinge
@@ -7163,6 +7162,7 @@ butterlike
 bespill
 bespin
 bastardies
+bardlike
 bespit
 besplatter
 bicarbs
