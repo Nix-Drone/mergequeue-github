@@ -10421,7 +10421,6 @@ beeflower
 blastochyle
 blackleg
 blastocyst
-blastocyte
 blastocoel
 blastocoele
 blastocolla
@@ -14840,6 +14839,7 @@ breakover
 biphenyl
 breakpoint
 breakpoints
+blastocyte
 breaks
 breakshugh
 besselian
