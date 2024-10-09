@@ -11651,7 +11651,6 @@ cholesterol
 cholesterolemia
 cholesteroluria
 conepatls
-cholesterosis
 choletelin
 choletherapy
 choleuria
@@ -27423,6 +27422,7 @@ covary
 covariable
 covariables
 coal
+cholesterosis
 campanularia
 covariant
 covariate
