@@ -104,6 +104,7 @@ forequoted
 facie
 freeport
 fibroelastic
+foldage
 faciend
 faciends
 facient
@@ -6812,7 +6813,6 @@ fatsos
 founding
 fold
 fevers
-foldage
 foldaway
 foldboater
 farmings

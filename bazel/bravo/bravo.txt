@@ -6643,6 +6643,7 @@ bournous
 berchemia
 berdache
 berdaches
+booleans
 berdash
 birotation
 betons
@@ -12732,7 +12733,6 @@ bookwright
 bool
 bowline
 boolean
-booleans
 booley
 booleys
 booly
