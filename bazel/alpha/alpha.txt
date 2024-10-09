@@ -23152,7 +23152,6 @@ attourne
 attract
 attractable
 attractance
-attractancy
 attracted
 attracter
 attractile
@@ -24641,6 +24640,7 @@ avenues
 aver
 averagely
 averageness
+attractancy
 avocets
 averages
 averaging
