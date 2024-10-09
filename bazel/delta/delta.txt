@@ -2469,6 +2469,7 @@ decken
 decker
 daphnioid
 deckhand
+disconnective
 deckhead
 deckhouse
 deckle
@@ -11553,7 +11554,6 @@ defections
 debitrix
 disconnecting
 disconnection
-disconnective
 disconnector
 disconnects
 disconsent
