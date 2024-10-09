@@ -21806,7 +21806,6 @@ confabs
 confabular
 confabulate
 confabulated
-confabulates
 confabulating
 confabulations
 confabulator
@@ -25768,6 +25767,7 @@ corrosional
 corrosionproof
 corrosive
 corrosived
+confabulates
 corrosively
 corrosiveness
 corrosives
