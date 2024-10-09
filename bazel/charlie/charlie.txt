@@ -10114,7 +10114,6 @@ chessist
 chessman
 chessmen
 chirimen
-chessner
 chessom
 claves
 chesstree
@@ -29876,6 +29875,7 @@ crosshaul
 crosshauling
 crosshead
 crossing
+chessner
 crossings
 caulicule
 crossite
