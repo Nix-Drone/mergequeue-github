@@ -13617,7 +13617,6 @@ annuitant
 annuitants
 aquarists
 annuity
-annuities
 annul
 alanyls
 annular
@@ -22748,6 +22747,7 @@ atom
 atomatic
 atomechanics
 atomerg
+annuities
 atomy
 atomic
 atomical
