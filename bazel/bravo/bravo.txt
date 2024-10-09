@@ -5345,7 +5345,6 @@ begorah
 begorra
 begorry
 begotten
-begottenness
 begowk
 begowned
 buyable
@@ -6651,6 +6650,7 @@ bien
 bereareft
 bereason
 bereave
+begottenness
 bereavement
 bereavements
 bereaver
