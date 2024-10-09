@@ -3038,7 +3038,6 @@ fevertrap
 flocoon
 fiant
 fiants
-fiar
 freakouts
 fumigatory
 fulgurant
@@ -7465,6 +7464,7 @@ floes
 fivers
 flabbergastation
 finds
+fiar
 ford
 fordable
 flaunche
