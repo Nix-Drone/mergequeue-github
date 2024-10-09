@@ -3447,7 +3447,6 @@ deflocculator
 deflocculent
 deflorate
 defloration
-deflorations
 deflore
 deflorescence
 deflourish
@@ -16727,6 +16726,7 @@ diffusibility
 dramaturgist
 drammach
 devisceration
+deflorations
 dcbname
 drammage
 dramme
