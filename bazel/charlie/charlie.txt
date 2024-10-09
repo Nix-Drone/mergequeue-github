@@ -2427,7 +2427,6 @@ candlesnuffer
 candlestand
 committeewoman
 candlestick
-candlesticked
 candlesticks
 candlestickward
 candlewaster
@@ -12919,6 +12918,7 @@ churruck
 churrus
 churrworm
 cecidomyiid
+candlesticked
 chuse
 czarian
 chanteys
