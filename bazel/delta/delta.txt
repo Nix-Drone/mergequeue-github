@@ -8993,7 +8993,6 @@ dyable
 dict
 dicta
 dictaen
-dictagraph
 dictamen
 dictamnus
 dictaphone
@@ -10552,6 +10551,7 @@ diplodus
 diploe
 diploes
 dependable
+dictagraph
 dioestrum
 diplogangliate
 diplogenesis
