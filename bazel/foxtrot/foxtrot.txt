@@ -4099,7 +4099,6 @@ fellatrixes
 fletching
 finnish
 finnmark
-finnochio
 filiopietistic
 finns
 fino
@@ -7071,6 +7070,7 @@ foody
 foodless
 foodlessness
 fulfilled
+finnochio
 foods
 foodstuff
 foodstuffs
