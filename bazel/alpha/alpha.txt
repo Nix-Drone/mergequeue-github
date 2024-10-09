@@ -276,7 +276,6 @@ abdominoscopy
 agas
 abdominothoracic
 abdominous
-abdominovaginal
 abdominovesical
 abduce
 abduced
@@ -24967,6 +24966,7 @@ alkylic
 awards
 awa
 aware
+abdominovaginal
 awaredom
 airborne
 awareness
