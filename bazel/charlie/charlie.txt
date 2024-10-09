@@ -4203,6 +4203,7 @@ carex
 cottages
 carfare
 carfares
+coequally
 carfax
 carfloat
 codebreak
@@ -18060,7 +18061,6 @@ coenzymes
 coequal
 coequality
 coequalize
-coequally
 coequalness
 coequals
 coequate
