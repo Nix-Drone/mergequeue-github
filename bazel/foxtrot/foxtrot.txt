@@ -1081,7 +1081,6 @@ filigraned
 farmeries
 farmerish
 farmerly
-farmerlike
 farmership
 farmhold
 farmhouse
@@ -3996,6 +3995,7 @@ fingerprint
 fingerprints
 fingerroot
 forleft
+farmerlike
 fingers
 fragrance
 fistulas
