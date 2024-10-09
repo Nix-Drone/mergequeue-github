@@ -5659,7 +5659,6 @@ catchment
 catchments
 catchpennies
 catchphrase
-catchpole
 catchpoled
 catchpolery
 catchpoleship
@@ -19592,6 +19591,7 @@ columnized
 creeperless
 columnizes
 columnizing
+catchpole
 columns
 columnwise
 colure
