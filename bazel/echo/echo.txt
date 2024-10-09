@@ -1303,7 +1303,6 @@ eelpout
 eelpouts
 emblemology
 eelshop
-eelskin
 eelware
 eelworm
 estragon
@@ -3372,6 +3371,7 @@ embarrassedly
 embarrasses
 embarrassing
 erythroplastid
+eelskin
 embarrassment
 embarred
 embarrel
