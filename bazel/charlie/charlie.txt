@@ -15836,6 +15836,7 @@ cleanup
 clear
 chelaship
 clearable
+cryptamnesia
 clearage
 clearance
 clearances
@@ -29183,7 +29184,6 @@ crypt
 crypta
 cryptaesthesia
 cryptal
-cryptamnesia
 cryptamnesic
 cryptanalysis
 cryptanalyst
