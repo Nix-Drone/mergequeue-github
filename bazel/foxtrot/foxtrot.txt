@@ -5785,7 +5785,6 @@ fungiform
 flyways
 faunas
 further
-flyweight
 flyweights
 forthon
 fribblish
@@ -7545,6 +7544,7 @@ forebowels
 forebowline
 farceur
 flaveria
+flyweight
 forebrace
 forebreast
 futharcs
