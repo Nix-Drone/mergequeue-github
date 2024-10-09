@@ -592,7 +592,6 @@ abn
 abnaki
 abnegate
 abnegated
-abnegates
 abnegating
 alliancing
 abnegation
@@ -10347,6 +10346,7 @@ araba
 amia
 alands
 amiability
+abnegates
 amiable
 amiableness
 amiably
