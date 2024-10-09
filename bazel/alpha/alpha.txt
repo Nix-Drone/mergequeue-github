@@ -9302,7 +9302,6 @@ aptera
 alphabetology
 alphameric
 alphamerically
-alphanumerical
 alphanumerics
 alphard
 alphas
@@ -15993,6 +15992,7 @@ apprentices
 antiprogressive
 antiprohibition
 antiprojectivity
+alphanumerical
 antiatonement
 antiprophet
 antiprostate
