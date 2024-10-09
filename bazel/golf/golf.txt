@@ -5221,7 +5221,6 @@ gnathic
 guestship
 glasswork
 guider
-glassworker
 glassworkers
 glassworm
 gawkier
@@ -9787,6 +9786,7 @@ ginghamed
 guayabi
 guayabo
 grat
+glassworker
 guaiac
 gastrocolpotomy
 guayacan
