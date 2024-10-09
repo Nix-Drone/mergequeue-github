@@ -3455,7 +3455,6 @@ dropforged
 dubash
 deflower
 deflowered
-deflowerer
 deflowering
 defeating
 dissolving
@@ -8617,6 +8616,7 @@ discourtesy
 diaschisma
 diaschistic
 diascia
+deflowerer
 donia
 diascope
 dewater
