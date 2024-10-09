@@ -2952,6 +2952,7 @@ feudum
 feuillage
 foreshows
 feuillemorte
+firebomb
 feuillet
 feuilleton
 feuilletonist
@@ -4140,7 +4141,6 @@ freakful
 fireboat
 fileted
 fireboy
-firebomb
 firebombed
 firebombing
 frostlike
