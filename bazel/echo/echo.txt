@@ -6521,7 +6521,6 @@ enswathing
 ensweep
 ensweeten
 ephyra
-entablature
 emigrated
 exstruct
 epitaxially
@@ -13618,6 +13617,7 @@ extern
 externa
 externalisation
 externalise
+entablature
 externalised
 externalist
 externalistic
