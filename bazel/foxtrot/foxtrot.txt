@@ -3964,7 +3964,6 @@ finfoots
 fingal
 fingall
 fingan
-fingerable
 fingerberry
 fingerboard
 fingerboards
@@ -6522,6 +6521,7 @@ flustrate
 flustrated
 flustrating
 flustration
+fingerable
 flustrine
 flustroid
 forbar
