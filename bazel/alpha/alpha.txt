@@ -3497,7 +3497,6 @@ antiknocks
 addictedness
 activable
 addicting
-addictions
 addictive
 addictively
 ampassy
@@ -9294,6 +9293,7 @@ alphabetization
 alphabetized
 alphabetizer
 alphabetizers
+addictions
 auroras
 adamancies
 alphabetizes
