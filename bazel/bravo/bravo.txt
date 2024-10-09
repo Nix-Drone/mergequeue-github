@@ -2179,6 +2179,7 @@ bowlines
 bannockburn
 bannocks
 bannut
+bepistoled
 banovina
 banquet
 banqueted
@@ -11310,7 +11311,6 @@ buff
 bluebell
 bluebelled
 bluebells
-bepistoled
 blueberry
 books
 blueberries
