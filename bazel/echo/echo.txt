@@ -6092,7 +6092,6 @@ enmuffle
 enneacontahedron
 ennead
 enhaloing
-enneadic
 enneads
 enneaeteric
 enneagon
@@ -9620,6 +9619,7 @@ escuage
 escudero
 escudo
 escudos
+enneadic
 escuela
 enslaved
 esculapian
