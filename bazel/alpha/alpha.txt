@@ -4675,7 +4675,6 @@ ag
 advocates
 advocateship
 advocating
-advocation
 advocative
 advocator
 advocatory
@@ -10573,6 +10572,7 @@ aminization
 aminize
 amino
 aminoacetal
+advocation
 aminoacetic
 aminoacetophenetidine
 aminoacetophenone
