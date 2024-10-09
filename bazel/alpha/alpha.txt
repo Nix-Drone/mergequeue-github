@@ -8243,7 +8243,6 @@ aligned
 aligners
 aligning
 alignment
-allochezia
 alignments
 aligns
 aligreek
@@ -12058,6 +12057,7 @@ anatomicobiological
 anatomicochirurgical
 anatomicomedical
 anatomicopathologic
+allochezia
 anatomicopathological
 acronyms
 anatomicophysiologic
