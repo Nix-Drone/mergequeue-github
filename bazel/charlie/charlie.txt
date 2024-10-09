@@ -5059,6 +5059,7 @@ casebox
 cased
 casefy
 casefied
+chequer
 casefies
 corneter
 caseharden
@@ -9997,7 +9998,6 @@ chepster
 cheque
 chequebook
 chequeen
-chequer
 chequerboard
 chequered
 chequering
