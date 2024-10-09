@@ -11029,7 +11029,6 @@ chirt
 chiru
 chirurgeon
 chirurgeonly
-chirurgery
 chis
 chiseled
 curuba
@@ -13858,6 +13857,7 @@ cymbal
 cinemascope
 cinematheque
 comakers
+chirurgery
 cinematheques
 cinematic
 cinematical
