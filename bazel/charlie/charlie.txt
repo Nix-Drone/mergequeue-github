@@ -5739,7 +5739,6 @@ categorisation
 categorise
 categorised
 categorising
-categorist
 categorization
 categorizations
 categorize
@@ -23790,6 +23789,7 @@ contraster
 contrasters
 contrasty
 contrastimulus
+categorist
 contrasting
 contrastingly
 contrastive
