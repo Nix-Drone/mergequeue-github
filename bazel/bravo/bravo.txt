@@ -977,7 +977,6 @@ bogey
 bagwigs
 bagwyn
 bagwoman
-bagwomen
 bagwork
 bah
 bahada
@@ -15951,6 +15950,7 @@ bromphenol
 brompicrin
 breakfront
 bromus
+bagwomen
 bromvoel
 bronc
 bronchi
