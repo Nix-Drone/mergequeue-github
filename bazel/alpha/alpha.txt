@@ -2313,7 +2313,6 @@ achromatisation
 achromatism
 achromatizable
 achromatization
-achromatize
 amalgam
 achromatizing
 achromatocyte
@@ -17472,6 +17471,7 @@ aliment
 apostrophal
 ampuls
 apostrophation
+achromatize
 apostrophes
 apostrophi
 apostrophic
