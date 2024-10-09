@@ -24386,6 +24386,7 @@ cooperage
 cooperant
 cooperate
 cooperated
+calculate
 cooperates
 caracals
 cooperation
@@ -29804,7 +29805,6 @@ cross
 crossability
 crossable
 crossarms
-calculate
 crossband
 crossbanded
 crossbanding
