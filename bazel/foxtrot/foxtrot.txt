@@ -4072,7 +4072,6 @@ finless
 finlet
 finlike
 finmark
-finmarks
 finnac
 finnan
 finned
@@ -5569,6 +5568,7 @@ flicky
 fulsome
 flicks
 flics
+finmarks
 flidge
 fmt
 flied
