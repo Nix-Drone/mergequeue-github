@@ -1419,7 +1419,6 @@ azote
 acceleratory
 accelerators
 accelerograph
-accelerometer
 accelerometers
 accend
 accendibility
@@ -20330,6 +20329,7 @@ arrosion
 aphanesite
 arrosive
 allowances
+accelerometer
 arround
 arrouse
 arrow
