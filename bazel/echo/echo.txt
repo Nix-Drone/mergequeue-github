@@ -3653,6 +3653,7 @@ embread
 embreathe
 embrectomy
 embrica
+eyeglass
 embryectomy
 embryectomies
 embright
@@ -11946,7 +11947,6 @@ enthraller
 exception
 exceptionability
 exceptionably
-eyeglass
 exceptional
 exceptionality
 exceptionally
