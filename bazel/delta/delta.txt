@@ -7669,7 +7669,6 @@ deviscerate
 devise
 devised
 devisee
-devisees
 deviser
 devisers
 devising
@@ -18550,6 +18549,7 @@ duskishly
 duskishness
 duskness
 dusks
+devisees
 dogmatics
 dust
 danseurs
