@@ -19743,7 +19743,6 @@ catapulting
 comdg
 comdia
 comdr
-comdt
 come
 comeatable
 comeback
@@ -21961,6 +21960,7 @@ configuring
 coxcombry
 confinable
 confine
+comdt
 confineable
 confined
 chalcophile
