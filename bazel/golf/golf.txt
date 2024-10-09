@@ -5980,7 +5980,6 @@ glover
 gloves
 glow
 girnel
-glowbard
 glowerer
 garrulous
 grasshopperish
@@ -7368,6 +7367,7 @@ gothism
 gothite
 gothites
 gothlander
+glowbard
 gurnetty
 gassit
 glum
