@@ -2476,6 +2476,7 @@ deckman
 deckpipe
 decks
 dulls
+ducts
 deckswabber
 decl
 declaim
@@ -11357,7 +11358,6 @@ disciplinant
 disciplinary
 disciplinarians
 disciplinarily
-ducts
 disciplinarity
 dripper
 disciplinate
