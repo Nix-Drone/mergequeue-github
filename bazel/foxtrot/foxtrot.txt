@@ -8292,7 +8292,6 @@ fade
 foryield
 furnished
 furnaceman
-ferriage
 felonous
 fitly
 farcical
@@ -10826,6 +10825,7 @@ fuchsine
 fuchsinophil
 fuchsinophilous
 forefeeling
+ferriage
 furfurole
 fuchsins
 friends
