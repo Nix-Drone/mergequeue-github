@@ -9796,6 +9796,7 @@ freieslebenite
 freiezlebenhe
 freight
 freightage
+furbishment
 fringe
 fourchette
 freightyard
@@ -11344,7 +11345,6 @@ furbish
 freakery
 furbishable
 furbishes
-furbishment
 florikan
 furca
 furcae
