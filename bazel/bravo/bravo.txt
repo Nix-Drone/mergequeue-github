@@ -428,7 +428,6 @@ backpedaling
 backpiece
 backplane
 backplanes
-backplate
 backpointer
 backpointers
 backrest
@@ -5118,6 +5117,7 @@ beflag
 beflagged
 benumbedness
 beflagging
+backplate
 beflannel
 bureaucrat
 beflap
