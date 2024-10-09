@@ -2974,7 +2974,6 @@ capabilities
 capable
 capableness
 capabler
-capablest
 capably
 capacify
 capacious
@@ -20902,6 +20901,7 @@ comprest
 compriest
 comprint
 collating
+capablest
 comprisal
 casseroles
 comprise
