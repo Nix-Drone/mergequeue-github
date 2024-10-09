@@ -9372,7 +9372,6 @@ diffuses
 dechlore
 diffusible
 diffusibleness
-diffusimeter
 diffusing
 diffusiometer
 diffusion
@@ -11156,6 +11155,7 @@ disbase
 disbelief
 disbeliefs
 disbelieved
+diffusimeter
 disbeliever
 disbelievers
 dazingly
