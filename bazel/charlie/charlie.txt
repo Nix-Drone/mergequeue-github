@@ -3065,7 +3065,6 @@ capewise
 capework
 capeworks
 capful
-capfuls
 caphar
 capharnaism
 cotillon
@@ -24819,6 +24818,7 @@ calcimeter
 coracoclavicular
 coracocostal
 coracohyoid
+capfuls
 christiform
 coracohumeral
 coracoid
