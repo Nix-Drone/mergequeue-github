@@ -163,6 +163,7 @@ furtive
 factionalism
 fullbodied
 fishings
+feoffed
 factionalist
 factionaries
 factionate
@@ -5793,7 +5794,6 @@ flywinch
 frankable
 flix
 fll
-feoffed
 flamingoes
 finder
 flnerie
