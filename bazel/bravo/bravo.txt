@@ -2732,7 +2732,6 @@ barless
 barly
 barling
 boza
-barlow
 barlows
 barm
 bollixes
@@ -9296,6 +9295,7 @@ biphase
 biphasic
 bps
 biphenylene
+barlow
 biphenyls
 biphenol
 berretta
