@@ -4073,6 +4073,7 @@ finlet
 finlike
 finmark
 finmarks
+foresaw
 finnac
 finnan
 finned
@@ -7937,7 +7938,6 @@ fusillades
 foresail
 foresails
 foresays
-foresaw
 forescene
 forescent
 forescript
