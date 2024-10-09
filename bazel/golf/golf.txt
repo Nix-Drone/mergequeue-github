@@ -5451,7 +5451,6 @@ glycolaldehyde
 goback
 gayals
 glycolate
-glycolyl
 glycolipid
 gilsonite
 glycolipine
@@ -10371,6 +10370,7 @@ gulose
 gulosity
 gulosities
 grein
+glycolyl
 gillbird
 gynaecocratic
 gossiping
