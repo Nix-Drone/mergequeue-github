@@ -7084,7 +7084,6 @@ centigramme
 centigrams
 centile
 centiles
-clunker
 centiliter
 centiliters
 centilitre
@@ -9397,6 +9396,7 @@ chaussees
 chaussure
 chaussures
 chautauqua
+clunker
 chautauquan
 chaute
 chauth
