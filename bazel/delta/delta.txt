@@ -1539,6 +1539,7 @@ deadpanning
 descrial
 dibstones
 deadpans
+displacement
 deadrise
 deadtongue
 deadweight
@@ -13097,7 +13098,6 @@ displace
 displaceability
 displaceable
 displaced
-displacement
 displacements
 diminuted
 displacing
