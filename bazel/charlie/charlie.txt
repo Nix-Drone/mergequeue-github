@@ -11575,6 +11575,7 @@ cholecystokinin
 cholecystolithiasis
 cholecystolithotripsy
 cholecystopexy
+cuneal
 cholecystorrhaphy
 cholecystostomy
 cholecystostomies
@@ -31033,7 +31034,6 @@ cundum
 cundums
 cundurango
 cunea
-cuneal
 cuneately
 cuneatic
 cuneator
