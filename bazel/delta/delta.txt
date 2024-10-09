@@ -13817,6 +13817,7 @@ distillations
 distillator
 distillatory
 deflagrations
+dosimetric
 distilled
 durwan
 distiller
@@ -15874,7 +15875,6 @@ doser
 dosers
 dosimeter
 dosimetry
-dosimetric
 decant
 dosimetrician
 dosimetries
