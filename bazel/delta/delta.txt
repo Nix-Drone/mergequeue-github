@@ -2474,6 +2474,7 @@ deckhouse
 deckle
 deckman
 deckpipe
+disimprovement
 decks
 dulls
 deckswabber
@@ -12823,7 +12824,6 @@ disoccluding
 disoccupying
 disodic
 dysodile
-disimprovement
 disodium
 demisable
 dorsocaudal
