@@ -9406,7 +9406,6 @@ altars
 afghanets
 altazimuth
 alter
-alterability
 alterable
 alterableness
 alterably
@@ -22333,6 +22332,7 @@ astrophotometer
 astrophotometry
 astrophotometrical
 astroscopy
+alterability
 autocratorical
 astroscopus
 astrose
