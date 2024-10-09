@@ -2981,7 +2981,6 @@ capacious
 capaciously
 cannibalic
 capaciousness
-capacitance
 capacitances
 capacitate
 capacitated
@@ -7700,6 +7699,7 @@ cerinthian
 ceriomyces
 cerion
 cerionidae
+capacitance
 ceriops
 ceriornis
 ceriph
