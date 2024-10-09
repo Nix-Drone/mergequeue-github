@@ -1895,7 +1895,6 @@ bandannas
 bandarlog
 bandbox
 bandboxes
-bandboxy
 barricos
 bandboxical
 bandcase
@@ -6481,6 +6480,7 @@ benzonitrile
 benzoperoxide
 benzophenanthrazine
 benzophenazine
+bandboxy
 benzophenol
 benzophenone
 benzophenothiazine
