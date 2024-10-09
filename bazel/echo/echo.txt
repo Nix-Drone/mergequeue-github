@@ -1224,6 +1224,7 @@ educatability
 epicrystalline
 eident
 educatable
+extinguishes
 educate
 evitate
 educated
@@ -13681,7 +13682,6 @@ extinguished
 electroneutrality
 extinguisher
 extinguishers
-extinguishes
 esture
 egressive
 extinguishing
