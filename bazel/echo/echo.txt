@@ -3964,7 +3964,6 @@ emmensite
 emmental
 emmer
 emmergoose
-exhaustible
 emmers
 emmetrope
 emmetropy
@@ -5798,6 +5797,7 @@ engrained
 epizoicide
 engrainer
 engraining
+exhaustible
 engram
 engrammatic
 engramme
