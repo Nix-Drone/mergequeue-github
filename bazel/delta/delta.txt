@@ -8869,7 +8869,6 @@ dichlorhydrin
 dichloride
 dichloroacetic
 dichlorobenzene
-dichlorodifluoromethane
 dichlorodiphenyltrichloroethane
 dichlorohydrin
 dichloromethane
@@ -15872,6 +15871,7 @@ dose
 dosed
 doser
 dosers
+dichlorodifluoromethane
 dosimeter
 dosimetry
 dosimetric
