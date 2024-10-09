@@ -8900,7 +8900,6 @@ binomenclature
 binomy
 binomialism
 binomially
-binomials
 binormal
 binotonous
 binous
@@ -13537,6 +13536,7 @@ bouncers
 bounces
 bouncier
 bounciest
+binomials
 bouncily
 belatedly
 bounciness
