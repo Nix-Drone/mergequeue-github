@@ -3162,7 +3162,6 @@ actinopod
 actinopraxis
 actinopteran
 actinopteri
-actinopterygian
 amylopsase
 actinopterygii
 antrotome
@@ -17813,6 +17812,7 @@ applejohn
 applemonger
 applenut
 appleroot
+actinopterygian
 apples
 applesauce
 applewife
