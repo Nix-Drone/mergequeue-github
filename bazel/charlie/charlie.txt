@@ -1598,7 +1598,6 @@ crimsoning
 calorifier
 calorigenic
 calorimeter
-calorimeters
 calorimetry
 calorimetric
 calorimetrical
@@ -15839,6 +15838,7 @@ clearable
 clearage
 clearance
 clearances
+calorimeters
 curuminaca
 clearcole
 cleared
