@@ -521,7 +521,6 @@ farragoes
 falconiform
 falconiformes
 falconinae
-falconnoid
 falconoid
 flecker
 folium
@@ -4906,6 +4905,7 @@ flameouts
 flameproof
 formulize
 flameproofer
+falconnoid
 flintlocks
 finfishes
 flamer
