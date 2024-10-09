@@ -333,7 +333,6 @@ ebbing
 ebbman
 ebbs
 ebcasc
-enterosyphilis
 ebcd
 ebcdic
 ebdomade
@@ -11276,6 +11275,7 @@ eval
 evaluated
 evaluates
 etherin
+enterosyphilis
 evaluating
 evaluations
 evaluative
