@@ -5669,6 +5669,7 @@ fellatios
 flintwood
 flintworker
 flyoff
+forwards
 flyover
 flyovers
 fustanella
@@ -8802,7 +8803,6 @@ forwarders
 forwardest
 forwarding
 forwardly
-forwards
 forwardsearch
 forwarn
 forwean
