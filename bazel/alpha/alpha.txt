@@ -6872,7 +6872,6 @@ amyctic
 airfares
 airfield
 airflow
-airflows
 airfoil
 airfoils
 airframe
@@ -24090,6 +24089,7 @@ autographism
 autographist
 autographometer
 autographs
+airflows
 autogravure
 apographal
 autoharp
