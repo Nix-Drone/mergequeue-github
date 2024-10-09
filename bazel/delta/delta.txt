@@ -1691,7 +1691,6 @@ deathcup
 degree
 deathcups
 donatary
-deathday
 deathful
 deathfulness
 deathy
@@ -13458,6 +13457,7 @@ dissavs
 disscepter
 drumbeater
 dissceptered
+deathday
 dissceptre
 dissceptred
 doat
