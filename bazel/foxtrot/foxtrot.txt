@@ -5581,6 +5581,7 @@ flyers
 flies
 fossilization
 fetishic
+fracid
 firstling
 flyflap
 flyflower
@@ -9210,7 +9211,6 @@ fracases
 frusta
 frache
 function
-fracid
 fouls
 forklike
 fractal
