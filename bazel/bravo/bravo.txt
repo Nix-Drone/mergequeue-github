@@ -1421,6 +1421,7 @@ bouleuteria
 baldnesses
 besoothe
 bridoon
+bandlimit
 baldoquin
 baldpate
 baldpated
@@ -5450,7 +5451,6 @@ behear
 behears
 behearse
 beheira
-bandlimit
 behelp
 behemothic
 behemoths
