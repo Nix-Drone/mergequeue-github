@@ -9536,7 +9536,6 @@ byrthynsak
 birthland
 birthless
 birthmark
-birthmarks
 birthmate
 birthnight
 birthplace
@@ -11825,6 +11824,7 @@ bodonid
 bromic
 bodrage
 battalions
+birthmarks
 benedick
 bodstick
 baalite
