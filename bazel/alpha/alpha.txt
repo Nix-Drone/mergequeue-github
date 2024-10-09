@@ -763,6 +763,7 @@ aboveproof
 aboves
 abovesaid
 abovestairs
+astrocytomata
 abow
 abox
 abrachia
@@ -22229,7 +22230,6 @@ astrocyte
 astrocytic
 astrocytoma
 astrocytomas
-astrocytomata
 asperger
 astrocompass
 astrodiagnosis

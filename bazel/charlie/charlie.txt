@@ -11359,7 +11359,6 @@ chlorophenol
 chlorophenothane
 chlorophyceae
 convenee
-commands
 chlorophyceous
 chlorophyl
 chlorophyll
@@ -24944,6 +24943,7 @@ cordaitales
 cordal
 cordant
 cordate
+commands
 cordately
 compensative
 cordax
