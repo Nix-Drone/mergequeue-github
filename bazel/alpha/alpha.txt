@@ -281,7 +281,6 @@ abdominovesical
 abduce
 abduced
 abducens
-abducent
 abducentes
 abduces
 articulate
@@ -6484,6 +6483,7 @@ agrologies
 adolesce
 agrologist
 adsorbate
+abducent
 agrom
 agromania
 agromyza
