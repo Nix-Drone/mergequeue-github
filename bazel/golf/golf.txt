@@ -2262,7 +2262,6 @@ gears
 guernseys
 gearset
 gearshift
-gearshifts
 gearwheels
 glistening
 gease
@@ -2436,6 +2435,7 @@ gelatinising
 grumpily
 galactoside
 genom
+gearshifts
 gelatinity
 gelatinizability
 gelatinizable
