@@ -5950,7 +5950,6 @@ floorshift
 fawny
 floorshifts
 floorshow
-floorway
 fluidrachm
 floorward
 furniment
@@ -11083,6 +11082,7 @@ fierasferoid
 flowerlet
 fomentation
 fumitories
+floorway
 fluidal
 fummel
 fummle
