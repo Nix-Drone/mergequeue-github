@@ -20202,7 +20202,6 @@ classifies
 commolition
 coryl
 common
-commonable
 commonage
 commonality
 commonalities
@@ -20954,6 +20953,7 @@ confederation
 comptometer
 comptonite
 comptrol
+commonable
 comptroller
 comptrollers
 comptrollership
