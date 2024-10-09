@@ -4961,7 +4961,6 @@ crofterization
 carvage
 carval
 carve
-carved
 campshot
 carvels
 cannabinol
@@ -29930,6 +29929,7 @@ crossway
 crossways
 crosswalk
 crosswalks
+carved
 crossweb
 crossweed
 crosswise
