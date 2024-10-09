@@ -2156,7 +2156,6 @@ elastometer
 elastometry
 endocrinopathy
 engarde
-elatcha
 elate
 elated
 engrafting
@@ -9718,6 +9717,7 @@ endfile
 esopgi
 esophagometer
 esophagomycosis
+elatcha
 esophagopathy
 esophagoplasty
 esophagoplication
