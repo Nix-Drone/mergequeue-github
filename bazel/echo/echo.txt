@@ -5900,7 +5900,6 @@ encrinoidea
 enhorror
 enhort
 ectozoic
-encolor
 enhuile
 enhunger
 enhungered
@@ -13141,6 +13140,7 @@ explainableness
 explained
 explainer
 explainers
+encolor
 explaining
 ecclesiarch
 explainingly
