@@ -1085,7 +1085,6 @@ farmerlike
 farmership
 farmhold
 farmhouse
-feronia
 farmhousey
 fontinalaceae
 fuzzle
@@ -1144,6 +1143,7 @@ fluoroid
 filiated
 farseer
 farset
+feronia
 frogged
 fregatidae
 farsighted
