@@ -10539,7 +10539,6 @@ amylophagia
 amylophosphate
 amylophosphoric
 amyloplast
-amyloplastic
 amyloplastid
 amylopsin
 amylose
@@ -21508,6 +21507,7 @@ aspired
 aspiree
 aspirer
 aspirers
+amyloplastic
 aspires
 aspirin
 aspiringly

@@ -6467,7 +6467,6 @@ ensorceled
 emitters
 encephalometer
 encheck
-ensorcell
 ensorcellment
 epochal
 ensorcels
@@ -9275,6 +9274,7 @@ erosions
 erosive
 erosiveness
 erosivity
+ensorcell
 erostrate
 erotema
 eroteme
