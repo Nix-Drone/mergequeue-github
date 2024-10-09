@@ -2626,6 +2626,7 @@ bemixt
 bs
 barih
 birk
+bookcases
 bellware
 bluehead
 barylalia
@@ -12628,7 +12629,6 @@ bookbinders
 bookbinding
 bookboard
 bookcase
-bookcases
 bookcraft
 bookdealer
 bushmaster
