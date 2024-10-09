@@ -446,6 +446,7 @@ dayroom
 dayrooms
 dairous
 dairt
+demotions
 dais
 daised
 daisee
@@ -4999,7 +5000,6 @@ demote
 demoted
 demothball
 demotion
-demotions
 demotist
 demotists
 demount
