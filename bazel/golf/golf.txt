@@ -1972,7 +1972,6 @@ gatherers
 graplins
 gyrostabilizer
 greenfishes
-gatherings
 gatherum
 geniohyoid
 gathic
@@ -6209,6 +6208,7 @@ gingles
 gravitate
 gnar
 gnarl
+gatherings
 gnarled
 gnarly
 greatcoats
