@@ -3457,6 +3457,7 @@ captress
 capturable
 captured
 captures
+collation
 capturing
 capuan
 cadging
@@ -18897,7 +18898,6 @@ collateralness
 collaterals
 canzone
 collates
-collation
 collationer
 collations
 cesti
