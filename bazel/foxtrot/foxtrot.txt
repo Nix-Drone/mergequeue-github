@@ -2348,7 +2348,6 @@ fizzes
 fenestellid
 fenestellidae
 fenestrae
-fenestrate
 fifth
 fenestrated
 fenestration
@@ -5090,6 +5089,7 @@ fids
 flatbed
 faciobrachial
 flatcaps
+fenestrate
 flatcar
 flossed
 flatcars
