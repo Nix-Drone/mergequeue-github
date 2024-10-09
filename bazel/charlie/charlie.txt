@@ -6096,7 +6096,6 @@ cauchemar
 cauchillo
 caucho
 caucus
-caucused
 caucuses
 caucusing
 caucusses
@@ -18188,6 +18187,7 @@ coffeepots
 coffeeroom
 coffees
 counterview
+caucused
 continuant
 coffeetime
 coffeewood
