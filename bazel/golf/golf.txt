@@ -410,7 +410,6 @@ gimballing
 gangboard
 galago
 galagos
-galahads
 galanas
 grubberies
 gynobasic
@@ -9723,6 +9722,7 @@ grumpish
 grumpishness
 grun
 gtt
+galahads
 grundy
 grundified
 gerents
