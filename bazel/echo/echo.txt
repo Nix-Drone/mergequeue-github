@@ -5280,7 +5280,6 @@ eater
 entopterygoid
 endorsation
 endorsed
-endorsee
 endorsees
 endere
 endorser
@@ -12405,6 +12404,7 @@ exfetation
 economiser
 expects
 exfiguration
+endorsee
 exfigure
 exfiltrate
 exflagellate
