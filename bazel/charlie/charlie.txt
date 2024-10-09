@@ -9923,7 +9923,6 @@ chemoserotherapy
 chemoses
 chemosynthesis
 chemosynthetic
-chemosis
 chemosmoic
 chemosmoses
 chemosmotic
@@ -15669,6 +15668,7 @@ clatter
 clattered
 clatterer
 clattery
+chemosis
 clattering
 chromograph
 clatteringly
