@@ -1042,6 +1042,7 @@ bayberries
 baybolt
 baycuru
 baidar
+buffos
 baidarka
 baidarkas
 baidya
@@ -16850,7 +16851,6 @@ buffoonish
 buffoonishness
 bedead
 buffoons
-buffos
 barhopping
 buffs
 buffware
