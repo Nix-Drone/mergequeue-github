@@ -2894,7 +2894,6 @@ cantoner
 cellocut
 cheapo
 cantoning
-cantonize
 cantonment
 cantonments
 cantons
@@ -3457,6 +3456,7 @@ captress
 capturable
 captured
 captures
+cantonize
 capturing
 capuan
 cadging
