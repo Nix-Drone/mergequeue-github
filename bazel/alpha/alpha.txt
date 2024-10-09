@@ -590,7 +590,6 @@ airscrew
 ashlers
 abn
 abnaki
-abnegate
 abnegated
 abnegates
 abnegating
@@ -8499,6 +8498,7 @@ alkylene
 alkylidene
 alkylize
 aphidiinae
+abnegate
 alkylogen
 alkyloxy
 alkyls
