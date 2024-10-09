@@ -9165,7 +9165,6 @@ erythrocytometer
 erythrocytometry
 erythrocytorrhexis
 elderly
-erythrocytoschisis
 erythrocytosis
 elementariness
 erythroclasis
@@ -13293,6 +13292,7 @@ exposedness
 exposers
 exposes
 exposing
+erythrocytoschisis
 exposit
 expositing
 esthesiometry
