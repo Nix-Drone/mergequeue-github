@@ -5689,7 +5689,6 @@ dephlogisticated
 dephlogistication
 dephosphorization
 dephosphorize
-depickle
 depict
 depicted
 depicter
@@ -10126,6 +10125,7 @@ dinglebird
 dingled
 dingledangle
 dunkirk
+depickle
 decemvirs
 dingly
 dingman
