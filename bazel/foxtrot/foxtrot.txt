@@ -7805,6 +7805,7 @@ foremarch
 forsaker
 foremark
 fullface
+frontwards
 foremartyr
 foremastmen
 foremasts
@@ -10485,7 +10486,6 @@ frontspieces
 frontstall
 featurish
 fronture
-frontwards
 frontwise
 fairbanks
 froom
