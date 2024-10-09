@@ -1906,7 +1906,6 @@ gastrostomy
 gastrostomies
 gastrostomize
 gastrostomus
-gastrotaxis
 gastrothecal
 gastrotome
 gastrotomy
@@ -6961,6 +6960,7 @@ goodenia
 guineas
 gonadectomies
 gingerwort
+gastrotaxis
 goatishly
 gooders
 gonidium
