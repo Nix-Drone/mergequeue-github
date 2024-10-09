@@ -442,7 +442,6 @@ dairyman
 dairymen
 dairywoman
 dairywomen
-dayroom
 dayrooms
 dairous
 dairt
@@ -3418,6 +3417,7 @@ defleaed
 damnum
 defleas
 deflect
+dayroom
 driftfishes
 deflectable
 deflected
