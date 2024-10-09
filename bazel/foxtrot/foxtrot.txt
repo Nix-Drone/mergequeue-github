@@ -1103,7 +1103,6 @@ farms
 farmscape
 farmsteads
 farmtown
-farnesol
 farnesols
 fogas
 flinger
@@ -6285,6 +6284,7 @@ fosslology
 forint
 footstool
 fissicostate
+farnesol
 fecit
 fluidified
 fluidifier
