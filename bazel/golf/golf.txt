@@ -5981,7 +5981,6 @@ gloves
 glow
 girnel
 glowbard
-glowerer
 garrulous
 grasshopperish
 gloweringly
@@ -9623,6 +9622,7 @@ grudgefully
 glyoxalin
 gonocalyx
 gerres
+glowerer
 ghat
 grudgefulness
 gulley
