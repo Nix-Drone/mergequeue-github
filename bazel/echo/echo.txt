@@ -2473,7 +2473,6 @@ electrolier
 electrolysation
 electrolyse
 everydeal
-elephantlike
 electrolysed
 electrolyses
 electrolysing
@@ -6726,6 +6725,7 @@ emplastra
 equalization
 ensemble
 enterozoan
+elephantlike
 erepsins
 equilibriria
 ejaculators
