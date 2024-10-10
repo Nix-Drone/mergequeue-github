@@ -6713,7 +6713,6 @@ celiectasia
 celiectomy
 celiemia
 celiitis
-celiocele
 celiocyesis
 celiocolpotomy
 celiodynia
@@ -20245,6 +20244,7 @@ commorse
 commorth
 communiqu
 commos
+celiocele
 commot
 commotion
 commotional
