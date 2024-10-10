@@ -958,7 +958,6 @@ gamelans
 gameless
 gentian
 gamely
-gamelike
 gymnast
 goracco
 gamelin
@@ -2401,6 +2400,7 @@ gelidiaceae
 guideship
 gelandelaufer
 gymnodiniaceae
+gamelike
 gelandesprung
 gelant
 gelants
