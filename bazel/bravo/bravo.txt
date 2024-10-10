@@ -3737,7 +3737,6 @@ batsman
 blackmails
 batsmanship
 bransles
-bunsen
 batsmen
 batswing
 batt
@@ -13546,6 +13545,7 @@ boundary
 backdate
 bountith
 bounded
+bunsen
 boundedly
 boundedness
 bonfires
