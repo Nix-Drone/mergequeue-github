@@ -13623,7 +13623,6 @@ alanyls
 annular
 annulary
 annularia
-annularity
 annulate
 annulated
 annulately
@@ -25107,6 +25106,7 @@ axilemma
 axilemmas
 axilemmata
 adjustage
+annularity
 axilla
 axillae
 aristo
