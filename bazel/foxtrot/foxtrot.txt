@@ -75,7 +75,6 @@ fermentations
 facepiece
 fisticuffs
 faces
-facesaving
 facet
 foresaying
 faceted
@@ -3994,6 +3993,7 @@ fingerpost
 forfeited
 fingerprint
 fingerprints
+facesaving
 fingerroot
 forleft
 fingers
