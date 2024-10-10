@@ -8296,7 +8296,6 @@ gobos
 grassland
 grasslike
 gasterosteiform
-gadolinite
 grassman
 guiding
 gazelles
@@ -8433,6 +8432,7 @@ graveness
 gravenstein
 gaping
 gesan
+gadolinite
 graveolent
 galactophagist
 graverobbing
