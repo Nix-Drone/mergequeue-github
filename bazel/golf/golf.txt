@@ -7314,7 +7314,6 @@ goujay
 gossy
 grills
 gossip
-gossipdom
 gossiped
 gossipee
 gossiper
@@ -8377,6 +8376,7 @@ gratuito
 gratuitous
 gratuitousness
 gratulate
+gossipdom
 glauconitization
 gratulated
 gratulation
