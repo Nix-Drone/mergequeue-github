@@ -12604,7 +12604,6 @@ chronographs
 chronoisothermal
 chronologer
 curvedness
-chronology
 ciborium
 chronological
 chronologically
@@ -28145,6 +28144,7 @@ cranny
 crannia
 crannied
 crannies
+chronology
 crannying
 compiler
 crannock
