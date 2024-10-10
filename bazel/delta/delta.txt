@@ -6340,7 +6340,6 @@ determines
 dermonecrotic
 digitalis
 drassid
-dermoosseous
 dermopathy
 dysarthrosis
 dermophytic
@@ -17502,6 +17501,7 @@ denotational
 drowns
 drowse
 drowsed
+dermoosseous
 drowses
 diamondbacked
 drowsy
