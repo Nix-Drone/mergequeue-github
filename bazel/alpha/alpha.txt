@@ -10931,7 +10931,6 @@ amortisseur
 amortizable
 amortization
 amortized
-amortizement
 amortizes
 angiothlipsis
 amortizing
@@ -13627,6 +13626,7 @@ annularity
 annulate
 annulated
 annulately
+amortizement
 annulation
 amidated
 annulations
