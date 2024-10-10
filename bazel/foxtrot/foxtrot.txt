@@ -1695,6 +1695,7 @@ fcp
 foehns
 familiar
 friars
+freend
 four
 fdnames
 fdtype
@@ -3092,7 +3093,6 @@ fibrilation
 fibrilla
 fibrillar
 fibrillate
-freend
 fibrillating
 fibrillation
 forky
