@@ -3614,7 +3614,6 @@ carats
 carauna
 caraunda
 caravaneer
-chemics
 caravaner
 caravaning
 caravanist
@@ -8223,6 +8222,7 @@ chairmanship
 chairmanships
 checkoff
 chairmender
+chemics
 chairmending
 chayroot
 chairpersons
