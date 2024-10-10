@@ -3761,7 +3761,6 @@ bimbil
 batteling
 battels
 battement
-basisolute
 battements
 battened
 battener
@@ -13384,6 +13383,7 @@ bottlehead
 bottommost
 bottlemaker
 bottleman
+basisolute
 bottleneck
 brayer
 bottlenest
