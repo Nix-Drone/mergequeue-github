@@ -11559,6 +11559,7 @@ cholecystenterostomy
 cholecystgastrostomy
 cholecystic
 cholecystis
+cresylate
 cholecystitis
 cozies
 cholecystnephrostomy
@@ -28748,7 +28749,6 @@ crescograph
 crescographic
 cresegol
 cresyl
-cresylate
 cresylene
 clockwise
 cresylic
