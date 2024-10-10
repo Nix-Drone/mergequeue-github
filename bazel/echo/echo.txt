@@ -6217,7 +6217,6 @@ extraphysiological
 enplanes
 enquarter
 enqueue
-entered
 enqueued
 enquicken
 enquire
@@ -11172,6 +11171,7 @@ euspongia
 eusporangiate
 epipanies
 eustace
+entered
 eustachian
 escallops
 eustacy
