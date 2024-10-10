@@ -8609,7 +8609,6 @@ alleles
 allelic
 allelism
 allelisms
-allelocatalytic
 almes
 autopathic
 arsmetrik
@@ -20747,6 +20746,7 @@ artillerists
 artiness
 artinesses
 artinite
+allelocatalytic
 artiodactyla
 artiodactylous
 artisan
