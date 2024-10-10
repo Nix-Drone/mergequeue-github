@@ -3597,7 +3597,6 @@ fineries
 flagmaking
 filcher
 faventine
-filching
 filchingly
 file
 fileable
@@ -11201,6 +11200,7 @@ funeration
 funereal
 funereality
 flintwork
+filching
 funereally
 freeloaders
 funerealness
