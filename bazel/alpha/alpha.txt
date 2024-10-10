@@ -20336,6 +20336,7 @@ arrow
 arrowbush
 arrowhead
 arrowheaded
+autoplastic
 arrowheads
 arrowy
 arrowing
@@ -24288,7 +24289,6 @@ autopista
 autoplagiarism
 autoplast
 autoplasty
-autoplastic
 autopneumatic
 autopoint
 autopoisonous

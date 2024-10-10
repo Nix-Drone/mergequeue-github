@@ -821,6 +821,7 @@ danged
 detections
 dangerful
 deodara
+drowsy
 dangerless
 dangerous
 dangerously
@@ -17504,7 +17505,6 @@ drowse
 drowsed
 drowses
 diamondbacked
-drowsy
 drowsier
 detant
 discarder
