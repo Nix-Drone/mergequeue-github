@@ -3142,7 +3142,6 @@ capitated
 capitatim
 capitation
 capitations
-capitatum
 capite
 capiteaux
 capitellar
@@ -6905,6 +6904,7 @@ cementoma
 cements
 cementum
 cementwork
+capitatum
 cemetary
 cemetaries
 cemetery
