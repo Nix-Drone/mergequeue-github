@@ -2648,7 +2648,6 @@ baris
 barish
 barysilite
 barit
-baryta
 barebacked
 bloodlike
 barytas
@@ -5744,6 +5743,7 @@ burials
 belight
 boring
 baaed
+baryta
 beliing
 belike
 beliked
