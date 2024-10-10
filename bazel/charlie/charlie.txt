@@ -9516,7 +9516,6 @@ checker
 checkerbellies
 checkerberry
 checkerberries
-checkerbloom
 checkerboard
 calyciform
 checkerboarded
@@ -9957,6 +9956,7 @@ chemotherapeutics
 chemotherapy
 chemotherapies
 chemotherapist
+checkerbloom
 chemotherapists
 chemotic
 chemotroph
