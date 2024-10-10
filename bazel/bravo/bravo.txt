@@ -3632,7 +3632,6 @@ bathyseism
 bathysmal
 bomarea
 bathysophic
-bathysophical
 bathysphere
 bathyspheres
 bathythermograph
@@ -6378,6 +6377,7 @@ benzalacetone
 benzalazine
 benzalcohol
 bakupari
+bathysophical
 briguer
 bish
 benzaldehyde
