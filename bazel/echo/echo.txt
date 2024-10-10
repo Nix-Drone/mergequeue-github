@@ -3335,7 +3335,6 @@ emballonuridae
 embalm
 expounded
 empathize
-embalmed
 envelopes
 embalmer
 embalmers
@@ -13929,6 +13928,7 @@ extrapyramidal
 extraplacental
 exocardia
 extrapoetical
+embalmed
 extrapolar
 extrapolate
 epistolist
