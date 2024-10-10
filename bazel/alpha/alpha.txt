@@ -14208,7 +14208,6 @@ antenumber
 adrostal
 antenuptial
 amphibious
-alarming
 anteopercle
 anteoperculum
 anteorbital
@@ -18643,6 +18642,7 @@ arbuscle
 achaemenid
 arbuscles
 arbuscula
+alarming
 arbuscular
 arbuscule
 arbust
