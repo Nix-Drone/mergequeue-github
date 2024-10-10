@@ -2663,7 +2663,6 @@ acousticolateral
 acousticon
 acousticophobia
 acoustoelectric
-acpt
 acquaint
 acquaintances
 acquaintanceship
@@ -11883,6 +11882,7 @@ anaphora
 anaphoral
 anaphoria
 ampelite
+acpt
 abib
 anaphorical
 anaphorically
