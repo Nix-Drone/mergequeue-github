@@ -1025,6 +1025,7 @@ absorbers
 absorbing
 absorbtion
 absorpt
+achromatizable
 absorptance
 absorptiometer
 absorptiometric
@@ -2311,7 +2312,6 @@ achromatic
 achromatically
 achromatisation
 achromatism
-achromatizable
 achromatization
 achromatize
 amalgam
