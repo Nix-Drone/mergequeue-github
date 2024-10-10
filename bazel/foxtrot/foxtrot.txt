@@ -3057,7 +3057,6 @@ fib
 fencibles
 fibbery
 fibbers
-fibbing
 fiber
 fiberboard
 fibered
@@ -3645,6 +3644,7 @@ filibusterer
 forelocks
 filibusterers
 fingermark
+fibbing
 faddiest
 firetail
 ferineness
