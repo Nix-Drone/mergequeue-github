@@ -2392,7 +2392,6 @@ candite
 candytuft
 candyweed
 candle
-coehorn
 candleball
 caripeta
 candleberry
@@ -19902,6 +19901,7 @@ commandable
 conveyable
 commandant
 commandatory
+coehorn
 commanded
 commandedness
 commandeer
