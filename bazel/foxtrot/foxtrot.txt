@@ -3964,7 +3964,6 @@ finfoots
 fingal
 fingall
 fingan
-fingerable
 fingerberry
 fingerboard
 fingerboards
@@ -9313,6 +9312,7 @@ fragments
 furled
 fishbed
 fragrancy
+fingerable
 fragrant
 fresser
 fragrantly
