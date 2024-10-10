@@ -2957,7 +2957,6 @@ feuilleton
 feuilletonist
 feuilletonistic
 feuilletons
-figurate
 feuing
 fleches
 feulamort
@@ -10725,6 +10724,7 @@ fictitious
 frument
 frumentaceous
 formability
+figurate
 flitchplate
 frumentation
 fractionated
