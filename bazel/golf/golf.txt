@@ -1854,7 +1854,6 @@ gastronosus
 gastroparalysis
 globalized
 geopony
-gastroparesis
 gunstocker
 gastroparietal
 gastropathy
@@ -8495,6 +8494,7 @@ gravitative
 gravity
 gravities
 gravitometer
+gastroparesis
 graviton
 gravitons
 garb
