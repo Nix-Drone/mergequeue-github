@@ -7575,7 +7575,6 @@ faith
 foregame
 forechoose
 foreclaw
-foreclose
 foreclosed
 foreclosure
 feteless
@@ -11419,6 +11418,7 @@ furlable
 furlan
 filiality
 furlana
+foreclose
 firbolg
 furler
 furlers
