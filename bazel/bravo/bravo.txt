@@ -12252,7 +12252,6 @@ byrls
 bombarded
 bushfighter
 bombardelle
-baetylic
 bombarder
 bombardier
 bombardiers
@@ -14554,6 +14553,7 @@ bransolder
 branta
 brantail
 brantails
+baetylic
 brantle
 brantness
 brants
