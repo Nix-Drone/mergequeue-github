@@ -3020,7 +3020,6 @@ embronze
 elytrin
 elytrocele
 elytroid
-elytroposis
 elytrorhagia
 elytrorrhagia
 elytrorrhaphy
@@ -6760,6 +6759,7 @@ entete
 enthalpy
 enthalpies
 enthean
+elytroposis
 entheasm
 enfuddle
 entheate
