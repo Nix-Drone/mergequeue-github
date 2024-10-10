@@ -972,7 +972,6 @@ gorse
 games
 gamesman
 gamesome
-gamesomeness
 gamest
 gamester
 guaiol
@@ -8502,6 +8501,7 @@ grabbed
 gravure
 grazable
 gastight
+gamesomeness
 grazed
 grazer
 gradus
