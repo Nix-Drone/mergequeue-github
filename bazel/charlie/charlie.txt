@@ -11623,7 +11623,6 @@ choleras
 chappie
 choleric
 cholerically
-cholericly
 cholericness
 choleriform
 cholerigenous
@@ -20793,6 +20792,7 @@ compos
 chrismary
 corpulence
 composable
+cholericly
 composal
 composant
 composed
