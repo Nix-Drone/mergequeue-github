@@ -16476,6 +16476,7 @@ clockface
 clockhouse
 clocking
 clockings
+cruciferae
 clockkeeper
 clockless
 cuon
@@ -30127,7 +30128,6 @@ crucible
 crucibles
 crucibulum
 crucifer
-cruciferae
 cruciferous
 crucifers
 crucify
