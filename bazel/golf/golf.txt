@@ -4243,7 +4243,6 @@ generability
 glamours
 gentilities
 gymnasium
-gymnasiums
 gymnastic
 gazon
 gittith
@@ -4999,6 +4998,7 @@ gladden
 gladdened
 gipsire
 gladdens
+gymnasiums
 gladding
 glade
 gladelike
