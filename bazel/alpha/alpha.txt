@@ -4455,6 +4455,7 @@ amakosa
 adulated
 adulating
 adulation
+annotations
 adulator
 adulatory
 adulators
@@ -13587,7 +13588,6 @@ annotates
 annotating
 annotation
 avoiding
-annotations
 annotative
 annotatively
 annotativeness
