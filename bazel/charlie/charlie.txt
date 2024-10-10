@@ -9560,6 +9560,7 @@ commonize
 checkrack
 checkrail
 checkrein
+conservatorio
 checkroll
 checkroom
 compathy
@@ -14958,7 +14959,6 @@ cosmine
 cytopathogenic
 cytopathogenicity
 cytopathologic
-conservatorio
 coenactor
 cytopathologically
 chasmy
