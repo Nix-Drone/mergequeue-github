@@ -1005,6 +1005,7 @@ fardage
 farde
 farded
 forklifts
+fishway
 fardel
 fardelet
 farding
@@ -4424,7 +4425,6 @@ fishtail
 fishtailed
 flether
 fishtails
-fishway
 fishways
 fishweed
 foothils
