@@ -5350,7 +5350,6 @@ begowk
 begowned
 buyable
 benchboard
-begray
 begrain
 begrave
 birne
@@ -15146,6 +15145,7 @@ bribability
 bribable
 bribe
 bribeability
+begray
 bulblet
 bribeable
 bribed
