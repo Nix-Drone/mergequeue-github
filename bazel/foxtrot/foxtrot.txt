@@ -5922,6 +5922,7 @@ floodplain
 floods
 forst
 fortifiable
+finiglacial
 floodway
 feute
 floodways
@@ -6868,7 +6869,6 @@ foliating
 foliation
 foliator
 foliature
-finiglacial
 foliicolous
 fellmongered
 frigid
