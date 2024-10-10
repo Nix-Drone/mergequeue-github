@@ -6741,7 +6741,6 @@ enterprisingness
 enterprize
 enters
 entertainable
-entertained
 enquires
 entertainer
 entertainers
@@ -8183,6 +8182,7 @@ episcopates
 episcopation
 exedra
 ern
+entertained
 episcopature
 engyscope
 episcopised
