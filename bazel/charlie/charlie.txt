@@ -4081,6 +4081,7 @@ cardiopulmonary
 cardiorenal
 cardiorespiratory
 cardiorrhaphy
+chondrosarcomatous
 cardiorrheuma
 cardiorrhexis
 cardiosclerosis
@@ -11790,7 +11791,6 @@ coscinodiscaceae
 chondropterygious
 chondrosarcoma
 chondrosarcomas
-chondrosarcomatous
 chondroseptum
 construed
 chondrosin
