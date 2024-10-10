@@ -626,7 +626,6 @@ echolalic
 echoless
 echolocation
 echometer
-echopractic
 echopraxia
 echos
 echovirus
@@ -10600,6 +10599,7 @@ enablement
 eu
 euahlayi
 euascomycetes
+echopractic
 euaster
 eubacteria
 eubacteriales
