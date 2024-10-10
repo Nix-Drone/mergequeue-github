@@ -1628,6 +1628,7 @@ calpac
 calpack
 calpacked
 calpacks
+convolution
 calpacs
 calpolli
 calpul
@@ -24213,7 +24214,6 @@ convoluted
 convolutedly
 crinoidal
 convoluting
-convolution
 convolutional
 convolutions
 convolutive
