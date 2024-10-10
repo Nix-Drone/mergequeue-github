@@ -6020,6 +6020,7 @@ catskill
 coll
 catskin
 catslide
+crabut
 catso
 catspaw
 catspaws
@@ -27807,7 +27808,6 @@ crabmill
 crabs
 crabsidle
 crabstick
-crabut
 crabweed
 crabwood
 cracca
