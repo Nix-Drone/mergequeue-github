@@ -2685,7 +2685,6 @@ barkeeper
 barkeepers
 barkeeps
 byelaws
-bunglesome
 barkey
 barken
 beknights
@@ -10975,6 +10974,7 @@ bricklay
 blobbiness
 beaued
 backed
+bunglesome
 blobs
 bloc
 blocage
