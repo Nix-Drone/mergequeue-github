@@ -8488,7 +8488,6 @@ chameleonic
 chameleonize
 chameleonlike
 chameleons
-chamfer
 chamfered
 chamferer
 chamfering
@@ -18732,6 +18731,7 @@ coleopteran
 coleopterist
 coleopterology
 coleopterological
+chamfer
 coleopteron
 coleopterous
 coleoptile
