@@ -2872,7 +2872,6 @@ gawp
 genoese
 genoise
 genome
-genomic
 genoms
 genonema
 gph
@@ -8203,6 +8202,7 @@ gyrovague
 graphophone
 graphophonic
 graphoscope
+genomic
 gulpin
 graphostatic
 graphostatical
