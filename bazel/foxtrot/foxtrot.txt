@@ -1396,7 +1396,6 @@ fathers
 fathership
 forswore
 fathomableness
-fathomage
 faunal
 fathomed
 fathomer
@@ -3382,6 +3381,7 @@ fascio
 fieldmice
 fieldmouse
 fieldpieces
+fathomage
 fieldsman
 fieldsmen
 flosculose
