@@ -4927,7 +4927,6 @@ feldsher
 faliscan
 fantaseid
 forge
-flaminica
 flaminical
 flamless
 flammable
@@ -9015,6 +9014,7 @@ fibrinogenic
 fountainlike
 filicite
 forstand
+flaminica
 fountainous
 feaze
 fountainously
