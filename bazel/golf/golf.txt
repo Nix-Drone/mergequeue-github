@@ -3915,6 +3915,7 @@ giblet
 giblets
 giboia
 goyle
+greillade
 glave
 gibsons
 gibstaff
@@ -9775,7 +9776,6 @@ grimacer
 guaconize
 guacos
 gallon
-greillade
 guadagnini
 guadalcazarite
 guahiban
