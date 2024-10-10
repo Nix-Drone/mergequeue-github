@@ -3364,6 +3364,7 @@ capsidal
 capsids
 capsizable
 capsizal
+convict
 capsize
 capsized
 capsizes
@@ -24149,7 +24150,6 @@ convexness
 convexoconcave
 conviciate
 convicinity
-convict
 congelifract
 convictable
 convictfish
