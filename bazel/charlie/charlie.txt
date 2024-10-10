@@ -2410,6 +2410,7 @@ confraternities
 candlelighting
 candlelit
 candlemaker
+chaliced
 candlemaking
 candlemas
 candlenut
@@ -8352,7 +8353,6 @@ chalybeate
 chalybes
 chalybite
 chalice
-chaliced
 chalicosis
 chalicothere
 chalicotheriid
