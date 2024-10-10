@@ -8391,7 +8391,6 @@ chalkworker
 challah
 challahs
 challas
-challengable
 challenge
 challengeable
 challenged
@@ -14649,6 +14648,7 @@ cisternae
 cisternal
 cisterns
 cistic
+challengable
 cystic
 cysticarpic
 cysticarpium
