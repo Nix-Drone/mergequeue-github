@@ -8216,7 +8216,6 @@ diagometer
 demove
 derogations
 dele
-diagonal
 diagonalizable
 diagonalization
 diagonalize
@@ -17038,6 +17037,7 @@ dressmake
 dressmakery
 dressmakers
 dressmaking
+diagonal
 dressoir
 dressoirs
 drest
