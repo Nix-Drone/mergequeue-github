@@ -1102,6 +1102,7 @@ fisc
 farms
 farmscape
 farmsteads
+fessed
 farmtown
 farnesol
 farnesols
@@ -2742,7 +2743,6 @@ fescues
 fesels
 fess
 fesse
-fessed
 fesses
 fessewise
 fest
