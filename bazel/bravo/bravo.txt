@@ -8574,7 +8574,6 @@ bilifuscin
 bankbook
 bilimbing
 bilimbis
-biliment
 bilin
 bylina
 boran
@@ -11167,6 +11166,7 @@ blore
 balsamine
 backlogs
 blosmy
+biliment
 blossom
 blossombill
 benben
