@@ -5811,7 +5811,6 @@ engraphically
 engrapple
 engrasp
 engraulis
-engrave
 engravement
 engraven
 engraver
@@ -12093,6 +12092,7 @@ electroethereal
 ensalada
 exclusive
 exclusiveness
+engrave
 enclitic
 exclusivism
 exclusivist
