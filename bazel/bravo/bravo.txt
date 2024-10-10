@@ -8963,7 +8963,6 @@ biocoenose
 biocoenoses
 biocoenotic
 biodegradability
-biodegradable
 biodegradation
 becassocked
 biodegrade
@@ -14830,6 +14829,7 @@ breaking
 breakings
 breakless
 breaklist
+biodegradable
 belis
 bostonians
 breakneck
