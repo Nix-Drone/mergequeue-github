@@ -724,7 +724,6 @@ baculites
 baculitic
 baculiticone
 baculoid
-baculus
 bacury
 bad
 badaga
@@ -3581,6 +3580,7 @@ batfowls
 batful
 bath
 bathala
+baculus
 batheable
 bathed
 bellower
