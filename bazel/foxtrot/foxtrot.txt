@@ -4632,7 +4632,6 @@ fixer
 freedstool
 fixidity
 fixing
-fixings
 fixities
 flannelleaf
 fixt
@@ -11023,6 +11022,7 @@ fumbler
 fifers
 fumblers
 fumbles
+fixings
 fumbling
 flemings
 forlornest
