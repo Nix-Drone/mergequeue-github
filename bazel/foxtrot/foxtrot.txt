@@ -2175,7 +2175,6 @@ fermentatory
 fellow
 fishfall
 fellowcraft
-fellowheirship
 fellowing
 fellowman
 fellowmen
@@ -5833,6 +5832,7 @@ forswat
 forcedness
 fraternate
 fastigia
+fellowheirship
 fname
 floccillation
 floccipend
