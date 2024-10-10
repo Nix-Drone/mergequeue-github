@@ -1219,7 +1219,6 @@ educ
 educability
 educable
 educables
-educand
 educatability
 epicrystalline
 eident
@@ -5689,6 +5688,7 @@ engendered
 engenderment
 engenders
 engendrure
+educand
 engendure
 engerminate
 enghle
