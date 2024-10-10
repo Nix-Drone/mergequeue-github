@@ -2800,7 +2800,6 @@ decreement
 decreer
 dunker
 decrees
-decreet
 dop
 decrement
 decremental
@@ -7397,6 +7396,7 @@ dogmen
 doggier
 deuce
 deuced
+decreet
 deuces
 deucing
 deul
