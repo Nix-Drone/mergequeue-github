@@ -1005,7 +1005,6 @@ fardage
 farde
 farded
 forklifts
-fardel
 fardelet
 farding
 fardo
@@ -7971,6 +7970,7 @@ foreshaft
 fadme
 foreshank
 foreshape
+fardel
 foresheet
 foresheets
 foreshock
