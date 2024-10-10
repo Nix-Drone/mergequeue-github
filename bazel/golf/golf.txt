@@ -3919,7 +3919,6 @@ glave
 gibsons
 gibstaff
 gibus
-gibuses
 giddap
 guideless
 giddy
@@ -9247,6 +9246,7 @@ grobianism
 grocer
 groceress
 grot
+gibuses
 gourmandise
 gat
 groceries
