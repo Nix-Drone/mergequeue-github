@@ -1204,6 +1204,7 @@ biasteric
 blowcase
 bakalei
 bake
+brickwork
 burrish
 bakeapple
 bakeboard
@@ -15212,7 +15213,6 @@ bethylid
 bricktimber
 bricktop
 brickwall
-brickwork
 backstrip
 brid
 bucketing
