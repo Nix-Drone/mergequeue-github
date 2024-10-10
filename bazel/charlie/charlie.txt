@@ -13321,7 +13321,6 @@ cycloganoidei
 cyclogenesis
 comstock
 cyclograph
-cyclographer
 cycloheptane
 cycloheptanone
 carbonylate
@@ -20597,6 +20596,7 @@ compilations
 compilator
 compileable
 compiled
+cyclographer
 compilement
 compiling
 comping
