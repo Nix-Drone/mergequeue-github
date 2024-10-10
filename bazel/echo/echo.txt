@@ -2951,7 +2951,6 @@ elided
 enameler
 elides
 elidible
-eliding
 elydoric
 eligenda
 eligibility
@@ -11815,6 +11814,7 @@ exanthema
 estrous
 exanthemas
 endocondensation
+eliding
 exanthems
 espionage
 emberiza
