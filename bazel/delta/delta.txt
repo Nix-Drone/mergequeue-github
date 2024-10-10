@@ -3154,7 +3154,6 @@ defamed
 dragginess
 defamer
 defamers
-defames
 demihuman
 defamy
 defaming
@@ -15765,6 +15764,7 @@ dorothy
 dorp
 diphthongalize
 dorper
+defames
 dorpers
 dorps
 dorr
