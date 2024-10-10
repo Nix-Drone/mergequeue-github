@@ -8648,7 +8648,6 @@ girn
 greenbone
 gaudsman
 greenbrier
-greenbug
 greenbugs
 greencloth
 greencoat
@@ -9853,6 +9852,7 @@ gnatty
 guanize
 guano
 glideness
+greenbug
 guanosine
 guans
 gazook
