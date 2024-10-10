@@ -4091,7 +4091,6 @@ empetrum
 empexa
 emphase
 emphasised
-emphasize
 emphasized
 emphasizing
 emphatic
@@ -12312,6 +12311,7 @@ executrixes
 executrixship
 exede
 epipsychidion
+emphasize
 exegeses
 exegesis
 exegesist
