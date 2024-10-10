@@ -1711,7 +1711,6 @@ deathrates
 diagrydium
 deaths
 deathsman
-deathsmen
 depaysee
 deathtime
 deathtrap
@@ -7613,6 +7612,7 @@ deviceful
 devicefully
 devicefulness
 damnii
+deathsmen
 devices
 devide
 devil
