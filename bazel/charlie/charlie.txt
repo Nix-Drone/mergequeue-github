@@ -7919,7 +7919,6 @@ cestas
 ceste
 cestidae
 cestoda
-cestode
 cestoi
 cestoid
 chamberwoman
@@ -17399,6 +17398,7 @@ cobbles
 cobblestone
 cobblestoned
 cobblestones
+cestode
 cobbly
 cobbling
 cobbra
