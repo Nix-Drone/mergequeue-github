@@ -7125,7 +7125,6 @@ detachments
 detacwable
 dentagra
 dogvanes
-detailer
 detailers
 demarcators
 detailing
@@ -13273,6 +13272,7 @@ disputacity
 disputant
 disputants
 disputation
+detailer
 deflators
 disputations
 disputatious
