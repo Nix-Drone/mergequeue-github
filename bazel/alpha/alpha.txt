@@ -6872,6 +6872,7 @@ amyctic
 airfares
 airfield
 airflow
+autorrhaphy
 airflows
 airfoil
 airfoils
@@ -24345,7 +24346,6 @@ autoriser
 autorotation
 autorotational
 autoroute
-autorrhaphy
 autos
 autosauri
 autosauria
