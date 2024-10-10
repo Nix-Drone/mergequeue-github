@@ -14649,7 +14649,6 @@ cisternae
 cisternal
 cisterns
 cistic
-cystic
 cysticarpic
 cysticarpium
 circulable
@@ -23200,6 +23199,7 @@ constructor
 constructors
 constructorship
 constructs
+cystic
 construe
 construer
 construers
