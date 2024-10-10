@@ -754,6 +754,7 @@ cayenned
 cayennes
 cailcedra
 cayleyan
+colonizability
 caille
 cailleach
 cailliach
@@ -19281,7 +19282,6 @@ capture
 colonising
 colonist
 chiromancer
-colonizability
 colonizable
 colonizationist
 colonizations
