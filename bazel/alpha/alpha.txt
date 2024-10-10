@@ -5302,7 +5302,6 @@ affied
 affies
 affying
 affile
-affiliable
 addio
 affiliate
 affiliated
@@ -6607,6 +6606,7 @@ ahmadiya
 ahmed
 ahmedi
 ahmet
+affiliable
 aho
 ahoy
 aholds
