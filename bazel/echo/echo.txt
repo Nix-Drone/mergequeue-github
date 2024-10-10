@@ -8861,7 +8861,6 @@ erasable
 erased
 eraser
 erasers
-erases
 erasion
 elod
 erasmian
@@ -9939,6 +9938,7 @@ emender
 estampie
 estancia
 exhumated
+erases
 estancias
 estanciero
 erosion
