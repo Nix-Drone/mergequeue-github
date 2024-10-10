@@ -4032,7 +4032,6 @@ adjustores
 adjutage
 adjutancies
 adjutant
-adjutants
 adjutantship
 anesthetic
 adjutator
@@ -19590,6 +19589,7 @@ argots
 argovian
 arguable
 arguably
+adjutants
 argue
 argued
 attender
