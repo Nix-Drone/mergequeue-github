@@ -4625,7 +4625,6 @@ advertising
 advertizable
 amulets
 advertized
-advertizement
 allobars
 advertizes
 advertizing
@@ -24129,6 +24128,7 @@ autoinhibited
 admonishment
 autoinoculable
 autoinoculation
+advertizement
 autointellectual
 autointoxicant
 autointoxication
