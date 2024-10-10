@@ -3934,6 +3934,7 @@ fined
 fineish
 fineleaf
 frounces
+focusable
 finement
 fineness
 finer
@@ -6657,7 +6658,6 @@ fockle
 focoids
 focsle
 focus
-focusable
 fatalistically
 floscularia
 floodlighting
