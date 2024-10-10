@@ -2344,7 +2344,6 @@ electrocautery
 evasion
 electroceramic
 electrochemical
-electrochemically
 electrochemistry
 electrochronometer
 equison
@@ -13584,6 +13583,7 @@ equisegmented
 exterioration
 exteriorisation
 exteriorise
+electrochemically
 exteriorised
 epicyesis
 exteriorising
