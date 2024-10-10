@@ -10822,6 +10822,7 @@ clavicylinder
 chinooks
 chinos
 chinotoxine
+compasses
 chinotto
 chinovnik
 chinpiece
@@ -20487,7 +20488,6 @@ compass
 compassability
 compassable
 compassed
-compasses
 compassing
 compassion
 compassionable
