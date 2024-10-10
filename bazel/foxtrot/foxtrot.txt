@@ -4965,7 +4965,6 @@ flangeless
 flangeway
 flankard
 fountainhead
-flanked
 flanker
 flankers
 falconries
@@ -7791,6 +7790,7 @@ forelimbs
 foredevised
 forelive
 florilege
+flanked
 forelook
 formants
 francisco
