@@ -4905,7 +4905,6 @@ cartons
 cartoon
 cartoonist
 cartoonists
-condors
 cartoons
 cartop
 cartopper
@@ -22447,6 +22446,7 @@ chromolysis
 conjecturing
 conjee
 cellulose
+condors
 conjegates
 conjobble
 conjoin
