@@ -1592,7 +1592,6 @@ balletomania
 ballets
 ballfield
 ballflower
-ballgame
 ballgames
 ballgowns
 ballhausplatz
@@ -3302,6 +3301,7 @@ bacin
 basilosauridae
 basilweed
 basinal
+ballgame
 basinasal
 basinasial
 basined
