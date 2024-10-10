@@ -4160,6 +4160,7 @@ beanlike
 beano
 beanos
 beanpole
+borrowable
 beanpoles
 beans
 beansetter
@@ -13085,7 +13086,6 @@ borrichia
 borromean
 bulkheaded
 bipectinated
-borrowable
 borrower
 borrowers
 borrows
