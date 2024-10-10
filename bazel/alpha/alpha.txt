@@ -6831,7 +6831,6 @@ airbusses
 aircheck
 airchecks
 aircoaches
-aircraft
 aircraftman
 axometer
 aircraftmen
@@ -11268,6 +11267,7 @@ amphoric
 amphoriloquy
 actinolite
 amphoriskoi
+aircraft
 amphoriskos
 amphorous
 amphoteric
