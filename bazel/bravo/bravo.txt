@@ -9750,7 +9750,6 @@ bist
 bistable
 backwashed
 bystander
-bistate
 bistephanic
 bister
 bistered
@@ -17398,6 +17397,7 @@ bundler
 bona
 bundlerooted
 bundlers
+bistate
 bundles
 bundlet
 ballons
