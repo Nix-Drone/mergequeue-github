@@ -5674,7 +5674,6 @@ flyovers
 fustanella
 flypapers
 flypast
-flypasts
 flipe
 flype
 freezers
@@ -10597,6 +10596,7 @@ flutterable
 frontlet
 flattened
 frowstily
+flypasts
 frowze
 flatwise
 falderol
