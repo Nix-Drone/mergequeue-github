@@ -641,7 +641,6 @@ bishopbird
 bacteriodiagnosis
 bacteriofluorescin
 bromates
-bacteriogenic
 bacteriogenous
 bacteriohemolysin
 bacterioidal
@@ -8956,6 +8955,7 @@ bioclimatology
 bioclimatological
 bollox
 bavoso
+bacteriogenic
 bioclimatologically
 bioclimatologies
 bioclimatologist
