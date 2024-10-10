@@ -717,7 +717,6 @@ aborning
 abort
 aborted
 aborter
-aborters
 aborticide
 abortient
 abortifacient
@@ -20353,6 +20352,7 @@ arrowstone
 arrowweed
 arrowwood
 arrowworm
+aborters
 arroz
 arsacidan
 arsenic
