@@ -4774,7 +4774,6 @@ enclaving
 esophagoplegia
 enclear
 enclisis
-enclitical
 encycl
 enclitics
 encloak
@@ -6604,6 +6603,7 @@ enterate
 enterclose
 enterectomy
 enterectomies
+enclitical
 exuviates
 enterer
 ellipses
