@@ -7684,7 +7684,6 @@ cerias
 ceric
 ceride
 ceryl
-cerilla
 cerillo
 ceriman
 cerimans
@@ -17388,6 +17387,7 @@ cobbiest
 cobbin
 cobbing
 cobble
+cerilla
 cobbled
 cobbler
 cobblerfish
