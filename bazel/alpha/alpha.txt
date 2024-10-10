@@ -8677,7 +8677,6 @@ alliage
 arragonite
 alliance
 amidships
-accoast
 alliances
 acromioscapular
 alliant
@@ -19254,6 +19253,7 @@ arcticologist
 arctics
 arcticward
 arctiid
+accoast
 arctisca
 arctium
 arctocephalus
