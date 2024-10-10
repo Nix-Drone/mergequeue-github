@@ -8118,7 +8118,6 @@ biconically
 biconjugate
 biconsonantal
 biconvex
-biconvexity
 bicorn
 buccinae
 bombyx
@@ -9915,6 +9914,7 @@ biose
 bituminise
 bituminising
 bituminization
+biconvexity
 bituminize
 breird
 bituminized
