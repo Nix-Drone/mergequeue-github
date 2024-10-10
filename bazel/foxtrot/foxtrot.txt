@@ -4473,7 +4473,6 @@ fissirostres
 fissle
 fissura
 fissuration
-fungite
 finesse
 frawn
 fissured
@@ -10990,6 +10989,7 @@ fibrillations
 fulzie
 fumade
 fumado
+fungite
 feltwork
 fumago
 flavones
