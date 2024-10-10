@@ -236,6 +236,7 @@ abbroachment
 abc
 abcissa
 abcoulomb
+apochromat
 abd
 abdali
 abdaria
@@ -12528,7 +12529,6 @@ anemotaxis
 anemotropism
 anencephaly
 anencephalic
-apochromat
 anencephalous
 arvo
 anencephalus
