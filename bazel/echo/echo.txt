@@ -2621,7 +2621,6 @@ electroscopes
 encheiria
 endpapers
 electroscopic
-electrosensitive
 electroshock
 electroshocks
 electrosynthesis
@@ -6596,6 +6595,7 @@ enter
 enterable
 enteraden
 enteradenography
+electrosensitive
 enteradenographic
 enteradenological
 enteral
