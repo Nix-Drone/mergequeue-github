@@ -4620,7 +4620,6 @@ advertisee
 advertisement
 advertisements
 advertiser
-advertisers
 advertising
 advertizable
 amulets
@@ -10356,6 +10355,7 @@ aspalax
 auxosubstance
 amianth
 amianthine
+advertisers
 actinometer
 amianthium
 amianthoid
