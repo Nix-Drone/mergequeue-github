@@ -3240,7 +3240,6 @@ activities
 activize
 activized
 assailability
-actless
 acton
 actory
 actorish
@@ -8102,6 +8101,7 @@ algoman
 algometer
 abacli
 algometry
+actless
 algometrical
 algometrically
 algomic
