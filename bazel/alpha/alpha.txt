@@ -1557,7 +1557,6 @@ afterwrist
 acclaimers
 acclaiming
 acclamations
-acclamator
 acclamatory
 acclimatable
 acclimatation
@@ -13718,6 +13717,7 @@ anoetic
 anogenic
 anogenital
 anogra
+acclamator
 amarth
 anoia
 astucious
