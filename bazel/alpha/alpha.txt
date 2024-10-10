@@ -2111,7 +2111,6 @@ acetonate
 acetonation
 acetone
 acetonemia
-acetonemic
 acetonic
 acetonyl
 acetonylacetone
@@ -24773,6 +24772,7 @@ avifauna
 avifaunae
 avifaunal
 armaments
+acetonemic
 avifaunas
 avifaunistic
 avigate
