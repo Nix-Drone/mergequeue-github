@@ -7224,6 +7224,7 @@ envolume
 envolupen
 electrorefining
 enwall
+existibility
 enwallow
 enweave
 entonement
@@ -12580,7 +12581,6 @@ existentialize
 existently
 existents
 exister
-existibility
 extant
 engastrimyth
 existing
