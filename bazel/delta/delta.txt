@@ -7822,7 +7822,6 @@ dewberries
 dewclaw
 dewclawed
 dewclaws
-dewcup
 dewdamp
 dewdrop
 dewdropper
@@ -9376,6 +9375,7 @@ diffusimeter
 diffusing
 diffusiometer
 diffusion
+dewcup
 diffusional
 diffusionism
 diffusionist
