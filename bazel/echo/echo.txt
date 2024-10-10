@@ -2947,7 +2947,6 @@ elide
 enameloma
 egrimony
 exogastric
-elided
 enameler
 elides
 elidible
@@ -5812,6 +5811,7 @@ engrapple
 engrasp
 engraulis
 engrave
+elided
 engravement
 engraven
 engraver
