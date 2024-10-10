@@ -1778,6 +1778,7 @@ gnotobiote
 gastrodynia
 gastrodisk
 gastroduodenitis
+griphite
 gastroduodenoscopy
 gastroduodenostomy
 gastroduodenotomy
@@ -9109,7 +9110,6 @@ gnu
 gripey
 gripers
 gripgrass
-griphite
 gooral
 golee
 gentisein
