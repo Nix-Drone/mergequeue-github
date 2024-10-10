@@ -2717,7 +2717,6 @@ canonizations
 canonize
 canonized
 catapult
-canonizer
 canonizes
 canonizing
 canonlike
@@ -14294,6 +14293,7 @@ circumcises
 circumcisions
 circumcission
 circumclude
+canonizer
 circumcolumnar
 circumcone
 circumconic
