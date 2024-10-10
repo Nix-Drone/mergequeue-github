@@ -1207,7 +1207,6 @@ calfbound
 calfdozer
 calfish
 calfkill
-calfless
 calflike
 calfling
 calfret
@@ -28340,6 +28339,7 @@ crea
 creach
 creachy
 cread
+calfless
 cohortation
 creagh
 creaght
