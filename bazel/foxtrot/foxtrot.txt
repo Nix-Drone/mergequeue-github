@@ -5846,7 +5846,6 @@ flocculation
 flocculator
 forts
 fencing
-floccule
 flocculence
 furans
 fust
@@ -6998,6 +6997,7 @@ fomes
 fomites
 fluvio
 forbearance
+floccule
 forgrown
 fon
 fonctionnaire
