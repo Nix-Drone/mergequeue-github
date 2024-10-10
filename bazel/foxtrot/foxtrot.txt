@@ -6099,7 +6099,6 @@ flotages
 favorability
 foregoes
 flote
-fustin
 fragor
 felspar
 furnisher
@@ -11265,6 +11264,7 @@ funicles
 funicular
 funiculars
 friborg
+fustin
 funiculitis
 funiculus
 funiform
