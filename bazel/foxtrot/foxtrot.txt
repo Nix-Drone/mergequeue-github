@@ -9193,6 +9193,7 @@ fp
 fplot
 fpm
 fleeceflower
+fringelike
 fps
 fpsps
 fr
@@ -10109,7 +10110,6 @@ fulgora
 fringehead
 fringeless
 fringelet
-fringelike
 fringent
 fringepod
 fringetail
