@@ -6863,7 +6863,6 @@ foliary
 flittern
 foliate
 foliated
-foliates
 foliating
 foliation
 foliator
@@ -9232,6 +9231,7 @@ flaxwort
 falterers
 ferried
 foveolate
+foliates
 fractionating
 fractionation
 flab
