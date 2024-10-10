@@ -9960,7 +9960,6 @@ fribble
 fribbler
 friskle
 fribbles
-fribbling
 flustered
 friable
 folkmote
@@ -11278,6 +11277,7 @@ fracture
 funky
 funkia
 flocked
+fribbling
 funkias
 funkier
 functionaries
