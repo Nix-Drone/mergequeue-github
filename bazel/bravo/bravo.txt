@@ -1561,7 +1561,6 @@ ballast
 ballastage
 bulbiform
 blanchi
-balanoglossida
 bouton
 butomus
 ballaster
@@ -13522,6 +13521,7 @@ boulle
 boulles
 bumpy
 boullework
+balanoglossida
 boult
 boultel
 boulter
