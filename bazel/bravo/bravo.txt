@@ -1999,7 +1999,6 @@ bandos
 bandpass
 bandrol
 bandsaw
-bandsawed
 bandsawing
 bandsawn
 bandsman
@@ -4816,6 +4815,7 @@ bedrip
 bedrite
 bedrivel
 bedriveling
+bandsawed
 bedrivelled
 bedrivelling
 bedrivels
