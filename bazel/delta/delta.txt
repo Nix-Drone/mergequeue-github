@@ -5422,7 +5422,6 @@ dentists
 dentition
 dilating
 dentolabial
-dentolingual
 dentololabial
 dentonasal
 dielytra
@@ -10369,6 +10368,7 @@ dioxindole
 detractors
 dodecapetalous
 dipala
+dentolingual
 diparentum
 dipartite
 dipartition
