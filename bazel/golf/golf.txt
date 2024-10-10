@@ -4966,7 +4966,6 @@ glacialism
 glacialist
 glacialize
 glaciaria
-graphemes
 glaciarium
 glaciated
 glaciates
@@ -10166,6 +10165,7 @@ gymnoglossate
 goos
 guidon
 guidonian
+graphemes
 guids
 guidsire
 gynophoric
