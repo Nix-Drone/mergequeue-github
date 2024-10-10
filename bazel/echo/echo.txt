@@ -7514,7 +7514,6 @@ ephemerid
 ephemerida
 ephemeridae
 ephemerides
-ephemeris
 ephemeromorph
 ephemeromorphic
 ephemeron
@@ -10261,6 +10260,7 @@ etherialize
 etherialized
 etherially
 eroticization
+ephemeris
 etheric
 etherify
 etherification
