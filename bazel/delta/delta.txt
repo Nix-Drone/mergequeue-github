@@ -564,6 +564,7 @@ damage
 damageability
 damageably
 damaged
+debiting
 damagement
 damageous
 dao
@@ -1821,7 +1822,6 @@ debitable
 dermostenosis
 debite
 debiteuse
-debiting
 dregless
 debitor
 dineric
