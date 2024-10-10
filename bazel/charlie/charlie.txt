@@ -24735,6 +24735,7 @@ cops
 copse
 catocathartic
 certify
+corrosives
 copses
 copsewood
 copsewooded
@@ -25770,7 +25771,6 @@ corrosive
 corrosived
 corrosively
 corrosiveness
-corrosives
 complexionally
 corrosiving
 corrosivity
