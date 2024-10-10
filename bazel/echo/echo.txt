@@ -2342,7 +2342,6 @@ electrocatalytic
 explorational
 electrocautery
 evasion
-electroceramic
 electrochemical
 electrochemically
 electrochemistry
@@ -4364,6 +4363,7 @@ enam
 enamber
 endogenously
 enambush
+electroceramic
 entrenches
 enlinking
 enamdar
