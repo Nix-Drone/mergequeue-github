@@ -4549,7 +4549,6 @@ greatish
 gynoeciumcia
 gynogenesis
 gynogenetic
-gynomonoecious
 gynomonoeciously
 gynomonoecism
 ginorite
@@ -4631,6 +4630,7 @@ gipsywort
 gorgio
 gypsywort
 gradine
+gynomonoecious
 gettableness
 griffin
 gartered
