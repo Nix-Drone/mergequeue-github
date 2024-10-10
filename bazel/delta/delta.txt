@@ -15609,6 +15609,7 @@ doorknobs
 doorless
 doormaid
 doormaker
+drinkers
 doorman
 doormat
 doormats
@@ -17172,7 +17173,6 @@ drinkables
 drinkably
 drinker
 disgaveled
-drinkers
 disputatively
 drinking
 drinkless
