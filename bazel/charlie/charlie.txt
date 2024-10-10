@@ -16799,7 +16799,6 @@ castling
 comarca
 clowder
 clowders
-clower
 clown
 clownade
 clownage
@@ -27303,6 +27302,7 @@ courtby
 courtbred
 courtcraft
 cetacean
+clower
 courted
 courteousness
 courtepy
