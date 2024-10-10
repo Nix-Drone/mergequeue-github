@@ -1677,7 +1677,6 @@ ballottines
 ballow
 blear
 ballplayer
-ballplayers
 ballplatz
 bedrabbled
 ballpoint
@@ -3349,6 +3348,7 @@ bibliolatrous
 basitting
 basiventral
 burma
+ballplayers
 bask
 basked
 basker
