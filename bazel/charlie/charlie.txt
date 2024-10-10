@@ -8595,7 +8595,6 @@ chancey
 chancel
 chanceled
 chanceless
-chancelled
 chancellery
 chancelleries
 chancellor
@@ -16916,6 +16915,7 @@ clunked
 clunkers
 corregidors
 clunking
+chancelled
 clunks
 clunter
 clupanodonic
