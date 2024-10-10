@@ -8633,7 +8633,6 @@ feignedness
 forslack
 forsloth
 forslow
-forsook
 forsooth
 forspeak
 forspend
@@ -11212,6 +11211,7 @@ filletlike
 flavourer
 funfest
 flashtester
+forsook
 feminize
 fungales
 furores
