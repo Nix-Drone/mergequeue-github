@@ -4512,7 +4512,6 @@ belchers
 becloaking
 becloaks
 beclog
-beclogged
 beclogging
 beclogs
 beclothe
@@ -11914,6 +11913,7 @@ bogymen
 bogland
 boglander
 bogle
+beclogged
 bogled
 bogledom
 boglet
