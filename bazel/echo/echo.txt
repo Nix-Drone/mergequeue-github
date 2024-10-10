@@ -6218,7 +6218,6 @@ enplanes
 enquarter
 enqueue
 entered
-enqueued
 enquicken
 enquire
 eten
@@ -9169,6 +9168,7 @@ erythrocytoschisis
 erythrocytosis
 elementariness
 erythroclasis
+enqueued
 erythroclastic
 erythrodegenerative
 ephebeum
