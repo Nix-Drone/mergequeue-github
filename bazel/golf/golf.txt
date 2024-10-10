@@ -577,7 +577,6 @@ gallantries
 gallants
 gallate
 genetmoil
-gallature
 getah
 gobblers
 gallbladders
@@ -3672,6 +3671,7 @@ ghast
 ghastfully
 ghastfulness
 gingersnap
+gallature
 glazement
 ghastily
 grudgekin
