@@ -6354,7 +6354,6 @@ grammar
 gorgonaceous
 grammaticize
 glycosidic
-garibaldi
 goadlike
 goadsman
 guarantine
@@ -10480,6 +10479,7 @@ gutturality
 gypsous
 guaycuruan
 ghawazee
+garibaldi
 grainsmen
 gundy
 gettysburg
