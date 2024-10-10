@@ -4378,7 +4378,6 @@ electromotion
 enameling
 enolization
 enamelist
-enamellar
 equiped
 enamellers
 enamelless
@@ -9143,6 +9142,7 @@ eskars
 earlet
 erythroblast
 erythroblastic
+enamellar
 exoperidium
 electrocardiographs
 erythroblastosis
