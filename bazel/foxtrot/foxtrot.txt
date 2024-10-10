@@ -6863,6 +6863,7 @@ foliary
 flittern
 foliate
 foliated
+fourier
 foliates
 foliating
 foliation
@@ -9043,7 +9044,6 @@ fourflusher
 fourflushers
 fourgon
 fatigueless
-fourier
 framboesia
 fourierism
 fourierite
