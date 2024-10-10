@@ -3987,7 +3987,6 @@ adjudger
 adjudges
 adjudging
 adjudicata
-appestat
 adjudicate
 adjudicated
 adjudication
@@ -8969,6 +8968,7 @@ allotropize
 allotropous
 allots
 acmic
+appestat
 allottee
 allottees
 allotter
