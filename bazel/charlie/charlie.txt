@@ -4126,7 +4126,6 @@ cardroom
 cards
 clearwing
 collunaria
-cardshark
 carbamido
 cardsharp
 cardsharper
@@ -28835,6 +28834,7 @@ crevalle
 crevalles
 crevass
 crevasse
+cardshark
 coney
 crevassed
 crevasses
