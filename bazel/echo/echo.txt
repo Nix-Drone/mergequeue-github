@@ -1086,7 +1086,6 @@ emulsor
 edgeless
 executing
 edgeling
-edgeman
 edger
 edgers
 edges
@@ -9404,6 +9403,7 @@ endeavor
 epithymetic
 eructating
 eructation
+edgeman
 eructative
 erring
 eruction
