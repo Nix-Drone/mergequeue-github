@@ -137,7 +137,6 @@ abatable
 amoebid
 abated
 abatement
-abatements
 abater
 abaters
 abatic
@@ -24519,6 +24518,7 @@ auxin
 auxinic
 auxinically
 auxins
+abatements
 auxoamylase
 auxoblast
 amores
