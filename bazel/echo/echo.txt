@@ -7667,7 +7667,6 @@ expectance
 epiclike
 epiclinal
 epicnemial
-epicoele
 epicoelia
 epicoeliac
 epicoelian
@@ -11372,6 +11371,7 @@ engrain
 evaporimeter
 evaporite
 erythrolitmin
+epicoele
 evaporitic
 exhibitive
 evaporize
