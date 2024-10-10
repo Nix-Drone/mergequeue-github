@@ -13132,7 +13132,6 @@ anthochlor
 animala
 alterant
 animalculae
-animalcular
 animalcule
 animalcules
 animalculine
@@ -20906,6 +20905,7 @@ ascaridiasis
 ascaridol
 ascaridole
 ascarids
+animalcular
 ascaris
 ascaron
 ascella
