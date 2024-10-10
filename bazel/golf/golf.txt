@@ -3914,7 +3914,6 @@ graphospasm
 giblet
 giblets
 giboia
-goyle
 glave
 gibsons
 gibstaff
@@ -6117,6 +6116,7 @@ gavelkinder
 gaincome
 goblinize
 gyred
+goyle
 glumly
 glummer
 gauk
