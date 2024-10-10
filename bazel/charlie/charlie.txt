@@ -1221,7 +1221,6 @@ cunas
 clavicembali
 calibogus
 colunar
-calibrate
 calibrated
 canichana
 calibrater
@@ -21945,6 +21944,7 @@ configurable
 configural
 coinsurable
 configurated
+calibrate
 configurating
 configuration
 configurational
