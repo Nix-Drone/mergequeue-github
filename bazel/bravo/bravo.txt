@@ -5217,6 +5217,7 @@ beg
 begabled
 begad
 begalled
+behorror
 begalls
 boarcite
 bepaints
@@ -5489,7 +5490,6 @@ behooves
 behooving
 behorn
 bacterioprotein
-behorror
 bellmaster
 bilabe
 behoved
