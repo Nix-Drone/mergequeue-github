@@ -5358,7 +5358,6 @@ affixes
 affixial
 affixion
 affixment
-ague
 affixture
 afflate
 afflated
@@ -5944,6 +5943,7 @@ agend
 ampyx
 agenda
 agendaless
+ague
 agendas
 agendum
 agendums
