@@ -4662,7 +4662,6 @@ beddable
 bedders
 bedding
 beddingroll
-beddings
 bede
 bro
 bogans
@@ -11495,6 +11494,7 @@ blurt
 blurter
 bakshish
 barbecuing
+beddings
 blurters
 blurting
 bedels
