@@ -1556,7 +1556,6 @@ acclaimer
 afterwrist
 acclaimers
 acclaiming
-acclamations
 acclamator
 acclamatory
 acclimatable
@@ -10850,6 +10849,7 @@ amoebobacterieae
 amoebocyte
 amoebogeniae
 amoeboid
+acclamations
 amoebous
 amoebula
 amoy
