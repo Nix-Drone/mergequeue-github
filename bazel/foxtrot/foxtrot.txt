@@ -3995,6 +3995,7 @@ forfeited
 fingerprint
 fingerprints
 fingerroot
+frameshift
 forleft
 fingers
 fragrance
@@ -9373,7 +9374,6 @@ frats
 flavorlessness
 framer
 frames
-frameshift
 frapler
 flunkydom
 futuramic
