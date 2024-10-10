@@ -5486,7 +5486,6 @@ agons
 aflatoxin
 aflaunt
 afley
-aflight
 aflow
 acumen
 axillary
@@ -10621,6 +10620,7 @@ aminopolypeptidase
 aminopropionic
 aminopurine
 aminoquin
+aflight
 aminosis
 aminosuccinamic
 araru
