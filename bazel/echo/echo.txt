@@ -4185,7 +4185,6 @@ employees
 employer
 exedral
 employers
-employment
 enthymeme
 entastic
 epilithic
@@ -8151,6 +8150,7 @@ epirote
 epirotic
 epirrheme
 electrochronographic
+employment
 exothermicity
 episarcine
 episarkine
