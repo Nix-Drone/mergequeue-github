@@ -1561,7 +1561,6 @@ ballast
 ballastage
 bulbiform
 blanchi
-balanoglossida
 bouton
 butomus
 ballaster
@@ -6472,6 +6471,7 @@ benzoin
 benzoinated
 benzoiodohydrin
 benzol
+balanoglossida
 benzole
 benzoline
 benzolize
