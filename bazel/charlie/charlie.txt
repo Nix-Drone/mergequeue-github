@@ -5636,7 +5636,6 @@ catcaller
 catcalls
 catch
 catchable
-catchall
 catchcry
 colocates
 catched
@@ -23161,6 +23160,7 @@ constricted
 constricting
 constriction
 constrictions
+catchall
 constrictive
 constrictor
 constrictors
