@@ -4795,7 +4795,6 @@ extraction
 enclothe
 encloud
 encode
-existible
 encoded
 encoder
 eremopteris
@@ -6100,6 +6099,7 @@ enneagonal
 enrolling
 endorachis
 enneagons
+existible
 enneahedra
 ependyma
 enneahedral
