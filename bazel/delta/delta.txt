@@ -1025,7 +1025,6 @@ darkness
 darknesses
 darkroom
 dragomen
-dineutron
 darks
 darkskin
 darksum
@@ -2666,6 +2665,7 @@ delphin
 dimmy
 decomposer
 decomposers
+dineutron
 decomposes
 decomposing
 decomposition
