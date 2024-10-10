@@ -6972,7 +6972,6 @@ fatheads
 follow
 followable
 followed
-follower
 foisting
 followers
 followingly
@@ -7996,6 +7995,7 @@ foreshroud
 femic
 foreside
 funnelwise
+follower
 foresight
 foresightedness
 foresightful
