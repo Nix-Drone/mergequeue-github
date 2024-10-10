@@ -5818,6 +5818,7 @@ engraver
 engravers
 engraves
 easts
+etherealizing
 engysseismology
 endophytous
 engravings
@@ -10234,7 +10235,6 @@ ethereality
 emendable
 etherealization
 eutaxite
-etherealizing
 ethereally
 expwy
 etherealness
