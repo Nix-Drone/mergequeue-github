@@ -1697,7 +1697,6 @@ familiar
 friars
 four
 fdnames
-fdtype
 fdub
 fortuitousness
 fe
@@ -2339,6 +2338,7 @@ fendering
 fenderless
 fenders
 fendillation
+fdtype
 fending
 fopship
 fends
