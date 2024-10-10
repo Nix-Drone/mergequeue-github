@@ -10114,7 +10114,6 @@ chessist
 chessman
 chessmen
 chirimen
-chessner
 chessom
 claves
 chesstree
@@ -25868,6 +25867,7 @@ corteges
 cortes
 cortex
 cortexes
+chessner
 cortez
 cortian
 cortical
