@@ -6949,7 +6949,6 @@ cenosity
 cenospecies
 custodiam
 cenospecific
-cenotaph
 cenotaphy
 cenotaphies
 cenotaphs
@@ -27514,6 +27513,7 @@ curlyheads
 charioteership
 covisitor
 covite
+cenotaph
 covolume
 covotary
 cow
