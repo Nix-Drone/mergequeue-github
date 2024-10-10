@@ -2113,7 +2113,6 @@ bankmen
 banknote
 barrelet
 badaud
-banknotes
 bankrider
 brachycome
 bedlamising
@@ -6838,6 +6837,7 @@ berrettino
 berri
 beachmen
 berry
+banknotes
 berrybush
 borocarbide
 bromophenol
