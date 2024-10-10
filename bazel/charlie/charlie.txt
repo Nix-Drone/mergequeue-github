@@ -4172,7 +4172,6 @@ carer
 carers
 cares
 caress
-caressable
 caressant
 collinal
 caressed
@@ -7970,6 +7969,7 @@ cetomorpha
 cetomorphic
 cetonia
 cetonian
+caressable
 curwhibble
 cetoniinae
 castigated
