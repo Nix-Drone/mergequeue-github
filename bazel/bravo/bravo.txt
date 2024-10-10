@@ -12947,7 +12947,6 @@ backpacker
 border
 bordereau
 bowstaff
-bordered
 borderer
 borderers
 bordering
@@ -17814,6 +17813,7 @@ banshie
 burntness
 burntweed
 burnup
+bordered
 burnut
 burnweed
 burnwood
