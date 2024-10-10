@@ -13036,6 +13036,7 @@ cyanogens
 cyanoguanidine
 coronillin
 cyanohermidin
+cleaveful
 cyanol
 cyanole
 cyanomaclurin
@@ -15879,7 +15880,6 @@ cleavage
 cleavages
 cleave
 cleaved
-cleaveful
 conversionist
 cleavelandite
 cleaver
