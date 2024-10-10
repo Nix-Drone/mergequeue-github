@@ -4619,7 +4619,6 @@ advertise
 advertisee
 advertisement
 advertisements
-advertiser
 advertisers
 advertising
 advertizable
@@ -14979,6 +14978,7 @@ anticlockwise
 anticlogging
 anticoagulan
 anticoagulant
+advertiser
 anticoagulation
 anticoagulative
 ampliate
