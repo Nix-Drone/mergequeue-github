@@ -14918,7 +14918,6 @@ citoyen
 citoyenne
 citoyens
 cytokinesis
-cytokinetic
 cytokinin
 cytol
 capacitating
@@ -20894,6 +20893,7 @@ compressibly
 compression
 compressional
 compressive
+cytokinetic
 compressively
 compressometer
 compressors
