@@ -4934,7 +4934,6 @@ flammable
 filmogen
 floorers
 filefish
-flammation
 flammed
 fountains
 flaughter
@@ -8859,6 +8858,7 @@ fossettes
 flneur
 flon
 fossick
+flammation
 fumbulator
 fossicked
 fossicker
