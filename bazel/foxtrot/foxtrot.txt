@@ -3494,7 +3494,6 @@ figshell
 fury
 figulated
 figuline
-figulines
 figurability
 figurable
 fixture
@@ -7428,6 +7427,7 @@ forcement
 forcene
 forceps
 fey
+figulines
 forceput
 fazing
 forces
