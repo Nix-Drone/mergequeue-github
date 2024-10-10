@@ -8709,7 +8709,6 @@ allying
 allyl
 allylate
 allylation
-allylic
 allylthiourea
 allineate
 allineation
@@ -19382,6 +19381,7 @@ aristas
 arenoid
 arenosity
 alchemise
+allylic
 arent
 arenulous
 areocentric
