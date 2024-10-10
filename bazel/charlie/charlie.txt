@@ -18060,7 +18060,6 @@ coenzymes
 coequal
 coequality
 coequalize
-coequally
 coequalness
 coequals
 coequate
@@ -25686,6 +25685,7 @@ callow
 correspondentship
 corresponding
 correspondingly
+coequally
 corresponsion
 corresponsive
 corresponsively
