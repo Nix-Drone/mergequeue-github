@@ -682,7 +682,6 @@ bacteriotherapy
 balanophorin
 bacteriotoxic
 bechances
-bacteriotoxin
 bal
 bacteriotrypsin
 bynames
@@ -1647,6 +1646,7 @@ bethroot
 ballonne
 ballonnes
 balloon
+bacteriotoxin
 ballooners
 bowfront
 balloonet
