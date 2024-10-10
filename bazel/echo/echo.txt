@@ -11371,6 +11371,7 @@ evaporators
 engrain
 evaporimeter
 evaporite
+exhale
 erythrolitmin
 evaporitic
 exhibitive
@@ -12431,7 +12432,6 @@ exhalants
 exhalation
 exhalations
 exhalatory
-exhale
 exhalent
 exhalents
 exhales
