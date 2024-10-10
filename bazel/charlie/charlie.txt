@@ -1552,7 +1552,6 @@ calmness
 calmnesses
 calms
 calocarpum
-calochortaceae
 chronologists
 calochortus
 calodaemon
@@ -8360,6 +8359,7 @@ chalicotheriidae
 chalicotherioid
 cephalohumeralis
 chalicotherium
+calochortaceae
 courtyard
 chalina
 complexity
