@@ -16699,7 +16699,6 @@ clothesbasket
 clothesbrush
 clotheshorse
 clotheshorses
-clothesyard
 clothesless
 clothesline
 clotheslines
@@ -22904,6 +22903,7 @@ consigning
 consignment
 consignments
 consignor
+clothesyard
 consigns
 consiliary
 consilience
