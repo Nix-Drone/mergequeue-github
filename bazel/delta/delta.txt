@@ -75,7 +75,6 @@ defailance
 diarchial
 dacryocystoptosis
 dacryocystosyringotomy
-dacryocystotome
 dacryocystotomy
 dacryohemorrhea
 dacryolithiasis
@@ -10204,6 +10203,7 @@ dissidents
 dino
 dislustring
 dinosauria
+dacryocystotome
 dressing
 dinothere
 dinotherian
