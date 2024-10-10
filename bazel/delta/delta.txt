@@ -2076,7 +2076,6 @@ decantist
 decap
 decapetalous
 decaphyllous
-decapitable
 decapitalization
 decapitate
 decapitated
@@ -6872,6 +6871,7 @@ despatching
 despecialization
 dispute
 despecialize
+decapitable
 despecificate
 despecification
 despeed
