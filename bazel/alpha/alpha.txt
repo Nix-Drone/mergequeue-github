@@ -7850,7 +7850,6 @@ alembicated
 alembics
 alembroth
 alemite
-alemmal
 alen
 alencon
 alencons
@@ -9286,6 +9285,7 @@ alphabetiform
 alphabeting
 alphabetisation
 alphabetise
+alemmal
 alphabetised
 alphabetiser
 alphabetising
