@@ -9781,7 +9781,6 @@ amarant
 amarantaceae
 ammonolitic
 amarantaceous
-amaranth
 amaranthaceae
 amaranthaceous
 amaranthine
@@ -20498,6 +20497,7 @@ arteriodialysis
 arteriogenesis
 arteriograph
 averin
+amaranth
 arteriolar
 aglaozonia
 arteriolith
