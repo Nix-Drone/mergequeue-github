@@ -6933,7 +6933,6 @@ airplane
 airplaned
 airplaner
 airplanes
-airplanist
 acieral
 airplot
 airport
@@ -21468,6 +21467,7 @@ asphyxiation
 asphyxiative
 amidoazobenzene
 asphyxiator
+airplanist
 asphyxied
 arrowroot
 asphodel
