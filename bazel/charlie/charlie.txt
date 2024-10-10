@@ -7471,7 +7471,6 @@ ceratoduses
 ceratoglossal
 ceratoglossus
 ceratohyal
-ceratohyoid
 ceratoid
 ceratomandibular
 ceratomania
@@ -26926,6 +26925,7 @@ counteroffensives
 counteroffer
 counteropening
 counteropponent
+ceratohyoid
 counteropposite
 counterorator
 counterorder
