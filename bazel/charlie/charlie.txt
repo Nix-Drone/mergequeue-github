@@ -16306,6 +16306,7 @@ clipboard
 clipboards
 clype
 clypeal
+convoys
 clypeastridea
 clypeastrina
 clypeastroid
@@ -24202,7 +24203,6 @@ convocator
 convoy
 convoyed
 convoying
-convoys
 convoke
 convoked
 convoker
