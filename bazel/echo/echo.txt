@@ -6690,7 +6690,6 @@ enterons
 euplotid
 enormously
 enteroparesis
-enteropathy
 enculturative
 enteropexia
 extraduction
@@ -10742,6 +10741,7 @@ eudiagnostic
 eudiometer
 eudiometry
 eudiometric
+enteropathy
 eudiometrical
 eudiometrically
 eudist
