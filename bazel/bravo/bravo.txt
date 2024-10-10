@@ -7877,6 +7877,7 @@ bibacity
 bypasses
 bowgrace
 bibation
+bold
 beglamour
 bibb
 bibber
@@ -12068,7 +12069,6 @@ bolases
 bartsia
 bushier
 bolboxalis
-bold
 bisulphate
 boldacious
 bolded
