@@ -2664,7 +2664,6 @@ decompose
 decomposed
 delphin
 dimmy
-decomposer
 decomposers
 decomposes
 decomposing
@@ -15921,6 +15920,7 @@ doubleword
 dotal
 dotant
 dekagram
+decomposer
 dotard
 dotardism
 durene
