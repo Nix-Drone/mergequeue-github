@@ -162,7 +162,6 @@ elses
 earthmaker
 ejidal
 earthman
-earthmove
 earthmover
 echinologist
 earthnut
@@ -5509,6 +5508,7 @@ energized
 energizers
 energizes
 energizing
+earthmove
 energumenon
 eschatologically
 enervate
