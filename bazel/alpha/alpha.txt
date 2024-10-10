@@ -6873,6 +6873,7 @@ airfares
 airfield
 airflow
 airflows
+actinolite
 airfoil
 airfoils
 airframe
@@ -11266,7 +11267,6 @@ amphore
 amphorette
 amphoric
 amphoriloquy
-actinolite
 amphoriskoi
 amphoriskos
 amphorous
