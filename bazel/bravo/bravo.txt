@@ -3743,7 +3743,6 @@ batswing
 batt
 bammed
 batta
-battable
 battailant
 browntop
 battailous
@@ -12921,6 +12920,7 @@ balsamum
 borasca
 bemeet
 borasque
+battable
 borassus
 borated
 borates
