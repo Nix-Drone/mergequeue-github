@@ -7612,7 +7612,6 @@ cerebrogalactose
 cerebroganglion
 cerebroganglionic
 cerebroid
-cerebroma
 cerebromalacia
 cerebromeningeal
 cerebromeningitis
@@ -15557,6 +15556,7 @@ clart
 customary
 commensality
 chivarras
+cerebroma
 clarty
 clartier
 clartiest
