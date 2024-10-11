@@ -3187,6 +3187,7 @@ delphacid
 defeat
 defeated
 directs
+dovelikeness
 drusean
 defeatee
 drowsihood
@@ -16162,7 +16163,6 @@ dovekeys
 dovekies
 dovelet
 dovelike
-dovelikeness
 doveling
 discepting
 dovened
