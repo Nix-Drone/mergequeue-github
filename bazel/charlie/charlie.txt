@@ -15179,7 +15179,6 @@ clachans
 clachs
 clack
 clackama
-circumtropical
 clacker
 clackers
 clacket
@@ -20649,6 +20648,7 @@ complementation
 complementative
 complemented
 complementer
+circumtropical
 complementers
 complementing
 complementizer
