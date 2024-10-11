@@ -3129,7 +3129,6 @@ baculite
 bipropellant
 bascules
 bascunan
-base
 baseball
 bojite
 belzebuth
@@ -13645,6 +13644,7 @@ bourrides
 briefs
 bourse
 bourtree
+base
 bezonian
 bouse
 boused
