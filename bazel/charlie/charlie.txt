@@ -14750,7 +14750,6 @@ cystospore
 cystostomy
 cystostomies
 cystotome
-cystotomy
 cystotomies
 castellan
 cystotrachelotomy
@@ -26892,6 +26891,7 @@ countermanding
 countermaneuver
 countermanifesto
 countermanifestoes
+cystotomy
 colorable
 cunningaire
 canephroi
