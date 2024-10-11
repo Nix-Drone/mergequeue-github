@@ -12778,7 +12778,6 @@ dismortgaged
 dismortgaging
 dismountable
 dismounted
-dismounting
 dismounts
 dismutation
 dummied
@@ -14671,6 +14670,7 @@ dockyardman
 dockyards
 dukkha
 dockization
+dismounting
 dockland
 dobras
 docklands
