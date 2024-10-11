@@ -286,6 +286,7 @@ fadeless
 faden
 fadeout
 fader
+foregoing
 faders
 fadge
 forra
@@ -6131,7 +6132,6 @@ fashioning
 flourishingly
 flourless
 flours
-foregoing
 falcated
 fangled
 factum
