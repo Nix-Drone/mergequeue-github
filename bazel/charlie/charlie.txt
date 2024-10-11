@@ -7865,6 +7865,7 @@ cervixes
 cervoid
 cervuline
 cervulus
+chemigraph
 cervus
 cesare
 cesarean
@@ -9847,7 +9848,6 @@ chemicophysiological
 curtaining
 chemicovital
 chemiculture
-chemigraph
 chemigraphy
 chemigraphic
 chemigraphically
