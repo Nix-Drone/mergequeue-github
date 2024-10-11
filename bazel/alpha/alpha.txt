@@ -817,6 +817,7 @@ abreactions
 abreacts
 abreast
 archenteric
+anatomicophysiologic
 abreed
 abreid
 abrenounce
@@ -12060,7 +12061,6 @@ anatomicomedical
 anatomicopathologic
 anatomicopathological
 acronyms
-anatomicophysiologic
 arteriofibrosis
 anatomies
 anatomiless
