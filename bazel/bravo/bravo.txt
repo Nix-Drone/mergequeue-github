@@ -3814,7 +3814,6 @@ battleplane
 barnstorms
 battler
 battles
-battleship
 battleships
 buhr
 battlesome
@@ -6709,6 +6708,7 @@ bungy
 bergs
 bodegon
 bergsonian
+battleship
 bergsonism
 berhymed
 beribanded
