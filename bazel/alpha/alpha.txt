@@ -1755,7 +1755,6 @@ accruable
 accrual
 accruals
 accrue
-accrued
 accruement
 accruer
 accrues
@@ -6282,6 +6281,7 @@ agnominal
 antirennet
 agnomination
 agnosy
+accrued
 agnosia
 agnosias
 agnostic
