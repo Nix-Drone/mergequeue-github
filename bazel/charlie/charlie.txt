@@ -6199,7 +6199,6 @@ caulophyllum
 caulopteris
 caulosarc
 caulotaxy
-caulotaxis
 caulote
 cauls
 caum
@@ -31272,6 +31271,7 @@ curch
 curchef
 curchy
 curcuddoch
+caulotaxis
 curculio
 curculionid
 curculionidae
