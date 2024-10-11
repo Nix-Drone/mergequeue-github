@@ -5770,7 +5770,6 @@ belknap
 bell
 bellacoola
 belladonna
-biltongs
 bellatrix
 burglar
 bellbind
@@ -8963,6 +8962,7 @@ biocoenose
 biocoenoses
 biocoenotic
 biodegradability
+biltongs
 biodegradable
 biodegradation
 becassocked
