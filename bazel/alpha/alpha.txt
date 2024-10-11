@@ -10254,7 +10254,6 @@ amentias
 amentiferae
 amentiform
 aments
-amentulum
 amentum
 amenuse
 adeling
@@ -11908,6 +11907,7 @@ anapnograph
 anapnoic
 anapnometer
 anapodeictic
+amentulum
 anapophyses
 anapophysial
 anapsid
