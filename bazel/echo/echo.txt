@@ -4101,7 +4101,6 @@ emendately
 emphaticalness
 emphemeralness
 emphysema
-emphyteusis
 emphyteuta
 emphyteutic
 emphlysis
@@ -7733,6 +7732,7 @@ epidemy
 epidemial
 enthymematical
 epidemic
+emphyteusis
 eulogically
 epidemical
 entrancer
