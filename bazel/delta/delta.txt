@@ -2726,7 +2726,6 @@ deconventionalize
 deconvolution
 deconvolve
 decopperization
-decopperize
 decor
 decorability
 decorable
@@ -4483,6 +4482,7 @@ demeanors
 demeanour
 demegoric
 demele
+decopperize
 demembration
 demembre
 deonerate
