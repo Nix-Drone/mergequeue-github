@@ -2481,6 +2481,7 @@ decl
 declaim
 dichorisandra
 declaimant
+dishes
 declaimer
 declaimers
 declaims
@@ -12325,7 +12326,6 @@ disheritment
 deforms
 disheritor
 disherits
-dishes
 dwellers
 disposable
 disheveled
