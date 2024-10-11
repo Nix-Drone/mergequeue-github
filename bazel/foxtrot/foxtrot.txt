@@ -73,6 +73,7 @@ facemark
 faceoff
 fermentations
 facepiece
+fuseboard
 fisticuffs
 faces
 facesaving
@@ -11564,7 +11565,6 @@ fuscohyaline
 fuscous
 fuseau
 fistic
-fuseboard
 fused
 fusees
 fusel
