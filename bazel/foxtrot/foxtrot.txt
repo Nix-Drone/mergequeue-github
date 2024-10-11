@@ -5946,6 +5946,7 @@ fluidizing
 floorless
 floors
 fiddleback
+faying
 floorshift
 fawny
 floorshifts
@@ -8766,7 +8767,6 @@ fortuitism
 forgiver
 fortuitous
 feiseanna
-faying
 fortuitously
 fortuitus
 frizzled
