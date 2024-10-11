@@ -2690,6 +2690,7 @@ barkey
 barken
 beknights
 barkentine
+blocks
 barkentines
 barker
 barkery
@@ -11030,7 +11031,6 @@ blocklike
 broil
 blockmaker
 blockpate
-blocks
 bhunder
 blockship
 blocs
