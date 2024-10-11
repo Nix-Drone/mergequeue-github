@@ -1901,7 +1901,6 @@ bandboxical
 bandcase
 bandcutter
 bande
-bandeau
 bandeaux
 betula
 banded
@@ -7953,6 +7952,7 @@ bismuthite
 bibliologist
 biometrics
 bibliomancy
+bandeau
 bibliomane
 bibliomania
 boskiness
