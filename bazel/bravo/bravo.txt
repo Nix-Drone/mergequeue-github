@@ -9775,6 +9775,7 @@ bystreets
 bistres
 bistriate
 bistro
+buttonholer
 bottleholder
 bistroic
 boos
@@ -18317,7 +18318,6 @@ buttoner
 buttonholder
 buttonhole
 betell
-buttonholer
 bedel
 buttonholes
 buttonholing
