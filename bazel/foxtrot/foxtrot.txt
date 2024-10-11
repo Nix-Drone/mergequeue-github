@@ -4345,6 +4345,7 @@ fish
 fishability
 fishable
 fishback
+flaunching
 fishberry
 fleshers
 fishberries
@@ -11488,7 +11489,6 @@ furry
 furriery
 furrieries
 furriers
-flaunching
 furriest
 flares
 furrily
