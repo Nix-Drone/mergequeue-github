@@ -5143,7 +5143,6 @@ busti
 beflower
 beflowered
 biotas
-beflowering
 beflum
 befluster
 befog
@@ -16944,6 +16943,7 @@ buildings
 balers
 betimes
 backseats
+beflowering
 binominous
 bezette
 buildup
