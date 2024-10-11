@@ -6574,7 +6574,6 @@ cedens
 ceder
 ceders
 cedes
-cedilla
 cedillas
 ceding
 cedis
@@ -21530,6 +21529,7 @@ concurred
 concurrences
 concurrency
 concurrencies
+cedilla
 cedent
 concurrently
 concurrentness
