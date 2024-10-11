@@ -2498,7 +2498,6 @@ bardlike
 burut
 bardling
 beswinge
-bardo
 bardocucullus
 bardolater
 bromoiodide
@@ -8563,6 +8562,7 @@ biliary
 breves
 biliation
 bilic
+bardo
 bilifaction
 biliferous
 backfall
