@@ -103,7 +103,6 @@ faciation
 forequoted
 facie
 freeport
-fibroelastic
 faciend
 faciends
 facient
@@ -10139,6 +10138,7 @@ flagitate
 fripperer
 frippery
 frankensteins
+fibroelastic
 fris
 fluoresage
 frisado
