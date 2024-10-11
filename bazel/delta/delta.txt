@@ -1314,7 +1314,6 @@ demissive
 daunting
 dauntingly
 drawboard
-dauntless
 dauntlessly
 dauntlessness
 disespouse
@@ -7546,6 +7545,7 @@ devaunt
 devchar
 deveined
 deveining
+dauntless
 devel
 develed
 denaturising
