@@ -20219,7 +20219,6 @@ arrestant
 albi
 arrestation
 anophyte
-arrested
 arrestees
 arrester
 arresters
@@ -22188,6 +22187,7 @@ astream
 astrean
 astrer
 astricted
+arrested
 astricting
 antigrammatically
 amplexation
