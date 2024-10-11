@@ -11355,7 +11355,6 @@ blueheads
 bombers
 bluehearted
 bluehearts
-bluey
 blueys
 bluejack
 bluejacket
@@ -15923,6 +15922,7 @@ bromohydrate
 bigeyes
 bromohydrin
 bromoil
+bluey
 bromoiodid
 bromoiodism
 battle
