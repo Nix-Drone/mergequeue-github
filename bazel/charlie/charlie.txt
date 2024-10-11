@@ -18362,7 +18362,6 @@ cogweels
 capelets
 cogwheels
 cogwood
-cohabitancy
 cohabitant
 cohabitate
 cohabitation
@@ -29864,6 +29863,7 @@ crossfoot
 crossgrainedness
 crosshackle
 crosshair
+cohabitancy
 crosshairs
 crosshand
 crosshatch
