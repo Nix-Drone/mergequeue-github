@@ -4737,7 +4737,6 @@ ersatzes
 ease
 enciphered
 enciphering
-encipherment
 evolutional
 encipherments
 epigean
@@ -13590,6 +13589,7 @@ exteriorising
 exteriority
 eugeosyncline
 epithalamiums
+encipherment
 exteriorize
 ejects
 encomiendas
