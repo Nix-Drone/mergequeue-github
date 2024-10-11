@@ -1099,7 +1099,6 @@ farmost
 farmout
 fasteners
 fisc
-farms
 farmscape
 farmsteads
 farmtown
@@ -6718,6 +6717,7 @@ fogbank
 fogbound
 fogbow
 flyblow
+farms
 fogdogs
 fairways
 fogdom
