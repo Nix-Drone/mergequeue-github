@@ -6239,7 +6239,6 @@ agnails
 agname
 agnamed
 agnat
-agnate
 agnates
 agnatha
 agnathia
@@ -23640,6 +23639,7 @@ aurore
 aurorian
 aurorium
 aurotellurite
+agnate
 aurothiosulphate
 additionally
 aurrescu
