@@ -10392,7 +10392,6 @@ diphenan
 diphenhydramine
 diphenyl
 diphenylacetylene
-diphenylamine
 diphenylaminechlorarsine
 diphenylchloroarsine
 diphenylene
@@ -16514,6 +16513,7 @@ draconis
 draconites
 dracontian
 dracontiasis
+diphenylamine
 deviascope
 dandies
 dracontic
