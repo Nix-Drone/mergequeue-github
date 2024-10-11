@@ -3174,6 +3174,7 @@ defaultant
 defaulted
 defaultless
 defaults
+delint
 defaulture
 dowie
 defeasance
@@ -4184,7 +4185,6 @@ delinquencies
 delinquent
 dysmenorrhagia
 delinquently
-delint
 dacryohelcosis
 deliquate
 deliquesce
