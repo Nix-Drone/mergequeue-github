@@ -10952,6 +10952,7 @@ allocaffeine
 amours
 amovability
 amovable
+autological
 amuser
 altitudinous
 amove
@@ -24164,7 +24165,6 @@ autoloader
 autoloaders
 autoloading
 autology
-autological
 autologist
 autologous
 autoluminescence
