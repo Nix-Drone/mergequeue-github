@@ -5948,6 +5948,7 @@ floors
 fiddleback
 floorshift
 fawny
+freebooter
 floorshifts
 floorshow
 floorway
@@ -9670,7 +9671,6 @@ freeboard
 freeboot
 frescos
 freebooted
-freebooter
 freebooters
 freebooty
 freckened
