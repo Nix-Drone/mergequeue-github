@@ -5457,7 +5457,6 @@ gilsonite
 glycolipine
 glycolysis
 glycolytic
-glycollate
 goldarn
 guigne
 goldthread
@@ -8503,6 +8502,7 @@ gravure
 grazable
 gastight
 grazed
+glycollate
 grazer
 gradus
 globated
