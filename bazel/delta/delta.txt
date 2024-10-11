@@ -4547,7 +4547,6 @@ demibarrel
 demibastion
 demibastioned
 demibath
-demibeast
 demibelt
 demibrassart
 demibrigade
@@ -8821,6 +8820,7 @@ dicarpellary
 dispreader
 dicastery
 dicasteries
+demibeast
 dicastic
 dodecylene
 dicasts
