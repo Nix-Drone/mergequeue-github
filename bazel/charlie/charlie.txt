@@ -9565,7 +9565,6 @@ checkroom
 compathy
 checkrooms
 checkrope
-checkrow
 checkrower
 checkrowing
 consummatively
@@ -11745,6 +11744,7 @@ chondroclasis
 chondrocoracoid
 chondrocranial
 coendured
+checkrow
 chondrodystrophy
 chondrodystrophia
 chondroditic
