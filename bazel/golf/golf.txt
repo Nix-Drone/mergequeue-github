@@ -8226,7 +8226,6 @@ grassfinch
 grapple
 grappled
 grappler
-grapples
 grappling
 grapsidae
 grapsus
@@ -10006,6 +10005,7 @@ gudesire
 glagolitsa
 gudewife
 gutti
+grapples
 gudge
 gudgeon
 gauntly
