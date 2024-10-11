@@ -4813,7 +4813,6 @@ gyrostats
 gyrotheca
 girouette
 gastroduodenostomies
-gazet
 gyrous
 gyrovagues
 girrit
@@ -5137,6 +5136,7 @@ gossipper
 glanduliferous
 giron
 glanduligerous
+gazet
 grogshops
 gazee
 glandulosity
