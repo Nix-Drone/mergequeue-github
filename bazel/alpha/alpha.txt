@@ -9062,7 +9062,6 @@ almadie
 almagests
 almagra
 alman
-abaft
 authenticatable
 almanacs
 almander
@@ -14135,6 +14134,7 @@ antefact
 antefix
 antefixa
 anteflected
+abaft
 anteflexed
 anteflexion
 antefurca
