@@ -2464,7 +2464,6 @@ dateline
 decke
 deckedout
 deckel
-deckels
 decken
 decker
 daphnioid
@@ -5466,6 +5465,7 @@ denumerable
 denumerably
 degradation
 denumeral
+deckels
 denumerant
 denumerantive
 denumerative
