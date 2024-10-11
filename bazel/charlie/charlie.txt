@@ -23867,7 +23867,6 @@ controled
 controling
 controllability
 controllable
-controllableness
 controllably
 controlled
 controller
@@ -25734,6 +25733,7 @@ countersecure
 caddish
 corroborative
 carination
+controllableness
 corroboratively
 corroborator
 chrism
