@@ -1839,7 +1839,6 @@ apectomy
 accusatorial
 accusatrix
 accusatrixes
-accuse
 accused
 accuser
 accusers
@@ -21876,6 +21875,7 @@ assoin
 assonanced
 assonances
 assonant
+accuse
 assonantal
 acaridomatium
 assonantic
