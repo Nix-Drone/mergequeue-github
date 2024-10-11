@@ -13827,7 +13827,6 @@ bowshots
 bowsie
 bowsing
 bowsprit
-bowsprits
 brokenhearted
 bowstave
 bowstring
@@ -15833,6 +15832,7 @@ bedirties
 bromamide
 barrows
 bromargyrite
+bowsprits
 bromate
 beelol
 bromating
