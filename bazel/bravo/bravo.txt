@@ -554,7 +554,6 @@ backtracks
 backtrail
 backups
 backus
-backveld
 backvelder
 backway
 backwall
@@ -11198,6 +11197,7 @@ blottesque
 bezels
 blotty
 blottier
+backveld
 blottiest
 blotting
 bescouring
