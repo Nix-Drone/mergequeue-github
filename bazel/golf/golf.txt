@@ -1820,7 +1820,6 @@ gastrointestinal
 gastightness
 grassquit
 gastrojejunostomy
-gastrojejunostomies
 gastrolater
 grunted
 gastrolavage
@@ -5521,6 +5520,7 @@ gunroom
 guanine
 geomantical
 grandpaternal
+gastrojejunostomies
 glimes
 gliming
 griddles
