@@ -7554,7 +7554,6 @@ gpm
 gps
 gr
 gies
-glucogenic
 graafian
 graal
 grab
@@ -8856,6 +8855,7 @@ grenadier
 grenadierial
 grenadierly
 grenadiers
+glucogenic
 grenadin
 grenat
 grenatite
