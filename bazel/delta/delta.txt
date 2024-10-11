@@ -13830,7 +13830,6 @@ distillmint
 distilment
 distils
 distinct
-distinctify
 distinctio
 divagations
 distinction
@@ -14667,6 +14666,7 @@ dockets
 dockhand
 dockhouse
 dockyard
+distinctify
 dockyardman
 dockyards
 dukkha
