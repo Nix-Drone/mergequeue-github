@@ -4822,7 +4822,6 @@ flagstick
 falconers
 flagworm
 flay
-feridji
 flayed
 fault
 front
@@ -4972,6 +4971,7 @@ falconries
 fringilliform
 fireshaft
 flanking
+feridji
 flanks
 faineantise
 flankwise

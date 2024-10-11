@@ -585,7 +585,6 @@ detains
 damars
 damascene
 devocate
-damascened
 damascener
 damascenes
 damascenine
@@ -3275,6 +3274,7 @@ defensibility
 defensibleness
 defensibly
 defensive
+damascened
 defensively
 defensiveness
 defensor
