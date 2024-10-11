@@ -5020,6 +5020,7 @@ endevil
 endexine
 endexines
 eardrum
+eolithic
 endgate
 enfief
 endhand
@@ -7319,7 +7320,6 @@ eole
 eolian
 eolipile
 eolipiles
-eolithic
 eolopile
 eolopiles
 eggnogs
