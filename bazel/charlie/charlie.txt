@@ -5634,7 +5634,6 @@ catcall
 catcalled
 catcaller
 catcalls
-catch
 catchable
 catchall
 catchcry
@@ -31099,6 +31098,7 @@ conscripts
 cupellers
 cupelling
 cupels
+catch
 cupful
 cupfulfuls
 cupfuls
