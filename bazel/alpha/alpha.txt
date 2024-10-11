@@ -3273,7 +3273,6 @@ arborvitaes
 anacahuita
 actuate
 actuated
-actuates
 actuating
 actuation
 actuator
@@ -11173,6 +11172,7 @@ avidious
 amphipodiform
 alterants
 amphipodous
+actuates
 amphiprostylar
 amphiprotic
 amphirhina
