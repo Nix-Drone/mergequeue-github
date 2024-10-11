@@ -2934,7 +2934,6 @@ feudatorial
 feudatories
 feuded
 fakers
-fingerparted
 feudee
 feuder
 flock
@@ -5846,6 +5845,7 @@ flocculation
 flocculator
 forts
 fencing
+fingerparted
 floccule
 flocculence
 furans
