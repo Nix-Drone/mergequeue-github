@@ -12683,7 +12683,6 @@ bookmarks
 bookmate
 bookmobile
 bookmobiles
-bookplate
 bookplates
 barwise
 bookpress
@@ -18338,6 +18337,7 @@ buttressed
 buttle
 buttresses
 buttressing
+bookplate
 buttressless
 buttresslike
 butts
