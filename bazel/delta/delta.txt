@@ -4260,7 +4260,6 @@ delocalising
 delocalization
 delocalize
 delocalizing
-delomorphic
 delomorphous
 deloo
 deloul
@@ -9049,6 +9048,7 @@ disembattle
 draggles
 dictyopteris
 dictyosiphon
+delomorphic
 dictyosiphonaceae
 dictyosiphonaceous
 dictyosome
