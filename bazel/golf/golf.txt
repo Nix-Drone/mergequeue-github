@@ -2877,7 +2877,6 @@ genoms
 genonema
 gph
 genos
-gerrymandered
 genospecies
 genotype
 gobinism
@@ -3520,6 +3519,7 @@ gimme
 gerrymanderer
 gerrymanders
 gers
+gerrymandered
 gersdorffite
 gershon
 girlfriends
