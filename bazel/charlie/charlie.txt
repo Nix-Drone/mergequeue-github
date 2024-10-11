@@ -7907,6 +7907,7 @@ cessor
 countermission
 cesspipe
 cesspit
+codpieces
 cesspits
 centipede
 clamors
@@ -17834,7 +17835,6 @@ crystallographical
 codons
 citola
 codpiece
-codpieces
 childbirth
 codpitchings
 cods
