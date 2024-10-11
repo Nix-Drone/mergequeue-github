@@ -3774,7 +3774,6 @@ bread
 batterable
 battercake
 batterdock
-battered
 bootstrap
 batterer
 bkcy
@@ -16437,6 +16436,7 @@ buffa
 brusquerie
 brusquest
 brussel
+battered
 brussels
 brustle
 brustling
