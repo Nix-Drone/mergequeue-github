@@ -2333,7 +2333,6 @@ achromats
 achromaturia
 achromia
 achromic
-achromobacter
 achromobacterieae
 achromoderma
 achromophilous
@@ -18139,6 +18138,7 @@ abatises
 apsis
 adsorptive
 apt
+achromobacter
 aventurine
 aptal
 aptate
