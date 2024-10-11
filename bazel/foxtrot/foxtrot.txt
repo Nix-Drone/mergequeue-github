@@ -1461,6 +1461,7 @@ fylgjur
 fats
 fatshedera
 ferahan
+ftncmd
 fatsia
 fatso
 fatsoes
@@ -10801,7 +10802,6 @@ forinsec
 fth
 fthm
 forwardation
-ftncmd
 featherlet
 frenetic
 fu
