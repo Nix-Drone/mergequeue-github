@@ -1699,6 +1699,7 @@ four
 fdnames
 fdtype
 fdub
+fractals
 fortuitousness
 fe
 forksmith
@@ -3331,7 +3332,6 @@ fidget
 fidgetation
 fidgeted
 flitching
-fractals
 fidgetily
 fibroangioma
 fidgeting
