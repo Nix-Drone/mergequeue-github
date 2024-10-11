@@ -2502,7 +2502,6 @@ deutzias
 declarator
 declaratory
 declaratorily
-declarators
 declare
 declaredly
 declaredness
@@ -16000,6 +15999,7 @@ doublehanded
 doublehandedly
 denned
 doublehatching
+declarators
 doubleheader
 doubleheaders
 detrimentality
