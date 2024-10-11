@@ -2433,7 +2433,6 @@ candlestickward
 candlewaster
 candlewasting
 candlewick
-candlewicking
 candlewicks
 candlewright
 candling
@@ -8308,6 +8307,7 @@ chalcids
 chalcioecus
 chalcis
 chalcites
+candlewicking
 chalcocite
 chalcogen
 chalcogenide
