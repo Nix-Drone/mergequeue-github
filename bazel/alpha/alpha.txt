@@ -1528,7 +1528,6 @@ accidentalness
 accidentary
 anonymous
 accidented
-alphabets
 accidential
 accidentiality
 accidently
@@ -5725,6 +5724,7 @@ afterwards
 afterwhile
 archchief
 afterwisdom
+alphabets
 afterwise
 afterword
 afterwork
