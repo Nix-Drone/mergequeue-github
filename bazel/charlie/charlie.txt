@@ -9954,7 +9954,6 @@ chemotherapeutic
 chemotherapeutical
 chemotherapeutically
 chemotherapeutics
-chemotherapy
 chemotherapies
 chemotherapist
 chemotherapists
@@ -11488,6 +11487,7 @@ choir
 choirboy
 choirboys
 choired
+chemotherapy
 choirgirl
 choiring
 choirlike
