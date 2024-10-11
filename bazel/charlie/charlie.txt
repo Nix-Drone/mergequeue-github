@@ -9659,6 +9659,7 @@ catholiciser
 cheeros
 cheers
 cheeseboard
+civilizations
 cheesebox
 cheeseburger
 cheeseburgers
@@ -15130,7 +15131,6 @@ civilizable
 civilization
 civilizational
 civilizationally
-civilizations
 chrysocolla
 civilizatory
 civilized
