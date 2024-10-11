@@ -15980,7 +15980,6 @@ clergess
 clergy
 clergyable
 clergylike
-cyclos
 clergion
 clergywoman
 clerical
@@ -20801,6 +20800,7 @@ composedly
 composedness
 composer
 composing
+cyclos
 composita
 compositae
 composite
