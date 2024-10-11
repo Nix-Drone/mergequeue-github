@@ -2683,7 +2683,6 @@ entrainer
 endomycetaceae
 electrothermometer
 electrothermostatic
-electrothermotic
 electrotype
 electrotyped
 electrotypes
@@ -3602,6 +3601,7 @@ exodontia
 empyrosis
 elotillo
 exemplifies
+electrothermotic
 embowelling
 embowelment
 embowels
