@@ -3005,6 +3005,7 @@ genuses
 geo
 geoagronomic
 geobiont
+gurnards
 geoblast
 geobotany
 galivant
@@ -10641,7 +10642,6 @@ goblet
 glycerols
 gurlet
 gurnard
-gurnards
 gurney
 giggish
 gurneyite
