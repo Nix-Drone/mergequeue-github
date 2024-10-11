@@ -2914,7 +2914,6 @@ acrologism
 arboriculturist
 acrologue
 acromastitis
-acromegaly
 acromegalia
 acromegalic
 acromegalies
@@ -15725,6 +15724,7 @@ antinormal
 antinormality
 antinormalness
 antinosarian
+acromegaly
 antinous
 antinovel
 antinovelist
