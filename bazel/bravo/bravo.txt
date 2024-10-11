@@ -356,7 +356,6 @@ backframe
 beknot
 backfriend
 borgh
-backfurrow
 backgame
 backgammon
 backgeared
@@ -517,6 +516,7 @@ backstays
 backster
 backstick
 backstitch
+backfurrow
 backstitched
 backstitches
 backstitching
