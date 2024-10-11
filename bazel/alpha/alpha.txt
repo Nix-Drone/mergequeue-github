@@ -4444,7 +4444,6 @@ adsum
 adterminal
 adtevac
 aduana
-adular
 adularescence
 assertorial
 adularescent
@@ -13733,6 +13732,7 @@ anole
 anoli
 anolian
 amorphophyte
+adular
 anolympiad
 anolis
 anolyte
