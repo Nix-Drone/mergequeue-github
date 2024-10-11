@@ -16864,7 +16864,6 @@ drawsheet
 drawspring
 drawstop
 dispersible
-dribbet
 dropforging
 dinoceratid
 drawstrings
@@ -17317,6 +17316,7 @@ dromedarian
 dzo
 dromedaries
 drometer
+dribbet
 dromic
 dromiceius
 dromioid
