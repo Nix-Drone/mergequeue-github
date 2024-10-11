@@ -1429,6 +1429,7 @@ dialects
 dazzlers
 dwindle
 dazzlingly
+dynamos
 dazzlingness
 db
 dbl
@@ -10033,7 +10034,6 @@ descriptions
 dynamomorphic
 dynamoneure
 dynamophone
-dynamos
 dynamostatic
 dynamotor
 durban
