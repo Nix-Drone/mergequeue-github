@@ -6879,7 +6879,6 @@ cembalo
 cembalon
 cembalos
 cement
-cementa
 cemental
 cementation
 coaugment
@@ -19391,6 +19390,7 @@ colorless
 colorlessly
 colorlessness
 colormaker
+cementa
 colormaking
 colorman
 coloroto
