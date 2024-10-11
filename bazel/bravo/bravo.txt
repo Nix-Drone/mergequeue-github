@@ -2967,6 +2967,7 @@ broad
 barrelled
 brattle
 barrelmaker
+boardy
 barrelmaking
 birdwomen
 barrelwise
@@ -11543,7 +11544,6 @@ boardbill
 boarded
 boarder
 boarders
-boardy
 boardinghouse
 boardings
 boardly
