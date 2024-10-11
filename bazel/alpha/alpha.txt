@@ -1757,7 +1757,6 @@ accruals
 accrue
 accrued
 accruement
-accruer
 accrues
 accruing
 accts
@@ -4742,6 +4741,7 @@ aedoeagi
 aedoeagus
 aedoeology
 aefald
+accruer
 aefaldy
 aefauld
 aegagri
