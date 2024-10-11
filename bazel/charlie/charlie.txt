@@ -3948,7 +3948,6 @@ carder
 carders
 cardholder
 cardia
-cardiac
 cardiacea
 cardiacean
 cardiacle
@@ -25317,6 +25316,7 @@ cornerer
 cornering
 cornerman
 cornerpiece
+cardiac
 cornerstone
 cornerstones
 cornerways
