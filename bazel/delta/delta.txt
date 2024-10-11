@@ -11899,7 +11899,6 @@ disembarkation
 disembarkations
 disembarked
 disembarking
-dentoid
 disembarks
 disembarrass
 disembarrassed
@@ -12389,6 +12388,7 @@ disidentify
 disilane
 disilicane
 dancette
+dentoid
 disilicate
 disilicide
 disyllabic
