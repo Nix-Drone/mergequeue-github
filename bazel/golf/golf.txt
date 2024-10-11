@@ -908,6 +908,7 @@ gambirs
 gambist
 gambits
 gonotocont
+globing
 guillemot
 gamble
 gambler
@@ -1251,7 +1252,6 @@ garial
 ganton
 gantries
 gantsl
-globing
 ganza
 groundless
 ganzie
