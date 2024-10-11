@@ -2786,7 +2786,6 @@ barodynamics
 barognosis
 barogram
 barograms
-barograph
 barographic
 bathtubs
 bilboquet
@@ -16580,6 +16579,7 @@ buccinum
 blend
 begging
 bigging
+barograph
 bucco
 buccocervical
 beerothite
