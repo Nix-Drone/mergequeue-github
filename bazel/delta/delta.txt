@@ -1685,7 +1685,6 @@ decostate
 diplopias
 deaspiration
 deassimilation
-deathbed
 deathbeds
 deathcup
 degree
@@ -9435,6 +9434,7 @@ digestibly
 digestif
 digesting
 digestion
+deathbed
 digestively
 digestiveness
 dermad
