@@ -7453,6 +7453,7 @@ byproduct
 betoya
 betoyan
 betoken
+boric
 bagworm
 birthdom
 busky
@@ -13013,7 +13014,6 @@ borghi
 borh
 bori
 babool
-boric
 borid
 boride
 bregmatic
