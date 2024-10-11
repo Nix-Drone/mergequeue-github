@@ -12663,7 +12663,6 @@ booklift
 booklike
 bookling
 booklists
-booklore
 bhavan
 bioecologic
 backtrackers
@@ -15697,6 +15696,7 @@ boutel
 brob
 brobdingnag
 brocade
+booklore
 brocaded
 bhaiachara
 brocades
