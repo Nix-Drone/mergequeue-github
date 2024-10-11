@@ -2676,7 +2676,6 @@ canoeist
 canoeists
 canoeload
 canoeman
-canoes
 canoewood
 crescendi
 cuprammonium
@@ -10208,6 +10207,7 @@ chevvy
 chew
 chewable
 chewbark
+canoes
 capsa
 chewed
 chewer
