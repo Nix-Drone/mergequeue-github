@@ -18190,7 +18190,6 @@ coffees
 counterview
 continuant
 coffeetime
-coffeewood
 coffer
 cofferdam
 cofferdams
@@ -27807,6 +27806,7 @@ crabmill
 crabs
 crabsidle
 crabstick
+coffeewood
 crabut
 crabweed
 crabwood
