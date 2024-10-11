@@ -20278,7 +20278,6 @@ chorographies
 communbus
 commune
 communed
-communer
 cashiers
 cric
 communes
@@ -28550,6 +28549,7 @@ creen
 creep
 consensual
 creepage
+communer
 creepages
 creepered
 centrosema
