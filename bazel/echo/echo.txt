@@ -198,6 +198,7 @@ electrize
 erythritic
 earthslide
 earthsmoke
+enviroment
 earthtongue
 earthwall
 earthwork
@@ -11268,7 +11269,6 @@ embezzle
 evadingly
 emprime
 evadne
-enviroment
 evagation
 evaginable
 evagination
