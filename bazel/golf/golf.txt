@@ -792,7 +792,6 @@ galvanism
 gratefullest
 goosewinged
 galvanization
-galvanized
 grigri
 gugglet
 galvanizer
@@ -6233,6 +6232,7 @@ gobang
 gnashingly
 gnast
 girr
+galvanized
 gnat
 gnatflower
 gnathal
