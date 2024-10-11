@@ -3771,7 +3771,6 @@ battening
 battens
 batter
 bread
-batterable
 battercake
 batterdock
 battered
@@ -15022,6 +15021,7 @@ bremely
 bremeness
 bremia
 bremsstrahlung
+batterable
 brenda
 boracites
 bemoan
