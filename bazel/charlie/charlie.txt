@@ -1622,6 +1622,7 @@ calotype
 calotypic
 calotypist
 calotte
+compartments
 calottes
 calp
 calpac
@@ -20481,7 +20482,6 @@ compartmentation
 crenelling
 compartmented
 compartmentize
-compartments
 compartner
 compass
 compassability
