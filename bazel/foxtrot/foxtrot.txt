@@ -2068,7 +2068,6 @@ filacer
 feinted
 feinter
 forestlike
-feinting
 feis
 flatlander
 fogbows
@@ -2897,6 +2896,7 @@ fettles
 frabjously
 fettlings
 freighted
+feinting
 fettucine
 firefighters
 fettucini
