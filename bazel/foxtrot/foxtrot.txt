@@ -4797,7 +4797,6 @@ flagons
 fasciolaria
 frontspiece
 flagpole
-faunula
 figurehead
 flagpoles
 flagrance
@@ -11143,6 +11142,7 @@ functionize
 fract
 functionlessness
 functionnaire
+faunula
 fumosity
 functions
 functor
