@@ -7476,7 +7476,6 @@ albumeniser
 albumenising
 albumenization
 armored
-albumenize
 albumenized
 announcer
 albumenizer
@@ -18265,6 +18264,7 @@ aquatinta
 aquatinted
 aquatinter
 aquatinting
+albumenize
 aquatintist
 aquatints
 aquation
