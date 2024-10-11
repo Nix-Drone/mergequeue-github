@@ -8304,7 +8304,6 @@ chalcididae
 chalcidiform
 chalcidoid
 chalcidoidea
-chalcids
 chalcioecus
 chalcis
 chalcites
@@ -17423,6 +17422,7 @@ cobias
 cobiron
 cobishop
 cobitis
+chalcids
 craniometer
 climacium
 coble
