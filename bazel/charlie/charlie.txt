@@ -9562,6 +9562,7 @@ checkrail
 checkrein
 checkroll
 checkroom
+claviature
 compathy
 checkrooms
 checkrope
@@ -15748,7 +15749,6 @@ clavers
 clavi
 chirres
 clavy
-claviature
 clavicembalist
 clavicembalo
 claviceps
