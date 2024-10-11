@@ -4626,6 +4626,7 @@ advertizable
 amulets
 advertized
 advertizement
+allows
 allobars
 advertizes
 advertizing
@@ -7660,7 +7661,6 @@ airmass
 alcoholmetric
 acroter
 adelpholite
-allows
 alcoholomania
 alcoholometer
 alcoholometry
