@@ -3707,7 +3707,6 @@ embrittled
 embrittling
 embryulci
 embryulcia
-extraboldface
 embryulculci
 expositionary
 etagre
@@ -5609,6 +5608,7 @@ enforceability
 enforced
 enforcement
 extranatural
+extraboldface
 enlisters
 epicontinental
 estamin
