@@ -2470,7 +2470,6 @@ decker
 daphnioid
 deckhand
 deckhead
-deckhouse
 deckle
 deckman
 deckpipe
@@ -5579,6 +5578,7 @@ departed
 dwining
 departer
 devastated
+deckhouse
 departisanize
 dehistoricize
 departition
