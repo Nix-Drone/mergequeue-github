@@ -5057,6 +5057,7 @@ casebooks
 casebound
 casebox
 cased
+crossfall
 casefy
 casefied
 casefies
@@ -29851,7 +29852,6 @@ crosses
 crossest
 cacophonical
 crossette
-crossfall
 crossfertilizable
 crossfired
 cooption
