@@ -11355,7 +11355,6 @@ chloropalladates
 chloropalladic
 chlorophaeite
 chlorophane
-chlorophenol
 chlorophenothane
 chlorophyceae
 convenee
@@ -17832,6 +17831,7 @@ codominant
 codon
 crystallographical
 codons
+chlorophenol
 citola
 codpiece
 codpieces
