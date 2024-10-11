@@ -2438,7 +2438,6 @@ bachelorlike
 barbre
 barbu
 barbula
-barbulate
 barbule
 barbulyie
 barbut
@@ -5641,6 +5640,7 @@ belatedness
 belating
 belaud
 belauded
+barbulate
 belauder
 belch
 bronzier
