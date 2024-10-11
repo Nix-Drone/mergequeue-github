@@ -2494,7 +2494,6 @@ acinotubular
 acinous
 anatomicophysiological
 aggrate
-acinus
 acipenser
 acipenseres
 aedes
@@ -5651,6 +5650,7 @@ aftermarriage
 aftermass
 aftermast
 aftermath
+acinus
 anguillule
 aphidians
 aftermaths
