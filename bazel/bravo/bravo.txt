@@ -1271,7 +1271,6 @@ bruke
 bromochlorophenol
 balaenicipites
 balaenidae
-balaenoid
 balaenoidea
 balaenoidean
 balaenoptera
@@ -5993,6 +5992,7 @@ beluchi
 belucki
 belue
 belugas
+balaenoid
 belute
 balloonist
 belvedere

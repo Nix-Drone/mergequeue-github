@@ -6406,6 +6406,7 @@ goats
 goatsbane
 goatsbeard
 genuclast
+ganoin
 goatskin
 goatskins
 goatstone
@@ -7560,7 +7561,6 @@ graal
 grab
 grabby
 grabbings
-ganoin
 gitaligenin
 gomerils
 grabble
