@@ -13475,7 +13475,6 @@ dissection
 dissections
 disfrequent
 dissectors
-dissects
 desperadoes
 disseise
 disseised
@@ -18183,6 +18182,7 @@ dundee
 dunderpates
 dundees
 deadlocks
+dissects
 dunder
 decurrent
 dunderbolt
