@@ -14408,6 +14408,7 @@ circumradius
 circumradiuses
 circumferent
 circumrenal
+controled
 circumrotate
 circumrotated
 circumrotation
@@ -23863,7 +23864,6 @@ contrivers
 contrives
 chironomy
 control
-controled
 controling
 controllability
 controllable
