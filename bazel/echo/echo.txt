@@ -7910,6 +7910,7 @@ epigraph
 epigrapher
 eftest
 epigraphy
+exposes
 egyptianization
 epigraphic
 epigraphical
@@ -13291,7 +13292,6 @@ exposals
 exposed
 exposedness
 exposers
-exposes
 exposing
 exposit
 expositing
