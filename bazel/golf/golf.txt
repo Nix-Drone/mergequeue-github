@@ -1780,7 +1780,6 @@ gastrodisk
 gastroduodenitis
 gastroduodenoscopy
 gastroduodenostomy
-gastroduodenotomy
 gastroelytrotomy
 gastroenteralgia
 gibson
@@ -9097,6 +9096,7 @@ grinning
 grinningly
 gravemaster
 grint
+gastroduodenotomy
 griot
 genoveva
 gareh
