@@ -79,6 +79,7 @@ gables
 gablet
 genapped
 gablewindowed
+golp
 gorst
 gogga
 gablewise
@@ -10569,7 +10570,6 @@ gunsel
 gunsels
 gilly
 gunship
-golp
 gunships
 gunshop
 graybeards
