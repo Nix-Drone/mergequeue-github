@@ -5175,7 +5175,6 @@ endogenesis
 endogeny
 eyebolt
 exorate
-endogenicity
 endogenies
 exundation
 endogenous
@@ -12086,6 +12085,7 @@ exampleship
 exclusion
 exclusionary
 eigenspace
+endogenicity
 exclusioner
 epsilon
 exclusionism
