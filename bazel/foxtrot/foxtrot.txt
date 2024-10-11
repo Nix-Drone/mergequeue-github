@@ -119,7 +119,6 @@ facilitating
 facilitation
 facilitations
 facilitative
-fromfile
 facility
 facilities
 facings
@@ -5463,6 +5462,7 @@ fleshless
 fleshlier
 fleshliest
 failingly
+fromfile
 fleshliness
 fleshling
 fleshmonger
