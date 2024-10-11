@@ -82,7 +82,6 @@ gablewindowed
 gorst
 gogga
 gablewise
-grapelet
 gabling
 gainsay
 gablock
@@ -4856,6 +4855,7 @@ gismondite
 gismos
 gynodioecism
 gist
+grapelet
 git
 guaranty
 goalpost
