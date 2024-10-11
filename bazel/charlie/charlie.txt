@@ -2474,6 +2474,7 @@ canephora
 canephorae
 canephore
 canephori
+circumradius
 canephoroi
 canephoros
 canephorus
@@ -14404,7 +14405,6 @@ circumposition
 condite
 circumquaque
 circumradii
-circumradius
 circumradiuses
 circumferent
 circumrenal
