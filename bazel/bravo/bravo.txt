@@ -2871,7 +2871,6 @@ butling
 barotaxis
 barothermogram
 bitis
-barothermograph
 barothermohygrograph
 baroto
 barotrauma
@@ -9416,6 +9415,7 @@ birdlike
 birdlimed
 birdlimes
 beadiness
+barothermograph
 birdliming
 birdlore
 becomings
