@@ -11174,7 +11174,6 @@ chlamydosporic
 chlamydozoa
 chlamydozoan
 chlamyphore
-chlamyphorus
 chlamys
 chlamyses
 chleuh
@@ -30400,6 +30399,7 @@ ctenoidei
 carrys
 ctenolium
 ctenophora
+chlamyphorus
 ctenophoral
 ctenophoran
 ctenophore
