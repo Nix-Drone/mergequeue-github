@@ -2379,7 +2379,6 @@ electrocutioner
 entrechat
 exanguin
 electrocutions
-emplaces
 electrode
 electrodeless
 entremets
@@ -5366,6 +5365,7 @@ elechi
 epigoneion
 ecalcavate
 epitendineum
+emplaces
 endothelial
 endothelioid
 evocatory
