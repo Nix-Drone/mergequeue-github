@@ -7067,6 +7067,7 @@ fonts
 furnitures
 foochowese
 food
+foreweigh
 foody
 foodless
 foodlessness
@@ -8158,7 +8159,6 @@ forewarns
 foreween
 federalise
 frontirostria
-foreweigh
 forewent
 forewing
 forewings
