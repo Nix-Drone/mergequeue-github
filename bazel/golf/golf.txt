@@ -3915,7 +3915,6 @@ giblet
 giblets
 giboia
 goyle
-glave
 gibsons
 gibstaff
 gibus
@@ -4544,6 +4543,7 @@ gallant
 gins
 gynodioecious
 grandezza
+glave
 gynoecia
 greatish
 gynoeciumcia
