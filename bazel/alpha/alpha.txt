@@ -3677,7 +3677,6 @@ adenography
 adenographic
 adenographical
 adenohypersthenia
-adenohypophyseal
 adenohypophysial
 attrib
 adenohypophysis
@@ -25226,6 +25225,7 @@ azaleas
 azan
 azande
 azarole
+adenohypophyseal
 azaserine
 azathioprine
 azazel
