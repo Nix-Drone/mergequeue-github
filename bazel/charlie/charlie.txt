@@ -23292,6 +23292,7 @@ consumptible
 consumption
 cicero
 consumptions
+cursiveness
 consumptive
 consumptively
 coordinates
@@ -31499,7 +31500,6 @@ cursitate
 cursitor
 cursive
 cursively
-cursiveness
 conveyal
 cursives
 cursor
