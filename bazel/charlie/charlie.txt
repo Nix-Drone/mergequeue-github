@@ -8833,7 +8833,6 @@ chaperonless
 chaperons
 chapes
 chapfallen
-chapfallenly
 chapin
 chapiter
 chapiters
@@ -26832,6 +26831,7 @@ countergauger
 countergift
 countergirded
 counterglow
+chapfallenly
 counterguard
 counterguerilla
 counterguerrilla
