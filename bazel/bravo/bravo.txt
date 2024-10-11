@@ -1908,6 +1908,7 @@ banded
 bandelet
 bandelette
 bandeng
+bituminise
 banderlog
 banderma
 banderol
@@ -9912,7 +9913,6 @@ berliner
 bituminiferous
 bituminisation
 biose
-bituminise
 bituminising
 bituminization
 bituminize
