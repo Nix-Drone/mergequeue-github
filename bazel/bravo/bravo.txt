@@ -15108,7 +15108,6 @@ breweries
 brewers
 brewership
 brewhouse
-beguilingness
 brewhouses
 brewing
 brewings
@@ -15196,6 +15195,7 @@ bricklayer
 bricklayers
 bisques
 bricklaying
+beguilingness
 brickle
 brickleness
 badderlocks
