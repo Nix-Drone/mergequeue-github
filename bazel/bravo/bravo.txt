@@ -4656,6 +4656,7 @@ bedchamber
 bratstva
 bedclothing
 bedcord
+bimorph
 byplays
 bedcovers
 beddable
@@ -8802,7 +8803,6 @@ bimodule
 bimodulus
 bimong
 bimonthlies
-bimorph
 bimorphs
 bimotor
 bimotored

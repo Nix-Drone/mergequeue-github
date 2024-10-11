@@ -1660,7 +1660,6 @@ accordances
 accordancy
 accordatura
 amphiphloic
-accordaturas
 accordature
 accorded
 accorder
@@ -18807,6 +18806,7 @@ archdeaconry
 archdeaconries
 archdeacons
 archdeaconship
+accordaturas
 archdean
 archdeanery
 archdeceiver
