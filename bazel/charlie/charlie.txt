@@ -3710,7 +3710,6 @@ carboline
 carbolineum
 carbolised
 carbolising
-carbolize
 carbolized
 carbolizes
 carbolizing
@@ -22156,6 +22155,7 @@ confustication
 confutability
 confutable
 confutation
+carbolize
 confutations
 confutator
 confute
