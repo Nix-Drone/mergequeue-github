@@ -1084,7 +1084,6 @@ farmerly
 farmerlike
 farmership
 farmhold
-farmhouse
 feronia
 farmhousey
 fontinalaceae
@@ -2018,6 +2017,7 @@ feedway
 fictions
 failsoft
 feeing
+farmhouse
 feel
 feeler
 feelers
