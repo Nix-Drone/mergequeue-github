@@ -2923,7 +2923,6 @@ electroanalysis
 elian
 eisodic
 enanthesis
-endoradiosonde
 elianic
 ephippial
 elias
@@ -3683,6 +3682,7 @@ embryomas
 embryon
 embryonal
 earthmoving
+endoradiosonde
 embryonary
 embryonated
 embryony
