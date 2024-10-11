@@ -3960,7 +3960,6 @@ bawra
 barrow
 bawrel
 badling
-bawsint
 bawsunt
 bawtie
 bawties
@@ -17835,6 +17834,7 @@ burrfish
 burrfishes
 burrgrailer
 burrhead
+bawsint
 burrheaded
 burrheadedness
 burriest
