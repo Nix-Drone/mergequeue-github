@@ -1780,7 +1780,6 @@ gastrodisk
 gastroduodenitis
 gastroduodenoscopy
 gastroduodenostomy
-gastroduodenotomy
 gastroelytrotomy
 gastroenteralgia
 gibson
@@ -3802,6 +3801,7 @@ ghostwrote
 giggler
 gretel
 glandulose
+gastroduodenotomy
 gutturotetany
 ghoulery
 goaled
