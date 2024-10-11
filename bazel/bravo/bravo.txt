@@ -1921,7 +1921,6 @@ bandersnatch
 bandfile
 bandfiled
 bandfish
-bandgap
 bandh
 brownism
 bandhava
@@ -5434,6 +5433,7 @@ balai
 behaviorists
 behaviour
 behavioural
+bandgap
 behaviourally
 behaviourism
 brisling
