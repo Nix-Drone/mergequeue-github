@@ -1908,7 +1908,6 @@ gastrostomize
 gastrostomus
 gastrotaxis
 gastrothecal
-gastrotome
 gastrotomy
 gastrotomic
 gastrotubotomy
@@ -9016,6 +9015,7 @@ grillroom
 gardyloo
 glycolipide
 gryllus
+gastrotome
 grager
 greenbul
 ghetto
