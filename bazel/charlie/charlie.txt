@@ -9580,6 +9580,7 @@ checksumming
 checkup
 checkups
 checkweigher
+cowitch
 checkweighman
 checkweighmen
 checkwork
@@ -27604,7 +27605,6 @@ cowinner
 cowinners
 cowish
 cowishness
-cowitch
 cowk
 cowkeeper
 cowkine
