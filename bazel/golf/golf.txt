@@ -5930,7 +5930,6 @@ glossosteresis
 glossotype
 grimmish
 glosts
-grapsoid
 gattine
 girl
 glottalize
@@ -10581,6 +10580,7 @@ gunsman
 goujon
 gunsmith
 gunsmithery
+grapsoid
 gunsmithing
 gloomiest
 glycocholic
