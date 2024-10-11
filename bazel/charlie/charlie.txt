@@ -11422,7 +11422,6 @@ choanoflagellate
 choanoflagellida
 choanoflagellidae
 choanoid
-choanophorous
 choanosomal
 choanosome
 choate
@@ -13189,6 +13188,7 @@ cicatriculae
 cicatricule
 cryptopapist
 collying
+choanophorous
 cicatrisant
 cromorna
 cicatrisate
