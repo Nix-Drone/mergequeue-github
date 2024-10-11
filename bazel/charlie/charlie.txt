@@ -16853,7 +16853,6 @@ clubionid
 clubionidae
 clubland
 clubman
-clubmate
 clubmen
 clubmonger
 clubroom
@@ -17178,6 +17177,7 @@ coalification
 coalified
 coalifies
 coalifying
+clubmate
 coaling
 coalite
 coalition
