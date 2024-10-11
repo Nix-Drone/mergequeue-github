@@ -2238,6 +2238,7 @@ graders
 gazzetta
 gcd
 gconv
+grosshead
 gd
 gdinfo
 gds
@@ -9377,7 +9378,6 @@ gists
 grossers
 grosses
 grossest
-grosshead
 galiots
 grossly
 glees
