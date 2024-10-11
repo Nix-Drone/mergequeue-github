@@ -3933,7 +3933,6 @@ delundung
 damper
 dekalitre
 dekameter
-dekameters
 debutante
 decumani
 dekaparsec
@@ -12393,6 +12392,7 @@ disilicate
 disilicide
 disyllabic
 disyllabism
+dekameters
 disyllabized
 disyllabizing
 disillude
