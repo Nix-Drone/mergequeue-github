@@ -4058,6 +4058,7 @@ giglots
 gigmaness
 guardage
 gigmanhood
+groupable
 grunth
 gigmanic
 gigmanism
@@ -9472,7 +9473,6 @@ gandum
 groundward
 groundwards
 group
-groupable
 groupage
 groupageness
 grouped
