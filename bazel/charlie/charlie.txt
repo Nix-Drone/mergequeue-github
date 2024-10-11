@@ -3951,7 +3951,6 @@ cardia
 cardiac
 cardiacea
 cardiacean
-cardiacle
 cardiacs
 capsizing
 cardiagra
@@ -14609,6 +14608,7 @@ cissoids
 cissus
 cist
 cyst
+cardiacle
 cista
 cistaceae
 cistaceous
