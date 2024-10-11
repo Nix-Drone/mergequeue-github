@@ -3056,6 +3056,7 @@ elkwood
 ella
 equipoises
 electrothermostat
+encountered
 ellagic
 ellasar
 elvan
@@ -4847,7 +4848,6 @@ excitive
 encoronal
 encoronate
 ectoparasitic
-encountered
 encounterer
 entitlement
 encountering
