@@ -2666,7 +2666,6 @@ genecological
 genecor
 griever
 geneki
-ganglionated
 genep
 genepi
 generable
@@ -7547,6 +7546,7 @@ gp
 gpad
 groupoids
 gendered
+ganglionated
 gpd
 ginnery
 generationism
