@@ -9577,6 +9577,7 @@ checksum
 construct
 checksummed
 checksumming
+correctedness
 checkup
 checkups
 checkweigher
@@ -26226,7 +26227,6 @@ coteries
 crusader
 costious
 costipulator
-correctedness
 costispinal
 costive
 costiveness
