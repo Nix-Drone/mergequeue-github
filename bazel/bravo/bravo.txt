@@ -11591,7 +11591,6 @@ boatheader
 boathook
 boathouse
 boathouses
-boatyard
 boatie
 backbends
 boating
@@ -15176,6 +15175,7 @@ brickbats
 borish
 brickbatted
 brickbatting
+boatyard
 brickcroft
 bricked
 brickel
