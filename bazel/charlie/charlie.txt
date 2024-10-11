@@ -6394,7 +6394,6 @@ cavefishes
 cavey
 cavekeeper
 cavelet
-cavelike
 catlin
 caveman
 cavemen
@@ -23327,6 +23326,7 @@ contagion
 contagioned
 contagionist
 computation
+cavelike
 colibert
 contagions
 contagiosity
