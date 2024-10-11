@@ -940,7 +940,6 @@ aflatus
 absentment
 absentminded
 absentmindedly
-absentmindedness
 absentness
 absents
 absfarad
@@ -20191,6 +20190,7 @@ arrantly
 arrantness
 arras
 alyssum
+absentmindedness
 arrasene
 arrases
 arrastra
