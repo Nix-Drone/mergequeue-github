@@ -13826,7 +13826,6 @@ baccalaurean
 bowshots
 bowsie
 bowsing
-bowsprit
 bowsprits
 brokenhearted
 bowstave
@@ -14905,6 +14904,7 @@ breathe
 breatheableness
 breathed
 breather
+bowsprit
 boarstaff
 breathful
 breathy
