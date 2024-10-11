@@ -8439,7 +8439,6 @@ compinge
 chamaecrista
 chamaeleo
 chamaeleon
-chamaeleontidae
 chamaelirium
 chamaenerion
 chamaepericlymenum
@@ -20289,6 +20288,7 @@ communicant
 communicate
 communicates
 communicating
+chamaeleontidae
 communication
 communicational
 communications
