@@ -1689,7 +1689,6 @@ fazes
 fc
 fchar
 fipenny
-fcomp
 farcin
 fcp
 foehns
@@ -5210,6 +5209,7 @@ flavescent
 fibroins
 flavia
 flavian
+fcomp
 flavic
 flavicant
 frayne
