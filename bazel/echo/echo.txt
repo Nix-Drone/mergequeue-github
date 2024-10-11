@@ -1760,6 +1760,7 @@ effie
 endow
 eyeberry
 eyeblack
+extratheistic
 eyeblink
 eyebright
 eyebrows
@@ -9364,7 +9365,6 @@ erroneousness
 error
 errordump
 errorist
-extratheistic
 errorless
 errors
 errs
