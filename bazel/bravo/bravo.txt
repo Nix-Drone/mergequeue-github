@@ -3807,7 +3807,6 @@ battleful
 butterburr
 battakhin
 battlegrounds
-battlement
 battlements
 battlepiece
 battleplane
@@ -6393,6 +6392,7 @@ benzamine
 benzaminic
 benzamino
 benzanalgen
+battlement
 benzanilide
 benzanthracene
 bibs
