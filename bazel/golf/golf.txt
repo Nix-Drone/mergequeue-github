@@ -825,7 +825,6 @@ geometries
 generously
 gouldian
 galvanometrical
-galvanoplasty
 galvanoplastic
 gadling
 gridder
@@ -8407,6 +8406,7 @@ gravedo
 gravegarth
 gravel
 graveled
+galvanoplasty
 gravely
 gravelike
 graveling
