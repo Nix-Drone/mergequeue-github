@@ -4960,7 +4960,6 @@ citators
 crofterization
 carvage
 carval
-carve
 carved
 campshot
 carvels
@@ -26931,6 +26930,7 @@ counterorator
 counterorder
 counterorganization
 counterpace
+carve
 counterpaled
 counterpane
 counterpaned
