@@ -4599,6 +4599,7 @@ forgers
 fiumara
 faussebraye
 fivebar
+false
 fiveling
 fivepence
 fiver
@@ -7492,7 +7493,6 @@ fibreware
 fordwine
 foreact
 foreadmonish
-false
 flashpan
 foreadvertise
 fractionlet
