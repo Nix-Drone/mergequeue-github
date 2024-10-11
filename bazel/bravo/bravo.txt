@@ -9641,7 +9641,6 @@ bishop
 backbeats
 bishopdom
 bishoped
-biborate
 bishopful
 bishophood
 bishopless
@@ -11919,6 +11918,7 @@ bogledom
 boglet
 bogmire
 bogo
+biborate
 binodal
 bogomil
 bogomile
