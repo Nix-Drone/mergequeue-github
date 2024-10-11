@@ -4216,6 +4216,7 @@ fleeceable
 fireplug
 frieze
 fireplugs
+floorway
 firepot
 fireproofed
 fireproofing
@@ -5950,7 +5951,6 @@ floorshift
 fawny
 floorshifts
 floorshow
-floorway
 fluidrachm
 floorward
 furniment
