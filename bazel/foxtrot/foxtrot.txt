@@ -7501,6 +7501,7 @@ foreadvise
 forearmed
 foreallege
 foreallot
+foreconscious
 foreannounce
 flatuses
 foreappoint
@@ -7586,7 +7587,6 @@ foreconceive
 formalism
 foreconclude
 flops
-foreconscious
 foreconsider
 forecontrive
 fastus
