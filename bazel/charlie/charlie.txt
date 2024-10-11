@@ -14851,6 +14851,7 @@ cityscape
 cityscapes
 cytisine
 cytitis
+crossband
 chamkanni
 citywards
 citizen
@@ -29805,7 +29806,6 @@ crossability
 crossable
 crossarms
 calculate
-crossband
 crossbanded
 crossbanding
 crossbar
