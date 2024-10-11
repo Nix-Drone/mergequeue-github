@@ -6429,6 +6429,7 @@ drugshop
 desagrement
 desalinate
 desalinated
+desulphurizing
 desalinating
 desalinator
 desalinize
@@ -7101,7 +7102,6 @@ deerkill
 desulphurize
 disgusts
 desulphurizer
-desulphurizing
 desultory
 desultorily
 desultoriness
