@@ -10582,7 +10582,6 @@ frowners
 fudgy
 frenchiness
 frownful
-frowns
 frows
 frowsy
 frowsier
@@ -11749,6 +11748,7 @@ fuzzier
 fuzziest
 filose
 fuzzily
+frowns
 firestopping
 fertilitate
 fuzziness
