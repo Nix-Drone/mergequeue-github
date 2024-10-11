@@ -11947,7 +11947,6 @@ chores
 choreus
 choreutic
 chorial
-choriamb
 choriambi
 choriambic
 choriambize
@@ -22344,6 +22343,7 @@ congruency
 columella
 congruent
 congruential
+choriamb
 congruently
 chromatium
 congruism
