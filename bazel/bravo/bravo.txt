@@ -676,7 +676,6 @@ bacteriosis
 bacteriosolvent
 bacteriostasis
 bacteriostat
-bacteriostatically
 bacteriotherapeutic
 bacteriotherapy
 balanophorin
@@ -4858,6 +4857,7 @@ brazenface
 baikerinite
 beshrouded
 bedstraw
+bacteriostatically
 bedstraws
 bedstring
 bedswerver
