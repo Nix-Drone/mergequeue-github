@@ -2111,7 +2111,6 @@ bankman
 banality
 bankmen
 banknote
-barrelet
 badaud
 banknotes
 bankrider
@@ -2732,6 +2731,7 @@ barless
 barly
 barling
 boza
+barrelet
 barlow
 barlows
 barm
