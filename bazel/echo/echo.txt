@@ -6661,7 +6661,6 @@ enterogastrone
 egrimonle
 enterogenous
 enterogram
-enterograph
 enterography
 enterohemorrhage
 enterohydrocele
@@ -7781,6 +7780,7 @@ epidermic
 ecclesiastical
 expos
 extracardial
+enterograph
 epidermical
 epidermically
 epidermidalization
