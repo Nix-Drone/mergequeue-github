@@ -2260,7 +2260,6 @@ gearcases
 gearman
 gears
 guernseys
-gearset
 gearshift
 gearshifts
 gearwheels
@@ -4700,6 +4699,7 @@ gableended
 gyrectomies
 gyrometer
 girella
+gearset
 girellidae
 gapperi
 grapewort
