@@ -18081,6 +18081,7 @@ coercers
 coercibility
 cardiaplegia
 coercible
+complaintiveness
 coercibleness
 coercibly
 coercion
@@ -20622,7 +20623,6 @@ complains
 corporealize
 complaint
 complaintful
-complaintiveness
 complaints
 complaisance
 complaisant
