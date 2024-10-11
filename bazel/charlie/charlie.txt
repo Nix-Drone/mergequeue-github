@@ -3355,7 +3355,6 @@ capsheaf
 circumjacent
 capshore
 capsian
-capsicin
 capsicins
 capsicum
 capsicums
@@ -9989,6 +9988,7 @@ chenopod
 chenopodiaceae
 chenopodiaceous
 chenopodiales
+capsicin
 chenopodium
 chenopods
 cheongsam
