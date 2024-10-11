@@ -14687,7 +14687,6 @@ cystocyte
 cystodynia
 cystoelytroplasty
 cystoepiplocele
-cystoepithelioma
 cystofibroma
 cystoflagellata
 cystogenesis
@@ -29879,6 +29878,7 @@ crossing
 crossings
 caulicule
 crossite
+cystoepithelioma
 crossjack
 crosslap
 crosslegs
