@@ -5047,6 +5047,7 @@ endjunk
 evens
 endleaf
 endleaves
+enthrals
 endless
 excuses
 endlessly
@@ -6775,7 +6776,6 @@ enthralling
 enthrallment
 enthrallments
 enthralment
-enthrals
 enthrill
 eliminatory
 enthronement
