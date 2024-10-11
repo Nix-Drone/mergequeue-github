@@ -238,6 +238,7 @@ abcissa
 abcoulomb
 abd
 abdali
+aromaticity
 abdaria
 abdat
 abderian
@@ -20088,7 +20089,6 @@ aromas
 aromatic
 aromatical
 aromatically
-aromaticity
 actinosoma
 auriscopically
 aromatics
