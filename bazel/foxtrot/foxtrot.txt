@@ -3970,7 +3970,6 @@ fingerboard
 fingerboards
 fingerbreadth
 fingered
-fingerer
 fingerers
 foreschooling
 firebolted
@@ -5011,6 +5010,7 @@ flapperism
 flappers
 flappet
 flappy
+fingerer
 faxes
 flapping
 flywire
