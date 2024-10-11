@@ -7287,7 +7287,6 @@ cepe
 citriculture
 cepes
 cephaeline
-cephaelis
 commercer
 constitution
 cephala
@@ -14884,6 +14883,7 @@ cytochalasin
 cytochemical
 cytochemistry
 cytochylema
+cephaelis
 cytochrome
 cytocide
 cytocyst
