@@ -1442,7 +1442,6 @@ deoxygenate
 dca
 deceived
 dcb
-dclass
 dcollet
 dcor
 ddname
@@ -18322,6 +18321,7 @@ dismantled
 duodenocholangitis
 duodenocholecystostomy
 duodenocholedochotomy
+dclass
 defossion
 dysodyle
 desecrating
