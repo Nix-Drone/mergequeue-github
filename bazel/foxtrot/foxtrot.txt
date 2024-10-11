@@ -284,7 +284,6 @@ fadedly
 fadednyess
 fadeless
 faden
-fadeout
 fader
 faders
 fadge
@@ -4810,6 +4809,7 @@ flagroot
 flags
 flagship
 fuss
+fadeout
 firepower
 flagstaff
 fainer
