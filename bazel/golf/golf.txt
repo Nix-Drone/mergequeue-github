@@ -1903,7 +1903,6 @@ gastrospasm
 gastrostege
 gastrostenosis
 gastrostomy
-gastrostomies
 gastrostomize
 gastrostomus
 gastrotaxis
@@ -4910,6 +4909,7 @@ goaltending
 gyve
 giveable
 gederite
+gastrostomies
 gipsyweed
 giveaway
 gelidly
