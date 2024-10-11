@@ -6155,7 +6155,6 @@ enodation
 enode
 enoil
 enoint
-enol
 enolase
 enolases
 enolic
@@ -13752,6 +13751,7 @@ extra
 extrabold
 extrabranchial
 extemporarily
+enol
 extrabronchial
 extrabuccal
 emil
