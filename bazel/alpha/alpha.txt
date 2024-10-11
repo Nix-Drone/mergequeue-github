@@ -16445,7 +16445,6 @@ antivenins
 antivenomous
 antivermicular
 antivibrating
-antivibrator
 antivibratory
 antivice
 antiviral
@@ -18702,6 +18701,7 @@ archaean
 archaeoceti
 archaeocyathidae
 archaeocyathus
+antivibrator
 archaeographic
 archaeographical
 albuminofibrin
