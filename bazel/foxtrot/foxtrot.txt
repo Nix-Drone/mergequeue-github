@@ -790,6 +790,7 @@ fandangos
 forecondemn
 fandom
 fandoms
+foreflap
 fane
 fanegadas
 fanegas
@@ -2999,7 +3000,6 @@ few
 fewest
 fewmand
 fogle
-foreflap
 fetis
 fewneses
 fewness
