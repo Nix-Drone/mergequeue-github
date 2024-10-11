@@ -8802,6 +8802,7 @@ chapeau
 chaped
 chapel
 cobriform
+cid
 chapeled
 chapeless
 chapelet
@@ -13472,7 +13473,6 @@ cicuta
 creches
 cicutoxin
 crepance
-cid
 cidarid
 cidaridae
 cidaris
