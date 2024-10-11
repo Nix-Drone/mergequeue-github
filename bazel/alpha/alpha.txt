@@ -6910,6 +6910,7 @@ airliners
 airlines
 airling
 airlock
+aptest
 airlocks
 airmailing
 abietite
@@ -18165,7 +18166,6 @@ apteryxes
 agentship
 apteroid
 apterous
-aptest
 amazonian
 aptyalism
 avatara
