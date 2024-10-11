@@ -9383,6 +9383,7 @@ diffusions
 diffusive
 diffusor
 diffusors
+dognapped
 difluence
 disubstitution
 difluoride
@@ -15032,7 +15033,6 @@ dognaper
 dearly
 dognapers
 dusack
-dognapped
 dognapper
 dognapping
 dogplate
