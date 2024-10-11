@@ -5468,7 +5468,6 @@ fleshling
 fleshmonger
 fleshpot
 fleshquake
-flet
 flagfall
 fleta
 fletched
@@ -6006,6 +6005,7 @@ forefeet
 floret
 floreted
 forethoughted
+flet
 floretty
 flory
 floria
