@@ -17921,7 +17921,6 @@ coeloglossum
 coelom
 coeloma
 coelomata
-coelomate
 coelomatic
 coelomatous
 coelome
@@ -19106,6 +19105,7 @@ collocution
 collocutor
 collocutory
 collodion
+coelomate
 collodionization
 collodionize
 culpate
