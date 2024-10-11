@@ -5627,7 +5627,6 @@ eastwards
 enforth
 enfoul
 enfoulder
-enfrai
 enframe
 enframed
 enframing
@@ -10081,6 +10080,7 @@ estranging
 estre
 estreat
 estreated
+enfrai
 excrementitiousness
 etchant
 eurypylous
