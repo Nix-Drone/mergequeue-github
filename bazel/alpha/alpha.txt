@@ -2116,7 +2116,6 @@ acetonic
 acetonyl
 acetonylacetone
 acetonylidene
-acetonitrile
 abbest
 acrologically
 aortographies
@@ -4406,6 +4405,7 @@ adscititious
 adscript
 adscripted
 adscription
+acetonitrile
 adscriptitious
 adscriptitius
 adscripts
