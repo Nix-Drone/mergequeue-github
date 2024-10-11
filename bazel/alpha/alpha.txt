@@ -6871,7 +6871,6 @@ airfare
 amyctic
 airfares
 airfield
-airflow
 airflows
 airfoil
 airfoils
@@ -11597,6 +11596,7 @@ anaerobiotic
 anaerobiotically
 anaerobism
 anaerobium
+airflow
 avanti
 anaeroplasty
 anaeroplastic
