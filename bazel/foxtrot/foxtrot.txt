@@ -6301,6 +6301,7 @@ fluidization
 fiefdom
 fluidized
 followup
+foiling
 fluidizer
 fingerflower
 fluidizes
@@ -6773,7 +6774,6 @@ furioso
 foyers
 foil
 foiled
-foiling
 foilsmen
 foin
 foining
