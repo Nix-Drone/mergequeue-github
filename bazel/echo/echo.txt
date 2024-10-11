@@ -7143,6 +7143,7 @@ env
 eventuations
 envaye
 esogastritis
+extensionality
 evoked
 envassal
 envault
@@ -13546,7 +13547,6 @@ extensible
 extensibleness
 extensile
 extensionalism
-extensionality
 engagedness
 extensionless
 extensions
