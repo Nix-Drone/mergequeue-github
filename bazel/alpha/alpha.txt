@@ -216,7 +216,6 @@ abscision
 abbott
 abbozzo
 abbr
-abbrev
 abbreviatable
 abbreviate
 abbreviated
@@ -2660,6 +2659,7 @@ acousmatic
 acoustical
 acoustically
 acousticolateral
+abbrev
 acousticon
 acousticophobia
 acoustoelectric
