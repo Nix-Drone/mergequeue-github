@@ -6841,7 +6841,6 @@ consultee
 celotomies
 celsia
 celsitude
-celsius
 celt
 comnenian
 celtiberi
@@ -23511,6 +23510,7 @@ complicating
 conjoins
 contignate
 contignation
+celsius
 contiguate
 contiguity
 contiguously
