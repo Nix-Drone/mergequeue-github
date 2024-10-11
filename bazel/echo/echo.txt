@@ -8975,7 +8975,6 @@ ergatomorphic
 ergatomorphism
 ergo
 ergodic
-ergodicity
 entoderms
 ektodynamorphic
 evaporability
@@ -13081,6 +13080,7 @@ exacters
 expertised
 exilarch
 excretion
+ergodicity
 electrophotometry
 emulated
 extractability
