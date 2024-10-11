@@ -20160,6 +20160,7 @@ committeeman
 committeemen
 committees
 committeeship
+coveralled
 committeewomen
 committent
 chutes
@@ -27456,7 +27457,6 @@ cover
 coverable
 coverages
 coverall
-coveralled
 coveralls
 coverchief
 cerberean
