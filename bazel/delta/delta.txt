@@ -10405,7 +10405,6 @@ diphenylguanidine
 diphenylhydantoin
 diphenylmethane
 diphenylquinomethane
-diphenyls
 diphenylthiourea
 diphenoxylate
 diphycercal
@@ -12602,6 +12601,7 @@ disleafing
 disleal
 diffrangibility
 disleave
+diphenyls
 disleaved
 dislegitimate
 deckhouses
