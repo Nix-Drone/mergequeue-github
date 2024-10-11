@@ -2986,7 +2986,6 @@ capacitances
 capacitate
 capacitated
 cooperators
-capacitations
 capacitative
 capacitativly
 capacitator
@@ -17178,6 +17177,7 @@ coalification
 coalified
 coalifies
 coalifying
+capacitations
 coaling
 coalite
 coalition
