@@ -2073,7 +2073,6 @@ banish
 banished
 banisher
 banishing
-banishment
 banister
 banisters
 bursting
@@ -12453,6 +12452,7 @@ bonesets
 bonesetter
 barnyard
 bonesetting
+banishment
 brushite
 boneshaker
 backbeat
