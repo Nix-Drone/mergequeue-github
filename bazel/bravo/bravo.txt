@@ -10155,7 +10155,6 @@ blacklegism
 blacklegs
 blacklist
 blacklisted
-blacklister
 blacklisting
 blacklists
 beachman
@@ -16463,6 +16462,7 @@ brutalizing
 brutally
 brutalness
 brute
+blacklister
 bushtit
 bishops
 brutedom
