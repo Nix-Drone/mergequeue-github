@@ -3479,7 +3479,6 @@ baster
 basters
 bastide
 briefed
-bastile
 bastiles
 bastille
 bastilles
@@ -7906,6 +7905,7 @@ bardee
 bible
 bibles
 bohmite
+bastile
 biblic
 bipunctal
 biblical
