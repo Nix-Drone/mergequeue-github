@@ -2665,7 +2665,6 @@ decomposed
 delphin
 dimmy
 decomposer
-decomposers
 decomposes
 decomposing
 decomposition
@@ -6991,6 +6990,7 @@ destandardize
 desterilization
 desterilized
 destigmatization
+decomposers
 discontentive
 demotes
 destigmatize
