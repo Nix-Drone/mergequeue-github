@@ -3853,7 +3853,6 @@ carburettor
 carburisation
 carburise
 carburised
-carburiser
 carburization
 carburize
 carburized
@@ -28728,6 +28727,7 @@ crescence
 crescendo
 crescendoed
 crescendoing
+carburiser
 conule
 crescendos
 crescentade
