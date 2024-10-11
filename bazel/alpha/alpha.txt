@@ -6847,7 +6847,6 @@ aircrewmen
 aircrews
 aerophone
 airdate
-announcement
 airdates
 airdock
 airdrome
@@ -9893,6 +9892,7 @@ alutaceous
 autochthony
 ambari
 ambary
+announcement
 ambas
 ambash
 ambassade
