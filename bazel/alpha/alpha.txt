@@ -3945,7 +3945,6 @@ aditus
 adj
 adjacence
 adjacency
-adjacencies
 amated
 adjacently
 adjag
@@ -8743,6 +8742,7 @@ allness
 allo
 alloantibody
 anoesia
+adjacencies
 agreers
 adstringe
 allobar
