@@ -2069,7 +2069,6 @@ feinted
 feinter
 forestlike
 feinting
-feis
 flatlander
 fogbows
 faultier
@@ -8867,6 +8866,7 @@ fossicks
 fossified
 fossiform
 fossil
+feis
 fossilage
 featly
 franking

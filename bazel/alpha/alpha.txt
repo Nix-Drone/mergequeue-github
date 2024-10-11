@@ -5711,7 +5711,6 @@ afterthoughts
 afterthrift
 aftertime
 aftertimes
-apastron
 aftertrial
 assortive
 afterturn
@@ -23127,6 +23126,7 @@ attitudinise
 attitudinised
 antidiffuser
 attitudiniser
+apastron
 attitudinising
 attitudinize
 attitudinized
