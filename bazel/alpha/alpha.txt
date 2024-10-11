@@ -2520,6 +2520,7 @@ acknew
 astomatal
 acknowing
 acknowledge
+adjusts
 acknowledgeable
 acknowledged
 afoam
@@ -24939,7 +24940,6 @@ awakening
 awakeningly
 awakenings
 arrogate
-adjusts
 awakenment
 awakens
 awakes
