@@ -5935,7 +5935,6 @@ enisling
 enjail
 enjamb
 enjambed
-enjambement
 exemplary
 enjambments
 enjelly
@@ -6469,6 +6468,7 @@ encephalometer
 encheck
 ensorcell
 ensorcellment
+enjambement
 epochal
 ensorcels
 ensorcerize
