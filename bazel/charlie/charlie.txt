@@ -2900,7 +2900,6 @@ cantonments
 cantons
 countergager
 cantoral
-cantoria
 cantorial
 cantorian
 cantoris
@@ -25433,6 +25432,7 @@ cornuting
 clong
 cornuto
 cornutos
+cantoria
 cornutus
 cornwall
 cornwallite
