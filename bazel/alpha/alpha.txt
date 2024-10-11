@@ -4038,7 +4038,6 @@ anesthetic
 adjutator
 adjute
 adjutor
-adjutory
 adjutorious
 adjutrice
 adjutrix
@@ -11816,6 +11815,7 @@ asuri
 anamorphoscope
 aqueousness
 anamorphosis
+adjutory
 azocochineal
 anamorphote
 anamorphous
