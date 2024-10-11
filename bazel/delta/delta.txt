@@ -5754,7 +5754,6 @@ deployed
 deploying
 defilade
 deployment
-deployments
 deftest
 deplorabilia
 deplorability
@@ -10880,6 +10879,7 @@ doldrums
 disableness
 demonstrativeness
 disablers
+deployments
 disables
 disabling
 deafforest
