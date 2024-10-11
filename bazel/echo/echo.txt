@@ -4961,7 +4961,6 @@ endboard
 endbrains
 enddamaged
 enddamaging
-ende
 energistic
 endearance
 endearedly
@@ -6385,6 +6384,7 @@ enshell
 enshelter
 enshield
 eprouvette
+ende
 enumerating
 enshielded
 ecphorize
