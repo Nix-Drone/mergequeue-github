@@ -19684,6 +19684,7 @@ combinative
 combinator
 combinatory
 combinatorial
+corybantine
 combinatorially
 combinatoric
 combinators
@@ -25127,7 +25128,6 @@ corybant
 corybantian
 corybantiasm
 corybantic
-corybantine
 corybantish
 cornels
 corybulbine
