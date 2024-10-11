@@ -2307,7 +2307,6 @@ electrine
 electrizable
 electrization
 earthenware
-electro
 electroacoustic
 ecblastpsis
 electroacoustical
@@ -6556,6 +6555,7 @@ entamoebic
 entangle
 entangleable
 entangled
+electro
 endotrachelitis
 evensong
 entanglement
