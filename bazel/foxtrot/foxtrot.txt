@@ -3612,6 +3612,7 @@ fluidize
 filemark
 filemot
 foreknee
+forekeel
 filename
 filenames
 filer
@@ -7770,7 +7771,6 @@ fissioning
 forejudge
 forejudged
 forejudging
-forekeel
 foreknew
 figurism
 folkmotes
