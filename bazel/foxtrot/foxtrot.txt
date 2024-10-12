@@ -4415,7 +4415,6 @@ fishnets
 fishplate
 feste
 fishpole
-fishpoles
 fishponds
 fishpotter
 fishskin
@@ -9813,6 +9812,7 @@ freyr
 faceting
 freith
 freity
+fishpoles
 fremd
 fremdly
 fremdness
