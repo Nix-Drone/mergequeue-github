@@ -2874,7 +2874,6 @@ genoise
 genome
 genomic
 genoms
-genonema
 gph
 genos
 gerrymandered
@@ -6354,6 +6353,7 @@ grammar
 gorgonaceous
 grammaticize
 glycosidic
+genonema
 garibaldi
 goadlike
 goadsman
