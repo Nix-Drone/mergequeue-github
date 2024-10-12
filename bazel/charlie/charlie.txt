@@ -1982,7 +1982,6 @@ cecils
 campaniform
 campanile
 campaniles
-campanili
 campaniliform
 campanini
 campanist
@@ -25676,6 +25675,7 @@ circumrotating
 casuarinaceae
 correspond
 corresponded
+campanili
 correspondence
 correspondences
 correspondency
