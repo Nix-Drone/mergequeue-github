@@ -12692,6 +12692,7 @@ bookracks
 baronry
 barrulety
 bookrest
+bugleweed
 bookrests
 bookroom
 bookseller
@@ -16909,7 +16910,6 @@ bugle
 bugled
 badmouth
 buglet
-bugleweed
 buglewort
 bugling
 bugloss
