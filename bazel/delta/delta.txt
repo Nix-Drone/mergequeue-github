@@ -2805,7 +2805,6 @@ dop
 decrement
 decremental
 decrementing
-decrements
 decremeter
 decrepid
 decrepit
@@ -5169,6 +5168,7 @@ daws
 dustermen
 denervate
 denervation
+decrements
 denes
 dengue
 dethyroidism
