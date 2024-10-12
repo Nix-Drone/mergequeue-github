@@ -608,7 +608,6 @@ falsehood
 falsehoods
 falsely
 falseness
-falser
 falsest
 footlining
 functionals
@@ -7705,6 +7704,7 @@ faq
 fleshlily
 foretopsail
 foregut
+falser
 forehalf
 forehall
 fulfillers
