@@ -680,7 +680,6 @@ bacteriostatically
 bacteriotherapeutic
 bacteriotherapy
 balanophorin
-bacteriotoxic
 bechances
 bacteriotoxin
 bal
@@ -4571,6 +4570,7 @@ becrippled
 becrippling
 becroak
 becross
+bacteriotoxic
 becrowd
 becrowded
 buttering
