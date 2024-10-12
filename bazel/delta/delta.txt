@@ -5981,7 +5981,6 @@ deprest
 depreter
 deprevation
 depriment
-deprint
 depriorize
 dysmerism
 deprivable
@@ -17936,6 +17935,7 @@ defaecate
 dufrenoysite
 dufter
 dufterdar
+deprint
 duftery
 duftite
 dialoguer
