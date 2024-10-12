@@ -272,6 +272,7 @@ daggers
 dagging
 disavaunce
 daggled
+decrements
 daggles
 daggletailed
 doek
@@ -2805,7 +2806,6 @@ dop
 decrement
 decremental
 decrementing
-decrements
 decremeter
 decrepid
 decrepit
