@@ -3277,7 +3277,6 @@ babbling
 basileus
 basilian
 biconcavity
-bicorporeal
 basilic
 basilica
 basilicae
@@ -11885,6 +11884,7 @@ bogged
 boggier
 boggiest
 boggin
+bicorporeal
 bogginess
 bercelet
 boggle
