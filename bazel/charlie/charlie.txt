@@ -3710,7 +3710,6 @@ carboline
 carbolineum
 carbolised
 carbolising
-carbolize
 carbolized
 carbolizes
 carbolizing
@@ -7564,6 +7563,7 @@ cereals
 cerebbella
 cerebella
 cerebellar
+carbolize
 cerebellifugal
 cerebellipetal
 cerebellitis
