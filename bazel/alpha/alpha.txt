@@ -21822,6 +21822,7 @@ assistant
 assistanted
 armadillo
 assistantship
+atomic
 assisted
 assister
 assisters
@@ -22749,7 +22750,6 @@ atomatic
 atomechanics
 atomerg
 atomy
-atomic
 atomical
 atomically
 atomician
