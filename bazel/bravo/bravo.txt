@@ -2159,7 +2159,6 @@ bannat
 banned
 banner
 bannerer
-banneret
 bannerets
 bannerfish
 beduke
@@ -10270,6 +10269,7 @@ blamability
 blame
 blameableness
 blameably
+banneret
 blamed
 bugbeardom
 bittersweetness
