@@ -1658,7 +1658,6 @@ accordable
 accordance
 accordances
 accordancy
-accordatura
 amphiphloic
 accordaturas
 accordature
@@ -9958,6 +9957,7 @@ ambiguously
 ambiguousness
 acheilous
 ambilateral
+accordatura
 ambilateralaterally
 ambilaterally
 ambilian
