@@ -4857,7 +4857,6 @@ bedstead
 brazenface
 baikerinite
 beshrouded
-bedstraw
 bedstraws
 bedstring
 bedswerver
@@ -17353,6 +17352,7 @@ bumtrap
 bumwood
 bun
 bopyrus
+bedstraw
 brasset
 buncal
 batted
