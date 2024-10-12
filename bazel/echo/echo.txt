@@ -10829,7 +10829,6 @@ expansibleness
 eulogy
 eulogia
 eelblenny
-eulogiae
 eulogias
 eyelight
 eulogies
@@ -11947,6 +11946,7 @@ exception
 exceptionability
 exceptionably
 eyeglass
+eulogiae
 exceptional
 exceptionality
 exceptionally
