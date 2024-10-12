@@ -297,7 +297,6 @@ figura
 fatherlessness
 fady
 fadingly
-fadingness
 finbone
 furyl
 fadings
@@ -1687,6 +1686,7 @@ fructuosity
 faxing
 fazes
 fc
+fadingness
 fchar
 fipenny
 fcomp
