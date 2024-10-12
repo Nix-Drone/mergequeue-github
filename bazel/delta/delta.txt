@@ -1713,6 +1713,7 @@ deaths
 deathsman
 deathsmen
 depaysee
+derelinquish
 deathtime
 deathtrap
 deathtraps
@@ -6162,7 +6163,6 @@ dereligionize
 droshkies
 dereling
 derelinquendi
-derelinquish
 derencephalus
 derepress
 derepression
