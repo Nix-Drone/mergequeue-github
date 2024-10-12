@@ -78,7 +78,6 @@ faces
 facesaving
 facet
 foresaying
-faceted
 facetely
 faceteness
 farther
@@ -6658,6 +6657,7 @@ focoids
 focsle
 focus
 focusable
+faceted
 fatalistically
 floscularia
 floodlighting
