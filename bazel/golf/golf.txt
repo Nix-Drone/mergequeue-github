@@ -2675,7 +2675,6 @@ generalate
 generalcy
 generalia
 generalific
-generalisable
 gwen
 gringolee
 generalise
@@ -10193,6 +10192,7 @@ guildhall
 guilds
 guildship
 guildsmen
+generalisable
 guessworker
 guile
 guileful
