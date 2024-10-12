@@ -6405,7 +6405,6 @@ benzdifuran
 benzdioxdiazine
 benzdioxtriazine
 benzein
-benzene
 benzeneazobenzene
 bastian
 benzenediazonium
@@ -12407,6 +12406,7 @@ bondmen
 bondminder
 bondoc
 bondon
+benzene
 bructeri
 brooders
 bondservant
