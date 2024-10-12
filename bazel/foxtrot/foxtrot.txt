@@ -1468,7 +1468,6 @@ fatalize
 frederick
 fatstock
 fatstocks
-fatted
 fatten
 fattenable
 fragilaria
@@ -7225,6 +7224,7 @@ feriae
 fifer
 foxite
 footpad
+fatted
 footpads
 fibs
 footpath
