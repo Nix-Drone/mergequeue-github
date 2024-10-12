@@ -2580,7 +2580,6 @@ decode
 decoded
 decoders
 decodes
-decoding
 decodon
 decoherence
 dissightly
@@ -8894,6 +8893,7 @@ dichotomically
 dichotomies
 dichotomisation
 dichotomise
+decoding
 dimethoxymethane
 dimerous
 dichotomization
