@@ -1649,7 +1649,6 @@ ballonnes
 balloon
 ballooners
 bowfront
-balloonet
 balloonfish
 buddah
 bonnetman
@@ -9033,6 +9032,7 @@ biographist
 bootstraps
 biographize
 biohazard
+balloonet
 brutes
 bioherm
 bioherms
