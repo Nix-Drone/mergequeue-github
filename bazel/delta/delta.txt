@@ -9859,7 +9859,6 @@ dimers
 dimes
 dimetallic
 dimeter
-dimeters
 dimethyl
 dimethylamine
 dimethylamino
@@ -17829,6 +17828,7 @@ duckwing
 discrete
 ducs
 duct
+dimeters
 ducted
 ductibility
 ductible
