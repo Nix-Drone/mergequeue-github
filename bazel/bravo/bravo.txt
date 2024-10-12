@@ -1232,6 +1232,7 @@ bakerlike
 bakers
 beslaver
 bakersfield
+bepart
 bakes
 bakeshop
 bewrapping
@@ -6533,7 +6534,6 @@ bepaper
 beparch
 beparse
 benefactrix
-bepart
 bepaste
 bletted
 bepastured
