@@ -18090,7 +18090,6 @@ coercions
 coercitive
 coercive
 coercively
-coerciveness
 coercivity
 coerebidae
 coerect
@@ -23116,6 +23115,7 @@ constituency
 clerked
 constituencies
 constituent
+coerciveness
 clouded
 constituently
 constituents
