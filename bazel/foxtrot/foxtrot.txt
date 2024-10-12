@@ -1721,6 +1721,7 @@ fusillade
 filterable
 fetcher
 fearedly
+footworn
 firebreaks
 fearedness
 fearer
@@ -7289,7 +7290,6 @@ fleered
 footwork
 farragos
 footworks
-footworn
 figurings
 foozle
 fustianist
