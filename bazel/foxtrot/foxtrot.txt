@@ -5458,6 +5458,7 @@ fourniture
 fleshing
 fleshings
 formatters
+flit
 fanjets
 fleshless
 fleshlier
@@ -5728,7 +5729,6 @@ flyswat
 footlessness
 fundraising
 flyswatter
-flit
 flamens
 ferrocalcite
 flitch
