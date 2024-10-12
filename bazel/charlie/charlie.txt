@@ -5328,6 +5328,7 @@ casting
 castings
 castle
 castled
+colonizers
 castlelike
 castles
 cortaderia
@@ -19289,7 +19290,6 @@ colonize
 comminating
 colonized
 colonizer
-colonizers
 colonizing
 colonnade
 colonnaded
