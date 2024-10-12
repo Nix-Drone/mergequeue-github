@@ -3270,7 +3270,6 @@ bitume
 basilarchia
 basilard
 basilary
-basilect
 basileis
 bractea
 babbling
@@ -7572,6 +7571,7 @@ beveled
 bevelers
 blastophore
 beveling
+basilect
 bevelled
 beveller
 bookbinder
