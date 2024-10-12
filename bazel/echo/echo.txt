@@ -3555,6 +3555,7 @@ emborder
 embordered
 elegant
 embordering
+echo
 epidesmine
 emborders
 emboscata
@@ -8755,7 +8756,6 @@ equips
 ethnolinguist
 equipt
 equiradial
-echo
 equiradical
 equirotal
 escopet
