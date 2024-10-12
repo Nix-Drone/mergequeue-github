@@ -3162,7 +3162,6 @@ actinopod
 actinopraxis
 actinopteran
 actinopteri
-actinopterygian
 amylopsase
 actinopterygii
 antrotome
@@ -15821,6 +15820,7 @@ aquacades
 antipathist
 antipathize
 antiabrasion
+actinopterygian
 antipathogen
 antipathogene
 antipathogenic

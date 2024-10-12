@@ -633,7 +633,6 @@ bacteriemia
 bacteriform
 bacterin
 borofluoric
-bacterioagglutinin
 bacterioblast
 bacteriochlorophyll
 bacteriocin
@@ -15929,6 +15928,7 @@ battle
 beforehandedness
 bromoiodized
 bromoketone
+bacterioagglutinin
 bromol
 bromomania
 bromomethane
