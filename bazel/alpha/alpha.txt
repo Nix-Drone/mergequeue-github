@@ -3833,7 +3833,6 @@ adventurers
 adiagnostic
 adiamorphic
 adiamorphism
-adiantiform
 adeniform
 adiantum
 angelizing
@@ -18590,6 +18589,7 @@ arbor
 arboraceous
 arboral
 arborary
+adiantiform
 ahrimanian
 arborator
 amias
