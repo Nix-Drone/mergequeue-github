@@ -6960,7 +6960,6 @@ airspeed
 airspeeds
 airstream
 akinetic
-allegory
 airstrip
 airstrips
 airt
@@ -7855,6 +7854,7 @@ alen
 alencon
 alencons
 arrayers
+allegory
 alenge
 alength
 autacoid
