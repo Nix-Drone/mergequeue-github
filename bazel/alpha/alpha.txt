@@ -1724,7 +1724,6 @@ annule
 archpresbyter
 accreditations
 accredited
-accreditee
 animal
 accrediting
 accreditment
@@ -3445,6 +3444,7 @@ adaptitude
 adaptive
 adaptively
 adaptometer
+accreditee
 adaptor
 adaptorial
 adapts
