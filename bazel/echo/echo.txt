@@ -114,7 +114,6 @@ ears
 earscrew
 earsh
 endoskeletal
-earshot
 edifies
 epistolean
 earsplitting
@@ -13205,6 +13204,7 @@ exploder
 exhaustlessness
 exploders
 explodes
+earshot
 exploit
 ecumenics
 exploitable
