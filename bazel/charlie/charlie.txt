@@ -20486,7 +20486,6 @@ compartner
 compass
 compassability
 compassable
-compassed
 compasses
 compassing
 compassion
@@ -28502,6 +28501,7 @@ credited
 crediting
 comd
 creditive
+compassed
 creditless
 creditor
 creditors
