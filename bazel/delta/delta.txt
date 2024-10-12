@@ -7152,7 +7152,6 @@ detassel
 detat
 detax
 detd
-detect
 detectability
 daishiki
 detected
@@ -10859,6 +10858,7 @@ dirtbird
 dirtboard
 dirty
 debat
+detect
 dirtied
 dirtying
 disentangler
