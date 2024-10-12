@@ -74,7 +74,6 @@ faceoff
 fermentations
 facepiece
 fisticuffs
-faces
 facesaving
 facet
 foresaying
@@ -4973,6 +4972,7 @@ fringilliform
 fireshaft
 flanking
 flanks
+faces
 faineantise
 flankwise
 flatbeds
