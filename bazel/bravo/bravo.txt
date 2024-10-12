@@ -3803,6 +3803,7 @@ battledoring
 borehole
 battlefront
 battlefronts
+bugproof
 battleful
 butterburr
 battakhin
@@ -16120,7 +16121,6 @@ broomed
 broomer
 bezzant
 betrough
-bugproof
 broomiest
 brooming
 baseman
