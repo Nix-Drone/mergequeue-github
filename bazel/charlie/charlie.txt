@@ -19682,6 +19682,7 @@ combinational
 combinations
 combinative
 combinator
+commonty
 combinatory
 combinatorial
 combinatorially
@@ -24331,7 +24332,6 @@ coolerman
 coolers
 coolest
 coolheaded
-commonty
 coolheadedly
 coolheadedness
 coolhouse
