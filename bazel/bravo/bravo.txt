@@ -6487,7 +6487,6 @@ benzophenothiazine
 benzophenoxazine
 benzophloroglucinol
 benzophthalazine
-benzopyran
 benzopyranyl
 benzopyrazolone
 benzopyrylium
@@ -8882,6 +8881,7 @@ binnacles
 bowering
 beflout
 binned
+benzopyran
 binny
 binnite
 binnogue
