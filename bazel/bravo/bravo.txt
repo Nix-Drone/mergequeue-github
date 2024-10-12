@@ -3747,7 +3747,6 @@ battable
 battailant
 browntop
 battailous
-battak
 bally
 battalias
 battalion
@@ -11360,6 +11359,7 @@ blueys
 bluejack
 bluejacket
 bluejacks
+battak
 blurred
 blueleg
 bluely
