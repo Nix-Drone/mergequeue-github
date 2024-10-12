@@ -8049,6 +8049,7 @@ chacmas
 chaco
 chacoli
 chacona
+capelets
 chaconne
 chaconnes
 chacra
@@ -18359,7 +18360,6 @@ cogway
 cogways
 cogweel
 cogweels
-capelets
 cogwheels
 cogwood
 cohabitancy
