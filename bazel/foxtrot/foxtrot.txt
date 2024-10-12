@@ -4978,7 +4978,6 @@ flankwise
 flatbeds
 flannelboard
 flannelette
-flannelflower
 flanneling
 flannelleaves
 floc
@@ -6343,6 +6342,7 @@ flump
 flummadiddle
 flummery
 focometer
+flannelflower
 flummydiddle
 fankle
 ferrosilicon
