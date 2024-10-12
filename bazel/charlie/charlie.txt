@@ -3721,7 +3721,6 @@ chude
 carbolxylol
 carbomethene
 carbomethoxy
-carbomethoxyl
 carbomycin
 carbon
 carbona
@@ -25869,6 +25868,7 @@ cortes
 cortex
 cortexes
 cortez
+carbomethoxyl
 cortian
 cortical
 corticated
