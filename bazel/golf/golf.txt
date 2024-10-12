@@ -165,7 +165,6 @@ gastroscope
 grimliness
 greasiness
 gaduin
-gadus
 gadwall
 gadwalls
 ghrush
@@ -7858,6 +7857,7 @@ gametangium
 grampa
 guydom
 gramper
+gadus
 gramps
 grampus
 gaddish
