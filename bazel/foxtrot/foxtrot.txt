@@ -5072,7 +5072,6 @@ flashness
 flashover
 feint
 florigens
-fructure
 flashtube
 flashtubes
 fusobteria
@@ -9902,6 +9901,7 @@ fundable
 frowardly
 freshmen
 freshness
+fructure
 freesp
 freshwoman
 facework
