@@ -2359,7 +2359,6 @@ altin
 acyclic
 acast
 aciculae
-acicularity
 amazed
 annamese
 aciculate
@@ -11708,6 +11707,7 @@ analeptical
 analgen
 analgene
 analgesia
+acicularity
 analgesic
 analgesics
 analgesidae
