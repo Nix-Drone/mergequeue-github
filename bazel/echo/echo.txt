@@ -4918,7 +4918,6 @@ encurtain
 endosteal
 encushion
 end
-endable
 endamage
 endamageable
 endamagement
@@ -8576,6 +8575,7 @@ equals
 equanimously
 equanimousness
 equatability
+endable
 equatable
 equate
 equates
