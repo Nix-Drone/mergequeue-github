@@ -9039,7 +9039,6 @@ bioherms
 bioinstrument
 biokinetics
 biol
-biolinguistics
 biolyses
 bludgeoneer
 battlemented
@@ -15529,6 +15528,7 @@ brisances
 brisant
 brisbane
 buddhic
+biolinguistics
 briscola
 broidering
 bodingly
