@@ -15201,7 +15201,6 @@ cladocarpous
 camelot
 cladocera
 cladoceran
-cladocerans
 cladocerous
 cladodial
 cladodium
@@ -29262,6 +29261,7 @@ cryptogamy
 cryptogamia
 cryptogamian
 cryptogamic
+cladocerans
 cryptogamical
 cryptogamist
 cryptogamous
