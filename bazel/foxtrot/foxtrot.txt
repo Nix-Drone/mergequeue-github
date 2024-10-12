@@ -3620,7 +3620,6 @@ filers
 files
 frailly
 filesmith
-filesniff
 flagships
 filespec
 forficula
@@ -6658,6 +6657,7 @@ focoids
 focsle
 focus
 focusable
+filesniff
 fatalistically
 floscularia
 floodlighting
