@@ -3814,7 +3814,6 @@ battleplane
 barnstorms
 battler
 battles
-battleship
 battleships
 buhr
 battlesome
@@ -10168,6 +10167,7 @@ blackmailers
 blackmailing
 blackman
 blackneck
+battleship
 blackness
 bebump
 blackout
