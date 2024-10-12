@@ -1112,7 +1112,6 @@ faro
 floter
 foredestining
 faroelite
-foremast
 farolito
 faros
 farouche
@@ -3928,6 +3927,7 @@ failing
 fine
 fineableness
 finebent
+foremast
 foggage
 franchisal
 fined
