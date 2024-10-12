@@ -13098,7 +13098,6 @@ cyathophyllidae
 cyathophylloid
 cyathophyllum
 cyathos
-cyathus
 confest
 cibaria
 cibarial
@@ -15697,6 +15696,7 @@ chapitle
 claughts
 claus
 clausal
+cyathus
 clause
 clauses
 coattends
