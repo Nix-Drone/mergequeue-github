@@ -233,7 +233,6 @@ abbreviator
 abbreviators
 abbreviature
 abbroachment
-abc
 abcissa
 abcoulomb
 abd
@@ -19236,6 +19235,7 @@ arcosolia
 arcosoliulia
 arcosolium
 arcsin
+abc
 arcsine
 arcsines
 arctalia
