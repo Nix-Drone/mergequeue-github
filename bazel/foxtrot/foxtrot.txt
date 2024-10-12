@@ -3304,6 +3304,7 @@ faction
 ferrying
 fidejussion
 fidejussionary
+freeloading
 furlanas
 fidejussor
 fidejussory
@@ -9486,7 +9487,6 @@ facing
 formaldehydesulphoxylic
 frantic
 franticly
-freeloading
 flybook
 functionalizing
 featless
