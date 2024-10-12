@@ -2169,7 +2169,6 @@ bannerline
 bannerman
 bannermen
 bannerole
-bannerols
 bannerwise
 bannet
 bannisters
@@ -12972,6 +12971,7 @@ bordure
 bordures
 bore
 boreable
+bannerols
 boread
 boreal
 borealis
