@@ -5330,7 +5330,6 @@ endows
 endostea
 epiphyte
 estrangement
-endosteitis
 endosteoma
 endosteomas
 endosteomata
@@ -12847,6 +12846,7 @@ exothecal
 exothecate
 exothecium
 exothermal
+endosteitis
 exothermally
 exothermically
 exothermous
