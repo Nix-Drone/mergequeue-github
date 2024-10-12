@@ -4776,7 +4776,6 @@ carrions
 carryons
 carryout
 carryouts
-carryover
 carryovers
 carritch
 carritches
@@ -9750,6 +9749,7 @@ cheiropodist
 cheiropompholyx
 cheiropterygium
 cheirosophy
+carryover
 cheirospasm
 cheirotherium
 cheka
