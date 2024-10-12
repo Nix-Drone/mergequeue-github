@@ -1687,7 +1687,6 @@ fructuosity
 faxing
 fazes
 fc
-fchar
 fipenny
 fcomp
 farcin
@@ -8954,6 +8953,7 @@ falsifies
 foulest
 foulings
 francs
+fchar
 feuterer
 foulish
 febronianism
