@@ -1909,7 +1909,6 @@ bandelet
 bandelette
 bandeng
 banderlog
-banderma
 banderol
 banderole
 biochemical
@@ -13049,6 +13048,7 @@ borofluorin
 boroglycerate
 boroglycerine
 borohydride
+banderma
 boronatrocalcite
 barranco
 boronia
