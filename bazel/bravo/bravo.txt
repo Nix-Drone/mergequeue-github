@@ -1977,6 +1977,7 @@ bandobust
 bandog
 bandogs
 bonfire
+boomeranging
 bandoleer
 burlesquely
 bumf
@@ -12749,7 +12750,6 @@ boomdas
 boomed
 boomer
 boomeranged
-boomeranging
 boomers
 boomy
 boomier
