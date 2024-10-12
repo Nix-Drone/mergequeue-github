@@ -5084,6 +5084,7 @@ foretooth
 faecal
 flasklet
 flasks
+freq
 flasque
 flat
 fids
@@ -9856,7 +9857,6 @@ frenzied
 fishbone
 frenzies
 fulmineous
-freq
 frequence
 frequency
 frequencies
