@@ -8217,7 +8217,6 @@ demove
 derogations
 dele
 diagonal
-diagonalizable
 diagonalization
 diagonalize
 disinteresting
@@ -17483,6 +17482,7 @@ drouthy
 drouthier
 drouthiest
 drouthiness
+diagonalizable
 drouths
 drove
 droved
