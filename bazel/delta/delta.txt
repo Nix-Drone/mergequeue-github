@@ -3801,7 +3801,6 @@ decarchy
 dehumidify
 dehumidified
 dehumidifier
-dehumidifiers
 dehumidifies
 dehumidifying
 duds
@@ -11671,6 +11670,7 @@ discouragingly
 darren
 discourse
 discoursed
+dehumidifiers
 discourser
 discoursers
 discourses
