@@ -1406,7 +1406,6 @@ calkin
 calking
 calks
 call
-callable
 callaesthetic
 callainite
 callais
@@ -20595,6 +20594,7 @@ compilable
 compilation
 compilations
 compilator
+callable
 compileable
 compiled
 compilement
