@@ -2875,6 +2875,7 @@ barothermograph
 barothermohygrograph
 baroto
 barotrauma
+beldams
 bulgurs
 barotraumas
 barotraumata
@@ -5654,7 +5655,6 @@ beldame
 benjoin
 beldames
 bylaw
-beldams
 beldamship
 bacchar
 britten
