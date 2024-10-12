@@ -6598,7 +6598,6 @@ enteraden
 enteradenography
 enteradenographic
 enteradenological
-enteral
 enterally
 enterate
 enterclose
@@ -13820,6 +13819,7 @@ extracultural
 extracurial
 extracurricular
 extracurriculum
+enteral
 extracutaneous
 electropoion
 extradialectal
