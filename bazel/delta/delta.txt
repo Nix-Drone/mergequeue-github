@@ -14876,7 +14876,6 @@ doers
 depopulate
 diapositive
 does
-doesn
 doesnt
 doeth
 doeuvre
@@ -15610,6 +15609,7 @@ doorless
 doormaid
 doormaker
 doorman
+doesn
 doormat
 doormats
 doormen
