@@ -3820,7 +3820,6 @@ buhr
 battlesome
 boatfalls
 banderilla
-battlestead
 battlewagon
 battleward
 battlewise
@@ -14731,6 +14730,7 @@ brazers
 brazes
 brazier
 braziery
+battlestead
 ballooner
 burgheress
 brazil

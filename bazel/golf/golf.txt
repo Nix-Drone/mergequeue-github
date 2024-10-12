@@ -1908,7 +1908,6 @@ gastrostomize
 gastrostomus
 gastrotaxis
 gastrothecal
-gastrotome
 gastrotomy
 gastrotomic
 gastrotubotomy
@@ -3752,6 +3751,7 @@ glassware
 gildsman
 ghole
 ghoom
+gastrotome
 geoaesthesia
 glops
 ghorkhar
