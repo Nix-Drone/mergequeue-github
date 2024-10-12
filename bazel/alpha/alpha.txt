@@ -13174,7 +13174,6 @@ autoimmune
 animate
 animated
 animatedly
-actionable
 animater
 animaters
 animates
@@ -22931,6 +22930,7 @@ attacapan
 attacca
 attacco
 attach
+actionable
 attachableness
 attache
 attached
