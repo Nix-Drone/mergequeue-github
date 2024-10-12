@@ -8726,7 +8726,6 @@ fortifications
 fortifier
 florets
 fortifiers
-fortifies
 fafnir
 fortifying
 fortifyingly
@@ -11454,6 +11453,7 @@ furnish
 furnishable
 flannelmouthed
 foregather
+fortifies
 frustrable
 furnishes
 furnishing
