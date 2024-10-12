@@ -2436,7 +2436,6 @@ electroextraction
 expedient
 electroform
 electroforming
-electrofusion
 ethanol
 electrogalvanization
 electrogenetic
@@ -3990,6 +3989,7 @@ emolumentary
 emoluments
 emong
 emony
+electrofusion
 empoisoning
 eupomatiaceae
 eversions
