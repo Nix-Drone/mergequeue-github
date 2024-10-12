@@ -17017,6 +17017,7 @@ corrasion
 cogency
 coachmaster
 coachmen
+combinatorially
 coachs
 chorobates
 coachsmith
@@ -19684,7 +19685,6 @@ combinative
 combinator
 combinatory
 combinatorial
-combinatorially
 combinatoric
 combinators
 combind
