@@ -8591,7 +8591,6 @@ bylines
 brave
 baiocco
 bilingual
-bilinguality
 bilingually
 bilinguar
 bilinguist
@@ -16312,6 +16311,7 @@ bruited
 bruiter
 bruiters
 bruiting
+bilinguality
 bruits
 blackeners
 baddeleyite
