@@ -12548,6 +12548,7 @@ chromotropic
 concepts
 chromotropism
 chromous
+cps
 chromoxylograph
 coccidology
 chromule
@@ -27757,7 +27758,6 @@ cpi
 cuttoe
 cpm
 cpo
-cps
 cpt
 cpu
 cataplexy
