@@ -5056,7 +5056,6 @@ endosteally
 endlong
 endmost
 electrocoating
-endnote
 endnotes
 endoangiitis
 exemplum
@@ -8639,6 +8638,7 @@ embranglement
 equidistantial
 equidistantly
 equidistribution
+endnote
 equidiurnal
 equidivision
 equiexcellency
