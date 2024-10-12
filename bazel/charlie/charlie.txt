@@ -4883,7 +4883,6 @@ cartloads
 cartmaker
 cartmaking
 cartobibliography
-cartogram
 chloridizing
 cartographer
 cartographers
@@ -23294,6 +23293,7 @@ cicero
 consumptions
 consumptive
 consumptively
+cartogram
 coordinates
 consumptives
 consumptivity
