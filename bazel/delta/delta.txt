@@ -2676,7 +2676,6 @@ dogwatches
 decompoundable
 decompoundly
 decompress
-decompresses
 decompressing
 decompression
 detectaphone
@@ -10960,6 +10959,7 @@ disagreeable
 discrive
 disagreeableness
 disagreeably
+decompresses
 disagreeance
 disagreed
 disagreeing
