@@ -8754,7 +8754,6 @@ equiproportionality
 equips
 ethnolinguist
 equipt
-equiradial
 echo
 equiradical
 equirotal
@@ -13954,6 +13953,7 @@ extraregarding
 eastermost
 extraregularly
 extrarenal
+equiradial
 echinosphaerites
 evasions
 exsertile
