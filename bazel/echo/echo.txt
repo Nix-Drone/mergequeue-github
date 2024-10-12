@@ -1108,7 +1108,6 @@ edgings
 edgrow
 enormous
 edh
-edhs
 edibile
 earthlike
 equipper
@@ -11306,6 +11305,7 @@ enanthema
 evangeliarium
 excussio
 evangelic
+edhs
 evangelically
 eyestring
 erector
