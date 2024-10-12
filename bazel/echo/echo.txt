@@ -2643,7 +2643,6 @@ elaeocarpaceous
 eleutherodactyli
 electrosurgeries
 electrosurgical
-electrotactic
 electrotautomerism
 enrail
 electrotaxis
@@ -7606,6 +7605,7 @@ epicarpal
 epicarps
 espiglerie
 epicede
+electrotactic
 epicedia
 epicedial
 epicedian
