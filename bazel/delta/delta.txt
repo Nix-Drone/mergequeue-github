@@ -2415,7 +2415,6 @@ decimals
 dressages
 decimate
 decimated
-decimates
 decimating
 decimation
 decime
@@ -3352,6 +3351,7 @@ defiles
 defiliation
 defiling
 defilingly
+decimates
 different
 definable
 definably
