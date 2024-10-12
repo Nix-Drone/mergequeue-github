@@ -18929,7 +18929,6 @@ archfiends
 archfire
 archflamen
 archfoe
-archfool
 archform
 archfounder
 archgenethliac
@@ -22272,6 +22271,7 @@ astrolabes
 assisa
 astrolater
 agathology
+archfool
 astrolatry
 astrolithology
 anaesthesiant
