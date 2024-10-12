@@ -2801,7 +2801,6 @@ baromacrometer
 barometer
 boroughship
 barometry
-barometric
 barometrical
 beelzebub
 bartholinitis
@@ -5562,6 +5561,7 @@ bejuco
 bajri
 bejuggle
 bejumbles
+barometric
 bejumbling
 bunko
 bekah
