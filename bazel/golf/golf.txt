@@ -1227,7 +1227,6 @@ ganoids
 gasterophilus
 ganoine
 ganomalite
-ganosis
 geometrical
 gansa
 gondite
@@ -8161,6 +8160,7 @@ graphy
 graphic
 graphical
 graphically
+ganosis
 graphicalness
 graphicness
 ghosts
