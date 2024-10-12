@@ -14409,7 +14409,6 @@ circumradiuses
 circumferent
 circumrenal
 circumrotate
-circumrotated
 circumrotation
 circumrotatory
 circumsail
@@ -18525,6 +18524,7 @@ coindication
 coindwelling
 coiner
 coiners
+circumrotated
 crossrow
 coyness
 cuspate
