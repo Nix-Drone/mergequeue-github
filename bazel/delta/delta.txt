@@ -3522,7 +3522,6 @@ deformation
 deformational
 delete
 deformations
-deformative
 deformed
 deckie
 diplex
@@ -9144,6 +9143,7 @@ didric
 didst
 diducing
 diduction
+deformative
 diductively
 didunculidae
 didunculinae
