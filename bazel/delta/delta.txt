@@ -3417,7 +3417,6 @@ deflea
 defleaed
 damnum
 defleas
-deflect
 driftfishes
 deflectable
 deflected
@@ -7359,6 +7358,7 @@ detribalized
 dismoded
 detrimentally
 detrited
+deflect
 detrition
 deselect
 detritivorous
