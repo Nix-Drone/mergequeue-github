@@ -6827,7 +6827,6 @@ cellulosity
 cellulosities
 cellulotoxic
 cellulous
-cellvibrio
 classicized
 celom
 celomata
@@ -14637,6 +14636,7 @@ cysteinic
 cysteins
 cyclolith
 cystelcosis
+cellvibrio
 cystenchyma
 cystenchyme
 cystencyte
