@@ -1678,7 +1678,6 @@ ballow
 blear
 ballplayer
 ballplayers
-ballplatz
 bedrabbled
 ballpoint
 ballproof
@@ -12613,6 +12612,7 @@ bourd
 bolshevism
 bartered
 boondoggled
+ballplatz
 beginners
 boohooing
 besilver
