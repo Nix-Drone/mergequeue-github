@@ -2993,6 +2993,7 @@ fillmass
 feverously
 feverroot
 fevertwig
+fluter
 fevertwitch
 feverwort
 few
@@ -6534,7 +6535,6 @@ forgie
 frotted
 flutey
 flutemouth
-fluter
 fast
 fibroglia
 foolisher
