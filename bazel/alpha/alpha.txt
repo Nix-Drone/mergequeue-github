@@ -8246,6 +8246,7 @@ alignment
 allochezia
 alignments
 aligns
+auxetic
 aligreek
 aliya
 aliyah
@@ -24502,7 +24503,6 @@ auxanogram
 auxanometer
 auxeses
 auxesis
-auxetic
 auxil
 antacids
 auxiliar
