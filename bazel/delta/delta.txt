@@ -5662,7 +5662,6 @@ deperms
 depersonalise
 disapproval
 depersonalising
-depersonalization
 depersonalized
 depersonalizes
 depersonalizing
@@ -12886,6 +12885,7 @@ detorsion
 disorganizes
 disorganizing
 disorient
+depersonalization
 discomforted
 disorientate
 disorientates
