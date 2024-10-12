@@ -2873,7 +2873,6 @@ acrochordidae
 acrochordinae
 acrochordon
 acrocyanosis
-acrocyst
 achenocarp
 acrock
 acrospore
@@ -3708,6 +3707,7 @@ adenomyofibroma
 adenomyoma
 agapornis
 adenomyxosarcoma
+acrocyst
 adenoncus
 adenoneural
 adenoneure
