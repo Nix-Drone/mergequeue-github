@@ -2096,7 +2096,6 @@ acetoarsenite
 acetobenzoic
 acetol
 acetolysis
-acetolytic
 acetometer
 acetometry
 acetometric
@@ -15454,6 +15453,7 @@ antilytic
 antilitter
 azoospermia
 antiliturgy
+acetolytic
 annunciators
 affixt
 adjutancy
