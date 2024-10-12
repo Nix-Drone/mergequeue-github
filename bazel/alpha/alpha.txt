@@ -2087,7 +2087,6 @@ acetins
 acetize
 acetla
 acetmethylanilide
-acetnaphthalide
 acetoacetanilide
 acetoacetate
 acetoacetic
@@ -12596,6 +12595,7 @@ anetiological
 aneuch
 aneuploid
 alternater
+acetnaphthalide
 aneuploidy
 aneuria
 aneuric
