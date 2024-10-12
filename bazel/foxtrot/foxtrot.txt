@@ -3566,7 +3566,6 @@ flaxwife
 filamentous
 filaments
 filamentule
-filander
 filao
 forsterite
 filaree
@@ -9288,6 +9287,7 @@ faceplate
 fragilities
 fragment
 floorhead
+filander
 fragmental
 fumously
 fragmentalize
