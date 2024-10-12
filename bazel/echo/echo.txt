@@ -6310,7 +6310,6 @@ erzahler
 enrolls
 enroot
 enrooted
-enroots
 encirclement
 enround
 enruin
@@ -13872,6 +13871,7 @@ extrameridian
 extrameridional
 extrametrical
 extramission
+enroots
 extramodal
 extramolecular
 extramorainal
