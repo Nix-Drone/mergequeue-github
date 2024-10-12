@@ -2463,7 +2463,6 @@ electroindustrial
 electroing
 electroionic
 enzymology
-electrojet
 electrokinetic
 enkolpion
 embarrased
@@ -13521,6 +13520,7 @@ equivalences
 extemporisation
 extemporised
 eigh
+electrojet
 extemporiser
 elzevirian
 extemporising
