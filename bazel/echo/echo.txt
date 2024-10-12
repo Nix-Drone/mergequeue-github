@@ -3693,7 +3693,6 @@ embryopathology
 embryophagous
 embryophyta
 embryophyte
-embryophore
 embryoplastic
 etiolation
 embryos
@@ -8259,6 +8258,7 @@ epipharyngeal
 enzyms
 epistatic
 epistaxis
+embryophore
 epistemologically
 epistemonic
 equiprobabilist
