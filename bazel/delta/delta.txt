@@ -1293,7 +1293,6 @@ daukin
 daulias
 dault
 daunch
-damageable
 dauncy
 doxantha
 daunder
@@ -15987,6 +15986,7 @@ dottles
 dottling
 dottrel
 dottrels
+damageable
 douane
 douanes
 douanier
