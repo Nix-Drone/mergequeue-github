@@ -1953,7 +1953,6 @@ estmark
 eisteddfod
 eisteddfodau
 evertebral
-eisteddfodic
 eisteddfodism
 eisteddfods
 ecphorization
@@ -7052,6 +7051,7 @@ entrepeneur
 entrepeneurs
 entrepots
 effatum
+eisteddfodic
 entrepreneur
 entrepreneurs
 entrepreneurship
