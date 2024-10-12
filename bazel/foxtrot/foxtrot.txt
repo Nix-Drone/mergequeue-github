@@ -5666,7 +5666,6 @@ flintless
 flintlike
 flintlock
 fellatios
-flintwood
 flintworker
 flyoff
 flyover
@@ -7143,6 +7142,7 @@ ferules
 footboys
 footbreadth
 footbridge
+flintwood
 frustulum
 footcandle
 footcloths
