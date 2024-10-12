@@ -15269,6 +15269,7 @@ bedimplies
 bridge
 bridgeable
 bridgebote
+buildress
 bridgebuilder
 bridgebuilding
 bridged
@@ -17417,7 +17418,6 @@ breviary
 bungarus
 bijection
 bunged
-buildress
 bungee
 bungey
 bourtrees
