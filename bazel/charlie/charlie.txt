@@ -8878,7 +8878,6 @@ chaptering
 chapters
 chaptrel
 chapwoman
-chaqueta
 char
 conveyability
 chara
@@ -21404,6 +21403,7 @@ conclusionally
 conclusions
 conclusive
 conclusively
+chaqueta
 crepiness
 conclusiveness
 conclusory
