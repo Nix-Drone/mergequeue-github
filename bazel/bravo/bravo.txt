@@ -3579,7 +3579,6 @@ biers
 batfowling
 batfowls
 batful
-bath
 bathala
 batheable
 bathed
@@ -8976,6 +8975,7 @@ bioecology
 bioecologically
 bioecologies
 bioecologist
+bath
 bioelectric
 bioelectrical
 bioelectricity
