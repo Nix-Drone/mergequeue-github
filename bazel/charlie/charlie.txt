@@ -10160,6 +10160,7 @@ cheval
 chevalet
 chevalier
 centeredness
+cultivations
 chevaliers
 chevaline
 chevance
@@ -30858,7 +30859,6 @@ cultivates
 cultivating
 cultivation
 capitoninae
-cultivations
 cultivative
 cultivator
 cultive
