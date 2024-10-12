@@ -1625,7 +1625,6 @@ egyptianize
 egyptize
 egyptologer
 epipany
-egyptologic
 egis
 egises
 eglamore
@@ -6044,6 +6043,7 @@ enlistment
 engraphia
 enlistments
 enlists
+egyptologic
 etiolated
 enlive
 enliven
