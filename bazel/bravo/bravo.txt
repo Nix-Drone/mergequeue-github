@@ -6406,7 +6406,6 @@ benzdioxdiazine
 benzdioxtriazine
 benzein
 benzene
-benzeneazobenzene
 bastian
 benzenediazonium
 birthrate
@@ -13367,6 +13366,7 @@ blueprints
 botte
 bibliopoly
 biophysicists
+benzeneazobenzene
 bottegas
 bottekin
 botticelli
