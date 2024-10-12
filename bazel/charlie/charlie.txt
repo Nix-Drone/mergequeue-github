@@ -5704,7 +5704,6 @@ catechists
 catechizable
 catechization
 catechize
-catechized
 catechizer
 catechizes
 catechizing
@@ -25647,6 +25646,7 @@ chignon
 correctorship
 cobra
 correctress
+catechized
 correctrice
 corrects
 centupled
