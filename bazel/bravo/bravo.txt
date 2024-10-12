@@ -4223,7 +4223,6 @@ bearpaw
 bearship
 bearskin
 bearskins
-beartongue
 birdwatch
 bearward
 bearwort
@@ -6925,6 +6924,7 @@ bescorching
 bescorn
 bescoundrel
 bescour
+beartongue
 bari
 barhal
 bescourge
