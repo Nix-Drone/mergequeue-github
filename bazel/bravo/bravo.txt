@@ -12664,6 +12664,7 @@ booklike
 bookling
 booklists
 booklore
+bvt
 bhavan
 bioecologic
 backtrackers
@@ -18398,7 +18399,6 @@ buzzwords
 bespring
 bedrift
 benzoins
-bvt
 bwana
 biasways
 berginize
