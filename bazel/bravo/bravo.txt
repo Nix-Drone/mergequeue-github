@@ -553,6 +553,7 @@ backtracking
 backtracks
 backtrail
 backups
+bars
 backus
 backveld
 backvelder
@@ -3034,7 +3035,6 @@ barrowman
 barrulee
 barruly
 bothridium
-bars
 bedumb
 barsac
 barse
