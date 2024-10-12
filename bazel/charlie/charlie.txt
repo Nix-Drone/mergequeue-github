@@ -16963,7 +16963,6 @@ cm
 cmd
 catalecta
 cmdr
-cml
 cnemial
 cnemic
 cnemides
@@ -27148,6 +27147,7 @@ confessors
 countertruth
 chelas
 countertug
+cml
 curette
 counterturn
 counterturned
