@@ -2954,7 +2954,6 @@ foreshows
 feuillemorte
 feuillet
 feuilleton
-feuilletonist
 feuilletonistic
 feuilletons
 figurate
@@ -11219,6 +11218,7 @@ fungation
 funge
 fungi
 fungia
+feuilletonist
 fungian
 fungibility
 fungible
