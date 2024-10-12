@@ -3481,7 +3481,6 @@ deticking
 defog
 defogged
 didymus
-disyllable
 defoggers
 defogging
 defogs
@@ -16512,6 +16511,7 @@ draconid
 draconin
 draconis
 draconites
+disyllable
 dracontian
 dracontiasis
 deviascope
