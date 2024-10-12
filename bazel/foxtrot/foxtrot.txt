@@ -5950,7 +5950,6 @@ floorshift
 fawny
 floorshifts
 floorshow
-floorway
 fluidrachm
 floorward
 furniment
@@ -6481,6 +6480,7 @@ fluorspar
 fluosilicic
 fluotantalate
 fluotantalic
+floorway
 fastingly
 fluotitanic
 fumage
