@@ -6071,7 +6071,6 @@ disminister
 dungeonlike
 deputizes
 deputizing
-dequantitate
 dequeue
 dequeues
 dequeuing
@@ -7693,6 +7692,7 @@ demiluster
 devitrified
 devitrifying
 disgruntling
+dequantitate
 devocalisation
 devocalising
 devocalized
