@@ -9727,7 +9727,6 @@ amalfitan
 amalg
 amalgamable
 amalgamate
-attackable
 amalgamates
 amalgamating
 antimonarchical
@@ -16752,6 +16751,7 @@ apelles
 apeman
 apenteric
 apepsy
+attackable
 anthropomorphitic
 apepsia
 apepsinia
