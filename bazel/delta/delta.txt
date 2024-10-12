@@ -4999,6 +4999,7 @@ demote
 demoted
 demothball
 demotion
+discrowned
 demotions
 demotist
 demotists
@@ -11788,7 +11789,6 @@ discriminoid
 disgregate
 dyscrinism
 discrown
-discrowned
 dockize
 discrownment
 discrowns
