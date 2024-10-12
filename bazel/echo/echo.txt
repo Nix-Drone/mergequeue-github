@@ -5818,6 +5818,7 @@ engraver
 engravers
 engraves
 easts
+entosterna
 engysseismology
 endophytous
 engravings
@@ -6967,7 +6968,6 @@ entorganism
 enjoyableness
 entosphenal
 entosphere
-entosterna
 entosternal
 entosternum
 entosthoblast
