@@ -5871,7 +5871,6 @@ depot
 desistance
 depotentiate
 directorship
-depots
 derive
 depr
 deliberatively
@@ -16447,6 +16446,7 @@ doze
 dozed
 dozened
 dozener
+depots
 dozens
 dozent
 dozenth
