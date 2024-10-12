@@ -1686,6 +1686,7 @@ accounsel
 account
 accountability
 accountable
+airflow
 accountableness
 alicyclic
 accountably
@@ -6871,7 +6872,6 @@ airfare
 amyctic
 airfares
 airfield
-airflow
 airflows
 airfoil
 airfoils
