@@ -3560,6 +3560,7 @@ ammine
 addressable
 addressees
 addresser
+articulacy
 addressers
 addresses
 auxetics
@@ -20674,7 +20675,6 @@ acidimetrical
 articling
 articulability
 articulable
-articulacy
 articulant
 articular
 acrobatholithic
