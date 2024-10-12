@@ -800,7 +800,6 @@ bookmonger
 badju
 betterer
 badland
-badlands
 bogatyr
 buba
 badly
@@ -6493,6 +6492,7 @@ benzopyrazolone
 benzopyrylium
 benzoquinoxaline
 baltimorean
+badlands
 benzosulfimide
 benzosulphimide
 benzotetrazine
