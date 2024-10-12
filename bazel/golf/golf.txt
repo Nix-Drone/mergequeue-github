@@ -4307,7 +4307,6 @@ gymnospermism
 gymnospermous
 gyroma
 gymnosporangium
-gymnospore
 gymnosporous
 gymnostomata
 gymnostomous
@@ -6067,6 +6066,7 @@ greeted
 guazzo
 goldfinch
 glucoses
+gymnospore
 glucoside
 glucosidic
 geostrategic
