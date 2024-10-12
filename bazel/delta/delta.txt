@@ -2408,7 +2408,6 @@ dueling
 decimalist
 decimalization
 dilogarithm
-decimalize
 decimalizes
 decimally
 decimals
@@ -17825,6 +17824,7 @@ ducktail
 duckweed
 duckweeds
 duckwife
+decimalize
 duckwing
 discrete
 ducs
