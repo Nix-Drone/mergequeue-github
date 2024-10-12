@@ -3396,6 +3396,7 @@ defis
 defix
 deflagrable
 desulfuriser
+deskmen
 deflagrated
 deflagrates
 deflagrating
@@ -6747,7 +6748,6 @@ deskbound
 deskill
 desklike
 deskman
-deskmen
 desks
 desktop
 destined
