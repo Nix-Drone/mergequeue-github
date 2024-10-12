@@ -8891,7 +8891,6 @@ binocular
 binocularly
 binoculars
 bellarmine
-binode
 binodose
 battery
 binomen
@@ -10463,6 +10462,7 @@ blastoporal
 blastopore
 blastosphere
 blackthorn
+binode
 blastospheric
 buttonhold
 blastostylar
