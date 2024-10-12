@@ -1996,7 +1996,6 @@ campanologists
 campanulaceae
 campanulaceous
 campanulales
-campanular
 campanulariae
 campanularidae
 campanulatae
@@ -24974,6 +24973,7 @@ cordycepin
 cordiceps
 cordyceps
 communicator
+campanular
 cordicole
 cordierite
 cordies
