@@ -1413,7 +1413,6 @@ baldheaded
 baldheads
 bussu
 baldy
-baldish
 ballparks
 baldmoney
 baldmoneys
@@ -5450,6 +5449,7 @@ behear
 behears
 behearse
 beheira
+baldish
 bandlimit
 behelp
 behemothic
