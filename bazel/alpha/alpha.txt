@@ -6367,7 +6367,6 @@ agrace
 ahold
 agrafe
 appoints
-agrafes
 agraffe
 agraffes
 analemmatic
@@ -20940,6 +20939,7 @@ ascensive
 ascensor
 ascent
 ascertain
+agrafes
 ascertainability
 ascertainably
 ascertainer
