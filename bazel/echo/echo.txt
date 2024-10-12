@@ -4207,7 +4207,6 @@ empoison
 empoisoned
 encaustes
 ephoral
-evocators
 etherol
 empoisonment
 empoisons
@@ -8308,6 +8307,7 @@ epit
 epitactic
 epitaph
 epitapher
+evocators
 epitaphian
 electrostatics
 epitaphist
