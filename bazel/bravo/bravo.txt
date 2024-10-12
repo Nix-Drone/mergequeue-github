@@ -2728,7 +2728,6 @@ briers
 biologese
 barleymow
 barleys
-barless
 barly
 barling
 boza
@@ -15647,6 +15646,7 @@ broadcast
 broadcaster
 broadcasters
 broadcastings
+barless
 broadcloth
 broaden
 broadeners
