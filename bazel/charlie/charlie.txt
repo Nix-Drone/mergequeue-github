@@ -7270,7 +7270,6 @@ column
 centurial
 covenably
 centuriate
-centuriator
 centuried
 centuries
 centurions
@@ -18207,6 +18206,7 @@ coffin
 coffing
 coffining
 coffinless
+centuriator
 consoled
 coffinmaking
 coffins
