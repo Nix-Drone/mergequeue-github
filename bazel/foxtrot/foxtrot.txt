@@ -3602,7 +3602,6 @@ filchingly
 file
 fileable
 filecard
-filechar
 filed
 filefishes
 fogie
@@ -7095,6 +7094,7 @@ fleabane
 footful
 flapjack
 foolhardiness
+filechar
 foolhardiship
 foolhead
 fitfulness
