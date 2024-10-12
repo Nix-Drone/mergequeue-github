@@ -970,6 +970,7 @@ calathus
 calatrava
 coelelminthes
 calavance
+clypeal
 calaverite
 calbroben
 calc
@@ -16305,7 +16306,6 @@ clip
 clipboard
 clipboards
 clype
-clypeal
 clypeastridea
 clypeastrina
 clypeastroid
