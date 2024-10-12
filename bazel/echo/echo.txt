@@ -5102,7 +5102,6 @@ engrains
 endocyclic
 endocyemate
 enfield
-endocyst
 epicyclical
 endocystitis
 eardrums
@@ -12703,6 +12702,7 @@ exomologesis
 exomorphic
 exomorphism
 exomphalos
+endocyst
 exomphalous
 embryogeny
 exomphalus
