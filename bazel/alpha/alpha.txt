@@ -12800,7 +12800,6 @@ angiopressure
 acquaintance
 angiorrhagia
 angiorrhaphy
-angiorrhea
 angiorrhexis
 angiosarcoma
 angiosclerotic
@@ -21462,6 +21461,7 @@ asphyxias
 asoka
 asphyxiate
 auxoaction
+angiorrhea
 asphyxiated
 asphyxiating
 asphyxiation
