@@ -1074,7 +1074,6 @@ freshening
 furriners
 farmable
 farmed
-farmer
 farmeress
 farmery
 filigraned
@@ -9237,6 +9236,7 @@ fractionation
 flab
 fossorial
 fractioned
+farmer
 fractioning
 fractionisation
 fractionise
