@@ -3705,7 +3705,6 @@ damaging
 degumming
 dishfuls
 degums
-degust
 degusted
 degusting
 deneb
@@ -13922,6 +13921,7 @@ distracter
 distractibility
 distractible
 defaulters
+degust
 distractile
 dedicator
 distraction
