@@ -5045,7 +5045,6 @@ endive
 eland
 endjunk
 evens
-endleaf
 endleaves
 endless
 excuses
@@ -8591,6 +8590,7 @@ emperies
 equative
 equator
 etherial
+endleaf
 embowl
 equatoreal
 erase
