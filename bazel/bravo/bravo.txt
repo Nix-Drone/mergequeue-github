@@ -750,6 +750,7 @@ baddie
 barlock
 betimber
 baddies
+bridechamber
 baddish
 baddishly
 baddishness
@@ -15231,7 +15232,6 @@ bogies
 bridebed
 bridecake
 bulgarophil
-bridechamber
 bridecup
 befoulier
 bridegroom
