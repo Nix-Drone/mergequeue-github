@@ -5786,6 +5786,7 @@ flyways
 faunas
 further
 flyweight
+filter
 flyweights
 forthon
 fribblish
@@ -10008,7 +10009,6 @@ friending
 formose
 friendless
 friendlessness
-filter
 friendliest
 friendliness
 friendliwise
