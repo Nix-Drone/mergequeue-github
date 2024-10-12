@@ -8735,7 +8735,6 @@ chansonniers
 chanst
 chant
 celandine
-chera
 chantant
 chantecler
 chanted
@@ -24902,6 +24901,7 @@ corbed
 corbeille
 corbeils
 corbel
+chera
 corbeled
 corbelled
 corbelling
