@@ -12400,7 +12400,6 @@ brands
 bondless
 bondmaid
 boohoo
-bondmaids
 bondman
 bondmanship
 bondmen
@@ -12666,6 +12665,7 @@ booklists
 booklore
 bhavan
 bioecologic
+bondmaids
 backtrackers
 booklores
 booklouse
