@@ -11770,7 +11770,6 @@ chondrolipoma
 chondrology
 chondromas
 chondromata
-chondromatous
 chondromyces
 chondromyxoma
 chondromyxosarcoma
@@ -14760,6 +14759,7 @@ capitulation
 cystourethrography
 cystous
 chondrocele
+chondromatous
 cistron
 cistronic
 cistrons
