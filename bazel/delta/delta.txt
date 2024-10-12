@@ -9573,7 +9573,6 @@ dihalo
 discommendable
 dihalogen
 dihdroxycholecalciferol
-dihedral
 dihedrals
 dihedron
 discipleship
@@ -17727,6 +17726,7 @@ dubbin
 dubbing
 discriminable
 dubbins
+dihedral
 dubhgall
 dubiety
 dubieties

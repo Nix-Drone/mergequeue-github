@@ -3456,7 +3456,6 @@ figary
 fight
 figaro
 faster
-figbird
 figboy
 fightwite
 floccus
@@ -4604,6 +4603,7 @@ fivepence
 fiver
 forages
 fm
+figbird
 fivesome
 fivestones
 fivish
