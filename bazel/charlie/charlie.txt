@@ -11887,7 +11887,6 @@ chordacentrous
 chordacentrum
 cystometer
 chordaceous
-chordal
 chordamesoderm
 chordamesodermal
 chordamesodermic
@@ -21166,6 +21165,7 @@ concentring
 concents
 concentual
 concentus
+chordal
 concept
 conceptacle
 conceptaculum
