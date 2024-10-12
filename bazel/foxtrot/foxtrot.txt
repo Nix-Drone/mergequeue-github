@@ -5343,7 +5343,6 @@ flecnodal
 flect
 frigefact
 flection
-flectionless
 flector
 flinter
 fido
@@ -6916,6 +6915,7 @@ folklorists
 florian
 footman
 freedom
+flectionless
 folkmoot
 flatmate
 flotas
