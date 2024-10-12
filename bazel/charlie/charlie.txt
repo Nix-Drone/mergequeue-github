@@ -2423,7 +2423,6 @@ candlers
 candles
 candleshine
 candleshrift
-candlesnuffer
 candlestand
 committeewoman
 candlestick
@@ -23762,6 +23761,7 @@ contrapuntally
 contrapuntist
 contrapunto
 contrarational
+candlesnuffer
 contraregular
 contraregularity
 contraremonstrance
