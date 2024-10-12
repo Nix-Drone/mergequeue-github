@@ -10171,7 +10171,6 @@ blackneck
 blackness
 bebump
 blackout
-blackpatch
 blackplate
 blackpoll
 beauclerk
@@ -16280,6 +16279,7 @@ bruchidae
 bruchus
 brucia
 brucin
+blackpatch
 brucina
 brucine
 brucines
