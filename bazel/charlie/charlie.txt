@@ -430,7 +430,6 @@ cactus
 civilisable
 cactuses
 cactuslike
-cacumen
 cassavas
 cacuminal
 catheretic
@@ -10104,6 +10103,7 @@ chessart
 chessboard
 chessboards
 chessdom
+cacumen
 chessel
 chesser
 cabinda
