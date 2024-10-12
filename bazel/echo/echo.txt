@@ -297,6 +297,7 @@ eagerer
 eatability
 eatable
 eatables
+extrusible
 electrolyzability
 eatberry
 eaten
@@ -14123,7 +14124,6 @@ entrails
 examinees
 extrudes
 extruding
-extrusible
 enriching
 extrusile
 earthen
