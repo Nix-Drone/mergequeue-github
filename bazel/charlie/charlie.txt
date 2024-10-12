@@ -14746,7 +14746,6 @@ cystose
 cystosyrinx
 cystospasm
 cystospastic
-cystospore
 cystostomy
 cystostomies
 cystotome
@@ -19446,6 +19445,7 @@ colourers
 cholecystalgia
 colourfast
 colourful
+cystospore
 colourfully
 colourfulness
 coloury
