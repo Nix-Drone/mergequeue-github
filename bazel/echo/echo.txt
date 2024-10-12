@@ -2683,7 +2683,6 @@ entrainer
 endomycetaceae
 electrothermometer
 electrothermostatic
-electrothermotic
 electrotype
 electrotyped
 electrotypes
@@ -7552,6 +7551,7 @@ ephori
 ephors
 ephraim
 ekphory
+electrothermotic
 escalatory
 estrildine
 ephraimite
