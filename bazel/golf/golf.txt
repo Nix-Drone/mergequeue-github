@@ -2652,7 +2652,6 @@ genderer
 genders
 ghoulie
 geneal
-genealogic
 genealogical
 genealogists
 gradatim
@@ -5180,6 +5179,7 @@ granch
 gummites
 glass
 gaily
+genealogic
 gyrencephalate
 glassblower
 glassblowing
