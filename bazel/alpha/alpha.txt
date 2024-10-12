@@ -6850,6 +6850,7 @@ airdate
 announcement
 airdates
 airdock
+assify
 airdrome
 airdromes
 airdrop
@@ -21759,7 +21760,6 @@ assiege
 assientist
 assiento
 assiette
-assify
 apprehensiveness
 assign
 assignability
