@@ -6728,7 +6728,6 @@ guestchamber
 gruffily
 gomart
 gomashta
-gomasta
 gomavel
 gombeen
 gombo
@@ -9195,6 +9194,7 @@ grasper
 gristmiller
 giltcup
 gnomic
+gomasta
 goaves
 grith
 grithbreach
