@@ -2611,7 +2611,6 @@ brandies
 bariatrician
 bariatrics
 baric
-barycenter
 bemused
 barycentric
 burmite
@@ -15800,6 +15799,7 @@ broken
 brokenheartedly
 brokenly
 binder
+barycenter
 bridesmaiding
 beaconing
 bonaght
