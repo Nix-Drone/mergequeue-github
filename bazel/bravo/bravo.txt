@@ -1968,7 +1968,6 @@ bandlet
 bandlimited
 breadwinners
 bandlimiting
-bandlimits
 bandman
 bandmaster
 bandmasters
@@ -5847,6 +5846,7 @@ belligerency
 belligerent
 belligerently
 belligerents
+bandlimits
 brightener
 bellying
 bellyland
