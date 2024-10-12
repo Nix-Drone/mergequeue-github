@@ -2766,7 +2766,6 @@ elementalistic
 elementality
 elementalize
 elementally
-elementaloid
 eluded
 escorting
 elementals
@@ -14162,6 +14161,7 @@ exuded
 ennoy
 exudence
 exudes
+elementaloid
 exuding
 exulate
 ethane
