@@ -18435,7 +18435,6 @@ cohort
 cohortative
 cohosh
 consigner
-cohoshes
 chronosemic
 cohosted
 cohosting
@@ -29566,6 +29565,7 @@ croak
 croaked
 croaker
 conceptually
+cohoshes
 croakers
 croaky
 croakier
