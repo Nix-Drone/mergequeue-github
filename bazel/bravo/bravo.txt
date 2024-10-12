@@ -3626,6 +3626,7 @@ babesiasis
 bathyplankton
 buglers
 baygall
+blastomeric
 bathyscaph
 bathyscaphes
 bathyseism
@@ -10446,7 +10447,6 @@ blastoma
 blastomas
 blastomata
 blastomere
-blastomeric
 blastomycetic
 bergamots
 blastomycin
