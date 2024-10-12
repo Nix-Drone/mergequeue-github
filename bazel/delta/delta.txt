@@ -1480,7 +1480,6 @@ deaconship
 deactivate
 deactivated
 deactivates
-discontinuing
 dicranoid
 dehydromucic
 deactivation
@@ -11076,6 +11075,7 @@ disarranged
 disarrangement
 disarranger
 disarranges
+discontinuing
 disarranging
 dysarthria
 dysarthric
