@@ -2298,7 +2298,6 @@ blameworthiness
 barato
 burseeds
 baghla
-bugbears
 baratte
 barauna
 baraza
@@ -9601,6 +9600,7 @@ bisecting
 bisection
 bisectional
 bisections
+bugbears
 bisector
 bisectors
 bisectrices
