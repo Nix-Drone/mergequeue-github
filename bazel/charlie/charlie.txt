@@ -20598,7 +20598,6 @@ compilator
 compileable
 compiled
 compilement
-compiling
 comping
 clanjamfrie
 compital
@@ -26075,6 +26074,7 @@ chutzpas
 cosmogeny
 cosmogenic
 chazzanim
+compiling
 cosmogonal
 cosmogoner
 cosmogony
