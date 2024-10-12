@@ -5812,6 +5812,7 @@ engrapple
 engrasp
 engraulis
 engrave
+enterfeat
 engravement
 engraven
 engraver
@@ -6609,7 +6610,6 @@ enterer
 ellipses
 empathizing
 enterers
-enterfeat
 entergogenic
 enteria
 etouffe
