@@ -9227,7 +9227,6 @@ displant
 diestock
 death
 diestrous
-drawbridge
 diestrual
 diestrum
 diestrums
@@ -16215,6 +16214,7 @@ discomfiting
 discover
 doweries
 dowering
+drawbridge
 dowerless
 deathlessly
 dowf
