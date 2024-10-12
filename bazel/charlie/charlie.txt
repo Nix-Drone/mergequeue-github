@@ -1905,6 +1905,7 @@ camions
 camisa
 camisadoes
 camisados
+collimator
 camisard
 camisas
 critickin
@@ -19050,7 +19051,6 @@ collimated
 collimates
 collimating
 collimation
-collimator
 collimators
 collin
 colline
