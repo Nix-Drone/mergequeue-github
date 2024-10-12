@@ -4921,7 +4921,6 @@ garderobe
 giver
 givers
 gladeye
-gyves
 giveth
 givin
 glaux
@@ -5452,6 +5451,7 @@ goback
 gayals
 glycolate
 glycolyl
+gyves
 glycolipid
 gilsonite
 glycolipine
