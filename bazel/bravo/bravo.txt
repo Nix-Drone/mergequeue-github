@@ -3182,6 +3182,7 @@ bardish
 basest
 bash
 bashalick
+begrave
 bashara
 bashaw
 bashawdom
@@ -5352,7 +5353,6 @@ buyable
 benchboard
 begray
 begrain
-begrave
 birne
 begrett
 begrim
