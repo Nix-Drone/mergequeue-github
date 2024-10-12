@@ -2455,6 +2455,7 @@ betatter
 barcaroles
 becut
 barcarolle
+bombardier
 barcas
 barcella
 bumblebees
@@ -12254,7 +12255,6 @@ bushfighter
 bombardelle
 baetylic
 bombarder
-bombardier
 bombardiers
 bombarding
 bombardman
