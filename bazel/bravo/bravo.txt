@@ -1227,6 +1227,7 @@ bakery
 bakeries
 bakerite
 bakerless
+biglot
 bakerly
 bakerlike
 bakers
@@ -8405,7 +8406,6 @@ bighting
 bights
 biglenoid
 belabouring
-biglot
 bigmitt
 biserially
 batatilla
