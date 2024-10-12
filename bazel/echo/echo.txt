@@ -5250,7 +5250,6 @@ embeam
 eupneic
 endoplastron
 endoplastular
-endopleural
 east
 endopleurite
 electrometry
@@ -13335,6 +13334,7 @@ expoundable
 expounder
 expounders
 empocket
+endopleural
 expounds
 enthrong
 expreme

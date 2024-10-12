@@ -2318,6 +2318,7 @@ fenceplay
 fencepost
 fenceress
 fencers
+footlockers
 freeborn
 firebricks
 fsiest
@@ -7204,7 +7205,6 @@ farrierlike
 footling
 footlock
 footlocker
-footlockers
 footlog
 figurants
 footmanhood
