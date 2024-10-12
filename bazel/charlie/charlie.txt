@@ -3452,7 +3452,6 @@ captivities
 cojoin
 captor
 captors
-clientless
 captress
 capturable
 captured
@@ -12369,6 +12368,7 @@ chromatogenous
 chromatogram
 chromatograph
 chromatography
+clientless
 chromatographic
 chromatographically
 chromatoid
