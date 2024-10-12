@@ -1489,7 +1489,6 @@ deactivator
 deactivators
 defrosts
 deadborn
-deadcenter
 deeryards
 deadeye
 deaden
@@ -12128,6 +12127,7 @@ disfigured
 defencelessness
 disfigurer
 disfigures
+deadcenter
 depositure
 disambiguates
 disfiguring
