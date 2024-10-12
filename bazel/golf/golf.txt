@@ -1188,7 +1188,6 @@ gangue
 garotte
 gangues
 geogenous
-gangway
 grenadilla
 gangwayed
 gangwayman
@@ -9936,6 +9935,7 @@ guardroom
 guards
 guarico
 gatewards
+gangway
 greased
 guarish
 guarneri
