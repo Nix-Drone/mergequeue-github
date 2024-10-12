@@ -5320,7 +5320,6 @@ extremal
 endosmotic
 endosome
 equilibrist
-endomorphism
 endosomes
 endospermic
 endospermous
@@ -8308,6 +8307,7 @@ epit
 epitactic
 epitaph
 epitapher
+endomorphism
 epitaphian
 electrostatics
 epitaphist
