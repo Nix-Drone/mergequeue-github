@@ -516,7 +516,6 @@ backstairs
 backstays
 backster
 backstick
-backstitch
 backstitched
 backstitches
 backstitching
@@ -1424,6 +1423,7 @@ bridoon
 baldoquin
 baldpate
 baldpated
+backstitch
 baldpatedness
 baldpates
 baldrib
