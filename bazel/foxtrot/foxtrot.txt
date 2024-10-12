@@ -5922,7 +5922,6 @@ floodplain
 floods
 forst
 fortifiable
-floodway
 feute
 floodways
 fistfight
@@ -6596,6 +6595,7 @@ franklinism
 fluxile
 fluxility
 forbecause
+floodway
 fluxing
 fluxion
 fluxional
