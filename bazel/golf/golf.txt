@@ -6411,7 +6411,6 @@ goatskins
 goatstone
 goatsucker
 galleylike
-goatweed
 gramma
 goave
 gob
@@ -9936,6 +9935,7 @@ guardroom
 guards
 guarico
 gatewards
+goatweed
 greased
 guarish
 guarneri
