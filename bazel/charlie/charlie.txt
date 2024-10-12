@@ -7331,7 +7331,6 @@ cristina
 cephalocercal
 cephalochorda
 cowmen
-cephalochordal
 cephalochordata
 cephalochordate
 cephalocyst
@@ -22335,6 +22334,7 @@ congrid
 congridae
 cyclopedist
 congroid
+cephalochordal
 compoing
 congrue
 congruence
