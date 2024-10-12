@@ -5860,7 +5860,6 @@ cathect
 cathected
 cathectic
 cathecting
-cathection
 cathects
 cathedra
 cathedrae
@@ -30153,6 +30152,7 @@ crudded
 crudding
 cruddle
 crude
+cathection
 crudely
 crudeness
 crudes
