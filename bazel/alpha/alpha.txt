@@ -20343,7 +20343,6 @@ arrowleaf
 arrowless
 ashet
 arrowlet
-arrowlike
 arrowplate
 automolite
 arrowroots
@@ -21865,6 +21864,7 @@ associativeness
 associativity
 associator
 associatory
+arrowlike
 associe
 assoiled
 aryanization
