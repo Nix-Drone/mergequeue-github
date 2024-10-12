@@ -3982,7 +3982,6 @@ bazzite
 bbs
 bcd
 bch
-bchs
 bd
 bde
 bdellatomy
@@ -5771,6 +5770,7 @@ bell
 bellacoola
 belladonna
 biltongs
+bchs
 bellatrix
 burglar
 bellbind
