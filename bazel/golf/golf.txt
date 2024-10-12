@@ -3130,7 +3130,6 @@ geomancer
 geomancy
 garnered
 gripes
-geomancies
 geomant
 geobios
 geomantic
@@ -8912,6 +8911,7 @@ griddle
 griddlecake
 gymnothorax
 giddiness
+geomancies
 griddlecakes
 griddled
 genderless
