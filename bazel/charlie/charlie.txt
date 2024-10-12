@@ -26248,7 +26248,6 @@ costogenic
 costoinferior
 consultative
 costopleural
-costopneumopexy
 costopulmonary
 costoscapular
 costosternal
@@ -27812,6 +27811,7 @@ crabweed
 crabwood
 cracca
 craccus
+costopneumopexy
 crachoir
 cracidae
 cracinae
