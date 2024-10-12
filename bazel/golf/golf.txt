@@ -6671,7 +6671,6 @@ gnash
 goldurned
 goldurns
 goldwork
-goldworker
 golem
 golems
 goles
@@ -8878,6 +8877,7 @@ gret
 gretchen
 gasworker
 grete
+goldworker
 grevillea
 gesticulation
 grunch
