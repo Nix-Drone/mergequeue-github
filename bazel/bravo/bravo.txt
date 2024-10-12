@@ -8961,7 +8961,6 @@ bioclimatologies
 bioclimatologist
 biocoenose
 biocoenoses
-biocoenotic
 biodegradability
 biodegradable
 biodegradation
@@ -11590,6 +11589,7 @@ boatels
 boatheader
 boathook
 boathouse
+biocoenotic
 boathouses
 boatyard
 boatie
