@@ -3417,7 +3417,6 @@ deflea
 defleaed
 damnum
 defleas
-deflect
 driftfishes
 deflectable
 deflected
@@ -14476,6 +14475,7 @@ divoto
 divots
 dyvour
 dyvours
+deflect
 deratizing
 duodenectomy
 divulgated
