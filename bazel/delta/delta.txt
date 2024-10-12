@@ -7381,7 +7381,6 @@ damneder
 daintihood
 detrusion
 detrusor
-detubation
 detumescence
 dissocialize
 detumescent
@@ -17675,6 +17674,7 @@ dsnames
 dsp
 dsr
 dsri
+detubation
 democratizes
 dtd
 dtente
