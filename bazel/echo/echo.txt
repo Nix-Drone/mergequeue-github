@@ -3553,7 +3553,6 @@ emboltement
 embolus
 emborder
 embordered
-elegant
 embordering
 epidesmine
 emborders
@@ -5422,6 +5421,7 @@ endozoa
 endozoic
 endpaper
 extranidal
+elegant
 endplates
 endpoints
 endrin
