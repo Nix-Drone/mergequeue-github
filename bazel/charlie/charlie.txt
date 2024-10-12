@@ -8872,7 +8872,6 @@ chaptalization
 chaptalize
 chapter
 chapteral
-chaptered
 chapterhouse
 chaptering
 chapters
@@ -29583,6 +29582,7 @@ confrontational
 croatian
 croc
 crinion
+chaptered
 crocanthemum
 croceic
 croceine
