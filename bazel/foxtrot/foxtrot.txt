@@ -8127,7 +8127,6 @@ forethrift
 foretoken
 frostproof
 femmes
-fretless
 foretop
 foretopman
 foretopmast
@@ -8642,6 +8641,7 @@ ferally
 footing
 forspoke
 forspread
+fretless
 flatboats
 fellatory
 fillebeg
