@@ -10170,7 +10170,6 @@ blackman
 blackneck
 blackness
 bebump
-blackout
 blackpatch
 blackplate
 blackpoll
@@ -16450,6 +16449,7 @@ brutalising
 brontometer
 brutalism
 brutalist
+blackout
 bichromatic
 brutalitarian
 brutalitarianism
