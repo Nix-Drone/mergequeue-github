@@ -4963,7 +4963,6 @@ enddamaged
 enddamaging
 ende
 energistic
-endearance
 endearedly
 endearingness
 everywhere
@@ -11363,6 +11362,7 @@ evaporated
 evaporates
 enemylike
 evaporating
+endearance
 evaporation
 exams
 evaporations
