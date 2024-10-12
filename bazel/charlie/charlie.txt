@@ -7342,7 +7342,6 @@ cephalocone
 cephaloconic
 cephalodia
 cephalodymia
-cephalodymus
 cephalodiscid
 cephalodiscida
 cephalodiscus
@@ -26809,6 +26808,7 @@ counterfeitment
 counterfeits
 counterferment
 counterfessed
+cephalodymus
 counterfire
 counterfix
 counterflange
