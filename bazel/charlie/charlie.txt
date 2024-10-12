@@ -14420,7 +14420,6 @@ circumscribable
 circumscribe
 circumscribed
 circumscriber
-circumscript
 circumscriptions
 circumscriptive
 circumscriptively
@@ -20376,6 +20375,7 @@ comous
 ceratiidae
 comox
 comp
+circumscript
 compaa
 cistae
 compact
