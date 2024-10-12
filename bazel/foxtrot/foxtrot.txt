@@ -5082,7 +5082,6 @@ ferricyanhydric
 flasker
 foretooth
 faecal
-flasklet
 flasks
 flasque
 flat
@@ -11593,6 +11592,7 @@ fusile
 fusileer
 fatalistic
 fusileers
+flasklet
 fluyts
 fossilising
 fcs
