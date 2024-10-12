@@ -9601,7 +9601,6 @@ bisecting
 bisection
 bisectional
 bisections
-bisector
 bisectors
 bisectrices
 busybodyness
@@ -15794,6 +15793,7 @@ brokages
 bridehead
 blighties
 broke
+bisector
 burglariously
 bemires
 broken
