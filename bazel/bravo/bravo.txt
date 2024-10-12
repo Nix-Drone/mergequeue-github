@@ -679,6 +679,7 @@ bacteriostat
 bacteriostatically
 bacteriotherapeutic
 bacteriotherapy
+brancher
 balanophorin
 bacteriotoxic
 bechances
@@ -14431,7 +14432,6 @@ branchiomeric
 branch
 branchage
 branchellion
-brancher
 branchery
 branches
 beadle
