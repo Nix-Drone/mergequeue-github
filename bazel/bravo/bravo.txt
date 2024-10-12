@@ -5235,7 +5235,6 @@ begarnish
 begartered
 begass
 begats
-bestrows
 begattal
 bastes
 begaud
@@ -9537,6 +9536,7 @@ birthland
 birthless
 birthmark
 birthmarks
+bestrows
 birthmate
 birthnight
 birthplace
