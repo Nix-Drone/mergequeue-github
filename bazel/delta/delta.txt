@@ -3249,6 +3249,7 @@ defences
 defend
 defendable
 demimondaine
+diallelus
 dejeuners
 defendants
 defended
@@ -8354,7 +8355,6 @@ dialled
 deadwort
 dt
 diallelon
-diallelus
 draughtiness
 dinichthyid
 dialler
