@@ -2942,7 +2942,6 @@ fumier
 feuding
 feudists
 feudovassalism
-format
 feuds
 flagonless
 furazane
@@ -5560,6 +5559,7 @@ flicker
 ferromagnetic
 flickered
 flickeringly
+format
 flickermouse
 flossa
 flickers
