@@ -1718,7 +1718,6 @@ fear
 fanflower
 fimbles
 fusillade
-filterable
 fetcher
 fearedly
 firebreaks
@@ -3337,6 +3336,7 @@ fibroangioma
 fidgeting
 fidgetingly
 fidia
+filterable
 fidibus
 fidicinal
 faultage
