@@ -1677,7 +1677,6 @@ ballottines
 ballow
 blear
 ballplayer
-ballplayers
 ballplatz
 bedrabbled
 ballpoint
@@ -3667,6 +3666,7 @@ bathos
 bibliophiles
 bathoses
 brachiated
+ballplayers
 bathrobe
 balneophysiology
 bathroom
