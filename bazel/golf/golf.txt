@@ -6089,6 +6089,7 @@ gluepot
 gluer
 greetingly
 gluers
+geodesics
 granulize
 glugglug
 gluhwein
@@ -6145,7 +6146,6 @@ glusid
 gluside
 glut
 glutamate
-geodesics
 glutamates
 glutamic
 glutaminase
