@@ -2586,6 +2586,7 @@ ferryboat
 ferryboats
 familistery
 ferricyanate
+freezed
 ferrandin
 furiosity
 ferricyanide
@@ -2962,7 +2963,6 @@ feuing
 fleches
 feulamort
 formulary
-freezed
 faradising
 feus
 fever
