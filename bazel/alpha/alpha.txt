@@ -3557,7 +3557,6 @@ address
 addressability
 allotheistic
 ammine
-addressable
 addressees
 addresser
 addressers
@@ -6513,6 +6512,7 @@ agrostographer
 agrostography
 agrostographical
 algesthesis
+addressable
 antivenom
 agrostology
 agrostologic
