@@ -2198,7 +2198,6 @@ elbowy
 elbowpiece
 electrican
 elbowroom
-elbows
 elcaja
 eld
 examination
@@ -6745,6 +6744,7 @@ entertained
 enquires
 entertainer
 entertainers
+elbows
 emotionalization
 entertaining
 entertainingly
