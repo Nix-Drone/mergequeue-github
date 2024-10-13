@@ -7825,7 +7825,6 @@ grammars
 gieseckite
 grammaticality
 gateau
-glossate
 grammatically
 grammaticalness
 grammaticaster
@@ -8138,6 +8137,7 @@ grapery
 graperies
 gyrators
 graperoot
+glossate
 grapes
 grapeshot
 gelatinizing
