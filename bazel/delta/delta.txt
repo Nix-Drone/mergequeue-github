@@ -6842,7 +6842,6 @@ desorbed
 desorbs
 desorption
 desoxalate
-desoxalic
 dichromasy
 desoxyanisoin
 desoxycorticosterone
@@ -11437,6 +11436,7 @@ daubry
 discoidal
 discoideae
 discoids
+desoxalic
 discolichen
 discolith
 discolorated
