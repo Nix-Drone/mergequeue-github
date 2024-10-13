@@ -19182,7 +19182,6 @@ archsee
 archsewer
 archshepherd
 archsin
-archsynagogue
 archspy
 archspirit
 archsteward
@@ -19980,6 +19979,7 @@ armloads
 armlock
 armlocks
 armoire
+archsynagogue
 armoires
 armomancy
 armoniac
