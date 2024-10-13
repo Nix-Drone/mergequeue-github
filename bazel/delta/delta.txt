@@ -2581,6 +2581,7 @@ decoded
 decoders
 decodes
 decoding
+dumping
 decodon
 decoherence
 dissightly
@@ -15004,7 +15005,6 @@ doglike
 dufrenite
 dogmata
 dogmatic
-dumping
 dogeless
 dogmatical
 dogmatically
