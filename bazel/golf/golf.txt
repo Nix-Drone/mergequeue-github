@@ -1967,7 +1967,6 @@ gatewise
 gatewoman
 gatherable
 gathered
-gilgai
 gatherers
 graplins
 gyrostabilizer
@@ -7690,6 +7689,7 @@ graecized
 graecizes
 graecizing
 graecomania
+gilgai
 graecophil
 graeculus
 granth
