@@ -3622,7 +3622,6 @@ frailly
 filesmith
 filesniff
 flagships
-filespec
 forficula
 fossores
 fileting
@@ -7283,6 +7282,7 @@ fumiferous
 fabricable
 fuliginous
 firefly
+filespec
 footweary
 footwears
 fleered
