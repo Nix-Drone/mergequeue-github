@@ -4351,6 +4351,7 @@ fishberries
 fishboat
 fishbolt
 fishbolts
+forcepslike
 falchions
 fishbowls
 fisheater
@@ -6279,7 +6280,6 @@ fluidally
 fluidextract
 fluidglycerate
 fluidible
-forcepslike
 fluidic
 fosslology
 forint
