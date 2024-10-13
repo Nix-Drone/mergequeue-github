@@ -12762,6 +12762,7 @@ dismissals
 dismissed
 dismisser
 doormaking
+dishlike
 dismissers
 dunged
 dismisses
@@ -18380,7 +18381,6 @@ dunces
 dupery
 duping
 dupion
-dishlike
 dupioni
 duplation
 duple
