@@ -1464,6 +1464,7 @@ garmentmaker
 gibingly
 garments
 glutael
+gasholder
 garmenture
 garmentworker
 growlers
@@ -9841,7 +9842,6 @@ guanidin
 groundable
 guanidine
 guanidins
-gasholder
 guaniferous
 goliardery
 guanyl
