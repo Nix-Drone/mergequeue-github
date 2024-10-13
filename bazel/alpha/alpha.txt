@@ -5212,7 +5212,6 @@ afterpart
 automate
 aface
 afaced
-afacing
 afaint
 afara
 afars
@@ -7773,6 +7772,7 @@ aldrins
 aldrovanda
 aldus
 alchemically
+afacing
 ale
 alea
 aleak
