@@ -2373,6 +2373,7 @@ gumbotil
 gravery
 geyserite
 geysers
+gunhouse
 goads
 geisha
 groundenell
@@ -10492,7 +10493,6 @@ gunfires
 gearless
 gung
 gunge
-gunhouse
 gregge
 guniter
 gunj
