@@ -9280,7 +9280,6 @@ foreorder
 fulmining
 fragging
 fraggings
-fragile
 fishpot
 fragileness
 fragility
@@ -10702,6 +10701,7 @@ fruitiness
 famish
 frightable
 falsettist
+fragile
 fruiting
 fruition
 farthingless
