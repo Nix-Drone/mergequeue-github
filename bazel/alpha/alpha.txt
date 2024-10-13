@@ -2113,7 +2113,6 @@ acetone
 acetonemia
 acetonemic
 acetonic
-acetonyl
 acetonylacetone
 acetonylidene
 acetonitrile
@@ -25131,6 +25130,7 @@ axiologist
 axiom
 ambisyllabic
 axiomatic
+acetonyl
 axiomatical
 axiomatically
 adept
