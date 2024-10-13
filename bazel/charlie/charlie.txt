@@ -10862,7 +10862,6 @@ chip
 chipboard
 chipchap
 chipchop
-chipewyan
 chiplet
 chipling
 chipmuck
@@ -17988,6 +17987,7 @@ coenamoring
 coenamorment
 coenamors
 coenamourment
+chipewyan
 contaminable
 coenanthium
 carrottop
