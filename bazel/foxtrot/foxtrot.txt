@@ -4633,7 +4633,6 @@ freedstool
 fixidity
 fixing
 fixings
-fixities
 flannelleaf
 fixt
 fusiformis
@@ -5981,6 +5980,7 @@ flopwing
 flor
 flora
 florae
+fixities
 floral
 florally
 floramor
