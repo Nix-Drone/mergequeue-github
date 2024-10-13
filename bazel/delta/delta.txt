@@ -3022,7 +3022,6 @@ dopamines
 deeming
 deemphasis
 darkest
-deemphasize
 deemphasized
 deemster
 deemsters
@@ -9839,6 +9838,7 @@ dimensionless
 dimensum
 decked
 dipterologist
+deemphasize
 dimer
 dimeran
 deboner
