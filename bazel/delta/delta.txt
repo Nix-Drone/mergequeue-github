@@ -1690,7 +1690,6 @@ deathbeds
 deathcup
 degree
 deathcups
-donatary
 deathday
 deathful
 deathfulness
@@ -11849,6 +11848,7 @@ disdainfulness
 danewort
 disdainly
 disdainous
+donatary
 doux
 disdains
 disdar
