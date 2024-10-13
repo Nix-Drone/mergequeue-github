@@ -4101,6 +4101,7 @@ beaklike
 beaks
 beal
 beala
+badness
 bealach
 beallach
 bealtared
@@ -16474,7 +16475,6 @@ bruteness
 brutify
 bimorphemic
 brutification
-badness
 brutified
 barbarianize
 burners
