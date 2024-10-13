@@ -18754,6 +18754,7 @@ archaisms
 archaist
 archaistic
 ak
+atomize
 archaists
 archaizer
 archaizing
@@ -22773,7 +22774,6 @@ atomists
 atomity
 abrocoma
 atomization
-atomize
 atomized
 atomizer
 antiheterolysin

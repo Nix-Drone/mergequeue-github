@@ -3887,7 +3887,6 @@ fairstead
 final
 finale
 finales
-finalis
 finalization
 finalize
 finalized
@@ -11258,6 +11257,7 @@ funguses
 fireball
 funguslike
 funic
+finalis
 fistulae
 funicle
 foreday
