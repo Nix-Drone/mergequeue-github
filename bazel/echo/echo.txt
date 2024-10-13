@@ -4044,7 +4044,6 @@ empannel
 empanoply
 empaper
 emparchment
-emparl
 empasma
 everbloomer
 empassion
@@ -13728,6 +13727,7 @@ endeavourer
 extort
 ennobled
 experimentee
+emparl
 epochist
 entortill
 european
