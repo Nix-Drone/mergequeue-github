@@ -9577,6 +9577,7 @@ checksum
 construct
 checksummed
 checksumming
+cattily
 checkup
 checkups
 checkweigher
@@ -21985,7 +21986,6 @@ confirmational
 confirmations
 confirmatively
 confirmatory
-cattily
 confirmatorily
 confirmed
 confirmedly
