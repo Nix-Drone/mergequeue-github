@@ -4162,7 +4162,6 @@ beanos
 beanpole
 beanpoles
 beans
-beansetter
 beanshooter
 beanstalk
 beanstalks
@@ -17745,6 +17744,7 @@ burletta
 burly
 blarney
 burliest
+beansetter
 burlily
 burliness
 brachioganoid
