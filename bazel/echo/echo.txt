@@ -3872,7 +3872,6 @@ emeses
 emesidae
 emesis
 emetia
-emetic
 emetics
 emetines
 entrapped
@@ -9296,6 +9295,7 @@ erotization
 erotize
 erotizing
 erotical
+emetic
 erotogenesis
 extract
 excl
