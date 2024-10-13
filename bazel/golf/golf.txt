@@ -4586,7 +4586,6 @@ gypping
 gyppo
 gips
 gyp
-gyps
 gipseian
 gipser
 gipsy
@@ -6130,6 +6129,7 @@ ghain
 genus
 glumose
 gestapo
+gyps
 glumosity
 glumous
 glumpier
