@@ -12696,7 +12696,6 @@ bookrests
 bookroom
 bookseller
 berendo
-becloaked
 booksellerish
 boce
 barmkin
@@ -15966,6 +15965,7 @@ bronchiolitis
 bronchiolus
 bronchiospasm
 bronchitic
+becloaked
 bronchitis
 bronchoalveolar
 bronchoaspergillosis
