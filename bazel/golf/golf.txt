@@ -3125,6 +3125,7 @@ glassed
 geomagnetist
 gravamen
 geomaly
+gnashing
 geomalic
 geomancer
 geomancy
@@ -6228,7 +6229,6 @@ gnarrs
 gnars
 guerickian
 gnashed
-gnashing
 gobang
 gnashingly
 gnast
