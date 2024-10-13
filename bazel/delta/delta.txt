@@ -1741,7 +1741,6 @@ dobroes
 dodecuplet
 demagnetisable
 debarked
-debarking
 debarkment
 debarks
 debarment
@@ -11213,6 +11212,7 @@ dysbulic
 disburden
 disburdened
 disburdening
+debarking
 defi
 disburdenment
 disburdens
