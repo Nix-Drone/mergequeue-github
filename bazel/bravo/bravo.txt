@@ -5149,7 +5149,6 @@ befluster
 befog
 befogged
 baetylus
-befogging
 beguile
 befogs
 batoid
@@ -13846,6 +13845,7 @@ buttonless
 boxbush
 boxcar
 bonify
+befogging
 boxcars
 bowpin
 boxed
