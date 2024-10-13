@@ -335,7 +335,6 @@ ebbs
 ebcasc
 enterosyphilis
 ebcd
-ebcdic
 ebdomade
 eben
 ebenaceae
@@ -11433,6 +11432,7 @@ evenmete
 evenmindedness
 evenness
 exaristate
+ebcdic
 enghosted
 evennesses
 evensongs
