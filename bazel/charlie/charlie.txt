@@ -2411,7 +2411,6 @@ candlelighting
 candlelit
 candlemaker
 candlemaking
-candlemas
 candlenut
 candlepins
 candlepower
@@ -16480,6 +16479,7 @@ clockkeeper
 clockless
 cuon
 clockmaker
+candlemas
 clockmaking
 crewer
 clockroom
