@@ -6072,7 +6072,6 @@ cattleship
 catullian
 coburghership
 commercials
-completedness
 catur
 corallite
 catvine
@@ -8741,6 +8740,7 @@ chantecler
 chanted
 chantey
 chanteyman
+completedness
 chantepleure
 chanter
 chanterelle
