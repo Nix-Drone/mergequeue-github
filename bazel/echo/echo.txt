@@ -4923,6 +4923,7 @@ endamage
 endamageable
 endamagement
 endamages
+excyst
 endamaging
 endameba
 endamebae
@@ -12016,7 +12017,6 @@ excisemanship
 excises
 excising
 excision
-excyst
 excystation
 excystment
 excitability
