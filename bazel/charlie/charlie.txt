@@ -9252,7 +9252,6 @@ chasty
 chastiment
 chastisable
 chastise
-chastised
 chastiser
 chastisers
 clapperboard
@@ -27304,6 +27303,7 @@ courtbred
 courtcraft
 cetacean
 courted
+chastised
 courteousness
 courtepy
 courter
