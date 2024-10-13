@@ -9775,7 +9775,6 @@ bystreets
 bistres
 bistriate
 bistro
-bottleholder
 bistroic
 boos
 bistros
@@ -11565,6 +11564,7 @@ boarskin
 boarspear
 boart
 boarts
+bottleholder
 boarwood
 boas
 boast
