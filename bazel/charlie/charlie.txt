@@ -16993,7 +16993,6 @@ cnidosis
 co
 coabode
 coabound
-coabsume
 coacceptor
 coacervate
 coacervated
@@ -18992,6 +18991,7 @@ collenchymatic
 collenchymatous
 collenchyme
 colleri
+coabsume
 collery
 colleries
 collet
