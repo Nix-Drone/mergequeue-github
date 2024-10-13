@@ -7262,7 +7262,6 @@ bestock
 bessemerize
 broadhead
 billy
-bestore
 bestorm
 bestow
 bestowal
@@ -10650,6 +10649,7 @@ bacteriorhodopsin
 barbudo
 bungfu
 blemisher
+bestore
 biconditional
 blemishment
 blemmatrope
