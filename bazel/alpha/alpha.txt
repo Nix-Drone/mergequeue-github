@@ -10956,6 +10956,7 @@ amuser
 altitudinous
 amove
 amoved
+autobusses
 amoving
 amowt
 amp
@@ -23893,7 +23894,6 @@ autoboat
 autoboating
 autobus
 autobuses
-autobusses
 ariettes
 autocade
 autocades
