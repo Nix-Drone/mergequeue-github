@@ -1102,7 +1102,6 @@ fisc
 farms
 farmscape
 farmsteads
-farmtown
 farnesol
 farnesols
 fogas
@@ -8983,6 +8982,7 @@ foundering
 foundership
 foundling
 fabella
+farmtown
 fetial
 foundlings
 foundress
