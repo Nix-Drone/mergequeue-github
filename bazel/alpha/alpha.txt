@@ -17843,7 +17843,6 @@ applicate
 application
 applications
 applicative
-applicatively
 applicatory
 applicatorily
 applicators
@@ -22437,6 +22436,7 @@ ataxiagraph
 ataxiaphasia
 ataxias
 ataxic
+applicatively
 ataxies
 ataxinomic
 ahind
