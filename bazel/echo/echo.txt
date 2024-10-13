@@ -6506,7 +6506,6 @@ embolisms
 ensuant
 ensued
 ensues
-ensuingly
 ensurance
 ensurer
 ensures
@@ -12111,6 +12110,7 @@ egbert
 elastics
 epicycloidal
 extendedness
+ensuingly
 excommunicated
 excommunicating
 excommunication
