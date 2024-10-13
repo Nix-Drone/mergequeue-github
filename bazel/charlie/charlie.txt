@@ -1555,7 +1555,6 @@ calocarpum
 calochortaceae
 chronologists
 calochortus
-calodaemon
 calodemon
 calodemonial
 calogram
@@ -7511,6 +7510,7 @@ ceraunomancy
 costmary
 ceraunophone
 ceraunoscope
+calodaemon
 ceraunoscopy
 cerberic
 cerberus
