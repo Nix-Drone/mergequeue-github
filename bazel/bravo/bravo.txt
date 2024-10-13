@@ -15103,7 +15103,6 @@ brewage
 brewages
 bogier
 butchering
-brewery
 breweries
 brewers
 brewership
@@ -17361,6 +17360,7 @@ bunch
 bunchberries
 bunched
 buncher
+brewery
 bucoliast
 bunches
 bunchflower
