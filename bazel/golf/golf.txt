@@ -3538,6 +3538,7 @@ gervas
 gesellschaft
 geshurites
 gesithcund
+guideboard
 gesithcundman
 gesling
 gesnera
@@ -10138,7 +10139,6 @@ guidable
 guidance
 guide
 gruf
-guideboard
 greediness
 guidebooky
 guidebookish
