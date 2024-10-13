@@ -5977,7 +5977,6 @@ glovemaker
 gametes
 gloveman
 glover
-gloves
 glow
 girnel
 glowbard
@@ -9739,6 +9738,7 @@ grungier
 grungiest
 grieflessness
 gelidities
+gloves
 grunion
 groveled
 grunt
