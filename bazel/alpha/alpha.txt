@@ -6205,7 +6205,6 @@ aglycone
 asphodels
 aufklarung
 aglycones
-aglycons
 aglycosuric
 aglimmer
 aglint
@@ -19301,6 +19300,7 @@ ardentness
 arder
 ardhamagadhi
 ardhanari
+aglycons
 antisceptic
 ardilla
 ardish
