@@ -29866,7 +29866,6 @@ crosshackle
 crosshair
 crosshairs
 crosshand
-crosshatch
 crosshatched
 crosshatcher
 crosshatches
@@ -31244,6 +31243,7 @@ curatory
 curatorial
 curatorium
 charkha
+crosshatch
 calamiform
 constrainable
 curatrices
