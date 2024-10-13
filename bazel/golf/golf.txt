@@ -3232,7 +3232,6 @@ georgics
 gripy
 georgium
 geoscience
-geoscientist
 geoscientists
 geoscopy
 gelasian
@@ -3859,6 +3858,7 @@ grotesques
 gibberella
 gibberellin
 gaffing
+geoscientist
 gryph
 gibberish
 gibberose
