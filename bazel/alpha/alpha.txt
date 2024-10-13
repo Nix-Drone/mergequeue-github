@@ -11272,7 +11272,6 @@ amphoriskos
 amphorous
 amphoteric
 amphotericin
-ampicillin
 ampyxes
 ample
 amplect
@@ -11587,6 +11586,7 @@ anaerobation
 anaerobe
 anaerobes
 anaerobian
+ampicillin
 anaerobic
 anaerobically
 anaerobies
