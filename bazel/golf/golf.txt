@@ -4809,7 +4809,6 @@ gyroscopics
 gyrose
 gyrostabilized
 gyrostat
-gyrostats
 gyrotheca
 girouette
 gastroduodenostomies
@@ -9312,6 +9311,7 @@ greiges
 gront
 greatheartedness
 groof
+gyrostats
 groom
 gallinula
 groomed
