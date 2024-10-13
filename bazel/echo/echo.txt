@@ -3690,7 +3690,6 @@ embryonic
 embryoniferous
 embryons
 embryopathology
-embryophagous
 embryophyta
 embryophyte
 embryophore
@@ -9370,6 +9369,7 @@ errors
 errs
 errsyn
 ensuing
+embryophagous
 ers
 ersar
 elliptically
