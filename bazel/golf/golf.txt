@@ -2460,7 +2460,6 @@ ghostlikeness
 geldability
 goodwill
 griffinish
-glamourousness
 geldant
 goodnesses
 gelded
@@ -3131,6 +3130,7 @@ geomancy
 garnered
 gripes
 geomancies
+glamourousness
 geomant
 geobios
 geomantic
