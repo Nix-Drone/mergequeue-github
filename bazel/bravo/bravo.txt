@@ -3541,7 +3541,6 @@ brachia
 batcher
 batches
 batching
-bargemen
 batea
 bogging
 bateau
@@ -13825,6 +13824,7 @@ bowser
 baccalaurean
 bowshots
 bowsie
+bargemen
 bowsing
 bowsprit
 bowsprits
