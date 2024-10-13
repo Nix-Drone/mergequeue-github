@@ -7308,7 +7308,6 @@ gossampine
 gossaniferous
 gossans
 gossard
-gossep
 geomechanics
 goujay
 gossy
@@ -9294,6 +9293,7 @@ groynes
 groins
 grolier
 grolieresque
+gossep
 groma
 gromatic
 gromatical
