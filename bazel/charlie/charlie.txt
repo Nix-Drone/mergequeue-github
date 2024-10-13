@@ -14140,6 +14140,7 @@ cypseliform
 cypseliformes
 copal
 cypseline
+controlled
 colorist
 cypseloid
 cypselomorph
@@ -23869,7 +23870,6 @@ controllability
 controllable
 controllableness
 controllably
-controlled
 controller
 costophrenic
 controllers
