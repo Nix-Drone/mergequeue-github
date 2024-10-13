@@ -1102,7 +1102,6 @@ fisc
 farms
 farmscape
 farmsteads
-farmtown
 farnesol
 farnesols
 fogas
@@ -4386,6 +4385,7 @@ fishyback
 fishified
 friezy
 fishifying
+farmtown
 fishily
 fishiness
 fleeten
