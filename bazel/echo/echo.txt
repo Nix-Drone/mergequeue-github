@@ -2518,6 +2518,7 @@ electrometer
 enage
 electrometric
 electrometrical
+elute
 electrometrically
 electromyogram
 electromyography
@@ -3217,7 +3218,6 @@ elusiveness
 elusory
 elusoriness
 esophagospasm
-elute
 eluted
 eluting
 elution
