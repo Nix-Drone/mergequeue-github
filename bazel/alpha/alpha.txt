@@ -7726,7 +7726,6 @@ aldermanlike
 aldermanry
 aldermanries
 aldermanship
-aldermen
 aldern
 alderney
 alders
@@ -15585,6 +15584,7 @@ aiming
 ancress
 antimission
 antimissionary
+aldermen
 antipyretic
 antimissioner
 antimystic
