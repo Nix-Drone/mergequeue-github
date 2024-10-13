@@ -2696,7 +2696,6 @@ generalists
 generaliter
 generalities
 generalizations
-generalize
 genl
 gyrations
 generalizeable
@@ -3965,6 +3964,7 @@ giftwrapping
 gig
 giga
 globoseness
+generalize
 gigabyte
 gigabytes
 gurjara
