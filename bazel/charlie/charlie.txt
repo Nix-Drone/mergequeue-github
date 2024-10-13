@@ -10399,7 +10399,6 @@ chidra
 chilies
 chief
 chiefage
-chiefdoms
 chiefer
 cineoles
 chiefery
@@ -18224,6 +18223,7 @@ cofound
 cofounded
 cofounder
 cofounding
+chiefdoms
 cofoundress
 cofounds
 cofreighter
