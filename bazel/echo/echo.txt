@@ -1013,7 +1013,6 @@ edam
 edana
 edaphology
 enerve
-edaphon
 edaphosauria
 edaphosaurid
 edaphosaurus
@@ -9665,6 +9664,7 @@ eskimauan
 entapophysial
 ethynylation
 eskimoic
+edaphon
 emigree
 eskimoid
 eskimoized
