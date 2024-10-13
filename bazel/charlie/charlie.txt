@@ -7549,7 +7549,6 @@ counterphobic
 cramberry
 cercospora
 cercosporella
-cercus
 cerdonian
 cere
 cereal
@@ -16260,6 +16259,7 @@ clinoclasite
 clinodiagonal
 clinodomatic
 clinodome
+cercus
 clinograph
 clinographic
 clinohedral
