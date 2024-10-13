@@ -6206,7 +6206,6 @@ asphodels
 aufklarung
 aglycones
 aglycons
-aglycosuric
 aglimmer
 aglint
 aglipayan
@@ -13098,6 +13097,7 @@ anilic
 anilide
 anilidic
 aniliid
+aglycosuric
 anilin
 anilinctus
 anilines
