@@ -3405,7 +3405,6 @@ deflagrator
 deflate
 deflated
 drynaria
-deflater
 deflates
 delime
 deflating
@@ -8178,6 +8177,7 @@ diadochokinetic
 diadoumenos
 diadrom
 diadrome
+deflater
 diadromous
 dioti
 diadumenus
