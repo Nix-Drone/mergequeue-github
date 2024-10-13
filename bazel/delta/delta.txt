@@ -686,7 +686,6 @@ damone
 damonico
 damosel
 damosels
-decapitalize
 damp
 dampcourse
 damped
@@ -3478,6 +3477,7 @@ disprobative
 defocusses
 defoedation
 deticking
+decapitalize
 defog
 defogged
 didymus
