@@ -8580,7 +8580,6 @@ equatable
 equate
 equates
 equating
-essentializing
 equation
 equational
 equationally
@@ -11513,6 +11512,7 @@ evernioid
 eversible
 evert
 empyrean
+essentializing
 emulation
 evertebrata
 evertebrate
