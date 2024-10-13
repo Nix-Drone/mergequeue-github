@@ -3840,6 +3840,7 @@ batts
 bottom
 battu
 battue
+bodywork
 battues
 batture
 battuta
@@ -11808,7 +11809,6 @@ bodysurfing
 bodywear
 balas
 bodywise
-bodywork
 bodken
 bodkin
 bodkins
