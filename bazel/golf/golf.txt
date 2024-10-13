@@ -5882,7 +5882,6 @@ glossist
 glossitic
 glossitis
 garbleable
-glossless
 glossocele
 glossaries
 glossocoma
@@ -6547,6 +6546,7 @@ gonidia
 garston
 gohila
 goi
+glossless
 goy
 goyana
 goyazite
