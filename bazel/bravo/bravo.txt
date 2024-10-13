@@ -13765,7 +13765,6 @@ bowhead
 bacterium
 bang
 bast
-bowheads
 bowyang
 bowyangs
 bowie
@@ -16387,6 +16386,7 @@ brushcut
 bestick
 braker
 betrace
+bowheads
 brushed
 brusher
 booted
