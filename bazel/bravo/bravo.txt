@@ -8476,6 +8476,7 @@ bloodlettings
 biked
 biker
 bikers
+buffeter
 bikeway
 bikeways
 bikh
@@ -16823,7 +16824,6 @@ buffers
 buffet
 buffeted
 bibliokelpt
-buffeter
 buffeters
 bubalises
 bestripe
