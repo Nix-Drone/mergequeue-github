@@ -3996,7 +3996,6 @@ eversions
 emoted
 emoting
 emotiomotor
-emotion
 emotionable
 empyreans
 emotional
@@ -11666,6 +11665,7 @@ evulgate
 eyepopper
 evulgation
 electroencephalographically
+emotion
 embosking
 equiradiate
 electrotechnology
