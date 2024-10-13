@@ -17262,7 +17262,6 @@ coassert
 coasserter
 coassessor
 caravelle
-coassignee
 coassist
 coassistant
 culpas
@@ -28588,6 +28587,7 @@ cremaster
 cremasterial
 cremasteric
 cremate
+coassignee
 cremates
 crosspoints
 cremating
