@@ -2489,7 +2489,6 @@ bardily
 brickiest
 brobdingnagian
 barding
-bardings
 blindages
 bardism
 bardlet
@@ -6578,6 +6577,7 @@ bepress
 bepretty
 bepride
 bepuddle
+bardings
 bedirt
 bepuff
 bepuffed
