@@ -4704,7 +4704,6 @@ girellidae
 gapperi
 grapewort
 grout
-gluelike
 gyrencephala
 gyrencephalic
 gentry
@@ -6543,6 +6542,7 @@ guttus
 goglet
 goglets
 gogo
+gluelike
 gonidia
 garston
 gohila
