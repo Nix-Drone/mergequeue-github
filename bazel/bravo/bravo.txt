@@ -13846,7 +13846,6 @@ buttonless
 boxbush
 boxcar
 bonify
-boxcars
 bowpin
 boxed
 boxen
@@ -14433,6 +14432,7 @@ branchage
 branchellion
 brancher
 branchery
+boxcars
 branches
 beadle
 branchful
