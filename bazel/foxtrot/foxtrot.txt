@@ -6790,7 +6790,6 @@ foison
 foisonless
 foisons
 flaughts
-failsafe
 foist
 foxtongue
 fibromyomectomy
@@ -10994,6 +10993,7 @@ feltwork
 fumago
 flavones
 fumarase
+failsafe
 fortunation
 flagellar
 finally
