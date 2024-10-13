@@ -535,7 +535,6 @@ backstroke
 backstromite
 backswept
 backswimmer
-backsword
 backswording
 bettergates
 backswordman
@@ -4970,6 +4969,7 @@ beeish
 beek
 beekeepers
 betulaceous
+backsword
 beekeeping
 beekite
 beelbow
