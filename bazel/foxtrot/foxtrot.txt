@@ -8382,6 +8382,7 @@ formalith
 flange
 formalities
 formalizable
+frettation
 formalization
 fogyism
 formalizations
@@ -9920,7 +9921,6 @@ fretsaw
 fuds
 frett
 frettage
-frettation
 fiducial
 frette
 fretted
