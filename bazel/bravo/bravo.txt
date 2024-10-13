@@ -3834,7 +3834,6 @@ battologising
 battologist
 battologize
 battologized
-battologizing
 batton
 batts
 bottom
@@ -9641,6 +9640,7 @@ bishop
 backbeats
 bishopdom
 bishoped
+battologizing
 biborate
 bishopful
 bishophood
