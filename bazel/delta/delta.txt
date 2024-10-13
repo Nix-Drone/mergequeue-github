@@ -9981,7 +9981,6 @@ din
 dynactinometer
 dynagraph
 dynam
-dynametric
 dynamic
 dynamically
 dynamicity
@@ -18217,6 +18216,7 @@ dunghill
 dunghilly
 dumbfish
 dunghills
+dynametric
 diaphany
 djakarta
 diaphototropic
