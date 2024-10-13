@@ -5742,7 +5742,6 @@ categorising
 categorist
 categorization
 categorizations
-categorize
 corona
 categorizers
 categorizes
@@ -22888,6 +22887,7 @@ consignatary
 consignataries
 cosinage
 consignatory
+categorize
 consigned
 consignee
 consignees
