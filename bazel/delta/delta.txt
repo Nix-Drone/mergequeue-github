@@ -4322,7 +4322,6 @@ displacer
 deltiology
 dialyzing
 dummy
-deltohedron
 deltoidei
 deltoideus
 deltoids
@@ -10393,6 +10392,7 @@ diphenhydramine
 diphenyl
 diphenylacetylene
 diphenylamine
+deltohedron
 diphenylaminechlorarsine
 diphenylchloroarsine
 diphenylene
