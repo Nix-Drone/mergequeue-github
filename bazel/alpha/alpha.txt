@@ -8641,7 +8641,6 @@ aller
 allergen
 allergenic
 autarkical
-allergenicity
 allergia
 allergies
 allergin
@@ -10001,6 +10000,7 @@ ambleocarpus
 ambler
 amblers
 ambles
+allergenicity
 aphthonite
 amahs
 amblycephalidae
