@@ -2264,7 +2264,6 @@ gearset
 gearshift
 gearshifts
 gearwheels
-glistening
 gease
 geat
 geb
@@ -3163,6 +3162,7 @@ geomorphogenic
 geomorphogenist
 geomorphology
 geomorphologic
+glistening
 gleewoman
 geomorphological
 geomorphologically
