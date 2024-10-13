@@ -9941,7 +9941,6 @@ estancia
 exhumated
 estancias
 estanciero
-erosion
 eserin
 estang
 estate
@@ -11477,6 +11476,7 @@ eveque
 ensellure
 everbearer
 everbearing
+erosion
 everblooming
 everest
 everglades
