@@ -4911,7 +4911,6 @@ finfishes
 flamer
 flamers
 ferneries
-fallback
 flamethrowers
 forcepses
 frankpledge
@@ -8117,6 +8116,7 @@ foreteller
 foretellers
 foretells
 forethink
+fallback
 forethinking
 forethough
 forethoughtfully
