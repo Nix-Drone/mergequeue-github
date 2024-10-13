@@ -15406,6 +15406,7 @@ cakewalks
 clangours
 clangs
 clangula
+contiguous
 coastguard
 clanjamfray
 clanjamfrey
@@ -30491,7 +30492,6 @@ cubicontravariant
 cubics
 cubicula
 costly
-contiguous
 cubiculo
 cubiculum
 cubiform
