@@ -2262,7 +2262,6 @@ gears
 guernseys
 gearset
 gearshift
-gearshifts
 gearwheels
 glistening
 gease
@@ -2976,6 +2975,7 @@ gently
 gentling
 gentoo
 gallophobe
+gearshifts
 gaypoo
 gentrices
 gentries
