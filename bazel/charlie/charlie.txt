@@ -14395,7 +14395,6 @@ circumpentagon
 convexed
 circumplanetary
 circumplect
-circumplicate
 circumplication
 circumpolar
 circumpolygon
@@ -23236,6 +23235,7 @@ consulated
 consulates
 consulating
 consulship
+circumplicate
 consulships
 consult
 consulta
