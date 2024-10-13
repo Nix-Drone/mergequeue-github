@@ -3443,6 +3443,7 @@ deflocculant
 debasement
 deflocculate
 deflocculating
+disuniform
 deflocculator
 deflocculent
 deflorate
@@ -15200,7 +15201,6 @@ dollies
 dollying
 dollin
 dolliness
-disuniform
 dollishly
 dollishness
 dishtowel
