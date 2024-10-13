@@ -7347,7 +7347,6 @@ cephalodiscid
 cephalodiscida
 cephalodiscus
 cephalodium
-cephalofacial
 cephalogram
 cephalograph
 cephalohumeral
@@ -12533,6 +12532,7 @@ chromosomes
 chromosomic
 chromosphere
 collophore
+cephalofacial
 chromospheres
 chromospheric
 cadjan
