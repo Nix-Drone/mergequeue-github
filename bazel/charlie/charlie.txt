@@ -13268,7 +13268,6 @@ cyclecars
 cycled
 cycledom
 cycler
-cyclers
 cycles
 cyclesmith
 cycliae
@@ -14066,6 +14065,7 @@ cyphellate
 cypher
 cipherable
 cipherdom
+cyclers
 cyphered
 cipherer
 cipherhood
