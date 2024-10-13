@@ -4212,6 +4212,7 @@ frat
 fireplace
 fireplaces
 fireplow
+fellage
 fleeceable
 fireplug
 frieze
@@ -10210,7 +10211,6 @@ fritter
 fantasticly
 flytes
 fritterer
-fellage
 frittering
 fritters
 formation
