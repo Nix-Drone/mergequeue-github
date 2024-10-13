@@ -3460,7 +3460,6 @@ adatom
 adaunt
 adawe
 adawn
-adaxial
 adazzle
 adc
 adcon
@@ -7118,6 +7117,7 @@ akemboll
 akene
 airworthier
 arthropathy
+adaxial
 akenes
 abolishments
 apehood
