@@ -9871,7 +9871,6 @@ chemisette
 chemism
 choosy
 chemisorb
-chemisorption
 cantator
 counteraverment
 coprophilic
@@ -18181,6 +18180,7 @@ coffeehouse
 coffeehoused
 coffeehouses
 coffeehousing
+chemisorption
 coffeeleaf
 coffeeman
 coffeepot
