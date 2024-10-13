@@ -562,7 +562,6 @@ dureful
 dama
 damage
 damageability
-damageably
 damaged
 damagement
 damageous
@@ -18321,6 +18320,7 @@ duodenitis
 dismantled
 duodenocholangitis
 duodenocholecystostomy
+damageably
 duodenocholedochotomy
 defossion
 dysodyle
