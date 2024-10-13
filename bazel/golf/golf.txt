@@ -5862,7 +5862,6 @@ glossemes
 glossemic
 girondism
 glosser
-glossers
 glosses
 glossy
 glossier
@@ -7937,6 +7936,7 @@ grandly
 grandma
 grandmamma
 grandmammy
+glossers
 grandmas
 golach
 grandmaster
