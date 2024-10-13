@@ -4351,7 +4351,6 @@ fishberries
 fishboat
 fishbolt
 fishbolts
-falchions
 fishbowls
 fisheater
 fisheye
@@ -6844,6 +6843,7 @@ foldouts
 folds
 foldure
 fairyisms
+falchions
 ferities
 foleye
 folgerite
