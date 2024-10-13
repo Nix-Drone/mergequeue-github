@@ -5861,7 +5861,6 @@ grenado
 glossemes
 glossemic
 girondism
-glosser
 glossers
 glosses
 glossy
@@ -7987,6 +7986,7 @@ grange
 grangerised
 grangerism
 grangerization
+glosser
 grangerize
 grangerized
 gongorism
