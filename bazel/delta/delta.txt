@@ -3932,7 +3932,6 @@ doggerelize
 delundung
 damper
 dekalitre
-dekameter
 dekameters
 debutante
 decumani
@@ -6613,6 +6612,7 @@ deservedness
 deserveless
 deserver
 deservers
+dekameter
 ductings
 deserves
 deserving
