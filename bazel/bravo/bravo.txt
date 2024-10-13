@@ -5610,7 +5610,6 @@ brokenness
 beladle
 belage
 belah
-billingsgate
 belay
 belayed
 belayer
@@ -9074,6 +9073,7 @@ biomedicine
 biomes
 biometeorology
 biometric
+billingsgate
 biometrical
 bicentennially
 biometrically
