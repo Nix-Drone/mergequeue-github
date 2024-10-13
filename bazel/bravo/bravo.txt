@@ -7615,7 +7615,6 @@ bewall
 beware
 bewary
 bewaring
-bewash
 bewaste
 batterfang
 beweary
@@ -18313,6 +18312,7 @@ button
 buttonball
 buttonbush
 buttoned
+bewash
 buttoner
 buttonholder
 buttonhole
