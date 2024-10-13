@@ -16849,7 +16849,6 @@ clubhauling
 clubhauls
 clubhouse
 clubhouses
-clubionid
 clubionidae
 clubland
 clubman
@@ -25471,6 +25470,7 @@ corolliform
 capsidae
 corollitic
 corpsmen
+clubionid
 coromandel
 coromell
 corometer
