@@ -3935,7 +3935,6 @@ fineish
 fineleaf
 frounces
 finement
-fineness
 finer
 finery
 fines
@@ -4399,6 +4398,7 @@ fishless
 frameworks
 fishlet
 fishlike
+fineness
 furlough
 fishline
 fishlines
