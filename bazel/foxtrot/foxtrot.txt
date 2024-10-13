@@ -3616,7 +3616,6 @@ filename
 filenames
 filer
 fanons
-filers
 files
 frailly
 filesmith
@@ -9877,6 +9876,7 @@ frequentness
 furlane
 fimbriation
 fewnesses
+filers
 frescade
 frescoed
 frontingly
