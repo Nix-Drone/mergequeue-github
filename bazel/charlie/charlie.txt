@@ -11028,7 +11028,6 @@ chirrupper
 chirt
 chiru
 chirurgeon
-chirurgeonly
 chirurgery
 chis
 chiseled
@@ -17303,6 +17302,7 @@ clericity
 coaters
 coathangers
 coatie
+chirurgeonly
 coatimondie
 cretinized
 coating
