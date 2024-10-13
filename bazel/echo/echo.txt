@@ -2306,7 +2306,6 @@ expert
 electrine
 electrizable
 electrization
-earthenware
 electro
 electroacoustic
 ecblastpsis
@@ -8723,6 +8722,7 @@ equipment
 equipments
 equipoised
 equipoising
+earthenware
 equipollence
 equipollency
 evasively
