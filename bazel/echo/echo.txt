@@ -1814,6 +1814,7 @@ electric
 eyeopener
 eyepiece
 eyepit
+ethyl
 eyepoint
 eyereach
 eyeroot
@@ -10319,7 +10320,6 @@ epanorthosis
 embossable
 expoliate
 ethidene
-ethyl
 ethylamide
 ethylamime
 estus
