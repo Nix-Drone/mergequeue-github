@@ -9450,7 +9450,6 @@ diggable
 destrer
 digged
 digger
-digging
 dight
 dighted
 dighter
@@ -11927,6 +11926,7 @@ disemboweling
 disembowelled
 decoherer
 disembowelling
+digging
 disembowelment
 disembowelments
 dismission
