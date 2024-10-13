@@ -7671,6 +7671,7 @@ devised
 devisee
 devisees
 deviser
+drop
 devisers
 devising
 diacetic
@@ -17374,7 +17375,6 @@ drooping
 droopingness
 disphenoid
 droopt
-drop
 desquamation
 dropax
 dropberry
