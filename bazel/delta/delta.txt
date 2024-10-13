@@ -3150,7 +3150,6 @@ defamation
 defamations
 defamatory
 defame
-defamed
 dragginess
 defamer
 defamers
@@ -15981,6 +15980,7 @@ dottiness
 disintegratory
 degratia
 dottle
+defamed
 determination
 dottler
 dottles
