@@ -6472,7 +6472,6 @@ benzoin
 benzoinated
 benzoiodohydrin
 benzol
-benzole
 benzoline
 benzolize
 benzols
@@ -15455,6 +15454,7 @@ bring
 bringal
 bringall
 bringdown
+benzole
 bringed
 behemoth
 bringela
