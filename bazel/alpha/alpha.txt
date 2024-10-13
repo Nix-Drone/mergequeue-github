@@ -9405,7 +9405,6 @@ altarpieces
 altars
 afghanets
 altazimuth
-alter
 alterability
 alterable
 alterableness
@@ -21440,6 +21439,7 @@ asperula
 asperuloside
 asperulous
 asphalt
+alter
 asphalted
 asphaltene
 asphalter
