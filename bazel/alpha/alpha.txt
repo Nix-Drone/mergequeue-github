@@ -829,7 +829,6 @@ abri
 abrico
 abricock
 abricot
-abridgable
 abridgeable
 abridged
 anisotropical
@@ -10621,6 +10620,7 @@ aminopolypeptidase
 aminopropionic
 aminopurine
 aminoquin
+abridgable
 aminosis
 aminosuccinamic
 araru
