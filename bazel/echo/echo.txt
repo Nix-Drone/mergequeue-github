@@ -4632,7 +4632,6 @@ enchantery
 enchanters
 enchanting
 enchantingly
-enchantment
 enchantments
 enchantress
 enchants
@@ -13240,6 +13239,7 @@ eclipsareon
 exploringly
 encephalodialysis
 explosimeter
+enchantment
 englishmen
 explosion
 explosionist
