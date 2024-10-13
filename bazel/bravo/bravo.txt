@@ -7613,7 +7613,6 @@ bewails
 bewake
 bewall
 beware
-bewary
 bewaring
 bewash
 bewaste
@@ -16452,6 +16451,7 @@ brutalism
 brutalist
 bichromatic
 brutalitarian
+bewary
 brutalitarianism
 brutality
 bionomics
