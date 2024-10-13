@@ -2345,7 +2345,6 @@ evasion
 electroceramic
 electrochemical
 electrochemically
-electrochemistry
 electrochronometer
 equison
 electrochronometric
@@ -6066,6 +6065,7 @@ enhearten
 enlodgement
 enlumine
 ephorus
+electrochemistry
 enlure
 emasculation
 enmagazine
