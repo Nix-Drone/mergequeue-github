@@ -861,7 +861,6 @@ fano
 fanon
 fellon
 fanos
-fanout
 fantailed
 fantails
 fantaisie
@@ -1454,6 +1453,7 @@ fatly
 fatling
 fourieristic
 formous
+fanout
 fatlings
 fatness
 fatnesses
