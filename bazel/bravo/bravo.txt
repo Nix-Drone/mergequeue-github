@@ -2873,7 +2873,6 @@ barothermogram
 bitis
 barothermograph
 barothermohygrograph
-baroto
 barotrauma
 bulgurs
 barotraumas
@@ -7146,6 +7145,7 @@ bespeckle
 bespeckled
 bespecklement
 bespectacled
+baroto
 besped
 bespeech
 bespeed
