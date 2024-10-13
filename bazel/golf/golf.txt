@@ -500,7 +500,6 @@ ganglia
 galeodidae
 galeoid
 gnapweed
-galeopsis
 glossoncus
 galeorchis
 goner
@@ -8065,6 +8064,7 @@ grantors
 grantsman
 grantsmen
 gassings
+galeopsis
 granula
 granular
 girandole
