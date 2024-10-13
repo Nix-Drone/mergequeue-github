@@ -2411,7 +2411,6 @@ dilogarithm
 decimalize
 decimalizes
 decimally
-decimals
 dressages
 decimate
 decimated
@@ -7341,6 +7340,7 @@ diagrammatically
 detoxifying
 detract
 detracter
+decimals
 detracting
 detraction
 detractions
