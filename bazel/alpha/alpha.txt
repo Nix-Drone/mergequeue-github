@@ -6019,7 +6019,6 @@ agglutinins
 agglutinize
 alls
 agglutinogen
-agglutinogenic
 agglutinoid
 agglutinoscope
 agglutogenic
@@ -16979,6 +16978,7 @@ aphthong
 aphthongal
 aortosclerosis
 aphthongia
+agglutinogenic
 apiaca
 apiaceae
 apiales
