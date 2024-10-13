@@ -24460,7 +24460,6 @@ autotriploidy
 autotroph
 autotrophy
 autotrophic
-autotropic
 autotropism
 autotruck
 ayless
@@ -24698,6 +24697,7 @@ alban
 assailment
 aves
 acephalia
+autotropic
 avesta
 avestruz
 accommodator
