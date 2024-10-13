@@ -3664,7 +3664,6 @@ adenochondroma
 adenochondrosarcoma
 adenochrome
 adenocyst
-adenocystoma
 antepectoral
 adenocystomatous
 adenodermia
@@ -14571,6 +14570,7 @@ anthropography
 anthropographic
 anthropoid
 antroscopy
+adenocystoma
 anthropoidal
 anthropoidea
 anthropoidean
