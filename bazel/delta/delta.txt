@@ -10843,7 +10843,6 @@ dirichletian
 disyoke
 disedge
 dirige
-dirigent
 dirigible
 dirigo
 dirity
@@ -13612,6 +13611,7 @@ dispowder
 dissimulator
 daidling
 dissimuler
+dirigent
 dyssynergy
 dyssynergia
 dissinew
