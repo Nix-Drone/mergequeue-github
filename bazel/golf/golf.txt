@@ -681,7 +681,6 @@ gnathonize
 gadaea
 geodesy
 galliot
-galliots
 gurnets
 gallipot
 gallipots
@@ -9764,6 +9763,7 @@ grutching
 gt
 gtc
 gentlemanlike
+galliots
 gteau
 guaba
 glabbella
