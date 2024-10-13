@@ -12761,7 +12761,6 @@ angiohyalinosis
 angiohypertonia
 angiohypotonia
 angioid
-angiokeratoma
 angiokinesis
 angioleucitis
 angiolymphoma
@@ -17795,6 +17794,7 @@ applause
 applauses
 adherent
 applausive
+angiokeratoma
 applausively
 apple
 appleberry
