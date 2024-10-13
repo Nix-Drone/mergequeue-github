@@ -8220,7 +8220,6 @@ chairmanned
 chairmanning
 chairmans
 chairmanship
-chairmanships
 checkoff
 chairmender
 chairmending
@@ -22048,6 +22047,7 @@ conflictory
 conflicts
 conflictual
 conflow
+chairmanships
 confluent
 confluently
 conflux
