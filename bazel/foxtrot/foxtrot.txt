@@ -4402,7 +4402,6 @@ fishlike
 furlough
 fishline
 fishlines
-frondage
 fishling
 fishman
 fishmeals
@@ -6701,6 +6700,7 @@ foetal
 flaringly
 foetalism
 foetalization
+frondage
 foetation
 franked
 foeti
