@@ -3621,7 +3621,6 @@ files
 frailly
 filesmith
 filesniff
-flagships
 filespec
 forficula
 fossores
@@ -4355,6 +4354,7 @@ falchions
 fishbowls
 fisheater
 fisheye
+flagships
 fisheyes
 fisher
 fenian
