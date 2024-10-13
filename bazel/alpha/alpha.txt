@@ -3323,7 +3323,6 @@ acupunctuation
 annelides
 acupuncturation
 acupuncturator
-acupuncture
 acupunctured
 acupuncturing
 acupuncturist
@@ -4606,6 +4605,7 @@ anesthetized
 afternote
 adversing
 adversities
+acupuncture
 adversus
 adverted
 advertence
