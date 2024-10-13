@@ -2798,7 +2798,6 @@ bonneting
 barology
 barolong
 baromacrometer
-barometer
 boroughship
 barometry
 barometric
@@ -3166,6 +3165,7 @@ behove
 baseness
 basenesses
 basenji
+barometer
 basenjis
 butles
 bibliotheca
