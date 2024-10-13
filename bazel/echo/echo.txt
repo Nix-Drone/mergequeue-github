@@ -3995,7 +3995,6 @@ eupomatiaceae
 eversions
 emoted
 emoting
-emotiomotor
 emotion
 emotionable
 empyreans
@@ -10505,6 +10504,7 @@ electropositive
 epicenters
 ethopoeia
 ethoses
+emotiomotor
 ethoxide
 ethoxyethane
 eriosoma
