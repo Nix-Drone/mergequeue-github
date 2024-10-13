@@ -5117,7 +5117,6 @@ cashbooks
 cashbox
 cashboxes
 casheen
-cashel
 casher
 cashers
 cashes
@@ -14867,6 +14866,7 @@ citizenry
 citizenries
 citizens
 citizenship
+cashel
 cytoanalyzer
 copremia
 cytoarchitectural
