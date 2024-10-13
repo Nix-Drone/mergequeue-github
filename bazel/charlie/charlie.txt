@@ -1281,7 +1281,6 @@ calycozoic
 calycozoon
 calicular
 caliculate
-calyculate
 calyculated
 calycule
 coercing
@@ -31589,6 +31588,7 @@ curvation
 curvative
 curvature
 curvatures
+calyculate
 curve
 conscription
 curveball
