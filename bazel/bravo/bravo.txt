@@ -4954,7 +4954,6 @@ bristle
 beefsteak
 beefsteaks
 beeftongue
-beefwood
 beefwoods
 blackcock
 beehead
@@ -11587,6 +11586,7 @@ boatbuilding
 boated
 boatel
 boatels
+beefwood
 boatheader
 boathook
 boathouse
