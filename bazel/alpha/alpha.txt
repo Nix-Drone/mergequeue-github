@@ -2652,7 +2652,6 @@ acoumetry
 autodetector
 airframes
 acouometer
-acouophonia
 acoluthic
 acoup
 acoupa
@@ -7890,6 +7889,7 @@ alertness
 alerts
 ales
 alesan
+acouophonia
 aletap
 aletaster
 alethea
