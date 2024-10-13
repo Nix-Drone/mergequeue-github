@@ -2341,7 +2341,6 @@ cand
 candace
 candareen
 candelabra
-candelabras
 candelabrum
 candelabrums
 candelilla
@@ -4849,6 +4848,7 @@ cartelist
 cartelistic
 cartelization
 cartelize
+candelabras
 cartelizing
 cartellist
 carter
