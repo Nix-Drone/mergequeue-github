@@ -4784,7 +4784,6 @@ gowkit
 gumfield
 gyromancy
 gyromele
-germanous
 gyromitra
 gnawers
 gobiiformes
@@ -10140,6 +10139,7 @@ guide
 gruf
 guideboard
 greediness
+germanous
 guidebooky
 guidebookish
 genres
