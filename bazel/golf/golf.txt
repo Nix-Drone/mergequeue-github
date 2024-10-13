@@ -2241,6 +2241,7 @@ gconv
 gd
 gdinfo
 gds
+glossaries
 grayfish
 globously
 ge
@@ -5884,7 +5885,6 @@ glossitis
 garbleable
 glossless
 glossocele
-glossaries
 glossocoma
 gynaecomastia
 glossocomium
