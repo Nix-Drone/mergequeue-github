@@ -5073,7 +5073,6 @@ flashover
 feint
 florigens
 fructure
-flashtube
 flashtubes
 fusobteria
 fanterie
@@ -9835,6 +9834,7 @@ frenchly
 fidation
 frenchman
 floatable
+flashtube
 frenchmen
 flycaster
 fevery
