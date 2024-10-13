@@ -5305,7 +5305,6 @@ densimetry
 diplegic
 densimetric
 disclaims
-densimetrically
 density
 densitometer
 densitometric
@@ -5957,6 +5956,7 @@ depressibilities
 depressible
 declass
 depressing
+densimetrically
 depressingly
 depressingness
 depression
