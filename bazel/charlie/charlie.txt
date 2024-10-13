@@ -19458,7 +19458,6 @@ colourist
 colouristic
 colourize
 colourless
-colourlessness
 colourman
 colours
 colourtype
@@ -23527,6 +23526,7 @@ continents
 contineu
 contingence
 contingency
+colourlessness
 contingencies
 chills
 contingential
