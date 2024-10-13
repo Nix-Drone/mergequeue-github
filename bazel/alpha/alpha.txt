@@ -1724,6 +1724,7 @@ annule
 archpresbyter
 accreditations
 accredited
+adipomata
 accreditee
 animal
 accrediting
@@ -3908,7 +3909,6 @@ adipoid
 adipolysis
 adipolytic
 adipoma
-adipomata
 adipomatous
 adipometer
 adiponitrile
