@@ -13546,7 +13546,6 @@ extensible
 extensibleness
 extensile
 extensionalism
-extensionality
 engagedness
 extensionless
 extensions
@@ -13901,6 +13900,7 @@ extraordinaries
 enduement
 extraordinariness
 embryogenic
+extensionality
 extraorganismal
 electrolytical
 extraovate
