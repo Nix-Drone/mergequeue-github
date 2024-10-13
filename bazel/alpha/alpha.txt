@@ -1985,7 +1985,6 @@ acetaldol
 acetalize
 acetals
 acetamid
-acetamide
 acetamidin
 acetamidine
 acetamido
@@ -20454,6 +20453,7 @@ alphabetics
 artemis
 aramaic
 aeroenterectasia
+acetamide
 artemisia
 apiolin
 artemision
