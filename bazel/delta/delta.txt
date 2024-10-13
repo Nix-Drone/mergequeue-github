@@ -1688,7 +1688,6 @@ deassimilation
 deathbed
 deathbeds
 deathcup
-degree
 deathcups
 donatary
 deathday
@@ -17617,6 +17616,7 @@ drums
 drumskin
 drumslade
 drumstick
+degree
 drumsticks
 drumwood
 drungar
