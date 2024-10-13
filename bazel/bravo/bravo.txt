@@ -13882,7 +13882,6 @@ boxthorns
 boxty
 boxtop
 brager
-boxtops
 boxwood
 bedevil
 boxwoods
@@ -17844,6 +17843,7 @@ burrito
 burritos
 bordellos
 burrknot
+boxtops
 bearnaise
 burrock
 blueblack
