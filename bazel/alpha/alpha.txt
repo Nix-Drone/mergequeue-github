@@ -4094,7 +4094,6 @@ administrable
 aubin
 administrant
 administrants
-administrates
 administrating
 antihemolytic
 administration
@@ -9831,6 +9830,7 @@ amasthenic
 amasty
 amate
 amatembu
+administrates
 amateur
 amateurish
 amateurishly
