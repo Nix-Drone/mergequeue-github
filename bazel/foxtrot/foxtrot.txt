@@ -7235,7 +7235,6 @@ footpound
 fogs
 footpounds
 flanderkin
-footprint
 flocculating
 footraces
 footrest
@@ -8180,6 +8179,7 @@ friezing
 formagenic
 flatbottom
 forfare
+footprint
 forfars
 forfault
 fractionalization
