@@ -2840,7 +2840,6 @@ barony
 bassets
 baronial
 baronies
-baronize
 baronized
 baronnes
 baronries
@@ -11118,6 +11117,7 @@ bacteroidal
 bloodsuckers
 bloodsucking
 bloodtest
+baronize
 bloodthirster
 bloodthirstier
 bordage
