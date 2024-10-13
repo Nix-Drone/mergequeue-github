@@ -9532,6 +9532,7 @@ checkers
 checkerspot
 carpodacus
 capos
+coccyges
 checkerwise
 checkerwork
 checkhook
@@ -19711,7 +19712,6 @@ comblike
 combmaker
 combmaking
 combo
-coccyges
 comboy
 comboloio
 combos
