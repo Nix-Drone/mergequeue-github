@@ -5971,7 +5971,6 @@ diadems
 dodder
 disincrust
 depressomotor
-depressor
 dinos
 depressors
 dorsibranch
@@ -11900,6 +11899,7 @@ disembarkations
 disembarked
 disembarking
 dentoid
+depressor
 disembarks
 disembarrass
 disembarrassed
