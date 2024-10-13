@@ -8382,6 +8382,7 @@ formalith
 flange
 formalities
 formalizable
+freeholdership
 formalization
 fogyism
 formalizations
@@ -9707,7 +9708,6 @@ freehold
 freeholder
 feltmaker
 freeholders
-freeholdership
 foreigners
 fungusy
 freeholding
