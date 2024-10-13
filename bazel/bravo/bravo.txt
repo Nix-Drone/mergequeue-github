@@ -1340,7 +1340,6 @@ balant
 balanta
 bottine
 balantidic
-balantidiosis
 balantidium
 balanus
 biconnected
@@ -13527,6 +13526,7 @@ boultel
 boulter
 boulterer
 bounce
+balantidiosis
 bounceable
 bounceably
 beslipper
