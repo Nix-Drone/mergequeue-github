@@ -7573,7 +7573,6 @@ forechoice
 forechoir
 faith
 foregame
-forechoose
 foreclaw
 foreclose
 foreclosed
@@ -8396,6 +8395,7 @@ fetid
 fireblende
 fricatives
 formamide
+forechoose
 formamidine
 formamidoxime
 formanilide
