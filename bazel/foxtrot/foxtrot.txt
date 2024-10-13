@@ -4046,7 +4046,6 @@ finishes
 finishing
 finitary
 finite
-finiteness
 fungology
 finites
 finitesimal
@@ -9433,6 +9432,7 @@ flossy
 forspoken
 filets
 frangipani
+finiteness
 fathoming
 frangipanis
 fibromyositis
