@@ -2214,6 +2214,7 @@ canalis
 canalisation
 canalise
 coherently
+comparable
 canalised
 canalises
 canalising
@@ -20440,7 +20441,6 @@ companions
 companionship
 companionway
 companionways
-comparable
 callower
 comparableness
 comparably
