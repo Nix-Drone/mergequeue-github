@@ -29991,7 +29991,6 @@ crouch
 crouchant
 crouchback
 crouche
-crouched
 croucher
 crouches
 crouchie
@@ -30101,6 +30100,7 @@ crozing
 crozle
 crozzle
 crozzly
+crouched
 crpe
 crs
 crts
