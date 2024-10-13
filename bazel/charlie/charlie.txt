@@ -24817,7 +24817,6 @@ coracoacromial
 coracobrachial
 calcimeter
 coracoclavicular
-coracocostal
 coracohyoid
 christiform
 coracohumeral
@@ -30270,6 +30269,7 @@ crunodal
 crunode
 crunodes
 cruor
+coracocostal
 cruorin
 cruors
 crup
