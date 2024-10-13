@@ -5784,6 +5784,7 @@ deplump
 depoetize
 depoh
 depolarisation
+dislikeness
 depolarise
 drapeable
 depolarised
@@ -12622,7 +12623,6 @@ disliked
 dislikeful
 disliken
 duma
-dislikeness
 disliker
 decise
 dislikers
