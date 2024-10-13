@@ -2970,7 +2970,6 @@ diegesis
 departmentalisation
 dedolomitize
 dedolomitizing
-deduce
 deducement
 deduces
 deducibility
@@ -5871,6 +5870,7 @@ depot
 desistance
 depotentiate
 directorship
+deduce
 depots
 derive
 depr
