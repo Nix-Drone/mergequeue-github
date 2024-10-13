@@ -6519,7 +6519,6 @@ divorce
 deadmen
 descries
 descript
-description
 dogsled
 descriptionless
 descriptive
@@ -10346,6 +10345,7 @@ depreciatory
 drivage
 dyotheletical
 diothelism
+description
 dyothelism
 diotic
 deputize
