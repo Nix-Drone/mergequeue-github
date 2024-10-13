@@ -9932,7 +9932,6 @@ chemosorb
 chemosorption
 chemosorptive
 chemosphere
-chemospheric
 christenhead
 chemostat
 collateral
@@ -17258,6 +17257,7 @@ coart
 coarticulate
 coarticulation
 coascend
+chemospheric
 coassert
 coasserter
 coassessor
