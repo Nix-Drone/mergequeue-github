@@ -6339,7 +6339,6 @@ enscrolls
 expediate
 ensculpture
 ense
-enseal
 ensealed
 ensealing
 enseam
@@ -12274,6 +12273,7 @@ execrator
 emusive
 execrators
 exect
+enseal
 executable
 executant
 engines
