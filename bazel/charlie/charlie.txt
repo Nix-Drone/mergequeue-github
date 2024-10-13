@@ -5325,7 +5325,6 @@ castilleja
 castillo
 castilloa
 casting
-castings
 castle
 castled
 castlelike
@@ -25343,6 +25342,7 @@ cornflag
 cornflakes
 cornfloor
 cornflour
+castings
 cornflower
 cornflowers
 corngrower
