@@ -2468,6 +2468,7 @@ deckels
 decken
 decker
 daphnioid
+demolisher
 deckhand
 deckhead
 deckhouse
@@ -4853,7 +4854,6 @@ dishwash
 demoiselles
 demolish
 demolished
-demolisher
 demolishing
 diarrhoea
 demolishment
