@@ -984,7 +984,6 @@ cimmerian
 calcaneocuboid
 calcaneonavicular
 calcaneoplantar
-countersale
 calcaneoscaphoid
 calcaneotibial
 calcaneum
@@ -14850,6 +14849,7 @@ cytioderm
 cityscape
 cityscapes
 cytisine
+countersale
 cytitis
 chamkanni
 citywards
