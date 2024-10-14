@@ -1884,7 +1884,6 @@ bandager
 bandages
 bandaging
 brakes
-bandagist
 bandaid
 bandala
 bandalore
@@ -9225,6 +9224,7 @@ biotypic
 biotypology
 biotite
 biotites
+bandagist
 biotome
 buoys
 bogtrot
