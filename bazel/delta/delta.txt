@@ -12136,7 +12136,6 @@ disflesh
 disoccupation
 disfoliage
 disfoliaged
-disforest
 disforestation
 disformity
 disfortune
@@ -14665,6 +14664,7 @@ docketed
 docketing
 dockets
 dockhand
+disforest
 dockhouse
 dockyard
 dockyardman
