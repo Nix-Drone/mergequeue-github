@@ -7579,7 +7579,6 @@ arthurian
 alces
 almug
 alcestis
-alchem
 alchemy
 alchemic
 alchemies
@@ -24945,6 +24944,7 @@ awakens
 awakes
 awaking
 awald
+alchem
 awalim
 apposable
 awalt
