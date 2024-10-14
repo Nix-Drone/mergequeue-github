@@ -5083,7 +5083,6 @@ denaturalized
 denaturant
 denaturants
 denaturate
-denaturational
 diver
 denature
 denatured
@@ -11607,6 +11606,7 @@ disconvenient
 daktylos
 disconventicle
 discophora
+denaturational
 discophoran
 discoplacenta
 discoplacental
