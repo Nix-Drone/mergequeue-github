@@ -5561,6 +5561,7 @@ afterage
 afterattack
 afterbay
 appetitive
+aquatics
 afterband
 absorbs
 afterbeat
@@ -18259,7 +18260,6 @@ aquate
 ancylostomum
 aquatic
 aquatically
-aquatics
 aquatile
 aquatinta
 aquatinted
