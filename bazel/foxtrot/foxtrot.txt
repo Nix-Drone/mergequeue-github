@@ -5175,6 +5175,7 @@ flaunch
 fullfaces
 flaunched
 ferie
+fourniture
 flaunt
 flaunter
 featurally
@@ -5454,7 +5455,6 @@ fleshy
 fleshier
 fleshiest
 fleshiness
-fourniture
 fleshing
 fleshings
 formatters
