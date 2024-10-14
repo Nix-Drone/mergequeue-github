@@ -1722,6 +1722,7 @@ camagon
 camay
 camaieu
 camail
+colonizable
 camaile
 camailed
 camails
@@ -19282,7 +19283,6 @@ colonising
 colonist
 chiromancer
 colonizability
-colonizable
 colonizationist
 colonizations
 colonize
