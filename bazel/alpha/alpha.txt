@@ -6830,7 +6830,6 @@ airbuses
 airbusses
 aircheck
 airchecks
-aircoaches
 aircraft
 aircraftman
 axometer
@@ -19322,6 +19321,7 @@ ardurous
 area
 areach
 aread
+aircoaches
 aready
 attractions
 autotypes
