@@ -1396,7 +1396,6 @@ efferents
 efferous
 extraocular
 effervesced
-effervescence
 effervescency
 effervescent
 effervescently
@@ -13891,6 +13890,7 @@ epipleura
 epixylous
 extraneousness
 extranormal
+effervescence
 extranuclear
 extraofficial
 expertship
