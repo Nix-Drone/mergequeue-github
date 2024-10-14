@@ -2987,7 +2987,6 @@ deductile
 donacidae
 deductio
 deduction
-deductions
 deductive
 deductively
 dysfunctional
@@ -9674,6 +9673,7 @@ dilatator
 depositee
 dilatatory
 dilated
+deductions
 dilatedly
 demythologized
 disunified
