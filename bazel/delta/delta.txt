@@ -1098,7 +1098,6 @@ decolorize
 das
 drawgear
 dase
-dasein
 dasewe
 dashboard
 dashed
@@ -2921,6 +2920,7 @@ damaskin
 decwriter
 deltoid
 dedal
+dasein
 durn
 dedanite
 demigoddessship
