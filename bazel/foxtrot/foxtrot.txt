@@ -1684,7 +1684,6 @@ fawnskin
 fax
 faxed
 fructuosity
-faxing
 fazes
 fc
 fchar
@@ -9197,6 +9196,7 @@ fps
 fpsps
 fr
 fra
+faxing
 faulkner
 fanfish
 foofaraws
