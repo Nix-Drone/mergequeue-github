@@ -3009,7 +3009,6 @@ brainsick
 barricados
 barrico
 barricoes
-barrier
 barriers
 barriguda
 barrigudos
@@ -9108,6 +9107,7 @@ biophysics
 biophysiography
 biophysiology
 biophysiologist
+barrier
 brunellia
 biophyte
 biophotophone
