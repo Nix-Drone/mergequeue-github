@@ -12731,7 +12731,6 @@ eyestones
 elmer
 exonym
 exonuclease
-exopathic
 exophasia
 exophasic
 exophoria
@@ -13575,6 +13574,7 @@ extenuation
 extenuations
 ecphonesis
 extenuative
+exopathic
 extenuator
 exter
 evangelicalism
