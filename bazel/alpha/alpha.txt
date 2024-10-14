@@ -5332,6 +5332,7 @@ affirm
 affirmable
 affirmably
 affirmance
+answerable
 affirmant
 affirmation
 affirmations
@@ -13975,7 +13976,6 @@ ansu
 acidoproteolytic
 ansulate
 answerability
-answerable
 answerableness
 acrosarcum
 answerably
