@@ -6848,6 +6848,7 @@ entocyst
 enows
 entocnemial
 entocondylar
+exhausted
 entocondyle
 electrums
 entocone
@@ -12437,7 +12438,6 @@ exhalents
 exhales
 exhaling
 exhaust
-exhausted
 exhaustedly
 extend
 embryotrophic
