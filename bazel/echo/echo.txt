@@ -3884,7 +3884,6 @@ emetomorphine
 emeu
 engladden
 emf
-emulator
 emforth
 emic
 emicant
@@ -13265,6 +13264,7 @@ entomion
 exponentiating
 exponention
 exponents
+emulator
 exponible
 euomphalus
 export
