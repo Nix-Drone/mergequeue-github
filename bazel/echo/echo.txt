@@ -7907,7 +7907,6 @@ epigrammatizer
 epigrammatizing
 epigrams
 epigraph
-epigrapher
 eftest
 epigraphy
 egyptianization
@@ -13935,6 +13934,7 @@ epistolist
 extrapolated
 extrapolating
 ebbed
+epigrapher
 excised
 extrapolation
 extrapolations
