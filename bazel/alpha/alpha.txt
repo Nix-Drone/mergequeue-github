@@ -12315,7 +12315,6 @@ andor
 andorite
 andoroba
 andorran
-andouille
 andouillet
 andouillette
 andradite
@@ -20341,6 +20340,7 @@ arrowy
 arrowing
 arrowleaf
 arrowless
+andouille
 ashet
 arrowlet
 arrowlike
