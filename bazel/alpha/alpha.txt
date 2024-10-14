@@ -2939,7 +2939,6 @@ amphibalus
 acromiosternal
 acromiothoracic
 acromyotonia
-acromyotonus
 acromphalus
 acron
 acronal
@@ -14125,6 +14124,7 @@ anted
 antedate
 antedates
 antedating
+acromyotonus
 antediluvial
 antediluvially
 antediluvian
