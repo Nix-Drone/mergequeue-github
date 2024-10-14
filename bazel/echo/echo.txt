@@ -2483,7 +2483,6 @@ electrolithotrity
 epitomisation
 exoskeleton
 electrolytic
-electrolytically
 electrolyze
 epicleses
 electrolyzed
@@ -8414,6 +8413,7 @@ epitomes
 epitomic
 epitomical
 epitomically
+electrolytically
 endoscopy
 epitomise
 eructate
