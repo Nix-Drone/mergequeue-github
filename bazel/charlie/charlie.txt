@@ -14172,7 +14172,6 @@ circiter
 circle
 circled
 claudia
-casemate
 circler
 circles
 circlet
@@ -27128,6 +27127,7 @@ counterthought
 counterthreat
 counterthwarting
 countertierce
+casemate
 countertime
 countertype
 countertouch
