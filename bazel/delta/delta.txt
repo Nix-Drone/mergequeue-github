@@ -2474,7 +2474,6 @@ deckhouse
 deckle
 deckman
 deckpipe
-decks
 dulls
 deckswabber
 decl
@@ -17249,6 +17248,7 @@ dion
 driven
 drivenness
 drivepipe
+decks
 driverless
 drivers
 drivership
