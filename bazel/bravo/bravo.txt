@@ -3000,7 +3000,6 @@ baryes
 brei
 barrette
 barricader
-barricaders
 barricades
 bedplates
 barricado
@@ -8146,6 +8145,7 @@ bicrons
 bicrural
 bicuculline
 bicultural
+barricaders
 biculturalism
 bicursal
 bicuspid
