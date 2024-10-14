@@ -10927,6 +10927,7 @@ amortised
 amortises
 amortising
 amortissement
+ary
 amortisseur
 amortizable
 amortization
@@ -19644,7 +19645,6 @@ arhythmic
 arhythmical
 arhythmically
 aphthous
-ary
 aria
 arya
 ariadne
