@@ -6406,7 +6406,6 @@ goats
 goatsbane
 goatsbeard
 genuclast
-goatskin
 goatskins
 goatstone
 goatsucker
@@ -10713,6 +10712,7 @@ guilefully
 gustiest
 gularis
 globulin
+goatskin
 gonorrhea
 gustless
 gerendum
