@@ -2388,6 +2388,7 @@ fconvert
 feoffer
 feoffing
 fetlow
+foresettle
 feoffor
 flaxseed
 feoffors
@@ -11195,7 +11196,6 @@ funeralize
 frit
 floorage
 funerally
-foresettle
 funerary
 funeration
 funereal
