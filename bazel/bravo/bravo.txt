@@ -6692,7 +6692,6 @@ buoyance
 bergeret
 bergfall
 benefactions
-berggylt
 bibliographical
 burstwort
 bergh
@@ -16647,6 +16646,7 @@ bucket
 bucketed
 bucketer
 bucketful
+berggylt
 bucketfull
 bucketmaker
 bucketmaking
