@@ -1915,7 +1915,6 @@ banderole
 biochemical
 banderoled
 banderoles
-banders
 banjara
 bandersnatch
 bandfile
@@ -15445,6 +15444,7 @@ brindlish
 bryndza
 brine
 bleaters
+banders
 blacklegging
 brined
 brinehouse
