@@ -4825,6 +4825,7 @@ bedrocks
 bedroll
 bedrolls
 bedroom
+bombarder
 bedrooms
 bisymmetrically
 bedrop
@@ -12253,7 +12254,6 @@ bombarded
 bushfighter
 bombardelle
 baetylic
-bombarder
 bombardier
 bombardiers
 bombarding
