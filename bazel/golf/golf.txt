@@ -1641,7 +1641,6 @@ gangland
 gasoliers
 gasoline
 gasoliner
-germiparity
 gasolines
 gasometry
 gastrodisc
@@ -10029,6 +10028,7 @@ gastrins
 greasing
 goalers
 gook
+germiparity
 guemal
 guemul
 graveolency
