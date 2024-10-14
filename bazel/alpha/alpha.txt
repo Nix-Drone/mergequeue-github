@@ -7692,7 +7692,6 @@ ald
 alday
 anterosuperior
 aldamin
-agrito
 aldamine
 aldane
 aldazin
@@ -16446,6 +16445,7 @@ antivenomous
 antivermicular
 antivibrating
 antivibrator
+agrito
 antivibratory
 antivice
 antiviral
