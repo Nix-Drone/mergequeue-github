@@ -7705,7 +7705,6 @@ graftages
 grafted
 glutition
 glotum
-graftproof
 gravestones
 grafts
 graham
@@ -8821,6 +8820,7 @@ greylag
 greylags
 greyling
 gyte
+graftproof
 gunfighter
 glimpsing
 greing
