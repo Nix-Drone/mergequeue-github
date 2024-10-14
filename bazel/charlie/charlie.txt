@@ -3009,7 +3009,6 @@ capcase
 cape
 capeadores
 capel
-capelan
 capelans
 capelet
 capelin
@@ -11746,6 +11745,7 @@ chondrocoracoid
 chondrocranial
 coendured
 chondrodystrophy
+capelan
 chondrodystrophia
 chondroditic
 chondroendothelioma
