@@ -11742,7 +11742,6 @@ analytique
 analyzability
 analyzable
 analyzation
-analyze
 analyzed
 analyzers
 analyzes
@@ -25073,6 +25072,7 @@ axebreaker
 alkylol
 axed
 anormality
+analyze
 anesthetizer
 axel
 axels
