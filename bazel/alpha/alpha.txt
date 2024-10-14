@@ -716,7 +716,6 @@ aborigines
 aborning
 abort
 aborted
-aborter
 aborters
 aborticide
 abortient
@@ -3291,6 +3290,7 @@ acuation
 acubens
 acuchi
 acuclosure
+aborter
 acuductor
 acuerdo
 acuesthesia
