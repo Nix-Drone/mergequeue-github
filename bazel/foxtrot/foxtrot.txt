@@ -2382,7 +2382,6 @@ feod
 feodatory
 falconer
 fehmic
-feoff
 feoffees
 fconvert
 feoffer
@@ -5504,6 +5503,7 @@ frough
 flexes
 flexibilities
 flexibilty
+feoff
 forger
 flexible
 forgedly
