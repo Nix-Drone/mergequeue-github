@@ -4620,7 +4620,6 @@ advertisee
 advertisement
 advertisements
 advertiser
-advertisers
 advertising
 advertizable
 amulets
@@ -22980,6 +22979,7 @@ attaint
 attainted
 attainting
 attaintment
+advertisers
 attaints
 attainture
 attal
