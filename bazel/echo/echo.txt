@@ -294,7 +294,6 @@ eastre
 euphoniousness
 eat
 eagerer
-eatability
 eatable
 eatables
 electrolyzability
@@ -11952,6 +11951,7 @@ exceptionality
 exceptionally
 exceptionary
 exceptionless
+eatability
 exceptions
 exceptious
 exceptiousness
