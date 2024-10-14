@@ -1566,7 +1566,6 @@ bouton
 butomus
 ballaster
 ballastic
-ballasting
 ballat
 ballata
 ballate
@@ -14517,6 +14516,7 @@ brandise
 ballotade
 brandish
 brandished
+ballasting
 brandisher
 biochron
 brandishes
