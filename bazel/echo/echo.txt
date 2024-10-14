@@ -1155,7 +1155,6 @@ evodia
 edility
 edwina
 electromechanically
-editable
 editchar
 eccentrically
 edited
@@ -12580,6 +12579,7 @@ existentialize
 existently
 existents
 exister
+editable
 existibility
 extant
 engastrimyth
