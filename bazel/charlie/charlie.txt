@@ -9556,7 +9556,6 @@ checkpoint
 checkpointed
 checkpointing
 checkpoints
-commonize
 checkrack
 checkrail
 checkrein
@@ -29623,6 +29622,7 @@ crocks
 crocodilean
 crocodiles
 crocodilian
+commonize
 crocodilidae
 cadmopone
 crocodylidae
