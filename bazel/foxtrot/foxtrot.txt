@@ -4999,7 +4999,6 @@ flapdragon
 flaperon
 flirter
 ferrite
-flappable
 flapped
 favourless
 foelike
@@ -11263,6 +11262,7 @@ funicle
 foreday
 funicles
 funicular
+flappable
 funiculars
 friborg
 funiculitis
