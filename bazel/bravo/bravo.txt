@@ -6480,7 +6480,6 @@ benzonaphthol
 benzonitrile
 benzoperoxide
 benzophenanthrazine
-benzophenazine
 benzophenol
 benzophenone
 benzophenothiazine
@@ -7169,6 +7168,7 @@ bicarbs
 besplit
 bespoke
 basihyoid
+benzophenazine
 bespoken
 bespot
 bespotted
