@@ -4098,7 +4098,6 @@ fattable
 fellatrixes
 fletching
 finnish
-finnmark
 finnochio
 filiopietistic
 finns
@@ -6839,6 +6838,7 @@ ferkin
 foldless
 foraminiferan
 fikery
+finnmark
 foldout
 foldouts
 folds
