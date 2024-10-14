@@ -5305,7 +5305,6 @@ affile
 affiliable
 addio
 affiliate
-affiliated
 affiliating
 affiliation
 affiliations
@@ -5588,6 +5587,7 @@ afterclause
 aftercome
 aftercomer
 aftercoming
+affiliated
 aftercooler
 aftercost
 aftercrop
