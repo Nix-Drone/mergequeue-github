@@ -2937,7 +2937,6 @@ acromion
 areopagist
 amphibalus
 acromiosternal
-acromiothoracic
 acromyotonia
 acromyotonus
 acromphalus
@@ -3113,6 +3112,7 @@ anthropogenesis
 actinology
 actinomere
 actinomeric
+acromiothoracic
 actinometry
 actinometric
 actinometrical
