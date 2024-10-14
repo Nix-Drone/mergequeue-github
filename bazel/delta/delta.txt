@@ -5729,7 +5729,6 @@ depilatories
 depilitant
 depilous
 depit
-deplace
 deplaceable
 deplane
 deplaned
@@ -11106,6 +11105,7 @@ disassociate
 disassociated
 disassociates
 disassociation
+deplace
 disasterly
 disasters
 disastimeter
