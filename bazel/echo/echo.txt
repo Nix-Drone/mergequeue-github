@@ -2437,6 +2437,7 @@ expedient
 electroform
 electroforming
 electrofusion
+energids
 ethanol
 electrogalvanization
 electrogenetic
@@ -5495,7 +5496,6 @@ electroendosmotic
 energical
 energico
 energid
-energids
 energise
 epirot
 energiser
