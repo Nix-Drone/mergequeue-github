@@ -13087,7 +13087,6 @@ bulkheaded
 bipectinated
 borrowable
 borrower
-borrowers
 borrows
 bors
 blow
@@ -17068,6 +17067,7 @@ bullate
 bullation
 bullback
 botfly
+borrowers
 bullbaiting
 bullbat
 belduque
