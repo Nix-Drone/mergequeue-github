@@ -5352,6 +5352,7 @@ buyable
 benchboard
 begray
 begrain
+bewailed
 begrave
 birne
 begrett
@@ -7602,7 +7603,6 @@ bevor
 bevvy
 brevier
 believe
-bewailed
 bewailer
 bewailers
 behung
