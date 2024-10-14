@@ -2764,7 +2764,6 @@ elementalism
 elementalist
 elementalistic
 elementality
-elementalize
 elementally
 elementaloid
 eluded
@@ -11768,6 +11767,7 @@ exalts
 exam
 examen
 eleometer
+elementalize
 evacuate
 exameter
 excretions
