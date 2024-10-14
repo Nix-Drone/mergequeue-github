@@ -2691,7 +2691,6 @@ electrotypy
 escarmouche
 elating
 electrotyping
-electrotypist
 electrotitration
 electrotonize
 electrotrephine
@@ -6613,6 +6612,7 @@ enterfeat
 entergogenic
 enteria
 etouffe
+electrotypist
 enteric
 excerpts
 emove
