@@ -2659,7 +2659,6 @@ acoupa
 acousmatic
 acoustical
 acoustically
-acousticolateral
 acousticon
 acousticophobia
 acoustoelectric
@@ -8484,6 +8483,7 @@ alky
 alkide
 alkyds
 agone
+acousticolateral
 alkies
 alkylamine
 alkylamino
