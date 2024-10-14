@@ -1935,7 +1935,6 @@ gated
 gatefold
 grapefruits
 gatehouse
-gatekeep
 glovemaking
 gatekeeper
 gatekeepers
@@ -10582,6 +10581,7 @@ goujon
 gunsmith
 gunsmithery
 gunsmithing
+gatekeep
 gloomiest
 glycocholic
 gunster
