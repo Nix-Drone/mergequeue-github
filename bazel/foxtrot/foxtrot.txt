@@ -4983,7 +4983,6 @@ flanneling
 flannelleaves
 floc
 flannelly
-flannelling
 flannelmouth
 ferries
 fedelini
@@ -8361,6 +8360,7 @@ forletting
 forlive
 forloin
 forlore
+flannelling
 forlorn
 foredestined
 forlornly
