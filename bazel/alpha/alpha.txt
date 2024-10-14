@@ -7470,7 +7470,6 @@ albumean
 albumen
 albumeniizer
 albumenisation
-albumenise
 albumenised
 albumeniser
 albumenising
@@ -11590,6 +11589,7 @@ anaerobian
 anaerobic
 anaerobically
 anaerobies
+albumenise
 anaerobion
 anaerobiont
 anaerobiosis
