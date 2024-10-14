@@ -17253,7 +17253,6 @@ coarsening
 coarsens
 coarser
 coarsest
-coarsish
 coart
 coarticulate
 coarticulation
@@ -22623,6 +22622,7 @@ connotation
 connotational
 connotations
 connotative
+coarsish
 connotatively
 connote
 connoted
