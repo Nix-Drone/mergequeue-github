@@ -3932,7 +3932,6 @@ foggage
 franchisal
 fined
 fineish
-fineleaf
 frounces
 finement
 fineness
@@ -9523,6 +9522,7 @@ fratchety
 frate
 flaxbush
 frater
+fineleaf
 fratery
 frateries
 fraternal
