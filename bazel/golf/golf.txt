@@ -386,7 +386,6 @@ galactophoritis
 galactophorous
 galactopoiesis
 galactorrhea
-galactorrhoea
 gisarmes
 galactosamine
 galactosan
@@ -5900,6 +5899,7 @@ getid
 glossohyal
 glossokinesthetic
 glossolaly
+galactorrhoea
 glossolalia
 glossolaryngeal
 glossolysis
