@@ -18078,6 +18078,7 @@ coercement
 coercend
 coercer
 coercers
+covisitor
 coercibility
 cardiaplegia
 coercible
@@ -27512,7 +27513,6 @@ covine
 coving
 curlyheads
 charioteership
-covisitor
 covite
 covolume
 covotary
