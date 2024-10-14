@@ -2669,6 +2669,7 @@ decomposers
 decomposes
 decomposing
 decomposition
+deed
 decapod
 decomposure
 decompound
@@ -6080,7 +6081,6 @@ der
 derabbinize
 deracialize
 deracinate
-deed
 deracinating
 deracination
 deracine
