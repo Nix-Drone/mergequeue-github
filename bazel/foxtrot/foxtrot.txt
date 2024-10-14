@@ -4179,7 +4179,6 @@ farness
 firedamp
 feezing
 firedamps
-firedog
 firedragon
 footnotes
 firedrake
@@ -4867,6 +4866,7 @@ flamb
 flambage
 flambant
 flambe
+firedog
 foreboded
 forehead
 flambeau
