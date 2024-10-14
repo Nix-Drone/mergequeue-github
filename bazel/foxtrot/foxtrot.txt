@@ -3974,6 +3974,7 @@ fingerer
 fingerers
 foreschooling
 firebolted
+floatability
 fingerfish
 fingerhold
 fingerhook
@@ -5800,7 +5801,6 @@ flnerie
 flneuse
 flench
 fload
-floatability
 forethoughtless
 floatages
 fireling
