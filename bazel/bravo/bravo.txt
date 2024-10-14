@@ -6389,7 +6389,6 @@ benzalphenylhydrazone
 benzalphthalide
 benzamide
 benzamido
-benzamine
 benzaminic
 benzamino
 benzanalgen
@@ -12994,6 +12993,7 @@ bugseeds
 boodleism
 banjore
 boreism
+benzamine
 borel
 borele
 betrample
