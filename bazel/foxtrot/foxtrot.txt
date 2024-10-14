@@ -3931,6 +3931,7 @@ finebent
 foggage
 franchisal
 fined
+forwardly
 fineish
 fineleaf
 frounces
@@ -8801,7 +8802,6 @@ forwarder
 forwarders
 forwardest
 forwarding
-forwardly
 forwards
 forwardsearch
 forwarn
