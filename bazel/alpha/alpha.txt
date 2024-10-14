@@ -6080,7 +6080,6 @@ aggregation
 aggregations
 aggregative
 aggregatively
-aggregator
 antiroll
 anatman
 aggregatory
@@ -23703,6 +23702,7 @@ austereness
 austerer
 austerest
 austerities
+aggregator
 austerlitz
 anatinae
 austerus
