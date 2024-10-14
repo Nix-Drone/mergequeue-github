@@ -9450,6 +9450,7 @@ alternatingly
 alternation
 afterend
 alternatively
+atty
 alternativeness
 alternatives
 alternativity
@@ -10764,7 +10765,6 @@ ammoniuret
 ammoniureted
 ammono
 ammonobasic
-atty
 ammonocarbonic
 ammonocarbonous
 ammonoidea
