@@ -1845,7 +1845,6 @@ feature
 forthrightly
 featured
 featureful
-featurelessness
 featurely
 featureliness
 flywheel
@@ -8840,6 +8839,7 @@ fouler
 fosite
 fossa
 fibreglass
+featurelessness
 flunks
 fole
 flabbier
