@@ -6310,6 +6310,7 @@ fluidness
 fluidounce
 friskers
 fluidram
+facing
 flaff
 fluorapatite
 fluids
@@ -9482,7 +9483,6 @@ frankness
 fecal
 fumosity
 franseria
-facing
 formaldehydesulphoxylic
 frantic
 franticly
