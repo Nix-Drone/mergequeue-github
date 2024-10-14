@@ -9881,7 +9881,6 @@ chemistries
 chemists
 chemitype
 chemitypy
-chemitypies
 chemizo
 chemmy
 cornucopia
@@ -17090,6 +17089,7 @@ coadunatively
 creek
 chummer
 coadunite
+chemitypies
 coadventure
 coadventured
 coadventuress
