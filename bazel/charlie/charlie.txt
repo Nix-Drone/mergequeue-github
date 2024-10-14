@@ -5816,7 +5816,6 @@ catfish
 catfoot
 catfooted
 catgut
-catguts
 cath
 catha
 convolutionary
@@ -14973,6 +14972,7 @@ cytophil
 cytophilic
 cytula
 consignors
+catguts
 crossopterygian
 cytophysics
 cytophysiology
