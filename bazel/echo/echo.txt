@@ -41,6 +41,7 @@ eisell
 earflap
 earflaps
 earflower
+eident
 earful
 electrochemist
 earfuls
@@ -1222,7 +1223,6 @@ educables
 educand
 educatability
 epicrystalline
-eident
 educatable
 educate
 evitate
