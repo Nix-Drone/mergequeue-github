@@ -4217,6 +4217,7 @@ fireplug
 frieze
 fireplugs
 firepot
+frame
 fireproofed
 fireproofing
 fireproofness
@@ -9364,7 +9365,6 @@ farewells
 fram
 framable
 frambesia
-frame
 frowzily
 framea
 frameae
