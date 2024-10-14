@@ -10769,7 +10769,6 @@ direct
 directable
 directcarving
 directdiscourse
-directed
 diastereoisomeric
 directer
 directest
@@ -16579,6 +16578,7 @@ dragbolt
 dragee
 dragees
 drageoir
+directed
 dragged
 dragger
 disowns
