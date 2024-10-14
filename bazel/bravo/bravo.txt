@@ -4507,7 +4507,6 @@ bickers
 beclaw
 beclip
 besieged
-becloak
 belchers
 becloaking
 becloaks
@@ -8835,6 +8834,7 @@ bloodstone
 bulliest
 binding
 bindingness
+becloak
 bindings
 bindis
 bindle
