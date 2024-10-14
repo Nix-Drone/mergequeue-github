@@ -3240,7 +3240,6 @@ activities
 activize
 activized
 assailability
-actless
 acton
 actory
 actorish
@@ -10026,6 +10025,7 @@ amblyopsidae
 amblyopsis
 amblyoscope
 amblypoda
+actless
 amblypodous
 apnea
 amblyrhynchus
