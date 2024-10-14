@@ -6720,7 +6720,6 @@ fogbow
 flyblow
 fogdogs
 fairways
-fogdom
 figworts
 fogfruit
 foretype
@@ -7671,6 +7670,7 @@ frigidities
 foreorlop
 forefigure
 forefin
+fogdom
 forefinger
 forjudged
 forefingers
