@@ -21755,7 +21755,6 @@ crusets
 conductometer
 coworking
 chiffrobe
-conductometric
 conclamant
 conductor
 cancered
@@ -29818,6 +29817,7 @@ countermeasures
 crossbeak
 crossbeam
 crossbeams
+conductometric
 crossbelt
 crossbench
 crossbencher
