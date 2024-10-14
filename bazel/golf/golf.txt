@@ -5223,7 +5223,6 @@ glasswork
 guider
 glassworker
 glassworkers
-glassworm
 gawkier
 glasswort
 gees
@@ -5699,6 +5698,7 @@ glossolabial
 gconvert
 ganch
 genuflector
+glassworm
 globularia
 globulariaceae
 globulariaceous
