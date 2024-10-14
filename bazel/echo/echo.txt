@@ -1087,7 +1087,6 @@ edgeless
 executing
 edgeling
 edgeman
-edger
 edgers
 edges
 edgeshot
@@ -8261,6 +8260,7 @@ epistatic
 epistaxis
 epistemologically
 epistemonic
+edger
 equiprobabilist
 epistemophiliac
 entocoelic
