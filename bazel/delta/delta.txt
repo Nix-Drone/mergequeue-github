@@ -3405,7 +3405,6 @@ deflagrator
 deflate
 deflated
 drynaria
-deflater
 deflates
 delime
 deflating
@@ -17821,6 +17820,7 @@ deperm
 dotiness
 duckstone
 decussion
+deflater
 ducktail
 duckweed
 duckweeds
