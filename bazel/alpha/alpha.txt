@@ -13318,7 +13318,6 @@ alfas
 anisoles
 archangels
 anisoleucocytosis
-agglutinability
 anisomeles
 anisomelia
 accentuator
@@ -18806,6 +18805,7 @@ archdeaconess
 archdeaconry
 archdeaconries
 archdeacons
+agglutinability
 archdeaconship
 archdean
 archdeanery
