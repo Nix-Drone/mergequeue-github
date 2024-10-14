@@ -1087,6 +1087,7 @@ farmhold
 farmhouse
 feronia
 farmhousey
+felspath
 fontinalaceae
 fuzzle
 farmy
@@ -2218,7 +2219,6 @@ felsobanyite
 foretypified
 felspars
 friendlily
-felspath
 felspathose
 felstone
 framers
