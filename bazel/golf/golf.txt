@@ -3100,7 +3100,6 @@ grocerdom
 geoids
 gladioluses
 geoisotherm
-geol
 geolatry
 gusseting
 geologer
@@ -4431,6 +4430,7 @@ ginete
 gynethusia
 gynetype
 gushers
+geol
 gingal
 gingalls
 gingeleys
