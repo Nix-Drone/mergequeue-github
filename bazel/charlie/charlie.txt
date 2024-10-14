@@ -2701,7 +2701,6 @@ canonicalness
 canonicals
 canonics
 canonisation
-canonise
 contermine
 canonised
 canoniser
@@ -26774,6 +26773,7 @@ counterembowed
 counterend
 counterenergy
 counterengagement
+canonise
 counterengine
 counterenthusiasm
 counterentry
