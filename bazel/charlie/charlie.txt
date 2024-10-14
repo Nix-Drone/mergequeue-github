@@ -4172,7 +4172,6 @@ carer
 carers
 cares
 caress
-caressable
 caressant
 collinal
 caressed
@@ -15081,6 +15080,7 @@ citruses
 coadjutorship
 cittern
 citternhead
+caressable
 citterns
 citua
 cytulae
