@@ -1347,6 +1347,7 @@ fastnesses
 feed
 frogskins
 fasts
+fldxt
 fastuous
 fastuousness
 fastwalk
@@ -5291,7 +5292,6 @@ flche
 flchette
 flimflam
 fld
-fldxt
 flea
 fiscalize
 flimmer
