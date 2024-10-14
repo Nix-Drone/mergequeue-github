@@ -1973,7 +1973,6 @@ bandman
 bandmaster
 bandmasters
 bando
-bandobust
 bandog
 bandogs
 bonfire
@@ -5456,6 +5455,7 @@ behemothic
 behemoths
 behen
 behenate
+bandobust
 behenic
 binominal
 behest
