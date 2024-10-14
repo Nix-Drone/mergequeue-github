@@ -1906,7 +1906,6 @@ bandeaux
 betula
 banded
 bandelet
-bandelette
 bandeng
 banderlog
 banderma
@@ -16603,6 +16602,7 @@ bucephala
 bandaka
 blacking
 buceros
+bandelette
 borocitrate
 bucerotidae
 buchanan
