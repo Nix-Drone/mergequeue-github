@@ -12072,7 +12072,6 @@ bold
 bisulphate
 boldacious
 bolded
-bolden
 bolder
 boldest
 boldface
@@ -17772,6 +17771,7 @@ burner
 burnetize
 bloodstain
 burnettize
+bolden
 besticking
 blastophaga
 burnfire
