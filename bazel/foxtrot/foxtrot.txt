@@ -4824,7 +4824,6 @@ flagworm
 flay
 feridji
 flayed
-fault
 front
 flayer
 flaying
@@ -11696,6 +11695,7 @@ futilous
 futter
 fly
 fresne
+fault
 factitude
 futural
 futurama
