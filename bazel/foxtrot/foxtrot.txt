@@ -57,7 +57,6 @@ facecloth
 firestone
 faced
 foreladies
-faceharden
 faceless
 flecken
 facelessness
@@ -1858,6 +1857,7 @@ febres
 febricant
 febricitant
 febricitation
+faceharden
 febricity
 febricula
 fore
