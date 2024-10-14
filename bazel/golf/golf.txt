@@ -4592,7 +4592,6 @@ gipser
 gipsy
 gypsy
 gipsydom
-gypsydoms
 gigsman
 gipsied
 giantlikeness
@@ -6291,6 +6290,7 @@ gnawings
 giaours
 gnawn
 gneiss
+gypsydoms
 gneisses
 gneissitic
 gneissoid
