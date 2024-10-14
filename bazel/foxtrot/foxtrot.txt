@@ -5909,7 +5909,6 @@ flooders
 floodgate
 floodgates
 frontlessly
-floody
 flunkyhood
 flooding
 floodless
@@ -11256,6 +11255,7 @@ fungosities
 fungused
 funguses
 fireball
+floody
 funguslike
 funic
 fistulae
