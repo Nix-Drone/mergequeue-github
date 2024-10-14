@@ -3854,7 +3854,6 @@ carburisation
 carburise
 carburised
 carburiser
-carburization
 carburize
 carburized
 carburizer
@@ -13048,6 +13047,7 @@ cyanometric
 cyanometries
 cyanopathy
 cyanophyceae
+carburization
 cyanophycean
 cyanophyceous
 crunchingness
