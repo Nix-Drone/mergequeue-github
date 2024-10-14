@@ -8924,6 +8924,7 @@ characterizations
 characterize
 characterizer
 characterizers
+constants
 characterizes
 characterizing
 cashews
@@ -29723,7 +29724,6 @@ castral
 crooked
 crookedbacked
 crookeder
-constants
 crookedest
 crookedly
 crookery
