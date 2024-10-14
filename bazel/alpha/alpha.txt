@@ -2732,7 +2732,6 @@ acquittance
 acquitted
 ashkenazim
 acquitter
-acquitting
 acquophonia
 acrab
 acracy
@@ -15085,6 +15084,7 @@ anticryptic
 anticryptically
 anticrisis
 anticritic
+acquitting
 anticritical
 anticritically
 anticritique
