@@ -1627,7 +1627,6 @@ calp
 calpac
 calpack
 calpacked
-calpacks
 calpacs
 calpolli
 calpul
@@ -8748,6 +8747,7 @@ chanters
 chantership
 chanteur
 chanteuse
+calpacks
 chanteuses
 chanty
 chanticleer
