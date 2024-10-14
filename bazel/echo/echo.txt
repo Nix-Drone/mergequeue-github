@@ -3515,7 +3515,6 @@ epopoeia
 emboil
 encephalography
 emboite
-emboitement
 eelboat
 extremer
 elliptic
@@ -8361,6 +8360,7 @@ epithelioid
 entosphenoid
 epitheliolysin
 epitheliolysis
+emboitement
 earcap
 embrown
 epitheliolytic
