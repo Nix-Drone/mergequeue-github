@@ -5457,7 +5457,6 @@ fleshiness
 fourniture
 fleshing
 fleshings
-formatters
 fanjets
 fleshless
 fleshlier
@@ -5908,6 +5907,7 @@ flooder
 flooders
 floodgate
 floodgates
+formatters
 frontlessly
 floody
 flunkyhood
