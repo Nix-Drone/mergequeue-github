@@ -3707,6 +3707,7 @@ corruptest
 carbolics
 centricity
 carboline
+chemitype
 carbolineum
 carbolised
 carbolising
@@ -9879,7 +9880,6 @@ chemistry
 crooking
 chemistries
 chemists
-chemitype
 chemitypy
 chemitypies
 chemizo
