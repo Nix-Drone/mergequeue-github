@@ -750,7 +750,6 @@ baddie
 barlock
 betimber
 baddies
-baddish
 baddishly
 baddishness
 baddock
@@ -2187,6 +2186,7 @@ banqueters
 banqueting
 banquets
 banquette
+baddish
 bans
 bansalague
 bansela
