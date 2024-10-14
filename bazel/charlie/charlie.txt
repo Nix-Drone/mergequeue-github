@@ -5701,7 +5701,6 @@ catechistic
 catechistical
 catechistically
 catechists
-catechizable
 catechization
 catechize
 catechized
@@ -25639,6 +25638,7 @@ corrections
 corrective
 correctively
 correctiveness
+catechizable
 correctives
 correctness
 corrector
