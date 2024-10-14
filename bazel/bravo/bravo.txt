@@ -1596,7 +1596,6 @@ ballgame
 ballgames
 ballgowns
 ballhausplatz
-ballhawk
 ballhawks
 ballhooter
 balli
@@ -4646,6 +4645,7 @@ bedazement
 bedazzled
 bedazzles
 bulborectal
+ballhawk
 bedazzlingly
 bedbugs
 bedcap
