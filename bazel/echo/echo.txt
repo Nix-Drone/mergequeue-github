@@ -4736,7 +4736,6 @@ excommunications
 ersatzes
 ease
 enciphered
-enciphering
 encipherment
 evolutional
 encipherments
@@ -13236,6 +13235,7 @@ explorer
 explorers
 ethicalities
 explores
+enciphering
 eclipsareon
 exploringly
 encephalodialysis
