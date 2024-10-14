@@ -18903,7 +18903,6 @@ collations
 cesti
 collatitious
 cloine
-collative
 collator
 cairds
 collators
@@ -23372,6 +23371,7 @@ contangential
 compactest
 contd
 conte
+collative
 centgrave
 conteck
 contect
