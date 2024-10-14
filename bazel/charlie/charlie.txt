@@ -7624,7 +7624,6 @@ cerebroparietal
 cerebropedal
 cerebropontile
 cerebropsychosis
-contraprop
 cerebrosclerosis
 cerebroscope
 cachexia
@@ -28523,6 +28522,7 @@ credulous
 credulousness
 cree
 creed
+contraprop
 creedalism
 creedalist
 creeded
