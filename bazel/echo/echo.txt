@@ -2278,7 +2278,6 @@ electragy
 electragist
 electrepeter
 electress
-electret
 electrets
 electrical
 eyrer
@@ -6671,6 +6670,7 @@ extratension
 enteroischiocele
 enterokinase
 enterokinesia
+electret
 enterolysis
 eddies
 ectomorphy
