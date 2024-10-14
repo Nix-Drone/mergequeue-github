@@ -612,7 +612,6 @@ bact
 bacteraemia
 bacteremia
 bacteremic
-bacteria
 bacteriaceae
 britannian
 bacteriaemia
@@ -15110,6 +15109,7 @@ brewership
 brewhouse
 beguilingness
 brewhouses
+bacteria
 brewing
 brewings
 brewis
