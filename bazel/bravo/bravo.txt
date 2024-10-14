@@ -2163,7 +2163,6 @@ banneret
 bannerets
 bannerfish
 beduke
-bannerless
 bannerlike
 bannerline
 bannerman
@@ -13669,6 +13668,7 @@ boutefeu
 bouteria
 bouteselle
 boutylka
+bannerless
 boutique
 bullwhacker
 boutiques
