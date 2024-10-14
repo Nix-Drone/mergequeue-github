@@ -2477,7 +2477,6 @@ deckpipe
 decks
 dulls
 deckswabber
-decl
 declaim
 dichorisandra
 declaimant
@@ -15680,6 +15679,7 @@ dora
 dorab
 dorad
 doradidae
+decl
 dorado
 doraphobia
 dorask
