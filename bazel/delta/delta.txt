@@ -12025,6 +12025,7 @@ disenthrone
 disenthroned
 disenthronement
 deled
+durability
 disentitle
 diffuser
 disentitled
@@ -12312,7 +12313,6 @@ disher
 damas
 disherent
 disherison
-durability
 disherited
 dinosauric
 divet
