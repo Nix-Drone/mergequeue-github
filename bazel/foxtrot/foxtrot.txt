@@ -4970,6 +4970,7 @@ flanker
 flankers
 falconries
 fringilliform
+facelift
 fireshaft
 flanking
 flanks
@@ -10738,7 +10739,6 @@ frumperies
 fatherliness
 fictioneering
 fenny
-facelift
 fellifluous
 forelaid
 frumpy
