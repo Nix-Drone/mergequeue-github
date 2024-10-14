@@ -4962,7 +4962,6 @@ carvage
 carval
 carve
 carved
-campshot
 carvels
 cannabinol
 carven
@@ -26461,6 +26460,7 @@ cicala
 cotty
 cottid
 cottidae
+campshot
 cottier
 cottiers
 cottiform
