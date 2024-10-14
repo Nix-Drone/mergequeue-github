@@ -15614,7 +15614,6 @@ doormat
 doormats
 doormen
 doornails
-doornboom
 doorpiece
 doorpost
 doorposts
@@ -16407,6 +16406,7 @@ dysanagnosia
 downweed
 devilbird
 downweighted
+doornboom
 downwind
 dogma
 downwith
