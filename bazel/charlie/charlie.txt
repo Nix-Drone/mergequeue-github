@@ -3265,6 +3265,7 @@ capper
 cappers
 cappie
 cappier
+chemicophysics
 cappiest
 capping
 cappings
@@ -9842,7 +9843,6 @@ chemicomechanical
 chemicomineralogical
 chemicopharmaceutical
 chemicophysical
-chemicophysics
 chemicophysiological
 curtaining
 chemicovital
