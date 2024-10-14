@@ -813,7 +813,6 @@ daneflower
 danegelds
 danegelt
 danelaw
-dungeon
 dermititis
 daneweed
 daneweeds
@@ -13950,6 +13949,7 @@ distream
 distress
 distressed
 distressedly
+dungeon
 distressedness
 distressful
 deformer
