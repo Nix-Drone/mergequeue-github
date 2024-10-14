@@ -4351,6 +4351,7 @@ beaverkill
 beaverkin
 beaverlike
 beaverroot
+brandyman
 beavers
 beaverskin
 beaverteen
@@ -14509,7 +14510,6 @@ brasero
 balsamea
 brandied
 brandify
-brandyman
 branding
 brandiron
 bombloads
