@@ -441,7 +441,6 @@ backrushes
 backsaws
 backscatter
 backscattered
-backscattering
 backscraper
 backscratcher
 backset
@@ -1763,6 +1762,7 @@ balsamical
 balsamically
 bluenesses
 blasthole
+backscattering
 bigotries
 balsamina
 balsaminaceae
