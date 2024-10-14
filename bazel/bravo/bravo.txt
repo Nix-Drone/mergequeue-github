@@ -7896,6 +7896,7 @@ bibelots
 bibenzyl
 biberon
 bibi
+boldface
 bibio
 bibionid
 bibionidae
@@ -12075,7 +12076,6 @@ bolded
 bolden
 bolder
 boldest
-boldface
 bostrychoid
 boldfaced
 boldfacedly
