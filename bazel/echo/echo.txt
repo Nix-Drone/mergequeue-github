@@ -9605,7 +9605,6 @@ eiffel
 escribiente
 escribientes
 escrime
-escript
 escritoire
 escritorial
 exotoxin
@@ -13332,6 +13331,7 @@ enframes
 exposures
 expound
 expoundable
+escript
 expounder
 expounders
 empocket
