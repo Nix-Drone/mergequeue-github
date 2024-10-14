@@ -5603,6 +5603,7 @@ departs
 demicolumn
 depascent
 depass
+direst
 disintensify
 delphinoid
 disrepute
@@ -6290,7 +6291,6 @@ dermatopsy
 dermatoptera
 dermatoptic
 debatter
-direst
 desirously
 dermatorrhagia
 dashy
