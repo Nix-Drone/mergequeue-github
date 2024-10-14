@@ -5628,7 +5628,6 @@ fellowshiped
 flimsiness
 flinch
 flagleaf
-freighters
 forgone
 flinched
 flincher
@@ -6945,6 +6944,7 @@ folkvangr
 foll
 foller
 folles
+freighters
 formalisation
 folletage
 folletti
