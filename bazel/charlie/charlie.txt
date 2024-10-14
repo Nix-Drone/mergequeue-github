@@ -3986,7 +3986,6 @@ cardiauxe
 cardiazol
 cardicentesis
 cardiectasis
-cardiectomy
 cardiectomize
 cardielcosis
 cardiemphraxia
@@ -6232,6 +6231,7 @@ chilectropion
 calycular
 causal
 causalgia
+cardiectomy
 causality
 causalities
 causally
