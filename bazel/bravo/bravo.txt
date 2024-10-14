@@ -638,7 +638,6 @@ bacterioblast
 bacteriochlorophyll
 bacteriocin
 bishopbird
-bacteriodiagnosis
 bacteriofluorescin
 bromates
 bacteriogenic
@@ -10207,6 +10206,7 @@ blacktops
 blennioidea
 blacktree
 blackly
+bacteriodiagnosis
 blackware
 befleaed
 blackwasher
