@@ -4852,6 +4852,7 @@ demoid
 dishwash
 demoiselles
 demolish
+diabantite
 demolished
 demolisher
 demolishing
@@ -5378,7 +5379,6 @@ dentification
 dentifrice
 dentifrices
 dentil
-diabantite
 dentilabial
 dentilated
 dentilation
