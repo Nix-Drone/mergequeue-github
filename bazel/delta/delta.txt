@@ -3602,6 +3602,7 @@ degasify
 disguise
 definition
 degass
+dicot
 degassed
 degassing
 degauss
@@ -8967,7 +8968,6 @@ dicolic
 dicolon
 dicondylian
 dicophane
-dicot
 dicotyledon
 dicotyledonous
 dater
