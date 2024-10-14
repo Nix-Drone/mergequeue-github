@@ -2468,7 +2468,6 @@ electrokinetic
 enkolpion
 embarrased
 electrokinetics
-electroless
 electrolier
 electrolysation
 electrolyse
@@ -5181,6 +5180,7 @@ exundation
 endogenous
 essive
 exercised
+electroless
 electrocataphoresis
 endogens
 embroider
