@@ -6388,7 +6388,6 @@ benzalethylamine
 benzalphenylhydrazone
 benzalphthalide
 benzamide
-benzamido
 benzamine
 benzaminic
 benzamino
@@ -9123,6 +9122,7 @@ baptistery
 bactericidin
 bioplastic
 biopoiesis
+benzamido
 biod
 biological
 biopotential
