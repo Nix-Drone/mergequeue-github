@@ -3377,7 +3377,6 @@ fieldish
 fieldleft
 fieldman
 fibrillae
-financist
 fascio
 fieldmice
 fieldmouse
@@ -6740,6 +6739,7 @@ foghorn
 fogy
 fogyish
 fogless
+financist
 foolship
 fogmen
 fuseless
