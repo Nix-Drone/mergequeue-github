@@ -2473,6 +2473,7 @@ bulgur
 bardash
 bardcraft
 balate
+benchy
 barde
 butylation
 bardes
@@ -6137,7 +6138,6 @@ benches
 benchfellow
 burglary
 benchful
-benchy
 benchland
 benchless
 benchlet
