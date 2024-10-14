@@ -8708,7 +8708,6 @@ allyic
 allying
 allyl
 allylate
-allylation
 allylic
 allylthiourea
 allineate
@@ -12916,6 +12915,7 @@ ango
 angoise
 angola
 angolan
+allylation
 angolar
 adjoin
 angor
