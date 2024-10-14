@@ -3045,6 +3045,7 @@ bart
 bartend
 bartended
 betrayer
+bowllike
 bartender
 bess
 bartenders
@@ -13805,7 +13806,6 @@ burghs
 bowlike
 bowlin
 bowlings
-bowllike
 bowlmaker
 bacalaos
 bowmaker
