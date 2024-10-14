@@ -4523,7 +4523,6 @@ advanceable
 advancedness
 advancement
 advancements
-advancer
 advancers
 advances
 advancing
@@ -18776,6 +18775,7 @@ archbancs
 archbeacon
 archbeadle
 aridge
+advancer
 archbishopess
 archbishopry
 archbishopric

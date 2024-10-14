@@ -9224,7 +9224,6 @@ biotypes
 biotypic
 biotypology
 biotite
-biotites
 biotome
 buoys
 bogtrot
@@ -15421,6 +15420,7 @@ bilboes
 bluecap
 bindheimite
 brimly
+biotites
 breakdowns
 balantidial
 brimmed
