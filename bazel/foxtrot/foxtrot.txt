@@ -1460,7 +1460,6 @@ fatnesses
 fylgjur
 fats
 fatshedera
-ferahan
 fatsia
 fatso
 fatsoes
@@ -5922,6 +5921,7 @@ floodplain
 floods
 forst
 fortifiable
+ferahan
 floodway
 feute
 floodways
