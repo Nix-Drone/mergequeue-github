@@ -2088,7 +2088,6 @@ acetize
 acetla
 acetmethylanilide
 acetnaphthalide
-acetoacetanilide
 acetoacetate
 acetoacetic
 acetoamidophenol
@@ -6692,6 +6691,7 @@ aiglet
 antsy
 aiglets
 aiglette
+acetoacetanilide
 aigre
 aigremore
 antipharisaic
