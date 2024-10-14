@@ -10194,6 +10194,7 @@ blacksmiths
 blacksnake
 blackstick
 burghbote
+bowlegs
 baneful
 blacktail
 bliaut
@@ -18321,7 +18322,6 @@ buttonholer
 bedel
 buttonholes
 buttonholing
-bowlegs
 buttonhook
 buttony
 buttoning
