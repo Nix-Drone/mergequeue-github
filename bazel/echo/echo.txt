@@ -7939,7 +7939,6 @@ epilate
 epilating
 enforceable
 epilation
-epilator
 epilemma
 epileny
 epilepsies
@@ -13634,6 +13633,7 @@ evolvements
 externat
 externate
 externe
+epilator
 externes
 ermanaric
 externity
