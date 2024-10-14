@@ -3510,7 +3510,6 @@ carack
 caracks
 caracoa
 caracol
-caracoled
 caracoler
 caracoles
 caracoli
@@ -6058,6 +6057,7 @@ coaxially
 cattishness
 cowherd
 cattlebush
+caracoled
 cattlefold
 cattlegate
 cattlehide
