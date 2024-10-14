@@ -13641,7 +13641,6 @@ annullable
 annullate
 annullation
 annulled
-annuller
 annulling
 annulment
 antrin
@@ -19138,6 +19137,7 @@ artifices
 archplotter
 archplutocrat
 archpoet
+annuller
 archpolitician
 archpontiff
 archpractice
