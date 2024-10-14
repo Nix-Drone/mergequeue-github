@@ -9922,7 +9922,6 @@ chemosensitivities
 chemoserotherapy
 chemoses
 chemosynthesis
-chemosynthetic
 chemosis
 chemosmoic
 chemosmoses
@@ -28510,6 +28509,7 @@ curial
 coldly
 creditress
 creditrix
+chemosynthetic
 crednerite
 continuances
 cavallies
