@@ -1091,7 +1091,6 @@ bailieship
 bailiff
 bailiffry
 bailiffs
-bailiffwick
 bailing
 bailiwick
 bedazzlement
@@ -12713,6 +12712,7 @@ bookshops
 babassus
 booksy
 bookstall
+bailiffwick
 boraginaceae
 buds
 bookstand
