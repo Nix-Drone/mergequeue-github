@@ -4340,6 +4340,7 @@ friendlies
 fisk
 fise
 forb
+framable
 fisetin
 fish
 fishability
@@ -9362,7 +9363,6 @@ fasciolet
 fecula
 farewells
 fram
-framable
 frambesia
 frame
 frowzily
