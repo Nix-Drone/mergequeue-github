@@ -9576,6 +9576,7 @@ dihdroxycholecalciferol
 dihedral
 dihedrals
 dihedron
+dilatational
 discipleship
 dihelium
 dihexahedron
@@ -9665,7 +9666,6 @@ douppioni
 dilatants
 dilatate
 dilatation
-dilatational
 dorbug
 dilatative
 duffles
