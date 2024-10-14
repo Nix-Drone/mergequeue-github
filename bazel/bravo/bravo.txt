@@ -6678,7 +6678,6 @@ berewick
 balkanizing
 berg
 bergall
-bergama
 bergamasca
 bergamasche
 biogenies
@@ -12729,6 +12728,7 @@ bookworm
 bookworms
 bucketeer
 bookwright
+bergama
 bool
 bowline
 boolean
