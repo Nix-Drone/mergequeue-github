@@ -11901,7 +11901,6 @@ bielid
 bogglish
 boghole
 bogy
-bogydom
 bogie
 bogieman
 bullfinch
@@ -12224,6 +12223,7 @@ boltin
 bolting
 boltlike
 beaupers
+bogydom
 boltmaker
 boltonia
 boltonias
