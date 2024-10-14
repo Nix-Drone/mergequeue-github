@@ -9406,7 +9406,6 @@ altars
 afghanets
 altazimuth
 alter
-alterability
 alterable
 alterableness
 alterably
@@ -12500,6 +12499,7 @@ anemometrical
 avoided
 anemometrically
 asculae
+alterability
 anemometrograph
 ammoniated
 anemometrographically
