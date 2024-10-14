@@ -4182,7 +4182,6 @@ estado
 employed
 employee
 employees
-employer
 exedral
 employers
 employment
@@ -4346,6 +4345,7 @@ enacted
 enacting
 enactment
 enactments
+employer
 euorthoptera
 enactors
 enaena
