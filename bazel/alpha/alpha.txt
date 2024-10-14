@@ -7884,7 +7884,6 @@ arrivederci
 alerters
 alertest
 agrees
-alerting
 alertly
 alertness
 alerts
@@ -9075,6 +9074,7 @@ almehs
 animations
 almeidina
 almemar
+alerting
 almemars
 antipopularization
 almemor
