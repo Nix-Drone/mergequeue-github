@@ -3664,7 +3664,6 @@ adenochondroma
 adenochondrosarcoma
 adenochrome
 adenocyst
-adenocystoma
 antepectoral
 adenocystomatous
 adenodermia
@@ -18932,6 +18931,7 @@ archfoe
 archfool
 archform
 archfounder
+adenocystoma
 archgenethliac
 archgod
 archgomeral
