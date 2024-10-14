@@ -2963,7 +2963,6 @@ barrelhouse
 barrelhouses
 besmearer
 barreling
-broad
 barrelled
 brattle
 barrelmaker
@@ -12892,6 +12891,7 @@ bopped
 brigadiers
 bopper
 boppers
+broad
 bopping
 boppist
 bloomers
