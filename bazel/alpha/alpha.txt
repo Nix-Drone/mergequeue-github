@@ -10955,7 +10955,6 @@ amovable
 amuser
 altitudinous
 amove
-amoved
 amoving
 amowt
 amp
@@ -19114,6 +19113,7 @@ archoplasmic
 archoptoma
 archorrhagia
 archorrhea
+amoved
 antipersonnel
 archostegnosis
 archostenosis
