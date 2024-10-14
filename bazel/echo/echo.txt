@@ -5812,7 +5812,6 @@ engrapple
 engrasp
 engraulis
 engrave
-engravement
 engraven
 engraver
 engravers
@@ -8091,6 +8090,7 @@ epiphyllospermous
 epiphysary
 epiphyseal
 ebonies
+engravement
 elemi
 epiphysis
 epiphysitis
