@@ -1899,7 +1899,6 @@ bandboxy
 barricos
 bandboxical
 bandcase
-bandcutter
 bande
 bandeau
 bandeaux
@@ -6005,6 +6004,7 @@ belzebub
 bridaler
 bema
 bemad
+bandcutter
 bemadam
 bullaria
 bacterioprecipitin
