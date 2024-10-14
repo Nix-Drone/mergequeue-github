@@ -4630,7 +4630,6 @@ cellarway
 carpeting
 carpetlayer
 carpetless
-carpetmaker
 carpetmaking
 carpetmonger
 carpets
@@ -17883,6 +17882,7 @@ coeldership
 coelebogyne
 coelect
 coelection
+carpetmaker
 colpocele
 coelectron
 coelelminthic
