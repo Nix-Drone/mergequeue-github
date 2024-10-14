@@ -8423,7 +8423,6 @@ bronzings
 bignou
 bactericides
 bygo
-bygoing
 bygone
 bygones
 bigonial
@@ -12733,6 +12732,7 @@ bool
 bowline
 boolean
 booleans
+bygoing
 booley
 booleys
 booly
