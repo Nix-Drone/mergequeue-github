@@ -4521,7 +4521,6 @@ adv
 advance
 advanceable
 advancedness
-advancement
 advancements
 advancer
 advancers
@@ -8281,6 +8280,7 @@ automatical
 alimentum
 alimony
 alimonied
+advancement
 alimonies
 alymphia
 alymphopotent
