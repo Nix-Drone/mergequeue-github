@@ -653,7 +653,6 @@ bacteriolytic
 bacteriolyze
 bacteriology
 bacteriologic
-bacteriologist
 bacteriologists
 bacteriopathology
 burnoose
@@ -1216,6 +1215,7 @@ bakelite
 bakelize
 borley
 bakemeats
+bacteriologist
 baken
 bakeout
 bakeoven
