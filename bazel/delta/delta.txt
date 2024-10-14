@@ -4581,7 +4581,6 @@ demidistance
 demiditone
 demidog
 dehydrators
-demidome
 demieagle
 demyelinate
 demies
@@ -8341,6 +8340,7 @@ dialyzed
 dialyzer
 dialyzes
 dowhacky
+demidome
 dialkyl
 dispell
 dialkylamine
