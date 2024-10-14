@@ -6101,7 +6101,6 @@ blephara
 bemuddling
 barrowcoat
 bemuffle
-bemurmur
 bemurmure
 bemurmuring
 bemurmurs
@@ -12682,6 +12681,7 @@ borderline
 bookmarks
 bookmate
 bookmobile
+bemurmur
 bookmobiles
 bookplate
 bookplates
