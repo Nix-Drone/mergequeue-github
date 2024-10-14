@@ -9960,7 +9960,6 @@ chemotherapist
 chemotherapists
 chemotic
 chemotroph
-chemotrophic
 chemotropic
 chemotropically
 chemotropism
@@ -13313,6 +13312,7 @@ cyclocoelic
 cycloconium
 cyclode
 cyclodiene
+chemotrophic
 cyclodiolefine
 cycloganoid
 cummin
