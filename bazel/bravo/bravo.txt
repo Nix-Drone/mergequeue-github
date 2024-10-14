@@ -6479,6 +6479,7 @@ benzols
 benzonaphthol
 benzonitrile
 benzoperoxide
+borrowing
 benzophenanthrazine
 benzophenazine
 benzophenol
@@ -16165,7 +16166,6 @@ brothellike
 bulla
 brothelry
 brothels
-borrowing
 brother
 brotherhood
 benj
