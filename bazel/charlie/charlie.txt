@@ -5812,7 +5812,6 @@ catfall
 catfalls
 catfight
 creeled
-catfish
 catfoot
 catfooted
 catgut
@@ -8283,6 +8282,7 @@ chandam
 chalazoidite
 chalazoin
 chalcanth
+catfish
 chalcedony
 cartbote
 chalcedonian
