@@ -11700,7 +11700,6 @@ analecta
 analects
 analemma
 analemmas
-analemmata
 analepses
 analeptic
 anthidium
@@ -19685,6 +19684,7 @@ aridian
 aridity
 aridities
 aridly
+analemmata
 aridness
 ariegite
 ariel
