@@ -1107,7 +1107,6 @@ farnesol
 farnesols
 fogas
 flinger
-farnesses
 faro
 floter
 foredestining
@@ -8237,6 +8236,7 @@ forget
 fluxer
 forgetful
 forgetfully
+farnesses
 fogdog
 forgetfulness
 forgetive
