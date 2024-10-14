@@ -5083,7 +5083,6 @@ endocardiac
 endocardium
 endocarp
 endocarpal
-endocarpic
 endocarps
 endocellular
 extramarital
@@ -7807,6 +7806,7 @@ epididymite
 eeten
 epididymodeferentectomy
 embosom
+endocarpic
 epididymodeferential
 exchanger
 epidymides
