@@ -1082,6 +1082,7 @@ edge
 edgebone
 emyd
 edgeboned
+exclusioner
 emulsor
 edgeless
 executing
@@ -12086,7 +12087,6 @@ exampleship
 exclusion
 exclusionary
 eigenspace
-exclusioner
 epsilon
 exclusionism
 electroethereal
