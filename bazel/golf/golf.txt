@@ -2264,7 +2264,6 @@ gearset
 gearshift
 gearshifts
 gearwheels
-glistening
 gease
 geat
 geb
@@ -3500,6 +3499,7 @@ gerontocracies
 gerontocrat
 gerontology
 gerontological
+glistening
 gerontologies
 gerontologist
 giesel
