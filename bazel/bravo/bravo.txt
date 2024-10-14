@@ -10194,7 +10194,6 @@ blacksmiths
 blacksnake
 blackstick
 burghbote
-baneful
 blacktail
 bliaut
 boogaloo
@@ -15435,6 +15434,7 @@ brimmingly
 brims
 brimse
 brimstone
+baneful
 brin
 brince
 brinded
