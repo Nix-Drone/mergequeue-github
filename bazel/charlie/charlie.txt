@@ -7397,6 +7397,7 @@ cephalothoraxes
 cephalotomy
 capman
 contrate
+clitellar
 cephalotractor
 cephalotribe
 cephalotrocha
@@ -16382,7 +16383,6 @@ clit
 clitch
 clite
 clitella
-clitellar
 clitelliferous
 clitellus
 compile

@@ -7575,7 +7575,6 @@ faith
 foregame
 forechoose
 foreclaw
-foreclose
 foreclosed
 foreclosure
 feteless
@@ -8729,6 +8728,7 @@ fortifiers
 fortifies
 fafnir
 fortifying
+foreclose
 fortifyingly
 fortifys
 fortyfives
