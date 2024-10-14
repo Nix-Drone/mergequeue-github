@@ -13453,7 +13453,6 @@ cyclotosaurus
 choloidic
 cyclotrimethylenetrinitramine
 cyclotron
-cyclotrons
 cyclus
 cicone
 ciconia
@@ -28426,6 +28425,7 @@ creation
 crickets
 creational
 counterproposal
+cyclotrons
 creationary
 creationism
 chaucer
