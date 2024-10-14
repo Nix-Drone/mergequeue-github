@@ -2067,6 +2067,7 @@ feinschmecker
 filacer
 feinted
 feinter
+findable
 forestlike
 feinting
 feis
@@ -3919,7 +3920,6 @@ finchery
 finches
 find
 finalizes
-findable
 flabellinerved
 findhorn
 finding
