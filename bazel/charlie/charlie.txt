@@ -5300,7 +5300,6 @@ castelli
 castellum
 casten
 caster
-casterless
 casters
 castes
 casteth
@@ -14229,6 +14228,7 @@ circularizing
 circularly
 circularness
 circulars
+casterless
 circulatable
 circulated
 circulates
