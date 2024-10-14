@@ -2311,7 +2311,6 @@ fenbank
 fence
 fenced
 fenceless
-fencelessness
 fayalite
 fencelet
 fenceplay
@@ -5375,6 +5374,7 @@ faunistic
 fleeces
 fleech
 fleeched
+fencelessness
 fascicles
 fleeching
 fleechment
