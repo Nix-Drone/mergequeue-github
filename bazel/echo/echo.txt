@@ -4787,7 +4787,6 @@ experimentalists
 enclosed
 elem
 enclosers
-enclosing
 efik
 enclosures
 excentral
@@ -9233,6 +9232,7 @@ episcenia
 exumbrella
 ermanrich
 endocone
+enclosing
 ebulus
 exceptionalness
 ermiline
