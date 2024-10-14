@@ -4408,6 +4408,7 @@ fishman
 fishmeals
 fishmonger
 ferociousness
+flenser
 fishmouth
 fishnet
 frank
@@ -5428,7 +5429,6 @@ flus
 flenched
 flenches
 flensed
-flenser
 flensers
 funnelled
 flenses
