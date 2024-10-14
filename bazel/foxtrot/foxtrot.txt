@@ -4637,7 +4637,6 @@ fixities
 flannelleaf
 fixt
 fusiformis
-fixtureless
 farming
 fixup
 fixups
@@ -9148,6 +9147,7 @@ foxery
 foxfeet
 foxfire
 foxfires
+fixtureless
 frolicsomeness
 floaty
 foxfish
