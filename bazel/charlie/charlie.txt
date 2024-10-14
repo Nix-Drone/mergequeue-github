@@ -9583,7 +9583,6 @@ checkweigher
 checkweighman
 checkweighmen
 checkwork
-checkwriter
 cheddar
 commentating
 cheddaring
@@ -15410,6 +15409,7 @@ coastguard
 clanjamfray
 clanjamfrey
 clanjamphrey
+checkwriter
 clank
 clanked
 clankety
