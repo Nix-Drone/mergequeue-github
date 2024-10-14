@@ -14842,7 +14842,6 @@ breakpoint
 breakpoints
 breaks
 breakshugh
-besselian
 breakstone
 breakthrough
 breakthroughs
@@ -18185,6 +18184,7 @@ butyrates
 butyric
 birdberry
 butyryl
+besselian
 bacillicide
 butyryls
 butyrin
