@@ -7614,7 +7614,6 @@ cerebroganglionic
 cerebroid
 cerebroma
 cerebromalacia
-cerebromeningeal
 cerebromeningitis
 carbolating
 cerebrometer
@@ -18532,6 +18531,7 @@ coynesses
 coinfer
 coinferred
 coinferring
+cerebromeningeal
 coinfers
 coinfinity
 coing
