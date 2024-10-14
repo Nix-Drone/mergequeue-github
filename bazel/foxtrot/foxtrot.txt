@@ -4449,7 +4449,6 @@ fission
 fissionable
 fissioned
 frays
-fissions
 fissipalmation
 floorboards
 fissiparism
@@ -11127,6 +11126,7 @@ footmenfootpad
 farceuse
 functionalities
 fistiana
+fissions
 formatively
 firemaster
 functionalize
