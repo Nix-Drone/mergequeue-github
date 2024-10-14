@@ -7319,7 +7319,6 @@ gossiped
 gossipee
 gossiper
 gossipers
-gossiphood
 gatehouses
 gossipy
 gravitationally
@@ -10357,6 +10356,7 @@ gossypol
 gullible
 gullibly
 gullied
+gossiphood
 gullies
 gullying
 gulling
