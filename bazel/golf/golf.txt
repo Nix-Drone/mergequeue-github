@@ -7318,7 +7318,6 @@ gossipdom
 gossiped
 gossipee
 gossiper
-gossipers
 gossiphood
 gatehouses
 gossipy
@@ -10254,6 +10253,7 @@ guyots
 guipure
 graff
 guipures
+gossipers
 galatians
 guys
 guisard
