@@ -1657,7 +1657,6 @@ accompt
 accordable
 accordance
 accordances
-accordancy
 accordatura
 amphiphloic
 accordaturas
@@ -3804,6 +3803,7 @@ adherer
 adherers
 adheres
 adherescence
+accordancy
 adherescent
 anticipatively
 adhering
