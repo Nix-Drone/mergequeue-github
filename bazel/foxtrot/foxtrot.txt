@@ -1621,7 +1621,6 @@ fledglings
 findability
 favissa
 favorable
-favorableness
 farris
 floridian
 favored
@@ -5311,6 +5310,7 @@ fg
 fleamy
 fleams
 faverel
+favorableness
 fleas
 fulgurator
 fleaweed
