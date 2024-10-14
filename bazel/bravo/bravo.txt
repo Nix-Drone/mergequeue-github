@@ -11563,7 +11563,6 @@ boars
 boarship
 boarskin
 boarspear
-boart
 boarts
 boarwood
 boas
@@ -18177,6 +18176,7 @@ butylenes
 butylic
 benching
 butin
+boart
 butyn
 butyraldehyde
 butyrals
