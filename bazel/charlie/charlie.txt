@@ -2424,7 +2424,6 @@ candles
 candleshine
 candleshrift
 candlesnuffer
-candlestand
 committeewoman
 candlestick
 candlesticked
@@ -12536,6 +12535,7 @@ collophore
 chromospheres
 chromospheric
 cadjan
+candlestand
 chromotherapist
 chromotypy
 chromotypic
