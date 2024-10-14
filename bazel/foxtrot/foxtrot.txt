@@ -6726,7 +6726,6 @@ fogfruit
 foretype
 feeders
 fogfruits
-fogger
 foggers
 fairgrass
 foggier
@@ -8950,6 +8949,7 @@ foulbrood
 foulder
 flourlike
 fouled
+fogger
 falsifies
 foulest
 foulings
