@@ -841,7 +841,6 @@ demythologize
 danglingly
 danian
 danic
-danicism
 daniel
 danielic
 descriptiveness
@@ -1194,6 +1193,7 @@ dataset
 datasetname
 datasets
 datatype
+danicism
 datatypes
 datcha
 dynamometry
