@@ -8308,7 +8308,6 @@ arado
 aliped
 architectonic
 alipeds
-aliphatic
 alipin
 alypin
 abbie
@@ -10522,6 +10521,7 @@ amylogenic
 amylogens
 amylohydrolysis
 amylohydrolytic
+aliphatic
 amyloid
 amyloidal
 arawakan
