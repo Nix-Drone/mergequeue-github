@@ -7241,7 +7241,6 @@ footraces
 footrest
 footrests
 footrope
-footropes
 foots
 footscald
 footmarks
@@ -7716,6 +7715,7 @@ forehandedness
 flushness
 freeman
 forehatch
+footropes
 forehatchway
 fungilliform
 foreheads
