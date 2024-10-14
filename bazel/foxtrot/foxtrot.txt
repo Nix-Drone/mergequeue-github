@@ -2068,6 +2068,7 @@ filacer
 feinted
 feinter
 forestlike
+forches
 feinting
 feis
 flatlander
@@ -7432,7 +7433,6 @@ forceput
 fazing
 forces
 forcet
-forches
 forcy
 forcibility
 forcibleness
