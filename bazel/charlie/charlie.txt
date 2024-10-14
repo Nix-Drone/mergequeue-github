@@ -19496,7 +19496,6 @@ colter
 colters
 colthood
 coltishly
-coltlike
 coltoria
 chalana
 coltpixy
@@ -27216,6 +27215,7 @@ complies
 countrified
 countryfied
 countrifiedness
+coltlike
 countryfiedness
 countryfolk
 countryish
