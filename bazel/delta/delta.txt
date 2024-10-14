@@ -3481,6 +3481,7 @@ deticking
 defog
 defogged
 didymus
+disconform
 disyllable
 defoggers
 defogging
@@ -12404,7 +12405,6 @@ disillusioned
 disillusioning
 deignous
 disillusionised
-disconform
 disillusioniser
 disillusionising
 disillusionized
