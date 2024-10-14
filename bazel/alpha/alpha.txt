@@ -12072,7 +12072,6 @@ anatomists
 anatomizable
 anatomization
 anatomize
-anatomized
 anatomizer
 anatomizes
 anatomizing
@@ -15872,6 +15871,7 @@ antiphysicalness
 antiphysician
 antiphlogistian
 antiphlogistic
+anatomized
 antiphlogistin
 antiphona
 antiphonal
