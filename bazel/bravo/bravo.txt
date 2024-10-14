@@ -1675,6 +1675,7 @@ buffets
 ballottine
 ballottines
 ballow
+barterer
 blear
 ballplayer
 ballplayers
@@ -3050,7 +3051,6 @@ bess
 bartenders
 bartending
 barter
-barterer
 barterers
 bartering
 barters
