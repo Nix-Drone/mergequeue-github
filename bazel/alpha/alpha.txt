@@ -12067,7 +12067,6 @@ anatomiless
 anatomise
 anatomiser
 anatomising
-anatomist
 anatomists
 anatomizable
 anatomization
@@ -22934,6 +22933,7 @@ attach
 attachableness
 attache
 attached
+anatomist
 attachedly
 attacher
 attaches
