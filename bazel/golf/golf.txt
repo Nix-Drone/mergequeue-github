@@ -7265,7 +7265,6 @@ gortonite
 gos
 goschen
 goshawk
-gorefish
 goshenite
 goslarite
 goslet
@@ -8651,6 +8650,7 @@ greenbrier
 greenbug
 greenbugs
 greencloth
+gorefish
 greencoat
 gormandising
 greeney
