@@ -5023,7 +5023,6 @@ demulsion
 distinguish
 demultiplex
 demultiplexed
-demultiplexer
 demultiplexers
 disroot
 diazepam
@@ -7783,6 +7782,7 @@ depersonalize
 diedral
 devouring
 discourseless
+demultiplexer
 defiances
 devouringly
 devouringness
