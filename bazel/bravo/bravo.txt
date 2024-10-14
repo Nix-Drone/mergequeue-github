@@ -1998,7 +1998,6 @@ bronchium
 bandos
 bandpass
 bandrol
-bandsaw
 bandsawed
 bandsawing
 bandsawn
@@ -15747,6 +15746,7 @@ broddle
 brodee
 brodeglass
 broderer
+bandsaw
 brodiaea
 bilateralistic
 barometrograph
