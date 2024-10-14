@@ -9805,7 +9805,6 @@ cydon
 chellean
 chello
 cheloids
-chelonia
 chelonian
 chelonid
 cheloniid
@@ -14308,6 +14307,7 @@ circumduct
 circumducted
 chimopeelagic
 circumduction
+chelonia
 circumesophagal
 circumesophageal
 circumfer
