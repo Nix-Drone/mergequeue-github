@@ -3186,7 +3186,6 @@ defeasibleness
 delphacid
 defeat
 defeated
-directs
 drusean
 defeatee
 drowsihood
@@ -8371,6 +8370,7 @@ dialogers
 dialogged
 dialogging
 dialogic
+directs
 dialogical
 digitigrada
 dialogically
