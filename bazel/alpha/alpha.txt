@@ -4983,6 +4983,7 @@ aerogun
 aerohydrodynamic
 aerohydropathy
 automorphic
+antipriestcraft
 aerohydroplane
 aerohydrotherapy
 archdapifership
@@ -15977,7 +15978,6 @@ antiprelatism
 antipreparedness
 antiprestidigitation
 antipriest
-antipriestcraft
 antipriesthood
 antiprime
 antiprimer
