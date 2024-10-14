@@ -1690,7 +1690,6 @@ egress
 egresses
 egressing
 estadal
-egressor
 exiler
 egret
 egretta
@@ -7436,6 +7435,7 @@ epeirid
 epeiridae
 etourderie
 epeirogenesis
+egressor
 epilogue
 encased
 epeirogenetic
