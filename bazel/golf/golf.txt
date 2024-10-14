@@ -2809,6 +2809,7 @@ genin
 gestures
 genio
 genioglossal
+gulpin
 globoids
 genioglossi
 genioglossus
@@ -8203,7 +8204,6 @@ gyrovague
 graphophone
 graphophonic
 graphoscope
-gulpin
 graphostatic
 graphostatical
 garo
