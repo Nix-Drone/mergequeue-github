@@ -1976,6 +1976,7 @@ campaigns
 campana
 campane
 campanella
+candlewaster
 campanero
 campania
 cecils
@@ -2430,7 +2431,6 @@ candlestick
 candlesticked
 candlesticks
 candlestickward
-candlewaster
 candlewasting
 candlewick
 candlewicking
