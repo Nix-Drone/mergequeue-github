@@ -23641,7 +23641,6 @@ contracyclical
 contracivil
 contraclockwise
 contract
-contractable
 contractant
 contractation
 contracted
@@ -31650,6 +31649,7 @@ cuselite
 cush
 cushag
 cushat
+contractable
 cushats
 cushaws
 civies
