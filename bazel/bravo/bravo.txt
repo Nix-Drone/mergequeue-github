@@ -9320,7 +9320,6 @@ bottonhook
 brisque
 bullfrogs
 biplanar
-biplane
 bobolink
 biplanes
 biplicate
@@ -13030,6 +13029,7 @@ born
 brannier
 bursula
 bornan
+biplane
 bornane
 borne
 bornean
