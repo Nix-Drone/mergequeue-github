@@ -7514,7 +7514,6 @@ devaluate
 devaluated
 devaluates
 devaluation
-devaluations
 devalue
 devalued
 devalues
@@ -17482,6 +17481,7 @@ demoralization
 drouthy
 drouthier
 drouthiest
+devaluations
 drouthiness
 drouths
 drove
