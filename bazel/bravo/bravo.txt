@@ -8949,7 +8949,6 @@ biocycles
 botan
 biocidal
 biocide
-biocides
 bioclimatic
 bioclimatician
 bioclimatology
@@ -18385,6 +18384,7 @@ buzzers
 buzzgloak
 buzzier
 buzzies
+biocides
 buzziest
 buzzing
 buzzingly
