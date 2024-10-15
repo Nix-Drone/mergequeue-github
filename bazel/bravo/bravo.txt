@@ -12179,6 +12179,7 @@ bolomen
 bolometer
 bolometric
 bolometrically
+buffeting
 boloroot
 bartramian
 bolos
@@ -16827,7 +16828,6 @@ buffeter
 buffeters
 bubalises
 bestripe
-buffeting
 borborygm
 buffetings
 buffier
