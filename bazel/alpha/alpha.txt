@@ -2473,7 +2473,6 @@ assesses
 acinacifoliate
 acinaciform
 acinacious
-acinar
 acouchy
 albardine
 acinary
@@ -8774,6 +8773,7 @@ allochroic
 allochroite
 allochromatic
 allochthon
+acinar
 allochthonous
 adscititiously
 allocyanine
