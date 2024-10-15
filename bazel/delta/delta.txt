@@ -6561,6 +6561,7 @@ desegregates
 desegregating
 desegregation
 duststorm
+determinoid
 deselected
 deselecting
 deselects
@@ -16196,7 +16197,6 @@ divisi
 dissour
 dowcote
 dowdy
-determinoid
 distent
 dowdyish
 dysteleologically
