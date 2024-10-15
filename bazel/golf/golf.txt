@@ -165,7 +165,6 @@ gastroscope
 grimliness
 greasiness
 gaduin
-gadus
 gadwall
 gadwalls
 ghrush
@@ -3342,6 +3341,7 @@ gerbo
 gere
 gereagle
 gremials
+gadus
 gedds
 grafters
 gachupin
