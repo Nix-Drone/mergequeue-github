@@ -7853,7 +7853,6 @@ cervicolumbar
 crystal
 cervicomuscular
 cerviconasal
-cervicoscapular
 cervicothoracic
 cervicovesical
 cervid
@@ -9871,6 +9870,7 @@ chemisette
 chemism
 choosy
 chemisorb
+cervicoscapular
 chemisorption
 cantator
 counteraverment
