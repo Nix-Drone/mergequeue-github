@@ -11617,7 +11617,6 @@ cholents
 choleokinase
 cholepoietic
 cooks
-choler
 cholera
 choleras
 chappie
@@ -23334,6 +23333,7 @@ contagious
 contagiousness
 contagium
 contain
+choler
 containable
 contained
 colligance
