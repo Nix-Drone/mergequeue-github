@@ -16004,7 +16004,6 @@ bronchopulmonary
 bronchorrhagia
 bronchorrhaphy
 bronchorrhea
-bronchoscope
 bronchoscopy
 bronchoscopic
 bronchoscopist
@@ -16648,6 +16647,7 @@ bucketed
 bucketer
 bucketful
 bucketfull
+bronchoscope
 bucketmaker
 bucketmaking
 bucketman
