@@ -937,7 +937,6 @@ gamebag
 girtline
 gauziest
 gamecock
-gamecraft
 gameful
 gamey
 gamekeeper
@@ -8896,6 +8895,7 @@ grf
 gribane
 gribble
 grice
+gamecraft
 gator
 glimmery
 gilgamesh
