@@ -3626,7 +3626,6 @@ caravansaries
 caravanserai
 caravanserial
 caravel
-confuse
 caravels
 colorability
 caraway
@@ -13004,6 +13003,7 @@ cyanite
 cyanitic
 cyanize
 cyanized
+confuse
 cyanizing
 cyanmethemoglobin
 cyano
