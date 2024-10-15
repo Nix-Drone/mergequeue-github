@@ -5270,7 +5270,6 @@ affectivity
 affectless
 affector
 affectual
-affectum
 affectuous
 affectus
 atresias
@@ -10283,6 +10282,7 @@ americanize
 audio
 americanizer
 archaeolatry
+affectum
 americanizes
 americanizing
 americanly
