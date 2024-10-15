@@ -1112,7 +1112,6 @@ dashes
 debcle
 dashier
 doubling
-dashiki
 dashikis
 diporpa
 dashing
@@ -3615,6 +3614,7 @@ degeneralize
 degenerate
 degenerated
 degustation
+dashiki
 degenerately
 degenerateness
 diemaking
