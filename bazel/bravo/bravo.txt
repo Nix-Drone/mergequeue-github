@@ -3744,7 +3744,6 @@ batt
 bammed
 batta
 battable
-battailant
 browntop
 battailous
 battak
@@ -11541,6 +11540,7 @@ boanthropy
 board
 boardbill
 boarded
+battailant
 boarder
 boarders
 boardy
