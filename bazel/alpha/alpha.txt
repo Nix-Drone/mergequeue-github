@@ -8956,7 +8956,6 @@ allotriophagia
 allotriuria
 allotrope
 allotropy
-allotropic
 allotropical
 allotropically
 allotropicity
@@ -24159,6 +24158,7 @@ autolytic
 autolyzate
 autolyze
 auks
+allotropic
 autolyzed
 autoloader
 autoloaders
