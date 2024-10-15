@@ -19176,7 +19176,6 @@ archrogue
 archruler
 archsacrificator
 archsaint
-archsatrap
 archseducer
 archsee
 archsewer
@@ -24842,6 +24841,7 @@ avoider
 avoiders
 avoidment
 avoids
+archsatrap
 avoyer
 avoyership
 avoirdupois
