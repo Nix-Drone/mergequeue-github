@@ -1090,7 +1090,6 @@ farmhousey
 fontinalaceae
 fuzzle
 farmy
-farmyard
 fructuary
 farmyardy
 foremastman
@@ -11535,6 +11534,7 @@ furtively
 furud
 flagon
 furuncle
+farmyard
 furuncular
 furunculous
 foreordained
