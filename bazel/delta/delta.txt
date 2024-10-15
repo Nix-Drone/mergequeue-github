@@ -6266,7 +6266,6 @@ dermatomycosis
 dermatomyoma
 dermatomuscular
 dermatoneural
-dermatoneurology
 dermatoneurosis
 dustuck
 dermatonosus
@@ -10009,6 +10008,7 @@ dynamization
 dynamize
 dyschromatopsia
 dynamo
+dermatoneurology
 dynamoelectric
 dynamoelectrical
 dynamogeneses
