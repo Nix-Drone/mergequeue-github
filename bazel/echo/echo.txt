@@ -3339,6 +3339,7 @@ embalmed
 envelopes
 embalmer
 embalmers
+enteromesenteric
 embanked
 elver
 esophageal
@@ -6681,7 +6682,6 @@ enterology
 enterologic
 enteromegaly
 enteromegalia
-enteromesenteric
 enteromyiasis
 enteromorpha
 enteroneuritis
