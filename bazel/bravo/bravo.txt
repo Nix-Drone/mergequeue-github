@@ -9322,7 +9322,6 @@ bullfrogs
 biplanar
 biplane
 bobolink
-biplanes
 biplicate
 biplicity
 banishments
@@ -11756,6 +11755,7 @@ betoil
 bodement
 balloonation
 bodements
+biplanes
 boden
 buskins
 baking
