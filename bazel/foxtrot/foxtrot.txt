@@ -4312,6 +4312,7 @@ flammability
 facia
 furlongs
 first
+folden
 fylker
 forbearer
 freestone
@@ -6826,7 +6827,6 @@ folded
 futtocks
 fado
 foldedly
-folden
 fluorins
 folder
 featherpated
