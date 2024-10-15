@@ -11559,6 +11559,7 @@ cholecystenterostomy
 cholecystgastrostomy
 cholecystic
 cholecystis
+cryptophytic
 cholecystitis
 cozies
 cholecystnephrostomy
@@ -29311,7 +29312,6 @@ cryptoperthite
 cryptophagidae
 cryptophyceae
 cryptophyte
-cryptophytic
 cryptophthalmos
 cryptopyic
 cryptopin
