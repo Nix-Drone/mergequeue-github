@@ -3973,7 +3973,6 @@ fingered
 fingerer
 fingerers
 foreschooling
-firebolted
 fingerfish
 fingerhold
 fingerhook
@@ -4892,6 +4891,7 @@ fill
 flamed
 flamefishes
 flamen
+firebolted
 factionary
 flocking
 felicide
