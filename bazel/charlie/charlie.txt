@@ -2405,6 +2405,7 @@ candleholder
 candlelight
 candlelighted
 candlelighter
+cellblock
 cytogenesis
 confraternities
 candlelighting
@@ -6760,7 +6761,6 @@ cartograph
 cellars
 charivariing
 cellarwoman
-cellblock
 cellblocks
 celled
 centennium
