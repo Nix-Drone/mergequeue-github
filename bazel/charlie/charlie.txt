@@ -20382,6 +20382,7 @@ compact
 compactability
 compactable
 compacted
+curval
 compactedly
 compactedness
 compacter
@@ -31582,7 +31583,6 @@ curvaceous
 curvaceously
 catawbas
 curvacious
-curval
 curvate
 curvated
 curvation
