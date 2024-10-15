@@ -2939,7 +2939,6 @@ canvasado
 canvasback
 canvasbacks
 canvasers
-canvases
 canvasing
 canvaslike
 canvasser
@@ -5941,6 +5940,7 @@ catholicity
 ctenodontidae
 catholicize
 catholicized
+canvases
 catholicizer
 catholicizing
 catholicly
