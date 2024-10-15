@@ -2466,6 +2466,7 @@ deckedout
 deckel
 deckels
 decken
+dimorph
 decker
 daphnioid
 deckhand
@@ -9955,7 +9956,6 @@ dimolecular
 dismain
 debriefs
 dimoric
-dimorph
 dimorphism
 dertrotheca
 dimorphotheca
