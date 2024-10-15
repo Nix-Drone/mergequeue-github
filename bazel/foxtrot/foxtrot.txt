@@ -1699,7 +1699,6 @@ four
 fdnames
 fdtype
 fdub
-fortuitousness
 fe
 forksmith
 feaberry
@@ -4403,6 +4402,7 @@ furlough
 fishline
 fishlines
 frondage
+fortuitousness
 fishling
 fishman
 fishmeals
