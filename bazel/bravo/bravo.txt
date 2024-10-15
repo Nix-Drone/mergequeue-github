@@ -430,6 +430,7 @@ backplane
 backplanes
 backplate
 backpointer
+biotin
 backpointers
 backrest
 backrope
@@ -4014,7 +4015,6 @@ beachcombers
 beachcombing
 bowed
 bespatter
-biotin
 beached
 basiation
 bronchomucormycosis
