@@ -11627,7 +11627,6 @@ boatsteerer
 boatswain
 boatswains
 boattail
-boatward
 boatwoman
 boatwright
 bob
@@ -12846,6 +12845,7 @@ bootjacks
 bootlaces
 bootle
 bootleg
+boatward
 bootleger
 bootlegged
 bootlegger
