@@ -2519,7 +2519,6 @@ argentojarosite
 acknew
 astomatal
 acknowing
-acknowledge
 acknowledgeable
 acknowledged
 afoam
@@ -22709,6 +22708,7 @@ atmoclastic
 asgd
 atmogenic
 atmolyses
+acknowledge
 atmolysis
 atmolyze
 atmology
