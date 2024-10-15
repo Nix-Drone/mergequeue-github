@@ -3365,7 +3365,6 @@ capsids
 capsizable
 capsizal
 capsize
-capsized
 capsizes
 capsomer
 capsomere
@@ -17016,6 +17015,7 @@ coachmaking
 corrasion
 cogency
 coachmaster
+capsized
 coachmen
 coachs
 chorobates
