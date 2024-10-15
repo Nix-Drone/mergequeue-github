@@ -18061,7 +18061,6 @@ coequal
 coequality
 coequalize
 coequally
-coequalness
 coequals
 coequate
 centerward
@@ -31228,6 +31227,7 @@ curassows
 curat
 curatage
 curate
+coequalness
 curatel
 curates
 curatess
