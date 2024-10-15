@@ -9084,7 +9084,6 @@ biometries
 biomicroscope
 biomicroscopies
 bion
-bionditional
 bionergy
 bionic
 bionics
@@ -16639,6 +16638,7 @@ buckeye
 buckeyed
 buckeyes
 bucker
+bionditional
 buckeroo
 belloot
 buckers
