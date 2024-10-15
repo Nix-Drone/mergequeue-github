@@ -10460,7 +10460,6 @@ amygdal
 amygdala
 amygdalaceous
 amygdalae
-amygdalase
 amygdalate
 amygdalectomy
 amygdales
@@ -13357,6 +13356,7 @@ anisostichous
 anisostichus
 anisostomous
 anisotonic
+amygdalase
 anisotrope
 anisotropy
 anisotropically
