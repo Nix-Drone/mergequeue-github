@@ -3424,7 +3424,6 @@ captioned
 captioning
 captionless
 captions
-captious
 childridden
 captiously
 captiousness
@@ -29340,6 +29339,7 @@ cryptostome
 cryptotaenia
 cryptous
 cryptovalence
+captious
 cholane
 cryptovalency
 cryptovolcanism
