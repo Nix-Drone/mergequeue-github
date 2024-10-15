@@ -4808,7 +4808,6 @@ gyroscopes
 gyroscopics
 gyrose
 gyrostabilized
-gyrostat
 gyrostats
 gyrotheca
 girouette
@@ -7174,6 +7173,7 @@ gorged
 guignardia
 groundplot
 glossic
+gyrostat
 gorgeous
 gorgeret
 gorgers
