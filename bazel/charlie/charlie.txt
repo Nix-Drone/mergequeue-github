@@ -3455,6 +3455,7 @@ captors
 clientless
 captress
 capturable
+cordwain
 captured
 captures
 capturing
@@ -10873,7 +10874,6 @@ chipolata
 coleopteroid
 chippable
 chippage
-cordwain
 chippendale
 chipper
 chippered
