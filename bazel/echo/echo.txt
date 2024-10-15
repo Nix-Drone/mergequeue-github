@@ -5046,7 +5046,6 @@ eland
 endjunk
 evens
 endleaf
-endleaves
 endless
 excuses
 endlessly
@@ -13711,6 +13710,7 @@ extoll
 emraud
 executonis
 extollation
+endleaves
 extolled
 extoller
 extollers
