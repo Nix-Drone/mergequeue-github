@@ -19979,7 +19979,6 @@ armload
 armloads
 armlock
 armlocks
-armoire
 armoires
 armomancy
 armoniac
@@ -24046,6 +24045,7 @@ autoexcitation
 autofermentation
 ankylosaurus
 autofluorescence
+armoire
 autoformation
 antigenicity
 autofrettage
