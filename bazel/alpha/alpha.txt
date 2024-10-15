@@ -1583,7 +1583,6 @@ acclimatize
 acclimatizer
 acclimatizes
 acclimatizing
-acclinal
 acclinate
 acclivity
 acclivities
@@ -5734,6 +5733,7 @@ afterworld
 afterwort
 afterwrath
 aftonian
+acclinal
 aftosa
 aftosas
 ampullate
