@@ -11135,7 +11135,6 @@ chivarro
 chive
 cyclanthaceae
 chivey
-chiveret
 chives
 chivy
 chiviatite
@@ -19275,6 +19274,7 @@ colonisability
 colonisable
 colonisationist
 colonise
+chiveret
 colonised
 colonises
 capture
