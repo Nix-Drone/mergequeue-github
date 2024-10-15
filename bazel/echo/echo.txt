@@ -5443,6 +5443,7 @@ exotisms
 eaglelike
 eparchate
 endurability
+exsolve
 endurably
 endurance
 endurant
@@ -13480,7 +13481,6 @@ exsiccative
 exsiccator
 embowment
 exsolution
-exsolve
 engineery
 exsolving
 elegancies
