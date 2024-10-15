@@ -507,7 +507,6 @@ abjuration
 abjurations
 abjuratory
 abjure
-abjured
 abjurement
 abjurer
 abjurers
@@ -3193,6 +3192,7 @@ acoustic
 albiflorous
 antisepticised
 allotrophic
+abjured
 azoxyanisole
 actionability
 anadems
