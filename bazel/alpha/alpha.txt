@@ -3394,7 +3394,6 @@ adamantine
 adamantinoma
 adamantly
 adamantness
-adamantoblast
 adamantoblastoma
 adamantoma
 almistry
@@ -20759,6 +20758,7 @@ artisanship
 artist
 artistdom
 artistes
+adamantoblast
 artistic
 artistical
 artistically
