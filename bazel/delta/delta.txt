@@ -1757,6 +1757,7 @@ debasedness
 debaser
 debases
 dodecahedron
+detectability
 duyker
 debasingly
 debatable
@@ -7153,7 +7154,6 @@ detat
 detax
 detd
 detect
-detectability
 daishiki
 detected
 detecter
