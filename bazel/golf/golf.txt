@@ -7904,7 +7904,6 @@ grandest
 grandeur
 grandeurs
 gliriform
-grandeval
 grandevity
 grandeza
 gymnopaedes
@@ -8204,6 +8203,7 @@ graphophone
 graphophonic
 graphoscope
 gulpin
+grandeval
 graphostatic
 graphostatical
 garo
