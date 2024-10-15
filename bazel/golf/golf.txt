@@ -86,6 +86,7 @@ grapelet
 gabling
 gainsay
 gablock
+gestion
 glimmerite
 gardenwards
 gaboon
@@ -3594,7 +3595,6 @@ gesticulations
 gesticulative
 gesticulatively
 geared
-gestion
 gestning
 gestural
 gallimaufries
