@@ -3620,7 +3620,6 @@ bathymetrical
 bathinette
 bathing
 bulreedy
-bathypelagic
 bastinadoes
 babesiasis
 bathyplankton
@@ -16146,6 +16145,7 @@ broos
 broose
 broquery
 ballgown
+bathypelagic
 bros
 broses
 bloodhound
