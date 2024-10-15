@@ -1116,7 +1116,6 @@ foremast
 farolito
 faros
 farouche
-filmgoer
 farrage
 frizzed
 favella
@@ -3890,6 +3889,7 @@ finales
 finalis
 finalization
 finalize
+filmgoer
 finalized
 fragmenting
 fourstrand
