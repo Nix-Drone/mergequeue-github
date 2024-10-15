@@ -5363,7 +5363,6 @@ fleece
 fribourg
 feirie
 fianna
-forechurch
 fleeceless
 fleecer
 feasten
@@ -9860,6 +9859,7 @@ freq
 frequence
 frequency
 frequencies
+forechurch
 fuzee
 frequent
 frequentable
