@@ -1963,6 +1963,7 @@ bandleader
 bandless
 bejabers
 bodrag
+bdl
 blastoff
 bandlet
 bandlimited
@@ -5812,7 +5813,6 @@ burgling
 bellyached
 bismethyl
 bellyfuls
-bdl
 bellyacher
 bellyaches
 bellyaching
