@@ -8756,7 +8756,6 @@ allocatable
 allocate
 allocatee
 allocates
-allocating
 allocation
 amyosthenia
 aqueoglacial
@@ -17215,6 +17214,7 @@ apoferritin
 atropa
 apogaic
 apogalacteum
+allocating
 apogamy
 apogamic
 antibody
