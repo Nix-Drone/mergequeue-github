@@ -11579,6 +11579,7 @@ cholecystorrhaphy
 cholecystostomy
 cholecystostomies
 cholecystotomy
+coincident
 cholecystotomies
 choledoch
 choledochal
@@ -18508,7 +18509,6 @@ coinages
 coincide
 coincided
 coincidences
-coincident
 coincidental
 coincidentally
 coincidently
