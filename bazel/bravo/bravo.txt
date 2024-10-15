@@ -6480,7 +6480,6 @@ benzonaphthol
 benzonitrile
 benzoperoxide
 benzophenanthrazine
-benzophenazine
 benzophenol
 benzophenone
 benzophenothiazine
@@ -12755,6 +12754,7 @@ boomy
 boomier
 boomiest
 boominess
+benzophenazine
 booming
 boomingly
 boomkin
