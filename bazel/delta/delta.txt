@@ -5611,6 +5611,7 @@ duodecane
 depasturation
 depasture
 dispergation
+doesnt
 depauperate
 draught
 depauperation
@@ -14877,7 +14878,6 @@ depopulate
 diapositive
 does
 doesn
-doesnt
 doeth
 doeuvre
 doff
