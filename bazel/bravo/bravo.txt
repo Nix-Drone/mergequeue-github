@@ -1340,7 +1340,6 @@ balant
 balanta
 bottine
 balantidic
-balantidiosis
 balantidium
 balanus
 biconnected
@@ -2967,6 +2966,7 @@ broad
 barrelled
 brattle
 barrelmaker
+balantidiosis
 barrelmaking
 birdwomen
 barrelwise
