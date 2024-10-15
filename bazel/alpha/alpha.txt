@@ -6456,7 +6456,6 @@ agrionidae
 agriot
 arborescent
 agriotype
-agriotypidae
 agriotypus
 agrypnia
 agrypniai
@@ -7310,6 +7309,7 @@ alarms
 anthesterol
 alarodian
 alarum
+agriotypidae
 alarumed
 alaruming
 alarums
