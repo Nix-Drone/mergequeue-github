@@ -5423,6 +5423,7 @@ dentition
 dilating
 dentolabial
 dentolingual
+diaplasma
 dentololabial
 dentonasal
 dielytra
@@ -11043,7 +11044,6 @@ deodorizing
 disappropriate
 disappropriation
 disapprovable
-diaplasma
 disapprovals
 disapproved
 disapprover
