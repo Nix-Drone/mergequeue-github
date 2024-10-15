@@ -12833,7 +12833,6 @@ boother
 boothes
 boothite
 booths
-bootid
 bootie
 bootied
 booties
@@ -14729,6 +14728,7 @@ brazer
 brazera
 brazers
 brazes
+bootid
 brazier
 braziery
 ballooner
