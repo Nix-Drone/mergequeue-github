@@ -2800,7 +2800,6 @@ barolong
 baromacrometer
 barometer
 boroughship
-barometry
 barometric
 barometrical
 beelzebub
@@ -13664,6 +13663,7 @@ boussingaultite
 boustrophedon
 bloomer
 boustrophedonic
+barometry
 bout
 boutefeu
 bouteria
