@@ -3807,7 +3807,6 @@ battleful
 butterburr
 battakhin
 battlegrounds
-battlement
 battlements
 battlepiece
 battleplane
@@ -13657,6 +13656,7 @@ behooped
 bousing
 bousouki
 bousoukia
+battlement
 bousoukis
 bandel
 boussingaultia
