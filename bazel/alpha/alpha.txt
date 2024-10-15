@@ -1422,6 +1422,7 @@ accelerograph
 accelerometer
 accelerometers
 accend
+aleurometer
 accendibility
 accendible
 anticatholic
@@ -7922,7 +7923,6 @@ accedence
 aleurodidae
 aleuromancy
 anilinophilous
-aleurometer
 aleuron
 aleuronat
 araneid
