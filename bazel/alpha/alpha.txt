@@ -10532,6 +10532,7 @@ amyloidosis
 amyloleucite
 amylolysis
 amylolytic
+antiketogenic
 amylom
 amylometer
 amylopectin
@@ -15405,7 +15406,6 @@ antikathode
 antikenotoxin
 antiketogen
 antiketogenesis
-antiketogenic
 antikinase
 antiking
 aposematic
