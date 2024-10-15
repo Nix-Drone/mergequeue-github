@@ -6552,7 +6552,6 @@ bephrase
 big
 bepicture
 bepiece
-bellyflaught
 bepierce
 bepile
 beacher
@@ -17601,6 +17600,7 @@ boehmenist
 burelly
 buret
 burets
+bellyflaught
 burette
 burettes
 burez
