@@ -11555,7 +11555,6 @@ cholecystectasia
 cholecystectomy
 cholecystectomized
 cholecystenterorrhaphy
-cholecystenterostomy
 cholecystgastrostomy
 cholecystic
 cholecystis
@@ -30346,6 +30345,7 @@ crut
 crutch
 crutched
 crutcher
+cholecystenterostomy
 crutching
 crutchlike
 cruth
