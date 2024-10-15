@@ -5990,7 +5990,6 @@ disprofit
 deprivals
 deprivate
 deprivation
-deprive
 deprived
 deprivement
 depriver
@@ -7661,6 +7660,7 @@ devirginator
 dialleli
 devirilize
 devisability
+deprive
 devisable
 dined
 devisal
