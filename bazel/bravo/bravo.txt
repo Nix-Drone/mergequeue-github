@@ -8267,7 +8267,6 @@ bietle
 byeworker
 byeworkman
 bluejoint
-bifaces
 bifacial
 bifara
 bedress
@@ -14395,6 +14394,7 @@ brakeload
 brakemaker
 brakemaking
 brakeman
+bifaces
 brakemen
 brakeroot
 brakesman
