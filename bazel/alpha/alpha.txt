@@ -5722,7 +5722,6 @@ afterwale
 afterwar
 afterward
 afterwards
-afterwhile
 archchief
 afterwisdom
 afterwise
@@ -8787,6 +8786,7 @@ allocution
 allocutive
 allod
 allodelphite
+afterwhile
 allody
 allodia
 anatabine
