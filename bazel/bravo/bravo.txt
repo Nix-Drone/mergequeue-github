@@ -1965,7 +1965,6 @@ bejabers
 bodrag
 blastoff
 bandlet
-bandlimited
 breadwinners
 bandlimiting
 bandlimits
@@ -2676,6 +2675,7 @@ bridgelike
 barkan
 bizarrely
 barkary
+bandlimited
 brighter
 bagheli
 barkcutter
