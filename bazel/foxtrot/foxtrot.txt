@@ -1426,6 +1426,7 @@ fatigableness
 fatigate
 fullerboard
 fazendas
+furnaced
 frits
 fatigating
 fatigation
@@ -5989,7 +5990,6 @@ floras
 florate
 floreal
 floreated
-furnaced
 floreating
 folletto
 florent
