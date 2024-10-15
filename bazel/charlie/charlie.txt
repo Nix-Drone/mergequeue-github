@@ -797,6 +797,7 @@ cairo
 cays
 caisse
 caisson
+compadre
 caissoned
 caissons
 caite
@@ -20398,7 +20399,6 @@ compactor
 compactors
 compacts
 compacture
-compadre
 compadres
 compage
 compaginate
