@@ -6141,6 +6141,7 @@ benchy
 benchland
 benchless
 benchlet
+boon
 benchman
 benchmar
 benchmark
@@ -12771,7 +12772,6 @@ bewailable
 boomtown
 bergamiol
 boomtowns
-boon
 brumalia
 boondock
 boondocker
