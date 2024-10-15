@@ -1488,7 +1488,6 @@ forceable
 fattiness
 funis
 fattishness
-fattrels
 fatuate
 fatuism
 fatuity
@@ -9759,6 +9758,7 @@ freeward
 flavorings
 freewheel
 followeth
+fattrels
 freewheeler
 foresign
 freewheelers
