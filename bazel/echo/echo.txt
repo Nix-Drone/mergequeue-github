@@ -4915,7 +4915,6 @@ electrometeor
 ectoderm
 encurl
 encurtain
-endosteal
 encushion
 end
 endable
@@ -13218,6 +13217,7 @@ exploiter
 exploiting
 enhancive
 enstatitite
+endosteal
 exploits
 exploiture
 embiidae
