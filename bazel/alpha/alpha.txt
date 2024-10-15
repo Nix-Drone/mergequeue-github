@@ -1606,7 +1606,6 @@ accolled
 accollee
 accommodable
 accommodableness
-accommodate
 accommodated
 adscriptive
 accommodateness
@@ -5933,6 +5932,7 @@ agelast
 agelaus
 aristocracies
 ageless
+accommodate
 agranulocyte
 agelessness
 agelong
