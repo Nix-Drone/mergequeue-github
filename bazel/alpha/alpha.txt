@@ -16388,7 +16388,6 @@ adiabatically
 acupressure
 aluta
 antitoxic
-antitoxin
 antitoxine
 antitoxins
 antitrade
@@ -23794,6 +23793,7 @@ authenticate
 authenticated
 authenticates
 authentication
+antitoxin
 authentications
 athetosic
 authenticators
