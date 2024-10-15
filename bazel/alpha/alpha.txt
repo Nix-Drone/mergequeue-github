@@ -12060,7 +12060,6 @@ anatomicomedical
 anatomicopathologic
 anatomicopathological
 acronyms
-anatomicophysiologic
 arteriofibrosis
 anatomies
 anatomiless
@@ -14444,6 +14443,7 @@ acrostically
 attitude
 anaphrodisia
 anthophilian
+anatomicophysiologic
 anthophyllite
 anthophyllitic
 anthophyte
