@@ -3961,7 +3961,6 @@ forrue
 filtered
 finfoot
 finfoots
-fingal
 fingall
 fingan
 fingerable
@@ -4636,6 +4635,7 @@ fixings
 fixities
 flannelleaf
 fixt
+fingal
 fusiformis
 fixtureless
 farming
