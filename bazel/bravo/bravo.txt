@@ -6696,7 +6696,6 @@ berggylt
 bibliographical
 burstwort
 bergh
-berghaan
 bergy
 bergylt
 bromacetic
@@ -17066,6 +17065,7 @@ bullaries
 bullarium
 bullate
 bullation
+berghaan
 bullback
 botfly
 bullbaiting
