@@ -2149,7 +2149,6 @@ approbatory
 aglossate
 apologizers
 acetoxime
-acetoxyphthalide
 acetphenetidin
 acetract
 acetum
@@ -11876,6 +11875,7 @@ anaphylactogen
 anaphylactogenic
 anaphylactoid
 anaphylatoxin
+acetoxyphthalide
 anaphylaxis
 anaphyte
 autopsychology
