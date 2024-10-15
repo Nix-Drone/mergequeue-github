@@ -1983,7 +1983,6 @@ acetaldehyde
 acetaldehydrase
 acetaldol
 acetalize
-acetals
 acetamid
 acetamide
 acetamidin
@@ -2700,6 +2699,7 @@ acquiet
 acquirability
 acquirable
 antares
+acetals
 acquire
 acquired
 acquirement
