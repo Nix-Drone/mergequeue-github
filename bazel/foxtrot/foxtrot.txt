@@ -4043,7 +4043,6 @@ finishable
 finisher
 finishers
 finishes
-finishing
 finitary
 finite
 finiteness
@@ -7339,6 +7338,7 @@ farer
 foramination
 foraminifer
 flyflapper
+finishing
 freethinkers
 foraminiferal
 frontrunner
