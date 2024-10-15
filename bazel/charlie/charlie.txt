@@ -8877,7 +8877,6 @@ chapterhouse
 chaptering
 chapters
 chaptrel
-chapwoman
 chaqueta
 char
 conveyability
@@ -11307,6 +11306,7 @@ chlorochromates
 clothbound
 casuistries
 chlorochromic
+chapwoman
 chlorochrous
 chlorococcaceae
 chlorococcales
