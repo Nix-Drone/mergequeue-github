@@ -2668,7 +2668,6 @@ cannulae
 cannulas
 cannulate
 cannulated
-cannulating
 cannulation
 canoe
 canoed
@@ -4506,6 +4505,7 @@ carns
 chamaecistus
 caro
 caroa
+cannulating
 cohost
 caroaches
 carob
