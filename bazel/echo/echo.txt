@@ -2391,6 +2391,7 @@ electrification
 electrodeposition
 electrodepositor
 escalation
+edicts
 electrodes
 electrodesiccation
 electrodiagnosis
@@ -5066,7 +5067,6 @@ enamelled
 elan
 endoauscultation
 endobatholithic
-edicts
 endobiotic
 endoblast
 endoblastic
