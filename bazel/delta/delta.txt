@@ -5072,7 +5072,6 @@ denationalised
 denationalization
 denationalize
 denationalized
-denaturalisation
 denaturalise
 denaturalised
 denaturalising
@@ -9450,6 +9449,7 @@ diggable
 destrer
 digged
 digger
+denaturalisation
 digging
 dight
 dighted
