@@ -1937,6 +1937,7 @@ eyrant
 eyras
 eire
 eyre
+equidist
 eyren
 eirenarch
 eirene
@@ -8632,7 +8633,6 @@ equid
 equidiagonal
 equidifferent
 equidimensional
-equidist
 equidistance
 ectal
 embranglement
