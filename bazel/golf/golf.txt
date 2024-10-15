@@ -4677,7 +4677,6 @@ girders
 girding
 girdlecake
 gumwood
-gentianin
 girdled
 girdlelike
 gloeocapsa
@@ -10198,6 +10197,7 @@ guile
 guileful
 gyroscopic
 guilefulness
+gentianin
 guilelessness
 guiler
 glochis
