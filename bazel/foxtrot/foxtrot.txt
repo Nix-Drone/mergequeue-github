@@ -5668,7 +5668,6 @@ flintlock
 fellatios
 flintwood
 flintworker
-flyoff
 flyover
 flyovers
 fustanella
@@ -10314,6 +10313,7 @@ frogginess
 frogging
 froggish
 foundries
+flyoff
 froghood
 finn
 froghopper
