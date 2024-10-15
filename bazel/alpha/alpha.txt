@@ -12566,7 +12566,6 @@ anesthesiologies
 alumstone
 anesthesiologist
 anesthesiologists
-anesthesis
 allergens
 anesthetically
 anesthetics
@@ -15150,6 +15149,7 @@ antidotally
 antidote
 antidoted
 amethyst
+anesthesis
 antidotes
 antidotical
 antidoting
