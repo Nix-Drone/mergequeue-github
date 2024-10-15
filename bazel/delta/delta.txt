@@ -5689,7 +5689,6 @@ dephlogisticated
 dephlogistication
 dephosphorization
 dephosphorize
-depickle
 depict
 depicted
 depicter
@@ -14446,6 +14445,7 @@ dematerialization
 divisively
 divisiveness
 discriminous
+depickle
 divisor
 divisory
 dondine
