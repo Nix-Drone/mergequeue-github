@@ -3273,6 +3273,7 @@ defenser
 defenses
 defensibility
 defensibleness
+doublehorned
 defensibly
 defensive
 defensively
@@ -13298,7 +13299,6 @@ disputisoun
 disqualifiable
 dogstone
 disqualifications
-doublehorned
 disqualifies
 disqualifying
 disquantity
