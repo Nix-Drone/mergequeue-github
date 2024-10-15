@@ -9449,7 +9449,6 @@ digesture
 diggable
 destrer
 digged
-digger
 digging
 dight
 dighted
@@ -13236,6 +13235,7 @@ disproperty
 disproportion
 disproportionable
 disproportionableness
+digger
 disproportional
 debosh
 disproportionality
