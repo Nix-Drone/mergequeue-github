@@ -3832,7 +3832,6 @@ battologise
 battologised
 battologising
 battologist
-battologize
 battologized
 battologizing
 batton
@@ -8292,6 +8291,7 @@ biflected
 biflex
 biflorate
 biflorous
+battologize
 bifluorid
 bifluoride
 blithelike
