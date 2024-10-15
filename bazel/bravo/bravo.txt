@@ -750,7 +750,6 @@ baddie
 barlock
 betimber
 baddies
-baddish
 baddishly
 baddishness
 baddock
@@ -13391,6 +13390,7 @@ bottlemaking
 bottlenose
 bottlers
 bottlestone
+baddish
 bottling
 blink
 brigbote
