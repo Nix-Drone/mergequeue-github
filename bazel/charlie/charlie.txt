@@ -6627,7 +6627,6 @@ ceint
 counterquestion
 ceinte
 colligation
-ceinture
 ceintures
 ceyssatite
 clinked
@@ -15825,6 +15824,7 @@ cleanness
 cleanout
 cleansable
 cleanse
+ceinture
 cleanser
 cleansers
 calcicole
