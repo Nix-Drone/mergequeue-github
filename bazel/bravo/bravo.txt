@@ -5359,7 +5359,6 @@ begrim
 begrimed
 begrimer
 begrimes
-bombsight
 begrimmed
 begrimming
 beseemly
@@ -13017,6 +13016,7 @@ boric
 borid
 boride
 bregmatic
+bombsight
 baselines
 bonspiels
 boringly
