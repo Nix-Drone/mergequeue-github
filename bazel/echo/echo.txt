@@ -3384,7 +3384,6 @@ embars
 embase
 embassadress
 embassy
-embassiate
 embassies
 embastardize
 evangelizing
@@ -5395,6 +5394,7 @@ endothoracic
 evangelium
 endyma
 endothrix
+embassiate
 envergure
 endotys
 endotoxic
