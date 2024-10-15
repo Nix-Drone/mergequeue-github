@@ -3477,7 +3477,6 @@ figgum
 funniment
 fightable
 forel
-fighteress
 fanwort
 fighting
 fightingly
@@ -7923,6 +7922,7 @@ fulminic
 foredates
 flannelbush
 foreroyal
+fighteress
 forerun
 forerunner
 forerunners
