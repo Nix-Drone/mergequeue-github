@@ -13328,7 +13328,6 @@ carbonylate
 cyclohexadienyl
 cashoos
 cyclohexane
-cyclohexanol
 cyclohexanone
 cyclohexatriene
 cyclohexene
@@ -23621,6 +23620,7 @@ contr
 contrabandage
 contrabandery
 causticiser
+cyclohexanol
 contrabandism
 consonantising
 contrabandist
