@@ -1075,6 +1075,7 @@ furriners
 farmable
 farmed
 farmer
+flobby
 farmeress
 farmery
 filigraned
@@ -5828,7 +5829,6 @@ floatstone
 fearless
 flob
 filterman
-flobby
 forswat
 forcedness
 fraternate
