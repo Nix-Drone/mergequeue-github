@@ -8292,7 +8292,6 @@ fade
 foryield
 furnished
 furnaceman
-ferriage
 felonous
 fitly
 farcical
@@ -9489,6 +9488,7 @@ franticly
 freeloading
 flybook
 functionalizing
+ferriage
 featless
 franz
 forbear
