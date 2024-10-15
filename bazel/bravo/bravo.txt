@@ -764,7 +764,6 @@ barrels
 boraciferous
 badgemen
 badger
-badgerbrush
 badgered
 badgerer
 badgering
@@ -1438,6 +1437,7 @@ balds
 balducta
 balductum
 bushwoman
+badgerbrush
 baldwin
 bale
 baleare
