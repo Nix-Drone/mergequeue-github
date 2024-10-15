@@ -14459,7 +14459,6 @@ branchiogenous
 branchiomere
 branchiomerism
 branchiopallial
-branchiopod
 branchiopoda
 bioassays
 branchiopodan
@@ -17824,6 +17823,7 @@ burped
 burping
 burps
 burr
+branchiopod
 burratine
 burrawang
 burrbark
