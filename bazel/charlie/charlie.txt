@@ -2347,7 +2347,6 @@ candelabrums
 candelilla
 candent
 cassidony
-candescence
 candescent
 candescently
 candy
@@ -29146,6 +29145,7 @@ cryoplankton
 cryoprobe
 crownband
 cryoscope
+candescence
 cryoscopy
 curavecan
 cryoscopic
