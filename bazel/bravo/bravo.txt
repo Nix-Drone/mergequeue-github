@@ -2074,7 +2074,6 @@ banished
 banisher
 banishing
 banishment
-banister
 banisters
 bursting
 banyuls
@@ -8158,6 +8157,7 @@ bidactyl
 bidactylous
 bidarkas
 bitty
+banister
 biddability
 biddable
 besnow
