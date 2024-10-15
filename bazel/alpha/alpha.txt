@@ -476,7 +476,6 @@ antistrophal
 abysses
 apimania
 abyssinia
-abyssinian
 abyssobenthonic
 abyssolith
 abyssopelagic
@@ -15081,6 +15080,7 @@ anticreep
 ashlered
 anticreeping
 anticrepuscular
+abyssinian
 anticryptic
 anticryptically
 anticrisis
