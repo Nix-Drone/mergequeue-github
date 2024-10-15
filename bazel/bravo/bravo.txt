@@ -2007,6 +2007,7 @@ bandsmen
 bandspreading
 bandstand
 bandstands
+boutel
 bandster
 ballroom
 bandstop
@@ -15693,7 +15694,6 @@ broadways
 bamangwato
 broadwise
 broadwives
-boutel
 brob
 brobdingnag
 brocade
