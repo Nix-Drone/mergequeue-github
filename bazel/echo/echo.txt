@@ -2345,7 +2345,6 @@ evasion
 electroceramic
 electrochemical
 electrochemically
-electrochemistry
 electrochronometer
 equison
 electrochronometric
@@ -3564,6 +3563,7 @@ embosks
 epeeists
 electral
 embosomed
+electrochemistry
 embosoming
 emboss
 embossage
