@@ -15867,6 +15867,7 @@ clearskins
 clearstarcher
 clearstory
 clearstoried
+cheeked
 clearstories
 clearwater
 clearweed
@@ -18131,7 +18132,6 @@ canoodle
 coexecutrix
 coexert
 coexerted
-cheeked
 coexerting
 coexertion
 coexerts
