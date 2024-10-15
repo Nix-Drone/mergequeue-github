@@ -679,7 +679,6 @@ geopositive
 gunshots
 gnathonize
 gadaea
-geodesy
 galliot
 galliots
 gurnets
@@ -4528,6 +4527,7 @@ ghauts
 gaultheria
 groundsill
 ginnet
+geodesy
 ginny
 ginnier
 ginnings
