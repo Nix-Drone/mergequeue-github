@@ -4735,7 +4735,6 @@ encipher
 excommunications
 ersatzes
 ease
-enciphered
 enciphering
 encipherment
 evolutional
@@ -5261,6 +5260,7 @@ euphonium
 endopods
 endopolyploidy
 endoprocta
+enciphered
 endoproctous
 endopterygota
 endopterygote
