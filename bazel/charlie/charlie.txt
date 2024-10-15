@@ -3377,7 +3377,6 @@ capsula
 coached
 consignificate
 capsular
-capsulated
 capsulation
 capsule
 collegatary
@@ -17095,6 +17094,7 @@ coadventured
 coadventuress
 coadventuring
 coadvice
+capsulated
 coaffirmation
 coafforest
 coaged
