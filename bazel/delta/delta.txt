@@ -5784,7 +5784,6 @@ deplump
 depoetize
 depoh
 depolarisation
-depolarise
 drapeable
 depolarised
 depolariser
@@ -13480,6 +13479,7 @@ desperadoes
 disseise
 disseised
 disseisee
+depolarise
 disseized
 donorship
 disseizes
