@@ -2635,7 +2635,6 @@ electrostenolysis
 electrostenolytic
 exciples
 electrostriction
-elinvar
 eupione
 extradecretal
 electrosurgery
@@ -7060,6 +7059,7 @@ entrept
 entrer
 elenchus
 entresols
+elinvar
 endocardial
 exposits
 entrez
