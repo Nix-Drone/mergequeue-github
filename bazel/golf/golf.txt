@@ -3125,7 +3125,6 @@ glassed
 geomagnetist
 gravamen
 geomaly
-geomalic
 geomancer
 geomancy
 garnered
@@ -6996,6 +6995,7 @@ goodness
 goodrich
 gleesomeness
 goodsire
+geomalic
 goodsome
 galician
 geromorphism
