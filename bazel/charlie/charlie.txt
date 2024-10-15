@@ -19651,7 +19651,6 @@ combatants
 combater
 combaters
 combating
-combative
 combatively
 curtlax
 combativeness
@@ -31844,6 +31843,7 @@ cutleries
 combwright
 cutlers
 cutlet
+combative
 cutlets
 cutline
 currycombed
