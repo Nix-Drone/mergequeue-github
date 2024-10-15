@@ -8032,7 +8032,6 @@ forestaffs
 forestage
 forestay
 forestair
-fireplough
 forestays
 forehinting
 forestaysail
@@ -8320,6 +8319,7 @@ forkers
 forkfuls
 forkhead
 forging
+fireplough
 furunculoid
 forkier
 forkiest
