@@ -8719,7 +8719,6 @@ easting
 equiperiodic
 expander
 equipluve
-equipment
 equipments
 equipoised
 equipoising
@@ -12968,6 +12967,7 @@ expediential
 entice
 epopee
 expediently
+equipment
 ethernets
 expedients
 expediment
