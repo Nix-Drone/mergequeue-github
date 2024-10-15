@@ -2957,7 +2957,6 @@ barrelfishes
 bonair
 barrelful
 barrelfuls
-blind
 barrelhead
 barrelhouse
 barrelhouses
@@ -14440,6 +14439,7 @@ branchy
 branchia
 branchiae
 borstals
+blind
 bathetic
 branchial
 branchiata
