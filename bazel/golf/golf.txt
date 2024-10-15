@@ -4587,7 +4587,6 @@ gyppo
 gips
 gyp
 gyps
-gipseian
 gipser
 gipsy
 gypsy
@@ -10524,6 +10523,7 @@ gunmetals
 gunnage
 gunnar
 gobbing
+gipseian
 gunne
 girse
 gunnen
