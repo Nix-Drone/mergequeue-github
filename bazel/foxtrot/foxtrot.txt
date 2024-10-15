@@ -5590,7 +5590,6 @@ feoffment
 fissural
 fligged
 fligger
-feodum
 flight
 flighted
 flighter
@@ -8552,6 +8551,7 @@ frondesced
 fluorographic
 formulizer
 formulizing
+feodum
 fornacic
 flapdoodle
 flebile

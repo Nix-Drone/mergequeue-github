@@ -11335,7 +11335,6 @@ bluebutton
 build
 bluecoat
 bluecoated
-bluecoats
 bluecup
 berycoidei
 bluecurls
@@ -14904,6 +14903,7 @@ beslow
 breathe
 breatheableness
 breathed
+bluecoats
 breather
 boarstaff
 breathful
