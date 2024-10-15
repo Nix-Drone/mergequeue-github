@@ -1596,7 +1596,6 @@ ballgame
 ballgames
 ballgowns
 ballhausplatz
-ballhawk
 ballhawks
 ballhooter
 balli
@@ -13852,6 +13851,7 @@ boxed
 boxen
 boxerism
 bobsledder
+ballhawk
 broquineer
 boxes
 boxful
