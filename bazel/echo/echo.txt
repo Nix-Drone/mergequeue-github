@@ -6595,7 +6595,6 @@ entepicondylar
 enter
 enterable
 enteraden
-enteradenography
 enteradenographic
 enteradenological
 enteral
@@ -13832,6 +13831,7 @@ extradition
 extradomestic
 extrados
 extradosed
+enteradenography
 electrogalvanize
 electrotyper
 embololalia
