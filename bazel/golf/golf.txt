@@ -2215,7 +2215,6 @@ gazer
 gazers
 gazettal
 gazette
-gazetted
 gazetteerish
 gazetteers
 goon
@@ -5000,6 +4999,7 @@ gladdened
 gipsire
 gladdens
 gladding
+gazetted
 glade
 gladelike
 gladen
