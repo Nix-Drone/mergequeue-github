@@ -6513,7 +6513,6 @@ ensures
 ergatogyne
 ensuring
 enswathe
-enswathed
 enswathement
 encephalola
 enswathes
@@ -9495,6 +9494,7 @@ escapable
 escapado
 escape
 enframement
+enswathed
 escaped
 escapee
 escapees
