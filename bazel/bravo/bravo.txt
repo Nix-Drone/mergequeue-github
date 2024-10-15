@@ -12233,6 +12233,7 @@ bittern
 boatside
 boltropes
 bolts
+bouncier
 boltsmith
 b
 bawds
@@ -13535,7 +13536,6 @@ bounced
 bouncer
 bouncers
 bounces
-bouncier
 bounciest
 bouncily
 belatedly
