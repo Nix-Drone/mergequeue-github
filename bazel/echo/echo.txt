@@ -9491,7 +9491,6 @@ escalops
 escambron
 escamotage
 exudate
-escapable
 escapado
 escape
 enframement
@@ -11648,6 +11647,7 @@ extorted
 evolutive
 evolutoid
 evolvable
+escapable
 explicating
 evolved
 exculpates
