@@ -10423,7 +10423,6 @@ blackleg
 blastocyst
 blastocyte
 blastocoel
-blastocoele
 blastocolla
 blastoderm
 blastodermatic
@@ -14424,6 +14423,7 @@ brambrack
 brame
 bramia
 bran
+blastocoele
 bolivarite
 brancard
 brancardier
