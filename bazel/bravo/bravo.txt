@@ -5619,6 +5619,7 @@ belays
 brandishers
 belait
 biface
+breechloader
 belaites
 belam
 belamcanda
@@ -10201,7 +10202,6 @@ boogaloo
 blackthorns
 blacktongue
 blacktopped
-breechloader
 blacktopping
 blacktops
 blennioidea
