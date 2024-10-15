@@ -3439,6 +3439,7 @@ bassness
 basson
 bassoon
 bedash
+bequeathable
 bassoonist
 bassoonists
 bedravel
@@ -6124,7 +6125,6 @@ balsamweed
 bename
 benamee
 benami
-bequeathable
 benamidar
 bangiaceae
 benasty
