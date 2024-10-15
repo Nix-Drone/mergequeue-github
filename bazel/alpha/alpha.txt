@@ -19196,7 +19196,6 @@ archtreasurer
 archtreasurership
 archturncoat
 archurger
-atomics
 archvampire
 archvestryman
 archvillain
@@ -19826,6 +19825,7 @@ arithmetizations
 arithmetized
 ataxaphasia
 arythmia
+atomics
 arythmias
 arithmic
 arythmic
