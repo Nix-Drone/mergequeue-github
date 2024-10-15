@@ -5945,6 +5945,7 @@ flummoxes
 fluidizing
 floorless
 floors
+forlane
 fiddleback
 floorshift
 fawny
@@ -8348,7 +8349,6 @@ forlay
 forlain
 forlanas
 fragrancies
-forlane
 forleave
 forleaving
 forleit
