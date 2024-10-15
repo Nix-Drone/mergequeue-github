@@ -24925,7 +24925,6 @@ awaiting
 awaitlala
 awaits
 awakable
-awake
 awakeable
 assigner
 awaked
@@ -25164,6 +25163,7 @@ axmaker
 axmaking
 axman
 axmanship
+awake
 axmaster
 axminster
 axodendrite
