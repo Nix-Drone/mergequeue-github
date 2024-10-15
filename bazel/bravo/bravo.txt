@@ -2872,7 +2872,6 @@ barotaxis
 barothermogram
 bitis
 barothermograph
-barothermohygrograph
 baroto
 barotrauma
 bulgurs
@@ -12561,6 +12560,7 @@ bontok
 bonum
 bonus
 bonuses
+barothermohygrograph
 basinlike
 bonxie
 bonze
