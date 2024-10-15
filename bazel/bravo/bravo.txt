@@ -5986,7 +5986,6 @@ beltmaking
 beltman
 beltmen
 belts
-beltway
 beltwise
 barn
 beluchi
@@ -8387,6 +8386,7 @@ boobyish
 bise
 biggings
 brasseys
+beltway
 biggish
 burkers
 biggonet
