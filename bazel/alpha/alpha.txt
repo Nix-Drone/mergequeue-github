@@ -1678,7 +1678,6 @@ accosted
 accosts
 accouche
 accouchement
-accouchements
 accoucheur
 accoucheurs
 accoucheuses
@@ -5335,6 +5334,7 @@ affirmance
 affirmant
 affirmation
 affirmations
+accouchements
 affirmative
 affirmatively
 affirmativeness
