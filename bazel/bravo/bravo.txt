@@ -7706,7 +7706,6 @@ bewraps
 battleground
 bathycurrent
 bewrapt
-bewrathed
 bewreak
 bewreath
 bewreck
@@ -13953,6 +13952,7 @@ brachialgia
 brachialis
 brachials
 blindstory
+bewrathed
 brachiata
 brachiate
 blames
