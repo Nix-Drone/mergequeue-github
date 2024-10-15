@@ -4656,6 +4656,7 @@ fjord
 fizzy
 fizziest
 fip
+frontwise
 fizzle
 fizzled
 fizzling
@@ -10486,7 +10487,6 @@ frontstall
 featurish
 fronture
 frontwards
-frontwise
 fairbanks
 froom
 froppish
