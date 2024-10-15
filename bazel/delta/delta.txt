@@ -3520,7 +3520,6 @@ deformable
 deformalize
 deformation
 deformational
-delete
 deformations
 deformative
 deformed
@@ -9543,6 +9542,7 @@ deaerate
 digoxins
 dulias
 digraph
+delete
 digraphically
 digraphs
 digredience
