@@ -1161,6 +1161,7 @@ barrenest
 bait
 burgality
 baited
+beclamoring
 baiter
 baiters
 baitfish
@@ -11600,7 +11601,6 @@ boation
 boatkeeper
 bodyplate
 bittacle
-beclamoring
 boxball
 boatlike
 boatlip
