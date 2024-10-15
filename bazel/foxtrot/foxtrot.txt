@@ -4310,6 +4310,7 @@ firns
 firoloida
 flammability
 facia
+farandine
 furlongs
 first
 fylker
@@ -11546,7 +11547,6 @@ furzetop
 falangism
 furzy
 faunus
-farandine
 foredecks
 furzier
 fusains
