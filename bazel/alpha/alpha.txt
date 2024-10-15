@@ -7104,7 +7104,6 @@ ake
 akeake
 akebia
 actinia
-armature
 aked
 akee
 akees
@@ -21728,6 +21727,7 @@ asset
 asseth
 amiss
 assever
+armature
 asseverate
 asseverating
 asseveration
