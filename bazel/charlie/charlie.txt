@@ -22903,7 +22903,6 @@ crowncapping
 consigning
 consignment
 consignments
-consignor
 consigns
 consiliary
 consilience
@@ -25881,6 +25880,7 @@ catchland
 corticiform
 corticifugal
 cimicid
+consignor
 corticifugally
 corticine
 corticipetal
