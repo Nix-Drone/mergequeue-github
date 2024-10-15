@@ -16960,7 +16960,6 @@ cluttery
 cluttering
 clutterment
 cm
-cmd
 catalecta
 cmdr
 cml
@@ -21944,6 +21943,7 @@ confidingness
 configurable
 configural
 coinsurable
+cmd
 configurated
 configurating
 configuration
