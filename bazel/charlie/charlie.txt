@@ -17312,7 +17312,6 @@ coatis
 coatrack
 coatroom
 coatrooms
-coats
 coattailed
 cheloid
 coattails
@@ -30254,6 +30253,7 @@ crunch
 codfishery
 crunchable
 crunched
+coats
 cruncher
 crunchers
 crunches
