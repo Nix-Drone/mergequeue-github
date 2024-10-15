@@ -10578,6 +10578,7 @@ diplokaryon
 diploma
 diplomaed
 diplomaing
+disencumbrance
 diplomas
 diplomat
 diplomata
@@ -11972,7 +11973,6 @@ disencumbered
 disencumberment
 discriminate
 disencumbers
-disencumbrance
 disendow
 disendower
 disendowing
