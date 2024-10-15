@@ -4345,7 +4345,6 @@ fish
 fishability
 fishable
 fishback
-fishberry
 fleshers
 fishberries
 fishboat
@@ -7102,6 +7101,7 @@ fedayeen
 foolishest
 faddisms
 foolishly
+fishberry
 foollike
 fibrinate
 furole
