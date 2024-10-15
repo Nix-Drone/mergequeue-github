@@ -5862,7 +5862,6 @@ depositor
 depositories
 depositors
 deposits
-depositum
 daimon
 doumaist
 decasualise
@@ -10522,6 +10521,7 @@ diplexer
 diplobacterium
 diploblastic
 diplocardia
+depositum
 diplocardiac
 diplocarpon
 discoidea
