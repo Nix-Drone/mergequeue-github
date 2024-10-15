@@ -1087,7 +1087,6 @@ farmhold
 farmhouse
 feronia
 farmhousey
-fontinalaceae
 fuzzle
 farmy
 farmyard
@@ -1791,6 +1790,7 @@ families
 featherer
 featherers
 forejudgment
+fontinalaceae
 featherfew
 featherfoil
 featherhead
