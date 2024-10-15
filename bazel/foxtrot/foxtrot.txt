@@ -2313,7 +2313,6 @@ fenced
 fenceless
 fencelessness
 fayalite
-fencelet
 fenceplay
 fencepost
 fenceress
@@ -7861,6 +7860,7 @@ forepale
 forepaled
 forepart
 foredesk
+fencelet
 foreparts
 forepass
 floran
