@@ -1092,7 +1092,6 @@ fuzzle
 farmy
 farmyard
 fructuary
-farmyardy
 foremastman
 farmland
 farmost
@@ -6009,6 +6008,7 @@ forethoughted
 floretty
 flory
 floria
+farmyardy
 floriage
 floriated
 floriation
