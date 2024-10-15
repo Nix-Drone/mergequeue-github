@@ -2651,7 +2651,6 @@ gender
 genderer
 genders
 ghoulie
-geneal
 genealogic
 genealogical
 genealogists
@@ -5465,6 +5464,7 @@ glycols
 gard
 globulolysis
 glycoluric
+geneal
 glycoluril
 glossolabiopharyngeal
 glyconean
