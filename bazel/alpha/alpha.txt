@@ -715,7 +715,6 @@ aboriginary
 aborigines
 aborning
 abort
-aborted
 aborter
 aborters
 aborticide
@@ -18927,6 +18926,7 @@ archfelon
 archfiend
 archfiends
 archfire
+aborted
 archflamen
 archfoe
 archfool
