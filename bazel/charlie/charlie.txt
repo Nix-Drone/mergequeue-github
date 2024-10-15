@@ -10473,7 +10473,6 @@ chilarium
 chilblain
 chilblained
 chilcat
-child
 childage
 childbearing
 childbed
@@ -11591,6 +11590,7 @@ choledocholithiasis
 choledocholithotomy
 choledocholithotripsy
 choledochoplasty
+child
 choledochorrhaphy
 choledochostomy
 cace
