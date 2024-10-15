@@ -3419,7 +3419,6 @@ damnum
 defleas
 deflect
 driftfishes
-deflectable
 deflected
 deflecting
 deflectionization
@@ -10335,6 +10334,7 @@ diosmosed
 deposition
 diosmosing
 departures
+deflectable
 diosmosis
 diospyraceous
 dyostyle
