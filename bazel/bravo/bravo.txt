@@ -6491,6 +6491,7 @@ benzopyran
 benzopyranyl
 benzopyrazolone
 benzopyrylium
+boilable
 benzoquinoxaline
 baltimorean
 benzosulfimide
@@ -12001,7 +12002,6 @@ boiko
 boil
 busheller
 boyla
-boilable
 boylas
 bromocresol
 boildown
