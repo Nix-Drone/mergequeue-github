@@ -4093,7 +4093,6 @@ administers
 administrable
 aubin
 administrant
-administrants
 administrates
 administrating
 antihemolytic
@@ -20675,6 +20674,7 @@ articling
 articulability
 articulable
 articulacy
+administrants
 articulant
 articular
 acrobatholithic
