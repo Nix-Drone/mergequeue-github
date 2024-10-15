@@ -7554,7 +7554,6 @@ gpm
 gps
 gr
 gies
-glucogenic
 graafian
 graal
 grab
@@ -9192,6 +9191,7 @@ gristliest
 gristliness
 gristmill
 grasper
+glucogenic
 gristmiller
 giltcup
 gnomic
