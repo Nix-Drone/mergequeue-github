@@ -1693,7 +1693,6 @@ fcomp
 farcin
 fcp
 foehns
-familiar
 friars
 four
 fdnames
@@ -2078,6 +2077,7 @@ feisty
 feistier
 feistiest
 fenester
+familiar
 feists
 forecited
 felaheen
