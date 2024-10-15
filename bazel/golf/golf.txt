@@ -1903,7 +1903,6 @@ gastrospasm
 gastrostege
 gastrostenosis
 gastrostomy
-gastrostomies
 gastrostomize
 gastrostomus
 gastrotaxis
@@ -6421,6 +6420,7 @@ glycemic
 giantish
 gobbed
 gobber
+gastrostomies
 girja
 geophilus
 gobbet
