@@ -4640,7 +4640,6 @@ bedaubing
 bedaubs
 bedlike
 bedawee
-bedaze
 bedazed
 bedazement
 bedazzled
@@ -13811,6 +13810,7 @@ bacalaos
 bowmaker
 bowman
 brambleberries
+bedaze
 bowsman
 bowmen
 bown
