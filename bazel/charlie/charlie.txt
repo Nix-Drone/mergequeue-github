@@ -12063,6 +12063,7 @@ chanceries
 crusca
 choruslike
 chorusmaster
+cleanskin
 chorussed
 chorusses
 chorussing
@@ -15830,7 +15831,6 @@ cleansers
 calcicole
 cleanses
 cleansing
-cleanskin
 cleanskins
 cleanup
 clear
