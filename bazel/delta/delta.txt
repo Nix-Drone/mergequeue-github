@@ -2462,7 +2462,6 @@ decivilize
 deck
 dateline
 decke
-deckedout
 deckel
 deckels
 decken
@@ -14513,6 +14512,7 @@ dix
 diastole
 dixain
 dixenite
+deckedout
 dixie
 dixiecrat
 dixieland
