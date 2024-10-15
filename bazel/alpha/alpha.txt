@@ -7884,7 +7884,6 @@ arrivederci
 alerters
 alertest
 agrees
-alerting
 alertly
 alertness
 alerts
@@ -17574,6 +17573,7 @@ acrocera
 appanages
 appanaging
 audiogenic
+alerting
 appanagist
 anagogically
 appar
