@@ -7343,7 +7343,6 @@ cephaloconic
 cephalodia
 cephalodymia
 cephalodymus
-cephalodiscid
 cephalodiscida
 cephalodiscus
 cephalodium
@@ -11511,6 +11510,7 @@ choked
 chokedamp
 chokey
 chokeys
+cephalodiscid
 choker
 cratonic
 chokered
