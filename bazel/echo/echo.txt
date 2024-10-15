@@ -1110,7 +1110,6 @@ enormous
 edh
 edhs
 edibile
-earthlike
 equipper
 edibility
 edible
@@ -13888,6 +13887,7 @@ evulge
 extranean
 extraneous
 epipleura
+earthlike
 epixylous
 extraneousness
 extranormal
