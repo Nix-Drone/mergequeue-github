@@ -16843,7 +16843,6 @@ clubfoot
 clubfooted
 clubhand
 clubhands
-clubhaul
 clubhauled
 clubhauling
 clubhauls
@@ -27213,6 +27212,7 @@ closelipped
 countrify
 countrification
 complies
+clubhaul
 countrified
 countryfied
 countrifiedness
