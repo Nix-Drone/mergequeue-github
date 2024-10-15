@@ -4719,6 +4719,7 @@ aeciostage
 abr
 aecioteliospore
 aecium
+arthropodan
 aedeagal
 aedeagi
 aedeagus
@@ -22139,7 +22140,6 @@ astonishment
 astonishments
 astoop
 abrood
-arthropodan
 astore
 astound
 aranga
