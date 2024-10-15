@@ -3981,7 +3981,6 @@ adjournment
 adjourns
 adjoust
 adjt
-adjudge
 adjudgeable
 adjudger
 adjudges
@@ -6510,6 +6509,7 @@ aburagiri
 agrosterol
 agrostis
 agrostographer
+adjudge
 agrostography
 agrostographical
 algesthesis
