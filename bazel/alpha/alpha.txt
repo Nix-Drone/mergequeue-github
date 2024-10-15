@@ -5018,7 +5018,6 @@ aerometeorograph
 aerometer
 aerometry
 abluted
-aerometric
 aeromotor
 aeronat
 aeronaut
@@ -8289,6 +8288,7 @@ agricultor
 alinasal
 amacrine
 aline
+aerometric
 alineation
 alined
 alinement
