@@ -2614,7 +2614,6 @@ decolonization
 didascaly
 decolonize
 decolonizes
-decoloration
 decolorimeter
 decoloring
 decolorisation
@@ -7511,6 +7510,7 @@ devall
 devaloka
 devalorize
 devaluate
+decoloration
 devaluated
 devaluates
 devaluation
