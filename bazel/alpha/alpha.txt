@@ -20508,7 +20508,6 @@ arteriometer
 arteriomotor
 arterionecrosis
 arteriopalmus
-arteriopathy
 arterioplania
 arterioplasty
 arteriopressor
@@ -22324,6 +22323,7 @@ aponeurotic
 anteal
 astrophysicists
 astrophysics
+arteriopathy
 astrophyton
 astrophobia
 astrophotography
