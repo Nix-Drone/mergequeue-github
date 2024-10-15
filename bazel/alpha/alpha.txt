@@ -5778,7 +5778,6 @@ agalenidae
 apellous
 agalite
 agalloch
-agallochs
 afunction
 agallochum
 agallop
@@ -18954,6 +18953,7 @@ archiblastic
 archiblastoma
 auriculoventricular
 archiblastula
+agallochs
 archibuteo
 astrochemist
 archicantor
