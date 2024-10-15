@@ -8094,7 +8094,6 @@ foresummon
 foreswear
 foreswearing
 funkiest
-foresweat
 foreswore
 fumacious
 foret
@@ -9196,6 +9195,7 @@ fleeceflower
 fps
 fpsps
 fr
+foresweat
 fra
 faulkner
 fanfish
