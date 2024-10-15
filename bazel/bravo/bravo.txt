@@ -2957,7 +2957,6 @@ barrelfishes
 bonair
 barrelful
 barrelfuls
-blind
 barrelhead
 barrelhouse
 barrelhouses
@@ -15130,6 +15129,7 @@ bryanite
 bryanthus
 briar
 briarberry
+blind
 buckbean
 briard
 briards
