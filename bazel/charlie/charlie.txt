@@ -13845,7 +13845,6 @@ cynebot
 cinecamera
 cinefaction
 cinefilm
-cacosplanchnia
 cynegetic
 cynegild
 cinel
@@ -23074,6 +23073,7 @@ constables
 constableship
 constabless
 constablewick
+cacosplanchnia
 constabular
 constabulary
 constabularies
