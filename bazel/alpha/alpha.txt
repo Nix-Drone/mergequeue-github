@@ -7478,7 +7478,6 @@ albumenization
 armored
 albumenize
 albumenized
-announcer
 albumenizer
 albumenizing
 albumenoid
@@ -18627,6 +18626,7 @@ arborize
 absorption
 arborizing
 atonality
+announcer
 arboroid
 arborolater
 arborvitae
