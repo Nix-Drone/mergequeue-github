@@ -106,7 +106,6 @@ freeport
 fibroelastic
 faciend
 faciends
-facient
 faciest
 facile
 facileness
@@ -3621,6 +3620,7 @@ files
 frailly
 filesmith
 filesniff
+facient
 flagships
 filespec
 forficula

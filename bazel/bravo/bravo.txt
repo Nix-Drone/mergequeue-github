@@ -2113,7 +2113,6 @@ bankmen
 banknote
 barrelet
 badaud
-banknotes
 bankrider
 brachycome
 bedlamising
@@ -12969,6 +12968,7 @@ bordroom
 borinqueno
 bordun
 bordure
+banknotes
 bordures
 bore
 boreable
