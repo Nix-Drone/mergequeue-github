@@ -13490,7 +13490,6 @@ annealing
 appoggiature
 anneals
 annect
-annectant
 antiegoistically
 annection
 annelid
@@ -14348,6 +14347,7 @@ altincar
 anthemis
 anthems
 anthemwise
+annectant
 anther
 antheraea
 antheral
