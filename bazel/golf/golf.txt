@@ -1776,7 +1776,6 @@ gastrodermis
 gestations
 gnotobiote
 gastrodynia
-gastrodisk
 gastroduodenitis
 gastroduodenoscopy
 gastroduodenostomy
@@ -6843,6 +6842,7 @@ gonidic
 gristhorbia
 galaxias
 googols
+gastrodisk
 gonidiophore
 gonifs
 gonimic
