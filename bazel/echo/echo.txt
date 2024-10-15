@@ -2460,7 +2460,6 @@ electrohomeopathy
 embassador
 electroimpulse
 electroindustrial
-electroing
 electroionic
 enzymology
 electrojet
@@ -9431,6 +9430,7 @@ erupting
 eruption
 erasing
 eruptional
+electroing
 ellen
 estruate
 effeminateness
