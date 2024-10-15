@@ -1625,7 +1625,6 @@ calotte
 calottes
 calp
 calpac
-calpack
 calpacked
 calpacks
 calpacs
@@ -20783,6 +20782,7 @@ componentry
 components
 compony
 comport
+calpack
 comportable
 comportance
 comported
