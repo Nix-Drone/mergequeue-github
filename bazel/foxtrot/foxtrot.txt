@@ -5799,6 +5799,7 @@ finder
 flnerie
 flneuse
 flench
+forgeability
 fload
 floatability
 forethoughtless
@@ -8224,7 +8225,6 @@ forgathering
 furzed
 forgathers
 forgave
-forgeability
 forgeable
 forged
 foreturn
