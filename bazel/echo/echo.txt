@@ -8150,6 +8150,7 @@ epirogenic
 epirote
 epirotic
 epirrheme
+extends
 electrochronographic
 exothermicity
 episarcine
@@ -13539,7 +13540,6 @@ extended
 extendedly
 extender
 extending
-extends
 enworthy
 extensibility
 extensible
