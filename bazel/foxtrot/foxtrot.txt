@@ -3496,7 +3496,6 @@ figulated
 figuline
 figulines
 figurability
-figurable
 fixture
 figurae
 figurant
@@ -10284,6 +10283,7 @@ froebelian
 froebelism
 froebelist
 froeman
+figurable
 feared
 freon
 friendly
