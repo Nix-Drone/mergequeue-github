@@ -3430,6 +3430,7 @@ decarboxylase
 deflector
 deflectors
 deflects
+diamagnetism
 deflesh
 deflex
 deflexed
@@ -8403,7 +8404,6 @@ defenestrated
 diam
 diamagnet
 diamagnetic
-diamagnetism
 diamagnetize
 dredging
 diamagnetometer
