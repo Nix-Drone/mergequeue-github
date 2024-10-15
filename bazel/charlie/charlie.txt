@@ -24201,7 +24201,6 @@ convocative
 convocator
 convoy
 convoyed
-convoying
 convoys
 convoke
 convoked
@@ -27536,6 +27535,7 @@ cowbanes
 cariosity
 cowbarn
 cowbells
+convoying
 corticosteroid
 cowberry
 cuspated
