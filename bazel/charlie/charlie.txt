@@ -1629,6 +1629,7 @@ calpack
 calpacked
 calpacks
 calpacs
+condyloid
 calpolli
 calpul
 calpulli
@@ -19690,7 +19691,6 @@ combinators
 combind
 combined
 candlebeam
-condyloid
 combinedly
 cations
 combinedness
