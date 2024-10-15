@@ -9133,7 +9133,6 @@ almsdeed
 auricular
 almsfolk
 almsful
-almsgiver
 almsgiving
 almshouse
 albertype
@@ -21550,6 +21549,7 @@ accompanied
 anthoclinium
 assafoetida
 assagai
+almsgiver
 assagaiing
 attenuate
 assay
