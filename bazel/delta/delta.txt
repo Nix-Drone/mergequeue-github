@@ -125,7 +125,6 @@ disclaimant
 dactylopterus
 dactylorhiza
 dactyloscopy
-dactyloscopic
 dactylose
 dreadfulness
 dactylosymphysis
@@ -14658,6 +14657,7 @@ dock
 dockage
 dilatancy
 docked
+dactyloscopic
 docker
 dockers
 docket
