@@ -2112,7 +2112,6 @@ clopping
 campos
 campout
 camps
-campshed
 campshedding
 campsheeting
 campsite
@@ -19098,6 +19097,7 @@ collocationable
 collocational
 collocations
 collocative
+campshed
 cyclomania
 collocatory
 collochemistry
