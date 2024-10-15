@@ -9750,7 +9750,6 @@ bist
 bistable
 backwashed
 bystander
-bistate
 bistephanic
 bister
 bistered
@@ -13868,6 +13867,7 @@ boxy
 bemaul
 boxiana
 boxier
+bistate
 boxing
 boxkeeper
 boxlike
