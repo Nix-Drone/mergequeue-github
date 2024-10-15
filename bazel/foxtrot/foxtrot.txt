@@ -5630,7 +5630,6 @@ flinch
 flagleaf
 freighters
 forgone
-flinched
 flincher
 flinching
 founce
@@ -9623,6 +9622,7 @@ freaking
 freakish
 freakishness
 figurers
+flinched
 forsworn
 fiador
 freakout
