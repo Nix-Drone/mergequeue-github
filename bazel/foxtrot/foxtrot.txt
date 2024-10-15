@@ -6879,7 +6879,6 @@ facemaking
 foreadapt
 folio
 foliobranch
-foliocellosis
 flannel
 floridities
 forejudger
@@ -9519,6 +9518,7 @@ fratch
 flints
 fratched
 fratcher
+foliocellosis
 fratchety
 frate
 flaxbush
