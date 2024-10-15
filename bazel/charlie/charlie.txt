@@ -6028,6 +6028,7 @@ catstep
 catstick
 catstitch
 catstitcher
+circumplication
 catsup
 currane
 catsups
@@ -14396,7 +14397,6 @@ convexed
 circumplanetary
 circumplect
 circumplicate
-circumplication
 circumpolar
 circumpolygon
 circumpose
