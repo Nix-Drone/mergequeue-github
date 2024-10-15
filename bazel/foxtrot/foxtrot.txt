@@ -1092,7 +1092,6 @@ fuzzle
 farmy
 farmyard
 fructuary
-farmyardy
 foremastman
 farmland
 farmost
@@ -10215,6 +10214,7 @@ frittering
 fritters
 formation
 frivol
+farmyardy
 frivoled
 frivoler
 frivolist
