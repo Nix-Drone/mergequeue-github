@@ -7374,7 +7374,6 @@ cephalophine
 cephalophus
 cephaloplegia
 cephaloplegic
-cephalopod
 cephalopoda
 cephalopodan
 cephalopodous
@@ -9502,6 +9501,7 @@ chechia
 cumulates
 check
 checkable
+cephalopod
 checkage
 checkback
 checkbird
