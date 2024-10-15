@@ -1986,7 +1986,6 @@ decahedra
 decahedral
 decahedron
 damageableness
-decahedrons
 decahydrate
 decahydronaphthalene
 decay
@@ -16081,6 +16080,7 @@ doughmaker
 diluvion
 doughman
 doughmen
+decahedrons
 doughnut
 dewinesses
 deferentiality
