@@ -3858,7 +3858,6 @@ adiated
 adiathermal
 adiathermancy
 adiathermic
-adiathetic
 antiprism
 adiating
 adiation
@@ -15080,6 +15079,7 @@ anticreator
 anticreep
 ashlered
 anticreeping
+adiathetic
 anticrepuscular
 anticryptic
 anticryptically
