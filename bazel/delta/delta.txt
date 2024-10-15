@@ -5006,7 +5006,6 @@ demount
 demountability
 demounted
 demounting
-demounts
 disgage
 dempster
 dempsters
@@ -16437,6 +16436,7 @@ doxy
 doxie
 doxies
 doxography
+demounts
 dichromate
 doxological
 doxologically
