@@ -19287,7 +19287,6 @@ colonizationist
 colonizations
 colonize
 comminating
-colonized
 colonizer
 colonizers
 colonizing
@@ -23232,6 +23231,7 @@ consulage
 consulary
 consularity
 consulate
+colonized
 consulated
 consulates
 consulating
