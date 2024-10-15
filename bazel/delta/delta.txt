@@ -5002,7 +5002,6 @@ demotion
 demotions
 demotist
 demotists
-demount
 demountability
 demounted
 demounting
@@ -7331,6 +7330,7 @@ detoxicated
 detoxicating
 disquarter
 detoxicator
+demount
 detoxification
 dissyllabify
 detoxified
