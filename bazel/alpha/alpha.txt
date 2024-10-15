@@ -595,7 +595,6 @@ abnegated
 abnegates
 abnegating
 alliancing
-abnegation
 abnegative
 abnegator
 alit
@@ -10183,6 +10182,7 @@ amelcorns
 arrojadite
 amelet
 amelia
+abnegation
 amelification
 ameliorable
 ameliorableness
