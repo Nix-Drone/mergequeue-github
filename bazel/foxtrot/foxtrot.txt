@@ -3128,7 +3128,6 @@ fibrocyst
 fibrocystoma
 fibrocyte
 fibrocytic
-floatiness
 fibroenchondroma
 fibroferrite
 fibroglioma
@@ -5446,6 +5445,7 @@ fleshen
 fogydom
 forgeful
 flesher
+floatiness
 fleshes
 fleshful
 fleshhood
