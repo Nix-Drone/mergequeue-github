@@ -12818,7 +12818,6 @@ angiospermous
 angiosperms
 angiosporous
 angiostegnosis
-angiostenosis
 angiostomy
 angiostomize
 araeotic
@@ -23561,6 +23560,7 @@ atpoints
 auricle
 auricles
 auricomous
+angiostenosis
 auricula
 auriculae
 auriculare
