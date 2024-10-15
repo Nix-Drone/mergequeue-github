@@ -4712,7 +4712,6 @@ aecidial
 aecidioform
 aecidiomycetes
 aecidiospore
-aecidiostage
 aecidium
 aeciospore
 aeciostage
@@ -9195,6 +9194,7 @@ aloelike
 aloes
 aloesol
 aloetic
+aecidiostage
 angling
 aloetical
 apocatharsis
