@@ -4677,7 +4677,6 @@ eradicative
 enchodontid
 enchodontidae
 enchodontoid
-enchodus
 enchondroma
 enchondromas
 epimerase
@@ -12822,6 +12821,7 @@ exosporal
 exospore
 exosporium
 exossate
+enchodus
 exosseous
 embrew
 exostosed
