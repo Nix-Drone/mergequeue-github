@@ -8963,6 +8963,7 @@ biocoenose
 biocoenoses
 biocoenotic
 biodegradability
+boxman
 biodegradable
 biodegradation
 becassocked
@@ -13873,7 +13874,6 @@ boxkeeper
 boxlike
 boxmaker
 bicycloheptane
-boxman
 booky
 boxroom
 boxthorn
