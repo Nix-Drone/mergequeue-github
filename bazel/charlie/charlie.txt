@@ -1613,6 +1613,7 @@ calorizer
 calorizes
 calorizing
 calosoma
+chemist
 calotermes
 calotermitid
 calotermitidae
@@ -2415,7 +2416,6 @@ candlemas
 candlenut
 candlepins
 candlepower
-chemist
 camelion
 candler
 candlerent
