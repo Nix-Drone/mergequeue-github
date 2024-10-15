@@ -2668,7 +2668,6 @@ barytone
 baritones
 barytones
 byres
-bedaff
 barytons
 barytophyllite
 barytosulphate
@@ -8965,6 +8964,7 @@ biocoenotic
 biodegradability
 biodegradable
 biodegradation
+bedaff
 becassocked
 biodegrade
 biodegraded
