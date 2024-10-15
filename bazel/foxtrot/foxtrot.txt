@@ -1785,7 +1785,6 @@ feathercut
 feathered
 fibropsammoma
 featheredge
-featheredged
 featheredges
 families
 featherer
@@ -8317,6 +8316,7 @@ forked
 forkedness
 forker
 forkers
+featheredged
 forkfuls
 forkhead
 forging
