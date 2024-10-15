@@ -9957,6 +9957,7 @@ chemotherapeutics
 chemotherapy
 chemotherapies
 chemotherapist
+conical
 chemotherapists
 chemotic
 chemotroph
@@ -22363,7 +22364,6 @@ conia
 coniacian
 commaing
 conic
-conical
 conicality
 conically
 chordally
