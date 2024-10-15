@@ -3477,6 +3477,7 @@ figgum
 funniment
 fightable
 forel
+femalely
 fighteress
 fanwort
 fighting
@@ -4844,7 +4845,6 @@ frightenedness
 flaite
 frolicky
 flaithship
-femalely
 flakage
 flake
 foxier
