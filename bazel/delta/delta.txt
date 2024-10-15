@@ -390,6 +390,7 @@ daymares
 daymark
 daymen
 doupion
+draftable
 dormmice
 daimiate
 daimiel
@@ -16536,7 +16537,6 @@ draffman
 draffs
 draft
 dishevel
-draftable
 detort
 draftage
 docimastic
