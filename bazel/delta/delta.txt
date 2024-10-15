@@ -817,7 +817,6 @@ dungeon
 dermititis
 daneweed
 daneweeds
-danged
 detections
 dangerful
 deodara
@@ -3191,6 +3190,7 @@ drusean
 defeatee
 drowsihood
 defeatism
+danged
 defeats
 defeature
 decimalise
