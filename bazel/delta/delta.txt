@@ -3382,7 +3382,6 @@ definitised
 domesticable
 disoccupied
 definitising
-definitive
 deserter
 definitively
 delaying
@@ -9151,6 +9150,7 @@ didunculus
 didus
 die
 delaminating
+definitive
 dye
 desoxycinchonine
 dyeability
