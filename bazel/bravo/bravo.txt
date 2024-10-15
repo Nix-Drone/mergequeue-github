@@ -1903,6 +1903,7 @@ bandcutter
 bande
 bandeau
 bandeaux
+babiche
 betula
 banded
 bandelet
@@ -8982,7 +8983,6 @@ bioelectricity
 bioelectricities
 bioelectrogenesis
 bioelectronics
-babiche
 bioengineering
 bioenvironmental
 bioethic
