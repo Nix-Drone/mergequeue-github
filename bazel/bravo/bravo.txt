@@ -9598,7 +9598,6 @@ bisect
 brangled
 bisected
 bisecting
-bisection
 bisectional
 bisections
 bisector
@@ -14576,6 +14575,7 @@ bacchanalianism
 brachylogy
 brasier
 brasiers
+bisection
 brasil
 brasilein
 brasilete
