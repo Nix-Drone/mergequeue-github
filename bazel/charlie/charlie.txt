@@ -2839,7 +2839,6 @@ cantholysis
 chaffers
 canthoplasty
 canthorrhaphy
-canthotomy
 canthus
 cavaleros
 canthuthi
@@ -15004,6 +15003,7 @@ cytostome
 cytostroma
 cytostromatic
 cytotactic
+canthotomy
 cardioaccelerator
 carpologically
 cytotaxis
