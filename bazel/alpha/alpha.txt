@@ -7762,7 +7762,6 @@ aldols
 aldononose
 aldopentose
 aldose
-aldoses
 antischolastically
 aldoside
 angletouch
@@ -8904,6 +8903,7 @@ allophore
 alloplasm
 alloplasmatic
 alloplasmic
+aldoses
 alloplast
 alloplastic
 allopolyploid
