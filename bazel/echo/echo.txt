@@ -3689,7 +3689,6 @@ embryony
 embryonic
 embryoniferous
 embryons
-embryopathology
 embryophagous
 embryophyta
 embryophyte
@@ -4048,6 +4047,7 @@ emparl
 empasma
 everbloomer
 empassion
+embryopathology
 embarrassingly
 empathetic
 empathy
