@@ -15832,7 +15832,6 @@ cleanses
 cleansing
 cleanskin
 cleanskins
-cleanup
 clear
 chelaship
 clearable
@@ -31840,6 +31839,7 @@ cutlery
 cutleria
 cutleriaceous
 cutleriales
+cleanup
 cutleries
 combwright
 cutlers
