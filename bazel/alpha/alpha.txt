@@ -6951,7 +6951,6 @@ airships
 airsick
 airsickness
 airsome
-airspace
 airspaces
 ancience
 addled
@@ -25392,6 +25391,7 @@ azulmic
 azure
 alarmable
 amazonite
+airspace
 accoutrement
 azurean
 ampyces
