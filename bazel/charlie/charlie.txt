@@ -1948,6 +1948,7 @@ cytologic
 camoudie
 camouflage
 camouflageable
+circumstance
 cryptocrystallization
 camouflager
 camouflagers
@@ -14435,7 +14436,6 @@ circumspectively
 circumspectly
 circumspectness
 circumsphere
-circumstance
 circumstanced
 circumstances
 circumstancing
