@@ -195,7 +195,6 @@ fossule
 facto
 factorability
 factorable
-factordom
 factoress
 flateria
 factory
@@ -2939,6 +2938,7 @@ feudee
 feuder
 flock
 fumier
+factordom
 feuding
 feudists
 feudovassalism
