@@ -428,6 +428,7 @@ backpedaling
 backpiece
 backplane
 backplanes
+beds
 backplate
 backpointer
 backpointers
@@ -4832,7 +4833,6 @@ bedrown
 bedrowse
 bedrugged
 bedrugging
-beds
 bedscrew
 babooism
 bedsheets
