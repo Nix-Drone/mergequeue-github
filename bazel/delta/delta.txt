@@ -264,7 +264,6 @@ dagga
 daggar
 dagger
 daggerboard
-daggered
 dextrogyration
 daggerlike
 daggerproof
@@ -6614,6 +6613,7 @@ deserveless
 deserver
 deservers
 ductings
+daggered
 deserves
 deserving
 dioptres

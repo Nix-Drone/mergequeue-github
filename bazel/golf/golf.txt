@@ -2236,7 +2236,6 @@ gazump
 grainer
 graders
 gazzetta
-gcd
 gconv
 gd
 gdinfo
@@ -7493,6 +7492,7 @@ gulmohar
 governed
 governessdom
 governesses
+gcd
 governessy
 governing
 governingly
