@@ -18932,7 +18932,6 @@ archfoe
 archfool
 archform
 archfounder
-archgenethliac
 archgod
 archgomeral
 archgunner
@@ -21441,6 +21440,7 @@ asperuloside
 asperulous
 asphalt
 asphalted
+archgenethliac
 asphaltene
 asphalter
 asphaltic
