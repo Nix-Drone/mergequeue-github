@@ -9393,6 +9393,7 @@ franchisees
 franchisement
 franchisers
 franchises
+futures
 frivoling
 fireworms
 foragers
@@ -11704,7 +11705,6 @@ future
 futureless
 flocculate
 futurely
-futures
 futuric
 feminines
 flippancy
