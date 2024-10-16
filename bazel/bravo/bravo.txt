@@ -1680,7 +1680,6 @@ ballplayer
 ballplayers
 ballplatz
 bedrabbled
-ballpoint
 ballproof
 ballrooms
 balls
@@ -13403,6 +13402,7 @@ bottomers
 bottoming
 birkremite
 bottomland
+ballpoint
 bottomless
 bourage
 biotelemetry
