@@ -4312,6 +4312,7 @@ flammability
 facia
 furlongs
 first
+feaze
 fylker
 forbearer
 freestone
@@ -9016,7 +9017,6 @@ fountainlike
 filicite
 forstand
 fountainous
-feaze
 fountainously
 fustle
 fives
