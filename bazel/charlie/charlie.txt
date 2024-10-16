@@ -7446,6 +7446,7 @@ ceratectomy
 cerated
 cerates
 ceratiasis
+closeable
 ceratiid
 ceratin
 ceratinous
@@ -18002,7 +18003,6 @@ coenenchym
 casualness
 coenenchyma
 coenenchymal
-closeable
 coenenchymatous
 capouch
 cherty
