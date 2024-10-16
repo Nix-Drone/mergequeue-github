@@ -3581,7 +3581,6 @@ defunctionalization
 defunctionalize
 defunctive
 defused
-defuses
 defusion
 dingles
 dolman
@@ -13137,6 +13136,7 @@ displenish
 disgress
 deflocculation
 discomposure
+defuses
 displicence
 displicency
 displode
