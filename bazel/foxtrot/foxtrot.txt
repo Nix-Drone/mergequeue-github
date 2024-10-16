@@ -1094,6 +1094,7 @@ farmyard
 fructuary
 farmyardy
 foremastman
+foreland
 farmland
 farmost
 farmout
@@ -7784,7 +7785,6 @@ foreknowingly
 forelady
 forelay
 forelaying
-foreland
 forelands
 foreleg
 forelimbs
