@@ -7900,7 +7900,6 @@ eddyroot
 encourager
 epigrammatise
 epigrammatising
-epigrammatize
 epigrammatized
 echoingly
 epigrammatizer
@@ -10152,6 +10151,7 @@ etched
 etcher
 etchers
 etching
+epigrammatize
 esodic
 electrotest
 eteoclus
