@@ -6520,6 +6520,7 @@ deadmen
 descries
 descript
 description
+distensible
 dogsled
 descriptionless
 descriptive
@@ -14282,7 +14283,6 @@ divergement
 divergence
 divergences
 divergencies
-distensible
 desecate
 divergenge
 divergent
