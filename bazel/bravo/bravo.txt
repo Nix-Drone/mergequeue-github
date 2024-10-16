@@ -1466,7 +1466,6 @@ baler
 bales
 boun
 balestra
-balete
 bali
 balian
 bucare
@@ -11578,6 +11577,7 @@ boastings
 boastive
 boasts
 boatable
+balete
 bosket
 boatage
 boatbill
