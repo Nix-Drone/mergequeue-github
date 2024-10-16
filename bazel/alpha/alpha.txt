@@ -18065,7 +18065,6 @@ approximatively
 approximativeness
 approximator
 appt
-apptd
 appui
 appulse
 anemochord
@@ -21527,6 +21526,7 @@ aspout
 archbishops
 asprawl
 aspread
+apptd
 aspredo
 asprete
 aspring
