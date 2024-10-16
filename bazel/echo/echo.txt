@@ -4,7 +4,6 @@ epigramme
 eschoppe
 ea
 eably
-each
 estocs
 evansite
 eachwhere
@@ -6683,6 +6682,7 @@ enteromegaly
 enteromegalia
 enteromesenteric
 enteromyiasis
+each
 enteromorpha
 enteroneuritis
 ewelease
