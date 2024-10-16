@@ -5745,7 +5745,6 @@ categorizations
 categorize
 corona
 categorizers
-categorizes
 categorizing
 cateye
 catel
@@ -10462,6 +10461,7 @@ chiliomb
 chil
 crocker
 chilacayote
+categorizes
 chylaceous
 chilalgia
 curagh
