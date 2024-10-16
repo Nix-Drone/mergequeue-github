@@ -285,7 +285,6 @@ fadednyess
 fadeless
 faden
 fadeout
-fader
 faders
 fadge
 forra
@@ -9543,6 +9542,7 @@ fraternities
 fondak
 fraternize
 firstfruits
+fader
 fraternized
 fulyie
 fraternizer
