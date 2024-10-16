@@ -19590,7 +19590,6 @@ columnization
 columnize
 columnized
 creeperless
-columnizes
 columnizing
 columns
 columnwise
@@ -29188,6 +29187,7 @@ cryptamnesic
 cryptanalysis
 cryptanalyst
 cryptanalytic
+columnizes
 cryptanalytical
 cryptanalytically
 cryptanalytics
