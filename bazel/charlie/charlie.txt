@@ -3421,7 +3421,6 @@ captans
 captation
 caption
 captioned
-captioning
 captionless
 captions
 captious
@@ -10044,6 +10043,7 @@ chernozem
 chernozemic
 cherogril
 cherokee
+captioning
 copartaker
 cherokees
 cheroot
