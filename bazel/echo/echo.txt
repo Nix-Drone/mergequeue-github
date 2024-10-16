@@ -1016,7 +1016,6 @@ enerve
 edaphon
 edaphosauria
 edaphosaurid
-edaphosaurus
 edda
 explosibility
 eddaic
@@ -1536,6 +1535,7 @@ eftsoon
 eftsoons
 eg
 eligent
+edaphosaurus
 egads
 emendate
 egal
