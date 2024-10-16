@@ -10253,7 +10253,6 @@ chiasmatic
 connaraceae
 chiasmatype
 chiasmatypy
-chiasmi
 chiasmic
 chiasmodon
 chiasmodontid
@@ -29815,6 +29814,7 @@ crossbars
 cute
 crossbbred
 countermeasures
+chiasmi
 crossbeak
 crossbeam
 crossbeams
