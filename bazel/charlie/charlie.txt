@@ -9200,7 +9200,6 @@ corbeilles
 chasers
 chases
 chashitsu
-chasid
 chasidim
 chasings
 chasm
@@ -29291,6 +29290,7 @@ cryptolite
 cryptolith
 cryptology
 cryptological
+chasid
 cryptologist
 cryptolunatic
 cryptomere
