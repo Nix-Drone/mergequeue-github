@@ -7146,7 +7146,6 @@ footbridge
 frustulum
 footcandle
 footcloths
-finedraw
 facer
 figwort
 foeniculum
@@ -9027,6 +9026,7 @@ fouquieria
 fitweed
 fouquieriaceae
 fouquieriaceous
+finedraw
 fourb
 fourball
 flaser
