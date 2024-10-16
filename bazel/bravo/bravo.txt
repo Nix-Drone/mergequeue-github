@@ -6486,6 +6486,7 @@ benzophenone
 benzophenothiazine
 benzophenoxazine
 benzophloroglucinol
+burred
 benzophthalazine
 benzopyran
 benzopyranyl
@@ -15642,7 +15643,6 @@ broadacre
 broadax
 broadaxes
 broadbrim
-burred
 broadcast
 broadcaster
 broadcasters
