@@ -7158,7 +7158,6 @@ basseting
 bespy
 bugology
 bespice
-breadthwise
 butterlike
 bespill
 bespin
@@ -15748,6 +15747,7 @@ brodee
 brodeglass
 broderer
 brodiaea
+breadthwise
 bilateralistic
 barometrograph
 berberin
