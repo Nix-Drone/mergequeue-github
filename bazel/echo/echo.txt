@@ -1690,6 +1690,7 @@ egress
 egresses
 egressing
 estadal
+etamins
 egressor
 exiler
 egret
@@ -10134,7 +10135,6 @@ equippers
 ever
 etamines
 etyma
-etamins
 etang
 etceteras
 etape
