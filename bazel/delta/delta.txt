@@ -957,7 +957,6 @@ darci
 decolorate
 darcy
 dard
-dardan
 dextrosazone
 demidandiprat
 dardanium
@@ -11092,6 +11091,7 @@ disassembled
 disassembler
 disassembles
 descriptors
+dardan
 disassembling
 disassent
 disassiduity
