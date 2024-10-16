@@ -5603,7 +5603,6 @@ flightiness
 flightless
 forepassed
 frailest
-flights
 flightworthy
 flying
 flyings
@@ -6786,6 +6785,7 @@ furiously
 farsightedly
 furthersome
 foysen
+flights
 foison
 foisonless
 foisons
