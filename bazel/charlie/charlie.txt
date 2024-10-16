@@ -2172,7 +2172,6 @@ conceivers
 canafistola
 complanar
 computerized
-canafistolo
 canafistula
 canafistulo
 canaglia
@@ -7490,6 +7489,7 @@ ceratopsid
 cutikin
 ceratopteridaceae
 ceratopteridaceous
+canafistolo
 ceratopteris
 ceratorhine
 ceratosa
