@@ -2394,6 +2394,7 @@ deciles
 decylic
 drippings
 deciliter
+deviators
 deciliters
 decilitre
 dripstick
@@ -7608,7 +7609,6 @@ deviations
 darken
 deviative
 deviatory
-deviators
 deviceful
 devicefully
 devicefulness
