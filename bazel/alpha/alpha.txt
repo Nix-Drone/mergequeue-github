@@ -2067,7 +2067,6 @@ acetylized
 acetylizer
 acetylizing
 acetylmethylcarbinol
-acetylperoxide
 acetylphenylhydrazine
 acetylphenol
 acetylrosaniline
@@ -13254,6 +13253,7 @@ aniselike
 amphigoric
 anises
 archhost
+acetylperoxide
 anisette
 archcity
 anisettes
