@@ -6671,7 +6671,6 @@ gnash
 goldurned
 goldurns
 goldwork
-goldworker
 golem
 golems
 goles
@@ -7313,6 +7312,7 @@ geomechanics
 goujay
 gossy
 grills
+goldworker
 gossip
 gossipdom
 gossiped
