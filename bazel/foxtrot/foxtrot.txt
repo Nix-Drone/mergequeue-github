@@ -7160,7 +7160,6 @@ footfall
 ferruling
 filoselle
 footfalls
-footfarer
 footfault
 forehandedly
 footfolk
@@ -11256,6 +11255,7 @@ fungosities
 fungused
 funguses
 fireball
+footfarer
 funguslike
 funic
 fistulae
