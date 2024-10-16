@@ -4041,7 +4041,6 @@ empanelment
 empanels
 expressibly
 empannel
-empanoply
 empaper
 emparchment
 emparl
@@ -13645,6 +13644,7 @@ endorsers
 externship
 externum
 exteroceptist
+empanoply
 enchair
 eliquation
 ewers
