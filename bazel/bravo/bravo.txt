@@ -9276,7 +9276,6 @@ bipectinate
 bullishly
 brulyies
 biped
-bipedal
 bipedality
 bipedism
 bipeds
@@ -13843,6 +13842,7 @@ box
 boxberry
 boxberries
 buttonless
+bipedal
 boxbush
 boxcar
 bonify
