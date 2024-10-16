@@ -5864,7 +5864,6 @@ girondism
 glosser
 glossers
 glosses
-glossy
 glossier
 glossies
 glossiest
@@ -10495,6 +10494,7 @@ gunge
 gunhouse
 gregge
 guniter
+glossy
 gunj
 gunstock
 gunja
