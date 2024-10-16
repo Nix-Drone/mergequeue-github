@@ -2628,6 +2628,7 @@ electrosynthesis
 electrosynthetically
 envenoms
 electrosmosis
+equatable
 electrostatic
 electrostatical
 electrosteel
@@ -8576,7 +8577,6 @@ equals
 equanimously
 equanimousness
 equatability
-equatable
 equate
 equates
 equating
