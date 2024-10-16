@@ -3031,7 +3031,6 @@ gentes
 geochemists
 geochrony
 geochronology
-geochronological
 geocyclic
 geocline
 griskin
@@ -7333,6 +7332,7 @@ gamming
 gossypose
 garbure
 gonfalon
+geochronological
 gibbetted
 gastrulating
 guarachas
