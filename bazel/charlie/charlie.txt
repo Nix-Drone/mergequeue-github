@@ -5657,7 +5657,6 @@ catchlight
 catchline
 catchment
 catchments
-catchpennies
 catchphrase
 catchpole
 catchpoled
@@ -8688,6 +8687,7 @@ changed
 changedale
 changedness
 changeful
+catchpennies
 cataphyllary
 changefully
 changefulness
