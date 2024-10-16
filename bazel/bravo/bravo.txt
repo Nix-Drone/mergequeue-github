@@ -4508,6 +4508,7 @@ beclaw
 beclip
 besieged
 becloak
+bahama
 belchers
 becloaking
 becloaks
@@ -16722,7 +16723,6 @@ bucolically
 bucolicism
 bucolics
 bucorvus
-bahama
 binning
 baseheartedness
 bucrane
