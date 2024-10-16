@@ -6749,7 +6749,6 @@ desklike
 deskman
 deskmen
 desks
-desktop
 destined
 deslime
 dusio
@@ -11178,6 +11177,7 @@ disblame
 disbloom
 disboard
 disbody
+desktop
 disbodied
 disbogue
 disboscation
