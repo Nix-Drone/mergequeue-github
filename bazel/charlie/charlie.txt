@@ -11568,7 +11568,6 @@ cognisability
 crazies
 cholecystoduodenostomy
 cholecystogastrostomy
-cholecystogram
 cholecystography
 cholecystojejunostomy
 cholecystokinin
@@ -29453,6 +29452,7 @@ chlorination
 collectable
 crystallizes
 crystallizing
+cholecystogram
 crystalloblastic
 crystallochemical
 crystallochemistry
