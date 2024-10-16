@@ -596,7 +596,6 @@ galleys
 gamodemes
 galleyworm
 geneat
-galleon
 galleons
 galler
 gaucher
@@ -1784,6 +1783,7 @@ gastroduodenotomy
 gastroelytrotomy
 gastroenteralgia
 gibson
+galleon
 gastroenteric
 gastroenteritic
 galenism
