@@ -4086,7 +4086,6 @@ cardiorrhexis
 cardiosclerosis
 cardioscope
 cardiosymphysis
-cardiospasm
 cardiospermum
 cardiosphygmogram
 cardiosphygmograph
@@ -21559,6 +21558,7 @@ convexo
 cytogenetically
 condemn
 condemnable
+cardiospasm
 condemnate
 condemnations
 condemnatory
