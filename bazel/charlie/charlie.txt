@@ -11288,7 +11288,6 @@ chlorize
 chlormethane
 chlormethylic
 chlornal
-chloro
 chloroacetic
 chloroacetone
 chloroacetophenone
@@ -18597,6 +18596,7 @@ conservatories
 conversance
 coypus
 coir
+chloro
 coirs
 coislander
 coisns
