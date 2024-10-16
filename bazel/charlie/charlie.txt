@@ -7902,7 +7902,6 @@ cession
 cessionaire
 cessionary
 cessionee
-cessment
 cessor
 countermission
 cesspipe
@@ -11727,6 +11726,7 @@ chondriome
 chondriomere
 chondriomite
 chondriosome
+cessment
 chondriosomes
 colubriformia
 chondriosphere
