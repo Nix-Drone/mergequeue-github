@@ -17495,7 +17495,6 @@ apothecarcaries
 aquiculturist
 apothecary
 apothecaries
-apothecaryship
 apothece
 apotheces
 apothecia
@@ -25372,6 +25371,7 @@ autopsychorhythmia
 azox
 azoxazole
 azoxy
+apothecaryship
 azoxybenzene
 azoxime
 azoxynaphthalene
