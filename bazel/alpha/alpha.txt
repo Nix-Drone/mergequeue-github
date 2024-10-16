@@ -3982,7 +3982,6 @@ adjourns
 adjoust
 adjt
 adjudge
-adjudgeable
 adjudger
 adjudges
 adjudging
@@ -18382,6 +18381,7 @@ arabite
 arabitol
 automatictacessing
 arabized
+adjudgeable
 anacatharsis
 attempting
 arable
