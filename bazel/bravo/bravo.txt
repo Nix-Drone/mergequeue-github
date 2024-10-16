@@ -2251,7 +2251,6 @@ baptistries
 baptizable
 baptized
 baptizement
-baptizer
 baptizers
 buggyman
 baptizing
@@ -11492,6 +11491,7 @@ blurriness
 blurring
 blurringly
 blurt
+baptizer
 blurter
 bakshish
 barbecuing
