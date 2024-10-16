@@ -367,7 +367,6 @@ abevacuation
 attributiveness
 abfarads
 abhenry
-abhenries
 abhenrys
 antigone
 abhinaya
@@ -1390,6 +1389,7 @@ acaudelescent
 acaulescence
 anthracemia
 acaulescent
+abhenries
 acauline
 acaulose
 acaulous
