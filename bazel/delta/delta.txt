@@ -2423,7 +2423,6 @@ dacrya
 decimeter
 downstair
 dialogs
-degorder
 decimeters
 decimetre
 daysman
@@ -14883,6 +14882,7 @@ doeuvre
 doff
 doffed
 doffer
+degorder
 doffers
 doffing
 doffs
