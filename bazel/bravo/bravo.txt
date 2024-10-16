@@ -6124,6 +6124,7 @@ balsamweed
 bename
 benamee
 benami
+booleys
 bequeathable
 benamidar
 bangiaceae
@@ -12734,7 +12735,6 @@ bowline
 boolean
 booleans
 booley
-booleys
 booly
 boolya
 blebs
