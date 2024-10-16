@@ -4585,6 +4585,7 @@ carousals
 carouse
 caroused
 carousel
+cohibit
 carousels
 carouser
 cuddly
@@ -18411,7 +18412,6 @@ cohesion
 cohesionless
 cohesive
 cohesiveness
-cohibit
 cohibition
 cohibitive
 cohibitor
