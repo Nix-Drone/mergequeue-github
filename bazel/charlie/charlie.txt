@@ -11340,7 +11340,6 @@ chloroleucite
 chloroma
 copelidine
 chloromata
-chloromelanite
 chlorometer
 chloromethane
 chlorometry
@@ -13507,6 +13506,7 @@ cigar
 cigaresque
 cigaret
 cigarets
+chloromelanite
 cigarette
 cigarettes
 cigarfish
