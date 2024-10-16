@@ -1103,6 +1103,7 @@ farms
 farmscape
 farmsteads
 farmtown
+futharks
 farnesol
 farnesols
 fogas
@@ -5757,7 +5758,6 @@ fliting
 flyting
 flytings
 fossulet
-futharks
 fleuronee
 flytrap
 ferrochrome
