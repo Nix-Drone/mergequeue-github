@@ -5423,6 +5423,7 @@ dentition
 dilating
 dentolabial
 dentolingual
+dorsale
 dentololabial
 dentonasal
 dielytra
@@ -15776,7 +15777,6 @@ diallela
 dorsabdominally
 dipsacus
 dorsal
-dorsale
 dioscoreaceae
 dorsales
 dorsalgia
