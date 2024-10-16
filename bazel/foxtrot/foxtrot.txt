@@ -377,7 +377,6 @@ fainly
 faint
 fideicommissor
 fainter
-finspot
 faintheart
 fainthearted
 faintheartedly
@@ -4660,6 +4659,7 @@ fizzle
 fizzled
 fizzling
 fizzwater
+finspot
 fjeld
 fjelds
 fjerding
