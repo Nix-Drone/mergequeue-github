@@ -8608,7 +8608,6 @@ chancellorships
 chancelor
 chancelry
 calathidium
-chancels
 chanceman
 chancemen
 conoscente
@@ -17257,6 +17256,7 @@ coarsish
 coart
 coarticulate
 coarticulation
+chancels
 coascend
 coassert
 coasserter
