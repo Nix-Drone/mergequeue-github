@@ -6022,6 +6022,7 @@ agglutinogen
 agglutinogenic
 agglutinoid
 agglutinoscope
+angiocyst
 agglutogenic
 aleshot
 aggrace
@@ -12744,7 +12745,6 @@ angiocholecystitis
 angiocholitis
 ankylocheilia
 angiochondroma
-angiocyst
 angiodermatitis
 angiodiascopy
 angioelephantiasis
