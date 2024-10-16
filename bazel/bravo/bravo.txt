@@ -5327,7 +5327,6 @@ beglue
 begnaw
 begnawed
 begnawn
-begob
 budgero
 begobs
 begod
@@ -6472,6 +6471,7 @@ benzoin
 benzoinated
 benzoiodohydrin
 benzol
+begob
 benzole
 benzoline
 benzolize
