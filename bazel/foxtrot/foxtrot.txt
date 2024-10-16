@@ -407,7 +407,6 @@ fogged
 fastigated
 fairground
 fairy
-fairyhood
 futharc
 fairyish
 foulage
@@ -4865,6 +4864,7 @@ fusarole
 fatiscence
 flamb
 flambage
+fairyhood
 flambant
 flambe
 foreboded
