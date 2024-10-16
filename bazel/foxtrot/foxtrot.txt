@@ -2327,7 +2327,6 @@ fencible
 fencings
 firehouse
 fend
-fended
 ferric
 fender
 fumarole
@@ -10767,6 +10766,7 @@ frustrated
 frustrates
 flaskets
 furling
+fended
 foldboat
 frustrating
 foretokened
