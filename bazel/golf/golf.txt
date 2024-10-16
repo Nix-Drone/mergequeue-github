@@ -580,7 +580,6 @@ genetmoil
 gallature
 getah
 gobblers
-gallbladders
 gaudish
 galleass
 galled
@@ -4234,6 +4233,7 @@ gymnarchidae
 globin
 gymnasia
 gymnasiarch
+gallbladders
 galaxiidae
 gymnasiast
 gymnasic
