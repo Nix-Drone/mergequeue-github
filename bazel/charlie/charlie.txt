@@ -11874,6 +11874,7 @@ choral
 choralcelo
 chorale
 choraleon
+cylindricalness
 chorales
 choralist
 craniostosis
@@ -13572,7 +13573,6 @@ cylindric
 countenances
 cylindricality
 cylindrically
-cylindricalness
 cylindricity
 cylindricule
 cylindriform
