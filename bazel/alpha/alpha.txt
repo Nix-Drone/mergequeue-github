@@ -4031,7 +4031,6 @@ adjustmental
 adjustores
 adjutage
 adjutancies
-adjutant
 adjutants
 adjutantship
 anesthetic
@@ -20461,6 +20460,7 @@ artemisium
 artemon
 anchoretical
 alsbachite
+adjutant
 autoptical
 arenae
 arter
