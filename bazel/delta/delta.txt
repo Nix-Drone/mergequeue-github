@@ -4369,6 +4369,7 @@ delve
 delved
 decanter
 delver
+diatomic
 delvers
 delves
 defuze
@@ -8707,7 +8708,6 @@ diatomaceae
 diatomaceous
 diatomales
 diatomeae
-diatomic
 disfrancnise
 diatomicity
 diatomin
