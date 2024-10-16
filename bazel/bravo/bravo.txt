@@ -414,7 +414,6 @@ backoff
 backouts
 broggle
 backpack
-bugles
 backpacked
 burghermaster
 biplace
@@ -17956,6 +17955,7 @@ bushels
 bimester
 busher
 bushers
+bugles
 bedder
 bushes
 bushet
