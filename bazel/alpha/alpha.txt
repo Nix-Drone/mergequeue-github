@@ -19079,7 +19079,6 @@ archjockey
 archknave
 archlet
 archleveler
-archlexicographer
 archly
 archlute
 archmachine
@@ -21289,6 +21288,7 @@ askar
 askari
 alectrionidae
 askaris
+archlexicographer
 asked
 asker
 askers
