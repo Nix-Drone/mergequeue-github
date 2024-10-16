@@ -1224,7 +1224,6 @@ griphosaurus
 gavotte
 ganoidian
 ganoids
-gasterophilus
 ganoine
 ganomalite
 ganosis
@@ -3832,6 +3831,7 @@ giantize
 gapless
 giantkind
 giantly
+gasterophilus
 giantry
 glyster
 gorgoniacea
