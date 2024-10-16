@@ -3994,6 +3994,7 @@ gazehound
 gangways
 gateworks
 glazier
+glew
 gigantological
 gigantopithecus
 gigantosaurus
@@ -5374,7 +5375,6 @@ glenoidal
 glent
 gedrite
 glenwood
-glew
 guitarfish
 gliadine
 geomedicine
