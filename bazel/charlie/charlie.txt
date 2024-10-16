@@ -15750,7 +15750,6 @@ chirres
 clavy
 claviature
 clavicembalist
-clavicembalo
 claviceps
 clavichord
 colonialistic
@@ -21568,6 +21567,7 @@ condemner
 condemners
 curtaxe
 condemning
+clavicembalo
 cobhead
 condemningly
 condemnor
