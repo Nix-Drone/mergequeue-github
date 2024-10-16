@@ -1228,7 +1228,6 @@ calibrater
 calibrates
 calibrating
 calibrations
-calibre
 calibred
 calibres
 chromatophilia
@@ -28702,6 +28701,7 @@ creping
 crepis
 crepitacula
 crepitaculum
+calibre
 crepitant
 crepitate
 crepitated
