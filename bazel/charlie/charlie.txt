@@ -7711,7 +7711,6 @@ cerithiidae
 cerithioid
 cerithium
 cerium
-ceriums
 cermet
 cermets
 commissar
@@ -29759,6 +29758,7 @@ croons
 croose
 crop
 crophead
+ceriums
 cropland
 croplands
 cropless
