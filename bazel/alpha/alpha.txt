@@ -18788,7 +18788,6 @@ archchampion
 archcheater
 archchemic
 archchronicler
-archconfraternity
 archconsoler
 archconspirator
 archcorrupter
@@ -20742,6 +20741,7 @@ adjourn
 artilleryman
 artillerymen
 artilleryship
+archconfraternity
 artillerist
 artillerists
 artiness
