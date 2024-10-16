@@ -1811,7 +1811,6 @@ eyeliners
 eyemark
 eyen
 electric
-eyeopener
 eyepiece
 eyepit
 eyepoint
@@ -2131,6 +2130,7 @@ elargement
 elasmobranch
 elasmobranchii
 epilimnia
+eyeopener
 edgemaker
 elasmothere
 elastase
