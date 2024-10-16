@@ -7907,6 +7907,7 @@ cessor
 countermission
 cesspipe
 cesspit
+cheddite
 cesspits
 centipede
 clamors
@@ -13839,7 +13840,6 @@ cineangiocardiographic
 cineangiography
 cineangiographic
 cuffless
-cheddite
 cineaste
 cynebot
 cinecamera
