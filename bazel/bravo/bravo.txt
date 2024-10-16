@@ -3821,7 +3821,6 @@ battlesome
 boatfalls
 banderilla
 battlestead
-battlewagon
 battleward
 battlewise
 bronchiectasis
@@ -7337,6 +7336,7 @@ beswim
 beswink
 bet
 bootlegging
+battlewagon
 beta
 betacaine
 betacismus
