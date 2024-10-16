@@ -9472,7 +9472,6 @@ escalations
 entrance
 enkindle
 escalator
-escalier
 escalin
 escallonia
 expendability
@@ -13723,6 +13722,7 @@ extolls
 extols
 extoolitic
 extorsion
+escalier
 extorsively
 endeavourer
 extort
