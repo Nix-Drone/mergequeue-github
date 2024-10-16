@@ -4969,6 +4969,7 @@ flanked
 flanker
 flankers
 falconries
+fructure
 fringilliform
 fireshaft
 flanking
@@ -5072,7 +5073,6 @@ flashness
 flashover
 feint
 florigens
-fructure
 flashtube
 flashtubes
 fusobteria
