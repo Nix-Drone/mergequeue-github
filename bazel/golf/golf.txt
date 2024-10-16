@@ -1928,7 +1928,6 @@ gastruran
 gasworks
 gatch
 gate
-gateage
 gatecrasher
 gatecrashers
 gated
@@ -7398,6 +7397,7 @@ gouache
 goudy
 gingerbread
 greenless
+gateage
 gougers
 gouges
 glissading
