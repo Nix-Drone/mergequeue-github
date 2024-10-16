@@ -7610,7 +7610,6 @@ cerebrize
 cerebrocardiac
 cerebrogalactose
 cerebroganglion
-cerebroganglionic
 cerebroid
 cerebroma
 cerebromalacia
@@ -25703,6 +25702,7 @@ corrigent
 corrigibility
 corrigible
 chainbearer
+cerebroganglionic
 centrals
 corrigibleness
 corrigibly
