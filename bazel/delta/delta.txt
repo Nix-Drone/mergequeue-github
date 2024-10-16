@@ -6321,7 +6321,6 @@ dermitis
 downs
 dermoblast
 diaplasis
-dermobranchiata
 dermobranchiate
 dermochelys
 dermococcus
@@ -17737,6 +17736,7 @@ dubious
 dubiously
 densitometers
 dubiousness
+dermobranchiata
 dubitable
 dubitably
 dubitancy
