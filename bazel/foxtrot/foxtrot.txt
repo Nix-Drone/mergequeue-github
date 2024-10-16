@@ -5073,7 +5073,6 @@ flashover
 feint
 florigens
 fructure
-flashtube
 flashtubes
 fusobteria
 fanterie
@@ -7571,6 +7570,7 @@ fatbrained
 forechase
 forechoice
 forechoir
+flashtube
 faith
 foregame
 forechoose
