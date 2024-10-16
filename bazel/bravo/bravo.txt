@@ -2023,6 +2023,7 @@ bins
 barrad
 bdls
 bandwidth
+boomlet
 bandwidths
 bandwork
 bandworm
@@ -4182,7 +4183,6 @@ bibliophilic
 bearcats
 boyishness
 biassing
-boomlet
 beard
 bankrupts
 bodysurfs
