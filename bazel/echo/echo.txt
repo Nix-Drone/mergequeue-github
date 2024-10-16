@@ -9535,7 +9535,6 @@ enplanement
 epipodium
 eodiscid
 escarps
-escars
 escarteled
 escartelly
 eschalots
@@ -10186,6 +10185,7 @@ etesian
 etesians
 ethal
 ethambutol
+escars
 ethanal
 ethmovomerine
 ethanamide
