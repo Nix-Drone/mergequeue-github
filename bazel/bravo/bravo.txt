@@ -6585,6 +6585,7 @@ brontephobia
 bepuzzle
 bepuzzlement
 bequalm
+buffable
 bequeath
 bequeathal
 bequeathed
@@ -16801,7 +16802,6 @@ buenos
 buettneriaceae
 bufagin
 buffability
-buffable
 buffalo
 buffaloback
 birkenia
