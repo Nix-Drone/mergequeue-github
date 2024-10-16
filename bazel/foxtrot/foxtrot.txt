@@ -1086,6 +1086,7 @@ farmership
 farmhold
 farmhouse
 feronia
+fusible
 farmhousey
 fontinalaceae
 fuzzle
@@ -5296,7 +5297,6 @@ flea
 fiscalize
 flimmer
 fleabag
-fusible
 fleabags
 fleabite
 fleabites
