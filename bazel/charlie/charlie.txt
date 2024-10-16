@@ -3368,7 +3368,6 @@ capsize
 capsized
 capsizes
 capsomer
-capsomere
 capsomers
 capstan
 capstans
@@ -9351,6 +9350,7 @@ chaufer
 chaufers
 chauffage
 chauffer
+capsomere
 chauffers
 chauffeur
 chauffeured
