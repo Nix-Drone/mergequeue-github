@@ -4922,7 +4922,6 @@ endable
 endamage
 endamageable
 endamagement
-endamages
 endamaging
 endameba
 endamebae
@@ -8449,6 +8448,7 @@ epizoal
 epizoan
 epizoic
 epispadia
+endamages
 elasmotherium
 eudaemonia
 epizoology
