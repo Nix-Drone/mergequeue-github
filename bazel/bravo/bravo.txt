@@ -16134,6 +16134,7 @@ brooms
 broomshank
 broomstick
 basanite
+brushiness
 broomsticks
 broomstraw
 broomweed
@@ -16398,7 +16399,6 @@ brushy
 brushier
 brushiest
 bendys
-brushiness
 brushland
 brushless
 brushlessness
