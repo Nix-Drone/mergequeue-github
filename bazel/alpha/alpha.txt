@@ -8841,6 +8841,7 @@ alloisomer
 alloisomeric
 alloisomerism
 allokinetic
+auxotox
 allokurtic
 allolalia
 allolalic
@@ -24534,7 +24535,6 @@ auxology
 auxometer
 auxospore
 auxotonic
-auxotox
 auxotroph
 auxotrophy
 ava
