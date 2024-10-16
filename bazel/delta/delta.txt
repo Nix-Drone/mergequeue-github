@@ -2624,6 +2624,7 @@ dispose
 decolorization
 decolorized
 decolorizer
+dishware
 decolors
 decolour
 decolouration
@@ -12374,7 +12375,6 @@ dishtowels
 dishumanize
 dishumor
 dishumour
-dishware
 dishwares
 dishwasher
 dishwashers
