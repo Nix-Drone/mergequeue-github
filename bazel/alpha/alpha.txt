@@ -759,7 +759,6 @@ above
 abovedeck
 ambuscading
 abovementioned
-aboveproof
 aboves
 abovesaid
 abovestairs
@@ -10425,6 +10424,7 @@ amidophenol
 anlaute
 amidophosphoric
 amidoplast
+aboveproof
 amaryllid
 amidoplastid
 amidosuccinamic
