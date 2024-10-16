@@ -2689,7 +2689,6 @@ fittonia
 forgett
 fertilise
 fertiliser
-fertility
 ferroprussiate
 fertilization
 fertilizational
@@ -5085,6 +5084,7 @@ faecal
 flasklet
 flasks
 flasque
+fertility
 flat
 fids
 flatbed

@@ -1090,7 +1090,6 @@ bailies
 bailieship
 bailiff
 bailiffry
-bailiffs
 bailiffwick
 bailing
 bailiwick
@@ -6049,6 +6048,7 @@ beminstrel
 blossomtime
 bemire
 bemirement
+bailiffs
 butyraceous
 bemiring
 bravery
