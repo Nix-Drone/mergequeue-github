@@ -2908,6 +2908,7 @@ forthward
 feuars
 feucht
 feudal
+foregame
 feudalise
 feudalising
 fuchsias
@@ -7572,7 +7573,6 @@ forechase
 forechoice
 forechoir
 faith
-foregame
 forechoose
 foreclaw
 foreclose
