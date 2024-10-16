@@ -5691,6 +5691,7 @@ aftersong
 aftersound
 afterspeech
 afterspring
+apocarps
 appetisse
 afterstorm
 afterstretch
@@ -17141,7 +17142,6 @@ apocamphoric
 apocarp
 apocarpy
 apocarpous
-apocarps
 apocatastasis
 apocentre
 apocentric
