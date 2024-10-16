@@ -7426,6 +7426,7 @@ futhark
 fallacious
 forcement
 forcene
+fencer
 forceps
 fey
 forceput
@@ -11158,7 +11159,6 @@ fundamentalists
 fundamentality
 fundamentalness
 fundamentals
-fencer
 fundatorial
 felspathic
 formational
