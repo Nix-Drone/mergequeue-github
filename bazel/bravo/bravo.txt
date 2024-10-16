@@ -2072,7 +2072,6 @@ banyoro
 banish
 banished
 banisher
-banishing
 banishment
 banister
 banisters
@@ -9202,6 +9201,7 @@ bletting
 biosterol
 beefburger
 barrowist
+banishing
 biota
 biotaxy
 barotropy
