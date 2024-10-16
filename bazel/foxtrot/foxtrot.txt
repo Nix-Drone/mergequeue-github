@@ -3119,7 +3119,6 @@ frozen
 fibroadipose
 fibroblastic
 fibrocalcareous
-fibrocarcinoma
 fibrocartilaginous
 fibrocellular
 fibrocement
@@ -8280,6 +8279,7 @@ fuzzy
 faraon
 forgrow
 forhaile
+fibrocarcinoma
 fevercup
 forestian
 forhoo

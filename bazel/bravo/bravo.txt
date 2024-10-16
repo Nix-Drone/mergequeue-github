@@ -2965,6 +2965,7 @@ besmearer
 barreling
 broad
 barrelled
+bevelment
 brattle
 barrelmaker
 barrelmaking
@@ -3944,7 +3945,6 @@ bawdrics
 bawdries
 bawhorse
 bawl
-bevelment
 bawled
 bawley
 bawler
