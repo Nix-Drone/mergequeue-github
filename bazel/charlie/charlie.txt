@@ -21105,7 +21105,6 @@ concealedly
 concealedness
 concealer
 concealers
-concealing
 conceals
 concede
 conceded
@@ -29280,6 +29279,7 @@ cryptogrammic
 craggedly
 cryptograms
 cryptograph
+concealing
 cryptographal
 cryptography
 cryptographic
