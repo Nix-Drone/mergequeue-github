@@ -500,7 +500,6 @@ ganglia
 galeodidae
 galeoid
 gnapweed
-galeopsis
 glossoncus
 galeorchis
 goner
@@ -7686,6 +7685,7 @@ graecian
 gemlike
 graecize
 gastradenitis
+galeopsis
 graecized
 graecizes
 graecizing
