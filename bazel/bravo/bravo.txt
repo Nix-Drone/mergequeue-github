@@ -1430,7 +1430,6 @@ baldrib
 blent
 baldric
 baldrick
-bracketted
 baldricked
 baldrics
 baldricwise
@@ -6293,6 +6292,7 @@ benignity
 boletic
 benignly
 becharm
+bracketted
 benignness
 benim
 benin
