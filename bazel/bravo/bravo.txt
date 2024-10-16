@@ -2169,7 +2169,6 @@ bannerline
 bannerman
 bannermen
 bannerole
-bannerols
 bannerwise
 bannet
 bannisters
@@ -6889,6 +6888,7 @@ bertrand
 bertrum
 beruffed
 beruffled
+bannerols
 bedumbing
 berust
 bervie
