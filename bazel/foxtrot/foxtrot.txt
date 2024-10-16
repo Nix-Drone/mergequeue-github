@@ -2781,7 +2781,6 @@ fraze
 forbidder
 festiveness
 festivity
-festology
 flowerer
 frasco
 feston
@@ -6312,6 +6311,7 @@ friskers
 fluidram
 flaff
 fluorapatite
+festology
 fluids
 fluigram
 fluigramme
