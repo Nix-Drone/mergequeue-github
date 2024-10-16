@@ -2965,7 +2965,6 @@ besmearer
 barreling
 broad
 barrelled
-brattle
 barrelmaker
 barrelmaking
 birdwomen
@@ -9214,6 +9213,7 @@ botanists
 behaves
 biotelemetries
 biotical
+brattle
 bromogelatin
 biotically
 biotics
