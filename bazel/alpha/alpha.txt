@@ -3557,7 +3557,6 @@ address
 addressability
 allotheistic
 ammine
-addressable
 addressees
 addresser
 addressers
@@ -24033,6 +24032,7 @@ autoecious
 autoeciousness
 autoecous
 affinage
+addressable
 autoed
 autoelectrolysis
 autoelectrolytic
