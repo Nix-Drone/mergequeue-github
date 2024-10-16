@@ -7509,6 +7509,7 @@ devadasi
 deval
 devall
 devaloka
+digraph
 devalorize
 devaluate
 devaluated
@@ -9542,7 +9543,6 @@ digonous
 deaerate
 digoxins
 dulias
-digraph
 digraphically
 digraphs
 digredience
