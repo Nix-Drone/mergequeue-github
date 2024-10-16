@@ -8387,7 +8387,6 @@ alk
 alkahest
 alkahestic
 alkahestica
-alkahestical
 alkaid
 alkalemia
 anesthesiometer
@@ -10574,6 +10573,7 @@ aminize
 amino
 aminoacetal
 aminoacetic
+alkahestical
 aminoacetophenetidine
 aminoacetophenone
 aminoacidemia
