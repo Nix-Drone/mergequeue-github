@@ -4380,6 +4380,7 @@ enolization
 enamelist
 enamellar
 equiped
+epidiascope
 enamellers
 enamelless
 enamels
@@ -7797,7 +7798,6 @@ epidermophytosis
 epidermous
 epiderms
 epidialogue
-epidiascope
 epidiascopic
 epididymal
 epididymides
