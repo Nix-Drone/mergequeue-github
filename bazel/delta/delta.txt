@@ -13710,7 +13710,6 @@ divisibilities
 dissue
 drogues
 dissuit
-dissunder
 dissweeten
 dogvane
 dist
@@ -16147,6 +16146,7 @@ douzeper
 domic
 douzepers
 douzieme
+dissunder
 douziemes
 dove
 dovecot
