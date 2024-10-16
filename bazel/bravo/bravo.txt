@@ -9045,7 +9045,6 @@ bludgeoneer
 battlemented
 benzazide
 biolite
-biolith
 blackfoot
 biologic
 biologicohumanistic
@@ -10235,6 +10234,7 @@ bladebone
 bladelet
 bladelike
 beleaguerer
+biolith
 blades
 bladesmith
 bladewise
