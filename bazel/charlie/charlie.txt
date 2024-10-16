@@ -22509,6 +22509,7 @@ conjuncts
 conjunctur
 conjuncture
 conjunctures
+crystalloluminescence
 conjuration
 conjurations
 conjurator
@@ -29476,7 +29477,6 @@ crystallographic
 crystalloid
 crystalloidal
 crystallology
-crystalloluminescence
 crystallomagnetic
 crystallomancy
 crystallometry
