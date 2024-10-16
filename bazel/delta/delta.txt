@@ -5905,6 +5905,7 @@ diachoresis
 deprecations
 disconcert
 dextrous
+disfrocking
 deprecative
 deprecatively
 doke
@@ -12153,7 +12154,6 @@ disfriar
 discoursiveness
 disfrock
 disfrocked
-disfrocking
 disclose
 disfunction
 didact
