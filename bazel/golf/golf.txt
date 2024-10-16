@@ -8648,7 +8648,6 @@ girn
 greenbone
 gaudsman
 greenbrier
-greenbug
 greenbugs
 greencloth
 greencoat
@@ -9913,6 +9912,7 @@ guardable
 guardant
 guardedness
 guardeen
+greenbug
 guarder
 guardful
 guardfully
