@@ -432,7 +432,6 @@ backplate
 backpointer
 backpointers
 backrest
-backrope
 brimstony
 backropes
 boskets
@@ -5676,6 +5675,7 @@ beledgered
 belee
 beleed
 belemnid
+backrope
 belemnite
 belemnites
 belemnitic
