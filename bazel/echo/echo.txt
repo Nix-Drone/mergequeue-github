@@ -2344,7 +2344,6 @@ electrocautery
 evasion
 electroceramic
 electrochemical
-electrochemically
 electrochemistry
 electrochronometer
 equison
@@ -4320,6 +4319,7 @@ eremital
 emulsions
 emulsoid
 emulsoidal
+electrochemically
 emulsoids
 emunct
 enteropathogenic
