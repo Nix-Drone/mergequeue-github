@@ -4423,7 +4423,6 @@ fishspear
 fishtail
 fishtailed
 flether
-fishtails
 fishway
 fishways
 fishweed
@@ -4871,6 +4870,7 @@ foreboded
 forehead
 flambeau
 flambeaus
+fishtails
 flambee
 filasse
 fatherling
