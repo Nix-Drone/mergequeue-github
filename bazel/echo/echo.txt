@@ -4916,7 +4916,6 @@ ectoderm
 encurl
 encurtain
 endosteal
-encushion
 end
 endable
 endamage
@@ -5172,6 +5171,7 @@ electroballistician
 endogenae
 extraterritorial
 endogenesis
+encushion
 endogeny
 eyebolt
 exorate
