@@ -5515,7 +5515,6 @@ flexions
 flexitime
 ferdiad
 flexive
-flexographic
 flexographically
 flexor
 flexors
@@ -5831,6 +5830,7 @@ filterman
 flobby
 forswat
 forcedness
+flexographic
 fraternate
 fastigia
 fname
