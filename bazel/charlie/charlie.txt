@@ -11567,7 +11567,6 @@ cholecystocolostomy
 cognisability
 crazies
 cholecystoduodenostomy
-cholecystogastrostomy
 cholecystogram
 cholecystography
 cholecystojejunostomy
@@ -26323,6 +26322,7 @@ cotemporaneously
 cotemporary
 cotemporaries
 cotemporarily
+cholecystogastrostomy
 cotenancy
 cotenant
 cotenure
