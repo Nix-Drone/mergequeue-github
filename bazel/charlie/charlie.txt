@@ -26557,7 +26557,6 @@ coulombmeter
 coulombs
 coulometer
 coulter
-coulterneb
 coulters
 coulthard
 coulure
@@ -30143,6 +30142,7 @@ crucifixions
 cruciform
 cruciformity
 crucigerous
+coulterneb
 crucily
 crucilly
 crucis
