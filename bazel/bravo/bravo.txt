@@ -13882,7 +13882,6 @@ boxthorns
 boxty
 boxtop
 brager
-boxtops
 boxwood
 bedevil
 boxwoods
@@ -14441,6 +14440,7 @@ branchia
 branchiae
 borstals
 bathetic
+boxtops
 branchial
 branchiata
 brachyuranic
