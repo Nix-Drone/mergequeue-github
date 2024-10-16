@@ -2490,7 +2490,6 @@ declamations
 declamatory
 declamatoriness
 dheneb
-declarable
 declarant
 declaration
 declarations
@@ -11691,6 +11690,7 @@ discoverability
 discoverable
 discoverably
 discoverer
+declarable
 discoverers
 dermacentor
 discovery
