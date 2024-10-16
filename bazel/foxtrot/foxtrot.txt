@@ -4048,7 +4048,6 @@ finitary
 finite
 finiteness
 fungology
-finites
 finitesimal
 finitism
 finitive
@@ -7698,6 +7697,7 @@ fearable
 fables
 fasciolidae
 flannelet
+finites
 foreground
 foregrounds
 foreguess
