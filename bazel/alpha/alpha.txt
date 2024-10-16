@@ -18080,6 +18080,7 @@ appunctuation
 appurtenance
 appurtenances
 alinotum
+adiabat
 ammeline
 appurtenant
 apr
@@ -22304,7 +22305,6 @@ astronautically
 aerosolizing
 astronavigator
 astronomer
-adiabat
 astronomers
 astronomy
 astronomically
