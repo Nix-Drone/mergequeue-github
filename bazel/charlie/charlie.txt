@@ -3378,7 +3378,6 @@ coached
 consignificate
 capsular
 capsulated
-capsulation
 capsule
 collegatary
 chawbone
@@ -15263,6 +15262,7 @@ clayed
 clayey
 clayer
 contchar
+capsulation
 clayier
 clayiest
 clayiness
