@@ -4258,7 +4258,6 @@ disfranchisements
 delocalised
 delocalising
 delocalization
-delocalize
 delocalizing
 delomorphic
 delomorphous
@@ -6101,6 +6100,7 @@ derailing
 derailleur
 derailleurs
 derailment
+delocalize
 derailments
 dictyostelic
 derays
