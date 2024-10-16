@@ -2642,6 +2642,7 @@ decolours
 decommission
 decommissioned
 dumbbeller
+depark
 decommissioning
 decommissions
 deepens
@@ -5570,7 +5571,6 @@ depayse
 depancreatization
 depardieu
 dinger
-depark
 deparliament
 dehydrogenise
 delighting
