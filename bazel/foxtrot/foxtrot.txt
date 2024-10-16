@@ -5602,6 +5602,7 @@ flightily
 flightiness
 flightless
 forepassed
+functions
 frailest
 flights
 flightworthy
@@ -11144,7 +11145,6 @@ fract
 functionlessness
 functionnaire
 fumosity
-functions
 functor
 functors
 functus
