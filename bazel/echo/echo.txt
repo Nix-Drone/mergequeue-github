@@ -1690,7 +1690,6 @@ egress
 egresses
 egressing
 estadal
-egressor
 exiler
 egret
 egretta
@@ -7258,6 +7257,7 @@ enworthed
 enwound
 enwrap
 enwrapment
+egressor
 enwrapping
 enwraps
 effeminising
