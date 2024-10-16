@@ -5624,7 +5624,6 @@ enform
 elapinae
 enfort
 eastwards
-enforth
 enfoul
 enfoulder
 enfrai
@@ -13464,6 +13463,7 @@ emmarbling
 exsecting
 exsector
 exsects
+enforth
 exsert
 exserted
 eikones
