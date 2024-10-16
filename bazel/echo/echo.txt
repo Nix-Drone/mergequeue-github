@@ -2341,7 +2341,6 @@ electrocatalysis
 electrocatalytic
 explorational
 electrocautery
-evasion
 electroceramic
 electrochemical
 electrochemically
@@ -5497,6 +5496,7 @@ energico
 energid
 energids
 energise
+evasion
 epirot
 energiser
 energising
