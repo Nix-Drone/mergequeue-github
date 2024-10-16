@@ -1904,7 +1904,6 @@ camion
 camions
 camisa
 camisadoes
-camisados
 camisard
 camisas
 critickin
@@ -29285,6 +29284,7 @@ cryptography
 cryptographic
 cryptographical
 cryptographist
+camisados
 cryptoheresy
 cryptoheretic
 cryptolite
