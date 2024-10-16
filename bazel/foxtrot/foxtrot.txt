@@ -778,7 +778,6 @@ fanciless
 fancily
 fancymonger
 fanciness
-fancysick
 fancywork
 fand
 fickly
@@ -2403,6 +2402,7 @@ feracities
 ferae
 fairyship
 feralin
+fancysick
 ferash
 favel
 ferbams
