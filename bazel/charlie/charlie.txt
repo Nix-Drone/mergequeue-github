@@ -5453,7 +5453,6 @@ catafalque
 catafalques
 catagenesis
 catagenetic
-catagmatic
 catakinesis
 catakinetic
 catakinetomer
@@ -18492,6 +18491,7 @@ crusie
 coiler
 coilers
 coin
+catagmatic
 cooperativeness
 coyly
 coilyear
