@@ -14506,7 +14506,6 @@ cirques
 cirrate
 cirrated
 compounds
-cirratulidae
 cirratulus
 cirrhopetalum
 cirrhose
@@ -30113,6 +30112,7 @@ cruce
 cruces
 crucethouse
 crucial
+cirratulidae
 cruciality
 crucially
 crucian
