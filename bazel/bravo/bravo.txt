@@ -12453,6 +12453,7 @@ bonesets
 bonesetter
 barnyard
 bonesetting
+boshes
 brushite
 boneshaker
 backbeat
@@ -13132,7 +13133,6 @@ boshas
 boshbok
 beamlike
 breadthless
-boshes
 boshvark
 boshvarks
 bosjesman
