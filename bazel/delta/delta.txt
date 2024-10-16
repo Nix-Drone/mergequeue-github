@@ -2156,7 +2156,6 @@ dummyweed
 decasepalous
 decasyllabic
 decasyllable
-decasyllabon
 decaspermal
 decaspermous
 dreich
@@ -8200,6 +8199,7 @@ diagnosable
 diagnose
 dipus
 diagnosed
+decasyllabon
 diagnoses
 diagnosis
 diagnostical
