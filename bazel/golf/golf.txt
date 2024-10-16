@@ -2810,7 +2810,6 @@ gestures
 genio
 genioglossal
 globoids
-genioglossi
 genioglossus
 geniohyoglossal
 gapers
@@ -5443,6 +5442,7 @@ glycogenic
 glycogenize
 glycogenolytic
 glycogenosis
+genioglossi
 gingals
 glycogens
 glycohaemia
