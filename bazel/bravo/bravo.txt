@@ -4348,7 +4348,6 @@ bistoury
 bigeyes
 beaverize
 beaverkill
-beaverkin
 beaverlike
 beaverroot
 beavers
@@ -16382,6 +16381,7 @@ brush
 brushability
 brushable
 brushback
+beaverkin
 brushbird
 brushcut
 bestick
