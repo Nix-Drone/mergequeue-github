@@ -6746,6 +6746,7 @@ desk
 deskbound
 deskill
 desklike
+disconducive
 deskman
 deskmen
 desks
@@ -11532,7 +11533,6 @@ disconcertingly
 disconcertion
 disconcertment
 dispassionately
-disconducive
 disconectae
 disconfirmation
 deosculate
