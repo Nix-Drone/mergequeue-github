@@ -1896,7 +1896,6 @@ debt
 debted
 debtee
 debtful
-debtless
 debtor
 debtors
 debugger
@@ -14079,6 +14078,7 @@ disusage
 disuse
 disbarments
 disbranching
+debtless
 disused
 disuses
 disusing
