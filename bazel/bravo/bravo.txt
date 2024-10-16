@@ -1680,7 +1680,6 @@ ballplayer
 ballplayers
 ballplatz
 bedrabbled
-ballpoint
 ballproof
 ballrooms
 balls
@@ -1778,6 +1777,7 @@ balsams
 boozing
 balsas
 balsawood
+ballpoint
 balt
 baltei
 baltetei
