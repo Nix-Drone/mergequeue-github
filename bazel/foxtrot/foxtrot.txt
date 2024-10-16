@@ -5529,7 +5529,6 @@ flexures
 flyable
 fascicle
 flyback
-flyball
 flybane
 flibbertigibbety
 flybelt
@@ -9030,6 +9029,7 @@ fouquieriaceous
 fourb
 fourball
 flaser
+flyball
 fourberie
 flite
 fourcher
