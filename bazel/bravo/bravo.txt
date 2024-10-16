@@ -2580,6 +2580,7 @@ bargelike
 bargelli
 bargello
 bargeload
+borrowing
 bargeman
 bromcamphor
 bookmaking
@@ -16165,7 +16166,6 @@ brothellike
 bulla
 brothelry
 brothels
-borrowing
 brother
 brotherhood
 benj
