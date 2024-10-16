@@ -703,7 +703,6 @@ dampishness
 dampne
 disseminate
 dampness
-dampproof
 dampproofer
 dampproofing
 dams
@@ -9313,6 +9312,7 @@ differentiability
 differentiable
 dossiere
 differentiae
+dampproof
 differentialize
 differentials
 davainea
