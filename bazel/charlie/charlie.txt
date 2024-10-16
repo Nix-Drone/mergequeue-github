@@ -26910,7 +26910,6 @@ countermotion
 countermount
 countermove
 countermoved
-countermovement
 cerebralist
 countermoving
 countermure
@@ -29475,6 +29474,7 @@ crystallography
 crystallographic
 crystalloid
 crystalloidal
+countermovement
 crystallology
 crystalloluminescence
 crystallomagnetic
