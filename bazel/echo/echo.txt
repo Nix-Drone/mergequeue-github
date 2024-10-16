@@ -6402,7 +6402,6 @@ encastered
 ensiform
 ensign
 embarcation
-ensigncy
 electroplaque
 ensigncies
 ensigned
@@ -9634,6 +9633,7 @@ escutcheoned
 escutcheons
 eugenesis
 esd
+ensigncy
 esdragol
 exempt
 eternizing
