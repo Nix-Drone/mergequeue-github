@@ -2541,7 +2541,6 @@ clingfish
 canker
 cankerberry
 cankerbird
-crafting
 cankereat
 cankered
 cankeredly
@@ -6879,6 +6878,7 @@ cembalo
 cembalon
 cembalos
 cement
+crafting
 cementa
 cemental
 cementation
