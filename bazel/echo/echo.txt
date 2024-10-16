@@ -1216,7 +1216,6 @@ edriophthalmatous
 edriophthalmian
 eds
 educ
-educability
 educable
 educables
 educand
@@ -6432,6 +6431,7 @@ enskying
 enslave
 epiglottic
 emulate
+educability
 epimerising
 exarchy
 enslavedness
