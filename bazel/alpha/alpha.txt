@@ -230,6 +230,7 @@ abbreviation
 ascebc
 abbreviations
 abbreviator
+assemblee
 abbreviators
 abbreviature
 abbroachment
@@ -8146,7 +8147,6 @@ alhambraic
 achilles
 antimetropia
 asteria
-assemblee
 alhandal
 albuminometry
 alhena
