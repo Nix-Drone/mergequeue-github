@@ -833,7 +833,6 @@ fanion
 flusher
 furtiveness
 footlike
-fanioned
 fortes
 fanions
 fosters
@@ -8103,6 +8102,7 @@ foretalking
 fullbacks
 foretaste
 foretaster
+fanioned
 foretastes
 foretasting
 folioing
