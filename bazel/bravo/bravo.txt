@@ -12971,7 +12971,6 @@ bordun
 bordure
 bordures
 bore
-boreable
 boread
 boreal
 borealis
@@ -13184,6 +13183,7 @@ bosseyed
 bosselation
 bronchiectatic
 bespirit
+boreable
 bosses
 barysphere
 bosset
