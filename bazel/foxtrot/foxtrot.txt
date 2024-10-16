@@ -138,7 +138,6 @@ fackins
 facks
 faconde
 faconne
-facsim
 frena
 facsimile
 facsimiled
@@ -9440,6 +9439,7 @@ foreaccustom
 frangulic
 franion
 frankability
+facsim
 frankalmoign
 frankenia
 frankeniaceous
