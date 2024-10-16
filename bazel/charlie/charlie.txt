@@ -5695,7 +5695,6 @@ catechiser
 catechising
 calipered
 catechism
-catechismal
 catechist
 catechistic
 catechistical
@@ -16983,6 +16982,7 @@ crayoned
 cnidoblast
 cnidocell
 cnidocil
+catechismal
 cnidocyst
 cnidophorous
 cupmate
