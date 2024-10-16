@@ -677,7 +677,6 @@ fameworthy
 forereport
 familial
 familiarisation
-familiarise
 familiarised
 formism
 frequently
@@ -6870,6 +6869,7 @@ foliator
 foliature
 finiglacial
 foliicolous
+familiarise
 fellmongered
 frigid
 foliiferous
