@@ -5098,7 +5098,6 @@ cases
 casette
 casettes
 caseum
-caseweed
 casewood
 caseworker
 caseworkers
@@ -6160,6 +6159,7 @@ cauldrons
 cottar
 caulds
 caulerpaceae
+caseweed
 caulerpaceous
 caules
 caulescent
