@@ -519,6 +519,7 @@ backstick
 backstitch
 backstitched
 backstitches
+boltlike
 backstitching
 backstop
 bejeling
@@ -12222,7 +12223,6 @@ bolti
 bolty
 boltin
 bolting
-boltlike
 beaupers
 boltmaker
 boltonia
