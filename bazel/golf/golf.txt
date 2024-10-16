@@ -4105,7 +4105,6 @@ gaddi
 gamene
 gild
 gildable
-gildedness
 gilden
 gilder
 grewhound
@@ -4688,6 +4687,7 @@ gadids
 greeds
 girdles
 girdlestead
+gildedness
 grundlov
 gymnosperm
 girdling
