@@ -5880,7 +5880,6 @@ floerkea
 flog
 flogged
 ferrotypes
-flogger
 floggers
 facilely
 forehand
@@ -6640,6 +6639,7 @@ foaminess
 foaming
 foamless
 foamlike
+flogger
 foams
 fobbing
 flirtier
