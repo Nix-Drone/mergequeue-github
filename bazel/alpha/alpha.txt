@@ -5620,6 +5620,7 @@ alloclasite
 afterglows
 aftergo
 aftergood
+antimasker
 aftergrave
 aftergrief
 armpad
@@ -15500,7 +15501,6 @@ antimarian
 antepagments
 antimartyr
 antimask
-antimasker
 alar
 antimasks
 antimason
