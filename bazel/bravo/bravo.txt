@@ -2874,6 +2874,7 @@ bitis
 barothermograph
 barothermohygrograph
 baroto
+beprank
 barotrauma
 bulgurs
 barotraumas
@@ -6571,7 +6572,6 @@ bepray
 bepraise
 bepraisement
 bepraiser
-beprank
 bepranked
 beyonds
 bepress
