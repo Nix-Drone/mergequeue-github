@@ -9574,7 +9574,6 @@ discommendable
 dihalogen
 dihdroxycholecalciferol
 dihedral
-dihedrals
 dihedron
 discipleship
 dihelium
@@ -13674,6 +13673,7 @@ diathermous
 dissolveability
 descanting
 dacryocystalgia
+dihedrals
 dissolved
 dissolvent
 dissolves
