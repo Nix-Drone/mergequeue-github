@@ -2994,7 +2994,6 @@ capacity
 capacities
 capacitive
 capacitively
-capacitor
 capanna
 capanne
 cystolithectomy
@@ -9060,6 +9059,7 @@ charleys
 charlene
 charles
 corpore
+capacitor
 charleston
 cinctures
 cattabu
