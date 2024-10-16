@@ -7347,7 +7347,6 @@ cephalodiscid
 cephalodiscida
 cephalodiscus
 cephalodium
-cephalofacial
 cephalogram
 cephalograph
 cephalohumeral
@@ -14772,6 +14771,7 @@ cistuses
 cit
 citable
 citadels
+cephalofacial
 cital
 cytase
 cytasic
