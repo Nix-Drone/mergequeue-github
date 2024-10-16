@@ -2649,7 +2649,6 @@ barish
 barysilite
 barit
 baryta
-barebacked
 bloodlike
 barytas
 barite
@@ -11190,6 +11189,7 @@ blote
 blotless
 blotlessness
 blots
+barebacked
 beaker
 blotted
 blotter
