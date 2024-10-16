@@ -521,7 +521,6 @@ farragoes
 falconiform
 falconiformes
 falconinae
-falconnoid
 falconoid
 flecker
 folium
@@ -2821,6 +2820,7 @@ fetched
 frontosquamosal
 filanders
 fetchers
+falconnoid
 fetching
 floreat
 feterita
