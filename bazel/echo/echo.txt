@@ -5308,7 +5308,6 @@ endoskeletons
 endosmic
 endosmometric
 eyr
-evaders
 erasions
 electroplax
 endosmose
@@ -12008,6 +12007,7 @@ earmindedness
 excipulum
 excircle
 excisable
+evaders
 esker
 excise
 exciseman
