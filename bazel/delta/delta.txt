@@ -2727,6 +2727,7 @@ deconvolution
 deconvolve
 decopperization
 decopperize
+derout
 decor
 decorability
 decorable
@@ -13926,7 +13927,6 @@ distractile
 dedicator
 distraction
 distractions
-derout
 distractive
 distractively
 distracts
