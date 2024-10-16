@@ -4310,7 +4310,6 @@ firns
 firoloida
 flammability
 facia
-furlongs
 first
 fylker
 forbearer
@@ -10022,6 +10021,7 @@ frier
 fryer
 friers
 fryers
+furlongs
 friese
 flappiest
 frieseite
