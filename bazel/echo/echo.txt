@@ -2476,7 +2476,6 @@ everydeal
 elephantlike
 electrolysed
 electrolyses
-electrolysing
 electrolysis
 electrolyte
 electrolithotrity
@@ -12646,6 +12645,7 @@ ellagitannin
 exocrinology
 embolismic
 exocrinologies
+electrolysing
 extraformal
 estradas
 exoculate
