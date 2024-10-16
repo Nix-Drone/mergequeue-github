@@ -934,7 +934,6 @@ absentees
 absenter
 absenters
 absentia
-absently
 abridge
 aflatus
 absentment
@@ -3794,6 +3793,7 @@ adhara
 adharma
 adhere
 adhered
+absently
 adherences
 adherency
 adherend
