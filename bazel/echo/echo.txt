@@ -3172,7 +3172,6 @@ ethnographist
 else
 endemic
 elsehow
-elseways
 elsewhat
 elsewhen
 elsewhere
@@ -11208,6 +11207,7 @@ euthanasic
 enantiotropic
 euthanatize
 euthenasia
+elseways
 eiderdown
 euthenics
 effetman
