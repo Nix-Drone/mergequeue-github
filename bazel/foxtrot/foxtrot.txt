@@ -2462,7 +2462,6 @@ ferlying
 ferling
 fermacy
 fermail
-fermal
 fermata
 fusinite
 fermatas
@@ -7764,6 +7763,7 @@ foreimpression
 foreinstruct
 fuchsia
 fac
+fermal
 flockling
 foreiron
 fissioning
