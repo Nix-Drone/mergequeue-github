@@ -2631,7 +2631,6 @@ electrosmosis
 electrostatic
 electrostatical
 electrosteel
-electrostenolysis
 electrostenolytic
 exciples
 electrostriction
@@ -3347,6 +3346,7 @@ embankment
 embannered
 enviableness
 embar
+electrostenolysis
 eaglestone
 elaidin
 efformation
