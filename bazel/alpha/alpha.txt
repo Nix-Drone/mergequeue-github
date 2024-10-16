@@ -1670,6 +1670,7 @@ accordion
 accordionist
 accordionists
 accordions
+abstracting
 accords
 accorporate
 accorporation
@@ -7583,7 +7584,6 @@ alchem
 alchemy
 alchemic
 alchemies
-abstracting
 actinozoal
 alchemising
 antilepsis
