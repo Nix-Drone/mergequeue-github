@@ -3288,6 +3288,7 @@ deferents
 deferment
 deferments
 deferrable
+duplexer
 deferral
 deferrals
 deferred
@@ -18385,7 +18386,6 @@ dupioni
 duplation
 duple
 duplex
-duplexer
 duplexers
 duplexing
 donis
