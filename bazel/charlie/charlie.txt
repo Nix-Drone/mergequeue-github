@@ -19083,7 +19083,6 @@ collision
 collisive
 collywest
 collyweston
-collywobbles
 colloblast
 collobrierite
 collocal
@@ -25657,6 +25656,7 @@ corregimientos
 correl
 correlatable
 correlated
+collywobbles
 correlates
 correlations
 comparativeness
