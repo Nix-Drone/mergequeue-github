@@ -3396,6 +3396,7 @@ defis
 defix
 deflagrable
 desulfuriser
+desulphurated
 deflagrated
 deflagrates
 deflagrating
@@ -7089,7 +7090,6 @@ desulfurizing
 dynamometric
 desulphur
 desulphurate
-desulphurated
 desulphurating
 desulphuret
 delatorian
