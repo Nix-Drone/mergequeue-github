@@ -1799,7 +1799,6 @@ balun
 balushai
 balustered
 balusters
-balustrade
 balustrades
 balustrading
 balwarra
@@ -13417,6 +13416,7 @@ bottomrying
 bottoms
 bottstick
 bottu
+balustrade
 barrelsful
 bradykinesis
 botuliform
