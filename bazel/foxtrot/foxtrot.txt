@@ -2726,7 +2726,6 @@ ferventness
 fervescence
 ferulae
 floodwall
-fervid
 falanaka
 fervidly
 fervor
@@ -5964,6 +5963,7 @@ flop
 floperoo
 flophouse
 flophouses
+fervid
 flopover
 flopovers
 finish
