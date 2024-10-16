@@ -9337,7 +9337,6 @@ bipolarity
 bipolarization
 bipont
 biporose
-bipotentiality
 bipotentialities
 biprism
 byproducts
@@ -13384,6 +13383,7 @@ bottlehead
 bottommost
 bottlemaker
 bottleman
+bipotentiality
 bottleneck
 brayer
 bottlenest
