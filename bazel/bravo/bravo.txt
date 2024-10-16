@@ -3983,7 +3983,6 @@ bbs
 bcd
 bch
 bchs
-bd
 bde
 bdellatomy
 brotan
@@ -12974,6 +12973,7 @@ bore
 boreable
 boread
 boreal
+bd
 borealis
 branchedness
 borean
