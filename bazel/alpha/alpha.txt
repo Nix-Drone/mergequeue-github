@@ -11906,7 +11906,6 @@ aesthesia
 attend
 anapnograph
 anapnoic
-anapnometer
 anapodeictic
 anapophyses
 anapophysial
@@ -21583,6 +21582,7 @@ assam
 assamar
 assamese
 assamites
+anapnometer
 assapan
 assapanic
 assapanick
