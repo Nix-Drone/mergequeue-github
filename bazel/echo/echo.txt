@@ -11254,6 +11254,7 @@ evacuator
 evacuators
 exteriors
 evacue
+evaluates
 evacuees
 evadable
 evade
@@ -11274,7 +11275,6 @@ evaginable
 evagination
 eval
 evaluated
-evaluates
 etherin
 evaluating
 evaluations
