@@ -10519,7 +10519,6 @@ anthriscus
 amylogen
 amylogenesis
 amylogenic
-amylogens
 amylohydrolysis
 amylohydrolytic
 amyloid
@@ -10578,6 +10577,7 @@ aminoacetophenetidine
 aminoacetophenone
 aminoacidemia
 aminoaciduria
+amylogens
 aminoanthraquinone
 apodictically
 aminoazo
