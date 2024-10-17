@@ -4927,7 +4927,6 @@ feldsher
 faliscan
 fantaseid
 forge
-flaminica
 flaminical
 flamless
 flammable
@@ -8910,6 +8909,7 @@ footstone
 fosterers
 forblow
 fosterhood
+flaminica
 fostering
 fosterite
 flatbrod
