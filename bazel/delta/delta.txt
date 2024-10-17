@@ -5854,7 +5854,6 @@ depositaries
 deposited
 depositing
 disgorgement
-depositional
 dumbheaded
 depositive
 deposito
@@ -16963,6 +16962,7 @@ drecks
 dredge
 dredgeful
 dredger
+depositional
 dredgers
 dredges
 dree
