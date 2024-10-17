@@ -20916,6 +20916,7 @@ ascendable
 ascendance
 ascendancy
 ascendant
+assignability
 ascendantly
 ascendants
 ascendence
@@ -21762,7 +21763,6 @@ assiette
 assify
 apprehensiveness
 assign
-assignability
 assignable
 assignably
 assignat
