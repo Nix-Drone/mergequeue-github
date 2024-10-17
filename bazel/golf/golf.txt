@@ -1972,7 +1972,6 @@ gatherers
 graplins
 gyrostabilizer
 greenfishes
-gatherings
 gatherum
 geniohyoid
 gathic
@@ -6421,6 +6420,7 @@ glycemic
 giantish
 gobbed
 gobber
+gatherings
 girja
 geophilus
 gobbet
