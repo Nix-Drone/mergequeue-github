@@ -12246,6 +12246,7 @@ bomb
 bombable
 bombacaceae
 bombace
+burnweed
 bombay
 bombarde
 byrls
@@ -17815,7 +17816,6 @@ burntness
 burntweed
 burnup
 burnut
-burnweed
 burnwood
 browsage
 buroo
