@@ -12100,7 +12100,6 @@ boldos
 boldu
 bole
 bolectioned
-boled
 boleite
 bolelia
 bolelike
@@ -12815,6 +12814,7 @@ burgensic
 brachigerous
 barleysick
 boot
+boled
 bootable
 beachdrops
 bootblack
