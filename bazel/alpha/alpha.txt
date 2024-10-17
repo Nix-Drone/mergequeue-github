@@ -4944,6 +4944,7 @@ aerodromes
 acetyltannin
 aeroduct
 auge
+approved
 aeroducts
 aeroelastic
 aeroelasticity
@@ -18035,7 +18036,6 @@ approvably
 approval
 approvals
 approvance
-approved
 approvedly
 approvedness
 approver
