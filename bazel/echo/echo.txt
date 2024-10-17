@@ -1113,7 +1113,6 @@ edibile
 earthlike
 equipper
 edibility
-edible
 expurgatory
 edibleness
 edibles
@@ -11222,6 +11221,7 @@ euthycomi
 ethene
 euthyneurous
 euthytatic
+edible
 euthytropic
 eutychian
 eutychianism
