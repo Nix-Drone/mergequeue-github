@@ -2431,7 +2431,6 @@ erstwhiles
 episcope
 electroendosmosis
 electroengrave
-electroengraving
 electroextraction
 expedient
 electroform
@@ -10465,6 +10464,7 @@ ethnolinguistic
 ethnologer
 erysibe
 ethnology
+electroengraving
 ethnologic
 ethnological
 ethnologically
