@@ -2559,7 +2559,6 @@ britzka
 barfish
 barfs
 bargain
-bargainable
 billbugs
 bargainee
 bargainer
@@ -9795,6 +9794,7 @@ bidialectal
 bytalk
 bytalks
 bitangential
+bargainable
 burial
 bitanhol
 bitartrate
