@@ -4659,6 +4659,7 @@ bedcord
 byplays
 bedcovers
 beddable
+bunkmate
 bedders
 bedding
 beddingroll
@@ -5227,7 +5228,6 @@ bedazzle
 bighorn
 bisiliquous
 bicentenary
-bunkmate
 bilingualism
 begarlanded
 ballistocardiographic
