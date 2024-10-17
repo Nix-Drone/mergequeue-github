@@ -3660,7 +3660,6 @@ carbarns
 carbasus
 carbazic
 carbazide
-carbazylic
 chlorpikrin
 carbazine
 carbazole
@@ -29808,6 +29807,7 @@ calculate
 crossband
 crossbanded
 crossbanding
+carbazylic
 crossbar
 crossbarred
 crossbarring
