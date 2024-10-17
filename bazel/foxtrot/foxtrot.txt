@@ -3620,6 +3620,7 @@ filers
 files
 frailly
 filesmith
+frase
 filesniff
 flagships
 filespec
@@ -9505,7 +9506,6 @@ frappes
 frapping
 frary
 flouriness
-frase
 foamingly
 ferfet
 foreseers
