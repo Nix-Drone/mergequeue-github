@@ -5998,7 +5998,6 @@ agglomerating
 agglomeration
 agglomerative
 agglomerator
-autoing
 aramis
 agglutinable
 agglutinant
@@ -23997,6 +23996,7 @@ autodepolymerization
 autodermic
 autodestruction
 autodiagnosis
+autoing
 autodiagnostic
 autodiagrammatic
 autodial
