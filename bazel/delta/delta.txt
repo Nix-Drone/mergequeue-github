@@ -1193,6 +1193,7 @@ dataries
 dataset
 datasetname
 datasets
+debarbarize
 datatype
 datatypes
 datcha
@@ -1734,7 +1735,6 @@ deringer
 debamboozle
 debar
 debarbarization
-debarbarize
 debark
 debarkations
 dobroes
