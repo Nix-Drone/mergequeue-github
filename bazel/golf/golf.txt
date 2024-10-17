@@ -2877,7 +2877,6 @@ genoms
 genonema
 gph
 genos
-gerrymandered
 genospecies
 genotype
 gobinism
@@ -3706,6 +3705,7 @@ ghee
 ghees
 germigenous
 gheg
+gerrymandered
 gheleem
 gaucheness
 ghenting
