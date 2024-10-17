@@ -3068,7 +3068,6 @@ actiniform
 actiniochrome
 actiniomorpha
 actinisms
-actinium
 actiniums
 actinobaccilli
 actinobacillosis
@@ -9529,6 +9528,7 @@ algorithm
 altostratus
 altrices
 altricial
+actinium
 altropathy
 altrose
 altruism
