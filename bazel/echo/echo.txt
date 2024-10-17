@@ -5878,7 +5878,6 @@ enhelm
 elysia
 enhemospore
 enherit
-enheritance
 enhydra
 eyewear
 euphemism
@@ -7741,6 +7740,7 @@ epidemically
 effervescible
 epidemicalness
 epidemicity
+enheritance
 epidemiography
 ejulation
 epidemiographist
