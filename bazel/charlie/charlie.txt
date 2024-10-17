@@ -5814,7 +5814,6 @@ catfight
 creeled
 catfish
 catfoot
-catfooted
 catgut
 catguts
 cath
@@ -8942,6 +8941,7 @@ charadriiformes
 charadrine
 charadrioid
 charadriomorphae
+catfooted
 charadrius
 charango
 charangos
