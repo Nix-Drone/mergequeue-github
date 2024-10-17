@@ -5647,7 +5647,6 @@ afterloss
 aerarian
 afterlove
 aftermark
-aftermarriage
 aftermass
 aftermast
 aftermath
@@ -11912,6 +11911,7 @@ anapophyses
 anapophysial
 anapsid
 australopithecus
+aftermarriage
 anapsida
 anapsidan
 anapterygota
