@@ -4789,7 +4789,6 @@ elem
 enclosers
 enclosing
 efik
-enclosures
 excentral
 extraction
 enclothe
@@ -10091,6 +10090,7 @@ estriate
 estrich
 estrif
 exudative
+enclosures
 epauliere
 estrin
 estrins
