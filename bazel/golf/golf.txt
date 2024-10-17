@@ -2240,6 +2240,7 @@ gcd
 gconv
 gd
 gdinfo
+gone
 gds
 grayfish
 globously
@@ -6799,7 +6800,6 @@ gondolier
 gondoliere
 gordius
 gondoliers
-gone
 goney
 goneness
 gonenesses
