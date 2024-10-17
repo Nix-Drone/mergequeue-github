@@ -4535,7 +4535,6 @@ becolor
 becombed
 builders
 bestuur
-become
 becomed
 becomes
 becometh
@@ -14246,6 +14245,7 @@ brags
 braguette
 bragwort
 brahm
+become
 brahmachari
 brahmahood
 brahmaic
