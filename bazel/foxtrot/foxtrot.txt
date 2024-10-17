@@ -5114,7 +5114,6 @@ flavoprotein
 fatigued
 fissionability
 flatly
-flatling
 flatlings
 flatlong
 flatman
@@ -7503,6 +7502,7 @@ foreallege
 foreallot
 foreannounce
 flatuses
+flatling
 foreappoint
 foreappointment
 fungate
