@@ -4942,6 +4942,7 @@ alivincular
 aerodrome
 aerodromes
 acetyltannin
+ascent
 aeroduct
 auge
 aeroducts
@@ -20938,7 +20939,6 @@ ascensiontide
 apophasis
 ascensive
 ascensor
-ascent
 ascertain
 ascertainability
 ascertainably
