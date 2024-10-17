@@ -5081,7 +5081,6 @@ caseloads
 caselty
 casemaker
 casemaking
-casemated
 casemates
 casement
 casemented
@@ -23619,6 +23618,7 @@ contourne
 contours
 contr
 contrabandage
+casemated
 contrabandery
 causticiser
 contrabandism
