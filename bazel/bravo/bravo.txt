@@ -2007,7 +2007,6 @@ bandsmen
 bandspreading
 bandstand
 bandstands
-bandster
 ballroom
 bandstop
 bandstring
@@ -4565,6 +4564,7 @@ brasqued
 becrimes
 becriming
 becrinolined
+bandster
 bewrapped
 besmell
 becrippled
