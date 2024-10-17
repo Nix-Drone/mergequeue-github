@@ -1904,7 +1904,6 @@ gastrostege
 gastrostenosis
 gastrostomy
 gastrostomies
-gastrostomize
 gastrostomus
 gastrotaxis
 gastrothecal
@@ -6763,6 +6762,7 @@ gon
 gonadal
 gonadial
 ghostwrite
+gastrostomize
 gonadotrope
 gateward
 grotesquely
