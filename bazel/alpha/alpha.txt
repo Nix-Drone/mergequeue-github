@@ -4372,7 +4372,6 @@ aurorae
 adrenocorticotrophic
 ammonolysis
 adrenocorticotropic
-adrenolysis
 adrenomedullary
 anthracolithic
 adrenosterone
@@ -17038,6 +17037,7 @@ apyonin
 apionol
 apios
 apiose
+adrenolysis
 apiosoma
 apiphobia
 apyrases
