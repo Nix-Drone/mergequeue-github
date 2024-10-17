@@ -5922,7 +5922,6 @@ floodplain
 floods
 forst
 fortifiable
-floodway
 feute
 floodways
 fistfight
@@ -10268,6 +10267,7 @@ fleishig
 foolfishes
 forepaling
 frizzle
+floodway
 frizzles
 frizzly
 favela
