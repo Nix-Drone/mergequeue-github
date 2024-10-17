@@ -1594,6 +1594,7 @@ ballfield
 ballflower
 ballgame
 ballgames
+bristlemouth
 ballgowns
 ballhausplatz
 ballhawk
@@ -15565,7 +15566,6 @@ bristled
 bromacetanilide
 bristleless
 bristlelike
-bristlemouth
 bristlemouths
 bristles
 bristlewort
