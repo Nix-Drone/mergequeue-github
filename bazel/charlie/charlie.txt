@@ -16322,7 +16322,6 @@ clypeole
 clypeus
 collapsible
 clippable
-clipped
 clipperman
 clippers
 clippie
@@ -23446,6 +23445,7 @@ cornstalk
 contends
 contenement
 content
+clipped
 contentable
 consummate
 contentation
