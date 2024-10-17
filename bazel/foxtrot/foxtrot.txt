@@ -4212,7 +4212,6 @@ frat
 fireplace
 fireplaces
 fireplow
-fleeceable
 fireplug
 frieze
 fireplugs
@@ -4244,6 +4243,7 @@ figpecker
 fucivorous
 firetop
 frith
+fleeceable
 flatterers
 firetraps
 firewall
