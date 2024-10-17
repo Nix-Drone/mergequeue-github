@@ -8496,7 +8496,6 @@ bilaan
 biogenous
 ballottable
 bilabial
-bilabials
 bilabiate
 bilaciniate
 bilayer
@@ -8906,6 +8905,7 @@ binotonous
 binous
 binoxide
 bints
+bilabials
 binturong
 binuclear
 binucleated
