@@ -20732,7 +20732,6 @@ artificiality
 artificialities
 arrayment
 artificially
-artificialness
 artificious
 artilize
 artiller
@@ -22948,6 +22947,7 @@ attacked
 attacker
 appetencies
 attackers
+artificialness
 attacking
 antedated
 attackingly
