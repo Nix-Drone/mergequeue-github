@@ -7750,7 +7750,6 @@ beltlines
 bezzo
 bf
 bg
-bhabar
 bhagat
 bhagavat
 bhagavata
@@ -17049,6 +17048,7 @@ bulkily
 bulkin
 bulkiness
 backstroking
+bhabar
 brickset
 bulkish
 bulks
