@@ -1063,7 +1063,6 @@ fario
 farish
 farkleberries
 farl
-farley
 farles
 feast
 farls
@@ -6307,6 +6306,7 @@ fluidizes
 fluidmeter
 faulted
 fluidness
+farley
 fluidounce
 friskers
 fluidram
