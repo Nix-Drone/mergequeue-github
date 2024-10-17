@@ -1935,7 +1935,6 @@ gated
 gatefold
 grapefruits
 gatehouse
-gatekeep
 glovemaking
 gatekeeper
 gatekeepers
@@ -10314,6 +10313,7 @@ gulden
 guldengroschen
 guldens
 genericalness
+gatekeep
 gule
 gorlin
 guanaco
