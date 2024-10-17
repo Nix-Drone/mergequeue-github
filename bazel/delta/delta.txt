@@ -2660,7 +2660,6 @@ decomponible
 decurved
 decomposability
 decomposable
-decompose
 decomposed
 delphin
 dimmy
@@ -16675,6 +16674,7 @@ drainermen
 drugging
 detracted
 drainers
+decompose
 drainfield
 draining
 drainman
