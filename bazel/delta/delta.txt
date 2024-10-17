@@ -4258,7 +4258,6 @@ disfranchisements
 delocalised
 delocalising
 delocalization
-delocalize
 delocalizing
 delomorphic
 delomorphous
@@ -18514,6 +18513,7 @@ duroc
 durocs
 dogtrots
 deviltries
+delocalize
 duroy
 durometer
 duroquinone
