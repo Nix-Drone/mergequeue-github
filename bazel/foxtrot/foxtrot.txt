@@ -4213,7 +4213,6 @@ fireplace
 fireplaces
 fireplow
 fleeceable
-fireplug
 frieze
 fireplugs
 firepot
@@ -8922,6 +8921,7 @@ fistulize
 fostership
 filestatus
 fostress
+fireplug
 fot
 flyspecking
 fother
