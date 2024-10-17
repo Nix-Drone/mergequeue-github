@@ -272,7 +272,6 @@ abdominogenital
 affiant
 abdominohysterotomy
 abdominoposterior
-abdominoscopy
 agas
 abdominothoracic
 abdominous
@@ -4850,6 +4849,7 @@ aeration
 aerations
 aerenchyma
 aery
+abdominoscopy
 aerial
 aerialist
 accomplishing
