@@ -17117,7 +17117,6 @@ coagulants
 coagulate
 coagulated
 coagulates
-coagulating
 coagulation
 coagulations
 coagulative
@@ -17589,6 +17588,7 @@ cochlea
 containerized
 cochleae
 cochlear
+coagulating
 cochleary
 cochlearia
 cochleariform
