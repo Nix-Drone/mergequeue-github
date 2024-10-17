@@ -13090,7 +13090,6 @@ borrower
 borrowers
 borrows
 bors
-blow
 borsches
 borscht
 bridgeheads
@@ -16823,6 +16822,7 @@ buffers
 buffet
 buffeted
 bibliokelpt
+blow
 buffeter
 buffeters
 bubalises
