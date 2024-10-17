@@ -9573,7 +9573,6 @@ checkrows
 checks
 checkstrap
 checkstring
-checksum
 construct
 checksummed
 checksumming
@@ -25388,6 +25387,7 @@ cornmaster
 cornmeal
 cornmeals
 cornmonger
+checksum
 cornmuse
 corno
 curlew
