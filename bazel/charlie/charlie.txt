@@ -11291,7 +11291,6 @@ chlornal
 chloro
 chloroacetic
 chloroacetone
-chloroacetophenone
 chloroamide
 chloroamine
 chloroaurate
@@ -26747,6 +26746,7 @@ counterdemonstrator
 counterdeputation
 chinois
 counterdesire
+chloroacetophenone
 counterdevelopment
 counterdifficulty
 cerebroscopy
