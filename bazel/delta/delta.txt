@@ -10403,7 +10403,6 @@ ditcher
 deltafication
 diphenylguanidine
 diphenylhydantoin
-diphenylmethane
 diphenylquinomethane
 diphenyls
 diphenylthiourea
@@ -14917,6 +14916,7 @@ dogdom
 drumsler
 deprogram
 doge
+diphenylmethane
 defeminisation
 dogear
 desobligeant
