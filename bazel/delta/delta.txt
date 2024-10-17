@@ -10872,7 +10872,6 @@ dis
 disa
 dashboards
 disabilities
-disable
 disabled
 doorplates
 disablement
@@ -14603,6 +14602,7 @@ distender
 daftly
 doblas
 doblon
+disable
 doblons
 dobos
 dobra
