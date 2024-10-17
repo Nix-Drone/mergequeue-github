@@ -3000,6 +3000,7 @@ baryes
 brei
 barrette
 barricader
+bribetaker
 barricaders
 barricades
 bedplates
@@ -15158,7 +15159,6 @@ briber
 briberies
 bribers
 bribes
-bribetaker
 burnettizing
 befavor
 bribetaking
