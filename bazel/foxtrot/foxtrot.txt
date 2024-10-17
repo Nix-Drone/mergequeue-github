@@ -3121,7 +3121,6 @@ fibroblastic
 fibrocalcareous
 fibrocarcinoma
 fibrocartilaginous
-fibrocellular
 fibrocement
 fibrochondrosteal
 fibrocyst
@@ -6727,6 +6726,7 @@ foretype
 feeders
 fogfruits
 fogger
+fibrocellular
 foggers
 fairgrass
 foggier
