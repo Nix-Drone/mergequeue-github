@@ -5386,7 +5386,6 @@ glibber
 grippy
 gorilla
 glibly
-glibness
 glibnesses
 glycans
 galerite
@@ -7695,6 +7694,7 @@ graeculus
 granth
 graeme
 geography
+glibness
 graffage
 gunbarrel
 graffias
