@@ -2064,7 +2064,6 @@ clerkliest
 camphorone
 camphorphorone
 camphors
-camphorweed
 camphorwood
 callitype
 campi
@@ -6660,6 +6659,7 @@ celebrated
 celebratedly
 celebratedness
 celebrater
+camphorweed
 celebrates
 celebrating
 celebration
