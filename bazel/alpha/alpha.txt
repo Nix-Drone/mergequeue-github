@@ -8707,7 +8707,6 @@ alligators
 allyic
 allying
 allyl
-allylate
 allylation
 allylic
 allylthiourea
@@ -20201,6 +20200,7 @@ arrear
 assiduously
 arrearage
 arrearages
+allylate
 arrears
 arrect
 arrector
