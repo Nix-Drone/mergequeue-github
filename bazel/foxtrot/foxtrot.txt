@@ -1992,6 +1992,7 @@ feedbags
 feedbin
 februarius
 feedboard
+flavoured
 feedbox
 feedboxes
 feeder
@@ -5244,7 +5245,6 @@ formulators
 fingertips
 flavour
 fencelike
-flavoured
 flavourful
 flavourfully
 flavoury
