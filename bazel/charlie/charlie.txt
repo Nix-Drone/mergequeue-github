@@ -6963,7 +6963,6 @@ censitaire
 curiosity
 coordinateness
 chondriosomal
-censor
 censorable
 censorate
 censored
@@ -11622,6 +11621,7 @@ cholera
 choleras
 chappie
 choleric
+censor
 cholerically
 cholericly
 cholericness
