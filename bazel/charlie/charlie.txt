@@ -2879,7 +2879,6 @@ cantish
 cantle
 cameograph
 cantles
-cantlet
 cantline
 cantling
 canto
@@ -20592,6 +20591,7 @@ competitress
 challengee
 competitrix
 compilable
+cantlet
 compilation
 compilations
 compilator
