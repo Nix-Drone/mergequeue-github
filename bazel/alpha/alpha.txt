@@ -2528,7 +2528,6 @@ acknowledgements
 acknowledger
 acknowledgers
 acknowledges
-acknowledging
 acknowledgment
 acknowledgments
 ackton
@@ -13239,6 +13238,7 @@ anisaldehyde
 anisaldoxime
 anisamide
 anisandrous
+acknowledging
 anisanilide
 anisanthous
 anisate
