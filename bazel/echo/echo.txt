@@ -2434,7 +2434,6 @@ electroengrave
 electroengraving
 electroextraction
 expedient
-electroform
 electroforming
 electrofusion
 ethanol
@@ -7075,6 +7074,7 @@ entryway
 entryways
 episcopes
 entrochite
+electroform
 eutectoid
 entropy
 entropion
