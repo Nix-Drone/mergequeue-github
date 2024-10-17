@@ -2952,7 +2952,6 @@ feudum
 feuillage
 foreshows
 feuillemorte
-feuillet
 feuilleton
 feuilletonist
 feuilletonistic
@@ -6432,6 +6431,7 @@ farmstead
 fluoridization
 fulcral
 fluoridize
+feuillet
 fluorids
 fourfiusher
 fluoryl
