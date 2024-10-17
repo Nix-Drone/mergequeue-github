@@ -10190,6 +10190,7 @@ barkle
 blacksmith
 blacksmithing
 beastdom
+blindedly
 blacksmiths
 blacksnake
 blackstick
@@ -10831,7 +10832,6 @@ blindball
 bindable
 blindcat
 bevue
-blindedly
 beeyard
 blindeyes
 blinder
