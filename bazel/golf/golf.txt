@@ -681,7 +681,6 @@ gnathonize
 gadaea
 geodesy
 galliot
-galliots
 gurnets
 gallipot
 gallipots
@@ -3146,6 +3145,7 @@ geometricism
 geometricize
 geometrid
 gutterling
+galliots
 glumal
 geometridae
 geometriform
