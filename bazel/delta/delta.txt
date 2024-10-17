@@ -563,7 +563,6 @@ dama
 damage
 damageability
 damageably
-damaged
 damagement
 damageous
 dao
@@ -1953,6 +1952,7 @@ decadents
 decadi
 decadianome
 druery
+damaged
 dauerlauf
 drysalter
 decadic
