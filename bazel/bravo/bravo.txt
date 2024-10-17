@@ -6319,7 +6319,6 @@ benni
 bennies
 benomyl
 benomyls
-benorth
 bensail
 backwrap
 bensall
@@ -8835,6 +8834,7 @@ bloodstone
 bulliest
 binding
 bindingness
+benorth
 bindings
 bindis
 bindle
