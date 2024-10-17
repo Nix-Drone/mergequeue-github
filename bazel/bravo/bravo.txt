@@ -485,7 +485,6 @@ backsliding
 backslidingness
 backspaced
 backspacefile
-backspacer
 blastocoelic
 backspaces
 backspacing
@@ -11541,6 +11540,7 @@ boanthropy
 board
 boardbill
 boarded
+backspacer
 boarder
 boarders
 boardy
