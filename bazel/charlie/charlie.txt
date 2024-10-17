@@ -2756,7 +2756,6 @@ cansos
 congenialize
 canst
 canstick
-cant
 cantabank
 cantabile
 cantabri
@@ -18269,6 +18268,7 @@ cogitating
 cogitation
 cogitations
 cogitative
+cant
 cogitatively
 cogitativity
 cogitator
