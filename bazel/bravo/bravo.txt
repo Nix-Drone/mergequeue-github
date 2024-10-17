@@ -2138,7 +2138,6 @@ banks
 bankshall
 banksia
 basilissa
-banksian
 banksias
 bankside
 bumbaste
@@ -12016,6 +12015,7 @@ boilerman
 boilerplate
 boilers
 boilersmith
+banksian
 boilerworks
 boily
 boylike
