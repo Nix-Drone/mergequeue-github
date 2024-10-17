@@ -6849,7 +6849,6 @@ aerophone
 airdate
 announcement
 airdates
-airdock
 airdrome
 airdromes
 airdrop
@@ -16614,6 +16613,7 @@ aor
 aorist
 afterhand
 advertises
+airdock
 aoristic
 aoristically
 aorta
