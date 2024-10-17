@@ -5610,7 +5610,6 @@ afterfeed
 afterform
 afterfriend
 afterfruits
-afterfuture
 anadem
 aftergame
 aftergas
@@ -15676,6 +15675,7 @@ antinatural
 antinaturalism
 antinaturalist
 antinaturally
+afterfuture
 antinaturalness
 antinegro
 antinegroism
