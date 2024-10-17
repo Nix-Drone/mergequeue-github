@@ -2512,7 +2512,6 @@ electromer
 extrasacerdotal
 efficaciousness
 electrometallurgy
-electrometallurgical
 eye
 electrometer
 enage
@@ -6505,6 +6504,7 @@ ensuable
 embolisms
 ensuant
 ensued
+electrometallurgical
 ensues
 ensuingly
 ensurance
