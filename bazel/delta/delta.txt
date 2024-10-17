@@ -8218,6 +8218,7 @@ derogations
 dele
 diagonal
 diagonalizable
+disburdens
 diagonalization
 diagonalize
 disinteresting
@@ -11215,7 +11216,6 @@ disburdened
 disburdening
 defi
 disburdenment
-disburdens
 disburgeon
 disbury
 disbursals
