@@ -2795,7 +2795,6 @@ cantatrice
 cantatrices
 chestily
 cantatrici
-cantboard
 cantdog
 cantdogs
 canted
@@ -16235,6 +16234,7 @@ clinid
 clinium
 clink
 clinkant
+cantboard
 clinker
 clinkered
 clinkerer
