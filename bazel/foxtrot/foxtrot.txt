@@ -4445,6 +4445,7 @@ fissilinguia
 formatting
 fissility
 formatter
+friendliwise
 fission
 fissionable
 fissioned
@@ -10011,7 +10012,6 @@ friendlessness
 filter
 friendliest
 friendliness
-friendliwise
 flavorsomeness
 fuse
 fenestrone
