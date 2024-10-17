@@ -8797,7 +8797,6 @@ gregorianize
 grey
 greyback
 ghettoing
-globate
 gaffle
 gunmanship
 gm
@@ -10260,6 +10259,7 @@ guisard
 gil
 guisarme
 guise
+globate
 guised
 guitar
 guitarist
