@@ -287,7 +287,6 @@ backarrow
 backarrows
 backout
 backband
-backbar
 backbearing
 biotechnologies
 backbencher
@@ -748,6 +747,7 @@ baddest
 baddy
 baddie
 barlock
+backbar
 betimber
 baddies
 baddish
