@@ -1116,7 +1116,6 @@ edibility
 edible
 expurgatory
 edibleness
-edibles
 edictal
 edictally
 edictum
@@ -2686,6 +2685,7 @@ electrothermostatic
 electrothermotic
 electrotype
 electrotyped
+edibles
 electrotypes
 electrotypy
 escarmouche
