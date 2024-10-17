@@ -506,7 +506,6 @@ abjunctive
 abjuration
 abjurations
 abjuratory
-abjure
 abjured
 abjurement
 abjurer
@@ -19936,6 +19935,7 @@ adminiculary
 agentival
 appended
 armiferous
+abjure
 avidins
 attributives
 armiger
