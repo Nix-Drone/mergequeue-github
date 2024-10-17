@@ -1539,7 +1539,6 @@ deadpanning
 descrial
 dibstones
 deadpans
-deadrise
 deadtongue
 deadweight
 ditto
@@ -12693,6 +12692,7 @@ dislustre
 deictic
 demonstrant
 decorticated
+deadrise
 dislustred
 dismay
 dismayable
