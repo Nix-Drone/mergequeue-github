@@ -7230,7 +7230,6 @@ fibs
 footpath
 footpaths
 fatidic
-footplate
 footpound
 fogs
 footpounds
@@ -8358,6 +8357,7 @@ forlet
 ferulaic
 frenziedness
 forletting
+footplate
 forlive
 forloin
 forlore
