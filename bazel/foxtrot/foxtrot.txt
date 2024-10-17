@@ -3809,7 +3809,6 @@ filmstrips
 filo
 filoplumaceous
 fulmicotton
-filoplume
 filopodia
 filopodium
 filosa
@@ -5811,6 +5810,7 @@ filical
 floater
 fierasfer
 floaters
+filoplume
 follows
 fibulas
 floatier
