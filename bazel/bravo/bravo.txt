@@ -430,6 +430,7 @@ backplane
 backplanes
 backplate
 backpointer
+bulbilla
 backpointers
 backrest
 backrope
@@ -16980,7 +16981,6 @@ bustee
 buettneria
 bulbil
 bulbilis
-bulbilla
 bulbils
 bulblike
 bulbocapnin
