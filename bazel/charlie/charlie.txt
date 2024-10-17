@@ -11230,7 +11230,6 @@ chlorella
 chlorellaceous
 chloremia
 chloremic
-chlorenchyma
 coassistance
 chlorguanide
 chlorhexidine
@@ -18920,6 +18919,7 @@ collect
 cubica
 collectanea
 chylified
+chlorenchyma
 collectarium
 collected
 cuniculi
