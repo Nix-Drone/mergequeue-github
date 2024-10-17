@@ -7219,7 +7219,6 @@ footmen
 footnote
 footnoted
 footpace
-footpaces
 forefather
 feriae
 fifer
@@ -9864,6 +9863,7 @@ fuzee
 frequent
 frequentable
 forced
+footpaces
 factored
 frequentage
 frequented
