@@ -4403,7 +4403,6 @@ ads
 adsbud
 adscendent
 adscititious
-adscript
 adscripted
 adscription
 adscriptitious
@@ -8247,6 +8246,7 @@ allochezia
 alignments
 aligns
 aligreek
+adscript
 aliya
 aliyah
 aliyahaliyahs
