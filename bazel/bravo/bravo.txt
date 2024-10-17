@@ -13855,7 +13855,6 @@ bobsledder
 broquineer
 boxes
 boxful
-boxfuls
 boxhaul
 boxhauled
 brierberry
@@ -15126,6 +15125,7 @@ bryaceae
 bryaceous
 bryales
 bryanism
+boxfuls
 bryanite
 bryanthus
 briar
