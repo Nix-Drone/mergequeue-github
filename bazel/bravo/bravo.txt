@@ -634,6 +634,7 @@ bacteriform
 bacterin
 borofluoric
 bacterioagglutinin
+battleship
 bacterioblast
 bacteriochlorophyll
 bacteriocin
@@ -3814,7 +3815,6 @@ battleplane
 barnstorms
 battler
 battles
-battleship
 battleships
 buhr
 battlesome
