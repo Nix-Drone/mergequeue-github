@@ -2220,7 +2220,6 @@ gazetteerish
 gazetteers
 goon
 gazetteership
-gremlin
 gazettes
 gazetting
 gazing
@@ -6338,6 +6337,7 @@ gelee
 gnosticize
 globulousness
 gnostology
+gremlin
 gastrotheca
 gnotobiologies
 geadephagous
