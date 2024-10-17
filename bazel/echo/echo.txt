@@ -4812,7 +4812,6 @@ enlimn
 encoil
 encolden
 encollar
-euryalean
 equitangential
 encolour
 encolpia
@@ -8580,6 +8579,7 @@ equatable
 equate
 equates
 equating
+euryalean
 essentializing
 equation
 equational
