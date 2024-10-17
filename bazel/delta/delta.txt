@@ -10698,7 +10698,6 @@ downstater
 diprimary
 diprismatic
 dipropargyl
-dipropellant
 dipropyl
 deficit
 diprotic
@@ -13828,6 +13827,7 @@ dadding
 distillment
 distillmint
 distilment
+dipropellant
 distils
 distinct
 distinctify
