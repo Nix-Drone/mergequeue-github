@@ -1839,7 +1839,6 @@ apectomy
 accusatorial
 accusatrix
 accusatrixes
-accuse
 accused
 accuser
 accusers
@@ -2670,6 +2669,7 @@ acquaintanceship
 acquaintanceships
 asymmetrocarpous
 acquaintancy
+accuse
 acquaintant
 acquainted
 amidocyanogen
