@@ -4908,7 +4908,6 @@ formulize
 flameproofer
 flintlocks
 finfishes
-flamer
 flamers
 ferneries
 fallback
@@ -8406,6 +8405,7 @@ fargoing
 formals
 fenianism
 formations
+flamer
 folies
 flingdust
 formats
