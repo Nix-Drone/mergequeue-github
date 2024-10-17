@@ -5841,7 +5841,6 @@ glossolabiolaryngeal
 glossal
 gudebrother
 glossalgy
-glossalgia
 glossarial
 glossarian
 glossarist
@@ -6116,6 +6115,7 @@ glumes
 gavelkinder
 gaincome
 goblinize
+glossalgia
 gyred
 glumly
 glummer

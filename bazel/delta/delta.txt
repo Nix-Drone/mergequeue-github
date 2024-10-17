@@ -8200,7 +8200,6 @@ diagnosable
 diagnose
 dipus
 diagnosed
-diagnoses
 diagnosis
 diagnostical
 disjunction
@@ -17045,6 +17044,7 @@ diakonika
 diphyletic
 dretch
 drevel
+diagnoses
 drew
 decohere
 drewite
