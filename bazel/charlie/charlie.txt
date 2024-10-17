@@ -2407,7 +2407,6 @@ candlelighted
 candlelighter
 cytogenesis
 confraternities
-candlelighting
 candlelit
 candlemaker
 candlemaking
@@ -2603,6 +2602,7 @@ colts
 canner
 cancerphobia
 cannery
+candlelighting
 cankers
 cannet
 cannetille
