@@ -5976,6 +5976,7 @@ grain
 glovemaker
 gametes
 gloveman
+gudget
 glover
 gloves
 glow
@@ -10011,7 +10012,6 @@ gudgeon
 gauntly
 gudgeons
 gowned
-gudget
 gudok
 grypanian
 gudrun
