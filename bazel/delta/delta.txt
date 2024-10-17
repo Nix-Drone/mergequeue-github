@@ -4547,7 +4547,6 @@ demibarrel
 demibastion
 demibastioned
 demibath
-demibeast
 demibelt
 demibrassart
 demibrigade
@@ -9155,6 +9154,7 @@ dye
 desoxycinchonine
 dyeability
 dyeable
+demibeast
 ditriglyph
 dieb
 diebacks
