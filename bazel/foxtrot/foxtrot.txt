@@ -1098,7 +1098,6 @@ farmland
 farmost
 farmout
 fasteners
-fisc
 farms
 farmscape
 farmsteads
@@ -2379,6 +2378,7 @@ fenter
 flippest
 fenzelia
 feod
+fisc
 feodatory
 falconer
 fehmic
