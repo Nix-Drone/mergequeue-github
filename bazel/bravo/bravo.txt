@@ -8267,6 +8267,7 @@ bietle
 byeworker
 byeworkman
 bluejoint
+begarie
 bifaces
 bifacial
 bifara
@@ -12676,7 +12677,6 @@ bedot
 bookman
 bidarka
 bookmark
-begarie
 bookmarker
 borderline
 bookmarks
