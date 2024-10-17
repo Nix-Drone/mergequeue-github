@@ -5141,7 +5141,6 @@ endocrinopath
 ecphasis
 embosser
 endocrinopathic
-endocritic
 eruca
 endoderm
 endodermal
@@ -13022,6 +13021,7 @@ expenditure
 enfonced
 expenditures
 expense
+endocritic
 ephedrin
 expensed
 expenseful
