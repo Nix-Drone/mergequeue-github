@@ -16093,7 +16093,6 @@ clientage
 cliental
 cliented
 clientelage
-clienteles
 cycloidian
 clientry
 clients
@@ -22694,6 +22693,7 @@ conquerment
 conqueror
 conquerors
 conquers
+clienteles
 conquest
 conquians
 conquinamine
