@@ -20336,7 +20336,6 @@ commutability
 commutable
 clothier
 commutableness
-commutant
 commutate
 commutated
 commutation
@@ -21791,6 +21790,7 @@ conopholis
 citizendom
 conenose
 conenoses
+commutant
 conepates
 conepatl
 coner
