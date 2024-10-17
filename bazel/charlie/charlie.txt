@@ -18361,7 +18361,6 @@ cogweel
 cogweels
 capelets
 cogwheels
-cogwood
 cohabitancy
 cohabitant
 cohabitate
@@ -27094,6 +27093,7 @@ counterstatant
 counterstatement
 counterstep
 counterstimulate
+cogwood
 counterstimulation
 counterstimulus
 counterstock
