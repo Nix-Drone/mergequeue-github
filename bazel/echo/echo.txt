@@ -1122,7 +1122,6 @@ edictally
 edictum
 edicule
 edify
-echolalia
 expectorator
 edificate
 edification
@@ -5515,6 +5514,7 @@ enervate
 enervates
 enervating
 enzymosis
+echolalia
 enervation
 enervators
 enervous
