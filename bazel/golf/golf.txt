@@ -1434,7 +1434,6 @@ grivet
 graphologist
 greengrocery
 garlandless
-garlandlike
 garlandry
 galvanist
 garle
@@ -2353,6 +2352,7 @@ geic
 geyerite
 geiger
 gangrel
+garlandlike
 gemsboks
 glede
 gantryman
