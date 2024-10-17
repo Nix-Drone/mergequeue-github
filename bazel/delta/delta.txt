@@ -1443,7 +1443,6 @@ dca
 deceived
 dcb
 dclass
-dcollet
 dcor
 ddname
 disillusionise
@@ -10883,6 +10882,7 @@ disablers
 disables
 disabling
 deafforest
+dcollet
 dignitas
 dialysers
 disabuse
