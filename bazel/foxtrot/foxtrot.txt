@@ -7573,7 +7573,6 @@ forechoice
 forechoir
 faith
 foregame
-forechoose
 foreclaw
 foreclose
 foreclosed
@@ -8212,6 +8211,7 @@ fioriture
 forficulidae
 forcive
 forfit
+forechoose
 forfouchten
 forfoughten
 finestra
