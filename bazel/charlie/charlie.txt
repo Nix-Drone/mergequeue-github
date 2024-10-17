@@ -8599,6 +8599,7 @@ chancelled
 chancellery
 chancelleries
 chancellor
+convictions
 chancellorate
 chancelloress
 chancellory
@@ -24156,7 +24157,6 @@ convictfish
 convictible
 conviction
 convictional
-convictions
 convictism
 cresolin
 connexive
