@@ -3965,6 +3965,7 @@ centaurian
 cardialgia
 calla
 cardiameter
+cofeatures
 cardiamorphia
 cardianesthesia
 cardianeuria
@@ -18161,7 +18162,6 @@ cofather
 cartoned
 cofathership
 cofeature
-cofeatures
 coferment
 cofermentation
 coffea
