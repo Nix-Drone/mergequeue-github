@@ -7294,6 +7294,7 @@ daidled
 deti
 detick
 deticked
+diphenylene
 deticker
 detickers
 deticks
@@ -10395,7 +10396,6 @@ diphenylacetylene
 diphenylamine
 diphenylaminechlorarsine
 diphenylchloroarsine
-diphenylene
 diphenylenimide
 diphenylenimine
 decern
