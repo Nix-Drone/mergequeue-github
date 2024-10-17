@@ -5468,7 +5468,6 @@ fleshling
 fleshmonger
 fleshpot
 fleshquake
-flet
 flagfall
 fleta
 fletched
@@ -5885,6 +5884,7 @@ floggers
 facilely
 forehand
 flogmaster
+flet
 freethinking
 flogs
 flogster
