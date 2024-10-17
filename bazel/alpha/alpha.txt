@@ -4370,7 +4370,6 @@ adrenocortical
 adrenocorticosteroid
 aurorae
 adrenocorticotrophic
-ammonolysis
 adrenocorticotropic
 adrenolysis
 adrenomedullary
@@ -19819,6 +19818,7 @@ arithmancy
 arithmetic
 arithmetically
 aoudads
+ammonolysis
 austria
 arithmetician
 arithmeticians
