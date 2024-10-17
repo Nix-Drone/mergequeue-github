@@ -1984,7 +1984,6 @@ grissel
 gatteridge
 ghettoizes
 gaub
-gauche
 gauchely
 gaucheries
 gaud
@@ -6668,6 +6667,7 @@ gnathopod
 goldstone
 goldtit
 gnash
+gauche
 goldurned
 goldurns
 goldwork
