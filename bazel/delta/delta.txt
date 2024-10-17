@@ -5862,7 +5862,6 @@ depositor
 depositories
 depositors
 deposits
-depositum
 daimon
 doumaist
 decasualise
@@ -16465,6 +16464,7 @@ deviousness
 dozzle
 dozzled
 dignifies
+depositum
 dpt
 dr
 draba
