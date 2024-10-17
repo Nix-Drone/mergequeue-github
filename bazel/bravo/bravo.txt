@@ -3592,7 +3592,6 @@ bathflower
 bathhouse
 bathhouses
 bathyal
-bathyanesthesia
 braggest
 bathybius
 bathic
@@ -9101,6 +9100,7 @@ biophagism
 biophagous
 biophilous
 biophysic
+bathyanesthesia
 branchstand
 biophysical
 biophysicist
