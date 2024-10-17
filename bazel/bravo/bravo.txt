@@ -6200,7 +6200,6 @@ benefaction
 benefactive
 benefactor
 benefactors
-bhikhari
 benefactress
 benefactresses
 benefactrices
@@ -16950,6 +16949,7 @@ buildup
 buildups
 builtin
 bromated
+bhikhari
 buyouts
 buirdly
 buys
