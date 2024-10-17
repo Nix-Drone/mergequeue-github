@@ -2705,7 +2705,6 @@ foghorns
 ferulaceous
 ferular
 ferulas
-ferule
 feruled
 flatways
 ferulic
@@ -8362,6 +8361,7 @@ forlive
 forloin
 forlore
 forlorn
+ferule
 foredestined
 forlornly
 flotilla
