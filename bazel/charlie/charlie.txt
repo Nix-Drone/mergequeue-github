@@ -5766,7 +5766,6 @@ catenate
 crooisite
 catenates
 catenating
-catenation
 catenative
 catenoid
 consciencelessness
@@ -8871,6 +8870,7 @@ concurbit
 chaptalization
 chaptalize
 chapter
+catenation
 chapteral
 chaptered
 chapterhouse
