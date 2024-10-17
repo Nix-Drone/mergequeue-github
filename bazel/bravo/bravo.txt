@@ -3620,7 +3620,6 @@ bathymetrical
 bathinette
 bathing
 bulreedy
-bathypelagic
 bastinadoes
 babesiasis
 bathyplankton
@@ -5758,6 +5757,7 @@ belitter
 belittle
 barometers
 belittled
+bathypelagic
 belittlement
 belittler
 bowieful
