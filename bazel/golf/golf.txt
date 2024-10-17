@@ -2438,7 +2438,6 @@ galactoside
 genom
 gelatinity
 gelatinizability
-gelatinizable
 gelatinization
 gruppetto
 gelatinized
@@ -8294,6 +8293,7 @@ grassiness
 geast
 gobos
 grassland
+gelatinizable
 grasslike
 gasterosteiform
 gadolinite
