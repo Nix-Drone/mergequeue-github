@@ -4799,6 +4799,7 @@ frontspiece
 flagpole
 faunula
 figurehead
+flenches
 flagpoles
 flagrance
 flagrancy
@@ -5426,7 +5427,6 @@ fontanges
 flawlessly
 flus
 flenched
-flenches
 flensed
 flenser
 flensers
