@@ -9662,7 +9662,6 @@ cheeseboard
 cheesebox
 cheeseburger
 cheeseburgers
-cheesecake
 cheesecakes
 cheesecloth
 cheesecloths
@@ -30857,6 +30856,7 @@ cultivated
 cultivates
 cultivating
 cultivation
+cheesecake
 capitoninae
 cultivations
 cultivative
