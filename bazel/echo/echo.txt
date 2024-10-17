@@ -6383,7 +6383,6 @@ ensheathing
 ensheaths
 enshell
 enshelter
-enshield
 eprouvette
 enumerating
 enshielded
@@ -8758,6 +8757,7 @@ equiradial
 echo
 equiradical
 equirotal
+enshield
 escopet
 equisetaceous
 ecstatics
