@@ -941,7 +941,6 @@ absentment
 absentminded
 absentmindedly
 absentmindedness
-absentness
 absents
 absfarad
 abshenry
@@ -20162,6 +20161,7 @@ anamorphoses
 arrayals
 arrayan
 academizing
+absentness
 arraign
 arraignable
 arraignableness
