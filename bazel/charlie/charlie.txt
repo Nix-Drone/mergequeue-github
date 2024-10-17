@@ -18330,7 +18330,6 @@ cognomen
 cognomens
 chelonidae
 cognominal
-cognominally
 cognominate
 cognominated
 cognomination
@@ -27446,6 +27445,7 @@ covenanted
 covenantee
 covenanter
 covenanting
+cognominally
 covenantor
 covenants
 covent
