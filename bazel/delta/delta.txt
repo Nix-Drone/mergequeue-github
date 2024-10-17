@@ -3603,6 +3603,7 @@ disguise
 definition
 degass
 degassed
+disanimated
 degassing
 degauss
 degaussing
@@ -11001,7 +11002,6 @@ disanalogous
 disanchor
 disangularize
 disanimal
-disanimated
 disanimation
 disanney
 disannex
