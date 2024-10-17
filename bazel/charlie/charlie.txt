@@ -26610,7 +26610,6 @@ counselor
 counsels
 count
 countability
-countable
 countableness
 countdom
 countdown
@@ -27183,6 +27182,7 @@ counterweights
 counterwheel
 counterwilling
 counterwind
+countable
 counterwitness
 crushableness
 counterwork
