@@ -2460,7 +2460,6 @@ ferlies
 foretriangle
 ferlying
 ferling
-fermacy
 fermail
 fermal
 fermata
@@ -5883,6 +5882,7 @@ ferrotypes
 flogger
 floggers
 facilely
+fermacy
 forehand
 flogmaster
 freethinking
