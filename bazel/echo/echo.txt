@@ -1221,7 +1221,6 @@ educable
 educables
 educand
 educatability
-epicrystalline
 eident
 educatable
 educate
@@ -7319,6 +7318,7 @@ eole
 eolian
 eolipile
 eolipiles
+epicrystalline
 eolithic
 eolopile
 eolopiles
