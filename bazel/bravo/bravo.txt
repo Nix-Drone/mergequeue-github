@@ -1597,7 +1597,6 @@ ballgames
 ballgowns
 ballhausplatz
 ballhawk
-ballhawks
 ballhooter
 balli
 bullwhack
@@ -17922,6 +17921,7 @@ busera
 buses
 bush
 bushbashing
+ballhawks
 bushbeck
 bushbody
 bushbodies
