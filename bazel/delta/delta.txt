@@ -5264,7 +5264,6 @@ denotatum
 denote
 denoted
 denotement
-denotes
 denoting
 denotive
 denouement
@@ -16158,6 +16157,7 @@ doveflower
 dovefoot
 decadarch
 dovehouse
+denotes
 dovekeys
 dovekies
 dovelet
