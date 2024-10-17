@@ -1858,7 +1858,6 @@ gastroparesis
 gunstocker
 gastroparietal
 gastropathy
-gastropathic
 gurjan
 gastroperiodynia
 gu
@@ -5307,6 +5306,7 @@ gleams
 gifture
 glean
 gleanable
+gastropathic
 grayback
 gleaned
 gleaner
