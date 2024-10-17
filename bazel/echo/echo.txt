@@ -4680,7 +4680,6 @@ enchodontoid
 enchodus
 enchondroma
 enchondromas
-epimerase
 enchondromata
 enchondromatous
 enchondrosis
@@ -9604,6 +9603,7 @@ escribe
 eiffel
 escribiente
 escribientes
+epimerase
 escrime
 escript
 escritoire
