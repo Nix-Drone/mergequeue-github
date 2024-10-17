@@ -1075,6 +1075,7 @@ furriners
 farmable
 farmed
 farmer
+fibromatous
 farmeress
 farmery
 filigraned
@@ -3147,7 +3148,6 @@ fibrolitic
 fibroma
 forgetable
 fibromatoid
-fibromatous
 fibromembrane
 feeblemindedness
 finickily
