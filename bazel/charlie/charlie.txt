@@ -7472,7 +7472,6 @@ ceratoglossal
 ceratoglossus
 ceratohyal
 ceratohyoid
-ceratoid
 ceratomandibular
 ceratomania
 ceratonia
@@ -26011,6 +26010,7 @@ coshing
 cosy
 carapacial
 cosie
+ceratoid
 cosier
 cosies
 cosign
