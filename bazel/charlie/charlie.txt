@@ -4881,6 +4881,7 @@ cartist
 cartload
 cartloads
 cartmaker
+croodle
 cartmaking
 cartobibliography
 cartogram
@@ -29715,7 +29716,6 @@ cronkness
 cronus
 crooch
 crood
-croodle
 crook
 crookbacked
 crookbill
