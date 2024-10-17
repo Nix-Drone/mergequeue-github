@@ -5216,7 +5216,6 @@ bohemias
 beg
 begabled
 begad
-begalled
 begalls
 boarcite
 bepaints
@@ -6105,6 +6104,7 @@ bemurmur
 bemurmure
 bemurmuring
 bemurmurs
+begalled
 burnings
 bemuse
 bemuses
