@@ -5946,7 +5946,6 @@ fluidizing
 floorless
 floors
 fiddleback
-floorshift
 fawny
 floorshifts
 floorshow
@@ -6255,6 +6254,7 @@ fluer
 fourrier
 forfeiting
 flueric
+floorshift
 fluerics
 flues
 fluework
