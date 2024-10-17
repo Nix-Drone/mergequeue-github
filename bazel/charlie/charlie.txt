@@ -8608,7 +8608,6 @@ chancellorships
 chancelor
 chancelry
 calathidium
-chancels
 chanceman
 chancemen
 conoscente
@@ -21955,6 +21954,7 @@ configurations
 concolorous
 configurative
 configure
+chancels
 configured
 configures
 configuring
