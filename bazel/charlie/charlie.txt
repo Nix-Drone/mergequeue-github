@@ -1142,7 +1142,6 @@ caldrons
 calean
 caleb
 calebite
-calebites
 cichar
 caleche
 caleches
@@ -21315,6 +21314,7 @@ conchometry
 conchospiral
 conchostraca
 conchotome
+calebites
 conchs
 conchubar
 coplots
