@@ -6690,7 +6690,6 @@ blowers
 bergaptene
 buoyance
 bergeret
-bergfall
 benefactions
 berggylt
 bibliographical
@@ -9926,6 +9925,7 @@ bikes
 bituminosis
 bituminous
 bitwise
+bergfall
 biune
 biunial
 bulltoad
