@@ -18069,7 +18069,6 @@ cruses
 coequated
 coequates
 carling
-coequation
 coerce
 coerceable
 coerced
@@ -21449,6 +21448,7 @@ concordancy
 concordant
 concordantial
 convincingly
+coequation
 cankerworm
 councilorship
 concordantly
