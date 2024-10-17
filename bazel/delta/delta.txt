@@ -7295,7 +7295,6 @@ deti
 detick
 deticked
 deticker
-detickers
 deticks
 detin
 detinet
@@ -8762,6 +8761,7 @@ dib
 dibasicity
 dishonorable
 dibbed
+detickers
 dibber
 dibbing
 deterring
