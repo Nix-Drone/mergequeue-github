@@ -9212,7 +9212,6 @@ frache
 function
 fracid
 fouls
-forklike
 fractal
 fracted
 fungify
@@ -10907,6 +10906,7 @@ fulgurated
 fulgurating
 facade
 fulguration
+forklike
 fulgurite
 fluxroot
 fulgurous
