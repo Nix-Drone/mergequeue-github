@@ -11588,7 +11588,6 @@ anaerobe
 anaerobes
 anaerobian
 anaerobic
-anaerobically
 anaerobies
 anaerobion
 anaerobiont
@@ -24201,6 +24200,7 @@ automatized
 automatizes
 automatizing
 automatonlike
+anaerobically
 automatons
 automatonta
 automatontons
