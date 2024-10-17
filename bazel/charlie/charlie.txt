@@ -7462,7 +7462,6 @@ ceratobatrachinae
 celebrator
 ceratoblast
 ceratobranchial
-ceratocystis
 ceratocricoid
 ceratodidae
 ceratodontidae
@@ -11731,6 +11730,7 @@ chondriosomes
 colubriformia
 chondriosphere
 chondrites
+ceratocystis
 chondritic
 chondritis
 chondroadenoma
