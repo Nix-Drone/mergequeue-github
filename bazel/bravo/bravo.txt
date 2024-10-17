@@ -1884,6 +1884,7 @@ bandager
 bandages
 bandaging
 brakes
+behaviors
 bandagist
 bandaid
 bandala
@@ -8518,7 +8519,6 @@ bilateral
 bilateralism
 bilaterality
 bilateralities
-behaviors
 bilaterally
 bothriums
 bilati
