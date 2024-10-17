@@ -18787,7 +18787,6 @@ archbuilder
 archchampion
 archcheater
 archchemic
-archchronicler
 archconfraternity
 archconsoler
 archconspirator
@@ -19593,6 +19592,7 @@ arguably
 argue
 argued
 attender
+archchronicler
 arguer
 arguers
 argues
