@@ -6479,7 +6479,6 @@ benzols
 benzonaphthol
 benzonitrile
 benzoperoxide
-benzophenanthrazine
 benzophenazine
 benzophenol
 benzophenone
@@ -16081,6 +16080,7 @@ broodiest
 burgundian
 broodily
 broodiness
+benzophenanthrazine
 broodingly
 barba
 broodless
