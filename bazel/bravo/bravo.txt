@@ -6476,7 +6476,6 @@ benzole
 benzoline
 benzolize
 benzols
-benzonaphthol
 benzonitrile
 benzoperoxide
 benzophenanthrazine
@@ -12924,6 +12923,7 @@ borasque
 borassus
 borated
 borates
+benzonaphthol
 borax
 boraxes
 borazon
