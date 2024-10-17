@@ -4989,7 +4989,6 @@ archdapifership
 autophotometry
 aquavalent
 aerohydrous
-anodine
 aerolite
 apocopate
 aerolites
@@ -10490,6 +10489,7 @@ amygdules
 amigo
 amigos
 amiidae
+anodine
 amil
 amylaceous
 amylamine
