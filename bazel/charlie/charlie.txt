@@ -11870,7 +11870,6 @@ choragion
 choragus
 choraguses
 chorai
-choral
 choralcelo
 chorale
 choraleon
@@ -19591,6 +19590,7 @@ columnize
 columnized
 creeperless
 columnizes
+choral
 columnizing
 columns
 columnwise
