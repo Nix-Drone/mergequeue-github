@@ -3705,7 +3705,6 @@ embryotrophy
 embrittle
 embrittled
 embrittling
-embryulci
 embryulcia
 extraboldface
 embryulculci
@@ -7449,6 +7448,7 @@ epembryonic
 epencephala
 embittering
 epencephalic
+embryulci
 epencephalon
 epencephalons
 explorative
