@@ -1981,7 +1981,6 @@ daimen
 decagons
 decagram
 decagramme
-decagrams
 decahedra
 decahedral
 decahedron
@@ -15491,6 +15490,7 @@ donicker
 diageotropism
 dendritically
 donjon
+decagrams
 donjons
 donk
 donkeyback
