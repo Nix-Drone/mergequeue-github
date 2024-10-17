@@ -2653,6 +2653,7 @@ autodetector
 airframes
 acouometer
 acouophonia
+anatomizable
 acoluthic
 acoup
 acoupa
@@ -12069,7 +12070,6 @@ anatomiser
 anatomising
 anatomist
 anatomists
-anatomizable
 anatomization
 anatomize
 anatomized
