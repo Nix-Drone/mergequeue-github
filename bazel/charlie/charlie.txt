@@ -5155,7 +5155,6 @@ casketed
 casketlike
 caskets
 casky
-casking
 casklike
 casks
 caspar
@@ -20150,6 +20149,7 @@ commistion
 caulite
 commit
 commitment
+casking
 commitments
 commits
 committable
