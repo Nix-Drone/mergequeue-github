@@ -14229,7 +14229,6 @@ circularizing
 circularly
 circularness
 circulars
-circulatable
 circulated
 circulates
 circulation
@@ -26610,6 +26609,7 @@ counselor
 counsels
 count
 countability
+circulatable
 countable
 countableness
 countdom
