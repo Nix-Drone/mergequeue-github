@@ -5097,7 +5097,6 @@ caserns
 cases
 casette
 casettes
-caseum
 caseweed
 casewood
 caseworker
@@ -30855,6 +30854,7 @@ cultivatable
 cultivate
 cultivated
 cultivates
+caseum
 cultivating
 cultivation
 capitoninae
