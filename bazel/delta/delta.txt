@@ -4599,7 +4599,6 @@ demigod
 demigoddess
 demigods
 demigorge
-demigrate
 demigriffin
 dermochrome
 demigroat
@@ -17277,6 +17276,7 @@ drofland
 droger
 drogerman
 dispiece
+demigrate
 drogh
 disaster
 drogher
