@@ -19925,7 +19925,6 @@ armfuls
 armgaunt
 armguard
 asidehand
-armhole
 armholes
 armhoop
 army
@@ -22364,6 +22363,7 @@ aswarm
 aswash
 asweat
 aswell
+armhole
 asweve
 anthood
 aswim
