@@ -10234,7 +10234,6 @@ amenity
 antiseption
 amenities
 amenorrhea
-amenorrheal
 amenorrheic
 amenorrho
 amenorrhoea
@@ -13217,6 +13216,7 @@ animose
 animoseness
 animosity
 assignations
+amenorrheal
 animosities
 animoso
 animotheism
