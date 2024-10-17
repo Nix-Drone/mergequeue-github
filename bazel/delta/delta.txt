@@ -3212,7 +3212,6 @@ defectibility
 defectible
 dhangar
 defecting
-diplomacy
 departmentalizing
 defection
 defectious
@@ -10542,6 +10541,7 @@ diplococcocci
 diplococcoid
 downsize
 deciduary
+diplomacy
 defiled
 diplococcus
 diplocoria
