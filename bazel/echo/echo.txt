@@ -5332,7 +5332,6 @@ epiphyte
 estrangement
 endosteitis
 endosteoma
-endosteomas
 endosteomata
 endosteum
 endostylar
@@ -8685,6 +8684,7 @@ equimolal
 equimolar
 espinillo
 equimultiple
+endosteomas
 equinal
 environage
 expel
