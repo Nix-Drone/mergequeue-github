@@ -1770,7 +1770,6 @@ goriest
 gastrocoloptosis
 gastrocolostomy
 gastrocolotomy
-gastrodermal
 glutaraldehyde
 gastrodermis
 gestations
@@ -8007,6 +8006,7 @@ granitiferous
 granitification
 granitiform
 granitite
+gastrodermal
 granitization
 granitized
 granitizing
