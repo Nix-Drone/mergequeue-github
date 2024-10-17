@@ -3326,7 +3326,6 @@ froglet
 fidge
 fidged
 fidges
-frameable
 fidget
 fidgetation
 fidgeted
@@ -3571,6 +3570,7 @@ filao
 forsterite
 filaree
 fishboats
+frameable
 filarees
 filariae
 filarian
