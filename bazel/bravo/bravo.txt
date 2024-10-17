@@ -10301,7 +10301,6 @@ blanch
 blanche
 blanched
 blancher
-blanchers
 blanches
 blanchimeter
 blanching
@@ -12510,6 +12509,7 @@ barwing
 bonnaz
 bonne
 bedplate
+blanchers
 bonnes
 bonnet
 bonneted
