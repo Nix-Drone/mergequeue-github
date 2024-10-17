@@ -6262,7 +6262,6 @@ desugar
 dermatomic
 dermatomyces
 divorceuse
-dermatomycosis
 dermatomyoma
 dermatomuscular
 dermatoneural
@@ -16638,6 +16637,7 @@ dragonroot
 dragons
 dragonwort
 dismality
+dermatomycosis
 dragoonable
 dragoonade
 dragoonage
