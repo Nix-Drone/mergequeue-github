@@ -5022,7 +5022,6 @@ endexines
 eardrum
 endgate
 enfief
-endhand
 endia
 endiablee
 endiadem
@@ -6478,6 +6477,7 @@ emit
 evaporator
 educement
 ensoul
+endhand
 ensouled
 eanlings
 equivocality
