@@ -7904,7 +7904,6 @@ epigrammatize
 epigrammatized
 echoingly
 epigrammatizer
-epigrammatizing
 epigrams
 epigraph
 epigrapher
@@ -12129,6 +12128,7 @@ excoriating
 electrosurgically
 enrages
 excoriation
+epigrammatizing
 excoriations
 excorticate
 effluviums
