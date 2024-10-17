@@ -5084,7 +5084,6 @@ glairiness
 glaister
 girouettes
 glaistig
-glaived
 gara
 glaives
 glaked
@@ -10572,6 +10571,7 @@ gunship
 golp
 gunships
 gunshop
+glaived
 graybeards
 gunshot
 gunslinger
