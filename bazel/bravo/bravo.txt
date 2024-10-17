@@ -2560,7 +2560,6 @@ barfish
 barfs
 bargain
 bargainable
-billbugs
 bargainee
 bargainer
 bargaining
@@ -4868,6 +4867,7 @@ bate
 bedtime
 bedub
 beduchess
+billbugs
 beduck
 begay
 beduins
