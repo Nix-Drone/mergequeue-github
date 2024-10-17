@@ -71,7 +71,6 @@ babery
 bunkermen
 babeship
 babesia
-boardinghouses
 babesias
 babesiosis
 babhan
@@ -1575,6 +1574,7 @@ ballatoon
 barkbound
 ballbuster
 ballcarrier
+boardinghouses
 balldom
 balled
 barbules
