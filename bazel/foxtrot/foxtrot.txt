@@ -1085,6 +1085,7 @@ farmerlike
 farmership
 farmhold
 farmhouse
+filicologist
 feronia
 farmhousey
 fontinalaceae
@@ -2636,7 +2637,6 @@ ferrometer
 ferronatrite
 ferronickel
 ferrophosphorus
-filicologist
 frustulose
 ferrotype
 ferrotyped
