@@ -3681,6 +3681,7 @@ adenohypophyseal
 adenohypophysial
 attrib
 adenohypophysis
+alkine
 adenoid
 adenoidal
 adenoidectomy
@@ -8503,7 +8504,6 @@ alkylogen
 alkyloxy
 alkyls
 alkin
-alkine
 alkyne
 alkynes
 alkitran
