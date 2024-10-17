@@ -1906,7 +1906,6 @@ gastrostomy
 gastrostomies
 gastrostomize
 gastrostomus
-gastrotaxis
 gastrothecal
 gastrotome
 gastrotomy
@@ -6294,6 +6293,7 @@ gneiss
 gneisses
 gneissitic
 gneissoid
+gastrotaxis
 gombos
 gnessic
 gomarist
