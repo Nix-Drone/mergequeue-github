@@ -26660,7 +26660,6 @@ chende
 counterartillery
 counterassociation
 counterassurance
-cammock
 counterattack
 counterattacked
 counterattacker
@@ -29807,6 +29806,7 @@ crossarms
 calculate
 crossband
 crossbanded
+cammock
 crossbanding
 crossbar
 crossbarred
