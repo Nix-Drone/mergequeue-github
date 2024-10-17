@@ -2999,7 +2999,6 @@ barricaded
 baryes
 brei
 barrette
-barricader
 barricaders
 barricades
 bedplates
@@ -3788,6 +3787,7 @@ batterman
 batters
 batteuse
 batty
+barricader
 bemadamed
 battycake
 battier
