@@ -2526,6 +2526,7 @@ fernlike
 farsakh
 ferns
 fernseed
+fineleaf
 flustrum
 fernshaw
 forlorner
@@ -3932,7 +3933,6 @@ foggage
 franchisal
 fined
 fineish
-fineleaf
 frounces
 finement
 fineness
