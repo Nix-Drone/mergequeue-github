@@ -16485,7 +16485,6 @@ crewer
 clockroom
 clocksmith
 clockwatcher
-clockworked
 clockworks
 clod
 clodbreaker
@@ -17232,6 +17231,7 @@ canonically
 coaptation
 coapted
 coapting
+clockworked
 coapts
 coaration
 coarb
