@@ -2803,6 +2803,7 @@ decrees
 decreet
 dop
 decrement
+deflagrability
 decremental
 decrementing
 decrements
@@ -18638,7 +18639,6 @@ dux
 duennadom
 duxelles
 duxes
-deflagrability
 dvigu
 dwayberry
 dwaible
