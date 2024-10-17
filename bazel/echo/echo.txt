@@ -8705,7 +8705,6 @@ ethrogs
 electrolyzing
 equipage
 equipages
-equiparable
 equiparation
 equipartile
 equipartisan
@@ -9972,6 +9971,7 @@ esterified
 esterifying
 esterization
 esterize
+equiparable
 esterizing
 esterlin
 enterocrinin
