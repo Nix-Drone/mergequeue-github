@@ -3422,6 +3422,7 @@ captation
 caption
 captioned
 captioning
+chirrs
 captionless
 captions
 captious
@@ -11017,7 +11018,6 @@ chirps
 chirr
 chirre
 chirring
-chirrs
 coscoroba
 chirrup
 chirruper
