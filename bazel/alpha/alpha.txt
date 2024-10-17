@@ -3086,7 +3086,6 @@ alalunga
 actinocrinidae
 actinocrinite
 actinocrinus
-actinodielectric
 actuary
 actinodrome
 actinodromous
@@ -6539,6 +6538,7 @@ aguamiel
 aguardiente
 aguavina
 athelia
+actinodielectric
 agudist
 aguey
 aguelike
