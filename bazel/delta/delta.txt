@@ -5785,7 +5785,6 @@ depoetize
 depoh
 depolarisation
 depolarise
-drapeable
 depolarised
 depolariser
 darksome
@@ -10824,6 +10823,7 @@ direption
 direr
 decanormal
 deringa
+drapeable
 direx
 dirge
 dirged
