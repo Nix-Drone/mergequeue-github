@@ -1186,7 +1186,6 @@ alkyd
 abutting
 abuzz
 anodendron
-abvolt
 abvolts
 abwab
 abwatt
@@ -13137,6 +13136,7 @@ animalcule
 animalcules
 animalculine
 animalculism
+abvolt
 animalculous
 animalculum
 animalhood
