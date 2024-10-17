@@ -57,7 +57,6 @@ facecloth
 firestone
 faced
 foreladies
-faceharden
 faceless
 flecken
 facelessness
@@ -2981,6 +2980,7 @@ fevergum
 forbidal
 fudgy
 forefault
+faceharden
 fevering
 feverish
 fantasias
