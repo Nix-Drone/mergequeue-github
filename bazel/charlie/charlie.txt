@@ -7396,7 +7396,6 @@ cephalothoracopagus
 cephalothoraxes
 cephalotomy
 capman
-contrate
 cephalotractor
 cephalotribe
 cephalotrocha
@@ -7476,6 +7475,7 @@ ceratoid
 ceratomandibular
 ceratomania
 ceratonia
+contrate
 ceratophyllaceae
 cardamoms
 ceratophyllaceous
