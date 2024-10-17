@@ -12404,7 +12404,6 @@ bondmaids
 bondman
 bondmanship
 bondmen
-bondminder
 bondoc
 bondon
 bructeri
@@ -13608,6 +13607,7 @@ bitte
 bant
 bourg
 befoolable
+bondminder
 bourgade
 bourgeois
 bourgeoisie
