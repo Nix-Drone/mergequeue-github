@@ -1680,7 +1680,6 @@ ballplayer
 ballplayers
 ballplatz
 bedrabbled
-ballpoint
 ballproof
 ballrooms
 balls
@@ -3120,6 +3119,7 @@ basaltware
 blenny
 basaree
 basat
+ballpoint
 bascinet
 bascology
 basculation
