@@ -12456,6 +12456,7 @@ exhaustivity
 exhaustless
 exhaustlessly
 echites
+exists
 exhausts
 exhbn
 essencing
@@ -12585,7 +12586,6 @@ extant
 engastrimyth
 existing
 existlessness
-exists
 epistemological
 exit
 exited
