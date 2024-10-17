@@ -3942,7 +3942,6 @@ adits
 adytta
 adytum
 aditus
-adj
 adjacence
 adjacency
 adjacencies
@@ -5007,6 +5006,7 @@ aerologies
 aerologist
 aerologists
 antieducationist
+adj
 aeromaechanic
 aeromancer
 aeromancy
