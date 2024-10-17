@@ -1921,6 +1921,7 @@ bandersnatch
 bandfile
 bandfiled
 bandfish
+biatomic
 bandgap
 bandh
 brownism
@@ -7861,7 +7862,6 @@ bushi
 biasing
 biasnesses
 biassedly
-biatomic
 biauricular
 biauriculate
 biaxal
