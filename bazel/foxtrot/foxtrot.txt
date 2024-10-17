@@ -6970,6 +6970,7 @@ follis
 feuille
 fatheads
 follow
+fleeches
 followable
 followed
 follower
@@ -7271,7 +7272,6 @@ footstick
 footstock
 fortlet
 footstools
-fleeches
 footways
 footwalk
 foulnesses
