@@ -198,6 +198,7 @@ cabrettas
 cabreuva
 crases
 cabrie
+componental
 cabrilla
 cabrillas
 cabriole
@@ -20776,7 +20777,6 @@ componed
 componency
 componendo
 component
-componental
 componented
 componential
 componentry
