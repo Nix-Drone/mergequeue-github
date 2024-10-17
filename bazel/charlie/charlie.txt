@@ -16642,7 +16642,6 @@ clorinator
 clos
 closable
 close
-closecross
 closed
 closedown
 closefistedly
@@ -30471,6 +30470,7 @@ cubehead
 cubelet
 cubelium
 carsten
+closecross
 cubera
 cubers
 cubes
