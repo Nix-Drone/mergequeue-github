@@ -1946,7 +1946,6 @@ cruelize
 camote
 cytologic
 camoudie
-camouflage
 camouflageable
 cryptocrystallization
 camouflager
@@ -20284,6 +20283,7 @@ cric
 communes
 communicability
 communicable
+camouflage
 communicably
 communicant
 communicate
