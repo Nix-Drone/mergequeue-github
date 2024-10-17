@@ -21973,6 +21973,7 @@ confinements
 confiner
 confiners
 confines
+convolving
 confining
 confinity
 confirmability
@@ -24223,7 +24224,6 @@ conferrers
 convolved
 convolvement
 convolves
-convolving
 convolvulaceae
 convolvulaceous
 convolvulad
