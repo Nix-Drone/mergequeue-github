@@ -9537,7 +9537,6 @@ birthland
 birthless
 birthmark
 birthmarks
-birthmate
 birthnight
 birthplace
 birthplaces
@@ -17927,6 +17926,7 @@ bushbody
 bushbodies
 bushbuck
 boatbills
+birthmate
 bacteriocyte
 bushbucks
 bearbush
