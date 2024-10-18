@@ -1109,7 +1109,6 @@ edgrow
 enormous
 edh
 edhs
-edibile
 earthlike
 equipper
 edibility
@@ -4694,6 +4693,7 @@ encyclicals
 encyclics
 encyclopaediac
 epinephrin
+edibile
 encyclopaedial
 encyclopaedias
 elbowing
