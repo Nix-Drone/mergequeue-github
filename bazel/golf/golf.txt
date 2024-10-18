@@ -3078,7 +3078,6 @@ geomance
 geoform
 gillnet
 geogen
-geogenesis
 gyropilot
 geogenetic
 geogeny
@@ -8262,6 +8261,7 @@ goosishness
 grubstaked
 grassfire
 gestalten
+geogenesis
 getters
 grassflat
 grassflower
