@@ -7495,6 +7495,7 @@ foreadmonish
 false
 flashpan
 foreadvertise
+fluxer
 fractionlet
 foreadvice
 foreadvise
@@ -8234,7 +8235,6 @@ forgeries
 forges
 fluctigerous
 forget
-fluxer
 forgetful
 forgetfully
 fogdog
