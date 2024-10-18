@@ -2665,7 +2665,6 @@ bedevils
 barytocelestite
 baritone
 barytone
-baritones
 barytones
 byres
 bedaff
@@ -15676,6 +15675,7 @@ broadpiece
 broads
 broadshare
 broadside
+baritones
 broadsided
 broadsider
 borrovian
