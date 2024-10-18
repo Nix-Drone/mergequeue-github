@@ -2448,7 +2448,6 @@ barrooms
 basis
 barbwire
 barbwires
-ballyhooer
 bullpout
 barcarole
 betatter
@@ -17857,6 +17856,7 @@ burrows
 burrowstown
 benevolent
 burrstone
+ballyhooer
 burs
 bude
 bursae
