@@ -6996,7 +6996,6 @@ airworthiness
 ais
 ays
 aiseweed
-antipneumococcic
 aisle
 aisled
 aisleless
@@ -16531,6 +16530,7 @@ antritis
 antrocele
 antronasal
 antrophose
+antipneumococcic
 angleworm
 antrorse
 antrorsely
