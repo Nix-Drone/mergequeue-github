@@ -5835,7 +5835,6 @@ deportment
 deports
 deporture
 desmotropism
-decoupled
 deposable
 deposal
 deposals
@@ -13469,6 +13468,7 @@ disseats
 dissect
 dissected
 dissectible
+decoupled
 dropling
 durgen
 dissection
