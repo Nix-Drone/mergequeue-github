@@ -5562,7 +5562,6 @@ deoxyribonucleoprotein
 deozonization
 dowlas
 deozonizer
-dep
 depaganize
 depainted
 depainting
@@ -12840,6 +12839,7 @@ discolor
 doubtfully
 disoperation
 dasnt
+dep
 distains
 disposal
 disoperculate
