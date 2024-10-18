@@ -10314,6 +10314,7 @@ dioramas
 driftpiece
 dioramic
 diordinal
+dredges
 duplet
 diorite
 diorites
@@ -16964,7 +16965,6 @@ dredge
 dredgeful
 dredger
 dredgers
-dredges
 dree
 dreed
 dreeing
