@@ -12463,7 +12463,6 @@ adaptation
 anelasticity
 anele
 anelectric
-anelectrode
 anelectrotonus
 aneled
 aneles
@@ -20915,6 +20914,7 @@ ascend
 ascendable
 ascendance
 ascendancy
+anelectrode
 ascendant
 ascendantly
 ascendants
