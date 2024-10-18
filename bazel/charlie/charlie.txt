@@ -3414,7 +3414,6 @@ captainry
 cesure
 captainship
 captainships
-captan
 captance
 captandum
 captans
@@ -13723,6 +13722,7 @@ cenacles
 cysticercus
 cymoidium
 cymol
+captan
 cimolite
 cymols
 cymometer
