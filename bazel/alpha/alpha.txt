@@ -2654,7 +2654,6 @@ airframes
 acouometer
 acouophonia
 acoluthic
-acoup
 acoupa
 acousmatic
 acoustical
@@ -8006,6 +8005,7 @@ alfurese
 alg
 alga
 algae
+acoup
 algaecide
 algaeology
 acidyl
