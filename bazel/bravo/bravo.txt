@@ -6144,6 +6144,7 @@ benchlet
 benchman
 benchmar
 benchmark
+bimillionaire
 benchmarked
 benchmarks
 benchmen
@@ -6915,7 +6916,6 @@ bescarf
 belout
 bescatter
 bescent
-bimillionaire
 bescorch
 browband
 bescorched
