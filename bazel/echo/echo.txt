@@ -4792,7 +4792,6 @@ efik
 enclosures
 excentral
 extraction
-enclothe
 encloud
 encode
 existible
@@ -6759,6 +6758,7 @@ emetine
 entete
 enthalpy
 enthalpies
+enclothe
 enthean
 entheasm
 enfuddle
