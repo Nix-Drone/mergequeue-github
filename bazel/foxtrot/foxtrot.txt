@@ -74,7 +74,6 @@ faceoff
 fermentations
 facepiece
 fisticuffs
-faces
 facesaving
 facet
 foresaying
@@ -11653,6 +11652,7 @@ fustianize
 fustians
 fustics
 fustier
+faces
 fustigated
 foggily
 fiddleys
