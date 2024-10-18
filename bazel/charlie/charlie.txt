@@ -18231,7 +18231,6 @@ cofunction
 cog
 charkhana
 cogboat
-cogence
 cogences
 cogencies
 cogener
@@ -23792,6 +23791,7 @@ contrasty
 contrastimulus
 contrasting
 contrastingly
+cogence
 contrastive
 contrastively
 contrastiveness
