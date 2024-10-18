@@ -6877,7 +6877,6 @@ airfoil
 airfoils
 airframe
 airglow
-airglows
 acondylous
 airgraph
 airgraphics
@@ -16845,6 +16844,7 @@ aphelenchus
 aphelia
 aphelian
 anthophagy
+airglows
 aphelilia
 aphelilions
 abstricts
