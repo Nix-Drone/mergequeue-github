@@ -2261,7 +2261,6 @@ gearman
 gears
 guernseys
 gearset
-gearshift
 gearshifts
 gearwheels
 glistening
@@ -8269,6 +8268,7 @@ geneticism
 grasshook
 golds
 grasshop
+gearshift
 grasshopper
 grasshopperdom
 gry
