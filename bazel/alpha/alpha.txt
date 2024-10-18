@@ -4619,7 +4619,6 @@ advertise
 advertisee
 advertisement
 advertisements
-advertiser
 advertisers
 advertising
 advertizable
@@ -6119,6 +6118,7 @@ aghorapanthi
 aghori
 apardon
 agy
+advertiser
 agible
 agiel
 agyieus
