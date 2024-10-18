@@ -2075,7 +2075,6 @@ banisher
 banishing
 banishment
 banister
-banisters
 bursting
 banyuls
 baniva
@@ -13005,6 +13004,7 @@ blockmaking
 boresight
 boresome
 boresomely
+banisters
 beira
 borg
 borghalpenny
