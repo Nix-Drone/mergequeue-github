@@ -7217,7 +7217,6 @@ flathe
 footmark
 footmen
 footnote
-footnoted
 footpace
 footpaces
 forefather
@@ -10639,6 +10638,7 @@ fructifies
 fructifying
 furfurals
 fructiform
+footnoted
 fructivorous
 fructokinase
 folliculin
