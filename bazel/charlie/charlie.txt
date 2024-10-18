@@ -7624,6 +7624,7 @@ cerebroparietal
 cerebropedal
 cerebropontile
 cerebropsychosis
+clauses
 contraprop
 cerebrosclerosis
 cerebroscope
@@ -15698,7 +15699,6 @@ claughts
 claus
 clausal
 clause
-clauses
 coattends
 craniotympanic
 clausilia
