@@ -4506,7 +4506,6 @@ beclasps
 bickers
 beclaw
 beclip
-besieged
 becloak
 belchers
 becloaking
@@ -12101,6 +12100,7 @@ boldu
 bole
 bolectioned
 boled
+besieged
 boleite
 bolelia
 bolelike
