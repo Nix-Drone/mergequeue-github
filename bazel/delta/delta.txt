@@ -1715,7 +1715,6 @@ deathsmen
 depaysee
 deathtime
 deathtrap
-deathtraps
 deathward
 deathwatches
 deathweed
@@ -5476,6 +5475,7 @@ docilely
 decanate
 droguet
 decrepitly
+deathtraps
 denunciated
 denunciation
 dornecks
