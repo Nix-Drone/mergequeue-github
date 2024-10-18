@@ -10421,7 +10421,6 @@ beeflower
 blastochyle
 blackleg
 blastocyst
-blastocyte
 blastocoel
 blastocoele
 blastocolla
@@ -14600,6 +14599,7 @@ bolson
 brassbound
 brassbounder
 brasse
+blastocyte
 basketful
 borages
 bronzesmith
