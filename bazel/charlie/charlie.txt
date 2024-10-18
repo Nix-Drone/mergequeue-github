@@ -21110,7 +21110,6 @@ conceals
 concede
 conceded
 concededly
-conceder
 couplets
 conceders
 concedes
@@ -22652,6 +22651,7 @@ conoy
 contractiveness
 conoid
 conoidal
+conceder
 conoidally
 conoidic
 conoidical
