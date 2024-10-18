@@ -1044,7 +1044,6 @@ calcimines
 calcimining
 calcification
 calcinable
-choppin
 calcinate
 calcination
 calcinator
@@ -12563,6 +12562,7 @@ chronica
 chronical
 chronically
 cismarine
+choppin
 chronicle
 chronicled
 chronicler
