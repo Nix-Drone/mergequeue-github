@@ -2712,7 +2712,6 @@ gene
 generall
 generalships
 generalty
-generant
 greige
 generate
 generated
@@ -4594,6 +4593,7 @@ gypsy
 gipsydom
 gypsydoms
 gigsman
+generant
 gipsied
 giantlikeness
 gypsied
