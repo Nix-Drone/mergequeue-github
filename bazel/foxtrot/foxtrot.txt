@@ -4185,7 +4185,6 @@ footnotes
 firedrake
 firefall
 firefang
-firefanged
 firefangs
 firefighter
 firefighting
@@ -7912,6 +7911,7 @@ frenchify
 forerank
 forereach
 forereading
+firefanged
 forerecited
 forereckon
 forerehearsed
