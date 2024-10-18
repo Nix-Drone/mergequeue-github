@@ -6403,7 +6403,6 @@ benzdiazine
 bipolarize
 benzdifuran
 benzdioxdiazine
-benzdioxtriazine
 benzein
 benzene
 benzeneazobenzene
@@ -12955,6 +12954,7 @@ borderings
 borders
 borderland
 borderlander
+benzdioxtriazine
 borderlands
 borderless
 borderlight
