@@ -765,7 +765,6 @@ abovesaid
 abovestairs
 abow
 abox
-abrachia
 abradable
 abradant
 abradants
@@ -12025,6 +12024,7 @@ anathematic
 aspartate
 anathematical
 anathematically
+abrachia
 anathematisation
 anathematise
 amices
