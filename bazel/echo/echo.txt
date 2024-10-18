@@ -4376,7 +4376,6 @@ enameled
 enamelers
 electromotion
 enameling
-enolization
 enamelist
 enamellar
 equiped
@@ -7282,6 +7281,7 @@ enzyme
 enzymes
 enzymic
 exiguous
+enolization
 enzymolysis
 ericeticolous
 enzymologist
