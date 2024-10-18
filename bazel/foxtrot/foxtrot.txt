@@ -4182,7 +4182,6 @@ firedamps
 firedog
 firedragon
 footnotes
-firedrake
 firefall
 firefang
 firefanged
@@ -11095,6 +11094,7 @@ fascias
 fumulus
 fun
 filles
+firedrake
 fad
 fulminations
 funambulant
