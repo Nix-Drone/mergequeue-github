@@ -4795,7 +4795,6 @@ bedquilts
 bedrabbling
 bedraggle
 bedraggled
-bedragglement
 bedrail
 bogway
 bedrails
@@ -12013,6 +12012,7 @@ boilermaker
 bradypnoea
 bangtail
 boilerman
+bedragglement
 boilerplate
 boilers
 boilersmith
