@@ -5307,7 +5307,6 @@ gleams
 gifture
 glean
 gleanable
-grayback
 gleaned
 gleaner
 gleaners
@@ -7578,6 +7577,7 @@ gimp
 grabman
 grabouche
 grabs
+grayback
 grace
 glasgow
 graced
