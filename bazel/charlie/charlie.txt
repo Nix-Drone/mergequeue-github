@@ -145,7 +145,6 @@ cablelaid
 cableless
 cablelike
 cableman
-cablemen
 cables
 cablese
 cablet
@@ -25150,6 +25149,7 @@ corylus
 corymb
 corymbed
 corymbiate
+cablemen
 corymbiated
 cataclysmist
 corymbiferous
