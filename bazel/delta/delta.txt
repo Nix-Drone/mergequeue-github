@@ -11584,7 +11584,6 @@ discontinuable
 dacryocystorhinostomy
 discontinuances
 discontinue
-discontinued
 discontinuee
 desi
 drivecap
@@ -13105,6 +13104,7 @@ display
 displayable
 displayed
 displayer
+discontinued
 displaying
 displays
 defectology
