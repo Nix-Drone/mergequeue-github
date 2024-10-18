@@ -7824,7 +7824,6 @@ dewclawed
 dewclaws
 dewcup
 dewdamp
-dewdrop
 dewdropper
 disklike
 dewdrops
@@ -13185,6 +13184,7 @@ disposing
 disposingly
 dicrotic
 disposition
+dewdrop
 dispositional
 dispositionally
 dispositioned
