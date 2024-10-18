@@ -2479,7 +2479,6 @@ dulls
 deckswabber
 decl
 declaim
-dichorisandra
 declaimant
 declaimer
 declaimers
@@ -11699,6 +11698,7 @@ discovers
 discovert
 disfiguringly
 degaussed
+dichorisandra
 discoverture
 discradle
 dyscrase
