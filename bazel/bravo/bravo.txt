@@ -4799,7 +4799,6 @@ bedragglement
 bedrail
 bogway
 bedrails
-bedral
 bedrape
 bedraped
 bedrapes
@@ -12944,6 +12943,7 @@ banquettes
 bordello
 bordels
 backpacker
+bedral
 border
 bordereau
 bowstaff
