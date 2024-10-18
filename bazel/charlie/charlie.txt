@@ -5674,7 +5674,6 @@ catchweight
 catchword
 catchwork
 catclaw
-catdom
 cate
 catechesis
 catechetic
@@ -21307,6 +21306,7 @@ conchoidally
 conchoids
 communicableness
 conchol
+catdom
 conchology
 conchologically
 conchologize
