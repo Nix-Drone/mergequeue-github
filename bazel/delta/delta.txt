@@ -5070,7 +5070,6 @@ denationalise
 dilleniad
 denationalised
 denationalization
-denationalize
 denationalized
 denaturalisation
 denaturalise
@@ -16599,6 +16598,7 @@ desugarize
 draggling
 draghound
 diplostemony
+denationalize
 dragline
 dibatis
 dragman
