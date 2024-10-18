@@ -1751,6 +1751,7 @@ floridness
 feasibility
 feasibilities
 feasible
+fanback
 fossilation
 feasibleness
 feasibly
@@ -5713,7 +5714,6 @@ fortification
 flysches
 flisk
 flotative
-fanback
 fliskier
 fliskiest
 fribbleism
