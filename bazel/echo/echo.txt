@@ -1088,7 +1088,6 @@ executing
 edgeling
 edgeman
 edger
-edgers
 edges
 edgeshot
 evaluate
@@ -12386,6 +12385,7 @@ ensulphur
 extinctor
 exerting
 entozoan
+edgers
 elpidite
 exertion
 exertionless
