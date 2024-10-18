@@ -4449,7 +4449,6 @@ fission
 fissionable
 fissioned
 frays
-fissions
 fissipalmation
 floorboards
 fissiparism
@@ -8089,6 +8088,7 @@ forestudy
 focalizing
 flue
 flowerets
+fissions
 forestwards
 foresummon
 foreswear
