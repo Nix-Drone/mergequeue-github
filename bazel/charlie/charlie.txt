@@ -8985,6 +8985,7 @@ charge
 chargeability
 chargeable
 chargeableness
+cubitometacarpal
 chargeant
 charged
 chargedness
@@ -30512,7 +30513,6 @@ categorized
 coeno
 cubitocarpal
 cubitocutaneous
-cubitometacarpal
 cumaean
 cubitoplantar
 cercelee
