@@ -9896,7 +9896,6 @@ ambary
 ambas
 ambash
 ambassade
-ambassadeur
 ambassador
 ambassadorially
 ambassadors
@@ -21839,6 +21838,7 @@ assizer
 assizes
 assizing
 asslike
+ambassadeur
 assman
 assmanship
 avian
