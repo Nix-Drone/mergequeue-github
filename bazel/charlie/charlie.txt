@@ -7848,7 +7848,6 @@ cervicobuccal
 cervicodynia
 cervicofacial
 cervicolabial
-cervicolingual
 cervicolumbar
 crystal
 cervicomuscular
@@ -21487,6 +21486,7 @@ concrescive
 colocentesis
 concrete
 concreted
+cervicolingual
 concretely
 concreteness
 concreter
