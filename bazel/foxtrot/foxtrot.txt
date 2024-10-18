@@ -5919,6 +5919,7 @@ floodlike
 floodlilit
 floodlit
 floodplain
+forgiven
 floods
 forst
 fortifiable
@@ -8255,7 +8256,6 @@ forgiveable
 faroff
 forgiveably
 forgiveless
-forgiven
 fimetic
 foxiest
 frounceless
