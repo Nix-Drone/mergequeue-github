@@ -3248,7 +3248,6 @@ actorship
 actress
 actresses
 acts
-aminic
 actu
 actualisation
 actualise
@@ -10665,6 +10664,7 @@ amytal
 amitate
 amitie
 arcubalister
+aminic
 amities
 amitoses
 amitosis
