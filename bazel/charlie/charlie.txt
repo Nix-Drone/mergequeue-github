@@ -10995,7 +10995,6 @@ chirotherium
 collencyte
 chirothesia
 chirotype
-chirotony
 corrals
 crocodilia
 chirotonsor
@@ -25542,6 +25541,7 @@ coroutine
 coroutines
 corozo
 corozos
+chirotony
 corp
 corpl
 corpn
