@@ -18933,7 +18933,6 @@ archfool
 archform
 archfounder
 archgenethliac
-archgod
 archgomeral
 archgunner
 archhead
@@ -21946,6 +21945,7 @@ assurable
 assurance
 assurances
 abote
+archgod
 assurate
 assurd
 astigmias
