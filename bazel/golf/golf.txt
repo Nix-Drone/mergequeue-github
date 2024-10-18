@@ -1630,6 +1630,7 @@ gasmen
 gasmetophytic
 gasogen
 gasogene
+genotypicity
 gasogenic
 gasohol
 gasolene
@@ -2886,7 +2887,6 @@ genotypic
 genotypical
 gunfire
 genotypically
-genotypicity
 glop
 grocerwise
 growingly
