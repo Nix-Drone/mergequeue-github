@@ -3618,7 +3618,6 @@ chemics
 caravaner
 caravaning
 caravanist
-caravanned
 caravanner
 caravans
 caravansary
@@ -30617,6 +30616,7 @@ compromis
 cucurbits
 cud
 cuda
+caravanned
 chanelled
 caterwauls
 cudbear
