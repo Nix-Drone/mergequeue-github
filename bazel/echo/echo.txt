@@ -290,6 +290,7 @@ external
 erythrophobia
 eccentricity
 eastness
+earcap
 eastre
 euphoniousness
 eat
@@ -8361,7 +8362,6 @@ epithelioid
 entosphenoid
 epitheliolysin
 epitheliolysis
-earcap
 embrown
 epitheliolytic
 epithelioma
