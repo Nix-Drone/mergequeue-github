@@ -1102,6 +1102,7 @@ fisc
 farms
 farmscape
 farmsteads
+flexuousness
 farmtown
 farnesol
 farnesols
@@ -5523,7 +5524,6 @@ fluffed
 flexuosity
 frangula
 flexuously
-flexuousness
 flexured
 flexures
 flyable
