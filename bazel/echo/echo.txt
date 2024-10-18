@@ -3888,7 +3888,6 @@ emulator
 emforth
 emic
 emicant
-emicate
 emication
 emyde
 emydea
@@ -5121,6 +5120,7 @@ epinastically
 endoconidia
 endoconidium
 endocrania
+emicate
 endocranial
 esquimau
 endocranium
