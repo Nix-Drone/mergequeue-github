@@ -11386,7 +11386,6 @@ disclassify
 distrustful
 disclike
 disclimax
-discloak
 discloister
 dissuader
 debug
@@ -13562,6 +13561,7 @@ daddums
 disship
 disshiver
 disshroud
+discloak
 dissidence
 dissidently
 dissiliency
