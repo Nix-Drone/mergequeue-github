@@ -446,6 +446,7 @@ dayroom
 dayrooms
 dairous
 dairt
+disassembles
 dais
 daised
 daisee
@@ -11090,7 +11091,6 @@ disassemble
 dourade
 disassembled
 disassembler
-disassembles
 descriptors
 disassembling
 disassent
