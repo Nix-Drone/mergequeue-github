@@ -4908,6 +4908,7 @@ glomming
 give
 goaltending
 gyve
+gotched
 giveable
 gederite
 gipsyweed
@@ -7349,7 +7350,6 @@ goster
 gosther
 gliffy
 gotch
-gotched
 gotchy
 goter
 goth
