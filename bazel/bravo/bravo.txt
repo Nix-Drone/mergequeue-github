@@ -4140,7 +4140,6 @@ beamwork
 bantlings
 bean
 badawi
-beanbag
 beanbags
 brickred
 beanball
@@ -4742,6 +4741,7 @@ bedirtied
 bedirtying
 bedismal
 bedizen
+beanbag
 beekmantown
 bedizenment
 bedizens
