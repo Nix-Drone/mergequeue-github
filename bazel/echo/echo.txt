@@ -4920,6 +4920,7 @@ encushion
 end
 endable
 endamage
+enraptures
 endamageable
 endamagement
 endamages
@@ -6250,7 +6251,6 @@ encoignure
 endothorax
 enraptured
 escapade
-enraptures
 enrapturing
 enravish
 enravished
