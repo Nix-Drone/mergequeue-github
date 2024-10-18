@@ -7499,7 +7499,6 @@ deutschemark
 deutschland
 deutzia
 deuzan
-dev
 darwinistic
 deva
 demonization
@@ -15450,6 +15449,7 @@ donation
 donationes
 donor
 donations
+dev
 donatist
 donatistic
 donatistical
