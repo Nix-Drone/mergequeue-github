@@ -15744,6 +15744,7 @@ controllingly
 claver
 clavered
 clavering
+crosspiece
 clavers
 clavi
 chirres
@@ -29907,7 +29908,6 @@ crossover
 crossovers
 crosspatch
 crosspatches
-crosspiece
 crosspoint
 crossrail
 crossroad
