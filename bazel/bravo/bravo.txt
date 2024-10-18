@@ -9655,7 +9655,6 @@ bishoprics
 bishopscap
 bishopstool
 bishopweed
-bisiliac
 bestir
 bisilicate
 bisyllabic
@@ -13732,6 +13731,7 @@ bloodthirstily
 bowdlerize
 bowdlerized
 bowdlerizer
+bisiliac
 bowdlerizes
 bucephalus
 bevy
