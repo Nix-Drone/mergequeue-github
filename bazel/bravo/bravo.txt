@@ -6690,7 +6690,6 @@ blowers
 bergaptene
 buoyance
 bergeret
-bergfall
 benefactions
 berggylt
 bibliographical
@@ -7881,6 +7880,7 @@ beglamour
 bibb
 bibber
 bibbery
+bergfall
 bibberies
 bibbers
 bibby
