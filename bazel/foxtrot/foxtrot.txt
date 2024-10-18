@@ -4120,7 +4120,6 @@ fiqh
 functionate
 firca
 fyrd
-fireable
 firearm
 firearms
 fireback
@@ -7422,6 +7421,7 @@ forceless
 forcelessness
 forcelet
 foglietto
+fireable
 futhark
 fallacious
 forcement
