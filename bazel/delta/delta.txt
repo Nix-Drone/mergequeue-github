@@ -287,7 +287,6 @@ dagomba
 dagos
 dagswain
 daguerrean
-daguerreotype
 daguerreotyped
 daguerreotyper
 daguerreotypic
@@ -15785,6 +15784,7 @@ dorsals
 dorsalward
 dorsalwards
 dorse
+daguerreotype
 dorsel
 dorser
 dorsers
