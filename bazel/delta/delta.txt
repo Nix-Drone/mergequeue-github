@@ -1598,7 +1598,6 @@ dealkalize
 dealkylate
 dealkylation
 deallocate
-deallocated
 daunter
 deallocates
 deallocating
@@ -12514,6 +12513,7 @@ disinteress
 disinterest
 disinterested
 disinterestedly
+deallocated
 disinterestedness
 disintermediation
 distillation
