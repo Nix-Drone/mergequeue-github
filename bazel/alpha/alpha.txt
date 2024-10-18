@@ -216,7 +216,6 @@ abscision
 abbott
 abbozzo
 abbr
-abbrev
 abbreviatable
 abbreviate
 abbreviated
@@ -23333,6 +23332,7 @@ aluminosilicate
 audiovisuals
 audiphone
 audit
+abbrev
 alispheno
 auditable
 audited
