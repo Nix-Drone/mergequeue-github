@@ -10394,6 +10394,7 @@ diphenyl
 diphenylacetylene
 diphenylamine
 diphenylaminechlorarsine
+distensive
 diphenylchloroarsine
 diphenylene
 diphenylenimide
@@ -13777,7 +13778,6 @@ distensile
 distension
 dimwittedness
 distensions
-distensive
 disprison
 distention
 distentions
