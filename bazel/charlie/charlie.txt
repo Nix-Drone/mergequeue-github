@@ -4147,6 +4147,7 @@ coccidia
 careener
 careens
 career
+casefy
 careered
 careerers
 comeupance
@@ -5057,7 +5058,6 @@ casebooks
 casebound
 casebox
 cased
-casefy
 casefied
 casefies
 corneter
