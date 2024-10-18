@@ -1983,6 +1983,7 @@ decagram
 decagramme
 decagrams
 decahedra
+dynamometric
 decahedral
 decahedron
 damageableness
@@ -7086,7 +7087,6 @@ desulfurize
 desulfurized
 desulfurizer
 desulfurizing
-dynamometric
 desulphur
 desulphurate
 desulphurated
