@@ -7150,7 +7150,6 @@ detainment
 detar
 detassel
 detat
-detax
 detd
 detect
 detectability
@@ -15688,6 +15687,7 @@ dorbeetle
 dorbel
 dorbugs
 defeatist
+detax
 dorcastry
 dorcatherium
 dorcopsis
