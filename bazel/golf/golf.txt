@@ -1777,7 +1777,6 @@ gestations
 gnotobiote
 gastrodynia
 gastrodisk
-gastroduodenitis
 gastroduodenoscopy
 gastroduodenostomy
 gastroduodenotomy
@@ -5375,6 +5374,7 @@ glent
 gedrite
 glenwood
 glew
+gastroduodenitis
 guitarfish
 gliadine
 geomedicine
