@@ -6601,7 +6601,6 @@ cursorial
 ceibo
 ceibos
 counterthrust
-ceil
 clamoring
 ceylanite
 celestine
@@ -20796,6 +20795,7 @@ composable
 composal
 composant
 composed
+ceil
 croupily
 composedly
 composedness
