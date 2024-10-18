@@ -3978,7 +3978,6 @@ aitkenite
 adjourned
 adjourning
 adjournment
-adjourns
 adjoust
 adjt
 adjudge
@@ -14974,6 +14973,7 @@ anticlimaxes
 anticlinal
 anticlines
 anticlinoria
+adjourns
 anticlinorium
 anticlockwise
 anticlogging
