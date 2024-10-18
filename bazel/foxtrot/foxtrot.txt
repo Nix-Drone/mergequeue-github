@@ -9805,7 +9805,6 @@ freightliner
 freightment
 freyja
 freijo
-flemishing
 freinage
 forehandsel
 freir
@@ -10802,6 +10801,7 @@ fth
 fthm
 forwardation
 ftncmd
+flemishing
 featherlet
 frenetic
 fu
