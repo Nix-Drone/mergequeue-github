@@ -2753,6 +2753,7 @@ decore
 decorement
 decorist
 decorous
+delimiters
 doorplate
 decorously
 decorousness
@@ -4153,7 +4154,6 @@ delimitation
 delimitations
 delimited
 delimiter
-delimiters
 delimiting
 displumed
 delimitize
