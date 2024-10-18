@@ -561,7 +561,6 @@ echinococcosis
 echinococcus
 echinoderidae
 echinoderm
-echinoderma
 echinodermal
 erythroderma
 extrapituitary
@@ -3834,6 +3833,7 @@ emergences
 emergencies
 emergentness
 emergents
+echinoderma
 emerges
 emiction
 enring
