@@ -9104,7 +9104,6 @@ biophysic
 branchstand
 biophysical
 biophysicist
-biophysics
 biophysiography
 biophysiology
 biophysiologist
@@ -15389,6 +15388,7 @@ brigued
 basifiers
 briguing
 brill
+biophysics
 brillante
 brilliance
 brilliancy
