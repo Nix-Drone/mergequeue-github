@@ -1220,7 +1220,6 @@ daters
 dates
 datil
 dating
-denormalized
 dation
 datisca
 datiscaceae
@@ -11421,6 +11420,7 @@ discocephalous
 discodactyl
 discogastrula
 dyotheletic
+denormalized
 discoglossid
 distrix
 discoglossidae
