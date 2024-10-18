@@ -9329,7 +9329,6 @@ banishments
 biplosion
 biplosive
 bries
-bipod
 bipods
 baccae
 bipolar
@@ -12503,6 +12502,7 @@ bonity
 bonito
 bonitoes
 bonk
+bipod
 bonked
 bonkers
 bonking
