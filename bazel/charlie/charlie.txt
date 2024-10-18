@@ -11589,7 +11589,6 @@ choledochoenterostomy
 clomb
 choledocholithiasis
 choledocholithotomy
-choledocholithotripsy
 choledochoplasty
 choledochorrhaphy
 choledochostomy
@@ -25044,6 +25043,7 @@ coregonine
 coregonoid
 chlorinate
 coregonus
+choledocholithotripsy
 corey
 coreid
 coreidae
