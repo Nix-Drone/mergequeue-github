@@ -1628,7 +1628,6 @@ epipany
 egyptologic
 egis
 egises
-eglamore
 eglandular
 esthetical
 eglandulose
@@ -11122,6 +11121,7 @@ emulsification
 eurytherm
 eurythermal
 eurithermophile
+eglamore
 eurithermophilic
 eurythermous
 eurythmic
