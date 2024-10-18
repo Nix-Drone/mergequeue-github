@@ -4147,7 +4147,6 @@ frostlike
 faithwise
 firebombs
 forestery
-fireboot
 firebox
 frogflower
 familiarism
@@ -9881,6 +9880,7 @@ frescade
 frescoed
 frontingly
 fresh
+fireboot
 freshed
 fraxinella
 freshen
