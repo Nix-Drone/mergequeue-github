@@ -1947,7 +1947,6 @@ camote
 cytologic
 camoudie
 camouflage
-camouflageable
 cryptocrystallization
 camouflager
 camouflagers
@@ -17217,6 +17216,7 @@ coannexes
 coannihilate
 clarions
 coapostate
+camouflageable
 churrigueresque
 coapparition
 coappear
