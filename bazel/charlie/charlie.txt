@@ -3364,7 +3364,6 @@ capsidal
 capsids
 capsizable
 capsizal
-capsize
 capsized
 capsizes
 capsomer
@@ -23500,6 +23499,7 @@ contextive
 contexts
 contextualize
 contextually
+capsize
 contextural
 contexture
 chrysochlore
