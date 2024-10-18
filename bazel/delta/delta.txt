@@ -2718,7 +2718,6 @@ decontaminations
 decontaminator
 decontaminators
 discerners
-dustoor
 dvornik
 decontrolled
 dermahemia
@@ -4221,6 +4220,7 @@ delisting
 delists
 delit
 delitescence
+dustoor
 delitescency
 delitescent
 delitous
