@@ -3163,7 +3163,6 @@ bloodshot
 basename
 barb
 behove
-baseness
 basenesses
 basenji
 basenjis
@@ -12036,6 +12035,7 @@ babajaga
 boys
 boise
 boysenberry
+baseness
 boysenberries
 boyship
 boisterous
