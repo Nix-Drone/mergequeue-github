@@ -1262,7 +1262,6 @@ dumpings
 decoloured
 daubreite
 dipleidoscope
-dryermen
 daubries
 daubs
 daubster
@@ -15874,6 +15873,7 @@ doser
 dosers
 dosimeter
 dosimetry
+dryermen
 dosimetric
 decant
 dosimetrician
