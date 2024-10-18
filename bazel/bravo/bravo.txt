@@ -1908,7 +1908,6 @@ banded
 bandelet
 bandelette
 bandeng
-banderlog
 banderma
 banderol
 banderole
@@ -14141,6 +14140,7 @@ bedarkens
 bradyglossia
 bepowder
 bakshis
+banderlog
 bradykinetic
 bradykinin
 bradylogia
