@@ -18802,6 +18802,7 @@ archcupbearer
 archd
 archdapifer
 archdeacon
+assign
 archdeaconess
 archdeaconry
 archdeaconries
@@ -21761,7 +21762,6 @@ assiento
 assiette
 assify
 apprehensiveness
-assign
 assignability
 assignable
 assignably
