@@ -1369,7 +1369,6 @@ bingy
 balau
 balausta
 balaustine
-balaustre
 balawa
 balboa
 balboas
@@ -10943,6 +10942,7 @@ babysit
 blitzkrieging
 bardelle
 blitzkriegs
+balaustre
 blizz
 blizzard
 breading
