@@ -1521,7 +1521,6 @@ faulds
 faulter
 frighten
 faultfind
-faultfinder
 faultfinders
 faultfinding
 fervescent
@@ -4910,6 +4909,7 @@ flintlocks
 finfishes
 flamer
 flamers
+faultfinder
 ferneries
 fallback
 flamethrowers
