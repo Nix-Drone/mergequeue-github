@@ -881,7 +881,6 @@ bagdi
 bagel
 bagels
 bagful
-bagfuls
 barbaric
 baggageman
 baggagemaster
@@ -3659,6 +3658,7 @@ batholitic
 blinded
 bathomania
 bathometer
+bagfuls
 bathometry
 bathonian
 bathool
