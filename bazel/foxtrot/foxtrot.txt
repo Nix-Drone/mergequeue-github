@@ -74,7 +74,6 @@ faceoff
 fermentations
 facepiece
 fisticuffs
-faces
 facesaving
 facet
 foresaying
@@ -7260,6 +7259,7 @@ forgift
 footsoldiers
 finnmarks
 footsore
+faces
 footsores
 footstalk
 forecasts
