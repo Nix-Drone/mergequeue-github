@@ -3819,6 +3819,7 @@ battleships
 buhr
 battlesome
 boatfalls
+brachiopodist
 banderilla
 battlestead
 battlewagon
@@ -14021,7 +14022,6 @@ brachiopod
 bogusness
 brachiopoda
 brachiopode
-brachiopodist
 bureaucratese
 baraca
 brachioradialis
