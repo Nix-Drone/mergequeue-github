@@ -3251,7 +3251,6 @@ basidiophore
 bifrontal
 belesprit
 basidiospore
-basidiosporous
 basidorsal
 basifacial
 basify
@@ -7082,6 +7081,7 @@ besmudge
 besmudged
 besmudges
 besmudging
+basidiosporous
 besmut
 biograph
 besmutch
