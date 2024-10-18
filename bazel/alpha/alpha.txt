@@ -11212,7 +11212,6 @@ amphithalami
 amphithalamus
 azygobranchia
 amphitheater
-amphitheatered
 amphitheaters
 amphitheatre
 aerocyst
@@ -18688,6 +18687,7 @@ arcature
 arcatures
 arcboutant
 arccos
+amphitheatered
 ailette
 appomattoc
 astrocaryum
