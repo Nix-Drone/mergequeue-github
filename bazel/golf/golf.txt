@@ -797,6 +797,7 @@ grigri
 gugglet
 galvanizer
 galvanizers
+gelatinizable
 gujar
 galvanizes
 galvanizing
@@ -2438,7 +2439,6 @@ galactoside
 genom
 gelatinity
 gelatinizability
-gelatinizable
 gelatinization
 gruppetto
 gelatinized
