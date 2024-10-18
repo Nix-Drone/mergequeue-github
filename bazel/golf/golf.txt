@@ -6146,7 +6146,6 @@ gluside
 glut
 glutamate
 geodesics
-glutamates
 glutamic
 glutaminase
 gallegan
@@ -8212,6 +8211,7 @@ graphotype
 graphs
 getas
 gastropancreatic
+glutamates
 grapier
 grapiest
 glumpish
