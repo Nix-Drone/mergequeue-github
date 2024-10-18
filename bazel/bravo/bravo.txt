@@ -4251,7 +4251,6 @@ beastlings
 beastship
 beat
 beata
-beatable
 beatably
 beatae
 beatas
@@ -12282,6 +12281,7 @@ bombastry
 blockades
 bombasts
 bombax
+beatable
 botherment
 bombazet
 bombazette
