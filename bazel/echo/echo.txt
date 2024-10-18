@@ -4897,7 +4897,6 @@ encrotchet
 encrown
 encrownment
 eateries
-encrust
 encrustant
 encrustation
 encrusted
@@ -5347,6 +5346,7 @@ engrossing
 endostosis
 endostraca
 endostracum
+encrust
 enteromycosis
 endosulfan
 endothecal
