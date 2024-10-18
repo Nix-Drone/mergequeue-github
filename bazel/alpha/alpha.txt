@@ -11369,7 +11369,6 @@ amt
 amtman
 amtrac
 amtrack
-amtracks
 amtracs
 aeroporotomy
 amtrak
@@ -24402,6 +24401,7 @@ autostyly
 airmanship
 autostylism
 autostoper
+amtracks
 autostrada
 autostradas
 alluviation
