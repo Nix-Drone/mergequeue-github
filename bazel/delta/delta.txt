@@ -17878,7 +17878,6 @@ due
 duecentist
 duecento
 dueful
-dicyclic
 drepane
 dueler
 duelers
@@ -18254,6 +18253,7 @@ dartboard
 dunnages
 dunnaging
 dunnakin
+dicyclic
 dunne
 demijohn
 dunned
