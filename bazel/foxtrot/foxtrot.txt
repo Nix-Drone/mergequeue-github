@@ -2220,7 +2220,6 @@ felspars
 friendlily
 felspath
 felspathose
-felstone
 framers
 farmhouses
 felt
@@ -6742,6 +6741,7 @@ fogyish
 fogless
 foolship
 fogmen
+felstone
 fuseless
 fogo
 fogon
