@@ -7618,6 +7618,7 @@ endrins
 enddamage
 epicenes
 epicenism
+elastance
 epicentral
 eaux
 epicentrum
@@ -8544,7 +8545,6 @@ eqpt
 equability
 exacerbescent
 emphases
-elastance
 equableness
 equably
 equal
