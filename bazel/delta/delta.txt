@@ -3294,7 +3294,6 @@ deferred
 deferrer
 deferrers
 deferrize
-deferrized
 deferrizing
 decriminalized
 defers
@@ -8587,6 +8586,7 @@ diapsidan
 dyarchy
 deadbeat
 diarchic
+deferrized
 dyarchic
 dechoralize
 dyarchical
