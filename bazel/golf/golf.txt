@@ -2217,7 +2217,6 @@ gazettal
 gazette
 gazetted
 gazetteerish
-gazetteers
 goon
 gazetteership
 gremlin
@@ -6346,6 +6345,7 @@ graplines
 gnotobiotically
 gnow
 gns
+gazetteers
 gatefolds
 gnus
 go
