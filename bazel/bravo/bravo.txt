@@ -12748,7 +12748,6 @@ boomboxes
 boomdas
 boomed
 boomer
-boomeranged
 boomeranging
 boomers
 boomy
@@ -15742,6 +15741,7 @@ brod
 biretta
 bhaga
 brodder
+boomeranged
 balandra
 broddle
 brodee

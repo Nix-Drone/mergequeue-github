@@ -1661,7 +1661,6 @@ accordancy
 accordatura
 amphiphloic
 accordaturas
-accordature
 accorded
 accorder
 accorders
@@ -13530,6 +13529,7 @@ annexive
 annexment
 annexure
 ableptically
+accordature
 anni
 annicut
 annidalin
