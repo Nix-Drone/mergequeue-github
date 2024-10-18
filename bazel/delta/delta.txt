@@ -12327,7 +12327,6 @@ disheritor
 disherits
 dishes
 dwellers
-disposable
 disheveled
 dishevelled
 dishevelling
@@ -15913,6 +15912,7 @@ devilwood
 dossmen
 dost
 dostoevsky
+disposable
 dyssystole
 dewaxes
 dot
