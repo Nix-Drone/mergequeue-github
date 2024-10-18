@@ -561,7 +561,6 @@ dam
 dureful
 dama
 damage
-damageability
 damageably
 damaged
 damagement
@@ -9859,6 +9858,7 @@ dimers
 dimes
 dimetallic
 dimeter
+damageability
 dimeters
 dimethyl
 dimethylamine
