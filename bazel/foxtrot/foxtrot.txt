@@ -2664,7 +2664,6 @@ ferrule
 flowerbed
 ferruled
 ferruler
-ferrules
 fences
 ferrum
 freshes
@@ -9778,6 +9777,7 @@ faiths
 flumerin
 floyt
 freezes
+ferrules
 freezy
 freezing
 freezingly
