@@ -1690,7 +1690,6 @@ egress
 egresses
 egressing
 estadal
-egressor
 exiler
 egret
 egretta
@@ -13528,6 +13527,7 @@ extemporization
 extemporize
 esrogs
 extemporized
+egressor
 enfant
 experientially
 extemporizes
