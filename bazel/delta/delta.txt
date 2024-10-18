@@ -1190,6 +1190,7 @@ datapunch
 disinvolve
 datary
 dataries
+drouthiness
 dataset
 datasetname
 datasets
@@ -17482,7 +17483,6 @@ demoralization
 drouthy
 drouthier
 drouthiest
-drouthiness
 drouths
 drove
 droved
