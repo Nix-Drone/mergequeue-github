@@ -3621,7 +3621,6 @@ files
 frailly
 filesmith
 filesniff
-flagships
 filespec
 forficula
 fossores
@@ -6943,6 +6942,7 @@ folksongs
 folktales
 folkvangr
 foll
+flagships
 foller
 folles
 formalisation
