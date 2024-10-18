@@ -3903,7 +3903,6 @@ adipocerite
 adipocyte
 adipofibroma
 adipogenic
-adipogenous
 adipoid
 adipolysis
 adipolytic
@@ -11219,6 +11218,7 @@ aerocyst
 amphitheatric
 ane
 amphitheatrical
+adipogenous
 affiancer
 amphithecia
 amphithecial
