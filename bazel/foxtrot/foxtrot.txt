@@ -3890,7 +3890,6 @@ finales
 finalis
 finalization
 finalize
-finalized
 fragmenting
 fourstrand
 foulsome
@@ -11264,6 +11263,7 @@ foreday
 funicles
 funicular
 funiculars
+finalized
 friborg
 funiculitis
 funiculus
