@@ -7865,7 +7865,6 @@ alephs
 alephzero
 alepidote
 alepine
-alepole
 alicoche
 alepot
 allantoic
@@ -20348,6 +20347,7 @@ arrowplate
 automolite
 arrowroots
 arrows
+alepole
 arrowsmith
 arrowstone
 arrowweed
