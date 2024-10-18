@@ -8755,7 +8755,6 @@ equips
 ethnolinguist
 equipt
 equiradial
-echo
 equiradical
 equirotal
 escopet
@@ -12418,6 +12417,7 @@ endemically
 exfoliated
 exfoliating
 eurasian
+echo
 esterify
 exfoliation
 enunciating
