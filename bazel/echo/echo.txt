@@ -3550,7 +3550,6 @@ ectoskeleton
 embolomycotic
 embolon
 emboltement
-embolus
 emborder
 embordered
 elegant
@@ -9360,6 +9359,7 @@ errhine
 embodiments
 errhines
 erron
+embolus
 erroneousness
 error
 errordump
