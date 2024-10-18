@@ -4749,7 +4749,6 @@ gunplays
 geophysics
 girned
 girnie
-gathering
 gallies
 giro
 glossae
@@ -5865,6 +5864,7 @@ glosser
 glossers
 glosses
 glossy
+gathering
 glossier
 glossies
 glossiest
