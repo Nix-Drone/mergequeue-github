@@ -1343,7 +1343,6 @@ feasances
 fastland
 fastnacht
 fromage
-fastnesses
 feed
 frogskins
 fasts
@@ -6980,6 +6979,7 @@ floppers
 flushed
 followings
 fomalhaut
+fastnesses
 forebooms
 frogface
 fomentations
