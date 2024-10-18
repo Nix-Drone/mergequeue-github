@@ -9806,7 +9806,6 @@ chellean
 chello
 cheloids
 chelonia
-chelonian
 chelonid
 cheloniid
 cheloniidae
@@ -11422,6 +11421,7 @@ choanoflagellate
 choanoflagellida
 choanoflagellidae
 choanoid
+chelonian
 choanophorous
 choanosomal
 choanosome
