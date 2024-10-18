@@ -946,7 +946,6 @@ bagpipe
 byronics
 bagpiped
 biophysiological
-bagpiper
 bagpipers
 bagpipes
 bagpiping
@@ -3513,6 +3512,7 @@ bastonet
 bastonite
 basts
 basural
+bagpiper
 basuto
 barramundis
 bander
