@@ -5672,6 +5672,7 @@ afterpotential
 autolysis
 afterpressure
 afterproof
+arcograph
 afterrake
 afterreckoning
 auxofluor
@@ -19228,7 +19229,6 @@ arclike
 arco
 arcocentrous
 arcocentrum
-arcograph
 archtempter
 arcos
 arcose
