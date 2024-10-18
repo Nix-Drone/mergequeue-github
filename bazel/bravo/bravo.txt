@@ -2872,6 +2872,7 @@ barotaxis
 barothermogram
 bitis
 barothermograph
+benzopyrazolone
 barothermohygrograph
 baroto
 barotrauma
@@ -6489,7 +6490,6 @@ benzophloroglucinol
 benzophthalazine
 benzopyran
 benzopyranyl
-benzopyrazolone
 benzopyrylium
 benzoquinoxaline
 baltimorean
