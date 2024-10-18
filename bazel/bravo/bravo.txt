@@ -4424,7 +4424,6 @@ boisseaux
 becalm
 becalming
 becalmment
-becalms
 becap
 becapping
 brassylic
@@ -8797,6 +8796,7 @@ bimini
 bimmeler
 bimodal
 bimodality
+becalms
 bipontine
 bimodule
 bimodulus
