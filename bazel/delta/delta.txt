@@ -7155,7 +7155,6 @@ detd
 detect
 detectability
 daishiki
-detected
 detecter
 detecters
 decentralist
@@ -9578,6 +9577,7 @@ dihedrals
 dihedron
 discipleship
 dihelium
+detected
 dihexahedron
 dihybridism
 dihybrids
