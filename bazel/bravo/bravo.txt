@@ -3242,7 +3242,6 @@ byelaw
 bedight
 basidigitale
 basidigitalia
-basidiocarp
 basidiolichen
 basidiomycete
 baclava
@@ -12633,6 +12632,7 @@ bookcraft
 bookdealer
 bushmaster
 bookends
+basidiocarp
 booker
 bookery
 bookers
