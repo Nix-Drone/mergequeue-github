@@ -5437,7 +5437,6 @@ glycocoll
 glycogelatin
 glycogen
 galactogogue
-glycogenase
 glycogeny
 glycogenic
 glycogenize
@@ -6176,6 +6175,7 @@ glutinize
 glutinosity
 glutinous
 groucho
+glycogenase
 glutoid
 glutose
 gesneraceae
