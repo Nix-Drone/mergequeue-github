@@ -6312,7 +6312,6 @@ enroot
 enrooted
 enroots
 encirclement
-enround
 enruin
 enrut
 ens
@@ -6891,6 +6890,7 @@ entomofauna
 entomogenous
 emmantle
 entomol
+enround
 entomolegist
 entomolite
 entomology
