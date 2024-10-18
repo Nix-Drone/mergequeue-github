@@ -2447,6 +2447,7 @@ barbuts
 barrooms
 basis
 barbwire
+barnstorms
 barbwires
 ballyhooer
 bullpout
@@ -3811,7 +3812,6 @@ battlement
 battlements
 battlepiece
 battleplane
-barnstorms
 battler
 battles
 battleship
