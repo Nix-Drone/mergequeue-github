@@ -230,7 +230,6 @@ abbreviation
 ascebc
 abbreviations
 abbreviator
-abbreviators
 abbreviature
 abbroachment
 abc
@@ -17610,6 +17609,7 @@ abigeus
 appassionata
 appassionate
 appassionato
+abbreviators
 appast
 appaume
 appd
