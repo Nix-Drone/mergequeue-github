@@ -1804,7 +1804,6 @@ accupy
 accur
 accuracy
 accuracies
-accurately
 approvement
 affliction
 aliseptal
@@ -5371,6 +5370,7 @@ afflictedness
 afflicter
 afflicting
 afflictingly
+accurately
 afflictionless
 afflictions
 archoplasm
