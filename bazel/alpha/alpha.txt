@@ -8825,7 +8825,6 @@ allograft
 alameda
 allograph
 agnathostomatous
-allographic
 alloy
 alloyage
 alloyed
@@ -23080,6 +23079,7 @@ attest
 attestable
 abolla
 attestant
+allographic
 attestation
 attestations
 alalia
