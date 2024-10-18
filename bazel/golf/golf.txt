@@ -1434,7 +1434,6 @@ grivet
 graphologist
 greengrocery
 garlandless
-garlandlike
 garlandry
 galvanist
 garle
@@ -3973,6 +3972,7 @@ glacon
 gigacycle
 gigadoid
 gigahertz
+garlandlike
 gigahertzes
 gigaherz
 gigolos
