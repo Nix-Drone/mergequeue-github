@@ -2809,7 +2809,6 @@ genin
 gestures
 genio
 genioglossal
-globoids
 genioglossi
 genioglossus
 geniohyoglossal
@@ -2848,6 +2847,7 @@ glug
 grasps
 grouses
 genitor
+globoids
 gemmoid
 genitory
 gegenion
