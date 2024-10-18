@@ -20585,6 +20585,7 @@ arthrodiae
 arthrodic
 arthrodymic
 autorotate
+autoloader
 autonavigator
 assimilations
 arthrodira
@@ -24160,7 +24161,6 @@ autolyzate
 autolyze
 auks
 autolyzed
-autoloader
 autoloaders
 autoloading
 autology
