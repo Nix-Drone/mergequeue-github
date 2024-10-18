@@ -958,7 +958,6 @@ gamelans
 gameless
 gentian
 gamely
-gamelike
 gymnast
 goracco
 gamelin
@@ -6839,6 +6838,7 @@ gonid
 gallberry
 gonydeal
 gonidial
+gamelike
 gonidic
 gristhorbia
 galaxias
