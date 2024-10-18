@@ -3907,7 +3907,6 @@ emigrant
 eavesdrip
 emigrants
 emigrates
-emigrating
 emigres
 egyptology
 emigration
@@ -7990,6 +7989,7 @@ epimeral
 epimeres
 epimeric
 epimeride
+emigrating
 epimerism
 enorganic
 exhaustibility
