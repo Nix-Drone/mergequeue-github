@@ -6694,6 +6694,7 @@ dungbird
 delate
 desilt
 declared
+duplicates
 desilvered
 desilvering
 desilverization
@@ -18396,7 +18397,6 @@ duplicable
 duplicand
 duplicando
 duplicately
-duplicates
 duplication
 duplications
 duplicators
