@@ -8707,7 +8707,6 @@ alligators
 allyic
 allying
 allyl
-allylate
 allylation
 allylic
 allylthiourea
@@ -17021,6 +17020,7 @@ apili
 apimanias
 apina
 aciculated
+allylate
 armillated
 apinae
 apinch
