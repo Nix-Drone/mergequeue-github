@@ -3479,7 +3479,6 @@ defocusses
 defoedation
 deticking
 defog
-defogged
 didymus
 disyllable
 defoggers
@@ -18405,6 +18404,7 @@ duplicature
 disulphuret
 duplicatus
 dragonism
+defogged
 duplicia
 duplicident
 duplicidentata
