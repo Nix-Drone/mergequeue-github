@@ -1478,7 +1478,6 @@ deaconries
 deacons
 deaconship
 deactivate
-deactivated
 deactivates
 discontinuing
 dicranoid
@@ -13792,6 +13791,7 @@ disciplinarian
 disthroned
 darwinical
 disthroning
+deactivated
 disty
 druthers
 daubes
