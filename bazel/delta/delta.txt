@@ -8703,7 +8703,6 @@ demisacrilege
 diathesis
 diatom
 diatoma
-diatomaceae
 diatomaceous
 diatomales
 diatomeae
@@ -18315,6 +18314,7 @@ duodenary
 diphtheritic
 duodenas
 duodenate
+diatomaceae
 duodenation
 degelation
 duodenitis
