@@ -7344,7 +7344,6 @@ cephalodia
 cephalodymia
 cephalodymus
 cephalodiscid
-cephalodiscida
 cephalodiscus
 cephalodium
 cephalofacial
@@ -11958,6 +11957,7 @@ choribi
 choric
 chorically
 chorines
+cephalodiscida
 choring
 chorio
 chorioadenoma
