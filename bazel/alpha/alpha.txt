@@ -2519,7 +2519,6 @@ argentojarosite
 acknew
 astomatal
 acknowing
-acknowledge
 acknowledgeable
 acknowledged
 afoam
@@ -17921,6 +17920,7 @@ appositive
 appraisable
 atmans
 appraisals
+acknowledge
 appraised
 appraisement
 appraiser
