@@ -3186,6 +3186,7 @@ defeasibleness
 delphacid
 defeat
 defeated
+danegeld
 directs
 drusean
 defeatee
@@ -12969,7 +12970,6 @@ dorsimedian
 dispells
 dispels
 decliners
-danegeld
 dispence
 direly
 dispend
