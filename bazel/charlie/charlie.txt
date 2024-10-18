@@ -11556,6 +11556,7 @@ cholecystectomy
 cholecystectomized
 cholecystenterorrhaphy
 cholecystenterostomy
+cristobalite
 cholecystgastrostomy
 cholecystic
 cholecystis
@@ -29499,7 +29500,6 @@ cristispira
 cristivomer
 crackerberry
 catogene
-cristobalite
 circlewise
 crystograph
 cerebrums
