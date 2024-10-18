@@ -8005,6 +8005,7 @@ foresights
 feasts
 flotorial
 floorthrough
+floorhead
 foresignify
 foresin
 foreskin
@@ -9287,7 +9288,6 @@ fragility
 faceplate
 fragilities
 fragment
-floorhead
 fragmental
 fumously
 fragmentalize
