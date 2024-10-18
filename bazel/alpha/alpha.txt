@@ -7885,7 +7885,6 @@ alerters
 alertest
 agrees
 alerting
-alertly
 alertness
 alerts
 ales
@@ -20481,6 +20480,7 @@ acrothoracica
 arterials
 antiuating
 arteriarctia
+alertly
 arteriasis
 arteriectasia
 arteriectasis
