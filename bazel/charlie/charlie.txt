@@ -17959,7 +17959,6 @@ coemployee
 coemploying
 coemployment
 coemploys
-coempt
 coempted
 coempting
 cytogeneticist
@@ -23027,6 +23026,7 @@ consortium
 consortiums
 consorts
 consortship
+coempt
 consoude
 consound
 conspecies
