@@ -5882,7 +5882,6 @@ depraved
 deceptivity
 drapers
 depravedness
-depravement
 depraver
 depraves
 dags
@@ -14581,6 +14580,7 @@ do
 doability
 doable
 doand
+depravement
 doarium
 doated
 doater
