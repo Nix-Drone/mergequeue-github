@@ -8196,7 +8196,6 @@ alienabilities
 alienable
 alienage
 apocarpies
-alienages
 alienate
 alienated
 alienates
@@ -14242,6 +14241,7 @@ antepirrhema
 antepone
 anteportico
 anteporticoes
+alienages
 anteporticos
 anteposition
 anteprandial
