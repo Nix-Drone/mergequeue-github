@@ -7991,6 +7991,7 @@ bestowable
 bibliosoph
 bistratose
 bibliotaph
+brotherhood
 bibliotaphe
 bibliothecae
 bibliothecary
@@ -16167,7 +16168,6 @@ brothelry
 brothels
 borrowing
 brother
-brotherhood
 benj
 brothering
 brotherless
