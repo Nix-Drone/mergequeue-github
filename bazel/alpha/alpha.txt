@@ -3590,7 +3590,6 @@ adduction
 adductor
 agcy
 adductors
-adducts
 addulce
 adead
 adeem
@@ -15250,6 +15249,7 @@ antifelony
 antifeminist
 antifeministic
 antiferment
+adducts
 antifermentative
 antiferromagnet
 antiferromagnetic
