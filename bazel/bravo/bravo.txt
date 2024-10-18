@@ -4654,7 +4654,6 @@ bedchair
 bedchairs
 bedchamber
 bratstva
-bedclothing
 bedcord
 byplays
 bedcovers
@@ -17592,6 +17591,7 @@ bureaucratized
 bureaucratizes
 bureaucratizing
 bureaucrats
+bedclothing
 bureaux
 burelage
 burele
