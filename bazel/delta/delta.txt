@@ -5730,7 +5730,6 @@ depilitant
 depilous
 depit
 deplace
-deplaceable
 deplane
 deplaned
 deplaning
@@ -11458,6 +11457,7 @@ discombobulate
 dummerer
 discombobulated
 dismark
+deplaceable
 discombobulating
 discombobulation
 dimorphisms
