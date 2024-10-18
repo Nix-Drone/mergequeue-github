@@ -5661,7 +5661,6 @@ depermed
 deperms
 depersonalise
 disapproval
-depersonalising
 depersonalization
 depersonalized
 depersonalizes
@@ -14533,6 +14532,7 @@ dizzen
 dizzy
 dizzier
 dizzies
+depersonalising
 dizziest
 dizzyingly
 droich
