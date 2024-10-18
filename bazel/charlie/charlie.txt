@@ -1984,6 +1984,7 @@ campanile
 campaniles
 campanili
 campaniliform
+cashable
 campanini
 campanist
 campanistic
@@ -5107,7 +5108,6 @@ caseworm
 caseworms
 cash
 casha
-cashable
 cashableness
 cashaw
 cashaws
