@@ -1687,7 +1687,6 @@ account
 accountability
 accountable
 accountableness
-alicyclic
 accountably
 accountancy
 accountant
@@ -4280,6 +4279,7 @@ adopts
 ador
 adorability
 adorable
+alicyclic
 adorably
 aphididae
 adoral
