@@ -16803,7 +16803,6 @@ drawback
 drawbar
 drawbars
 drawbeam
-dyslogia
 drawbench
 delayage
 dardani
@@ -17838,6 +17837,7 @@ ductilimeter
 ductility
 ductilize
 ductilized
+dyslogia
 ductilizing
 ductless
 ductor
