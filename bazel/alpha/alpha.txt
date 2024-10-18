@@ -4141,7 +4141,6 @@ admissive
 automaton
 admissively
 alibi
-antiperistasis
 admissory
 admit
 admits
@@ -15655,6 +15654,7 @@ antimonopolist
 antimonopolistic
 antimonopolization
 antimonous
+antiperistasis
 antimonsoon
 antimoral
 antimoralism
