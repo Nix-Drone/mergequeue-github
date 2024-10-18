@@ -4103,7 +4103,6 @@ emphemeralness
 emphysema
 emphyteusis
 emphyteuta
-emphyteutic
 emphlysis
 exempted
 emphraxis
@@ -9372,6 +9371,7 @@ errsyn
 ensuing
 ers
 ersar
+emphyteutic
 elliptically
 ersatz
 electrolyzable
