@@ -2042,7 +2042,6 @@ camphine
 camphines
 camphires
 campho
-camphocarboxylic
 camphoid
 camphol
 campholic
@@ -11644,6 +11643,7 @@ cholesteric
 cholesteryl
 cholesterin
 cholesterinemia
+camphocarboxylic
 chappow
 cholesterinic
 cholesterinuria
