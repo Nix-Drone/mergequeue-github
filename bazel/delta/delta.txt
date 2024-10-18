@@ -6022,7 +6022,6 @@ depths
 demonetization
 depthways
 disoccupy
-depthwise
 depucel
 drayages
 depudorate
@@ -7566,6 +7565,7 @@ development
 developmental
 developmentalist
 developmentally
+depthwise
 dermatologist
 developmentarian
 developmentist
