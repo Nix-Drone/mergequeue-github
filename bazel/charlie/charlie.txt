@@ -14511,7 +14511,6 @@ cirratulus
 cirrhopetalum
 cirrhose
 cirrhosed
-cirrhosis
 cirrhotic
 cirrhous
 cirrhus
@@ -21623,6 +21622,7 @@ condiddlement
 condiddling
 cevadilla
 condigness
+cirrhosis
 condignity
 condignness
 condylar
