@@ -27807,7 +27807,6 @@ crabmill
 crabs
 crabsidle
 crabstick
-crabut
 crabweed
 crabwood
 cracca
@@ -30849,6 +30848,7 @@ csc
 cultivable
 cultivably
 cultivar
+crabut
 cultivars
 cultivatability
 cultivatable
