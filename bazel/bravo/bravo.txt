@@ -3772,6 +3772,7 @@ battens
 batter
 bread
 batterable
+bestiary
 battercake
 batterdock
 battered
@@ -7251,7 +7252,6 @@ bevelling
 bene
 bestially
 bestian
-bestiary
 bestiarian
 bestiaries
 bestiarist
