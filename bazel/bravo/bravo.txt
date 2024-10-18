@@ -10188,7 +10188,6 @@ blackshirt
 blackshirted
 barkle
 blacksmith
-blacksmithing
 beastdom
 blacksmiths
 blacksnake
@@ -15624,6 +15623,7 @@ brittlestem
 batrachotoxin
 brittlewort
 brittling
+blacksmithing
 brittonic
 britts
 britzkas
