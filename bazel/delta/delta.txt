@@ -5733,7 +5733,6 @@ deplace
 deplaceable
 deplane
 deplaned
-deplaning
 deplant
 deplantation
 deplasmolysis
@@ -10469,6 +10468,7 @@ diphthongized
 deaner
 diphthongizing
 diversifoliate
+deplaning
 diphthongs
 dipicrate
 downfalling
