@@ -8895,7 +8895,6 @@ clobberer
 characine
 characinid
 characinidae
-characinoid
 characins
 charact
 cutouts
@@ -16322,6 +16321,7 @@ clypeole
 clypeus
 collapsible
 clippable
+characinoid
 clipped
 clipperman
 clippers
