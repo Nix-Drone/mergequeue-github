@@ -199,7 +199,6 @@ erythritic
 earthslide
 earthsmoke
 earthtongue
-earthwall
 earthwork
 earthworks
 ecdysones
@@ -12688,6 +12687,7 @@ exogenously
 excurvation
 exogyra
 exognathion
+earthwall
 enterological
 exognathite
 exogonium
