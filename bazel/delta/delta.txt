@@ -1189,7 +1189,6 @@ datapac
 datapunch
 disinvolve
 datary
-dataries
 dataset
 datasetname
 datasets
@@ -12495,6 +12494,7 @@ disintegrable
 disintegrant
 disintegrate
 disparately
+dataries
 disintegrated
 disintegrates
 disjects
