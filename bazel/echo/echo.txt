@@ -3707,7 +3707,6 @@ embrittled
 embrittling
 embryulci
 embryulcia
-extraboldface
 embryulculci
 expositionary
 etagre
@@ -12318,6 +12317,7 @@ exegesist
 exegete
 exegetic
 exegetics
+extraboldface
 exegetist
 exemplar
 evertile
