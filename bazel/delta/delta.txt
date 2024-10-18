@@ -7295,7 +7295,6 @@ deti
 detick
 deticked
 deticker
-detickers
 deticks
 detin
 detinet
@@ -16650,6 +16649,7 @@ decades
 discoplacentalia
 dragropes
 drags
+detickers
 dragsaw
 dragsman
 dragsmen
