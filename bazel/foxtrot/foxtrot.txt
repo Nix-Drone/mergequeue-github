@@ -3360,7 +3360,6 @@ firstlings
 fief
 foredeem
 fiefs
-forfeitable
 fiel
 fieldball
 fieldbird
@@ -5462,6 +5461,7 @@ fanjets
 fleshless
 fleshlier
 fleshliest
+forfeitable
 failingly
 fleshliness
 fleshling
