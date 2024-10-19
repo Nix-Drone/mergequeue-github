@@ -5121,7 +5121,6 @@ flatman
 flatness
 favi
 flats
-flatted
 flatten
 flimp
 flattening
@@ -6519,6 +6518,7 @@ fondnesses
 facades
 flusters
 flustrate
+flatted
 flustrated
 flustrating
 flustration
