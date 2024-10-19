@@ -1075,7 +1075,6 @@ furriners
 farmable
 farmed
 farmer
-farmeress
 farmery
 filigraned
 farmeries
@@ -7168,6 +7167,7 @@ foveolated
 footganger
 footgears
 footgrip
+farmeress
 fruticulture
 foothalt
 filths
