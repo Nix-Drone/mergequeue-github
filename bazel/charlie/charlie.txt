@@ -2858,7 +2858,6 @@ cantilenes
 cantilever
 cantilevered
 cantilevering
-cantilevers
 cantily
 choroidea
 chinquapin
@@ -14073,6 +14072,7 @@ ciphering
 cyphering
 ciphers
 ciphertext
+cantilevers
 ciphertexts
 cyphomandra
 cyphonautes
