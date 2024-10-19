@@ -4026,7 +4026,6 @@ empalement
 earthworm
 empaler
 empalers
-empales
 empaling
 empanada
 exhilaratory
@@ -4795,6 +4794,7 @@ extraction
 enclothe
 encloud
 encode
+empales
 existible
 encoded
 encoder
