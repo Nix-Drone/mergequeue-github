@@ -8341,6 +8341,7 @@ dialyzed
 dialyzer
 dialyzes
 dowhacky
+decompile
 dialkyl
 dispell
 dialkylamine
@@ -17444,7 +17445,6 @@ drosometer
 drosophila
 drosophilae
 drosophilas
-decompile
 drosophilidae
 dipyramid
 drosophyllum
