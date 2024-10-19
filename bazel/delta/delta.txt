@@ -13473,7 +13473,6 @@ dropling
 durgen
 dissection
 dissections
-disfrequent
 dissectors
 dissects
 desperadoes
@@ -16828,6 +16827,7 @@ drawers
 drawfile
 disallowances
 dissuited
+disfrequent
 drawfiling
 debatingly
 drawgate
