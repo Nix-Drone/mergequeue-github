@@ -3361,7 +3361,6 @@ capsicum
 capsicums
 capsid
 capsidal
-capsids
 capsizable
 capsizal
 capsize
@@ -25840,6 +25839,7 @@ corseque
 constrains
 corser
 corses
+capsids
 communing
 convertable
 callisaurus
