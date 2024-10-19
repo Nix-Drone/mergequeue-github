@@ -10836,7 +10836,6 @@ beeyard
 blindeyes
 blinder
 blinders
-blindest
 blindfast
 blindfish
 blindfishes
@@ -11283,6 +11282,7 @@ blub
 blubbed
 blubber
 blubberer
+blindest
 blubbery
 blubbering
 balanism
