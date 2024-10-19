@@ -2843,7 +2843,6 @@ baronies
 baronize
 baronized
 baronnes
-baronries
 blackbush
 barons
 briggs
@@ -17102,6 +17101,7 @@ burghmoot
 bahawder
 blushet
 bulldozers
+baronries
 bulldozes
 bulldozing
 blubberingly
