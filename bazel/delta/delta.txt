@@ -3515,7 +3515,6 @@ deforests
 deform
 diasters
 deformability
-disknow
 deformable
 deformalize
 deformation
@@ -7672,6 +7671,7 @@ devisee
 devisees
 deviser
 devisers
+disknow
 devising
 diacetic
 decussorium
