@@ -4403,7 +4403,6 @@ furlough
 fishline
 fishlines
 frondage
-fishling
 fishman
 fishmeals
 fishmonger
@@ -5455,6 +5454,7 @@ fleshier
 fleshiest
 fleshiness
 fourniture
+fishling
 fleshing
 fleshings
 formatters
