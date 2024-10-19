@@ -3568,6 +3568,7 @@ filaments
 filamentule
 filander
 filao
+foxhound
 forsterite
 filaree
 fishboats
@@ -9159,7 +9160,6 @@ foxgloves
 foxhole
 flexionless
 foxholes
-foxhound
 foxhounds
 filterer
 frumpishness
