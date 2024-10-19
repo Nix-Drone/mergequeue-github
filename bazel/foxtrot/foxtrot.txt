@@ -5951,7 +5951,6 @@ fawny
 floorshifts
 floorshow
 floorway
-fluidrachm
 floorward
 furniment
 forgivingly
@@ -6423,6 +6422,7 @@ flustering
 formularization
 fluoridating
 fluoridation
+fluidrachm
 fluoride
 fluorides
 fluoridisation
