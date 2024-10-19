@@ -3370,7 +3370,6 @@ capsizes
 capsomer
 capsomere
 capsomers
-capstan
 capstans
 capstone
 capsula
@@ -12602,6 +12601,7 @@ chronographic
 chronographically
 chronographs
 chronoisothermal
+capstan
 chronologer
 curvedness
 chronology
