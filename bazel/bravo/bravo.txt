@@ -1903,7 +1903,6 @@ bandcutter
 bande
 bandeau
 bandeaux
-betula
 banded
 bandelet
 bandelette
@@ -3627,6 +3626,7 @@ bathyplankton
 buglers
 baygall
 bathyscaph
+betula
 bathyscaphes
 bathyseism
 bathysmal
