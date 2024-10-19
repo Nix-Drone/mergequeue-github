@@ -14876,7 +14876,6 @@ certioration
 cytoblast
 confidences
 cytoblastema
-cytoblastemal
 cytoblastematous
 cytoblastemous
 cytocentrum
@@ -29423,6 +29422,7 @@ crystalliform
 crystalligerous
 civilizade
 crystallike
+cytoblastemal
 crystallin
 crystalline
 coptis
