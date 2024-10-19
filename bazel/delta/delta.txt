@@ -12964,7 +12964,6 @@ dispellable
 danubian
 dispelled
 diplomyelia
-dispeller
 dorsimedian
 dispells
 dispels
@@ -16659,6 +16658,7 @@ dragsters
 dray
 drayage
 drayed
+dispeller
 drayhorse
 draying
 drailed
