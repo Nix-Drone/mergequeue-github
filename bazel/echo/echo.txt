@@ -6218,6 +6218,7 @@ enplanes
 enquarter
 enqueue
 entered
+electroretinogram
 enqueued
 enquicken
 enquire
@@ -11651,7 +11652,6 @@ evolvable
 explicating
 evolved
 exculpates
-electroretinogram
 evolvent
 evolver
 equivalencies
