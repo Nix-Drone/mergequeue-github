@@ -9155,7 +9155,6 @@ dye
 desoxycinchonine
 dyeability
 dyeable
-ditriglyph
 dieb
 diebacks
 dyebeck
@@ -13809,6 +13808,7 @@ distill
 doralium
 deles
 distillable
+ditriglyph
 dollhouse
 distillage
 debunking
