@@ -3364,7 +3364,6 @@ capsidal
 capsids
 capsizable
 capsizal
-capsize
 capsized
 capsizes
 capsomer
@@ -25723,6 +25722,7 @@ corroborant
 chaja
 corroborate
 corroborated
+capsize
 continuate
 corroborates
 corroborating
