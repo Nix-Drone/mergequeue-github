@@ -2310,7 +2310,6 @@ achromatiaceae
 achromatic
 achromatically
 achromatisation
-achromatism
 achromatizable
 achromatization
 achromatize
@@ -4624,6 +4623,7 @@ advertisers
 advertising
 advertizable
 amulets
+achromatism
 advertized
 advertizement
 allobars
