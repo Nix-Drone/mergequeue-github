@@ -2579,6 +2579,7 @@ decodable
 decode
 decoded
 decoders
+decremeter
 decodes
 decoding
 decodon
@@ -2806,7 +2807,6 @@ decrement
 decremental
 decrementing
 decrements
-decremeter
 decrepid
 decrepit
 decrepitate
