@@ -849,7 +849,6 @@ balefulness
 baffleplate
 bafflers
 baffles
-breakbones
 baffling
 bafflingly
 burls
@@ -11933,6 +11932,7 @@ bard
 bogtrotting
 bogue
 brushers
+breakbones
 boguing
 bogum
 bogus
