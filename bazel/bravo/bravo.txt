@@ -4039,7 +4039,6 @@ beaconage
 berchta
 beaconless
 business
-beacons
 beaded
 bequirtle
 beadeye
@@ -14215,6 +14214,7 @@ braggart
 braggartism
 braggartly
 braggarts
+beacons
 braggat
 bragged
 bragger
