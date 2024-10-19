@@ -1898,7 +1898,6 @@ bandboxes
 bandboxy
 barricos
 bandboxical
-bandcase
 bandcutter
 bande
 bandeau
@@ -6063,6 +6062,7 @@ bialy
 bemistress
 bemitered
 bemitred
+bandcase
 bemix
 bellow
 bemoaned
