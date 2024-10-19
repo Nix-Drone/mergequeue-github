@@ -7541,7 +7541,6 @@ cercopidae
 cercopithecid
 coenenchymata
 cercopithecidae
-cercopithecoid
 cercopithecus
 cimbri
 cercopod
@@ -25553,6 +25552,7 @@ corporalcy
 corporale
 corporales
 corporalism
+cercopithecoid
 corporality
 corporalities
 connex
