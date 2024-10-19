@@ -4442,7 +4442,6 @@ frostbound
 fissidentaceous
 fissile
 fissilinguia
-formatting
 fissility
 formatter
 fission
@@ -6557,6 +6556,7 @@ flutterboard
 fluttered
 furnacer
 flutterers
+formatting
 freshened
 florula
 fluttering
