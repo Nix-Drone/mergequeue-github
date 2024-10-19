@@ -5081,7 +5081,6 @@ denaturalization
 denaturalize
 denaturalized
 denaturant
-denaturants
 denaturate
 denaturational
 diver
@@ -8397,6 +8396,7 @@ dialogues
 dialoguing
 dialonian
 dials
+denaturants
 dialup
 dialuric
 defenestrated
