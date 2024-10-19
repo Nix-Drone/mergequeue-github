@@ -1784,7 +1784,6 @@ gastroduodenotomy
 gastroelytrotomy
 gastroenteralgia
 gibson
-gastroenteric
 gastroenteritic
 galenism
 globelike
@@ -8272,6 +8271,7 @@ grasshop
 grasshopper
 grasshopperdom
 gry
+gastroenteric
 gnarling
 genovino
 garnisher
