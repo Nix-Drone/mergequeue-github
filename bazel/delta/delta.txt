@@ -2474,7 +2474,6 @@ deckhouse
 deckle
 deckman
 deckpipe
-decks
 dulls
 deckswabber
 decl
@@ -11317,6 +11316,7 @@ discharges
 discharging
 degreeless
 discharity
+decks
 discharm
 dischevel
 dyschiria
