@@ -15436,7 +15436,6 @@ clap
 clapboarding
 clapboards
 clapcake
-clapdish
 clape
 clapholt
 clapmatch
@@ -17063,6 +17062,7 @@ campman
 coadjutress
 coadjutrices
 coadjutrix
+clapdish
 coadjuvancy
 coadjuvant
 coadjuvate
