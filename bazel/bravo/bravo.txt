@@ -4952,7 +4952,6 @@ beefless
 buttonmould
 bristle
 beefsteak
-beefsteaks
 beeftongue
 beefwood
 beefwoods
@@ -11554,6 +11553,7 @@ boards
 boardsmanship
 boardwalks
 boarfish
+beefsteaks
 boarfishes
 boarhound
 boarish
