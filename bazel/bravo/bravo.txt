@@ -6472,7 +6472,6 @@ benzoin
 benzoinated
 benzoiodohydrin
 benzol
-benzole
 benzoline
 benzolize
 benzols
@@ -8015,6 +8014,7 @@ bodymaker
 bibracteate
 bibulosity
 billing
+benzole
 bibulosities
 bibulously
 bibulousness
