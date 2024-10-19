@@ -10033,6 +10033,7 @@ bkpt
 bocasine
 bks
 bkt
+buckjumper
 bl
 blaasop
 blabbed
@@ -16664,7 +16665,6 @@ buckish
 bandyman
 buckishness
 buckism
-buckjumper
 buckland
 bucklandite
 buckle
