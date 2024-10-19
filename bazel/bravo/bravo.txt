@@ -6402,6 +6402,7 @@ buhrstone
 benzdiazine
 bipolarize
 benzdifuran
+benzopyran
 benzdioxdiazine
 benzdioxtriazine
 benzein
@@ -6487,7 +6488,6 @@ benzophenothiazine
 benzophenoxazine
 benzophloroglucinol
 benzophthalazine
-benzopyran
 benzopyranyl
 benzopyrazolone
 benzopyrylium
