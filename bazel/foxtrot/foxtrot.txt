@@ -5833,7 +5833,6 @@ forswat
 forcedness
 fraternate
 fastigia
-fname
 floccillation
 floccipend
 freeloader
@@ -6250,6 +6249,7 @@ frizzlers
 formalisms
 fraticellian
 ferroprint
+fname
 fervour
 fluer
 fourrier
