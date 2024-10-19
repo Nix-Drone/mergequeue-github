@@ -6091,6 +6091,7 @@ enmove
 enmuffle
 enneacontahedron
 ennead
+ecbolics
 enhaloing
 enneadic
 enneads
@@ -7674,7 +7675,6 @@ epicoelian
 epicoeloma
 epicoelous
 ep
-ecbolics
 elephas
 epicolic
 epicondylian
