@@ -678,7 +678,6 @@ bacteriostasis
 bacteriostat
 bacteriostatically
 bacteriotherapeutic
-bacteriotherapy
 balanophorin
 bacteriotoxic
 bechances
@@ -1884,6 +1883,7 @@ bandager
 bandages
 bandaging
 brakes
+bacteriotherapy
 bandagist
 bandaid
 bandala
