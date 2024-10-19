@@ -1420,7 +1420,6 @@ acceleratory
 accelerators
 accelerograph
 accelerometer
-accelerometers
 accend
 accendibility
 accendible
@@ -4005,6 +4004,7 @@ adjugate
 airbus
 adjument
 adjunct
+accelerometers
 adjunctive
 adjunctively
 adjunctly
