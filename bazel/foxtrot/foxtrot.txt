@@ -5560,7 +5560,6 @@ flicker
 ferromagnetic
 flickered
 flickeringly
-flickermouse
 flossa
 flickers
 flickertail
@@ -10520,6 +10519,7 @@ frostings
 frostnipped
 forfoughen
 foxfinger
+flickermouse
 ferberite
 frostroot
 footbridges
