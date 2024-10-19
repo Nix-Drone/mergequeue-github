@@ -6484,6 +6484,7 @@ gyromagnetic
 geographic
 glued
 goblins
+granulocytic
 gobo
 gobonated
 gobonee
@@ -8098,7 +8099,6 @@ granuloblast
 granuloblastic
 gammers
 granulocyte
-granulocytic
 geom
 granulocytopoiesis
 granuloma
