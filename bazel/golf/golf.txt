@@ -1794,7 +1794,6 @@ gastroenteroanastomosis
 gastroenterocolitis
 gastroenterocolostomy
 gastroenterology
-gelatination
 gastroenterologic
 gastroenterological
 gastroenterologically
@@ -7534,6 +7533,7 @@ gowning
 gownlet
 gowns
 gownsman
+gelatination
 gallflies
 gemmates
 gownsmen
