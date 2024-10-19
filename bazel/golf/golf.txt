@@ -959,7 +959,6 @@ gameless
 gentian
 gamely
 gamelike
-gymnast
 goracco
 gamelin
 gamelion
@@ -6314,6 +6313,7 @@ gastroid
 gnomish
 gnomist
 gabert
+gymnast
 gnomologic
 gnomological
 geitonogamous
