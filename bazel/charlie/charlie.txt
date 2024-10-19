@@ -5154,7 +5154,6 @@ casket
 casketed
 casketlike
 caskets
-casky
 casking
 casklike
 casks
@@ -24746,6 +24745,7 @@ copt
 copters
 coptic
 coptine
+casky
 copula
 cavu
 copulable
