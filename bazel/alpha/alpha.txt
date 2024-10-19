@@ -6459,7 +6459,6 @@ agriotype
 agriotypidae
 agriotypus
 agrypnia
-agrypniai
 aristulate
 agrypnias
 abstractors
@@ -24431,6 +24430,7 @@ autotypy
 autotypic
 autotypies
 autotomy
+agrypniai
 autotomic
 autotomise
 autotomised
