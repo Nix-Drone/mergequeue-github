@@ -3886,7 +3886,6 @@ carcel
 carcels
 carcer
 carceral
-carcerate
 carcerated
 carcerating
 carceration
@@ -9820,6 +9819,7 @@ cardiodynamics
 chemiatrist
 chemic
 chemical
+carcerate
 chemicalization
 chemicalize
 combattants
