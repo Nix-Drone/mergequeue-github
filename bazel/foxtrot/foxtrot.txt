@@ -203,6 +203,7 @@ factorial
 factorially
 frizer
 factorials
+formalized
 foilsman
 factories
 factoring
@@ -8386,7 +8387,6 @@ formalization
 fogyism
 formalizations
 formerness
-formalized
 formalizer
 foreknowledge
 fettuccine
