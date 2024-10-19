@@ -4609,7 +4609,6 @@ gipsyhead
 gypsyhead
 gipsyhood
 gradate
-gablelike
 gypsyhood
 glycogenous
 grammontine
@@ -10521,6 +10520,7 @@ gunmen
 gunmetal
 genesis
 gunmetals
+gablelike
 gunnage
 gunnar
 gobbing
