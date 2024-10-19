@@ -9297,7 +9297,6 @@ biphasic
 bps
 biphenylene
 biphenyls
-biphenol
 berretta
 bipinnaria
 bipinnariae
@@ -14777,6 +14776,7 @@ breaden
 breadfruit
 breadfruits
 breadless
+biphenol
 breadline
 breadmaker
 breadmaking
