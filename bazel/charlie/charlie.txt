@@ -7537,7 +7537,6 @@ cercomonad
 cercomonadidae
 cercopid
 continent
-cercopidae
 cercopithecid
 coenenchymata
 cercopithecidae
@@ -9565,6 +9564,7 @@ checkroom
 compathy
 checkrooms
 checkrope
+cercopidae
 checkrow
 checkrower
 checkrowing
