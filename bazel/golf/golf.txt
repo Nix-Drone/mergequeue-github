@@ -3240,7 +3240,6 @@ grondwet
 gnawable
 geoscopic
 geoselenic
-geosid
 geosynclinal
 geosphere
 geostationary
@@ -9632,6 +9631,7 @@ genital
 glideless
 grudging
 grudgingly
+geosid
 grudgingness
 guaraunan
 grue
