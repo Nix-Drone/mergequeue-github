@@ -2802,7 +2802,6 @@ dunker
 decrees
 decreet
 dop
-decrement
 decremental
 decrementing
 decrements
@@ -11839,6 +11838,7 @@ discutable
 drunks
 discutient
 disdain
+decrement
 disdainable
 disdained
 disdainer
