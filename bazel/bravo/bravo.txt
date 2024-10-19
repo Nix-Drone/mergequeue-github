@@ -4223,7 +4223,6 @@ bearpaw
 bearship
 bearskin
 bearskins
-beartongue
 birdwatch
 bearward
 bearwort
@@ -18213,6 +18212,7 @@ butlerlike
 butlers
 butlership
 butment
+beartongue
 butolism
 bepimpled
 butomaceae
