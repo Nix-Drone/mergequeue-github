@@ -2638,6 +2638,7 @@ cannonades
 cardiokinetic
 cohorts
 cannonading
+cloaking
 cannonarchy
 cannonball
 cannonballed
@@ -16443,7 +16444,6 @@ chervil
 cloakage
 cloaked
 cloakedly
-cloaking
 cloakless
 cloaklet
 citrange
