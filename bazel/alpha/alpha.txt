@@ -1309,7 +1309,6 @@ adalid
 acanthopomatous
 acanthopteran
 acanthopteri
-acanthopterygian
 acanthopterygii
 acanthopterous
 acanthoses
@@ -11572,6 +11571,7 @@ anadyomene
 anadiplosis
 anadipsia
 anadipsic
+acanthopterygian
 abastral
 anadrom
 asperates
