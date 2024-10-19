@@ -2130,7 +2130,6 @@ gavall
 gave
 gonna
 gavelage
-gaveled
 gaveler
 gavelet
 glimmerings
@@ -9474,6 +9473,7 @@ groundwards
 group
 groupable
 groupage
+gaveled
 groupageness
 grouped
 grouper
