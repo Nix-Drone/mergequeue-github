@@ -24746,7 +24746,6 @@ copt
 copters
 coptic
 coptine
-copula
 cavu
 copulable
 coroscopy
@@ -30902,6 +30901,7 @@ culverkeys
 culvers
 culverwort
 cum
+copula
 cumacea
 cumacean
 cumaceous
