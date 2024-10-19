@@ -2679,7 +2679,6 @@ electrothermic
 electrothermics
 enschedule
 enrapturer
-entrainer
 endomycetaceae
 electrothermometer
 electrothermostatic
@@ -3078,6 +3077,7 @@ ellipsis
 ellipsograph
 ellipsoid
 ellipsoidal
+entrainer
 ellipsoids
 executiveness
 ellipsone
