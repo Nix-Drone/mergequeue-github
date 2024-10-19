@@ -2942,7 +2942,6 @@ canvasers
 canvases
 canvasing
 canvaslike
-canvasser
 canvassers
 canvasses
 carbostyril
@@ -17633,6 +17632,7 @@ chromoxylography
 cauterant
 comoid
 cockaigne
+canvasser
 cockal
 cockalan
 counternoise
