@@ -105,7 +105,6 @@ earpick
 eyres
 earpiece
 earplugs
-extemporizer
 earreach
 earring
 earringed
@@ -2350,6 +2349,7 @@ electrochronometer
 equison
 electrochronometric
 ephemerality
+extemporizer
 eutectic
 electrocoagulation
 egba
