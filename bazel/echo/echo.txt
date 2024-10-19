@@ -3704,7 +3704,6 @@ embryotrophe
 embryotrophy
 embrittle
 embrittled
-embrittling
 embryulci
 embryulcia
 extraboldface
@@ -6677,6 +6676,7 @@ ectomorphy
 enterolith
 eucleidae
 enuring
+embrittling
 enterology
 enterologic
 enteromegaly
