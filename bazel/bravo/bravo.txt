@@ -1680,6 +1680,7 @@ ballplayer
 ballplayers
 ballplatz
 bedrabbled
+byroad
 ballpoint
 ballproof
 ballrooms
@@ -9486,7 +9487,6 @@ bayed
 birny
 byrnie
 byrnies
-byroad
 byroads
 birodo
 bakeshops
