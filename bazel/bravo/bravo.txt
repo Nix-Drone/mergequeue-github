@@ -22,6 +22,7 @@ bevels
 baaskap
 baba
 babacoote
+belaying
 babaylanes
 babakoto
 babassu
@@ -5614,7 +5615,6 @@ billingsgate
 belay
 belayed
 belayer
-belaying
 belays
 brandishers
 belait
