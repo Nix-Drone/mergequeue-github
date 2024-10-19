@@ -6868,7 +6868,6 @@ dissuadable
 despatched
 despatcher
 despatches
-despatching
 despecialization
 dispute
 despecialize
@@ -14258,6 +14257,7 @@ divaporation
 divariant
 divaricating
 divaricatingly
+despatching
 divarication
 diagrammatize
 divaricator
