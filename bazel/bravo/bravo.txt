@@ -560,7 +560,6 @@ backway
 backwall
 bewhite
 backward
-backwardation
 backwardly
 backwardness
 backwards
@@ -14907,6 +14906,7 @@ breathed
 breather
 boarstaff
 breathful
+backwardation
 breathy
 burleys
 breathier
