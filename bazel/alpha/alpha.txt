@@ -1187,6 +1187,7 @@ abutting
 abuzz
 anodendron
 abvolt
+autostoper
 abvolts
 abwab
 abwatt
@@ -24401,7 +24402,6 @@ autostarter
 autostyly
 airmanship
 autostylism
-autostoper
 autostrada
 autostradas
 alluviation
