@@ -10599,7 +10599,6 @@ etwite
 enablement
 eu
 euahlayi
-euascomycetes
 euaster
 eubacteria
 eubacteriales
@@ -13292,6 +13291,7 @@ exposed
 exposedness
 exposers
 exposes
+euascomycetes
 exposing
 exposit
 expositing
