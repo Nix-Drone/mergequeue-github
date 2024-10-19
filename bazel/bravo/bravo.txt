@@ -12237,7 +12237,6 @@ boltsmith
 b
 bawds
 boltspreet
-boltuprightness
 boltwork
 bolus
 boluses
@@ -16674,6 +16673,7 @@ buckleya
 bared
 bebilya
 buckleless
+boltuprightness
 buckler
 bowknot
 bisulphide
