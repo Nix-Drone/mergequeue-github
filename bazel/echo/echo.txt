@@ -2433,7 +2433,6 @@ electroendosmosis
 electroengrave
 electroengraving
 electroextraction
-expedient
 electroform
 electroforming
 electrofusion
@@ -5392,6 +5391,7 @@ endothermic
 endothermous
 endothia
 endothoracic
+expedient
 evangelium
 endyma
 endothrix
