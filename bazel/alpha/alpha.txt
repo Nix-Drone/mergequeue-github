@@ -5483,7 +5483,6 @@ afire
 aflagellar
 aflat
 agons
-aflatoxin
 aflaunt
 afley
 aflight
@@ -7594,6 +7593,7 @@ alchemists
 alchemize
 amazes
 alchemized
+aflatoxin
 alchemizing
 aftershafted
 alchera
