@@ -5173,7 +5173,6 @@ fiot
 frugal
 flaunch
 fullfaces
-flaunched
 ferie
 flaunt
 flaunter
@@ -6586,6 +6585,7 @@ formativeness
 fluxes
 fire
 fluxgraph
+flaunched
 fob
 frack
 furile
