@@ -2851,7 +2851,6 @@ canticles
 cantico
 cantiga
 cantilated
-cantilating
 cantilena
 cantilene
 cantilenes
@@ -25970,6 +25969,7 @@ coseasonal
 coseat
 cosecant
 cosecants
+cantilating
 cosech
 cosecs
 cosectarian
