@@ -1485,6 +1485,7 @@ garniec
 garnishable
 garnished
 garnishee
+glutinosity
 garnisheed
 garnisheeing
 garnishees
@@ -6173,7 +6174,6 @@ glutinative
 gustatorily
 great
 glutinize
-glutinosity
 glutinous
 groucho
 glutoid
