@@ -3888,7 +3888,6 @@ emulator
 emforth
 emic
 emicant
-emicate
 emication
 emyde
 emydea
@@ -12045,6 +12044,7 @@ exciter
 exciters
 eelblennies
 excitometabolic
+emicate
 excitomotor
 excitomotory
 exciton
