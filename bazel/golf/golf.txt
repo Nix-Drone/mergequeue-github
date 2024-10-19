@@ -6229,7 +6229,6 @@ gnars
 guerickian
 gnashed
 gnashing
-gobang
 gnashingly
 gnast
 girr
@@ -6276,6 +6275,7 @@ gillot
 gladdy
 gnatlike
 gnatproof
+gobang
 glyptographic
 gnats
 gnatsnap
