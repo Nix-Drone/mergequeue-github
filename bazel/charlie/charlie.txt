@@ -11745,7 +11745,6 @@ chondroclasis
 chondrocoracoid
 chondrocranial
 coendured
-chondrodystrophy
 chondrodystrophia
 chondroditic
 chondroendothelioma
@@ -15006,6 +15005,7 @@ cytostromatic
 cytotactic
 cardioaccelerator
 carpologically
+chondrodystrophy
 cytotaxis
 cytotaxonomy
 cytotaxonomic
