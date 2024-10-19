@@ -5095,7 +5095,6 @@ duodiode
 diopsidae
 denaturization
 denaturize
-denaturizer
 denaturizing
 denazify
 denazifies
@@ -8181,6 +8180,7 @@ diadrome
 diadromous
 dioti
 diadumenus
+denaturizer
 diaene
 diaereses
 diaeresis
