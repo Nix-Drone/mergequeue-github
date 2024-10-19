@@ -6884,6 +6884,7 @@ cemental
 cementation
 coaugment
 chapeaux
+concresce
 cementatory
 cemented
 cementer
@@ -21478,7 +21479,6 @@ concreate
 concredit
 concremation
 concrement
-concresce
 concrescence
 concrescences
 concrescent
