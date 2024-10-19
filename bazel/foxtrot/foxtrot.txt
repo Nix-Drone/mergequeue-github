@@ -8031,7 +8031,6 @@ forestaff
 forestaffs
 forestage
 forestay
-forestair
 fireplough
 forestays
 forehinting
@@ -8287,6 +8286,7 @@ faroese
 forhooy
 feminineness
 forelock
+forestair
 forhow
 fade
 foryield
