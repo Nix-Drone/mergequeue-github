@@ -4778,7 +4778,6 @@ carryout
 carryouts
 carryover
 carryovers
-carritch
 carritches
 carriwitchet
 conform
@@ -7057,6 +7056,7 @@ centervelic
 counterlit
 centerwise
 centeses
+carritch
 cunyie
 centesimal
 centesimally
