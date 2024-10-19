@@ -2232,7 +2232,6 @@ felting
 feltings
 feltmaking
 feltman
-foulard
 foredeep
 feltmonger
 felts
@@ -6749,6 +6748,7 @@ fogou
 fogproof
 fogram
 fellowshiping
+foulard
 fogramity
 fogrum
 fibroadenoma
