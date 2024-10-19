@@ -3110,7 +3110,6 @@ catenated
 capital
 capitaldom
 capitaled
-capitaling
 capitalisable
 capitalise
 capitalised
@@ -11954,6 +11953,7 @@ choriambize
 choriambs
 choriambus
 choriambuses
+capitaling
 choribi
 choric
 chorically
