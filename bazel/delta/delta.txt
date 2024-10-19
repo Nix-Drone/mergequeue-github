@@ -2973,7 +2973,6 @@ dedolomitizing
 deduce
 deducement
 deduces
-deducibility
 devitrify
 downsliding
 deducibly
@@ -10773,6 +10772,7 @@ directed
 diastereoisomeric
 directer
 directest
+deducibility
 directexamination
 directing
 dreamworld
