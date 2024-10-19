@@ -13451,7 +13451,6 @@ exscissor
 exscript
 exsculp
 exsculptate
-exscutellate
 exsec
 exsect
 eutaxie
@@ -13775,6 +13774,7 @@ extrachromosomal
 extracystic
 extracivic
 extracivically
+exscutellate
 extraclassroom
 extraclaustral
 extracloacal
