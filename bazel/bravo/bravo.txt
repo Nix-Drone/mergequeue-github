@@ -13882,6 +13882,7 @@ boxthorns
 boxty
 boxtop
 brager
+bankrolls
 boxtops
 boxwood
 bedevil
@@ -15041,7 +15042,6 @@ bressomer
 brest
 bret
 bretelle
-bankrolls
 bretesse
 breth
 brethel
