@@ -8150,7 +8150,6 @@ graphanalysis
 graphed
 gigabit
 grapheme
-graphemic
 glack
 governorships
 glues
@@ -10001,6 +10000,7 @@ guddler
 gudemother
 grassers
 gudes
+graphemic
 gudesake
 gudesire
 glagolitsa
