@@ -76,7 +76,6 @@ diarchial
 dacryocystoptosis
 dacryocystosyringotomy
 dacryocystotome
-dacryocystotomy
 dacryohemorrhea
 dacryolithiasis
 dacryoma
@@ -5663,6 +5662,7 @@ depersonalise
 disapproval
 depersonalising
 depersonalization
+dacryocystotomy
 depersonalized
 depersonalizes
 depersonalizing
