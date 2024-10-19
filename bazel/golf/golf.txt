@@ -3078,7 +3078,6 @@ geomance
 geoform
 gillnet
 geogen
-geogenesis
 gyropilot
 geogenetic
 geogeny
@@ -6360,6 +6359,7 @@ goadsman
 guarantine
 goajiro
 goal
+geogenesis
 goala
 gigantolite
 goalage
