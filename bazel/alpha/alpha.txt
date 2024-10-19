@@ -4033,7 +4033,6 @@ adjutage
 adjutancies
 adjutant
 adjutants
-adjutantship
 anesthetic
 adjutator
 adjute
@@ -17726,6 +17725,7 @@ appentice
 appenzell
 abdominales
 apperceive
+adjutantship
 almandite
 apperceived
 apperception
