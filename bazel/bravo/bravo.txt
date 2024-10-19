@@ -3768,7 +3768,6 @@ battener
 beknown
 batteners
 battening
-battens
 batter
 bread
 batterable
@@ -4388,6 +4387,7 @@ beblot
 beblotch
 benitoite
 beblubber
+battens
 basurale
 beblubbered
 bebog
