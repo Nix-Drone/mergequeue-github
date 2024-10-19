@@ -1084,6 +1084,7 @@ farmerly
 farmerlike
 farmership
 farmhold
+furstone
 farmhouse
 feronia
 farmhousey
@@ -11511,7 +11512,6 @@ foredid
 flixweed
 fursemide
 foreglimpse
-furstone
 falcunculus
 foresightedly
 furtherance
