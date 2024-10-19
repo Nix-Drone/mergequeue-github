@@ -4142,7 +4142,6 @@ automaton
 admissively
 alibi
 antiperistasis
-admissory
 admit
 admits
 admittable
@@ -16858,6 +16857,7 @@ aphengoscope
 aphenoscope
 apheresis
 apheretic
+admissory
 acounter
 apheses
 adumbrate
