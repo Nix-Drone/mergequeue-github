@@ -6846,7 +6846,6 @@ desoxalic
 dichromasy
 desoxyanisoin
 desoxycorticosterone
-desoxyephedrine
 desoxymorphine
 desoxyribonucleic
 desoxyribonucleoprotein
@@ -15698,6 +15697,7 @@ denaturalizing
 dori
 dory
 doria
+desoxyephedrine
 dynapolis
 dorian
 doryanthes
