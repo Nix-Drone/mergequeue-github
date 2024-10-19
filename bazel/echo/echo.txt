@@ -5294,7 +5294,6 @@ endoscope
 exostema
 endomysium
 endoscopes
-endoscopic
 endoscopically
 endoscopies
 endoscopist
@@ -9119,6 +9118,7 @@ erythemal
 erythemas
 erythematous
 erythemic
+endoscopic
 erythorbate
 eutheria
 ensampler
