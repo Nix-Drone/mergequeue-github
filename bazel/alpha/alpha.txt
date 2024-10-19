@@ -9943,7 +9943,6 @@ andrenid
 ambidextrously
 ambience
 ambiency
-ambiens
 ambient
 acrodus
 ambients
@@ -23073,6 +23072,7 @@ atterminal
 attermined
 atterminement
 attern
+ambiens
 atterr
 ascence
 atterrate
