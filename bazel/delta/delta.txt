@@ -6075,7 +6075,6 @@ dequantitate
 dequeue
 dequeues
 dequeuing
-dropshots
 der
 derabbinize
 deracialize
@@ -12032,6 +12031,7 @@ disentitlement
 disentitling
 drepanaspis
 diacetonuria
+dropshots
 disentomb
 disentombment
 disentraced
