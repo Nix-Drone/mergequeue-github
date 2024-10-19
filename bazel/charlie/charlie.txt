@@ -14616,7 +14616,6 @@ cystadenoma
 cystadenosarcoma
 cystalgia
 cystamine
-cystaster
 cystathionine
 cystatrophy
 conjugation
@@ -15022,6 +15021,7 @@ cytotrophy
 cytotrophoblast
 cloud
 cytotrophoblastic
+cystaster
 cytotropic
 cytotropism
 circularity
