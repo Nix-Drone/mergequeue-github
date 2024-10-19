@@ -4110,7 +4110,6 @@ carditises
 cardium
 chinner
 cardlike
-cardmaker
 cardmaking
 cardo
 cardol
@@ -7493,6 +7492,7 @@ ceratopteridaceous
 ceratopteris
 ceratorhine
 ceratosa
+cardmaker
 ceratospongiae
 ceratospongian
 ceratostomataceae
