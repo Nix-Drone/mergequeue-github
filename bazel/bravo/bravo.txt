@@ -2072,7 +2072,6 @@ banyoro
 banish
 banished
 banisher
-banishing
 banishment
 banister
 banisters
@@ -8973,6 +8972,7 @@ biodynamical
 biodynamics
 biodyne
 bioecology
+banishing
 bioecologically
 bioecologies
 bioecologist
