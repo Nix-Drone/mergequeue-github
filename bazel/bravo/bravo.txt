@@ -4222,6 +4222,7 @@ bearm
 bearpaw
 bearship
 bearskin
+bicyclical
 bearskins
 beartongue
 birdwatch
@@ -8070,7 +8071,6 @@ bicycler
 bicyclers
 backgrounds
 bicyclic
-bicyclical
 bicycling
 bicyclism
 bicyclist
