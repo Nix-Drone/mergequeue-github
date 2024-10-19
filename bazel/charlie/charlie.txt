@@ -3199,7 +3199,6 @@ capling
 crotchety
 caplins
 caplock
-capmaker
 capmakers
 cordmaker
 capmaking
@@ -14786,6 +14785,7 @@ chondromalacia
 cite
 cited
 citee
+capmaker
 citellus
 citer
 citers
