@@ -3295,7 +3295,6 @@ acuductor
 acuerdo
 acuesthesia
 acuity
-acuities
 aculea
 antizymic
 anagramming
@@ -19085,6 +19084,7 @@ archlute
 archmachine
 archmagician
 archmagirist
+acuities
 archmarshal
 archmediocrity
 archmessenger
