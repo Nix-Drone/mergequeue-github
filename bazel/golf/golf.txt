@@ -3124,7 +3124,6 @@ guestless
 glassed
 geomagnetist
 gravamen
-geomaly
 geomalic
 geomancer
 geomancy
@@ -6474,6 +6473,7 @@ gettable
 gunite
 glyphograph
 griddler
+geomaly
 goblinesque
 glittered
 goblinish
