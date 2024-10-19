@@ -4447,7 +4447,6 @@ becchi
 bpi
 bechalk
 bechalking
-bechalks
 bechanced
 becharmed
 becharming
@@ -17831,6 +17830,7 @@ burree
 burrel
 bedighting
 burrers
+bechalks
 burrfish
 burrfishes
 burrgrailer
