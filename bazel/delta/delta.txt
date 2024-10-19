@@ -2221,7 +2221,6 @@ decelerate
 dustbox
 decelerated
 decelerates
-decelerations
 decelerator
 decelerators
 deceleron
@@ -9259,6 +9258,7 @@ diethylacetal
 defilading
 diethylamide
 diethylamine
+decelerations
 dorsula
 diethylaminoethanol
 diethylethanolamine
