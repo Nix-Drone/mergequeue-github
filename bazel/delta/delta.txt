@@ -7063,7 +7063,6 @@ desucration
 desudation
 desuete
 desuetudes
-desugared
 desugaring
 desulfovibrio
 deciphering
@@ -13847,6 +13846,7 @@ distinctor
 distingue
 distinguee
 disfavourable
+desugared
 distinguishability
 distinguishable
 distinguishableness
