@@ -4354,6 +4354,7 @@ fishbolts
 falchions
 fishbowls
 fisheater
+fives
 fisheye
 fisheyes
 fisher
@@ -9019,7 +9020,6 @@ fountainous
 feaze
 fountainously
 fustle
-fives
 founts
 frizziness
 frenchy
