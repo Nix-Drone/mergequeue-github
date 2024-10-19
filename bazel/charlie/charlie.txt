@@ -6989,6 +6989,7 @@ censureship
 cobblery
 coddling
 census
+crowhopper
 caecitis
 censuses
 censusing
@@ -30061,7 +30062,6 @@ crowfeet
 crowflower
 crowfoots
 crowhop
-crowhopper
 crowing
 circa
 crowingly
