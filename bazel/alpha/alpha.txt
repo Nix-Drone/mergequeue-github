@@ -7153,7 +7153,6 @@ akka
 akkad
 androides
 akkadian
-akkadist
 akmite
 anagrammatized
 appender
@@ -12629,6 +12628,7 @@ angami
 antistrumous
 angara
 autophonoscope
+akkadist
 anhydrize
 angareb
 angareeb
