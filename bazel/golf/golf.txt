@@ -1967,7 +1967,6 @@ gatewise
 gatewoman
 gatherable
 gathered
-gilgai
 gatherers
 graplins
 gyrostabilizer
@@ -8425,6 +8424,7 @@ graveside
 geraty
 gallflower
 gratuitously
+gilgai
 gravelstone
 gravemaker
 gigantomachy
