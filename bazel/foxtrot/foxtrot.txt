@@ -7066,7 +7066,6 @@ fratercula
 fonts
 furnitures
 foochowese
-food
 foody
 foodless
 foodlessness
@@ -10017,6 +10016,7 @@ fuse
 fenestrone
 fleawood
 friendship
+food
 formalizes
 frier
 fryer
