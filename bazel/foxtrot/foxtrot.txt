@@ -2405,6 +2405,7 @@ fairyship
 feralin
 ferash
 favel
+feoffed
 ferbams
 fere
 fourchet
@@ -5793,7 +5794,6 @@ flywinch
 frankable
 flix
 fll
-feoffed
 flamingoes
 finder
 flnerie
