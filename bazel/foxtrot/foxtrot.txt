@@ -3618,7 +3618,6 @@ filer
 fanons
 filers
 files
-frailly
 filesmith
 filesniff
 flagships
@@ -8012,6 +8011,7 @@ fondue
 foreskins
 foreslack
 flipper
+frailly
 foreslow
 foresound
 forespake
