@@ -3904,7 +3904,6 @@ adipocyte
 adipofibroma
 adipogenic
 adipogenous
-adipoid
 adipolysis
 adipolytic
 adipoma
@@ -25239,6 +25238,7 @@ andriana
 azeotropic
 azeotropism
 azerbaijanese
+adipoid
 azerbaijani
 azerbaijanian
 antecabinet
