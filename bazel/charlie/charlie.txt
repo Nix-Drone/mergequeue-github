@@ -25766,7 +25766,6 @@ corrosibility
 corrosibleness
 corrosional
 corrosionproof
-corrosive
 corrosived
 corrosively
 corrosiveness
@@ -29103,6 +29102,7 @@ crinums
 cryobiology
 cryobiological
 cryobiologist
+corrosive
 criobolium
 cryocautery
 caldarium
