@@ -2328,6 +2328,7 @@ fencings
 firehouse
 fend
 fended
+freeway
 ferric
 fender
 fumarole
@@ -9754,7 +9755,6 @@ freestones
 freet
 footwalls
 freety
-freeway
 freeward
 flavorings
 freewheel
