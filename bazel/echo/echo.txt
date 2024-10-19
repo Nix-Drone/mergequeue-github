@@ -10403,7 +10403,6 @@ ethmopalatine
 ethmophysal
 ethmopresphenoidal
 ethmose
-ethmosphenoid
 epiphyllous
 ethmosphenoidal
 ethmoturbinal
@@ -12671,6 +12670,7 @@ emda
 envermeil
 exodus
 exoenzyme
+ethmosphenoid
 expulsory
 exogamic
 exogamous
