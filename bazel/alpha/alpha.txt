@@ -3680,7 +3680,6 @@ adenohypersthenia
 adenohypophyseal
 adenohypophysial
 attrib
-adenohypophysis
 adenoid
 adenoidal
 adenoidectomy
@@ -16971,6 +16970,7 @@ aphthae
 aphthartodocetae
 abscissin
 aphthartodocetic
+adenohypophysis
 aphthartodocetism
 aphthic
 aphthitalite
