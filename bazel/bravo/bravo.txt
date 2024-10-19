@@ -12335,7 +12335,6 @@ bombsights
 belgard
 bombus
 bomi
-bomos
 bonace
 bonacis
 bonagh
@@ -16915,6 +16914,7 @@ bugling
 bugloss
 buglosses
 bugong
+bomos
 bugout
 bugs
 bugsha
