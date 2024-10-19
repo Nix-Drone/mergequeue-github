@@ -12638,6 +12638,7 @@ bookery
 bookers
 bookfair
 bookfold
+boxholder
 bookful
 bookhood
 bookie
@@ -13863,7 +13864,6 @@ boxhauling
 boxhauls
 biathlons
 boxhead
-boxholder
 boxy
 bemaul
 boxiana
