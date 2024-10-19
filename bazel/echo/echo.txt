@@ -3357,7 +3357,6 @@ embargoes
 embargoing
 ethnohistorically
 embargoist
-embargos
 embark
 embarkations
 epitomize
@@ -9720,6 +9719,7 @@ esophagometer
 esophagomycosis
 esophagopathy
 esophagoplasty
+embargos
 esophagoplication
 esophagoptosis
 esophagorrhagia
