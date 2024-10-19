@@ -8196,7 +8196,6 @@ chains
 chainsman
 chainsmen
 cleanups
-chainsmith
 chainwale
 chainwork
 chayota
@@ -27921,6 +27920,7 @@ cragged
 craggedness
 craggy
 craggier
+chainsmith
 convented
 catenary
 casino
