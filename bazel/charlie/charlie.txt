@@ -13280,7 +13280,6 @@ cyclicality
 cyclically
 cyclicalness
 cyclicism
-cyclicity
 cyclicly
 cyclide
 cyclindroid
@@ -22339,6 +22338,7 @@ compoing
 congrue
 congruence
 congruences
+cyclicity
 crystallitis
 congruency
 columella
