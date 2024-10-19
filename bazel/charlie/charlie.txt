@@ -6998,6 +6998,7 @@ centai
 cental
 centals
 chock
+clearable
 centares
 centaur
 centaurdom
@@ -15835,7 +15836,6 @@ cleanskins
 cleanup
 clear
 chelaship
-clearable
 clearage
 clearance
 clearances
