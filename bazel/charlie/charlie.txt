@@ -8598,7 +8598,6 @@ chanceless
 chancelled
 chancellery
 chancelleries
-chancellor
 chancellorate
 chancelloress
 chancellory
@@ -19792,6 +19791,7 @@ cometary
 cometaria
 cometarium
 cometh
+chancellor
 cavum
 comethers
 cometic
