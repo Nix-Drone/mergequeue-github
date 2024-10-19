@@ -3610,7 +3610,6 @@ firelight
 filemaker
 fluidize
 filemark
-filemot
 foreknee
 filename
 filenames
@@ -5645,6 +5644,7 @@ fulltime
 flindosa
 flindosy
 flingers
+filemot
 flingy
 fablemonger
 flinging
