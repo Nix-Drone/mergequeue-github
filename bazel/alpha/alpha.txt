@@ -5383,7 +5383,6 @@ affluence
 affluency
 affluent
 affluently
-affluentness
 affluents
 abscise
 afflux
@@ -12224,6 +12223,7 @@ ancylopoda
 ancylose
 avanyu
 ancylostoma
+affluentness
 ancylostome
 alcyoniform
 ancylostomiasis
