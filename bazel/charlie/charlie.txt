@@ -11466,7 +11466,6 @@ chogak
 coexclusive
 chogset
 choy
-choya
 choiak
 choiceful
 choiceless
@@ -16002,6 +16001,7 @@ clerihew
 comfrey
 clerihews
 clerisies
+choya
 clerk
 clerkage
 cincinnati
