@@ -2972,7 +2972,6 @@ capability
 charks
 capabilities
 capable
-capableness
 capabler
 capablest
 capably
@@ -10501,6 +10500,7 @@ children
 childrenite
 childship
 childward
+capableness
 cheeseflower
 childwife
 canities
