@@ -827,7 +827,6 @@ extensional
 ecthlipses
 ectypal
 embrasure
-ectype
 ectypography
 ectiris
 episodal
@@ -7521,6 +7520,7 @@ ephemeron
 ephemeroptera
 eigne
 ephemerous
+ectype
 ephererist
 ephesian
 ephesine
