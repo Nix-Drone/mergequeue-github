@@ -6410,6 +6410,7 @@ derringers
 derrire
 derris
 derrises
+drawlatch
 derth
 dertra
 dertrum
@@ -16839,7 +16840,6 @@ drawings
 drawknives
 drawknot
 deliquescent
-drawlatch
 drawled
 drawly
 diaphanoscopy
