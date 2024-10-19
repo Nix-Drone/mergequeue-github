@@ -2737,7 +2737,6 @@ barlows
 barm
 bollixes
 barmaids
-barman
 barmaster
 barmbrack
 barmcloth
@@ -14310,6 +14309,7 @@ brailles
 bursiform
 braillewriter
 bambino
+barman
 brailling
 bailpiece
 braillist
