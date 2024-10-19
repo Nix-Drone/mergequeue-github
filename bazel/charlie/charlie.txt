@@ -5739,6 +5739,7 @@ categorisation
 categorise
 categorised
 categorising
+compileable
 categorist
 categorization
 categorizations
@@ -20595,7 +20596,6 @@ compilable
 compilation
 compilations
 compilator
-compileable
 compiled
 compilement
 compiling
