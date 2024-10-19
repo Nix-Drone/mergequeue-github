@@ -3544,7 +3544,6 @@ decadarchy
 defrayed
 defrayer
 defrayers
-defraying
 defraudation
 defrauded
 defrauder
@@ -17723,6 +17722,7 @@ dys
 disinvestiture
 dubbeltje
 dubber
+defraying
 dubbin
 dubbing
 discriminable
