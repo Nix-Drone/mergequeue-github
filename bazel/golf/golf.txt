@@ -499,6 +499,7 @@ galeodes
 ganglia
 galeodidae
 galeoid
+generative
 gnapweed
 galeopsis
 glossoncus
@@ -2720,7 +2721,6 @@ generater
 gurdy
 gombroons
 generations
-generative
 generativeness
 gameball
 generators
