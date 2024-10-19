@@ -7528,7 +7528,6 @@ cercariform
 cerci
 cercidiphyllaceae
 cavel
-cercis
 cercises
 cercocebus
 cercolabes
@@ -23874,6 +23873,7 @@ controller
 costophrenic
 controllers
 controlless
+cercis
 controlling
 cananga
 controls
