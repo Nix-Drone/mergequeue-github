@@ -13826,7 +13826,6 @@ baccalaurean
 bowshots
 bowsie
 bowsing
-bowsprit
 bowsprits
 brokenhearted
 bowstave
@@ -17208,6 +17207,7 @@ bullous
 bulbotuber
 bullpen
 bullpens
+bowsprit
 bullpoll
 belibeling
 bullpup
