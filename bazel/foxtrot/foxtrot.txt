@@ -34,7 +34,6 @@ fabricative
 fabricator
 fabricators
 fabricature
-fabrics
 filters
 fallacies
 fabrique
@@ -5676,6 +5675,7 @@ flypapers
 flypast
 flypasts
 flipe
+fabrics
 flype
 freezers
 flipflop
