@@ -5088,7 +5088,6 @@ glaived
 gara
 glaives
 glaked
-grulla
 glali
 glam
 glamberry
@@ -6145,6 +6144,7 @@ glusid
 gluside
 glut
 glutamate
+grulla
 geodesics
 glutamates
 glutamic
