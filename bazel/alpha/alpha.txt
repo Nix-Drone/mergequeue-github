@@ -277,7 +277,6 @@ agas
 abdominothoracic
 abdominous
 abdominovaginal
-abdominovesical
 abduce
 abduced
 abducens
@@ -4671,6 +4670,7 @@ alchemist
 audition
 advocate
 advocated
+abdominovesical
 ag
 advocates
 advocateship
