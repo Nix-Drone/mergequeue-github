@@ -3419,7 +3419,6 @@ damnum
 defleas
 deflect
 driftfishes
-deflectable
 deflected
 deflecting
 deflectionization
@@ -7474,6 +7473,7 @@ deuterotokous
 decuries
 deuterovitellose
 deuterozooid
+deflectable
 didynamies
 desultorious
 deutobromide
