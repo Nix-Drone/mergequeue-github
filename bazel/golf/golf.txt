@@ -2262,7 +2262,6 @@ gears
 guernseys
 gearset
 gearshift
-gearshifts
 gearwheels
 glistening
 gease
@@ -9086,6 +9085,7 @@ gruelly
 grindings
 grindstone
 grisounite
+gearshifts
 grindstones
 gringole
 grinned
