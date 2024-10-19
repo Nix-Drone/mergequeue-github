@@ -3492,7 +3492,6 @@ defoliage
 defoliant
 dorsobranchiata
 defoliants
-defoliate
 defoliates
 defoliating
 defoliation
@@ -17230,6 +17229,7 @@ drive
 driveable
 driveaway
 dog
+defoliate
 drivebolt
 duikers
 drivehead
