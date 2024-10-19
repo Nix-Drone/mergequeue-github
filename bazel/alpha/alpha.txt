@@ -9659,6 +9659,7 @@ albacea
 acropolises
 alveololingual
 alveolonasal
+antimerging
 alveolosubnasal
 alveolus
 alveus
@@ -15545,7 +15546,6 @@ antimere
 antimeres
 amninions
 antimerger
-antimerging
 antimeric
 antimerina
 antimerism
