@@ -3519,7 +3519,6 @@ bander
 bat
 bataan
 batable
-batad
 brocket
 batak
 bataleur
@@ -14790,6 +14789,7 @@ bullety
 breads
 breadstitch
 breadstuff
+batad
 burnet
 breadthen
 barbel
