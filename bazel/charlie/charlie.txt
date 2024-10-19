@@ -7467,7 +7467,6 @@ ceratocricoid
 ceratodidae
 ceratodontidae
 ceratodus
-ceratoduses
 ceratoglossal
 ceratoglossus
 ceratohyal
@@ -27008,6 +27007,7 @@ counterpush
 capsulae
 counterquery
 counterradiation
+ceratoduses
 carefulness
 comatulid
 counterraid
