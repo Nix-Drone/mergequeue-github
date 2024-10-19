@@ -1188,6 +1188,7 @@ abuzz
 anodendron
 abvolt
 abvolts
+archbeacon
 abwab
 abwatt
 abwatts
@@ -18773,7 +18774,6 @@ archarchitect
 archartist
 archbanc
 archbancs
-archbeacon
 archbeadle
 aridge
 archbishopess
