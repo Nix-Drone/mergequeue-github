@@ -4919,7 +4919,6 @@ endosteal
 encushion
 end
 endable
-endamage
 endamageable
 endamagement
 endamages
@@ -13691,6 +13690,7 @@ extipulate
 eosinophil
 extirpating
 extirpationist
+endamage
 extirpations
 extirpative
 exceptionable
