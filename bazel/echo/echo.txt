@@ -6314,7 +6314,6 @@ enroots
 encirclement
 enround
 enruin
-enrut
 ens
 ensafe
 elenchtic
@@ -9377,6 +9376,7 @@ ersatz
 electrolyzable
 eulamellibranch
 erse
+enrut
 erses
 ersh
 erst
