@@ -2985,7 +2985,6 @@ capacitance
 capacitances
 capacitate
 capacitated
-cooperators
 capacitations
 capacitative
 capacitativly
@@ -20761,6 +20760,7 @@ complish
 complot
 complotment
 complots
+cooperators
 complotter
 complotting
 complutensian
