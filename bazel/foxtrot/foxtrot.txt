@@ -1105,7 +1105,6 @@ farmsteads
 farmtown
 farnesol
 farnesols
-fogas
 flinger
 farnesses
 faro
@@ -7269,6 +7268,7 @@ femorofibular
 footstall
 footstick
 footstock
+fogas
 fortlet
 footstools
 fleeches
