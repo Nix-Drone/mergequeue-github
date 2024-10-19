@@ -3390,7 +3390,6 @@ definitiveness
 definitize
 definitized
 definitizing
-definitor
 doles
 defis
 defix
@@ -5787,6 +5786,7 @@ depolarisation
 depolarise
 drapeable
 depolarised
+definitor
 depolariser
 darksome
 depolarising
