@@ -2625,7 +2625,6 @@ electrosensitive
 electroshock
 electroshocks
 electrosynthesis
-electrosynthetically
 envenoms
 electrosmosis
 electrostatic
@@ -6678,6 +6677,7 @@ enterolith
 eucleidae
 enuring
 enterology
+electrosynthetically
 enterologic
 enteromegaly
 enteromegalia
