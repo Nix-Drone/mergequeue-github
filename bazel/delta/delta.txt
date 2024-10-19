@@ -6226,7 +6226,6 @@ dermaskeleton
 dermasurgery
 dedolomitization
 dermatagra
-dermatalgia
 dermataneuria
 dermatatrophia
 darii
@@ -10733,6 +10732,7 @@ dipt
 dipter
 dipteraceae
 dipteraceous
+dermatalgia
 dipterad
 dipterygian
 dipteryx
