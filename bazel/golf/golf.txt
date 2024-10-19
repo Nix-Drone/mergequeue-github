@@ -7343,7 +7343,6 @@ gossipred
 gossips
 groupist
 guacin
-gossoons
 gestor
 goster
 gosther
@@ -10196,6 +10195,7 @@ guildsmen
 guessworker
 guile
 guileful
+gossoons
 gyroscopic
 guilefulness
 guilelessness
