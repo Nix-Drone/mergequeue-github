@@ -3691,7 +3691,6 @@ embryoniferous
 embryons
 embryopathology
 embryophagous
-embryophyta
 embryophyte
 embryophore
 embryoplastic
@@ -3914,6 +3913,7 @@ emigration
 emigrationist
 emigrative
 emigrator
+embryophyta
 emigre
 equivote
 excression
