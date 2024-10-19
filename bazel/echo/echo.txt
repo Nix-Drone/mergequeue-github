@@ -2262,7 +2262,6 @@ electioneerer
 elections
 elective
 ephemerons
-electives
 electivism
 electivity
 electo
@@ -7677,6 +7676,7 @@ ep
 ecbolics
 elephas
 epicolic
+electives
 epicondylian
 eundem
 engraulidae
