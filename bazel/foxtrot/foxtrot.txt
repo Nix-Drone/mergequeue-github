@@ -6814,6 +6814,7 @@ fold
 fevers
 foldage
 foldaway
+fuzzy
 foldboater
 farmings
 foldboating
@@ -8276,7 +8277,6 @@ forgoes
 forgot
 forgotten
 foussa
-fuzzy
 faraon
 forgrow
 forhaile
