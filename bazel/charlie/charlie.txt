@@ -428,6 +428,7 @@ cactiform
 cactoid
 cactus
 civilisable
+curse
 cactuses
 cactuslike
 cacumen
@@ -31480,7 +31481,6 @@ counterinvective
 cursa
 cursal
 cursaro
-curse
 cursed
 curseder
 cursedest
