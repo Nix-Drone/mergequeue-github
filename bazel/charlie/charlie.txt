@@ -5046,7 +5046,6 @@ casearia
 casease
 caseases
 caseate
-caseated
 caseates
 caseating
 caseation
@@ -27728,6 +27727,7 @@ coxwain
 camouflaged
 coxwains
 coze
+caseated
 cozed
 cozey
 cozeier
