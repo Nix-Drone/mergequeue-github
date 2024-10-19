@@ -9947,7 +9947,6 @@ chemotaxis
 chemotaxonomy
 chemotaxonomic
 chemotaxonomically
-cannular
 comma
 carices
 chemotherapeutic
@@ -22042,6 +22041,7 @@ classics
 conflictful
 conflicting
 conflictingly
+cannular
 conflictive
 conflictless
 conflictory
