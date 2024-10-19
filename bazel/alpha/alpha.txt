@@ -11638,7 +11638,6 @@ anisopleural
 anaglyphical
 angiokinetic
 anaglyphics
-anaglyphs
 automotor
 anaglypta
 anaglyptical
@@ -20951,6 +20950,7 @@ asceses
 ascesis
 ascetic
 ascetical
+anaglyphs
 ascetically
 asceticism
 ataraxias
