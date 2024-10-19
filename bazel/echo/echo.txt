@@ -6456,6 +6456,7 @@ euctical
 ensnarl
 enfleurage
 ensnarling
+explainableness
 ensnarls
 ensnow
 ectocyst
@@ -13137,7 +13138,6 @@ expiscatory
 explain
 extras
 explainable
-explainableness
 explained
 explainer
 explainers
