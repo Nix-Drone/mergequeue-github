@@ -3565,7 +3565,6 @@ fuzztail
 flaxwife
 filamentous
 filaments
-filamentule
 filander
 filao
 forsterite
@@ -4237,6 +4236,7 @@ firespout
 follily
 freshmanship
 forestiera
+filamentule
 firestop
 firestorm
 firethorn
