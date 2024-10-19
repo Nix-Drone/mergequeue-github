@@ -1355,6 +1355,7 @@ effectress
 effects
 effectual
 effectuality
+exposing
 effectualness
 effectuated
 effectuates
@@ -13292,7 +13293,6 @@ exposed
 exposedness
 exposers
 exposes
-exposing
 exposit
 expositing
 esthesiometry
