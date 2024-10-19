@@ -3252,6 +3252,7 @@ bifrontal
 belesprit
 basidiospore
 basidiosporous
+bloodfin
 basidorsal
 basifacial
 basify
@@ -11069,7 +11070,6 @@ blooddrop
 blooddrops
 blooded
 bloodedness
-bloodfin
 bloodfins
 bloodflower
 bloodguiltiness
