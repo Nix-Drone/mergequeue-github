@@ -5290,7 +5290,6 @@ crizzling
 castellanies
 castellano
 castellans
-castellanship
 castellate
 castellated
 castellation
@@ -16009,6 +16008,7 @@ chalcotript
 clerkdoms
 clerkery
 clerkess
+castellanship
 cryptomonad
 clerkhood
 clerking
