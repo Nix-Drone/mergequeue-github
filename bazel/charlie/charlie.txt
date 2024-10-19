@@ -9493,7 +9493,6 @@ chebecs
 chebel
 chebog
 chebule
-chebulic
 chechako
 chechakos
 chechem
@@ -18359,6 +18358,7 @@ cogway
 cogways
 cogweel
 cogweels
+chebulic
 capelets
 cogwheels
 cogwood
