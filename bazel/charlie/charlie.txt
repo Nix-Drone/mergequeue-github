@@ -12471,7 +12471,6 @@ chromodiascope
 chromogen
 chromogene
 chromogenesis
-chromogenetic
 chromogenous
 chromoisomer
 chromoisomeric
@@ -24875,6 +24874,7 @@ corallinaceae
 cybernated
 corallinaceous
 coralline
+chromogenetic
 corallita
 corallium
 coralloid
