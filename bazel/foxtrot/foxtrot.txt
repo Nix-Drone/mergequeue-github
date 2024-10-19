@@ -5082,7 +5082,6 @@ ferricyanhydric
 flasker
 foretooth
 faecal
-flasklet
 flasks
 flasque
 flat
@@ -9682,6 +9681,7 @@ freedoms
 freedoot
 fizzed
 friableness
+flasklet
 fart
 front
 fornicating
