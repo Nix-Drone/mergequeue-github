@@ -3011,7 +3011,6 @@ barrico
 barricoes
 barrier
 barriers
-barriguda
 barrigudos
 broadaxe
 barrikin
@@ -4298,6 +4297,7 @@ balzacian
 broker
 beaconed
 beaufet
+barriguda
 beaufin
 beaufort
 beaugregory
