@@ -6929,7 +6929,6 @@ airometer
 airpark
 airphobia
 airplay
-airplane
 airplaned
 airplaner
 airplanes
@@ -18318,6 +18317,7 @@ aquinas
 aquincubital
 aquincubitalism
 aquinist
+airplane
 aquintocubital
 aquiparous
 aquitanian
