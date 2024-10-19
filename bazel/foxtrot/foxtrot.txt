@@ -4217,7 +4217,6 @@ fireplug
 frieze
 fireplugs
 firepot
-fireproofed
 fireproofing
 fireproofness
 fireroom
@@ -6610,6 +6609,7 @@ fluxure
 fn
 footcloth
 fnese
+fireproofed
 fo
 foal
 foaled
