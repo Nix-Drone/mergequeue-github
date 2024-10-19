@@ -1896,6 +1896,7 @@ debt
 debted
 debtee
 debtful
+disbarring
 debtless
 debtor
 debtors
@@ -11150,7 +11151,6 @@ disbark
 drubbings
 disbarment
 disbarred
-disbarring
 disbars
 disbase
 disbelief
