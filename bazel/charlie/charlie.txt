@@ -9872,6 +9872,7 @@ chemism
 choosy
 chemisorb
 chemisorption
+cropweed
 cantator
 counteraverment
 coprophilic
@@ -29776,7 +29777,6 @@ cropplecrown
 crops
 cropshin
 cropsick
-cropweed
 casekeeper
 croqueted
 croqueting
