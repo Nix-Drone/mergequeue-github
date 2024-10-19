@@ -2558,7 +2558,6 @@ ferrean
 fluorindine
 filt
 foulmouth
-ferredoxin
 ferreiro
 ferreled
 ferreling
@@ -6803,6 +6802,7 @@ foiter
 fokker
 fol
 folacin
+ferredoxin
 folacins
 franklandite
 folate
