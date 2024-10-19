@@ -5102,7 +5102,6 @@ allthorn
 aerotherapeutics
 aerotherapy
 amreetas
-aerothermodynamic
 aerothermodynamics
 aerotonometer
 aerotonometry
@@ -10199,6 +10198,7 @@ ameliorative
 aposaturn
 amelioratively
 ameliorator
+aerothermodynamic
 amelioratory
 ameloblast
 amelu
