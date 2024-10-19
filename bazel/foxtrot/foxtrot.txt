@@ -2525,6 +2525,7 @@ ferninst
 fernlike
 farsakh
 ferns
+formalness
 fernseed
 flustrum
 fernshaw
@@ -8391,7 +8392,6 @@ formalizer
 foreknowledge
 fettuccine
 formally
-formalness
 fetid
 fireblende
 fricatives
