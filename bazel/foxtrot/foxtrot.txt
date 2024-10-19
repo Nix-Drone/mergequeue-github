@@ -4347,6 +4347,7 @@ fishable
 fishback
 fishberry
 fleshers
+flammulated
 fishberries
 fishboat
 fishbolt
@@ -4938,7 +4939,6 @@ flammation
 flammed
 fountains
 flaughter
-flammulated
 flammulation
 flammule
 frosteds
