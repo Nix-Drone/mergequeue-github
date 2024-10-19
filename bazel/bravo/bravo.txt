@@ -439,6 +439,7 @@ boskets
 backrush
 backrushes
 backsaws
+blacktail
 backscatter
 backscattered
 backscattering
@@ -10195,7 +10196,6 @@ blacksnake
 blackstick
 burghbote
 baneful
-blacktail
 bliaut
 boogaloo
 blackthorns
