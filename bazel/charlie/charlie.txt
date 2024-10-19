@@ -16250,7 +16250,6 @@ clinoaxis
 clinocephaly
 clinocephalic
 carideer
-clinocephalous
 cerebrally
 clinocephalus
 clinochlore
@@ -17868,6 +17867,7 @@ coined
 coelacanth
 cyclophrenia
 coelacanthidae
+clinocephalous
 chorionepithelioma
 coelacanthine
 coelacanthini
