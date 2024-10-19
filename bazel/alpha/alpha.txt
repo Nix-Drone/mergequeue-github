@@ -24165,7 +24165,6 @@ autoloaders
 autoloading
 autology
 autological
-autologist
 autologous
 autoluminescence
 alienicolae
@@ -24686,6 +24685,7 @@ avert
 adults
 achromatise
 avertable
+autologist
 averted
 avertedly
 averter
