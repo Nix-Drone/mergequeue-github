@@ -6002,7 +6002,6 @@ autoing
 aramis
 agglutinable
 agglutinant
-apical
 anthropodus
 agglutinate
 agglutinated
@@ -14907,6 +14906,7 @@ anticyclic
 anticyclical
 apocodeine
 anticyclically
+apical
 anticyclogenesis
 antireactive
 anticyclolysis
