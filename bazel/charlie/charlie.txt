@@ -11614,7 +11614,6 @@ cholelithotrity
 cholemia
 cholent
 cholents
-choleokinase
 cholepoietic
 cooks
 choler
@@ -28590,6 +28589,7 @@ cremasteric
 cremate
 cremates
 crosspoints
+choleokinase
 cremating
 cremation
 cremationism
