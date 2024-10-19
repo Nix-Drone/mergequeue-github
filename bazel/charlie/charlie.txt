@@ -824,7 +824,6 @@ cajeput
 cajeputol
 cajeputole
 cajeputs
-cajolement
 celure
 cajolements
 cajoler
@@ -22204,6 +22203,7 @@ congenerous
 congeners
 congenetic
 congenial
+cajolement
 congeniality
 congenially
 congenialness
