@@ -2175,6 +2175,7 @@ fermentatory
 fellow
 fishfall
 fellowcraft
+felsite
 fellowheirship
 fellowing
 fellowman
@@ -5763,7 +5764,6 @@ flytrap
 ferrochrome
 flytraps
 flitted
-felsite
 flitterbat
 flittered
 flittering
