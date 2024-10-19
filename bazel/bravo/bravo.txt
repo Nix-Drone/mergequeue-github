@@ -2580,7 +2580,6 @@ bargelike
 bargelli
 bargello
 bargeload
-bargeman
 bromcamphor
 bookmaking
 bargemaster
@@ -8243,6 +8242,7 @@ biennially
 biennials
 biennium
 bienniums
+bargeman
 boyism
 biens
 bientt
