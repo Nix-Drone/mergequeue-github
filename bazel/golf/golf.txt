@@ -909,7 +909,6 @@ gambist
 gambits
 gonotocont
 guillemot
-gamble
 gambler
 gamblesome
 gamblesomeness
@@ -4589,6 +4588,7 @@ gyp
 gyps
 gipseian
 gipser
+gamble
 gipsy
 gypsy
 gipsydom
