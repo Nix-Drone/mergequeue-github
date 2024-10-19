@@ -1522,6 +1522,7 @@ garrigue
 gulravage
 goodnight
 garrisonian
+graphemes
 garrisoning
 garrisonism
 garrisons
@@ -4966,7 +4967,6 @@ glacialism
 glacialist
 glacialize
 glaciaria
-graphemes
 glaciarium
 glaciated
 glaciates
