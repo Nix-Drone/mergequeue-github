@@ -7217,7 +7217,6 @@ centrodesmose
 centrodesmus
 centrodorsal
 centroid
-centroidal
 centroids
 centrolecithal
 centrolepidaceae
@@ -19279,6 +19278,7 @@ colonised
 colonises
 capture
 colonising
+centroidal
 colonist
 chiromancer
 colonizability
