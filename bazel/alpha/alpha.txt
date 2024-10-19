@@ -8839,7 +8839,6 @@ acrogenic
 alloys
 alloisomer
 alloisomeric
-alloisomerism
 allokinetic
 allokurtic
 allolalia
@@ -18855,6 +18854,7 @@ archegony
 archegonia
 archegonial
 archegoniata
+alloisomerism
 archegoniatae
 archegonium
 abeltree
