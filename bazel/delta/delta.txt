@@ -1797,7 +1797,6 @@ debel
 diplasiasmus
 debellate
 debellation
-debellator
 deben
 debenture
 debentured
@@ -11630,6 +11629,7 @@ discorded
 discorder
 discordful
 discordia
+debellator
 discordous
 discords
 discorporate
