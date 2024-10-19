@@ -288,7 +288,6 @@ backarrows
 backout
 backband
 backbar
-backbearing
 biotechnologies
 backbencher
 backbend
@@ -14033,6 +14032,7 @@ brachiosaurus
 brachiostrophosis
 brachyphalangia
 brachyphyllum
+backbearing
 bullan
 brachypinacoid
 bullated
