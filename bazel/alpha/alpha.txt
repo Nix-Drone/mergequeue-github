@@ -2649,7 +2649,6 @@ acouchi
 acoumeter
 allylene
 acoumetry
-autodetector
 airframes
 acouometer
 acouophonia
@@ -25167,6 +25166,7 @@ axmanship
 axmaster
 axminster
 axodendrite
+autodetector
 axofugal
 axogamy
 axoid
