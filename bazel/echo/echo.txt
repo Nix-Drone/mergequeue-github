@@ -2521,7 +2521,6 @@ electrometrical
 electrometrically
 electromyogram
 electromyography
-electromyographically
 electromobile
 electromotive
 electromotograph
@@ -8317,6 +8316,7 @@ epitaphs
 epitases
 expurgative
 epitasis
+electromyographically
 epitaxy
 endball
 ectosteally
