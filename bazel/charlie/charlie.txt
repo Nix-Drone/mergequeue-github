@@ -8827,7 +8827,6 @@ chapelward
 chaperno
 chaperon
 chaperonage
-chaperone
 chaperoned
 chaperonless
 chaperons
@@ -19076,6 +19075,7 @@ countersway
 clashed
 collyridian
 collyrite
+chaperone
 collyrium
 collyriums
 collis
