@@ -6941,7 +6941,6 @@ folksiness
 folksong
 folksongs
 folktales
-folkvangr
 foll
 foller
 folles
@@ -11748,6 +11747,7 @@ fautorship
 fuzzier
 fuzziest
 filose
+folkvangr
 fuzzily
 firestopping
 fertilitate
