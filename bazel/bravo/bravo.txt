@@ -2452,7 +2452,6 @@ ballyhooer
 bullpout
 barcarole
 betatter
-barcaroles
 becut
 barcarolle
 barcas
@@ -16688,6 +16687,7 @@ boongary
 bucklum
 bucko
 buckone
+barcaroles
 buckpot
 buckram
 buckraming
