@@ -3112,7 +3112,6 @@ actinolitic
 anthropogenesis
 actinology
 actinomere
-actinomeric
 actinometry
 actinometric
 actinometrical
@@ -23990,6 +23989,7 @@ autocross
 autocue
 autodecomposition
 autodecrement
+actinomeric
 autodecremented
 autodecrements
 aerodynamic
