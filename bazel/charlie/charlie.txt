@@ -9843,7 +9843,6 @@ chemicomineralogical
 chemicopharmaceutical
 chemicophysical
 chemicophysics
-chemicophysiological
 curtaining
 chemicovital
 chemiculture
@@ -13578,6 +13577,7 @@ cylindricule
 cylindriform
 cylindrite
 cylindrocellular
+chemicophysiological
 cylindrocephalic
 carnifying
 cylindrocylindric
