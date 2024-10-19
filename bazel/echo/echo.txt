@@ -839,7 +839,6 @@ erigenia
 extent
 ectocarpaceae
 ectocarpales
-ectocarpic
 ectocarpous
 ectocarpus
 ectocelic
@@ -1745,6 +1744,7 @@ ethylenes
 eyeable
 eyeball
 eyeballed
+ectocarpic
 eyeballing
 effetmen
 eyeballs
