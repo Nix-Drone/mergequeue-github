@@ -11392,7 +11392,6 @@ dissuader
 debug
 disclosed
 discloser
-discloses
 disclosing
 disclosive
 disclosure
@@ -16256,6 +16255,7 @@ delenda
 downcome
 downcomer
 downcomes
+discloses
 downcoming
 downcourt
 demodulated
