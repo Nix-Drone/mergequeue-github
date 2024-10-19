@@ -1645,6 +1645,7 @@ ballonets
 ballonette
 bethroot
 ballonne
+booleans
 ballonnes
 balloon
 ballooners
@@ -12732,7 +12733,6 @@ bookwright
 bool
 bowline
 boolean
-booleans
 booley
 booleys
 booly
