@@ -4654,7 +4654,6 @@ bedchair
 bedchairs
 bedchamber
 bratstva
-bedclothing
 bedcord
 byplays
 bedcovers
@@ -11514,6 +11513,7 @@ blushingly
 blushless
 blusht
 beth
+bedclothing
 blushwort
 blusteration
 blustered
