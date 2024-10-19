@@ -12633,7 +12633,6 @@ bookcraft
 bookdealer
 bushmaster
 bookends
-booker
 bookery
 bookers
 bookfair
@@ -15968,6 +15967,7 @@ bronchiospasm
 bronchitic
 bronchitis
 bronchoalveolar
+booker
 bronchoaspergillosis
 bronchoblennorrhea
 bronchobuster
