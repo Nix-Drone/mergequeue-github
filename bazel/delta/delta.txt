@@ -5639,7 +5639,6 @@ dependence
 dependency
 dependencies
 depending
-dependingly
 depends
 defacingly
 dukeship
@@ -16298,6 +16297,7 @@ downhauls
 downheaded
 downheartedly
 deediness
+dependingly
 diffusibly
 downheartedness
 downhill
