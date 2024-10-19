@@ -11742,6 +11742,7 @@ analytique
 analyzability
 analyzable
 analyzation
+arrowlike
 analyze
 analyzed
 analyzers
@@ -20343,7 +20344,6 @@ arrowleaf
 arrowless
 ashet
 arrowlet
-arrowlike
 arrowplate
 automolite
 arrowroots
