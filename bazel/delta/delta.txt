@@ -4113,7 +4113,6 @@ detonatable
 delictum
 discouraging
 delictus
-delieret
 despicably
 deligated
 derk
@@ -6746,6 +6745,7 @@ desk
 deskbound
 deskill
 desklike
+delieret
 deskman
 deskmen
 desks
