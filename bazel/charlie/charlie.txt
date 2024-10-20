@@ -16229,7 +16229,6 @@ condensations
 cask
 clinicist
 clinicopathological
-clinicopathologically
 clinics
 clinid
 clinium
@@ -29488,6 +29487,7 @@ congeable
 crystallurgy
 crystals
 crystalwort
+clinicopathologically
 cristate
 cristatella
 cryste
