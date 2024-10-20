@@ -8234,6 +8234,7 @@ chairwarmer
 chairwomen
 chais
 cyanocitta
+checksum
 chays
 chaise
 chaiseless
@@ -9573,7 +9574,6 @@ checkrows
 checks
 checkstrap
 checkstring
-checksum
 construct
 checksummed
 checksumming
