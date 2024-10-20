@@ -686,7 +686,6 @@ bacteriotoxin
 bal
 bacteriotrypsin
 bynames
-bacteriotropic
 blepharedema
 bacterious
 bacteririum
@@ -4956,6 +4955,7 @@ beefsteaks
 beeftongue
 beefwood
 beefwoods
+bacteriotropic
 blackcock
 beehead
 bedrock
