@@ -5635,7 +5635,6 @@ dependance
 dependant
 dependantly
 depended
-dependence
 dependency
 dependencies
 depending
@@ -16334,6 +16333,7 @@ downpipe
 downplay
 downplays
 downpour
+dependence
 downpouring
 desray
 downpours
