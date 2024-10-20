@@ -5873,7 +5873,6 @@ flockowner
 frangent
 funned
 flockwise
-flocs
 floeberg
 floey
 floerkea
@@ -6601,6 +6600,7 @@ fluxion
 fluxional
 fluxionally
 fluxionist
+flocs
 fluxions
 fardels
 fluxive
