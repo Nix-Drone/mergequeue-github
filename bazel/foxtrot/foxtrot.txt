@@ -3359,7 +3359,6 @@ fiedlerite
 firstlings
 fief
 foredeem
-fiefs
 forfeitable
 fiel
 fieldball
@@ -10931,6 +10930,7 @@ forgett
 falter
 fullery
 fulleries
+fiefs
 fullest
 flo
 fictile
