@@ -1218,6 +1218,7 @@ eds
 educ
 educability
 educable
+evaluators
 educables
 educand
 educatability
@@ -2491,7 +2492,6 @@ electrology
 electrological
 electrologists
 electromagnet
-evaluators
 electromagnetic
 emancipators
 electromagnetical
