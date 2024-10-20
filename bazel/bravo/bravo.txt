@@ -62,7 +62,6 @@ bursters
 bolbonac
 babelet
 babelike
-babelish
 babelism
 bongar
 beshlik
@@ -12735,6 +12734,7 @@ boolean
 booleans
 booley
 booleys
+babelish
 booly
 boolya
 blebs
