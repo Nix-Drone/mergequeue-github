@@ -1690,6 +1690,7 @@ fc
 fchar
 fipenny
 fcomp
+flugel
 farcin
 fcp
 foehns
@@ -6266,7 +6267,6 @@ fud
 fluffiness
 fluffing
 fluffs
-flugel
 focalized
 fluible
 fabliau
