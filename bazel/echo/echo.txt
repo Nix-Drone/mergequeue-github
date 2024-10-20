@@ -5021,7 +5021,6 @@ endexine
 endexines
 eardrum
 endgate
-enfief
 endhand
 endia
 endiablee
@@ -7933,6 +7932,7 @@ epiklesis
 epikouros
 ejectum
 epil
+enfief
 epilabra
 epilamellar
 epilate
