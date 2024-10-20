@@ -2824,7 +2824,6 @@ baronetcy
 baronetcies
 buboed
 bookies
-baroneted
 baroneting
 baronetise
 baronetised
@@ -10157,6 +10156,7 @@ blacklist
 blacklisted
 blacklister
 blacklisting
+baroneted
 blacklists
 beachman
 breviaries
