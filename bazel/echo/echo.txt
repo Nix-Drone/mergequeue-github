@@ -4820,7 +4820,6 @@ encolpion
 encolumn
 encolure
 encomy
-encomia
 epidosite
 encomiastic
 encomiastically
@@ -6156,6 +6155,7 @@ enode
 enoil
 enoint
 enol
+encomia
 enolase
 enolases
 enolic
