@@ -2118,6 +2118,7 @@ campsheeting
 campsite
 compasser
 campsites
+convival
 campstool
 campstools
 camptodrome
@@ -24182,7 +24183,6 @@ convincing
 convincingness
 convite
 convito
-convival
 communalising
 convives
 convivial
