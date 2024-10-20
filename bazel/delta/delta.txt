@@ -9979,7 +9979,6 @@ demethylchlortetracycline
 diapaused
 din
 dynactinometer
-dynagraph
 dynam
 dynametric
 dynamic
@@ -16852,6 +16851,7 @@ drawloom
 drawls
 drawn
 drawnet
+dynagraph
 dissyllabise
 diffidence
 drawoff
