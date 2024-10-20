@@ -331,6 +331,7 @@ dayakker
 dayal
 dayan
 dayanim
+dialogged
 diau
 daybeacon
 dipylon
@@ -8368,7 +8369,6 @@ diallists
 dialog
 dialoger
 dialogers
-dialogged
 dialogging
 dialogic
 dialogical
