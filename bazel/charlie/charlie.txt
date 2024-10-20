@@ -7077,7 +7077,6 @@ centiare
 centiares
 centiday
 centifolious
-centigrade
 centigrado
 centigram
 centigramme
@@ -8509,6 +8508,7 @@ chamite
 chamlet
 chamm
 chamma
+centigrade
 chammy
 chammied
 chammying
