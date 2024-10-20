@@ -5753,6 +5753,7 @@ deploy
 deployed
 deploying
 defilade
+derm
 deployment
 deployments
 deftest
@@ -18228,7 +18229,6 @@ disapprobative
 dungs
 deuterogamist
 damnification
-derm
 duniewassal
 dunite
 dunitic
