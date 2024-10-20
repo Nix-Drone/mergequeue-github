@@ -3546,7 +3546,6 @@ defrayer
 defrayers
 defraying
 defraudation
-defrauded
 defrauder
 defrauding
 defrauds
@@ -14692,6 +14691,7 @@ dipteral
 docquet
 docs
 doctor
+defrauded
 doctoral
 doctorally
 dumontite
