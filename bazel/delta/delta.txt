@@ -13478,7 +13478,6 @@ dissectors
 dissects
 desperadoes
 disseise
-disseised
 disseisee
 disseized
 donorship
@@ -15322,6 +15321,7 @@ dwarfed
 domy
 discernableness
 dallop
+disseised
 domical
 diversicolored
 domically
