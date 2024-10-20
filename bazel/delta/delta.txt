@@ -5603,6 +5603,7 @@ departs
 demicolumn
 depascent
 depass
+donis
 disintensify
 delphinoid
 disrepute
@@ -18388,7 +18389,6 @@ duplex
 duplexer
 duplexers
 duplexing
-donis
 duply
 dynasties
 duplicability
