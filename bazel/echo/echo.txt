@@ -2643,7 +2643,6 @@ elaeocarpaceous
 eleutherodactyli
 electrosurgeries
 electrosurgical
-electrotactic
 electrotautomerism
 enrail
 electrotaxis
@@ -13135,6 +13134,7 @@ expiscating
 expiscation
 expiscatory
 explain
+electrotactic
 extras
 explainable
 explainableness
