@@ -2244,7 +2244,6 @@ expilation
 enameller
 enterprises
 elecives
-electability
 electable
 electant
 electary
@@ -12435,6 +12434,7 @@ exhale
 exhalent
 exhalents
 exhales
+electability
 exhaling
 exhaust
 exhausted
