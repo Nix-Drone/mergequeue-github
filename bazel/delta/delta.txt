@@ -2713,7 +2713,6 @@ deconsideration
 decontaminate
 decontaminated
 decontaminates
-decontaminating
 decontaminations
 decontaminator
 decontaminators
@@ -4333,6 +4332,7 @@ deluce
 deludable
 delude
 deluded
+decontaminating
 duftry
 dipperful
 deluder
