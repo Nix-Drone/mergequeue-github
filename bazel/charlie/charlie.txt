@@ -14874,7 +14874,6 @@ cytoarchitecturally
 cytoarchitecture
 certioration
 cytoblast
-confidences
 cytoblastema
 cytoblastemal
 cytoblastematous
@@ -15349,6 +15348,7 @@ clamminess
 consonantalizing
 clamming
 clammyweed
+confidences
 clamored
 clamorer
 clamorers
