@@ -7317,6 +7317,7 @@ gossip
 gossipdom
 gossiped
 gossipee
+genty
 gossiper
 gossipers
 gossiphood
@@ -8829,7 +8830,6 @@ greisen
 grihastha
 greisens
 greyskin
-genty
 greit
 greyware
 gastrin
