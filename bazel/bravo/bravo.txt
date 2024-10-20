@@ -6479,7 +6479,6 @@ benzols
 benzonaphthol
 benzonitrile
 benzoperoxide
-benzophenanthrazine
 benzophenazine
 benzophenol
 benzophenone
@@ -9283,6 +9282,7 @@ bipeds
 bipeltate
 blepharophthalmia
 bipennate
+benzophenanthrazine
 built
 burry
 bipennated
