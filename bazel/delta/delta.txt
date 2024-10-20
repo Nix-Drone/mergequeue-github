@@ -5971,7 +5971,6 @@ diadems
 dodder
 disincrust
 depressomotor
-depressor
 dinos
 depressors
 dorsibranch
@@ -7657,6 +7656,7 @@ devinct
 devious
 devirginate
 devirgination
+depressor
 devirginator
 dialleli
 devirilize
