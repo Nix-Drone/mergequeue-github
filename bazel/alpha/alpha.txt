@@ -3225,7 +3225,6 @@ activator
 activators
 active
 actively
-aweather
 activeness
 alforge
 actives
@@ -15349,6 +15348,7 @@ antihemorrhagic
 antihemorrheidal
 antihero
 antiheroes
+aweather
 antiheroic
 arthrodia
 azulejo
