@@ -2316,6 +2316,7 @@ fayalite
 fencelet
 fenceplay
 fencepost
+footstools
 fenceress
 fencers
 freeborn
@@ -7270,7 +7271,6 @@ footstall
 footstick
 footstock
 fortlet
-footstools
 fleeches
 footways
 footwalk
