@@ -2803,7 +2803,6 @@ decrees
 decreet
 dop
 decrement
-decremental
 decrementing
 decrements
 decremeter
@@ -8981,6 +8980,7 @@ dicots
 dicoumarin
 dicoumarol
 dicranaceae
+decremental
 dicranaceous
 dicranum
 dicrostonyx
