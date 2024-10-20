@@ -1088,7 +1088,6 @@ farmhouse
 feronia
 farmhousey
 fontinalaceae
-fuzzle
 farmy
 farmyard
 fructuary
@@ -4859,6 +4858,7 @@ flakier
 flakiest
 favouredness
 flaking
+fuzzle
 flurry
 foxings
 fusarole
