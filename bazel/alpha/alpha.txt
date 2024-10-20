@@ -2060,7 +2060,6 @@ acetylic
 acetylid
 acetylide
 acetyliodide
-acetylizable
 acetylization
 acetylize
 acetylized
@@ -5166,6 +5165,7 @@ aestuary
 aestuate
 aestuation
 aestuous
+acetylizable
 aesture
 aestus
 aet
