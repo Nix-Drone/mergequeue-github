@@ -5862,7 +5862,6 @@ depositor
 depositories
 depositors
 deposits
-depositum
 daimon
 doumaist
 decasualise
@@ -13466,6 +13465,7 @@ disscussive
 disseat
 disseating
 disseats
+depositum
 dissect
 dissected
 dissectible
