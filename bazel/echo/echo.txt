@@ -296,6 +296,7 @@ eat
 eagerer
 eatability
 eatable
+encolure
 eatables
 electrolyzability
 eatberry
@@ -4818,7 +4819,6 @@ encolour
 encolpia
 encolpion
 encolumn
-encolure
 encomy
 encomia
 epidosite
