@@ -8860,6 +8860,7 @@ electrotherapeutics
 erasable
 erased
 eraser
+evader
 erasers
 erases
 erasion
@@ -11258,7 +11259,6 @@ evacuees
 evadable
 evade
 evaded
-evader
 encounterers
 electroergometer
 electroballistics
