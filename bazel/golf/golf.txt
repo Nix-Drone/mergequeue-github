@@ -956,7 +956,6 @@ gossan
 gamelang
 gamelans
 gameless
-gentian
 gamely
 gamelike
 gymnast
@@ -7099,6 +7098,7 @@ gooselike
 gooseliver
 goosemouth
 grailing
+gentian
 ganglioneuroma
 gossameriness
 gooseneck
