@@ -2693,6 +2693,7 @@ cortically
 canonicalization
 canonicalize
 canonicalized
+coffer
 canonicalizes
 canonicalizing
 circumventive
@@ -18191,7 +18192,6 @@ counterview
 continuant
 coffeetime
 coffeewood
-coffer
 cofferdam
 cofferdams
 coffered
