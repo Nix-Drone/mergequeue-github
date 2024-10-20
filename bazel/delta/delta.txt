@@ -4952,7 +4952,6 @@ demonstrableness
 demonstrably
 demonstrandum
 demonstratability
-demonstratable
 demonstrate
 demonstrated
 demonstratedly
@@ -7426,6 +7425,7 @@ deuterate
 deuteration
 deuteric
 dogcarts
+demonstratable
 disenchain
 dramatised
 deuteride
