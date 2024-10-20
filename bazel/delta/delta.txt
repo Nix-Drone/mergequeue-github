@@ -3522,7 +3522,6 @@ deformation
 deformational
 delete
 deformations
-deformative
 deformed
 deckie
 diplex
@@ -5666,6 +5665,7 @@ depersonalization
 depersonalized
 depersonalizes
 depersonalizing
+deformative
 downgrading
 desaturation
 depertible
