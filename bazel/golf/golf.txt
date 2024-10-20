@@ -3080,7 +3080,6 @@ gillnet
 geogen
 geogenesis
 gyropilot
-geogenetic
 geogeny
 geogenic
 goldney
@@ -5675,6 +5674,7 @@ globy
 globicephala
 gorsier
 globiferous
+geogenetic
 globigerinae
 globigerinas
 ghastful
