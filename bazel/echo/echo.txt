@@ -3704,7 +3704,6 @@ embryotrophe
 embryotrophy
 embrittle
 embrittled
-embrittling
 embryulci
 embryulcia
 extraboldface
@@ -12571,6 +12570,7 @@ existent
 existentialism
 existentialist
 existentialistic
+embrittling
 enteropneustal
 existentialistically
 existentialists
