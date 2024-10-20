@@ -8942,7 +8942,6 @@ biochemistries
 biochemists
 bandoras
 baisakh
-biochore
 biocycle
 bemole
 biocycles
@@ -15659,6 +15658,7 @@ blastomycetes
 broadhorn
 beholder
 broadish
+biochore
 broadleaf
 baylike
 broadleaves
