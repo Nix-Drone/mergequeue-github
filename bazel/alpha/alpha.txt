@@ -1721,7 +1721,6 @@ accreditate
 accreditation
 azophenol
 annule
-archpresbyter
 accreditations
 accredited
 accreditee
@@ -8757,6 +8756,7 @@ allocate
 allocatee
 allocates
 allocating
+archpresbyter
 allocation
 amyosthenia
 aqueoglacial
