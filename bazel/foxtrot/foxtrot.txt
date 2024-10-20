@@ -3121,7 +3121,6 @@ fibroblastic
 fibrocalcareous
 fibrocarcinoma
 fibrocartilaginous
-fibrocellular
 fibrocement
 fibrochondrosteal
 fibrocyst
@@ -11348,6 +11347,7 @@ furbishment
 florikan
 furca
 furcae
+fibrocellular
 foraminous
 fortress
 furcal
