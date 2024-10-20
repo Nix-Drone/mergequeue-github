@@ -5422,7 +5422,6 @@ dentists
 dentition
 dilating
 dentolabial
-dentolingual
 dentololabial
 dentonasal
 dielytra
@@ -8982,6 +8981,7 @@ dicoumarin
 dicoumarol
 dicranaceae
 dicranaceous
+dentolingual
 dicranum
 dicrostonyx
 diverter
