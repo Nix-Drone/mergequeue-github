@@ -5113,7 +5113,6 @@ glamourless
 glamourous
 glance
 glanced
-glancing
 glancingly
 growled
 gland
@@ -9245,6 +9244,7 @@ grobian
 gimcrackiness
 grobianism
 grocer
+glancing
 groceress
 grot
 gourmandise
