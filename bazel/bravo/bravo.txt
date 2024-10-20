@@ -12703,7 +12703,6 @@ barmkin
 biyearly
 booksellerism
 banderilleros
-booksellers
 bookselling
 bookshelf
 bookshelves
@@ -13863,6 +13862,7 @@ boxhauling
 boxhauls
 biathlons
 boxhead
+booksellers
 boxholder
 boxy
 bemaul
