@@ -12759,6 +12759,7 @@ angiographic
 angiohemophilia
 angiohyalinosis
 angiohypertonia
+actinophore
 angiohypotonia
 angioid
 angiokeratoma
@@ -24593,7 +24594,6 @@ anoura
 avatars
 avdp
 ave
-actinophore
 avellan
 alabandite
 avellane
