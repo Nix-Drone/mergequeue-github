@@ -14142,6 +14142,7 @@ copal
 cypseline
 colorist
 cypseloid
+constitutor
 cypselomorph
 coutel
 cypselomorphae
@@ -23140,7 +23141,6 @@ constitutions
 constitutive
 constitutively
 constitutiveness
-constitutor
 cassiri
 constr
 campholytic
