@@ -5945,7 +5945,6 @@ ampyx
 agenda
 agendaless
 agendas
-agendum
 agendums
 agene
 ataxite
@@ -18818,6 +18817,7 @@ amputee
 archdioceses
 aftermatter
 archdiplomatist
+agendum
 archdisturber
 archdivine
 archdogmatist
