@@ -6020,7 +6020,6 @@ catskill
 coll
 catskin
 catslide
-catso
 catspaw
 catspaws
 catstane
@@ -16059,6 +16058,7 @@ clewing
 clews
 cli
 cly
+catso
 cliack
 calcaemia
 clianthus
