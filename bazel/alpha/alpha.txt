@@ -5383,7 +5383,6 @@ affluence
 affluency
 affluent
 affluently
-affluentness
 affluents
 abscise
 afflux
@@ -8096,6 +8095,7 @@ algology
 afterchrome
 algological
 algologically
+affluentness
 algologies
 algologist
 algoman
