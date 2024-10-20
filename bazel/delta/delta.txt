@@ -1718,6 +1718,7 @@ deathtrap
 deathtraps
 deathward
 deathwatches
+detonator
 deathweed
 deathworm
 dowelled
@@ -7316,7 +7317,6 @@ detonational
 deprives
 detonations
 detonative
-detonator
 detonize
 detour
 detoured
