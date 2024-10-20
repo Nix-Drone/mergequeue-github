@@ -984,7 +984,6 @@ cimmerian
 calcaneocuboid
 calcaneonavicular
 calcaneoplantar
-countersale
 calcaneoscaphoid
 calcaneotibial
 calcaneum
@@ -20094,6 +20093,7 @@ commingle
 commingled
 comminglement
 commingler
+countersale
 commingles
 commingling
 comminuted
