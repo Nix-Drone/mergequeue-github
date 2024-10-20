@@ -7226,7 +7226,6 @@ distruss
 determinant
 determinantal
 domage
-deflectional
 decidual
 determinate
 determinated
@@ -14704,6 +14703,7 @@ dramalogue
 doctorfishes
 doctorhood
 doctorial
+deflectional
 doctorially
 deposed
 doctoring
