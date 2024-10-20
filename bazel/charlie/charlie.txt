@@ -3200,7 +3200,6 @@ crotchety
 caplins
 caplock
 capmaker
-capmakers
 cordmaker
 capmaking
 capnodium
@@ -29271,6 +29270,7 @@ cryptogenous
 cryptoglaux
 cryptoglioma
 cryptogram
+capmakers
 cryptogramma
 cryptogrammatic
 cryptogrammatical
