@@ -7818,7 +7818,6 @@ alef
 awikiwiki
 alefnull
 alefs
-aleft
 alefzero
 alegar
 aleger
@@ -8087,6 +8086,7 @@ algoesthesiometer
 algoid
 algol
 algolagny
+aleft
 algolagnia
 algolagnic
 adjuster
