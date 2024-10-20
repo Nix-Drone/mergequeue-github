@@ -1371,7 +1371,6 @@ calypter
 calypters
 confect
 calyptoblastea
-calyptoblastic
 calyptorhynchus
 calyptraea
 calyptranthes
@@ -4678,6 +4677,7 @@ carpoidea
 cystinosis
 carpolite
 carpolith
+calyptoblastic
 carpology
 carpological
 carpomania
