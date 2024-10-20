@@ -12138,6 +12138,7 @@ allodge
 ancha
 anchat
 anchietin
+assigner
 anchietine
 analysed
 anchieutectic
@@ -24927,7 +24928,6 @@ awaits
 awakable
 awake
 awakeable
-assigner
 awaked
 axemaster
 awaken
