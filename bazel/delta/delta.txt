@@ -9574,6 +9574,7 @@ discommendable
 dihalogen
 dihdroxycholecalciferol
 dihedral
+dosseret
 dihedrals
 dihedron
 discipleship
@@ -15897,7 +15898,6 @@ dossennus
 dosser
 duddle
 dioeciously
-dosseret
 dosserets
 dosses
 dossety

@@ -2087,7 +2087,6 @@ acetins
 acetize
 acetla
 acetmethylanilide
-acetnaphthalide
 acetoacetanilide
 acetoacetate
 acetoacetic
@@ -24470,6 +24469,7 @@ alkalinization
 als
 autoturning
 autourine
+acetnaphthalide
 autovaccination
 autovaccine
 autovalet
