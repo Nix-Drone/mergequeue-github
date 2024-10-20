@@ -3289,7 +3289,6 @@ deferment
 deferments
 deferrable
 deferral
-deferrals
 deferred
 deferrer
 deferrers
@@ -7110,6 +7109,7 @@ desuperheater
 desuvre
 det
 detach
+deferrals
 detachable
 detachableness
 detachably
