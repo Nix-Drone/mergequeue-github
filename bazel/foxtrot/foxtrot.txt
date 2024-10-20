@@ -4564,7 +4564,6 @@ fitness
 feudalised
 fitout
 finedrawing
-fits
 fittage
 fellagha
 fytte
@@ -11438,6 +11437,7 @@ furmity
 furmities
 fervors
 fossed
+fits
 furnace
 furnacelike
 furnacemen
