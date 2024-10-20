@@ -3289,7 +3289,6 @@ deferment
 deferments
 deferrable
 deferral
-deferrals
 deferred
 deferrer
 deferrers
@@ -16009,6 +16008,7 @@ doubleyou
 doublelunged
 doubleness
 disturn
+deferrals
 doubleprecision
 doubler
 defrauders
