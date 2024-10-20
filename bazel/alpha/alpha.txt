@@ -10931,7 +10931,6 @@ amortisseur
 amortizable
 amortization
 amortized
-amortizement
 amortizes
 angiothlipsis
 amortizing
@@ -25250,6 +25249,7 @@ aziethane
 azygobranchiate
 assahy
 azygomatous
+amortizement
 azygos
 azurous
 azygoses

@@ -2381,7 +2381,6 @@ exanguin
 electrocutions
 emplaces
 electrode
-electrodeless
 entremets
 ergatomorph
 electrodentistry
@@ -7045,6 +7044,7 @@ entrenching
 eneas
 entrenchment
 electorial
+electrodeless
 enlevement
 entrep
 entrepas
