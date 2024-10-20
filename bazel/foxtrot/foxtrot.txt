@@ -1070,7 +1070,6 @@ farls
 fetal
 farm
 fantad
-freshening
 furriners
 farmable
 farmed
@@ -6619,6 +6618,7 @@ foothill
 filace
 foaly
 foaling
+freshening
 foals
 forestick
 foam
