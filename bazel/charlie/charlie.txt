@@ -979,7 +979,6 @@ chimpanzee
 calcanean
 calcanei
 calcaneoastragalar
-calcaneoastragaloid
 cimmerian
 calcaneocuboid
 calcaneonavicular
@@ -17542,6 +17541,7 @@ coccyxes
 catamited
 coccyzus
 cocco
+calcaneoastragaloid
 coccobaccilli
 coccobacilli
 coccobacillus
