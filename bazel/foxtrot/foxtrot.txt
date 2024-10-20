@@ -4449,7 +4449,6 @@ fission
 fissionable
 fissioned
 frays
-fissions
 fissipalmation
 floorboards
 fissiparism
@@ -5645,6 +5644,7 @@ fulltime
 flindosa
 flindosy
 flingers
+fissions
 flingy
 fablemonger
 flinging
