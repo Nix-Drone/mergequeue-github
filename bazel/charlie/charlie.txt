@@ -18070,7 +18070,6 @@ coequated
 coequates
 carling
 coequation
-coerce
 coerceable
 coerced
 condylarth
@@ -18273,6 +18272,7 @@ cogitatively
 cogitativity
 cogitator
 cogitators
+coerce
 cogito
 coglorify
 coglorious
