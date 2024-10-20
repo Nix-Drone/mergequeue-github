@@ -1718,7 +1718,6 @@ deathtrap
 deathtraps
 deathward
 deathwatches
-deathweed
 deathworm
 dowelled
 deave
@@ -12641,6 +12640,7 @@ diazotizing
 dislive
 dislluminate
 dubbings
+deathweed
 difference
 dislocability
 dislocable
