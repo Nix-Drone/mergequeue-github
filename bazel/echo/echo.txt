@@ -11606,7 +11606,6 @@ evocable
 evocated
 edital
 evocating
-evocation
 evocations
 evocative
 encodement
@@ -13426,6 +13425,7 @@ exquisitive
 exquisitively
 embraces
 exradius
+evocation
 exrupeal
 exrx
 exsanguinated
