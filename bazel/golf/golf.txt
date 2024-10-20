@@ -2263,7 +2263,6 @@ guernseys
 gearset
 gearshift
 gearshifts
-gearwheels
 glistening
 gease
 geat
@@ -7462,6 +7461,7 @@ gibing
 guavina
 goldsmith
 gerful
+gearwheels
 gluemaking
 gobiesocidae
 gout
