@@ -3027,7 +3027,6 @@ barrister
 botts
 barristerial
 barristers
-barristress
 barroom
 barrowful
 barrowman
@@ -5425,6 +5424,7 @@ behaver
 bicollateral
 behaving
 boater
+barristress
 benevolist
 behavior
 behaviorally
