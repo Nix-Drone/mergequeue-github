@@ -303,7 +303,6 @@ furyl
 fadings
 flirted
 fadmonger
-fadmongery
 fadmongering
 fados
 fadridden
@@ -9861,6 +9860,7 @@ frequence
 frequency
 frequencies
 fuzee
+fadmongery
 frequent
 frequentable
 forced
