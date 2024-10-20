@@ -6014,7 +6014,6 @@ depsid
 depside
 depsides
 dept
-depth
 depthen
 depthless
 depthlessness
@@ -8324,6 +8323,7 @@ dialysis
 dialist
 dent
 dialystaminous
+depth
 dialystely
 dialystelic
 dialister
