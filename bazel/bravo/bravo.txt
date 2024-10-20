@@ -5014,7 +5014,6 @@ beermonger
 beerocracy
 braggartry
 beefers
-beerpull
 beers
 beest
 beestings
@@ -6572,6 +6571,7 @@ bepraise
 bepraisement
 bepraiser
 beprank
+beerpull
 bepranked
 beyonds
 bepress
