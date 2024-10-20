@@ -1095,6 +1095,7 @@ abstractly
 abstractness
 apoda
 abstractor
+allegatum
 abstrahent
 abstrict
 abstricted
@@ -8561,7 +8562,6 @@ allectory
 allegata
 allegations
 allegator
-allegatum
 anematosis
 alleged
 allegedly
