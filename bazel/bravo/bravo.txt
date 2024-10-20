@@ -1883,7 +1883,6 @@ bandaged
 bandager
 bandages
 bandaging
-brakes
 bandagist
 bandaid
 bandala
@@ -9605,6 +9604,7 @@ bisector
 bisectors
 bisectrices
 busybodyness
+brakes
 bisects
 bisegment
 bisellium
