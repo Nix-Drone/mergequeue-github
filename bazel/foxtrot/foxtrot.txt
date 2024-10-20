@@ -8132,7 +8132,6 @@ foretop
 foretopman
 foretopmast
 foretopmen
-foretops
 foretrace
 foreuse
 foreutter
@@ -9409,6 +9408,7 @@ franciscanism
 franciscans
 ferocities
 francium
+foretops
 favourer
 franciums
 francize
