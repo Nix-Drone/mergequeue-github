@@ -4724,7 +4724,6 @@ breakthroughes
 bdellid
 bedights
 bedikah
-bedim
 bedimming
 bedimple
 bedimpled
@@ -16544,6 +16543,7 @@ bubo
 buboes
 bacillary
 bubonalgia
+bedim
 bubonic
 bluebeard
 bubonidae
