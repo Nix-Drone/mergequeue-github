@@ -1156,7 +1156,6 @@ goschens
 ganglionic
 genialize
 ganglionitis
-ganglionless
 ganglions
 ganglioplexus
 gentile
@@ -6663,6 +6662,7 @@ goldsmithry
 glider
 goldsmiths
 gasterotricha
+ganglionless
 goldspink
 gnathopod
 goldstone
