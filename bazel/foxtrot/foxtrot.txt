@@ -5853,7 +5853,6 @@ fust
 flocculency
 flocculent
 floccules
-flocculi
 frigidoreceptor
 flocculose
 flocculus
@@ -8980,6 +8979,7 @@ founder
 foundered
 foundery
 foundering
+flocculi
 foundership
 foundling
 fabella
