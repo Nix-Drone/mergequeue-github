@@ -1254,6 +1254,7 @@ calyces
 calyciferous
 calycifloral
 calyciflorate
+cotyledon
 calyciflorous
 cyclopaedically
 calycinal
@@ -26368,7 +26369,6 @@ cotidal
 cotyla
 cotylar
 cotyle
-cotyledon
 cotyledonal
 cotyledonar
 cotyledonary
