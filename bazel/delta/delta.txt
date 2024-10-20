@@ -9572,6 +9572,7 @@ dihalide
 dihalo
 discommendable
 dihalogen
+discolorations
 dihdroxycholecalciferol
 dihedral
 dihedrals
@@ -11442,7 +11443,6 @@ discolith
 discolorated
 decarburization
 discoloration
-discolorations
 discolored
 discoloredness
 discoloring
