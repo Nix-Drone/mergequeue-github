@@ -5611,7 +5611,6 @@ beladle
 belage
 belah
 billingsgate
-belay
 belayed
 belayer
 belaying
@@ -11407,6 +11406,7 @@ bluewood
 bluewoods
 bluff
 bluffable
+belay
 berith
 brunette
 bluffed
