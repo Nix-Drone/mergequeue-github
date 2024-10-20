@@ -1139,6 +1139,7 @@ calderas
 calderon
 caldron
 caldrons
+commonable
 calean
 caleb
 calebite
@@ -20202,7 +20203,6 @@ classifies
 commolition
 coryl
 common
-commonable
 commonage
 commonality
 commonalities
