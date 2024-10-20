@@ -3103,7 +3103,6 @@ capillose
 capillus
 capilotade
 caping
-componentwise
 capistrate
 capita
 catenated
@@ -4893,6 +4892,7 @@ cartographical
 confessionist
 cartographically
 cartographies
+componentwise
 cartomancy
 cartomancies
 carton
