@@ -7402,7 +7402,6 @@ cephalotribe
 cephalotrocha
 cephalotus
 cephalous
-cephas
 cepheid
 conchucu
 cepheids
@@ -29623,6 +29622,7 @@ crocks
 crocodilean
 crocodiles
 crocodilian
+cephas
 crocodilidae
 cadmopone
 crocodylidae
