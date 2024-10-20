@@ -3738,7 +3738,6 @@ blackmails
 batsmanship
 bransles
 bunsen
-batsmen
 batswing
 batt
 bammed
@@ -10565,6 +10564,7 @@ bleach
 bleachability
 bleachable
 bleached
+batsmen
 bleacher
 bleachery
 bleacheries
