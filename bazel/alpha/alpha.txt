@@ -285,7 +285,6 @@ abducent
 abducentes
 abduces
 articulate
-abduct
 abducted
 abducting
 abduction
@@ -1433,6 +1432,7 @@ anticnemion
 aidless
 airtightly
 accentor
+abduct
 accents
 accentual
 archers
