@@ -3995,7 +3995,6 @@ eupomatiaceae
 eversions
 emoted
 emoting
-emotiomotor
 emotion
 emotionable
 empyreans
@@ -13225,6 +13224,7 @@ encloser
 explorable
 exploratively
 exfiltration
+emotiomotor
 explorator
 empyemata
 exploratory
