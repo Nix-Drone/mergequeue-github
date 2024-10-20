@@ -6924,7 +6924,6 @@ bassnesses
 bescorching
 bescorn
 bescoundrel
-bescour
 bari
 barhal
 bescourge
@@ -14321,6 +14320,7 @@ braincap
 braincase
 brainchildren
 braincraft
+bescour
 befan
 brainfag
 brainge
