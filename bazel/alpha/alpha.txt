@@ -502,7 +502,6 @@ abjudicator
 abjugate
 abjunct
 abjunction
-abjunctive
 abjuration
 abjurations
 abjuratory
@@ -10269,6 +10268,7 @@ amercers
 amerces
 amerciable
 amerciament
+abjunctive
 agao
 amercing
 america
