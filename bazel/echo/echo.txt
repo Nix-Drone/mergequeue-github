@@ -4413,7 +4413,6 @@ engagee
 enantiomer
 enantiomeric
 enantiomorph
-enantiomorphy
 enantiomorphic
 enantiomorphous
 ensconce
@@ -11144,6 +11143,7 @@ europe
 empurpled
 europeanism
 europeanization
+enantiomorphy
 enwove
 estoc
 europeanize
