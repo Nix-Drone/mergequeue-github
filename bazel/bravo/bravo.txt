@@ -1917,7 +1917,6 @@ banderoled
 banderoles
 banders
 banjara
-bandersnatch
 bandfile
 bandfiled
 bandfish
@@ -14949,6 +14948,7 @@ bredi
 betainogen
 breech
 breechblock
+bandersnatch
 breechcloth
 brimfull
 breechcloths
