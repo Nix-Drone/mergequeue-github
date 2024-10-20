@@ -4878,7 +4878,6 @@ cartilaginous
 carting
 cartisane
 cartist
-cartload
 cartloads
 cartmaker
 cartmaking
@@ -31785,6 +31784,7 @@ citation
 cutey
 cuteys
 cutely
+cartload
 cuteness
 cutenesses
 cuter
