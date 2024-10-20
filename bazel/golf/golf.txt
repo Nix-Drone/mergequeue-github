@@ -10519,7 +10519,6 @@ gunmaking
 guelphic
 gunmen
 gunmetal
-genesis
 gunmetals
 gunnage
 gunnar
@@ -10751,6 +10750,7 @@ gutt
 gpcd
 gygis
 guttable
+genesis
 guttae
 guttate
 gulfwards
