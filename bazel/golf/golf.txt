@@ -2845,7 +2845,6 @@ genitive
 genitocrural
 geniculum
 glug
-grasps
 grouses
 genitor
 gemmoid
@@ -6438,6 +6437,7 @@ gid
 gobbles
 gobbling
 gobelin
+grasps
 gobet
 geodic
 ganglander
