@@ -469,6 +469,7 @@ daystar
 daystars
 daystreak
 daytide
+dechlorinate
 daytime
 daytimes
 daiva
@@ -2341,7 +2342,6 @@ dechloridize
 dechloridized
 deash
 dechloridizing
-dechlorinate
 dechlorinated
 dechlorination
 dee
