@@ -5848,7 +5848,6 @@ discouragement
 deposing
 deposit
 diamondwork
-depositary
 distome
 depositaries
 deposited
@@ -13301,6 +13300,7 @@ disqualifications
 doublehorned
 disqualifies
 disqualifying
+depositary
 disquantity
 disquiet
 disquieted
