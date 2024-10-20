@@ -18787,7 +18787,6 @@ archbuilder
 archchampion
 archcheater
 archchemic
-archchronicler
 archconfraternity
 archconsoler
 archconspirator
@@ -20184,6 +20183,7 @@ arrangement
 arrangements
 aesthetician
 arranger
+archchronicler
 arrangers
 arranges
 arranging
