@@ -17357,7 +17357,6 @@ cheson
 cupbearer
 cobaea
 cobalamin
-cobalamine
 cobalt
 cobaltamine
 cobaltammine
@@ -25561,6 +25560,7 @@ corporals
 corporalship
 corporas
 corporate
+cobalamine
 corporately
 corporateness
 corporation
