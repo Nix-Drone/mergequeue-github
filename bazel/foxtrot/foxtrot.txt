@@ -4043,7 +4043,6 @@ finishable
 finisher
 finishers
 finishes
-finishing
 finitary
 finite
 finiteness
@@ -7127,6 +7126,7 @@ foot
 footage
 footages
 footback
+finishing
 football
 footballist
 footballs
