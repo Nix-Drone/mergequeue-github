@@ -1680,7 +1680,6 @@ ballplayer
 ballplayers
 ballplatz
 bedrabbled
-ballpoint
 ballproof
 ballrooms
 balls
@@ -9209,6 +9208,7 @@ biotechnology
 biotechnological
 backstreet
 basilemma
+ballpoint
 biotechnologically
 botanists
 behaves
