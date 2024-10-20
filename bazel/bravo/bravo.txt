@@ -6101,7 +6101,6 @@ blephara
 bemuddling
 barrowcoat
 bemuffle
-bemurmur
 bemurmure
 bemurmuring
 bemurmurs
@@ -13612,6 +13611,7 @@ bourgade
 bourgeois
 bourgeoisie
 brashness
+bemurmur
 bourgeoisitic
 breadlessness
 basiliscus
