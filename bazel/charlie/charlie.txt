@@ -5082,7 +5082,6 @@ caselty
 casemaker
 casemaking
 casemated
-casemates
 casement
 casemented
 casements
@@ -31758,6 +31757,7 @@ customshouse
 custos
 custrel
 custron
+casemates
 custroun
 custumal
 cut
