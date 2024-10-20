@@ -6965,6 +6965,7 @@ coordinateness
 chondriosomal
 censor
 censorable
+checkup
 censorate
 censored
 censorial
@@ -9577,7 +9578,6 @@ checksum
 construct
 checksummed
 checksumming
-checkup
 checkups
 checkweigher
 checkweighman
