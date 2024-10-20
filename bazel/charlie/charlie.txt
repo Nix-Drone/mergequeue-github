@@ -18182,7 +18182,6 @@ coffeehoused
 coffeehouses
 coffeehousing
 coffeeleaf
-coffeeman
 coffeepot
 coffeepots
 coffeeroom
@@ -20770,6 +20769,7 @@ compluvia
 compluvium
 compo
 compoed
+coffeeman
 compoer
 compone
 componed
