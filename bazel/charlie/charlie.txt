@@ -15718,7 +15718,6 @@ clausula
 clausulae
 clausular
 clausule
-clausum
 clausure
 claut
 clava
@@ -25186,6 +25185,7 @@ corynteria
 corinth
 corinthes
 corinthiac
+clausum
 corinthian
 corinthianesque
 corinthianism
