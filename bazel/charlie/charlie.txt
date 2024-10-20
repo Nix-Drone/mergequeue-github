@@ -7710,7 +7710,6 @@ cerite
 cerithiidae
 cerithioid
 cerithium
-cerium
 ceriums
 cermet
 cermets
@@ -19142,6 +19141,7 @@ colloquialize
 colloquializer
 combed
 colloquially
+cerium
 colloquialness
 colloquies
 colloquiquia
