@@ -27414,7 +27414,6 @@ covado
 covalences
 covalency
 coriander
-covalent
 covalently
 carnaubic
 covarecan
@@ -28757,6 +28756,7 @@ cresyls
 cheerers
 cresive
 cresol
+covalent
 cresoline
 cresorcin
 carline
