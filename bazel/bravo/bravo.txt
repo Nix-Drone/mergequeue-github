@@ -8817,6 +8817,7 @@ baconic
 bugologist
 byname
 binaphthyl
+brushcut
 binary
 binaries
 binate
@@ -16383,7 +16384,6 @@ brushability
 brushable
 brushback
 brushbird
-brushcut
 bestick
 braker
 betrace
