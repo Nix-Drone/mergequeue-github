@@ -6497,7 +6497,6 @@ ccid
 ccitt
 cubage
 cckw
-ccm
 ccoya
 charcuterie
 ccw
@@ -21016,6 +21015,7 @@ computers
 computes
 computing
 computist
+ccm
 computus
 comr
 comrade
