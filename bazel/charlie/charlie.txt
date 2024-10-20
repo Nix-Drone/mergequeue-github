@@ -18987,7 +18987,6 @@ collembolan
 collembole
 collembolic
 collembolous
-collenchyma
 collenchymatic
 collenchymatous
 collenchyme
@@ -28447,6 +28446,7 @@ creatural
 creature
 cheapjack
 creaturehood
+collenchyma
 creatureless
 creaturely
 creatureliness
