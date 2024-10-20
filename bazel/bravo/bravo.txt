@@ -1902,7 +1902,6 @@ bandcase
 bandcutter
 bande
 bandeau
-bandeaux
 betula
 banded
 bandelet
@@ -18067,6 +18066,7 @@ boroglyceride
 boosy
 buskined
 busks
+bandeaux
 busload
 busman
 busmen
