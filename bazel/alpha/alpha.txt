@@ -3976,6 +3976,7 @@ adjoints
 adjournal
 aitkenite
 adjourned
+ated
 adjourning
 adjournment
 adjourns
@@ -17532,7 +17533,6 @@ apotype
 apotypic
 apotome
 apotracheal
-ated
 apotropaically
 apotropaion
 azlons
