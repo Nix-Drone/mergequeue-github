@@ -3329,6 +3329,7 @@ fidges
 frameable
 fidget
 fidgetation
+fogbow
 fidgeted
 flitching
 fractals
@@ -6716,7 +6717,6 @@ flanger
 fog
 fogbank
 fogbound
-fogbow
 flyblow
 fogdogs
 fairways
