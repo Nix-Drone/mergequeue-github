@@ -9602,6 +9602,7 @@ escout
 escry
 escribe
 eiffel
+exposed
 escribiente
 escribientes
 escrime
@@ -13288,7 +13289,6 @@ easier
 exposable
 emotionalising
 exposals
-exposed
 exposedness
 exposers
 exposes
