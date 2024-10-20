@@ -1093,7 +1093,6 @@ edges
 edgeshot
 evaluate
 edgeway
-edgeways
 enshrouded
 edgewise
 edgy
@@ -4706,6 +4705,7 @@ embolic
 encyclopedia
 encyclopediacal
 ephahs
+edgeways
 encyclopedial
 encyclopedian
 encyclopedias
