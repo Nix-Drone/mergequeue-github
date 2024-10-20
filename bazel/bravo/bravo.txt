@@ -1678,7 +1678,6 @@ ballow
 blear
 ballplayer
 ballplayers
-ballplatz
 bedrabbled
 ballpoint
 ballproof
@@ -17086,6 +17085,7 @@ bulldog
 blabby
 barrel
 bulldoggedness
+ballplatz
 bulldogger
 bulldoggy
 bankroll
