@@ -2961,6 +2961,7 @@ blind
 barrelhead
 barrelhouse
 barrelhouses
+bondelswarts
 besmearer
 barreling
 broad
@@ -12379,7 +12380,6 @@ bechance
 batis
 bondager
 bondages
-bondelswarts
 benignities
 bonder
 bockerel
