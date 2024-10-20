@@ -2649,7 +2649,6 @@ barish
 barysilite
 barit
 baryta
-barebacked
 bloodlike
 barytas
 barite
@@ -5476,6 +5475,7 @@ behn
 bechamel
 bunkery
 beholders
+barebacked
 beholdingness
 beholds
 behoney
