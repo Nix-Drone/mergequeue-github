@@ -1199,7 +1199,6 @@ calenture
 calentured
 calenturish
 calepin
-calescent
 calesero
 calesin
 calf
@@ -19686,6 +19685,7 @@ combinatory
 combinatorial
 combinatorially
 combinatoric
+calescent
 combinators
 combind
 combined
