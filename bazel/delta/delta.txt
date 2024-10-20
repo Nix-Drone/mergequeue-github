@@ -2479,7 +2479,6 @@ dulls
 deckswabber
 decl
 declaim
-dichorisandra
 declaimant
 declaimer
 declaimers
@@ -2520,6 +2519,7 @@ declassicize
 declassify
 declassification
 declassifications
+dichorisandra
 delocalized
 dissimule
 declassifies
