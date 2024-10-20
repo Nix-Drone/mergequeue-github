@@ -7705,7 +7705,6 @@ brushfire
 bewraps
 battleground
 bathycurrent
-bewrapt
 bewrathed
 bewreak
 bewreath
@@ -14794,6 +14793,7 @@ burnet
 breadthen
 barbel
 breadthriders
+bewrapt
 brominating
 breadths
 breadthways
