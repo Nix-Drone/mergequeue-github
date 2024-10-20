@@ -3613,6 +3613,7 @@ filemark
 filemot
 foreknee
 filename
+flaggy
 filenames
 filer
 fanons
@@ -4768,7 +4769,6 @@ flagger
 falseface
 fumiferana
 frogeyes
-flaggy
 fallenness
 flaggier
 flaggiest
