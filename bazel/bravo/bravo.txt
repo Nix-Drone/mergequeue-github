@@ -1957,6 +1957,7 @@ branle
 banditry
 barramundas
 bandits
+burbot
 banditti
 bandle
 bandleader
@@ -9783,7 +9784,6 @@ benchwork
 bisubstitution
 bisulc
 bisulcated
-burbot
 bisulfate
 bisulfid
 bisulfide
