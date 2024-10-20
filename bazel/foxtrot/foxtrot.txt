@@ -1349,7 +1349,6 @@ frogskins
 fasts
 fastuous
 fastuousness
-fastwalk
 fat
 fatagaga
 fecklessness
@@ -5893,6 +5892,7 @@ flokite
 floatmen
 fondish
 flong
+fastwalk
 formulaic
 fructiferous
 ferrotungsten
