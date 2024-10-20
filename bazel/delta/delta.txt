@@ -2800,7 +2800,6 @@ decreement
 decreer
 dunker
 decrees
-decreet
 dop
 decrement
 decremental
@@ -2993,6 +2992,7 @@ deductively
 dysfunctional
 deductory
 deducts
+decreet
 deduit
 deduplication
 diploetic
