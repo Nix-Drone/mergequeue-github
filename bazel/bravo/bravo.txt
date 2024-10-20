@@ -1073,6 +1073,7 @@ bretons
 baile
 bailed
 boucherize
+bodymaker
 bailee
 bodyguard
 bailey
@@ -8011,7 +8012,6 @@ bovicide
 biblos
 buoyed
 biblus
-bodymaker
 bibracteate
 bibulosity
 billing
