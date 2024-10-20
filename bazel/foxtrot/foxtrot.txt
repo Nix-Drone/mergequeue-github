@@ -5905,6 +5905,7 @@ fabiform
 flooded
 flinthead
 flooder
+foxfire
 flooders
 floodgate
 floodgates
@@ -9146,7 +9147,6 @@ ferrated
 foxer
 foxery
 foxfeet
-foxfire
 foxfires
 frolicsomeness
 floaty
