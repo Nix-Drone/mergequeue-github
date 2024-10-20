@@ -11707,7 +11707,6 @@ chonchina
 chondral
 chondralgia
 chondrarsenite
-chondre
 chondrenchyma
 chondri
 chondria
@@ -21533,6 +21532,7 @@ concurrencies
 cedent
 concurrently
 concurrentness
+chondre
 concurring
 concurs
 concursion
