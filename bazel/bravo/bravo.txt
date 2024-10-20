@@ -2159,7 +2159,6 @@ bannat
 banned
 banner
 bannerer
-banneret
 bannerets
 bannerfish
 beduke
@@ -8336,6 +8335,7 @@ bigamies
 bigamist
 bulbless
 blunders
+banneret
 bigamists
 bigamize
 boyars
