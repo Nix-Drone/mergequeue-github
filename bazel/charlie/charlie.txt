@@ -17334,7 +17334,6 @@ coauthor
 coauthored
 coauthoring
 connectedness
-coauthority
 coauthors
 coauthorship
 coawareness
@@ -23705,6 +23704,7 @@ contrafissura
 contrafissure
 contraflexure
 contrafocal
+coauthority
 cirrocumular
 capillatus
 contragredient
