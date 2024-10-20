@@ -2877,6 +2877,7 @@ genoms
 genonema
 gph
 genos
+gudgeoned
 gerrymandered
 genospecies
 genotype
@@ -10541,7 +10542,6 @@ gunnysack
 grandame
 gunnung
 glossmeter
-gudgeoned
 goldenmouth
 gunong
 gunpaper
