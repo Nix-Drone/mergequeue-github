@@ -3897,7 +3897,6 @@ griph
 gibbsites
 gibbus
 gibe
-gnattier
 guarders
 giber
 gibes
@@ -9484,6 +9483,7 @@ grouping
 grouplet
 graven
 groupoid
+gnattier
 giddying
 groupthink
 grivets
