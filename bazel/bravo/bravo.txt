@@ -534,7 +534,6 @@ backstring
 backstroke
 backstromite
 backswept
-backswimmer
 backsword
 backswording
 bettergates
@@ -11644,6 +11643,7 @@ benthon
 bobber
 bayogoula
 bobbery
+backswimmer
 bobbers
 bobby
 bobbin
