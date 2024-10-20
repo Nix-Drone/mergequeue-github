@@ -41,7 +41,6 @@ fabrique
 fabronia
 fabroniaceae
 fabula
-fabular
 foreshowing
 fabulate
 fabulist
@@ -5949,6 +5948,7 @@ fiddleback
 floorshift
 fawny
 floorshifts
+fabular
 floorshow
 floorway
 fluidrachm
