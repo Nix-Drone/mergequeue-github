@@ -2117,7 +2117,6 @@ campshedding
 campsheeting
 campsite
 compasser
-campsites
 campstool
 campstools
 camptodrome
@@ -7561,6 +7560,7 @@ cerealose
 cocceian
 citrinous
 cereals
+campsites
 cerebbella
 cerebella
 cerebellar
