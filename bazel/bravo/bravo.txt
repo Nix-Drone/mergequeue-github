@@ -6506,7 +6506,6 @@ benzothiofuran
 benzothiophene
 benzothiopyran
 benzotoluide
-believableness
 benzotriazine
 benzotriazole
 benzotrichloride
@@ -6521,6 +6520,7 @@ benzoxyphenanthrene
 benzpinacone
 benzpyrene
 benztrioxazine
+believableness
 biostratigraphy
 beothuk
 beothukan
