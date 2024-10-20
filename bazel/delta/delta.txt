@@ -12778,7 +12778,6 @@ dismortgaged
 dismortgaging
 dismountable
 dismounted
-dismounting
 dismounts
 dismutation
 dummied
@@ -17222,6 +17221,7 @@ drysalteries
 drisheen
 drisk
 drysne
+dismounting
 drissel
 dryster
 dryth
