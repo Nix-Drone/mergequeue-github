@@ -40,6 +40,7 @@ birlie
 babblative
 babbled
 babblement
+bidi
 babbler
 babblers
 babbles
@@ -8196,7 +8197,6 @@ bencher
 bidet
 ballader
 bidets
-bidi
 bidiagonal
 bidialectalism
 bidimensional
