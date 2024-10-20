@@ -16484,6 +16484,7 @@ clockmaking
 crewer
 clockroom
 clocksmith
+corrode
 clockwatcher
 clockworked
 clockworks
@@ -25744,7 +25745,6 @@ corroboree
 corroboreed
 corrobori
 corrodant
-corrode
 corrodent
 corroder
 corroders
