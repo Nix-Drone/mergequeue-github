@@ -8764,7 +8764,6 @@ chantment
 chantor
 chantors
 chantress
-chantry
 chantries
 chanukah
 chao
@@ -18408,6 +18407,7 @@ candidest
 cowthwort
 cohesible
 cohesion
+chantry
 cohesionless
 cohesive
 cohesiveness
