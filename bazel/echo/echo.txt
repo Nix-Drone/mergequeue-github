@@ -6037,6 +6037,7 @@ embossment
 enlinkment
 enlist
 enlisted
+exhales
 enlistees
 enlister
 epistrophe
@@ -12434,7 +12435,6 @@ exhalatory
 exhale
 exhalent
 exhalents
-exhales
 exhaling
 exhaust
 exhausted
