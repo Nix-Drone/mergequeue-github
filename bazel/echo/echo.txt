@@ -5250,6 +5250,7 @@ embeam
 eupneic
 endoplastron
 endoplastular
+envolume
 endopleural
 east
 endopleurite
@@ -7220,7 +7221,6 @@ envoy
 envois
 envoys
 envoyship
-envolume
 envolupen
 electrorefining
 enwall
