@@ -6754,7 +6754,6 @@ entertainment
 entertains
 entertake
 encaging
-entertissue
 emetine
 entete
 enthalpy
@@ -13395,6 +13394,7 @@ expropriatory
 exptl
 expugn
 expugnable
+entertissue
 expulsatory
 ethopoetic
 ekphoria
