@@ -3225,7 +3225,6 @@ activator
 activators
 active
 actively
-aweather
 activeness
 alforge
 actives
@@ -9264,6 +9263,7 @@ alpeen
 alpen
 alpenglow
 alpenhorns
+aweather
 alpenstock
 alpenstocker
 alpenstocks
