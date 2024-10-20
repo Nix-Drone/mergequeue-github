@@ -1120,7 +1120,6 @@ dashingly
 dashmaker
 dashnak
 dashnakist
-dashplate
 dropflower
 dashpot
 dasht
@@ -13738,6 +13737,7 @@ distantness
 distaste
 distasted
 distasteful
+dashplate
 distastefully
 defoliated
 distastefulness
