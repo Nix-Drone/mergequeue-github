@@ -6936,6 +6936,7 @@ bescratch
 bescreen
 bescreened
 belleek
+brayer
 bescreening
 bescreens
 bescribble
@@ -13385,7 +13386,6 @@ bottommost
 bottlemaker
 bottleman
 bottleneck
-brayer
 bottlenest
 bottlemaking
 bottlenose
