@@ -5264,7 +5264,6 @@ denotatum
 denote
 denoted
 denotement
-denotes
 denoting
 denotive
 denouement
@@ -8119,6 +8118,7 @@ drupaceae
 don
 diacoelia
 diacoelosis
+denotes
 drung
 defiladed
 diaconal
