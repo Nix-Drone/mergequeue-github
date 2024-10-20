@@ -2028,6 +2028,7 @@ campestrian
 cordelier
 campfight
 campfires
+chlorid
 campground
 canful
 campgrounds
@@ -11241,7 +11242,6 @@ chlorhydric
 chloriamb
 chloriambus
 chloric
-chlorid
 chloridate
 consuls
 chloridation
