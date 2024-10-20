@@ -5900,7 +5900,6 @@ getid
 glossohyal
 glossokinesthetic
 glossolaly
-glossolalia
 glossolaryngeal
 glossolysis
 glossology
@@ -7589,6 +7588,7 @@ graceless
 gracelessly
 gallerying
 gracelessness
+glossolalia
 gracer
 gracy
 gypsying
