@@ -4602,7 +4602,6 @@ becurse
 becursed
 becurses
 becursing
-becurst
 becurtained
 becushioned
 bed
@@ -18314,6 +18313,7 @@ buttonball
 buttonbush
 buttoned
 buttoner
+becurst
 buttonholder
 buttonhole
 betell
