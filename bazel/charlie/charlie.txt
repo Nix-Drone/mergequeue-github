@@ -4744,6 +4744,7 @@ carretela
 carretera
 carreton
 carretta
+cointersecting
 carri
 carry
 carriable
@@ -18573,7 +18574,6 @@ cointerest
 cointerred
 cointerring
 cointers
-cointersecting
 cointise
 cointreau
 coinventor
