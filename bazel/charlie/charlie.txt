@@ -6757,7 +6757,6 @@ cellarette
 cellaring
 cellarmen
 cartograph
-cellars
 charivariing
 cellarwoman
 cellblock
@@ -9925,6 +9924,7 @@ chemosynthesis
 chemosynthetic
 chemosis
 chemosmoic
+cellars
 chemosmoses
 chemosmotic
 calic
