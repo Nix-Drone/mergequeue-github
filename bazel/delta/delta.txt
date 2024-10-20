@@ -2476,6 +2476,7 @@ deckman
 deckpipe
 decks
 dulls
+dined
 deckswabber
 decl
 declaim
@@ -7662,7 +7663,6 @@ dialleli
 devirilize
 devisability
 devisable
-dined
 devisal
 discodactylous
 deviscerate
