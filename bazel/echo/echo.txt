@@ -5995,7 +5995,6 @@ enlargeable
 ethiopic
 enlargeableness
 euryaleae
-extrasyllabic
 enlarged
 ependytes
 enlargedly
@@ -11858,6 +11857,7 @@ exaudi
 exauguration
 entfaoilff
 exaun
+extrasyllabic
 endemiological
 exauthorate
 exauthorizeexc
