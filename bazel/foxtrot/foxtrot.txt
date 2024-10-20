@@ -4345,7 +4345,6 @@ fish
 fishability
 fishable
 fishback
-fishberry
 fleshers
 fishberries
 fishboat
@@ -7304,6 +7303,7 @@ fossils
 foppery
 fluster
 fopperies
+fishberry
 fopperly
 foppy
 foppish
