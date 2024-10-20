@@ -4134,7 +4134,6 @@ admissability
 admissable
 admissibility
 admissible
-admissibly
 admission
 admissions
 admissive
@@ -15808,6 +15807,7 @@ antipasti
 antipastic
 antipastos
 acromania
+admissibly
 antipatharia
 antipatharian
 antipathetic
