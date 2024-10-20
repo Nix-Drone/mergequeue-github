@@ -1689,6 +1689,7 @@ fazes
 fc
 fchar
 fipenny
+foretack
 fcomp
 farcin
 fcp
@@ -9721,7 +9722,6 @@ flunkers
 freelance
 freelanced
 fishers
-foretack
 freeload
 freeloaded
 freemanship
