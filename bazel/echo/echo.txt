@@ -3620,7 +3620,6 @@ eloquence
 eluvium
 estantion
 employable
-embrace
 embraceably
 embraced
 embracement
@@ -11272,6 +11271,7 @@ enviroment
 evagation
 evaginable
 evagination
+embrace
 eval
 evaluated
 evaluates
