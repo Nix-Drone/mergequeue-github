@@ -23350,7 +23350,6 @@ cyrtostyle
 containership
 containerships
 containing
-containment
 containments
 covert
 contains
@@ -26650,6 +26649,7 @@ counteralliance
 counterambush
 counterannouncement
 counteranswer
+containment
 counterappellant
 counterapproach
 counterapse
