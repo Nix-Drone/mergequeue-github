@@ -233,7 +233,6 @@ abbreviator
 abbreviators
 abbreviature
 abbroachment
-abc
 abcissa
 abcoulomb
 abd
@@ -14963,6 +14962,7 @@ anticlerical
 anticlericalism
 anticlericalist
 ami
+abc
 anticly
 algiers
 anticlimactic
