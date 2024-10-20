@@ -104,6 +104,7 @@ forequoted
 facie
 freeport
 fibroelastic
+flexographic
 faciend
 faciends
 facient
@@ -5515,7 +5516,6 @@ flexions
 flexitime
 ferdiad
 flexive
-flexographic
 flexographically
 flexor
 flexors
