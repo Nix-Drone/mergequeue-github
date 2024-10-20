@@ -6138,7 +6138,6 @@ deploringly
 dere
 derealization
 derecho
-dereference
 dereferencing
 deregister
 deregulate
@@ -13410,6 +13409,7 @@ disroost
 disrooted
 didymous
 disrooting
+dereference
 disrout
 disrudder
 disruddered
