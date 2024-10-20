@@ -6656,7 +6656,6 @@ celebesian
 celebrant
 celebrants
 celebrate
-celebrated
 celebratedly
 celebratedness
 celebrater
@@ -8272,6 +8271,7 @@ coevolve
 cranely
 cercomonas
 concertanti
+celebrated
 cosingular
 chalaziferous
 chalazion
