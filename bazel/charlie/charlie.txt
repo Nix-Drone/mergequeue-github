@@ -6756,7 +6756,6 @@ caffeine
 cellarette
 cellaring
 cellarmen
-cartograph
 cellars
 charivariing
 cellarwoman
@@ -10481,6 +10480,7 @@ childbirths
 childcrowing
 childe
 childermas
+cartograph
 childes
 coronally
 childhood
