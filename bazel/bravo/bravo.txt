@@ -5907,7 +5907,6 @@ bellum
 becobweb
 bellwaver
 bluer
-bellweather
 blinkard
 bellweed
 bellwether
@@ -12221,6 +12220,7 @@ bolthole
 bolti
 bolty
 boltin
+bellweather
 bolting
 boltlike
 beaupers
