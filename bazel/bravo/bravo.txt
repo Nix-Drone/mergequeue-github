@@ -5676,7 +5676,6 @@ beledgered
 belee
 beleed
 belemnid
-belemnite
 belemnites
 belemnitic
 belemnoid
@@ -17914,6 +17913,7 @@ busaos
 busbar
 busbars
 barnburner
+belemnite
 banquetings
 busbies
 buscarl
