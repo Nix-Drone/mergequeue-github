@@ -2939,7 +2939,6 @@ canvasado
 canvasback
 canvasbacks
 canvasers
-canvases
 canvasing
 canvaslike
 canvasser
@@ -19756,6 +19755,7 @@ comeddle
 comedy
 comedial
 comedian
+canvases
 comedians
 comediant
 comedic
