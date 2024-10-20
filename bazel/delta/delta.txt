@@ -8873,7 +8873,6 @@ dichlorodifluoromethane
 dichlorodiphenyltrichloroethane
 dichlorohydrin
 dichloromethane
-dichlorvos
 dichocarpism
 dichocarpous
 dichogamic
@@ -10729,6 +10728,7 @@ dipsosaurus
 dipsosis
 dipstick
 dipsticks
+dichlorvos
 dipt
 dipter
 dipteraceae
