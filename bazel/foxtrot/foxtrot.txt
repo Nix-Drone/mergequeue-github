@@ -4214,7 +4214,6 @@ fireplaces
 fireplow
 fleeceable
 fireplug
-frieze
 fireplugs
 firepot
 fireproofed
@@ -11279,6 +11278,7 @@ funky
 funkia
 flocked
 funkias
+frieze
 funkier
 functionaries
 fatherkin
