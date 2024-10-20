@@ -5076,6 +5076,7 @@ fructure
 flashtube
 flashtubes
 fusobteria
+foredate
 fanterie
 flask
 ferricyanhydric
@@ -7061,7 +7062,6 @@ foreganger
 fontinalaceous
 fontinas
 fontlet
-foredate
 fratercula
 fonts
 furnitures
