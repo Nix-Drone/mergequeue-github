@@ -5080,7 +5080,6 @@ discommendably
 denaturalization
 denaturalize
 denaturalized
-denaturant
 denaturants
 denaturate
 denaturational
@@ -8346,6 +8345,7 @@ dispell
 dialkylamine
 dialkylic
 detentes
+denaturant
 diallage
 diallages
 diallagic
