@@ -2642,7 +2642,6 @@ electrosurgery
 elaeocarpaceous
 eleutherodactyli
 electrosurgeries
-electrosurgical
 electrotactic
 electrotautomerism
 enrail
@@ -5050,6 +5049,7 @@ endleaves
 endless
 excuses
 endlessly
+electrosurgical
 electroplating
 endlichite
 endosteally
