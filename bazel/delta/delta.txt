@@ -8130,7 +8130,6 @@ diacoustics
 diacranterian
 diacrisis
 diacritic
-diacritical
 diacromyodi
 demises
 djelab
@@ -10031,6 +10030,7 @@ dynamometrical
 dirls
 descriptions
 dynamomorphic
+diacritical
 dynamoneure
 dynamophone
 dynamos
