@@ -17324,7 +17324,6 @@ coattest
 coattestation
 courteously
 coattestator
-coattested
 coattesting
 coaudience
 cancelled
@@ -27916,6 +27915,7 @@ craftswoman
 craftwork
 craftworker
 crag
+coattested
 craggan
 cragged
 craggedness
