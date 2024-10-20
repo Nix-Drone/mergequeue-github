@@ -6156,6 +6156,7 @@ flowcharts
 finality
 foldstool
 flowcontrol
+feuter
 flanche
 flowed
 flower
@@ -7090,7 +7091,6 @@ foolfish
 farkleberry
 foolhardy
 foolhardily
-feuter
 fleabane
 footful
 flapjack
