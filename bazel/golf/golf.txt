@@ -462,7 +462,6 @@ gastrojejunal
 galeated
 galeche
 galee
-gardenable
 grignet
 gunnery
 gammexane
@@ -3751,6 +3750,7 @@ ghizite
 glassware
 gildsman
 ghole
+gardenable
 ghoom
 geoaesthesia
 glops
