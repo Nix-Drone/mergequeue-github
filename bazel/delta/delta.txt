@@ -1522,6 +1522,7 @@ deadlight
 deadlihead
 deadlily
 deadlines
+diagonalization
 deadliness
 deadlock
 deadlocking
@@ -8218,7 +8219,6 @@ derogations
 dele
 diagonal
 diagonalizable
-diagonalization
 diagonalize
 disinteresting
 diagnosing
