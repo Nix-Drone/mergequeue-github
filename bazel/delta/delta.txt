@@ -4616,7 +4616,6 @@ demihigh
 demihogshead
 demihorse
 demijambe
-dottled
 deergrass
 demijohns
 demiking
@@ -12529,6 +12528,7 @@ disintoxication
 deliberator
 dosimeters
 disintrench
+dottled
 dysyntribite
 disintricate
 disinure
