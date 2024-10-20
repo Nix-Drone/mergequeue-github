@@ -10236,7 +10236,6 @@ bladelet
 bladelike
 beleaguerer
 blades
-bladesmith
 bladewise
 blady
 bladygrass
@@ -16727,6 +16726,7 @@ binning
 baseheartedness
 bucrane
 bucrania
+bladesmith
 bx
 babis
 bucranium
