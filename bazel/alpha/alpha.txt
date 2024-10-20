@@ -2048,7 +2048,6 @@ acetylcholine
 acetylenation
 acetylene
 acetylenediurein
-acetylenic
 acetylenyl
 acetylenogen
 acetylfluoride
@@ -12333,6 +12332,7 @@ ammonization
 andreas
 andrena
 andrenidae
+acetylenic
 andrewartha
 andrewsite
 andria
