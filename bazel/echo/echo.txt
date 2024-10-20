@@ -4737,7 +4737,6 @@ ersatzes
 ease
 enciphered
 enciphering
-encipherment
 evolutional
 encipherments
 epigean
@@ -12996,6 +12995,7 @@ expellable
 expellee
 expellees
 expellent
+encipherment
 egueiite
 expeller
 enamor
