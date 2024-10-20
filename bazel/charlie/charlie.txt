@@ -15436,7 +15436,6 @@ clap
 clapboarding
 clapboards
 clapcake
-clapdish
 clape
 clapholt
 clapmatch
@@ -25185,6 +25184,7 @@ corynocarpus
 corynteria
 corinth
 corinthes
+clapdish
 corinthiac
 corinthian
 corinthianesque
