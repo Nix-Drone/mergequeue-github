@@ -2598,7 +2598,6 @@ gemmologist
 gemmologists
 gemmulation
 gemmule
-gemmules
 gemmuliferous
 garbel
 graniferous
@@ -6161,6 +6160,7 @@ glutelin
 gonepoietic
 glutelins
 glutenin
+gemmules
 glutenous
 glutens
 gluteofemoral
