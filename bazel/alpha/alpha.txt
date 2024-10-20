@@ -943,7 +943,6 @@ absentmindedly
 absentmindedness
 absentness
 absents
-absfarad
 abshenry
 absi
 absinth
@@ -7740,6 +7739,7 @@ aldim
 arrhythmy
 aldime
 aldimin
+absfarad
 aldimine
 aldine
 antibias
