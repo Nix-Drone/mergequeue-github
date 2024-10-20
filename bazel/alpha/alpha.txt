@@ -216,7 +216,6 @@ abscision
 abbott
 abbozzo
 abbr
-abbrev
 abbreviatable
 abbreviate
 abbreviated
@@ -8377,6 +8376,7 @@ alizarine
 alizarins
 aljama
 aljamado
+abbrev
 assistances
 aljamia
 aljamiado
