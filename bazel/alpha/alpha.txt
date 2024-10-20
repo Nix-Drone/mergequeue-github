@@ -20178,7 +20178,6 @@ arrame
 agdistis
 arrand
 arrange
-arrangeable
 arranged
 arrangement
 arrangements
@@ -22034,6 +22033,7 @@ asteriskos
 asterisks
 assoils
 asterism
+arrangeable
 asterismal
 asterisms
 asterixis
