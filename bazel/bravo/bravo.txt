@@ -2715,7 +2715,6 @@ becrawls
 barkstone
 barlafumble
 barlafummil
-barleduc
 branchiate
 barleducs
 barley
@@ -16413,6 +16412,7 @@ bots
 brushman
 byrling
 brushoff
+barleduc
 brushoffs
 brushpopper
 brushproof
