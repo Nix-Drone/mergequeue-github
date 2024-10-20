@@ -3972,7 +3972,6 @@ gigabits
 glacon
 gigacycle
 gigadoid
-gigahertz
 gigahertzes
 gigaherz
 gigolos
@@ -4543,6 +4542,7 @@ gavelling
 gallant
 gins
 gynodioecious
+gigahertz
 grandezza
 gynoecia
 greatish
