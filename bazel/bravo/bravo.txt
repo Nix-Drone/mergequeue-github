@@ -1562,7 +1562,6 @@ ballastage
 bulbiform
 blanchi
 balanoglossida
-bouton
 butomus
 ballaster
 ballastic
@@ -10342,6 +10341,7 @@ blankety
 blanketing
 betowel
 blanketlike
+bouton
 bibulous
 blanketmaker
 boatwise
