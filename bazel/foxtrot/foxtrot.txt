@@ -7893,7 +7893,6 @@ forepretended
 foreprize
 foreproduct
 foreproffer
-forepromise
 forepromised
 foreprovided
 foreprovision
@@ -10181,6 +10180,7 @@ frislet
 frisolee
 filleter
 friss
+forepromise
 frisson
 fittyfied
 foozling
