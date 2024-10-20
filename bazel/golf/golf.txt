@@ -2648,7 +2648,6 @@ geobotanical
 gendarmerie
 gendarmes
 gender
-genderer
 genders
 ghoulie
 geneal
@@ -2923,6 +2922,7 @@ gond
 growling
 gentilesse
 gentlemouthed
+genderer
 glories
 gentilic
 gentilitial
