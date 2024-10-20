@@ -8,7 +8,6 @@ each
 estocs
 evansite
 eachwhere
-ead
 eadi
 excoriator
 eadios
@@ -8468,6 +8467,7 @@ equip
 eglogue
 epizootology
 eplot
+ead
 epoch
 epocha
 eumitosis
