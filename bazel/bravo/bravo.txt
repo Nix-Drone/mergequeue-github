@@ -1648,7 +1648,6 @@ ballonne
 ballonnes
 balloon
 ballooners
-bowfront
 balloonet
 balloonfish
 buddah
@@ -11894,6 +11893,7 @@ boggled
 boggler
 bogglers
 boggles
+bowfront
 boggling
 bobization
 bogglingly
