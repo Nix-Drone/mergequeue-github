@@ -763,7 +763,6 @@ aboveproof
 aboves
 abovesaid
 abovestairs
-abow
 abox
 abrachia
 abradable
@@ -13062,6 +13061,7 @@ anhinga
 anhingas
 anhysteretic
 anhistic
+abow
 anhistous
 anhungered
 anhungry
