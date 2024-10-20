@@ -2331,6 +2331,7 @@ epistroma
 electrobus
 electrocapillary
 electrocapillarity
+enterotoxemia
 electrocardiogram
 electrocardiograms
 escarped
@@ -6716,7 +6717,6 @@ enterostomies
 enterotome
 extemporaneity
 enterotomy
-enterotoxemia
 enterotoxication
 essence
 enterotoxin
