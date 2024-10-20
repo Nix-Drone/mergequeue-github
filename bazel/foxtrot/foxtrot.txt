@@ -5077,6 +5077,7 @@ flashtube
 flashtubes
 fusobteria
 fanterie
+fluoroscope
 flask
 ferricyanhydric
 flasker
@@ -11424,7 +11425,6 @@ furler
 furlers
 furlong
 fiasco
-fluoroscope
 furloughed
 furloughing
 furls
