@@ -2164,6 +2164,7 @@ elatedness
 elater
 elatery
 elaterids
+enabled
 elaterins
 exterminatress
 elaterite
@@ -10011,7 +10012,6 @@ encompasses
 ecdysons
 esthetics
 esthetology
-enabled
 esthiomene
 esthiomenus
 estimable
