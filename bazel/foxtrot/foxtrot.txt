@@ -2952,7 +2952,6 @@ feudum
 feuillage
 foreshows
 feuillemorte
-feuillet
 feuilleton
 feuilletonist
 feuilletonistic
@@ -7674,6 +7673,7 @@ forefin
 forefinger
 forjudged
 forefingers
+feuillet
 figlike
 foreflank
 fistulized
