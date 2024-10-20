@@ -3083,7 +3083,6 @@ fibred
 fibrefill
 fibreless
 fibres
-fibril
 fairily
 fluorin
 fibrilated
@@ -5568,6 +5567,7 @@ formaliter
 flicky
 fulsome
 flicks
+fibril
 flics
 flidge
 fmt
