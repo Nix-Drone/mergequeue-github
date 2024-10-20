@@ -2873,7 +2873,6 @@ acrochordidae
 acrochordinae
 acrochordon
 acrocyanosis
-acrocyst
 achenocarp
 acrock
 acrospore
@@ -21844,6 +21843,7 @@ assmanship
 avian
 assobre
 associability
+acrocyst
 associable
 associableness
 associated
