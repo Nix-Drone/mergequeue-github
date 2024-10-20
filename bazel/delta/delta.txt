@@ -1585,6 +1585,7 @@ dealcoholize
 dealer
 demolishes
 dealerdom
+doffs
 dealers
 dealership
 dealfish
@@ -14885,7 +14886,6 @@ doffed
 doffer
 doffers
 doffing
-doffs
 demiracle
 doftberry
 dofunny
