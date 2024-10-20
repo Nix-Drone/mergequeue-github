@@ -3913,7 +3913,6 @@ carcinolysin
 carcinological
 carcinologist
 carcinomas
-carcinomata
 carcinomatoid
 carcinomatosis
 cholers
@@ -21001,6 +21000,7 @@ computative
 computatively
 computativeness
 compute
+carcinomata
 computed
 computer
 computerese
