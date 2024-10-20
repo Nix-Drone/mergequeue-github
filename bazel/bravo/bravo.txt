@@ -9399,7 +9399,6 @@ bromous
 birdhouses
 birdy
 birdyback
-birdieback
 backseat
 birdied
 blossomed
@@ -11582,6 +11581,7 @@ bosket
 boatage
 boatbill
 bacterioscopical
+birdieback
 boatbuilder
 boatbuilding
 boated
