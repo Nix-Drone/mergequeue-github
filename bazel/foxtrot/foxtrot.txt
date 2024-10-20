@@ -1076,6 +1076,7 @@ farmable
 farmed
 farmer
 farmeress
+faiences
 farmery
 filigraned
 farmeries
@@ -11709,7 +11710,6 @@ futuric
 feminines
 flippancy
 foreacquaint
-faiences
 forefaces
 futurisms
 foretellableness
