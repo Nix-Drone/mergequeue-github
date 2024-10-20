@@ -3987,7 +3987,6 @@ adjudger
 adjudges
 adjudging
 adjudicata
-appestat
 adjudicate
 adjudicated
 adjudication
@@ -6530,6 +6529,7 @@ agsam
 agst
 agtbasic
 aguacate
+appestat
 aguacateca
 aguada
 anaphalis
