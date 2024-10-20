@@ -9859,7 +9859,6 @@ dimers
 dimes
 dimetallic
 dimeter
-dimeters
 dimethyl
 dimethylamine
 dimethylamino
@@ -17397,6 +17396,7 @@ droplike
 drib
 doigt
 dropline
+dimeters
 depletes
 dusts
 diduced
