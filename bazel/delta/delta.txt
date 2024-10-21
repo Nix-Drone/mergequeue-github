@@ -2520,7 +2520,6 @@ declassicize
 declassify
 declassification
 declassifications
-delocalized
 dissimule
 declassifies
 declassifying
@@ -5237,6 +5236,7 @@ denominant
 denominate
 disbudding
 denominated
+delocalized
 denominates
 denomination
 denominational
