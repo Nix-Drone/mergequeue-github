@@ -4770,7 +4770,6 @@ bedlids
 bedlight
 bedmaker
 bewrought
-bedmakers
 borak
 bulldozer
 bookdom
@@ -7872,6 +7871,7 @@ bemud
 bigotish
 bibacious
 bibaciousness
+bedmakers
 balche
 bibacity
 bypasses
