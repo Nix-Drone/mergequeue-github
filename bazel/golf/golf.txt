@@ -683,7 +683,6 @@ geodesy
 galliot
 galliots
 gurnets
-gallipot
 gallipots
 gallirallus
 gallisin
@@ -3663,6 +3662,7 @@ gloiopeltis
 granulomatous
 gharnao
 gastronomy
+gallipot
 gregarinaria
 gharries
 gentlewomanly
