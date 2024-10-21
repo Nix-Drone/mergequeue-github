@@ -3055,6 +3055,7 @@ barterers
 bartering
 barters
 barth
+blacksmith
 barthite
 baltimorite
 bartholomean
@@ -10187,7 +10188,6 @@ biofeedback
 blackshirt
 blackshirted
 barkle
-blacksmith
 blacksmithing
 beastdom
 blacksmiths
