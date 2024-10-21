@@ -143,6 +143,7 @@ cabled
 cablegrams
 cablelaid
 cableless
+chemisorb
 cablelike
 cableman
 cablemen
@@ -9870,7 +9871,6 @@ chemises
 chemisette
 chemism
 choosy
-chemisorb
 chemisorption
 cantator
 counteraverment
