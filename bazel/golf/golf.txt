@@ -1390,7 +1390,6 @@ gardinol
 grippers
 gazania
 gare
-garefowl
 garefowls
 germanhood
 garetta
@@ -4077,6 +4076,7 @@ graftdom
 gulinulae
 gigots
 gigs
+garefowl
 gigsmen
 gigster
 guarinite
