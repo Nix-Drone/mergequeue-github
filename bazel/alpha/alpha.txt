@@ -6876,7 +6876,6 @@ airflows
 airfoil
 airfoils
 airframe
-airglow
 airglows
 acondylous
 airgraph
@@ -10398,6 +10397,7 @@ amidine
 amidins
 amidism
 armenians
+airglow
 algenib
 amido
 arsine
