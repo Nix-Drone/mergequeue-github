@@ -5985,7 +5985,6 @@ beltmaker
 beltmaking
 beltman
 beltmen
-belts
 beltway
 beltwise
 barn
@@ -7878,6 +7877,7 @@ bypasses
 bowgrace
 bibation
 beglamour
+belts
 bibb
 bibber
 bibbery
