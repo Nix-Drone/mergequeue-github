@@ -2677,7 +2677,6 @@ decompoundable
 decompoundly
 decompress
 decompresses
-decompressing
 decompression
 detectaphone
 delegacy
@@ -11506,6 +11505,7 @@ discommoned
 discommoning
 dextrinase
 discommons
+decompressing
 discommune
 demotics
 dcolletage
