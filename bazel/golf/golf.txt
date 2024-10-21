@@ -3099,7 +3099,6 @@ geographies
 grocerdom
 geoids
 gladioluses
-geoisotherm
 geol
 geolatry
 gusseting
@@ -10638,6 +10637,7 @@ gurglingly
 gephyrocercy
 gurl
 goblet
+geoisotherm
 glycerols
 gurlet
 gurnard
