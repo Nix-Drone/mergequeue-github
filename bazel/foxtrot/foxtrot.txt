@@ -1689,6 +1689,7 @@ fazes
 fc
 fchar
 fipenny
+fogydom
 fcomp
 farcin
 fcp
@@ -5443,7 +5444,6 @@ foremention
 flirtiest
 faitery
 fleshen
-fogydom
 forgeful
 flesher
 fleshes
