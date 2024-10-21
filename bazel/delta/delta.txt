@@ -2562,6 +2562,7 @@ declutch
 deco
 decoagulated
 dorms
+dict
 decoagulation
 decoat
 downsinking
@@ -8990,7 +8991,6 @@ dicrotism
 dicrotous
 dicruridae
 dyable
-dict
 dicta
 dictaen
 dictagraph
