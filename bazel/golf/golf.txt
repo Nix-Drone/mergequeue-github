@@ -1969,6 +1969,7 @@ gatherable
 gathered
 gilgai
 gatherers
+guerdonable
 graplins
 gyrostabilizer
 greenfishes
@@ -5991,7 +5992,6 @@ glowingly
 glows
 glamouring
 geoethnic
-guerdonable
 gastrilegous
 gypaetus
 gorgeable
