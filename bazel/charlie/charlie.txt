@@ -11297,7 +11297,6 @@ chloroamine
 chloroaurate
 chloroauric
 chloroaurite
-chlorobenzene
 chlorobromide
 chlorobromomethane
 chlorocalcite
@@ -11592,6 +11591,7 @@ choledocholithotomy
 choledocholithotripsy
 choledochoplasty
 choledochorrhaphy
+chlorobenzene
 choledochostomy
 cace
 choledochostomies
