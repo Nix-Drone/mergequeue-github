@@ -6227,6 +6227,7 @@ aglossal
 aglossia
 aglow
 aglucon
+aeonian
 aglucone
 agma
 agmas
@@ -18069,7 +18070,6 @@ apptd
 appui
 appulse
 anemochord
-aeonian
 appulses
 appulsion
 appulsive
