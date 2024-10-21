@@ -1445,7 +1445,6 @@ dcb
 dclass
 dcollet
 dcor
-ddname
 disillusionise
 damnatory
 dea
@@ -13623,6 +13622,7 @@ dissipaters
 drawdowns
 deplaster
 dissipates
+ddname
 dimmish
 dissipating
 dissipation
