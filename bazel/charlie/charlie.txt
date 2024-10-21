@@ -11549,7 +11549,6 @@ cholates
 contestation
 chold
 choleate
-cholecyanine
 cholecyst
 cholecystectasia
 cholecystectomy
@@ -28074,6 +28073,7 @@ craniograph
 craniographer
 craniography
 cranioid
+cholecyanine
 clung
 craniol
 craniology
