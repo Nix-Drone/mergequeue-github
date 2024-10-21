@@ -3383,6 +3383,7 @@ capsule
 collegatary
 chawbone
 capsulectomy
+cytodendrite
 caliculus
 capsuled
 capsuler
@@ -9370,7 +9371,6 @@ chaulmaugra
 cupboards
 chaulmoogra
 chaulmoograte
-cytodendrite
 chaulmoogric
 chaulmugra
 chaumer
