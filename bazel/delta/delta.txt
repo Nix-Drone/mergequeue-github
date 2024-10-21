@@ -2476,7 +2476,6 @@ deckman
 deckpipe
 decks
 dulls
-deckswabber
 decl
 declaim
 dichorisandra
@@ -4849,6 +4848,7 @@ deux
 dictyoceratine
 diffusively
 demoid
+deckswabber
 dishwash
 demoiselles
 demolish
