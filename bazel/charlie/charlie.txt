@@ -5101,7 +5101,6 @@ caseum
 caseweed
 casewood
 caseworker
-caseworkers
 caseworks
 caseworm
 caseworms
@@ -8484,6 +8483,7 @@ chamecephalic
 chamecephalous
 chamecephalus
 chameleon
+caseworkers
 chameleonic
 chameleonize
 chameleonlike
