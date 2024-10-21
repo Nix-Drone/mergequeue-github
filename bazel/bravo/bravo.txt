@@ -2715,7 +2715,6 @@ becrawls
 barkstone
 barlafumble
 barlafummil
-barleduc
 branchiate
 barleducs
 barley
@@ -5512,6 +5511,7 @@ beige
 bb
 beigel
 bemazed
+barleduc
 beignet
 beylic
 biblicistic
