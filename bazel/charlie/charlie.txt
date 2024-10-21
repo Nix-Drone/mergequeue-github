@@ -20539,6 +20539,7 @@ compendia
 compendiary
 compendious
 compendiously
+capybara
 compendium
 compendiums
 compends
@@ -29192,7 +29193,6 @@ cryptanalytical
 cryptanalytically
 cryptanalytics
 cryptanalyze
-capybara
 cryptanalyzed
 cryptanalyzing
 cryptarch
