@@ -140,7 +140,6 @@ faconde
 faconne
 facsim
 frena
-facsimile
 facsimiled
 fastest
 facsimileing
@@ -4605,6 +4604,7 @@ fiver
 forages
 fm
 fivesome
+facsimile
 fivestones
 fivish
 fix
