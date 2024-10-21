@@ -61,7 +61,6 @@ babel
 bursters
 bolbonac
 babelet
-babelike
 babelish
 babelism
 bongar
@@ -14990,6 +14989,7 @@ breezelike
 breezeway
 breezeways
 besanctify
+babelike
 breezy
 breezier
 breeziest
