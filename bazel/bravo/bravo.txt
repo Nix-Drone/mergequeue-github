@@ -8262,7 +8262,6 @@ bierstube
 bierstuben
 byestreet
 biethnic
-baccar
 bietle
 byeworker
 byeworkman
@@ -15104,6 +15103,7 @@ brewages
 bogier
 butchering
 brewery
+baccar
 breweries
 brewers
 brewership
