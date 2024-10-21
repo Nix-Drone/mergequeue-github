@@ -1841,7 +1841,6 @@ feats
 featural
 fainness
 fibrinogen
-feature
 forthrightly
 featured
 featureful
@@ -8494,6 +8493,7 @@ formnail
 formolit
 fluid
 faultless
+feature
 fluencies
 formolite
 forewarned
