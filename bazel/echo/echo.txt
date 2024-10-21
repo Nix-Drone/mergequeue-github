@@ -13152,7 +13152,6 @@ explanator
 expurgator
 explanatory
 explanatorily
-explanatoriness
 explanitory
 explant
 explantation
@@ -13304,6 +13303,7 @@ expositive
 expositively
 exclude
 evestar
+explanatoriness
 encup
 encratic
 eurypterid
