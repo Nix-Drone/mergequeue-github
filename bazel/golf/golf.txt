@@ -3078,7 +3078,6 @@ geomance
 geoform
 gillnet
 geogen
-geogenesis
 gyropilot
 geogenetic
 geogeny
@@ -10487,6 +10486,7 @@ gundygut
 gabari
 gundog
 gastronomic
+geogenesis
 gunfights
 gunfires
 gearless
