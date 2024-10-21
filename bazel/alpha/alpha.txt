@@ -5631,7 +5631,6 @@ afterguard
 afterguns
 anaerobious
 afterharm
-afterheat
 afterhelp
 afterhend
 afterhope
@@ -15129,6 +15128,7 @@ antidiuretic
 antidivine
 antidivorce
 antidogmatic
+afterheat
 assemblagist
 antidogmatical
 antidogmatically
