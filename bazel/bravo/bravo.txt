@@ -677,6 +677,7 @@ bacteriosolvent
 bacteriostasis
 bacteriostat
 bacteriostatically
+bushel
 bacteriotherapeutic
 bacteriotherapy
 balanophorin
@@ -3395,7 +3396,6 @@ bason
 basongo
 basophil
 basophilia
-bushel
 basophilic
 basophilous
 basophils
