@@ -1012,7 +1012,6 @@ fardo
 fards
 fissiparation
 fare
-farenheit
 friarbird
 flatlands
 felinophobe
@@ -2634,6 +2633,7 @@ foregoneness
 ferromanganese
 ferrometer
 ferronatrite
+farenheit
 ferronickel
 ferrophosphorus
 filicologist

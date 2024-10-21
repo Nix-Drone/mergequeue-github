@@ -8720,7 +8720,6 @@ equiperiodic
 expander
 equipluve
 equipment
-equipments
 equipoised
 equipoising
 equipollence
@@ -13918,6 +13917,7 @@ extraparochial
 extraparochially
 extrapatriarchal
 extrapelvic
+equipments
 extraperineal
 extraperiodic
 emplacement
