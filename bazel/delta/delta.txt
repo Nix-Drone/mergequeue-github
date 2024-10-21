@@ -4321,7 +4321,6 @@ deltidium
 displacer
 deltiology
 dialyzing
-dummy
 deltohedron
 deltoidei
 deltoideus
@@ -16807,6 +16806,7 @@ dyslogia
 drawbench
 delayage
 dardani
+dummy
 drawboy
 drawbolt
 drawbore
