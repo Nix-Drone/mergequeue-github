@@ -5582,6 +5582,7 @@ aftercast
 aftercataract
 adversive
 afterchance
+armomancy
 afterchurch
 afterclap
 afterclause
@@ -19981,7 +19982,6 @@ armlock
 armlocks
 armoire
 armoires
-armomancy
 armoniac
 agla
 acapnial
