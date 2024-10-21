@@ -3226,7 +3226,6 @@ activators
 active
 actively
 aweather
-activeness
 alforge
 actives
 activin
@@ -14641,6 +14640,7 @@ atemporal
 anthropophaginian
 anthropophagism
 anthropophagist
+activeness
 anthropophagistic
 anthropophagit
 anthropophagite
