@@ -2008,7 +2008,6 @@ bandspreading
 bandstand
 bandstands
 bandster
-ballroom
 bandstop
 bandstring
 bandura
@@ -5745,6 +5744,7 @@ belight
 boring
 baaed
 beliing
+ballroom
 belike
 beliked
 belili
