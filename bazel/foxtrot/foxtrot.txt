@@ -8860,6 +8860,7 @@ flneur
 flon
 fossick
 fumbulator
+filletlike
 fossicked
 fossicker
 fossicking
@@ -11208,7 +11209,6 @@ funestal
 funfair
 funfairs
 featherway
-filletlike
 flavourer
 funfest
 flashtester
