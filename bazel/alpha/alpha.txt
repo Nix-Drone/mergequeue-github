@@ -8602,7 +8602,6 @@ allegro
 alley
 alleyite
 alleys
-alleyway
 anarchs
 allele
 alleles
@@ -16516,6 +16515,7 @@ antonomastic
 antonomastical
 amaga
 antonomastically
+alleyway
 antonovics
 agateware
 antorbital
