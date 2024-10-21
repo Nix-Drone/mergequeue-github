@@ -7504,6 +7504,7 @@ foreallot
 foreannounce
 flatuses
 foreappoint
+firmless
 foreappointment
 fungate
 forearming
@@ -9266,7 +9267,6 @@ fracturable
 federations
 fractured
 fractureproof
-firmless
 fracturing
 fracturs
 foolify
