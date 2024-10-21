@@ -9257,7 +9257,6 @@ chastiser
 chastisers
 clapperboard
 composture
-chastises
 chastising
 corf
 chastity
@@ -17223,6 +17222,7 @@ coappear
 coappearance
 coappeared
 coappearing
+chastises
 coapprehend
 coapprentice
 coappriser
