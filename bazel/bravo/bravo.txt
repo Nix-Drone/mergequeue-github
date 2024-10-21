@@ -2742,7 +2742,6 @@ barmaster
 barmbrack
 barmcloth
 brither
-barmecide
 barmen
 barmfel
 becoward
@@ -13983,6 +13982,7 @@ brachydactyly
 brachydactylia
 brachydactylic
 brachydactylism
+barmecide
 brachydactylous
 brachydiagonal
 brachydodrome
