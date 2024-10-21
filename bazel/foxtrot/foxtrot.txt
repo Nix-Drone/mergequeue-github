@@ -5062,6 +5062,7 @@ foeture
 flashiness
 flashingly
 flashings
+flyweight
 flashlamp
 flashlight
 flashlike
@@ -5785,7 +5786,6 @@ fungiform
 flyways
 faunas
 further
-flyweight
 flyweights
 forthon
 fribblish
