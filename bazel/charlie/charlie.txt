@@ -17828,7 +17828,6 @@ codlins
 codman
 codol
 codomain
-codominant
 codon
 crystallographical
 codons
@@ -18201,6 +18200,7 @@ cofferer
 cofferfish
 coffering
 cofferlike
+codominant
 coffers
 cofferwork
 coffin
