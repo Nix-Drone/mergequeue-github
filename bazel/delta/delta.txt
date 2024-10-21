@@ -7513,7 +7513,6 @@ devalorize
 devaluate
 devaluated
 devaluates
-devaluation
 devaluations
 devalue
 devalued
@@ -14742,6 +14741,7 @@ doctrinization
 doctrinize
 doctrinized
 doctrinizing
+devaluation
 descenders
 doctrix
 doctus
