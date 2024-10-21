@@ -1022,7 +1022,6 @@ absorbencies
 absorbents
 absorber
 absorbers
-absorbing
 absorbtion
 absorpt
 absorptance
@@ -2423,6 +2422,7 @@ acids
 acidulant
 acidulate
 arbitrament
+absorbing
 acidulated
 alaunian
 acidulation
