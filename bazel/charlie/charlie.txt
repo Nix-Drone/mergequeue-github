@@ -5079,6 +5079,7 @@ caselessly
 caseload
 caseloads
 caselty
+compile
 casemaker
 casemaking
 casemated
@@ -16385,7 +16386,6 @@ clitella
 clitellar
 clitelliferous
 clitellus
-compile
 crappin
 clites
 clithe
