@@ -6758,7 +6758,6 @@ entertissue
 emetine
 entete
 enthalpy
-enthalpies
 enthean
 entheasm
 enfuddle
@@ -14018,6 +14017,7 @@ extravagances
 extravagancy
 epiphenomena
 extravagant
+enthalpies
 extravagantly
 extravagantness
 extravaganza
