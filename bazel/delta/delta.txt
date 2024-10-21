@@ -3566,7 +3566,6 @@ defs
 demoniast
 defterdar
 dodecahedra
-draftiness
 dishonouring
 duckers
 deftly
@@ -6700,6 +6699,7 @@ desilverization
 desilverizer
 desilverizing
 desilvers
+draftiness
 desynapsis
 desynaptic
 dulcarnon
