@@ -2957,7 +2957,6 @@ barrelfishes
 bonair
 barrelful
 barrelfuls
-blind
 barrelhead
 barrelhouse
 barrelhouses
@@ -12171,6 +12170,7 @@ bolography
 bolographic
 bolographically
 boloing
+blind
 blushiness
 brigantes
 boloism
