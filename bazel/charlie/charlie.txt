@@ -11572,6 +11572,7 @@ cholecystogram
 cholecystography
 cholecystojejunostomy
 cholecystokinin
+commutators
 cholecystolithiasis
 cholecystolithotripsy
 cholecystopexy
@@ -20344,7 +20345,6 @@ commutative
 commutatively
 commutativity
 commutator
-commutators
 commute
 commuted
 commuter
