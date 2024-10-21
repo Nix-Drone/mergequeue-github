@@ -6937,7 +6937,6 @@ airplanist
 acieral
 airplot
 airport
-airports
 airpost
 airposts
 airproof
@@ -16859,6 +16858,7 @@ aphenoscope
 apheresis
 apheretic
 acounter
+airports
 apheses
 adumbrate
 antiphoner
