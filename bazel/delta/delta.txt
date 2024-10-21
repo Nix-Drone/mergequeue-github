@@ -2339,7 +2339,6 @@ dechlog
 dechloridation
 dechloridize
 dechloridized
-deash
 dechloridizing
 dechlorinate
 dechlorinated
@@ -8281,6 +8280,7 @@ dialectics
 diamb
 dialectologer
 diplois
+deash
 dialectology
 dialectologic
 dialectological
