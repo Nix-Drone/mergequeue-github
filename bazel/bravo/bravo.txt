@@ -2843,7 +2843,6 @@ baronies
 baronize
 baronized
 baronnes
-baronries
 blackbush
 barons
 briggs
@@ -10270,6 +10269,7 @@ blamability
 blame
 blameableness
 blameably
+baronries
 blamed
 bugbeardom
 bittersweetness
