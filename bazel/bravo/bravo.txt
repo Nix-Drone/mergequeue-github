@@ -2685,7 +2685,6 @@ barkeeper
 barkeepers
 barkeeps
 byelaws
-bunglesome
 barkey
 barken
 beknights
@@ -7471,6 +7470,7 @@ blini
 bottles
 baseboards
 bhajan
+bunglesome
 boiserie
 betorn
 bistriazole
