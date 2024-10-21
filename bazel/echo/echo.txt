@@ -10132,6 +10132,7 @@ etalage
 etamin
 equippers
 ever
+evictions
 etamines
 etyma
 etamins
@@ -11539,7 +11540,6 @@ evictee
 extrasyllogistic
 erythraeidae
 endometrium
-evictions
 eleocharis
 embodying
 evictor
