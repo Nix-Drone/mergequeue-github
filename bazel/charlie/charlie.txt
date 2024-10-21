@@ -1127,7 +1127,6 @@ calculatory
 calculators
 calculer
 calculiform
-calculifrage
 chedar
 calculous
 calculus
@@ -8807,6 +8806,7 @@ chapeless
 chapelet
 chapelgoer
 crenelle
+calculifrage
 chapelgoing
 chapeling
 chapelize
