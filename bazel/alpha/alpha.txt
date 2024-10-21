@@ -19309,7 +19309,6 @@ arditi
 ardito
 ardoise
 ardors
-ardour
 ardours
 ardri
 ardu
@@ -22183,6 +22182,7 @@ astrantia
 astraphobia
 astrapophobia
 astre
+ardour
 anis
 astream
 astrean
