@@ -3126,7 +3126,6 @@ geomagnetist
 gravamen
 geomaly
 geomalic
-geomancer
 geomancy
 garnered
 gripes
@@ -6126,6 +6125,7 @@ glummy
 glumness
 glumnesses
 gyrovagi
+geomancer
 ghain
 genus
 glumose
