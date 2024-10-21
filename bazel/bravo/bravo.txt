@@ -850,6 +850,7 @@ baffleplate
 bafflers
 baffles
 breakbones
+bigger
 baffling
 bafflingly
 burls
@@ -8377,7 +8378,6 @@ bigged
 biggen
 biggened
 biggening
-bigger
 biggest
 bacons
 biggy
