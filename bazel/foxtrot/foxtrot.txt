@@ -7923,7 +7923,6 @@ fulminic
 foredates
 flannelbush
 foreroyal
-forerun
 forerunner
 forerunners
 forerunning
@@ -10325,6 +10324,7 @@ froglike
 frogling
 fibroadenia
 flaming
+forerun
 frogman
 frogmarch
 frogmen
