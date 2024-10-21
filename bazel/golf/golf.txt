@@ -5446,7 +5446,6 @@ glycogenosis
 gingals
 glycogens
 glycohaemia
-glycol
 glycolaldehyde
 goback
 gayals
@@ -10621,6 +10620,7 @@ gurgitation
 gurgled
 gurgles
 gurglet
+glycol
 gurgling
 gainings
 geloscopy
