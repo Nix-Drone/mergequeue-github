@@ -3304,7 +3304,6 @@ faction
 ferrying
 fidejussion
 fidejussionary
-furlanas
 fidejussor
 fidejussory
 fidele
@@ -8089,6 +8088,7 @@ forestudy
 focalizing
 flue
 flowerets
+furlanas
 forestwards
 foresummon
 foreswear
