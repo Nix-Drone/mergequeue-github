@@ -5123,7 +5123,6 @@ dendrochronology
 dendrochronologically
 dendrochronologist
 dendrocygna
-dotty
 dendrocoela
 dimercuric
 dendrocoelan
@@ -15368,6 +15367,7 @@ dif
 domine
 domineer
 domineered
+dotty
 domineerer
 distinguishing
 domineering
