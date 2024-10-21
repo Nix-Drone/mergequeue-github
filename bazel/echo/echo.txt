@@ -7904,7 +7904,6 @@ epigrammatize
 epigrammatized
 echoingly
 epigrammatizer
-epigrammatizing
 epigrams
 epigraph
 epigrapher
@@ -13143,6 +13142,7 @@ explainer
 explainers
 explaining
 ecclesiarch
+epigrammatizing
 explainingly
 explanate
 explanation
