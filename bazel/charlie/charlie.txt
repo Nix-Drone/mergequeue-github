@@ -2401,6 +2401,7 @@ candlebomb
 candled
 candlefish
 candlefishes
+campanularian
 candleholder
 candlelight
 candlelighted
@@ -22183,7 +22184,6 @@ congealment
 connusable
 congeals
 conged
-campanularian
 congee
 collarman
 congeed
