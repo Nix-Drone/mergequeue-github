@@ -4882,6 +4882,7 @@ cartload
 cartloads
 cartmaker
 cartmaking
+commutator
 cartobibliography
 cartogram
 chloridizing
@@ -20343,7 +20344,6 @@ commutation
 commutative
 commutatively
 commutativity
-commutator
 commutators
 commute
 commuted
