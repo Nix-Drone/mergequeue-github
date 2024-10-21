@@ -7154,7 +7154,6 @@ centreboard
 centrechinoida
 centred
 centref
-centrefold
 centreless
 centrepiece
 canephoroe
@@ -23778,6 +23777,7 @@ contrariness
 contrarious
 contrariously
 contrariousness
+centrefold
 cartway
 contrariwise
 contrarotation
