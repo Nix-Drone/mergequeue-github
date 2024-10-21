@@ -1140,7 +1140,6 @@ edificial
 edificing
 edified
 eliminability
-edifiers
 edifying
 edifyingly
 edifyingness
@@ -2419,6 +2418,7 @@ eumenidean
 electrodissolution
 electroed
 encrinite
+edifiers
 electroencephalogram
 electroencephalograms
 electroencephalograph
