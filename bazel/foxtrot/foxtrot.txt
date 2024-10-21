@@ -3127,7 +3127,6 @@ fibrochondrosteal
 fibrocyst
 fibrocystoma
 fibrocyte
-fibrocytic
 floatiness
 fibroenchondroma
 fibroferrite
@@ -4750,6 +4749,7 @@ forereaching
 flagellist
 ferromolybdenum
 filtrated
+fibrocytic
 folie
 flagellula
 flagellulae
