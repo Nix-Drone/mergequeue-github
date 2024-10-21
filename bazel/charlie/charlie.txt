@@ -7373,7 +7373,6 @@ cephalophyma
 cephalophine
 cephalophus
 cephaloplegia
-cephaloplegic
 cephalopod
 cephalopoda
 cephalopodan
@@ -29446,6 +29445,7 @@ cherishingly
 crystallizable
 crystallization
 crystallize
+cephaloplegic
 crystallized
 crystallizer
 centrotus
