@@ -4675,7 +4675,6 @@ botanised
 bedebt
 bedeck
 bedecked
-bedecking
 bedecks
 bedecorate
 bedegar
@@ -11072,6 +11071,7 @@ bloodedness
 bloodfin
 bloodfins
 bloodflower
+bedecking
 bloodguiltiness
 bloodguiltless
 bloodhounds
