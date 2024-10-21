@@ -926,6 +926,7 @@ beadlery
 baglike
 bagmaker
 bagmaking
+blanchers
 bagmen
 bagne
 bagnes
@@ -10301,7 +10302,6 @@ blanch
 blanche
 blanched
 blancher
-blanchers
 blanches
 blanchimeter
 blanching
