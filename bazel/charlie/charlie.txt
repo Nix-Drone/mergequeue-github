@@ -7832,7 +7832,6 @@ cervelats
 cerveliere
 chirpling
 cervelliere
-cervical
 cervicapra
 cervicaprine
 cervicectomy
@@ -14616,6 +14615,7 @@ cystadenoma
 cystadenosarcoma
 cystalgia
 cystamine
+cervical
 cystaster
 cystathionine
 cystatrophy
