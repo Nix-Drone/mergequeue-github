@@ -3624,7 +3624,6 @@ caravans
 caravansary
 caravansaries
 caravanserai
-caravanserial
 caravel
 confuse
 caravels
@@ -25868,6 +25867,7 @@ corteges
 cortes
 cortex
 cortexes
+caravanserial
 cortez
 cortian
 cortical
