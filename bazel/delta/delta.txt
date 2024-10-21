@@ -4616,7 +4616,6 @@ demihigh
 demihogshead
 demihorse
 demijambe
-dottled
 deergrass
 demijohns
 demiking
@@ -13651,6 +13650,7 @@ dissociates
 dissociating
 dissociations
 dissoconch
+dottled
 dissogeny
 deprivative
 dissogony
