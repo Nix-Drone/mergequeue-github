@@ -2235,7 +2235,6 @@ feltman
 foulard
 foredeep
 feltmonger
-felts
 feltwort
 felucca
 felwort
@@ -9229,6 +9228,7 @@ fractionally
 fractionary
 freights
 flaxwort
+felts
 falterers
 ferried
 foveolate
