@@ -10612,7 +10612,6 @@ aminophenol
 antischolastic
 aminopherase
 apothec
-arccosine
 aminophylline
 aminopyrine
 aminoplast
@@ -25170,6 +25169,7 @@ axodendrite
 axofugal
 axogamy
 axoid
+arccosine
 axoidean
 axolemma
 axolysis
