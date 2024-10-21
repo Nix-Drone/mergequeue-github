@@ -3055,7 +3055,6 @@ fiats
 fiaunt
 fib
 fencibles
-fibbery
 fibbers
 fibbing
 fiber
@@ -5183,6 +5182,7 @@ flaunters
 flappier
 flaunty
 flatlet
+fibbery
 flauntier
 fatting
 flauntily
