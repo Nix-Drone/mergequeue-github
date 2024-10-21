@@ -3324,7 +3324,6 @@ fidepromissor
 faery
 froglet
 fidge
-fidged
 fidges
 frameable
 fidget
@@ -6688,6 +6687,7 @@ foehn
 foehnlike
 foeish
 foeless
+fidged
 forenotice
 foemanship
 foemen
