@@ -5239,7 +5239,6 @@ endophasia
 exode
 endophyllous
 endophyllum
-endophytal
 endophyte
 entocuneiform
 epitoke
@@ -8615,6 +8614,7 @@ equiaxe
 elaborately
 equiaxed
 equiaxial
+endophytal
 exedrae
 essoiner
 equibalance
