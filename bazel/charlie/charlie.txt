@@ -9920,6 +9920,7 @@ chemoresistance
 chemosensitive
 chemosensitivities
 chemoserotherapy
+cyclotrimethylenetrinitramine
 chemoses
 chemosynthesis
 chemosynthetic
@@ -13451,7 +13452,6 @@ cyclotomic
 cyclotomies
 cyclotosaurus
 choloidic
-cyclotrimethylenetrinitramine
 cyclotron
 cyclotrons
 cyclus
