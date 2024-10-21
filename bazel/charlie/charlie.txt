@@ -24149,6 +24149,7 @@ convexness
 convexoconcave
 conviciate
 convicinity
+chattering
 convict
 congelifract
 convictable
@@ -30477,7 +30478,6 @@ cubes
 cubhood
 cubi
 cubic
-chattering
 chayotes
 cubical
 cubically
