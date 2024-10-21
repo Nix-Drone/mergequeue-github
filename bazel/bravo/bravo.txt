@@ -12454,7 +12454,6 @@ bonesetter
 barnyard
 bonesetting
 brushite
-boneshaker
 backbeat
 boneshaw
 bonetail
@@ -16071,6 +16070,7 @@ bronzite
 bronzitite
 broo
 brooch
+boneshaker
 brooching
 brood
 brooded
