@@ -297,7 +297,6 @@ eagerer
 eatability
 eatable
 eatables
-electrolyzability
 eatberry
 eaten
 emetophobia
@@ -6497,6 +6496,7 @@ eumerogenesis
 ensteel
 ensteep
 enstool
+electrolyzability
 enstore
 enstranged
 enstrengthen
