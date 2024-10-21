@@ -17422,7 +17422,6 @@ dropshot
 dropsical
 dropsicalness
 dropsied
-direction
 decream
 dropsies
 disconcord
@@ -17600,6 +17599,7 @@ drumlin
 drumline
 drumlinoid
 drumlins
+direction
 drumloidal
 duffing
 drummed
