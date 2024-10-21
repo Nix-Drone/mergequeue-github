@@ -3987,7 +3987,6 @@ adjudger
 adjudges
 adjudging
 adjudicata
-appestat
 adjudicate
 adjudicated
 adjudication
@@ -9616,6 +9615,7 @@ alunogen
 alupag
 alur
 anoil
+appestat
 alure
 alurgite
 assaulters
