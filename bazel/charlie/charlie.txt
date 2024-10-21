@@ -21528,7 +21528,6 @@ concupiscibleness
 concur
 concurred
 concurrences
-concurrency
 concurrencies
 cedent
 concurrently
@@ -29852,6 +29851,7 @@ crossest
 cacophonical
 crossette
 crossfall
+concurrency
 crossfertilizable
 crossfired
 cooption
