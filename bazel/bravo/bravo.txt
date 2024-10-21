@@ -4931,6 +4931,7 @@ basso
 beefaloes
 botanizer
 bogyisms
+bordered
 beefalos
 brig
 beefburgers
@@ -12947,7 +12948,6 @@ backpacker
 border
 bordereau
 bowstaff
-bordered
 borderer
 borderers
 bordering
