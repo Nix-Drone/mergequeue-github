@@ -533,6 +533,7 @@ butomaceous
 backstring
 backstroke
 backstromite
+battened
 backswept
 backswimmer
 backsword
@@ -3763,7 +3764,6 @@ battels
 battement
 basisolute
 battements
-battened
 battener
 beknown
 batteners
