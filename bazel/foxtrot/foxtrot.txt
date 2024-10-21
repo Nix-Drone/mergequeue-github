@@ -1705,7 +1705,6 @@ forksmith
 feaberry
 frugivora
 feak
-federate
 fleying
 flocks
 footcandles
@@ -8086,6 +8085,7 @@ flecnode
 forests
 forestside
 forestudy
+federate
 focalizing
 flue
 flowerets
