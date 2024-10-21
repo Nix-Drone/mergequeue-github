@@ -2529,6 +2529,7 @@ epimerised
 electromotor
 escadrilles
 electromuscular
+exporters
 electronarcosis
 eleutherarch
 ectethmoid
@@ -13277,7 +13278,6 @@ exported
 enlength
 encyclopediac
 exporter
-exporters
 entireties
 epigenesis
 exporting
