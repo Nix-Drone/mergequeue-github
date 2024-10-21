@@ -4583,7 +4583,6 @@ encephalomeningocele
 encephalometric
 encephalomyelitic
 encephalomyelitis
-erucin
 encephalomyelopathy
 encephalomyocarditis
 encephalopathy
@@ -5830,6 +5829,7 @@ emphasising
 engrieve
 engross
 engrossed
+erucin
 engrossedly
 engrosser
 engrossers
