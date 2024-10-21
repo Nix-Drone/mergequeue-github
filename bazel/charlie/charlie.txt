@@ -3375,7 +3375,6 @@ capstans
 capstone
 capsula
 coached
-consignificate
 capsular
 capsulated
 capsulation
@@ -11547,6 +11546,7 @@ cholanthrene
 cholate
 cholates
 contestation
+consignificate
 chold
 choleate
 cholecyanine
