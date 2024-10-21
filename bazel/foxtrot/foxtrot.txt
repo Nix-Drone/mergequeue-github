@@ -4820,7 +4820,6 @@ fairishness
 fitchy
 flagstick
 falconers
-flagworm
 flay
 feridji
 flayed
@@ -7317,6 +7316,7 @@ foragement
 forager
 foraging
 foray
+flagworm
 formable
 forayed
 fodientia
