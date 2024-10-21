@@ -7161,7 +7161,6 @@ envelopment
 ety
 envelopments
 entailing
-envelops
 envenom
 envenomed
 envenoming
@@ -13508,6 +13507,7 @@ embroiders
 extance
 extancy
 extbook
+envelops
 extemporal
 extemporally
 extemporalness
