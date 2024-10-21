@@ -9921,7 +9921,6 @@ chemosensitive
 chemosensitivities
 chemoserotherapy
 chemoses
-chemosynthesis
 chemosynthetic
 chemosis
 chemosmoic
@@ -21565,6 +21564,7 @@ condemnatory
 condemned
 crustiness
 condemner
+chemosynthesis
 condemners
 curtaxe
 condemning
