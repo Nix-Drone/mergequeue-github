@@ -4321,7 +4321,6 @@ emulsions
 emulsoid
 emulsoidal
 emulsoids
-emunct
 enteropathogenic
 emunctory
 electroencephalographic
@@ -5838,6 +5837,7 @@ eduction
 engrossingness
 engs
 ensynopticity
+emunct
 endocarditic
 engulf
 engulfed
