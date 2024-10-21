@@ -6652,7 +6652,6 @@ celature
 cele
 celeb
 celebes
-celebesian
 celebrant
 celebrants
 celebrate
@@ -30440,6 +30439,7 @@ cuba
 cubages
 cubicovariant
 cuban
+celebesian
 cubane
 clypeaster
 chertier
