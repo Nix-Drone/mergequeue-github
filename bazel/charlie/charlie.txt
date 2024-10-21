@@ -11647,6 +11647,7 @@ cholesterinemia
 chappow
 cholesterinic
 cholesterinuria
+clanging
 cholesterol
 cholesterolemia
 cholesteroluria
@@ -15392,7 +15393,6 @@ clanfellow
 clang
 clanged
 clangful
-clanging
 clangingly
 clangor
 clangored
