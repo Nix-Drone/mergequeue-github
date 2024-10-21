@@ -4922,6 +4922,7 @@ endable
 endamage
 endamageable
 endamagement
+equicontinuous
 endamages
 endamaging
 endameba
@@ -8623,7 +8624,6 @@ equibiradiate
 equicaloric
 equicohesive
 equidurable
-equicontinuous
 encompassing
 equicostate
 egrets
