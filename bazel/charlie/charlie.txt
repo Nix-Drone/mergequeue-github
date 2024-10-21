@@ -11971,7 +11971,6 @@ choriocarcinomas
 choriocarcinomata
 choriocele
 chorioepithelioma
-chorioepitheliomas
 covens
 chorioepitheliomata
 chiefdom
@@ -21082,6 +21081,7 @@ concatenated
 concatenates
 concatenating
 coequating
+chorioepitheliomas
 concatenation
 concatenations
 concatenator
