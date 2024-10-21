@@ -3388,7 +3388,6 @@ capsuled
 capsuler
 capsules
 capsuliferous
-capsuliform
 capsuligerous
 capsuling
 capsulitis
@@ -22030,6 +22029,7 @@ conflagrator
 conflagratory
 conflate
 colauxe
+capsuliform
 conflating
 conflation
 canellaceae
