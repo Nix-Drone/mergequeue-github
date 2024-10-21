@@ -3309,7 +3309,6 @@ caprifigs
 caprifoil
 caprifole
 caprifoliaceae
-caprifoliaceous
 caprifolium
 capriform
 caprigenous
@@ -27527,6 +27526,7 @@ cradletime
 cowardish
 cowardly
 cowardliness
+caprifoliaceous
 counterinterpretation
 cowardness
 cowbane
