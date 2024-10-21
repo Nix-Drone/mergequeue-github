@@ -2130,7 +2130,6 @@ disinvestment
 decarburation
 decarburisation
 decarburise
-decarburised
 decarburising
 decarburize
 decarburized
@@ -4704,6 +4703,7 @@ demirilievo
 demirobe
 demonastery
 dol
+decarburised
 demisability
 demisang
 demisangue
