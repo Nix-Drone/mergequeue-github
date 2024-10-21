@@ -4885,7 +4885,6 @@ cartmaking
 cartobibliography
 cartogram
 chloridizing
-cartographer
 cartographers
 cartography
 cartographic
@@ -19790,6 +19789,7 @@ comestion
 comet
 cometary
 cometaria
+cartographer
 cometarium
 cometh
 cavum
