@@ -4972,7 +4972,6 @@ falconries
 fringilliform
 fireshaft
 flanking
-flanks
 faineantise
 flankwise
 flatbeds
@@ -10855,6 +10854,7 @@ fudging
 fulah
 fulani
 fixatives
+flanks
 fulciment
 fulcra
 firecrest
