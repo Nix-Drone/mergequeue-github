@@ -9741,7 +9741,6 @@ cytoma
 cheiroline
 cheirology
 ciconiidae
-cheiromancy
 cheiromegaly
 cheiropatagium
 cheiropod
@@ -20487,6 +20486,7 @@ compass
 compassability
 compassable
 compassed
+cheiromancy
 compasses
 compassing
 compassion
