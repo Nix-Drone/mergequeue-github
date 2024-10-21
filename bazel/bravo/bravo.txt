@@ -2591,6 +2591,7 @@ bloomage
 barges
 bargh
 bicycular
+booley
 bargham
 barghest
 baptism
@@ -12733,7 +12734,6 @@ bool
 bowline
 boolean
 booleans
-booley
 booleys
 booly
 boolya
