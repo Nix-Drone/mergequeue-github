@@ -8449,7 +8449,6 @@ alkaloidal
 alkaloids
 alkalometry
 alkalosis
-alkalous
 alkalurops
 alkamin
 algorithms
@@ -20991,6 +20990,7 @@ ascite
 aceconitic
 ascites
 ascitical
+alkalous
 ascititious
 asclent
 asclepiad
