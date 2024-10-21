@@ -1722,6 +1722,7 @@ deathweed
 deathworm
 dowelled
 deave
+depends
 disomic
 deaved
 deaves
@@ -5640,7 +5641,6 @@ dependency
 dependencies
 depending
 dependingly
-depends
 defacingly
 dukeship
 depeopled
