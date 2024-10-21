@@ -10050,7 +10050,6 @@ braziers
 bott
 blachong
 blackamoors
-blackarm
 blackback
 blackball
 blackballed
@@ -12908,6 +12907,7 @@ boracium
 boracous
 borage
 boraginaceous
+blackarm
 borago
 bedamn
 boral
