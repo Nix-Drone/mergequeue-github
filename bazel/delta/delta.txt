@@ -5920,7 +5920,6 @@ dianoialogy
 depreciate
 depreciated
 depreciatingly
-depreciation
 depreciative
 depreciatively
 depreciator
@@ -7317,6 +7316,7 @@ deprives
 detonations
 detonative
 detonator
+depreciation
 detonize
 detour
 detoured
