@@ -1532,6 +1532,7 @@ deadnesses
 dustproof
 dolorimetry
 deservingly
+debugger
 deadpay
 deadpan
 deadpanned
@@ -1899,7 +1900,6 @@ debtful
 debtless
 debtor
 debtors
-debugger
 debuggers
 desilverized
 debugs
