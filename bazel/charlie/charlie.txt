@@ -16896,6 +16896,7 @@ clumplike
 clumproot
 clumps
 clumpst
+crystallology
 clumse
 clumsy
 clifflet
@@ -29475,7 +29476,6 @@ crystallography
 crystallographic
 crystalloid
 crystalloidal
-crystallology
 crystalloluminescence
 crystallomagnetic
 crystallomancy
