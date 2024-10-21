@@ -1913,7 +1913,6 @@ eikons
 epicoracoidal
 eyl
 eila
-eild
 eileen
 eyliad
 eimak
@@ -4851,6 +4850,7 @@ encountered
 encounterer
 entitlement
 encountering
+eild
 encourage
 encouraged
 encouragement
