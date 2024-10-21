@@ -16722,7 +16722,6 @@ cloths
 clothworker
 clots
 clottage
-clotted
 clottedness
 clotter
 clotty
@@ -27431,6 +27430,7 @@ covariation
 covassal
 cove
 coved
+clotted
 covey
 coveys
 covelline
