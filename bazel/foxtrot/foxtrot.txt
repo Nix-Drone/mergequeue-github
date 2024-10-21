@@ -5776,7 +5776,6 @@ flittermouse
 farmlands
 flitters
 flitty
-flitting
 flivver
 fumariaceous
 flyway
@@ -9670,6 +9669,7 @@ freeboard
 freeboot
 frescos
 freebooted
+flitting
 freebooter
 freebooters
 freebooty
