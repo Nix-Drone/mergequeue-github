@@ -7257,7 +7257,6 @@ flockman
 footslogged
 footslogger
 forgift
-footsoldiers
 finnmarks
 footsore
 footsores
@@ -10660,6 +10659,7 @@ fructuousness
 flavaniline
 familiarities
 fructus
+footsoldiers
 frug
 fibrocrystalline
 forwaste
