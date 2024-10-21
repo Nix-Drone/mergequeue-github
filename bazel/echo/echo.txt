@@ -2602,7 +2602,6 @@ electropsychrometer
 egotisticalness
 electropult
 electropuncturation
-electropuncture
 electroreceptive
 electroreduction
 electrorefine
@@ -7532,6 +7531,7 @@ ephydra
 enchytraeidae
 ephydridae
 eddy
+electropuncture
 ephidrosis
 eluviums
 ephippia
