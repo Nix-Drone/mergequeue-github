@@ -5292,6 +5292,7 @@ begird
 broadsheet
 begirded
 begirding
+blobs
 begirdled
 begirdles
 begirdling
@@ -10975,7 +10976,6 @@ bricklay
 blobbiness
 beaued
 backed
-blobs
 bloc
 blocage
 block
