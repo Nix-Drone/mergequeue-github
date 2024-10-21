@@ -7075,6 +7075,7 @@ foods
 foodstuff
 foodstuffs
 flacked
+fosterers
 fooyoung
 fooyung
 fraternization
@@ -8907,7 +8908,6 @@ fosterage
 fostered
 fosterer
 footstone
-fosterers
 forblow
 fosterhood
 fostering
