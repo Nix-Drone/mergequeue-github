@@ -3904,7 +3904,6 @@ emigates
 ethid
 emigr
 emigrant
-eavesdrip
 emigrants
 emigrates
 emigrating
@@ -12674,6 +12673,7 @@ exoenzyme
 expulsory
 exogamic
 exogamous
+eavesdrip
 exogastrically
 exogastritis
 exogen
