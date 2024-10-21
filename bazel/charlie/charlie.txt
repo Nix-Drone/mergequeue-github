@@ -9880,7 +9880,6 @@ crooking
 chemistries
 chemists
 chemitype
-chemitypy
 chemitypies
 chemizo
 chemmy
@@ -16388,6 +16387,7 @@ clitellus
 compile
 crappin
 clites
+chemitypy
 clithe
 clithral
 clitia
