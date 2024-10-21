@@ -11826,7 +11826,6 @@ bromic
 bodrage
 battalions
 benedick
-bodstick
 baalite
 bodword
 boe
@@ -13819,6 +13818,7 @@ bowpot
 bowpots
 blitheful
 bows
+bodstick
 bowsaw
 bowsed
 bowser
