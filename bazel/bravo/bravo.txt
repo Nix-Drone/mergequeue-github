@@ -8268,7 +8268,6 @@ byeworker
 byeworkman
 bluejoint
 bifaces
-bifacial
 bifara
 bedress
 bifarious
@@ -9187,6 +9186,7 @@ biosociological
 bloodguilty
 biosome
 byon
+bifacial
 biospeleology
 biosphere
 biospheres
