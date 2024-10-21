@@ -3915,6 +3915,7 @@ giblet
 giblets
 giboia
 goyle
+gaslight
 glave
 gibsons
 gibstaff
@@ -9799,7 +9800,6 @@ guaiacum
 groping
 guaiacums
 guayaqui
-gaslight
 geometrine
 guaiasanol
 guaymie
