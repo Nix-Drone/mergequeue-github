@@ -11720,7 +11720,6 @@ analgic
 analgize
 analysability
 analysable
-analysand
 analysation
 analyser
 analysers
@@ -18515,6 +18514,7 @@ araroba
 ararobas
 arase
 aragonite
+analysand
 arati
 austringer
 aratinga
