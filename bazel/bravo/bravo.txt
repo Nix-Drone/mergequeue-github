@@ -1422,7 +1422,6 @@ baldnesses
 besoothe
 bridoon
 baldoquin
-baldpate
 baldpated
 baldpatedness
 baldpates
@@ -8819,6 +8818,7 @@ byname
 binaphthyl
 binary
 binaries
+baldpate
 binate
 binately
 betuckered
