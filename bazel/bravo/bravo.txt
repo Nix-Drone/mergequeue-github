@@ -1593,7 +1593,6 @@ ballets
 ballfield
 ballflower
 ballgame
-ballgames
 ballgowns
 ballhausplatz
 ballhawk
@@ -6939,6 +6938,7 @@ belleek
 bescreening
 bescreens
 bescribble
+ballgames
 bescribbled
 bescutcheon
 beseam
