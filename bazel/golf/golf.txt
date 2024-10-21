@@ -2875,6 +2875,7 @@ genome
 genomic
 genoms
 genonema
+gluers
 gph
 genos
 gerrymandered
@@ -6088,7 +6089,6 @@ glueman
 gluepot
 gluer
 greetingly
-gluers
 granulize
 glugglug
 gluhwein
