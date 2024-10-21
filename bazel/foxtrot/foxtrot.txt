@@ -4827,7 +4827,6 @@ flayed
 fault
 front
 flayer
-flaying
 flailed
 fluidify
 flailing
@@ -7358,6 +7357,7 @@ forbad
 fie
 forbade
 forbare
+flaying
 forbathe
 forbborne
 fimicolous
