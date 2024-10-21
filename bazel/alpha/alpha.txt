@@ -751,7 +751,6 @@ abounded
 abounder
 abounding
 aboundingly
-abounds
 about
 abouts
 antefuture
@@ -18541,6 +18540,7 @@ arbalest
 arbalestre
 arbalestrier
 arbalests
+abounds
 arbalist
 arbalister
 arbalists
