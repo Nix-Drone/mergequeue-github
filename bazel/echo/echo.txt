@@ -2387,6 +2387,7 @@ ergatomorph
 electrodentistry
 electrodepositable
 extemporaneousness
+electrostatics
 electrification
 electrodeposition
 electrodepositor
@@ -8309,7 +8310,6 @@ epitactic
 epitaph
 epitapher
 epitaphian
-electrostatics
 epitaphist
 epitaphize
 epicotyleal
