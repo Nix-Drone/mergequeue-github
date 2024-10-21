@@ -3746,7 +3746,6 @@ batta
 battable
 battailant
 browntop
-battailous
 battak
 bally
 battalias
@@ -7451,6 +7450,7 @@ betitle
 betocsin
 byproduct
 betoya
+battailous
 betoyan
 betoken
 bagworm
