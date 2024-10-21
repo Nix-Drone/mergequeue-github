@@ -3240,7 +3240,6 @@ grondwet
 gnawable
 geoscopic
 geoselenic
-geosid
 geosynclinal
 geosphere
 geostationary
@@ -5952,6 +5951,7 @@ glazings
 glottiscope
 glottitis
 garrulously
+geosid
 goony
 griped
 gymnemic
