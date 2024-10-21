@@ -1226,7 +1226,6 @@ bakeress
 bakery
 bakeries
 bakerite
-bakerless
 bakerly
 bakerlike
 bakers
@@ -10276,6 +10275,7 @@ bittersweetness
 bromocyanid
 blamefully
 blamefulness
+bakerless
 battlefield
 blameless
 beignets
