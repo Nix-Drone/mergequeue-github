@@ -3191,7 +3191,6 @@ exchangeably
 elucidate
 elucidates
 elucidations
-exculpate
 elucidator
 elucidatory
 electroplate
@@ -6719,6 +6718,7 @@ enterotomy
 enterotoxemia
 enterotoxication
 essence
+exculpate
 enterotoxin
 enteroviral
 enterozoon
