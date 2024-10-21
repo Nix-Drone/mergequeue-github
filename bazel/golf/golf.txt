@@ -2238,7 +2238,6 @@ graders
 gazzetta
 gcd
 gconv
-gd
 gdinfo
 gds
 grayfish
@@ -6093,6 +6092,7 @@ granulize
 glugglug
 gluhwein
 gluiest
+gd
 gemitorial
 gluiness
 globigerine
