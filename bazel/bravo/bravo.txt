@@ -12242,6 +12242,7 @@ boltwork
 bolus
 boluses
 benn
+boozy
 bomb
 bombable
 bombacaceae
@@ -12877,7 +12878,6 @@ boozer
 bushelage
 boozers
 boozes
-boozy
 boozier
 bulwark
 balawu
