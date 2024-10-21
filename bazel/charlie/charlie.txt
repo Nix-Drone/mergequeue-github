@@ -11772,7 +11772,6 @@ chondromas
 chondromata
 chondromatous
 chondromyces
-chondromyxoma
 chondromyxosarcoma
 chondromucoid
 chondropharyngeal
@@ -27177,6 +27176,7 @@ counterwave
 counterweigh
 counterweight
 counterweighted
+chondromyxoma
 chelonin
 carcinolytic
 counterweights
