@@ -10533,7 +10533,6 @@ amyloleucite
 amylolysis
 amylolytic
 amylom
-amylometer
 amylopectin
 amylophagia
 amylophosphate
@@ -12771,6 +12770,7 @@ angiology
 angioma
 angiomalacia
 angiomas
+amylometer
 angiomata
 angiomatosis
 angiomyocardiac
