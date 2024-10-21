@@ -1190,7 +1190,6 @@ abvolt
 abvolts
 abwab
 abwatt
-abwatts
 ac
 acacatechin
 ajourise
@@ -12589,6 +12588,7 @@ anethol
 albites
 anethole
 anetholes
+abwatts
 anethols
 anethum
 anetic
