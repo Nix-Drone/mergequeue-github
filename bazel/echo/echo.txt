@@ -1812,7 +1812,6 @@ eyemark
 eyen
 electric
 eyeopener
-eyepiece
 eyepit
 eyepoint
 eyereach
@@ -2178,6 +2177,7 @@ elatine
 elation
 elations
 escobita
+eyepiece
 elative
 elatives
 elator
