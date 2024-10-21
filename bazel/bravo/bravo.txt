@@ -4537,6 +4537,7 @@ builders
 bestuur
 become
 becomed
+boerhavia
 becomes
 becometh
 becoming
@@ -11844,7 +11845,6 @@ burion
 boeotian
 boeotic
 boerdom
-boerhavia
 boethian
 boethusian
 boettner
