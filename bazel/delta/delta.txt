@@ -6255,7 +6255,6 @@ desexes
 dermatologies
 dermatologists
 dermatoma
-dermatome
 daubing
 dermatomere
 desugar
@@ -13939,6 +13938,7 @@ distraining
 distrainment
 distrainor
 distrains
+dermatome
 distrait
 daikered
 distraite
