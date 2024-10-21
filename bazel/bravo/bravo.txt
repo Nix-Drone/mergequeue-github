@@ -1901,7 +1901,6 @@ bandboxical
 bandcase
 bandcutter
 bande
-bandeau
 bandeaux
 betula
 banded
@@ -11874,6 +11873,7 @@ bogeyman
 bogeymen
 bogeys
 boisterousness
+bandeau
 bidar
 beefs
 boget
