@@ -1449,6 +1449,7 @@ gasproof
 gervao
 gibier
 garlicwort
+goatskins
 garlion
 garlopa
 garment
@@ -6407,7 +6408,6 @@ goatsbane
 goatsbeard
 genuclast
 goatskin
-goatskins
 goatstone
 goatsucker
 galleylike
