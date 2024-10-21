@@ -2542,7 +2542,6 @@ canker
 cankerberry
 cankerbird
 crafting
-cankereat
 cankered
 cankeredly
 cubitopalmar
@@ -30632,6 +30631,7 @@ circularize
 cuddled
 cuddles
 cuddlesome
+cankereat
 cuddlier
 cuddliest
 cuddling
