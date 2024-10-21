@@ -11746,7 +11746,6 @@ analyze
 analyzed
 analyzers
 analyzes
-analyzing
 analkalinity
 anallagmatic
 anallagmatis
@@ -21500,6 +21499,7 @@ aspiratae
 aspirate
 aspirating
 aspiration
+analyzing
 antihuff
 aspirations
 aspiratory
