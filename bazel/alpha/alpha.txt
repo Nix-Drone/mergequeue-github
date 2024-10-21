@@ -20973,7 +20973,6 @@ ascidiate
 ascidicolous
 ascidiferous
 ascidiform
-ascidioid
 ascidioida
 ascidioidea
 ascidiozoa
@@ -23802,6 +23801,7 @@ authenticly
 authenticness
 authigene
 authigenetic
+ascidioid
 authigenous
 aurite
 authored
