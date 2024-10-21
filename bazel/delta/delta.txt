@@ -2463,7 +2463,6 @@ deck
 dateline
 decke
 deckedout
-deckel
 deckels
 decken
 decker
@@ -6121,6 +6120,7 @@ duperies
 drent
 deratize
 deblocking
+deckel
 deratized
 derats
 damozels
