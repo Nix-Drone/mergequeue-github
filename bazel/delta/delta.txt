@@ -10585,7 +10585,6 @@ diplomate
 diplomates
 diplomatically
 diplomatique
-diplomatism
 diplomatist
 diplomatists
 diplomatology
@@ -17949,6 +17948,7 @@ durras
 dugento
 dugong
 dugongidae
+diplomatism
 deliriously
 dugongs
 demandable
