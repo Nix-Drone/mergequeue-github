@@ -1088,7 +1088,6 @@ executing
 edgeling
 edgeman
 edger
-edgers
 edges
 edgeshot
 evaluate
@@ -2178,6 +2177,7 @@ elatine
 elation
 elations
 escobita
+edgers
 elative
 elatives
 elator
