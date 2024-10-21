@@ -3568,7 +3568,6 @@ filaments
 filamentule
 filander
 filao
-forsterite
 filaree
 fishboats
 filarees
@@ -6270,6 +6269,7 @@ flugel
 focalized
 fluible
 fabliau
+forsterite
 foreseat
 ferocactus
 folkloristic
