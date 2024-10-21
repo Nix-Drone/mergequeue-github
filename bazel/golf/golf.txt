@@ -6607,7 +6607,6 @@ goldbricks
 guineapig
 glt
 goldbug
-goldbugs
 goldcrest
 grewsome
 gabbles
@@ -6768,6 +6767,7 @@ gateward
 grotesquely
 gonadotrophic
 gonadotrophin
+goldbugs
 gonadotropin
 granivorous
 gonaduct
