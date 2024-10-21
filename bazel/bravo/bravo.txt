@@ -2594,7 +2594,6 @@ bicycular
 bargham
 barghest
 baptism
-barghests
 beslash
 barging
 beerage
@@ -12076,6 +12075,7 @@ bolden
 bolder
 boldest
 boldface
+barghests
 bostrychoid
 boldfaced
 boldfacedly
