@@ -3452,7 +3452,6 @@ basswoods
 begalling
 basta
 bastaard
-bastant
 bastard
 bastarda
 bastardy
@@ -18326,6 +18325,7 @@ buttonhook
 buttony
 buttoning
 bosks
+bastant
 buttonlike
 buttonmold
 bestiarianism
