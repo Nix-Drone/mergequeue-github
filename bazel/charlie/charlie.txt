@@ -11161,7 +11161,6 @@ chlamydes
 cliftonia
 chlamydobacteriaceae
 chlamydobacteriaceous
-chlamydobacteriales
 chlamydomonadaceae
 chlamydomonadidae
 chlamydophore
@@ -13370,6 +13369,7 @@ chrysophyll
 cycloolefine
 cycloolefinic
 cyclop
+chlamydobacteriales
 cyclopaedia
 civetlike
 cyclopaedic
