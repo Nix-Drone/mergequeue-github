@@ -2873,6 +2873,7 @@ genoese
 genoise
 genome
 genomic
+gonochoristic
 genoms
 genonema
 gph
@@ -8448,7 +8449,6 @@ gravestead
 gan
 grallatory
 graveolence
-gonochoristic
 gravette
 graveward
 gravewards
