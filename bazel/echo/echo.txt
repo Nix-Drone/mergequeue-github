@@ -4195,6 +4195,7 @@ ensured
 energetics
 epopt
 emplore
+exition
 ereptase
 emplume
 eniac
@@ -12592,7 +12593,6 @@ exited
 exitial
 expulser
 exiting
-exition
 exitious
 exits
 exiture
