@@ -4071,7 +4071,6 @@ freshman
 finless
 finlet
 finlike
-finmark
 finmarks
 finnac
 finnan
@@ -4654,6 +4653,7 @@ fulgurantly
 fizzers
 fjord
 fizzy
+finmark
 fizziest
 fip
 fizzle
