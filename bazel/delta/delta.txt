@@ -706,7 +706,6 @@ dampness
 dampproof
 dampproofer
 dampproofing
-dams
 damselfish
 damselfishes
 damselfly
@@ -5217,6 +5216,7 @@ denitrificant
 denitrification
 denitrificator
 denitrifier
+dams
 denitrifying
 denitrize
 denization
