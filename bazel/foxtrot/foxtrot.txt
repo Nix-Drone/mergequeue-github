@@ -102,7 +102,6 @@ fantoms
 faciation
 forequoted
 facie
-freeport
 fibroelastic
 faciend
 faciends
@@ -11486,6 +11485,7 @@ fatiguable
 furred
 furry
 furriery
+freeport
 furrieries
 furriers
 flaunching
