@@ -5251,7 +5251,6 @@ eupneic
 endoplastron
 endoplastular
 endopleural
-east
 endopleurite
 electrometry
 endopodite
@@ -7668,6 +7667,7 @@ epiclike
 epiclinal
 epicnemial
 epicoele
+east
 epicoelia
 epicoeliac
 epicoelian
