@@ -7409,7 +7409,6 @@ cepheids
 cephen
 cepheus
 cephid
-cephidae
 cephus
 cepolidae
 ceps
@@ -29051,6 +29050,7 @@ cringeling
 cringer
 cringers
 cringes
+cephidae
 cringing
 cringingly
 cringingness
