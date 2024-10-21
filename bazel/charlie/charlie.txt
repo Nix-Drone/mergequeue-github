@@ -3108,7 +3108,6 @@ capistrate
 capita
 catenated
 capital
-capitaldom
 capitaled
 capitaling
 capitalisable
@@ -23380,6 +23379,7 @@ contek
 conteke
 contemn
 contemned
+capitaldom
 contemner
 camletting
 contemnible
