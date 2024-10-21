@@ -11559,7 +11559,6 @@ cholecystenterostomy
 cholecystgastrostomy
 cholecystic
 cholecystis
-cholecystitis
 cozies
 cholecystnephrostomy
 cupellation
@@ -17199,6 +17198,7 @@ coals
 coalsack
 coalsacks
 coalshed
+cholecystitis
 coalsheds
 cantil
 coalternate
