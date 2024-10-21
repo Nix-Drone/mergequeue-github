@@ -4447,6 +4447,7 @@ fissility
 formatter
 fission
 fissionable
+freelage
 fissioned
 frays
 fissions
@@ -9716,7 +9717,6 @@ freeholds
 freeing
 freeings
 fluviograph
-freelage
 flunkers
 freelance
 freelanced
