@@ -5351,7 +5351,6 @@ begowned
 buyable
 benchboard
 begray
-begrain
 begrave
 birne
 begrett
@@ -6767,6 +6766,7 @@ brooking
 berkeleian
 bowermaiden
 berkeleianism
+begrain
 burlap
 berkeleyite
 berkelium
