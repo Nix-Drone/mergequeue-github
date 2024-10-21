@@ -5639,7 +5639,6 @@ enfranchisements
 extinct
 enfranchiser
 enallage
-enfranchises
 enhydros
 endued
 extremity
@@ -9572,6 +9571,7 @@ eschewer
 eam
 eschewers
 eschewing
+enfranchises
 everwho
 eschews
 erythron
