@@ -8995,7 +8995,6 @@ chargehouse
 chargeless
 chargeman
 charger
-charges
 chargeship
 chargfaires
 charybdian
@@ -23738,6 +23737,7 @@ contraplex
 contrapone
 contraponend
 cloaks
+charges
 contraposaune
 contrapose
 contraposed
