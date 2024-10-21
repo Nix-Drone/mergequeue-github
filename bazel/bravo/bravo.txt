@@ -7261,7 +7261,6 @@ bloodroots
 bestock
 bessemerize
 broadhead
-billy
 bestore
 bestorm
 bestow
@@ -9375,6 +9374,7 @@ birdbanding
 birdbath
 birdbaths
 birdbrained
+billy
 birdbrains
 besogne
 birdcage
