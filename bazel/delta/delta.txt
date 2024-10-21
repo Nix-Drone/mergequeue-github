@@ -2659,7 +2659,6 @@ decomponent
 decomponible
 decurved
 decomposability
-decomposable
 decompose
 decomposed
 delphin
@@ -13239,6 +13238,7 @@ disproportionableness
 disproportional
 debosh
 disproportionality
+decomposable
 distinctest
 draco
 disproportionalness
