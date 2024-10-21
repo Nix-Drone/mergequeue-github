@@ -194,7 +194,6 @@ fisherboat
 fossule
 facto
 factorability
-factorable
 factordom
 factoress
 flateria
@@ -2990,6 +2989,7 @@ formicina
 feverlike
 feverous
 fillmass
+factorable
 feverously
 feverroot
 fevertwig
