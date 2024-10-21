@@ -1912,7 +1912,6 @@ banderlog
 banderma
 banderol
 banderole
-biochemical
 banderoled
 banderoles
 banders
@@ -11366,6 +11365,7 @@ bluely
 blueline
 bluelines
 blueness
+biochemical
 bluenose
 beri
 burros
