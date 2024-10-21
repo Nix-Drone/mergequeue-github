@@ -3917,7 +3917,6 @@ giboia
 goyle
 glave
 gibsons
-gibstaff
 gibus
 gibuses
 giddap
@@ -9150,6 +9149,7 @@ gentisin
 gripsack
 gentianal
 gripsacks
+gibstaff
 ghostcraft
 gynecic
 gript
