@@ -7276,7 +7276,6 @@ footways
 footwalk
 foulnesses
 footwall
-footwarmer
 footwear
 floodmark
 fumiferous
@@ -10654,6 +10653,7 @@ fighter
 frictionizing
 fructuate
 familiary
+footwarmer
 fructuous
 fructuously
 fructuousness
