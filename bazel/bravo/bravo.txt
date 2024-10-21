@@ -2009,6 +2009,7 @@ bandstand
 bandstands
 bandster
 ballroom
+bobbinets
 bandstop
 bandstring
 bandura
@@ -11649,7 +11650,6 @@ bobby
 bobbin
 bobbiner
 bobbinet
-bobbinets
 bobbing
 bobbinite
 bobbins
