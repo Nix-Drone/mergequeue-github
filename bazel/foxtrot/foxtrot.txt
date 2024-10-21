@@ -6100,7 +6100,6 @@ favorability
 foregoes
 flote
 fustin
-fragor
 felspar
 furnisher
 flotsams
@@ -6747,6 +6746,7 @@ fogo
 fogon
 fogou
 fogproof
+fragor
 fogram
 fellowshiping
 fogramity
