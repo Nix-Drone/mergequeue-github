@@ -656,7 +656,6 @@ faltered
 falterer
 faltering
 falteringly
-falters
 falutin
 falx
 fringefoot
@@ -10501,6 +10500,7 @@ flyblew
 forbodes
 frostbit
 flavorful
+falters
 frostbite
 frostbites
 frostbiting
