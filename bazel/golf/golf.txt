@@ -5495,7 +5495,6 @@ glycosyls
 gossipingly
 glycosin
 glycosuria
-glycosuric
 glycuronic
 graph
 glidder
@@ -9185,6 +9184,7 @@ greenlet
 grister
 gristle
 gauge
+glycosuric
 gasbag
 grottoed
 groomish
