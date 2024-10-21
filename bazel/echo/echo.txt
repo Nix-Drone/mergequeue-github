@@ -12564,7 +12564,6 @@ exinite
 exintine
 endsweep
 exist
-existability
 existed
 existence
 existent
@@ -13053,6 +13052,7 @@ experimentalism
 educationally
 equinia
 experimentalist
+existability
 experimentalize
 experimentally
 experimentation
