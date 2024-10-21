@@ -3200,6 +3200,7 @@ crotchety
 caplins
 caplock
 capmaker
+constrain
 capmakers
 cordmaker
 capmaking
@@ -7568,7 +7569,6 @@ cerebellifugal
 cerebellipetal
 cerebellitis
 cerebellocortex
-constrain
 cerebellopontile
 cerebellopontine
 cerebellorubral
