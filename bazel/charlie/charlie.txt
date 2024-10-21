@@ -9966,7 +9966,6 @@ chemotropically
 chemotropism
 chempaduk
 chemurgic
-chemurgical
 chemurgies
 chen
 chena
@@ -29302,6 +29301,7 @@ cryptomonadales
 cryptomonadina
 cryptonema
 cryptonemiales
+chemurgical
 cryptoneurous
 cryptonymic
 cogroad
