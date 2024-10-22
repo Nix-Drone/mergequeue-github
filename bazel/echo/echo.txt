@@ -126,6 +126,7 @@ earstones
 eartab
 enneateric
 eartag
+exteriors
 eartagged
 earth
 earthboard
@@ -11252,7 +11253,6 @@ evulse
 evacuative
 evacuator
 evacuators
-exteriors
 evacue
 evacuees
 evadable
