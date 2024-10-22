@@ -6440,7 +6440,6 @@ dominicker
 desalting
 dobbers
 desamidase
-desamidization
 desaminase
 desanding
 desands
@@ -7223,6 +7222,7 @@ disennoble
 determinably
 determinacy
 distruss
+desamidization
 determinant
 determinantal
 domage
