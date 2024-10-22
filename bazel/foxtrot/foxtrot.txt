@@ -3176,7 +3176,6 @@ fibrositis
 fibrospongiae
 formative
 fibrotuberculosis
-fibrous
 fibrously
 fidded
 fleer
@@ -5377,6 +5376,7 @@ fleech
 fleeched
 fascicles
 fleeching
+fibrous
 fleechment
 forefelt
 fleecier
