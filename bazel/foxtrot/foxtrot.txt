@@ -5847,7 +5847,6 @@ flocculator
 forts
 fencing
 floccule
-flocculence
 furans
 fust
 flocculency
@@ -8231,6 +8230,7 @@ foreturn
 fermental
 forgery
 forgeries
+flocculence
 forges
 fluctigerous
 forget
