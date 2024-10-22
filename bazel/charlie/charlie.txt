@@ -19288,6 +19288,7 @@ colonizations
 colonize
 comminating
 colonized
+coparents
 colonizer
 colonizers
 colonizing
@@ -24474,7 +24475,6 @@ coparcener
 coparceny
 coparenary
 coparent
-coparents
 copart
 coparty
 copartiment
