@@ -6290,7 +6290,6 @@ eli
 enrol
 enfeebled
 enroll
-enrolle
 enrolled
 enrollee
 embryologies
@@ -10050,6 +10049,7 @@ estonian
 estop
 emulsifiability
 englyns
+enrolle
 estoppal
 estopped
 estopping
