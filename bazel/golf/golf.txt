@@ -3232,7 +3232,6 @@ georgics
 gripy
 georgium
 geoscience
-geoscientist
 geoscientists
 geoscopy
 gelasian
@@ -9491,6 +9490,7 @@ galbraithian
 gam
 groupwise
 grouseberry
+geoscientist
 groused
 gonglike
 gem
