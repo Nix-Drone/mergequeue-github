@@ -5162,7 +5162,6 @@ endoergic
 endoesophagitis
 endofaradism
 endogamy
-endogamic
 endogamous
 encipherer
 endogastritis
@@ -10283,6 +10282,7 @@ etherized
 etherizes
 etherizing
 edict
+endogamic
 eudora
 ethernet
 etherolate
