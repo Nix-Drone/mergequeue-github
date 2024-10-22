@@ -22901,7 +22901,6 @@ consignified
 consignifying
 crowncapping
 consigning
-consignment
 consignments
 consignor
 consigns
@@ -23332,6 +23331,7 @@ contagions
 contagiosity
 contagious
 contagiousness
+consignment
 contagium
 contain
 containable
