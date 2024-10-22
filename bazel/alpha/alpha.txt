@@ -20744,7 +20744,6 @@ artillerymen
 artilleryship
 artillerist
 artillerists
-artiness
 artinesses
 artinite
 artiodactyla
@@ -22931,6 +22930,7 @@ attacapan
 attacca
 attacco
 attach
+artiness
 attachableness
 attache
 attached
