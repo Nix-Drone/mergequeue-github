@@ -5112,7 +5112,6 @@ flatlets
 floorwalker
 flavoprotein
 fatigued
-fissionability
 flatly
 flatling
 flatlings
@@ -11393,6 +11392,7 @@ furfurol
 fortalice
 furfurous
 feminism
+fissionability
 furial
 fervorless
 favourite
