@@ -3433,7 +3433,6 @@ deflects
 deflesh
 deflex
 deflexed
-deflexibility
 deflexible
 deflexing
 deflexion
@@ -17403,6 +17402,7 @@ diduced
 dropmeal
 dropout
 dolce
+deflexibility
 dinitrobenzene
 droppage
 dropped
