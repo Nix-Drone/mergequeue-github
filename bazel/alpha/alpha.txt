@@ -5404,7 +5404,6 @@ akaroa
 affords
 afforest
 afforestable
-afforestation
 afforested
 afforesting
 anticogitative
@@ -10113,6 +10112,7 @@ ambulative
 ambulator
 ambulatory
 ambulatoria
+afforestation
 aphanitism
 ambulatorial
 agraphias
