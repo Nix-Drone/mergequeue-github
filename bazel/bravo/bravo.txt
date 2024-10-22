@@ -2447,7 +2447,6 @@ barbuts
 barrooms
 basis
 barbwire
-barbwires
 ballyhooer
 bullpout
 barcarole
@@ -15387,6 +15386,7 @@ bismutoplagionite
 brigue
 brigued
 basifiers
+barbwires
 briguing
 brill
 brillante
