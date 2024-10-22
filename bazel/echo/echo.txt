@@ -6331,7 +6331,6 @@ ectypes
 ensconcing
 enscroll
 endosiphon
-ecotypic
 enscrolling
 envenomation
 enchalice
@@ -12958,6 +12957,7 @@ exactly
 expectorates
 expectoration
 expectorations
+ecotypic
 expectorative
 expectorators
 extill
