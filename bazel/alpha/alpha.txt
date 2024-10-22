@@ -1505,7 +1505,6 @@ accessory
 accessories
 anakinetic
 accessorily
-accessoriness
 accessorius
 accessoriusorii
 accessorize
@@ -10931,6 +10930,7 @@ amortisseur
 amortizable
 amortization
 amortized
+accessoriness
 amortizement
 amortizes
 angiothlipsis
