@@ -7077,7 +7077,6 @@ centiare
 centiares
 centiday
 centifolious
-centigrade
 centigrado
 centigram
 centigramme
@@ -26389,6 +26388,7 @@ cotylosacral
 cotylosaur
 cotylosauria
 cotylosaurian
+centigrade
 cotingid
 cotingidae
 cotingoid
