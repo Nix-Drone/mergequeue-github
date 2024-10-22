@@ -5134,6 +5134,7 @@ glandularly
 glandule
 glandules
 gossipper
+gossipee
 glanduliferous
 giron
 glanduligerous
@@ -7316,7 +7317,6 @@ grills
 gossip
 gossipdom
 gossiped
-gossipee
 gossiper
 gossipers
 gossiphood
