@@ -4338,7 +4338,6 @@ enable
 expertising
 exothermic
 ectorganism
-encoop
 enabling
 enact
 enactable
@@ -4636,6 +4635,7 @@ enchantment
 enchantments
 enchantress
 enchants
+encoop
 euclidean
 encharge
 encharged
