@@ -4525,7 +4525,6 @@ advancement
 advancements
 advancer
 advancers
-advances
 advancing
 advancingly
 advancive
@@ -10514,6 +10513,7 @@ aponogetonaceae
 antiredeposition
 amylocoagulase
 amylodextrin
+advances
 amylodyspepsia
 anthriscus
 amylogen
