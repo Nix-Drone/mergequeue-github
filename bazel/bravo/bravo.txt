@@ -4852,7 +4852,6 @@ bedspreads
 bedspring
 bedsprings
 bolivars
-bedstand
 bedstead
 brazenface
 baikerinite
@@ -11691,6 +11690,7 @@ bobsleded
 bobsleding
 biology
 bobsleds
+bedstand
 bobsleigh
 beringleted
 bobstays
