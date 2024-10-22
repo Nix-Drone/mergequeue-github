@@ -3772,7 +3772,6 @@ battens
 batter
 bread
 batterable
-battercake
 batterdock
 battered
 bootstrap
@@ -15790,6 +15789,7 @@ broiling
 broilingly
 broils
 brokage
+battercake
 brokages
 bridehead
 blighties
