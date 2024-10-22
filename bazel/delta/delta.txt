@@ -5002,6 +5002,7 @@ demotion
 demotions
 demotist
 demotists
+disaggregate
 demount
 demountability
 demounted
@@ -10950,7 +10951,6 @@ disaffirmation
 disaffirmative
 disaffirming
 disafforest
-disaggregate
 disaggregated
 disaggregation
 disaggregative
