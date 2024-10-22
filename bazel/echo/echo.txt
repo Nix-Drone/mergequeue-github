@@ -2438,7 +2438,6 @@ electroform
 electroforming
 electrofusion
 ethanol
-electrogalvanization
 electrogenetic
 epichlorohydrin
 electrogenic
@@ -12960,6 +12959,7 @@ expectoration
 expectorations
 expectorative
 expectorators
+electrogalvanization
 extill
 expeded
 expedience
