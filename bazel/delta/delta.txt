@@ -8200,7 +8200,6 @@ diagnosable
 diagnose
 dipus
 diagnosed
-diagnoses
 diagnosis
 diagnostical
 disjunction
@@ -11552,6 +11551,7 @@ disconnecter
 defections
 debitrix
 disconnecting
+diagnoses
 disconnection
 disconnective
 disconnector
