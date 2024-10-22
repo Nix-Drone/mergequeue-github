@@ -1192,6 +1192,7 @@ datary
 dataries
 dataset
 datasetname
+differenced
 datasets
 datatype
 datatypes
@@ -9303,7 +9304,6 @@ diffeomorphic
 diffeomorphism
 differed
 differen
-differenced
 differences
 differency
 differencing
