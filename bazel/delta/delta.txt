@@ -4408,6 +4408,7 @@ demand
 demandant
 daylit
 demandative
+ddt
 dysacousia
 demanded
 demander
@@ -6877,7 +6878,6 @@ despecification
 despeed
 despend
 desperado
-ddt
 dioptre
 desperadoism
 desperados
