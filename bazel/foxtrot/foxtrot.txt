@@ -4909,7 +4909,6 @@ flameproofer
 flintlocks
 finfishes
 flamer
-flamers
 ferneries
 fallback
 flamethrowers
@@ -5951,6 +5950,7 @@ fawny
 floorshifts
 floorshow
 floorway
+flamers
 fluidrachm
 floorward
 furniment
