@@ -3351,7 +3351,6 @@ caps
 capsaicin
 cotterite
 capsella
-capsheaf
 circumjacent
 capshore
 capsian
@@ -25435,6 +25434,7 @@ cornuto
 cornutos
 cornutus
 cornwall
+capsheaf
 cornwallite
 cutdown
 coroa
