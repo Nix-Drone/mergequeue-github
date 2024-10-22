@@ -765,6 +765,7 @@ abovesaid
 abovestairs
 abow
 abox
+alkamin
 abrachia
 abradable
 abradant
@@ -8451,7 +8452,6 @@ alkalometry
 alkalosis
 alkalous
 alkalurops
-alkamin
 algorithms
 alkamine
 alkanal
