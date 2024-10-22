@@ -5674,7 +5674,6 @@ afterpressure
 afterproof
 afterrake
 afterreckoning
-auxofluor
 afterrider
 afterripening
 afterroll
@@ -16618,6 +16617,7 @@ aoristic
 aoristically
 aorta
 aortae
+auxofluor
 aortal
 aortarctia
 aortas
