@@ -2409,7 +2409,6 @@ decimalist
 decimalization
 dilogarithm
 decimalize
-decimalizes
 decimally
 decimals
 dressages
@@ -15059,6 +15058,7 @@ dogtooth
 diacetate
 dogtrick
 dogtrotting
+decimalizes
 dogwinkle
 deponent
 dogwoods
