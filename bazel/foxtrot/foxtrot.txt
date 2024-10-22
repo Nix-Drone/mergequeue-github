@@ -676,6 +676,7 @@ felicitator
 fameworthy
 forereport
 familial
+forfairn
 familiarisation
 familiarise
 familiarised
@@ -8172,7 +8173,6 @@ foreworld
 flung
 forewritten
 forewrought
-forfairn
 fetiales
 forfalt
 foresing
