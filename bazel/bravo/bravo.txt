@@ -8810,7 +8810,6 @@ bimotors
 bimucronate
 barycentre
 bimuscular
-bin
 broadswords
 binal
 baconic
@@ -15987,6 +15986,7 @@ bronchogenic
 baghouse
 benamed
 bronchography
+bin
 bronchographic
 bronchohemorrhagia
 broncholemmitis
