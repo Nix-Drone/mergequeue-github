@@ -10209,6 +10209,7 @@ chew
 chewable
 chewbark
 capsa
+conglomerator
 chewed
 chewer
 chewers
@@ -22260,7 +22261,6 @@ conglomeration
 circumorbital
 conglomerations
 conglomerative
-conglomerator
 cabrestas
 conglomeritic
 conglutin
