@@ -16897,6 +16897,7 @@ clumproot
 clumps
 clumpst
 clumse
+continuative
 clumsy
 clifflet
 clumsier
@@ -23552,7 +23553,6 @@ continuateness
 copyholder
 continuation
 continuations
-continuative
 continuatively
 continuativeness
 continuator
