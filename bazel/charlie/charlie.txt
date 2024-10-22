@@ -1229,7 +1229,6 @@ calibrates
 calibrating
 calibrations
 calibre
-calibred
 calibres
 chromatophilia
 cyanohydrin
@@ -9582,6 +9581,7 @@ checkups
 checkweigher
 checkweighman
 checkweighmen
+calibred
 checkwork
 checkwriter
 cheddar
