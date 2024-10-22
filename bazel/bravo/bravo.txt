@@ -3100,7 +3100,6 @@ bonitas
 backrests
 barwal
 badminton
-barware
 barwares
 bratticer
 bravoite
@@ -10443,6 +10442,7 @@ blastogranitic
 blastoid
 bodywood
 blastoma
+barware
 blastomas
 blastomata
 blastomere
