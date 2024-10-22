@@ -4829,6 +4829,7 @@ front
 flayer
 flaying
 flailed
+fleeting
 fluidify
 flailing
 fossilologist
@@ -5400,7 +5401,6 @@ figurativeness
 fretsome
 fleeter
 fleetest
-fleeting
 formalistic
 fleetingness
 fathom
