@@ -27076,7 +27076,6 @@ countersign
 countersignature
 countersignatures
 countersigned
-countersigns
 countersympathy
 countersink
 countersinking
@@ -28041,6 +28040,7 @@ cranemanship
 cranemen
 craner
 cranes
+countersigns
 cranesman
 cranet
 craneway
