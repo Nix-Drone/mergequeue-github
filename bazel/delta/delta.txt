@@ -1176,6 +1176,7 @@ dogtrot
 datableness
 datably
 datacell
+docked
 datafile
 dataflow
 datagram
@@ -14657,7 +14658,6 @@ docity
 dock
 dockage
 dilatancy
-docked
 docker
 dockers
 docket
