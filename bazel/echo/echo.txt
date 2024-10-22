@@ -4630,7 +4630,6 @@ enchanter
 excitement
 enchantery
 enchanters
-enchanting
 enchantingly
 enchantment
 enchantments
@@ -12631,6 +12630,7 @@ exocline
 expensive
 exocoelar
 exocoele
+enchanting
 eradiated
 exocoelic
 exocoelom
