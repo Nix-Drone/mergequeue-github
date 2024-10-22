@@ -4322,7 +4322,6 @@ displacer
 deltiology
 dialyzing
 dummy
-deltohedron
 deltoidei
 deltoideus
 deltoids
@@ -8413,6 +8412,7 @@ diamantiferous
 ditrochee
 diamantoid
 diamat
+deltohedron
 diamber
 diambic
 diamegnetism
