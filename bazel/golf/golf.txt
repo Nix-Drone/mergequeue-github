@@ -1772,7 +1772,6 @@ gastrocolostomy
 gastrocolotomy
 gastrodermal
 glutaraldehyde
-gastrodermis
 gestations
 gnotobiote
 gastrodynia
@@ -6536,6 +6535,7 @@ gavialis
 greenwort
 gunnera
 gogglier
+gastrodermis
 goggliest
 graybearded
 goggling
