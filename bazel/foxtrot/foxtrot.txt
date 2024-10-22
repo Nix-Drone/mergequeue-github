@@ -248,7 +248,6 @@ faculty
 font
 frags
 faculties
-facultize
 firmest
 forestall
 facundity
@@ -975,6 +974,7 @@ farawayness
 farced
 farcelike
 farcemeat
+facultize
 farcer
 farces
 fabrile
