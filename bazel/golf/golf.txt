@@ -7319,7 +7319,6 @@ gossiped
 gossipee
 gossiper
 gossipers
-gossiphood
 gatehouses
 gossipy
 gravitationally
@@ -7737,6 +7736,7 @@ graylag
 greensand
 grailer
 grayling
+gossiphood
 gittite
 glovey
 graysbies
