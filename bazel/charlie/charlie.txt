@@ -8873,7 +8873,6 @@ chaptalize
 chapter
 chapteral
 chaptered
-chapterhouse
 chaptering
 chapters
 chaptrel
@@ -21315,6 +21314,7 @@ conchometry
 conchospiral
 conchostraca
 conchotome
+chapterhouse
 conchs
 conchubar
 coplots
