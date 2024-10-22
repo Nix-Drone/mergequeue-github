@@ -4657,6 +4657,7 @@ demineralized
 demineralizer
 demineralizes
 demineralizing
+debug
 deminudity
 demioctangular
 demiofficial
@@ -11389,7 +11390,6 @@ disclimax
 discloak
 discloister
 dissuader
-debug
 disclosed
 discloser
 discloses
