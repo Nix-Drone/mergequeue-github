@@ -1898,7 +1898,6 @@ bandboxes
 bandboxy
 barricos
 bandboxical
-bandcase
 bandcutter
 bande
 bandeau
@@ -12561,6 +12560,7 @@ bontok
 bonum
 bonus
 bonuses
+bandcase
 basinlike
 bonxie
 bonze
