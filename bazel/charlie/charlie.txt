@@ -2345,7 +2345,6 @@ candelabras
 candelabrum
 candelabrums
 candelilla
-candent
 cassidony
 candescence
 candescent
@@ -23118,6 +23117,7 @@ constituencies
 constituent
 clouded
 constituently
+candent
 constituents
 constitute
 constituter
