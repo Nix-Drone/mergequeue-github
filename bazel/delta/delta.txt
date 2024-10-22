@@ -5546,7 +5546,6 @@ deoxidisation
 deadest
 densified
 deoxidised
-deoxidiser
 deoxidize
 deoxidizer
 dreggy
@@ -15106,6 +15105,7 @@ dolcian
 dolciano
 dolcino
 doldrum
+deoxidiser
 dole
 decemplicate
 diseaseful
