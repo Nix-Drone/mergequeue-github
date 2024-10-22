@@ -7153,7 +7153,6 @@ akka
 akkad
 androides
 akkadian
-akkadist
 akmite
 anagrammatized
 appender
@@ -16739,6 +16738,7 @@ ape
 abruptio
 alpiste
 acequiador
+akkadist
 apeak
 anticoagulate
 aped
