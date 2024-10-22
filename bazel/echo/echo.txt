@@ -2505,7 +2505,6 @@ escalloping
 electromagnets
 electromassage
 electromechanical
-electromechanics
 electromedical
 esquireship
 electromer
@@ -13293,6 +13292,7 @@ exposedness
 exposers
 exposes
 exposing
+electromechanics
 exposit
 expositing
 esthesiometry
