@@ -3484,6 +3484,7 @@ bastiles
 bastille
 bastilles
 biggah
+bind
 bastiment
 bastinaded
 bastinades
@@ -8827,7 +8828,6 @@ binational
 binaural
 binauricular
 binbashi
-bind
 binderies
 binders
 banjos
