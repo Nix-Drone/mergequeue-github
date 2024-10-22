@@ -4517,7 +4517,6 @@ beclogging
 beclogs
 beclothe
 beclothed
-beclothes
 becloud
 beclouded
 beclouding
@@ -9496,6 +9495,7 @@ byronesque
 birostrate
 byroniana
 byronic
+beclothes
 byronically
 byronish
 beholden
