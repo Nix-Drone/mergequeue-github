@@ -4508,6 +4508,7 @@ beclaw
 beclip
 besieged
 becloak
+bechamels
 belchers
 becloaking
 becloaks
@@ -5538,7 +5539,6 @@ bejade
 bejan
 bejant
 bloodwit
-bechamels
 bejape
 balances
 bejel
