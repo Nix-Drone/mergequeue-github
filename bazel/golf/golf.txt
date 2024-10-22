@@ -2238,6 +2238,7 @@ graders
 gazzetta
 gcd
 gconv
+gonif
 gd
 gdinfo
 gds
@@ -4237,7 +4238,6 @@ gymnasiarch
 galaxiidae
 gymnasiast
 gymnasic
-gonif
 gymnasisia
 generability
 glamours
