@@ -6014,6 +6014,7 @@ depsid
 depside
 depsides
 dept
+describent
 depth
 depthen
 depthless
@@ -6509,7 +6510,6 @@ diaphoretic
 describably
 dissatisfy
 described
-describent
 describers
 describes
 descried
