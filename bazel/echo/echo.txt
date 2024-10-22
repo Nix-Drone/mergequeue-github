@@ -1119,7 +1119,6 @@ edibleness
 edibles
 edictal
 edictally
-edictum
 edicule
 edify
 echolalia
@@ -2221,6 +2220,7 @@ enlink
 eldermen
 elders
 equiangular
+edictum
 eldersisterly
 elderwoman
 exundate
