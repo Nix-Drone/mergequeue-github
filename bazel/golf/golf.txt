@@ -1701,7 +1701,6 @@ gasthauser
 gasting
 gastly
 grego
-gastness
 gastnesses
 gingili
 glossophorous
@@ -7985,6 +7984,7 @@ gunrooms
 granet
 grange
 grangerised
+gastness
 grangerism
 grangerization
 grangerize
