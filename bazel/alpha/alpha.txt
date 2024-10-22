@@ -11708,7 +11708,6 @@ analeptical
 analgen
 analgene
 analgesia
-analgesic
 analgesics
 analgesidae
 analgesis
@@ -21812,6 +21811,7 @@ assis
 assisan
 assise
 assish
+analgesic
 assishly
 assishness
 assisi
