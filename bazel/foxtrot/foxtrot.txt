@@ -4253,7 +4253,6 @@ feculent
 flail
 fireward
 floundering
-flickering
 firewater
 flounderingly
 fireweed
@@ -6905,6 +6904,7 @@ folkfree
 folky
 folkish
 forepredicament
+flickering
 folkishness
 folklike
 folklores
