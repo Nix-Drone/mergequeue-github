@@ -779,7 +779,6 @@ getter
 galusha
 gerenuk
 galv
-guebucu
 galvayne
 galvayning
 galvanic
@@ -2223,6 +2222,7 @@ gazetteership
 gremlin
 gazettes
 gazetting
+guebucu
 gazing
 gazingstock
 gazogene
