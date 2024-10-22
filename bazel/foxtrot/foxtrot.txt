@@ -260,7 +260,6 @@ fret
 fetials
 fairyfolk
 fadding
-fodders
 faddish
 feuillants
 falconlike
@@ -4405,6 +4404,7 @@ fishlines
 frondage
 fishling
 fishman
+fodders
 fishmeals
 fishmonger
 ferociousness
