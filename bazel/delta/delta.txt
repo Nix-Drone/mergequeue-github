@@ -4699,7 +4699,6 @@ dourahs
 demirep
 demireps
 demirevetment
-demirhumb
 demirilievo
 demirobe
 demonastery
@@ -7298,6 +7297,7 @@ deticker
 detickers
 deticks
 detin
+demirhumb
 detinet
 detinue
 detinues
