@@ -4079,7 +4079,6 @@ cardiopneumograph
 cardioptosis
 cardiopulmonary
 cardiorenal
-cardiorespiratory
 cardiorrhaphy
 cardiorrheuma
 cardiorrhexis
@@ -14015,6 +14014,7 @@ cynopodous
 cynorrhoda
 cynorrhodon
 cynosarges
+cardiorespiratory
 cynosura
 cynosure
 czarowitz
