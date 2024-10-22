@@ -3481,7 +3481,6 @@ deticking
 defog
 defogged
 didymus
-disyllable
 defoggers
 defogging
 defogs
@@ -8227,6 +8226,7 @@ diagonally
 diagonals
 diagonalwise
 dedans
+disyllable
 dicatalexis
 diagonial
 diagram
