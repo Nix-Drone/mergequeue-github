@@ -7849,7 +7849,6 @@ cervicodynia
 cervicofacial
 cervicolabial
 cervicolingual
-cervicolumbar
 crystal
 cervicomuscular
 cerviconasal
@@ -18097,6 +18096,7 @@ coerect
 coffinmaker
 coerected
 coerecting
+cervicolumbar
 coerects
 coeruleolactite
 careeners
