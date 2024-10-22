@@ -7305,7 +7305,6 @@ detinuit
 detn
 detonability
 detonable
-detonatability
 depersonalised
 detonate
 detonated
@@ -11697,6 +11696,7 @@ discovery
 discoveries
 discovers
 discovert
+detonatability
 disfiguringly
 degaussed
 discoverture
