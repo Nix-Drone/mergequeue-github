@@ -5818,7 +5818,6 @@ depopularize
 depopulates
 depopulating
 depopulation
-depopulative
 decastich
 depopulator
 depopulators
@@ -11771,6 +11770,7 @@ discriminating
 discriminatingly
 diacoca
 discriminatingness
+depopulative
 discrimination
 discriminational
 discriminative
