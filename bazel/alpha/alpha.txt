@@ -1624,7 +1624,6 @@ accommodators
 accomodate
 accompanable
 arrivage
-accompanier
 australorp
 accompanies
 accompanying
@@ -3084,6 +3083,7 @@ actinochemistry
 actinocrinid
 alalunga
 actinocrinidae
+accompanier
 actinocrinite
 actinocrinus
 actinodielectric
