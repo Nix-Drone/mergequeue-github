@@ -3389,7 +3389,6 @@ germanify
 gloominess
 germanification
 guess
-germanyl
 germanish
 germanism
 gumihan
@@ -8627,6 +8626,7 @@ greekish
 greekism
 greekist
 garapata
+germanyl
 garoted
 glyph
 greekize
