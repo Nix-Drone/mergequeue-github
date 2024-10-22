@@ -17153,7 +17153,6 @@ coaler
 coalers
 coalesce
 coalescence
-cellarless
 coalescency
 coalescent
 coalesces
@@ -18962,6 +18961,7 @@ collects
 companable
 colleen
 college
+cellarless
 colleger
 collegers
 coughweed
