@@ -5921,7 +5921,6 @@ floodlit
 floodplain
 floods
 forst
-fortifiable
 floodway
 feute
 floodways
@@ -11497,6 +11496,7 @@ fatback
 furriness
 feudist
 flaccidly
+fortifiable
 furrowed
 furrower
 furfurylidene
