@@ -2362,7 +2362,6 @@ gnomons
 gynobase
 geira
 geisa
-gassiness
 geisenheimer
 gelidium
 gazelle
@@ -2534,6 +2533,7 @@ geminate
 geminated
 geminately
 geminates
+gassiness
 geminating
 gemination
 geminations
