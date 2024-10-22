@@ -6067,6 +6067,7 @@ deputised
 deputyship
 deputising
 dehumanise
+destroyed
 disminister
 dungeonlike
 deputizes
@@ -7031,7 +7032,6 @@ destrier
 destriers
 destroy
 destroyable
-destroyed
 dismays
 destroyer
 destroyers
