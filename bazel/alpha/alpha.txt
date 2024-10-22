@@ -1611,7 +1611,6 @@ accommodated
 adscriptive
 accommodateness
 accommodates
-accommodating
 accommodatingly
 accommodatingness
 accommodation
@@ -20167,6 +20166,7 @@ arraignable
 arraignableness
 arraigned
 aerosats
+accommodating
 arraigning
 arraignment
 arraigns
