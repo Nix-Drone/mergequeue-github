@@ -4475,7 +4475,6 @@ economization
 encake
 encalendar
 encamping
-encampment
 encampments
 encamps
 endoparasite
@@ -6488,6 +6487,7 @@ elaterid
 ensphere
 ensphered
 ensphering
+encampment
 eringos
 enspirit
 ensporia
