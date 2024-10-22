@@ -3104,7 +3104,6 @@ deescalate
 deescalated
 diacritics
 diphtheriaphor
-deescalation
 deescalations
 deeses
 deesis
@@ -8572,6 +8571,7 @@ diaplex
 diaplexal
 diapnoe
 diapnoic
+deescalation
 distemperate
 diapnotic
 diapophyses
