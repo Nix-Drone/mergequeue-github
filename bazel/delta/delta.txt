@@ -1742,7 +1742,6 @@ dodecuplet
 demagnetisable
 debarked
 debarking
-debarkment
 debarks
 debarment
 debarrance
@@ -5944,6 +5943,7 @@ disusance
 decryptions
 deprehend
 damsel
+debarkment
 depress
 diploptera
 didactically
