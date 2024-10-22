@@ -2262,7 +2262,6 @@ electioneerer
 elections
 elective
 ephemerons
-electives
 electivism
 electivity
 electo
@@ -12877,6 +12876,7 @@ expandedness
 expanders
 educabilia
 epitaphic
+electives
 expandible
 expanding
 ell
