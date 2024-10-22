@@ -5343,6 +5343,7 @@ flecnodal
 flect
 frigefact
 flection
+foreignization
 flectionless
 flector
 flinter
@@ -6919,7 +6920,6 @@ freedom
 folkmoot
 flatmate
 flotas
-foreignization
 folkmoots
 fauchard
 folkmoter
