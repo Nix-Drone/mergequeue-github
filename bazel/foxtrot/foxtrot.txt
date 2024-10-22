@@ -4947,6 +4947,7 @@ flanch
 forkwise
 fact
 flanconnade
+frondent
 frappeed
 flashbacks
 flandan
@@ -10372,7 +10373,6 @@ fromenties
 fromward
 fromwards
 fronde
-frondent
 forestep
 foredoing
 factor
