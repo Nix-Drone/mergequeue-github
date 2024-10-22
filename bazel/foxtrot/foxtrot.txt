@@ -6156,7 +6156,6 @@ flowcharts
 finality
 foldstool
 flowcontrol
-flanche
 flowed
 flower
 flowerage
@@ -10454,6 +10453,7 @@ frontispiecing
 familiarly
 frontlash
 frontlessness
+flanche
 fistnote
 frontoauricular
 frontoethmoid
