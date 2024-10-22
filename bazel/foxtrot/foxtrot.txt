@@ -7462,6 +7462,7 @@ ferrimagnet
 floatative
 forcut
 floes
+forequarter
 fivers
 flabbergastation
 finds
@@ -7900,7 +7901,6 @@ foreprovision
 forepurpose
 frontways
 fixers
-forequarter
 forequarters
 fraidycat
 fleet
