@@ -2865,7 +2865,6 @@ barostat
 bruta
 blasphemers
 baroswitch
-barotactic
 barotaxy
 butling
 barotaxis
@@ -14631,6 +14630,7 @@ brassworks
 brast
 brat
 bratina
+barotactic
 bratling
 bratstvo
 blunderer
