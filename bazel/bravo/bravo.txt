@@ -1680,6 +1680,7 @@ ballplayer
 ballplayers
 ballplatz
 bedrabbled
+billheads
 ballpoint
 ballproof
 ballrooms
@@ -8668,7 +8669,6 @@ brachiofacial
 billfish
 billfolds
 burel
-billheads
 billholder
 billhook
 baptisteries

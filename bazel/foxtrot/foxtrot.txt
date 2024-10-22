@@ -7147,6 +7147,7 @@ frustulum
 footcandle
 footcloths
 finedraw
+frilly
 facer
 figwort
 foeniculum
@@ -8121,7 +8122,6 @@ forethinking
 forethough
 forethoughtfully
 forethoughtfulness
-frilly
 fontally
 forethrift
 foretoken
