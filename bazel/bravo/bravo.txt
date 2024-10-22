@@ -2836,7 +2836,6 @@ baronetship
 barong
 baronga
 barongs
-barony
 bassets
 baronial
 baronies
@@ -18328,6 +18327,7 @@ buttoning
 bosks
 buttonlike
 buttonmold
+barony
 bestiarianism
 barometrically
 brahmans
