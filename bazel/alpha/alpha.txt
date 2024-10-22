@@ -6828,7 +6828,6 @@ airbursts
 antonina
 airbuses
 airbusses
-aircheck
 airchecks
 aircoaches
 aircraft
@@ -14177,6 +14176,7 @@ antemingent
 antemortal
 antemortem
 antemundane
+aircheck
 antemural
 antenarial
 antenatalitial
