@@ -5859,7 +5859,6 @@ catheads
 cathect
 cathected
 cathectic
-cathecting
 cathection
 cathects
 cathedra
@@ -26887,6 +26886,7 @@ countermaid
 counterman
 countermand
 countermandable
+cathecting
 countermanded
 countermanding
 countermaneuver
