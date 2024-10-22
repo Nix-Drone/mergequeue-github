@@ -7331,7 +7331,6 @@ besugar
 besully
 beswarm
 beswarmed
-beswarms
 besweatered
 beswim
 beswink
@@ -12456,6 +12455,7 @@ bonesetting
 brushite
 boneshaker
 backbeat
+beswarms
 boneshaw
 bonetail
 bonetta
