@@ -9937,7 +9937,6 @@ christenhead
 chemostat
 collateral
 cancers
-chemosterilants
 chemosurgery
 chemosurgical
 chemotactic
@@ -23526,6 +23525,7 @@ continentals
 continents
 contineu
 contingence
+chemosterilants
 contingency
 contingencies
 chills
