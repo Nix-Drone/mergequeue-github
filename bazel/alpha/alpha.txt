@@ -5173,7 +5173,6 @@ accent
 aetat
 aethalia
 aethalioid
-aethalium
 aetheogamic
 aetheogamous
 airth
@@ -6483,6 +6482,7 @@ agrological
 agrologies
 adolesce
 agrologist
+aethalium
 adsorbate
 agrom
 agromania
