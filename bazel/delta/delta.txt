@@ -3390,7 +3390,6 @@ definitiveness
 definitize
 definitized
 definitizing
-definitor
 doles
 defis
 defix
@@ -5325,6 +5324,7 @@ dentalium
 dentaliums
 dentalization
 dentalize
+definitor
 dentalized
 dentally
 dentallia
