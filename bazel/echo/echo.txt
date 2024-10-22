@@ -3806,6 +3806,7 @@ emend
 exscribe
 erythrons
 expendables
+equipt
 edifier
 emendated
 ekerite
@@ -8753,7 +8754,6 @@ equiproportional
 equiproportionality
 equips
 ethnolinguist
-equipt
 equiradial
 echo
 equiradical
