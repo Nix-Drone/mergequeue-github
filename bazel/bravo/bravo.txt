@@ -3627,6 +3627,7 @@ bathyplankton
 buglers
 baygall
 bathyscaph
+bemat
 bathyscaphes
 bathyseism
 bathysmal
@@ -6028,7 +6029,6 @@ bemar
 bemask
 blephillia
 bemaster
-bemat
 bembecidae
 beme
 bemean
