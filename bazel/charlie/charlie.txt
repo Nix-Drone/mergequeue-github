@@ -9934,7 +9934,6 @@ chemosorptive
 chemosphere
 chemospheric
 christenhead
-chemostat
 collateral
 cancers
 chemosterilants
@@ -27302,6 +27301,7 @@ courtal
 courtby
 courtbred
 courtcraft
+chemostat
 cetacean
 courted
 courteousness
