@@ -3323,7 +3323,6 @@ acupunctuation
 annelides
 acupuncturation
 acupuncturator
-acupuncture
 acupunctured
 acupuncturing
 acupuncturist
@@ -21649,6 +21648,7 @@ assembles
 assembly
 assemblies
 assemblyman
+acupuncture
 absinthiate
 assemblymen
 assemblywoman
