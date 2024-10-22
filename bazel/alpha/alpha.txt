@@ -14069,7 +14069,6 @@ antdom
 ante
 anteact
 arsenillo
-anteambulate
 anteambulation
 anteater
 anteaters
@@ -17292,6 +17291,7 @@ apologise
 apologised
 apologising
 apologist
+anteambulate
 apologists
 apologize
 achillea
