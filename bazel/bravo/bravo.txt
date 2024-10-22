@@ -5582,7 +5582,6 @@ beknave
 beknight
 belfather
 blossoming
-beknighted
 beknighting
 beknived
 ballistite
@@ -16231,6 +16230,7 @@ browningesque
 bindwith
 brownish
 brownishness
+beknighted
 brownist
 brownistic
 brownly
