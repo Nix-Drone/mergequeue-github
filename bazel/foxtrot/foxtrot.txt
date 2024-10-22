@@ -50,7 +50,6 @@ fabulize
 fabulosity
 fabulously
 facaded
-faceable
 facebar
 facebow
 facecloth
@@ -917,6 +916,7 @@ fantigue
 fantoccini
 fantocine
 fee
+faceable
 flavor
 fantom
 fanums
