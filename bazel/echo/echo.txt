@@ -2631,7 +2631,6 @@ electrosmosis
 electrostatic
 electrostatical
 electrosteel
-electrostenolysis
 electrostenolytic
 exciples
 electrostriction
@@ -11069,6 +11068,7 @@ electrokinematics
 euryalida
 euryalidan
 euryalus
+electrostenolysis
 eurybathic
 eurybenthic
 endeared
