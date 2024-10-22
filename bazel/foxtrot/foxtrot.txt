@@ -6450,7 +6450,6 @@ forepoling
 fluorobenzene
 fluoroborate
 fluorocarbon
-fluorochrome
 fluoroform
 flaminian
 fluoroformol
@@ -10593,6 +10592,7 @@ frowsty
 frowstier
 flatuous
 frowstiest
+fluorochrome
 flutterable
 frontlet
 flattened
