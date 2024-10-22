@@ -16847,7 +16847,6 @@ clubhaul
 clubhauled
 clubhauling
 clubhauls
-clubhouse
 clubhouses
 clubionid
 clubionidae
@@ -24151,6 +24150,7 @@ conviciate
 convicinity
 convict
 congelifract
+clubhouse
 convictable
 convictfish
 convictible
