@@ -9604,7 +9604,6 @@ autolith
 anticonvulsant
 alumna
 alumnae
-alumniate
 alumnol
 alumohydrocalcite
 alumroot
@@ -13899,6 +13898,7 @@ anosmias
 amyelonic
 anosmic
 anosognosia
+alumniate
 anosphrasia
 anosphresia
 alcoholisation
