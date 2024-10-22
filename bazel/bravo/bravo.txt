@@ -9542,7 +9542,6 @@ birthnight
 birthplace
 birthplaces
 backfilled
-birthrates
 birthright
 bundling
 birthrights
@@ -18319,6 +18318,7 @@ buttonhole
 betell
 buttonholer
 bedel
+birthrates
 buttonholes
 buttonholing
 bowlegs
