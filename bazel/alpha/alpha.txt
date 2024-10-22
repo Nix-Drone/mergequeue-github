@@ -21556,7 +21556,6 @@ assay
 assayable
 assayed
 assayer
-assayers
 assaying
 assail
 assailableness
@@ -22316,6 +22315,7 @@ agnized
 astropectinidae
 astrophel
 astrophil
+assayers
 antipapacy
 astrophyllite
 astrophysical
