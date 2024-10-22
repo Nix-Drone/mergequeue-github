@@ -2426,7 +2426,6 @@ candleshrift
 candlesnuffer
 candlestand
 committeewoman
-candlestick
 candlesticked
 candlesticks
 candlestickward
@@ -12897,6 +12896,7 @@ churlishness
 churm
 churn
 churnability
+candlestick
 churnable
 churned
 cladophoraceae
