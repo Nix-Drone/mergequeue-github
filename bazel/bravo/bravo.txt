@@ -6475,7 +6475,6 @@ benzol
 benzole
 benzoline
 benzolize
-benzols
 benzonaphthol
 benzonitrile
 benzoperoxide
@@ -12800,6 +12799,7 @@ bedsheet
 bacciform
 boorish
 boorishly
+benzols
 banking
 boorishness
 boors
