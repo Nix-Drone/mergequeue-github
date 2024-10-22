@@ -3945,7 +3945,6 @@ aditus
 adj
 adjacence
 adjacency
-adjacencies
 amated
 adjacently
 adjag
@@ -14697,6 +14696,7 @@ antiadministration
 antiae
 antiagglutinant
 antiagglutinating
+adjacencies
 antiagglutination
 animalities
 antiagglutinative
