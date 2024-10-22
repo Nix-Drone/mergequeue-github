@@ -57,6 +57,7 @@ facecloth
 firestone
 faced
 foreladies
+flophouses
 faceharden
 faceless
 flecken
@@ -5963,7 +5964,6 @@ floozie
 flop
 floperoo
 flophouse
-flophouses
 flopover
 flopovers
 finish
