@@ -6239,7 +6239,6 @@ dermatitis
 dermatocele
 dermatoconiosis
 dermatodynia
-dermatogen
 dermatoglyphics
 dermatograph
 dermatography
@@ -17429,6 +17428,7 @@ disconcord
 dropsywort
 dropsonde
 donuts
+dermatogen
 dropwise
 dropworm
 diachylum
