@@ -10895,7 +10895,6 @@ clocher
 chypre
 chips
 chipwood
-chiquest
 chiquitan
 chiquito
 chiragra
@@ -11718,6 +11717,7 @@ chondrification
 chondrigen
 cygnine
 chondrigenous
+chiquest
 chondrilla
 corybulbin
 chondrin
