@@ -2798,6 +2798,7 @@ bonneting
 barology
 barolong
 baromacrometer
+billable
 barometer
 boroughship
 barometry
@@ -8633,7 +8634,6 @@ bozos
 billa
 bradycardia
 brusquer
-billable
 billabong
 billage
 billback
