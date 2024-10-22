@@ -1627,7 +1627,6 @@ calp
 calpac
 calpack
 calpacked
-calpacks
 calpacs
 calpolli
 calpul
@@ -29575,6 +29574,7 @@ croakiness
 croaking
 croaks
 consociation
+calpacks
 croape
 croat
 carbogelatin
