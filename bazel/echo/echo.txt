@@ -1111,7 +1111,6 @@ edh
 edhs
 edibile
 earthlike
-equipper
 edibility
 edible
 expurgatory
@@ -10318,6 +10317,7 @@ evicted
 epanorthosis
 embossable
 expoliate
+equipper
 ethidene
 ethyl
 ethylamide
