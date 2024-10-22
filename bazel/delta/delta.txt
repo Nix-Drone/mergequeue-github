@@ -1989,7 +1989,6 @@ damageableness
 decahedrons
 decahydrate
 decahydronaphthalene
-decay
 decayed
 decayedness
 decayers
@@ -12875,6 +12874,7 @@ disorganised
 despisal
 dispapalize
 dulc
+decay
 disorganiser
 disorganization
 disorganize
