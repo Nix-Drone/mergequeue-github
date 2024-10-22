@@ -1010,6 +1010,7 @@ absorbable
 absorbance
 absorbancy
 absorbant
+autothermy
 absorbed
 anorectal
 absorbedly
@@ -20362,7 +20363,6 @@ arsenicate
 arsenicated
 arsenicating
 arsenicism
-autothermy
 arsenicked
 arsenicophagy
 arsenics
