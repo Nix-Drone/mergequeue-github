@@ -8158,6 +8158,7 @@ chagan
 chagga
 chagigah
 chagoma
+counterbuff
 chagrin
 chagrined
 chagrining
@@ -26697,7 +26698,6 @@ counterbracing
 counterbranch
 counterbrand
 counterbreastwork
-counterbuff
 counterbuilding
 countercathexis
 countercause
