@@ -816,7 +816,6 @@ danelaw
 dungeon
 dermititis
 daneweed
-daneweeds
 danged
 detections
 dangerful
@@ -18614,6 +18613,7 @@ dutchmen
 duteous
 duteousness
 duty
+daneweeds
 dutiability
 dutiable
 dutied
