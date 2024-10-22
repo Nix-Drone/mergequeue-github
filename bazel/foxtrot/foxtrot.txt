@@ -4928,6 +4928,7 @@ faliscan
 fantaseid
 forge
 flaminica
+formatters
 flaminical
 flamless
 flammable
@@ -5457,7 +5458,6 @@ fleshiness
 fourniture
 fleshing
 fleshings
-formatters
 fanjets
 fleshless
 fleshlier
