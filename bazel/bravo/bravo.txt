@@ -3505,7 +3505,6 @@ bastions
 bastite
 bastnaesite
 bastnasite
-balanoglossus
 basto
 beworms
 baston
@@ -17360,6 +17359,7 @@ bunce
 bunch
 bunchberries
 bunched
+balanoglossus
 buncher
 bucoliast
 bunches
