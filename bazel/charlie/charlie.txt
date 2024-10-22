@@ -7956,7 +7956,6 @@ ceti
 cetic
 ceticide
 cetid
-chitinization
 cetyl
 cetylic
 cetin
@@ -21317,6 +21316,7 @@ conchostraca
 conchotome
 conchs
 conchubar
+chitinization
 coplots
 conchuela
 conciator
