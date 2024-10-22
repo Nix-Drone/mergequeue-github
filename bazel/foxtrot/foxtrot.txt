@@ -100,7 +100,6 @@ facias
 faciata
 fantoms
 faciation
-forequoted
 facie
 freeport
 fibroelastic
@@ -791,6 +790,7 @@ forecondemn
 fandom
 fandoms
 fane
+forequoted
 fanegadas
 fanegas
 fanes
