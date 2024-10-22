@@ -2463,7 +2463,6 @@ electroindustrial
 electroing
 electroionic
 enzymology
-electrojet
 electrokinetic
 enkolpion
 embarrased
@@ -3184,6 +3183,7 @@ eltrot
 eluant
 episcleritis
 enterophthisis
+electrojet
 eluated
 eluating
 elucid
