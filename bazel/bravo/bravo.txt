@@ -2560,7 +2560,6 @@ barfish
 barfs
 bargain
 bargainable
-billbugs
 bargainee
 bargainer
 bargaining
@@ -17435,6 +17434,7 @@ bungles
 bungling
 bunglings
 bungos
+billbugs
 bungstarter
 bungtown
 bungwall
