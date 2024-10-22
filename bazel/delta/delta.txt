@@ -6748,6 +6748,7 @@ deskill
 desklike
 deskman
 deskmen
+diffarreation
 desks
 desktop
 destined
@@ -9298,7 +9299,6 @@ diffame
 diffareation
 desition
 dipso
-diffarreation
 diffeomorphic
 diffeomorphism
 differed
