@@ -6022,7 +6022,6 @@ agglutinogen
 agglutinogenic
 agglutinoid
 agglutinoscope
-agglutogenic
 aleshot
 aggrace
 aggradation
@@ -17155,6 +17154,7 @@ apochromatism
 apocynaceae
 ascitic
 apocynaceous
+agglutogenic
 apocyneous
 apocynthion
 apocynthions
