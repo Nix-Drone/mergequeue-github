@@ -1542,7 +1542,6 @@ balladist
 balladize
 balladized
 balladizing
-balladlike
 balladling
 balladmonger
 balladmongering
@@ -3065,6 +3064,7 @@ bartisans
 bartizan
 bartizans
 balconied
+balladlike
 becarpets
 bartlett
 balked
