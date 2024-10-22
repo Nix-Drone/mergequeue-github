@@ -8216,6 +8216,7 @@ diagometer
 demove
 derogations
 dele
+disequality
 diagonal
 diagonalizable
 diagonalization
@@ -12056,7 +12057,6 @@ disepalous
 disseisoress
 dysepulotic
 dysepulotical
-disequality
 disequalization
 disequalizer
 disequilibrate
