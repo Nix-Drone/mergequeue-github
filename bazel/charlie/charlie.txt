@@ -11577,7 +11577,6 @@ cholecystolithotripsy
 cholecystopexy
 cholecystorrhaphy
 cholecystostomy
-cholecystostomies
 cholecystotomy
 cholecystotomies
 choledoch
@@ -21057,6 +21056,7 @@ conand
 conant
 czardases
 conarial
+cholecystostomies
 conarium
 conation
 conational
