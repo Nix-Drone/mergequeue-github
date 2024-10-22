@@ -3288,7 +3288,6 @@ deferents
 deferment
 deferments
 deferrable
-deferral
 deferrals
 deferred
 deferrer
@@ -8450,6 +8449,7 @@ diammonium
 downgrades
 diamond
 diamondback
+deferral
 derailer
 dynamiting
 diamonded
