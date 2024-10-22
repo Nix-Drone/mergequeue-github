@@ -4854,6 +4854,7 @@ bedsprings
 bolivars
 bedstand
 bedstead
+bomb
 brazenface
 baikerinite
 beshrouded
@@ -12242,7 +12243,6 @@ boltwork
 bolus
 boluses
 benn
-bomb
 bombable
 bombacaceae
 bombace
