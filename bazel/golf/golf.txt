@@ -2239,7 +2239,6 @@ gazzetta
 gcd
 gconv
 gd
-gdinfo
 gds
 grayfish
 globously
@@ -7552,6 +7551,7 @@ ginnery
 generationism
 gpm
 gps
+gdinfo
 gr
 gies
 glucogenic
