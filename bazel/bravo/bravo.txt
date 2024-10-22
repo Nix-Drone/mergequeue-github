@@ -12401,7 +12401,6 @@ bondless
 bondmaid
 boohoo
 bondmaids
-bondman
 bondmanship
 bondmen
 bondminder
@@ -12623,6 +12622,7 @@ bookable
 bookbind
 boughed
 bookbindery
+bondman
 baianism
 bookbinders
 bookbinding
