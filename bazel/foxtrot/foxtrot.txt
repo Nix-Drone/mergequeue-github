@@ -1097,7 +1097,6 @@ foremastman
 farmland
 farmost
 farmout
-fasteners
 fisc
 farms
 farmscape
@@ -7278,6 +7277,7 @@ foulnesses
 footwall
 footwarmer
 footwear
+fasteners
 floodmark
 fumiferous
 fabricable
