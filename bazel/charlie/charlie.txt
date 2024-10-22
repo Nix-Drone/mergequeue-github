@@ -11161,7 +11161,6 @@ chlamydes
 cliftonia
 chlamydobacteriaceae
 chlamydobacteriaceous
-chlamydobacteriales
 chlamydomonadaceae
 chlamydomonadidae
 chlamydophore
@@ -30178,6 +30177,7 @@ cruels
 cruelty
 cruelties
 cruent
+chlamydobacteriales
 cruentate
 cruentous
 caneton
