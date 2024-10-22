@@ -1109,7 +1109,6 @@ edgrow
 enormous
 edh
 edhs
-edibile
 earthlike
 equipper
 edibility
@@ -7343,6 +7342,7 @@ eorhyolite
 eos
 eosate
 earthquaking
+edibile
 eoside
 eosin
 eosine
