@@ -1524,6 +1524,7 @@ deadlily
 deadlines
 deadliness
 deadlock
+diagnosticate
 deadlocking
 deadman
 direfulness
@@ -8205,7 +8206,6 @@ diagnosis
 diagnostical
 disjunction
 diagnostically
-diagnosticate
 diagnosticated
 diagnosticating
 diagnostication
