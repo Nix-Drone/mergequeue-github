@@ -6059,7 +6059,6 @@ cattishness
 cowherd
 cattlebush
 cattlefold
-cattlegate
 cattlehide
 cattleya
 cattleyak
@@ -14573,6 +14572,7 @@ ciruela
 cirurgian
 cyrus
 cis
+cattlegate
 clogs
 captainess
 cisalpine
