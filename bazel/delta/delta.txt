@@ -15302,7 +15302,6 @@ domesticability
 domesticality
 domestically
 domesticate
-domesticated
 domesticates
 domesticating
 draftsperson
@@ -16413,6 +16412,7 @@ downwith
 dowp
 dowress
 dowry
+domesticated
 drabness
 dimensionality
 dows
