@@ -1392,7 +1392,6 @@ anthracemia
 acaulescent
 acauline
 acaulose
-acaulous
 acc
 acca
 accable
@@ -3031,6 +3030,7 @@ actable
 actaea
 actaeaceae
 actaeon
+acaulous
 actaeonidae
 actg
 actiad
