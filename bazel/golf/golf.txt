@@ -517,7 +517,6 @@ galerie
 galerum
 galerus
 gales
-galesaur
 galesaurus
 galet
 garrya
@@ -10488,6 +10487,7 @@ gabari
 gundog
 gastronomic
 gunfights
+galesaur
 gunfires
 gearless
 gung
