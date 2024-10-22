@@ -14711,7 +14711,6 @@ cystomyxoma
 cystonectae
 cystonectous
 cystonephrosis
-cystoneuralgia
 cystoparalysis
 cystophora
 cathood
@@ -18736,6 +18735,7 @@ coleopteron
 coleopterous
 coleoptile
 chromosomal
+cystoneuralgia
 coleoptilum
 coleopttera
 coleorhiza
