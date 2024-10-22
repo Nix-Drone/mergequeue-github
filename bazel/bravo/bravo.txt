@@ -6035,6 +6035,7 @@ bemean
 bemeaned
 bemeaning
 bemeans
+bisections
 bemedaled
 bemedalled
 bementite
@@ -9600,7 +9601,6 @@ bisected
 bisecting
 bisection
 bisectional
-bisections
 bisector
 bisectors
 bisectrices
