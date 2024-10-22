@@ -1700,7 +1700,6 @@ fdnames
 fdtype
 fdub
 fortuitousness
-fe
 forksmith
 feaberry
 frugivora
@@ -7050,6 +7049,7 @@ fantastry
 fontange
 fonted
 fontes
+fe
 famatinite
 fontful
 fragmentised
