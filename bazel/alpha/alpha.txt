@@ -6022,7 +6022,6 @@ agglutinogen
 agglutinogenic
 agglutinoid
 agglutinoscope
-agglutogenic
 aleshot
 aggrace
 aggradation
@@ -12821,6 +12820,7 @@ angiostegnosis
 angiostenosis
 angiostomy
 angiostomize
+agglutogenic
 araeotic
 angiostrophy
 angiotasis
