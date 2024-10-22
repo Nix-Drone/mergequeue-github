@@ -8781,7 +8781,6 @@ daltonism
 dibenzoyl
 dibenzophenazine
 dibenzopyrrole
-decayable
 dibhole
 diblastula
 diborate
@@ -10732,6 +10731,7 @@ dipsticks
 dipt
 dipter
 dipteraceae
+decayable
 dipteraceous
 dipterad
 dipterygian
