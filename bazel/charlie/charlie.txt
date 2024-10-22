@@ -8601,6 +8601,7 @@ chancelleries
 chancellor
 chancellorate
 chancelloress
+crumber
 chancellory
 chancellors
 chancellorship
@@ -29134,7 +29135,6 @@ cryonics
 cryopathy
 cryophile
 chemawinite
-crumber
 cryophilic
 cryophyllite
 cryophyte
