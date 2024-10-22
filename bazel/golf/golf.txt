@@ -282,6 +282,7 @@ gym
 gibs
 gainfulness
 gaingiving
+gunslinger
 gainyield
 grafter
 gaining
@@ -10574,7 +10575,6 @@ gunships
 gunshop
 graybeards
 gunshot
-gunslinger
 gunslingers
 gunslinging
 gunsman
