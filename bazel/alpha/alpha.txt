@@ -22225,7 +22225,6 @@ astroblast
 astrobotany
 astrochemistry
 astrochronological
-astrocyte
 astrocytic
 astrocytoma
 astrocytomas
@@ -24706,6 +24705,7 @@ avg
 avgasses
 aviador
 avyayibhava
+astrocyte
 athalamous
 avianize
 abrachias
