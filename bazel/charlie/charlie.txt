@@ -8921,6 +8921,7 @@ characteristics
 characterizable
 characterization
 characterizations
+cnidocyst
 characterize
 characterizer
 characterizers
@@ -16983,7 +16984,6 @@ crayoned
 cnidoblast
 cnidocell
 cnidocil
-cnidocyst
 cnidophorous
 cupmate
 cnidopod
