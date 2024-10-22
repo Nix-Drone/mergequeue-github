@@ -2649,7 +2649,6 @@ gendarmerie
 gendarmes
 gender
 genderer
-genders
 ghoulie
 geneal
 genealogic
@@ -4342,6 +4341,7 @@ gynaecocrat
 gynaecoid
 gynaecol
 gois
+genders
 gynaecological
 goalkeepers
 gynaecomorphous
