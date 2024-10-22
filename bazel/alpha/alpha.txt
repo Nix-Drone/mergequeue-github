@@ -3683,7 +3683,6 @@ attrib
 adenohypophysis
 adenoid
 adenoidal
-adenoidectomy
 adenoidectomies
 adenoidism
 adroitest
@@ -18190,6 +18189,7 @@ apts
 apulian
 apulmonic
 artocarpus
+adenoidectomy
 apus
 aq
 aqua
