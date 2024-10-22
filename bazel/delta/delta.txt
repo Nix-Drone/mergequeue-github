@@ -14122,6 +14122,7 @@ ditch
 ditchdigger
 ditchdigging
 defensible
+duplicitous
 ditchdown
 ditched
 ditchers
@@ -18418,7 +18419,6 @@ duplicitas
 duplicity
 dynamite
 duplicities
-duplicitous
 duplicitously
 duplify
 duplification
