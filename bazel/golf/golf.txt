@@ -2264,7 +2264,6 @@ gearset
 gearshift
 gearshifts
 gearwheels
-glistening
 gease
 geat
 geb
@@ -2717,6 +2716,7 @@ greige
 generate
 generated
 generater
+glistening
 gurdy
 gombroons
 generations
