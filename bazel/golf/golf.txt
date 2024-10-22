@@ -2239,7 +2239,6 @@ gazzetta
 gcd
 gconv
 gd
-gdinfo
 gds
 grayfish
 globously
@@ -3408,6 +3407,7 @@ gnocchi
 germanizer
 grayfishes
 gopherberry
+gdinfo
 germanness
 gutturopalatine
 galleine
