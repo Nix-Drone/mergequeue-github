@@ -8796,7 +8796,6 @@ dibranchiate
 dibrom
 dibromide
 dibromoacetaldehyde
-dibromobenzene
 dinamode
 dibs
 dibstone
@@ -16208,6 +16207,7 @@ dowed
 doweled
 doweling
 dower
+dibromobenzene
 doweral
 doweress
 dowery
