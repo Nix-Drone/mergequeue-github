@@ -3138,7 +3138,6 @@ capitana
 capitare
 capitasti
 capitate
-capitated
 capitatim
 capitation
 capitations
@@ -10654,6 +10653,7 @@ chymase
 countian
 curtelace
 chimbe
+capitated
 chimble
 conenchyma
 cervicorn
