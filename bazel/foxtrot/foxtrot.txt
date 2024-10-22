@@ -1102,7 +1102,6 @@ fisc
 farms
 farmscape
 farmsteads
-farmtown
 farnesol
 farnesols
 fogas
@@ -10753,6 +10752,7 @@ frumpishly
 frumple
 flam
 frumpled
+farmtown
 frumpling
 fermentability
 frumps
