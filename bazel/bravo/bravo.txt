@@ -12391,7 +12391,6 @@ bonders
 bondfolk
 basalia
 bondhold
-bondholder
 bondholders
 bicolor
 bondholding
@@ -15219,6 +15218,7 @@ bucketing
 bastinade
 bkpr
 bridale
+bondholder
 bridally
 bridals
 bacterins
