@@ -23240,6 +23240,7 @@ consulships
 consult
 consulta
 consultable
+crossings
 commote
 consultant
 consultants
@@ -29876,7 +29877,6 @@ crosshaul
 crosshauling
 crosshead
 crossing
-crossings
 caulicule
 crossite
 crossjack
