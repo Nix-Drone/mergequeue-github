@@ -19348,7 +19348,6 @@ colorature
 colorblind
 colorblindness
 colorbreed
-colorcast
 colorcasted
 colorcaster
 colorcasting
@@ -27471,6 +27470,7 @@ coverers
 coverings
 coverlet
 counterindoctrination
+colorcast
 coverlets
 chemins
 consumation
