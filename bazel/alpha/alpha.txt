@@ -1970,7 +1970,6 @@ advanced
 acetable
 acetabula
 acetabular
-acetabularia
 acetabuliferous
 acanthopore
 acetabuliform
@@ -10026,6 +10025,7 @@ amblyopsidae
 amblyopsis
 amblyoscope
 amblypoda
+acetabularia
 amblypodous
 apnea
 amblyrhynchus
