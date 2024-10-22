@@ -3124,6 +3124,7 @@ bascinet
 bascology
 basculation
 blindfold
+byplace
 bascule
 baculite
 bipropellant
@@ -9311,7 +9312,6 @@ bowtie
 bipyramid
 bipyridyl
 bubale
-byplace
 bombard
 bagged
 byplay
