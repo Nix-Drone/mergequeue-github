@@ -8528,7 +8528,6 @@ chamotte
 champ
 champa
 champac
-champaca
 champacol
 champagne
 champagned
@@ -28135,6 +28134,7 @@ crankpin
 crankpins
 crankplate
 cranks
+champaca
 crankshaft
 crankshafts
 corpulent
