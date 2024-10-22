@@ -4904,7 +4904,6 @@ forehood
 flameout
 flameouts
 flameproof
-formulize
 flameproofer
 flintlocks
 finfishes
@@ -5668,6 +5667,7 @@ flintlock
 fellatios
 flintwood
 flintworker
+formulize
 flyoff
 flyover
 flyovers
