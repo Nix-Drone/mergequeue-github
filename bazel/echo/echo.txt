@@ -690,7 +690,6 @@ ecliptics
 eclogic
 eclogite
 eclogites
-eclogue
 eclogues
 eclosion
 earsore
@@ -4538,6 +4537,7 @@ excluder
 encasserole
 emphatically
 entoderm
+eclogue
 encastre
 encastrement
 encauma
