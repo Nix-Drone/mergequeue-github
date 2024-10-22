@@ -5327,7 +5327,6 @@ beglue
 begnaw
 begnawed
 begnawn
-begob
 budgero
 begobs
 begod
@@ -12662,6 +12661,7 @@ broomy
 booklift
 booklike
 bookling
+begob
 booklists
 booklore
 bhavan
