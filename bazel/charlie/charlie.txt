@@ -8868,7 +8868,6 @@ chaps
 cholic
 chapstick
 concurbit
-chaptalization
 chaptalize
 chapter
 chapteral
@@ -31945,6 +31944,7 @@ czechic
 cloriodid
 czechish
 czechization
+chaptalization
 czechoslovak
 czechoslovakian
 cattycorner
