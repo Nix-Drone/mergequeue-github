@@ -8475,6 +8475,7 @@ bike
 bloodlettings
 biked
 biker
+boreal
 bikers
 bikeway
 bikeways
@@ -12973,7 +12974,6 @@ bordures
 bore
 boreable
 boread
-boreal
 borealis
 branchedness
 borean
