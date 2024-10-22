@@ -219,7 +219,6 @@ abbr
 abbrev
 abbreviatable
 abbreviate
-abbreviated
 argotic
 apostolicism
 afdecho
@@ -15503,6 +15502,7 @@ antimask
 antimasker
 alar
 antimasks
+abbreviated
 antimason
 antimasonry
 antimasque
