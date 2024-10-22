@@ -12214,7 +12214,6 @@ ancillary
 ancillaries
 aulostomidae
 ancillas
-ancyloceras
 ancylocladus
 apathist
 ancylodactyla
@@ -19710,6 +19709,7 @@ ariidae
 arikara
 ariki
 aril
+ancyloceras
 albuminiform
 aryl
 arylamine
