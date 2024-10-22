@@ -2541,7 +2541,6 @@ clingfish
 canker
 cankerberry
 cankerbird
-crafting
 cankereat
 cankered
 cankeredly
@@ -27738,6 +27737,7 @@ cozenage
 cozenages
 circulatories
 cozened
+crafting
 cozener
 cozeners
 cozening
