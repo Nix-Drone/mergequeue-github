@@ -2022,7 +2022,6 @@ baahling
 bins
 barrad
 bdls
-bandwidth
 bandwidths
 bandwork
 bandworm
@@ -11499,6 +11498,7 @@ blurters
 blurting
 bedels
 blurts
+bandwidth
 blush
 blushed
 blusher
