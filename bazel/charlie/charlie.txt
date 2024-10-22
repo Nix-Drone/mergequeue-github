@@ -4979,7 +4979,6 @@ carving
 curses
 carvings
 carvoeira
-carvoepra
 carvol
 carvomenthene
 carvone
@@ -12606,6 +12605,7 @@ chronologer
 curvedness
 chronology
 ciborium
+carvoepra
 chronological
 chronologically
 chronologies
