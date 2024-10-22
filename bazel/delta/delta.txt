@@ -17595,7 +17595,6 @@ dinosaurs
 drumlier
 doolee
 deputization
-drumlike
 drumlin
 drumline
 drumlinoid
@@ -18363,6 +18362,7 @@ duosecant
 duotype
 diospyros
 duotone
+drumlike
 duotoned
 disembody
 duotones
