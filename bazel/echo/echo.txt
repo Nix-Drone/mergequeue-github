@@ -3652,6 +3652,7 @@ embrawn
 embread
 embreathe
 embrectomy
+engineries
 embrica
 embryectomy
 embryectomies
@@ -5709,7 +5710,6 @@ engineless
 engineman
 enginemen
 enginery
-engineries
 ellwand
 enginous
 engirded
