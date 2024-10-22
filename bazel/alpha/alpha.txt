@@ -20009,6 +20009,7 @@ aplopappus
 armorproof
 armors
 armouchiquois
+azymous
 armour
 armourbearer
 armoured
@@ -25267,7 +25268,6 @@ azimin
 azimino
 aziminobenzene
 azymite
-azymous
 apostume
 azimuth
 azimuthal
