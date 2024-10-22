@@ -12411,7 +12411,6 @@ bructeri
 brooders
 bondservant
 bowmaking
-bondship
 bondslave
 bondsman
 bondsmen
@@ -15693,6 +15692,7 @@ broadways
 bamangwato
 broadwise
 broadwives
+bondship
 boutel
 brob
 brobdingnag
