@@ -9558,6 +9558,7 @@ checkpointing
 checkpoints
 commonize
 checkrack
+colter
 checkrail
 checkrein
 checkroll
@@ -19492,7 +19493,6 @@ colpotomy
 colpotomies
 colpus
 colstaff
-colter
 colters
 colthood
 coltishly
