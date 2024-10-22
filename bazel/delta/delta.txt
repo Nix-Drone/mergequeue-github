@@ -8941,6 +8941,7 @@ dicyclies
 dicyclist
 demountable
 dicyema
+documented
 dicyemata
 dicyemid
 dicyemida
@@ -10558,7 +10559,6 @@ diplogenesis
 doxographical
 diplogenetic
 diplogenic
-documented
 diplographical
 diplohedral
 diazoles
