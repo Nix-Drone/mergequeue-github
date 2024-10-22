@@ -2425,7 +2425,6 @@ downstair
 dialogs
 degorder
 decimeters
-decimetre
 daysman
 dangering
 daker
@@ -14278,6 +14277,7 @@ diverb
 downstage
 diverberate
 diverged
+decimetre
 divergement
 divergence
 divergences
