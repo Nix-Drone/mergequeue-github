@@ -2471,7 +2471,6 @@ daphnioid
 deckhand
 deckhead
 deckhouse
-deckle
 deckman
 deckpipe
 decks
@@ -13431,6 +13430,7 @@ disruptor
 disturbor
 drused
 dismaw
+deckle
 disrupts
 drainage
 diss
