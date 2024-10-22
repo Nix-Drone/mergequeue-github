@@ -2545,6 +2545,7 @@ crafting
 cankereat
 cankered
 cankeredly
+cornflower
 cubitopalmar
 caraipe
 cankeredness
@@ -25343,7 +25344,6 @@ cornflag
 cornflakes
 cornfloor
 cornflour
-cornflower
 cornflowers
 corngrower
 cornhole
