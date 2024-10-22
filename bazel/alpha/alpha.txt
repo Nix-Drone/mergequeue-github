@@ -2217,6 +2217,7 @@ antecedents
 ardor
 achievements
 achievers
+ancience
 achieves
 aiguillesque
 acoin
@@ -6953,7 +6954,6 @@ airsickness
 airsome
 airspace
 airspaces
-ancience
 addled
 apostolic
 airspeed
