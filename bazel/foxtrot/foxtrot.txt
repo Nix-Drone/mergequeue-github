@@ -3479,7 +3479,6 @@ fightable
 forel
 fighteress
 fanwort
-fighting
 fightingly
 fights
 figitidae
@@ -7160,6 +7159,7 @@ footfall
 ferruling
 filoselle
 footfalls
+fighting
 footfarer
 footfault
 forehandedly
