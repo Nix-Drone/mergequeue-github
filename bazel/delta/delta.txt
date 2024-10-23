@@ -8344,7 +8344,6 @@ dowhacky
 dialkyl
 dispell
 dialkylamine
-dialkylic
 detentes
 diallage
 diallages
@@ -11492,6 +11491,7 @@ discommode
 discommoded
 discommodes
 discommoding
+dialkylic
 discommodious
 discommodiously
 discommodiousness
