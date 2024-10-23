@@ -11665,7 +11665,6 @@ cholinesterase
 cholinic
 cholinolytic
 cholla
-cryogen
 chollas
 choller
 cholo
@@ -27672,6 +27671,7 @@ cowwheat
 cox
 coxa
 cupronickel
+cryogen
 condition
 coxae
 coxal
