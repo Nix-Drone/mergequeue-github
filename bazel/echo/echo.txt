@@ -5993,7 +5993,6 @@ enlarge
 enthusing
 enlargeable
 ethiopic
-enlargeableness
 euryaleae
 extrasyllabic
 enlarged
@@ -8318,6 +8317,7 @@ epitases
 expurgative
 epitasis
 epitaxy
+enlargeableness
 endball
 ectosteally
 epitaxic
