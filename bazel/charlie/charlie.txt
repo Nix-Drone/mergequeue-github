@@ -8827,7 +8827,6 @@ chapelward
 chaperno
 chaperon
 chaperonage
-chaperone
 chaperoned
 chaperonless
 chaperons
@@ -14612,6 +14611,7 @@ cyst
 cista
 cistaceae
 cistaceous
+chaperone
 cystadenoma
 cystadenosarcoma
 cystalgia
