@@ -2721,7 +2721,6 @@ barleducs
 barley
 barleybrake
 barleybreak
-barleycorn
 barleyhood
 blowzing
 briers
@@ -4171,6 +4170,7 @@ beanweed
 beaproned
 bearability
 bearably
+barleycorn
 bearance
 bearbaiter
 bearbane
