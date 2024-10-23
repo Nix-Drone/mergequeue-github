@@ -4714,7 +4714,6 @@ aecidiomycetes
 aecidiospore
 aecidiostage
 aecidium
-aeciospore
 aeciostage
 abr
 aecioteliospore
@@ -7847,6 +7846,7 @@ alemannish
 alembic
 adulterately
 alembicated
+aeciospore
 alembics
 alembroth
 alemite
