@@ -6475,7 +6475,6 @@ benzol
 benzole
 benzoline
 benzolize
-benzols
 benzonaphthol
 benzonitrile
 benzoperoxide
@@ -15429,6 +15428,7 @@ besom
 brimmered
 bicornuate
 brimmering
+benzols
 brimmers
 brimming
 brimmingly
