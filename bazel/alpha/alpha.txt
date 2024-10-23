@@ -6022,7 +6022,6 @@ agglutinogen
 agglutinogenic
 agglutinoid
 agglutinoscope
-agglutogenic
 aleshot
 aggrace
 aggradation
@@ -11360,6 +11359,7 @@ aneroids
 amritas
 astomous
 amritsar
+agglutogenic
 amsath
 adulteries
 afterwitted
