@@ -15302,7 +15302,6 @@ domesticability
 domesticality
 domestically
 domesticate
-domesticated
 domesticates
 domesticating
 draftsperson
@@ -17818,6 +17817,7 @@ duckpond
 dishouse
 ducks
 deperm
+domesticated
 dotiness
 duckstone
 decussion
