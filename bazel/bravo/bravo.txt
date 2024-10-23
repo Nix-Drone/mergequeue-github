@@ -3652,7 +3652,6 @@ balourdise
 bathochromic
 bathoflore
 bathofloric
-batholith
 batholithic
 batholiths
 batholitic
@@ -14135,6 +14134,7 @@ bradycauma
 bradycrotic
 bauds
 bashed
+batholith
 bradydactylia
 bradyesthesia
 bedarkens
