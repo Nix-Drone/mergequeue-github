@@ -2435,6 +2435,7 @@ electroengraving
 electroextraction
 expedient
 electroform
+enmuffle
 electroforming
 electrofusion
 ethanol
@@ -6088,7 +6089,6 @@ ethicizes
 enmities
 enmoss
 enmove
-enmuffle
 enneacontahedron
 ennead
 enhaloing
