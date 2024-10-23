@@ -2585,6 +2585,7 @@ ferriages
 ferryboat
 ferryboats
 familistery
+futhermore
 ferricyanate
 ferrandin
 furiosity
@@ -11678,7 +11679,6 @@ flushable
 fut
 futchel
 fute
-futhermore
 freshwater
 futhorc
 fural
