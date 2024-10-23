@@ -13601,7 +13601,6 @@ announce
 announced
 announcements
 announcers
-announces
 announcing
 annualize
 annualized
@@ -17449,6 +17448,7 @@ aposteme
 aposteriori
 aposthia
 aposthume
+announces
 apostil
 apostille
 apostils
