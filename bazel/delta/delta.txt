@@ -1598,7 +1598,6 @@ dealkalize
 dealkylate
 dealkylation
 deallocate
-deallocated
 daunter
 deallocates
 deallocating
@@ -9274,6 +9273,7 @@ digest
 dieting
 decolorant
 dietitian
+deallocated
 dietitians
 dtset
 dietotherapeutics
