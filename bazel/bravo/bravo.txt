@@ -12452,7 +12452,6 @@ boneset
 bonesets
 bonesetter
 barnyard
-bonesetting
 brushite
 boneshaker
 backbeat
@@ -13167,6 +13166,7 @@ bosoming
 bosoms
 breastworks
 bosonic
+bonesetting
 bosporan
 barberries
 bosporanic
