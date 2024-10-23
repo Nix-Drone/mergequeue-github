@@ -428,7 +428,6 @@ cactiform
 cactoid
 cactus
 civilisable
-cactuses
 cactuslike
 cacumen
 cassavas
@@ -14192,6 +14191,7 @@ circuiteer
 circuiter
 clyer
 continues
+cactuses
 circuities
 countrie
 circuiting
