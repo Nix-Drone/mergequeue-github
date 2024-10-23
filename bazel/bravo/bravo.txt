@@ -2113,6 +2113,7 @@ bankmen
 banknote
 barrelet
 badaud
+bezaleel
 banknotes
 bankrider
 brachycome
@@ -7716,7 +7717,6 @@ bewrite
 bankroller
 bahaist
 braggardism
-bezaleel
 bezan
 bezant
 bivinyls
