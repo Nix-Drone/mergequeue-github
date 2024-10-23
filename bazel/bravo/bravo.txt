@@ -1409,7 +1409,6 @@ blithebread
 baldest
 broadhearted
 baldhead
-baldheaded
 baldheads
 bussu
 baldy
@@ -15229,6 +15228,7 @@ bride
 blowout
 bogies
 bridebed
+baldheaded
 bridecake
 bulgarophil
 bridechamber
