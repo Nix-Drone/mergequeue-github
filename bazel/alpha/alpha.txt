@@ -11705,7 +11705,6 @@ analepses
 analeptic
 anthidium
 analeptical
-analgen
 analgene
 analgesia
 analgesic
@@ -17007,6 +17006,7 @@ apiculated
 apiculi
 astrographic
 apicultural
+analgen
 apiculturist
 apiculus
 apiece
