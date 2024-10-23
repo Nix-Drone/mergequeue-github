@@ -4038,7 +4038,6 @@ anesthetic
 adjutator
 adjute
 adjutor
-adjutory
 adjutorious
 adjutrice
 adjutrix
@@ -23850,6 +23849,7 @@ ackmen
 autism
 autisms
 actualized
+adjutory
 achroacyte
 auto
 autoabstract
