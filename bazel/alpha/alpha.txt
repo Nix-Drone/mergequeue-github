@@ -6019,7 +6019,6 @@ agglutinins
 agglutinize
 alls
 agglutinogen
-agglutinogenic
 agglutinoid
 agglutinoscope
 agglutogenic
@@ -18831,6 +18830,7 @@ adinidan
 archduchesses
 archduchy
 accombination
+agglutinogenic
 archduchies
 archduke
 archdukedom
