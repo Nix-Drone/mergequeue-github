@@ -5014,7 +5014,6 @@ aeromechanic
 aeromechanics
 aeromedical
 aeromedicine
-aerometeorograph
 aerometer
 aerometry
 abluted
@@ -22684,6 +22683,7 @@ apilary
 atlatls
 atle
 atloaxoid
+aerometeorograph
 atloid
 atloidean
 atloidoaxoid
