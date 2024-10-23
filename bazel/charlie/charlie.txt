@@ -11558,6 +11558,7 @@ cholecystenterorrhaphy
 cholecystenterostomy
 cholecystgastrostomy
 cholecystic
+costopleural
 cholecystis
 cholecystitis
 cozies
@@ -26247,7 +26248,6 @@ costocoracoid
 costogenic
 costoinferior
 consultative
-costopleural
 costopneumopexy
 costopulmonary
 costoscapular
