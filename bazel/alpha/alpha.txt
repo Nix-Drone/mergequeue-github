@@ -3711,7 +3711,6 @@ adenomyxosarcoma
 adenoncus
 adenoneural
 adenoneure
-adenopharyngeal
 archosyrinx
 autosensitization
 adenopharyngitis
@@ -10110,6 +10109,7 @@ ambulates
 ambulatio
 ambulation
 ambulative
+adenopharyngeal
 ambulator
 ambulatory
 ambulatoria
