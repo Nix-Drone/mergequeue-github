@@ -3151,7 +3151,6 @@ citadel
 catabatic
 capitelliform
 capitellum
-capitle
 compenetrate
 capito
 capitol
@@ -8985,6 +8984,7 @@ charge
 chargeability
 chargeable
 chargeableness
+capitle
 chargeant
 charged
 chargedness
