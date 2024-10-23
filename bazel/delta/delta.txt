@@ -6071,7 +6071,6 @@ disminister
 dungeonlike
 deputizes
 deputizing
-dequantitate
 dequeue
 dequeues
 dequeuing
@@ -9696,6 +9695,7 @@ dilatometry
 dilatometrically
 dilator
 dedanim
+dequantitate
 dilatory
 dildo
 dreamingly
