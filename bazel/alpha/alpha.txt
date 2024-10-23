@@ -3561,7 +3561,6 @@ addressable
 addressees
 addresser
 addressers
-addresses
 auxetics
 addressful
 addressing
@@ -9300,6 +9299,7 @@ alphabetizes
 alphabetizing
 aptera
 alphabetology
+addresses
 alphameric
 alphamerically
 alphanumerical
