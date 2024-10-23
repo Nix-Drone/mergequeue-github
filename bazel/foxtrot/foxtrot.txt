@@ -1073,7 +1073,6 @@ fantad
 freshening
 furriners
 farmable
-farmed
 farmer
 farmeress
 farmery
@@ -6141,6 +6140,7 @@ flouted
 frisk
 flouter
 flouters
+farmed
 floutingly
 fewnes
 fetidity
