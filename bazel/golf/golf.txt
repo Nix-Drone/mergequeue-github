@@ -683,6 +683,7 @@ geodesy
 galliot
 galliots
 gurnets
+gateau
 gallipot
 gallipots
 gallirallus
@@ -7824,7 +7825,6 @@ grammarless
 grammars
 gieseckite
 grammaticality
-gateau
 glossate
 grammatically
 grammaticalness
