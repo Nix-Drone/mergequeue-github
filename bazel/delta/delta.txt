@@ -4142,7 +4142,6 @@ deliliria
 decimalizing
 delim
 delimed
-delimes
 deliming
 delimit
 delimitate
@@ -14091,6 +14090,7 @@ disvalued
 doses
 disvaluing
 disvantage
+delimes
 disvelop
 disventure
 disvisage
