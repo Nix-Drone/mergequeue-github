@@ -212,7 +212,6 @@ factorization
 fab
 factorizations
 fluviose
-factorize
 factorized
 factorizing
 factors
@@ -6829,6 +6828,7 @@ foldedly
 folden
 fluorins
 folder
+factorize
 featherpated
 folderols
 folders
