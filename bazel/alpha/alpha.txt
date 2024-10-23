@@ -11695,7 +11695,6 @@ anchietea
 analcimite
 analcite
 analcites
-analcitite
 analecta
 analects
 analemma
@@ -22261,6 +22260,7 @@ astrograph
 astrographer
 assidean
 astrography
+analcitite
 astrohatch
 astroid
 astroite
