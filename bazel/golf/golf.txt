@@ -3623,7 +3623,6 @@ getling
 getmjlkost
 goners
 getspace
-getsul
 gnawingly
 guidons
 gitalin
@@ -8592,6 +8591,7 @@ gulas
 grecism
 granter
 greco
+getsul
 galactoscope
 grecomania
 gordonia
