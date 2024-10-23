@@ -6276,7 +6276,6 @@ folkloristic
 feigning
 fluidacetextract
 fluidally
-fluidextract
 fluidglycerate
 fluidible
 forcepslike
@@ -10314,6 +10313,7 @@ frogginess
 frogging
 froggish
 foundries
+fluidextract
 froghood
 finn
 froghopper
