@@ -3937,7 +3937,6 @@ dekameters
 debutante
 decumani
 dekaparsec
-dactylioglyphy
 dekapode
 dekarch
 dekare
@@ -7510,6 +7509,7 @@ deval
 devall
 devaloka
 devalorize
+dactylioglyphy
 devaluate
 devaluated
 devaluates
