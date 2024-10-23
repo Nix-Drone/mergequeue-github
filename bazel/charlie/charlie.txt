@@ -14691,7 +14691,6 @@ cystoepithelioma
 cystofibroma
 cystoflagellata
 cystogenesis
-cystogenous
 cystogram
 cystoid
 cystoidea
@@ -27387,6 +27386,7 @@ couthest
 couthy
 couthie
 couthier
+cystogenous
 couthiest
 couthiness
 couthless
