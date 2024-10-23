@@ -5066,7 +5066,6 @@ casehardened
 casehardening
 casehardens
 casey
-caseic
 casein
 caseinate
 cordites
@@ -25044,6 +25043,7 @@ coregonine
 coregonoid
 chlorinate
 coregonus
+caseic
 corey
 coreid
 coreidae
