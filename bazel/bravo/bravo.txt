@@ -2011,6 +2011,7 @@ bandster
 ballroom
 bandstop
 bandstring
+basifixed
 bandura
 bandurria
 bandurrias
@@ -3261,7 +3262,6 @@ basification
 basifier
 basifies
 basifying
-basifixed
 basifugal
 basigamy
 basigenous
