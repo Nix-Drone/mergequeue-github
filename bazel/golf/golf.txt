@@ -6144,7 +6144,6 @@ gluneamie
 glusid
 gluside
 glut
-glutamate
 geodesics
 glutamates
 glutamic
@@ -10578,6 +10577,7 @@ gunslinger
 gunslingers
 gunslinging
 gunsman
+glutamate
 goujon
 gunsmith
 gunsmithery
