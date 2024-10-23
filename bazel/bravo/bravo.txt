@@ -4160,7 +4160,6 @@ beanlike
 beano
 beanos
 beanpole
-beanpoles
 beans
 beansetter
 beanshooter
@@ -8730,6 +8729,7 @@ billsticker
 billtong
 bilobate
 bilobated
+beanpoles
 bilobe
 bilobed
 bilobiate
