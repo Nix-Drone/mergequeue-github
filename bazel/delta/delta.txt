@@ -1478,6 +1478,7 @@ deaconries
 deacons
 deaconship
 deactivate
+defortify
 deactivated
 deactivates
 discontinuing
@@ -16869,7 +16870,6 @@ dropforging
 dinoceratid
 drawstrings
 drawtongs
-defortify
 drawtube
 decanically
 drawtubes
