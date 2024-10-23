@@ -1741,6 +1741,7 @@ dobroes
 dodecuplet
 demagnetisable
 debarked
+deloo
 debarking
 debarkment
 debarks
@@ -4262,7 +4263,6 @@ delocalize
 delocalizing
 delomorphic
 delomorphous
-deloo
 deloul
 decocted
 deloused
