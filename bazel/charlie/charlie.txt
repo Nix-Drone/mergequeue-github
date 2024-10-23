@@ -7767,7 +7767,6 @@ certifiability
 certifiable
 coliiformes
 certifiableness
-certificate
 certificated
 certificates
 certificating
@@ -10602,6 +10601,7 @@ chylocaulous
 chylocaulously
 chylocele
 chylocyst
+certificate
 chilodon
 chilognatha
 chilognathous
