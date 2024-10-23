@@ -5229,7 +5229,6 @@ affa
 affability
 affable
 affabrous
-affair
 affaire
 affaires
 affairs
@@ -8522,6 +8521,7 @@ allah
 allay
 allayed
 allayers
+affair
 allaying
 allayment
 acyclically
