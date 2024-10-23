@@ -1897,7 +1897,6 @@ debted
 debtee
 debtful
 debtless
-debtor
 debtors
 debugger
 debuggers
@@ -10807,6 +10806,7 @@ directorially
 departing
 directors
 directorships
+debtor
 directress
 directrix
 direful
