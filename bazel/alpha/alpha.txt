@@ -13176,7 +13176,6 @@ animated
 animatedly
 actionable
 animater
-animaters
 animates
 animating
 animatingly
@@ -22749,6 +22748,7 @@ atomatic
 atomechanics
 atomerg
 atomy
+animaters
 atomic
 atomical
 atomically
