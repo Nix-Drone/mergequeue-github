@@ -26552,7 +26552,6 @@ coulie
 coulier
 coulisses
 couloir
-coulomb
 coulombmeter
 coulombs
 coulometer
@@ -29880,6 +29879,7 @@ crossings
 caulicule
 crossite
 crossjack
+coulomb
 crosslap
 crosslegs
 complainer
