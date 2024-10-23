@@ -13426,7 +13426,6 @@ cleaners
 cyclostyle
 cyclostoma
 cyclostomata
-cyclostomate
 cyclostomatidae
 charadriidae
 coremia
@@ -16269,6 +16268,7 @@ compagination
 clinohumite
 clinoid
 coprolalia
+cyclostomate
 clinology
 clinologic
 clinometer
