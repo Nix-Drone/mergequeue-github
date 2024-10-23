@@ -676,6 +676,7 @@ felicitator
 fameworthy
 forereport
 familial
+front
 familiarisation
 familiarise
 familiarised
@@ -4825,7 +4826,6 @@ flay
 feridji
 flayed
 fault
-front
 flayer
 flaying
 flailed
