@@ -4326,7 +4326,6 @@ beautification
 beautifications
 benzal
 beautified
-beautifier
 biriba
 beautifiers
 beautifying
@@ -11763,6 +11762,7 @@ boder
 bodes
 bodewash
 bodeword
+beautifier
 bodge
 bodger
 brashes
