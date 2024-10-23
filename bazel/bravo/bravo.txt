@@ -4249,6 +4249,7 @@ beastliness
 beastling
 beastlings
 beastship
+bowstaff
 beat
 beata
 beatable
@@ -12946,7 +12947,6 @@ bordels
 backpacker
 border
 bordereau
-bowstaff
 bordered
 borderer
 borderers

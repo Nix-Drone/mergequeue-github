@@ -4588,6 +4588,7 @@ gips
 gyp
 gyps
 gipseian
+glaucin
 gipser
 gipsy
 gypsy
@@ -5237,7 +5238,6 @@ glauberite
 glaucescent
 glaucidium
 grapnels
-glaucin
 glaucine
 glaucionetta
 glaucium
