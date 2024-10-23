@@ -13244,6 +13244,7 @@ cyclamate
 climbable
 cyclamates
 cyclamen
+colortype
 cyclamens
 carrotwood
 cyclamin
@@ -19396,7 +19397,6 @@ colorman
 coloroto
 colorrhaphy
 colors
-colortype
 cutose
 cleptomania
 colorum
