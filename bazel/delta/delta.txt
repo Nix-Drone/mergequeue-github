@@ -6014,7 +6014,6 @@ depsid
 depside
 depsides
 dept
-depth
 depthen
 depthless
 depthlessness
@@ -8644,6 +8643,7 @@ diaspores
 dyassic
 deoxyribonuclease
 diastalsis
+depth
 diastases
 dahabiahs
 damagingly

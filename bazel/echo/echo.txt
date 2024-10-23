@@ -2568,7 +2568,6 @@ encephalalgia
 electrophysicist
 electrophysics
 electrophysiological
-exportability
 electrophore
 ecphova
 electrophorese
@@ -5631,6 +5630,7 @@ enfrai
 enframe
 enframed
 enframing
+exportability
 enfranch
 enfranchised
 erasability
