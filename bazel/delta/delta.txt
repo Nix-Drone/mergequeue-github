@@ -3249,6 +3249,7 @@ defences
 defend
 defendable
 demimondaine
+diaeretic
 dejeuners
 defendants
 defended
@@ -8184,7 +8185,6 @@ diadumenus
 diaene
 diaereses
 diaeresis
-diaeretic
 deceivableness
 diaetetae
 dimerlie
