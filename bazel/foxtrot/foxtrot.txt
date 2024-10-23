@@ -1699,7 +1699,6 @@ four
 fdnames
 fdtype
 fdub
-fortuitousness
 fe
 forksmith
 feaberry
@@ -7911,6 +7910,7 @@ frankalmoin
 frenchify
 forerank
 forereach
+fortuitousness
 forereading
 forerecited
 forereckon
