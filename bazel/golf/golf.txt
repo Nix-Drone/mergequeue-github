@@ -1929,6 +1929,7 @@ gasworks
 gatch
 gate
 gateage
+geodiferous
 gatecrasher
 gatecrashers
 gated
@@ -3060,7 +3061,6 @@ geodetic
 gemstones
 geodetical
 geodetician
-geodiferous
 geodynamic
 geodynamical
 geodynamics
