@@ -3820,7 +3820,6 @@ buhr
 battlesome
 boatfalls
 banderilla
-battlestead
 battlewagon
 battleward
 battlewise
@@ -9578,6 +9577,7 @@ biscayanism
 barbal
 biscayen
 biscayner
+battlestead
 biscanism
 bischofite
 biscotin
