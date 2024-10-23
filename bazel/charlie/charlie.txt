@@ -9201,7 +9201,6 @@ chasers
 chases
 chashitsu
 chasid
-chasidim
 chasings
 chasm
 chasma
@@ -23344,6 +23343,7 @@ containerization
 containerize
 containerizes
 containerizing
+chasidim
 chemasthenia
 containerport
 cyrtostyle
