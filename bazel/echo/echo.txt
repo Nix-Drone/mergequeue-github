@@ -5840,7 +5840,6 @@ engs
 ensynopticity
 endocarditic
 engulf
-engulfed
 epicardial
 engulfing
 episcopalian
@@ -13454,6 +13453,7 @@ exsculptate
 exscutellate
 exsec
 exsect
+engulfed
 eutaxie
 excitements
 exsected
