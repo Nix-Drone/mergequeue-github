@@ -5351,6 +5351,7 @@ affix
 affixable
 affixal
 affixation
+allowances
 affixed
 affixer
 affixers
@@ -20329,7 +20330,6 @@ arrope
 arrosion
 aphanesite
 arrosive
-allowances
 arround
 arrouse
 arrow
