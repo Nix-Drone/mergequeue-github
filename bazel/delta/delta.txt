@@ -7031,6 +7031,7 @@ destrier
 destriers
 destroy
 destroyable
+dustrags
 destroyed
 dismays
 destroyer
@@ -18589,7 +18590,6 @@ dustour
 dustpan
 dustrag
 detracts
-dustrags
 dissentient
 dorsalmost
 dittologies
