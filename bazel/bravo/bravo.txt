@@ -9323,7 +9323,6 @@ biplanar
 biplane
 bobolink
 biplanes
-biplicate
 biplicity
 banishments
 biplosion
@@ -18191,6 +18190,7 @@ butyrin
 butyrins
 bionomist
 butyrochloral
+biplicate
 butyrolactone
 butyrometer
 butyrometric
