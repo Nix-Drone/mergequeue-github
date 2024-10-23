@@ -19279,7 +19279,6 @@ colonised
 colonises
 capture
 colonising
-colonist
 chiromancer
 colonizability
 colonizable
@@ -23309,6 +23308,7 @@ contacted
 contactile
 congests
 coverups
+colonist
 contacting
 czechoslovakia
 contaction
