@@ -559,7 +559,6 @@ backvelder
 backway
 backwall
 bewhite
-backward
 backwardation
 backwardly
 backwardness
@@ -9016,6 +9015,7 @@ biogens
 biogeochemical
 biogeochemistry
 biogeographer
+backward
 biogeography
 biogeographic
 biogeographical
