@@ -3377,7 +3377,6 @@ fieldish
 fieldleft
 fieldman
 fibrillae
-financist
 fascio
 fieldmice
 fieldmouse
@@ -6457,6 +6456,7 @@ fluoroformol
 fluorogen
 fluorometer
 fluorometry
+financist
 fluoroscopes
 forechamber
 foreseeing
