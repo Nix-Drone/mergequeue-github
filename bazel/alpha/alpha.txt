@@ -18786,7 +18786,6 @@ archbuffoon
 archbuilder
 archchampion
 archcheater
-archchemic
 archchronicler
 archconfraternity
 archconsoler
@@ -22980,6 +22979,7 @@ attaint
 attainted
 attainting
 attaintment
+archchemic
 attaints
 attainture
 attal
