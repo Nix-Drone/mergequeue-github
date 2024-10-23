@@ -6037,7 +6037,6 @@ embossment
 enlinkment
 enlist
 enlisted
-enlistees
 enlister
 epistrophe
 enlistment
@@ -11745,6 +11744,7 @@ exaggerators
 exagitate
 exairesis
 exalate
+enlistees
 exalbuminose
 exalbuminous
 exallotriote
