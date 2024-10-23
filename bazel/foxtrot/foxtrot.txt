@@ -2393,7 +2393,6 @@ flaxseed
 feoffors
 furor
 fidelis
-feoffs
 fumant
 fer
 farriers
@@ -3053,6 +3052,7 @@ frostflower
 fiatconfirmatio
 fiats
 fiaunt
+feoffs
 fib
 fencibles
 fibbery
