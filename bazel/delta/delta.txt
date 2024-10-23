@@ -314,6 +314,7 @@ degeneracies
 demeter
 dahlin
 dahms
+delists
 dahoman
 dahomey
 dahomeyan
@@ -4218,7 +4219,6 @@ divaricately
 delist
 delisted
 delisting
-delists
 delit
 delitescence
 delitescency
