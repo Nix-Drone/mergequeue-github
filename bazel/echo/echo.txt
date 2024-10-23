@@ -1018,6 +1018,7 @@ edaphosauria
 edaphosaurid
 edaphosaurus
 edda
+encamps
 explosibility
 eddaic
 edder
@@ -4477,7 +4478,6 @@ encalendar
 encamping
 encampment
 encampments
-encamps
 endoparasite
 essene
 encanker
