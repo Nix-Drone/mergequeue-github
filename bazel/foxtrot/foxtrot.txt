@@ -524,6 +524,7 @@ falconinae
 falconnoid
 falconoid
 flecker
+flyweights
 folium
 falcons
 falcopern
@@ -5786,7 +5787,6 @@ flyways
 faunas
 further
 flyweight
-flyweights
 forthon
 fribblish
 flywinch
