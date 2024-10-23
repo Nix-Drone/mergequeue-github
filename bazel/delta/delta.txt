@@ -2656,7 +2656,6 @@ decompensations
 decompensatory
 decompiler
 decomponent
-decomponible
 decurved
 decomposability
 decomposable
@@ -3623,6 +3622,7 @@ degeneration
 degenerations
 dockages
 degenerative
+decomponible
 degeneratively
 decimolar
 degenerescence
