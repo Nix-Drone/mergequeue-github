@@ -3710,7 +3710,6 @@ carboline
 carbolineum
 carbolised
 carbolising
-carbolize
 carbolized
 carbolizes
 carbolizing
@@ -23953,6 +23952,7 @@ conuzee
 conuzor
 conv
 convalesce
+carbolize
 convalesced
 convalescence
 convalescently
