@@ -28298,7 +28298,6 @@ crawl
 cotenants
 crawled
 crawley
-crawleyroot
 crawler
 crawlerize
 crawlers
@@ -28738,6 +28737,7 @@ crescentic
 crescentiform
 chinking
 crescenting
+crawleyroot
 crescentlike
 crescentoid
 couronne
