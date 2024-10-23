@@ -296,7 +296,6 @@ eat
 eagerer
 eatability
 eatable
-eatables
 electrolyzability
 eatberry
 eaten
@@ -10209,6 +10208,7 @@ ethel
 etheling
 eucti
 elks
+eatables
 empasm
 ethenes
 ethenic
