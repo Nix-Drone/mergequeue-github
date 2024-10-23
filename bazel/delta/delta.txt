@@ -5864,6 +5864,7 @@ depositors
 deposits
 depositum
 daimon
+delivery
 doumaist
 decasualise
 deposure
@@ -14793,7 +14794,6 @@ dodecadrachm
 dodecafid
 dodecagon
 dodecahedral
-delivery
 dodecahedric
 dodecahedrons
 dodecahydrated
