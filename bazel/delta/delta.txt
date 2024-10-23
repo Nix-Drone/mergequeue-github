@@ -1188,7 +1188,6 @@ diospyraceae
 datapac
 datapunch
 disinvolve
-datary
 dataries
 dataset
 datasetname
@@ -7534,6 +7533,7 @@ doigte
 devastation
 doctored
 devastations
+datary
 disabler
 daijo
 devastative
