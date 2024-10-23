@@ -6827,7 +6827,6 @@ arresting
 airbursts
 antonina
 airbuses
-airbusses
 aircheck
 airchecks
 aircoaches
@@ -24511,6 +24510,7 @@ agriology
 auxiliaries
 auxiliarly
 auxiliate
+airbusses
 auxiliation
 auxilytic
 auxilium
