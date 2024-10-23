@@ -5809,7 +5809,6 @@ catface
 catfaced
 catfacing
 catfall
-catfalls
 catfight
 creeled
 catfish
@@ -23338,6 +23337,7 @@ containable
 contained
 colligance
 containedly
+catfalls
 container
 containerboard
 containerization
