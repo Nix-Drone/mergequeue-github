@@ -1156,7 +1156,6 @@ baisemain
 boardable
 baysmelt
 bridesmaids
-baister
 barrenest
 bait
 burgality
@@ -3128,6 +3127,7 @@ bascule
 baculite
 bipropellant
 bascules
+baister
 bascunan
 base
 baseball
