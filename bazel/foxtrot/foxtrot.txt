@@ -2499,7 +2499,6 @@ fermi
 founders
 fermila
 fermillet
-fermion
 frenchless
 flexity
 fermions
@@ -5127,6 +5126,7 @@ flimp
 flattening
 flattercap
 flatterdock
+fermion
 flattered
 fragmentized
 foolheadedness
