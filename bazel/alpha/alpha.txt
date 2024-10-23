@@ -4005,7 +4005,6 @@ adjugate
 airbus
 adjument
 adjunct
-adjunctive
 adjunctively
 adjunctly
 adjuration
@@ -12186,6 +12185,7 @@ anchormen
 asseverates
 anchors
 anchorwise
+adjunctive
 anchoveta
 anchovy
 anchovies
