@@ -3437,7 +3437,6 @@ deflexibility
 deflexible
 deflexing
 deflexion
-deflexionize
 deflexure
 deflocculant
 debasement
@@ -17675,6 +17674,7 @@ dsnames
 dsp
 dsr
 dsri
+deflexionize
 democratizes
 dtd
 dtente
