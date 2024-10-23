@@ -2832,7 +2832,6 @@ acroa
 acroaesthesia
 acroama
 acroamata
-acroamatic
 acroamatical
 abled
 ammonation
@@ -21861,6 +21860,7 @@ associations
 aphakial
 associative
 associatively
+acroamatic
 associativeness
 associativity
 associator
