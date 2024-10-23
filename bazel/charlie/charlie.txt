@@ -3007,7 +3007,6 @@ capataz
 capax
 capcase
 cape
-capeadores
 capel
 capelan
 capelans
@@ -5739,6 +5738,7 @@ categorisation
 categorise
 categorised
 categorising
+capeadores
 categorist
 categorization
 categorizations
