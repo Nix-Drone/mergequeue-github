@@ -1280,7 +1280,6 @@ annectent
 acanthocephala
 acanthocephali
 acanthocephalous
-acanthocereus
 acanthocladous
 argenton
 acanthodean
@@ -12493,6 +12492,7 @@ anemographic
 anemographically
 anemology
 anemologic
+acanthocereus
 anemological
 anemometer
 anemometers
