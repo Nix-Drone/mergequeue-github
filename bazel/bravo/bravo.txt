@@ -426,7 +426,6 @@ backpedal
 backpedaled
 backpedaling
 backpiece
-backplane
 backplanes
 backplate
 backpointer
@@ -12971,6 +12970,7 @@ bordun
 bordure
 bordures
 bore
+backplane
 boreable
 boread
 boreal
