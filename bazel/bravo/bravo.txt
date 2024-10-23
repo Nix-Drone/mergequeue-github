@@ -1676,7 +1676,6 @@ ballottine
 ballottines
 ballow
 blear
-ballplayer
 ballplayers
 ballplatz
 bedrabbled
@@ -10588,6 +10587,7 @@ buphthalmos
 bernese
 bleaky
 bleakly
+ballplayer
 buist
 bleakness
 bleaks
