@@ -1469,7 +1469,6 @@ frederick
 fatstock
 fatstocks
 fatted
-fatten
 fattenable
 fragilaria
 fattened
@@ -11535,6 +11534,7 @@ furtively
 furud
 flagon
 furuncle
+fatten
 furuncular
 furunculous
 foreordained
