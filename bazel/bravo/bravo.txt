@@ -2023,6 +2023,7 @@ bins
 barrad
 bdls
 bandwidth
+bootlicker
 bandwidths
 bandwork
 bandworm
@@ -12856,7 +12857,6 @@ bootless
 bootlessly
 bootlessness
 bootlick
-bootlicker
 bixin
 bootlicking
 betsy
