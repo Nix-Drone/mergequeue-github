@@ -8888,7 +8888,6 @@ charabancs
 charac
 characeae
 characetum
-characid
 characids
 characin
 clobberer
@@ -28070,6 +28069,7 @@ cranioclasty
 craniofacial
 craniognomic
 craniognosy
+characid
 craniograph
 craniographer
 craniography
