@@ -1908,7 +1908,6 @@ gastrostomize
 gastrostomus
 gastrotaxis
 gastrothecal
-gastrotome
 gastrotomy
 gastrotomic
 gastrotubotomy
@@ -3850,6 +3849,7 @@ gyascutus
 gyassa
 gib
 gibbals
+gastrotome
 gibbar
 gibbartas
 gabe
