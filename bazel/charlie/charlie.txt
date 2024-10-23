@@ -7571,7 +7571,6 @@ cerebellocortex
 constrain
 cerebellopontile
 cerebellopontine
-cerebellorubral
 cerebellospinal
 cerebellum
 cerebellums
@@ -8783,6 +8782,7 @@ chap
 chapacuran
 chapah
 charlie
+cerebellorubral
 chapapote
 chaparajos
 chaparejos
