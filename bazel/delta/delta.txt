@@ -2426,6 +2426,7 @@ dialogs
 degorder
 decimeters
 decimetre
+disard
 daysman
 dangering
 daker
@@ -7813,7 +7814,6 @@ dewanny
 dewar
 dewatered
 dewaters
-disard
 desmocyte
 dewaxed
 dewaxing
