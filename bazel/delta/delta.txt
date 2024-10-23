@@ -331,7 +331,6 @@ dayakker
 dayal
 dayan
 dayanim
-diau
 daybeacon
 dipylon
 daybed
@@ -16834,6 +16833,7 @@ drawgate
 drawglove
 dishonorary
 drawhead
+diau
 drawing
 drawings
 drawknives
