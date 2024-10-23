@@ -2626,7 +2626,6 @@ electroshock
 electroshocks
 electrosynthesis
 electrosynthetically
-envenoms
 electrosmosis
 electrostatic
 electrostatical
@@ -9831,6 +9830,7 @@ evacuants
 expositoriness
 exsuperate
 espundia
+envenoms
 esq
 esquamulose
 esquire
