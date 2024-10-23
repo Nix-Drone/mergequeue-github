@@ -2479,6 +2479,7 @@ electrolyses
 electrolysing
 electrolysis
 electrolyte
+equielliptical
 electrolithotrity
 epitomisation
 exoskeleton
@@ -13319,7 +13320,6 @@ expostulates
 expostulating
 expostulatingly
 expostulations
-equielliptical
 expostulative
 expostulatively
 expostulatory
