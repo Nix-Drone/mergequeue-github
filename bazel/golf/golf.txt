@@ -1275,6 +1275,7 @@ gape
 gaped
 gaper
 generalizable
+glycogenase
 gruis
 gothic
 gapeseed
@@ -5437,7 +5438,6 @@ glycocoll
 glycogelatin
 glycogen
 galactogogue
-glycogenase
 glycogeny
 glycogenic
 glycogenize
