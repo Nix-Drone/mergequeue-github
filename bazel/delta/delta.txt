@@ -7299,7 +7299,6 @@ detickers
 deticks
 detin
 detinet
-detinue
 detinues
 detinuit
 detn
@@ -18445,6 +18444,7 @@ durables
 durably
 discolorate
 dreidl
+detinue
 duracine
 durain
 dementi
