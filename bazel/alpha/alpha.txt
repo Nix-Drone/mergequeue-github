@@ -5136,7 +5136,6 @@ aesir
 acrosarc
 aesop
 aesopian
-aesopic
 aestethic
 aesthesodic
 aesthete
@@ -8720,6 +8719,7 @@ allis
 allision
 alliteral
 alliterate
+aesopic
 alliterated
 alliterates
 asclepin
