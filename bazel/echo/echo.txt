@@ -9473,7 +9473,6 @@ entrance
 enkindle
 escalator
 escalier
-escalin
 escallonia
 expendability
 escalloniaceae
@@ -11840,6 +11839,7 @@ eth
 exarticulate
 exarticulation
 euthenic
+escalin
 exasperate
 exasperated
 equicrural
