@@ -4835,7 +4835,6 @@ aequian
 arariba
 aequiculi
 aequipalpia
-aequor
 aequoreal
 aequorin
 aerophile
@@ -5907,6 +5906,7 @@ agave
 agaves
 agaz
 agaze
+aequor
 agazed
 agba
 abrenunciation
