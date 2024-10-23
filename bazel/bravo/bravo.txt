@@ -1442,7 +1442,6 @@ baldwin
 bale
 baleare
 balearian
-branchiostomidae
 balearic
 balearica
 balebos
@@ -12242,6 +12241,7 @@ boltwork
 bolus
 boluses
 benn
+branchiostomidae
 bomb
 bombable
 bombacaceae
