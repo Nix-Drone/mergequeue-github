@@ -5735,6 +5735,7 @@ categorical
 categorically
 categoricalness
 categories
+clow
 categorisation
 categorise
 categorised
@@ -8585,7 +8586,6 @@ chanabal
 chanca
 chance
 chanceably
-clow
 chanced
 certifiably
 chanceful
