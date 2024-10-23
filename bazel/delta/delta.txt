@@ -9051,7 +9051,6 @@ dictyopteris
 dictyosiphon
 dictyosiphonaceae
 dictyosiphonaceous
-dictyosome
 dullhead
 dictyota
 dictyotaceae
@@ -13631,6 +13630,7 @@ dissipations
 dissipative
 dissipator
 dissipators
+dictyosome
 donates
 danburite
 diatomiferous
