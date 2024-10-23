@@ -9279,7 +9279,6 @@ biped
 bipedal
 bipedality
 bipedism
-bipeds
 bipeltate
 blepharophthalmia
 bipennate
@@ -15898,6 +15897,7 @@ broomball
 bromisms
 bromius
 bromization
+bipeds
 bromize
 buying
 bromized
