@@ -11662,6 +11662,7 @@ choline
 cholinergic
 cholines
 cholinesterase
+classless
 cholinic
 cholinolytic
 cholla
@@ -15637,7 +15638,6 @@ classis
 classism
 classisms
 classists
-classless
 classlessness
 cytopathology
 cyproheptadine
