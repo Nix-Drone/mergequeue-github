@@ -5239,6 +5239,7 @@ bestrows
 begattal
 bastes
 begaud
+burglarizing
 begaudy
 bobbled
 begaze
@@ -17655,7 +17656,6 @@ burglarize
 bearlet
 burglarized
 burglarizes
-burglarizing
 burglarproof
 burglarproofed
 berat
