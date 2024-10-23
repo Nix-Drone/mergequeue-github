@@ -5993,7 +5993,6 @@ deprivation
 deprive
 deprived
 deprivement
-depriver
 deprivers
 dixit
 dawks
@@ -15153,6 +15152,7 @@ doucine
 dolichocranic
 dolichofacial
 dolichohieric
+depriver
 dolichopellic
 dolichoprosopic
 dolichos
