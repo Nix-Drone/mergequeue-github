@@ -4043,6 +4043,7 @@ beacons
 beaded
 bequirtle
 beadeye
+bluff
 beadeyes
 banderols
 beader
@@ -11405,7 +11406,6 @@ blintze
 blueweeds
 bluewood
 bluewoods
-bluff
 bluffable
 berith
 brunette
