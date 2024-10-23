@@ -2988,7 +2988,6 @@ capacitated
 cooperators
 capacitations
 capacitative
-capacitativly
 capacitator
 capacity
 capacities
@@ -6306,6 +6305,7 @@ cauter
 cropsickness
 cautery
 cauteries
+capacitativly
 cauterisation
 cauterise
 cauterised
