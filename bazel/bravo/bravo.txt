@@ -688,7 +688,6 @@ bacteriotrypsin
 bynames
 bacteriotropic
 blepharedema
-bacterious
 bacteririum
 bacteritic
 barbotte
@@ -16391,6 +16390,7 @@ brushed
 brusher
 booted
 brushes
+bacterious
 bedstock
 brushet
 brushful
