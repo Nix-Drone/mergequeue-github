@@ -4754,7 +4754,6 @@ gallies
 giro
 glossae
 gyro
-gyroceran
 gallery
 guildsman
 golliwogg
@@ -9572,6 +9571,7 @@ gladlier
 gothicism
 geoglossum
 gouaree
+gyroceran
 grows
 gempylid
 grizzlier
