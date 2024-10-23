@@ -10215,7 +10215,6 @@ dinting
 dianite
 dintless
 dints
-dinumeration
 dinus
 diobol
 dioc
@@ -14685,6 +14684,7 @@ dockworker
 docmac
 docoglossa
 docoglossan
+dinumeration
 docoglossate
 docosane
 docosanoic
