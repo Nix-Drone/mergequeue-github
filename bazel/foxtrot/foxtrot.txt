@@ -1485,7 +1485,6 @@ fattier
 featherweight
 fatties
 forceable
-fattiness
 funis
 fattishness
 fattrels
@@ -3701,6 +3700,7 @@ farle
 filipendula
 filipendulous
 filipina
+fattiness
 filipiniana
 fistwise
 filipinization
