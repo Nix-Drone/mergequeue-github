@@ -9759,7 +9759,6 @@ espacement
 espada
 espadon
 espadrilles
-endamaged
 espagnole
 entitles
 espagnolette
@@ -12618,6 +12617,7 @@ exocarps
 emendicate
 exocentric
 exochorion
+endamaged
 engaged
 exocyclic
 exocyclica
