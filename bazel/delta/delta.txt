@@ -4156,7 +4156,6 @@ delimiter
 delimiters
 delimiting
 displumed
-delimitize
 delimitized
 delimitizing
 delimits
@@ -7599,6 +7598,7 @@ dimissorial
 deploitation
 deviates
 deviating
+delimitize
 deviation
 doubtful
 deviational
