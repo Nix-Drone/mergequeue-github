@@ -7071,7 +7071,6 @@ foody
 foodless
 foodlessness
 fulfilled
-foods
 foodstuff
 foodstuffs
 flacked
@@ -9345,6 +9344,7 @@ feretra
 fraise
 festuca
 fraised
+foods
 fraiser
 futilely
 fixgig
