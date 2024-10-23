@@ -3572,6 +3572,7 @@ addrest
 adds
 addu
 adduce
+afterfuture
 adduceable
 adduced
 adducent
@@ -5610,7 +5611,6 @@ afterfeed
 afterform
 afterfriend
 afterfruits
-afterfuture
 anadem
 aftergame
 aftergas
