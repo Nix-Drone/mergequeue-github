@@ -1897,7 +1897,6 @@ debted
 debtee
 debtful
 debtless
-debtor
 debtors
 debugger
 debuggers
@@ -11005,6 +11004,7 @@ disanimated
 disanimation
 disanney
 disannex
+debtor
 despots
 disannul
 disannulled
