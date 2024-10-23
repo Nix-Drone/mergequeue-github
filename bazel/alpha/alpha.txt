@@ -17656,7 +17656,6 @@ ambrosia
 appel
 appellability
 appellable
-appellancy
 appellant
 appellants
 appellate
@@ -23797,6 +23796,7 @@ authentication
 authentications
 athetosic
 authenticators
+appellancy
 authenticities
 authenticly
 authenticness
