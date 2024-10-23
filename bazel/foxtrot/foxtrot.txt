@@ -1091,6 +1091,7 @@ fontinalaceae
 fuzzle
 farmy
 farmyard
+fishskin
 fructuary
 farmyardy
 foremastman
@@ -4418,7 +4419,6 @@ fishpole
 fishpoles
 fishponds
 fishpotter
-fishskin
 fishspear
 fishtail
 fishtailed
