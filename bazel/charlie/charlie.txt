@@ -8827,7 +8827,6 @@ chapelward
 chaperno
 chaperon
 chaperonage
-chaperone
 chaperoned
 chaperonless
 chaperons
@@ -13932,6 +13931,7 @@ cingulectomies
 cingulum
 cynhyena
 cynias
+chaperone
 cyniatria
 cyniatrics
 cynical
