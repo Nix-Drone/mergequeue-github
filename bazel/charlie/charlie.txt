@@ -16535,7 +16535,6 @@ cloghead
 cloglike
 clogmaker
 clogmaking
-clogwheel
 charoset
 clogwyn
 clogwood
@@ -25069,6 +25068,7 @@ cooperancy
 corelysis
 corella
 corema
+clogwheel
 counternatural
 conglutinated
 coremaker
