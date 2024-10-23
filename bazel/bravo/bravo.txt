@@ -11254,6 +11254,7 @@ bendsome
 blowlamp
 blown
 blowoff
+birled
 blowouts
 blowpipe
 bolster
@@ -16099,7 +16100,6 @@ bootlace
 brooky
 behatted
 boskiest
-birled
 brookier
 brookite
 brookites
