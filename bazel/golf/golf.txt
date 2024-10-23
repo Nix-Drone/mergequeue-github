@@ -1262,6 +1262,7 @@ gaoled
 guiltier
 gaoler
 gaolers
+graphicalness
 gaoling
 gaoloring
 glutinate
@@ -8161,7 +8162,6 @@ graphy
 graphic
 graphical
 graphically
-graphicalness
 graphicness
 ghosts
 graphidiaceae
