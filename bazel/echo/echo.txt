@@ -2476,7 +2476,6 @@ everydeal
 elephantlike
 electrolysed
 electrolyses
-electrolysing
 electrolysis
 electrolyte
 electrolithotrity
@@ -11618,6 +11617,7 @@ energy
 evocator
 evoe
 eleut
+electrolysing
 evoker
 enterococci
 evokes
