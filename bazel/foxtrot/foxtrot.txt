@@ -4408,6 +4408,7 @@ fishman
 fishmeals
 fishmonger
 ferociousness
+floriken
 fishmouth
 fishnet
 frank
@@ -6039,7 +6040,6 @@ flatterable
 florification
 fishermen
 florigen
-floriken
 florilage
 furtherances
 florimania
