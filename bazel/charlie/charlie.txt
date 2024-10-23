@@ -10096,7 +10096,6 @@ cheshire
 chesil
 cheskey
 choices
-cheskeys
 cheslep
 chesoun
 chess
@@ -27786,6 +27785,7 @@ carnivaler
 crabby
 crabbiest
 codewords
+cheskeys
 crabbily
 crabbiness
 crabbing
