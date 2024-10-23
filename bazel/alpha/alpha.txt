@@ -12854,7 +12854,6 @@ anglepod
 anglepods
 angler
 anglesmith
-angletwitch
 anglewing
 anglewise
 avenger
@@ -22043,6 +22042,7 @@ adenocancroid
 asternata
 asternia
 asterochiton
+angletwitch
 asteroid
 asteroids
 asterolepidae
