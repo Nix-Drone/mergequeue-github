@@ -4203,7 +4203,6 @@ eunice
 emplunge
 empodia
 eatche
-empoison
 empoisoned
 encaustes
 ephoral
@@ -12807,6 +12806,7 @@ exosmic
 exosmose
 exosmoses
 exosmosis
+empoison
 empty
 exosmotic
 electre
