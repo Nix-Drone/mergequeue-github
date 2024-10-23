@@ -2797,7 +2797,6 @@ chestily
 cantatrici
 cantboard
 cantdog
-cantdogs
 canted
 canteen
 canteens
@@ -14883,6 +14882,7 @@ cytocentrum
 cytochalasin
 cytochemical
 cytochemistry
+cantdogs
 cytochylema
 cytochrome
 cytocide
