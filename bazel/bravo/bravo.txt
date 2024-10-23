@@ -6516,7 +6516,6 @@ benzotrifuran
 benzoxate
 bolection
 benzoxyacetic
-benzoxycamphor
 benzoxyphenanthrene
 benzpinacone
 benzpyrene
@@ -13922,6 +13921,7 @@ blandly
 baldling
 braccate
 bracciale
+benzoxycamphor
 braccianite
 braccio
 bracelet
