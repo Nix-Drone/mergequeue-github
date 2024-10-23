@@ -10254,6 +10254,7 @@ connaraceae
 chiasmatype
 chiasmatypy
 chiasmi
+coliphage
 chiasmic
 chiasmodon
 chiasmodontid
@@ -18805,7 +18806,6 @@ coling
 colins
 colinus
 colyonic
-coliphage
 colipyelitis
 colyone
 colipyuria
