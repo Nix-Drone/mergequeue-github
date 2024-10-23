@@ -5958,7 +5958,6 @@ depressible
 declass
 depressing
 depressingly
-depressingness
 depression
 depressional
 depressions
@@ -7520,6 +7519,7 @@ devalued
 devalues
 devaluing
 devanagari
+depressingness
 devance
 devaporation
 devaraja
