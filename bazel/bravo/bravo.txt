@@ -2815,7 +2815,6 @@ baronages
 baronduki
 bibliolater
 bobberies
-baroness
 baronesses
 baronet
 baronetage
@@ -4066,6 +4065,7 @@ beadman
 beadmen
 billjim
 beadroll
+baroness
 beadrolls
 blepharophimosis
 beads
