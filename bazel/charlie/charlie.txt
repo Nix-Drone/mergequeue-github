@@ -12377,7 +12377,6 @@ conquerable
 chromatolytic
 chromatology
 chromatologies
-chromatometer
 chromatone
 cubitodigital
 chromatopathy
@@ -29978,6 +29977,7 @@ croton
 crotonaldehyde
 crotonate
 crotonbug
+chromatometer
 crotonic
 crotonyl
 crotonization
