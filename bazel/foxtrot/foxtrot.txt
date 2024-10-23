@@ -4972,7 +4972,6 @@ falconries
 fringilliform
 fireshaft
 flanking
-flanks
 faineantise
 flankwise
 flatbeds
@@ -5681,6 +5680,7 @@ freezers
 flipflop
 fliping
 federalizing
+flanks
 flipjack
 flippancies
 flippant
