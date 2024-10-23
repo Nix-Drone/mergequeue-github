@@ -4805,7 +4805,6 @@ giros
 gyroscope
 galeopithecus
 gyroscopes
-gyroscopics
 gyrose
 gyrostabilized
 gyrostat
@@ -7765,6 +7764,7 @@ grains
 grainsickness
 grainsman
 grandisonian
+gyroscopics
 grayouts
 glimpse
 greenhorn
