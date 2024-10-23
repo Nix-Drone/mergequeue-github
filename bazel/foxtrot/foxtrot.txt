@@ -7143,7 +7143,6 @@ ferules
 footboys
 footbreadth
 footbridge
-frustulum
 footcandle
 footcloths
 finedraw
@@ -7559,6 +7558,7 @@ forecaster
 fiercest
 forecasters
 faujdar
+frustulum
 formalize
 ferrocyanhydric
 forecastle
