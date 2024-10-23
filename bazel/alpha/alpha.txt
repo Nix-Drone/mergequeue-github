@@ -9133,7 +9133,6 @@ almsdeed
 auricular
 almsfolk
 almsful
-almsgiver
 almsgiving
 almshouse
 albertype
@@ -12340,6 +12339,7 @@ anthralin
 aortolith
 andrias
 amphigouris
+almsgiver
 adjournments
 andric
 andrite
