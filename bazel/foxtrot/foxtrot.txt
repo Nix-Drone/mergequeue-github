@@ -5473,6 +5473,7 @@ flagfall
 fleta
 fletched
 fletcherism
+flintlike
 fletcherite
 following
 fletcherize
@@ -5663,7 +5664,6 @@ flintier
 flyblown
 formularizer
 flintless
-flintlike
 flintlock
 fellatios
 flintwood
