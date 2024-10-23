@@ -2506,7 +2506,6 @@ declarators
 declare
 declaredly
 declaredness
-declarer
 dodgeries
 doorjamb
 declarers
@@ -12004,6 +12003,7 @@ disenshroud
 disenslave
 disensoul
 disensure
+declarer
 disentail
 disentailment
 disentangle
