@@ -1094,6 +1094,7 @@ farmyard
 fructuary
 farmyardy
 foremastman
+forb
 farmland
 farmost
 farmout
@@ -4339,7 +4340,6 @@ foresleeve
 friendlies
 fisk
 fise
-forb
 fisetin
 fish
 fishability
