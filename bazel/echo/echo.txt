@@ -5324,7 +5324,6 @@ endomorphism
 endosomes
 endospermic
 endospermous
-endospore
 encharm
 endows
 endostea
@@ -12866,6 +12865,7 @@ exotoxins
 emigrate
 exotropia
 effluent
+endospore
 exotropic
 exp
 embusque
