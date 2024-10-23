@@ -4908,7 +4908,6 @@ encumbered
 encumberer
 encumberingly
 enrichment
-encumberment
 encumbers
 encumbrance
 electrometeor
@@ -9901,6 +9900,7 @@ essoined
 essoinee
 essoining
 essoinment
+encumberment
 essoins
 essonites
 epizoisms
