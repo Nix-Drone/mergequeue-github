@@ -4582,7 +4582,6 @@ encephalomas
 encephalomeningocele
 encephalometric
 encephalomyelitic
-encephalomyelitis
 erucin
 encephalomyelopathy
 encephalomyocarditis
@@ -9282,6 +9281,7 @@ erotesis
 enjambements
 erotic
 elaeagnaceae
+encephalomyelitis
 eptatretus
 eroticist
 eroticize
