@@ -4043,7 +4043,6 @@ beacons
 beaded
 bequirtle
 beadeye
-beadeyes
 banderols
 beader
 beadflush
@@ -15261,6 +15260,7 @@ bridesmen
 bridestake
 bonelike
 bridewain
+beadeyes
 brideman
 brideweed
 bridewell
