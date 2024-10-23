@@ -1897,7 +1897,6 @@ bandbox
 bandboxes
 bandboxy
 barricos
-bandboxical
 bandcase
 bandcutter
 bande
@@ -7991,6 +7990,7 @@ bestowable
 bibliosoph
 bistratose
 bibliotaph
+bandboxical
 bibliotaphe
 bibliothecae
 bibliothecary
