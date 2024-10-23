@@ -3013,7 +3013,6 @@ capelan
 capelans
 capelet
 capelin
-capeline
 capelins
 capella
 capellane
@@ -30820,6 +30819,7 @@ carcan
 cervicobasilar
 courbash
 culpeo
+capeline
 culpose
 culprit
 culrage
