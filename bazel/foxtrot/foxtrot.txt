@@ -5955,7 +5955,6 @@ fluidrachm
 floorward
 furniment
 forgivingly
-floorwise
 floosy
 floosies
 floozy
@@ -7485,6 +7484,7 @@ flittingly
 fordrive
 fords
 filate
+floorwise
 furling
 fordull
 fumattoria
