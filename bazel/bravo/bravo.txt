@@ -5349,6 +5349,7 @@ begottenness
 begowk
 begowned
 buyable
+byerite
 benchboard
 begray
 begrain
@@ -8255,7 +8256,6 @@ bier
 broid
 bierbalk
 blest
-byerite
 bierkeller
 byerlite
 bierstube
