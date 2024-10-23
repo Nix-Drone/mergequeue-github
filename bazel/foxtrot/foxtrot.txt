@@ -3623,7 +3623,6 @@ filesmith
 filesniff
 flagships
 filespec
-forficula
 fossores
 fileting
 floatboard
@@ -8102,6 +8101,7 @@ foretackle
 foretalking
 fullbacks
 foretaste
+forficula
 foretaster
 foretastes
 foretasting
