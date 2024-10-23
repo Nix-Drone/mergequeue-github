@@ -7414,7 +7414,6 @@ baklawa
 brisa
 beleft
 bethorn
-bethorned
 burthenman
 bethorning
 bethorns
@@ -8566,6 +8565,7 @@ bilic
 bilifaction
 biliferous
 backfall
+bethorned
 benzazole
 bacchian
 bilify
