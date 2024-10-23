@@ -3638,7 +3638,6 @@ bathyspheres
 bathythermograph
 bathkol
 barbar
-bathman
 bathmat
 bathmats
 bereaven
@@ -17338,6 +17337,7 @@ buttwood
 bumpkinet
 bumpkins
 bumpology
+bathman
 bumps
 bumpsy
 borschts
