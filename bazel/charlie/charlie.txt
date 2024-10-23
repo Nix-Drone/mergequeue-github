@@ -22508,7 +22508,6 @@ chimbleys
 conjuncts
 conjunctur
 conjuncture
-conjunctures
 conjuration
 conjurations
 conjurator
@@ -27423,6 +27422,7 @@ covary
 covariable
 covariables
 coal
+conjunctures
 campanularia
 covariant
 covariate
