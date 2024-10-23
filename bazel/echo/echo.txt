@@ -1690,7 +1690,6 @@ egress
 egresses
 egressing
 estadal
-egressor
 exiler
 egret
 egretta
@@ -2544,6 +2543,7 @@ elchee
 electronically
 electronics
 electronography
+egressor
 ecad
 electrooculogram
 electrooptic
