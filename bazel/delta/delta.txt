@@ -3371,6 +3371,7 @@ definiens
 definientia
 definish
 definite
+dicyclic
 definitely
 demonologies
 definiteness
@@ -17878,7 +17879,6 @@ due
 duecentist
 duecento
 dueful
-dicyclic
 drepane
 dueler
 duelers
