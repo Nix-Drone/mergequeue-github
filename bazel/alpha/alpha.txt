@@ -4942,6 +4942,7 @@ alivincular
 aerodrome
 aerodromes
 acetyltannin
+analphabet
 aeroduct
 auge
 aeroducts
@@ -11786,7 +11787,6 @@ analogously
 aristocratically
 analogousness
 analogs
-analphabet
 analphabete
 analphabetic
 acyanopsia
