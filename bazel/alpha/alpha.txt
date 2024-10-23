@@ -4444,6 +4444,7 @@ adsum
 adterminal
 adtevac
 aduana
+aphorismer
 adular
 adularescence
 assertorial
@@ -16917,7 +16918,6 @@ aphorised
 aphorises
 aphorising
 aphorismatic
-aphorismer
 aphorismic
 aphorismical
 aphorismos
