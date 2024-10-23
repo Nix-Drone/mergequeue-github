@@ -12527,7 +12527,6 @@ anemosis
 anemotaxis
 anemotropism
 anencephaly
-anencephalic
 apochromat
 anencephalous
 arvo
@@ -18926,6 +18925,7 @@ archexorcist
 archfelon
 archfiend
 archfiends
+anencephalic
 archfire
 archflamen
 archfoe
