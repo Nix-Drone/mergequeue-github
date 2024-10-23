@@ -515,6 +515,7 @@ boshboks
 backstairs
 backstays
 backster
+broaching
 backstick
 backstitch
 backstitched
@@ -15637,7 +15638,6 @@ broach
 broacher
 broachers
 broaches
-broaching
 broadacre
 broadax
 broadaxes
