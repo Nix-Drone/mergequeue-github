@@ -14877,6 +14877,7 @@ cytoblast
 confidences
 cytoblastema
 cytoblastemal
+circumclusion
 cytoblastematous
 cytoblastemous
 cytocentrum
@@ -25452,7 +25453,6 @@ corojo
 corol
 condemns
 corolitic
-circumclusion
 coroll
 corollary
 contradictions
