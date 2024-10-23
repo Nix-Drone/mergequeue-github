@@ -3948,7 +3948,6 @@ carder
 carders
 cardholder
 cardia
-cardiac
 cardiacea
 cardiacean
 cardiacle
@@ -25581,6 +25580,7 @@ corporeal
 corporealist
 cirsotome
 corporeality
+cardiac
 corporealization
 corporeally
 corporeals
