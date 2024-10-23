@@ -12566,7 +12566,6 @@ disjointure
 disjudication
 disjunctions
 disjunctive
-disjunctively
 disjunctor
 disjuncts
 dereferences
@@ -15841,6 +15840,7 @@ dorsopleural
 dorsoposteriad
 deisms
 dorsoposterior
+disjunctively
 dorsoradial
 dorsoscapular
 dorsosternal
