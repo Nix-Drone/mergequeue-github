@@ -16857,7 +16857,6 @@ diffidence
 drawoff
 drawout
 drawplate
-drawpoint
 draws
 drawshave
 drawsheet
@@ -17741,6 +17740,7 @@ dubitable
 dubitably
 dubitancy
 dubitant
+drawpoint
 dorey
 dubitante
 dolley
