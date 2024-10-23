@@ -4211,7 +4211,6 @@ firepinks
 frat
 fireplace
 fireplaces
-fireplow
 fleeceable
 fireplug
 frieze
@@ -4550,6 +4549,7 @@ flaunted
 fabrikoid
 fairylike
 forecastingly
+fireplow
 filister
 fitches
 fitchet
