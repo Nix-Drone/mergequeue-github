@@ -17255,6 +17255,7 @@ drivership
 drives
 dredgings
 drivescrew
+detailed
 driveway
 driveways
 drivewell
@@ -18008,7 +18009,6 @@ dulciloquy
 dulcimer
 dulcimers
 dulcimore
-detailed
 dulcin
 dulcinea
 damping
