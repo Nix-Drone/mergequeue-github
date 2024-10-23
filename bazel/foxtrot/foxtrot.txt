@@ -5934,6 +5934,7 @@ floorboard
 floorcloth
 fala
 forevermore
+fragrancy
 frigidity
 featherbedding
 floorcloths
@@ -9312,7 +9313,6 @@ forsakers
 fragments
 furled
 fishbed
-fragrancy
 fragrant
 fresser
 fragrantly
