@@ -3708,7 +3708,6 @@ adenomyofibroma
 adenomyoma
 agapornis
 adenomyxosarcoma
-adenoncus
 adenoneural
 adenoneure
 adenopharyngeal
@@ -15115,6 +15114,7 @@ antidictionary
 antidynastic
 antidynastical
 antidynastically
+adenoncus
 antidinic
 antidiphtheria
 antidiphtheric
