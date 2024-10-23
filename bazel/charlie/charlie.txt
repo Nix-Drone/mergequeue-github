@@ -19645,7 +19645,6 @@ conventicler
 combasou
 combat
 combatable
-chroma
 combatant
 combatants
 combater
@@ -27905,6 +27904,7 @@ crafts
 craftsman
 craftsmanly
 charactonym
+chroma
 craftsmanlike
 craftsmanship
 craftsmaster
