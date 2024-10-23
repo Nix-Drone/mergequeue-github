@@ -4181,6 +4181,7 @@ feezing
 firedamps
 firedog
 firedragon
+faulted
 footnotes
 firedrake
 firefall
@@ -6305,7 +6306,6 @@ fluidizer
 fingerflower
 fluidizes
 fluidmeter
-faulted
 fluidness
 fluidounce
 friskers
