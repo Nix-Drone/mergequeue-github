@@ -8755,7 +8755,6 @@ equips
 ethnolinguist
 equipt
 equiradial
-echo
 equiradical
 equirotal
 escopet
@@ -12234,6 +12233,7 @@ excusal
 excusative
 ethaldehyde
 englishes
+echo
 excusatory
 excused
 excuseful
