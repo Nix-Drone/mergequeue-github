@@ -4096,7 +4096,6 @@ finnier
 featherbrain
 fattable
 fellatrixes
-fletching
 finnish
 finnmark
 finnochio
@@ -6616,6 +6615,7 @@ foaled
 foalfoot
 foalfoots
 foothill
+fletching
 filace
 foaly
 foaling
