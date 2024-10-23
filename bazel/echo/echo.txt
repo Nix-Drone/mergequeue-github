@@ -2419,7 +2419,6 @@ eumenidean
 electrodissolution
 electroed
 encrinite
-electroencephalogram
 electroencephalograms
 electroencephalograph
 exciting
@@ -6007,6 +6006,7 @@ enchant
 enlarges
 enlarging
 enlargingly
+electroencephalogram
 extruders
 escheated
 enlaurel
