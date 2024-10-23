@@ -10767,7 +10767,6 @@ dire
 direcly
 direct
 directable
-directcarving
 directdiscourse
 directed
 diastereoisomeric
@@ -11241,6 +11240,7 @@ discanonization
 drawstring
 dactylologies
 discanonize
+directcarving
 dentalizing
 denudates
 discanted
