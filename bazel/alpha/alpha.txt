@@ -4536,7 +4536,6 @@ advantageousness
 advantages
 advect
 advected
-advecting
 agamobia
 amniorrhea
 advectitious
@@ -15590,6 +15589,7 @@ antimissioner
 antimystic
 antimystical
 antimystically
+advecting
 afferent
 agentries
 antimysticalness
