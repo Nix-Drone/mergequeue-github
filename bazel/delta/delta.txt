@@ -6408,6 +6408,7 @@ dodrans
 dispersedly
 derringers
 derrire
+drawpoint
 derris
 derrises
 derth
@@ -16857,7 +16858,6 @@ diffidence
 drawoff
 drawout
 drawplate
-drawpoint
 draws
 drawshave
 drawsheet
