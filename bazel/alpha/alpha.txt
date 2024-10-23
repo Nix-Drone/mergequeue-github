@@ -12527,7 +12527,6 @@ anemosis
 anemotaxis
 anemotropism
 anencephaly
-anencephalic
 apochromat
 anencephalous
 arvo
@@ -18001,6 +18000,7 @@ approaching
 approbate
 approbated
 approbating
+anencephalic
 approbation
 approbations
 approbative
