@@ -3589,7 +3589,6 @@ gestic
 gestical
 gesticulant
 gutterman
-gesticulate
 gesticulations
 gesticulative
 gesticulatively
@@ -7129,6 +7128,7 @@ gophers
 gopherwood
 gopura
 gor
+gesticulate
 goading
 gollywog
 gora
