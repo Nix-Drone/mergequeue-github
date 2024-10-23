@@ -8650,7 +8650,6 @@ fumistery
 feverishly
 forsung
 forswear
-foreanswer
 forswearing
 fairling
 fields
@@ -10134,6 +10133,7 @@ flameless
 fancifully
 friponerie
 fortunetellers
+foreanswer
 fripper
 flagitate
 fripperer
