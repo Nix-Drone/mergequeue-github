@@ -3564,6 +3564,7 @@ daybeam
 defrosting
 defs
 demoniast
+doorpost
 defterdar
 dodecahedra
 draftiness
@@ -15616,7 +15617,6 @@ doormen
 doornails
 doornboom
 doorpiece
-doorpost
 doorposts
 dowl
 dawdle
