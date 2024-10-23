@@ -1179,7 +1179,6 @@ datacell
 datafile
 dataflow
 datagram
-datagrams
 deescalating
 datakit
 datamation
@@ -12518,6 +12517,7 @@ disinterestedness
 disintermediation
 distillation
 disinterment
+datagrams
 disinterred
 disinterring
 disinters
