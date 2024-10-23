@@ -3151,7 +3151,6 @@ defamations
 defamatory
 defame
 defamed
-dragginess
 defamer
 defamers
 defames
@@ -14960,6 +14959,7 @@ deamidate
 doggers
 doggess
 deformedness
+dragginess
 dogget
 doggy
 disorderedness
