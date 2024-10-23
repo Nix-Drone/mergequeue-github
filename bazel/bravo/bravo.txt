@@ -2686,7 +2686,6 @@ barkeepers
 barkeeps
 byelaws
 bunglesome
-barkey
 barken
 beknights
 barkentine
@@ -4152,6 +4151,7 @@ beaners
 beanfeast
 beanfield
 beanie
+barkey
 bachelry
 behoovingly
 beaniest
