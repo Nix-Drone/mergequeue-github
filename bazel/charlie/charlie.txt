@@ -1921,6 +1921,7 @@ cosmolabe
 camla
 camlet
 camletine
+coercible
 cabezones
 camleting
 calamagrostis
@@ -18080,7 +18081,6 @@ coercer
 coercers
 coercibility
 cardiaplegia
-coercible
 coercibleness
 coercibly
 coercion
