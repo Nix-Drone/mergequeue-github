@@ -2170,7 +2170,6 @@ bannerman
 bannermen
 bannerole
 bannerols
-bannerwise
 bannet
 bannisters
 bannition
@@ -5359,6 +5358,7 @@ begrim
 begrimed
 begrimer
 begrimes
+bannerwise
 bombsight
 begrimmed
 begrimming
