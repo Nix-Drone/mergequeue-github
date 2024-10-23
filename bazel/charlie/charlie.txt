@@ -4079,7 +4079,6 @@ cardiopneumograph
 cardioptosis
 cardiopulmonary
 cardiorenal
-cardiorespiratory
 cardiorrhaphy
 cardiorrheuma
 cardiorrhexis
@@ -24795,6 +24794,7 @@ coquita
 coquitlam
 clake
 coquitos
+cardiorespiratory
 cor
 cora
 coorg
