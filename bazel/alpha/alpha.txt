@@ -2519,7 +2519,6 @@ argentojarosite
 acknew
 astomatal
 acknowing
-acknowledge
 acknowledgeable
 acknowledged
 afoam
@@ -3779,6 +3778,7 @@ adevism
 adfected
 adffroze
 aburabozu
+acknowledge
 adffrozen
 adfiliate
 adfluxion
