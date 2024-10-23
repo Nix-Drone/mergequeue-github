@@ -5811,7 +5811,6 @@ catfacing
 catfall
 catfalls
 catfight
-creeled
 catfish
 catfoot
 catfooted
@@ -19801,6 +19800,7 @@ caprificate
 cometography
 cheer
 coeloblastic
+creeled
 cometographical
 cometology
 comets
