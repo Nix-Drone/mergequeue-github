@@ -3888,7 +3888,6 @@ emulator
 emforth
 emic
 emicant
-emicate
 emication
 emyde
 emydea
@@ -5952,6 +5951,7 @@ ejectors
 enjoyments
 enjoin
 enjoinder
+emicate
 enjoinders
 enjoined
 enjoiner
