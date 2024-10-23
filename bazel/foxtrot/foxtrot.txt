@@ -3973,7 +3973,6 @@ fingered
 fingerer
 fingerers
 foreschooling
-firebolted
 fingerfish
 fingerhold
 fingerhook
@@ -4907,6 +4906,7 @@ flameproof
 formulize
 flameproofer
 flintlocks
+firebolted
 finfishes
 flamer
 flamers
