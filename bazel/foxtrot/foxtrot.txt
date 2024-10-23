@@ -5782,7 +5782,6 @@ fumariaceous
 flyway
 fruit
 fungiform
-flyways
 faunas
 further
 flyweight
@@ -10217,6 +10216,7 @@ formation
 frivol
 frivoled
 frivoler
+flyways
 frivolist
 frivolity
 frivolities
