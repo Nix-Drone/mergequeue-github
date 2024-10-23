@@ -7660,7 +7660,6 @@ bewimple
 bewinged
 bewinter
 bewired
-bewitch
 bewitchedness
 bewitcher
 bewitchery
@@ -16389,6 +16388,7 @@ braker
 betrace
 brushed
 brusher
+bewitch
 booted
 brushes
 bedstock
