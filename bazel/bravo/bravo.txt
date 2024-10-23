@@ -9550,6 +9550,7 @@ birthroot
 births
 birthstone
 bristletail
+building
 birthstones
 birthstool
 bolognas
@@ -16938,7 +16939,6 @@ buyers
 buildable
 builded
 bizarre
-building
 buildingless
 buildings
 balers
