@@ -16643,7 +16643,6 @@ clos
 closable
 close
 closecross
-closed
 closedown
 closefistedly
 closefistedness
@@ -17857,6 +17856,7 @@ coeducation
 coeducationalism
 coeducationalize
 coeducationally
+closed
 coef
 coeff
 coeffect
