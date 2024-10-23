@@ -984,7 +984,6 @@ cimmerian
 calcaneocuboid
 calcaneonavicular
 calcaneoplantar
-countersale
 calcaneoscaphoid
 calcaneotibial
 calcaneum
@@ -11003,6 +11002,7 @@ catananche
 chirp
 chirped
 chirper
+countersale
 chirpers
 chirpy
 chirpier
