@@ -20346,7 +20346,6 @@ arrowlet
 arrowlike
 arrowplate
 automolite
-arrowroots
 arrows
 arrowsmith
 arrowstone
@@ -20797,6 +20796,7 @@ artware
 artwork
 artworks
 aru
+arrowroots
 aruac
 arugula
 arugulas
