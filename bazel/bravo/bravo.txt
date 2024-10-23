@@ -3051,6 +3051,7 @@ bartenders
 bartending
 barter
 barterer
+blockaded
 barterers
 bartering
 barters
@@ -10980,7 +10981,6 @@ bloc
 blocage
 block
 blockade
-blockaded
 blockader
 blockaders
 blockading
