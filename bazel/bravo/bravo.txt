@@ -7274,7 +7274,6 @@ bestowment
 bestows
 bestraddle
 bestraddled
-bitewings
 bestraddling
 bestraught
 bestraw
@@ -12393,6 +12392,7 @@ basalia
 bondhold
 bondholder
 bondholders
+bitewings
 bicolor
 bondholding
 bonding
