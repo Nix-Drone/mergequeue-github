@@ -5290,7 +5290,6 @@ federacy
 flche
 flchette
 flimflam
-fld
 fldxt
 flea
 fiscalize
@@ -7309,6 +7308,7 @@ foppy
 foppish
 footstep
 fora
+fld
 forage
 facers
 foraged
