@@ -9922,7 +9922,6 @@ chemosensitivities
 chemoserotherapy
 chemoses
 chemosynthesis
-chemosynthetic
 chemosis
 chemosmoic
 chemosmoses
@@ -24034,6 +24033,7 @@ conventionalised
 conoscope
 conventionalising
 conventionality
+chemosynthetic
 conventionalities
 conventionalization
 conventionalize
