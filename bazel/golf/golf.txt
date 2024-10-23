@@ -1374,7 +1374,6 @@ gundeck
 gardenin
 gardening
 gardenless
-gardenly
 gardenlike
 grume
 gardenmaking
@@ -4854,6 +4853,7 @@ gismondine
 gluconate
 gismondite
 gismos
+gardenly
 gynodioecism
 gist
 git
