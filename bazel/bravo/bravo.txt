@@ -5387,7 +5387,6 @@ busies
 beguard
 beguess
 beguileful
-beguilement
 beguilements
 beguiler
 bottlelike
@@ -14269,6 +14268,7 @@ blowback
 brahmin
 brahminee
 brahminic
+beguilement
 brahminism
 banderillero
 bachel
