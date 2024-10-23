@@ -3805,7 +3805,6 @@ emeline
 emend
 exscribe
 erythrons
-expendables
 edifier
 emendated
 ekerite
@@ -6315,6 +6314,7 @@ encirclement
 enround
 enruin
 enrut
+expendables
 ens
 ensafe
 elenchtic
