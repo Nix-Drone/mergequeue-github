@@ -1465,7 +1465,6 @@ bepaid
 baler
 bales
 boun
-balestra
 balete
 bali
 balian
@@ -13931,6 +13930,7 @@ basophile
 bracelets
 bracer
 bracery
+balestra
 bracero
 bathorse
 bioactivity
