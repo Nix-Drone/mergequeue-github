@@ -6896,7 +6896,6 @@ cementite
 cementitious
 chingpaw
 cementless
-cementlike
 carinaria
 cementmaker
 cementmaking
@@ -18196,6 +18195,7 @@ cofferdam
 cofferdams
 coffered
 chaetophorales
+cementlike
 coombe
 cofferer
 cofferfish
