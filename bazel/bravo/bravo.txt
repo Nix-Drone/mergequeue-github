@@ -430,7 +430,6 @@ backplane
 backplanes
 backplate
 backpointer
-backpointers
 backrest
 backrope
 brimstony
@@ -5900,6 +5899,7 @@ bellrags
 bells
 belltail
 blanco
+backpointers
 biomicroscopy
 blemishes
 belluine
