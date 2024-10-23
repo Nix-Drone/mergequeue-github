@@ -2840,6 +2840,7 @@ barony
 bassets
 baronial
 baronies
+birded
 baronize
 baronized
 baronnes
@@ -9385,7 +9386,6 @@ birdcalls
 birdcatching
 birdcraft
 birddom
-birded
 birdeye
 birder
 birdfarm
