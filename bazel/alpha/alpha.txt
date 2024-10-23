@@ -5513,7 +5513,6 @@ afoul
 afounde
 afray
 aspirator
-asquare
 afraid
 afraidness
 afrasia
@@ -15112,6 +15111,7 @@ antidiastase
 antidicomarian
 antidicomarianite
 antidictionary
+asquare
 antidynastic
 antidynastical
 antidynastically
