@@ -8245,7 +8245,6 @@ aligning
 alignment
 allochezia
 alignments
-aligns
 aligreek
 aliya
 aliyah
@@ -9611,6 +9610,7 @@ alumroot
 alundum
 artiphyllous
 aluniferous
+aligns
 alunite
 alunogen
 alupag
