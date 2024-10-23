@@ -4353,7 +4353,6 @@ beaverlike
 beaverroot
 beavers
 beaverskin
-beaverteen
 beaverwood
 beback
 bebay
@@ -8918,6 +8917,7 @@ bioassaying
 bioastronautical
 bioastronautics
 bioavailability
+beaverteen
 biobibliographer
 biobibliography
 biobibliographic
