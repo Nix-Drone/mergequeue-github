@@ -8257,7 +8257,6 @@ bierbalk
 blest
 byerite
 bierkeller
-byerlite
 bierstube
 bierstuben
 byestreet
@@ -16395,6 +16394,7 @@ bedstock
 brushet
 brushful
 brushy
+byerlite
 brushier
 brushiest
 bendys
