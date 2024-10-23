@@ -2113,7 +2113,6 @@ acetone
 acetonemia
 acetonemic
 acetonic
-acetonyl
 acetonylacetone
 acetonylidene
 acetonitrile
@@ -21208,6 +21207,7 @@ amandin
 asiderite
 asides
 apanage
+acetonyl
 asideu
 asiento
 asyla
