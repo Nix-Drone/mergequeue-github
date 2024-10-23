@@ -6935,6 +6935,7 @@ airplaner
 airplanes
 airplanist
 acieral
+altimeter
 airplot
 airport
 airports
@@ -9492,7 +9493,6 @@ altilik
 altiloquence
 awkwardest
 altiloquent
-altimeter
 altimeters
 anthema
 altimetry
