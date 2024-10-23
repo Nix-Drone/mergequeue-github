@@ -4342,7 +4342,6 @@ encoop
 enabling
 enact
 enactable
-enacted
 enacting
 enactment
 enactments
@@ -9135,6 +9134,7 @@ erythrine
 erythrinidae
 erythrinus
 eteocretes
+enacted
 erythrism
 edriophthalma
 erythrite
