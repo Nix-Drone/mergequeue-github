@@ -2800,7 +2800,6 @@ barolong
 baromacrometer
 barometer
 boroughship
-barometry
 barometric
 barometrical
 beelzebub
@@ -9446,6 +9445,7 @@ birefracting
 birefraction
 birefringent
 bigram
+barometry
 byreman
 birettas
 byrewards
