@@ -105,7 +105,6 @@ facie
 freeport
 fibroelastic
 faciend
-faciends
 facient
 faciest
 facile
@@ -2666,6 +2665,7 @@ ferruled
 ferruler
 ferrules
 fences
+faciends
 ferrum
 freshes
 ferruminating
