@@ -3616,6 +3616,7 @@ filename
 filenames
 filer
 fanons
+foisting
 filers
 files
 frailly
@@ -6973,7 +6974,6 @@ follow
 followable
 followed
 follower
-foisting
 followers
 followingly
 floppers
