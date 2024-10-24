@@ -2623,7 +2623,6 @@ decolorising
 dispose
 decolorization
 decolorized
-decolorizer
 decolors
 decolour
 decolouration
@@ -15945,6 +15944,7 @@ dipterist
 dother
 dothideacea
 dothideales
+decolorizer
 dothidella
 dothiorella
 doty
