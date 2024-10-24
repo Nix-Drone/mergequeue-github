@@ -136,7 +136,6 @@ erosionist
 eff
 endothermically
 earthed
-epiphysial
 earthfall
 earthgall
 earthgrubber
@@ -3888,6 +3887,7 @@ emulator
 emforth
 emic
 emicant
+epiphysial
 emicate
 emication
 emyde
