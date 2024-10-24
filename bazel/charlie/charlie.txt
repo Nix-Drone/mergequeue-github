@@ -2115,7 +2115,6 @@ camps
 campshed
 campshedding
 campsheeting
-campsite
 compasser
 campsites
 campstool
@@ -8847,6 +8846,7 @@ chapless
 chaplet
 chapleted
 chaplets
+campsite
 chapman
 chapmanship
 chapmen
