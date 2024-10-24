@@ -17686,7 +17686,6 @@ appendancy
 appendant
 appendectomy
 aristocrats
-appendectomies
 appendence
 appendency
 appendent
@@ -20645,6 +20644,7 @@ arthrospore
 arthrosporic
 acutangular
 arthrosporous
+appendectomies
 arthrosteitis
 arthrosterigma
 arthrostome
