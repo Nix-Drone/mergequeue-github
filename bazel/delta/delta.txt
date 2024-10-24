@@ -5059,6 +5059,7 @@ denarinarii
 denarius
 denaro
 dietted
+dubitative
 denasalize
 denasalized
 doppelkummel
@@ -18438,7 +18439,6 @@ dups
 defray
 denat
 dur
-dubitative
 durabilities
 durableness
 durables
