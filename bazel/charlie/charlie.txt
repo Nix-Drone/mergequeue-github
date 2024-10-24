@@ -6388,6 +6388,7 @@ caveator
 caveators
 caved
 canell
+counterstimulate
 coagel
 cavefish
 cavefishes
@@ -27093,7 +27094,6 @@ counterstand
 counterstatant
 counterstatement
 counterstep
-counterstimulate
 counterstimulation
 counterstimulus
 counterstock
