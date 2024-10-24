@@ -8394,7 +8394,6 @@ gravamem
 gravamina
 gravat
 grave
-graveclod
 griquaite
 galenite
 gravecloth
@@ -10514,6 +10513,7 @@ greenlandite
 gunlock
 gunlocks
 guanays
+graveclod
 gamesmanship
 gunmaking
 guelphic
