@@ -9597,7 +9597,6 @@ aluminothermics
 aluminous
 alumins
 aluminum
-aluminums
 alumish
 alumite
 autolith
@@ -12158,6 +12157,7 @@ anchorage
 anchorages
 anchorate
 anchored
+aluminums
 anchorer
 anchoress
 anchoresses
