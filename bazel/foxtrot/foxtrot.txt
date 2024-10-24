@@ -4212,7 +4212,6 @@ frat
 fireplace
 fireplaces
 fireplow
-fleeceable
 fireplug
 frieze
 fireplugs
@@ -8657,6 +8656,7 @@ fields
 forswears
 fort
 fortake
+fleeceable
 fenceful
 flense
 fortaxed
