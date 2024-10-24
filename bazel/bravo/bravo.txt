@@ -9694,7 +9694,6 @@ battledored
 bismillah
 bismite
 bismosol
-bismuth
 bismuthal
 bedouin
 bismuthate
@@ -13833,6 +13832,7 @@ bowstave
 bowstring
 bowstringed
 bowstrings
+bismuth
 bowstrung
 bowtel
 brichen
