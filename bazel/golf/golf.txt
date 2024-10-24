@@ -1248,7 +1248,6 @@ genteeler
 gantlines
 gantlopes
 garial
-ganton
 gantries
 gantsl
 globing
@@ -5219,6 +5218,7 @@ glassrope
 glassteel
 gnathic
 guestship
+ganton
 glasswork
 guider
 glassworker
