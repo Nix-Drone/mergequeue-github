@@ -1223,7 +1223,6 @@ educand
 educatability
 epicrystalline
 eident
-educatable
 educate
 evitate
 educated
@@ -13148,6 +13147,7 @@ explanate
 explanation
 explanative
 explanatively
+educatable
 explanator
 expurgator
 explanatory
