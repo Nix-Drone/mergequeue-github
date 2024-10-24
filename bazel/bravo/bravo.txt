@@ -2964,6 +2964,7 @@ barrelhouses
 besmearer
 barreling
 broad
+boltholes
 barrelled
 brattle
 barrelmaker
@@ -17596,7 +17597,6 @@ bureaux
 burelage
 burele
 burelle
-boltholes
 boehmenist
 burelly
 buret
