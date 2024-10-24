@@ -1227,7 +1227,6 @@ bakery
 bakeries
 bakerite
 bakerless
-bakerly
 bakerlike
 bakers
 beslaver
@@ -4041,6 +4040,7 @@ beaconless
 business
 beacons
 beaded
+bakerly
 bequirtle
 beadeye
 beadeyes
