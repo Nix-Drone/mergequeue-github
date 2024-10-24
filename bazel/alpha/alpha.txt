@@ -2929,7 +2929,6 @@ acromioclavicular
 acromiocoracoid
 acromyodi
 acromyodic
-acromyodous
 acromiohyoid
 areometer
 acromiohumeral
@@ -18715,6 +18714,7 @@ archaeologer
 archaeologian
 archaeologic
 archaeological
+acromyodous
 archaeologist
 archaeologists
 archaeomagnetism
