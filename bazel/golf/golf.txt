@@ -681,6 +681,7 @@ gnathonize
 gadaea
 geodesy
 galliot
+graphoscope
 galliots
 gurnets
 gallipot
@@ -8202,7 +8203,6 @@ gymnastically
 gyrovague
 graphophone
 graphophonic
-graphoscope
 gulpin
 graphostatic
 graphostatical
