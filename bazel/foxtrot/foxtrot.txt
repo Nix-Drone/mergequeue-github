@@ -5467,7 +5467,6 @@ fleshliness
 fleshling
 fleshmonger
 fleshpot
-fleshquake
 flet
 flagfall
 fleta
@@ -8046,6 +8045,7 @@ funerals
 foss
 forestation
 foreheaded
+fleshquake
 flexional
 forgetting
 fairyism
