@@ -1280,7 +1280,6 @@ emulsion
 eeyuch
 equiv
 eel
-epitympa
 eelbobber
 eelcake
 ewer
@@ -2685,6 +2684,7 @@ electrothermometer
 electrothermostatic
 electrothermotic
 electrotype
+epitympa
 electrotyped
 electrotypes
 electrotypy
