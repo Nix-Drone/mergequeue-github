@@ -284,7 +284,6 @@ fadedly
 fadednyess
 fadeless
 faden
-fadeout
 fader
 faders
 fadge
@@ -738,6 +737,7 @@ fussock
 fortune
 fanatically
 filled
+fadeout
 fanaticalness
 flatdom
 fanaticise
