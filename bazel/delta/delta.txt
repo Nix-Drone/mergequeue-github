@@ -8870,7 +8870,6 @@ dichloride
 dichloroacetic
 dichlorobenzene
 dichlorodifluoromethane
-dichlorodiphenyltrichloroethane
 dichlorohydrin
 dichloromethane
 dichlorvos
@@ -12657,6 +12656,7 @@ dislocates
 dislocating
 dislocations
 droughtier
+dichlorodiphenyltrichloroethane
 dislocator
 dislocatory
 dislock
