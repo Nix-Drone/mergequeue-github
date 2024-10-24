@@ -6061,6 +6061,7 @@ cattlebush
 cattlefold
 cattlegate
 cattlehide
+colossi
 cattleya
 cattleyak
 cattleyas
@@ -19408,7 +19409,6 @@ colossality
 colossally
 colossean
 colosseum
-colossi
 colossian
 charas
 colossians
