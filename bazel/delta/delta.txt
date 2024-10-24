@@ -1717,6 +1717,7 @@ deathtime
 deathtrap
 deathtraps
 deathward
+disrobes
 deathwatches
 deathweed
 deathworm
@@ -13403,7 +13404,6 @@ disrobement
 disrober
 disrobers
 danseur
-disrobes
 disrobing
 disroof
 disroost
