@@ -6151,7 +6151,6 @@ bend
 bendable
 benday
 bendayed
-bended
 bronzy
 bendee
 byte
@@ -13843,6 +13842,7 @@ box
 boxberry
 boxberries
 buttonless
+bended
 boxbush
 boxcar
 bonify
