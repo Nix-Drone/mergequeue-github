@@ -1695,6 +1695,7 @@ fcp
 foehns
 familiar
 friars
+flourlike
 four
 fdnames
 fdtype
@@ -8948,7 +8949,6 @@ foul
 foulards
 foulbrood
 foulder
-flourlike
 fouled
 falsifies
 foulest
