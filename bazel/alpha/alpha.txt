@@ -1828,7 +1828,6 @@ accusant
 angiomatous
 accusation
 accusations
-accusative
 accusatively
 accusativeness
 accusatives
@@ -14879,6 +14878,7 @@ antichymosin
 antichlor
 antichlorine
 antichloristic
+accusative
 antichlorotic
 anticholagogue
 antonia
