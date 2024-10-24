@@ -18074,7 +18074,6 @@ coerce
 coerceable
 coerced
 condylarth
-coercement
 coercend
 coercer
 coercers
@@ -30404,6 +30403,7 @@ ctenophoral
 ctenophoran
 ctenophore
 codesigning
+coercement
 ctenophoric
 ctenoplana
 ctenostomata
