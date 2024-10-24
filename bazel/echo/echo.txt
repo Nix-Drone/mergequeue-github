@@ -6711,7 +6711,6 @@ enteroscopy
 enterosepsis
 enterospasm
 enterostasis
-ebracteolate
 enterostomies
 enterotome
 extemporaneity
@@ -9707,6 +9706,7 @@ explicans
 esophagi
 esophagism
 esophagitis
+ebracteolate
 euryale
 esophago
 evangeliser
