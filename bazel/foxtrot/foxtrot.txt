@@ -2993,7 +2993,6 @@ fillmass
 feverously
 feverroot
 fevertwig
-fevertwitch
 feverwort
 few
 fewest
@@ -9953,6 +9952,7 @@ fremitus
 friary
 friarly
 friarling
+fevertwitch
 friation
 frib
 flirts
