@@ -14843,7 +14843,6 @@ breakpoints
 breaks
 breakshugh
 besselian
-breakstone
 breakthrough
 breakthroughs
 breakups
@@ -15278,6 +15277,7 @@ bridgemaking
 bridgemaster
 bridgemen
 bridgeport
+breakstone
 bridgepot
 bridger
 befrumple
