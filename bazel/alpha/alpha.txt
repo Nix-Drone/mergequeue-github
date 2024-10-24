@@ -11722,7 +11722,6 @@ analysability
 analysable
 analysand
 analysation
-analyser
 analysers
 addressee
 analyses
@@ -19576,6 +19575,7 @@ argonaut
 argonauta
 argonautid
 argonauts
+analyser
 argonne
 argonon
 argons
