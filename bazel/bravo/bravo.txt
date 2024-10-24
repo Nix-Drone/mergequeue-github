@@ -2571,6 +2571,7 @@ barge
 bargeboard
 barged
 bargeer
+batheable
 bargees
 biogasses
 bargeese
@@ -3581,7 +3582,6 @@ batfowls
 batful
 bath
 bathala
-batheable
 bathed
 bellower
 bather
