@@ -3889,7 +3889,6 @@ finale
 finales
 finalis
 finalization
-finalize
 finalized
 fragmenting
 fourstrand
@@ -11436,6 +11435,7 @@ furmeties
 furmint
 furmity
 furmities
+finalize
 fervors
 fossed
 furnace
