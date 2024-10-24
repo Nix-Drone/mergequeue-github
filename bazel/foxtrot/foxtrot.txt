@@ -17,7 +17,6 @@ ferry
 fableland
 fablemaker
 fablemongering
-fabler
 fablers
 fabling
 fabraea
@@ -9213,6 +9212,7 @@ function
 fracid
 fouls
 forklike
+fabler
 fractal
 fracted
 fungify
