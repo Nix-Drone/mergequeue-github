@@ -5215,7 +5215,6 @@ grief
 gluten
 glassmen
 glassophone
-glassrope
 glassteel
 gnathic
 guestship
@@ -6765,6 +6764,7 @@ gonadial
 ghostwrite
 gonadotrope
 gateward
+glassrope
 grotesquely
 gonadotrophic
 gonadotrophin
