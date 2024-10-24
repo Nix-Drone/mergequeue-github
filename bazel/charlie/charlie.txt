@@ -9124,7 +9124,6 @@ charquid
 charr
 charras
 charre
-carnivallike
 charred
 charrette
 consenescence
@@ -14644,6 +14643,7 @@ cistercian
 choppy
 cistercianism
 cysterethism
+carnivallike
 cisterna
 cisternae
 cisternal
