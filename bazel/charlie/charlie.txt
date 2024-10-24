@@ -15377,6 +15377,7 @@ clampers
 clamping
 clamps
 clamshell
+convoke
 clamshells
 clamworms
 clan
@@ -24203,7 +24204,6 @@ convoy
 convoyed
 convoying
 convoys
-convoke
 convoked
 convoker
 convokers
