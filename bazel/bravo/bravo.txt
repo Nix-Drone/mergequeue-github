@@ -535,7 +535,6 @@ backstroke
 backstromite
 backswept
 backswimmer
-backsword
 backswording
 bettergates
 backswordman
@@ -17657,6 +17656,7 @@ burglarized
 burglarizes
 burglarizing
 burglarproof
+backsword
 burglarproofed
 berat
 burglarproofing
