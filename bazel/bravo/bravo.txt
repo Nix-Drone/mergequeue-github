@@ -2495,7 +2495,6 @@ bardism
 bardlet
 boothian
 bardlike
-burut
 bardling
 beswinge
 bardo
@@ -17279,6 +17278,7 @@ blurping
 bumblebee
 bumblebeefish
 bumbleberry
+burut
 bumblebomb
 bumblekite
 bumblepuppy
