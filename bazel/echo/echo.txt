@@ -1730,6 +1730,7 @@ ectomorphism
 eiders
 eidograph
 erica
+equatable
 eidola
 eidolism
 episepalous
@@ -8576,7 +8577,6 @@ equals
 equanimously
 equanimousness
 equatability
-equatable
 equate
 equates
 equating
