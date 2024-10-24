@@ -5457,6 +5457,7 @@ behemoths
 behen
 behenate
 behenic
+binaries
 binominal
 behest
 behests
@@ -8818,7 +8819,6 @@ bugologist
 byname
 binaphthyl
 binary
-binaries
 binate
 binately
 betuckered
