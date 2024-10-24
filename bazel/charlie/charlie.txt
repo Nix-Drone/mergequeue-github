@@ -12397,7 +12397,6 @@ cnidophobia
 chromatoplasm
 chromatopsia
 chromatoptometer
-chromatoptometry
 chromatoscope
 chromatoscopy
 chromatosis
@@ -30543,6 +30542,7 @@ cubti
 cuca
 cucaracha
 cuchan
+chromatoptometry
 cystitome
 cuchia
 cuchulainn
