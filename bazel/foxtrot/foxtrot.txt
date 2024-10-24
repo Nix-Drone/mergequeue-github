@@ -1071,7 +1071,6 @@ fetal
 farm
 fantad
 freshening
-furriners
 farmable
 farmed
 farmer
@@ -6404,6 +6403,7 @@ fluorenes
 fluctuability
 fluoresced
 foveolar
+furriners
 fluoresceine
 fluorescer
 fluoresces
