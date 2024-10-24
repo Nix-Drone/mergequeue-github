@@ -19593,7 +19593,6 @@ creeperless
 columnizes
 columnizing
 columns
-columnwise
 colure
 colures
 colusite
@@ -30014,6 +30013,7 @@ croupier
 croupiers
 croupiest
 croupiness
+columnwise
 croupon
 croupous
 croups
