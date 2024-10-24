@@ -2578,7 +2578,6 @@ bergere
 bargehouse
 bargelike
 bargelli
-bargello
 bargeload
 bargeman
 bromcamphor
@@ -10525,6 +10524,7 @@ blatting
 blattodea
 blattoid
 balneal
+bargello
 bycoket
 blattoidea
 blaubok
