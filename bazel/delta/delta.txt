@@ -3604,7 +3604,6 @@ definition
 degass
 degassed
 degassing
-degauss
 degaussing
 degelatinize
 diatonous
@@ -5181,6 +5180,7 @@ denial
 dentinoid
 denials
 denicotine
+degauss
 denicotinize
 denicotinized
 dowable
