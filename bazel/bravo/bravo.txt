@@ -3747,6 +3747,7 @@ battable
 battailant
 browntop
 battailous
+blooming
 battak
 bally
 battalias
@@ -5112,7 +5113,6 @@ befits
 befitted
 befitting
 befittingly
-blooming
 befittingness
 beflag
 beflagged
