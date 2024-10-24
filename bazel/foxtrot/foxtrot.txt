@@ -1185,7 +1185,6 @@ fenite
 fascia
 fogeater
 fasciae
-fasciate
 featherbone
 fasciated
 fasciation
@@ -5827,6 +5826,7 @@ floatsmen
 floatstone
 fearless
 flob
+fasciate
 filterman
 flobby
 forswat
