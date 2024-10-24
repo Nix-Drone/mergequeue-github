@@ -1587,7 +1587,6 @@ acclinal
 acclinate
 acclivity
 acclivities
-acclivitous
 acclivous
 accloy
 archengineer
@@ -9592,6 +9591,7 @@ aluminose
 aluminosis
 aluminothermy
 azores
+acclivitous
 acrotarsial
 aluminothermics
 aluminous

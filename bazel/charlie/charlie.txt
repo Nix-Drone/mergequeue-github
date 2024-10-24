@@ -1508,7 +1508,6 @@ callosal
 callose
 calloses
 callosity
-callosities
 callosum
 callous
 crutches
@@ -11569,6 +11568,7 @@ crazies
 cholecystoduodenostomy
 cholecystogastrostomy
 cholecystogram
+callosities
 cholecystography
 cholecystojejunostomy
 cholecystokinin
