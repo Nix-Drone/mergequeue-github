@@ -8978,7 +8978,6 @@ foundations
 founded
 founder
 foundered
-foundery
 foundering
 foundership
 foundling
@@ -11739,6 +11738,7 @@ fuzil
 facingly
 ferfathmur
 fuzils
+foundery
 fuzz
 fuzzball
 fuzzed
