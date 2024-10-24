@@ -5785,7 +5785,6 @@ depoetize
 depoh
 depolarisation
 depolarise
-drapeable
 depolarised
 depolariser
 darksome
@@ -17069,6 +17068,7 @@ decorated
 dribblers
 dribbles
 dribblet
+drapeable
 dribblets
 drybeard
 dragnets
