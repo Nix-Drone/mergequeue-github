@@ -16091,6 +16091,7 @@ cliency
 client
 clientage
 cliental
+coulombs
 cliented
 clientelage
 clienteles
@@ -26554,7 +26555,6 @@ coulisses
 couloir
 coulomb
 coulombmeter
-coulombs
 coulometer
 coulter
 coulterneb
