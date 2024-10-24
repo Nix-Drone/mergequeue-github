@@ -1494,7 +1494,6 @@ deeryards
 deadeye
 deaden
 deadened
-deadener
 deadeners
 deadening
 deadeningly
@@ -16386,6 +16385,7 @@ downtimes
 downton
 downtown
 downtowns
+deadener
 downtrampling
 downtreading
 downtrend
