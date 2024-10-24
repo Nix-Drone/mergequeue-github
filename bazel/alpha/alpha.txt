@@ -4369,7 +4369,6 @@ adrenochrome
 adrenocortical
 adrenocorticosteroid
 aurorae
-adrenocorticotrophic
 ammonolysis
 adrenocorticotropic
 adrenolysis
@@ -6986,6 +6985,7 @@ airwards
 archliar
 airwave
 airwaves
+adrenocorticotrophic
 airwise
 alternative
 abstruseness
