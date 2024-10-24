@@ -8200,6 +8200,7 @@ diagnosable
 diagnose
 dipus
 diagnosed
+disannuller
 diagnoses
 diagnosis
 diagnostical
@@ -11008,7 +11009,6 @@ disannex
 despots
 disannul
 disannulled
-disannuller
 disannulment
 disincarcerate
 disannuls
