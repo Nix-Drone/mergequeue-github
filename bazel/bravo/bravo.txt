@@ -9450,7 +9450,6 @@ byreman
 birettas
 byrewards
 byrewoman
-birgand
 biriani
 birken
 blimps
@@ -11099,6 +11098,7 @@ bump
 bloodripeness
 bloodroot
 bloods
+birgand
 bloodshed
 bloodshedder
 borons
