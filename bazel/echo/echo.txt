@@ -2262,6 +2262,7 @@ electioneerer
 elections
 elective
 ephemerons
+epidemiographist
 electives
 electivism
 electivity
@@ -7743,7 +7744,6 @@ epidemicalness
 epidemicity
 epidemiography
 ejulation
-epidemiographist
 elytroplastic
 epidemiology
 enterorrhexis
