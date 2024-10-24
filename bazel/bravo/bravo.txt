@@ -2865,7 +2865,6 @@ barostat
 bruta
 blasphemers
 baroswitch
-barotactic
 barotaxy
 butling
 barotaxis
@@ -17733,6 +17732,7 @@ becker
 booziest
 burler
 burlesk
+barotactic
 burlesks
 burlesqued
 burlesquer
