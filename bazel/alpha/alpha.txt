@@ -8648,7 +8648,6 @@ allergin
 allergins
 allergist
 allergists
-allergology
 allerion
 allethrin
 alleve
@@ -11328,6 +11327,7 @@ ampullary
 anselmian
 ampullaria
 asepticize
+allergology
 ampullated
 arrondissements
 ampulliform
