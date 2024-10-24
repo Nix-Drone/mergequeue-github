@@ -682,7 +682,6 @@ bacteriotherapy
 balanophorin
 bacteriotoxic
 bechances
-bacteriotoxin
 bal
 bacteriotrypsin
 bynames
@@ -11979,6 +11978,7 @@ boycott
 boycottage
 boycotted
 boycotting
+bacteriotoxin
 boycottism
 boycotts
 boid
