@@ -3568,7 +3568,6 @@ filaments
 filamentule
 filander
 filao
-forsterite
 filaree
 fishboats
 filarees
@@ -4217,6 +4216,7 @@ fireplug
 frieze
 fireplugs
 firepot
+forsterite
 fireproofed
 fireproofing
 fireproofness
