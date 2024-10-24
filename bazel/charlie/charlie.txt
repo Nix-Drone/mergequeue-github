@@ -6722,6 +6722,7 @@ coreplasty
 celioenterotomy
 counterearth
 chary
+cytosome
 celiohysterotomy
 celiomyalgia
 celiomyodynia
@@ -14991,7 +14992,6 @@ cytosine
 conducted
 celebrationis
 cytosines
-cytosome
 cytospectrophotometry
 cytospora
 cytosporina
