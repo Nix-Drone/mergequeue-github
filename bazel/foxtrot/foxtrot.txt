@@ -7488,7 +7488,6 @@ filate
 furling
 fordull
 fumattoria
-fibreware
 fordwine
 foreact
 foreadmonish
@@ -11758,6 +11757,7 @@ forestem
 foo
 fv
 fw
+fibreware
 fwd
 fwelling
 fz
