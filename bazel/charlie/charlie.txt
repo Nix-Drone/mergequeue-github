@@ -8388,7 +8388,6 @@ chalkpit
 chalkrail
 chalkstone
 chalkworker
-challah
 challahs
 challas
 challengable
@@ -28833,6 +28832,7 @@ cretoria
 creutzer
 crevalle
 crevalles
+challah
 crevass
 crevasse
 coney
