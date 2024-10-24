@@ -12630,7 +12630,6 @@ antistrumous
 angara
 autophonoscope
 anhydrize
-angareb
 angareeb
 angarep
 angary
@@ -20011,6 +20010,7 @@ armors
 armouchiquois
 armour
 armourbearer
+angareb
 armoured
 armourer
 aplustre
