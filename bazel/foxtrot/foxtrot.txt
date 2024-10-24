@@ -3278,6 +3278,7 @@ fluviometer
 fiddlerfish
 fiddlerfishes
 field
+formatter
 fiddlery
 fiddles
 foreknowable
@@ -4444,7 +4445,6 @@ fissile
 fissilinguia
 formatting
 fissility
-formatter
 fission
 fissionable
 fissioned
