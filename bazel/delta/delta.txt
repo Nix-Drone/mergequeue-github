@@ -8281,7 +8281,6 @@ dialectics
 diamb
 dialectologer
 diplois
-dialectology
 dialectologic
 dialectological
 dialectologically
@@ -15004,6 +15003,7 @@ doglike
 dufrenite
 dogmata
 dogmatic
+dialectology
 dumping
 dogeless
 dogmatical
