@@ -1586,7 +1586,6 @@ acclimatizing
 acclinal
 acclinate
 acclivity
-acclivities
 acclivitous
 acclivous
 accloy
@@ -16478,6 +16477,7 @@ aleuroscope
 antler
 antlered
 alcoves
+acclivities
 antlerite
 antlerless
 antlers
