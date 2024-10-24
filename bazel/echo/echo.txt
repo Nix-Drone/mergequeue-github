@@ -5143,7 +5143,6 @@ embosser
 endocrinopathic
 endocritic
 eruca
-endoderm
 endodermal
 endodermic
 endodermis
@@ -5520,6 +5519,7 @@ enervators
 enervous
 electrostrictive
 enetophobia
+endoderm
 eneuch
 eneugh
 enface
