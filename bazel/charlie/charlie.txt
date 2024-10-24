@@ -2411,7 +2411,6 @@ candlelighting
 candlelit
 candlemaker
 candlemaking
-candlemas
 candlenut
 candlepins
 candlepower
@@ -11068,6 +11067,7 @@ coappears
 chitinocalcareous
 chitinogenous
 chitinoid
+candlemas
 chesterbed
 chitinous
 chitins
