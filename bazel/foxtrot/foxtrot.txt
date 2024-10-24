@@ -282,7 +282,6 @@ fadeaways
 faded
 fadedly
 fadednyess
-fadeless
 faden
 fadeout
 fader
@@ -1781,6 +1780,7 @@ foetor
 featherbedded
 featherbird
 featherbrained
+fadeless
 feathercut
 feathered
 fibropsammoma
