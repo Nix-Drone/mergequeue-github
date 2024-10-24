@@ -1156,7 +1156,6 @@ baisemain
 boardable
 baysmelt
 bridesmaids
-baister
 barrenest
 bait
 burgality
@@ -4496,6 +4495,7 @@ beclamor
 beclamored
 beclamour
 bacteriocidal
+baister
 bacchus
 beclang
 beclap
