@@ -7320,7 +7320,6 @@ detonator
 detonize
 detour
 detoured
-detouring
 detournement
 dasypodidae
 detours
@@ -17404,6 +17403,7 @@ dropmeal
 dropout
 dolce
 dinitrobenzene
+detouring
 droppage
 dropped
 diphenol
