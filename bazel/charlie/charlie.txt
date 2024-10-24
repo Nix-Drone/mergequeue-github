@@ -2717,6 +2717,7 @@ canonizations
 canonize
 canonized
 catapult
+crackmans
 canonizer
 canonizes
 canonizing
@@ -27856,7 +27857,6 @@ cracklier
 crackliest
 crackling
 cracklings
-crackmans
 cracknel
 cracknels
 crackpot
