@@ -8134,6 +8134,7 @@ diacritical
 diacromyodi
 demises
 djelab
+dotless
 diact
 diactin
 diactinal
@@ -15959,7 +15960,6 @@ dotish
 dotishness
 dotkin
 devilish
-dotless
 dotlet
 doto
 dotonidae
