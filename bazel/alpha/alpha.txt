@@ -3970,7 +3970,6 @@ adjoinedly
 adjoiner
 adjoining
 adjoiningness
-adjoins
 adjoint
 adjoints
 adjournal
@@ -13729,6 +13728,7 @@ anointment
 anointments
 anoints
 antituberculosis
+adjoins
 anole
 anoli
 anolian
