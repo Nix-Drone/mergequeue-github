@@ -4207,7 +4207,6 @@ empoison
 empoisoned
 encaustes
 ephoral
-evocators
 etherol
 empoisonment
 empoisons
@@ -4554,6 +4553,7 @@ ensilage
 electorship
 echium
 endolithic
+evocators
 encephalartos
 encephalasthenia
 encyclical
