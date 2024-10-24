@@ -8219,7 +8219,6 @@ dele
 diagonal
 diagonalizable
 diagonalization
-diagonalize
 disinteresting
 diagnosing
 diseurs
@@ -15831,6 +15830,7 @@ dorsointercostal
 dorsolateral
 dequeen
 dorsolum
+diagonalize
 dorsolumbar
 destinations
 dorsomedial
