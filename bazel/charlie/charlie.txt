@@ -9914,7 +9914,6 @@ chemoreceptive
 chemoreceptivity
 chemoreceptivities
 castrating
-chemoreceptor
 chemoreflex
 chemoresistance
 chemosensitive
@@ -29340,6 +29339,7 @@ cryptostome
 cryptotaenia
 cryptous
 cryptovalence
+chemoreceptor
 cholane
 cryptovalency
 cryptovolcanism
