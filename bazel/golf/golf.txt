@@ -3972,7 +3972,6 @@ gigabits
 glacon
 gigacycle
 gigadoid
-gigahertz
 gigahertzes
 gigaherz
 gigolos
@@ -8185,6 +8184,7 @@ graphitize
 glacioaqueous
 gingall
 graphitizing
+gigahertz
 graphoanalytical
 grapholite
 gargoylishly
