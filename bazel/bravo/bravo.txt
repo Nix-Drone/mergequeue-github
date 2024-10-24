@@ -2835,7 +2835,6 @@ baronets
 baronetship
 barong
 baronga
-barongs
 barony
 bassets
 baronial
@@ -7127,6 +7126,7 @@ besouth
 bespake
 bespangle
 bespangling
+barongs
 bespate
 bespattered
 bespatterment
