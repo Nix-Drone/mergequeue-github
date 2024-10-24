@@ -5308,6 +5308,7 @@ endoskeletons
 endosmic
 endosmometric
 eyr
+epaule
 evaders
 erasions
 electroplax
@@ -7416,7 +7417,6 @@ eparterial
 epeisodion
 eggberries
 extrazodiacal
-epaule
 epaulement
 epaulet
 effodientia
