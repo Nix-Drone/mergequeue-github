@@ -5361,6 +5361,7 @@ affixment
 ague
 affixture
 afflate
+animalize
 afflated
 afflatus
 afflatuses
@@ -13158,7 +13159,6 @@ animalivora
 animalivore
 animalivorous
 animalization
-animalize
 animalized
 antimonarchic
 animally
