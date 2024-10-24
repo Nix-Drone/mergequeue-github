@@ -1086,6 +1086,7 @@ farmership
 farmhold
 farmhouse
 feronia
+farrago
 farmhousey
 fontinalaceae
 fuzzle
@@ -1120,7 +1121,6 @@ filmgoer
 farrage
 frizzed
 favella
-farrago
 fordone
 farrand
 flyaways
