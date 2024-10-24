@@ -1097,6 +1097,7 @@ foremastman
 farmland
 farmost
 farmout
+fascinations
 fasteners
 fisc
 farms
@@ -1214,7 +1215,6 @@ fascinating
 femur
 fascinatingly
 fascination
-fascinations
 fascinator
 ferous
 fibularia
