@@ -4342,7 +4342,6 @@ encoop
 enabling
 enact
 enactable
-enacted
 enacting
 enactment
 enactments
@@ -9398,6 +9397,7 @@ erucivorous
 eruct
 eructance
 extralegal
+enacted
 eructated
 eructates
 endeavor
