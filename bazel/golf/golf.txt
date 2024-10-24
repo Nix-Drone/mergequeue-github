@@ -3911,7 +3911,6 @@ gybing
 ganglionectomy
 gynandromorphous
 graphospasm
-giblet
 giblets
 giboia
 goyle
@@ -5419,6 +5418,7 @@ glycerose
 glyceroxide
 glycic
 glycid
+giblet
 glycide
 galoshed
 glycyl
