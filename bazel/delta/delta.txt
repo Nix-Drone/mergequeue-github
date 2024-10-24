@@ -5755,7 +5755,6 @@ deploying
 defilade
 deployment
 deployments
-deftest
 deplorabilia
 deplorability
 depolymerizing
@@ -15772,6 +15771,7 @@ dorrbeetle
 dorrs
 dors
 dorsa
+deftest
 diallela
 dorsabdominally
 dipsacus
