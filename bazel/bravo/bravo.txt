@@ -4350,7 +4350,6 @@ beaverize
 beaverkill
 beaverkin
 beaverlike
-beaverroot
 beavers
 beaverskin
 beaverteen
@@ -16855,6 +16854,7 @@ barhopping
 buffs
 buffware
 bufidin
+beaverroot
 bufo
 bufonid
 bromoethylene
