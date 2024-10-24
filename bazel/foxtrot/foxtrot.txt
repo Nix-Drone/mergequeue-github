@@ -6713,7 +6713,6 @@ forefence
 foetus
 fofarraw
 flanger
-fog
 fogbank
 fogbound
 fogbow
@@ -9342,6 +9341,7 @@ fourchee
 fluyt
 frayproof
 feretra
+fog
 fraise
 festuca
 fraised
