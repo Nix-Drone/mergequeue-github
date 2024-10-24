@@ -17690,6 +17690,7 @@ cocopans
 cocoroot
 cocos
 cocotte
+connective
 cocottes
 cocobolo
 cocovenantor
@@ -22572,7 +22573,6 @@ connectional
 connectionism
 connections
 connectival
-connective
 connectively
 connectives
 connectivity
