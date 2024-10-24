@@ -6398,7 +6398,6 @@ agreation
 agreations
 attemptability
 agreeability
-agreeable
 agreeableness
 agreeably
 agreed
@@ -11043,6 +11042,7 @@ amphibolitic
 amphibology
 angiograph
 amphibologically
+agreeable
 amphibologies
 amphibologism
 amphibolostylous
