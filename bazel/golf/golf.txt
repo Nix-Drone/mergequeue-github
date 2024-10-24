@@ -1223,7 +1223,6 @@ geologian
 griphosaurus
 gavotte
 ganoidian
-ganoids
 gasterophilus
 ganoine
 ganomalite
@@ -10265,6 +10264,7 @@ guitar
 guitarist
 gnathions
 guitarists
+ganoids
 ghazies
 glabrous
 geographize
