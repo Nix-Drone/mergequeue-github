@@ -5191,7 +5191,6 @@ casse
 caveats
 cassegrain
 chromomeric
-coordinations
 cassegrainian
 cassena
 casserole
@@ -12329,6 +12328,7 @@ christologist
 christophany
 christophe
 christopher
+coordinations
 christos
 christs
 christward
