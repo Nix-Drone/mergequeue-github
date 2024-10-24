@@ -4178,6 +4178,7 @@ admonitionist
 admonitions
 acrasia
 admonitive
+algorithmic
 admonitively
 admonitor
 arousers
@@ -8128,7 +8129,6 @@ algorismic
 algorisms
 algorist
 algoristic
-algorithmic
 algorithmically
 algors
 algosis
