@@ -1628,7 +1628,6 @@ calpac
 calpack
 calpacked
 calpacks
-calpacs
 calpolli
 calpul
 calpulli
@@ -30168,6 +30167,7 @@ cruds
 crudwort
 cruel
 capibara
+calpacs
 cruelest
 cruelhearted
 crueller
