@@ -286,7 +286,6 @@ burdensomeness
 backarrow
 backarrows
 backout
-backband
 backbar
 backbearing
 biotechnologies
@@ -4056,6 +4055,7 @@ beadiest
 bathrobes
 beading
 beadings
+backband
 beadlehood
 beadleism
 beadles
