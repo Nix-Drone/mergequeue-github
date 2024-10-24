@@ -1688,7 +1688,6 @@ faxing
 fazes
 fc
 fchar
-fipenny
 fcomp
 farcin
 fcp
@@ -9637,6 +9636,7 @@ fumewort
 fluidities
 floristic
 frecket
+fipenny
 freckle
 fenagle
 freckled
