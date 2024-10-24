@@ -520,7 +520,6 @@ falconet
 farragoes
 falconiform
 falconiformes
-falconinae
 falconnoid
 falconoid
 flecker
@@ -6866,6 +6865,7 @@ foliated
 foliates
 foliating
 foliation
+falconinae
 foliator
 foliature
 finiglacial
