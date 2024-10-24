@@ -9602,6 +9602,7 @@ escout
 escry
 escribe
 eiffel
+exclude
 escribiente
 escribientes
 escrime
@@ -13302,7 +13303,6 @@ expositional
 expositions
 expositive
 expositively
-exclude
 evestar
 encup
 encratic
