@@ -21960,7 +21960,6 @@ configures
 configuring
 coxcombry
 confinable
-confine
 confineable
 confined
 chalcophile
@@ -31322,6 +31321,7 @@ concordats
 curfs
 cury
 curia
+confine
 consolers
 curiae
 curiage
