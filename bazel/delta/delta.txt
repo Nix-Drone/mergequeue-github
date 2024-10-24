@@ -2476,6 +2476,7 @@ deckman
 deckpipe
 decks
 dulls
+dentello
 deckswabber
 decl
 declaim
@@ -16798,7 +16799,6 @@ drawability
 diarrhoeic
 derelictions
 drawarm
-dentello
 drawback
 drawbar
 drawbars
