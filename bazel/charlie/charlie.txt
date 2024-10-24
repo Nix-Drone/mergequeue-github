@@ -9774,7 +9774,6 @@ chelerythrine
 chelicer
 chelicera
 chelicerae
-cheliceral
 chelicerate
 cysts
 chelide
@@ -29872,6 +29871,7 @@ crosshatcher
 crosshatches
 cogwheel
 crosshatching
+cheliceral
 crosshaul
 crosshauling
 crosshead
