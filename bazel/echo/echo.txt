@@ -5307,7 +5307,6 @@ ephetic
 endoskeletons
 endosmic
 endosmometric
-eyr
 evaders
 erasions
 electroplax
@@ -5526,6 +5525,7 @@ enface
 enfacement
 enfaces
 elatedly
+eyr
 enfamous
 effector
 enfasten
