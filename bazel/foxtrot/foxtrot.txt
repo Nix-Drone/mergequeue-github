@@ -5949,7 +5949,6 @@ fiddleback
 floorshift
 fawny
 floorshifts
-floorshow
 floorway
 fluidrachm
 floorward
@@ -11131,6 +11130,7 @@ formatively
 firemaster
 functionalize
 functionalized
+floorshow
 functionary
 functionated
 furunculus
