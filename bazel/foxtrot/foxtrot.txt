@@ -4143,7 +4143,6 @@ fireboy
 firebomb
 firebombed
 firebombing
-frostlike
 faithwise
 firebombs
 forestery
@@ -10006,6 +10005,7 @@ friended
 folliculous
 friending
 formose
+frostlike
 friendless
 friendlessness
 filter
