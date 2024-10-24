@@ -3704,7 +3704,6 @@ adenomata
 adenomatome
 adenometritis
 adenomycosis
-adenomyofibroma
 adenomyoma
 agapornis
 adenomyxosarcoma
@@ -6938,6 +6937,7 @@ acieral
 airplot
 airport
 airports
+adenomyofibroma
 airpost
 airposts
 airproof
