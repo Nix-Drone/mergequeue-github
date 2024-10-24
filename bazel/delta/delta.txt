@@ -2619,6 +2619,7 @@ decolorimeter
 decoloring
 decolorisation
 decoloriser
+decontaminations
 decolorising
 dispose
 decolorization
@@ -2714,7 +2715,6 @@ decontaminate
 decontaminated
 decontaminates
 decontaminating
-decontaminations
 decontaminator
 decontaminators
 discerners
