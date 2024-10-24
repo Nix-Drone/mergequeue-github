@@ -3724,7 +3724,6 @@ archaize
 amsonia
 adenophore
 adenophorous
-accumulative
 adenopodous
 adenosarcoma
 adenosarcomas
@@ -15914,6 +15913,7 @@ antiplanet
 antiplastic
 almeries
 antiplatelet
+accumulative
 awarn
 antipleion
 antiplenist
