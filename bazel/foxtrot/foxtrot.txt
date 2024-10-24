@@ -7230,6 +7230,7 @@ fibs
 footpath
 footpaths
 fatidic
+frequentness
 footplate
 footpound
 fogs
@@ -9873,7 +9874,6 @@ flogging
 fessways
 frondesce
 frequenting
-frequentness
 furlane
 fimbriation
 fewnesses
