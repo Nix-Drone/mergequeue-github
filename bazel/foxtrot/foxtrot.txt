@@ -1084,6 +1084,7 @@ farmerly
 farmerlike
 farmership
 farmhold
+furcilia
 farmhouse
 feronia
 farmhousey
@@ -8000,7 +8001,6 @@ foresight
 foresightedness
 foresightful
 foresightless
-furcilia
 foresights
 feasts
 flotorial
