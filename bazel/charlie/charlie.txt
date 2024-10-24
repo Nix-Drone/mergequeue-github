@@ -7848,7 +7848,6 @@ cervicobuccal
 cervicodynia
 cervicofacial
 cervicolabial
-cervicolingual
 cervicolumbar
 crystal
 cervicomuscular
@@ -21083,6 +21082,7 @@ concatenates
 concatenating
 coequating
 concatenation
+cervicolingual
 concatenations
 concatenator
 concatervate
