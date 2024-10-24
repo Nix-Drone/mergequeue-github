@@ -213,6 +213,7 @@ abbots
 adlumine
 abbotships
 abscision
+aligned
 abbott
 abbozzo
 abbr
@@ -8239,7 +8240,6 @@ alighted
 alighting
 alightment
 align
-aligned
 aligners
 aligning
 alignment
