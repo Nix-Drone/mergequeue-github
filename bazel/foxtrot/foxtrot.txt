@@ -7466,7 +7466,6 @@ fivers
 flabbergastation
 finds
 ford
-fordable
 flaunche
 fordableness
 fordays
@@ -9096,6 +9095,7 @@ foveate
 fingallian
 foveation
 foveiform
+fordable
 facedown
 fumigants
 fascioliasis
