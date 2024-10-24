@@ -10561,7 +10561,6 @@ blazons
 bld
 bothriocidaris
 blea
-bleach
 bleachability
 bleachable
 bleached
@@ -15746,6 +15745,7 @@ balandra
 broddle
 brodee
 brodeglass
+bleach
 broderer
 brodiaea
 bilateralistic
