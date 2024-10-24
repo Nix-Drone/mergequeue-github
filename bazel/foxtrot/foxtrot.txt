@@ -7912,7 +7912,6 @@ frenchify
 forerank
 forereach
 forereading
-forerecited
 forereckon
 forerehearsed
 forerequest
@@ -8986,6 +8985,7 @@ fabella
 fetial
 foundlings
 foundress
+forerecited
 featness
 foundryman
 fragilariaceae
