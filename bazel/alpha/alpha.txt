@@ -1443,6 +1443,7 @@ accentuates
 accentus
 accept
 acceptability
+alloclasite
 acceptable
 acceptableness
 acceptance
@@ -5616,7 +5617,6 @@ aftergame
 aftergas
 afterglide
 afterglow
-alloclasite
 afterglows
 aftergo
 aftergood
