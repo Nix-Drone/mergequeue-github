@@ -1305,7 +1305,6 @@ emblemology
 eelshop
 eelskin
 eelware
-eelworm
 estragon
 een
 eyepieces
@@ -12761,6 +12760,7 @@ exorbitancy
 exorbitant
 embryography
 exorbitantly
+eelworm
 exquisitiveness
 exorbitation
 encircling
