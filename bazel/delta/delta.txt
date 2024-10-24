@@ -1689,7 +1689,6 @@ deathbed
 deathbeds
 deathcup
 degree
-deathcups
 donatary
 deathday
 deathful
@@ -16479,6 +16478,7 @@ drabbish
 drabble
 drabbled
 drabbler
+deathcups
 datum
 despiciency
 denationalizing
