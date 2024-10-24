@@ -3144,6 +3144,7 @@ capitation
 capitations
 capitatum
 capite
+core
 capiteaux
 capitellar
 capitellate
@@ -25016,7 +25017,6 @@ cordwood
 choleraic
 concocting
 cordwoods
-core
 coreceiver
 corecipient
 coreciprocal
