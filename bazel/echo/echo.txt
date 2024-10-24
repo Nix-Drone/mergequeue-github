@@ -1089,7 +1089,6 @@ edgeling
 edgeman
 edger
 edgers
-edges
 edgeshot
 evaluate
 edgeway
@@ -6422,6 +6421,7 @@ exsection
 ensilist
 ensilver
 ensindon
+edges
 exarteritis
 ensisternum
 ensky
