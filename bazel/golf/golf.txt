@@ -3124,7 +3124,6 @@ guestless
 glassed
 geomagnetist
 gravamen
-geomaly
 geomalic
 geomancer
 geomancy
@@ -6940,6 +6939,7 @@ garg
 gonorrhoeal
 gonosome
 garnets
+geomaly
 gravimeters
 globosities
 gymsia
