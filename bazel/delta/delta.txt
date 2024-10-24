@@ -5731,7 +5731,6 @@ depilous
 depit
 deplace
 deplaceable
-deplane
 deplaned
 deplaning
 deplant
@@ -16883,6 +16882,7 @@ deprocedured
 dreadable
 debunk
 dreader
+deplane
 digladiation
 demultiplexing
 despairingness
