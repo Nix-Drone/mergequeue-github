@@ -10422,7 +10422,6 @@ blastochyle
 blackleg
 blastocyst
 blastocyte
-blastocoel
 blastocoele
 blastocolla
 blastoderm
@@ -12302,6 +12301,7 @@ bombyciform
 bombycillidae
 bombycine
 bombidae
+blastocoel
 bombilate
 bombilation
 bombyliidae
