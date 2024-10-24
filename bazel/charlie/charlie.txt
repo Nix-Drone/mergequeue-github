@@ -3391,7 +3391,6 @@ capsuliferous
 capsuliform
 capsuligerous
 capsuling
-capsulitis
 capsulize
 capsulized
 capsulizing
@@ -21750,6 +21749,7 @@ conductive
 conductively
 conductivity
 conductivities
+capsulitis
 counterwill
 crusets
 conductometer
