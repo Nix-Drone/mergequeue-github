@@ -2500,7 +2500,6 @@ echoist
 electromagnetics
 evacuation
 electromagnetism
-electromagnetist
 escalloping
 electromagnets
 electromassage
@@ -7006,6 +7005,7 @@ entrances
 entrants
 etherializing
 entrapment
+electromagnetist
 embouchure
 eying
 expounding
