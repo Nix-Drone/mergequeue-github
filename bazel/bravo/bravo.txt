@@ -2731,6 +2731,7 @@ barleys
 barless
 barly
 barling
+bouncing
 boza
 barlow
 barlows
@@ -4961,7 +4962,6 @@ beehead
 bedrock
 beeheaded
 beeherd
-bouncing
 beehive
 beehives
 breathes
