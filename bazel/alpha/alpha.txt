@@ -4370,7 +4370,6 @@ adrenocortical
 adrenocorticosteroid
 aurorae
 adrenocorticotrophic
-ammonolysis
 adrenocorticotropic
 adrenolysis
 adrenomedullary
@@ -11819,6 +11818,7 @@ anamorphosis
 azocochineal
 anamorphote
 anamorphous
+ammonolysis
 anan
 aspermatous
 antimaniacal
