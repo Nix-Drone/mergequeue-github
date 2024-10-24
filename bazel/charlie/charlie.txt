@@ -4416,7 +4416,6 @@ carminite
 carminophilous
 carmoisin
 carmot
-carn
 carnac
 carnacian
 carnage
@@ -25339,6 +25338,7 @@ corneum
 cornfactor
 cornfed
 cornfields
+carn
 cornflag
 cornflakes
 cornfloor
