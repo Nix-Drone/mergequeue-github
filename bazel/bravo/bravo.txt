@@ -2739,6 +2739,7 @@ bollixes
 barmaids
 barman
 barmaster
+basidorsal
 barmbrack
 barmcloth
 brither
@@ -3252,7 +3253,6 @@ bifrontal
 belesprit
 basidiospore
 basidiosporous
-basidorsal
 basifacial
 basify
 bathtub

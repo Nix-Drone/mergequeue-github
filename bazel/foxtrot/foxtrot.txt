@@ -4955,7 +4955,6 @@ fertilisable
 flexibly
 flanders
 flandowser
-flane
 fissureless
 frouze
 flaneur
@@ -6554,6 +6553,7 @@ fibrilations
 familic
 flutter
 flutterboard
+flane
 fluttered
 furnacer
 flutterers
