@@ -4125,7 +4125,6 @@ cardplaying
 cardroom
 cards
 clearwing
-collunaria
 cardshark
 carbamido
 cardsharp
@@ -21046,6 +21045,7 @@ conable
 conacaste
 conacre
 conal
+collunaria
 civilize
 conalbumin
 conamarin
