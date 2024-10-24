@@ -4713,7 +4713,6 @@ emblemize
 encyclopediast
 encamp
 encyclopedic
-encyclopedical
 encyclopedically
 encyclopedism
 encyclopedist
@@ -11123,6 +11122,7 @@ eurytherm
 eurythermal
 eurithermophile
 eurithermophilic
+encyclopedical
 eurythermous
 eurythmic
 enisle
