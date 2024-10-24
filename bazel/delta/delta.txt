@@ -1982,7 +1982,6 @@ decagons
 decagram
 decagramme
 decagrams
-decahedra
 decahedral
 decahedron
 damageableness
@@ -6886,6 +6885,7 @@ descrying
 desperate
 durzee
 desperately
+decahedra
 desperation
 despert
 diggers
