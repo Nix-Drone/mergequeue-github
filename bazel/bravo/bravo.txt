@@ -3505,7 +3505,6 @@ bastions
 bastite
 bastnaesite
 bastnasite
-balanoglossus
 basto
 beworms
 baston
@@ -8239,6 +8238,7 @@ biennales
 bienne
 bienness
 biennial
+balanoglossus
 biennially
 biennials
 biennium
