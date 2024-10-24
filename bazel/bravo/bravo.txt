@@ -10233,7 +10233,6 @@ brabbler
 blade
 bladebone
 bladelet
-bladelike
 beleaguerer
 blades
 bladesmith
@@ -14876,6 +14875,7 @@ breastless
 breastmark
 breastpiece
 birthy
+bladelike
 breastpin
 breastplate
 breastplates
