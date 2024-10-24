@@ -2652,6 +2652,7 @@ acoumetry
 autodetector
 airframes
 acouometer
+antibubonic
 acouophonia
 acoluthic
 acoup
@@ -14815,7 +14816,6 @@ antibrachial
 antibreakage
 antibridal
 antibromic
-antibubonic
 antibug
 abede
 agronomics
