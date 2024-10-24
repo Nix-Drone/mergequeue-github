@@ -4604,6 +4604,7 @@ becurses
 becursing
 becurst
 becurtained
+bookwright
 becushioned
 bed
 bedabble
@@ -12728,7 +12729,6 @@ biddy
 bookworm
 bookworms
 bucketeer
-bookwright
 bool
 bowline
 boolean
