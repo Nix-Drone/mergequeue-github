@@ -6016,7 +6016,6 @@ agglutinator
 agamobium
 agglutinin
 agglutinins
-agglutinize
 alls
 agglutinogen
 agglutinogenic
@@ -9814,6 +9813,7 @@ amaroid
 amaroidal
 amarthritis
 amarvel
+agglutinize
 amas
 amasesis
 amass
