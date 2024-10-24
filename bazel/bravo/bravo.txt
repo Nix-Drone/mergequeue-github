@@ -2113,7 +2113,6 @@ bankmen
 banknote
 barrelet
 badaud
-banknotes
 bankrider
 brachycome
 bedlamising
@@ -5140,6 +5139,7 @@ bombshells
 brays
 beflour
 busti
+banknotes
 beflower
 beflowered
 biotas
