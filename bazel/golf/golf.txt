@@ -6347,7 +6347,6 @@ gnotobiotically
 gnow
 gns
 gatefolds
-gnus
 go
 goa
 grammar
@@ -9513,6 +9512,7 @@ grouted
 groundkeeper
 grouter
 geothlypis
+gnus
 grouty
 groutiest
 grouting
