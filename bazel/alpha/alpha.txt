@@ -11589,7 +11589,6 @@ anaerobes
 anaerobian
 anaerobic
 anaerobically
-anaerobies
 anaerobion
 anaerobiont
 anaerobiosis
@@ -22259,6 +22258,7 @@ astrogony
 astrogonic
 astrograph
 astrographer
+anaerobies
 assidean
 astrography
 astrohatch
