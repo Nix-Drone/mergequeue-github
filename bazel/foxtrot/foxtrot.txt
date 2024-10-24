@@ -6816,7 +6816,6 @@ foldage
 foldaway
 foldboater
 farmings
-foldboating
 foldboats
 foldcourse
 festin
@@ -9311,6 +9310,7 @@ fragmentizing
 forsakers
 fragments
 furled
+foldboating
 fishbed
 fragrancy
 fragrant
