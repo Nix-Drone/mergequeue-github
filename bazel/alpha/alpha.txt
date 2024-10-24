@@ -13584,7 +13584,6 @@ annot
 annotater
 amputated
 annotates
-annotating
 annotation
 avoiding
 annotations
@@ -24948,6 +24947,7 @@ awald
 awalim
 apposable
 awalt
+annotating
 awane
 anagennesis
 awanyu
