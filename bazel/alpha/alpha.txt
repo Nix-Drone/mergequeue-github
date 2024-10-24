@@ -12003,7 +12003,6 @@ anastatus
 anastigmat
 anastigmatic
 anastomos
-aspis
 anastomosed
 anastomoses
 anastomosing
@@ -22944,6 +22943,7 @@ attack
 alloerotic
 aerophilic
 arterialisation
+aspis
 attacked
 attacker
 appetencies
