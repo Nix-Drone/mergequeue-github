@@ -3358,7 +3358,6 @@ fied
 fiedlerite
 firstlings
 fief
-foredeem
 fiefs
 forfeitable
 fiel
@@ -6610,6 +6609,7 @@ fluxure
 fn
 footcloth
 fnese
+foredeem
 fo
 foal
 foaled
