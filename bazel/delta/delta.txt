@@ -2574,7 +2574,6 @@ decoction
 disarrest
 decoctive
 decocts
-decoctum
 decodable
 decode
 decoded
@@ -17552,6 +17551,7 @@ druggets
 druggy
 depurates
 druggist
+decoctum
 druggister
 drugless
 dadupanthi
