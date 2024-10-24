@@ -5668,7 +5668,6 @@ catchpoll
 catchpolling
 catchup
 catchups
-catchwater
 contribute
 catchweight
 catchword
@@ -29288,6 +29287,7 @@ cryptographist
 cryptoheresy
 cryptoheretic
 cryptolite
+catchwater
 cryptolith
 cryptology
 cryptological
