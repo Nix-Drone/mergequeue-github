@@ -1391,7 +1391,6 @@ bywords
 bacule
 baldachin
 baldachined
-brushfires
 bristliest
 baldachino
 baldachins
@@ -2454,6 +2453,7 @@ barcarole
 betatter
 barcaroles
 becut
+brushfires
 barcarolle
 barcas
 barcella
