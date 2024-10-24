@@ -3807,7 +3807,6 @@ battleful
 butterburr
 battakhin
 battlegrounds
-battlement
 battlements
 battlepiece
 battleplane
@@ -5698,6 +5697,7 @@ belgas
 belgian
 belgic
 birdbrain
+battlement
 belgium
 belgophile
 buttstrapped
