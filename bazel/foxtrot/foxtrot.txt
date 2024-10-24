@@ -1233,7 +1233,6 @@ fasciolariidae
 fasciole
 fourdrinier
 fascioloid
-fascis
 filamentose
 fulup
 flanken
@@ -11645,6 +11644,7 @@ fetch
 fusteric
 fioretti
 fustet
+fascis
 fusty
 farmage
 fustianish
