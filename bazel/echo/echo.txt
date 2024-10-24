@@ -622,7 +622,6 @@ exhumation
 employes
 epigeal
 echoize
-echolalic
 echoless
 echolocation
 echometer
@@ -6607,6 +6606,7 @@ enterectomies
 exuviates
 enterer
 ellipses
+echolalic
 empathizing
 enterers
 enterfeat
