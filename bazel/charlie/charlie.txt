@@ -14120,7 +14120,6 @@ cyprinin
 caecal
 cyprinodont
 cyprinodontes
-cyprinodontoid
 cyprinoid
 cyprinoidean
 cyprinus
@@ -30282,6 +30281,7 @@ crura
 crural
 crurogenital
 cruroinguinal
+cyprinodontoid
 crurotarsal
 crus
 crusade
