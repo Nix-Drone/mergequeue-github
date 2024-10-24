@@ -2522,7 +2522,6 @@ acknowing
 acknowledge
 acknowledgeable
 acknowledged
-afoam
 acknowledgedly
 acknowledgements
 acknowledger
@@ -20605,6 +20604,7 @@ arthrolith
 arthrolithiasis
 arthromere
 arthromeric
+afoam
 arthrometer
 arthrometry
 arthron
