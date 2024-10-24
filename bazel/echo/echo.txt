@@ -891,7 +891,6 @@ ectoparasitica
 ectopatagia
 exceptioner
 ectopatagium
-eviscerated
 entera
 expediency
 ectopias
@@ -1575,6 +1574,7 @@ egesting
 egestion
 egestions
 egg
+eviscerated
 eggbeater
 ethmoid
 endosternum
