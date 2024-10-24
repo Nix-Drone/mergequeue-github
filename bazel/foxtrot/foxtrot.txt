@@ -5945,6 +5945,7 @@ flummoxes
 fluidizing
 floorless
 floors
+former
 fiddleback
 floorshift
 fawny
@@ -8427,7 +8428,6 @@ febronian
 floridans
 flunkeyite
 formentation
-former
 formeret
 formerly
 formularizing
