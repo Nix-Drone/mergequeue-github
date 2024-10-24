@@ -4311,6 +4311,7 @@ firoloida
 flammability
 facia
 furlongs
+fluctuate
 first
 fylker
 forbearer
@@ -6543,7 +6544,6 @@ fluty
 flutier
 frogger
 flutiest
-fluctuate
 filius
 flytail
 flutina
