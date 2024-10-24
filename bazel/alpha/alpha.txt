@@ -2682,7 +2682,6 @@ acquests
 acquiesce
 acquiesced
 acquiescence
-agravic
 acquiescency
 acquiescent
 ansate
@@ -23371,6 +23370,7 @@ augends
 auger
 airing
 augerer
+agravic
 augers
 auget
 augh
