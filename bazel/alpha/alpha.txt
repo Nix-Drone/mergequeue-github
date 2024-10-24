@@ -3680,7 +3680,6 @@ adenohypersthenia
 adenohypophyseal
 adenohypophysial
 attrib
-adenohypophysis
 adenoid
 adenoidal
 adenoidectomy
@@ -18230,6 +18229,7 @@ allegoricalness
 aquaplanes
 aquaplaning
 aquapuncture
+adenohypophysis
 aquaregia
 aquarelle
 aquarelles
