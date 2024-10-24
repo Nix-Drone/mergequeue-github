@@ -1901,7 +1901,6 @@ bandboxical
 bandcase
 bandcutter
 bande
-bandeau
 bandeaux
 betula
 banded
@@ -15119,6 +15118,7 @@ brewmaster
 bibliopolistic
 brews
 braveries
+bandeau
 brewst
 brewsterite
 brezhnev
