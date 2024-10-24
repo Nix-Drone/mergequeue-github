@@ -2653,6 +2653,7 @@ cushioncraft
 cannoneering
 cannoneers
 clownish
+colonizationist
 cannoning
 cannonism
 cannonproof
@@ -19283,7 +19284,6 @@ colonist
 chiromancer
 colonizability
 colonizable
-colonizationist
 colonizations
 colonize
 comminating
