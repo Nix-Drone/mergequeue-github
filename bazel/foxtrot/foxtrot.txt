@@ -4850,7 +4850,6 @@ flake
 foxier
 flaked
 fluoresce
-faintness
 funiculi
 flakeless
 flakelet
@@ -7989,6 +7988,7 @@ foreshortens
 foreshot
 foreskirt
 foreshots
+faintness
 foreshow
 foreshower
 foreshown
