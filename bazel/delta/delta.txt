@@ -7515,7 +7515,6 @@ devaluated
 devaluates
 devaluation
 devaluations
-devalue
 devalued
 devalues
 devaluing
@@ -15661,6 +15660,7 @@ dopesheet
 dopy
 dopier
 dopiness
+devalue
 dopinesses
 dandlers
 demeans
