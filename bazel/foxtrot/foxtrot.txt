@@ -1348,7 +1348,6 @@ feed
 frogskins
 fasts
 fastuous
-fastuousness
 fastwalk
 fat
 fatagaga
@@ -4966,6 +4965,7 @@ flangeway
 flankard
 fountainhead
 flanked
+fastuousness
 flanker
 flankers
 falconries
