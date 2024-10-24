@@ -2918,7 +2918,6 @@ barrage
 barnmen
 barraged
 barrages
-barraging
 barragon
 bowle
 bosun
@@ -12136,6 +12135,7 @@ bollandist
 bollard
 bollards
 bolled
+barraging
 boller
 barbed
 bolly
