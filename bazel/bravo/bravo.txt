@@ -6552,7 +6552,6 @@ bephrase
 big
 bepicture
 bepiece
-bellyflaught
 bepierce
 bepile
 beacher
@@ -9968,6 +9967,7 @@ bivial
 beinness
 bivinyl
 bivious
+bellyflaught
 bivocalized
 bivoluminous
 bivouaced
