@@ -18735,7 +18735,6 @@ coleopterological
 coleopteron
 coleopterous
 coleoptile
-chromosomal
 coleoptilum
 coleopttera
 coleorhiza
@@ -30340,6 +30339,7 @@ crustification
 crustily
 crusting
 crustose
+chromosomal
 crustosis
 crusts
 crut
