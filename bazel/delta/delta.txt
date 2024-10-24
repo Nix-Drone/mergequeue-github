@@ -5324,7 +5324,6 @@ dentality
 dentalium
 dentaliums
 dentalization
-dentalize
 dentalized
 dentally
 dentallia
@@ -6657,6 +6656,7 @@ desiderium
 desiderta
 diptycas
 darbyite
+dentalize
 desidiose
 deadness
 desight
