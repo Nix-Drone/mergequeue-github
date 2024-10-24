@@ -9573,6 +9573,7 @@ checkrows
 checks
 checkstrap
 checkstring
+cuts
 checksum
 construct
 checksummed
@@ -31854,7 +31855,6 @@ cutoffs
 cutout
 cutpurse
 cutpurses
-cuts
 cutset
 cuttable
 cyclothyme
