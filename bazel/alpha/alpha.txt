@@ -5565,7 +5565,6 @@ afterband
 absorbs
 afterbeat
 afterbirth
-achronical
 afterblow
 afterbody
 afterbodies
@@ -24534,6 +24533,7 @@ auxology
 auxometer
 auxospore
 auxotonic
+achronical
 auxotox
 auxotroph
 auxotrophy
