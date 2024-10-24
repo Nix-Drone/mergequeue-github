@@ -2864,7 +2864,6 @@ barosmin
 barostat
 bruta
 blasphemers
-baroswitch
 barotactic
 barotaxy
 butling
@@ -16667,6 +16666,7 @@ buckism
 buckjumper
 buckland
 bucklandite
+baroswitch
 buckle
 befallen
 buckled
