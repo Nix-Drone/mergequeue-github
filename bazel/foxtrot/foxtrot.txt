@@ -7257,7 +7257,6 @@ flockman
 footslogged
 footslogger
 forgift
-footsoldiers
 finnmarks
 footsore
 footsores
@@ -8161,6 +8160,7 @@ frontirostria
 foreweigh
 forewent
 forewing
+footsoldiers
 forewings
 forewinning
 flabbiest
