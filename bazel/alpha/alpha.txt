@@ -11563,7 +11563,6 @@ aristarch
 anaculture
 anacusia
 anacusic
-anacusis
 anadenia
 anadesm
 anadicrotism
@@ -22225,6 +22224,7 @@ astroblast
 astrobotany
 astrochemistry
 astrochronological
+anacusis
 astrocyte
 astrocytic
 astrocytoma
