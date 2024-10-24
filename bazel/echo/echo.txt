@@ -6447,7 +6447,6 @@ ensnare
 ensnared
 explosive
 ensnarement
-ensnarer
 ensnarers
 ensnares
 evangelistic
@@ -12453,6 +12452,7 @@ exhaustiveness
 egyptianism
 epistles
 exhaustivity
+ensnarer
 exhaustless
 exhaustlessly
 echites
