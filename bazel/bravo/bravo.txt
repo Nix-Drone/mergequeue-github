@@ -7569,7 +7569,6 @@ bevaring
 bevatron
 beveil
 beveled
-bevelers
 blastophore
 beveling
 bevelled
@@ -12818,6 +12817,7 @@ boot
 bootable
 beachdrops
 bootblack
+bevelers
 bootblacks
 bloomingness
 bootees
