@@ -2928,7 +2928,6 @@ beneficency
 broadcasts
 barranca
 barrancas
-biverbal
 barrancos
 barrandite
 braconniere
@@ -17398,6 +17397,7 @@ bundler
 bona
 bundlerooted
 bundlers
+biverbal
 bundles
 bundlet
 ballons
