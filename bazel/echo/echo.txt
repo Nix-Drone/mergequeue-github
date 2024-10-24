@@ -1156,7 +1156,6 @@ edility
 edwina
 electromechanically
 editable
-editchar
 eccentrically
 edited
 edith
@@ -13333,6 +13332,7 @@ exposures
 expound
 expoundable
 expounder
+editchar
 expounders
 empocket
 expounds
