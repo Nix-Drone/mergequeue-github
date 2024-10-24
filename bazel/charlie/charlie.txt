@@ -7615,7 +7615,6 @@ cerebroid
 cerebroma
 cerebromalacia
 cerebromeningeal
-cerebromeningitis
 carbolating
 cerebrometer
 cerebron
@@ -24754,6 +24753,7 @@ copulae
 copular
 copularium
 copulas
+cerebromeningitis
 copulate
 crang
 copulated
