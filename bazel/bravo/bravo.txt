@@ -5622,7 +5622,6 @@ biface
 belaites
 belam
 belamcanda
-belamy
 belamour
 belanda
 belander
@@ -8918,6 +8917,7 @@ bioassaying
 bioastronautical
 bioastronautics
 bioavailability
+belamy
 biobibliographer
 biobibliography
 biobibliographic

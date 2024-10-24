@@ -1095,7 +1095,6 @@ fructuary
 farmyardy
 foremastman
 farmland
-farmost
 farmout
 fasteners
 fisc
@@ -2504,6 +2503,7 @@ frenchless
 flexity
 fermions
 frutage
+farmost
 fermis
 fermium
 fermorite
