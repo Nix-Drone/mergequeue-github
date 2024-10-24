@@ -11460,7 +11460,6 @@ blunnen
 blunt
 blunted
 bn
-bluntest
 blunthead
 blunthearted
 bluntish
@@ -14825,6 +14824,7 @@ breakfast
 breakfasted
 breakfasting
 breakfasts
+bluntest
 breakfronts
 breaking
 breakings
