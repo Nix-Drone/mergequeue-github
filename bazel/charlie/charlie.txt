@@ -5338,7 +5338,6 @@ castleward
 castlewards
 castlewise
 castock
-castoff
 castoffs
 castor
 castores
@@ -8204,6 +8203,7 @@ countertrades
 chayote
 chair
 calliophone
+castoff
 chairborne
 chairer
 chairing
