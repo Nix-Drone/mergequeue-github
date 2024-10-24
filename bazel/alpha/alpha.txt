@@ -843,6 +843,7 @@ aphidian
 abridgments
 abrim
 abrin
+alphanumerics
 abrine
 abris
 aerosphere
@@ -9303,7 +9304,6 @@ alphabetology
 alphameric
 alphamerically
 alphanumerical
-alphanumerics
 alphard
 alphas
 archispore
