@@ -6280,7 +6280,6 @@ fluidextract
 fluidglycerate
 fluidible
 forcepslike
-fluidic
 fosslology
 forint
 footstool
@@ -10033,6 +10032,7 @@ friezer
 frigage
 frigate
 frigates
+fluidic
 frigatoon
 frigged
 frigger
