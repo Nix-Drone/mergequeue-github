@@ -4354,6 +4354,7 @@ fishbolts
 falchions
 fishbowls
 fisheater
+fluellin
 fisheye
 fisheyes
 fisher
@@ -6235,7 +6236,6 @@ flueless
 fothergilla
 fluellen
 firer
-fluellin
 fluellite
 fellowed
 fluemen
