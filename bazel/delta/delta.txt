@@ -1441,7 +1441,6 @@ dc
 deoxygenate
 dca
 deceived
-dcb
 dclass
 dcollet
 dcor
@@ -11648,6 +11647,7 @@ depoliticize
 discountenanced
 discountenancer
 discountenances
+dcb
 discounter
 distastes
 discounters
