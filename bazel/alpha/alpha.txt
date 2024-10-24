@@ -19173,7 +19173,6 @@ archregent
 archrepresentative
 archrobber
 archrogue
-archruler
 archsacrificator
 archsaint
 archsatrap
@@ -21749,6 +21748,7 @@ assidaean
 assident
 assidual
 agathodaemon
+archruler
 assidually
 adjunction
 assiduity
