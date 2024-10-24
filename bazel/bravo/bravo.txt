@@ -13070,7 +13070,6 @@ borotungstate
 borough
 boroughmaster
 boroughmonger
-boroughmongery
 boroughmongering
 boroughs
 boroughwide
@@ -15185,6 +15184,7 @@ brickfield
 brickfielder
 brickhood
 buddhists
+boroughmongery
 brickyard
 brickier
 broadness
