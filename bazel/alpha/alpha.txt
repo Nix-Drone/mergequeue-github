@@ -8237,7 +8237,6 @@ alight
 afterplay
 alighted
 alighting
-alightment
 align
 aligned
 aligners
@@ -9183,6 +9182,7 @@ alodiality
 alodialty
 alodian
 alodiary
+alightment
 alodiaries
 alodies
 alodification
