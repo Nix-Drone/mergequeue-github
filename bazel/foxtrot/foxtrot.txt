@@ -1714,7 +1714,6 @@ feal
 fealty
 fumigates
 fluorinate
-fear
 fanflower
 fimbles
 fusillade
@@ -3614,6 +3613,7 @@ filemot
 foreknee
 filename
 filenames
+fear
 filer
 fanons
 filers
