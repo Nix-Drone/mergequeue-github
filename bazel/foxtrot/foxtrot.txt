@@ -6717,6 +6717,7 @@ fog
 fogbank
 fogbound
 fogbow
+fangless
 flyblow
 fogdogs
 fairways
@@ -8199,7 +8200,6 @@ forfex
 fairyologist
 frowner
 forficate
-fangless
 foolish
 felines
 forficated
