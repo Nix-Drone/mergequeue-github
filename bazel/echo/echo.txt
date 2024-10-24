@@ -2969,7 +2969,6 @@ eliminable
 eliminand
 eliminant
 eliminate
-entoplastic
 eliminated
 eliminates
 ellipsometry
@@ -13900,6 +13899,7 @@ extraordinary
 extraordinaries
 enduement
 extraordinariness
+entoplastic
 embryogenic
 extraorganismal
 electrolytical
