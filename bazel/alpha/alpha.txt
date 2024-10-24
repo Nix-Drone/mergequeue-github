@@ -5351,7 +5351,6 @@ affix
 affixable
 affixal
 affixation
-affixed
 affixer
 affixers
 affixes
@@ -11362,6 +11361,7 @@ astomous
 amritsar
 amsath
 adulteries
+affixed
 afterwitted
 amsel
 amsterdam
