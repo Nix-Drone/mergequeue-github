@@ -285,6 +285,7 @@ fadednyess
 fadeless
 faden
 fadeout
+firelight
 fader
 faders
 fadge
@@ -3606,7 +3607,6 @@ filechar
 filed
 filefishes
 fogie
-firelight
 filemaker
 fluidize
 filemark
