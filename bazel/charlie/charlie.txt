@@ -2752,7 +2752,6 @@ copaivic
 crouchmas
 cansful
 canso
-cansos
 congenialize
 canst
 canstick
@@ -27074,6 +27073,7 @@ counterside
 crance
 countersign
 countersignature
+cansos
 countersignatures
 countersigned
 countersigns
