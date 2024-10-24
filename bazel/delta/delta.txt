@@ -12564,7 +12564,6 @@ disjointness
 disjoints
 disjointure
 disjudication
-disjunctions
 disjunctive
 disjunctively
 disjunctor
@@ -14715,6 +14714,7 @@ doctorship
 disfranchise
 doctress
 developement
+disjunctions
 donned
 doctrinaire
 doctrinairism
