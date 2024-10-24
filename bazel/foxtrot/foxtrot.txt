@@ -5775,6 +5775,7 @@ footrill
 flittermouse
 farmlands
 flitters
+fluvial
 flitty
 flitting
 flivver
@@ -10963,7 +10964,6 @@ franchised
 feoffeeship
 fulminating
 frosts
-fluvial
 flame
 fulminatory
 fulmined
