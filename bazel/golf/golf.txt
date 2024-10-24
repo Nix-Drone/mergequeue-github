@@ -4013,7 +4013,6 @@ gigartinales
 gigasecond
 gigaton
 gigatons
-gigavolt
 gigawatt
 gills
 gutser
@@ -10740,6 +10739,7 @@ graywall
 gutlike
 gutling
 gutnish
+gigavolt
 guts
 gutsy
 gutsier
