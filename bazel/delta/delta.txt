@@ -15624,7 +15624,6 @@ doorsills
 doorstead
 didactics
 doorstep
-doorstone
 doorstop
 deaconize
 doorway
@@ -15938,6 +15937,7 @@ doted
 doter
 doters
 dotes
+doorstone
 decadist
 doth
 dichapetalum
