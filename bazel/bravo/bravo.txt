@@ -5301,7 +5301,6 @@ beglad
 begladding
 beglare
 beglerbeg
-beglerbeglic
 beglerbeglik
 bags
 bakalai
@@ -10223,6 +10222,7 @@ bladderless
 bladderlike
 burbles
 bastardization
+beglerbeglic
 bladdernut
 bladderpod
 bladderseed
