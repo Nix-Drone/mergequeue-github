@@ -8721,7 +8721,6 @@ expander
 equipluve
 equipment
 equipments
-equipoised
 equipoising
 equipollence
 equipollency
@@ -12858,6 +12857,7 @@ exoticist
 esthetically
 exoticness
 exotics
+equipoised
 exotism
 exotospore
 exotoxic
