@@ -10102,7 +10102,6 @@ chesoun
 chess
 chessart
 chessboard
-chessboards
 chessdom
 chessel
 chesser
@@ -30280,6 +30279,7 @@ cruppering
 cruppers
 crura
 crural
+chessboards
 crurogenital
 cruroinguinal
 crurotarsal
