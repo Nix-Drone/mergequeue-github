@@ -7160,7 +7160,6 @@ footfall
 ferruling
 filoselle
 footfalls
-footfarer
 footfault
 forehandedly
 footfolk
@@ -9815,6 +9814,7 @@ freith
 freity
 fremd
 fremdly
+footfarer
 fremdness
 fremescence
 fremituses
