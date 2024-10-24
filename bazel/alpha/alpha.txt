@@ -1140,6 +1140,7 @@ askew
 abundance
 abundancy
 abundant
+alloisomerism
 abundantia
 abundantly
 abune
@@ -8839,7 +8840,6 @@ acrogenic
 alloys
 alloisomer
 alloisomeric
-alloisomerism
 allokinetic
 allokurtic
 allolalia
