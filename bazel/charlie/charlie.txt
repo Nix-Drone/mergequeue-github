@@ -5295,7 +5295,6 @@ castellate
 castellated
 castellation
 castellatus
-castellet
 castelli
 castellum
 casten
@@ -7049,6 +7048,7 @@ centering
 centerless
 centerline
 centermost
+castellet
 centerpiece
 centerpieces
 codex
