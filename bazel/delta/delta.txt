@@ -1479,7 +1479,6 @@ deacons
 deaconship
 deactivate
 deactivated
-deactivates
 discontinuing
 dicranoid
 dehydromucic
@@ -18038,6 +18037,7 @@ dullbrained
 dulled
 duller
 dullest
+deactivates
 diwans
 dullhearted
 dully
