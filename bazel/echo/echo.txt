@@ -6763,6 +6763,7 @@ enthean
 entheasm
 enfuddle
 entheate
+excluders
 enthelminthic
 etrog
 enthetic
@@ -10711,7 +10712,6 @@ eudaemonics
 eudaemonism
 embrangle
 enmeshes
-excluders
 ensorceling
 emblematically
 epimysium
