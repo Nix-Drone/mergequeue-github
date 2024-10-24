@@ -2771,6 +2771,7 @@ cantador
 cantala
 cantalever
 certain
+corrugation
 cantalite
 cantaliver
 cackled
@@ -25779,7 +25780,6 @@ corrugate
 corrugated
 corrugates
 corrugating
-corrugation
 corrugator
 cadelle
 corrugent
