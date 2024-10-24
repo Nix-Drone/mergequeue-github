@@ -1658,7 +1658,6 @@ egohood
 egoism
 egoisms
 egoist
-egoistical
 egoistically
 egoisticalness
 egoists
@@ -10300,6 +10299,7 @@ ethicality
 ethicalness
 ethicals
 ethician
+egoistical
 executer
 ethicians
 ethicism
