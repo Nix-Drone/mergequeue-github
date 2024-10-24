@@ -3807,7 +3807,6 @@ battleful
 butterburr
 battakhin
 battlegrounds
-battlement
 battlements
 battlepiece
 battleplane
@@ -5512,6 +5511,7 @@ beige
 bb
 beigel
 bemazed
+battlement
 beignet
 beylic
 biblicistic
