@@ -2688,7 +2688,6 @@ byelaws
 bunglesome
 barkey
 barken
-beknights
 barkentine
 barkentines
 barker
@@ -15165,6 +15164,7 @@ bribetaking
 bribeworthy
 batwa
 bribing
+beknights
 boldheartedness
 bodyweight
 bribri
