@@ -8641,7 +8641,6 @@ aller
 allergen
 allergenic
 autarkical
-allergenicity
 allergia
 allergies
 allergin
@@ -17355,6 +17354,7 @@ appreciant
 apophyllous
 apophis
 apophysary
+allergenicity
 apophysate
 apophyseal
 archfriend
