@@ -4473,6 +4473,7 @@ fissirostres
 fissle
 fissura
 fissuration
+foretackle
 fungite
 finesse
 frawn
@@ -8098,7 +8099,6 @@ foresweat
 foreswore
 fumacious
 foret
-foretackle
 foretalking
 fullbacks
 foretaste
