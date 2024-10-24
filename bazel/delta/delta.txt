@@ -12756,7 +12756,6 @@ dysmetria
 dismettled
 disminion
 dismiss
-dismissable
 dismissal
 dismissals
 dismissed
@@ -18367,6 +18366,7 @@ duotoned
 disembody
 duotones
 duotriacontane
+dismissable
 duotriode
 duoviri
 dup
