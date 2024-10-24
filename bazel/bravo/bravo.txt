@@ -2846,6 +2846,7 @@ baronnes
 baronries
 blackbush
 barons
+bisulcated
 briggs
 baronship
 baroque
@@ -9782,7 +9783,6 @@ bistros
 benchwork
 bisubstitution
 bisulc
-bisulcated
 burbot
 bisulfate
 bisulfid
