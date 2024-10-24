@@ -10504,7 +10504,6 @@ amylene
 amylenes
 amylenol
 amiles
-amylic
 amylidene
 amylin
 amylo
@@ -20649,6 +20648,7 @@ arthrosteitis
 arthrosterigma
 arthrostome
 arthrostomy
+amylic
 apeptic
 arthrotyphoid
 amninia
