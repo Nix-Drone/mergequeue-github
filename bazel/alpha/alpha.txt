@@ -2755,7 +2755,6 @@ acratia
 acraturesis
 acrawl
 acre
-acreable
 acreage
 acreak
 anamirta
@@ -5002,6 +5001,7 @@ aeroliths
 aerolitic
 aerolitics
 aerologic
+acreable
 aerological
 aerologies
 aerologist
