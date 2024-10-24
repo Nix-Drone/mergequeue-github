@@ -1072,7 +1072,6 @@ farm
 fantad
 freshening
 furriners
-farmable
 farmed
 farmer
 farmeress
@@ -9048,6 +9047,7 @@ framboesia
 fourierism
 fourierite
 fourling
+farmable
 fourneau
 fourpence
 fulmars
