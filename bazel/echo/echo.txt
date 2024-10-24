@@ -6380,7 +6380,6 @@ ensheathe
 ensheathed
 embiotocid
 ensheathing
-ensheaths
 enshell
 enshelter
 enshield
@@ -9155,6 +9154,7 @@ erythrochroism
 extermined
 erythrocyte
 erythrocytes
+ensheaths
 erythrocytoblast
 erythrocytolysin
 erythrocytolysis
