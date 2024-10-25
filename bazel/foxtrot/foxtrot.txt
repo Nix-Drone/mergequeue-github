@@ -4858,6 +4858,7 @@ flaky
 flakier
 flakiest
 favouredness
+forwardly
 flaking
 flurry
 foxings
@@ -8801,7 +8802,6 @@ forwarder
 forwarders
 forwardest
 forwarding
-forwardly
 forwards
 forwardsearch
 forwarn
