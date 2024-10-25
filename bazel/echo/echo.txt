@@ -1226,6 +1226,7 @@ eident
 educatable
 educate
 evitate
+enunciable
 educated
 educatedly
 educatedness
@@ -7123,7 +7124,6 @@ enlinked
 enumerator
 enunciability
 endoss
-enunciable
 enunciated
 endochondral
 enunciations
