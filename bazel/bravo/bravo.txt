@@ -2718,7 +2718,6 @@ barlafummil
 barleduc
 branchiate
 barleducs
-barley
 barleybrake
 barleybreak
 barleycorn
@@ -7675,6 +7674,7 @@ bewitchment
 bewitchments
 bewizard
 bework
+barley
 bewormed
 biordinal
 beworming
