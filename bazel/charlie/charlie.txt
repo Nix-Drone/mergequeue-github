@@ -17017,7 +17017,6 @@ corrasion
 cogency
 coachmaster
 coachmen
-coachs
 chorobates
 coachsmith
 coachsmithing
@@ -20698,6 +20697,7 @@ cahuapana
 complexions
 chronologic
 complexive
+coachs
 complexly
 complexness
 complexometry
