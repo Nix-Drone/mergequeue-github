@@ -4104,7 +4104,6 @@ gilbertine
 gaddi
 gamene
 gild
-gildable
 gildedness
 gilden
 gilder
@@ -7639,6 +7638,7 @@ gradgrindian
 gillenia
 gingelies
 gradgrindish
+gildable
 gummatous
 gradgrindism
 gradient
