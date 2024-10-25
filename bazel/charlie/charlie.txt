@@ -27806,7 +27806,6 @@ crabmeat
 crabmill
 crabs
 crabsidle
-crabstick
 crabut
 crabweed
 crabwood
@@ -28919,6 +28918,7 @@ cricking
 crickle
 contendere
 cricks
+crabstick
 chandrakanta
 cricoarytenoid
 cricoid
