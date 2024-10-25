@@ -5533,6 +5533,7 @@ flyball
 flybane
 flibbertigibbety
 flybelt
+forwarders
 flybelts
 flyby
 flybys
@@ -8798,7 +8799,6 @@ forwardal
 frescoer
 forwarded
 forwarder
-forwarders
 forwardest
 forwarding
 forwardly
