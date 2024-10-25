@@ -12490,7 +12490,6 @@ anemogram
 anemograph
 anemography
 anemographic
-anemographically
 anemology
 anemologic
 anemological
@@ -21370,6 +21369,7 @@ asperate
 asperated
 artefact
 asperating
+anemographically
 asperation
 aspergation
 asperge
