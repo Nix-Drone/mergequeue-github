@@ -1072,7 +1072,6 @@ farm
 fantad
 freshening
 furriners
-farmable
 farmed
 farmer
 farmeress
@@ -1977,6 +1976,7 @@ feeblebrained
 foreword
 feebleheartedness
 feebleminded
+farmable
 forensicality
 federalizes
 forfeiture
