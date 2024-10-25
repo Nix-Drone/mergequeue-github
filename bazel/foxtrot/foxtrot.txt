@@ -7501,7 +7501,6 @@ foreadvise
 forearmed
 foreallege
 foreallot
-foreannounce
 flatuses
 foreappoint
 foreappointment
@@ -8109,6 +8108,7 @@ folioing
 foreteach
 franchising
 flyboy
+foreannounce
 fraus
 foretell
 foretellable
