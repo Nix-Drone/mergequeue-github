@@ -4809,7 +4809,6 @@ gyroscopics
 gyrose
 gyrostabilized
 gyrostat
-gyrostats
 gyrotheca
 girouette
 gastroduodenostomies
@@ -10213,6 +10212,7 @@ gynecophore
 guilandina
 guillermo
 guillevat
+gyrostats
 guillochee
 glebous
 guillotined
