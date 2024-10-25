@@ -8335,7 +8335,6 @@ drumloid
 dialyzability
 dialyzate
 dialyzation
-dialyzator
 dialyze
 dialyzed
 dialyzer
@@ -15544,6 +15543,7 @@ dipsacaceae
 doodad
 doodads
 doodah
+dialyzator
 doodia
 dictyostele
 doodle
