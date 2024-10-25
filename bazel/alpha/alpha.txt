@@ -10616,7 +10616,6 @@ arccosine
 aminophylline
 aminopyrine
 aminoplast
-aminoplastic
 aminopolypeptidase
 aminopropionic
 aminopurine
@@ -17194,6 +17193,7 @@ apodemal
 apodemas
 apodemata
 apodematal
+aminoplastic
 apodeme
 absolvitory
 apodiabolosis
