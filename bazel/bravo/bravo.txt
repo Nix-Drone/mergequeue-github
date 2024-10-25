@@ -9324,7 +9324,6 @@ biplane
 bobolink
 biplanes
 biplicate
-biplicity
 banishments
 biplosion
 biplosive
@@ -18102,6 +18101,7 @@ bustlers
 bustles
 bustling
 bustlingly
+biplicity
 busto
 busts
 busulfan
