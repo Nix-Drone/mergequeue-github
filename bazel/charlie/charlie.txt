@@ -9010,7 +9010,6 @@ coatracks
 chariot
 charioted
 chariotee
-charioteer
 charioting
 chariotlike
 chariotman
@@ -21347,6 +21346,7 @@ conciliations
 conciliator
 conciliatory
 conciliatorily
+charioteer
 conciliatoriness
 conciliators
 concilium
