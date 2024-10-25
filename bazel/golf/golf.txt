@@ -3917,7 +3917,6 @@ giboia
 goyle
 glave
 gibsons
-gibstaff
 gibus
 gibuses
 giddap
@@ -5391,6 +5390,7 @@ glibnesses
 glycans
 galerite
 glycemia
+gibstaff
 goozle
 glyceria
 gelototherapy
