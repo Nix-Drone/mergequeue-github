@@ -1715,7 +1715,6 @@ deathsmen
 depaysee
 deathtime
 deathtrap
-deathtraps
 deathward
 deathwatches
 deathweed
@@ -9674,6 +9673,7 @@ dilatator
 depositee
 dilatatory
 dilated
+deathtraps
 dilatedly
 demythologized
 disunified
