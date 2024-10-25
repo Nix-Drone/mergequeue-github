@@ -5428,7 +5428,6 @@ endrin
 endromididae
 endrudge
 eltime
-expendable
 endseal
 endshake
 endsheet
@@ -9165,6 +9164,7 @@ erythrocytometer
 erythrocytometry
 erythrocytorrhexis
 elderly
+expendable
 erythrocytoschisis
 erythrocytosis
 elementariness
