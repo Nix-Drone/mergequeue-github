@@ -3818,6 +3818,7 @@ battleship
 battleships
 buhr
 battlesome
+bittacle
 boatfalls
 banderilla
 battlestead
@@ -11599,7 +11600,6 @@ boatings
 boation
 boatkeeper
 bodyplate
-bittacle
 beclamoring
 boxball
 boatlike
