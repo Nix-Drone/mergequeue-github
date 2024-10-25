@@ -4472,7 +4472,6 @@ fissirostrate
 fissirostres
 fissle
 fissura
-fissuration
 fungite
 finesse
 frawn
@@ -10365,6 +10364,7 @@ from
 funiculate
 foister
 fossarian
+fissuration
 folkmot
 fromages
 fromenty
