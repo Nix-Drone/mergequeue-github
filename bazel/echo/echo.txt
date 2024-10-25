@@ -4795,7 +4795,6 @@ extraction
 enclothe
 encloud
 encode
-existible
 encoded
 encoder
 eremopteris
@@ -13542,6 +13541,7 @@ extending
 extends
 enworthy
 extensibility
+existible
 extensible
 extensibleness
 extensile
