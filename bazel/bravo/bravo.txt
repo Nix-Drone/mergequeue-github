@@ -12707,7 +12707,6 @@ booksellers
 bookselling
 bookshelf
 bookshelves
-boloney
 bookshop
 bookshops
 babassus
@@ -17854,6 +17853,7 @@ burroweed
 burrower
 burrowing
 burrows
+boloney
 burrowstown
 benevolent
 burrstone
