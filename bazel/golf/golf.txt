@@ -819,6 +819,7 @@ gratifications
 galvanomagnetic
 galvanometer
 galvanometers
+girons
 girt
 galvanometric
 geometries
@@ -4797,7 +4798,6 @@ girondin
 gentrice
 gironny
 gyronny
-girons
 gyrons
 gyrophoraceae
 gyrophoraceous
