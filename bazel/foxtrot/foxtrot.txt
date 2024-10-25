@@ -2233,6 +2233,7 @@ feltings
 feltmaking
 feltman
 foulard
+flare
 foredeep
 feltmonger
 felts
@@ -5018,7 +5019,6 @@ feckless
 feud
 fuligo
 flaps
-flare
 flareback
 ferments
 firnification
