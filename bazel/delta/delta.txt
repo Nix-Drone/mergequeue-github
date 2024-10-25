@@ -3581,7 +3581,6 @@ defunctionalization
 defunctionalize
 defunctive
 defused
-defuses
 defusion
 dingles
 dolman
@@ -16897,6 +16896,7 @@ diandrous
 dreadlessness
 dreadly
 dreadlocks
+defuses
 dreadness
 dreadnought
 dreadnoughts
