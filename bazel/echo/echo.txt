@@ -5638,6 +5638,7 @@ estimating
 enfranchisements
 extinct
 enfranchiser
+expects
 enallage
 enfranchises
 enhydros
@@ -12403,7 +12404,6 @@ entermise
 exeunt
 exfetation
 economiser
-expects
 exfiguration
 exfigure
 exfiltrate
