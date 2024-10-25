@@ -4230,7 +4230,6 @@ firesafeness
 firesafety
 farasula
 fireshine
-fireside
 firesider
 firesideship
 firespout
@@ -7673,6 +7672,7 @@ forefigure
 forefin
 forefinger
 forjudged
+fireside
 forefingers
 figlike
 foreflank
