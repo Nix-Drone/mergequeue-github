@@ -10941,7 +10941,6 @@ disaffiliate
 disaffiliated
 disaffiliates
 disaffiliating
-disaffiliation
 disaffiliations
 disaffinity
 disaffirm
@@ -11219,6 +11218,7 @@ disburdens
 disburgeon
 disbury
 disbursals
+disaffiliation
 disburse
 disbursements
 disburser
