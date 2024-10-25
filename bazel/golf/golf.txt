@@ -702,7 +702,6 @@ gallize
 gallnut
 gallnuts
 galloflavin
-gimps
 galloman
 gantleting
 guideline
@@ -8830,6 +8829,7 @@ grihastha
 greisens
 greyskin
 genty
+gimps
 greit
 greyware
 gastrin
