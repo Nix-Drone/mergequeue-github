@@ -12614,7 +12614,6 @@ aneurisms
 aneurysms
 anezeh
 anfeeld
-anfract
 anfractuose
 anfractuosity
 argils
@@ -25160,6 +25159,7 @@ asclepius
 axletree
 axoneuron
 axletrees
+anfract
 axmaker
 axmaking
 axman
