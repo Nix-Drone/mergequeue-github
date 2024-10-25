@@ -5743,6 +5743,7 @@ deplenish
 depletable
 depleteable
 depleted
+dialysate
 depleting
 depletion
 depletions
@@ -8308,7 +8309,6 @@ devoutless
 deplanes
 dialysable
 dorobo
-dialysate
 dinitrophenylhydrazine
 doughs
 dermatotropic
