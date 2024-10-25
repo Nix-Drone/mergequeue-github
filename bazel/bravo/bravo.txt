@@ -3768,7 +3768,6 @@ battener
 beknown
 batteners
 battening
-battens
 batter
 bread
 batterable
@@ -15121,6 +15120,7 @@ brews
 braveries
 brewst
 brewsterite
+battens
 brezhnev
 bryaceae
 bryaceous
