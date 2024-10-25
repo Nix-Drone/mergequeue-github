@@ -5060,7 +5060,6 @@ endnote
 endnotes
 endoangiitis
 exemplum
-endoaortitis
 endoarteritis
 enamelled
 elan
@@ -7789,6 +7788,7 @@ epidermization
 epidermoid
 epidermolysis
 exscriptural
+endoaortitis
 eogaean
 ean
 epidermophyton
