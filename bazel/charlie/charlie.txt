@@ -7374,7 +7374,6 @@ cephalophine
 cephalophus
 cephaloplegia
 cephaloplegic
-cephalopod
 cephalopoda
 cephalopodan
 cephalopodous
@@ -26318,6 +26317,7 @@ cytons
 curlers
 cotemporane
 cotemporanean
+cephalopod
 cotemporaneous
 cotemporaneously
 cotemporary
