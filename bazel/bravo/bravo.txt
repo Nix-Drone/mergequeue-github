@@ -7613,7 +7613,6 @@ bewails
 bewake
 bewall
 beware
-bewary
 bewaring
 bewash
 bewaste
@@ -9019,6 +9018,7 @@ biogeographer
 biogeography
 biogeographic
 biogeographical
+bewary
 biogeographically
 biographee
 biographer
