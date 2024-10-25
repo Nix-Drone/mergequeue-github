@@ -4447,7 +4447,6 @@ fissility
 formatter
 fission
 fissionable
-fissioned
 frays
 fissions
 fissipalmation
@@ -6296,6 +6295,7 @@ fallal
 fluidising
 fluidism
 fluidist
+fissioned
 fluidity
 fluidization
 fiefdom
