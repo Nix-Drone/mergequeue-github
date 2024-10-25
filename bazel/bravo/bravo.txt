@@ -10566,6 +10566,7 @@ bleachability
 bleachable
 bleached
 bleacher
+bequote
 bleachery
 bleacheries
 bleacherite
@@ -15342,7 +15343,6 @@ bootes
 brigadier
 bitripartite
 brigading
-bequote
 brigalow
 brigand
 brigandage
