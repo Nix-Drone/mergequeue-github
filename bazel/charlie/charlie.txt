@@ -2715,7 +2715,6 @@ canonizant
 canonization
 canonizations
 canonize
-canonized
 catapult
 canonizer
 canonizes
@@ -10221,6 +10220,7 @@ chewink
 chewinks
 chews
 chez
+canonized
 chg
 chhatri
 crossword
