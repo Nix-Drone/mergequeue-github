@@ -8266,6 +8266,7 @@ baccar
 bietle
 byeworker
 byeworkman
+boonless
 bluejoint
 bifaces
 bifacial
@@ -12789,7 +12790,6 @@ boonfellow
 boong
 boonk
 bourignonist
-boonless
 buckplate
 boons
 boophilus
