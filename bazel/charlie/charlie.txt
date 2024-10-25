@@ -21626,7 +21626,6 @@ condigness
 condignity
 condignness
 condylar
-condylarthra
 condylarthrosis
 compressions
 condyle
@@ -26251,6 +26250,7 @@ costopleural
 costopneumopexy
 costopulmonary
 costoscapular
+condylarthra
 costosternal
 costothoracic
 costotome
