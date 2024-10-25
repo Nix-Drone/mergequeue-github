@@ -5253,7 +5253,6 @@ denominatively
 denominator
 denominators
 denotable
-denotate
 denotation
 denotative
 deliriums
@@ -8750,6 +8749,7 @@ diazoic
 diffident
 diazole
 diazoma
+denotate
 diazonium
 diazotate
 debasing
