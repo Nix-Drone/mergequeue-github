@@ -5955,7 +5955,6 @@ fluidrachm
 floorward
 furniment
 forgivingly
-floorwise
 floosy
 floosies
 floozy
@@ -6649,6 +6648,7 @@ focalised
 focalising
 focalization
 focalizes
+floorwise
 focaloid
 fixtures
 focimeter
