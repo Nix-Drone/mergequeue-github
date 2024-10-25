@@ -17270,7 +17270,6 @@ coassisting
 coassists
 coassume
 coassumed
-coassumes
 coassuming
 coinsured
 coast
@@ -27254,6 +27253,7 @@ couponed
 couponless
 coupons
 coups
+coassumes
 centrifugal
 coupstick
 coupure
