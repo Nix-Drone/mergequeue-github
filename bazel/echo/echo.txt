@@ -2348,7 +2348,6 @@ electrochemically
 electrochemistry
 electrochronometer
 equison
-electrochronometric
 ephemerality
 eutectic
 electrocoagulation
@@ -8708,6 +8707,7 @@ equipages
 equiparable
 equiparation
 equipartile
+electrochronometric
 equipartisan
 equipartition
 equipedal
