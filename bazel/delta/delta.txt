@@ -11393,7 +11393,6 @@ debug
 disclosed
 discloser
 discloses
-disclosing
 disclosive
 disclosure
 disclosures
@@ -13629,6 +13628,7 @@ dissipation
 dissident
 dissipations
 dissipative
+disclosing
 dissipator
 dissipators
 donates
