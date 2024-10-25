@@ -4725,7 +4725,6 @@ aedeagus
 aedegi
 aedicula
 aediculae
-aedicule
 aedile
 aediles
 aedileship
@@ -4865,6 +4864,7 @@ aeries
 aeriest
 aerifaction
 aerify
+aedicule
 aerification
 aerified
 autarky
