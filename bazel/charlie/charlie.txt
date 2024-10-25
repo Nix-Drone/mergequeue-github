@@ -7703,7 +7703,6 @@ cerionidae
 ceriops
 ceriornis
 ceriph
-ceriphs
 cerise
 cerises
 cerite
@@ -18809,6 +18808,7 @@ coliphage
 colipyelitis
 colyone
 colipyuria
+ceriphs
 coliplication
 colisepsis
 coliseum
