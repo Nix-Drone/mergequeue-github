@@ -1907,7 +1907,6 @@ gastrostomies
 gastrostomize
 gastrostomus
 gastrotaxis
-gastrothecal
 gastrotome
 gastrotomy
 gastrotomic
@@ -7601,6 +7600,7 @@ grocerly
 gracileness
 graciles
 gracilis
+gastrothecal
 grillage
 gracility
 gracing
