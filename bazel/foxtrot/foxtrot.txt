@@ -4905,7 +4905,6 @@ flameout
 flameouts
 flameproof
 formulize
-flameproofer
 flintlocks
 finfishes
 flamer
@@ -11364,6 +11363,7 @@ furciform
 furcraea
 furculae
 friezed
+flameproofer
 faulkland
 furculum
 furdel
