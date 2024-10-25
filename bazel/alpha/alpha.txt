@@ -5691,7 +5691,6 @@ aftersong
 aftersound
 afterspeech
 afterspring
-appetisse
 afterstorm
 afterstretch
 afterstudy
@@ -14260,6 +14259,7 @@ anterevolutional
 anterevolutionary
 antergic
 anteri
+appetisse
 anteriad
 anterin
 anterioyancer
