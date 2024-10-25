@@ -7529,7 +7529,6 @@ cerci
 cercidiphyllaceae
 cavel
 cercis
-cercises
 cercocebus
 cercolabes
 cercolabidae
@@ -24593,6 +24592,7 @@ copiosity
 copious
 copiously
 copiousness
+cercises
 copyread
 copyreader
 copyreaders
