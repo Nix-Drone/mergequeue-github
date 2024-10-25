@@ -3599,7 +3599,6 @@ carapax
 carapaxes
 coachable
 carapidae
-carapine
 cresting
 carapus
 carara
@@ -13467,6 +13466,7 @@ cicoree
 cicorees
 coruscated
 centipedal
+carapine
 cicurate
 cicuta
 creches
