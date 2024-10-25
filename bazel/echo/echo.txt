@@ -937,7 +937,6 @@ epimerize
 epicenter
 ectotoxin
 ectotrophi
-ectotrophic
 ectotropic
 ectozoa
 epilogistic
@@ -13583,6 +13582,7 @@ exterior
 equisegmented
 exterioration
 exteriorisation
+ectotrophic
 exteriorise
 exteriorised
 epicyesis
