@@ -2561,7 +2561,6 @@ barfs
 bargain
 bargainable
 billbugs
-bargainee
 bargainer
 bargaining
 bargainor
@@ -10304,6 +10303,7 @@ blancher
 blanchers
 blanches
 blanchimeter
+bargainee
 blanching
 blancmange
 besnows
