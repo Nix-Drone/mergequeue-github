@@ -6982,7 +6982,6 @@ censurability
 censurable
 censurably
 cutlips
-censure
 censureless
 censurers
 censureship
@@ -19282,6 +19281,7 @@ colonising
 colonist
 chiromancer
 colonizability
+censure
 colonizable
 colonizationist
 colonizations
