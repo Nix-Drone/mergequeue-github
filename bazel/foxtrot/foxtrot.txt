@@ -5824,7 +5824,6 @@ floatless
 floatman
 floatsman
 floatsmen
-floatstone
 fearless
 flob
 filterman
@@ -7053,6 +7052,7 @@ fontes
 famatinite
 fontful
 fragmentised
+floatstone
 fonticulus
 flywheels
 fontina
