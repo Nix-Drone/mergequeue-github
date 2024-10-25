@@ -17918,7 +17918,6 @@ coelodont
 coelogastrula
 coelogyne
 coeloglossum
-coelom
 coeloma
 coelomata
 coelomate
@@ -23051,6 +23050,7 @@ conspiracy
 conspirant
 conspiration
 confocal
+coelom
 conspirative
 conspirator
 conspiratory
