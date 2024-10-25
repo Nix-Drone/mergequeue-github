@@ -6512,7 +6512,6 @@ ensurer
 ensures
 ergatogyne
 ensuring
-enswathe
 enswathed
 enswathement
 encephalola
@@ -13065,6 +13064,7 @@ enervator
 experimenters
 exilic
 experimenting
+enswathe
 ejectee
 experimentist
 experimentize
