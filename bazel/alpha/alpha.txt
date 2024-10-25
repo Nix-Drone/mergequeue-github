@@ -10943,7 +10943,6 @@ amotions
 amotus
 amouli
 amounted
-amounter
 amounters
 amounts
 amouret
@@ -21675,6 +21674,7 @@ assert
 asserta
 assertable
 aeron
+amounter
 assertative
 asserted
 autocorrelate
