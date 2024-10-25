@@ -2226,6 +2226,7 @@ farmhouses
 felt
 felted
 felter
+flange
 feltyfare
 feltyflier
 felting
@@ -8379,7 +8380,6 @@ fritting
 formalist
 formalistically
 formalith
-flange
 formalities
 formalizable
 formalization
