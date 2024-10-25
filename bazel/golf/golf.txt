@@ -2872,7 +2872,6 @@ gawp
 genoese
 genoise
 genome
-genomic
 genoms
 genonema
 gph
@@ -9740,6 +9739,7 @@ grungiest
 grieflessness
 gelidities
 grunion
+genomic
 groveled
 grunt
 gashly
