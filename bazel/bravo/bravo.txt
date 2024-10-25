@@ -4041,7 +4041,6 @@ beaconless
 business
 beacons
 beaded
-bequirtle
 beadeye
 beadeyes
 banderols
@@ -14922,6 +14921,7 @@ breaths
 breathseller
 breathtaking
 breathtakingly
+bequirtle
 breba
 breccial
 biomaterial
