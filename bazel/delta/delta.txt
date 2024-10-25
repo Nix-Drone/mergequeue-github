@@ -7099,6 +7099,7 @@ desulphurising
 drawboring
 deerkill
 desulphurize
+diestock
 disgusts
 desulphurizer
 desulphurizing
@@ -9224,7 +9225,6 @@ dyester
 diesters
 diptera
 displant
-diestock
 death
 diestrous
 drawbridge
