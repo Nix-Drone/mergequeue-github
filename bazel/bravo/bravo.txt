@@ -3812,7 +3812,6 @@ battlements
 battlepiece
 battleplane
 barnstorms
-battler
 battles
 battleship
 battleships
@@ -9337,6 +9336,7 @@ bipolarity
 bipolarization
 bipont
 biporose
+battler
 bipotentiality
 bipotentialities
 biprism
