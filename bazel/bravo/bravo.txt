@@ -373,6 +373,7 @@ backhands
 backhaul
 backhauls
 backhoe
+belgas
 backhoes
 boobies
 backhooker
@@ -5694,7 +5695,6 @@ bluism
 buna
 belfries
 belga
-belgas
 belgian
 belgic
 birdbrain
