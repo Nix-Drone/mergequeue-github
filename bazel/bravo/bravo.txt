@@ -642,6 +642,7 @@ bacteriodiagnosis
 bacteriofluorescin
 bromates
 bacteriogenic
+badgeless
 bacteriogenous
 bacteriohemolysin
 bacterioidal
@@ -757,7 +758,6 @@ baddock
 bade
 badenite
 badge
-badgeless
 berrendo
 badgeman
 barrels
