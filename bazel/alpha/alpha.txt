@@ -5334,7 +5334,6 @@ affirmably
 affirmance
 affirmant
 affirmation
-affirmations
 affirmative
 affirmatively
 affirmativeness
@@ -23798,6 +23797,7 @@ authentications
 athetosic
 authenticators
 authenticities
+affirmations
 authenticly
 authenticness
 authigene
