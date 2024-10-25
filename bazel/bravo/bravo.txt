@@ -550,6 +550,7 @@ backtrack
 backtracked
 backtracker
 backtracking
+bident
 backtracks
 backtrail
 backups
@@ -8184,7 +8185,6 @@ biotherapy
 bidens
 brassia
 boomerangs
-bident
 bidental
 bidentalia
 bigotry
