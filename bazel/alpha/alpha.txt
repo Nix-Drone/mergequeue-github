@@ -5404,6 +5404,7 @@ akaroa
 affords
 afforest
 afforestable
+agariciform
 afforestation
 afforested
 afforesting
@@ -22891,7 +22892,6 @@ atrocities
 atrocoeruleus
 atrolactic
 atropaceous
-agariciform
 atropal
 atrophy
 atrophia
