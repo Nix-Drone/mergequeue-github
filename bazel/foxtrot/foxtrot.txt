@@ -5921,7 +5921,6 @@ floodlit
 floodplain
 floods
 forst
-fortifiable
 floodway
 feute
 floodways
@@ -9026,6 +9025,7 @@ frenchy
 fouquieria
 fitweed
 fouquieriaceae
+fortifiable
 fouquieriaceous
 fourb
 fourball
