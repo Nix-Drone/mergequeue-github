@@ -2621,6 +2621,7 @@ burgus
 brandle
 barye
 baryecoia
+barrelhouses
 barcolongo
 bemixt
 bs
@@ -2960,7 +2961,6 @@ barrelfuls
 blind
 barrelhead
 barrelhouse
-barrelhouses
 besmearer
 barreling
 broad
