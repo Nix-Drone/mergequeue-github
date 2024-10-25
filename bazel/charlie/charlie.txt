@@ -2746,7 +2746,6 @@ claiming
 canos
 canossa
 canotier
-canreply
 cans
 copaivic
 crouchmas
@@ -6468,6 +6467,7 @@ cavorting
 cavorts
 cavus
 caw
+canreply
 cawed
 cawing
 cawk
