@@ -1901,7 +1901,6 @@ bandboxical
 bandcase
 bandcutter
 bande
-bandeau
 bandeaux
 betula
 banded
@@ -17606,6 +17605,7 @@ burettes
 burez
 burfish
 burg
+bandeau
 bimolecular
 bhima
 burgage
