@@ -13487,7 +13487,6 @@ annealed
 annealer
 annealers
 annealing
-appoggiature
 anneals
 annect
 annectant
@@ -15805,6 +15804,7 @@ antipasch
 antipascha
 antipass
 antipasti
+appoggiature
 antipastic
 antipastos
 acromania
