@@ -8921,7 +8921,6 @@ bioavailability
 biobibliographer
 biobibliography
 biobibliographic
-biobibliographical
 biobibliographies
 bioblast
 bioblastic
@@ -13554,6 +13553,7 @@ bounderishly
 bounders
 bounding
 boundlessly
+biobibliographical
 bulldogged
 bouleversement
 bromvogel
