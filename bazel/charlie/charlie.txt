@@ -2757,7 +2757,6 @@ congenialize
 canst
 canstick
 cant
-cantabank
 cantabile
 cantabri
 christianism
@@ -7911,6 +7910,7 @@ cesspits
 centipede
 clamors
 cesspools
+cantabank
 cineraceous
 cataphoretic
 cest
