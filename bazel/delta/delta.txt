@@ -2658,7 +2658,6 @@ decompiler
 decomponent
 decomponible
 decurved
-decomposability
 decomposable
 decompose
 decomposed
@@ -12331,6 +12330,7 @@ disposable
 disheveled
 dishevelled
 dishevelling
+decomposability
 dipoles
 dishevelment
 dismissingly
