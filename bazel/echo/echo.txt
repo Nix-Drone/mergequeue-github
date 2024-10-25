@@ -4203,7 +4203,6 @@ eunice
 emplunge
 empodia
 eatche
-empoison
 empoisoned
 encaustes
 ephoral
@@ -5322,6 +5321,7 @@ endosome
 equilibrist
 endomorphism
 endosomes
+empoison
 endospermic
 endospermous
 endospore
