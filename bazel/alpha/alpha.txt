@@ -9448,7 +9448,6 @@ alternateness
 alternating
 alternatingly
 alternation
-afterend
 alternatively
 alternativeness
 alternatives
@@ -20734,6 +20733,7 @@ arrayment
 artificially
 artificialness
 artificious
+afterend
 artilize
 artiller
 artillery
