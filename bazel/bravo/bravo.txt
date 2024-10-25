@@ -1906,7 +1906,6 @@ bandeaux
 betula
 banded
 bandelet
-bandelette
 bandeng
 banderlog
 banderma
@@ -16402,6 +16401,7 @@ brushiness
 brushland
 brushless
 brushlessness
+bandelette
 babydom
 brushlet
 brevetting
