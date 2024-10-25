@@ -1777,7 +1777,6 @@ gestations
 gnotobiote
 gastrodynia
 gastrodisk
-gastroduodenitis
 gastroduodenoscopy
 gastroduodenostomy
 gastroduodenotomy
@@ -4954,6 +4953,7 @@ glabreity
 glabrescent
 glabriety
 glaswegian
+gastroduodenitis
 gonosomal
 goatish
 glace
