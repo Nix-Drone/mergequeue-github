@@ -2306,6 +2306,7 @@ expert
 electrine
 electrizable
 electrization
+eventuality
 earthenware
 electro
 electroacoustic
@@ -11464,7 +11465,6 @@ editorialize
 eventration
 events
 eventual
-eventuality
 eventualize
 epitrochlea
 eventually
