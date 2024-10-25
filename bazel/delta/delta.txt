@@ -5752,6 +5752,7 @@ depletory
 deploy
 deployed
 deploying
+desilvers
 defilade
 deployment
 deployments
@@ -6699,7 +6700,6 @@ desilvering
 desilverization
 desilverizer
 desilverizing
-desilvers
 desynapsis
 desynaptic
 dulcarnon
