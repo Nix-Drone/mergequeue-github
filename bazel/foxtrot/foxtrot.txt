@@ -10423,7 +10423,6 @@ frontier
 frontierless
 farmyards
 fertilizing
-fictor
 fewmets
 flowerfence
 finely
@@ -10898,6 +10897,7 @@ fulgorid
 fulgoridae
 fulgourous
 fulgur
+fictor
 fulgural
 filicic
 fulgurata
