@@ -750,6 +750,7 @@ baddie
 barlock
 betimber
 baddies
+bludged
 baddish
 baddishly
 baddishness
@@ -11293,7 +11294,6 @@ blubbing
 blucher
 bluchers
 bludge
-bludged
 bludgeon
 bludgeons
 bludger
