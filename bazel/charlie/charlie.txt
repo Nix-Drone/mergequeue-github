@@ -3455,7 +3455,6 @@ captors
 clientless
 captress
 capturable
-captured
 captures
 capturing
 capuan
@@ -10633,6 +10632,7 @@ chilte
 chiltern
 chilver
 chimachima
+captured
 chimaera
 chimaeras
 chimaerid
