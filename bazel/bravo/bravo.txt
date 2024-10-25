@@ -2738,7 +2738,6 @@ barm
 bollixes
 barmaids
 barman
-barmaster
 barmbrack
 barmcloth
 brither
@@ -8436,6 +8435,7 @@ bigotty
 bigroot
 bigthatch
 biguanide
+barmaster
 biguttulate
 bigwig
 bigwigged
