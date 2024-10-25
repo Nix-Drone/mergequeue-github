@@ -14210,7 +14210,6 @@ clochan
 cardioneural
 circulant
 circular
-circularisation
 circularised
 circulariser
 circularising
@@ -17608,6 +17607,7 @@ cochliodontidae
 cochliodus
 cochlite
 cochlitis
+circularisation
 cochlospermum
 cochon
 cochranea
