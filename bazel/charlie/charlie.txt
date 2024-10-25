@@ -16079,7 +16079,6 @@ chelp
 clicking
 clinkers
 clickless
-clicks
 clidastes
 cinclidae
 clyde
@@ -26708,6 +26707,7 @@ countercharged
 countercharging
 countercharm
 countercheck
+clicks
 counterclaim
 counterclaimant
 counterclaiming
