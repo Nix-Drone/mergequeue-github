@@ -4314,7 +4314,6 @@ furlongs
 first
 fylker
 forbearer
-freestone
 firster
 feerie
 forrel
@@ -6096,6 +6095,7 @@ flotage
 florists
 fiberizer
 flotages
+freestone
 favorability
 foregoes
 flote
