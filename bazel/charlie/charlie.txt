@@ -2403,7 +2403,6 @@ candlefish
 candlefishes
 candleholder
 candlelight
-candlelighted
 candlelighter
 cytogenesis
 confraternities
@@ -10672,6 +10671,7 @@ calci
 cavies
 chimericalness
 chimers
+candlelighted
 chimes
 caseoses
 ctenophorous
