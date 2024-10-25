@@ -8641,7 +8641,6 @@ aller
 allergen
 allergenic
 autarkical
-allergenicity
 allergia
 allergies
 allergin
@@ -21516,6 +21515,7 @@ aspirins
 aspises
 aspish
 asplanchnic
+allergenicity
 asplenieae
 affenspalte
 asplenioid
