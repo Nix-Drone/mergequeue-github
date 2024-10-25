@@ -2857,7 +2857,6 @@ cantilene
 cantilenes
 cantilever
 cantilevered
-cantilevering
 cantilevers
 cantily
 choroidea
@@ -14182,6 +14181,7 @@ circline
 circling
 cochleas
 circocele
+cantilevering
 circovarian
 circue
 circuit
