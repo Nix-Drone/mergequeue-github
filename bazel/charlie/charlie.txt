@@ -5674,7 +5674,6 @@ catchweight
 catchword
 catchwork
 catclaw
-catdom
 cate
 catechesis
 catechetic
@@ -16386,6 +16385,7 @@ clitellar
 clitelliferous
 clitellus
 compile
+catdom
 crappin
 clites
 clithe
