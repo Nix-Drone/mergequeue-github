@@ -7885,7 +7885,6 @@ alerters
 alertest
 agrees
 alerting
-alertly
 alertness
 alerts
 ales
@@ -19958,6 +19957,7 @@ armillate
 armine
 arming
 armings
+alertly
 arminian
 arminianism
 arminianize
