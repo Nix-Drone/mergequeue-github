@@ -5709,7 +5709,6 @@ catechizer
 catechizes
 catechizing
 catechol
-catecholamine
 catecholamines
 catechu
 catechumenal
@@ -8877,6 +8876,7 @@ chapterhouse
 chaptering
 chapters
 chaptrel
+catecholamine
 chapwoman
 chaqueta
 char
