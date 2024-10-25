@@ -15830,6 +15830,7 @@ cleansers
 calcicole
 cleanses
 cleansing
+compactest
 cleanskin
 cleanskins
 cleanup
@@ -23369,7 +23370,6 @@ contaminative
 contaminator
 contaminous
 contangential
-compactest
 contd
 conte
 centgrave
