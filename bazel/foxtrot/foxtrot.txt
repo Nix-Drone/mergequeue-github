@@ -6457,7 +6457,6 @@ fluoroformol
 fluorogen
 fluorometer
 fluorometry
-fluoroscopes
 forechamber
 foreseeing
 fluoroscopy
@@ -11038,6 +11037,7 @@ fumer
 fuseplug
 fumerel
 fumeroot
+fluoroscopes
 fritts
 faldage
 fumes
