@@ -5877,7 +5877,6 @@ enhedge
 enhelm
 elysia
 enhemospore
-enherit
 enheritance
 enhydra
 eyewear
@@ -13648,6 +13647,7 @@ exteroceptist
 enchair
 eliquation
 ewers
+enherit
 exteroceptor
 emersions
 esteemed
