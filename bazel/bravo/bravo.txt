@@ -8109,6 +8109,7 @@ boutell
 bicolours
 bicompact
 biconcave
+brushwood
 bidder
 bicone
 biconic
@@ -16418,7 +16419,6 @@ brushpopper
 brushproof
 brushup
 brushups
-brushwood
 bronchophonic
 brushwork
 brusk
