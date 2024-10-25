@@ -3603,7 +3603,6 @@ carapine
 cresting
 carapus
 carara
-carassow
 carassows
 carat
 caratacus
@@ -28312,6 +28311,7 @@ crawls
 crawlsome
 crawlspace
 crawlway
+carassow
 crawm
 craws
 crawtae
