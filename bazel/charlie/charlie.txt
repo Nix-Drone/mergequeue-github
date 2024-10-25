@@ -1968,7 +1968,6 @@ campagne
 campagnol
 campagnols
 campagus
-campaign
 campaigner
 campaigners
 campaigning
@@ -5423,6 +5422,7 @@ catachthonic
 cataclasis
 cataclasm
 cataclastic
+campaign
 cataclinal
 cataclysm
 cataclysmal
