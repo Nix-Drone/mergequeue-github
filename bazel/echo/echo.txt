@@ -5538,6 +5538,7 @@ enfeeblements
 espiritual
 enfeebles
 enfeebling
+exerce
 enent
 enfeeblish
 enfelon
@@ -12362,7 +12363,6 @@ exenterating
 exenteritis
 exequial
 exequies
-exerce
 exercent
 exercisable
 exercise
