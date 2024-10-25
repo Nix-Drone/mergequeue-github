@@ -6109,7 +6109,6 @@ aggro
 aggroup
 arcaded
 aggroupment
-aghan
 aghanee
 aghas
 aghast
@@ -17378,6 +17377,7 @@ apoplectoid
 apoplex
 apoplexy
 adamantoid
+aghan
 anemometrographic
 apoquinamine
 aporetic
