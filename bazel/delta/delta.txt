@@ -10884,6 +10884,7 @@ disables
 disabling
 deafforest
 dignitas
+daemonies
 dialysers
 disabuse
 disabused
@@ -16421,7 +16422,6 @@ dowse
 dowsed
 dowser
 dowsers
-daemonies
 deprecating
 dowses
 dowset
