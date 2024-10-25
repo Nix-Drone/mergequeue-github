@@ -2676,7 +2676,6 @@ dogwatches
 decompoundable
 decompoundly
 decompress
-decompresses
 decompressing
 decompression
 detectaphone
@@ -8599,6 +8598,7 @@ disimmure
 diarian
 diarist
 diaristic
+decompresses
 diarize
 diarrhea
 diarrheal
