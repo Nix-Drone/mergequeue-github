@@ -2932,7 +2932,6 @@ feudatary
 feudatory
 feudatorial
 feudatories
-feuded
 fakers
 fingerparted
 feudee
@@ -10528,6 +10527,7 @@ flutterment
 frostwort
 froth
 frothed
+feuded
 frother
 frothy
 forebodings
