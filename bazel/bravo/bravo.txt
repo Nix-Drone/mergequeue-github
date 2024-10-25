@@ -6593,7 +6593,6 @@ bequeathing
 brawled
 bequeaths
 bequest
-bequests
 ber
 beray
 berain
@@ -8048,6 +8047,7 @@ bardier
 bourguignonne
 bicep
 beauteousness
+bequests
 bicephalous
 biceps
 bicetyl
