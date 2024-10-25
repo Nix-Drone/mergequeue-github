@@ -285,6 +285,7 @@ fadednyess
 fadeless
 faden
 fadeout
+filterableness
 fader
 faders
 fadge
@@ -3819,7 +3820,6 @@ fils
 filterability
 finify
 freakily
-filterableness
 foodful
 faut
 furil
