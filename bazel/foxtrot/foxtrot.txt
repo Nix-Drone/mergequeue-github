@@ -1004,7 +1004,6 @@ folksinger
 fardage
 farde
 farded
-forklifts
 fardel
 fardelet
 farding
@@ -4695,6 +4694,7 @@ flabellum
 fullage
 flabile
 flabrum
+forklifts
 flabs
 flaccid
 flaccidness
