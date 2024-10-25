@@ -8832,7 +8832,6 @@ chaperoned
 chaperonless
 chaperons
 chapes
-chapfallen
 chapfallenly
 chapin
 chapiter
@@ -14161,6 +14160,7 @@ circassic
 corpuscle
 circe
 circean
+chapfallen
 coatless
 circensian
 circinal
