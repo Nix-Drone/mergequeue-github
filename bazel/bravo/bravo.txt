@@ -549,7 +549,6 @@ backtenter
 backtrack
 backtracked
 backtracker
-backtracking
 backtracks
 backtrail
 backups
@@ -9908,6 +9907,7 @@ bedticking
 bitumen
 bitumens
 bituminate
+backtracking
 berliner
 bituminiferous
 bituminisation
