@@ -5085,7 +5085,6 @@ denaturants
 denaturate
 denaturational
 diver
-denature
 denatured
 denaturing
 denaturisation
@@ -6972,6 +6971,7 @@ dykage
 dessertspoonful
 dessertspoonfuls
 dessiatine
+denature
 dessicate
 dessil
 dessous
