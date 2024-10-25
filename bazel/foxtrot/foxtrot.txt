@@ -3280,7 +3280,6 @@ fiddlerfishes
 field
 fiddlery
 fiddles
-foreknowable
 fiddlestick
 fiddlesticks
 fiddlewood
@@ -7312,6 +7311,7 @@ fora
 forage
 facers
 foraged
+foreknowable
 fluttery
 foragement
 forager
