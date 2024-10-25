@@ -7907,6 +7907,7 @@ bible
 bibles
 bohmite
 biblic
+bariums
 bipunctal
 biblical
 biblicality
@@ -14618,7 +14619,6 @@ backworm
 brassier
 blaver
 brassieres
-bariums
 brassies
 brassily
 brassiness
