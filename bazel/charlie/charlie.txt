@@ -23239,7 +23239,6 @@ consulship
 consulships
 consult
 consulta
-consultable
 commote
 consultant
 consultants
@@ -31216,6 +31215,7 @@ chegoe
 curara
 curaras
 curares
+consultable
 curari
 curarine
 curarines
