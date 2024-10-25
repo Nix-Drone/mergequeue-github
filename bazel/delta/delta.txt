@@ -1542,6 +1542,7 @@ deadpans
 deadrise
 deadtongue
 deadweight
+dont
 ditto
 deadwork
 deaving
@@ -2739,7 +2740,6 @@ disproportionates
 decorate
 decorates
 decorating
-dont
 discounsel
 decoration
 decorationist
