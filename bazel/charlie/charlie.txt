@@ -4710,7 +4710,6 @@ carposporangium
 catalase
 carpospore
 carposporous
-carpostome
 carps
 catapan
 carpsucker
@@ -27379,6 +27378,7 @@ couter
 combativity
 couters
 coutet
+carpostome
 committing
 couth
 couthe
