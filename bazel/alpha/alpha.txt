@@ -1301,7 +1301,6 @@ acanthomas
 acanthomeridae
 acanthon
 acanthopanax
-acanthophis
 acanthophorous
 acanthopod
 acanthopodous
@@ -23295,6 +23294,7 @@ audibleness
 audibles
 audibly
 audience
+acanthophis
 audiencer
 alpenhorn
 audiences
