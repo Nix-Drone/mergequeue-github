@@ -2263,7 +2263,6 @@ elections
 elective
 ephemerons
 electives
-electivism
 electivity
 electo
 elector
@@ -6785,6 +6784,7 @@ enthronised
 enthronization
 enthronize
 etymologising
+electivism
 endostracal
 enthronized
 electrothanasia
