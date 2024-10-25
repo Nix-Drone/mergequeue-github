@@ -7464,7 +7464,6 @@ ceratoblast
 ceratobranchial
 ceratocystis
 ceratocricoid
-ceratodidae
 ceratodontidae
 ceratodus
 ceratoduses
@@ -12516,6 +12515,7 @@ chromophotographic
 cranky
 chromoplasm
 chromoplasmic
+ceratodidae
 chromoplast
 chromoplastid
 chromoprotein

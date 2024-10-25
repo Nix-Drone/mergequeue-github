@@ -3980,7 +3980,6 @@ adjourning
 adjournment
 adjourns
 adjoust
-adjt
 adjudge
 adjudgeable
 adjudger
@@ -11736,6 +11735,7 @@ anality
 ablute
 analytical
 alamanni
+adjt
 analyticity
 antinational
 analytique
