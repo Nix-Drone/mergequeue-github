@@ -5769,7 +5769,6 @@ bavardage
 belknap
 bell
 bellacoola
-belladonna
 biltongs
 bellatrix
 burglar
@@ -10758,6 +10757,7 @@ blepharoptosis
 blepharorrhaphy
 blepharosymphysis
 blepharosyndesmitis
+belladonna
 blotching
 blepharosynechia
 blepharospasm
