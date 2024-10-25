@@ -78,7 +78,6 @@ faces
 facesaving
 facet
 foresaying
-faceted
 facetely
 faceteness
 farther
@@ -2510,6 +2509,7 @@ fermorite
 fern
 fastigium
 floripondio
+faceted
 fernandinite
 fernando
 furoid
