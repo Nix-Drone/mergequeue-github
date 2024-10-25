@@ -5798,7 +5798,6 @@ engrained
 epizoicide
 engrainer
 engraining
-engram
 engrammatic
 engramme
 engrammes
@@ -11275,6 +11274,7 @@ evagination
 eval
 evaluated
 evaluates
+engram
 etherin
 evaluating
 evaluations
