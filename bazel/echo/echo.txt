@@ -5126,7 +5126,6 @@ esquimau
 endocranium
 equiconvex
 endocrin
-ember
 endocrine
 endocrines
 endocrinic
@@ -12717,6 +12716,7 @@ exonerated
 exonerating
 exoneration
 exonerations
+ember
 exonerative
 exonerator
 exonerators
