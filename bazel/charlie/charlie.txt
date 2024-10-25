@@ -16983,7 +16983,6 @@ crayoned
 cnidoblast
 cnidocell
 cnidocil
-cnidocyst
 cnidophorous
 cupmate
 cnidopod
@@ -25518,6 +25517,7 @@ coronofrontal
 coronograph
 coronographic
 canvasman
+cnidocyst
 coronoid
 coronopus
 coronule
