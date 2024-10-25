@@ -6550,7 +6550,6 @@ bepewed
 bephilter
 bephrase
 big
-bepicture
 bepiece
 bellyflaught
 bepierce
@@ -12951,6 +12950,7 @@ bordered
 borderer
 borderers
 bordering
+bepicture
 borderings
 borders
 borderland
