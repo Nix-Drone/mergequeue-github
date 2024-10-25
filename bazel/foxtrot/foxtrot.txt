@@ -6277,7 +6277,6 @@ feigning
 fluidacetextract
 fluidally
 fluidextract
-fluidglycerate
 fluidible
 forcepslike
 fluidic
@@ -7272,6 +7271,7 @@ footstock
 fortlet
 footstools
 fleeches
+fluidglycerate
 footways
 footwalk
 foulnesses
