@@ -8339,6 +8339,7 @@ dialyzator
 dialyze
 dialyzed
 dialyzer
+direct
 dialyzes
 dowhacky
 dialkyl
@@ -10765,7 +10766,6 @@ dirdum
 dirdums
 dire
 direcly
-direct
 directable
 directcarving
 directdiscourse
