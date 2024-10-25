@@ -12759,7 +12759,6 @@ angiographic
 angiohemophilia
 angiohyalinosis
 angiohypertonia
-angiohypotonia
 angioid
 angiokeratoma
 angiokinesis
@@ -18458,6 +18457,7 @@ araliaceae
 araliaceous
 araliad
 araliaephyllum
+angiohypotonia
 aralie
 anglicist
 algaroba
