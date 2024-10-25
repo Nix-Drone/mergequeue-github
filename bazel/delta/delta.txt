@@ -1707,7 +1707,6 @@ deathlike
 deathlikeness
 dustwoman
 deathliness
-deathrates
 diagrydium
 deaths
 deathsman
@@ -3609,6 +3608,7 @@ degaussing
 degelatinize
 diatonous
 degender
+deathrates
 degener
 dillydallying
 degeneralize
