@@ -2806,7 +2806,6 @@ decrement
 decremental
 decrementing
 decrements
-decremeter
 decrepid
 decrepit
 decrepitate
@@ -5685,6 +5684,7 @@ dephlegmatory
 dephlegmedness
 dephlogisticate
 dess
+decremeter
 dephlogisticated
 dephlogistication
 dephosphorization
