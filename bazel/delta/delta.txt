@@ -6210,7 +6210,6 @@ derives
 discontentment
 deriving
 derma
-dermabrasion
 dermal
 dermalgia
 dermalith
@@ -10392,6 +10391,7 @@ diphenan
 diphenhydramine
 diphenyl
 diphenylacetylene
+dermabrasion
 diphenylamine
 diphenylaminechlorarsine
 diphenylchloroarsine
