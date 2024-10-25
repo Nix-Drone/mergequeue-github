@@ -7384,7 +7384,6 @@ detrusor
 detubation
 detumescence
 dissocialize
-detumescent
 detune
 detuned
 detuning
@@ -11953,6 +11952,7 @@ disenabled
 deferable
 disenabling
 disenact
+detumescent
 disenamor
 disenchant
 disenchanted
