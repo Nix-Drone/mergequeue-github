@@ -2696,7 +2696,6 @@ generalists
 generaliter
 generalities
 generalizations
-generalize
 genl
 gyrations
 generalizeable
@@ -6892,6 +6891,7 @@ gonium
 goniums
 goniunia
 gonnardite
+generalize
 gonne
 geoffroyine
 gonoblast
