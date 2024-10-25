@@ -279,7 +279,6 @@ generating
 gainer
 gainful
 gym
-gibs
 gainfulness
 gaingiving
 gainyield
@@ -1366,6 +1365,7 @@ gnatsnapper
 gable
 gardeners
 gardenership
+gibs
 gardenful
 gallberries
 gardeny
