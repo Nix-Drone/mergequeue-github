@@ -5175,7 +5175,6 @@ endogenesis
 endogeny
 eyebolt
 exorate
-endogenicity
 endogenies
 exundation
 endogenous
@@ -11378,6 +11377,7 @@ evaporize
 evapotranspiration
 erythremomelalgia
 evasible
+endogenicity
 evasional
 evasiveness
 encephalomeric
