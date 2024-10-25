@@ -7158,7 +7158,6 @@ basseting
 bespy
 bugology
 bespice
-breadthwise
 butterlike
 bespill
 bespin
@@ -10646,6 +10645,7 @@ blemish
 burlecue
 balisaur
 blemished
+breadthwise
 bacteriorhodopsin
 barbudo
 bungfu
