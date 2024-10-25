@@ -4631,6 +4631,7 @@ carpeting
 carpetlayer
 carpetless
 carpetmaker
+chesterfields
 carpetmaking
 carpetmonger
 carpets
@@ -10124,7 +10125,6 @@ chested
 chesteine
 chesterfield
 chesterfieldian
-chesterfields
 chesterlite
 chestful
 chemophysiological
