@@ -4409,7 +4409,6 @@ fishmeals
 fishmonger
 ferociousness
 fishmouth
-fishnet
 frank
 fishnets
 fishplate
@@ -8840,6 +8839,7 @@ fouler
 fosite
 fossa
 fibreglass
+fishnet
 flunks
 fole
 flabbier
