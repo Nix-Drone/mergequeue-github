@@ -4109,7 +4109,6 @@ bom
 beam
 beambird
 beamed
-beamer
 beamers
 beamfilling
 beamful
@@ -13877,6 +13876,7 @@ boxman
 booky
 boxroom
 boxthorn
+beamer
 borghese
 boxthorns
 boxty
