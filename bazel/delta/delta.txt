@@ -2462,6 +2462,7 @@ decivilize
 deck
 dateline
 decke
+deepfroze
 deckedout
 deckel
 deckels
@@ -12534,7 +12535,6 @@ disintricate
 disinure
 disinvagination
 disinvest
-deepfroze
 disinvite
 dargsman
 disinvolvement
