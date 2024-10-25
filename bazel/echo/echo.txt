@@ -2432,7 +2432,6 @@ episcope
 electroendosmosis
 electroengrave
 electroengraving
-electroextraction
 expedient
 electroform
 electroforming
@@ -3505,6 +3504,7 @@ embodied
 endamoebic
 embodiers
 embodies
+electroextraction
 emancipation
 embodiment
 ektexines
