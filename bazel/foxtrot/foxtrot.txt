@@ -4448,7 +4448,6 @@ formatter
 fission
 fissionable
 fissioned
-frays
 fissions
 fissipalmation
 floorboards
@@ -8453,6 +8452,7 @@ formicaries
 feaked
 formicarioid
 formicaroid
+frays
 formicate
 folkland
 formicated
