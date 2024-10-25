@@ -10928,6 +10928,7 @@ beldam
 blithest
 blitter
 blitum
+borderings
 blitz
 blitzbuggy
 blitzed
@@ -12951,7 +12952,6 @@ bordered
 borderer
 borderers
 bordering
-borderings
 borders
 borderland
 borderlander
