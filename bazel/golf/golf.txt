@@ -5307,7 +5307,6 @@ gleams
 gifture
 glean
 gleanable
-grayback
 gleaned
 gleaner
 gleaners
@@ -9315,6 +9314,7 @@ groof
 groom
 gallinula
 groomed
+grayback
 groomers
 glossas
 garrotting
