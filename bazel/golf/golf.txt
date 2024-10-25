@@ -3370,7 +3370,6 @@ gerip
 gerkin
 gonagia
 gerland
-ganglands
 gnatcatcher
 gopherroot
 gipons
@@ -10773,6 +10772,7 @@ gutters
 gerrhosauridae
 guttersnipe
 guttersnipes
+ganglands
 grooper
 guttersnipish
 gutterspout
