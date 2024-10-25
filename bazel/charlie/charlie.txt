@@ -16690,7 +16690,6 @@ clotbur
 clapbread
 clote
 chaquetas
-cloth
 clothe
 clothed
 clothes
@@ -26706,6 +26705,7 @@ counterchanged
 counterchanging
 countercharged
 countercharging
+cloth
 countercharm
 countercheck
 counterclaim
