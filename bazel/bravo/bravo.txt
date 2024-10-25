@@ -7141,7 +7141,6 @@ bespeakable
 bespeaking
 bespeaks
 bouzouki
-bespecked
 bespeckle
 bespeckled
 bespecklement
@@ -12690,6 +12689,7 @@ bookpress
 bookrack
 bookracks
 baronry
+bespecked
 barrulety
 bookrest
 bookrests
