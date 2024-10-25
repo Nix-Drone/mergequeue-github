@@ -1492,7 +1492,6 @@ deadborn
 deadcenter
 deeryards
 deadeye
-deaden
 deadened
 deadener
 deadeners
@@ -2365,6 +2364,7 @@ decidedly
 decidedness
 decidence
 destabilized
+deaden
 decident
 decider
 deciders
