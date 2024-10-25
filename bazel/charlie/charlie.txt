@@ -25538,7 +25538,6 @@ compulsoriness
 corotomy
 craniognomy
 commemorized
-coroutine
 coroutines
 corozo
 corozos
@@ -30049,6 +30048,7 @@ cmdg
 crowdy
 crowdie
 crowdies
+coroutine
 crowding
 crowdle
 chakazi
