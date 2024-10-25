@@ -3907,7 +3907,6 @@ adipogenous
 adipoid
 adipolysis
 adipolytic
-adipoma
 adipomata
 adipomatous
 adipometer
@@ -18426,6 +18425,7 @@ arachnoiditis
 arachnology
 arachnological
 arachnomorphae
+adipoma
 arachnophagous
 arachnopia
 arad
