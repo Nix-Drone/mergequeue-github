@@ -5424,7 +5424,6 @@ dilating
 dentolabial
 dentolingual
 dentololabial
-dentonasal
 dielytra
 dentosurgical
 disrate
@@ -12745,6 +12744,7 @@ dhanvantari
 dysmenorrheic
 dysmenorrhoea
 dermomuscular
+dentonasal
 dismerit
 dysmerogenesis
 dysmeromorph
