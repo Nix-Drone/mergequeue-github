@@ -8894,7 +8894,6 @@ bellarmine
 binode
 binodose
 battery
-binomen
 balsamiferous
 binomenclature
 binomy
@@ -16818,6 +16817,7 @@ buffed
 backings
 buffer
 bohemians
+binomen
 bufferrers
 buffers
 buffet
