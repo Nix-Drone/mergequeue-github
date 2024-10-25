@@ -1712,7 +1712,6 @@ diagrydium
 deaths
 deathsman
 deathsmen
-depaysee
 deathtime
 deathtrap
 deathtraps
@@ -5047,6 +5046,7 @@ deadhand
 driftpin
 diduce
 den
+depaysee
 denay
 dename
 denar
