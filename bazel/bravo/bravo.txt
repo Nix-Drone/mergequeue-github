@@ -4655,7 +4655,6 @@ bedchairs
 bedchamber
 bratstva
 bedclothing
-bedcord
 byplays
 bedcovers
 beddable
@@ -15754,6 +15753,7 @@ berberin
 brodyaga
 bilirubin
 brodyagi
+bedcord
 brodie
 broeboe
 bimillenary
