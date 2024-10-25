@@ -7358,7 +7358,6 @@ calina
 cephalomancy
 cephalomant
 cephalomeningitis
-cephalomere
 cyclostylar
 cephalometer
 cephalometric
@@ -25517,6 +25516,7 @@ coronobasilar
 coronofrontal
 coronograph
 coronographic
+cephalomere
 canvasman
 coronoid
 coronopus
