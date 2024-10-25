@@ -2509,7 +2509,6 @@ electromechanics
 electromedical
 esquireship
 electromer
-extrasacerdotal
 efficaciousness
 electrometallurgy
 electrometallurgical
@@ -5139,6 +5138,7 @@ endocrinologies
 endocrinologist
 endocrinopath
 ecphasis
+extrasacerdotal
 embosser
 endocrinopathic
 endocritic
