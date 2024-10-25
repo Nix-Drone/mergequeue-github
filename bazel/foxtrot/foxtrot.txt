@@ -2928,7 +2928,6 @@ feudalizing
 feudary
 fantastical
 feudaries
-feudatary
 feudatory
 feudatorial
 feudatories
@@ -3937,6 +3936,7 @@ frounces
 finement
 fineness
 finer
+feudatary
 finery
 fines
 flouting
