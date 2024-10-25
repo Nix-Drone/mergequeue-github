@@ -1064,6 +1064,7 @@ clamworm
 calcinosis
 calciobiotite
 calciocarnotite
+conductio
 calcioferrite
 calcioscheelite
 calciovolborthite
@@ -21740,7 +21741,6 @@ conductible
 conductimeter
 conductimetric
 conducting
-conductio
 conduction
 conductional
 collarets
