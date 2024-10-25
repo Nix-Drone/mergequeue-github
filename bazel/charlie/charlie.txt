@@ -9561,7 +9561,6 @@ checkrack
 checkrail
 checkrein
 checkroll
-checkroom
 compathy
 checkrooms
 checkrope
@@ -31679,6 +31678,7 @@ cusie
 cusinero
 cusk
 cusks
+checkroom
 cusp
 collodium
 cabobs
