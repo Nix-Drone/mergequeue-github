@@ -16996,7 +16996,6 @@ coabound
 coabsume
 coacceptor
 coacervate
-coacervated
 coacervating
 coacervation
 coach
@@ -28478,6 +28477,7 @@ carpent
 credent
 credentialed
 congressman
+coacervated
 credentialism
 credently
 credenza
