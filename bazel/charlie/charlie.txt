@@ -17017,6 +17017,7 @@ corrasion
 cogency
 coachmaster
 coachmen
+cornflour
 coachs
 chorobates
 coachsmith
@@ -25342,7 +25343,6 @@ cornfields
 cornflag
 cornflakes
 cornfloor
-cornflour
 cornflower
 cornflowers
 corngrower
