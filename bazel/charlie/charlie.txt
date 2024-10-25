@@ -2269,7 +2269,6 @@ canccelli
 cancelability
 cancelable
 cancelation
-canceled
 canceleer
 concipiency
 canceler
@@ -21892,6 +21891,7 @@ confessed
 cecotomy
 confessedly
 confesser
+canceled
 cravat
 confesses
 confessing
