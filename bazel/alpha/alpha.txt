@@ -8609,7 +8609,6 @@ alleles
 allelic
 allelism
 allelisms
-allelocatalytic
 almes
 autopathic
 arsmetrik
@@ -18149,6 +18148,7 @@ apteral
 apteran
 apteria
 apterial
+allelocatalytic
 arsenoferratin
 apteryges
 apterygial
