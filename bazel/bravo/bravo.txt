@@ -2961,6 +2961,7 @@ blind
 barrelhead
 barrelhouse
 barrelhouses
+broadeners
 besmearer
 barreling
 broad
@@ -15649,7 +15650,6 @@ broadcasters
 broadcastings
 broadcloth
 broaden
-broadeners
 broadening
 broadenings
 broadens
