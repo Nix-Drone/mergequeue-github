@@ -19347,6 +19347,7 @@ coloraturas
 colorature
 colorblind
 colorblindness
+consumpted
 colorbreed
 colorcast
 colorcasted
@@ -23287,7 +23288,6 @@ consummativeness
 consummator
 consummatory
 consumo
-consumpted
 consumptible
 consumption
 cicero
