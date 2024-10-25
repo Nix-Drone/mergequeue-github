@@ -2477,6 +2477,7 @@ deckpipe
 decks
 dulls
 deckswabber
+diplocephalous
 decl
 declaim
 dichorisandra
@@ -10528,7 +10529,6 @@ discoidea
 diplocaulescent
 developability
 diplocephaly
-diplocephalous
 diplocephalus
 desmognathae
 desalter
