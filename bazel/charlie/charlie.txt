@@ -15772,7 +15772,6 @@ clavicotomy
 clavicular
 clavicularium
 claviculate
-claviculus
 clavier
 clavierist
 clavierists
@@ -28086,6 +28085,7 @@ cremains
 craniomaxillary
 craniometry
 craniometric
+claviculus
 craniometrically
 craniometrist
 craniopathy
