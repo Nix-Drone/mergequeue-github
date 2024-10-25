@@ -7932,7 +7932,6 @@ epikleses
 epiklesis
 epikouros
 ejectum
-epil
 epilabra
 epilamellar
 epilate
@@ -9752,6 +9751,7 @@ euphonizing
 esothyropexy
 esotropia
 esotropic
+epil
 exponentiate
 esp
 espace
