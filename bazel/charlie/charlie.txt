@@ -10259,7 +10259,6 @@ chiasmodon
 chiasmodontid
 chiasmodontidae
 chiasms
-chiasmus
 chiastic
 chiastolite
 cantoon
@@ -21721,6 +21720,7 @@ condor
 condos
 condottiere
 condottieri
+chiasmus
 conduce
 conduced
 conducement
