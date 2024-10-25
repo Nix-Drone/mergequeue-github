@@ -1714,7 +1714,6 @@ deathsman
 deathsmen
 depaysee
 deathtime
-deathtrap
 deathtraps
 deathward
 deathwatches
@@ -12811,6 +12810,7 @@ disoblige
 disobliged
 disobliges
 disobliging
+deathtrap
 duodynatron
 disobligingly
 disobstruct
