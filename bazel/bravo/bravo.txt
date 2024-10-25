@@ -538,6 +538,7 @@ backswimmer
 backsword
 backswording
 bettergates
+bklr
 backswordman
 bestness
 backswordmen
@@ -10027,7 +10028,6 @@ bk
 boatful
 bkbndr
 bkg
-bklr
 backsey
 bkpt
 bocasine
