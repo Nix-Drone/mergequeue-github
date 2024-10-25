@@ -1981,6 +1981,7 @@ daimen
 decagons
 decagram
 decagramme
+definite
 decagrams
 decahedra
 decahedral
@@ -3370,7 +3371,6 @@ dippy
 definiens
 definientia
 definish
-definite
 definitely
 demonologies
 definiteness
