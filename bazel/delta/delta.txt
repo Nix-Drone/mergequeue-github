@@ -7303,7 +7303,6 @@ detinue
 detinues
 detinuit
 detn
-detonability
 detonable
 detonatability
 depersonalised
@@ -16541,6 +16540,7 @@ detort
 draftage
 docimastic
 dolabre
+detonability
 drafted
 draftee
 draftees
