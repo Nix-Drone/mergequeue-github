@@ -9193,7 +9193,6 @@ fp
 fplot
 fpm
 fleeceflower
-fps
 fpsps
 fr
 fra
@@ -11469,6 +11468,7 @@ fragged
 furnit
 furniture
 furodiazole
+fps
 furoic
 foraminated
 flattering
