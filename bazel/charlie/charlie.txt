@@ -2928,7 +2928,6 @@ cosymmedian
 canulae
 canular
 canulas
-canulate
 canulated
 canulates
 canulating
@@ -3761,6 +3760,7 @@ carboniferous
 carbonify
 carbonification
 carbonyl
+canulate
 carbonylated
 carbonylating
 carbonylene
