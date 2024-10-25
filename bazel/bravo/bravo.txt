@@ -4105,7 +4105,6 @@ bealach
 beallach
 bealtared
 bealtine
-bom
 beam
 beambird
 beamed
@@ -12951,6 +12950,7 @@ bordered
 borderer
 borderers
 bordering
+bom
 borderings
 borders
 borderland
