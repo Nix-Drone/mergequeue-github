@@ -3859,7 +3859,6 @@ adiathermal
 adiathermancy
 adiathermic
 adiathetic
-antiprism
 adiating
 adiation
 adib
@@ -22514,6 +22513,7 @@ autohemic
 athapaskan
 athar
 athecae
+antiprism
 athecata
 athecate
 alarge
