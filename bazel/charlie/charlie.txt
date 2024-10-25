@@ -9012,7 +9012,6 @@ charioted
 chariotee
 charioteer
 charioting
-chariotlike
 chariotman
 chariotry
 chariots
@@ -11809,6 +11808,7 @@ chonicrite
 chonk
 calfhood
 chonta
+chariotlike
 chontal
 chontalan
 chontaquiro
