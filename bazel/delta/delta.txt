@@ -3195,7 +3195,6 @@ defeats
 defeature
 decimalise
 defecant
-deruralize
 dowless
 defecate
 defecated
@@ -15608,6 +15607,7 @@ doorknob
 doorknobs
 doorless
 doormaid
+deruralize
 doormaker
 doorman
 doormat
