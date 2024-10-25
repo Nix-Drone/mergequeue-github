@@ -6836,7 +6836,6 @@ aircraftman
 axometer
 aircraftmen
 aircraftsman
-aircraftsmen
 aircraftswoman
 aircraftwoman
 ahint
@@ -17032,6 +17031,7 @@ apioid
 apioidal
 apiol
 apiole
+aircraftsmen
 apiologies
 apiologist
 apyonin
