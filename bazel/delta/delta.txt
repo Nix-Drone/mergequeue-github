@@ -3394,7 +3394,6 @@ definitor
 doles
 defis
 defix
-deflagrable
 desulfuriser
 deflagrated
 deflagrates
@@ -12579,6 +12578,7 @@ disker
 dyskeratosis
 diskery
 discouragingness
+deflagrable
 diskette
 dermolysis
 diskettes
