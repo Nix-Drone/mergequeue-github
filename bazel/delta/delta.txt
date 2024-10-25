@@ -2426,7 +2426,6 @@ dialogs
 degorder
 decimeters
 decimetre
-daysman
 dangering
 daker
 decimole
@@ -17170,6 +17169,7 @@ drinkability
 drinkable
 drinkables
 drinkably
+daysman
 drinker
 disgaveled
 drinkers
