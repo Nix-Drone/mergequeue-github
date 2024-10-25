@@ -12575,7 +12575,6 @@ chronics
 chronique
 chronisotherm
 chronist
-chronobarometer
 chronobiology
 chronocarator
 chronocyclegraph
@@ -20011,6 +20010,7 @@ commensurability
 commensurable
 cajoled
 commensurableness
+chronobarometer
 commensurably
 commensurate
 commensurated
