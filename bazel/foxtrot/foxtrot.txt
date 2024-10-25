@@ -3888,7 +3888,6 @@ final
 finale
 finales
 finalis
-finalization
 finalize
 finalized
 fragmenting
@@ -7672,6 +7671,7 @@ foreorlop
 forefigure
 forefin
 forefinger
+finalization
 forjudged
 forefingers
 figlike
