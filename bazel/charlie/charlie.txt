@@ -2992,6 +2992,7 @@ capacitativly
 capacitator
 capacity
 capacities
+compositing
 capacitive
 capacitively
 capacitor
@@ -20808,7 +20809,6 @@ composited
 compositely
 compositeness
 composites
-compositing
 composition
 compositional
 compositionally
