@@ -9961,7 +9961,6 @@ chemotherapists
 chemotic
 chemotroph
 chemotrophic
-chemotropic
 chemotropically
 chemotropism
 chempaduk
@@ -23350,6 +23349,7 @@ cyrtostyle
 containership
 containerships
 containing
+chemotropic
 containment
 containments
 covert
