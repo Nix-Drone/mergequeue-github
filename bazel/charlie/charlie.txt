@@ -2382,6 +2382,7 @@ candies
 candify
 candyh
 candying
+claimers
 candil
 candymaker
 candymaking
@@ -15274,7 +15275,6 @@ claimed
 composograph
 claimer
 consumables
-claimers
 claymore
 claims
 claimsman
