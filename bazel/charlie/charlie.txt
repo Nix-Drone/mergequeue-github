@@ -6199,7 +6199,6 @@ caulophyllum
 caulopteris
 caulosarc
 caulotaxy
-caulotaxis
 caulote
 cauls
 caum
@@ -24001,6 +24000,7 @@ chamaesiphon
 convenable
 convenably
 convenances
+caulotaxis
 convene
 convened
 convener
