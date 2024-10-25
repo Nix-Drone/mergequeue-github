@@ -7547,6 +7547,7 @@ antivenene
 alembicate
 alcaide
 alcayde
+atomistic
 alcaydes
 alcalde
 alcaldes
@@ -22767,7 +22768,6 @@ atomising
 atomism
 atomisms
 atomist
-atomistic
 atomistical
 atomists
 atomity
