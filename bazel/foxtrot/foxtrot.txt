@@ -1083,7 +1083,6 @@ farmerish
 farmerly
 farmerlike
 farmership
-farmhold
 farmhouse
 feronia
 farmhousey
@@ -3655,6 +3654,7 @@ filicales
 filices
 filicidal
 filicide
+farmhold
 filicides
 fordoing
 fervidity
