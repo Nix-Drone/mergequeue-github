@@ -3541,7 +3541,6 @@ defrayable
 defrayal
 defrayals
 decadarchy
-defrayed
 defrayer
 defrayers
 defraying
@@ -11651,6 +11650,7 @@ discountenances
 discounter
 distastes
 discounters
+defrayed
 discounting
 dissociableness
 discountinuous
