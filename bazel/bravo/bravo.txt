@@ -1676,7 +1676,6 @@ ballottine
 ballottines
 ballow
 blear
-ballplayer
 ballplayers
 ballplatz
 bedrabbled
@@ -11916,6 +11915,7 @@ boglander
 bogle
 bogled
 bogledom
+ballplayer
 boglet
 bogmire
 bogo
