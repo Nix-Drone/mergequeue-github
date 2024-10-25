@@ -8215,6 +8215,7 @@ diagnostics
 diagometer
 demove
 derogations
+duotones
 dele
 diagonal
 diagonalizable
@@ -18365,7 +18366,6 @@ diospyros
 duotone
 duotoned
 disembody
-duotones
 duotriacontane
 duotriode
 duoviri
