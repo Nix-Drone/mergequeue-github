@@ -7431,7 +7431,6 @@ fey
 forceput
 fazing
 forces
-forcet
 forches
 forcy
 forcibility
@@ -8450,6 +8449,7 @@ formicary
 formicariae
 formicarian
 formicaries
+forcet
 feaked
 formicarioid
 formicaroid
