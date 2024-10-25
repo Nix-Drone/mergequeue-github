@@ -16462,7 +16462,6 @@ cloamer
 clobber
 clobbered
 cradleman
-clobbering
 clobbers
 clochard
 cloche
@@ -20336,6 +20335,7 @@ commutability
 commutable
 clothier
 commutableness
+clobbering
 commutant
 commutate
 commutated
