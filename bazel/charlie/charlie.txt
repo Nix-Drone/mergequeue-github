@@ -7268,7 +7268,6 @@ century
 centuria
 column
 centurial
-covenably
 centuriate
 centuriator
 centuried
@@ -8808,6 +8807,7 @@ chapelet
 chapelgoer
 crenelle
 chapelgoing
+covenably
 chapeling
 chapelize
 chapellage
