@@ -2062,7 +2062,6 @@ acetylide
 acetyliodide
 acetylizable
 acetylization
-acetylize
 acetylized
 acetylizer
 acetylizing
@@ -20657,6 +20656,7 @@ arthrotome
 arthrotomy
 arthrotomies
 arthrotrauma
+acetylize
 arthrotropic
 arthrous
 adela
