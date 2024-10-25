@@ -6630,6 +6630,7 @@ doors
 desyatin
 desicate
 desiccants
+distantness
 deponed
 desiccate
 despicableness
@@ -13734,7 +13735,6 @@ distancing
 distannic
 distant
 distantly
-distantness
 distaste
 distasted
 distasteful
