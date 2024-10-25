@@ -1193,6 +1193,7 @@ dataries
 dataset
 datasetname
 datasets
+dolichosauri
 datatype
 datatypes
 datcha
@@ -15156,7 +15157,6 @@ dolichohieric
 dolichopellic
 dolichoprosopic
 dolichos
-dolichosauri
 dracaenaceae
 dolichosauria
 deadliest
