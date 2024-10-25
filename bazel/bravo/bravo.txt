@@ -10667,7 +10667,6 @@ backflap
 blendcorn
 bestill
 broomstaff
-blende
 blendes
 buffaloed
 blendwater
@@ -12672,6 +12671,7 @@ booklouse
 booklover
 bookmaker
 bookmakers
+blende
 bedot
 bookman
 bidarka
