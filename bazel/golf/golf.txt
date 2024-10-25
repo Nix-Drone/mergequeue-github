@@ -5112,6 +5112,7 @@ glamourize
 glamourless
 glamourous
 glance
+gatling
 glanced
 glancing
 glancingly
@@ -9268,7 +9269,6 @@ groggery
 groggeries
 groggy
 groggier
-gatling
 grogginess
 grogging
 gunfighters
