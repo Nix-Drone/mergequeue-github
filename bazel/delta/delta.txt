@@ -5070,7 +5070,6 @@ denationalise
 dilleniad
 denationalised
 denationalization
-denationalize
 denationalized
 denaturalisation
 denaturalise
@@ -6748,6 +6747,7 @@ deskill
 desklike
 deskman
 deskmen
+denationalize
 desks
 desktop
 destined
