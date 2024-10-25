@@ -2882,7 +2882,6 @@ genospecies
 genotype
 gobinism
 germanically
-genotypic
 genotypical
 gunfire
 genotypically
@@ -5433,6 +5432,7 @@ glycyrrhiza
 gipsyry
 glycyrrhizin
 groundman
+genotypic
 glycocoll
 glycogelatin
 glycogen
