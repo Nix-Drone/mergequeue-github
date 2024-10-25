@@ -3714,6 +3714,7 @@ dehache
 dehypnotize
 dehair
 deheathenize
+digestiveness
 dehematize
 decard
 departement
@@ -9436,7 +9437,6 @@ digestif
 digesting
 digestion
 digestively
-digestiveness
 dermad
 digestment
 digestor
