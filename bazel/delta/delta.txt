@@ -634,6 +634,7 @@ damine
 drek
 damkjernite
 damlike
+dematerialise
 dammars
 damme
 dammer
@@ -4456,7 +4457,6 @@ demast
 demasted
 demasting
 dematerialisation
-dematerialise
 duchery
 decubation
 dematerialised
