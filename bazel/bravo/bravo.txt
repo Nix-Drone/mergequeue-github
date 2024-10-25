@@ -4430,7 +4430,6 @@ becapping
 brassylic
 becaps
 becard
-becarpet
 becarpeted
 becarpeting
 becarve
@@ -17065,6 +17064,7 @@ bullary
 bullaries
 bullarium
 bullate
+becarpet
 bullation
 bullback
 botfly
