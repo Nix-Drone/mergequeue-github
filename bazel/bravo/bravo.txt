@@ -3772,7 +3772,6 @@ battens
 batter
 bread
 batterable
-battercake
 batterdock
 battered
 bootstrap
@@ -13666,6 +13665,7 @@ bloomer
 boustrophedonic
 bout
 boutefeu
+battercake
 bouteria
 bouteselle
 boutylka
