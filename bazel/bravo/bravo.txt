@@ -430,6 +430,7 @@ backplane
 backplanes
 backplate
 backpointer
+booklore
 backpointers
 backrest
 backrope
@@ -12663,7 +12664,6 @@ booklift
 booklike
 bookling
 booklists
-booklore
 bhavan
 bioecologic
 backtrackers
