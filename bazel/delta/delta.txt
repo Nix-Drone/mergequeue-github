@@ -1122,7 +1122,6 @@ dashnak
 dashnakist
 dashplate
 dropflower
-dashpot
 dasht
 dashwheel
 dermoossification
@@ -7673,6 +7672,7 @@ devisees
 deviser
 devisers
 devising
+dashpot
 diacetic
 decussorium
 devisors
