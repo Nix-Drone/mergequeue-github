@@ -3423,7 +3423,6 @@ caption
 captioned
 captioning
 captionless
-captions
 captious
 childridden
 captiously
@@ -19819,6 +19818,7 @@ coulometrically
 comfit
 comfiture
 clips
+captions
 comfort
 comfortability
 comfortabilities
