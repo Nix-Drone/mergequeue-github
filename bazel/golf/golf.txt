@@ -4193,7 +4193,6 @@ gim
 gimbal
 gimbaled
 gimballed
-groundsheet
 groining
 guildry
 gimberjawed
@@ -7823,6 +7822,7 @@ gymnocarpous
 grammarless
 grammars
 gieseckite
+groundsheet
 grammaticality
 gateau
 glossate
