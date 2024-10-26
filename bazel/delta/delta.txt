@@ -5638,7 +5638,6 @@ depended
 dependence
 dependency
 dependencies
-depending
 dependingly
 depends
 defacingly
@@ -9902,6 +9901,7 @@ diminished
 diminisher
 dehydrofroze
 diminishment
+depending
 dairy
 diminishments
 diminue
