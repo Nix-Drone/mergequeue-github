@@ -287,7 +287,6 @@ backarrow
 backarrows
 backout
 backband
-backbar
 backbearing
 biotechnologies
 backbencher
@@ -12544,6 +12543,7 @@ bonsai
 bills
 bonsela
 brigantine
+backbar
 bonser
 bestad
 biotomy
