@@ -1579,7 +1579,6 @@ algid
 acclimatizable
 apokreos
 atinkle
-acclimatize
 acclimatizer
 acclimatizes
 acclimatizing
@@ -1941,6 +1940,7 @@ airman
 acerolas
 acerous
 acerra
+acclimatize
 acertannin
 acerval
 acervate
