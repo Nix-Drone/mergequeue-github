@@ -3383,7 +3383,6 @@ capsule
 collegatary
 chawbone
 capsulectomy
-caliculus
 capsuled
 capsuler
 capsules
@@ -11705,6 +11704,7 @@ commissionary
 chon
 chonchina
 chondral
+caliculus
 chondralgia
 chondrarsenite
 chondre
