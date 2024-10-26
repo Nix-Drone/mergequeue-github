@@ -29803,6 +29803,7 @@ clumber
 cross
 crossability
 crossable
+compeller
 crossarms
 calculate
 crossband
@@ -30028,7 +30029,6 @@ crout
 crouth
 croutons
 crow
-compeller
 crowbait
 crowbar
 crowbars
