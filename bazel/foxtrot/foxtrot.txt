@@ -1074,6 +1074,7 @@ freshening
 furriners
 farmable
 farmed
+fiendly
 farmer
 farmeress
 farmery
@@ -3399,7 +3400,6 @@ fops
 fallibility
 fiendish
 falconets
-fiendly
 freestyle
 fiendlier
 fleckiness
