@@ -2579,7 +2579,6 @@ bargehouse
 bargelike
 bargelli
 bargello
-bargeload
 bargeman
 bromcamphor
 bookmaking
@@ -5561,6 +5560,7 @@ bejig
 bejuco
 bajri
 bejuggle
+bargeload
 bejumbles
 bejumbling
 bunko
