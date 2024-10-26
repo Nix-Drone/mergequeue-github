@@ -9572,7 +9572,6 @@ consummatively
 checkrows
 checks
 checkstrap
-checkstring
 checksum
 construct
 checksummed
@@ -17429,6 +17428,7 @@ coble
 cobleman
 coblentzian
 cobles
+checkstring
 counterdemand
 cobleskill
 cobless
