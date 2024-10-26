@@ -6533,7 +6533,6 @@ bepaper
 beparch
 beparse
 benefactrix
-bepart
 bepaste
 bletted
 bepastured
@@ -15105,6 +15104,7 @@ bogier
 butchering
 brewery
 breweries
+bepart
 brewers
 brewership
 brewhouse
