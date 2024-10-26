@@ -7640,7 +7640,6 @@ cerebrotomy
 cerebrotonia
 contestants
 cerebrovascular
-cerebrovisceral
 cerebrum
 chaumontel
 cerecloth
@@ -17130,6 +17129,7 @@ coaguline
 confineless
 coagulometer
 coagulose
+cerebrovisceral
 coagulum
 coahuiltecan
 coaid
