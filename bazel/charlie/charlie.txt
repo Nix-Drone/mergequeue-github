@@ -4075,6 +4075,7 @@ capette
 cardiopyloric
 cardioplegia
 cardiopneumatic
+cyclohexanol
 cardiopneumograph
 cardioptosis
 cardiopulmonary
@@ -13328,7 +13329,6 @@ carbonylate
 cyclohexadienyl
 cashoos
 cyclohexane
-cyclohexanol
 cyclohexanone
 cyclohexatriene
 cyclohexene
