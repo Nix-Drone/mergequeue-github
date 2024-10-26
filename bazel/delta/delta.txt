@@ -7036,7 +7036,6 @@ dismays
 destroyer
 destroyers
 destroying
-diagnostic
 destruct
 destructibility
 diluvian
@@ -7775,6 +7774,7 @@ dimensions
 devoto
 devour
 devourable
+diagnostic
 doctorfish
 devourer
 devourers
