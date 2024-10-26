@@ -2722,6 +2722,7 @@ gombroons
 generations
 generative
 generativeness
+glow
 gameball
 generators
 generatrices
@@ -5978,7 +5979,6 @@ gametes
 gloveman
 glover
 gloves
-glow
 girnel
 glowbard
 glowerer
