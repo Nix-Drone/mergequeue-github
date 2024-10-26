@@ -21554,7 +21554,6 @@ assagaiing
 attenuate
 assay
 assayable
-assayed
 assayer
 assayers
 assaying
@@ -24899,6 +24898,7 @@ avulsing
 avulsion
 aponeurotome
 adeption
+assayed
 avuncular
 avunculate
 avunculize
