@@ -8939,6 +8939,7 @@ biochemics
 biochemistry
 bifanged
 biochemistries
+boomer
 biochemists
 bandoras
 baisakh
@@ -12747,7 +12748,6 @@ boomboat
 boomboxes
 boomdas
 boomed
-boomer
 boomeranged
 boomeranging
 boomers
