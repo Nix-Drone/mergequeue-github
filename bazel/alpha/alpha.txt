@@ -8935,7 +8935,6 @@ allothigenetic
 allegorization
 allothigenetically
 allothigenic
-allothigenous
 allothimorph
 allothimorphic
 allothogenic
@@ -20838,6 +20837,7 @@ atka
 arvicolous
 arvos
 arx
+allothigenous
 arzan
 arzawa
 anew
