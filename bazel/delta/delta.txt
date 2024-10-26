@@ -1714,6 +1714,7 @@ deathsman
 deathsmen
 depaysee
 deathtime
+diffeomorphism
 deathtrap
 deathtraps
 deathward
@@ -9300,7 +9301,6 @@ desition
 dipso
 diffarreation
 diffeomorphic
-diffeomorphism
 differed
 differen
 differenced
