@@ -9326,7 +9326,6 @@ biplanes
 biplicate
 biplicity
 banishments
-biplosion
 biplosive
 bries
 bipod
@@ -9641,6 +9640,7 @@ bishop
 backbeats
 bishopdom
 bishoped
+biplosion
 biborate
 bishopful
 bishophood
