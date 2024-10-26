@@ -1328,7 +1328,6 @@ dauphiness
 daur
 dauri
 daurna
-decipolar
 daut
 draffier
 dauted
@@ -2662,6 +2661,7 @@ decomposability
 decomposable
 decompose
 decomposed
+decipolar
 delphin
 dimmy
 decomposer
