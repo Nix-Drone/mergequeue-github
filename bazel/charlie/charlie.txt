@@ -4083,7 +4083,6 @@ cardiorespiratory
 cardiorrhaphy
 cardiorrheuma
 cardiorrhexis
-cardiosclerosis
 cardioscope
 cardiosymphysis
 cardiospasm
@@ -5768,6 +5767,7 @@ catenates
 catenating
 catenation
 catenative
+cardiosclerosis
 catenoid
 consciencelessness
 catenulate
