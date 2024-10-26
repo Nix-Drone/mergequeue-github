@@ -3410,7 +3410,6 @@ captaincy
 captaincies
 captained
 captainly
-captainry
 cesure
 captainship
 captainships
@@ -19115,6 +19114,7 @@ collogue
 collogued
 colloguing
 chiropter
+captainry
 colloid
 caseconv
 cinerins
