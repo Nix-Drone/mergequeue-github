@@ -1218,7 +1218,6 @@ eds
 educ
 educability
 educable
-educables
 educand
 educatability
 epicrystalline
@@ -7686,6 +7685,7 @@ epicondylic
 equichangeable
 enemied
 enviousness
+educables
 equiatomic
 epicondylitis
 epicoracohumeral
