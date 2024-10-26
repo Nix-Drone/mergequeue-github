@@ -8501,7 +8501,6 @@ garb
 grabbed
 gravure
 grazable
-gastight
 grazed
 grazer
 gradus
@@ -10196,6 +10195,7 @@ guildsmen
 guessworker
 guile
 guileful
+gastight
 gyroscopic
 guilefulness
 guilelessness
