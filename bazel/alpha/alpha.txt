@@ -653,7 +653,6 @@ aboiteaus
 aboiteaux
 abolete
 abolish
-abolished
 abolisher
 abolishers
 abolishing
@@ -5299,6 +5298,7 @@ affidavy
 affidavit
 aviso
 affied
+abolished
 affies
 affying
 affile
