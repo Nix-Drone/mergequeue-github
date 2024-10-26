@@ -6145,7 +6145,6 @@ glusid
 gluside
 glut
 glutamate
-geodesics
 glutamates
 glutamic
 glutaminase
@@ -10023,6 +10022,7 @@ gramas
 gammation
 ghosting
 guelf
+geodesics
 guelph
 guelphish
 gastrins
