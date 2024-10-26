@@ -8195,6 +8195,7 @@ diageotropic
 diaglyph
 diaglyphic
 ductus
+drawtubes
 diaglyptic
 diagnosable
 diagnose
@@ -16872,7 +16873,6 @@ drawtongs
 defortify
 drawtube
 decanically
-drawtubes
 declaiming
 drazel
 drch
