@@ -2741,7 +2741,6 @@ barman
 barmaster
 barmbrack
 barmcloth
-brither
 barmecide
 barmen
 barmfel
@@ -7887,6 +7886,7 @@ bibby
 bibbing
 bibble
 beclose
+brither
 bocking
 bibbons
 bibcocks
