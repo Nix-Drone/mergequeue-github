@@ -5571,7 +5571,6 @@ afterbody
 afterbodies
 amyloids
 afterbrain
-afterbreach
 afterbreast
 aesthesics
 afterburner
@@ -8874,6 +8873,7 @@ allopath
 allopathetic
 allopathetically
 allopathy
+afterbreach
 allopathic
 acidic
 allopathically
