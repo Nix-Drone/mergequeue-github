@@ -1006,7 +1006,6 @@ absorb
 arius
 adiathermanous
 absorbability
-absorbable
 absorbance
 absorbancy
 absorbant
@@ -14590,6 +14589,7 @@ anthropologically
 anthropologies
 anthropologists
 affirmingly
+absorbable
 anthropomancy
 alberich
 anthropomantist
