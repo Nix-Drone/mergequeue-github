@@ -1217,7 +1217,6 @@ edriophthalmian
 eds
 educ
 educability
-educable
 educables
 educand
 educatability
@@ -10590,6 +10589,7 @@ etuve
 etuvee
 epulary
 ensure
+educable
 etwas
 encraal
 etwee
