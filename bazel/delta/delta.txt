@@ -1897,7 +1897,6 @@ debted
 debtee
 debtful
 debtless
-debtor
 debtors
 debugger
 debuggers
@@ -16441,6 +16440,7 @@ dichromate
 doxological
 doxologically
 doxologize
+debtor
 doxologized
 doz
 doze
