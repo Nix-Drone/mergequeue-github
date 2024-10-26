@@ -5250,7 +5250,6 @@ begem
 begemmed
 begemming
 beget
-begettal
 begetter
 begetters
 broth
@@ -15311,6 +15310,7 @@ bridling
 ballerine
 bridoons
 brie
+begettal
 budukha
 brief
 briefcase
