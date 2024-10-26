@@ -8454,7 +8454,6 @@ alkalurops
 alkamin
 algorithms
 alkamine
-alkanal
 alkanes
 alkanet
 accurateness
@@ -24165,6 +24164,7 @@ autoloaders
 autoloading
 autology
 autological
+alkanal
 autologist
 autologous
 autoluminescence
