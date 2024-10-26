@@ -1700,7 +1700,6 @@ fdnames
 fdtype
 fdub
 fortuitousness
-fe
 forksmith
 feaberry
 frugivora
@@ -11050,6 +11049,7 @@ fumettes
 flongs
 felsosphaerite
 fumeuse
+fe
 fumy
 flickerproof
 fumid
