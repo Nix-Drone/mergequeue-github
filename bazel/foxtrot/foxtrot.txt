@@ -4071,7 +4071,6 @@ freshman
 finless
 finlet
 finlike
-finmark
 finmarks
 finnac
 finnan
@@ -10370,6 +10369,7 @@ fromages
 fromenty
 fromenties
 fromward
+finmark
 fromwards
 fronde
 frondent
