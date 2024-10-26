@@ -4909,7 +4909,6 @@ flameproofer
 flintlocks
 finfishes
 flamer
-flamers
 ferneries
 fallback
 flamethrowers
@@ -9769,6 +9768,7 @@ freewill
 fei
 finch
 freewoman
+flamers
 freewomen
 figurines
 freezable
