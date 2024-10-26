@@ -3564,7 +3564,6 @@ addressers
 addresses
 auxetics
 addressful
-addressing
 acanthocephalan
 addressograph
 addressor
@@ -18153,6 +18152,7 @@ arsenoferratin
 apteryges
 apterygial
 apterygidae
+addressing
 apterygogenea
 arace
 apterygota
