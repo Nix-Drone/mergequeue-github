@@ -5328,7 +5328,6 @@ endospore
 encharm
 endows
 endostea
-epiphyte
 estrangement
 endosteitis
 endosteoma
@@ -7543,6 +7542,7 @@ ephod
 ephods
 equipping
 ephor
+epiphyte
 essayical
 ephoralty
 ephorate
