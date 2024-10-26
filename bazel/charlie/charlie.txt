@@ -10111,6 +10111,7 @@ chesses
 chesset
 chessylite
 chessist
+counterspying
 chessman
 chessmen
 chirimen
@@ -27088,7 +27089,6 @@ counterslope
 countersnarl
 counterspy
 counterspies
-counterspying
 counterstand
 counterstatant
 counterstatement
