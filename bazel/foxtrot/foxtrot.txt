@@ -1096,7 +1096,6 @@ farmyardy
 foremastman
 farmland
 farmost
-farmout
 fasteners
 fisc
 farms
@@ -5819,6 +5818,7 @@ fitter
 fallacy
 floatiest
 frederic
+farmout
 floatingly
 floatless
 floatman
