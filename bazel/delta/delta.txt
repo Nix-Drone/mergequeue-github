@@ -4698,7 +4698,6 @@ demirelief
 dourahs
 demirep
 demireps
-demirevetment
 demirhumb
 demirilievo
 demirobe
@@ -7053,6 +7052,7 @@ destructory
 destructors
 destructuralize
 destrudo
+demirevetment
 deplorable
 destuff
 destuffing
