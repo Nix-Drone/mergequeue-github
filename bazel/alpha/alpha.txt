@@ -5999,7 +5999,6 @@ agglomeration
 agglomerative
 agglomerator
 autoing
-aramis
 agglutinable
 agglutinant
 apical
@@ -20797,6 +20796,7 @@ artware
 artwork
 artworks
 aru
+aramis
 aruac
 arugula
 arugulas
