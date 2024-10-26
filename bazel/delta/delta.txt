@@ -3271,7 +3271,6 @@ defenseman
 defensemen
 defenser
 defenses
-defensibility
 defensibleness
 defensibly
 defensive
@@ -6926,6 +6925,7 @@ dogfaces
 devorative
 despoilments
 despoils
+defensibility
 despoliation
 despoliations
 despond
