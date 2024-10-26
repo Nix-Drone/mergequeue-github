@@ -3917,6 +3917,7 @@ giboia
 goyle
 glave
 gibsons
+graphophonic
 gibstaff
 gibus
 gibuses
@@ -8201,7 +8202,6 @@ graphomotor
 gymnastically
 gyrovague
 graphophone
-graphophonic
 graphoscope
 gulpin
 graphostatic
