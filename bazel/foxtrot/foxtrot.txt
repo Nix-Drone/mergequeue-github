@@ -5837,7 +5837,6 @@ fname
 floccillation
 floccipend
 freeloader
-forcipressure
 floccose
 floccosely
 flocculable
@@ -10189,6 +10188,7 @@ frisure
 frithbot
 frithy
 fonds
+forcipressure
 feasance
 formiate
 forensal
