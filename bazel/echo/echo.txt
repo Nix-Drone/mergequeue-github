@@ -2338,7 +2338,6 @@ electrocardiograph
 electrocardiographic
 electrocardiographically
 electrocatalysis
-electrocatalytic
 explorational
 electrocautery
 evasion
@@ -6569,6 +6568,7 @@ environs
 entanglingly
 entapophysis
 entasia
+electrocatalytic
 entasias
 entasis
 entea
