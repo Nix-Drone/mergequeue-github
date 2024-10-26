@@ -6936,7 +6936,6 @@ bescratch
 bescreen
 bescreened
 belleek
-bescreening
 bescreens
 bescribble
 bescribbled
@@ -9093,6 +9092,7 @@ bionomic
 boltstrake
 bionomically
 bionomies
+bescreening
 ballonet
 biont
 biontic
