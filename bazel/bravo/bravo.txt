@@ -1401,7 +1401,6 @@ blithen
 baldaquin
 baldberry
 brunches
-baldcrown
 balded
 balder
 balderdash
@@ -15214,6 +15213,7 @@ bricktop
 brickwall
 brickwork
 backstrip
+baldcrown
 brid
 bucketing
 bastinade
