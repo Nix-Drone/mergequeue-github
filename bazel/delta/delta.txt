@@ -1180,7 +1180,6 @@ datafile
 dataflow
 datagram
 datagrams
-deescalating
 datakit
 datamation
 datana
@@ -4104,6 +4103,7 @@ deliciae
 delicious
 deliciouses
 deliciousness
+deescalating
 delict
 disunionist
 delicts
