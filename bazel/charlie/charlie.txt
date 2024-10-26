@@ -3411,6 +3411,7 @@ captaincies
 captained
 captainly
 captainry
+conceals
 cesure
 captainship
 captainships
@@ -21106,7 +21107,6 @@ concealedness
 concealer
 concealers
 concealing
-conceals
 concede
 conceded
 concededly
