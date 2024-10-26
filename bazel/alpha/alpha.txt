@@ -19977,6 +19977,7 @@ armlets
 armlike
 armload
 armloads
+autogamic
 armlock
 armlocks
 armoire
@@ -24049,7 +24050,6 @@ autofluorescence
 autoformation
 antigenicity
 autofrettage
-autogamic
 alimenter
 autogamies
 autogamous
