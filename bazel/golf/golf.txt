@@ -2810,7 +2810,6 @@ gestures
 genio
 genioglossal
 globoids
-genioglossi
 genioglossus
 geniohyoglossal
 gapers
@@ -9432,6 +9431,7 @@ gesneria
 groundbird
 groundbreaker
 grounded
+genioglossi
 gypsums
 groundedly
 grounden
