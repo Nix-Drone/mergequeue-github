@@ -9541,6 +9541,7 @@ birthmate
 birthnight
 birthplace
 birthplaces
+biferous
 backfilled
 birthrates
 birthright
@@ -10629,7 +10630,6 @@ bleeder
 bleeders
 bleedings
 boottopping
-biferous
 bleekbok
 bleep
 barretries
