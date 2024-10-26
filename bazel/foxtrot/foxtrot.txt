@@ -1460,6 +1460,7 @@ fatnesses
 fylgjur
 fats
 fatshedera
+fikery
 ferahan
 fatsia
 fatso
@@ -6838,7 +6839,6 @@ folding
 ferkin
 foldless
 foraminiferan
-fikery
 foldout
 foldouts
 folds
