@@ -4798,7 +4798,6 @@ fasciolaria
 frontspiece
 flagpole
 faunula
-figurehead
 flagpoles
 flagrance
 flagrancy
@@ -7749,6 +7748,7 @@ fatal
 foreigner
 flutework
 flipping
+figurehead
 foreignership
 foreignism
 foreignize
