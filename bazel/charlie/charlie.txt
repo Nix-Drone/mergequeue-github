@@ -19089,7 +19089,6 @@ collobrierite
 collocal
 collocalia
 copintank
-collocate
 collocated
 collocates
 collocating
@@ -29868,6 +29867,7 @@ crosshairs
 crosshand
 crosshatch
 crosshatched
+collocate
 crosshatcher
 crosshatches
 cogwheel
