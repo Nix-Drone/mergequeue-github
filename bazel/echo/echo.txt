@@ -11257,6 +11257,7 @@ evacue
 evacuees
 evadable
 evade
+excitonic
 evaded
 evader
 encounterers
@@ -12048,7 +12049,6 @@ excitometabolic
 excitomotor
 excitomotory
 exciton
-excitonic
 excitons
 excitonutrient
 excitor
