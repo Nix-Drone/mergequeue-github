@@ -4177,7 +4177,6 @@ feuage
 firecrackers
 farness
 firedamp
-feezing
 firedamps
 firedog
 firedragon
@@ -4754,6 +4753,7 @@ folie
 flagellula
 flagellulae
 fortressed
+feezing
 flagellum
 flageolet
 fannings
