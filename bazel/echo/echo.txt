@@ -2263,6 +2263,7 @@ elections
 elective
 ephemerons
 electives
+embassy
 electivism
 electivity
 electo
@@ -3383,7 +3384,6 @@ epionynychia
 embars
 embase
 embassadress
-embassy
 embassiate
 embassies
 embastardize
