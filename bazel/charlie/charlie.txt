@@ -6017,7 +6017,6 @@ catproof
 catrigged
 cats
 catskill
-coll
 catskin
 catslide
 catso
@@ -14831,6 +14830,7 @@ citified
 cityfied
 citifies
 citifying
+coll
 cityfolk
 citigradae
 citigrade
