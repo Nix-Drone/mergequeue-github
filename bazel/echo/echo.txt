@@ -5550,7 +5550,6 @@ eventualities
 enfeoffing
 enfeoffment
 enfester
-enfettered
 endogenic
 enfettering
 enfetters
@@ -7962,6 +7961,7 @@ epilobe
 epilobium
 epilog
 elaphure
+enfettered
 epilogation
 epilogic
 enstatitic
