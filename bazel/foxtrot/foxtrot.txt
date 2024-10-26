@@ -2214,7 +2214,6 @@ fractionizing
 flancard
 fels
 felsites
-felsobanyite
 foretypified
 felspars
 friendlily
@@ -5531,6 +5530,7 @@ fascicle
 flyback
 flyball
 flybane
+felsobanyite
 flibbertigibbety
 flybelt
 flybelts
