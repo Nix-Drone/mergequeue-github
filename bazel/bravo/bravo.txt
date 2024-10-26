@@ -4165,7 +4165,6 @@ beans
 beansetter
 beanshooter
 beanstalk
-beanstalks
 bibbs
 beanweed
 beaproned
@@ -8109,6 +8108,7 @@ boutell
 bicolours
 bicompact
 biconcave
+beanstalks
 bidder
 bicone
 biconic
