@@ -1220,6 +1220,7 @@ educability
 educable
 educables
 educand
+epeirogenic
 educatability
 epicrystalline
 eident
@@ -7439,7 +7440,6 @@ epeirogenesis
 epilogue
 encased
 epeirogenetic
-epeirogenic
 epeirogenically
 eurygnathous
 eparcuale
