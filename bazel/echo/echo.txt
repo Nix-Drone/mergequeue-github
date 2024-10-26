@@ -2332,6 +2332,7 @@ electrobus
 electrocapillary
 electrocapillarity
 electrocardiogram
+enarration
 electrocardiograms
 escarped
 electrocardiograph
@@ -4437,7 +4438,6 @@ effusion
 enarched
 enarm
 enarme
-enarration
 enarthrodia
 engagers
 enarthrodial
