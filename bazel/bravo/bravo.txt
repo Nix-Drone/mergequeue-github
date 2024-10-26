@@ -4510,7 +4510,6 @@ besieged
 becloak
 belchers
 becloaking
-becloaks
 beclog
 beclogged
 beclogging
@@ -9456,6 +9455,7 @@ birken
 blimps
 birkenhead
 bourride
+becloaks
 birkeniidae
 birky
 birks
