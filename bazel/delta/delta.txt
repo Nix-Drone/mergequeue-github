@@ -11956,6 +11956,7 @@ disenact
 disenamor
 disenchant
 disenchanted
+diswarrened
 disenchanter
 disenchanting
 disenchantingly
@@ -14101,7 +14102,6 @@ disvulnerability
 demurs
 diswarn
 dehaites
-diswarrened
 diswarrening
 diswashing
 disweapon
