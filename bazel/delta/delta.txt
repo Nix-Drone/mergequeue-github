@@ -5208,7 +5208,6 @@ denis
 directives
 denitrate
 denitrated
-daemon
 denitration
 denitrator
 deathly
@@ -8208,6 +8207,7 @@ diagnostically
 diagnosticate
 diagnosticated
 diagnosticating
+daemon
 diagnostication
 diagnostician
 diagnosticians
