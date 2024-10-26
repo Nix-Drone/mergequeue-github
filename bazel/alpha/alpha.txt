@@ -6099,6 +6099,7 @@ aggressivity
 aggressors
 aggry
 agaric
+allocatable
 aggrieve
 aggrieved
 acroneurosis
@@ -8752,7 +8753,6 @@ allobroges
 allobrogical
 allocability
 allocable
-allocatable
 allocate
 allocatee
 allocates
