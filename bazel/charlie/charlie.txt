@@ -5300,7 +5300,6 @@ castelli
 castellum
 casten
 caster
-casterless
 casters
 castes
 casteth
@@ -17203,6 +17202,7 @@ coalsheds
 cantil
 coalternate
 coalternative
+casterless
 coaltitude
 coambassador
 coambulant
