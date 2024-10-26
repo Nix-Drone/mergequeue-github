@@ -5255,6 +5255,7 @@ east
 endopleurite
 electrometry
 endopodite
+exclude
 esphresis
 endopoditic
 euphonium
@@ -13302,7 +13303,6 @@ expositional
 expositions
 expositive
 expositively
-exclude
 evestar
 encup
 encratic
