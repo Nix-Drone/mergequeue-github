@@ -3080,7 +3080,6 @@ actinobranchia
 actinocarpic
 actinocarpous
 actinochemical
-actinochemistry
 actinocrinid
 alalunga
 actinocrinidae
@@ -4870,6 +4869,7 @@ aerified
 autarky
 aerifying
 aeriform
+actinochemistry
 aerily
 aeriness
 aero
