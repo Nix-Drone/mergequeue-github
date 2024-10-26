@@ -6512,6 +6512,7 @@ ensurer
 ensures
 ergatogyne
 ensuring
+epiopticon
 enswathe
 enswathed
 enswathement
@@ -8038,7 +8039,6 @@ echoized
 epinikion
 epinine
 epionychia
-epiopticon
 epiotic
 epipactis
 epirrhematic
