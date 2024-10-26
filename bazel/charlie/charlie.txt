@@ -17820,7 +17820,6 @@ codisjunct
 codist
 codivine
 codlin
-codline
 codling
 codlings
 consuetitude
@@ -30715,6 +30714,7 @@ cuittle
 cuittles
 cuittling
 cuj
+codline
 cujam
 conepate
 cuke
