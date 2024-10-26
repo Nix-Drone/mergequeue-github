@@ -11588,7 +11588,6 @@ boated
 boatel
 boatels
 boatheader
-boathook
 boathouse
 boathouses
 boatyard
@@ -18128,6 +18127,7 @@ butch
 butcha
 blowen
 bedoyo
+boathook
 bolbanac
 butcher
 butcherbroom
