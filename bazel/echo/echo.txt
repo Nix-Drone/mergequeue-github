@@ -4320,6 +4320,7 @@ eremital
 emulsions
 emulsoid
 emulsoidal
+eigenstate
 emulsoids
 emunct
 enteropathogenic
@@ -7710,7 +7711,6 @@ epicrasis
 epicrates
 epicrises
 epicrisis
-eigenstate
 engagingly
 epics
 epictetian
