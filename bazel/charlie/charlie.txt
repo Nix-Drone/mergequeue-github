@@ -9541,6 +9541,7 @@ checkle
 checkless
 checklist
 checklists
+conoscope
 checkman
 congruencies
 clipeus
@@ -24031,7 +24032,6 @@ conventionalisation
 conventionalise
 counterquip
 conventionalised
-conoscope
 conventionalising
 conventionality
 conventionalities
