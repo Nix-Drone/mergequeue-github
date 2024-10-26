@@ -3335,7 +3335,6 @@ emballonuridae
 embalm
 expounded
 empathize
-embalmed
 envelopes
 embalmer
 embalmers
@@ -3811,6 +3810,7 @@ emendated
 ekerite
 escutcheon
 emendates
+embalmed
 emendating
 emendations
 emendator
