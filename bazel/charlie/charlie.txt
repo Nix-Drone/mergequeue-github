@@ -6994,6 +6994,7 @@ censuses
 censusing
 cent
 centage
+chieftains
 centai
 cental
 centals
@@ -10415,7 +10416,6 @@ chieftaincies
 chieftainess
 chieftainry
 chieftainries
-chieftains
 chieftainship
 chiefty
 chiel
