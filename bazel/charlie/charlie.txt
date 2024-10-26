@@ -7917,6 +7917,7 @@ cest
 cesta
 cestas
 ceste
+childage
 cestidae
 cestoda
 cestode
@@ -10474,7 +10475,6 @@ chilblain
 chilblained
 chilcat
 child
-childage
 childbearing
 childbed
 childbirths
