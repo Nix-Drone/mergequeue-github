@@ -8815,7 +8815,6 @@ broadswords
 binal
 baconic
 bugologist
-byname
 binaphthyl
 binary
 binaries
@@ -17914,6 +17913,7 @@ busaos
 busbar
 busbars
 barnburner
+byname
 banquetings
 busbies
 buscarl
