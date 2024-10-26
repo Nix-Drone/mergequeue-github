@@ -13433,7 +13433,6 @@ coremia
 cyclostomatous
 cyclostome
 cyclostomes
-cyclostomi
 cyclostomidae
 cyclostomous
 cyclotella
@@ -25878,6 +25877,7 @@ cortication
 cortices
 corticiferous
 catchland
+cyclostomi
 corticiform
 corticifugal
 cimicid
