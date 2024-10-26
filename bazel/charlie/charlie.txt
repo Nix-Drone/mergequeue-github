@@ -9578,7 +9578,6 @@ construct
 checksummed
 checksumming
 checkup
-checkups
 checkweigher
 checkweighman
 checkweighmen
@@ -26317,6 +26316,7 @@ coteller
 cytons
 curlers
 cotemporane
+checkups
 cotemporanean
 cotemporaneous
 cotemporaneously
