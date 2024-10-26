@@ -511,6 +511,7 @@ echar
 echard
 eche
 echea
+evaluates
 eched
 echelette
 echelle
@@ -11274,7 +11275,6 @@ evaginable
 evagination
 eval
 evaluated
-evaluates
 etherin
 evaluating
 evaluations
