@@ -11591,7 +11591,6 @@ anaerobic
 anaerobically
 anaerobies
 anaerobion
-anaerobiont
 anaerobiosis
 anaerobiotic
 anaerobiotically
@@ -25350,6 +25349,7 @@ azotes
 azotetrazole
 azoth
 azothionium
+anaerobiont
 azoths
 azotic
 autocoid
