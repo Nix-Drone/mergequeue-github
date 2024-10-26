@@ -10446,7 +10446,6 @@ blastoma
 blastomas
 blastomata
 blastomere
-blastomeric
 blastomycetic
 bergamots
 blastomycin
@@ -12667,6 +12666,7 @@ booklore
 bhavan
 bioecologic
 backtrackers
+blastomeric
 booklores
 booklouse
 booklover
