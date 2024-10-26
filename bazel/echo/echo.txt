@@ -1688,7 +1688,6 @@ errorful
 egremoigne
 egress
 egresses
-egressing
 estadal
 egressor
 exiler
@@ -9796,6 +9795,7 @@ espieglerie
 espiegleries
 espies
 espigle
+egressing
 edulcorated
 euryon
 espinal
