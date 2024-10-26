@@ -15294,7 +15294,6 @@ claires
 clairseach
 cloisteral
 clairsentience
-clairsentient
 clairvoyance
 clairvoyances
 clairvoyancy
@@ -20802,6 +20801,7 @@ composedness
 composer
 composing
 composita
+clairsentient
 compositae
 composite
 composited
