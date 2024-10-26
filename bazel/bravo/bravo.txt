@@ -10667,6 +10667,7 @@ backflap
 blendcorn
 bestill
 broomstaff
+blowguns
 blende
 blendes
 buffaloed
@@ -11239,7 +11240,6 @@ bristling
 blowfly
 blowflies
 blowgun
-blowguns
 blowhard
 blowhole
 blowie
