@@ -3242,7 +3242,6 @@ byelaw
 bedight
 basidigitale
 basidigitalia
-basidiocarp
 basidiolichen
 basidiomycete
 baclava
@@ -4886,6 +4885,7 @@ bedunch
 bourgeon
 billian
 boomorah
+basidiocarp
 beduncing
 bevatrons
 botchiest
