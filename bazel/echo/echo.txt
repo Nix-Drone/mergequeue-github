@@ -2436,7 +2436,6 @@ electroextraction
 expedient
 electroform
 electroforming
-electrofusion
 ethanol
 electrogalvanization
 electrogenetic
@@ -7402,6 +7401,7 @@ epapophysis
 epilemmal
 epappose
 erinaceus
+electrofusion
 erythrolysin
 eudemonics
 eriophyes
