@@ -2578,7 +2578,6 @@ decoctum
 decodable
 decode
 decoded
-decoders
 decodes
 decoding
 decodon
@@ -5076,6 +5075,7 @@ denaturalisation
 denaturalise
 denaturalised
 denaturalising
+decoders
 discommendably
 denaturalization
 denaturalize
