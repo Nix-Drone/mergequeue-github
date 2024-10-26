@@ -2658,7 +2658,6 @@ decompiler
 decomponent
 decomponible
 decurved
-decomposability
 decomposable
 decompose
 decomposed
@@ -11064,6 +11063,7 @@ disarmed
 disarmer
 disennui
 disarmers
+decomposability
 disarming
 daikers
 disarmingly
