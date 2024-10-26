@@ -2603,7 +2603,6 @@ fribblery
 ferrites
 frailties
 ferritic
-filelike
 ferritins
 fixations
 fiduciaries
@@ -4991,6 +4990,7 @@ frontenis
 foliums
 flannels
 flanning
+filelike
 flanque
 flapcake
 flapdock
