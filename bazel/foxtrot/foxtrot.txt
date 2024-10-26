@@ -7430,7 +7430,6 @@ forceps
 fey
 forceput
 fazing
-forces
 forcet
 forches
 forcy
@@ -11451,6 +11450,7 @@ furnariides
 fossilify
 furnarius
 furnish
+forces
 furnishable
 flannelmouthed
 foregather
