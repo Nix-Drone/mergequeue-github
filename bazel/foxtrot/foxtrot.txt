@@ -5515,7 +5515,6 @@ flexions
 flexitime
 ferdiad
 flexive
-flexographic
 flexographically
 flexor
 flexors
@@ -6740,6 +6739,7 @@ foghorn
 fogy
 fogyish
 fogless
+flexographic
 foolship
 fogmen
 fuseless
