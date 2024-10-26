@@ -3802,7 +3802,6 @@ filmsets
 filmsetter
 frocklike
 forties
-filmsetting
 filmslide
 filmstrip
 filmstrips
@@ -6951,6 +6950,7 @@ folletti
 folly
 follicle
 follicles
+filmsetting
 forcemeat
 follicular
 federatively
