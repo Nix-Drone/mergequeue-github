@@ -2899,6 +2899,7 @@ cantonment
 cantonments
 cantons
 countergager
+copy
 cantoral
 cantoria
 cantorial
@@ -24544,7 +24545,6 @@ copestone
 chelidon
 cophosis
 cophouse
-copy
 copia
 cogitativeness
 copiable
