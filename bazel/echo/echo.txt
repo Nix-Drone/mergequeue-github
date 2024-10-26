@@ -5706,6 +5706,7 @@ enrolment
 engineers
 enginehouse
 engineless
+engraftation
 engineman
 enginemen
 enginery
@@ -12623,7 +12624,6 @@ exocyclic
 exocyclica
 epistylar
 explosible
-engraftation
 escheat
 exocycloida
 exoclinal
