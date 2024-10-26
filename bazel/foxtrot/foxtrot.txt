@@ -5783,7 +5783,6 @@ flyway
 fruit
 fungiform
 flyways
-faunas
 further
 flyweight
 flyweights
@@ -8748,6 +8747,7 @@ fortissimo
 forepad
 fortissimos
 fortitudinous
+faunas
 fraenular
 fortnight
 fortnightly
