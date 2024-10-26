@@ -5844,6 +5844,7 @@ flocculable
 fangas
 flocculation
 flocculator
+foeffment
 forts
 fencing
 floccule
@@ -6683,7 +6684,6 @@ fodient
 foe
 foederati
 foederis
-foeffment
 foehn
 foehnlike
 foeish
