@@ -5354,7 +5354,6 @@ begray
 begrain
 begrave
 birne
-begrett
 begrim
 begrimed
 begrimer
@@ -11889,6 +11888,7 @@ bogginess
 bercelet
 boggle
 blastemas
+begrett
 bogglebo
 boggled
 boggler
