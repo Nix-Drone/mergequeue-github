@@ -19899,6 +19899,7 @@ commaes
 ceduous
 command
 commandable
+concealable
 conveyable
 commandant
 commandatory
@@ -21099,7 +21100,6 @@ concavity
 concavities
 concavo
 conceal
-concealable
 culicide
 concealedly
 concealedness
