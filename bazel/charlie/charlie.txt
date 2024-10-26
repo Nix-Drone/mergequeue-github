@@ -10410,7 +10410,6 @@ cytisus
 chiefling
 chiefs
 chieftain
-chieftaincy
 chieftaincies
 chieftainess
 chieftainry
@@ -29265,6 +29264,7 @@ cryptogamic
 cryptogamical
 cryptogamist
 cryptogamous
+chieftaincy
 crumblingness
 cryptogenic
 cryptogenous
