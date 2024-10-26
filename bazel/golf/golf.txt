@@ -9338,7 +9338,6 @@ glamorize
 groove
 gothonic
 grooved
-groovelike
 groover
 gumtree
 grooverhead
@@ -10769,6 +10768,7 @@ gurneys
 guttered
 guttery
 guttering
+groovelike
 gutters
 gerrhosauridae
 guttersnipe
