@@ -5817,7 +5817,6 @@ engraven
 engraver
 engravers
 engraves
-easts
 engysseismology
 endophytous
 engravings
@@ -14102,6 +14101,7 @@ epiglot
 epitheton
 extroversively
 extrovert
+easts
 eucyclic
 exhibitant
 extrovertish
