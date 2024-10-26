@@ -7297,6 +7297,7 @@ deticked
 deticker
 detickers
 deticks
+dragboat
 detin
 detinet
 detinue
@@ -16574,7 +16575,6 @@ drag
 dragade
 dragaded
 dragading
-dragboat
 dragbolt
 dragee
 dragees
