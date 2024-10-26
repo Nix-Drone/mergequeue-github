@@ -9192,7 +9192,6 @@ charvet
 charwoman
 cowards
 charwomen
-chasable
 chase
 chaseable
 chased
@@ -28877,6 +28876,7 @@ crib
 crybaby
 conductility
 crybabies
+chasable
 cribbage
 cribbages
 cribbed
