@@ -11775,6 +11775,7 @@ chondromyces
 chondromyxoma
 chondromyxosarcoma
 chondromucoid
+convalescing
 chondropharyngeal
 chondropharyngeus
 chondrophyte
@@ -23958,7 +23959,6 @@ convalescence
 convalescently
 convalescents
 convalesces
-convalescing
 convallaria
 convallariaceae
 chondrodite
