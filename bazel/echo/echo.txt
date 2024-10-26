@@ -5429,7 +5429,6 @@ endromididae
 endrudge
 eltime
 expendable
-endseal
 endshake
 endsheet
 everglade
@@ -12792,6 +12791,7 @@ erythritol
 exorcizes
 exordia
 epiceratodus
+endseal
 echiuroidea
 exordium
 exordiums
