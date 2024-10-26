@@ -137,7 +137,6 @@ abatable
 amoebid
 abated
 abatement
-abatements
 abater
 abaters
 abatic
@@ -2700,6 +2699,7 @@ acquiet
 acquirability
 acquirable
 antares
+abatements
 acquire
 acquired
 acquirement
