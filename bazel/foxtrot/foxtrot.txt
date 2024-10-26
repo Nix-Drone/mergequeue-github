@@ -4943,7 +4943,6 @@ flammulation
 flammule
 frosteds
 flams
-flanch
 forkwise
 fact
 flanconnade
@@ -8724,6 +8723,7 @@ furbelows
 fortify
 fortifications
 fortifier
+flanch
 florets
 fortifiers
 fortifies
