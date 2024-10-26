@@ -2238,6 +2238,7 @@ graders
 gazzetta
 gcd
 gconv
+gunlaying
 gd
 gdinfo
 gds
@@ -10508,7 +10509,6 @@ grateman
 grommet
 gunks
 gunlayer
-gunlaying
 gunline
 greenlandite
 gunlock
