@@ -7514,7 +7514,6 @@ devaluate
 devaluated
 devaluates
 devaluation
-devaluations
 devalue
 devalued
 devalues
@@ -11495,6 +11494,7 @@ discommoding
 discommodious
 discommodiously
 discommodiousness
+devaluations
 discommodity
 denary
 dervish
