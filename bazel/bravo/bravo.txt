@@ -1430,7 +1430,6 @@ baldrib
 blent
 baldric
 baldrick
-bracketted
 baldricked
 baldrics
 baldricwise
@@ -9268,6 +9267,7 @@ bipaschal
 bypass
 bypassed
 bypasser
+bracketted
 bypassing
 bypath
 bypaths
