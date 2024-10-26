@@ -4969,6 +4969,7 @@ flanked
 flanker
 flankers
 falconries
+flob
 fringilliform
 fireshaft
 flanking
@@ -5826,7 +5827,6 @@ floatsman
 floatsmen
 floatstone
 fearless
-flob
 filterman
 flobby
 forswat
