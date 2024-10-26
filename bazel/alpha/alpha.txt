@@ -3086,7 +3086,6 @@ alalunga
 actinocrinidae
 actinocrinite
 actinocrinus
-actinodielectric
 actuary
 actinodrome
 actinodromous
@@ -13995,6 +13994,7 @@ anta
 antacid
 antacrid
 antadiform
+actinodielectric
 antae
 antaean
 antaeus
