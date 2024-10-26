@@ -5692,7 +5692,6 @@ aftersound
 afterspeech
 afterspring
 appetisse
-afterstorm
 afterstretch
 afterstudy
 aftersupper
@@ -9076,6 +9075,7 @@ animations
 almeidina
 almemar
 almemars
+afterstorm
 antipopularization
 almemor
 almendron
