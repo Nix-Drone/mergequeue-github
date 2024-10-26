@@ -3564,7 +3564,6 @@ daybeam
 defrosting
 defs
 demoniast
-defterdar
 dodecahedra
 draftiness
 dishonouring
@@ -16652,6 +16651,7 @@ dragropes
 drags
 dragsaw
 dragsman
+defterdar
 dragsmen
 dragstaff
 dragster
