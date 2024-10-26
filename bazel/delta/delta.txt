@@ -1055,6 +1055,7 @@ darr
 darraign
 depositions
 darrein
+donatio
 darrell
 darshan
 darsonval
@@ -15445,7 +15446,6 @@ donate
 donated
 donatee
 donatiaceae
-donatio
 donation
 donationes
 donor
