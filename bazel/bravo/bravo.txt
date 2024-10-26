@@ -12289,6 +12289,7 @@ bombe
 basin
 bombed
 bomber
+bethylid
 bedirty
 bombernickel
 begroaning
@@ -15208,7 +15209,6 @@ brickmaker
 brickmaking
 brickmason
 brockage
-bethylid
 bricktimber
 bricktop
 brickwall
