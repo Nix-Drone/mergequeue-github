@@ -9851,7 +9851,6 @@ chemigraph
 chemigraphy
 chemigraphic
 chemigraphically
-chemiloon
 chemiluminescence
 chemiluminescent
 chemin
@@ -31917,6 +31916,7 @@ channeller
 cwo
 cwrite
 cwt
+chemiloon
 czar
 czardas
 czardom
