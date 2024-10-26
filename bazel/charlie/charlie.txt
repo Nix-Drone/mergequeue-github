@@ -14142,7 +14142,6 @@ copal
 cypseline
 colorist
 cypseloid
-cypselomorph
 coutel
 cypselomorphae
 cypselomorphic
@@ -26690,6 +26689,7 @@ counterbond
 crookneck
 counterbore
 counterbored
+cypselomorph
 counterborer
 counterboring
 counterboulle
