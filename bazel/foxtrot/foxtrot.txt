@@ -4400,7 +4400,6 @@ frameworks
 fishlet
 fishlike
 furlough
-fishline
 fishlines
 frondage
 fishling
@@ -5618,6 +5617,7 @@ flimflams
 frontlets
 freethink
 flimsy
+fishline
 farmwife
 flimsier
 freshment
