@@ -1844,7 +1844,6 @@ fibrinogen
 feature
 forthrightly
 featured
-featureful
 featurelessness
 featurely
 featureliness
@@ -10591,6 +10590,7 @@ frowsiness
 fondling
 frowsty
 frowstier
+featureful
 flatuous
 frowstiest
 flutterable
