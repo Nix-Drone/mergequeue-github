@@ -10440,7 +10440,6 @@ blastogenic
 betray
 beleaguer
 blastogranitic
-blastoid
 bodywood
 blastoma
 blastomas
@@ -12869,6 +12868,7 @@ boots
 bootstrapped
 bangalay
 bootstrapping
+blastoid
 boottop
 booze
 boozed
