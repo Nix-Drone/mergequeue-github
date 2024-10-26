@@ -526,6 +526,7 @@ falconoid
 flecker
 folium
 falcons
+feudality
 falcopern
 folkboat
 falcula
@@ -8409,7 +8410,6 @@ formations
 folies
 flingdust
 formats
-feudality
 formature
 flappering
 formazan
