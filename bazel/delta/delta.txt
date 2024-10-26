@@ -2803,6 +2803,7 @@ decrees
 decreet
 dop
 decrement
+doggonedest
 decremental
 decrementing
 decrements
@@ -10224,7 +10225,6 @@ dioceses
 diocesian
 decares
 diocletian
-doggonedest
 diocoel
 disaccustom
 dioctahedral
