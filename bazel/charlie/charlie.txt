@@ -7849,6 +7849,7 @@ cervicodynia
 cervicofacial
 cervicolabial
 cervicolingual
+choledochostomies
 cervicolumbar
 crystal
 cervicomuscular
@@ -11594,7 +11595,6 @@ choledochoplasty
 choledochorrhaphy
 choledochostomy
 cace
-choledochostomies
 choledochotomy
 choledochotomies
 choledography
