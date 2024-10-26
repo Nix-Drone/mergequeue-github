@@ -1208,7 +1208,6 @@ academes
 academy
 academia
 academian
-academic
 academical
 areae
 academically
@@ -9641,6 +9640,7 @@ alveolariform
 alveolarly
 alveolars
 alveolate
+academic
 alveolation
 alveole
 alveolectomy
