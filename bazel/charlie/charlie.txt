@@ -16534,7 +16534,6 @@ cloghaun
 cloghead
 cloglike
 clogmaker
-clogmaking
 clogwheel
 charoset
 clogwyn
@@ -18395,6 +18394,7 @@ carpentership
 coherald
 cohered
 coherence
+clogmaking
 cataractal
 coherent
 coherer
