@@ -504,7 +504,6 @@ falbelo
 fumados
 falcata
 falcate
-falces
 falchion
 forgeman
 falcial
@@ -3015,6 +3014,7 @@ fezzan
 fezzed
 fezzes
 fezzy
+falces
 fezziwig
 ffa
 fgrid
