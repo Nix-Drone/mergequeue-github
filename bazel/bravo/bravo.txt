@@ -11547,7 +11547,6 @@ boardy
 boardinghouse
 boardings
 boardly
-boardlike
 billhead
 boardroom
 boards
@@ -15076,6 +15075,7 @@ bedposts
 brevicipitidae
 bandhor
 balter
+boardlike
 bashlyk
 breviconic
 balneographer
