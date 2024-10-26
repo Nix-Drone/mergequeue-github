@@ -6410,7 +6410,6 @@ goatskin
 goatskins
 goatstone
 goatsucker
-galleylike
 goatweed
 gramma
 goave
@@ -9428,6 +9427,7 @@ grouf
 grough
 groundably
 groundberry
+galleylike
 gesneria
 groundbird
 groundbreaker
