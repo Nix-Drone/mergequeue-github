@@ -5090,6 +5090,7 @@ aerostatics
 amalett
 antisepticist
 aerostation
+alecost
 aerostats
 aerosteam
 aerotactic
@@ -7790,7 +7791,6 @@ armageddon
 alecize
 aleck
 aleconner
-alecost
 alecs
 adjuvate
 alectoria
