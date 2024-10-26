@@ -26726,7 +26726,6 @@ countercondemnation
 counterconditioning
 counterconversion
 countercoupe
-countercourant
 countercraft
 countercry
 countercross
@@ -29283,6 +29282,7 @@ cryptograph
 cryptographal
 cryptography
 cryptographic
+countercourant
 cryptographical
 cryptographist
 cryptoheresy
