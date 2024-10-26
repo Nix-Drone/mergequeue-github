@@ -21049,7 +21049,6 @@ arkoses
 ascothoracica
 ascots
 ascribable
-ascribe
 ascribed
 ascribes
 ascribing
@@ -21711,6 +21710,7 @@ assess
 assessable
 antitartaric
 assessably
+ascribe
 archplagiary
 assessed
 assessee
