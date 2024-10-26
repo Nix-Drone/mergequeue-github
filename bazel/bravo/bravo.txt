@@ -6503,7 +6503,6 @@ bannerette
 benzothiazoline
 benzothiodiazole
 benzothiofuran
-benzothiophene
 benzothiopyran
 benzotoluide
 believableness
@@ -17569,6 +17568,7 @@ burdensome
 bewray
 burdensomely
 beleaped
+benzothiophene
 bottomries
 burlesque
 burdie
