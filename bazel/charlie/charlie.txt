@@ -16464,6 +16464,7 @@ clobbered
 cradleman
 clobbering
 clobbers
+corpsman
 clochard
 cloche
 clochette
@@ -25597,7 +25598,6 @@ corpselikeness
 corpses
 corpsy
 cleverness
-corpsman
 corpulences
 corpulency
 corpulencies
