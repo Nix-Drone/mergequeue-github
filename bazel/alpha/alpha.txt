@@ -12463,6 +12463,7 @@ adaptation
 anelasticity
 anele
 anelectric
+arcanal
 anelectrode
 anelectrotonus
 aneled
@@ -18676,7 +18677,6 @@ arcadic
 arcading
 arcadings
 arcana
-arcanal
 arcane
 arcanist
 aromatization
