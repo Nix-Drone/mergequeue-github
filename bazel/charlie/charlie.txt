@@ -5328,6 +5328,7 @@ casting
 castings
 castle
 castled
+conductional
 castlelike
 castles
 cortaderia
@@ -21742,7 +21743,6 @@ conductimetric
 conducting
 conductio
 conduction
-conductional
 collarets
 couleur
 conductitious
