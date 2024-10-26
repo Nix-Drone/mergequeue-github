@@ -2422,7 +2422,6 @@ decime
 dacrya
 decimeter
 downstair
-dialogs
 degorder
 decimeters
 decimetre
@@ -12989,6 +12988,7 @@ deducible
 dispensableness
 dispensate
 diffracted
+dialogs
 dispensation
 dispensationalism
 dispensative
