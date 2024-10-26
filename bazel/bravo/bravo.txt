@@ -3819,7 +3819,6 @@ battleships
 buhr
 battlesome
 boatfalls
-banderilla
 battlestead
 battlewagon
 battleward
@@ -15331,6 +15330,7 @@ brier
 briered
 briery
 brainwasher
+banderilla
 brierroot
 brierwood
 bonnetless
