@@ -2817,7 +2817,6 @@ bibliolater
 bobberies
 baroness
 baronesses
-baronet
 baronetage
 beswelter
 baronetcy
@@ -4474,6 +4473,7 @@ becked
 beckelite
 becket
 boehmites
+baronet
 beckets
 becky
 beckie
