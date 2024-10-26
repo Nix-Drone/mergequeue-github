@@ -9859,7 +9859,6 @@ dimers
 dimes
 dimetallic
 dimeter
-dimeters
 dimethyl
 dimethylamine
 dimethylamino
@@ -16025,6 +16024,7 @@ doubleton
 divides
 doublette
 doublewidth
+dimeters
 doubly
 dermatosis
 doubloon
