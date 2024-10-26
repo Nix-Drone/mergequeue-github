@@ -2111,7 +2111,6 @@ acetonate
 acetonation
 acetone
 acetonemia
-acetonemic
 acetonic
 acetonyl
 acetonylacetone
@@ -19226,6 +19225,7 @@ antiars
 autolyzes
 arclike
 arco
+acetonemic
 arcocentrous
 arcocentrum
 arcograph
