@@ -6847,7 +6847,6 @@ dichromasy
 desoxyanisoin
 desoxycorticosterone
 desoxyephedrine
-desoxymorphine
 desoxyribonucleic
 desoxyribonucleoprotein
 desoxyribose
@@ -16985,6 +16984,7 @@ dregs
 dreidel
 dreidels
 dislade
+desoxymorphine
 dreidls
 dreyfusism
 dreigh
