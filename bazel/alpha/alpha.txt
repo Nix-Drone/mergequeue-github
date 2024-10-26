@@ -3562,7 +3562,6 @@ addressees
 addresser
 addressers
 addresses
-auxetics
 addressful
 addressing
 acanthocephalan
@@ -13020,6 +13019,7 @@ anharmonic
 alcoholophilia
 anhedonic
 anhedral
+auxetics
 anukabiet
 anhedron
 anhelation
