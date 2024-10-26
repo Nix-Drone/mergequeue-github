@@ -2741,7 +2741,6 @@ barman
 barmaster
 barmbrack
 barmcloth
-brither
 barmecide
 barmen
 barmfel
@@ -12227,6 +12226,7 @@ beaupers
 boltmaker
 boltonia
 boltonias
+brither
 boltonite
 boltrope
 bittern
