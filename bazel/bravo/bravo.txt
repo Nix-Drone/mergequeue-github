@@ -1885,6 +1885,7 @@ bandages
 bandaging
 brakes
 bandagist
+banefully
 bandaid
 bandala
 bandalore
@@ -2029,7 +2030,6 @@ bandworm
 bane
 baneberry
 baned
-banefully
 banefulness
 banes
 banewort
