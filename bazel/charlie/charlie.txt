@@ -2733,7 +2733,6 @@ crypticness
 canoodling
 canopy
 caveated
-canopic
 canopid
 canopied
 canopies
@@ -28185,6 +28184,7 @@ crash
 crashed
 confronting
 crasher
+canopic
 crashers
 crashes
 crashing
