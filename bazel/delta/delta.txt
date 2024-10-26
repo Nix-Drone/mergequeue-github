@@ -7826,6 +7826,7 @@ dewcup
 dewdamp
 dewdrop
 dewdropper
+disassembler
 disklike
 dewdrops
 dewed
@@ -11089,7 +11090,6 @@ disasinize
 disassemble
 dourade
 disassembled
-disassembler
 disassembles
 descriptors
 disassembling
