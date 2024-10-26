@@ -9273,7 +9273,6 @@ autotype
 alpha
 alphabet
 alphabetary
-alphabetarian
 akenbold
 acerose
 alphabetic
@@ -12613,6 +12612,7 @@ aneurysmatic
 aneurisms
 aneurysms
 anezeh
+alphabetarian
 anfeeld
 anfract
 anfractuose
