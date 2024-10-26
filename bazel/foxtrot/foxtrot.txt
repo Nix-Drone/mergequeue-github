@@ -3622,6 +3622,7 @@ frailly
 filesmith
 filesniff
 flagships
+furnish
 filespec
 forficula
 fossores
@@ -11450,7 +11451,6 @@ furnariidae
 furnariides
 fossilify
 furnarius
-furnish
 furnishable
 flannelmouthed
 foregather
