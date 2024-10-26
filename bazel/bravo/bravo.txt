@@ -2671,7 +2671,6 @@ byres
 bedaff
 barytons
 barytophyllite
-barytosulphate
 bridgelike
 barkan
 bizarrely
@@ -5707,6 +5706,7 @@ belgrade
 belgravia
 belgravian
 bely
+barytosulphate
 belial
 belialic
 belibel
