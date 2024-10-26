@@ -11963,7 +11963,6 @@ disenchantments
 daglock
 dissolute
 deities
-disenchantress
 disencharm
 drip
 disenclose
@@ -14720,6 +14719,7 @@ doctrinaire
 doctrinairism
 diplomacies
 doctrinal
+disenchantress
 doctrinalism
 dogdoms
 disownable
