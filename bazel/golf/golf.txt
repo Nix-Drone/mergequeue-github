@@ -1449,7 +1449,6 @@ gasproof
 gervao
 gibier
 garlicwort
-garlion
 garlopa
 garment
 goaded
@@ -10496,6 +10495,7 @@ gunhouse
 gregge
 guniter
 gunj
+garlion
 gunstock
 gunja
 gunjah
