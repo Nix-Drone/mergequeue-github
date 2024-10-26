@@ -11142,7 +11142,6 @@ disoppilate
 disbanding
 disbandment
 disbandments
-disbands
 disbar
 dysbarism
 dehydrant
@@ -17048,6 +17047,7 @@ drevel
 drew
 decohere
 drewite
+disbands
 dry
 dryable
 demibrute
