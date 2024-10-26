@@ -2023,7 +2023,6 @@ bins
 barrad
 bdls
 bandwidth
-bandwidths
 bandwork
 bandworm
 bane
@@ -18113,6 +18112,7 @@ benzhydrol
 butacaine
 boastless
 bishopess
+bandwidths
 butadiyne
 butane
 butanes
