@@ -7846,7 +7846,6 @@ cervicoauricular
 cervicobregmatic
 cervicobuccal
 cervicodynia
-cervicofacial
 cervicolabial
 cervicolingual
 cervicolumbar
@@ -12924,6 +12923,7 @@ czarian
 chanteys
 chuser
 critism
+cervicofacial
 charquis
 chut
 chute
