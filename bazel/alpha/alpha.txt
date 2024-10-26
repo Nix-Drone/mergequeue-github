@@ -11259,7 +11259,6 @@ ampholytic
 abaff
 amphophile
 amphophilic
-amphora
 amphorae
 amphoral
 amphore
@@ -20767,6 +20766,7 @@ artistry
 artistries
 artists
 artize
+amphora
 artless
 artlessly
 artlessness
