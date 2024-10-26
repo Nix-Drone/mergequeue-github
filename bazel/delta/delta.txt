@@ -7109,7 +7109,6 @@ desume
 desuperheater
 desuvre
 det
-detach
 detachable
 detachableness
 detachably
@@ -16943,6 +16942,7 @@ dor
 dreamtime
 drearfully
 directive
+detach
 dreary
 disbelieve
 drearies
