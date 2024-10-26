@@ -2071,7 +2071,6 @@ forestlike
 feinting
 feis
 flatlander
-fogbows
 faultier
 fireflower
 feisty
@@ -9107,6 +9106,7 @@ foveolas
 fullnesses
 fistle
 foveole
+fogbows
 fewer
 foveolet
 foveolets
