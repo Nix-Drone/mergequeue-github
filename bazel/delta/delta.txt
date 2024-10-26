@@ -5114,7 +5114,6 @@ dendritiform
 defension
 dendrium
 dendrobatinae
-dendrobium
 dendrocalamus
 dendroceratina
 dendroceratine
@@ -14624,6 +14623,7 @@ docents
 dockhead
 docentship
 docetae
+dendrobium
 docetism
 docetistic
 docetize
