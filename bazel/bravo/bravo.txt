@@ -678,7 +678,6 @@ bacteriostasis
 bacteriostat
 bacteriostatically
 bacteriotherapeutic
-bacteriotherapy
 balanophorin
 bacteriotoxic
 bechances
@@ -8931,6 +8930,7 @@ backwoodsiness
 biocenology
 bananas
 biocenosis
+bacteriotherapy
 biocentric
 biochemy
 biochemic
