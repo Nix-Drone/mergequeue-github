@@ -4474,7 +4474,6 @@ fissle
 fissura
 fissuration
 fungite
-finesse
 frawn
 fissured
 fissurella
@@ -8638,6 +8637,7 @@ forsooth
 forspeak
 forspend
 farstepped
+finesse
 ferally
 footing
 forspoke
