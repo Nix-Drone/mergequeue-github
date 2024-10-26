@@ -4406,7 +4406,6 @@ frondage
 fishling
 fishman
 fishmeals
-fishmonger
 ferociousness
 fishmouth
 fishnet
@@ -11190,6 +11189,7 @@ funebrious
 fossilology
 fustiest
 funebrous
+fishmonger
 funeral
 funeralize
 frit
