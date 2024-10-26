@@ -4041,7 +4041,6 @@ beaconless
 business
 beacons
 beaded
-bequirtle
 beadeye
 beadeyes
 banderols
@@ -16555,6 +16554,7 @@ beamster
 bubs
 bubukle
 bucayo
+bequirtle
 bucca
 buccal
 beshamed
