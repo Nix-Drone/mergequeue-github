@@ -16209,6 +16209,7 @@ advection
 autolysin
 antiseptize
 antisera
+assails
 antiminsia
 antiserums
 antiserumsera
@@ -21576,7 +21577,6 @@ assailer
 assailers
 assailing
 agrias
-assails
 assays
 assalto
 assam
