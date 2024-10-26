@@ -20336,7 +20336,6 @@ commutability
 commutable
 clothier
 commutableness
-commutant
 commutate
 commutated
 commutation
@@ -30944,6 +30943,7 @@ cameramen
 courtlet
 cumbha
 cumble
+commutant
 cumbraite
 cumbrance
 cumbre
