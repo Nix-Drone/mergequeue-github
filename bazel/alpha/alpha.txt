@@ -5352,7 +5352,6 @@ affixable
 affixal
 affixation
 affixed
-affixer
 affixers
 affixes
 affixial
@@ -11495,6 +11494,7 @@ anachorism
 anachromasis
 aroids
 anachronical
+affixer
 anachronism
 aerospace
 apodes
