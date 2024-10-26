@@ -1355,7 +1355,6 @@ effectress
 effects
 effectual
 effectuality
-effectualness
 effectuated
 effectuates
 effectuating
@@ -6864,6 +6863,7 @@ enstyle
 entoglossal
 epithelilia
 embonpoint
+effectualness
 entoil
 entoiled
 entoiling
