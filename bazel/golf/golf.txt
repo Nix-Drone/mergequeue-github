@@ -5742,7 +5742,6 @@ gradable
 gloeosporium
 gelfomino
 glogg
-gloggs
 gloy
 ganefs
 gloiosiphonia
@@ -8266,6 +8265,7 @@ getters
 grassflat
 grassflower
 geneticism
+gloggs
 grasshook
 golds
 grasshop
