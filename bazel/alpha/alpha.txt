@@ -4905,7 +4905,6 @@ amidase
 aerobiont
 aerobioscope
 aerobiosis
-aerobiotic
 aerobiotically
 aerobious
 aeroboat
@@ -5332,6 +5331,7 @@ affirm
 affirmable
 affirmably
 affirmance
+aerobiotic
 affirmant
 affirmation
 affirmations
