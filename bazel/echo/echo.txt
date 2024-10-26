@@ -450,7 +450,6 @@ erf
 eccyesis
 eccl
 eccles
-entropies
 ecclesia
 ecclesiarchy
 esthetician
@@ -4959,6 +4958,7 @@ endaze
 escrows
 endboard
 endbrains
+entropies
 enddamaged
 enddamaging
 ende
