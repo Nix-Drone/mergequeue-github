@@ -11589,7 +11589,6 @@ boatel
 boatels
 boatheader
 boathook
-boathouse
 boathouses
 boatyard
 boatie
@@ -17982,6 +17981,7 @@ between
 bushlands
 bronchadenitis
 bushless
+boathouse
 bushlet
 blepharohematidrosis
 bushlike
