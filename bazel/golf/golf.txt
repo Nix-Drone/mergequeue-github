@@ -2241,6 +2241,7 @@ gconv
 gd
 gdinfo
 gds
+gourami
 grayfish
 globously
 ge
@@ -7421,7 +7422,6 @@ grand
 goupin
 gour
 grugru
-gourami
 gadhelic
 guib
 gouramis
