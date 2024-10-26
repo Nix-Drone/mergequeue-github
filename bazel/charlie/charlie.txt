@@ -8051,7 +8051,6 @@ chacoli
 chacona
 chaconne
 chaconnes
-chacra
 codirectional
 chacte
 chacun
@@ -20744,6 +20743,7 @@ complimentalness
 complimentarily
 complimentariness
 complimentarity
+chacra
 complimentation
 complimentative
 complimented
