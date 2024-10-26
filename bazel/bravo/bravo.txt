@@ -4226,7 +4226,6 @@ bearskins
 beartongue
 birdwatch
 bearward
-bearwort
 beastbane
 beasthood
 beasties
@@ -5481,6 +5480,7 @@ beholds
 behoney
 behoof
 behoot
+bearwort
 behoove
 behooveful
 behoovefulness
