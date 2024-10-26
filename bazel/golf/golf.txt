@@ -4106,7 +4106,6 @@ gamene
 gild
 gildable
 gildedness
-gilden
 gilder
 grewhound
 gildhall
@@ -7453,6 +7452,7 @@ gourmets
 gournard
 gourounut
 gousty
+gilden
 grungy
 gynandry
 generalness

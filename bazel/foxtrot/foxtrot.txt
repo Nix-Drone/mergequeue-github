@@ -3568,7 +3568,6 @@ filaments
 filamentule
 filander
 filao
-forsterite
 filaree
 fishboats
 filarees
@@ -9353,6 +9352,7 @@ fascinery
 fraist
 formalazine
 fikie
+forsterite
 frontispieced
 flitwite
 fraktur
