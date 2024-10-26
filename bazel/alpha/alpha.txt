@@ -16445,7 +16445,6 @@ antivenins
 antivenomous
 antivermicular
 antivibrating
-antivibrator
 antivibratory
 antivice
 antiviral
@@ -22578,6 +22577,7 @@ atheroscleroses
 atherosclerosis
 anticrepuscule
 atherosclerotic
+antivibrator
 atherosclerotically
 atherosperma
 atherurus
