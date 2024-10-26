@@ -6501,7 +6501,6 @@ beetlers
 benzothiazine
 bannerette
 benzothiazoline
-benzothiodiazole
 benzothiofuran
 benzothiophene
 benzothiopyran
@@ -17074,6 +17073,7 @@ belduque
 bullbats
 beforetime
 bromopnea
+benzothiodiazole
 bullbeggar
 barrelling
 bullberry
