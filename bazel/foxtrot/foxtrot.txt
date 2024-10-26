@@ -2993,6 +2993,7 @@ fillmass
 feverously
 feverroot
 fevertwig
+forepast
 fevertwitch
 feverwort
 few
@@ -7864,7 +7865,6 @@ foredesk
 foreparts
 forepass
 floran
-forepast
 feedstuffs
 foliously
 forepaw
