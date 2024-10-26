@@ -4955,7 +4955,6 @@ aerofoils
 algine
 arisaema
 aerogel
-aerogels
 antilogous
 assigned
 aerogen
@@ -5810,6 +5809,7 @@ agamis
 aftertouch
 agamist
 antiegoistical
+aerogels
 agamogenetic
 agamogenetically
 agamogony
