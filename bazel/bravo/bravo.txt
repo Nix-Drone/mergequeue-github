@@ -550,7 +550,6 @@ backtrack
 backtracked
 backtracker
 backtracking
-backtracks
 backtrail
 backups
 backus
@@ -3111,6 +3110,7 @@ basally
 bursarship
 basalt
 basaltes
+backtracks
 basaltic
 boroughlet
 basaltine
