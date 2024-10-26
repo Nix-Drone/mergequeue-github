@@ -12569,7 +12569,6 @@ chronicler
 chroniclers
 chronicles
 chronicling
-censer
 chronicon
 chronics
 chronique
@@ -22539,6 +22538,7 @@ conn
 connaraceous
 connarus
 connascency
+censer
 connascent
 connatal
 connate
