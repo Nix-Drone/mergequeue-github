@@ -18780,6 +18780,7 @@ archbishopess
 archbishopry
 archbishopric
 archbishoprics
+amount
 archbotcher
 archboutefeu
 archbuffoon
@@ -24826,7 +24827,6 @@ avocations
 avocative
 anoopsias
 avocet
-amount
 avodires
 avogadrite
 avogadro
