@@ -2376,7 +2376,6 @@ acidheads
 acidy
 acidiferous
 argil
-acidify
 acidifiant
 acidific
 acidification
@@ -9304,6 +9303,7 @@ alphameric
 alphamerically
 alphanumerical
 alphanumerics
+acidify
 alphard
 alphas
 archispore
