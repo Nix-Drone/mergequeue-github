@@ -20512,7 +20512,6 @@ arteriopathy
 arterioplania
 arterioplasty
 arteriopressor
-arteriorrhagia
 arteriorrhaphy
 arteriorrhexis
 arteriosclerosis
@@ -24626,6 +24625,7 @@ ammonium
 avenine
 avenolith
 avenous
+arteriorrhagia
 avens
 avenses
 aventayle
