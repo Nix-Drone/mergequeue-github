@@ -5905,7 +5905,6 @@ glossolaryngeal
 glossolysis
 glossology
 glossologist
-gowiddie
 glossopalatine
 glossopalatinus
 glossophaga
@@ -9115,6 +9114,7 @@ golee
 gentisein
 gryphon
 gryphons
+gowiddie
 gryphosaurus
 griphus
 gripier
