@@ -831,7 +831,6 @@ ectype
 ectypography
 ectiris
 episodal
-equations
 ectoblastic
 ectobronchium
 ectocardia
@@ -6400,6 +6399,7 @@ ensient
 ensiferi
 encastered
 ensiform
+equations
 ensign
 embarcation
 ensigncy
