@@ -7580,7 +7580,6 @@ bever
 beverage
 beverages
 beverse
-bevesseled
 brinks
 benjamite
 boneache
@@ -11067,6 +11066,7 @@ bloodcurdling
 bloodcurdlingly
 blooddrop
 blooddrops
+bevesseled
 blooded
 bloodedness
 bloodfin
