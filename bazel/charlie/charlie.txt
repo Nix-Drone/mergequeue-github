@@ -17805,7 +17805,6 @@ codifiers
 codifies
 codifying
 codilla
-counterborder
 codille
 coding
 codings
@@ -31840,6 +31839,7 @@ cutlery
 cutleria
 cutleriaceous
 cutleriales
+counterborder
 cutleries
 combwright
 cutlers
