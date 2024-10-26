@@ -13766,7 +13766,6 @@ bacterium
 bang
 bast
 bowheads
-bowyang
 bowyangs
 bowie
 blamableness
@@ -14789,6 +14788,7 @@ breadroot
 bullety
 breads
 breadstitch
+bowyang
 breadstuff
 burnet
 breadthen
