@@ -7032,7 +7032,6 @@ destriers
 destroy
 destroyable
 destroyed
-dismays
 destroyer
 destroyers
 destroying
@@ -10752,6 +10751,7 @@ dipteros
 dipterus
 diptyca
 diptych
+dismays
 diptychs
 dipware
 disloign
