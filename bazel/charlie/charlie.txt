@@ -11639,7 +11639,6 @@ coxalgic
 cholesteatoma
 cholesteatomatous
 cholestene
-cholesteremia
 cholesteric
 cholesteryl
 cholesterin
@@ -25761,6 +25760,7 @@ communicatee
 corrodier
 copiability
 corrodies
+cholesteremia
 corroding
 corrosibility
 corrosibleness
