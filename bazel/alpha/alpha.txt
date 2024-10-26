@@ -1586,7 +1586,6 @@ acclimatizing
 acclinal
 acclinate
 acclivity
-acclivities
 acclivitous
 acclivous
 accloy
@@ -19087,6 +19086,7 @@ archmagician
 archmagirist
 archmarshal
 archmediocrity
+acclivities
 archmessenger
 archmilitarist
 archmocker
