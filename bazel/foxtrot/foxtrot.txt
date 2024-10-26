@@ -3600,7 +3600,6 @@ faventine
 filching
 filchingly
 file
-fileable
 filecard
 filechar
 filed
@@ -10634,6 +10633,7 @@ foresighted
 foveoles
 fructificative
 fructified
+fileable
 fructifier
 fructifies
 fructifying
