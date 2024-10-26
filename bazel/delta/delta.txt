@@ -7194,7 +7194,6 @@ deterges
 detergible
 deterging
 detering
-deteriorate
 deteriorated
 deteriorates
 deteriorating
@@ -15831,6 +15830,7 @@ dorsointercostal
 dorsolateral
 dequeen
 dorsolum
+deteriorate
 dorsolumbar
 destinations
 dorsomedial
