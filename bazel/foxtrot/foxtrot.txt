@@ -5896,7 +5896,6 @@ flong
 formulaic
 fructiferous
 ferrotungsten
-floodable
 fineable
 fullfil
 floodage
@@ -6159,6 +6158,7 @@ flowcontrol
 flanche
 flowed
 flower
+floodable
 flowerage
 flowerers
 fearbabe
