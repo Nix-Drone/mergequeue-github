@@ -12764,7 +12764,6 @@ angioid
 angiokeratoma
 angiokinesis
 angioleucitis
-angiolymphoma
 angiolipoma
 angiolith
 angiology
@@ -23497,6 +23496,7 @@ aunter
 aunters
 aunthood
 aunty
+angiolymphoma
 auntie
 aunties
 auntish
