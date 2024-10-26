@@ -3435,7 +3435,6 @@ deflex
 deflexed
 deflexibility
 deflexible
-deflexing
 deflexion
 deflexionize
 deflexure
@@ -17389,6 +17388,7 @@ dropheads
 dropkick
 dropkicker
 descriptives
+deflexing
 dropkicks
 droplet
 droplets
