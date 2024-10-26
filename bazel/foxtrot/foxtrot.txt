@@ -6096,7 +6096,6 @@ flotage
 florists
 fiberizer
 flotages
-favorability
 foregoes
 flote
 fustin
@@ -9424,6 +9423,7 @@ francophil
 funebre
 frogmouths
 filmset
+favorability
 fanneling
 francophone
 franger
