@@ -5451,7 +5451,6 @@ glycolaldehyde
 goback
 gayals
 glycolate
-glycolyl
 glycolipid
 gilsonite
 glycolipine
@@ -8102,6 +8101,7 @@ granulocytic
 geom
 granulocytopoiesis
 granuloma
+glycolyl
 gnathometer
 gambogic
 gambroon
