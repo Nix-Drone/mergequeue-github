@@ -5536,6 +5536,7 @@ flybelt
 flybelts
 flyby
 flybys
+footnoted
 fluctisonous
 flyblowing
 flyblows
@@ -7217,7 +7218,6 @@ flathe
 footmark
 footmen
 footnote
-footnoted
 footpace
 footpaces
 forefather
