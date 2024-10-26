@@ -1104,6 +1104,7 @@ calcrete
 calcsinter
 calcspar
 calcspars
+confused
 calctufas
 calctuff
 calculability
@@ -22139,7 +22140,6 @@ confucians
 confucius
 confusability
 confusably
-confused
 confusedly
 confusedness
 confuser
