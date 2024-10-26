@@ -15988,6 +15988,7 @@ dottling
 dottrel
 dottrels
 douane
+duties
 douanes
 douanier
 doub
@@ -18617,7 +18618,6 @@ duty
 dutiability
 dutiable
 dutied
-duties
 dutiful
 dutifully
 ditties
