@@ -2640,7 +2640,6 @@ decolourizing
 decreers
 decolours
 decommission
-decommissioned
 dumbbeller
 decommissioning
 decommissions
@@ -10752,6 +10751,7 @@ dipteros
 dipterus
 diptyca
 diptych
+decommissioned
 diptychs
 dipware
 disloign
