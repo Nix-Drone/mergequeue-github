@@ -1716,7 +1716,6 @@ depaysee
 deathtime
 deathtrap
 deathtraps
-deathward
 deathwatches
 deathweed
 deathworm
@@ -4064,6 +4063,7 @@ delft
 delfts
 delftware
 deli
+deathward
 decryptograph
 disestablismentarianism
 dely
