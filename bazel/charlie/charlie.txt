@@ -18522,7 +18522,6 @@ coincline
 coincorporate
 coindicant
 coindication
-coindwelling
 coiner
 coiners
 crossrow
@@ -27295,6 +27294,7 @@ coursers
 courses
 coursy
 coursing
+coindwelling
 coursings
 court
 courtage
