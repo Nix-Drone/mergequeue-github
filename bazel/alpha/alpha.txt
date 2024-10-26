@@ -1830,7 +1830,6 @@ accusation
 accusations
 accusative
 accusatively
-accusativeness
 accusatives
 accusator
 associates
@@ -3030,6 +3029,7 @@ actability
 actable
 actaea
 actaeaceae
+accusativeness
 actaeon
 actaeonidae
 actg
