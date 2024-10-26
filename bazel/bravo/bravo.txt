@@ -3812,7 +3812,6 @@ battlements
 battlepiece
 battleplane
 barnstorms
-battler
 battles
 battleship
 battleships
@@ -6063,6 +6062,7 @@ bialy
 bemistress
 bemitered
 bemitred
+battler
 bemix
 bellow
 bemoaned
