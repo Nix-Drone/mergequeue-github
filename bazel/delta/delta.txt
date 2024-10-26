@@ -3155,6 +3155,7 @@ dragginess
 defamer
 defamers
 defames
+disassemble
 demihuman
 defamy
 defaming
@@ -11086,7 +11087,6 @@ disarticulation
 disarticulator
 deputized
 disasinize
-disassemble
 dourade
 disassembled
 disassembler
