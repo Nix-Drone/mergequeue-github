@@ -8545,6 +8545,7 @@ champak
 cryology
 champaka
 champaks
+convexes
 champart
 champe
 champed
@@ -24140,7 +24141,6 @@ conveth
 convex
 convexedly
 convexedness
-convexes
 convexity
 convexities
 convexly
