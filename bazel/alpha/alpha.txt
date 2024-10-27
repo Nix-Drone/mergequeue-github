@@ -12765,7 +12765,6 @@ angiokeratoma
 angiokinesis
 angioleucitis
 angiolymphoma
-angiolipoma
 angiolith
 angiology
 angioma
@@ -19732,6 +19731,7 @@ arilloid
 arillus
 arils
 aryls
+angiolipoma
 arimasp
 arimaspian
 arimathaean
