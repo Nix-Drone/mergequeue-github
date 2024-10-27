@@ -1253,7 +1253,6 @@ gantries
 gantsl
 globing
 ganza
-groundless
 ganzie
 guffin
 gaol
@@ -4591,6 +4590,7 @@ gipseian
 gipser
 gipsy
 gypsy
+groundless
 gipsydom
 gypsydoms
 gigsman
