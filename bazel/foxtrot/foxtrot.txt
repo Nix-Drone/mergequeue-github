@@ -2295,7 +2295,6 @@ firepans
 femme
 femora
 femoral
-flic
 femoropopliteal
 faceman
 femororotulian
@@ -6455,6 +6454,7 @@ fluoroform
 flaminian
 fluoroformol
 fluorogen
+flic
 fluorometer
 fluorometry
 fluoroscopes
