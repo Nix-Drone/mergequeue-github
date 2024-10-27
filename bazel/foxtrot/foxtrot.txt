@@ -7705,7 +7705,6 @@ faq
 fleshlily
 foretopsail
 foregut
-forehalf
 forehall
 fulfillers
 forehammer
@@ -11130,6 +11129,7 @@ fistiana
 formatively
 firemaster
 functionalize
+forehalf
 functionalized
 functionary
 functionated
