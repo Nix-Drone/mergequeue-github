@@ -8940,6 +8940,7 @@ biochemistry
 bifanged
 biochemistries
 biochemists
+boxtop
 bandoras
 baisakh
 biochore
@@ -13880,7 +13881,6 @@ boxthorn
 borghese
 boxthorns
 boxty
-boxtop
 brager
 boxtops
 boxwood
