@@ -2644,6 +2644,7 @@ ferrotyping
 feist
 ferrotitanium
 flamfew
+flayed
 ferrovanadium
 frolics
 ferrozirconium
@@ -4823,7 +4824,6 @@ falconers
 flagworm
 flay
 feridji
-flayed
 fault
 front
 flayer
