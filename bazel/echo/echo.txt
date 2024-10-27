@@ -675,7 +675,6 @@ exprobration
 enshrouding
 exungulate
 eclipsation
-eclipse
 eclipsed
 eclipses
 elumbated
@@ -4046,6 +4045,7 @@ empaper
 emparchment
 emparl
 empasma
+eclipse
 everbloomer
 empassion
 embarrassingly
