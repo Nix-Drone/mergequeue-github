@@ -4207,7 +4207,6 @@ adneural
 adnex
 adnexal
 acalephan
-adnexed
 adnexitis
 adnexopexy
 adnominal
@@ -21825,6 +21824,7 @@ assistantship
 assisted
 assister
 assisters
+adnexed
 assistful
 assisting
 andaman
