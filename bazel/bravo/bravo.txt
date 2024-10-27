@@ -11472,7 +11472,6 @@ barbs
 blur
 blurb
 blurbist
-bonded
 basimesostasis
 blurbs
 bargained
@@ -15333,6 +15332,7 @@ briery
 brainwasher
 brierroot
 brierwood
+bonded
 bonnetless
 brieve
 brigade
