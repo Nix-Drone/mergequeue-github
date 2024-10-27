@@ -6456,7 +6456,6 @@ agrionidae
 agriot
 arborescent
 agriotype
-agriotypidae
 agriotypus
 agrypnia
 agrypniai
@@ -6908,6 +6907,7 @@ airline
 airliner
 airliners
 airlines
+agriotypidae
 airling
 airlock
 airlocks
