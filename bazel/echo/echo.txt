@@ -3382,7 +3382,6 @@ earshell
 epionynychia
 embars
 embase
-embassadress
 embassy
 embassiate
 embassies
@@ -5391,6 +5390,7 @@ equivocally
 endothermic
 endothermous
 endothia
+embassadress
 endothoracic
 evangelium
 endyma
