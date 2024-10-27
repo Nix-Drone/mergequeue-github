@@ -6875,6 +6875,7 @@ airflow
 airflows
 airfoil
 airfoils
+aluco
 airframe
 airglow
 airglows
@@ -9541,7 +9542,6 @@ altun
 alture
 altus
 algivorous
-aluco
 aluconinae
 aludels
 ambier
