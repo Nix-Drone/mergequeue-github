@@ -4106,7 +4106,6 @@ gamene
 gild
 gildable
 gildedness
-gilden
 gilder
 grewhound
 gildhall
@@ -7442,6 +7441,7 @@ gourmanderie
 gourmandism
 gourmandize
 gourmandizer
+gilden
 gomerals
 geosynclines
 giornatate
