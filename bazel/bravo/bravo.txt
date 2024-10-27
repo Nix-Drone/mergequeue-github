@@ -9602,7 +9602,6 @@ bisection
 bisectional
 bisections
 bisector
-bisectors
 bisectrices
 busybodyness
 bisects
@@ -10665,6 +10664,7 @@ blenching
 blencorn
 backflap
 blendcorn
+bisectors
 bestill
 broomstaff
 blende
