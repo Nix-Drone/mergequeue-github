@@ -10464,7 +10464,6 @@ ethnol
 ethnolinguistic
 ethnologer
 erysibe
-ethnology
 ethnologic
 ethnological
 ethnologically
@@ -12316,6 +12315,7 @@ exegeses
 exegesis
 exegesist
 exegete
+ethnology
 exegetic
 exegetics
 exegetist
