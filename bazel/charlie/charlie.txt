@@ -7215,7 +7215,6 @@ centroclinal
 centrode
 centrodesmose
 centrodesmus
-centrodorsal
 centroid
 centroidal
 centroids
@@ -22376,6 +22375,7 @@ conicity
 conicle
 conicopoly
 clefs
+centrodorsal
 conidae
 conidial
 conidian
