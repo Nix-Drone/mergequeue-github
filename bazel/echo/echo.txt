@@ -4780,7 +4780,6 @@ enclitics
 encloak
 eclipsis
 encloister
-enclose
 etymologize
 exegetically
 experimentalists
@@ -6737,6 +6736,7 @@ ency
 enterprised
 exploitations
 enterprising
+enclose
 enterprisingness
 enterprize
 enters
