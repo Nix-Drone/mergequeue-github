@@ -1566,7 +1566,6 @@ bouton
 butomus
 ballaster
 ballastic
-ballasting
 ballat
 ballata
 ballate
@@ -6246,6 +6245,7 @@ blockwood
 beneighbored
 beneme
 benempt
+ballasting
 blanker
 bitters
 barbless
