@@ -25015,7 +25015,6 @@ carts
 cordwood
 choleraic
 concocting
-cordwoods
 core
 coreceiver
 corecipient
@@ -27672,6 +27671,7 @@ cowwheat
 cox
 coxa
 cupronickel
+cordwoods
 condition
 coxae
 coxal
