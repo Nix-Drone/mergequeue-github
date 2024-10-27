@@ -6904,6 +6904,7 @@ cementoblast
 cementoma
 cements
 cementum
+capelets
 cementwork
 cemetary
 cemetaries
@@ -18359,7 +18360,6 @@ cogway
 cogways
 cogweel
 cogweels
-capelets
 cogwheels
 cogwood
 cohabitancy
