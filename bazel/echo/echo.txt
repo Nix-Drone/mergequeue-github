@@ -4477,7 +4477,6 @@ encalendar
 encamping
 encampment
 encampments
-encamps
 endoparasite
 essene
 encanker
@@ -7683,6 +7682,7 @@ engraulidae
 effectless
 ephapse
 epicondylic
+encamps
 equichangeable
 enemied
 enviousness
