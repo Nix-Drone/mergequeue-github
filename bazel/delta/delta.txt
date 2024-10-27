@@ -1539,7 +1539,6 @@ deadpanning
 descrial
 dibstones
 deadpans
-deadrise
 deadtongue
 deadweight
 ditto
@@ -3916,6 +3915,7 @@ dejection
 dejections
 dejectly
 dejectory
+deadrise
 desmonosology
 dejects
 dejecture
