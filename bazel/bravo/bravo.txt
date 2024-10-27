@@ -2741,7 +2741,6 @@ barman
 barmaster
 barmbrack
 barmcloth
-brither
 barmecide
 barmen
 barmfel
@@ -5175,6 +5174,7 @@ baffled
 befouled
 befouler
 befoulers
+brither
 brunizem
 befouling
 befoulment
