@@ -503,7 +503,6 @@ gnapweed
 galeopsis
 glossoncus
 galeorchis
-goner
 geelhout
 galeorhinidae
 galeorhinus
@@ -2544,6 +2543,7 @@ geminid
 geminiflorous
 geminiform
 grafting
+goner
 geminis
 geminorum
 gasterosteus
