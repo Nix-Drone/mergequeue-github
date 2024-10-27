@@ -2113,7 +2113,6 @@ bankmen
 banknote
 barrelet
 badaud
-banknotes
 bankrider
 brachycome
 bedlamising
@@ -10730,6 +10729,7 @@ blephariglottis
 blepharism
 blepharitic
 blepharoadenitis
+banknotes
 blepharoadenoma
 belles
 blepharoatheroma
