@@ -3691,7 +3691,6 @@ embryoniferous
 embryons
 embryopathology
 embryophagous
-embryophyta
 embryophyte
 embryophore
 embryoplastic
@@ -11237,6 +11236,7 @@ eutrophies
 eutropous
 euxanthate
 euxanthin
+embryophyta
 euxanthone
 euxenite
 extensionally
