@@ -4774,7 +4774,6 @@ bedmakers
 borak
 bulldozer
 bookdom
-bedman
 bedmate
 bednighted
 bednights
@@ -8645,6 +8644,7 @@ beckon
 billboards
 billbroking
 billbug
+bedman
 biller
 baldfaced
 billers
