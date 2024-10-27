@@ -1188,7 +1188,6 @@ calendered
 curvilinearly
 calendering
 calenders
-calendric
 calendrical
 calendula
 calendulas
@@ -9701,6 +9700,7 @@ chef
 chefdom
 chefdoms
 chefrinia
+calendric
 chefs
 chego
 columbeia
