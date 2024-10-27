@@ -22473,7 +22473,6 @@ conjugatae
 conjugate
 conjugated
 conjugately
-conjugateness
 conjugates
 conduplicated
 conjugational
@@ -24181,6 +24180,7 @@ convincible
 convincing
 convincingness
 convite
+conjugateness
 convito
 convival
 communalising
