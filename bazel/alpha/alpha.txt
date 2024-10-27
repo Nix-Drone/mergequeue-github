@@ -4833,6 +4833,7 @@ aeq
 aequi
 aequian
 arariba
+apolusis
 aequiculi
 aequipalpia
 aequor
@@ -17305,7 +17306,6 @@ apolousis
 apolune
 apolunes
 arizonite
-apolusis
 amoebiasis
 arcs
 apomecometer
