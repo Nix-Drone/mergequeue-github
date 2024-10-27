@@ -5444,7 +5444,6 @@ glycogenize
 glycogenolytic
 glycogenosis
 gingals
-glycogens
 glycohaemia
 glycol
 glycolaldehyde
@@ -10379,6 +10378,7 @@ grillwork
 gulpers
 growing
 geepound
+glycogens
 gulph
 gulpy
 gulping
