@@ -2230,7 +2230,6 @@ feltyfare
 feltyflier
 felting
 feltings
-feltmaking
 feltman
 foulard
 foredeep
@@ -10486,6 +10485,7 @@ frontstall
 featurish
 fronture
 frontwards
+feltmaking
 frontwise
 fairbanks
 froom
