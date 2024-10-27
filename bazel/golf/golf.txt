@@ -2371,7 +2371,6 @@ geyserish
 guatemalans
 gumbotil
 gravery
-geyserite
 geysers
 goads
 geisha
@@ -3241,6 +3240,7 @@ gnawable
 geoscopic
 geoselenic
 geosid
+geyserite
 geosynclinal
 geosphere
 geostationary
