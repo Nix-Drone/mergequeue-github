@@ -4948,7 +4948,6 @@ aeroducts
 aeroelastic
 aeroelasticity
 antalkalis
-aeroelastics
 aporphin
 aerofoil
 aerofoils
@@ -13500,6 +13499,7 @@ anthropomorpha
 agrammatical
 annelidian
 annelidous
+aeroelastics
 annelids
 annelism
 annellata
