@@ -9580,6 +9580,7 @@ checksumming
 checkup
 checkups
 checkweigher
+comparisons
 checkweighman
 checkweighmen
 checkwork
@@ -20461,7 +20462,6 @@ compared
 comparer
 comparers
 comparing
-comparisons
 comparition
 comparograph
 comparsa
