@@ -7283,6 +7283,7 @@ ceorls
 cep
 cepa
 cepaceous
+countable
 cepe
 citriculture
 cepes
@@ -26610,7 +26611,6 @@ counselor
 counsels
 count
 countability
-countable
 countableness
 countdom
 countdown
