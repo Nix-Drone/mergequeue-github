@@ -4904,7 +4904,6 @@ forehood
 flameout
 flameouts
 flameproof
-formulize
 flameproofer
 flintlocks
 finfishes
@@ -11094,6 +11093,7 @@ fungated
 fascias
 fumulus
 fun
+formulize
 filles
 fad
 fulminations
