@@ -6713,7 +6713,6 @@ enterospasm
 enterostasis
 ebracteolate
 enterostomies
-enterotome
 extemporaneity
 enterotomy
 enterotoxemia
@@ -13507,6 +13506,7 @@ ext
 embroiders
 extance
 extancy
+enterotome
 extbook
 extemporal
 extemporally
