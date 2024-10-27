@@ -4502,7 +4502,6 @@ adumbration
 adumbrations
 allemande
 adumbrative
-adumbral
 adumbrellar
 adunation
 adunc
@@ -22713,6 +22712,7 @@ atmolysis
 atmolyze
 atmology
 atmologic
+adumbral
 anisotropous
 atmological
 antapoplectic
