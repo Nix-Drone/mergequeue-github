@@ -1804,6 +1804,7 @@ balustrades
 balustrading
 balwarra
 balza
+boggler
 balzarine
 bam
 brittled
@@ -11891,7 +11892,6 @@ boggle
 blastemas
 bogglebo
 boggled
-boggler
 bogglers
 boggles
 boggling
