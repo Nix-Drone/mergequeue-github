@@ -3610,7 +3610,6 @@ firelight
 filemaker
 fluidize
 filemark
-filemot
 foreknee
 filename
 filenames
@@ -4048,6 +4047,7 @@ finitary
 finite
 finiteness
 fungology
+filemot
 finites
 finitesimal
 finitism
