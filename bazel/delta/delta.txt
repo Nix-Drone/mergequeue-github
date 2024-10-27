@@ -3352,6 +3352,7 @@ defiles
 defiliation
 defiling
 defilingly
+deterministically
 different
 definable
 definably
@@ -7257,7 +7258,6 @@ determinist
 deterministic
 demodicidae
 descend
-deterministically
 duecentos
 determinists
 deterrability
