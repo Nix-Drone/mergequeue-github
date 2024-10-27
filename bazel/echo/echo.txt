@@ -1,4 +1,5 @@
 emotes
+errs
 e
 epigramme
 eschoppe
@@ -9367,7 +9368,6 @@ errorist
 extratheistic
 errorless
 errors
-errs
 errsyn
 ensuing
 ers
