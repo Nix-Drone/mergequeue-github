@@ -595,7 +595,6 @@ galleypot
 galleys
 gamodemes
 galleyworm
-geneat
 galleon
 galleons
 galler
@@ -1809,6 +1808,7 @@ gastrograph
 griffon
 gastrohelcosis
 gastrohepatitis
+geneat
 gastrohyperneuria
 gordioidea
 gastrohypertonic
