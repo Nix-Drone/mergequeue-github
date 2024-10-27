@@ -610,7 +610,6 @@ babungera
 bacquet
 bact
 bacteraemia
-bacteremia
 bacteremic
 bacteria
 bacteriaceae
@@ -10059,6 +10058,7 @@ blackballs
 bridehood
 byss
 blackband
+bacteremia
 bilges
 bullyrags
 blackbeard
