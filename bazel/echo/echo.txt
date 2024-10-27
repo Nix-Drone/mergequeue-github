@@ -3830,7 +3830,6 @@ edged
 emeras
 emerged
 emergence
-emergences
 emergencies
 emergentness
 emergents
@@ -6646,6 +6645,7 @@ eristics
 excluding
 enteroclisis
 enteroclysis
+emergences
 enterococcal
 enterococcus
 enterocoel
