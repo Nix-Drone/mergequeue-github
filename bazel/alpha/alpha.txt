@@ -4721,7 +4721,6 @@ aecioteliospore
 aecium
 aedeagal
 aedeagi
-aedeagus
 aedegi
 aedicula
 aediculae
@@ -22478,6 +22477,7 @@ ateloglossia
 atelognathia
 atelomitic
 atelophobia
+aedeagus
 atelopodia
 ateloprosopia
 atelorachidia
