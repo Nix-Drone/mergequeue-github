@@ -5731,7 +5731,6 @@ category
 categorial
 categoric
 chondrified
-categorical
 categorically
 categoricalness
 categories
@@ -8391,6 +8390,7 @@ chalkworker
 challah
 challahs
 challas
+categorical
 challengable
 challenge
 challengeable
