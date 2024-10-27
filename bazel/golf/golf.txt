@@ -2650,7 +2650,6 @@ gendarmes
 gender
 genderer
 genders
-ghoulie
 geneal
 genealogic
 genealogical
@@ -6926,6 +6925,7 @@ gonophs
 geohydrologic
 gonopodial
 gimmaled
+ghoulie
 gabarit
 gonopodium
 grecque
