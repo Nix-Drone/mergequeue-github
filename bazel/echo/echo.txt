@@ -3942,7 +3942,6 @@ ekoi
 eudialyte
 epitheliliums
 emissive
-emissivity
 earthquaked
 emissory
 emitted
@@ -10297,6 +10296,7 @@ ethicalism
 emmarbled
 electrotelegraphic
 ethicality
+emissivity
 ethicalness
 ethicals
 ethician
