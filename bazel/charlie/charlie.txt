@@ -9541,7 +9541,6 @@ checkle
 checkless
 checklist
 checklists
-checkman
 congruencies
 clipeus
 checkmark
@@ -22426,6 +22425,7 @@ coniroster
 conirostral
 conirostres
 conisance
+checkman
 conite
 conium
 coniums
