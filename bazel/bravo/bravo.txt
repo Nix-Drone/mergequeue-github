@@ -4505,7 +4505,6 @@ beclasping
 beclasps
 bickers
 beclaw
-beclip
 besieged
 becloak
 belchers
@@ -4863,6 +4862,7 @@ bedstring
 bedswerver
 bedtick
 bedticks
+beclip
 bices
 bate
 bedtime
