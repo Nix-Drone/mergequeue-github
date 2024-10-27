@@ -2491,7 +2491,6 @@ brobdingnagian
 barding
 bardings
 blindages
-bardism
 bardlet
 boothian
 bardlike
@@ -11545,6 +11544,7 @@ boarder
 boarders
 boardy
 boardinghouse
+bardism
 boardings
 boardly
 boardlike
