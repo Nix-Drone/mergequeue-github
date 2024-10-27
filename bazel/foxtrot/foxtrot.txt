@@ -3059,7 +3059,6 @@ fibbery
 fibbers
 fibbing
 fiber
-fiberboard
 fibered
 fiberglas
 fendillate
@@ -3601,6 +3600,7 @@ filching
 filchingly
 file
 fileable
+fiberboard
 filecard
 filechar
 filed
