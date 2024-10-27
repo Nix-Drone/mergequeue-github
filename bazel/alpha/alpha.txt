@@ -1666,7 +1666,6 @@ accorded
 accorder
 accorders
 accordingly
-accordion
 accordionist
 accordionists
 accordions
@@ -12295,6 +12294,7 @@ anderun
 andesic
 andesine
 andesites
+accordion
 andesytes
 andesitic
 andevo
