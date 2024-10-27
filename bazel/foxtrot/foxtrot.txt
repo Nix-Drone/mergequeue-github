@@ -2209,7 +2209,6 @@ felons
 felonsetter
 fluorescence
 felonweed
-felonwort
 fractionizing
 flancard
 fels
@@ -6935,6 +6934,7 @@ foreyear
 folksay
 folksey
 folksy
+felonwort
 folksiest
 folksily
 folksiness
