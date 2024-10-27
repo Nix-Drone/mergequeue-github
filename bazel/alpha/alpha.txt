@@ -3550,7 +3550,6 @@ addlins
 addn
 addnl
 addoom
-abracadabra
 addossed
 addr
 address
@@ -7139,6 +7138,7 @@ akhund
 akhundzada
 akia
 akiyenik
+abracadabra
 akim
 akimbo
 akin
