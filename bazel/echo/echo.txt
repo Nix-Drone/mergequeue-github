@@ -5178,7 +5178,6 @@ exorate
 endogenicity
 endogenies
 exundation
-endogenous
 essive
 exercised
 electrocataphoresis
@@ -5831,6 +5830,7 @@ engrieve
 engross
 engrossed
 engrossedly
+endogenous
 engrosser
 engrossers
 epistolization
