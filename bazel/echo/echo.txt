@@ -4303,7 +4303,6 @@ emuls
 emulsibility
 evacuating
 emulsible
-emulsify
 emulsifications
 efoveolate
 entablatured
@@ -9628,6 +9627,7 @@ ensaffron
 esculent
 esculetin
 esculic
+emulsify
 esculin
 escurialize
 escutcheoned
