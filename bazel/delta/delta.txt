@@ -3146,7 +3146,6 @@ discharge
 defalcation
 defalcations
 defalk
-defamation
 defamations
 defamatory
 defame
@@ -14726,6 +14725,7 @@ disownable
 doctrinalist
 doctrinality
 doctrinally
+defamation
 doctrinary
 doctrinarian
 depender
