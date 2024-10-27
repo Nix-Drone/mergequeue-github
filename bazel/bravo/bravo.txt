@@ -3010,7 +3010,6 @@ barricados
 barrico
 barricoes
 barrier
-barriers
 barriguda
 barrigudos
 broadaxe
@@ -17729,6 +17728,7 @@ buttery
 burlaps
 buicks
 burleycue
+barriers
 becker
 booziest
 burler
