@@ -1967,7 +1967,6 @@ gatewise
 gatewoman
 gatherable
 gathered
-gilgai
 gatherers
 graplins
 gyrostabilizer
@@ -2018,6 +2017,7 @@ goodhap
 gauffer
 garrison
 gauffered
+gilgai
 gaufferer
 glacier
 gauffers
