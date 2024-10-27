@@ -764,6 +764,7 @@ barrels
 boraciferous
 badgemen
 badger
+bde
 badgerbrush
 badgered
 badgerer
@@ -3984,7 +3985,6 @@ bcd
 bch
 bchs
 bd
-bde
 bdellatomy
 brotan
 bdellium
