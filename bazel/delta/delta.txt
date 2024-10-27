@@ -14108,6 +14108,7 @@ disweapon
 diswench
 diswere
 diswit
+drawfile
 diswont
 diswood
 disworth
@@ -16825,7 +16826,6 @@ drawer
 drawerful
 declamation
 drawers
-drawfile
 disallowances
 dissuited
 drawfiling
