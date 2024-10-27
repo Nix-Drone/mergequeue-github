@@ -9879,7 +9879,6 @@ chemistry
 crooking
 chemistries
 chemists
-chemitype
 chemitypy
 chemitypies
 chemizo
@@ -26060,6 +26059,7 @@ cosmically
 cosmism
 cosmisms
 cosmist
+chemitype
 cosmists
 cosmo
 clocked
