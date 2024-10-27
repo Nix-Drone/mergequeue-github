@@ -1760,6 +1760,7 @@ accruement
 accruer
 accrues
 accruing
+arteriolar
 accts
 aventail
 accubation
@@ -20498,7 +20499,6 @@ arteriodialysis
 arteriogenesis
 arteriograph
 averin
-arteriolar
 aglaozonia
 arteriolith
 arterioloscleroses
