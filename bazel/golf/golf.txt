@@ -5378,7 +5378,6 @@ glew
 guitarfish
 gliadine
 geomedicine
-gliadines
 gliadins
 glaucophane
 glib
@@ -10051,6 +10050,7 @@ gueridon
 gueridons
 guerilla
 gymnanthous
+gliadines
 guerillaism
 guerillas
 gratulant
