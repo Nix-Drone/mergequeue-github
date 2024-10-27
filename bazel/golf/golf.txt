@@ -3942,7 +3942,6 @@ gids
 gieaway
 glazework
 gutnic
-gieaways
 gied
 gieing
 gaun
@@ -8926,6 +8925,7 @@ gunrunner
 gabion
 gridiron
 gridirons
+gieaways
 graphologies
 gibbier
 galeas
