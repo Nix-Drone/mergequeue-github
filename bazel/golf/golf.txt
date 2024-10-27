@@ -6985,7 +6985,6 @@ goodless
 gulsach
 goodly
 goodlier
-goodliest
 gingerly
 goodlihead
 goodliness
@@ -10198,6 +10197,7 @@ guile
 guileful
 gyroscopic
 guilefulness
+goodliest
 guilelessness
 guiler
 glochis
