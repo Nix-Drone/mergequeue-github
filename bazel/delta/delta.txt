@@ -288,7 +288,6 @@ dagos
 dagswain
 daguerrean
 daguerreotype
-daguerreotyped
 daguerreotyper
 daguerreotypic
 daguerreotyping
@@ -5849,6 +5848,7 @@ deposing
 deposit
 diamondwork
 depositary
+daguerreotyped
 distome
 depositaries
 deposited
