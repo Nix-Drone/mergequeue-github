@@ -2914,7 +2914,6 @@ elflike
 elflock
 easterlies
 elflocks
-elfship
 elfwife
 elfwort
 elhi
@@ -4163,6 +4162,7 @@ emplane
 emplaned
 emplanement
 emplanes
+elfship
 emplaning
 emplaster
 emplastic
