@@ -2313,7 +2313,6 @@ fenced
 fenceless
 fencelessness
 fayalite
-fencelet
 fenceplay
 fencepost
 fenceress
@@ -8852,6 +8851,7 @@ fossate
 fauna
 fillet
 fosse
+fencelet
 fosses
 fibromyomatous
 fossette
