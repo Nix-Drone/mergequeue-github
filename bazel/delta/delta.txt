@@ -1179,6 +1179,7 @@ datacell
 datafile
 dataflow
 datagram
+daze
 datagrams
 deescalating
 datakit
@@ -1413,7 +1414,6 @@ dawts
 dawut
 daza
 damages
-daze
 dazed
 dazedly
 dazedness
