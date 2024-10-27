@@ -7278,7 +7278,6 @@ groutier
 genet
 gospelist
 grossing
-gospelize
 gospeller
 gospelly
 gospellike
@@ -9447,6 +9446,7 @@ groundline
 groundliness
 groundlings
 groundmass
+gospelize
 groundneedle
 groundnut
 gentleship
