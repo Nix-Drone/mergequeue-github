@@ -5582,6 +5582,7 @@ beknave
 beknight
 belfather
 blossoming
+bigroot
 beknighted
 beknighting
 beknived
@@ -8433,7 +8434,6 @@ bigotedness
 besotted
 bigots
 bigotty
-bigroot
 bigthatch
 biguanide
 biguttulate
