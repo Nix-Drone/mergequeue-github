@@ -11590,7 +11590,6 @@ clomb
 choledocholithiasis
 choledocholithotomy
 choledocholithotripsy
-choledochoplasty
 choledochorrhaphy
 choledochostomy
 cace
@@ -20997,6 +20996,7 @@ counterdash
 computational
 computationally
 computations
+choledochoplasty
 computative
 computatively
 computativeness
