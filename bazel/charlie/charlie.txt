@@ -14893,7 +14893,6 @@ coalheugh
 celiolymph
 crioboly
 cytococci
-cytococcus
 cytode
 cytoderm
 cytodiagnosis
@@ -30377,6 +30376,7 @@ ct
 cte
 ctelette
 ctene
+cytococcus
 ctenidia
 ctenidium
 cteniform
