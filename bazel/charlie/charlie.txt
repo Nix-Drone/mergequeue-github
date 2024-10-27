@@ -29161,7 +29161,6 @@ cryostat
 cryostats
 chloroiodide
 cryosurgeon
-cryosurgery
 cryosurgical
 cryotherapy
 crenelating
@@ -31340,6 +31339,7 @@ counterbrace
 curiatii
 chaetopodous
 cicatrixes
+cryosurgery
 curiboca
 curie
 curies
