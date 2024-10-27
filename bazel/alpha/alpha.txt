@@ -1660,7 +1660,6 @@ accordances
 accordancy
 accordatura
 amphiphloic
-accordaturas
 accordature
 accorded
 accorder
@@ -8847,6 +8846,7 @@ allolalic
 allomerism
 allomerization
 allomerize
+accordaturas
 angustirostrate
 allomerized
 allomerizing
