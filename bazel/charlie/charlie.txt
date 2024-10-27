@@ -19362,7 +19362,6 @@ chantable
 colorers
 cinerea
 carpocervical
-colorfast
 colorfastness
 colorful
 colorfully
@@ -19424,6 +19423,7 @@ charcoals
 calculi
 colostration
 chufas
+colorfast
 colostric
 cylindrical
 colostrous
