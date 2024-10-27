@@ -3510,6 +3510,7 @@ carack
 caracks
 caracoa
 caracol
+crasher
 caracoled
 caracoler
 caracoles
@@ -28184,7 +28185,6 @@ crare
 crash
 crashed
 confronting
-crasher
 crashers
 crashes
 crashing
