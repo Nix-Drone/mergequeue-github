@@ -6905,7 +6905,6 @@ airlifting
 airlifts
 airlike
 airline
-airliner
 airliners
 airlines
 airling
@@ -18081,6 +18080,7 @@ appurtenance
 appurtenances
 alinotum
 ammeline
+airliner
 appurtenant
 apr
 apractic
