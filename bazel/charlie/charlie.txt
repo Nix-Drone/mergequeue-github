@@ -1625,7 +1625,6 @@ calotte
 calottes
 calp
 calpac
-calpack
 calpacked
 calpacks
 calpacs
@@ -4775,6 +4774,7 @@ carryon
 carrions
 carryons
 carryout
+calpack
 carryouts
 carryover
 carryovers
