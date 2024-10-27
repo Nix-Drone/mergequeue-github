@@ -1799,7 +1799,6 @@ accumulatively
 animalness
 anastatica
 accumulativeness
-accumulator
 accupy
 accur
 accuracy
@@ -12449,6 +12448,7 @@ ambalam
 anecdotalist
 anecdotally
 auxanology
+accumulator
 anecdote
 anecdotes
 anecdotic
