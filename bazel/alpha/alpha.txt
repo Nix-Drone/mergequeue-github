@@ -3248,7 +3248,6 @@ actorship
 actress
 actresses
 acts
-aminic
 actu
 actualisation
 actualise
@@ -16784,6 +16783,7 @@ amidosulphonal
 antistat
 apertness
 apertometer
+aminic
 apertum
 apertural
 apertured
