@@ -5324,7 +5324,6 @@ dentality
 dentalium
 dentaliums
 dentalization
-dentalize
 dentalized
 dentally
 dentallia
@@ -15115,6 +15114,7 @@ doled
 dolefish
 dreaming
 doleful
+dentalize
 dolefullest
 dolefully
 dolefulness
