@@ -16260,7 +16260,6 @@ clinoclasite
 clinodiagonal
 clinodomatic
 clinodome
-clinograph
 clinographic
 clinohedral
 clinohedrite
@@ -25953,6 +25952,7 @@ creolize
 cyriological
 corvinas
 corviser
+clinograph
 corvo
 corvoid
 corvorant
