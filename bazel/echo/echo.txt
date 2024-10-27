@@ -4341,7 +4341,6 @@ ectorganism
 encoop
 enabling
 enact
-enactable
 enacted
 enacting
 enactment
@@ -5222,6 +5221,7 @@ equinely
 endoparasitica
 exhilaration
 endoparasitism
+enactable
 endopathic
 endopelvic
 endopeptidase
