@@ -3474,7 +3474,6 @@ goss
 guttiest
 germlike
 germon
-germproof
 germs
 germule
 goodlike
@@ -10011,6 +10010,7 @@ gudgeon
 gauntly
 gudgeons
 gowned
+germproof
 gudget
 gudok
 grypanian
