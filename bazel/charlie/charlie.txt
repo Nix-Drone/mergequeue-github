@@ -2418,7 +2418,6 @@ candlepower
 chemist
 camelion
 candler
-candlerent
 candlers
 candles
 candleshine
@@ -31079,6 +31078,7 @@ cunt
 cunts
 cunza
 cunzie
+candlerent
 cuorin
 cup
 cupay
