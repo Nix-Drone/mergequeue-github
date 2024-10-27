@@ -53,6 +53,7 @@ facaded
 faceable
 facebar
 facebow
+fertil
 facecloth
 firestone
 faced
@@ -2678,7 +2679,6 @@ fersmite
 feetage
 fopling
 ferter
-fertil
 fertile
 fulvidness
 fertileness
