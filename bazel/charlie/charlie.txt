@@ -7079,7 +7079,6 @@ centiday
 centifolious
 centigrade
 centigrado
-centigram
 centigramme
 centigrams
 centile
@@ -31469,6 +31468,7 @@ curries
 curryfavel
 cleridae
 curryfavour
+centigram
 curriing
 currying
 currijong
