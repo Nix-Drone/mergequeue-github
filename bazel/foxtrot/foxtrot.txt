@@ -2526,7 +2526,6 @@ fernlike
 farsakh
 ferns
 fernseed
-flustrum
 fernshaw
 forlorner
 fernsick
@@ -8591,6 +8590,7 @@ forpet
 forpine
 forpining
 fortunella
+flustrum
 forprise
 forrad
 finnoc
