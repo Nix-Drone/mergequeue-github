@@ -21,6 +21,7 @@ baaskaaps
 bevels
 baaskap
 baba
+both
 babacoote
 babaylanes
 babakoto
@@ -13289,7 +13290,6 @@ botels
 boterol
 brooched
 botflies
-both
 bother
 bothered
 brender
