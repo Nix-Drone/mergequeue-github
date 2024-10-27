@@ -5553,7 +5553,6 @@ blockline
 bejewelled
 barricading
 bejewelling
-bejewels
 backstamp
 beadhouses
 bestowed
@@ -14647,6 +14646,7 @@ beggable
 brattled
 brattles
 brattling
+bejewels
 bratwurst
 brauna
 bespattering
