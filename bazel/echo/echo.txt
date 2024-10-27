@@ -2516,7 +2516,6 @@ electrometallurgical
 eye
 electrometer
 enage
-electrometric
 electrometrical
 electrometrically
 electromyogram
@@ -12704,6 +12703,7 @@ exomorphic
 exomorphism
 exomphalos
 exomphalous
+electrometric
 embryogeny
 exomphalus
 expandibility
