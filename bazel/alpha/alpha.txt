@@ -6940,6 +6940,7 @@ airport
 airports
 airpost
 airposts
+allocations
 airproof
 airproofs
 aggrieving
@@ -16233,7 +16234,6 @@ antisynod
 antisyphilitic
 antisiphon
 antisiphonal
-allocations
 assets
 assistency
 aidable
