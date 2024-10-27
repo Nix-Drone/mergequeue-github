@@ -2465,7 +2465,6 @@ geldant
 goodnesses
 gelded
 gelder
-gelders
 gobmouthed
 geldesprung
 gelding
@@ -8754,6 +8753,7 @@ gonostyle
 greffier
 greffotome
 greg
+gelders
 gallomania
 gregale
 gregaloid
