@@ -7494,6 +7494,7 @@ foreact
 foreadmonish
 false
 flashpan
+fleetings
 foreadvertise
 fractionlet
 foreadvice
@@ -7552,7 +7553,6 @@ foreburton
 fulfills
 forebush
 forecabin
-fleetings
 forecaddie
 forecast
 forecaster
