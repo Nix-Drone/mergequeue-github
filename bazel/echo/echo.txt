@@ -2316,7 +2316,6 @@ electroacoustics
 ensnaringly
 electroaffinity
 electroamalgamation
-electroanalytic
 electroanalytical
 encl
 embassade
@@ -9207,6 +9206,7 @@ erythrorrhexis
 erythroscope
 erythrosiderite
 erythrosin
+electroanalytic
 exochorda
 erythrosine
 eveners
