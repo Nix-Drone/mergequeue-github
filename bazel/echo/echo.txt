@@ -5443,7 +5443,6 @@ exotisms
 eaglelike
 eparchate
 endurability
-endurably
 endurance
 endurant
 endure
@@ -13208,6 +13207,7 @@ explodes
 exploit
 ecumenics
 exploitable
+endurably
 exploitation
 exploitationist
 exploitatively
