@@ -1885,7 +1885,6 @@ eighteenths
 euryprognathous
 equisonant
 eightfold
-enclasp
 eighth
 eighthes
 eighthly
@@ -5781,6 +5780,7 @@ engoument
 equipondious
 engr
 equant
+enclasp
 engrace
 employs
 engraced
