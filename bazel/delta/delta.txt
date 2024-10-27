@@ -4299,7 +4299,6 @@ dels
 delsarte
 delsartian
 delta
-deltahedra
 deltaic
 deltaite
 deltal
@@ -17376,6 +17375,7 @@ disphenoid
 droopt
 drop
 desquamation
+deltahedra
 dropax
 dropberry
 dropcloth
