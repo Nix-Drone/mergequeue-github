@@ -4191,7 +4191,6 @@ gilver
 gasterosteoid
 gim
 gimbal
-gimbaled
 gimballed
 groundsheet
 groining
@@ -6650,6 +6649,7 @@ gardenesque
 goldfinnies
 goldhead
 goldi
+gimbaled
 goldy
 gliosis
 goldie
