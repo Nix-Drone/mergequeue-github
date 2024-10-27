@@ -2936,7 +2936,6 @@ acromiohumeral
 acromion
 areopagist
 amphibalus
-acromiosternal
 acromiothoracic
 acromyotonia
 acromyotonus
@@ -6459,6 +6458,7 @@ agriotype
 agriotypidae
 agriotypus
 agrypnia
+acromiosternal
 agrypniai
 aristulate
 agrypnias
