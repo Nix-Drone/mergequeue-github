@@ -7266,7 +7266,6 @@ gos
 goschen
 goshawk
 gorefish
-goshenite
 goslarite
 goslet
 goslings
@@ -9104,6 +9103,7 @@ grooming
 griotte
 grip
 genie
+goshenite
 gripeful
 gnu
 gripey
