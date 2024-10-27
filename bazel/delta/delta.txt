@@ -1100,7 +1100,6 @@ drawgear
 dase
 dasein
 dasewe
-dashboard
 dashed
 dashedly
 dashee
@@ -8406,6 +8405,7 @@ diamagnetic
 diamagnetism
 diamagnetize
 dredging
+dashboard
 diamagnetometer
 diamant
 diamante
