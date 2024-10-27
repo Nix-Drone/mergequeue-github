@@ -4349,6 +4349,7 @@ fishberry
 fleshers
 fishberries
 fishboat
+fishfinger
 fishbolt
 fishbolts
 falchions
@@ -4371,7 +4372,6 @@ fisherwoman
 fishes
 fishet
 fervours
-fishfinger
 fluxionary
 flashet
 fishful
