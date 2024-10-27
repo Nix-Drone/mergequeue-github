@@ -3797,7 +3797,6 @@ adhered
 adherences
 adherency
 adherend
-adherends
 adherently
 adherents
 adherer
@@ -25392,6 +25391,7 @@ azulmic
 azure
 alarmable
 amazonite
+adherends
 accoutrement
 azurean
 ampyces
