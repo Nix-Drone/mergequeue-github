@@ -9874,7 +9874,6 @@ chemisorb
 chemisorption
 cantator
 counteraverment
-coprophilic
 chemistry
 crooking
 chemistries
@@ -25337,6 +25336,7 @@ cornetto
 corneule
 corneum
 cornfactor
+coprophilic
 cornfed
 cornfields
 cornflag
