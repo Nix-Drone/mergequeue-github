@@ -7121,7 +7121,6 @@ enumerations
 euphone
 enlinked
 enumerator
-enunciability
 endoss
 enunciable
 enunciated
@@ -13106,6 +13105,7 @@ expiations
 expiatist
 expiator
 expiators
+enunciability
 expirant
 entrancing
 expirate
