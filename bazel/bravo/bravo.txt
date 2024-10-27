@@ -2829,7 +2829,6 @@ baroneting
 baronetise
 baronetised
 baronetising
-baronetize
 baronetizing
 baronets
 baronetship
@@ -14195,6 +14194,7 @@ brae
 braeface
 boarding
 bandfiling
+baronetize
 braehead
 braeman
 benefactory
