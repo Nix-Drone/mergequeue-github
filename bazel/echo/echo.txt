@@ -6310,7 +6310,6 @@ erzahler
 enrolls
 enroot
 enrooted
-enroots
 encirclement
 enround
 enruin
@@ -8712,6 +8711,7 @@ equipartisan
 equipartition
 equipedal
 electrofused
+enroots
 equipede
 equipendent
 ephelcystic
