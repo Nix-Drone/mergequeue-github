@@ -5776,6 +5776,7 @@ flittermouse
 farmlands
 flitters
 flitty
+foamflower
 flitting
 flivver
 fumariaceous
@@ -6628,7 +6629,6 @@ fluotitanate
 frounce
 feebler
 foamer
-foamflower
 foamy
 filial
 foxtails
