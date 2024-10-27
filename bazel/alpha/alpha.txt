@@ -234,7 +234,6 @@ abbreviators
 abbreviature
 abbroachment
 abc
-abcissa
 abcoulomb
 abd
 abdali
@@ -15213,6 +15212,7 @@ antiestablishment
 antiethnic
 antieugenic
 antievangelical
+abcissa
 antievolution
 antievolutional
 abnormality
