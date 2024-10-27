@@ -7429,7 +7429,6 @@ forcene
 forceps
 fey
 forceput
-fazing
 forces
 forcet
 forches
@@ -9156,6 +9155,7 @@ foxglove
 fledge
 falun
 foxgloves
+fazing
 foxhole
 flexionless
 foxholes
