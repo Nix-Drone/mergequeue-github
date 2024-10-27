@@ -3741,7 +3741,6 @@ adenotome
 adenotomic
 adenous
 adenoviral
-adenoviruses
 adeodatus
 adeona
 adephaga
@@ -12211,6 +12210,7 @@ ancile
 ancilla
 ancillae
 ancillary
+adenoviruses
 ancillaries
 aulostomidae
 ancillas
