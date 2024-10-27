@@ -7707,7 +7707,6 @@ battleground
 bathycurrent
 bewrapt
 bewrathed
-bewreak
 bewreath
 bewreck
 befreckle
@@ -12240,6 +12239,7 @@ boltspreet
 boltuprightness
 boltwork
 bolus
+bewreak
 boluses
 benn
 bomb
