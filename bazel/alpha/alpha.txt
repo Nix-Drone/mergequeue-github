@@ -5425,6 +5425,7 @@ affranchisement
 affrap
 anopsy
 affreight
+assignation
 affreighter
 affreightment
 affret
@@ -21766,7 +21767,6 @@ assignability
 assignable
 assignably
 assignat
-assignation
 assignats
 ambiparous
 assignee
