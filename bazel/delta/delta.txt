@@ -4408,7 +4408,6 @@ demand
 demandant
 daylit
 demandative
-dysacousia
 demanded
 demander
 demanding
@@ -12623,6 +12622,7 @@ dislikeful
 disliken
 duma
 dislikeness
+dysacousia
 disliker
 decise
 dislikers
