@@ -4976,7 +4976,6 @@ advice
 aerograms
 aerograph
 aerography
-aerographical
 aerographics
 aerographies
 aerogun
@@ -9627,6 +9626,7 @@ autoaddress
 alvan
 alvar
 alveary
+aerographical
 alvearies
 alvearium
 alveated
