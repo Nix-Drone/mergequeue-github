@@ -4343,6 +4343,7 @@ forb
 fisetin
 fish
 fishability
+fractionlet
 fishable
 fishback
 fishberry
@@ -7495,7 +7496,6 @@ foreadmonish
 false
 flashpan
 foreadvertise
-fractionlet
 foreadvice
 foreadvise
 forearmed
