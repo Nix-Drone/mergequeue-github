@@ -2330,7 +2330,6 @@ electrobrasser
 epistroma
 electrobus
 electrocapillary
-electrocapillarity
 electrocardiogram
 electrocardiograms
 escarped
@@ -5045,6 +5044,7 @@ endive
 eland
 endjunk
 evens
+electrocapillarity
 endleaf
 endleaves
 endless
