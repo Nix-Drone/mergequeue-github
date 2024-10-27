@@ -2315,6 +2315,7 @@ achromatizable
 achromatization
 achromatize
 amalgam
+angletouch
 achromatizing
 achromatocyte
 achromatolysis
@@ -7765,7 +7766,6 @@ aldose
 aldoses
 antischolastically
 aldoside
-angletouch
 aldosterone
 aldosteronism
 aldrin
