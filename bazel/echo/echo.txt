@@ -1223,7 +1223,6 @@ educand
 educatability
 epicrystalline
 eident
-educatable
 educate
 evitate
 educated
@@ -2881,6 +2880,7 @@ escalators
 eleven
 egrid
 extraneously
+educatable
 elevener
 elevenfold
 embatholithic
