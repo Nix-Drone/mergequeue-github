@@ -4041,7 +4041,6 @@ finings
 federatist
 finishable
 finisher
-finishers
 finishes
 finishing
 finitary
@@ -10457,6 +10456,7 @@ frontlessness
 fistnote
 frontoauricular
 frontoethmoid
+finishers
 fashionize
 fantasticate
 frontogenesis
