@@ -4343,7 +4343,6 @@ forb
 fisetin
 fish
 fishability
-fishable
 fishback
 fishberry
 fleshers
@@ -7470,6 +7469,7 @@ fordable
 flaunche
 fordableness
 fordays
+fishable
 forded
 fibromyxosarcoma
 fordy
