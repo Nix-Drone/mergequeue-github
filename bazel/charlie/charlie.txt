@@ -14616,7 +14616,6 @@ cystadenoma
 cystadenosarcoma
 cystalgia
 cystamine
-cystaster
 cystathionine
 cystatrophy
 conjugation
@@ -20326,6 +20325,7 @@ community
 communities
 communitive
 communitywide
+cystaster
 communitorium
 communization
 couseranite
