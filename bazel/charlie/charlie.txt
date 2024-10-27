@@ -3204,7 +3204,6 @@ capmakers
 cordmaker
 capmaking
 capnodium
-capnoides
 colonizes
 capnomancy
 capnomor
@@ -8365,6 +8364,7 @@ chalina
 complexity
 corallet
 chalinidae
+capnoides
 chalinitis
 chalk
 chalkboard
