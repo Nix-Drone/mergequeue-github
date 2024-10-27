@@ -2836,7 +2836,6 @@ baronetship
 barong
 baronga
 barongs
-barony
 bassets
 baronial
 baronies
@@ -11610,6 +11609,7 @@ bumaloe
 boatloading
 baske
 boatloads
+barony
 boatman
 boatless
 beigy
