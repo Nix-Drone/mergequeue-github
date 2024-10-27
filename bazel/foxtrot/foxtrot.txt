@@ -964,7 +964,6 @@ fabric
 faradmeter
 ferny
 faradocontractility
-faradomuscular
 farandman
 farandmen
 farandola
@@ -4248,6 +4247,7 @@ flatterers
 firetraps
 firewall
 fleckier
+faradomuscular
 fibrilliform
 feculent
 flail
