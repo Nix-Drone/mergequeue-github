@@ -851,7 +851,6 @@ ectocoelic
 ectocommensal
 ectocondylar
 ectocondyle
-ectocondyloid
 epizoites
 efficient
 erroneous
@@ -5228,6 +5227,7 @@ endopeptidase
 endopericarditis
 endoperidium
 etoffe
+ectocondyloid
 endoperitonitis
 elimination
 emancipatress
