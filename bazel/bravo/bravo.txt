@@ -12793,7 +12793,6 @@ boonless
 buckplate
 boons
 boophilus
-boopis
 boor
 boorga
 bedsheet
@@ -15263,6 +15262,7 @@ bonelike
 bridewain
 brideman
 brideweed
+boopis
 bridewell
 bridewort
 bedimplies
