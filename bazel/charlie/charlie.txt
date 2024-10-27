@@ -5290,7 +5290,6 @@ crizzling
 castellanies
 castellano
 castellans
-castellanship
 castellate
 castellated
 castellation
@@ -6390,6 +6389,7 @@ caved
 canell
 coagel
 cavefish
+castellanship
 cavefishes
 cavey
 cavekeeper
