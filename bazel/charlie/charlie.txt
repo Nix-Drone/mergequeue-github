@@ -5117,7 +5117,6 @@ cashbooks
 cashbox
 cashboxes
 casheen
-cashel
 casher
 cashers
 cashes
@@ -14600,6 +14599,7 @@ cisplatine
 curvant
 cispontine
 cisrhenane
+cashel
 cissampelos
 cissy
 cissies
