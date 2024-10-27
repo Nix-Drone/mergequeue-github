@@ -5333,7 +5333,6 @@ castles
 cortaderia
 china
 castlet
-chairwoman
 castleward
 castlewards
 castlewise
@@ -18354,6 +18353,7 @@ cogs
 coguarantor
 coguardian
 cogue
+chairwoman
 chaotical
 cogway
 cogways
