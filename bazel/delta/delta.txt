@@ -3801,7 +3801,6 @@ decarchy
 dehumidify
 dehumidified
 dehumidifier
-dehumidifiers
 dehumidifies
 dehumidifying
 duds
@@ -9964,6 +9963,7 @@ dogwood
 dimout
 dimouts
 dimple
+dehumidifiers
 dimpled
 dimplement
 dimples
