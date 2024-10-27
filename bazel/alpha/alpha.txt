@@ -7508,7 +7508,6 @@ albuminone
 albuminorrhea
 albuminoscope
 albuminose
-albuminosis
 avulsions
 albuminous
 albuminousness
@@ -10522,6 +10521,7 @@ amylogenic
 amylogens
 amylohydrolysis
 amylohydrolytic
+albuminosis
 amyloid
 amyloidal
 arawakan
