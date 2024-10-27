@@ -8102,7 +8102,6 @@ granulocytic
 geom
 granulocytopoiesis
 granuloma
-gnathometer
 gambogic
 gambroon
 granulometric
@@ -10621,6 +10620,7 @@ gurgitation
 gurgled
 gurgles
 gurglet
+gnathometer
 gurgling
 gainings
 geloscopy
