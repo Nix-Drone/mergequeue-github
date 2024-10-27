@@ -196,6 +196,7 @@ facto
 factorability
 factorable
 factordom
+flatdom
 factoress
 flateria
 factory
@@ -739,7 +740,6 @@ fortune
 fanatically
 filled
 fanaticalness
-flatdom
 fanaticise
 fanaticised
 fungoidal
