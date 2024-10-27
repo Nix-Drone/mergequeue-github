@@ -2332,7 +2332,6 @@ electrobus
 electrocapillary
 electrocapillarity
 electrocardiogram
-electrocardiograms
 escarped
 electrocardiograph
 electrocardiographic
@@ -13335,6 +13334,7 @@ expoundable
 expounder
 expounders
 empocket
+electrocardiograms
 expounds
 enthrong
 expreme
