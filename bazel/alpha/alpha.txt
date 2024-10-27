@@ -849,7 +849,6 @@ aerosphere
 abristle
 abroach
 abrocome
-abrogable
 abrogate
 antagonisation
 abrogates
@@ -7308,6 +7307,7 @@ alarmist
 alarmists
 alarms
 anthesterol
+abrogable
 alarodian
 alarum
 alarumed
