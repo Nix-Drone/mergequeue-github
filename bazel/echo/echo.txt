@@ -1814,7 +1814,6 @@ electric
 eyeopener
 eyepiece
 eyepit
-eyepoint
 eyereach
 eyeroot
 electromobilism
@@ -10307,6 +10306,7 @@ ethicist
 ethicize
 eastland
 ethicoaesthetic
+eyepoint
 ethicophysical
 ethicopolitical
 ethicoreligious
