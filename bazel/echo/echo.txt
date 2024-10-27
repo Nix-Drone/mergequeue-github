@@ -1305,7 +1305,6 @@ emblemology
 eelshop
 eelskin
 eelware
-eelworm
 estragon
 een
 eyepieces
@@ -4102,6 +4101,7 @@ emphaticalness
 emphemeralness
 emphysema
 emphyteusis
+eelworm
 emphyteuta
 emphyteutic
 emphlysis
