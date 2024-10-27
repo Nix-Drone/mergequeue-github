@@ -10195,7 +10195,6 @@ blacksnake
 blackstick
 burghbote
 baneful
-blacktail
 bliaut
 boogaloo
 blackthorns
@@ -11561,6 +11560,7 @@ bursar
 boarishness
 boars
 boarship
+blacktail
 boarskin
 boarspear
 boart
