@@ -5260,7 +5260,6 @@ deliriums
 deess
 denotatively
 denotativeness
-denotatum
 denote
 denoted
 denotement
@@ -8681,6 +8680,7 @@ diastrophism
 diatessaron
 diatesseron
 diathermance
+denotatum
 diathermancy
 diathermaneity
 diathermanous
