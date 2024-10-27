@@ -10775,7 +10775,6 @@ ammonolyzed
 ammonolyzing
 ammophila
 ammophilous
-ammoresinol
 ammoreslinol
 argiopidae
 ammos
@@ -12812,6 +12811,7 @@ armlet
 angiosperm
 angiospermae
 attacks
+ammoresinol
 angiospermal
 angiospermic
 angiospermous
