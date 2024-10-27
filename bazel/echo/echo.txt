@@ -6376,7 +6376,6 @@ ensete
 enshade
 enshawl
 ensheath
-ensheathe
 ensheathed
 embiotocid
 ensheathing
@@ -10391,6 +10390,7 @@ escorial
 emirship
 enrank
 eemis
+ensheathe
 ethmoidal
 ethmoiditis
 entomb
