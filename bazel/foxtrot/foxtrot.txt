@@ -2508,7 +2508,6 @@ fermis
 fermium
 fermorite
 fern
-fastigium
 floripondio
 fernandinite
 fernando
@@ -8412,6 +8411,7 @@ formats
 feudality
 formature
 flappering
+fastigium
 formazan
 freehanded
 formboard
