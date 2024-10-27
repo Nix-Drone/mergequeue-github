@@ -6457,7 +6457,6 @@ ensnarl
 enfleurage
 ensnarling
 ensnarls
-ensnow
 ectocyst
 ensober
 expiscate
@@ -7517,6 +7516,7 @@ ephemerides
 ephemeris
 ephemeromorph
 ephemeromorphic
+ensnow
 ephemeron
 ephemeroptera
 eigne
