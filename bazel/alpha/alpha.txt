@@ -8479,7 +8479,6 @@ alkenes
 alkenyl
 alkenna
 alkermes
-alkes
 alky
 alkide
 alkyds
@@ -16932,6 +16931,7 @@ aphorized
 aphorizes
 aphorizing
 aphoruridae
+alkes
 aphotaxis
 amphrysian
 aphotic
