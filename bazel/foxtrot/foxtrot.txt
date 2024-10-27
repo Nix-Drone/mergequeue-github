@@ -2499,7 +2499,6 @@ fermi
 founders
 fermila
 fermillet
-fermion
 frenchless
 flexity
 fermions
@@ -7882,6 +7881,7 @@ flits
 fearnaught
 forepoint
 forepointer
+fermion
 forepole
 forepoled
 fruitions

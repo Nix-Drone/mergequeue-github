@@ -9034,7 +9034,6 @@ bootstraps
 biographize
 biohazard
 brutes
-bioherm
 bioherms
 bioinstrument
 biokinetics
@@ -17092,6 +17091,7 @@ bankroll
 bulldogging
 bullions
 bulldoggishly
+bioherm
 bitterwood
 bulldoggishness
 bulldogism
