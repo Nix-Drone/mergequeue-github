@@ -3232,7 +3232,6 @@ georgics
 gripy
 georgium
 geoscience
-geoscientist
 geoscientists
 geoscopy
 gelasian
@@ -9296,6 +9295,7 @@ grolier
 grolieresque
 groma
 gromatic
+geoscientist
 gromatical
 gromatics
 gasterothecal
