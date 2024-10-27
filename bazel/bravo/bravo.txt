@@ -1678,6 +1678,7 @@ ballow
 blear
 ballplayer
 ballplayers
+behoof
 ballplatz
 bedrabbled
 ballpoint
@@ -5479,7 +5480,6 @@ beholders
 beholdingness
 beholds
 behoney
-behoof
 behoot
 behoove
 behooveful
