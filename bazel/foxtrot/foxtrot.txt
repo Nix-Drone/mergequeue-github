@@ -1082,6 +1082,7 @@ farmeries
 farmerish
 farmerly
 farmerlike
+forspend
 farmership
 farmhold
 farmhouse
@@ -8636,7 +8637,6 @@ forslow
 forsook
 forsooth
 forspeak
-forspend
 farstepped
 ferally
 footing
