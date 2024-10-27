@@ -8444,7 +8444,6 @@ diobolons
 diaminogene
 diamins
 diammine
-diamminobromide
 diamminonitrate
 diammonium
 downgrades
@@ -18294,6 +18293,7 @@ duodecennial
 duodecillion
 duodecillions
 dupability
+diamminobromide
 duodecillionth
 duodecimal
 duodenotomy
