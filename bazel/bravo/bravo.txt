@@ -7993,7 +7993,6 @@ bistratose
 bibliotaph
 bibliotaphe
 bibliothecae
-bibliothecary
 bibliothecarian
 bibliothecas
 bibliotheke
@@ -16392,6 +16391,7 @@ brusher
 booted
 brushes
 bedstock
+bibliothecary
 brushet
 brushful
 brushy
