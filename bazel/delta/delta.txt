@@ -9383,6 +9383,7 @@ diffusions
 diffusive
 diffusor
 diffusors
+distant
 difluence
 disubstitution
 difluoride
@@ -13732,7 +13733,6 @@ distanceless
 distancy
 distancing
 distannic
-distant
 distantly
 distantness
 distaste
