@@ -3986,7 +3986,6 @@ adjudgeable
 adjudger
 adjudges
 adjudging
-adjudicata
 appestat
 adjudicate
 adjudicated
@@ -25338,6 +25337,7 @@ azosulphonic
 azotaemia
 azotate
 azotea
+adjudicata
 azoted
 azotemia
 azotemias
