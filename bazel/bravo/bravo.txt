@@ -12728,7 +12728,6 @@ biddy
 bookworm
 bookworms
 bucketeer
-bookwright
 bool
 bowline
 boolean
@@ -13996,6 +13995,7 @@ buffbar
 brachydontism
 brachyfacial
 brachyglossal
+bookwright
 brachygnathia
 brachygnathism
 brachygrapher
