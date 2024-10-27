@@ -8678,7 +8678,6 @@ arragonite
 alliance
 amidships
 accoast
-alliances
 acromioscapular
 alliant
 alliaria
@@ -20733,6 +20732,7 @@ artificialities
 arrayment
 artificially
 artificialness
+alliances
 artificious
 artilize
 artiller
