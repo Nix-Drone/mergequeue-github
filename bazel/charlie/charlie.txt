@@ -16702,7 +16702,6 @@ clotheshorses
 clothesyard
 clothesless
 clothesline
-clotheslines
 clothesman
 cosuitor
 clothesmen
@@ -26724,6 +26723,7 @@ countercompony
 cerophilous
 countercondemnation
 counterconditioning
+clotheslines
 counterconversion
 countercoupe
 countercourant
