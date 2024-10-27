@@ -6370,6 +6370,7 @@ gestured
 goalkeeper
 goalkeeping
 gambusias
+gatehouses
 goals
 goaltender
 goaltenders
@@ -7320,7 +7321,6 @@ gossipee
 gossiper
 gossipers
 gossiphood
-gatehouses
 gossipy
 gravitationally
 gossypin
