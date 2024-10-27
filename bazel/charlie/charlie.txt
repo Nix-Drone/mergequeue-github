@@ -29866,7 +29866,6 @@ crosshackle
 crosshair
 crosshairs
 crosshand
-crosshatch
 crosshatched
 crosshatcher
 crosshatches
@@ -31311,6 +31310,7 @@ compotation
 curet
 curets
 callisthenics
+crosshatch
 curetted
 curettement
 curettes
