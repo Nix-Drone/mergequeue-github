@@ -7574,7 +7574,6 @@ forechoir
 faith
 foregame
 forechoose
-foreclaw
 foreclose
 foreclosed
 foreclosure
@@ -8488,6 +8487,7 @@ formin
 fozinesses
 forminate
 forming
+foreclaw
 formless
 formlessness
 formnail
