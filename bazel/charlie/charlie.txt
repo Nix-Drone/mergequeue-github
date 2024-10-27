@@ -15274,7 +15274,6 @@ claimed
 composograph
 claimer
 consumables
-claimers
 claymore
 claims
 claimsman
@@ -18935,6 +18934,7 @@ counterfallacy
 collectioner
 collections
 collective
+claimers
 collectively
 collectives
 collectivise
