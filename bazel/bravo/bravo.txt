@@ -1436,7 +1436,6 @@ baldrics
 baldricwise
 balds
 balducta
-balductum
 bushwoman
 baldwin
 bale
@@ -4519,6 +4518,7 @@ beclothe
 beclothed
 beclothes
 becloud
+balductum
 beclouded
 beclouding
 benzylidene
