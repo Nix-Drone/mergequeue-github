@@ -4123,7 +4123,6 @@ fyrd
 fireable
 firearm
 firearms
-fireback
 fumeuses
 favourably
 fireballs
@@ -5014,6 +5013,7 @@ flappy
 faxes
 flapping
 flywire
+fireback
 feckless
 feud
 fuligo
