@@ -20010,7 +20010,6 @@ armorproof
 armors
 armouchiquois
 armour
-armourbearer
 armoured
 armourer
 aplustre
@@ -22447,6 +22446,7 @@ ate
 ateba
 allotters
 atebrin
+armourbearer
 atechny
 atechnic
 atechnical
