@@ -4933,6 +4933,7 @@ flamless
 flammable
 filmogen
 floorers
+flexible
 filefish
 flammation
 flammed
@@ -5505,7 +5506,6 @@ flexes
 flexibilities
 flexibilty
 forger
-flexible
 forgedly
 flexile
 flexility
