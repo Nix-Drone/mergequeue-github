@@ -311,7 +311,6 @@ etruscans
 epitaphless
 eaved
 eavedrop
-eavedropper
 eavedropping
 exsecants
 evenings
@@ -7658,6 +7657,7 @@ enfeoffs
 epicist
 epiclastic
 epicleidian
+eavedropper
 epicleidium
 estivage
 epicly
