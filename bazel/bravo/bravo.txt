@@ -4141,6 +4141,7 @@ bantlings
 bean
 badawi
 beanbag
+bittacle
 beanbags
 brickred
 beanball
@@ -11599,7 +11600,6 @@ boatings
 boation
 boatkeeper
 bodyplate
-bittacle
 beclamoring
 boxball
 boatlike
