@@ -8028,7 +8028,6 @@ forespoken
 forest
 forthteller
 forestaff
-forestaffs
 forestage
 forestay
 forestair
@@ -9407,6 +9406,7 @@ favellilidia
 franciscan
 franciscanism
 franciscans
+forestaffs
 ferocities
 francium
 favourer
