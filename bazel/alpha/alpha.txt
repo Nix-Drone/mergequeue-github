@@ -3323,7 +3323,6 @@ acupunctuation
 annelides
 acupuncturation
 acupuncturator
-acupuncture
 acupunctured
 acupuncturing
 acupuncturist
@@ -6113,6 +6112,7 @@ aghan
 aghanee
 aghas
 aghast
+acupuncture
 aghastness
 aghlabite
 aghorapanthi
