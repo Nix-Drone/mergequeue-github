@@ -7694,7 +7694,6 @@ foregleam
 ferrocyanide
 foreglow
 forego
-fearable
 fables
 fasciolidae
 flannelet
@@ -10335,6 +10334,7 @@ frogs
 furiosa
 frogskin
 freesia
+fearable
 frogspawn
 frogwort
 filtrate
