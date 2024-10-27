@@ -1915,6 +1915,7 @@ deburse
 debus
 debused
 debusing
+disknow
 dreamers
 debussy
 debussyan
@@ -3515,7 +3516,6 @@ deforests
 deform
 diasters
 deformability
-disknow
 deformable
 deformalize
 deformation
