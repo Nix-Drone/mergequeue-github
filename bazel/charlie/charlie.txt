@@ -4707,7 +4707,6 @@ chibouk
 carposporangial
 cerebropathy
 carposporangium
-catalase
 carpospore
 carposporous
 carpostome
@@ -7397,6 +7396,7 @@ cephalothoraxes
 cephalotomy
 capman
 contrate
+catalase
 cephalotractor
 cephalotribe
 cephalotrocha
