@@ -2631,7 +2631,6 @@ electrosmosis
 electrostatic
 electrostatical
 electrosteel
-electrostenolysis
 electrostenolytic
 exciples
 electrostriction
@@ -4888,6 +4887,7 @@ encryption
 encrisp
 encroach
 edgestone
+electrostenolysis
 equitant
 encroacher
 encroaching
