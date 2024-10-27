@@ -4842,7 +4842,6 @@ bedsit
 bangkoks
 bedsite
 bedsitter
-bedsock
 bedsonia
 bedsonias
 bumblefoot
@@ -16163,6 +16162,7 @@ brothel
 brotheler
 brothellike
 bulla
+bedsock
 brothelry
 brothels
 borrowing
