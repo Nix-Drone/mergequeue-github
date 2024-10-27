@@ -3383,6 +3383,7 @@ epionynychia
 embars
 embase
 embassadress
+emunctory
 embassy
 embassiate
 embassies
@@ -4323,7 +4324,6 @@ emulsoidal
 emulsoids
 emunct
 enteropathogenic
-emunctory
 electroencephalographic
 enlay
 emunctories
