@@ -4853,7 +4853,6 @@ dishwash
 demoiselles
 demolish
 demolished
-demolisher
 demolishing
 diarrhoea
 demolishment
@@ -6298,6 +6297,7 @@ dermatorrhea
 dermatosclerosis
 dermatoscopy
 dermatoses
+demolisher
 dermatosiophobia
 degausses
 dermatoskeleton
