@@ -9920,7 +9920,6 @@ chemoresistance
 chemosensitive
 chemosensitivities
 chemoserotherapy
-chemoses
 chemosynthesis
 chemosynthetic
 chemosis
@@ -22035,6 +22034,7 @@ conflation
 canellaceae
 cajon
 conflexure
+chemoses
 conflict
 chubsucker
 conflicted
