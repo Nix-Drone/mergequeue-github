@@ -200,7 +200,6 @@ factoress
 flateria
 factory
 factorial
-factorially
 frizer
 factorials
 foilsman
@@ -6813,6 +6812,7 @@ founding
 fold
 fevers
 foldage
+factorially
 foldaway
 foldboater
 farmings
