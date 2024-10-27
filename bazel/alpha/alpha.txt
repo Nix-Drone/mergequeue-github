@@ -3614,6 +3614,7 @@ assize
 adeleidae
 adelges
 adelite
+annullable
 attermine
 adelocerous
 adelochorda
@@ -13637,7 +13638,6 @@ assassins
 audiviser
 ametabolian
 annuli
-annullable
 annullate
 annullation
 annulled
