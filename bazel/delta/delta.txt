@@ -4444,7 +4444,6 @@ demarked
 decollation
 demarks
 demasculinisation
-demasculinise
 demasculinised
 dognaps
 demasculinising
@@ -15873,6 +15872,7 @@ dosed
 doser
 dosers
 dosimeter
+demasculinise
 dosimetry
 dosimetric
 decant
