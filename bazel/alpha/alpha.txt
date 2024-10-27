@@ -4033,6 +4033,7 @@ adjutage
 adjutancies
 adjutant
 adjutants
+assembled
 adjutantship
 anesthetic
 adjutator
@@ -21641,7 +21642,6 @@ artiodactyl
 assemblage
 assemblance
 assemble
-assembled
 assemblement
 anniv
 assembler
