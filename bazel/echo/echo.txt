@@ -6447,7 +6447,6 @@ ensnare
 ensnared
 explosive
 ensnarement
-ensnarer
 ensnarers
 ensnares
 evangelistic
@@ -8096,6 +8095,7 @@ epiphysis
 epiphysitis
 epiphytal
 empeopled
+ensnarer
 emerize
 epiphytic
 epiphytically
