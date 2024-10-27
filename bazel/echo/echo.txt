@@ -6404,6 +6404,7 @@ ensign
 embarcation
 ensigncy
 electroplaque
+expulser
 ensigncies
 ensigned
 entranceway
@@ -12590,7 +12591,6 @@ epistemological
 exit
 exited
 exitial
-expulser
 exiting
 exition
 exitious
