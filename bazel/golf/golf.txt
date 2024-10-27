@@ -1360,7 +1360,6 @@ guatambu
 grallina
 garcinia
 garcon
-gardbrace
 garde
 gnatsnapper
 gable
@@ -10833,6 +10832,7 @@ guzul
 guzzle
 guzzled
 guzzledom
+gardbrace
 guzzles
 gerontophilia
 gonocoel
