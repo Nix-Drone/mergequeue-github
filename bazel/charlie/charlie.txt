@@ -2401,7 +2401,6 @@ candlebomb
 candled
 candlefish
 candlefishes
-candleholder
 candlelight
 candlelighted
 candlelighter
@@ -3630,6 +3629,7 @@ confuse
 caravels
 colorability
 caraway
+candleholder
 costate
 caraways
 carbachol
