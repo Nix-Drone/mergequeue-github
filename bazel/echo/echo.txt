@@ -4914,7 +4914,6 @@ encumbrance
 electrometeor
 ectoderm
 encurl
-encurtain
 endosteal
 encushion
 end
@@ -5370,6 +5369,7 @@ endothelial
 endothelioid
 evocatory
 endothelioma
+encurtain
 endotheliomas
 endotheliomata
 ecphory

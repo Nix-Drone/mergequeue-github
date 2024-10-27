@@ -2234,7 +2234,6 @@ feltmaking
 feltman
 foulard
 foredeep
-feltmonger
 felts
 feltwort
 felucca
@@ -10376,6 +10375,7 @@ frondent
 forestep
 foredoing
 factor
+feltmonger
 fertilizations
 fluoridising
 frondescent
