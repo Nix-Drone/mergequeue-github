@@ -1528,7 +1528,6 @@ garrisons
 garrnishable
 garron
 garroo
-garroted
 garroters
 garrotes
 goldweed
@@ -8345,6 +8344,7 @@ glenlivet
 gratifying
 governmentalist
 gratility
+garroted
 gaffe
 gratin
 goatroot
