@@ -3973,6 +3973,7 @@ fingered
 fingerer
 fingerers
 foreschooling
+forfear
 firebolted
 fingerfish
 fingerhold
@@ -9631,7 +9632,6 @@ flitches
 freaks
 fream
 freath
-forfear
 freck
 fumewort
 fluidities
