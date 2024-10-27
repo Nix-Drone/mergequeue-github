@@ -4179,7 +4179,6 @@ etnas
 enteromere
 employe
 estado
-employed
 employee
 employees
 employer
@@ -8627,6 +8626,7 @@ equicontinuous
 encompassing
 equicostate
 egrets
+employed
 equicurve
 equid
 equidiagonal
