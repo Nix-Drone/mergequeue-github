@@ -26926,7 +26926,6 @@ counteroffensives
 counteroffer
 counteropening
 counteropponent
-counteropposite
 counterorator
 counterorder
 counterorganization
@@ -30125,6 +30124,7 @@ cruciating
 cruciation
 crucible
 crucibles
+counteropposite
 crucibulum
 crucifer
 cruciferae
