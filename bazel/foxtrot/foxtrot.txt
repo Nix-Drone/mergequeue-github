@@ -4913,7 +4913,6 @@ flamers
 ferneries
 fallback
 flamethrowers
-forcepses
 frankpledge
 fraternity
 flamy
@@ -5455,6 +5454,7 @@ fleshier
 fleshiest
 fleshiness
 fourniture
+forcepses
 fleshing
 fleshings
 formatters
