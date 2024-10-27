@@ -6713,7 +6713,6 @@ desynonymize
 deadens
 desiodothyroxine
 desipiency
-desipient
 desipramine
 desirability
 desirableness
@@ -11591,6 +11590,7 @@ drivecap
 discontinuer
 dieselizing
 discontinues
+desipient
 dreamlessness
 discontinuity
 declamator
