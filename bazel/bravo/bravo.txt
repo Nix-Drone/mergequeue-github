@@ -6831,7 +6831,6 @@ basiotribe
 berreaved
 bendability
 berreaves
-berreaving
 berret
 berrettas
 berrettino
@@ -10566,6 +10565,7 @@ bleachability
 bleachable
 bleached
 bleacher
+berreaving
 bleachery
 bleacheries
 bleacherite
