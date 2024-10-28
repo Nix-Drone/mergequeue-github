@@ -2476,6 +2476,7 @@ deckman
 deckpipe
 decks
 dulls
+diastyle
 deckswabber
 decl
 declaim
@@ -8667,7 +8668,6 @@ dyaster
 depolarizing
 diastereoisomerism
 diastereomer
-diastyle
 diapers
 diastimeter
 diastoles
