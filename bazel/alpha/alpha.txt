@@ -263,7 +263,6 @@ abdominal
 abdominalia
 abdominalian
 abdominally
-abdominals
 abdominoanterior
 abdominocardiac
 abdominocentesis
@@ -13814,6 +13813,7 @@ anophele
 anopheles
 alligatoring
 anophelinae
+abdominals
 aralia
 anopheline
 anophoria
