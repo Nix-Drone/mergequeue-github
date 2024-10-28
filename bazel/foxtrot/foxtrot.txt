@@ -4444,7 +4444,6 @@ fissile
 fissilinguia
 formatting
 fissility
-formatter
 fission
 fissionable
 fissioned
@@ -9299,6 +9298,7 @@ freeish
 faldetta
 friarhood
 fragmentariness
+formatter
 fuliguline
 fibrochondroma
 fragmented
