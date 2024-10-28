@@ -14510,6 +14510,7 @@ cirratulidae
 cirratulus
 cirrhopetalum
 cirrhose
+creatureship
 cirrhosed
 cirrhosis
 cirrhotic
@@ -28453,7 +28454,6 @@ creatureliness
 creatureling
 creatures
 carapo
-creatureship
 creaturize
 churchanity
 creaze
