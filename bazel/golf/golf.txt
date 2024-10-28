@@ -410,7 +410,6 @@ gimballing
 gangboard
 galago
 galagos
-galahads
 galanas
 grubberies
 gynobasic
@@ -7166,6 +7165,7 @@ gore
 gorebill
 gutturalization
 gored
+galahads
 gresil
 gorer
 gores
