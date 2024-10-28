@@ -16700,6 +16700,7 @@ clothesbrush
 clotheshorse
 clotheshorses
 clothesyard
+creaker
 clothesless
 clothesline
 clotheslines
@@ -28345,7 +28346,6 @@ creagh
 creaght
 creak
 creaked
-creaker
 creaky
 creakier
 creakiest
