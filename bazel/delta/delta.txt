@@ -11144,6 +11144,7 @@ disbandment
 disbandments
 disbands
 disbar
+drifters
 dysbarism
 dehydrant
 disbark
@@ -17110,7 +17111,6 @@ dispensated
 driftbolt
 debriefed
 drifter
-drifters
 driftfish
 divestiture
 destructionism
