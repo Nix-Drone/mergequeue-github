@@ -3101,7 +3101,6 @@ actinograph
 acrosporous
 actinography
 actinographic
-actinoid
 annotate
 anisochromia
 actinoidea
@@ -17497,6 +17496,7 @@ apothecary
 apothecaries
 apothecaryship
 apothece
+actinoid
 apotheces
 apothecia
 apothecial
