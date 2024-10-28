@@ -3005,7 +3005,6 @@ genuses
 geo
 geoagronomic
 geobiont
-geoblast
 geobotany
 galivant
 geobotanic
@@ -5980,6 +5979,7 @@ glover
 gloves
 glow
 girnel
+geoblast
 glowbard
 glowerer
 garrulous
