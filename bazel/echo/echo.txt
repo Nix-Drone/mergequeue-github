@@ -2621,7 +2621,6 @@ electroscopes
 encheiria
 endpapers
 electroscopic
-electrosensitive
 electroshock
 electroshocks
 electrosynthesis
@@ -4439,6 +4438,7 @@ enarm
 enarme
 enarration
 enarthrodia
+electrosensitive
 engagers
 enarthrodial
 enarthrosis
