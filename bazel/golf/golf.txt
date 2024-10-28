@@ -6673,7 +6673,6 @@ goldurns
 goldwork
 goldworker
 golem
-golems
 goles
 golet
 gossypium
@@ -6815,6 +6814,7 @@ gonfalcon
 glowed
 gonfalons
 gong
+golems
 gulf
 gunreach
 gonged
