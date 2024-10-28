@@ -8639,7 +8639,6 @@ auditioned
 allentiacan
 aller
 allergen
-allergenic
 autarkical
 allergenicity
 allergia
@@ -11719,6 +11718,7 @@ analgias
 analgic
 analgize
 analysability
+allergenic
 analysable
 analysand
 analysation
