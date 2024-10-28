@@ -4488,7 +4488,6 @@ elaboratory
 ethicists
 encapsulation
 encapsulations
-encapsule
 encapsuled
 enjeopardy
 encapsules
@@ -13884,6 +13883,7 @@ expatriation
 extramurally
 extramusical
 extranational
+encapsule
 evulge
 extranean
 extraneous
