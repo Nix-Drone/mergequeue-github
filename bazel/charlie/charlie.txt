@@ -2991,7 +2991,6 @@ capacitative
 capacitativly
 capacitator
 capacity
-capacities
 capacitive
 capacitively
 capacitor
@@ -5897,6 +5896,7 @@ catheters
 catheti
 cathetometer
 cathetometric
+capacities
 cephalophorous
 cathetus
 cathetusti
