@@ -6062,7 +6062,6 @@ cattlefold
 cattlegate
 cattlehide
 cattleya
-cattleyak
 cattleyas
 cattleless
 cattleman
@@ -6784,6 +6783,7 @@ celloidin
 cellophane
 cynophile
 constative
+cattleyak
 cellose
 cells
 cellucotton
