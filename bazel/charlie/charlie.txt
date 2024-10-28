@@ -2667,7 +2667,6 @@ cannula
 cannulae
 cannulas
 cannulate
-cannulated
 cannulating
 cannulation
 canoe
@@ -8136,6 +8135,7 @@ costarring
 carryalls
 chaffinch
 chaffinches
+cannulated
 chaffiness
 chaffless
 chafflike
