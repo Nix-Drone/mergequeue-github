@@ -20756,7 +20756,6 @@ artisanry
 artisans
 alahee
 artisanship
-artist
 artistdom
 artistes
 artistic
@@ -23605,6 +23604,7 @@ aurigo
 aurigraphy
 alestake
 aurin
+artist
 aurinasal
 aurine
 acicula
