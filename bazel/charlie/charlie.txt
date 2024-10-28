@@ -10259,7 +10259,6 @@ chiasmodon
 chiasmodontid
 chiasmodontidae
 chiasms
-chiasmus
 chiastic
 chiastolite
 cantoon
@@ -20700,6 +20699,7 @@ chronologic
 complexive
 complexly
 complexness
+chiasmus
 complexometry
 complexometric
 complexus
