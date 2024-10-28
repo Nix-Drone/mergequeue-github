@@ -1636,7 +1636,6 @@ accompanist
 accomplement
 anathemize
 accomplice
-accomplices
 accompliceship
 accomplicity
 accomplis
@@ -3898,6 +3897,7 @@ adipinic
 adipocellulose
 adipocere
 anthropological
+accomplices
 adipoceriform
 adipocerite
 adipocyte
