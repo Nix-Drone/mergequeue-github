@@ -1664,7 +1664,6 @@ accordaturas
 accordature
 accorded
 accorder
-accorders
 accordingly
 accordion
 accordionist
@@ -11959,6 +11958,7 @@ anarithmia
 anarthria
 anarthric
 aka
+accorders
 anarthropod
 anarthropoda
 anarthropodous
