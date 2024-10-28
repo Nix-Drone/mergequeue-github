@@ -4810,7 +4810,6 @@ flagroot
 flags
 flagship
 fuss
-firepower
 flagstaff
 fainer
 factorylike
@@ -8792,6 +8791,7 @@ followership
 fortuuned
 forumize
 forvay
+firepower
 forwalk
 forwander
 forwardal
