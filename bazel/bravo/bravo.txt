@@ -5769,7 +5769,6 @@ bavardage
 belknap
 bell
 bellacoola
-belladonna
 biltongs
 bellatrix
 burglar
@@ -12454,6 +12453,7 @@ bonesetter
 barnyard
 bonesetting
 brushite
+belladonna
 boneshaker
 backbeat
 boneshaw
