@@ -6958,6 +6958,7 @@ addled
 apostolic
 airspeed
 airspeeds
+auxiliate
 airstream
 akinetic
 allegory
@@ -24510,7 +24511,6 @@ auxiliary
 agriology
 auxiliaries
 auxiliarly
-auxiliate
 auxiliation
 auxilytic
 auxilium
