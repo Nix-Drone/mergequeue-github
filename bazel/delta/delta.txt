@@ -5531,7 +5531,6 @@ deorsum
 deorsumvergence
 deorsumversion
 deorusumduction
-deossify
 deossification
 deota
 dyakisdodecahedron
@@ -18266,6 +18265,7 @@ dunniewassel
 dunning
 dunnish
 dunnite
+deossify
 dunnites
 dunno
 dunnock
