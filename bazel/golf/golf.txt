@@ -2442,7 +2442,6 @@ gelatinizable
 gelatinization
 gruppetto
 gelatinized
-gelatinizer
 gallanting
 gelatinobromide
 guerdon
@@ -8446,6 +8445,7 @@ graves
 gravest
 gravestead
 gan
+gelatinizer
 grallatory
 graveolence
 gonochoristic
