@@ -3860,7 +3860,6 @@ adiathermancy
 adiathermic
 adiathetic
 antiprism
-adiating
 adiation
 adib
 adibasi
@@ -6491,6 +6490,7 @@ astian
 agromyzid
 agromyzidae
 agron
+adiating
 agronome
 agronomy
 agronomial
