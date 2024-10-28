@@ -5690,7 +5690,6 @@ dephlogistication
 dephosphorization
 dephosphorize
 depickle
-depict
 depicted
 depicter
 descendents
@@ -11405,6 +11404,7 @@ discoactine
 documentation
 discoast
 discoblastic
+depict
 deriv
 digladiated
 discoblastula
