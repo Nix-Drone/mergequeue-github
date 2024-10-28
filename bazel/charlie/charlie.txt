@@ -7486,7 +7486,6 @@ ceratophrys
 changepocket
 crozier
 ceratopsian
-ceratopsid
 cutikin
 ceratopteridaceae
 ceratopteridaceous
@@ -8094,6 +8093,7 @@ chaetophora
 chaetophoraceae
 chaetophoraceous
 chaetophorous
+ceratopsid
 chaetopod
 chorizo
 caffein
