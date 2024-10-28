@@ -3985,7 +3985,6 @@ adjudge
 adjudgeable
 adjudger
 adjudges
-adjudging
 adjudicata
 appestat
 adjudicate
@@ -12139,6 +12138,7 @@ ancha
 anchat
 anchietin
 anchietine
+adjudging
 analysed
 anchieutectic
 anchylose
