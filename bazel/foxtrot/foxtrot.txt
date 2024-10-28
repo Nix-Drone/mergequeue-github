@@ -2327,7 +2327,6 @@ fencible
 fencings
 firehouse
 fend
-fended
 ferric
 fender
 fumarole
@@ -6725,6 +6724,7 @@ figworts
 fogfruit
 foretype
 feeders
+fended
 fogfruits
 fogger
 foggers
