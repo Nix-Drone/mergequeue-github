@@ -1847,7 +1847,6 @@ featured
 featureful
 featurelessness
 featurely
-featureliness
 flywheel
 ficoes
 freelancer
@@ -5603,6 +5602,7 @@ flightiness
 flightless
 forepassed
 frailest
+featureliness
 flights
 flightworthy
 flying
