@@ -8030,7 +8030,6 @@ forthteller
 forestaff
 forestaffs
 forestage
-forestay
 forestair
 fireplough
 forestays
@@ -10813,6 +10812,7 @@ fenchone
 fubs
 fubsy
 fubsiest
+forestay
 fucales
 ferntickle
 fucate
