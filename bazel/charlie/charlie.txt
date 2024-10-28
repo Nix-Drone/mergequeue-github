@@ -12061,7 +12061,6 @@ choruses
 chorusing
 chanceries
 crusca
-choruslike
 chorusmaster
 chorussed
 chorusses
@@ -16097,6 +16096,7 @@ clienteles
 cycloidian
 clientry
 clients
+choruslike
 crakes
 clyers
 calciums

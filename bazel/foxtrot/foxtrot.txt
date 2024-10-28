@@ -3525,7 +3525,6 @@ facebread
 figures
 figuresome
 flueman
-fconv
 foraneous
 figury
 fiddlers
@@ -8790,6 +8789,7 @@ fortunite
 fortunize
 followership
 fortuuned
+fconv
 forumize
 forvay
 forwalk
