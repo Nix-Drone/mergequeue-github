@@ -9180,7 +9180,6 @@ dyeings
 dieldrin
 decahedrodra
 dieldrins
-dyeleaves
 dielectric
 dielectrical
 dielectrically
@@ -16809,6 +16808,7 @@ delayage
 dardani
 drawboy
 drawbolt
+dyeleaves
 drawbore
 deare
 drawbored
