@@ -1959,7 +1959,6 @@ barramundas
 bandits
 banditti
 bandle
-bandleader
 bandless
 bejabers
 bodrag
@@ -9955,6 +9954,7 @@ bivane
 bivariant
 bivariate
 bivascular
+bandleader
 binodous
 bivector
 biventer
