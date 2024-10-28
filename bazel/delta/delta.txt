@@ -5155,7 +5155,6 @@ dendron
 drills
 dendrons
 dendrophagous
-dasyurid
 dendrophil
 dendrophile
 dendrophilous
@@ -13105,6 +13104,7 @@ display
 displayable
 displayed
 displayer
+dasyurid
 displaying
 displays
 defectology
