@@ -1592,7 +1592,6 @@ balletomania
 ballets
 ballfield
 ballflower
-ballgame
 ballgames
 ballgowns
 ballhausplatz
@@ -8744,6 +8743,7 @@ biloquist
 bilos
 biloxi
 bilsh
+ballgame
 bilskirnir
 bilsteds
 bembex
