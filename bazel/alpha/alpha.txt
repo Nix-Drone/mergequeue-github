@@ -7884,7 +7884,6 @@ arrivederci
 alerters
 alertest
 agrees
-alerting
 alertly
 alertness
 alerts
@@ -20197,6 +20196,7 @@ arrastra
 arrastre
 arratel
 arrau
+alerting
 arrear
 assiduously
 arrearage
