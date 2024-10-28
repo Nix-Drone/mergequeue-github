@@ -3889,6 +3889,7 @@ emforth
 emic
 emicant
 emicate
+exsertion
 emication
 emyde
 emydea
@@ -13468,7 +13469,6 @@ exsert
 exserted
 eikones
 exserting
-exsertion
 exserts
 exsheath
 exsibilation
