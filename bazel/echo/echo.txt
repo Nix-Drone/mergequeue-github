@@ -4340,7 +4340,6 @@ exothermic
 ectorganism
 encoop
 enabling
-enact
 enactable
 enacted
 enacting
@@ -7363,6 +7362,7 @@ eozoon
 eozoonal
 epa
 epacmaic
+enact
 eliciting
 enricher
 epacrid
