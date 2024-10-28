@@ -4748,7 +4748,6 @@ carri
 carry
 carriable
 carryable
-carriage
 carriageable
 carriageful
 carriages
@@ -8249,6 +8248,7 @@ cymbling
 chakobu
 chakra
 chakram
+carriage
 chakras
 chakravartin
 chaksi
