@@ -4179,7 +4179,6 @@ farness
 firedamp
 feezing
 firedamps
-firedog
 firedragon
 footnotes
 firedrake
@@ -6275,6 +6274,7 @@ ferocactus
 folkloristic
 feigning
 fluidacetextract
+firedog
 fluidally
 fluidextract
 fluidglycerate
