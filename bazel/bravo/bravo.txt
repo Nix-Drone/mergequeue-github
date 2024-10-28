@@ -13264,7 +13264,6 @@ botargos
 briquets
 botas
 botaurus
-beeswings
 botch
 botched
 botcher
@@ -17398,6 +17397,7 @@ bundler
 bona
 bundlerooted
 bundlers
+beeswings
 bundles
 bundlet
 ballons
