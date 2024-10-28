@@ -2410,7 +2410,6 @@ acidology
 acidometer
 archont
 acidometry
-acidophil
 acidophile
 acidophilic
 acidoses
@@ -4442,6 +4441,7 @@ adstipulation
 adstipulator
 adsum
 adterminal
+acidophil
 adtevac
 aduana
 adular
