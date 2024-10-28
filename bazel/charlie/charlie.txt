@@ -5780,7 +5780,6 @@ caterans
 caterbrawl
 catercap
 catercorner
-catercornered
 catercornerways
 catercousin
 catered
@@ -6293,6 +6292,7 @@ collencytal
 concessionaries
 caustify
 caustification
+catercornered
 caustified
 causus
 cautela
