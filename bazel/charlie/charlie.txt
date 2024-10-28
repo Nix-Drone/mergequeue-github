@@ -7219,7 +7219,6 @@ centrodorsal
 centroid
 centroidal
 centroids
-centrolecithal
 centrolepidaceae
 centrolepidaceous
 centrolinead
@@ -18060,6 +18059,7 @@ coenzymes
 coequal
 coequality
 coequalize
+centrolecithal
 coequally
 coequalness
 coequals
