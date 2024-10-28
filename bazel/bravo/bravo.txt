@@ -2557,7 +2557,6 @@ barfing
 blarny
 britzka
 barfish
-barfs
 bargain
 bargainable
 billbugs
@@ -7967,6 +7966,7 @@ bloodthirsty
 bowerlet
 bibliopegy
 bibliopegically
+barfs
 bibliopegistic
 bibliopegistical
 bibliophagous
