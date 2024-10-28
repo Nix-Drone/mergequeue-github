@@ -5764,7 +5764,6 @@ adnoun
 againbuy
 againsay
 against
-againstand
 amphidromia
 againward
 agal
@@ -15233,6 +15232,7 @@ antiexpressiveness
 antepredicament
 antiextreme
 antiface
+againstand
 antifaction
 antifame
 antifascism
