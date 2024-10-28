@@ -3024,6 +3024,7 @@ barrios
 boulevard
 beid
 barrister
+burstiness
 botts
 barristerial
 barristers
@@ -17888,7 +17889,6 @@ burst
 burster
 bursty
 baccies
-burstiness
 burstone
 bursts
 botein
