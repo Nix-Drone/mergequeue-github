@@ -1074,6 +1074,7 @@ freshening
 furriners
 farmable
 farmed
+filiety
 farmer
 farmeress
 farmery
@@ -3668,7 +3669,6 @@ furbisher
 filing
 filicology
 flan
-filiety
 fuci
 filiferous
 foreboard
