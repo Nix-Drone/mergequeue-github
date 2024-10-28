@@ -3418,7 +3418,6 @@ defleaed
 damnum
 defleas
 deflect
-driftfishes
 deflectable
 deflected
 deflecting
@@ -3588,6 +3587,7 @@ dolman
 defuzed
 dakoities
 defuzes
+driftfishes
 defuzing
 deg
 degage
