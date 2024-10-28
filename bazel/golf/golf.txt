@@ -2661,7 +2661,6 @@ geochronometry
 genear
 genecology
 genecologic
-gradienter
 genecological
 genecor
 griever
@@ -10470,6 +10469,7 @@ gunboats
 gemitores
 gunbuilder
 grannyknot
+gradienter
 guncotton
 greenbacks
 guiled

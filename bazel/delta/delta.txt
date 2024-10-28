@@ -3421,6 +3421,7 @@ deflect
 driftfishes
 deflectable
 deflected
+disintegrated
 deflecting
 deflectionization
 deflectionize
@@ -12495,7 +12496,6 @@ disintegrable
 disintegrant
 disintegrate
 disparately
-disintegrated
 disintegrates
 disjects
 disintegrating
