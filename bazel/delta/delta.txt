@@ -7088,7 +7088,6 @@ desulfurizer
 desulfurizing
 dynamometric
 desulphur
-desulphurate
 desulphurated
 desulphurating
 desulphuret
@@ -9410,6 +9409,7 @@ digeneous
 digenesis
 digenetic
 digenetica
+desulphurate
 digeny
 digenic
 digenite
