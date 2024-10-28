@@ -5260,7 +5260,6 @@ deliriums
 deess
 denotatively
 denotativeness
-denotatum
 denote
 denoted
 denotement
@@ -12891,6 +12890,7 @@ disorientate
 disorientates
 disorientating
 daywork
+denotatum
 dilutors
 disorientation
 disoriented
