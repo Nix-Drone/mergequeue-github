@@ -4144,7 +4144,6 @@ delim
 delimed
 delimes
 deliming
-delimit
 delimitate
 drogherman
 dihybrid
@@ -9681,6 +9680,7 @@ dilatedness
 disappears
 desolatingly
 dilatement
+delimit
 dilater
 dilaters
 dilates
