@@ -8629,7 +8629,6 @@ greekist
 garapata
 garoted
 glyph
-greekize
 greekless
 greekling
 geranials
@@ -8725,6 +8724,7 @@ greenstone
 gibeonite
 gauntree
 greensward
+greekize
 greenswarded
 greentail
 greenth
