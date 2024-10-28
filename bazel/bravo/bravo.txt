@@ -7294,7 +7294,6 @@ biotoxins
 beneficences
 broomsquire
 bestride
-bestrided
 bestrides
 bestriding
 bestrode
@@ -11652,6 +11651,7 @@ bobbinet
 bobbinets
 bobbing
 bobbinite
+bestrided
 bobbins
 bobbinwork
 bobbishly
