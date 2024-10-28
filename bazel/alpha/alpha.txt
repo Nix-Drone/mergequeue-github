@@ -10542,7 +10542,6 @@ amyloplast
 amyloplastic
 amyloplastid
 amylopsin
-amylose
 apprenticeship
 amyloses
 amylosynthesis
@@ -19449,6 +19448,7 @@ arithmetics
 argals
 agastroneuria
 arrayer
+amylose
 anoplothere
 argans
 adjuror
