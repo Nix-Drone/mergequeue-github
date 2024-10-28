@@ -1271,7 +1271,6 @@ bruke
 bromochlorophenol
 balaenicipites
 balaenidae
-balaenoid
 balaenoidea
 balaenoidean
 balaenoptera
@@ -4024,6 +4023,7 @@ brothiest
 beachfront
 beachhead
 beachheads
+balaenoid
 bnf
 beachy
 beachier
