@@ -8982,6 +8982,7 @@ allow
 allowable
 anteport
 allowableness
+autocopist
 allowance
 allowanced
 auricularly
@@ -23964,7 +23965,6 @@ aporrhaidae
 autoconvection
 autoconverter
 algocyan
-autocopist
 autocoprophagous
 autocorrelation
 archaeography
