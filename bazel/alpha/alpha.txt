@@ -10531,7 +10531,6 @@ amyloidoses
 amyloidosis
 amyloleucite
 amylolysis
-amylolytic
 amylom
 amylometer
 amylopectin
@@ -17827,6 +17826,7 @@ appliances
 appliant
 arenous
 applicability
+amylolytic
 applicabilities
 applicable
 androgonia
