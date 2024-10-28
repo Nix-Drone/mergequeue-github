@@ -5955,7 +5955,6 @@ fluidrachm
 floorward
 furniment
 forgivingly
-floorwise
 floosy
 floosies
 floozy
@@ -10363,6 +10362,7 @@ foxiness
 fimbrilla
 from
 funiculate
+floorwise
 foister
 fossarian
 folkmot
