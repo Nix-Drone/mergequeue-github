@@ -10401,7 +10401,6 @@ effacer
 ethmopalatal
 ethmopalatine
 ethmophysal
-ethmopresphenoidal
 ethmose
 ethmosphenoid
 epiphyllous
@@ -12088,6 +12087,7 @@ exclusionary
 eigenspace
 exclusioner
 epsilon
+ethmopresphenoidal
 exclusionism
 electroethereal
 ensalada
