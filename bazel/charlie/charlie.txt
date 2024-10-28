@@ -11642,7 +11642,6 @@ cholestene
 cholesteremia
 cholesteric
 cholesteryl
-cholesterin
 cholesterinemia
 chappow
 cholesterinic
@@ -27241,6 +27240,7 @@ czarowitch
 chokeweed
 coupes
 couping
+cholesterin
 couple
 coupled
 couplement
