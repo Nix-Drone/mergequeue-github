@@ -429,6 +429,7 @@ backpiece
 backplane
 backplanes
 backplate
+beknown
 backpointer
 backpointers
 backrest
@@ -3765,7 +3766,6 @@ basisolute
 battements
 battened
 battener
-beknown
 batteners
 battening
 battens
