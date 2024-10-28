@@ -1912,7 +1912,6 @@ banderlog
 banderma
 banderol
 banderole
-biochemical
 banderoled
 banderoles
 banders
@@ -2091,6 +2090,7 @@ buntings
 boardman
 bank
 bankalachi
+biochemical
 bankbooks
 bulanda
 baldachini
