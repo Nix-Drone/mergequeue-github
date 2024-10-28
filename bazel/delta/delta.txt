@@ -6073,7 +6073,6 @@ deputizes
 deputizing
 dequantitate
 dequeue
-dequeues
 dequeuing
 dropshots
 der
@@ -14126,6 +14125,7 @@ ditchdown
 ditched
 ditchers
 deathwards
+dequeues
 disproportionably
 derivatist
 ditchless
