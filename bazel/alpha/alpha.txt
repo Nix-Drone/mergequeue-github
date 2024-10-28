@@ -19172,7 +19172,6 @@ archrebel
 archregent
 archrepresentative
 archrobber
-archrogue
 archruler
 archsacrificator
 archsaint
@@ -23925,6 +23924,7 @@ autochemical
 autocholecystectomy
 autochrome
 autochromy
+archrogue
 autochronograph
 autochthon
 autochthonal
