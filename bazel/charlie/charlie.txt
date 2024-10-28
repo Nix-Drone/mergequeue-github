@@ -11222,7 +11222,6 @@ chlorates
 chimars
 chlorcosane
 chlordan
-chlordane
 chlordans
 chlore
 chlored
@@ -28764,6 +28763,7 @@ cresorcinol
 cresotate
 cresotic
 cresotinic
+chlordane
 cosec
 cresoxy
 cresoxid
