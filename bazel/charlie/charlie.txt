@@ -9718,7 +9718,6 @@ cribwork
 cheilodipteridae
 cheilodipterus
 cheiloplasty
-cheiloplasties
 cheilostomata
 cheilostomatous
 cheilotomy
@@ -10679,6 +10678,7 @@ chimesmaster
 chymia
 chymics
 chymiferous
+cheiloplasties
 chymify
 chymification
 chymified
