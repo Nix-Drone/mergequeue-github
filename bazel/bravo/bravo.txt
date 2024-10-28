@@ -2817,7 +2817,6 @@ bibliolater
 bobberies
 baroness
 baronesses
-baronet
 baronetage
 beswelter
 baronetcy
@@ -10864,6 +10863,7 @@ blindstories
 blindweed
 blindworm
 blinger
+baronet
 bliny
 blackamoor
 blackbeetle
