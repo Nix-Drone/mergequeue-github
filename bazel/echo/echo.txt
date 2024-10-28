@@ -1256,7 +1256,6 @@ educt
 economicalness
 examinability
 eductor
-eductors
 excursionists
 exstill
 environ
@@ -7709,6 +7708,7 @@ epicranius
 epicrasis
 epicrates
 epicrises
+eductors
 epicrisis
 eigenstate
 engagingly
