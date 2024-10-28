@@ -1781,7 +1781,6 @@ gastroduodenitis
 gastroduodenoscopy
 gastroduodenostomy
 gastroduodenotomy
-gastroelytrotomy
 gastroenteralgia
 gibson
 gastroenteric
@@ -3334,6 +3333,7 @@ gerbil
 gerbilles
 groutnoll
 gunbearer
+gastroelytrotomy
 gerbillus
 gerbils
 gourmands
