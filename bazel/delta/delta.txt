@@ -2660,6 +2660,7 @@ decomponible
 decurved
 decomposability
 decomposable
+discreetness
 decompose
 decomposed
 delphin
@@ -11728,7 +11729,6 @@ discreeter
 discreetest
 dermography
 discreetly
-discreetness
 discrepancy
 decremented
 dodecaphony
