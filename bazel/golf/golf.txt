@@ -2242,7 +2242,6 @@ gd
 gdinfo
 gds
 grayfish
-globously
 ge
 gorrel
 geadephaga
@@ -8463,6 +8462,7 @@ glucic
 gravid
 gravida
 gravidate
+globously
 grendel
 gravidation
 gravidly
