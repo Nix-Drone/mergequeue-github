@@ -8109,7 +8109,6 @@ boutell
 bicolours
 bicompact
 biconcave
-bidder
 bicone
 biconic
 boundlessness
@@ -8893,6 +8892,7 @@ binoculars
 bellarmine
 binode
 binodose
+bidder
 battery
 binomen
 balsamiferous
