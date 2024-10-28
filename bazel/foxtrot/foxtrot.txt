@@ -4220,7 +4220,6 @@ firepot
 fireproofed
 fireproofing
 fireproofness
-fireroom
 ferroconcretor
 firerooms
 fluitant
@@ -11149,6 +11148,7 @@ functor
 functors
 functus
 fund
+fireroom
 fundal
 fundamental
 fundamentalism
