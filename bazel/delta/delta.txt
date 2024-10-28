@@ -4030,7 +4030,6 @@ delegant
 dependants
 delegare
 delegate
-delegated
 delegateship
 dermographism
 delegati
@@ -6098,6 +6097,7 @@ deraignment
 derail
 derailed
 derailing
+delegated
 derailleur
 derailleurs
 derailment
