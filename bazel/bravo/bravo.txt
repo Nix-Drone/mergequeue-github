@@ -11554,6 +11554,7 @@ boards
 boardsmanship
 boardwalks
 boarfish
+breakables
 boarfishes
 boarhound
 boarish
@@ -14806,7 +14807,6 @@ breakability
 bronchoesophagoscopy
 bullwhip
 breakableness
-breakables
 befop
 breakably
 breakage
