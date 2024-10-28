@@ -2200,6 +2200,7 @@ electrican
 elbowroom
 elbows
 elcaja
+enchanter
 eld
 examination
 elder
@@ -4626,7 +4627,6 @@ enchancement
 extension
 enchanted
 euthycomic
-enchanter
 excitement
 enchantery
 enchanters
