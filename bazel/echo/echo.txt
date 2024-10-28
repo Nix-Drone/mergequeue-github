@@ -8302,7 +8302,6 @@ epistoma
 epistomal
 epistome
 epistropheal
-endolaryngeal
 epistropheus
 epit
 epitactic
@@ -8623,6 +8622,7 @@ equibiradiate
 equicaloric
 equicohesive
 equidurable
+endolaryngeal
 equicontinuous
 encompassing
 equicostate
