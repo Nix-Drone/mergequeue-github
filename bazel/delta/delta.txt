@@ -3603,6 +3603,7 @@ disguise
 definition
 degass
 degassed
+demotions
 degassing
 degauss
 degaussing
@@ -4999,7 +5000,6 @@ demote
 demoted
 demothball
 demotion
-demotions
 demotist
 demotists
 demount
