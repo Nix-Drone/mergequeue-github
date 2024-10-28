@@ -3808,7 +3808,6 @@ butterburr
 battakhin
 battlegrounds
 battlement
-battlements
 battlepiece
 battleplane
 barnstorms
@@ -4223,6 +4222,7 @@ bearpaw
 bearship
 bearskin
 bearskins
+battlements
 beartongue
 birdwatch
 bearward
