@@ -2151,7 +2151,6 @@ elastins
 elastivity
 elastomer
 enfamish
-elastomers
 elastometer
 elastometry
 endocrinopathy
@@ -3922,6 +3921,7 @@ epacme
 emilia
 emim
 eminence
+elastomers
 eminences
 eminencies
 eminent
