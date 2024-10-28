@@ -8352,7 +8352,6 @@ erebus
 enclosable
 epithecicia
 epistolizable
-epithecium
 epithelia
 epithelialize
 ejectives
@@ -12846,6 +12845,7 @@ exotheca
 exothecal
 exothecate
 exothecium
+epithecium
 exothermal
 exothermally
 exothermically
