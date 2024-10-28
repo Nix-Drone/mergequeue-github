@@ -5045,6 +5045,7 @@ endive
 eland
 endjunk
 evens
+examined
 endleaf
 endleaves
 endless
@@ -11784,7 +11785,6 @@ examinatory
 examinatorial
 examine
 excrescently
-examined
 examinee
 ethnolinguistics
 ectoproctan
