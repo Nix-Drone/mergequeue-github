@@ -1076,7 +1076,6 @@ farmable
 farmed
 farmer
 farmeress
-farmery
 filigraned
 farmeries
 farmerish
@@ -6826,6 +6825,7 @@ folded
 futtocks
 fado
 foldedly
+farmery
 folden
 fluorins
 folder
