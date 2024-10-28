@@ -4140,7 +4140,6 @@ delignification
 delilah
 deliliria
 decimalizing
-delim
 delimed
 delimes
 deliming
@@ -16233,6 +16232,7 @@ dowitcher
 doline
 dowitchers
 dares
+delim
 dowly
 designlessness
 dowment
