@@ -22749,7 +22749,6 @@ atomatic
 atomechanics
 atomerg
 atomy
-atomic
 atomical
 atomically
 atomician
@@ -24120,6 +24119,7 @@ autoimmunization
 autoimmunize
 autoimmunizing
 autoincrement
+atomic
 autoincrements
 autoindex
 autoindexing
