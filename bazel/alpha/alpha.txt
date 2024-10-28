@@ -1694,7 +1694,6 @@ accountant
 accountants
 accountantship
 accounted
-accounter
 accounters
 accounting
 accountment
@@ -24820,6 +24819,7 @@ avocat
 avocate
 antidrag
 avocation
+accounter
 avocationally
 aud
 avocations
