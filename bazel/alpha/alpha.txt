@@ -3856,7 +3856,6 @@ articles
 adiate
 adiated
 adiathermal
-adiathermancy
 adiathermic
 adiathetic
 antiprism
@@ -12037,6 +12036,7 @@ anathematize
 anathematized
 anathematizer
 anathematizes
+adiathermancy
 anathematizing
 anatidae
 anatifa
