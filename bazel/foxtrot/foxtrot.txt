@@ -4969,7 +4969,6 @@ flanked
 flanker
 flankers
 falconries
-fringilliform
 fireshaft
 flanking
 flanks
@@ -6209,6 +6208,7 @@ frowstiness
 flucan
 fluctiferous
 furbished
+fringilliform
 fibroareolar
 flayers
 fulling
