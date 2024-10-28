@@ -4719,7 +4719,6 @@ aeciostage
 abr
 aecioteliospore
 aecium
-aedeagal
 aedeagi
 aedeagus
 aedegi
@@ -13764,6 +13763,7 @@ anomalously
 anomalousness
 anomaluridae
 anomalurus
+aedeagal
 anomatheca
 anomer
 anomy
