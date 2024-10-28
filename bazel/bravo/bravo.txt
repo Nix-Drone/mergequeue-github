@@ -2168,7 +2168,6 @@ bannerlike
 bannerline
 bannerman
 bannermen
-bannerole
 bannerols
 bannerwise
 bannet
@@ -7994,6 +7993,7 @@ bibliotaph
 bibliotaphe
 bibliothecae
 bibliothecary
+bannerole
 bibliothecarian
 bibliothecas
 bibliotheke

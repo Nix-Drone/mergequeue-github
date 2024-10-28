@@ -3625,6 +3625,7 @@ flagships
 filespec
 forficula
 fossores
+fibdom
 fileting
 floatboard
 fylfot
@@ -11730,7 +11731,6 @@ futurologist
 futurologists
 filibustered
 futwa
-fibdom
 fuze
 fuzed
 fuzees
