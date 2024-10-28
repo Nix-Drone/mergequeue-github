@@ -548,7 +548,6 @@ backtender
 backtenter
 backtrack
 backtracked
-backtracker
 backtracking
 backtracks
 backtrail
@@ -13442,6 +13441,7 @@ bouche
 bouchee
 beseeching
 boucher
+backtracker
 bouchette
 bouchon
 bouchons
