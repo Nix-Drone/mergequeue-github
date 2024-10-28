@@ -628,7 +628,6 @@ forelimb
 falsifiability
 fannon
 falsifiable
-falsificate
 falsification
 falsifications
 falsificator
@@ -10834,6 +10833,7 @@ flowcharting
 foreign
 flank
 fuchsite
+falsificate
 fuchsone
 fucinita
 fucus
