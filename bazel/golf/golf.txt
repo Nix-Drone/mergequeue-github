@@ -3126,7 +3126,6 @@ geomagnetist
 gravamen
 geomaly
 geomalic
-geomancer
 geomancy
 garnered
 gripes
@@ -8446,6 +8445,7 @@ graves
 gravest
 gravestead
 gan
+geomancer
 grallatory
 graveolence
 gonochoristic
