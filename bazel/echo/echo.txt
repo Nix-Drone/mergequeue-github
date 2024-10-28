@@ -8105,7 +8105,6 @@ easing
 epiphytotic
 epiphytous
 epiphloedal
-epiphloeum
 epiphonema
 epiphonemae
 epiphonemas
@@ -8630,6 +8629,7 @@ egrets
 equicurve
 equid
 equidiagonal
+epiphloeum
 equidifferent
 equidimensional
 equidist
