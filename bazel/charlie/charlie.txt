@@ -12575,7 +12575,6 @@ chronics
 chronique
 chronisotherm
 chronist
-chronobarometer
 chronobiology
 chronocarator
 chronocyclegraph
@@ -14410,6 +14409,7 @@ circumferent
 circumrenal
 circumrotate
 circumrotated
+chronobarometer
 circumrotation
 circumrotatory
 circumsail
