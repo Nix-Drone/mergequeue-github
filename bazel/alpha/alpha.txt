@@ -2873,7 +2873,6 @@ acrochordidae
 acrochordinae
 acrochordon
 acrocyanosis
-acrocyst
 achenocarp
 acrock
 acrospore
@@ -21386,6 +21385,7 @@ antimark
 aspergilliform
 anatira
 aspergillin
+acrocyst
 arteriogram
 aspergilloses
 aspergillosis
