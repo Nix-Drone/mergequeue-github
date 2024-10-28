@@ -2740,7 +2740,6 @@ barmaids
 barman
 barmaster
 barmbrack
-barmcloth
 brither
 barmecide
 barmen
@@ -9186,6 +9185,7 @@ beavered
 biosociological
 bloodguilty
 biosome
+barmcloth
 byon
 biospeleology
 biosphere
