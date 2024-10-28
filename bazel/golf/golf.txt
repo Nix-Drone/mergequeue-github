@@ -1528,7 +1528,6 @@ garrisons
 garrnishable
 garron
 garroo
-garroted
 garroters
 garrotes
 goldweed
@@ -4007,6 +4006,7 @@ glossocarcinoma
 gimbaling
 gibbergunyah
 gaumlike
+garroted
 gigartinaceous
 gekkonidae
 gigartinales
