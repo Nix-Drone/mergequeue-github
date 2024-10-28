@@ -4921,7 +4921,6 @@ garderobe
 giver
 givers
 gladeye
-gyves
 giveth
 givin
 glaux
@@ -10262,6 +10261,7 @@ guisarme
 guise
 guised
 guitar
+gyves
 guitarist
 gnathions
 guitarists
