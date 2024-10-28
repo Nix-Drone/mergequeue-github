@@ -6225,7 +6225,6 @@ aspartokinase
 aglossa
 aglossal
 aglossia
-aglow
 aglucon
 aglucone
 agma
@@ -20562,6 +20561,7 @@ arthrectomy
 arthredema
 arthresthesia
 arthritic
+aglow
 arrased
 arthritical
 afterswarm
