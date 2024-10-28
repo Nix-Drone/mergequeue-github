@@ -500,7 +500,6 @@ assmannshauser
 abjudication
 abjudicator
 abjugate
-abjunct
 abjunction
 abjunctive
 abjuration
@@ -12137,6 +12136,7 @@ ancestries
 allodge
 ancha
 anchat
+abjunct
 anchietin
 anchietine
 analysed
