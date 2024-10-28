@@ -3125,7 +3125,6 @@ fibrocellular
 fibrocement
 fibrochondrosteal
 fibrocyst
-fibrocystoma
 fibrocyte
 fibrocytic
 floatiness
@@ -8896,6 +8895,7 @@ flamefish
 fossor
 fossoria
 fossorious
+fibrocystoma
 fossula
 fossulae
 fossulate
