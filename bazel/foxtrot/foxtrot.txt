@@ -2993,7 +2993,6 @@ fillmass
 feverously
 feverroot
 fevertwig
-fevertwitch
 feverwort
 few
 fewest
@@ -10028,6 +10027,7 @@ frieseite
 friesian
 farrow
 fiberizes
+fevertwitch
 fleshhook
 friezer
 frigage
