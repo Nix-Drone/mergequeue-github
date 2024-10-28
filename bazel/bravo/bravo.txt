@@ -4711,6 +4711,7 @@ bedframes
 bedgoer
 bedgowns
 bediademed
+biacid
 bediamonded
 bediaper
 bediapered
@@ -7823,7 +7824,6 @@ bi
 biabo
 biacetyl
 biacetyls
-biacid
 bozal
 biacromial
 biacuminate
