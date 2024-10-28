@@ -2961,7 +2961,6 @@ blind
 barrelhead
 barrelhouse
 barrelhouses
-besmearer
 barreling
 broad
 barrelled
@@ -4679,6 +4678,7 @@ bedecking
 bedecks
 bedecorate
 bedegar
+besmearer
 bedeguar
 bedehouse
 bedehouses
