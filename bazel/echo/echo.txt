@@ -4182,7 +4182,6 @@ estado
 employed
 employee
 employees
-employer
 exedral
 employers
 employment
@@ -10705,6 +10704,7 @@ eudaemon
 eudaemony
 eyefuls
 eudaemonical
+employer
 etiologic
 ecosystem
 eudaemonics
