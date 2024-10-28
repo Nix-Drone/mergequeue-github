@@ -12667,7 +12667,6 @@ booklore
 bhavan
 bioecologic
 backtrackers
-booklores
 booklouse
 booklover
 bookmaker
@@ -16499,6 +16498,7 @@ brans
 bylander
 btl
 btry
+booklores
 btu
 bu
 buat
