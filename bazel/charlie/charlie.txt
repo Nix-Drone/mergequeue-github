@@ -6195,7 +6195,6 @@ caulomer
 caulomic
 chevet
 caulophylline
-caulophyllum
 caulopteris
 caulosarc
 caulotaxy
@@ -14232,6 +14231,7 @@ circulars
 circulatable
 circulated
 circulates
+caulophyllum
 circulation
 circulations
 circulative
