@@ -3178,7 +3178,6 @@ arrhythmical
 actinostome
 actinotherapeutics
 actinotherapy
-actinotoxemia
 actinotrichium
 actinotrocha
 actinouranium
@@ -6320,6 +6319,7 @@ agonise
 axillas
 agonised
 agonises
+actinotoxemia
 agonist
 agonistarch
 antiaris
