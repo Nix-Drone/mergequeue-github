@@ -7160,7 +7160,6 @@ endoenzyme
 envelopment
 ety
 envelopments
-entailing
 envelops
 envenom
 envenomed
@@ -9405,6 +9404,7 @@ epithymetic
 eructating
 eructation
 eructative
+entailing
 erring
 eruction
 eructs
