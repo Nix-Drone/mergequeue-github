@@ -2565,6 +2565,7 @@ bargainee
 bargainer
 bargaining
 bargainor
+bounceably
 bargander
 bumptiously
 barge
@@ -13528,7 +13529,6 @@ boulter
 boulterer
 bounce
 bounceable
-bounceably
 beslipper
 bounceback
 bounced
