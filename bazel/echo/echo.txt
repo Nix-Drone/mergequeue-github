@@ -3947,7 +3947,6 @@ earthquaked
 emissory
 emitted
 emittent
-emitter
 emitting
 emlen
 emma
@@ -7991,6 +7990,7 @@ epimeres
 epimeric
 epimeride
 epimerism
+emitter
 enorganic
 exhaustibility
 epimeritic
