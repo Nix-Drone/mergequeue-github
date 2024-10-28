@@ -4858,6 +4858,7 @@ brazenface
 baikerinite
 beshrouded
 bedstraw
+bottoms
 bedstraws
 bedstring
 bedswerver
@@ -13414,7 +13415,6 @@ bottomry
 benefic
 bottomried
 bottomrying
-bottoms
 bottstick
 bottu
 barrelsful
