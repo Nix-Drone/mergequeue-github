@@ -11061,6 +11061,7 @@ chitchatty
 chitchatting
 chithe
 chitimacha
+corrosive
 chitimachan
 checksums
 chitin
@@ -25766,7 +25767,6 @@ corrosibility
 corrosibleness
 corrosional
 corrosionproof
-corrosive
 corrosived
 corrosively
 corrosiveness
