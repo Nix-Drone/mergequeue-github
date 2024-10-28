@@ -4922,7 +4922,6 @@ endable
 endamage
 endamageable
 endamagement
-endamages
 endamaging
 endameba
 endamebae
@@ -12674,6 +12673,7 @@ exoenzyme
 expulsory
 exogamic
 exogamous
+endamages
 exogastrically
 exogastritis
 exogen
