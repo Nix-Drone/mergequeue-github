@@ -5668,7 +5668,6 @@ flintlock
 fellatios
 flintwood
 flintworker
-flyoff
 flyover
 flyovers
 fustanella
@@ -11515,6 +11514,7 @@ furstone
 falcunculus
 foresightedly
 furtherance
+flyoff
 freelancing
 furtherer
 floodlet
