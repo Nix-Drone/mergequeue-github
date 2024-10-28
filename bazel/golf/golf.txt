@@ -4587,7 +4587,6 @@ gyppo
 gips
 gyp
 gyps
-gipseian
 gipser
 gipsy
 gypsy
@@ -8455,6 +8454,7 @@ gravewards
 gaskins
 gourmand
 gravicembali
+gipseian
 gravicembalo
 gravicembalos
 garrotter
