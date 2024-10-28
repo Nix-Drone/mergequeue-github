@@ -1398,7 +1398,6 @@ extraocular
 effervesced
 effervescence
 effervescency
-effervescent
 effervescently
 effervesces
 effervescing
@@ -13122,6 +13121,7 @@ expiree
 expirer
 expirers
 expires
+effervescent
 enacture
 euploidies
 expiry
