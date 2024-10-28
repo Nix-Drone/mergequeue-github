@@ -6692,7 +6692,6 @@ buoyance
 bergeret
 bergfall
 benefactions
-berggylt
 bibliographical
 burstwort
 bergh
@@ -16381,6 +16380,7 @@ bruscha
 brush
 brushability
 brushable
+berggylt
 brushback
 brushbird
 brushcut
