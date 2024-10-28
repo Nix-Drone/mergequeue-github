@@ -2691,6 +2691,7 @@ barken
 beknights
 barkentine
 barkentines
+biotypic
 barker
 barkery
 barkevikite
@@ -9221,7 +9222,6 @@ bruted
 biotins
 biotype
 biotypes
-biotypic
 biotypology
 biotite
 biotites
