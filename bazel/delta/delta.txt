@@ -2561,7 +2561,6 @@ declivous
 declutch
 deco
 decoagulated
-dorms
 decoagulation
 decoat
 downsinking
@@ -6697,6 +6696,7 @@ declared
 desilvered
 desilvering
 desilverization
+dorms
 desilverizer
 desilverizing
 desilvers
