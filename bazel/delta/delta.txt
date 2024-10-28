@@ -2544,6 +2544,7 @@ declinature
 decline
 declined
 decliner
+demicylindrical
 djalmaite
 declines
 declining
@@ -16664,7 +16665,6 @@ draying
 drailed
 drailing
 drails
-demicylindrical
 drayman
 draymen
 devests
