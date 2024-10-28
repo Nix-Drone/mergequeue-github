@@ -4659,7 +4659,6 @@ bedcord
 byplays
 bedcovers
 beddable
-bedders
 bedding
 beddingroll
 beddings
@@ -12975,6 +12974,7 @@ boreable
 boread
 boreal
 borealis
+bedders
 branchedness
 borean
 boreas
