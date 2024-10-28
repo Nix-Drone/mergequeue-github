@@ -1161,7 +1161,6 @@ barrenest
 bait
 burgality
 baited
-baiter
 baiters
 baitfish
 baith
@@ -11378,6 +11377,7 @@ bluepoints
 blueprint
 blues
 bluesy
+baiter
 bluesides
 bluesman
 bluesmen
