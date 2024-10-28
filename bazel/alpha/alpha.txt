@@ -3575,6 +3575,7 @@ adduce
 adduceable
 adduced
 adducent
+anthelices
 adducer
 adducers
 ancestrally
@@ -14327,7 +14328,6 @@ alegars
 anthela
 anthelae
 anthelia
-anthelices
 anthelion
 anthelions
 anthelix
