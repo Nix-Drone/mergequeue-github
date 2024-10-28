@@ -7373,7 +7373,6 @@ cephalophyma
 cephalophine
 cephalophus
 cephaloplegia
-cephaloplegic
 cephalopod
 cephalopoda
 cephalopodan
@@ -14114,6 +14113,7 @@ cyprina
 candied
 cyprine
 cyprinidae
+cephaloplegic
 cyprinids
 cypriniform
 cyprinin
