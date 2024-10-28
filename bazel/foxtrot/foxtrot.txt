@@ -557,7 +557,6 @@ fallace
 feltlike
 foretalk
 fidalgo
-flyability
 fallage
 fallals
 fallaway
@@ -11563,6 +11562,7 @@ fuscin
 fuscohyaline
 fuscous
 fuseau
+flyability
 fistic
 fuseboard
 fused
