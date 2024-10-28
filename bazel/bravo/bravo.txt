@@ -4529,7 +4529,6 @@ beclowned
 burlier
 beclowning
 becluster
-becollier
 becolme
 becolor
 becombed
@@ -4863,6 +4862,7 @@ bedstring
 bedswerver
 bedtick
 bedticks
+becollier
 bices
 bate
 bedtime
