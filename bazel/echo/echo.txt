@@ -4607,7 +4607,6 @@ externize
 encephalothlipsis
 encephalotome
 encephalotomy
-encephalotomies
 earths
 encephalous
 embeggar
@@ -13248,6 +13247,7 @@ explosions
 explosively
 explosiveness
 explosives
+encephalotomies
 expo
 electromyograph
 eloquentness
