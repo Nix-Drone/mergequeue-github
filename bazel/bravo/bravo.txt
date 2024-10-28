@@ -3408,7 +3408,6 @@ baculum
 bassalian
 bassan
 bicarbonate
-bassanite
 bassara
 bassariscus
 bassarisk
@@ -6282,6 +6281,7 @@ benighted
 benightedness
 besiren
 benighter
+bassanite
 benightment
 benign
 benignancy
