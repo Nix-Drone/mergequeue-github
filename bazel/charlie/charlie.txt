@@ -18184,7 +18184,6 @@ coffeehousing
 coffeeleaf
 coffeeman
 coffeepot
-coffeepots
 coffeeroom
 coffees
 counterview
@@ -28107,6 +28106,7 @@ craniotabes
 craniotomy
 craniotomies
 craniotopography
+coffeepots
 craniovertebral
 cranium
 craniums
