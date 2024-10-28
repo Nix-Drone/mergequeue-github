@@ -15200,7 +15200,6 @@ cladistic
 cladocarpous
 camelot
 cladocera
-cladoceran
 cladocerans
 cladocerous
 cladodial
@@ -28906,6 +28905,7 @@ cricetidae
 cricetids
 cricetus
 crick
+cladoceran
 cricked
 crickey
 cricket
