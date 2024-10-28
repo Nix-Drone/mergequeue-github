@@ -18695,7 +18695,6 @@ arced
 arces
 arceuthobium
 arcform
-arch
 archabomination
 archae
 archaean
@@ -24505,6 +24504,7 @@ auxesis
 auxetic
 auxil
 antacids
+arch
 auxiliar
 auxiliary
 agriology
