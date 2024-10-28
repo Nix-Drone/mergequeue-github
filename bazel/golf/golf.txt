@@ -5696,7 +5696,6 @@ globs
 grumps
 globular
 glossolabial
-gconvert
 ganch
 genuflector
 globularia
@@ -10026,6 +10025,7 @@ guelf
 guelph
 guelphish
 gastrins
+gconvert
 greasing
 goalers
 gook
