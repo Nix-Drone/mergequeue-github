@@ -5592,7 +5592,6 @@ fligged
 fligger
 feodum
 flight
-flighted
 flighter
 flightful
 flighty
@@ -9837,6 +9836,7 @@ frenchman
 floatable
 frenchmen
 flycaster
+flighted
 fevery
 frenchness
 finders
