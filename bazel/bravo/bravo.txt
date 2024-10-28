@@ -5637,7 +5637,6 @@ bindweeds
 blarina
 belate
 belated
-belatedness
 belating
 belaud
 belauded
@@ -8123,6 +8122,7 @@ bicorn
 buccinae
 bombyx
 bicornate
+belatedness
 bicorne
 bicorned
 bicornes
