@@ -1343,6 +1343,7 @@ gome
 garbles
 graveldiver
 goodship
+gilder
 grex
 garbline
 garbling
@@ -4107,7 +4108,6 @@ gild
 gildable
 gildedness
 gilden
-gilder
 grewhound
 gildhall
 gorgeously
