@@ -2874,7 +2874,6 @@ bitis
 barothermograph
 barothermohygrograph
 baroto
-barotrauma
 bulgurs
 barotraumas
 barotraumata
@@ -4425,6 +4424,7 @@ becalm
 becalming
 becalmment
 becalms
+barotrauma
 becap
 becapping
 brassylic
