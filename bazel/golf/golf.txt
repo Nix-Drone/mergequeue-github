@@ -2634,6 +2634,7 @@ genae
 genal
 genapp
 gasking
+geochemist
 gater
 genapping
 genarch
@@ -3889,7 +3890,6 @@ gibbosity
 gibbosities
 gibbous
 gibbousness
-geochemist
 gibbsite
 gruffer
 geotactic

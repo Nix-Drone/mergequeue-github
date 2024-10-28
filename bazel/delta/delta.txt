@@ -8832,7 +8832,6 @@ decolor
 diceboard
 dicebox
 dicecup
-debituminize
 dicey
 diceman
 dicentra
@@ -16735,6 +16734,7 @@ dramming
 distributedly
 duchesses
 drammocks
+debituminize
 drams
 dramseller
 differentiations
