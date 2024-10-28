@@ -11089,7 +11089,6 @@ disasinize
 disassemble
 dourade
 disassembled
-disassembler
 disassembles
 descriptors
 disassembling
@@ -17023,6 +17022,7 @@ dirtiness
 dasher
 dressed
 doorlike
+disassembler
 deripia
 dilettantes
 dressership
