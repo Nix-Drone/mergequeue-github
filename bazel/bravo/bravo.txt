@@ -554,6 +554,7 @@ backtracks
 backtrail
 backups
 backus
+beefsteak
 backveld
 backvelder
 backway
@@ -4951,7 +4952,6 @@ beefishness
 beefless
 buttonmould
 bristle
-beefsteak
 beefsteaks
 beeftongue
 beefwood
