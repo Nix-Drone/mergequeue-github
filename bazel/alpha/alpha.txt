@@ -5022,7 +5022,6 @@ aerometric
 aeromotor
 aeronat
 aeronaut
-aeronautic
 amazona
 aeronautical
 aeronautically
@@ -19222,6 +19221,7 @@ apheliotropism
 arcking
 arclength
 apennine
+aeronautic
 antiars
 autolyzes
 arclike
