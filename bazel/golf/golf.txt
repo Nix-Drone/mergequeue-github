@@ -1375,7 +1375,6 @@ gardenin
 gardening
 gardenless
 gardenly
-gardenlike
 grume
 gardenmaking
 gardens
@@ -4612,6 +4611,7 @@ gradate
 gablelike
 gypsyhood
 glycogenous
+gardenlike
 grammontine
 gipsying
 gastrostaxis
