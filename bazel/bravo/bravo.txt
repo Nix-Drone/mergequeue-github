@@ -3000,6 +3000,7 @@ baryes
 brei
 barrette
 barricader
+bronze
 barricaders
 barricades
 bedplates
@@ -16052,7 +16053,6 @@ brontothere
 brontotherium
 brontozoum
 bronx
-bronze
 bronzed
 beedom
 bronzelike
