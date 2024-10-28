@@ -2234,6 +2234,7 @@ feltmaking
 feltman
 foulard
 foredeep
+footraces
 feltmonger
 felts
 feltwort
@@ -7237,7 +7238,6 @@ footpounds
 flanderkin
 footprint
 flocculating
-footraces
 footrest
 footrests
 footrope
