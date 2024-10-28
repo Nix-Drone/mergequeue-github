@@ -6719,7 +6719,6 @@ fogbound
 fogbow
 flyblow
 fogdogs
-fairways
 fogdom
 figworts
 fogfruit
@@ -10639,6 +10638,7 @@ fructifies
 fructifying
 furfurals
 fructiform
+fairways
 fructivorous
 fructokinase
 folliculin
