@@ -5865,6 +5865,7 @@ deposits
 depositum
 daimon
 doumaist
+dispells
 decasualise
 deposure
 depot
@@ -12966,7 +12967,6 @@ dispelled
 diplomyelia
 dispeller
 dorsimedian
-dispells
 dispels
 decliners
 danegeld
