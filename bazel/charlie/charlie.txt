@@ -11292,6 +11292,7 @@ chloro
 chloroacetic
 chloroacetone
 chloroacetophenone
+countervalue
 chloroamide
 chloroamine
 chloroaurate
@@ -27159,7 +27160,6 @@ countervails
 countervair
 countervairy
 countervallation
-countervalue
 countervaunt
 coxarthrocace
 countervenom
