@@ -9157,6 +9157,7 @@ dyeability
 dyeable
 ditriglyph
 dieb
+dost
 diebacks
 dyebeck
 diecase
@@ -15911,7 +15912,6 @@ dossman
 dormition
 devilwood
 dossmen
-dost
 dostoevsky
 dyssystole
 dewaxes
