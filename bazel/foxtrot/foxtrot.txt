@@ -4149,6 +4149,7 @@ firebombs
 forestery
 fireboot
 firebox
+fanterie
 frogflower
 familiarism
 foreaccounting
@@ -5076,7 +5077,6 @@ fructure
 flashtube
 flashtubes
 fusobteria
-fanterie
 flask
 ferricyanhydric
 flasker
