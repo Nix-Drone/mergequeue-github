@@ -590,7 +590,6 @@ airscrew
 ashlers
 abn
 abnaki
-abnegate
 abnegated
 abnegates
 abnegating
@@ -3553,6 +3552,7 @@ addoom
 abracadabra
 addossed
 addr
+abnegate
 address
 addressability
 allotheistic
