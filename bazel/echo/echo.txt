@@ -5606,7 +5606,6 @@ enfollow
 enfoncee
 ephemerae
 enforceability
-enforced
 enforcement
 extranatural
 enlisters
@@ -6407,6 +6406,7 @@ electroplaque
 ensigncies
 ensigned
 entranceway
+enforced
 ensignhood
 ensilaged
 ensilages
