@@ -19902,6 +19902,7 @@ commandable
 conveyable
 commandant
 commandatory
+counterapse
 commanded
 commandedness
 commandeer
@@ -26652,7 +26653,6 @@ counterannouncement
 counteranswer
 counterappellant
 counterapproach
-counterapse
 counterarch
 counterargument
 costumist
