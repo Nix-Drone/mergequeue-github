@@ -1909,7 +1909,6 @@ gastrostomus
 gastrotaxis
 gastrothecal
 gastrotome
-gastrotomy
 gastrotomic
 gastrotubotomy
 gastrovascular
@@ -3071,6 +3070,7 @@ grebes
 geoemtry
 gravitic
 geoffrey
+gastrotomy
 gollop
 geoffroyin
 gekko
