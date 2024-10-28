@@ -8585,6 +8585,7 @@ berun
 bilineate
 bilineated
 bylined
+byth
 billfold
 byliner
 bylines
@@ -13326,7 +13327,6 @@ bothsided
 bothsidedness
 boththridia
 bothway
-byth
 botling
 botocudo
 botoyan
