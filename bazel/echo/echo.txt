@@ -2601,7 +2601,6 @@ electropower
 electropsychrometer
 egotisticalness
 electropult
-electropuncturation
 electropuncture
 electroreceptive
 electroreduction
@@ -8008,6 +8007,7 @@ epimysia
 eteocreton
 epimyth
 embower
+electropuncturation
 epimorphism
 epimorphosis
 eleutheromania
