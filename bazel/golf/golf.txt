@@ -5976,6 +5976,7 @@ grain
 glovemaker
 gametes
 gloveman
+geodic
 glover
 gloves
 glow
@@ -6439,7 +6440,6 @@ gobbles
 gobbling
 gobelin
 gobet
-geodic
 ganglander
 gamogenetic
 goby
