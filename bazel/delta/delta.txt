@@ -12970,7 +12970,6 @@ dispells
 dispels
 decliners
 danegeld
-dispence
 direly
 dispend
 dispended
@@ -14142,6 +14141,7 @@ ditetragonal
 ditetrahedral
 dithalous
 dithecal
+dispence
 ditheisms
 ditheist
 ditheistic
