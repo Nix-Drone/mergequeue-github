@@ -2692,6 +2692,7 @@ beknights
 barkentine
 barkentines
 barker
+bihourly
 barkery
 barkevikite
 barkevikitic
@@ -8456,7 +8457,6 @@ bihari
 biharmonic
 barbells
 bihydrazine
-bihourly
 bija
 bijasal
 bijections
