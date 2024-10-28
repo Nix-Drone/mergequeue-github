@@ -2684,7 +2684,6 @@ endomycetaceae
 electrothermometer
 electrothermostatic
 electrothermotic
-electrotype
 electrotyped
 electrotypes
 electrotypy
@@ -8243,6 +8242,7 @@ epignathous
 evaluable
 epispermic
 epispinal
+electrotype
 episplenitis
 epispore
 equivalently
