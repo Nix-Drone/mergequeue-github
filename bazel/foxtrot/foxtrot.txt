@@ -6280,6 +6280,7 @@ fluidextract
 fluidglycerate
 fluidible
 forcepslike
+fossilizable
 fluidic
 fosslology
 forint
@@ -8878,7 +8879,6 @@ flowages
 frameableness
 fossilism
 fossilist
-fossilizable
 fossilized
 fossilizing
 furcular
