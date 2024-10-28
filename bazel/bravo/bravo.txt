@@ -2008,7 +2008,6 @@ bandspreading
 bandstand
 bandstands
 bandster
-ballroom
 bandstop
 bandstring
 bandura
@@ -7433,6 +7432,7 @@ bashilange
 busked
 betide
 betided
+ballroom
 betides
 bourgeoise
 bego
