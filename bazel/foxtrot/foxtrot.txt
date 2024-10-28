@@ -1468,7 +1468,6 @@ fatalize
 frederick
 fatstock
 fatstocks
-fatted
 fatten
 fattenable
 fragilaria
@@ -3084,6 +3083,7 @@ fibrefill
 fibreless
 fibres
 fibril
+fatted
 fairily
 fluorin
 fibrilated
