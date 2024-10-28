@@ -9560,6 +9560,7 @@ commonize
 checkrack
 checkrail
 checkrein
+considerance
 checkroll
 checkroom
 compathy
@@ -22867,7 +22868,6 @@ celesta
 considerableness
 considerably
 coalizing
-considerance
 considerate
 consideration
 considerations
