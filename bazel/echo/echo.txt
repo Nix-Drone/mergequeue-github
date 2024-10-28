@@ -2438,7 +2438,6 @@ electroform
 electroforming
 electrofusion
 ethanol
-electrogalvanization
 electrogenetic
 epichlorohydrin
 electrogenic
@@ -8281,6 +8280,7 @@ exulcerate
 epistle
 epistler
 everness
+electrogalvanization
 epistlers
 eclat
 epistolarian
