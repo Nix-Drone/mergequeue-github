@@ -5434,7 +5434,6 @@ endshake
 endsheet
 everglade
 execrates
-endue
 exploration
 enduing
 endura
@@ -12531,6 +12530,7 @@ exigency
 exigencies
 epi
 exigent
+endue
 escortment
 exigenter
 exigently
