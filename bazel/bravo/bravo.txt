@@ -5418,7 +5418,6 @@ behalves
 behammer
 behang
 behap
-behav
 behave
 behaved
 behaver
@@ -5553,6 +5552,7 @@ blockline
 bejewelled
 barricading
 bejewelling
+behav
 bejewels
 backstamp
 beadhouses
