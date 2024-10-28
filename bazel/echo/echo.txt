@@ -299,7 +299,6 @@ eatable
 eatables
 electrolyzability
 eatberry
-eaten
 emetophobia
 empeirema
 espousers
@@ -10468,6 +10467,7 @@ ethnology
 ethnologic
 ethnological
 ethnologically
+eaten
 ethnologist
 ethnologists
 ethnomanic
