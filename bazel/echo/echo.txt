@@ -5279,7 +5279,6 @@ endorsable
 eater
 entopterygoid
 endorsation
-endorsed
 endorsee
 endorsees
 endere
@@ -13841,6 +13840,7 @@ extradotal
 extraembryonal
 extraembryonic
 extraequilibrium
+endorsed
 extraessential
 extrafascicular
 extrafine
