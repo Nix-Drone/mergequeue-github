@@ -1527,7 +1527,6 @@ garrisonism
 garrisons
 garrnishable
 garron
-garroo
 garroted
 garroters
 garrotes
@@ -3267,6 +3266,7 @@ geotectonics
 geoteuthis
 gomeril
 geotherm
+garroo
 gadbush
 geothermally
 geothermic
