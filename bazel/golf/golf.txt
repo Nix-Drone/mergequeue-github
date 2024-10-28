@@ -500,7 +500,6 @@ ganglia
 galeodidae
 galeoid
 gnapweed
-galeopsis
 glossoncus
 galeorchis
 goner
@@ -1811,6 +1810,7 @@ gastrohelcosis
 gastrohepatitis
 gastrohyperneuria
 gordioidea
+galeopsis
 gastrohypertonic
 glinted
 geodetically
