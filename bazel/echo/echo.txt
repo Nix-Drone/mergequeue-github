@@ -5135,7 +5135,6 @@ etatisms
 endocrinology
 endocrinologic
 endocrinological
-endocrinologies
 endocrinologist
 endocrinopath
 ecphasis
@@ -6217,6 +6216,7 @@ extraphysiological
 enplanes
 enquarter
 enqueue
+endocrinologies
 entered
 enqueued
 enquicken
