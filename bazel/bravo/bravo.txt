@@ -7568,7 +7568,6 @@ beurre
 bevaring
 bevatron
 beveil
-beveled
 bevelers
 blastophore
 beveling
@@ -16048,6 +16047,7 @@ brontosaurs
 brontosaurus
 brontosauruses
 brontoscopy
+beveled
 brontothere
 brontotherium
 brontozoum
