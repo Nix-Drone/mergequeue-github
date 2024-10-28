@@ -4217,7 +4217,6 @@ fireplug
 frieze
 fireplugs
 firepot
-fireproofed
 fireproofing
 fireproofness
 fireroom
@@ -6800,6 +6799,7 @@ foistiness
 foists
 foresworn
 foiter
+fireproofed
 fokker
 fol
 folacin
