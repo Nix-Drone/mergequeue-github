@@ -4963,6 +4963,7 @@ enddamaged
 enddamaging
 ende
 energistic
+eucyclic
 endearance
 endearedly
 endearingness
@@ -14102,7 +14103,6 @@ epiglot
 epitheton
 extroversively
 extrovert
-eucyclic
 exhibitant
 extrovertish
 embolomerism
