@@ -5237,6 +5237,7 @@ begass
 begats
 bestrows
 begattal
+boozify
 bastes
 begaud
 begaudy
@@ -12881,7 +12882,6 @@ boozy
 boozier
 bulwark
 balawu
-boozify
 booziness
 bop
 bopeep
