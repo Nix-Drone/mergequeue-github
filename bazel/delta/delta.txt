@@ -12966,7 +12966,6 @@ dispelled
 diplomyelia
 dispeller
 dorsimedian
-dispells
 dispels
 decliners
 danegeld
@@ -17061,6 +17060,7 @@ deifier
 dryasdust
 dribber
 dichelyma
+dispells
 dashnaktzutiun
 dribbing
 dribble
