@@ -682,6 +682,7 @@ gadaea
 geodesy
 galliot
 galliots
+gaspiness
 gurnets
 gallipot
 gallipots
@@ -9180,7 +9181,6 @@ grisoutine
 grissen
 grisset
 grist
-gaspiness
 greenlet
 grister
 gristle
