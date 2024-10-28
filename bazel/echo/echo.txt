@@ -4045,7 +4045,6 @@ empanoply
 empaper
 emparchment
 emparl
-empasma
 everbloomer
 empassion
 embarrassingly
@@ -11391,6 +11390,7 @@ evectant
 evected
 evection
 evectional
+empasma
 ethnographic
 ethion
 evector
