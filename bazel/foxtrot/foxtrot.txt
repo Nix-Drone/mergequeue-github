@@ -5012,7 +5012,6 @@ flappers
 flappet
 flappy
 faxes
-flapping
 flywire
 feckless
 feud
@@ -9513,6 +9512,7 @@ frontoparietal
 freightless
 frasier
 frass
+flapping
 frasse
 ferntickled
 fratch
