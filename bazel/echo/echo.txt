@@ -2923,7 +2923,6 @@ electroanalysis
 elian
 eisodic
 enanthesis
-endoradiosonde
 elianic
 ephippial
 elias
@@ -8647,6 +8646,7 @@ equiglacial
 equigranular
 equilater
 equilateral
+endoradiosonde
 epigonichthys
 equilaterally
 exterritorial
