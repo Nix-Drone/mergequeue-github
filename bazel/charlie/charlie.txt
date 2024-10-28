@@ -12379,7 +12379,6 @@ chromatology
 chromatologies
 chromatometer
 chromatone
-cubitodigital
 chromatopathy
 chromatopathia
 celebe
@@ -25482,6 +25481,7 @@ coronado
 coronados
 coronae
 cardiotomy
+cubitodigital
 coronagraph
 coronagraphic
 coronal
