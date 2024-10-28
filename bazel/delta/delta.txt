@@ -606,7 +606,6 @@ deadwood
 dolcinist
 damassin
 damboard
-dambonite
 dambonitol
 disemic
 dambose
@@ -5841,6 +5840,7 @@ deposal
 deposals
 decarboniser
 defats
+dambonite
 deposer
 deposers
 deposes
