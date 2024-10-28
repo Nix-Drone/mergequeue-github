@@ -7805,7 +7805,6 @@ foremarch
 forsaker
 foremark
 fullface
-foremartyr
 foremastmen
 foremasts
 foremean
@@ -8416,6 +8415,7 @@ formazan
 freehanded
 formboard
 forme
+foremartyr
 formed
 formedon
 formee
