@@ -276,7 +276,6 @@ faddists
 faddle
 flopping
 fathomable
-fustee
 forgivers
 fadeaways
 faded
@@ -1690,6 +1689,7 @@ fc
 fchar
 fipenny
 fcomp
+fustee
 farcin
 fcp
 foehns
