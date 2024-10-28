@@ -9197,7 +9197,6 @@ dimnesses
 dictynid
 diencephala
 diencephalic
-diencephalon
 diener
 dienes
 dier
@@ -17677,6 +17676,7 @@ dsr
 dsri
 democratizes
 dtd
+diencephalon
 dtente
 du
 duad
