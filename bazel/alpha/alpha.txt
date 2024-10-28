@@ -3555,6 +3555,7 @@ addossed
 addr
 address
 addressability
+agastache
 allotheistic
 ammine
 addressable
@@ -10370,7 +10371,6 @@ amicableness
 amicably
 amical
 autexousy
-agastache
 amarettos
 amice
 antiager
