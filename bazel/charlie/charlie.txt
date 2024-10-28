@@ -4135,7 +4135,6 @@ cardsharping
 chlorites
 cardsharps
 cardstock
-carduaceae
 chinatown
 carduelis
 care
@@ -7575,6 +7574,7 @@ cerebellorubral
 cerebellospinal
 cerebellum
 cerebellums
+carduaceae
 cerebra
 cerebral
 cerebralgia
