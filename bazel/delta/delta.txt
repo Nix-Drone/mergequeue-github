@@ -470,6 +470,7 @@ daystars
 daystreak
 daytide
 daytime
+divulgatory
 daytimes
 daiva
 dobbed
@@ -14489,7 +14490,6 @@ divulgation
 diaclasis
 decernment
 divulgator
-divulgatory
 divulge
 divulged
 divulgence
