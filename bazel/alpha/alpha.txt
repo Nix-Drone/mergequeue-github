@@ -508,7 +508,6 @@ abjurations
 abjuratory
 abjure
 abjured
-abjurement
 abjurer
 abjurers
 abjures
@@ -6241,6 +6240,7 @@ agnamed
 agnat
 agnate
 agnates
+abjurement
 agnatha
 agnathia
 agnathic
