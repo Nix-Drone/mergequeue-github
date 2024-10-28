@@ -7644,7 +7644,6 @@ bewield
 bewig
 brokery
 barbudos
-bewigging
 bioluminescent
 bewilder
 bewildered
@@ -8812,6 +8811,7 @@ barycentre
 bimuscular
 bin
 broadswords
+bewigging
 binal
 baconic
 bugologist
