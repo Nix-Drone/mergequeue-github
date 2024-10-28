@@ -3851,7 +3851,6 @@ cameist
 carburetting
 carburettor
 carburisation
-carburise
 carburised
 carburiser
 carburization
@@ -18499,6 +18498,7 @@ coils
 coilsmith
 coimmense
 coimplicant
+carburise
 coimplicate
 coimplore
 coyn
