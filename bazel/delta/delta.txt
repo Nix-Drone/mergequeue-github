@@ -7034,7 +7034,6 @@ destroyable
 destroyed
 dismays
 destroyer
-destroyers
 destroying
 diagnostic
 destruct
@@ -13633,6 +13632,7 @@ dissipator
 dissipators
 donates
 danburite
+destroyers
 diatomiferous
 dissite
 disslander
