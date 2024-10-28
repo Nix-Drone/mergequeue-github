@@ -5530,6 +5530,7 @@ flyable
 fascicle
 flyback
 flyball
+footfarer
 flybane
 flibbertigibbety
 flybelt
@@ -7160,7 +7161,6 @@ footfall
 ferruling
 filoselle
 footfalls
-footfarer
 footfault
 forehandedly
 footfolk
