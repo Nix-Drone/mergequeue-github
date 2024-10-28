@@ -1329,7 +1329,6 @@ emacerate
 efface
 effaceable
 effaced
-effacement
 effacers
 effaces
 effare
@@ -8004,6 +8003,7 @@ enchains
 epimyocardial
 epanagoge
 epimyocardium
+effacement
 epimysia
 eteocreton
 epimyth
