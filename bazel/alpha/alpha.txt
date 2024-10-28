@@ -1737,7 +1737,6 @@ accrescence
 accrescendi
 accrescendo
 accrescent
-accretal
 accrete
 accretes
 accreting
@@ -25299,6 +25298,7 @@ azodiphenyl
 azoeosin
 azoerythrin
 azofy
+accretal
 aspirates
 azofier
 azoflavine
