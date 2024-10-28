@@ -1073,7 +1073,6 @@ abstinently
 abstort
 abstr
 abstract
-abstractable
 abstracted
 abstractedly
 abstracter
@@ -5245,6 +5244,7 @@ affectations
 affected
 affectedly
 affecter
+abstractable
 affecters
 affectibility
 accus
