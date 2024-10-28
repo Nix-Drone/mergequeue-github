@@ -6831,7 +6831,6 @@ cellvibrio
 classicized
 celom
 celomata
-celoms
 celoscope
 celosia
 celosias
@@ -14333,6 +14332,7 @@ cephalobranchiate
 celanese
 circumfusion
 circumgenital
+celoms
 circumgestation
 circumgyrate
 circumgyratory
