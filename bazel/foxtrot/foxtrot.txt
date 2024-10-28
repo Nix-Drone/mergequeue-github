@@ -3478,6 +3478,7 @@ funniment
 fightable
 forel
 fighteress
+fraenulum
 fanwort
 fighting
 fightingly
@@ -10233,7 +10234,6 @@ fundus
 fornicates
 frixion
 fled
-fraenulum
 friz
 forehold
 frize
