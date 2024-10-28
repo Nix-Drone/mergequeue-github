@@ -24662,6 +24662,7 @@ copperskin
 ciderist
 coppersmith
 collock
+cupful
 coppersmithing
 copperware
 copperwing
@@ -31099,7 +31100,6 @@ conscripts
 cupellers
 cupelling
 cupels
-cupful
 cupfulfuls
 cupfuls
 cuphea
