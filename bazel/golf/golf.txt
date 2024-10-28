@@ -2847,6 +2847,7 @@ geniculum
 glug
 grasps
 grouses
+gravelstone
 genitor
 gemmoid
 genitory
@@ -8425,7 +8426,6 @@ graveside
 geraty
 gallflower
 gratuitously
-gravelstone
 gravemaker
 gigantomachy
 graveman
