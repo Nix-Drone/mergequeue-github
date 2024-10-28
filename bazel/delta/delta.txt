@@ -15844,7 +15844,6 @@ dorsoposterior
 dorsoradial
 dorsoscapular
 dorsosternal
-dorsothoracic
 digitize
 diablotin
 dismalize
@@ -16375,6 +16374,7 @@ downsteepy
 downstreet
 downstroke
 downstrokes
+dorsothoracic
 downswing
 downswings
 downtake
