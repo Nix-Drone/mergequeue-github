@@ -3065,7 +3065,6 @@ capewise
 capework
 capeworks
 capful
-capfuls
 caphar
 capharnaism
 cotillon
@@ -21000,6 +20999,7 @@ computations
 computative
 computatively
 computativeness
+capfuls
 compute
 computed
 computer
