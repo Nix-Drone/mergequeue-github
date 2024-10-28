@@ -5238,7 +5238,6 @@ begats
 bestrows
 begattal
 bastes
-begaud
 begaudy
 bobbled
 begaze
@@ -12759,6 +12758,7 @@ booming
 boomingly
 boomkin
 boomkins
+begaud
 barnabite
 boomless
 boomlets
