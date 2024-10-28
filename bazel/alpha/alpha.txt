@@ -9597,7 +9597,6 @@ aluminothermics
 aluminous
 alumins
 aluminum
-aluminums
 alumish
 alumite
 autolith
@@ -22756,6 +22755,7 @@ atomician
 ahnfeltia
 atomicism
 arciferous
+aluminums
 atomicity
 atomies
 atomiferous
