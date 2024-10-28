@@ -2463,6 +2463,7 @@ deck
 dateline
 decke
 deckedout
+destuff
 deckel
 deckels
 decken
@@ -7054,7 +7055,6 @@ destructors
 destructuralize
 destrudo
 deplorable
-destuff
 destuffing
 digitised
 destuffs
