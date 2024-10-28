@@ -4476,7 +4476,6 @@ carnies
 carniferrin
 carnifex
 carnifexes
-carnify
 carnification
 carnificial
 carnifies
@@ -19610,6 +19609,7 @@ comacine
 comade
 comae
 comagmatic
+carnify
 comake
 comaker
 comal
