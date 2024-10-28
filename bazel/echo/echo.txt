@@ -2381,7 +2381,6 @@ exanguin
 electrocutions
 emplaces
 electrode
-electrodeless
 entremets
 ergatomorph
 electrodentistry
@@ -12224,6 +12223,7 @@ excursiveness
 excursus
 excursuses
 excurvated
+electrodeless
 excurvature
 esclavage
 excurved
