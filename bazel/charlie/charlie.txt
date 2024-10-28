@@ -8185,7 +8185,6 @@ chained
 chainer
 chainless
 craspedon
-chainlike
 chainmaker
 chainmaking
 chiropodist
@@ -19409,6 +19408,7 @@ colossally
 colossean
 colosseum
 colossi
+chainlike
 colossian
 charas
 colossians
