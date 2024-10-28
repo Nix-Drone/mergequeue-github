@@ -10988,7 +10988,6 @@ amperages
 ampere
 amperemeter
 amperes
-ampery
 amperian
 amperometer
 aciduria
@@ -14913,6 +14912,7 @@ anticyclolysis
 anticyclone
 anticyclones
 anticyclonic
+ampery
 anticyclonically
 abrasion
 anticynic
