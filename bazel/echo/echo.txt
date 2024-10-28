@@ -6380,7 +6380,6 @@ ensheathe
 ensheathed
 embiotocid
 ensheathing
-ensheaths
 enshell
 enshelter
 enshield
@@ -10518,6 +10517,7 @@ etiam
 etymic
 etymologer
 evirtuate
+ensheaths
 electrostereotype
 etymological
 ensaint
