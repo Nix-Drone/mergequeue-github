@@ -25020,6 +25020,7 @@ core
 coreceiver
 corecipient
 coreciprocal
+crosscurrents
 corectome
 cored
 coredeem
@@ -29837,7 +29838,6 @@ crossbreds
 crossbreed
 crossbreeding
 crosscurrent
-crosscurrents
 crosscut
 crosscuts
 crosscutter
