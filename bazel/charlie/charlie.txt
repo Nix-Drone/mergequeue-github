@@ -5101,6 +5101,7 @@ caseum
 caseweed
 casewood
 caseworker
+classing
 caseworkers
 caseworks
 caseworm
@@ -10384,7 +10385,6 @@ chics
 chidden
 cedi
 chide
-classing
 chided
 cairba
 cytoplast
