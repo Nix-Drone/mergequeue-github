@@ -1912,7 +1912,6 @@ banderlog
 banderma
 banderol
 banderole
-biochemical
 banderoled
 banderoles
 banders
@@ -11551,6 +11550,7 @@ boardlike
 billhead
 boardroom
 boards
+biochemical
 boardsmanship
 boardwalks
 boarfish
