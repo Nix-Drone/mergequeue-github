@@ -4805,7 +4805,6 @@ bedraped
 bedrapes
 bedraping
 bedread
-bedrel
 bedrench
 bedrenched
 bedrenches
@@ -5346,6 +5345,7 @@ begorra
 begorry
 begotten
 begottenness
+bedrel
 begowk
 begowned
 buyable
