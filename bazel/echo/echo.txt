@@ -1586,7 +1586,6 @@ eggcup
 eggcups
 eggeater
 egged
-embog
 egger
 eggers
 envapour
@@ -6759,6 +6758,7 @@ emetine
 entete
 enthalpy
 enthalpies
+embog
 enthean
 entheasm
 enfuddle
