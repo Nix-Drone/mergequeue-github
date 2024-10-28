@@ -3488,7 +3488,6 @@ adderfish
 adderspit
 adderwort
 addy
-addibility
 addible
 addicent
 addict
@@ -23320,6 +23319,7 @@ audiometers
 audiometric
 aphaeretic
 audiometrically
+addibility
 audiometries
 audiometrist
 audion
