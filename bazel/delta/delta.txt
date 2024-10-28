@@ -3578,7 +3578,6 @@ defunction
 deoxidized
 dollface
 defunctionalization
-defunctionalize
 defunctive
 defused
 defuses
@@ -15242,6 +15241,7 @@ desaurin
 drinky
 dolorimetrically
 disassociating
+defunctionalize
 dolorogenic
 dolorous
 divergingly
