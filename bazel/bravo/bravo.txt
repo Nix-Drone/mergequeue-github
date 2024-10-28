@@ -1965,7 +1965,6 @@ bejabers
 bodrag
 blastoff
 bandlet
-bandlimited
 breadwinners
 bandlimiting
 bandlimits
@@ -7697,6 +7696,7 @@ bewrayers
 bewraying
 biacetylene
 bewrayingly
+bandlimited
 backened
 bewrayment
 beeper
