@@ -165,7 +165,6 @@ gastroscope
 grimliness
 greasiness
 gaduin
-gadus
 gadwall
 gadwalls
 ghrush
@@ -8013,6 +8012,7 @@ granitizing
 granitoid
 granitoidal
 girlish
+gadus
 geneserine
 granivore
 grank
