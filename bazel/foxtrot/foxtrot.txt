@@ -1857,7 +1857,6 @@ feazes
 febres
 febricant
 febricitant
-febricitation
 febricity
 febricula
 fore
@@ -8521,6 +8520,7 @@ flusterate
 figs
 formularistic
 formularized
+febricitation
 formulate
 formulated
 formulates
