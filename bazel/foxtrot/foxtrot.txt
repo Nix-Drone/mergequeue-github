@@ -7426,7 +7426,6 @@ futhark
 fallacious
 forcement
 forcene
-forceps
 fey
 forceput
 fazing
@@ -8391,6 +8390,7 @@ formalizer
 foreknowledge
 fettuccine
 formally
+forceps
 formalness
 fetid
 fireblende
