@@ -1687,7 +1687,6 @@ fructuosity
 faxing
 fazes
 fc
-fchar
 fipenny
 fcomp
 farcin
@@ -5417,6 +5416,7 @@ fleys
 frankfold
 fleysome
 flem
+fchar
 fleme
 flemer
 fleming
