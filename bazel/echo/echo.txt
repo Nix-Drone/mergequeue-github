@@ -1868,7 +1868,6 @@ endotheliolytic
 eyewinker
 englishing
 eigenfrequency
-eigenvalue
 ergatogyny
 eigenvalues
 eigenvectors
@@ -3217,6 +3216,7 @@ elusiveness
 elusory
 elusoriness
 esophagospasm
+eigenvalue
 elute
 eluted
 eluting
