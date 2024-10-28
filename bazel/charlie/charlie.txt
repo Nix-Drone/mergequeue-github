@@ -3420,7 +3420,6 @@ captandum
 captans
 captation
 caption
-captioned
 captioning
 captionless
 captions
@@ -29893,6 +29892,7 @@ crosslighted
 crosslike
 carbosilicate
 crossline
+captioned
 cymas
 crosslink
 crossness
