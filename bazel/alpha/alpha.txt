@@ -5362,7 +5362,6 @@ ague
 affixture
 afflate
 afflated
-afflatus
 afflatuses
 afflict
 algesireceptor
@@ -25111,6 +25110,7 @@ axilla
 axillae
 aristo
 axillant
+afflatus
 axillar
 axillaries
 axillars
