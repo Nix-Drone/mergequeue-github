@@ -5426,6 +5426,7 @@ dentolingual
 dentololabial
 dentonasal
 dielytra
+dialoger
 dentosurgical
 disrate
 dents
@@ -8366,7 +8367,6 @@ davy
 diallings
 diallists
 dialog
-dialoger
 dialogers
 dialogged
 dialogging
