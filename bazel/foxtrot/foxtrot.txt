@@ -4365,7 +4365,6 @@ fragmentate
 fisherfolk
 fishery
 florentium
-fisherman
 flammably
 fisherwoman
 fishes
@@ -4615,6 +4614,7 @@ fixage
 fixate
 fixation
 freakier
+fisherman
 flutings
 footslogs
 fixative
