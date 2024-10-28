@@ -2409,7 +2409,6 @@ cytogenesis
 confraternities
 candlelighting
 candlelit
-candlemaker
 candlemaking
 candlemas
 candlenut
@@ -9883,6 +9882,7 @@ chemitype
 chemitypy
 chemitypies
 chemizo
+candlemaker
 chemmy
 cornucopia
 cols
