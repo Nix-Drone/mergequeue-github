@@ -1701,7 +1701,6 @@ gasthauser
 gasting
 gastly
 grego
-gastness
 gastnesses
 gingili
 glossophorous
@@ -5539,6 +5538,7 @@ grylle
 glimpses
 glims
 glyn
+gastness
 glynn
 glinse
 gesten
