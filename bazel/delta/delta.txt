@@ -4701,7 +4701,6 @@ demireps
 demirevetment
 demirhumb
 demirilievo
-demirobe
 demonastery
 dol
 demisability
@@ -8370,6 +8369,7 @@ dialoger
 dialogers
 dialogged
 dialogging
+demirobe
 dialogic
 dialogical
 digitigrada
