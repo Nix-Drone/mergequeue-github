@@ -8075,7 +8075,6 @@ guillotine
 granularly
 granulate
 granulater
-granulates
 granulating
 granulation
 granulations
@@ -10831,6 +10830,7 @@ goldlike
 guzmania
 guzul
 guzzle
+granulates
 guzzled
 guzzledom
 guzzles
