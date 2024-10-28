@@ -7309,7 +7309,6 @@ gossaniferous
 gossans
 gossard
 gossep
-geomechanics
 goujay
 gossy
 grills
@@ -8621,6 +8620,7 @@ greegrees
 greek
 greekdom
 greekery
+geomechanics
 greekess
 gloved
 greekish
