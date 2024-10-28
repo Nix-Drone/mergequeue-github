@@ -3452,6 +3452,7 @@ deflore
 deflorescence
 deflourish
 dropforged
+desiderant
 dubash
 deflower
 deflowered
@@ -16284,7 +16285,6 @@ downfolded
 downgate
 dilluer
 dunes
-desiderant
 downgyved
 decrown
 downgone
