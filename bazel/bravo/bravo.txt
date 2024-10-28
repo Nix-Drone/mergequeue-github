@@ -3032,6 +3032,7 @@ barroom
 barrowful
 barrowman
 barrulee
+bathflower
 barruly
 bothridium
 bars
@@ -3588,7 +3589,6 @@ bather
 bathers
 bathes
 bathetically
-bathflower
 bathhouse
 bathhouses
 bathyal
