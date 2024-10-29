@@ -6445,7 +6445,6 @@ desaminase
 desanding
 desands
 desc
-descale
 descaling
 descamisado
 descamisados
@@ -15737,6 +15736,7 @@ dormette
 dormeuse
 dormice
 dormie
+descale
 disqualify
 dormient
 dormilona
