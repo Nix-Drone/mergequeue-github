@@ -4350,6 +4350,7 @@ fleshers
 fishberries
 fishboat
 fishbolt
+frogstool
 fishbolts
 falchions
 fishbowls
@@ -4744,7 +4745,6 @@ floorer
 faucets
 frist
 flagelliform
-frogstool
 filicornia
 forereaching
 flagellist
