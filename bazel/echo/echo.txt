@@ -2627,7 +2627,6 @@ electroshocks
 electrosynthesis
 electrosynthetically
 envenoms
-electrosmosis
 electrostatic
 electrostatical
 electrosteel
@@ -13040,6 +13039,7 @@ experiencer
 experiences
 experiencing
 experient
+electrosmosis
 experiential
 embedding
 epistolographic
