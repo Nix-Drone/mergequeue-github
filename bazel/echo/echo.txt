@@ -513,6 +513,7 @@ eche
 echea
 eched
 echelette
+educatability
 echelle
 extraphenomenal
 envier
@@ -1220,7 +1221,6 @@ educability
 educable
 educables
 educand
-educatability
 epicrystalline
 eident
 educatable
