@@ -11578,6 +11578,7 @@ cholecystopexy
 cholecystorrhaphy
 cholecystostomy
 cholecystostomies
+consummations
 cholecystotomy
 cholecystotomies
 choledoch
@@ -23280,7 +23281,6 @@ consummately
 consummates
 consummating
 consummation
-consummations
 calamaroid
 consummative
 consummativeness
