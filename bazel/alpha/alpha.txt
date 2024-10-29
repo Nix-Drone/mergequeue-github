@@ -15504,7 +15504,6 @@ antimasker
 alar
 antimasks
 antimason
-antimasonry
 antimasque
 antimasquer
 afterstrain
@@ -19161,6 +19160,7 @@ archprince
 ars
 archprophet
 archprotopope
+antimasonry
 archprototype
 archpublican
 archpuritan
