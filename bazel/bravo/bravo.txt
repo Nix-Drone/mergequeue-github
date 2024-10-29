@@ -2498,7 +2498,6 @@ bardlike
 burut
 bardling
 beswinge
-bardo
 bardocucullus
 bardolater
 bromoiodide
@@ -12709,6 +12708,7 @@ bookshelf
 bookshelves
 boloney
 bookshop
+bardo
 bookshops
 babassus
 booksy
