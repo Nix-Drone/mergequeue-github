@@ -3516,7 +3516,6 @@ deform
 diasters
 deformability
 disknow
-deformable
 deformalize
 deformation
 deformational
@@ -11123,6 +11122,7 @@ disavail
 discrepance
 disavouch
 disavowable
+deformable
 dyslectic
 disacquaintance
 disavowance
