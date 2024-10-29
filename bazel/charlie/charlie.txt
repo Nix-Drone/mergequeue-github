@@ -12613,7 +12613,6 @@ chronologist
 cercle
 chronologizing
 chronomancy
-chronomantic
 committed
 chronomastix
 chronometer
@@ -27131,6 +27130,7 @@ countertierce
 countertime
 countertype
 countertouch
+chronomantic
 chait
 circumgyration
 countertraction
