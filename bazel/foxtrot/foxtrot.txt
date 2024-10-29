@@ -1075,6 +1075,7 @@ furriners
 farmable
 farmed
 farmer
+fatsos
 farmeress
 farmery
 filigraned
@@ -6808,7 +6809,6 @@ franklandite
 folate
 folates
 folcgemot
-fatsos
 founding
 fold
 fevers
