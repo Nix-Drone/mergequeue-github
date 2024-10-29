@@ -4243,6 +4243,7 @@ generability
 glamours
 gentilities
 gymnasium
+gray
 gymnasiums
 gymnastic
 gazon
@@ -7718,7 +7719,6 @@ greeve
 grandpap
 grahams
 grumbletonian
-gray
 graveyard
 graybacks
 graybeard
