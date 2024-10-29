@@ -6291,6 +6291,7 @@ gnawings
 giaours
 gnawn
 gneiss
+graphemic
 gneisses
 gneissitic
 gneissoid
@@ -8150,7 +8151,6 @@ graphanalysis
 graphed
 gigabit
 grapheme
-graphemic
 glack
 governorships
 glues
