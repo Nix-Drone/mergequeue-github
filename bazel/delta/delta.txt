@@ -5951,7 +5951,6 @@ depressanth
 depressants
 depressed
 depresses
-depressibility
 doling
 depressibilities
 depressible
@@ -11301,6 +11300,7 @@ discerpible
 discerpibleness
 discerping
 discerptibleness
+depressibility
 discerption
 discerptive
 discession
