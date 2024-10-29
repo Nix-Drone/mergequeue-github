@@ -2993,7 +2993,6 @@ capacitator
 capacity
 capacities
 capacitive
-capacitively
 capacitor
 capanna
 capanne
@@ -27824,6 +27823,7 @@ crackajack
 crackback
 carbanilide
 cacodemonic
+capacitively
 calzone
 crackbrain
 conferees
