@@ -2945,6 +2945,7 @@ feudovassalism
 format
 feuds
 flagonless
+fconv
 furazane
 formularism
 frustums
@@ -3525,7 +3526,6 @@ facebread
 figures
 figuresome
 flueman
-fconv
 foraneous
 figury
 fiddlers
