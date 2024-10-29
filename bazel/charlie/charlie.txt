@@ -20347,7 +20347,6 @@ commutator
 commutators
 commute
 commuted
-commuter
 commuters
 commutes
 commuting
@@ -28633,6 +28632,7 @@ cheverons
 crenelation
 crenelations
 crenele
+commuter
 creneled
 crenelee
 crenelet
