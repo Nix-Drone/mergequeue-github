@@ -3331,7 +3331,6 @@ gypsography
 gerbera
 gardencraft
 gerbil
-gerbilles
 groutnoll
 gunbearer
 gerbillus
@@ -5667,6 +5666,7 @@ glamoured
 globelet
 guttiferous
 globes
+gerbilles
 gasts
 globetrotters
 gangplanks
