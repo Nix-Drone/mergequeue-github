@@ -393,6 +393,7 @@ backjoint
 backlings
 backland
 backlashed
+blobs
 braille
 backlasher
 backlashes
@@ -10975,7 +10976,6 @@ bricklay
 blobbiness
 beaued
 backed
-blobs
 bloc
 blocage
 block
