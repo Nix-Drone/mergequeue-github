@@ -5008,7 +5008,6 @@ aerologist
 aerologists
 antieducationist
 aeromaechanic
-aeromancer
 aeromancy
 aeromechanic
 aeromechanics
@@ -23313,6 +23312,7 @@ audiograms
 audiology
 audiological
 audiologies
+aeromancer
 aliquid
 audiometer
 amathophobia
