@@ -1646,6 +1646,7 @@ ballonette
 bethroot
 ballonne
 ballonnes
+birdcalls
 balloon
 ballooners
 bowfront
@@ -9381,7 +9382,6 @@ birdcage
 baroscope
 birdcages
 birdcall
-birdcalls
 birdcatching
 birdcraft
 birddom
