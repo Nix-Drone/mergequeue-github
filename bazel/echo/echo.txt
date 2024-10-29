@@ -5350,6 +5350,7 @@ endostracum
 enteromycosis
 endosulfan
 endothecal
+exclusions
 estrade
 extorter
 euchite
@@ -10761,7 +10762,6 @@ eyeletter
 eugenia
 engaud
 eugenic
-exclusions
 eximidus
 eugenical
 eugenically
