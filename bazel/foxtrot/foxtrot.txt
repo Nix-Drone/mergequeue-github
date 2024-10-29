@@ -3382,7 +3382,6 @@ fascio
 fieldmice
 fieldmouse
 fieldpieces
-fieldsman
 fieldsmen
 flosculose
 fieldstrip
@@ -5937,6 +5936,7 @@ forevermore
 frigidity
 featherbedding
 floorcloths
+fieldsman
 floored
 flooring
 fascistic
