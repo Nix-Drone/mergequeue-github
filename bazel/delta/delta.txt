@@ -3090,7 +3090,6 @@ deers
 deerskin
 deerstalker
 deerstalkers
-deerstalking
 deerstand
 deerstealer
 discourteously
@@ -9341,6 +9340,7 @@ diffide
 diffidentness
 dentirostres
 diffiding
+deerstalking
 difflation
 diffluent
 difform
