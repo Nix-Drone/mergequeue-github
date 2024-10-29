@@ -1837,6 +1837,7 @@ deblock
 dijudicate
 deboise
 dispunge
+drawknives
 dalespeople
 deboite
 deboites
@@ -16836,7 +16837,6 @@ dishonorary
 drawhead
 drawing
 drawings
-drawknives
 drawknot
 deliquescent
 drawlatch
