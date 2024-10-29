@@ -1707,7 +1707,6 @@ deathlike
 deathlikeness
 dustwoman
 deathliness
-deathrates
 diagrydium
 deaths
 deathsman
@@ -10627,6 +10626,7 @@ diplopteryga
 diplopterous
 disaccordance
 defiler
+deathrates
 diploses
 dikdiks
 diplosis
