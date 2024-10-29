@@ -11089,7 +11089,6 @@ disasinize
 disassemble
 dourade
 disassembled
-disassembler
 disassembles
 descriptors
 disassembling
@@ -17458,6 +17457,7 @@ drossy
 drossiness
 drossing
 densation
+disassembler
 diligentness
 drossless
 dragonlike
