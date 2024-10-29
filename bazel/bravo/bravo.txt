@@ -664,7 +664,6 @@ bacteriophagy
 bacteriophagic
 bacteriophagous
 bear
-bacteriopsonin
 bellwethers
 bacteriopurpurin
 banshee
@@ -11543,6 +11542,7 @@ boardbill
 boarded
 boarder
 boarders
+bacteriopsonin
 boardy
 boardinghouse
 boardings
