@@ -4406,7 +4406,6 @@ frondage
 fishling
 fishman
 fishmeals
-fishmonger
 ferociousness
 fishmouth
 fishnet
@@ -7309,6 +7308,7 @@ foppy
 foppish
 footstep
 fora
+fishmonger
 forage
 facers
 foraged
