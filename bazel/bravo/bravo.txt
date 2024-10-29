@@ -3582,7 +3582,6 @@ batful
 bath
 bathala
 batheable
-bathed
 bellower
 bather
 bathers
@@ -16717,6 +16716,7 @@ buckwheatlike
 balaic
 buckwheats
 bucolic
+bathed
 bucolical
 bucolically
 bucolicism
