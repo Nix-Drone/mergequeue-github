@@ -5805,7 +5805,6 @@ engrammes
 engrammic
 ergographic
 engrandize
-engrandizement
 engraphic
 engraphically
 engrapple
@@ -6331,6 +6330,7 @@ ectypes
 ensconcing
 enscroll
 endosiphon
+engrandizement
 ecotypic
 enscrolling
 envenomation
