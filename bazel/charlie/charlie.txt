@@ -20404,7 +20404,6 @@ compage
 compaginate
 corundums
 compagnie
-compagnies
 cresols
 companage
 companator
@@ -29474,6 +29473,7 @@ crystallographers
 crystallography
 crystallographic
 crystalloid
+compagnies
 crystalloidal
 crystallology
 crystalloluminescence
