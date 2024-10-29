@@ -8981,7 +8981,6 @@ alodialist
 allow
 allowable
 anteport
-allowableness
 allowance
 allowanced
 auricularly
@@ -24824,6 +24823,7 @@ avocationally
 aud
 avocations
 avocative
+allowableness
 anoopsias
 avocet
 amount
