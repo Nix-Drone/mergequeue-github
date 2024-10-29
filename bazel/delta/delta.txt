@@ -5604,6 +5604,7 @@ demicolumn
 depascent
 depass
 disintensify
+digestiveness
 delphinoid
 disrepute
 depasturable
@@ -9436,7 +9437,6 @@ digestif
 digesting
 digestion
 digestively
-digestiveness
 dermad
 digestment
 digestor
