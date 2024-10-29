@@ -3858,7 +3858,6 @@ carburization
 carburize
 carburized
 carburizer
-carburizes
 carburizing
 carburometer
 coedits
@@ -12217,6 +12216,7 @@ chondriocont
 cosmorganic
 chrysography
 chrysohermidin
+carburizes
 chrysoidine
 chrysolitic
 chrysology
