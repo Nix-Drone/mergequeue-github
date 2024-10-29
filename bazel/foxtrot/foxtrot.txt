@@ -4147,7 +4147,6 @@ frostlike
 faithwise
 firebombs
 forestery
-fireboot
 firebox
 frogflower
 familiarism
@@ -11562,6 +11561,7 @@ fallings
 fuscin
 fuscohyaline
 fuscous
+fireboot
 fuseau
 fistic
 fuseboard
