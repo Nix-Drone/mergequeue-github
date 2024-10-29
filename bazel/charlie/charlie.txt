@@ -9961,7 +9961,6 @@ chemotherapists
 chemotic
 chemotroph
 chemotrophic
-chemotropic
 chemotropically
 chemotropism
 chempaduk
@@ -15657,6 +15656,7 @@ clatch
 clathraceae
 clathraceous
 clathraria
+chemotropic
 clathrarian
 clathrate
 clathrina
