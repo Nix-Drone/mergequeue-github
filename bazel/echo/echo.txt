@@ -3524,7 +3524,6 @@ emboites
 emboldener
 equilibrize
 emboldens
-embole
 exposal
 embolectomy
 embolectomies
@@ -5431,6 +5430,7 @@ eltime
 expendable
 endseal
 endshake
+embole
 endsheet
 everglade
 execrates
