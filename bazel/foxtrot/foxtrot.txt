@@ -4214,6 +4214,7 @@ fireplaces
 fireplow
 fleeceable
 fireplug
+finnoc
 frieze
 fireplugs
 firepot
@@ -8593,7 +8594,6 @@ forpining
 fortunella
 forprise
 forrad
-finnoc
 forrader
 forrard
 forensical
