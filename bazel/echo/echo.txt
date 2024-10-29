@@ -6311,7 +6311,6 @@ enrolls
 enroot
 enrooted
 enroots
-encirclement
 enround
 enruin
 enrut
@@ -13134,6 +13133,7 @@ empressement
 expiscating
 expiscation
 expiscatory
+encirclement
 explain
 extras
 explainable
