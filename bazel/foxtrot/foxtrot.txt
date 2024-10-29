@@ -4186,7 +4186,6 @@ firedrake
 firefall
 firefang
 firefanged
-firefangs
 firefighter
 firefighting
 foreship
@@ -4698,6 +4697,7 @@ flabrum
 flabs
 flaccid
 flaccidness
+firefangs
 flachery
 flacian
 footsies
