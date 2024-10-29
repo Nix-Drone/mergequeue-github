@@ -5951,7 +5951,6 @@ depressanth
 depressants
 depressed
 depresses
-depressibility
 doling
 depressibilities
 depressible
@@ -17545,6 +17544,7 @@ dislodge
 duplon
 deliverability
 druggery
+depressibility
 druggeries
 drugget
 druggeting
