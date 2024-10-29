@@ -8178,7 +8178,6 @@ diadochokinetic
 diadoumenos
 diadrom
 diadrome
-diadromous
 dioti
 diadumenus
 diaene
@@ -14532,6 +14531,7 @@ dizzardly
 dizzen
 dizzy
 dizzier
+diadromous
 dizzies
 dizziest
 dizzyingly
