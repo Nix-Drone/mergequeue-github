@@ -1098,7 +1098,6 @@ farmland
 farmost
 farmout
 fasteners
-fisc
 farms
 farmscape
 farmsteads
@@ -5066,6 +5065,7 @@ flashlamp
 flashlight
 flashlike
 futilitarian
+fisc
 forellenstein
 frothi
 flashness
