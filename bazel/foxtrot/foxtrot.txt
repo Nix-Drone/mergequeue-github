@@ -4069,7 +4069,6 @@ finlander
 finlandization
 freshman
 finless
-finlet
 finlike
 finmark
 finmarks
@@ -11060,6 +11059,7 @@ foreboot
 fillets
 farcinoma
 feebleheartedly
+finlet
 fumify
 fumigated
 fumigating
