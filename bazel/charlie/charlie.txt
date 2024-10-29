@@ -3837,7 +3837,6 @@ ceratopsidae
 caraguata
 carburet
 carburetant
-carbureted
 carburetest
 carbureting
 carburetion
@@ -29861,6 +29860,7 @@ crossfish
 crossflow
 crossflower
 crossfoot
+carbureted
 crossgrainedness
 crosshackle
 crosshair
