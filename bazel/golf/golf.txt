@@ -859,7 +859,6 @@ galvo
 gangliac
 gleds
 galvvanoscopy
-galways
 gamaliel
 gamari
 gamash
@@ -5222,6 +5221,7 @@ guestship
 glasswork
 guider
 glassworker
+galways
 glassworkers
 glassworm
 gawkier
