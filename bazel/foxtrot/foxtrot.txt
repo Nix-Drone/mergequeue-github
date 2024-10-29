@@ -2729,7 +2729,6 @@ floodwall
 fervid
 falanaka
 fervidly
-fervor
 forecar
 formicivorous
 fervorous
@@ -6864,6 +6863,7 @@ flittern
 foliate
 foliated
 foliates
+fervor
 foliating
 foliation
 foliator
