@@ -7410,7 +7410,6 @@ cephen
 cepheus
 cephid
 cephidae
-cephus
 cepolidae
 ceps
 cepter
@@ -12807,6 +12806,7 @@ chunkiness
 chunking
 chunks
 chunner
+cephus
 chuntered
 chuntering
 chunters
