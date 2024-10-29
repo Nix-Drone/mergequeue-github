@@ -7816,7 +7816,6 @@ alecup
 alee
 alef
 awikiwiki
-alefnull
 alefs
 aleft
 alefzero
@@ -8331,6 +8330,7 @@ alish
 alisier
 appoggiatura
 antechoir
+alefnull
 alismaceous
 alismad
 alismal
