@@ -8985,7 +8985,6 @@ charge
 chargeability
 chargeable
 chargeableness
-chargeant
 charged
 chargedness
 chargee
@@ -19331,6 +19330,7 @@ checkstone
 color
 cycadaceous
 colorableness
+chargeant
 countercharge
 colorably
 coloradan
