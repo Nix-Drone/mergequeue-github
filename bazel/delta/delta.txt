@@ -2622,7 +2622,6 @@ decoloriser
 decolorising
 dispose
 decolorization
-decolorized
 decolorizer
 decolors
 decolour
@@ -6861,6 +6860,7 @@ despairfully
 despect
 despairfulness
 despairing
+decolorized
 despairs
 desparple
 draff
