@@ -4022,7 +4022,6 @@ crocky
 celiolymph
 cardioarterial
 cardioblast
-cardiocarpum
 cardiocele
 cardiocirrhosis
 cardioclasia
@@ -15662,6 +15661,7 @@ clathrate
 clathrina
 clathrinidae
 clathroid
+cardiocarpum
 clathrose
 clathrulate
 clatsop
