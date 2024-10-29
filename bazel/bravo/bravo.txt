@@ -7568,7 +7568,6 @@ beurre
 bevaring
 bevatron
 beveil
-beveled
 bevelers
 blastophore
 beveling
@@ -16998,6 +16997,7 @@ bulbourethral
 bulbous
 bulbously
 bulbs
+beveled
 bulbule
 bulbus
 bulchin
