@@ -3565,7 +3565,6 @@ addresses
 auxetics
 addressful
 addressing
-acanthocephalan
 addressograph
 addressor
 addrest
@@ -12369,6 +12368,7 @@ androdioecism
 androecia
 androgametophore
 androgamone
+acanthocephalan
 androgenesis
 androgenetic
 androgenous
