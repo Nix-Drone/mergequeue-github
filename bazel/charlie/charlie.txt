@@ -17258,7 +17258,6 @@ coart
 coarticulate
 coarticulation
 coascend
-coassert
 coasserter
 coassessor
 caravelle
@@ -20728,6 +20727,7 @@ complicator
 complicators
 complice
 complices
+coassert
 complicity
 complicitous
 complied
