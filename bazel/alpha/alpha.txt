@@ -1312,7 +1312,6 @@ acanthopteri
 acanthopterygian
 acanthopterygii
 acanthopterous
-acanthoses
 acanthotic
 acanthous
 acanthuses
@@ -8274,6 +8273,7 @@ alimentic
 alimenting
 alimentive
 ambiguity
+acanthoses
 alimentiveness
 alimentotherapy
 aliments
