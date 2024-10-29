@@ -1095,7 +1095,6 @@ fructuary
 farmyardy
 foremastman
 farmland
-farmost
 farmout
 fasteners
 fisc
@@ -5018,6 +5017,7 @@ feckless
 feud
 fuligo
 flaps
+farmost
 flare
 flareback
 ferments
