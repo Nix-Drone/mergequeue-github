@@ -5012,7 +5012,6 @@ flappers
 flappet
 flappy
 faxes
-flapping
 flywire
 feckless
 feud
@@ -10569,6 +10568,7 @@ friendlike
 frouziest
 frow
 frowardness
+flapping
 frower
 felstones
 frowy
