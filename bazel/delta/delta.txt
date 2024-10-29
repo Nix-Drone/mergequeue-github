@@ -14561,6 +14561,7 @@ describe
 dolent
 djuka
 dk
+discriminations
 dkg
 dkl
 disgruntle
@@ -16914,7 +16915,6 @@ dreamfulness
 dreamhole
 dreamy
 dreamier
-discriminations
 dreamiest
 dreamily
 dreamish
