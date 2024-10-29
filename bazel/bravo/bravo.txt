@@ -12687,6 +12687,7 @@ bookplate
 bookplates
 barwise
 bookpress
+borel
 bookrack
 bookracks
 baronry
@@ -12994,7 +12995,6 @@ bugseeds
 boodleism
 banjore
 boreism
-borel
 borele
 betrample
 borers
