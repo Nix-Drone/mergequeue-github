@@ -4634,6 +4634,7 @@ carpetmaker
 carpetmaking
 carpetmonger
 carpets
+counterfact
 carpetweb
 carpetweed
 carpetwork
@@ -26793,7 +26794,6 @@ counterexplanation
 counterexposition
 counterextend
 counterextension
-counterfact
 carniferous
 counterfactual
 counterfactually
