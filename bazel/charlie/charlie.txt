@@ -3141,7 +3141,6 @@ capitate
 capitated
 capitatim
 capitation
-capitations
 capitatum
 capite
 capiteaux
@@ -21371,6 +21370,7 @@ credulously
 conciousness
 concipient
 concise
+capitations
 concisely
 conciseness
 clocks
