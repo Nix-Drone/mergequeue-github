@@ -863,7 +863,6 @@ baga
 baganda
 bagani
 bagass
-bagasse
 bagasses
 bagataway
 bagatelle
@@ -4602,6 +4601,7 @@ becurse
 becursed
 becurses
 becursing
+bagasse
 becurst
 becurtained
 becushioned
