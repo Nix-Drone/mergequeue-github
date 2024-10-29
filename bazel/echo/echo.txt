@@ -2335,7 +2335,6 @@ electrocardiogram
 electrocardiograms
 escarped
 electrocardiograph
-electrocardiographic
 electrocardiographically
 electrocatalysis
 electrocatalytic
@@ -5780,6 +5779,7 @@ engouled
 engoument
 equipondious
 engr
+electrocardiographic
 equant
 engrace
 employs
