@@ -2678,6 +2678,7 @@ canoeload
 canoeman
 canoes
 canoewood
+competible
 crescendi
 cuprammonium
 canoing
@@ -20575,7 +20576,6 @@ competencies
 competent
 competes
 classmates
-competible
 competingly
 competition
 competitioner
