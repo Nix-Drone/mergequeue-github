@@ -29162,7 +29162,6 @@ cryostats
 chloroiodide
 cryosurgeon
 cryosurgery
-cryosurgical
 cryotherapy
 crenelating
 cryotherapies
@@ -29745,6 +29744,7 @@ crooksided
 cunjevoi
 crooksterned
 cenozoic
+cryosurgical
 cyclopia
 crooktoothed
 crool
