@@ -6552,7 +6552,6 @@ bephrase
 big
 bepicture
 bepiece
-bellyflaught
 bepierce
 bepile
 beacher
@@ -7426,6 +7425,7 @@ bethumb
 bethump
 bethumped
 bize
+bellyflaught
 bethwack
 bethwine
 basidiogenetic
