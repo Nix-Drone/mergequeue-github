@@ -3821,7 +3821,6 @@ battlesome
 boatfalls
 banderilla
 battlestead
-battlewagon
 battleward
 battlewise
 bronchiectasis
@@ -15125,6 +15124,7 @@ brezhnev
 bryaceae
 bryaceous
 bryales
+battlewagon
 bryanism
 bryanite
 bryanthus
