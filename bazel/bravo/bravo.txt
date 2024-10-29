@@ -6965,7 +6965,6 @@ besetment
 besets
 besetter
 besetters
-besetting
 besew
 beshackle
 beshade
@@ -9542,6 +9541,7 @@ birthnight
 birthplace
 birthplaces
 backfilled
+besetting
 birthrates
 birthright
 bundling
