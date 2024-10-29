@@ -5560,6 +5560,7 @@ afteract
 afterage
 afterattack
 afterbay
+alkalemia
 appetitive
 afterband
 absorbs
@@ -8389,7 +8390,6 @@ alkahestic
 alkahestica
 alkahestical
 alkaid
-alkalemia
 anesthesiometer
 alumroots
 arcadia
