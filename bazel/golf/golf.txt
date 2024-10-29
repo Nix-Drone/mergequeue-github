@@ -4795,7 +4795,6 @@ gyron
 gironde
 girondin
 gentrice
-gironny
 gyronny
 girons
 gyrons
@@ -6519,6 +6518,7 @@ goffer
 grousy
 gigantal
 genuineness
+gironny
 growliness
 goffered
 gofferer
