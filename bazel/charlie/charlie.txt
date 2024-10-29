@@ -2674,7 +2674,6 @@ canoe
 canoed
 canoeist
 canoeists
-canoeload
 canoeman
 canoes
 canoewood
@@ -7233,6 +7232,7 @@ centropomus
 centrosymmetry
 centrosymmetric
 cuddleable
+canoeload
 countians
 centrosymmetrical
 centrosoyus
