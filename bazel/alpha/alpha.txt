@@ -4647,6 +4647,7 @@ advisement
 atli
 advisements
 adviser
+aptnesses
 advisers
 advisership
 advises
@@ -18183,7 +18184,6 @@ antagonised
 aptitudinally
 aptly
 aptness
-aptnesses
 aptote
 aptotic
 apts
