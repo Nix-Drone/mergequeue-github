@@ -2922,7 +2922,6 @@ decwriter
 deltoid
 dedal
 durn
-dedanite
 demigoddessship
 dedd
 dedecorate
@@ -5007,6 +5006,7 @@ demountability
 demounted
 demounting
 demounts
+dedanite
 disgage
 dempster
 dempsters
