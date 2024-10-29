@@ -4190,7 +4190,6 @@ gilttail
 gilver
 gasterosteoid
 gim
-gimbal
 gimbaled
 gimballed
 groundsheet
@@ -5112,6 +5111,7 @@ glamourize
 glamourless
 glamourous
 glance
+gimbal
 glanced
 glancing
 glancingly
