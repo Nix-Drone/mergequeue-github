@@ -6486,7 +6486,6 @@ caxton
 caza
 cazibi
 cazimi
-cazique
 caziques
 cb
 cc
@@ -19685,6 +19684,7 @@ combinator
 combinatory
 combinatorial
 combinatorially
+cazique
 combinatoric
 combinators
 combind
