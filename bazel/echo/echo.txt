@@ -3919,6 +3919,7 @@ equivote
 excression
 electrotonus
 epacme
+equivalent
 emilia
 emim
 eminence
@@ -8791,7 +8792,6 @@ equivalence
 enantiosis
 equivalenced
 equivalency
-equivalent
 equivalents
 equivaliant
 equivaluer
