@@ -3513,7 +3513,6 @@ caracol
 caracoled
 caracoler
 caracoles
-caracoli
 caracoling
 caracolite
 caracolled
@@ -21430,6 +21429,7 @@ chilostomata
 concolor
 concolour
 concomitance
+caracoli
 concomitant
 concomitantly
 concomitate
