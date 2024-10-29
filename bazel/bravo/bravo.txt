@@ -4827,7 +4827,6 @@ bedrolls
 bedroom
 bedrooms
 bisymmetrically
-bedrop
 bedrown
 bedrowse
 bedrugged
@@ -17587,6 +17586,7 @@ burweeds
 bureaucratically
 bureaucratism
 bureaucratist
+bedrop
 bureaucratization
 bureaucratized
 bureaucratizes
