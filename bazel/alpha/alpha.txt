@@ -8492,7 +8492,6 @@ alkylate
 alkylated
 alkylates
 alkylating
-alkylation
 alkylbenzenesulfonate
 alkylbenzenesulfonates
 alkylene
@@ -11587,6 +11586,7 @@ anaerobation
 anaerobe
 anaerobes
 anaerobian
+alkylation
 anaerobic
 anaerobically
 anaerobies
