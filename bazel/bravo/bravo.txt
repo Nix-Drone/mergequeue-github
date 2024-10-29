@@ -5256,6 +5256,7 @@ begetters
 broth
 beggardom
 beggared
+blip
 beggarer
 beggaress
 bulletheaded
@@ -10881,7 +10882,6 @@ blinkingly
 blinks
 blinter
 blintzes
-blip
 biassed
 bluming
 blypes
