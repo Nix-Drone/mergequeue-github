@@ -4142,7 +4142,6 @@ bean
 badawi
 beanbag
 beanbags
-brickred
 beanball
 beancod
 beaner
@@ -4962,6 +4961,7 @@ bedrock
 beeheaded
 beeherd
 bouncing
+brickred
 beehive
 beehives
 breathes
