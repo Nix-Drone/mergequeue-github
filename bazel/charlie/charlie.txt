@@ -4751,6 +4751,7 @@ carryable
 carriage
 carriageable
 carriageful
+chorook
 carriages
 carriagesmith
 cloddy
@@ -12040,7 +12041,6 @@ crocodile
 choromania
 choromanic
 chorometry
-chorook
 chorotega
 choroti
 chorous
