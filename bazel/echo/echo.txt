@@ -2630,7 +2630,6 @@ envenoms
 electrosmosis
 electrostatic
 electrostatical
-electrosteel
 electrostenolysis
 electrostenolytic
 exciples
@@ -11616,6 +11615,7 @@ evocativeness
 ernest
 energy
 evocator
+electrosteel
 evoe
 eleut
 evoker
