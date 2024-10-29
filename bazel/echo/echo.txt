@@ -3944,7 +3944,6 @@ epitheliliums
 emissive
 emissivity
 earthquaked
-emissory
 emitted
 emittent
 emitter
@@ -13605,6 +13604,7 @@ exterminate
 exterminated
 extremistic
 exterminates
+emissory
 exotery
 extermination
 exterminative
