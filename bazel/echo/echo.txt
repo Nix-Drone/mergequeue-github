@@ -2331,7 +2331,6 @@ epistroma
 electrobus
 electrocapillary
 electrocapillarity
-electrocardiogram
 electrocardiograms
 escarped
 electrocardiograph
@@ -6250,6 +6249,7 @@ encoignure
 endothorax
 enraptured
 escapade
+electrocardiogram
 enraptures
 enrapturing
 enravish
