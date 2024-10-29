@@ -3380,7 +3380,6 @@ definitise
 dilatant
 definitised
 domesticable
-disoccupied
 definitising
 definitive
 deserter
@@ -11046,6 +11045,7 @@ disapprovable
 diaplasma
 disapprovals
 disapproved
+disoccupied
 disapprover
 disapproves
 disapprovingly
