@@ -1743,7 +1743,6 @@ demagnetisable
 debarked
 debarking
 debarkment
-debarks
 debarment
 debarrance
 diavolo
@@ -7118,6 +7117,7 @@ detached
 detachedly
 detacher
 detachers
+debarks
 detaching
 detachment
 dotting
