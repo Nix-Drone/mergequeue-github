@@ -9428,7 +9428,6 @@ ecuadoran
 ephebes
 eruptible
 erupting
-eruption
 erasing
 eruptional
 ellen
@@ -13970,6 +13969,7 @@ extrasocial
 ectophyte
 eulachons
 eshin
+eruption
 extrasolar
 extrasomatic
 extraspectral
