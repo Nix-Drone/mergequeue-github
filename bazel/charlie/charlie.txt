@@ -1219,7 +1219,6 @@ caliber
 calibers
 cunas
 clavicembali
-calibogus
 colunar
 calibrate
 calibrated
@@ -10159,6 +10158,7 @@ careened
 cheval
 chevalet
 chevalier
+calibogus
 centeredness
 chevaliers
 chevaline
