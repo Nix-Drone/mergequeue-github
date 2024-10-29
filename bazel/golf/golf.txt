@@ -5448,7 +5448,6 @@ glycogens
 glycohaemia
 glycol
 glycolaldehyde
-goback
 gayals
 glycolate
 glycolyl
@@ -8361,6 +8360,7 @@ gratiolin
 gratiosolin
 grattage
 gratten
+goback
 gratters
 gleefully
 grattoir
