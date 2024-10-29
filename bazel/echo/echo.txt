@@ -4044,7 +4044,6 @@ empannel
 empanoply
 empaper
 emparchment
-emparl
 empasma
 everbloomer
 empassion
@@ -10066,6 +10065,7 @@ equicellular
 estrayed
 estraying
 estral
+emparl
 estramazone
 estrange
 estranged
