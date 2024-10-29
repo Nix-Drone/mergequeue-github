@@ -17146,7 +17146,6 @@ conjoint
 coalbox
 chillums
 cramoisy
-coalboxes
 coaldealer
 coaled
 coaler
@@ -21083,6 +21082,7 @@ concatenates
 concatenating
 coequating
 concatenation
+coalboxes
 concatenations
 concatenator
 concatervate
