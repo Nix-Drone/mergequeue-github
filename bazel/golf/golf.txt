@@ -4805,7 +4805,6 @@ giros
 gyroscope
 galeopithecus
 gyroscopes
-gyroscopics
 gyrose
 gyrostabilized
 gyrostat
@@ -5834,6 +5833,7 @@ glos
 grizzler
 glandulous
 gastropods
+gyroscopics
 guilders
 gloss
 glossa
