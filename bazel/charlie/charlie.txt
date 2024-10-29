@@ -14590,7 +14590,6 @@ ciseleurs
 cising
 cisium
 cisjurane
-cisleithan
 cislunar
 cismontane
 cismontanism
@@ -20891,6 +20890,7 @@ compressibilities
 compressible
 compressibleness
 compressibly
+cisleithan
 compression
 compressional
 compressive
