@@ -6512,7 +6512,6 @@ ensurer
 ensures
 ergatogyne
 ensuring
-enswathe
 enswathed
 enswathement
 encephalola
@@ -7430,6 +7429,7 @@ eyries
 epee
 epeeist
 embue
+enswathe
 epeira
 epeiric
 epeirid
