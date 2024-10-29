@@ -3129,7 +3129,6 @@ baculite
 bipropellant
 bascules
 bascunan
-base
 baseball
 bojite
 belzebuth
@@ -8281,6 +8280,7 @@ bifid
 bifidate
 bifidated
 bifidity
+base
 bifilar
 bifilarly
 bifistular
