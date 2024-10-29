@@ -5249,6 +5249,7 @@ denominations
 denominative
 dicty
 diosmose
+dsnames
 denominatively
 denominator
 denominators
@@ -17671,7 +17672,6 @@ dsects
 desmodium
 dsname
 dashers
-dsnames
 dsp
 dsr
 dsri
