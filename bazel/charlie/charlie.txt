@@ -14887,7 +14887,6 @@ cytochylema
 cytochrome
 cytocide
 cytocyst
-cytoclasis
 cytoclastic
 coalheugh
 celiolymph
@@ -16984,6 +16983,7 @@ cnidoblast
 cnidocell
 cnidocil
 cnidocyst
+cytoclasis
 cnidophorous
 cupmate
 cnidopod
