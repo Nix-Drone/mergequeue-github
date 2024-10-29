@@ -3550,6 +3550,7 @@ addlins
 addn
 addnl
 addoom
+archivault
 abracadabra
 addossed
 addr
@@ -19065,7 +19066,6 @@ architraved
 architricline
 assentient
 archival
-archivault
 archive
 archived
 archiver
