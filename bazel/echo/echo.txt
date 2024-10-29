@@ -2675,7 +2675,6 @@ electrothermal
 expurgates
 epiperipheral
 electrothermancy
-electrothermic
 electrothermics
 enschedule
 enrapturer
@@ -10010,6 +10009,7 @@ encydlopaedic
 encompasses
 ecdysons
 esthetics
+electrothermic
 esthetology
 enabled
 esthiomene
