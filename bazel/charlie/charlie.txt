@@ -1371,7 +1371,6 @@ calypter
 calypters
 confect
 calyptoblastea
-calyptoblastic
 calyptorhynchus
 calyptraea
 calyptranthes
@@ -25775,6 +25774,7 @@ complexionally
 corrosiving
 corrosivity
 corrugant
+calyptoblastic
 corrugate
 corrugated
 corrugates
