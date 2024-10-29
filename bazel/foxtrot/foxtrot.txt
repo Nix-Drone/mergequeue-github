@@ -4179,7 +4179,6 @@ farness
 firedamp
 feezing
 firedamps
-firedog
 firedragon
 footnotes
 firedrake
@@ -10766,6 +10765,7 @@ frustrate
 frustrated
 frustrates
 flaskets
+firedog
 furling
 foldboat
 frustrating
