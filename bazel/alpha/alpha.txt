@@ -8503,7 +8503,6 @@ alkylogen
 alkyloxy
 alkyls
 alkin
-alkine
 alkyne
 alkynes
 alkitran
@@ -15243,6 +15242,7 @@ antifatigue
 antifebrin
 antifederal
 agad
+alkine
 antifederalism
 antifederalist
 antifelon
