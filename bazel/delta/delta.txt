@@ -2477,7 +2477,6 @@ deckpipe
 decks
 dulls
 deckswabber
-decl
 declaim
 dichorisandra
 declaimant
@@ -10184,6 +10183,7 @@ dynode
 dynodes
 dinoflagellata
 dinoflagellida
+decl
 distresses
 dinomic
 dinomys
