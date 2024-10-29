@@ -1082,6 +1082,7 @@ edge
 edgebone
 emyd
 edgeboned
+exchanges
 emulsor
 edgeless
 executing
@@ -11986,7 +11987,6 @@ exchangeable
 exchanged
 emmeniopathy
 exchangee
-exchanges
 exchanging
 excheat
 exchequer
