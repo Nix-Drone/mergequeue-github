@@ -1680,7 +1680,6 @@ ballplayer
 ballplayers
 ballplatz
 bedrabbled
-ballpoint
 ballproof
 ballrooms
 balls
@@ -14162,6 +14161,7 @@ bayhead
 bradypode
 bradypodidae
 borotungstic
+ballpoint
 bradypus
 bradyseism
 bradyseismic
