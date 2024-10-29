@@ -9846,7 +9846,6 @@ bitrochanteric
 bits
 bitser
 bitsy
-bitstock
 bitstocks
 bitstone
 bitt
@@ -17656,6 +17655,7 @@ bearlet
 burglarized
 burglarizes
 burglarizing
+bitstock
 burglarproof
 burglarproofed
 berat
