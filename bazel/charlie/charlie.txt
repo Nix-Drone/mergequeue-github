@@ -4585,7 +4585,6 @@ carousals
 carouse
 caroused
 carousel
-carousels
 carouser
 cuddly
 carousers
@@ -17733,6 +17732,7 @@ coddled
 coddler
 coddlers
 coddles
+carousels
 code
 codebooks
 codebreaker
