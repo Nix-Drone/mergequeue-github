@@ -1013,7 +1013,6 @@ edam
 edana
 edaphology
 enerve
-edaphon
 edaphosauria
 edaphosaurid
 edaphosaurus
@@ -7237,6 +7236,7 @@ epicentrums
 extrorsal
 enwheeling
 eposes
+edaphon
 eglandulous
 enwheels
 excessiveness
