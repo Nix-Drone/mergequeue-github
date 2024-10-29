@@ -1903,7 +1903,6 @@ bandcutter
 bande
 bandeau
 bandeaux
-betula
 banded
 bandelet
 bandelette
@@ -11092,6 +11091,7 @@ bloodmobile
 broguing
 bertholletia
 brachiopodous
+betula
 bloodnoun
 bloodred
 bloodripe
