@@ -2264,7 +2264,6 @@ elective
 ephemerons
 electives
 electivism
-electivity
 electo
 elector
 expostulator
@@ -4469,6 +4468,7 @@ earle
 eurythermic
 electrobioscopy
 excrescent
+electivity
 encaged
 encages
 economization
