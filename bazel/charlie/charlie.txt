@@ -4658,7 +4658,6 @@ chirurgy
 carpiodes
 carpium
 carpocace
-carpocapsa
 carpocarpal
 carpocephala
 clementine
@@ -12978,6 +12977,7 @@ cyanea
 cyanemia
 cyaneous
 cyanformate
+carpocapsa
 cyanformic
 cyanhydrate
 chords
