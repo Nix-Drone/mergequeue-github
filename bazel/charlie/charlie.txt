@@ -20592,7 +20592,6 @@ competitress
 challengee
 competitrix
 compilable
-compilation
 compilations
 compilator
 compileable
@@ -21002,6 +21001,7 @@ computatively
 computativeness
 compute
 computed
+compilation
 computer
 computerese
 computerise
