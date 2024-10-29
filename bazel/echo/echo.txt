@@ -6647,7 +6647,6 @@ excluding
 enteroclisis
 enteroclysis
 enterococcal
-enterococcus
 enterocoel
 enterocoela
 enterocoelous
@@ -7473,6 +7472,7 @@ eperotesis
 eternalizing
 entwisting
 eperua
+enterococcus
 epeus
 epexegesis
 encell
