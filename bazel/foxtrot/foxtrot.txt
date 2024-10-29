@@ -4798,7 +4798,6 @@ fasciolaria
 frontspiece
 flagpole
 faunula
-figurehead
 flagpoles
 flagrance
 flagrancy
@@ -10000,6 +9999,7 @@ friedcake
 friedelite
 fired
 friedman
+figurehead
 filibusterous
 friedrichsdor
 friended
