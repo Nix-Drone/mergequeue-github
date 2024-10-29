@@ -4195,6 +4195,7 @@ farleu
 fireflirt
 firehall
 firehalls
+firepower
 fronton
 feverweed
 fluff
@@ -4810,7 +4811,6 @@ flagroot
 flags
 flagship
 fuss
-firepower
 flagstaff
 fainer
 factorylike
