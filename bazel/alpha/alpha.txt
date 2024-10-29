@@ -3262,7 +3262,6 @@ actualization
 actualize
 actualizes
 actually
-actualness
 actuals
 agena
 appearanced
@@ -7038,6 +7037,7 @@ ayuntamientos
 apothegm
 ayurveda
 ayurvedas
+actualness
 aiver
 aivers
 aivr
