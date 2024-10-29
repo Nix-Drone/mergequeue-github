@@ -9772,7 +9772,6 @@ chelator
 chelators
 chelerythrine
 chelicer
-chelicera
 chelicerae
 cheliceral
 chelicerate
@@ -10991,6 +10990,7 @@ chiros
 chirospasm
 chirotes
 chirotherian
+chelicera
 chirotherium
 collencyte
 chirothesia
