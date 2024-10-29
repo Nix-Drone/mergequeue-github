@@ -4970,6 +4970,7 @@ flanker
 flankers
 falconries
 fringilliform
+fraternal
 fireshaft
 flanking
 flanks
@@ -9525,7 +9526,6 @@ flaxbush
 frater
 fratery
 frateries
-fraternal
 futurist
 fraternalism
 fraternalist
