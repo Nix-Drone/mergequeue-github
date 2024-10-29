@@ -11145,7 +11145,6 @@ disbandments
 disbands
 disbar
 dysbarism
-dehydrant
 disbark
 drubbings
 disbarment
@@ -16422,6 +16421,7 @@ dowsed
 dowser
 dowsers
 daemonies
+dehydrant
 deprecating
 dowses
 dowset
