@@ -14155,7 +14155,6 @@ compend
 circadian
 circaeaceae
 chamoising
-circaetus
 coriandrol
 circassic
 corpuscle
@@ -29822,6 +29821,7 @@ crossbelt
 crossbench
 crossbencher
 crossbill
+circaetus
 crossbirth
 crossbite
 curriculums
