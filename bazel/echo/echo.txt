@@ -5628,6 +5628,7 @@ enforth
 enfoul
 enfoulder
 enfrai
+enteroceptor
 enframe
 enframed
 enframing
@@ -6626,7 +6627,6 @@ equivalue
 enravishes
 enterocele
 enterocentesis
-enteroceptor
 enterochirurgia
 enterochlorophyll
 expandability
