@@ -6593,7 +6593,6 @@ bequeathing
 brawled
 bequeaths
 bequest
-bequests
 ber
 beray
 berain
@@ -18191,6 +18190,7 @@ butyrin
 butyrins
 bionomist
 butyrochloral
+bequests
 butyrolactone
 butyrometer
 butyrometric
