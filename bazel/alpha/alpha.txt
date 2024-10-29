@@ -11925,7 +11925,6 @@ anaptomorphidae
 anaptomorphus
 anaptotic
 anarcestean
-accentless
 anarcestes
 anarch
 anarchal
@@ -14858,6 +14857,7 @@ anticausotic
 anticaustic
 anticensorial
 anticensorious
+accentless
 anticensoriousness
 anticensorship
 anticentralism
