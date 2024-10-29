@@ -4974,7 +4974,6 @@ fireshaft
 flanking
 flanks
 faineantise
-flankwise
 flatbeds
 flannelboard
 flannelette
@@ -5079,6 +5078,7 @@ fusobteria
 fanterie
 flask
 ferricyanhydric
+flankwise
 flasker
 foretooth
 faecal
