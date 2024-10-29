@@ -2481,6 +2481,7 @@ decl
 declaim
 dichorisandra
 declaimant
+doomsdays
 declaimer
 declaimers
 declaims
@@ -15580,7 +15581,6 @@ doomlike
 dooms
 doomsayer
 doomsday
-doomsdays
 doomsman
 doomstead
 decussating
