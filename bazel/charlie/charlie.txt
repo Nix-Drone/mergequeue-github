@@ -7463,7 +7463,6 @@ celebrator
 ceratoblast
 ceratobranchial
 ceratocystis
-ceratocricoid
 ceratodidae
 ceratodontidae
 ceratodus
@@ -27759,6 +27758,7 @@ cpm
 cpo
 cps
 cpt
+ceratocricoid
 cpu
 cataplexy
 cpus
