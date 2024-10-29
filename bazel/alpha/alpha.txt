@@ -18803,7 +18803,6 @@ archd
 archdapifer
 archdeacon
 archdeaconess
-archdeaconry
 archdeaconries
 archdeacons
 archdeaconship
@@ -25345,6 +25344,7 @@ amnestying
 azotemic
 azotenesis
 assertible
+archdeaconry
 abnegations
 azotes
 azotetrazole
