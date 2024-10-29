@@ -12076,7 +12076,6 @@ bolden
 bolder
 boldest
 boldface
-bostrychoid
 boldfaced
 boldfacedly
 bridler
@@ -14016,6 +14015,7 @@ brachiocubital
 bisme
 brachioganoidei
 brachiolaria
+bostrychoid
 brachiolarian
 brachiopod
 bogusness
