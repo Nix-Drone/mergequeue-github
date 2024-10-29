@@ -5270,7 +5270,6 @@ affectivity
 affectless
 affector
 affectual
-affectum
 affectuous
 affectus
 atresias
@@ -24685,6 +24684,7 @@ aversive
 avert
 adults
 achromatise
+affectum
 avertable
 averted
 avertedly
