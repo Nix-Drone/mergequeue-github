@@ -3389,7 +3389,6 @@ capsuler
 capsules
 capsuliferous
 capsuliform
-capsuligerous
 capsuling
 capsulitis
 capsulize
@@ -29859,6 +29858,7 @@ craniodidymus
 crossfiring
 crossfish
 crossflow
+capsuligerous
 crossflower
 crossfoot
 crossgrainedness
