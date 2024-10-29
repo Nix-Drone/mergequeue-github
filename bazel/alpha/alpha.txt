@@ -849,7 +849,6 @@ aerosphere
 abristle
 abroach
 abrocome
-abrogable
 abrogate
 antagonisation
 abrogates
@@ -1489,6 +1488,7 @@ accessibility
 accessible
 associational
 accessibly
+abrogable
 accessing
 accession
 accessional
