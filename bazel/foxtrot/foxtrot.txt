@@ -2230,7 +2230,6 @@ feltyfare
 feltyflier
 felting
 feltings
-feltmaking
 feltman
 foulard
 foredeep
@@ -11284,6 +11283,7 @@ functionaries
 fatherkin
 freemasonism
 forepayment
+feltmaking
 funkiness
 forgetness
 flocculant
