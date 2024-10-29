@@ -4074,7 +4074,6 @@ deliberalization
 declivate
 deliberalize
 deliberandum
-deliberant
 deliberate
 deliberated
 deliberately
@@ -8227,6 +8226,7 @@ diagonally
 diagonals
 diagonalwise
 dedans
+deliberant
 dicatalexis
 diagonial
 diagram
