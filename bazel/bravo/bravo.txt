@@ -356,7 +356,6 @@ backframe
 beknot
 backfriend
 borgh
-backfurrow
 backgame
 backgammon
 backgeared
@@ -7321,6 +7320,7 @@ bestselling
 bestubble
 bestubbled
 bestuck
+backfurrow
 bestud
 bestudded
 bestudding
