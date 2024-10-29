@@ -14935,7 +14935,6 @@ amortisable
 anticipators
 anticity
 anticytolysin
-anticytotoxin
 anticivic
 anticivil
 anticivilian
@@ -16187,6 +16186,7 @@ antisemitism
 antisensitivity
 albatross
 antisensitizer
+anticytotoxin
 allometric
 antisensitizing
 alkaloid
