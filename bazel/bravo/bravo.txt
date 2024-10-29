@@ -2475,6 +2475,7 @@ bardcraft
 balate
 barde
 butylation
+breton
 bardes
 bardesanite
 barwin
@@ -15047,7 +15048,6 @@ breth
 brethel
 brethrenism
 brainer
-breton
 bretonian
 beslimed
 bretschneideraceae
