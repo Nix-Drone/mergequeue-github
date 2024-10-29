@@ -6145,6 +6145,7 @@ benchman
 benchmar
 benchmark
 benchmarked
+beparse
 benchmarks
 benchmen
 bend
@@ -6531,7 +6532,6 @@ belady
 bepale
 bepaper
 beparch
-beparse
 benefactrix
 bepart
 bepaste
