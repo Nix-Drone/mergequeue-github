@@ -3129,7 +3129,6 @@ fibrocystoma
 fibrocyte
 fibrocytic
 floatiness
-fibroenchondroma
 fibroferrite
 fibroglioma
 fissive
@@ -4417,6 +4416,7 @@ feste
 fishpole
 fishpoles
 fishponds
+fibroenchondroma
 fishpotter
 fishskin
 fishspear
