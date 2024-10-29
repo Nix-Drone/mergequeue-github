@@ -4791,6 +4791,7 @@ fumers
 flaglet
 flotation
 flagman
+forcleave
 flagmen
 fellers
 flagons
@@ -7452,7 +7453,6 @@ forcipulata
 foxed
 forcipulate
 feminine
-forcleave
 fours
 foreknown
 forclose
