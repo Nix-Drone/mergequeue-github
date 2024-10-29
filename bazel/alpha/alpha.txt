@@ -1985,7 +1985,6 @@ acetaldol
 acetalize
 acetals
 acetamid
-acetamide
 acetamidin
 acetamidine
 acetamido
@@ -25188,6 +25187,7 @@ axonolipa
 axonolipous
 axonometry
 amirate
+acetamide
 axonometric
 axonophora
 amentula
