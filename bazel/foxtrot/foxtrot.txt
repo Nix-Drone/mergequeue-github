@@ -1008,7 +1008,6 @@ forklifts
 fardel
 fardelet
 farding
-fardo
 fards
 fissiparation
 fare
@@ -7274,6 +7273,7 @@ footstools
 fleeches
 footways
 footwalk
+fardo
 foulnesses
 footwall
 footwarmer
