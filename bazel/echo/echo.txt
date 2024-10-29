@@ -2635,7 +2635,6 @@ electrostenolysis
 electrostenolytic
 exciples
 electrostriction
-elinvar
 eupione
 extradecretal
 electrosurgery
@@ -5026,6 +5025,7 @@ endhand
 endia
 endiablee
 endiadem
+elinvar
 eyer
 entranced
 endiaper
