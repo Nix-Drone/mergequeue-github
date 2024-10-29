@@ -4573,7 +4573,6 @@ becroak
 becross
 becrowd
 becrowded
-buttering
 becrown
 bearhide
 becrush
@@ -16086,6 +16085,7 @@ barba
 broodless
 broodling
 broodmare
+buttering
 broods
 besplash
 broodsac
