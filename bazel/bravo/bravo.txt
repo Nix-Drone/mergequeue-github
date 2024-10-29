@@ -11800,7 +11800,6 @@ boding
 bodings
 bodyshirt
 barcan
-bodysuits
 bewelter
 bodysurfed
 bodysurfer
@@ -13841,6 +13840,7 @@ bowwow
 bowwows
 box
 boxberry
+bodysuits
 boxberries
 buttonless
 boxbush
