@@ -3742,6 +3742,7 @@ daytale
 dehydrocorydaline
 dehydrocorticosterone
 dehydroffroze
+downtake
 dehydroffrozen
 dehydrofreeze
 dehydrofreezing
@@ -16377,7 +16378,6 @@ downstroke
 downstrokes
 downswing
 downswings
-downtake
 downthrow
 downthrown
 downthrust
