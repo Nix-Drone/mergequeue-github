@@ -15154,7 +15154,6 @@ barnacles
 bindweb
 bribegiver
 bribeless
-briber
 briberies
 bribers
 bribes
@@ -15416,6 +15415,7 @@ banns
 brimfully
 brimfullness
 brimfulness
+briber
 brimless
 bilboes
 bluecap
