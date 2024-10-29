@@ -1083,6 +1083,7 @@ farmerish
 farmerly
 farmerlike
 farmership
+find
 farmhold
 farmhouse
 feronia
@@ -3917,7 +3918,6 @@ finca
 forspeaking
 finchery
 finches
-find
 finalizes
 findable
 flabellinerved
