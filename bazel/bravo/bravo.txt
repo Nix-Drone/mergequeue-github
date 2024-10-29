@@ -10161,7 +10161,6 @@ blacklists
 beachman
 breviaries
 blackmail
-banian
 blackmailed
 blackmailer
 blackmailers
@@ -12634,6 +12633,7 @@ bookdealer
 bushmaster
 bookends
 booker
+banian
 bookery
 bookers
 bookfair
