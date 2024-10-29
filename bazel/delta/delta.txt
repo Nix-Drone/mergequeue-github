@@ -2569,7 +2569,6 @@ decocainize
 decoct
 decoctible
 delawn
-decocting
 decoction
 disarrest
 decoctive
@@ -13830,6 +13829,7 @@ distillmint
 distilment
 distils
 distinct
+decocting
 distinctify
 distinctio
 divagations
