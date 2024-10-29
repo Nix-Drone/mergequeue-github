@@ -16844,6 +16844,7 @@ clubfooted
 clubhand
 clubhands
 clubhaul
+coannexes
 clubhauled
 clubhauling
 clubhauls
@@ -17213,7 +17214,6 @@ coan
 cotangential
 coanimate
 coannexed
-coannexes
 coannihilate
 clarions
 coapostate
