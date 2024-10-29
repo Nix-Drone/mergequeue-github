@@ -3813,7 +3813,6 @@ battlepiece
 battleplane
 barnstorms
 battler
-battles
 battleship
 battleships
 buhr
@@ -3893,6 +3892,7 @@ brache
 behowling
 bunjara
 baulkier
+battles
 baulkiest
 baulks
 baume
