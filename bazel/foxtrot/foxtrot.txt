@@ -4047,7 +4047,6 @@ finishing
 finitary
 finite
 finiteness
-fungology
 finites
 finitesimal
 finitism
@@ -11297,6 +11296,7 @@ funnel
 funneled
 funneling
 flattie
+fungology
 funnelling
 funnels
 funny
