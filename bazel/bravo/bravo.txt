@@ -1903,7 +1903,6 @@ bandcutter
 bande
 bandeau
 bandeaux
-betula
 banded
 bandelet
 bandelette
@@ -16794,6 +16793,7 @@ buduma
 byordinar
 budwood
 budzart
+betula
 budzat
 buenas
 bueno
