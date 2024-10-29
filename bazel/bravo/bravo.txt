@@ -3588,7 +3588,6 @@ bather
 bathers
 bathes
 bathetically
-bathflower
 bathhouse
 bathhouses
 bathyal
@@ -10958,6 +10957,7 @@ blo
 bloat
 backstrokes
 bloated
+bathflower
 benefactorship
 bloatedness
 bloater
