@@ -1741,7 +1741,6 @@ dobroes
 dodecuplet
 demagnetisable
 debarked
-debarking
 debarkment
 debarks
 debarment
@@ -15134,6 +15133,7 @@ dolesomely
 deplete
 dolf
 doli
+debarking
 dolia
 dolichocephali
 dolichocephalism
