@@ -5492,7 +5492,6 @@ bacterioprotein
 behorror
 bellmaster
 bilabe
-behoved
 behoves
 behoving
 bepurple
@@ -11875,6 +11874,7 @@ bogeymen
 bogeys
 boisterousness
 bidar
+behoved
 beefs
 boget
 bogfern
