@@ -2808,7 +2808,6 @@ bartholinitis
 barometrography
 blam
 barometz
-baromotor
 baldricks
 baronage
 baronages
@@ -10120,6 +10119,7 @@ blackfriars
 blackguard
 bos
 blackguardize
+baromotor
 bibbling
 blackguardly
 blackguardry
