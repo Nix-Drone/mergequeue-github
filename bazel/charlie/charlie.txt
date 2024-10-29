@@ -4746,7 +4746,6 @@ carreton
 carretta
 carri
 carry
-carriable
 carryable
 carriage
 carriageable
@@ -22037,6 +22036,7 @@ cajon
 conflexure
 conflict
 chubsucker
+carriable
 conflicted
 classics
 conflictful
