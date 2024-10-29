@@ -5197,7 +5197,6 @@ aetiologue
 aetiotropically
 aetites
 aetobatidae
-aetobatus
 aetolian
 aetomorphae
 aetosaur
@@ -20336,6 +20335,7 @@ arrow
 arrowbush
 arrowhead
 arrowheaded
+aetobatus
 arrowheads
 arrowy
 arrowing
