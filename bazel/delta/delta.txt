@@ -8216,6 +8216,7 @@ diagometer
 demove
 derogations
 dele
+didst
 diagonal
 diagonalizable
 diagonalization
@@ -9141,7 +9142,6 @@ didrachm
 didrachma
 didrachmas
 didric
-didst
 diducing
 diduction
 diductively
