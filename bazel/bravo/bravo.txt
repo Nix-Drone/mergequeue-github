@@ -1841,6 +1841,7 @@ bams
 ban
 bana
 banaba
+bendable
 boss
 bizardite
 bothroi
@@ -6148,7 +6149,6 @@ benchmarked
 benchmarks
 benchmen
 bend
-bendable
 benday
 bendayed
 bended
