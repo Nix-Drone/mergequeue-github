@@ -4352,7 +4352,6 @@ beaverkin
 beaverlike
 beaverroot
 beavers
-beaverskin
 beaverteen
 beaverwood
 beback
@@ -14475,6 +14474,7 @@ branchiosaurus
 branchiostegal
 bawdies
 branchiostegan
+beaverskin
 branchiostege
 bannets
 branchiostegidae
