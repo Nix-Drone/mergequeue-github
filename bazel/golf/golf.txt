@@ -1596,6 +1596,7 @@ guarded
 gashliness
 gentlemanhood
 greedily
+gamelote
 gashouse
 gashouses
 gasifiable
@@ -6905,7 +6906,6 @@ gonocyte
 guitguit
 gonocytes
 gonococcal
-gamelote
 gonococci
 gonococcic
 glacis
