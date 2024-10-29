@@ -5810,6 +5810,7 @@ engraphic
 engraphically
 engrapple
 engrasp
+errors
 engraulis
 engrave
 engravement
@@ -9366,7 +9367,6 @@ errordump
 errorist
 extratheistic
 errorless
-errors
 errs
 errsyn
 ensuing
