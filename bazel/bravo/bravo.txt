@@ -3808,7 +3808,6 @@ butterburr
 battakhin
 battlegrounds
 battlement
-battlements
 battlepiece
 battleplane
 barnstorms
@@ -11760,6 +11759,7 @@ boden
 buskins
 baking
 boder
+battlements
 bodes
 bodewash
 bodeword
