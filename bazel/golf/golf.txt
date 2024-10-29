@@ -955,7 +955,6 @@ giltheads
 gossan
 gamelang
 gamelans
-gameless
 gentian
 gamely
 gamelike
@@ -6768,6 +6767,7 @@ gateward
 grotesquely
 gonadotrophic
 gonadotrophin
+gameless
 gonadotropin
 granivorous
 gonaduct
