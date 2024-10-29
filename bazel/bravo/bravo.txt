@@ -11592,6 +11592,7 @@ boathook
 boathouse
 boathouses
 boatyard
+buchanite
 boatie
 backbends
 boating
@@ -16607,7 +16608,6 @@ borocitrate
 bucerotidae
 buchanan
 brevicipitid
-buchanite
 bucharest
 buchloe
 beant
