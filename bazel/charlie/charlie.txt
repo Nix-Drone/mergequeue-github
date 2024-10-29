@@ -6328,7 +6328,6 @@ cautioners
 cautiones
 cautioning
 cautionings
-cautionry
 cautions
 cautious
 cautiously
@@ -11240,6 +11239,7 @@ copps
 chlorhydric
 chloriamb
 chloriambus
+cautionry
 chloric
 chlorid
 chloridate
