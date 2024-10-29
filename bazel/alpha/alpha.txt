@@ -1579,7 +1579,6 @@ algid
 acclimatizable
 apokreos
 atinkle
-acclimatize
 acclimatizer
 acclimatizes
 acclimatizing
@@ -7577,6 +7576,7 @@ alcedo
 alcelaphine
 arthurian
 alces
+acclimatize
 almug
 alcestis
 alchem
