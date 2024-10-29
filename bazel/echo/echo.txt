@@ -1111,7 +1111,6 @@ edh
 edhs
 edibile
 earthlike
-equipper
 edibility
 edible
 expurgatory
@@ -10650,6 +10649,7 @@ euchloric
 euchlorine
 eleutherodactylus
 euchology
+equipper
 earnie
 evermo
 euchorda
