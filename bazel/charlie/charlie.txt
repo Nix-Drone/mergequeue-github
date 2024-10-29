@@ -2640,7 +2640,6 @@ cohorts
 cannonading
 cannonarchy
 cannonball
-cannonballed
 cannonballing
 chawn
 cannonballs
@@ -19930,6 +19929,7 @@ commandos
 commandress
 commandry
 commandrie
+cannonballed
 clunk
 commandries
 commark
