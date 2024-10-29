@@ -8190,7 +8190,6 @@ chainmaker
 chainmaking
 chiropodist
 chainmen
-chainomatic
 cultists
 chains
 chainsman
@@ -25001,6 +25000,7 @@ cordonnet
 cordons
 cordovans
 cords
+chainomatic
 cordula
 craftmanship
 corduroy
