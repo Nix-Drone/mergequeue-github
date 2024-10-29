@@ -16479,7 +16479,6 @@ antler
 antlered
 alcoves
 antlerite
-antlerless
 antlers
 alphabeted
 antlia
@@ -17516,6 +17515,7 @@ apothegmatize
 apothegms
 apothem
 apothems
+antlerless
 apotheose
 apotheosis
 albuminimetry
