@@ -2649,7 +2649,6 @@ gendarmerie
 gendarmes
 gender
 genderer
-genders
 ghoulie
 geneal
 genealogic
@@ -5514,6 +5513,7 @@ glides
 glidewort
 gliding
 glidingly
+genders
 gliffs
 glykopexic
 glime
