@@ -10258,7 +10258,6 @@ chiasmic
 chiasmodon
 chiasmodontid
 chiasmodontidae
-chiasms
 chiasmus
 chiastic
 chiastolite
@@ -29187,6 +29186,7 @@ cryptamnesia
 cryptamnesic
 cryptanalysis
 cryptanalyst
+chiasms
 cryptanalytic
 cryptanalytical
 cryptanalytically
