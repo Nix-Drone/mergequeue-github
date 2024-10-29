@@ -3983,7 +3983,6 @@ bbs
 bcd
 bch
 bchs
-bd
 bde
 bdellatomy
 brotan
@@ -10664,6 +10663,7 @@ blubberers
 blenching
 blencorn
 backflap
+bd
 blendcorn
 bestill
 broomstaff
