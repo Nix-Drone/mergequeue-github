@@ -6940,6 +6940,7 @@ airport
 airports
 airpost
 airposts
+aquameter
 airproof
 airproofs
 aggrieving
@@ -21911,7 +21912,6 @@ assuager
 assuages
 assuasive
 apair
-aquameter
 assuefaction
 acanthosis
 assuetude
