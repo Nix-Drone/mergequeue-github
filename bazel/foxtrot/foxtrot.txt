@@ -284,7 +284,6 @@ fadedly
 fadednyess
 fadeless
 faden
-fadeout
 fader
 faders
 fadge
@@ -11648,6 +11647,7 @@ fustet
 fusty
 farmage
 fustianish
+fadeout
 forbearingness
 fustianize
 fustians
