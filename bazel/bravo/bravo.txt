@@ -10187,7 +10187,6 @@ biofeedback
 blackshirt
 blackshirted
 barkle
-blacksmith
 blacksmithing
 beastdom
 blacksmiths
@@ -15038,6 +15037,7 @@ brerd
 brere
 brescian
 bressomer
+blacksmith
 brest
 bret
 bretelle
