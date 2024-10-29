@@ -5080,7 +5080,6 @@ endobronchitis
 endocardia
 eluants
 endocardiac
-endocardium
 endocarp
 endocarpal
 endocarpic
@@ -9117,6 +9116,7 @@ erythea
 erythema
 erythemal
 erythemas
+endocardium
 erythematous
 erythemic
 erythorbate
