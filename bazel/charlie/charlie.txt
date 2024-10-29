@@ -11775,6 +11775,7 @@ chondromyces
 chondromyxoma
 chondromyxosarcoma
 chondromucoid
+chave
 chondropharyngeal
 chondropharyngeus
 chondrophyte
@@ -14312,7 +14313,6 @@ circumesophagal
 circumesophageal
 circumfer
 circumference
-chave
 circumferences
 circumferential
 circumferentially
