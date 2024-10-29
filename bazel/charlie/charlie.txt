@@ -2424,7 +2424,6 @@ candles
 candleshine
 candleshrift
 candlesnuffer
-candlestand
 committeewoman
 candlestick
 candlesticked
@@ -17584,6 +17583,7 @@ cashdrawer
 cochylis
 cochin
 cochineal
+candlestand
 cochins
 cochlea
 containerized
