@@ -4930,7 +4930,6 @@ forge
 flaminica
 flaminical
 flamless
-flammable
 filmogen
 floorers
 filefish
@@ -10448,6 +10447,7 @@ forcaria
 filchery
 frictionlessly
 firsts
+flammable
 fishy
 frontispiece
 frontispiecing
