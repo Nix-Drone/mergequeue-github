@@ -6939,6 +6939,7 @@ airplot
 airport
 airports
 airpost
+auditory
 airposts
 airproof
 airproofs
@@ -23346,7 +23347,6 @@ auditives
 agoramania
 accommodational
 auditor
-auditory
 auditorial
 auditorially
 alleviaters
