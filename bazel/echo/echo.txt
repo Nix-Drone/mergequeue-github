@@ -6290,6 +6290,7 @@ eli
 enrol
 enfeebled
 enroll
+exchangee
 enrolle
 enrolled
 enrollee
@@ -11985,7 +11986,6 @@ exchangeability
 exchangeable
 exchanged
 emmeniopathy
-exchangee
 exchanges
 exchanging
 excheat
