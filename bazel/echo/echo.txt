@@ -2216,7 +2216,6 @@ expect
 echoizing
 elderman
 exogamy
-exceptionableness
 enlink
 eldermen
 elders
@@ -12587,6 +12586,7 @@ existing
 existlessness
 exists
 epistemological
+exceptionableness
 exit
 exited
 exitial
