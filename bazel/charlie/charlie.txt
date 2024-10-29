@@ -6024,6 +6024,7 @@ catso
 catspaw
 catspaws
 catstane
+colpeo
 catstep
 catstick
 catstitch
@@ -19464,7 +19465,6 @@ colours
 colourtype
 colp
 colpenchyma
-colpeo
 colpeurysis
 colpheg
 colpindach
