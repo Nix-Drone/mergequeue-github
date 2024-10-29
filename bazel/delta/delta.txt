@@ -3670,7 +3670,6 @@ degradations
 degradative
 degraded
 degradedly
-degradement
 dixy
 degrader
 dehydrogenase
@@ -11104,6 +11103,7 @@ disassimilative
 disassociable
 disassociate
 disassociated
+degradement
 disassociates
 disassociation
 disasterly
