@@ -2112,6 +2112,7 @@ clopping
 campos
 campout
 camps
+categorial
 campshed
 campshedding
 campsheeting
@@ -5728,7 +5729,6 @@ categorem
 categorematic
 categorematical
 category
-categorial
 categoric
 chondrified
 categorical
