@@ -5789,7 +5789,6 @@ engraft
 electrosherardizing
 engrafter
 engraftment
-engrafts
 engrail
 engrailed
 engrailment
@@ -8740,6 +8739,7 @@ equiponderated
 escheve
 equiponderating
 esseda
+engrafts
 equipostile
 etoiles
 equipotential
