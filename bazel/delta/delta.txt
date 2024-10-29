@@ -12135,7 +12135,6 @@ designed
 disflesh
 disoccupation
 disfoliage
-disfoliaged
 disforest
 disforestation
 disformity
@@ -15624,6 +15623,7 @@ doorsills
 doorstead
 didactics
 doorstep
+disfoliaged
 doorstone
 doorstop
 deaconize
