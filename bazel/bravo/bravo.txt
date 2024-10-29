@@ -1800,7 +1800,6 @@ balushai
 balustered
 balusters
 balustrade
-balustrades
 balustrading
 balwarra
 balza
@@ -12836,6 +12835,7 @@ booths
 bootid
 bootie
 bootied
+balustrades
 booties
 bootikin
 bootikins
