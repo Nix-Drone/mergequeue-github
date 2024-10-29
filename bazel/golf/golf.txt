@@ -590,7 +590,6 @@ gyrowheel
 goldfields
 gallein
 galipoidin
-galleins
 galleypot
 galleys
 gamodemes
@@ -5110,6 +5109,7 @@ glossary
 glamourization
 glamourize
 glamourless
+galleins
 glamourous
 glance
 glanced
