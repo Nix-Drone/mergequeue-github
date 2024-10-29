@@ -8936,6 +8936,7 @@ chincha
 characters
 characterstring
 charade
+complimented
 charadrii
 charadriiform
 charadriiformes
@@ -20746,7 +20747,6 @@ complimentariness
 complimentarity
 complimentation
 complimentative
-complimented
 complimenter
 complimenting
 complimentingly
