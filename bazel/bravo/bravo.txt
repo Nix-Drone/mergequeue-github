@@ -1881,7 +1881,6 @@ band
 bandage
 bandaged
 bandager
-bandages
 bandaging
 brakes
 bandagist
@@ -4383,6 +4382,7 @@ beblooded
 beblooding
 bluestockingism
 bebloods
+bandages
 bebloom
 beblot
 beblotch
