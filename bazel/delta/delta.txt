@@ -1194,7 +1194,6 @@ dataset
 datasetname
 datasets
 datatype
-datatypes
 datcha
 dynamometry
 dialyzers
@@ -11103,6 +11102,7 @@ disassimilation
 disassimilative
 disassociable
 disassociate
+datatypes
 disassociated
 disassociates
 disassociation
