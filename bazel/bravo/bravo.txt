@@ -381,7 +381,6 @@ backy
 baseballdom
 buttons
 backyard
-bindlet
 boron
 bullocky
 backyards
@@ -810,6 +809,7 @@ badmen
 besodden
 badmouthed
 badmouthing
+bindlet
 badmouths
 badnesses
 badrans
