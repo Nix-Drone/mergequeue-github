@@ -3050,7 +3050,6 @@ fiascos
 flattops
 fiat
 frostflower
-fiatconfirmatio
 fiats
 fiaunt
 fib
@@ -9849,6 +9848,7 @@ frenne
 frenula
 frenular
 frenulum
+fiatconfirmatio
 frenums
 frenuna
 fraicheur
