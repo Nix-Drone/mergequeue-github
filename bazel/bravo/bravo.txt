@@ -556,7 +556,6 @@ backups
 backus
 backveld
 backvelder
-backway
 backwall
 bewhite
 backward
@@ -16840,6 +16839,7 @@ buffle
 bufflehead
 buffleheaded
 buffone
+backway
 buffont
 backhauled
 buffoon
