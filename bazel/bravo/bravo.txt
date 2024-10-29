@@ -1594,7 +1594,6 @@ ballfield
 ballflower
 ballgame
 ballgames
-ballgowns
 ballhausplatz
 ballhawk
 ballhawks
@@ -13347,6 +13346,7 @@ botryogen
 bereaved
 botryoid
 bantin
+ballgowns
 botryomycoma
 biquadratic
 botryomycosis
