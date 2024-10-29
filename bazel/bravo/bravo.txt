@@ -562,7 +562,6 @@ bewhite
 backward
 backwardation
 backwardly
-backwardness
 backwards
 bipartible
 backwash
@@ -5296,6 +5295,7 @@ begirdled
 begirdles
 begirdling
 begirds
+backwardness
 begirt
 beglad
 begladding
