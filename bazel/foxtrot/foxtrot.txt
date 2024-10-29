@@ -2469,7 +2469,6 @@ fermatas
 fermate
 fleshed
 ferme
-familarity
 fullymart
 forespeed
 ferment
@@ -4274,6 +4273,7 @@ firk
 firked
 furfuramide
 firker
+familarity
 firkin
 firking
 firkins
