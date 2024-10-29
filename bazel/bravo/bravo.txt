@@ -6406,7 +6406,6 @@ benzdioxdiazine
 benzdioxtriazine
 benzein
 benzene
-benzeneazobenzene
 bastian
 benzenediazonium
 birthrate
@@ -8568,6 +8567,7 @@ biliferous
 backfall
 benzazole
 bacchian
+benzeneazobenzene
 bilify
 buncombes
 bilifuscin
