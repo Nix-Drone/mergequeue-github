@@ -6668,7 +6668,6 @@ designates
 designation
 designatory
 designators
-designatum
 detersive
 designedly
 designedness
@@ -8528,6 +8527,7 @@ diaphanoscope
 dirties
 diaphanotype
 diaphanous
+designatum
 diaclasite
 dewfall
 decants
