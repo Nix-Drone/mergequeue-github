@@ -4448,6 +4448,7 @@ formatter
 fission
 fissionable
 fissioned
+folios
 frays
 fissions
 fissipalmation
@@ -6888,7 +6889,6 @@ foreporch
 foliolate
 foliole
 finecomb
-folios
 formfitting
 foliose
 flintiest
