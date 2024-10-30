@@ -4311,6 +4311,7 @@ firoloida
 flammability
 facia
 furlongs
+frontager
 first
 fylker
 forbearer
@@ -10404,7 +10405,6 @@ frons
 factful
 frontage
 feldspars
-frontager
 fertilised
 frontages
 frontal
