@@ -12953,7 +12953,6 @@ borderers
 bordering
 borderings
 borders
-borderland
 borderlander
 borderlands
 borderless
@@ -17102,6 +17101,7 @@ burghmoot
 bahawder
 blushet
 bulldozers
+borderland
 bulldozes
 bulldozing
 blubberingly
