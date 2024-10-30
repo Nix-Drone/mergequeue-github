@@ -7615,7 +7615,6 @@ epicele
 enshrining
 epicene
 endrins
-enddamage
 epicenes
 epicenism
 epicentral
@@ -7668,6 +7667,7 @@ epiclike
 epiclinal
 epicnemial
 epicoele
+enddamage
 epicoelia
 epicoeliac
 epicoelian
