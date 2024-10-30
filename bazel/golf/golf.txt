@@ -4105,7 +4105,6 @@ gaddi
 gamene
 gild
 gildable
-gildedness
 gilden
 gilder
 grewhound
@@ -7655,6 +7654,7 @@ gradiometer
 gnaw
 general
 granters
+gildedness
 gradiometric
 grads
 granzita
