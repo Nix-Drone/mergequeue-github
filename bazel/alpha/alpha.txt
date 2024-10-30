@@ -4442,7 +4442,6 @@ adstipulation
 adstipulator
 adsum
 adterminal
-adtevac
 aduana
 adular
 adularescence
@@ -11010,6 +11009,7 @@ amphi
 amphiarthrodial
 amphiarthroses
 amphiarthrosis
+adtevac
 amphiaster
 amphibali
 amphibial
