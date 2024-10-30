@@ -1023,7 +1023,6 @@ absorbents
 absorber
 absorbers
 absorbing
-absorbtion
 absorpt
 absorptance
 absorptiometer
@@ -5882,6 +5881,7 @@ agates
 agatha
 agathaea
 agathaumas
+absorbtion
 agathin
 agathis
 agathism
