@@ -18827,6 +18827,7 @@ colk
 colla
 collab
 csnet
+coverall
 carriageless
 collabent
 collaborate
@@ -27455,7 +27456,6 @@ coventrize
 cover
 coverable
 coverages
-coverall
 coveralled
 coveralls
 coverchief
