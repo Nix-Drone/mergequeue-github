@@ -7150,7 +7150,6 @@ detainment
 detar
 detassel
 detat
-detax
 detd
 detect
 detectability
@@ -11885,6 +11884,7 @@ diseducate
 druxy
 dositheans
 disegno
+detax
 diselectrification
 diselenid
 diselenide
