@@ -2809,6 +2809,7 @@ genin
 gestures
 genio
 genioglossal
+gutturalness
 globoids
 genioglossi
 genioglossus
@@ -10810,7 +10811,6 @@ gutturalize
 glycerolize
 gutturalized
 gutturalizing
-gutturalness
 gyniatry
 gutturals
 graphometer
