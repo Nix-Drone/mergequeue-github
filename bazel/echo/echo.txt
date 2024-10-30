@@ -8629,7 +8629,6 @@ equicostate
 egrets
 equicurve
 equid
-equidiagonal
 equidifferent
 equidimensional
 equidist
@@ -9029,6 +9028,7 @@ ergs
 entamoebiasis
 eria
 erian
+equidiagonal
 estrepe
 earings
 exocardial
