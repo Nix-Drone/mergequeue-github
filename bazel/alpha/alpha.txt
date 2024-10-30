@@ -8751,7 +8751,6 @@ ammonolyses
 allobroges
 allobrogical
 allocability
-allocable
 allocatable
 allocate
 allocatee
@@ -12547,6 +12546,7 @@ anerethisia
 acinetarian
 anergy
 anergia
+allocable
 anergias
 anergic
 accentuable
