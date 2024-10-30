@@ -426,6 +426,7 @@ backpedal
 backpedaled
 backpedaling
 backpiece
+biconsonantal
 backplane
 backplanes
 backplate
@@ -8116,7 +8117,6 @@ boundlessness
 biconical
 biconically
 biconjugate
-biconsonantal
 biconvex
 biconvexity
 bicorn
