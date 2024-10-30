@@ -4737,7 +4737,6 @@ ersatzes
 ease
 enciphered
 enciphering
-encipherment
 evolutional
 encipherments
 epigean
@@ -6965,6 +6964,7 @@ entoptoscope
 entoptoscopic
 entorganism
 enjoyableness
+encipherment
 entosphenal
 entosphere
 entosterna
