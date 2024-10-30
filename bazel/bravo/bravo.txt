@@ -6505,7 +6505,6 @@ benzothiodiazole
 benzothiofuran
 benzothiophene
 benzothiopyran
-benzotoluide
 believableness
 benzotriazine
 benzotriazole
@@ -13472,6 +13471,7 @@ bougainvilliidae
 bougar
 bouge
 brogued
+benzotoluide
 bougee
 bougeron
 bough
