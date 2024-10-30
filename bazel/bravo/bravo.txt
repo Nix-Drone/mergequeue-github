@@ -1919,6 +1919,7 @@ banders
 banjara
 bandersnatch
 bandfile
+bioelectricity
 bandfiled
 bandfish
 bandgap
@@ -8978,7 +8979,6 @@ bioecologies
 bioecologist
 bioelectric
 bioelectrical
-bioelectricity
 bioelectricities
 bioelectrogenesis
 bioelectronics
