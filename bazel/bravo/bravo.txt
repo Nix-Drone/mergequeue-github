@@ -1918,6 +1918,7 @@ banderoles
 banders
 banjara
 bandersnatch
+brownwort
 bandfile
 bandfiled
 bandfish
@@ -16245,7 +16246,6 @@ brownstone
 brownstones
 browntail
 brownweed
-brownwort
 browpost
 brows
 bobolinks
