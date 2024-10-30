@@ -11202,7 +11202,6 @@ chloralose
 chloralosed
 chloralum
 chlorambucil
-chloramin
 crepidomata
 chloramine
 chloramphenicol
@@ -11890,6 +11889,7 @@ chordaceous
 chordal
 chordamesoderm
 chordamesodermal
+chloramin
 chordamesodermic
 chordata
 chordate
