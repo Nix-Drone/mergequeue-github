@@ -548,7 +548,6 @@ backtender
 backtenter
 backtrack
 backtracked
-backtracker
 backtracking
 backtracks
 backtrail
@@ -13818,6 +13817,7 @@ bowne
 bowpot
 bowpots
 blitheful
+backtracker
 bows
 bowsaw
 bowsed
