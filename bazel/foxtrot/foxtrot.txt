@@ -6105,7 +6105,6 @@ felspar
 furnisher
 flotsams
 fishmeal
-freighter
 film
 forewish
 fleecelike
@@ -9160,6 +9159,7 @@ foxhole
 flexionless
 foxholes
 foxhound
+freighter
 foxhounds
 filterer
 frumpishness
