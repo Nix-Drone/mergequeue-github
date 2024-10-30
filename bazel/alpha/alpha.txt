@@ -1513,7 +1513,6 @@ accessorized
 accessorizing
 accessors
 acciaccatura
-acciaccaturas
 acetite
 acciaccature
 accidence
@@ -7395,6 +7394,7 @@ alberttype
 albescent
 albespyne
 albeston
+acciaccaturas
 albetad
 albian
 albicans

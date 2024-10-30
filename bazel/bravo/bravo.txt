@@ -2446,7 +2446,6 @@ barbute
 barbuts
 barrooms
 basis
-barbwire
 barbwires
 ballyhooer
 bullpout
@@ -11138,6 +11137,7 @@ blooie
 bloomed
 bloomery
 bricks
+barbwire
 bloomeries
 baluchi
 bloomfell
