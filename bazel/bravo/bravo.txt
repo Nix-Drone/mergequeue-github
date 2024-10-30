@@ -6200,6 +6200,7 @@ benefaction
 benefactive
 benefactor
 benefactors
+breakfronts
 bhikhari
 benefactress
 benefactresses
@@ -14825,7 +14826,6 @@ breakfast
 breakfasted
 breakfasting
 breakfasts
-breakfronts
 breaking
 breakings
 breakless
