@@ -12567,7 +12567,6 @@ chronicle
 chronicled
 chronicler
 chroniclers
-chronicles
 chronicling
 censer
 chronicon
@@ -20638,6 +20637,7 @@ complecting
 complection
 complects
 complement
+chronicles
 complementalness
 complementary
 cognition
