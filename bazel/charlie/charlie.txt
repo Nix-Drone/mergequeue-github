@@ -15373,7 +15373,6 @@ clampdown
 clamped
 curricularization
 clamper
-clampers
 clamping
 clamps
 clamshell
@@ -18082,6 +18081,7 @@ coercibility
 cardiaplegia
 coercible
 coercibleness
+clampers
 coercibly
 coercion
 coercionary
