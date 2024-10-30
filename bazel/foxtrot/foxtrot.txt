@@ -1791,7 +1791,6 @@ families
 featherer
 featherers
 forejudgment
-featherfew
 featherfoil
 featherhead
 fama
@@ -7536,6 +7535,7 @@ forebode
 forebodement
 forbbore
 forebodes
+featherfew
 forebody
 forebodies
 foreboding
