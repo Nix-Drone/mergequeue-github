@@ -7354,7 +7354,6 @@ foraneen
 foraramens
 frequentation
 forastero
-forbad
 fie
 forbade
 forbare
@@ -11461,6 +11460,7 @@ facets
 fireboxes
 furnishings
 fudges
+forbad
 felup
 filaceous
 furnishness
