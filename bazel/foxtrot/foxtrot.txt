@@ -126,7 +126,6 @@ facings
 francophile
 foldable
 functionally
-faciolingual
 facioplegia
 facit
 fantaddish
@@ -5461,6 +5460,7 @@ formatters
 fanjets
 fleshless
 fleshlier
+faciolingual
 fleshliest
 failingly
 fleshliness
