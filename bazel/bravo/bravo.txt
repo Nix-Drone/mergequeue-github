@@ -10479,7 +10479,6 @@ blat
 blatancy
 blatant
 blatantly
-blatch
 bombylious
 blatchang
 brahma
@@ -12732,6 +12731,7 @@ bookwright
 bool
 bowline
 boolean
+blatch
 booleans
 booley
 booleys
