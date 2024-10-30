@@ -3492,7 +3492,6 @@ defoliage
 defoliant
 dorsobranchiata
 defoliants
-defoliate
 defoliates
 defoliating
 defoliation
@@ -11947,6 +11946,7 @@ dorados
 disemployment
 dirking
 disempower
+defoliate
 disemprison
 disenable
 disenabled
