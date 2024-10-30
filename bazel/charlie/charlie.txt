@@ -4964,7 +4964,6 @@ carve
 carved
 campshot
 carvels
-cannabinol
 carven
 carvene
 carver
@@ -9561,6 +9560,7 @@ checkrack
 checkrail
 checkrein
 checkroll
+cannabinol
 checkroom
 compathy
 checkrooms
