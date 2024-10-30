@@ -2938,7 +2938,6 @@ eyewinks
 enfranchisable
 electrooptics
 elicitation
-elicitor
 elicitory
 elicitors
 elicits
@@ -7966,6 +7965,7 @@ epilogation
 epilogic
 enstatitic
 epilogical
+elicitor
 epilogize
 erosible
 epinasty
