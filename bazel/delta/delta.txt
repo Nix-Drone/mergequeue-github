@@ -3289,7 +3289,6 @@ deferment
 deferments
 deferrable
 deferral
-deferrals
 deferred
 deferrer
 deferrers
@@ -15099,6 +15098,7 @@ dolabra
 dolabrate
 diathetic
 dolabriform
+deferrals
 dolcan
 dolcemente
 dolci
