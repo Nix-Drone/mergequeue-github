@@ -4041,7 +4041,6 @@ finings
 federatist
 finishable
 finisher
-finishers
 finishes
 finishing
 finitary
@@ -6150,6 +6149,7 @@ flaring
 foredoor
 flowable
 flowage
+finishers
 flowcharted
 fulicinae
 flowcharts
