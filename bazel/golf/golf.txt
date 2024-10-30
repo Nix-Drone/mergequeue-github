@@ -3920,6 +3920,7 @@ gibsons
 gibstaff
 gibus
 gibuses
+glamoured
 giddap
 guideless
 giddy
@@ -5663,7 +5664,6 @@ gol
 globefishes
 globeflower
 glimpsers
-glamoured
 globelet
 guttiferous
 globes
