@@ -2420,6 +2420,7 @@ electrodissolution
 electroed
 encrinite
 electroencephalogram
+endogenous
 electroencephalograms
 electroencephalograph
 exciting
@@ -5178,7 +5179,6 @@ exorate
 endogenicity
 endogenies
 exundation
-endogenous
 essive
 exercised
 electrocataphoresis
