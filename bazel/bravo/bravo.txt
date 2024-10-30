@@ -3820,7 +3820,6 @@ buhr
 battlesome
 boatfalls
 banderilla
-battlestead
 battlewagon
 battleward
 battlewise
@@ -16003,6 +16002,7 @@ bronchopleurisy
 bronchopulmonary
 bronchorrhagia
 bronchorrhaphy
+battlestead
 bronchorrhea
 bronchoscope
 bronchoscopy
