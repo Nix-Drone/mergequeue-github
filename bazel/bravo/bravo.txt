@@ -2959,7 +2959,6 @@ barrelful
 barrelfuls
 blind
 barrelhead
-barrelhouse
 barrelhouses
 besmearer
 barreling
@@ -7730,6 +7729,7 @@ bezesteen
 burrah
 bezetta
 bivoltine
+barrelhouse
 bitonality
 bezils
 buchmanism
