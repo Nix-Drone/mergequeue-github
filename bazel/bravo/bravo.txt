@@ -1996,7 +1996,6 @@ bandora
 bandore
 bronchium
 bandos
-bandpass
 bandrol
 bandsaw
 bandsawed
@@ -12513,6 +12512,7 @@ bedplate
 bonnes
 bonnet
 bonneted
+bandpass
 bonneter
 bonnethead
 bonnetiere
