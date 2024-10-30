@@ -1306,7 +1306,6 @@ garage
 garaged
 gyved
 gowk
-glandless
 garageman
 garaging
 garance
@@ -1542,6 +1541,7 @@ ghouls
 garruline
 garrulity
 glossematic
+glandless
 garrulousness
 garrulus
 gars
