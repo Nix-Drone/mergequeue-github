@@ -4072,7 +4072,6 @@ delian
 disclosable
 deliberalization
 declivate
-deliberalize
 deliberandum
 deliberant
 deliberate
@@ -6205,6 +6204,7 @@ derivatives
 dacoit
 derivedly
 derivedness
+deliberalize
 deriver
 derives
 discontentment
