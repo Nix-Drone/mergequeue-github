@@ -7705,7 +7705,6 @@ brushfire
 bewraps
 battleground
 bathycurrent
-bewrapt
 bewrathed
 bewreak
 bewreath
@@ -11767,6 +11766,7 @@ bodge
 bodger
 brashes
 barfly
+bewrapt
 bodybending
 bodybuild
 bodybuilders
