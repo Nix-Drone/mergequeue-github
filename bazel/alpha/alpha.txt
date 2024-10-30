@@ -8645,7 +8645,6 @@ allergenicity
 allergia
 allergies
 allergin
-allergins
 allergist
 allergists
 allergology
@@ -19445,6 +19444,7 @@ argalas
 adenomatous
 argali
 acontius
+allergins
 arithmetics
 argals
 agastroneuria
