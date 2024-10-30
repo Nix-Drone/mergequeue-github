@@ -2656,7 +2656,6 @@ electrotechnics
 electrotechnologist
 embellishes
 electrotelethermometer
-endplay
 electrotellurograph
 electrothanatosis
 exogens
@@ -2694,6 +2693,7 @@ electrotyping
 electrotypist
 electrotitration
 electrotonize
+endplay
 electrotrephine
 electrotropic
 egoize
