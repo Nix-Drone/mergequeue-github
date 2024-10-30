@@ -9844,7 +9844,6 @@ chemicopharmaceutical
 chemicophysical
 chemicophysics
 chemicophysiological
-curtaining
 chemicovital
 chemiculture
 chemigraph
@@ -28449,6 +28448,7 @@ cheapjack
 creaturehood
 creatureless
 creaturely
+curtaining
 creatureliness
 creatureling
 creatures
