@@ -724,7 +724,6 @@ baculites
 baculitic
 baculiticone
 baculoid
-baculus
 bacury
 bad
 badaga
@@ -11612,6 +11611,7 @@ baske
 boatloads
 boatman
 boatless
+baculus
 beigy
 boatmanship
 boatmaster
