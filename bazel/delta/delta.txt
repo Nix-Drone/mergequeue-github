@@ -5692,7 +5692,6 @@ dephosphorize
 depickle
 depict
 depicted
-depicter
 descendents
 denuclearize
 depicting
@@ -14178,6 +14177,7 @@ dytiscus
 ditokous
 daggerbush
 ditolyl
+depicter
 ditremid
 despectant
 ditremidae
