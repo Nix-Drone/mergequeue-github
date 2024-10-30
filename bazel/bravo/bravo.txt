@@ -3502,6 +3502,7 @@ bastioned
 bastionet
 branchiopulmonate
 bastions
+bezazzes
 bastite
 bastnaesite
 bastnasite
@@ -7723,7 +7724,6 @@ bivinyls
 bezante
 bezanty
 bezants
-bezazzes
 bezel
 blockman
 bezesteen
