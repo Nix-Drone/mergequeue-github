@@ -9774,7 +9774,6 @@ bystreet
 bystreets
 bistres
 bistriate
-bistro
 bottleholder
 bistroic
 boos
@@ -13032,6 +13031,7 @@ bursula
 bornan
 bornane
 borne
+bistro
 bornean
 borneol
 borneols
