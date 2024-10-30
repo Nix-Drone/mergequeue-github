@@ -5123,7 +5123,6 @@ dendrochronology
 dendrochronologically
 dendrochronologist
 dendrocygna
-dotty
 dendrocoela
 dimercuric
 dendrocoelan
@@ -11837,6 +11836,7 @@ discussment
 discustom
 discutable
 drunks
+dotty
 discutient
 disdain
 disdainable
