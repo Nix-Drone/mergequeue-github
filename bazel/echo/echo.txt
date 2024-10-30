@@ -8468,7 +8468,6 @@ equip
 eglogue
 epizootology
 eplot
-epoch
 epocha
 eumitosis
 epoche
@@ -9375,6 +9374,7 @@ ersar
 elliptically
 ersatz
 electrolyzable
+epoch
 eulamellibranch
 erse
 erses
