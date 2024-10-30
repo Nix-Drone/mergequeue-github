@@ -1908,6 +1908,7 @@ banded
 bandelet
 bandelette
 bandeng
+barbs
 banderlog
 banderma
 banderol
@@ -11468,7 +11469,6 @@ bluntishness
 bluntly
 badinaged
 bluntness
-barbs
 blur
 blurb
 blurbist
