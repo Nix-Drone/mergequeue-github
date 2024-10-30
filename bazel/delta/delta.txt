@@ -5097,6 +5097,7 @@ denaturization
 denaturize
 denaturizer
 denaturizing
+diplois
 denazify
 denazifies
 denazifying
@@ -8280,7 +8281,6 @@ dialecticize
 dialectics
 diamb
 dialectologer
-diplois
 dialectology
 dialectologic
 dialectological
