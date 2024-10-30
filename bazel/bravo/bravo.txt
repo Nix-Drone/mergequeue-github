@@ -686,6 +686,7 @@ bacteriotoxin
 bal
 bacteriotrypsin
 bynames
+benzols
 bacteriotropic
 blepharedema
 bacterious
@@ -6475,7 +6476,6 @@ benzol
 benzole
 benzoline
 benzolize
-benzols
 benzonaphthol
 benzonitrile
 benzoperoxide
