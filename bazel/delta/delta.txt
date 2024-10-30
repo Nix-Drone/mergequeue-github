@@ -8193,7 +8193,6 @@ diagenetic
 diageotropy
 diageotropic
 diaglyph
-diaglyphic
 ductus
 diaglyptic
 diagnosable
@@ -13880,6 +13879,7 @@ denuders
 distomiasis
 dystomic
 distomidae
+diaglyphic
 dystomous
 distomum
 distressfully
