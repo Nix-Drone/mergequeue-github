@@ -1162,7 +1162,6 @@ ganglioplexus
 gentile
 gangman
 gangmaster
-gangplank
 gangplows
 glycerine
 gonimous
@@ -5560,6 +5559,7 @@ greywether
 glyphic
 gastraeadae
 gus
+gangplank
 glyphographer
 glyphography
 germanly
