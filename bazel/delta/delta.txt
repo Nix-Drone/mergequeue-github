@@ -4945,7 +4945,6 @@ demonopolize
 demonry
 divines
 demonship
-demonstrability
 demonstrable
 destructing
 demonstrableness
@@ -7243,6 +7242,7 @@ determinations
 dissenting
 determinative
 deckings
+demonstrability
 determinatively
 determinativeness
 determinator
