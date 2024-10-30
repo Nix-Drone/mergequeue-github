@@ -2583,6 +2583,7 @@ bargeload
 bargeman
 bromcamphor
 bookmaking
+bethump
 bargemaster
 balanophore
 booklice
@@ -7423,7 +7424,6 @@ bethrall
 beths
 bethuel
 bethumb
-bethump
 bethumped
 bize
 bethwack
