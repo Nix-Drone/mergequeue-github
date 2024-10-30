@@ -3050,7 +3050,6 @@ bess
 bartenders
 bartending
 barter
-barterer
 barterers
 bartering
 barters
@@ -6660,6 +6659,7 @@ bereaves
 berede
 bereft
 becapped
+barterer
 berengaria
 bursate
 bemixing
