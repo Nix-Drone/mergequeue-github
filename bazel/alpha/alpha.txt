@@ -8939,7 +8939,6 @@ allothigenous
 allothimorph
 allothimorphic
 allothogenic
-allotypes
 allotypy
 allotypical
 allotypies
@@ -19936,6 +19935,7 @@ adminiculary
 agentival
 appended
 armiferous
+allotypes
 avidins
 attributives
 armiger
