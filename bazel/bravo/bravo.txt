@@ -804,6 +804,7 @@ badlands
 bogatyr
 buba
 badly
+bandmasters
 badman
 badmash
 badmen
@@ -1971,7 +1972,6 @@ bandlimiting
 bandlimits
 bandman
 bandmaster
-bandmasters
 bando
 bandobust
 bandog
