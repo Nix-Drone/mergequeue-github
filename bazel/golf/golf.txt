@@ -3921,7 +3921,6 @@ gibstaff
 gibus
 gibuses
 giddap
-guideless
 giddy
 goff
 giddybrain
@@ -4519,6 +4518,7 @@ ginney
 ginner
 ginneries
 gloriam
+guideless
 galliney
 gleefulness
 gardebras
