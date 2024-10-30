@@ -1015,7 +1015,6 @@ fare
 farenheit
 friarbird
 flatlands
-felinophobe
 fares
 flaneries
 faretta
@@ -1433,6 +1432,7 @@ fatiguability
 filicoids
 futtock
 fatiguabilities
+felinophobe
 fatigue
 flocced
 fatiguesome
