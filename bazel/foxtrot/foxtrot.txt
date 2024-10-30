@@ -2234,7 +2234,6 @@ feltmaking
 feltman
 foulard
 foredeep
-feltmonger
 felts
 feltwort
 felucca
@@ -4656,6 +4655,7 @@ fjord
 fizzy
 fizziest
 fip
+feltmonger
 fizzle
 fizzled
 fizzling
