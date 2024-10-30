@@ -2223,7 +2223,6 @@ canalize
 canalizes
 canalizing
 canalla
-canalled
 creditorship
 canaller
 canallers
@@ -9573,6 +9572,7 @@ checkrows
 checks
 checkstrap
 checkstring
+canalled
 checksum
 construct
 checksummed
