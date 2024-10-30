@@ -12970,7 +12970,6 @@ dispells
 dispels
 decliners
 danegeld
-dispence
 direly
 dispend
 dispended
@@ -17565,6 +17564,7 @@ druid
 druidess
 druidic
 druidical
+dispence
 decolorise
 druidisms
 desalinized
