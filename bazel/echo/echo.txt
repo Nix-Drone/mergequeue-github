@@ -6460,6 +6460,7 @@ ensnarls
 ensnow
 ectocyst
 ensober
+equipartile
 expiscate
 ensophic
 ensorcel
@@ -8707,7 +8708,6 @@ equipage
 equipages
 equiparable
 equiparation
-equipartile
 equipartisan
 equipartition
 equipedal
