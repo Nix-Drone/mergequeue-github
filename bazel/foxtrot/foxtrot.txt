@@ -5594,7 +5594,6 @@ feodum
 flight
 flighted
 flighter
-flightful
 flighty
 flightier
 flightiest
@@ -11257,6 +11256,7 @@ fungused
 funguses
 fireball
 funguslike
+flightful
 funic
 fistulae
 funicle
