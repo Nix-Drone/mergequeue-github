@@ -5241,7 +5241,6 @@ affectable
 affectate
 astronautic
 affectation
-affectations
 affected
 affectedly
 affecter
@@ -11321,6 +11320,7 @@ arcticwards
 ampulate
 ampulated
 ampulating
+affectations
 ampules
 ampulla
 ampullaceous
