@@ -2811,7 +2811,6 @@ genio
 genioglossal
 globoids
 genioglossi
-genioglossus
 geniohyoglossal
 gapers
 gracilescent
@@ -4579,6 +4578,7 @@ gaetulan
 gipped
 gypped
 gypper
+genioglossus
 gyppery
 gippers
 gippy
