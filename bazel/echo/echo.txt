@@ -2258,7 +2258,6 @@ electing
 election
 electioneer
 elaphurine
-electioneerer
 elections
 elective
 ephemerons
@@ -5618,6 +5617,7 @@ enforcibility
 enforcingly
 enforcively
 enforest
+electioneerer
 enfork
 embassage
 enform
