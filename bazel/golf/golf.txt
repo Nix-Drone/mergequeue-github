@@ -4704,7 +4704,6 @@ girellidae
 gapperi
 grapewort
 grout
-gluelike
 gyrencephala
 gyrencephalic
 gentry
@@ -9691,6 +9690,7 @@ gnomology
 grumbles
 grumbling
 grumblingly
+gluelike
 greyhounds
 genips
 genealogize
