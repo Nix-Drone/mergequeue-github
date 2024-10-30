@@ -395,6 +395,7 @@ faintly
 faintling
 faints
 faipule
+forwear
 fair
 flows
 folsom
@@ -8806,7 +8807,6 @@ forwards
 forwardsearch
 forwarn
 forwean
-forwear
 february
 forwearied
 forwearying
