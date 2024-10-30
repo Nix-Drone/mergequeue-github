@@ -3409,7 +3409,6 @@ captain
 captaincy
 captaincies
 captained
-captainly
 captainry
 cesure
 captainship
@@ -21926,6 +21925,7 @@ confidency
 confident
 cynoscion
 confidente
+captainly
 confidential
 confidentially
 confidentialness
