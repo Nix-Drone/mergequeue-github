@@ -2583,7 +2583,6 @@ bargeload
 bargeman
 bromcamphor
 bookmaking
-bargemaster
 balanophore
 booklice
 barger
@@ -13011,6 +13010,7 @@ borghalpenny
 beryls
 borghi
 borh
+bargemaster
 bori
 babool
 boric
