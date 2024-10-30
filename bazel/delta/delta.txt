@@ -3746,6 +3746,7 @@ dehydroffrozen
 dehydrofreeze
 dehydrofreezing
 daggle
+disoperculate
 dehydrofrozen
 disproved
 dehydrogenate
@@ -12842,7 +12843,6 @@ disoperation
 dasnt
 distains
 disposal
-disoperculate
 disopinion
 depressionary
 disorb
