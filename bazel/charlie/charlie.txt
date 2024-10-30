@@ -5707,7 +5707,6 @@ catechize
 catechized
 catechizer
 catechizes
-catechizing
 catechol
 catecholamine
 catecholamines
@@ -22019,6 +22018,7 @@ coolidge
 confix
 confixing
 conflab
+catechizing
 carf
 conflagrant
 conflagrated
