@@ -1102,6 +1102,7 @@ fisc
 farms
 farmscape
 farmsteads
+fortressing
 farmtown
 farnesol
 farnesols
@@ -2030,7 +2031,6 @@ floative
 feelinglessly
 feelingness
 feelings
-fortressing
 feels
 feering
 fees
