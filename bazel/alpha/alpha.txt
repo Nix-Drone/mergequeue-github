@@ -3974,7 +3974,6 @@ adjoins
 adjoint
 adjoints
 adjournal
-aitkenite
 adjourned
 adjourning
 adjournment
@@ -24036,6 +24035,7 @@ affinage
 autoed
 autoelectrolysis
 autoelectrolytic
+aitkenite
 autoelevation
 autoepigraph
 autoepilation
