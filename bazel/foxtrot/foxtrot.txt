@@ -3974,7 +3974,6 @@ fingerer
 fingerers
 foreschooling
 firebolted
-fingerfish
 fingerhold
 fingerhook
 fingering
@@ -6642,6 +6641,7 @@ foamless
 foamlike
 foams
 fobbing
+fingerfish
 flirtier
 frequents
 focal
