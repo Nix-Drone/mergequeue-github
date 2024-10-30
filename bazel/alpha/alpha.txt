@@ -7816,7 +7816,6 @@ alecup
 alee
 alef
 awikiwiki
-alefnull
 alefs
 aleft
 alefzero
@@ -24959,6 +24958,7 @@ adroit
 awarded
 awardee
 awardees
+alefnull
 awarder
 awarders
 awardment
