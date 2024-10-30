@@ -5081,7 +5081,6 @@ aerosol
 aerosolization
 aerosolize
 aerosolized
-aerosols
 aerosporin
 aerostat
 aerostatic
@@ -11510,6 +11509,7 @@ anachronize
 animalish
 acuerdos
 anachronous
+aerosols
 anachronously
 anachueta
 albuminuria
