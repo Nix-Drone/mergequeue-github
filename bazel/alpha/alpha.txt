@@ -5639,7 +5639,6 @@ afterhours
 afterimpression
 afterings
 afterking
-afterknowledge
 afterlifetime
 afterlight
 afterlives
@@ -5925,6 +5924,7 @@ ageings
 ageism
 ageisms
 ageist
+afterknowledge
 ageists
 agelacrinites
 arithmetical
