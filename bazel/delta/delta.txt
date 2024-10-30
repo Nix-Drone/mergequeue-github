@@ -3601,7 +3601,6 @@ degases
 degasify
 disguise
 definition
-degass
 degassed
 degassing
 degauss
@@ -11234,6 +11233,7 @@ dibromid
 disc
 doubtance
 discabinet
+degass
 discalceate
 discamp
 discandy
