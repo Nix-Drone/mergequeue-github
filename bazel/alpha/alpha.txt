@@ -18933,7 +18933,6 @@ archfool
 archform
 archfounder
 archgenethliac
-archgod
 archgomeral
 archgunner
 archhead
@@ -22018,6 +22017,7 @@ asterikos
 asterin
 anticoagulating
 asterina
+archgod
 archchaplain
 asterinidae
 asterioid
