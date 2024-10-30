@@ -2246,7 +2246,6 @@ enterprises
 elecives
 electability
 electable
-electant
 electary
 epithet
 enthraldom
@@ -5109,6 +5108,7 @@ eardrums
 earthbound
 epistlar
 embolies
+electant
 exinanition
 endoclinal
 endocline
