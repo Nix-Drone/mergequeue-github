@@ -4344,6 +4344,7 @@ fisetin
 fish
 fishability
 fishable
+flangeway
 fishback
 fishberry
 fleshers
@@ -4962,7 +4963,6 @@ flaneur
 flaneurs
 ferruminated
 flangeless
-flangeway
 flankard
 fountainhead
 flanked
