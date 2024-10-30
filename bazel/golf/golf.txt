@@ -503,7 +503,6 @@ gnapweed
 galeopsis
 glossoncus
 galeorchis
-goner
 geelhout
 galeorhinidae
 galeorhinus
@@ -7279,6 +7278,7 @@ genet
 gospelist
 grossing
 gospelize
+goner
 gospeller
 gospelly
 gospellike
