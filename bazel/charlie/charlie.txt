@@ -5055,7 +5055,6 @@ casebook
 collectivity
 casebooks
 casebound
-casebox
 cased
 casefy
 casefied
@@ -29002,6 +29001,7 @@ criminousness
 crimison
 crimmer
 crimmy
+casebox
 crymoanesthesia
 crimogenic
 chastisement
