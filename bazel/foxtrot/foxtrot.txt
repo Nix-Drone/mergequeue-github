@@ -5294,6 +5294,7 @@ fld
 fldxt
 flea
 fiscalize
+february
 flimmer
 fleabag
 fusible
@@ -8807,7 +8808,6 @@ forwardsearch
 forwarn
 forwean
 forwear
-february
 forwearied
 forwearying
 fulmine
