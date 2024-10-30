@@ -5220,6 +5220,7 @@ glassteel
 gnathic
 guestship
 glasswork
+gallflies
 guider
 glassworker
 glassworkers
@@ -7534,7 +7535,6 @@ gowning
 gownlet
 gowns
 gownsman
-gallflies
 gemmates
 gownsmen
 glyoxime
