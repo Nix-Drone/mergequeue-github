@@ -361,6 +361,7 @@ backgame
 backgammon
 backgeared
 barbarical
+barycentric
 background
 backhand
 backhanded
@@ -2613,7 +2614,6 @@ bariatrics
 baric
 barycenter
 bemused
-barycentric
 burmite
 barid
 barie
