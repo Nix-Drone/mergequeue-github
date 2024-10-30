@@ -5015,7 +5015,6 @@ aeromechanics
 aeromedical
 aeromedicine
 aerometeorograph
-aerometer
 aerometry
 abluted
 aerometric
@@ -12561,6 +12560,7 @@ anesthesia
 amishgo
 armisonant
 anesthesimeter
+aerometer
 anesthesiology
 anesthesiologies
 alumstone
