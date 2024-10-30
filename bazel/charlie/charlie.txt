@@ -16091,6 +16091,7 @@ cliency
 client
 clientage
 cliental
+clericalist
 cliented
 clientelage
 clienteles
@@ -26237,7 +26238,6 @@ costlew
 costlier
 costliest
 costliness
-clericalist
 costoabdominal
 costoapical
 costocentral
