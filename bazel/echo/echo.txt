@@ -3917,7 +3917,6 @@ emigrator
 emigre
 equivote
 excression
-electrotonus
 epacme
 emilia
 emim
@@ -8655,6 +8654,7 @@ equilibrant
 equilibrate
 estrum
 equilibrated
+electrotonus
 exodontics
 equilibrates
 enwrapped
