@@ -1354,7 +1354,6 @@ effectors
 effectress
 effects
 effectual
-effectuality
 effectualness
 effectuated
 effectuates
@@ -11784,6 +11783,7 @@ examinatory
 examinatorial
 examine
 excrescently
+effectuality
 examined
 examinee
 ethnolinguistics
