@@ -8920,7 +8920,6 @@ bioastronautics
 bioavailability
 biobibliographer
 biobibliography
-biobibliographic
 biobibliographical
 biobibliographies
 bioblast
@@ -14332,6 +14331,7 @@ braininess
 braining
 brainish
 brainlessly
+biobibliographic
 brainlessness
 brainlike
 brainpan
