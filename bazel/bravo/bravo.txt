@@ -2563,7 +2563,6 @@ bargainable
 billbugs
 bargainee
 bargainer
-bargaining
 bargainor
 bargander
 bumptiously
@@ -6858,6 +6857,7 @@ berrugate
 bersagliere
 bersaglieri
 berseem
+bargaining
 berseems
 berserk
 berserker
