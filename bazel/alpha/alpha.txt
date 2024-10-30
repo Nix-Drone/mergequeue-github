@@ -10506,6 +10506,7 @@ amylenol
 amiles
 amylic
 amylidene
+amylohydrolysis
 amylin
 amylo
 amylocellulose
@@ -10520,7 +10521,6 @@ amylogen
 amylogenesis
 amylogenic
 amylogens
-amylohydrolysis
 amylohydrolytic
 amyloid
 amyloidal
