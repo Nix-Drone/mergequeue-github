@@ -2208,7 +2208,6 @@ fazendeiro
 felons
 felonsetter
 fluorescence
-felonweed
 felonwort
 fractionizing
 flancard
@@ -7429,6 +7428,7 @@ forcene
 forceps
 fey
 forceput
+felonweed
 fazing
 forces
 forcet
