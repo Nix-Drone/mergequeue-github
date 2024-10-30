@@ -4089,7 +4089,6 @@ deliberators
 delicacy
 delicat
 decriminalizing
-delicate
 delicately
 delicates
 delicatessen
@@ -9433,6 +9432,7 @@ downshifting
 digestibleness
 digestibly
 digestif
+delicate
 digesting
 digestion
 digestively
