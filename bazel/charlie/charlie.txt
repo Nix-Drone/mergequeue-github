@@ -4703,7 +4703,6 @@ carport
 carports
 carpos
 carposperm
-chibouk
 carposporangial
 cerebropathy
 carposporangium
@@ -27044,6 +27043,7 @@ counterrotating
 counterround
 counterruin
 counters
+chibouk
 countersalient
 contractional
 countersank
