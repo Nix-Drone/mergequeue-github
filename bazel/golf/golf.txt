@@ -5866,7 +5866,6 @@ glossers
 glosses
 glossy
 glossier
-glossies
 glossiest
 granitical
 glossily
@@ -7547,6 +7546,7 @@ gp
 gpad
 groupoids
 gendered
+glossies
 gpd
 ginnery
 generationism
