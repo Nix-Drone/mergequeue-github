@@ -5076,7 +5076,6 @@ fructure
 flashtube
 flashtubes
 fusobteria
-fanterie
 flask
 ferricyanhydric
 flasker
@@ -10500,6 +10499,7 @@ frostation
 flyblew
 forbodes
 frostbit
+fanterie
 flavorful
 frostbite
 frostbites
