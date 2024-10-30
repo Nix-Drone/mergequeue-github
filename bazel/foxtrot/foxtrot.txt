@@ -7805,6 +7805,7 @@ foremarch
 forsaker
 foremark
 fullface
+fictil
 foremartyr
 foremastmen
 foremasts
@@ -9172,7 +9173,6 @@ feints
 foxinesses
 foxing
 fishybacking
-fictil
 foxly
 foxlike
 flaith
