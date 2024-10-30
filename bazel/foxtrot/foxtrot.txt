@@ -4178,6 +4178,7 @@ firecrackers
 farness
 firedamp
 feezing
+forrel
 firedamps
 firedog
 firedragon
@@ -4317,7 +4318,6 @@ forbearer
 freestone
 firster
 feerie
-forrel
 firsthand
 firstly
 farfetch
