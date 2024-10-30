@@ -1552,7 +1552,6 @@ deaf
 deafened
 deafeningly
 deafens
-downcurved
 diazoimide
 dummered
 deafer
@@ -4319,6 +4318,7 @@ deltic
 deltidia
 deltidium
 displacer
+downcurved
 deltiology
 dialyzing
 dummy
