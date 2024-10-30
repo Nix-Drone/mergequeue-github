@@ -1934,7 +1934,6 @@ gatecrashers
 gated
 gatefold
 grapefruits
-gatehouse
 gatekeep
 glovemaking
 gatekeeper
@@ -4105,6 +4104,7 @@ gaddi
 gamene
 gild
 gildable
+gatehouse
 gildedness
 gilden
 gilder
