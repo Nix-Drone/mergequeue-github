@@ -4122,7 +4122,6 @@ cardoons
 cardophagus
 cardosanto
 cardplaying
-cardroom
 cards
 clearwing
 collunaria
@@ -9766,6 +9765,7 @@ chelatable
 chelate
 chelated
 chelates
+cardroom
 chelating
 chelation
 chelator
