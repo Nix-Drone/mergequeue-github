@@ -9264,7 +9264,6 @@ grazeable
 gelatinochloride
 grog
 grogger
-groggery
 groggeries
 groggy
 groggier
@@ -10510,6 +10509,7 @@ gunks
 gunlayer
 gunlaying
 gunline
+groggery
 greenlandite
 gunlock
 gunlocks
