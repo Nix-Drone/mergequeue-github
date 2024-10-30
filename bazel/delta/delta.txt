@@ -6746,7 +6746,6 @@ desk
 deskbound
 deskill
 desklike
-deskman
 deskmen
 desks
 desktop
@@ -17968,6 +17967,7 @@ discomfortableness
 duim
 duinhewassel
 duit
+deskman
 dujan
 duka
 dukedom
