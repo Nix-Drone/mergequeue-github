@@ -10002,7 +10002,6 @@ chequerboard
 chequered
 chequering
 chapatties
-chequers
 chequerwork
 cheques
 chequy
@@ -14921,6 +14920,7 @@ cytokinesis
 cytokinetic
 cytokinin
 cytol
+chequers
 capacitating
 corries
 citolas
