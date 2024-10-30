@@ -450,7 +450,6 @@ burgle
 behavers
 bluebird
 backsets
-backsetting
 backsettler
 backshish
 begrime
@@ -6721,6 +6720,7 @@ beriberis
 berycid
 berycidae
 beryciform
+backsetting
 berycine
 berycoid
 bridgeboard
