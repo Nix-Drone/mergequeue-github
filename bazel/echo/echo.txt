@@ -625,7 +625,6 @@ echoize
 echolalic
 echoless
 echolocation
-echometer
 echopractic
 echopraxia
 echos
@@ -10281,6 +10280,7 @@ einsteinium
 etherize
 etherized
 etherizes
+echometer
 etherizing
 edict
 eudora
