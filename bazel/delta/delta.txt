@@ -8346,7 +8346,6 @@ dispell
 dialkylamine
 dialkylic
 detentes
-diallage
 diallages
 diallagic
 diallagite
@@ -11967,6 +11966,7 @@ disenchantress
 disencharm
 drip
 disenclose
+diallage
 disencourage
 disencumbered
 disencumberment
