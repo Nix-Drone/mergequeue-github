@@ -1588,7 +1588,6 @@ acclinate
 acclivity
 acclivities
 acclivitous
-acclivous
 accloy
 archengineer
 accoyed
@@ -5171,6 +5170,7 @@ aestus
 aet
 accent
 aetat
+acclivous
 aethalia
 aethalioid
 aethalium
