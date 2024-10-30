@@ -8073,7 +8073,6 @@ algin
 alginate
 alginates
 alginic
-amaterialistic
 algins
 autobasidium
 alginuresis
@@ -21250,6 +21249,7 @@ asymtotic
 asymtotically
 asynapsis
 asynaptic
+amaterialistic
 asynartete
 async
 asynchrony
