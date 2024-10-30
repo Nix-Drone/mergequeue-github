@@ -5123,7 +5123,6 @@ dendrochronology
 dendrochronologically
 dendrochronologist
 dendrocygna
-dotty
 dendrocoela
 dimercuric
 dendrocoelan
@@ -15907,6 +15906,7 @@ dextromanual
 dossil
 dossils
 dartos
+dotty
 dossman
 dormition
 devilwood
