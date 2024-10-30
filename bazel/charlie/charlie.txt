@@ -2098,7 +2098,6 @@ campo
 campodean
 creedbound
 campodeid
-campodeidae
 campodeiform
 campodeoid
 campody
@@ -10363,6 +10362,7 @@ chicks
 chickstone
 chickweed
 chickwit
+campodeidae
 chicle
 chamberfellow
 chicles
