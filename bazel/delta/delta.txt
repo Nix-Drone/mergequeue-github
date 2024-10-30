@@ -12327,7 +12327,6 @@ disheritor
 disherits
 dishes
 dwellers
-disposable
 disheveled
 dishevelled
 dishevelling
@@ -15605,6 +15604,7 @@ dooring
 doorjambs
 doorkeeper
 doorknob
+disposable
 doorknobs
 doorless
 doormaid
