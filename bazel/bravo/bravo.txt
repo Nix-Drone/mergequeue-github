@@ -2742,7 +2742,6 @@ barmaster
 barmbrack
 barmcloth
 brither
-barmecide
 barmen
 barmfel
 becoward
@@ -2898,6 +2897,7 @@ barrable
 bumbledom
 barrabora
 barracan
+barmecide
 barrack
 barracked
 barracker
