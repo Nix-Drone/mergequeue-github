@@ -1,5 +1,4 @@
 emotes
-e
 epigramme
 eschoppe
 ea
@@ -6042,6 +6041,7 @@ enlister
 epistrophe
 enlistment
 engraphia
+e
 enlistments
 enlists
 etiolated
