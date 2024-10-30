@@ -1219,7 +1219,6 @@ educ
 educability
 educable
 educables
-educand
 educatability
 epicrystalline
 eident
@@ -14014,6 +14013,7 @@ extraught
 extrauterine
 es
 extravagance
+educand
 extravagances
 extravagancy
 epiphenomena
