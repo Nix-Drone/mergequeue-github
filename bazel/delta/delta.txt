@@ -6744,6 +6744,7 @@ dolomitized
 desize
 desk
 deskbound
+deaminization
 deskill
 desklike
 deskman
@@ -14733,7 +14734,6 @@ doctrinarily
 decontrol
 doctrinarity
 dissuasive
-deaminization
 doctrinate
 doctrine
 doctrines
