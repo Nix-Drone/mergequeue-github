@@ -12950,7 +12950,6 @@ bowstaff
 bordered
 borderer
 borderers
-bordering
 borderings
 borders
 borderland
@@ -18224,6 +18223,7 @@ butsu
 butsudan
 butt
 butter
+bordering
 butteraceous
 butterback
 butterball
