@@ -2387,6 +2387,7 @@ barbequed
 barber
 barbera
 budlike
+badness
 barbered
 barberfish
 barberite
@@ -16474,7 +16475,6 @@ bruteness
 brutify
 bimorphemic
 brutification
-badness
 brutified
 barbarianize
 burners
