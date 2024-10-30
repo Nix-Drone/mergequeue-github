@@ -15505,7 +15505,6 @@ alar
 antimasks
 antimason
 antimasonry
-antimasque
 antimasquer
 afterstrain
 antimasquerade
@@ -20085,6 +20084,7 @@ aromal
 azonal
 aculeate
 aromas
+antimasque
 aromatic
 aromatical
 aromatically
