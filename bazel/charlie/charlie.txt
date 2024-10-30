@@ -9545,7 +9545,6 @@ checkman
 congruencies
 clipeus
 checkmark
-checkmate
 chirosophist
 checkmating
 checkoffs
@@ -31846,6 +31845,7 @@ cutlers
 cutlet
 cutlets
 cutline
+checkmate
 currycombed
 cutlines
 cutlings
