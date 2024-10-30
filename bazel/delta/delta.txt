@@ -1543,7 +1543,6 @@ deadrise
 deadtongue
 deadweight
 ditto
-deadwork
 deaving
 deaerated
 deaeration
@@ -12889,6 +12888,7 @@ disorient
 discomforted
 disorientate
 disorientates
+deadwork
 disorientating
 daywork
 dilutors
