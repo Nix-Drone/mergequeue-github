@@ -3293,6 +3293,7 @@ deferrals
 deferred
 deferrer
 deferrers
+displeasureable
 deferrize
 deferrized
 deferrizing
@@ -12897,7 +12898,6 @@ disoriented
 disorients
 disour
 disown
-displeasureable
 disowned
 disowning
 disoxidate
