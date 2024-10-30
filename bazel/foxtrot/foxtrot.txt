@@ -4338,6 +4338,7 @@ fischerite
 foresleeve
 friendlies
 fisk
+frosteds
 fise
 forb
 fisetin
@@ -4941,7 +4942,6 @@ flaughter
 flammulated
 flammulation
 flammule
-frosteds
 flams
 flanch
 forkwise
