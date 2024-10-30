@@ -9198,7 +9198,6 @@ chaseable
 chased
 corbeilles
 chasers
-chases
 chashitsu
 chasid
 chasidim
@@ -30167,6 +30166,7 @@ crudle
 cruds
 crudwort
 cruel
+chases
 capibara
 cruelest
 cruelhearted
