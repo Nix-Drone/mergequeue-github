@@ -5673,7 +5673,6 @@ contribute
 catchweight
 catchword
 catchwork
-catclaw
 catdom
 cate
 catechesis
@@ -25857,6 +25856,7 @@ corsican
 circumscribes
 corsie
 corsite
+catclaw
 corslet
 corsned
 corso
