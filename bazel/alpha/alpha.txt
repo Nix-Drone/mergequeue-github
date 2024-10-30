@@ -5209,6 +5209,7 @@ aeviternal
 aevum
 af
 afterpart
+archae
 automate
 aface
 afaced
@@ -18697,7 +18698,6 @@ arceuthobium
 arcform
 arch
 archabomination
-archae
 archaean
 archaeoceti
 archaeocyathidae
