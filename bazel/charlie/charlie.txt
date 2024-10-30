@@ -2966,7 +2966,6 @@ caon
 caoutchin
 caoutchouc
 caoutchoucin
-cap
 capa
 capability
 charks
@@ -27915,6 +27914,7 @@ craftsperson
 craftswoman
 craftwork
 craftworker
+cap
 crag
 craggan
 cragged
