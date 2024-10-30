@@ -4916,7 +4916,6 @@ ectoderm
 encurl
 encurtain
 endosteal
-encushion
 end
 endable
 endamage
@@ -5048,6 +5047,7 @@ evens
 endleaf
 endleaves
 endless
+encushion
 excuses
 endlessly
 electroplating
