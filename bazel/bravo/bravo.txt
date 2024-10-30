@@ -429,7 +429,6 @@ backpiece
 backplane
 backplanes
 backplate
-backpointer
 backpointers
 backrest
 backrope
@@ -4097,6 +4096,7 @@ beakiron
 bosselated
 backhatch
 beakless
+backpointer
 beaklike
 beaks
 beal
