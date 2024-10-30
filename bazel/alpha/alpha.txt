@@ -6875,7 +6875,6 @@ airflow
 airflows
 airfoil
 airfoils
-airframe
 airglow
 airglows
 acondylous
@@ -18919,6 +18918,7 @@ archetypical
 archetto
 archettos
 archeunuch
+airframe
 azotobacterieae
 artamidae
 archeus
