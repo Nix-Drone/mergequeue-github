@@ -1909,7 +1909,6 @@ gastrostomus
 gastrotaxis
 gastrothecal
 gastrotome
-gastrotomy
 gastrotomic
 gastrotubotomy
 gastrovascular
@@ -2638,6 +2637,7 @@ gater
 genapping
 genarch
 galenian
+gastrotomy
 genarcha
 gastrostegal
 genarchaship
