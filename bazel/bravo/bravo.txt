@@ -2170,7 +2170,6 @@ bannerman
 bannermen
 bannerole
 bannerols
-bannerwise
 bannet
 bannisters
 bannition
@@ -12739,6 +12738,7 @@ booly
 boolya
 blebs
 boom
+bannerwise
 boomable
 boomah
 boo
