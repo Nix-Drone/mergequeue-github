@@ -6091,7 +6091,6 @@ enmove
 enmuffle
 enneacontahedron
 ennead
-enhaloing
 enneadic
 enneads
 enneaeteric
@@ -7536,6 +7535,7 @@ ephidrosis
 eluviums
 ephippia
 ephippium
+enhaloing
 ephyrae
 ephyrula
 effluency
