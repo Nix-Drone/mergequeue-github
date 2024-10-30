@@ -541,7 +541,6 @@ dalliers
 dedolomitized
 dallies
 dallyman
-dallis
 dalmania
 debussed
 deads
@@ -5640,6 +5639,7 @@ dependency
 dependencies
 depending
 dependingly
+dallis
 depends
 defacingly
 dukeship
