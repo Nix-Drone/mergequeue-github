@@ -5880,6 +5880,7 @@ enhemospore
 enherit
 enheritance
 enhydra
+estoc
 eyewear
 euphemism
 espalier
@@ -11145,7 +11146,6 @@ empurpled
 europeanism
 europeanization
 enwove
-estoc
 europeanize
 eldfather
 europeans
