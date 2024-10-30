@@ -10413,7 +10413,6 @@ chieftain
 chieftaincy
 chieftaincies
 chieftainess
-chieftainry
 chieftainries
 chieftains
 chieftainship
@@ -28520,6 +28519,7 @@ credos
 credulity
 credulities
 credulous
+chieftainry
 credulousness
 cree
 creed
