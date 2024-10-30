@@ -1688,7 +1688,6 @@ deassimilation
 deathbed
 deathbeds
 deathcup
-degree
 deathcups
 donatary
 deathday
@@ -7570,6 +7569,7 @@ dermatologist
 developmentarian
 developmentist
 drachm
+degree
 dignation
 developments
 developoid
