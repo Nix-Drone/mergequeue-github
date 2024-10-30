@@ -2112,7 +2112,6 @@ acetonation
 acetone
 acetonemia
 acetonemic
-acetonic
 acetonyl
 acetonylacetone
 acetonylidene
@@ -8460,6 +8459,7 @@ alkanet
 accurateness
 alkanethiol
 alkanets
+acetonic
 alkanna
 alkannin
 alkanol
