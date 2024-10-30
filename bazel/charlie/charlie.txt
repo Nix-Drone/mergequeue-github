@@ -930,6 +930,7 @@ calamintha
 calamistrate
 calamistrum
 calamite
+checkrein
 calamitean
 calamity
 calamitoid
@@ -9559,7 +9560,6 @@ checkpoints
 commonize
 checkrack
 checkrail
-checkrein
 checkroll
 checkroom
 compathy
