@@ -2894,7 +2894,6 @@ cantoner
 cellocut
 cheapo
 cantoning
-cantonize
 cantonment
 cantonments
 cantons
@@ -9966,6 +9965,7 @@ chemotropically
 chemotropism
 chempaduk
 chemurgic
+cantonize
 chemurgical
 chemurgies
 chen
