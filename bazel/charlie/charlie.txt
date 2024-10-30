@@ -23071,7 +23071,6 @@ constable
 constablery
 cowgate
 constables
-constableship
 constabless
 constablewick
 constabular
@@ -24991,6 +24990,7 @@ corditis
 cordleaf
 cordlessly
 cordlike
+constableship
 cordoba
 cordoban
 cordobas
