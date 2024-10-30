@@ -709,6 +709,7 @@ famille
 formaldehydesulphoxylate
 famine
 fifteener
+foreset
 famines
 faena
 famished
@@ -7961,7 +7962,6 @@ foresend
 faience
 foremanship
 foresentence
-foreset
 foresettled
 foreshadow
 foreshadowed
