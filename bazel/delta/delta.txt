@@ -6447,6 +6447,7 @@ desands
 desc
 descale
 descaling
+diaglyph
 descamisado
 descamisados
 descant
@@ -8192,7 +8193,6 @@ diagenesis
 diagenetic
 diageotropy
 diageotropic
-diaglyph
 diaglyphic
 ductus
 diaglyptic

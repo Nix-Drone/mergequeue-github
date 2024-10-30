@@ -2812,6 +2812,7 @@ baromotor
 baldricks
 baronage
 baronages
+bookmobile
 baronduki
 bibliolater
 bobberies
@@ -12681,7 +12682,6 @@ bookmarker
 borderline
 bookmarks
 bookmate
-bookmobile
 bookmobiles
 bookplate
 bookplates
