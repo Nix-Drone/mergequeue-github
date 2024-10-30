@@ -9636,7 +9636,6 @@ alvelos
 alveola
 alveolar
 alveolae
-alveolary
 alveolariform
 alveolarly
 alveolars
@@ -18429,6 +18428,7 @@ arachnomorphae
 arachnophagous
 arachnopia
 arad
+alveolary
 aradidae
 araeosystyle
 araeostyle
