@@ -7758,7 +7758,6 @@ aldolization
 anconei
 aldolized
 aldolizing
-aldols
 aldononose
 aldopentose
 aldose
@@ -13897,6 +13896,7 @@ anosmatic
 anosmia
 anosmias
 amyelonic
+aldols
 anosmic
 anosognosia
 anosphrasia
