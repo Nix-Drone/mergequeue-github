@@ -10451,7 +10451,6 @@ chignons
 chigoe
 chigoes
 chih
-conquered
 chihfu
 chihuahua
 chihuahuas
@@ -18164,6 +18163,7 @@ cofeature
 cofeatures
 coferment
 cofermentation
+conquered
 coffea
 centrolineal
 coffeeberry
