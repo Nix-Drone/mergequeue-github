@@ -7110,7 +7110,6 @@ desuperheater
 desuvre
 det
 detach
-detachable
 detachableness
 detachably
 detache
@@ -13047,6 +13046,7 @@ dinosaurian
 disperser
 dispersers
 disperses
+detachable
 dispersibility
 dispersing
 dispersity
