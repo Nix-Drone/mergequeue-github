@@ -3046,7 +3046,6 @@ deepfreeze
 deepfreezing
 deepgoing
 deeping
-deepish
 deeply
 dentils
 deepmost
@@ -5636,6 +5635,7 @@ dependant
 dependantly
 depended
 dependence
+deepish
 dependency
 dependencies
 depending
