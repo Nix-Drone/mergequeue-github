@@ -5897,7 +5897,6 @@ catheters
 catheti
 cathetometer
 cathetometric
-cephalophorous
 cathetus
 cathetusti
 cathexes
@@ -6733,6 +6732,7 @@ celiopyosis
 celiorrhea
 celiosalpingotomy
 capless
+cephalophorous
 contangos
 celioschisis
 celioscope
