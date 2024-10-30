@@ -4142,7 +4142,6 @@ automaton
 admissively
 alibi
 antiperistasis
-admissory
 admit
 admits
 admittable
@@ -4890,6 +4889,7 @@ aerobe
 aerobee
 antitax
 aerobes
+admissory
 aerobia
 asamblea
 alaihi
