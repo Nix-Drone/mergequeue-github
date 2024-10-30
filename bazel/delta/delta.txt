@@ -1896,6 +1896,7 @@ debt
 debted
 debtee
 debtful
+demits
 debtless
 debtor
 debtors
@@ -4751,7 +4752,6 @@ demitint
 demitoilet
 demitrain
 demitranslucence
-demits
 demitted
 denticulately
 demitting
