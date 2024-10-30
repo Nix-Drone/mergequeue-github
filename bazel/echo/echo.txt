@@ -6446,6 +6446,7 @@ enslumber
 ensnare
 ensnared
 explosive
+expressions
 ensnarement
 ensnarer
 ensnarers
@@ -10957,7 +10958,6 @@ euphenic
 epiprecoracoid
 euphenics
 eurasians
-expressions
 euphon
 empair
 encamped
