@@ -285,7 +285,6 @@ backare
 burdensomeness
 backarrow
 backarrows
-backout
 backband
 backbar
 backbearing
@@ -5694,6 +5693,7 @@ bluism
 buna
 belfries
 belga
+backout
 belgas
 belgian
 belgic
