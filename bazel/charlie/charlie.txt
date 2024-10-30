@@ -2975,7 +2975,6 @@ capable
 capableness
 capabler
 capablest
-capably
 capacify
 capacious
 capaciously
@@ -21227,6 +21226,7 @@ concertini
 concertinist
 counterfeited
 concertino
+capably
 concertinos
 concertion
 concertised
