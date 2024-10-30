@@ -8868,7 +8868,6 @@ chaps
 cholic
 chapstick
 concurbit
-chaptalization
 chaptalize
 chapter
 chapteral
@@ -15831,6 +15830,7 @@ calcicole
 cleanses
 cleansing
 cleanskin
+chaptalization
 cleanskins
 cleanup
 clear
