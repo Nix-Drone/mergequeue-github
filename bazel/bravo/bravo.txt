@@ -634,7 +634,6 @@ bacteriform
 bacterin
 borofluoric
 bacterioagglutinin
-bacterioblast
 bacteriochlorophyll
 bacteriocin
 bishopbird
@@ -8900,6 +8899,7 @@ binomenclature
 binomy
 binomialism
 binomially
+bacterioblast
 binomials
 binormal
 binotonous
