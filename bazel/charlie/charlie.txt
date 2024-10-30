@@ -11587,7 +11587,6 @@ choledochectomy
 choledochoduodenostomy
 choledochoenterostomy
 clomb
-choledocholithiasis
 choledocholithotomy
 choledocholithotripsy
 choledochoplasty
@@ -28898,6 +28897,7 @@ cribration
 cribriform
 cribriformity
 cribrosity
+choledocholithiasis
 cribrous
 cribs
 comprehends
