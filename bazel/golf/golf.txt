@@ -956,7 +956,6 @@ gossan
 gamelang
 gamelans
 gameless
-gentian
 gamely
 gamelike
 gymnast
@@ -4634,6 +4633,7 @@ gradine
 gettableness
 griffin
 gartered
+gentian
 gipsology
 gypsology
 gypsophila
