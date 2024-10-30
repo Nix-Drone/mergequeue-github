@@ -2335,7 +2335,6 @@ electrocardiogram
 electrocardiograms
 escarped
 electrocardiograph
-electrocardiographic
 electrocardiographically
 electrocatalysis
 electrocatalytic
@@ -3851,6 +3850,7 @@ emerited
 emeritus
 entertainments
 emerituti
+electrocardiographic
 empaneled
 emerized
 emerizing
