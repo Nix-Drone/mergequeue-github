@@ -2471,6 +2471,7 @@ daphnioid
 deckhand
 deckhead
 deckhouse
+duads
 deckle
 deckman
 deckpipe
@@ -17682,7 +17683,6 @@ du
 duad
 duadic
 disaccustomed
-duads
 duala
 dentalmen
 duali
