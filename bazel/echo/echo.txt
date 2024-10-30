@@ -4377,6 +4377,7 @@ enamelers
 electromotion
 enameling
 enolization
+extractive
 enamelist
 enamellar
 equiped
@@ -13807,7 +13808,6 @@ evections
 extractiform
 extracting
 extractions
-extractive
 extractively
 extractor
 egotizing
