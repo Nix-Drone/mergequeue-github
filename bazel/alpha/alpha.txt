@@ -3653,7 +3653,6 @@ adenine
 adenitis
 adenitises
 adenization
-adenoacanthoma
 adenoblast
 adenocarcinoma
 adenocarcinomas
@@ -17390,6 +17389,7 @@ adherant
 aporobranchia
 aporobranchian
 autoeducative
+adenoacanthoma
 aporocactus
 aporosa
 aporphine
