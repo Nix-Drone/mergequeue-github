@@ -7641,7 +7641,6 @@ cerebrotonia
 contestants
 cerebrovascular
 cerebrovisceral
-cerebrum
 chaumontel
 cerecloth
 cered
@@ -20761,6 +20760,7 @@ complish
 complot
 complotment
 complots
+cerebrum
 complotter
 complotting
 complutensian
