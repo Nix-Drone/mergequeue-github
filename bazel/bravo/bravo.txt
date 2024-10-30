@@ -4251,7 +4251,6 @@ beastlings
 beastship
 beat
 beata
-beatable
 beatably
 beatae
 beatas
@@ -8934,6 +8933,7 @@ biocenosis
 biocentric
 biochemy
 biochemic
+beatable
 biochemically
 biochemics
 biochemistry
