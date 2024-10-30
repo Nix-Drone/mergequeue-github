@@ -6503,7 +6503,6 @@ flush
 flushboard
 flushers
 flushest
-face
 flushgate
 flushy
 flushing
@@ -8891,6 +8890,7 @@ fettstein
 fosslfying
 fosslify
 folkways
+face
 fishwife
 flamefish
 fossor
