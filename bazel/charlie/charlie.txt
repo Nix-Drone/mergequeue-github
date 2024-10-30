@@ -15785,7 +15785,6 @@ clavilux
 coy
 clavipectoral
 clavis
-clavodeltoideus
 clavolae
 clavolet
 clavus
@@ -26727,6 +26726,7 @@ counterconditioning
 counterconversion
 countercoupe
 countercourant
+clavodeltoideus
 countercraft
 countercry
 countercross
