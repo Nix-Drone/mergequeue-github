@@ -7216,7 +7216,6 @@ footmanship
 flathe
 footmark
 footmen
-footnote
 footnoted
 footpace
 footpaces
@@ -10222,6 +10221,7 @@ frivolity
 frivolities
 frivolize
 frivolized
+footnote
 frivolizing
 frivoller
 flatweed
