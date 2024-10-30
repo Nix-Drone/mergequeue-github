@@ -12243,7 +12243,6 @@ bolus
 boluses
 benn
 bomb
-bombable
 bombacaceae
 bombace
 bombay
@@ -13460,6 +13459,7 @@ bouffancy
 biennale
 biquarterly
 bouffant
+bombable
 bouffants
 bouffe
 bumpiness
