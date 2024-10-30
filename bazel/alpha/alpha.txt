@@ -5211,7 +5211,6 @@ af
 afterpart
 automate
 aface
-afaced
 afacing
 afaint
 afara
@@ -21866,6 +21865,7 @@ associativity
 associator
 associatory
 associe
+afaced
 assoiled
 aryanization
 assoiling
