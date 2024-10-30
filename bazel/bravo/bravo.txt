@@ -1381,7 +1381,6 @@ balconet
 balconette
 bag
 blere
-balcony
 balconies
 bald
 bedmaking
@@ -5047,6 +5046,7 @@ beetlestone
 beghard
 beetleweed
 billiardly
+balcony
 bands
 beetlike
 beetrave
