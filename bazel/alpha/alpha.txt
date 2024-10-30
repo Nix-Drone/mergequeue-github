@@ -8489,7 +8489,6 @@ alkylamine
 alkylamino
 alkylarylsulfonate
 alkylate
-alkylated
 alkylates
 alkylating
 alkylation
@@ -9810,6 +9809,7 @@ amarine
 amarity
 amaritude
 azelfafage
+alkylated
 amaroid
 amaroidal
 amarthritis
