@@ -1858,7 +1858,6 @@ gastroparesis
 gunstocker
 gastroparietal
 gastropathy
-gastropathic
 gurjan
 gastroperiodynia
 gu
@@ -4435,6 +4434,7 @@ gingal
 gingalls
 gingeleys
 gingely
+gastropathic
 glyceric
 gingelly
 goblets
