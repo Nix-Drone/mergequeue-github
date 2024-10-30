@@ -7259,6 +7259,7 @@ footslogger
 forgift
 footsoldiers
 finnmarks
+foresweat
 footsore
 footsores
 footstalk
@@ -8094,7 +8095,6 @@ foresummon
 foreswear
 foreswearing
 funkiest
-foresweat
 foreswore
 fumacious
 foret
