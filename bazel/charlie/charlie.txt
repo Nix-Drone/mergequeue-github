@@ -2700,7 +2700,6 @@ congealer
 canonicalness
 canonicals
 canonics
-canonisation
 canonise
 contermine
 canonised
@@ -16339,6 +16338,7 @@ cliquedom
 cliquey
 cliqueier
 cretinize
+canonisation
 cliqueiest
 cliqueyness
 cytome
