@@ -1196,7 +1196,6 @@ datasets
 datatype
 datatypes
 datcha
-dynamometry
 dialyzers
 dateableness
 datebook
@@ -13124,6 +13123,7 @@ displeasedly
 diether
 displeases
 dielec
+dynamometry
 displeasing
 displeasingness
 displeasurable
