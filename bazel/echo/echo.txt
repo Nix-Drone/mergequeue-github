@@ -1226,6 +1226,7 @@ eident
 educatable
 educate
 evitate
+epidiascope
 educated
 educatedly
 educatedness
@@ -7797,7 +7798,6 @@ epidermophytosis
 epidermous
 epiderms
 epidialogue
-epidiascope
 epidiascopic
 epididymal
 epididymides
