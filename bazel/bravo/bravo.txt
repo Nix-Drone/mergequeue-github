@@ -9069,7 +9069,6 @@ biome
 bradycinesia
 biomechanical
 brangler
-begrims
 biomedicine
 biomes
 biometeorology
@@ -15213,6 +15212,7 @@ bricktimber
 bricktop
 brickwall
 brickwork
+begrims
 backstrip
 brid
 bucketing
