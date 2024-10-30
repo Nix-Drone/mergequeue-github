@@ -2732,7 +2732,6 @@ acquittance
 acquitted
 ashkenazim
 acquitter
-acquitting
 acquophonia
 acrab
 acracy
@@ -12523,6 +12522,7 @@ anemopsis
 anemoscope
 afront
 anemoses
+acquitting
 anemosis
 anemotaxis
 anemotropism
