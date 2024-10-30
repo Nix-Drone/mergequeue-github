@@ -5731,7 +5731,6 @@ depilous
 depit
 deplace
 deplaceable
-deplane
 deplaned
 deplaning
 deplant
@@ -15198,6 +15197,7 @@ dollied
 dollier
 dollies
 dollying
+deplane
 dollin
 dolliness
 disuniform
