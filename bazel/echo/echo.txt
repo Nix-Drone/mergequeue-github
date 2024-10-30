@@ -1222,7 +1222,6 @@ educables
 educand
 educatability
 epicrystalline
-eident
 educatable
 educate
 evitate
@@ -11500,6 +11499,7 @@ extermine
 everyway
 everywhen
 everywhereness
+eident
 everywhither
 emissarium
 eluctation
