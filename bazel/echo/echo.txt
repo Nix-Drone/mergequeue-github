@@ -5792,7 +5792,6 @@ engraftment
 engrafts
 engrail
 engrailed
-engrailment
 engrails
 engrained
 epizoicide
@@ -8663,6 +8662,7 @@ equilibrations
 equilibrative
 equilibrator
 equilibria
+engrailment
 equilibrial
 equilibriate
 equilibrio
