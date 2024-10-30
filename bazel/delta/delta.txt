@@ -9981,7 +9981,6 @@ din
 dynactinometer
 dynagraph
 dynam
-dynametric
 dynamic
 dynamically
 dynamicity
@@ -17606,6 +17605,7 @@ drummed
 drummer
 drummers
 drumming
+dynametric
 drummock
 drumread
 drumreads
