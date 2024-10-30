@@ -4502,7 +4502,6 @@ fisticuffery
 fistiness
 fisting
 fistinut
-fistlike
 fistmele
 forecounsel
 fistnotes
@@ -5707,6 +5706,7 @@ fletcher
 flirting
 flirtish
 faunological
+fistlike
 favorers
 feoffee
 fortification
