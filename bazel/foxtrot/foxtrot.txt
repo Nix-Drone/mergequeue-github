@@ -4230,6 +4230,7 @@ firesafeness
 firesafety
 farasula
 fireshine
+fromwards
 fireside
 firesider
 firesideship
@@ -10370,7 +10371,6 @@ fromages
 fromenty
 fromenties
 fromward
-fromwards
 fronde
 frondent
 forestep
