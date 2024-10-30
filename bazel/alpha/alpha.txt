@@ -238,7 +238,6 @@ abcissa
 abcoulomb
 abd
 abdali
-abdaria
 abdat
 abderian
 admonition
@@ -23577,6 +23576,7 @@ anaesthyl
 auriculars
 auriculas
 auriculated
+abdaria
 auriculately
 auriculidae
 auriculocranial
