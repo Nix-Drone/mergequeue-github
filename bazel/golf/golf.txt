@@ -6143,7 +6143,6 @@ graille
 gluneamie
 glusid
 gluside
-glut
 glutamate
 geodesics
 glutamates
@@ -8855,6 +8854,7 @@ grenades
 grenadier
 grenadierial
 grenadierly
+glut
 grenadiers
 grenadin
 grenat
