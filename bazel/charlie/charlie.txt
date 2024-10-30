@@ -16230,7 +16230,6 @@ cask
 clinicist
 clinicopathological
 clinicopathologically
-clinics
 clinid
 clinium
 clink
@@ -28905,6 +28904,7 @@ cribworks
 cricetidae
 cricetids
 cricetus
+clinics
 crick
 cricked
 crickey
