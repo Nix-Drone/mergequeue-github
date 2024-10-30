@@ -6871,6 +6871,7 @@ galactophagous
 grabbling
 goura
 gymnics
+grabbable
 gynophagite
 generates
 gallops
@@ -9028,7 +9029,6 @@ grimacers
 grimaces
 gryllid
 galluptious
-grabbable
 grimacier
 glasser
 grimacingly
