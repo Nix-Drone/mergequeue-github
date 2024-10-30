@@ -9138,7 +9138,6 @@ almsgiving
 almshouse
 albertype
 almsman
-actinobacilli
 almsmen
 almswoman
 almswomen
@@ -12578,6 +12577,7 @@ anesthetization
 anesthetize
 anesthetizes
 anesthetizing
+actinobacilli
 anesthyl
 anestri
 anestrous
