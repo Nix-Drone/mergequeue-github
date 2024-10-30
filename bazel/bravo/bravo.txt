@@ -6587,6 +6587,7 @@ bepuzzlement
 bequalm
 bequeath
 bequeathal
+boltheading
 bequeathed
 bequeather
 bequeathing
@@ -12216,7 +12217,6 @@ bolter
 bolters
 boltheader
 behold
-boltheading
 bolthole
 bolti
 bolty
