@@ -3452,6 +3452,7 @@ deflore
 deflorescence
 deflourish
 dropforged
+dingman
 dubash
 deflower
 deflowered
@@ -10128,7 +10129,6 @@ dingledangle
 dunkirk
 decemvirs
 dingly
-dingman
 dingo
 dings
 dingthrift
