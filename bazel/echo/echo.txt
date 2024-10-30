@@ -2167,7 +2167,6 @@ elaterids
 elaterins
 exterminatress
 elaterite
-elateroid
 elaterometer
 estive
 elaters
@@ -8544,6 +8543,7 @@ eqpt
 equability
 exacerbescent
 emphases
+elateroid
 elastance
 equableness
 equably
