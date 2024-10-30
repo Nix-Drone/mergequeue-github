@@ -5056,7 +5056,6 @@ collectivity
 casebooks
 casebound
 casebox
-cased
 casefy
 casefied
 casefies
@@ -29537,6 +29536,7 @@ criticism
 criticisms
 criticist
 criticizable
+cased
 criticize
 criticized
 criticizer
