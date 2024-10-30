@@ -12506,6 +12506,7 @@ chromophyll
 chromophobe
 chromophobia
 chromophobic
+cpu
 chromophor
 chromophore
 chromophoric
@@ -27759,7 +27760,6 @@ cpm
 cpo
 cps
 cpt
-cpu
 cataplexy
 cpus
 cputime
