@@ -8818,6 +8818,7 @@ bugologist
 byname
 binaphthyl
 binary
+bluntest
 binaries
 binate
 binately
@@ -11460,7 +11461,6 @@ blunnen
 blunt
 blunted
 bn
-bluntest
 blunthead
 blunthearted
 bluntish
