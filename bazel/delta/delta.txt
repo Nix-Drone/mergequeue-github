@@ -743,7 +743,6 @@ dancalite
 dopester
 dance
 danceability
-danceable
 danced
 degasification
 danceress
@@ -3034,6 +3033,7 @@ deeny
 deep
 dueled
 dipping
+danceable
 deepen
 deepened
 deepener
