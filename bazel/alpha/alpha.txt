@@ -1513,7 +1513,6 @@ accessorized
 accessorizing
 accessors
 acciaccatura
-acciaccaturas
 acetite
 acciaccature
 accidence
@@ -9219,6 +9218,7 @@ aloysius
 aloma
 alomancy
 alonely
+acciaccaturas
 along
 ataxiameter
 alongships
