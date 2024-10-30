@@ -1111,6 +1111,7 @@ farnesses
 faro
 floter
 foredestining
+fellowcraft
 faroelite
 foremast
 farolito
@@ -2174,7 +2175,6 @@ felloes
 fermentatory
 fellow
 fishfall
-fellowcraft
 fellowheirship
 fellowing
 fellowman
