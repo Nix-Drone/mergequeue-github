@@ -6072,6 +6072,7 @@ dungeonlike
 deputizes
 deputizing
 dequantitate
+dis
 dequeue
 dequeues
 dequeuing
@@ -10868,7 +10869,6 @@ dirtplate
 dirts
 dudish
 diruption
-dis
 disa
 dashboards
 disabilities
