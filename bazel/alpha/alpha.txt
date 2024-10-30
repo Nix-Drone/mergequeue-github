@@ -9586,7 +9586,6 @@ aluminium
 aluminize
 aluminized
 aluminizes
-aluminizing
 aluminoferric
 aluminose
 aluminosis
@@ -22776,6 +22775,7 @@ atomization
 atomize
 atomized
 atomizer
+aluminizing
 antiheterolysin
 atomizers
 atomizing
