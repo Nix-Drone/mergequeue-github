@@ -1806,7 +1806,6 @@ accuracy
 accuracies
 accurately
 approvement
-affliction
 aliseptal
 accurre
 accurse
@@ -22916,6 +22915,7 @@ atropins
 atropisms
 atropos
 atropous
+affliction
 atrorubent
 atrosanguineous
 angrite
