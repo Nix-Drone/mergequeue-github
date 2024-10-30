@@ -4749,6 +4749,7 @@ carry
 carriable
 carryable
 carriage
+catarrh
 carriageable
 carriageful
 carriages
@@ -9234,7 +9235,6 @@ chastelain
 chastely
 carbonados
 chasten
-catarrh
 chastened
 chastener
 chasteners
