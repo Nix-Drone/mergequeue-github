@@ -1076,6 +1076,7 @@ farmable
 farmed
 farmer
 farmeress
+fulvid
 farmery
 filigraned
 farmeries
@@ -8067,7 +8068,6 @@ flisked
 forestine
 fessing
 foresting
-fulvid
 forestish
 forestland
 frigorimeter
