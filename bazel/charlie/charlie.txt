@@ -2755,7 +2755,6 @@ canso
 cansos
 congenialize
 canst
-canstick
 cant
 cantabank
 cantabile
@@ -24967,6 +24966,7 @@ cordiality
 cordialities
 cordialize
 cordially
+canstick
 conelrads
 cordialness
 cordials
