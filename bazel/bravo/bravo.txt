@@ -3251,7 +3251,6 @@ basidiophore
 bifrontal
 belesprit
 basidiospore
-basidiosporous
 basidorsal
 basifacial
 basify
@@ -16577,6 +16576,7 @@ biometry
 buccinatory
 buccinoid
 buccinum
+basidiosporous
 blend
 begging
 bigging
