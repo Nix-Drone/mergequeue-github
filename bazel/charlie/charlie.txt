@@ -6685,7 +6685,6 @@ celeste
 corned
 celestes
 celestial
-celestialized
 celestially
 crustacea
 celestialness
@@ -29901,6 +29900,7 @@ crossopt
 crossopterygii
 crossosoma
 crossosomataceae
+celestialized
 crossosomataceous
 contrahent
 crossover
