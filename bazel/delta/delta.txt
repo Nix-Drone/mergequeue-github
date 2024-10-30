@@ -6464,6 +6464,7 @@ descendability
 descendable
 descendance
 descendants
+duplexer
 dilemmatically
 descendence
 descendent
@@ -18385,7 +18386,6 @@ dupioni
 duplation
 duple
 duplex
-duplexer
 duplexers
 duplexing
 donis
