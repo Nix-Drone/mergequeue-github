@@ -4660,6 +4660,7 @@ byplays
 bedcovers
 beddable
 bedders
+biverb
 bedding
 beddingroll
 beddings
@@ -9963,7 +9964,6 @@ blights
 bizarrerie
 bield
 biventral
-biverb
 bivial
 beinness
 bivinyl
