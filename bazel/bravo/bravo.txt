@@ -1161,7 +1161,6 @@ barrenest
 bait
 burgality
 baited
-baiter
 baiters
 baitfish
 baith
@@ -4534,6 +4533,7 @@ becolme
 becolor
 becombed
 builders
+baiter
 bestuur
 become
 becomed
