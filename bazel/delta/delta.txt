@@ -16858,6 +16858,7 @@ drawoff
 drawout
 drawplate
 drawpoint
+durabilities
 draws
 drawshave
 drawsheet
@@ -18439,7 +18440,6 @@ defray
 denat
 dur
 dubitative
-durabilities
 durableness
 durables
 durably
