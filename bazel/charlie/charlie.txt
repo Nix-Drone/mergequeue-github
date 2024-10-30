@@ -17160,7 +17160,6 @@ coalesces
 coalescing
 coalface
 coalfield
-coalfish
 coalfishes
 coalfitter
 coalhole
@@ -19635,6 +19634,7 @@ comatik
 comatiks
 comatose
 comatosely
+coalfish
 comatoseness
 comatosity
 comatous
