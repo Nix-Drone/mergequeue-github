@@ -9600,7 +9600,6 @@ enright
 escots
 escout
 escry
-escribe
 eiffel
 escribiente
 escribientes
@@ -10564,6 +10563,7 @@ etypically
 etiquet
 etiquette
 etiquettes
+escribe
 etiquettical
 etna
 etoile
