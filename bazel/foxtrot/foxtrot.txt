@@ -5907,7 +5907,6 @@ flinthead
 flooder
 flooders
 floodgate
-floodgates
 frontlessly
 floody
 flunkyhood
@@ -11508,6 +11507,7 @@ furrowless
 furrowlike
 furrure
 foredid
+floodgates
 flixweed
 fursemide
 foreglimpse
