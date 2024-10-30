@@ -2232,7 +2232,6 @@ bap
 baphia
 baphometic
 bapistery
-bapt
 baptised
 baptises
 baptisia
@@ -6140,6 +6139,7 @@ benchful
 benchy
 benchland
 benchless
+bapt
 benchlet
 benchman
 benchmar
