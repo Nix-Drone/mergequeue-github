@@ -2883,7 +2883,6 @@ bostons
 barotropic
 barouche
 barouches
-barouchet
 barouchette
 barouni
 baroxyton
@@ -11611,6 +11610,7 @@ boatloading
 baske
 boatloads
 boatman
+barouchet
 boatless
 beigy
 boatmanship
