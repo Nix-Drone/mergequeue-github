@@ -19902,7 +19902,6 @@ commandable
 conveyable
 commandant
 commandatory
-commanded
 commandedness
 commandeer
 centenarians
@@ -22151,6 +22150,7 @@ confusion
 confusions
 ctenidial
 confusive
+commanded
 confusticate
 confustication
 confutability
