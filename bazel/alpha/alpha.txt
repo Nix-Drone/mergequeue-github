@@ -852,7 +852,6 @@ abrocome
 abrogable
 abrogate
 antagonisation
-abrogates
 abrogating
 abrogations
 abrogative
@@ -4289,6 +4288,7 @@ adoration
 adoratory
 adore
 adored
+abrogates
 assizement
 adorer
 adorers

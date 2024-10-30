@@ -3858,7 +3858,6 @@ batwomen
 bishopship
 batz
 batzen
-barreler
 baubee
 baubees
 bethunder
@@ -3960,6 +3959,7 @@ bawra
 barrow
 bawrel
 badling
+barreler
 bawsint
 bawsunt
 bawtie
