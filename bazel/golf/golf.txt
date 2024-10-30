@@ -4586,7 +4586,6 @@ gypping
 gyppo
 gips
 gyp
-gyps
 gipseian
 gipser
 gipsy
@@ -9858,6 +9857,7 @@ guans
 gazook
 groundwood
 glueing
+gyps
 glacially
 guilty
 guapena
