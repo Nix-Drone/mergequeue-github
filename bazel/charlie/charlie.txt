@@ -6966,7 +6966,6 @@ chondriosomal
 censor
 censorable
 censorate
-censored
 censorial
 cytomorphosis
 censorian
@@ -27455,6 +27454,7 @@ coventrize
 cover
 coverable
 coverages
+censored
 coverall
 coveralled
 coveralls
