@@ -6655,7 +6655,6 @@ celebes
 celebesian
 celebrant
 celebrants
-celebrate
 celebrated
 celebratedly
 celebratedness
@@ -29832,6 +29831,7 @@ crossbow
 crossbowmen
 coazervate
 crossbows
+celebrate
 crossbred
 crossbreds
 crossbreed
