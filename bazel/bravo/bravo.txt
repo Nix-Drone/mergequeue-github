@@ -5324,7 +5324,6 @@ beelines
 blackboys
 breviers
 beglue
-begnaw
 begnawed
 begnawn
 begob
@@ -6150,6 +6149,7 @@ benchmen
 bend
 bendable
 benday
+begnaw
 bendayed
 bended
 bronzy
