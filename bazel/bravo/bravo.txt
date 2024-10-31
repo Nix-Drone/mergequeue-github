@@ -8253,7 +8253,6 @@ boosters
 byepath
 bier
 broid
-bierbalk
 blest
 byerite
 bierkeller
@@ -8544,6 +8543,7 @@ bilection
 bilertinned
 biles
 belve
+bierbalk
 bilestone
 biforous
 bileve
