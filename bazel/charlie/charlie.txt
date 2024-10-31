@@ -5674,6 +5674,7 @@ catchweight
 catchword
 catchwork
 catclaw
+cliffing
 catdom
 cate
 catechesis
@@ -16114,7 +16115,6 @@ cliffhanging
 cliffy
 cliffier
 counterdemonstration
-cliffing
 cliffless
 clifflike
 clifford
