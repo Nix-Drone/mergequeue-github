@@ -1664,7 +1664,6 @@ balloons
 ballot
 ballota
 balloted
-balloter
 blowsy
 balloting
 barded
@@ -16385,6 +16384,7 @@ brushback
 brushbird
 brushcut
 bestick
+balloter
 braker
 betrace
 brushed
