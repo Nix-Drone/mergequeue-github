@@ -9037,7 +9037,6 @@ brutes
 bioherm
 bioherms
 bioinstrument
-biokinetics
 biol
 biolinguistics
 biolyses
@@ -15911,6 +15910,7 @@ bromoacetone
 bromoaurate
 bromoaurates
 bromoauric
+biokinetics
 bromochloromethane
 bromocyanide
 balsameaceae
