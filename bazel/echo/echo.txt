@@ -3382,6 +3382,7 @@ earshell
 epionynychia
 embars
 embase
+estats
 embassadress
 embassy
 embassiate
@@ -9950,7 +9951,6 @@ estately
 econometrician
 estatesman
 estating
-estats
 esteemable
 esteemer
 emblazoner
