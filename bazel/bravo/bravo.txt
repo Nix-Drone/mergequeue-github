@@ -13832,6 +13832,7 @@ brokenhearted
 bowstave
 bowstring
 bowstringed
+braveness
 bowstrings
 bowstrung
 bowtel
@@ -14668,7 +14669,6 @@ bravadoing
 bravadoism
 bravas
 bravely
-braveness
 braver
 bunchbacked
 boschboks
