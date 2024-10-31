@@ -2267,7 +2267,6 @@ cancan
 cancans
 canccelli
 cancelability
-cancelable
 cancelation
 canceled
 canceleer
@@ -9892,6 +9891,7 @@ chemoautotrophic
 chemoautotrophically
 chemoceptor
 chemokinesis
+cancelable
 chemokinetic
 chemolysis
 chemolytic
