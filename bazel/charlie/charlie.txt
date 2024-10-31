@@ -1831,6 +1831,7 @@ camelishness
 camelkeeper
 camellia
 camellias
+collation
 camellike
 cornwallises
 camellin
@@ -18897,7 +18898,6 @@ collateralness
 collaterals
 canzone
 collates
-collation
 collationer
 collations
 cesti
