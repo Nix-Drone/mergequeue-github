@@ -3128,7 +3128,6 @@ geomaly
 geomalic
 geomancer
 geomancy
-garnered
 gripes
 geomancies
 geomant
@@ -7298,6 +7297,7 @@ getfd
 gospodar
 gillers
 gospodin
+garnered
 gosport
 gosports
 gossamer
