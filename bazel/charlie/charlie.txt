@@ -3180,7 +3180,6 @@ capitulate
 curs
 capitulated
 capitulates
-capitulator
 capituliform
 capitulum
 capiturlary
@@ -14034,6 +14033,7 @@ cinquefoil
 cinquefoiled
 cinquefoils
 cinquepace
+capitulator
 cohere
 cinques
 cinter
