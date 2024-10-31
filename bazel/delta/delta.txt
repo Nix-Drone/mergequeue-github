@@ -5732,6 +5732,7 @@ depit
 deplace
 deplaceable
 deplane
+destruction
 deplaned
 deplaning
 deplant
@@ -7042,7 +7043,6 @@ destructibility
 diluvian
 destructible
 destructibleness
-destruction
 destructional
 destructions
 decidingly
