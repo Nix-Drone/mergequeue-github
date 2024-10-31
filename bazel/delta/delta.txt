@@ -9572,7 +9572,6 @@ dihalide
 dihalo
 discommendable
 dihalogen
-dihdroxycholecalciferol
 dihedral
 dihedrals
 dihedron
@@ -12409,6 +12408,7 @@ disillusioniser
 disillusionising
 disillusionized
 disillusionizer
+dihdroxycholecalciferol
 disillusionments
 disillusions
 disillusive
