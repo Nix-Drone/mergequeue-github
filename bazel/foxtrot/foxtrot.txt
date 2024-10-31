@@ -627,7 +627,6 @@ falsies
 forelimb
 falsifiability
 fannon
-falsifiable
 falsificate
 falsification
 falsifications
@@ -6204,6 +6203,7 @@ flubbing
 flubdub
 foreread
 fairgoing
+falsifiable
 flubdubberies
 frowstiness
 flucan
