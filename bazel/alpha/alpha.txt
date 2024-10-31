@@ -4149,7 +4149,6 @@ admittable
 admittance
 admittances
 admittatur
-admitted
 agitpunkt
 admittedly
 admitter
@@ -7612,6 +7611,7 @@ audiometry
 alcine
 alcyon
 alcyonacean
+admitted
 alcyonarian
 alcyone
 aerators
