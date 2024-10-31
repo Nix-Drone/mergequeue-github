@@ -6847,6 +6847,7 @@ aircrewmen
 aircrews
 aerophone
 airdate
+analects
 announcement
 airdates
 airdock
@@ -11697,7 +11698,6 @@ analcite
 analcites
 analcitite
 analecta
-analects
 analemma
 analemmas
 analemmata
