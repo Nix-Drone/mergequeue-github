@@ -2263,7 +2263,6 @@ elections
 elective
 ephemerons
 electives
-electivism
 electivity
 electo
 elector
@@ -7091,6 +7090,7 @@ entrusts
 entte
 entune
 entwine
+electivism
 elohistic
 excorticated
 entwined
