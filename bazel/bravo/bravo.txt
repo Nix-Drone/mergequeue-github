@@ -2101,6 +2101,7 @@ bankcards
 banked
 banker
 bankerdom
+boatloading
 bankeress
 bacteriophobia
 banket
@@ -11607,7 +11608,6 @@ boatlip
 boatload
 boatloader
 bumaloe
-boatloading
 baske
 boatloads
 boatman
