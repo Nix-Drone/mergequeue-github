@@ -4420,7 +4420,6 @@ fishponds
 fishpotter
 fishskin
 fishspear
-fishtail
 fishtailed
 flether
 fishtails
@@ -5804,6 +5803,7 @@ floatability
 forethoughtless
 floatages
 fireling
+fishtail
 floatation
 firesides
 floated
