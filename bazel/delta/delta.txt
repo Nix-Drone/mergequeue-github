@@ -5424,6 +5424,7 @@ dilating
 dentolabial
 dentolingual
 dentololabial
+durbar
 dentonasal
 dielytra
 dentosurgical
@@ -12211,7 +12212,6 @@ disgracious
 dogface
 dwarfness
 disgracive
-durbar
 disgradation
 dappleness
 dazzlement
