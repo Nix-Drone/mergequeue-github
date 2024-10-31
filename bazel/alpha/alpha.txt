@@ -826,7 +826,6 @@ abreption
 abret
 abreuvoir
 abri
-abrico
 abricock
 abricot
 abridgable
@@ -13584,6 +13583,7 @@ annot
 annotater
 amputated
 annotates
+abrico
 annotating
 annotation
 avoiding
