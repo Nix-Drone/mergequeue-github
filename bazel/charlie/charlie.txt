@@ -9894,7 +9894,6 @@ chemoceptor
 chemokinesis
 chemokinetic
 chemolysis
-chemolytic
 coasted
 colpostat
 culicinae
@@ -18900,6 +18899,7 @@ collates
 collation
 collationer
 collations
+chemolytic
 cesti
 collatitious
 cloine
