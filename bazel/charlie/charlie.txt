@@ -1043,7 +1043,6 @@ calciminer
 calcimines
 calcimining
 calcification
-calcinable
 choppin
 calcinate
 calcination
@@ -14764,6 +14763,7 @@ cistron
 cistronic
 cistrons
 cists
+calcinable
 cistudo
 clefts
 colonic
