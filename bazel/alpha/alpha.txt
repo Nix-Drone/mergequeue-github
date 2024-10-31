@@ -22226,7 +22226,6 @@ astrobotany
 astrochemistry
 astrochronological
 astrocyte
-astrocytic
 astrocytoma
 astrocytomas
 astrocytomata
@@ -22285,6 +22284,7 @@ astrologically
 astrologist
 astriction
 astrologistic
+astrocytic
 astrologists
 astrologize
 astrologous
