@@ -2336,6 +2336,7 @@ fendered
 filchers
 fraischeur
 fendering
+flyspecking
 fenderless
 fenders
 fendillation
@@ -8923,7 +8924,6 @@ fostership
 filestatus
 fostress
 fot
-flyspecking
 fother
 fothering
 foreshorten
