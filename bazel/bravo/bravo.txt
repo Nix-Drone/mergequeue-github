@@ -4223,7 +4223,6 @@ bearpaw
 bearship
 bearskin
 bearskins
-beartongue
 birdwatch
 bearward
 bearwort
@@ -17006,6 +17005,7 @@ bulder
 booing
 bulgar
 bulgari
+beartongue
 bulgaria
 bulgaric
 bulge
