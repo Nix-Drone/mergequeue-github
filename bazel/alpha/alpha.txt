@@ -8238,7 +8238,6 @@ afterplay
 alighted
 alighting
 alightment
-align
 aligned
 aligners
 aligning
@@ -25376,6 +25375,7 @@ azoxybenzene
 azoxime
 azoxynaphthalene
 azoxine
+align
 azoxytoluidine
 azoxonium
 accommodative
