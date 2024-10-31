@@ -448,7 +448,6 @@ ecchondrotome
 eccyclema
 erf
 eccyesis
-eccl
 eccles
 entropies
 ecclesia
@@ -683,6 +682,7 @@ endocortex
 eclipsing
 eclipsises
 ecliptic
+eccl
 ecliptical
 ecliptically
 eidetically
