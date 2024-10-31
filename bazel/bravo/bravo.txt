@@ -513,7 +513,6 @@ backstay
 biotech
 boshboks
 backstairs
-backstays
 backster
 backstick
 backstitch
@@ -10725,6 +10724,7 @@ blepharadenitis
 blepharanthracosis
 blepharelcosis
 blepharemphysema
+backstays
 blepharydatis
 blephariglottis
 blepharism
