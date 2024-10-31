@@ -13325,7 +13325,6 @@ accentuator
 anisomelus
 anisomeric
 anisomerous
-arraignability
 anisometric
 anisometrope
 anisomyarian
@@ -20620,6 +20619,7 @@ arthroplasty
 arthroplastic
 arthropleura
 arthropod
+arraignability
 arthropoda
 arthropodal
 auberge
