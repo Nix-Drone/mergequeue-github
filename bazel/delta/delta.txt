@@ -1543,7 +1543,6 @@ deadrise
 deadtongue
 deadweight
 ditto
-deadwork
 deaving
 deaerated
 deaeration
@@ -12982,6 +12981,7 @@ dispending
 dispendious
 disembower
 dimin
+deadwork
 dispendiously
 dispenditure
 dispensability
