@@ -4930,6 +4930,7 @@ forge
 flaminica
 flaminical
 flamless
+flypaper
 flammable
 filmogen
 floorers
@@ -5484,7 +5485,6 @@ fores
 feynesses
 fleur
 fleuret
-flypaper
 fleurette
 fleurettee
 fleuretty
