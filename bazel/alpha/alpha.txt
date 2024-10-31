@@ -10255,7 +10255,6 @@ amentiferae
 amentiform
 aments
 amentulum
-amentum
 amenuse
 adeling
 amerce
@@ -12069,6 +12068,7 @@ anatomiser
 anatomising
 anatomist
 anatomists
+amentum
 anatomizable
 anatomization
 anatomize
