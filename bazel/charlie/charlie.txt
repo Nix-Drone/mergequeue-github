@@ -4710,7 +4710,6 @@ carposporangium
 catalase
 carpospore
 carposporous
-carpostome
 carps
 catapan
 carpsucker
@@ -26830,6 +26829,7 @@ countergarrison
 countergauge
 countergauger
 countergift
+carpostome
 countergirded
 counterglow
 counterguard
