@@ -8524,7 +8524,6 @@ allayed
 allayers
 allaying
 allayment
-acyclically
 allalinite
 allamonti
 allamotti
@@ -22300,6 +22299,7 @@ astrometric
 astrometrical
 astron
 astronaut
+acyclically
 astronautically
 aerosolizing
 astronavigator
