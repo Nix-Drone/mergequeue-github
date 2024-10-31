@@ -1147,7 +1147,6 @@ farset
 frogged
 fregatidae
 farsighted
-farsightedness
 flatteringly
 forkedly
 farth
@@ -11594,6 +11593,7 @@ fusileer
 fatalistic
 fusileers
 fluyts
+farsightedness
 fossilising
 fcs
 fusiliers
