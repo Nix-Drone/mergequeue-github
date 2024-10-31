@@ -2519,7 +2519,6 @@ declasses
 declassicize
 declassify
 declassification
-declassifications
 delocalized
 dissimule
 declassifies
@@ -4384,6 +4383,7 @@ demagnetised
 demagnetiser
 demagnetising
 demagnetization
+declassifications
 deplores
 demagnetize
 demagnetized
