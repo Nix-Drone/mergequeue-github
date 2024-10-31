@@ -2424,7 +2424,6 @@ candles
 candleshine
 candleshrift
 candlesnuffer
-candlestand
 committeewoman
 candlestick
 candlesticked
@@ -9189,6 +9188,7 @@ chartularies
 chartulas
 charuk
 charvet
+candlestand
 charwoman
 cowards
 charwomen
