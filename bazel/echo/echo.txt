@@ -2332,7 +2332,6 @@ electrobus
 electrocapillary
 electrocapillarity
 electrocardiogram
-electrocardiograms
 escarped
 electrocardiograph
 electrocardiographic
@@ -8898,6 +8897,7 @@ enjambment
 erecting
 emboweller
 emphasise
+electrocardiograms
 erection
 erections
 erective
