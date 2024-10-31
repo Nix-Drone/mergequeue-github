@@ -683,7 +683,6 @@ balanophorin
 bacteriotoxic
 bechances
 bacteriotoxin
-bal
 bacteriotrypsin
 bynames
 bacteriotropic
@@ -1266,6 +1265,7 @@ balada
 baladine
 bindingly
 balaena
+bal
 bottomer
 bruke
 bromochlorophenol
