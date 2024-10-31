@@ -9857,7 +9857,6 @@ chemiluminescent
 chemin
 cheminee
 chemiotactic
-chemiotaxic
 chemiotaxis
 chemiotropic
 chemiotropism
@@ -14832,6 +14831,7 @@ cityfied
 citifies
 citifying
 cityfolk
+chemiotaxic
 citigradae
 citigrade
 cityish
