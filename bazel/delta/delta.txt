@@ -5843,7 +5843,6 @@ decarboniser
 defats
 deposer
 deposers
-deposes
 discouragement
 deposing
 deposit
@@ -5980,6 +5979,7 @@ depressurize
 deprest
 depreter
 deprevation
+deposes
 depriment
 deprint
 depriorize
