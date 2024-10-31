@@ -560,7 +560,6 @@ backway
 backwall
 bewhite
 backward
-backwardation
 backwardly
 backwardness
 backwards
@@ -9292,6 +9291,7 @@ bipersonal
 bronchially
 bipetalous
 bucciniform
+backwardation
 biphase
 biphasic
 bps
