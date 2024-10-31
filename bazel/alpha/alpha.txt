@@ -4566,7 +4566,6 @@ adventured
 adventurement
 adventurer
 adventures
-adventureship
 adventuresome
 adventuresomely
 adventuresomes
@@ -11728,6 +11727,7 @@ addressee
 analyses
 analysing
 antimoniate
+adventureship
 analysis
 analyst
 aurei
