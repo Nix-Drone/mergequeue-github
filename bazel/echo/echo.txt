@@ -4915,6 +4915,7 @@ electrometeor
 ectoderm
 encurl
 encurtain
+erodability
 endosteal
 encushion
 end
@@ -9250,7 +9251,6 @@ erne
 ernes
 ernie
 ernst
-erodability
 emodin
 erode
 erodent
