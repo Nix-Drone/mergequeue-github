@@ -677,7 +677,6 @@ bacteriosolvent
 bacteriostasis
 bacteriostat
 bacteriostatically
-bacteriotherapeutic
 bacteriotherapy
 balanophorin
 bacteriotoxic
@@ -9902,6 +9901,7 @@ budders
 bittor
 bitts
 bitubercular
+bacteriotherapeutic
 bituberculate
 bitulithic
 bedticking
