@@ -6942,6 +6942,7 @@ folksong
 folksongs
 folktales
 folkvangr
+figlike
 foll
 foller
 folles
@@ -7674,7 +7675,6 @@ forefin
 forefinger
 forjudged
 forefingers
-figlike
 foreflank
 fistulized
 foreflipper
