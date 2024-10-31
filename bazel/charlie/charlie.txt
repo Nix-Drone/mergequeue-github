@@ -8824,7 +8824,6 @@ chapelries
 chapels
 cardiologies
 chapelward
-chaperno
 chaperon
 chaperonage
 chaperone
@@ -17205,6 +17204,7 @@ coalternate
 coalternative
 coaltitude
 coambassador
+chaperno
 coambulant
 constrainers
 coaming
