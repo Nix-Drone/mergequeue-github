@@ -5764,6 +5764,7 @@ ferrochrome
 flytraps
 flitted
 felsite
+fragment
 flitterbat
 flittered
 flittering
@@ -9286,7 +9287,6 @@ fragileness
 fragility
 faceplate
 fragilities
-fragment
 floorhead
 fragmental
 fumously
