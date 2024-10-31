@@ -1974,7 +1974,6 @@ bandmaster
 bandmasters
 bando
 bandobust
-bandog
 bandogs
 bonfire
 bandoleer
@@ -12114,6 +12113,7 @@ bolete
 boletes
 boleti
 byrled
+bandog
 boletus
 boletuses
 boleweed
