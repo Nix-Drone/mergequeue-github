@@ -3761,7 +3761,6 @@ bimbil
 batteling
 battels
 battement
-basisolute
 battements
 battened
 battener
@@ -8416,6 +8415,7 @@ brutage
 bignonia
 bignoniaceae
 bignoniaceous
+basisolute
 bignoniad
 bignonias
 branching
