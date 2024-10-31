@@ -7318,6 +7318,7 @@ gossipdom
 gossiped
 gossipee
 gossiper
+graphites
 gossipers
 gossiphood
 gatehouses
@@ -8175,7 +8176,6 @@ glowworm
 graphite
 graphiter
 gummaker
-graphites
 graphitic
 gynecicgynecidal
 gleeked
