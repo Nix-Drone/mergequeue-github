@@ -9156,7 +9156,6 @@ charterhouse
 chartering
 charterism
 charterist
-charterless
 chartermaster
 charters
 charthouse
@@ -25089,6 +25088,7 @@ combinantive
 corers
 cores
 coresidence
+charterless
 coresidual
 coresign
 coresonant
