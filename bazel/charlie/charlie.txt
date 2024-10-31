@@ -4172,7 +4172,6 @@ carer
 carers
 cares
 caress
-caressable
 caressant
 collinal
 caressed
@@ -22098,6 +22097,7 @@ confoundedness
 confounder
 chowing
 confounders
+caressable
 confounding
 consulting
 confoundment
