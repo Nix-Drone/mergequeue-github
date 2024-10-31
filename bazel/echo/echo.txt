@@ -5022,7 +5022,6 @@ endexines
 eardrum
 endgate
 enfief
-endhand
 endia
 endiablee
 endiadem
@@ -9926,6 +9925,7 @@ estafet
 ergotin
 endothys
 exasperatedly
+endhand
 estafetted
 espaliering
 estamene
