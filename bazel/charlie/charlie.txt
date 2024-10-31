@@ -5636,7 +5636,6 @@ catcaller
 catcalls
 catch
 catchable
-catchall
 catchcry
 colocates
 catched
@@ -22317,6 +22316,7 @@ calcaria
 congresser
 congresses
 cutocellulose
+catchall
 congressing
 congressional
 congressionalist
