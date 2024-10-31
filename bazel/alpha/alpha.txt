@@ -392,7 +392,6 @@ abidances
 abide
 abided
 anlaut
-abider
 advisability
 abiders
 abidi
@@ -16824,6 +16823,7 @@ acrodrome
 aphakia
 astipulate
 aphanapteryx
+abider
 aphanes
 aphaniptera
 aphanisia
