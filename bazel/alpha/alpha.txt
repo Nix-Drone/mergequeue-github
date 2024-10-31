@@ -5359,7 +5359,6 @@ affixial
 affixion
 affixment
 ague
-affixture
 afflate
 afflated
 afflatus
@@ -23268,6 +23267,7 @@ auctioned
 auctioneer
 auctioneers
 alcornoco
+affixture
 auctions
 auctor
 auctorial
