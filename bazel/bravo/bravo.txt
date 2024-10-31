@@ -1957,7 +1957,6 @@ branle
 banditry
 barramundas
 bandits
-banditti
 bandle
 bandleader
 bandless
@@ -10541,6 +10540,7 @@ blaws
 bailie
 befuddles
 binoxalate
+banditti
 blaze
 blazed
 blazers
