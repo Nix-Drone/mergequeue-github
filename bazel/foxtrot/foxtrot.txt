@@ -56,7 +56,6 @@ facebow
 facecloth
 firestone
 faced
-foreladies
 faceharden
 faceless
 flecken
@@ -2488,6 +2487,7 @@ fermentescible
 forbiddingness
 ferther
 fielding
+foreladies
 fermenting
 fermentitious
 fermentive
