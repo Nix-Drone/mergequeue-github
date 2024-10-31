@@ -11563,6 +11563,7 @@ boars
 boarship
 boarskin
 boarspear
+brazed
 boart
 boarts
 boarwood
@@ -14711,7 +14712,6 @@ braxy
 braxies
 braza
 brazas
-brazed
 brazee
 brazen
 brazened
