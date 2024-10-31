@@ -2873,7 +2873,6 @@ barothermogram
 bitis
 barothermograph
 barothermohygrograph
-baroto
 barotrauma
 bulgurs
 barotraumas
@@ -16606,6 +16605,7 @@ buceros
 borocitrate
 bucerotidae
 buchanan
+baroto
 brevicipitid
 buchanite
 bucharest
