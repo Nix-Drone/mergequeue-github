@@ -4473,7 +4473,6 @@ fissirostres
 fissle
 fissura
 fissuration
-fungite
 finesse
 frawn
 fissured
@@ -9083,6 +9082,7 @@ fixated
 fourther
 fourthly
 foute
+fungite
 ferity
 federal
 frenchwise

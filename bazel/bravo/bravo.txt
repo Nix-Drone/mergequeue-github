@@ -2007,7 +2007,6 @@ bandsmen
 bandspreading
 bandstand
 bandstands
-bandster
 ballroom
 bandstop
 bandstring
@@ -3313,6 +3312,7 @@ berakes
 brooklynite
 basinful
 basing
+bandster
 buzzwigs
 basins
 bandaite
