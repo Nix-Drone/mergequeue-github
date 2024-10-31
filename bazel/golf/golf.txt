@@ -5087,6 +5087,7 @@ glaistig
 glaived
 gara
 glaives
+gripman
 glaked
 grulla
 glali
@@ -9118,7 +9119,6 @@ gryphons
 gryphosaurus
 griphus
 gripier
-gripman
 girderless
 gripment
 grypotherium
