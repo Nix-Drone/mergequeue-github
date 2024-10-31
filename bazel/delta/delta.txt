@@ -6140,7 +6140,6 @@ derealization
 derecho
 dereference
 dereferencing
-deregister
 deregulate
 deregulated
 deregulates
@@ -7925,6 +7924,7 @@ dextroses
 dextrosinistral
 dextrosinistrally
 dextrosuria
+deregister
 dextrotropous
 duncedom
 dephlegmate
