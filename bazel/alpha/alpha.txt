@@ -4416,7 +4416,6 @@ adsheart
 adsignify
 adsmith
 adsmithing
-adsorb
 ametabolism
 aphanite
 argyranthemous
@@ -17815,6 +17814,7 @@ applenut
 appleroot
 apples
 applesauce
+adsorb
 applewife
 applewoman
 applewood
