@@ -11961,7 +11961,6 @@ chorines
 choring
 chorio
 chorioadenoma
-chorioallantoic
 chorioallantoid
 choriocapillary
 choriocapillaris
@@ -16010,6 +16009,7 @@ clerkdoms
 clerkery
 clerkess
 cryptomonad
+chorioallantoic
 clerkhood
 clerking
 carcinosis
