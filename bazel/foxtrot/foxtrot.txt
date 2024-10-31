@@ -1680,7 +1680,6 @@ fawning
 fawnlike
 foveal
 fawns
-fawnskin
 fax
 faxed
 fructuosity
@@ -4416,6 +4415,7 @@ fishplate
 feste
 fishpole
 fishpoles
+fawnskin
 fishponds
 fishpotter
 fishskin
