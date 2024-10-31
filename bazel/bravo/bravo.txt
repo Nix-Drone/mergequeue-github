@@ -650,7 +650,6 @@ bacteriolysin
 bletherskate
 bemingle
 bacteriolytic
-bacteriolyze
 bacteriology
 bacteriologic
 bacteriologist
@@ -11824,6 +11823,7 @@ bodoni
 bodonid
 bromic
 bodrage
+bacteriolyze
 battalions
 benedick
 bodstick
