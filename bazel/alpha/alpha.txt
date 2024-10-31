@@ -5674,7 +5674,6 @@ afterpressure
 afterproof
 afterrake
 afterreckoning
-auxofluor
 afterrider
 afterripening
 afterroll
@@ -14262,6 +14261,7 @@ antergic
 anteri
 anteriad
 anterin
+auxofluor
 anterioyancer
 anterior
 achech
