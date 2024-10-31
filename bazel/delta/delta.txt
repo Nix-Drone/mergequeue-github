@@ -3448,7 +3448,6 @@ deflocculent
 deflorate
 defloration
 deflorations
-deflore
 deflorescence
 deflourish
 dropforged
@@ -12671,6 +12670,7 @@ droner
 dyslogy
 dyslogistic
 doily
+deflore
 deactivating
 dyslogistically
 disloyal
