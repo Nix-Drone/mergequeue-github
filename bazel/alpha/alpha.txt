@@ -8604,7 +8604,6 @@ alleyite
 alleys
 alleyway
 anarchs
-allele
 alleles
 allelic
 allelism
@@ -12161,6 +12160,7 @@ anchored
 anchorer
 anchoress
 anchoresses
+allele
 anchoret
 anchoretic
 anchoretish
