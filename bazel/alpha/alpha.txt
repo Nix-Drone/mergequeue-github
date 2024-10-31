@@ -23834,7 +23834,6 @@ announceable
 authorities
 authorize
 authorized
-authorizer
 alluvions
 authorizers
 agostadero
@@ -25295,6 +25294,7 @@ azocoralline
 alfonso
 azocorinth
 azodicarboxylic
+authorizer
 azodiphenyl
 azoeosin
 azoerythrin
