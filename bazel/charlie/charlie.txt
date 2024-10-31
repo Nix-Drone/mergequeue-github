@@ -7540,6 +7540,7 @@ continent
 cercopidae
 cercopithecid
 coenenchymata
+cusecs
 cercopithecidae
 cercopithecoid
 cercopithecus
@@ -31645,7 +31646,6 @@ cuscuta
 cuscutaceae
 cuscutaceous
 cusec
-cusecs
 cuselite
 cush
 cushag
