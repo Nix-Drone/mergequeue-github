@@ -3173,6 +3173,7 @@ else
 endemic
 elsehow
 elseways
+existant
 elsewhat
 elsewhen
 elsewhere
@@ -10472,7 +10473,6 @@ ethnologist
 ethnologists
 ethnomanic
 ethnomusicological
-existant
 elytra
 ethnomusicologist
 ethnopsychology
