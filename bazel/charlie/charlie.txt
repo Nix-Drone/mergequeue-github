@@ -3385,7 +3385,6 @@ chawbone
 capsulectomy
 caliculus
 capsuled
-capsuler
 capsules
 capsuliferous
 capsuliform
@@ -27590,6 +27589,7 @@ cowhided
 cowhides
 cowhiding
 cowhorn
+capsuler
 cowhouse
 cowy
 clockers
