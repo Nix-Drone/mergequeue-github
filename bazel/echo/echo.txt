@@ -8743,7 +8743,6 @@ esseda
 equipostile
 etoiles
 equipotential
-equipotentiality
 equiprobability
 emits
 equiprobably
@@ -13341,6 +13340,7 @@ expreme
 express
 expressable
 exophagy
+equipotentiality
 expressage
 expressed
 expresser
