@@ -1092,6 +1092,7 @@ fuzzle
 farmy
 farmyard
 fructuary
+floors
 farmyardy
 foremastman
 farmland
@@ -5944,7 +5945,6 @@ foreclosable
 flummoxes
 fluidizing
 floorless
-floors
 fiddleback
 floorshift
 fawny
