@@ -6845,7 +6845,6 @@ aircrewman
 attended
 aircrewmen
 aircrews
-aerophone
 airdate
 announcement
 airdates
@@ -20908,6 +20907,7 @@ ascaridole
 ascarids
 ascaris
 ascaron
+aerophone
 ascella
 ascelli
 ascellus
