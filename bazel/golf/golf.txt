@@ -4966,7 +4966,6 @@ glacialism
 glacialist
 glacialize
 glaciaria
-graphemes
 glaciarium
 glaciated
 glaciates
@@ -5306,6 +5305,7 @@ geodynamicist
 gleams
 gifture
 glean
+graphemes
 gleanable
 grayback
 gleaned
