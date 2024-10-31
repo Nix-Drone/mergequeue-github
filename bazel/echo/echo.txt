@@ -2389,7 +2389,6 @@ electrodepositable
 extemporaneousness
 electrification
 electrodeposition
-electrodepositor
 escalation
 electrodes
 electrodesiccation
@@ -6033,6 +6032,7 @@ enlighteners
 epifauna
 enlightenment
 enlightens
+electrodepositor
 embossment
 enlinkment
 enlist
