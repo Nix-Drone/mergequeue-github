@@ -3047,7 +3047,6 @@ bartended
 betrayer
 bartender
 bess
-bartenders
 bartending
 barter
 barterer
@@ -8663,6 +8662,7 @@ billette
 broomtail
 billetty
 billetwood
+bartenders
 boukit
 brachiofacial
 billfish
