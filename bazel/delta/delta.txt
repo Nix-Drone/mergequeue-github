@@ -12322,6 +12322,7 @@ dynamogenic
 duckmole
 disheriting
 disheritment
+dryfoot
 deforms
 disheritor
 disherits
@@ -17103,7 +17104,6 @@ dryfarmer
 dryfat
 dingwall
 dryfist
-dryfoot
 driftage
 driftages
 dispensated
