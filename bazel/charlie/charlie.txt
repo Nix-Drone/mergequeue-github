@@ -430,7 +430,6 @@ cactus
 civilisable
 cactuses
 cactuslike
-cacumen
 cassavas
 cacuminal
 catheretic
@@ -16490,6 +16489,7 @@ clockworks
 clod
 clodbreaker
 clodded
+cacumen
 clodder
 cloddier
 cloddiest
