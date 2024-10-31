@@ -617,7 +617,6 @@ abnormalized
 abnormalizing
 abnormally
 abnormalness
-abnormals
 abnormity
 abnormities
 abnormous
@@ -24533,6 +24532,7 @@ auxographic
 auxology
 auxometer
 auxospore
+abnormals
 auxotonic
 auxotox
 auxotroph
