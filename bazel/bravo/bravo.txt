@@ -12627,7 +12627,6 @@ baianism
 bookbinders
 bookbinding
 bookboard
-bookcase
 bookcases
 bookcraft
 bookdealer
@@ -14491,6 +14490,7 @@ bromocyanogen
 branchlet
 branchlike
 branchling
+bookcase
 branchman
 brand
 brandade
