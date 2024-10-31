@@ -6741,6 +6741,7 @@ enterprisingness
 enterprize
 enters
 entertainable
+equip
 entertained
 enquires
 entertainer
@@ -8464,7 +8465,6 @@ efferent
 epizootiology
 epizootiologic
 epizootiological
-equip
 eglogue
 epizootology
 eplot
