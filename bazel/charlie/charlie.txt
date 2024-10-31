@@ -6314,7 +6314,6 @@ cauterism
 cauterization
 cauterize
 cauterized
-cauterizer
 cauterizes
 cauterizing
 cautio
@@ -31297,6 +31296,7 @@ curdoo
 curds
 curdwort
 cure
+cauterizer
 cured
 convocationally
 cureless
