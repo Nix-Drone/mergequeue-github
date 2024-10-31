@@ -6869,7 +6869,6 @@ foliation
 foliator
 foliature
 finiglacial
-foliicolous
 fellmongered
 frigid
 foliiferous
@@ -9778,6 +9777,7 @@ faiths
 flumerin
 floyt
 freezes
+foliicolous
 freezy
 freezing
 freezingly
