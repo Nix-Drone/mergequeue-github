@@ -4042,7 +4042,6 @@ empanels
 expressibly
 empannel
 empanoply
-empaper
 emparchment
 emparl
 empasma
@@ -10158,6 +10157,7 @@ eteoclus
 eteostic
 eterminable
 eternal
+empaper
 eternalise
 eternalised
 eternalising
