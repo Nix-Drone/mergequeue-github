@@ -12028,7 +12028,6 @@ chorography
 chorographical
 chorographically
 choroid
-choroiditis
 choroidocyclitis
 choroidoiritis
 choroids
@@ -20381,6 +20380,7 @@ cistae
 compact
 compactability
 compactable
+choroiditis
 compacted
 compactedly
 compactedness
