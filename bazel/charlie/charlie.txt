@@ -4750,7 +4750,6 @@ carriable
 carryable
 carriage
 carriageable
-carriageful
 carriages
 carriagesmith
 cloddy
@@ -11157,6 +11156,7 @@ chondrite
 chlamyd
 chlamydate
 chlamydeous
+carriageful
 chlamydes
 cliftonia
 chlamydobacteriaceae
