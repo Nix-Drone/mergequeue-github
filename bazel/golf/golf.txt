@@ -4105,6 +4105,7 @@ gaddi
 gamene
 gild
 gildable
+gilpy
 gildedness
 gilden
 gilder
@@ -8540,7 +8541,6 @@ glowbird
 groaners
 greasepaint
 grimful
-gilpy
 garlicmonger
 gozzard
 greaseproof
