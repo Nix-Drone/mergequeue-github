@@ -19410,7 +19410,6 @@ colossean
 colosseum
 colossi
 colossian
-charas
 colossians
 colosso
 colossochelys
@@ -29285,6 +29284,7 @@ cryptography
 cryptographic
 cryptographical
 cryptographist
+charas
 cryptoheresy
 cryptoheretic
 cryptolite
