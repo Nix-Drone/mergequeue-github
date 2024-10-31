@@ -6567,7 +6567,6 @@ blastide
 bepinch
 bepity
 bassanello
-bepray
 bepraise
 bepraisement
 bepraiser
@@ -15882,6 +15881,7 @@ brominate
 brominated
 bromination
 bromine
+bepray
 buzzbomb
 bromines
 brominize
