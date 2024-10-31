@@ -3005,6 +3005,7 @@ genuses
 geo
 geoagronomic
 geobiont
+gomorrah
 geoblast
 geobotany
 galivant
@@ -6748,7 +6749,6 @@ gunfighting
 gregariniform
 goumier
 gommier
-gomorrah
 gasping
 gideonite
 gomorrean
