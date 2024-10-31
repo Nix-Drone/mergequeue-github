@@ -8841,7 +8841,6 @@ alloisomer
 alloisomeric
 alloisomerism
 allokinetic
-allokurtic
 allolalia
 allolalic
 allomerism
@@ -14145,6 +14144,7 @@ antegrade
 antehall
 antehypophysis
 aquaculture
+allokurtic
 antehistoric
 aeolopantalon
 anteing
