@@ -7856,7 +7856,6 @@ cerviconasal
 cervicoscapular
 cervicothoracic
 cervicovesical
-cervid
 cervinae
 cervine
 cervisial
@@ -25290,6 +25289,7 @@ corncracker
 corncrake
 crustiest
 corncrib
+cervid
 corncribs
 corncrusher
 corncutter
