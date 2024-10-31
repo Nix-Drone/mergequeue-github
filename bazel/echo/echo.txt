@@ -6316,6 +6316,7 @@ enround
 enruin
 enrut
 ens
+externalize
 ensafe
 elenchtic
 ensamples
@@ -13626,7 +13627,6 @@ externality
 eths
 externalities
 externalization
-externalize
 externalized
 externalizes
 externalness
