@@ -2332,6 +2332,7 @@ electrobus
 electrocapillary
 electrocapillarity
 electrocardiogram
+embossments
 electrocardiograms
 escarped
 electrocardiograph
@@ -3575,7 +3576,6 @@ embossing
 emotiomuscular
 elonite
 embossman
-embossments
 embost
 exembryonate
 embosture
