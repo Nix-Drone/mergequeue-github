@@ -6212,7 +6212,6 @@ deriving
 derma
 dermabrasion
 dermal
-dermalgia
 dermalith
 dermamycosis
 dactylopodite
@@ -9889,6 +9888,7 @@ dimyaria
 dimyaric
 dimication
 dd
+dermalgia
 dimidiate
 dimidiated
 dictyogenous
