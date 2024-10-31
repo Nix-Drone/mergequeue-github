@@ -5629,7 +5629,6 @@ depend
 dependability
 deadhead
 dependabilities
-dependableness
 dependably
 dependance
 dependant
@@ -17767,6 +17766,7 @@ ducdame
 duce
 duces
 dangerfully
+dependableness
 duchan
 distrouble
 developpe
