@@ -12415,7 +12415,6 @@ bondship
 bondslave
 bondsman
 bondsmen
-bondstone
 bondswoman
 bondswomen
 bonduc
@@ -17613,6 +17612,7 @@ buttocks
 burgages
 benzoyls
 burgall
+bondstone
 burgamot
 brasenia
 bellyband
