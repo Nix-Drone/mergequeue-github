@@ -317,6 +317,7 @@ backbones
 backbrand
 backcap
 backchain
+bodle
 backchat
 backchats
 backcomb
@@ -11815,7 +11816,6 @@ bodkins
 breakfastless
 barmybrained
 bodkinwise
-bodle
 bodleian
 bodo
 braird
