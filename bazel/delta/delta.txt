@@ -7034,7 +7034,6 @@ destroyable
 destroyed
 dismays
 destroyer
-destroyers
 destroying
 diagnostic
 destruct
@@ -9501,6 +9500,7 @@ digitron
 digits
 digitule
 darin
+destroyers
 digladiating
 digladiator
 diglyceride
