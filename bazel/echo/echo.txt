@@ -4636,7 +4636,6 @@ enchantment
 enchantments
 enchantress
 enchants
-euclidean
 encharge
 encharged
 encharging
@@ -12860,6 +12859,7 @@ exoticness
 exotics
 exotism
 exotospore
+euclidean
 exotoxic
 electrotherapeutic
 exotoxins
