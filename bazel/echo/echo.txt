@@ -11545,7 +11545,6 @@ embodying
 evictor
 epulones
 evictors
-evicts
 evidence
 evidences
 evidencing
@@ -13058,6 +13057,7 @@ experimentally
 experimentation
 erotics
 experimentative
+evicts
 experimented
 earthenhearted
 experimenter
