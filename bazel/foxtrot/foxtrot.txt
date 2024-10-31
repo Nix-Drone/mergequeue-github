@@ -2802,7 +2802,6 @@ flots
 festschrifts
 formenic
 fieulamort
-festshrifts
 festucine
 funli
 festucous
@@ -7575,6 +7574,7 @@ faith
 foregame
 forechoose
 foreclaw
+festshrifts
 foreclose
 foreclosed
 foreclosure
