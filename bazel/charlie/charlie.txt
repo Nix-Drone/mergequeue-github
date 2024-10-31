@@ -17337,7 +17337,6 @@ connectedness
 coauthority
 coauthors
 coauthorship
-coawareness
 coax
 coaxal
 coaxation
@@ -30498,6 +30497,7 @@ cubiform
 cubing
 cubisms
 cubist
+coawareness
 cubistic
 crankery
 cubists
