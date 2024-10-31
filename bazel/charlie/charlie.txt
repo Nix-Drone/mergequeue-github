@@ -2704,7 +2704,6 @@ canonisation
 canonise
 contermine
 canonised
-canoniser
 canonises
 canonising
 canonist
@@ -17857,6 +17856,7 @@ coeducation
 coeducationalism
 coeducationalize
 coeducationally
+canoniser
 coef
 coeff
 coeffect
