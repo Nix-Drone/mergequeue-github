@@ -2651,7 +2651,6 @@ allylene
 acoumetry
 autodetector
 airframes
-acouometer
 acouophonia
 acoluthic
 acoup
@@ -8006,6 +8005,7 @@ alfurese
 alg
 alga
 algae
+acouometer
 algaecide
 algaeology
 acidyl
