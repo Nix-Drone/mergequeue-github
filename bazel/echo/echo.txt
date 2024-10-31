@@ -2600,7 +2600,6 @@ electropolish
 electropower
 electropsychrometer
 egotisticalness
-electropult
 electropuncturation
 electropuncture
 electroreceptive
@@ -12521,6 +12520,7 @@ exhumer
 exhumers
 exhumes
 exhuming
+electropult
 exies
 exigeant
 entreaty
