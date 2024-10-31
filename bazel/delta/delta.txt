@@ -8201,7 +8201,6 @@ diagnose
 dipus
 diagnosed
 diagnoses
-diagnosis
 diagnostical
 disjunction
 diagnostically
@@ -8777,6 +8776,7 @@ dibbuks
 deltoidal
 dybbuks
 dibenzyl
+diagnosis
 daltonism
 dibenzoyl
 dibenzophenazine
