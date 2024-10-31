@@ -10563,7 +10563,6 @@ bothriocidaris
 blea
 bleach
 bleachability
-bleachable
 bleached
 bleacher
 bleachery
@@ -14644,6 +14643,7 @@ buttonwood
 brattiest
 brattishing
 beggable
+bleachable
 brattled
 brattles
 brattling
