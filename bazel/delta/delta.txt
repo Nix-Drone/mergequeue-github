@@ -5691,6 +5691,7 @@ dephosphorization
 dephosphorize
 depickle
 depict
+desynonymize
 depicted
 depicter
 descendents
@@ -6709,7 +6710,6 @@ desinence
 desinent
 dallying
 desinential
-desynonymize
 deadens
 desiodothyroxine
 desipiency
