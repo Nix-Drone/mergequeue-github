@@ -6873,7 +6873,6 @@ bugshas
 berteroa
 berth
 bertha
-berthas
 berthed
 berther
 berthierite
@@ -13530,6 +13529,7 @@ bounce
 bounceable
 bounceably
 beslipper
+berthas
 bounceback
 bounced
 bouncer
