@@ -3945,7 +3945,6 @@ emissive
 emissivity
 earthquaked
 emissory
-emitted
 emittent
 emitter
 emitting
@@ -11205,6 +11204,7 @@ euterpean
 eutexia
 euthamia
 euthanasic
+emitted
 enantiotropic
 euthanatize
 euthenasia
