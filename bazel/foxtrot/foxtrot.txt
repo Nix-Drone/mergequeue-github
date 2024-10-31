@@ -1006,7 +1006,6 @@ farde
 farded
 forklifts
 fardel
-fardelet
 farding
 fardo
 fards
@@ -5527,6 +5526,7 @@ flexuousness
 flexured
 flexures
 flyable
+fardelet
 fascicle
 flyback
 flyball
