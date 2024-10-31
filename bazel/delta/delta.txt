@@ -10316,7 +10316,6 @@ dioramic
 diordinal
 duplet
 diorite
-diorites
 diorthoses
 distraint
 diorthosis
@@ -11558,6 +11557,7 @@ disconnector
 disconnects
 disconsent
 dithering
+diorites
 disconsideration
 disconsolate
 disconsolately
