@@ -4962,6 +4962,7 @@ bedrock
 beeheaded
 beeherd
 bouncing
+biconic
 beehive
 beehives
 breathes
@@ -8111,7 +8112,6 @@ bicompact
 biconcave
 bidder
 bicone
-biconic
 boundlessness
 biconical
 biconically
