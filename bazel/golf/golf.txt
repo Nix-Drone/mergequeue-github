@@ -1224,7 +1224,6 @@ griphosaurus
 gavotte
 ganoidian
 ganoids
-gasterophilus
 ganoine
 ganomalite
 ganosis
@@ -3905,6 +3904,7 @@ guttle
 gybes
 gelsemine
 gowfer
+gasterophilus
 galactonic
 genipapada
 gybing
