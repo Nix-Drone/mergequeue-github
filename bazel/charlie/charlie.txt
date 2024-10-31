@@ -3245,7 +3245,6 @@ capot
 capotasto
 capotastos
 capote
-capotes
 capouches
 cappadine
 cappadochio
@@ -7157,6 +7156,7 @@ centref
 centrefold
 centreless
 centrepiece
+capotes
 canephoroe
 centrer
 chol
