@@ -653,7 +653,6 @@ aboiteaus
 aboiteaux
 abolete
 abolish
-abolished
 abolisher
 abolishers
 abolishing
@@ -12759,6 +12758,7 @@ angiographic
 angiohemophilia
 angiohyalinosis
 angiohypertonia
+abolished
 angiohypotonia
 angioid
 angiokeratoma
