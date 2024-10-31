@@ -11552,7 +11552,6 @@ billhead
 boardroom
 boards
 boardsmanship
-boardwalks
 boarfish
 boarfishes
 boarhound
@@ -13821,6 +13820,7 @@ blitheful
 bows
 bowsaw
 bowsed
+boardwalks
 bowser
 baccalaurean
 bowshots

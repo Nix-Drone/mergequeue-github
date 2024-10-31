@@ -1483,7 +1483,6 @@ garnetter
 garnetwork
 garniec
 garnishable
-garnished
 garnishee
 garnisheed
 garnisheeing
@@ -8418,6 +8417,7 @@ gravelliness
 glaziness
 gravelling
 goshdarn
+garnished
 gyroceras
 gravelous
 gammaridae
