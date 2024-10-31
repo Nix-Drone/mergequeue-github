@@ -8980,7 +8980,6 @@ charet
 chareter
 charette
 chemisms
-chargable
 charge
 chargeability
 chargeable
@@ -13515,6 +13514,7 @@ craspedum
 cigarillos
 cigaritos
 cigars
+chargable
 cnidogenous
 cygneous
 cygnets
