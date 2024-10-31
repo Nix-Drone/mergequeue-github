@@ -1227,7 +1227,6 @@ ganoids
 gasterophilus
 ganoine
 ganomalite
-ganosis
 geometrical
 gansa
 gondite
@@ -3809,6 +3808,7 @@ ghoulish
 ghoulishly
 gyse
 gelada
+ganosis
 ghoulishness
 graduations
 ghurry
