@@ -1668,7 +1668,6 @@ balloter
 blowsy
 balloting
 barded
-bradyseismal
 ballots
 ballottement
 buffets
@@ -4027,6 +4026,7 @@ beachheads
 bnf
 beachy
 beachier
+bradyseismal
 beaching
 beachless
 beachmaster
