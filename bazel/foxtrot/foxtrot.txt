@@ -3525,7 +3525,6 @@ facebread
 figures
 figuresome
 flueman
-fconv
 foraneous
 figury
 fiddlers
@@ -9189,6 +9188,7 @@ fiendishness
 foziness
 fidiculae
 fielded
+fconv
 fp
 fplot
 fpm
