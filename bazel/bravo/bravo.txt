@@ -712,7 +712,6 @@ bactris
 bodeful
 bactrites
 bactriticone
-bactritoid
 bacubert
 blairmorite
 bacula
@@ -2618,6 +2617,7 @@ burmite
 barid
 barie
 burgus
+bactritoid
 brandle
 barye
 baryecoia
