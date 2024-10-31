@@ -1967,7 +1967,6 @@ gatewise
 gatewoman
 gatherable
 gathered
-gilgai
 gatherers
 graplins
 gyrostabilizer
@@ -4331,6 +4330,7 @@ gin
 gynaecea
 gynaeceum
 gageable
+gilgai
 guildite
 gonidiose
 gynaecian
