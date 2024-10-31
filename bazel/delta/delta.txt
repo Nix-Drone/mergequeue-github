@@ -686,7 +686,6 @@ damone
 damonico
 damosel
 damosels
-decapitalize
 damp
 dampcourse
 damped
@@ -8084,6 +8083,7 @@ diacaustic
 diacetamide
 disgregated
 diacetyl
+decapitalize
 dipsetic
 diacetylene
 draconianism
