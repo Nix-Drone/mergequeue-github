@@ -4828,7 +4828,6 @@ fault
 front
 flayer
 flaying
-flailed
 fluidify
 flailing
 fossilologist
@@ -10452,6 +10451,7 @@ fishy
 frontispiece
 frontispiecing
 familiarly
+flailed
 frontlash
 frontlessness
 fistnote
