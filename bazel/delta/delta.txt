@@ -8201,7 +8201,6 @@ diagnose
 dipus
 diagnosed
 diagnoses
-diagnosis
 diagnostical
 disjunction
 diagnostically
@@ -11448,6 +11447,7 @@ discoloredness
 discoloring
 dissuasion
 doest
+diagnosis
 discolorment
 discolors
 dure
