@@ -6553,6 +6553,7 @@ big
 bepicture
 bepiece
 bellyflaught
+blackfly
 bepierce
 bepile
 beacher
@@ -10112,7 +10113,6 @@ batholite
 blackfishes
 brahmins
 blackfishing
-blackfly
 blackflies
 bibasic
 bassing
