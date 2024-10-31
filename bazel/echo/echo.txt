@@ -4380,7 +4380,6 @@ enolization
 enamelist
 enamellar
 equiped
-enamellers
 enamelless
 enamels
 enami
@@ -9855,6 +9854,7 @@ essayist
 essayistical
 essaylet
 essays
+enamellers
 essancia
 equestrianship
 endocentric
