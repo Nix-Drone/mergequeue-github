@@ -6780,7 +6780,6 @@ cello
 cellobiose
 cubit
 celloid
-celloidin
 cellophane
 cynophile
 constative
@@ -24599,6 +24598,7 @@ copyreaders
 copyreading
 copyrightable
 copyrighter
+celloidin
 copyrights
 copis
 committals
