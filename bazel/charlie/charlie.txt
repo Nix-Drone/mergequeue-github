@@ -15593,7 +15593,6 @@ classbook
 classed
 classer
 classers
-classfellow
 classy
 classical
 classicalism
@@ -18181,6 +18180,7 @@ coffeehouse
 coffeehoused
 coffeehouses
 coffeehousing
+classfellow
 coffeeleaf
 coffeeman
 coffeepot
