@@ -10195,6 +10195,7 @@ blacksnake
 blackstick
 burghbote
 baneful
+burstone
 blacktail
 bliaut
 boogaloo
@@ -17889,7 +17890,6 @@ burster
 bursty
 baccies
 burstiness
-burstone
 bursts
 botein
 burt
