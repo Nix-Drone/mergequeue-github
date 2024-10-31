@@ -1838,7 +1838,6 @@ camelman
 cameloid
 cameloidea
 camelopardalis
-camelopardel
 camelopardid
 cinnamomum
 camelopardidae
@@ -25431,6 +25430,7 @@ cornutin
 cornutine
 cornuting
 clong
+camelopardel
 cornuto
 cornutos
 cornutus
