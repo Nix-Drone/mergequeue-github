@@ -1698,6 +1698,7 @@ friars
 four
 fdnames
 fdtype
+fianced
 fdub
 fortuitousness
 fe
@@ -3517,7 +3518,6 @@ figuredly
 figureheadless
 figureheads
 fairylands
-fianced
 forthbringer
 figureless
 figurer
