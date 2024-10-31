@@ -2947,7 +2947,6 @@ elide
 enameloma
 egrimony
 exogastric
-elided
 enameler
 elides
 elidible
@@ -8143,6 +8142,7 @@ epipterous
 empaled
 epipubes
 epipubis
+elided
 epirhizous
 epirogenetic
 enbloc
