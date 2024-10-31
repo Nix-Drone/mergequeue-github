@@ -4352,6 +4352,7 @@ fishboat
 fishbolt
 fishbolts
 falchions
+forepast
 fishbowls
 fisheater
 fisheye
@@ -7864,7 +7865,6 @@ foredesk
 foreparts
 forepass
 floran
-forepast
 feedstuffs
 foliously
 forepaw
