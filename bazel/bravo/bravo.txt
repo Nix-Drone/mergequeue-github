@@ -12686,7 +12686,6 @@ bookmobiles
 bookplate
 bookplates
 barwise
-bookpress
 bookrack
 bookracks
 baronry
@@ -14448,6 +14447,7 @@ boulevards
 branchicolous
 besoothing
 branchier
+bookpress
 branchiest
 branchiferous
 beswarming
