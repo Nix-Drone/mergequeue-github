@@ -8820,7 +8820,6 @@ chapelman
 chapelmaster
 chapelry
 colorate
-chapelries
 chapels
 cardiologies
 chapelward
@@ -17390,6 +17389,7 @@ cobbing
 cobble
 cobbled
 cobbler
+chapelries
 cobblerfish
 county
 cobblerism
