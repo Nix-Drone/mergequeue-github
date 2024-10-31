@@ -10111,7 +10111,6 @@ chesses
 chesset
 chessylite
 chessist
-chessman
 chessmen
 chirimen
 chessner
@@ -24469,6 +24468,7 @@ copals
 coparallel
 convincers
 coparcenar
+chessman
 coparcenary
 coparcener
 coparceny
