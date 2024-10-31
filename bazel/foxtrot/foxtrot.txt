@@ -103,7 +103,6 @@ faciation
 forequoted
 facie
 freeport
-fibroelastic
 faciend
 faciends
 facient
@@ -918,6 +917,7 @@ fantoccini
 fantocine
 fee
 flavor
+fibroelastic
 fantom
 fanums
 fanweed
