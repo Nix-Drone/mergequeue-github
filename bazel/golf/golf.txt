@@ -679,7 +679,6 @@ geopositive
 gunshots
 gnathonize
 gadaea
-geodesy
 galliot
 galliots
 gurnets
@@ -5715,6 +5714,7 @@ generality
 globuliform
 gossipmonger
 globulimeter
+geodesy
 gurges
 globulins
 gyrochrome
