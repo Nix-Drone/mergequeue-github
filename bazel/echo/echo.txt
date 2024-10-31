@@ -7049,6 +7049,7 @@ enlevement
 entrep
 entrepas
 entrepeneur
+encodement
 entrepeneurs
 entrepots
 effatum
@@ -11609,7 +11610,6 @@ evocating
 evocation
 evocations
 evocative
-encodement
 eremiteship
 epitoxoid
 evocativeness
