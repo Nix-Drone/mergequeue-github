@@ -2378,7 +2378,6 @@ eimer
 electrocutioner
 entrechat
 exanguin
-electrocutions
 emplaces
 electrode
 electrodeless
@@ -7139,6 +7138,7 @@ evadible
 enuresises
 equiform
 enurny
+electrocutions
 env
 eventuations
 envaye
