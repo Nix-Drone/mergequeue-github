@@ -5837,7 +5837,6 @@ fname
 floccillation
 floccipend
 freeloader
-forcipressure
 floccose
 floccosely
 flocculable
@@ -6823,6 +6822,7 @@ festin
 flaccidity
 farweltered
 folded
+forcipressure
 futtocks
 fado
 foldedly
