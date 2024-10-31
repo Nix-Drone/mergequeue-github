@@ -1105,6 +1105,7 @@ calcsinter
 calcspar
 calcspars
 calctufas
+churchyards
 calctuff
 calculability
 calculable
@@ -12837,7 +12838,6 @@ churchgrith
 churchy
 churchianity
 churchyard
-churchyards
 churchier
 churchiest
 churchified
