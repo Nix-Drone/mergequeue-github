@@ -1973,7 +1973,6 @@ bandman
 bandmaster
 bandmasters
 bando
-bandobust
 bandog
 bandogs
 bonfire
@@ -10675,6 +10674,7 @@ blenheim
 blenk
 blennadenitis
 basihyal
+bandobust
 burbled
 blennemesis
 blennenteria
