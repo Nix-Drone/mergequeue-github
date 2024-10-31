@@ -27912,7 +27912,6 @@ craftsmen
 craftspeople
 concubinaries
 craftsperson
-craftswoman
 craftwork
 craftworker
 crag
@@ -28986,6 +28985,7 @@ crimine
 crimini
 criminis
 ceratopsia
+craftswoman
 criminogenesis
 cigarless
 criminol
