@@ -5609,7 +5609,6 @@ afterfame
 afterfeed
 afterform
 afterfriend
-afterfruits
 afterfuture
 anadem
 aftergame
@@ -15881,6 +15880,7 @@ antiphonetic
 antiphony
 asepsis
 antiphonic
+afterfruits
 antiphonical
 amassable
 antiphonically
