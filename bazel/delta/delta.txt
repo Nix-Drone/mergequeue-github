@@ -2393,7 +2393,6 @@ diabolism
 deciles
 decylic
 drippings
-deciliter
 deciliters
 decilitre
 dripstick
@@ -5987,6 +5986,7 @@ dysmerism
 deprivable
 deprival
 disprofit
+deciliter
 deprivals
 deprivate
 deprivation
