@@ -8145,6 +8145,7 @@ chaffron
 chaffs
 chaffseed
 carapace
+corpses
 cavitation
 circumterrestrial
 chaffwax
@@ -25594,7 +25595,6 @@ corps
 corpsbruder
 corpse
 corpselikeness
-corpses
 corpsy
 cleverness
 corpsman
