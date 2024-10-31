@@ -3279,7 +3279,6 @@ actuation
 actuator
 abdominohysterectomy
 actuators
-actuose
 acture
 ascents
 acturience
@@ -22450,6 +22449,7 @@ atebrin
 atechny
 atechnic
 atechnical
+actuose
 atees
 ateeter
 atef
