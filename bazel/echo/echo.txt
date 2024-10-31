@@ -4780,7 +4780,6 @@ enclitics
 encloak
 eclipsis
 encloister
-enclose
 etymologize
 exegetically
 experimentalists
@@ -7941,6 +7940,7 @@ enforceable
 epilation
 epilator
 epilemma
+enclose
 epileny
 epilepsies
 epileptic
