@@ -6717,7 +6717,6 @@ fog
 fogbank
 fogbound
 fogbow
-flyblow
 fogdogs
 fairways
 fogdom
@@ -6725,6 +6724,7 @@ figworts
 fogfruit
 foretype
 feeders
+flyblow
 fogfruits
 fogger
 foggers
