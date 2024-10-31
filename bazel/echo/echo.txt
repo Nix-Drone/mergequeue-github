@@ -560,7 +560,6 @@ ecclesiae
 echinococcosis
 echinococcus
 echinoderidae
-echinoderm
 echinoderma
 echinodermal
 erythroderma
@@ -13761,6 +13760,7 @@ equipaga
 extraburghal
 extracalendar
 epithetize
+echinoderm
 expressionism
 ecteron
 extracarpal
