@@ -6220,7 +6220,6 @@ enqueue
 entered
 enqueued
 enquicken
-enquire
 eten
 enquired
 enquiry
@@ -7814,6 +7813,7 @@ embowelled
 epidiorite
 epidiorthosis
 entrapper
+enquire
 epidiplosis
 euphorbiaceae
 epidote
