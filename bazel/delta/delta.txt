@@ -2478,6 +2478,7 @@ decks
 dulls
 deckswabber
 decl
+dynastic
 declaim
 dichorisandra
 declaimant
@@ -10055,7 +10056,6 @@ dartrose
 dynasty
 disendowment
 delsartean
-dynastic
 disengage
 dynastically
 dynastid
