@@ -2272,7 +2272,6 @@ cancelation
 canceled
 canceleer
 concipiency
-canceler
 cancelers
 cancelier
 collaborated
@@ -27447,6 +27446,7 @@ covenantee
 covenanter
 covenanting
 covenantor
+canceler
 covenants
 covent
 coventrate
