@@ -298,7 +298,6 @@ eatability
 eatable
 eatables
 electrolyzability
-eatberry
 eaten
 emetophobia
 empeirema
@@ -10391,6 +10390,7 @@ escorial
 emirship
 enrank
 eemis
+eatberry
 ethmoidal
 ethmoiditis
 entomb
