@@ -3784,7 +3784,6 @@ breck
 batteried
 batteries
 batteryman
-batterman
 batters
 batteuse
 batty
@@ -6734,6 +6733,7 @@ beride
 bemixes
 berigora
 beryl
+batterman
 berylate
 beltways
 basepoint
