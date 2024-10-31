@@ -3449,7 +3449,6 @@ captiving
 captivity
 comatulae
 captivities
-cojoin
 captor
 captors
 clientless
@@ -31745,6 +31744,7 @@ customing
 customizable
 customization
 customizations
+cojoin
 customize
 customized
 customizer
