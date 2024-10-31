@@ -186,7 +186,6 @@ evacuee
 eloigners
 earthset
 electroplated
-electrodeposit
 exprobratory
 epiclesis
 earthsets
@@ -7655,6 +7654,7 @@ experiments
 epicier
 excurvate
 enfeoffs
+electrodeposit
 epicist
 epiclastic
 epicleidian
