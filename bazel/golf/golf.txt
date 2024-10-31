@@ -1278,7 +1278,6 @@ generalizable
 gruis
 gothic
 gapeseed
-gapeworm
 gapeworms
 gorgonized
 gapingly
@@ -7694,6 +7693,7 @@ graecophil
 graeculus
 granth
 graeme
+gapeworm
 geography
 graffage
 gunbarrel
