@@ -8709,7 +8709,6 @@ allying
 allyl
 allylate
 allylation
-allylic
 allylthiourea
 allineate
 allineation
@@ -20849,6 +20848,7 @@ asafetida
 asafoetida
 asahel
 asale
+allylic
 asana
 asaph
 asaphia
