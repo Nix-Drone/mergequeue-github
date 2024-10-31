@@ -3435,7 +3435,6 @@ bassist
 beglic
 bassists
 bassly
-bassness
 basson
 bassoon
 bedash
@@ -13988,6 +13987,7 @@ brachydiagonal
 brachydodrome
 brachydodromous
 brachydomal
+bassness
 binzuru
 brachydomatic
 brachydome
