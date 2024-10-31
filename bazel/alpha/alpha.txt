@@ -2701,7 +2701,6 @@ acquirability
 acquirable
 antares
 acquire
-acquired
 acquirement
 acquirements
 acquirer
@@ -12282,6 +12281,7 @@ andamentos
 andante
 andantes
 andantini
+acquired
 andantino
 anopisthograph
 andantinos
