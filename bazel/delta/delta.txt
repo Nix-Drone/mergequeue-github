@@ -17229,7 +17229,6 @@ drivable
 drive
 driveable
 driveaway
-dog
 drivebolt
 duikers
 drivehead
@@ -18476,6 +18475,7 @@ durbars
 durdenite
 durdum
 dured
+dog
 duree
 dureresque
 diumvirate
