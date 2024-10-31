@@ -3774,7 +3774,6 @@ electrolyzation
 embusy
 embusk
 embuskin
-embusqu
 environed
 encrypts
 epilimnion
@@ -8473,6 +8472,7 @@ epocha
 eumitosis
 epoche
 epochism
+embusqu
 epode
 epodes
 epoist
