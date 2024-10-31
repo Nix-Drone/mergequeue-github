@@ -1119,7 +1119,6 @@ edibleness
 edibles
 edictal
 edictally
-edictum
 edicule
 edify
 echolalia
@@ -5127,6 +5126,7 @@ endocranium
 equiconvex
 endocrin
 ember
+edictum
 endocrine
 endocrines
 endocrinic
