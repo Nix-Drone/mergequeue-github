@@ -1272,6 +1272,7 @@ bromochlorophenol
 balaenicipites
 balaenidae
 balaenoid
+bootable
 balaenoidea
 balaenoidean
 balaenoptera
@@ -12815,7 +12816,6 @@ burgensic
 brachigerous
 barleysick
 boot
-bootable
 beachdrops
 bootblack
 bootblacks
