@@ -5176,6 +5176,7 @@ endogeny
 eyebolt
 exorate
 endogenicity
+erraticness
 endogenies
 exundation
 endogenous
@@ -10923,7 +10924,6 @@ euphausid
 externals
 euphausiid
 endostomata
-erraticness
 electrodiagnoses
 elastomeric
 euphausiidae
