@@ -1907,7 +1907,6 @@ gastrostomies
 gastrostomize
 gastrostomus
 gastrotaxis
-gastrothecal
 gastrotome
 gastrotomy
 gastrotomic
@@ -4249,6 +4248,7 @@ gazon
 gittith
 glamoury
 gonial
+gastrothecal
 gymnasts
 gymnetrous
 grapplement
