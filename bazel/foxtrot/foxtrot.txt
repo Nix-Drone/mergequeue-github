@@ -7805,7 +7805,6 @@ foremarch
 forsaker
 foremark
 fullface
-foremartyr
 foremastmen
 foremasts
 foremean
@@ -7959,6 +7958,7 @@ foreseize
 fiberglass
 foresend
 faience
+foremartyr
 foremanship
 foresentence
 foreset
