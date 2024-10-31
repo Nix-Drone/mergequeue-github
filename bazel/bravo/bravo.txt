@@ -10802,7 +10802,6 @@ bleu
 blew
 blewits
 blick
-blickey
 blickeys
 blicky
 betone
@@ -12458,6 +12457,7 @@ boneshaker
 backbeat
 boneshaw
 bonetail
+blickey
 bonetta
 bonewood
 bonework
