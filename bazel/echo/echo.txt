@@ -6596,7 +6596,6 @@ enter
 enterable
 enteraden
 enteradenography
-enteradenographic
 enteradenological
 enteral
 enterally
@@ -10960,6 +10959,7 @@ eurasians
 expressions
 euphon
 empair
+enteradenographic
 encamped
 euphonetic
 euphonetics
