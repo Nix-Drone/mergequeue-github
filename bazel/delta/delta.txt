@@ -12327,7 +12327,6 @@ disheritor
 disherits
 dishes
 dwellers
-disposable
 disheveled
 dishevelled
 dishevelling
@@ -14460,6 +14459,7 @@ divorcements
 dichotomal
 demisemiquaver
 diastalses
+disposable
 divorcer
 devisor
 dicaeidae
