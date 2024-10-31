@@ -4997,7 +4997,6 @@ glad
 gladded
 gladden
 gladdened
-gipsire
 gladdens
 gladding
 glade
@@ -8160,6 +8159,7 @@ graphemics
 graphy
 graphic
 graphical
+gipsire
 graphically
 graphicalness
 graphicness
