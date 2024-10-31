@@ -6959,7 +6959,6 @@ apostolic
 airspeed
 airspeeds
 airstream
-akinetic
 allegory
 airstrip
 airstrips
@@ -11141,6 +11140,7 @@ amphimictically
 amphimorula
 amphimorulae
 amphinesian
+akinetic
 amphineurous
 amphinucleus
 amphion
