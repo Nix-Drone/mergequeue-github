@@ -6387,7 +6387,6 @@ bandeaus
 benzalethylamine
 benzalphenylhydrazone
 benzalphthalide
-benzamide
 benzamido
 benzamine
 benzaminic
@@ -15119,6 +15118,7 @@ brewmaster
 bibliopolistic
 brews
 braveries
+benzamide
 brewst
 brewsterite
 brezhnev
