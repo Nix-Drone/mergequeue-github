@@ -6833,7 +6833,6 @@ airchecks
 aircoaches
 aircraft
 aircraftman
-axometer
 aircraftmen
 aircraftsman
 aircraftsmen
@@ -15640,6 +15639,7 @@ acrylic
 antigraft
 antimonic
 antimonid
+axometer
 antimonide
 anthropophagi
 antimonies
