@@ -6382,7 +6382,6 @@ apoquinine
 agrammatologia
 agrania
 agranulocytosis
-agranuloplastic
 agrapha
 agraphia
 agraphic
@@ -9672,6 +9671,7 @@ alvissmal
 alvite
 alvus
 alway
+agranuloplastic
 algific
 always
 alwise
