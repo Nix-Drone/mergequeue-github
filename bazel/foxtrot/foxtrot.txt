@@ -5084,7 +5084,6 @@ foretooth
 faecal
 flasklet
 flasks
-flasque
 flat
 fids
 flatbed
@@ -6039,6 +6038,7 @@ flatterable
 florification
 fishermen
 florigen
+flasque
 floriken
 florilage
 furtherances
