@@ -5305,6 +5305,7 @@ affile
 affiliable
 addio
 affiliate
+areolae
 affiliated
 affiliating
 affiliation
@@ -19392,7 +19393,6 @@ aliners
 areographical
 areographically
 areola
-areolae
 areolar
 areolas
 areolated
