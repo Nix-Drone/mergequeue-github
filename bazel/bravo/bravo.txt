@@ -10170,7 +10170,6 @@ blackman
 blackneck
 blackness
 bebump
-blackout
 blackpatch
 blackplate
 blackpoll
@@ -13430,6 +13429,7 @@ botulinuses
 botulism
 belite
 brosimum
+blackout
 botulisms
 brodequin
 boubas
