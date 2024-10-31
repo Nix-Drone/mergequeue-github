@@ -7486,7 +7486,6 @@ epharmonic
 ephas
 ephebea
 equipped
-enrols
 ephebeibeia
 ephebeion
 ephebeubea
@@ -9801,6 +9800,7 @@ euryon
 espinal
 espinel
 espinette
+enrols
 espingole
 editorialist
 espino
