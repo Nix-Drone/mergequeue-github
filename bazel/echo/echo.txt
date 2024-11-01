@@ -4580,6 +4580,7 @@ encephalomalacosis
 encephalomalaxis
 encephalomas
 encephalomeningocele
+entopterygoid
 encephalometric
 encephalomyelitic
 encephalomyelitis
@@ -5277,7 +5278,6 @@ elapsoidea
 elkhorn
 endorsable
 eater
-entopterygoid
 endorsation
 endorsed
 endorsee
