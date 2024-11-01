@@ -8088,7 +8088,6 @@ cinquanter
 chaetodontid
 chaetodontidae
 chaetognatha
-chaetognathan
 chaetophobia
 chaetophora
 chaetophoraceae
@@ -11161,6 +11160,7 @@ chlamydes
 cliftonia
 chlamydobacteriaceae
 chlamydobacteriaceous
+chaetognathan
 chlamydobacteriales
 chlamydomonadaceae
 chlamydomonadidae
