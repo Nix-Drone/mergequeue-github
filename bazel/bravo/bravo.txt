@@ -11565,6 +11565,7 @@ boarskin
 boarspear
 boart
 boarts
+burgherage
 boarwood
 boas
 boast
@@ -17638,7 +17639,6 @@ burgh
 burghal
 burghalpenny
 burgher
-burgherage
 beguine
 burgherhood
 blowtubes
