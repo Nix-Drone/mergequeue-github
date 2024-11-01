@@ -3481,7 +3481,6 @@ addend
 anchylosed
 addends
 addendum
-addendums
 adder
 abridgment
 adderfish
@@ -8202,6 +8201,7 @@ alienated
 alienates
 alienating
 alienation
+addendums
 alienator
 acontias
 aliene
