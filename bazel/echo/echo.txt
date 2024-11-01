@@ -7050,6 +7050,7 @@ entrep
 entrepas
 entrepeneur
 entrepeneurs
+evacuees
 entrepots
 effatum
 entrepreneur
@@ -11254,7 +11255,6 @@ evacuator
 evacuators
 exteriors
 evacue
-evacuees
 evadable
 evade
 evaded
