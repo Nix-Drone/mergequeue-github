@@ -1198,7 +1198,6 @@ datatypes
 datcha
 dynamometry
 dialyzers
-dateableness
 datebook
 dated
 dod
@@ -14388,6 +14387,7 @@ dipterous
 detruncated
 dividuous
 divinability
+dateableness
 divinable
 divinail
 deicide
