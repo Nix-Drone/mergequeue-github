@@ -1972,7 +1972,6 @@ bandlimits
 bandman
 bandmaster
 bandmasters
-bando
 bandobust
 bandog
 bandogs
@@ -13892,6 +13891,7 @@ bozze
 bp
 basher
 belder
+bando
 br
 bra
 braata
