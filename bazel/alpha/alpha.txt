@@ -2701,7 +2701,6 @@ acquirability
 acquirable
 antares
 acquire
-acquired
 acquirement
 acquirements
 acquirer
@@ -11592,6 +11591,7 @@ anaerobically
 anaerobies
 anaerobion
 anaerobiont
+acquired
 anaerobiosis
 anaerobiotic
 anaerobiotically
