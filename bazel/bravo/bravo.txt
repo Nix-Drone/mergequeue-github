@@ -8463,7 +8463,6 @@ bijections
 bocca
 bree
 barkantine
-bijective
 bijectively
 bijou
 bijoux
@@ -15210,6 +15209,7 @@ brickmason
 brockage
 bethylid
 bricktimber
+bijective
 bricktop
 brickwall
 brickwork
