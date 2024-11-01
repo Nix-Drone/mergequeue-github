@@ -4426,7 +4426,6 @@ adsorbable
 adsorbates
 adsorbed
 adsorbs
-adsorption
 abiston
 abhorred
 adsorptively
@@ -5797,6 +5796,7 @@ agamete
 agametes
 angulates
 agami
+adsorption
 agamy
 amixia
 ascigerous
