@@ -4648,6 +4648,7 @@ carphosiderite
 carpi
 carpid
 cogredient
+cinefaction
 carpidium
 carpincho
 carping
@@ -13843,7 +13844,6 @@ cheddite
 cineaste
 cynebot
 cinecamera
-cinefaction
 cinefilm
 cacosplanchnia
 cynegetic
