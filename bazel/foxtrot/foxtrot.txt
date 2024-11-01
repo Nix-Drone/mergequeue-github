@@ -56,7 +56,6 @@ facebow
 facecloth
 firestone
 faced
-foreladies
 faceharden
 faceless
 flecken
@@ -8935,6 +8934,7 @@ fotui
 fou
 foud
 foudroyant
+foreladies
 fouette
 forum
 fouettee
