@@ -14067,7 +14067,6 @@ cypher
 cipherable
 cipherdom
 cyphered
-cipherer
 cipherhood
 ciphering
 cyphering
@@ -20727,6 +20726,7 @@ complicative
 complicator
 complicators
 complice
+cipherer
 complices
 complicity
 complicitous
