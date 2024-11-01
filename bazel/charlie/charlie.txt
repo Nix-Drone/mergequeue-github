@@ -429,7 +429,6 @@ cactoid
 cactus
 civilisable
 cactuses
-cactuslike
 cacumen
 cassavas
 cacuminal
@@ -17176,6 +17175,7 @@ coalify
 cymbaline
 coalification
 coalified
+cactuslike
 coalifies
 coalifying
 coaling
