@@ -5307,7 +5307,6 @@ densimetric
 disclaims
 densimetrically
 density
-densitometer
 densitometric
 detestable
 densus
@@ -8673,6 +8672,7 @@ diastimeter
 diastoles
 diastomatic
 diastral
+densitometer
 diastrophy
 diastrophic
 devilment
