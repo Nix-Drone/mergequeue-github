@@ -5593,7 +5593,6 @@ fligger
 feodum
 flight
 flighted
-flighter
 flightful
 flighty
 flightier
@@ -6491,6 +6490,7 @@ flurr
 flurried
 flurriedly
 fernbird
+flighter
 forsteal
 flurries
 flurrying
