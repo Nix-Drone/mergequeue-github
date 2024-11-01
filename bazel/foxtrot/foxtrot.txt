@@ -54,6 +54,7 @@ faceable
 facebar
 facebow
 facecloth
+fusain
 firestone
 faced
 foreladies
@@ -1604,7 +1605,6 @@ favellidium
 favelloid
 faveoluli
 faveolus
-fusain
 floristically
 faverole
 fortyfold
