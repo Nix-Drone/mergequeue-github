@@ -2308,7 +2308,6 @@ electrizable
 electrization
 earthenware
 electro
-electroacoustic
 ecblastpsis
 electroacoustical
 electroacoustically
@@ -7152,6 +7151,7 @@ enveil
 ecthymata
 envelope
 enveloped
+electroacoustic
 enveloper
 exurbanites
 envelopers
