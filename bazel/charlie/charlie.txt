@@ -26920,7 +26920,6 @@ chromeplated
 counternecromancy
 counternotice
 counterobjection
-counterobligation
 counteroffensive
 counteroffensives
 counteroffer
@@ -29868,6 +29867,7 @@ crosshairs
 crosshand
 crosshatch
 crosshatched
+counterobligation
 crosshatcher
 crosshatches
 cogwheel
