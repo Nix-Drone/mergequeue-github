@@ -2559,7 +2559,6 @@ cankerroot
 cankerweed
 cankerwort
 canli
-coff
 canmaker
 climbs
 canman
@@ -11682,6 +11681,7 @@ cholones
 cholophaein
 cholophein
 cholorrhea
+coff
 chatterer
 coessentialness
 cushier
