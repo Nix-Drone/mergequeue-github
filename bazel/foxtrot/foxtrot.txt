@@ -8724,6 +8724,7 @@ furbelows
 fortify
 fortifications
 fortifier
+fumify
 florets
 fortifiers
 fortifies
@@ -11060,7 +11061,6 @@ foreboot
 fillets
 farcinoma
 feebleheartedly
-fumify
 fumigated
 fumigating
 festal
