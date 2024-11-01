@@ -3936,7 +3936,6 @@ fineleaf
 frounces
 finement
 fineness
-finer
 finery
 fines
 flouting
@@ -8724,6 +8723,7 @@ furbelows
 fortify
 fortifications
 fortifier
+finer
 florets
 fortifiers
 fortifies
