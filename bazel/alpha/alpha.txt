@@ -2088,7 +2088,6 @@ acetize
 acetla
 acetmethylanilide
 acetnaphthalide
-acetoacetanilide
 acetoacetate
 acetoacetic
 acetoamidophenol
@@ -6840,6 +6839,7 @@ aircraftsmen
 aircraftswoman
 aircraftwoman
 ahint
+acetoacetanilide
 aircrew
 aircrewman
 attended
