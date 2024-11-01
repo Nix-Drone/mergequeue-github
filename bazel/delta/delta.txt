@@ -565,7 +565,6 @@ damageability
 damageably
 damaged
 damagement
-damageous
 dao
 damager
 damagers
@@ -4678,6 +4677,7 @@ demipesade
 disgust
 demipike
 demipillar
+damageous
 demipique
 demiplacate
 demiplate
