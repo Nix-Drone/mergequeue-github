@@ -6488,7 +6488,6 @@ benzophenoxazine
 benzophloroglucinol
 benzophthalazine
 benzopyran
-benzopyranyl
 benzopyrazolone
 benzopyrylium
 benzoquinoxaline
@@ -17129,6 +17128,7 @@ bulletmaking
 bulletproof
 bulletproofed
 bulletproofing
+benzopyranyl
 bullets
 bulletwood
 bullfeast
