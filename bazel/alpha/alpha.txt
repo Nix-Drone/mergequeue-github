@@ -10533,7 +10533,6 @@ amyloleucite
 amylolysis
 amylolytic
 amylom
-amylometer
 amylopectin
 amylophagia
 amylophosphate
@@ -13818,6 +13817,7 @@ aralia
 anopheline
 anophoria
 anophthalmia
+amylometer
 anophthalmos
 anophthalmus
 anopia
