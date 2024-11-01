@@ -2621,6 +2621,7 @@ decolorisation
 decoloriser
 decolorising
 dispose
+descriptive
 decolorization
 decolorized
 decolorizer
@@ -6522,7 +6523,6 @@ descript
 description
 dogsled
 descriptionless
-descriptive
 descriptively
 diota
 descriptivism
