@@ -3237,7 +3237,6 @@ caponized
 caponizer
 coiling
 caponizing
-capons
 caporal
 caporals
 counterweighing
@@ -20711,6 +20710,7 @@ compliances
 compliancy
 compliancies
 consimilarity
+capons
 compliant
 compliantly
 complicacy
