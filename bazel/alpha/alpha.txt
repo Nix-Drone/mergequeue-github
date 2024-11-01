@@ -17477,7 +17477,6 @@ apostrophi
 apostrophic
 apostrophied
 apostrophise
-apostrophised
 apostrophising
 apostrophize
 apostrophizes
@@ -23116,6 +23115,7 @@ attingency
 attingent
 attirail
 attire
+apostrophised
 attired
 attirer
 attires
