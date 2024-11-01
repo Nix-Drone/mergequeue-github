@@ -3419,7 +3419,6 @@ captance
 captandum
 captans
 captation
-caption
 captioned
 captioning
 captionless
@@ -23218,6 +23217,7 @@ consubstantiality
 consubstantially
 clamourist
 consubstantiate
+caption
 consubstantiated
 consubstantiating
 consubstantiation
