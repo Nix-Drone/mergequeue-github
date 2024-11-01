@@ -3512,7 +3512,6 @@ figuratively
 figurato
 folioliferous
 figure
-figured
 figuredly
 figureheadless
 figureheads
@@ -5120,6 +5119,7 @@ flatlong
 flatman
 flatness
 favi
+figured
 flats
 flatted
 flatten
