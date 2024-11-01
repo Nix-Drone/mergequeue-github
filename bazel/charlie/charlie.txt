@@ -3369,7 +3369,6 @@ capsized
 capsizes
 capsomer
 capsomere
-capsomers
 capstan
 capstans
 capstone
@@ -7917,6 +7916,7 @@ cest
 cesta
 cestas
 ceste
+capsomers
 cestidae
 cestoda
 cestode
