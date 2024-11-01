@@ -1938,7 +1938,6 @@ gatehouse
 gatekeep
 glovemaking
 gatekeeper
-gatekeepers
 gurgly
 globuliferous
 gateless
@@ -7130,6 +7129,7 @@ gopherwood
 gopura
 gor
 goading
+gatekeepers
 gollywog
 gora
 gravelled
