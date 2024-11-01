@@ -8670,6 +8670,7 @@ anticynically
 allhallowtide
 allheals
 ally
+auth
 alliable
 alliaceae
 auspicial
@@ -23786,7 +23787,6 @@ autecologist
 autem
 autere
 auteur
-auth
 amampondo
 apoplectiform
 authentically
