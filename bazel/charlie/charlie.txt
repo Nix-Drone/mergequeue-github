@@ -11366,7 +11366,6 @@ chlorophyll
 chlorophyllaceous
 chlorophyllase
 chlorophyllian
-chlorophyllide
 chlorophylligenous
 chlorophylligerous
 chlorophyllin
@@ -19747,6 +19746,7 @@ comdt
 come
 comeatable
 comeback
+chlorophyllide
 comebacker
 cymotrichous
 celeomorph
