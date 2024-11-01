@@ -4723,7 +4723,6 @@ carr
 carrack
 carracks
 carrageen
-carrageenan
 carrageenin
 carragheen
 carragheenin
@@ -27460,6 +27459,7 @@ coveralled
 coveralls
 coverchief
 cerberean
+carrageenan
 cochairmanship
 covercle
 credentials
