@@ -6950,7 +6950,6 @@ epideictical
 entophytous
 epimere
 entopic
-entoplasm
 entoplastron
 entopopliteal
 eightyfold
@@ -12274,6 +12273,7 @@ execrator
 emusive
 execrators
 exect
+entoplasm
 executable
 executant
 engines
