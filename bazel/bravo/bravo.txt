@@ -8253,7 +8253,6 @@ boosters
 byepath
 bier
 broid
-bierbalk
 blest
 byerite
 bierkeller
@@ -10969,6 +10968,7 @@ blob
 bicentrically
 benzoylate
 blobby
+bierbalk
 bloomerism
 blobbier
 bricklay
