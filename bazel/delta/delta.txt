@@ -3432,6 +3432,7 @@ deflectors
 deflects
 deflesh
 deflex
+droller
 deflexed
 deflexibility
 deflexible
@@ -17293,7 +17294,6 @@ droiture
 drokpa
 drolerie
 droll
-droller
 drollery
 drolleries
 drollest
