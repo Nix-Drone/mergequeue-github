@@ -11550,7 +11550,6 @@ boardly
 boardlike
 billhead
 boardroom
-boards
 boardsmanship
 boardwalks
 boarfish
@@ -13538,6 +13537,7 @@ bounces
 bouncier
 bounciest
 bouncily
+boards
 belatedly
 bounciness
 bouncingly
