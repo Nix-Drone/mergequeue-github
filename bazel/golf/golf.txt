@@ -2699,7 +2699,6 @@ generalizations
 generalize
 genl
 gyrations
-generalizeable
 genappe
 generalized
 glassily
@@ -8482,6 +8481,7 @@ gravipause
 gravisphere
 gemelled
 gravispheric
+generalizeable
 gravitated
 gravitater
 gravitates
