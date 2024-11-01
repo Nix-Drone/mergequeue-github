@@ -10144,7 +10144,6 @@ blackishness
 blackit
 blackjack
 blackjacked
-blackjacking
 blackjacks
 blackland
 blacklead
@@ -17069,6 +17068,7 @@ bullation
 bullback
 botfly
 bullbaiting
+blackjacking
 bullbat
 belduque
 bullbats
