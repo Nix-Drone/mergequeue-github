@@ -2095,6 +2095,7 @@ bankbooks
 bulanda
 baldachini
 basti
+bidirectional
 bankcard
 blossomhead
 bankcards
@@ -8201,7 +8202,6 @@ bidiagonal
 bidialectalism
 bidimensional
 biding
-bidirectional
 bidirectionally
 bidonville
 bidpai
