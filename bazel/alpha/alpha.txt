@@ -3100,7 +3100,6 @@ almagest
 actinograph
 acrosporous
 actinography
-actinographic
 actinoid
 annotate
 anisochromia
@@ -4140,6 +4139,7 @@ admissions
 admissive
 automaton
 admissively
+actinographic
 alibi
 antiperistasis
 admissory
