@@ -5223,7 +5223,6 @@ glasswork
 guider
 glassworker
 glassworkers
-glassworm
 gawkier
 glasswort
 gees
@@ -7555,6 +7554,7 @@ gps
 gr
 gies
 glucogenic
+glassworm
 graafian
 graal
 grab
