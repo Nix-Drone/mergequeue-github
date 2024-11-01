@@ -20598,7 +20598,6 @@ compilator
 compileable
 compiled
 compilement
-compiling
 comping
 clanjamfrie
 compital
@@ -28922,6 +28921,7 @@ cricks
 chandrakanta
 cricoarytenoid
 cricoid
+compiling
 cricoids
 cricopharyngeal
 cricothyreoid
