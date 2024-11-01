@@ -2007,6 +2007,7 @@ bandsmen
 bandspreading
 bandstand
 bandstands
+baskets
 bandster
 ballroom
 bandstop
@@ -3367,7 +3368,6 @@ biotope
 basketries
 bombline
 banyai
-baskets
 basketware
 basketweaving
 basketwoman
