@@ -1180,6 +1180,7 @@ datafile
 dataflow
 datagram
 datagrams
+difforme
 deescalating
 datakit
 datamation
@@ -9344,7 +9345,6 @@ diffiding
 difflation
 diffluent
 difform
-difforme
 difformed
 diffract
 diffracting
