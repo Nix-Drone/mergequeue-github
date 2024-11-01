@@ -2229,7 +2229,6 @@ felter
 feltyfare
 feltyflier
 felting
-feltings
 feltmaking
 feltman
 foulard
@@ -4976,6 +4975,7 @@ flanks
 faineantise
 flankwise
 flatbeds
+feltings
 flannelboard
 flannelette
 flannelflower
