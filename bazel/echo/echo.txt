@@ -8357,7 +8357,6 @@ epithelia
 epithelialize
 ejectives
 enukki
-epithelioid
 entosphenoid
 epitheliolysin
 epitheliolysis
@@ -13113,6 +13112,7 @@ expiration
 epaxial
 expirations
 expirator
+epithelioid
 expiratory
 expire
 exhaustable
