@@ -3581,7 +3581,6 @@ caranga
 carangid
 carangidae
 carangids
-cooking
 carangin
 carangoid
 carangus
@@ -20384,6 +20383,7 @@ compactable
 compacted
 compactedly
 compactedness
+cooking
 compacter
 compactible
 compactify
