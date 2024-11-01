@@ -7265,7 +7265,6 @@ billy
 bestore
 bestorm
 bestow
-bestowal
 bestowals
 bestower
 bestowing
@@ -14809,6 +14808,7 @@ breakableness
 breakables
 befop
 breakably
+bestowal
 breakage
 breakages
 breakaway
