@@ -3779,7 +3779,6 @@ carboniser
 carbonising
 carbazin
 carbonitride
-carbonizable
 carbonization
 carbonize
 carbonized
@@ -26988,6 +26987,7 @@ counterpressure
 counterprick
 counterprinciple
 counterprocess
+carbonizable
 cayubaban
 counterproductive
 counterproductively
