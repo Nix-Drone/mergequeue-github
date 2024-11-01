@@ -2364,6 +2364,7 @@ barbascos
 barbastel
 barbastelle
 barbate
+bridgebuilding
 barbated
 barbatimao
 barbe
@@ -15270,7 +15271,6 @@ bridge
 bridgeable
 bridgebote
 bridgebuilder
-bridgebuilding
 bridged
 bridgehead
 bridgeless
