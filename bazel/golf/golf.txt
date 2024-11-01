@@ -6367,7 +6367,6 @@ goaler
 goalie
 gonidiferous
 gestured
-goalkeeper
 goalkeeping
 gambusias
 goals
@@ -9407,6 +9406,7 @@ grots
 grotty
 grotto
 grottoes
+goalkeeper
 grottolike
 grottowork
 geryonidae
