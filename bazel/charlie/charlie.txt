@@ -3455,6 +3455,7 @@ captors
 clientless
 captress
 capturable
+creatures
 captured
 captures
 capturing
@@ -28451,7 +28452,6 @@ creatureless
 creaturely
 creatureliness
 creatureling
-creatures
 carapo
 creatureship
 creaturize
