@@ -1189,6 +1189,7 @@ datapac
 datapunch
 disinvolve
 datary
+dimercuric
 dataries
 dataset
 datasetname
@@ -5125,7 +5126,6 @@ dendrochronologist
 dendrocygna
 dotty
 dendrocoela
-dimercuric
 dendrocoelan
 dendrocoele
 dendrocoelous
