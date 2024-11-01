@@ -1644,6 +1644,7 @@ ballones
 ballonets
 ballonette
 bethroot
+bandh
 ballonne
 ballonnes
 balloon
@@ -1922,7 +1923,6 @@ bandfile
 bandfiled
 bandfish
 bandgap
-bandh
 brownism
 bandhava
 bandhook
