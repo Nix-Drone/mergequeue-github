@@ -5593,7 +5593,6 @@ fligger
 feodum
 flight
 flighted
-flighter
 flightful
 flighty
 flightier
@@ -11754,6 +11753,7 @@ fertilitate
 fuzziness
 flacianism
 frowzled
+flighter
 forestem
 foo
 fv
