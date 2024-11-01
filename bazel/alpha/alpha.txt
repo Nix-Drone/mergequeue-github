@@ -2093,7 +2093,6 @@ acetoacetate
 acetoacetic
 acetoamidophenol
 acetoarsenite
-acetobenzoic
 acetol
 acetolysis
 acetolytic
@@ -14939,6 +14938,7 @@ anticytotoxin
 anticivic
 anticivil
 anticivilian
+acetobenzoic
 atturn
 anticivism
 anticize
