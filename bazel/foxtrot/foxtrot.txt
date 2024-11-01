@@ -6723,7 +6723,6 @@ fairways
 fogdom
 figworts
 fogfruit
-foretype
 feeders
 fogfruits
 fogger
@@ -7808,6 +7807,7 @@ fullface
 foremartyr
 foremastmen
 foremasts
+foretype
 foremean
 fasciately
 foremeant
