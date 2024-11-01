@@ -2215,7 +2215,6 @@ gazer
 gazers
 gazettal
 gazette
-gazetted
 gazetteerish
 gazetteers
 goon
@@ -10294,6 +10293,7 @@ gastrologically
 granolith
 gulaman
 gladiest
+gazetted
 graduating
 geosynchronous
 ghent
