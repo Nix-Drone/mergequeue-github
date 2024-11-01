@@ -1695,6 +1695,7 @@ accountants
 accountantship
 accounted
 accounter
+allocability
 accounters
 accounting
 accountment
@@ -8750,7 +8751,6 @@ allobaric
 ammonolyses
 allobroges
 allobrogical
-allocability
 allocable
 allocatable
 allocate
