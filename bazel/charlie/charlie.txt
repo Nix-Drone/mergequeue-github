@@ -2700,7 +2700,6 @@ congealer
 canonicalness
 canonicals
 canonics
-canonisation
 canonise
 contermine
 canonised
@@ -18714,6 +18713,7 @@ clytemnestra
 colegatee
 colegislator
 chaver
+canonisation
 colemouse
 colent
 calidity
