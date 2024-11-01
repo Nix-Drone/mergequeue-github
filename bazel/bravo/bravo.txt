@@ -1302,7 +1302,6 @@ balancelle
 balancement
 balancers
 balancing
-balander
 balandrana
 balaneutics
 balangay
@@ -4991,6 +4990,7 @@ beeped
 beepers
 bunt
 boltless
+balander
 beeping
 beeps
 beer
