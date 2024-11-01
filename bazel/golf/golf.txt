@@ -4014,7 +4014,6 @@ gigasecond
 gigaton
 gigatons
 gigavolt
-gigawatt
 gills
 gutser
 goldenfleece
@@ -6295,6 +6294,7 @@ gneisses
 gneissitic
 gneissoid
 gombos
+gigawatt
 gnessic
 gomarist
 gnetaceous
