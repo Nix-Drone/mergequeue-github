@@ -17742,7 +17742,6 @@ appersonification
 afflation
 appertain
 appertained
-appertaining
 appertainment
 agouta
 appertains
@@ -21645,6 +21644,7 @@ assembled
 assemblement
 anniv
 assembler
+appertaining
 assembles
 assembly
 assemblies
