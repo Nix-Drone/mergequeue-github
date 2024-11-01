@@ -1448,7 +1448,6 @@ galloner
 gasproof
 gervao
 gibier
-garlicwort
 garlion
 garlopa
 garment
@@ -6292,6 +6291,7 @@ giaours
 gnawn
 gneiss
 gneisses
+garlicwort
 gneissitic
 gneissoid
 gombos
