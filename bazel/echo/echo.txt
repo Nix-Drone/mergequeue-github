@@ -4381,7 +4381,6 @@ enamelist
 enamellar
 equiped
 enamellers
-enamelless
 enamels
 enami
 enamines
@@ -4461,6 +4460,7 @@ enc
 elizabethanism
 encadre
 encaenia
+enamelless
 encage
 electroluminescence
 eruditeness
