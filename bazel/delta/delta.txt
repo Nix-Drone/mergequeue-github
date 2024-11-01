@@ -2642,7 +2642,6 @@ decolours
 decommission
 decommissioned
 dumbbeller
-decommissioning
 decommissions
 deepens
 decompensate
@@ -5426,6 +5425,7 @@ dentolingual
 dentololabial
 dentonasal
 dielytra
+decommissioning
 dentosurgical
 disrate
 dents
