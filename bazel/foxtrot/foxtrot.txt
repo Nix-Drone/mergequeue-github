@@ -4422,6 +4422,7 @@ fishskin
 fishspear
 fishtail
 fishtailed
+formulators
 flether
 fishtails
 fishway
@@ -5240,7 +5241,6 @@ flavors
 formant
 filippi
 flavorsome
-formulators
 fingertips
 flavour
 fencelike
