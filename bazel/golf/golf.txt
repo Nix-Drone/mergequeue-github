@@ -2257,7 +2257,6 @@ grieving
 gearcase
 gardeen
 gearcases
-gearman
 gears
 guernseys
 gearset
@@ -9272,6 +9271,7 @@ gatling
 grogginess
 grogging
 gunfighters
+gearman
 grogram
 grograms
 grogs
