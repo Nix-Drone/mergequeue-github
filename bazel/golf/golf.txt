@@ -10092,7 +10092,6 @@ guirlande
 gazetteer
 guested
 guesten
-guesthouse
 guesting
 giottesque
 guestmaster
@@ -10327,6 +10326,7 @@ gainsaid
 gulfweed
 gaums
 gulfweeds
+guesthouse
 gulgul
 grufted
 guly
