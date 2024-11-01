@@ -494,6 +494,7 @@ cadelles
 cadenced
 cadences
 cadencies
+commandable
 cadencing
 cadenette
 cadent
@@ -19898,7 +19899,6 @@ comm
 commaes
 ceduous
 command
-commandable
 conveyable
 commandant
 commandatory
