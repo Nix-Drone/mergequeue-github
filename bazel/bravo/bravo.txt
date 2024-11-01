@@ -3122,6 +3122,7 @@ basaree
 basat
 bascinet
 bascology
+boardlike
 basculation
 blindfold
 bascule
@@ -11547,7 +11548,6 @@ boardy
 boardinghouse
 boardings
 boardly
-boardlike
 billhead
 boardroom
 boards
