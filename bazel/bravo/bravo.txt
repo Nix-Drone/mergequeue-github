@@ -6470,7 +6470,6 @@ botanizing
 bilge
 benzoin
 benzoinated
-benzoiodohydrin
 benzol
 benzole
 benzoline
@@ -11795,6 +11794,7 @@ bodiliness
 bodilize
 bodymaking
 bodiment
+benzoiodohydrin
 burnettized
 boding
 bodings
