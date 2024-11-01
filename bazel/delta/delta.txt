@@ -9276,7 +9276,6 @@ decolorant
 dietitian
 dietitians
 dtset
-dietotherapeutics
 dietotherapy
 dietotoxic
 dietrichite
@@ -11645,6 +11644,7 @@ discothque
 discount
 discountable
 depoliticize
+dietotherapeutics
 discountenanced
 discountenancer
 discountenances
