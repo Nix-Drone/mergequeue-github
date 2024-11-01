@@ -677,7 +677,6 @@ bacteriosolvent
 bacteriostasis
 bacteriostat
 bacteriostatically
-bacteriotherapeutic
 bacteriotherapy
 balanophorin
 bacteriotoxic
@@ -16544,6 +16543,7 @@ bubo
 buboes
 bacillary
 bubonalgia
+bacteriotherapeutic
 bubonic
 bluebeard
 bubonidae
