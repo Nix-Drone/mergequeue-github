@@ -11642,7 +11642,6 @@ cholestene
 cholesteremia
 cholesteric
 cholesteryl
-cholesterin
 cholesterinemia
 chappow
 cholesterinic
@@ -23527,6 +23526,7 @@ continents
 contineu
 contingence
 contingency
+cholesterin
 contingencies
 chills
 contingential
