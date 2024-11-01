@@ -8820,7 +8820,6 @@ chapelman
 chapelmaster
 chapelry
 colorate
-chapelries
 chapels
 cardiologies
 chapelward
@@ -31261,6 +31260,7 @@ curbless
 cotonam
 curblike
 curbline
+chapelries
 curbs
 curbside
 curbstone
