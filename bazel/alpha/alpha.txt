@@ -23385,7 +23385,6 @@ augment
 augmentable
 augmentation
 augmentations
-augmentative
 augmentatively
 augmented
 augmentedly
@@ -24977,6 +24976,7 @@ awaste
 awat
 awatch
 aphoristical
+augmentative
 awater
 awave
 awd
