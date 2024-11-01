@@ -10952,7 +10952,6 @@ chiromancy
 chiromancist
 chiromant
 ceramic
-chiromantic
 chiromantical
 chiromantis
 chirometer
@@ -28065,6 +28064,7 @@ craniocele
 craniocerebral
 cranioclasis
 cranioclasm
+chiromantic
 cranioclast
 cranioclasty
 craniofacial
