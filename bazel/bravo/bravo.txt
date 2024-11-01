@@ -3043,7 +3043,6 @@ barstool
 barstools
 bart
 bartend
-bartended
 betrayer
 bartender
 bess
@@ -9612,6 +9611,7 @@ banalize
 bysen
 biseptate
 biserial
+bartended
 biseriate
 biseriately
 bedraggling
