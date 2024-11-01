@@ -2432,7 +2432,6 @@ episcope
 electroendosmosis
 electroengrave
 electroengraving
-electroextraction
 expedient
 electroform
 electroforming
@@ -12815,6 +12814,7 @@ ecchymoses
 exosperm
 expatiater
 explicative
+electroextraction
 exospheric
 exospherical
 encephalomere
