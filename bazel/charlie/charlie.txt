@@ -2253,7 +2253,6 @@ canariote
 canarium
 centers
 canarsee
-canasta
 canastas
 canaster
 canaut
@@ -5706,6 +5705,7 @@ catechization
 catechize
 catechized
 catechizer
+canasta
 catechizes
 catechizing
 catechol
