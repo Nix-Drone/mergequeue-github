@@ -5007,7 +5007,6 @@ aerologies
 aerologist
 aerologists
 antieducationist
-aeromaechanic
 aeromancer
 aeromancy
 aeromechanic
@@ -9224,6 +9223,7 @@ ataxiameter
 alongships
 alongshore
 alongshoreman
+aeromaechanic
 abstemiously
 alongside
 accidental
