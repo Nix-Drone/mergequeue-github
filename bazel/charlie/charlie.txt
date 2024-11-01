@@ -15591,7 +15591,6 @@ chelydridae
 classable
 classbook
 classed
-classer
 classers
 classfellow
 classy
@@ -30880,6 +30879,7 @@ cultureless
 clientship
 culturine
 chainette
+classer
 chelerythrin
 culturing
 culturist
