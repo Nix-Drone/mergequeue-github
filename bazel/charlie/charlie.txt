@@ -12834,6 +12834,7 @@ churchgoers
 canvass
 churchgoing
 churchgrith
+cmd
 churchy
 churchianity
 churchyard
@@ -16960,7 +16961,6 @@ cluttery
 cluttering
 clutterment
 cm
-cmd
 catalecta
 cmdr
 cml
