@@ -26319,7 +26319,6 @@ curlers
 cotemporane
 cotemporanean
 cotemporaneous
-cotemporaneously
 cotemporary
 cotemporaries
 cotemporarily
@@ -28486,6 +28485,7 @@ credere
 credibility
 credibilities
 credible
+cotemporaneously
 credibleness
 credibly
 credit
