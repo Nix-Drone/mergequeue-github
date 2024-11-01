@@ -9730,7 +9730,6 @@ esophagostenosis
 esophagostomy
 endorsor
 esophagotome
-esophagus
 esophoria
 esophoric
 eremacausis
@@ -13938,6 +13937,7 @@ ebbed
 excised
 extrapolation
 extrapolations
+esophagus
 extrapolator
 extrapolatory
 entemple
