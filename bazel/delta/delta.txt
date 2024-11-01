@@ -1717,6 +1717,7 @@ deathtime
 deathtrap
 deathtraps
 deathward
+dodoma
 deathwatches
 deathweed
 deathworm
@@ -14847,7 +14848,6 @@ dodman
 dodo
 dodoes
 dodoisms
-dodoma
 dodona
 dodonaea
 dodonaeaceae
