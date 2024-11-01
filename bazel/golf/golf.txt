@@ -1374,7 +1374,6 @@ gundeck
 gardenin
 gardening
 gardenless
-gardenly
 gardenlike
 grume
 gardenmaking
@@ -4808,6 +4807,7 @@ gyroscopes
 gyroscopics
 gyrose
 gyrostabilized
+gardenly
 gyrostat
 gyrostats
 gyrotheca
