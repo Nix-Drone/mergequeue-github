@@ -6957,7 +6957,6 @@ ancience
 addled
 apostolic
 airspeed
-airspeeds
 airstream
 akinetic
 allegory
@@ -14929,6 +14928,7 @@ authenticating
 anticipation
 anticipations
 anticipative
+airspeeds
 aggregational
 anticipator
 amortisable
