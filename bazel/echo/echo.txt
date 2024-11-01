@@ -3673,7 +3673,6 @@ epithelioglandular
 embryology
 embryologic
 embryological
-embryologically
 eclampsia
 embryologist
 embryologists
@@ -7789,6 +7788,7 @@ epidermization
 epidermoid
 epidermolysis
 exscriptural
+embryologically
 eogaean
 ean
 epidermophyton
