@@ -2606,6 +2606,7 @@ cannery
 cankers
 cannet
 cannetille
+colonizations
 cannibal
 copalchi
 cannibalean
@@ -19284,7 +19285,6 @@ chiromancer
 colonizability
 colonizable
 colonizationist
-colonizations
 colonize
 comminating
 colonized
