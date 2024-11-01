@@ -3163,7 +3163,6 @@ bloodshot
 basename
 barb
 behove
-baseness
 basenesses
 basenji
 basenjis
@@ -11658,6 +11657,7 @@ bobbishly
 bobbysocks
 bobbysoxer
 bobbysoxers
+baseness
 bobble
 bobbles
 bobbling
