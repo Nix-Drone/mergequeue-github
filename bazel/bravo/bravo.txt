@@ -4251,7 +4251,6 @@ beastlings
 beastship
 beat
 beata
-beatable
 beatably
 beatae
 beatas
@@ -9590,6 +9589,7 @@ biscuitry
 biscuitroot
 burnets
 biscuits
+beatable
 biscutate
 bisdiapason
 babbitter
