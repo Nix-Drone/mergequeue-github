@@ -10097,7 +10097,6 @@ deerweed
 dibblers
 didymia
 dingar
-dingbat
 dingbats
 dingdong
 dingdonged
@@ -15335,6 +15334,7 @@ domicilement
 domiciles
 domiciliar
 duodene
+dingbat
 domiciliary
 domiciliate
 domiciliated
