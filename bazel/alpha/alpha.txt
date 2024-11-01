@@ -2926,7 +2926,6 @@ acromicria
 acromimia
 allotype
 acromioclavicular
-acromiocoracoid
 acromyodi
 acromyodic
 acromyodous
@@ -9534,6 +9533,7 @@ altrose
 altruism
 autoionization
 altruisms
+acromiocoracoid
 altruist
 altruists
 altschin
