@@ -2684,7 +2684,6 @@ endomycetaceae
 electrothermometer
 electrothermostatic
 electrothermotic
-electrotype
 electrotyped
 electrotypes
 electrotypy
@@ -10223,6 +10222,7 @@ elkoshite
 esthete
 etheostomoid
 electrophoresed
+electrotype
 ether
 etherate
 etherealisation
