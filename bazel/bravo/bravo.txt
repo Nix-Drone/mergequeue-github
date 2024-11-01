@@ -1569,7 +1569,6 @@ ballastic
 ballasting
 ballat
 ballata
-ballate
 ballaton
 ballatoon
 barkbound
@@ -16909,6 +16908,7 @@ bugle
 bugled
 badmouth
 buglet
+ballate
 bugleweed
 buglewort
 bugling
