@@ -3751,6 +3751,7 @@ ghizite
 glassware
 gildsman
 ghole
+gearless
 ghoom
 geoaesthesia
 glops
@@ -10489,7 +10490,6 @@ gundog
 gastronomic
 gunfights
 gunfires
-gearless
 gung
 gunge
 gunhouse
