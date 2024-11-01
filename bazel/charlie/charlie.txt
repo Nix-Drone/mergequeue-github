@@ -9880,6 +9880,7 @@ crooking
 chemistries
 chemists
 chemitype
+coralla
 chemitypy
 chemitypies
 chemizo
@@ -24853,7 +24854,6 @@ coralflower
 coralist
 coralita
 circumventable
-coralla
 consumptional
 clavodeltoid
 corallian
