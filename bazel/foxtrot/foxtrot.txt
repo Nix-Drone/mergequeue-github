@@ -1103,7 +1103,6 @@ farms
 farmscape
 farmsteads
 farmtown
-farnesol
 farnesols
 fogas
 flinger
@@ -6266,6 +6265,7 @@ fud
 fluffiness
 fluffing
 fluffs
+farnesol
 flugel
 focalized
 fluible
