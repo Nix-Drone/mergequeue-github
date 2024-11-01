@@ -3135,7 +3135,6 @@ capitalness
 capitals
 capitan
 capitana
-capitare
 capitasti
 capitate
 capitated
@@ -29775,6 +29774,7 @@ cropping
 cropplecrown
 crops
 cropshin
+capitare
 cropsick
 cropweed
 casekeeper
