@@ -4597,7 +4597,6 @@ adversaries
 adversarious
 adversative
 adversatively
-adverse
 adversed
 adversely
 adverseness
@@ -12462,6 +12461,7 @@ antireducing
 adaptation
 anelasticity
 anele
+adverse
 anelectric
 anelectrode
 anelectrotonus
