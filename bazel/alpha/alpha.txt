@@ -2604,6 +2604,7 @@ archdissembler
 acomia
 acomous
 aconative
+allegory
 acondylose
 adversity
 acone
@@ -6960,7 +6961,6 @@ airspeed
 airspeeds
 airstream
 akinetic
-allegory
 airstrip
 airstrips
 airt
