@@ -4822,7 +4822,6 @@ flagstick
 falconers
 flagworm
 flay
-feridji
 flayed
 fault
 front
@@ -5792,6 +5791,7 @@ fribblish
 flywinch
 frankable
 flix
+feridji
 fll
 feoffed
 flamingoes
