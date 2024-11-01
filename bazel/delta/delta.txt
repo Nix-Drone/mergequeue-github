@@ -5531,7 +5531,6 @@ deorsum
 deorsumvergence
 deorsumversion
 deorusumduction
-deossify
 deossification
 deota
 dyakisdodecahedron
@@ -9909,6 +9908,7 @@ dulcet
 diminuendoed
 diminuendoes
 diminuendos
+deossify
 degu
 duction
 denticulation
