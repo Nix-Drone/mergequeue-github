@@ -2839,7 +2839,6 @@ barongs
 barony
 bassets
 baronial
-baronies
 baronize
 baronized
 baronnes
@@ -9116,6 +9115,7 @@ biopic
 bioplasm
 bioplasmic
 bioplasms
+baronies
 bioplast
 blader
 bunching
