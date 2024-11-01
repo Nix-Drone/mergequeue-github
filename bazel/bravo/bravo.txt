@@ -8806,7 +8806,6 @@ bimorph
 bimorphs
 bimotor
 bimotored
-bimotors
 bimucronate
 barycentre
 bimuscular
@@ -10759,6 +10758,7 @@ blepharorrhaphy
 blepharosymphysis
 blepharosyndesmitis
 blotching
+bimotors
 blepharosynechia
 blepharospasm
 blepharospath
