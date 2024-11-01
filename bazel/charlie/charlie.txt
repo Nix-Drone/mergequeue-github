@@ -9701,7 +9701,6 @@ chef
 chefdom
 chefdoms
 chefrinia
-chefs
 chego
 columbeia
 caretakes
@@ -17101,6 +17100,7 @@ coaged
 coagency
 coagencies
 coagent
+chefs
 coagents
 coaggregate
 coaggregated
