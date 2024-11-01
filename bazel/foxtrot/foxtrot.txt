@@ -5939,6 +5939,7 @@ featherbedding
 floorcloths
 floored
 flooring
+foaming
 fascistic
 foreclosable
 flummoxes
@@ -6637,7 +6638,6 @@ fathering
 fullness
 fossilizes
 foaminess
-foaming
 foamless
 foamlike
 foams
