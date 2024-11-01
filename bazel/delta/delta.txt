@@ -3518,7 +3518,6 @@ deformability
 disknow
 deformable
 deformalize
-deformation
 deformational
 delete
 deformations
@@ -8861,6 +8860,7 @@ dictyophora
 dichlamydeous
 debatement
 dichlone
+deformation
 discountenancing
 disestablish
 dichloramin
