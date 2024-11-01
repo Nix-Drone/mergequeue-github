@@ -8268,7 +8268,6 @@ byeworker
 byeworkman
 bluejoint
 bifaces
-bifacial
 bifara
 bedress
 bifarious
@@ -10775,6 +10774,7 @@ bless
 blesse
 bedward
 blessed
+bifacial
 boyards
 blessedest
 blessedly
