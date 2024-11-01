@@ -6550,6 +6550,7 @@ bepewed
 bephilter
 bephrase
 big
+beltways
 bepicture
 bepiece
 bellyflaught
@@ -6735,7 +6736,6 @@ bemixes
 berigora
 beryl
 berylate
-beltways
 basepoint
 bitemporal
 beryline
