@@ -501,7 +501,6 @@ galeodidae
 galeoid
 gnapweed
 galeopsis
-glossoncus
 galeorchis
 goner
 geelhout
@@ -4586,6 +4585,7 @@ gypping
 gyppo
 gips
 gyp
+glossoncus
 gyps
 gipseian
 gipser
