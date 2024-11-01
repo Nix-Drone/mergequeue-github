@@ -4862,6 +4862,7 @@ bedstraws
 bedstring
 bedswerver
 bedtick
+bodywise
 bedticks
 bices
 bate
@@ -11807,7 +11808,6 @@ bodysurfer
 bodysurfing
 bodywear
 balas
-bodywise
 bodywork
 bodken
 bodkin
