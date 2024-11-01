@@ -4354,7 +4354,6 @@ fishbolts
 falchions
 fishbowls
 fisheater
-fisheye
 fisheyes
 fisher
 fenian
@@ -6921,6 +6920,7 @@ flatmate
 flotas
 foreignization
 folkmoots
+fisheye
 fauchard
 folkmoter
 formuliser
