@@ -270,7 +270,6 @@ abdominocentesis
 abdominocystic
 abdominogenital
 affiant
-abdominohysterotomy
 abdominoposterior
 abdominoscopy
 agas
@@ -1574,6 +1573,7 @@ acclimatisation
 acclimatise
 acclimatised
 acclimatiser
+abdominohysterotomy
 acclimatising
 algid
 acclimatizable
