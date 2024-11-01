@@ -2212,7 +2212,6 @@ gazellelike
 gazelline
 gazement
 gazer
-gazers
 gazettal
 gazette
 gazetted
@@ -8204,6 +8203,7 @@ graphophone
 graphophonic
 graphoscope
 gulpin
+gazers
 graphostatic
 graphostatical
 garo
