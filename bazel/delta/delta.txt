@@ -2464,6 +2464,7 @@ dateline
 decke
 deckedout
 deckel
+dopebook
 deckels
 decken
 decker
@@ -15652,7 +15653,6 @@ determine
 dopaoxidase
 dopas
 dopatta
-dopebook
 doped
 dopehead
 doper
