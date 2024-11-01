@@ -1015,6 +1015,7 @@ edaphology
 enerve
 edaphon
 edaphosauria
+egg
 edaphosaurid
 edaphosaurus
 edda
@@ -1574,7 +1575,6 @@ enfranchising
 egesting
 egestion
 egestions
-egg
 eggbeater
 ethmoid
 endosternum
