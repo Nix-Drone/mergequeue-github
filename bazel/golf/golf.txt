@@ -7320,6 +7320,7 @@ gossipee
 gossiper
 gossipers
 gossiphood
+gunge
 gatehouses
 gossipy
 gravitationally
@@ -10491,7 +10492,6 @@ gunfights
 gunfires
 gearless
 gung
-gunge
 gunhouse
 gregge
 guniter
