@@ -1707,7 +1707,6 @@ frugivora
 feak
 federate
 fleying
-flocks
 footcandles
 frowny
 feal
@@ -3891,6 +3890,7 @@ finalis
 finalization
 finalize
 finalized
+flocks
 fragmenting
 fourstrand
 foulsome
