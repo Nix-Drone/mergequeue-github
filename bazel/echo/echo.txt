@@ -4180,6 +4180,7 @@ enteromere
 employe
 estado
 employed
+exponency
 employee
 employees
 employer
@@ -13254,7 +13255,6 @@ eloquentness
 embroiderer
 edwardine
 expone
-exponency
 exponent
 exponential
 exponentially
