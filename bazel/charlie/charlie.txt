@@ -19093,7 +19093,6 @@ collocate
 collocated
 collocates
 collocating
-collocation
 collocationable
 collocational
 collocations
@@ -25279,6 +25278,7 @@ cornbird
 chaplainship
 cornbole
 cornbottle
+collocation
 cornbread
 corncake
 causeways
