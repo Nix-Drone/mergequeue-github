@@ -2876,7 +2876,6 @@ genomic
 genoms
 genonema
 gph
-genos
 gerrymandered
 genospecies
 genotype
@@ -4808,6 +4807,7 @@ gyroscopes
 gyroscopics
 gyrose
 gyrostabilized
+genos
 gyrostat
 gyrostats
 gyrotheca
