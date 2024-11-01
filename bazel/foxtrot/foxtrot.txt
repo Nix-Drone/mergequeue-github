@@ -5844,6 +5844,7 @@ flocculable
 fangas
 flocculation
 flocculator
+figurize
 forts
 fencing
 floccule
@@ -8062,7 +8063,6 @@ foresters
 forestership
 fermentatively
 forestful
-figurize
 flisked
 forestine
 fessing
