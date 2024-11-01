@@ -6906,7 +6906,6 @@ airlifts
 airlike
 airline
 airliner
-airliners
 airlines
 airling
 airlock
@@ -14339,6 +14338,7 @@ anthemed
 anthemene
 anthemia
 anisogamy
+airliners
 anthemideae
 antheming
 ablactate
