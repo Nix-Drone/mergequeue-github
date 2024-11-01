@@ -5733,7 +5733,6 @@ deplace
 deplaceable
 deplane
 deplaned
-deplaning
 deplant
 deplantation
 deplasmolysis
@@ -18143,6 +18142,7 @@ derek
 dumpiness
 dependently
 dumpishly
+deplaning
 dumpishness
 dumple
 dandyize
