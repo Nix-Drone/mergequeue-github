@@ -18598,6 +18598,7 @@ conversance
 coypus
 coir
 coirs
+creatureling
 coislander
 coisns
 coistrel
@@ -28450,7 +28451,6 @@ creaturehood
 creatureless
 creaturely
 creatureliness
-creatureling
 creatures
 carapo
 creatureship
