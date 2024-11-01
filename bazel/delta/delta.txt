@@ -470,6 +470,7 @@ daystars
 daystreak
 daytide
 daytime
+dipt
 daytimes
 daiva
 dobbed
@@ -10729,7 +10730,6 @@ dipsosaurus
 dipsosis
 dipstick
 dipsticks
-dipt
 dipter
 dipteraceae
 dipteraceous
