@@ -504,7 +504,6 @@ ecgonine
 emerge
 exarchs
 ecstatica
-equimolecular
 echappe
 echappee
 echar
@@ -2383,6 +2382,7 @@ emplaces
 electrode
 electrodeless
 entremets
+equimolecular
 ergatomorph
 electrodentistry
 electrodepositable
