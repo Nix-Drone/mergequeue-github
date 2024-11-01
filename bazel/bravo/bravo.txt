@@ -6025,6 +6025,7 @@ beman
 bemangle
 bemantle
 bemar
+bordman
 bemask
 blephillia
 bemaster
@@ -12960,7 +12961,6 @@ borderless
 borderlight
 bordermark
 blastoporphyritic
-bordman
 bordrag
 bordrage
 biophysicochemical
