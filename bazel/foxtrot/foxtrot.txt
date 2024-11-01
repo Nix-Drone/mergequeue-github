@@ -3479,7 +3479,6 @@ fightable
 forel
 fighteress
 fanwort
-fighting
 fightingly
 fights
 figitidae
@@ -9518,6 +9517,7 @@ ferntickled
 fratch
 flints
 fratched
+fighting
 fratcher
 fratchety
 frate
