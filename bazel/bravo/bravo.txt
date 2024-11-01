@@ -9398,7 +9398,6 @@ blimpishness
 bromous
 birdhouses
 birdy
-birdyback
 birdieback
 backseat
 birdied
@@ -11579,6 +11578,7 @@ boastive
 boasts
 boatable
 bosket
+birdyback
 boatage
 boatbill
 bacterioscopical
