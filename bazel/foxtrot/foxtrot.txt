@@ -1076,6 +1076,7 @@ farmable
 farmed
 farmer
 farmeress
+featurish
 farmery
 filigraned
 farmeries
@@ -10483,7 +10484,6 @@ frontozygomatic
 frontsman
 frontspieces
 frontstall
-featurish
 fronture
 frontwards
 frontwise
