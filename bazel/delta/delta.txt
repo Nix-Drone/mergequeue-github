@@ -5551,7 +5551,6 @@ deoxidize
 deoxidizer
 dreggy
 deoxidizers
-deoxidizes
 deoxidizing
 deoxygenated
 deoxygenating
@@ -9290,6 +9289,7 @@ drawrod
 dyeweeds
 dermonosology
 diewise
+deoxidizes
 dyewood
 dyewoods
 diezeugmenon
