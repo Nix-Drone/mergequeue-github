@@ -13118,7 +13118,6 @@ expire
 exhaustable
 expired
 embale
-expiree
 expirer
 expirers
 expires
@@ -13429,6 +13428,7 @@ exradius
 exrupeal
 exrx
 exsanguinated
+expiree
 exsanguinating
 evergreenite
 eudaemonic
