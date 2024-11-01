@@ -8725,6 +8725,7 @@ fortify
 fortifications
 fortifier
 florets
+furrower
 fortifiers
 fortifies
 fafnir
@@ -11498,7 +11499,6 @@ furriness
 feudist
 flaccidly
 furrowed
-furrower
 furfurylidene
 fortitudes
 furrowers
