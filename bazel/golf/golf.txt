@@ -5416,7 +5416,6 @@ ganof
 glycerolysis
 glycerophosphoric
 glycerose
-glyceroxide
 glycic
 glycid
 glycide
@@ -5758,6 +5757,7 @@ game
 glomerella
 glomeroporphyritic
 gifting
+glyceroxide
 garrat
 groundedness
 gradative
