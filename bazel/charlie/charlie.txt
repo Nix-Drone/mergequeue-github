@@ -3468,7 +3468,6 @@ capuchins
 capucine
 capulet
 capuli
-capulin
 caput
 caputium
 cornua
@@ -20828,6 +20827,7 @@ compossible
 compost
 composted
 composting
+capulin
 complected
 composts
 composure
