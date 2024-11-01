@@ -7331,6 +7331,7 @@ besugar
 besully
 beswarm
 beswarmed
+booter
 beswarms
 besweatered
 beswim
@@ -12822,7 +12823,6 @@ bootblacks
 bloomingness
 bootees
 barkening
-booter
 blunging
 bootery
 booth
