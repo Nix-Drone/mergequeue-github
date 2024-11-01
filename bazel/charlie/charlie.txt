@@ -6631,7 +6631,6 @@ ceinture
 ceintures
 ceyssatite
 clinked
-ceyx
 ceja
 clovery
 celadon
@@ -25434,6 +25433,7 @@ clong
 cornuto
 cornutos
 cornutus
+ceyx
 cornwall
 cornwallite
 cutdown
