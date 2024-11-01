@@ -3378,7 +3378,6 @@ fieldleft
 fieldman
 fibrillae
 financist
-fascio
 fieldmice
 fieldmouse
 fieldpieces
@@ -9854,6 +9853,7 @@ frenuna
 fraicheur
 frenzied
 fishbone
+fascio
 frenzies
 fulmineous
 freq
