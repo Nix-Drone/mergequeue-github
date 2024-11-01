@@ -5109,7 +5109,6 @@ granita
 glossary
 glamourization
 glamourize
-glamourless
 glamourous
 glance
 glanced
@@ -6335,6 +6334,7 @@ gnostically
 gnosticism
 gnosticity
 gelee
+glamourless
 gnosticize
 globulousness
 gnostology
