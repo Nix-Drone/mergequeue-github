@@ -5727,7 +5727,6 @@ flyspecks
 flyswat
 footlessness
 fundraising
-flyswatter
 flit
 flamens
 ferrocalcite
@@ -6851,6 +6850,7 @@ folia
 foliaceous
 foliaceousness
 foretold
+flyswatter
 foliage
 fakofo
 foliaged
