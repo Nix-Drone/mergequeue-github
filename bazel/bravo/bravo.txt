@@ -12947,7 +12947,6 @@ backpacker
 border
 bordereau
 bowstaff
-bordered
 borderer
 borderers
 bordering
@@ -14620,6 +14619,7 @@ blaver
 brassieres
 bariums
 brassies
+bordered
 brassily
 brassiness
 brassish
