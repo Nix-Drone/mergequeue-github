@@ -20011,7 +20011,6 @@ armors
 armouchiquois
 armour
 armourbearer
-armoured
 armourer
 aplustre
 armouries
@@ -22640,6 +22639,7 @@ athwartwise
 ablating
 arhar
 atikokania
+armoured
 atilt
 atimy
 atimon
