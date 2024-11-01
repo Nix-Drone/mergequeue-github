@@ -1881,7 +1881,6 @@ band
 bandage
 bandaged
 bandager
-bandages
 bandaging
 brakes
 bandagist
@@ -16189,6 +16188,7 @@ billboard
 boolian
 brough
 bekissing
+bandages
 brougham
 broughams
 brought
