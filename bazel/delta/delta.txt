@@ -1995,7 +1995,6 @@ decayedness
 decayers
 diarial
 decaying
-decayless
 demideify
 dextrans
 decays
@@ -16414,6 +16413,7 @@ dowp
 dowress
 dowry
 drabness
+decayless
 dimensionality
 dows
 dowsabels
