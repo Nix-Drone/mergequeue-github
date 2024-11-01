@@ -2712,7 +2712,6 @@ gene
 generall
 generalships
 generalty
-generant
 greige
 generate
 generated
@@ -10577,6 +10576,7 @@ gunshot
 gunslinger
 gunslingers
 gunslinging
+generant
 gunsman
 goujon
 gunsmith
