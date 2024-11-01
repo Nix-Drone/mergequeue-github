@@ -11648,7 +11648,6 @@ chappow
 cholesterinic
 cholesterinuria
 cholesterol
-cholesterolemia
 cholesteroluria
 conepatls
 cholesterosis
@@ -12043,6 +12042,7 @@ chorometry
 chorook
 chorotega
 choroti
+cholesterolemia
 chorous
 chort
 chorten
