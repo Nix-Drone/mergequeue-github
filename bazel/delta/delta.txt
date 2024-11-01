@@ -13558,6 +13558,7 @@ dissevers
 disshadow
 dissheathe
 dissheathed
+drawer
 daddums
 disship
 disshiver
@@ -16821,7 +16822,6 @@ disconsonant
 drawcut
 drawdown
 drawee
-drawer
 drawerful
 declamation
 drawers
