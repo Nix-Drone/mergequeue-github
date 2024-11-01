@@ -5713,6 +5713,7 @@ aftertime
 aftertimes
 apastron
 aftertrial
+apparency
 assortive
 afterturn
 arosaguntacook
@@ -17594,7 +17595,6 @@ appareling
 apparelment
 apparels
 apparence
-apparency
 almucantar
 apparens
 apparent
