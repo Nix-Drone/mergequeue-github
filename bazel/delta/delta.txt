@@ -2664,7 +2664,6 @@ decompose
 decomposed
 delphin
 dimmy
-decomposer
 decomposers
 decomposes
 decomposing
@@ -11864,6 +11863,7 @@ disdiplomatize
 disdodecahedroid
 distinguished
 disdub
+decomposer
 dramm
 deflectometer
 disease
