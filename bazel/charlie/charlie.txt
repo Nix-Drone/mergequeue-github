@@ -20614,7 +20614,6 @@ complainable
 complainant
 complainants
 complained
-complainers
 complaining
 complainingly
 criollo
@@ -30032,6 +30031,7 @@ compeller
 crowbait
 crowbar
 crowbars
+complainers
 crowbell
 crowberry
 crowboot
