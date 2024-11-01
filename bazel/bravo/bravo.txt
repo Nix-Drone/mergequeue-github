@@ -2841,6 +2841,7 @@ bassets
 baronial
 baronies
 baronize
+bebrush
 baronized
 baronnes
 baronries
@@ -4412,7 +4413,6 @@ bebreech
 bluster
 bebrine
 bebrother
-bebrush
 bidactyle
 bemirrorment
 bebusy
