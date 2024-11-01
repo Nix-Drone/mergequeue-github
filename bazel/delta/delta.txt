@@ -3436,6 +3436,7 @@ deflexed
 deflexibility
 deflexible
 deflexing
+delimitize
 deflexion
 deflexionize
 deflexure
@@ -4156,7 +4157,6 @@ delimiter
 delimiters
 delimiting
 displumed
-delimitize
 delimitized
 delimitizing
 delimits
