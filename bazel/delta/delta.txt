@@ -3172,7 +3172,6 @@ default
 duringly
 defaultant
 defaulted
-defaultless
 defaults
 defaulture
 dowie
@@ -9206,6 +9205,7 @@ doctorly
 dyer
 dementis
 dieresis
+defaultless
 dieretic
 dieri
 desightment
