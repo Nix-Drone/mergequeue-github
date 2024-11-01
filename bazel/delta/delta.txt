@@ -2477,6 +2477,7 @@ deckpipe
 decks
 dulls
 deckswabber
+disfigure
 decl
 declaim
 dichorisandra
@@ -12123,7 +12124,6 @@ disfen
 disfiguration
 disfigurative
 decertifying
-disfigure
 disfigured
 defencelessness
 disfigurer
