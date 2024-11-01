@@ -3912,7 +3912,6 @@ carcinoid
 carcinolysin
 carcinological
 carcinologist
-carcinomas
 carcinomata
 carcinomatoid
 carcinomatosis
@@ -21169,6 +21168,7 @@ concentus
 concept
 conceptacle
 conceptaculum
+carcinomas
 conceptible
 conception
 conceptionist
