@@ -5950,7 +5950,6 @@ floorshift
 fawny
 floorshifts
 floorshow
-floorway
 fluidrachm
 floorward
 furniment
@@ -10173,6 +10172,7 @@ friskier
 friskiest
 friskily
 friskin
+floorway
 friskiness
 frisking
 friskingly
