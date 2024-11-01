@@ -2613,6 +2613,7 @@ ferrivorous
 feinschmeckers
 ferryway
 ferroaluminum
+fireable
 foredecree
 ferrocene
 ferrocerium
@@ -4120,7 +4121,6 @@ fiqh
 functionate
 firca
 fyrd
-fireable
 firearm
 firearms
 fireback
