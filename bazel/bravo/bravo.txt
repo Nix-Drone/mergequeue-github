@@ -3369,7 +3369,6 @@ bombline
 banyai
 baskets
 basketware
-basketweaving
 basketwoman
 basketwood
 basketwork
@@ -14606,6 +14605,7 @@ bronzesmith
 brasserie
 brasses
 brakehand
+basketweaving
 biographically
 brassy
 brassica
