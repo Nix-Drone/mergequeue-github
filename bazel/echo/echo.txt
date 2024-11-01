@@ -9535,6 +9535,7 @@ enplanement
 epipodium
 eodiscid
 escarps
+exceedable
 escars
 escarteled
 escartelly
@@ -11903,7 +11904,6 @@ ensure
 excecate
 excecation
 excedent
-exceedable
 elutes
 exceeded
 engineered
