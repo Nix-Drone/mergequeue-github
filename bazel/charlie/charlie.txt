@@ -13505,7 +13505,6 @@ cif
 cig
 cigar
 cigaresque
-cigaret
 cigarets
 cigarette
 cigarettes
@@ -20712,6 +20711,7 @@ compliancy
 compliancies
 consimilarity
 compliant
+cigaret
 compliantly
 complicacy
 complicant
