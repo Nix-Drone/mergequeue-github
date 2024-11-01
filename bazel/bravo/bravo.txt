@@ -3221,7 +3221,6 @@ basic
 browner
 basically
 basicerite
-basichromatic
 basichromatin
 buffi
 basichromatinic
@@ -15448,6 +15447,7 @@ bleaters
 blacklegging
 brined
 brinehouse
+basichromatic
 brineless
 brineman
 briners
