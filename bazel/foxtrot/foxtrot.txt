@@ -4806,7 +4806,6 @@ filiform
 flagrate
 frostbiter
 fibrinuria
-flagroot
 flags
 flagship
 fuss
@@ -6886,6 +6885,7 @@ forejudger
 folioed
 foreporch
 foliolate
+flagroot
 foliole
 finecomb
 folios
