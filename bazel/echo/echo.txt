@@ -2380,7 +2380,6 @@ entrechat
 exanguin
 electrocutions
 emplaces
-electrode
 electrodeless
 entremets
 ergatomorph
@@ -3407,6 +3406,7 @@ embelic
 embelin
 embellished
 extendlessness
+electrode
 embellisher
 embellishers
 eurypteroidea
