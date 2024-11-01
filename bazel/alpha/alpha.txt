@@ -6936,7 +6936,6 @@ airplanes
 airplanist
 acieral
 airplot
-airport
 airports
 airpost
 airposts
@@ -11025,6 +11024,7 @@ amphibiotic
 amphibiotica
 amphibiously
 amphibium
+airport
 amphiblastic
 amphiblastula
 amphiblestritis
