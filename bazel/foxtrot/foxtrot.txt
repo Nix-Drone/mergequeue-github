@@ -1459,6 +1459,7 @@ fatness
 fatnesses
 fylgjur
 fats
+firedamp
 fatshedera
 ferahan
 fatsia
@@ -4176,7 +4177,6 @@ frockless
 feuage
 firecrackers
 farness
-firedamp
 feezing
 firedamps
 firedog
