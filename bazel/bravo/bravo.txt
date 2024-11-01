@@ -8878,7 +8878,6 @@ binman
 binmen
 binna
 binnacle
-binnacles
 bowering
 beflout
 binned
@@ -11653,6 +11652,7 @@ bobbinets
 bobbing
 bobbinite
 bobbins
+binnacles
 bobbinwork
 bobbishly
 bobbysocks
