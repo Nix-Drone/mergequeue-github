@@ -2318,7 +2318,6 @@ electroaffinity
 electroamalgamation
 electroanalytic
 electroanalytical
-encl
 embassade
 electroanesthesia
 electroballistically
@@ -7802,6 +7801,7 @@ epidiascopic
 epididymal
 epididymides
 epididymis
+encl
 engilds
 epididymite
 eeten
