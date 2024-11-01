@@ -5127,7 +5127,6 @@ endocranium
 equiconvex
 endocrin
 ember
-endocrine
 endocrines
 endocrinic
 endocrinism
@@ -6664,6 +6663,7 @@ enterogram
 enterograph
 enterography
 enterohemorrhage
+endocrine
 enterohydrocele
 emanative
 exchangite
