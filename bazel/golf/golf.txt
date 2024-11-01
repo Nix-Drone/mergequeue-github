@@ -7311,7 +7311,6 @@ gossard
 gossep
 geomechanics
 goujay
-gossy
 grills
 gossip
 gossipdom
@@ -10385,6 +10384,7 @@ gulping
 gulpingly
 gulps
 gangrene
+gossy
 gult
 gum
 gumby
