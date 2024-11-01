@@ -4508,7 +4508,6 @@ beclaw
 beclip
 besieged
 becloak
-belchers
 becloaking
 becloaks
 beclog
@@ -13198,6 +13197,7 @@ bossiness
 bossing
 bossisms
 bizarres
+belchers
 bowler
 bosslet
 bossship
