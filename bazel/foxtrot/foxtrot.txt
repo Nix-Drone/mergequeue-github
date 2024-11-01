@@ -2947,7 +2947,6 @@ feuds
 flagonless
 furazane
 formularism
-frustums
 feudum
 feuillage
 foreshows
@@ -10628,6 +10627,7 @@ foreleader
 forethoughtful
 firefanging
 fusht
+frustums
 fructidor
 fructify
 foresighted
