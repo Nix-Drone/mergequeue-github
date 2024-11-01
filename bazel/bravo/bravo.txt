@@ -4953,6 +4953,7 @@ buttonmould
 bristle
 beefsteak
 beefsteaks
+bloomingness
 beeftongue
 beefwood
 beefwoods
@@ -12819,7 +12820,6 @@ bootable
 beachdrops
 bootblack
 bootblacks
-bloomingness
 bootees
 barkening
 booter
