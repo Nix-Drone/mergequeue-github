@@ -1931,7 +1931,6 @@ gate
 gateage
 gatecrasher
 gatecrashers
-gated
 gatefold
 grapefruits
 gatehouse
@@ -6417,6 +6416,7 @@ goave
 gob
 goban
 gobbe
+gated
 glycemic
 giantish
 gobbed
