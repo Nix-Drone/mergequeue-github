@@ -2215,7 +2215,6 @@ gazer
 gazers
 gazettal
 gazette
-gazetted
 gazetteerish
 gazetteers
 goon
@@ -8675,6 +8674,7 @@ greenheart
 greenhornism
 gloomingly
 gentlewoman
+gazetted
 grayed
 greenhouses
 greeny
