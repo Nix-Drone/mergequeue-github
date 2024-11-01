@@ -6148,7 +6148,6 @@ benchmarked
 benchmarks
 benchmen
 bend
-bendable
 benday
 bendayed
 bended
@@ -10474,6 +10473,7 @@ blastula
 butterier
 blastular
 blastulas
+bendable
 blastulation
 blat
 blatancy
