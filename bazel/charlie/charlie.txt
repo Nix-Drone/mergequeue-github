@@ -13643,6 +13643,7 @@ cymatia
 cymation
 cymatium
 cymba
+caseconv
 cymbaeform
 cimbal
 cymbaleer
@@ -19116,7 +19117,6 @@ collogued
 colloguing
 chiropter
 colloid
-caseconv
 cinerins
 colloidal
 colloidality
