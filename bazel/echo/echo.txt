@@ -9535,7 +9535,6 @@ enplanement
 epipodium
 eodiscid
 escarps
-escars
 escarteled
 escartelly
 eschalots
@@ -13214,6 +13213,7 @@ exploitatively
 exploitatory
 exploited
 exploitee
+escars
 exploiter
 exploiting
 enhancive
