@@ -2410,7 +2410,6 @@ confraternities
 candlelighting
 candlelit
 candlemaker
-candlemaking
 candlemas
 candlenut
 candlepins
@@ -20381,6 +20380,7 @@ cistae
 compact
 compactability
 compactable
+candlemaking
 compacted
 compactedly
 compactedness
