@@ -1478,7 +1478,6 @@ deaconries
 deacons
 deaconship
 deactivate
-deactivated
 deactivates
 discontinuing
 dicranoid
@@ -1921,6 +1920,7 @@ debussyan
 debussyanize
 divvies
 debussing
+deactivated
 danger
 duggler
 debut
