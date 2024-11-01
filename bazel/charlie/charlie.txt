@@ -15464,6 +15464,7 @@ claptrap
 chicane
 claptraps
 clapwort
+counteropposite
 culbuter
 claque
 claquer
@@ -26926,7 +26927,6 @@ counteroffensives
 counteroffer
 counteropening
 counteropponent
-counteropposite
 counterorator
 counterorder
 counterorganization
