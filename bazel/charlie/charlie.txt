@@ -1622,7 +1622,6 @@ calotype
 calotypic
 calotypist
 calotte
-calottes
 calp
 calpac
 calpack
@@ -29818,6 +29817,7 @@ countermeasures
 crossbeak
 crossbeam
 crossbeams
+calottes
 crossbelt
 crossbench
 crossbencher
