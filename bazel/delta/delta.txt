@@ -3968,6 +3968,7 @@ delay
 delayable
 demes
 delayer
+downslip
 delayers
 delayful
 delayingly
@@ -16362,7 +16363,6 @@ dochmiac
 downsizes
 drunkelew
 downslide
-downslip
 dy
 downslope
 downsman
