@@ -3077,6 +3077,7 @@ gekko
 geomance
 geoform
 gillnet
+galilei
 geogen
 geogenesis
 gyropilot
@@ -9089,7 +9090,6 @@ grisounite
 grindstones
 gringole
 grinned
-galilei
 grinner
 grinners
 gwantus
