@@ -5113,7 +5113,6 @@ floorwalker
 flavoprotein
 fatigued
 fissionability
-flatly
 flatling
 flatlings
 flatlong
@@ -10066,6 +10065,7 @@ frigolabile
 fadlike
 fashion
 frigor
+flatly
 fylfots
 frigoric
 flacourtia
