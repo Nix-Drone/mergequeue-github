@@ -1690,7 +1690,6 @@ fc
 fchar
 fipenny
 fcomp
-farcin
 fcp
 foehns
 familiar
@@ -7569,6 +7568,7 @@ frighted
 forecastors
 fatbrained
 forechase
+farcin
 forechoice
 forechoir
 faith
