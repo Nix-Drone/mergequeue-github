@@ -3009,6 +3009,7 @@ capcase
 cape
 capeadores
 capel
+crypt
 capelan
 capelans
 capelet
@@ -29179,7 +29180,6 @@ crippling
 cripplingly
 crips
 corectomy
-crypt
 crypta
 cryptaesthesia
 cryptal
