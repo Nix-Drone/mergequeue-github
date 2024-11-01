@@ -1432,7 +1432,6 @@ dazzlingly
 dazzlingness
 db
 dbl
-dbms
 demidolmen
 degenerationist
 dbridement
@@ -13666,6 +13665,7 @@ dissolutions
 dissolutive
 daedalous
 dissolvability
+dbms
 dissolvable
 dissolvableness
 dissolvative
