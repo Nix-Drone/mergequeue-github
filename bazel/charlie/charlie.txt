@@ -2419,7 +2419,6 @@ chemist
 camelion
 candler
 candlerent
-candlers
 candles
 candleshine
 candleshrift
@@ -29521,6 +29520,7 @@ crithidia
 conservatism
 crithomancy
 critic
+candlers
 critical
 criticality
 critically
