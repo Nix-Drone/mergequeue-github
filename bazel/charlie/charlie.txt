@@ -2027,6 +2027,7 @@ campestral
 campestrian
 cordelier
 campfight
+chelophore
 campfires
 campground
 canful
@@ -9811,7 +9812,6 @@ chelonid
 cheloniid
 cheloniidae
 crucialness
-chelophore
 chemakuan
 chemehuevi
 chemesthesis
