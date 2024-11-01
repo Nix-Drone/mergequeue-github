@@ -1911,7 +1911,6 @@ bandeng
 banderlog
 banderma
 banderol
-banderole
 biochemical
 banderoled
 banderoles
@@ -4376,6 +4375,7 @@ beblear
 bebled
 baybush
 bebleed
+banderole
 bebless
 beblister
 beblood
