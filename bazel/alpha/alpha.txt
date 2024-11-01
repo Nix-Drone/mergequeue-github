@@ -3560,6 +3560,7 @@ ammine
 addressable
 addressees
 addresser
+alpestral
 addressers
 addresses
 auxetics
@@ -9267,7 +9268,6 @@ alpenhorns
 alpenstock
 alpenstocker
 alpenstocks
-alpestral
 alpestrine
 autotype
 alpha
