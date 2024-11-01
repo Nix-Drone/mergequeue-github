@@ -279,7 +279,6 @@ generating
 gainer
 gainful
 gym
-gibs
 gainfulness
 gaingiving
 gainyield
@@ -1833,6 +1832,7 @@ gastrologer
 gastrology
 gastrologists
 gastromalacia
+gibs
 garoo
 gastromancy
 gastromenia
