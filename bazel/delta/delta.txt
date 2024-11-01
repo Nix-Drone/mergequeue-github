@@ -5910,7 +5910,6 @@ deprecatively
 doke
 drainages
 deprecator
-deprecatory
 doppia
 deprecatorily
 deprecators
@@ -13739,6 +13738,7 @@ distaste
 distasted
 distasteful
 distastefully
+deprecatory
 defoliated
 distastefulness
 distasting
