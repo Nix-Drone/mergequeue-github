@@ -367,6 +367,7 @@ abevacuation
 attributiveness
 abfarads
 abhenry
+aerometeorograph
 abhenries
 abhenrys
 antigone
@@ -5014,7 +5015,6 @@ aeromechanic
 aeromechanics
 aeromedical
 aeromedicine
-aerometeorograph
 aerometer
 aerometry
 abluted
