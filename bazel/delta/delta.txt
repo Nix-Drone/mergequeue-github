@@ -16160,7 +16160,6 @@ decadarch
 dovehouse
 dovekeys
 dovekies
-dovelet
 dovelike
 dovelikeness
 doveling
@@ -16612,6 +16611,7 @@ disspreading
 dragomans
 dragon
 dragonade
+dovelet
 dactylopius
 denotations
 derelictness
