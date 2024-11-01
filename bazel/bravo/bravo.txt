@@ -536,7 +536,6 @@ backstromite
 backswept
 backswimmer
 backsword
-backswording
 bettergates
 backswordman
 bestness
@@ -15580,6 +15579,7 @@ brit
 britain
 buzzardlike
 britannia
+backswording
 britannic
 biting
 britannically
