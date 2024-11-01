@@ -2182,7 +2182,6 @@ bannut
 banovina
 banquet
 banqueted
-banqueter
 banqueters
 banqueting
 banquets
@@ -4478,6 +4477,7 @@ beckets
 becky
 beckie
 becking
+banqueter
 beckiron
 beckoned
 bearings
