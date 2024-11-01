@@ -3133,7 +3133,6 @@ defaces
 defacing
 defacto
 digressiveness
-defade
 defaillance
 defailment
 defaitisme
@@ -8996,6 +8995,7 @@ dictaen
 dictagraph
 dictamen
 dictamnus
+defade
 dictaphone
 dictaphones
 dictate
