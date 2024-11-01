@@ -5430,7 +5430,6 @@ endrudge
 eltime
 expendable
 endseal
-endshake
 endsheet
 everglade
 execrates
@@ -8814,6 +8813,7 @@ exigence
 equivocatingly
 equivocations
 equivocator
+endshake
 equivocatory
 echolocate
 equivoke
