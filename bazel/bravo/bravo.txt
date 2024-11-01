@@ -2161,7 +2161,6 @@ banner
 bannerer
 banneret
 bannerets
-bannerfish
 beduke
 bannerless
 bannerlike
@@ -6602,6 +6601,7 @@ blackheartedness
 berakah
 berake
 bewelcome
+bannerfish
 bookstack
 beraked
 belittles
