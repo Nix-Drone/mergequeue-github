@@ -4034,6 +4034,7 @@ adjutancies
 adjutant
 adjutants
 adjutantship
+alienability
 anesthetic
 adjutator
 adjute
@@ -8191,7 +8192,6 @@ agammaglobulinemic
 alidads
 alids
 alien
-alienability
 alienabilities
 alienable
 alienage

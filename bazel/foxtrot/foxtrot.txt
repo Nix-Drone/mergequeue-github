@@ -56,7 +56,6 @@ facebow
 facecloth
 firestone
 faced
-foreladies
 faceharden
 faceless
 flecken
@@ -2532,6 +2531,7 @@ forlorner
 fernsick
 fernticle
 feroce
+foreladies
 ferocious
 ferociously
 ferrier
