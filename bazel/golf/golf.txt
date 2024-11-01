@@ -6163,7 +6163,6 @@ glutelins
 glutenin
 glutenous
 glutens
-gluteofemoral
 gluteoinguinal
 glutethimide
 gluteus
@@ -9106,6 +9105,7 @@ grip
 genie
 gripeful
 gnu
+gluteofemoral
 gripey
 gripers
 gripgrass
