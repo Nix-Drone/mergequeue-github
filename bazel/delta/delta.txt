@@ -12967,7 +12967,6 @@ diplomyelia
 dispeller
 dorsimedian
 dispells
-dispels
 decliners
 danegeld
 dispence
@@ -13631,6 +13630,7 @@ dissipations
 dissipative
 dissipator
 dissipators
+dispels
 donates
 danburite
 diatomiferous
