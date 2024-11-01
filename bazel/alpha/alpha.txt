@@ -3332,7 +3332,6 @@ acusector
 atresy
 acustom
 antagonized
-acutance
 acutances
 acutate
 acute
@@ -7814,6 +7813,7 @@ alectrion
 alectryon
 alecup
 alee
+acutance
 alef
 awikiwiki
 alefnull
