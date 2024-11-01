@@ -2548,7 +2548,6 @@ baresarks
 baresma
 binotic
 baresthesia
-baret
 baretta
 barf
 batster
@@ -12730,6 +12729,7 @@ bookworms
 bucketeer
 bookwright
 bool
+baret
 bowline
 boolean
 booleans
