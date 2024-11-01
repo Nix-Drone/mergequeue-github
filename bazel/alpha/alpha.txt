@@ -5692,6 +5692,7 @@ aftersound
 afterspeech
 afterspring
 appetisse
+ascariasis
 afterstorm
 afterstretch
 afterstudy
@@ -20895,7 +20896,6 @@ ascanius
 ascape
 ascared
 aphasias
-ascariasis
 ascaricidal
 ascaricide
 ascarid
