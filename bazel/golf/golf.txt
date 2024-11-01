@@ -2201,7 +2201,6 @@ gandered
 gazangabin
 gaze
 gazebo
-gazeboes
 gazebos
 gazed
 galla
@@ -3670,6 +3669,7 @@ gigas
 ghassanid
 ghast
 ghastfully
+gazeboes
 ghastfulness
 gingersnap
 glazement
