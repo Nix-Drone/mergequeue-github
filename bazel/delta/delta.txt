@@ -1717,6 +1717,7 @@ deathtime
 deathtrap
 deathtraps
 deathward
+disinterring
 deathwatches
 deathweed
 deathworm
@@ -12519,7 +12520,6 @@ disintermediation
 distillation
 disinterment
 disinterred
-disinterring
 disinters
 dispiteously
 disintertwine
