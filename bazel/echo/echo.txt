@@ -1223,7 +1223,6 @@ educand
 educatability
 epicrystalline
 eident
-educatable
 educate
 evitate
 educated
@@ -11365,6 +11364,7 @@ enemylike
 evaporating
 evaporation
 exams
+educatable
 evaporations
 euvrou
 evaporators
