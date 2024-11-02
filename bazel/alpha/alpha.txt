@@ -5633,6 +5633,7 @@ anaerobious
 afterharm
 afterheat
 afterhelp
+archdetective
 afterhend
 afterhope
 afterhours
@@ -18813,7 +18814,6 @@ archdeceiver
 archdefender
 archdepredator
 agenesia
-archdetective
 amputee
 archdioceses
 aftermatter
