@@ -2418,7 +2418,6 @@ gelatin
 gelatinate
 gelatinated
 ganophyllite
-gelatinating
 gelatine
 gelatined
 glucoprotein
@@ -9182,6 +9181,7 @@ grisset
 grist
 gaspiness
 greenlet
+gelatinating
 grister
 gristle
 gauge
