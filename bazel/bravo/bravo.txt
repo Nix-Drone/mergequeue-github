@@ -7906,7 +7906,6 @@ bardee
 bible
 bibles
 bohmite
-biblic
 bipunctal
 biblical
 biblicality
@@ -15102,6 +15101,7 @@ brew
 brewage
 brewages
 bogier
+biblic
 butchering
 brewery
 breweries
