@@ -4941,7 +4941,6 @@ earthstar
 emptional
 endangeitis
 endanger
-endangering
 endangerment
 endangerments
 endangitis
@@ -12403,6 +12402,7 @@ entermise
 exeunt
 exfetation
 economiser
+endangering
 expects
 exfiguration
 exfigure
