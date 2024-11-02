@@ -2611,7 +2611,6 @@ brandies
 bariatrician
 bariatrics
 baric
-barycenter
 bemused
 barycentric
 burmite
@@ -17469,6 +17468,7 @@ bunkie
 bunking
 bunkload
 bunkmates
+barycenter
 bunkoed
 bunn
 bunnell
