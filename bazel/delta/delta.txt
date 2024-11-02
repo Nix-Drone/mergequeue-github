@@ -5824,7 +5824,6 @@ depopulator
 depopulators
 deportability
 deportation
-deportations
 deporte
 deportee
 deportees
@@ -15335,6 +15334,7 @@ domicilement
 domiciles
 domiciliar
 duodene
+deportations
 domiciliary
 domiciliate
 domiciliated
