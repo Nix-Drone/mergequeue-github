@@ -5529,7 +5529,6 @@ flexures
 flyable
 fascicle
 flyback
-flyball
 flybane
 flibbertigibbety
 flybelt
@@ -8430,6 +8429,7 @@ formentation
 former
 formeret
 formerly
+flyball
 formularizing
 formes
 formfeed
