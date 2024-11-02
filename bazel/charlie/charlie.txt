@@ -1044,7 +1044,6 @@ calcimines
 calcimining
 calcification
 calcinable
-choppin
 calcinate
 calcination
 calcinator
@@ -30919,6 +30918,7 @@ calcars
 cumar
 cumara
 cumarin
+choppin
 cerebromedullary
 cumarins
 cumarone
