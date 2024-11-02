@@ -3574,7 +3574,6 @@ addu
 adduce
 adduceable
 adduced
-adducent
 adducer
 adducers
 ancestrally
@@ -23739,6 +23738,7 @@ athyridae
 austrogaea
 airplays
 austromancy
+adducent
 austrophil
 austrophile
 austrophilism
