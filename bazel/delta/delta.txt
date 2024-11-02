@@ -822,6 +822,7 @@ detections
 dangerful
 deodara
 dangerless
+decurve
 dangerous
 dangerously
 deduced
@@ -2908,7 +2909,6 @@ decurtate
 delphian
 decurvation
 decurvature
-decurve
 destinist
 decus
 decussate
