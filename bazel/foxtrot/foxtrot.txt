@@ -4179,7 +4179,6 @@ farness
 firedamp
 feezing
 firedamps
-firedog
 firedragon
 footnotes
 firedrake
@@ -10130,6 +10129,7 @@ fringiness
 frypan
 frypans
 forcers
+firedog
 flameless
 fancifully
 friponerie
