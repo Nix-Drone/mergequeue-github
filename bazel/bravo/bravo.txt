@@ -3640,6 +3640,7 @@ bathkol
 barbar
 bathman
 bathmat
+broilers
 bathmats
 bereaven
 bathmism
@@ -15785,7 +15786,6 @@ broiler
 broilery
 billard
 baldness
-broilers
 broiling
 broilingly
 broils
