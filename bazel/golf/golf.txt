@@ -681,7 +681,6 @@ gnathonize
 gadaea
 geodesy
 galliot
-galliots
 gurnets
 gallipot
 gallipots
@@ -6945,6 +6944,7 @@ globosities
 gymsia
 gonothecal
 geotropy
+galliots
 gonotyl
 gonotype
 gonotome
