@@ -6410,7 +6410,6 @@ goatskin
 goatskins
 goatstone
 goatsucker
-galleylike
 goatweed
 gramma
 goave
@@ -8628,6 +8627,7 @@ greekism
 greekist
 garapata
 garoted
+galleylike
 glyph
 greekize
 greekless
