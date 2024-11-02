@@ -2563,7 +2563,6 @@ deco
 decoagulated
 dorms
 decoagulation
-decoat
 downsinking
 decocainize
 decoct
@@ -6212,6 +6211,7 @@ deriving
 derma
 dermabrasion
 dermal
+decoat
 dermalgia
 dermalith
 dermamycosis
