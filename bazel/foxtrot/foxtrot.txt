@@ -2945,7 +2945,6 @@ feudovassalism
 format
 feuds
 flagonless
-furazane
 formularism
 frustums
 feudum
@@ -9465,6 +9464,7 @@ fiddlestring
 fangotherapy
 fictionalization
 fluidification
+furazane
 fragrances
 frankish
 familia
