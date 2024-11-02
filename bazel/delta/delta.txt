@@ -1898,7 +1898,6 @@ debtee
 debtful
 debtless
 debtor
-debtors
 debugger
 debuggers
 desilverized
@@ -16820,6 +16819,7 @@ drawcard
 disconsonant
 drawcut
 drawdown
+debtors
 drawee
 drawer
 drawerful
