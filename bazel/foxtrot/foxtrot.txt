@@ -5775,7 +5775,6 @@ footrill
 flittermouse
 farmlands
 flitters
-flitty
 flitting
 flivver
 fumariaceous
@@ -10709,6 +10708,7 @@ fruitless
 fruitlessly
 fiberware
 flyeater
+flitty
 fruitlets
 furzes
 fruitlike
