@@ -8226,7 +8226,6 @@ grassfinch
 grapple
 grappled
 grappler
-grapples
 grappling
 grapsidae
 grapsus
@@ -9094,6 +9093,7 @@ grinner
 grinners
 gwantus
 grinning
+grapples
 grinningly
 gravemaster
 grint
