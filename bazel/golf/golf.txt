@@ -4591,7 +4591,6 @@ gipseian
 gipser
 gipsy
 gypsy
-gipsydom
 gypsydoms
 gigsman
 gipsied
@@ -6957,6 +6956,7 @@ graticulate
 goodby
 goodbye
 goodbyes
+gipsydom
 goodenia
 guineas
 gonadectomies
