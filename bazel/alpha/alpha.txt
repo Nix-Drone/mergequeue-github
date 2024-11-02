@@ -13818,7 +13818,6 @@ aralia
 anopheline
 anophoria
 anophthalmia
-anophthalmos
 anophthalmus
 anopia
 antimissile
@@ -22176,6 +22175,7 @@ astragalus
 alluviviums
 astrain
 astrakanite
+anophthalmos
 astral
 astrally
 astrand
