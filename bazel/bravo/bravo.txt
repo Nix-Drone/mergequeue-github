@@ -3130,6 +3130,7 @@ bipropellant
 bascules
 bascunan
 base
+brighten
 baseball
 bojite
 belzebuth
@@ -15365,7 +15366,6 @@ bedgery
 bilharziasis
 bright
 brighteyes
-brighten
 brightening
 brightens
 blennoid
