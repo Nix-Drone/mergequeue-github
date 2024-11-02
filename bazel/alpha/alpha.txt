@@ -3259,7 +3259,6 @@ actualistic
 actuality
 actualities
 actualization
-actualize
 actualizes
 actually
 actualness
@@ -4168,6 +4167,7 @@ admixtures
 admonish
 admonished
 achango
+actualize
 admonisher
 admonishes
 admonishing
