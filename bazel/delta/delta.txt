@@ -1122,7 +1122,6 @@ dashnak
 dashnakist
 dashplate
 dropflower
-dashpot
 dasht
 dashwheel
 dermoossification
@@ -4640,6 +4639,7 @@ demilunes
 disgruntles
 demilustre
 demiman
+dashpot
 demimark
 demimentoniere
 demimetope
