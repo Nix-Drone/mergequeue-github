@@ -1556,6 +1556,7 @@ downcurved
 diazoimide
 dummered
 deafer
+deprecated
 diallist
 debruised
 deafest
@@ -5894,7 +5895,6 @@ dentaries
 depravity
 deprecable
 deutochloride
-deprecated
 demythologise
 deprecatingly
 danes
