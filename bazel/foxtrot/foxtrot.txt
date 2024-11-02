@@ -5869,7 +5869,6 @@ flocklike
 flockmaster
 footway
 florigraphy
-flockowner
 frangent
 funned
 flockwise
@@ -9928,6 +9927,7 @@ fretten
 fretters
 flowoff
 flagellums
+flockowner
 frettier
 fauld
 frettiest
