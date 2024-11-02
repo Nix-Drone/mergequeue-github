@@ -4965,7 +4965,6 @@ flangeless
 flangeway
 flankard
 fountainhead
-flanked
 flanker
 flankers
 falconries
@@ -10632,6 +10631,7 @@ fructidor
 fructify
 foresighted
 foveoles
+flanked
 fructificative
 fructified
 fructifier
