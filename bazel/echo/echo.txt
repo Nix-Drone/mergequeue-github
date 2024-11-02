@@ -5142,6 +5142,7 @@ ecphasis
 embosser
 endocrinopathic
 endocritic
+exhaling
 eruca
 endoderm
 endodermal
@@ -12435,7 +12436,6 @@ exhale
 exhalent
 exhalents
 exhales
-exhaling
 exhaust
 exhausted
 exhaustedly
