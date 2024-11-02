@@ -4908,7 +4908,6 @@ encumbered
 encumberer
 encumberingly
 enrichment
-encumberment
 encumbers
 encumbrance
 electrometeor
@@ -6077,6 +6076,7 @@ endocolitis
 enmesh
 enmeshed
 epicentre
+encumberment
 enmeshing
 enmeshment
 excudit
