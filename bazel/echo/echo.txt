@@ -4583,7 +4583,6 @@ encephalomeningocele
 encephalometric
 encephalomyelitic
 encephalomyelitis
-erucin
 encephalomyelopathy
 encephalomyocarditis
 encephalopathy
@@ -9923,6 +9922,7 @@ estadel
 estadio
 estafa
 estafet
+erucin
 ergotin
 endothys
 exasperatedly
