@@ -3365,6 +3365,7 @@ definers
 denominating
 defines
 definienda
+dyeable
 definiendum
 dippy
 definiens
@@ -9154,7 +9155,6 @@ delaminating
 dye
 desoxycinchonine
 dyeability
-dyeable
 ditriglyph
 dieb
 diebacks
