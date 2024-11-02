@@ -2438,7 +2438,6 @@ decyne
 decinormal
 decipher
 dispenser
-decipherability
 decipherable
 disintegrative
 decipherably
@@ -9754,6 +9753,7 @@ dillydally
 dillydallied
 dermophlebitis
 dillydallier
+decipherability
 dillydallies
 dillier
 dillies
