@@ -17291,7 +17291,6 @@ coastmen
 coasts
 coastside
 coastwaiter
-coastward
 coastwards
 coastwise
 coat
@@ -23989,6 +23988,7 @@ conveyers
 conveying
 conveyorization
 conveyorize
+coastward
 conveyorized
 crenology
 conveyorizer
