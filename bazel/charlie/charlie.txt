@@ -592,6 +592,7 @@ caecum
 caedmonian
 caedmonic
 caelian
+coreless
 caelometer
 caelum
 caelus
@@ -25167,7 +25168,6 @@ corimelaenidae
 corindon
 corynebacteria
 corynebacterial
-coreless
 corynebacterium
 coryneform
 corineus
