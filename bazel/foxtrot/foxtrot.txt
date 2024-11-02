@@ -6450,7 +6450,6 @@ forepoling
 fluorobenzene
 fluoroborate
 fluorocarbon
-fluorochrome
 fluoroform
 flaminian
 fluoroformol
@@ -10439,6 +10438,7 @@ ferthumlungur
 formularize
 frontignan
 fronting
+fluorochrome
 fiddler
 freehandedly
 fatalist
