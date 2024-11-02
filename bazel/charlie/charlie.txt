@@ -5101,6 +5101,7 @@ caseum
 caseweed
 casewood
 caseworker
+chewbark
 caseworkers
 caseworks
 caseworm
@@ -10207,7 +10208,6 @@ chevrotain
 chevvy
 chew
 chewable
-chewbark
 capsa
 chewed
 chewer
