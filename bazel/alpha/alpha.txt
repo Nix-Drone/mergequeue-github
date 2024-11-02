@@ -3663,7 +3663,6 @@ adenocele
 adenochondroma
 adenochondrosarcoma
 adenochrome
-adenocyst
 adenocystoma
 antepectoral
 adenocystomatous
@@ -22618,6 +22617,7 @@ athodyd
 athogen
 athold
 athonite
+adenocyst
 athort
 athrepsia
 athrill
