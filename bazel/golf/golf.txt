@@ -4592,7 +4592,6 @@ gipser
 gipsy
 gypsy
 gipsydom
-gypsydoms
 gigsman
 gipsied
 giantlikeness
@@ -5713,6 +5712,7 @@ gestio
 globulicide
 generality
 globuliform
+gypsydoms
 gossipmonger
 globulimeter
 gurges
