@@ -2472,7 +2472,6 @@ deckhand
 deckhead
 deckhouse
 deckle
-deckman
 deckpipe
 decks
 dulls
@@ -3300,6 +3299,7 @@ decriminalized
 defers
 dressiness
 deme
+deckman
 dispergator
 downtowner
 defervesced
