@@ -5356,7 +5356,6 @@ begrave
 birne
 begrett
 begrim
-begrimed
 begrimer
 begrimes
 bombsight
@@ -5578,6 +5577,7 @@ bekissed
 bekisses
 bekko
 blethering
+begrimed
 beknave
 beknight
 belfather
