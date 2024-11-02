@@ -2757,7 +2757,6 @@ congenialize
 canst
 canstick
 cant
-cantabank
 cantabile
 cantabri
 christianism
@@ -5853,6 +5852,7 @@ catharticalness
 cathartics
 cathartidae
 cathartides
+cantabank
 cathartin
 cathartolinum
 catheads
