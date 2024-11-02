@@ -2511,6 +2511,7 @@ adsignification
 ackee
 ackees
 ackey
+armourbearer
 ackeys
 acker
 argemone
@@ -20010,7 +20011,6 @@ armorproof
 armors
 armouchiquois
 armour
-armourbearer
 armoured
 armourer
 aplustre
