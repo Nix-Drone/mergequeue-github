@@ -17478,7 +17478,6 @@ apostrophic
 apostrophied
 apostrophise
 apostrophised
-apostrophising
 apostrophize
 apostrophizes
 apostrophizing
@@ -19590,6 +19589,7 @@ argots
 argovian
 arguable
 arguably
+apostrophising
 argue
 argued
 attender
