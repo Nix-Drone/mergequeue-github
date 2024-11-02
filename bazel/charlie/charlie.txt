@@ -9227,6 +9227,7 @@ chasseurs
 chassignite
 coachful
 chassis
+cowyard
 chemisorptive
 chastacosta
 chaste
@@ -27593,7 +27594,6 @@ cowhorn
 cowhouse
 cowy
 clockers
-cowyard
 cowichan
 cowier
 cowiest
