@@ -3434,7 +3434,6 @@ deflesh
 deflex
 deflexed
 deflexibility
-deflexible
 deflexing
 deflexion
 deflexionize
@@ -15309,6 +15308,7 @@ draftsperson
 domesticative
 domesticator
 domesticity
+deflexible
 disenactment
 deipotent
 downhearted
