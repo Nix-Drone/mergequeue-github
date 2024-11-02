@@ -6949,7 +6949,6 @@ cenosity
 cenospecies
 custodiam
 cenospecific
-cenotaph
 cenotaphy
 cenotaphies
 cenotaphs
@@ -18126,6 +18125,7 @@ cryochoric
 coevolutionary
 coexecutant
 coexecutor
+cenotaph
 coexecutrices
 canoodle
 coexecutrix
