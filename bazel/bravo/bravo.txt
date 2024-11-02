@@ -3242,7 +3242,6 @@ byelaw
 bedight
 basidigitale
 basidigitalia
-basidiocarp
 basidiolichen
 basidiomycete
 baclava
@@ -3982,6 +3981,7 @@ bazzite
 bbs
 bcd
 bch
+basidiocarp
 bchs
 bd
 bde
