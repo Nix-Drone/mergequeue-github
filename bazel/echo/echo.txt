@@ -1149,7 +1149,6 @@ edile
 exanthematous
 entocranial
 epyllion
-ectocranial
 ediles
 evodia
 edility
@@ -6823,6 +6822,7 @@ entire
 exocytosis
 entirely
 entireness
+ectocranial
 entiris
 entirities
 entitative
