@@ -2473,7 +2473,6 @@ deckhead
 deckhouse
 deckle
 deckman
-deckpipe
 decks
 dulls
 deckswabber
@@ -14166,6 +14165,7 @@ dithionate
 dithionite
 dithionous
 dithyramb
+deckpipe
 dithyrambos
 dithyrambus
 dilli
