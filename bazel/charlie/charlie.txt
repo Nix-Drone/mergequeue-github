@@ -8880,6 +8880,7 @@ chaptrel
 chapwoman
 chaqueta
 char
+components
 conveyability
 chara
 charabanc
@@ -20780,7 +20781,6 @@ componental
 componented
 componential
 componentry
-components
 compony
 comport
 comportable
