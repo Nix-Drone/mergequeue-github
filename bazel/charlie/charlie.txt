@@ -25766,7 +25766,6 @@ corrosibility
 corrosibleness
 corrosional
 corrosionproof
-corrosive
 corrosived
 corrosively
 corrosiveness
@@ -28619,6 +28618,7 @@ crena
 crenae
 clival
 crenallation
+corrosive
 crenate
 crenated
 crenately
