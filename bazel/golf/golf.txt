@@ -2809,7 +2809,6 @@ genin
 gestures
 genio
 genioglossal
-globoids
 genioglossi
 genioglossus
 geniohyoglossal
@@ -6502,6 +6501,7 @@ goes
 glacon
 goetae
 gatter
+globoids
 glitnir
 goethian
 grenadian
