@@ -15865,7 +15865,6 @@ catnapper
 clearsightedness
 clearskins
 clearstarcher
-clearstory
 clearstoried
 clearstories
 clearwater
@@ -30393,6 +30392,7 @@ cascables
 ctenodactyl
 ctenodont
 ctenodus
+clearstory
 ctenoid
 ctenoidean
 curatize
