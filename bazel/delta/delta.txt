@@ -7048,6 +7048,7 @@ destructions
 decidingly
 destructive
 dimanganous
+doc
 destructivity
 destructory
 destructors
@@ -14616,7 +14617,6 @@ deaurate
 devocalization
 dirk
 dobzhansky
-doc
 docent
 darnation
 dioptrically
