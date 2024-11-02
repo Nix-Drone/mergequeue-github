@@ -1838,7 +1838,6 @@ accusatory
 apectomy
 accusatorial
 accusatrix
-accusatrixes
 accuse
 accused
 accuser
@@ -13618,6 +13617,7 @@ annuitants
 aquarists
 annuity
 annuities
+accusatrixes
 annul
 alanyls
 annular
