@@ -1523,7 +1523,6 @@ baryton
 balks
 beggar
 ball
-ballad
 ballade
 balladeer
 balladeers
@@ -4509,6 +4508,7 @@ beclip
 besieged
 becloak
 belchers
+ballad
 becloaking
 becloaks
 beclog
