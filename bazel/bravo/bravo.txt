@@ -6694,7 +6694,6 @@ bergfall
 benefactions
 berggylt
 bibliographical
-burstwort
 bergh
 berghaan
 bergy
@@ -13740,6 +13739,7 @@ bowe
 bibcock
 boweled
 brachycephal
+burstwort
 boweling
 bowelled
 bowelless
