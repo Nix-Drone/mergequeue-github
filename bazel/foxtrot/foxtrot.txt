@@ -2587,7 +2587,6 @@ ferryboats
 familistery
 ferricyanate
 ferrandin
-furiosity
 ferricyanide
 ferrihydrocyanic
 fullering
@@ -9948,6 +9947,7 @@ foretrysail
 friandise
 friar
 fairings
+furiosity
 francophobia
 fremitus
 friary
