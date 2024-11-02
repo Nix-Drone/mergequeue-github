@@ -7281,7 +7281,6 @@ bestraw
 bestreak
 bestream
 blackhander
-bestrew
 bestrewed
 bestrewing
 bestrewment
@@ -10119,6 +10118,7 @@ bassing
 blackfriars
 blackguard
 bos
+bestrew
 blackguardize
 bibbling
 blackguardly
