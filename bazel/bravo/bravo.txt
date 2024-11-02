@@ -2189,6 +2189,7 @@ banquets
 banquette
 bans
 bansalague
+booklore
 bansela
 banshies
 banstickle
@@ -12663,7 +12664,6 @@ booklift
 booklike
 bookling
 booklists
-booklore
 bhavan
 bioecologic
 backtrackers
