@@ -1719,6 +1719,7 @@ deathtraps
 deathward
 deathwatches
 deathweed
+dirtplate
 deathworm
 dowelled
 deave
@@ -10864,7 +10865,6 @@ dirtying
 disentangler
 dirtily
 diplograph
-dirtplate
 dirts
 dudish
 diruption
