@@ -6902,6 +6902,7 @@ forbearances
 flanes
 folkcraft
 folkfree
+fluidification
 folky
 folkish
 forepredicament
@@ -9464,7 +9465,6 @@ frankify
 fiddlestring
 fangotherapy
 fictionalization
-fluidification
 fragrances
 frankish
 familia
