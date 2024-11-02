@@ -1714,6 +1714,7 @@ deathsman
 deathsmen
 depaysee
 deathtime
+deflagrate
 deathtrap
 deathtraps
 deathward
@@ -4449,7 +4450,6 @@ demasculinised
 dognaps
 demasculinising
 demasculinization
-deflagrate
 demasculinized
 demasculinizing
 demast
