@@ -1278,7 +1278,6 @@ calicos
 calycozoa
 calycozoan
 calycozoic
-calycozoon
 calicular
 caliculate
 calyculate
@@ -29144,6 +29143,7 @@ cryophoric
 criophoros
 cryoplankton
 cryoprobe
+calycozoon
 crownband
 cryoscope
 cryoscopy
