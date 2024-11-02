@@ -9558,7 +9558,6 @@ checkpointing
 checkpoints
 commonize
 checkrack
-checkrail
 checkrein
 checkroll
 checkroom
@@ -25695,6 +25694,7 @@ corrido
 corridored
 corridors
 corrie
+checkrail
 corriedale
 corrige
 corrigenda
