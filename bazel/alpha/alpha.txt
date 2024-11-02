@@ -4715,6 +4715,7 @@ aecidiospore
 aecidiostage
 aecidium
 aeciospore
+amidide
 aeciostage
 abr
 aecioteliospore
@@ -10391,7 +10392,6 @@ amide
 amides
 amidic
 amidid
-amidide
 antileft
 amidin
 amidine
