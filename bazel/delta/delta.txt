@@ -1601,6 +1601,7 @@ deallocate
 deallocated
 daunter
 deallocates
+deferrize
 deallocating
 designating
 deresinize
@@ -3293,7 +3294,6 @@ deferrals
 deferred
 deferrer
 deferrers
-deferrize
 deferrized
 deferrizing
 decriminalized
