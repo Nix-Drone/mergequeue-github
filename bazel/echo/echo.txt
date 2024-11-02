@@ -4743,7 +4743,6 @@ encipherments
 epigean
 enciphers
 encircle
-encircled
 effronted
 encircles
 encyrtid
@@ -8311,6 +8310,7 @@ epitapher
 epitaphian
 electrostatics
 epitaphist
+encircled
 epitaphize
 epicotyleal
 epitaphs
