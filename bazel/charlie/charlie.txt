@@ -6656,7 +6656,6 @@ celebesian
 celebrant
 celebrants
 celebrate
-celebrated
 celebratedly
 celebratedness
 celebrater
@@ -22310,6 +22309,7 @@ congregations
 congregative
 congregator
 conciser
+celebrated
 congreso
 congress
 congressed
