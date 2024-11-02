@@ -1974,7 +1974,6 @@ bandmaster
 bandmasters
 bando
 bandobust
-bandog
 bandogs
 bonfire
 bandoleer
@@ -6200,6 +6199,7 @@ benefaction
 benefactive
 benefactor
 benefactors
+bandog
 bhikhari
 benefactress
 benefactresses
