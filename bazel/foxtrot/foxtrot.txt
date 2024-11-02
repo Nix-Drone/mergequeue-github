@@ -3598,7 +3598,6 @@ flagmaking
 filcher
 faventine
 filching
-filchingly
 file
 fileable
 filecard
@@ -10934,6 +10933,7 @@ fulleries
 fullest
 flo
 fictile
+filchingly
 fullgrownness
 fullhearted
 fluming
