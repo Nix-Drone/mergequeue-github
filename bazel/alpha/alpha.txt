@@ -4952,6 +4952,7 @@ aeroelastics
 aporphin
 aerofoil
 aerofoils
+anatomic
 algine
 arisaema
 aerogel
@@ -12051,7 +12052,6 @@ anatole
 anatoly
 anatolian
 acapulco
-anatomic
 anatomical
 anatomicals
 anatomicobiological
