@@ -5900,7 +5900,6 @@ encrinoidea
 enhorror
 enhort
 ectozoic
-encolor
 enhuile
 enhunger
 enhungered
@@ -13922,6 +13921,7 @@ extraperineal
 extraperiodic
 emplacement
 extraperiosteal
+encolor
 endonuclease
 extraperitoneal
 extraphysical
