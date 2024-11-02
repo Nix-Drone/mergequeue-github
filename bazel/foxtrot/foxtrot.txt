@@ -4185,7 +4185,6 @@ footnotes
 firedrake
 firefall
 firefang
-firefanged
 firefangs
 firefighter
 firefighting
@@ -11093,6 +11092,7 @@ fumuli
 fungated
 fascias
 fumulus
+firefanged
 fun
 filles
 fad
