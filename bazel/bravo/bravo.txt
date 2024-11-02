@@ -4827,7 +4827,6 @@ bedrolls
 bedroom
 bedrooms
 bisymmetrically
-bedrop
 bedrown
 bedrowse
 bedrugged
@@ -12877,6 +12876,7 @@ boozer
 bushelage
 boozers
 boozes
+bedrop
 boozy
 boozier
 bulwark
