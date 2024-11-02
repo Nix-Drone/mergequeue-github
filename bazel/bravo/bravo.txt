@@ -12952,7 +12952,6 @@ borderer
 borderers
 bordering
 borderings
-borders
 borderland
 borderlander
 borderlands
@@ -15712,6 +15711,7 @@ broch
 bismuths
 beauism
 brochant
+borders
 brochantite
 broche
 brochettes
