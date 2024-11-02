@@ -2974,6 +2974,7 @@ capabilities
 capable
 capableness
 capabler
+countdowns
 capablest
 capably
 capacify
@@ -26614,7 +26615,6 @@ countable
 countableness
 countdom
 countdown
-countdowns
 counted
 countenance
 countenanced
