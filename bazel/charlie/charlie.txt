@@ -6059,7 +6059,6 @@ cattishness
 cowherd
 cattlebush
 cattlefold
-cattlegate
 cattlehide
 cattleya
 cattleyak
@@ -22631,6 +22630,7 @@ connoting
 connotive
 connotively
 conns
+cattlegate
 connu
 connubial
 connubialism
