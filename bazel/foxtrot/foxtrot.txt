@@ -7573,7 +7573,6 @@ forechoice
 forechoir
 faith
 foregame
-forechoose
 foreclaw
 foreclose
 foreclosed
@@ -8818,6 +8817,7 @@ forwelk
 flugelhorn
 flabelliform
 forwent
+forechoose
 fecundation
 forwhy
 federacies
