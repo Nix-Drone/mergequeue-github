@@ -2408,7 +2408,6 @@ dueling
 decimalist
 decimalization
 dilogarithm
-decimalize
 decimalizes
 decimally
 decimals
@@ -13256,6 +13255,7 @@ disprovable
 disproval
 disprover
 disproves
+decimalize
 disprovide
 depredating
 disproving
