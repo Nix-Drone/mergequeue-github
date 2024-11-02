@@ -861,7 +861,6 @@ fano
 fanon
 fellon
 fanos
-fanout
 fantailed
 fantails
 fantaisie
@@ -9259,6 +9258,7 @@ fractocumulus
 fads
 foundationally
 fabledom
+fanout
 fractonimbus
 fractostratus
 fractur
