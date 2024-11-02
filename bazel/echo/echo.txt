@@ -2263,7 +2263,6 @@ elections
 elective
 ephemerons
 electives
-electivism
 electivity
 electo
 elector
@@ -13833,6 +13832,7 @@ extradomestic
 extrados
 extradosed
 electrogalvanize
+electivism
 electrotyper
 embololalia
 extradoses
