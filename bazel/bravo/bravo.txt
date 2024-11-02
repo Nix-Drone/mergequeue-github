@@ -9602,7 +9602,6 @@ bisection
 bisectional
 bisections
 bisector
-bisectors
 bisectrices
 busybodyness
 bisects
@@ -18058,6 +18057,7 @@ busing
 busings
 busyworks
 busk
+bisectors
 busker
 buskers
 busket
