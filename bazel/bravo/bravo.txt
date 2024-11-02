@@ -4572,7 +4572,6 @@ becrippling
 becroak
 becross
 becrowd
-becrowded
 buttering
 becrown
 bearhide
@@ -10756,6 +10755,7 @@ blepharoplastic
 blepharoplegia
 blepharoptosis
 blepharorrhaphy
+becrowded
 blepharosymphysis
 blepharosyndesmitis
 blotching
