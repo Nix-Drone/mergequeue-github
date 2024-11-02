@@ -4607,7 +4607,6 @@ gypsyfy
 gravelweed
 gipsyhead
 gypsyhead
-gipsyhood
 gradate
 gablelike
 gypsyhood
@@ -8498,6 +8497,7 @@ gravitometer
 graviton
 gravitons
 garb
+gipsyhood
 grabbed
 gravure
 grazable
