@@ -7675,7 +7675,6 @@ alcohols
 ametria
 alcoholuria
 alconde
-alcoothionic
 alcor
 alcoran
 alcoranic
@@ -13589,6 +13588,7 @@ annotation
 avoiding
 annotations
 annotative
+alcoothionic
 annotatively
 annotativeness
 annotator
