@@ -2096,7 +2096,6 @@ acetoarsenite
 acetobenzoic
 acetol
 acetolysis
-acetolytic
 acetometer
 acetometry
 acetometric
@@ -10616,6 +10615,7 @@ arccosine
 aminophylline
 aminopyrine
 aminoplast
+acetolytic
 aminoplastic
 aminopolypeptidase
 aminopropionic
