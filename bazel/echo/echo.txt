@@ -7907,7 +7907,6 @@ epigrammatizer
 epigrammatizing
 epigrams
 epigraph
-epigrapher
 eftest
 epigraphy
 egyptianization
@@ -11323,6 +11322,7 @@ evangelise
 ephedra
 evangelised
 evangelism
+epigrapher
 evangelist
 evangelistary
 evangelistaries
