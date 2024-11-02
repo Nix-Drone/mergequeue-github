@@ -11562,7 +11562,6 @@ boarishness
 boars
 boarship
 boarskin
-boarspear
 boart
 boarts
 boarwood
@@ -16061,6 +16060,7 @@ bronzen
 bronzer
 bronzewing
 bronzify
+boarspear
 bio
 bucerotinae
 bronzine
