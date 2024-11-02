@@ -4636,7 +4636,6 @@ fixings
 fixities
 flannelleaf
 fixt
-fusiformis
 fixtureless
 farming
 fixup
@@ -9906,6 +9905,7 @@ freesp
 freshwoman
 facework
 fresnel
+fusiformis
 foretimes
 fraudless
 fresno
