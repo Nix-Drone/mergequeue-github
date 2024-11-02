@@ -3468,6 +3468,7 @@ capuchins
 capucine
 capulet
 capuli
+categorial
 capulin
 caput
 caputium
@@ -5728,7 +5729,6 @@ categorem
 categorematic
 categorematical
 category
-categorial
 categoric
 chondrified
 categorical
