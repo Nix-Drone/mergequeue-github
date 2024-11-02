@@ -11964,7 +11964,6 @@ daglock
 dissolute
 deities
 disenchantress
-disencharm
 drip
 disenclose
 disencourage
@@ -17388,6 +17387,7 @@ ditchbur
 dropheads
 dropkick
 dropkicker
+disencharm
 descriptives
 dropkicks
 droplet
