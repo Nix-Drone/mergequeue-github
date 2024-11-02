@@ -3859,6 +3859,7 @@ bishopship
 batz
 batzen
 barreler
+bulwarked
 baubee
 baubees
 bethunder
@@ -17260,7 +17261,6 @@ bandores
 bultong
 bultow
 bulwand
-bulwarked
 basotho
 bulwarking
 bulwarks
