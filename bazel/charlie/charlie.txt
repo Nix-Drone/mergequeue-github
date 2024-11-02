@@ -24200,7 +24200,6 @@ convocations
 convocative
 convocator
 convoy
-convoyed
 convoying
 convoys
 convoke
@@ -24613,6 +24612,7 @@ coplanarities
 controvertibly
 copleased
 coplot
+convoyed
 coplotted
 coneen
 coplotter
