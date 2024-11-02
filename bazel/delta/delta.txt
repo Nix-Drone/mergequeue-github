@@ -5209,6 +5209,7 @@ directives
 denitrate
 denitrated
 daemon
+doomsayer
 denitration
 denitrator
 deathly
@@ -15578,7 +15579,6 @@ doomfully
 dooming
 doomlike
 dooms
-doomsayer
 doomsday
 doomsdays
 doomsman
