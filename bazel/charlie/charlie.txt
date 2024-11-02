@@ -19900,7 +19900,6 @@ ceduous
 command
 commandable
 conveyable
-commandant
 commandatory
 commanded
 commandedness
@@ -29691,6 +29690,7 @@ crommel
 codesigned
 confess
 cromorne
+commandant
 cromster
 cromwell
 countermissile
