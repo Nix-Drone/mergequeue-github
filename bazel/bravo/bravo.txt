@@ -1562,7 +1562,6 @@ ballastage
 bulbiform
 blanchi
 balanoglossida
-bouton
 butomus
 ballaster
 ballastic
@@ -15201,6 +15200,7 @@ brickleness
 badderlocks
 budgerigars
 brickly
+bouton
 bricklike
 bricklining
 bobac
