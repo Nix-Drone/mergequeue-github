@@ -4850,7 +4850,6 @@ flake
 foxier
 flaked
 fluoresce
-faintness
 funiculi
 flakeless
 flakelet
@@ -9169,6 +9168,7 @@ foxily
 fissipedia
 farrowed
 feints
+faintness
 foxinesses
 foxing
 fishybacking
