@@ -4413,7 +4413,6 @@ engagee
 enantiomer
 enantiomeric
 enantiomorph
-enantiomorphy
 enantiomorphic
 enantiomorphous
 ensconce
@@ -11945,6 +11944,7 @@ epimenidean
 enthraller
 exception
 exceptionability
+enantiomorphy
 exceptionably
 eyeglass
 exceptional
