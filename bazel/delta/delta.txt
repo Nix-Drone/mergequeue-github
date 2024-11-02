@@ -2580,7 +2580,6 @@ decode
 decoded
 decoders
 decodes
-decoding
 decodon
 decoherence
 dissightly
@@ -12599,6 +12598,7 @@ disleaf
 disleafed
 dagon
 disleafing
+decoding
 disleal
 diffrangibility
 disleave
