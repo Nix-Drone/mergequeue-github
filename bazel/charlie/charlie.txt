@@ -11401,7 +11401,6 @@ chlorpheniramine
 chlorphenol
 chlorpicrin
 chlorpromazine
-chlorpropamide
 chlorprophenpyridamine
 cheerfulsome
 chlorsalol
@@ -18805,6 +18804,7 @@ coling
 colins
 colinus
 colyonic
+chlorpropamide
 coliphage
 colipyelitis
 colyone
