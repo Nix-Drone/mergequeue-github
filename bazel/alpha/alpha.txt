@@ -6974,7 +6974,6 @@ airtimes
 airting
 albronze
 apologiser
-airts
 aln
 airview
 airway
@@ -14914,6 +14913,7 @@ anticyclone
 anticyclones
 anticyclonic
 anticyclonically
+airts
 abrasion
 anticynic
 axisymmetric
