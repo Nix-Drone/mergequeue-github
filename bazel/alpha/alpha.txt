@@ -5639,7 +5639,6 @@ afterhours
 afterimpression
 afterings
 afterking
-afterknowledge
 afterlifetime
 afterlight
 afterlives
@@ -8661,6 +8660,7 @@ alleviatingly
 alleviation
 alleviative
 alleviator
+afterknowledge
 alleviatory
 alleviators
 allgood
