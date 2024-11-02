@@ -11616,7 +11616,6 @@ beigy
 boatmanship
 boatmaster
 boatmen
-blesbok
 boatowner
 boats
 boatshop
@@ -13606,6 +13605,7 @@ bourdon
 bourdons
 bitte
 bant
+blesbok
 bourg
 befoolable
 bourgade
