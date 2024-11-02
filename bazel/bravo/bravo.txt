@@ -1219,6 +1219,7 @@ bakemeats
 baken
 bakeout
 bakeoven
+booleans
 bakepan
 bimillenniums
 baker
@@ -12732,7 +12733,6 @@ bookwright
 bool
 bowline
 boolean
-booleans
 booley
 booleys
 booly
