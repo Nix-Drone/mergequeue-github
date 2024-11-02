@@ -221,6 +221,7 @@ daemons
 daemonurgy
 daemonurgist
 disciplinarianism
+desilvered
 daffadilly
 dorsad
 daffadowndillies
@@ -6694,7 +6695,6 @@ dungbird
 delate
 desilt
 declared
-desilvered
 desilvering
 desilverization
 desilverizer
