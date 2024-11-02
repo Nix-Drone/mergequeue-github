@@ -1098,7 +1098,6 @@ farmland
 farmost
 farmout
 fasteners
-fisc
 farms
 farmscape
 farmsteads
@@ -6284,6 +6283,7 @@ fluidic
 fosslology
 forint
 footstool
+fisc
 fissicostate
 fecit
 fluidified
