@@ -4472,7 +4472,6 @@ fissirostrate
 fissirostres
 fissle
 fissura
-fissuration
 fungite
 finesse
 frawn
@@ -7032,6 +7031,7 @@ fondus
 frustrations
 fluorites
 fone
+fissuration
 fonly
 fonnish
 fermentum
