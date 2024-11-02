@@ -2563,7 +2563,6 @@ coff
 canmaker
 climbs
 canman
-cann
 canna
 cannabic
 cannabidiol
@@ -8337,6 +8336,7 @@ chaldaic
 chaldaical
 chaldaism
 chaldean
+cann
 chiver
 chaldee
 chalder
