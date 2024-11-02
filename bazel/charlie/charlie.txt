@@ -3664,6 +3664,7 @@ carbazylic
 chlorpikrin
 carbazine
 carbazole
+commonize
 carbeen
 carbene
 carberry
@@ -9556,7 +9557,6 @@ checkpoint
 checkpointed
 checkpointing
 checkpoints
-commonize
 checkrack
 checkrail
 checkrein

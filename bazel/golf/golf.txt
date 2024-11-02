@@ -2261,7 +2261,6 @@ gearman
 gears
 guernseys
 gearset
-gearshift
 gearshifts
 gearwheels
 glistening
@@ -9696,6 +9695,7 @@ genips
 genealogize
 goodeniaceous
 grumes
+gearshift
 grumium
 grumly
 guying
