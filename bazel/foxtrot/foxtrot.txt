@@ -4209,7 +4209,6 @@ fragmentize
 firepink
 firepinks
 frat
-fireplace
 fireplaces
 fireplow
 fleeceable
@@ -7175,6 +7174,7 @@ flatcap
 fisherpeople
 faintful
 footholds
+fireplace
 foothot
 fedn
 flippantness
