@@ -10542,7 +10542,6 @@ amyloplast
 amyloplastic
 amyloplastid
 amylopsin
-amylose
 apprenticeship
 amyloses
 amylosynthesis
@@ -22070,6 +22069,7 @@ asthenies
 asthenolith
 apposes
 aphidophagous
+amylose
 asthenology
 asthenope
 asthenophobia
