@@ -7159,7 +7159,6 @@ footers
 footfall
 ferruling
 filoselle
-footfalls
 footfarer
 footfault
 forehandedly
@@ -10465,6 +10464,7 @@ frostweed
 faucal
 frontomallar
 ferngrower
+footfalls
 frontomental
 frequenter
 foutre
