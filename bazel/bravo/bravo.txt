@@ -2963,7 +2963,6 @@ barrelhouse
 barrelhouses
 besmearer
 barreling
-broad
 barrelled
 brattle
 barrelmaker
@@ -5441,6 +5440,7 @@ behaviourist
 behaviours
 bandying
 beheadal
+broad
 beheaded
 beheader
 beanfeaster
