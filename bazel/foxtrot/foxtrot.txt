@@ -1109,7 +1109,6 @@ fogas
 flinger
 farnesses
 faro
-floter
 foredestining
 faroelite
 foremast
@@ -4423,6 +4422,7 @@ fishspear
 fishtail
 fishtailed
 flether
+floter
 fishtails
 fishway
 fishways
