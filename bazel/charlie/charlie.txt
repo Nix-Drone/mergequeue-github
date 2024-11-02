@@ -9581,7 +9581,6 @@ checkup
 checkups
 checkweigher
 checkweighman
-checkweighmen
 checkwork
 checkwriter
 cheddar
@@ -10477,6 +10476,7 @@ child
 childage
 childbearing
 childbed
+checkweighmen
 childbirths
 childcrowing
 childe
