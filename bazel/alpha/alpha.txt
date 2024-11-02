@@ -5948,6 +5948,7 @@ agendas
 agendum
 agendums
 agene
+align
 ataxite
 absolves
 agenes
@@ -8238,7 +8239,6 @@ afterplay
 alighted
 alighting
 alightment
-align
 aligned
 aligners
 aligning
