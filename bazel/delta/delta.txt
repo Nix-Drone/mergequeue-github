@@ -3293,6 +3293,7 @@ deferrals
 deferred
 deferrer
 deferrers
+depurate
 deferrize
 deferrized
 deferrizing
@@ -6029,7 +6030,6 @@ depudorate
 desecrated
 depullulation
 depulse
-depurate
 depurating
 depuration
 depurative
