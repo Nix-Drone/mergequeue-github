@@ -5734,7 +5734,6 @@ deplaceable
 deplane
 deplaned
 deplaning
-deplant
 deplantation
 deplasmolysis
 dictamina
@@ -12792,6 +12791,7 @@ devaluating
 disnatured
 diphthongous
 disnest
+deplant
 disnew
 disniche
 divertissant
