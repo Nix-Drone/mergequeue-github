@@ -1277,6 +1277,7 @@ gaper
 generalizable
 gruis
 gothic
+geosynclinal
 gapeseed
 gapeworm
 gapeworms
@@ -3241,7 +3242,6 @@ gnawable
 geoscopic
 geoselenic
 geosid
-geosynclinal
 geosphere
 geostationary
 grizel
