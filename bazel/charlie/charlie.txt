@@ -21487,7 +21487,6 @@ concrescive
 colocentesis
 concrete
 concreted
-concretely
 concreteness
 concreter
 concretes
@@ -31464,6 +31463,7 @@ currie
 cinnamonwood
 curried
 currier
+concretely
 counterstamp
 curries
 curryfavel
