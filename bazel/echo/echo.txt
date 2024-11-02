@@ -1604,7 +1604,6 @@ elne
 enmarbled
 eggler
 eggless
-empicture
 egglike
 ecotypes
 eggment
@@ -9158,6 +9157,7 @@ erythrocytes
 erythrocytoblast
 erythrocytolysin
 erythrocytolysis
+empicture
 engl
 erythrocytolytic
 eelier
