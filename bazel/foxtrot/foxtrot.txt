@@ -1689,6 +1689,7 @@ fazes
 fc
 fchar
 fipenny
+fluxation
 fcomp
 farcin
 fcp
@@ -6579,7 +6580,6 @@ fluvioterrestrial
 fluvious
 fluviovolcanic
 fondu
-fluxation
 fluxed
 forblack
 formativeness
