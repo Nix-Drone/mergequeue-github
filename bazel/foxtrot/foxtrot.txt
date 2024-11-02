@@ -2230,6 +2230,7 @@ feltyfare
 feltyflier
 felting
 feltings
+foreprovided
 feltmaking
 feltman
 foulard
@@ -7895,7 +7896,6 @@ foreproduct
 foreproffer
 forepromise
 forepromised
-foreprovided
 foreprovision
 forepurpose
 frontways
