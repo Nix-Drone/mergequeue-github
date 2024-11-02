@@ -12981,6 +12981,7 @@ cyanformate
 cyanformic
 cyanhydrate
 chords
+coinheritance
 cyanhydric
 cyanhydrin
 cyanic
@@ -18543,7 +18544,6 @@ coinherence
 coinherent
 coinhering
 cagui
-coinheritance
 coinheritor
 coiny
 coining
