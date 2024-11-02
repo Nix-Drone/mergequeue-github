@@ -5075,7 +5075,6 @@ chaprassi
 caseinogen
 caseins
 caseless
-caselessly
 caseload
 caseloads
 caselty
@@ -21988,6 +21987,7 @@ confirmatory
 cattily
 confirmatorily
 confirmed
+caselessly
 confirmedly
 confirmedness
 confirmer
