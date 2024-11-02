@@ -3975,7 +3975,6 @@ adjoint
 adjoints
 adjournal
 aitkenite
-adjourned
 adjourning
 adjournment
 adjourns
@@ -15934,6 +15933,7 @@ apennines
 antipoetical
 antipoetically
 antipoints
+adjourned
 antipolar
 antipole
 antipolemist
