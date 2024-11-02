@@ -2248,7 +2248,6 @@ electability
 electable
 electant
 electary
-epithet
 enthraldom
 elysee
 electees
@@ -3569,6 +3568,7 @@ emboss
 embossage
 embossed
 eunuch
+epithet
 exponentiations
 embossers
 embossing
