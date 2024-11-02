@@ -3384,6 +3384,7 @@ embars
 embase
 embassadress
 embassy
+extraofficial
 embassiate
 embassies
 embastardize
@@ -13892,7 +13893,6 @@ epixylous
 extraneousness
 extranormal
 extranuclear
-extraofficial
 expertship
 extraoral
 extraorbitally
