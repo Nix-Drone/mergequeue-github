@@ -941,7 +941,6 @@ absentment
 absentminded
 absentmindedly
 absentmindedness
-absentness
 absents
 absfarad
 abshenry
@@ -2863,6 +2862,7 @@ acrocarpi
 alfridaric
 acrocarpous
 acrocentric
+absentness
 assassinator
 acrocephaly
 acrocephalic
