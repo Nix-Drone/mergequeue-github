@@ -634,7 +634,6 @@ bacteriform
 bacterin
 borofluoric
 bacterioagglutinin
-bacterioblast
 bacteriochlorophyll
 bacteriocin
 bishopbird
@@ -11791,6 +11790,7 @@ beribers
 bodykins
 bodiless
 bodyless
+bacterioblast
 bodiliness
 bodilize
 bodymaking
