@@ -2499,7 +2499,6 @@ engines
 echoist
 electromagnetics
 evacuation
-electromagnetism
 electromagnetist
 escalloping
 electromagnets
@@ -3450,6 +3449,7 @@ earshots
 embitter
 embittered
 embitterer
+electromagnetism
 elev
 embitterment
 embitterments
