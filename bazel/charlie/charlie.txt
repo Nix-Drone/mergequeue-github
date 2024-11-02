@@ -6765,7 +6765,6 @@ cellblocks
 celled
 centennium
 cellepora
-cellepore
 cellfalcicula
 celli
 celliferous
@@ -9215,6 +9214,7 @@ chasmophyte
 chasms
 chass
 chasse
+cellepore
 cauliculus
 chassed
 chasseing
