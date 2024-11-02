@@ -3614,6 +3614,7 @@ filemot
 foreknee
 filename
 filenames
+fixative
 filer
 fanons
 filers
@@ -4617,7 +4618,6 @@ fixation
 freakier
 flutings
 footslogs
-fixative
 frecked
 fixator
 fixature
