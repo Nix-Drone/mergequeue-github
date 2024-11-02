@@ -804,7 +804,6 @@ badlands
 bogatyr
 buba
 badly
-badman
 badmash
 badmen
 besodden
@@ -1794,6 +1793,7 @@ baluba
 baluch
 baluchistan
 baluchithere
+badman
 baluchitheria
 balun
 balushai
