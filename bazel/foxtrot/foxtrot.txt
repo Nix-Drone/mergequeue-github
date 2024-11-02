@@ -6640,7 +6640,6 @@ foaminess
 foaming
 foamless
 foamlike
-foams
 fobbing
 flirtier
 frequents
@@ -8119,6 +8118,7 @@ foretells
 forethink
 forethinking
 forethough
+foams
 forethoughtfully
 forethoughtfulness
 frilly
