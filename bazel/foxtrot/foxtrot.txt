@@ -2715,7 +2715,6 @@ fervanite
 frontad
 fervence
 farmplace
-fervency
 fervencies
 fervent
 fervently
@@ -8362,6 +8361,7 @@ forlive
 forloin
 forlore
 forlorn
+fervency
 foredestined
 forlornly
 flotilla
