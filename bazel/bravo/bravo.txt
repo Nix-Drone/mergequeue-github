@@ -14800,6 +14800,7 @@ breadthways
 breadwinner
 brighella
 bedded
+bridgeable
 breadwinning
 break
 breakability
@@ -15267,7 +15268,6 @@ bridewell
 bridewort
 bedimplies
 bridge
-bridgeable
 bridgebote
 bridgebuilder
 bridgebuilding
