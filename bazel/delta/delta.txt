@@ -8868,7 +8868,6 @@ dichloramine
 dichlorhydrin
 dichloride
 dichloroacetic
-dichlorobenzene
 dichlorodifluoromethane
 dichlorodiphenyltrichloroethane
 dichlorohydrin
@@ -14901,6 +14900,7 @@ dogberry
 dogberrydom
 dogberries
 dogberryism
+dichlorobenzene
 dogblow
 dogboat
 dogbody
