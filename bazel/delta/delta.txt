@@ -3601,7 +3601,6 @@ degases
 degasify
 disguise
 definition
-degass
 degassed
 degassing
 degauss
@@ -5429,6 +5428,7 @@ dielytra
 dentosurgical
 disrate
 dents
+degass
 dissipatedness
 diasene
 dentulous
