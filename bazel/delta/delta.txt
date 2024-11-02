@@ -1600,7 +1600,6 @@ dealkylation
 deallocate
 deallocated
 daunter
-deallocates
 deallocating
 designating
 deresinize
@@ -3171,6 +3170,7 @@ demythologizing
 default
 duringly
 defaultant
+deallocates
 defaulted
 defaultless
 defaults
