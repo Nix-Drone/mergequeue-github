@@ -2410,7 +2410,6 @@ fere
 fourchet
 feres
 feretory
-firearmed
 feretories
 fiques
 frontes
@@ -5666,6 +5665,7 @@ flintless
 flintlike
 flintlock
 fellatios
+firearmed
 flintwood
 flintworker
 flyoff
