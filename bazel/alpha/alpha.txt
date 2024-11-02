@@ -4567,6 +4567,7 @@ adventurement
 adventurer
 adventures
 adventureship
+announcement
 adventuresome
 adventuresomely
 adventuresomes
@@ -6847,7 +6848,6 @@ aircrewmen
 aircrews
 aerophone
 airdate
-announcement
 airdates
 airdock
 airdrome
