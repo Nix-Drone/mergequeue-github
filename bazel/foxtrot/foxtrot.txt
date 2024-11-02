@@ -53,7 +53,6 @@ facaded
 faceable
 facebar
 facebow
-facecloth
 firestone
 faced
 foreladies
@@ -11499,6 +11498,7 @@ feudist
 flaccidly
 furrowed
 furrower
+facecloth
 furfurylidene
 fortitudes
 furrowers
