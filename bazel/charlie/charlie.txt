@@ -7857,7 +7857,6 @@ cervicoscapular
 cervicothoracic
 cervicovesical
 cervid
-cervinae
 cervine
 cervisial
 cervix
@@ -14267,6 +14266,7 @@ circumarctic
 circumarticular
 confluence
 circumaviate
+cervinae
 circumaviation
 circumaviator
 circumaxial
