@@ -2179,7 +2179,6 @@ bowlines
 bannockburn
 bannocks
 bannut
-banovina
 banquet
 banqueted
 banqueter
@@ -10801,6 +10800,7 @@ bodikin
 bleu
 blew
 blewits
+banovina
 blick
 blickey
 blickeys
