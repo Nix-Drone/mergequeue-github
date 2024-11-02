@@ -15784,6 +15784,7 @@ claviharp
 clavilux
 coy
 clavipectoral
+circule
 clavis
 clavodeltoideus
 clavolae
@@ -29734,7 +29735,6 @@ continuous
 crookheaded
 crookkneed
 crookle
-circule
 crooklegged
 crooknecked
 crooknecks
