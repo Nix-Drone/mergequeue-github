@@ -4013,7 +4013,6 @@ gigartinales
 gigasecond
 gigaton
 gigatons
-gigavolt
 gigawatt
 gills
 gutser
@@ -9680,6 +9679,7 @@ gruiform
 gruiformes
 gruine
 goldsmithing
+gigavolt
 gruys
 gobi
 grumble
