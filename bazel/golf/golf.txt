@@ -8295,7 +8295,6 @@ geast
 gobos
 grassland
 grasslike
-gasterosteiform
 gadolinite
 grassman
 guiding
@@ -10509,6 +10508,7 @@ grommet
 gunks
 gunlayer
 gunlaying
+gasterosteiform
 gunline
 greenlandite
 gunlock
