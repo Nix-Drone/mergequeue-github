@@ -3912,7 +3912,6 @@ carcinoid
 carcinolysin
 carcinological
 carcinologist
-carcinomas
 carcinomata
 carcinomatoid
 carcinomatosis
@@ -8311,6 +8310,7 @@ chalcites
 chalcocite
 chalcogen
 chalcogenide
+carcinomas
 cheapishly
 coprophagan
 chalcograph
