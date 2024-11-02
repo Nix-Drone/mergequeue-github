@@ -3710,6 +3710,7 @@ agapornis
 adenomyxosarcoma
 adenoncus
 adenoneural
+aeriferous
 adenoneure
 adenopharyngeal
 archosyrinx
@@ -12606,7 +12607,6 @@ aneurism
 aneurysm
 aneurismal
 aneurysmal
-aeriferous
 aneurysmally
 aneurismatic
 aneurysmatic
