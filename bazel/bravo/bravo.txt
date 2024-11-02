@@ -1908,7 +1908,6 @@ banded
 bandelet
 bandelette
 bandeng
-banderlog
 banderma
 banderol
 banderole
@@ -8903,6 +8902,7 @@ binomially
 binomials
 binormal
 binotonous
+banderlog
 binous
 binoxide
 bints
