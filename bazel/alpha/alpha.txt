@@ -1422,7 +1422,6 @@ accelerograph
 accelerometer
 accelerometers
 accend
-accendibility
 accendible
 anticatholic
 accensed
@@ -3383,6 +3382,7 @@ aday
 adays
 adalat
 adam
+accendibility
 adamance
 adamances
 adamancy
