@@ -13189,7 +13189,6 @@ animative
 animato
 androseme
 animator
-animators
 anime
 anteva
 animes
@@ -24481,6 +24480,7 @@ autoxeny
 autoxidation
 autoxidator
 autoxidizability
+animators
 autoxidizable
 autoxidize
 autoxidizer
