@@ -557,6 +557,7 @@ fallace
 feltlike
 foretalk
 fidalgo
+foredoes
 flyability
 fallage
 fallals
@@ -7638,7 +7639,6 @@ foredispose
 foredivine
 figments
 flacherie
-foredoes
 foredoomer
 fgn
 fails
