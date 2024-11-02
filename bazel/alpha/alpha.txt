@@ -17845,7 +17845,6 @@ applications
 applicative
 applicatively
 applicatory
-applicatorily
 applicators
 appliedly
 afterdischarge
@@ -21554,6 +21553,7 @@ assagaiing
 attenuate
 assay
 assayable
+applicatorily
 assayed
 assayer
 assayers
