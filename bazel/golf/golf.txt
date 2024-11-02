@@ -3126,7 +3126,6 @@ geomagnetist
 gravamen
 geomaly
 geomalic
-geomancer
 geomancy
 garnered
 gripes
@@ -5606,6 +5605,7 @@ glirine
 glisk
 garrick
 glissader
+geomancer
 gadean
 glissades
 glissandi
