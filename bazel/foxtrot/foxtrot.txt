@@ -3020,6 +3020,7 @@ ffa
 fgrid
 farrandly
 fy
+freemason
 fiacres
 fiancailles
 fetichry
@@ -9726,7 +9727,6 @@ freeload
 freeloaded
 freemanship
 freemartin
-freemason
 freemasonic
 foredefine
 floriform
