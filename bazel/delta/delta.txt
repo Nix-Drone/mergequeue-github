@@ -2463,6 +2463,7 @@ deck
 dateline
 decke
 deckedout
+dioptroscopy
 deckel
 deckels
 decken
@@ -10308,7 +10309,6 @@ dioptrical
 dioptrics
 deaning
 dioptrometry
-dioptroscopy
 diorama
 dioramas
 driftpiece
