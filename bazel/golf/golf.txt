@@ -2950,7 +2950,6 @@ girasols
 gentleman
 grasped
 gentlemanize
-gentlemanly
 gentlemanlikeness
 gentlemanliness
 gazes
@@ -10368,6 +10367,7 @@ gulls
 glucosidal
 gulonic
 gulose
+gentlemanly
 gulosity
 gulosities
 grein
