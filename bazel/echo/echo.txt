@@ -2379,7 +2379,6 @@ electrocutioner
 entrechat
 exanguin
 electrocutions
-emplaces
 electrode
 electrodeless
 entremets
@@ -6372,6 +6371,7 @@ enserfment
 epodic
 enserfs
 ekamanganese
+emplaces
 ensete
 enshade
 enshawl
