@@ -9981,7 +9981,6 @@ din
 dynactinometer
 dynagraph
 dynam
-dynametric
 dynamic
 dynamically
 dynamicity
@@ -15688,6 +15687,7 @@ dorbeetle
 dorbel
 dorbugs
 defeatist
+dynametric
 dorcastry
 dorcatherium
 dorcopsis
