@@ -1976,6 +1976,7 @@ bando
 bandobust
 bandog
 bandogs
+buzzbomb
 bonfire
 bandoleer
 burlesquely
@@ -15882,7 +15883,6 @@ brominate
 brominated
 bromination
 bromine
-buzzbomb
 bromines
 brominize
 bromins
