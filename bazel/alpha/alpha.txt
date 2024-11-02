@@ -2093,7 +2093,6 @@ acetoacetate
 acetoacetic
 acetoamidophenol
 acetoarsenite
-acetobenzoic
 acetol
 acetolysis
 acetolytic
@@ -25374,6 +25373,7 @@ azoxazole
 azoxy
 azoxybenzene
 azoxime
+acetobenzoic
 azoxynaphthalene
 azoxine
 azoxytoluidine
