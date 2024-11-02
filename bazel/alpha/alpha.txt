@@ -14308,7 +14308,6 @@ antesuperior
 arboretums
 antethem
 antetype
-antetypes
 anteversion
 azofication
 ahypnia
@@ -15909,6 +15908,7 @@ antipyryl
 antipyrin
 antipyrine
 antipyrotic
+antetypes
 antiplague
 antiplanet
 antiplastic
