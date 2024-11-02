@@ -13641,7 +13641,6 @@ annullable
 annullate
 annullation
 annulled
-annuller
 annulling
 annulment
 antrin
@@ -21444,6 +21443,7 @@ asphalted
 asphaltene
 asphalter
 asphaltic
+annuller
 asphaltlike
 asphalts
 amine
