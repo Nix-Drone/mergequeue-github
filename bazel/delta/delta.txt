@@ -4853,7 +4853,6 @@ dishwash
 demoiselles
 demolish
 demolished
-demolisher
 demolishing
 diarrhoea
 demolishment
@@ -5089,6 +5088,7 @@ denature
 denatured
 denaturing
 denaturisation
+demolisher
 denaturise
 denaturised
 duodiode
