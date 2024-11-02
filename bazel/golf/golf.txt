@@ -2242,7 +2242,6 @@ gd
 gdinfo
 gds
 grayfish
-globously
 ge
 gorrel
 geadephaga
@@ -4970,6 +4969,7 @@ graphemes
 glaciarium
 glaciated
 glaciates
+globously
 glaciation
 glaciered
 glacieret
