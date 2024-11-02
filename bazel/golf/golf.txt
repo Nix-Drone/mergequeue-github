@@ -1248,6 +1248,7 @@ genteeler
 gantlines
 gantlopes
 garial
+gripey
 ganton
 gantries
 gantsl
@@ -9106,7 +9107,6 @@ grip
 genie
 gripeful
 gnu
-gripey
 gripers
 gripgrass
 griphite
