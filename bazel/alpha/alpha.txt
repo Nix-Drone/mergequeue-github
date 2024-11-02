@@ -8757,7 +8757,6 @@ allocate
 allocatee
 allocates
 allocating
-allocation
 amyosthenia
 aqueoglacial
 allocator
@@ -22928,6 +22927,7 @@ atta
 attababy
 attabal
 attacapan
+allocation
 attacca
 attacco
 attach
