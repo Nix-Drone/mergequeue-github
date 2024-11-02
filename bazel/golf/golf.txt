@@ -8394,7 +8394,6 @@ gravamem
 gravamina
 gravat
 grave
-graveclod
 griquaite
 galenite
 gravecloth
@@ -10257,6 +10256,7 @@ guipures
 galatians
 guys
 guisard
+graveclod
 gil
 guisarme
 guise
