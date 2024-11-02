@@ -5616,7 +5616,6 @@ belayed
 belayer
 belaying
 belays
-brandishers
 belait
 biface
 belaites
@@ -12943,6 +12942,7 @@ bordel
 banquettes
 bordello
 bordels
+brandishers
 backpacker
 border
 bordereau
