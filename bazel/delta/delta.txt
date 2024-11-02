@@ -9229,6 +9229,7 @@ death
 diestrous
 drawbridge
 diestrual
+drawplate
 diestrum
 diestrums
 diestruses
@@ -16856,7 +16857,6 @@ dissyllabise
 diffidence
 drawoff
 drawout
-drawplate
 drawpoint
 draws
 drawshave
