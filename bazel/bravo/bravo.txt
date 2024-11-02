@@ -1207,6 +1207,7 @@ bake
 burrish
 bakeapple
 bakeboard
+bedstands
 baked
 bakehead
 bakehouse
@@ -9054,7 +9055,6 @@ biologies
 biologism
 biologist
 biologistic
-bedstands
 barguest
 biologists
 biologize
