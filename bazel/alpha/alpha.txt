@@ -11612,7 +11612,6 @@ anaesthetist
 anaesthetization
 anaesthetize
 anaesthetized
-anaesthetizer
 arbalester
 anaetiological
 anagalactic
@@ -20440,6 +20439,7 @@ art
 artabe
 artar
 artarin
+anaesthetizer
 artarine
 artcraft
 arte
