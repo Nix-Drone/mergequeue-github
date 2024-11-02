@@ -20544,7 +20544,6 @@ compendiums
 compends
 compenetration
 compensability
-cutlass
 compensable
 compensates
 compensating
@@ -20807,6 +20806,7 @@ composite
 composited
 compositely
 compositeness
+cutlass
 composites
 compositing
 composition
