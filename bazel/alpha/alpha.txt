@@ -12157,7 +12157,6 @@ anchorable
 anchorage
 anchorages
 anchorate
-anchored
 anchorer
 anchoress
 anchoresses
@@ -22622,6 +22621,7 @@ athort
 athrepsia
 athrill
 antithesism
+anchored
 athrive
 athrocyte
 athrocytosis
