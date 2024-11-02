@@ -15272,7 +15272,6 @@ claimant
 claimants
 claimed
 composograph
-claimer
 consumables
 claimers
 claymore
@@ -16919,6 +16918,7 @@ clunking
 clunks
 clunter
 clupanodonic
+claimer
 clupea
 clupeid
 clupeidae
