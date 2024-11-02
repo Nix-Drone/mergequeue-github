@@ -6940,6 +6940,7 @@ airport
 airports
 airpost
 airposts
+archimandrites
 airproof
 airproofs
 aggrieving
@@ -19001,7 +19002,6 @@ archimage
 avicularimorphae
 archimagus
 archimandrite
-archimandrites
 archimedean
 archimedes
 archimycetes
