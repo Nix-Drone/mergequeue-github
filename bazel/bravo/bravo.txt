@@ -4130,7 +4130,6 @@ beaming
 beamingly
 beamish
 beamishly
-beamless
 beamlet
 beamman
 beamroom
@@ -10563,6 +10562,7 @@ bothriocidaris
 blea
 bleach
 bleachability
+beamless
 bleachable
 bleached
 bleacher
