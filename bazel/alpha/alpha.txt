@@ -4201,7 +4201,6 @@ aerenterectasia
 adnephrine
 adnerval
 adnescent
-armsize
 amberoid
 adneural
 adnex
@@ -11563,6 +11562,7 @@ aristarch
 anaculture
 anacusia
 anacusic
+armsize
 anacusis
 anadenia
 anadesm
