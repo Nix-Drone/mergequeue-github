@@ -4186,7 +4186,6 @@ firedrake
 firefall
 firefang
 firefanged
-firefangs
 firefighter
 firefighting
 foreship
@@ -10274,6 +10273,7 @@ favela
 frizzlier
 frizzliest
 fiddley
+firefangs
 fro
 fortyfive
 ferryage
