@@ -4415,7 +4415,6 @@ fishnets
 fishplate
 feste
 fishpole
-fishpoles
 fishponds
 fishpotter
 fishskin
@@ -6428,6 +6427,7 @@ fluorides
 fluoridisation
 fluoridised
 frasera
+fishpoles
 farmstead
 fluoridization
 fulcral
