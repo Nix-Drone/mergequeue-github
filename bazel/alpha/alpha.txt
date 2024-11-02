@@ -12755,7 +12755,6 @@ angiogeny
 angiogenic
 angioglioma
 angiography
-angiographic
 angiohemophilia
 angiohyalinosis
 angiohypertonia
@@ -13674,6 +13673,7 @@ annus
 anoa
 anoas
 anobiidae
+angiographic
 anobing
 aminoquinoline
 anocathartic
