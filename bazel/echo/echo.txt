@@ -2471,7 +2471,6 @@ electrokinetics
 electroless
 electrolier
 electrolysation
-electrolyse
 everydeal
 elephantlike
 electrolysed
@@ -2621,6 +2620,7 @@ electroscopes
 encheiria
 endpapers
 electroscopic
+electrolyse
 electrosensitive
 electroshock
 electroshocks
