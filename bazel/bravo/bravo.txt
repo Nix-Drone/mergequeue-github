@@ -7707,6 +7707,7 @@ battleground
 bathycurrent
 bewrapt
 bewrathed
+bushboy
 bewreak
 bewreath
 bewreck
@@ -8840,7 +8841,6 @@ bindis
 bindle
 bindles
 bindoree
-bushboy
 binds
 bindweed
 bacillophobia
