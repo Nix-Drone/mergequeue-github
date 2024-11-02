@@ -2689,6 +2689,7 @@ bunglesome
 barkey
 barken
 beknights
+beshouts
 barkentine
 barkentines
 barker
@@ -7001,7 +7002,6 @@ brassed
 beshod
 beshout
 beshouting
-beshouts
 bireme
 boar
 beshow
