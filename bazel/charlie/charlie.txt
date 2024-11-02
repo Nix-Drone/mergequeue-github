@@ -1207,7 +1207,6 @@ calfbound
 calfdozer
 calfish
 calfkill
-calfless
 calflike
 calfling
 calfret
@@ -20951,6 +20950,7 @@ comptly
 comptness
 comptoir
 confederation
+calfless
 comptometer
 comptonite
 comptrol
