@@ -4184,7 +4184,6 @@ employee
 employees
 employer
 exedral
-employers
 employment
 enthymeme
 entastic
@@ -11675,6 +11674,7 @@ ewe
 ewerer
 ewery
 eweries
+employers
 ewes
 ewest
 ewhow
