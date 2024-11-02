@@ -8486,7 +8486,6 @@ edaphic
 eponymies
 eponymist
 eponymous
-eponyms
 eponymus
 epoophoron
 earlesss
@@ -10395,6 +10394,7 @@ ethmoidal
 ethmoiditis
 entomb
 ethmolith
+eponyms
 ethmomaxillary
 ethmonasal
 effacer
