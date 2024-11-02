@@ -406,6 +406,7 @@ backlists
 backlit
 burrer
 biradiated
+biophysics
 backlog
 backlogged
 backlogging
@@ -9104,7 +9105,6 @@ biophysic
 branchstand
 biophysical
 biophysicist
-biophysics
 biophysiography
 biophysiology
 biophysiologist
