@@ -561,7 +561,6 @@ backwall
 bewhite
 backward
 backwardation
-backwardly
 backwardness
 backwards
 bipartible
@@ -10221,6 +10220,7 @@ bladderet
 bladdery
 bladderless
 bladderlike
+backwardly
 burbles
 bastardization
 bladdernut
