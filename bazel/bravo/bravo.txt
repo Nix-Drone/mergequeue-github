@@ -7303,6 +7303,7 @@ bestrow
 bedrugs
 bisons
 bestrowed
+bartered
 binarium
 blanketflower
 bestrowing
@@ -12611,7 +12612,6 @@ boogymen
 boogum
 bourd
 bolshevism
-bartered
 boondoggled
 beginners
 boohooing
