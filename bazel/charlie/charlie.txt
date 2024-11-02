@@ -15516,7 +15516,6 @@ clarinets
 clarinettist
 clarinettists
 clarini
-clarino
 clarinos
 clarion
 clarionet
@@ -29820,6 +29819,7 @@ crossbeam
 crossbeams
 crossbelt
 crossbench
+clarino
 crossbencher
 crossbill
 crossbirth
