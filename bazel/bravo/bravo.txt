@@ -12392,7 +12392,6 @@ bondfolk
 basalia
 bondhold
 bondholder
-bondholders
 bicolor
 bondholding
 bonding
@@ -13629,6 +13628,7 @@ broideress
 bourlaw
 bourne
 bournes
+bondholders
 bourns
 bourock
 bourout
