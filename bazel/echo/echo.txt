@@ -4041,6 +4041,7 @@ empanelment
 empanels
 expressibly
 empannel
+enjambments
 empanoply
 empaper
 emparchment
@@ -5937,7 +5938,6 @@ enjamb
 enjambed
 enjambement
 exemplary
-enjambments
 enjelly
 enjeopard
 encumbrancer
