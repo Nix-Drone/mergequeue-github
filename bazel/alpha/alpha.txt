@@ -5082,7 +5082,6 @@ aerosolization
 aerosolize
 aerosolized
 aerosols
-aerosporin
 aerostat
 aerostatic
 aerostatical
@@ -24122,6 +24121,7 @@ autoimmunizing
 autoincrement
 autoincrements
 autoindex
+aerosporin
 autoindexing
 autoinductive
 autoinfusion
