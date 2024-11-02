@@ -4349,6 +4349,7 @@ fishberry
 fleshers
 fishberries
 fishboat
+fireboxes
 fishbolt
 fishbolts
 falchions
@@ -11458,7 +11459,6 @@ frustrable
 furnishes
 furnishing
 facets
-fireboxes
 furnishings
 fudges
 felup
