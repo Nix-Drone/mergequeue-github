@@ -986,7 +986,6 @@ calcaneonavicular
 calcaneoplantar
 countersale
 calcaneoscaphoid
-calcaneotibial
 calcaneum
 calcannea
 calcannei
@@ -31229,6 +31228,7 @@ curat
 curatage
 curate
 curatel
+calcaneotibial
 curates
 curatess
 curatial
