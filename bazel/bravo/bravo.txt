@@ -12409,7 +12409,6 @@ bondoc
 bondon
 bructeri
 brooders
-bondservant
 bowmaking
 bondship
 bondslave
@@ -17175,6 +17174,7 @@ bullion
 bullionism
 blading
 bullionist
+bondservant
 bullionless
 bullyrag
 bullyragged
