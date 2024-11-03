@@ -2002,7 +2002,6 @@ bandsaw
 bandsawed
 bandsawing
 bandsawn
-bandsman
 bandsmen
 bandspreading
 bandstand
@@ -5710,6 +5709,7 @@ bely
 belial
 belialic
 belibel
+bandsman
 belick
 bacopa
 bunchberry
