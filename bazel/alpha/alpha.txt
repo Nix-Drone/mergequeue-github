@@ -5351,7 +5351,6 @@ affix
 affixable
 affixal
 affixation
-affixed
 affixer
 affixers
 affixes
@@ -19190,6 +19189,7 @@ archt
 archthief
 anagrammatist
 archtyrant
+affixed
 archtraitor
 allophane
 archtreasurer
