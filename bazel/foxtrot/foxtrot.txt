@@ -7280,7 +7280,6 @@ footwarmer
 footwear
 floodmark
 fumiferous
-fabricable
 fuliginous
 firefly
 footweary
@@ -9945,6 +9944,7 @@ fry
 friand
 fub
 foretrysail
+fabricable
 friandise
 friar
 fairings
