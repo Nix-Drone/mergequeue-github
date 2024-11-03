@@ -6850,7 +6850,6 @@ entocnemial
 entocondylar
 entocondyle
 electrums
-entocone
 entoconid
 entocornea
 enwombing
@@ -8756,6 +8755,7 @@ ethnolinguist
 equipt
 equiradial
 echo
+entocone
 equiradical
 equirotal
 escopet
