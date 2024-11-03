@@ -1778,7 +1778,6 @@ gnotobiote
 gastrodynia
 gastrodisk
 gastroduodenitis
-gastroduodenoscopy
 gastroduodenostomy
 gastroduodenotomy
 gastroelytrotomy
@@ -10371,6 +10370,7 @@ gulose
 gulosity
 gulosities
 grein
+gastroduodenoscopy
 gillbird
 gynaecocratic
 gossiping
