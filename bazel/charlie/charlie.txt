@@ -2310,7 +2310,6 @@ cancerophobe
 cancerophobia
 cancerous
 cancerously
-cancerousness
 curare
 cancerroot
 cancerweed
@@ -23033,6 +23032,7 @@ conspecies
 conspecific
 conspecifics
 conspect
+cancerousness
 conspection
 conspectus
 corner
