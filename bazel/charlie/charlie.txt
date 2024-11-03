@@ -3946,7 +3946,6 @@ carded
 cardel
 carder
 carders
-cardholder
 cardia
 cardiac
 cardiacea
@@ -8179,6 +8178,7 @@ chayma
 chain
 chainage
 chainbreak
+cardholder
 conceptions
 chaine
 chained
