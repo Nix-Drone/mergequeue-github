@@ -1098,6 +1098,7 @@ farmland
 farmost
 farmout
 fasteners
+firstlings
 fisc
 farms
 farmscape
@@ -3356,7 +3357,6 @@ fiduciarily
 fiducinales
 fied
 fiedlerite
-firstlings
 fief
 foredeem
 fiefs
