@@ -1794,7 +1794,6 @@ gastroenteroanastomosis
 gastroenterocolitis
 gastroenterocolostomy
 gastroenterology
-gelatination
 gastroenterologic
 gastroenterological
 gastroenterologically
@@ -10072,6 +10071,7 @@ gravigrade
 guesdist
 gamodeme
 guessed
+gelatination
 gunnysacks
 graphics
 grover
