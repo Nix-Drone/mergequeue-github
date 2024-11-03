@@ -2993,7 +2993,6 @@ fillmass
 feverously
 feverroot
 fevertwig
-fevertwitch
 feverwort
 few
 fewest
@@ -7140,6 +7139,7 @@ footboy
 frenzy
 foramina
 ferules
+fevertwitch
 footboys
 footbreadth
 footbridge
