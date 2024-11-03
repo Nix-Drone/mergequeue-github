@@ -11863,7 +11863,6 @@ chops
 chopstick
 chopsticks
 chopunnish
-chora
 choragi
 choragic
 choragion
@@ -31535,6 +31534,7 @@ curtained
 curtainless
 curtains
 curtainwise
+chora
 curtays
 curtal
 curtalax
