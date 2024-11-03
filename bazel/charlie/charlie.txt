@@ -6261,7 +6261,6 @@ causers
 causes
 causeur
 coati
-causeuse
 causeuses
 cajaput
 causeway
@@ -31531,6 +31530,7 @@ curtailments
 curtails
 curtain
 cowlicks
+causeuse
 curtained
 curtainless
 curtains
