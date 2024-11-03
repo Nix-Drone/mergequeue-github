@@ -6653,7 +6653,6 @@ focaloid
 fixtures
 focimeter
 focimetry
-fockle
 focoids
 focsle
 focus
@@ -8311,6 +8310,7 @@ forjudges
 forjudging
 foiler
 forjudgment
+fockle
 fork
 forkbeard
 forked
