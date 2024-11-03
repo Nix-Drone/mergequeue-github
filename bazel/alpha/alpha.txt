@@ -5009,7 +5009,6 @@ aerologists
 antieducationist
 aeromaechanic
 aeromancer
-aeromancy
 aeromechanic
 aeromechanics
 aeromedical
@@ -19056,6 +19055,7 @@ architectures
 architecturesque
 architecure
 audibertia
+aeromancy
 alang
 architypographer
 architraval
