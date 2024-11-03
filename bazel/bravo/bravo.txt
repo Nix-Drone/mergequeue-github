@@ -5391,6 +5391,7 @@ beguilement
 beguilements
 beguiler
 bottlelike
+buyer
 beguilers
 beguiles
 breakdown
@@ -17753,7 +17754,6 @@ bratchet
 bimetallists
 burling
 burlington
-buyer
 burman
 burmannia
 brenthis
