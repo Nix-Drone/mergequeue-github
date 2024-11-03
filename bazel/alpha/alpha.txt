@@ -5603,7 +5603,6 @@ afterdeck
 afterdrain
 aftereffect
 aftereffects
-aftereye
 afterfall
 afterfame
 afterfeed
@@ -20768,6 +20767,7 @@ artistries
 artists
 artize
 artless
+aftereye
 artlessly
 artlessness
 artlet
