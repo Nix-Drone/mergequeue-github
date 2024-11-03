@@ -4138,7 +4138,6 @@ admissibly
 admission
 admissions
 admissive
-automaton
 admissively
 alibi
 antiperistasis
@@ -5086,6 +5085,7 @@ aerosporin
 aerostat
 aerostatic
 aerostatical
+automaton
 aerostatics
 amalett
 antisepticist
