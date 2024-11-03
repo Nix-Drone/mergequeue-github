@@ -4215,7 +4215,6 @@ fireplow
 fleeceable
 fireplug
 frieze
-fireplugs
 firepot
 fireproofed
 fireproofing
@@ -10757,6 +10756,7 @@ frumpling
 fermentability
 frumps
 frundel
+fireplugs
 frush
 flakers
 frusla
