@@ -3009,7 +3009,6 @@ capcase
 cape
 capeadores
 capel
-capelan
 capelans
 capelet
 capelin
@@ -28324,6 +28323,7 @@ crazy
 crazycat
 crazier
 craziest
+capelan
 crazily
 craziness
 crazing
