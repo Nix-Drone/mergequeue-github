@@ -1013,6 +1013,7 @@ edam
 edana
 edaphology
 enerve
+ensnarer
 edaphon
 edaphosauria
 edaphosaurid
@@ -6447,7 +6448,6 @@ ensnare
 ensnared
 explosive
 ensnarement
-ensnarer
 ensnarers
 ensnares
 evangelistic
