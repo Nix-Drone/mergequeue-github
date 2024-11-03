@@ -1925,7 +1925,6 @@ bandgap
 bandh
 brownism
 bandhava
-bandhook
 borer
 bandhu
 begulfing
@@ -11779,6 +11778,7 @@ bodicemaker
 bum
 bodicemaking
 bodices
+bandhook
 bodycheck
 bodied
 bodier
