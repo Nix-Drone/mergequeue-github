@@ -2726,7 +2726,6 @@ deconventionalize
 deconvolution
 deconvolve
 decopperization
-decopperize
 decor
 decorability
 decorable
@@ -12757,6 +12756,7 @@ dismettled
 disminion
 dismiss
 dismissable
+decopperize
 dismissal
 dismissals
 dismissed
