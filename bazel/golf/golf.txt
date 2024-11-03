@@ -2651,7 +2651,6 @@ gender
 genderer
 genders
 ghoulie
-geneal
 genealogic
 genealogical
 genealogists
@@ -8196,6 +8195,7 @@ genethliac
 graphomaniacal
 grammarians
 graphometric
+geneal
 graphometrist
 graphomotor
 gymnastically
