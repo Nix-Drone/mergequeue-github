@@ -9392,7 +9392,6 @@ franchisee
 franchisees
 franchisement
 franchisers
-franchises
 frivoling
 fireworms
 foragers
@@ -11736,6 +11735,7 @@ fuzed
 fuzees
 fuzes
 fuzil
+franchises
 facingly
 ferfathmur
 fuzils
