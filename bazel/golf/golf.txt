@@ -1144,6 +1144,7 @@ ganglioid
 ganglioma
 grav
 gangliomas
+gconvert
 gangliomata
 ganglionate
 grayness
@@ -5696,7 +5697,6 @@ globs
 grumps
 globular
 glossolabial
-gconvert
 ganch
 genuflector
 globularia
