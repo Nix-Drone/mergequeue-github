@@ -5253,6 +5253,7 @@ beget
 begettal
 begetter
 begetters
+bokadam
 broth
 beggardom
 beggared
@@ -12050,7 +12051,6 @@ boites
 boithrin
 boyuna
 bojo
-bokadam
 bokard
 bokark
 boke
