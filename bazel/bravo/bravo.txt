@@ -2110,7 +2110,6 @@ bankings
 bankman
 banality
 bankmen
-banknote
 barrelet
 badaud
 banknotes
@@ -10614,6 +10613,7 @@ bleater
 bleaty
 bleating
 bonce
+banknote
 bleats
 bleaunt
 botulismus
