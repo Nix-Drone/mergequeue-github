@@ -4033,7 +4033,6 @@ beachmaster
 beachside
 biosynthesis
 beachward
-beachwear
 beacon
 beaconage
 berchta
@@ -10105,6 +10104,7 @@ blackfellow
 blackfellows
 blackfigured
 blackfins
+beachwear
 blackfire
 blackfish
 bas
