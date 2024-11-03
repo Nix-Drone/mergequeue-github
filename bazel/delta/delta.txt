@@ -2803,6 +2803,7 @@ decrees
 decreet
 dop
 decrement
+degamis
 decremental
 decrementing
 decrements
@@ -3594,7 +3595,6 @@ degage
 dilatations
 degame
 degames
-degamis
 deganglionate
 degas
 degases
