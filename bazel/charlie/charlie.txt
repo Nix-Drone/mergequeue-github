@@ -9560,6 +9560,7 @@ commonize
 checkrack
 checkrail
 checkrein
+correllations
 checkroll
 checkroom
 compathy
@@ -25668,7 +25669,6 @@ correlativity
 correligionist
 correllated
 correllation
-correllations
 corrente
 correo
 correption
