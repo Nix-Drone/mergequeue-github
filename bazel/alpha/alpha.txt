@@ -596,7 +596,6 @@ abnegates
 abnegating
 alliancing
 abnegation
-abnegative
 abnegator
 alit
 abnegators
@@ -15308,6 +15307,7 @@ agree
 antigenic
 antigenically
 antigigmanic
+abnegative
 antigyrous
 antiglyoxalase
 auteciously
