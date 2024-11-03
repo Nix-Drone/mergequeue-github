@@ -7317,7 +7317,6 @@ gossip
 gossipdom
 gossiped
 gossipee
-gossiper
 gossipers
 gossiphood
 gatehouses
@@ -8917,6 +8916,7 @@ griddled
 genderless
 griddling
 groundling
+gossiper
 gride
 gryde
 germanophobe
