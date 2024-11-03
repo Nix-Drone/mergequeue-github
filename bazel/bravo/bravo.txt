@@ -1154,7 +1154,6 @@ bairnwort
 bais
 baisemain
 boardable
-baysmelt
 bridesmaids
 baister
 barrenest
@@ -6141,6 +6140,7 @@ benchy
 benchland
 benchless
 benchlet
+baysmelt
 benchman
 benchmar
 benchmark
