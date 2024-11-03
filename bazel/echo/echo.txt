@@ -7514,7 +7514,6 @@ ephemerid
 ephemerida
 ephemeridae
 ephemerides
-ephemeris
 ephemeromorph
 ephemeromorphic
 ephemeron
@@ -10692,6 +10691,7 @@ eroticism
 eucryphiaceous
 enterpriseless
 eucryptite
+ephemeris
 eucrystalline
 eucrite
 embuia
