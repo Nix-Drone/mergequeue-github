@@ -712,7 +712,6 @@ bactris
 bodeful
 bactrites
 bactriticone
-bactritoid
 bacubert
 blairmorite
 bacula
@@ -12271,6 +12270,7 @@ bombast
 bombaster
 bombastic
 biophor
+bactritoid
 bonds
 battering
 baniwa
