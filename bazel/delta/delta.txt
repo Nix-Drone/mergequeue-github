@@ -6072,7 +6072,6 @@ dungeonlike
 deputizes
 deputizing
 dequantitate
-dequeue
 dequeues
 dequeuing
 dropshots
@@ -8154,6 +8153,7 @@ diadelphous
 diadema
 diademed
 dreg
+dequeue
 duppies
 diademing
 diaderm
