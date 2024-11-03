@@ -5674,7 +5674,6 @@ catchweight
 catchword
 catchwork
 catclaw
-catdom
 cate
 catechesis
 catechetic
@@ -17901,6 +17900,7 @@ coelevate
 coelho
 coelialgia
 coelicolae
+catdom
 conversus
 coeligenous
 coelin
