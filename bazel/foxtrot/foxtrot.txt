@@ -3969,6 +3969,7 @@ fingerberry
 fingerboard
 fingerboards
 fingerbreadth
+flywinch
 fingered
 fingerer
 fingerers
@@ -5789,7 +5790,6 @@ flyweight
 flyweights
 forthon
 fribblish
-flywinch
 frankable
 flix
 fll
