@@ -6158,6 +6158,7 @@ byte
 bendees
 buyout
 bendell
+blackouts
 bender
 benders
 behusband
@@ -17463,7 +17464,6 @@ bunkered
 borzicactus
 biometer
 bunkering
-blackouts
 bunkers
 bunkie
 bunking
