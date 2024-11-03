@@ -634,6 +634,7 @@ bacteriform
 bacterin
 borofluoric
 bacterioagglutinin
+bluecup
 bacterioblast
 bacteriochlorophyll
 bacteriocin
@@ -11336,7 +11337,6 @@ build
 bluecoat
 bluecoated
 bluecoats
-bluecup
 berycoidei
 bluecurls
 blued
