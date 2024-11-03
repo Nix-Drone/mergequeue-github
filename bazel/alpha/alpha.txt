@@ -9443,7 +9443,6 @@ alternariose
 alternat
 alternate
 alternated
-alternately
 alternateness
 alternating
 alternatingly
@@ -15405,6 +15404,7 @@ antikathode
 antikenotoxin
 antiketogen
 antiketogenesis
+alternately
 antiketogenic
 antikinase
 antiking
