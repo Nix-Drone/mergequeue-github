@@ -3081,6 +3081,7 @@ fivepins
 fibration
 fibred
 fibrefill
+fixure
 fibreless
 fibres
 fibril
@@ -4641,7 +4642,6 @@ fixtureless
 farming
 fixup
 fixups
-fixure
 fixures
 fiz
 fizelyite
