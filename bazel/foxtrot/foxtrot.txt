@@ -5845,7 +5845,6 @@ fangas
 flocculation
 flocculator
 forts
-fencing
 floccule
 flocculence
 furans
@@ -6410,6 +6409,7 @@ fluoresces
 frisked
 fluorescigenic
 fluorescigenous
+fencing
 fulcrum
 foreshadowing
 fluorescin
