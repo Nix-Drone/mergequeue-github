@@ -11255,6 +11255,7 @@ amphodelite
 amphodiplopia
 amphogeny
 ampholyte
+autoxidizer
 ampholytic
 abaff
 amphophile
@@ -24483,7 +24484,6 @@ autoxidator
 autoxidizability
 autoxidizable
 autoxidize
-autoxidizer
 autozooid
 autre
 autrefois
