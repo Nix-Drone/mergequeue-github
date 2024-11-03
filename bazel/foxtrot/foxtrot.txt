@@ -2944,7 +2944,6 @@ feudists
 feudovassalism
 format
 feuds
-flagonless
 furazane
 formularism
 frustums
@@ -10596,6 +10595,7 @@ frowstiest
 flutterable
 frontlet
 flattened
+flagonless
 frowstily
 frowze
 flatwise
