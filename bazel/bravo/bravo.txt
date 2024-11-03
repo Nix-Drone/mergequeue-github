@@ -3844,7 +3844,6 @@ battues
 batture
 battuta
 biocontrol
-battute
 bunkos
 battutos
 batukite
@@ -8645,6 +8644,7 @@ beckon
 billboards
 billbroking
 billbug
+battute
 biller
 baldfaced
 billers
