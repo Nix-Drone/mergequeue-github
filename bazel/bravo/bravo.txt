@@ -3363,6 +3363,7 @@ basketlike
 basketmaker
 basketmaking
 buyback
+briefers
 biotope
 basketries
 bombline
@@ -15316,7 +15317,6 @@ brief
 briefcase
 breccias
 briefer
-briefers
 birdsong
 bot
 briefest
