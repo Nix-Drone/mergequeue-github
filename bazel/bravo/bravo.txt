@@ -6523,7 +6523,6 @@ benzpyrene
 benztrioxazine
 biostratigraphy
 beothuk
-beothukan
 beowulf
 bepaint
 bepainted
@@ -9308,6 +9307,7 @@ bipinnatipartite
 bipinnatisect
 bipinnatisected
 bowtie
+beothukan
 bipyramid
 bipyridyl
 bubale
