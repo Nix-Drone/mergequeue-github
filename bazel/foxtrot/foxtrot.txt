@@ -7239,7 +7239,6 @@ footprint
 flocculating
 footraces
 footrest
-footrests
 footrope
 footropes
 foots
@@ -10533,6 +10532,7 @@ frothy
 forebodings
 frothier
 feodary
+footrests
 frothless
 fitroot
 florid
