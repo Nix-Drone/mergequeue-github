@@ -4630,7 +4630,6 @@ buckteeth
 bedarkening
 bedaub
 bendays
-bedaubed
 blackened
 besuit
 bundeli
@@ -13711,6 +13710,7 @@ bow
 bowable
 bowback
 bowbells
+bedaubed
 bowbent
 bowboy
 bowden
