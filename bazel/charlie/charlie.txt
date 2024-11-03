@@ -19396,7 +19396,6 @@ colorman
 coloroto
 colorrhaphy
 colors
-colortype
 cutose
 cleptomania
 colorum
@@ -28500,6 +28499,7 @@ caracaras
 cephalexin
 credited
 crediting
+colortype
 comd
 creditive
 creditless
