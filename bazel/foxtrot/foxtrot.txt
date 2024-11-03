@@ -6103,7 +6103,6 @@ fustin
 fragor
 felspar
 furnisher
-flotsams
 fishmeal
 freighter
 film
@@ -8406,6 +8405,7 @@ fargoing
 formals
 fenianism
 formations
+flotsams
 folies
 flingdust
 formats
