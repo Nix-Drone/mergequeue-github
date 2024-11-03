@@ -8655,7 +8655,6 @@ forswearing
 fairling
 fields
 forswears
-fort
 fortake
 fenceful
 flense
@@ -8749,6 +8748,7 @@ forepad
 fortissimos
 fortitudinous
 fraenular
+fort
 fortnight
 fortnightly
 fortnights
