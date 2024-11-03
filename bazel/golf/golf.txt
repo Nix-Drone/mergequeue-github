@@ -2877,7 +2877,6 @@ genoms
 genonema
 gph
 genos
-gerrymandered
 genospecies
 genotype
 gobinism
@@ -5066,6 +5065,7 @@ glauconite
 glaymore
 galibi
 grubbiness
+gerrymandered
 glair
 glaire
 greengage
