@@ -2030,7 +2030,6 @@ bane
 baneberry
 baned
 banefully
-banefulness
 banes
 banewort
 banff
@@ -3824,6 +3823,7 @@ battlestead
 battlewagon
 battleward
 battlewise
+banefulness
 bronchiectasis
 bliest
 battology
