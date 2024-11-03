@@ -9551,7 +9551,6 @@ checkmating
 checkoffs
 checkout
 calor
-checkouts
 checkpoint
 checkpointed
 checkpointing
@@ -30365,6 +30364,7 @@ crystallogenic
 csardas
 csch
 csect
+checkouts
 cholecystectomies
 csects
 csi
