@@ -3078,7 +3078,6 @@ geomance
 geoform
 gillnet
 geogen
-geogenesis
 gyropilot
 geogenetic
 geogeny
@@ -8003,6 +8002,7 @@ granite
 granitelike
 granites
 graniteware
+geogenesis
 granitiferous
 granitification
 granitiform
