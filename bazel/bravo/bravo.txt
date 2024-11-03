@@ -4137,7 +4137,6 @@ beamroom
 beams
 beamsman
 beamwork
-bantlings
 bean
 badawi
 beanbag
@@ -18030,6 +18029,7 @@ busy
 busybody
 busybodied
 busybodies
+bantlings
 busybodyish
 busybodyism
 brachystochrone
