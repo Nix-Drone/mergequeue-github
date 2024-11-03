@@ -4737,6 +4737,7 @@ ersatzes
 ease
 enciphered
 enciphering
+enface
 encipherment
 evolutional
 encipherments
@@ -5522,7 +5523,6 @@ electrostrictive
 enetophobia
 eneuch
 eneugh
-enface
 enfacement
 enfaces
 elatedly
