@@ -2170,7 +2170,6 @@ bannerman
 bannermen
 bannerole
 bannerols
-bannerwise
 bannet
 bannisters
 bannition
@@ -8888,6 +8887,7 @@ binnogue
 binocle
 binocs
 binocular
+bannerwise
 binocularly
 binoculars
 bellarmine
