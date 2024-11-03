@@ -2001,6 +2001,7 @@ bandrol
 bandsaw
 bandsawed
 bandsawing
+betokened
 bandsawn
 bandsman
 bandsmen
@@ -7456,7 +7457,6 @@ betoken
 bagworm
 birthdom
 busky
-betokened
 betokener
 betokening
 betokenment
