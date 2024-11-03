@@ -2634,7 +2634,6 @@ electrosteel
 electrostenolysis
 electrostenolytic
 exciples
-electrostriction
 elinvar
 eupione
 extradecretal
@@ -3925,6 +3924,7 @@ eminence
 eminences
 eminencies
 eminent
+electrostriction
 eminently
 expressionless
 ebullition
