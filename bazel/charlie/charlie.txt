@@ -12356,7 +12356,6 @@ chromaticness
 capillation
 chromatics
 chromatid
-chromatin
 cyclonoscope
 chromatioideae
 chromatype
@@ -23930,6 +23929,7 @@ contusioned
 ctf
 contusions
 contusive
+chromatin
 cicadellidae
 conubium
 conularia
