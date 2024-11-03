@@ -11591,6 +11591,7 @@ boatheader
 boathook
 boathouse
 boathouses
+bunkhouse
 boatyard
 boatie
 backbends
@@ -12435,7 +12436,6 @@ bonefish
 bonefishes
 boneflower
 bonehead
-bunkhouse
 boneheaded
 buttes
 boney
