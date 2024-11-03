@@ -3565,7 +3565,6 @@ fuzztail
 flaxwife
 filamentous
 filaments
-filamentule
 filander
 filao
 forsterite
@@ -8588,6 +8587,7 @@ forspent
 fantast
 forpass
 forpet
+filamentule
 forpine
 forpining
 fortunella
