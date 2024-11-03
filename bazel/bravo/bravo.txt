@@ -4508,6 +4508,7 @@ beclaw
 beclip
 besieged
 becloak
+blackguardize
 belchers
 becloaking
 becloaks
@@ -10119,7 +10120,6 @@ bassing
 blackfriars
 blackguard
 bos
-blackguardize
 bibbling
 blackguardly
 blackguardry
