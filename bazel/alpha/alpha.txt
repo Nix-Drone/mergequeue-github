@@ -501,7 +501,6 @@ abjudication
 abjudicator
 abjugate
 abjunct
-abjunction
 abjunctive
 abjuration
 abjurations
@@ -6092,6 +6091,7 @@ aggressin
 aggressionist
 aggressions
 aggressive
+abjunction
 aggressively
 aggressiveness
 asphaltite
