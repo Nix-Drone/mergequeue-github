@@ -4422,7 +4422,6 @@ bowlders
 becall
 boisseaux
 becalm
-becalming
 becalmment
 becalms
 becap
@@ -15189,6 +15188,7 @@ brickyard
 brickier
 broadness
 bred
+becalming
 bricking
 brickish
 brickkiln
