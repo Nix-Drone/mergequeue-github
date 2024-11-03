@@ -971,6 +971,7 @@ gamenesses
 gorse
 games
 gamesman
+givin
 gamesome
 gamesomeness
 gamest
@@ -4923,7 +4924,6 @@ givers
 gladeye
 gyves
 giveth
-givin
 glaux
 givingness
 granulated
