@@ -9058,7 +9058,6 @@ bedstands
 barguest
 biologists
 biologize
-bioluminescence
 biomagnetic
 biomagnetism
 biomass
@@ -16218,6 +16217,7 @@ batlan
 browis
 browless
 brown
+bioluminescence
 browned
 brownest
 browny
