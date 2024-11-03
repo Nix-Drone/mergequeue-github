@@ -6941,7 +6941,6 @@ folksiness
 folksong
 folksongs
 folktales
-folkvangr
 foll
 foller
 folles
@@ -10453,6 +10452,7 @@ frontispiece
 frontispiecing
 familiarly
 frontlash
+folkvangr
 frontlessness
 fistnote
 frontoauricular
