@@ -3227,7 +3227,6 @@ buffi
 basichromatinic
 babai
 basichromiole
-basicity
 bodybuilder
 bumph
 beegerite
@@ -13042,6 +13041,7 @@ bornites
 bornitic
 boro
 borocaine
+basicity
 bookholder
 basnet
 borofluohydric
