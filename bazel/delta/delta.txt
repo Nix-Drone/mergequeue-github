@@ -5057,7 +5057,6 @@ denaries
 denarii
 denarinarii
 denarius
-denaro
 dietted
 denasalize
 denasalized
@@ -13554,6 +13553,7 @@ disseverance
 disseveration
 dissevering
 disseverment
+denaro
 dissevers
 disshadow
 dissheathe
