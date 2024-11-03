@@ -5786,6 +5786,7 @@ flyways
 faunas
 further
 flyweight
+framesmith
 flyweights
 forthon
 fribblish
@@ -8682,7 +8683,6 @@ freely
 flapless
 flowe
 flensing
-framesmith
 fluohydric
 frivolism
 forthfare
