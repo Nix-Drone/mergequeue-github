@@ -3743,7 +3743,6 @@ batswing
 batt
 bammed
 batta
-battable
 battailant
 browntop
 battailous
@@ -8375,6 +8374,7 @@ bronchiostenosis
 bigfoot
 bigged
 biggen
+battable
 biggened
 biggening
 bigger
