@@ -10930,6 +10930,7 @@ blitter
 blitum
 blitz
 blitzbuggy
+boloroot
 blitzed
 balbriggan
 bobbie
@@ -12179,7 +12180,6 @@ bolomen
 bolometer
 bolometric
 bolometrically
-boloroot
 bartramian
 bolos
 boutre
