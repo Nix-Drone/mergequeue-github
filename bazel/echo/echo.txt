@@ -2474,7 +2474,6 @@ electrolysation
 electrolyse
 everydeal
 elephantlike
-electrolysed
 electrolyses
 electrolysing
 electrolysis
@@ -2587,6 +2586,7 @@ electrophotographic
 eras
 exempla
 eventuates
+electrolysed
 electrophotomicrography
 electrophrenic
 electropyrometer
