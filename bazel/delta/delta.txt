@@ -13493,7 +13493,6 @@ dissemble
 dissembler
 diagraphic
 driftman
-dissemblers
 dissembles
 dissemblies
 dissembling
@@ -15273,6 +15272,7 @@ devilward
 domainal
 domains
 domajigger
+dissemblers
 dativogerundial
 declassee
 deaness
