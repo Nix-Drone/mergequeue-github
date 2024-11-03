@@ -807,7 +807,6 @@ galvanoglyph
 gerbillinae
 galvanoglyphy
 galvanography
-galvanographic
 galvanolysis
 gauily
 galvanology
@@ -5696,6 +5695,7 @@ globs
 grumps
 globular
 glossolabial
+galvanographic
 gconvert
 ganch
 genuflector
