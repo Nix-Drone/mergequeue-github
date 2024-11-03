@@ -15252,7 +15252,6 @@ clags
 candiel
 contradictiveness
 clay
-claybank
 claybanks
 claiborne
 claibornian
@@ -25384,6 +25383,7 @@ cornix
 cornland
 cornless
 cornloft
+claybank
 cornmaster
 cornmeal
 cornmeals
