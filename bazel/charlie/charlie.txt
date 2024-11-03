@@ -8828,7 +8828,6 @@ chaperno
 chaperon
 chaperonage
 chaperone
-chaperoned
 chaperonless
 chaperons
 chapes
@@ -14566,6 +14565,7 @@ chergui
 cyrtolite
 cyrtometer
 cyrtomium
+chaperoned
 coupleress
 cyrtopia
 cyrtosis
