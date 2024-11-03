@@ -1025,7 +1025,6 @@ darkness
 darknesses
 darkroom
 dragomen
-dineutron
 darks
 darkskin
 darksum
@@ -15834,6 +15833,7 @@ dorsolum
 dorsolumbar
 destinations
 dorsomedial
+dineutron
 dorsomedian
 dorsonasal
 dorsonuchal
