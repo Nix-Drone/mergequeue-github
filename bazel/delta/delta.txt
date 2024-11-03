@@ -6744,6 +6744,7 @@ dolomitized
 desize
 desk
 deskbound
+dyssynergy
 deskill
 desklike
 deskman
@@ -13612,7 +13613,6 @@ dispowder
 dissimulator
 daidling
 dissimuler
-dyssynergy
 dyssynergia
 dissinew
 dissipate
