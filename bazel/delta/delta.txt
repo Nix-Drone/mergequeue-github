@@ -8402,7 +8402,6 @@ dialuric
 defenestrated
 diam
 diamagnet
-diamagnetic
 diamagnetism
 diamagnetize
 dredging
@@ -13270,6 +13269,7 @@ dihely
 dotters
 disputableness
 disputacity
+diamagnetic
 disputant
 disputants
 disputation
