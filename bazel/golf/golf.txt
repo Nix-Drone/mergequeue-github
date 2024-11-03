@@ -4588,7 +4588,6 @@ gips
 gyp
 gyps
 gipseian
-gipser
 gipsy
 gypsy
 gipsydom
@@ -10483,6 +10482,7 @@ ghawazee
 grainsmen
 gundy
 gettysburg
+gipser
 gundygut
 gabari
 gundog
