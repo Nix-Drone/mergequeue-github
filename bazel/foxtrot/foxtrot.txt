@@ -7238,7 +7238,6 @@ flanderkin
 footprint
 flocculating
 footraces
-footrest
 footrests
 footrope
 footropes
@@ -11071,6 +11070,7 @@ furzery
 fumigatorium
 fuminess
 figworm
+footrest
 filum
 fuming
 fumingly
