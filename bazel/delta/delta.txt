@@ -3273,6 +3273,7 @@ defenser
 defenses
 defensibility
 defensibleness
+doctrine
 defensibly
 defensive
 defensively
@@ -14735,7 +14736,6 @@ doctrinarity
 dissuasive
 deaminization
 doctrinate
-doctrine
 doctrines
 doctrinism
 doctrinization
