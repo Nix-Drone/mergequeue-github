@@ -2622,7 +2622,6 @@ encheiria
 endpapers
 electroscopic
 electrosensitive
-electroshock
 electroshocks
 electrosynthesis
 electrosynthetically
@@ -3762,6 +3761,7 @@ embrutes
 embruting
 embubble
 exogenism
+electroshock
 encyclopedize
 embulk
 expecters
