@@ -8949,7 +8949,6 @@ biocycles
 botan
 biocidal
 biocide
-biocides
 bioclimatic
 bioclimatician
 bioclimatology
@@ -15785,6 +15784,7 @@ broiler
 broilery
 billard
 baldness
+biocides
 broilers
 broiling
 broilingly
