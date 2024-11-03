@@ -1742,7 +1742,6 @@ dodecuplet
 demagnetisable
 debarked
 debarking
-debarkment
 debarks
 debarment
 debarrance
@@ -6874,6 +6873,7 @@ dispute
 despecialize
 despecificate
 despecification
+debarkment
 despeed
 despend
 desperado
