@@ -4419,7 +4419,6 @@ bebusy
 bebuttoned
 bec
 bowlders
-becall
 boisseaux
 becalm
 becalming
@@ -12770,6 +12769,7 @@ boomster
 bewailable
 boomtown
 bergamiol
+becall
 boomtowns
 boon
 brumalia
