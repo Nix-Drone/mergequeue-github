@@ -6461,7 +6461,6 @@ demit
 discourtesies
 descartes
 descendability
-descendable
 descendance
 descendants
 dilemmatically
@@ -13974,6 +13973,7 @@ distributions
 distributival
 distributive
 distributiveness
+descendable
 deservingness
 distributivity
 distributor
