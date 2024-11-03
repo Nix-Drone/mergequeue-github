@@ -5906,7 +5906,6 @@ glossolysis
 glossology
 glossologist
 gowiddie
-glossopalatine
 glossopalatinus
 glossophaga
 glossopharyngeus
@@ -8124,6 +8123,7 @@ grapefruit
 grapeful
 grapey
 gasteromycete
+glossopalatine
 goober
 grapeys
 gastroenterotomy
