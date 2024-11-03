@@ -10566,7 +10566,6 @@ bleachability
 bleachable
 bleached
 bleacher
-bleachery
 bleacheries
 bleacherite
 bleacherman
@@ -15436,6 +15435,7 @@ brims
 brimse
 brimstone
 brin
+bleachery
 brince
 brinded
 brindisi
