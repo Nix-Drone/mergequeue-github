@@ -5690,7 +5690,6 @@ dephlogistication
 dephosphorization
 dephosphorize
 depickle
-depict
 depicted
 depicter
 descendents
@@ -11046,6 +11045,7 @@ disapprovable
 diaplasma
 disapprovals
 disapproved
+depict
 disapprover
 disapproves
 disapprovingly
