@@ -4934,6 +4934,7 @@ flammable
 filmogen
 floorers
 filefish
+farrieries
 flammation
 flammed
 fountains
@@ -7833,7 +7834,6 @@ forenamed
 fattiest
 forenames
 flenching
-farrieries
 firs
 forenent
 forenews
