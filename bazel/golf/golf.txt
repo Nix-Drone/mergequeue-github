@@ -7547,7 +7547,6 @@ gp
 gpad
 groupoids
 gendered
-gpd
 ginnery
 generationism
 gpm
@@ -8635,6 +8634,7 @@ greekling
 geranials
 greeks
 green
+gpd
 greenage
 gonys
 greenalite
