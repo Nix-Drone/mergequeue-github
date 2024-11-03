@@ -1489,7 +1489,6 @@ deactivator
 deactivators
 defrosts
 deadborn
-deadcenter
 deeryards
 deadeye
 deaden
@@ -17314,6 +17313,7 @@ drome
 dromed
 dromedary
 dromedarian
+deadcenter
 dzo
 dromedaries
 drometer
