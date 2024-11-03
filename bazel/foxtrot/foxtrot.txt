@@ -3479,7 +3479,6 @@ fightable
 forel
 fighteress
 fanwort
-fighting
 fightingly
 fights
 figitidae
@@ -9405,6 +9404,7 @@ fallowness
 francisc
 favellilidia
 franciscan
+fighting
 franciscanism
 franciscans
 ferocities
