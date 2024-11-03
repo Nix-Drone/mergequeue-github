@@ -274,6 +274,7 @@ abdominohysterotomy
 abdominoposterior
 abdominoscopy
 agas
+androcyte
 abdominothoracic
 abdominous
 abdominovaginal
@@ -12348,7 +12349,6 @@ acervuli
 androcephalous
 androcephalum
 audits
-androcyte
 androclclinia
 anisotropic
 androcles
