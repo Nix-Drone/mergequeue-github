@@ -8615,7 +8615,6 @@ autopathic
 arsmetrik
 allelomorphic
 allelomorphism
-allelopathy
 allelotropy
 allelotropic
 admeasured
@@ -20346,6 +20345,7 @@ arrowlet
 arrowlike
 arrowplate
 automolite
+allelopathy
 arrowroots
 arrows
 arrowsmith
