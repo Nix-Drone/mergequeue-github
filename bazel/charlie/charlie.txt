@@ -17399,7 +17399,6 @@ cobbles
 cobblestone
 cobblestoned
 cobblestones
-cobbly
 cobbling
 cobbra
 cobbs
@@ -29389,6 +29388,7 @@ crisping
 crispins
 crisply
 chalcanthite
+cobbly
 crispness
 crisps
 criss
