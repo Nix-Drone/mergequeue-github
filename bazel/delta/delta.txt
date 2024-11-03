@@ -10394,6 +10394,7 @@ diphenyl
 diphenylacetylene
 diphenylamine
 diphenylaminechlorarsine
+dyspnoeas
 diphenylchloroarsine
 diphenylene
 diphenylenimide
@@ -13155,7 +13156,6 @@ dyspneas
 dyspneic
 dyspnoea
 dyspnoeal
-dyspnoeas
 decayer
 dyspnoeic
 droopily
