@@ -4046,7 +4046,6 @@ beadeye
 beadeyes
 banderols
 beader
-beadflush
 beadhouse
 beady
 ballotage
@@ -10012,6 +10011,7 @@ bizcacha
 bizel
 bizen
 bizes
+beadflush
 bizet
 bizygomatic
 biznaga
