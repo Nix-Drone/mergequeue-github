@@ -1257,6 +1257,7 @@ economicalness
 examinability
 eductor
 eductors
+ellipticalness
 excursionists
 exstill
 environ
@@ -3084,7 +3085,6 @@ ellipsone
 ellipsonic
 elliptical
 emperors
-ellipticalness
 ellipticity
 elliptograph
 elliptoid
