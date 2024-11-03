@@ -1452,7 +1452,6 @@ dea
 depressure
 deaccession
 deaccessioned
-deaccessioning
 demarking
 deaccessions
 deacetylate
@@ -3866,6 +3865,7 @@ demagnetizable
 deinsularize
 deynt
 deintellectualization
+deaccessioning
 deintellectualize
 deciduous
 dicellate
