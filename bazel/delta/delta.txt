@@ -7037,7 +7037,6 @@ destroyer
 destroyers
 destroying
 diagnostic
-destruct
 destructibility
 diluvian
 destructible
@@ -14784,6 +14783,7 @@ dildos
 doddy
 doddie
 doddies
+destruct
 dextrorotation
 dodding
 doddypoll
