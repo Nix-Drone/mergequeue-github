@@ -1879,7 +1879,6 @@ bibliopegist
 bipunctate
 band
 bandage
-bandaged
 bandager
 bandages
 bandaging
@@ -12939,6 +12938,7 @@ bren
 bordar
 bordarius
 bordeaux
+bandaged
 bordel
 banquettes
 bordello
