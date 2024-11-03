@@ -1917,7 +1917,6 @@ banderoled
 banderoles
 banders
 banjara
-bandersnatch
 bandfile
 bandfiled
 bandfish
@@ -5384,6 +5383,7 @@ begs
 brevipen
 begster
 busies
+bandersnatch
 beguard
 beguess
 beguileful
