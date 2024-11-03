@@ -2688,6 +2688,7 @@ byelaws
 bunglesome
 barkey
 barken
+buttonless
 beknights
 barkentine
 barkentines
@@ -13842,7 +13843,6 @@ bowwows
 box
 boxberry
 boxberries
-buttonless
 boxbush
 boxcar
 bonify
