@@ -4905,7 +4905,6 @@ cartons
 cartoon
 cartoonist
 cartoonists
-condors
 cartoons
 cartop
 cartopper
@@ -7555,6 +7554,7 @@ cere
 cereal
 cerealian
 cerealin
+condors
 cerealism
 cerealist
 cerealose
