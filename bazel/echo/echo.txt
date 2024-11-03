@@ -5604,7 +5604,6 @@ elevators
 enfolds
 enfollow
 enfoncee
-ephemerae
 enforceability
 enforced
 enforcement
@@ -9256,6 +9255,7 @@ erode
 erodent
 erodes
 erodibility
+ephemerae
 eroding
 endocrinous
 erodium
