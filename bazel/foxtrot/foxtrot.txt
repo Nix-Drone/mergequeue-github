@@ -200,7 +200,6 @@ factoress
 flateria
 factory
 factorial
-factorially
 frizer
 factorials
 foilsman
@@ -5948,6 +5947,7 @@ floors
 fiddleback
 floorshift
 fawny
+factorially
 floorshifts
 floorshow
 floorway
