@@ -1684,7 +1684,6 @@ fawnskin
 fax
 faxed
 fructuosity
-faxing
 fazes
 fc
 fchar
@@ -2503,6 +2502,7 @@ fermion
 frenchless
 flexity
 fermions
+faxing
 frutage
 fermis
 fermium
