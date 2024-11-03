@@ -1208,6 +1208,7 @@ calfdozer
 calfish
 calfkill
 calfless
+codebtor
 calflike
 calfling
 calfret
@@ -17736,7 +17737,6 @@ coddles
 code
 codebooks
 codebreaker
-codebtor
 codebtors
 codec
 codeclination
