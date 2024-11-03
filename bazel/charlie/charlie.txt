@@ -7373,7 +7373,6 @@ cephalophyma
 cephalophine
 cephalophus
 cephaloplegia
-cephaloplegic
 cephalopod
 cephalopoda
 cephalopodan
@@ -24118,6 +24117,7 @@ convert
 convertaplane
 converted
 convertend
+cephaloplegic
 converters
 convertibility
 convertible
