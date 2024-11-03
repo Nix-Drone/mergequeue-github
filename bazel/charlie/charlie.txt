@@ -4882,6 +4882,7 @@ cartload
 cartloads
 cartmaker
 cartmaking
+circumpolygon
 cartobibliography
 cartogram
 chloridizing
@@ -14398,7 +14399,6 @@ circumplect
 circumplicate
 circumplication
 circumpolar
-circumpolygon
 circumpose
 circumposition
 condite
