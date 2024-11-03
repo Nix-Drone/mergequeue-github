@@ -15919,7 +15919,6 @@ cleidoic
 cleidomancy
 cleidomastoid
 cleidorrhexis
-checkerbelly
 chiripa
 cleidoscapular
 cleidosternal
@@ -21805,6 +21804,7 @@ confabbed
 confabs
 confabular
 confabulate
+checkerbelly
 confabulated
 confabulates
 confabulating
