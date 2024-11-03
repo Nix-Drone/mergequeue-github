@@ -1217,7 +1217,6 @@ edriophthalmian
 eds
 educ
 educability
-educable
 educables
 educand
 educatability
@@ -13972,6 +13971,7 @@ eulachons
 eshin
 extrasolar
 extrasomatic
+educable
 extraspectral
 extraspinal
 eco

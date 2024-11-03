@@ -3772,6 +3772,7 @@ battens
 batter
 bread
 batterable
+bunkered
 battercake
 batterdock
 battered
@@ -17459,7 +17460,6 @@ besought
 bunker
 bunkerage
 balatong
-bunkered
 borzicactus
 biometer
 bunkering
