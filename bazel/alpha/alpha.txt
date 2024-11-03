@@ -2929,7 +2929,6 @@ acromioclavicular
 acromiocoracoid
 acromyodi
 acromyodic
-acromyodous
 acromiohyoid
 areometer
 acromiohumeral
@@ -15504,6 +15503,7 @@ antimasker
 alar
 antimasks
 antimason
+acromyodous
 antimasonry
 antimasque
 antimasquer
