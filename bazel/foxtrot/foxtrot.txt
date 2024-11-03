@@ -1689,6 +1689,7 @@ fazes
 fc
 fchar
 fipenny
+flintworker
 fcomp
 farcin
 fcp
@@ -5667,7 +5668,6 @@ flintlike
 flintlock
 fellatios
 flintwood
-flintworker
 flyoff
 flyover
 flyovers
