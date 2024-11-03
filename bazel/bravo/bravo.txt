@@ -925,7 +925,6 @@ babishness
 beadlery
 baglike
 bagmaker
-bagmaking
 bagmen
 bagne
 bagnes
@@ -1452,6 +1451,7 @@ baleens
 bossism
 bromide
 balefire
+bagmaking
 balefires
 bronchopneumonia
 balefully
