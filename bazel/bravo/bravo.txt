@@ -2560,7 +2560,6 @@ barfish
 barfs
 bargain
 bargainable
-billbugs
 bargainee
 bargainer
 bargaining
@@ -10537,6 +10536,7 @@ blaw
 blawed
 blawing
 blawn
+billbugs
 blaws
 bailie
 befuddles
