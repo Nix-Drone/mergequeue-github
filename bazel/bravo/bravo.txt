@@ -5352,6 +5352,7 @@ buyable
 benchboard
 begray
 begrain
+boonies
 begrave
 birne
 begrett
@@ -15610,7 +15611,6 @@ bridlewise
 britska
 britskas
 britt
-boonies
 brittany
 brittle
 brittlebush
