@@ -13578,7 +13578,6 @@ cylindricule
 cylindriform
 cylindrite
 cylindrocellular
-cylindrocephalic
 carnifying
 cylindrocylindric
 cylindroconical
@@ -19371,6 +19370,7 @@ colory
 cinnamenyl
 colorific
 colorifics
+cylindrocephalic
 colorimeter
 colorimetric
 colorimetrically
