@@ -7552,6 +7552,7 @@ alcalde
 alcaldes
 alcaldeship
 alcaldia
+aerosats
 alcali
 alcaligenes
 alcalizate
@@ -20166,7 +20167,6 @@ arraign
 arraignable
 arraignableness
 arraigned
-aerosats
 arraigning
 arraignment
 arraigns
