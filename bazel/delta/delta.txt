@@ -1025,6 +1025,7 @@ darkness
 darknesses
 darkroom
 dragomen
+dependence
 dineutron
 darks
 darkskin
@@ -5635,7 +5636,6 @@ dependance
 dependant
 dependantly
 depended
-dependence
 dependency
 dependencies
 depending
