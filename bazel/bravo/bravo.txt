@@ -5350,7 +5350,6 @@ begowk
 begowned
 buyable
 benchboard
-begray
 begrain
 begrave
 birne
@@ -10310,6 +10309,7 @@ besnows
 blancmanges
 bland
 blandation
+begray
 blandest
 blandiloquence
 blandish
