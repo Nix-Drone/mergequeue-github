@@ -11611,7 +11611,6 @@ cholelithotomy
 crenellate
 cholelithotripsy
 cholelithotrity
-cholemia
 cholent
 cholents
 choleokinase
@@ -30297,6 +30296,7 @@ crusadoes
 crusados
 cruse
 catalog
+cholemia
 cruset
 crush
 crushable
