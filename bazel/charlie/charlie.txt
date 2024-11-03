@@ -4840,7 +4840,6 @@ cartage
 cartages
 cartboot
 carte
-carted
 cartel
 cartelism
 cimelia
@@ -9923,6 +9922,7 @@ chemoserotherapy
 chemoses
 chemosynthesis
 chemosynthetic
+carted
 chemosis
 chemosmoic
 chemosmoses
