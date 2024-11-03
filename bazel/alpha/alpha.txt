@@ -5513,6 +5513,7 @@ afoul
 afounde
 afray
 aspirator
+autoxidizable
 asquare
 afraid
 afraidness
@@ -24481,7 +24482,6 @@ autoxeny
 autoxidation
 autoxidator
 autoxidizability
-autoxidizable
 autoxidize
 autoxidizer
 autozooid
