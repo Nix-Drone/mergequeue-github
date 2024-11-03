@@ -4193,7 +4193,6 @@ electroviscous
 employments
 ensured
 energetics
-epopt
 emplore
 ereptase
 emplume
@@ -8632,6 +8631,7 @@ equid
 equidiagonal
 equidifferent
 equidimensional
+epopt
 equidist
 equidistance
 ectal
