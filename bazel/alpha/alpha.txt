@@ -4036,6 +4036,7 @@ adjutants
 adjutantship
 anesthetic
 adjutator
+arcanite
 adjute
 adjutor
 adjutory
@@ -18680,7 +18681,6 @@ arcanal
 arcane
 arcanist
 aromatization
-arcanite
 arcanum
 arcate
 arcato
