@@ -2227,7 +2227,6 @@ exundate
 elderwomen
 exterminating
 elderwort
-eldest
 eldin
 eldmother
 eldorado
@@ -4583,6 +4582,7 @@ encephalomeningocele
 encephalometric
 encephalomyelitic
 encephalomyelitis
+eldest
 erucin
 encephalomyelopathy
 encephalomyocarditis

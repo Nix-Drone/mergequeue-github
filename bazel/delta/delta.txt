@@ -4547,7 +4547,6 @@ demibarrel
 demibastion
 demibastioned
 demibath
-demibeast
 demibelt
 demibrassart
 demibrigade
@@ -7075,6 +7074,7 @@ desulfurated
 desulfurating
 desulfuration
 doxology
+demibeast
 desulfuring
 desulfurisation
 desulfurise
