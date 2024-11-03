@@ -5945,6 +5945,7 @@ flummoxes
 fluidizing
 floorless
 floors
+freezer
 fiddleback
 floorshift
 fawny
@@ -10094,7 +10095,6 @@ frillers
 fibromyxoma
 frillily
 fidgets
-freezer
 frilliness
 frilling
 frillings
