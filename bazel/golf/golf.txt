@@ -1774,7 +1774,6 @@ gastrodermal
 glutaraldehyde
 gastrodermis
 gestations
-gnotobiote
 gastrodynia
 gastrodisk
 gastroduodenitis
@@ -2873,6 +2872,7 @@ genoese
 genoise
 genome
 genomic
+gnotobiote
 genoms
 genonema
 gph
