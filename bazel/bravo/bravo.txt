@@ -13874,6 +13874,7 @@ boxlike
 boxmaker
 bicycloheptane
 boxman
+brawler
 booky
 boxroom
 boxthorn
@@ -14690,7 +14691,6 @@ bravuras
 bravure
 brawer
 brawl
-brawler
 brawly
 brawling
 brawlingly
