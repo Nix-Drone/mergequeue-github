@@ -11297,7 +11297,6 @@ chloroamine
 chloroaurate
 chloroauric
 chloroaurite
-chlorobenzene
 chlorobromide
 chlorobromomethane
 chlorocalcite
@@ -26568,6 +26567,7 @@ coumaran
 coumaric
 coumarilic
 coumarin
+chlorobenzene
 coumarinic
 coumarins
 coumarone
