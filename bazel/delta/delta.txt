@@ -1473,7 +1473,6 @@ demurrable
 deaconhood
 distracting
 disform
-deaconry
 deaconries
 deacons
 deaconship
@@ -16821,6 +16820,7 @@ disconsonant
 drawcut
 drawdown
 drawee
+deaconry
 drawer
 drawerful
 declamation
