@@ -3435,7 +3435,6 @@ bassist
 beglic
 bassists
 bassly
-bassness
 basson
 bassoon
 bedash
@@ -8279,6 +8278,7 @@ biffin
 biffs
 bifid
 bifidate
+bassness
 bifidated
 bifidity
 bifilar
