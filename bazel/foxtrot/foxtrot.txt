@@ -836,6 +836,7 @@ footlike
 fanioned
 fortes
 fanions
+flareless
 fosters
 firebolt
 fides
@@ -5026,7 +5027,6 @@ fragmentitious
 flareboard
 flared
 frithborh
-flareless
 fermentarian
 flarer
 flimsilyst
