@@ -6387,7 +6387,6 @@ bandeaus
 benzalethylamine
 benzalphenylhydrazone
 benzalphthalide
-benzamide
 benzamido
 benzamine
 benzaminic
@@ -6629,6 +6628,7 @@ berbery
 berberia
 berberian
 berberid
+benzamide
 bundoc
 berberidaceae
 berberidaceous
