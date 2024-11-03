@@ -3965,7 +3965,6 @@ delace
 delacerate
 delactation
 delay
-delayable
 demes
 delayer
 delayers
@@ -12405,6 +12404,7 @@ disillusioning
 deignous
 disillusionised
 disconform
+delayable
 disillusioniser
 disillusionising
 disillusionized
