@@ -8215,6 +8215,7 @@ diagnostics
 diagometer
 demove
 derogations
+disannulling
 dele
 diagonal
 diagonalizable
@@ -17148,7 +17149,6 @@ disaffection
 dilambdodont
 driller
 drillers
-disannulling
 drillet
 dakir
 devarshi
