@@ -2798,7 +2798,6 @@ bonneting
 barology
 barolong
 baromacrometer
-barometer
 boroughship
 barometry
 barometric
@@ -10825,6 +10824,7 @@ blimey
 blimpishly
 budgeters
 blin
+barometer
 blindage
 biggity
 blindball
