@@ -5221,7 +5221,6 @@ gnathic
 guestship
 glasswork
 guider
-glassworker
 glassworkers
 glassworm
 gawkier
@@ -10138,6 +10137,7 @@ guidable
 guidance
 guide
 gruf
+glassworker
 guideboard
 greediness
 guidebooky
