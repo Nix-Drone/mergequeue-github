@@ -3887,6 +3887,7 @@ carcels
 carcer
 carceral
 carcerate
+cytolysis
 carcerated
 carcerating
 carceration
@@ -14931,7 +14932,6 @@ citoles
 cytolymph
 cataphysic
 cytolysin
-cytolysis
 cytolist
 cytolytic
 cytology
