@@ -13225,7 +13225,6 @@ ciceronize
 ciceros
 cichlid
 cichlidae
-cichlids
 cichloid
 cichoriaceae
 cichoriaceous
@@ -21085,6 +21084,7 @@ coequating
 concatenation
 concatenations
 concatenator
+cichlids
 concatervate
 concaulescence
 concause
