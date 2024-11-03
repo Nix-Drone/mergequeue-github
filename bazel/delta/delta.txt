@@ -8175,7 +8175,6 @@ dei
 defogger
 diadochokinesia
 diadochokinetic
-diadoumenos
 diadrom
 diadrome
 diadromous
@@ -13827,6 +13826,7 @@ dachs
 dadding
 distillment
 distillmint
+diadoumenos
 distilment
 distils
 distinct
