@@ -3705,6 +3705,7 @@ embryotrophy
 embrittle
 embrittled
 embrittling
+endogen
 embryulci
 embryulcia
 extraboldface
@@ -5166,7 +5167,6 @@ endogamic
 endogamous
 encipherer
 endogastritis
-endogen
 etiolin
 electroballistician
 endogenae
