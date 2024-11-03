@@ -6304,6 +6304,7 @@ dermatoskeleton
 dermatotherapy
 depurated
 dermatotome
+drawhead
 dermatotomy
 dermatozoon
 desalinates
@@ -16833,7 +16834,6 @@ debatingly
 drawgate
 drawglove
 dishonorary
-drawhead
 drawing
 drawings
 drawknives
