@@ -8490,7 +8490,6 @@ alkylamino
 alkylarylsulfonate
 alkylate
 alkylated
-alkylates
 alkylating
 alkylation
 alkylbenzenesulfonate
@@ -9319,6 +9318,7 @@ attenuations
 alphyls
 alphin
 agpaite
+alkylates
 alphitomorphous
 alphol
 affronty

@@ -2504,7 +2504,6 @@ electromagnetist
 escalloping
 electromagnets
 electromassage
-electromechanical
 electromechanics
 electromedical
 esquireship
@@ -13452,6 +13451,7 @@ exscript
 exsculp
 exsculptate
 exscutellate
+electromechanical
 exsec
 exsect
 eutaxie
