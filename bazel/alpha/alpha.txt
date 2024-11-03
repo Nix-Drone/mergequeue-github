@@ -5014,7 +5014,6 @@ aeromechanic
 aeromechanics
 aeromedical
 aeromedicine
-aerometeorograph
 aerometer
 aerometry
 abluted
@@ -13625,6 +13624,7 @@ annulary
 annularia
 annularity
 annulate
+aerometeorograph
 annulated
 annulately
 annulation
