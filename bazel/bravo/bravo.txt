@@ -2492,7 +2492,6 @@ barding
 bardings
 blindages
 bardism
-bardlet
 boothian
 bardlike
 burut
@@ -12264,6 +12263,7 @@ bombardmen
 bombardment
 bombardments
 bombardo
+bardlet
 bowdrill
 bombards
 bombasine
