@@ -637,7 +637,6 @@ bacterioagglutinin
 bacterioblast
 bacteriochlorophyll
 bacteriocin
-bishopbird
 bacteriodiagnosis
 bacteriofluorescin
 bromates
@@ -12170,6 +12169,7 @@ bolograph
 bolography
 bolographic
 bolographically
+bishopbird
 boloing
 blushiness
 brigantes
