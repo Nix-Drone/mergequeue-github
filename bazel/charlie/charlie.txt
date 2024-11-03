@@ -15278,7 +15278,6 @@ claimers
 claymore
 claims
 claimsman
-claimsmen
 clayoquot
 claypans
 clair
@@ -17192,6 +17191,7 @@ coalless
 coalmonger
 coalmouse
 cogitos
+claimsmen
 coalpits
 calorifically
 coalrake
