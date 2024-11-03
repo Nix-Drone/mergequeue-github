@@ -7516,7 +7516,6 @@ devaluates
 devaluation
 devaluations
 devalue
-devalued
 devalues
 devaluing
 devanagari
@@ -15550,6 +15549,7 @@ doodle
 doodlebug
 doodled
 doodler
+devalued
 doodlers
 doodles
 doodlesack
