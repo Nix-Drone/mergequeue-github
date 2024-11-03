@@ -7939,7 +7939,6 @@ epilate
 epilating
 enforceable
 epilation
-epilator
 epilemma
 epileny
 epilepsies
@@ -8143,6 +8142,7 @@ epipterous
 empaled
 epipubes
 epipubis
+epilator
 epirhizous
 epirogenetic
 enbloc
