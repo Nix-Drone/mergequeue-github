@@ -4810,7 +4810,6 @@ flagroot
 flags
 flagship
 fuss
-firepower
 flagstaff
 fainer
 factorylike
@@ -10758,6 +10757,7 @@ fermentability
 frumps
 frundel
 frush
+firepower
 flakers
 frusla
 frust
