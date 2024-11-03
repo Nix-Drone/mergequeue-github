@@ -1488,7 +1488,6 @@ forceable
 fattiness
 funis
 fattishness
-fattrels
 fatuate
 fatuism
 fatuity
@@ -8092,6 +8091,7 @@ flowerets
 forestwards
 foresummon
 foreswear
+fattrels
 foreswearing
 funkiest
 foresweat
