@@ -8397,7 +8397,6 @@ dialogues
 dialoguing
 dialonian
 dials
-dialup
 dialuric
 defenestrated
 diam
@@ -17325,6 +17324,7 @@ dromomania
 dromometer
 dromon
 dromond
+dialup
 dromonds
 defoul
 dromophobia
