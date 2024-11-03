@@ -2627,7 +2627,6 @@ electroshocks
 electrosynthesis
 electrosynthetically
 envenoms
-electrosmosis
 electrostatic
 electrostatical
 electrosteel
@@ -3351,6 +3350,7 @@ eaglestone
 elaidin
 efformation
 embarge
+electrosmosis
 embargo
 embargoed
 embargoes
