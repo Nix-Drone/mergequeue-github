@@ -1279,7 +1279,6 @@ gruis
 gothic
 gapeseed
 gapeworm
-gapeworms
 gorgonized
 gapingly
 gapingstock
@@ -2548,6 +2547,7 @@ geminis
 geminorum
 gasterosteus
 geminous
+gapeworms
 goosebill
 guardian
 gemless
