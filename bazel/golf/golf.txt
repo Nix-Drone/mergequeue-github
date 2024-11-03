@@ -1630,7 +1630,6 @@ gasmen
 gasmetophytic
 gasogen
 gasogene
-gasogenic
 gasohol
 gasolene
 gasolenes
@@ -2877,6 +2876,7 @@ genoms
 genonema
 gph
 genos
+gasogenic
 gerrymandered
 genospecies
 genotype
