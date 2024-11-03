@@ -4366,7 +4366,6 @@ deluster
 delustering
 deluxe
 delve
-delved
 decanter
 delver
 delvers
@@ -11814,6 +11813,7 @@ discurre
 discursative
 discursativeness
 donatively
+delved
 disavow
 discursive
 discursively
