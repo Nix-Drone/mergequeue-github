@@ -2469,6 +2469,7 @@ fermatas
 fermate
 fleshed
 ferme
+flippantness
 familarity
 fullymart
 forespeed
@@ -7177,7 +7178,6 @@ faintful
 footholds
 foothot
 fedn
-flippantness
 funded
 footy
 footie
