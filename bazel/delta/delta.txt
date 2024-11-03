@@ -5752,6 +5752,7 @@ depletory
 deploy
 deployed
 deploying
+daubers
 defilade
 deployment
 deployments
@@ -9739,7 +9740,6 @@ dilker
 dimensuration
 dillenia
 dilleniaceous
-daubers
 downfield
 didymoid
 dermatocyst
