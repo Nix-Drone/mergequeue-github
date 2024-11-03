@@ -9408,6 +9408,7 @@ altazimuth
 alter
 alterability
 alterable
+archespsporia
 alterableness
 alterably
 alterate
@@ -18904,7 +18905,6 @@ archespores
 autonephrectomy
 archesporial
 archesporium
-archespsporia
 alsikes
 archest
 archetypal
