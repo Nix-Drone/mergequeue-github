@@ -10412,7 +10412,6 @@ chiefs
 chieftain
 chieftaincy
 chieftaincies
-chieftainess
 chieftainry
 chieftainries
 chieftains
@@ -14932,6 +14931,7 @@ cytolymph
 cataphysic
 cytolysin
 cytolysis
+chieftainess
 cytolist
 cytolytic
 cytology
