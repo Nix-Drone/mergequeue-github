@@ -3266,7 +3266,6 @@ gluing
 geotectonics
 geoteuthis
 gomeril
-geotherm
 gadbush
 geothermally
 geothermic
@@ -9388,6 +9387,7 @@ grossularia
 grossularite
 grosz
 grainsick
+geotherm
 glyptograph
 groszy
 genocide
