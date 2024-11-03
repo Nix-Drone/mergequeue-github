@@ -993,7 +993,6 @@ absolutization
 absolutize
 absolutory
 absolvatory
-absolve
 absolved
 absolvent
 absolver
@@ -15917,6 +15916,7 @@ antiplatelet
 awarn
 antipleion
 antiplenist
+absolve
 antiplethoric
 antipleuritic
 antiplurality
