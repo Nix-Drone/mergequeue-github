@@ -5853,6 +5853,7 @@ distome
 depositaries
 deposited
 depositing
+doctorless
 disgorgement
 depositional
 dumbheaded
@@ -14709,7 +14710,6 @@ deposed
 doctoring
 doctorization
 doctorize
-doctorless
 doctors
 doctorship
 disfranchise
