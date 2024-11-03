@@ -4244,7 +4244,6 @@ glamours
 gentilities
 gymnasium
 gymnasiums
-gymnastic
 gazon
 gittith
 glamoury
@@ -5722,6 +5721,7 @@ gravestone
 globulysis
 globulite
 globulous
+gymnastic
 globus
 goldseed
 gravemaking
