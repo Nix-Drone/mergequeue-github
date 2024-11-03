@@ -9573,7 +9573,6 @@ checkrows
 checks
 checkstrap
 checkstring
-checksum
 construct
 checksummed
 checksumming
@@ -16382,6 +16381,7 @@ clit
 clitch
 clite
 clitella
+checksum
 clitellar
 clitelliferous
 clitellus
