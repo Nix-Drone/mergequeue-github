@@ -3360,7 +3360,6 @@ firstlings
 fief
 foredeem
 fiefs
-forfeitable
 fiel
 fieldball
 fieldbird
@@ -6551,6 +6550,7 @@ flapmouthed
 fluting
 flutist
 fibrilations
+forfeitable
 familic
 flutter
 flutterboard
