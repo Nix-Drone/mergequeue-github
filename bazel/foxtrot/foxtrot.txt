@@ -3399,7 +3399,6 @@ fops
 fallibility
 fiendish
 falconets
-fiendly
 freestyle
 fiendlier
 fleckiness
@@ -4122,6 +4121,7 @@ firca
 fyrd
 fireable
 firearm
+fiendly
 firearms
 fireback
 fumeuses
