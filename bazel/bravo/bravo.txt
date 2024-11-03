@@ -8875,6 +8875,7 @@ binits
 beplaster
 bink
 binman
+bleacherite
 binmen
 binna
 binnacle
@@ -10568,7 +10569,6 @@ bleached
 bleacher
 bleachery
 bleacheries
-bleacherite
 bleacherman
 bleachers
 bleaches
