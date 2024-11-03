@@ -2715,7 +2715,6 @@ fervanite
 frontad
 fervence
 farmplace
-fervency
 fervencies
 fervent
 fervently
@@ -5541,6 +5540,7 @@ flyblowing
 flyblows
 flyboat
 flyboats
+fervency
 flybrush
 felsophyre
 filesave
