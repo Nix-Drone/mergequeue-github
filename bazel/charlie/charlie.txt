@@ -7194,7 +7194,6 @@ centring
 centrings
 caped
 centriole
-centripetal
 centripetence
 centripetency
 centriscid
@@ -11256,6 +11255,7 @@ chloridize
 chloridized
 compaternity
 chloryl
+centripetal
 carlin
 chlorimeter
 credensiveness
