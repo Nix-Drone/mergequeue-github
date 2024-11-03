@@ -5595,7 +5595,6 @@ bel
 bela
 belabor
 basementward
-bruscus
 beachcomber
 belaboring
 belabours
@@ -7006,6 +7005,7 @@ bireme
 boar
 beshow
 beshower
+bruscus
 beshrewing
 beshrews
 beshriek
