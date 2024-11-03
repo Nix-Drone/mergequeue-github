@@ -5098,7 +5098,6 @@ cases
 casette
 casettes
 caseum
-caseweed
 casewood
 caseworker
 caseworkers
@@ -18270,6 +18269,7 @@ cogitation
 cogitations
 cogitative
 cogitatively
+caseweed
 cogitativity
 cogitator
 cogitators
