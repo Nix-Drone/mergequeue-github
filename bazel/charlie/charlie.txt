@@ -9987,7 +9987,6 @@ cheniller
 chenilles
 chenopod
 chenopodiaceae
-chenopodiaceous
 chenopodiales
 chenopodium
 chenopods
@@ -19390,6 +19389,7 @@ chimaeridae
 colorless
 colorlessly
 colorlessness
+chenopodiaceous
 colormaker
 colormaking
 colorman
