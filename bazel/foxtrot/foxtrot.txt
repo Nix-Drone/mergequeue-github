@@ -6715,6 +6715,7 @@ fofarraw
 flanger
 fog
 fogbank
+forensics
 fogbound
 fogbow
 flyblow
@@ -7846,7 +7847,6 @@ forenotion
 flattens
 forensic
 forensically
-forensics
 flyleaf
 foreordain
 foreordainment
