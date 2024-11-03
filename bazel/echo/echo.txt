@@ -3907,7 +3907,6 @@ emigrant
 eavesdrip
 emigrants
 emigrates
-emigrating
 emigres
 egyptology
 emigration
@@ -10583,6 +10582,7 @@ ettirone
 ettle
 ettled
 ettling
+emigrating
 etua
 economizer
 eburnation
