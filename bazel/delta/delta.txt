@@ -2221,7 +2221,6 @@ decelerate
 dustbox
 decelerated
 decelerates
-decelerations
 decelerator
 decelerators
 deceleron
@@ -5147,6 +5146,7 @@ dendrolatry
 dendrology
 dendrologist
 discerp
+decelerations
 dendrologists
 dendrologous
 dendromecon
