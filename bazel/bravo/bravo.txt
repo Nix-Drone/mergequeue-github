@@ -5493,7 +5493,6 @@ behorror
 bellmaster
 bilabe
 behoved
-behoves
 behoving
 bepurple
 behowled
@@ -6647,6 +6646,7 @@ berdash
 birotation
 betons
 bere
+behoves
 bien
 bereareft
 bereason
