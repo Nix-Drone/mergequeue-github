@@ -798,6 +798,7 @@ gugglet
 galvanizer
 galvanizers
 gujar
+gassed
 galvanizes
 galvanizing
 galvanocautery
@@ -1666,7 +1667,6 @@ gaspers
 gaspy
 golf
 gasps
-gassed
 gasser
 gasserian
 glares
