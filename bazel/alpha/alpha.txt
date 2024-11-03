@@ -4591,7 +4591,6 @@ adverbless
 adverbs
 adversa
 adversant
-adversary
 adversaria
 adversaries
 adversarious
@@ -11641,6 +11640,7 @@ anaglyphics
 anaglyphs
 automotor
 anaglypta
+adversary
 anaglyptical
 anaglyptics
 anaglyptography
