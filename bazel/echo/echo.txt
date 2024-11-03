@@ -832,7 +832,6 @@ ectypography
 ectiris
 episodal
 equations
-ectoblastic
 ectobronchium
 ectocardia
 erigenia
@@ -5150,6 +5149,7 @@ endodermis
 endoderms
 endodynamomorphic
 endodontia
+ectoblastic
 endodontically
 endodontist
 endodontium
