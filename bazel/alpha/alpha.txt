@@ -9408,6 +9408,7 @@ altazimuth
 alter
 alterability
 alterable
+ampalaya
 alterableness
 alterably
 alterate
@@ -10959,7 +10960,6 @@ amoved
 amoving
 amowt
 amp
-ampalaya
 ampangabeite
 amparo
 ampasimenite
