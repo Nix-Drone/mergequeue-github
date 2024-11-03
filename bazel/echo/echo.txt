@@ -296,7 +296,6 @@ eat
 eagerer
 eatability
 eatable
-eatables
 electrolyzability
 eatberry
 eaten
@@ -7016,6 +7015,7 @@ entraps
 entre
 enterohepatitis
 entreasure
+eatables
 egos
 entreasured
 entreasuring
