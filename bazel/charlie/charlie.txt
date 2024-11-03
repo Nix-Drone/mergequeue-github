@@ -3601,7 +3601,6 @@ coachable
 carapidae
 carapine
 cresting
-carapus
 carara
 carassow
 carassows
@@ -15902,6 +15901,7 @@ clee
 cleech
 cleek
 cleeked
+carapus
 cachaca
 cleeky
 calisthenical
