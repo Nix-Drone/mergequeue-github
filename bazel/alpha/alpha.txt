@@ -2316,7 +2316,6 @@ achromatization
 achromatize
 amalgam
 achromatizing
-achromatocyte
 achromatolysis
 achromatope
 achromatophil
@@ -20082,6 +20081,7 @@ arolia
 aroma
 aromacity
 aromal
+achromatocyte
 azonal
 aculeate
 aromas
