@@ -6874,6 +6874,7 @@ airfield
 airflow
 airflows
 airfoil
+anacardium
 airfoils
 airframe
 airglow
@@ -11483,7 +11484,6 @@ anacard
 anacardiaceae
 anacardiaceous
 anacardic
-anacardium
 anacatadidymus
 anacathartic
 anacephalize
