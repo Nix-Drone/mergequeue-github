@@ -13607,7 +13607,6 @@ annualize
 annualized
 annually
 annuals
-annuary
 annuation
 annueler
 annueller
@@ -25070,6 +25069,7 @@ ax
 axbreaker
 axe
 axebreaker
+annuary
 alkylol
 axed
 anormality
