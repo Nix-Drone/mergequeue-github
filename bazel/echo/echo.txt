@@ -2394,7 +2394,6 @@ escalation
 electrodes
 electrodesiccation
 electrodiagnosis
-entoblast
 electrodiagnostic
 electrodiagnostically
 excreation
@@ -4616,6 +4615,7 @@ enchafe
 enchain
 enchained
 enchainement
+entoblast
 enchainements
 euphemized
 enchaining
