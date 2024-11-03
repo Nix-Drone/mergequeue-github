@@ -6406,7 +6406,6 @@ ensigncy
 electroplaque
 ensigncies
 ensigned
-entranceway
 ensignhood
 ensilaged
 ensilages
@@ -14035,6 +14034,7 @@ encounterable
 extravasating
 elasmosaur
 extravasation
+entranceway
 extravehicular
 extravenate
 extraventricular
