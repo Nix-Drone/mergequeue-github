@@ -202,7 +202,6 @@ factory
 factorial
 factorially
 frizer
-factorials
 foilsman
 factories
 factoring
@@ -1576,6 +1575,7 @@ fauster
 faustian
 faute
 fanfaron
+factorials
 fredaine
 foreshift
 fauterer
