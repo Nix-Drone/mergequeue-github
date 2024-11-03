@@ -513,7 +513,6 @@ abjurer
 abjurers
 abjures
 acroblast
-abjuring
 allokinesis
 abkar
 abkari
@@ -20676,6 +20675,7 @@ articulability
 articulable
 articulacy
 articulant
+abjuring
 articular
 acrobatholithic
 articulare
