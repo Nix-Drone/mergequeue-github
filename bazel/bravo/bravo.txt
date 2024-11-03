@@ -9329,7 +9329,6 @@ banishments
 biplosion
 biplosive
 bries
-bipod
 bipods
 baccae
 bipolar
@@ -10365,6 +10364,7 @@ blankness
 blanks
 blanque
 blanquillo
+bipod
 beesting
 boviform
 beachboy
