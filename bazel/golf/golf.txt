@@ -1907,7 +1907,6 @@ gastrostomies
 gastrostomize
 gastrostomus
 gastrotaxis
-gastrothecal
 gastrotome
 gastrotomy
 gastrotomic
@@ -5976,6 +5975,7 @@ grain
 glovemaker
 gametes
 gloveman
+gastrothecal
 glover
 gloves
 glow
