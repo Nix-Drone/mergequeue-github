@@ -1217,7 +1217,6 @@ defuse
 dinosaur
 daterman
 daters
-dates
 datil
 dating
 denormalized
@@ -1813,6 +1812,7 @@ debilitates
 debilitation
 debilitations
 debilitative
+dates
 debility
 debind
 disanimating
