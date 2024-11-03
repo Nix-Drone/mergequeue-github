@@ -2100,6 +2100,7 @@ environment
 elance
 elanet
 elans
+equisided
 elanus
 elaphebolion
 elaphine
@@ -8764,7 +8765,6 @@ ecstatics
 equisetales
 equisetic
 equisetum
-equisided
 edaphically
 equisignal
 epicyclic
