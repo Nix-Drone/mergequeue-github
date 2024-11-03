@@ -6906,6 +6906,7 @@ cements
 cementum
 cementwork
 cemetary
+collectorate
 cemetaries
 cemetery
 cemeterial
@@ -18953,7 +18954,6 @@ collectivizes
 collectivizing
 collectivum
 companies
-collectorate
 collectors
 collectorship
 collectress
