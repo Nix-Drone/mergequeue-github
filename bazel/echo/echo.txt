@@ -2876,6 +2876,7 @@ elevations
 elevator
 electrophorus
 eleve
+endnote
 endplate
 escalators
 eleven
@@ -5056,7 +5057,6 @@ endosteally
 endlong
 endmost
 electrocoating
-endnote
 endnotes
 endoangiitis
 exemplum
