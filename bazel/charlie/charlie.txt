@@ -8598,7 +8598,6 @@ chanceless
 chancelled
 chancellery
 chancelleries
-chancellor
 chancellorate
 chancelloress
 chancellory
@@ -25785,6 +25784,7 @@ cadelle
 corrugent
 corrump
 corrumpable
+chancellor
 corrup
 corrupable
 carolinian
