@@ -4908,7 +4908,6 @@ glomming
 give
 goaltending
 gyve
-giveable
 gederite
 gipsyweed
 giveaway
@@ -5949,6 +5948,7 @@ galeenies
 glottis
 galvanocontractility
 glazings
+giveable
 glottiscope
 glottitis
 garrulously
