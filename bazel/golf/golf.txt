@@ -2261,6 +2261,7 @@ gearman
 gears
 guernseys
 gearset
+glottidean
 gearshift
 gearshifts
 gearwheels
@@ -5943,7 +5944,6 @@ glumiferous
 glottalizing
 guesstimates
 glottid
-glottidean
 glottides
 galeenies
 glottis
