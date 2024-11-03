@@ -4508,6 +4508,7 @@ beclaw
 beclip
 besieged
 becloak
+burtons
 belchers
 becloaking
 becloaks
@@ -17902,7 +17903,6 @@ berate
 burthensome
 burtonization
 burtonize
-burtons
 burtree
 blastema
 burundi
