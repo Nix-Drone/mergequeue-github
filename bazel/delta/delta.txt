@@ -3581,7 +3581,6 @@ defunctionalization
 defunctionalize
 defunctive
 defused
-defuses
 defusion
 dingles
 dolman
@@ -4214,6 +4213,7 @@ delirium
 derivably
 delirous
 delis
+defuses
 divaricately
 delist
 delisted
