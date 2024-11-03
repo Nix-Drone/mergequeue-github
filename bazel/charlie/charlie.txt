@@ -2316,6 +2316,7 @@ cancerroot
 cancerweed
 cancerwort
 canch
+costs
 cancha
 canchalagua
 crocard
@@ -26264,7 +26265,6 @@ costovertebral
 costoxiphoid
 costraight
 costrels
-costs
 costulation
 costume
 costumed
