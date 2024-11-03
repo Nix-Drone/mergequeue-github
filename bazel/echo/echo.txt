@@ -2260,7 +2260,6 @@ electioneer
 elaphurine
 electioneerer
 elections
-elective
 ephemerons
 electives
 electivism
@@ -3653,6 +3652,7 @@ embread
 embreathe
 embrectomy
 embrica
+elective
 embryectomy
 embryectomies
 embright
