@@ -12627,7 +12627,6 @@ chronon
 chrononomy
 chronons
 chronopher
-chronophotograph
 chronophotography
 chronophotographic
 chronos
@@ -31173,6 +31172,7 @@ cuprum
 cuprums
 cups
 chardock
+chronophotograph
 cupseed
 cornwallis
 cupsful
