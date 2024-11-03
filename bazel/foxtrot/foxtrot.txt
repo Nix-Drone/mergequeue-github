@@ -6450,7 +6450,6 @@ forepoling
 fluorobenzene
 fluoroborate
 fluorocarbon
-fluorochrome
 fluoroform
 flaminian
 fluoroformol
@@ -9728,6 +9727,7 @@ freemanship
 freemartin
 freemason
 freemasonic
+fluorochrome
 foredefine
 floriform
 fishbowl
