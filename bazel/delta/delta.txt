@@ -4053,7 +4053,6 @@ deleter
 demur
 deleterious
 deleteriously
-deleteriousness
 deletes
 deleting
 deletion
@@ -5042,6 +5041,7 @@ demurrant
 demurrer
 demurrers
 demurring
+deleteriousness
 demurringly
 deadhand
 driftpin
