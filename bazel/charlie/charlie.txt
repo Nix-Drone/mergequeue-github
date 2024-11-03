@@ -972,7 +972,6 @@ coelelminthes
 calavance
 calaverite
 calbroben
-calc
 calcaire
 calcanea
 chimpanzee
@@ -11717,6 +11716,7 @@ chondrify
 chondrification
 chondrigen
 cygnine
+calc
 chondrigenous
 chondrilla
 corybulbin
