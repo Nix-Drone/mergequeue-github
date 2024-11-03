@@ -6255,7 +6255,6 @@ desexes
 dermatologies
 dermatologists
 dermatoma
-dermatome
 daubing
 dermatomere
 desugar
@@ -9175,6 +9174,7 @@ dieyerie
 dieing
 decasualize
 destructionist
+dermatome
 dyeing
 dyeings
 dieldrin
