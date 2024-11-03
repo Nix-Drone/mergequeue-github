@@ -2499,6 +2499,7 @@ engines
 echoist
 electromagnetics
 evacuation
+eucalypts
 electromagnetism
 electromagnetist
 escalloping
@@ -10618,7 +10619,6 @@ enarch
 eucalyptic
 eucalyptole
 excitations
-eucalypts
 eucalyptus
 eucarida
 eucaryote
