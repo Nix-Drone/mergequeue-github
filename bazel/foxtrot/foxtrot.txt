@@ -5903,7 +5903,6 @@ floodage
 floodboard
 fabiform
 flooded
-flinthead
 flooder
 flooders
 floodgate
@@ -11468,6 +11467,7 @@ foreranks
 fragged
 furnit
 furniture
+flinthead
 furodiazole
 furoic
 foraminated
