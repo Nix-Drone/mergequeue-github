@@ -8003,7 +8003,6 @@ granite
 granitelike
 granites
 graniteware
-granitiferous
 granitification
 granitiform
 granitite
@@ -10415,6 +10414,7 @@ gummaking
 gummas
 gummata
 gneissy
+granitiferous
 gypsumed
 glandula
 gummed
