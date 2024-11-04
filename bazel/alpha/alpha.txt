@@ -930,7 +930,6 @@ ascochyta
 absentation
 absented
 absentee
-absentees
 absenter
 absenters
 absentia
@@ -24165,6 +24164,7 @@ autoloaders
 autoloading
 autology
 autological
+absentees
 autologist
 autologous
 autoluminescence
