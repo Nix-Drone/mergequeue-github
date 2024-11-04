@@ -3815,7 +3815,6 @@ barnstorms
 battler
 battles
 battleship
-battleships
 buhr
 battlesome
 boatfalls
@@ -14353,6 +14352,7 @@ brainteaser
 brainteasers
 brainward
 brachygraphy
+battleships
 birdshots
 bitterly
 brainwash
