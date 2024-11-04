@@ -6033,7 +6033,6 @@ depurate
 depurating
 depuration
 depurative
-depurator
 depuratory
 depure
 depurge
@@ -15213,6 +15212,7 @@ dolls
 dollship
 dolmans
 diluviums
+depurator
 dolmas
 dolmen
 dolmenic
