@@ -3371,7 +3371,6 @@ gerkin
 gonagia
 gerland
 ganglands
-gnatcatcher
 gopherroot
 gipons
 guilelessly
@@ -8658,6 +8657,7 @@ greenery
 glossingly
 greeneries
 grubby
+gnatcatcher
 gambit
 garrets
 greenfinch
