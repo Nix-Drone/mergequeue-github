@@ -4205,7 +4205,6 @@ flosh
 firelit
 firelocks
 firemanship
-fragmentize
 firepink
 firepinks
 frat
@@ -11743,6 +11742,7 @@ fuzz
 fuzzball
 fuzzed
 fuzzes
+fragmentize
 flexura
 fautorship
 fuzzier
