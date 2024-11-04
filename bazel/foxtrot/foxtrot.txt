@@ -7259,7 +7259,6 @@ footslogger
 forgift
 footsoldiers
 finnmarks
-footsore
 footsores
 footstalk
 forecasts
@@ -8029,6 +8028,7 @@ forest
 forthteller
 forestaff
 forestaffs
+footsore
 forestage
 forestay
 forestair
