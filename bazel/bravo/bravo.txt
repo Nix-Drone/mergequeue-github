@@ -3588,6 +3588,7 @@ bather
 bathers
 bathes
 bathetically
+botaniser
 bathflower
 bathhouse
 bathhouses
@@ -13247,7 +13248,6 @@ botanicas
 botanics
 botanies
 botanise
-botaniser
 botanises
 botanising
 botanist
