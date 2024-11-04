@@ -3626,7 +3626,6 @@ filespec
 forficula
 fossores
 fileting
-floatboard
 fylfot
 fili
 findfault
@@ -10611,6 +10610,7 @@ frozenness
 frsiket
 frsikets
 frt
+floatboard
 foughty
 feuar
 frubbish
