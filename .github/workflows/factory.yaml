@@ -4,8 +4,9 @@ name: PR Factory
 
 on:
   workflow_dispatch: {}
-  schedule:
-    - cron: "0 * * * *"
+  # disable cron job
+  # schedule:
+  #   - cron: "0 * * * *"
 
 jobs:
   create-pr:
