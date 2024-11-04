@@ -168,7 +168,6 @@ abatua
 abature
 abaue
 abave
-abaxial
 abaxile
 abaze
 abb
@@ -20337,6 +20336,7 @@ arrowbush
 arrowhead
 arrowheaded
 arrowheads
+abaxial
 arrowy
 arrowing
 arrowleaf
