@@ -13893,7 +13893,6 @@ angstrom
 aqueduct
 anoscopy
 anatomicosurgical
-anosmatic
 anosmia
 anosmias
 amyelonic
@@ -22439,6 +22438,7 @@ ataxias
 ataxic
 ataxies
 ataxinomic
+anosmatic
 ahind
 ataxophemia
 atazir
