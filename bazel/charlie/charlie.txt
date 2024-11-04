@@ -5066,7 +5066,6 @@ casehardened
 casehardening
 casehardens
 casey
-caseic
 casein
 caseinate
 cordites
@@ -9224,6 +9223,7 @@ chassepots
 chyliferous
 chasses
 chasseurs
+caseic
 chassignite
 coachful
 chassis
