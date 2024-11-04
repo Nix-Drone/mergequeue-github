@@ -1632,7 +1632,6 @@ calpacs
 calpolli
 calpul
 calpulli
-calque
 calqued
 chambrel
 calques
@@ -18937,6 +18936,7 @@ collections
 collective
 collectively
 collectives
+calque
 collectivise
 compensate
 collectivism
