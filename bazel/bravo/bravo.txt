@@ -3452,6 +3452,7 @@ basswoods
 begalling
 basta
 bastaard
+brusque
 bastant
 bastard
 bastarda
@@ -16430,7 +16431,6 @@ bruskly
 bruskness
 benames
 barbeled
-brusque
 brusquely
 brusqueness
 buffa
