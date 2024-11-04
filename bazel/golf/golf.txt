@@ -590,6 +590,7 @@ gyrowheel
 goldfields
 gallein
 galipoidin
+gimble
 galleins
 galleypot
 galleys
@@ -4197,7 +4198,6 @@ groundsheet
 groining
 guildry
 gimberjawed
-gimble
 gimblet
 gimbri
 gimcrack
