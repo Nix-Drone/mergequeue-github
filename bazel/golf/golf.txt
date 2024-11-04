@@ -910,7 +910,6 @@ gambits
 gonotocont
 guillemot
 gamble
-gambler
 gamblesome
 gamblesomeness
 genseng
@@ -3236,6 +3235,7 @@ geoscientist
 geoscientists
 geoscopy
 gelasian
+gambler
 grondwet
 gnawable
 geoscopic
