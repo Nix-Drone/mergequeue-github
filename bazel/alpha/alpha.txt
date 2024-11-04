@@ -1303,7 +1303,6 @@ acanthon
 acanthopanax
 acanthophis
 acanthophorous
-acanthopod
 acanthopodous
 adalid
 acanthopomatous
@@ -16489,6 +16488,7 @@ antlike
 antling
 antlion
 antlions
+acanthopod
 antlophobia
 antocular
 antodontalgic
