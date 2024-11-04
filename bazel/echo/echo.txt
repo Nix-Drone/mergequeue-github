@@ -3889,6 +3889,7 @@ emforth
 emic
 emicant
 emicate
+epicycle
 emication
 emyde
 emydea
@@ -7662,7 +7663,6 @@ epicleidium
 estivage
 epicly
 epiclidal
-epicycle
 expectance
 epiclike
 epiclinal
