@@ -1617,7 +1617,6 @@ dozening
 divergency
 deamidase
 deamidation
-deamidization
 delimitated
 deaminase
 deaminate
@@ -9156,6 +9155,7 @@ desoxycinchonine
 dyeability
 dyeable
 ditriglyph
+deamidization
 dieb
 diebacks
 dyebeck
