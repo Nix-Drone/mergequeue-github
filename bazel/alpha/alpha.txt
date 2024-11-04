@@ -5381,7 +5381,6 @@ afflicts
 affloof
 affluence
 affluency
-affluent
 affluently
 affluentness
 affluents
@@ -12861,6 +12860,7 @@ avenger
 asteraceous
 anglian
 anglians
+affluent
 anglic
 anglican
 anglicanism
