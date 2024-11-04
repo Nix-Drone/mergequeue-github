@@ -12464,7 +12464,6 @@ anelasticity
 anele
 anelectric
 anelectrode
-anelectrotonus
 aneled
 aneles
 antidotically
@@ -16367,6 +16366,7 @@ antithetical
 antithetically
 antithetics
 achropsia
+anelectrotonus
 antithyroid
 anilid
 antitintinnabularian
