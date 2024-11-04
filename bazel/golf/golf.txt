@@ -501,7 +501,6 @@ galeodidae
 galeoid
 gnapweed
 galeopsis
-glossoncus
 galeorchis
 goner
 geelhout
@@ -5407,6 +5406,7 @@ glistens
 glycerins
 glycerite
 glycerize
+glossoncus
 glycerizin
 glycerol
 glycerolate
