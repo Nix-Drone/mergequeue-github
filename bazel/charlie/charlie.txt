@@ -7856,7 +7856,6 @@ cerviconasal
 cervicoscapular
 cervicothoracic
 cervicovesical
-cervid
 cervinae
 cervine
 cervisial
@@ -10918,6 +10917,7 @@ chirk
 chirked
 chirkest
 chirking
+cervid
 chirks
 chirl
 chirm
