@@ -6436,7 +6436,6 @@ benzinduline
 bethinking
 benzine
 benzines
-benzins
 benzoate
 bisectrix
 benzoates
@@ -10741,6 +10740,7 @@ batman
 bakership
 blepharocera
 blepharoceridae
+benzins
 blepharochromidrosis
 blepharoclonus
 blepharocoloboma
