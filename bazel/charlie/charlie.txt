@@ -3625,7 +3625,6 @@ caravansary
 caravansaries
 caravanserai
 caravanserial
-caravel
 confuse
 caravels
 colorability
@@ -11624,6 +11623,7 @@ chappie
 choleric
 cholerically
 cholericly
+caravel
 cholericness
 choleriform
 cholerigenous
