@@ -5516,7 +5516,6 @@ chiton
 catalogistic
 catalogize
 catalogs
-catalogued
 cataloguer
 catalogues
 cataloguing
@@ -29869,6 +29868,7 @@ crosshand
 crosshatch
 crosshatched
 crosshatcher
+catalogued
 crosshatches
 cogwheel
 crosshatching
