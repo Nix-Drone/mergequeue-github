@@ -6921,6 +6921,7 @@ browband
 bescorched
 bruchid
 bassnesses
+bleachability
 bescorching
 bescorn
 bescoundrel
@@ -10562,7 +10563,6 @@ bld
 bothriocidaris
 blea
 bleach
-bleachability
 bleachable
 bleached
 bleacher
