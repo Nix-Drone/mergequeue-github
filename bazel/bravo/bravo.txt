@@ -3518,7 +3518,6 @@ barramundis
 bander
 bat
 bataan
-batable
 batad
 brocket
 batak
@@ -8041,6 +8040,7 @@ bice
 bicellular
 bicentennial
 bicentennials
+batable
 batocrinus
 bicentric
 bicentricity
