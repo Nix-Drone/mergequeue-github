@@ -8366,7 +8366,6 @@ embrown
 epitheliolytic
 epithelioma
 epitheliomas
-epitheliomata
 egyptians
 epitheliomuscular
 epitheliosis
@@ -12809,6 +12808,7 @@ exosmoses
 exosmosis
 empty
 exosmotic
+epitheliomata
 electre
 esquamate
 ecchymoses
