@@ -3564,7 +3564,6 @@ addressers
 addresses
 auxetics
 addressful
-addressing
 acanthocephalan
 addressograph
 addressor
@@ -21426,6 +21425,7 @@ aspersion
 aspersions
 anticipatorily
 aspersive
+addressing
 allagophyllous
 aspersively
 aspersoir
