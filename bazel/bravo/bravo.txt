@@ -4509,7 +4509,6 @@ beclip
 besieged
 becloak
 belchers
-becloaking
 becloaks
 beclog
 beclogged
@@ -12258,6 +12257,7 @@ bombardier
 bombardiers
 bombarding
 bombardman
+becloaking
 boughless
 biopsies
 bombardmen
