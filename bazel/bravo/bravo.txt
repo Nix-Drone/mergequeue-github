@@ -4062,7 +4062,6 @@ beadles
 babul
 beadleship
 beadlet
-beadman
 beadmen
 billjim
 beadroll
@@ -7936,6 +7935,7 @@ bibliographic
 biocatalytic
 bibliographically
 bibliographies
+beadman
 bealtuinn
 benny
 bibliographize
