@@ -3211,7 +3211,6 @@ capnomor
 connivant
 capo
 capoc
-capocchia
 capoche
 capomo
 chrysomelidae
@@ -20285,6 +20284,7 @@ communes
 communicability
 communicable
 communicably
+capocchia
 communicant
 communicate
 communicates
