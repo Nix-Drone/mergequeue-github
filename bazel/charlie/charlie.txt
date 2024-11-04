@@ -19458,7 +19458,6 @@ colourist
 colouristic
 colourize
 colourless
-colourlessness
 colourman
 colours
 colourtype
@@ -22911,6 +22910,7 @@ consilient
 consimilar
 consimilate
 carnified
+colourlessness
 consimilated
 consimilating
 clapboard
