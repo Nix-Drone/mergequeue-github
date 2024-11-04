@@ -15165,7 +15165,6 @@ ckw
 combine
 cl
 clabber
-compellation
 clabbered
 clabbery
 clabbering
@@ -30046,6 +30045,7 @@ crowdedness
 crowder
 crowders
 cmdg
+compellation
 crowdy
 crowdie
 crowdies
