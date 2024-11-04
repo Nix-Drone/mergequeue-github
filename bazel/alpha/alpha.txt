@@ -3133,7 +3133,6 @@ allogeneity
 actinomycosis
 analcime
 actinomycosistic
-actinomycotic
 actinomyxidia
 actinomyxidiida
 albitophyre
@@ -25268,6 +25267,7 @@ azimino
 aziminobenzene
 azymite
 azymous
+actinomycotic
 apostume
 azimuth
 azimuthal
