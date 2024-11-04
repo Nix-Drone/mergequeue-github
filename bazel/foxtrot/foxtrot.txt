@@ -4826,6 +4826,7 @@ feridji
 flayed
 fault
 front
+flameproofer
 flayer
 flaying
 flailed
@@ -4905,7 +4906,6 @@ flameout
 flameouts
 flameproof
 formulize
-flameproofer
 flintlocks
 finfishes
 flamer
