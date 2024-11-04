@@ -4894,7 +4894,6 @@ confessionist
 cartographically
 cartographies
 cartomancy
-cartomancies
 carton
 cartoner
 cartonful
@@ -13515,6 +13514,7 @@ craspedum
 cigarillos
 cigaritos
 cigars
+cartomancies
 cnidogenous
 cygneous
 cygnets
