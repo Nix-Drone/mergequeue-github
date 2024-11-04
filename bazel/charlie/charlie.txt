@@ -11349,7 +11349,6 @@ chalices
 chloromycetin
 cotraitor
 chloronaphthalene
-chloronitrate
 chloropal
 chloropalladates
 chloropalladic
@@ -27490,6 +27489,7 @@ coverts
 coverup
 circularizer
 cadency
+chloronitrate
 coves
 covet
 covetable
