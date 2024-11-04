@@ -1700,7 +1700,6 @@ fdnames
 fdtype
 fdub
 fortuitousness
-fe
 forksmith
 feaberry
 frugivora
@@ -7380,6 +7379,7 @@ featous
 footlessly
 forbidden
 foobar
+fe
 forbiddenly
 focometry
 fissidens
