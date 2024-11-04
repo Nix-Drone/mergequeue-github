@@ -682,7 +682,6 @@ gadaea
 geodesy
 galliot
 galliots
-gurnets
 gallipot
 gallipots
 gallirallus
@@ -9073,6 +9072,7 @@ grimsir
 grimsire
 grin
 germination
+gurnets
 grinch
 grincome
 grimgribber
