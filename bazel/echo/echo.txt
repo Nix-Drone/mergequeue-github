@@ -6661,7 +6661,6 @@ enterogastrone
 egrimonle
 enterogenous
 enterogram
-enterograph
 enterography
 enterohemorrhage
 enterohydrocele
@@ -7352,6 +7351,7 @@ eosinic
 ergatogynous
 eosinlike
 eosinoblast
+enterograph
 ennage
 enharbor
 eosinophile
