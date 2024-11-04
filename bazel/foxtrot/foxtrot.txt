@@ -4421,7 +4421,6 @@ fishpotter
 fishskin
 fishspear
 fishtail
-fishtailed
 flether
 fishtails
 fishway
@@ -10976,6 +10975,7 @@ fulsamic
 fulsomely
 fulsomeness
 fulth
+fishtailed
 fussiest
 flagstone
 foreseing
