@@ -1490,7 +1490,6 @@ deactivators
 defrosts
 deadborn
 deadcenter
-deeryards
 deadeye
 deaden
 deadened
@@ -17821,6 +17820,7 @@ deperm
 dotiness
 duckstone
 decussion
+deeryards
 ducktail
 duckweed
 duckweeds
