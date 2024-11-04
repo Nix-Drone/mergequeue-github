@@ -9940,7 +9940,6 @@ cancers
 chemosterilants
 chemosurgery
 chemosurgical
-chemotactic
 chemotactically
 chemotaxy
 chemotaxis
@@ -13387,6 +13386,7 @@ cyclopentadiene
 cyclopentanone
 cyclopentene
 cyclopes
+chemotactic
 cyclophoria
 cyclophorus
 curfewing
