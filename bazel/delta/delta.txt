@@ -8740,7 +8740,6 @@ diazins
 diazo
 diazoalkane
 diazoamin
-depeter
 diazoamine
 diazoaminobenzene
 diazoanhydride
@@ -10298,6 +10297,7 @@ dioptometer
 discophore
 dioptometry
 dismemberer
+depeter
 dioptomiter
 dioptra
 dioptral
