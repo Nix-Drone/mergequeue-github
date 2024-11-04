@@ -6803,7 +6803,6 @@ foiter
 fokker
 fol
 folacin
-folacins
 franklandite
 folate
 folates
@@ -9241,6 +9240,7 @@ fractioning
 fractionisation
 fractionise
 fractionised
+folacins
 fixedness
 fractionising
 favonius
