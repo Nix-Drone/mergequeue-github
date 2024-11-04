@@ -3671,7 +3671,6 @@ everse
 embryoism
 epithelioglandular
 embryology
-embryologic
 embryological
 embryologically
 eclampsia
@@ -8039,6 +8038,7 @@ epinikion
 epinine
 epionychia
 epiopticon
+embryologic
 epiotic
 epipactis
 epirrhematic
