@@ -8721,6 +8721,7 @@ expander
 equipluve
 equipment
 equipments
+espieglerie
 equipoised
 equipoising
 equipollence
@@ -9792,7 +9793,6 @@ espial
 enforcer
 espichellite
 eucleid
-espieglerie
 espiegleries
 espies
 espigle
