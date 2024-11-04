@@ -6970,6 +6970,7 @@ follis
 feuille
 fatheads
 follow
+foreannounce
 followable
 followed
 follower
@@ -7501,7 +7502,6 @@ foreadvise
 forearmed
 foreallege
 foreallot
-foreannounce
 flatuses
 foreappoint
 foreappointment
