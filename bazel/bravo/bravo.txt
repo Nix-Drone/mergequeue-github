@@ -3014,7 +3014,6 @@ barriers
 barriguda
 barrigudos
 broadaxe
-barrikin
 burled
 barriness
 barring
@@ -11292,6 +11291,7 @@ blubbers
 blubbing
 blucher
 bluchers
+barrikin
 bludge
 bludged
 bludgeon
