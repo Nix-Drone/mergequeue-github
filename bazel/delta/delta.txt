@@ -7225,6 +7225,7 @@ determinacy
 distruss
 determinant
 determinantal
+dompt
 domage
 deflectional
 decidual
@@ -15420,7 +15421,6 @@ domn
 domnei
 dural
 domoid
-dompt
 dompteuse
 doms
 domus
