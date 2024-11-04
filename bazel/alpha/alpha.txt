@@ -5692,7 +5692,6 @@ aftersound
 afterspeech
 afterspring
 appetisse
-afterstorm
 afterstretch
 afterstudy
 aftersupper
@@ -9732,6 +9731,7 @@ amalgamates
 amalgamating
 antimonarchical
 amalgamation
+afterstorm
 amalgamationist
 amalgamations
 amalgamative
