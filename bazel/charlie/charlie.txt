@@ -15278,7 +15278,6 @@ claimers
 claymore
 claims
 claimsman
-claimsmen
 clayoquot
 claypans
 clair
@@ -21098,6 +21097,7 @@ concaving
 concavity
 concavities
 concavo
+claimsmen
 conceal
 concealable
 culicide
