@@ -3820,6 +3820,7 @@ buhr
 battlesome
 boatfalls
 banderilla
+blabs
 battlestead
 battlewagon
 battleward
@@ -17562,7 +17563,6 @@ burdeners
 burdening
 burdenless
 burdenous
-blabs
 burdens
 bobadilish
 burdensome
