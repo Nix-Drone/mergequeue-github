@@ -5734,6 +5734,7 @@ deplaceable
 deplane
 deplaned
 deplaning
+dimissaries
 deplant
 deplantation
 deplasmolysis
@@ -9932,7 +9933,6 @@ diminutival
 disgarrison
 dimiss
 deindustrialization
-dimissaries
 dimission
 dimity
 dimities
