@@ -4727,6 +4727,7 @@ aedicula
 aediculae
 aedicule
 aedile
+axisymmetry
 aediles
 aedileship
 albuminizing
@@ -25146,7 +25147,6 @@ axioms
 axiopisty
 axis
 axises
-axisymmetry
 axisymmetrical
 axisymmetrically
 axite
