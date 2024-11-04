@@ -1713,7 +1713,6 @@ deaths
 deathsman
 deathsmen
 depaysee
-deathtime
 deathtrap
 deathtraps
 deathward
@@ -6533,6 +6532,7 @@ descure
 desdemona
 deseam
 depancreatize
+deathtime
 dished
 deseasonalize
 desecrate
