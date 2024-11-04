@@ -3023,7 +3023,6 @@ deeming
 deemphasis
 darkest
 deemphasize
-deemphasized
 deemster
 deemsters
 dendroid
@@ -11899,6 +11898,7 @@ disembarkation
 disembarkations
 disembarked
 disembarking
+deemphasized
 dentoid
 disembarks
 disembarrass
