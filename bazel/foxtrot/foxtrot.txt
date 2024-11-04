@@ -4073,6 +4073,7 @@ finlet
 finlike
 finmark
 finmarks
+fulmineous
 finnac
 finnan
 finned
@@ -9855,7 +9856,6 @@ fraicheur
 frenzied
 fishbone
 frenzies
-fulmineous
 freq
 frequence
 frequency
