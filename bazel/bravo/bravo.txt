@@ -3129,7 +3129,6 @@ baculite
 bipropellant
 bascules
 bascunan
-base
 baseball
 bojite
 belzebuth
@@ -3618,6 +3617,7 @@ bathymetry
 bathymetric
 bathymetrical
 bathinette
+base
 bathing
 bulreedy
 bathypelagic
