@@ -3797,7 +3797,6 @@ ghostwriter
 ghostwriters
 ghostwrites
 ghostwriting
-ghostwritten
 ghostwrote
 giggler
 gretel
@@ -6987,6 +6986,7 @@ goodly
 goodlier
 goodliest
 gingerly
+ghostwritten
 goodlihead
 goodliness
 goodmanship
