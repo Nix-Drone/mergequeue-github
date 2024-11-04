@@ -1498,6 +1498,7 @@ fringing
 fatuitousness
 fatuoid
 flagellants
+fdname
 fatuous
 fatuousness
 fatuus
@@ -4883,7 +4884,6 @@ feminacy
 frizzers
 flowerful
 fatherhood
-fdname
 flamboyantize
 flamboyantly
 flamboyer
