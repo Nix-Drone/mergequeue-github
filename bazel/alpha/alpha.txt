@@ -3708,7 +3708,6 @@ adenomyofibroma
 adenomyoma
 agapornis
 adenomyxosarcoma
-adenoncus
 adenoneural
 adenoneure
 adenopharyngeal
@@ -6926,6 +6925,7 @@ airn
 aloadae
 airns
 airometer
+adenoncus
 airpark
 airphobia
 airplay
