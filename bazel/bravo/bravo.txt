@@ -878,7 +878,6 @@ bagattino
 bagaudae
 bagdad
 bagdi
-bagel
 bagels
 bagful
 bagfuls
@@ -3030,6 +3029,7 @@ barristers
 barristress
 barroom
 barrowful
+bagel
 barrowman
 barrulee
 barruly
