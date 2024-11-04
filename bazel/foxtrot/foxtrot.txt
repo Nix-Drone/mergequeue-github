@@ -102,6 +102,7 @@ fantoms
 faciation
 forequoted
 facie
+furnishable
 freeport
 fibroelastic
 faciend
@@ -11451,7 +11452,6 @@ furnariides
 fossilify
 furnarius
 furnish
-furnishable
 flannelmouthed
 foregather
 frustrable
