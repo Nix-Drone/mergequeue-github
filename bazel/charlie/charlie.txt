@@ -15428,6 +15428,7 @@ clansfolk
 clanship
 clansman
 clansmen
+crucibulum
 clanswoman
 cyprinodontidae
 clanswomen
@@ -30125,7 +30126,6 @@ cruciating
 cruciation
 crucible
 crucibles
-crucibulum
 crucifer
 cruciferae
 cruciferous
