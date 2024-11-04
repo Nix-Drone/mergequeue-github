@@ -7554,7 +7554,6 @@ gpm
 gps
 gr
 gies
-glucogenic
 graafian
 graal
 grab
@@ -10401,6 +10400,7 @@ gumdrops
 gumhar
 gumi
 grovelings
+glucogenic
 gumless
 gigman
 gumly
