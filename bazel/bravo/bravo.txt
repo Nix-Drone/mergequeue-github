@@ -6113,7 +6113,6 @@ bemuzzle
 bemuzzled
 bol
 belswagger
-bemuzzles
 ben
 bena
 benab
@@ -8579,6 +8578,7 @@ bilin
 bylina
 boran
 byline
+bemuzzles
 bilinear
 boardmanship
 berun
