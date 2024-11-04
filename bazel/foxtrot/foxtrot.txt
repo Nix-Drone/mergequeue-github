@@ -8094,7 +8094,6 @@ foresummon
 foreswear
 foreswearing
 funkiest
-foresweat
 foreswore
 fumacious
 foret
@@ -8383,6 +8382,7 @@ flange
 formalities
 formalizable
 formalization
+foresweat
 fogyism
 formalizations
 formerness
