@@ -3607,7 +3607,6 @@ geswarp
 geta
 gallivorous
 getable
-getae
 glycolide
 geoty
 gizzen
@@ -9933,6 +9932,7 @@ guardrail
 guardrails
 gelasimus
 guardroom
+getae
 guards
 guarico
 gatewards
