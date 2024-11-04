@@ -4831,6 +4831,7 @@ flaying
 flailed
 fluidify
 flailing
+furnisher
 fossilologist
 flaillike
 flain
@@ -6102,7 +6103,6 @@ flote
 fustin
 fragor
 felspar
-furnisher
 flotsams
 fishmeal
 freighter
