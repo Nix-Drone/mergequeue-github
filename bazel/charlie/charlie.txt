@@ -19726,7 +19726,6 @@ comburimeter
 comburivorous
 combust
 combusted
-corotation
 combustibilities
 combustible
 combustibleness
@@ -26887,6 +26886,7 @@ countermaid
 counterman
 countermand
 countermandable
+corotation
 countermanded
 countermanding
 countermaneuver
