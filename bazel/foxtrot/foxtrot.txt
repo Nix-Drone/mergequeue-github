@@ -4150,6 +4150,7 @@ forestery
 fireboot
 firebox
 frogflower
+foals
 familiarism
 foreaccounting
 fluavil
@@ -6619,7 +6620,6 @@ foothill
 filace
 foaly
 foaling
-foals
 forestick
 foam
 foambow
