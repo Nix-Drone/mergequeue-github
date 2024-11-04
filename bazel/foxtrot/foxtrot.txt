@@ -7311,7 +7311,6 @@ footstep
 fora
 forage
 facers
-foraged
 fluttery
 foragement
 forager
@@ -8388,6 +8387,7 @@ formalizations
 formerness
 formalized
 formalizer
+foraged
 foreknowledge
 fettuccine
 formally
