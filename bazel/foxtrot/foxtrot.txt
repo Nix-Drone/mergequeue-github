@@ -4338,6 +4338,7 @@ fischerite
 foresleeve
 friendlies
 fisk
+fergusite
 fise
 forb
 fisetin
@@ -4887,7 +4888,6 @@ fdname
 flamboyantize
 flamboyantly
 flamboyer
-fergusite
 fill
 flamed
 flamefishes
