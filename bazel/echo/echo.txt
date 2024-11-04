@@ -2516,7 +2516,6 @@ electrometallurgical
 eye
 electrometer
 enage
-electrometric
 electrometrical
 electrometrically
 electromyogram
@@ -6421,6 +6420,7 @@ ensiling
 exsection
 ensilist
 ensilver
+electrometric
 ensindon
 exarteritis
 ensisternum
