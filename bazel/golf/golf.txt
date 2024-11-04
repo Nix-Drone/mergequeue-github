@@ -1931,7 +1931,6 @@ gate
 gateage
 gatecrasher
 gatecrashers
-gated
 gatefold
 grapefruits
 gatehouse
@@ -4530,6 +4529,7 @@ groundsill
 ginnet
 ginny
 ginnier
+gated
 ginnings
 ginnle
 gynobaseous
