@@ -616,7 +616,6 @@ abnormalities
 abnormalized
 abnormalizing
 abnormally
-abnormalness
 abnormals
 abnormity
 abnormities
@@ -6278,6 +6277,7 @@ agnomens
 agnomical
 agnomina
 ababua
+abnormalness
 agnominal
 antirennet
 agnomination
