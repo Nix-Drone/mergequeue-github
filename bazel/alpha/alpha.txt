@@ -23385,7 +23385,6 @@ augment
 augmentable
 augmentation
 augmentations
-augmentative
 augmentatively
 augmented
 augmentedly
@@ -24608,6 +24607,7 @@ afrogaean
 avenalin
 avenant
 avenary
+augmentative
 avener
 avenery
 avenge
