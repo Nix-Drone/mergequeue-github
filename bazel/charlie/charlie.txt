@@ -9922,7 +9922,6 @@ chemosensitivities
 chemoserotherapy
 chemoses
 chemosynthesis
-chemosynthetic
 chemosis
 chemosmoic
 chemosmoses
@@ -16173,6 +16172,7 @@ chirimoyer
 climbed
 climber
 chirker
+chemosynthetic
 climbers
 cheetal
 chromosantonin
