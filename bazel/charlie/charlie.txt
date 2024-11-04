@@ -6014,6 +6014,7 @@ catostomid
 catostomoid
 catouse
 catproof
+checkrooms
 catrigged
 cats
 catskill
@@ -9563,7 +9564,6 @@ checkrein
 checkroll
 checkroom
 compathy
-checkrooms
 checkrope
 checkrow
 checkrower
