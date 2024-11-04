@@ -9594,7 +9594,6 @@ biscutate
 bisdiapason
 babbitter
 bisdimethylamino
-bisect
 brangled
 bisected
 bisecting
@@ -15322,6 +15321,7 @@ bot
 briefest
 briefing
 briefings
+bisect
 brieflessly
 brieflessness
 briefness
