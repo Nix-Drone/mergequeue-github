@@ -3853,7 +3853,6 @@ carburettor
 carburisation
 carburise
 carburised
-carburiser
 carburization
 carburize
 carburized
@@ -13720,6 +13719,7 @@ cymographic
 colubrid
 cymoid
 cenacles
+carburiser
 cysticercus
 cymoidium
 cymol
