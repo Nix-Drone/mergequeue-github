@@ -2720,6 +2720,7 @@ branchiate
 barleducs
 barley
 barleybrake
+bellatrix
 barleybreak
 barleycorn
 barleyhood
@@ -5771,7 +5772,6 @@ bell
 bellacoola
 belladonna
 biltongs
-bellatrix
 burglar
 bellbind
 buckjump
