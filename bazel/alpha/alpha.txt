@@ -1007,7 +1007,6 @@ arius
 adiathermanous
 absorbability
 absorbable
-absorbance
 absorbancy
 absorbant
 absorbed
@@ -4147,6 +4146,7 @@ admit
 admits
 admittable
 admittance
+absorbance
 admittances
 admittatur
 admitted
