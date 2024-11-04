@@ -1604,7 +1604,6 @@ calorimetric
 calorimetrical
 calorimetrically
 calorimotor
-calorisator
 calorist
 calorite
 calorize
@@ -11555,6 +11554,7 @@ cholecystectasia
 cholecystectomy
 cholecystectomized
 cholecystenterorrhaphy
+calorisator
 cholecystenterostomy
 cholecystgastrostomy
 cholecystic
