@@ -6933,7 +6933,6 @@ airplane
 airplaned
 airplaner
 airplanes
-airplanist
 acieral
 airplot
 airport
@@ -22639,6 +22638,7 @@ athwartships
 athwartwise
 ablating
 arhar
+airplanist
 atikokania
 atilt
 atimy
