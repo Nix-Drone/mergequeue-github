@@ -5658,6 +5658,7 @@ globalizing
 gamori
 globe
 guinea
+growthless
 globefish
 gol
 globefishes
@@ -9585,7 +9586,6 @@ growthy
 gorevan
 gavot
 growthiness
-growthless
 grs
 growths
 guacico
