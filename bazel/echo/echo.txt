@@ -9730,7 +9730,6 @@ esophagostenosis
 esophagostomy
 endorsor
 esophagotome
-esophagus
 esophoria
 esophoric
 eremacausis
@@ -13905,6 +13904,7 @@ extraorganismal
 electrolytical
 extraovate
 ergamine
+esophagus
 expellant
 epistomata
 enseat
