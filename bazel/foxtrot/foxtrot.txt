@@ -5066,6 +5066,7 @@ flashlamp
 flashlight
 flashlike
 futilitarian
+fey
 forellenstein
 frothi
 flashness
@@ -7427,7 +7428,6 @@ fallacious
 forcement
 forcene
 forceps
-fey
 forceput
 fazing
 forces
