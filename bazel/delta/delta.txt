@@ -1179,6 +1179,7 @@ datacell
 datafile
 dataflow
 datagram
+dumbfound
 datagrams
 deescalating
 datakit
@@ -18082,7 +18083,6 @@ damia
 dumbed
 dumber
 dumbest
-dumbfound
 dumbfounded
 dumbfounder
 dumbfounderment
