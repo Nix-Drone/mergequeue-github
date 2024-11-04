@@ -6163,7 +6163,6 @@ glutelins
 glutenin
 glutenous
 glutens
-gluteofemoral
 gluteoinguinal
 glutethimide
 gluteus
@@ -6836,6 +6835,7 @@ goniatitid
 gonyaulax
 gonycampsis
 gonid
+gluteofemoral
 gallberry
 gonydeal
 gonidial
