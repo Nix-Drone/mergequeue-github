@@ -4921,7 +4921,6 @@ end
 endable
 endamage
 endamageable
-endamagement
 endamages
 endamaging
 endameba
@@ -6571,6 +6570,7 @@ entapophysis
 entasia
 entasias
 entasis
+endamagement
 entea
 erns
 enaction
