@@ -6947,7 +6947,6 @@ airscape
 airscapes
 airscrews
 airsheds
-airships
 airsick
 airsickness
 airsome
@@ -12564,6 +12563,7 @@ anesthesimeter
 anesthesiology
 anesthesiologies
 alumstone
+airships
 anesthesiologist
 anesthesiologists
 anesthesis
