@@ -15813,7 +15813,6 @@ clean
 cleanable
 cleaned
 cleaner
-cleanest
 cleanhanded
 cleanhandedness
 cleanhearted
@@ -17575,6 +17574,7 @@ coch
 cuckoomaiden
 cochair
 cochairing
+cleanest
 chlorothiazide
 cochairman
 cocher
