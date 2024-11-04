@@ -2876,7 +2876,6 @@ acrocyanosis
 acrocyst
 achenocarp
 acrock
-acrospore
 acroclinium
 acrocomia
 acroconidium
@@ -22623,6 +22622,7 @@ athrepsia
 athrill
 antithesism
 athrive
+acrospore
 athrocyte
 athrocytosis
 averaged
