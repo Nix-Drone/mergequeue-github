@@ -679,7 +679,6 @@ geopositive
 gunshots
 gnathonize
 gadaea
-geodesy
 galliot
 galliots
 gurnets
@@ -4377,6 +4376,7 @@ gearings
 geyseric
 gynarchies
 gyne
+geodesy
 generableness
 glibbest
 glower
