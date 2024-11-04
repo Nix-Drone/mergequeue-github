@@ -2650,7 +2650,6 @@ gendarmes
 gender
 genderer
 genders
-ghoulie
 geneal
 genealogic
 genealogical
@@ -7494,6 +7493,7 @@ governed
 governessdom
 governesses
 governessy
+ghoulie
 governing
 governingly
 got
