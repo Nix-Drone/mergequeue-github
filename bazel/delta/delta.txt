@@ -10578,7 +10578,6 @@ diplokaryon
 diploma
 diplomaed
 diplomaing
-diplomas
 diplomat
 diplomata
 diplomate
@@ -18505,6 +18504,7 @@ disquieting
 durmast
 durmasts
 durndest
+diplomas
 durned
 durneder
 durnedest
