@@ -104,7 +104,6 @@ forequoted
 facie
 freeport
 fibroelastic
-faciend
 faciends
 facient
 faciest
@@ -7583,6 +7582,7 @@ foreclosures
 forecome
 forecommend
 foreconceive
+faciend
 formalism
 foreconclude
 flops
