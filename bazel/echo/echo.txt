@@ -6680,7 +6680,6 @@ enuring
 enterology
 enterologic
 enteromegaly
-enteromegalia
 enteromesenteric
 enteromyiasis
 enteromorpha
@@ -7673,6 +7672,7 @@ epicoeliac
 epicoelian
 epicoeloma
 epicoelous
+enteromegalia
 ep
 ecbolics
 elephas
