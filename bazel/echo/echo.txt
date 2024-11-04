@@ -3528,7 +3528,6 @@ embole
 exposal
 embolectomy
 embolectomies
-embolemia
 emboli
 emboly
 emboliform
@@ -11546,6 +11545,7 @@ evictor
 epulones
 evictors
 evicts
+embolemia
 evidence
 evidences
 evidencing
