@@ -2179,7 +2179,6 @@ bowlines
 bannockburn
 bannocks
 bannut
-banovina
 banquet
 banqueted
 banqueter
@@ -14617,6 +14616,7 @@ blighter
 backworm
 brassier
 blaver
+banovina
 brassieres
 bariums
 brassies
