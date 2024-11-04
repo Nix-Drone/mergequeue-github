@@ -5553,7 +5553,6 @@ blockline
 bejewelled
 barricading
 bejewelling
-bejewels
 backstamp
 beadhouses
 bestowed
@@ -8484,6 +8483,7 @@ bikie
 biking
 bikini
 bathyscape
+bejewels
 bikinied
 bikinis
 blackcoat
