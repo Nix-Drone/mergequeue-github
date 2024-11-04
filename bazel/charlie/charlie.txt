@@ -7533,7 +7533,6 @@ cercises
 cercocebus
 cercolabes
 cercolabidae
-cercomonad
 cercomonadidae
 cercopid
 continent
@@ -15808,6 +15807,7 @@ clead
 cleaded
 cleading
 cleam
+cercomonad
 cleamer
 clean
 cleanable
