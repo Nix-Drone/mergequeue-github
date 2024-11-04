@@ -9449,6 +9449,7 @@ digesture
 diggable
 destrer
 digged
+disroof
 digger
 digging
 dight
@@ -13405,7 +13406,6 @@ disrobers
 danseur
 disrobes
 disrobing
-disroof
 disroost
 disrooted
 didymous
