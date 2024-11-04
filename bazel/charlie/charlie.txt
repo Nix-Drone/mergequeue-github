@@ -8381,7 +8381,6 @@ chalking
 chalklike
 chalkline
 chalkone
-chalkos
 chalkosideric
 chalkotheke
 chalkpit
@@ -12470,6 +12469,7 @@ chromodermatosis
 chromodiascope
 chromogen
 chromogene
+chalkos
 chromogenesis
 chromogenetic
 chromogenous
