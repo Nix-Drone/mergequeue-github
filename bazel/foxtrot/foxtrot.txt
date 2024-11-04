@@ -5532,7 +5532,6 @@ flyback
 flyball
 flybane
 flibbertigibbety
-flybelt
 flybelts
 flyby
 flybys
@@ -11077,6 +11076,7 @@ fumingly
 fossilize
 fumish
 fumishing
+flybelt
 fecundities
 fermented
 fierasferoid
