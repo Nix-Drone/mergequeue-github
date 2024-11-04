@@ -4580,7 +4580,6 @@ encephalomalacosis
 encephalomalaxis
 encephalomas
 encephalomeningocele
-encephalometric
 encephalomyelitic
 encephalomyelitis
 erucin
@@ -7982,6 +7981,7 @@ epimacus
 encephalogram
 epimandibular
 enthrone
+encephalometric
 epimanikia
 epimanikion
 epimedium
