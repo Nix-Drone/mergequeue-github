@@ -6330,7 +6330,6 @@ dermogastric
 dermographia
 dermohemal
 dermohemia
-dermohumeral
 dermoid
 dermoidal
 dermoidectomy
@@ -9594,6 +9593,7 @@ dihydrochloride
 dihydrocuprin
 dollyman
 dihydroergotamine
+dermohumeral
 dihydrogen
 dihydrol
 dihydromorphinone
