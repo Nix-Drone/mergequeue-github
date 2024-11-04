@@ -14740,7 +14740,6 @@ cystorrhea
 cystosarcoma
 cystoschisis
 cystoscope
-cystoscopic
 cystoscopies
 cystose
 cystosyrinx
@@ -24657,6 +24656,7 @@ copperleaf
 coppernosed
 copperplate
 copperplated
+cystoscopic
 coppersidesman
 copperskin
 ciderist
