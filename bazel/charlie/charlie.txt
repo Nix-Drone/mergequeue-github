@@ -3056,7 +3056,6 @@ capes
 capeskin
 capeskins
 capetian
-cede
 capetown
 cacochymic
 capeweed
@@ -16640,6 +16639,7 @@ coachwork
 clorargyrite
 clorinator
 clos
+cede
 closable
 close
 closecross
