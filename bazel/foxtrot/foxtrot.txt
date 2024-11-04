@@ -212,7 +212,6 @@ factorization
 fab
 factorizations
 fluviose
-factorize
 factorized
 factorizing
 factors
@@ -4739,6 +4738,7 @@ flangers
 fountainless
 frere
 flagellators
+factorize
 filipino
 floorer
 faucets
