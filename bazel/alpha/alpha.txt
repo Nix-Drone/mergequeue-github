@@ -7850,7 +7850,6 @@ alembicated
 alembics
 alembroth
 alemite
-alemmal
 alen
 alencon
 alencons
@@ -14362,6 +14361,7 @@ aspalathus
 antherozoid
 antherozooid
 antherozooidal
+alemmal
 anthers
 antheses
 anthesis
