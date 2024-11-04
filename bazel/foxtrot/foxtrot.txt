@@ -1349,7 +1349,6 @@ frogskins
 fasts
 fastuous
 fastuousness
-fastwalk
 fat
 fatagaga
 fecklessness
@@ -5630,6 +5629,7 @@ flinch
 flagleaf
 freighters
 forgone
+fastwalk
 flinched
 flincher
 flinching
