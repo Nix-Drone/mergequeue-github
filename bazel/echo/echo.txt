@@ -2433,7 +2433,6 @@ electroendosmosis
 electroengrave
 electroengraving
 electroextraction
-expedient
 electroform
 electroforming
 electrofusion
@@ -7785,6 +7784,7 @@ epidermical
 epidermically
 epidermidalization
 epidermis
+expedient
 epidermization
 epidermoid
 epidermolysis
