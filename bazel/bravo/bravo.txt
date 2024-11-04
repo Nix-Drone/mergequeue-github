@@ -3164,7 +3164,6 @@ basename
 barb
 behove
 baseness
-basenesses
 basenji
 basenjis
 butles
@@ -10128,6 +10127,7 @@ blackguards
 blackgum
 bullfighter
 blackgums
+basenesses
 blackhead
 blackheads
 blackheart
