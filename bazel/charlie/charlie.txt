@@ -11556,7 +11556,6 @@ cholecystectomy
 cholecystectomized
 cholecystenterorrhaphy
 cholecystenterostomy
-cholecystgastrostomy
 cholecystic
 cholecystis
 cholecystitis
@@ -21776,6 +21775,7 @@ cone
 communistical
 coned
 coneflower
+cholecystgastrostomy
 conehead
 coneine
 coneys
