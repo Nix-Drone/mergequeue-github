@@ -3479,7 +3479,6 @@ fightable
 forel
 fighteress
 fanwort
-fighting
 fightingly
 fights
 figitidae
@@ -7154,6 +7153,7 @@ footed
 footeite
 fenouillette
 footer
+fighting
 flubdubs
 footers
 footfall
