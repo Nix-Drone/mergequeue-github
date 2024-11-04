@@ -507,7 +507,6 @@ abjuration
 abjurations
 abjuratory
 abjure
-abjured
 abjurement
 abjurer
 abjurers
@@ -8928,6 +8927,7 @@ allosterically
 allotee
 athetosis
 allotelluric
+abjured
 allotheria
 atheous
 allothigene
