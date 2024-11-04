@@ -12464,6 +12464,7 @@ anelasticity
 anele
 anelectric
 anelectrode
+axoidean
 anelectrotonus
 aneled
 aneles
@@ -25170,7 +25171,6 @@ axodendrite
 axofugal
 axogamy
 axoid
-axoidean
 axolemma
 axolysis
 axolotls
