@@ -4379,7 +4379,6 @@ enameling
 enolization
 enamelist
 enamellar
-equiped
 enamellers
 enamelless
 enamels
@@ -12771,6 +12770,7 @@ endoplasm
 exorcises
 epiglottis
 exorcising
+equiped
 excessive
 exorcism
 exorcisory
