@@ -564,6 +564,7 @@ damage
 damageability
 damageably
 damaged
+dentimeter
 damagement
 damageous
 dao
@@ -5388,7 +5389,6 @@ dentiloguy
 dentiloquy
 dentiloquist
 dubhe
-dentimeter
 dentinal
 dentinalgia
 dentinasal
