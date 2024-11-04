@@ -8061,7 +8061,6 @@ grantia
 grantiidae
 goldhammer
 grantor
-grantors
 grantsman
 grantsmen
 gassings
@@ -10188,6 +10187,7 @@ guild
 gharry
 guilder
 graver
+grantors
 ghoul
 guildhall
 guilds
