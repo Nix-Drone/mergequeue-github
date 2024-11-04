@@ -2437,6 +2437,7 @@ designs
 decyne
 decinormal
 decipher
+dexiotropic
 dispenser
 decipherability
 decipherable
@@ -7872,7 +7873,6 @@ dexes
 dexies
 dexiocardia
 dexiotrope
-dexiotropic
 dexiotropism
 dexter
 dexterous
