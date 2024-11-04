@@ -3178,7 +3178,6 @@ elsewhen
 elsewhere
 elsewheres
 elsholtzia
-elsin
 elt
 eltrot
 eluant
@@ -10271,6 +10270,7 @@ etherifying
 embryoscope
 eliza
 etheriidae
+elsin
 emboweled
 emphasizes
 etherion
