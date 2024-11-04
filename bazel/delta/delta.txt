@@ -9336,7 +9336,6 @@ demibob
 doddle
 difficulties
 difficultly
-difficultness
 diffide
 diffidentness
 dentirostres
@@ -16450,6 +16449,7 @@ dozener
 dozens
 dozent
 dozenth
+difficultness
 dimorphous
 disports
 dozenths
