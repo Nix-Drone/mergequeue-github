@@ -6681,7 +6681,6 @@ enterology
 enterologic
 enteromegaly
 enteromegalia
-enteromesenteric
 enteromyiasis
 enteromorpha
 enteroneuritis
@@ -13299,6 +13298,7 @@ esthesiometry
 exsanguinity
 exposition
 expositional
+enteromesenteric
 expositions
 expositive
 expositively
