@@ -2296,6 +2296,7 @@ decephalization
 decephalize
 deceptibility
 deceptible
+detuning
 deceptional
 dewans
 deceptions
@@ -7387,7 +7388,6 @@ dissocialize
 detumescent
 detune
 detuned
-detuning
 detur
 deturn
 deturpate
