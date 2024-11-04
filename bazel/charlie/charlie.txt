@@ -8938,7 +8938,6 @@ characterstring
 charade
 charadrii
 charadriiform
-charadriiformes
 charadrine
 charadrioid
 charadriomorphae
@@ -9577,6 +9576,7 @@ checksum
 construct
 checksummed
 checksumming
+charadriiformes
 checkup
 checkups
 checkweigher
