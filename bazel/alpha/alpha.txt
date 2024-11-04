@@ -4046,7 +4046,6 @@ adjuvant
 adjuvants
 adlai
 ambassage
-adlegation
 adlerian
 adless
 adlet
@@ -22810,6 +22809,7 @@ anisospore
 atop
 alcelaphus
 atopen
+adlegation
 atophan
 atopy
 atopic
