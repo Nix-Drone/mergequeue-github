@@ -5408,7 +5408,6 @@ fleets
 fleetwing
 flegm
 fley
-fleyed
 flocci
 fleyedly
 fleing
@@ -8025,6 +8024,7 @@ forespeech
 forespencer
 forespoke
 forespoken
+fleyed
 forest
 forthteller
 forestaff
