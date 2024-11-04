@@ -3418,7 +3418,6 @@ defleaed
 damnum
 defleas
 deflect
-driftfishes
 deflectable
 deflected
 deflecting
@@ -14015,6 +14014,7 @@ doggoned
 disturbances
 disturbant
 disturbation
+driftfishes
 dellies
 devisals
 disturbedly
