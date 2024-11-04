@@ -9192,7 +9192,6 @@ charvet
 charwoman
 cowards
 charwomen
-chasable
 chase
 chaseable
 chased
@@ -21859,6 +21858,7 @@ counterpanes
 conferee
 conference
 conferences
+chasable
 conferencing
 conferential
 conferment
