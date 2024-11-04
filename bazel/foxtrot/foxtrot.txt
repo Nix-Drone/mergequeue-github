@@ -8725,7 +8725,6 @@ fortify
 fortifications
 fortifier
 florets
-fortifiers
 fortifies
 fafnir
 fortifying
@@ -10127,6 +10126,7 @@ felicify
 firman
 flood
 fringiness
+fortifiers
 frypan
 frypans
 forcers
