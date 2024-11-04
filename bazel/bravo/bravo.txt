@@ -1915,7 +1915,6 @@ banderole
 biochemical
 banderoled
 banderoles
-banders
 banjara
 bandersnatch
 bandfile
@@ -2256,6 +2255,7 @@ baptizers
 buggyman
 baptizing
 baptornis
+banders
 bar
 barabara
 barabbas
