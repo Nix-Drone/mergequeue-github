@@ -7394,7 +7394,6 @@ forbids
 forbye
 forbysen
 forbite
-farfels
 florilegia
 forbled
 fading
@@ -11254,6 +11253,7 @@ fungose
 frescoists
 fungosities
 fungused
+farfels
 funguses
 fireball
 funguslike
