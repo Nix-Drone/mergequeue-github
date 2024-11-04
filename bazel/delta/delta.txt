@@ -9862,7 +9862,6 @@ dimeter
 dimeters
 dimethyl
 dimethylamine
-dimethylamino
 dimethylanthranilate
 dimethylbenzene
 disneyland
@@ -15621,6 +15620,7 @@ doorposts
 dowl
 dawdle
 doorsills
+dimethylamino
 doorstead
 didactics
 doorstep
