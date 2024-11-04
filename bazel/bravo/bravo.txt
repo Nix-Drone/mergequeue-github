@@ -2835,6 +2835,7 @@ baronets
 baronetship
 barong
 baronga
+battercake
 barongs
 barony
 bassets
@@ -3772,7 +3773,6 @@ battens
 batter
 bread
 batterable
-battercake
 batterdock
 battered
 bootstrap
