@@ -835,6 +835,7 @@ goatherd
 guessive
 galvanoscope
 gibbers
+graphemic
 groupings
 gunebo
 gladly
@@ -8150,7 +8151,6 @@ graphanalysis
 graphed
 gigabit
 grapheme
-graphemic
 glack
 governorships
 glues
