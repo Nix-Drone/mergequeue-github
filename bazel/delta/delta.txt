@@ -2676,7 +2676,6 @@ dogwatches
 decompoundable
 decompoundly
 decompress
-decompresses
 decompressing
 decompression
 detectaphone
@@ -15633,6 +15632,7 @@ doorward
 doorweed
 doorwise
 distinctional
+decompresses
 divagating
 downward
 doover
