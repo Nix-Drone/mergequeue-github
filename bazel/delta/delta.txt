@@ -4380,7 +4380,6 @@ dioptrometer
 demagnetisation
 dode
 demagnetise
-demagnetised
 demagnetiser
 demagnetising
 demagnetization
@@ -8541,6 +8540,7 @@ diaphysis
 druggists
 diaphone
 dissociate
+demagnetised
 diaphones
 diaphony
 diaphonia
