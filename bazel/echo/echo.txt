@@ -4584,7 +4584,6 @@ encephalometric
 encephalomyelitic
 encephalomyelitis
 erucin
-encephalomyelopathy
 encephalomyocarditis
 encephalopathy
 euryalae
@@ -9031,6 +9030,7 @@ eria
 erian
 estrepe
 earings
+encephalomyelopathy
 exocardial
 electropathic
 eric
