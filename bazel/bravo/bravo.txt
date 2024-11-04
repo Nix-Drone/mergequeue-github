@@ -3227,7 +3227,6 @@ buffi
 basichromatinic
 babai
 basichromiole
-basicity
 bodybuilder
 bumph
 beegerite
@@ -16922,6 +16921,7 @@ bugweed
 bugwort
 buhl
 buhlbuhl
+basicity
 bark
 buhls
 buhlwork
