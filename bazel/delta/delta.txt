@@ -4444,7 +4444,6 @@ demarked
 decollation
 demarks
 demasculinisation
-demasculinise
 demasculinised
 dognaps
 demasculinising
@@ -6208,6 +6207,7 @@ derivedness
 deriver
 derives
 discontentment
+demasculinise
 deriving
 derma
 dermabrasion
