@@ -23792,6 +23792,7 @@ contrasty
 contrastimulus
 contrasting
 contrastingly
+cataplexy
 contrastive
 contrastively
 contrastiveness
@@ -27760,7 +27761,6 @@ cpo
 cps
 cpt
 cpu
-cataplexy
 cpus
 cputime
 centriffed
