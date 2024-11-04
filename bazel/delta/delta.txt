@@ -1489,7 +1489,6 @@ deactivator
 deactivators
 defrosts
 deadborn
-deadcenter
 deeryards
 deadeye
 deaden
@@ -18199,6 +18198,7 @@ dune
 duneland
 dunelands
 dunelike
+deadcenter
 dungan
 dungannonite
 decimalisation
