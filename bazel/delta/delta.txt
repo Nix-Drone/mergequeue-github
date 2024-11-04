@@ -1459,7 +1459,6 @@ deacetylate
 defraudment
 deacetylating
 deacetylation
-deacidification
 deacidified
 deacidifying
 deaconal
@@ -13828,6 +13827,7 @@ dadding
 distillment
 distillmint
 distilment
+deacidification
 distils
 distinct
 distinctify
