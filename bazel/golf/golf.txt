@@ -3331,7 +3331,6 @@ gypsography
 gerbera
 gardencraft
 gerbil
-gerbilles
 groutnoll
 gunbearer
 gerbillus
@@ -9867,6 +9866,7 @@ guaque
 gonfanon
 guara
 glasslike
+gerbilles
 guarabu
 geometric
 gallinules
