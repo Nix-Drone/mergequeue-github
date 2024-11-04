@@ -5818,6 +5818,7 @@ depopularize
 depopulates
 depopulating
 depopulation
+diatomous
 depopulative
 decastich
 depopulator
@@ -8713,7 +8714,6 @@ diatomicity
 diatomin
 diatomine
 diatomist
-diatomous
 diatoms
 diatonic
 diatonical
