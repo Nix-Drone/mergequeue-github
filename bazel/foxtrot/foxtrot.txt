@@ -2067,7 +2067,6 @@ feinschmecker
 filacer
 feinted
 feinter
-forestlike
 feinting
 feis
 flatlander
@@ -7370,6 +7369,7 @@ forby
 forewarnings
 faunlike
 foreparent
+forestlike
 foreplot
 forbid
 forebodingly
