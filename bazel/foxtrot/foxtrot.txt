@@ -1070,6 +1070,7 @@ farls
 fetal
 farm
 fantad
+facer
 freshening
 furriners
 farmable
@@ -7147,7 +7148,6 @@ frustulum
 footcandle
 footcloths
 finedraw
-facer
 figwort
 foeniculum
 footed
