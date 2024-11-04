@@ -4905,7 +4905,6 @@ flameout
 flameouts
 flameproof
 formulize
-flameproofer
 flintlocks
 finfishes
 flamer
@@ -6587,6 +6586,7 @@ fluxes
 fire
 fluxgraph
 fob
+flameproofer
 frack
 furile
 fluxible
