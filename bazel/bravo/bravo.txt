@@ -14950,6 +14950,7 @@ betainogen
 breech
 breechblock
 breechcloth
+bulks
 brimfull
 breechcloths
 breechclout
@@ -17051,7 +17052,6 @@ bulkiness
 backstroking
 brickset
 bulkish
-bulks
 bull
 bullace
 bullaces
