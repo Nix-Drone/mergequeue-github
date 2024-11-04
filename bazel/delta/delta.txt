@@ -564,6 +564,7 @@ damage
 damageability
 damageably
 damaged
+defacer
 damagement
 damageous
 dao
@@ -3125,7 +3126,6 @@ defacement
 defacements
 diffractive
 dunderhead
-defacer
 delible
 defacers
 depositation
