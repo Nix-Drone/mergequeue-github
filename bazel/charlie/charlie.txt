@@ -19726,7 +19726,6 @@ comburimeter
 comburivorous
 combust
 combusted
-corotation
 combustibilities
 combustible
 combustibleness
@@ -27186,6 +27185,7 @@ counterwind
 counterwitness
 crushableness
 counterwork
+corotation
 counterworker
 counterworking
 counterwrite
