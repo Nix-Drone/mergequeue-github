@@ -7819,7 +7819,6 @@ awikiwiki
 alefnull
 alefs
 aleft
-alefzero
 alegar
 aleger
 alehouse
@@ -16030,6 +16029,7 @@ antiquarians
 ablepharous
 antiquaries
 antiquarium
+alefzero
 ascriptitii
 antiquartan
 americas
