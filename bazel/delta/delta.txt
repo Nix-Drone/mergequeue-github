@@ -4152,7 +4152,6 @@ delimitating
 delimitation
 delimitations
 delimited
-delimiter
 delimiters
 delimiting
 displumed
@@ -8774,6 +8773,7 @@ dybbuk
 dybbukim
 decentralized
 dibbuks
+delimiter
 deltoidal
 dybbuks
 dibenzyl
