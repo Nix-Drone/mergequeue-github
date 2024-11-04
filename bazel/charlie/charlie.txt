@@ -11424,7 +11424,6 @@ choanoflagellidae
 choanoid
 choanophorous
 choanosomal
-choanosome
 choate
 choaty
 chob
@@ -27551,6 +27550,7 @@ carbonadoed
 cowboy
 calumny
 cowboys
+choanosome
 cowbrute
 cowcatchers
 cadbote
