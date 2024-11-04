@@ -7903,7 +7903,6 @@ fixers
 forequarter
 forequarters
 fraidycat
-fleet
 forerake
 figural
 fideles
@@ -9613,6 +9612,7 @@ frazzles
 frazzling
 frden
 filariidae
+fleet
 freakdom
 fentanyl
 freaked
