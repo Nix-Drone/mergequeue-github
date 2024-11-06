@@ -4638,6 +4638,7 @@ flannelleaf
 fixt
 fusiformis
 fixtureless
+follower
 farming
 fixup
 fixups
@@ -6972,7 +6973,6 @@ fatheads
 follow
 followable
 followed
-follower
 foisting
 followers
 followingly
