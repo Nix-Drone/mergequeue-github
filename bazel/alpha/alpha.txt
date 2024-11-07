@@ -3495,7 +3495,6 @@ addict
 addicted
 antiknocks
 addictedness
-activable
 addicting
 addictions
 addictive
@@ -20203,6 +20202,7 @@ arrearage
 arrearages
 arrears
 arrect
+activable
 arrector
 alumetize
 arrendation
